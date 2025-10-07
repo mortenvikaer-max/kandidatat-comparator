@@ -7,7 +7,7 @@
 
   <!-- Tailwind CSS -->
   <script src="https://cdn.tailwindcss.com"></script>
-  <!-- PapaParse til CSV -->
+  <!-- PapaParse -->
   <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
   <!-- Chart.js -->
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
@@ -25,26 +25,30 @@
       <div>
         <h1 class="text-2xl font-semibold tracking-tight">Kandidat-Comparator</h1>
         <p class="text-sm text-gray-600">
-          Vælg kommune → parti → kandidater. Siden sammenligner kandidaternes stemmer på
-          <span class="font-medium">alle valgsteder i kommunen</span>. Data hentes fra
-          <code>/data/&lt;Kommune&gt;_allepartier.csv</code> (eller <code>/data/&lt;Kommune&gt;.csv</code>).
+          Vælg <strong>region</strong> → <strong>kommune</strong> → (valgfrit) <strong>parti-filter</strong> → <strong>kandidater</strong>.
+          Siden sammenligner kandidaternes stemmer på <span class="font-medium">alle valgsteder i kommunen</span>.
+          Data hentes fra <code>/data/&lt;Kommune&gt;_allepartier.csv</code> (eller <code>/data/&lt;Kommune&gt;.csv</code>).
         </p>
       </div>
       <button id="btn-help" class="chip">Skema & hjælp</button>
     </header>
 
-    <!-- 1) Kommune & parti valg -->
+    <!-- 1) Region, kommune & parti valg -->
     <section class="bg-white rounded-2xl shadow-sm border p-4 space-y-3">
-      <h2 class="font-medium">Vælg kommune og parti</h2>
-      <div class="grid grid-cols-1 md:grid-cols-3 gap-3">
+      <h2 class="font-medium">Vælg region, kommune og (valgfrit) parti</h2>
+      <div class="grid grid-cols-1 md:grid-cols-4 gap-3">
         <div>
-          <label class="text-sm font-medium">Kommune</label>
-          <select id="kommuneSelect" class="w-full mt-1 rounded-xl border p-2"></select>
+          <label class="text-sm font-medium">Region</label>
+          <select id="regionSelect" class="w-full mt-1 rounded-xl border p-2"></select>
         </div>
         <div>
-          <label class="text-sm font-medium">Parti</label>
+          <label class="text-sm font-medium">Kommune</label>
+          <select id="kommuneSelect" class="w-full mt-1 rounded-xl border p-2" disabled></select>
+        </div>
+        <div>
+          <label class="text-sm font-medium">Parti (filter)</label>
           <select id="partiSelect" class="w-full mt-1 rounded-xl border p-2" disabled>
-            <option value="">Vælg kommune først</option>
+            <option value="">Alle partier</option>
           </select>
         </div>
         <div>
@@ -58,11 +62,28 @@
     <!-- 2) Vælg kandidater -->
     <section class="bg-white rounded-2xl shadow-sm border p-4 space-y-3">
       <div class="flex items-center justify-between">
-        <h2 class="font-medium">Vælg kandidater fra det valgte parti</h2>
+        <h2 class="font-medium">Vælg kandidater (på tværs af partier)</h2>
         <button id="btn-clear" class="chip">Nulstil valg</button>
       </div>
       <div id="kandidater" class="grid md:grid-cols-2 lg:grid-cols-3 gap-2 max-h-80 overflow-auto p-1"></div>
       <div class="text-sm text-gray-600">Valgt: <span id="selCount">0</span></div>
+    </section>
+
+    <!-- 2b) Opsummering – samlede stemmer pr. kandidat -->
+    <section class="bg-white rounded-2xl shadow-sm border p-4 space-y-3">
+      <h2 class="font-medium">Opsummering (samlede stemmer)</h2>
+      <div class="overflow-auto">
+        <table class="w-full text-sm" id="summaryTable">
+          <thead>
+            <tr class="text-left border-b">
+              <th class="py-2 pr-2">Kandidat</th>
+              <th class="py-2 pr-2">Parti</th>
+              <th class="py-2 pr-2">Totale stemmer</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
     </section>
 
     <!-- 3) Sideløbende sammenligning -->
@@ -97,13 +118,13 @@
   </div>
 
   <script>
-    // ---------- Fejlvisning (hjælper ved tom dropdown) ----------
+    // ---- Fejlvisning (hjælper ved tom dropdown) ----
     window.addEventListener('error', (e) => {
       const box = document.getElementById('error');
       if (box) box.textContent = 'Fejl i JavaScript: ' + e.message;
     });
 
-    // ---------- KONFIG: alle 98 kommuner grupperet pr. region ----------
+    // ---- Regioner & kommuner ----
     const REGIONS = {
       "Region Hovedstaden": [
         "Albertslund","Allerød","Ballerup","Bornholm","Brøndby","Dragør","Egedal",
@@ -131,94 +152,119 @@
       ]
     };
 
-    // ---------- STATE ----------
+    // ---- STATE ----
     const state = {
-      rows: [],            // alle rækker fra aktuel kommune-fil
-      parti: "",           // valgt parti
+      rows: [],            // rækker for valgt kommune
+      region: "",
+      kommune: "",
+      partiFilter: "",     // tom = alle partier
       search: "",
       selected: new Map(), // kandidat_id -> {id, navn, parti}
       chart: null,
     };
+
     const el = (id) => document.getElementById(id);
     const canonical = (s) => (s || "").toString().trim();
     const fmt = (n) => new Intl.NumberFormat("da-DK").format(n);
+    const isListestemmer = (name) => canonical(name).toLowerCase() === "listestemmer";
     const escapeHtml = (s) => (s||"").replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 
-    // ---------- INIT ----------
+    // special-sortering med "Listestemmer" sidst
+    const sortCandidates = (a, b) => {
+      const aIsList = isListestemmer(a.kandidat_navn);
+      const bIsList = isListestemmer(b.kandidat_navn);
+      if (aIsList && !bIsList) return 1;
+      if (!aIsList && bIsList) return -1;
+      return a.kandidat_navn.localeCompare(b.kandidat_navn, "da");
+    };
+
+    // ---- INIT ----
     window.addEventListener("DOMContentLoaded", () => {
-      initKommuneDropdown();
+      initRegionDropdown();
       initTabs();
       bindUI();
 
-      // Sæt fra URL ?kommune=...
+      // URL-params (valgfrit): ?region=...&kommune=...
       const params = new URLSearchParams(window.location.search);
+      const r = params.get("region");
       const k = params.get("kommune");
-      if (k) {
-        el("kommuneSelect").value = k;
-        loadKommuneData(k);
+
+      if (r && REGIONS[r]) {
+        el("regionSelect").value = r;
+        populateKommuner(r);
+        if (k && REGIONS[r].includes(k)) {
+          el("kommuneSelect").value = k;
+          loadKommuneData(k);
+        }
       }
     });
 
-    function initKommuneDropdown() {
-      const sel = el("kommuneSelect");
-      let html = `<option value="">Vælg kommune…</option>`;
-      for (const [region, kommuner] of Object.entries(REGIONS)) {
-        html += `<optgroup label="${region}">` +
-          kommuner.map(k => `<option value="${k}">${k}</option>`).join("") +
-          `</optgroup>`;
-      }
-      sel.innerHTML = html;
-
-      sel.onchange = () => {
-        const k = sel.value;
+    // ---- Dropdowns ----
+    function initRegionDropdown() {
+      const rsel = el("regionSelect");
+      rsel.innerHTML = `<option value="">Vælg region…</option>` +
+        Object.keys(REGIONS).map(r => `<option value="${r}">${r}</option>`).join("");
+      rsel.onchange = () => {
+        const r = rsel.value;
+        state.region = r;
+        state.kommune = "";
         // nulstil afhængigheder
-        el("partiSelect").innerHTML = `<option value="">Indlæser…</option>`;
+        el("kommuneSelect").innerHTML = `<option value="">Vælg region først</option>`;
+        el("kommuneSelect").disabled = !r;
+        el("partiSelect").innerHTML = `<option value="">Alle partier</option>`;
         el("partiSelect").disabled = true;
         el("search").value = ""; el("search").disabled = true;
-        state.selected.clear(); renderSelectedCount();
-        renderCandidateList([]); renderPsTable([], []); resetChart();
+        state.selected.clear(); renderAll();
 
+        if (r) populateKommuner(r);
+      };
+      // første gang: disable kommune select
+      el("kommuneSelect").disabled = true;
+    }
+
+    function populateKommuner(region) {
+      const ksel = el("kommuneSelect");
+      const kommuner = REGIONS[region] || [];
+      ksel.innerHTML = `<option value="">Vælg kommune…</option>` +
+        kommuner.map(k => `<option value="${k}">${k}</option>`).join("");
+      ksel.onchange = () => {
+        const k = ksel.value;
+        state.kommune = k;
+        state.selected.clear(); renderAll();
         if (k) {
           const url = new URL(window.location.href);
-          url.searchParams.set("kommune", k); history.replaceState({}, "", url);
+          url.searchParams.set("region", state.region);
+          url.searchParams.set("kommune", k);
+          history.replaceState({}, "", url);
           loadKommuneData(k);
+        } else {
+          // nulstil visninger
+          state.rows = [];
+          el("partiSelect").disabled = true;
+          el("search").disabled = true;
+          renderAll();
         }
       };
     }
 
+    // ---- UI binding ----
     function bindUI() {
       el("partiSelect").onchange = () => {
-        state.parti = el("partiSelect").value || "";
-        state.selected.clear(); renderSelectedCount();
-        refreshCandidatesUI();
-        renderPsTable(getPollingStations(), getSelected());
-        renderChart();
+        state.partiFilter = el("partiSelect").value || "";
+        state.selected.clear();
+        renderAll();
       };
-      el("search").oninput = (e) => { state.search = e.target.value; refreshCandidatesUI(); };
-      el("btn-clear").onclick = () => {
-        state.selected.clear(); renderSelectedCount();
-        refreshCandidatesUI(); renderPsTable(getPollingStations(), getSelected()); renderChart();
-      };
+      el("search").oninput = (e) => { state.search = e.target.value; renderCandidates(); };
+      el("btn-clear").onclick = () => { state.selected.clear(); renderAll(); };
       el("btn-help").onclick = () => alert(
         "CSV-skema:\nkommune, valgsted_id, valgsted_navn, kandidat_id, kandidat_navn, parti, stemmer\n\n"+
         "Filnavn: data/<Kommune>_allepartier.csv (eller data/<Kommune>.csv).\n"+
-        "Flow: Vælg kommune → parti → kandidater. Tabel & diagram viser stemmer pr. valgsted."
+        "Flow: Region → Kommune → (valgfrit) Parti → Kandidater. Opsummering viser totale stemmer. Tabel/diagram viser pr. valgsted.\n"+
+        "Bemærk: 'Listestemmer' vises altid sidst."
       );
     }
 
-    function initTabs() {
-      for (const b of document.querySelectorAll("[data-tab]")) {
-        b.onclick = () => {
-          document.querySelectorAll("[data-tab]").forEach(x=>x.classList.remove("active"));
-          b.classList.add("active");
-          const t = b.getAttribute("data-tab");
-          document.getElementById("tab-valgsted-tabel").classList.toggle("hidden", t !== "valgsted-tabel");
-          document.getElementById("tab-valgsted-diagram").classList.toggle("hidden", t !== "valgsted-diagram");
-        };
-      }
-    }
-
-    // ---------- DATA INDLÆSNING ----------
+    // ---- Dataindlæsning ----
     async function loadKommuneData(kommune) {
       el("error").textContent = "";
       const candidates = [
@@ -252,46 +298,72 @@
     }
 
     function afterDataLoaded() {
-      // udfyld parti dropdown ud fra data
+      // udfyld parti-dropdown (filter)
       const partier = Array.from(new Set(state.rows.map(r => r.parti))).sort();
       const psel = el("partiSelect");
-      psel.innerHTML = `<option value="">Vælg parti…</option>` + partier.map(p => `<option value="${p}">${p}</option>`).join("");
+      psel.innerHTML = `<option value="">Alle partier</option>` + partier.map(p => `<option value="${p}">${p}</option>`).join("");
       psel.disabled = false;
       el("search").disabled = false;
-      // nulstil visninger
-      state.parti = ""; state.search = ""; state.selected.clear(); renderSelectedCount();
-      renderCandidateList([]); renderPsTable([], []); resetChart();
+
+      state.partiFilter = "";
+      state.search = "";
+      state.selected.clear();
+      renderAll();
     }
 
-    // ---------- UI: KANDIDATER ----------
-    function getCandidatesForCurrentParty() {
+    // ---- Derived data ----
+    function getAllCandidatesFiltered() {
       const q = (state.search || "").toLowerCase();
       const list = [];
       const seen = new Set();
       for (const r of state.rows) {
-        if (!state.parti || r.parti !== state.parti) continue;
+        if (state.partiFilter && r.parti !== state.partiFilter) continue;
         if (seen.has(r.kandidat_id)) continue;
         seen.add(r.kandidat_id);
         list.push({ kandidat_id: r.kandidat_id, kandidat_navn: r.kandidat_navn, parti: r.parti });
       }
+      // filter på søgning + special-sortering (listestemmer sidst)
       return list
-        .filter(k => !q || k.kandidat_navn.toLowerCase().includes(q))
-        .sort((a,b) => a.kandidat_navn.localeCompare(b.kandidat_navn, "da"));
+        .filter(k => !q || (k.kandidat_navn + " " + k.parti).toLowerCase().includes(q))
+        .sort(sortCandidates);
     }
 
-    function refreshCandidatesUI() {
-      const list = getCandidatesForCurrentParty();
-      renderCandidateList(list);
+    function getPollingStations() {
+      const m = new Map(); // id -> {id, navn, [kandidat_id]:stemmer}
+      for (const r of state.rows) {
+        if (!m.has(r.valgsted_id)) m.set(r.valgsted_id, { id: r.valgsted_id, navn: r.valgsted_navn });
+        const ps = m.get(r.valgsted_id);
+        ps[r.kandidat_id] = (ps[r.kandidat_id] || 0) + r.stemmer;
+      }
+      return Array.from(m.values()).sort((a,b)=> a.navn.localeCompare(b.navn,"da"));
     }
 
-    function renderCandidateList(list) {
+    function computeTotalsByCandidate() {
+      const totals = new Map();
+      for (const r of state.rows) {
+        totals.set(r.kandidat_id, (totals.get(r.kandidat_id) || 0) + r.stemmer);
+      }
+      return totals;
+    }
+
+    // ---- Rendering ----
+    function renderAll() {
+      renderCandidates();
+      renderSummary();
+      renderPsTable(getPollingStations(), getSelectedOrdered());
+      renderChart();
+      renderSelectedCount();
+    }
+
+    function renderCandidates() {
       const root = el("kandidater");
       root.innerHTML = "";
-      if (!state.parti) {
-        root.innerHTML = `<div class="text-sm text-gray-500">Vælg først et parti.</div>`;
+      if (!state.rows.length) {
+        root.innerHTML = `<div class="text-sm text-gray-500">Vælg først en kommune.</div>`;
         return;
       }
-      if (list.length === 0) {
+      const list = getAllCandidatesFiltered();
+      if (!list.length) {
         root.innerHTML = `<div class="text-sm text-gray-500">Ingen kandidater matcher.</div>`;
         return;
       }
@@ -306,9 +378,7 @@
         label.querySelector("input").onchange = () => {
           if (state.selected.has(k.kandidat_id)) state.selected.delete(k.kandidat_id);
           else state.selected.set(k.kandidat_id, k);
-          renderSelectedCount();
-          renderPsTable(getPollingStations(), getSelected());
-          renderChart();
+          renderAll();
         };
         root.appendChild(label);
       }
@@ -316,19 +386,29 @@
 
     function renderSelectedCount(){ el("selCount").textContent = state.selected.size; }
     function getSelected(){ return Array.from(state.selected.values()); }
-
-    // ---------- VALGSTED-DATA ----------
-    function getPollingStations() {
-      const m = new Map(); // id -> {id, navn, [kandidat_id]:stemmer}
-      for (const r of state.rows) {
-        if (!m.has(r.valgsted_id)) m.set(r.valgsted_id, { id: r.valgsted_id, navn: r.valgsted_navn });
-        const ps = m.get(r.valgsted_id);
-        ps[r.kandidat_id] = (ps[r.kandidat_id] || 0) + r.stemmer;
-      }
-      return Array.from(m.values()).sort((a,b)=> a.navn.localeCompare(b.navn,"da"));
+    function getSelectedOrdered(){
+      const sel = getSelected().slice();
+      sel.sort(sortCandidates);
+      return sel;
     }
 
-    // ---------- TABEL PR. VALGSTED ----------
+    // Opsummering (samlede stemmer)
+    function renderSummary() {
+      const totals = computeTotalsByCandidate();
+      const tbody = document.querySelector("#summaryTable tbody");
+      const selectedList = getSelectedOrdered().map(k => ({
+        ...k, total: totals.get(k.kandidat_id) || 0
+      }));
+      tbody.innerHTML =
+        selectedList.map(s => `<tr class="border-b last:border-0">
+          <td class="py-2 pr-2">${escapeHtml(s.kandidat_navn)}</td>
+          <td class="py-2 pr-2">${escapeHtml(s.parti)}</td>
+          <td class="py-2 pr-2 tabular-nums">${fmt(s.total)}</td>
+        </tr>`).join("") ||
+        `<tr><td colspan="3" class="py-6 text-center text-gray-500">Vælg mindst én kandidat ovenfor.</td></tr>`;
+    }
+
+    // Tabel pr. valgsted
     function renderPsTable(psList, sel) {
       const thead = el("psThead");
       const tbody = el("psTbody");
@@ -337,28 +417,28 @@
         tbody.innerHTML = `<tr><td class="py-4 text-center text-gray-500" colspan="1">Vælg mindst én kandidat.</td></tr>`;
         return;
       }
-
-      // header: Valgsted + kolonne pr. kandidat
       thead.innerHTML =
         `<tr class="text-left border-b">
            <th class="py-2 pr-3 bg-white">Valgsted</th>
            ${sel.map(s => `<th class="py-2 pr-3">${escapeHtml(s.kandidat_navn)} (${escapeHtml(s.parti)})</th>`).join("")}
+           <th class="py-2 pr-3">Total</th>
          </tr>`;
 
-      // rows: et per valgsted
       tbody.innerHTML = psList.map(ps => {
-        const cells = sel.map(s => `<td class="py-2 pr-3 tabular-nums">${fmt(ps[s.kandidat_id] || 0)}</td>`).join("");
+        const cells = sel.map(s => ps[s.kandidat_id] || 0);
+        const sum = cells.reduce((a,b)=>a+b,0);
         return `<tr class="border-b last:border-0">
                   <td class="py-2 pr-3 font-medium bg-white">${escapeHtml(ps.navn)}</td>
-                  ${cells}
+                  ${cells.map(v => `<td class="py-2 pr-3 tabular-nums">${fmt(v)}</td>`).join("")}
+                  <td class="py-2 pr-3 tabular-nums font-medium">${fmt(sum)}</td>
                 </tr>`;
       }).join("");
     }
 
-    // ---------- DIAGRAM PR. VALGSTED ----------
+    // Diagram pr. valgsted
     function renderChart() {
       const canvas = document.getElementById("chart");
-      const sel = getSelected();
+      const sel = getSelectedOrdered();
       if (!sel.length) { resetChart(); return; }
       const ps = getPollingStations();
       const labels = ps.map(x => x.navn);
@@ -374,6 +454,19 @@
       });
     }
     function resetChart(){ if (state.chart) { state.chart.destroy(); state.chart = null; } }
+
+    // Tabs
+    function initTabs() {
+      for (const b of document.querySelectorAll("[data-tab]")) {
+        b.onclick = () => {
+          document.querySelectorAll("[data-tab]").forEach(x=>x.classList.remove("active"));
+          b.classList.add("active");
+          const t = b.getAttribute("data-tab");
+          document.getElementById("tab-valgsted-tabel").classList.toggle("hidden", t !== "valgsted-tabel");
+          document.getElementById("tab-valgsted-diagram").classList.toggle("hidden", t !== "valgsted-diagram");
+        };
+      }
+    }
   </script>
 </body>
 </html>
