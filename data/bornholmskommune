@@ -1,0 +1,991 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Bornholm,1,Allinge,,Anne Jensen,Socialdemokratiet,6
+Bornholm,2,Ã˜stermarie,,Anne Jensen,Socialdemokratiet,25
+Bornholm,3,Svaneke,,Anne Jensen,Socialdemokratiet,5
+Bornholm,4,NexÃ¸,,Anne Jensen,Socialdemokratiet,8
+Bornholm,5,Pedersker,,Anne Jensen,Socialdemokratiet,7
+Bornholm,6,Aakirkeby,,Anne Jensen,Socialdemokratiet,27
+Bornholm,7,Klemensker,,Anne Jensen,Socialdemokratiet,11
+Bornholm,8,RÃ¸nne,,Anne Jensen,Socialdemokratiet,47
+Bornholm,9,Hasle,,Anne Jensen,Socialdemokratiet,7
+Bornholm,1,Allinge,,Bente Helms,Socialdemokratiet,10
+Bornholm,2,Ã˜stermarie,,Bente Helms,Socialdemokratiet,3
+Bornholm,3,Svaneke,,Bente Helms,Socialdemokratiet,5
+Bornholm,4,NexÃ¸,,Bente Helms,Socialdemokratiet,8
+Bornholm,5,Pedersker,,Bente Helms,Socialdemokratiet,5
+Bornholm,6,Aakirkeby,,Bente Helms,Socialdemokratiet,11
+Bornholm,7,Klemensker,,Bente Helms,Socialdemokratiet,21
+Bornholm,8,RÃ¸nne,,Bente Helms,Socialdemokratiet,40
+Bornholm,9,Hasle,,Bente Helms,Socialdemokratiet,18
+Bornholm,1,Allinge,,Claus Larsen-Jensen,Socialdemokratiet,19
+Bornholm,2,Ã˜stermarie,,Claus Larsen-Jensen,Socialdemokratiet,16
+Bornholm,3,Svaneke,,Claus Larsen-Jensen,Socialdemokratiet,10
+Bornholm,4,NexÃ¸,,Claus Larsen-Jensen,Socialdemokratiet,34
+Bornholm,5,Pedersker,,Claus Larsen-Jensen,Socialdemokratiet,29
+Bornholm,6,Aakirkeby,,Claus Larsen-Jensen,Socialdemokratiet,48
+Bornholm,7,Klemensker,,Claus Larsen-Jensen,Socialdemokratiet,14
+Bornholm,8,RÃ¸nne,,Claus Larsen-Jensen,Socialdemokratiet,118
+Bornholm,9,Hasle,,Claus Larsen-Jensen,Socialdemokratiet,24
+Bornholm,1,Allinge,,Frank Granlyst,Socialdemokratiet,24
+Bornholm,2,Ã˜stermarie,,Frank Granlyst,Socialdemokratiet,6
+Bornholm,3,Svaneke,,Frank Granlyst,Socialdemokratiet,4
+Bornholm,4,NexÃ¸,,Frank Granlyst,Socialdemokratiet,5
+Bornholm,5,Pedersker,,Frank Granlyst,Socialdemokratiet,6
+Bornholm,6,Aakirkeby,,Frank Granlyst,Socialdemokratiet,1
+Bornholm,7,Klemensker,,Frank Granlyst,Socialdemokratiet,1
+Bornholm,8,RÃ¸nne,,Frank Granlyst,Socialdemokratiet,16
+Bornholm,9,Hasle,,Frank Granlyst,Socialdemokratiet,13
+Bornholm,1,Allinge,,HC Holmstrand,Socialdemokratiet,2
+Bornholm,2,Ã˜stermarie,,HC Holmstrand,Socialdemokratiet,0
+Bornholm,3,Svaneke,,HC Holmstrand,Socialdemokratiet,3
+Bornholm,4,NexÃ¸,,HC Holmstrand,Socialdemokratiet,0
+Bornholm,5,Pedersker,,HC Holmstrand,Socialdemokratiet,3
+Bornholm,6,Aakirkeby,,HC Holmstrand,Socialdemokratiet,5
+Bornholm,7,Klemensker,,HC Holmstrand,Socialdemokratiet,0
+Bornholm,8,RÃ¸nne,,HC Holmstrand,Socialdemokratiet,3
+Bornholm,9,Hasle,,HC Holmstrand,Socialdemokratiet,1
+Bornholm,1,Allinge,,Jonna Nielsen,Socialdemokratiet,7
+Bornholm,2,Ã˜stermarie,,Jonna Nielsen,Socialdemokratiet,11
+Bornholm,3,Svaneke,,Jonna Nielsen,Socialdemokratiet,10
+Bornholm,4,NexÃ¸,,Jonna Nielsen,Socialdemokratiet,13
+Bornholm,5,Pedersker,,Jonna Nielsen,Socialdemokratiet,2
+Bornholm,6,Aakirkeby,,Jonna Nielsen,Socialdemokratiet,47
+Bornholm,7,Klemensker,,Jonna Nielsen,Socialdemokratiet,7
+Bornholm,8,RÃ¸nne,,Jonna Nielsen,Socialdemokratiet,118
+Bornholm,9,Hasle,,Jonna Nielsen,Socialdemokratiet,19
+Bornholm,1,Allinge,,Karen Lynn Jacobsen,Socialdemokratiet,10
+Bornholm,2,Ã˜stermarie,,Karen Lynn Jacobsen,Socialdemokratiet,5
+Bornholm,3,Svaneke,,Karen Lynn Jacobsen,Socialdemokratiet,32
+Bornholm,4,NexÃ¸,,Karen Lynn Jacobsen,Socialdemokratiet,21
+Bornholm,5,Pedersker,,Karen Lynn Jacobsen,Socialdemokratiet,5
+Bornholm,6,Aakirkeby,,Karen Lynn Jacobsen,Socialdemokratiet,22
+Bornholm,7,Klemensker,,Karen Lynn Jacobsen,Socialdemokratiet,2
+Bornholm,8,RÃ¸nne,,Karen Lynn Jacobsen,Socialdemokratiet,50
+Bornholm,9,Hasle,,Karen Lynn Jacobsen,Socialdemokratiet,5
+Bornholm,1,Allinge,,Kasper Flygare,Socialdemokratiet,40
+Bornholm,2,Ã˜stermarie,,Kasper Flygare,Socialdemokratiet,2
+Bornholm,3,Svaneke,,Kasper Flygare,Socialdemokratiet,9
+Bornholm,4,NexÃ¸,,Kasper Flygare,Socialdemokratiet,3
+Bornholm,5,Pedersker,,Kasper Flygare,Socialdemokratiet,2
+Bornholm,6,Aakirkeby,,Kasper Flygare,Socialdemokratiet,10
+Bornholm,7,Klemensker,,Kasper Flygare,Socialdemokratiet,2
+Bornholm,8,RÃ¸nne,,Kasper Flygare,Socialdemokratiet,61
+Bornholm,9,Hasle,,Kasper Flygare,Socialdemokratiet,5
+Bornholm,1,Allinge,,Kirsten Wendell,Socialdemokratiet,1
+Bornholm,2,Ã˜stermarie,,Kirsten Wendell,Socialdemokratiet,3
+Bornholm,3,Svaneke,,Kirsten Wendell,Socialdemokratiet,2
+Bornholm,4,NexÃ¸,,Kirsten Wendell,Socialdemokratiet,0
+Bornholm,5,Pedersker,,Kirsten Wendell,Socialdemokratiet,0
+Bornholm,6,Aakirkeby,,Kirsten Wendell,Socialdemokratiet,9
+Bornholm,7,Klemensker,,Kirsten Wendell,Socialdemokratiet,3
+Bornholm,8,RÃ¸nne,,Kirsten Wendell,Socialdemokratiet,97
+Bornholm,9,Hasle,,Kirsten Wendell,Socialdemokratiet,19
+Bornholm,1,Allinge,,Lykke Jensen,Socialdemokratiet,2
+Bornholm,2,Ã˜stermarie,,Lykke Jensen,Socialdemokratiet,2
+Bornholm,3,Svaneke,,Lykke Jensen,Socialdemokratiet,2
+Bornholm,4,NexÃ¸,,Lykke Jensen,Socialdemokratiet,13
+Bornholm,5,Pedersker,,Lykke Jensen,Socialdemokratiet,3
+Bornholm,6,Aakirkeby,,Lykke Jensen,Socialdemokratiet,4
+Bornholm,7,Klemensker,,Lykke Jensen,Socialdemokratiet,2
+Bornholm,8,RÃ¸nne,,Lykke Jensen,Socialdemokratiet,12
+Bornholm,9,Hasle,,Lykke Jensen,Socialdemokratiet,4
+Bornholm,1,Allinge,,Maria Fromseier KjÃ¦rgaard,Socialdemokratiet,20
+Bornholm,2,Ã˜stermarie,,Maria Fromseier KjÃ¦rgaard,Socialdemokratiet,10
+Bornholm,3,Svaneke,,Maria Fromseier KjÃ¦rgaard,Socialdemokratiet,11
+Bornholm,4,NexÃ¸,,Maria Fromseier KjÃ¦rgaard,Socialdemokratiet,16
+Bornholm,5,Pedersker,,Maria Fromseier KjÃ¦rgaard,Socialdemokratiet,8
+Bornholm,6,Aakirkeby,,Maria Fromseier KjÃ¦rgaard,Socialdemokratiet,41
+Bornholm,7,Klemensker,,Maria Fromseier KjÃ¦rgaard,Socialdemokratiet,17
+Bornholm,8,RÃ¸nne,,Maria Fromseier KjÃ¦rgaard,Socialdemokratiet,161
+Bornholm,9,Hasle,,Maria Fromseier KjÃ¦rgaard,Socialdemokratiet,27
+Bornholm,1,Allinge,,Ole RÃ¸dvig,Socialdemokratiet,5
+Bornholm,2,Ã˜stermarie,,Ole RÃ¸dvig,Socialdemokratiet,5
+Bornholm,3,Svaneke,,Ole RÃ¸dvig,Socialdemokratiet,4
+Bornholm,4,NexÃ¸,,Ole RÃ¸dvig,Socialdemokratiet,55
+Bornholm,5,Pedersker,,Ole RÃ¸dvig,Socialdemokratiet,7
+Bornholm,6,Aakirkeby,,Ole RÃ¸dvig,Socialdemokratiet,12
+Bornholm,7,Klemensker,,Ole RÃ¸dvig,Socialdemokratiet,4
+Bornholm,8,RÃ¸nne,,Ole RÃ¸dvig,Socialdemokratiet,20
+Bornholm,9,Hasle,,Ole RÃ¸dvig,Socialdemokratiet,11
+Bornholm,1,Allinge,,Per Ole Petersen,Socialdemokratiet,2
+Bornholm,2,Ã˜stermarie,,Per Ole Petersen,Socialdemokratiet,0
+Bornholm,3,Svaneke,,Per Ole Petersen,Socialdemokratiet,2
+Bornholm,4,NexÃ¸,,Per Ole Petersen,Socialdemokratiet,19
+Bornholm,5,Pedersker,,Per Ole Petersen,Socialdemokratiet,3
+Bornholm,6,Aakirkeby,,Per Ole Petersen,Socialdemokratiet,0
+Bornholm,7,Klemensker,,Per Ole Petersen,Socialdemokratiet,2
+Bornholm,8,RÃ¸nne,,Per Ole Petersen,Socialdemokratiet,4
+Bornholm,9,Hasle,,Per Ole Petersen,Socialdemokratiet,2
+Bornholm,1,Allinge,,Rebecca Douglas Elleby,Socialdemokratiet,5
+Bornholm,2,Ã˜stermarie,,Rebecca Douglas Elleby,Socialdemokratiet,3
+Bornholm,3,Svaneke,,Rebecca Douglas Elleby,Socialdemokratiet,2
+Bornholm,4,NexÃ¸,,Rebecca Douglas Elleby,Socialdemokratiet,4
+Bornholm,5,Pedersker,,Rebecca Douglas Elleby,Socialdemokratiet,4
+Bornholm,6,Aakirkeby,,Rebecca Douglas Elleby,Socialdemokratiet,6
+Bornholm,7,Klemensker,,Rebecca Douglas Elleby,Socialdemokratiet,2
+Bornholm,8,RÃ¸nne,,Rebecca Douglas Elleby,Socialdemokratiet,14
+Bornholm,9,Hasle,,Rebecca Douglas Elleby,Socialdemokratiet,3
+Bornholm,1,Allinge,,Ronald Kofoed-Rasmussen,Socialdemokratiet,0
+Bornholm,2,Ã˜stermarie,,Ronald Kofoed-Rasmussen,Socialdemokratiet,2
+Bornholm,3,Svaneke,,Ronald Kofoed-Rasmussen,Socialdemokratiet,0
+Bornholm,4,NexÃ¸,,Ronald Kofoed-Rasmussen,Socialdemokratiet,3
+Bornholm,5,Pedersker,,Ronald Kofoed-Rasmussen,Socialdemokratiet,0
+Bornholm,6,Aakirkeby,,Ronald Kofoed-Rasmussen,Socialdemokratiet,6
+Bornholm,7,Klemensker,,Ronald Kofoed-Rasmussen,Socialdemokratiet,0
+Bornholm,8,RÃ¸nne,,Ronald Kofoed-Rasmussen,Socialdemokratiet,1
+Bornholm,9,Hasle,,Ronald Kofoed-Rasmussen,Socialdemokratiet,0
+Bornholm,1,Allinge,,Steen Frandsen,Socialdemokratiet,6
+Bornholm,2,Ã˜stermarie,,Steen Frandsen,Socialdemokratiet,3
+Bornholm,3,Svaneke,,Steen Frandsen,Socialdemokratiet,2
+Bornholm,4,NexÃ¸,,Steen Frandsen,Socialdemokratiet,3
+Bornholm,5,Pedersker,,Steen Frandsen,Socialdemokratiet,2
+Bornholm,6,Aakirkeby,,Steen Frandsen,Socialdemokratiet,7
+Bornholm,7,Klemensker,,Steen Frandsen,Socialdemokratiet,4
+Bornholm,8,RÃ¸nne,,Steen Frandsen,Socialdemokratiet,33
+Bornholm,9,Hasle,,Steen Frandsen,Socialdemokratiet,6
+Bornholm,1,Allinge,,Thomas Thors,Socialdemokratiet,47
+Bornholm,2,Ã˜stermarie,,Thomas Thors,Socialdemokratiet,21
+Bornholm,3,Svaneke,,Thomas Thors,Socialdemokratiet,28
+Bornholm,4,NexÃ¸,,Thomas Thors,Socialdemokratiet,33
+Bornholm,5,Pedersker,,Thomas Thors,Socialdemokratiet,14
+Bornholm,6,Aakirkeby,,Thomas Thors,Socialdemokratiet,76
+Bornholm,7,Klemensker,,Thomas Thors,Socialdemokratiet,24
+Bornholm,8,RÃ¸nne,,Thomas Thors,Socialdemokratiet,448
+Bornholm,9,Hasle,,Thomas Thors,Socialdemokratiet,65
+Bornholm,1,Allinge,,Tommi H. Falk,Socialdemokratiet,1
+Bornholm,2,Ã˜stermarie,,Tommi H. Falk,Socialdemokratiet,0
+Bornholm,3,Svaneke,,Tommi H. Falk,Socialdemokratiet,1
+Bornholm,4,NexÃ¸,,Tommi H. Falk,Socialdemokratiet,19
+Bornholm,5,Pedersker,,Tommi H. Falk,Socialdemokratiet,0
+Bornholm,6,Aakirkeby,,Tommi H. Falk,Socialdemokratiet,2
+Bornholm,7,Klemensker,,Tommi H. Falk,Socialdemokratiet,1
+Bornholm,8,RÃ¸nne,,Tommi H. Falk,Socialdemokratiet,12
+Bornholm,9,Hasle,,Tommi H. Falk,Socialdemokratiet,0
+Bornholm,1,Allinge,,Listestemmer,Socialdemokratiet,55
+Bornholm,2,Ã˜stermarie,,Listestemmer,Socialdemokratiet,35
+Bornholm,3,Svaneke,,Listestemmer,Socialdemokratiet,31
+Bornholm,4,NexÃ¸,,Listestemmer,Socialdemokratiet,90
+Bornholm,5,Pedersker,,Listestemmer,Socialdemokratiet,23
+Bornholm,6,Aakirkeby,,Listestemmer,Socialdemokratiet,113
+Bornholm,7,Klemensker,,Listestemmer,Socialdemokratiet,51
+Bornholm,8,RÃ¸nne,,Listestemmer,Socialdemokratiet,397
+Bornholm,9,Hasle,,Listestemmer,Socialdemokratiet,73
+Bornholm,1,Allinge,,David Christensen,Radikale Venstre,3
+Bornholm,2,Ã˜stermarie,,David Christensen,Radikale Venstre,8
+Bornholm,3,Svaneke,,David Christensen,Radikale Venstre,2
+Bornholm,4,NexÃ¸,,David Christensen,Radikale Venstre,5
+Bornholm,5,Pedersker,,David Christensen,Radikale Venstre,3
+Bornholm,6,Aakirkeby,,David Christensen,Radikale Venstre,2
+Bornholm,7,Klemensker,,David Christensen,Radikale Venstre,1
+Bornholm,8,RÃ¸nne,,David Christensen,Radikale Venstre,10
+Bornholm,9,Hasle,,David Christensen,Radikale Venstre,5
+Bornholm,1,Allinge,,Flemming West,Radikale Venstre,1
+Bornholm,2,Ã˜stermarie,,Flemming West,Radikale Venstre,0
+Bornholm,3,Svaneke,,Flemming West,Radikale Venstre,0
+Bornholm,4,NexÃ¸,,Flemming West,Radikale Venstre,1
+Bornholm,5,Pedersker,,Flemming West,Radikale Venstre,1
+Bornholm,6,Aakirkeby,,Flemming West,Radikale Venstre,1
+Bornholm,7,Klemensker,,Flemming West,Radikale Venstre,0
+Bornholm,8,RÃ¸nne,,Flemming West,Radikale Venstre,0
+Bornholm,9,Hasle,,Flemming West,Radikale Venstre,0
+Bornholm,1,Allinge,,Gerd Lyng,Radikale Venstre,2
+Bornholm,2,Ã˜stermarie,,Gerd Lyng,Radikale Venstre,1
+Bornholm,3,Svaneke,,Gerd Lyng,Radikale Venstre,0
+Bornholm,4,NexÃ¸,,Gerd Lyng,Radikale Venstre,0
+Bornholm,5,Pedersker,,Gerd Lyng,Radikale Venstre,0
+Bornholm,6,Aakirkeby,,Gerd Lyng,Radikale Venstre,1
+Bornholm,7,Klemensker,,Gerd Lyng,Radikale Venstre,0
+Bornholm,8,RÃ¸nne,,Gerd Lyng,Radikale Venstre,12
+Bornholm,9,Hasle,,Gerd Lyng,Radikale Venstre,1
+Bornholm,1,Allinge,,JoÃ£o MÃ¸ller,Radikale Venstre,2
+Bornholm,2,Ã˜stermarie,,JoÃ£o MÃ¸ller,Radikale Venstre,2
+Bornholm,3,Svaneke,,JoÃ£o MÃ¸ller,Radikale Venstre,0
+Bornholm,4,NexÃ¸,,JoÃ£o MÃ¸ller,Radikale Venstre,5
+Bornholm,5,Pedersker,,JoÃ£o MÃ¸ller,Radikale Venstre,1
+Bornholm,6,Aakirkeby,,JoÃ£o MÃ¸ller,Radikale Venstre,6
+Bornholm,7,Klemensker,,JoÃ£o MÃ¸ller,Radikale Venstre,2
+Bornholm,8,RÃ¸nne,,JoÃ£o MÃ¸ller,Radikale Venstre,8
+Bornholm,9,Hasle,,JoÃ£o MÃ¸ller,Radikale Venstre,4
+Bornholm,1,Allinge,,Matilde Lissau,Radikale Venstre,13
+Bornholm,2,Ã˜stermarie,,Matilde Lissau,Radikale Venstre,16
+Bornholm,3,Svaneke,,Matilde Lissau,Radikale Venstre,20
+Bornholm,4,NexÃ¸,,Matilde Lissau,Radikale Venstre,41
+Bornholm,5,Pedersker,,Matilde Lissau,Radikale Venstre,26
+Bornholm,6,Aakirkeby,,Matilde Lissau,Radikale Venstre,25
+Bornholm,7,Klemensker,,Matilde Lissau,Radikale Venstre,10
+Bornholm,8,RÃ¸nne,,Matilde Lissau,Radikale Venstre,62
+Bornholm,9,Hasle,,Matilde Lissau,Radikale Venstre,12
+Bornholm,1,Allinge,,Niels Ebbesen,Radikale Venstre,6
+Bornholm,2,Ã˜stermarie,,Niels Ebbesen,Radikale Venstre,4
+Bornholm,3,Svaneke,,Niels Ebbesen,Radikale Venstre,0
+Bornholm,4,NexÃ¸,,Niels Ebbesen,Radikale Venstre,1
+Bornholm,5,Pedersker,,Niels Ebbesen,Radikale Venstre,0
+Bornholm,6,Aakirkeby,,Niels Ebbesen,Radikale Venstre,1
+Bornholm,7,Klemensker,,Niels Ebbesen,Radikale Venstre,0
+Bornholm,8,RÃ¸nne,,Niels Ebbesen,Radikale Venstre,3
+Bornholm,9,Hasle,,Niels Ebbesen,Radikale Venstre,1
+Bornholm,1,Allinge,,Listestemmer,Radikale Venstre,13
+Bornholm,2,Ã˜stermarie,,Listestemmer,Radikale Venstre,9
+Bornholm,3,Svaneke,,Listestemmer,Radikale Venstre,7
+Bornholm,4,NexÃ¸,,Listestemmer,Radikale Venstre,8
+Bornholm,5,Pedersker,,Listestemmer,Radikale Venstre,3
+Bornholm,6,Aakirkeby,,Listestemmer,Radikale Venstre,14
+Bornholm,7,Klemensker,,Listestemmer,Radikale Venstre,1
+Bornholm,8,RÃ¸nne,,Listestemmer,Radikale Venstre,45
+Bornholm,9,Hasle,,Listestemmer,Radikale Venstre,12
+Bornholm,1,Allinge,,Anders MÃ¸ller,Det Konservative Folkeparti,1
+Bornholm,2,Ã˜stermarie,,Anders MÃ¸ller,Det Konservative Folkeparti,3
+Bornholm,3,Svaneke,,Anders MÃ¸ller,Det Konservative Folkeparti,2
+Bornholm,4,NexÃ¸,,Anders MÃ¸ller,Det Konservative Folkeparti,4
+Bornholm,5,Pedersker,,Anders MÃ¸ller,Det Konservative Folkeparti,0
+Bornholm,6,Aakirkeby,,Anders MÃ¸ller,Det Konservative Folkeparti,1
+Bornholm,7,Klemensker,,Anders MÃ¸ller,Det Konservative Folkeparti,0
+Bornholm,8,RÃ¸nne,,Anders MÃ¸ller,Det Konservative Folkeparti,0
+Bornholm,9,Hasle,,Anders MÃ¸ller,Det Konservative Folkeparti,0
+Bornholm,1,Allinge,,Flemming Sorth,Det Konservative Folkeparti,1
+Bornholm,2,Ã˜stermarie,,Flemming Sorth,Det Konservative Folkeparti,3
+Bornholm,3,Svaneke,,Flemming Sorth,Det Konservative Folkeparti,2
+Bornholm,4,NexÃ¸,,Flemming Sorth,Det Konservative Folkeparti,2
+Bornholm,5,Pedersker,,Flemming Sorth,Det Konservative Folkeparti,0
+Bornholm,6,Aakirkeby,,Flemming Sorth,Det Konservative Folkeparti,0
+Bornholm,7,Klemensker,,Flemming Sorth,Det Konservative Folkeparti,1
+Bornholm,8,RÃ¸nne,,Flemming Sorth,Det Konservative Folkeparti,13
+Bornholm,9,Hasle,,Flemming Sorth,Det Konservative Folkeparti,1
+Bornholm,1,Allinge,,Iben Busch,Det Konservative Folkeparti,37
+Bornholm,2,Ã˜stermarie,,Iben Busch,Det Konservative Folkeparti,35
+Bornholm,3,Svaneke,,Iben Busch,Det Konservative Folkeparti,25
+Bornholm,4,NexÃ¸,,Iben Busch,Det Konservative Folkeparti,36
+Bornholm,5,Pedersker,,Iben Busch,Det Konservative Folkeparti,17
+Bornholm,6,Aakirkeby,,Iben Busch,Det Konservative Folkeparti,59
+Bornholm,7,Klemensker,,Iben Busch,Det Konservative Folkeparti,32
+Bornholm,8,RÃ¸nne,,Iben Busch,Det Konservative Folkeparti,195
+Bornholm,9,Hasle,,Iben Busch,Det Konservative Folkeparti,24
+Bornholm,1,Allinge,,Jacob TrÃ¸st,Det Konservative Folkeparti,135
+Bornholm,2,Ã˜stermarie,,Jacob TrÃ¸st,Det Konservative Folkeparti,126
+Bornholm,3,Svaneke,,Jacob TrÃ¸st,Det Konservative Folkeparti,130
+Bornholm,4,NexÃ¸,,Jacob TrÃ¸st,Det Konservative Folkeparti,186
+Bornholm,5,Pedersker,,Jacob TrÃ¸st,Det Konservative Folkeparti,94
+Bornholm,6,Aakirkeby,,Jacob TrÃ¸st,Det Konservative Folkeparti,276
+Bornholm,7,Klemensker,,Jacob TrÃ¸st,Det Konservative Folkeparti,110
+Bornholm,8,RÃ¸nne,,Jacob TrÃ¸st,Det Konservative Folkeparti,789
+Bornholm,9,Hasle,,Jacob TrÃ¸st,Det Konservative Folkeparti,153
+Bornholm,1,Allinge,,Mark Palmquist,Det Konservative Folkeparti,1
+Bornholm,2,Ã˜stermarie,,Mark Palmquist,Det Konservative Folkeparti,13
+Bornholm,3,Svaneke,,Mark Palmquist,Det Konservative Folkeparti,3
+Bornholm,4,NexÃ¸,,Mark Palmquist,Det Konservative Folkeparti,1
+Bornholm,5,Pedersker,,Mark Palmquist,Det Konservative Folkeparti,1
+Bornholm,6,Aakirkeby,,Mark Palmquist,Det Konservative Folkeparti,4
+Bornholm,7,Klemensker,,Mark Palmquist,Det Konservative Folkeparti,0
+Bornholm,8,RÃ¸nne,,Mark Palmquist,Det Konservative Folkeparti,10
+Bornholm,9,Hasle,,Mark Palmquist,Det Konservative Folkeparti,3
+Bornholm,1,Allinge,,Ralf Skovgaard,Det Konservative Folkeparti,1
+Bornholm,2,Ã˜stermarie,,Ralf Skovgaard,Det Konservative Folkeparti,6
+Bornholm,3,Svaneke,,Ralf Skovgaard,Det Konservative Folkeparti,1
+Bornholm,4,NexÃ¸,,Ralf Skovgaard,Det Konservative Folkeparti,3
+Bornholm,5,Pedersker,,Ralf Skovgaard,Det Konservative Folkeparti,1
+Bornholm,6,Aakirkeby,,Ralf Skovgaard,Det Konservative Folkeparti,3
+Bornholm,7,Klemensker,,Ralf Skovgaard,Det Konservative Folkeparti,3
+Bornholm,8,RÃ¸nne,,Ralf Skovgaard,Det Konservative Folkeparti,3
+Bornholm,9,Hasle,,Ralf Skovgaard,Det Konservative Folkeparti,4
+Bornholm,1,Allinge,,Listestemmer,Det Konservative Folkeparti,27
+Bornholm,2,Ã˜stermarie,,Listestemmer,Det Konservative Folkeparti,19
+Bornholm,3,Svaneke,,Listestemmer,Det Konservative Folkeparti,21
+Bornholm,4,NexÃ¸,,Listestemmer,Det Konservative Folkeparti,51
+Bornholm,5,Pedersker,,Listestemmer,Det Konservative Folkeparti,13
+Bornholm,6,Aakirkeby,,Listestemmer,Det Konservative Folkeparti,38
+Bornholm,7,Klemensker,,Listestemmer,Det Konservative Folkeparti,18
+Bornholm,8,RÃ¸nne,,Listestemmer,Det Konservative Folkeparti,132
+Bornholm,9,Hasle,,Listestemmer,Det Konservative Folkeparti,23
+Bornholm,1,Allinge,,Anette B. Nielsen,Nye Borgerlige,0
+Bornholm,2,Ã˜stermarie,,Anette B. Nielsen,Nye Borgerlige,0
+Bornholm,3,Svaneke,,Anette B. Nielsen,Nye Borgerlige,0
+Bornholm,4,NexÃ¸,,Anette B. Nielsen,Nye Borgerlige,1
+Bornholm,5,Pedersker,,Anette B. Nielsen,Nye Borgerlige,0
+Bornholm,6,Aakirkeby,,Anette B. Nielsen,Nye Borgerlige,0
+Bornholm,7,Klemensker,,Anette B. Nielsen,Nye Borgerlige,0
+Bornholm,8,RÃ¸nne,,Anette B. Nielsen,Nye Borgerlige,3
+Bornholm,9,Hasle,,Anette B. Nielsen,Nye Borgerlige,0
+Bornholm,1,Allinge,,Charlotte Friberg Henriksen,Nye Borgerlige,2
+Bornholm,2,Ã˜stermarie,,Charlotte Friberg Henriksen,Nye Borgerlige,1
+Bornholm,3,Svaneke,,Charlotte Friberg Henriksen,Nye Borgerlige,0
+Bornholm,4,NexÃ¸,,Charlotte Friberg Henriksen,Nye Borgerlige,1
+Bornholm,5,Pedersker,,Charlotte Friberg Henriksen,Nye Borgerlige,1
+Bornholm,6,Aakirkeby,,Charlotte Friberg Henriksen,Nye Borgerlige,4
+Bornholm,7,Klemensker,,Charlotte Friberg Henriksen,Nye Borgerlige,1
+Bornholm,8,RÃ¸nne,,Charlotte Friberg Henriksen,Nye Borgerlige,12
+Bornholm,9,Hasle,,Charlotte Friberg Henriksen,Nye Borgerlige,1
+Bornholm,1,Allinge,,Gitte Frigioni,Nye Borgerlige,11
+Bornholm,2,Ã˜stermarie,,Gitte Frigioni,Nye Borgerlige,11
+Bornholm,3,Svaneke,,Gitte Frigioni,Nye Borgerlige,3
+Bornholm,4,NexÃ¸,,Gitte Frigioni,Nye Borgerlige,17
+Bornholm,5,Pedersker,,Gitte Frigioni,Nye Borgerlige,8
+Bornholm,6,Aakirkeby,,Gitte Frigioni,Nye Borgerlige,44
+Bornholm,7,Klemensker,,Gitte Frigioni,Nye Borgerlige,11
+Bornholm,8,RÃ¸nne,,Gitte Frigioni,Nye Borgerlige,39
+Bornholm,9,Hasle,,Gitte Frigioni,Nye Borgerlige,7
+Bornholm,1,Allinge,,Jens Rasmussen,Nye Borgerlige,0
+Bornholm,2,Ã˜stermarie,,Jens Rasmussen,Nye Borgerlige,1
+Bornholm,3,Svaneke,,Jens Rasmussen,Nye Borgerlige,1
+Bornholm,4,NexÃ¸,,Jens Rasmussen,Nye Borgerlige,3
+Bornholm,5,Pedersker,,Jens Rasmussen,Nye Borgerlige,0
+Bornholm,6,Aakirkeby,,Jens Rasmussen,Nye Borgerlige,0
+Bornholm,7,Klemensker,,Jens Rasmussen,Nye Borgerlige,1
+Bornholm,8,RÃ¸nne,,Jens Rasmussen,Nye Borgerlige,1
+Bornholm,9,Hasle,,Jens Rasmussen,Nye Borgerlige,2
+Bornholm,1,Allinge,,Kate Riis Cordsen,Nye Borgerlige,0
+Bornholm,2,Ã˜stermarie,,Kate Riis Cordsen,Nye Borgerlige,0
+Bornholm,3,Svaneke,,Kate Riis Cordsen,Nye Borgerlige,0
+Bornholm,4,NexÃ¸,,Kate Riis Cordsen,Nye Borgerlige,1
+Bornholm,5,Pedersker,,Kate Riis Cordsen,Nye Borgerlige,0
+Bornholm,6,Aakirkeby,,Kate Riis Cordsen,Nye Borgerlige,0
+Bornholm,7,Klemensker,,Kate Riis Cordsen,Nye Borgerlige,1
+Bornholm,8,RÃ¸nne,,Kate Riis Cordsen,Nye Borgerlige,1
+Bornholm,9,Hasle,,Kate Riis Cordsen,Nye Borgerlige,2
+Bornholm,1,Allinge,,Michael Bidstrup Nielsen,Nye Borgerlige,1
+Bornholm,2,Ã˜stermarie,,Michael Bidstrup Nielsen,Nye Borgerlige,0
+Bornholm,3,Svaneke,,Michael Bidstrup Nielsen,Nye Borgerlige,0
+Bornholm,4,NexÃ¸,,Michael Bidstrup Nielsen,Nye Borgerlige,2
+Bornholm,5,Pedersker,,Michael Bidstrup Nielsen,Nye Borgerlige,1
+Bornholm,6,Aakirkeby,,Michael Bidstrup Nielsen,Nye Borgerlige,3
+Bornholm,7,Klemensker,,Michael Bidstrup Nielsen,Nye Borgerlige,5
+Bornholm,8,RÃ¸nne,,Michael Bidstrup Nielsen,Nye Borgerlige,24
+Bornholm,9,Hasle,,Michael Bidstrup Nielsen,Nye Borgerlige,7
+Bornholm,1,Allinge,,Morten HÃ¦strup,Nye Borgerlige,7
+Bornholm,2,Ã˜stermarie,,Morten HÃ¦strup,Nye Borgerlige,1
+Bornholm,3,Svaneke,,Morten HÃ¦strup,Nye Borgerlige,1
+Bornholm,4,NexÃ¸,,Morten HÃ¦strup,Nye Borgerlige,0
+Bornholm,5,Pedersker,,Morten HÃ¦strup,Nye Borgerlige,0
+Bornholm,6,Aakirkeby,,Morten HÃ¦strup,Nye Borgerlige,1
+Bornholm,7,Klemensker,,Morten HÃ¦strup,Nye Borgerlige,1
+Bornholm,8,RÃ¸nne,,Morten HÃ¦strup,Nye Borgerlige,25
+Bornholm,9,Hasle,,Morten HÃ¦strup,Nye Borgerlige,0
+Bornholm,1,Allinge,,Listestemmer,Nye Borgerlige,10
+Bornholm,2,Ã˜stermarie,,Listestemmer,Nye Borgerlige,16
+Bornholm,3,Svaneke,,Listestemmer,Nye Borgerlige,2
+Bornholm,4,NexÃ¸,,Listestemmer,Nye Borgerlige,15
+Bornholm,5,Pedersker,,Listestemmer,Nye Borgerlige,11
+Bornholm,6,Aakirkeby,,Listestemmer,Nye Borgerlige,17
+Bornholm,7,Klemensker,,Listestemmer,Nye Borgerlige,10
+Bornholm,8,RÃ¸nne,,Listestemmer,Nye Borgerlige,32
+Bornholm,9,Hasle,,Listestemmer,Nye Borgerlige,15
+Bornholm,1,Allinge,,Bo Haxthausen,SF - Socialistisk Folkeparti,4
+Bornholm,2,Ã˜stermarie,,Bo Haxthausen,SF - Socialistisk Folkeparti,1
+Bornholm,3,Svaneke,,Bo Haxthausen,SF - Socialistisk Folkeparti,0
+Bornholm,4,NexÃ¸,,Bo Haxthausen,SF - Socialistisk Folkeparti,0
+Bornholm,5,Pedersker,,Bo Haxthausen,SF - Socialistisk Folkeparti,0
+Bornholm,6,Aakirkeby,,Bo Haxthausen,SF - Socialistisk Folkeparti,3
+Bornholm,7,Klemensker,,Bo Haxthausen,SF - Socialistisk Folkeparti,2
+Bornholm,8,RÃ¸nne,,Bo Haxthausen,SF - Socialistisk Folkeparti,3
+Bornholm,9,Hasle,,Bo Haxthausen,SF - Socialistisk Folkeparti,0
+Bornholm,1,Allinge,,Joan Prahl Parente,SF - Socialistisk Folkeparti,17
+Bornholm,2,Ã˜stermarie,,Joan Prahl Parente,SF - Socialistisk Folkeparti,11
+Bornholm,3,Svaneke,,Joan Prahl Parente,SF - Socialistisk Folkeparti,16
+Bornholm,4,NexÃ¸,,Joan Prahl Parente,SF - Socialistisk Folkeparti,15
+Bornholm,5,Pedersker,,Joan Prahl Parente,SF - Socialistisk Folkeparti,6
+Bornholm,6,Aakirkeby,,Joan Prahl Parente,SF - Socialistisk Folkeparti,23
+Bornholm,7,Klemensker,,Joan Prahl Parente,SF - Socialistisk Folkeparti,10
+Bornholm,8,RÃ¸nne,,Joan Prahl Parente,SF - Socialistisk Folkeparti,124
+Bornholm,9,Hasle,,Joan Prahl Parente,SF - Socialistisk Folkeparti,16
+Bornholm,1,Allinge,,Leif Olsen,SF - Socialistisk Folkeparti,50
+Bornholm,2,Ã˜stermarie,,Leif Olsen,SF - Socialistisk Folkeparti,28
+Bornholm,3,Svaneke,,Leif Olsen,SF - Socialistisk Folkeparti,20
+Bornholm,4,NexÃ¸,,Leif Olsen,SF - Socialistisk Folkeparti,34
+Bornholm,5,Pedersker,,Leif Olsen,SF - Socialistisk Folkeparti,12
+Bornholm,6,Aakirkeby,,Leif Olsen,SF - Socialistisk Folkeparti,33
+Bornholm,7,Klemensker,,Leif Olsen,SF - Socialistisk Folkeparti,9
+Bornholm,8,RÃ¸nne,,Leif Olsen,SF - Socialistisk Folkeparti,69
+Bornholm,9,Hasle,,Leif Olsen,SF - Socialistisk Folkeparti,21
+Bornholm,1,Allinge,,Nikolaj Fjellerad,SF - Socialistisk Folkeparti,1
+Bornholm,2,Ã˜stermarie,,Nikolaj Fjellerad,SF - Socialistisk Folkeparti,0
+Bornholm,3,Svaneke,,Nikolaj Fjellerad,SF - Socialistisk Folkeparti,0
+Bornholm,4,NexÃ¸,,Nikolaj Fjellerad,SF - Socialistisk Folkeparti,2
+Bornholm,5,Pedersker,,Nikolaj Fjellerad,SF - Socialistisk Folkeparti,0
+Bornholm,6,Aakirkeby,,Nikolaj Fjellerad,SF - Socialistisk Folkeparti,2
+Bornholm,7,Klemensker,,Nikolaj Fjellerad,SF - Socialistisk Folkeparti,0
+Bornholm,8,RÃ¸nne,,Nikolaj Fjellerad,SF - Socialistisk Folkeparti,9
+Bornholm,9,Hasle,,Nikolaj Fjellerad,SF - Socialistisk Folkeparti,2
+Bornholm,1,Allinge,,Listestemmer,SF - Socialistisk Folkeparti,15
+Bornholm,2,Ã˜stermarie,,Listestemmer,SF - Socialistisk Folkeparti,8
+Bornholm,3,Svaneke,,Listestemmer,SF - Socialistisk Folkeparti,8
+Bornholm,4,NexÃ¸,,Listestemmer,SF - Socialistisk Folkeparti,18
+Bornholm,5,Pedersker,,Listestemmer,SF - Socialistisk Folkeparti,9
+Bornholm,6,Aakirkeby,,Listestemmer,SF - Socialistisk Folkeparti,17
+Bornholm,7,Klemensker,,Listestemmer,SF - Socialistisk Folkeparti,4
+Bornholm,8,RÃ¸nne,,Listestemmer,SF - Socialistisk Folkeparti,55
+Bornholm,9,Hasle,,Listestemmer,SF - Socialistisk Folkeparti,5
+Bornholm,1,Allinge,,LÃ¦rke Lina Skovbjerg,Veganerpartiet,9
+Bornholm,2,Ã˜stermarie,,LÃ¦rke Lina Skovbjerg,Veganerpartiet,8
+Bornholm,3,Svaneke,,LÃ¦rke Lina Skovbjerg,Veganerpartiet,4
+Bornholm,4,NexÃ¸,,LÃ¦rke Lina Skovbjerg,Veganerpartiet,12
+Bornholm,5,Pedersker,,LÃ¦rke Lina Skovbjerg,Veganerpartiet,1
+Bornholm,6,Aakirkeby,,LÃ¦rke Lina Skovbjerg,Veganerpartiet,10
+Bornholm,7,Klemensker,,LÃ¦rke Lina Skovbjerg,Veganerpartiet,8
+Bornholm,8,RÃ¸nne,,LÃ¦rke Lina Skovbjerg,Veganerpartiet,31
+Bornholm,9,Hasle,,LÃ¦rke Lina Skovbjerg,Veganerpartiet,3
+Bornholm,1,Allinge,,Listestemmer,Veganerpartiet,5
+Bornholm,2,Ã˜stermarie,,Listestemmer,Veganerpartiet,7
+Bornholm,3,Svaneke,,Listestemmer,Veganerpartiet,4
+Bornholm,4,NexÃ¸,,Listestemmer,Veganerpartiet,3
+Bornholm,5,Pedersker,,Listestemmer,Veganerpartiet,4
+Bornholm,6,Aakirkeby,,Listestemmer,Veganerpartiet,4
+Bornholm,7,Klemensker,,Listestemmer,Veganerpartiet,7
+Bornholm,8,RÃ¸nne,,Listestemmer,Veganerpartiet,8
+Bornholm,9,Hasle,,Listestemmer,Veganerpartiet,2
+Bornholm,1,Allinge,,"Bjarne Hartung Kirkegaard, Allinge",Kristendemokraterne,50
+Bornholm,2,Ã˜stermarie,,"Bjarne Hartung Kirkegaard, Allinge",Kristendemokraterne,54
+Bornholm,3,Svaneke,,"Bjarne Hartung Kirkegaard, Allinge",Kristendemokraterne,24
+Bornholm,4,NexÃ¸,,"Bjarne Hartung Kirkegaard, Allinge",Kristendemokraterne,56
+Bornholm,5,Pedersker,,"Bjarne Hartung Kirkegaard, Allinge",Kristendemokraterne,29
+Bornholm,6,Aakirkeby,,"Bjarne Hartung Kirkegaard, Allinge",Kristendemokraterne,104
+Bornholm,7,Klemensker,,"Bjarne Hartung Kirkegaard, Allinge",Kristendemokraterne,43
+Bornholm,8,RÃ¸nne,,"Bjarne Hartung Kirkegaard, Allinge",Kristendemokraterne,148
+Bornholm,9,Hasle,,"Bjarne Hartung Kirkegaard, Allinge",Kristendemokraterne,48
+Bornholm,1,Allinge,,"Filmon Solomun, Hasle",Kristendemokraterne,0
+Bornholm,2,Ã˜stermarie,,"Filmon Solomun, Hasle",Kristendemokraterne,0
+Bornholm,3,Svaneke,,"Filmon Solomun, Hasle",Kristendemokraterne,0
+Bornholm,4,NexÃ¸,,"Filmon Solomun, Hasle",Kristendemokraterne,4
+Bornholm,5,Pedersker,,"Filmon Solomun, Hasle",Kristendemokraterne,0
+Bornholm,6,Aakirkeby,,"Filmon Solomun, Hasle",Kristendemokraterne,8
+Bornholm,7,Klemensker,,"Filmon Solomun, Hasle",Kristendemokraterne,0
+Bornholm,8,RÃ¸nne,,"Filmon Solomun, Hasle",Kristendemokraterne,13
+Bornholm,9,Hasle,,"Filmon Solomun, Hasle",Kristendemokraterne,3
+Bornholm,1,Allinge,,"Hans Ole Bech, Aakirkeby",Kristendemokraterne,0
+Bornholm,2,Ã˜stermarie,,"Hans Ole Bech, Aakirkeby",Kristendemokraterne,2
+Bornholm,3,Svaneke,,"Hans Ole Bech, Aakirkeby",Kristendemokraterne,0
+Bornholm,4,NexÃ¸,,"Hans Ole Bech, Aakirkeby",Kristendemokraterne,3
+Bornholm,5,Pedersker,,"Hans Ole Bech, Aakirkeby",Kristendemokraterne,3
+Bornholm,6,Aakirkeby,,"Hans Ole Bech, Aakirkeby",Kristendemokraterne,9
+Bornholm,7,Klemensker,,"Hans Ole Bech, Aakirkeby",Kristendemokraterne,1
+Bornholm,8,RÃ¸nne,,"Hans Ole Bech, Aakirkeby",Kristendemokraterne,2
+Bornholm,9,Hasle,,"Hans Ole Bech, Aakirkeby",Kristendemokraterne,1
+Bornholm,1,Allinge,,"Hartvig Mumm, Nyker",Kristendemokraterne,1
+Bornholm,2,Ã˜stermarie,,"Hartvig Mumm, Nyker",Kristendemokraterne,0
+Bornholm,3,Svaneke,,"Hartvig Mumm, Nyker",Kristendemokraterne,0
+Bornholm,4,NexÃ¸,,"Hartvig Mumm, Nyker",Kristendemokraterne,3
+Bornholm,5,Pedersker,,"Hartvig Mumm, Nyker",Kristendemokraterne,0
+Bornholm,6,Aakirkeby,,"Hartvig Mumm, Nyker",Kristendemokraterne,0
+Bornholm,7,Klemensker,,"Hartvig Mumm, Nyker",Kristendemokraterne,3
+Bornholm,8,RÃ¸nne,,"Hartvig Mumm, Nyker",Kristendemokraterne,3
+Bornholm,9,Hasle,,"Hartvig Mumm, Nyker",Kristendemokraterne,1
+Bornholm,1,Allinge,,"Maria RosÃ¦fontanus, NexÃ¸",Kristendemokraterne,2
+Bornholm,2,Ã˜stermarie,,"Maria RosÃ¦fontanus, NexÃ¸",Kristendemokraterne,1
+Bornholm,3,Svaneke,,"Maria RosÃ¦fontanus, NexÃ¸",Kristendemokraterne,0
+Bornholm,4,NexÃ¸,,"Maria RosÃ¦fontanus, NexÃ¸",Kristendemokraterne,2
+Bornholm,5,Pedersker,,"Maria RosÃ¦fontanus, NexÃ¸",Kristendemokraterne,2
+Bornholm,6,Aakirkeby,,"Maria RosÃ¦fontanus, NexÃ¸",Kristendemokraterne,1
+Bornholm,7,Klemensker,,"Maria RosÃ¦fontanus, NexÃ¸",Kristendemokraterne,0
+Bornholm,8,RÃ¸nne,,"Maria RosÃ¦fontanus, NexÃ¸",Kristendemokraterne,2
+Bornholm,9,Hasle,,"Maria RosÃ¦fontanus, NexÃ¸",Kristendemokraterne,0
+Bornholm,1,Allinge,,"Martin Pihl Sode, Knudsker",Kristendemokraterne,2
+Bornholm,2,Ã˜stermarie,,"Martin Pihl Sode, Knudsker",Kristendemokraterne,1
+Bornholm,3,Svaneke,,"Martin Pihl Sode, Knudsker",Kristendemokraterne,0
+Bornholm,4,NexÃ¸,,"Martin Pihl Sode, Knudsker",Kristendemokraterne,1
+Bornholm,5,Pedersker,,"Martin Pihl Sode, Knudsker",Kristendemokraterne,1
+Bornholm,6,Aakirkeby,,"Martin Pihl Sode, Knudsker",Kristendemokraterne,7
+Bornholm,7,Klemensker,,"Martin Pihl Sode, Knudsker",Kristendemokraterne,1
+Bornholm,8,RÃ¸nne,,"Martin Pihl Sode, Knudsker",Kristendemokraterne,11
+Bornholm,9,Hasle,,"Martin Pihl Sode, Knudsker",Kristendemokraterne,2
+Bornholm,1,Allinge,,"Mogens Riis Pedersen, Ibsker",Kristendemokraterne,0
+Bornholm,2,Ã˜stermarie,,"Mogens Riis Pedersen, Ibsker",Kristendemokraterne,1
+Bornholm,3,Svaneke,,"Mogens Riis Pedersen, Ibsker",Kristendemokraterne,3
+Bornholm,4,NexÃ¸,,"Mogens Riis Pedersen, Ibsker",Kristendemokraterne,3
+Bornholm,5,Pedersker,,"Mogens Riis Pedersen, Ibsker",Kristendemokraterne,1
+Bornholm,6,Aakirkeby,,"Mogens Riis Pedersen, Ibsker",Kristendemokraterne,3
+Bornholm,7,Klemensker,,"Mogens Riis Pedersen, Ibsker",Kristendemokraterne,0
+Bornholm,8,RÃ¸nne,,"Mogens Riis Pedersen, Ibsker",Kristendemokraterne,5
+Bornholm,9,Hasle,,"Mogens Riis Pedersen, Ibsker",Kristendemokraterne,1
+Bornholm,1,Allinge,,"Niels Chresten Andersen, RÃ¸nne",Kristendemokraterne,6
+Bornholm,2,Ã˜stermarie,,"Niels Chresten Andersen, RÃ¸nne",Kristendemokraterne,16
+Bornholm,3,Svaneke,,"Niels Chresten Andersen, RÃ¸nne",Kristendemokraterne,7
+Bornholm,4,NexÃ¸,,"Niels Chresten Andersen, RÃ¸nne",Kristendemokraterne,18
+Bornholm,5,Pedersker,,"Niels Chresten Andersen, RÃ¸nne",Kristendemokraterne,5
+Bornholm,6,Aakirkeby,,"Niels Chresten Andersen, RÃ¸nne",Kristendemokraterne,17
+Bornholm,7,Klemensker,,"Niels Chresten Andersen, RÃ¸nne",Kristendemokraterne,4
+Bornholm,8,RÃ¸nne,,"Niels Chresten Andersen, RÃ¸nne",Kristendemokraterne,40
+Bornholm,9,Hasle,,"Niels Chresten Andersen, RÃ¸nne",Kristendemokraterne,8
+Bornholm,1,Allinge,,"Signe Hartung KjÃ¦rby, Klemensker",Kristendemokraterne,0
+Bornholm,2,Ã˜stermarie,,"Signe Hartung KjÃ¦rby, Klemensker",Kristendemokraterne,1
+Bornholm,3,Svaneke,,"Signe Hartung KjÃ¦rby, Klemensker",Kristendemokraterne,0
+Bornholm,4,NexÃ¸,,"Signe Hartung KjÃ¦rby, Klemensker",Kristendemokraterne,3
+Bornholm,5,Pedersker,,"Signe Hartung KjÃ¦rby, Klemensker",Kristendemokraterne,0
+Bornholm,6,Aakirkeby,,"Signe Hartung KjÃ¦rby, Klemensker",Kristendemokraterne,11
+Bornholm,7,Klemensker,,"Signe Hartung KjÃ¦rby, Klemensker",Kristendemokraterne,3
+Bornholm,8,RÃ¸nne,,"Signe Hartung KjÃ¦rby, Klemensker",Kristendemokraterne,5
+Bornholm,9,Hasle,,"Signe Hartung KjÃ¦rby, Klemensker",Kristendemokraterne,1
+Bornholm,1,Allinge,,Listestemmer,Kristendemokraterne,11
+Bornholm,2,Ã˜stermarie,,Listestemmer,Kristendemokraterne,20
+Bornholm,3,Svaneke,,Listestemmer,Kristendemokraterne,7
+Bornholm,4,NexÃ¸,,Listestemmer,Kristendemokraterne,17
+Bornholm,5,Pedersker,,Listestemmer,Kristendemokraterne,14
+Bornholm,6,Aakirkeby,,Listestemmer,Kristendemokraterne,28
+Bornholm,7,Klemensker,,Listestemmer,Kristendemokraterne,12
+Bornholm,8,RÃ¸nne,,Listestemmer,Kristendemokraterne,54
+Bornholm,9,Hasle,,Listestemmer,Kristendemokraterne,8
+Bornholm,1,Allinge,,Henrik A. BÃ¸ggild,Lavere skatter og afgifter,0
+Bornholm,2,Ã˜stermarie,,Henrik A. BÃ¸ggild,Lavere skatter og afgifter,1
+Bornholm,3,Svaneke,,Henrik A. BÃ¸ggild,Lavere skatter og afgifter,0
+Bornholm,4,NexÃ¸,,Henrik A. BÃ¸ggild,Lavere skatter og afgifter,0
+Bornholm,5,Pedersker,,Henrik A. BÃ¸ggild,Lavere skatter og afgifter,0
+Bornholm,6,Aakirkeby,,Henrik A. BÃ¸ggild,Lavere skatter og afgifter,1
+Bornholm,7,Klemensker,,Henrik A. BÃ¸ggild,Lavere skatter og afgifter,1
+Bornholm,8,RÃ¸nne,,Henrik A. BÃ¸ggild,Lavere skatter og afgifter,1
+Bornholm,9,Hasle,,Henrik A. BÃ¸ggild,Lavere skatter og afgifter,0
+Bornholm,1,Allinge,,Martin Tidsvilde,Lavere skatter og afgifter,0
+Bornholm,2,Ã˜stermarie,,Martin Tidsvilde,Lavere skatter og afgifter,3
+Bornholm,3,Svaneke,,Martin Tidsvilde,Lavere skatter og afgifter,0
+Bornholm,4,NexÃ¸,,Martin Tidsvilde,Lavere skatter og afgifter,3
+Bornholm,5,Pedersker,,Martin Tidsvilde,Lavere skatter og afgifter,1
+Bornholm,6,Aakirkeby,,Martin Tidsvilde,Lavere skatter og afgifter,4
+Bornholm,7,Klemensker,,Martin Tidsvilde,Lavere skatter og afgifter,3
+Bornholm,8,RÃ¸nne,,Martin Tidsvilde,Lavere skatter og afgifter,10
+Bornholm,9,Hasle,,Martin Tidsvilde,Lavere skatter og afgifter,1
+Bornholm,1,Allinge,,Listestemmer,Lavere skatter og afgifter,4
+Bornholm,2,Ã˜stermarie,,Listestemmer,Lavere skatter og afgifter,1
+Bornholm,3,Svaneke,,Listestemmer,Lavere skatter og afgifter,0
+Bornholm,4,NexÃ¸,,Listestemmer,Lavere skatter og afgifter,0
+Bornholm,5,Pedersker,,Listestemmer,Lavere skatter og afgifter,0
+Bornholm,6,Aakirkeby,,Listestemmer,Lavere skatter og afgifter,4
+Bornholm,7,Klemensker,,Listestemmer,Lavere skatter og afgifter,3
+Bornholm,8,RÃ¸nne,,Listestemmer,Lavere skatter og afgifter,3
+Bornholm,9,Hasle,,Listestemmer,Lavere skatter og afgifter,0
+Bornholm,1,Allinge,,Anders Hansen,Dansk Folkeparti,0
+Bornholm,2,Ã˜stermarie,,Anders Hansen,Dansk Folkeparti,1
+Bornholm,3,Svaneke,,Anders Hansen,Dansk Folkeparti,0
+Bornholm,4,NexÃ¸,,Anders Hansen,Dansk Folkeparti,1
+Bornholm,5,Pedersker,,Anders Hansen,Dansk Folkeparti,0
+Bornholm,6,Aakirkeby,,Anders Hansen,Dansk Folkeparti,1
+Bornholm,7,Klemensker,,Anders Hansen,Dansk Folkeparti,0
+Bornholm,8,RÃ¸nne,,Anders Hansen,Dansk Folkeparti,1
+Bornholm,9,Hasle,,Anders Hansen,Dansk Folkeparti,0
+Bornholm,1,Allinge,,JÃ¸rn Westh,Dansk Folkeparti,1
+Bornholm,2,Ã˜stermarie,,JÃ¸rn Westh,Dansk Folkeparti,1
+Bornholm,3,Svaneke,,JÃ¸rn Westh,Dansk Folkeparti,0
+Bornholm,4,NexÃ¸,,JÃ¸rn Westh,Dansk Folkeparti,0
+Bornholm,5,Pedersker,,JÃ¸rn Westh,Dansk Folkeparti,0
+Bornholm,6,Aakirkeby,,JÃ¸rn Westh,Dansk Folkeparti,8
+Bornholm,7,Klemensker,,JÃ¸rn Westh,Dansk Folkeparti,0
+Bornholm,8,RÃ¸nne,,JÃ¸rn Westh,Dansk Folkeparti,6
+Bornholm,9,Hasle,,JÃ¸rn Westh,Dansk Folkeparti,1
+Bornholm,1,Allinge,,Kim Jacobsen,Dansk Folkeparti,2
+Bornholm,2,Ã˜stermarie,,Kim Jacobsen,Dansk Folkeparti,0
+Bornholm,3,Svaneke,,Kim Jacobsen,Dansk Folkeparti,0
+Bornholm,4,NexÃ¸,,Kim Jacobsen,Dansk Folkeparti,1
+Bornholm,5,Pedersker,,Kim Jacobsen,Dansk Folkeparti,1
+Bornholm,6,Aakirkeby,,Kim Jacobsen,Dansk Folkeparti,0
+Bornholm,7,Klemensker,,Kim Jacobsen,Dansk Folkeparti,3
+Bornholm,8,RÃ¸nne,,Kim Jacobsen,Dansk Folkeparti,9
+Bornholm,9,Hasle,,Kim Jacobsen,Dansk Folkeparti,0
+Bornholm,1,Allinge,,Linda Kofoed Persson,Dansk Folkeparti,26
+Bornholm,2,Ã˜stermarie,,Linda Kofoed Persson,Dansk Folkeparti,27
+Bornholm,3,Svaneke,,Linda Kofoed Persson,Dansk Folkeparti,10
+Bornholm,4,NexÃ¸,,Linda Kofoed Persson,Dansk Folkeparti,23
+Bornholm,5,Pedersker,,Linda Kofoed Persson,Dansk Folkeparti,14
+Bornholm,6,Aakirkeby,,Linda Kofoed Persson,Dansk Folkeparti,45
+Bornholm,7,Klemensker,,Linda Kofoed Persson,Dansk Folkeparti,32
+Bornholm,8,RÃ¸nne,,Linda Kofoed Persson,Dansk Folkeparti,81
+Bornholm,9,Hasle,,Linda Kofoed Persson,Dansk Folkeparti,28
+Bornholm,1,Allinge,,Michelle Weie,Dansk Folkeparti,0
+Bornholm,2,Ã˜stermarie,,Michelle Weie,Dansk Folkeparti,1
+Bornholm,3,Svaneke,,Michelle Weie,Dansk Folkeparti,0
+Bornholm,4,NexÃ¸,,Michelle Weie,Dansk Folkeparti,8
+Bornholm,5,Pedersker,,Michelle Weie,Dansk Folkeparti,1
+Bornholm,6,Aakirkeby,,Michelle Weie,Dansk Folkeparti,8
+Bornholm,7,Klemensker,,Michelle Weie,Dansk Folkeparti,1
+Bornholm,8,RÃ¸nne,,Michelle Weie,Dansk Folkeparti,2
+Bornholm,9,Hasle,,Michelle Weie,Dansk Folkeparti,3
+Bornholm,1,Allinge,,RenÃ¨ Danielsson,Dansk Folkeparti,200
+Bornholm,2,Ã˜stermarie,,RenÃ¨ Danielsson,Dansk Folkeparti,207
+Bornholm,3,Svaneke,,RenÃ¨ Danielsson,Dansk Folkeparti,64
+Bornholm,4,NexÃ¸,,RenÃ¨ Danielsson,Dansk Folkeparti,286
+Bornholm,5,Pedersker,,RenÃ¨ Danielsson,Dansk Folkeparti,138
+Bornholm,6,Aakirkeby,,RenÃ¨ Danielsson,Dansk Folkeparti,425
+Bornholm,7,Klemensker,,RenÃ¨ Danielsson,Dansk Folkeparti,314
+Bornholm,8,RÃ¸nne,,RenÃ¨ Danielsson,Dansk Folkeparti,915
+Bornholm,9,Hasle,,RenÃ¨ Danielsson,Dansk Folkeparti,246
+Bornholm,1,Allinge,,Sabine Nicoline Lyngberg,Dansk Folkeparti,12
+Bornholm,2,Ã˜stermarie,,Sabine Nicoline Lyngberg,Dansk Folkeparti,7
+Bornholm,3,Svaneke,,Sabine Nicoline Lyngberg,Dansk Folkeparti,1
+Bornholm,4,NexÃ¸,,Sabine Nicoline Lyngberg,Dansk Folkeparti,4
+Bornholm,5,Pedersker,,Sabine Nicoline Lyngberg,Dansk Folkeparti,6
+Bornholm,6,Aakirkeby,,Sabine Nicoline Lyngberg,Dansk Folkeparti,10
+Bornholm,7,Klemensker,,Sabine Nicoline Lyngberg,Dansk Folkeparti,11
+Bornholm,8,RÃ¸nne,,Sabine Nicoline Lyngberg,Dansk Folkeparti,34
+Bornholm,9,Hasle,,Sabine Nicoline Lyngberg,Dansk Folkeparti,3
+Bornholm,1,Allinge,,Tonny Borrinjaland,Dansk Folkeparti,3
+Bornholm,2,Ã˜stermarie,,Tonny Borrinjaland,Dansk Folkeparti,1
+Bornholm,3,Svaneke,,Tonny Borrinjaland,Dansk Folkeparti,1
+Bornholm,4,NexÃ¸,,Tonny Borrinjaland,Dansk Folkeparti,3
+Bornholm,5,Pedersker,,Tonny Borrinjaland,Dansk Folkeparti,0
+Bornholm,6,Aakirkeby,,Tonny Borrinjaland,Dansk Folkeparti,1
+Bornholm,7,Klemensker,,Tonny Borrinjaland,Dansk Folkeparti,2
+Bornholm,8,RÃ¸nne,,Tonny Borrinjaland,Dansk Folkeparti,1
+Bornholm,9,Hasle,,Tonny Borrinjaland,Dansk Folkeparti,0
+Bornholm,1,Allinge,,Torben Kofod Ager,Dansk Folkeparti,2
+Bornholm,2,Ã˜stermarie,,Torben Kofod Ager,Dansk Folkeparti,10
+Bornholm,3,Svaneke,,Torben Kofod Ager,Dansk Folkeparti,3
+Bornholm,4,NexÃ¸,,Torben Kofod Ager,Dansk Folkeparti,11
+Bornholm,5,Pedersker,,Torben Kofod Ager,Dansk Folkeparti,7
+Bornholm,6,Aakirkeby,,Torben Kofod Ager,Dansk Folkeparti,27
+Bornholm,7,Klemensker,,Torben Kofod Ager,Dansk Folkeparti,9
+Bornholm,8,RÃ¸nne,,Torben Kofod Ager,Dansk Folkeparti,28
+Bornholm,9,Hasle,,Torben Kofod Ager,Dansk Folkeparti,7
+Bornholm,1,Allinge,,Listestemmer,Dansk Folkeparti,24
+Bornholm,2,Ã˜stermarie,,Listestemmer,Dansk Folkeparti,22
+Bornholm,3,Svaneke,,Listestemmer,Dansk Folkeparti,7
+Bornholm,4,NexÃ¸,,Listestemmer,Dansk Folkeparti,34
+Bornholm,5,Pedersker,,Listestemmer,Dansk Folkeparti,17
+Bornholm,6,Aakirkeby,,Listestemmer,Dansk Folkeparti,46
+Bornholm,7,Klemensker,,Listestemmer,Dansk Folkeparti,19
+Bornholm,8,RÃ¸nne,,Listestemmer,Dansk Folkeparti,62
+Bornholm,9,Hasle,,Listestemmer,Dansk Folkeparti,20
+Bornholm,1,Allinge,,Birthe TindbÃ¦k Bredo,"Venstre, Danmarks Liberale Part",0
+Bornholm,2,Ã˜stermarie,,Birthe TindbÃ¦k Bredo,"Venstre, Danmarks Liberale Part",0
+Bornholm,3,Svaneke,,Birthe TindbÃ¦k Bredo,"Venstre, Danmarks Liberale Part",0
+Bornholm,4,NexÃ¸,,Birthe TindbÃ¦k Bredo,"Venstre, Danmarks Liberale Part",6
+Bornholm,5,Pedersker,,Birthe TindbÃ¦k Bredo,"Venstre, Danmarks Liberale Part",2
+Bornholm,6,Aakirkeby,,Birthe TindbÃ¦k Bredo,"Venstre, Danmarks Liberale Part",3
+Bornholm,7,Klemensker,,Birthe TindbÃ¦k Bredo,"Venstre, Danmarks Liberale Part",0
+Bornholm,8,RÃ¸nne,,Birthe TindbÃ¦k Bredo,"Venstre, Danmarks Liberale Part",4
+Bornholm,9,Hasle,,Birthe TindbÃ¦k Bredo,"Venstre, Danmarks Liberale Part",0
+Bornholm,1,Allinge,,Brian Kofoed,"Venstre, Danmarks Liberale Part",12
+Bornholm,2,Ã˜stermarie,,Brian Kofoed,"Venstre, Danmarks Liberale Part",17
+Bornholm,3,Svaneke,,Brian Kofoed,"Venstre, Danmarks Liberale Part",17
+Bornholm,4,NexÃ¸,,Brian Kofoed,"Venstre, Danmarks Liberale Part",10
+Bornholm,5,Pedersker,,Brian Kofoed,"Venstre, Danmarks Liberale Part",11
+Bornholm,6,Aakirkeby,,Brian Kofoed,"Venstre, Danmarks Liberale Part",43
+Bornholm,7,Klemensker,,Brian Kofoed,"Venstre, Danmarks Liberale Part",37
+Bornholm,8,RÃ¸nne,,Brian Kofoed,"Venstre, Danmarks Liberale Part",41
+Bornholm,9,Hasle,,Brian Kofoed,"Venstre, Danmarks Liberale Part",12
+Bornholm,1,Allinge,,Carsten HÃ¦strup,"Venstre, Danmarks Liberale Part",46
+Bornholm,2,Ã˜stermarie,,Carsten HÃ¦strup,"Venstre, Danmarks Liberale Part",5
+Bornholm,3,Svaneke,,Carsten HÃ¦strup,"Venstre, Danmarks Liberale Part",1
+Bornholm,4,NexÃ¸,,Carsten HÃ¦strup,"Venstre, Danmarks Liberale Part",6
+Bornholm,5,Pedersker,,Carsten HÃ¦strup,"Venstre, Danmarks Liberale Part",2
+Bornholm,6,Aakirkeby,,Carsten HÃ¦strup,"Venstre, Danmarks Liberale Part",2
+Bornholm,7,Klemensker,,Carsten HÃ¦strup,"Venstre, Danmarks Liberale Part",4
+Bornholm,8,RÃ¸nne,,Carsten HÃ¦strup,"Venstre, Danmarks Liberale Part",31
+Bornholm,9,Hasle,,Carsten HÃ¦strup,"Venstre, Danmarks Liberale Part",5
+Bornholm,1,Allinge,,Else Merete Knoop,"Venstre, Danmarks Liberale Part",3
+Bornholm,2,Ã˜stermarie,,Else Merete Knoop,"Venstre, Danmarks Liberale Part",1
+Bornholm,3,Svaneke,,Else Merete Knoop,"Venstre, Danmarks Liberale Part",0
+Bornholm,4,NexÃ¸,,Else Merete Knoop,"Venstre, Danmarks Liberale Part",5
+Bornholm,5,Pedersker,,Else Merete Knoop,"Venstre, Danmarks Liberale Part",0
+Bornholm,6,Aakirkeby,,Else Merete Knoop,"Venstre, Danmarks Liberale Part",9
+Bornholm,7,Klemensker,,Else Merete Knoop,"Venstre, Danmarks Liberale Part",4
+Bornholm,8,RÃ¸nne,,Else Merete Knoop,"Venstre, Danmarks Liberale Part",37
+Bornholm,9,Hasle,,Else Merete Knoop,"Venstre, Danmarks Liberale Part",3
+Bornholm,1,Allinge,,Heidi Burgedahl,"Venstre, Danmarks Liberale Part",8
+Bornholm,2,Ã˜stermarie,,Heidi Burgedahl,"Venstre, Danmarks Liberale Part",10
+Bornholm,3,Svaneke,,Heidi Burgedahl,"Venstre, Danmarks Liberale Part",10
+Bornholm,4,NexÃ¸,,Heidi Burgedahl,"Venstre, Danmarks Liberale Part",11
+Bornholm,5,Pedersker,,Heidi Burgedahl,"Venstre, Danmarks Liberale Part",8
+Bornholm,6,Aakirkeby,,Heidi Burgedahl,"Venstre, Danmarks Liberale Part",30
+Bornholm,7,Klemensker,,Heidi Burgedahl,"Venstre, Danmarks Liberale Part",16
+Bornholm,8,RÃ¸nne,,Heidi Burgedahl,"Venstre, Danmarks Liberale Part",109
+Bornholm,9,Hasle,,Heidi Burgedahl,"Venstre, Danmarks Liberale Part",16
+Bornholm,1,Allinge,,Jannie Sauer,"Venstre, Danmarks Liberale Part",0
+Bornholm,2,Ã˜stermarie,,Jannie Sauer,"Venstre, Danmarks Liberale Part",0
+Bornholm,3,Svaneke,,Jannie Sauer,"Venstre, Danmarks Liberale Part",0
+Bornholm,4,NexÃ¸,,Jannie Sauer,"Venstre, Danmarks Liberale Part",0
+Bornholm,5,Pedersker,,Jannie Sauer,"Venstre, Danmarks Liberale Part",1
+Bornholm,6,Aakirkeby,,Jannie Sauer,"Venstre, Danmarks Liberale Part",2
+Bornholm,7,Klemensker,,Jannie Sauer,"Venstre, Danmarks Liberale Part",0
+Bornholm,8,RÃ¸nne,,Jannie Sauer,"Venstre, Danmarks Liberale Part",1
+Bornholm,9,Hasle,,Jannie Sauer,"Venstre, Danmarks Liberale Part",1
+Bornholm,1,Allinge,,Jens Folkmann,"Venstre, Danmarks Liberale Part",1
+Bornholm,2,Ã˜stermarie,,Jens Folkmann,"Venstre, Danmarks Liberale Part",3
+Bornholm,3,Svaneke,,Jens Folkmann,"Venstre, Danmarks Liberale Part",0
+Bornholm,4,NexÃ¸,,Jens Folkmann,"Venstre, Danmarks Liberale Part",0
+Bornholm,5,Pedersker,,Jens Folkmann,"Venstre, Danmarks Liberale Part",0
+Bornholm,6,Aakirkeby,,Jens Folkmann,"Venstre, Danmarks Liberale Part",10
+Bornholm,7,Klemensker,,Jens Folkmann,"Venstre, Danmarks Liberale Part",2
+Bornholm,8,RÃ¸nne,,Jens Folkmann,"Venstre, Danmarks Liberale Part",4
+Bornholm,9,Hasle,,Jens Folkmann,"Venstre, Danmarks Liberale Part",2
+Bornholm,1,Allinge,,Jens Haagensen,"Venstre, Danmarks Liberale Part",0
+Bornholm,2,Ã˜stermarie,,Jens Haagensen,"Venstre, Danmarks Liberale Part",0
+Bornholm,3,Svaneke,,Jens Haagensen,"Venstre, Danmarks Liberale Part",3
+Bornholm,4,NexÃ¸,,Jens Haagensen,"Venstre, Danmarks Liberale Part",17
+Bornholm,5,Pedersker,,Jens Haagensen,"Venstre, Danmarks Liberale Part",5
+Bornholm,6,Aakirkeby,,Jens Haagensen,"Venstre, Danmarks Liberale Part",0
+Bornholm,7,Klemensker,,Jens Haagensen,"Venstre, Danmarks Liberale Part",1
+Bornholm,8,RÃ¸nne,,Jens Haagensen,"Venstre, Danmarks Liberale Part",1
+Bornholm,9,Hasle,,Jens Haagensen,"Venstre, Danmarks Liberale Part",0
+Bornholm,1,Allinge,,Kate Steen Hansen,"Venstre, Danmarks Liberale Part",0
+Bornholm,2,Ã˜stermarie,,Kate Steen Hansen,"Venstre, Danmarks Liberale Part",4
+Bornholm,3,Svaneke,,Kate Steen Hansen,"Venstre, Danmarks Liberale Part",0
+Bornholm,4,NexÃ¸,,Kate Steen Hansen,"Venstre, Danmarks Liberale Part",0
+Bornholm,5,Pedersker,,Kate Steen Hansen,"Venstre, Danmarks Liberale Part",0
+Bornholm,6,Aakirkeby,,Kate Steen Hansen,"Venstre, Danmarks Liberale Part",3
+Bornholm,7,Klemensker,,Kate Steen Hansen,"Venstre, Danmarks Liberale Part",1
+Bornholm,8,RÃ¸nne,,Kate Steen Hansen,"Venstre, Danmarks Liberale Part",0
+Bornholm,9,Hasle,,Kate Steen Hansen,"Venstre, Danmarks Liberale Part",0
+Bornholm,1,Allinge,,Lisbeth Riemann,"Venstre, Danmarks Liberale Part",0
+Bornholm,2,Ã˜stermarie,,Lisbeth Riemann,"Venstre, Danmarks Liberale Part",1
+Bornholm,3,Svaneke,,Lisbeth Riemann,"Venstre, Danmarks Liberale Part",1
+Bornholm,4,NexÃ¸,,Lisbeth Riemann,"Venstre, Danmarks Liberale Part",3
+Bornholm,5,Pedersker,,Lisbeth Riemann,"Venstre, Danmarks Liberale Part",0
+Bornholm,6,Aakirkeby,,Lisbeth Riemann,"Venstre, Danmarks Liberale Part",0
+Bornholm,7,Klemensker,,Lisbeth Riemann,"Venstre, Danmarks Liberale Part",0
+Bornholm,8,RÃ¸nne,,Lisbeth Riemann,"Venstre, Danmarks Liberale Part",10
+Bornholm,9,Hasle,,Lisbeth Riemann,"Venstre, Danmarks Liberale Part",0
+Bornholm,1,Allinge,,Maike Fiil,"Venstre, Danmarks Liberale Part",36
+Bornholm,2,Ã˜stermarie,,Maike Fiil,"Venstre, Danmarks Liberale Part",8
+Bornholm,3,Svaneke,,Maike Fiil,"Venstre, Danmarks Liberale Part",9
+Bornholm,4,NexÃ¸,,Maike Fiil,"Venstre, Danmarks Liberale Part",3
+Bornholm,5,Pedersker,,Maike Fiil,"Venstre, Danmarks Liberale Part",7
+Bornholm,6,Aakirkeby,,Maike Fiil,"Venstre, Danmarks Liberale Part",14
+Bornholm,7,Klemensker,,Maike Fiil,"Venstre, Danmarks Liberale Part",8
+Bornholm,8,RÃ¸nne,,Maike Fiil,"Venstre, Danmarks Liberale Part",18
+Bornholm,9,Hasle,,Maike Fiil,"Venstre, Danmarks Liberale Part",9
+Bornholm,1,Allinge,,Michael Hendriksen,"Venstre, Danmarks Liberale Part",23
+Bornholm,2,Ã˜stermarie,,Michael Hendriksen,"Venstre, Danmarks Liberale Part",12
+Bornholm,3,Svaneke,,Michael Hendriksen,"Venstre, Danmarks Liberale Part",1
+Bornholm,4,NexÃ¸,,Michael Hendriksen,"Venstre, Danmarks Liberale Part",8
+Bornholm,5,Pedersker,,Michael Hendriksen,"Venstre, Danmarks Liberale Part",3
+Bornholm,6,Aakirkeby,,Michael Hendriksen,"Venstre, Danmarks Liberale Part",32
+Bornholm,7,Klemensker,,Michael Hendriksen,"Venstre, Danmarks Liberale Part",38
+Bornholm,8,RÃ¸nne,,Michael Hendriksen,"Venstre, Danmarks Liberale Part",35
+Bornholm,9,Hasle,,Michael Hendriksen,"Venstre, Danmarks Liberale Part",19
+Bornholm,1,Allinge,,Orla Hansen,"Venstre, Danmarks Liberale Part",24
+Bornholm,2,Ã˜stermarie,,Orla Hansen,"Venstre, Danmarks Liberale Part",8
+Bornholm,3,Svaneke,,Orla Hansen,"Venstre, Danmarks Liberale Part",1
+Bornholm,4,NexÃ¸,,Orla Hansen,"Venstre, Danmarks Liberale Part",1
+Bornholm,5,Pedersker,,Orla Hansen,"Venstre, Danmarks Liberale Part",7
+Bornholm,6,Aakirkeby,,Orla Hansen,"Venstre, Danmarks Liberale Part",16
+Bornholm,7,Klemensker,,Orla Hansen,"Venstre, Danmarks Liberale Part",4
+Bornholm,8,RÃ¸nne,,Orla Hansen,"Venstre, Danmarks Liberale Part",14
+Bornholm,9,Hasle,,Orla Hansen,"Venstre, Danmarks Liberale Part",9
+Bornholm,1,Allinge,,SÃ¸ren Schow,"Venstre, Danmarks Liberale Part",50
+Bornholm,2,Ã˜stermarie,,SÃ¸ren Schow,"Venstre, Danmarks Liberale Part",64
+Bornholm,3,Svaneke,,SÃ¸ren Schow,"Venstre, Danmarks Liberale Part",64
+Bornholm,4,NexÃ¸,,SÃ¸ren Schow,"Venstre, Danmarks Liberale Part",132
+Bornholm,5,Pedersker,,SÃ¸ren Schow,"Venstre, Danmarks Liberale Part",72
+Bornholm,6,Aakirkeby,,SÃ¸ren Schow,"Venstre, Danmarks Liberale Part",110
+Bornholm,7,Klemensker,,SÃ¸ren Schow,"Venstre, Danmarks Liberale Part",35
+Bornholm,8,RÃ¸nne,,SÃ¸ren Schow,"Venstre, Danmarks Liberale Part",201
+Bornholm,9,Hasle,,SÃ¸ren Schow,"Venstre, Danmarks Liberale Part",51
+Bornholm,1,Allinge,,Tom Idon Nielsen,"Venstre, Danmarks Liberale Part",2
+Bornholm,2,Ã˜stermarie,,Tom Idon Nielsen,"Venstre, Danmarks Liberale Part",1
+Bornholm,3,Svaneke,,Tom Idon Nielsen,"Venstre, Danmarks Liberale Part",0
+Bornholm,4,NexÃ¸,,Tom Idon Nielsen,"Venstre, Danmarks Liberale Part",0
+Bornholm,5,Pedersker,,Tom Idon Nielsen,"Venstre, Danmarks Liberale Part",0
+Bornholm,6,Aakirkeby,,Tom Idon Nielsen,"Venstre, Danmarks Liberale Part",0
+Bornholm,7,Klemensker,,Tom Idon Nielsen,"Venstre, Danmarks Liberale Part",0
+Bornholm,8,RÃ¸nne,,Tom Idon Nielsen,"Venstre, Danmarks Liberale Part",4
+Bornholm,9,Hasle,,Tom Idon Nielsen,"Venstre, Danmarks Liberale Part",0
+Bornholm,1,Allinge,,Listestemmer,"Venstre, Danmarks Liberale Part",34
+Bornholm,2,Ã˜stermarie,,Listestemmer,"Venstre, Danmarks Liberale Part",35
+Bornholm,3,Svaneke,,Listestemmer,"Venstre, Danmarks Liberale Part",21
+Bornholm,4,NexÃ¸,,Listestemmer,"Venstre, Danmarks Liberale Part",47
+Bornholm,5,Pedersker,,Listestemmer,"Venstre, Danmarks Liberale Part",26
+Bornholm,6,Aakirkeby,,Listestemmer,"Venstre, Danmarks Liberale Part",69
+Bornholm,7,Klemensker,,Listestemmer,"Venstre, Danmarks Liberale Part",25
+Bornholm,8,RÃ¸nne,,Listestemmer,"Venstre, Danmarks Liberale Part",136
+Bornholm,9,Hasle,,Listestemmer,"Venstre, Danmarks Liberale Part",25
+Bornholm,1,Allinge,,Bo Ancher Jensen,Bornholmerlisten,1
+Bornholm,2,Ã˜stermarie,,Bo Ancher Jensen,Bornholmerlisten,0
+Bornholm,3,Svaneke,,Bo Ancher Jensen,Bornholmerlisten,0
+Bornholm,4,NexÃ¸,,Bo Ancher Jensen,Bornholmerlisten,5
+Bornholm,5,Pedersker,,Bo Ancher Jensen,Bornholmerlisten,3
+Bornholm,6,Aakirkeby,,Bo Ancher Jensen,Bornholmerlisten,2
+Bornholm,7,Klemensker,,Bo Ancher Jensen,Bornholmerlisten,1
+Bornholm,8,RÃ¸nne,,Bo Ancher Jensen,Bornholmerlisten,4
+Bornholm,9,Hasle,,Bo Ancher Jensen,Bornholmerlisten,1
+Bornholm,1,Allinge,,Eivind Madsen,Bornholmerlisten,4
+Bornholm,2,Ã˜stermarie,,Eivind Madsen,Bornholmerlisten,5
+Bornholm,3,Svaneke,,Eivind Madsen,Bornholmerlisten,8
+Bornholm,4,NexÃ¸,,Eivind Madsen,Bornholmerlisten,7
+Bornholm,5,Pedersker,,Eivind Madsen,Bornholmerlisten,2
+Bornholm,6,Aakirkeby,,Eivind Madsen,Bornholmerlisten,3
+Bornholm,7,Klemensker,,Eivind Madsen,Bornholmerlisten,2
+Bornholm,8,RÃ¸nne,,Eivind Madsen,Bornholmerlisten,7
+Bornholm,9,Hasle,,Eivind Madsen,Bornholmerlisten,5
+Bornholm,1,Allinge,,Kirstine van Sabben,Bornholmerlisten,168
+Bornholm,2,Ã˜stermarie,,Kirstine van Sabben,Bornholmerlisten,169
+Bornholm,3,Svaneke,,Kirstine van Sabben,Bornholmerlisten,114
+Bornholm,4,NexÃ¸,,Kirstine van Sabben,Bornholmerlisten,308
+Bornholm,5,Pedersker,,Kirstine van Sabben,Bornholmerlisten,137
+Bornholm,6,Aakirkeby,,Kirstine van Sabben,Bornholmerlisten,348
+Bornholm,7,Klemensker,,Kirstine van Sabben,Bornholmerlisten,185
+Bornholm,8,RÃ¸nne,,Kirstine van Sabben,Bornholmerlisten,741
+Bornholm,9,Hasle,,Kirstine van Sabben,Bornholmerlisten,204
+Bornholm,1,Allinge,,Niels Henriksen,Bornholmerlisten,0
+Bornholm,2,Ã˜stermarie,,Niels Henriksen,Bornholmerlisten,1
+Bornholm,3,Svaneke,,Niels Henriksen,Bornholmerlisten,0
+Bornholm,4,NexÃ¸,,Niels Henriksen,Bornholmerlisten,2
+Bornholm,5,Pedersker,,Niels Henriksen,Bornholmerlisten,0
+Bornholm,6,Aakirkeby,,Niels Henriksen,Bornholmerlisten,2
+Bornholm,7,Klemensker,,Niels Henriksen,Bornholmerlisten,2
+Bornholm,8,RÃ¸nne,,Niels Henriksen,Bornholmerlisten,2
+Bornholm,9,Hasle,,Niels Henriksen,Bornholmerlisten,0
+Bornholm,1,Allinge,,Zille Thilde Vangsaa,Bornholmerlisten,3
+Bornholm,2,Ã˜stermarie,,Zille Thilde Vangsaa,Bornholmerlisten,8
+Bornholm,3,Svaneke,,Zille Thilde Vangsaa,Bornholmerlisten,1
+Bornholm,4,NexÃ¸,,Zille Thilde Vangsaa,Bornholmerlisten,9
+Bornholm,5,Pedersker,,Zille Thilde Vangsaa,Bornholmerlisten,4
+Bornholm,6,Aakirkeby,,Zille Thilde Vangsaa,Bornholmerlisten,12
+Bornholm,7,Klemensker,,Zille Thilde Vangsaa,Bornholmerlisten,6
+Bornholm,8,RÃ¸nne,,Zille Thilde Vangsaa,Bornholmerlisten,14
+Bornholm,9,Hasle,,Zille Thilde Vangsaa,Bornholmerlisten,3
+Bornholm,1,Allinge,,Listestemmer,Bornholmerlisten,16
+Bornholm,2,Ã˜stermarie,,Listestemmer,Bornholmerlisten,10
+Bornholm,3,Svaneke,,Listestemmer,Bornholmerlisten,6
+Bornholm,4,NexÃ¸,,Listestemmer,Bornholmerlisten,15
+Bornholm,5,Pedersker,,Listestemmer,Bornholmerlisten,7
+Bornholm,6,Aakirkeby,,Listestemmer,Bornholmerlisten,19
+Bornholm,7,Klemensker,,Listestemmer,Bornholmerlisten,13
+Bornholm,8,RÃ¸nne,,Listestemmer,Bornholmerlisten,31
+Bornholm,9,Hasle,,Listestemmer,Bornholmerlisten,3
+Bornholm,1,Allinge,,Fridrik Adamsson,Enhedslisten - De RÃ¸d-GrÃ¸nne,0
+Bornholm,2,Ã˜stermarie,,Fridrik Adamsson,Enhedslisten - De RÃ¸d-GrÃ¸nne,0
+Bornholm,3,Svaneke,,Fridrik Adamsson,Enhedslisten - De RÃ¸d-GrÃ¸nne,2
+Bornholm,4,NexÃ¸,,Fridrik Adamsson,Enhedslisten - De RÃ¸d-GrÃ¸nne,0
+Bornholm,5,Pedersker,,Fridrik Adamsson,Enhedslisten - De RÃ¸d-GrÃ¸nne,0
+Bornholm,6,Aakirkeby,,Fridrik Adamsson,Enhedslisten - De RÃ¸d-GrÃ¸nne,1
+Bornholm,7,Klemensker,,Fridrik Adamsson,Enhedslisten - De RÃ¸d-GrÃ¸nne,0
+Bornholm,8,RÃ¸nne,,Fridrik Adamsson,Enhedslisten - De RÃ¸d-GrÃ¸nne,0
+Bornholm,9,Hasle,,Fridrik Adamsson,Enhedslisten - De RÃ¸d-GrÃ¸nne,0
+Bornholm,1,Allinge,,Gunna MÃ¸ller,Enhedslisten - De RÃ¸d-GrÃ¸nne,0
+Bornholm,2,Ã˜stermarie,,Gunna MÃ¸ller,Enhedslisten - De RÃ¸d-GrÃ¸nne,3
+Bornholm,3,Svaneke,,Gunna MÃ¸ller,Enhedslisten - De RÃ¸d-GrÃ¸nne,6
+Bornholm,4,NexÃ¸,,Gunna MÃ¸ller,Enhedslisten - De RÃ¸d-GrÃ¸nne,1
+Bornholm,5,Pedersker,,Gunna MÃ¸ller,Enhedslisten - De RÃ¸d-GrÃ¸nne,0
+Bornholm,6,Aakirkeby,,Gunna MÃ¸ller,Enhedslisten - De RÃ¸d-GrÃ¸nne,0
+Bornholm,7,Klemensker,,Gunna MÃ¸ller,Enhedslisten - De RÃ¸d-GrÃ¸nne,0
+Bornholm,8,RÃ¸nne,,Gunna MÃ¸ller,Enhedslisten - De RÃ¸d-GrÃ¸nne,8
+Bornholm,9,Hasle,,Gunna MÃ¸ller,Enhedslisten - De RÃ¸d-GrÃ¸nne,1
+Bornholm,1,Allinge,,Helle Munk Ravnborg,Enhedslisten - De RÃ¸d-GrÃ¸nne,25
+Bornholm,2,Ã˜stermarie,,Helle Munk Ravnborg,Enhedslisten - De RÃ¸d-GrÃ¸nne,26
+Bornholm,3,Svaneke,,Helle Munk Ravnborg,Enhedslisten - De RÃ¸d-GrÃ¸nne,24
+Bornholm,4,NexÃ¸,,Helle Munk Ravnborg,Enhedslisten - De RÃ¸d-GrÃ¸nne,8
+Bornholm,5,Pedersker,,Helle Munk Ravnborg,Enhedslisten - De RÃ¸d-GrÃ¸nne,5
+Bornholm,6,Aakirkeby,,Helle Munk Ravnborg,Enhedslisten - De RÃ¸d-GrÃ¸nne,9
+Bornholm,7,Klemensker,,Helle Munk Ravnborg,Enhedslisten - De RÃ¸d-GrÃ¸nne,6
+Bornholm,8,RÃ¸nne,,Helle Munk Ravnborg,Enhedslisten - De RÃ¸d-GrÃ¸nne,45
+Bornholm,9,Hasle,,Helle Munk Ravnborg,Enhedslisten - De RÃ¸d-GrÃ¸nne,14
+Bornholm,1,Allinge,,Klaus Hermansen,Enhedslisten - De RÃ¸d-GrÃ¸nne,1
+Bornholm,2,Ã˜stermarie,,Klaus Hermansen,Enhedslisten - De RÃ¸d-GrÃ¸nne,0
+Bornholm,3,Svaneke,,Klaus Hermansen,Enhedslisten - De RÃ¸d-GrÃ¸nne,1
+Bornholm,4,NexÃ¸,,Klaus Hermansen,Enhedslisten - De RÃ¸d-GrÃ¸nne,9
+Bornholm,5,Pedersker,,Klaus Hermansen,Enhedslisten - De RÃ¸d-GrÃ¸nne,0
+Bornholm,6,Aakirkeby,,Klaus Hermansen,Enhedslisten - De RÃ¸d-GrÃ¸nne,3
+Bornholm,7,Klemensker,,Klaus Hermansen,Enhedslisten - De RÃ¸d-GrÃ¸nne,1
+Bornholm,8,RÃ¸nne,,Klaus Hermansen,Enhedslisten - De RÃ¸d-GrÃ¸nne,1
+Bornholm,9,Hasle,,Klaus Hermansen,Enhedslisten - De RÃ¸d-GrÃ¸nne,4
+Bornholm,1,Allinge,,Laura Kofod,Enhedslisten - De RÃ¸d-GrÃ¸nne,12
+Bornholm,2,Ã˜stermarie,,Laura Kofod,Enhedslisten - De RÃ¸d-GrÃ¸nne,10
+Bornholm,3,Svaneke,,Laura Kofod,Enhedslisten - De RÃ¸d-GrÃ¸nne,10
+Bornholm,4,NexÃ¸,,Laura Kofod,Enhedslisten - De RÃ¸d-GrÃ¸nne,13
+Bornholm,5,Pedersker,,Laura Kofod,Enhedslisten - De RÃ¸d-GrÃ¸nne,4
+Bornholm,6,Aakirkeby,,Laura Kofod,Enhedslisten - De RÃ¸d-GrÃ¸nne,15
+Bornholm,7,Klemensker,,Laura Kofod,Enhedslisten - De RÃ¸d-GrÃ¸nne,7
+Bornholm,8,RÃ¸nne,,Laura Kofod,Enhedslisten - De RÃ¸d-GrÃ¸nne,43
+Bornholm,9,Hasle,,Laura Kofod,Enhedslisten - De RÃ¸d-GrÃ¸nne,9
+Bornholm,1,Allinge,,Mikael Benzon,Enhedslisten - De RÃ¸d-GrÃ¸nne,6
+Bornholm,2,Ã˜stermarie,,Mikael Benzon,Enhedslisten - De RÃ¸d-GrÃ¸nne,4
+Bornholm,3,Svaneke,,Mikael Benzon,Enhedslisten - De RÃ¸d-GrÃ¸nne,0
+Bornholm,4,NexÃ¸,,Mikael Benzon,Enhedslisten - De RÃ¸d-GrÃ¸nne,2
+Bornholm,5,Pedersker,,Mikael Benzon,Enhedslisten - De RÃ¸d-GrÃ¸nne,0
+Bornholm,6,Aakirkeby,,Mikael Benzon,Enhedslisten - De RÃ¸d-GrÃ¸nne,1
+Bornholm,7,Klemensker,,Mikael Benzon,Enhedslisten - De RÃ¸d-GrÃ¸nne,2
+Bornholm,8,RÃ¸nne,,Mikael Benzon,Enhedslisten - De RÃ¸d-GrÃ¸nne,5
+Bornholm,9,Hasle,,Mikael Benzon,Enhedslisten - De RÃ¸d-GrÃ¸nne,4
+Bornholm,1,Allinge,,Morten Riis,Enhedslisten - De RÃ¸d-GrÃ¸nne,423
+Bornholm,2,Ã˜stermarie,,Morten Riis,Enhedslisten - De RÃ¸d-GrÃ¸nne,447
+Bornholm,3,Svaneke,,Morten Riis,Enhedslisten - De RÃ¸d-GrÃ¸nne,349
+Bornholm,4,NexÃ¸,,Morten Riis,Enhedslisten - De RÃ¸d-GrÃ¸nne,544
+Bornholm,5,Pedersker,,Morten Riis,Enhedslisten - De RÃ¸d-GrÃ¸nne,155
+Bornholm,6,Aakirkeby,,Morten Riis,Enhedslisten - De RÃ¸d-GrÃ¸nne,421
+Bornholm,7,Klemensker,,Morten Riis,Enhedslisten - De RÃ¸d-GrÃ¸nne,207
+Bornholm,8,RÃ¸nne,,Morten Riis,Enhedslisten - De RÃ¸d-GrÃ¸nne,1436
+Bornholm,9,Hasle,,Morten Riis,Enhedslisten - De RÃ¸d-GrÃ¸nne,308
+Bornholm,1,Allinge,,Niclas Fick,Enhedslisten - De RÃ¸d-GrÃ¸nne,3
+Bornholm,2,Ã˜stermarie,,Niclas Fick,Enhedslisten - De RÃ¸d-GrÃ¸nne,6
+Bornholm,3,Svaneke,,Niclas Fick,Enhedslisten - De RÃ¸d-GrÃ¸nne,4
+Bornholm,4,NexÃ¸,,Niclas Fick,Enhedslisten - De RÃ¸d-GrÃ¸nne,3
+Bornholm,5,Pedersker,,Niclas Fick,Enhedslisten - De RÃ¸d-GrÃ¸nne,3
+Bornholm,6,Aakirkeby,,Niclas Fick,Enhedslisten - De RÃ¸d-GrÃ¸nne,28
+Bornholm,7,Klemensker,,Niclas Fick,Enhedslisten - De RÃ¸d-GrÃ¸nne,2
+Bornholm,8,RÃ¸nne,,Niclas Fick,Enhedslisten - De RÃ¸d-GrÃ¸nne,21
+Bornholm,9,Hasle,,Niclas Fick,Enhedslisten - De RÃ¸d-GrÃ¸nne,6
+Bornholm,1,Allinge,,Peter Andersen,Enhedslisten - De RÃ¸d-GrÃ¸nne,2
+Bornholm,2,Ã˜stermarie,,Peter Andersen,Enhedslisten - De RÃ¸d-GrÃ¸nne,3
+Bornholm,3,Svaneke,,Peter Andersen,Enhedslisten - De RÃ¸d-GrÃ¸nne,0
+Bornholm,4,NexÃ¸,,Peter Andersen,Enhedslisten - De RÃ¸d-GrÃ¸nne,0
+Bornholm,5,Pedersker,,Peter Andersen,Enhedslisten - De RÃ¸d-GrÃ¸nne,1
+Bornholm,6,Aakirkeby,,Peter Andersen,Enhedslisten - De RÃ¸d-GrÃ¸nne,1
+Bornholm,7,Klemensker,,Peter Andersen,Enhedslisten - De RÃ¸d-GrÃ¸nne,2
+Bornholm,8,RÃ¸nne,,Peter Andersen,Enhedslisten - De RÃ¸d-GrÃ¸nne,6
+Bornholm,9,Hasle,,Peter Andersen,Enhedslisten - De RÃ¸d-GrÃ¸nne,3
+Bornholm,1,Allinge,,Runa Jensen,Enhedslisten - De RÃ¸d-GrÃ¸nne,0
+Bornholm,2,Ã˜stermarie,,Runa Jensen,Enhedslisten - De RÃ¸d-GrÃ¸nne,0
+Bornholm,3,Svaneke,,Runa Jensen,Enhedslisten - De RÃ¸d-GrÃ¸nne,1
+Bornholm,4,NexÃ¸,,Runa Jensen,Enhedslisten - De RÃ¸d-GrÃ¸nne,0
+Bornholm,5,Pedersker,,Runa Jensen,Enhedslisten - De RÃ¸d-GrÃ¸nne,0
+Bornholm,6,Aakirkeby,,Runa Jensen,Enhedslisten - De RÃ¸d-GrÃ¸nne,0
+Bornholm,7,Klemensker,,Runa Jensen,Enhedslisten - De RÃ¸d-GrÃ¸nne,0
+Bornholm,8,RÃ¸nne,,Runa Jensen,Enhedslisten - De RÃ¸d-GrÃ¸nne,1
+Bornholm,9,Hasle,,Runa Jensen,Enhedslisten - De RÃ¸d-GrÃ¸nne,0
+Bornholm,1,Allinge,,Sanne Friborg,Enhedslisten - De RÃ¸d-GrÃ¸nne,3
+Bornholm,2,Ã˜stermarie,,Sanne Friborg,Enhedslisten - De RÃ¸d-GrÃ¸nne,1
+Bornholm,3,Svaneke,,Sanne Friborg,Enhedslisten - De RÃ¸d-GrÃ¸nne,3
+Bornholm,4,NexÃ¸,,Sanne Friborg,Enhedslisten - De RÃ¸d-GrÃ¸nne,4
+Bornholm,5,Pedersker,,Sanne Friborg,Enhedslisten - De RÃ¸d-GrÃ¸nne,0
+Bornholm,6,Aakirkeby,,Sanne Friborg,Enhedslisten - De RÃ¸d-GrÃ¸nne,2
+Bornholm,7,Klemensker,,Sanne Friborg,Enhedslisten - De RÃ¸d-GrÃ¸nne,1
+Bornholm,8,RÃ¸nne,,Sanne Friborg,Enhedslisten - De RÃ¸d-GrÃ¸nne,9
+Bornholm,9,Hasle,,Sanne Friborg,Enhedslisten - De RÃ¸d-GrÃ¸nne,5
+Bornholm,1,Allinge,,Stig Westermann,Enhedslisten - De RÃ¸d-GrÃ¸nne,5
+Bornholm,2,Ã˜stermarie,,Stig Westermann,Enhedslisten - De RÃ¸d-GrÃ¸nne,7
+Bornholm,3,Svaneke,,Stig Westermann,Enhedslisten - De RÃ¸d-GrÃ¸nne,1
+Bornholm,4,NexÃ¸,,Stig Westermann,Enhedslisten - De RÃ¸d-GrÃ¸nne,1
+Bornholm,5,Pedersker,,Stig Westermann,Enhedslisten - De RÃ¸d-GrÃ¸nne,1
+Bornholm,6,Aakirkeby,,Stig Westermann,Enhedslisten - De RÃ¸d-GrÃ¸nne,3
+Bornholm,7,Klemensker,,Stig Westermann,Enhedslisten - De RÃ¸d-GrÃ¸nne,2
+Bornholm,8,RÃ¸nne,,Stig Westermann,Enhedslisten - De RÃ¸d-GrÃ¸nne,5
+Bornholm,9,Hasle,,Stig Westermann,Enhedslisten - De RÃ¸d-GrÃ¸nne,2
+Bornholm,1,Allinge,,Listestemmer,Enhedslisten - De RÃ¸d-GrÃ¸nne,60
+Bornholm,2,Ã˜stermarie,,Listestemmer,Enhedslisten - De RÃ¸d-GrÃ¸nne,57
+Bornholm,3,Svaneke,,Listestemmer,Enhedslisten - De RÃ¸d-GrÃ¸nne,64
+Bornholm,4,NexÃ¸,,Listestemmer,Enhedslisten - De RÃ¸d-GrÃ¸nne,79
+Bornholm,5,Pedersker,,Listestemmer,Enhedslisten - De RÃ¸d-GrÃ¸nne,26
+Bornholm,6,Aakirkeby,,Listestemmer,Enhedslisten - De RÃ¸d-GrÃ¸nne,68
+Bornholm,7,Klemensker,,Listestemmer,Enhedslisten - De RÃ¸d-GrÃ¸nne,35
+Bornholm,8,RÃ¸nne,,Listestemmer,Enhedslisten - De RÃ¸d-GrÃ¸nne,200
+Bornholm,9,Hasle,,Listestemmer,Enhedslisten - De RÃ¸d-GrÃ¸nne,39
+Bornholm,1,Allinge,,Caroline Meyer White,Alternativet,36
+Bornholm,2,Ã˜stermarie,,Caroline Meyer White,Alternativet,28
+Bornholm,3,Svaneke,,Caroline Meyer White,Alternativet,31
+Bornholm,4,NexÃ¸,,Caroline Meyer White,Alternativet,40
+Bornholm,5,Pedersker,,Caroline Meyer White,Alternativet,15
+Bornholm,6,Aakirkeby,,Caroline Meyer White,Alternativet,42
+Bornholm,7,Klemensker,,Caroline Meyer White,Alternativet,20
+Bornholm,8,RÃ¸nne,,Caroline Meyer White,Alternativet,89
+Bornholm,9,Hasle,,Caroline Meyer White,Alternativet,19
+Bornholm,1,Allinge,,Katrine BÃ¦rendsen,Alternativet,1
+Bornholm,2,Ã˜stermarie,,Katrine BÃ¦rendsen,Alternativet,2
+Bornholm,3,Svaneke,,Katrine BÃ¦rendsen,Alternativet,2
+Bornholm,4,NexÃ¸,,Katrine BÃ¦rendsen,Alternativet,3
+Bornholm,5,Pedersker,,Katrine BÃ¦rendsen,Alternativet,1
+Bornholm,6,Aakirkeby,,Katrine BÃ¦rendsen,Alternativet,4
+Bornholm,7,Klemensker,,Katrine BÃ¦rendsen,Alternativet,2
+Bornholm,8,RÃ¸nne,,Katrine BÃ¦rendsen,Alternativet,19
+Bornholm,9,Hasle,,Katrine BÃ¦rendsen,Alternativet,2
+Bornholm,1,Allinge,,Tom Hjorth Grove,Alternativet,0
+Bornholm,2,Ã˜stermarie,,Tom Hjorth Grove,Alternativet,0
+Bornholm,3,Svaneke,,Tom Hjorth Grove,Alternativet,0
+Bornholm,4,NexÃ¸,,Tom Hjorth Grove,Alternativet,0
+Bornholm,5,Pedersker,,Tom Hjorth Grove,Alternativet,0
+Bornholm,6,Aakirkeby,,Tom Hjorth Grove,Alternativet,0
+Bornholm,7,Klemensker,,Tom Hjorth Grove,Alternativet,0
+Bornholm,8,RÃ¸nne,,Tom Hjorth Grove,Alternativet,1
+Bornholm,9,Hasle,,Tom Hjorth Grove,Alternativet,0
+Bornholm,1,Allinge,,Listestemmer,Alternativet,4
+Bornholm,2,Ã˜stermarie,,Listestemmer,Alternativet,7
+Bornholm,3,Svaneke,,Listestemmer,Alternativet,2
+Bornholm,4,NexÃ¸,,Listestemmer,Alternativet,4
+Bornholm,5,Pedersker,,Listestemmer,Alternativet,2
+Bornholm,6,Aakirkeby,,Listestemmer,Alternativet,9
+Bornholm,7,Klemensker,,Listestemmer,Alternativet,4
+Bornholm,8,RÃ¸nne,,Listestemmer,Alternativet,13
+Bornholm,9,Hasle,,Listestemmer,Alternativet,12
