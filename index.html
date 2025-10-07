@@ -285,7 +285,8 @@
     });
     el('btn-try-load').onclick = tryLoadDefault;
     // Auto-indlæs data/stemmer.csv når siden åbnes
-window.addEventListener('DOMContentLoaded', tryLoadDefault);
+    window.addEventListener('DOMContentLoaded', tryLoadDefault);
+
 
     el('kommune').onchange = (e)=>{ state.kommune = e.target.value; render(); };
     el('search').oninput = (e)=>{ state.search = e.target.value; renderKandidater(); };
