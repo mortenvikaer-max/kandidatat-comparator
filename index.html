@@ -7,7 +7,7 @@
 
   <!-- Tailwind CSS -->
   <script src="https://cdn.tailwindcss.com"></script>
-  <!-- PapaParse -->
+  <!-- PapaParse til CSV -->
   <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
   <!-- Chart.js -->
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
@@ -26,8 +26,8 @@
         <h1 class="text-2xl font-semibold tracking-tight">Kandidat-Comparator</h1>
         <p class="text-sm text-gray-600">
           Vælg kommune → parti → kandidater. Siden sammenligner kandidaternes stemmer på
-          <span class="font-medium">alle valgsteder i kommunen</span>.
-          Data hentes fra <code>/data/&lt;Kommune&gt;_allepartier.csv</code> (eller <code>/data/&lt;Kommune&gt;.csv</code>).
+          <span class="font-medium">alle valgsteder i kommunen</span>. Data hentes fra
+          <code>/data/&lt;Kommune&gt;_allepartier.csv</code> (eller <code>/data/&lt;Kommune&gt;.csv</code>).
         </p>
       </div>
       <button id="btn-help" class="chip">Skema & hjælp</button>
@@ -97,108 +97,35 @@
   </div>
 
   <script>
-    // ---------- KONFIG ----------
-    // Udvid listen med dine kommuner (brug samme stavning som i filnavnene i /data)
-    const KOMMUNER = [
-  "Albertslund",
-  "Allerød",
-  "Assens",
-  "Ballerup",
-  "Billund",
-  "Bornholm",
-  "Brøndby",
-  "Brønderslev",
-  "Dragør",
-  "Egedal",
-  "Esbjerg",
-  "Fanø",
-  "Favrskov",
-  "Faxe",
-  "Fredensborg",
-  "Fredericia",
-  "Frederiksberg",
-  "Frederikshavn",
-  "Frederikssund",
-  "Furesø",
-  "Faaborg-Midtfyn",
-  "Gentofte",
-  "Gladsaxe",
-  "Glostrup",
-  "Greve",
-  "Gribskov",
-  "Guldborgsund",
-  "Haderslev",
-  "Halsnæs",
-  "Hedensted",
-  "Helsingør",
-  "Herlev",
-  "Herning",
-  "Hillerød",
-  "Hjørring",
-  "Holbæk",
-  "Holstebro",
-  "Horsens",
-  "Hvidovre",
-  "Høje-Taastrup",
-  "Hørsholm",
-  "Ikast-Brande",
-  "Ishøj",
-  "Jammerbugt",
-  "Kalundborg",
-  "Kerteminde",
-  "Kolding",
-  "København",
-  "Køge",
-  "Langeland",
-  "Lejre",
-  "Lemvig",
-  "Lolland",
-  "Lyngby-Taarbæk",
-  "Læsø",
-  "Mariagerfjord",
-  "Middelfart",
-  "Morsø",
-  "Norddjurs",
-  "Nordfyns",
-  "Nyborg",
-  "Næstved",
-  "Odder",
-  "Odense",
-  "Odsherred",
-  "Randers",
-  "Rebild",
-  "Ringkøbing-Skjern",
-  "Ringsted",
-  "Roskilde",
-  "Rudersdal",
-  "Rødovre",
-  "Samsø",
-  "Silkeborg",
-  "Skanderborg",
-  "Skive",
-  "Slagelse",
-  "Solrød",
-  "Sorø",
-  "Stevns",
-  "Struer",
-  "Svendborg",
-  "Syddjurs",
-  "Sønderborg",
-  "Thisted",
-  "Tønder",
-  "Tårnby",
-  "Vallensbæk",
-  "Varde",
-  "Vejen",
-  "Vejle",
-  "Vesthimmerlands",
-  "Viborg",
-  "Vordingborg",
-  "Ærø",
-  "Aabenraa",
-  "Aalborg",
-  "Aarhus"
-];
+    // ---------- KONFIG: alle 98 kommuner grupperet pr. region ----------
+    const REGIONS = {
+      "Region Hovedstaden": [
+        "Albertslund","Allerød","Ballerup","Bornholm","Brøndby","Dragør","Egedal",
+        "Fredensborg","Frederiksberg","Frederikssund","Furesø","Gentofte","Gladsaxe",
+        "Glostrup","Gribskov","Halsnæs","Herlev","Hillerød","Hvidovre","Høje-Taastrup",
+        "Hørsholm","Ishøj","København","Lyngby-Taarbæk","Rudersdal","Rødovre",
+        "Tårnby","Vallensbæk"
+      ],
+      "Region Sjælland": [
+        "Faxe","Greve","Guldborgsund","Holbæk","Kalundborg","Køge","Lejre","Lolland",
+        "Næstved","Odsherred","Ringsted","Roskilde","Slagelse","Solrød","Sorø",
+        "Stevns","Vordingborg"
+      ],
+      "Region Syddanmark": [
+        "Assens","Billund","Esbjerg","Fanø","Fredericia","Faaborg-Midtfyn","Haderslev",
+        "Kerteminde","Kolding","Langeland","Middelfart","Nordfyns","Nyborg","Odense",
+        "Svendborg","Tønder","Varde","Vejen","Vejle","Ærø","Aabenraa","Sønderborg"
+      ],
+      "Region Midtjylland": [
+        "Favrskov","Hedensted","Herning","Holstebro","Horsens","Ikast-Brande","Lemvig",
+        "Norddjurs","Odder","Randers","Ringkøbing-Skjern","Samsø","Silkeborg",
+        "Skanderborg","Skive","Struer","Syddjurs","Viborg","Aarhus"
+      ],
+      "Region Nordjylland": [
+        "Brønderslev","Frederikshavn","Hjørring","Jammerbugt","Læsø","Mariagerfjord",
+        "Morsø","Rebild","Thisted","Vesthimmerlands","Aalborg"
+      ]
+    };
 
     // ---------- STATE ----------
     const state = {
@@ -217,10 +144,10 @@
       initKommuneDropdown();
       initTabs();
       bindUI();
-      // URL-param ?kommune=... (valgfrit)
+      // Sæt fra URL ?kommune=...
       const params = new URLSearchParams(window.location.search);
       const k = params.get("kommune");
-      if (k && KOMMUNER.includes(k)) {
+      if (k) {
         el("kommuneSelect").value = k;
         loadKommuneData(k);
       }
@@ -228,15 +155,23 @@
 
     function initKommuneDropdown() {
       const sel = el("kommuneSelect");
-      sel.innerHTML = `<option value="">Vælg kommune…</option>` + KOMMUNER.map(k => `<option value="${k}">${k}</option>`).join("");
+      let html = `<option value="">Vælg kommune…</option>`;
+      for (const [region, kommuner] of Object.entries(REGIONS)) {
+        html += `<optgroup label="${region}">` +
+          kommuner.map(k => `<option value="${k}">${k}</option>`).join("") +
+          `</optgroup>`;
+      }
+      sel.innerHTML = html;
+
       sel.onchange = () => {
         const k = sel.value;
-        // nulstil UI afhængigheder
+        // nulstil afhængigheder
         el("partiSelect").innerHTML = `<option value="">Indlæser…</option>`;
         el("partiSelect").disabled = true;
         el("search").value = ""; el("search").disabled = true;
         state.selected.clear(); renderSelectedCount();
         renderCandidateList([]); renderPsTable([], []); resetChart();
+
         if (k) {
           const url = new URL(window.location.href);
           url.searchParams.set("kommune", k); history.replaceState({}, "", url);
@@ -254,11 +189,14 @@
         renderChart();
       };
       el("search").oninput = (e) => { state.search = e.target.value; refreshCandidatesUI(); };
-      el("btn-clear").onclick = () => { state.selected.clear(); renderSelectedCount(); refreshCandidatesUI(); renderPsTable(getPollingStations(), getSelected()); renderChart(); };
+      el("btn-clear").onclick = () => {
+        state.selected.clear(); renderSelectedCount();
+        refreshCandidatesUI(); renderPsTable(getPollingStations(), getSelected()); renderChart();
+      };
       el("btn-help").onclick = () => alert(
         "CSV-skema:\nkommune, valgsted_id, valgsted_navn, kandidat_id, kandidat_navn, parti, stemmer\n\n"+
         "Filnavn: data/<Kommune>_allepartier.csv (eller data/<Kommune>.csv).\n"+
-        "Flow: Vælg kommune → parti → kandidater. Tabel og diagram viser stemmer pr. valgsted."
+        "Flow: Vælg kommune → parti → kandidater. Tabel & diagram viser stemmer pr. valgsted."
       );
     }
 
@@ -295,4 +233,33 @@
     }
 
     function parseCsv(text) {
-      const res = Papa.parse(text, { header: true, sk
+      const res = Papa.parse(text, { header: true, skipEmptyLines: true, transformHeader: h => canonical(h.toLowerCase()) });
+      state.rows = res.data.map(r => ({
+        kommune: canonical(r.kommune),
+        valgsted_id: canonical(r.valgsted_id),
+        valgsted_navn: canonical(r.valgsted_navn),
+        kandidat_id: canonical(r.kandidat_id || r.kandidat_navn), // fallback hvis ID mangler
+        kandidat_navn: canonical(r.kandidat_navn),
+        parti: canonical(r.parti),
+        stemmer: Number(r.stemmer || 0) || 0,
+      }));
+    }
+
+    function afterDataLoaded() {
+      // udfyld parti dropdown ud fra data
+      const partier = Array.from(new Set(state.rows.map(r => r.parti))).sort();
+      const psel = el("partiSelect");
+      psel.innerHTML = `<option value="">Vælg parti…</option>` + partier.map(p => `<option value="${p}">${p}</option>`).join("");
+      psel.disabled = false;
+      el("search").disabled = false;
+      // nulstil visninger
+      state.parti = ""; state.search = ""; state.selected.clear(); renderSelectedCount();
+      renderCandidateList([]); renderPsTable([], []); resetChart();
+    }
+
+    // ---------- UI: KANDIDATER ----------
+    function getCandidatesForCurrentParty() {
+      const q = (state.search || "").toLowerCase();
+      const list = [];
+      const seen = new Set();
+      for (const r of state.rows)
