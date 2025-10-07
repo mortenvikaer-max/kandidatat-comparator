@@ -135,11 +135,22 @@
 
     async function tryLoadDefault(){
       el('error').textContent = '';
-      try{
-        const r = await fetch('data/stemmer.csv', { cache: 'no-store' });
-        if(!r.ok) throw new Error('Ingen fil på data/stemmer.csv');
-        parseCsv(await r.text());
-      }catch(err){ el('error').textContent = 'Kunne ikke indlæse data/stemmer.csv'; }
+      const candidates = [
+        'data/stemmer.csv',
+        'data/Bornholm_alle_partier.csv',
+        'data/bornholm.csv'
+      ];
+      for(const url of candidates){
+        try{
+          const r = await fetch(url, { cache: 'no-store' });
+          if(!r.ok) throw new Error('HTTP '+r.status);
+          const text = await r.text();
+          parseCsv(text);
+          return; // success
+        }catch(err){ /* try next */ }
+      }
+      el('error').textContent = 'Kunne ikke indlæse data automatisk. Tjek at en CSV ligger i /data som fx stemmer.csv';
+    }
     }
 
     function bootstrapFilters(){
@@ -286,8 +297,6 @@
     el('btn-try-load').onclick = tryLoadDefault;
     // Auto-indlæs data/stemmer.csv når siden åbnes
     window.addEventListener('DOMContentLoaded', tryLoadDefault);
-
-
     el('kommune').onchange = (e)=>{ state.kommune = e.target.value; render(); };
     el('search').oninput = (e)=>{ state.search = e.target.value; renderKandidater(); };
     el('btn-clear').onclick = ()=>{ state.selected.clear(); render(); };
