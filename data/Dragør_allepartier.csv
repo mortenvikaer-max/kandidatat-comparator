@@ -1,0 +1,159 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Dragør,1,Dragør Skole,A_Listestemmer,Listestemmer,Socialdemokratiet,104
+Dragør,1,Dragør Skole,A_Nicolaj_Bertel_Riber,Nicolaj Bertel Riber,Socialdemokratiet,124
+Dragør,1,Dragør Skole,A_Ole_H._Hansen,Ole H. Hansen,Socialdemokratiet,76
+Dragør,1,Dragør Skole,A_Pia_Voel,Pia Voel,Socialdemokratiet,16
+Dragør,1,Dragør Skole,A_Ole_K._Svendsen,Ole K. Svendsen,Socialdemokratiet,11
+Dragør,1,Dragør Skole,A_Lisbeth_Dam_Larsen,Lisbeth Dam Larsen,Socialdemokratiet,41
+Dragør,1,Dragør Skole,A_Rikke_Marianne_Karlsson,Rikke Marianne Karlsson,Socialdemokratiet,20
+Dragør,1,Dragør Skole,A_Tim_Meicker,Tim Meicker,Socialdemokratiet,26
+Dragør,1,Dragør Skole,A_Poul_Breyen,Poul Breyen,Socialdemokratiet,0
+Dragør,1,Dragør Skole,A_Knud_Rosing,Knud Rosing,Socialdemokratiet,1
+Dragør,1,Dragør Skole,B_Listestemmer,Listestemmer,Radikale Venstre,32
+Dragør,1,Dragør Skole,"B_Michael_Rachlin,_Sydstranden","Michael Rachlin, Sydstranden",Radikale Venstre,66
+Dragør,1,Dragør Skole,"B_Charlotte_Saabye_Sørensen,_Dragør","Charlotte Saabye Sørensen, Dragør",Radikale Venstre,28
+Dragør,1,Dragør Skole,"B_Erwin_Lansing,_Søvang","Erwin Lansing, Søvang",Radikale Venstre,3
+Dragør,1,Dragør Skole,"B_Else_Lykke_Madsen,_Store_Magleby","Else Lykke Madsen, Store Magleby",Radikale Venstre,12
+Dragør,1,Dragør Skole,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,247
+Dragør,1,Dragør Skole,C_Kenneth_Gøtterup,Kenneth Gøtterup,Det Konservative Folkeparti,377
+Dragør,1,Dragør Skole,C_Martin_Wood_Pedersen,Martin Wood Pedersen,Det Konservative Folkeparti,182
+Dragør,1,Dragør Skole,C_Mia_Tang,Mia Tang,Det Konservative Folkeparti,113
+Dragør,1,Dragør Skole,C_Jerrik_Walløe,Jerrik Walløe,Det Konservative Folkeparti,20
+Dragør,1,Dragør Skole,C_Theis_Guldbech,Theis Guldbech,Det Konservative Folkeparti,111
+Dragør,1,Dragør Skole,C_Chano_Chrillesen,Chano Chrillesen,Det Konservative Folkeparti,7
+Dragør,1,Dragør Skole,C_Jan_Madsen,Jan Madsen,Det Konservative Folkeparti,31
+Dragør,1,Dragør Skole,C_Trine_Søe,Trine Søe,Det Konservative Folkeparti,36
+Dragør,1,Dragør Skole,C_Kurt_Christensen,Kurt Christensen,Det Konservative Folkeparti,8
+Dragør,1,Dragør Skole,C_Steen_Olsen,Steen Olsen,Det Konservative Folkeparti,1
+Dragør,1,Dragør Skole,D_Listestemmer,Listestemmer,Nye Borgerlige,26
+Dragør,1,Dragør Skole,D_Karsten_Brædder,Karsten Brædder,Nye Borgerlige,20
+Dragør,1,Dragør Skole,D_Leif_Søndergaard,Leif Søndergaard,Nye Borgerlige,4
+Dragør,1,Dragør Skole,D_Gert_Kristensen,Gert Kristensen,Nye Borgerlige,5
+Dragør,1,Dragør Skole,E_Listestemmer,Listestemmer,Anne Grønlund,4
+Dragør,1,Dragør Skole,E_Anne_Grønlund_Jørgensen,Anne Grønlund Jørgensen,Anne Grønlund,9
+Dragør,1,Dragør Skole,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,71
+Dragør,1,Dragør Skole,F_Kim_Grønved_Nielsen,Kim Grønved Nielsen,SF - Socialistisk Folkeparti,24
+Dragør,1,Dragør Skole,F_Leif_Nielsen,Leif Nielsen,SF - Socialistisk Folkeparti,9
+Dragør,1,Dragør Skole,F_Helen_Margrethe_Bjørn,Helen Margrethe Bjørn,SF - Socialistisk Folkeparti,19
+Dragør,1,Dragør Skole,I_Listestemmer,Listestemmer,Liberal Alliance,7
+Dragør,1,Dragør Skole,"I_Per_Nørgaard_Andersen,_Søvang","Per Nørgaard Andersen, Søvang",Liberal Alliance,4
+Dragør,1,Dragør Skole,L_Listestemmer,Listestemmer,Sydamagerlisten,41
+Dragør,1,Dragør Skole,L_Flemming_Blønd,Flemming Blønd,Sydamagerlisten,60
+Dragør,1,Dragør Skole,L_Sven_Norup,Sven Norup,Sydamagerlisten,10
+Dragør,1,Dragør Skole,L_Jens_Passarge,Jens Passarge,Sydamagerlisten,6
+Dragør,1,Dragør Skole,L_Ann_Marquardsen,Ann Marquardsen,Sydamagerlisten,11
+Dragør,1,Dragør Skole,L_Jens_Peter_Høegh,Jens Peter Høegh,Sydamagerlisten,3
+Dragør,1,Dragør Skole,L_Birgitta_Gjerstrup,Birgitta Gjerstrup,Sydamagerlisten,6
+Dragør,1,Dragør Skole,L_Tommas_Brogaard,Tommas Brogaard,Sydamagerlisten,5
+Dragør,1,Dragør Skole,L_Agnes_Szczypinska,Agnes Szczypinska,Sydamagerlisten,5
+Dragør,1,Dragør Skole,O_Listestemmer,Listestemmer,Dansk Folkeparti,21
+Dragør,1,Dragør Skole,O_Morten_Dreyer,Morten Dreyer,Dansk Folkeparti,37
+Dragør,1,Dragør Skole,O_Alexander_Camre,Alexander Camre,Dansk Folkeparti,5
+Dragør,1,Dragør Skole,O_Anne_Funk,Anne Funk,Dansk Folkeparti,12
+Dragør,1,Dragør Skole,O_Jørgen_Honoré,Jørgen Honoré,Dansk Folkeparti,8
+Dragør,1,Dragør Skole,T_Listestemmer,Listestemmer,Tværpolitisk Forening,96
+Dragør,1,Dragør Skole,T_Peter_Læssøe,Peter Læssøe,Tværpolitisk Forening,238
+Dragør,1,Dragør Skole,T_Annette_Nyvang,Annette Nyvang,Tværpolitisk Forening,94
+Dragør,1,Dragør Skole,T_Ebbe_Kyrø,Ebbe Kyrø,Tværpolitisk Forening,73
+Dragør,1,Dragør Skole,T_Ann_Harnek,Ann Harnek,Tværpolitisk Forening,89
+Dragør,1,Dragør Skole,T_René_Bomholt,René Bomholt,Tværpolitisk Forening,23
+Dragør,1,Dragør Skole,T_John_Doktor,John Doktor,Tværpolitisk Forening,5
+Dragør,1,Dragør Skole,T_Christina_Laugesen,Christina Laugesen,Tværpolitisk Forening,3
+Dragør,1,Dragør Skole,T_Hanne_Wanscher,Hanne Wanscher,Tværpolitisk Forening,3
+Dragør,1,Dragør Skole,T_Lotte_Aabye,Lotte Aabye,Tværpolitisk Forening,10
+Dragør,1,Dragør Skole,T_Henrik_Uhrbrand,Henrik Uhrbrand,Tværpolitisk Forening,1
+Dragør,1,Dragør Skole,T_Mohammad_Abdulmajid_Aljbawi,Mohammad Abdulmajid Aljbawi,Tværpolitisk Forening,3
+Dragør,1,Dragør Skole,T_Jutta_Hørlyck,Jutta Hørlyck,Tværpolitisk Forening,3
+Dragør,1,Dragør Skole,T_Rasmus_Hartung,Rasmus Hartung,Tværpolitisk Forening,11
+Dragør,1,Dragør Skole,T_Ea_Damgaard,Ea Damgaard,Tværpolitisk Forening,8
+Dragør,1,Dragør Skole,T_Valdemar_Bandolowski,Valdemar Bandolowski,Tværpolitisk Forening,3
+Dragør,1,Dragør Skole,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",80
+Dragør,1,Dragør Skole,V_Helle_Barth,Helle Barth,"Venstre, Danmarks Liberale Parti",136
+Dragør,1,Dragør Skole,V_Erik_Skovgaard_Nielsen,Erik Skovgaard Nielsen,"Venstre, Danmarks Liberale Parti",16
+Dragør,1,Dragør Skole,V_Henrik_L._Kjærsvold-Niclasen,Henrik L. Kjærsvold-Niclasen,"Venstre, Danmarks Liberale Parti",90
+Dragør,1,Dragør Skole,V_Per_Faldborg_Olesen,Per Faldborg Olesen,"Venstre, Danmarks Liberale Parti",16
+Dragør,1,Dragør Skole,V_Tina_Vexø,Tina Vexø,"Venstre, Danmarks Liberale Parti",2
+Dragør,1,Dragør Skole,V_Kim_Dupont,Kim Dupont,"Venstre, Danmarks Liberale Parti",39
+Dragør,1,Dragør Skole,V_Birgitte_Jørgensen,Birgitte Jørgensen,"Venstre, Danmarks Liberale Parti",0
+Dragør,1,Dragør Skole,V_Flemming_Aunel,Flemming Aunel,"Venstre, Danmarks Liberale Parti",12
+Dragør,1,Dragør Skole,V_Hanne_Stockbridge,Hanne Stockbridge,"Venstre, Danmarks Liberale Parti",5
+Dragør,1,Dragør Skole,V_Renee_Schwaner,Renee Schwaner,"Venstre, Danmarks Liberale Parti",3
+Dragør,4,Hollænderhallen,A_Listestemmer,Listestemmer,Socialdemokratiet,201
+Dragør,4,Hollænderhallen,A_Nicolaj_Bertel_Riber,Nicolaj Bertel Riber,Socialdemokratiet,312
+Dragør,4,Hollænderhallen,A_Ole_H._Hansen,Ole H. Hansen,Socialdemokratiet,54
+Dragør,4,Hollænderhallen,A_Pia_Voel,Pia Voel,Socialdemokratiet,48
+Dragør,4,Hollænderhallen,A_Ole_K._Svendsen,Ole K. Svendsen,Socialdemokratiet,33
+Dragør,4,Hollænderhallen,A_Lisbeth_Dam_Larsen,Lisbeth Dam Larsen,Socialdemokratiet,64
+Dragør,4,Hollænderhallen,A_Rikke_Marianne_Karlsson,Rikke Marianne Karlsson,Socialdemokratiet,53
+Dragør,4,Hollænderhallen,A_Tim_Meicker,Tim Meicker,Socialdemokratiet,54
+Dragør,4,Hollænderhallen,A_Poul_Breyen,Poul Breyen,Socialdemokratiet,2
+Dragør,4,Hollænderhallen,A_Knud_Rosing,Knud Rosing,Socialdemokratiet,4
+Dragør,4,Hollænderhallen,B_Listestemmer,Listestemmer,Radikale Venstre,52
+Dragør,4,Hollænderhallen,"B_Michael_Rachlin,_Sydstranden","Michael Rachlin, Sydstranden",Radikale Venstre,66
+Dragør,4,Hollænderhallen,"B_Charlotte_Saabye_Sørensen,_Dragør","Charlotte Saabye Sørensen, Dragør",Radikale Venstre,19
+Dragør,4,Hollænderhallen,"B_Erwin_Lansing,_Søvang","Erwin Lansing, Søvang",Radikale Venstre,39
+Dragør,4,Hollænderhallen,"B_Else_Lykke_Madsen,_Store_Magleby","Else Lykke Madsen, Store Magleby",Radikale Venstre,28
+Dragør,4,Hollænderhallen,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,353
+Dragør,4,Hollænderhallen,C_Kenneth_Gøtterup,Kenneth Gøtterup,Det Konservative Folkeparti,461
+Dragør,4,Hollænderhallen,C_Martin_Wood_Pedersen,Martin Wood Pedersen,Det Konservative Folkeparti,166
+Dragør,4,Hollænderhallen,C_Mia_Tang,Mia Tang,Det Konservative Folkeparti,376
+Dragør,4,Hollænderhallen,C_Jerrik_Walløe,Jerrik Walløe,Det Konservative Folkeparti,17
+Dragør,4,Hollænderhallen,C_Theis_Guldbech,Theis Guldbech,Det Konservative Folkeparti,176
+Dragør,4,Hollænderhallen,C_Chano_Chrillesen,Chano Chrillesen,Det Konservative Folkeparti,15
+Dragør,4,Hollænderhallen,C_Jan_Madsen,Jan Madsen,Det Konservative Folkeparti,126
+Dragør,4,Hollænderhallen,C_Trine_Søe,Trine Søe,Det Konservative Folkeparti,44
+Dragør,4,Hollænderhallen,C_Kurt_Christensen,Kurt Christensen,Det Konservative Folkeparti,2
+Dragør,4,Hollænderhallen,C_Steen_Olsen,Steen Olsen,Det Konservative Folkeparti,5
+Dragør,4,Hollænderhallen,D_Listestemmer,Listestemmer,Nye Borgerlige,61
+Dragør,4,Hollænderhallen,D_Karsten_Brædder,Karsten Brædder,Nye Borgerlige,43
+Dragør,4,Hollænderhallen,D_Leif_Søndergaard,Leif Søndergaard,Nye Borgerlige,6
+Dragør,4,Hollænderhallen,D_Gert_Kristensen,Gert Kristensen,Nye Borgerlige,7
+Dragør,4,Hollænderhallen,E_Listestemmer,Listestemmer,Anne Grønlund,4
+Dragør,4,Hollænderhallen,E_Anne_Grønlund_Jørgensen,Anne Grønlund Jørgensen,Anne Grønlund,3
+Dragør,4,Hollænderhallen,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,77
+Dragør,4,Hollænderhallen,F_Kim_Grønved_Nielsen,Kim Grønved Nielsen,SF - Socialistisk Folkeparti,59
+Dragør,4,Hollænderhallen,F_Leif_Nielsen,Leif Nielsen,SF - Socialistisk Folkeparti,20
+Dragør,4,Hollænderhallen,F_Helen_Margrethe_Bjørn,Helen Margrethe Bjørn,SF - Socialistisk Folkeparti,34
+Dragør,4,Hollænderhallen,I_Listestemmer,Listestemmer,Liberal Alliance,17
+Dragør,4,Hollænderhallen,"I_Per_Nørgaard_Andersen,_Søvang","Per Nørgaard Andersen, Søvang",Liberal Alliance,24
+Dragør,4,Hollænderhallen,L_Listestemmer,Listestemmer,Sydamagerlisten,130
+Dragør,4,Hollænderhallen,L_Flemming_Blønd,Flemming Blønd,Sydamagerlisten,134
+Dragør,4,Hollænderhallen,L_Sven_Norup,Sven Norup,Sydamagerlisten,27
+Dragør,4,Hollænderhallen,L_Jens_Passarge,Jens Passarge,Sydamagerlisten,23
+Dragør,4,Hollænderhallen,L_Ann_Marquardsen,Ann Marquardsen,Sydamagerlisten,27
+Dragør,4,Hollænderhallen,L_Jens_Peter_Høegh,Jens Peter Høegh,Sydamagerlisten,11
+Dragør,4,Hollænderhallen,L_Birgitta_Gjerstrup,Birgitta Gjerstrup,Sydamagerlisten,14
+Dragør,4,Hollænderhallen,L_Tommas_Brogaard,Tommas Brogaard,Sydamagerlisten,12
+Dragør,4,Hollænderhallen,L_Agnes_Szczypinska,Agnes Szczypinska,Sydamagerlisten,4
+Dragør,4,Hollænderhallen,O_Listestemmer,Listestemmer,Dansk Folkeparti,39
+Dragør,4,Hollænderhallen,O_Morten_Dreyer,Morten Dreyer,Dansk Folkeparti,76
+Dragør,4,Hollænderhallen,O_Alexander_Camre,Alexander Camre,Dansk Folkeparti,14
+Dragør,4,Hollænderhallen,O_Anne_Funk,Anne Funk,Dansk Folkeparti,57
+Dragør,4,Hollænderhallen,O_Jørgen_Honoré,Jørgen Honoré,Dansk Folkeparti,4
+Dragør,4,Hollænderhallen,T_Listestemmer,Listestemmer,Tværpolitisk Forening,162
+Dragør,4,Hollænderhallen,T_Peter_Læssøe,Peter Læssøe,Tværpolitisk Forening,284
+Dragør,4,Hollænderhallen,T_Annette_Nyvang,Annette Nyvang,Tværpolitisk Forening,115
+Dragør,4,Hollænderhallen,T_Ebbe_Kyrø,Ebbe Kyrø,Tværpolitisk Forening,61
+Dragør,4,Hollænderhallen,T_Ann_Harnek,Ann Harnek,Tværpolitisk Forening,115
+Dragør,4,Hollænderhallen,T_René_Bomholt,René Bomholt,Tværpolitisk Forening,49
+Dragør,4,Hollænderhallen,T_John_Doktor,John Doktor,Tværpolitisk Forening,39
+Dragør,4,Hollænderhallen,T_Christina_Laugesen,Christina Laugesen,Tværpolitisk Forening,11
+Dragør,4,Hollænderhallen,T_Hanne_Wanscher,Hanne Wanscher,Tværpolitisk Forening,6
+Dragør,4,Hollænderhallen,T_Lotte_Aabye,Lotte Aabye,Tværpolitisk Forening,13
+Dragør,4,Hollænderhallen,T_Henrik_Uhrbrand,Henrik Uhrbrand,Tværpolitisk Forening,3
+Dragør,4,Hollænderhallen,T_Mohammad_Abdulmajid_Aljbawi,Mohammad Abdulmajid Aljbawi,Tværpolitisk Forening,8
+Dragør,4,Hollænderhallen,T_Jutta_Hørlyck,Jutta Hørlyck,Tværpolitisk Forening,13
+Dragør,4,Hollænderhallen,T_Rasmus_Hartung,Rasmus Hartung,Tværpolitisk Forening,3
+Dragør,4,Hollænderhallen,T_Ea_Damgaard,Ea Damgaard,Tværpolitisk Forening,4
+Dragør,4,Hollænderhallen,T_Valdemar_Bandolowski,Valdemar Bandolowski,Tværpolitisk Forening,4
+Dragør,4,Hollænderhallen,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",138
+Dragør,4,Hollænderhallen,V_Helle_Barth,Helle Barth,"Venstre, Danmarks Liberale Parti",206
+Dragør,4,Hollænderhallen,V_Erik_Skovgaard_Nielsen,Erik Skovgaard Nielsen,"Venstre, Danmarks Liberale Parti",43
+Dragør,4,Hollænderhallen,V_Henrik_L._Kjærsvold-Niclasen,Henrik L. Kjærsvold-Niclasen,"Venstre, Danmarks Liberale Parti",90
+Dragør,4,Hollænderhallen,V_Per_Faldborg_Olesen,Per Faldborg Olesen,"Venstre, Danmarks Liberale Parti",15
+Dragør,4,Hollænderhallen,V_Tina_Vexø,Tina Vexø,"Venstre, Danmarks Liberale Parti",6
+Dragør,4,Hollænderhallen,V_Kim_Dupont,Kim Dupont,"Venstre, Danmarks Liberale Parti",40
+Dragør,4,Hollænderhallen,V_Birgitte_Jørgensen,Birgitte Jørgensen,"Venstre, Danmarks Liberale Parti",18
+Dragør,4,Hollænderhallen,V_Flemming_Aunel,Flemming Aunel,"Venstre, Danmarks Liberale Parti",42
+Dragør,4,Hollænderhallen,V_Hanne_Stockbridge,Hanne Stockbridge,"Venstre, Danmarks Liberale Parti",2
+Dragør,4,Hollænderhallen,V_Renee_Schwaner,Renee Schwaner,"Venstre, Danmarks Liberale Parti",12

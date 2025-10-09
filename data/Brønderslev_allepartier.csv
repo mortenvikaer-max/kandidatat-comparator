@@ -1,0 +1,1431 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Brønderslev,1,Agersted,A_Listestemmer,Listestemmer,Socialdemokratiet,24
+Brønderslev,1,Agersted,"A_Bettina_B._Kjeldsen,_Brønderslev","Bettina B. Kjeldsen, Brønderslev",Socialdemokratiet,24
+Brønderslev,1,Agersted,"A_Arne_M._Jensen,_Brønderslev","Arne M. Jensen, Brønderslev",Socialdemokratiet,0
+Brønderslev,1,Agersted,"A_Eskild_Sloth_Andersen,_Hjallerup","Eskild Sloth Andersen, Hjallerup",Socialdemokratiet,1
+Brønderslev,1,Agersted,"A_Peter_H._S._Kristensen,_Stenum","Peter H. S. Kristensen, Stenum",Socialdemokratiet,0
+Brønderslev,1,Agersted,"A_Benny_Engelsted_Karlsen,_Dr.lund","Benny Engelsted Karlsen, Dr.lund",Socialdemokratiet,3
+Brønderslev,1,Agersted,"A_Hildo_Rasmussen,_Asaa","Hildo Rasmussen, Asaa",Socialdemokratiet,3
+Brønderslev,1,Agersted,"A_Ole_Jespersgaard,_Ø._Brønderslev","Ole Jespersgaard, Ø. Brønderslev",Socialdemokratiet,1
+Brønderslev,1,Agersted,"A_Ole_Andersen,_Asaa","Ole Andersen, Asaa",Socialdemokratiet,1
+Brønderslev,1,Agersted,"A_Emilly_Pedersen,_Brønderslev","Emilly Pedersen, Brønderslev",Socialdemokratiet,0
+Brønderslev,1,Agersted,"A_Christen_Bager,_Dronninglund","Christen Bager, Dronninglund",Socialdemokratiet,5
+Brønderslev,1,Agersted,"A_Karen_Strandfelt,_Manna-Thise","Karen Strandfelt, Manna-Thise",Socialdemokratiet,0
+Brønderslev,1,Agersted,"A_Lene_Søndergaard,_Klæstrup-Jerslev","Lene Søndergaard, Klæstrup-Jerslev",Socialdemokratiet,0
+Brønderslev,1,Agersted,"A_Johannes_Trudslev,_Manna-Thise","Johannes Trudslev, Manna-Thise",Socialdemokratiet,0
+Brønderslev,1,Agersted,"A_Birger_Thomsen,_Dronninglund","Birger Thomsen, Dronninglund",Socialdemokratiet,3
+Brønderslev,1,Agersted,"A_Mogens_Stougaard_Karlsen,_Jerslev","Mogens Stougaard Karlsen, Jerslev",Socialdemokratiet,0
+Brønderslev,1,Agersted,"A_Mathias_Pedersen,_Brønderslev","Mathias Pedersen, Brønderslev",Socialdemokratiet,0
+Brønderslev,1,Agersted,"A_Jan_Sonne-Schmidt,_Klokkerholm","Jan Sonne-Schmidt, Klokkerholm",Socialdemokratiet,0
+Brønderslev,1,Agersted,"A_Otto_Bjerre,_Hellum","Otto Bjerre, Hellum",Socialdemokratiet,0
+Brønderslev,1,Agersted,"A_Lars_Rueskov,_Brønderslev","Lars Rueskov, Brønderslev",Socialdemokratiet,0
+Brønderslev,1,Agersted,"A_A._Neil_Jacobsen,_Brønderslev","A. Neil Jacobsen, Brønderslev",Socialdemokratiet,1
+Brønderslev,1,Agersted,"A_Poul_Erik_Andreasen,_Dronninglund","Poul Erik Andreasen, Dronninglund",Socialdemokratiet,3
+Brønderslev,1,Agersted,"A_Adnan_Jedon,_Brønderslev","Adnan Jedon, Brønderslev",Socialdemokratiet,0
+Brønderslev,1,Agersted,B_Listestemmer,Listestemmer,Radikale Venstre,1
+Brønderslev,1,Agersted,"B_Janus_Hove,_Ø._Brønderslev","Janus Hove, Ø. Brønderslev",Radikale Venstre,1
+Brønderslev,1,Agersted,"B_Dorthe_Kerschus,_Dronninglund","Dorthe Kerschus, Dronninglund",Radikale Venstre,4
+Brønderslev,1,Agersted,"B_Per_Nielsen,_Brønderslev","Per Nielsen, Brønderslev",Radikale Venstre,0
+Brønderslev,1,Agersted,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,9
+Brønderslev,1,Agersted,"C_Peter_Stecher,_Brønderslev","Peter Stecher, Brønderslev",Det Konservative Folkeparti,3
+Brønderslev,1,Agersted,"C_Mikael_Christensen,_Hjallerup","Mikael Christensen, Hjallerup",Det Konservative Folkeparti,0
+Brønderslev,1,Agersted,"C_Michael_Peter_Hansen,_Brønderslev","Michael Peter Hansen, Brønderslev",Det Konservative Folkeparti,0
+Brønderslev,1,Agersted,"C_Stinne_Reng,_Brønderslev","Stinne Reng, Brønderslev",Det Konservative Folkeparti,0
+Brønderslev,1,Agersted,"C_Janni_Høybye,_Jerslev","Janni Høybye, Jerslev",Det Konservative Folkeparti,2
+Brønderslev,1,Agersted,"C_Ole_Agger_Hansen,_Brønderslev","Ole Agger Hansen, Brønderslev",Det Konservative Folkeparti,0
+Brønderslev,1,Agersted,"C_Thomas_Greve_Lund,_Dronninglund","Thomas Greve Lund, Dronninglund",Det Konservative Folkeparti,1
+Brønderslev,1,Agersted,"C_Jette_Schiønning_Aasholm,Br.slev","Jette Schiønning Aasholm,Br.slev",Det Konservative Folkeparti,0
+Brønderslev,1,Agersted,"C_Jan_Rønnov,Brønderslev","Jan Rønnov,Brønderslev",Det Konservative Folkeparti,0
+Brønderslev,1,Agersted,"C_Jan_F.Johansen,_Hjallerup","Jan F.Johansen, Hjallerup",Det Konservative Folkeparti,0
+Brønderslev,1,Agersted,"C_Karsten_Andreasen,_Dronninglund","Karsten Andreasen, Dronninglund",Det Konservative Folkeparti,1
+Brønderslev,1,Agersted,"C_Torben_Houge_Nielsen,_Brønderslev","Torben Houge Nielsen, Brønderslev",Det Konservative Folkeparti,0
+Brønderslev,1,Agersted,D_Listestemmer,Listestemmer,Nye Borgerlige,8
+Brønderslev,1,Agersted,"D_Lars_E.Sørensen,_Brønderslev","Lars E.Sørensen, Brønderslev",Nye Borgerlige,12
+Brønderslev,1,Agersted,"D_Idon_Brødbæk,_Dronninglund","Idon Brødbæk, Dronninglund",Nye Borgerlige,9
+Brønderslev,1,Agersted,"D_Peter_Bonde,_Brønderslev","Peter Bonde, Brønderslev",Nye Borgerlige,2
+Brønderslev,1,Agersted,"D_Morten_Toft,_Brønderslev","Morten Toft, Brønderslev",Nye Borgerlige,0
+Brønderslev,1,Agersted,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,6
+Brønderslev,1,Agersted,"F_Henning_Jørgensen,_Brønderslev","Henning Jørgensen, Brønderslev",SF - Socialistisk Folkeparti,0
+Brønderslev,1,Agersted,"F_Kristina_P._Johansen,_Jerslev","Kristina P. Johansen, Jerslev",SF - Socialistisk Folkeparti,0
+Brønderslev,1,Agersted,"F_Kristine_Taagaard,_Brønderslev","Kristine Taagaard, Brønderslev",SF - Socialistisk Folkeparti,0
+Brønderslev,1,Agersted,"F_Ivan_Johansen,_Jerslev","Ivan Johansen, Jerslev",SF - Socialistisk Folkeparti,0
+Brønderslev,1,Agersted,"F_Mikkel_Mørk,_Brønderslev","Mikkel Mørk, Brønderslev",SF - Socialistisk Folkeparti,0
+Brønderslev,1,Agersted,"F_Marie_Brix_Mørk,_Brønderslev","Marie Brix Mørk, Brønderslev",SF - Socialistisk Folkeparti,0
+Brønderslev,1,Agersted,"F_Jan_Løvenholt,_Flauenskjold","Jan Løvenholt, Flauenskjold",SF - Socialistisk Folkeparti,0
+Brønderslev,1,Agersted,G_Listestemmer,Listestemmer,Veganerpartiet,0
+Brønderslev,1,Agersted,G_Uffe_Koch,Uffe Koch,Veganerpartiet,0
+Brønderslev,1,Agersted,I_Listestemmer,Listestemmer,Liberal Alliance,1
+Brønderslev,1,Agersted,"I_Hans-Henning_Terp-Hansen,Br.slev","Hans-Henning Terp-Hansen,Br.slev",Liberal Alliance,0
+Brønderslev,1,Agersted,J_Listestemmer,Listestemmer,Borgerlisten,0
+Brønderslev,1,Agersted,"J_Steen_Søgaard_Petersen,_Hjallerup","Steen Søgaard Petersen, Hjallerup",Borgerlisten,6
+Brønderslev,1,Agersted,"J_Simon_Aagaard,_Dronninglund","Simon Aagaard, Dronninglund",Borgerlisten,2
+Brønderslev,1,Agersted,"J_Marianne_Fristrup,_Hjallerup","Marianne Fristrup, Hjallerup",Borgerlisten,0
+Brønderslev,1,Agersted,"J_Mette_Greve,_Dronninglund","Mette Greve, Dronninglund",Borgerlisten,2
+Brønderslev,1,Agersted,"J_Kaj_Styrishave,_Jerslev","Kaj Styrishave, Jerslev",Borgerlisten,0
+Brønderslev,1,Agersted,"J_Jonna_Holdorf,_Klokkerholm","Jonna Holdorf, Klokkerholm",Borgerlisten,1
+Brønderslev,1,Agersted,"J_Jakob_Hassingboe,_Agersted","Jakob Hassingboe, Agersted",Borgerlisten,81
+Brønderslev,1,Agersted,"J_Mogens_Gregersen,_Hjallerup","Mogens Gregersen, Hjallerup",Borgerlisten,0
+Brønderslev,1,Agersted,K_Listestemmer,Listestemmer,Kristendemokraterne,0
+Brønderslev,1,Agersted,"K_Knud_Pejstrup,_Hjallerup","Knud Pejstrup, Hjallerup",Kristendemokraterne,0
+Brønderslev,1,Agersted,"K_Inge_Marie_Sonne,_Brønderslev","Inge Marie Sonne, Brønderslev",Kristendemokraterne,0
+Brønderslev,1,Agersted,"K_Benjamin_Fossing,_Thise","Benjamin Fossing, Thise",Kristendemokraterne,0
+Brønderslev,1,Agersted,O_Listestemmer,Listestemmer,Dansk Folkeparti,5
+Brønderslev,1,Agersted,"O_Carsten_Ullmann_Andersen,_Jerslev","Carsten Ullmann Andersen, Jerslev",Dansk Folkeparti,3
+Brønderslev,1,Agersted,"O_Danny_Rosenkilde,_Flauenskjold","Danny Rosenkilde, Flauenskjold",Dansk Folkeparti,2
+Brønderslev,1,Agersted,"O_Jamie_Voldby,_Brønderslev","Jamie Voldby, Brønderslev",Dansk Folkeparti,2
+Brønderslev,1,Agersted,"O_Ejvind_Aakjær,_Ørsø","Ejvind Aakjær, Ørsø",Dansk Folkeparti,3
+Brønderslev,1,Agersted,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",17
+Brønderslev,1,Agersted,"V_Mikael_Klitgaard,_Dronninglund","Mikael Klitgaard, Dronninglund","Venstre, Danmarks Liberale Parti",26
+Brønderslev,1,Agersted,"V_Mathias_Christensen,_Brønderslev","Mathias Christensen, Brønderslev","Venstre, Danmarks Liberale Parti",1
+Brønderslev,1,Agersted,"V_Jens_Andersen,_Serritslev","Jens Andersen, Serritslev","Venstre, Danmarks Liberale Parti",0
+Brønderslev,1,Agersted,"V_Martin_Bech,_Brønderslev","Martin Bech, Brønderslev","Venstre, Danmarks Liberale Parti",1
+Brønderslev,1,Agersted,"V_Thomas_Bertram,_Jerslev","Thomas Bertram, Jerslev","Venstre, Danmarks Liberale Parti",0
+Brønderslev,1,Agersted,"V_Peter_Bjerre,_Stenum","Peter Bjerre, Stenum","Venstre, Danmarks Liberale Parti",1
+Brønderslev,1,Agersted,"V_Svend_Bøgh,_Dronninglund","Svend Bøgh, Dronninglund","Venstre, Danmarks Liberale Parti",3
+Brønderslev,1,Agersted,"V_Margit_Chemnitz,_Klokkerholm","Margit Chemnitz, Klokkerholm","Venstre, Danmarks Liberale Parti",0
+Brønderslev,1,Agersted,"V_Søren_Christiansen,_Brønderslev","Søren Christiansen, Brønderslev","Venstre, Danmarks Liberale Parti",0
+Brønderslev,1,Agersted,"V_Frits_Danielsen,_Dronninglund","Frits Danielsen, Dronninglund","Venstre, Danmarks Liberale Parti",2
+Brønderslev,1,Agersted,"V_Simon_Eid,_Brønderslev","Simon Eid, Brønderslev","Venstre, Danmarks Liberale Parti",0
+Brønderslev,1,Agersted,"V_Malene_Fisker,_Brønderslev","Malene Fisker, Brønderslev","Venstre, Danmarks Liberale Parti",0
+Brønderslev,1,Agersted,"V_H._C._Holst,_Asaa","H. C. Holst, Asaa","Venstre, Danmarks Liberale Parti",9
+Brønderslev,1,Agersted,"V_Anders_B.Hummelmose,_Brønderslev","Anders B.Hummelmose, Brønderslev","Venstre, Danmarks Liberale Parti",0
+Brønderslev,1,Agersted,"V_Jacob_Høfler,_Ø._Brønderslev","Jacob Høfler, Ø. Brønderslev","Venstre, Danmarks Liberale Parti",0
+Brønderslev,1,Agersted,"V_Majbritt_Iversen,_Hallund","Majbritt Iversen, Hallund","Venstre, Danmarks Liberale Parti",0
+Brønderslev,1,Agersted,"V_Klaus_Riis_Klæstrup,_Brønderslev","Klaus Riis Klæstrup, Brønderslev","Venstre, Danmarks Liberale Parti",0
+Brønderslev,1,Agersted,"V_Dennis_Kvesel,_Dorf","Dennis Kvesel, Dorf","Venstre, Danmarks Liberale Parti",0
+Brønderslev,1,Agersted,"V_Winnie_Vest,_Asaa","Winnie Vest, Asaa","Venstre, Danmarks Liberale Parti",5
+Brønderslev,1,Agersted,"V_Peter_Mølbjerg,_Klokkerholm","Peter Mølbjerg, Klokkerholm","Venstre, Danmarks Liberale Parti",1
+Brønderslev,1,Agersted,"V_Johnni_Olesen,_Hjallerup","Johnni Olesen, Hjallerup","Venstre, Danmarks Liberale Parti",1
+Brønderslev,1,Agersted,"V_Knud_L._Pedersen,_Thise","Knud L. Pedersen, Thise","Venstre, Danmarks Liberale Parti",0
+Brønderslev,1,Agersted,"V_Line_Vanggaard_Pedersen,_Jerslev","Line Vanggaard Pedersen, Jerslev","Venstre, Danmarks Liberale Parti",5
+Brønderslev,1,Agersted,"V_Lasse_Riisgaard,_Brønderslev","Lasse Riisgaard, Brønderslev","Venstre, Danmarks Liberale Parti",0
+Brønderslev,1,Agersted,"V_Niels_Vestergaard_Salling,_Jerslev","Niels Vestergaard Salling, Jerslev","Venstre, Danmarks Liberale Parti",1
+Brønderslev,1,Agersted,"V_Jan_Thaibert,_Agersted","Jan Thaibert, Agersted","Venstre, Danmarks Liberale Parti",96
+Brønderslev,1,Agersted,"V_Henrik_Toftgaard,_Dronninglund","Henrik Toftgaard, Dronninglund","Venstre, Danmarks Liberale Parti",1
+Brønderslev,1,Agersted,"V_Nadia_Vest,_Dronninglund","Nadia Vest, Dronninglund","Venstre, Danmarks Liberale Parti",4
+Brønderslev,1,Agersted,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,7
+Brønderslev,1,Agersted,Ø_Runa_Friis_Hansen,Runa Friis Hansen,Enhedslisten - De Rød-Grønne,1
+Brønderslev,1,Agersted,Ø_Christina_Eilers,Christina Eilers,Enhedslisten - De Rød-Grønne,0
+Brønderslev,1,Agersted,Ø_Lone_Nedergaard,Lone Nedergaard,Enhedslisten - De Rød-Grønne,1
+Brønderslev,1,Agersted,Ø_Annemette_Chemnitz_Eilers,Annemette Chemnitz Eilers,Enhedslisten - De Rød-Grønne,0
+Brønderslev,1,Agersted,Ø_Mai_Jensen,Mai Jensen,Enhedslisten - De Rød-Grønne,0
+Brønderslev,2,Asaa,A_Listestemmer,Listestemmer,Socialdemokratiet,50
+Brønderslev,2,Asaa,"A_Bettina_B._Kjeldsen,_Brønderslev","Bettina B. Kjeldsen, Brønderslev",Socialdemokratiet,31
+Brønderslev,2,Asaa,"A_Arne_M._Jensen,_Brønderslev","Arne M. Jensen, Brønderslev",Socialdemokratiet,0
+Brønderslev,2,Asaa,"A_Eskild_Sloth_Andersen,_Hjallerup","Eskild Sloth Andersen, Hjallerup",Socialdemokratiet,2
+Brønderslev,2,Asaa,"A_Peter_H._S._Kristensen,_Stenum","Peter H. S. Kristensen, Stenum",Socialdemokratiet,0
+Brønderslev,2,Asaa,"A_Benny_Engelsted_Karlsen,_Dr.lund","Benny Engelsted Karlsen, Dr.lund",Socialdemokratiet,4
+Brønderslev,2,Asaa,"A_Hildo_Rasmussen,_Asaa","Hildo Rasmussen, Asaa",Socialdemokratiet,271
+Brønderslev,2,Asaa,"A_Ole_Jespersgaard,_Ø._Brønderslev","Ole Jespersgaard, Ø. Brønderslev",Socialdemokratiet,1
+Brønderslev,2,Asaa,"A_Ole_Andersen,_Asaa","Ole Andersen, Asaa",Socialdemokratiet,50
+Brønderslev,2,Asaa,"A_Emilly_Pedersen,_Brønderslev","Emilly Pedersen, Brønderslev",Socialdemokratiet,2
+Brønderslev,2,Asaa,"A_Christen_Bager,_Dronninglund","Christen Bager, Dronninglund",Socialdemokratiet,12
+Brønderslev,2,Asaa,"A_Karen_Strandfelt,_Manna-Thise","Karen Strandfelt, Manna-Thise",Socialdemokratiet,1
+Brønderslev,2,Asaa,"A_Lene_Søndergaard,_Klæstrup-Jerslev","Lene Søndergaard, Klæstrup-Jerslev",Socialdemokratiet,1
+Brønderslev,2,Asaa,"A_Johannes_Trudslev,_Manna-Thise","Johannes Trudslev, Manna-Thise",Socialdemokratiet,0
+Brønderslev,2,Asaa,"A_Birger_Thomsen,_Dronninglund","Birger Thomsen, Dronninglund",Socialdemokratiet,3
+Brønderslev,2,Asaa,"A_Mogens_Stougaard_Karlsen,_Jerslev","Mogens Stougaard Karlsen, Jerslev",Socialdemokratiet,0
+Brønderslev,2,Asaa,"A_Mathias_Pedersen,_Brønderslev","Mathias Pedersen, Brønderslev",Socialdemokratiet,0
+Brønderslev,2,Asaa,"A_Jan_Sonne-Schmidt,_Klokkerholm","Jan Sonne-Schmidt, Klokkerholm",Socialdemokratiet,0
+Brønderslev,2,Asaa,"A_Otto_Bjerre,_Hellum","Otto Bjerre, Hellum",Socialdemokratiet,1
+Brønderslev,2,Asaa,"A_Lars_Rueskov,_Brønderslev","Lars Rueskov, Brønderslev",Socialdemokratiet,0
+Brønderslev,2,Asaa,"A_A._Neil_Jacobsen,_Brønderslev","A. Neil Jacobsen, Brønderslev",Socialdemokratiet,0
+Brønderslev,2,Asaa,"A_Poul_Erik_Andreasen,_Dronninglund","Poul Erik Andreasen, Dronninglund",Socialdemokratiet,6
+Brønderslev,2,Asaa,"A_Adnan_Jedon,_Brønderslev","Adnan Jedon, Brønderslev",Socialdemokratiet,1
+Brønderslev,2,Asaa,B_Listestemmer,Listestemmer,Radikale Venstre,2
+Brønderslev,2,Asaa,"B_Janus_Hove,_Ø._Brønderslev","Janus Hove, Ø. Brønderslev",Radikale Venstre,3
+Brønderslev,2,Asaa,"B_Dorthe_Kerschus,_Dronninglund","Dorthe Kerschus, Dronninglund",Radikale Venstre,1
+Brønderslev,2,Asaa,"B_Per_Nielsen,_Brønderslev","Per Nielsen, Brønderslev",Radikale Venstre,0
+Brønderslev,2,Asaa,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,11
+Brønderslev,2,Asaa,"C_Peter_Stecher,_Brønderslev","Peter Stecher, Brønderslev",Det Konservative Folkeparti,9
+Brønderslev,2,Asaa,"C_Mikael_Christensen,_Hjallerup","Mikael Christensen, Hjallerup",Det Konservative Folkeparti,3
+Brønderslev,2,Asaa,"C_Michael_Peter_Hansen,_Brønderslev","Michael Peter Hansen, Brønderslev",Det Konservative Folkeparti,2
+Brønderslev,2,Asaa,"C_Stinne_Reng,_Brønderslev","Stinne Reng, Brønderslev",Det Konservative Folkeparti,0
+Brønderslev,2,Asaa,"C_Janni_Høybye,_Jerslev","Janni Høybye, Jerslev",Det Konservative Folkeparti,1
+Brønderslev,2,Asaa,"C_Ole_Agger_Hansen,_Brønderslev","Ole Agger Hansen, Brønderslev",Det Konservative Folkeparti,0
+Brønderslev,2,Asaa,"C_Thomas_Greve_Lund,_Dronninglund","Thomas Greve Lund, Dronninglund",Det Konservative Folkeparti,2
+Brønderslev,2,Asaa,"C_Jette_Schiønning_Aasholm,Br.slev","Jette Schiønning Aasholm,Br.slev",Det Konservative Folkeparti,0
+Brønderslev,2,Asaa,"C_Jan_Rønnov,Brønderslev","Jan Rønnov,Brønderslev",Det Konservative Folkeparti,0
+Brønderslev,2,Asaa,"C_Jan_F.Johansen,_Hjallerup","Jan F.Johansen, Hjallerup",Det Konservative Folkeparti,0
+Brønderslev,2,Asaa,"C_Karsten_Andreasen,_Dronninglund","Karsten Andreasen, Dronninglund",Det Konservative Folkeparti,0
+Brønderslev,2,Asaa,"C_Torben_Houge_Nielsen,_Brønderslev","Torben Houge Nielsen, Brønderslev",Det Konservative Folkeparti,0
+Brønderslev,2,Asaa,D_Listestemmer,Listestemmer,Nye Borgerlige,17
+Brønderslev,2,Asaa,"D_Lars_E.Sørensen,_Brønderslev","Lars E.Sørensen, Brønderslev",Nye Borgerlige,6
+Brønderslev,2,Asaa,"D_Idon_Brødbæk,_Dronninglund","Idon Brødbæk, Dronninglund",Nye Borgerlige,13
+Brønderslev,2,Asaa,"D_Peter_Bonde,_Brønderslev","Peter Bonde, Brønderslev",Nye Borgerlige,0
+Brønderslev,2,Asaa,"D_Morten_Toft,_Brønderslev","Morten Toft, Brønderslev",Nye Borgerlige,0
+Brønderslev,2,Asaa,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,6
+Brønderslev,2,Asaa,"F_Henning_Jørgensen,_Brønderslev","Henning Jørgensen, Brønderslev",SF - Socialistisk Folkeparti,2
+Brønderslev,2,Asaa,"F_Kristina_P._Johansen,_Jerslev","Kristina P. Johansen, Jerslev",SF - Socialistisk Folkeparti,6
+Brønderslev,2,Asaa,"F_Kristine_Taagaard,_Brønderslev","Kristine Taagaard, Brønderslev",SF - Socialistisk Folkeparti,2
+Brønderslev,2,Asaa,"F_Ivan_Johansen,_Jerslev","Ivan Johansen, Jerslev",SF - Socialistisk Folkeparti,1
+Brønderslev,2,Asaa,"F_Mikkel_Mørk,_Brønderslev","Mikkel Mørk, Brønderslev",SF - Socialistisk Folkeparti,0
+Brønderslev,2,Asaa,"F_Marie_Brix_Mørk,_Brønderslev","Marie Brix Mørk, Brønderslev",SF - Socialistisk Folkeparti,2
+Brønderslev,2,Asaa,"F_Jan_Løvenholt,_Flauenskjold","Jan Løvenholt, Flauenskjold",SF - Socialistisk Folkeparti,1
+Brønderslev,2,Asaa,G_Listestemmer,Listestemmer,Veganerpartiet,0
+Brønderslev,2,Asaa,G_Uffe_Koch,Uffe Koch,Veganerpartiet,3
+Brønderslev,2,Asaa,I_Listestemmer,Listestemmer,Liberal Alliance,0
+Brønderslev,2,Asaa,"I_Hans-Henning_Terp-Hansen,Br.slev","Hans-Henning Terp-Hansen,Br.slev",Liberal Alliance,0
+Brønderslev,2,Asaa,J_Listestemmer,Listestemmer,Borgerlisten,4
+Brønderslev,2,Asaa,"J_Steen_Søgaard_Petersen,_Hjallerup","Steen Søgaard Petersen, Hjallerup",Borgerlisten,11
+Brønderslev,2,Asaa,"J_Simon_Aagaard,_Dronninglund","Simon Aagaard, Dronninglund",Borgerlisten,12
+Brønderslev,2,Asaa,"J_Marianne_Fristrup,_Hjallerup","Marianne Fristrup, Hjallerup",Borgerlisten,1
+Brønderslev,2,Asaa,"J_Mette_Greve,_Dronninglund","Mette Greve, Dronninglund",Borgerlisten,10
+Brønderslev,2,Asaa,"J_Kaj_Styrishave,_Jerslev","Kaj Styrishave, Jerslev",Borgerlisten,1
+Brønderslev,2,Asaa,"J_Jonna_Holdorf,_Klokkerholm","Jonna Holdorf, Klokkerholm",Borgerlisten,1
+Brønderslev,2,Asaa,"J_Jakob_Hassingboe,_Agersted","Jakob Hassingboe, Agersted",Borgerlisten,5
+Brønderslev,2,Asaa,"J_Mogens_Gregersen,_Hjallerup","Mogens Gregersen, Hjallerup",Borgerlisten,1
+Brønderslev,2,Asaa,K_Listestemmer,Listestemmer,Kristendemokraterne,3
+Brønderslev,2,Asaa,"K_Knud_Pejstrup,_Hjallerup","Knud Pejstrup, Hjallerup",Kristendemokraterne,2
+Brønderslev,2,Asaa,"K_Inge_Marie_Sonne,_Brønderslev","Inge Marie Sonne, Brønderslev",Kristendemokraterne,1
+Brønderslev,2,Asaa,"K_Benjamin_Fossing,_Thise","Benjamin Fossing, Thise",Kristendemokraterne,1
+Brønderslev,2,Asaa,O_Listestemmer,Listestemmer,Dansk Folkeparti,4
+Brønderslev,2,Asaa,"O_Carsten_Ullmann_Andersen,_Jerslev","Carsten Ullmann Andersen, Jerslev",Dansk Folkeparti,6
+Brønderslev,2,Asaa,"O_Danny_Rosenkilde,_Flauenskjold","Danny Rosenkilde, Flauenskjold",Dansk Folkeparti,13
+Brønderslev,2,Asaa,"O_Jamie_Voldby,_Brønderslev","Jamie Voldby, Brønderslev",Dansk Folkeparti,5
+Brønderslev,2,Asaa,"O_Ejvind_Aakjær,_Ørsø","Ejvind Aakjær, Ørsø",Dansk Folkeparti,9
+Brønderslev,2,Asaa,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",21
+Brønderslev,2,Asaa,"V_Mikael_Klitgaard,_Dronninglund","Mikael Klitgaard, Dronninglund","Venstre, Danmarks Liberale Parti",104
+Brønderslev,2,Asaa,"V_Mathias_Christensen,_Brønderslev","Mathias Christensen, Brønderslev","Venstre, Danmarks Liberale Parti",1
+Brønderslev,2,Asaa,"V_Jens_Andersen,_Serritslev","Jens Andersen, Serritslev","Venstre, Danmarks Liberale Parti",0
+Brønderslev,2,Asaa,"V_Martin_Bech,_Brønderslev","Martin Bech, Brønderslev","Venstre, Danmarks Liberale Parti",2
+Brønderslev,2,Asaa,"V_Thomas_Bertram,_Jerslev","Thomas Bertram, Jerslev","Venstre, Danmarks Liberale Parti",0
+Brønderslev,2,Asaa,"V_Peter_Bjerre,_Stenum","Peter Bjerre, Stenum","Venstre, Danmarks Liberale Parti",0
+Brønderslev,2,Asaa,"V_Svend_Bøgh,_Dronninglund","Svend Bøgh, Dronninglund","Venstre, Danmarks Liberale Parti",4
+Brønderslev,2,Asaa,"V_Margit_Chemnitz,_Klokkerholm","Margit Chemnitz, Klokkerholm","Venstre, Danmarks Liberale Parti",0
+Brønderslev,2,Asaa,"V_Søren_Christiansen,_Brønderslev","Søren Christiansen, Brønderslev","Venstre, Danmarks Liberale Parti",0
+Brønderslev,2,Asaa,"V_Frits_Danielsen,_Dronninglund","Frits Danielsen, Dronninglund","Venstre, Danmarks Liberale Parti",4
+Brønderslev,2,Asaa,"V_Simon_Eid,_Brønderslev","Simon Eid, Brønderslev","Venstre, Danmarks Liberale Parti",0
+Brønderslev,2,Asaa,"V_Malene_Fisker,_Brønderslev","Malene Fisker, Brønderslev","Venstre, Danmarks Liberale Parti",0
+Brønderslev,2,Asaa,"V_H._C._Holst,_Asaa","H. C. Holst, Asaa","Venstre, Danmarks Liberale Parti",115
+Brønderslev,2,Asaa,"V_Anders_B.Hummelmose,_Brønderslev","Anders B.Hummelmose, Brønderslev","Venstre, Danmarks Liberale Parti",0
+Brønderslev,2,Asaa,"V_Jacob_Høfler,_Ø._Brønderslev","Jacob Høfler, Ø. Brønderslev","Venstre, Danmarks Liberale Parti",1
+Brønderslev,2,Asaa,"V_Majbritt_Iversen,_Hallund","Majbritt Iversen, Hallund","Venstre, Danmarks Liberale Parti",0
+Brønderslev,2,Asaa,"V_Klaus_Riis_Klæstrup,_Brønderslev","Klaus Riis Klæstrup, Brønderslev","Venstre, Danmarks Liberale Parti",4
+Brønderslev,2,Asaa,"V_Dennis_Kvesel,_Dorf","Dennis Kvesel, Dorf","Venstre, Danmarks Liberale Parti",4
+Brønderslev,2,Asaa,"V_Winnie_Vest,_Asaa","Winnie Vest, Asaa","Venstre, Danmarks Liberale Parti",15
+Brønderslev,2,Asaa,"V_Peter_Mølbjerg,_Klokkerholm","Peter Mølbjerg, Klokkerholm","Venstre, Danmarks Liberale Parti",0
+Brønderslev,2,Asaa,"V_Johnni_Olesen,_Hjallerup","Johnni Olesen, Hjallerup","Venstre, Danmarks Liberale Parti",1
+Brønderslev,2,Asaa,"V_Knud_L._Pedersen,_Thise","Knud L. Pedersen, Thise","Venstre, Danmarks Liberale Parti",0
+Brønderslev,2,Asaa,"V_Line_Vanggaard_Pedersen,_Jerslev","Line Vanggaard Pedersen, Jerslev","Venstre, Danmarks Liberale Parti",7
+Brønderslev,2,Asaa,"V_Lasse_Riisgaard,_Brønderslev","Lasse Riisgaard, Brønderslev","Venstre, Danmarks Liberale Parti",0
+Brønderslev,2,Asaa,"V_Niels_Vestergaard_Salling,_Jerslev","Niels Vestergaard Salling, Jerslev","Venstre, Danmarks Liberale Parti",0
+Brønderslev,2,Asaa,"V_Jan_Thaibert,_Agersted","Jan Thaibert, Agersted","Venstre, Danmarks Liberale Parti",4
+Brønderslev,2,Asaa,"V_Henrik_Toftgaard,_Dronninglund","Henrik Toftgaard, Dronninglund","Venstre, Danmarks Liberale Parti",6
+Brønderslev,2,Asaa,"V_Nadia_Vest,_Dronninglund","Nadia Vest, Dronninglund","Venstre, Danmarks Liberale Parti",6
+Brønderslev,2,Asaa,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,15
+Brønderslev,2,Asaa,Ø_Runa_Friis_Hansen,Runa Friis Hansen,Enhedslisten - De Rød-Grønne,8
+Brønderslev,2,Asaa,Ø_Christina_Eilers,Christina Eilers,Enhedslisten - De Rød-Grønne,1
+Brønderslev,2,Asaa,Ø_Lone_Nedergaard,Lone Nedergaard,Enhedslisten - De Rød-Grønne,1
+Brønderslev,2,Asaa,Ø_Annemette_Chemnitz_Eilers,Annemette Chemnitz Eilers,Enhedslisten - De Rød-Grønne,0
+Brønderslev,2,Asaa,Ø_Mai_Jensen,Mai Jensen,Enhedslisten - De Rød-Grønne,2
+Brønderslev,3,Dronninglund,A_Listestemmer,Listestemmer,Socialdemokratiet,158
+Brønderslev,3,Dronninglund,"A_Bettina_B._Kjeldsen,_Brønderslev","Bettina B. Kjeldsen, Brønderslev",Socialdemokratiet,167
+Brønderslev,3,Dronninglund,"A_Arne_M._Jensen,_Brønderslev","Arne M. Jensen, Brønderslev",Socialdemokratiet,0
+Brønderslev,3,Dronninglund,"A_Eskild_Sloth_Andersen,_Hjallerup","Eskild Sloth Andersen, Hjallerup",Socialdemokratiet,21
+Brønderslev,3,Dronninglund,"A_Peter_H._S._Kristensen,_Stenum","Peter H. S. Kristensen, Stenum",Socialdemokratiet,4
+Brønderslev,3,Dronninglund,"A_Benny_Engelsted_Karlsen,_Dr.lund","Benny Engelsted Karlsen, Dr.lund",Socialdemokratiet,72
+Brønderslev,3,Dronninglund,"A_Hildo_Rasmussen,_Asaa","Hildo Rasmussen, Asaa",Socialdemokratiet,41
+Brønderslev,3,Dronninglund,"A_Ole_Jespersgaard,_Ø._Brønderslev","Ole Jespersgaard, Ø. Brønderslev",Socialdemokratiet,4
+Brønderslev,3,Dronninglund,"A_Ole_Andersen,_Asaa","Ole Andersen, Asaa",Socialdemokratiet,28
+Brønderslev,3,Dronninglund,"A_Emilly_Pedersen,_Brønderslev","Emilly Pedersen, Brønderslev",Socialdemokratiet,6
+Brønderslev,3,Dronninglund,"A_Christen_Bager,_Dronninglund","Christen Bager, Dronninglund",Socialdemokratiet,130
+Brønderslev,3,Dronninglund,"A_Karen_Strandfelt,_Manna-Thise","Karen Strandfelt, Manna-Thise",Socialdemokratiet,0
+Brønderslev,3,Dronninglund,"A_Lene_Søndergaard,_Klæstrup-Jerslev","Lene Søndergaard, Klæstrup-Jerslev",Socialdemokratiet,2
+Brønderslev,3,Dronninglund,"A_Johannes_Trudslev,_Manna-Thise","Johannes Trudslev, Manna-Thise",Socialdemokratiet,0
+Brønderslev,3,Dronninglund,"A_Birger_Thomsen,_Dronninglund","Birger Thomsen, Dronninglund",Socialdemokratiet,33
+Brønderslev,3,Dronninglund,"A_Mogens_Stougaard_Karlsen,_Jerslev","Mogens Stougaard Karlsen, Jerslev",Socialdemokratiet,1
+Brønderslev,3,Dronninglund,"A_Mathias_Pedersen,_Brønderslev","Mathias Pedersen, Brønderslev",Socialdemokratiet,0
+Brønderslev,3,Dronninglund,"A_Jan_Sonne-Schmidt,_Klokkerholm","Jan Sonne-Schmidt, Klokkerholm",Socialdemokratiet,1
+Brønderslev,3,Dronninglund,"A_Otto_Bjerre,_Hellum","Otto Bjerre, Hellum",Socialdemokratiet,2
+Brønderslev,3,Dronninglund,"A_Lars_Rueskov,_Brønderslev","Lars Rueskov, Brønderslev",Socialdemokratiet,0
+Brønderslev,3,Dronninglund,"A_A._Neil_Jacobsen,_Brønderslev","A. Neil Jacobsen, Brønderslev",Socialdemokratiet,0
+Brønderslev,3,Dronninglund,"A_Poul_Erik_Andreasen,_Dronninglund","Poul Erik Andreasen, Dronninglund",Socialdemokratiet,56
+Brønderslev,3,Dronninglund,"A_Adnan_Jedon,_Brønderslev","Adnan Jedon, Brønderslev",Socialdemokratiet,3
+Brønderslev,3,Dronninglund,B_Listestemmer,Listestemmer,Radikale Venstre,14
+Brønderslev,3,Dronninglund,"B_Janus_Hove,_Ø._Brønderslev","Janus Hove, Ø. Brønderslev",Radikale Venstre,6
+Brønderslev,3,Dronninglund,"B_Dorthe_Kerschus,_Dronninglund","Dorthe Kerschus, Dronninglund",Radikale Venstre,46
+Brønderslev,3,Dronninglund,"B_Per_Nielsen,_Brønderslev","Per Nielsen, Brønderslev",Radikale Venstre,1
+Brønderslev,3,Dronninglund,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,43
+Brønderslev,3,Dronninglund,"C_Peter_Stecher,_Brønderslev","Peter Stecher, Brønderslev",Det Konservative Folkeparti,50
+Brønderslev,3,Dronninglund,"C_Mikael_Christensen,_Hjallerup","Mikael Christensen, Hjallerup",Det Konservative Folkeparti,1
+Brønderslev,3,Dronninglund,"C_Michael_Peter_Hansen,_Brønderslev","Michael Peter Hansen, Brønderslev",Det Konservative Folkeparti,2
+Brønderslev,3,Dronninglund,"C_Stinne_Reng,_Brønderslev","Stinne Reng, Brønderslev",Det Konservative Folkeparti,0
+Brønderslev,3,Dronninglund,"C_Janni_Høybye,_Jerslev","Janni Høybye, Jerslev",Det Konservative Folkeparti,9
+Brønderslev,3,Dronninglund,"C_Ole_Agger_Hansen,_Brønderslev","Ole Agger Hansen, Brønderslev",Det Konservative Folkeparti,1
+Brønderslev,3,Dronninglund,"C_Thomas_Greve_Lund,_Dronninglund","Thomas Greve Lund, Dronninglund",Det Konservative Folkeparti,24
+Brønderslev,3,Dronninglund,"C_Jette_Schiønning_Aasholm,Br.slev","Jette Schiønning Aasholm,Br.slev",Det Konservative Folkeparti,0
+Brønderslev,3,Dronninglund,"C_Jan_Rønnov,Brønderslev","Jan Rønnov,Brønderslev",Det Konservative Folkeparti,0
+Brønderslev,3,Dronninglund,"C_Jan_F.Johansen,_Hjallerup","Jan F.Johansen, Hjallerup",Det Konservative Folkeparti,0
+Brønderslev,3,Dronninglund,"C_Karsten_Andreasen,_Dronninglund","Karsten Andreasen, Dronninglund",Det Konservative Folkeparti,21
+Brønderslev,3,Dronninglund,"C_Torben_Houge_Nielsen,_Brønderslev","Torben Houge Nielsen, Brønderslev",Det Konservative Folkeparti,0
+Brønderslev,3,Dronninglund,D_Listestemmer,Listestemmer,Nye Borgerlige,22
+Brønderslev,3,Dronninglund,"D_Lars_E.Sørensen,_Brønderslev","Lars E.Sørensen, Brønderslev",Nye Borgerlige,17
+Brønderslev,3,Dronninglund,"D_Idon_Brødbæk,_Dronninglund","Idon Brødbæk, Dronninglund",Nye Borgerlige,22
+Brønderslev,3,Dronninglund,"D_Peter_Bonde,_Brønderslev","Peter Bonde, Brønderslev",Nye Borgerlige,4
+Brønderslev,3,Dronninglund,"D_Morten_Toft,_Brønderslev","Morten Toft, Brønderslev",Nye Borgerlige,0
+Brønderslev,3,Dronninglund,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,25
+Brønderslev,3,Dronninglund,"F_Henning_Jørgensen,_Brønderslev","Henning Jørgensen, Brønderslev",SF - Socialistisk Folkeparti,14
+Brønderslev,3,Dronninglund,"F_Kristina_P._Johansen,_Jerslev","Kristina P. Johansen, Jerslev",SF - Socialistisk Folkeparti,3
+Brønderslev,3,Dronninglund,"F_Kristine_Taagaard,_Brønderslev","Kristine Taagaard, Brønderslev",SF - Socialistisk Folkeparti,1
+Brønderslev,3,Dronninglund,"F_Ivan_Johansen,_Jerslev","Ivan Johansen, Jerslev",SF - Socialistisk Folkeparti,0
+Brønderslev,3,Dronninglund,"F_Mikkel_Mørk,_Brønderslev","Mikkel Mørk, Brønderslev",SF - Socialistisk Folkeparti,3
+Brønderslev,3,Dronninglund,"F_Marie_Brix_Mørk,_Brønderslev","Marie Brix Mørk, Brønderslev",SF - Socialistisk Folkeparti,1
+Brønderslev,3,Dronninglund,"F_Jan_Løvenholt,_Flauenskjold","Jan Løvenholt, Flauenskjold",SF - Socialistisk Folkeparti,3
+Brønderslev,3,Dronninglund,G_Listestemmer,Listestemmer,Veganerpartiet,34
+Brønderslev,3,Dronninglund,G_Uffe_Koch,Uffe Koch,Veganerpartiet,1
+Brønderslev,3,Dronninglund,I_Listestemmer,Listestemmer,Liberal Alliance,6
+Brønderslev,3,Dronninglund,"I_Hans-Henning_Terp-Hansen,Br.slev","Hans-Henning Terp-Hansen,Br.slev",Liberal Alliance,7
+Brønderslev,3,Dronninglund,J_Listestemmer,Listestemmer,Borgerlisten,22
+Brønderslev,3,Dronninglund,"J_Steen_Søgaard_Petersen,_Hjallerup","Steen Søgaard Petersen, Hjallerup",Borgerlisten,58
+Brønderslev,3,Dronninglund,"J_Simon_Aagaard,_Dronninglund","Simon Aagaard, Dronninglund",Borgerlisten,256
+Brønderslev,3,Dronninglund,"J_Marianne_Fristrup,_Hjallerup","Marianne Fristrup, Hjallerup",Borgerlisten,8
+Brønderslev,3,Dronninglund,"J_Mette_Greve,_Dronninglund","Mette Greve, Dronninglund",Borgerlisten,86
+Brønderslev,3,Dronninglund,"J_Kaj_Styrishave,_Jerslev","Kaj Styrishave, Jerslev",Borgerlisten,2
+Brønderslev,3,Dronninglund,"J_Jonna_Holdorf,_Klokkerholm","Jonna Holdorf, Klokkerholm",Borgerlisten,3
+Brønderslev,3,Dronninglund,"J_Jakob_Hassingboe,_Agersted","Jakob Hassingboe, Agersted",Borgerlisten,22
+Brønderslev,3,Dronninglund,"J_Mogens_Gregersen,_Hjallerup","Mogens Gregersen, Hjallerup",Borgerlisten,18
+Brønderslev,3,Dronninglund,K_Listestemmer,Listestemmer,Kristendemokraterne,4
+Brønderslev,3,Dronninglund,"K_Knud_Pejstrup,_Hjallerup","Knud Pejstrup, Hjallerup",Kristendemokraterne,7
+Brønderslev,3,Dronninglund,"K_Inge_Marie_Sonne,_Brønderslev","Inge Marie Sonne, Brønderslev",Kristendemokraterne,3
+Brønderslev,3,Dronninglund,"K_Benjamin_Fossing,_Thise","Benjamin Fossing, Thise",Kristendemokraterne,0
+Brønderslev,3,Dronninglund,O_Listestemmer,Listestemmer,Dansk Folkeparti,27
+Brønderslev,3,Dronninglund,"O_Carsten_Ullmann_Andersen,_Jerslev","Carsten Ullmann Andersen, Jerslev",Dansk Folkeparti,13
+Brønderslev,3,Dronninglund,"O_Danny_Rosenkilde,_Flauenskjold","Danny Rosenkilde, Flauenskjold",Dansk Folkeparti,23
+Brønderslev,3,Dronninglund,"O_Jamie_Voldby,_Brønderslev","Jamie Voldby, Brønderslev",Dansk Folkeparti,0
+Brønderslev,3,Dronninglund,"O_Ejvind_Aakjær,_Ørsø","Ejvind Aakjær, Ørsø",Dansk Folkeparti,9
+Brønderslev,3,Dronninglund,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",88
+Brønderslev,3,Dronninglund,"V_Mikael_Klitgaard,_Dronninglund","Mikael Klitgaard, Dronninglund","Venstre, Danmarks Liberale Parti",482
+Brønderslev,3,Dronninglund,"V_Mathias_Christensen,_Brønderslev","Mathias Christensen, Brønderslev","Venstre, Danmarks Liberale Parti",7
+Brønderslev,3,Dronninglund,"V_Jens_Andersen,_Serritslev","Jens Andersen, Serritslev","Venstre, Danmarks Liberale Parti",0
+Brønderslev,3,Dronninglund,"V_Martin_Bech,_Brønderslev","Martin Bech, Brønderslev","Venstre, Danmarks Liberale Parti",8
+Brønderslev,3,Dronninglund,"V_Thomas_Bertram,_Jerslev","Thomas Bertram, Jerslev","Venstre, Danmarks Liberale Parti",5
+Brønderslev,3,Dronninglund,"V_Peter_Bjerre,_Stenum","Peter Bjerre, Stenum","Venstre, Danmarks Liberale Parti",0
+Brønderslev,3,Dronninglund,"V_Svend_Bøgh,_Dronninglund","Svend Bøgh, Dronninglund","Venstre, Danmarks Liberale Parti",34
+Brønderslev,3,Dronninglund,"V_Margit_Chemnitz,_Klokkerholm","Margit Chemnitz, Klokkerholm","Venstre, Danmarks Liberale Parti",3
+Brønderslev,3,Dronninglund,"V_Søren_Christiansen,_Brønderslev","Søren Christiansen, Brønderslev","Venstre, Danmarks Liberale Parti",2
+Brønderslev,3,Dronninglund,"V_Frits_Danielsen,_Dronninglund","Frits Danielsen, Dronninglund","Venstre, Danmarks Liberale Parti",102
+Brønderslev,3,Dronninglund,"V_Simon_Eid,_Brønderslev","Simon Eid, Brønderslev","Venstre, Danmarks Liberale Parti",1
+Brønderslev,3,Dronninglund,"V_Malene_Fisker,_Brønderslev","Malene Fisker, Brønderslev","Venstre, Danmarks Liberale Parti",1
+Brønderslev,3,Dronninglund,"V_H._C._Holst,_Asaa","H. C. Holst, Asaa","Venstre, Danmarks Liberale Parti",49
+Brønderslev,3,Dronninglund,"V_Anders_B.Hummelmose,_Brønderslev","Anders B.Hummelmose, Brønderslev","Venstre, Danmarks Liberale Parti",5
+Brønderslev,3,Dronninglund,"V_Jacob_Høfler,_Ø._Brønderslev","Jacob Høfler, Ø. Brønderslev","Venstre, Danmarks Liberale Parti",2
+Brønderslev,3,Dronninglund,"V_Majbritt_Iversen,_Hallund","Majbritt Iversen, Hallund","Venstre, Danmarks Liberale Parti",0
+Brønderslev,3,Dronninglund,"V_Klaus_Riis_Klæstrup,_Brønderslev","Klaus Riis Klæstrup, Brønderslev","Venstre, Danmarks Liberale Parti",5
+Brønderslev,3,Dronninglund,"V_Dennis_Kvesel,_Dorf","Dennis Kvesel, Dorf","Venstre, Danmarks Liberale Parti",10
+Brønderslev,3,Dronninglund,"V_Winnie_Vest,_Asaa","Winnie Vest, Asaa","Venstre, Danmarks Liberale Parti",10
+Brønderslev,3,Dronninglund,"V_Peter_Mølbjerg,_Klokkerholm","Peter Mølbjerg, Klokkerholm","Venstre, Danmarks Liberale Parti",3
+Brønderslev,3,Dronninglund,"V_Johnni_Olesen,_Hjallerup","Johnni Olesen, Hjallerup","Venstre, Danmarks Liberale Parti",15
+Brønderslev,3,Dronninglund,"V_Knud_L._Pedersen,_Thise","Knud L. Pedersen, Thise","Venstre, Danmarks Liberale Parti",1
+Brønderslev,3,Dronninglund,"V_Line_Vanggaard_Pedersen,_Jerslev","Line Vanggaard Pedersen, Jerslev","Venstre, Danmarks Liberale Parti",27
+Brønderslev,3,Dronninglund,"V_Lasse_Riisgaard,_Brønderslev","Lasse Riisgaard, Brønderslev","Venstre, Danmarks Liberale Parti",0
+Brønderslev,3,Dronninglund,"V_Niels_Vestergaard_Salling,_Jerslev","Niels Vestergaard Salling, Jerslev","Venstre, Danmarks Liberale Parti",4
+Brønderslev,3,Dronninglund,"V_Jan_Thaibert,_Agersted","Jan Thaibert, Agersted","Venstre, Danmarks Liberale Parti",20
+Brønderslev,3,Dronninglund,"V_Henrik_Toftgaard,_Dronninglund","Henrik Toftgaard, Dronninglund","Venstre, Danmarks Liberale Parti",92
+Brønderslev,3,Dronninglund,"V_Nadia_Vest,_Dronninglund","Nadia Vest, Dronninglund","Venstre, Danmarks Liberale Parti",25
+Brønderslev,3,Dronninglund,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,25
+Brønderslev,3,Dronninglund,Ø_Runa_Friis_Hansen,Runa Friis Hansen,Enhedslisten - De Rød-Grønne,21
+Brønderslev,3,Dronninglund,Ø_Christina_Eilers,Christina Eilers,Enhedslisten - De Rød-Grønne,8
+Brønderslev,3,Dronninglund,Ø_Lone_Nedergaard,Lone Nedergaard,Enhedslisten - De Rød-Grønne,6
+Brønderslev,3,Dronninglund,Ø_Annemette_Chemnitz_Eilers,Annemette Chemnitz Eilers,Enhedslisten - De Rød-Grønne,3
+Brønderslev,3,Dronninglund,Ø_Mai_Jensen,Mai Jensen,Enhedslisten - De Rød-Grønne,4
+Brønderslev,4,Flauenskjold,A_Listestemmer,Listestemmer,Socialdemokratiet,33
+Brønderslev,4,Flauenskjold,"A_Bettina_B._Kjeldsen,_Brønderslev","Bettina B. Kjeldsen, Brønderslev",Socialdemokratiet,33
+Brønderslev,4,Flauenskjold,"A_Arne_M._Jensen,_Brønderslev","Arne M. Jensen, Brønderslev",Socialdemokratiet,1
+Brønderslev,4,Flauenskjold,"A_Eskild_Sloth_Andersen,_Hjallerup","Eskild Sloth Andersen, Hjallerup",Socialdemokratiet,6
+Brønderslev,4,Flauenskjold,"A_Peter_H._S._Kristensen,_Stenum","Peter H. S. Kristensen, Stenum",Socialdemokratiet,0
+Brønderslev,4,Flauenskjold,"A_Benny_Engelsted_Karlsen,_Dr.lund","Benny Engelsted Karlsen, Dr.lund",Socialdemokratiet,4
+Brønderslev,4,Flauenskjold,"A_Hildo_Rasmussen,_Asaa","Hildo Rasmussen, Asaa",Socialdemokratiet,5
+Brønderslev,4,Flauenskjold,"A_Ole_Jespersgaard,_Ø._Brønderslev","Ole Jespersgaard, Ø. Brønderslev",Socialdemokratiet,4
+Brønderslev,4,Flauenskjold,"A_Ole_Andersen,_Asaa","Ole Andersen, Asaa",Socialdemokratiet,2
+Brønderslev,4,Flauenskjold,"A_Emilly_Pedersen,_Brønderslev","Emilly Pedersen, Brønderslev",Socialdemokratiet,1
+Brønderslev,4,Flauenskjold,"A_Christen_Bager,_Dronninglund","Christen Bager, Dronninglund",Socialdemokratiet,6
+Brønderslev,4,Flauenskjold,"A_Karen_Strandfelt,_Manna-Thise","Karen Strandfelt, Manna-Thise",Socialdemokratiet,0
+Brønderslev,4,Flauenskjold,"A_Lene_Søndergaard,_Klæstrup-Jerslev","Lene Søndergaard, Klæstrup-Jerslev",Socialdemokratiet,0
+Brønderslev,4,Flauenskjold,"A_Johannes_Trudslev,_Manna-Thise","Johannes Trudslev, Manna-Thise",Socialdemokratiet,0
+Brønderslev,4,Flauenskjold,"A_Birger_Thomsen,_Dronninglund","Birger Thomsen, Dronninglund",Socialdemokratiet,10
+Brønderslev,4,Flauenskjold,"A_Mogens_Stougaard_Karlsen,_Jerslev","Mogens Stougaard Karlsen, Jerslev",Socialdemokratiet,1
+Brønderslev,4,Flauenskjold,"A_Mathias_Pedersen,_Brønderslev","Mathias Pedersen, Brønderslev",Socialdemokratiet,1
+Brønderslev,4,Flauenskjold,"A_Jan_Sonne-Schmidt,_Klokkerholm","Jan Sonne-Schmidt, Klokkerholm",Socialdemokratiet,1
+Brønderslev,4,Flauenskjold,"A_Otto_Bjerre,_Hellum","Otto Bjerre, Hellum",Socialdemokratiet,0
+Brønderslev,4,Flauenskjold,"A_Lars_Rueskov,_Brønderslev","Lars Rueskov, Brønderslev",Socialdemokratiet,0
+Brønderslev,4,Flauenskjold,"A_A._Neil_Jacobsen,_Brønderslev","A. Neil Jacobsen, Brønderslev",Socialdemokratiet,0
+Brønderslev,4,Flauenskjold,"A_Poul_Erik_Andreasen,_Dronninglund","Poul Erik Andreasen, Dronninglund",Socialdemokratiet,4
+Brønderslev,4,Flauenskjold,"A_Adnan_Jedon,_Brønderslev","Adnan Jedon, Brønderslev",Socialdemokratiet,0
+Brønderslev,4,Flauenskjold,B_Listestemmer,Listestemmer,Radikale Venstre,1
+Brønderslev,4,Flauenskjold,"B_Janus_Hove,_Ø._Brønderslev","Janus Hove, Ø. Brønderslev",Radikale Venstre,3
+Brønderslev,4,Flauenskjold,"B_Dorthe_Kerschus,_Dronninglund","Dorthe Kerschus, Dronninglund",Radikale Venstre,6
+Brønderslev,4,Flauenskjold,"B_Per_Nielsen,_Brønderslev","Per Nielsen, Brønderslev",Radikale Venstre,0
+Brønderslev,4,Flauenskjold,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,10
+Brønderslev,4,Flauenskjold,"C_Peter_Stecher,_Brønderslev","Peter Stecher, Brønderslev",Det Konservative Folkeparti,6
+Brønderslev,4,Flauenskjold,"C_Mikael_Christensen,_Hjallerup","Mikael Christensen, Hjallerup",Det Konservative Folkeparti,0
+Brønderslev,4,Flauenskjold,"C_Michael_Peter_Hansen,_Brønderslev","Michael Peter Hansen, Brønderslev",Det Konservative Folkeparti,1
+Brønderslev,4,Flauenskjold,"C_Stinne_Reng,_Brønderslev","Stinne Reng, Brønderslev",Det Konservative Folkeparti,1
+Brønderslev,4,Flauenskjold,"C_Janni_Høybye,_Jerslev","Janni Høybye, Jerslev",Det Konservative Folkeparti,5
+Brønderslev,4,Flauenskjold,"C_Ole_Agger_Hansen,_Brønderslev","Ole Agger Hansen, Brønderslev",Det Konservative Folkeparti,2
+Brønderslev,4,Flauenskjold,"C_Thomas_Greve_Lund,_Dronninglund","Thomas Greve Lund, Dronninglund",Det Konservative Folkeparti,1
+Brønderslev,4,Flauenskjold,"C_Jette_Schiønning_Aasholm,Br.slev","Jette Schiønning Aasholm,Br.slev",Det Konservative Folkeparti,0
+Brønderslev,4,Flauenskjold,"C_Jan_Rønnov,Brønderslev","Jan Rønnov,Brønderslev",Det Konservative Folkeparti,0
+Brønderslev,4,Flauenskjold,"C_Jan_F.Johansen,_Hjallerup","Jan F.Johansen, Hjallerup",Det Konservative Folkeparti,0
+Brønderslev,4,Flauenskjold,"C_Karsten_Andreasen,_Dronninglund","Karsten Andreasen, Dronninglund",Det Konservative Folkeparti,2
+Brønderslev,4,Flauenskjold,"C_Torben_Houge_Nielsen,_Brønderslev","Torben Houge Nielsen, Brønderslev",Det Konservative Folkeparti,0
+Brønderslev,4,Flauenskjold,D_Listestemmer,Listestemmer,Nye Borgerlige,13
+Brønderslev,4,Flauenskjold,"D_Lars_E.Sørensen,_Brønderslev","Lars E.Sørensen, Brønderslev",Nye Borgerlige,10
+Brønderslev,4,Flauenskjold,"D_Idon_Brødbæk,_Dronninglund","Idon Brødbæk, Dronninglund",Nye Borgerlige,9
+Brønderslev,4,Flauenskjold,"D_Peter_Bonde,_Brønderslev","Peter Bonde, Brønderslev",Nye Borgerlige,4
+Brønderslev,4,Flauenskjold,"D_Morten_Toft,_Brønderslev","Morten Toft, Brønderslev",Nye Borgerlige,3
+Brønderslev,4,Flauenskjold,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,7
+Brønderslev,4,Flauenskjold,"F_Henning_Jørgensen,_Brønderslev","Henning Jørgensen, Brønderslev",SF - Socialistisk Folkeparti,1
+Brønderslev,4,Flauenskjold,"F_Kristina_P._Johansen,_Jerslev","Kristina P. Johansen, Jerslev",SF - Socialistisk Folkeparti,4
+Brønderslev,4,Flauenskjold,"F_Kristine_Taagaard,_Brønderslev","Kristine Taagaard, Brønderslev",SF - Socialistisk Folkeparti,0
+Brønderslev,4,Flauenskjold,"F_Ivan_Johansen,_Jerslev","Ivan Johansen, Jerslev",SF - Socialistisk Folkeparti,1
+Brønderslev,4,Flauenskjold,"F_Mikkel_Mørk,_Brønderslev","Mikkel Mørk, Brønderslev",SF - Socialistisk Folkeparti,0
+Brønderslev,4,Flauenskjold,"F_Marie_Brix_Mørk,_Brønderslev","Marie Brix Mørk, Brønderslev",SF - Socialistisk Folkeparti,1
+Brønderslev,4,Flauenskjold,"F_Jan_Løvenholt,_Flauenskjold","Jan Løvenholt, Flauenskjold",SF - Socialistisk Folkeparti,3
+Brønderslev,4,Flauenskjold,G_Listestemmer,Listestemmer,Veganerpartiet,0
+Brønderslev,4,Flauenskjold,G_Uffe_Koch,Uffe Koch,Veganerpartiet,7
+Brønderslev,4,Flauenskjold,I_Listestemmer,Listestemmer,Liberal Alliance,0
+Brønderslev,4,Flauenskjold,"I_Hans-Henning_Terp-Hansen,Br.slev","Hans-Henning Terp-Hansen,Br.slev",Liberal Alliance,1
+Brønderslev,4,Flauenskjold,J_Listestemmer,Listestemmer,Borgerlisten,5
+Brønderslev,4,Flauenskjold,"J_Steen_Søgaard_Petersen,_Hjallerup","Steen Søgaard Petersen, Hjallerup",Borgerlisten,10
+Brønderslev,4,Flauenskjold,"J_Simon_Aagaard,_Dronninglund","Simon Aagaard, Dronninglund",Borgerlisten,11
+Brønderslev,4,Flauenskjold,"J_Marianne_Fristrup,_Hjallerup","Marianne Fristrup, Hjallerup",Borgerlisten,0
+Brønderslev,4,Flauenskjold,"J_Mette_Greve,_Dronninglund","Mette Greve, Dronninglund",Borgerlisten,1
+Brønderslev,4,Flauenskjold,"J_Kaj_Styrishave,_Jerslev","Kaj Styrishave, Jerslev",Borgerlisten,0
+Brønderslev,4,Flauenskjold,"J_Jonna_Holdorf,_Klokkerholm","Jonna Holdorf, Klokkerholm",Borgerlisten,0
+Brønderslev,4,Flauenskjold,"J_Jakob_Hassingboe,_Agersted","Jakob Hassingboe, Agersted",Borgerlisten,3
+Brønderslev,4,Flauenskjold,"J_Mogens_Gregersen,_Hjallerup","Mogens Gregersen, Hjallerup",Borgerlisten,1
+Brønderslev,4,Flauenskjold,K_Listestemmer,Listestemmer,Kristendemokraterne,0
+Brønderslev,4,Flauenskjold,"K_Knud_Pejstrup,_Hjallerup","Knud Pejstrup, Hjallerup",Kristendemokraterne,1
+Brønderslev,4,Flauenskjold,"K_Inge_Marie_Sonne,_Brønderslev","Inge Marie Sonne, Brønderslev",Kristendemokraterne,0
+Brønderslev,4,Flauenskjold,"K_Benjamin_Fossing,_Thise","Benjamin Fossing, Thise",Kristendemokraterne,0
+Brønderslev,4,Flauenskjold,O_Listestemmer,Listestemmer,Dansk Folkeparti,7
+Brønderslev,4,Flauenskjold,"O_Carsten_Ullmann_Andersen,_Jerslev","Carsten Ullmann Andersen, Jerslev",Dansk Folkeparti,2
+Brønderslev,4,Flauenskjold,"O_Danny_Rosenkilde,_Flauenskjold","Danny Rosenkilde, Flauenskjold",Dansk Folkeparti,111
+Brønderslev,4,Flauenskjold,"O_Jamie_Voldby,_Brønderslev","Jamie Voldby, Brønderslev",Dansk Folkeparti,1
+Brønderslev,4,Flauenskjold,"O_Ejvind_Aakjær,_Ørsø","Ejvind Aakjær, Ørsø",Dansk Folkeparti,2
+Brønderslev,4,Flauenskjold,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",26
+Brønderslev,4,Flauenskjold,"V_Mikael_Klitgaard,_Dronninglund","Mikael Klitgaard, Dronninglund","Venstre, Danmarks Liberale Parti",91
+Brønderslev,4,Flauenskjold,"V_Mathias_Christensen,_Brønderslev","Mathias Christensen, Brønderslev","Venstre, Danmarks Liberale Parti",2
+Brønderslev,4,Flauenskjold,"V_Jens_Andersen,_Serritslev","Jens Andersen, Serritslev","Venstre, Danmarks Liberale Parti",0
+Brønderslev,4,Flauenskjold,"V_Martin_Bech,_Brønderslev","Martin Bech, Brønderslev","Venstre, Danmarks Liberale Parti",1
+Brønderslev,4,Flauenskjold,"V_Thomas_Bertram,_Jerslev","Thomas Bertram, Jerslev","Venstre, Danmarks Liberale Parti",3
+Brønderslev,4,Flauenskjold,"V_Peter_Bjerre,_Stenum","Peter Bjerre, Stenum","Venstre, Danmarks Liberale Parti",1
+Brønderslev,4,Flauenskjold,"V_Svend_Bøgh,_Dronninglund","Svend Bøgh, Dronninglund","Venstre, Danmarks Liberale Parti",3
+Brønderslev,4,Flauenskjold,"V_Margit_Chemnitz,_Klokkerholm","Margit Chemnitz, Klokkerholm","Venstre, Danmarks Liberale Parti",0
+Brønderslev,4,Flauenskjold,"V_Søren_Christiansen,_Brønderslev","Søren Christiansen, Brønderslev","Venstre, Danmarks Liberale Parti",0
+Brønderslev,4,Flauenskjold,"V_Frits_Danielsen,_Dronninglund","Frits Danielsen, Dronninglund","Venstre, Danmarks Liberale Parti",5
+Brønderslev,4,Flauenskjold,"V_Simon_Eid,_Brønderslev","Simon Eid, Brønderslev","Venstre, Danmarks Liberale Parti",0
+Brønderslev,4,Flauenskjold,"V_Malene_Fisker,_Brønderslev","Malene Fisker, Brønderslev","Venstre, Danmarks Liberale Parti",1
+Brønderslev,4,Flauenskjold,"V_H._C._Holst,_Asaa","H. C. Holst, Asaa","Venstre, Danmarks Liberale Parti",12
+Brønderslev,4,Flauenskjold,"V_Anders_B.Hummelmose,_Brønderslev","Anders B.Hummelmose, Brønderslev","Venstre, Danmarks Liberale Parti",0
+Brønderslev,4,Flauenskjold,"V_Jacob_Høfler,_Ø._Brønderslev","Jacob Høfler, Ø. Brønderslev","Venstre, Danmarks Liberale Parti",0
+Brønderslev,4,Flauenskjold,"V_Majbritt_Iversen,_Hallund","Majbritt Iversen, Hallund","Venstre, Danmarks Liberale Parti",0
+Brønderslev,4,Flauenskjold,"V_Klaus_Riis_Klæstrup,_Brønderslev","Klaus Riis Klæstrup, Brønderslev","Venstre, Danmarks Liberale Parti",1
+Brønderslev,4,Flauenskjold,"V_Dennis_Kvesel,_Dorf","Dennis Kvesel, Dorf","Venstre, Danmarks Liberale Parti",124
+Brønderslev,4,Flauenskjold,"V_Winnie_Vest,_Asaa","Winnie Vest, Asaa","Venstre, Danmarks Liberale Parti",1
+Brønderslev,4,Flauenskjold,"V_Peter_Mølbjerg,_Klokkerholm","Peter Mølbjerg, Klokkerholm","Venstre, Danmarks Liberale Parti",3
+Brønderslev,4,Flauenskjold,"V_Johnni_Olesen,_Hjallerup","Johnni Olesen, Hjallerup","Venstre, Danmarks Liberale Parti",4
+Brønderslev,4,Flauenskjold,"V_Knud_L._Pedersen,_Thise","Knud L. Pedersen, Thise","Venstre, Danmarks Liberale Parti",0
+Brønderslev,4,Flauenskjold,"V_Line_Vanggaard_Pedersen,_Jerslev","Line Vanggaard Pedersen, Jerslev","Venstre, Danmarks Liberale Parti",12
+Brønderslev,4,Flauenskjold,"V_Lasse_Riisgaard,_Brønderslev","Lasse Riisgaard, Brønderslev","Venstre, Danmarks Liberale Parti",2
+Brønderslev,4,Flauenskjold,"V_Niels_Vestergaard_Salling,_Jerslev","Niels Vestergaard Salling, Jerslev","Venstre, Danmarks Liberale Parti",0
+Brønderslev,4,Flauenskjold,"V_Jan_Thaibert,_Agersted","Jan Thaibert, Agersted","Venstre, Danmarks Liberale Parti",3
+Brønderslev,4,Flauenskjold,"V_Henrik_Toftgaard,_Dronninglund","Henrik Toftgaard, Dronninglund","Venstre, Danmarks Liberale Parti",7
+Brønderslev,4,Flauenskjold,"V_Nadia_Vest,_Dronninglund","Nadia Vest, Dronninglund","Venstre, Danmarks Liberale Parti",3
+Brønderslev,4,Flauenskjold,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,4
+Brønderslev,4,Flauenskjold,Ø_Runa_Friis_Hansen,Runa Friis Hansen,Enhedslisten - De Rød-Grønne,6
+Brønderslev,4,Flauenskjold,Ø_Christina_Eilers,Christina Eilers,Enhedslisten - De Rød-Grønne,2
+Brønderslev,4,Flauenskjold,Ø_Lone_Nedergaard,Lone Nedergaard,Enhedslisten - De Rød-Grønne,1
+Brønderslev,4,Flauenskjold,Ø_Annemette_Chemnitz_Eilers,Annemette Chemnitz Eilers,Enhedslisten - De Rød-Grønne,1
+Brønderslev,4,Flauenskjold,Ø_Mai_Jensen,Mai Jensen,Enhedslisten - De Rød-Grønne,1
+Brønderslev,5,Hjallerup,A_Listestemmer,Listestemmer,Socialdemokratiet,145
+Brønderslev,5,Hjallerup,"A_Bettina_B._Kjeldsen,_Brønderslev","Bettina B. Kjeldsen, Brønderslev",Socialdemokratiet,115
+Brønderslev,5,Hjallerup,"A_Arne_M._Jensen,_Brønderslev","Arne M. Jensen, Brønderslev",Socialdemokratiet,2
+Brønderslev,5,Hjallerup,"A_Eskild_Sloth_Andersen,_Hjallerup","Eskild Sloth Andersen, Hjallerup",Socialdemokratiet,334
+Brønderslev,5,Hjallerup,"A_Peter_H._S._Kristensen,_Stenum","Peter H. S. Kristensen, Stenum",Socialdemokratiet,3
+Brønderslev,5,Hjallerup,"A_Benny_Engelsted_Karlsen,_Dr.lund","Benny Engelsted Karlsen, Dr.lund",Socialdemokratiet,9
+Brønderslev,5,Hjallerup,"A_Hildo_Rasmussen,_Asaa","Hildo Rasmussen, Asaa",Socialdemokratiet,10
+Brønderslev,5,Hjallerup,"A_Ole_Jespersgaard,_Ø._Brønderslev","Ole Jespersgaard, Ø. Brønderslev",Socialdemokratiet,4
+Brønderslev,5,Hjallerup,"A_Ole_Andersen,_Asaa","Ole Andersen, Asaa",Socialdemokratiet,8
+Brønderslev,5,Hjallerup,"A_Emilly_Pedersen,_Brønderslev","Emilly Pedersen, Brønderslev",Socialdemokratiet,7
+Brønderslev,5,Hjallerup,"A_Christen_Bager,_Dronninglund","Christen Bager, Dronninglund",Socialdemokratiet,8
+Brønderslev,5,Hjallerup,"A_Karen_Strandfelt,_Manna-Thise","Karen Strandfelt, Manna-Thise",Socialdemokratiet,3
+Brønderslev,5,Hjallerup,"A_Lene_Søndergaard,_Klæstrup-Jerslev","Lene Søndergaard, Klæstrup-Jerslev",Socialdemokratiet,1
+Brønderslev,5,Hjallerup,"A_Johannes_Trudslev,_Manna-Thise","Johannes Trudslev, Manna-Thise",Socialdemokratiet,4
+Brønderslev,5,Hjallerup,"A_Birger_Thomsen,_Dronninglund","Birger Thomsen, Dronninglund",Socialdemokratiet,6
+Brønderslev,5,Hjallerup,"A_Mogens_Stougaard_Karlsen,_Jerslev","Mogens Stougaard Karlsen, Jerslev",Socialdemokratiet,3
+Brønderslev,5,Hjallerup,"A_Mathias_Pedersen,_Brønderslev","Mathias Pedersen, Brønderslev",Socialdemokratiet,2
+Brønderslev,5,Hjallerup,"A_Jan_Sonne-Schmidt,_Klokkerholm","Jan Sonne-Schmidt, Klokkerholm",Socialdemokratiet,6
+Brønderslev,5,Hjallerup,"A_Otto_Bjerre,_Hellum","Otto Bjerre, Hellum",Socialdemokratiet,1
+Brønderslev,5,Hjallerup,"A_Lars_Rueskov,_Brønderslev","Lars Rueskov, Brønderslev",Socialdemokratiet,2
+Brønderslev,5,Hjallerup,"A_A._Neil_Jacobsen,_Brønderslev","A. Neil Jacobsen, Brønderslev",Socialdemokratiet,1
+Brønderslev,5,Hjallerup,"A_Poul_Erik_Andreasen,_Dronninglund","Poul Erik Andreasen, Dronninglund",Socialdemokratiet,14
+Brønderslev,5,Hjallerup,"A_Adnan_Jedon,_Brønderslev","Adnan Jedon, Brønderslev",Socialdemokratiet,0
+Brønderslev,5,Hjallerup,B_Listestemmer,Listestemmer,Radikale Venstre,4
+Brønderslev,5,Hjallerup,"B_Janus_Hove,_Ø._Brønderslev","Janus Hove, Ø. Brønderslev",Radikale Venstre,6
+Brønderslev,5,Hjallerup,"B_Dorthe_Kerschus,_Dronninglund","Dorthe Kerschus, Dronninglund",Radikale Venstre,10
+Brønderslev,5,Hjallerup,"B_Per_Nielsen,_Brønderslev","Per Nielsen, Brønderslev",Radikale Venstre,0
+Brønderslev,5,Hjallerup,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,29
+Brønderslev,5,Hjallerup,"C_Peter_Stecher,_Brønderslev","Peter Stecher, Brønderslev",Det Konservative Folkeparti,19
+Brønderslev,5,Hjallerup,"C_Mikael_Christensen,_Hjallerup","Mikael Christensen, Hjallerup",Det Konservative Folkeparti,46
+Brønderslev,5,Hjallerup,"C_Michael_Peter_Hansen,_Brønderslev","Michael Peter Hansen, Brønderslev",Det Konservative Folkeparti,2
+Brønderslev,5,Hjallerup,"C_Stinne_Reng,_Brønderslev","Stinne Reng, Brønderslev",Det Konservative Folkeparti,0
+Brønderslev,5,Hjallerup,"C_Janni_Høybye,_Jerslev","Janni Høybye, Jerslev",Det Konservative Folkeparti,8
+Brønderslev,5,Hjallerup,"C_Ole_Agger_Hansen,_Brønderslev","Ole Agger Hansen, Brønderslev",Det Konservative Folkeparti,0
+Brønderslev,5,Hjallerup,"C_Thomas_Greve_Lund,_Dronninglund","Thomas Greve Lund, Dronninglund",Det Konservative Folkeparti,4
+Brønderslev,5,Hjallerup,"C_Jette_Schiønning_Aasholm,Br.slev","Jette Schiønning Aasholm,Br.slev",Det Konservative Folkeparti,2
+Brønderslev,5,Hjallerup,"C_Jan_Rønnov,Brønderslev","Jan Rønnov,Brønderslev",Det Konservative Folkeparti,0
+Brønderslev,5,Hjallerup,"C_Jan_F.Johansen,_Hjallerup","Jan F.Johansen, Hjallerup",Det Konservative Folkeparti,15
+Brønderslev,5,Hjallerup,"C_Karsten_Andreasen,_Dronninglund","Karsten Andreasen, Dronninglund",Det Konservative Folkeparti,1
+Brønderslev,5,Hjallerup,"C_Torben_Houge_Nielsen,_Brønderslev","Torben Houge Nielsen, Brønderslev",Det Konservative Folkeparti,0
+Brønderslev,5,Hjallerup,D_Listestemmer,Listestemmer,Nye Borgerlige,35
+Brønderslev,5,Hjallerup,"D_Lars_E.Sørensen,_Brønderslev","Lars E.Sørensen, Brønderslev",Nye Borgerlige,21
+Brønderslev,5,Hjallerup,"D_Idon_Brødbæk,_Dronninglund","Idon Brødbæk, Dronninglund",Nye Borgerlige,17
+Brønderslev,5,Hjallerup,"D_Peter_Bonde,_Brønderslev","Peter Bonde, Brønderslev",Nye Borgerlige,7
+Brønderslev,5,Hjallerup,"D_Morten_Toft,_Brønderslev","Morten Toft, Brønderslev",Nye Borgerlige,2
+Brønderslev,5,Hjallerup,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,28
+Brønderslev,5,Hjallerup,"F_Henning_Jørgensen,_Brønderslev","Henning Jørgensen, Brønderslev",SF - Socialistisk Folkeparti,7
+Brønderslev,5,Hjallerup,"F_Kristina_P._Johansen,_Jerslev","Kristina P. Johansen, Jerslev",SF - Socialistisk Folkeparti,8
+Brønderslev,5,Hjallerup,"F_Kristine_Taagaard,_Brønderslev","Kristine Taagaard, Brønderslev",SF - Socialistisk Folkeparti,4
+Brønderslev,5,Hjallerup,"F_Ivan_Johansen,_Jerslev","Ivan Johansen, Jerslev",SF - Socialistisk Folkeparti,0
+Brønderslev,5,Hjallerup,"F_Mikkel_Mørk,_Brønderslev","Mikkel Mørk, Brønderslev",SF - Socialistisk Folkeparti,0
+Brønderslev,5,Hjallerup,"F_Marie_Brix_Mørk,_Brønderslev","Marie Brix Mørk, Brønderslev",SF - Socialistisk Folkeparti,1
+Brønderslev,5,Hjallerup,"F_Jan_Løvenholt,_Flauenskjold","Jan Løvenholt, Flauenskjold",SF - Socialistisk Folkeparti,3
+Brønderslev,5,Hjallerup,G_Listestemmer,Listestemmer,Veganerpartiet,3
+Brønderslev,5,Hjallerup,G_Uffe_Koch,Uffe Koch,Veganerpartiet,12
+Brønderslev,5,Hjallerup,I_Listestemmer,Listestemmer,Liberal Alliance,3
+Brønderslev,5,Hjallerup,"I_Hans-Henning_Terp-Hansen,Br.slev","Hans-Henning Terp-Hansen,Br.slev",Liberal Alliance,4
+Brønderslev,5,Hjallerup,J_Listestemmer,Listestemmer,Borgerlisten,19
+Brønderslev,5,Hjallerup,"J_Steen_Søgaard_Petersen,_Hjallerup","Steen Søgaard Petersen, Hjallerup",Borgerlisten,252
+Brønderslev,5,Hjallerup,"J_Simon_Aagaard,_Dronninglund","Simon Aagaard, Dronninglund",Borgerlisten,20
+Brønderslev,5,Hjallerup,"J_Marianne_Fristrup,_Hjallerup","Marianne Fristrup, Hjallerup",Borgerlisten,57
+Brønderslev,5,Hjallerup,"J_Mette_Greve,_Dronninglund","Mette Greve, Dronninglund",Borgerlisten,11
+Brønderslev,5,Hjallerup,"J_Kaj_Styrishave,_Jerslev","Kaj Styrishave, Jerslev",Borgerlisten,0
+Brønderslev,5,Hjallerup,"J_Jonna_Holdorf,_Klokkerholm","Jonna Holdorf, Klokkerholm",Borgerlisten,2
+Brønderslev,5,Hjallerup,"J_Jakob_Hassingboe,_Agersted","Jakob Hassingboe, Agersted",Borgerlisten,2
+Brønderslev,5,Hjallerup,"J_Mogens_Gregersen,_Hjallerup","Mogens Gregersen, Hjallerup",Borgerlisten,4
+Brønderslev,5,Hjallerup,K_Listestemmer,Listestemmer,Kristendemokraterne,4
+Brønderslev,5,Hjallerup,"K_Knud_Pejstrup,_Hjallerup","Knud Pejstrup, Hjallerup",Kristendemokraterne,16
+Brønderslev,5,Hjallerup,"K_Inge_Marie_Sonne,_Brønderslev","Inge Marie Sonne, Brønderslev",Kristendemokraterne,1
+Brønderslev,5,Hjallerup,"K_Benjamin_Fossing,_Thise","Benjamin Fossing, Thise",Kristendemokraterne,0
+Brønderslev,5,Hjallerup,O_Listestemmer,Listestemmer,Dansk Folkeparti,13
+Brønderslev,5,Hjallerup,"O_Carsten_Ullmann_Andersen,_Jerslev","Carsten Ullmann Andersen, Jerslev",Dansk Folkeparti,22
+Brønderslev,5,Hjallerup,"O_Danny_Rosenkilde,_Flauenskjold","Danny Rosenkilde, Flauenskjold",Dansk Folkeparti,22
+Brønderslev,5,Hjallerup,"O_Jamie_Voldby,_Brønderslev","Jamie Voldby, Brønderslev",Dansk Folkeparti,7
+Brønderslev,5,Hjallerup,"O_Ejvind_Aakjær,_Ørsø","Ejvind Aakjær, Ørsø",Dansk Folkeparti,4
+Brønderslev,5,Hjallerup,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",78
+Brønderslev,5,Hjallerup,"V_Mikael_Klitgaard,_Dronninglund","Mikael Klitgaard, Dronninglund","Venstre, Danmarks Liberale Parti",603
+Brønderslev,5,Hjallerup,"V_Mathias_Christensen,_Brønderslev","Mathias Christensen, Brønderslev","Venstre, Danmarks Liberale Parti",11
+Brønderslev,5,Hjallerup,"V_Jens_Andersen,_Serritslev","Jens Andersen, Serritslev","Venstre, Danmarks Liberale Parti",0
+Brønderslev,5,Hjallerup,"V_Martin_Bech,_Brønderslev","Martin Bech, Brønderslev","Venstre, Danmarks Liberale Parti",9
+Brønderslev,5,Hjallerup,"V_Thomas_Bertram,_Jerslev","Thomas Bertram, Jerslev","Venstre, Danmarks Liberale Parti",2
+Brønderslev,5,Hjallerup,"V_Peter_Bjerre,_Stenum","Peter Bjerre, Stenum","Venstre, Danmarks Liberale Parti",3
+Brønderslev,5,Hjallerup,"V_Svend_Bøgh,_Dronninglund","Svend Bøgh, Dronninglund","Venstre, Danmarks Liberale Parti",3
+Brønderslev,5,Hjallerup,"V_Margit_Chemnitz,_Klokkerholm","Margit Chemnitz, Klokkerholm","Venstre, Danmarks Liberale Parti",24
+Brønderslev,5,Hjallerup,"V_Søren_Christiansen,_Brønderslev","Søren Christiansen, Brønderslev","Venstre, Danmarks Liberale Parti",2
+Brønderslev,5,Hjallerup,"V_Frits_Danielsen,_Dronninglund","Frits Danielsen, Dronninglund","Venstre, Danmarks Liberale Parti",11
+Brønderslev,5,Hjallerup,"V_Simon_Eid,_Brønderslev","Simon Eid, Brønderslev","Venstre, Danmarks Liberale Parti",1
+Brønderslev,5,Hjallerup,"V_Malene_Fisker,_Brønderslev","Malene Fisker, Brønderslev","Venstre, Danmarks Liberale Parti",3
+Brønderslev,5,Hjallerup,"V_H._C._Holst,_Asaa","H. C. Holst, Asaa","Venstre, Danmarks Liberale Parti",12
+Brønderslev,5,Hjallerup,"V_Anders_B.Hummelmose,_Brønderslev","Anders B.Hummelmose, Brønderslev","Venstre, Danmarks Liberale Parti",0
+Brønderslev,5,Hjallerup,"V_Jacob_Høfler,_Ø._Brønderslev","Jacob Høfler, Ø. Brønderslev","Venstre, Danmarks Liberale Parti",4
+Brønderslev,5,Hjallerup,"V_Majbritt_Iversen,_Hallund","Majbritt Iversen, Hallund","Venstre, Danmarks Liberale Parti",0
+Brønderslev,5,Hjallerup,"V_Klaus_Riis_Klæstrup,_Brønderslev","Klaus Riis Klæstrup, Brønderslev","Venstre, Danmarks Liberale Parti",0
+Brønderslev,5,Hjallerup,"V_Dennis_Kvesel,_Dorf","Dennis Kvesel, Dorf","Venstre, Danmarks Liberale Parti",103
+Brønderslev,5,Hjallerup,"V_Winnie_Vest,_Asaa","Winnie Vest, Asaa","Venstre, Danmarks Liberale Parti",2
+Brønderslev,5,Hjallerup,"V_Peter_Mølbjerg,_Klokkerholm","Peter Mølbjerg, Klokkerholm","Venstre, Danmarks Liberale Parti",1
+Brønderslev,5,Hjallerup,"V_Johnni_Olesen,_Hjallerup","Johnni Olesen, Hjallerup","Venstre, Danmarks Liberale Parti",190
+Brønderslev,5,Hjallerup,"V_Knud_L._Pedersen,_Thise","Knud L. Pedersen, Thise","Venstre, Danmarks Liberale Parti",2
+Brønderslev,5,Hjallerup,"V_Line_Vanggaard_Pedersen,_Jerslev","Line Vanggaard Pedersen, Jerslev","Venstre, Danmarks Liberale Parti",16
+Brønderslev,5,Hjallerup,"V_Lasse_Riisgaard,_Brønderslev","Lasse Riisgaard, Brønderslev","Venstre, Danmarks Liberale Parti",1
+Brønderslev,5,Hjallerup,"V_Niels_Vestergaard_Salling,_Jerslev","Niels Vestergaard Salling, Jerslev","Venstre, Danmarks Liberale Parti",1
+Brønderslev,5,Hjallerup,"V_Jan_Thaibert,_Agersted","Jan Thaibert, Agersted","Venstre, Danmarks Liberale Parti",6
+Brønderslev,5,Hjallerup,"V_Henrik_Toftgaard,_Dronninglund","Henrik Toftgaard, Dronninglund","Venstre, Danmarks Liberale Parti",6
+Brønderslev,5,Hjallerup,"V_Nadia_Vest,_Dronninglund","Nadia Vest, Dronninglund","Venstre, Danmarks Liberale Parti",15
+Brønderslev,5,Hjallerup,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,29
+Brønderslev,5,Hjallerup,Ø_Runa_Friis_Hansen,Runa Friis Hansen,Enhedslisten - De Rød-Grønne,11
+Brønderslev,5,Hjallerup,Ø_Christina_Eilers,Christina Eilers,Enhedslisten - De Rød-Grønne,3
+Brønderslev,5,Hjallerup,Ø_Lone_Nedergaard,Lone Nedergaard,Enhedslisten - De Rød-Grønne,2
+Brønderslev,5,Hjallerup,Ø_Annemette_Chemnitz_Eilers,Annemette Chemnitz Eilers,Enhedslisten - De Rød-Grønne,3
+Brønderslev,5,Hjallerup,Ø_Mai_Jensen,Mai Jensen,Enhedslisten - De Rød-Grønne,1
+Brønderslev,6,Klokkerholm,A_Listestemmer,Listestemmer,Socialdemokratiet,49
+Brønderslev,6,Klokkerholm,"A_Bettina_B._Kjeldsen,_Brønderslev","Bettina B. Kjeldsen, Brønderslev",Socialdemokratiet,63
+Brønderslev,6,Klokkerholm,"A_Arne_M._Jensen,_Brønderslev","Arne M. Jensen, Brønderslev",Socialdemokratiet,0
+Brønderslev,6,Klokkerholm,"A_Eskild_Sloth_Andersen,_Hjallerup","Eskild Sloth Andersen, Hjallerup",Socialdemokratiet,31
+Brønderslev,6,Klokkerholm,"A_Peter_H._S._Kristensen,_Stenum","Peter H. S. Kristensen, Stenum",Socialdemokratiet,7
+Brønderslev,6,Klokkerholm,"A_Benny_Engelsted_Karlsen,_Dr.lund","Benny Engelsted Karlsen, Dr.lund",Socialdemokratiet,7
+Brønderslev,6,Klokkerholm,"A_Hildo_Rasmussen,_Asaa","Hildo Rasmussen, Asaa",Socialdemokratiet,5
+Brønderslev,6,Klokkerholm,"A_Ole_Jespersgaard,_Ø._Brønderslev","Ole Jespersgaard, Ø. Brønderslev",Socialdemokratiet,8
+Brønderslev,6,Klokkerholm,"A_Ole_Andersen,_Asaa","Ole Andersen, Asaa",Socialdemokratiet,4
+Brønderslev,6,Klokkerholm,"A_Emilly_Pedersen,_Brønderslev","Emilly Pedersen, Brønderslev",Socialdemokratiet,3
+Brønderslev,6,Klokkerholm,"A_Christen_Bager,_Dronninglund","Christen Bager, Dronninglund",Socialdemokratiet,4
+Brønderslev,6,Klokkerholm,"A_Karen_Strandfelt,_Manna-Thise","Karen Strandfelt, Manna-Thise",Socialdemokratiet,1
+Brønderslev,6,Klokkerholm,"A_Lene_Søndergaard,_Klæstrup-Jerslev","Lene Søndergaard, Klæstrup-Jerslev",Socialdemokratiet,1
+Brønderslev,6,Klokkerholm,"A_Johannes_Trudslev,_Manna-Thise","Johannes Trudslev, Manna-Thise",Socialdemokratiet,2
+Brønderslev,6,Klokkerholm,"A_Birger_Thomsen,_Dronninglund","Birger Thomsen, Dronninglund",Socialdemokratiet,0
+Brønderslev,6,Klokkerholm,"A_Mogens_Stougaard_Karlsen,_Jerslev","Mogens Stougaard Karlsen, Jerslev",Socialdemokratiet,2
+Brønderslev,6,Klokkerholm,"A_Mathias_Pedersen,_Brønderslev","Mathias Pedersen, Brønderslev",Socialdemokratiet,1
+Brønderslev,6,Klokkerholm,"A_Jan_Sonne-Schmidt,_Klokkerholm","Jan Sonne-Schmidt, Klokkerholm",Socialdemokratiet,31
+Brønderslev,6,Klokkerholm,"A_Otto_Bjerre,_Hellum","Otto Bjerre, Hellum",Socialdemokratiet,2
+Brønderslev,6,Klokkerholm,"A_Lars_Rueskov,_Brønderslev","Lars Rueskov, Brønderslev",Socialdemokratiet,0
+Brønderslev,6,Klokkerholm,"A_A._Neil_Jacobsen,_Brønderslev","A. Neil Jacobsen, Brønderslev",Socialdemokratiet,0
+Brønderslev,6,Klokkerholm,"A_Poul_Erik_Andreasen,_Dronninglund","Poul Erik Andreasen, Dronninglund",Socialdemokratiet,2
+Brønderslev,6,Klokkerholm,"A_Adnan_Jedon,_Brønderslev","Adnan Jedon, Brønderslev",Socialdemokratiet,0
+Brønderslev,6,Klokkerholm,B_Listestemmer,Listestemmer,Radikale Venstre,2
+Brønderslev,6,Klokkerholm,"B_Janus_Hove,_Ø._Brønderslev","Janus Hove, Ø. Brønderslev",Radikale Venstre,1
+Brønderslev,6,Klokkerholm,"B_Dorthe_Kerschus,_Dronninglund","Dorthe Kerschus, Dronninglund",Radikale Venstre,2
+Brønderslev,6,Klokkerholm,"B_Per_Nielsen,_Brønderslev","Per Nielsen, Brønderslev",Radikale Venstre,0
+Brønderslev,6,Klokkerholm,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,16
+Brønderslev,6,Klokkerholm,"C_Peter_Stecher,_Brønderslev","Peter Stecher, Brønderslev",Det Konservative Folkeparti,13
+Brønderslev,6,Klokkerholm,"C_Mikael_Christensen,_Hjallerup","Mikael Christensen, Hjallerup",Det Konservative Folkeparti,6
+Brønderslev,6,Klokkerholm,"C_Michael_Peter_Hansen,_Brønderslev","Michael Peter Hansen, Brønderslev",Det Konservative Folkeparti,1
+Brønderslev,6,Klokkerholm,"C_Stinne_Reng,_Brønderslev","Stinne Reng, Brønderslev",Det Konservative Folkeparti,0
+Brønderslev,6,Klokkerholm,"C_Janni_Høybye,_Jerslev","Janni Høybye, Jerslev",Det Konservative Folkeparti,3
+Brønderslev,6,Klokkerholm,"C_Ole_Agger_Hansen,_Brønderslev","Ole Agger Hansen, Brønderslev",Det Konservative Folkeparti,0
+Brønderslev,6,Klokkerholm,"C_Thomas_Greve_Lund,_Dronninglund","Thomas Greve Lund, Dronninglund",Det Konservative Folkeparti,3
+Brønderslev,6,Klokkerholm,"C_Jette_Schiønning_Aasholm,Br.slev","Jette Schiønning Aasholm,Br.slev",Det Konservative Folkeparti,1
+Brønderslev,6,Klokkerholm,"C_Jan_Rønnov,Brønderslev","Jan Rønnov,Brønderslev",Det Konservative Folkeparti,0
+Brønderslev,6,Klokkerholm,"C_Jan_F.Johansen,_Hjallerup","Jan F.Johansen, Hjallerup",Det Konservative Folkeparti,0
+Brønderslev,6,Klokkerholm,"C_Karsten_Andreasen,_Dronninglund","Karsten Andreasen, Dronninglund",Det Konservative Folkeparti,2
+Brønderslev,6,Klokkerholm,"C_Torben_Houge_Nielsen,_Brønderslev","Torben Houge Nielsen, Brønderslev",Det Konservative Folkeparti,0
+Brønderslev,6,Klokkerholm,D_Listestemmer,Listestemmer,Nye Borgerlige,23
+Brønderslev,6,Klokkerholm,"D_Lars_E.Sørensen,_Brønderslev","Lars E.Sørensen, Brønderslev",Nye Borgerlige,9
+Brønderslev,6,Klokkerholm,"D_Idon_Brødbæk,_Dronninglund","Idon Brødbæk, Dronninglund",Nye Borgerlige,6
+Brønderslev,6,Klokkerholm,"D_Peter_Bonde,_Brønderslev","Peter Bonde, Brønderslev",Nye Borgerlige,1
+Brønderslev,6,Klokkerholm,"D_Morten_Toft,_Brønderslev","Morten Toft, Brønderslev",Nye Borgerlige,1
+Brønderslev,6,Klokkerholm,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,9
+Brønderslev,6,Klokkerholm,"F_Henning_Jørgensen,_Brønderslev","Henning Jørgensen, Brønderslev",SF - Socialistisk Folkeparti,3
+Brønderslev,6,Klokkerholm,"F_Kristina_P._Johansen,_Jerslev","Kristina P. Johansen, Jerslev",SF - Socialistisk Folkeparti,6
+Brønderslev,6,Klokkerholm,"F_Kristine_Taagaard,_Brønderslev","Kristine Taagaard, Brønderslev",SF - Socialistisk Folkeparti,0
+Brønderslev,6,Klokkerholm,"F_Ivan_Johansen,_Jerslev","Ivan Johansen, Jerslev",SF - Socialistisk Folkeparti,0
+Brønderslev,6,Klokkerholm,"F_Mikkel_Mørk,_Brønderslev","Mikkel Mørk, Brønderslev",SF - Socialistisk Folkeparti,0
+Brønderslev,6,Klokkerholm,"F_Marie_Brix_Mørk,_Brønderslev","Marie Brix Mørk, Brønderslev",SF - Socialistisk Folkeparti,1
+Brønderslev,6,Klokkerholm,"F_Jan_Løvenholt,_Flauenskjold","Jan Løvenholt, Flauenskjold",SF - Socialistisk Folkeparti,0
+Brønderslev,6,Klokkerholm,G_Listestemmer,Listestemmer,Veganerpartiet,2
+Brønderslev,6,Klokkerholm,G_Uffe_Koch,Uffe Koch,Veganerpartiet,18
+Brønderslev,6,Klokkerholm,I_Listestemmer,Listestemmer,Liberal Alliance,3
+Brønderslev,6,Klokkerholm,"I_Hans-Henning_Terp-Hansen,Br.slev","Hans-Henning Terp-Hansen,Br.slev",Liberal Alliance,3
+Brønderslev,6,Klokkerholm,J_Listestemmer,Listestemmer,Borgerlisten,4
+Brønderslev,6,Klokkerholm,"J_Steen_Søgaard_Petersen,_Hjallerup","Steen Søgaard Petersen, Hjallerup",Borgerlisten,17
+Brønderslev,6,Klokkerholm,"J_Simon_Aagaard,_Dronninglund","Simon Aagaard, Dronninglund",Borgerlisten,4
+Brønderslev,6,Klokkerholm,"J_Marianne_Fristrup,_Hjallerup","Marianne Fristrup, Hjallerup",Borgerlisten,3
+Brønderslev,6,Klokkerholm,"J_Mette_Greve,_Dronninglund","Mette Greve, Dronninglund",Borgerlisten,3
+Brønderslev,6,Klokkerholm,"J_Kaj_Styrishave,_Jerslev","Kaj Styrishave, Jerslev",Borgerlisten,1
+Brønderslev,6,Klokkerholm,"J_Jonna_Holdorf,_Klokkerholm","Jonna Holdorf, Klokkerholm",Borgerlisten,20
+Brønderslev,6,Klokkerholm,"J_Jakob_Hassingboe,_Agersted","Jakob Hassingboe, Agersted",Borgerlisten,1
+Brønderslev,6,Klokkerholm,"J_Mogens_Gregersen,_Hjallerup","Mogens Gregersen, Hjallerup",Borgerlisten,0
+Brønderslev,6,Klokkerholm,K_Listestemmer,Listestemmer,Kristendemokraterne,2
+Brønderslev,6,Klokkerholm,"K_Knud_Pejstrup,_Hjallerup","Knud Pejstrup, Hjallerup",Kristendemokraterne,3
+Brønderslev,6,Klokkerholm,"K_Inge_Marie_Sonne,_Brønderslev","Inge Marie Sonne, Brønderslev",Kristendemokraterne,1
+Brønderslev,6,Klokkerholm,"K_Benjamin_Fossing,_Thise","Benjamin Fossing, Thise",Kristendemokraterne,0
+Brønderslev,6,Klokkerholm,O_Listestemmer,Listestemmer,Dansk Folkeparti,11
+Brønderslev,6,Klokkerholm,"O_Carsten_Ullmann_Andersen,_Jerslev","Carsten Ullmann Andersen, Jerslev",Dansk Folkeparti,7
+Brønderslev,6,Klokkerholm,"O_Danny_Rosenkilde,_Flauenskjold","Danny Rosenkilde, Flauenskjold",Dansk Folkeparti,17
+Brønderslev,6,Klokkerholm,"O_Jamie_Voldby,_Brønderslev","Jamie Voldby, Brønderslev",Dansk Folkeparti,8
+Brønderslev,6,Klokkerholm,"O_Ejvind_Aakjær,_Ørsø","Ejvind Aakjær, Ørsø",Dansk Folkeparti,3
+Brønderslev,6,Klokkerholm,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",33
+Brønderslev,6,Klokkerholm,"V_Mikael_Klitgaard,_Dronninglund","Mikael Klitgaard, Dronninglund","Venstre, Danmarks Liberale Parti",141
+Brønderslev,6,Klokkerholm,"V_Mathias_Christensen,_Brønderslev","Mathias Christensen, Brønderslev","Venstre, Danmarks Liberale Parti",3
+Brønderslev,6,Klokkerholm,"V_Jens_Andersen,_Serritslev","Jens Andersen, Serritslev","Venstre, Danmarks Liberale Parti",0
+Brønderslev,6,Klokkerholm,"V_Martin_Bech,_Brønderslev","Martin Bech, Brønderslev","Venstre, Danmarks Liberale Parti",3
+Brønderslev,6,Klokkerholm,"V_Thomas_Bertram,_Jerslev","Thomas Bertram, Jerslev","Venstre, Danmarks Liberale Parti",11
+Brønderslev,6,Klokkerholm,"V_Peter_Bjerre,_Stenum","Peter Bjerre, Stenum","Venstre, Danmarks Liberale Parti",1
+Brønderslev,6,Klokkerholm,"V_Svend_Bøgh,_Dronninglund","Svend Bøgh, Dronninglund","Venstre, Danmarks Liberale Parti",4
+Brønderslev,6,Klokkerholm,"V_Margit_Chemnitz,_Klokkerholm","Margit Chemnitz, Klokkerholm","Venstre, Danmarks Liberale Parti",222
+Brønderslev,6,Klokkerholm,"V_Søren_Christiansen,_Brønderslev","Søren Christiansen, Brønderslev","Venstre, Danmarks Liberale Parti",2
+Brønderslev,6,Klokkerholm,"V_Frits_Danielsen,_Dronninglund","Frits Danielsen, Dronninglund","Venstre, Danmarks Liberale Parti",7
+Brønderslev,6,Klokkerholm,"V_Simon_Eid,_Brønderslev","Simon Eid, Brønderslev","Venstre, Danmarks Liberale Parti",0
+Brønderslev,6,Klokkerholm,"V_Malene_Fisker,_Brønderslev","Malene Fisker, Brønderslev","Venstre, Danmarks Liberale Parti",1
+Brønderslev,6,Klokkerholm,"V_H._C._Holst,_Asaa","H. C. Holst, Asaa","Venstre, Danmarks Liberale Parti",2
+Brønderslev,6,Klokkerholm,"V_Anders_B.Hummelmose,_Brønderslev","Anders B.Hummelmose, Brønderslev","Venstre, Danmarks Liberale Parti",1
+Brønderslev,6,Klokkerholm,"V_Jacob_Høfler,_Ø._Brønderslev","Jacob Høfler, Ø. Brønderslev","Venstre, Danmarks Liberale Parti",0
+Brønderslev,6,Klokkerholm,"V_Majbritt_Iversen,_Hallund","Majbritt Iversen, Hallund","Venstre, Danmarks Liberale Parti",1
+Brønderslev,6,Klokkerholm,"V_Klaus_Riis_Klæstrup,_Brønderslev","Klaus Riis Klæstrup, Brønderslev","Venstre, Danmarks Liberale Parti",5
+Brønderslev,6,Klokkerholm,"V_Dennis_Kvesel,_Dorf","Dennis Kvesel, Dorf","Venstre, Danmarks Liberale Parti",11
+Brønderslev,6,Klokkerholm,"V_Winnie_Vest,_Asaa","Winnie Vest, Asaa","Venstre, Danmarks Liberale Parti",0
+Brønderslev,6,Klokkerholm,"V_Peter_Mølbjerg,_Klokkerholm","Peter Mølbjerg, Klokkerholm","Venstre, Danmarks Liberale Parti",39
+Brønderslev,6,Klokkerholm,"V_Johnni_Olesen,_Hjallerup","Johnni Olesen, Hjallerup","Venstre, Danmarks Liberale Parti",11
+Brønderslev,6,Klokkerholm,"V_Knud_L._Pedersen,_Thise","Knud L. Pedersen, Thise","Venstre, Danmarks Liberale Parti",0
+Brønderslev,6,Klokkerholm,"V_Line_Vanggaard_Pedersen,_Jerslev","Line Vanggaard Pedersen, Jerslev","Venstre, Danmarks Liberale Parti",20
+Brønderslev,6,Klokkerholm,"V_Lasse_Riisgaard,_Brønderslev","Lasse Riisgaard, Brønderslev","Venstre, Danmarks Liberale Parti",3
+Brønderslev,6,Klokkerholm,"V_Niels_Vestergaard_Salling,_Jerslev","Niels Vestergaard Salling, Jerslev","Venstre, Danmarks Liberale Parti",4
+Brønderslev,6,Klokkerholm,"V_Jan_Thaibert,_Agersted","Jan Thaibert, Agersted","Venstre, Danmarks Liberale Parti",5
+Brønderslev,6,Klokkerholm,"V_Henrik_Toftgaard,_Dronninglund","Henrik Toftgaard, Dronninglund","Venstre, Danmarks Liberale Parti",9
+Brønderslev,6,Klokkerholm,"V_Nadia_Vest,_Dronninglund","Nadia Vest, Dronninglund","Venstre, Danmarks Liberale Parti",6
+Brønderslev,6,Klokkerholm,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,14
+Brønderslev,6,Klokkerholm,Ø_Runa_Friis_Hansen,Runa Friis Hansen,Enhedslisten - De Rød-Grønne,5
+Brønderslev,6,Klokkerholm,Ø_Christina_Eilers,Christina Eilers,Enhedslisten - De Rød-Grønne,1
+Brønderslev,6,Klokkerholm,Ø_Lone_Nedergaard,Lone Nedergaard,Enhedslisten - De Rød-Grønne,5
+Brønderslev,6,Klokkerholm,Ø_Annemette_Chemnitz_Eilers,Annemette Chemnitz Eilers,Enhedslisten - De Rød-Grønne,0
+Brønderslev,6,Klokkerholm,Ø_Mai_Jensen,Mai Jensen,Enhedslisten - De Rød-Grønne,1
+Brønderslev,10,Brønderslev,A_Listestemmer,Listestemmer,Socialdemokratiet,545
+Brønderslev,10,Brønderslev,"A_Bettina_B._Kjeldsen,_Brønderslev","Bettina B. Kjeldsen, Brønderslev",Socialdemokratiet,1203
+Brønderslev,10,Brønderslev,"A_Arne_M._Jensen,_Brønderslev","Arne M. Jensen, Brønderslev",Socialdemokratiet,122
+Brønderslev,10,Brønderslev,"A_Eskild_Sloth_Andersen,_Hjallerup","Eskild Sloth Andersen, Hjallerup",Socialdemokratiet,4
+Brønderslev,10,Brønderslev,"A_Peter_H._S._Kristensen,_Stenum","Peter H. S. Kristensen, Stenum",Socialdemokratiet,43
+Brønderslev,10,Brønderslev,"A_Benny_Engelsted_Karlsen,_Dr.lund","Benny Engelsted Karlsen, Dr.lund",Socialdemokratiet,3
+Brønderslev,10,Brønderslev,"A_Hildo_Rasmussen,_Asaa","Hildo Rasmussen, Asaa",Socialdemokratiet,10
+Brønderslev,10,Brønderslev,"A_Ole_Jespersgaard,_Ø._Brønderslev","Ole Jespersgaard, Ø. Brønderslev",Socialdemokratiet,116
+Brønderslev,10,Brønderslev,"A_Ole_Andersen,_Asaa","Ole Andersen, Asaa",Socialdemokratiet,7
+Brønderslev,10,Brønderslev,"A_Emilly_Pedersen,_Brønderslev","Emilly Pedersen, Brønderslev",Socialdemokratiet,86
+Brønderslev,10,Brønderslev,"A_Christen_Bager,_Dronninglund","Christen Bager, Dronninglund",Socialdemokratiet,5
+Brønderslev,10,Brønderslev,"A_Karen_Strandfelt,_Manna-Thise","Karen Strandfelt, Manna-Thise",Socialdemokratiet,17
+Brønderslev,10,Brønderslev,"A_Lene_Søndergaard,_Klæstrup-Jerslev","Lene Søndergaard, Klæstrup-Jerslev",Socialdemokratiet,5
+Brønderslev,10,Brønderslev,"A_Johannes_Trudslev,_Manna-Thise","Johannes Trudslev, Manna-Thise",Socialdemokratiet,34
+Brønderslev,10,Brønderslev,"A_Birger_Thomsen,_Dronninglund","Birger Thomsen, Dronninglund",Socialdemokratiet,12
+Brønderslev,10,Brønderslev,"A_Mogens_Stougaard_Karlsen,_Jerslev","Mogens Stougaard Karlsen, Jerslev",Socialdemokratiet,43
+Brønderslev,10,Brønderslev,"A_Mathias_Pedersen,_Brønderslev","Mathias Pedersen, Brønderslev",Socialdemokratiet,63
+Brønderslev,10,Brønderslev,"A_Jan_Sonne-Schmidt,_Klokkerholm","Jan Sonne-Schmidt, Klokkerholm",Socialdemokratiet,2
+Brønderslev,10,Brønderslev,"A_Otto_Bjerre,_Hellum","Otto Bjerre, Hellum",Socialdemokratiet,10
+Brønderslev,10,Brønderslev,"A_Lars_Rueskov,_Brønderslev","Lars Rueskov, Brønderslev",Socialdemokratiet,25
+Brønderslev,10,Brønderslev,"A_A._Neil_Jacobsen,_Brønderslev","A. Neil Jacobsen, Brønderslev",Socialdemokratiet,15
+Brønderslev,10,Brønderslev,"A_Poul_Erik_Andreasen,_Dronninglund","Poul Erik Andreasen, Dronninglund",Socialdemokratiet,5
+Brønderslev,10,Brønderslev,"A_Adnan_Jedon,_Brønderslev","Adnan Jedon, Brønderslev",Socialdemokratiet,146
+Brønderslev,10,Brønderslev,B_Listestemmer,Listestemmer,Radikale Venstre,25
+Brønderslev,10,Brønderslev,"B_Janus_Hove,_Ø._Brønderslev","Janus Hove, Ø. Brønderslev",Radikale Venstre,29
+Brønderslev,10,Brønderslev,"B_Dorthe_Kerschus,_Dronninglund","Dorthe Kerschus, Dronninglund",Radikale Venstre,14
+Brønderslev,10,Brønderslev,"B_Per_Nielsen,_Brønderslev","Per Nielsen, Brønderslev",Radikale Venstre,17
+Brønderslev,10,Brønderslev,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,116
+Brønderslev,10,Brønderslev,"C_Peter_Stecher,_Brønderslev","Peter Stecher, Brønderslev",Det Konservative Folkeparti,376
+Brønderslev,10,Brønderslev,"C_Mikael_Christensen,_Hjallerup","Mikael Christensen, Hjallerup",Det Konservative Folkeparti,9
+Brønderslev,10,Brønderslev,"C_Michael_Peter_Hansen,_Brønderslev","Michael Peter Hansen, Brønderslev",Det Konservative Folkeparti,81
+Brønderslev,10,Brønderslev,"C_Stinne_Reng,_Brønderslev","Stinne Reng, Brønderslev",Det Konservative Folkeparti,93
+Brønderslev,10,Brønderslev,"C_Janni_Høybye,_Jerslev","Janni Høybye, Jerslev",Det Konservative Folkeparti,41
+Brønderslev,10,Brønderslev,"C_Ole_Agger_Hansen,_Brønderslev","Ole Agger Hansen, Brønderslev",Det Konservative Folkeparti,19
+Brønderslev,10,Brønderslev,"C_Thomas_Greve_Lund,_Dronninglund","Thomas Greve Lund, Dronninglund",Det Konservative Folkeparti,4
+Brønderslev,10,Brønderslev,"C_Jette_Schiønning_Aasholm,Br.slev","Jette Schiønning Aasholm,Br.slev",Det Konservative Folkeparti,9
+Brønderslev,10,Brønderslev,"C_Jan_Rønnov,Brønderslev","Jan Rønnov,Brønderslev",Det Konservative Folkeparti,4
+Brønderslev,10,Brønderslev,"C_Jan_F.Johansen,_Hjallerup","Jan F.Johansen, Hjallerup",Det Konservative Folkeparti,2
+Brønderslev,10,Brønderslev,"C_Karsten_Andreasen,_Dronninglund","Karsten Andreasen, Dronninglund",Det Konservative Folkeparti,0
+Brønderslev,10,Brønderslev,"C_Torben_Houge_Nielsen,_Brønderslev","Torben Houge Nielsen, Brønderslev",Det Konservative Folkeparti,5
+Brønderslev,10,Brønderslev,D_Listestemmer,Listestemmer,Nye Borgerlige,72
+Brønderslev,10,Brønderslev,"D_Lars_E.Sørensen,_Brønderslev","Lars E.Sørensen, Brønderslev",Nye Borgerlige,69
+Brønderslev,10,Brønderslev,"D_Idon_Brødbæk,_Dronninglund","Idon Brødbæk, Dronninglund",Nye Borgerlige,5
+Brønderslev,10,Brønderslev,"D_Peter_Bonde,_Brønderslev","Peter Bonde, Brønderslev",Nye Borgerlige,22
+Brønderslev,10,Brønderslev,"D_Morten_Toft,_Brønderslev","Morten Toft, Brønderslev",Nye Borgerlige,8
+Brønderslev,10,Brønderslev,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,63
+Brønderslev,10,Brønderslev,"F_Henning_Jørgensen,_Brønderslev","Henning Jørgensen, Brønderslev",SF - Socialistisk Folkeparti,123
+Brønderslev,10,Brønderslev,"F_Kristina_P._Johansen,_Jerslev","Kristina P. Johansen, Jerslev",SF - Socialistisk Folkeparti,7
+Brønderslev,10,Brønderslev,"F_Kristine_Taagaard,_Brønderslev","Kristine Taagaard, Brønderslev",SF - Socialistisk Folkeparti,14
+Brønderslev,10,Brønderslev,"F_Ivan_Johansen,_Jerslev","Ivan Johansen, Jerslev",SF - Socialistisk Folkeparti,4
+Brønderslev,10,Brønderslev,"F_Mikkel_Mørk,_Brønderslev","Mikkel Mørk, Brønderslev",SF - Socialistisk Folkeparti,4
+Brønderslev,10,Brønderslev,"F_Marie_Brix_Mørk,_Brønderslev","Marie Brix Mørk, Brønderslev",SF - Socialistisk Folkeparti,15
+Brønderslev,10,Brønderslev,"F_Jan_Løvenholt,_Flauenskjold","Jan Løvenholt, Flauenskjold",SF - Socialistisk Folkeparti,4
+Brønderslev,10,Brønderslev,G_Listestemmer,Listestemmer,Veganerpartiet,8
+Brønderslev,10,Brønderslev,G_Uffe_Koch,Uffe Koch,Veganerpartiet,29
+Brønderslev,10,Brønderslev,I_Listestemmer,Listestemmer,Liberal Alliance,9
+Brønderslev,10,Brønderslev,"I_Hans-Henning_Terp-Hansen,Br.slev","Hans-Henning Terp-Hansen,Br.slev",Liberal Alliance,60
+Brønderslev,10,Brønderslev,J_Listestemmer,Listestemmer,Borgerlisten,8
+Brønderslev,10,Brønderslev,"J_Steen_Søgaard_Petersen,_Hjallerup","Steen Søgaard Petersen, Hjallerup",Borgerlisten,23
+Brønderslev,10,Brønderslev,"J_Simon_Aagaard,_Dronninglund","Simon Aagaard, Dronninglund",Borgerlisten,9
+Brønderslev,10,Brønderslev,"J_Marianne_Fristrup,_Hjallerup","Marianne Fristrup, Hjallerup",Borgerlisten,6
+Brønderslev,10,Brønderslev,"J_Mette_Greve,_Dronninglund","Mette Greve, Dronninglund",Borgerlisten,7
+Brønderslev,10,Brønderslev,"J_Kaj_Styrishave,_Jerslev","Kaj Styrishave, Jerslev",Borgerlisten,4
+Brønderslev,10,Brønderslev,"J_Jonna_Holdorf,_Klokkerholm","Jonna Holdorf, Klokkerholm",Borgerlisten,0
+Brønderslev,10,Brønderslev,"J_Jakob_Hassingboe,_Agersted","Jakob Hassingboe, Agersted",Borgerlisten,5
+Brønderslev,10,Brønderslev,"J_Mogens_Gregersen,_Hjallerup","Mogens Gregersen, Hjallerup",Borgerlisten,2
+Brønderslev,10,Brønderslev,K_Listestemmer,Listestemmer,Kristendemokraterne,6
+Brønderslev,10,Brønderslev,"K_Knud_Pejstrup,_Hjallerup","Knud Pejstrup, Hjallerup",Kristendemokraterne,1
+Brønderslev,10,Brønderslev,"K_Inge_Marie_Sonne,_Brønderslev","Inge Marie Sonne, Brønderslev",Kristendemokraterne,9
+Brønderslev,10,Brønderslev,"K_Benjamin_Fossing,_Thise","Benjamin Fossing, Thise",Kristendemokraterne,1
+Brønderslev,10,Brønderslev,O_Listestemmer,Listestemmer,Dansk Folkeparti,63
+Brønderslev,10,Brønderslev,"O_Carsten_Ullmann_Andersen,_Jerslev","Carsten Ullmann Andersen, Jerslev",Dansk Folkeparti,101
+Brønderslev,10,Brønderslev,"O_Danny_Rosenkilde,_Flauenskjold","Danny Rosenkilde, Flauenskjold",Dansk Folkeparti,14
+Brønderslev,10,Brønderslev,"O_Jamie_Voldby,_Brønderslev","Jamie Voldby, Brønderslev",Dansk Folkeparti,106
+Brønderslev,10,Brønderslev,"O_Ejvind_Aakjær,_Ørsø","Ejvind Aakjær, Ørsø",Dansk Folkeparti,2
+Brønderslev,10,Brønderslev,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",246
+Brønderslev,10,Brønderslev,"V_Mikael_Klitgaard,_Dronninglund","Mikael Klitgaard, Dronninglund","Venstre, Danmarks Liberale Parti",908
+Brønderslev,10,Brønderslev,"V_Mathias_Christensen,_Brønderslev","Mathias Christensen, Brønderslev","Venstre, Danmarks Liberale Parti",231
+Brønderslev,10,Brønderslev,"V_Jens_Andersen,_Serritslev","Jens Andersen, Serritslev","Venstre, Danmarks Liberale Parti",35
+Brønderslev,10,Brønderslev,"V_Martin_Bech,_Brønderslev","Martin Bech, Brønderslev","Venstre, Danmarks Liberale Parti",188
+Brønderslev,10,Brønderslev,"V_Thomas_Bertram,_Jerslev","Thomas Bertram, Jerslev","Venstre, Danmarks Liberale Parti",20
+Brønderslev,10,Brønderslev,"V_Peter_Bjerre,_Stenum","Peter Bjerre, Stenum","Venstre, Danmarks Liberale Parti",12
+Brønderslev,10,Brønderslev,"V_Svend_Bøgh,_Dronninglund","Svend Bøgh, Dronninglund","Venstre, Danmarks Liberale Parti",4
+Brønderslev,10,Brønderslev,"V_Margit_Chemnitz,_Klokkerholm","Margit Chemnitz, Klokkerholm","Venstre, Danmarks Liberale Parti",5
+Brønderslev,10,Brønderslev,"V_Søren_Christiansen,_Brønderslev","Søren Christiansen, Brønderslev","Venstre, Danmarks Liberale Parti",18
+Brønderslev,10,Brønderslev,"V_Frits_Danielsen,_Dronninglund","Frits Danielsen, Dronninglund","Venstre, Danmarks Liberale Parti",3
+Brønderslev,10,Brønderslev,"V_Simon_Eid,_Brønderslev","Simon Eid, Brønderslev","Venstre, Danmarks Liberale Parti",20
+Brønderslev,10,Brønderslev,"V_Malene_Fisker,_Brønderslev","Malene Fisker, Brønderslev","Venstre, Danmarks Liberale Parti",124
+Brønderslev,10,Brønderslev,"V_H._C._Holst,_Asaa","H. C. Holst, Asaa","Venstre, Danmarks Liberale Parti",4
+Brønderslev,10,Brønderslev,"V_Anders_B.Hummelmose,_Brønderslev","Anders B.Hummelmose, Brønderslev","Venstre, Danmarks Liberale Parti",57
+Brønderslev,10,Brønderslev,"V_Jacob_Høfler,_Ø._Brønderslev","Jacob Høfler, Ø. Brønderslev","Venstre, Danmarks Liberale Parti",11
+Brønderslev,10,Brønderslev,"V_Majbritt_Iversen,_Hallund","Majbritt Iversen, Hallund","Venstre, Danmarks Liberale Parti",27
+Brønderslev,10,Brønderslev,"V_Klaus_Riis_Klæstrup,_Brønderslev","Klaus Riis Klæstrup, Brønderslev","Venstre, Danmarks Liberale Parti",179
+Brønderslev,10,Brønderslev,"V_Dennis_Kvesel,_Dorf","Dennis Kvesel, Dorf","Venstre, Danmarks Liberale Parti",1
+Brønderslev,10,Brønderslev,"V_Winnie_Vest,_Asaa","Winnie Vest, Asaa","Venstre, Danmarks Liberale Parti",2
+Brønderslev,10,Brønderslev,"V_Peter_Mølbjerg,_Klokkerholm","Peter Mølbjerg, Klokkerholm","Venstre, Danmarks Liberale Parti",4
+Brønderslev,10,Brønderslev,"V_Johnni_Olesen,_Hjallerup","Johnni Olesen, Hjallerup","Venstre, Danmarks Liberale Parti",11
+Brønderslev,10,Brønderslev,"V_Knud_L._Pedersen,_Thise","Knud L. Pedersen, Thise","Venstre, Danmarks Liberale Parti",14
+Brønderslev,10,Brønderslev,"V_Line_Vanggaard_Pedersen,_Jerslev","Line Vanggaard Pedersen, Jerslev","Venstre, Danmarks Liberale Parti",170
+Brønderslev,10,Brønderslev,"V_Lasse_Riisgaard,_Brønderslev","Lasse Riisgaard, Brønderslev","Venstre, Danmarks Liberale Parti",291
+Brønderslev,10,Brønderslev,"V_Niels_Vestergaard_Salling,_Jerslev","Niels Vestergaard Salling, Jerslev","Venstre, Danmarks Liberale Parti",66
+Brønderslev,10,Brønderslev,"V_Jan_Thaibert,_Agersted","Jan Thaibert, Agersted","Venstre, Danmarks Liberale Parti",3
+Brønderslev,10,Brønderslev,"V_Henrik_Toftgaard,_Dronninglund","Henrik Toftgaard, Dronninglund","Venstre, Danmarks Liberale Parti",13
+Brønderslev,10,Brønderslev,"V_Nadia_Vest,_Dronninglund","Nadia Vest, Dronninglund","Venstre, Danmarks Liberale Parti",6
+Brønderslev,10,Brønderslev,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,71
+Brønderslev,10,Brønderslev,Ø_Runa_Friis_Hansen,Runa Friis Hansen,Enhedslisten - De Rød-Grønne,64
+Brønderslev,10,Brønderslev,Ø_Christina_Eilers,Christina Eilers,Enhedslisten - De Rød-Grønne,16
+Brønderslev,10,Brønderslev,Ø_Lone_Nedergaard,Lone Nedergaard,Enhedslisten - De Rød-Grønne,24
+Brønderslev,10,Brønderslev,Ø_Annemette_Chemnitz_Eilers,Annemette Chemnitz Eilers,Enhedslisten - De Rød-Grønne,9
+Brønderslev,10,Brønderslev,Ø_Mai_Jensen,Mai Jensen,Enhedslisten - De Rød-Grønne,7
+Brønderslev,34,Stenum,A_Listestemmer,Listestemmer,Socialdemokratiet,12
+Brønderslev,34,Stenum,"A_Bettina_B._Kjeldsen,_Brønderslev","Bettina B. Kjeldsen, Brønderslev",Socialdemokratiet,33
+Brønderslev,34,Stenum,"A_Arne_M._Jensen,_Brønderslev","Arne M. Jensen, Brønderslev",Socialdemokratiet,2
+Brønderslev,34,Stenum,"A_Eskild_Sloth_Andersen,_Hjallerup","Eskild Sloth Andersen, Hjallerup",Socialdemokratiet,0
+Brønderslev,34,Stenum,"A_Peter_H._S._Kristensen,_Stenum","Peter H. S. Kristensen, Stenum",Socialdemokratiet,133
+Brønderslev,34,Stenum,"A_Benny_Engelsted_Karlsen,_Dr.lund","Benny Engelsted Karlsen, Dr.lund",Socialdemokratiet,0
+Brønderslev,34,Stenum,"A_Hildo_Rasmussen,_Asaa","Hildo Rasmussen, Asaa",Socialdemokratiet,0
+Brønderslev,34,Stenum,"A_Ole_Jespersgaard,_Ø._Brønderslev","Ole Jespersgaard, Ø. Brønderslev",Socialdemokratiet,2
+Brønderslev,34,Stenum,"A_Ole_Andersen,_Asaa","Ole Andersen, Asaa",Socialdemokratiet,0
+Brønderslev,34,Stenum,"A_Emilly_Pedersen,_Brønderslev","Emilly Pedersen, Brønderslev",Socialdemokratiet,0
+Brønderslev,34,Stenum,"A_Christen_Bager,_Dronninglund","Christen Bager, Dronninglund",Socialdemokratiet,0
+Brønderslev,34,Stenum,"A_Karen_Strandfelt,_Manna-Thise","Karen Strandfelt, Manna-Thise",Socialdemokratiet,0
+Brønderslev,34,Stenum,"A_Lene_Søndergaard,_Klæstrup-Jerslev","Lene Søndergaard, Klæstrup-Jerslev",Socialdemokratiet,0
+Brønderslev,34,Stenum,"A_Johannes_Trudslev,_Manna-Thise","Johannes Trudslev, Manna-Thise",Socialdemokratiet,0
+Brønderslev,34,Stenum,"A_Birger_Thomsen,_Dronninglund","Birger Thomsen, Dronninglund",Socialdemokratiet,1
+Brønderslev,34,Stenum,"A_Mogens_Stougaard_Karlsen,_Jerslev","Mogens Stougaard Karlsen, Jerslev",Socialdemokratiet,0
+Brønderslev,34,Stenum,"A_Mathias_Pedersen,_Brønderslev","Mathias Pedersen, Brønderslev",Socialdemokratiet,0
+Brønderslev,34,Stenum,"A_Jan_Sonne-Schmidt,_Klokkerholm","Jan Sonne-Schmidt, Klokkerholm",Socialdemokratiet,0
+Brønderslev,34,Stenum,"A_Otto_Bjerre,_Hellum","Otto Bjerre, Hellum",Socialdemokratiet,0
+Brønderslev,34,Stenum,"A_Lars_Rueskov,_Brønderslev","Lars Rueskov, Brønderslev",Socialdemokratiet,1
+Brønderslev,34,Stenum,"A_A._Neil_Jacobsen,_Brønderslev","A. Neil Jacobsen, Brønderslev",Socialdemokratiet,0
+Brønderslev,34,Stenum,"A_Poul_Erik_Andreasen,_Dronninglund","Poul Erik Andreasen, Dronninglund",Socialdemokratiet,0
+Brønderslev,34,Stenum,"A_Adnan_Jedon,_Brønderslev","Adnan Jedon, Brønderslev",Socialdemokratiet,2
+Brønderslev,34,Stenum,B_Listestemmer,Listestemmer,Radikale Venstre,2
+Brønderslev,34,Stenum,"B_Janus_Hove,_Ø._Brønderslev","Janus Hove, Ø. Brønderslev",Radikale Venstre,0
+Brønderslev,34,Stenum,"B_Dorthe_Kerschus,_Dronninglund","Dorthe Kerschus, Dronninglund",Radikale Venstre,0
+Brønderslev,34,Stenum,"B_Per_Nielsen,_Brønderslev","Per Nielsen, Brønderslev",Radikale Venstre,0
+Brønderslev,34,Stenum,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,7
+Brønderslev,34,Stenum,"C_Peter_Stecher,_Brønderslev","Peter Stecher, Brønderslev",Det Konservative Folkeparti,5
+Brønderslev,34,Stenum,"C_Mikael_Christensen,_Hjallerup","Mikael Christensen, Hjallerup",Det Konservative Folkeparti,0
+Brønderslev,34,Stenum,"C_Michael_Peter_Hansen,_Brønderslev","Michael Peter Hansen, Brønderslev",Det Konservative Folkeparti,3
+Brønderslev,34,Stenum,"C_Stinne_Reng,_Brønderslev","Stinne Reng, Brønderslev",Det Konservative Folkeparti,2
+Brønderslev,34,Stenum,"C_Janni_Høybye,_Jerslev","Janni Høybye, Jerslev",Det Konservative Folkeparti,3
+Brønderslev,34,Stenum,"C_Ole_Agger_Hansen,_Brønderslev","Ole Agger Hansen, Brønderslev",Det Konservative Folkeparti,0
+Brønderslev,34,Stenum,"C_Thomas_Greve_Lund,_Dronninglund","Thomas Greve Lund, Dronninglund",Det Konservative Folkeparti,0
+Brønderslev,34,Stenum,"C_Jette_Schiønning_Aasholm,Br.slev","Jette Schiønning Aasholm,Br.slev",Det Konservative Folkeparti,0
+Brønderslev,34,Stenum,"C_Jan_Rønnov,Brønderslev","Jan Rønnov,Brønderslev",Det Konservative Folkeparti,0
+Brønderslev,34,Stenum,"C_Jan_F.Johansen,_Hjallerup","Jan F.Johansen, Hjallerup",Det Konservative Folkeparti,0
+Brønderslev,34,Stenum,"C_Karsten_Andreasen,_Dronninglund","Karsten Andreasen, Dronninglund",Det Konservative Folkeparti,0
+Brønderslev,34,Stenum,"C_Torben_Houge_Nielsen,_Brønderslev","Torben Houge Nielsen, Brønderslev",Det Konservative Folkeparti,1
+Brønderslev,34,Stenum,D_Listestemmer,Listestemmer,Nye Borgerlige,10
+Brønderslev,34,Stenum,"D_Lars_E.Sørensen,_Brønderslev","Lars E.Sørensen, Brønderslev",Nye Borgerlige,3
+Brønderslev,34,Stenum,"D_Idon_Brødbæk,_Dronninglund","Idon Brødbæk, Dronninglund",Nye Borgerlige,1
+Brønderslev,34,Stenum,"D_Peter_Bonde,_Brønderslev","Peter Bonde, Brønderslev",Nye Borgerlige,3
+Brønderslev,34,Stenum,"D_Morten_Toft,_Brønderslev","Morten Toft, Brønderslev",Nye Borgerlige,0
+Brønderslev,34,Stenum,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,8
+Brønderslev,34,Stenum,"F_Henning_Jørgensen,_Brønderslev","Henning Jørgensen, Brønderslev",SF - Socialistisk Folkeparti,4
+Brønderslev,34,Stenum,"F_Kristina_P._Johansen,_Jerslev","Kristina P. Johansen, Jerslev",SF - Socialistisk Folkeparti,0
+Brønderslev,34,Stenum,"F_Kristine_Taagaard,_Brønderslev","Kristine Taagaard, Brønderslev",SF - Socialistisk Folkeparti,3
+Brønderslev,34,Stenum,"F_Ivan_Johansen,_Jerslev","Ivan Johansen, Jerslev",SF - Socialistisk Folkeparti,0
+Brønderslev,34,Stenum,"F_Mikkel_Mørk,_Brønderslev","Mikkel Mørk, Brønderslev",SF - Socialistisk Folkeparti,0
+Brønderslev,34,Stenum,"F_Marie_Brix_Mørk,_Brønderslev","Marie Brix Mørk, Brønderslev",SF - Socialistisk Folkeparti,0
+Brønderslev,34,Stenum,"F_Jan_Løvenholt,_Flauenskjold","Jan Løvenholt, Flauenskjold",SF - Socialistisk Folkeparti,0
+Brønderslev,34,Stenum,G_Listestemmer,Listestemmer,Veganerpartiet,0
+Brønderslev,34,Stenum,G_Uffe_Koch,Uffe Koch,Veganerpartiet,0
+Brønderslev,34,Stenum,I_Listestemmer,Listestemmer,Liberal Alliance,2
+Brønderslev,34,Stenum,"I_Hans-Henning_Terp-Hansen,Br.slev","Hans-Henning Terp-Hansen,Br.slev",Liberal Alliance,0
+Brønderslev,34,Stenum,J_Listestemmer,Listestemmer,Borgerlisten,0
+Brønderslev,34,Stenum,"J_Steen_Søgaard_Petersen,_Hjallerup","Steen Søgaard Petersen, Hjallerup",Borgerlisten,0
+Brønderslev,34,Stenum,"J_Simon_Aagaard,_Dronninglund","Simon Aagaard, Dronninglund",Borgerlisten,0
+Brønderslev,34,Stenum,"J_Marianne_Fristrup,_Hjallerup","Marianne Fristrup, Hjallerup",Borgerlisten,0
+Brønderslev,34,Stenum,"J_Mette_Greve,_Dronninglund","Mette Greve, Dronninglund",Borgerlisten,0
+Brønderslev,34,Stenum,"J_Kaj_Styrishave,_Jerslev","Kaj Styrishave, Jerslev",Borgerlisten,0
+Brønderslev,34,Stenum,"J_Jonna_Holdorf,_Klokkerholm","Jonna Holdorf, Klokkerholm",Borgerlisten,0
+Brønderslev,34,Stenum,"J_Jakob_Hassingboe,_Agersted","Jakob Hassingboe, Agersted",Borgerlisten,0
+Brønderslev,34,Stenum,"J_Mogens_Gregersen,_Hjallerup","Mogens Gregersen, Hjallerup",Borgerlisten,0
+Brønderslev,34,Stenum,K_Listestemmer,Listestemmer,Kristendemokraterne,0
+Brønderslev,34,Stenum,"K_Knud_Pejstrup,_Hjallerup","Knud Pejstrup, Hjallerup",Kristendemokraterne,0
+Brønderslev,34,Stenum,"K_Inge_Marie_Sonne,_Brønderslev","Inge Marie Sonne, Brønderslev",Kristendemokraterne,0
+Brønderslev,34,Stenum,"K_Benjamin_Fossing,_Thise","Benjamin Fossing, Thise",Kristendemokraterne,0
+Brønderslev,34,Stenum,O_Listestemmer,Listestemmer,Dansk Folkeparti,4
+Brønderslev,34,Stenum,"O_Carsten_Ullmann_Andersen,_Jerslev","Carsten Ullmann Andersen, Jerslev",Dansk Folkeparti,3
+Brønderslev,34,Stenum,"O_Danny_Rosenkilde,_Flauenskjold","Danny Rosenkilde, Flauenskjold",Dansk Folkeparti,2
+Brønderslev,34,Stenum,"O_Jamie_Voldby,_Brønderslev","Jamie Voldby, Brønderslev",Dansk Folkeparti,1
+Brønderslev,34,Stenum,"O_Ejvind_Aakjær,_Ørsø","Ejvind Aakjær, Ørsø",Dansk Folkeparti,0
+Brønderslev,34,Stenum,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",11
+Brønderslev,34,Stenum,"V_Mikael_Klitgaard,_Dronninglund","Mikael Klitgaard, Dronninglund","Venstre, Danmarks Liberale Parti",23
+Brønderslev,34,Stenum,"V_Mathias_Christensen,_Brønderslev","Mathias Christensen, Brønderslev","Venstre, Danmarks Liberale Parti",5
+Brønderslev,34,Stenum,"V_Jens_Andersen,_Serritslev","Jens Andersen, Serritslev","Venstre, Danmarks Liberale Parti",2
+Brønderslev,34,Stenum,"V_Martin_Bech,_Brønderslev","Martin Bech, Brønderslev","Venstre, Danmarks Liberale Parti",1
+Brønderslev,34,Stenum,"V_Thomas_Bertram,_Jerslev","Thomas Bertram, Jerslev","Venstre, Danmarks Liberale Parti",0
+Brønderslev,34,Stenum,"V_Peter_Bjerre,_Stenum","Peter Bjerre, Stenum","Venstre, Danmarks Liberale Parti",49
+Brønderslev,34,Stenum,"V_Svend_Bøgh,_Dronninglund","Svend Bøgh, Dronninglund","Venstre, Danmarks Liberale Parti",1
+Brønderslev,34,Stenum,"V_Margit_Chemnitz,_Klokkerholm","Margit Chemnitz, Klokkerholm","Venstre, Danmarks Liberale Parti",0
+Brønderslev,34,Stenum,"V_Søren_Christiansen,_Brønderslev","Søren Christiansen, Brønderslev","Venstre, Danmarks Liberale Parti",1
+Brønderslev,34,Stenum,"V_Frits_Danielsen,_Dronninglund","Frits Danielsen, Dronninglund","Venstre, Danmarks Liberale Parti",0
+Brønderslev,34,Stenum,"V_Simon_Eid,_Brønderslev","Simon Eid, Brønderslev","Venstre, Danmarks Liberale Parti",0
+Brønderslev,34,Stenum,"V_Malene_Fisker,_Brønderslev","Malene Fisker, Brønderslev","Venstre, Danmarks Liberale Parti",0
+Brønderslev,34,Stenum,"V_H._C._Holst,_Asaa","H. C. Holst, Asaa","Venstre, Danmarks Liberale Parti",0
+Brønderslev,34,Stenum,"V_Anders_B.Hummelmose,_Brønderslev","Anders B.Hummelmose, Brønderslev","Venstre, Danmarks Liberale Parti",2
+Brønderslev,34,Stenum,"V_Jacob_Høfler,_Ø._Brønderslev","Jacob Høfler, Ø. Brønderslev","Venstre, Danmarks Liberale Parti",1
+Brønderslev,34,Stenum,"V_Majbritt_Iversen,_Hallund","Majbritt Iversen, Hallund","Venstre, Danmarks Liberale Parti",1
+Brønderslev,34,Stenum,"V_Klaus_Riis_Klæstrup,_Brønderslev","Klaus Riis Klæstrup, Brønderslev","Venstre, Danmarks Liberale Parti",2
+Brønderslev,34,Stenum,"V_Dennis_Kvesel,_Dorf","Dennis Kvesel, Dorf","Venstre, Danmarks Liberale Parti",0
+Brønderslev,34,Stenum,"V_Winnie_Vest,_Asaa","Winnie Vest, Asaa","Venstre, Danmarks Liberale Parti",0
+Brønderslev,34,Stenum,"V_Peter_Mølbjerg,_Klokkerholm","Peter Mølbjerg, Klokkerholm","Venstre, Danmarks Liberale Parti",0
+Brønderslev,34,Stenum,"V_Johnni_Olesen,_Hjallerup","Johnni Olesen, Hjallerup","Venstre, Danmarks Liberale Parti",0
+Brønderslev,34,Stenum,"V_Knud_L._Pedersen,_Thise","Knud L. Pedersen, Thise","Venstre, Danmarks Liberale Parti",8
+Brønderslev,34,Stenum,"V_Line_Vanggaard_Pedersen,_Jerslev","Line Vanggaard Pedersen, Jerslev","Venstre, Danmarks Liberale Parti",11
+Brønderslev,34,Stenum,"V_Lasse_Riisgaard,_Brønderslev","Lasse Riisgaard, Brønderslev","Venstre, Danmarks Liberale Parti",5
+Brønderslev,34,Stenum,"V_Niels_Vestergaard_Salling,_Jerslev","Niels Vestergaard Salling, Jerslev","Venstre, Danmarks Liberale Parti",5
+Brønderslev,34,Stenum,"V_Jan_Thaibert,_Agersted","Jan Thaibert, Agersted","Venstre, Danmarks Liberale Parti",0
+Brønderslev,34,Stenum,"V_Henrik_Toftgaard,_Dronninglund","Henrik Toftgaard, Dronninglund","Venstre, Danmarks Liberale Parti",1
+Brønderslev,34,Stenum,"V_Nadia_Vest,_Dronninglund","Nadia Vest, Dronninglund","Venstre, Danmarks Liberale Parti",0
+Brønderslev,34,Stenum,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,4
+Brønderslev,34,Stenum,Ø_Runa_Friis_Hansen,Runa Friis Hansen,Enhedslisten - De Rød-Grønne,1
+Brønderslev,34,Stenum,Ø_Christina_Eilers,Christina Eilers,Enhedslisten - De Rød-Grønne,2
+Brønderslev,34,Stenum,Ø_Lone_Nedergaard,Lone Nedergaard,Enhedslisten - De Rød-Grønne,0
+Brønderslev,34,Stenum,Ø_Annemette_Chemnitz_Eilers,Annemette Chemnitz Eilers,Enhedslisten - De Rød-Grønne,0
+Brønderslev,34,Stenum,Ø_Mai_Jensen,Mai Jensen,Enhedslisten - De Rød-Grønne,0
+Brønderslev,40,Thise,A_Listestemmer,Listestemmer,Socialdemokratiet,20
+Brønderslev,40,Thise,"A_Bettina_B._Kjeldsen,_Brønderslev","Bettina B. Kjeldsen, Brønderslev",Socialdemokratiet,48
+Brønderslev,40,Thise,"A_Arne_M._Jensen,_Brønderslev","Arne M. Jensen, Brønderslev",Socialdemokratiet,4
+Brønderslev,40,Thise,"A_Eskild_Sloth_Andersen,_Hjallerup","Eskild Sloth Andersen, Hjallerup",Socialdemokratiet,0
+Brønderslev,40,Thise,"A_Peter_H._S._Kristensen,_Stenum","Peter H. S. Kristensen, Stenum",Socialdemokratiet,7
+Brønderslev,40,Thise,"A_Benny_Engelsted_Karlsen,_Dr.lund","Benny Engelsted Karlsen, Dr.lund",Socialdemokratiet,0
+Brønderslev,40,Thise,"A_Hildo_Rasmussen,_Asaa","Hildo Rasmussen, Asaa",Socialdemokratiet,1
+Brønderslev,40,Thise,"A_Ole_Jespersgaard,_Ø._Brønderslev","Ole Jespersgaard, Ø. Brønderslev",Socialdemokratiet,2
+Brønderslev,40,Thise,"A_Ole_Andersen,_Asaa","Ole Andersen, Asaa",Socialdemokratiet,0
+Brønderslev,40,Thise,"A_Emilly_Pedersen,_Brønderslev","Emilly Pedersen, Brønderslev",Socialdemokratiet,4
+Brønderslev,40,Thise,"A_Christen_Bager,_Dronninglund","Christen Bager, Dronninglund",Socialdemokratiet,1
+Brønderslev,40,Thise,"A_Karen_Strandfelt,_Manna-Thise","Karen Strandfelt, Manna-Thise",Socialdemokratiet,23
+Brønderslev,40,Thise,"A_Lene_Søndergaard,_Klæstrup-Jerslev","Lene Søndergaard, Klæstrup-Jerslev",Socialdemokratiet,0
+Brønderslev,40,Thise,"A_Johannes_Trudslev,_Manna-Thise","Johannes Trudslev, Manna-Thise",Socialdemokratiet,137
+Brønderslev,40,Thise,"A_Birger_Thomsen,_Dronninglund","Birger Thomsen, Dronninglund",Socialdemokratiet,0
+Brønderslev,40,Thise,"A_Mogens_Stougaard_Karlsen,_Jerslev","Mogens Stougaard Karlsen, Jerslev",Socialdemokratiet,3
+Brønderslev,40,Thise,"A_Mathias_Pedersen,_Brønderslev","Mathias Pedersen, Brønderslev",Socialdemokratiet,5
+Brønderslev,40,Thise,"A_Jan_Sonne-Schmidt,_Klokkerholm","Jan Sonne-Schmidt, Klokkerholm",Socialdemokratiet,0
+Brønderslev,40,Thise,"A_Otto_Bjerre,_Hellum","Otto Bjerre, Hellum",Socialdemokratiet,0
+Brønderslev,40,Thise,"A_Lars_Rueskov,_Brønderslev","Lars Rueskov, Brønderslev",Socialdemokratiet,0
+Brønderslev,40,Thise,"A_A._Neil_Jacobsen,_Brønderslev","A. Neil Jacobsen, Brønderslev",Socialdemokratiet,0
+Brønderslev,40,Thise,"A_Poul_Erik_Andreasen,_Dronninglund","Poul Erik Andreasen, Dronninglund",Socialdemokratiet,0
+Brønderslev,40,Thise,"A_Adnan_Jedon,_Brønderslev","Adnan Jedon, Brønderslev",Socialdemokratiet,0
+Brønderslev,40,Thise,B_Listestemmer,Listestemmer,Radikale Venstre,0
+Brønderslev,40,Thise,"B_Janus_Hove,_Ø._Brønderslev","Janus Hove, Ø. Brønderslev",Radikale Venstre,2
+Brønderslev,40,Thise,"B_Dorthe_Kerschus,_Dronninglund","Dorthe Kerschus, Dronninglund",Radikale Venstre,1
+Brønderslev,40,Thise,"B_Per_Nielsen,_Brønderslev","Per Nielsen, Brønderslev",Radikale Venstre,0
+Brønderslev,40,Thise,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,14
+Brønderslev,40,Thise,"C_Peter_Stecher,_Brønderslev","Peter Stecher, Brønderslev",Det Konservative Folkeparti,17
+Brønderslev,40,Thise,"C_Mikael_Christensen,_Hjallerup","Mikael Christensen, Hjallerup",Det Konservative Folkeparti,0
+Brønderslev,40,Thise,"C_Michael_Peter_Hansen,_Brønderslev","Michael Peter Hansen, Brønderslev",Det Konservative Folkeparti,1
+Brønderslev,40,Thise,"C_Stinne_Reng,_Brønderslev","Stinne Reng, Brønderslev",Det Konservative Folkeparti,4
+Brønderslev,40,Thise,"C_Janni_Høybye,_Jerslev","Janni Høybye, Jerslev",Det Konservative Folkeparti,3
+Brønderslev,40,Thise,"C_Ole_Agger_Hansen,_Brønderslev","Ole Agger Hansen, Brønderslev",Det Konservative Folkeparti,2
+Brønderslev,40,Thise,"C_Thomas_Greve_Lund,_Dronninglund","Thomas Greve Lund, Dronninglund",Det Konservative Folkeparti,1
+Brønderslev,40,Thise,"C_Jette_Schiønning_Aasholm,Br.slev","Jette Schiønning Aasholm,Br.slev",Det Konservative Folkeparti,0
+Brønderslev,40,Thise,"C_Jan_Rønnov,Brønderslev","Jan Rønnov,Brønderslev",Det Konservative Folkeparti,0
+Brønderslev,40,Thise,"C_Jan_F.Johansen,_Hjallerup","Jan F.Johansen, Hjallerup",Det Konservative Folkeparti,0
+Brønderslev,40,Thise,"C_Karsten_Andreasen,_Dronninglund","Karsten Andreasen, Dronninglund",Det Konservative Folkeparti,1
+Brønderslev,40,Thise,"C_Torben_Houge_Nielsen,_Brønderslev","Torben Houge Nielsen, Brønderslev",Det Konservative Folkeparti,0
+Brønderslev,40,Thise,D_Listestemmer,Listestemmer,Nye Borgerlige,24
+Brønderslev,40,Thise,"D_Lars_E.Sørensen,_Brønderslev","Lars E.Sørensen, Brønderslev",Nye Borgerlige,9
+Brønderslev,40,Thise,"D_Idon_Brødbæk,_Dronninglund","Idon Brødbæk, Dronninglund",Nye Borgerlige,0
+Brønderslev,40,Thise,"D_Peter_Bonde,_Brønderslev","Peter Bonde, Brønderslev",Nye Borgerlige,5
+Brønderslev,40,Thise,"D_Morten_Toft,_Brønderslev","Morten Toft, Brønderslev",Nye Borgerlige,1
+Brønderslev,40,Thise,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,5
+Brønderslev,40,Thise,"F_Henning_Jørgensen,_Brønderslev","Henning Jørgensen, Brønderslev",SF - Socialistisk Folkeparti,3
+Brønderslev,40,Thise,"F_Kristina_P._Johansen,_Jerslev","Kristina P. Johansen, Jerslev",SF - Socialistisk Folkeparti,0
+Brønderslev,40,Thise,"F_Kristine_Taagaard,_Brønderslev","Kristine Taagaard, Brønderslev",SF - Socialistisk Folkeparti,0
+Brønderslev,40,Thise,"F_Ivan_Johansen,_Jerslev","Ivan Johansen, Jerslev",SF - Socialistisk Folkeparti,2
+Brønderslev,40,Thise,"F_Mikkel_Mørk,_Brønderslev","Mikkel Mørk, Brønderslev",SF - Socialistisk Folkeparti,0
+Brønderslev,40,Thise,"F_Marie_Brix_Mørk,_Brønderslev","Marie Brix Mørk, Brønderslev",SF - Socialistisk Folkeparti,0
+Brønderslev,40,Thise,"F_Jan_Løvenholt,_Flauenskjold","Jan Løvenholt, Flauenskjold",SF - Socialistisk Folkeparti,0
+Brønderslev,40,Thise,G_Listestemmer,Listestemmer,Veganerpartiet,0
+Brønderslev,40,Thise,G_Uffe_Koch,Uffe Koch,Veganerpartiet,3
+Brønderslev,40,Thise,I_Listestemmer,Listestemmer,Liberal Alliance,0
+Brønderslev,40,Thise,"I_Hans-Henning_Terp-Hansen,Br.slev","Hans-Henning Terp-Hansen,Br.slev",Liberal Alliance,8
+Brønderslev,40,Thise,J_Listestemmer,Listestemmer,Borgerlisten,0
+Brønderslev,40,Thise,"J_Steen_Søgaard_Petersen,_Hjallerup","Steen Søgaard Petersen, Hjallerup",Borgerlisten,1
+Brønderslev,40,Thise,"J_Simon_Aagaard,_Dronninglund","Simon Aagaard, Dronninglund",Borgerlisten,0
+Brønderslev,40,Thise,"J_Marianne_Fristrup,_Hjallerup","Marianne Fristrup, Hjallerup",Borgerlisten,1
+Brønderslev,40,Thise,"J_Mette_Greve,_Dronninglund","Mette Greve, Dronninglund",Borgerlisten,2
+Brønderslev,40,Thise,"J_Kaj_Styrishave,_Jerslev","Kaj Styrishave, Jerslev",Borgerlisten,0
+Brønderslev,40,Thise,"J_Jonna_Holdorf,_Klokkerholm","Jonna Holdorf, Klokkerholm",Borgerlisten,0
+Brønderslev,40,Thise,"J_Jakob_Hassingboe,_Agersted","Jakob Hassingboe, Agersted",Borgerlisten,1
+Brønderslev,40,Thise,"J_Mogens_Gregersen,_Hjallerup","Mogens Gregersen, Hjallerup",Borgerlisten,0
+Brønderslev,40,Thise,K_Listestemmer,Listestemmer,Kristendemokraterne,0
+Brønderslev,40,Thise,"K_Knud_Pejstrup,_Hjallerup","Knud Pejstrup, Hjallerup",Kristendemokraterne,3
+Brønderslev,40,Thise,"K_Inge_Marie_Sonne,_Brønderslev","Inge Marie Sonne, Brønderslev",Kristendemokraterne,1
+Brønderslev,40,Thise,"K_Benjamin_Fossing,_Thise","Benjamin Fossing, Thise",Kristendemokraterne,3
+Brønderslev,40,Thise,O_Listestemmer,Listestemmer,Dansk Folkeparti,9
+Brønderslev,40,Thise,"O_Carsten_Ullmann_Andersen,_Jerslev","Carsten Ullmann Andersen, Jerslev",Dansk Folkeparti,8
+Brønderslev,40,Thise,"O_Danny_Rosenkilde,_Flauenskjold","Danny Rosenkilde, Flauenskjold",Dansk Folkeparti,2
+Brønderslev,40,Thise,"O_Jamie_Voldby,_Brønderslev","Jamie Voldby, Brønderslev",Dansk Folkeparti,7
+Brønderslev,40,Thise,"O_Ejvind_Aakjær,_Ørsø","Ejvind Aakjær, Ørsø",Dansk Folkeparti,0
+Brønderslev,40,Thise,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",20
+Brønderslev,40,Thise,"V_Mikael_Klitgaard,_Dronninglund","Mikael Klitgaard, Dronninglund","Venstre, Danmarks Liberale Parti",75
+Brønderslev,40,Thise,"V_Mathias_Christensen,_Brønderslev","Mathias Christensen, Brønderslev","Venstre, Danmarks Liberale Parti",16
+Brønderslev,40,Thise,"V_Jens_Andersen,_Serritslev","Jens Andersen, Serritslev","Venstre, Danmarks Liberale Parti",3
+Brønderslev,40,Thise,"V_Martin_Bech,_Brønderslev","Martin Bech, Brønderslev","Venstre, Danmarks Liberale Parti",8
+Brønderslev,40,Thise,"V_Thomas_Bertram,_Jerslev","Thomas Bertram, Jerslev","Venstre, Danmarks Liberale Parti",2
+Brønderslev,40,Thise,"V_Peter_Bjerre,_Stenum","Peter Bjerre, Stenum","Venstre, Danmarks Liberale Parti",6
+Brønderslev,40,Thise,"V_Svend_Bøgh,_Dronninglund","Svend Bøgh, Dronninglund","Venstre, Danmarks Liberale Parti",0
+Brønderslev,40,Thise,"V_Margit_Chemnitz,_Klokkerholm","Margit Chemnitz, Klokkerholm","Venstre, Danmarks Liberale Parti",0
+Brønderslev,40,Thise,"V_Søren_Christiansen,_Brønderslev","Søren Christiansen, Brønderslev","Venstre, Danmarks Liberale Parti",1
+Brønderslev,40,Thise,"V_Frits_Danielsen,_Dronninglund","Frits Danielsen, Dronninglund","Venstre, Danmarks Liberale Parti",0
+Brønderslev,40,Thise,"V_Simon_Eid,_Brønderslev","Simon Eid, Brønderslev","Venstre, Danmarks Liberale Parti",1
+Brønderslev,40,Thise,"V_Malene_Fisker,_Brønderslev","Malene Fisker, Brønderslev","Venstre, Danmarks Liberale Parti",4
+Brønderslev,40,Thise,"V_H._C._Holst,_Asaa","H. C. Holst, Asaa","Venstre, Danmarks Liberale Parti",2
+Brønderslev,40,Thise,"V_Anders_B.Hummelmose,_Brønderslev","Anders B.Hummelmose, Brønderslev","Venstre, Danmarks Liberale Parti",3
+Brønderslev,40,Thise,"V_Jacob_Høfler,_Ø._Brønderslev","Jacob Høfler, Ø. Brønderslev","Venstre, Danmarks Liberale Parti",0
+Brønderslev,40,Thise,"V_Majbritt_Iversen,_Hallund","Majbritt Iversen, Hallund","Venstre, Danmarks Liberale Parti",0
+Brønderslev,40,Thise,"V_Klaus_Riis_Klæstrup,_Brønderslev","Klaus Riis Klæstrup, Brønderslev","Venstre, Danmarks Liberale Parti",9
+Brønderslev,40,Thise,"V_Dennis_Kvesel,_Dorf","Dennis Kvesel, Dorf","Venstre, Danmarks Liberale Parti",0
+Brønderslev,40,Thise,"V_Winnie_Vest,_Asaa","Winnie Vest, Asaa","Venstre, Danmarks Liberale Parti",0
+Brønderslev,40,Thise,"V_Peter_Mølbjerg,_Klokkerholm","Peter Mølbjerg, Klokkerholm","Venstre, Danmarks Liberale Parti",0
+Brønderslev,40,Thise,"V_Johnni_Olesen,_Hjallerup","Johnni Olesen, Hjallerup","Venstre, Danmarks Liberale Parti",0
+Brønderslev,40,Thise,"V_Knud_L._Pedersen,_Thise","Knud L. Pedersen, Thise","Venstre, Danmarks Liberale Parti",92
+Brønderslev,40,Thise,"V_Line_Vanggaard_Pedersen,_Jerslev","Line Vanggaard Pedersen, Jerslev","Venstre, Danmarks Liberale Parti",16
+Brønderslev,40,Thise,"V_Lasse_Riisgaard,_Brønderslev","Lasse Riisgaard, Brønderslev","Venstre, Danmarks Liberale Parti",4
+Brønderslev,40,Thise,"V_Niels_Vestergaard_Salling,_Jerslev","Niels Vestergaard Salling, Jerslev","Venstre, Danmarks Liberale Parti",6
+Brønderslev,40,Thise,"V_Jan_Thaibert,_Agersted","Jan Thaibert, Agersted","Venstre, Danmarks Liberale Parti",0
+Brønderslev,40,Thise,"V_Henrik_Toftgaard,_Dronninglund","Henrik Toftgaard, Dronninglund","Venstre, Danmarks Liberale Parti",1
+Brønderslev,40,Thise,"V_Nadia_Vest,_Dronninglund","Nadia Vest, Dronninglund","Venstre, Danmarks Liberale Parti",0
+Brønderslev,40,Thise,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,5
+Brønderslev,40,Thise,Ø_Runa_Friis_Hansen,Runa Friis Hansen,Enhedslisten - De Rød-Grønne,5
+Brønderslev,40,Thise,Ø_Christina_Eilers,Christina Eilers,Enhedslisten - De Rød-Grønne,0
+Brønderslev,40,Thise,Ø_Lone_Nedergaard,Lone Nedergaard,Enhedslisten - De Rød-Grønne,1
+Brønderslev,40,Thise,Ø_Annemette_Chemnitz_Eilers,Annemette Chemnitz Eilers,Enhedslisten - De Rød-Grønne,2
+Brønderslev,40,Thise,Ø_Mai_Jensen,Mai Jensen,Enhedslisten - De Rød-Grønne,0
+Brønderslev,50,Ø. Brønderslev,A_Listestemmer,Listestemmer,Socialdemokratiet,52
+Brønderslev,50,Ø. Brønderslev,"A_Bettina_B._Kjeldsen,_Brønderslev","Bettina B. Kjeldsen, Brønderslev",Socialdemokratiet,103
+Brønderslev,50,Ø. Brønderslev,"A_Arne_M._Jensen,_Brønderslev","Arne M. Jensen, Brønderslev",Socialdemokratiet,11
+Brønderslev,50,Ø. Brønderslev,"A_Eskild_Sloth_Andersen,_Hjallerup","Eskild Sloth Andersen, Hjallerup",Socialdemokratiet,0
+Brønderslev,50,Ø. Brønderslev,"A_Peter_H._S._Kristensen,_Stenum","Peter H. S. Kristensen, Stenum",Socialdemokratiet,2
+Brønderslev,50,Ø. Brønderslev,"A_Benny_Engelsted_Karlsen,_Dr.lund","Benny Engelsted Karlsen, Dr.lund",Socialdemokratiet,0
+Brønderslev,50,Ø. Brønderslev,"A_Hildo_Rasmussen,_Asaa","Hildo Rasmussen, Asaa",Socialdemokratiet,2
+Brønderslev,50,Ø. Brønderslev,"A_Ole_Jespersgaard,_Ø._Brønderslev","Ole Jespersgaard, Ø. Brønderslev",Socialdemokratiet,59
+Brønderslev,50,Ø. Brønderslev,"A_Ole_Andersen,_Asaa","Ole Andersen, Asaa",Socialdemokratiet,0
+Brønderslev,50,Ø. Brønderslev,"A_Emilly_Pedersen,_Brønderslev","Emilly Pedersen, Brønderslev",Socialdemokratiet,4
+Brønderslev,50,Ø. Brønderslev,"A_Christen_Bager,_Dronninglund","Christen Bager, Dronninglund",Socialdemokratiet,1
+Brønderslev,50,Ø. Brønderslev,"A_Karen_Strandfelt,_Manna-Thise","Karen Strandfelt, Manna-Thise",Socialdemokratiet,0
+Brønderslev,50,Ø. Brønderslev,"A_Lene_Søndergaard,_Klæstrup-Jerslev","Lene Søndergaard, Klæstrup-Jerslev",Socialdemokratiet,0
+Brønderslev,50,Ø. Brønderslev,"A_Johannes_Trudslev,_Manna-Thise","Johannes Trudslev, Manna-Thise",Socialdemokratiet,2
+Brønderslev,50,Ø. Brønderslev,"A_Birger_Thomsen,_Dronninglund","Birger Thomsen, Dronninglund",Socialdemokratiet,1
+Brønderslev,50,Ø. Brønderslev,"A_Mogens_Stougaard_Karlsen,_Jerslev","Mogens Stougaard Karlsen, Jerslev",Socialdemokratiet,4
+Brønderslev,50,Ø. Brønderslev,"A_Mathias_Pedersen,_Brønderslev","Mathias Pedersen, Brønderslev",Socialdemokratiet,7
+Brønderslev,50,Ø. Brønderslev,"A_Jan_Sonne-Schmidt,_Klokkerholm","Jan Sonne-Schmidt, Klokkerholm",Socialdemokratiet,1
+Brønderslev,50,Ø. Brønderslev,"A_Otto_Bjerre,_Hellum","Otto Bjerre, Hellum",Socialdemokratiet,1
+Brønderslev,50,Ø. Brønderslev,"A_Lars_Rueskov,_Brønderslev","Lars Rueskov, Brønderslev",Socialdemokratiet,1
+Brønderslev,50,Ø. Brønderslev,"A_A._Neil_Jacobsen,_Brønderslev","A. Neil Jacobsen, Brønderslev",Socialdemokratiet,0
+Brønderslev,50,Ø. Brønderslev,"A_Poul_Erik_Andreasen,_Dronninglund","Poul Erik Andreasen, Dronninglund",Socialdemokratiet,0
+Brønderslev,50,Ø. Brønderslev,"A_Adnan_Jedon,_Brønderslev","Adnan Jedon, Brønderslev",Socialdemokratiet,0
+Brønderslev,50,Ø. Brønderslev,B_Listestemmer,Listestemmer,Radikale Venstre,3
+Brønderslev,50,Ø. Brønderslev,"B_Janus_Hove,_Ø._Brønderslev","Janus Hove, Ø. Brønderslev",Radikale Venstre,21
+Brønderslev,50,Ø. Brønderslev,"B_Dorthe_Kerschus,_Dronninglund","Dorthe Kerschus, Dronninglund",Radikale Venstre,1
+Brønderslev,50,Ø. Brønderslev,"B_Per_Nielsen,_Brønderslev","Per Nielsen, Brønderslev",Radikale Venstre,0
+Brønderslev,50,Ø. Brønderslev,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,13
+Brønderslev,50,Ø. Brønderslev,"C_Peter_Stecher,_Brønderslev","Peter Stecher, Brønderslev",Det Konservative Folkeparti,163
+Brønderslev,50,Ø. Brønderslev,"C_Mikael_Christensen,_Hjallerup","Mikael Christensen, Hjallerup",Det Konservative Folkeparti,0
+Brønderslev,50,Ø. Brønderslev,"C_Michael_Peter_Hansen,_Brønderslev","Michael Peter Hansen, Brønderslev",Det Konservative Folkeparti,2
+Brønderslev,50,Ø. Brønderslev,"C_Stinne_Reng,_Brønderslev","Stinne Reng, Brønderslev",Det Konservative Folkeparti,5
+Brønderslev,50,Ø. Brønderslev,"C_Janni_Høybye,_Jerslev","Janni Høybye, Jerslev",Det Konservative Folkeparti,7
+Brønderslev,50,Ø. Brønderslev,"C_Ole_Agger_Hansen,_Brønderslev","Ole Agger Hansen, Brønderslev",Det Konservative Folkeparti,0
+Brønderslev,50,Ø. Brønderslev,"C_Thomas_Greve_Lund,_Dronninglund","Thomas Greve Lund, Dronninglund",Det Konservative Folkeparti,0
+Brønderslev,50,Ø. Brønderslev,"C_Jette_Schiønning_Aasholm,Br.slev","Jette Schiønning Aasholm,Br.slev",Det Konservative Folkeparti,1
+Brønderslev,50,Ø. Brønderslev,"C_Jan_Rønnov,Brønderslev","Jan Rønnov,Brønderslev",Det Konservative Folkeparti,1
+Brønderslev,50,Ø. Brønderslev,"C_Jan_F.Johansen,_Hjallerup","Jan F.Johansen, Hjallerup",Det Konservative Folkeparti,1
+Brønderslev,50,Ø. Brønderslev,"C_Karsten_Andreasen,_Dronninglund","Karsten Andreasen, Dronninglund",Det Konservative Folkeparti,0
+Brønderslev,50,Ø. Brønderslev,"C_Torben_Houge_Nielsen,_Brønderslev","Torben Houge Nielsen, Brønderslev",Det Konservative Folkeparti,0
+Brønderslev,50,Ø. Brønderslev,D_Listestemmer,Listestemmer,Nye Borgerlige,24
+Brønderslev,50,Ø. Brønderslev,"D_Lars_E.Sørensen,_Brønderslev","Lars E.Sørensen, Brønderslev",Nye Borgerlige,4
+Brønderslev,50,Ø. Brønderslev,"D_Idon_Brødbæk,_Dronninglund","Idon Brødbæk, Dronninglund",Nye Borgerlige,0
+Brønderslev,50,Ø. Brønderslev,"D_Peter_Bonde,_Brønderslev","Peter Bonde, Brønderslev",Nye Borgerlige,3
+Brønderslev,50,Ø. Brønderslev,"D_Morten_Toft,_Brønderslev","Morten Toft, Brønderslev",Nye Borgerlige,1
+Brønderslev,50,Ø. Brønderslev,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,11
+Brønderslev,50,Ø. Brønderslev,"F_Henning_Jørgensen,_Brønderslev","Henning Jørgensen, Brønderslev",SF - Socialistisk Folkeparti,25
+Brønderslev,50,Ø. Brønderslev,"F_Kristina_P._Johansen,_Jerslev","Kristina P. Johansen, Jerslev",SF - Socialistisk Folkeparti,0
+Brønderslev,50,Ø. Brønderslev,"F_Kristine_Taagaard,_Brønderslev","Kristine Taagaard, Brønderslev",SF - Socialistisk Folkeparti,1
+Brønderslev,50,Ø. Brønderslev,"F_Ivan_Johansen,_Jerslev","Ivan Johansen, Jerslev",SF - Socialistisk Folkeparti,0
+Brønderslev,50,Ø. Brønderslev,"F_Mikkel_Mørk,_Brønderslev","Mikkel Mørk, Brønderslev",SF - Socialistisk Folkeparti,2
+Brønderslev,50,Ø. Brønderslev,"F_Marie_Brix_Mørk,_Brønderslev","Marie Brix Mørk, Brønderslev",SF - Socialistisk Folkeparti,1
+Brønderslev,50,Ø. Brønderslev,"F_Jan_Løvenholt,_Flauenskjold","Jan Løvenholt, Flauenskjold",SF - Socialistisk Folkeparti,1
+Brønderslev,50,Ø. Brønderslev,G_Listestemmer,Listestemmer,Veganerpartiet,0
+Brønderslev,50,Ø. Brønderslev,G_Uffe_Koch,Uffe Koch,Veganerpartiet,6
+Brønderslev,50,Ø. Brønderslev,I_Listestemmer,Listestemmer,Liberal Alliance,1
+Brønderslev,50,Ø. Brønderslev,"I_Hans-Henning_Terp-Hansen,Br.slev","Hans-Henning Terp-Hansen,Br.slev",Liberal Alliance,3
+Brønderslev,50,Ø. Brønderslev,J_Listestemmer,Listestemmer,Borgerlisten,1
+Brønderslev,50,Ø. Brønderslev,"J_Steen_Søgaard_Petersen,_Hjallerup","Steen Søgaard Petersen, Hjallerup",Borgerlisten,5
+Brønderslev,50,Ø. Brønderslev,"J_Simon_Aagaard,_Dronninglund","Simon Aagaard, Dronninglund",Borgerlisten,1
+Brønderslev,50,Ø. Brønderslev,"J_Marianne_Fristrup,_Hjallerup","Marianne Fristrup, Hjallerup",Borgerlisten,0
+Brønderslev,50,Ø. Brønderslev,"J_Mette_Greve,_Dronninglund","Mette Greve, Dronninglund",Borgerlisten,1
+Brønderslev,50,Ø. Brønderslev,"J_Kaj_Styrishave,_Jerslev","Kaj Styrishave, Jerslev",Borgerlisten,1
+Brønderslev,50,Ø. Brønderslev,"J_Jonna_Holdorf,_Klokkerholm","Jonna Holdorf, Klokkerholm",Borgerlisten,0
+Brønderslev,50,Ø. Brønderslev,"J_Jakob_Hassingboe,_Agersted","Jakob Hassingboe, Agersted",Borgerlisten,0
+Brønderslev,50,Ø. Brønderslev,"J_Mogens_Gregersen,_Hjallerup","Mogens Gregersen, Hjallerup",Borgerlisten,1
+Brønderslev,50,Ø. Brønderslev,K_Listestemmer,Listestemmer,Kristendemokraterne,3
+Brønderslev,50,Ø. Brønderslev,"K_Knud_Pejstrup,_Hjallerup","Knud Pejstrup, Hjallerup",Kristendemokraterne,0
+Brønderslev,50,Ø. Brønderslev,"K_Inge_Marie_Sonne,_Brønderslev","Inge Marie Sonne, Brønderslev",Kristendemokraterne,1
+Brønderslev,50,Ø. Brønderslev,"K_Benjamin_Fossing,_Thise","Benjamin Fossing, Thise",Kristendemokraterne,0
+Brønderslev,50,Ø. Brønderslev,O_Listestemmer,Listestemmer,Dansk Folkeparti,6
+Brønderslev,50,Ø. Brønderslev,"O_Carsten_Ullmann_Andersen,_Jerslev","Carsten Ullmann Andersen, Jerslev",Dansk Folkeparti,2
+Brønderslev,50,Ø. Brønderslev,"O_Danny_Rosenkilde,_Flauenskjold","Danny Rosenkilde, Flauenskjold",Dansk Folkeparti,3
+Brønderslev,50,Ø. Brønderslev,"O_Jamie_Voldby,_Brønderslev","Jamie Voldby, Brønderslev",Dansk Folkeparti,6
+Brønderslev,50,Ø. Brønderslev,"O_Ejvind_Aakjær,_Ørsø","Ejvind Aakjær, Ørsø",Dansk Folkeparti,0
+Brønderslev,50,Ø. Brønderslev,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",30
+Brønderslev,50,Ø. Brønderslev,"V_Mikael_Klitgaard,_Dronninglund","Mikael Klitgaard, Dronninglund","Venstre, Danmarks Liberale Parti",83
+Brønderslev,50,Ø. Brønderslev,"V_Mathias_Christensen,_Brønderslev","Mathias Christensen, Brønderslev","Venstre, Danmarks Liberale Parti",25
+Brønderslev,50,Ø. Brønderslev,"V_Jens_Andersen,_Serritslev","Jens Andersen, Serritslev","Venstre, Danmarks Liberale Parti",2
+Brønderslev,50,Ø. Brønderslev,"V_Martin_Bech,_Brønderslev","Martin Bech, Brønderslev","Venstre, Danmarks Liberale Parti",11
+Brønderslev,50,Ø. Brønderslev,"V_Thomas_Bertram,_Jerslev","Thomas Bertram, Jerslev","Venstre, Danmarks Liberale Parti",1
+Brønderslev,50,Ø. Brønderslev,"V_Peter_Bjerre,_Stenum","Peter Bjerre, Stenum","Venstre, Danmarks Liberale Parti",2
+Brønderslev,50,Ø. Brønderslev,"V_Svend_Bøgh,_Dronninglund","Svend Bøgh, Dronninglund","Venstre, Danmarks Liberale Parti",1
+Brønderslev,50,Ø. Brønderslev,"V_Margit_Chemnitz,_Klokkerholm","Margit Chemnitz, Klokkerholm","Venstre, Danmarks Liberale Parti",0
+Brønderslev,50,Ø. Brønderslev,"V_Søren_Christiansen,_Brønderslev","Søren Christiansen, Brønderslev","Venstre, Danmarks Liberale Parti",3
+Brønderslev,50,Ø. Brønderslev,"V_Frits_Danielsen,_Dronninglund","Frits Danielsen, Dronninglund","Venstre, Danmarks Liberale Parti",0
+Brønderslev,50,Ø. Brønderslev,"V_Simon_Eid,_Brønderslev","Simon Eid, Brønderslev","Venstre, Danmarks Liberale Parti",0
+Brønderslev,50,Ø. Brønderslev,"V_Malene_Fisker,_Brønderslev","Malene Fisker, Brønderslev","Venstre, Danmarks Liberale Parti",3
+Brønderslev,50,Ø. Brønderslev,"V_H._C._Holst,_Asaa","H. C. Holst, Asaa","Venstre, Danmarks Liberale Parti",0
+Brønderslev,50,Ø. Brønderslev,"V_Anders_B.Hummelmose,_Brønderslev","Anders B.Hummelmose, Brønderslev","Venstre, Danmarks Liberale Parti",4
+Brønderslev,50,Ø. Brønderslev,"V_Jacob_Høfler,_Ø._Brønderslev","Jacob Høfler, Ø. Brønderslev","Venstre, Danmarks Liberale Parti",19
+Brønderslev,50,Ø. Brønderslev,"V_Majbritt_Iversen,_Hallund","Majbritt Iversen, Hallund","Venstre, Danmarks Liberale Parti",7
+Brønderslev,50,Ø. Brønderslev,"V_Klaus_Riis_Klæstrup,_Brønderslev","Klaus Riis Klæstrup, Brønderslev","Venstre, Danmarks Liberale Parti",23
+Brønderslev,50,Ø. Brønderslev,"V_Dennis_Kvesel,_Dorf","Dennis Kvesel, Dorf","Venstre, Danmarks Liberale Parti",0
+Brønderslev,50,Ø. Brønderslev,"V_Winnie_Vest,_Asaa","Winnie Vest, Asaa","Venstre, Danmarks Liberale Parti",1
+Brønderslev,50,Ø. Brønderslev,"V_Peter_Mølbjerg,_Klokkerholm","Peter Mølbjerg, Klokkerholm","Venstre, Danmarks Liberale Parti",1
+Brønderslev,50,Ø. Brønderslev,"V_Johnni_Olesen,_Hjallerup","Johnni Olesen, Hjallerup","Venstre, Danmarks Liberale Parti",1
+Brønderslev,50,Ø. Brønderslev,"V_Knud_L._Pedersen,_Thise","Knud L. Pedersen, Thise","Venstre, Danmarks Liberale Parti",0
+Brønderslev,50,Ø. Brønderslev,"V_Line_Vanggaard_Pedersen,_Jerslev","Line Vanggaard Pedersen, Jerslev","Venstre, Danmarks Liberale Parti",38
+Brønderslev,50,Ø. Brønderslev,"V_Lasse_Riisgaard,_Brønderslev","Lasse Riisgaard, Brønderslev","Venstre, Danmarks Liberale Parti",4
+Brønderslev,50,Ø. Brønderslev,"V_Niels_Vestergaard_Salling,_Jerslev","Niels Vestergaard Salling, Jerslev","Venstre, Danmarks Liberale Parti",6
+Brønderslev,50,Ø. Brønderslev,"V_Jan_Thaibert,_Agersted","Jan Thaibert, Agersted","Venstre, Danmarks Liberale Parti",2
+Brønderslev,50,Ø. Brønderslev,"V_Henrik_Toftgaard,_Dronninglund","Henrik Toftgaard, Dronninglund","Venstre, Danmarks Liberale Parti",3
+Brønderslev,50,Ø. Brønderslev,"V_Nadia_Vest,_Dronninglund","Nadia Vest, Dronninglund","Venstre, Danmarks Liberale Parti",1
+Brønderslev,50,Ø. Brønderslev,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,7
+Brønderslev,50,Ø. Brønderslev,Ø_Runa_Friis_Hansen,Runa Friis Hansen,Enhedslisten - De Rød-Grønne,8
+Brønderslev,50,Ø. Brønderslev,Ø_Christina_Eilers,Christina Eilers,Enhedslisten - De Rød-Grønne,2
+Brønderslev,50,Ø. Brønderslev,Ø_Lone_Nedergaard,Lone Nedergaard,Enhedslisten - De Rød-Grønne,3
+Brønderslev,50,Ø. Brønderslev,Ø_Annemette_Chemnitz_Eilers,Annemette Chemnitz Eilers,Enhedslisten - De Rød-Grønne,0
+Brønderslev,50,Ø. Brønderslev,Ø_Mai_Jensen,Mai Jensen,Enhedslisten - De Rød-Grønne,0
+Brønderslev,56,Hallund,A_Listestemmer,Listestemmer,Socialdemokratiet,16
+Brønderslev,56,Hallund,"A_Bettina_B._Kjeldsen,_Brønderslev","Bettina B. Kjeldsen, Brønderslev",Socialdemokratiet,37
+Brønderslev,56,Hallund,"A_Arne_M._Jensen,_Brønderslev","Arne M. Jensen, Brønderslev",Socialdemokratiet,3
+Brønderslev,56,Hallund,"A_Eskild_Sloth_Andersen,_Hjallerup","Eskild Sloth Andersen, Hjallerup",Socialdemokratiet,1
+Brønderslev,56,Hallund,"A_Peter_H._S._Kristensen,_Stenum","Peter H. S. Kristensen, Stenum",Socialdemokratiet,1
+Brønderslev,56,Hallund,"A_Benny_Engelsted_Karlsen,_Dr.lund","Benny Engelsted Karlsen, Dr.lund",Socialdemokratiet,2
+Brønderslev,56,Hallund,"A_Hildo_Rasmussen,_Asaa","Hildo Rasmussen, Asaa",Socialdemokratiet,1
+Brønderslev,56,Hallund,"A_Ole_Jespersgaard,_Ø._Brønderslev","Ole Jespersgaard, Ø. Brønderslev",Socialdemokratiet,11
+Brønderslev,56,Hallund,"A_Ole_Andersen,_Asaa","Ole Andersen, Asaa",Socialdemokratiet,0
+Brønderslev,56,Hallund,"A_Emilly_Pedersen,_Brønderslev","Emilly Pedersen, Brønderslev",Socialdemokratiet,0
+Brønderslev,56,Hallund,"A_Christen_Bager,_Dronninglund","Christen Bager, Dronninglund",Socialdemokratiet,0
+Brønderslev,56,Hallund,"A_Karen_Strandfelt,_Manna-Thise","Karen Strandfelt, Manna-Thise",Socialdemokratiet,1
+Brønderslev,56,Hallund,"A_Lene_Søndergaard,_Klæstrup-Jerslev","Lene Søndergaard, Klæstrup-Jerslev",Socialdemokratiet,1
+Brønderslev,56,Hallund,"A_Johannes_Trudslev,_Manna-Thise","Johannes Trudslev, Manna-Thise",Socialdemokratiet,1
+Brønderslev,56,Hallund,"A_Birger_Thomsen,_Dronninglund","Birger Thomsen, Dronninglund",Socialdemokratiet,0
+Brønderslev,56,Hallund,"A_Mogens_Stougaard_Karlsen,_Jerslev","Mogens Stougaard Karlsen, Jerslev",Socialdemokratiet,2
+Brønderslev,56,Hallund,"A_Mathias_Pedersen,_Brønderslev","Mathias Pedersen, Brønderslev",Socialdemokratiet,1
+Brønderslev,56,Hallund,"A_Jan_Sonne-Schmidt,_Klokkerholm","Jan Sonne-Schmidt, Klokkerholm",Socialdemokratiet,0
+Brønderslev,56,Hallund,"A_Otto_Bjerre,_Hellum","Otto Bjerre, Hellum",Socialdemokratiet,0
+Brønderslev,56,Hallund,"A_Lars_Rueskov,_Brønderslev","Lars Rueskov, Brønderslev",Socialdemokratiet,0
+Brønderslev,56,Hallund,"A_A._Neil_Jacobsen,_Brønderslev","A. Neil Jacobsen, Brønderslev",Socialdemokratiet,0
+Brønderslev,56,Hallund,"A_Poul_Erik_Andreasen,_Dronninglund","Poul Erik Andreasen, Dronninglund",Socialdemokratiet,0
+Brønderslev,56,Hallund,"A_Adnan_Jedon,_Brønderslev","Adnan Jedon, Brønderslev",Socialdemokratiet,0
+Brønderslev,56,Hallund,B_Listestemmer,Listestemmer,Radikale Venstre,0
+Brønderslev,56,Hallund,"B_Janus_Hove,_Ø._Brønderslev","Janus Hove, Ø. Brønderslev",Radikale Venstre,0
+Brønderslev,56,Hallund,"B_Dorthe_Kerschus,_Dronninglund","Dorthe Kerschus, Dronninglund",Radikale Venstre,0
+Brønderslev,56,Hallund,"B_Per_Nielsen,_Brønderslev","Per Nielsen, Brønderslev",Radikale Venstre,0
+Brønderslev,56,Hallund,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,1
+Brønderslev,56,Hallund,"C_Peter_Stecher,_Brønderslev","Peter Stecher, Brønderslev",Det Konservative Folkeparti,23
+Brønderslev,56,Hallund,"C_Mikael_Christensen,_Hjallerup","Mikael Christensen, Hjallerup",Det Konservative Folkeparti,0
+Brønderslev,56,Hallund,"C_Michael_Peter_Hansen,_Brønderslev","Michael Peter Hansen, Brønderslev",Det Konservative Folkeparti,0
+Brønderslev,56,Hallund,"C_Stinne_Reng,_Brønderslev","Stinne Reng, Brønderslev",Det Konservative Folkeparti,0
+Brønderslev,56,Hallund,"C_Janni_Høybye,_Jerslev","Janni Høybye, Jerslev",Det Konservative Folkeparti,6
+Brønderslev,56,Hallund,"C_Ole_Agger_Hansen,_Brønderslev","Ole Agger Hansen, Brønderslev",Det Konservative Folkeparti,0
+Brønderslev,56,Hallund,"C_Thomas_Greve_Lund,_Dronninglund","Thomas Greve Lund, Dronninglund",Det Konservative Folkeparti,0
+Brønderslev,56,Hallund,"C_Jette_Schiønning_Aasholm,Br.slev","Jette Schiønning Aasholm,Br.slev",Det Konservative Folkeparti,0
+Brønderslev,56,Hallund,"C_Jan_Rønnov,Brønderslev","Jan Rønnov,Brønderslev",Det Konservative Folkeparti,1
+Brønderslev,56,Hallund,"C_Jan_F.Johansen,_Hjallerup","Jan F.Johansen, Hjallerup",Det Konservative Folkeparti,0
+Brønderslev,56,Hallund,"C_Karsten_Andreasen,_Dronninglund","Karsten Andreasen, Dronninglund",Det Konservative Folkeparti,0
+Brønderslev,56,Hallund,"C_Torben_Houge_Nielsen,_Brønderslev","Torben Houge Nielsen, Brønderslev",Det Konservative Folkeparti,0
+Brønderslev,56,Hallund,D_Listestemmer,Listestemmer,Nye Borgerlige,6
+Brønderslev,56,Hallund,"D_Lars_E.Sørensen,_Brønderslev","Lars E.Sørensen, Brønderslev",Nye Borgerlige,8
+Brønderslev,56,Hallund,"D_Idon_Brødbæk,_Dronninglund","Idon Brødbæk, Dronninglund",Nye Borgerlige,1
+Brønderslev,56,Hallund,"D_Peter_Bonde,_Brønderslev","Peter Bonde, Brønderslev",Nye Borgerlige,8
+Brønderslev,56,Hallund,"D_Morten_Toft,_Brønderslev","Morten Toft, Brønderslev",Nye Borgerlige,2
+Brønderslev,56,Hallund,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,1
+Brønderslev,56,Hallund,"F_Henning_Jørgensen,_Brønderslev","Henning Jørgensen, Brønderslev",SF - Socialistisk Folkeparti,7
+Brønderslev,56,Hallund,"F_Kristina_P._Johansen,_Jerslev","Kristina P. Johansen, Jerslev",SF - Socialistisk Folkeparti,1
+Brønderslev,56,Hallund,"F_Kristine_Taagaard,_Brønderslev","Kristine Taagaard, Brønderslev",SF - Socialistisk Folkeparti,0
+Brønderslev,56,Hallund,"F_Ivan_Johansen,_Jerslev","Ivan Johansen, Jerslev",SF - Socialistisk Folkeparti,0
+Brønderslev,56,Hallund,"F_Mikkel_Mørk,_Brønderslev","Mikkel Mørk, Brønderslev",SF - Socialistisk Folkeparti,0
+Brønderslev,56,Hallund,"F_Marie_Brix_Mørk,_Brønderslev","Marie Brix Mørk, Brønderslev",SF - Socialistisk Folkeparti,0
+Brønderslev,56,Hallund,"F_Jan_Løvenholt,_Flauenskjold","Jan Løvenholt, Flauenskjold",SF - Socialistisk Folkeparti,0
+Brønderslev,56,Hallund,G_Listestemmer,Listestemmer,Veganerpartiet,0
+Brønderslev,56,Hallund,G_Uffe_Koch,Uffe Koch,Veganerpartiet,1
+Brønderslev,56,Hallund,I_Listestemmer,Listestemmer,Liberal Alliance,0
+Brønderslev,56,Hallund,"I_Hans-Henning_Terp-Hansen,Br.slev","Hans-Henning Terp-Hansen,Br.slev",Liberal Alliance,4
+Brønderslev,56,Hallund,J_Listestemmer,Listestemmer,Borgerlisten,0
+Brønderslev,56,Hallund,"J_Steen_Søgaard_Petersen,_Hjallerup","Steen Søgaard Petersen, Hjallerup",Borgerlisten,1
+Brønderslev,56,Hallund,"J_Simon_Aagaard,_Dronninglund","Simon Aagaard, Dronninglund",Borgerlisten,0
+Brønderslev,56,Hallund,"J_Marianne_Fristrup,_Hjallerup","Marianne Fristrup, Hjallerup",Borgerlisten,0
+Brønderslev,56,Hallund,"J_Mette_Greve,_Dronninglund","Mette Greve, Dronninglund",Borgerlisten,0
+Brønderslev,56,Hallund,"J_Kaj_Styrishave,_Jerslev","Kaj Styrishave, Jerslev",Borgerlisten,0
+Brønderslev,56,Hallund,"J_Jonna_Holdorf,_Klokkerholm","Jonna Holdorf, Klokkerholm",Borgerlisten,0
+Brønderslev,56,Hallund,"J_Jakob_Hassingboe,_Agersted","Jakob Hassingboe, Agersted",Borgerlisten,0
+Brønderslev,56,Hallund,"J_Mogens_Gregersen,_Hjallerup","Mogens Gregersen, Hjallerup",Borgerlisten,0
+Brønderslev,56,Hallund,K_Listestemmer,Listestemmer,Kristendemokraterne,2
+Brønderslev,56,Hallund,"K_Knud_Pejstrup,_Hjallerup","Knud Pejstrup, Hjallerup",Kristendemokraterne,0
+Brønderslev,56,Hallund,"K_Inge_Marie_Sonne,_Brønderslev","Inge Marie Sonne, Brønderslev",Kristendemokraterne,0
+Brønderslev,56,Hallund,"K_Benjamin_Fossing,_Thise","Benjamin Fossing, Thise",Kristendemokraterne,0
+Brønderslev,56,Hallund,O_Listestemmer,Listestemmer,Dansk Folkeparti,1
+Brønderslev,56,Hallund,"O_Carsten_Ullmann_Andersen,_Jerslev","Carsten Ullmann Andersen, Jerslev",Dansk Folkeparti,12
+Brønderslev,56,Hallund,"O_Danny_Rosenkilde,_Flauenskjold","Danny Rosenkilde, Flauenskjold",Dansk Folkeparti,3
+Brønderslev,56,Hallund,"O_Jamie_Voldby,_Brønderslev","Jamie Voldby, Brønderslev",Dansk Folkeparti,2
+Brønderslev,56,Hallund,"O_Ejvind_Aakjær,_Ørsø","Ejvind Aakjær, Ørsø",Dansk Folkeparti,0
+Brønderslev,56,Hallund,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",14
+Brønderslev,56,Hallund,"V_Mikael_Klitgaard,_Dronninglund","Mikael Klitgaard, Dronninglund","Venstre, Danmarks Liberale Parti",37
+Brønderslev,56,Hallund,"V_Mathias_Christensen,_Brønderslev","Mathias Christensen, Brønderslev","Venstre, Danmarks Liberale Parti",4
+Brønderslev,56,Hallund,"V_Jens_Andersen,_Serritslev","Jens Andersen, Serritslev","Venstre, Danmarks Liberale Parti",0
+Brønderslev,56,Hallund,"V_Martin_Bech,_Brønderslev","Martin Bech, Brønderslev","Venstre, Danmarks Liberale Parti",3
+Brønderslev,56,Hallund,"V_Thomas_Bertram,_Jerslev","Thomas Bertram, Jerslev","Venstre, Danmarks Liberale Parti",1
+Brønderslev,56,Hallund,"V_Peter_Bjerre,_Stenum","Peter Bjerre, Stenum","Venstre, Danmarks Liberale Parti",0
+Brønderslev,56,Hallund,"V_Svend_Bøgh,_Dronninglund","Svend Bøgh, Dronninglund","Venstre, Danmarks Liberale Parti",0
+Brønderslev,56,Hallund,"V_Margit_Chemnitz,_Klokkerholm","Margit Chemnitz, Klokkerholm","Venstre, Danmarks Liberale Parti",9
+Brønderslev,56,Hallund,"V_Søren_Christiansen,_Brønderslev","Søren Christiansen, Brønderslev","Venstre, Danmarks Liberale Parti",0
+Brønderslev,56,Hallund,"V_Frits_Danielsen,_Dronninglund","Frits Danielsen, Dronninglund","Venstre, Danmarks Liberale Parti",3
+Brønderslev,56,Hallund,"V_Simon_Eid,_Brønderslev","Simon Eid, Brønderslev","Venstre, Danmarks Liberale Parti",0
+Brønderslev,56,Hallund,"V_Malene_Fisker,_Brønderslev","Malene Fisker, Brønderslev","Venstre, Danmarks Liberale Parti",0
+Brønderslev,56,Hallund,"V_H._C._Holst,_Asaa","H. C. Holst, Asaa","Venstre, Danmarks Liberale Parti",1
+Brønderslev,56,Hallund,"V_Anders_B.Hummelmose,_Brønderslev","Anders B.Hummelmose, Brønderslev","Venstre, Danmarks Liberale Parti",0
+Brønderslev,56,Hallund,"V_Jacob_Høfler,_Ø._Brønderslev","Jacob Høfler, Ø. Brønderslev","Venstre, Danmarks Liberale Parti",2
+Brønderslev,56,Hallund,"V_Majbritt_Iversen,_Hallund","Majbritt Iversen, Hallund","Venstre, Danmarks Liberale Parti",62
+Brønderslev,56,Hallund,"V_Klaus_Riis_Klæstrup,_Brønderslev","Klaus Riis Klæstrup, Brønderslev","Venstre, Danmarks Liberale Parti",10
+Brønderslev,56,Hallund,"V_Dennis_Kvesel,_Dorf","Dennis Kvesel, Dorf","Venstre, Danmarks Liberale Parti",0
+Brønderslev,56,Hallund,"V_Winnie_Vest,_Asaa","Winnie Vest, Asaa","Venstre, Danmarks Liberale Parti",1
+Brønderslev,56,Hallund,"V_Peter_Mølbjerg,_Klokkerholm","Peter Mølbjerg, Klokkerholm","Venstre, Danmarks Liberale Parti",0
+Brønderslev,56,Hallund,"V_Johnni_Olesen,_Hjallerup","Johnni Olesen, Hjallerup","Venstre, Danmarks Liberale Parti",0
+Brønderslev,56,Hallund,"V_Knud_L._Pedersen,_Thise","Knud L. Pedersen, Thise","Venstre, Danmarks Liberale Parti",1
+Brønderslev,56,Hallund,"V_Line_Vanggaard_Pedersen,_Jerslev","Line Vanggaard Pedersen, Jerslev","Venstre, Danmarks Liberale Parti",23
+Brønderslev,56,Hallund,"V_Lasse_Riisgaard,_Brønderslev","Lasse Riisgaard, Brønderslev","Venstre, Danmarks Liberale Parti",1
+Brønderslev,56,Hallund,"V_Niels_Vestergaard_Salling,_Jerslev","Niels Vestergaard Salling, Jerslev","Venstre, Danmarks Liberale Parti",2
+Brønderslev,56,Hallund,"V_Jan_Thaibert,_Agersted","Jan Thaibert, Agersted","Venstre, Danmarks Liberale Parti",0
+Brønderslev,56,Hallund,"V_Henrik_Toftgaard,_Dronninglund","Henrik Toftgaard, Dronninglund","Venstre, Danmarks Liberale Parti",2
+Brønderslev,56,Hallund,"V_Nadia_Vest,_Dronninglund","Nadia Vest, Dronninglund","Venstre, Danmarks Liberale Parti",0
+Brønderslev,56,Hallund,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,5
+Brønderslev,56,Hallund,Ø_Runa_Friis_Hansen,Runa Friis Hansen,Enhedslisten - De Rød-Grønne,3
+Brønderslev,56,Hallund,Ø_Christina_Eilers,Christina Eilers,Enhedslisten - De Rød-Grønne,2
+Brønderslev,56,Hallund,Ø_Lone_Nedergaard,Lone Nedergaard,Enhedslisten - De Rød-Grønne,1
+Brønderslev,56,Hallund,Ø_Annemette_Chemnitz_Eilers,Annemette Chemnitz Eilers,Enhedslisten - De Rød-Grønne,1
+Brønderslev,56,Hallund,Ø_Mai_Jensen,Mai Jensen,Enhedslisten - De Rød-Grønne,0
+Brønderslev,70,Jerslev,A_Listestemmer,Listestemmer,Socialdemokratiet,56
+Brønderslev,70,Jerslev,"A_Bettina_B._Kjeldsen,_Brønderslev","Bettina B. Kjeldsen, Brønderslev",Socialdemokratiet,67
+Brønderslev,70,Jerslev,"A_Arne_M._Jensen,_Brønderslev","Arne M. Jensen, Brønderslev",Socialdemokratiet,14
+Brønderslev,70,Jerslev,"A_Eskild_Sloth_Andersen,_Hjallerup","Eskild Sloth Andersen, Hjallerup",Socialdemokratiet,1
+Brønderslev,70,Jerslev,"A_Peter_H._S._Kristensen,_Stenum","Peter H. S. Kristensen, Stenum",Socialdemokratiet,3
+Brønderslev,70,Jerslev,"A_Benny_Engelsted_Karlsen,_Dr.lund","Benny Engelsted Karlsen, Dr.lund",Socialdemokratiet,0
+Brønderslev,70,Jerslev,"A_Hildo_Rasmussen,_Asaa","Hildo Rasmussen, Asaa",Socialdemokratiet,0
+Brønderslev,70,Jerslev,"A_Ole_Jespersgaard,_Ø._Brønderslev","Ole Jespersgaard, Ø. Brønderslev",Socialdemokratiet,5
+Brønderslev,70,Jerslev,"A_Ole_Andersen,_Asaa","Ole Andersen, Asaa",Socialdemokratiet,0
+Brønderslev,70,Jerslev,"A_Emilly_Pedersen,_Brønderslev","Emilly Pedersen, Brønderslev",Socialdemokratiet,3
+Brønderslev,70,Jerslev,"A_Christen_Bager,_Dronninglund","Christen Bager, Dronninglund",Socialdemokratiet,0
+Brønderslev,70,Jerslev,"A_Karen_Strandfelt,_Manna-Thise","Karen Strandfelt, Manna-Thise",Socialdemokratiet,2
+Brønderslev,70,Jerslev,"A_Lene_Søndergaard,_Klæstrup-Jerslev","Lene Søndergaard, Klæstrup-Jerslev",Socialdemokratiet,11
+Brønderslev,70,Jerslev,"A_Johannes_Trudslev,_Manna-Thise","Johannes Trudslev, Manna-Thise",Socialdemokratiet,0
+Brønderslev,70,Jerslev,"A_Birger_Thomsen,_Dronninglund","Birger Thomsen, Dronninglund",Socialdemokratiet,3
+Brønderslev,70,Jerslev,"A_Mogens_Stougaard_Karlsen,_Jerslev","Mogens Stougaard Karlsen, Jerslev",Socialdemokratiet,80
+Brønderslev,70,Jerslev,"A_Mathias_Pedersen,_Brønderslev","Mathias Pedersen, Brønderslev",Socialdemokratiet,7
+Brønderslev,70,Jerslev,"A_Jan_Sonne-Schmidt,_Klokkerholm","Jan Sonne-Schmidt, Klokkerholm",Socialdemokratiet,0
+Brønderslev,70,Jerslev,"A_Otto_Bjerre,_Hellum","Otto Bjerre, Hellum",Socialdemokratiet,11
+Brønderslev,70,Jerslev,"A_Lars_Rueskov,_Brønderslev","Lars Rueskov, Brønderslev",Socialdemokratiet,0
+Brønderslev,70,Jerslev,"A_A._Neil_Jacobsen,_Brønderslev","A. Neil Jacobsen, Brønderslev",Socialdemokratiet,0
+Brønderslev,70,Jerslev,"A_Poul_Erik_Andreasen,_Dronninglund","Poul Erik Andreasen, Dronninglund",Socialdemokratiet,0
+Brønderslev,70,Jerslev,"A_Adnan_Jedon,_Brønderslev","Adnan Jedon, Brønderslev",Socialdemokratiet,1
+Brønderslev,70,Jerslev,B_Listestemmer,Listestemmer,Radikale Venstre,3
+Brønderslev,70,Jerslev,"B_Janus_Hove,_Ø._Brønderslev","Janus Hove, Ø. Brønderslev",Radikale Venstre,2
+Brønderslev,70,Jerslev,"B_Dorthe_Kerschus,_Dronninglund","Dorthe Kerschus, Dronninglund",Radikale Venstre,1
+Brønderslev,70,Jerslev,"B_Per_Nielsen,_Brønderslev","Per Nielsen, Brønderslev",Radikale Venstre,1
+Brønderslev,70,Jerslev,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,8
+Brønderslev,70,Jerslev,"C_Peter_Stecher,_Brønderslev","Peter Stecher, Brønderslev",Det Konservative Folkeparti,18
+Brønderslev,70,Jerslev,"C_Mikael_Christensen,_Hjallerup","Mikael Christensen, Hjallerup",Det Konservative Folkeparti,0
+Brønderslev,70,Jerslev,"C_Michael_Peter_Hansen,_Brønderslev","Michael Peter Hansen, Brønderslev",Det Konservative Folkeparti,1
+Brønderslev,70,Jerslev,"C_Stinne_Reng,_Brønderslev","Stinne Reng, Brønderslev",Det Konservative Folkeparti,1
+Brønderslev,70,Jerslev,"C_Janni_Høybye,_Jerslev","Janni Høybye, Jerslev",Det Konservative Folkeparti,42
+Brønderslev,70,Jerslev,"C_Ole_Agger_Hansen,_Brønderslev","Ole Agger Hansen, Brønderslev",Det Konservative Folkeparti,0
+Brønderslev,70,Jerslev,"C_Thomas_Greve_Lund,_Dronninglund","Thomas Greve Lund, Dronninglund",Det Konservative Folkeparti,0
+Brønderslev,70,Jerslev,"C_Jette_Schiønning_Aasholm,Br.slev","Jette Schiønning Aasholm,Br.slev",Det Konservative Folkeparti,2
+Brønderslev,70,Jerslev,"C_Jan_Rønnov,Brønderslev","Jan Rønnov,Brønderslev",Det Konservative Folkeparti,0
+Brønderslev,70,Jerslev,"C_Jan_F.Johansen,_Hjallerup","Jan F.Johansen, Hjallerup",Det Konservative Folkeparti,0
+Brønderslev,70,Jerslev,"C_Karsten_Andreasen,_Dronninglund","Karsten Andreasen, Dronninglund",Det Konservative Folkeparti,0
+Brønderslev,70,Jerslev,"C_Torben_Houge_Nielsen,_Brønderslev","Torben Houge Nielsen, Brønderslev",Det Konservative Folkeparti,0
+Brønderslev,70,Jerslev,D_Listestemmer,Listestemmer,Nye Borgerlige,33
+Brønderslev,70,Jerslev,"D_Lars_E.Sørensen,_Brønderslev","Lars E.Sørensen, Brønderslev",Nye Borgerlige,27
+Brønderslev,70,Jerslev,"D_Idon_Brødbæk,_Dronninglund","Idon Brødbæk, Dronninglund",Nye Borgerlige,3
+Brønderslev,70,Jerslev,"D_Peter_Bonde,_Brønderslev","Peter Bonde, Brønderslev",Nye Borgerlige,11
+Brønderslev,70,Jerslev,"D_Morten_Toft,_Brønderslev","Morten Toft, Brønderslev",Nye Borgerlige,2
+Brønderslev,70,Jerslev,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,16
+Brønderslev,70,Jerslev,"F_Henning_Jørgensen,_Brønderslev","Henning Jørgensen, Brønderslev",SF - Socialistisk Folkeparti,5
+Brønderslev,70,Jerslev,"F_Kristina_P._Johansen,_Jerslev","Kristina P. Johansen, Jerslev",SF - Socialistisk Folkeparti,5
+Brønderslev,70,Jerslev,"F_Kristine_Taagaard,_Brønderslev","Kristine Taagaard, Brønderslev",SF - Socialistisk Folkeparti,0
+Brønderslev,70,Jerslev,"F_Ivan_Johansen,_Jerslev","Ivan Johansen, Jerslev",SF - Socialistisk Folkeparti,2
+Brønderslev,70,Jerslev,"F_Mikkel_Mørk,_Brønderslev","Mikkel Mørk, Brønderslev",SF - Socialistisk Folkeparti,1
+Brønderslev,70,Jerslev,"F_Marie_Brix_Mørk,_Brønderslev","Marie Brix Mørk, Brønderslev",SF - Socialistisk Folkeparti,0
+Brønderslev,70,Jerslev,"F_Jan_Løvenholt,_Flauenskjold","Jan Løvenholt, Flauenskjold",SF - Socialistisk Folkeparti,1
+Brønderslev,70,Jerslev,G_Listestemmer,Listestemmer,Veganerpartiet,1
+Brønderslev,70,Jerslev,G_Uffe_Koch,Uffe Koch,Veganerpartiet,9
+Brønderslev,70,Jerslev,I_Listestemmer,Listestemmer,Liberal Alliance,0
+Brønderslev,70,Jerslev,"I_Hans-Henning_Terp-Hansen,Br.slev","Hans-Henning Terp-Hansen,Br.slev",Liberal Alliance,3
+Brønderslev,70,Jerslev,J_Listestemmer,Listestemmer,Borgerlisten,5
+Brønderslev,70,Jerslev,"J_Steen_Søgaard_Petersen,_Hjallerup","Steen Søgaard Petersen, Hjallerup",Borgerlisten,4
+Brønderslev,70,Jerslev,"J_Simon_Aagaard,_Dronninglund","Simon Aagaard, Dronninglund",Borgerlisten,2
+Brønderslev,70,Jerslev,"J_Marianne_Fristrup,_Hjallerup","Marianne Fristrup, Hjallerup",Borgerlisten,1
+Brønderslev,70,Jerslev,"J_Mette_Greve,_Dronninglund","Mette Greve, Dronninglund",Borgerlisten,2
+Brønderslev,70,Jerslev,"J_Kaj_Styrishave,_Jerslev","Kaj Styrishave, Jerslev",Borgerlisten,7
+Brønderslev,70,Jerslev,"J_Jonna_Holdorf,_Klokkerholm","Jonna Holdorf, Klokkerholm",Borgerlisten,0
+Brønderslev,70,Jerslev,"J_Jakob_Hassingboe,_Agersted","Jakob Hassingboe, Agersted",Borgerlisten,2
+Brønderslev,70,Jerslev,"J_Mogens_Gregersen,_Hjallerup","Mogens Gregersen, Hjallerup",Borgerlisten,1
+Brønderslev,70,Jerslev,K_Listestemmer,Listestemmer,Kristendemokraterne,3
+Brønderslev,70,Jerslev,"K_Knud_Pejstrup,_Hjallerup","Knud Pejstrup, Hjallerup",Kristendemokraterne,0
+Brønderslev,70,Jerslev,"K_Inge_Marie_Sonne,_Brønderslev","Inge Marie Sonne, Brønderslev",Kristendemokraterne,3
+Brønderslev,70,Jerslev,"K_Benjamin_Fossing,_Thise","Benjamin Fossing, Thise",Kristendemokraterne,0
+Brønderslev,70,Jerslev,O_Listestemmer,Listestemmer,Dansk Folkeparti,14
+Brønderslev,70,Jerslev,"O_Carsten_Ullmann_Andersen,_Jerslev","Carsten Ullmann Andersen, Jerslev",Dansk Folkeparti,86
+Brønderslev,70,Jerslev,"O_Danny_Rosenkilde,_Flauenskjold","Danny Rosenkilde, Flauenskjold",Dansk Folkeparti,6
+Brønderslev,70,Jerslev,"O_Jamie_Voldby,_Brønderslev","Jamie Voldby, Brønderslev",Dansk Folkeparti,7
+Brønderslev,70,Jerslev,"O_Ejvind_Aakjær,_Ørsø","Ejvind Aakjær, Ørsø",Dansk Folkeparti,0
+Brønderslev,70,Jerslev,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",34
+Brønderslev,70,Jerslev,"V_Mikael_Klitgaard,_Dronninglund","Mikael Klitgaard, Dronninglund","Venstre, Danmarks Liberale Parti",119
+Brønderslev,70,Jerslev,"V_Mathias_Christensen,_Brønderslev","Mathias Christensen, Brønderslev","Venstre, Danmarks Liberale Parti",12
+Brønderslev,70,Jerslev,"V_Jens_Andersen,_Serritslev","Jens Andersen, Serritslev","Venstre, Danmarks Liberale Parti",0
+Brønderslev,70,Jerslev,"V_Martin_Bech,_Brønderslev","Martin Bech, Brønderslev","Venstre, Danmarks Liberale Parti",15
+Brønderslev,70,Jerslev,"V_Thomas_Bertram,_Jerslev","Thomas Bertram, Jerslev","Venstre, Danmarks Liberale Parti",23
+Brønderslev,70,Jerslev,"V_Peter_Bjerre,_Stenum","Peter Bjerre, Stenum","Venstre, Danmarks Liberale Parti",0
+Brønderslev,70,Jerslev,"V_Svend_Bøgh,_Dronninglund","Svend Bøgh, Dronninglund","Venstre, Danmarks Liberale Parti",0
+Brønderslev,70,Jerslev,"V_Margit_Chemnitz,_Klokkerholm","Margit Chemnitz, Klokkerholm","Venstre, Danmarks Liberale Parti",1
+Brønderslev,70,Jerslev,"V_Søren_Christiansen,_Brønderslev","Søren Christiansen, Brønderslev","Venstre, Danmarks Liberale Parti",6
+Brønderslev,70,Jerslev,"V_Frits_Danielsen,_Dronninglund","Frits Danielsen, Dronninglund","Venstre, Danmarks Liberale Parti",2
+Brønderslev,70,Jerslev,"V_Simon_Eid,_Brønderslev","Simon Eid, Brønderslev","Venstre, Danmarks Liberale Parti",2
+Brønderslev,70,Jerslev,"V_Malene_Fisker,_Brønderslev","Malene Fisker, Brønderslev","Venstre, Danmarks Liberale Parti",1
+Brønderslev,70,Jerslev,"V_H._C._Holst,_Asaa","H. C. Holst, Asaa","Venstre, Danmarks Liberale Parti",1
+Brønderslev,70,Jerslev,"V_Anders_B.Hummelmose,_Brønderslev","Anders B.Hummelmose, Brønderslev","Venstre, Danmarks Liberale Parti",8
+Brønderslev,70,Jerslev,"V_Jacob_Høfler,_Ø._Brønderslev","Jacob Høfler, Ø. Brønderslev","Venstre, Danmarks Liberale Parti",0
+Brønderslev,70,Jerslev,"V_Majbritt_Iversen,_Hallund","Majbritt Iversen, Hallund","Venstre, Danmarks Liberale Parti",0
+Brønderslev,70,Jerslev,"V_Klaus_Riis_Klæstrup,_Brønderslev","Klaus Riis Klæstrup, Brønderslev","Venstre, Danmarks Liberale Parti",13
+Brønderslev,70,Jerslev,"V_Dennis_Kvesel,_Dorf","Dennis Kvesel, Dorf","Venstre, Danmarks Liberale Parti",0
+Brønderslev,70,Jerslev,"V_Winnie_Vest,_Asaa","Winnie Vest, Asaa","Venstre, Danmarks Liberale Parti",1
+Brønderslev,70,Jerslev,"V_Peter_Mølbjerg,_Klokkerholm","Peter Mølbjerg, Klokkerholm","Venstre, Danmarks Liberale Parti",7
+Brønderslev,70,Jerslev,"V_Johnni_Olesen,_Hjallerup","Johnni Olesen, Hjallerup","Venstre, Danmarks Liberale Parti",1
+Brønderslev,70,Jerslev,"V_Knud_L._Pedersen,_Thise","Knud L. Pedersen, Thise","Venstre, Danmarks Liberale Parti",1
+Brønderslev,70,Jerslev,"V_Line_Vanggaard_Pedersen,_Jerslev","Line Vanggaard Pedersen, Jerslev","Venstre, Danmarks Liberale Parti",179
+Brønderslev,70,Jerslev,"V_Lasse_Riisgaard,_Brønderslev","Lasse Riisgaard, Brønderslev","Venstre, Danmarks Liberale Parti",6
+Brønderslev,70,Jerslev,"V_Niels_Vestergaard_Salling,_Jerslev","Niels Vestergaard Salling, Jerslev","Venstre, Danmarks Liberale Parti",150
+Brønderslev,70,Jerslev,"V_Jan_Thaibert,_Agersted","Jan Thaibert, Agersted","Venstre, Danmarks Liberale Parti",2
+Brønderslev,70,Jerslev,"V_Henrik_Toftgaard,_Dronninglund","Henrik Toftgaard, Dronninglund","Venstre, Danmarks Liberale Parti",2
+Brønderslev,70,Jerslev,"V_Nadia_Vest,_Dronninglund","Nadia Vest, Dronninglund","Venstre, Danmarks Liberale Parti",2
+Brønderslev,70,Jerslev,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,16
+Brønderslev,70,Jerslev,Ø_Runa_Friis_Hansen,Runa Friis Hansen,Enhedslisten - De Rød-Grønne,15
+Brønderslev,70,Jerslev,Ø_Christina_Eilers,Christina Eilers,Enhedslisten - De Rød-Grønne,1
+Brønderslev,70,Jerslev,Ø_Lone_Nedergaard,Lone Nedergaard,Enhedslisten - De Rød-Grønne,6
+Brønderslev,70,Jerslev,Ø_Annemette_Chemnitz_Eilers,Annemette Chemnitz Eilers,Enhedslisten - De Rød-Grønne,1
+Brønderslev,70,Jerslev,Ø_Mai_Jensen,Mai Jensen,Enhedslisten - De Rød-Grønne,3
+Brønderslev,80,Serritslev,A_Listestemmer,Listestemmer,Socialdemokratiet,25
+Brønderslev,80,Serritslev,"A_Bettina_B._Kjeldsen,_Brønderslev","Bettina B. Kjeldsen, Brønderslev",Socialdemokratiet,62
+Brønderslev,80,Serritslev,"A_Arne_M._Jensen,_Brønderslev","Arne M. Jensen, Brønderslev",Socialdemokratiet,1
+Brønderslev,80,Serritslev,"A_Eskild_Sloth_Andersen,_Hjallerup","Eskild Sloth Andersen, Hjallerup",Socialdemokratiet,0
+Brønderslev,80,Serritslev,"A_Peter_H._S._Kristensen,_Stenum","Peter H. S. Kristensen, Stenum",Socialdemokratiet,5
+Brønderslev,80,Serritslev,"A_Benny_Engelsted_Karlsen,_Dr.lund","Benny Engelsted Karlsen, Dr.lund",Socialdemokratiet,1
+Brønderslev,80,Serritslev,"A_Hildo_Rasmussen,_Asaa","Hildo Rasmussen, Asaa",Socialdemokratiet,0
+Brønderslev,80,Serritslev,"A_Ole_Jespersgaard,_Ø._Brønderslev","Ole Jespersgaard, Ø. Brønderslev",Socialdemokratiet,8
+Brønderslev,80,Serritslev,"A_Ole_Andersen,_Asaa","Ole Andersen, Asaa",Socialdemokratiet,1
+Brønderslev,80,Serritslev,"A_Emilly_Pedersen,_Brønderslev","Emilly Pedersen, Brønderslev",Socialdemokratiet,1
+Brønderslev,80,Serritslev,"A_Christen_Bager,_Dronninglund","Christen Bager, Dronninglund",Socialdemokratiet,0
+Brønderslev,80,Serritslev,"A_Karen_Strandfelt,_Manna-Thise","Karen Strandfelt, Manna-Thise",Socialdemokratiet,0
+Brønderslev,80,Serritslev,"A_Lene_Søndergaard,_Klæstrup-Jerslev","Lene Søndergaard, Klæstrup-Jerslev",Socialdemokratiet,0
+Brønderslev,80,Serritslev,"A_Johannes_Trudslev,_Manna-Thise","Johannes Trudslev, Manna-Thise",Socialdemokratiet,0
+Brønderslev,80,Serritslev,"A_Birger_Thomsen,_Dronninglund","Birger Thomsen, Dronninglund",Socialdemokratiet,1
+Brønderslev,80,Serritslev,"A_Mogens_Stougaard_Karlsen,_Jerslev","Mogens Stougaard Karlsen, Jerslev",Socialdemokratiet,5
+Brønderslev,80,Serritslev,"A_Mathias_Pedersen,_Brønderslev","Mathias Pedersen, Brønderslev",Socialdemokratiet,0
+Brønderslev,80,Serritslev,"A_Jan_Sonne-Schmidt,_Klokkerholm","Jan Sonne-Schmidt, Klokkerholm",Socialdemokratiet,0
+Brønderslev,80,Serritslev,"A_Otto_Bjerre,_Hellum","Otto Bjerre, Hellum",Socialdemokratiet,1
+Brønderslev,80,Serritslev,"A_Lars_Rueskov,_Brønderslev","Lars Rueskov, Brønderslev",Socialdemokratiet,0
+Brønderslev,80,Serritslev,"A_A._Neil_Jacobsen,_Brønderslev","A. Neil Jacobsen, Brønderslev",Socialdemokratiet,0
+Brønderslev,80,Serritslev,"A_Poul_Erik_Andreasen,_Dronninglund","Poul Erik Andreasen, Dronninglund",Socialdemokratiet,0
+Brønderslev,80,Serritslev,"A_Adnan_Jedon,_Brønderslev","Adnan Jedon, Brønderslev",Socialdemokratiet,0
+Brønderslev,80,Serritslev,B_Listestemmer,Listestemmer,Radikale Venstre,1
+Brønderslev,80,Serritslev,"B_Janus_Hove,_Ø._Brønderslev","Janus Hove, Ø. Brønderslev",Radikale Venstre,0
+Brønderslev,80,Serritslev,"B_Dorthe_Kerschus,_Dronninglund","Dorthe Kerschus, Dronninglund",Radikale Venstre,0
+Brønderslev,80,Serritslev,"B_Per_Nielsen,_Brønderslev","Per Nielsen, Brønderslev",Radikale Venstre,1
+Brønderslev,80,Serritslev,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,3
+Brønderslev,80,Serritslev,"C_Peter_Stecher,_Brønderslev","Peter Stecher, Brønderslev",Det Konservative Folkeparti,7
+Brønderslev,80,Serritslev,"C_Mikael_Christensen,_Hjallerup","Mikael Christensen, Hjallerup",Det Konservative Folkeparti,0
+Brønderslev,80,Serritslev,"C_Michael_Peter_Hansen,_Brønderslev","Michael Peter Hansen, Brønderslev",Det Konservative Folkeparti,0
+Brønderslev,80,Serritslev,"C_Stinne_Reng,_Brønderslev","Stinne Reng, Brønderslev",Det Konservative Folkeparti,6
+Brønderslev,80,Serritslev,"C_Janni_Høybye,_Jerslev","Janni Høybye, Jerslev",Det Konservative Folkeparti,4
+Brønderslev,80,Serritslev,"C_Ole_Agger_Hansen,_Brønderslev","Ole Agger Hansen, Brønderslev",Det Konservative Folkeparti,0
+Brønderslev,80,Serritslev,"C_Thomas_Greve_Lund,_Dronninglund","Thomas Greve Lund, Dronninglund",Det Konservative Folkeparti,0
+Brønderslev,80,Serritslev,"C_Jette_Schiønning_Aasholm,Br.slev","Jette Schiønning Aasholm,Br.slev",Det Konservative Folkeparti,0
+Brønderslev,80,Serritslev,"C_Jan_Rønnov,Brønderslev","Jan Rønnov,Brønderslev",Det Konservative Folkeparti,1
+Brønderslev,80,Serritslev,"C_Jan_F.Johansen,_Hjallerup","Jan F.Johansen, Hjallerup",Det Konservative Folkeparti,0
+Brønderslev,80,Serritslev,"C_Karsten_Andreasen,_Dronninglund","Karsten Andreasen, Dronninglund",Det Konservative Folkeparti,0
+Brønderslev,80,Serritslev,"C_Torben_Houge_Nielsen,_Brønderslev","Torben Houge Nielsen, Brønderslev",Det Konservative Folkeparti,0
+Brønderslev,80,Serritslev,D_Listestemmer,Listestemmer,Nye Borgerlige,3
+Brønderslev,80,Serritslev,"D_Lars_E.Sørensen,_Brønderslev","Lars E.Sørensen, Brønderslev",Nye Borgerlige,6
+Brønderslev,80,Serritslev,"D_Idon_Brødbæk,_Dronninglund","Idon Brødbæk, Dronninglund",Nye Borgerlige,4
+Brønderslev,80,Serritslev,"D_Peter_Bonde,_Brønderslev","Peter Bonde, Brønderslev",Nye Borgerlige,4
+Brønderslev,80,Serritslev,"D_Morten_Toft,_Brønderslev","Morten Toft, Brønderslev",Nye Borgerlige,0
+Brønderslev,80,Serritslev,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,5
+Brønderslev,80,Serritslev,"F_Henning_Jørgensen,_Brønderslev","Henning Jørgensen, Brønderslev",SF - Socialistisk Folkeparti,4
+Brønderslev,80,Serritslev,"F_Kristina_P._Johansen,_Jerslev","Kristina P. Johansen, Jerslev",SF - Socialistisk Folkeparti,1
+Brønderslev,80,Serritslev,"F_Kristine_Taagaard,_Brønderslev","Kristine Taagaard, Brønderslev",SF - Socialistisk Folkeparti,1
+Brønderslev,80,Serritslev,"F_Ivan_Johansen,_Jerslev","Ivan Johansen, Jerslev",SF - Socialistisk Folkeparti,1
+Brønderslev,80,Serritslev,"F_Mikkel_Mørk,_Brønderslev","Mikkel Mørk, Brønderslev",SF - Socialistisk Folkeparti,0
+Brønderslev,80,Serritslev,"F_Marie_Brix_Mørk,_Brønderslev","Marie Brix Mørk, Brønderslev",SF - Socialistisk Folkeparti,0
+Brønderslev,80,Serritslev,"F_Jan_Løvenholt,_Flauenskjold","Jan Løvenholt, Flauenskjold",SF - Socialistisk Folkeparti,0
+Brønderslev,80,Serritslev,G_Listestemmer,Listestemmer,Veganerpartiet,0
+Brønderslev,80,Serritslev,G_Uffe_Koch,Uffe Koch,Veganerpartiet,1
+Brønderslev,80,Serritslev,I_Listestemmer,Listestemmer,Liberal Alliance,0
+Brønderslev,80,Serritslev,"I_Hans-Henning_Terp-Hansen,Br.slev","Hans-Henning Terp-Hansen,Br.slev",Liberal Alliance,1
+Brønderslev,80,Serritslev,J_Listestemmer,Listestemmer,Borgerlisten,1
+Brønderslev,80,Serritslev,"J_Steen_Søgaard_Petersen,_Hjallerup","Steen Søgaard Petersen, Hjallerup",Borgerlisten,2
+Brønderslev,80,Serritslev,"J_Simon_Aagaard,_Dronninglund","Simon Aagaard, Dronninglund",Borgerlisten,0
+Brønderslev,80,Serritslev,"J_Marianne_Fristrup,_Hjallerup","Marianne Fristrup, Hjallerup",Borgerlisten,0
+Brønderslev,80,Serritslev,"J_Mette_Greve,_Dronninglund","Mette Greve, Dronninglund",Borgerlisten,0
+Brønderslev,80,Serritslev,"J_Kaj_Styrishave,_Jerslev","Kaj Styrishave, Jerslev",Borgerlisten,0
+Brønderslev,80,Serritslev,"J_Jonna_Holdorf,_Klokkerholm","Jonna Holdorf, Klokkerholm",Borgerlisten,0
+Brønderslev,80,Serritslev,"J_Jakob_Hassingboe,_Agersted","Jakob Hassingboe, Agersted",Borgerlisten,0
+Brønderslev,80,Serritslev,"J_Mogens_Gregersen,_Hjallerup","Mogens Gregersen, Hjallerup",Borgerlisten,0
+Brønderslev,80,Serritslev,K_Listestemmer,Listestemmer,Kristendemokraterne,1
+Brønderslev,80,Serritslev,"K_Knud_Pejstrup,_Hjallerup","Knud Pejstrup, Hjallerup",Kristendemokraterne,2
+Brønderslev,80,Serritslev,"K_Inge_Marie_Sonne,_Brønderslev","Inge Marie Sonne, Brønderslev",Kristendemokraterne,1
+Brønderslev,80,Serritslev,"K_Benjamin_Fossing,_Thise","Benjamin Fossing, Thise",Kristendemokraterne,1
+Brønderslev,80,Serritslev,O_Listestemmer,Listestemmer,Dansk Folkeparti,5
+Brønderslev,80,Serritslev,"O_Carsten_Ullmann_Andersen,_Jerslev","Carsten Ullmann Andersen, Jerslev",Dansk Folkeparti,10
+Brønderslev,80,Serritslev,"O_Danny_Rosenkilde,_Flauenskjold","Danny Rosenkilde, Flauenskjold",Dansk Folkeparti,0
+Brønderslev,80,Serritslev,"O_Jamie_Voldby,_Brønderslev","Jamie Voldby, Brønderslev",Dansk Folkeparti,2
+Brønderslev,80,Serritslev,"O_Ejvind_Aakjær,_Ørsø","Ejvind Aakjær, Ørsø",Dansk Folkeparti,0
+Brønderslev,80,Serritslev,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",12
+Brønderslev,80,Serritslev,"V_Mikael_Klitgaard,_Dronninglund","Mikael Klitgaard, Dronninglund","Venstre, Danmarks Liberale Parti",34
+Brønderslev,80,Serritslev,"V_Mathias_Christensen,_Brønderslev","Mathias Christensen, Brønderslev","Venstre, Danmarks Liberale Parti",6
+Brønderslev,80,Serritslev,"V_Jens_Andersen,_Serritslev","Jens Andersen, Serritslev","Venstre, Danmarks Liberale Parti",184
+Brønderslev,80,Serritslev,"V_Martin_Bech,_Brønderslev","Martin Bech, Brønderslev","Venstre, Danmarks Liberale Parti",4
+Brønderslev,80,Serritslev,"V_Thomas_Bertram,_Jerslev","Thomas Bertram, Jerslev","Venstre, Danmarks Liberale Parti",0
+Brønderslev,80,Serritslev,"V_Peter_Bjerre,_Stenum","Peter Bjerre, Stenum","Venstre, Danmarks Liberale Parti",0
+Brønderslev,80,Serritslev,"V_Svend_Bøgh,_Dronninglund","Svend Bøgh, Dronninglund","Venstre, Danmarks Liberale Parti",0
+Brønderslev,80,Serritslev,"V_Margit_Chemnitz,_Klokkerholm","Margit Chemnitz, Klokkerholm","Venstre, Danmarks Liberale Parti",0
+Brønderslev,80,Serritslev,"V_Søren_Christiansen,_Brønderslev","Søren Christiansen, Brønderslev","Venstre, Danmarks Liberale Parti",2
+Brønderslev,80,Serritslev,"V_Frits_Danielsen,_Dronninglund","Frits Danielsen, Dronninglund","Venstre, Danmarks Liberale Parti",0
+Brønderslev,80,Serritslev,"V_Simon_Eid,_Brønderslev","Simon Eid, Brønderslev","Venstre, Danmarks Liberale Parti",0
+Brønderslev,80,Serritslev,"V_Malene_Fisker,_Brønderslev","Malene Fisker, Brønderslev","Venstre, Danmarks Liberale Parti",1
+Brønderslev,80,Serritslev,"V_H._C._Holst,_Asaa","H. C. Holst, Asaa","Venstre, Danmarks Liberale Parti",0
+Brønderslev,80,Serritslev,"V_Anders_B.Hummelmose,_Brønderslev","Anders B.Hummelmose, Brønderslev","Venstre, Danmarks Liberale Parti",5
+Brønderslev,80,Serritslev,"V_Jacob_Høfler,_Ø._Brønderslev","Jacob Høfler, Ø. Brønderslev","Venstre, Danmarks Liberale Parti",1
+Brønderslev,80,Serritslev,"V_Majbritt_Iversen,_Hallund","Majbritt Iversen, Hallund","Venstre, Danmarks Liberale Parti",2
+Brønderslev,80,Serritslev,"V_Klaus_Riis_Klæstrup,_Brønderslev","Klaus Riis Klæstrup, Brønderslev","Venstre, Danmarks Liberale Parti",1
+Brønderslev,80,Serritslev,"V_Dennis_Kvesel,_Dorf","Dennis Kvesel, Dorf","Venstre, Danmarks Liberale Parti",1
+Brønderslev,80,Serritslev,"V_Winnie_Vest,_Asaa","Winnie Vest, Asaa","Venstre, Danmarks Liberale Parti",0
+Brønderslev,80,Serritslev,"V_Peter_Mølbjerg,_Klokkerholm","Peter Mølbjerg, Klokkerholm","Venstre, Danmarks Liberale Parti",0
+Brønderslev,80,Serritslev,"V_Johnni_Olesen,_Hjallerup","Johnni Olesen, Hjallerup","Venstre, Danmarks Liberale Parti",0
+Brønderslev,80,Serritslev,"V_Knud_L._Pedersen,_Thise","Knud L. Pedersen, Thise","Venstre, Danmarks Liberale Parti",0
+Brønderslev,80,Serritslev,"V_Line_Vanggaard_Pedersen,_Jerslev","Line Vanggaard Pedersen, Jerslev","Venstre, Danmarks Liberale Parti",8
+Brønderslev,80,Serritslev,"V_Lasse_Riisgaard,_Brønderslev","Lasse Riisgaard, Brønderslev","Venstre, Danmarks Liberale Parti",0
+Brønderslev,80,Serritslev,"V_Niels_Vestergaard_Salling,_Jerslev","Niels Vestergaard Salling, Jerslev","Venstre, Danmarks Liberale Parti",6
+Brønderslev,80,Serritslev,"V_Jan_Thaibert,_Agersted","Jan Thaibert, Agersted","Venstre, Danmarks Liberale Parti",0
+Brønderslev,80,Serritslev,"V_Henrik_Toftgaard,_Dronninglund","Henrik Toftgaard, Dronninglund","Venstre, Danmarks Liberale Parti",1
+Brønderslev,80,Serritslev,"V_Nadia_Vest,_Dronninglund","Nadia Vest, Dronninglund","Venstre, Danmarks Liberale Parti",3
+Brønderslev,80,Serritslev,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,4
+Brønderslev,80,Serritslev,Ø_Runa_Friis_Hansen,Runa Friis Hansen,Enhedslisten - De Rød-Grønne,9
+Brønderslev,80,Serritslev,Ø_Christina_Eilers,Christina Eilers,Enhedslisten - De Rød-Grønne,4
+Brønderslev,80,Serritslev,Ø_Lone_Nedergaard,Lone Nedergaard,Enhedslisten - De Rød-Grønne,0
+Brønderslev,80,Serritslev,Ø_Annemette_Chemnitz_Eilers,Annemette Chemnitz Eilers,Enhedslisten - De Rød-Grønne,0
+Brønderslev,80,Serritslev,Ø_Mai_Jensen,Mai Jensen,Enhedslisten - De Rød-Grønne,1

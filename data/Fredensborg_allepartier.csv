@@ -1,0 +1,785 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Fredensborg,1,Asminderød,A_Listestemmer,Listestemmer,Socialdemokratiet,231
+Fredensborg,1,Asminderød,"A_Thomas_Lykke_Pedersen,_Humlebæk","Thomas Lykke Pedersen, Humlebæk",Socialdemokratiet,218
+Fredensborg,1,Asminderød,"A_Per_Frost_Henriksen,_Fredensborg","Per Frost Henriksen, Fredensborg",Socialdemokratiet,52
+Fredensborg,1,Asminderød,"A_Louise_Mehnke,_Kokkedal","Louise Mehnke, Kokkedal",Socialdemokratiet,44
+Fredensborg,1,Asminderød,"A_Hans_Nissen,_Humlebæk","Hans Nissen, Humlebæk",Socialdemokratiet,37
+Fredensborg,1,Asminderød,"A_Vivian_Johnsen,_Kokkedal","Vivian Johnsen, Kokkedal",Socialdemokratiet,10
+Fredensborg,1,Asminderød,"A_Sarah_Lykke,_Humlebæk","Sarah Lykke, Humlebæk",Socialdemokratiet,16
+Fredensborg,1,Asminderød,"A_Carsten_Nielsen,_Humlebæk","Carsten Nielsen, Humlebæk",Socialdemokratiet,5
+Fredensborg,1,Asminderød,"A_Pia_Bødtker,_Nivå","Pia Bødtker, Nivå",Socialdemokratiet,6
+Fredensborg,1,Asminderød,"A_Charlotte_Sander,_Fredensborg","Charlotte Sander, Fredensborg",Socialdemokratiet,230
+Fredensborg,1,Asminderød,"A_Mette_Hoff,_Fredensborg","Mette Hoff, Fredensborg",Socialdemokratiet,49
+Fredensborg,1,Asminderød,"A_Benn_Gandløse_Vestergaard,_Nivå","Benn Gandløse Vestergaard, Nivå",Socialdemokratiet,1
+Fredensborg,1,Asminderød,"A_Cømert_Sonsuz,_Nivå","Cømert Sonsuz, Nivå",Socialdemokratiet,5
+Fredensborg,1,Asminderød,"A_Ergin_Øzer,_Kokkedal","Ergin Øzer, Kokkedal",Socialdemokratiet,6
+Fredensborg,1,Asminderød,"A_Suzan_Daoud,_Kokkedal","Suzan Daoud, Kokkedal",Socialdemokratiet,15
+Fredensborg,1,Asminderød,"A_Steffen_Bjerre,_Nivå","Steffen Bjerre, Nivå",Socialdemokratiet,1
+Fredensborg,1,Asminderød,"A_Frederik_Lisemose,_Fredensborg","Frederik Lisemose, Fredensborg",Socialdemokratiet,28
+Fredensborg,1,Asminderød,"A_Hossein_Armandi,_Kokkedal","Hossein Armandi, Kokkedal",Socialdemokratiet,6
+Fredensborg,1,Asminderød,"A_Michael_Karby_Bakhauge,_Humlebæk","Michael Karby Bakhauge, Humlebæk",Socialdemokratiet,4
+Fredensborg,1,Asminderød,"A_Dorte_Beyer_Nielsen,_Kokkedal","Dorte Beyer Nielsen, Kokkedal",Socialdemokratiet,0
+Fredensborg,1,Asminderød,"A_Rasmus_Meyer,_Humlebæk","Rasmus Meyer, Humlebæk",Socialdemokratiet,0
+Fredensborg,1,Asminderød,B_Listestemmer,Listestemmer,Radikale Venstre,80
+Fredensborg,1,Asminderød,B_Lars_Simonsen,Lars Simonsen,Radikale Venstre,26
+Fredensborg,1,Asminderød,B_Bettina_Bové,Bettina Bové,Radikale Venstre,29
+Fredensborg,1,Asminderød,B_Soma_Mayel,Soma Mayel,Radikale Venstre,55
+Fredensborg,1,Asminderød,B_Jens_Thorup_Bindzus,Jens Thorup Bindzus,Radikale Venstre,5
+Fredensborg,1,Asminderød,B_Marianne_Bredgaard_Karlsson,Marianne Bredgaard Karlsson,Radikale Venstre,74
+Fredensborg,1,Asminderød,B_Rasmus_Langskov,Rasmus Langskov,Radikale Venstre,21
+Fredensborg,1,Asminderød,B_Marie_Louise_Wittenkamp,Marie Louise Wittenkamp,Radikale Venstre,23
+Fredensborg,1,Asminderød,B_Mikkel_Senna_Odoom,Mikkel Senna Odoom,Radikale Venstre,21
+Fredensborg,1,Asminderød,B_Anne_Seitz_Christoffersen,Anne Seitz Christoffersen,Radikale Venstre,6
+Fredensborg,1,Asminderød,B_Thomas_Bruun_Olsen,Thomas Bruun Olsen,Radikale Venstre,0
+Fredensborg,1,Asminderød,B_Gorm_Tortzen,Gorm Tortzen,Radikale Venstre,1
+Fredensborg,1,Asminderød,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,249
+Fredensborg,1,Asminderød,"C_Jesper_Tvilde,_Nivå","Jesper Tvilde, Nivå",Det Konservative Folkeparti,100
+Fredensborg,1,Asminderød,"C_Ulla_Hardy-Hansen,_Fredensborg","Ulla Hardy-Hansen, Fredensborg",Det Konservative Folkeparti,237
+Fredensborg,1,Asminderød,"C_Thomas_von_Jessen,_Nivå","Thomas von Jessen, Nivå",Det Konservative Folkeparti,13
+Fredensborg,1,Asminderød,"C_Heidi_Boss_Nyby,_Nivå","Heidi Boss Nyby, Nivå",Det Konservative Folkeparti,33
+Fredensborg,1,Asminderød,"C_Christian_de_Jonquiéres,Fredensbor","Christian de Jonquiéres,Fredensbor",Det Konservative Folkeparti,88
+Fredensborg,1,Asminderød,"C_Morten_Hubenbecker_Poulsen,_Nivå","Morten Hubenbecker Poulsen, Nivå",Det Konservative Folkeparti,4
+Fredensborg,1,Asminderød,"C_Celine_Lind_Jakobsen,_Kokkedal","Celine Lind Jakobsen, Kokkedal",Det Konservative Folkeparti,43
+Fredensborg,1,Asminderød,"C_Jeppe_K._Lilholt,_Nivå","Jeppe K. Lilholt, Nivå",Det Konservative Folkeparti,2
+Fredensborg,1,Asminderød,"C_Mikkel_Dodt_Fregerslev,_Humlebæk","Mikkel Dodt Fregerslev, Humlebæk",Det Konservative Folkeparti,22
+Fredensborg,1,Asminderød,"C_Mikkel_Hartwich,_Humlebæk","Mikkel Hartwich, Humlebæk",Det Konservative Folkeparti,21
+Fredensborg,1,Asminderød,"C_Michael_Huusom,_Kokkedal","Michael Huusom, Kokkedal",Det Konservative Folkeparti,27
+Fredensborg,1,Asminderød,"C_Mikael_Wendelboe,_Nivå","Mikael Wendelboe, Nivå",Det Konservative Folkeparti,2
+Fredensborg,1,Asminderød,"C_Henrik_Littau_Mærsk,_Fredensborg","Henrik Littau Mærsk, Fredensborg",Det Konservative Folkeparti,96
+Fredensborg,1,Asminderød,"C_Mette_Nørtoft,_Humlebæk","Mette Nørtoft, Humlebæk",Det Konservative Folkeparti,14
+Fredensborg,1,Asminderød,D_Listestemmer,Listestemmer,Nye Borgerlige,73
+Fredensborg,1,Asminderød,"D_Steen_Løfstrøm,_Humlebæk","Steen Løfstrøm, Humlebæk",Nye Borgerlige,56
+Fredensborg,1,Asminderød,"D_Kaspar_Hemmingsen,_Fredensborg","Kaspar Hemmingsen, Fredensborg",Nye Borgerlige,26
+Fredensborg,1,Asminderød,"D_Søren_Regenberg,_Fredensborg","Søren Regenberg, Fredensborg",Nye Borgerlige,29
+Fredensborg,1,Asminderød,"D_Jesper_Hammer,_Fredensborg","Jesper Hammer, Fredensborg",Nye Borgerlige,33
+Fredensborg,1,Asminderød,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,75
+Fredensborg,1,Asminderød,F_Hanne_Berg,Hanne Berg,SF - Socialistisk Folkeparti,102
+Fredensborg,1,Asminderød,F_Bent_Fischer-Nielsen,Bent Fischer-Nielsen,SF - Socialistisk Folkeparti,18
+Fredensborg,1,Asminderød,F_Sune_Hybert,Sune Hybert,SF - Socialistisk Folkeparti,7
+Fredensborg,1,Asminderød,F_Torben_Forskov,Torben Forskov,SF - Socialistisk Folkeparti,6
+Fredensborg,1,Asminderød,F_Pia_Jespersen,Pia Jespersen,SF - Socialistisk Folkeparti,10
+Fredensborg,1,Asminderød,F_Anders_Jensen,Anders Jensen,SF - Socialistisk Folkeparti,1
+Fredensborg,1,Asminderød,F_Berit_K._Holtegaard,Berit K. Holtegaard,SF - Socialistisk Folkeparti,0
+Fredensborg,1,Asminderød,I_Listestemmer,Listestemmer,Liberal Alliance,25
+Fredensborg,1,Asminderød,I_Charlotte_Bie,Charlotte Bie,Liberal Alliance,45
+Fredensborg,1,Asminderød,I_Morten_Tranborg,Morten Tranborg,Liberal Alliance,20
+Fredensborg,1,Asminderød,K_Listestemmer,Listestemmer,Kristendemokraterne,5
+Fredensborg,1,Asminderød,K_Peter_Vest,Peter Vest,Kristendemokraterne,8
+Fredensborg,1,Asminderød,K_Britta_Kristensen,Britta Kristensen,Kristendemokraterne,6
+Fredensborg,1,Asminderød,M_Listestemmer,Listestemmer,Marie Mynche,2
+Fredensborg,1,Asminderød,M_Marie_Mynche,Marie Mynche,Marie Mynche,2
+Fredensborg,1,Asminderød,O_Listestemmer,Listestemmer,Dansk Folkeparti,51
+Fredensborg,1,Asminderød,O_Tanja_Quade_Madsen,Tanja Quade Madsen,Dansk Folkeparti,43
+Fredensborg,1,Asminderød,O_Kenneth_Hillestrøm,Kenneth Hillestrøm,Dansk Folkeparti,8
+Fredensborg,1,Asminderød,O_Flemming_Rømer,Flemming Rømer,Dansk Folkeparti,17
+Fredensborg,1,Asminderød,O_Kristian_Klitgaard,Kristian Klitgaard,Dansk Folkeparti,5
+Fredensborg,1,Asminderød,O_Kim_E._Jensen,Kim E. Jensen,Dansk Folkeparti,1
+Fredensborg,1,Asminderød,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",152
+Fredensborg,1,Asminderød,V_Lars_Søndergaard,Lars Søndergaard,"Venstre, Danmarks Liberale Parti",59
+Fredensborg,1,Asminderød,V_Mie_Stattau,Mie Stattau,"Venstre, Danmarks Liberale Parti",59
+Fredensborg,1,Asminderød,V_Tinne_Borch_Jacobsen,Tinne Borch Jacobsen,"Venstre, Danmarks Liberale Parti",107
+Fredensborg,1,Asminderød,V_Kristian_Tanderup,Kristian Tanderup,"Venstre, Danmarks Liberale Parti",6
+Fredensborg,1,Asminderød,V_Laura_Mortensen,Laura Mortensen,"Venstre, Danmarks Liberale Parti",24
+Fredensborg,1,Asminderød,V_Thomas_Elgaard,Thomas Elgaard,"Venstre, Danmarks Liberale Parti",14
+Fredensborg,1,Asminderød,V_Carsten_Wulff,Carsten Wulff,"Venstre, Danmarks Liberale Parti",84
+Fredensborg,1,Asminderød,V_Carsten_Bo_Nielsen,Carsten Bo Nielsen,"Venstre, Danmarks Liberale Parti",52
+Fredensborg,1,Asminderød,V_Lars_Egedal,Lars Egedal,"Venstre, Danmarks Liberale Parti",12
+Fredensborg,1,Asminderød,V_Jacob_Simonsen,Jacob Simonsen,"Venstre, Danmarks Liberale Parti",2
+Fredensborg,1,Asminderød,V_Charlotte_Kirkegaard,Charlotte Kirkegaard,"Venstre, Danmarks Liberale Parti",3
+Fredensborg,1,Asminderød,V_Inge_Fiil_Poulsen,Inge Fiil Poulsen,"Venstre, Danmarks Liberale Parti",16
+Fredensborg,1,Asminderød,V_Per_Askestad,Per Askestad,"Venstre, Danmarks Liberale Parti",42
+Fredensborg,1,Asminderød,V_Preben_Goth,Preben Goth,"Venstre, Danmarks Liberale Parti",2
+Fredensborg,1,Asminderød,V_Claus_Hassing,Claus Hassing,"Venstre, Danmarks Liberale Parti",0
+Fredensborg,1,Asminderød,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,41
+Fredensborg,1,Asminderød,"Ø_Bjørn_Svensson,_Fredensborg","Bjørn Svensson, Fredensborg",Enhedslisten - De Rød-Grønne,25
+Fredensborg,1,Asminderød,"Ø_Sussi_Jensen,_Humlebæk","Sussi Jensen, Humlebæk",Enhedslisten - De Rød-Grønne,11
+Fredensborg,1,Asminderød,"Ø_Brian_Højgaard,_Fredensborg","Brian Højgaard, Fredensborg",Enhedslisten - De Rød-Grønne,5
+Fredensborg,1,Asminderød,"Ø_Christian_von_Platen,_Nivå","Christian von Platen, Nivå",Enhedslisten - De Rød-Grønne,0
+Fredensborg,1,Asminderød,Å_Listestemmer,Listestemmer,Alternativet,7
+Fredensborg,1,Asminderød,"Å_Sidsel_Dyekjær,_Humlebæk","Sidsel Dyekjær, Humlebæk",Alternativet,19
+Fredensborg,2,Fredensborg,A_Listestemmer,Listestemmer,Socialdemokratiet,116
+Fredensborg,2,Fredensborg,"A_Thomas_Lykke_Pedersen,_Humlebæk","Thomas Lykke Pedersen, Humlebæk",Socialdemokratiet,155
+Fredensborg,2,Fredensborg,"A_Per_Frost_Henriksen,_Fredensborg","Per Frost Henriksen, Fredensborg",Socialdemokratiet,57
+Fredensborg,2,Fredensborg,"A_Louise_Mehnke,_Kokkedal","Louise Mehnke, Kokkedal",Socialdemokratiet,15
+Fredensborg,2,Fredensborg,"A_Hans_Nissen,_Humlebæk","Hans Nissen, Humlebæk",Socialdemokratiet,15
+Fredensborg,2,Fredensborg,"A_Vivian_Johnsen,_Kokkedal","Vivian Johnsen, Kokkedal",Socialdemokratiet,3
+Fredensborg,2,Fredensborg,"A_Sarah_Lykke,_Humlebæk","Sarah Lykke, Humlebæk",Socialdemokratiet,10
+Fredensborg,2,Fredensborg,"A_Carsten_Nielsen,_Humlebæk","Carsten Nielsen, Humlebæk",Socialdemokratiet,13
+Fredensborg,2,Fredensborg,"A_Pia_Bødtker,_Nivå","Pia Bødtker, Nivå",Socialdemokratiet,2
+Fredensborg,2,Fredensborg,"A_Charlotte_Sander,_Fredensborg","Charlotte Sander, Fredensborg",Socialdemokratiet,78
+Fredensborg,2,Fredensborg,"A_Mette_Hoff,_Fredensborg","Mette Hoff, Fredensborg",Socialdemokratiet,14
+Fredensborg,2,Fredensborg,"A_Benn_Gandløse_Vestergaard,_Nivå","Benn Gandløse Vestergaard, Nivå",Socialdemokratiet,0
+Fredensborg,2,Fredensborg,"A_Cømert_Sonsuz,_Nivå","Cømert Sonsuz, Nivå",Socialdemokratiet,5
+Fredensborg,2,Fredensborg,"A_Ergin_Øzer,_Kokkedal","Ergin Øzer, Kokkedal",Socialdemokratiet,0
+Fredensborg,2,Fredensborg,"A_Suzan_Daoud,_Kokkedal","Suzan Daoud, Kokkedal",Socialdemokratiet,4
+Fredensborg,2,Fredensborg,"A_Steffen_Bjerre,_Nivå","Steffen Bjerre, Nivå",Socialdemokratiet,1
+Fredensborg,2,Fredensborg,"A_Frederik_Lisemose,_Fredensborg","Frederik Lisemose, Fredensborg",Socialdemokratiet,25
+Fredensborg,2,Fredensborg,"A_Hossein_Armandi,_Kokkedal","Hossein Armandi, Kokkedal",Socialdemokratiet,5
+Fredensborg,2,Fredensborg,"A_Michael_Karby_Bakhauge,_Humlebæk","Michael Karby Bakhauge, Humlebæk",Socialdemokratiet,3
+Fredensborg,2,Fredensborg,"A_Dorte_Beyer_Nielsen,_Kokkedal","Dorte Beyer Nielsen, Kokkedal",Socialdemokratiet,5
+Fredensborg,2,Fredensborg,"A_Rasmus_Meyer,_Humlebæk","Rasmus Meyer, Humlebæk",Socialdemokratiet,1
+Fredensborg,2,Fredensborg,B_Listestemmer,Listestemmer,Radikale Venstre,75
+Fredensborg,2,Fredensborg,B_Lars_Simonsen,Lars Simonsen,Radikale Venstre,34
+Fredensborg,2,Fredensborg,B_Bettina_Bové,Bettina Bové,Radikale Venstre,40
+Fredensborg,2,Fredensborg,B_Soma_Mayel,Soma Mayel,Radikale Venstre,42
+Fredensborg,2,Fredensborg,B_Jens_Thorup_Bindzus,Jens Thorup Bindzus,Radikale Venstre,4
+Fredensborg,2,Fredensborg,B_Marianne_Bredgaard_Karlsson,Marianne Bredgaard Karlsson,Radikale Venstre,40
+Fredensborg,2,Fredensborg,B_Rasmus_Langskov,Rasmus Langskov,Radikale Venstre,26
+Fredensborg,2,Fredensborg,B_Marie_Louise_Wittenkamp,Marie Louise Wittenkamp,Radikale Venstre,23
+Fredensborg,2,Fredensborg,B_Mikkel_Senna_Odoom,Mikkel Senna Odoom,Radikale Venstre,29
+Fredensborg,2,Fredensborg,B_Anne_Seitz_Christoffersen,Anne Seitz Christoffersen,Radikale Venstre,9
+Fredensborg,2,Fredensborg,B_Thomas_Bruun_Olsen,Thomas Bruun Olsen,Radikale Venstre,0
+Fredensborg,2,Fredensborg,B_Gorm_Tortzen,Gorm Tortzen,Radikale Venstre,36
+Fredensborg,2,Fredensborg,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,182
+Fredensborg,2,Fredensborg,"C_Jesper_Tvilde,_Nivå","Jesper Tvilde, Nivå",Det Konservative Folkeparti,68
+Fredensborg,2,Fredensborg,"C_Ulla_Hardy-Hansen,_Fredensborg","Ulla Hardy-Hansen, Fredensborg",Det Konservative Folkeparti,225
+Fredensborg,2,Fredensborg,"C_Thomas_von_Jessen,_Nivå","Thomas von Jessen, Nivå",Det Konservative Folkeparti,19
+Fredensborg,2,Fredensborg,"C_Heidi_Boss_Nyby,_Nivå","Heidi Boss Nyby, Nivå",Det Konservative Folkeparti,28
+Fredensborg,2,Fredensborg,"C_Christian_de_Jonquiéres,Fredensbor","Christian de Jonquiéres,Fredensbor",Det Konservative Folkeparti,134
+Fredensborg,2,Fredensborg,"C_Morten_Hubenbecker_Poulsen,_Nivå","Morten Hubenbecker Poulsen, Nivå",Det Konservative Folkeparti,4
+Fredensborg,2,Fredensborg,"C_Celine_Lind_Jakobsen,_Kokkedal","Celine Lind Jakobsen, Kokkedal",Det Konservative Folkeparti,23
+Fredensborg,2,Fredensborg,"C_Jeppe_K._Lilholt,_Nivå","Jeppe K. Lilholt, Nivå",Det Konservative Folkeparti,1
+Fredensborg,2,Fredensborg,"C_Mikkel_Dodt_Fregerslev,_Humlebæk","Mikkel Dodt Fregerslev, Humlebæk",Det Konservative Folkeparti,20
+Fredensborg,2,Fredensborg,"C_Mikkel_Hartwich,_Humlebæk","Mikkel Hartwich, Humlebæk",Det Konservative Folkeparti,7
+Fredensborg,2,Fredensborg,"C_Michael_Huusom,_Kokkedal","Michael Huusom, Kokkedal",Det Konservative Folkeparti,23
+Fredensborg,2,Fredensborg,"C_Mikael_Wendelboe,_Nivå","Mikael Wendelboe, Nivå",Det Konservative Folkeparti,2
+Fredensborg,2,Fredensborg,"C_Henrik_Littau_Mærsk,_Fredensborg","Henrik Littau Mærsk, Fredensborg",Det Konservative Folkeparti,44
+Fredensborg,2,Fredensborg,"C_Mette_Nørtoft,_Humlebæk","Mette Nørtoft, Humlebæk",Det Konservative Folkeparti,8
+Fredensborg,2,Fredensborg,D_Listestemmer,Listestemmer,Nye Borgerlige,47
+Fredensborg,2,Fredensborg,"D_Steen_Løfstrøm,_Humlebæk","Steen Løfstrøm, Humlebæk",Nye Borgerlige,27
+Fredensborg,2,Fredensborg,"D_Kaspar_Hemmingsen,_Fredensborg","Kaspar Hemmingsen, Fredensborg",Nye Borgerlige,15
+Fredensborg,2,Fredensborg,"D_Søren_Regenberg,_Fredensborg","Søren Regenberg, Fredensborg",Nye Borgerlige,16
+Fredensborg,2,Fredensborg,"D_Jesper_Hammer,_Fredensborg","Jesper Hammer, Fredensborg",Nye Borgerlige,23
+Fredensborg,2,Fredensborg,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,58
+Fredensborg,2,Fredensborg,F_Hanne_Berg,Hanne Berg,SF - Socialistisk Folkeparti,93
+Fredensborg,2,Fredensborg,F_Bent_Fischer-Nielsen,Bent Fischer-Nielsen,SF - Socialistisk Folkeparti,7
+Fredensborg,2,Fredensborg,F_Sune_Hybert,Sune Hybert,SF - Socialistisk Folkeparti,7
+Fredensborg,2,Fredensborg,F_Torben_Forskov,Torben Forskov,SF - Socialistisk Folkeparti,3
+Fredensborg,2,Fredensborg,F_Pia_Jespersen,Pia Jespersen,SF - Socialistisk Folkeparti,10
+Fredensborg,2,Fredensborg,F_Anders_Jensen,Anders Jensen,SF - Socialistisk Folkeparti,0
+Fredensborg,2,Fredensborg,F_Berit_K._Holtegaard,Berit K. Holtegaard,SF - Socialistisk Folkeparti,1
+Fredensborg,2,Fredensborg,I_Listestemmer,Listestemmer,Liberal Alliance,25
+Fredensborg,2,Fredensborg,I_Charlotte_Bie,Charlotte Bie,Liberal Alliance,20
+Fredensborg,2,Fredensborg,I_Morten_Tranborg,Morten Tranborg,Liberal Alliance,8
+Fredensborg,2,Fredensborg,K_Listestemmer,Listestemmer,Kristendemokraterne,2
+Fredensborg,2,Fredensborg,K_Peter_Vest,Peter Vest,Kristendemokraterne,5
+Fredensborg,2,Fredensborg,K_Britta_Kristensen,Britta Kristensen,Kristendemokraterne,1
+Fredensborg,2,Fredensborg,M_Listestemmer,Listestemmer,Marie Mynche,1
+Fredensborg,2,Fredensborg,M_Marie_Mynche,Marie Mynche,Marie Mynche,2
+Fredensborg,2,Fredensborg,O_Listestemmer,Listestemmer,Dansk Folkeparti,15
+Fredensborg,2,Fredensborg,O_Tanja_Quade_Madsen,Tanja Quade Madsen,Dansk Folkeparti,10
+Fredensborg,2,Fredensborg,O_Kenneth_Hillestrøm,Kenneth Hillestrøm,Dansk Folkeparti,1
+Fredensborg,2,Fredensborg,O_Flemming_Rømer,Flemming Rømer,Dansk Folkeparti,4
+Fredensborg,2,Fredensborg,O_Kristian_Klitgaard,Kristian Klitgaard,Dansk Folkeparti,2
+Fredensborg,2,Fredensborg,O_Kim_E._Jensen,Kim E. Jensen,Dansk Folkeparti,1
+Fredensborg,2,Fredensborg,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",114
+Fredensborg,2,Fredensborg,V_Lars_Søndergaard,Lars Søndergaard,"Venstre, Danmarks Liberale Parti",47
+Fredensborg,2,Fredensborg,V_Mie_Stattau,Mie Stattau,"Venstre, Danmarks Liberale Parti",49
+Fredensborg,2,Fredensborg,V_Tinne_Borch_Jacobsen,Tinne Borch Jacobsen,"Venstre, Danmarks Liberale Parti",195
+Fredensborg,2,Fredensborg,V_Kristian_Tanderup,Kristian Tanderup,"Venstre, Danmarks Liberale Parti",1
+Fredensborg,2,Fredensborg,V_Laura_Mortensen,Laura Mortensen,"Venstre, Danmarks Liberale Parti",13
+Fredensborg,2,Fredensborg,V_Thomas_Elgaard,Thomas Elgaard,"Venstre, Danmarks Liberale Parti",5
+Fredensborg,2,Fredensborg,V_Carsten_Wulff,Carsten Wulff,"Venstre, Danmarks Liberale Parti",31
+Fredensborg,2,Fredensborg,V_Carsten_Bo_Nielsen,Carsten Bo Nielsen,"Venstre, Danmarks Liberale Parti",26
+Fredensborg,2,Fredensborg,V_Lars_Egedal,Lars Egedal,"Venstre, Danmarks Liberale Parti",1
+Fredensborg,2,Fredensborg,V_Jacob_Simonsen,Jacob Simonsen,"Venstre, Danmarks Liberale Parti",2
+Fredensborg,2,Fredensborg,V_Charlotte_Kirkegaard,Charlotte Kirkegaard,"Venstre, Danmarks Liberale Parti",1
+Fredensborg,2,Fredensborg,V_Inge_Fiil_Poulsen,Inge Fiil Poulsen,"Venstre, Danmarks Liberale Parti",10
+Fredensborg,2,Fredensborg,V_Per_Askestad,Per Askestad,"Venstre, Danmarks Liberale Parti",69
+Fredensborg,2,Fredensborg,V_Preben_Goth,Preben Goth,"Venstre, Danmarks Liberale Parti",1
+Fredensborg,2,Fredensborg,V_Claus_Hassing,Claus Hassing,"Venstre, Danmarks Liberale Parti",0
+Fredensborg,2,Fredensborg,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,26
+Fredensborg,2,Fredensborg,"Ø_Bjørn_Svensson,_Fredensborg","Bjørn Svensson, Fredensborg",Enhedslisten - De Rød-Grønne,18
+Fredensborg,2,Fredensborg,"Ø_Sussi_Jensen,_Humlebæk","Sussi Jensen, Humlebæk",Enhedslisten - De Rød-Grønne,9
+Fredensborg,2,Fredensborg,"Ø_Brian_Højgaard,_Fredensborg","Brian Højgaard, Fredensborg",Enhedslisten - De Rød-Grønne,3
+Fredensborg,2,Fredensborg,"Ø_Christian_von_Platen,_Nivå","Christian von Platen, Nivå",Enhedslisten - De Rød-Grønne,0
+Fredensborg,2,Fredensborg,Å_Listestemmer,Listestemmer,Alternativet,11
+Fredensborg,2,Fredensborg,"Å_Sidsel_Dyekjær,_Humlebæk","Sidsel Dyekjær, Humlebæk",Alternativet,15
+Fredensborg,3,Humlebæk,A_Listestemmer,Listestemmer,Socialdemokratiet,109
+Fredensborg,3,Humlebæk,"A_Thomas_Lykke_Pedersen,_Humlebæk","Thomas Lykke Pedersen, Humlebæk",Socialdemokratiet,194
+Fredensborg,3,Humlebæk,"A_Per_Frost_Henriksen,_Fredensborg","Per Frost Henriksen, Fredensborg",Socialdemokratiet,23
+Fredensborg,3,Humlebæk,"A_Louise_Mehnke,_Kokkedal","Louise Mehnke, Kokkedal",Socialdemokratiet,14
+Fredensborg,3,Humlebæk,"A_Hans_Nissen,_Humlebæk","Hans Nissen, Humlebæk",Socialdemokratiet,49
+Fredensborg,3,Humlebæk,"A_Vivian_Johnsen,_Kokkedal","Vivian Johnsen, Kokkedal",Socialdemokratiet,6
+Fredensborg,3,Humlebæk,"A_Sarah_Lykke,_Humlebæk","Sarah Lykke, Humlebæk",Socialdemokratiet,54
+Fredensborg,3,Humlebæk,"A_Carsten_Nielsen,_Humlebæk","Carsten Nielsen, Humlebæk",Socialdemokratiet,123
+Fredensborg,3,Humlebæk,"A_Pia_Bødtker,_Nivå","Pia Bødtker, Nivå",Socialdemokratiet,5
+Fredensborg,3,Humlebæk,"A_Charlotte_Sander,_Fredensborg","Charlotte Sander, Fredensborg",Socialdemokratiet,4
+Fredensborg,3,Humlebæk,"A_Mette_Hoff,_Fredensborg","Mette Hoff, Fredensborg",Socialdemokratiet,7
+Fredensborg,3,Humlebæk,"A_Benn_Gandløse_Vestergaard,_Nivå","Benn Gandløse Vestergaard, Nivå",Socialdemokratiet,0
+Fredensborg,3,Humlebæk,"A_Cømert_Sonsuz,_Nivå","Cømert Sonsuz, Nivå",Socialdemokratiet,5
+Fredensborg,3,Humlebæk,"A_Ergin_Øzer,_Kokkedal","Ergin Øzer, Kokkedal",Socialdemokratiet,7
+Fredensborg,3,Humlebæk,"A_Suzan_Daoud,_Kokkedal","Suzan Daoud, Kokkedal",Socialdemokratiet,15
+Fredensborg,3,Humlebæk,"A_Steffen_Bjerre,_Nivå","Steffen Bjerre, Nivå",Socialdemokratiet,0
+Fredensborg,3,Humlebæk,"A_Frederik_Lisemose,_Fredensborg","Frederik Lisemose, Fredensborg",Socialdemokratiet,1
+Fredensborg,3,Humlebæk,"A_Hossein_Armandi,_Kokkedal","Hossein Armandi, Kokkedal",Socialdemokratiet,5
+Fredensborg,3,Humlebæk,"A_Michael_Karby_Bakhauge,_Humlebæk","Michael Karby Bakhauge, Humlebæk",Socialdemokratiet,6
+Fredensborg,3,Humlebæk,"A_Dorte_Beyer_Nielsen,_Kokkedal","Dorte Beyer Nielsen, Kokkedal",Socialdemokratiet,1
+Fredensborg,3,Humlebæk,"A_Rasmus_Meyer,_Humlebæk","Rasmus Meyer, Humlebæk",Socialdemokratiet,2
+Fredensborg,3,Humlebæk,B_Listestemmer,Listestemmer,Radikale Venstre,60
+Fredensborg,3,Humlebæk,B_Lars_Simonsen,Lars Simonsen,Radikale Venstre,93
+Fredensborg,3,Humlebæk,B_Bettina_Bové,Bettina Bové,Radikale Venstre,121
+Fredensborg,3,Humlebæk,B_Soma_Mayel,Soma Mayel,Radikale Venstre,125
+Fredensborg,3,Humlebæk,B_Jens_Thorup_Bindzus,Jens Thorup Bindzus,Radikale Venstre,6
+Fredensborg,3,Humlebæk,B_Marianne_Bredgaard_Karlsson,Marianne Bredgaard Karlsson,Radikale Venstre,27
+Fredensborg,3,Humlebæk,B_Rasmus_Langskov,Rasmus Langskov,Radikale Venstre,11
+Fredensborg,3,Humlebæk,B_Marie_Louise_Wittenkamp,Marie Louise Wittenkamp,Radikale Venstre,21
+Fredensborg,3,Humlebæk,B_Mikkel_Senna_Odoom,Mikkel Senna Odoom,Radikale Venstre,5
+Fredensborg,3,Humlebæk,B_Anne_Seitz_Christoffersen,Anne Seitz Christoffersen,Radikale Venstre,6
+Fredensborg,3,Humlebæk,B_Thomas_Bruun_Olsen,Thomas Bruun Olsen,Radikale Venstre,0
+Fredensborg,3,Humlebæk,B_Gorm_Tortzen,Gorm Tortzen,Radikale Venstre,2
+Fredensborg,3,Humlebæk,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,169
+Fredensborg,3,Humlebæk,"C_Jesper_Tvilde,_Nivå","Jesper Tvilde, Nivå",Det Konservative Folkeparti,86
+Fredensborg,3,Humlebæk,"C_Ulla_Hardy-Hansen,_Fredensborg","Ulla Hardy-Hansen, Fredensborg",Det Konservative Folkeparti,67
+Fredensborg,3,Humlebæk,"C_Thomas_von_Jessen,_Nivå","Thomas von Jessen, Nivå",Det Konservative Folkeparti,17
+Fredensborg,3,Humlebæk,"C_Heidi_Boss_Nyby,_Nivå","Heidi Boss Nyby, Nivå",Det Konservative Folkeparti,86
+Fredensborg,3,Humlebæk,"C_Christian_de_Jonquiéres,Fredensbor","Christian de Jonquiéres,Fredensbor",Det Konservative Folkeparti,12
+Fredensborg,3,Humlebæk,"C_Morten_Hubenbecker_Poulsen,_Nivå","Morten Hubenbecker Poulsen, Nivå",Det Konservative Folkeparti,6
+Fredensborg,3,Humlebæk,"C_Celine_Lind_Jakobsen,_Kokkedal","Celine Lind Jakobsen, Kokkedal",Det Konservative Folkeparti,12
+Fredensborg,3,Humlebæk,"C_Jeppe_K._Lilholt,_Nivå","Jeppe K. Lilholt, Nivå",Det Konservative Folkeparti,3
+Fredensborg,3,Humlebæk,"C_Mikkel_Dodt_Fregerslev,_Humlebæk","Mikkel Dodt Fregerslev, Humlebæk",Det Konservative Folkeparti,54
+Fredensborg,3,Humlebæk,"C_Mikkel_Hartwich,_Humlebæk","Mikkel Hartwich, Humlebæk",Det Konservative Folkeparti,42
+Fredensborg,3,Humlebæk,"C_Michael_Huusom,_Kokkedal","Michael Huusom, Kokkedal",Det Konservative Folkeparti,10
+Fredensborg,3,Humlebæk,"C_Mikael_Wendelboe,_Nivå","Mikael Wendelboe, Nivå",Det Konservative Folkeparti,2
+Fredensborg,3,Humlebæk,"C_Henrik_Littau_Mærsk,_Fredensborg","Henrik Littau Mærsk, Fredensborg",Det Konservative Folkeparti,9
+Fredensborg,3,Humlebæk,"C_Mette_Nørtoft,_Humlebæk","Mette Nørtoft, Humlebæk",Det Konservative Folkeparti,39
+Fredensborg,3,Humlebæk,D_Listestemmer,Listestemmer,Nye Borgerlige,38
+Fredensborg,3,Humlebæk,"D_Steen_Løfstrøm,_Humlebæk","Steen Løfstrøm, Humlebæk",Nye Borgerlige,52
+Fredensborg,3,Humlebæk,"D_Kaspar_Hemmingsen,_Fredensborg","Kaspar Hemmingsen, Fredensborg",Nye Borgerlige,1
+Fredensborg,3,Humlebæk,"D_Søren_Regenberg,_Fredensborg","Søren Regenberg, Fredensborg",Nye Borgerlige,1
+Fredensborg,3,Humlebæk,"D_Jesper_Hammer,_Fredensborg","Jesper Hammer, Fredensborg",Nye Borgerlige,14
+Fredensborg,3,Humlebæk,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,57
+Fredensborg,3,Humlebæk,F_Hanne_Berg,Hanne Berg,SF - Socialistisk Folkeparti,107
+Fredensborg,3,Humlebæk,F_Bent_Fischer-Nielsen,Bent Fischer-Nielsen,SF - Socialistisk Folkeparti,12
+Fredensborg,3,Humlebæk,F_Sune_Hybert,Sune Hybert,SF - Socialistisk Folkeparti,10
+Fredensborg,3,Humlebæk,F_Torben_Forskov,Torben Forskov,SF - Socialistisk Folkeparti,3
+Fredensborg,3,Humlebæk,F_Pia_Jespersen,Pia Jespersen,SF - Socialistisk Folkeparti,6
+Fredensborg,3,Humlebæk,F_Anders_Jensen,Anders Jensen,SF - Socialistisk Folkeparti,0
+Fredensborg,3,Humlebæk,F_Berit_K._Holtegaard,Berit K. Holtegaard,SF - Socialistisk Folkeparti,4
+Fredensborg,3,Humlebæk,I_Listestemmer,Listestemmer,Liberal Alliance,19
+Fredensborg,3,Humlebæk,I_Charlotte_Bie,Charlotte Bie,Liberal Alliance,41
+Fredensborg,3,Humlebæk,I_Morten_Tranborg,Morten Tranborg,Liberal Alliance,11
+Fredensborg,3,Humlebæk,K_Listestemmer,Listestemmer,Kristendemokraterne,3
+Fredensborg,3,Humlebæk,K_Peter_Vest,Peter Vest,Kristendemokraterne,2
+Fredensborg,3,Humlebæk,K_Britta_Kristensen,Britta Kristensen,Kristendemokraterne,2
+Fredensborg,3,Humlebæk,M_Listestemmer,Listestemmer,Marie Mynche,0
+Fredensborg,3,Humlebæk,M_Marie_Mynche,Marie Mynche,Marie Mynche,1
+Fredensborg,3,Humlebæk,O_Listestemmer,Listestemmer,Dansk Folkeparti,12
+Fredensborg,3,Humlebæk,O_Tanja_Quade_Madsen,Tanja Quade Madsen,Dansk Folkeparti,9
+Fredensborg,3,Humlebæk,O_Kenneth_Hillestrøm,Kenneth Hillestrøm,Dansk Folkeparti,2
+Fredensborg,3,Humlebæk,O_Flemming_Rømer,Flemming Rømer,Dansk Folkeparti,14
+Fredensborg,3,Humlebæk,O_Kristian_Klitgaard,Kristian Klitgaard,Dansk Folkeparti,2
+Fredensborg,3,Humlebæk,O_Kim_E._Jensen,Kim E. Jensen,Dansk Folkeparti,2
+Fredensborg,3,Humlebæk,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",106
+Fredensborg,3,Humlebæk,V_Lars_Søndergaard,Lars Søndergaard,"Venstre, Danmarks Liberale Parti",57
+Fredensborg,3,Humlebæk,V_Mie_Stattau,Mie Stattau,"Venstre, Danmarks Liberale Parti",71
+Fredensborg,3,Humlebæk,V_Tinne_Borch_Jacobsen,Tinne Borch Jacobsen,"Venstre, Danmarks Liberale Parti",37
+Fredensborg,3,Humlebæk,V_Kristian_Tanderup,Kristian Tanderup,"Venstre, Danmarks Liberale Parti",56
+Fredensborg,3,Humlebæk,V_Laura_Mortensen,Laura Mortensen,"Venstre, Danmarks Liberale Parti",9
+Fredensborg,3,Humlebæk,V_Thomas_Elgaard,Thomas Elgaard,"Venstre, Danmarks Liberale Parti",11
+Fredensborg,3,Humlebæk,V_Carsten_Wulff,Carsten Wulff,"Venstre, Danmarks Liberale Parti",4
+Fredensborg,3,Humlebæk,V_Carsten_Bo_Nielsen,Carsten Bo Nielsen,"Venstre, Danmarks Liberale Parti",83
+Fredensborg,3,Humlebæk,V_Lars_Egedal,Lars Egedal,"Venstre, Danmarks Liberale Parti",3
+Fredensborg,3,Humlebæk,V_Jacob_Simonsen,Jacob Simonsen,"Venstre, Danmarks Liberale Parti",8
+Fredensborg,3,Humlebæk,V_Charlotte_Kirkegaard,Charlotte Kirkegaard,"Venstre, Danmarks Liberale Parti",2
+Fredensborg,3,Humlebæk,V_Inge_Fiil_Poulsen,Inge Fiil Poulsen,"Venstre, Danmarks Liberale Parti",4
+Fredensborg,3,Humlebæk,V_Per_Askestad,Per Askestad,"Venstre, Danmarks Liberale Parti",1
+Fredensborg,3,Humlebæk,V_Preben_Goth,Preben Goth,"Venstre, Danmarks Liberale Parti",13
+Fredensborg,3,Humlebæk,V_Claus_Hassing,Claus Hassing,"Venstre, Danmarks Liberale Parti",0
+Fredensborg,3,Humlebæk,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,55
+Fredensborg,3,Humlebæk,"Ø_Bjørn_Svensson,_Fredensborg","Bjørn Svensson, Fredensborg",Enhedslisten - De Rød-Grønne,9
+Fredensborg,3,Humlebæk,"Ø_Sussi_Jensen,_Humlebæk","Sussi Jensen, Humlebæk",Enhedslisten - De Rød-Grønne,45
+Fredensborg,3,Humlebæk,"Ø_Brian_Højgaard,_Fredensborg","Brian Højgaard, Fredensborg",Enhedslisten - De Rød-Grønne,0
+Fredensborg,3,Humlebæk,"Ø_Christian_von_Platen,_Nivå","Christian von Platen, Nivå",Enhedslisten - De Rød-Grønne,2
+Fredensborg,3,Humlebæk,Å_Listestemmer,Listestemmer,Alternativet,11
+Fredensborg,3,Humlebæk,"Å_Sidsel_Dyekjær,_Humlebæk","Sidsel Dyekjær, Humlebæk",Alternativet,32
+Fredensborg,4,Baunebjerg,A_Listestemmer,Listestemmer,Socialdemokratiet,150
+Fredensborg,4,Baunebjerg,"A_Thomas_Lykke_Pedersen,_Humlebæk","Thomas Lykke Pedersen, Humlebæk",Socialdemokratiet,287
+Fredensborg,4,Baunebjerg,"A_Per_Frost_Henriksen,_Fredensborg","Per Frost Henriksen, Fredensborg",Socialdemokratiet,16
+Fredensborg,4,Baunebjerg,"A_Louise_Mehnke,_Kokkedal","Louise Mehnke, Kokkedal",Socialdemokratiet,21
+Fredensborg,4,Baunebjerg,"A_Hans_Nissen,_Humlebæk","Hans Nissen, Humlebæk",Socialdemokratiet,52
+Fredensborg,4,Baunebjerg,"A_Vivian_Johnsen,_Kokkedal","Vivian Johnsen, Kokkedal",Socialdemokratiet,4
+Fredensborg,4,Baunebjerg,"A_Sarah_Lykke,_Humlebæk","Sarah Lykke, Humlebæk",Socialdemokratiet,116
+Fredensborg,4,Baunebjerg,"A_Carsten_Nielsen,_Humlebæk","Carsten Nielsen, Humlebæk",Socialdemokratiet,94
+Fredensborg,4,Baunebjerg,"A_Pia_Bødtker,_Nivå","Pia Bødtker, Nivå",Socialdemokratiet,5
+Fredensborg,4,Baunebjerg,"A_Charlotte_Sander,_Fredensborg","Charlotte Sander, Fredensborg",Socialdemokratiet,8
+Fredensborg,4,Baunebjerg,"A_Mette_Hoff,_Fredensborg","Mette Hoff, Fredensborg",Socialdemokratiet,5
+Fredensborg,4,Baunebjerg,"A_Benn_Gandløse_Vestergaard,_Nivå","Benn Gandløse Vestergaard, Nivå",Socialdemokratiet,2
+Fredensborg,4,Baunebjerg,"A_Cømert_Sonsuz,_Nivå","Cømert Sonsuz, Nivå",Socialdemokratiet,9
+Fredensborg,4,Baunebjerg,"A_Ergin_Øzer,_Kokkedal","Ergin Øzer, Kokkedal",Socialdemokratiet,6
+Fredensborg,4,Baunebjerg,"A_Suzan_Daoud,_Kokkedal","Suzan Daoud, Kokkedal",Socialdemokratiet,42
+Fredensborg,4,Baunebjerg,"A_Steffen_Bjerre,_Nivå","Steffen Bjerre, Nivå",Socialdemokratiet,1
+Fredensborg,4,Baunebjerg,"A_Frederik_Lisemose,_Fredensborg","Frederik Lisemose, Fredensborg",Socialdemokratiet,1
+Fredensborg,4,Baunebjerg,"A_Hossein_Armandi,_Kokkedal","Hossein Armandi, Kokkedal",Socialdemokratiet,5
+Fredensborg,4,Baunebjerg,"A_Michael_Karby_Bakhauge,_Humlebæk","Michael Karby Bakhauge, Humlebæk",Socialdemokratiet,13
+Fredensborg,4,Baunebjerg,"A_Dorte_Beyer_Nielsen,_Kokkedal","Dorte Beyer Nielsen, Kokkedal",Socialdemokratiet,2
+Fredensborg,4,Baunebjerg,"A_Rasmus_Meyer,_Humlebæk","Rasmus Meyer, Humlebæk",Socialdemokratiet,13
+Fredensborg,4,Baunebjerg,B_Listestemmer,Listestemmer,Radikale Venstre,73
+Fredensborg,4,Baunebjerg,B_Lars_Simonsen,Lars Simonsen,Radikale Venstre,62
+Fredensborg,4,Baunebjerg,B_Bettina_Bové,Bettina Bové,Radikale Venstre,59
+Fredensborg,4,Baunebjerg,B_Soma_Mayel,Soma Mayel,Radikale Venstre,119
+Fredensborg,4,Baunebjerg,B_Jens_Thorup_Bindzus,Jens Thorup Bindzus,Radikale Venstre,0
+Fredensborg,4,Baunebjerg,B_Marianne_Bredgaard_Karlsson,Marianne Bredgaard Karlsson,Radikale Venstre,28
+Fredensborg,4,Baunebjerg,B_Rasmus_Langskov,Rasmus Langskov,Radikale Venstre,4
+Fredensborg,4,Baunebjerg,B_Marie_Louise_Wittenkamp,Marie Louise Wittenkamp,Radikale Venstre,29
+Fredensborg,4,Baunebjerg,B_Mikkel_Senna_Odoom,Mikkel Senna Odoom,Radikale Venstre,3
+Fredensborg,4,Baunebjerg,B_Anne_Seitz_Christoffersen,Anne Seitz Christoffersen,Radikale Venstre,9
+Fredensborg,4,Baunebjerg,B_Thomas_Bruun_Olsen,Thomas Bruun Olsen,Radikale Venstre,3
+Fredensborg,4,Baunebjerg,B_Gorm_Tortzen,Gorm Tortzen,Radikale Venstre,1
+Fredensborg,4,Baunebjerg,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,107
+Fredensborg,4,Baunebjerg,"C_Jesper_Tvilde,_Nivå","Jesper Tvilde, Nivå",Det Konservative Folkeparti,74
+Fredensborg,4,Baunebjerg,"C_Ulla_Hardy-Hansen,_Fredensborg","Ulla Hardy-Hansen, Fredensborg",Det Konservative Folkeparti,55
+Fredensborg,4,Baunebjerg,"C_Thomas_von_Jessen,_Nivå","Thomas von Jessen, Nivå",Det Konservative Folkeparti,19
+Fredensborg,4,Baunebjerg,"C_Heidi_Boss_Nyby,_Nivå","Heidi Boss Nyby, Nivå",Det Konservative Folkeparti,21
+Fredensborg,4,Baunebjerg,"C_Christian_de_Jonquiéres,Fredensbor","Christian de Jonquiéres,Fredensbor",Det Konservative Folkeparti,5
+Fredensborg,4,Baunebjerg,"C_Morten_Hubenbecker_Poulsen,_Nivå","Morten Hubenbecker Poulsen, Nivå",Det Konservative Folkeparti,1
+Fredensborg,4,Baunebjerg,"C_Celine_Lind_Jakobsen,_Kokkedal","Celine Lind Jakobsen, Kokkedal",Det Konservative Folkeparti,14
+Fredensborg,4,Baunebjerg,"C_Jeppe_K._Lilholt,_Nivå","Jeppe K. Lilholt, Nivå",Det Konservative Folkeparti,4
+Fredensborg,4,Baunebjerg,"C_Mikkel_Dodt_Fregerslev,_Humlebæk","Mikkel Dodt Fregerslev, Humlebæk",Det Konservative Folkeparti,38
+Fredensborg,4,Baunebjerg,"C_Mikkel_Hartwich,_Humlebæk","Mikkel Hartwich, Humlebæk",Det Konservative Folkeparti,52
+Fredensborg,4,Baunebjerg,"C_Michael_Huusom,_Kokkedal","Michael Huusom, Kokkedal",Det Konservative Folkeparti,16
+Fredensborg,4,Baunebjerg,"C_Mikael_Wendelboe,_Nivå","Mikael Wendelboe, Nivå",Det Konservative Folkeparti,5
+Fredensborg,4,Baunebjerg,"C_Henrik_Littau_Mærsk,_Fredensborg","Henrik Littau Mærsk, Fredensborg",Det Konservative Folkeparti,11
+Fredensborg,4,Baunebjerg,"C_Mette_Nørtoft,_Humlebæk","Mette Nørtoft, Humlebæk",Det Konservative Folkeparti,34
+Fredensborg,4,Baunebjerg,D_Listestemmer,Listestemmer,Nye Borgerlige,41
+Fredensborg,4,Baunebjerg,"D_Steen_Løfstrøm,_Humlebæk","Steen Løfstrøm, Humlebæk",Nye Borgerlige,71
+Fredensborg,4,Baunebjerg,"D_Kaspar_Hemmingsen,_Fredensborg","Kaspar Hemmingsen, Fredensborg",Nye Borgerlige,2
+Fredensborg,4,Baunebjerg,"D_Søren_Regenberg,_Fredensborg","Søren Regenberg, Fredensborg",Nye Borgerlige,3
+Fredensborg,4,Baunebjerg,"D_Jesper_Hammer,_Fredensborg","Jesper Hammer, Fredensborg",Nye Borgerlige,16
+Fredensborg,4,Baunebjerg,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,80
+Fredensborg,4,Baunebjerg,F_Hanne_Berg,Hanne Berg,SF - Socialistisk Folkeparti,143
+Fredensborg,4,Baunebjerg,F_Bent_Fischer-Nielsen,Bent Fischer-Nielsen,SF - Socialistisk Folkeparti,35
+Fredensborg,4,Baunebjerg,F_Sune_Hybert,Sune Hybert,SF - Socialistisk Folkeparti,17
+Fredensborg,4,Baunebjerg,F_Torben_Forskov,Torben Forskov,SF - Socialistisk Folkeparti,1
+Fredensborg,4,Baunebjerg,F_Pia_Jespersen,Pia Jespersen,SF - Socialistisk Folkeparti,9
+Fredensborg,4,Baunebjerg,F_Anders_Jensen,Anders Jensen,SF - Socialistisk Folkeparti,0
+Fredensborg,4,Baunebjerg,F_Berit_K._Holtegaard,Berit K. Holtegaard,SF - Socialistisk Folkeparti,0
+Fredensborg,4,Baunebjerg,I_Listestemmer,Listestemmer,Liberal Alliance,15
+Fredensborg,4,Baunebjerg,I_Charlotte_Bie,Charlotte Bie,Liberal Alliance,39
+Fredensborg,4,Baunebjerg,I_Morten_Tranborg,Morten Tranborg,Liberal Alliance,4
+Fredensborg,4,Baunebjerg,K_Listestemmer,Listestemmer,Kristendemokraterne,4
+Fredensborg,4,Baunebjerg,K_Peter_Vest,Peter Vest,Kristendemokraterne,2
+Fredensborg,4,Baunebjerg,K_Britta_Kristensen,Britta Kristensen,Kristendemokraterne,2
+Fredensborg,4,Baunebjerg,M_Listestemmer,Listestemmer,Marie Mynche,4
+Fredensborg,4,Baunebjerg,M_Marie_Mynche,Marie Mynche,Marie Mynche,0
+Fredensborg,4,Baunebjerg,O_Listestemmer,Listestemmer,Dansk Folkeparti,24
+Fredensborg,4,Baunebjerg,O_Tanja_Quade_Madsen,Tanja Quade Madsen,Dansk Folkeparti,19
+Fredensborg,4,Baunebjerg,O_Kenneth_Hillestrøm,Kenneth Hillestrøm,Dansk Folkeparti,3
+Fredensborg,4,Baunebjerg,O_Flemming_Rømer,Flemming Rømer,Dansk Folkeparti,10
+Fredensborg,4,Baunebjerg,O_Kristian_Klitgaard,Kristian Klitgaard,Dansk Folkeparti,0
+Fredensborg,4,Baunebjerg,O_Kim_E._Jensen,Kim E. Jensen,Dansk Folkeparti,2
+Fredensborg,4,Baunebjerg,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",62
+Fredensborg,4,Baunebjerg,V_Lars_Søndergaard,Lars Søndergaard,"Venstre, Danmarks Liberale Parti",41
+Fredensborg,4,Baunebjerg,V_Mie_Stattau,Mie Stattau,"Venstre, Danmarks Liberale Parti",41
+Fredensborg,4,Baunebjerg,V_Tinne_Borch_Jacobsen,Tinne Borch Jacobsen,"Venstre, Danmarks Liberale Parti",29
+Fredensborg,4,Baunebjerg,V_Kristian_Tanderup,Kristian Tanderup,"Venstre, Danmarks Liberale Parti",123
+Fredensborg,4,Baunebjerg,V_Laura_Mortensen,Laura Mortensen,"Venstre, Danmarks Liberale Parti",14
+Fredensborg,4,Baunebjerg,V_Thomas_Elgaard,Thomas Elgaard,"Venstre, Danmarks Liberale Parti",7
+Fredensborg,4,Baunebjerg,V_Carsten_Wulff,Carsten Wulff,"Venstre, Danmarks Liberale Parti",3
+Fredensborg,4,Baunebjerg,V_Carsten_Bo_Nielsen,Carsten Bo Nielsen,"Venstre, Danmarks Liberale Parti",124
+Fredensborg,4,Baunebjerg,V_Lars_Egedal,Lars Egedal,"Venstre, Danmarks Liberale Parti",3
+Fredensborg,4,Baunebjerg,V_Jacob_Simonsen,Jacob Simonsen,"Venstre, Danmarks Liberale Parti",5
+Fredensborg,4,Baunebjerg,V_Charlotte_Kirkegaard,Charlotte Kirkegaard,"Venstre, Danmarks Liberale Parti",0
+Fredensborg,4,Baunebjerg,V_Inge_Fiil_Poulsen,Inge Fiil Poulsen,"Venstre, Danmarks Liberale Parti",4
+Fredensborg,4,Baunebjerg,V_Per_Askestad,Per Askestad,"Venstre, Danmarks Liberale Parti",1
+Fredensborg,4,Baunebjerg,V_Preben_Goth,Preben Goth,"Venstre, Danmarks Liberale Parti",18
+Fredensborg,4,Baunebjerg,V_Claus_Hassing,Claus Hassing,"Venstre, Danmarks Liberale Parti",0
+Fredensborg,4,Baunebjerg,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,59
+Fredensborg,4,Baunebjerg,"Ø_Bjørn_Svensson,_Fredensborg","Bjørn Svensson, Fredensborg",Enhedslisten - De Rød-Grønne,17
+Fredensborg,4,Baunebjerg,"Ø_Sussi_Jensen,_Humlebæk","Sussi Jensen, Humlebæk",Enhedslisten - De Rød-Grønne,35
+Fredensborg,4,Baunebjerg,"Ø_Brian_Højgaard,_Fredensborg","Brian Højgaard, Fredensborg",Enhedslisten - De Rød-Grønne,1
+Fredensborg,4,Baunebjerg,"Ø_Christian_von_Platen,_Nivå","Christian von Platen, Nivå",Enhedslisten - De Rød-Grønne,1
+Fredensborg,4,Baunebjerg,Å_Listestemmer,Listestemmer,Alternativet,6
+Fredensborg,4,Baunebjerg,"Å_Sidsel_Dyekjær,_Humlebæk","Sidsel Dyekjær, Humlebæk",Alternativet,44
+Fredensborg,5,Kokkedal,A_Listestemmer,Listestemmer,Socialdemokratiet,299
+Fredensborg,5,Kokkedal,"A_Thomas_Lykke_Pedersen,_Humlebæk","Thomas Lykke Pedersen, Humlebæk",Socialdemokratiet,434
+Fredensborg,5,Kokkedal,"A_Per_Frost_Henriksen,_Fredensborg","Per Frost Henriksen, Fredensborg",Socialdemokratiet,108
+Fredensborg,5,Kokkedal,"A_Louise_Mehnke,_Kokkedal","Louise Mehnke, Kokkedal",Socialdemokratiet,289
+Fredensborg,5,Kokkedal,"A_Hans_Nissen,_Humlebæk","Hans Nissen, Humlebæk",Socialdemokratiet,14
+Fredensborg,5,Kokkedal,"A_Vivian_Johnsen,_Kokkedal","Vivian Johnsen, Kokkedal",Socialdemokratiet,66
+Fredensborg,5,Kokkedal,"A_Sarah_Lykke,_Humlebæk","Sarah Lykke, Humlebæk",Socialdemokratiet,15
+Fredensborg,5,Kokkedal,"A_Carsten_Nielsen,_Humlebæk","Carsten Nielsen, Humlebæk",Socialdemokratiet,1
+Fredensborg,5,Kokkedal,"A_Pia_Bødtker,_Nivå","Pia Bødtker, Nivå",Socialdemokratiet,11
+Fredensborg,5,Kokkedal,"A_Charlotte_Sander,_Fredensborg","Charlotte Sander, Fredensborg",Socialdemokratiet,5
+Fredensborg,5,Kokkedal,"A_Mette_Hoff,_Fredensborg","Mette Hoff, Fredensborg",Socialdemokratiet,11
+Fredensborg,5,Kokkedal,"A_Benn_Gandløse_Vestergaard,_Nivå","Benn Gandløse Vestergaard, Nivå",Socialdemokratiet,7
+Fredensborg,5,Kokkedal,"A_Cømert_Sonsuz,_Nivå","Cømert Sonsuz, Nivå",Socialdemokratiet,80
+Fredensborg,5,Kokkedal,"A_Ergin_Øzer,_Kokkedal","Ergin Øzer, Kokkedal",Socialdemokratiet,189
+Fredensborg,5,Kokkedal,"A_Suzan_Daoud,_Kokkedal","Suzan Daoud, Kokkedal",Socialdemokratiet,144
+Fredensborg,5,Kokkedal,"A_Steffen_Bjerre,_Nivå","Steffen Bjerre, Nivå",Socialdemokratiet,3
+Fredensborg,5,Kokkedal,"A_Frederik_Lisemose,_Fredensborg","Frederik Lisemose, Fredensborg",Socialdemokratiet,0
+Fredensborg,5,Kokkedal,"A_Hossein_Armandi,_Kokkedal","Hossein Armandi, Kokkedal",Socialdemokratiet,177
+Fredensborg,5,Kokkedal,"A_Michael_Karby_Bakhauge,_Humlebæk","Michael Karby Bakhauge, Humlebæk",Socialdemokratiet,7
+Fredensborg,5,Kokkedal,"A_Dorte_Beyer_Nielsen,_Kokkedal","Dorte Beyer Nielsen, Kokkedal",Socialdemokratiet,28
+Fredensborg,5,Kokkedal,"A_Rasmus_Meyer,_Humlebæk","Rasmus Meyer, Humlebæk",Socialdemokratiet,1
+Fredensborg,5,Kokkedal,B_Listestemmer,Listestemmer,Radikale Venstre,80
+Fredensborg,5,Kokkedal,B_Lars_Simonsen,Lars Simonsen,Radikale Venstre,45
+Fredensborg,5,Kokkedal,B_Bettina_Bové,Bettina Bové,Radikale Venstre,50
+Fredensborg,5,Kokkedal,B_Soma_Mayel,Soma Mayel,Radikale Venstre,296
+Fredensborg,5,Kokkedal,B_Jens_Thorup_Bindzus,Jens Thorup Bindzus,Radikale Venstre,14
+Fredensborg,5,Kokkedal,B_Marianne_Bredgaard_Karlsson,Marianne Bredgaard Karlsson,Radikale Venstre,11
+Fredensborg,5,Kokkedal,B_Rasmus_Langskov,Rasmus Langskov,Radikale Venstre,12
+Fredensborg,5,Kokkedal,B_Marie_Louise_Wittenkamp,Marie Louise Wittenkamp,Radikale Venstre,5
+Fredensborg,5,Kokkedal,B_Mikkel_Senna_Odoom,Mikkel Senna Odoom,Radikale Venstre,8
+Fredensborg,5,Kokkedal,B_Anne_Seitz_Christoffersen,Anne Seitz Christoffersen,Radikale Venstre,9
+Fredensborg,5,Kokkedal,B_Thomas_Bruun_Olsen,Thomas Bruun Olsen,Radikale Venstre,3
+Fredensborg,5,Kokkedal,B_Gorm_Tortzen,Gorm Tortzen,Radikale Venstre,1
+Fredensborg,5,Kokkedal,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,369
+Fredensborg,5,Kokkedal,"C_Jesper_Tvilde,_Nivå","Jesper Tvilde, Nivå",Det Konservative Folkeparti,210
+Fredensborg,5,Kokkedal,"C_Ulla_Hardy-Hansen,_Fredensborg","Ulla Hardy-Hansen, Fredensborg",Det Konservative Folkeparti,40
+Fredensborg,5,Kokkedal,"C_Thomas_von_Jessen,_Nivå","Thomas von Jessen, Nivå",Det Konservative Folkeparti,29
+Fredensborg,5,Kokkedal,"C_Heidi_Boss_Nyby,_Nivå","Heidi Boss Nyby, Nivå",Det Konservative Folkeparti,49
+Fredensborg,5,Kokkedal,"C_Christian_de_Jonquiéres,Fredensbor","Christian de Jonquiéres,Fredensbor",Det Konservative Folkeparti,10
+Fredensborg,5,Kokkedal,"C_Morten_Hubenbecker_Poulsen,_Nivå","Morten Hubenbecker Poulsen, Nivå",Det Konservative Folkeparti,14
+Fredensborg,5,Kokkedal,"C_Celine_Lind_Jakobsen,_Kokkedal","Celine Lind Jakobsen, Kokkedal",Det Konservative Folkeparti,89
+Fredensborg,5,Kokkedal,"C_Jeppe_K._Lilholt,_Nivå","Jeppe K. Lilholt, Nivå",Det Konservative Folkeparti,6
+Fredensborg,5,Kokkedal,"C_Mikkel_Dodt_Fregerslev,_Humlebæk","Mikkel Dodt Fregerslev, Humlebæk",Det Konservative Folkeparti,9
+Fredensborg,5,Kokkedal,"C_Mikkel_Hartwich,_Humlebæk","Mikkel Hartwich, Humlebæk",Det Konservative Folkeparti,44
+Fredensborg,5,Kokkedal,"C_Michael_Huusom,_Kokkedal","Michael Huusom, Kokkedal",Det Konservative Folkeparti,182
+Fredensborg,5,Kokkedal,"C_Mikael_Wendelboe,_Nivå","Mikael Wendelboe, Nivå",Det Konservative Folkeparti,9
+Fredensborg,5,Kokkedal,"C_Henrik_Littau_Mærsk,_Fredensborg","Henrik Littau Mærsk, Fredensborg",Det Konservative Folkeparti,19
+Fredensborg,5,Kokkedal,"C_Mette_Nørtoft,_Humlebæk","Mette Nørtoft, Humlebæk",Det Konservative Folkeparti,9
+Fredensborg,5,Kokkedal,D_Listestemmer,Listestemmer,Nye Borgerlige,122
+Fredensborg,5,Kokkedal,"D_Steen_Løfstrøm,_Humlebæk","Steen Løfstrøm, Humlebæk",Nye Borgerlige,53
+Fredensborg,5,Kokkedal,"D_Kaspar_Hemmingsen,_Fredensborg","Kaspar Hemmingsen, Fredensborg",Nye Borgerlige,11
+Fredensborg,5,Kokkedal,"D_Søren_Regenberg,_Fredensborg","Søren Regenberg, Fredensborg",Nye Borgerlige,15
+Fredensborg,5,Kokkedal,"D_Jesper_Hammer,_Fredensborg","Jesper Hammer, Fredensborg",Nye Borgerlige,29
+Fredensborg,5,Kokkedal,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,76
+Fredensborg,5,Kokkedal,F_Hanne_Berg,Hanne Berg,SF - Socialistisk Folkeparti,120
+Fredensborg,5,Kokkedal,F_Bent_Fischer-Nielsen,Bent Fischer-Nielsen,SF - Socialistisk Folkeparti,21
+Fredensborg,5,Kokkedal,F_Sune_Hybert,Sune Hybert,SF - Socialistisk Folkeparti,12
+Fredensborg,5,Kokkedal,F_Torben_Forskov,Torben Forskov,SF - Socialistisk Folkeparti,5
+Fredensborg,5,Kokkedal,F_Pia_Jespersen,Pia Jespersen,SF - Socialistisk Folkeparti,10
+Fredensborg,5,Kokkedal,F_Anders_Jensen,Anders Jensen,SF - Socialistisk Folkeparti,1
+Fredensborg,5,Kokkedal,F_Berit_K._Holtegaard,Berit K. Holtegaard,SF - Socialistisk Folkeparti,3
+Fredensborg,5,Kokkedal,I_Listestemmer,Listestemmer,Liberal Alliance,24
+Fredensborg,5,Kokkedal,I_Charlotte_Bie,Charlotte Bie,Liberal Alliance,70
+Fredensborg,5,Kokkedal,I_Morten_Tranborg,Morten Tranborg,Liberal Alliance,14
+Fredensborg,5,Kokkedal,K_Listestemmer,Listestemmer,Kristendemokraterne,3
+Fredensborg,5,Kokkedal,K_Peter_Vest,Peter Vest,Kristendemokraterne,6
+Fredensborg,5,Kokkedal,K_Britta_Kristensen,Britta Kristensen,Kristendemokraterne,11
+Fredensborg,5,Kokkedal,M_Listestemmer,Listestemmer,Marie Mynche,0
+Fredensborg,5,Kokkedal,M_Marie_Mynche,Marie Mynche,Marie Mynche,3
+Fredensborg,5,Kokkedal,O_Listestemmer,Listestemmer,Dansk Folkeparti,67
+Fredensborg,5,Kokkedal,O_Tanja_Quade_Madsen,Tanja Quade Madsen,Dansk Folkeparti,34
+Fredensborg,5,Kokkedal,O_Kenneth_Hillestrøm,Kenneth Hillestrøm,Dansk Folkeparti,6
+Fredensborg,5,Kokkedal,O_Flemming_Rømer,Flemming Rømer,Dansk Folkeparti,14
+Fredensborg,5,Kokkedal,O_Kristian_Klitgaard,Kristian Klitgaard,Dansk Folkeparti,9
+Fredensborg,5,Kokkedal,O_Kim_E._Jensen,Kim E. Jensen,Dansk Folkeparti,9
+Fredensborg,5,Kokkedal,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",185
+Fredensborg,5,Kokkedal,V_Lars_Søndergaard,Lars Søndergaard,"Venstre, Danmarks Liberale Parti",130
+Fredensborg,5,Kokkedal,V_Mie_Stattau,Mie Stattau,"Venstre, Danmarks Liberale Parti",101
+Fredensborg,5,Kokkedal,V_Tinne_Borch_Jacobsen,Tinne Borch Jacobsen,"Venstre, Danmarks Liberale Parti",25
+Fredensborg,5,Kokkedal,V_Kristian_Tanderup,Kristian Tanderup,"Venstre, Danmarks Liberale Parti",5
+Fredensborg,5,Kokkedal,V_Laura_Mortensen,Laura Mortensen,"Venstre, Danmarks Liberale Parti",41
+Fredensborg,5,Kokkedal,V_Thomas_Elgaard,Thomas Elgaard,"Venstre, Danmarks Liberale Parti",26
+Fredensborg,5,Kokkedal,V_Carsten_Wulff,Carsten Wulff,"Venstre, Danmarks Liberale Parti",4
+Fredensborg,5,Kokkedal,V_Carsten_Bo_Nielsen,Carsten Bo Nielsen,"Venstre, Danmarks Liberale Parti",27
+Fredensborg,5,Kokkedal,V_Lars_Egedal,Lars Egedal,"Venstre, Danmarks Liberale Parti",14
+Fredensborg,5,Kokkedal,V_Jacob_Simonsen,Jacob Simonsen,"Venstre, Danmarks Liberale Parti",13
+Fredensborg,5,Kokkedal,V_Charlotte_Kirkegaard,Charlotte Kirkegaard,"Venstre, Danmarks Liberale Parti",3
+Fredensborg,5,Kokkedal,V_Inge_Fiil_Poulsen,Inge Fiil Poulsen,"Venstre, Danmarks Liberale Parti",5
+Fredensborg,5,Kokkedal,V_Per_Askestad,Per Askestad,"Venstre, Danmarks Liberale Parti",3
+Fredensborg,5,Kokkedal,V_Preben_Goth,Preben Goth,"Venstre, Danmarks Liberale Parti",4
+Fredensborg,5,Kokkedal,V_Claus_Hassing,Claus Hassing,"Venstre, Danmarks Liberale Parti",9
+Fredensborg,5,Kokkedal,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,60
+Fredensborg,5,Kokkedal,"Ø_Bjørn_Svensson,_Fredensborg","Bjørn Svensson, Fredensborg",Enhedslisten - De Rød-Grønne,26
+Fredensborg,5,Kokkedal,"Ø_Sussi_Jensen,_Humlebæk","Sussi Jensen, Humlebæk",Enhedslisten - De Rød-Grønne,26
+Fredensborg,5,Kokkedal,"Ø_Brian_Højgaard,_Fredensborg","Brian Højgaard, Fredensborg",Enhedslisten - De Rød-Grønne,4
+Fredensborg,5,Kokkedal,"Ø_Christian_von_Platen,_Nivå","Christian von Platen, Nivå",Enhedslisten - De Rød-Grønne,6
+Fredensborg,5,Kokkedal,Å_Listestemmer,Listestemmer,Alternativet,11
+Fredensborg,5,Kokkedal,"Å_Sidsel_Dyekjær,_Humlebæk","Sidsel Dyekjær, Humlebæk",Alternativet,19
+Fredensborg,7,Niverød,A_Listestemmer,Listestemmer,Socialdemokratiet,147
+Fredensborg,7,Niverød,"A_Thomas_Lykke_Pedersen,_Humlebæk","Thomas Lykke Pedersen, Humlebæk",Socialdemokratiet,127
+Fredensborg,7,Niverød,"A_Per_Frost_Henriksen,_Fredensborg","Per Frost Henriksen, Fredensborg",Socialdemokratiet,66
+Fredensborg,7,Niverød,"A_Louise_Mehnke,_Kokkedal","Louise Mehnke, Kokkedal",Socialdemokratiet,46
+Fredensborg,7,Niverød,"A_Hans_Nissen,_Humlebæk","Hans Nissen, Humlebæk",Socialdemokratiet,17
+Fredensborg,7,Niverød,"A_Vivian_Johnsen,_Kokkedal","Vivian Johnsen, Kokkedal",Socialdemokratiet,2
+Fredensborg,7,Niverød,"A_Sarah_Lykke,_Humlebæk","Sarah Lykke, Humlebæk",Socialdemokratiet,29
+Fredensborg,7,Niverød,"A_Carsten_Nielsen,_Humlebæk","Carsten Nielsen, Humlebæk",Socialdemokratiet,3
+Fredensborg,7,Niverød,"A_Pia_Bødtker,_Nivå","Pia Bødtker, Nivå",Socialdemokratiet,52
+Fredensborg,7,Niverød,"A_Charlotte_Sander,_Fredensborg","Charlotte Sander, Fredensborg",Socialdemokratiet,3
+Fredensborg,7,Niverød,"A_Mette_Hoff,_Fredensborg","Mette Hoff, Fredensborg",Socialdemokratiet,3
+Fredensborg,7,Niverød,"A_Benn_Gandløse_Vestergaard,_Nivå","Benn Gandløse Vestergaard, Nivå",Socialdemokratiet,42
+Fredensborg,7,Niverød,"A_Cømert_Sonsuz,_Nivå","Cømert Sonsuz, Nivå",Socialdemokratiet,157
+Fredensborg,7,Niverød,"A_Ergin_Øzer,_Kokkedal","Ergin Øzer, Kokkedal",Socialdemokratiet,16
+Fredensborg,7,Niverød,"A_Suzan_Daoud,_Kokkedal","Suzan Daoud, Kokkedal",Socialdemokratiet,16
+Fredensborg,7,Niverød,"A_Steffen_Bjerre,_Nivå","Steffen Bjerre, Nivå",Socialdemokratiet,8
+Fredensborg,7,Niverød,"A_Frederik_Lisemose,_Fredensborg","Frederik Lisemose, Fredensborg",Socialdemokratiet,0
+Fredensborg,7,Niverød,"A_Hossein_Armandi,_Kokkedal","Hossein Armandi, Kokkedal",Socialdemokratiet,2
+Fredensborg,7,Niverød,"A_Michael_Karby_Bakhauge,_Humlebæk","Michael Karby Bakhauge, Humlebæk",Socialdemokratiet,7
+Fredensborg,7,Niverød,"A_Dorte_Beyer_Nielsen,_Kokkedal","Dorte Beyer Nielsen, Kokkedal",Socialdemokratiet,4
+Fredensborg,7,Niverød,"A_Rasmus_Meyer,_Humlebæk","Rasmus Meyer, Humlebæk",Socialdemokratiet,4
+Fredensborg,7,Niverød,B_Listestemmer,Listestemmer,Radikale Venstre,32
+Fredensborg,7,Niverød,B_Lars_Simonsen,Lars Simonsen,Radikale Venstre,18
+Fredensborg,7,Niverød,B_Bettina_Bové,Bettina Bové,Radikale Venstre,16
+Fredensborg,7,Niverød,B_Soma_Mayel,Soma Mayel,Radikale Venstre,80
+Fredensborg,7,Niverød,B_Jens_Thorup_Bindzus,Jens Thorup Bindzus,Radikale Venstre,7
+Fredensborg,7,Niverød,B_Marianne_Bredgaard_Karlsson,Marianne Bredgaard Karlsson,Radikale Venstre,9
+Fredensborg,7,Niverød,B_Rasmus_Langskov,Rasmus Langskov,Radikale Venstre,3
+Fredensborg,7,Niverød,B_Marie_Louise_Wittenkamp,Marie Louise Wittenkamp,Radikale Venstre,4
+Fredensborg,7,Niverød,B_Mikkel_Senna_Odoom,Mikkel Senna Odoom,Radikale Venstre,2
+Fredensborg,7,Niverød,B_Anne_Seitz_Christoffersen,Anne Seitz Christoffersen,Radikale Venstre,3
+Fredensborg,7,Niverød,B_Thomas_Bruun_Olsen,Thomas Bruun Olsen,Radikale Venstre,0
+Fredensborg,7,Niverød,B_Gorm_Tortzen,Gorm Tortzen,Radikale Venstre,0
+Fredensborg,7,Niverød,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,101
+Fredensborg,7,Niverød,"C_Jesper_Tvilde,_Nivå","Jesper Tvilde, Nivå",Det Konservative Folkeparti,92
+Fredensborg,7,Niverød,"C_Ulla_Hardy-Hansen,_Fredensborg","Ulla Hardy-Hansen, Fredensborg",Det Konservative Folkeparti,14
+Fredensborg,7,Niverød,"C_Thomas_von_Jessen,_Nivå","Thomas von Jessen, Nivå",Det Konservative Folkeparti,61
+Fredensborg,7,Niverød,"C_Heidi_Boss_Nyby,_Nivå","Heidi Boss Nyby, Nivå",Det Konservative Folkeparti,56
+Fredensborg,7,Niverød,"C_Christian_de_Jonquiéres,Fredensbor","Christian de Jonquiéres,Fredensbor",Det Konservative Folkeparti,3
+Fredensborg,7,Niverød,"C_Morten_Hubenbecker_Poulsen,_Nivå","Morten Hubenbecker Poulsen, Nivå",Det Konservative Folkeparti,7
+Fredensborg,7,Niverød,"C_Celine_Lind_Jakobsen,_Kokkedal","Celine Lind Jakobsen, Kokkedal",Det Konservative Folkeparti,9
+Fredensborg,7,Niverød,"C_Jeppe_K._Lilholt,_Nivå","Jeppe K. Lilholt, Nivå",Det Konservative Folkeparti,12
+Fredensborg,7,Niverød,"C_Mikkel_Dodt_Fregerslev,_Humlebæk","Mikkel Dodt Fregerslev, Humlebæk",Det Konservative Folkeparti,6
+Fredensborg,7,Niverød,"C_Mikkel_Hartwich,_Humlebæk","Mikkel Hartwich, Humlebæk",Det Konservative Folkeparti,17
+Fredensborg,7,Niverød,"C_Michael_Huusom,_Kokkedal","Michael Huusom, Kokkedal",Det Konservative Folkeparti,10
+Fredensborg,7,Niverød,"C_Mikael_Wendelboe,_Nivå","Mikael Wendelboe, Nivå",Det Konservative Folkeparti,10
+Fredensborg,7,Niverød,"C_Henrik_Littau_Mærsk,_Fredensborg","Henrik Littau Mærsk, Fredensborg",Det Konservative Folkeparti,3
+Fredensborg,7,Niverød,"C_Mette_Nørtoft,_Humlebæk","Mette Nørtoft, Humlebæk",Det Konservative Folkeparti,6
+Fredensborg,7,Niverød,D_Listestemmer,Listestemmer,Nye Borgerlige,53
+Fredensborg,7,Niverød,"D_Steen_Løfstrøm,_Humlebæk","Steen Løfstrøm, Humlebæk",Nye Borgerlige,34
+Fredensborg,7,Niverød,"D_Kaspar_Hemmingsen,_Fredensborg","Kaspar Hemmingsen, Fredensborg",Nye Borgerlige,5
+Fredensborg,7,Niverød,"D_Søren_Regenberg,_Fredensborg","Søren Regenberg, Fredensborg",Nye Borgerlige,7
+Fredensborg,7,Niverød,"D_Jesper_Hammer,_Fredensborg","Jesper Hammer, Fredensborg",Nye Borgerlige,9
+Fredensborg,7,Niverød,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,49
+Fredensborg,7,Niverød,F_Hanne_Berg,Hanne Berg,SF - Socialistisk Folkeparti,113
+Fredensborg,7,Niverød,F_Bent_Fischer-Nielsen,Bent Fischer-Nielsen,SF - Socialistisk Folkeparti,45
+Fredensborg,7,Niverød,F_Sune_Hybert,Sune Hybert,SF - Socialistisk Folkeparti,21
+Fredensborg,7,Niverød,F_Torben_Forskov,Torben Forskov,SF - Socialistisk Folkeparti,5
+Fredensborg,7,Niverød,F_Pia_Jespersen,Pia Jespersen,SF - Socialistisk Folkeparti,2
+Fredensborg,7,Niverød,F_Anders_Jensen,Anders Jensen,SF - Socialistisk Folkeparti,0
+Fredensborg,7,Niverød,F_Berit_K._Holtegaard,Berit K. Holtegaard,SF - Socialistisk Folkeparti,2
+Fredensborg,7,Niverød,I_Listestemmer,Listestemmer,Liberal Alliance,10
+Fredensborg,7,Niverød,I_Charlotte_Bie,Charlotte Bie,Liberal Alliance,56
+Fredensborg,7,Niverød,I_Morten_Tranborg,Morten Tranborg,Liberal Alliance,5
+Fredensborg,7,Niverød,K_Listestemmer,Listestemmer,Kristendemokraterne,4
+Fredensborg,7,Niverød,K_Peter_Vest,Peter Vest,Kristendemokraterne,2
+Fredensborg,7,Niverød,K_Britta_Kristensen,Britta Kristensen,Kristendemokraterne,5
+Fredensborg,7,Niverød,M_Listestemmer,Listestemmer,Marie Mynche,2
+Fredensborg,7,Niverød,M_Marie_Mynche,Marie Mynche,Marie Mynche,1
+Fredensborg,7,Niverød,O_Listestemmer,Listestemmer,Dansk Folkeparti,26
+Fredensborg,7,Niverød,O_Tanja_Quade_Madsen,Tanja Quade Madsen,Dansk Folkeparti,16
+Fredensborg,7,Niverød,O_Kenneth_Hillestrøm,Kenneth Hillestrøm,Dansk Folkeparti,13
+Fredensborg,7,Niverød,O_Flemming_Rømer,Flemming Rømer,Dansk Folkeparti,1
+Fredensborg,7,Niverød,O_Kristian_Klitgaard,Kristian Klitgaard,Dansk Folkeparti,5
+Fredensborg,7,Niverød,O_Kim_E._Jensen,Kim E. Jensen,Dansk Folkeparti,5
+Fredensborg,7,Niverød,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",68
+Fredensborg,7,Niverød,V_Lars_Søndergaard,Lars Søndergaard,"Venstre, Danmarks Liberale Parti",110
+Fredensborg,7,Niverød,V_Mie_Stattau,Mie Stattau,"Venstre, Danmarks Liberale Parti",41
+Fredensborg,7,Niverød,V_Tinne_Borch_Jacobsen,Tinne Borch Jacobsen,"Venstre, Danmarks Liberale Parti",6
+Fredensborg,7,Niverød,V_Kristian_Tanderup,Kristian Tanderup,"Venstre, Danmarks Liberale Parti",2
+Fredensborg,7,Niverød,V_Laura_Mortensen,Laura Mortensen,"Venstre, Danmarks Liberale Parti",17
+Fredensborg,7,Niverød,V_Thomas_Elgaard,Thomas Elgaard,"Venstre, Danmarks Liberale Parti",77
+Fredensborg,7,Niverød,V_Carsten_Wulff,Carsten Wulff,"Venstre, Danmarks Liberale Parti",3
+Fredensborg,7,Niverød,V_Carsten_Bo_Nielsen,Carsten Bo Nielsen,"Venstre, Danmarks Liberale Parti",6
+Fredensborg,7,Niverød,V_Lars_Egedal,Lars Egedal,"Venstre, Danmarks Liberale Parti",0
+Fredensborg,7,Niverød,V_Jacob_Simonsen,Jacob Simonsen,"Venstre, Danmarks Liberale Parti",13
+Fredensborg,7,Niverød,V_Charlotte_Kirkegaard,Charlotte Kirkegaard,"Venstre, Danmarks Liberale Parti",1
+Fredensborg,7,Niverød,V_Inge_Fiil_Poulsen,Inge Fiil Poulsen,"Venstre, Danmarks Liberale Parti",0
+Fredensborg,7,Niverød,V_Per_Askestad,Per Askestad,"Venstre, Danmarks Liberale Parti",2
+Fredensborg,7,Niverød,V_Preben_Goth,Preben Goth,"Venstre, Danmarks Liberale Parti",0
+Fredensborg,7,Niverød,V_Claus_Hassing,Claus Hassing,"Venstre, Danmarks Liberale Parti",1
+Fredensborg,7,Niverød,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,47
+Fredensborg,7,Niverød,"Ø_Bjørn_Svensson,_Fredensborg","Bjørn Svensson, Fredensborg",Enhedslisten - De Rød-Grønne,5
+Fredensborg,7,Niverød,"Ø_Sussi_Jensen,_Humlebæk","Sussi Jensen, Humlebæk",Enhedslisten - De Rød-Grønne,9
+Fredensborg,7,Niverød,"Ø_Brian_Højgaard,_Fredensborg","Brian Højgaard, Fredensborg",Enhedslisten - De Rød-Grønne,1
+Fredensborg,7,Niverød,"Ø_Christian_von_Platen,_Nivå","Christian von Platen, Nivå",Enhedslisten - De Rød-Grønne,11
+Fredensborg,7,Niverød,Å_Listestemmer,Listestemmer,Alternativet,4
+Fredensborg,7,Niverød,"Å_Sidsel_Dyekjær,_Humlebæk","Sidsel Dyekjær, Humlebæk",Alternativet,15
+Fredensborg,8,Karlebo,A_Listestemmer,Listestemmer,Socialdemokratiet,25
+Fredensborg,8,Karlebo,"A_Thomas_Lykke_Pedersen,_Humlebæk","Thomas Lykke Pedersen, Humlebæk",Socialdemokratiet,30
+Fredensborg,8,Karlebo,"A_Per_Frost_Henriksen,_Fredensborg","Per Frost Henriksen, Fredensborg",Socialdemokratiet,28
+Fredensborg,8,Karlebo,"A_Louise_Mehnke,_Kokkedal","Louise Mehnke, Kokkedal",Socialdemokratiet,26
+Fredensborg,8,Karlebo,"A_Hans_Nissen,_Humlebæk","Hans Nissen, Humlebæk",Socialdemokratiet,4
+Fredensborg,8,Karlebo,"A_Vivian_Johnsen,_Kokkedal","Vivian Johnsen, Kokkedal",Socialdemokratiet,1
+Fredensborg,8,Karlebo,"A_Sarah_Lykke,_Humlebæk","Sarah Lykke, Humlebæk",Socialdemokratiet,0
+Fredensborg,8,Karlebo,"A_Carsten_Nielsen,_Humlebæk","Carsten Nielsen, Humlebæk",Socialdemokratiet,9
+Fredensborg,8,Karlebo,"A_Pia_Bødtker,_Nivå","Pia Bødtker, Nivå",Socialdemokratiet,2
+Fredensborg,8,Karlebo,"A_Charlotte_Sander,_Fredensborg","Charlotte Sander, Fredensborg",Socialdemokratiet,2
+Fredensborg,8,Karlebo,"A_Mette_Hoff,_Fredensborg","Mette Hoff, Fredensborg",Socialdemokratiet,1
+Fredensborg,8,Karlebo,"A_Benn_Gandløse_Vestergaard,_Nivå","Benn Gandløse Vestergaard, Nivå",Socialdemokratiet,5
+Fredensborg,8,Karlebo,"A_Cømert_Sonsuz,_Nivå","Cømert Sonsuz, Nivå",Socialdemokratiet,2
+Fredensborg,8,Karlebo,"A_Ergin_Øzer,_Kokkedal","Ergin Øzer, Kokkedal",Socialdemokratiet,0
+Fredensborg,8,Karlebo,"A_Suzan_Daoud,_Kokkedal","Suzan Daoud, Kokkedal",Socialdemokratiet,1
+Fredensborg,8,Karlebo,"A_Steffen_Bjerre,_Nivå","Steffen Bjerre, Nivå",Socialdemokratiet,1
+Fredensborg,8,Karlebo,"A_Frederik_Lisemose,_Fredensborg","Frederik Lisemose, Fredensborg",Socialdemokratiet,0
+Fredensborg,8,Karlebo,"A_Hossein_Armandi,_Kokkedal","Hossein Armandi, Kokkedal",Socialdemokratiet,3
+Fredensborg,8,Karlebo,"A_Michael_Karby_Bakhauge,_Humlebæk","Michael Karby Bakhauge, Humlebæk",Socialdemokratiet,0
+Fredensborg,8,Karlebo,"A_Dorte_Beyer_Nielsen,_Kokkedal","Dorte Beyer Nielsen, Kokkedal",Socialdemokratiet,2
+Fredensborg,8,Karlebo,"A_Rasmus_Meyer,_Humlebæk","Rasmus Meyer, Humlebæk",Socialdemokratiet,0
+Fredensborg,8,Karlebo,B_Listestemmer,Listestemmer,Radikale Venstre,11
+Fredensborg,8,Karlebo,B_Lars_Simonsen,Lars Simonsen,Radikale Venstre,11
+Fredensborg,8,Karlebo,B_Bettina_Bové,Bettina Bové,Radikale Venstre,13
+Fredensborg,8,Karlebo,B_Soma_Mayel,Soma Mayel,Radikale Venstre,17
+Fredensborg,8,Karlebo,B_Jens_Thorup_Bindzus,Jens Thorup Bindzus,Radikale Venstre,0
+Fredensborg,8,Karlebo,B_Marianne_Bredgaard_Karlsson,Marianne Bredgaard Karlsson,Radikale Venstre,7
+Fredensborg,8,Karlebo,B_Rasmus_Langskov,Rasmus Langskov,Radikale Venstre,1
+Fredensborg,8,Karlebo,B_Marie_Louise_Wittenkamp,Marie Louise Wittenkamp,Radikale Venstre,6
+Fredensborg,8,Karlebo,B_Mikkel_Senna_Odoom,Mikkel Senna Odoom,Radikale Venstre,0
+Fredensborg,8,Karlebo,B_Anne_Seitz_Christoffersen,Anne Seitz Christoffersen,Radikale Venstre,1
+Fredensborg,8,Karlebo,B_Thomas_Bruun_Olsen,Thomas Bruun Olsen,Radikale Venstre,0
+Fredensborg,8,Karlebo,B_Gorm_Tortzen,Gorm Tortzen,Radikale Venstre,0
+Fredensborg,8,Karlebo,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,59
+Fredensborg,8,Karlebo,"C_Jesper_Tvilde,_Nivå","Jesper Tvilde, Nivå",Det Konservative Folkeparti,39
+Fredensborg,8,Karlebo,"C_Ulla_Hardy-Hansen,_Fredensborg","Ulla Hardy-Hansen, Fredensborg",Det Konservative Folkeparti,36
+Fredensborg,8,Karlebo,"C_Thomas_von_Jessen,_Nivå","Thomas von Jessen, Nivå",Det Konservative Folkeparti,11
+Fredensborg,8,Karlebo,"C_Heidi_Boss_Nyby,_Nivå","Heidi Boss Nyby, Nivå",Det Konservative Folkeparti,10
+Fredensborg,8,Karlebo,"C_Christian_de_Jonquiéres,Fredensbor","Christian de Jonquiéres,Fredensbor",Det Konservative Folkeparti,16
+Fredensborg,8,Karlebo,"C_Morten_Hubenbecker_Poulsen,_Nivå","Morten Hubenbecker Poulsen, Nivå",Det Konservative Folkeparti,1
+Fredensborg,8,Karlebo,"C_Celine_Lind_Jakobsen,_Kokkedal","Celine Lind Jakobsen, Kokkedal",Det Konservative Folkeparti,2
+Fredensborg,8,Karlebo,"C_Jeppe_K._Lilholt,_Nivå","Jeppe K. Lilholt, Nivå",Det Konservative Folkeparti,1
+Fredensborg,8,Karlebo,"C_Mikkel_Dodt_Fregerslev,_Humlebæk","Mikkel Dodt Fregerslev, Humlebæk",Det Konservative Folkeparti,1
+Fredensborg,8,Karlebo,"C_Mikkel_Hartwich,_Humlebæk","Mikkel Hartwich, Humlebæk",Det Konservative Folkeparti,2
+Fredensborg,8,Karlebo,"C_Michael_Huusom,_Kokkedal","Michael Huusom, Kokkedal",Det Konservative Folkeparti,5
+Fredensborg,8,Karlebo,"C_Mikael_Wendelboe,_Nivå","Mikael Wendelboe, Nivå",Det Konservative Folkeparti,0
+Fredensborg,8,Karlebo,"C_Henrik_Littau_Mærsk,_Fredensborg","Henrik Littau Mærsk, Fredensborg",Det Konservative Folkeparti,4
+Fredensborg,8,Karlebo,"C_Mette_Nørtoft,_Humlebæk","Mette Nørtoft, Humlebæk",Det Konservative Folkeparti,7
+Fredensborg,8,Karlebo,D_Listestemmer,Listestemmer,Nye Borgerlige,23
+Fredensborg,8,Karlebo,"D_Steen_Løfstrøm,_Humlebæk","Steen Løfstrøm, Humlebæk",Nye Borgerlige,12
+Fredensborg,8,Karlebo,"D_Kaspar_Hemmingsen,_Fredensborg","Kaspar Hemmingsen, Fredensborg",Nye Borgerlige,1
+Fredensborg,8,Karlebo,"D_Søren_Regenberg,_Fredensborg","Søren Regenberg, Fredensborg",Nye Borgerlige,4
+Fredensborg,8,Karlebo,"D_Jesper_Hammer,_Fredensborg","Jesper Hammer, Fredensborg",Nye Borgerlige,11
+Fredensborg,8,Karlebo,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,14
+Fredensborg,8,Karlebo,F_Hanne_Berg,Hanne Berg,SF - Socialistisk Folkeparti,18
+Fredensborg,8,Karlebo,F_Bent_Fischer-Nielsen,Bent Fischer-Nielsen,SF - Socialistisk Folkeparti,2
+Fredensborg,8,Karlebo,F_Sune_Hybert,Sune Hybert,SF - Socialistisk Folkeparti,3
+Fredensborg,8,Karlebo,F_Torben_Forskov,Torben Forskov,SF - Socialistisk Folkeparti,2
+Fredensborg,8,Karlebo,F_Pia_Jespersen,Pia Jespersen,SF - Socialistisk Folkeparti,1
+Fredensborg,8,Karlebo,F_Anders_Jensen,Anders Jensen,SF - Socialistisk Folkeparti,0
+Fredensborg,8,Karlebo,F_Berit_K._Holtegaard,Berit K. Holtegaard,SF - Socialistisk Folkeparti,0
+Fredensborg,8,Karlebo,I_Listestemmer,Listestemmer,Liberal Alliance,12
+Fredensborg,8,Karlebo,I_Charlotte_Bie,Charlotte Bie,Liberal Alliance,13
+Fredensborg,8,Karlebo,I_Morten_Tranborg,Morten Tranborg,Liberal Alliance,1
+Fredensborg,8,Karlebo,K_Listestemmer,Listestemmer,Kristendemokraterne,0
+Fredensborg,8,Karlebo,K_Peter_Vest,Peter Vest,Kristendemokraterne,0
+Fredensborg,8,Karlebo,K_Britta_Kristensen,Britta Kristensen,Kristendemokraterne,1
+Fredensborg,8,Karlebo,M_Listestemmer,Listestemmer,Marie Mynche,0
+Fredensborg,8,Karlebo,M_Marie_Mynche,Marie Mynche,Marie Mynche,0
+Fredensborg,8,Karlebo,O_Listestemmer,Listestemmer,Dansk Folkeparti,6
+Fredensborg,8,Karlebo,O_Tanja_Quade_Madsen,Tanja Quade Madsen,Dansk Folkeparti,10
+Fredensborg,8,Karlebo,O_Kenneth_Hillestrøm,Kenneth Hillestrøm,Dansk Folkeparti,0
+Fredensborg,8,Karlebo,O_Flemming_Rømer,Flemming Rømer,Dansk Folkeparti,0
+Fredensborg,8,Karlebo,O_Kristian_Klitgaard,Kristian Klitgaard,Dansk Folkeparti,2
+Fredensborg,8,Karlebo,O_Kim_E._Jensen,Kim E. Jensen,Dansk Folkeparti,0
+Fredensborg,8,Karlebo,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",31
+Fredensborg,8,Karlebo,V_Lars_Søndergaard,Lars Søndergaard,"Venstre, Danmarks Liberale Parti",39
+Fredensborg,8,Karlebo,V_Mie_Stattau,Mie Stattau,"Venstre, Danmarks Liberale Parti",13
+Fredensborg,8,Karlebo,V_Tinne_Borch_Jacobsen,Tinne Borch Jacobsen,"Venstre, Danmarks Liberale Parti",2
+Fredensborg,8,Karlebo,V_Kristian_Tanderup,Kristian Tanderup,"Venstre, Danmarks Liberale Parti",0
+Fredensborg,8,Karlebo,V_Laura_Mortensen,Laura Mortensen,"Venstre, Danmarks Liberale Parti",5
+Fredensborg,8,Karlebo,V_Thomas_Elgaard,Thomas Elgaard,"Venstre, Danmarks Liberale Parti",8
+Fredensborg,8,Karlebo,V_Carsten_Wulff,Carsten Wulff,"Venstre, Danmarks Liberale Parti",0
+Fredensborg,8,Karlebo,V_Carsten_Bo_Nielsen,Carsten Bo Nielsen,"Venstre, Danmarks Liberale Parti",13
+Fredensborg,8,Karlebo,V_Lars_Egedal,Lars Egedal,"Venstre, Danmarks Liberale Parti",48
+Fredensborg,8,Karlebo,V_Jacob_Simonsen,Jacob Simonsen,"Venstre, Danmarks Liberale Parti",0
+Fredensborg,8,Karlebo,V_Charlotte_Kirkegaard,Charlotte Kirkegaard,"Venstre, Danmarks Liberale Parti",9
+Fredensborg,8,Karlebo,V_Inge_Fiil_Poulsen,Inge Fiil Poulsen,"Venstre, Danmarks Liberale Parti",2
+Fredensborg,8,Karlebo,V_Per_Askestad,Per Askestad,"Venstre, Danmarks Liberale Parti",0
+Fredensborg,8,Karlebo,V_Preben_Goth,Preben Goth,"Venstre, Danmarks Liberale Parti",0
+Fredensborg,8,Karlebo,V_Claus_Hassing,Claus Hassing,"Venstre, Danmarks Liberale Parti",2
+Fredensborg,8,Karlebo,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,10
+Fredensborg,8,Karlebo,"Ø_Bjørn_Svensson,_Fredensborg","Bjørn Svensson, Fredensborg",Enhedslisten - De Rød-Grønne,6
+Fredensborg,8,Karlebo,"Ø_Sussi_Jensen,_Humlebæk","Sussi Jensen, Humlebæk",Enhedslisten - De Rød-Grønne,0
+Fredensborg,8,Karlebo,"Ø_Brian_Højgaard,_Fredensborg","Brian Højgaard, Fredensborg",Enhedslisten - De Rød-Grønne,0
+Fredensborg,8,Karlebo,"Ø_Christian_von_Platen,_Nivå","Christian von Platen, Nivå",Enhedslisten - De Rød-Grønne,0
+Fredensborg,8,Karlebo,Å_Listestemmer,Listestemmer,Alternativet,2
+Fredensborg,8,Karlebo,"Å_Sidsel_Dyekjær,_Humlebæk","Sidsel Dyekjær, Humlebæk",Alternativet,3
+Fredensborg,9,Nivå,A_Listestemmer,Listestemmer,Socialdemokratiet,131
+Fredensborg,9,Nivå,"A_Thomas_Lykke_Pedersen,_Humlebæk","Thomas Lykke Pedersen, Humlebæk",Socialdemokratiet,133
+Fredensborg,9,Nivå,"A_Per_Frost_Henriksen,_Fredensborg","Per Frost Henriksen, Fredensborg",Socialdemokratiet,42
+Fredensborg,9,Nivå,"A_Louise_Mehnke,_Kokkedal","Louise Mehnke, Kokkedal",Socialdemokratiet,31
+Fredensborg,9,Nivå,"A_Hans_Nissen,_Humlebæk","Hans Nissen, Humlebæk",Socialdemokratiet,7
+Fredensborg,9,Nivå,"A_Vivian_Johnsen,_Kokkedal","Vivian Johnsen, Kokkedal",Socialdemokratiet,6
+Fredensborg,9,Nivå,"A_Sarah_Lykke,_Humlebæk","Sarah Lykke, Humlebæk",Socialdemokratiet,13
+Fredensborg,9,Nivå,"A_Carsten_Nielsen,_Humlebæk","Carsten Nielsen, Humlebæk",Socialdemokratiet,2
+Fredensborg,9,Nivå,"A_Pia_Bødtker,_Nivå","Pia Bødtker, Nivå",Socialdemokratiet,81
+Fredensborg,9,Nivå,"A_Charlotte_Sander,_Fredensborg","Charlotte Sander, Fredensborg",Socialdemokratiet,0
+Fredensborg,9,Nivå,"A_Mette_Hoff,_Fredensborg","Mette Hoff, Fredensborg",Socialdemokratiet,3
+Fredensborg,9,Nivå,"A_Benn_Gandløse_Vestergaard,_Nivå","Benn Gandløse Vestergaard, Nivå",Socialdemokratiet,73
+Fredensborg,9,Nivå,"A_Cømert_Sonsuz,_Nivå","Cømert Sonsuz, Nivå",Socialdemokratiet,164
+Fredensborg,9,Nivå,"A_Ergin_Øzer,_Kokkedal","Ergin Øzer, Kokkedal",Socialdemokratiet,25
+Fredensborg,9,Nivå,"A_Suzan_Daoud,_Kokkedal","Suzan Daoud, Kokkedal",Socialdemokratiet,23
+Fredensborg,9,Nivå,"A_Steffen_Bjerre,_Nivå","Steffen Bjerre, Nivå",Socialdemokratiet,21
+Fredensborg,9,Nivå,"A_Frederik_Lisemose,_Fredensborg","Frederik Lisemose, Fredensborg",Socialdemokratiet,1
+Fredensborg,9,Nivå,"A_Hossein_Armandi,_Kokkedal","Hossein Armandi, Kokkedal",Socialdemokratiet,6
+Fredensborg,9,Nivå,"A_Michael_Karby_Bakhauge,_Humlebæk","Michael Karby Bakhauge, Humlebæk",Socialdemokratiet,3
+Fredensborg,9,Nivå,"A_Dorte_Beyer_Nielsen,_Kokkedal","Dorte Beyer Nielsen, Kokkedal",Socialdemokratiet,7
+Fredensborg,9,Nivå,"A_Rasmus_Meyer,_Humlebæk","Rasmus Meyer, Humlebæk",Socialdemokratiet,2
+Fredensborg,9,Nivå,B_Listestemmer,Listestemmer,Radikale Venstre,43
+Fredensborg,9,Nivå,B_Lars_Simonsen,Lars Simonsen,Radikale Venstre,26
+Fredensborg,9,Nivå,B_Bettina_Bové,Bettina Bové,Radikale Venstre,24
+Fredensborg,9,Nivå,B_Soma_Mayel,Soma Mayel,Radikale Venstre,77
+Fredensborg,9,Nivå,B_Jens_Thorup_Bindzus,Jens Thorup Bindzus,Radikale Venstre,2
+Fredensborg,9,Nivå,B_Marianne_Bredgaard_Karlsson,Marianne Bredgaard Karlsson,Radikale Venstre,4
+Fredensborg,9,Nivå,B_Rasmus_Langskov,Rasmus Langskov,Radikale Venstre,1
+Fredensborg,9,Nivå,B_Marie_Louise_Wittenkamp,Marie Louise Wittenkamp,Radikale Venstre,6
+Fredensborg,9,Nivå,B_Mikkel_Senna_Odoom,Mikkel Senna Odoom,Radikale Venstre,1
+Fredensborg,9,Nivå,B_Anne_Seitz_Christoffersen,Anne Seitz Christoffersen,Radikale Venstre,7
+Fredensborg,9,Nivå,B_Thomas_Bruun_Olsen,Thomas Bruun Olsen,Radikale Venstre,0
+Fredensborg,9,Nivå,B_Gorm_Tortzen,Gorm Tortzen,Radikale Venstre,2
+Fredensborg,9,Nivå,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,69
+Fredensborg,9,Nivå,"C_Jesper_Tvilde,_Nivå","Jesper Tvilde, Nivå",Det Konservative Folkeparti,82
+Fredensborg,9,Nivå,"C_Ulla_Hardy-Hansen,_Fredensborg","Ulla Hardy-Hansen, Fredensborg",Det Konservative Folkeparti,16
+Fredensborg,9,Nivå,"C_Thomas_von_Jessen,_Nivå","Thomas von Jessen, Nivå",Det Konservative Folkeparti,35
+Fredensborg,9,Nivå,"C_Heidi_Boss_Nyby,_Nivå","Heidi Boss Nyby, Nivå",Det Konservative Folkeparti,81
+Fredensborg,9,Nivå,"C_Christian_de_Jonquiéres,Fredensbor","Christian de Jonquiéres,Fredensbor",Det Konservative Folkeparti,10
+Fredensborg,9,Nivå,"C_Morten_Hubenbecker_Poulsen,_Nivå","Morten Hubenbecker Poulsen, Nivå",Det Konservative Folkeparti,21
+Fredensborg,9,Nivå,"C_Celine_Lind_Jakobsen,_Kokkedal","Celine Lind Jakobsen, Kokkedal",Det Konservative Folkeparti,3
+Fredensborg,9,Nivå,"C_Jeppe_K._Lilholt,_Nivå","Jeppe K. Lilholt, Nivå",Det Konservative Folkeparti,3
+Fredensborg,9,Nivå,"C_Mikkel_Dodt_Fregerslev,_Humlebæk","Mikkel Dodt Fregerslev, Humlebæk",Det Konservative Folkeparti,4
+Fredensborg,9,Nivå,"C_Mikkel_Hartwich,_Humlebæk","Mikkel Hartwich, Humlebæk",Det Konservative Folkeparti,15
+Fredensborg,9,Nivå,"C_Michael_Huusom,_Kokkedal","Michael Huusom, Kokkedal",Det Konservative Folkeparti,12
+Fredensborg,9,Nivå,"C_Mikael_Wendelboe,_Nivå","Mikael Wendelboe, Nivå",Det Konservative Folkeparti,8
+Fredensborg,9,Nivå,"C_Henrik_Littau_Mærsk,_Fredensborg","Henrik Littau Mærsk, Fredensborg",Det Konservative Folkeparti,2
+Fredensborg,9,Nivå,"C_Mette_Nørtoft,_Humlebæk","Mette Nørtoft, Humlebæk",Det Konservative Folkeparti,1
+Fredensborg,9,Nivå,D_Listestemmer,Listestemmer,Nye Borgerlige,19
+Fredensborg,9,Nivå,"D_Steen_Løfstrøm,_Humlebæk","Steen Løfstrøm, Humlebæk",Nye Borgerlige,21
+Fredensborg,9,Nivå,"D_Kaspar_Hemmingsen,_Fredensborg","Kaspar Hemmingsen, Fredensborg",Nye Borgerlige,3
+Fredensborg,9,Nivå,"D_Søren_Regenberg,_Fredensborg","Søren Regenberg, Fredensborg",Nye Borgerlige,3
+Fredensborg,9,Nivå,"D_Jesper_Hammer,_Fredensborg","Jesper Hammer, Fredensborg",Nye Borgerlige,5
+Fredensborg,9,Nivå,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,44
+Fredensborg,9,Nivå,F_Hanne_Berg,Hanne Berg,SF - Socialistisk Folkeparti,181
+Fredensborg,9,Nivå,F_Bent_Fischer-Nielsen,Bent Fischer-Nielsen,SF - Socialistisk Folkeparti,30
+Fredensborg,9,Nivå,F_Sune_Hybert,Sune Hybert,SF - Socialistisk Folkeparti,22
+Fredensborg,9,Nivå,F_Torben_Forskov,Torben Forskov,SF - Socialistisk Folkeparti,5
+Fredensborg,9,Nivå,F_Pia_Jespersen,Pia Jespersen,SF - Socialistisk Folkeparti,3
+Fredensborg,9,Nivå,F_Anders_Jensen,Anders Jensen,SF - Socialistisk Folkeparti,0
+Fredensborg,9,Nivå,F_Berit_K._Holtegaard,Berit K. Holtegaard,SF - Socialistisk Folkeparti,2
+Fredensborg,9,Nivå,I_Listestemmer,Listestemmer,Liberal Alliance,2
+Fredensborg,9,Nivå,I_Charlotte_Bie,Charlotte Bie,Liberal Alliance,27
+Fredensborg,9,Nivå,I_Morten_Tranborg,Morten Tranborg,Liberal Alliance,1
+Fredensborg,9,Nivå,K_Listestemmer,Listestemmer,Kristendemokraterne,4
+Fredensborg,9,Nivå,K_Peter_Vest,Peter Vest,Kristendemokraterne,6
+Fredensborg,9,Nivå,K_Britta_Kristensen,Britta Kristensen,Kristendemokraterne,3
+Fredensborg,9,Nivå,M_Listestemmer,Listestemmer,Marie Mynche,1
+Fredensborg,9,Nivå,M_Marie_Mynche,Marie Mynche,Marie Mynche,3
+Fredensborg,9,Nivå,O_Listestemmer,Listestemmer,Dansk Folkeparti,20
+Fredensborg,9,Nivå,O_Tanja_Quade_Madsen,Tanja Quade Madsen,Dansk Folkeparti,9
+Fredensborg,9,Nivå,O_Kenneth_Hillestrøm,Kenneth Hillestrøm,Dansk Folkeparti,16
+Fredensborg,9,Nivå,O_Flemming_Rømer,Flemming Rømer,Dansk Folkeparti,4
+Fredensborg,9,Nivå,O_Kristian_Klitgaard,Kristian Klitgaard,Dansk Folkeparti,3
+Fredensborg,9,Nivå,O_Kim_E._Jensen,Kim E. Jensen,Dansk Folkeparti,0
+Fredensborg,9,Nivå,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",47
+Fredensborg,9,Nivå,V_Lars_Søndergaard,Lars Søndergaard,"Venstre, Danmarks Liberale Parti",73
+Fredensborg,9,Nivå,V_Mie_Stattau,Mie Stattau,"Venstre, Danmarks Liberale Parti",55
+Fredensborg,9,Nivå,V_Tinne_Borch_Jacobsen,Tinne Borch Jacobsen,"Venstre, Danmarks Liberale Parti",7
+Fredensborg,9,Nivå,V_Kristian_Tanderup,Kristian Tanderup,"Venstre, Danmarks Liberale Parti",2
+Fredensborg,9,Nivå,V_Laura_Mortensen,Laura Mortensen,"Venstre, Danmarks Liberale Parti",7
+Fredensborg,9,Nivå,V_Thomas_Elgaard,Thomas Elgaard,"Venstre, Danmarks Liberale Parti",18
+Fredensborg,9,Nivå,V_Carsten_Wulff,Carsten Wulff,"Venstre, Danmarks Liberale Parti",2
+Fredensborg,9,Nivå,V_Carsten_Bo_Nielsen,Carsten Bo Nielsen,"Venstre, Danmarks Liberale Parti",9
+Fredensborg,9,Nivå,V_Lars_Egedal,Lars Egedal,"Venstre, Danmarks Liberale Parti",4
+Fredensborg,9,Nivå,V_Jacob_Simonsen,Jacob Simonsen,"Venstre, Danmarks Liberale Parti",10
+Fredensborg,9,Nivå,V_Charlotte_Kirkegaard,Charlotte Kirkegaard,"Venstre, Danmarks Liberale Parti",1
+Fredensborg,9,Nivå,V_Inge_Fiil_Poulsen,Inge Fiil Poulsen,"Venstre, Danmarks Liberale Parti",3
+Fredensborg,9,Nivå,V_Per_Askestad,Per Askestad,"Venstre, Danmarks Liberale Parti",1
+Fredensborg,9,Nivå,V_Preben_Goth,Preben Goth,"Venstre, Danmarks Liberale Parti",0
+Fredensborg,9,Nivå,V_Claus_Hassing,Claus Hassing,"Venstre, Danmarks Liberale Parti",0
+Fredensborg,9,Nivå,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,32
+Fredensborg,9,Nivå,"Ø_Bjørn_Svensson,_Fredensborg","Bjørn Svensson, Fredensborg",Enhedslisten - De Rød-Grønne,11
+Fredensborg,9,Nivå,"Ø_Sussi_Jensen,_Humlebæk","Sussi Jensen, Humlebæk",Enhedslisten - De Rød-Grønne,18
+Fredensborg,9,Nivå,"Ø_Brian_Højgaard,_Fredensborg","Brian Højgaard, Fredensborg",Enhedslisten - De Rød-Grønne,0
+Fredensborg,9,Nivå,"Ø_Christian_von_Platen,_Nivå","Christian von Platen, Nivå",Enhedslisten - De Rød-Grønne,7
+Fredensborg,9,Nivå,Å_Listestemmer,Listestemmer,Alternativet,1
+Fredensborg,9,Nivå,"Å_Sidsel_Dyekjær,_Humlebæk","Sidsel Dyekjær, Humlebæk",Alternativet,9

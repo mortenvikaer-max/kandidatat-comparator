@@ -1,0 +1,366 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Brøndby,1,Brøndbyvester Skole,A_Listestemmer,Listestemmer,Socialdemokratiet,267
+Brøndby,1,Brøndbyvester Skole,A_Kent_Max_Magelund,Kent Max Magelund,Socialdemokratiet,340
+Brøndby,1,Brøndbyvester Skole,A_Maja_Højgaard,Maja Højgaard,Socialdemokratiet,109
+Brøndby,1,Brøndbyvester Skole,A_Finn_Andersen,Finn Andersen,Socialdemokratiet,63
+Brøndby,1,Brøndbyvester Skole,A_Anette_Pilmark,Anette Pilmark,Socialdemokratiet,46
+Brøndby,1,Brøndbyvester Skole,A_Arno_Hurup_Christiansen,Arno Hurup Christiansen,Socialdemokratiet,8
+Brøndby,1,Brøndbyvester Skole,A_Franz_Hansen,Franz Hansen,Socialdemokratiet,52
+Brøndby,1,Brøndbyvester Skole,A_Per_Jensen,Per Jensen,Socialdemokratiet,19
+Brøndby,1,Brøndbyvester Skole,A_Pia_Kofoed,Pia Kofoed,Socialdemokratiet,10
+Brøndby,1,Brøndbyvester Skole,A_Hajg_Zanazanian,Hajg Zanazanian,Socialdemokratiet,37
+Brøndby,1,Brøndbyvester Skole,A_Michael_Buch-Barnes,Michael Buch-Barnes,Socialdemokratiet,17
+Brøndby,1,Brøndbyvester Skole,A_Jesper_Stegler,Jesper Stegler,Socialdemokratiet,34
+Brøndby,1,Brøndbyvester Skole,A_Henning_Elmelund,Henning Elmelund,Socialdemokratiet,17
+Brøndby,1,Brøndbyvester Skole,A_Henrik_Hollender,Henrik Hollender,Socialdemokratiet,6
+Brøndby,1,Brøndbyvester Skole,A_Harun_Muharemovic,Harun Muharemovic,Socialdemokratiet,9
+Brøndby,1,Brøndbyvester Skole,A_Susanne_Hulkvist,Susanne Hulkvist,Socialdemokratiet,9
+Brøndby,1,Brøndbyvester Skole,A_Tammes_Jungløw_Christensen,Tammes Jungløw Christensen,Socialdemokratiet,10
+Brøndby,1,Brøndbyvester Skole,A_Syed_Aejaz_Haider_Bukhari,Syed Aejaz Haider Bukhari,Socialdemokratiet,18
+Brøndby,1,Brøndbyvester Skole,A_Mahmut_Erdem,Mahmut Erdem,Socialdemokratiet,6
+Brøndby,1,Brøndbyvester Skole,A_Torben_Nymand,Torben Nymand,Socialdemokratiet,3
+Brøndby,1,Brøndbyvester Skole,A_Cafer_Koyuncu,Cafer Koyuncu,Socialdemokratiet,2
+Brøndby,1,Brøndbyvester Skole,B_Listestemmer,Listestemmer,Radikale Venstre,27
+Brøndby,1,Brøndbyvester Skole,B_Elif_Demir_Gökce,Elif Demir Gökce,Radikale Venstre,44
+Brøndby,1,Brøndbyvester Skole,B_Said_Mo_El_Idrissi,Said Mo El Idrissi,Radikale Venstre,6
+Brøndby,1,Brøndbyvester Skole,B_Flemming_Eriksen,Flemming Eriksen,Radikale Venstre,5
+Brøndby,1,Brøndbyvester Skole,B_Tim_Kjær,Tim Kjær,Radikale Venstre,10
+Brøndby,1,Brøndbyvester Skole,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,136
+Brøndby,1,Brøndbyvester Skole,"C_Michael_R._Rugaard,_Brøndbyøster","Michael R. Rugaard, Brøndbyøster",Det Konservative Folkeparti,81
+Brøndby,1,Brøndbyvester Skole,"C_Lene_Skallebæk,_Brøndby_Strand","Lene Skallebæk, Brøndby Strand",Det Konservative Folkeparti,21
+Brøndby,1,Brøndbyvester Skole,"C_Ole_Lønborg,_Brøndby_Strand","Ole Lønborg, Brøndby Strand",Det Konservative Folkeparti,12
+Brøndby,1,Brøndbyvester Skole,"C_Henrik_Jacobsen,_Brøndbyøster","Henrik Jacobsen, Brøndbyøster",Det Konservative Folkeparti,10
+Brøndby,1,Brøndbyvester Skole,D_Listestemmer,Listestemmer,Nye Borgerlige,75
+Brøndby,1,Brøndbyvester Skole,D_Allan_Orland,Allan Orland,Nye Borgerlige,53
+Brøndby,1,Brøndbyvester Skole,D_Steen_Bay,Steen Bay,Nye Borgerlige,5
+Brøndby,1,Brøndbyvester Skole,D_Tina_Beuchert,Tina Beuchert,Nye Borgerlige,9
+Brøndby,1,Brøndbyvester Skole,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,58
+Brøndby,1,Brøndbyvester Skole,F_Vagn_Kjær-Hansen,Vagn Kjær-Hansen,SF - Socialistisk Folkeparti,42
+Brøndby,1,Brøndbyvester Skole,F_Annette_Reckendorph,Annette Reckendorph,SF - Socialistisk Folkeparti,44
+Brøndby,1,Brøndbyvester Skole,F_Alexander_Bruhn_Skjøth,Alexander Bruhn Skjøth,SF - Socialistisk Folkeparti,2
+Brøndby,1,Brøndbyvester Skole,F_Maia_Bruhn_Skjøth,Maia Bruhn Skjøth,SF - Socialistisk Folkeparti,15
+Brøndby,1,Brøndbyvester Skole,F_Henrik_Puukka-Sørensen,Henrik Puukka-Sørensen,SF - Socialistisk Folkeparti,6
+Brøndby,1,Brøndbyvester Skole,F_Brian_Nielsen,Brian Nielsen,SF - Socialistisk Folkeparti,2
+Brøndby,1,Brøndbyvester Skole,F_Jette_Jul_Jensen,Jette Jul Jensen,SF - Socialistisk Folkeparti,1
+Brøndby,1,Brøndbyvester Skole,I_Listestemmer,Listestemmer,Liberal Alliance,9
+Brøndby,1,Brøndbyvester Skole,I_Özkan_Ekiz,Özkan Ekiz,Liberal Alliance,17
+Brøndby,1,Brøndbyvester Skole,I_Carsten_Zacho,Carsten Zacho,Liberal Alliance,15
+Brøndby,1,Brøndbyvester Skole,O_Listestemmer,Listestemmer,Dansk Folkeparti,75
+Brøndby,1,Brøndbyvester Skole,O_Tom_Bech_Fredriksen,Tom Bech Fredriksen,Dansk Folkeparti,43
+Brøndby,1,Brøndbyvester Skole,O_Poul_Gaardbo,Poul Gaardbo,Dansk Folkeparti,30
+Brøndby,1,Brøndbyvester Skole,O_Susanne_Hansen,Susanne Hansen,Dansk Folkeparti,13
+Brøndby,1,Brøndbyvester Skole,O_Henrik_Bach,Henrik Bach,Dansk Folkeparti,8
+Brøndby,1,Brøndbyvester Skole,O_Ole_Valsgaard_Hansen,Ole Valsgaard Hansen,Dansk Folkeparti,4
+Brøndby,1,Brøndbyvester Skole,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",102
+Brøndby,1,Brøndbyvester Skole,V_Jan_Lundquist,Jan Lundquist,"Venstre, Danmarks Liberale Parti",58
+Brøndby,1,Brøndbyvester Skole,V_Kurt_Damsted,Kurt Damsted,"Venstre, Danmarks Liberale Parti",15
+Brøndby,1,Brøndbyvester Skole,V_Martin_Grønkjær,Martin Grønkjær,"Venstre, Danmarks Liberale Parti",8
+Brøndby,1,Brøndbyvester Skole,V_Carsten_Heldam,Carsten Heldam,"Venstre, Danmarks Liberale Parti",2
+Brøndby,1,Brøndbyvester Skole,V_Sara_Nørrevang,Sara Nørrevang,"Venstre, Danmarks Liberale Parti",10
+Brøndby,1,Brøndbyvester Skole,V_Annie_Hassenkam,Annie Hassenkam,"Venstre, Danmarks Liberale Parti",8
+Brøndby,1,Brøndbyvester Skole,V_Jørgen_Bonne,Jørgen Bonne,"Venstre, Danmarks Liberale Parti",17
+Brøndby,1,Brøndbyvester Skole,Æ_Listestemmer,Listestemmer,Frihedslisten,5
+Brøndby,1,Brøndbyvester Skole,"Æ_Oliver_Mysander,_Brøndby","Oliver Mysander, Brøndby",Frihedslisten,4
+Brøndby,1,Brøndbyvester Skole,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,55
+Brøndby,1,Brøndbyvester Skole,Ø_Fatih_Baran,Fatih Baran,Enhedslisten - De Rød-Grønne,21
+Brøndby,1,Brøndbyvester Skole,Ø_Astrid_Høgsbjerg_Rasmussen,Astrid Høgsbjerg Rasmussen,Enhedslisten - De Rød-Grønne,40
+Brøndby,1,Brøndbyvester Skole,Ø_Dennis_Baggers_Laursen,Dennis Baggers Laursen,Enhedslisten - De Rød-Grønne,6
+Brøndby,1,Brøndbyvester Skole,Ø_Viggo_Halling,Viggo Halling,Enhedslisten - De Rød-Grønne,0
+Brøndby,1,Brøndbyvester Skole,Ø_Nina_Thamsen,Nina Thamsen,Enhedslisten - De Rød-Grønne,4
+Brøndby,1,Brøndbyvester Skole,Ø_Anne_Frederiksen,Anne Frederiksen,Enhedslisten - De Rød-Grønne,8
+Brøndby,1,Brøndbyvester Skole,Ø_Signe_Heering,Signe Heering,Enhedslisten - De Rød-Grønne,7
+Brøndby,1,Brøndbyvester Skole,Ø_Karen_Fedders_Prag,Karen Fedders Prag,Enhedslisten - De Rød-Grønne,2
+Brøndby,1,Brøndbyvester Skole,Ø_Mona_Fedders_Prag,Mona Fedders Prag,Enhedslisten - De Rød-Grønne,13
+Brøndby,1,Brøndbyvester Skole,Ø_Steen_Andersen,Steen Andersen,Enhedslisten - De Rød-Grønne,0
+Brøndby,2,Tjørnehøjhallen,A_Listestemmer,Listestemmer,Socialdemokratiet,252
+Brøndby,2,Tjørnehøjhallen,A_Kent_Max_Magelund,Kent Max Magelund,Socialdemokratiet,393
+Brøndby,2,Tjørnehøjhallen,A_Maja_Højgaard,Maja Højgaard,Socialdemokratiet,88
+Brøndby,2,Tjørnehøjhallen,A_Finn_Andersen,Finn Andersen,Socialdemokratiet,67
+Brøndby,2,Tjørnehøjhallen,A_Anette_Pilmark,Anette Pilmark,Socialdemokratiet,53
+Brøndby,2,Tjørnehøjhallen,A_Arno_Hurup_Christiansen,Arno Hurup Christiansen,Socialdemokratiet,10
+Brøndby,2,Tjørnehøjhallen,A_Franz_Hansen,Franz Hansen,Socialdemokratiet,28
+Brøndby,2,Tjørnehøjhallen,A_Per_Jensen,Per Jensen,Socialdemokratiet,31
+Brøndby,2,Tjørnehøjhallen,A_Pia_Kofoed,Pia Kofoed,Socialdemokratiet,15
+Brøndby,2,Tjørnehøjhallen,A_Hajg_Zanazanian,Hajg Zanazanian,Socialdemokratiet,17
+Brøndby,2,Tjørnehøjhallen,A_Michael_Buch-Barnes,Michael Buch-Barnes,Socialdemokratiet,23
+Brøndby,2,Tjørnehøjhallen,A_Jesper_Stegler,Jesper Stegler,Socialdemokratiet,16
+Brøndby,2,Tjørnehøjhallen,A_Henning_Elmelund,Henning Elmelund,Socialdemokratiet,19
+Brøndby,2,Tjørnehøjhallen,A_Henrik_Hollender,Henrik Hollender,Socialdemokratiet,8
+Brøndby,2,Tjørnehøjhallen,A_Harun_Muharemovic,Harun Muharemovic,Socialdemokratiet,6
+Brøndby,2,Tjørnehøjhallen,A_Susanne_Hulkvist,Susanne Hulkvist,Socialdemokratiet,13
+Brøndby,2,Tjørnehøjhallen,A_Tammes_Jungløw_Christensen,Tammes Jungløw Christensen,Socialdemokratiet,3
+Brøndby,2,Tjørnehøjhallen,A_Syed_Aejaz_Haider_Bukhari,Syed Aejaz Haider Bukhari,Socialdemokratiet,17
+Brøndby,2,Tjørnehøjhallen,A_Mahmut_Erdem,Mahmut Erdem,Socialdemokratiet,1
+Brøndby,2,Tjørnehøjhallen,A_Torben_Nymand,Torben Nymand,Socialdemokratiet,1
+Brøndby,2,Tjørnehøjhallen,A_Cafer_Koyuncu,Cafer Koyuncu,Socialdemokratiet,0
+Brøndby,2,Tjørnehøjhallen,B_Listestemmer,Listestemmer,Radikale Venstre,13
+Brøndby,2,Tjørnehøjhallen,B_Elif_Demir_Gökce,Elif Demir Gökce,Radikale Venstre,18
+Brøndby,2,Tjørnehøjhallen,B_Said_Mo_El_Idrissi,Said Mo El Idrissi,Radikale Venstre,2
+Brøndby,2,Tjørnehøjhallen,B_Flemming_Eriksen,Flemming Eriksen,Radikale Venstre,2
+Brøndby,2,Tjørnehøjhallen,B_Tim_Kjær,Tim Kjær,Radikale Venstre,4
+Brøndby,2,Tjørnehøjhallen,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,75
+Brøndby,2,Tjørnehøjhallen,"C_Michael_R._Rugaard,_Brøndbyøster","Michael R. Rugaard, Brøndbyøster",Det Konservative Folkeparti,32
+Brøndby,2,Tjørnehøjhallen,"C_Lene_Skallebæk,_Brøndby_Strand","Lene Skallebæk, Brøndby Strand",Det Konservative Folkeparti,16
+Brøndby,2,Tjørnehøjhallen,"C_Ole_Lønborg,_Brøndby_Strand","Ole Lønborg, Brøndby Strand",Det Konservative Folkeparti,9
+Brøndby,2,Tjørnehøjhallen,"C_Henrik_Jacobsen,_Brøndbyøster","Henrik Jacobsen, Brøndbyøster",Det Konservative Folkeparti,4
+Brøndby,2,Tjørnehøjhallen,D_Listestemmer,Listestemmer,Nye Borgerlige,59
+Brøndby,2,Tjørnehøjhallen,D_Allan_Orland,Allan Orland,Nye Borgerlige,37
+Brøndby,2,Tjørnehøjhallen,D_Steen_Bay,Steen Bay,Nye Borgerlige,8
+Brøndby,2,Tjørnehøjhallen,D_Tina_Beuchert,Tina Beuchert,Nye Borgerlige,9
+Brøndby,2,Tjørnehøjhallen,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,59
+Brøndby,2,Tjørnehøjhallen,F_Vagn_Kjær-Hansen,Vagn Kjær-Hansen,SF - Socialistisk Folkeparti,37
+Brøndby,2,Tjørnehøjhallen,F_Annette_Reckendorph,Annette Reckendorph,SF - Socialistisk Folkeparti,26
+Brøndby,2,Tjørnehøjhallen,F_Alexander_Bruhn_Skjøth,Alexander Bruhn Skjøth,SF - Socialistisk Folkeparti,6
+Brøndby,2,Tjørnehøjhallen,F_Maia_Bruhn_Skjøth,Maia Bruhn Skjøth,SF - Socialistisk Folkeparti,9
+Brøndby,2,Tjørnehøjhallen,F_Henrik_Puukka-Sørensen,Henrik Puukka-Sørensen,SF - Socialistisk Folkeparti,6
+Brøndby,2,Tjørnehøjhallen,F_Brian_Nielsen,Brian Nielsen,SF - Socialistisk Folkeparti,2
+Brøndby,2,Tjørnehøjhallen,F_Jette_Jul_Jensen,Jette Jul Jensen,SF - Socialistisk Folkeparti,4
+Brøndby,2,Tjørnehøjhallen,I_Listestemmer,Listestemmer,Liberal Alliance,6
+Brøndby,2,Tjørnehøjhallen,I_Özkan_Ekiz,Özkan Ekiz,Liberal Alliance,14
+Brøndby,2,Tjørnehøjhallen,I_Carsten_Zacho,Carsten Zacho,Liberal Alliance,5
+Brøndby,2,Tjørnehøjhallen,O_Listestemmer,Listestemmer,Dansk Folkeparti,63
+Brøndby,2,Tjørnehøjhallen,O_Tom_Bech_Fredriksen,Tom Bech Fredriksen,Dansk Folkeparti,27
+Brøndby,2,Tjørnehøjhallen,O_Poul_Gaardbo,Poul Gaardbo,Dansk Folkeparti,30
+Brøndby,2,Tjørnehøjhallen,O_Susanne_Hansen,Susanne Hansen,Dansk Folkeparti,13
+Brøndby,2,Tjørnehøjhallen,O_Henrik_Bach,Henrik Bach,Dansk Folkeparti,6
+Brøndby,2,Tjørnehøjhallen,O_Ole_Valsgaard_Hansen,Ole Valsgaard Hansen,Dansk Folkeparti,2
+Brøndby,2,Tjørnehøjhallen,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",60
+Brøndby,2,Tjørnehøjhallen,V_Jan_Lundquist,Jan Lundquist,"Venstre, Danmarks Liberale Parti",62
+Brøndby,2,Tjørnehøjhallen,V_Kurt_Damsted,Kurt Damsted,"Venstre, Danmarks Liberale Parti",28
+Brøndby,2,Tjørnehøjhallen,V_Martin_Grønkjær,Martin Grønkjær,"Venstre, Danmarks Liberale Parti",6
+Brøndby,2,Tjørnehøjhallen,V_Carsten_Heldam,Carsten Heldam,"Venstre, Danmarks Liberale Parti",1
+Brøndby,2,Tjørnehøjhallen,V_Sara_Nørrevang,Sara Nørrevang,"Venstre, Danmarks Liberale Parti",11
+Brøndby,2,Tjørnehøjhallen,V_Annie_Hassenkam,Annie Hassenkam,"Venstre, Danmarks Liberale Parti",2
+Brøndby,2,Tjørnehøjhallen,V_Jørgen_Bonne,Jørgen Bonne,"Venstre, Danmarks Liberale Parti",12
+Brøndby,2,Tjørnehøjhallen,Æ_Listestemmer,Listestemmer,Frihedslisten,2
+Brøndby,2,Tjørnehøjhallen,"Æ_Oliver_Mysander,_Brøndby","Oliver Mysander, Brøndby",Frihedslisten,9
+Brøndby,2,Tjørnehøjhallen,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,52
+Brøndby,2,Tjørnehøjhallen,Ø_Fatih_Baran,Fatih Baran,Enhedslisten - De Rød-Grønne,15
+Brøndby,2,Tjørnehøjhallen,Ø_Astrid_Høgsbjerg_Rasmussen,Astrid Høgsbjerg Rasmussen,Enhedslisten - De Rød-Grønne,24
+Brøndby,2,Tjørnehøjhallen,Ø_Dennis_Baggers_Laursen,Dennis Baggers Laursen,Enhedslisten - De Rød-Grønne,1
+Brøndby,2,Tjørnehøjhallen,Ø_Viggo_Halling,Viggo Halling,Enhedslisten - De Rød-Grønne,1
+Brøndby,2,Tjørnehøjhallen,Ø_Nina_Thamsen,Nina Thamsen,Enhedslisten - De Rød-Grønne,0
+Brøndby,2,Tjørnehøjhallen,Ø_Anne_Frederiksen,Anne Frederiksen,Enhedslisten - De Rød-Grønne,1
+Brøndby,2,Tjørnehøjhallen,Ø_Signe_Heering,Signe Heering,Enhedslisten - De Rød-Grønne,3
+Brøndby,2,Tjørnehøjhallen,Ø_Karen_Fedders_Prag,Karen Fedders Prag,Enhedslisten - De Rød-Grønne,2
+Brøndby,2,Tjørnehøjhallen,Ø_Mona_Fedders_Prag,Mona Fedders Prag,Enhedslisten - De Rød-Grønne,10
+Brøndby,2,Tjørnehøjhallen,Ø_Steen_Andersen,Steen Andersen,Enhedslisten - De Rød-Grønne,6
+Brøndby,3,Lindelundshallen,A_Listestemmer,Listestemmer,Socialdemokratiet,219
+Brøndby,3,Lindelundshallen,A_Kent_Max_Magelund,Kent Max Magelund,Socialdemokratiet,440
+Brøndby,3,Lindelundshallen,A_Maja_Højgaard,Maja Højgaard,Socialdemokratiet,126
+Brøndby,3,Lindelundshallen,A_Finn_Andersen,Finn Andersen,Socialdemokratiet,13
+Brøndby,3,Lindelundshallen,A_Anette_Pilmark,Anette Pilmark,Socialdemokratiet,30
+Brøndby,3,Lindelundshallen,A_Arno_Hurup_Christiansen,Arno Hurup Christiansen,Socialdemokratiet,5
+Brøndby,3,Lindelundshallen,A_Franz_Hansen,Franz Hansen,Socialdemokratiet,13
+Brøndby,3,Lindelundshallen,A_Per_Jensen,Per Jensen,Socialdemokratiet,8
+Brøndby,3,Lindelundshallen,A_Pia_Kofoed,Pia Kofoed,Socialdemokratiet,32
+Brøndby,3,Lindelundshallen,A_Hajg_Zanazanian,Hajg Zanazanian,Socialdemokratiet,80
+Brøndby,3,Lindelundshallen,A_Michael_Buch-Barnes,Michael Buch-Barnes,Socialdemokratiet,11
+Brøndby,3,Lindelundshallen,A_Jesper_Stegler,Jesper Stegler,Socialdemokratiet,3
+Brøndby,3,Lindelundshallen,A_Henning_Elmelund,Henning Elmelund,Socialdemokratiet,97
+Brøndby,3,Lindelundshallen,A_Henrik_Hollender,Henrik Hollender,Socialdemokratiet,20
+Brøndby,3,Lindelundshallen,A_Harun_Muharemovic,Harun Muharemovic,Socialdemokratiet,6
+Brøndby,3,Lindelundshallen,A_Susanne_Hulkvist,Susanne Hulkvist,Socialdemokratiet,12
+Brøndby,3,Lindelundshallen,A_Tammes_Jungløw_Christensen,Tammes Jungløw Christensen,Socialdemokratiet,9
+Brøndby,3,Lindelundshallen,A_Syed_Aejaz_Haider_Bukhari,Syed Aejaz Haider Bukhari,Socialdemokratiet,22
+Brøndby,3,Lindelundshallen,A_Mahmut_Erdem,Mahmut Erdem,Socialdemokratiet,5
+Brøndby,3,Lindelundshallen,A_Torben_Nymand,Torben Nymand,Socialdemokratiet,4
+Brøndby,3,Lindelundshallen,A_Cafer_Koyuncu,Cafer Koyuncu,Socialdemokratiet,2
+Brøndby,3,Lindelundshallen,B_Listestemmer,Listestemmer,Radikale Venstre,14
+Brøndby,3,Lindelundshallen,B_Elif_Demir_Gökce,Elif Demir Gökce,Radikale Venstre,21
+Brøndby,3,Lindelundshallen,B_Said_Mo_El_Idrissi,Said Mo El Idrissi,Radikale Venstre,4
+Brøndby,3,Lindelundshallen,B_Flemming_Eriksen,Flemming Eriksen,Radikale Venstre,2
+Brøndby,3,Lindelundshallen,B_Tim_Kjær,Tim Kjær,Radikale Venstre,3
+Brøndby,3,Lindelundshallen,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,64
+Brøndby,3,Lindelundshallen,"C_Michael_R._Rugaard,_Brøndbyøster","Michael R. Rugaard, Brøndbyøster",Det Konservative Folkeparti,63
+Brøndby,3,Lindelundshallen,"C_Lene_Skallebæk,_Brøndby_Strand","Lene Skallebæk, Brøndby Strand",Det Konservative Folkeparti,8
+Brøndby,3,Lindelundshallen,"C_Ole_Lønborg,_Brøndby_Strand","Ole Lønborg, Brøndby Strand",Det Konservative Folkeparti,2
+Brøndby,3,Lindelundshallen,"C_Henrik_Jacobsen,_Brøndbyøster","Henrik Jacobsen, Brøndbyøster",Det Konservative Folkeparti,8
+Brøndby,3,Lindelundshallen,D_Listestemmer,Listestemmer,Nye Borgerlige,50
+Brøndby,3,Lindelundshallen,D_Allan_Orland,Allan Orland,Nye Borgerlige,30
+Brøndby,3,Lindelundshallen,D_Steen_Bay,Steen Bay,Nye Borgerlige,6
+Brøndby,3,Lindelundshallen,D_Tina_Beuchert,Tina Beuchert,Nye Borgerlige,13
+Brøndby,3,Lindelundshallen,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,52
+Brøndby,3,Lindelundshallen,F_Vagn_Kjær-Hansen,Vagn Kjær-Hansen,SF - Socialistisk Folkeparti,30
+Brøndby,3,Lindelundshallen,F_Annette_Reckendorph,Annette Reckendorph,SF - Socialistisk Folkeparti,37
+Brøndby,3,Lindelundshallen,F_Alexander_Bruhn_Skjøth,Alexander Bruhn Skjøth,SF - Socialistisk Folkeparti,10
+Brøndby,3,Lindelundshallen,F_Maia_Bruhn_Skjøth,Maia Bruhn Skjøth,SF - Socialistisk Folkeparti,7
+Brøndby,3,Lindelundshallen,F_Henrik_Puukka-Sørensen,Henrik Puukka-Sørensen,SF - Socialistisk Folkeparti,5
+Brøndby,3,Lindelundshallen,F_Brian_Nielsen,Brian Nielsen,SF - Socialistisk Folkeparti,1
+Brøndby,3,Lindelundshallen,F_Jette_Jul_Jensen,Jette Jul Jensen,SF - Socialistisk Folkeparti,1
+Brøndby,3,Lindelundshallen,I_Listestemmer,Listestemmer,Liberal Alliance,7
+Brøndby,3,Lindelundshallen,I_Özkan_Ekiz,Özkan Ekiz,Liberal Alliance,7
+Brøndby,3,Lindelundshallen,I_Carsten_Zacho,Carsten Zacho,Liberal Alliance,5
+Brøndby,3,Lindelundshallen,O_Listestemmer,Listestemmer,Dansk Folkeparti,55
+Brøndby,3,Lindelundshallen,O_Tom_Bech_Fredriksen,Tom Bech Fredriksen,Dansk Folkeparti,16
+Brøndby,3,Lindelundshallen,O_Poul_Gaardbo,Poul Gaardbo,Dansk Folkeparti,21
+Brøndby,3,Lindelundshallen,O_Susanne_Hansen,Susanne Hansen,Dansk Folkeparti,16
+Brøndby,3,Lindelundshallen,O_Henrik_Bach,Henrik Bach,Dansk Folkeparti,2
+Brøndby,3,Lindelundshallen,O_Ole_Valsgaard_Hansen,Ole Valsgaard Hansen,Dansk Folkeparti,5
+Brøndby,3,Lindelundshallen,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",65
+Brøndby,3,Lindelundshallen,V_Jan_Lundquist,Jan Lundquist,"Venstre, Danmarks Liberale Parti",42
+Brøndby,3,Lindelundshallen,V_Kurt_Damsted,Kurt Damsted,"Venstre, Danmarks Liberale Parti",8
+Brøndby,3,Lindelundshallen,V_Martin_Grønkjær,Martin Grønkjær,"Venstre, Danmarks Liberale Parti",3
+Brøndby,3,Lindelundshallen,V_Carsten_Heldam,Carsten Heldam,"Venstre, Danmarks Liberale Parti",0
+Brøndby,3,Lindelundshallen,V_Sara_Nørrevang,Sara Nørrevang,"Venstre, Danmarks Liberale Parti",7
+Brøndby,3,Lindelundshallen,V_Annie_Hassenkam,Annie Hassenkam,"Venstre, Danmarks Liberale Parti",2
+Brøndby,3,Lindelundshallen,V_Jørgen_Bonne,Jørgen Bonne,"Venstre, Danmarks Liberale Parti",5
+Brøndby,3,Lindelundshallen,Æ_Listestemmer,Listestemmer,Frihedslisten,1
+Brøndby,3,Lindelundshallen,"Æ_Oliver_Mysander,_Brøndby","Oliver Mysander, Brøndby",Frihedslisten,14
+Brøndby,3,Lindelundshallen,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,51
+Brøndby,3,Lindelundshallen,Ø_Fatih_Baran,Fatih Baran,Enhedslisten - De Rød-Grønne,13
+Brøndby,3,Lindelundshallen,Ø_Astrid_Høgsbjerg_Rasmussen,Astrid Høgsbjerg Rasmussen,Enhedslisten - De Rød-Grønne,24
+Brøndby,3,Lindelundshallen,Ø_Dennis_Baggers_Laursen,Dennis Baggers Laursen,Enhedslisten - De Rød-Grønne,4
+Brøndby,3,Lindelundshallen,Ø_Viggo_Halling,Viggo Halling,Enhedslisten - De Rød-Grønne,0
+Brøndby,3,Lindelundshallen,Ø_Nina_Thamsen,Nina Thamsen,Enhedslisten - De Rød-Grønne,8
+Brøndby,3,Lindelundshallen,Ø_Anne_Frederiksen,Anne Frederiksen,Enhedslisten - De Rød-Grønne,0
+Brøndby,3,Lindelundshallen,Ø_Signe_Heering,Signe Heering,Enhedslisten - De Rød-Grønne,3
+Brøndby,3,Lindelundshallen,Ø_Karen_Fedders_Prag,Karen Fedders Prag,Enhedslisten - De Rød-Grønne,6
+Brøndby,3,Lindelundshallen,Ø_Mona_Fedders_Prag,Mona Fedders Prag,Enhedslisten - De Rød-Grønne,10
+Brøndby,3,Lindelundshallen,Ø_Steen_Andersen,Steen Andersen,Enhedslisten - De Rød-Grønne,5
+Brøndby,4,Nørregård,A_Listestemmer,Listestemmer,Socialdemokratiet,401
+Brøndby,4,Nørregård,A_Kent_Max_Magelund,Kent Max Magelund,Socialdemokratiet,816
+Brøndby,4,Nørregård,A_Maja_Højgaard,Maja Højgaard,Socialdemokratiet,192
+Brøndby,4,Nørregård,A_Finn_Andersen,Finn Andersen,Socialdemokratiet,50
+Brøndby,4,Nørregård,A_Anette_Pilmark,Anette Pilmark,Socialdemokratiet,53
+Brøndby,4,Nørregård,A_Arno_Hurup_Christiansen,Arno Hurup Christiansen,Socialdemokratiet,9
+Brøndby,4,Nørregård,A_Franz_Hansen,Franz Hansen,Socialdemokratiet,27
+Brøndby,4,Nørregård,A_Per_Jensen,Per Jensen,Socialdemokratiet,14
+Brøndby,4,Nørregård,A_Pia_Kofoed,Pia Kofoed,Socialdemokratiet,39
+Brøndby,4,Nørregård,A_Hajg_Zanazanian,Hajg Zanazanian,Socialdemokratiet,187
+Brøndby,4,Nørregård,A_Michael_Buch-Barnes,Michael Buch-Barnes,Socialdemokratiet,51
+Brøndby,4,Nørregård,A_Jesper_Stegler,Jesper Stegler,Socialdemokratiet,6
+Brøndby,4,Nørregård,A_Henning_Elmelund,Henning Elmelund,Socialdemokratiet,43
+Brøndby,4,Nørregård,A_Henrik_Hollender,Henrik Hollender,Socialdemokratiet,9
+Brøndby,4,Nørregård,A_Harun_Muharemovic,Harun Muharemovic,Socialdemokratiet,11
+Brøndby,4,Nørregård,A_Susanne_Hulkvist,Susanne Hulkvist,Socialdemokratiet,29
+Brøndby,4,Nørregård,A_Tammes_Jungløw_Christensen,Tammes Jungløw Christensen,Socialdemokratiet,18
+Brøndby,4,Nørregård,A_Syed_Aejaz_Haider_Bukhari,Syed Aejaz Haider Bukhari,Socialdemokratiet,34
+Brøndby,4,Nørregård,A_Mahmut_Erdem,Mahmut Erdem,Socialdemokratiet,21
+Brøndby,4,Nørregård,A_Torben_Nymand,Torben Nymand,Socialdemokratiet,2
+Brøndby,4,Nørregård,A_Cafer_Koyuncu,Cafer Koyuncu,Socialdemokratiet,25
+Brøndby,4,Nørregård,B_Listestemmer,Listestemmer,Radikale Venstre,46
+Brøndby,4,Nørregård,B_Elif_Demir_Gökce,Elif Demir Gökce,Radikale Venstre,97
+Brøndby,4,Nørregård,B_Said_Mo_El_Idrissi,Said Mo El Idrissi,Radikale Venstre,4
+Brøndby,4,Nørregård,B_Flemming_Eriksen,Flemming Eriksen,Radikale Venstre,1
+Brøndby,4,Nørregård,B_Tim_Kjær,Tim Kjær,Radikale Venstre,11
+Brøndby,4,Nørregård,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,113
+Brøndby,4,Nørregård,"C_Michael_R._Rugaard,_Brøndbyøster","Michael R. Rugaard, Brøndbyøster",Det Konservative Folkeparti,93
+Brøndby,4,Nørregård,"C_Lene_Skallebæk,_Brøndby_Strand","Lene Skallebæk, Brøndby Strand",Det Konservative Folkeparti,20
+Brøndby,4,Nørregård,"C_Ole_Lønborg,_Brøndby_Strand","Ole Lønborg, Brøndby Strand",Det Konservative Folkeparti,5
+Brøndby,4,Nørregård,"C_Henrik_Jacobsen,_Brøndbyøster","Henrik Jacobsen, Brøndbyøster",Det Konservative Folkeparti,15
+Brøndby,4,Nørregård,D_Listestemmer,Listestemmer,Nye Borgerlige,65
+Brøndby,4,Nørregård,D_Allan_Orland,Allan Orland,Nye Borgerlige,60
+Brøndby,4,Nørregård,D_Steen_Bay,Steen Bay,Nye Borgerlige,11
+Brøndby,4,Nørregård,D_Tina_Beuchert,Tina Beuchert,Nye Borgerlige,20
+Brøndby,4,Nørregård,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,71
+Brøndby,4,Nørregård,F_Vagn_Kjær-Hansen,Vagn Kjær-Hansen,SF - Socialistisk Folkeparti,58
+Brøndby,4,Nørregård,F_Annette_Reckendorph,Annette Reckendorph,SF - Socialistisk Folkeparti,36
+Brøndby,4,Nørregård,F_Alexander_Bruhn_Skjøth,Alexander Bruhn Skjøth,SF - Socialistisk Folkeparti,8
+Brøndby,4,Nørregård,F_Maia_Bruhn_Skjøth,Maia Bruhn Skjøth,SF - Socialistisk Folkeparti,12
+Brøndby,4,Nørregård,F_Henrik_Puukka-Sørensen,Henrik Puukka-Sørensen,SF - Socialistisk Folkeparti,3
+Brøndby,4,Nørregård,F_Brian_Nielsen,Brian Nielsen,SF - Socialistisk Folkeparti,5
+Brøndby,4,Nørregård,F_Jette_Jul_Jensen,Jette Jul Jensen,SF - Socialistisk Folkeparti,2
+Brøndby,4,Nørregård,I_Listestemmer,Listestemmer,Liberal Alliance,10
+Brøndby,4,Nørregård,I_Özkan_Ekiz,Özkan Ekiz,Liberal Alliance,14
+Brøndby,4,Nørregård,I_Carsten_Zacho,Carsten Zacho,Liberal Alliance,8
+Brøndby,4,Nørregård,O_Listestemmer,Listestemmer,Dansk Folkeparti,88
+Brøndby,4,Nørregård,O_Tom_Bech_Fredriksen,Tom Bech Fredriksen,Dansk Folkeparti,35
+Brøndby,4,Nørregård,O_Poul_Gaardbo,Poul Gaardbo,Dansk Folkeparti,29
+Brøndby,4,Nørregård,O_Susanne_Hansen,Susanne Hansen,Dansk Folkeparti,21
+Brøndby,4,Nørregård,O_Henrik_Bach,Henrik Bach,Dansk Folkeparti,11
+Brøndby,4,Nørregård,O_Ole_Valsgaard_Hansen,Ole Valsgaard Hansen,Dansk Folkeparti,10
+Brøndby,4,Nørregård,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",67
+Brøndby,4,Nørregård,V_Jan_Lundquist,Jan Lundquist,"Venstre, Danmarks Liberale Parti",28
+Brøndby,4,Nørregård,V_Kurt_Damsted,Kurt Damsted,"Venstre, Danmarks Liberale Parti",18
+Brøndby,4,Nørregård,V_Martin_Grønkjær,Martin Grønkjær,"Venstre, Danmarks Liberale Parti",11
+Brøndby,4,Nørregård,V_Carsten_Heldam,Carsten Heldam,"Venstre, Danmarks Liberale Parti",0
+Brøndby,4,Nørregård,V_Sara_Nørrevang,Sara Nørrevang,"Venstre, Danmarks Liberale Parti",6
+Brøndby,4,Nørregård,V_Annie_Hassenkam,Annie Hassenkam,"Venstre, Danmarks Liberale Parti",7
+Brøndby,4,Nørregård,V_Jørgen_Bonne,Jørgen Bonne,"Venstre, Danmarks Liberale Parti",14
+Brøndby,4,Nørregård,Æ_Listestemmer,Listestemmer,Frihedslisten,8
+Brøndby,4,Nørregård,"Æ_Oliver_Mysander,_Brøndby","Oliver Mysander, Brøndby",Frihedslisten,15
+Brøndby,4,Nørregård,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,98
+Brøndby,4,Nørregård,Ø_Fatih_Baran,Fatih Baran,Enhedslisten - De Rød-Grønne,83
+Brøndby,4,Nørregård,Ø_Astrid_Høgsbjerg_Rasmussen,Astrid Høgsbjerg Rasmussen,Enhedslisten - De Rød-Grønne,32
+Brøndby,4,Nørregård,Ø_Dennis_Baggers_Laursen,Dennis Baggers Laursen,Enhedslisten - De Rød-Grønne,12
+Brøndby,4,Nørregård,Ø_Viggo_Halling,Viggo Halling,Enhedslisten - De Rød-Grønne,0
+Brøndby,4,Nørregård,Ø_Nina_Thamsen,Nina Thamsen,Enhedslisten - De Rød-Grønne,13
+Brøndby,4,Nørregård,Ø_Anne_Frederiksen,Anne Frederiksen,Enhedslisten - De Rød-Grønne,5
+Brøndby,4,Nørregård,Ø_Signe_Heering,Signe Heering,Enhedslisten - De Rød-Grønne,9
+Brøndby,4,Nørregård,Ø_Karen_Fedders_Prag,Karen Fedders Prag,Enhedslisten - De Rød-Grønne,5
+Brøndby,4,Nørregård,Ø_Mona_Fedders_Prag,Mona Fedders Prag,Enhedslisten - De Rød-Grønne,15
+Brøndby,4,Nørregård,Ø_Steen_Andersen,Steen Andersen,Enhedslisten - De Rød-Grønne,19
+Brøndby,5,Kulturhuset Brønden,A_Listestemmer,Listestemmer,Socialdemokratiet,480
+Brøndby,5,Kulturhuset Brønden,A_Kent_Max_Magelund,Kent Max Magelund,Socialdemokratiet,510
+Brøndby,5,Kulturhuset Brønden,A_Maja_Højgaard,Maja Højgaard,Socialdemokratiet,131
+Brøndby,5,Kulturhuset Brønden,A_Finn_Andersen,Finn Andersen,Socialdemokratiet,74
+Brøndby,5,Kulturhuset Brønden,A_Anette_Pilmark,Anette Pilmark,Socialdemokratiet,210
+Brøndby,5,Kulturhuset Brønden,A_Arno_Hurup_Christiansen,Arno Hurup Christiansen,Socialdemokratiet,81
+Brøndby,5,Kulturhuset Brønden,A_Franz_Hansen,Franz Hansen,Socialdemokratiet,16
+Brøndby,5,Kulturhuset Brønden,A_Per_Jensen,Per Jensen,Socialdemokratiet,31
+Brøndby,5,Kulturhuset Brønden,A_Pia_Kofoed,Pia Kofoed,Socialdemokratiet,15
+Brøndby,5,Kulturhuset Brønden,A_Hajg_Zanazanian,Hajg Zanazanian,Socialdemokratiet,46
+Brøndby,5,Kulturhuset Brønden,A_Michael_Buch-Barnes,Michael Buch-Barnes,Socialdemokratiet,268
+Brøndby,5,Kulturhuset Brønden,A_Jesper_Stegler,Jesper Stegler,Socialdemokratiet,13
+Brøndby,5,Kulturhuset Brønden,A_Henning_Elmelund,Henning Elmelund,Socialdemokratiet,15
+Brøndby,5,Kulturhuset Brønden,A_Henrik_Hollender,Henrik Hollender,Socialdemokratiet,12
+Brøndby,5,Kulturhuset Brønden,A_Harun_Muharemovic,Harun Muharemovic,Socialdemokratiet,231
+Brøndby,5,Kulturhuset Brønden,A_Susanne_Hulkvist,Susanne Hulkvist,Socialdemokratiet,25
+Brøndby,5,Kulturhuset Brønden,A_Tammes_Jungløw_Christensen,Tammes Jungløw Christensen,Socialdemokratiet,8
+Brøndby,5,Kulturhuset Brønden,A_Syed_Aejaz_Haider_Bukhari,Syed Aejaz Haider Bukhari,Socialdemokratiet,382
+Brøndby,5,Kulturhuset Brønden,A_Mahmut_Erdem,Mahmut Erdem,Socialdemokratiet,178
+Brøndby,5,Kulturhuset Brønden,A_Torben_Nymand,Torben Nymand,Socialdemokratiet,5
+Brøndby,5,Kulturhuset Brønden,A_Cafer_Koyuncu,Cafer Koyuncu,Socialdemokratiet,36
+Brøndby,5,Kulturhuset Brønden,B_Listestemmer,Listestemmer,Radikale Venstre,67
+Brøndby,5,Kulturhuset Brønden,B_Elif_Demir_Gökce,Elif Demir Gökce,Radikale Venstre,343
+Brøndby,5,Kulturhuset Brønden,B_Said_Mo_El_Idrissi,Said Mo El Idrissi,Radikale Venstre,36
+Brøndby,5,Kulturhuset Brønden,B_Flemming_Eriksen,Flemming Eriksen,Radikale Venstre,14
+Brøndby,5,Kulturhuset Brønden,B_Tim_Kjær,Tim Kjær,Radikale Venstre,6
+Brøndby,5,Kulturhuset Brønden,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,145
+Brøndby,5,Kulturhuset Brønden,"C_Michael_R._Rugaard,_Brøndbyøster","Michael R. Rugaard, Brøndbyøster",Det Konservative Folkeparti,89
+Brøndby,5,Kulturhuset Brønden,"C_Lene_Skallebæk,_Brøndby_Strand","Lene Skallebæk, Brøndby Strand",Det Konservative Folkeparti,91
+Brøndby,5,Kulturhuset Brønden,"C_Ole_Lønborg,_Brøndby_Strand","Ole Lønborg, Brøndby Strand",Det Konservative Folkeparti,25
+Brøndby,5,Kulturhuset Brønden,"C_Henrik_Jacobsen,_Brøndbyøster","Henrik Jacobsen, Brøndbyøster",Det Konservative Folkeparti,9
+Brøndby,5,Kulturhuset Brønden,D_Listestemmer,Listestemmer,Nye Borgerlige,75
+Brøndby,5,Kulturhuset Brønden,D_Allan_Orland,Allan Orland,Nye Borgerlige,93
+Brøndby,5,Kulturhuset Brønden,D_Steen_Bay,Steen Bay,Nye Borgerlige,22
+Brøndby,5,Kulturhuset Brønden,D_Tina_Beuchert,Tina Beuchert,Nye Borgerlige,15
+Brøndby,5,Kulturhuset Brønden,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,87
+Brøndby,5,Kulturhuset Brønden,F_Vagn_Kjær-Hansen,Vagn Kjær-Hansen,SF - Socialistisk Folkeparti,114
+Brøndby,5,Kulturhuset Brønden,F_Annette_Reckendorph,Annette Reckendorph,SF - Socialistisk Folkeparti,46
+Brøndby,5,Kulturhuset Brønden,F_Alexander_Bruhn_Skjøth,Alexander Bruhn Skjøth,SF - Socialistisk Folkeparti,13
+Brøndby,5,Kulturhuset Brønden,F_Maia_Bruhn_Skjøth,Maia Bruhn Skjøth,SF - Socialistisk Folkeparti,11
+Brøndby,5,Kulturhuset Brønden,F_Henrik_Puukka-Sørensen,Henrik Puukka-Sørensen,SF - Socialistisk Folkeparti,2
+Brøndby,5,Kulturhuset Brønden,F_Brian_Nielsen,Brian Nielsen,SF - Socialistisk Folkeparti,2
+Brøndby,5,Kulturhuset Brønden,F_Jette_Jul_Jensen,Jette Jul Jensen,SF - Socialistisk Folkeparti,9
+Brøndby,5,Kulturhuset Brønden,I_Listestemmer,Listestemmer,Liberal Alliance,14
+Brøndby,5,Kulturhuset Brønden,I_Özkan_Ekiz,Özkan Ekiz,Liberal Alliance,107
+Brøndby,5,Kulturhuset Brønden,I_Carsten_Zacho,Carsten Zacho,Liberal Alliance,31
+Brøndby,5,Kulturhuset Brønden,O_Listestemmer,Listestemmer,Dansk Folkeparti,124
+Brøndby,5,Kulturhuset Brønden,O_Tom_Bech_Fredriksen,Tom Bech Fredriksen,Dansk Folkeparti,48
+Brøndby,5,Kulturhuset Brønden,O_Poul_Gaardbo,Poul Gaardbo,Dansk Folkeparti,55
+Brøndby,5,Kulturhuset Brønden,O_Susanne_Hansen,Susanne Hansen,Dansk Folkeparti,47
+Brøndby,5,Kulturhuset Brønden,O_Henrik_Bach,Henrik Bach,Dansk Folkeparti,15
+Brøndby,5,Kulturhuset Brønden,O_Ole_Valsgaard_Hansen,Ole Valsgaard Hansen,Dansk Folkeparti,2
+Brøndby,5,Kulturhuset Brønden,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",126
+Brøndby,5,Kulturhuset Brønden,V_Jan_Lundquist,Jan Lundquist,"Venstre, Danmarks Liberale Parti",96
+Brøndby,5,Kulturhuset Brønden,V_Kurt_Damsted,Kurt Damsted,"Venstre, Danmarks Liberale Parti",26
+Brøndby,5,Kulturhuset Brønden,V_Martin_Grønkjær,Martin Grønkjær,"Venstre, Danmarks Liberale Parti",27
+Brøndby,5,Kulturhuset Brønden,V_Carsten_Heldam,Carsten Heldam,"Venstre, Danmarks Liberale Parti",3
+Brøndby,5,Kulturhuset Brønden,V_Sara_Nørrevang,Sara Nørrevang,"Venstre, Danmarks Liberale Parti",19
+Brøndby,5,Kulturhuset Brønden,V_Annie_Hassenkam,Annie Hassenkam,"Venstre, Danmarks Liberale Parti",4
+Brøndby,5,Kulturhuset Brønden,V_Jørgen_Bonne,Jørgen Bonne,"Venstre, Danmarks Liberale Parti",6
+Brøndby,5,Kulturhuset Brønden,Æ_Listestemmer,Listestemmer,Frihedslisten,9
+Brøndby,5,Kulturhuset Brønden,"Æ_Oliver_Mysander,_Brøndby","Oliver Mysander, Brøndby",Frihedslisten,16
+Brøndby,5,Kulturhuset Brønden,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,179
+Brøndby,5,Kulturhuset Brønden,Ø_Fatih_Baran,Fatih Baran,Enhedslisten - De Rød-Grønne,195
+Brøndby,5,Kulturhuset Brønden,Ø_Astrid_Høgsbjerg_Rasmussen,Astrid Høgsbjerg Rasmussen,Enhedslisten - De Rød-Grønne,52
+Brøndby,5,Kulturhuset Brønden,Ø_Dennis_Baggers_Laursen,Dennis Baggers Laursen,Enhedslisten - De Rød-Grønne,18
+Brøndby,5,Kulturhuset Brønden,Ø_Viggo_Halling,Viggo Halling,Enhedslisten - De Rød-Grønne,5
+Brøndby,5,Kulturhuset Brønden,Ø_Nina_Thamsen,Nina Thamsen,Enhedslisten - De Rød-Grønne,8
+Brøndby,5,Kulturhuset Brønden,Ø_Anne_Frederiksen,Anne Frederiksen,Enhedslisten - De Rød-Grønne,3
+Brøndby,5,Kulturhuset Brønden,Ø_Signe_Heering,Signe Heering,Enhedslisten - De Rød-Grønne,7
+Brøndby,5,Kulturhuset Brønden,Ø_Karen_Fedders_Prag,Karen Fedders Prag,Enhedslisten - De Rød-Grønne,10
+Brøndby,5,Kulturhuset Brønden,Ø_Mona_Fedders_Prag,Mona Fedders Prag,Enhedslisten - De Rød-Grønne,16
+Brøndby,5,Kulturhuset Brønden,Ø_Steen_Andersen,Steen Andersen,Enhedslisten - De Rød-Grønne,6

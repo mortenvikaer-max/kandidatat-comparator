@@ -1,0 +1,901 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Egedal,1,Ledøje Forsamlingshus,A_Listestemmer,Listestemmer,Socialdemokratiet,34
+Egedal,1,Ledøje Forsamlingshus,"A_Vicky_Holst_Rasmussen,_Stenløse","Vicky Holst Rasmussen, Stenløse",Socialdemokratiet,18
+Egedal,1,Ledøje Forsamlingshus,"A_Henriette_Thirup-Bielefeldt,_Ølsty","Henriette Thirup-Bielefeldt, Ølsty",Socialdemokratiet,1
+Egedal,1,Ledøje Forsamlingshus,"A_Henrik_Sass_Christensen,_Stenløse","Henrik Sass Christensen, Stenløse",Socialdemokratiet,0
+Egedal,1,Ledøje Forsamlingshus,"A_Lasse_Nørreskov,_Smørum","Lasse Nørreskov, Smørum",Socialdemokratiet,0
+Egedal,1,Ledøje Forsamlingshus,"A_Sinne_Munck_Eliasen,_Veksø","Sinne Munck Eliasen, Veksø",Socialdemokratiet,1
+Egedal,1,Ledøje Forsamlingshus,"A_Bo_Brøndum_Pedersen,_Ganløse","Bo Brøndum Pedersen, Ganløse",Socialdemokratiet,1
+Egedal,1,Ledøje Forsamlingshus,"A_Line_Mette_Andrup,_Smørum","Line Mette Andrup, Smørum",Socialdemokratiet,5
+Egedal,1,Ledøje Forsamlingshus,"A_Ib_Sørensen,_Stenløse","Ib Sørensen, Stenløse",Socialdemokratiet,1
+Egedal,1,Ledøje Forsamlingshus,"A_Morten_Lyager,_Ølstykke","Morten Lyager, Ølstykke",Socialdemokratiet,1
+Egedal,1,Ledøje Forsamlingshus,"A_Henrik_Wolfhagen,_Ledøje","Henrik Wolfhagen, Ledøje",Socialdemokratiet,123
+Egedal,1,Ledøje Forsamlingshus,"A_Brian_Carl_Øllegaard,_Stenløse","Brian Carl Øllegaard, Stenløse",Socialdemokratiet,0
+Egedal,1,Ledøje Forsamlingshus,B_Listestemmer,Listestemmer,Radikale Venstre,2
+Egedal,1,Ledøje Forsamlingshus,"B_Rikke_Mortensen,_Stenløse","Rikke Mortensen, Stenløse",Radikale Venstre,13
+Egedal,1,Ledøje Forsamlingshus,"B_Stephan_Grubbe_Sølby,_Ølstykke","Stephan Grubbe Sølby, Ølstykke",Radikale Venstre,0
+Egedal,1,Ledøje Forsamlingshus,"B_Nicolai_Bach_Sørensen,_Veksø","Nicolai Bach Sørensen, Veksø",Radikale Venstre,0
+Egedal,1,Ledøje Forsamlingshus,"B_Dennis_Roland_Pedersen,_Veksø","Dennis Roland Pedersen, Veksø",Radikale Venstre,0
+Egedal,1,Ledøje Forsamlingshus,"B_Bent_Hollund,_Stenløse","Bent Hollund, Stenløse",Radikale Venstre,0
+Egedal,1,Ledøje Forsamlingshus,"B_Erik_Dam,_Ølstykke","Erik Dam, Ølstykke",Radikale Venstre,0
+Egedal,1,Ledøje Forsamlingshus,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,21
+Egedal,1,Ledøje Forsamlingshus,C_Charlotte_Haagendrup,Charlotte Haagendrup,Det Konservative Folkeparti,8
+Egedal,1,Ledøje Forsamlingshus,C_Lars_Falk_Hansen,Lars Falk Hansen,Det Konservative Folkeparti,4
+Egedal,1,Ledøje Forsamlingshus,C_Dan_Haugbøl,Dan Haugbøl,Det Konservative Folkeparti,7
+Egedal,1,Ledøje Forsamlingshus,C_Birgitte_Neergaard-Kofod,Birgitte Neergaard-Kofod,Det Konservative Folkeparti,129
+Egedal,1,Ledøje Forsamlingshus,C_Peter_Højmark_Trasborg,Peter Højmark Trasborg,Det Konservative Folkeparti,2
+Egedal,1,Ledøje Forsamlingshus,C_Susanne_Christensen,Susanne Christensen,Det Konservative Folkeparti,2
+Egedal,1,Ledøje Forsamlingshus,C_Christine_Søjbjerg,Christine Søjbjerg,Det Konservative Folkeparti,0
+Egedal,1,Ledøje Forsamlingshus,D_Listestemmer,Listestemmer,Nye Borgerlige,11
+Egedal,1,Ledøje Forsamlingshus,"D_Claus_Bruncke,_Ølstykke","Claus Bruncke, Ølstykke",Nye Borgerlige,9
+Egedal,1,Ledøje Forsamlingshus,"D_Kenni_Jensen,_Ølstykke","Kenni Jensen, Ølstykke",Nye Borgerlige,4
+Egedal,1,Ledøje Forsamlingshus,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,21
+Egedal,1,Ledøje Forsamlingshus,"F_Jens_Skov,_Smørum","Jens Skov, Smørum",SF - Socialistisk Folkeparti,15
+Egedal,1,Ledøje Forsamlingshus,"F_Jonathan_Kristensen,_Ølstykke","Jonathan Kristensen, Ølstykke",SF - Socialistisk Folkeparti,3
+Egedal,1,Ledøje Forsamlingshus,"F_Karen_Juul,_Smørum","Karen Juul, Smørum",SF - Socialistisk Folkeparti,6
+Egedal,1,Ledøje Forsamlingshus,"F_Pernille_Kristensen,_Ølstykke","Pernille Kristensen, Ølstykke",SF - Socialistisk Folkeparti,1
+Egedal,1,Ledøje Forsamlingshus,"F_Jacob_Andrup,_Ølstykke","Jacob Andrup, Ølstykke",SF - Socialistisk Folkeparti,1
+Egedal,1,Ledøje Forsamlingshus,"F_Randi_Jørgensen,_Veksø","Randi Jørgensen, Veksø",SF - Socialistisk Folkeparti,0
+Egedal,1,Ledøje Forsamlingshus,"F_Henrik_Severin_Hansen,_Smørum","Henrik Severin Hansen, Smørum",SF - Socialistisk Folkeparti,1
+Egedal,1,Ledøje Forsamlingshus,"F_Ida_Madsen,_Veksø","Ida Madsen, Veksø",SF - Socialistisk Folkeparti,1
+Egedal,1,Ledøje Forsamlingshus,"F_Peter_Hansen,_Ganløse","Peter Hansen, Ganløse",SF - Socialistisk Folkeparti,0
+Egedal,1,Ledøje Forsamlingshus,"F_Lea_Jensen,_Ølstykke","Lea Jensen, Ølstykke",SF - Socialistisk Folkeparti,1
+Egedal,1,Ledøje Forsamlingshus,"F_Kamilla_Lindgren,_Ganløse","Kamilla Lindgren, Ganløse",SF - Socialistisk Folkeparti,0
+Egedal,1,Ledøje Forsamlingshus,H_Listestemmer,Listestemmer,Et Samlet Egedal,0
+Egedal,1,Ledøje Forsamlingshus,"H_Johan_Hahn,_Ølstykke","Johan Hahn, Ølstykke",Et Samlet Egedal,1
+Egedal,1,Ledøje Forsamlingshus,I_Listestemmer,Listestemmer,Liberal Alliance,4
+Egedal,1,Ledøje Forsamlingshus,I_Bendt_Tranekjær,Bendt Tranekjær,Liberal Alliance,9
+Egedal,1,Ledøje Forsamlingshus,I_Thomas_Nestler,Thomas Nestler,Liberal Alliance,0
+Egedal,1,Ledøje Forsamlingshus,I_Aksel_Tarras_Madsen,Aksel Tarras Madsen,Liberal Alliance,1
+Egedal,1,Ledøje Forsamlingshus,I_Christian_Estrup,Christian Estrup,Liberal Alliance,0
+Egedal,1,Ledøje Forsamlingshus,L_Listestemmer,Listestemmer,Lokallisten Ny Egedal,5
+Egedal,1,Ledøje Forsamlingshus,"L_Ulrik_John_Nielsen,_Ganløse","Ulrik John Nielsen, Ganløse",Lokallisten Ny Egedal,8
+Egedal,1,Ledøje Forsamlingshus,"L_Bettina_Zarp,_Smørum","Bettina Zarp, Smørum",Lokallisten Ny Egedal,14
+Egedal,1,Ledøje Forsamlingshus,"L_Lars_Winther,_Stenløse","Lars Winther, Stenløse",Lokallisten Ny Egedal,0
+Egedal,1,Ledøje Forsamlingshus,"L_Illa_Jepsen,_Ølstykke","Illa Jepsen, Ølstykke",Lokallisten Ny Egedal,1
+Egedal,1,Ledøje Forsamlingshus,"L_Morten_Leonhardt_Marstrand,_Ganløs","Morten Leonhardt Marstrand, Ganløs",Lokallisten Ny Egedal,2
+Egedal,1,Ledøje Forsamlingshus,"L_Stig_Bundgaard,_Stenløse","Stig Bundgaard, Stenløse",Lokallisten Ny Egedal,2
+Egedal,1,Ledøje Forsamlingshus,"L_Ric_Jakobsen,_Slagslunde","Ric Jakobsen, Slagslunde",Lokallisten Ny Egedal,0
+Egedal,1,Ledøje Forsamlingshus,"L_Kristian_Petersen_Nørgaard,_Smørum","Kristian Petersen Nørgaard, Smørum",Lokallisten Ny Egedal,9
+Egedal,1,Ledøje Forsamlingshus,"L_Tobias_Fisch_Albrechtsen,_Ganløse","Tobias Fisch Albrechtsen, Ganløse",Lokallisten Ny Egedal,0
+Egedal,1,Ledøje Forsamlingshus,"L_Sarah_Holmgaard_Mortensen,_Ølstykk","Sarah Holmgaard Mortensen, Ølstykk",Lokallisten Ny Egedal,0
+Egedal,1,Ledøje Forsamlingshus,"L_Niels_Lindhardt_Johansen,_Ganløse","Niels Lindhardt Johansen, Ganløse",Lokallisten Ny Egedal,1
+Egedal,1,Ledøje Forsamlingshus,"L_Mikkel_Seierø,_Ølstykke","Mikkel Seierø, Ølstykke",Lokallisten Ny Egedal,0
+Egedal,1,Ledøje Forsamlingshus,"L_Torsten_Nielsen,_Ølstykke","Torsten Nielsen, Ølstykke",Lokallisten Ny Egedal,0
+Egedal,1,Ledøje Forsamlingshus,"L_Jannie_Lund-Nielsen,_Stenløse","Jannie Lund-Nielsen, Stenløse",Lokallisten Ny Egedal,4
+Egedal,1,Ledøje Forsamlingshus,"L_Carl_Emil_Bundgaard,_Stenløse","Carl Emil Bundgaard, Stenløse",Lokallisten Ny Egedal,1
+Egedal,1,Ledøje Forsamlingshus,"L_Mette_Danielsen,_Ølstykke","Mette Danielsen, Ølstykke",Lokallisten Ny Egedal,0
+Egedal,1,Ledøje Forsamlingshus,"L_Preben_Jacobsen,_Stenløse","Preben Jacobsen, Stenløse",Lokallisten Ny Egedal,0
+Egedal,1,Ledøje Forsamlingshus,"L_Søren_Ring_Ibsen,_Slagslunde","Søren Ring Ibsen, Slagslunde",Lokallisten Ny Egedal,0
+Egedal,1,Ledøje Forsamlingshus,O_Listestemmer,Listestemmer,Dansk Folkeparti,12
+Egedal,1,Ledøje Forsamlingshus,O_Allan_Bøwig,Allan Bøwig,Dansk Folkeparti,2
+Egedal,1,Ledøje Forsamlingshus,O_Christian_Sødergren,Christian Sødergren,Dansk Folkeparti,1
+Egedal,1,Ledøje Forsamlingshus,O_Ivann_Lund,Ivann Lund,Dansk Folkeparti,0
+Egedal,1,Ledøje Forsamlingshus,O_Susanne_Tønder,Susanne Tønder,Dansk Folkeparti,1
+Egedal,1,Ledøje Forsamlingshus,O_Flemming_Schandorff,Flemming Schandorff,Dansk Folkeparti,2
+Egedal,1,Ledøje Forsamlingshus,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",25
+Egedal,1,Ledøje Forsamlingshus,V_Karsten_Søndergaard,Karsten Søndergaard,"Venstre, Danmarks Liberale Parti",27
+Egedal,1,Ledøje Forsamlingshus,V_Betina_Hilligsøe,Betina Hilligsøe,"Venstre, Danmarks Liberale Parti",0
+Egedal,1,Ledøje Forsamlingshus,V_Bo_Vesth,Bo Vesth,"Venstre, Danmarks Liberale Parti",1
+Egedal,1,Ledøje Forsamlingshus,V_Carina_Buurskov,Carina Buurskov,"Venstre, Danmarks Liberale Parti",0
+Egedal,1,Ledøje Forsamlingshus,V_Louise_Dalby,Louise Dalby,"Venstre, Danmarks Liberale Parti",0
+Egedal,1,Ledøje Forsamlingshus,V_Anders_Bo_Larsen,Anders Bo Larsen,"Venstre, Danmarks Liberale Parti",0
+Egedal,1,Ledøje Forsamlingshus,V_Ole_B._Hovøre,Ole B. Hovøre,"Venstre, Danmarks Liberale Parti",0
+Egedal,1,Ledøje Forsamlingshus,V_Keld_Østergaard_Christensen,Keld Østergaard Christensen,"Venstre, Danmarks Liberale Parti",14
+Egedal,1,Ledøje Forsamlingshus,V_Peter_Christensen,Peter Christensen,"Venstre, Danmarks Liberale Parti",0
+Egedal,1,Ledøje Forsamlingshus,V_Thomas_Skov_Rasmussen,Thomas Skov Rasmussen,"Venstre, Danmarks Liberale Parti",1
+Egedal,1,Ledøje Forsamlingshus,V_Steffen_Beck,Steffen Beck,"Venstre, Danmarks Liberale Parti",0
+Egedal,1,Ledøje Forsamlingshus,V_Mette_Maj_van_Deurs,Mette Maj van Deurs,"Venstre, Danmarks Liberale Parti",1
+Egedal,1,Ledøje Forsamlingshus,V_Andreas_Milán,Andreas Milán,"Venstre, Danmarks Liberale Parti",0
+Egedal,1,Ledøje Forsamlingshus,V_Jens_Peter_Nielsen,Jens Peter Nielsen,"Venstre, Danmarks Liberale Parti",0
+Egedal,1,Ledøje Forsamlingshus,V_Ketty_Berth,Ketty Berth,"Venstre, Danmarks Liberale Parti",0
+Egedal,1,Ledøje Forsamlingshus,V_Henrik_Iversen,Henrik Iversen,"Venstre, Danmarks Liberale Parti",0
+Egedal,1,Ledøje Forsamlingshus,V_Birgitte_Falk,Birgitte Falk,"Venstre, Danmarks Liberale Parti",28
+Egedal,1,Ledøje Forsamlingshus,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,8
+Egedal,1,Ledøje Forsamlingshus,"Ø_Helle_Bovien,_Smørum","Helle Bovien, Smørum",Enhedslisten - De Rød-Grønne,8
+Egedal,1,Ledøje Forsamlingshus,"Ø_Anne_Dahl_Thing,_Ganløse","Anne Dahl Thing, Ganløse",Enhedslisten - De Rød-Grønne,4
+Egedal,1,Ledøje Forsamlingshus,"Ø_Milad_Azim,_Stenløse","Milad Azim, Stenløse",Enhedslisten - De Rød-Grønne,4
+Egedal,1,Ledøje Forsamlingshus,"Ø_Clara_Møller_Jensen,_Smørum","Clara Møller Jensen, Smørum",Enhedslisten - De Rød-Grønne,1
+Egedal,1,Ledøje Forsamlingshus,"Ø_Morten_Theilsborg,_Ølstykke","Morten Theilsborg, Ølstykke",Enhedslisten - De Rød-Grønne,0
+Egedal,1,Ledøje Forsamlingshus,"Ø_Gunna_Gustafsson,_Buresø","Gunna Gustafsson, Buresø",Enhedslisten - De Rød-Grønne,0
+Egedal,1,Ledøje Forsamlingshus,"Ø_Thomas_Pendrup,_Værebro","Thomas Pendrup, Værebro",Enhedslisten - De Rød-Grønne,0
+Egedal,2,Smørum Idrætscenter,A_Listestemmer,Listestemmer,Socialdemokratiet,404
+Egedal,2,Smørum Idrætscenter,"A_Vicky_Holst_Rasmussen,_Stenløse","Vicky Holst Rasmussen, Stenløse",Socialdemokratiet,202
+Egedal,2,Smørum Idrætscenter,"A_Henriette_Thirup-Bielefeldt,_Ølsty","Henriette Thirup-Bielefeldt, Ølsty",Socialdemokratiet,32
+Egedal,2,Smørum Idrætscenter,"A_Henrik_Sass_Christensen,_Stenløse","Henrik Sass Christensen, Stenløse",Socialdemokratiet,8
+Egedal,2,Smørum Idrætscenter,"A_Lasse_Nørreskov,_Smørum","Lasse Nørreskov, Smørum",Socialdemokratiet,271
+Egedal,2,Smørum Idrætscenter,"A_Sinne_Munck_Eliasen,_Veksø","Sinne Munck Eliasen, Veksø",Socialdemokratiet,27
+Egedal,2,Smørum Idrætscenter,"A_Bo_Brøndum_Pedersen,_Ganløse","Bo Brøndum Pedersen, Ganløse",Socialdemokratiet,19
+Egedal,2,Smørum Idrætscenter,"A_Line_Mette_Andrup,_Smørum","Line Mette Andrup, Smørum",Socialdemokratiet,184
+Egedal,2,Smørum Idrætscenter,"A_Ib_Sørensen,_Stenløse","Ib Sørensen, Stenløse",Socialdemokratiet,10
+Egedal,2,Smørum Idrætscenter,"A_Morten_Lyager,_Ølstykke","Morten Lyager, Ølstykke",Socialdemokratiet,13
+Egedal,2,Smørum Idrætscenter,"A_Henrik_Wolfhagen,_Ledøje","Henrik Wolfhagen, Ledøje",Socialdemokratiet,50
+Egedal,2,Smørum Idrætscenter,"A_Brian_Carl_Øllegaard,_Stenløse","Brian Carl Øllegaard, Stenløse",Socialdemokratiet,8
+Egedal,2,Smørum Idrætscenter,B_Listestemmer,Listestemmer,Radikale Venstre,83
+Egedal,2,Smørum Idrætscenter,"B_Rikke_Mortensen,_Stenløse","Rikke Mortensen, Stenløse",Radikale Venstre,103
+Egedal,2,Smørum Idrætscenter,"B_Stephan_Grubbe_Sølby,_Ølstykke","Stephan Grubbe Sølby, Ølstykke",Radikale Venstre,9
+Egedal,2,Smørum Idrætscenter,"B_Nicolai_Bach_Sørensen,_Veksø","Nicolai Bach Sørensen, Veksø",Radikale Venstre,10
+Egedal,2,Smørum Idrætscenter,"B_Dennis_Roland_Pedersen,_Veksø","Dennis Roland Pedersen, Veksø",Radikale Venstre,11
+Egedal,2,Smørum Idrætscenter,"B_Bent_Hollund,_Stenløse","Bent Hollund, Stenløse",Radikale Venstre,0
+Egedal,2,Smørum Idrætscenter,"B_Erik_Dam,_Ølstykke","Erik Dam, Ølstykke",Radikale Venstre,2
+Egedal,2,Smørum Idrætscenter,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,340
+Egedal,2,Smørum Idrætscenter,C_Charlotte_Haagendrup,Charlotte Haagendrup,Det Konservative Folkeparti,150
+Egedal,2,Smørum Idrætscenter,C_Lars_Falk_Hansen,Lars Falk Hansen,Det Konservative Folkeparti,39
+Egedal,2,Smørum Idrætscenter,C_Dan_Haugbøl,Dan Haugbøl,Det Konservative Folkeparti,81
+Egedal,2,Smørum Idrætscenter,C_Birgitte_Neergaard-Kofod,Birgitte Neergaard-Kofod,Det Konservative Folkeparti,94
+Egedal,2,Smørum Idrætscenter,C_Peter_Højmark_Trasborg,Peter Højmark Trasborg,Det Konservative Folkeparti,113
+Egedal,2,Smørum Idrætscenter,C_Susanne_Christensen,Susanne Christensen,Det Konservative Folkeparti,72
+Egedal,2,Smørum Idrætscenter,C_Christine_Søjbjerg,Christine Søjbjerg,Det Konservative Folkeparti,48
+Egedal,2,Smørum Idrætscenter,D_Listestemmer,Listestemmer,Nye Borgerlige,84
+Egedal,2,Smørum Idrætscenter,"D_Claus_Bruncke,_Ølstykke","Claus Bruncke, Ølstykke",Nye Borgerlige,61
+Egedal,2,Smørum Idrætscenter,"D_Kenni_Jensen,_Ølstykke","Kenni Jensen, Ølstykke",Nye Borgerlige,17
+Egedal,2,Smørum Idrætscenter,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,158
+Egedal,2,Smørum Idrætscenter,"F_Jens_Skov,_Smørum","Jens Skov, Smørum",SF - Socialistisk Folkeparti,365
+Egedal,2,Smørum Idrætscenter,"F_Jonathan_Kristensen,_Ølstykke","Jonathan Kristensen, Ølstykke",SF - Socialistisk Folkeparti,16
+Egedal,2,Smørum Idrætscenter,"F_Karen_Juul,_Smørum","Karen Juul, Smørum",SF - Socialistisk Folkeparti,117
+Egedal,2,Smørum Idrætscenter,"F_Pernille_Kristensen,_Ølstykke","Pernille Kristensen, Ølstykke",SF - Socialistisk Folkeparti,19
+Egedal,2,Smørum Idrætscenter,"F_Jacob_Andrup,_Ølstykke","Jacob Andrup, Ølstykke",SF - Socialistisk Folkeparti,4
+Egedal,2,Smørum Idrætscenter,"F_Randi_Jørgensen,_Veksø","Randi Jørgensen, Veksø",SF - Socialistisk Folkeparti,1
+Egedal,2,Smørum Idrætscenter,"F_Henrik_Severin_Hansen,_Smørum","Henrik Severin Hansen, Smørum",SF - Socialistisk Folkeparti,10
+Egedal,2,Smørum Idrætscenter,"F_Ida_Madsen,_Veksø","Ida Madsen, Veksø",SF - Socialistisk Folkeparti,8
+Egedal,2,Smørum Idrætscenter,"F_Peter_Hansen,_Ganløse","Peter Hansen, Ganløse",SF - Socialistisk Folkeparti,1
+Egedal,2,Smørum Idrætscenter,"F_Lea_Jensen,_Ølstykke","Lea Jensen, Ølstykke",SF - Socialistisk Folkeparti,3
+Egedal,2,Smørum Idrætscenter,"F_Kamilla_Lindgren,_Ganløse","Kamilla Lindgren, Ganløse",SF - Socialistisk Folkeparti,2
+Egedal,2,Smørum Idrætscenter,H_Listestemmer,Listestemmer,Et Samlet Egedal,11
+Egedal,2,Smørum Idrætscenter,"H_Johan_Hahn,_Ølstykke","Johan Hahn, Ølstykke",Et Samlet Egedal,64
+Egedal,2,Smørum Idrætscenter,I_Listestemmer,Listestemmer,Liberal Alliance,33
+Egedal,2,Smørum Idrætscenter,I_Bendt_Tranekjær,Bendt Tranekjær,Liberal Alliance,24
+Egedal,2,Smørum Idrætscenter,I_Thomas_Nestler,Thomas Nestler,Liberal Alliance,3
+Egedal,2,Smørum Idrætscenter,I_Aksel_Tarras_Madsen,Aksel Tarras Madsen,Liberal Alliance,2
+Egedal,2,Smørum Idrætscenter,I_Christian_Estrup,Christian Estrup,Liberal Alliance,3
+Egedal,2,Smørum Idrætscenter,L_Listestemmer,Listestemmer,Lokallisten Ny Egedal,258
+Egedal,2,Smørum Idrætscenter,"L_Ulrik_John_Nielsen,_Ganløse","Ulrik John Nielsen, Ganløse",Lokallisten Ny Egedal,121
+Egedal,2,Smørum Idrætscenter,"L_Bettina_Zarp,_Smørum","Bettina Zarp, Smørum",Lokallisten Ny Egedal,430
+Egedal,2,Smørum Idrætscenter,"L_Lars_Winther,_Stenløse","Lars Winther, Stenløse",Lokallisten Ny Egedal,15
+Egedal,2,Smørum Idrætscenter,"L_Illa_Jepsen,_Ølstykke","Illa Jepsen, Ølstykke",Lokallisten Ny Egedal,21
+Egedal,2,Smørum Idrætscenter,"L_Morten_Leonhardt_Marstrand,_Ganløs","Morten Leonhardt Marstrand, Ganløs",Lokallisten Ny Egedal,21
+Egedal,2,Smørum Idrætscenter,"L_Stig_Bundgaard,_Stenløse","Stig Bundgaard, Stenløse",Lokallisten Ny Egedal,9
+Egedal,2,Smørum Idrætscenter,"L_Ric_Jakobsen,_Slagslunde","Ric Jakobsen, Slagslunde",Lokallisten Ny Egedal,6
+Egedal,2,Smørum Idrætscenter,"L_Kristian_Petersen_Nørgaard,_Smørum","Kristian Petersen Nørgaard, Smørum",Lokallisten Ny Egedal,224
+Egedal,2,Smørum Idrætscenter,"L_Tobias_Fisch_Albrechtsen,_Ganløse","Tobias Fisch Albrechtsen, Ganløse",Lokallisten Ny Egedal,1
+Egedal,2,Smørum Idrætscenter,"L_Sarah_Holmgaard_Mortensen,_Ølstykk","Sarah Holmgaard Mortensen, Ølstykk",Lokallisten Ny Egedal,1
+Egedal,2,Smørum Idrætscenter,"L_Niels_Lindhardt_Johansen,_Ganløse","Niels Lindhardt Johansen, Ganløse",Lokallisten Ny Egedal,9
+Egedal,2,Smørum Idrætscenter,"L_Mikkel_Seierø,_Ølstykke","Mikkel Seierø, Ølstykke",Lokallisten Ny Egedal,0
+Egedal,2,Smørum Idrætscenter,"L_Torsten_Nielsen,_Ølstykke","Torsten Nielsen, Ølstykke",Lokallisten Ny Egedal,0
+Egedal,2,Smørum Idrætscenter,"L_Jannie_Lund-Nielsen,_Stenløse","Jannie Lund-Nielsen, Stenløse",Lokallisten Ny Egedal,15
+Egedal,2,Smørum Idrætscenter,"L_Carl_Emil_Bundgaard,_Stenløse","Carl Emil Bundgaard, Stenløse",Lokallisten Ny Egedal,7
+Egedal,2,Smørum Idrætscenter,"L_Mette_Danielsen,_Ølstykke","Mette Danielsen, Ølstykke",Lokallisten Ny Egedal,1
+Egedal,2,Smørum Idrætscenter,"L_Preben_Jacobsen,_Stenløse","Preben Jacobsen, Stenløse",Lokallisten Ny Egedal,0
+Egedal,2,Smørum Idrætscenter,"L_Søren_Ring_Ibsen,_Slagslunde","Søren Ring Ibsen, Slagslunde",Lokallisten Ny Egedal,0
+Egedal,2,Smørum Idrætscenter,O_Listestemmer,Listestemmer,Dansk Folkeparti,69
+Egedal,2,Smørum Idrætscenter,O_Allan_Bøwig,Allan Bøwig,Dansk Folkeparti,28
+Egedal,2,Smørum Idrætscenter,O_Christian_Sødergren,Christian Sødergren,Dansk Folkeparti,11
+Egedal,2,Smørum Idrætscenter,O_Ivann_Lund,Ivann Lund,Dansk Folkeparti,3
+Egedal,2,Smørum Idrætscenter,O_Susanne_Tønder,Susanne Tønder,Dansk Folkeparti,25
+Egedal,2,Smørum Idrætscenter,O_Flemming_Schandorff,Flemming Schandorff,Dansk Folkeparti,10
+Egedal,2,Smørum Idrætscenter,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",216
+Egedal,2,Smørum Idrætscenter,V_Karsten_Søndergaard,Karsten Søndergaard,"Venstre, Danmarks Liberale Parti",485
+Egedal,2,Smørum Idrætscenter,V_Betina_Hilligsøe,Betina Hilligsøe,"Venstre, Danmarks Liberale Parti",42
+Egedal,2,Smørum Idrætscenter,V_Bo_Vesth,Bo Vesth,"Venstre, Danmarks Liberale Parti",16
+Egedal,2,Smørum Idrætscenter,V_Carina_Buurskov,Carina Buurskov,"Venstre, Danmarks Liberale Parti",11
+Egedal,2,Smørum Idrætscenter,V_Louise_Dalby,Louise Dalby,"Venstre, Danmarks Liberale Parti",16
+Egedal,2,Smørum Idrætscenter,V_Anders_Bo_Larsen,Anders Bo Larsen,"Venstre, Danmarks Liberale Parti",12
+Egedal,2,Smørum Idrætscenter,V_Ole_B._Hovøre,Ole B. Hovøre,"Venstre, Danmarks Liberale Parti",26
+Egedal,2,Smørum Idrætscenter,V_Keld_Østergaard_Christensen,Keld Østergaard Christensen,"Venstre, Danmarks Liberale Parti",106
+Egedal,2,Smørum Idrætscenter,V_Peter_Christensen,Peter Christensen,"Venstre, Danmarks Liberale Parti",10
+Egedal,2,Smørum Idrætscenter,V_Thomas_Skov_Rasmussen,Thomas Skov Rasmussen,"Venstre, Danmarks Liberale Parti",12
+Egedal,2,Smørum Idrætscenter,V_Steffen_Beck,Steffen Beck,"Venstre, Danmarks Liberale Parti",2
+Egedal,2,Smørum Idrætscenter,V_Mette_Maj_van_Deurs,Mette Maj van Deurs,"Venstre, Danmarks Liberale Parti",7
+Egedal,2,Smørum Idrætscenter,V_Andreas_Milán,Andreas Milán,"Venstre, Danmarks Liberale Parti",2
+Egedal,2,Smørum Idrætscenter,V_Jens_Peter_Nielsen,Jens Peter Nielsen,"Venstre, Danmarks Liberale Parti",1
+Egedal,2,Smørum Idrætscenter,V_Ketty_Berth,Ketty Berth,"Venstre, Danmarks Liberale Parti",3
+Egedal,2,Smørum Idrætscenter,V_Henrik_Iversen,Henrik Iversen,"Venstre, Danmarks Liberale Parti",7
+Egedal,2,Smørum Idrætscenter,V_Birgitte_Falk,Birgitte Falk,"Venstre, Danmarks Liberale Parti",12
+Egedal,2,Smørum Idrætscenter,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,102
+Egedal,2,Smørum Idrætscenter,"Ø_Helle_Bovien,_Smørum","Helle Bovien, Smørum",Enhedslisten - De Rød-Grønne,72
+Egedal,2,Smørum Idrætscenter,"Ø_Anne_Dahl_Thing,_Ganløse","Anne Dahl Thing, Ganløse",Enhedslisten - De Rød-Grønne,23
+Egedal,2,Smørum Idrætscenter,"Ø_Milad_Azim,_Stenløse","Milad Azim, Stenløse",Enhedslisten - De Rød-Grønne,18
+Egedal,2,Smørum Idrætscenter,"Ø_Clara_Møller_Jensen,_Smørum","Clara Møller Jensen, Smørum",Enhedslisten - De Rød-Grønne,44
+Egedal,2,Smørum Idrætscenter,"Ø_Morten_Theilsborg,_Ølstykke","Morten Theilsborg, Ølstykke",Enhedslisten - De Rød-Grønne,5
+Egedal,2,Smørum Idrætscenter,"Ø_Gunna_Gustafsson,_Buresø","Gunna Gustafsson, Buresø",Enhedslisten - De Rød-Grønne,1
+Egedal,2,Smørum Idrætscenter,"Ø_Thomas_Pendrup,_Værebro","Thomas Pendrup, Værebro",Enhedslisten - De Rød-Grønne,3
+Egedal,3,Stenløse,A_Listestemmer,Listestemmer,Socialdemokratiet,255
+Egedal,3,Stenløse,"A_Vicky_Holst_Rasmussen,_Stenløse","Vicky Holst Rasmussen, Stenløse",Socialdemokratiet,305
+Egedal,3,Stenløse,"A_Henriette_Thirup-Bielefeldt,_Ølsty","Henriette Thirup-Bielefeldt, Ølsty",Socialdemokratiet,42
+Egedal,3,Stenløse,"A_Henrik_Sass_Christensen,_Stenløse","Henrik Sass Christensen, Stenløse",Socialdemokratiet,109
+Egedal,3,Stenløse,"A_Lasse_Nørreskov,_Smørum","Lasse Nørreskov, Smørum",Socialdemokratiet,15
+Egedal,3,Stenløse,"A_Sinne_Munck_Eliasen,_Veksø","Sinne Munck Eliasen, Veksø",Socialdemokratiet,23
+Egedal,3,Stenløse,"A_Bo_Brøndum_Pedersen,_Ganløse","Bo Brøndum Pedersen, Ganløse",Socialdemokratiet,70
+Egedal,3,Stenløse,"A_Line_Mette_Andrup,_Smørum","Line Mette Andrup, Smørum",Socialdemokratiet,14
+Egedal,3,Stenløse,"A_Ib_Sørensen,_Stenløse","Ib Sørensen, Stenløse",Socialdemokratiet,37
+Egedal,3,Stenløse,"A_Morten_Lyager,_Ølstykke","Morten Lyager, Ølstykke",Socialdemokratiet,8
+Egedal,3,Stenløse,"A_Henrik_Wolfhagen,_Ledøje","Henrik Wolfhagen, Ledøje",Socialdemokratiet,4
+Egedal,3,Stenløse,"A_Brian_Carl_Øllegaard,_Stenløse","Brian Carl Øllegaard, Stenløse",Socialdemokratiet,24
+Egedal,3,Stenløse,B_Listestemmer,Listestemmer,Radikale Venstre,45
+Egedal,3,Stenløse,"B_Rikke_Mortensen,_Stenløse","Rikke Mortensen, Stenløse",Radikale Venstre,144
+Egedal,3,Stenløse,"B_Stephan_Grubbe_Sølby,_Ølstykke","Stephan Grubbe Sølby, Ølstykke",Radikale Venstre,7
+Egedal,3,Stenløse,"B_Nicolai_Bach_Sørensen,_Veksø","Nicolai Bach Sørensen, Veksø",Radikale Venstre,8
+Egedal,3,Stenløse,"B_Dennis_Roland_Pedersen,_Veksø","Dennis Roland Pedersen, Veksø",Radikale Venstre,7
+Egedal,3,Stenløse,"B_Bent_Hollund,_Stenløse","Bent Hollund, Stenløse",Radikale Venstre,2
+Egedal,3,Stenløse,"B_Erik_Dam,_Ølstykke","Erik Dam, Ølstykke",Radikale Venstre,0
+Egedal,3,Stenløse,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,126
+Egedal,3,Stenløse,C_Charlotte_Haagendrup,Charlotte Haagendrup,Det Konservative Folkeparti,105
+Egedal,3,Stenløse,C_Lars_Falk_Hansen,Lars Falk Hansen,Det Konservative Folkeparti,61
+Egedal,3,Stenløse,C_Dan_Haugbøl,Dan Haugbøl,Det Konservative Folkeparti,5
+Egedal,3,Stenløse,C_Birgitte_Neergaard-Kofod,Birgitte Neergaard-Kofod,Det Konservative Folkeparti,24
+Egedal,3,Stenløse,C_Peter_Højmark_Trasborg,Peter Højmark Trasborg,Det Konservative Folkeparti,25
+Egedal,3,Stenløse,C_Susanne_Christensen,Susanne Christensen,Det Konservative Folkeparti,11
+Egedal,3,Stenløse,C_Christine_Søjbjerg,Christine Søjbjerg,Det Konservative Folkeparti,37
+Egedal,3,Stenløse,D_Listestemmer,Listestemmer,Nye Borgerlige,59
+Egedal,3,Stenløse,"D_Claus_Bruncke,_Ølstykke","Claus Bruncke, Ølstykke",Nye Borgerlige,32
+Egedal,3,Stenløse,"D_Kenni_Jensen,_Ølstykke","Kenni Jensen, Ølstykke",Nye Borgerlige,10
+Egedal,3,Stenløse,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,74
+Egedal,3,Stenløse,"F_Jens_Skov,_Smørum","Jens Skov, Smørum",SF - Socialistisk Folkeparti,31
+Egedal,3,Stenløse,"F_Jonathan_Kristensen,_Ølstykke","Jonathan Kristensen, Ølstykke",SF - Socialistisk Folkeparti,5
+Egedal,3,Stenløse,"F_Karen_Juul,_Smørum","Karen Juul, Smørum",SF - Socialistisk Folkeparti,14
+Egedal,3,Stenløse,"F_Pernille_Kristensen,_Ølstykke","Pernille Kristensen, Ølstykke",SF - Socialistisk Folkeparti,23
+Egedal,3,Stenløse,"F_Jacob_Andrup,_Ølstykke","Jacob Andrup, Ølstykke",SF - Socialistisk Folkeparti,2
+Egedal,3,Stenløse,"F_Randi_Jørgensen,_Veksø","Randi Jørgensen, Veksø",SF - Socialistisk Folkeparti,6
+Egedal,3,Stenløse,"F_Henrik_Severin_Hansen,_Smørum","Henrik Severin Hansen, Smørum",SF - Socialistisk Folkeparti,2
+Egedal,3,Stenløse,"F_Ida_Madsen,_Veksø","Ida Madsen, Veksø",SF - Socialistisk Folkeparti,6
+Egedal,3,Stenløse,"F_Peter_Hansen,_Ganløse","Peter Hansen, Ganløse",SF - Socialistisk Folkeparti,5
+Egedal,3,Stenløse,"F_Lea_Jensen,_Ølstykke","Lea Jensen, Ølstykke",SF - Socialistisk Folkeparti,1
+Egedal,3,Stenløse,"F_Kamilla_Lindgren,_Ganløse","Kamilla Lindgren, Ganløse",SF - Socialistisk Folkeparti,2
+Egedal,3,Stenløse,H_Listestemmer,Listestemmer,Et Samlet Egedal,9
+Egedal,3,Stenløse,"H_Johan_Hahn,_Ølstykke","Johan Hahn, Ølstykke",Et Samlet Egedal,48
+Egedal,3,Stenløse,I_Listestemmer,Listestemmer,Liberal Alliance,19
+Egedal,3,Stenløse,I_Bendt_Tranekjær,Bendt Tranekjær,Liberal Alliance,19
+Egedal,3,Stenløse,I_Thomas_Nestler,Thomas Nestler,Liberal Alliance,1
+Egedal,3,Stenløse,I_Aksel_Tarras_Madsen,Aksel Tarras Madsen,Liberal Alliance,2
+Egedal,3,Stenløse,I_Christian_Estrup,Christian Estrup,Liberal Alliance,0
+Egedal,3,Stenløse,L_Listestemmer,Listestemmer,Lokallisten Ny Egedal,117
+Egedal,3,Stenløse,"L_Ulrik_John_Nielsen,_Ganløse","Ulrik John Nielsen, Ganløse",Lokallisten Ny Egedal,118
+Egedal,3,Stenløse,"L_Bettina_Zarp,_Smørum","Bettina Zarp, Smørum",Lokallisten Ny Egedal,12
+Egedal,3,Stenløse,"L_Lars_Winther,_Stenløse","Lars Winther, Stenløse",Lokallisten Ny Egedal,135
+Egedal,3,Stenløse,"L_Illa_Jepsen,_Ølstykke","Illa Jepsen, Ølstykke",Lokallisten Ny Egedal,9
+Egedal,3,Stenløse,"L_Morten_Leonhardt_Marstrand,_Ganløs","Morten Leonhardt Marstrand, Ganløs",Lokallisten Ny Egedal,13
+Egedal,3,Stenløse,"L_Stig_Bundgaard,_Stenløse","Stig Bundgaard, Stenløse",Lokallisten Ny Egedal,82
+Egedal,3,Stenløse,"L_Ric_Jakobsen,_Slagslunde","Ric Jakobsen, Slagslunde",Lokallisten Ny Egedal,12
+Egedal,3,Stenløse,"L_Kristian_Petersen_Nørgaard,_Smørum","Kristian Petersen Nørgaard, Smørum",Lokallisten Ny Egedal,3
+Egedal,3,Stenløse,"L_Tobias_Fisch_Albrechtsen,_Ganløse","Tobias Fisch Albrechtsen, Ganløse",Lokallisten Ny Egedal,11
+Egedal,3,Stenløse,"L_Sarah_Holmgaard_Mortensen,_Ølstykk","Sarah Holmgaard Mortensen, Ølstykk",Lokallisten Ny Egedal,2
+Egedal,3,Stenløse,"L_Niels_Lindhardt_Johansen,_Ganløse","Niels Lindhardt Johansen, Ganløse",Lokallisten Ny Egedal,3
+Egedal,3,Stenløse,"L_Mikkel_Seierø,_Ølstykke","Mikkel Seierø, Ølstykke",Lokallisten Ny Egedal,5
+Egedal,3,Stenløse,"L_Torsten_Nielsen,_Ølstykke","Torsten Nielsen, Ølstykke",Lokallisten Ny Egedal,1
+Egedal,3,Stenløse,"L_Jannie_Lund-Nielsen,_Stenløse","Jannie Lund-Nielsen, Stenløse",Lokallisten Ny Egedal,26
+Egedal,3,Stenløse,"L_Carl_Emil_Bundgaard,_Stenløse","Carl Emil Bundgaard, Stenløse",Lokallisten Ny Egedal,12
+Egedal,3,Stenløse,"L_Mette_Danielsen,_Ølstykke","Mette Danielsen, Ølstykke",Lokallisten Ny Egedal,0
+Egedal,3,Stenløse,"L_Preben_Jacobsen,_Stenløse","Preben Jacobsen, Stenløse",Lokallisten Ny Egedal,2
+Egedal,3,Stenløse,"L_Søren_Ring_Ibsen,_Slagslunde","Søren Ring Ibsen, Slagslunde",Lokallisten Ny Egedal,2
+Egedal,3,Stenløse,O_Listestemmer,Listestemmer,Dansk Folkeparti,49
+Egedal,3,Stenløse,O_Allan_Bøwig,Allan Bøwig,Dansk Folkeparti,29
+Egedal,3,Stenløse,O_Christian_Sødergren,Christian Sødergren,Dansk Folkeparti,10
+Egedal,3,Stenløse,O_Ivann_Lund,Ivann Lund,Dansk Folkeparti,5
+Egedal,3,Stenløse,O_Susanne_Tønder,Susanne Tønder,Dansk Folkeparti,19
+Egedal,3,Stenløse,O_Flemming_Schandorff,Flemming Schandorff,Dansk Folkeparti,3
+Egedal,3,Stenløse,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",160
+Egedal,3,Stenløse,V_Karsten_Søndergaard,Karsten Søndergaard,"Venstre, Danmarks Liberale Parti",239
+Egedal,3,Stenløse,V_Betina_Hilligsøe,Betina Hilligsøe,"Venstre, Danmarks Liberale Parti",112
+Egedal,3,Stenløse,V_Bo_Vesth,Bo Vesth,"Venstre, Danmarks Liberale Parti",73
+Egedal,3,Stenløse,V_Carina_Buurskov,Carina Buurskov,"Venstre, Danmarks Liberale Parti",21
+Egedal,3,Stenløse,V_Louise_Dalby,Louise Dalby,"Venstre, Danmarks Liberale Parti",17
+Egedal,3,Stenløse,V_Anders_Bo_Larsen,Anders Bo Larsen,"Venstre, Danmarks Liberale Parti",44
+Egedal,3,Stenløse,V_Ole_B._Hovøre,Ole B. Hovøre,"Venstre, Danmarks Liberale Parti",15
+Egedal,3,Stenløse,V_Keld_Østergaard_Christensen,Keld Østergaard Christensen,"Venstre, Danmarks Liberale Parti",1
+Egedal,3,Stenløse,V_Peter_Christensen,Peter Christensen,"Venstre, Danmarks Liberale Parti",5
+Egedal,3,Stenløse,V_Thomas_Skov_Rasmussen,Thomas Skov Rasmussen,"Venstre, Danmarks Liberale Parti",7
+Egedal,3,Stenløse,V_Steffen_Beck,Steffen Beck,"Venstre, Danmarks Liberale Parti",8
+Egedal,3,Stenløse,V_Mette_Maj_van_Deurs,Mette Maj van Deurs,"Venstre, Danmarks Liberale Parti",13
+Egedal,3,Stenløse,V_Andreas_Milán,Andreas Milán,"Venstre, Danmarks Liberale Parti",1
+Egedal,3,Stenløse,V_Jens_Peter_Nielsen,Jens Peter Nielsen,"Venstre, Danmarks Liberale Parti",12
+Egedal,3,Stenløse,V_Ketty_Berth,Ketty Berth,"Venstre, Danmarks Liberale Parti",8
+Egedal,3,Stenløse,V_Henrik_Iversen,Henrik Iversen,"Venstre, Danmarks Liberale Parti",8
+Egedal,3,Stenløse,V_Birgitte_Falk,Birgitte Falk,"Venstre, Danmarks Liberale Parti",5
+Egedal,3,Stenløse,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,60
+Egedal,3,Stenløse,"Ø_Helle_Bovien,_Smørum","Helle Bovien, Smørum",Enhedslisten - De Rød-Grønne,19
+Egedal,3,Stenløse,"Ø_Anne_Dahl_Thing,_Ganløse","Anne Dahl Thing, Ganløse",Enhedslisten - De Rød-Grønne,26
+Egedal,3,Stenløse,"Ø_Milad_Azim,_Stenløse","Milad Azim, Stenløse",Enhedslisten - De Rød-Grønne,20
+Egedal,3,Stenløse,"Ø_Clara_Møller_Jensen,_Smørum","Clara Møller Jensen, Smørum",Enhedslisten - De Rød-Grønne,9
+Egedal,3,Stenløse,"Ø_Morten_Theilsborg,_Ølstykke","Morten Theilsborg, Ølstykke",Enhedslisten - De Rød-Grønne,3
+Egedal,3,Stenløse,"Ø_Gunna_Gustafsson,_Buresø","Gunna Gustafsson, Buresø",Enhedslisten - De Rød-Grønne,0
+Egedal,3,Stenløse,"Ø_Thomas_Pendrup,_Værebro","Thomas Pendrup, Værebro",Enhedslisten - De Rød-Grønne,5
+Egedal,4,Veksø,A_Listestemmer,Listestemmer,Socialdemokratiet,82
+Egedal,4,Veksø,"A_Vicky_Holst_Rasmussen,_Stenløse","Vicky Holst Rasmussen, Stenløse",Socialdemokratiet,44
+Egedal,4,Veksø,"A_Henriette_Thirup-Bielefeldt,_Ølsty","Henriette Thirup-Bielefeldt, Ølsty",Socialdemokratiet,19
+Egedal,4,Veksø,"A_Henrik_Sass_Christensen,_Stenløse","Henrik Sass Christensen, Stenløse",Socialdemokratiet,5
+Egedal,4,Veksø,"A_Lasse_Nørreskov,_Smørum","Lasse Nørreskov, Smørum",Socialdemokratiet,7
+Egedal,4,Veksø,"A_Sinne_Munck_Eliasen,_Veksø","Sinne Munck Eliasen, Veksø",Socialdemokratiet,61
+Egedal,4,Veksø,"A_Bo_Brøndum_Pedersen,_Ganløse","Bo Brøndum Pedersen, Ganløse",Socialdemokratiet,16
+Egedal,4,Veksø,"A_Line_Mette_Andrup,_Smørum","Line Mette Andrup, Smørum",Socialdemokratiet,5
+Egedal,4,Veksø,"A_Ib_Sørensen,_Stenløse","Ib Sørensen, Stenløse",Socialdemokratiet,6
+Egedal,4,Veksø,"A_Morten_Lyager,_Ølstykke","Morten Lyager, Ølstykke",Socialdemokratiet,5
+Egedal,4,Veksø,"A_Henrik_Wolfhagen,_Ledøje","Henrik Wolfhagen, Ledøje",Socialdemokratiet,2
+Egedal,4,Veksø,"A_Brian_Carl_Øllegaard,_Stenløse","Brian Carl Øllegaard, Stenløse",Socialdemokratiet,4
+Egedal,4,Veksø,B_Listestemmer,Listestemmer,Radikale Venstre,10
+Egedal,4,Veksø,"B_Rikke_Mortensen,_Stenløse","Rikke Mortensen, Stenløse",Radikale Venstre,31
+Egedal,4,Veksø,"B_Stephan_Grubbe_Sølby,_Ølstykke","Stephan Grubbe Sølby, Ølstykke",Radikale Venstre,0
+Egedal,4,Veksø,"B_Nicolai_Bach_Sørensen,_Veksø","Nicolai Bach Sørensen, Veksø",Radikale Venstre,13
+Egedal,4,Veksø,"B_Dennis_Roland_Pedersen,_Veksø","Dennis Roland Pedersen, Veksø",Radikale Venstre,25
+Egedal,4,Veksø,"B_Bent_Hollund,_Stenløse","Bent Hollund, Stenløse",Radikale Venstre,0
+Egedal,4,Veksø,"B_Erik_Dam,_Ølstykke","Erik Dam, Ølstykke",Radikale Venstre,0
+Egedal,4,Veksø,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,41
+Egedal,4,Veksø,C_Charlotte_Haagendrup,Charlotte Haagendrup,Det Konservative Folkeparti,25
+Egedal,4,Veksø,C_Lars_Falk_Hansen,Lars Falk Hansen,Det Konservative Folkeparti,18
+Egedal,4,Veksø,C_Dan_Haugbøl,Dan Haugbøl,Det Konservative Folkeparti,3
+Egedal,4,Veksø,C_Birgitte_Neergaard-Kofod,Birgitte Neergaard-Kofod,Det Konservative Folkeparti,5
+Egedal,4,Veksø,C_Peter_Højmark_Trasborg,Peter Højmark Trasborg,Det Konservative Folkeparti,4
+Egedal,4,Veksø,C_Susanne_Christensen,Susanne Christensen,Det Konservative Folkeparti,5
+Egedal,4,Veksø,C_Christine_Søjbjerg,Christine Søjbjerg,Det Konservative Folkeparti,5
+Egedal,4,Veksø,D_Listestemmer,Listestemmer,Nye Borgerlige,17
+Egedal,4,Veksø,"D_Claus_Bruncke,_Ølstykke","Claus Bruncke, Ølstykke",Nye Borgerlige,12
+Egedal,4,Veksø,"D_Kenni_Jensen,_Ølstykke","Kenni Jensen, Ølstykke",Nye Borgerlige,2
+Egedal,4,Veksø,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,44
+Egedal,4,Veksø,"F_Jens_Skov,_Smørum","Jens Skov, Smørum",SF - Socialistisk Folkeparti,11
+Egedal,4,Veksø,"F_Jonathan_Kristensen,_Ølstykke","Jonathan Kristensen, Ølstykke",SF - Socialistisk Folkeparti,3
+Egedal,4,Veksø,"F_Karen_Juul,_Smørum","Karen Juul, Smørum",SF - Socialistisk Folkeparti,8
+Egedal,4,Veksø,"F_Pernille_Kristensen,_Ølstykke","Pernille Kristensen, Ølstykke",SF - Socialistisk Folkeparti,7
+Egedal,4,Veksø,"F_Jacob_Andrup,_Ølstykke","Jacob Andrup, Ølstykke",SF - Socialistisk Folkeparti,1
+Egedal,4,Veksø,"F_Randi_Jørgensen,_Veksø","Randi Jørgensen, Veksø",SF - Socialistisk Folkeparti,22
+Egedal,4,Veksø,"F_Henrik_Severin_Hansen,_Smørum","Henrik Severin Hansen, Smørum",SF - Socialistisk Folkeparti,0
+Egedal,4,Veksø,"F_Ida_Madsen,_Veksø","Ida Madsen, Veksø",SF - Socialistisk Folkeparti,15
+Egedal,4,Veksø,"F_Peter_Hansen,_Ganløse","Peter Hansen, Ganløse",SF - Socialistisk Folkeparti,2
+Egedal,4,Veksø,"F_Lea_Jensen,_Ølstykke","Lea Jensen, Ølstykke",SF - Socialistisk Folkeparti,0
+Egedal,4,Veksø,"F_Kamilla_Lindgren,_Ganløse","Kamilla Lindgren, Ganløse",SF - Socialistisk Folkeparti,2
+Egedal,4,Veksø,H_Listestemmer,Listestemmer,Et Samlet Egedal,0
+Egedal,4,Veksø,"H_Johan_Hahn,_Ølstykke","Johan Hahn, Ølstykke",Et Samlet Egedal,7
+Egedal,4,Veksø,I_Listestemmer,Listestemmer,Liberal Alliance,4
+Egedal,4,Veksø,I_Bendt_Tranekjær,Bendt Tranekjær,Liberal Alliance,7
+Egedal,4,Veksø,I_Thomas_Nestler,Thomas Nestler,Liberal Alliance,1
+Egedal,4,Veksø,I_Aksel_Tarras_Madsen,Aksel Tarras Madsen,Liberal Alliance,1
+Egedal,4,Veksø,I_Christian_Estrup,Christian Estrup,Liberal Alliance,2
+Egedal,4,Veksø,L_Listestemmer,Listestemmer,Lokallisten Ny Egedal,25
+Egedal,4,Veksø,"L_Ulrik_John_Nielsen,_Ganløse","Ulrik John Nielsen, Ganløse",Lokallisten Ny Egedal,27
+Egedal,4,Veksø,"L_Bettina_Zarp,_Smørum","Bettina Zarp, Smørum",Lokallisten Ny Egedal,8
+Egedal,4,Veksø,"L_Lars_Winther,_Stenløse","Lars Winther, Stenløse",Lokallisten Ny Egedal,14
+Egedal,4,Veksø,"L_Illa_Jepsen,_Ølstykke","Illa Jepsen, Ølstykke",Lokallisten Ny Egedal,1
+Egedal,4,Veksø,"L_Morten_Leonhardt_Marstrand,_Ganløs","Morten Leonhardt Marstrand, Ganløs",Lokallisten Ny Egedal,2
+Egedal,4,Veksø,"L_Stig_Bundgaard,_Stenløse","Stig Bundgaard, Stenløse",Lokallisten Ny Egedal,14
+Egedal,4,Veksø,"L_Ric_Jakobsen,_Slagslunde","Ric Jakobsen, Slagslunde",Lokallisten Ny Egedal,1
+Egedal,4,Veksø,"L_Kristian_Petersen_Nørgaard,_Smørum","Kristian Petersen Nørgaard, Smørum",Lokallisten Ny Egedal,1
+Egedal,4,Veksø,"L_Tobias_Fisch_Albrechtsen,_Ganløse","Tobias Fisch Albrechtsen, Ganløse",Lokallisten Ny Egedal,0
+Egedal,4,Veksø,"L_Sarah_Holmgaard_Mortensen,_Ølstykk","Sarah Holmgaard Mortensen, Ølstykk",Lokallisten Ny Egedal,0
+Egedal,4,Veksø,"L_Niels_Lindhardt_Johansen,_Ganløse","Niels Lindhardt Johansen, Ganløse",Lokallisten Ny Egedal,2
+Egedal,4,Veksø,"L_Mikkel_Seierø,_Ølstykke","Mikkel Seierø, Ølstykke",Lokallisten Ny Egedal,0
+Egedal,4,Veksø,"L_Torsten_Nielsen,_Ølstykke","Torsten Nielsen, Ølstykke",Lokallisten Ny Egedal,0
+Egedal,4,Veksø,"L_Jannie_Lund-Nielsen,_Stenløse","Jannie Lund-Nielsen, Stenløse",Lokallisten Ny Egedal,1
+Egedal,4,Veksø,"L_Carl_Emil_Bundgaard,_Stenløse","Carl Emil Bundgaard, Stenløse",Lokallisten Ny Egedal,7
+Egedal,4,Veksø,"L_Mette_Danielsen,_Ølstykke","Mette Danielsen, Ølstykke",Lokallisten Ny Egedal,1
+Egedal,4,Veksø,"L_Preben_Jacobsen,_Stenløse","Preben Jacobsen, Stenløse",Lokallisten Ny Egedal,0
+Egedal,4,Veksø,"L_Søren_Ring_Ibsen,_Slagslunde","Søren Ring Ibsen, Slagslunde",Lokallisten Ny Egedal,0
+Egedal,4,Veksø,O_Listestemmer,Listestemmer,Dansk Folkeparti,12
+Egedal,4,Veksø,O_Allan_Bøwig,Allan Bøwig,Dansk Folkeparti,2
+Egedal,4,Veksø,O_Christian_Sødergren,Christian Sødergren,Dansk Folkeparti,2
+Egedal,4,Veksø,O_Ivann_Lund,Ivann Lund,Dansk Folkeparti,0
+Egedal,4,Veksø,O_Susanne_Tønder,Susanne Tønder,Dansk Folkeparti,3
+Egedal,4,Veksø,O_Flemming_Schandorff,Flemming Schandorff,Dansk Folkeparti,1
+Egedal,4,Veksø,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",35
+Egedal,4,Veksø,V_Karsten_Søndergaard,Karsten Søndergaard,"Venstre, Danmarks Liberale Parti",48
+Egedal,4,Veksø,V_Betina_Hilligsøe,Betina Hilligsøe,"Venstre, Danmarks Liberale Parti",19
+Egedal,4,Veksø,V_Bo_Vesth,Bo Vesth,"Venstre, Danmarks Liberale Parti",6
+Egedal,4,Veksø,V_Carina_Buurskov,Carina Buurskov,"Venstre, Danmarks Liberale Parti",1
+Egedal,4,Veksø,V_Louise_Dalby,Louise Dalby,"Venstre, Danmarks Liberale Parti",4
+Egedal,4,Veksø,V_Anders_Bo_Larsen,Anders Bo Larsen,"Venstre, Danmarks Liberale Parti",0
+Egedal,4,Veksø,V_Ole_B._Hovøre,Ole B. Hovøre,"Venstre, Danmarks Liberale Parti",203
+Egedal,4,Veksø,V_Keld_Østergaard_Christensen,Keld Østergaard Christensen,"Venstre, Danmarks Liberale Parti",1
+Egedal,4,Veksø,V_Peter_Christensen,Peter Christensen,"Venstre, Danmarks Liberale Parti",2
+Egedal,4,Veksø,V_Thomas_Skov_Rasmussen,Thomas Skov Rasmussen,"Venstre, Danmarks Liberale Parti",0
+Egedal,4,Veksø,V_Steffen_Beck,Steffen Beck,"Venstre, Danmarks Liberale Parti",0
+Egedal,4,Veksø,V_Mette_Maj_van_Deurs,Mette Maj van Deurs,"Venstre, Danmarks Liberale Parti",1
+Egedal,4,Veksø,V_Andreas_Milán,Andreas Milán,"Venstre, Danmarks Liberale Parti",0
+Egedal,4,Veksø,V_Jens_Peter_Nielsen,Jens Peter Nielsen,"Venstre, Danmarks Liberale Parti",0
+Egedal,4,Veksø,V_Ketty_Berth,Ketty Berth,"Venstre, Danmarks Liberale Parti",4
+Egedal,4,Veksø,V_Henrik_Iversen,Henrik Iversen,"Venstre, Danmarks Liberale Parti",1
+Egedal,4,Veksø,V_Birgitte_Falk,Birgitte Falk,"Venstre, Danmarks Liberale Parti",1
+Egedal,4,Veksø,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,34
+Egedal,4,Veksø,"Ø_Helle_Bovien,_Smørum","Helle Bovien, Smørum",Enhedslisten - De Rød-Grønne,12
+Egedal,4,Veksø,"Ø_Anne_Dahl_Thing,_Ganløse","Anne Dahl Thing, Ganløse",Enhedslisten - De Rød-Grønne,14
+Egedal,4,Veksø,"Ø_Milad_Azim,_Stenløse","Milad Azim, Stenløse",Enhedslisten - De Rød-Grønne,4
+Egedal,4,Veksø,"Ø_Clara_Møller_Jensen,_Smørum","Clara Møller Jensen, Smørum",Enhedslisten - De Rød-Grønne,13
+Egedal,4,Veksø,"Ø_Morten_Theilsborg,_Ølstykke","Morten Theilsborg, Ølstykke",Enhedslisten - De Rød-Grønne,0
+Egedal,4,Veksø,"Ø_Gunna_Gustafsson,_Buresø","Gunna Gustafsson, Buresø",Enhedslisten - De Rød-Grønne,1
+Egedal,4,Veksø,"Ø_Thomas_Pendrup,_Værebro","Thomas Pendrup, Værebro",Enhedslisten - De Rød-Grønne,2
+Egedal,5,Ganløse,A_Listestemmer,Listestemmer,Socialdemokratiet,68
+Egedal,5,Ganløse,"A_Vicky_Holst_Rasmussen,_Stenløse","Vicky Holst Rasmussen, Stenløse",Socialdemokratiet,54
+Egedal,5,Ganløse,"A_Henriette_Thirup-Bielefeldt,_Ølsty","Henriette Thirup-Bielefeldt, Ølsty",Socialdemokratiet,6
+Egedal,5,Ganløse,"A_Henrik_Sass_Christensen,_Stenløse","Henrik Sass Christensen, Stenløse",Socialdemokratiet,1
+Egedal,5,Ganløse,"A_Lasse_Nørreskov,_Smørum","Lasse Nørreskov, Smørum",Socialdemokratiet,5
+Egedal,5,Ganløse,"A_Sinne_Munck_Eliasen,_Veksø","Sinne Munck Eliasen, Veksø",Socialdemokratiet,1
+Egedal,5,Ganløse,"A_Bo_Brøndum_Pedersen,_Ganløse","Bo Brøndum Pedersen, Ganløse",Socialdemokratiet,237
+Egedal,5,Ganløse,"A_Line_Mette_Andrup,_Smørum","Line Mette Andrup, Smørum",Socialdemokratiet,1
+Egedal,5,Ganløse,"A_Ib_Sørensen,_Stenløse","Ib Sørensen, Stenløse",Socialdemokratiet,2
+Egedal,5,Ganløse,"A_Morten_Lyager,_Ølstykke","Morten Lyager, Ølstykke",Socialdemokratiet,4
+Egedal,5,Ganløse,"A_Henrik_Wolfhagen,_Ledøje","Henrik Wolfhagen, Ledøje",Socialdemokratiet,2
+Egedal,5,Ganløse,"A_Brian_Carl_Øllegaard,_Stenløse","Brian Carl Øllegaard, Stenløse",Socialdemokratiet,5
+Egedal,5,Ganløse,B_Listestemmer,Listestemmer,Radikale Venstre,18
+Egedal,5,Ganløse,"B_Rikke_Mortensen,_Stenløse","Rikke Mortensen, Stenløse",Radikale Venstre,94
+Egedal,5,Ganløse,"B_Stephan_Grubbe_Sølby,_Ølstykke","Stephan Grubbe Sølby, Ølstykke",Radikale Venstre,3
+Egedal,5,Ganløse,"B_Nicolai_Bach_Sørensen,_Veksø","Nicolai Bach Sørensen, Veksø",Radikale Venstre,5
+Egedal,5,Ganløse,"B_Dennis_Roland_Pedersen,_Veksø","Dennis Roland Pedersen, Veksø",Radikale Venstre,1
+Egedal,5,Ganløse,"B_Bent_Hollund,_Stenløse","Bent Hollund, Stenløse",Radikale Venstre,1
+Egedal,5,Ganløse,"B_Erik_Dam,_Ølstykke","Erik Dam, Ølstykke",Radikale Venstre,1
+Egedal,5,Ganløse,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,45
+Egedal,5,Ganløse,C_Charlotte_Haagendrup,Charlotte Haagendrup,Det Konservative Folkeparti,29
+Egedal,5,Ganløse,C_Lars_Falk_Hansen,Lars Falk Hansen,Det Konservative Folkeparti,11
+Egedal,5,Ganløse,C_Dan_Haugbøl,Dan Haugbøl,Det Konservative Folkeparti,0
+Egedal,5,Ganløse,C_Birgitte_Neergaard-Kofod,Birgitte Neergaard-Kofod,Det Konservative Folkeparti,2
+Egedal,5,Ganløse,C_Peter_Højmark_Trasborg,Peter Højmark Trasborg,Det Konservative Folkeparti,9
+Egedal,5,Ganløse,C_Susanne_Christensen,Susanne Christensen,Det Konservative Folkeparti,0
+Egedal,5,Ganløse,C_Christine_Søjbjerg,Christine Søjbjerg,Det Konservative Folkeparti,6
+Egedal,5,Ganløse,D_Listestemmer,Listestemmer,Nye Borgerlige,21
+Egedal,5,Ganløse,"D_Claus_Bruncke,_Ølstykke","Claus Bruncke, Ølstykke",Nye Borgerlige,4
+Egedal,5,Ganløse,"D_Kenni_Jensen,_Ølstykke","Kenni Jensen, Ølstykke",Nye Borgerlige,3
+Egedal,5,Ganløse,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,35
+Egedal,5,Ganløse,"F_Jens_Skov,_Smørum","Jens Skov, Smørum",SF - Socialistisk Folkeparti,18
+Egedal,5,Ganløse,"F_Jonathan_Kristensen,_Ølstykke","Jonathan Kristensen, Ølstykke",SF - Socialistisk Folkeparti,3
+Egedal,5,Ganløse,"F_Karen_Juul,_Smørum","Karen Juul, Smørum",SF - Socialistisk Folkeparti,12
+Egedal,5,Ganløse,"F_Pernille_Kristensen,_Ølstykke","Pernille Kristensen, Ølstykke",SF - Socialistisk Folkeparti,3
+Egedal,5,Ganløse,"F_Jacob_Andrup,_Ølstykke","Jacob Andrup, Ølstykke",SF - Socialistisk Folkeparti,1
+Egedal,5,Ganløse,"F_Randi_Jørgensen,_Veksø","Randi Jørgensen, Veksø",SF - Socialistisk Folkeparti,3
+Egedal,5,Ganløse,"F_Henrik_Severin_Hansen,_Smørum","Henrik Severin Hansen, Smørum",SF - Socialistisk Folkeparti,0
+Egedal,5,Ganløse,"F_Ida_Madsen,_Veksø","Ida Madsen, Veksø",SF - Socialistisk Folkeparti,5
+Egedal,5,Ganløse,"F_Peter_Hansen,_Ganløse","Peter Hansen, Ganløse",SF - Socialistisk Folkeparti,8
+Egedal,5,Ganløse,"F_Lea_Jensen,_Ølstykke","Lea Jensen, Ølstykke",SF - Socialistisk Folkeparti,1
+Egedal,5,Ganløse,"F_Kamilla_Lindgren,_Ganløse","Kamilla Lindgren, Ganløse",SF - Socialistisk Folkeparti,21
+Egedal,5,Ganløse,H_Listestemmer,Listestemmer,Et Samlet Egedal,11
+Egedal,5,Ganløse,"H_Johan_Hahn,_Ølstykke","Johan Hahn, Ølstykke",Et Samlet Egedal,0
+Egedal,5,Ganløse,I_Listestemmer,Listestemmer,Liberal Alliance,11
+Egedal,5,Ganløse,I_Bendt_Tranekjær,Bendt Tranekjær,Liberal Alliance,3
+Egedal,5,Ganløse,I_Thomas_Nestler,Thomas Nestler,Liberal Alliance,2
+Egedal,5,Ganløse,I_Aksel_Tarras_Madsen,Aksel Tarras Madsen,Liberal Alliance,3
+Egedal,5,Ganløse,I_Christian_Estrup,Christian Estrup,Liberal Alliance,1
+Egedal,5,Ganløse,L_Listestemmer,Listestemmer,Lokallisten Ny Egedal,95
+Egedal,5,Ganløse,"L_Ulrik_John_Nielsen,_Ganløse","Ulrik John Nielsen, Ganløse",Lokallisten Ny Egedal,692
+Egedal,5,Ganløse,"L_Bettina_Zarp,_Smørum","Bettina Zarp, Smørum",Lokallisten Ny Egedal,3
+Egedal,5,Ganløse,"L_Lars_Winther,_Stenløse","Lars Winther, Stenløse",Lokallisten Ny Egedal,3
+Egedal,5,Ganløse,"L_Illa_Jepsen,_Ølstykke","Illa Jepsen, Ølstykke",Lokallisten Ny Egedal,5
+Egedal,5,Ganløse,"L_Morten_Leonhardt_Marstrand,_Ganløs","Morten Leonhardt Marstrand, Ganløs",Lokallisten Ny Egedal,57
+Egedal,5,Ganløse,"L_Stig_Bundgaard,_Stenløse","Stig Bundgaard, Stenløse",Lokallisten Ny Egedal,7
+Egedal,5,Ganløse,"L_Ric_Jakobsen,_Slagslunde","Ric Jakobsen, Slagslunde",Lokallisten Ny Egedal,3
+Egedal,5,Ganløse,"L_Kristian_Petersen_Nørgaard,_Smørum","Kristian Petersen Nørgaard, Smørum",Lokallisten Ny Egedal,1
+Egedal,5,Ganløse,"L_Tobias_Fisch_Albrechtsen,_Ganløse","Tobias Fisch Albrechtsen, Ganløse",Lokallisten Ny Egedal,26
+Egedal,5,Ganløse,"L_Sarah_Holmgaard_Mortensen,_Ølstykk","Sarah Holmgaard Mortensen, Ølstykk",Lokallisten Ny Egedal,2
+Egedal,5,Ganløse,"L_Niels_Lindhardt_Johansen,_Ganløse","Niels Lindhardt Johansen, Ganløse",Lokallisten Ny Egedal,183
+Egedal,5,Ganløse,"L_Mikkel_Seierø,_Ølstykke","Mikkel Seierø, Ølstykke",Lokallisten Ny Egedal,0
+Egedal,5,Ganløse,"L_Torsten_Nielsen,_Ølstykke","Torsten Nielsen, Ølstykke",Lokallisten Ny Egedal,1
+Egedal,5,Ganløse,"L_Jannie_Lund-Nielsen,_Stenløse","Jannie Lund-Nielsen, Stenløse",Lokallisten Ny Egedal,1
+Egedal,5,Ganløse,"L_Carl_Emil_Bundgaard,_Stenløse","Carl Emil Bundgaard, Stenløse",Lokallisten Ny Egedal,1
+Egedal,5,Ganløse,"L_Mette_Danielsen,_Ølstykke","Mette Danielsen, Ølstykke",Lokallisten Ny Egedal,0
+Egedal,5,Ganløse,"L_Preben_Jacobsen,_Stenløse","Preben Jacobsen, Stenløse",Lokallisten Ny Egedal,1
+Egedal,5,Ganløse,"L_Søren_Ring_Ibsen,_Slagslunde","Søren Ring Ibsen, Slagslunde",Lokallisten Ny Egedal,1
+Egedal,5,Ganløse,O_Listestemmer,Listestemmer,Dansk Folkeparti,16
+Egedal,5,Ganløse,O_Allan_Bøwig,Allan Bøwig,Dansk Folkeparti,2
+Egedal,5,Ganløse,O_Christian_Sødergren,Christian Sødergren,Dansk Folkeparti,1
+Egedal,5,Ganløse,O_Ivann_Lund,Ivann Lund,Dansk Folkeparti,0
+Egedal,5,Ganløse,O_Susanne_Tønder,Susanne Tønder,Dansk Folkeparti,2
+Egedal,5,Ganløse,O_Flemming_Schandorff,Flemming Schandorff,Dansk Folkeparti,0
+Egedal,5,Ganløse,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",64
+Egedal,5,Ganløse,V_Karsten_Søndergaard,Karsten Søndergaard,"Venstre, Danmarks Liberale Parti",52
+Egedal,5,Ganløse,V_Betina_Hilligsøe,Betina Hilligsøe,"Venstre, Danmarks Liberale Parti",16
+Egedal,5,Ganløse,V_Bo_Vesth,Bo Vesth,"Venstre, Danmarks Liberale Parti",4
+Egedal,5,Ganløse,V_Carina_Buurskov,Carina Buurskov,"Venstre, Danmarks Liberale Parti",1
+Egedal,5,Ganløse,V_Louise_Dalby,Louise Dalby,"Venstre, Danmarks Liberale Parti",55
+Egedal,5,Ganløse,V_Anders_Bo_Larsen,Anders Bo Larsen,"Venstre, Danmarks Liberale Parti",4
+Egedal,5,Ganløse,V_Ole_B._Hovøre,Ole B. Hovøre,"Venstre, Danmarks Liberale Parti",5
+Egedal,5,Ganløse,V_Keld_Østergaard_Christensen,Keld Østergaard Christensen,"Venstre, Danmarks Liberale Parti",1
+Egedal,5,Ganløse,V_Peter_Christensen,Peter Christensen,"Venstre, Danmarks Liberale Parti",2
+Egedal,5,Ganløse,V_Thomas_Skov_Rasmussen,Thomas Skov Rasmussen,"Venstre, Danmarks Liberale Parti",0
+Egedal,5,Ganløse,V_Steffen_Beck,Steffen Beck,"Venstre, Danmarks Liberale Parti",1
+Egedal,5,Ganløse,V_Mette_Maj_van_Deurs,Mette Maj van Deurs,"Venstre, Danmarks Liberale Parti",1
+Egedal,5,Ganløse,V_Andreas_Milán,Andreas Milán,"Venstre, Danmarks Liberale Parti",1
+Egedal,5,Ganløse,V_Jens_Peter_Nielsen,Jens Peter Nielsen,"Venstre, Danmarks Liberale Parti",0
+Egedal,5,Ganløse,V_Ketty_Berth,Ketty Berth,"Venstre, Danmarks Liberale Parti",0
+Egedal,5,Ganløse,V_Henrik_Iversen,Henrik Iversen,"Venstre, Danmarks Liberale Parti",1
+Egedal,5,Ganløse,V_Birgitte_Falk,Birgitte Falk,"Venstre, Danmarks Liberale Parti",6
+Egedal,5,Ganløse,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,27
+Egedal,5,Ganløse,"Ø_Helle_Bovien,_Smørum","Helle Bovien, Smørum",Enhedslisten - De Rød-Grønne,11
+Egedal,5,Ganløse,"Ø_Anne_Dahl_Thing,_Ganløse","Anne Dahl Thing, Ganløse",Enhedslisten - De Rød-Grønne,33
+Egedal,5,Ganløse,"Ø_Milad_Azim,_Stenløse","Milad Azim, Stenløse",Enhedslisten - De Rød-Grønne,4
+Egedal,5,Ganløse,"Ø_Clara_Møller_Jensen,_Smørum","Clara Møller Jensen, Smørum",Enhedslisten - De Rød-Grønne,11
+Egedal,5,Ganløse,"Ø_Morten_Theilsborg,_Ølstykke","Morten Theilsborg, Ølstykke",Enhedslisten - De Rød-Grønne,0
+Egedal,5,Ganløse,"Ø_Gunna_Gustafsson,_Buresø","Gunna Gustafsson, Buresø",Enhedslisten - De Rød-Grønne,2
+Egedal,5,Ganløse,"Ø_Thomas_Pendrup,_Værebro","Thomas Pendrup, Værebro",Enhedslisten - De Rød-Grønne,1
+Egedal,6,Slagslunde,A_Listestemmer,Listestemmer,Socialdemokratiet,49
+Egedal,6,Slagslunde,"A_Vicky_Holst_Rasmussen,_Stenløse","Vicky Holst Rasmussen, Stenløse",Socialdemokratiet,36
+Egedal,6,Slagslunde,"A_Henriette_Thirup-Bielefeldt,_Ølsty","Henriette Thirup-Bielefeldt, Ølsty",Socialdemokratiet,3
+Egedal,6,Slagslunde,"A_Henrik_Sass_Christensen,_Stenløse","Henrik Sass Christensen, Stenløse",Socialdemokratiet,3
+Egedal,6,Slagslunde,"A_Lasse_Nørreskov,_Smørum","Lasse Nørreskov, Smørum",Socialdemokratiet,3
+Egedal,6,Slagslunde,"A_Sinne_Munck_Eliasen,_Veksø","Sinne Munck Eliasen, Veksø",Socialdemokratiet,9
+Egedal,6,Slagslunde,"A_Bo_Brøndum_Pedersen,_Ganløse","Bo Brøndum Pedersen, Ganløse",Socialdemokratiet,60
+Egedal,6,Slagslunde,"A_Line_Mette_Andrup,_Smørum","Line Mette Andrup, Smørum",Socialdemokratiet,4
+Egedal,6,Slagslunde,"A_Ib_Sørensen,_Stenløse","Ib Sørensen, Stenløse",Socialdemokratiet,2
+Egedal,6,Slagslunde,"A_Morten_Lyager,_Ølstykke","Morten Lyager, Ølstykke",Socialdemokratiet,0
+Egedal,6,Slagslunde,"A_Henrik_Wolfhagen,_Ledøje","Henrik Wolfhagen, Ledøje",Socialdemokratiet,2
+Egedal,6,Slagslunde,"A_Brian_Carl_Øllegaard,_Stenløse","Brian Carl Øllegaard, Stenløse",Socialdemokratiet,2
+Egedal,6,Slagslunde,B_Listestemmer,Listestemmer,Radikale Venstre,11
+Egedal,6,Slagslunde,"B_Rikke_Mortensen,_Stenløse","Rikke Mortensen, Stenløse",Radikale Venstre,48
+Egedal,6,Slagslunde,"B_Stephan_Grubbe_Sølby,_Ølstykke","Stephan Grubbe Sølby, Ølstykke",Radikale Venstre,0
+Egedal,6,Slagslunde,"B_Nicolai_Bach_Sørensen,_Veksø","Nicolai Bach Sørensen, Veksø",Radikale Venstre,3
+Egedal,6,Slagslunde,"B_Dennis_Roland_Pedersen,_Veksø","Dennis Roland Pedersen, Veksø",Radikale Venstre,1
+Egedal,6,Slagslunde,"B_Bent_Hollund,_Stenløse","Bent Hollund, Stenløse",Radikale Venstre,0
+Egedal,6,Slagslunde,"B_Erik_Dam,_Ølstykke","Erik Dam, Ølstykke",Radikale Venstre,0
+Egedal,6,Slagslunde,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,34
+Egedal,6,Slagslunde,C_Charlotte_Haagendrup,Charlotte Haagendrup,Det Konservative Folkeparti,12
+Egedal,6,Slagslunde,C_Lars_Falk_Hansen,Lars Falk Hansen,Det Konservative Folkeparti,26
+Egedal,6,Slagslunde,C_Dan_Haugbøl,Dan Haugbøl,Det Konservative Folkeparti,5
+Egedal,6,Slagslunde,C_Birgitte_Neergaard-Kofod,Birgitte Neergaard-Kofod,Det Konservative Folkeparti,6
+Egedal,6,Slagslunde,C_Peter_Højmark_Trasborg,Peter Højmark Trasborg,Det Konservative Folkeparti,4
+Egedal,6,Slagslunde,C_Susanne_Christensen,Susanne Christensen,Det Konservative Folkeparti,1
+Egedal,6,Slagslunde,C_Christine_Søjbjerg,Christine Søjbjerg,Det Konservative Folkeparti,1
+Egedal,6,Slagslunde,D_Listestemmer,Listestemmer,Nye Borgerlige,22
+Egedal,6,Slagslunde,"D_Claus_Bruncke,_Ølstykke","Claus Bruncke, Ølstykke",Nye Borgerlige,6
+Egedal,6,Slagslunde,"D_Kenni_Jensen,_Ølstykke","Kenni Jensen, Ølstykke",Nye Borgerlige,3
+Egedal,6,Slagslunde,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,30
+Egedal,6,Slagslunde,"F_Jens_Skov,_Smørum","Jens Skov, Smørum",SF - Socialistisk Folkeparti,13
+Egedal,6,Slagslunde,"F_Jonathan_Kristensen,_Ølstykke","Jonathan Kristensen, Ølstykke",SF - Socialistisk Folkeparti,0
+Egedal,6,Slagslunde,"F_Karen_Juul,_Smørum","Karen Juul, Smørum",SF - Socialistisk Folkeparti,11
+Egedal,6,Slagslunde,"F_Pernille_Kristensen,_Ølstykke","Pernille Kristensen, Ølstykke",SF - Socialistisk Folkeparti,5
+Egedal,6,Slagslunde,"F_Jacob_Andrup,_Ølstykke","Jacob Andrup, Ølstykke",SF - Socialistisk Folkeparti,2
+Egedal,6,Slagslunde,"F_Randi_Jørgensen,_Veksø","Randi Jørgensen, Veksø",SF - Socialistisk Folkeparti,0
+Egedal,6,Slagslunde,"F_Henrik_Severin_Hansen,_Smørum","Henrik Severin Hansen, Smørum",SF - Socialistisk Folkeparti,2
+Egedal,6,Slagslunde,"F_Ida_Madsen,_Veksø","Ida Madsen, Veksø",SF - Socialistisk Folkeparti,1
+Egedal,6,Slagslunde,"F_Peter_Hansen,_Ganløse","Peter Hansen, Ganløse",SF - Socialistisk Folkeparti,1
+Egedal,6,Slagslunde,"F_Lea_Jensen,_Ølstykke","Lea Jensen, Ølstykke",SF - Socialistisk Folkeparti,0
+Egedal,6,Slagslunde,"F_Kamilla_Lindgren,_Ganløse","Kamilla Lindgren, Ganløse",SF - Socialistisk Folkeparti,7
+Egedal,6,Slagslunde,H_Listestemmer,Listestemmer,Et Samlet Egedal,1
+Egedal,6,Slagslunde,"H_Johan_Hahn,_Ølstykke","Johan Hahn, Ølstykke",Et Samlet Egedal,9
+Egedal,6,Slagslunde,I_Listestemmer,Listestemmer,Liberal Alliance,5
+Egedal,6,Slagslunde,I_Bendt_Tranekjær,Bendt Tranekjær,Liberal Alliance,4
+Egedal,6,Slagslunde,I_Thomas_Nestler,Thomas Nestler,Liberal Alliance,0
+Egedal,6,Slagslunde,I_Aksel_Tarras_Madsen,Aksel Tarras Madsen,Liberal Alliance,0
+Egedal,6,Slagslunde,I_Christian_Estrup,Christian Estrup,Liberal Alliance,0
+Egedal,6,Slagslunde,L_Listestemmer,Listestemmer,Lokallisten Ny Egedal,31
+Egedal,6,Slagslunde,"L_Ulrik_John_Nielsen,_Ganløse","Ulrik John Nielsen, Ganløse",Lokallisten Ny Egedal,60
+Egedal,6,Slagslunde,"L_Bettina_Zarp,_Smørum","Bettina Zarp, Smørum",Lokallisten Ny Egedal,1
+Egedal,6,Slagslunde,"L_Lars_Winther,_Stenløse","Lars Winther, Stenløse",Lokallisten Ny Egedal,1
+Egedal,6,Slagslunde,"L_Illa_Jepsen,_Ølstykke","Illa Jepsen, Ølstykke",Lokallisten Ny Egedal,1
+Egedal,6,Slagslunde,"L_Morten_Leonhardt_Marstrand,_Ganløs","Morten Leonhardt Marstrand, Ganløs",Lokallisten Ny Egedal,1
+Egedal,6,Slagslunde,"L_Stig_Bundgaard,_Stenløse","Stig Bundgaard, Stenløse",Lokallisten Ny Egedal,5
+Egedal,6,Slagslunde,"L_Ric_Jakobsen,_Slagslunde","Ric Jakobsen, Slagslunde",Lokallisten Ny Egedal,85
+Egedal,6,Slagslunde,"L_Kristian_Petersen_Nørgaard,_Smørum","Kristian Petersen Nørgaard, Smørum",Lokallisten Ny Egedal,3
+Egedal,6,Slagslunde,"L_Tobias_Fisch_Albrechtsen,_Ganløse","Tobias Fisch Albrechtsen, Ganløse",Lokallisten Ny Egedal,9
+Egedal,6,Slagslunde,"L_Sarah_Holmgaard_Mortensen,_Ølstykk","Sarah Holmgaard Mortensen, Ølstykk",Lokallisten Ny Egedal,1
+Egedal,6,Slagslunde,"L_Niels_Lindhardt_Johansen,_Ganløse","Niels Lindhardt Johansen, Ganløse",Lokallisten Ny Egedal,13
+Egedal,6,Slagslunde,"L_Mikkel_Seierø,_Ølstykke","Mikkel Seierø, Ølstykke",Lokallisten Ny Egedal,0
+Egedal,6,Slagslunde,"L_Torsten_Nielsen,_Ølstykke","Torsten Nielsen, Ølstykke",Lokallisten Ny Egedal,0
+Egedal,6,Slagslunde,"L_Jannie_Lund-Nielsen,_Stenløse","Jannie Lund-Nielsen, Stenløse",Lokallisten Ny Egedal,5
+Egedal,6,Slagslunde,"L_Carl_Emil_Bundgaard,_Stenløse","Carl Emil Bundgaard, Stenløse",Lokallisten Ny Egedal,0
+Egedal,6,Slagslunde,"L_Mette_Danielsen,_Ølstykke","Mette Danielsen, Ølstykke",Lokallisten Ny Egedal,0
+Egedal,6,Slagslunde,"L_Preben_Jacobsen,_Stenløse","Preben Jacobsen, Stenløse",Lokallisten Ny Egedal,0
+Egedal,6,Slagslunde,"L_Søren_Ring_Ibsen,_Slagslunde","Søren Ring Ibsen, Slagslunde",Lokallisten Ny Egedal,4
+Egedal,6,Slagslunde,O_Listestemmer,Listestemmer,Dansk Folkeparti,14
+Egedal,6,Slagslunde,O_Allan_Bøwig,Allan Bøwig,Dansk Folkeparti,5
+Egedal,6,Slagslunde,O_Christian_Sødergren,Christian Sødergren,Dansk Folkeparti,2
+Egedal,6,Slagslunde,O_Ivann_Lund,Ivann Lund,Dansk Folkeparti,0
+Egedal,6,Slagslunde,O_Susanne_Tønder,Susanne Tønder,Dansk Folkeparti,5
+Egedal,6,Slagslunde,O_Flemming_Schandorff,Flemming Schandorff,Dansk Folkeparti,0
+Egedal,6,Slagslunde,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",40
+Egedal,6,Slagslunde,V_Karsten_Søndergaard,Karsten Søndergaard,"Venstre, Danmarks Liberale Parti",56
+Egedal,6,Slagslunde,V_Betina_Hilligsøe,Betina Hilligsøe,"Venstre, Danmarks Liberale Parti",11
+Egedal,6,Slagslunde,V_Bo_Vesth,Bo Vesth,"Venstre, Danmarks Liberale Parti",4
+Egedal,6,Slagslunde,V_Carina_Buurskov,Carina Buurskov,"Venstre, Danmarks Liberale Parti",2
+Egedal,6,Slagslunde,V_Louise_Dalby,Louise Dalby,"Venstre, Danmarks Liberale Parti",6
+Egedal,6,Slagslunde,V_Anders_Bo_Larsen,Anders Bo Larsen,"Venstre, Danmarks Liberale Parti",1
+Egedal,6,Slagslunde,V_Ole_B._Hovøre,Ole B. Hovøre,"Venstre, Danmarks Liberale Parti",2
+Egedal,6,Slagslunde,V_Keld_Østergaard_Christensen,Keld Østergaard Christensen,"Venstre, Danmarks Liberale Parti",0
+Egedal,6,Slagslunde,V_Peter_Christensen,Peter Christensen,"Venstre, Danmarks Liberale Parti",3
+Egedal,6,Slagslunde,V_Thomas_Skov_Rasmussen,Thomas Skov Rasmussen,"Venstre, Danmarks Liberale Parti",2
+Egedal,6,Slagslunde,V_Steffen_Beck,Steffen Beck,"Venstre, Danmarks Liberale Parti",0
+Egedal,6,Slagslunde,V_Mette_Maj_van_Deurs,Mette Maj van Deurs,"Venstre, Danmarks Liberale Parti",1
+Egedal,6,Slagslunde,V_Andreas_Milán,Andreas Milán,"Venstre, Danmarks Liberale Parti",2
+Egedal,6,Slagslunde,V_Jens_Peter_Nielsen,Jens Peter Nielsen,"Venstre, Danmarks Liberale Parti",0
+Egedal,6,Slagslunde,V_Ketty_Berth,Ketty Berth,"Venstre, Danmarks Liberale Parti",0
+Egedal,6,Slagslunde,V_Henrik_Iversen,Henrik Iversen,"Venstre, Danmarks Liberale Parti",1
+Egedal,6,Slagslunde,V_Birgitte_Falk,Birgitte Falk,"Venstre, Danmarks Liberale Parti",2
+Egedal,6,Slagslunde,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,36
+Egedal,6,Slagslunde,"Ø_Helle_Bovien,_Smørum","Helle Bovien, Smørum",Enhedslisten - De Rød-Grønne,19
+Egedal,6,Slagslunde,"Ø_Anne_Dahl_Thing,_Ganløse","Anne Dahl Thing, Ganløse",Enhedslisten - De Rød-Grønne,19
+Egedal,6,Slagslunde,"Ø_Milad_Azim,_Stenløse","Milad Azim, Stenløse",Enhedslisten - De Rød-Grønne,9
+Egedal,6,Slagslunde,"Ø_Clara_Møller_Jensen,_Smørum","Clara Møller Jensen, Smørum",Enhedslisten - De Rød-Grønne,18
+Egedal,6,Slagslunde,"Ø_Morten_Theilsborg,_Ølstykke","Morten Theilsborg, Ølstykke",Enhedslisten - De Rød-Grønne,0
+Egedal,6,Slagslunde,"Ø_Gunna_Gustafsson,_Buresø","Gunna Gustafsson, Buresø",Enhedslisten - De Rød-Grønne,9
+Egedal,6,Slagslunde,"Ø_Thomas_Pendrup,_Værebro","Thomas Pendrup, Værebro",Enhedslisten - De Rød-Grønne,0
+Egedal,7,Ølstykke,A_Listestemmer,Listestemmer,Socialdemokratiet,272
+Egedal,7,Ølstykke,"A_Vicky_Holst_Rasmussen,_Stenløse","Vicky Holst Rasmussen, Stenløse",Socialdemokratiet,222
+Egedal,7,Ølstykke,"A_Henriette_Thirup-Bielefeldt,_Ølsty","Henriette Thirup-Bielefeldt, Ølsty",Socialdemokratiet,104
+Egedal,7,Ølstykke,"A_Henrik_Sass_Christensen,_Stenløse","Henrik Sass Christensen, Stenløse",Socialdemokratiet,31
+Egedal,7,Ølstykke,"A_Lasse_Nørreskov,_Smørum","Lasse Nørreskov, Smørum",Socialdemokratiet,21
+Egedal,7,Ølstykke,"A_Sinne_Munck_Eliasen,_Veksø","Sinne Munck Eliasen, Veksø",Socialdemokratiet,16
+Egedal,7,Ølstykke,"A_Bo_Brøndum_Pedersen,_Ganløse","Bo Brøndum Pedersen, Ganløse",Socialdemokratiet,9
+Egedal,7,Ølstykke,"A_Line_Mette_Andrup,_Smørum","Line Mette Andrup, Smørum",Socialdemokratiet,14
+Egedal,7,Ølstykke,"A_Ib_Sørensen,_Stenløse","Ib Sørensen, Stenløse",Socialdemokratiet,8
+Egedal,7,Ølstykke,"A_Morten_Lyager,_Ølstykke","Morten Lyager, Ølstykke",Socialdemokratiet,116
+Egedal,7,Ølstykke,"A_Henrik_Wolfhagen,_Ledøje","Henrik Wolfhagen, Ledøje",Socialdemokratiet,4
+Egedal,7,Ølstykke,"A_Brian_Carl_Øllegaard,_Stenløse","Brian Carl Øllegaard, Stenløse",Socialdemokratiet,19
+Egedal,7,Ølstykke,B_Listestemmer,Listestemmer,Radikale Venstre,35
+Egedal,7,Ølstykke,"B_Rikke_Mortensen,_Stenløse","Rikke Mortensen, Stenløse",Radikale Venstre,48
+Egedal,7,Ølstykke,"B_Stephan_Grubbe_Sølby,_Ølstykke","Stephan Grubbe Sølby, Ølstykke",Radikale Venstre,28
+Egedal,7,Ølstykke,"B_Nicolai_Bach_Sørensen,_Veksø","Nicolai Bach Sørensen, Veksø",Radikale Venstre,2
+Egedal,7,Ølstykke,"B_Dennis_Roland_Pedersen,_Veksø","Dennis Roland Pedersen, Veksø",Radikale Venstre,3
+Egedal,7,Ølstykke,"B_Bent_Hollund,_Stenløse","Bent Hollund, Stenløse",Radikale Venstre,1
+Egedal,7,Ølstykke,"B_Erik_Dam,_Ølstykke","Erik Dam, Ølstykke",Radikale Venstre,6
+Egedal,7,Ølstykke,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,180
+Egedal,7,Ølstykke,C_Charlotte_Haagendrup,Charlotte Haagendrup,Det Konservative Folkeparti,168
+Egedal,7,Ølstykke,C_Lars_Falk_Hansen,Lars Falk Hansen,Det Konservative Folkeparti,32
+Egedal,7,Ølstykke,C_Dan_Haugbøl,Dan Haugbøl,Det Konservative Folkeparti,5
+Egedal,7,Ølstykke,C_Birgitte_Neergaard-Kofod,Birgitte Neergaard-Kofod,Det Konservative Folkeparti,20
+Egedal,7,Ølstykke,C_Peter_Højmark_Trasborg,Peter Højmark Trasborg,Det Konservative Folkeparti,30
+Egedal,7,Ølstykke,C_Susanne_Christensen,Susanne Christensen,Det Konservative Folkeparti,8
+Egedal,7,Ølstykke,C_Christine_Søjbjerg,Christine Søjbjerg,Det Konservative Folkeparti,61
+Egedal,7,Ølstykke,D_Listestemmer,Listestemmer,Nye Borgerlige,71
+Egedal,7,Ølstykke,"D_Claus_Bruncke,_Ølstykke","Claus Bruncke, Ølstykke",Nye Borgerlige,62
+Egedal,7,Ølstykke,"D_Kenni_Jensen,_Ølstykke","Kenni Jensen, Ølstykke",Nye Borgerlige,17
+Egedal,7,Ølstykke,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,105
+Egedal,7,Ølstykke,"F_Jens_Skov,_Smørum","Jens Skov, Smørum",SF - Socialistisk Folkeparti,33
+Egedal,7,Ølstykke,"F_Jonathan_Kristensen,_Ølstykke","Jonathan Kristensen, Ølstykke",SF - Socialistisk Folkeparti,34
+Egedal,7,Ølstykke,"F_Karen_Juul,_Smørum","Karen Juul, Smørum",SF - Socialistisk Folkeparti,10
+Egedal,7,Ølstykke,"F_Pernille_Kristensen,_Ølstykke","Pernille Kristensen, Ølstykke",SF - Socialistisk Folkeparti,38
+Egedal,7,Ølstykke,"F_Jacob_Andrup,_Ølstykke","Jacob Andrup, Ølstykke",SF - Socialistisk Folkeparti,25
+Egedal,7,Ølstykke,"F_Randi_Jørgensen,_Veksø","Randi Jørgensen, Veksø",SF - Socialistisk Folkeparti,1
+Egedal,7,Ølstykke,"F_Henrik_Severin_Hansen,_Smørum","Henrik Severin Hansen, Smørum",SF - Socialistisk Folkeparti,0
+Egedal,7,Ølstykke,"F_Ida_Madsen,_Veksø","Ida Madsen, Veksø",SF - Socialistisk Folkeparti,4
+Egedal,7,Ølstykke,"F_Peter_Hansen,_Ganløse","Peter Hansen, Ganløse",SF - Socialistisk Folkeparti,0
+Egedal,7,Ølstykke,"F_Lea_Jensen,_Ølstykke","Lea Jensen, Ølstykke",SF - Socialistisk Folkeparti,8
+Egedal,7,Ølstykke,"F_Kamilla_Lindgren,_Ganløse","Kamilla Lindgren, Ganløse",SF - Socialistisk Folkeparti,4
+Egedal,7,Ølstykke,H_Listestemmer,Listestemmer,Et Samlet Egedal,33
+Egedal,7,Ølstykke,"H_Johan_Hahn,_Ølstykke","Johan Hahn, Ølstykke",Et Samlet Egedal,285
+Egedal,7,Ølstykke,I_Listestemmer,Listestemmer,Liberal Alliance,23
+Egedal,7,Ølstykke,I_Bendt_Tranekjær,Bendt Tranekjær,Liberal Alliance,107
+Egedal,7,Ølstykke,I_Thomas_Nestler,Thomas Nestler,Liberal Alliance,17
+Egedal,7,Ølstykke,I_Aksel_Tarras_Madsen,Aksel Tarras Madsen,Liberal Alliance,2
+Egedal,7,Ølstykke,I_Christian_Estrup,Christian Estrup,Liberal Alliance,2
+Egedal,7,Ølstykke,L_Listestemmer,Listestemmer,Lokallisten Ny Egedal,142
+Egedal,7,Ølstykke,"L_Ulrik_John_Nielsen,_Ganløse","Ulrik John Nielsen, Ganløse",Lokallisten Ny Egedal,85
+Egedal,7,Ølstykke,"L_Bettina_Zarp,_Smørum","Bettina Zarp, Smørum",Lokallisten Ny Egedal,17
+Egedal,7,Ølstykke,"L_Lars_Winther,_Stenløse","Lars Winther, Stenløse",Lokallisten Ny Egedal,26
+Egedal,7,Ølstykke,"L_Illa_Jepsen,_Ølstykke","Illa Jepsen, Ølstykke",Lokallisten Ny Egedal,92
+Egedal,7,Ølstykke,"L_Morten_Leonhardt_Marstrand,_Ganløs","Morten Leonhardt Marstrand, Ganløs",Lokallisten Ny Egedal,8
+Egedal,7,Ølstykke,"L_Stig_Bundgaard,_Stenløse","Stig Bundgaard, Stenløse",Lokallisten Ny Egedal,10
+Egedal,7,Ølstykke,"L_Ric_Jakobsen,_Slagslunde","Ric Jakobsen, Slagslunde",Lokallisten Ny Egedal,12
+Egedal,7,Ølstykke,"L_Kristian_Petersen_Nørgaard,_Smørum","Kristian Petersen Nørgaard, Smørum",Lokallisten Ny Egedal,11
+Egedal,7,Ølstykke,"L_Tobias_Fisch_Albrechtsen,_Ganløse","Tobias Fisch Albrechtsen, Ganløse",Lokallisten Ny Egedal,1
+Egedal,7,Ølstykke,"L_Sarah_Holmgaard_Mortensen,_Ølstykk","Sarah Holmgaard Mortensen, Ølstykk",Lokallisten Ny Egedal,10
+Egedal,7,Ølstykke,"L_Niels_Lindhardt_Johansen,_Ganløse","Niels Lindhardt Johansen, Ganløse",Lokallisten Ny Egedal,6
+Egedal,7,Ølstykke,"L_Mikkel_Seierø,_Ølstykke","Mikkel Seierø, Ølstykke",Lokallisten Ny Egedal,7
+Egedal,7,Ølstykke,"L_Torsten_Nielsen,_Ølstykke","Torsten Nielsen, Ølstykke",Lokallisten Ny Egedal,30
+Egedal,7,Ølstykke,"L_Jannie_Lund-Nielsen,_Stenløse","Jannie Lund-Nielsen, Stenløse",Lokallisten Ny Egedal,17
+Egedal,7,Ølstykke,"L_Carl_Emil_Bundgaard,_Stenløse","Carl Emil Bundgaard, Stenløse",Lokallisten Ny Egedal,5
+Egedal,7,Ølstykke,"L_Mette_Danielsen,_Ølstykke","Mette Danielsen, Ølstykke",Lokallisten Ny Egedal,4
+Egedal,7,Ølstykke,"L_Preben_Jacobsen,_Stenløse","Preben Jacobsen, Stenløse",Lokallisten Ny Egedal,0
+Egedal,7,Ølstykke,"L_Søren_Ring_Ibsen,_Slagslunde","Søren Ring Ibsen, Slagslunde",Lokallisten Ny Egedal,0
+Egedal,7,Ølstykke,O_Listestemmer,Listestemmer,Dansk Folkeparti,72
+Egedal,7,Ølstykke,O_Allan_Bøwig,Allan Bøwig,Dansk Folkeparti,45
+Egedal,7,Ølstykke,O_Christian_Sødergren,Christian Sødergren,Dansk Folkeparti,9
+Egedal,7,Ølstykke,O_Ivann_Lund,Ivann Lund,Dansk Folkeparti,0
+Egedal,7,Ølstykke,O_Susanne_Tønder,Susanne Tønder,Dansk Folkeparti,28
+Egedal,7,Ølstykke,O_Flemming_Schandorff,Flemming Schandorff,Dansk Folkeparti,1
+Egedal,7,Ølstykke,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",192
+Egedal,7,Ølstykke,V_Karsten_Søndergaard,Karsten Søndergaard,"Venstre, Danmarks Liberale Parti",181
+Egedal,7,Ølstykke,V_Betina_Hilligsøe,Betina Hilligsøe,"Venstre, Danmarks Liberale Parti",43
+Egedal,7,Ølstykke,V_Bo_Vesth,Bo Vesth,"Venstre, Danmarks Liberale Parti",13
+Egedal,7,Ølstykke,V_Carina_Buurskov,Carina Buurskov,"Venstre, Danmarks Liberale Parti",34
+Egedal,7,Ølstykke,V_Louise_Dalby,Louise Dalby,"Venstre, Danmarks Liberale Parti",14
+Egedal,7,Ølstykke,V_Anders_Bo_Larsen,Anders Bo Larsen,"Venstre, Danmarks Liberale Parti",68
+Egedal,7,Ølstykke,V_Ole_B._Hovøre,Ole B. Hovøre,"Venstre, Danmarks Liberale Parti",17
+Egedal,7,Ølstykke,V_Keld_Østergaard_Christensen,Keld Østergaard Christensen,"Venstre, Danmarks Liberale Parti",1
+Egedal,7,Ølstykke,V_Peter_Christensen,Peter Christensen,"Venstre, Danmarks Liberale Parti",8
+Egedal,7,Ølstykke,V_Thomas_Skov_Rasmussen,Thomas Skov Rasmussen,"Venstre, Danmarks Liberale Parti",15
+Egedal,7,Ølstykke,V_Steffen_Beck,Steffen Beck,"Venstre, Danmarks Liberale Parti",3
+Egedal,7,Ølstykke,V_Mette_Maj_van_Deurs,Mette Maj van Deurs,"Venstre, Danmarks Liberale Parti",10
+Egedal,7,Ølstykke,V_Andreas_Milán,Andreas Milán,"Venstre, Danmarks Liberale Parti",4
+Egedal,7,Ølstykke,V_Jens_Peter_Nielsen,Jens Peter Nielsen,"Venstre, Danmarks Liberale Parti",0
+Egedal,7,Ølstykke,V_Ketty_Berth,Ketty Berth,"Venstre, Danmarks Liberale Parti",3
+Egedal,7,Ølstykke,V_Henrik_Iversen,Henrik Iversen,"Venstre, Danmarks Liberale Parti",12
+Egedal,7,Ølstykke,V_Birgitte_Falk,Birgitte Falk,"Venstre, Danmarks Liberale Parti",6
+Egedal,7,Ølstykke,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,53
+Egedal,7,Ølstykke,"Ø_Helle_Bovien,_Smørum","Helle Bovien, Smørum",Enhedslisten - De Rød-Grønne,10
+Egedal,7,Ølstykke,"Ø_Anne_Dahl_Thing,_Ganløse","Anne Dahl Thing, Ganløse",Enhedslisten - De Rød-Grønne,28
+Egedal,7,Ølstykke,"Ø_Milad_Azim,_Stenløse","Milad Azim, Stenløse",Enhedslisten - De Rød-Grønne,9
+Egedal,7,Ølstykke,"Ø_Clara_Møller_Jensen,_Smørum","Clara Møller Jensen, Smørum",Enhedslisten - De Rød-Grønne,17
+Egedal,7,Ølstykke,"Ø_Morten_Theilsborg,_Ølstykke","Morten Theilsborg, Ølstykke",Enhedslisten - De Rød-Grønne,17
+Egedal,7,Ølstykke,"Ø_Gunna_Gustafsson,_Buresø","Gunna Gustafsson, Buresø",Enhedslisten - De Rød-Grønne,2
+Egedal,7,Ølstykke,"Ø_Thomas_Pendrup,_Værebro","Thomas Pendrup, Værebro",Enhedslisten - De Rød-Grønne,2
+Egedal,8,Stengårdsskolen,A_Listestemmer,Listestemmer,Socialdemokratiet,300
+Egedal,8,Stengårdsskolen,"A_Vicky_Holst_Rasmussen,_Stenløse","Vicky Holst Rasmussen, Stenløse",Socialdemokratiet,217
+Egedal,8,Stengårdsskolen,"A_Henriette_Thirup-Bielefeldt,_Ølsty","Henriette Thirup-Bielefeldt, Ølsty",Socialdemokratiet,94
+Egedal,8,Stengårdsskolen,"A_Henrik_Sass_Christensen,_Stenløse","Henrik Sass Christensen, Stenløse",Socialdemokratiet,20
+Egedal,8,Stengårdsskolen,"A_Lasse_Nørreskov,_Smørum","Lasse Nørreskov, Smørum",Socialdemokratiet,19
+Egedal,8,Stengårdsskolen,"A_Sinne_Munck_Eliasen,_Veksø","Sinne Munck Eliasen, Veksø",Socialdemokratiet,25
+Egedal,8,Stengårdsskolen,"A_Bo_Brøndum_Pedersen,_Ganløse","Bo Brøndum Pedersen, Ganløse",Socialdemokratiet,9
+Egedal,8,Stengårdsskolen,"A_Line_Mette_Andrup,_Smørum","Line Mette Andrup, Smørum",Socialdemokratiet,12
+Egedal,8,Stengårdsskolen,"A_Ib_Sørensen,_Stenløse","Ib Sørensen, Stenløse",Socialdemokratiet,14
+Egedal,8,Stengårdsskolen,"A_Morten_Lyager,_Ølstykke","Morten Lyager, Ølstykke",Socialdemokratiet,60
+Egedal,8,Stengårdsskolen,"A_Henrik_Wolfhagen,_Ledøje","Henrik Wolfhagen, Ledøje",Socialdemokratiet,10
+Egedal,8,Stengårdsskolen,"A_Brian_Carl_Øllegaard,_Stenløse","Brian Carl Øllegaard, Stenløse",Socialdemokratiet,19
+Egedal,8,Stengårdsskolen,B_Listestemmer,Listestemmer,Radikale Venstre,31
+Egedal,8,Stengårdsskolen,"B_Rikke_Mortensen,_Stenløse","Rikke Mortensen, Stenløse",Radikale Venstre,62
+Egedal,8,Stengårdsskolen,"B_Stephan_Grubbe_Sølby,_Ølstykke","Stephan Grubbe Sølby, Ølstykke",Radikale Venstre,9
+Egedal,8,Stengårdsskolen,"B_Nicolai_Bach_Sørensen,_Veksø","Nicolai Bach Sørensen, Veksø",Radikale Venstre,8
+Egedal,8,Stengårdsskolen,"B_Dennis_Roland_Pedersen,_Veksø","Dennis Roland Pedersen, Veksø",Radikale Venstre,5
+Egedal,8,Stengårdsskolen,"B_Bent_Hollund,_Stenløse","Bent Hollund, Stenløse",Radikale Venstre,1
+Egedal,8,Stengårdsskolen,"B_Erik_Dam,_Ølstykke","Erik Dam, Ølstykke",Radikale Venstre,1
+Egedal,8,Stengårdsskolen,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,134
+Egedal,8,Stengårdsskolen,C_Charlotte_Haagendrup,Charlotte Haagendrup,Det Konservative Folkeparti,101
+Egedal,8,Stengårdsskolen,C_Lars_Falk_Hansen,Lars Falk Hansen,Det Konservative Folkeparti,26
+Egedal,8,Stengårdsskolen,C_Dan_Haugbøl,Dan Haugbøl,Det Konservative Folkeparti,10
+Egedal,8,Stengårdsskolen,C_Birgitte_Neergaard-Kofod,Birgitte Neergaard-Kofod,Det Konservative Folkeparti,20
+Egedal,8,Stengårdsskolen,C_Peter_Højmark_Trasborg,Peter Højmark Trasborg,Det Konservative Folkeparti,23
+Egedal,8,Stengårdsskolen,C_Susanne_Christensen,Susanne Christensen,Det Konservative Folkeparti,6
+Egedal,8,Stengårdsskolen,C_Christine_Søjbjerg,Christine Søjbjerg,Det Konservative Folkeparti,72
+Egedal,8,Stengårdsskolen,D_Listestemmer,Listestemmer,Nye Borgerlige,47
+Egedal,8,Stengårdsskolen,"D_Claus_Bruncke,_Ølstykke","Claus Bruncke, Ølstykke",Nye Borgerlige,58
+Egedal,8,Stengårdsskolen,"D_Kenni_Jensen,_Ølstykke","Kenni Jensen, Ølstykke",Nye Borgerlige,8
+Egedal,8,Stengårdsskolen,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,65
+Egedal,8,Stengårdsskolen,"F_Jens_Skov,_Smørum","Jens Skov, Smørum",SF - Socialistisk Folkeparti,34
+Egedal,8,Stengårdsskolen,"F_Jonathan_Kristensen,_Ølstykke","Jonathan Kristensen, Ølstykke",SF - Socialistisk Folkeparti,14
+Egedal,8,Stengårdsskolen,"F_Karen_Juul,_Smørum","Karen Juul, Smørum",SF - Socialistisk Folkeparti,10
+Egedal,8,Stengårdsskolen,"F_Pernille_Kristensen,_Ølstykke","Pernille Kristensen, Ølstykke",SF - Socialistisk Folkeparti,35
+Egedal,8,Stengårdsskolen,"F_Jacob_Andrup,_Ølstykke","Jacob Andrup, Ølstykke",SF - Socialistisk Folkeparti,38
+Egedal,8,Stengårdsskolen,"F_Randi_Jørgensen,_Veksø","Randi Jørgensen, Veksø",SF - Socialistisk Folkeparti,0
+Egedal,8,Stengårdsskolen,"F_Henrik_Severin_Hansen,_Smørum","Henrik Severin Hansen, Smørum",SF - Socialistisk Folkeparti,0
+Egedal,8,Stengårdsskolen,"F_Ida_Madsen,_Veksø","Ida Madsen, Veksø",SF - Socialistisk Folkeparti,1
+Egedal,8,Stengårdsskolen,"F_Peter_Hansen,_Ganløse","Peter Hansen, Ganløse",SF - Socialistisk Folkeparti,0
+Egedal,8,Stengårdsskolen,"F_Lea_Jensen,_Ølstykke","Lea Jensen, Ølstykke",SF - Socialistisk Folkeparti,4
+Egedal,8,Stengårdsskolen,"F_Kamilla_Lindgren,_Ganløse","Kamilla Lindgren, Ganløse",SF - Socialistisk Folkeparti,4
+Egedal,8,Stengårdsskolen,H_Listestemmer,Listestemmer,Et Samlet Egedal,14
+Egedal,8,Stengårdsskolen,"H_Johan_Hahn,_Ølstykke","Johan Hahn, Ølstykke",Et Samlet Egedal,65
+Egedal,8,Stengårdsskolen,I_Listestemmer,Listestemmer,Liberal Alliance,14
+Egedal,8,Stengårdsskolen,I_Bendt_Tranekjær,Bendt Tranekjær,Liberal Alliance,41
+Egedal,8,Stengårdsskolen,I_Thomas_Nestler,Thomas Nestler,Liberal Alliance,3
+Egedal,8,Stengårdsskolen,I_Aksel_Tarras_Madsen,Aksel Tarras Madsen,Liberal Alliance,2
+Egedal,8,Stengårdsskolen,I_Christian_Estrup,Christian Estrup,Liberal Alliance,1
+Egedal,8,Stengårdsskolen,L_Listestemmer,Listestemmer,Lokallisten Ny Egedal,104
+Egedal,8,Stengårdsskolen,"L_Ulrik_John_Nielsen,_Ganløse","Ulrik John Nielsen, Ganløse",Lokallisten Ny Egedal,51
+Egedal,8,Stengårdsskolen,"L_Bettina_Zarp,_Smørum","Bettina Zarp, Smørum",Lokallisten Ny Egedal,7
+Egedal,8,Stengårdsskolen,"L_Lars_Winther,_Stenløse","Lars Winther, Stenløse",Lokallisten Ny Egedal,51
+Egedal,8,Stengårdsskolen,"L_Illa_Jepsen,_Ølstykke","Illa Jepsen, Ølstykke",Lokallisten Ny Egedal,43
+Egedal,8,Stengårdsskolen,"L_Morten_Leonhardt_Marstrand,_Ganløs","Morten Leonhardt Marstrand, Ganløs",Lokallisten Ny Egedal,17
+Egedal,8,Stengårdsskolen,"L_Stig_Bundgaard,_Stenløse","Stig Bundgaard, Stenløse",Lokallisten Ny Egedal,6
+Egedal,8,Stengårdsskolen,"L_Ric_Jakobsen,_Slagslunde","Ric Jakobsen, Slagslunde",Lokallisten Ny Egedal,6
+Egedal,8,Stengårdsskolen,"L_Kristian_Petersen_Nørgaard,_Smørum","Kristian Petersen Nørgaard, Smørum",Lokallisten Ny Egedal,4
+Egedal,8,Stengårdsskolen,"L_Tobias_Fisch_Albrechtsen,_Ganløse","Tobias Fisch Albrechtsen, Ganløse",Lokallisten Ny Egedal,3
+Egedal,8,Stengårdsskolen,"L_Sarah_Holmgaard_Mortensen,_Ølstykk","Sarah Holmgaard Mortensen, Ølstykk",Lokallisten Ny Egedal,1
+Egedal,8,Stengårdsskolen,"L_Niels_Lindhardt_Johansen,_Ganløse","Niels Lindhardt Johansen, Ganløse",Lokallisten Ny Egedal,5
+Egedal,8,Stengårdsskolen,"L_Mikkel_Seierø,_Ølstykke","Mikkel Seierø, Ølstykke",Lokallisten Ny Egedal,3
+Egedal,8,Stengårdsskolen,"L_Torsten_Nielsen,_Ølstykke","Torsten Nielsen, Ølstykke",Lokallisten Ny Egedal,4
+Egedal,8,Stengårdsskolen,"L_Jannie_Lund-Nielsen,_Stenløse","Jannie Lund-Nielsen, Stenløse",Lokallisten Ny Egedal,25
+Egedal,8,Stengårdsskolen,"L_Carl_Emil_Bundgaard,_Stenløse","Carl Emil Bundgaard, Stenløse",Lokallisten Ny Egedal,9
+Egedal,8,Stengårdsskolen,"L_Mette_Danielsen,_Ølstykke","Mette Danielsen, Ølstykke",Lokallisten Ny Egedal,3
+Egedal,8,Stengårdsskolen,"L_Preben_Jacobsen,_Stenløse","Preben Jacobsen, Stenløse",Lokallisten Ny Egedal,0
+Egedal,8,Stengårdsskolen,"L_Søren_Ring_Ibsen,_Slagslunde","Søren Ring Ibsen, Slagslunde",Lokallisten Ny Egedal,0
+Egedal,8,Stengårdsskolen,O_Listestemmer,Listestemmer,Dansk Folkeparti,69
+Egedal,8,Stengårdsskolen,O_Allan_Bøwig,Allan Bøwig,Dansk Folkeparti,30
+Egedal,8,Stengårdsskolen,O_Christian_Sødergren,Christian Sødergren,Dansk Folkeparti,35
+Egedal,8,Stengårdsskolen,O_Ivann_Lund,Ivann Lund,Dansk Folkeparti,0
+Egedal,8,Stengårdsskolen,O_Susanne_Tønder,Susanne Tønder,Dansk Folkeparti,24
+Egedal,8,Stengårdsskolen,O_Flemming_Schandorff,Flemming Schandorff,Dansk Folkeparti,10
+Egedal,8,Stengårdsskolen,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",203
+Egedal,8,Stengårdsskolen,V_Karsten_Søndergaard,Karsten Søndergaard,"Venstre, Danmarks Liberale Parti",217
+Egedal,8,Stengårdsskolen,V_Betina_Hilligsøe,Betina Hilligsøe,"Venstre, Danmarks Liberale Parti",59
+Egedal,8,Stengårdsskolen,V_Bo_Vesth,Bo Vesth,"Venstre, Danmarks Liberale Parti",20
+Egedal,8,Stengårdsskolen,V_Carina_Buurskov,Carina Buurskov,"Venstre, Danmarks Liberale Parti",78
+Egedal,8,Stengårdsskolen,V_Louise_Dalby,Louise Dalby,"Venstre, Danmarks Liberale Parti",9
+Egedal,8,Stengårdsskolen,V_Anders_Bo_Larsen,Anders Bo Larsen,"Venstre, Danmarks Liberale Parti",29
+Egedal,8,Stengårdsskolen,V_Ole_B._Hovøre,Ole B. Hovøre,"Venstre, Danmarks Liberale Parti",19
+Egedal,8,Stengårdsskolen,V_Keld_Østergaard_Christensen,Keld Østergaard Christensen,"Venstre, Danmarks Liberale Parti",7
+Egedal,8,Stengårdsskolen,V_Peter_Christensen,Peter Christensen,"Venstre, Danmarks Liberale Parti",11
+Egedal,8,Stengårdsskolen,V_Thomas_Skov_Rasmussen,Thomas Skov Rasmussen,"Venstre, Danmarks Liberale Parti",35
+Egedal,8,Stengårdsskolen,V_Steffen_Beck,Steffen Beck,"Venstre, Danmarks Liberale Parti",4
+Egedal,8,Stengårdsskolen,V_Mette_Maj_van_Deurs,Mette Maj van Deurs,"Venstre, Danmarks Liberale Parti",6
+Egedal,8,Stengårdsskolen,V_Andreas_Milán,Andreas Milán,"Venstre, Danmarks Liberale Parti",6
+Egedal,8,Stengårdsskolen,V_Jens_Peter_Nielsen,Jens Peter Nielsen,"Venstre, Danmarks Liberale Parti",1
+Egedal,8,Stengårdsskolen,V_Ketty_Berth,Ketty Berth,"Venstre, Danmarks Liberale Parti",4
+Egedal,8,Stengårdsskolen,V_Henrik_Iversen,Henrik Iversen,"Venstre, Danmarks Liberale Parti",24
+Egedal,8,Stengårdsskolen,V_Birgitte_Falk,Birgitte Falk,"Venstre, Danmarks Liberale Parti",4
+Egedal,8,Stengårdsskolen,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,34
+Egedal,8,Stengårdsskolen,"Ø_Helle_Bovien,_Smørum","Helle Bovien, Smørum",Enhedslisten - De Rød-Grønne,24
+Egedal,8,Stengårdsskolen,"Ø_Anne_Dahl_Thing,_Ganløse","Anne Dahl Thing, Ganløse",Enhedslisten - De Rød-Grønne,7
+Egedal,8,Stengårdsskolen,"Ø_Milad_Azim,_Stenløse","Milad Azim, Stenløse",Enhedslisten - De Rød-Grønne,8
+Egedal,8,Stengårdsskolen,"Ø_Clara_Møller_Jensen,_Smørum","Clara Møller Jensen, Smørum",Enhedslisten - De Rød-Grønne,10
+Egedal,8,Stengårdsskolen,"Ø_Morten_Theilsborg,_Ølstykke","Morten Theilsborg, Ølstykke",Enhedslisten - De Rød-Grønne,5
+Egedal,8,Stengårdsskolen,"Ø_Gunna_Gustafsson,_Buresø","Gunna Gustafsson, Buresø",Enhedslisten - De Rød-Grønne,1
+Egedal,8,Stengårdsskolen,"Ø_Thomas_Pendrup,_Værebro","Thomas Pendrup, Værebro",Enhedslisten - De Rød-Grønne,3
+Egedal,9,Bækkegårdsskolen,A_Listestemmer,Listestemmer,Socialdemokratiet,249
+Egedal,9,Bækkegårdsskolen,"A_Vicky_Holst_Rasmussen,_Stenløse","Vicky Holst Rasmussen, Stenløse",Socialdemokratiet,199
+Egedal,9,Bækkegårdsskolen,"A_Henriette_Thirup-Bielefeldt,_Ølsty","Henriette Thirup-Bielefeldt, Ølsty",Socialdemokratiet,92
+Egedal,9,Bækkegårdsskolen,"A_Henrik_Sass_Christensen,_Stenløse","Henrik Sass Christensen, Stenløse",Socialdemokratiet,28
+Egedal,9,Bækkegårdsskolen,"A_Lasse_Nørreskov,_Smørum","Lasse Nørreskov, Smørum",Socialdemokratiet,21
+Egedal,9,Bækkegårdsskolen,"A_Sinne_Munck_Eliasen,_Veksø","Sinne Munck Eliasen, Veksø",Socialdemokratiet,21
+Egedal,9,Bækkegårdsskolen,"A_Bo_Brøndum_Pedersen,_Ganløse","Bo Brøndum Pedersen, Ganløse",Socialdemokratiet,6
+Egedal,9,Bækkegårdsskolen,"A_Line_Mette_Andrup,_Smørum","Line Mette Andrup, Smørum",Socialdemokratiet,14
+Egedal,9,Bækkegårdsskolen,"A_Ib_Sørensen,_Stenløse","Ib Sørensen, Stenløse",Socialdemokratiet,10
+Egedal,9,Bækkegårdsskolen,"A_Morten_Lyager,_Ølstykke","Morten Lyager, Ølstykke",Socialdemokratiet,51
+Egedal,9,Bækkegårdsskolen,"A_Henrik_Wolfhagen,_Ledøje","Henrik Wolfhagen, Ledøje",Socialdemokratiet,8
+Egedal,9,Bækkegårdsskolen,"A_Brian_Carl_Øllegaard,_Stenløse","Brian Carl Øllegaard, Stenløse",Socialdemokratiet,13
+Egedal,9,Bækkegårdsskolen,B_Listestemmer,Listestemmer,Radikale Venstre,36
+Egedal,9,Bækkegårdsskolen,"B_Rikke_Mortensen,_Stenløse","Rikke Mortensen, Stenløse",Radikale Venstre,79
+Egedal,9,Bækkegårdsskolen,"B_Stephan_Grubbe_Sølby,_Ølstykke","Stephan Grubbe Sølby, Ølstykke",Radikale Venstre,11
+Egedal,9,Bækkegårdsskolen,"B_Nicolai_Bach_Sørensen,_Veksø","Nicolai Bach Sørensen, Veksø",Radikale Venstre,9
+Egedal,9,Bækkegårdsskolen,"B_Dennis_Roland_Pedersen,_Veksø","Dennis Roland Pedersen, Veksø",Radikale Venstre,2
+Egedal,9,Bækkegårdsskolen,"B_Bent_Hollund,_Stenløse","Bent Hollund, Stenløse",Radikale Venstre,3
+Egedal,9,Bækkegårdsskolen,"B_Erik_Dam,_Ølstykke","Erik Dam, Ølstykke",Radikale Venstre,1
+Egedal,9,Bækkegårdsskolen,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,105
+Egedal,9,Bækkegårdsskolen,C_Charlotte_Haagendrup,Charlotte Haagendrup,Det Konservative Folkeparti,84
+Egedal,9,Bækkegårdsskolen,C_Lars_Falk_Hansen,Lars Falk Hansen,Det Konservative Folkeparti,29
+Egedal,9,Bækkegårdsskolen,C_Dan_Haugbøl,Dan Haugbøl,Det Konservative Folkeparti,7
+Egedal,9,Bækkegårdsskolen,C_Birgitte_Neergaard-Kofod,Birgitte Neergaard-Kofod,Det Konservative Folkeparti,14
+Egedal,9,Bækkegårdsskolen,C_Peter_Højmark_Trasborg,Peter Højmark Trasborg,Det Konservative Folkeparti,38
+Egedal,9,Bækkegårdsskolen,C_Susanne_Christensen,Susanne Christensen,Det Konservative Folkeparti,9
+Egedal,9,Bækkegårdsskolen,C_Christine_Søjbjerg,Christine Søjbjerg,Det Konservative Folkeparti,36
+Egedal,9,Bækkegårdsskolen,D_Listestemmer,Listestemmer,Nye Borgerlige,57
+Egedal,9,Bækkegårdsskolen,"D_Claus_Bruncke,_Ølstykke","Claus Bruncke, Ølstykke",Nye Borgerlige,41
+Egedal,9,Bækkegårdsskolen,"D_Kenni_Jensen,_Ølstykke","Kenni Jensen, Ølstykke",Nye Borgerlige,9
+Egedal,9,Bækkegårdsskolen,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,73
+Egedal,9,Bækkegårdsskolen,"F_Jens_Skov,_Smørum","Jens Skov, Smørum",SF - Socialistisk Folkeparti,27
+Egedal,9,Bækkegårdsskolen,"F_Jonathan_Kristensen,_Ølstykke","Jonathan Kristensen, Ølstykke",SF - Socialistisk Folkeparti,10
+Egedal,9,Bækkegårdsskolen,"F_Karen_Juul,_Smørum","Karen Juul, Smørum",SF - Socialistisk Folkeparti,13
+Egedal,9,Bækkegårdsskolen,"F_Pernille_Kristensen,_Ølstykke","Pernille Kristensen, Ølstykke",SF - Socialistisk Folkeparti,21
+Egedal,9,Bækkegårdsskolen,"F_Jacob_Andrup,_Ølstykke","Jacob Andrup, Ølstykke",SF - Socialistisk Folkeparti,19
+Egedal,9,Bækkegårdsskolen,"F_Randi_Jørgensen,_Veksø","Randi Jørgensen, Veksø",SF - Socialistisk Folkeparti,2
+Egedal,9,Bækkegårdsskolen,"F_Henrik_Severin_Hansen,_Smørum","Henrik Severin Hansen, Smørum",SF - Socialistisk Folkeparti,0
+Egedal,9,Bækkegårdsskolen,"F_Ida_Madsen,_Veksø","Ida Madsen, Veksø",SF - Socialistisk Folkeparti,2
+Egedal,9,Bækkegårdsskolen,"F_Peter_Hansen,_Ganløse","Peter Hansen, Ganløse",SF - Socialistisk Folkeparti,2
+Egedal,9,Bækkegårdsskolen,"F_Lea_Jensen,_Ølstykke","Lea Jensen, Ølstykke",SF - Socialistisk Folkeparti,5
+Egedal,9,Bækkegårdsskolen,"F_Kamilla_Lindgren,_Ganløse","Kamilla Lindgren, Ganløse",SF - Socialistisk Folkeparti,4
+Egedal,9,Bækkegårdsskolen,H_Listestemmer,Listestemmer,Et Samlet Egedal,5
+Egedal,9,Bækkegårdsskolen,"H_Johan_Hahn,_Ølstykke","Johan Hahn, Ølstykke",Et Samlet Egedal,74
+Egedal,9,Bækkegårdsskolen,I_Listestemmer,Listestemmer,Liberal Alliance,15
+Egedal,9,Bækkegårdsskolen,I_Bendt_Tranekjær,Bendt Tranekjær,Liberal Alliance,23
+Egedal,9,Bækkegårdsskolen,I_Thomas_Nestler,Thomas Nestler,Liberal Alliance,7
+Egedal,9,Bækkegårdsskolen,I_Aksel_Tarras_Madsen,Aksel Tarras Madsen,Liberal Alliance,2
+Egedal,9,Bækkegårdsskolen,I_Christian_Estrup,Christian Estrup,Liberal Alliance,4
+Egedal,9,Bækkegårdsskolen,L_Listestemmer,Listestemmer,Lokallisten Ny Egedal,97
+Egedal,9,Bækkegårdsskolen,"L_Ulrik_John_Nielsen,_Ganløse","Ulrik John Nielsen, Ganløse",Lokallisten Ny Egedal,52
+Egedal,9,Bækkegårdsskolen,"L_Bettina_Zarp,_Smørum","Bettina Zarp, Smørum",Lokallisten Ny Egedal,11
+Egedal,9,Bækkegårdsskolen,"L_Lars_Winther,_Stenløse","Lars Winther, Stenløse",Lokallisten Ny Egedal,45
+Egedal,9,Bækkegårdsskolen,"L_Illa_Jepsen,_Ølstykke","Illa Jepsen, Ølstykke",Lokallisten Ny Egedal,16
+Egedal,9,Bækkegårdsskolen,"L_Morten_Leonhardt_Marstrand,_Ganløs","Morten Leonhardt Marstrand, Ganløs",Lokallisten Ny Egedal,12
+Egedal,9,Bækkegårdsskolen,"L_Stig_Bundgaard,_Stenløse","Stig Bundgaard, Stenløse",Lokallisten Ny Egedal,15
+Egedal,9,Bækkegårdsskolen,"L_Ric_Jakobsen,_Slagslunde","Ric Jakobsen, Slagslunde",Lokallisten Ny Egedal,3
+Egedal,9,Bækkegårdsskolen,"L_Kristian_Petersen_Nørgaard,_Smørum","Kristian Petersen Nørgaard, Smørum",Lokallisten Ny Egedal,3
+Egedal,9,Bækkegårdsskolen,"L_Tobias_Fisch_Albrechtsen,_Ganløse","Tobias Fisch Albrechtsen, Ganløse",Lokallisten Ny Egedal,3
+Egedal,9,Bækkegårdsskolen,"L_Sarah_Holmgaard_Mortensen,_Ølstykk","Sarah Holmgaard Mortensen, Ølstykk",Lokallisten Ny Egedal,3
+Egedal,9,Bækkegårdsskolen,"L_Niels_Lindhardt_Johansen,_Ganløse","Niels Lindhardt Johansen, Ganløse",Lokallisten Ny Egedal,10
+Egedal,9,Bækkegårdsskolen,"L_Mikkel_Seierø,_Ølstykke","Mikkel Seierø, Ølstykke",Lokallisten Ny Egedal,2
+Egedal,9,Bækkegårdsskolen,"L_Torsten_Nielsen,_Ølstykke","Torsten Nielsen, Ølstykke",Lokallisten Ny Egedal,4
+Egedal,9,Bækkegårdsskolen,"L_Jannie_Lund-Nielsen,_Stenløse","Jannie Lund-Nielsen, Stenløse",Lokallisten Ny Egedal,9
+Egedal,9,Bækkegårdsskolen,"L_Carl_Emil_Bundgaard,_Stenløse","Carl Emil Bundgaard, Stenløse",Lokallisten Ny Egedal,5
+Egedal,9,Bækkegårdsskolen,"L_Mette_Danielsen,_Ølstykke","Mette Danielsen, Ølstykke",Lokallisten Ny Egedal,3
+Egedal,9,Bækkegårdsskolen,"L_Preben_Jacobsen,_Stenløse","Preben Jacobsen, Stenløse",Lokallisten Ny Egedal,0
+Egedal,9,Bækkegårdsskolen,"L_Søren_Ring_Ibsen,_Slagslunde","Søren Ring Ibsen, Slagslunde",Lokallisten Ny Egedal,1
+Egedal,9,Bækkegårdsskolen,O_Listestemmer,Listestemmer,Dansk Folkeparti,57
+Egedal,9,Bækkegårdsskolen,O_Allan_Bøwig,Allan Bøwig,Dansk Folkeparti,23
+Egedal,9,Bækkegårdsskolen,O_Christian_Sødergren,Christian Sødergren,Dansk Folkeparti,10
+Egedal,9,Bækkegårdsskolen,O_Ivann_Lund,Ivann Lund,Dansk Folkeparti,0
+Egedal,9,Bækkegårdsskolen,O_Susanne_Tønder,Susanne Tønder,Dansk Folkeparti,13
+Egedal,9,Bækkegårdsskolen,O_Flemming_Schandorff,Flemming Schandorff,Dansk Folkeparti,3
+Egedal,9,Bækkegårdsskolen,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",173
+Egedal,9,Bækkegårdsskolen,V_Karsten_Søndergaard,Karsten Søndergaard,"Venstre, Danmarks Liberale Parti",199
+Egedal,9,Bækkegårdsskolen,V_Betina_Hilligsøe,Betina Hilligsøe,"Venstre, Danmarks Liberale Parti",82
+Egedal,9,Bækkegårdsskolen,V_Bo_Vesth,Bo Vesth,"Venstre, Danmarks Liberale Parti",19
+Egedal,9,Bækkegårdsskolen,V_Carina_Buurskov,Carina Buurskov,"Venstre, Danmarks Liberale Parti",25
+Egedal,9,Bækkegårdsskolen,V_Louise_Dalby,Louise Dalby,"Venstre, Danmarks Liberale Parti",7
+Egedal,9,Bækkegårdsskolen,V_Anders_Bo_Larsen,Anders Bo Larsen,"Venstre, Danmarks Liberale Parti",21
+Egedal,9,Bækkegårdsskolen,V_Ole_B._Hovøre,Ole B. Hovøre,"Venstre, Danmarks Liberale Parti",20
+Egedal,9,Bækkegårdsskolen,V_Keld_Østergaard_Christensen,Keld Østergaard Christensen,"Venstre, Danmarks Liberale Parti",0
+Egedal,9,Bækkegårdsskolen,V_Peter_Christensen,Peter Christensen,"Venstre, Danmarks Liberale Parti",14
+Egedal,9,Bækkegårdsskolen,V_Thomas_Skov_Rasmussen,Thomas Skov Rasmussen,"Venstre, Danmarks Liberale Parti",10
+Egedal,9,Bækkegårdsskolen,V_Steffen_Beck,Steffen Beck,"Venstre, Danmarks Liberale Parti",4
+Egedal,9,Bækkegårdsskolen,V_Mette_Maj_van_Deurs,Mette Maj van Deurs,"Venstre, Danmarks Liberale Parti",3
+Egedal,9,Bækkegårdsskolen,V_Andreas_Milán,Andreas Milán,"Venstre, Danmarks Liberale Parti",3
+Egedal,9,Bækkegårdsskolen,V_Jens_Peter_Nielsen,Jens Peter Nielsen,"Venstre, Danmarks Liberale Parti",1
+Egedal,9,Bækkegårdsskolen,V_Ketty_Berth,Ketty Berth,"Venstre, Danmarks Liberale Parti",2
+Egedal,9,Bækkegårdsskolen,V_Henrik_Iversen,Henrik Iversen,"Venstre, Danmarks Liberale Parti",10
+Egedal,9,Bækkegårdsskolen,V_Birgitte_Falk,Birgitte Falk,"Venstre, Danmarks Liberale Parti",6
+Egedal,9,Bækkegårdsskolen,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,43
+Egedal,9,Bækkegårdsskolen,"Ø_Helle_Bovien,_Smørum","Helle Bovien, Smørum",Enhedslisten - De Rød-Grønne,11
+Egedal,9,Bækkegårdsskolen,"Ø_Anne_Dahl_Thing,_Ganløse","Anne Dahl Thing, Ganløse",Enhedslisten - De Rød-Grønne,16
+Egedal,9,Bækkegårdsskolen,"Ø_Milad_Azim,_Stenløse","Milad Azim, Stenløse",Enhedslisten - De Rød-Grønne,11
+Egedal,9,Bækkegårdsskolen,"Ø_Clara_Møller_Jensen,_Smørum","Clara Møller Jensen, Smørum",Enhedslisten - De Rød-Grønne,8
+Egedal,9,Bækkegårdsskolen,"Ø_Morten_Theilsborg,_Ølstykke","Morten Theilsborg, Ølstykke",Enhedslisten - De Rød-Grønne,10
+Egedal,9,Bækkegårdsskolen,"Ø_Gunna_Gustafsson,_Buresø","Gunna Gustafsson, Buresø",Enhedslisten - De Rød-Grønne,2
+Egedal,9,Bækkegårdsskolen,"Ø_Thomas_Pendrup,_Værebro","Thomas Pendrup, Værebro",Enhedslisten - De Rød-Grønne,1

@@ -1,0 +1,426 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Albertslund,1,Herstedøster Skole,A_Listestemmer,Listestemmer,Socialdemokratiet,218
+Albertslund,1,Herstedøster Skole,A_Steen_Christiansen,Steen Christiansen,Socialdemokratiet,159
+Albertslund,1,Herstedøster Skole,A_Marianne_Burchall,Marianne Burchall,Socialdemokratiet,201
+Albertslund,1,Herstedøster Skole,A_Paw_Østergaard_Jensen,Paw Østergaard Jensen,Socialdemokratiet,39
+Albertslund,1,Herstedøster Skole,A_Ulla_Nielsen,Ulla Nielsen,Socialdemokratiet,15
+Albertslund,1,Herstedøster Skole,A_Dogan_Polat,Dogan Polat,Socialdemokratiet,12
+Albertslund,1,Herstedøster Skole,A_Tina_Christiansen,Tina Christiansen,Socialdemokratiet,11
+Albertslund,1,Herstedøster Skole,A_Mikkel_Skovby,Mikkel Skovby,Socialdemokratiet,30
+Albertslund,1,Herstedøster Skole,A_Nikolaj_Kristian_Carlsen,Nikolaj Kristian Carlsen,Socialdemokratiet,10
+Albertslund,1,Herstedøster Skole,A_Lasse_Wilson,Lasse Wilson,Socialdemokratiet,38
+Albertslund,1,Herstedøster Skole,A_Rukhsana_Ali,Rukhsana Ali,Socialdemokratiet,8
+Albertslund,1,Herstedøster Skole,A_Qasir_Mirza,Qasir Mirza,Socialdemokratiet,15
+Albertslund,1,Herstedøster Skole,A_Emil_Ottesen,Emil Ottesen,Socialdemokratiet,17
+Albertslund,1,Herstedøster Skole,A_Jane_Nannberg,Jane Nannberg,Socialdemokratiet,2
+Albertslund,1,Herstedøster Skole,A_Julie_Marie_Larsen,Julie Marie Larsen,Socialdemokratiet,13
+Albertslund,1,Herstedøster Skole,A_Rashid_Leegaard_Kestey,Rashid Leegaard Kestey,Socialdemokratiet,3
+Albertslund,1,Herstedøster Skole,A_Akhlaq_Ahmad,Akhlaq Ahmad,Socialdemokratiet,13
+Albertslund,1,Herstedøster Skole,A_Flemming_Jørgensen,Flemming Jørgensen,Socialdemokratiet,24
+Albertslund,1,Herstedøster Skole,B_Listestemmer,Listestemmer,Radikale Venstre,33
+Albertslund,1,Herstedøster Skole,B_Hediye_Temiz,Hediye Temiz,Radikale Venstre,41
+Albertslund,1,Herstedøster Skole,B_Martin_Rytter,Martin Rytter,Radikale Venstre,22
+Albertslund,1,Herstedøster Skole,B_Morten_Loof_Andersen,Morten Loof Andersen,Radikale Venstre,3
+Albertslund,1,Herstedøster Skole,B_Zohair_Ali,Zohair Ali,Radikale Venstre,43
+Albertslund,1,Herstedøster Skole,B_Nicolai_Kofod-Jensen,Nicolai Kofod-Jensen,Radikale Venstre,4
+Albertslund,1,Herstedøster Skole,B_Anders_Pedersen,Anders Pedersen,Radikale Venstre,5
+Albertslund,1,Herstedøster Skole,B_Lene_Dræbye,Lene Dræbye,Radikale Venstre,5
+Albertslund,1,Herstedøster Skole,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,141
+Albertslund,1,Herstedøster Skole,C_Lars_Gravgaard_Hansen,Lars Gravgaard Hansen,Det Konservative Folkeparti,258
+Albertslund,1,Herstedøster Skole,C_Nils_Jul_Gjerlev,Nils Jul Gjerlev,Det Konservative Folkeparti,67
+Albertslund,1,Herstedøster Skole,C_Tina_Graugaard,Tina Graugaard,Det Konservative Folkeparti,32
+Albertslund,1,Herstedøster Skole,C_Billal_Zahoor,Billal Zahoor,Det Konservative Folkeparti,10
+Albertslund,1,Herstedøster Skole,C_Kira_Kruse_Willmarst,Kira Kruse Willmarst,Det Konservative Folkeparti,5
+Albertslund,1,Herstedøster Skole,C_Kim_Bonnesen,Kim Bonnesen,Det Konservative Folkeparti,9
+Albertslund,1,Herstedøster Skole,C_Brian_René_Pedersen,Brian René Pedersen,Det Konservative Folkeparti,5
+Albertslund,1,Herstedøster Skole,C_Andreas_Sklander,Andreas Sklander,Det Konservative Folkeparti,8
+Albertslund,1,Herstedøster Skole,C_Henrik_Hertz,Henrik Hertz,Det Konservative Folkeparti,17
+Albertslund,1,Herstedøster Skole,D_Listestemmer,Listestemmer,Nye Borgerlige,54
+Albertslund,1,Herstedøster Skole,D_John_Hagenstjerne,John Hagenstjerne,Nye Borgerlige,10
+Albertslund,1,Herstedøster Skole,D_Flemming_Sonnesen,Flemming Sonnesen,Nye Borgerlige,7
+Albertslund,1,Herstedøster Skole,D_Henning_Andersen,Henning Andersen,Nye Borgerlige,3
+Albertslund,1,Herstedøster Skole,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,114
+Albertslund,1,Herstedøster Skole,F_Vivi_Nør_Jacobsen,Vivi Nør Jacobsen,SF - Socialistisk Folkeparti,313
+Albertslund,1,Herstedøster Skole,F_Resul_Kücükakin,Resul Kücükakin,SF - Socialistisk Folkeparti,17
+Albertslund,1,Herstedøster Skole,F_Birgit_Hauer,Birgit Hauer,SF - Socialistisk Folkeparti,37
+Albertslund,1,Herstedøster Skole,F_Tina_Messaoudi,Tina Messaoudi,SF - Socialistisk Folkeparti,15
+Albertslund,1,Herstedøster Skole,F_Inge_Dahn,Inge Dahn,SF - Socialistisk Folkeparti,14
+Albertslund,1,Herstedøster Skole,F_Michael_Jonasen,Michael Jonasen,SF - Socialistisk Folkeparti,12
+Albertslund,1,Herstedøster Skole,F_Mette_Jacobsen,Mette Jacobsen,SF - Socialistisk Folkeparti,3
+Albertslund,1,Herstedøster Skole,F_Søren_Vinzent,Søren Vinzent,SF - Socialistisk Folkeparti,7
+Albertslund,1,Herstedøster Skole,G_Listestemmer,Listestemmer,Veganerpartiet,4
+Albertslund,1,Herstedøster Skole,G_Adam_Samy,Adam Samy,Veganerpartiet,12
+Albertslund,1,Herstedøster Skole,I_Listestemmer,Listestemmer,Liberal Alliance,4
+Albertslund,1,Herstedøster Skole,I_Michael_Melchert,Michael Melchert,Liberal Alliance,14
+Albertslund,1,Herstedøster Skole,I_Astrid_Frøland,Astrid Frøland,Liberal Alliance,2
+Albertslund,1,Herstedøster Skole,O_Listestemmer,Listestemmer,Dansk Folkeparti,60
+Albertslund,1,Herstedøster Skole,O_Tina_B._Nielsen,Tina B. Nielsen,Dansk Folkeparti,25
+Albertslund,1,Herstedøster Skole,O_Ole_Larsen,Ole Larsen,Dansk Folkeparti,6
+Albertslund,1,Herstedøster Skole,O_Winnie_Duncan,Winnie Duncan,Dansk Folkeparti,5
+Albertslund,1,Herstedøster Skole,O_Flemming_Ove_Breuning,Flemming Ove Breuning,Dansk Folkeparti,4
+Albertslund,1,Herstedøster Skole,O_John_B._Nielsen,John B. Nielsen,Dansk Folkeparti,3
+Albertslund,1,Herstedøster Skole,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",45
+Albertslund,1,Herstedøster Skole,V_Claus_Rasmussen,Claus Rasmussen,"Venstre, Danmarks Liberale Parti",35
+Albertslund,1,Herstedøster Skole,V_Sofie_Amalie_Blomsterberg,Sofie Amalie Blomsterberg,"Venstre, Danmarks Liberale Parti",22
+Albertslund,1,Herstedøster Skole,V_Susanne_Blomsterberg,Susanne Blomsterberg,"Venstre, Danmarks Liberale Parti",4
+Albertslund,1,Herstedøster Skole,V_Henrik_Berthou-Berthelsen,Henrik Berthou-Berthelsen,"Venstre, Danmarks Liberale Parti",5
+Albertslund,1,Herstedøster Skole,V_Heidi_Berthou-Berthelsen,Heidi Berthou-Berthelsen,"Venstre, Danmarks Liberale Parti",2
+Albertslund,1,Herstedøster Skole,V_Rune_Buhl_Frederiksen,Rune Buhl Frederiksen,"Venstre, Danmarks Liberale Parti",13
+Albertslund,1,Herstedøster Skole,V_Michael_Adler-Platzer,Michael Adler-Platzer,"Venstre, Danmarks Liberale Parti",2
+Albertslund,1,Herstedøster Skole,V_Ulla_Pawrup,Ulla Pawrup,"Venstre, Danmarks Liberale Parti",2
+Albertslund,1,Herstedøster Skole,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,172
+Albertslund,1,Herstedøster Skole,Ø_Helge_Bo_Jensen,Helge Bo Jensen,Enhedslisten - De Rød-Grønne,62
+Albertslund,1,Herstedøster Skole,Ø_Bodil_Garde,Bodil Garde,Enhedslisten - De Rød-Grønne,33
+Albertslund,1,Herstedøster Skole,Ø_Fedai_Celim,Fedai Celim,Enhedslisten - De Rød-Grønne,8
+Albertslund,1,Herstedøster Skole,Ø_Marie_Juhl,Marie Juhl,Enhedslisten - De Rød-Grønne,28
+Albertslund,1,Herstedøster Skole,Ø_Ebbe_Rand_Jørgensen,Ebbe Rand Jørgensen,Enhedslisten - De Rød-Grønne,13
+Albertslund,1,Herstedøster Skole,Ø_Edibe_Baran,Edibe Baran,Enhedslisten - De Rød-Grønne,7
+Albertslund,1,Herstedøster Skole,Ø_Stig_Larsen,Stig Larsen,Enhedslisten - De Rød-Grønne,4
+Albertslund,1,Herstedøster Skole,Ø_Ulla_Elsted_Jensen,Ulla Elsted Jensen,Enhedslisten - De Rød-Grønne,1
+Albertslund,1,Herstedøster Skole,Ø_Jeppe_Milthers,Jeppe Milthers,Enhedslisten - De Rød-Grønne,7
+Albertslund,1,Herstedøster Skole,Ø_Kim_Olesen,Kim Olesen,Enhedslisten - De Rød-Grønne,5
+Albertslund,1,Herstedøster Skole,Ø_Necdet_Gökce,Necdet Gökce,Enhedslisten - De Rød-Grønne,0
+Albertslund,1,Herstedøster Skole,Ø_Lars_Bremer,Lars Bremer,Enhedslisten - De Rød-Grønne,1
+Albertslund,1,Herstedøster Skole,Ø_Kurt_Olsen,Kurt Olsen,Enhedslisten - De Rød-Grønne,0
+Albertslund,1,Herstedøster Skole,Å_Listestemmer,Listestemmer,Alternativet,19
+Albertslund,1,Herstedøster Skole,Å_Kenni_Flink,Kenni Flink,Alternativet,62
+Albertslund,2,Egelundskolen,A_Listestemmer,Listestemmer,Socialdemokratiet,175
+Albertslund,2,Egelundskolen,A_Steen_Christiansen,Steen Christiansen,Socialdemokratiet,159
+Albertslund,2,Egelundskolen,A_Marianne_Burchall,Marianne Burchall,Socialdemokratiet,65
+Albertslund,2,Egelundskolen,A_Paw_Østergaard_Jensen,Paw Østergaard Jensen,Socialdemokratiet,59
+Albertslund,2,Egelundskolen,A_Ulla_Nielsen,Ulla Nielsen,Socialdemokratiet,21
+Albertslund,2,Egelundskolen,A_Dogan_Polat,Dogan Polat,Socialdemokratiet,79
+Albertslund,2,Egelundskolen,A_Tina_Christiansen,Tina Christiansen,Socialdemokratiet,20
+Albertslund,2,Egelundskolen,A_Mikkel_Skovby,Mikkel Skovby,Socialdemokratiet,39
+Albertslund,2,Egelundskolen,A_Nikolaj_Kristian_Carlsen,Nikolaj Kristian Carlsen,Socialdemokratiet,2
+Albertslund,2,Egelundskolen,A_Lasse_Wilson,Lasse Wilson,Socialdemokratiet,40
+Albertslund,2,Egelundskolen,A_Rukhsana_Ali,Rukhsana Ali,Socialdemokratiet,8
+Albertslund,2,Egelundskolen,A_Qasir_Mirza,Qasir Mirza,Socialdemokratiet,22
+Albertslund,2,Egelundskolen,A_Emil_Ottesen,Emil Ottesen,Socialdemokratiet,13
+Albertslund,2,Egelundskolen,A_Jane_Nannberg,Jane Nannberg,Socialdemokratiet,4
+Albertslund,2,Egelundskolen,A_Julie_Marie_Larsen,Julie Marie Larsen,Socialdemokratiet,11
+Albertslund,2,Egelundskolen,A_Rashid_Leegaard_Kestey,Rashid Leegaard Kestey,Socialdemokratiet,1
+Albertslund,2,Egelundskolen,A_Akhlaq_Ahmad,Akhlaq Ahmad,Socialdemokratiet,42
+Albertslund,2,Egelundskolen,A_Flemming_Jørgensen,Flemming Jørgensen,Socialdemokratiet,18
+Albertslund,2,Egelundskolen,B_Listestemmer,Listestemmer,Radikale Venstre,32
+Albertslund,2,Egelundskolen,B_Hediye_Temiz,Hediye Temiz,Radikale Venstre,38
+Albertslund,2,Egelundskolen,B_Martin_Rytter,Martin Rytter,Radikale Venstre,10
+Albertslund,2,Egelundskolen,B_Morten_Loof_Andersen,Morten Loof Andersen,Radikale Venstre,1
+Albertslund,2,Egelundskolen,B_Zohair_Ali,Zohair Ali,Radikale Venstre,62
+Albertslund,2,Egelundskolen,B_Nicolai_Kofod-Jensen,Nicolai Kofod-Jensen,Radikale Venstre,1
+Albertslund,2,Egelundskolen,B_Anders_Pedersen,Anders Pedersen,Radikale Venstre,12
+Albertslund,2,Egelundskolen,B_Lene_Dræbye,Lene Dræbye,Radikale Venstre,5
+Albertslund,2,Egelundskolen,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,134
+Albertslund,2,Egelundskolen,C_Lars_Gravgaard_Hansen,Lars Gravgaard Hansen,Det Konservative Folkeparti,83
+Albertslund,2,Egelundskolen,C_Nils_Jul_Gjerlev,Nils Jul Gjerlev,Det Konservative Folkeparti,233
+Albertslund,2,Egelundskolen,C_Tina_Graugaard,Tina Graugaard,Det Konservative Folkeparti,29
+Albertslund,2,Egelundskolen,C_Billal_Zahoor,Billal Zahoor,Det Konservative Folkeparti,11
+Albertslund,2,Egelundskolen,C_Kira_Kruse_Willmarst,Kira Kruse Willmarst,Det Konservative Folkeparti,3
+Albertslund,2,Egelundskolen,C_Kim_Bonnesen,Kim Bonnesen,Det Konservative Folkeparti,12
+Albertslund,2,Egelundskolen,C_Brian_René_Pedersen,Brian René Pedersen,Det Konservative Folkeparti,9
+Albertslund,2,Egelundskolen,C_Andreas_Sklander,Andreas Sklander,Det Konservative Folkeparti,10
+Albertslund,2,Egelundskolen,C_Henrik_Hertz,Henrik Hertz,Det Konservative Folkeparti,5
+Albertslund,2,Egelundskolen,D_Listestemmer,Listestemmer,Nye Borgerlige,43
+Albertslund,2,Egelundskolen,D_John_Hagenstjerne,John Hagenstjerne,Nye Borgerlige,15
+Albertslund,2,Egelundskolen,D_Flemming_Sonnesen,Flemming Sonnesen,Nye Borgerlige,11
+Albertslund,2,Egelundskolen,D_Henning_Andersen,Henning Andersen,Nye Borgerlige,2
+Albertslund,2,Egelundskolen,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,84
+Albertslund,2,Egelundskolen,F_Vivi_Nør_Jacobsen,Vivi Nør Jacobsen,SF - Socialistisk Folkeparti,255
+Albertslund,2,Egelundskolen,F_Resul_Kücükakin,Resul Kücükakin,SF - Socialistisk Folkeparti,51
+Albertslund,2,Egelundskolen,F_Birgit_Hauer,Birgit Hauer,SF - Socialistisk Folkeparti,17
+Albertslund,2,Egelundskolen,F_Tina_Messaoudi,Tina Messaoudi,SF - Socialistisk Folkeparti,6
+Albertslund,2,Egelundskolen,F_Inge_Dahn,Inge Dahn,SF - Socialistisk Folkeparti,17
+Albertslund,2,Egelundskolen,F_Michael_Jonasen,Michael Jonasen,SF - Socialistisk Folkeparti,15
+Albertslund,2,Egelundskolen,F_Mette_Jacobsen,Mette Jacobsen,SF - Socialistisk Folkeparti,0
+Albertslund,2,Egelundskolen,F_Søren_Vinzent,Søren Vinzent,SF - Socialistisk Folkeparti,1
+Albertslund,2,Egelundskolen,G_Listestemmer,Listestemmer,Veganerpartiet,1
+Albertslund,2,Egelundskolen,G_Adam_Samy,Adam Samy,Veganerpartiet,5
+Albertslund,2,Egelundskolen,I_Listestemmer,Listestemmer,Liberal Alliance,10
+Albertslund,2,Egelundskolen,I_Michael_Melchert,Michael Melchert,Liberal Alliance,15
+Albertslund,2,Egelundskolen,I_Astrid_Frøland,Astrid Frøland,Liberal Alliance,2
+Albertslund,2,Egelundskolen,O_Listestemmer,Listestemmer,Dansk Folkeparti,51
+Albertslund,2,Egelundskolen,O_Tina_B._Nielsen,Tina B. Nielsen,Dansk Folkeparti,56
+Albertslund,2,Egelundskolen,O_Ole_Larsen,Ole Larsen,Dansk Folkeparti,4
+Albertslund,2,Egelundskolen,O_Winnie_Duncan,Winnie Duncan,Dansk Folkeparti,17
+Albertslund,2,Egelundskolen,O_Flemming_Ove_Breuning,Flemming Ove Breuning,Dansk Folkeparti,3
+Albertslund,2,Egelundskolen,O_John_B._Nielsen,John B. Nielsen,Dansk Folkeparti,1
+Albertslund,2,Egelundskolen,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",41
+Albertslund,2,Egelundskolen,V_Claus_Rasmussen,Claus Rasmussen,"Venstre, Danmarks Liberale Parti",53
+Albertslund,2,Egelundskolen,V_Sofie_Amalie_Blomsterberg,Sofie Amalie Blomsterberg,"Venstre, Danmarks Liberale Parti",14
+Albertslund,2,Egelundskolen,V_Susanne_Blomsterberg,Susanne Blomsterberg,"Venstre, Danmarks Liberale Parti",3
+Albertslund,2,Egelundskolen,V_Henrik_Berthou-Berthelsen,Henrik Berthou-Berthelsen,"Venstre, Danmarks Liberale Parti",5
+Albertslund,2,Egelundskolen,V_Heidi_Berthou-Berthelsen,Heidi Berthou-Berthelsen,"Venstre, Danmarks Liberale Parti",1
+Albertslund,2,Egelundskolen,V_Rune_Buhl_Frederiksen,Rune Buhl Frederiksen,"Venstre, Danmarks Liberale Parti",1
+Albertslund,2,Egelundskolen,V_Michael_Adler-Platzer,Michael Adler-Platzer,"Venstre, Danmarks Liberale Parti",0
+Albertslund,2,Egelundskolen,V_Ulla_Pawrup,Ulla Pawrup,"Venstre, Danmarks Liberale Parti",6
+Albertslund,2,Egelundskolen,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,114
+Albertslund,2,Egelundskolen,Ø_Helge_Bo_Jensen,Helge Bo Jensen,Enhedslisten - De Rød-Grønne,73
+Albertslund,2,Egelundskolen,Ø_Bodil_Garde,Bodil Garde,Enhedslisten - De Rød-Grønne,14
+Albertslund,2,Egelundskolen,Ø_Fedai_Celim,Fedai Celim,Enhedslisten - De Rød-Grønne,22
+Albertslund,2,Egelundskolen,Ø_Marie_Juhl,Marie Juhl,Enhedslisten - De Rød-Grønne,18
+Albertslund,2,Egelundskolen,Ø_Ebbe_Rand_Jørgensen,Ebbe Rand Jørgensen,Enhedslisten - De Rød-Grønne,10
+Albertslund,2,Egelundskolen,Ø_Edibe_Baran,Edibe Baran,Enhedslisten - De Rød-Grønne,9
+Albertslund,2,Egelundskolen,Ø_Stig_Larsen,Stig Larsen,Enhedslisten - De Rød-Grønne,1
+Albertslund,2,Egelundskolen,Ø_Ulla_Elsted_Jensen,Ulla Elsted Jensen,Enhedslisten - De Rød-Grønne,2
+Albertslund,2,Egelundskolen,Ø_Jeppe_Milthers,Jeppe Milthers,Enhedslisten - De Rød-Grønne,8
+Albertslund,2,Egelundskolen,Ø_Kim_Olesen,Kim Olesen,Enhedslisten - De Rød-Grønne,0
+Albertslund,2,Egelundskolen,Ø_Necdet_Gökce,Necdet Gökce,Enhedslisten - De Rød-Grønne,3
+Albertslund,2,Egelundskolen,Ø_Lars_Bremer,Lars Bremer,Enhedslisten - De Rød-Grønne,1
+Albertslund,2,Egelundskolen,Ø_Kurt_Olsen,Kurt Olsen,Enhedslisten - De Rød-Grønne,1
+Albertslund,2,Egelundskolen,Å_Listestemmer,Listestemmer,Alternativet,2
+Albertslund,2,Egelundskolen,Å_Kenni_Flink,Kenni Flink,Alternativet,21
+Albertslund,3,Herstedlund Skole,A_Listestemmer,Listestemmer,Socialdemokratiet,169
+Albertslund,3,Herstedlund Skole,A_Steen_Christiansen,Steen Christiansen,Socialdemokratiet,136
+Albertslund,3,Herstedlund Skole,A_Marianne_Burchall,Marianne Burchall,Socialdemokratiet,32
+Albertslund,3,Herstedlund Skole,A_Paw_Østergaard_Jensen,Paw Østergaard Jensen,Socialdemokratiet,45
+Albertslund,3,Herstedlund Skole,A_Ulla_Nielsen,Ulla Nielsen,Socialdemokratiet,21
+Albertslund,3,Herstedlund Skole,A_Dogan_Polat,Dogan Polat,Socialdemokratiet,151
+Albertslund,3,Herstedlund Skole,A_Tina_Christiansen,Tina Christiansen,Socialdemokratiet,17
+Albertslund,3,Herstedlund Skole,A_Mikkel_Skovby,Mikkel Skovby,Socialdemokratiet,18
+Albertslund,3,Herstedlund Skole,A_Nikolaj_Kristian_Carlsen,Nikolaj Kristian Carlsen,Socialdemokratiet,9
+Albertslund,3,Herstedlund Skole,A_Lasse_Wilson,Lasse Wilson,Socialdemokratiet,6
+Albertslund,3,Herstedlund Skole,A_Rukhsana_Ali,Rukhsana Ali,Socialdemokratiet,19
+Albertslund,3,Herstedlund Skole,A_Qasir_Mirza,Qasir Mirza,Socialdemokratiet,61
+Albertslund,3,Herstedlund Skole,A_Emil_Ottesen,Emil Ottesen,Socialdemokratiet,11
+Albertslund,3,Herstedlund Skole,A_Jane_Nannberg,Jane Nannberg,Socialdemokratiet,5
+Albertslund,3,Herstedlund Skole,A_Julie_Marie_Larsen,Julie Marie Larsen,Socialdemokratiet,24
+Albertslund,3,Herstedlund Skole,A_Rashid_Leegaard_Kestey,Rashid Leegaard Kestey,Socialdemokratiet,5
+Albertslund,3,Herstedlund Skole,A_Akhlaq_Ahmad,Akhlaq Ahmad,Socialdemokratiet,59
+Albertslund,3,Herstedlund Skole,A_Flemming_Jørgensen,Flemming Jørgensen,Socialdemokratiet,8
+Albertslund,3,Herstedlund Skole,B_Listestemmer,Listestemmer,Radikale Venstre,19
+Albertslund,3,Herstedlund Skole,B_Hediye_Temiz,Hediye Temiz,Radikale Venstre,76
+Albertslund,3,Herstedlund Skole,B_Martin_Rytter,Martin Rytter,Radikale Venstre,17
+Albertslund,3,Herstedlund Skole,B_Morten_Loof_Andersen,Morten Loof Andersen,Radikale Venstre,1
+Albertslund,3,Herstedlund Skole,B_Zohair_Ali,Zohair Ali,Radikale Venstre,158
+Albertslund,3,Herstedlund Skole,B_Nicolai_Kofod-Jensen,Nicolai Kofod-Jensen,Radikale Venstre,1
+Albertslund,3,Herstedlund Skole,B_Anders_Pedersen,Anders Pedersen,Radikale Venstre,2
+Albertslund,3,Herstedlund Skole,B_Lene_Dræbye,Lene Dræbye,Radikale Venstre,3
+Albertslund,3,Herstedlund Skole,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,73
+Albertslund,3,Herstedlund Skole,C_Lars_Gravgaard_Hansen,Lars Gravgaard Hansen,Det Konservative Folkeparti,40
+Albertslund,3,Herstedlund Skole,C_Nils_Jul_Gjerlev,Nils Jul Gjerlev,Det Konservative Folkeparti,42
+Albertslund,3,Herstedlund Skole,C_Tina_Graugaard,Tina Graugaard,Det Konservative Folkeparti,20
+Albertslund,3,Herstedlund Skole,C_Billal_Zahoor,Billal Zahoor,Det Konservative Folkeparti,26
+Albertslund,3,Herstedlund Skole,C_Kira_Kruse_Willmarst,Kira Kruse Willmarst,Det Konservative Folkeparti,5
+Albertslund,3,Herstedlund Skole,C_Kim_Bonnesen,Kim Bonnesen,Det Konservative Folkeparti,4
+Albertslund,3,Herstedlund Skole,C_Brian_René_Pedersen,Brian René Pedersen,Det Konservative Folkeparti,3
+Albertslund,3,Herstedlund Skole,C_Andreas_Sklander,Andreas Sklander,Det Konservative Folkeparti,1
+Albertslund,3,Herstedlund Skole,C_Henrik_Hertz,Henrik Hertz,Det Konservative Folkeparti,1
+Albertslund,3,Herstedlund Skole,D_Listestemmer,Listestemmer,Nye Borgerlige,40
+Albertslund,3,Herstedlund Skole,D_John_Hagenstjerne,John Hagenstjerne,Nye Borgerlige,18
+Albertslund,3,Herstedlund Skole,D_Flemming_Sonnesen,Flemming Sonnesen,Nye Borgerlige,7
+Albertslund,3,Herstedlund Skole,D_Henning_Andersen,Henning Andersen,Nye Borgerlige,1
+Albertslund,3,Herstedlund Skole,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,54
+Albertslund,3,Herstedlund Skole,F_Vivi_Nør_Jacobsen,Vivi Nør Jacobsen,SF - Socialistisk Folkeparti,218
+Albertslund,3,Herstedlund Skole,F_Resul_Kücükakin,Resul Kücükakin,SF - Socialistisk Folkeparti,66
+Albertslund,3,Herstedlund Skole,F_Birgit_Hauer,Birgit Hauer,SF - Socialistisk Folkeparti,10
+Albertslund,3,Herstedlund Skole,F_Tina_Messaoudi,Tina Messaoudi,SF - Socialistisk Folkeparti,13
+Albertslund,3,Herstedlund Skole,F_Inge_Dahn,Inge Dahn,SF - Socialistisk Folkeparti,6
+Albertslund,3,Herstedlund Skole,F_Michael_Jonasen,Michael Jonasen,SF - Socialistisk Folkeparti,12
+Albertslund,3,Herstedlund Skole,F_Mette_Jacobsen,Mette Jacobsen,SF - Socialistisk Folkeparti,6
+Albertslund,3,Herstedlund Skole,F_Søren_Vinzent,Søren Vinzent,SF - Socialistisk Folkeparti,0
+Albertslund,3,Herstedlund Skole,G_Listestemmer,Listestemmer,Veganerpartiet,1
+Albertslund,3,Herstedlund Skole,G_Adam_Samy,Adam Samy,Veganerpartiet,3
+Albertslund,3,Herstedlund Skole,I_Listestemmer,Listestemmer,Liberal Alliance,4
+Albertslund,3,Herstedlund Skole,I_Michael_Melchert,Michael Melchert,Liberal Alliance,10
+Albertslund,3,Herstedlund Skole,I_Astrid_Frøland,Astrid Frøland,Liberal Alliance,2
+Albertslund,3,Herstedlund Skole,O_Listestemmer,Listestemmer,Dansk Folkeparti,62
+Albertslund,3,Herstedlund Skole,O_Tina_B._Nielsen,Tina B. Nielsen,Dansk Folkeparti,31
+Albertslund,3,Herstedlund Skole,O_Ole_Larsen,Ole Larsen,Dansk Folkeparti,8
+Albertslund,3,Herstedlund Skole,O_Winnie_Duncan,Winnie Duncan,Dansk Folkeparti,10
+Albertslund,3,Herstedlund Skole,O_Flemming_Ove_Breuning,Flemming Ove Breuning,Dansk Folkeparti,9
+Albertslund,3,Herstedlund Skole,O_John_B._Nielsen,John B. Nielsen,Dansk Folkeparti,1
+Albertslund,3,Herstedlund Skole,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",26
+Albertslund,3,Herstedlund Skole,V_Claus_Rasmussen,Claus Rasmussen,"Venstre, Danmarks Liberale Parti",18
+Albertslund,3,Herstedlund Skole,V_Sofie_Amalie_Blomsterberg,Sofie Amalie Blomsterberg,"Venstre, Danmarks Liberale Parti",14
+Albertslund,3,Herstedlund Skole,V_Susanne_Blomsterberg,Susanne Blomsterberg,"Venstre, Danmarks Liberale Parti",2
+Albertslund,3,Herstedlund Skole,V_Henrik_Berthou-Berthelsen,Henrik Berthou-Berthelsen,"Venstre, Danmarks Liberale Parti",4
+Albertslund,3,Herstedlund Skole,V_Heidi_Berthou-Berthelsen,Heidi Berthou-Berthelsen,"Venstre, Danmarks Liberale Parti",1
+Albertslund,3,Herstedlund Skole,V_Rune_Buhl_Frederiksen,Rune Buhl Frederiksen,"Venstre, Danmarks Liberale Parti",3
+Albertslund,3,Herstedlund Skole,V_Michael_Adler-Platzer,Michael Adler-Platzer,"Venstre, Danmarks Liberale Parti",0
+Albertslund,3,Herstedlund Skole,V_Ulla_Pawrup,Ulla Pawrup,"Venstre, Danmarks Liberale Parti",2
+Albertslund,3,Herstedlund Skole,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,94
+Albertslund,3,Herstedlund Skole,Ø_Helge_Bo_Jensen,Helge Bo Jensen,Enhedslisten - De Rød-Grønne,42
+Albertslund,3,Herstedlund Skole,Ø_Bodil_Garde,Bodil Garde,Enhedslisten - De Rød-Grønne,12
+Albertslund,3,Herstedlund Skole,Ø_Fedai_Celim,Fedai Celim,Enhedslisten - De Rød-Grønne,42
+Albertslund,3,Herstedlund Skole,Ø_Marie_Juhl,Marie Juhl,Enhedslisten - De Rød-Grønne,15
+Albertslund,3,Herstedlund Skole,Ø_Ebbe_Rand_Jørgensen,Ebbe Rand Jørgensen,Enhedslisten - De Rød-Grønne,3
+Albertslund,3,Herstedlund Skole,Ø_Edibe_Baran,Edibe Baran,Enhedslisten - De Rød-Grønne,1
+Albertslund,3,Herstedlund Skole,Ø_Stig_Larsen,Stig Larsen,Enhedslisten - De Rød-Grønne,4
+Albertslund,3,Herstedlund Skole,Ø_Ulla_Elsted_Jensen,Ulla Elsted Jensen,Enhedslisten - De Rød-Grønne,1
+Albertslund,3,Herstedlund Skole,Ø_Jeppe_Milthers,Jeppe Milthers,Enhedslisten - De Rød-Grønne,3
+Albertslund,3,Herstedlund Skole,Ø_Kim_Olesen,Kim Olesen,Enhedslisten - De Rød-Grønne,1
+Albertslund,3,Herstedlund Skole,Ø_Necdet_Gökce,Necdet Gökce,Enhedslisten - De Rød-Grønne,9
+Albertslund,3,Herstedlund Skole,Ø_Lars_Bremer,Lars Bremer,Enhedslisten - De Rød-Grønne,3
+Albertslund,3,Herstedlund Skole,Ø_Kurt_Olsen,Kurt Olsen,Enhedslisten - De Rød-Grønne,0
+Albertslund,3,Herstedlund Skole,Å_Listestemmer,Listestemmer,Alternativet,8
+Albertslund,3,Herstedlund Skole,Å_Kenni_Flink,Kenni Flink,Alternativet,17
+Albertslund,4,Kongsholmcenteret,A_Listestemmer,Listestemmer,Socialdemokratiet,217
+Albertslund,4,Kongsholmcenteret,A_Steen_Christiansen,Steen Christiansen,Socialdemokratiet,140
+Albertslund,4,Kongsholmcenteret,A_Marianne_Burchall,Marianne Burchall,Socialdemokratiet,35
+Albertslund,4,Kongsholmcenteret,A_Paw_Østergaard_Jensen,Paw Østergaard Jensen,Socialdemokratiet,46
+Albertslund,4,Kongsholmcenteret,A_Ulla_Nielsen,Ulla Nielsen,Socialdemokratiet,102
+Albertslund,4,Kongsholmcenteret,A_Dogan_Polat,Dogan Polat,Socialdemokratiet,100
+Albertslund,4,Kongsholmcenteret,A_Tina_Christiansen,Tina Christiansen,Socialdemokratiet,23
+Albertslund,4,Kongsholmcenteret,A_Mikkel_Skovby,Mikkel Skovby,Socialdemokratiet,17
+Albertslund,4,Kongsholmcenteret,A_Nikolaj_Kristian_Carlsen,Nikolaj Kristian Carlsen,Socialdemokratiet,4
+Albertslund,4,Kongsholmcenteret,A_Lasse_Wilson,Lasse Wilson,Socialdemokratiet,11
+Albertslund,4,Kongsholmcenteret,A_Rukhsana_Ali,Rukhsana Ali,Socialdemokratiet,14
+Albertslund,4,Kongsholmcenteret,A_Qasir_Mirza,Qasir Mirza,Socialdemokratiet,15
+Albertslund,4,Kongsholmcenteret,A_Emil_Ottesen,Emil Ottesen,Socialdemokratiet,15
+Albertslund,4,Kongsholmcenteret,A_Jane_Nannberg,Jane Nannberg,Socialdemokratiet,8
+Albertslund,4,Kongsholmcenteret,A_Julie_Marie_Larsen,Julie Marie Larsen,Socialdemokratiet,9
+Albertslund,4,Kongsholmcenteret,A_Rashid_Leegaard_Kestey,Rashid Leegaard Kestey,Socialdemokratiet,3
+Albertslund,4,Kongsholmcenteret,A_Akhlaq_Ahmad,Akhlaq Ahmad,Socialdemokratiet,26
+Albertslund,4,Kongsholmcenteret,A_Flemming_Jørgensen,Flemming Jørgensen,Socialdemokratiet,8
+Albertslund,4,Kongsholmcenteret,B_Listestemmer,Listestemmer,Radikale Venstre,23
+Albertslund,4,Kongsholmcenteret,B_Hediye_Temiz,Hediye Temiz,Radikale Venstre,43
+Albertslund,4,Kongsholmcenteret,B_Martin_Rytter,Martin Rytter,Radikale Venstre,4
+Albertslund,4,Kongsholmcenteret,B_Morten_Loof_Andersen,Morten Loof Andersen,Radikale Venstre,2
+Albertslund,4,Kongsholmcenteret,B_Zohair_Ali,Zohair Ali,Radikale Venstre,65
+Albertslund,4,Kongsholmcenteret,B_Nicolai_Kofod-Jensen,Nicolai Kofod-Jensen,Radikale Venstre,1
+Albertslund,4,Kongsholmcenteret,B_Anders_Pedersen,Anders Pedersen,Radikale Venstre,0
+Albertslund,4,Kongsholmcenteret,B_Lene_Dræbye,Lene Dræbye,Radikale Venstre,5
+Albertslund,4,Kongsholmcenteret,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,47
+Albertslund,4,Kongsholmcenteret,C_Lars_Gravgaard_Hansen,Lars Gravgaard Hansen,Det Konservative Folkeparti,31
+Albertslund,4,Kongsholmcenteret,C_Nils_Jul_Gjerlev,Nils Jul Gjerlev,Det Konservative Folkeparti,21
+Albertslund,4,Kongsholmcenteret,C_Tina_Graugaard,Tina Graugaard,Det Konservative Folkeparti,40
+Albertslund,4,Kongsholmcenteret,C_Billal_Zahoor,Billal Zahoor,Det Konservative Folkeparti,8
+Albertslund,4,Kongsholmcenteret,C_Kira_Kruse_Willmarst,Kira Kruse Willmarst,Det Konservative Folkeparti,2
+Albertslund,4,Kongsholmcenteret,C_Kim_Bonnesen,Kim Bonnesen,Det Konservative Folkeparti,4
+Albertslund,4,Kongsholmcenteret,C_Brian_René_Pedersen,Brian René Pedersen,Det Konservative Folkeparti,0
+Albertslund,4,Kongsholmcenteret,C_Andreas_Sklander,Andreas Sklander,Det Konservative Folkeparti,4
+Albertslund,4,Kongsholmcenteret,C_Henrik_Hertz,Henrik Hertz,Det Konservative Folkeparti,2
+Albertslund,4,Kongsholmcenteret,D_Listestemmer,Listestemmer,Nye Borgerlige,40
+Albertslund,4,Kongsholmcenteret,D_John_Hagenstjerne,John Hagenstjerne,Nye Borgerlige,23
+Albertslund,4,Kongsholmcenteret,D_Flemming_Sonnesen,Flemming Sonnesen,Nye Borgerlige,25
+Albertslund,4,Kongsholmcenteret,D_Henning_Andersen,Henning Andersen,Nye Borgerlige,4
+Albertslund,4,Kongsholmcenteret,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,69
+Albertslund,4,Kongsholmcenteret,F_Vivi_Nør_Jacobsen,Vivi Nør Jacobsen,SF - Socialistisk Folkeparti,165
+Albertslund,4,Kongsholmcenteret,F_Resul_Kücükakin,Resul Kücükakin,SF - Socialistisk Folkeparti,52
+Albertslund,4,Kongsholmcenteret,F_Birgit_Hauer,Birgit Hauer,SF - Socialistisk Folkeparti,10
+Albertslund,4,Kongsholmcenteret,F_Tina_Messaoudi,Tina Messaoudi,SF - Socialistisk Folkeparti,26
+Albertslund,4,Kongsholmcenteret,F_Inge_Dahn,Inge Dahn,SF - Socialistisk Folkeparti,5
+Albertslund,4,Kongsholmcenteret,F_Michael_Jonasen,Michael Jonasen,SF - Socialistisk Folkeparti,5
+Albertslund,4,Kongsholmcenteret,F_Mette_Jacobsen,Mette Jacobsen,SF - Socialistisk Folkeparti,2
+Albertslund,4,Kongsholmcenteret,F_Søren_Vinzent,Søren Vinzent,SF - Socialistisk Folkeparti,1
+Albertslund,4,Kongsholmcenteret,G_Listestemmer,Listestemmer,Veganerpartiet,0
+Albertslund,4,Kongsholmcenteret,G_Adam_Samy,Adam Samy,Veganerpartiet,9
+Albertslund,4,Kongsholmcenteret,I_Listestemmer,Listestemmer,Liberal Alliance,9
+Albertslund,4,Kongsholmcenteret,I_Michael_Melchert,Michael Melchert,Liberal Alliance,16
+Albertslund,4,Kongsholmcenteret,I_Astrid_Frøland,Astrid Frøland,Liberal Alliance,0
+Albertslund,4,Kongsholmcenteret,O_Listestemmer,Listestemmer,Dansk Folkeparti,72
+Albertslund,4,Kongsholmcenteret,O_Tina_B._Nielsen,Tina B. Nielsen,Dansk Folkeparti,75
+Albertslund,4,Kongsholmcenteret,O_Ole_Larsen,Ole Larsen,Dansk Folkeparti,4
+Albertslund,4,Kongsholmcenteret,O_Winnie_Duncan,Winnie Duncan,Dansk Folkeparti,7
+Albertslund,4,Kongsholmcenteret,O_Flemming_Ove_Breuning,Flemming Ove Breuning,Dansk Folkeparti,6
+Albertslund,4,Kongsholmcenteret,O_John_B._Nielsen,John B. Nielsen,Dansk Folkeparti,4
+Albertslund,4,Kongsholmcenteret,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",30
+Albertslund,4,Kongsholmcenteret,V_Claus_Rasmussen,Claus Rasmussen,"Venstre, Danmarks Liberale Parti",18
+Albertslund,4,Kongsholmcenteret,V_Sofie_Amalie_Blomsterberg,Sofie Amalie Blomsterberg,"Venstre, Danmarks Liberale Parti",13
+Albertslund,4,Kongsholmcenteret,V_Susanne_Blomsterberg,Susanne Blomsterberg,"Venstre, Danmarks Liberale Parti",2
+Albertslund,4,Kongsholmcenteret,V_Henrik_Berthou-Berthelsen,Henrik Berthou-Berthelsen,"Venstre, Danmarks Liberale Parti",9
+Albertslund,4,Kongsholmcenteret,V_Heidi_Berthou-Berthelsen,Heidi Berthou-Berthelsen,"Venstre, Danmarks Liberale Parti",4
+Albertslund,4,Kongsholmcenteret,V_Rune_Buhl_Frederiksen,Rune Buhl Frederiksen,"Venstre, Danmarks Liberale Parti",0
+Albertslund,4,Kongsholmcenteret,V_Michael_Adler-Platzer,Michael Adler-Platzer,"Venstre, Danmarks Liberale Parti",2
+Albertslund,4,Kongsholmcenteret,V_Ulla_Pawrup,Ulla Pawrup,"Venstre, Danmarks Liberale Parti",1
+Albertslund,4,Kongsholmcenteret,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,128
+Albertslund,4,Kongsholmcenteret,Ø_Helge_Bo_Jensen,Helge Bo Jensen,Enhedslisten - De Rød-Grønne,40
+Albertslund,4,Kongsholmcenteret,Ø_Bodil_Garde,Bodil Garde,Enhedslisten - De Rød-Grønne,20
+Albertslund,4,Kongsholmcenteret,Ø_Fedai_Celim,Fedai Celim,Enhedslisten - De Rød-Grønne,17
+Albertslund,4,Kongsholmcenteret,Ø_Marie_Juhl,Marie Juhl,Enhedslisten - De Rød-Grønne,22
+Albertslund,4,Kongsholmcenteret,Ø_Ebbe_Rand_Jørgensen,Ebbe Rand Jørgensen,Enhedslisten - De Rød-Grønne,3
+Albertslund,4,Kongsholmcenteret,Ø_Edibe_Baran,Edibe Baran,Enhedslisten - De Rød-Grønne,7
+Albertslund,4,Kongsholmcenteret,Ø_Stig_Larsen,Stig Larsen,Enhedslisten - De Rød-Grønne,4
+Albertslund,4,Kongsholmcenteret,Ø_Ulla_Elsted_Jensen,Ulla Elsted Jensen,Enhedslisten - De Rød-Grønne,3
+Albertslund,4,Kongsholmcenteret,Ø_Jeppe_Milthers,Jeppe Milthers,Enhedslisten - De Rød-Grønne,1
+Albertslund,4,Kongsholmcenteret,Ø_Kim_Olesen,Kim Olesen,Enhedslisten - De Rød-Grønne,0
+Albertslund,4,Kongsholmcenteret,Ø_Necdet_Gökce,Necdet Gökce,Enhedslisten - De Rød-Grønne,3
+Albertslund,4,Kongsholmcenteret,Ø_Lars_Bremer,Lars Bremer,Enhedslisten - De Rød-Grønne,6
+Albertslund,4,Kongsholmcenteret,Ø_Kurt_Olsen,Kurt Olsen,Enhedslisten - De Rød-Grønne,0
+Albertslund,4,Kongsholmcenteret,Å_Listestemmer,Listestemmer,Alternativet,4
+Albertslund,4,Kongsholmcenteret,Å_Kenni_Flink,Kenni Flink,Alternativet,47
+Albertslund,5,Herstedvester Skole,A_Listestemmer,Listestemmer,Socialdemokratiet,247
+Albertslund,5,Herstedvester Skole,A_Steen_Christiansen,Steen Christiansen,Socialdemokratiet,226
+Albertslund,5,Herstedvester Skole,A_Marianne_Burchall,Marianne Burchall,Socialdemokratiet,128
+Albertslund,5,Herstedvester Skole,A_Paw_Østergaard_Jensen,Paw Østergaard Jensen,Socialdemokratiet,45
+Albertslund,5,Herstedvester Skole,A_Ulla_Nielsen,Ulla Nielsen,Socialdemokratiet,45
+Albertslund,5,Herstedvester Skole,A_Dogan_Polat,Dogan Polat,Socialdemokratiet,117
+Albertslund,5,Herstedvester Skole,A_Tina_Christiansen,Tina Christiansen,Socialdemokratiet,23
+Albertslund,5,Herstedvester Skole,A_Mikkel_Skovby,Mikkel Skovby,Socialdemokratiet,75
+Albertslund,5,Herstedvester Skole,A_Nikolaj_Kristian_Carlsen,Nikolaj Kristian Carlsen,Socialdemokratiet,5
+Albertslund,5,Herstedvester Skole,A_Lasse_Wilson,Lasse Wilson,Socialdemokratiet,24
+Albertslund,5,Herstedvester Skole,A_Rukhsana_Ali,Rukhsana Ali,Socialdemokratiet,30
+Albertslund,5,Herstedvester Skole,A_Qasir_Mirza,Qasir Mirza,Socialdemokratiet,45
+Albertslund,5,Herstedvester Skole,A_Emil_Ottesen,Emil Ottesen,Socialdemokratiet,23
+Albertslund,5,Herstedvester Skole,A_Jane_Nannberg,Jane Nannberg,Socialdemokratiet,6
+Albertslund,5,Herstedvester Skole,A_Julie_Marie_Larsen,Julie Marie Larsen,Socialdemokratiet,21
+Albertslund,5,Herstedvester Skole,A_Rashid_Leegaard_Kestey,Rashid Leegaard Kestey,Socialdemokratiet,9
+Albertslund,5,Herstedvester Skole,A_Akhlaq_Ahmad,Akhlaq Ahmad,Socialdemokratiet,139
+Albertslund,5,Herstedvester Skole,A_Flemming_Jørgensen,Flemming Jørgensen,Socialdemokratiet,14
+Albertslund,5,Herstedvester Skole,B_Listestemmer,Listestemmer,Radikale Venstre,37
+Albertslund,5,Herstedvester Skole,B_Hediye_Temiz,Hediye Temiz,Radikale Venstre,62
+Albertslund,5,Herstedvester Skole,B_Martin_Rytter,Martin Rytter,Radikale Venstre,10
+Albertslund,5,Herstedvester Skole,B_Morten_Loof_Andersen,Morten Loof Andersen,Radikale Venstre,1
+Albertslund,5,Herstedvester Skole,B_Zohair_Ali,Zohair Ali,Radikale Venstre,156
+Albertslund,5,Herstedvester Skole,B_Nicolai_Kofod-Jensen,Nicolai Kofod-Jensen,Radikale Venstre,1
+Albertslund,5,Herstedvester Skole,B_Anders_Pedersen,Anders Pedersen,Radikale Venstre,3
+Albertslund,5,Herstedvester Skole,B_Lene_Dræbye,Lene Dræbye,Radikale Venstre,5
+Albertslund,5,Herstedvester Skole,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,105
+Albertslund,5,Herstedvester Skole,C_Lars_Gravgaard_Hansen,Lars Gravgaard Hansen,Det Konservative Folkeparti,53
+Albertslund,5,Herstedvester Skole,C_Nils_Jul_Gjerlev,Nils Jul Gjerlev,Det Konservative Folkeparti,64
+Albertslund,5,Herstedvester Skole,C_Tina_Graugaard,Tina Graugaard,Det Konservative Folkeparti,22
+Albertslund,5,Herstedvester Skole,C_Billal_Zahoor,Billal Zahoor,Det Konservative Folkeparti,11
+Albertslund,5,Herstedvester Skole,C_Kira_Kruse_Willmarst,Kira Kruse Willmarst,Det Konservative Folkeparti,6
+Albertslund,5,Herstedvester Skole,C_Kim_Bonnesen,Kim Bonnesen,Det Konservative Folkeparti,15
+Albertslund,5,Herstedvester Skole,C_Brian_René_Pedersen,Brian René Pedersen,Det Konservative Folkeparti,4
+Albertslund,5,Herstedvester Skole,C_Andreas_Sklander,Andreas Sklander,Det Konservative Folkeparti,8
+Albertslund,5,Herstedvester Skole,C_Henrik_Hertz,Henrik Hertz,Det Konservative Folkeparti,1
+Albertslund,5,Herstedvester Skole,D_Listestemmer,Listestemmer,Nye Borgerlige,48
+Albertslund,5,Herstedvester Skole,D_John_Hagenstjerne,John Hagenstjerne,Nye Borgerlige,13
+Albertslund,5,Herstedvester Skole,D_Flemming_Sonnesen,Flemming Sonnesen,Nye Borgerlige,5
+Albertslund,5,Herstedvester Skole,D_Henning_Andersen,Henning Andersen,Nye Borgerlige,2
+Albertslund,5,Herstedvester Skole,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,124
+Albertslund,5,Herstedvester Skole,F_Vivi_Nør_Jacobsen,Vivi Nør Jacobsen,SF - Socialistisk Folkeparti,342
+Albertslund,5,Herstedvester Skole,F_Resul_Kücükakin,Resul Kücükakin,SF - Socialistisk Folkeparti,86
+Albertslund,5,Herstedvester Skole,F_Birgit_Hauer,Birgit Hauer,SF - Socialistisk Folkeparti,38
+Albertslund,5,Herstedvester Skole,F_Tina_Messaoudi,Tina Messaoudi,SF - Socialistisk Folkeparti,35
+Albertslund,5,Herstedvester Skole,F_Inge_Dahn,Inge Dahn,SF - Socialistisk Folkeparti,14
+Albertslund,5,Herstedvester Skole,F_Michael_Jonasen,Michael Jonasen,SF - Socialistisk Folkeparti,26
+Albertslund,5,Herstedvester Skole,F_Mette_Jacobsen,Mette Jacobsen,SF - Socialistisk Folkeparti,1
+Albertslund,5,Herstedvester Skole,F_Søren_Vinzent,Søren Vinzent,SF - Socialistisk Folkeparti,1
+Albertslund,5,Herstedvester Skole,G_Listestemmer,Listestemmer,Veganerpartiet,3
+Albertslund,5,Herstedvester Skole,G_Adam_Samy,Adam Samy,Veganerpartiet,2
+Albertslund,5,Herstedvester Skole,I_Listestemmer,Listestemmer,Liberal Alliance,9
+Albertslund,5,Herstedvester Skole,I_Michael_Melchert,Michael Melchert,Liberal Alliance,17
+Albertslund,5,Herstedvester Skole,I_Astrid_Frøland,Astrid Frøland,Liberal Alliance,1
+Albertslund,5,Herstedvester Skole,O_Listestemmer,Listestemmer,Dansk Folkeparti,59
+Albertslund,5,Herstedvester Skole,O_Tina_B._Nielsen,Tina B. Nielsen,Dansk Folkeparti,54
+Albertslund,5,Herstedvester Skole,O_Ole_Larsen,Ole Larsen,Dansk Folkeparti,11
+Albertslund,5,Herstedvester Skole,O_Winnie_Duncan,Winnie Duncan,Dansk Folkeparti,19
+Albertslund,5,Herstedvester Skole,O_Flemming_Ove_Breuning,Flemming Ove Breuning,Dansk Folkeparti,8
+Albertslund,5,Herstedvester Skole,O_John_B._Nielsen,John B. Nielsen,Dansk Folkeparti,5
+Albertslund,5,Herstedvester Skole,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",50
+Albertslund,5,Herstedvester Skole,V_Claus_Rasmussen,Claus Rasmussen,"Venstre, Danmarks Liberale Parti",76
+Albertslund,5,Herstedvester Skole,V_Sofie_Amalie_Blomsterberg,Sofie Amalie Blomsterberg,"Venstre, Danmarks Liberale Parti",21
+Albertslund,5,Herstedvester Skole,V_Susanne_Blomsterberg,Susanne Blomsterberg,"Venstre, Danmarks Liberale Parti",8
+Albertslund,5,Herstedvester Skole,V_Henrik_Berthou-Berthelsen,Henrik Berthou-Berthelsen,"Venstre, Danmarks Liberale Parti",5
+Albertslund,5,Herstedvester Skole,V_Heidi_Berthou-Berthelsen,Heidi Berthou-Berthelsen,"Venstre, Danmarks Liberale Parti",1
+Albertslund,5,Herstedvester Skole,V_Rune_Buhl_Frederiksen,Rune Buhl Frederiksen,"Venstre, Danmarks Liberale Parti",1
+Albertslund,5,Herstedvester Skole,V_Michael_Adler-Platzer,Michael Adler-Platzer,"Venstre, Danmarks Liberale Parti",4
+Albertslund,5,Herstedvester Skole,V_Ulla_Pawrup,Ulla Pawrup,"Venstre, Danmarks Liberale Parti",2
+Albertslund,5,Herstedvester Skole,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,152
+Albertslund,5,Herstedvester Skole,Ø_Helge_Bo_Jensen,Helge Bo Jensen,Enhedslisten - De Rød-Grønne,54
+Albertslund,5,Herstedvester Skole,Ø_Bodil_Garde,Bodil Garde,Enhedslisten - De Rød-Grønne,27
+Albertslund,5,Herstedvester Skole,Ø_Fedai_Celim,Fedai Celim,Enhedslisten - De Rød-Grønne,25
+Albertslund,5,Herstedvester Skole,Ø_Marie_Juhl,Marie Juhl,Enhedslisten - De Rød-Grønne,37
+Albertslund,5,Herstedvester Skole,Ø_Ebbe_Rand_Jørgensen,Ebbe Rand Jørgensen,Enhedslisten - De Rød-Grønne,5
+Albertslund,5,Herstedvester Skole,Ø_Edibe_Baran,Edibe Baran,Enhedslisten - De Rød-Grønne,10
+Albertslund,5,Herstedvester Skole,Ø_Stig_Larsen,Stig Larsen,Enhedslisten - De Rød-Grønne,4
+Albertslund,5,Herstedvester Skole,Ø_Ulla_Elsted_Jensen,Ulla Elsted Jensen,Enhedslisten - De Rød-Grønne,2
+Albertslund,5,Herstedvester Skole,Ø_Jeppe_Milthers,Jeppe Milthers,Enhedslisten - De Rød-Grønne,5
+Albertslund,5,Herstedvester Skole,Ø_Kim_Olesen,Kim Olesen,Enhedslisten - De Rød-Grønne,1
+Albertslund,5,Herstedvester Skole,Ø_Necdet_Gökce,Necdet Gökce,Enhedslisten - De Rød-Grønne,8
+Albertslund,5,Herstedvester Skole,Ø_Lars_Bremer,Lars Bremer,Enhedslisten - De Rød-Grønne,1
+Albertslund,5,Herstedvester Skole,Ø_Kurt_Olsen,Kurt Olsen,Enhedslisten - De Rød-Grønne,0
+Albertslund,5,Herstedvester Skole,Å_Listestemmer,Listestemmer,Alternativet,9
+Albertslund,5,Herstedvester Skole,Å_Kenni_Flink,Kenni Flink,Alternativet,28

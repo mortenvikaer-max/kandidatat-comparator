@@ -1,0 +1,1191 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Favrskov,1,Hadsten Nord,A_Listestemmer,Listestemmer,Socialdemokratiet,171
+Favrskov,1,Hadsten Nord,A_Nils_Borring,Nils Borring,Socialdemokratiet,481
+Favrskov,1,Hadsten Nord,A_Isabell_Friis_Madsen,Isabell Friis Madsen,Socialdemokratiet,197
+Favrskov,1,Hadsten Nord,A_Erling_Kvist_Andersen,Erling Kvist Andersen,Socialdemokratiet,9
+Favrskov,1,Hadsten Nord,A_Lone_Boye,Lone Boye,Socialdemokratiet,8
+Favrskov,1,Hadsten Nord,A_Gitte_Lynderup_Lauritsen,Gitte Lynderup Lauritsen,Socialdemokratiet,6
+Favrskov,1,Hadsten Nord,A_Rikke_Randrup_Skåning,Rikke Randrup Skåning,Socialdemokratiet,61
+Favrskov,1,Hadsten Nord,A_Søren_Gade,Søren Gade,Socialdemokratiet,7
+Favrskov,1,Hadsten Nord,A_Grethe_Villadsen,Grethe Villadsen,Socialdemokratiet,22
+Favrskov,1,Hadsten Nord,A_Niels_Flade_Nielsen,Niels Flade Nielsen,Socialdemokratiet,2
+Favrskov,1,Hadsten Nord,A_Kristoffer_Merrild,Kristoffer Merrild,Socialdemokratiet,4
+Favrskov,1,Hadsten Nord,A_Maria_Degn,Maria Degn,Socialdemokratiet,8
+Favrskov,1,Hadsten Nord,A_Steen_Thomasen,Steen Thomasen,Socialdemokratiet,2
+Favrskov,1,Hadsten Nord,A_Kim_Hedegaard,Kim Hedegaard,Socialdemokratiet,19
+Favrskov,1,Hadsten Nord,A_Erik_Særkjær,Erik Særkjær,Socialdemokratiet,11
+Favrskov,1,Hadsten Nord,A_Martin_Hager_Andersen,Martin Hager Andersen,Socialdemokratiet,3
+Favrskov,1,Hadsten Nord,B_Listestemmer,Listestemmer,Radikale Venstre,26
+Favrskov,1,Hadsten Nord,"B_Torben_Christensen,_Foldby","Torben Christensen, Foldby",Radikale Venstre,33
+Favrskov,1,Hadsten Nord,"B_Pet_Petersen,_Hadsten","Pet Petersen, Hadsten",Radikale Venstre,69
+Favrskov,1,Hadsten Nord,"B_Bassam_El-Daoud,_Voldby","Bassam El-Daoud, Voldby",Radikale Venstre,0
+Favrskov,1,Hadsten Nord,"B_Peter_Enevoldsen,_Laurbjerg","Peter Enevoldsen, Laurbjerg",Radikale Venstre,1
+Favrskov,1,Hadsten Nord,"B_Rasmus_Grønborg_Jakobsen,_Hinnerup","Rasmus Grønborg Jakobsen, Hinnerup",Radikale Venstre,21
+Favrskov,1,Hadsten Nord,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,110
+Favrskov,1,Hadsten Nord,C_Lars_Storgaard,Lars Storgaard,Det Konservative Folkeparti,58
+Favrskov,1,Hadsten Nord,C_Charlotte_Green,Charlotte Green,Det Konservative Folkeparti,73
+Favrskov,1,Hadsten Nord,C_Niels_Chr._Selchau-Mark,Niels Chr. Selchau-Mark,Det Konservative Folkeparti,294
+Favrskov,1,Hadsten Nord,C_René_Schneider,René Schneider,Det Konservative Folkeparti,71
+Favrskov,1,Hadsten Nord,C_Mette_Nøhr,Mette Nøhr,Det Konservative Folkeparti,33
+Favrskov,1,Hadsten Nord,C_Anne-Sophie_Schjønning_Eriksen,Anne-Sophie Schjønning Eriksen,Det Konservative Folkeparti,21
+Favrskov,1,Hadsten Nord,C_Lene_Guldbrandt,Lene Guldbrandt,Det Konservative Folkeparti,10
+Favrskov,1,Hadsten Nord,C_Flemming_Aaen_Jensen,Flemming Aaen Jensen,Det Konservative Folkeparti,17
+Favrskov,1,Hadsten Nord,C_Jesper_B._Poulsen,Jesper B. Poulsen,Det Konservative Folkeparti,8
+Favrskov,1,Hadsten Nord,C_Knud_Schøler,Knud Schøler,Det Konservative Folkeparti,4
+Favrskov,1,Hadsten Nord,C_Tommy_Højer,Tommy Højer,Det Konservative Folkeparti,2
+Favrskov,1,Hadsten Nord,D_Listestemmer,Listestemmer,Nye Borgerlige,42
+Favrskov,1,Hadsten Nord,D_Erling_Høj_Sørensen,Erling Høj Sørensen,Nye Borgerlige,17
+Favrskov,1,Hadsten Nord,D_Hanne_Gram,Hanne Gram,Nye Borgerlige,14
+Favrskov,1,Hadsten Nord,D_Benny_B._Jensen,Benny B. Jensen,Nye Borgerlige,17
+Favrskov,1,Hadsten Nord,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,42
+Favrskov,1,Hadsten Nord,"F_Søren_Frandsen,_Grundfør","Søren Frandsen, Grundfør",SF - Socialistisk Folkeparti,13
+Favrskov,1,Hadsten Nord,"F_Søren_Lahn_Sloth,_Hinnerup","Søren Lahn Sloth, Hinnerup",SF - Socialistisk Folkeparti,13
+Favrskov,1,Hadsten Nord,"F_Laila_Jerming_Graf,_Sall","Laila Jerming Graf, Sall",SF - Socialistisk Folkeparti,9
+Favrskov,1,Hadsten Nord,"F_Chr._Kreiberg_Møller,_Hinnerup","Chr. Kreiberg Møller, Hinnerup",SF - Socialistisk Folkeparti,1
+Favrskov,1,Hadsten Nord,"F_Henriette_Stein_Knudsen,_Hadsten","Henriette Stein Knudsen, Hadsten",SF - Socialistisk Folkeparti,32
+Favrskov,1,Hadsten Nord,"F_Else_Marie_Frandsen,_Grundfør","Else Marie Frandsen, Grundfør",SF - Socialistisk Folkeparti,0
+Favrskov,1,Hadsten Nord,I_Listestemmer,Listestemmer,Liberal Alliance,9
+Favrskov,1,Hadsten Nord,I_Nicolai_Wang,Nicolai Wang,Liberal Alliance,30
+Favrskov,1,Hadsten Nord,I_Lisa_Perkins,Lisa Perkins,Liberal Alliance,3
+Favrskov,1,Hadsten Nord,L_Listestemmer,Listestemmer,Samlingspartiet Favrskov,4
+Favrskov,1,Hadsten Nord,"L_Bo_Berger,_Hammel","Bo Berger, Hammel",Samlingspartiet Favrskov,1
+Favrskov,1,Hadsten Nord,"L_Kasper_Kay_Petersen,_Hadsten","Kasper Kay Petersen, Hadsten",Samlingspartiet Favrskov,72
+Favrskov,1,Hadsten Nord,O_Listestemmer,Listestemmer,Dansk Folkeparti,47
+Favrskov,1,Hadsten Nord,O_Mercedes_Czank,Mercedes Czank,Dansk Folkeparti,20
+Favrskov,1,Hadsten Nord,O_Eva_Damsgaard,Eva Damsgaard,Dansk Folkeparti,46
+Favrskov,1,Hadsten Nord,O_Ove_Nørlem,Ove Nørlem,Dansk Folkeparti,3
+Favrskov,1,Hadsten Nord,O_Svend_Kjeldsen,Svend Kjeldsen,Dansk Folkeparti,3
+Favrskov,1,Hadsten Nord,O_Kjeld_Jensen,Kjeld Jensen,Dansk Folkeparti,2
+Favrskov,1,Hadsten Nord,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",107
+Favrskov,1,Hadsten Nord,V_Birgit_Liin,Birgit Liin,"Venstre, Danmarks Liberale Parti",153
+Favrskov,1,Hadsten Nord,V_Flemming_Nørgaard,Flemming Nørgaard,"Venstre, Danmarks Liberale Parti",21
+Favrskov,1,Hadsten Nord,V_Hanne_Smedegaard,Hanne Smedegaard,"Venstre, Danmarks Liberale Parti",14
+Favrskov,1,Hadsten Nord,V_Thomas_Storm,Thomas Storm,"Venstre, Danmarks Liberale Parti",4
+Favrskov,1,Hadsten Nord,V_Lone_Glarbo,Lone Glarbo,"Venstre, Danmarks Liberale Parti",9
+Favrskov,1,Hadsten Nord,V_Ken_Richter,Ken Richter,"Venstre, Danmarks Liberale Parti",6
+Favrskov,1,Hadsten Nord,V_Christian_Møller-Nielsen,Christian Møller-Nielsen,"Venstre, Danmarks Liberale Parti",4
+Favrskov,1,Hadsten Nord,V_Morten_Bang,Morten Bang,"Venstre, Danmarks Liberale Parti",28
+Favrskov,1,Hadsten Nord,V_Birgit_Bach-Valeur,Birgit Bach-Valeur,"Venstre, Danmarks Liberale Parti",5
+Favrskov,1,Hadsten Nord,V_Simon_Buus_Olsen,Simon Buus Olsen,"Venstre, Danmarks Liberale Parti",129
+Favrskov,1,Hadsten Nord,V_Michael_Jensen,Michael Jensen,"Venstre, Danmarks Liberale Parti",62
+Favrskov,1,Hadsten Nord,V_Santana_Marie_Malling,Santana Marie Malling,"Venstre, Danmarks Liberale Parti",3
+Favrskov,1,Hadsten Nord,V_Flemming_Kragh_Thomassen,Flemming Kragh Thomassen,"Venstre, Danmarks Liberale Parti",16
+Favrskov,1,Hadsten Nord,V_Gert_Jensen,Gert Jensen,"Venstre, Danmarks Liberale Parti",52
+Favrskov,1,Hadsten Nord,V_Orla_Nielsen,Orla Nielsen,"Venstre, Danmarks Liberale Parti",1
+Favrskov,1,Hadsten Nord,V_Susanne_Rokkjær,Susanne Rokkjær,"Venstre, Danmarks Liberale Parti",27
+Favrskov,1,Hadsten Nord,V_Arne_Bay_Madsen,Arne Bay Madsen,"Venstre, Danmarks Liberale Parti",2
+Favrskov,1,Hadsten Nord,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,69
+Favrskov,1,Hadsten Nord,"Ø_Thake_Fogh_Cordt,_Skjød","Thake Fogh Cordt, Skjød",Enhedslisten - De Rød-Grønne,12
+Favrskov,1,Hadsten Nord,"Ø_Bodil_K._Olsen,_Houlbjerg","Bodil K. Olsen, Houlbjerg",Enhedslisten - De Rød-Grønne,15
+Favrskov,1,Hadsten Nord,"Ø_Peder_Meyhoff,_Hinnerup","Peder Meyhoff, Hinnerup",Enhedslisten - De Rød-Grønne,12
+Favrskov,1,Hadsten Nord,"Ø_Heidbra_Jonsdottir,_Hadsten","Heidbra Jonsdottir, Hadsten",Enhedslisten - De Rød-Grønne,12
+Favrskov,1,Hadsten Nord,"Ø_Aksel_Madsen,_Hinnerup","Aksel Madsen, Hinnerup",Enhedslisten - De Rød-Grønne,3
+Favrskov,1,Hadsten Nord,"Ø_Maria_Strunge_Sørensen,_Laurbjerg","Maria Strunge Sørensen, Laurbjerg",Enhedslisten - De Rød-Grønne,27
+Favrskov,1,Hadsten Nord,"Ø_Clément_Blain,_Laurbjerg","Clément Blain, Laurbjerg",Enhedslisten - De Rød-Grønne,2
+Favrskov,1,Hadsten Nord,"Ø_Per_Holm_Knudsen,_Hammel","Per Holm Knudsen, Hammel",Enhedslisten - De Rød-Grønne,2
+Favrskov,1,Hadsten Nord,"Ø_Bendt_Lund_Nielsen,_Hammel","Bendt Lund Nielsen, Hammel",Enhedslisten - De Rød-Grønne,1
+Favrskov,2,Hadsten Syd,A_Listestemmer,Listestemmer,Socialdemokratiet,146
+Favrskov,2,Hadsten Syd,A_Nils_Borring,Nils Borring,Socialdemokratiet,385
+Favrskov,2,Hadsten Syd,A_Isabell_Friis_Madsen,Isabell Friis Madsen,Socialdemokratiet,109
+Favrskov,2,Hadsten Syd,A_Erling_Kvist_Andersen,Erling Kvist Andersen,Socialdemokratiet,12
+Favrskov,2,Hadsten Syd,A_Lone_Boye,Lone Boye,Socialdemokratiet,0
+Favrskov,2,Hadsten Syd,A_Gitte_Lynderup_Lauritsen,Gitte Lynderup Lauritsen,Socialdemokratiet,9
+Favrskov,2,Hadsten Syd,A_Rikke_Randrup_Skåning,Rikke Randrup Skåning,Socialdemokratiet,31
+Favrskov,2,Hadsten Syd,A_Søren_Gade,Søren Gade,Socialdemokratiet,2
+Favrskov,2,Hadsten Syd,A_Grethe_Villadsen,Grethe Villadsen,Socialdemokratiet,31
+Favrskov,2,Hadsten Syd,A_Niels_Flade_Nielsen,Niels Flade Nielsen,Socialdemokratiet,4
+Favrskov,2,Hadsten Syd,A_Kristoffer_Merrild,Kristoffer Merrild,Socialdemokratiet,9
+Favrskov,2,Hadsten Syd,A_Maria_Degn,Maria Degn,Socialdemokratiet,5
+Favrskov,2,Hadsten Syd,A_Steen_Thomasen,Steen Thomasen,Socialdemokratiet,2
+Favrskov,2,Hadsten Syd,A_Kim_Hedegaard,Kim Hedegaard,Socialdemokratiet,33
+Favrskov,2,Hadsten Syd,A_Erik_Særkjær,Erik Særkjær,Socialdemokratiet,8
+Favrskov,2,Hadsten Syd,A_Martin_Hager_Andersen,Martin Hager Andersen,Socialdemokratiet,2
+Favrskov,2,Hadsten Syd,B_Listestemmer,Listestemmer,Radikale Venstre,25
+Favrskov,2,Hadsten Syd,"B_Torben_Christensen,_Foldby","Torben Christensen, Foldby",Radikale Venstre,12
+Favrskov,2,Hadsten Syd,"B_Pet_Petersen,_Hadsten","Pet Petersen, Hadsten",Radikale Venstre,82
+Favrskov,2,Hadsten Syd,"B_Bassam_El-Daoud,_Voldby","Bassam El-Daoud, Voldby",Radikale Venstre,0
+Favrskov,2,Hadsten Syd,"B_Peter_Enevoldsen,_Laurbjerg","Peter Enevoldsen, Laurbjerg",Radikale Venstre,2
+Favrskov,2,Hadsten Syd,"B_Rasmus_Grønborg_Jakobsen,_Hinnerup","Rasmus Grønborg Jakobsen, Hinnerup",Radikale Venstre,18
+Favrskov,2,Hadsten Syd,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,74
+Favrskov,2,Hadsten Syd,C_Lars_Storgaard,Lars Storgaard,Det Konservative Folkeparti,37
+Favrskov,2,Hadsten Syd,C_Charlotte_Green,Charlotte Green,Det Konservative Folkeparti,38
+Favrskov,2,Hadsten Syd,C_Niels_Chr._Selchau-Mark,Niels Chr. Selchau-Mark,Det Konservative Folkeparti,154
+Favrskov,2,Hadsten Syd,C_René_Schneider,René Schneider,Det Konservative Folkeparti,146
+Favrskov,2,Hadsten Syd,C_Mette_Nøhr,Mette Nøhr,Det Konservative Folkeparti,29
+Favrskov,2,Hadsten Syd,C_Anne-Sophie_Schjønning_Eriksen,Anne-Sophie Schjønning Eriksen,Det Konservative Folkeparti,21
+Favrskov,2,Hadsten Syd,C_Lene_Guldbrandt,Lene Guldbrandt,Det Konservative Folkeparti,9
+Favrskov,2,Hadsten Syd,C_Flemming_Aaen_Jensen,Flemming Aaen Jensen,Det Konservative Folkeparti,25
+Favrskov,2,Hadsten Syd,C_Jesper_B._Poulsen,Jesper B. Poulsen,Det Konservative Folkeparti,5
+Favrskov,2,Hadsten Syd,C_Knud_Schøler,Knud Schøler,Det Konservative Folkeparti,2
+Favrskov,2,Hadsten Syd,C_Tommy_Højer,Tommy Højer,Det Konservative Folkeparti,5
+Favrskov,2,Hadsten Syd,D_Listestemmer,Listestemmer,Nye Borgerlige,35
+Favrskov,2,Hadsten Syd,D_Erling_Høj_Sørensen,Erling Høj Sørensen,Nye Borgerlige,16
+Favrskov,2,Hadsten Syd,D_Hanne_Gram,Hanne Gram,Nye Borgerlige,4
+Favrskov,2,Hadsten Syd,D_Benny_B._Jensen,Benny B. Jensen,Nye Borgerlige,16
+Favrskov,2,Hadsten Syd,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,23
+Favrskov,2,Hadsten Syd,"F_Søren_Frandsen,_Grundfør","Søren Frandsen, Grundfør",SF - Socialistisk Folkeparti,11
+Favrskov,2,Hadsten Syd,"F_Søren_Lahn_Sloth,_Hinnerup","Søren Lahn Sloth, Hinnerup",SF - Socialistisk Folkeparti,12
+Favrskov,2,Hadsten Syd,"F_Laila_Jerming_Graf,_Sall","Laila Jerming Graf, Sall",SF - Socialistisk Folkeparti,7
+Favrskov,2,Hadsten Syd,"F_Chr._Kreiberg_Møller,_Hinnerup","Chr. Kreiberg Møller, Hinnerup",SF - Socialistisk Folkeparti,2
+Favrskov,2,Hadsten Syd,"F_Henriette_Stein_Knudsen,_Hadsten","Henriette Stein Knudsen, Hadsten",SF - Socialistisk Folkeparti,13
+Favrskov,2,Hadsten Syd,"F_Else_Marie_Frandsen,_Grundfør","Else Marie Frandsen, Grundfør",SF - Socialistisk Folkeparti,0
+Favrskov,2,Hadsten Syd,I_Listestemmer,Listestemmer,Liberal Alliance,6
+Favrskov,2,Hadsten Syd,I_Nicolai_Wang,Nicolai Wang,Liberal Alliance,15
+Favrskov,2,Hadsten Syd,I_Lisa_Perkins,Lisa Perkins,Liberal Alliance,0
+Favrskov,2,Hadsten Syd,L_Listestemmer,Listestemmer,Samlingspartiet Favrskov,0
+Favrskov,2,Hadsten Syd,"L_Bo_Berger,_Hammel","Bo Berger, Hammel",Samlingspartiet Favrskov,0
+Favrskov,2,Hadsten Syd,"L_Kasper_Kay_Petersen,_Hadsten","Kasper Kay Petersen, Hadsten",Samlingspartiet Favrskov,17
+Favrskov,2,Hadsten Syd,O_Listestemmer,Listestemmer,Dansk Folkeparti,22
+Favrskov,2,Hadsten Syd,O_Mercedes_Czank,Mercedes Czank,Dansk Folkeparti,15
+Favrskov,2,Hadsten Syd,O_Eva_Damsgaard,Eva Damsgaard,Dansk Folkeparti,20
+Favrskov,2,Hadsten Syd,O_Ove_Nørlem,Ove Nørlem,Dansk Folkeparti,2
+Favrskov,2,Hadsten Syd,O_Svend_Kjeldsen,Svend Kjeldsen,Dansk Folkeparti,1
+Favrskov,2,Hadsten Syd,O_Kjeld_Jensen,Kjeld Jensen,Dansk Folkeparti,0
+Favrskov,2,Hadsten Syd,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",88
+Favrskov,2,Hadsten Syd,V_Birgit_Liin,Birgit Liin,"Venstre, Danmarks Liberale Parti",101
+Favrskov,2,Hadsten Syd,V_Flemming_Nørgaard,Flemming Nørgaard,"Venstre, Danmarks Liberale Parti",13
+Favrskov,2,Hadsten Syd,V_Hanne_Smedegaard,Hanne Smedegaard,"Venstre, Danmarks Liberale Parti",9
+Favrskov,2,Hadsten Syd,V_Thomas_Storm,Thomas Storm,"Venstre, Danmarks Liberale Parti",4
+Favrskov,2,Hadsten Syd,V_Lone_Glarbo,Lone Glarbo,"Venstre, Danmarks Liberale Parti",11
+Favrskov,2,Hadsten Syd,V_Ken_Richter,Ken Richter,"Venstre, Danmarks Liberale Parti",0
+Favrskov,2,Hadsten Syd,V_Christian_Møller-Nielsen,Christian Møller-Nielsen,"Venstre, Danmarks Liberale Parti",11
+Favrskov,2,Hadsten Syd,V_Morten_Bang,Morten Bang,"Venstre, Danmarks Liberale Parti",16
+Favrskov,2,Hadsten Syd,V_Birgit_Bach-Valeur,Birgit Bach-Valeur,"Venstre, Danmarks Liberale Parti",3
+Favrskov,2,Hadsten Syd,V_Simon_Buus_Olsen,Simon Buus Olsen,"Venstre, Danmarks Liberale Parti",73
+Favrskov,2,Hadsten Syd,V_Michael_Jensen,Michael Jensen,"Venstre, Danmarks Liberale Parti",22
+Favrskov,2,Hadsten Syd,V_Santana_Marie_Malling,Santana Marie Malling,"Venstre, Danmarks Liberale Parti",3
+Favrskov,2,Hadsten Syd,V_Flemming_Kragh_Thomassen,Flemming Kragh Thomassen,"Venstre, Danmarks Liberale Parti",12
+Favrskov,2,Hadsten Syd,V_Gert_Jensen,Gert Jensen,"Venstre, Danmarks Liberale Parti",13
+Favrskov,2,Hadsten Syd,V_Orla_Nielsen,Orla Nielsen,"Venstre, Danmarks Liberale Parti",1
+Favrskov,2,Hadsten Syd,V_Susanne_Rokkjær,Susanne Rokkjær,"Venstre, Danmarks Liberale Parti",8
+Favrskov,2,Hadsten Syd,V_Arne_Bay_Madsen,Arne Bay Madsen,"Venstre, Danmarks Liberale Parti",1
+Favrskov,2,Hadsten Syd,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,35
+Favrskov,2,Hadsten Syd,"Ø_Thake_Fogh_Cordt,_Skjød","Thake Fogh Cordt, Skjød",Enhedslisten - De Rød-Grønne,16
+Favrskov,2,Hadsten Syd,"Ø_Bodil_K._Olsen,_Houlbjerg","Bodil K. Olsen, Houlbjerg",Enhedslisten - De Rød-Grønne,6
+Favrskov,2,Hadsten Syd,"Ø_Peder_Meyhoff,_Hinnerup","Peder Meyhoff, Hinnerup",Enhedslisten - De Rød-Grønne,6
+Favrskov,2,Hadsten Syd,"Ø_Heidbra_Jonsdottir,_Hadsten","Heidbra Jonsdottir, Hadsten",Enhedslisten - De Rød-Grønne,7
+Favrskov,2,Hadsten Syd,"Ø_Aksel_Madsen,_Hinnerup","Aksel Madsen, Hinnerup",Enhedslisten - De Rød-Grønne,0
+Favrskov,2,Hadsten Syd,"Ø_Maria_Strunge_Sørensen,_Laurbjerg","Maria Strunge Sørensen, Laurbjerg",Enhedslisten - De Rød-Grønne,11
+Favrskov,2,Hadsten Syd,"Ø_Clément_Blain,_Laurbjerg","Clément Blain, Laurbjerg",Enhedslisten - De Rød-Grønne,4
+Favrskov,2,Hadsten Syd,"Ø_Per_Holm_Knudsen,_Hammel","Per Holm Knudsen, Hammel",Enhedslisten - De Rød-Grønne,0
+Favrskov,2,Hadsten Syd,"Ø_Bendt_Lund_Nielsen,_Hammel","Bendt Lund Nielsen, Hammel",Enhedslisten - De Rød-Grønne,0
+Favrskov,3,Hadbjerg,A_Listestemmer,Listestemmer,Socialdemokratiet,69
+Favrskov,3,Hadbjerg,A_Nils_Borring,Nils Borring,Socialdemokratiet,135
+Favrskov,3,Hadbjerg,A_Isabell_Friis_Madsen,Isabell Friis Madsen,Socialdemokratiet,36
+Favrskov,3,Hadbjerg,A_Erling_Kvist_Andersen,Erling Kvist Andersen,Socialdemokratiet,3
+Favrskov,3,Hadbjerg,A_Lone_Boye,Lone Boye,Socialdemokratiet,7
+Favrskov,3,Hadbjerg,A_Gitte_Lynderup_Lauritsen,Gitte Lynderup Lauritsen,Socialdemokratiet,1
+Favrskov,3,Hadbjerg,A_Rikke_Randrup_Skåning,Rikke Randrup Skåning,Socialdemokratiet,195
+Favrskov,3,Hadbjerg,A_Søren_Gade,Søren Gade,Socialdemokratiet,5
+Favrskov,3,Hadbjerg,A_Grethe_Villadsen,Grethe Villadsen,Socialdemokratiet,7
+Favrskov,3,Hadbjerg,A_Niels_Flade_Nielsen,Niels Flade Nielsen,Socialdemokratiet,2
+Favrskov,3,Hadbjerg,A_Kristoffer_Merrild,Kristoffer Merrild,Socialdemokratiet,4
+Favrskov,3,Hadbjerg,A_Maria_Degn,Maria Degn,Socialdemokratiet,0
+Favrskov,3,Hadbjerg,A_Steen_Thomasen,Steen Thomasen,Socialdemokratiet,0
+Favrskov,3,Hadbjerg,A_Kim_Hedegaard,Kim Hedegaard,Socialdemokratiet,2
+Favrskov,3,Hadbjerg,A_Erik_Særkjær,Erik Særkjær,Socialdemokratiet,2
+Favrskov,3,Hadbjerg,A_Martin_Hager_Andersen,Martin Hager Andersen,Socialdemokratiet,0
+Favrskov,3,Hadbjerg,B_Listestemmer,Listestemmer,Radikale Venstre,8
+Favrskov,3,Hadbjerg,"B_Torben_Christensen,_Foldby","Torben Christensen, Foldby",Radikale Venstre,6
+Favrskov,3,Hadbjerg,"B_Pet_Petersen,_Hadsten","Pet Petersen, Hadsten",Radikale Venstre,15
+Favrskov,3,Hadbjerg,"B_Bassam_El-Daoud,_Voldby","Bassam El-Daoud, Voldby",Radikale Venstre,0
+Favrskov,3,Hadbjerg,"B_Peter_Enevoldsen,_Laurbjerg","Peter Enevoldsen, Laurbjerg",Radikale Venstre,0
+Favrskov,3,Hadbjerg,"B_Rasmus_Grønborg_Jakobsen,_Hinnerup","Rasmus Grønborg Jakobsen, Hinnerup",Radikale Venstre,7
+Favrskov,3,Hadbjerg,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,52
+Favrskov,3,Hadbjerg,C_Lars_Storgaard,Lars Storgaard,Det Konservative Folkeparti,22
+Favrskov,3,Hadbjerg,C_Charlotte_Green,Charlotte Green,Det Konservative Folkeparti,28
+Favrskov,3,Hadbjerg,C_Niels_Chr._Selchau-Mark,Niels Chr. Selchau-Mark,Det Konservative Folkeparti,79
+Favrskov,3,Hadbjerg,C_René_Schneider,René Schneider,Det Konservative Folkeparti,28
+Favrskov,3,Hadbjerg,C_Mette_Nøhr,Mette Nøhr,Det Konservative Folkeparti,13
+Favrskov,3,Hadbjerg,C_Anne-Sophie_Schjønning_Eriksen,Anne-Sophie Schjønning Eriksen,Det Konservative Folkeparti,47
+Favrskov,3,Hadbjerg,C_Lene_Guldbrandt,Lene Guldbrandt,Det Konservative Folkeparti,4
+Favrskov,3,Hadbjerg,C_Flemming_Aaen_Jensen,Flemming Aaen Jensen,Det Konservative Folkeparti,1
+Favrskov,3,Hadbjerg,C_Jesper_B._Poulsen,Jesper B. Poulsen,Det Konservative Folkeparti,3
+Favrskov,3,Hadbjerg,C_Knud_Schøler,Knud Schøler,Det Konservative Folkeparti,1
+Favrskov,3,Hadbjerg,C_Tommy_Højer,Tommy Højer,Det Konservative Folkeparti,1
+Favrskov,3,Hadbjerg,D_Listestemmer,Listestemmer,Nye Borgerlige,27
+Favrskov,3,Hadbjerg,D_Erling_Høj_Sørensen,Erling Høj Sørensen,Nye Borgerlige,17
+Favrskov,3,Hadbjerg,D_Hanne_Gram,Hanne Gram,Nye Borgerlige,4
+Favrskov,3,Hadbjerg,D_Benny_B._Jensen,Benny B. Jensen,Nye Borgerlige,14
+Favrskov,3,Hadbjerg,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,15
+Favrskov,3,Hadbjerg,"F_Søren_Frandsen,_Grundfør","Søren Frandsen, Grundfør",SF - Socialistisk Folkeparti,3
+Favrskov,3,Hadbjerg,"F_Søren_Lahn_Sloth,_Hinnerup","Søren Lahn Sloth, Hinnerup",SF - Socialistisk Folkeparti,5
+Favrskov,3,Hadbjerg,"F_Laila_Jerming_Graf,_Sall","Laila Jerming Graf, Sall",SF - Socialistisk Folkeparti,1
+Favrskov,3,Hadbjerg,"F_Chr._Kreiberg_Møller,_Hinnerup","Chr. Kreiberg Møller, Hinnerup",SF - Socialistisk Folkeparti,0
+Favrskov,3,Hadbjerg,"F_Henriette_Stein_Knudsen,_Hadsten","Henriette Stein Knudsen, Hadsten",SF - Socialistisk Folkeparti,3
+Favrskov,3,Hadbjerg,"F_Else_Marie_Frandsen,_Grundfør","Else Marie Frandsen, Grundfør",SF - Socialistisk Folkeparti,2
+Favrskov,3,Hadbjerg,I_Listestemmer,Listestemmer,Liberal Alliance,3
+Favrskov,3,Hadbjerg,I_Nicolai_Wang,Nicolai Wang,Liberal Alliance,5
+Favrskov,3,Hadbjerg,I_Lisa_Perkins,Lisa Perkins,Liberal Alliance,3
+Favrskov,3,Hadbjerg,L_Listestemmer,Listestemmer,Samlingspartiet Favrskov,1
+Favrskov,3,Hadbjerg,"L_Bo_Berger,_Hammel","Bo Berger, Hammel",Samlingspartiet Favrskov,0
+Favrskov,3,Hadbjerg,"L_Kasper_Kay_Petersen,_Hadsten","Kasper Kay Petersen, Hadsten",Samlingspartiet Favrskov,15
+Favrskov,3,Hadbjerg,O_Listestemmer,Listestemmer,Dansk Folkeparti,11
+Favrskov,3,Hadbjerg,O_Mercedes_Czank,Mercedes Czank,Dansk Folkeparti,18
+Favrskov,3,Hadbjerg,O_Eva_Damsgaard,Eva Damsgaard,Dansk Folkeparti,6
+Favrskov,3,Hadbjerg,O_Ove_Nørlem,Ove Nørlem,Dansk Folkeparti,3
+Favrskov,3,Hadbjerg,O_Svend_Kjeldsen,Svend Kjeldsen,Dansk Folkeparti,0
+Favrskov,3,Hadbjerg,O_Kjeld_Jensen,Kjeld Jensen,Dansk Folkeparti,1
+Favrskov,3,Hadbjerg,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",43
+Favrskov,3,Hadbjerg,V_Birgit_Liin,Birgit Liin,"Venstre, Danmarks Liberale Parti",52
+Favrskov,3,Hadbjerg,V_Flemming_Nørgaard,Flemming Nørgaard,"Venstre, Danmarks Liberale Parti",6
+Favrskov,3,Hadbjerg,V_Hanne_Smedegaard,Hanne Smedegaard,"Venstre, Danmarks Liberale Parti",9
+Favrskov,3,Hadbjerg,V_Thomas_Storm,Thomas Storm,"Venstre, Danmarks Liberale Parti",3
+Favrskov,3,Hadbjerg,V_Lone_Glarbo,Lone Glarbo,"Venstre, Danmarks Liberale Parti",4
+Favrskov,3,Hadbjerg,V_Ken_Richter,Ken Richter,"Venstre, Danmarks Liberale Parti",1
+Favrskov,3,Hadbjerg,V_Christian_Møller-Nielsen,Christian Møller-Nielsen,"Venstre, Danmarks Liberale Parti",1
+Favrskov,3,Hadbjerg,V_Morten_Bang,Morten Bang,"Venstre, Danmarks Liberale Parti",6
+Favrskov,3,Hadbjerg,V_Birgit_Bach-Valeur,Birgit Bach-Valeur,"Venstre, Danmarks Liberale Parti",0
+Favrskov,3,Hadbjerg,V_Simon_Buus_Olsen,Simon Buus Olsen,"Venstre, Danmarks Liberale Parti",115
+Favrskov,3,Hadbjerg,V_Michael_Jensen,Michael Jensen,"Venstre, Danmarks Liberale Parti",1
+Favrskov,3,Hadbjerg,V_Santana_Marie_Malling,Santana Marie Malling,"Venstre, Danmarks Liberale Parti",0
+Favrskov,3,Hadbjerg,V_Flemming_Kragh_Thomassen,Flemming Kragh Thomassen,"Venstre, Danmarks Liberale Parti",3
+Favrskov,3,Hadbjerg,V_Gert_Jensen,Gert Jensen,"Venstre, Danmarks Liberale Parti",5
+Favrskov,3,Hadbjerg,V_Orla_Nielsen,Orla Nielsen,"Venstre, Danmarks Liberale Parti",1
+Favrskov,3,Hadbjerg,V_Susanne_Rokkjær,Susanne Rokkjær,"Venstre, Danmarks Liberale Parti",3
+Favrskov,3,Hadbjerg,V_Arne_Bay_Madsen,Arne Bay Madsen,"Venstre, Danmarks Liberale Parti",0
+Favrskov,3,Hadbjerg,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,23
+Favrskov,3,Hadbjerg,"Ø_Thake_Fogh_Cordt,_Skjød","Thake Fogh Cordt, Skjød",Enhedslisten - De Rød-Grønne,1
+Favrskov,3,Hadbjerg,"Ø_Bodil_K._Olsen,_Houlbjerg","Bodil K. Olsen, Houlbjerg",Enhedslisten - De Rød-Grønne,1
+Favrskov,3,Hadbjerg,"Ø_Peder_Meyhoff,_Hinnerup","Peder Meyhoff, Hinnerup",Enhedslisten - De Rød-Grønne,2
+Favrskov,3,Hadbjerg,"Ø_Heidbra_Jonsdottir,_Hadsten","Heidbra Jonsdottir, Hadsten",Enhedslisten - De Rød-Grønne,3
+Favrskov,3,Hadbjerg,"Ø_Aksel_Madsen,_Hinnerup","Aksel Madsen, Hinnerup",Enhedslisten - De Rød-Grønne,0
+Favrskov,3,Hadbjerg,"Ø_Maria_Strunge_Sørensen,_Laurbjerg","Maria Strunge Sørensen, Laurbjerg",Enhedslisten - De Rød-Grønne,11
+Favrskov,3,Hadbjerg,"Ø_Clément_Blain,_Laurbjerg","Clément Blain, Laurbjerg",Enhedslisten - De Rød-Grønne,0
+Favrskov,3,Hadbjerg,"Ø_Per_Holm_Knudsen,_Hammel","Per Holm Knudsen, Hammel",Enhedslisten - De Rød-Grønne,0
+Favrskov,3,Hadbjerg,"Ø_Bendt_Lund_Nielsen,_Hammel","Bendt Lund Nielsen, Hammel",Enhedslisten - De Rød-Grønne,0
+Favrskov,4,Hammel Nord,A_Listestemmer,Listestemmer,Socialdemokratiet,232
+Favrskov,4,Hammel Nord,A_Nils_Borring,Nils Borring,Socialdemokratiet,1361
+Favrskov,4,Hammel Nord,A_Isabell_Friis_Madsen,Isabell Friis Madsen,Socialdemokratiet,36
+Favrskov,4,Hammel Nord,A_Erling_Kvist_Andersen,Erling Kvist Andersen,Socialdemokratiet,6
+Favrskov,4,Hammel Nord,A_Lone_Boye,Lone Boye,Socialdemokratiet,151
+Favrskov,4,Hammel Nord,A_Gitte_Lynderup_Lauritsen,Gitte Lynderup Lauritsen,Socialdemokratiet,11
+Favrskov,4,Hammel Nord,A_Rikke_Randrup_Skåning,Rikke Randrup Skåning,Socialdemokratiet,25
+Favrskov,4,Hammel Nord,A_Søren_Gade,Søren Gade,Socialdemokratiet,4
+Favrskov,4,Hammel Nord,A_Grethe_Villadsen,Grethe Villadsen,Socialdemokratiet,4
+Favrskov,4,Hammel Nord,A_Niels_Flade_Nielsen,Niels Flade Nielsen,Socialdemokratiet,69
+Favrskov,4,Hammel Nord,A_Kristoffer_Merrild,Kristoffer Merrild,Socialdemokratiet,8
+Favrskov,4,Hammel Nord,A_Maria_Degn,Maria Degn,Socialdemokratiet,86
+Favrskov,4,Hammel Nord,A_Steen_Thomasen,Steen Thomasen,Socialdemokratiet,2
+Favrskov,4,Hammel Nord,A_Kim_Hedegaard,Kim Hedegaard,Socialdemokratiet,1
+Favrskov,4,Hammel Nord,A_Erik_Særkjær,Erik Særkjær,Socialdemokratiet,49
+Favrskov,4,Hammel Nord,A_Martin_Hager_Andersen,Martin Hager Andersen,Socialdemokratiet,8
+Favrskov,4,Hammel Nord,B_Listestemmer,Listestemmer,Radikale Venstre,29
+Favrskov,4,Hammel Nord,"B_Torben_Christensen,_Foldby","Torben Christensen, Foldby",Radikale Venstre,30
+Favrskov,4,Hammel Nord,"B_Pet_Petersen,_Hadsten","Pet Petersen, Hadsten",Radikale Venstre,13
+Favrskov,4,Hammel Nord,"B_Bassam_El-Daoud,_Voldby","Bassam El-Daoud, Voldby",Radikale Venstre,2
+Favrskov,4,Hammel Nord,"B_Peter_Enevoldsen,_Laurbjerg","Peter Enevoldsen, Laurbjerg",Radikale Venstre,0
+Favrskov,4,Hammel Nord,"B_Rasmus_Grønborg_Jakobsen,_Hinnerup","Rasmus Grønborg Jakobsen, Hinnerup",Radikale Venstre,12
+Favrskov,4,Hammel Nord,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,154
+Favrskov,4,Hammel Nord,C_Lars_Storgaard,Lars Storgaard,Det Konservative Folkeparti,152
+Favrskov,4,Hammel Nord,C_Charlotte_Green,Charlotte Green,Det Konservative Folkeparti,68
+Favrskov,4,Hammel Nord,C_Niels_Chr._Selchau-Mark,Niels Chr. Selchau-Mark,Det Konservative Folkeparti,15
+Favrskov,4,Hammel Nord,C_René_Schneider,René Schneider,Det Konservative Folkeparti,9
+Favrskov,4,Hammel Nord,C_Mette_Nøhr,Mette Nøhr,Det Konservative Folkeparti,480
+Favrskov,4,Hammel Nord,C_Anne-Sophie_Schjønning_Eriksen,Anne-Sophie Schjønning Eriksen,Det Konservative Folkeparti,18
+Favrskov,4,Hammel Nord,C_Lene_Guldbrandt,Lene Guldbrandt,Det Konservative Folkeparti,10
+Favrskov,4,Hammel Nord,C_Flemming_Aaen_Jensen,Flemming Aaen Jensen,Det Konservative Folkeparti,3
+Favrskov,4,Hammel Nord,C_Jesper_B._Poulsen,Jesper B. Poulsen,Det Konservative Folkeparti,8
+Favrskov,4,Hammel Nord,C_Knud_Schøler,Knud Schøler,Det Konservative Folkeparti,2
+Favrskov,4,Hammel Nord,C_Tommy_Højer,Tommy Højer,Det Konservative Folkeparti,17
+Favrskov,4,Hammel Nord,D_Listestemmer,Listestemmer,Nye Borgerlige,58
+Favrskov,4,Hammel Nord,D_Erling_Høj_Sørensen,Erling Høj Sørensen,Nye Borgerlige,25
+Favrskov,4,Hammel Nord,D_Hanne_Gram,Hanne Gram,Nye Borgerlige,12
+Favrskov,4,Hammel Nord,D_Benny_B._Jensen,Benny B. Jensen,Nye Borgerlige,22
+Favrskov,4,Hammel Nord,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,47
+Favrskov,4,Hammel Nord,"F_Søren_Frandsen,_Grundfør","Søren Frandsen, Grundfør",SF - Socialistisk Folkeparti,21
+Favrskov,4,Hammel Nord,"F_Søren_Lahn_Sloth,_Hinnerup","Søren Lahn Sloth, Hinnerup",SF - Socialistisk Folkeparti,26
+Favrskov,4,Hammel Nord,"F_Laila_Jerming_Graf,_Sall","Laila Jerming Graf, Sall",SF - Socialistisk Folkeparti,7
+Favrskov,4,Hammel Nord,"F_Chr._Kreiberg_Møller,_Hinnerup","Chr. Kreiberg Møller, Hinnerup",SF - Socialistisk Folkeparti,0
+Favrskov,4,Hammel Nord,"F_Henriette_Stein_Knudsen,_Hadsten","Henriette Stein Knudsen, Hadsten",SF - Socialistisk Folkeparti,0
+Favrskov,4,Hammel Nord,"F_Else_Marie_Frandsen,_Grundfør","Else Marie Frandsen, Grundfør",SF - Socialistisk Folkeparti,1
+Favrskov,4,Hammel Nord,I_Listestemmer,Listestemmer,Liberal Alliance,6
+Favrskov,4,Hammel Nord,I_Nicolai_Wang,Nicolai Wang,Liberal Alliance,12
+Favrskov,4,Hammel Nord,I_Lisa_Perkins,Lisa Perkins,Liberal Alliance,2
+Favrskov,4,Hammel Nord,L_Listestemmer,Listestemmer,Samlingspartiet Favrskov,4
+Favrskov,4,Hammel Nord,"L_Bo_Berger,_Hammel","Bo Berger, Hammel",Samlingspartiet Favrskov,13
+Favrskov,4,Hammel Nord,"L_Kasper_Kay_Petersen,_Hadsten","Kasper Kay Petersen, Hadsten",Samlingspartiet Favrskov,28
+Favrskov,4,Hammel Nord,O_Listestemmer,Listestemmer,Dansk Folkeparti,42
+Favrskov,4,Hammel Nord,O_Mercedes_Czank,Mercedes Czank,Dansk Folkeparti,60
+Favrskov,4,Hammel Nord,O_Eva_Damsgaard,Eva Damsgaard,Dansk Folkeparti,28
+Favrskov,4,Hammel Nord,O_Ove_Nørlem,Ove Nørlem,Dansk Folkeparti,6
+Favrskov,4,Hammel Nord,O_Svend_Kjeldsen,Svend Kjeldsen,Dansk Folkeparti,2
+Favrskov,4,Hammel Nord,O_Kjeld_Jensen,Kjeld Jensen,Dansk Folkeparti,8
+Favrskov,4,Hammel Nord,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",141
+Favrskov,4,Hammel Nord,V_Birgit_Liin,Birgit Liin,"Venstre, Danmarks Liberale Parti",199
+Favrskov,4,Hammel Nord,V_Flemming_Nørgaard,Flemming Nørgaard,"Venstre, Danmarks Liberale Parti",31
+Favrskov,4,Hammel Nord,V_Hanne_Smedegaard,Hanne Smedegaard,"Venstre, Danmarks Liberale Parti",4
+Favrskov,4,Hammel Nord,V_Thomas_Storm,Thomas Storm,"Venstre, Danmarks Liberale Parti",3
+Favrskov,4,Hammel Nord,V_Lone_Glarbo,Lone Glarbo,"Venstre, Danmarks Liberale Parti",9
+Favrskov,4,Hammel Nord,V_Ken_Richter,Ken Richter,"Venstre, Danmarks Liberale Parti",1
+Favrskov,4,Hammel Nord,V_Christian_Møller-Nielsen,Christian Møller-Nielsen,"Venstre, Danmarks Liberale Parti",103
+Favrskov,4,Hammel Nord,V_Morten_Bang,Morten Bang,"Venstre, Danmarks Liberale Parti",23
+Favrskov,4,Hammel Nord,V_Birgit_Bach-Valeur,Birgit Bach-Valeur,"Venstre, Danmarks Liberale Parti",15
+Favrskov,4,Hammel Nord,V_Simon_Buus_Olsen,Simon Buus Olsen,"Venstre, Danmarks Liberale Parti",3
+Favrskov,4,Hammel Nord,V_Michael_Jensen,Michael Jensen,"Venstre, Danmarks Liberale Parti",1
+Favrskov,4,Hammel Nord,V_Santana_Marie_Malling,Santana Marie Malling,"Venstre, Danmarks Liberale Parti",5
+Favrskov,4,Hammel Nord,V_Flemming_Kragh_Thomassen,Flemming Kragh Thomassen,"Venstre, Danmarks Liberale Parti",13
+Favrskov,4,Hammel Nord,V_Gert_Jensen,Gert Jensen,"Venstre, Danmarks Liberale Parti",6
+Favrskov,4,Hammel Nord,V_Orla_Nielsen,Orla Nielsen,"Venstre, Danmarks Liberale Parti",14
+Favrskov,4,Hammel Nord,V_Susanne_Rokkjær,Susanne Rokkjær,"Venstre, Danmarks Liberale Parti",1
+Favrskov,4,Hammel Nord,V_Arne_Bay_Madsen,Arne Bay Madsen,"Venstre, Danmarks Liberale Parti",7
+Favrskov,4,Hammel Nord,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,95
+Favrskov,4,Hammel Nord,"Ø_Thake_Fogh_Cordt,_Skjød","Thake Fogh Cordt, Skjød",Enhedslisten - De Rød-Grønne,25
+Favrskov,4,Hammel Nord,"Ø_Bodil_K._Olsen,_Houlbjerg","Bodil K. Olsen, Houlbjerg",Enhedslisten - De Rød-Grønne,12
+Favrskov,4,Hammel Nord,"Ø_Peder_Meyhoff,_Hinnerup","Peder Meyhoff, Hinnerup",Enhedslisten - De Rød-Grønne,1
+Favrskov,4,Hammel Nord,"Ø_Heidbra_Jonsdottir,_Hadsten","Heidbra Jonsdottir, Hadsten",Enhedslisten - De Rød-Grønne,1
+Favrskov,4,Hammel Nord,"Ø_Aksel_Madsen,_Hinnerup","Aksel Madsen, Hinnerup",Enhedslisten - De Rød-Grønne,3
+Favrskov,4,Hammel Nord,"Ø_Maria_Strunge_Sørensen,_Laurbjerg","Maria Strunge Sørensen, Laurbjerg",Enhedslisten - De Rød-Grønne,30
+Favrskov,4,Hammel Nord,"Ø_Clément_Blain,_Laurbjerg","Clément Blain, Laurbjerg",Enhedslisten - De Rød-Grønne,5
+Favrskov,4,Hammel Nord,"Ø_Per_Holm_Knudsen,_Hammel","Per Holm Knudsen, Hammel",Enhedslisten - De Rød-Grønne,16
+Favrskov,4,Hammel Nord,"Ø_Bendt_Lund_Nielsen,_Hammel","Bendt Lund Nielsen, Hammel",Enhedslisten - De Rød-Grønne,7
+Favrskov,5,Hammel Syd,A_Listestemmer,Listestemmer,Socialdemokratiet,59
+Favrskov,5,Hammel Syd,A_Nils_Borring,Nils Borring,Socialdemokratiet,229
+Favrskov,5,Hammel Syd,A_Isabell_Friis_Madsen,Isabell Friis Madsen,Socialdemokratiet,6
+Favrskov,5,Hammel Syd,A_Erling_Kvist_Andersen,Erling Kvist Andersen,Socialdemokratiet,4
+Favrskov,5,Hammel Syd,A_Lone_Boye,Lone Boye,Socialdemokratiet,34
+Favrskov,5,Hammel Syd,A_Gitte_Lynderup_Lauritsen,Gitte Lynderup Lauritsen,Socialdemokratiet,4
+Favrskov,5,Hammel Syd,A_Rikke_Randrup_Skåning,Rikke Randrup Skåning,Socialdemokratiet,8
+Favrskov,5,Hammel Syd,A_Søren_Gade,Søren Gade,Socialdemokratiet,4
+Favrskov,5,Hammel Syd,A_Grethe_Villadsen,Grethe Villadsen,Socialdemokratiet,0
+Favrskov,5,Hammel Syd,A_Niels_Flade_Nielsen,Niels Flade Nielsen,Socialdemokratiet,4
+Favrskov,5,Hammel Syd,A_Kristoffer_Merrild,Kristoffer Merrild,Socialdemokratiet,3
+Favrskov,5,Hammel Syd,A_Maria_Degn,Maria Degn,Socialdemokratiet,27
+Favrskov,5,Hammel Syd,A_Steen_Thomasen,Steen Thomasen,Socialdemokratiet,0
+Favrskov,5,Hammel Syd,A_Kim_Hedegaard,Kim Hedegaard,Socialdemokratiet,0
+Favrskov,5,Hammel Syd,A_Erik_Særkjær,Erik Særkjær,Socialdemokratiet,21
+Favrskov,5,Hammel Syd,A_Martin_Hager_Andersen,Martin Hager Andersen,Socialdemokratiet,4
+Favrskov,5,Hammel Syd,B_Listestemmer,Listestemmer,Radikale Venstre,8
+Favrskov,5,Hammel Syd,"B_Torben_Christensen,_Foldby","Torben Christensen, Foldby",Radikale Venstre,6
+Favrskov,5,Hammel Syd,"B_Pet_Petersen,_Hadsten","Pet Petersen, Hadsten",Radikale Venstre,3
+Favrskov,5,Hammel Syd,"B_Bassam_El-Daoud,_Voldby","Bassam El-Daoud, Voldby",Radikale Venstre,4
+Favrskov,5,Hammel Syd,"B_Peter_Enevoldsen,_Laurbjerg","Peter Enevoldsen, Laurbjerg",Radikale Venstre,0
+Favrskov,5,Hammel Syd,"B_Rasmus_Grønborg_Jakobsen,_Hinnerup","Rasmus Grønborg Jakobsen, Hinnerup",Radikale Venstre,5
+Favrskov,5,Hammel Syd,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,37
+Favrskov,5,Hammel Syd,C_Lars_Storgaard,Lars Storgaard,Det Konservative Folkeparti,35
+Favrskov,5,Hammel Syd,C_Charlotte_Green,Charlotte Green,Det Konservative Folkeparti,15
+Favrskov,5,Hammel Syd,C_Niels_Chr._Selchau-Mark,Niels Chr. Selchau-Mark,Det Konservative Folkeparti,2
+Favrskov,5,Hammel Syd,C_René_Schneider,René Schneider,Det Konservative Folkeparti,3
+Favrskov,5,Hammel Syd,C_Mette_Nøhr,Mette Nøhr,Det Konservative Folkeparti,111
+Favrskov,5,Hammel Syd,C_Anne-Sophie_Schjønning_Eriksen,Anne-Sophie Schjønning Eriksen,Det Konservative Folkeparti,4
+Favrskov,5,Hammel Syd,C_Lene_Guldbrandt,Lene Guldbrandt,Det Konservative Folkeparti,5
+Favrskov,5,Hammel Syd,C_Flemming_Aaen_Jensen,Flemming Aaen Jensen,Det Konservative Folkeparti,1
+Favrskov,5,Hammel Syd,C_Jesper_B._Poulsen,Jesper B. Poulsen,Det Konservative Folkeparti,0
+Favrskov,5,Hammel Syd,C_Knud_Schøler,Knud Schøler,Det Konservative Folkeparti,0
+Favrskov,5,Hammel Syd,C_Tommy_Højer,Tommy Højer,Det Konservative Folkeparti,3
+Favrskov,5,Hammel Syd,D_Listestemmer,Listestemmer,Nye Borgerlige,36
+Favrskov,5,Hammel Syd,D_Erling_Høj_Sørensen,Erling Høj Sørensen,Nye Borgerlige,9
+Favrskov,5,Hammel Syd,D_Hanne_Gram,Hanne Gram,Nye Borgerlige,10
+Favrskov,5,Hammel Syd,D_Benny_B._Jensen,Benny B. Jensen,Nye Borgerlige,18
+Favrskov,5,Hammel Syd,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,14
+Favrskov,5,Hammel Syd,"F_Søren_Frandsen,_Grundfør","Søren Frandsen, Grundfør",SF - Socialistisk Folkeparti,7
+Favrskov,5,Hammel Syd,"F_Søren_Lahn_Sloth,_Hinnerup","Søren Lahn Sloth, Hinnerup",SF - Socialistisk Folkeparti,14
+Favrskov,5,Hammel Syd,"F_Laila_Jerming_Graf,_Sall","Laila Jerming Graf, Sall",SF - Socialistisk Folkeparti,7
+Favrskov,5,Hammel Syd,"F_Chr._Kreiberg_Møller,_Hinnerup","Chr. Kreiberg Møller, Hinnerup",SF - Socialistisk Folkeparti,0
+Favrskov,5,Hammel Syd,"F_Henriette_Stein_Knudsen,_Hadsten","Henriette Stein Knudsen, Hadsten",SF - Socialistisk Folkeparti,1
+Favrskov,5,Hammel Syd,"F_Else_Marie_Frandsen,_Grundfør","Else Marie Frandsen, Grundfør",SF - Socialistisk Folkeparti,0
+Favrskov,5,Hammel Syd,I_Listestemmer,Listestemmer,Liberal Alliance,4
+Favrskov,5,Hammel Syd,I_Nicolai_Wang,Nicolai Wang,Liberal Alliance,5
+Favrskov,5,Hammel Syd,I_Lisa_Perkins,Lisa Perkins,Liberal Alliance,1
+Favrskov,5,Hammel Syd,L_Listestemmer,Listestemmer,Samlingspartiet Favrskov,1
+Favrskov,5,Hammel Syd,"L_Bo_Berger,_Hammel","Bo Berger, Hammel",Samlingspartiet Favrskov,1
+Favrskov,5,Hammel Syd,"L_Kasper_Kay_Petersen,_Hadsten","Kasper Kay Petersen, Hadsten",Samlingspartiet Favrskov,13
+Favrskov,5,Hammel Syd,O_Listestemmer,Listestemmer,Dansk Folkeparti,18
+Favrskov,5,Hammel Syd,O_Mercedes_Czank,Mercedes Czank,Dansk Folkeparti,13
+Favrskov,5,Hammel Syd,O_Eva_Damsgaard,Eva Damsgaard,Dansk Folkeparti,12
+Favrskov,5,Hammel Syd,O_Ove_Nørlem,Ove Nørlem,Dansk Folkeparti,2
+Favrskov,5,Hammel Syd,O_Svend_Kjeldsen,Svend Kjeldsen,Dansk Folkeparti,1
+Favrskov,5,Hammel Syd,O_Kjeld_Jensen,Kjeld Jensen,Dansk Folkeparti,0
+Favrskov,5,Hammel Syd,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",50
+Favrskov,5,Hammel Syd,V_Birgit_Liin,Birgit Liin,"Venstre, Danmarks Liberale Parti",47
+Favrskov,5,Hammel Syd,V_Flemming_Nørgaard,Flemming Nørgaard,"Venstre, Danmarks Liberale Parti",5
+Favrskov,5,Hammel Syd,V_Hanne_Smedegaard,Hanne Smedegaard,"Venstre, Danmarks Liberale Parti",9
+Favrskov,5,Hammel Syd,V_Thomas_Storm,Thomas Storm,"Venstre, Danmarks Liberale Parti",0
+Favrskov,5,Hammel Syd,V_Lone_Glarbo,Lone Glarbo,"Venstre, Danmarks Liberale Parti",2
+Favrskov,5,Hammel Syd,V_Ken_Richter,Ken Richter,"Venstre, Danmarks Liberale Parti",0
+Favrskov,5,Hammel Syd,V_Christian_Møller-Nielsen,Christian Møller-Nielsen,"Venstre, Danmarks Liberale Parti",15
+Favrskov,5,Hammel Syd,V_Morten_Bang,Morten Bang,"Venstre, Danmarks Liberale Parti",4
+Favrskov,5,Hammel Syd,V_Birgit_Bach-Valeur,Birgit Bach-Valeur,"Venstre, Danmarks Liberale Parti",20
+Favrskov,5,Hammel Syd,V_Simon_Buus_Olsen,Simon Buus Olsen,"Venstre, Danmarks Liberale Parti",3
+Favrskov,5,Hammel Syd,V_Michael_Jensen,Michael Jensen,"Venstre, Danmarks Liberale Parti",0
+Favrskov,5,Hammel Syd,V_Santana_Marie_Malling,Santana Marie Malling,"Venstre, Danmarks Liberale Parti",2
+Favrskov,5,Hammel Syd,V_Flemming_Kragh_Thomassen,Flemming Kragh Thomassen,"Venstre, Danmarks Liberale Parti",0
+Favrskov,5,Hammel Syd,V_Gert_Jensen,Gert Jensen,"Venstre, Danmarks Liberale Parti",0
+Favrskov,5,Hammel Syd,V_Orla_Nielsen,Orla Nielsen,"Venstre, Danmarks Liberale Parti",10
+Favrskov,5,Hammel Syd,V_Susanne_Rokkjær,Susanne Rokkjær,"Venstre, Danmarks Liberale Parti",4
+Favrskov,5,Hammel Syd,V_Arne_Bay_Madsen,Arne Bay Madsen,"Venstre, Danmarks Liberale Parti",0
+Favrskov,5,Hammel Syd,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,28
+Favrskov,5,Hammel Syd,"Ø_Thake_Fogh_Cordt,_Skjød","Thake Fogh Cordt, Skjød",Enhedslisten - De Rød-Grønne,6
+Favrskov,5,Hammel Syd,"Ø_Bodil_K._Olsen,_Houlbjerg","Bodil K. Olsen, Houlbjerg",Enhedslisten - De Rød-Grønne,7
+Favrskov,5,Hammel Syd,"Ø_Peder_Meyhoff,_Hinnerup","Peder Meyhoff, Hinnerup",Enhedslisten - De Rød-Grønne,2
+Favrskov,5,Hammel Syd,"Ø_Heidbra_Jonsdottir,_Hadsten","Heidbra Jonsdottir, Hadsten",Enhedslisten - De Rød-Grønne,1
+Favrskov,5,Hammel Syd,"Ø_Aksel_Madsen,_Hinnerup","Aksel Madsen, Hinnerup",Enhedslisten - De Rød-Grønne,6
+Favrskov,5,Hammel Syd,"Ø_Maria_Strunge_Sørensen,_Laurbjerg","Maria Strunge Sørensen, Laurbjerg",Enhedslisten - De Rød-Grønne,10
+Favrskov,5,Hammel Syd,"Ø_Clément_Blain,_Laurbjerg","Clément Blain, Laurbjerg",Enhedslisten - De Rød-Grønne,1
+Favrskov,5,Hammel Syd,"Ø_Per_Holm_Knudsen,_Hammel","Per Holm Knudsen, Hammel",Enhedslisten - De Rød-Grønne,5
+Favrskov,5,Hammel Syd,"Ø_Bendt_Lund_Nielsen,_Hammel","Bendt Lund Nielsen, Hammel",Enhedslisten - De Rød-Grønne,0
+Favrskov,6,Haldum-Hinnerup/Vitten,A_Listestemmer,Listestemmer,Socialdemokratiet,176
+Favrskov,6,Haldum-Hinnerup/Vitten,A_Nils_Borring,Nils Borring,Socialdemokratiet,378
+Favrskov,6,Haldum-Hinnerup/Vitten,A_Isabell_Friis_Madsen,Isabell Friis Madsen,Socialdemokratiet,35
+Favrskov,6,Haldum-Hinnerup/Vitten,A_Erling_Kvist_Andersen,Erling Kvist Andersen,Socialdemokratiet,209
+Favrskov,6,Haldum-Hinnerup/Vitten,A_Lone_Boye,Lone Boye,Socialdemokratiet,10
+Favrskov,6,Haldum-Hinnerup/Vitten,A_Gitte_Lynderup_Lauritsen,Gitte Lynderup Lauritsen,Socialdemokratiet,14
+Favrskov,6,Haldum-Hinnerup/Vitten,A_Rikke_Randrup_Skåning,Rikke Randrup Skåning,Socialdemokratiet,30
+Favrskov,6,Haldum-Hinnerup/Vitten,A_Søren_Gade,Søren Gade,Socialdemokratiet,3
+Favrskov,6,Haldum-Hinnerup/Vitten,A_Grethe_Villadsen,Grethe Villadsen,Socialdemokratiet,8
+Favrskov,6,Haldum-Hinnerup/Vitten,A_Niels_Flade_Nielsen,Niels Flade Nielsen,Socialdemokratiet,1
+Favrskov,6,Haldum-Hinnerup/Vitten,A_Kristoffer_Merrild,Kristoffer Merrild,Socialdemokratiet,69
+Favrskov,6,Haldum-Hinnerup/Vitten,A_Maria_Degn,Maria Degn,Socialdemokratiet,4
+Favrskov,6,Haldum-Hinnerup/Vitten,A_Steen_Thomasen,Steen Thomasen,Socialdemokratiet,14
+Favrskov,6,Haldum-Hinnerup/Vitten,A_Kim_Hedegaard,Kim Hedegaard,Socialdemokratiet,3
+Favrskov,6,Haldum-Hinnerup/Vitten,A_Erik_Særkjær,Erik Særkjær,Socialdemokratiet,15
+Favrskov,6,Haldum-Hinnerup/Vitten,A_Martin_Hager_Andersen,Martin Hager Andersen,Socialdemokratiet,42
+Favrskov,6,Haldum-Hinnerup/Vitten,B_Listestemmer,Listestemmer,Radikale Venstre,27
+Favrskov,6,Haldum-Hinnerup/Vitten,"B_Torben_Christensen,_Foldby","Torben Christensen, Foldby",Radikale Venstre,28
+Favrskov,6,Haldum-Hinnerup/Vitten,"B_Pet_Petersen,_Hadsten","Pet Petersen, Hadsten",Radikale Venstre,27
+Favrskov,6,Haldum-Hinnerup/Vitten,"B_Bassam_El-Daoud,_Voldby","Bassam El-Daoud, Voldby",Radikale Venstre,1
+Favrskov,6,Haldum-Hinnerup/Vitten,"B_Peter_Enevoldsen,_Laurbjerg","Peter Enevoldsen, Laurbjerg",Radikale Venstre,0
+Favrskov,6,Haldum-Hinnerup/Vitten,"B_Rasmus_Grønborg_Jakobsen,_Hinnerup","Rasmus Grønborg Jakobsen, Hinnerup",Radikale Venstre,60
+Favrskov,6,Haldum-Hinnerup/Vitten,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,86
+Favrskov,6,Haldum-Hinnerup/Vitten,C_Lars_Storgaard,Lars Storgaard,Det Konservative Folkeparti,54
+Favrskov,6,Haldum-Hinnerup/Vitten,C_Charlotte_Green,Charlotte Green,Det Konservative Folkeparti,108
+Favrskov,6,Haldum-Hinnerup/Vitten,C_Niels_Chr._Selchau-Mark,Niels Chr. Selchau-Mark,Det Konservative Folkeparti,30
+Favrskov,6,Haldum-Hinnerup/Vitten,C_René_Schneider,René Schneider,Det Konservative Folkeparti,21
+Favrskov,6,Haldum-Hinnerup/Vitten,C_Mette_Nøhr,Mette Nøhr,Det Konservative Folkeparti,23
+Favrskov,6,Haldum-Hinnerup/Vitten,C_Anne-Sophie_Schjønning_Eriksen,Anne-Sophie Schjønning Eriksen,Det Konservative Folkeparti,23
+Favrskov,6,Haldum-Hinnerup/Vitten,C_Lene_Guldbrandt,Lene Guldbrandt,Det Konservative Folkeparti,17
+Favrskov,6,Haldum-Hinnerup/Vitten,C_Flemming_Aaen_Jensen,Flemming Aaen Jensen,Det Konservative Folkeparti,1
+Favrskov,6,Haldum-Hinnerup/Vitten,C_Jesper_B._Poulsen,Jesper B. Poulsen,Det Konservative Folkeparti,6
+Favrskov,6,Haldum-Hinnerup/Vitten,C_Knud_Schøler,Knud Schøler,Det Konservative Folkeparti,7
+Favrskov,6,Haldum-Hinnerup/Vitten,C_Tommy_Højer,Tommy Højer,Det Konservative Folkeparti,2
+Favrskov,6,Haldum-Hinnerup/Vitten,D_Listestemmer,Listestemmer,Nye Borgerlige,35
+Favrskov,6,Haldum-Hinnerup/Vitten,D_Erling_Høj_Sørensen,Erling Høj Sørensen,Nye Borgerlige,13
+Favrskov,6,Haldum-Hinnerup/Vitten,D_Hanne_Gram,Hanne Gram,Nye Borgerlige,11
+Favrskov,6,Haldum-Hinnerup/Vitten,D_Benny_B._Jensen,Benny B. Jensen,Nye Borgerlige,3
+Favrskov,6,Haldum-Hinnerup/Vitten,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,53
+Favrskov,6,Haldum-Hinnerup/Vitten,"F_Søren_Frandsen,_Grundfør","Søren Frandsen, Grundfør",SF - Socialistisk Folkeparti,40
+Favrskov,6,Haldum-Hinnerup/Vitten,"F_Søren_Lahn_Sloth,_Hinnerup","Søren Lahn Sloth, Hinnerup",SF - Socialistisk Folkeparti,90
+Favrskov,6,Haldum-Hinnerup/Vitten,"F_Laila_Jerming_Graf,_Sall","Laila Jerming Graf, Sall",SF - Socialistisk Folkeparti,7
+Favrskov,6,Haldum-Hinnerup/Vitten,"F_Chr._Kreiberg_Møller,_Hinnerup","Chr. Kreiberg Møller, Hinnerup",SF - Socialistisk Folkeparti,9
+Favrskov,6,Haldum-Hinnerup/Vitten,"F_Henriette_Stein_Knudsen,_Hadsten","Henriette Stein Knudsen, Hadsten",SF - Socialistisk Folkeparti,1
+Favrskov,6,Haldum-Hinnerup/Vitten,"F_Else_Marie_Frandsen,_Grundfør","Else Marie Frandsen, Grundfør",SF - Socialistisk Folkeparti,20
+Favrskov,6,Haldum-Hinnerup/Vitten,I_Listestemmer,Listestemmer,Liberal Alliance,14
+Favrskov,6,Haldum-Hinnerup/Vitten,I_Nicolai_Wang,Nicolai Wang,Liberal Alliance,12
+Favrskov,6,Haldum-Hinnerup/Vitten,I_Lisa_Perkins,Lisa Perkins,Liberal Alliance,10
+Favrskov,6,Haldum-Hinnerup/Vitten,L_Listestemmer,Listestemmer,Samlingspartiet Favrskov,2
+Favrskov,6,Haldum-Hinnerup/Vitten,"L_Bo_Berger,_Hammel","Bo Berger, Hammel",Samlingspartiet Favrskov,0
+Favrskov,6,Haldum-Hinnerup/Vitten,"L_Kasper_Kay_Petersen,_Hadsten","Kasper Kay Petersen, Hadsten",Samlingspartiet Favrskov,33
+Favrskov,6,Haldum-Hinnerup/Vitten,O_Listestemmer,Listestemmer,Dansk Folkeparti,27
+Favrskov,6,Haldum-Hinnerup/Vitten,O_Mercedes_Czank,Mercedes Czank,Dansk Folkeparti,10
+Favrskov,6,Haldum-Hinnerup/Vitten,O_Eva_Damsgaard,Eva Damsgaard,Dansk Folkeparti,28
+Favrskov,6,Haldum-Hinnerup/Vitten,O_Ove_Nørlem,Ove Nørlem,Dansk Folkeparti,2
+Favrskov,6,Haldum-Hinnerup/Vitten,O_Svend_Kjeldsen,Svend Kjeldsen,Dansk Folkeparti,10
+Favrskov,6,Haldum-Hinnerup/Vitten,O_Kjeld_Jensen,Kjeld Jensen,Dansk Folkeparti,0
+Favrskov,6,Haldum-Hinnerup/Vitten,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",89
+Favrskov,6,Haldum-Hinnerup/Vitten,V_Birgit_Liin,Birgit Liin,"Venstre, Danmarks Liberale Parti",96
+Favrskov,6,Haldum-Hinnerup/Vitten,V_Flemming_Nørgaard,Flemming Nørgaard,"Venstre, Danmarks Liberale Parti",8
+Favrskov,6,Haldum-Hinnerup/Vitten,V_Hanne_Smedegaard,Hanne Smedegaard,"Venstre, Danmarks Liberale Parti",11
+Favrskov,6,Haldum-Hinnerup/Vitten,V_Thomas_Storm,Thomas Storm,"Venstre, Danmarks Liberale Parti",56
+Favrskov,6,Haldum-Hinnerup/Vitten,V_Lone_Glarbo,Lone Glarbo,"Venstre, Danmarks Liberale Parti",53
+Favrskov,6,Haldum-Hinnerup/Vitten,V_Ken_Richter,Ken Richter,"Venstre, Danmarks Liberale Parti",81
+Favrskov,6,Haldum-Hinnerup/Vitten,V_Christian_Møller-Nielsen,Christian Møller-Nielsen,"Venstre, Danmarks Liberale Parti",11
+Favrskov,6,Haldum-Hinnerup/Vitten,V_Morten_Bang,Morten Bang,"Venstre, Danmarks Liberale Parti",250
+Favrskov,6,Haldum-Hinnerup/Vitten,V_Birgit_Bach-Valeur,Birgit Bach-Valeur,"Venstre, Danmarks Liberale Parti",0
+Favrskov,6,Haldum-Hinnerup/Vitten,V_Simon_Buus_Olsen,Simon Buus Olsen,"Venstre, Danmarks Liberale Parti",9
+Favrskov,6,Haldum-Hinnerup/Vitten,V_Michael_Jensen,Michael Jensen,"Venstre, Danmarks Liberale Parti",3
+Favrskov,6,Haldum-Hinnerup/Vitten,V_Santana_Marie_Malling,Santana Marie Malling,"Venstre, Danmarks Liberale Parti",3
+Favrskov,6,Haldum-Hinnerup/Vitten,V_Flemming_Kragh_Thomassen,Flemming Kragh Thomassen,"Venstre, Danmarks Liberale Parti",3
+Favrskov,6,Haldum-Hinnerup/Vitten,V_Gert_Jensen,Gert Jensen,"Venstre, Danmarks Liberale Parti",2
+Favrskov,6,Haldum-Hinnerup/Vitten,V_Orla_Nielsen,Orla Nielsen,"Venstre, Danmarks Liberale Parti",0
+Favrskov,6,Haldum-Hinnerup/Vitten,V_Susanne_Rokkjær,Susanne Rokkjær,"Venstre, Danmarks Liberale Parti",5
+Favrskov,6,Haldum-Hinnerup/Vitten,V_Arne_Bay_Madsen,Arne Bay Madsen,"Venstre, Danmarks Liberale Parti",1
+Favrskov,6,Haldum-Hinnerup/Vitten,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,60
+Favrskov,6,Haldum-Hinnerup/Vitten,"Ø_Thake_Fogh_Cordt,_Skjød","Thake Fogh Cordt, Skjød",Enhedslisten - De Rød-Grønne,12
+Favrskov,6,Haldum-Hinnerup/Vitten,"Ø_Bodil_K._Olsen,_Houlbjerg","Bodil K. Olsen, Houlbjerg",Enhedslisten - De Rød-Grønne,12
+Favrskov,6,Haldum-Hinnerup/Vitten,"Ø_Peder_Meyhoff,_Hinnerup","Peder Meyhoff, Hinnerup",Enhedslisten - De Rød-Grønne,30
+Favrskov,6,Haldum-Hinnerup/Vitten,"Ø_Heidbra_Jonsdottir,_Hadsten","Heidbra Jonsdottir, Hadsten",Enhedslisten - De Rød-Grønne,4
+Favrskov,6,Haldum-Hinnerup/Vitten,"Ø_Aksel_Madsen,_Hinnerup","Aksel Madsen, Hinnerup",Enhedslisten - De Rød-Grønne,22
+Favrskov,6,Haldum-Hinnerup/Vitten,"Ø_Maria_Strunge_Sørensen,_Laurbjerg","Maria Strunge Sørensen, Laurbjerg",Enhedslisten - De Rød-Grønne,26
+Favrskov,6,Haldum-Hinnerup/Vitten,"Ø_Clément_Blain,_Laurbjerg","Clément Blain, Laurbjerg",Enhedslisten - De Rød-Grønne,3
+Favrskov,6,Haldum-Hinnerup/Vitten,"Ø_Per_Holm_Knudsen,_Hammel","Per Holm Knudsen, Hammel",Enhedslisten - De Rød-Grønne,1
+Favrskov,6,Haldum-Hinnerup/Vitten,"Ø_Bendt_Lund_Nielsen,_Hammel","Bendt Lund Nielsen, Hammel",Enhedslisten - De Rød-Grønne,1
+Favrskov,7,Rønbæk/Grundfør,A_Listestemmer,Listestemmer,Socialdemokratiet,166
+Favrskov,7,Rønbæk/Grundfør,A_Nils_Borring,Nils Borring,Socialdemokratiet,399
+Favrskov,7,Rønbæk/Grundfør,A_Isabell_Friis_Madsen,Isabell Friis Madsen,Socialdemokratiet,49
+Favrskov,7,Rønbæk/Grundfør,A_Erling_Kvist_Andersen,Erling Kvist Andersen,Socialdemokratiet,122
+Favrskov,7,Rønbæk/Grundfør,A_Lone_Boye,Lone Boye,Socialdemokratiet,10
+Favrskov,7,Rønbæk/Grundfør,A_Gitte_Lynderup_Lauritsen,Gitte Lynderup Lauritsen,Socialdemokratiet,30
+Favrskov,7,Rønbæk/Grundfør,A_Rikke_Randrup_Skåning,Rikke Randrup Skåning,Socialdemokratiet,26
+Favrskov,7,Rønbæk/Grundfør,A_Søren_Gade,Søren Gade,Socialdemokratiet,5
+Favrskov,7,Rønbæk/Grundfør,A_Grethe_Villadsen,Grethe Villadsen,Socialdemokratiet,4
+Favrskov,7,Rønbæk/Grundfør,A_Niels_Flade_Nielsen,Niels Flade Nielsen,Socialdemokratiet,1
+Favrskov,7,Rønbæk/Grundfør,A_Kristoffer_Merrild,Kristoffer Merrild,Socialdemokratiet,62
+Favrskov,7,Rønbæk/Grundfør,A_Maria_Degn,Maria Degn,Socialdemokratiet,7
+Favrskov,7,Rønbæk/Grundfør,A_Steen_Thomasen,Steen Thomasen,Socialdemokratiet,10
+Favrskov,7,Rønbæk/Grundfør,A_Kim_Hedegaard,Kim Hedegaard,Socialdemokratiet,1
+Favrskov,7,Rønbæk/Grundfør,A_Erik_Særkjær,Erik Særkjær,Socialdemokratiet,17
+Favrskov,7,Rønbæk/Grundfør,A_Martin_Hager_Andersen,Martin Hager Andersen,Socialdemokratiet,25
+Favrskov,7,Rønbæk/Grundfør,B_Listestemmer,Listestemmer,Radikale Venstre,33
+Favrskov,7,Rønbæk/Grundfør,"B_Torben_Christensen,_Foldby","Torben Christensen, Foldby",Radikale Venstre,18
+Favrskov,7,Rønbæk/Grundfør,"B_Pet_Petersen,_Hadsten","Pet Petersen, Hadsten",Radikale Venstre,14
+Favrskov,7,Rønbæk/Grundfør,"B_Bassam_El-Daoud,_Voldby","Bassam El-Daoud, Voldby",Radikale Venstre,2
+Favrskov,7,Rønbæk/Grundfør,"B_Peter_Enevoldsen,_Laurbjerg","Peter Enevoldsen, Laurbjerg",Radikale Venstre,0
+Favrskov,7,Rønbæk/Grundfør,"B_Rasmus_Grønborg_Jakobsen,_Hinnerup","Rasmus Grønborg Jakobsen, Hinnerup",Radikale Venstre,48
+Favrskov,7,Rønbæk/Grundfør,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,102
+Favrskov,7,Rønbæk/Grundfør,C_Lars_Storgaard,Lars Storgaard,Det Konservative Folkeparti,40
+Favrskov,7,Rønbæk/Grundfør,C_Charlotte_Green,Charlotte Green,Det Konservative Folkeparti,120
+Favrskov,7,Rønbæk/Grundfør,C_Niels_Chr._Selchau-Mark,Niels Chr. Selchau-Mark,Det Konservative Folkeparti,39
+Favrskov,7,Rønbæk/Grundfør,C_René_Schneider,René Schneider,Det Konservative Folkeparti,10
+Favrskov,7,Rønbæk/Grundfør,C_Mette_Nøhr,Mette Nøhr,Det Konservative Folkeparti,36
+Favrskov,7,Rønbæk/Grundfør,C_Anne-Sophie_Schjønning_Eriksen,Anne-Sophie Schjønning Eriksen,Det Konservative Folkeparti,19
+Favrskov,7,Rønbæk/Grundfør,C_Lene_Guldbrandt,Lene Guldbrandt,Det Konservative Folkeparti,11
+Favrskov,7,Rønbæk/Grundfør,C_Flemming_Aaen_Jensen,Flemming Aaen Jensen,Det Konservative Folkeparti,0
+Favrskov,7,Rønbæk/Grundfør,C_Jesper_B._Poulsen,Jesper B. Poulsen,Det Konservative Folkeparti,4
+Favrskov,7,Rønbæk/Grundfør,C_Knud_Schøler,Knud Schøler,Det Konservative Folkeparti,8
+Favrskov,7,Rønbæk/Grundfør,C_Tommy_Højer,Tommy Højer,Det Konservative Folkeparti,0
+Favrskov,7,Rønbæk/Grundfør,D_Listestemmer,Listestemmer,Nye Borgerlige,42
+Favrskov,7,Rønbæk/Grundfør,D_Erling_Høj_Sørensen,Erling Høj Sørensen,Nye Borgerlige,27
+Favrskov,7,Rønbæk/Grundfør,D_Hanne_Gram,Hanne Gram,Nye Borgerlige,8
+Favrskov,7,Rønbæk/Grundfør,D_Benny_B._Jensen,Benny B. Jensen,Nye Borgerlige,6
+Favrskov,7,Rønbæk/Grundfør,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,52
+Favrskov,7,Rønbæk/Grundfør,"F_Søren_Frandsen,_Grundfør","Søren Frandsen, Grundfør",SF - Socialistisk Folkeparti,45
+Favrskov,7,Rønbæk/Grundfør,"F_Søren_Lahn_Sloth,_Hinnerup","Søren Lahn Sloth, Hinnerup",SF - Socialistisk Folkeparti,53
+Favrskov,7,Rønbæk/Grundfør,"F_Laila_Jerming_Graf,_Sall","Laila Jerming Graf, Sall",SF - Socialistisk Folkeparti,5
+Favrskov,7,Rønbæk/Grundfør,"F_Chr._Kreiberg_Møller,_Hinnerup","Chr. Kreiberg Møller, Hinnerup",SF - Socialistisk Folkeparti,11
+Favrskov,7,Rønbæk/Grundfør,"F_Henriette_Stein_Knudsen,_Hadsten","Henriette Stein Knudsen, Hadsten",SF - Socialistisk Folkeparti,0
+Favrskov,7,Rønbæk/Grundfør,"F_Else_Marie_Frandsen,_Grundfør","Else Marie Frandsen, Grundfør",SF - Socialistisk Folkeparti,13
+Favrskov,7,Rønbæk/Grundfør,I_Listestemmer,Listestemmer,Liberal Alliance,13
+Favrskov,7,Rønbæk/Grundfør,I_Nicolai_Wang,Nicolai Wang,Liberal Alliance,5
+Favrskov,7,Rønbæk/Grundfør,I_Lisa_Perkins,Lisa Perkins,Liberal Alliance,4
+Favrskov,7,Rønbæk/Grundfør,L_Listestemmer,Listestemmer,Samlingspartiet Favrskov,2
+Favrskov,7,Rønbæk/Grundfør,"L_Bo_Berger,_Hammel","Bo Berger, Hammel",Samlingspartiet Favrskov,1
+Favrskov,7,Rønbæk/Grundfør,"L_Kasper_Kay_Petersen,_Hadsten","Kasper Kay Petersen, Hadsten",Samlingspartiet Favrskov,10
+Favrskov,7,Rønbæk/Grundfør,O_Listestemmer,Listestemmer,Dansk Folkeparti,31
+Favrskov,7,Rønbæk/Grundfør,O_Mercedes_Czank,Mercedes Czank,Dansk Folkeparti,8
+Favrskov,7,Rønbæk/Grundfør,O_Eva_Damsgaard,Eva Damsgaard,Dansk Folkeparti,25
+Favrskov,7,Rønbæk/Grundfør,O_Ove_Nørlem,Ove Nørlem,Dansk Folkeparti,10
+Favrskov,7,Rønbæk/Grundfør,O_Svend_Kjeldsen,Svend Kjeldsen,Dansk Folkeparti,17
+Favrskov,7,Rønbæk/Grundfør,O_Kjeld_Jensen,Kjeld Jensen,Dansk Folkeparti,0
+Favrskov,7,Rønbæk/Grundfør,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",88
+Favrskov,7,Rønbæk/Grundfør,V_Birgit_Liin,Birgit Liin,"Venstre, Danmarks Liberale Parti",64
+Favrskov,7,Rønbæk/Grundfør,V_Flemming_Nørgaard,Flemming Nørgaard,"Venstre, Danmarks Liberale Parti",10
+Favrskov,7,Rønbæk/Grundfør,V_Hanne_Smedegaard,Hanne Smedegaard,"Venstre, Danmarks Liberale Parti",5
+Favrskov,7,Rønbæk/Grundfør,V_Thomas_Storm,Thomas Storm,"Venstre, Danmarks Liberale Parti",64
+Favrskov,7,Rønbæk/Grundfør,V_Lone_Glarbo,Lone Glarbo,"Venstre, Danmarks Liberale Parti",65
+Favrskov,7,Rønbæk/Grundfør,V_Ken_Richter,Ken Richter,"Venstre, Danmarks Liberale Parti",34
+Favrskov,7,Rønbæk/Grundfør,V_Christian_Møller-Nielsen,Christian Møller-Nielsen,"Venstre, Danmarks Liberale Parti",12
+Favrskov,7,Rønbæk/Grundfør,V_Morten_Bang,Morten Bang,"Venstre, Danmarks Liberale Parti",258
+Favrskov,7,Rønbæk/Grundfør,V_Birgit_Bach-Valeur,Birgit Bach-Valeur,"Venstre, Danmarks Liberale Parti",0
+Favrskov,7,Rønbæk/Grundfør,V_Simon_Buus_Olsen,Simon Buus Olsen,"Venstre, Danmarks Liberale Parti",2
+Favrskov,7,Rønbæk/Grundfør,V_Michael_Jensen,Michael Jensen,"Venstre, Danmarks Liberale Parti",2
+Favrskov,7,Rønbæk/Grundfør,V_Santana_Marie_Malling,Santana Marie Malling,"Venstre, Danmarks Liberale Parti",1
+Favrskov,7,Rønbæk/Grundfør,V_Flemming_Kragh_Thomassen,Flemming Kragh Thomassen,"Venstre, Danmarks Liberale Parti",3
+Favrskov,7,Rønbæk/Grundfør,V_Gert_Jensen,Gert Jensen,"Venstre, Danmarks Liberale Parti",1
+Favrskov,7,Rønbæk/Grundfør,V_Orla_Nielsen,Orla Nielsen,"Venstre, Danmarks Liberale Parti",1
+Favrskov,7,Rønbæk/Grundfør,V_Susanne_Rokkjær,Susanne Rokkjær,"Venstre, Danmarks Liberale Parti",1
+Favrskov,7,Rønbæk/Grundfør,V_Arne_Bay_Madsen,Arne Bay Madsen,"Venstre, Danmarks Liberale Parti",0
+Favrskov,7,Rønbæk/Grundfør,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,62
+Favrskov,7,Rønbæk/Grundfør,"Ø_Thake_Fogh_Cordt,_Skjød","Thake Fogh Cordt, Skjød",Enhedslisten - De Rød-Grønne,8
+Favrskov,7,Rønbæk/Grundfør,"Ø_Bodil_K._Olsen,_Houlbjerg","Bodil K. Olsen, Houlbjerg",Enhedslisten - De Rød-Grønne,12
+Favrskov,7,Rønbæk/Grundfør,"Ø_Peder_Meyhoff,_Hinnerup","Peder Meyhoff, Hinnerup",Enhedslisten - De Rød-Grønne,32
+Favrskov,7,Rønbæk/Grundfør,"Ø_Heidbra_Jonsdottir,_Hadsten","Heidbra Jonsdottir, Hadsten",Enhedslisten - De Rød-Grønne,0
+Favrskov,7,Rønbæk/Grundfør,"Ø_Aksel_Madsen,_Hinnerup","Aksel Madsen, Hinnerup",Enhedslisten - De Rød-Grønne,11
+Favrskov,7,Rønbæk/Grundfør,"Ø_Maria_Strunge_Sørensen,_Laurbjerg","Maria Strunge Sørensen, Laurbjerg",Enhedslisten - De Rød-Grønne,16
+Favrskov,7,Rønbæk/Grundfør,"Ø_Clément_Blain,_Laurbjerg","Clément Blain, Laurbjerg",Enhedslisten - De Rød-Grønne,1
+Favrskov,7,Rønbæk/Grundfør,"Ø_Per_Holm_Knudsen,_Hammel","Per Holm Knudsen, Hammel",Enhedslisten - De Rød-Grønne,2
+Favrskov,7,Rønbæk/Grundfør,"Ø_Bendt_Lund_Nielsen,_Hammel","Bendt Lund Nielsen, Hammel",Enhedslisten - De Rød-Grønne,3
+Favrskov,8,Foldby,A_Listestemmer,Listestemmer,Socialdemokratiet,72
+Favrskov,8,Foldby,A_Nils_Borring,Nils Borring,Socialdemokratiet,151
+Favrskov,8,Foldby,A_Isabell_Friis_Madsen,Isabell Friis Madsen,Socialdemokratiet,13
+Favrskov,8,Foldby,A_Erling_Kvist_Andersen,Erling Kvist Andersen,Socialdemokratiet,34
+Favrskov,8,Foldby,A_Lone_Boye,Lone Boye,Socialdemokratiet,3
+Favrskov,8,Foldby,A_Gitte_Lynderup_Lauritsen,Gitte Lynderup Lauritsen,Socialdemokratiet,19
+Favrskov,8,Foldby,A_Rikke_Randrup_Skåning,Rikke Randrup Skåning,Socialdemokratiet,5
+Favrskov,8,Foldby,A_Søren_Gade,Søren Gade,Socialdemokratiet,0
+Favrskov,8,Foldby,A_Grethe_Villadsen,Grethe Villadsen,Socialdemokratiet,0
+Favrskov,8,Foldby,A_Niels_Flade_Nielsen,Niels Flade Nielsen,Socialdemokratiet,1
+Favrskov,8,Foldby,A_Kristoffer_Merrild,Kristoffer Merrild,Socialdemokratiet,11
+Favrskov,8,Foldby,A_Maria_Degn,Maria Degn,Socialdemokratiet,1
+Favrskov,8,Foldby,A_Steen_Thomasen,Steen Thomasen,Socialdemokratiet,2
+Favrskov,8,Foldby,A_Kim_Hedegaard,Kim Hedegaard,Socialdemokratiet,3
+Favrskov,8,Foldby,A_Erik_Særkjær,Erik Særkjær,Socialdemokratiet,3
+Favrskov,8,Foldby,A_Martin_Hager_Andersen,Martin Hager Andersen,Socialdemokratiet,2
+Favrskov,8,Foldby,B_Listestemmer,Listestemmer,Radikale Venstre,13
+Favrskov,8,Foldby,"B_Torben_Christensen,_Foldby","Torben Christensen, Foldby",Radikale Venstre,92
+Favrskov,8,Foldby,"B_Pet_Petersen,_Hadsten","Pet Petersen, Hadsten",Radikale Venstre,8
+Favrskov,8,Foldby,"B_Bassam_El-Daoud,_Voldby","Bassam El-Daoud, Voldby",Radikale Venstre,0
+Favrskov,8,Foldby,"B_Peter_Enevoldsen,_Laurbjerg","Peter Enevoldsen, Laurbjerg",Radikale Venstre,0
+Favrskov,8,Foldby,"B_Rasmus_Grønborg_Jakobsen,_Hinnerup","Rasmus Grønborg Jakobsen, Hinnerup",Radikale Venstre,8
+Favrskov,8,Foldby,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,38
+Favrskov,8,Foldby,C_Lars_Storgaard,Lars Storgaard,Det Konservative Folkeparti,14
+Favrskov,8,Foldby,C_Charlotte_Green,Charlotte Green,Det Konservative Folkeparti,32
+Favrskov,8,Foldby,C_Niels_Chr._Selchau-Mark,Niels Chr. Selchau-Mark,Det Konservative Folkeparti,14
+Favrskov,8,Foldby,C_René_Schneider,René Schneider,Det Konservative Folkeparti,10
+Favrskov,8,Foldby,C_Mette_Nøhr,Mette Nøhr,Det Konservative Folkeparti,15
+Favrskov,8,Foldby,C_Anne-Sophie_Schjønning_Eriksen,Anne-Sophie Schjønning Eriksen,Det Konservative Folkeparti,4
+Favrskov,8,Foldby,C_Lene_Guldbrandt,Lene Guldbrandt,Det Konservative Folkeparti,5
+Favrskov,8,Foldby,C_Flemming_Aaen_Jensen,Flemming Aaen Jensen,Det Konservative Folkeparti,0
+Favrskov,8,Foldby,C_Jesper_B._Poulsen,Jesper B. Poulsen,Det Konservative Folkeparti,1
+Favrskov,8,Foldby,C_Knud_Schøler,Knud Schøler,Det Konservative Folkeparti,4
+Favrskov,8,Foldby,C_Tommy_Højer,Tommy Højer,Det Konservative Folkeparti,3
+Favrskov,8,Foldby,D_Listestemmer,Listestemmer,Nye Borgerlige,22
+Favrskov,8,Foldby,D_Erling_Høj_Sørensen,Erling Høj Sørensen,Nye Borgerlige,6
+Favrskov,8,Foldby,D_Hanne_Gram,Hanne Gram,Nye Borgerlige,5
+Favrskov,8,Foldby,D_Benny_B._Jensen,Benny B. Jensen,Nye Borgerlige,7
+Favrskov,8,Foldby,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,17
+Favrskov,8,Foldby,"F_Søren_Frandsen,_Grundfør","Søren Frandsen, Grundfør",SF - Socialistisk Folkeparti,6
+Favrskov,8,Foldby,"F_Søren_Lahn_Sloth,_Hinnerup","Søren Lahn Sloth, Hinnerup",SF - Socialistisk Folkeparti,19
+Favrskov,8,Foldby,"F_Laila_Jerming_Graf,_Sall","Laila Jerming Graf, Sall",SF - Socialistisk Folkeparti,3
+Favrskov,8,Foldby,"F_Chr._Kreiberg_Møller,_Hinnerup","Chr. Kreiberg Møller, Hinnerup",SF - Socialistisk Folkeparti,0
+Favrskov,8,Foldby,"F_Henriette_Stein_Knudsen,_Hadsten","Henriette Stein Knudsen, Hadsten",SF - Socialistisk Folkeparti,0
+Favrskov,8,Foldby,"F_Else_Marie_Frandsen,_Grundfør","Else Marie Frandsen, Grundfør",SF - Socialistisk Folkeparti,5
+Favrskov,8,Foldby,I_Listestemmer,Listestemmer,Liberal Alliance,5
+Favrskov,8,Foldby,I_Nicolai_Wang,Nicolai Wang,Liberal Alliance,4
+Favrskov,8,Foldby,I_Lisa_Perkins,Lisa Perkins,Liberal Alliance,6
+Favrskov,8,Foldby,L_Listestemmer,Listestemmer,Samlingspartiet Favrskov,4
+Favrskov,8,Foldby,"L_Bo_Berger,_Hammel","Bo Berger, Hammel",Samlingspartiet Favrskov,1
+Favrskov,8,Foldby,"L_Kasper_Kay_Petersen,_Hadsten","Kasper Kay Petersen, Hadsten",Samlingspartiet Favrskov,7
+Favrskov,8,Foldby,O_Listestemmer,Listestemmer,Dansk Folkeparti,18
+Favrskov,8,Foldby,O_Mercedes_Czank,Mercedes Czank,Dansk Folkeparti,14
+Favrskov,8,Foldby,O_Eva_Damsgaard,Eva Damsgaard,Dansk Folkeparti,12
+Favrskov,8,Foldby,O_Ove_Nørlem,Ove Nørlem,Dansk Folkeparti,4
+Favrskov,8,Foldby,O_Svend_Kjeldsen,Svend Kjeldsen,Dansk Folkeparti,5
+Favrskov,8,Foldby,O_Kjeld_Jensen,Kjeld Jensen,Dansk Folkeparti,0
+Favrskov,8,Foldby,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",31
+Favrskov,8,Foldby,V_Birgit_Liin,Birgit Liin,"Venstre, Danmarks Liberale Parti",39
+Favrskov,8,Foldby,V_Flemming_Nørgaard,Flemming Nørgaard,"Venstre, Danmarks Liberale Parti",8
+Favrskov,8,Foldby,V_Hanne_Smedegaard,Hanne Smedegaard,"Venstre, Danmarks Liberale Parti",2
+Favrskov,8,Foldby,V_Thomas_Storm,Thomas Storm,"Venstre, Danmarks Liberale Parti",27
+Favrskov,8,Foldby,V_Lone_Glarbo,Lone Glarbo,"Venstre, Danmarks Liberale Parti",10
+Favrskov,8,Foldby,V_Ken_Richter,Ken Richter,"Venstre, Danmarks Liberale Parti",1
+Favrskov,8,Foldby,V_Christian_Møller-Nielsen,Christian Møller-Nielsen,"Venstre, Danmarks Liberale Parti",3
+Favrskov,8,Foldby,V_Morten_Bang,Morten Bang,"Venstre, Danmarks Liberale Parti",43
+Favrskov,8,Foldby,V_Birgit_Bach-Valeur,Birgit Bach-Valeur,"Venstre, Danmarks Liberale Parti",1
+Favrskov,8,Foldby,V_Simon_Buus_Olsen,Simon Buus Olsen,"Venstre, Danmarks Liberale Parti",6
+Favrskov,8,Foldby,V_Michael_Jensen,Michael Jensen,"Venstre, Danmarks Liberale Parti",1
+Favrskov,8,Foldby,V_Santana_Marie_Malling,Santana Marie Malling,"Venstre, Danmarks Liberale Parti",1
+Favrskov,8,Foldby,V_Flemming_Kragh_Thomassen,Flemming Kragh Thomassen,"Venstre, Danmarks Liberale Parti",2
+Favrskov,8,Foldby,V_Gert_Jensen,Gert Jensen,"Venstre, Danmarks Liberale Parti",1
+Favrskov,8,Foldby,V_Orla_Nielsen,Orla Nielsen,"Venstre, Danmarks Liberale Parti",3
+Favrskov,8,Foldby,V_Susanne_Rokkjær,Susanne Rokkjær,"Venstre, Danmarks Liberale Parti",0
+Favrskov,8,Foldby,V_Arne_Bay_Madsen,Arne Bay Madsen,"Venstre, Danmarks Liberale Parti",1
+Favrskov,8,Foldby,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,24
+Favrskov,8,Foldby,"Ø_Thake_Fogh_Cordt,_Skjød","Thake Fogh Cordt, Skjød",Enhedslisten - De Rød-Grønne,10
+Favrskov,8,Foldby,"Ø_Bodil_K._Olsen,_Houlbjerg","Bodil K. Olsen, Houlbjerg",Enhedslisten - De Rød-Grønne,2
+Favrskov,8,Foldby,"Ø_Peder_Meyhoff,_Hinnerup","Peder Meyhoff, Hinnerup",Enhedslisten - De Rød-Grønne,10
+Favrskov,8,Foldby,"Ø_Heidbra_Jonsdottir,_Hadsten","Heidbra Jonsdottir, Hadsten",Enhedslisten - De Rød-Grønne,1
+Favrskov,8,Foldby,"Ø_Aksel_Madsen,_Hinnerup","Aksel Madsen, Hinnerup",Enhedslisten - De Rød-Grønne,7
+Favrskov,8,Foldby,"Ø_Maria_Strunge_Sørensen,_Laurbjerg","Maria Strunge Sørensen, Laurbjerg",Enhedslisten - De Rød-Grønne,7
+Favrskov,8,Foldby,"Ø_Clément_Blain,_Laurbjerg","Clément Blain, Laurbjerg",Enhedslisten - De Rød-Grønne,1
+Favrskov,8,Foldby,"Ø_Per_Holm_Knudsen,_Hammel","Per Holm Knudsen, Hammel",Enhedslisten - De Rød-Grønne,2
+Favrskov,8,Foldby,"Ø_Bendt_Lund_Nielsen,_Hammel","Bendt Lund Nielsen, Hammel",Enhedslisten - De Rød-Grønne,0
+Favrskov,9,Ulstrup,A_Listestemmer,Listestemmer,Socialdemokratiet,99
+Favrskov,9,Ulstrup,A_Nils_Borring,Nils Borring,Socialdemokratiet,213
+Favrskov,9,Ulstrup,A_Isabell_Friis_Madsen,Isabell Friis Madsen,Socialdemokratiet,14
+Favrskov,9,Ulstrup,A_Erling_Kvist_Andersen,Erling Kvist Andersen,Socialdemokratiet,1
+Favrskov,9,Ulstrup,A_Lone_Boye,Lone Boye,Socialdemokratiet,9
+Favrskov,9,Ulstrup,A_Gitte_Lynderup_Lauritsen,Gitte Lynderup Lauritsen,Socialdemokratiet,3
+Favrskov,9,Ulstrup,A_Rikke_Randrup_Skåning,Rikke Randrup Skåning,Socialdemokratiet,9
+Favrskov,9,Ulstrup,A_Søren_Gade,Søren Gade,Socialdemokratiet,146
+Favrskov,9,Ulstrup,A_Grethe_Villadsen,Grethe Villadsen,Socialdemokratiet,3
+Favrskov,9,Ulstrup,A_Niels_Flade_Nielsen,Niels Flade Nielsen,Socialdemokratiet,1
+Favrskov,9,Ulstrup,A_Kristoffer_Merrild,Kristoffer Merrild,Socialdemokratiet,3
+Favrskov,9,Ulstrup,A_Maria_Degn,Maria Degn,Socialdemokratiet,3
+Favrskov,9,Ulstrup,A_Steen_Thomasen,Steen Thomasen,Socialdemokratiet,0
+Favrskov,9,Ulstrup,A_Kim_Hedegaard,Kim Hedegaard,Socialdemokratiet,0
+Favrskov,9,Ulstrup,A_Erik_Særkjær,Erik Særkjær,Socialdemokratiet,4
+Favrskov,9,Ulstrup,A_Martin_Hager_Andersen,Martin Hager Andersen,Socialdemokratiet,2
+Favrskov,9,Ulstrup,B_Listestemmer,Listestemmer,Radikale Venstre,9
+Favrskov,9,Ulstrup,"B_Torben_Christensen,_Foldby","Torben Christensen, Foldby",Radikale Venstre,11
+Favrskov,9,Ulstrup,"B_Pet_Petersen,_Hadsten","Pet Petersen, Hadsten",Radikale Venstre,1
+Favrskov,9,Ulstrup,"B_Bassam_El-Daoud,_Voldby","Bassam El-Daoud, Voldby",Radikale Venstre,0
+Favrskov,9,Ulstrup,"B_Peter_Enevoldsen,_Laurbjerg","Peter Enevoldsen, Laurbjerg",Radikale Venstre,0
+Favrskov,9,Ulstrup,"B_Rasmus_Grønborg_Jakobsen,_Hinnerup","Rasmus Grønborg Jakobsen, Hinnerup",Radikale Venstre,1
+Favrskov,9,Ulstrup,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,32
+Favrskov,9,Ulstrup,C_Lars_Storgaard,Lars Storgaard,Det Konservative Folkeparti,834
+Favrskov,9,Ulstrup,C_Charlotte_Green,Charlotte Green,Det Konservative Folkeparti,13
+Favrskov,9,Ulstrup,C_Niels_Chr._Selchau-Mark,Niels Chr. Selchau-Mark,Det Konservative Folkeparti,3
+Favrskov,9,Ulstrup,C_René_Schneider,René Schneider,Det Konservative Folkeparti,1
+Favrskov,9,Ulstrup,C_Mette_Nøhr,Mette Nøhr,Det Konservative Folkeparti,19
+Favrskov,9,Ulstrup,C_Anne-Sophie_Schjønning_Eriksen,Anne-Sophie Schjønning Eriksen,Det Konservative Folkeparti,7
+Favrskov,9,Ulstrup,C_Lene_Guldbrandt,Lene Guldbrandt,Det Konservative Folkeparti,23
+Favrskov,9,Ulstrup,C_Flemming_Aaen_Jensen,Flemming Aaen Jensen,Det Konservative Folkeparti,1
+Favrskov,9,Ulstrup,C_Jesper_B._Poulsen,Jesper B. Poulsen,Det Konservative Folkeparti,0
+Favrskov,9,Ulstrup,C_Knud_Schøler,Knud Schøler,Det Konservative Folkeparti,2
+Favrskov,9,Ulstrup,C_Tommy_Højer,Tommy Højer,Det Konservative Folkeparti,1
+Favrskov,9,Ulstrup,D_Listestemmer,Listestemmer,Nye Borgerlige,50
+Favrskov,9,Ulstrup,D_Erling_Høj_Sørensen,Erling Høj Sørensen,Nye Borgerlige,8
+Favrskov,9,Ulstrup,D_Hanne_Gram,Hanne Gram,Nye Borgerlige,11
+Favrskov,9,Ulstrup,D_Benny_B._Jensen,Benny B. Jensen,Nye Borgerlige,14
+Favrskov,9,Ulstrup,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,19
+Favrskov,9,Ulstrup,"F_Søren_Frandsen,_Grundfør","Søren Frandsen, Grundfør",SF - Socialistisk Folkeparti,7
+Favrskov,9,Ulstrup,"F_Søren_Lahn_Sloth,_Hinnerup","Søren Lahn Sloth, Hinnerup",SF - Socialistisk Folkeparti,13
+Favrskov,9,Ulstrup,"F_Laila_Jerming_Graf,_Sall","Laila Jerming Graf, Sall",SF - Socialistisk Folkeparti,8
+Favrskov,9,Ulstrup,"F_Chr._Kreiberg_Møller,_Hinnerup","Chr. Kreiberg Møller, Hinnerup",SF - Socialistisk Folkeparti,3
+Favrskov,9,Ulstrup,"F_Henriette_Stein_Knudsen,_Hadsten","Henriette Stein Knudsen, Hadsten",SF - Socialistisk Folkeparti,0
+Favrskov,9,Ulstrup,"F_Else_Marie_Frandsen,_Grundfør","Else Marie Frandsen, Grundfør",SF - Socialistisk Folkeparti,0
+Favrskov,9,Ulstrup,I_Listestemmer,Listestemmer,Liberal Alliance,5
+Favrskov,9,Ulstrup,I_Nicolai_Wang,Nicolai Wang,Liberal Alliance,2
+Favrskov,9,Ulstrup,I_Lisa_Perkins,Lisa Perkins,Liberal Alliance,3
+Favrskov,9,Ulstrup,L_Listestemmer,Listestemmer,Samlingspartiet Favrskov,4
+Favrskov,9,Ulstrup,"L_Bo_Berger,_Hammel","Bo Berger, Hammel",Samlingspartiet Favrskov,1
+Favrskov,9,Ulstrup,"L_Kasper_Kay_Petersen,_Hadsten","Kasper Kay Petersen, Hadsten",Samlingspartiet Favrskov,16
+Favrskov,9,Ulstrup,O_Listestemmer,Listestemmer,Dansk Folkeparti,20
+Favrskov,9,Ulstrup,O_Mercedes_Czank,Mercedes Czank,Dansk Folkeparti,10
+Favrskov,9,Ulstrup,O_Eva_Damsgaard,Eva Damsgaard,Dansk Folkeparti,10
+Favrskov,9,Ulstrup,O_Ove_Nørlem,Ove Nørlem,Dansk Folkeparti,3
+Favrskov,9,Ulstrup,O_Svend_Kjeldsen,Svend Kjeldsen,Dansk Folkeparti,3
+Favrskov,9,Ulstrup,O_Kjeld_Jensen,Kjeld Jensen,Dansk Folkeparti,1
+Favrskov,9,Ulstrup,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",54
+Favrskov,9,Ulstrup,V_Birgit_Liin,Birgit Liin,"Venstre, Danmarks Liberale Parti",41
+Favrskov,9,Ulstrup,V_Flemming_Nørgaard,Flemming Nørgaard,"Venstre, Danmarks Liberale Parti",354
+Favrskov,9,Ulstrup,V_Hanne_Smedegaard,Hanne Smedegaard,"Venstre, Danmarks Liberale Parti",9
+Favrskov,9,Ulstrup,V_Thomas_Storm,Thomas Storm,"Venstre, Danmarks Liberale Parti",0
+Favrskov,9,Ulstrup,V_Lone_Glarbo,Lone Glarbo,"Venstre, Danmarks Liberale Parti",0
+Favrskov,9,Ulstrup,V_Ken_Richter,Ken Richter,"Venstre, Danmarks Liberale Parti",0
+Favrskov,9,Ulstrup,V_Christian_Møller-Nielsen,Christian Møller-Nielsen,"Venstre, Danmarks Liberale Parti",2
+Favrskov,9,Ulstrup,V_Morten_Bang,Morten Bang,"Venstre, Danmarks Liberale Parti",1
+Favrskov,9,Ulstrup,V_Birgit_Bach-Valeur,Birgit Bach-Valeur,"Venstre, Danmarks Liberale Parti",0
+Favrskov,9,Ulstrup,V_Simon_Buus_Olsen,Simon Buus Olsen,"Venstre, Danmarks Liberale Parti",1
+Favrskov,9,Ulstrup,V_Michael_Jensen,Michael Jensen,"Venstre, Danmarks Liberale Parti",2
+Favrskov,9,Ulstrup,V_Santana_Marie_Malling,Santana Marie Malling,"Venstre, Danmarks Liberale Parti",4
+Favrskov,9,Ulstrup,V_Flemming_Kragh_Thomassen,Flemming Kragh Thomassen,"Venstre, Danmarks Liberale Parti",2
+Favrskov,9,Ulstrup,V_Gert_Jensen,Gert Jensen,"Venstre, Danmarks Liberale Parti",3
+Favrskov,9,Ulstrup,V_Orla_Nielsen,Orla Nielsen,"Venstre, Danmarks Liberale Parti",0
+Favrskov,9,Ulstrup,V_Susanne_Rokkjær,Susanne Rokkjær,"Venstre, Danmarks Liberale Parti",2
+Favrskov,9,Ulstrup,V_Arne_Bay_Madsen,Arne Bay Madsen,"Venstre, Danmarks Liberale Parti",0
+Favrskov,9,Ulstrup,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,31
+Favrskov,9,Ulstrup,"Ø_Thake_Fogh_Cordt,_Skjød","Thake Fogh Cordt, Skjød",Enhedslisten - De Rød-Grønne,7
+Favrskov,9,Ulstrup,"Ø_Bodil_K._Olsen,_Houlbjerg","Bodil K. Olsen, Houlbjerg",Enhedslisten - De Rød-Grønne,4
+Favrskov,9,Ulstrup,"Ø_Peder_Meyhoff,_Hinnerup","Peder Meyhoff, Hinnerup",Enhedslisten - De Rød-Grønne,8
+Favrskov,9,Ulstrup,"Ø_Heidbra_Jonsdottir,_Hadsten","Heidbra Jonsdottir, Hadsten",Enhedslisten - De Rød-Grønne,0
+Favrskov,9,Ulstrup,"Ø_Aksel_Madsen,_Hinnerup","Aksel Madsen, Hinnerup",Enhedslisten - De Rød-Grønne,1
+Favrskov,9,Ulstrup,"Ø_Maria_Strunge_Sørensen,_Laurbjerg","Maria Strunge Sørensen, Laurbjerg",Enhedslisten - De Rød-Grønne,9
+Favrskov,9,Ulstrup,"Ø_Clément_Blain,_Laurbjerg","Clément Blain, Laurbjerg",Enhedslisten - De Rød-Grønne,2
+Favrskov,9,Ulstrup,"Ø_Per_Holm_Knudsen,_Hammel","Per Holm Knudsen, Hammel",Enhedslisten - De Rød-Grønne,1
+Favrskov,9,Ulstrup,"Ø_Bendt_Lund_Nielsen,_Hammel","Bendt Lund Nielsen, Hammel",Enhedslisten - De Rød-Grønne,1
+Favrskov,10,Thorsø/Haurum/Sall,A_Listestemmer,Listestemmer,Socialdemokratiet,120
+Favrskov,10,Thorsø/Haurum/Sall,A_Nils_Borring,Nils Borring,Socialdemokratiet,366
+Favrskov,10,Thorsø/Haurum/Sall,A_Isabell_Friis_Madsen,Isabell Friis Madsen,Socialdemokratiet,12
+Favrskov,10,Thorsø/Haurum/Sall,A_Erling_Kvist_Andersen,Erling Kvist Andersen,Socialdemokratiet,5
+Favrskov,10,Thorsø/Haurum/Sall,A_Lone_Boye,Lone Boye,Socialdemokratiet,25
+Favrskov,10,Thorsø/Haurum/Sall,A_Gitte_Lynderup_Lauritsen,Gitte Lynderup Lauritsen,Socialdemokratiet,0
+Favrskov,10,Thorsø/Haurum/Sall,A_Rikke_Randrup_Skåning,Rikke Randrup Skåning,Socialdemokratiet,5
+Favrskov,10,Thorsø/Haurum/Sall,A_Søren_Gade,Søren Gade,Socialdemokratiet,15
+Favrskov,10,Thorsø/Haurum/Sall,A_Grethe_Villadsen,Grethe Villadsen,Socialdemokratiet,3
+Favrskov,10,Thorsø/Haurum/Sall,A_Niels_Flade_Nielsen,Niels Flade Nielsen,Socialdemokratiet,12
+Favrskov,10,Thorsø/Haurum/Sall,A_Kristoffer_Merrild,Kristoffer Merrild,Socialdemokratiet,3
+Favrskov,10,Thorsø/Haurum/Sall,A_Maria_Degn,Maria Degn,Socialdemokratiet,20
+Favrskov,10,Thorsø/Haurum/Sall,A_Steen_Thomasen,Steen Thomasen,Socialdemokratiet,1
+Favrskov,10,Thorsø/Haurum/Sall,A_Kim_Hedegaard,Kim Hedegaard,Socialdemokratiet,1
+Favrskov,10,Thorsø/Haurum/Sall,A_Erik_Særkjær,Erik Særkjær,Socialdemokratiet,3
+Favrskov,10,Thorsø/Haurum/Sall,A_Martin_Hager_Andersen,Martin Hager Andersen,Socialdemokratiet,4
+Favrskov,10,Thorsø/Haurum/Sall,B_Listestemmer,Listestemmer,Radikale Venstre,8
+Favrskov,10,Thorsø/Haurum/Sall,"B_Torben_Christensen,_Foldby","Torben Christensen, Foldby",Radikale Venstre,11
+Favrskov,10,Thorsø/Haurum/Sall,"B_Pet_Petersen,_Hadsten","Pet Petersen, Hadsten",Radikale Venstre,1
+Favrskov,10,Thorsø/Haurum/Sall,"B_Bassam_El-Daoud,_Voldby","Bassam El-Daoud, Voldby",Radikale Venstre,0
+Favrskov,10,Thorsø/Haurum/Sall,"B_Peter_Enevoldsen,_Laurbjerg","Peter Enevoldsen, Laurbjerg",Radikale Venstre,1
+Favrskov,10,Thorsø/Haurum/Sall,"B_Rasmus_Grønborg_Jakobsen,_Hinnerup","Rasmus Grønborg Jakobsen, Hinnerup",Radikale Venstre,3
+Favrskov,10,Thorsø/Haurum/Sall,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,65
+Favrskov,10,Thorsø/Haurum/Sall,C_Lars_Storgaard,Lars Storgaard,Det Konservative Folkeparti,128
+Favrskov,10,Thorsø/Haurum/Sall,C_Charlotte_Green,Charlotte Green,Det Konservative Folkeparti,18
+Favrskov,10,Thorsø/Haurum/Sall,C_Niels_Chr._Selchau-Mark,Niels Chr. Selchau-Mark,Det Konservative Folkeparti,4
+Favrskov,10,Thorsø/Haurum/Sall,C_René_Schneider,René Schneider,Det Konservative Folkeparti,9
+Favrskov,10,Thorsø/Haurum/Sall,C_Mette_Nøhr,Mette Nøhr,Det Konservative Folkeparti,305
+Favrskov,10,Thorsø/Haurum/Sall,C_Anne-Sophie_Schjønning_Eriksen,Anne-Sophie Schjønning Eriksen,Det Konservative Folkeparti,3
+Favrskov,10,Thorsø/Haurum/Sall,C_Lene_Guldbrandt,Lene Guldbrandt,Det Konservative Folkeparti,35
+Favrskov,10,Thorsø/Haurum/Sall,C_Flemming_Aaen_Jensen,Flemming Aaen Jensen,Det Konservative Folkeparti,0
+Favrskov,10,Thorsø/Haurum/Sall,C_Jesper_B._Poulsen,Jesper B. Poulsen,Det Konservative Folkeparti,1
+Favrskov,10,Thorsø/Haurum/Sall,C_Knud_Schøler,Knud Schøler,Det Konservative Folkeparti,1
+Favrskov,10,Thorsø/Haurum/Sall,C_Tommy_Højer,Tommy Højer,Det Konservative Folkeparti,7
+Favrskov,10,Thorsø/Haurum/Sall,D_Listestemmer,Listestemmer,Nye Borgerlige,55
+Favrskov,10,Thorsø/Haurum/Sall,D_Erling_Høj_Sørensen,Erling Høj Sørensen,Nye Borgerlige,9
+Favrskov,10,Thorsø/Haurum/Sall,D_Hanne_Gram,Hanne Gram,Nye Borgerlige,8
+Favrskov,10,Thorsø/Haurum/Sall,D_Benny_B._Jensen,Benny B. Jensen,Nye Borgerlige,35
+Favrskov,10,Thorsø/Haurum/Sall,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,17
+Favrskov,10,Thorsø/Haurum/Sall,"F_Søren_Frandsen,_Grundfør","Søren Frandsen, Grundfør",SF - Socialistisk Folkeparti,6
+Favrskov,10,Thorsø/Haurum/Sall,"F_Søren_Lahn_Sloth,_Hinnerup","Søren Lahn Sloth, Hinnerup",SF - Socialistisk Folkeparti,6
+Favrskov,10,Thorsø/Haurum/Sall,"F_Laila_Jerming_Graf,_Sall","Laila Jerming Graf, Sall",SF - Socialistisk Folkeparti,15
+Favrskov,10,Thorsø/Haurum/Sall,"F_Chr._Kreiberg_Møller,_Hinnerup","Chr. Kreiberg Møller, Hinnerup",SF - Socialistisk Folkeparti,0
+Favrskov,10,Thorsø/Haurum/Sall,"F_Henriette_Stein_Knudsen,_Hadsten","Henriette Stein Knudsen, Hadsten",SF - Socialistisk Folkeparti,0
+Favrskov,10,Thorsø/Haurum/Sall,"F_Else_Marie_Frandsen,_Grundfør","Else Marie Frandsen, Grundfør",SF - Socialistisk Folkeparti,1
+Favrskov,10,Thorsø/Haurum/Sall,I_Listestemmer,Listestemmer,Liberal Alliance,6
+Favrskov,10,Thorsø/Haurum/Sall,I_Nicolai_Wang,Nicolai Wang,Liberal Alliance,5
+Favrskov,10,Thorsø/Haurum/Sall,I_Lisa_Perkins,Lisa Perkins,Liberal Alliance,1
+Favrskov,10,Thorsø/Haurum/Sall,L_Listestemmer,Listestemmer,Samlingspartiet Favrskov,2
+Favrskov,10,Thorsø/Haurum/Sall,"L_Bo_Berger,_Hammel","Bo Berger, Hammel",Samlingspartiet Favrskov,3
+Favrskov,10,Thorsø/Haurum/Sall,"L_Kasper_Kay_Petersen,_Hadsten","Kasper Kay Petersen, Hadsten",Samlingspartiet Favrskov,16
+Favrskov,10,Thorsø/Haurum/Sall,O_Listestemmer,Listestemmer,Dansk Folkeparti,41
+Favrskov,10,Thorsø/Haurum/Sall,O_Mercedes_Czank,Mercedes Czank,Dansk Folkeparti,25
+Favrskov,10,Thorsø/Haurum/Sall,O_Eva_Damsgaard,Eva Damsgaard,Dansk Folkeparti,8
+Favrskov,10,Thorsø/Haurum/Sall,O_Ove_Nørlem,Ove Nørlem,Dansk Folkeparti,3
+Favrskov,10,Thorsø/Haurum/Sall,O_Svend_Kjeldsen,Svend Kjeldsen,Dansk Folkeparti,3
+Favrskov,10,Thorsø/Haurum/Sall,O_Kjeld_Jensen,Kjeld Jensen,Dansk Folkeparti,17
+Favrskov,10,Thorsø/Haurum/Sall,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",88
+Favrskov,10,Thorsø/Haurum/Sall,V_Birgit_Liin,Birgit Liin,"Venstre, Danmarks Liberale Parti",71
+Favrskov,10,Thorsø/Haurum/Sall,V_Flemming_Nørgaard,Flemming Nørgaard,"Venstre, Danmarks Liberale Parti",74
+Favrskov,10,Thorsø/Haurum/Sall,V_Hanne_Smedegaard,Hanne Smedegaard,"Venstre, Danmarks Liberale Parti",15
+Favrskov,10,Thorsø/Haurum/Sall,V_Thomas_Storm,Thomas Storm,"Venstre, Danmarks Liberale Parti",3
+Favrskov,10,Thorsø/Haurum/Sall,V_Lone_Glarbo,Lone Glarbo,"Venstre, Danmarks Liberale Parti",1
+Favrskov,10,Thorsø/Haurum/Sall,V_Ken_Richter,Ken Richter,"Venstre, Danmarks Liberale Parti",2
+Favrskov,10,Thorsø/Haurum/Sall,V_Christian_Møller-Nielsen,Christian Møller-Nielsen,"Venstre, Danmarks Liberale Parti",8
+Favrskov,10,Thorsø/Haurum/Sall,V_Morten_Bang,Morten Bang,"Venstre, Danmarks Liberale Parti",1
+Favrskov,10,Thorsø/Haurum/Sall,V_Birgit_Bach-Valeur,Birgit Bach-Valeur,"Venstre, Danmarks Liberale Parti",3
+Favrskov,10,Thorsø/Haurum/Sall,V_Simon_Buus_Olsen,Simon Buus Olsen,"Venstre, Danmarks Liberale Parti",2
+Favrskov,10,Thorsø/Haurum/Sall,V_Michael_Jensen,Michael Jensen,"Venstre, Danmarks Liberale Parti",2
+Favrskov,10,Thorsø/Haurum/Sall,V_Santana_Marie_Malling,Santana Marie Malling,"Venstre, Danmarks Liberale Parti",133
+Favrskov,10,Thorsø/Haurum/Sall,V_Flemming_Kragh_Thomassen,Flemming Kragh Thomassen,"Venstre, Danmarks Liberale Parti",0
+Favrskov,10,Thorsø/Haurum/Sall,V_Gert_Jensen,Gert Jensen,"Venstre, Danmarks Liberale Parti",2
+Favrskov,10,Thorsø/Haurum/Sall,V_Orla_Nielsen,Orla Nielsen,"Venstre, Danmarks Liberale Parti",3
+Favrskov,10,Thorsø/Haurum/Sall,V_Susanne_Rokkjær,Susanne Rokkjær,"Venstre, Danmarks Liberale Parti",4
+Favrskov,10,Thorsø/Haurum/Sall,V_Arne_Bay_Madsen,Arne Bay Madsen,"Venstre, Danmarks Liberale Parti",0
+Favrskov,10,Thorsø/Haurum/Sall,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,28
+Favrskov,10,Thorsø/Haurum/Sall,"Ø_Thake_Fogh_Cordt,_Skjød","Thake Fogh Cordt, Skjød",Enhedslisten - De Rød-Grønne,9
+Favrskov,10,Thorsø/Haurum/Sall,"Ø_Bodil_K._Olsen,_Houlbjerg","Bodil K. Olsen, Houlbjerg",Enhedslisten - De Rød-Grønne,8
+Favrskov,10,Thorsø/Haurum/Sall,"Ø_Peder_Meyhoff,_Hinnerup","Peder Meyhoff, Hinnerup",Enhedslisten - De Rød-Grønne,5
+Favrskov,10,Thorsø/Haurum/Sall,"Ø_Heidbra_Jonsdottir,_Hadsten","Heidbra Jonsdottir, Hadsten",Enhedslisten - De Rød-Grønne,0
+Favrskov,10,Thorsø/Haurum/Sall,"Ø_Aksel_Madsen,_Hinnerup","Aksel Madsen, Hinnerup",Enhedslisten - De Rød-Grønne,4
+Favrskov,10,Thorsø/Haurum/Sall,"Ø_Maria_Strunge_Sørensen,_Laurbjerg","Maria Strunge Sørensen, Laurbjerg",Enhedslisten - De Rød-Grønne,15
+Favrskov,10,Thorsø/Haurum/Sall,"Ø_Clément_Blain,_Laurbjerg","Clément Blain, Laurbjerg",Enhedslisten - De Rød-Grønne,2
+Favrskov,10,Thorsø/Haurum/Sall,"Ø_Per_Holm_Knudsen,_Hammel","Per Holm Knudsen, Hammel",Enhedslisten - De Rød-Grønne,2
+Favrskov,10,Thorsø/Haurum/Sall,"Ø_Bendt_Lund_Nielsen,_Hammel","Bendt Lund Nielsen, Hammel",Enhedslisten - De Rød-Grønne,0
+Favrskov,11,Laurbjerg/Houlbjerg,A_Listestemmer,Listestemmer,Socialdemokratiet,57
+Favrskov,11,Laurbjerg/Houlbjerg,A_Nils_Borring,Nils Borring,Socialdemokratiet,192
+Favrskov,11,Laurbjerg/Houlbjerg,A_Isabell_Friis_Madsen,Isabell Friis Madsen,Socialdemokratiet,17
+Favrskov,11,Laurbjerg/Houlbjerg,A_Erling_Kvist_Andersen,Erling Kvist Andersen,Socialdemokratiet,3
+Favrskov,11,Laurbjerg/Houlbjerg,A_Lone_Boye,Lone Boye,Socialdemokratiet,4
+Favrskov,11,Laurbjerg/Houlbjerg,A_Gitte_Lynderup_Lauritsen,Gitte Lynderup Lauritsen,Socialdemokratiet,1
+Favrskov,11,Laurbjerg/Houlbjerg,A_Rikke_Randrup_Skåning,Rikke Randrup Skåning,Socialdemokratiet,8
+Favrskov,11,Laurbjerg/Houlbjerg,A_Søren_Gade,Søren Gade,Socialdemokratiet,6
+Favrskov,11,Laurbjerg/Houlbjerg,A_Grethe_Villadsen,Grethe Villadsen,Socialdemokratiet,6
+Favrskov,11,Laurbjerg/Houlbjerg,A_Niels_Flade_Nielsen,Niels Flade Nielsen,Socialdemokratiet,3
+Favrskov,11,Laurbjerg/Houlbjerg,A_Kristoffer_Merrild,Kristoffer Merrild,Socialdemokratiet,0
+Favrskov,11,Laurbjerg/Houlbjerg,A_Maria_Degn,Maria Degn,Socialdemokratiet,10
+Favrskov,11,Laurbjerg/Houlbjerg,A_Steen_Thomasen,Steen Thomasen,Socialdemokratiet,1
+Favrskov,11,Laurbjerg/Houlbjerg,A_Kim_Hedegaard,Kim Hedegaard,Socialdemokratiet,0
+Favrskov,11,Laurbjerg/Houlbjerg,A_Erik_Særkjær,Erik Særkjær,Socialdemokratiet,4
+Favrskov,11,Laurbjerg/Houlbjerg,A_Martin_Hager_Andersen,Martin Hager Andersen,Socialdemokratiet,1
+Favrskov,11,Laurbjerg/Houlbjerg,B_Listestemmer,Listestemmer,Radikale Venstre,5
+Favrskov,11,Laurbjerg/Houlbjerg,"B_Torben_Christensen,_Foldby","Torben Christensen, Foldby",Radikale Venstre,6
+Favrskov,11,Laurbjerg/Houlbjerg,"B_Pet_Petersen,_Hadsten","Pet Petersen, Hadsten",Radikale Venstre,6
+Favrskov,11,Laurbjerg/Houlbjerg,"B_Bassam_El-Daoud,_Voldby","Bassam El-Daoud, Voldby",Radikale Venstre,1
+Favrskov,11,Laurbjerg/Houlbjerg,"B_Peter_Enevoldsen,_Laurbjerg","Peter Enevoldsen, Laurbjerg",Radikale Venstre,5
+Favrskov,11,Laurbjerg/Houlbjerg,"B_Rasmus_Grønborg_Jakobsen,_Hinnerup","Rasmus Grønborg Jakobsen, Hinnerup",Radikale Venstre,1
+Favrskov,11,Laurbjerg/Houlbjerg,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,20
+Favrskov,11,Laurbjerg/Houlbjerg,C_Lars_Storgaard,Lars Storgaard,Det Konservative Folkeparti,25
+Favrskov,11,Laurbjerg/Houlbjerg,C_Charlotte_Green,Charlotte Green,Det Konservative Folkeparti,13
+Favrskov,11,Laurbjerg/Houlbjerg,C_Niels_Chr._Selchau-Mark,Niels Chr. Selchau-Mark,Det Konservative Folkeparti,7
+Favrskov,11,Laurbjerg/Houlbjerg,C_René_Schneider,René Schneider,Det Konservative Folkeparti,3
+Favrskov,11,Laurbjerg/Houlbjerg,C_Mette_Nøhr,Mette Nøhr,Det Konservative Folkeparti,18
+Favrskov,11,Laurbjerg/Houlbjerg,C_Anne-Sophie_Schjønning_Eriksen,Anne-Sophie Schjønning Eriksen,Det Konservative Folkeparti,9
+Favrskov,11,Laurbjerg/Houlbjerg,C_Lene_Guldbrandt,Lene Guldbrandt,Det Konservative Folkeparti,0
+Favrskov,11,Laurbjerg/Houlbjerg,C_Flemming_Aaen_Jensen,Flemming Aaen Jensen,Det Konservative Folkeparti,1
+Favrskov,11,Laurbjerg/Houlbjerg,C_Jesper_B._Poulsen,Jesper B. Poulsen,Det Konservative Folkeparti,1
+Favrskov,11,Laurbjerg/Houlbjerg,C_Knud_Schøler,Knud Schøler,Det Konservative Folkeparti,1
+Favrskov,11,Laurbjerg/Houlbjerg,C_Tommy_Højer,Tommy Højer,Det Konservative Folkeparti,1
+Favrskov,11,Laurbjerg/Houlbjerg,D_Listestemmer,Listestemmer,Nye Borgerlige,14
+Favrskov,11,Laurbjerg/Houlbjerg,D_Erling_Høj_Sørensen,Erling Høj Sørensen,Nye Borgerlige,8
+Favrskov,11,Laurbjerg/Houlbjerg,D_Hanne_Gram,Hanne Gram,Nye Borgerlige,2
+Favrskov,11,Laurbjerg/Houlbjerg,D_Benny_B._Jensen,Benny B. Jensen,Nye Borgerlige,14
+Favrskov,11,Laurbjerg/Houlbjerg,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,16
+Favrskov,11,Laurbjerg/Houlbjerg,"F_Søren_Frandsen,_Grundfør","Søren Frandsen, Grundfør",SF - Socialistisk Folkeparti,3
+Favrskov,11,Laurbjerg/Houlbjerg,"F_Søren_Lahn_Sloth,_Hinnerup","Søren Lahn Sloth, Hinnerup",SF - Socialistisk Folkeparti,6
+Favrskov,11,Laurbjerg/Houlbjerg,"F_Laila_Jerming_Graf,_Sall","Laila Jerming Graf, Sall",SF - Socialistisk Folkeparti,7
+Favrskov,11,Laurbjerg/Houlbjerg,"F_Chr._Kreiberg_Møller,_Hinnerup","Chr. Kreiberg Møller, Hinnerup",SF - Socialistisk Folkeparti,0
+Favrskov,11,Laurbjerg/Houlbjerg,"F_Henriette_Stein_Knudsen,_Hadsten","Henriette Stein Knudsen, Hadsten",SF - Socialistisk Folkeparti,0
+Favrskov,11,Laurbjerg/Houlbjerg,"F_Else_Marie_Frandsen,_Grundfør","Else Marie Frandsen, Grundfør",SF - Socialistisk Folkeparti,1
+Favrskov,11,Laurbjerg/Houlbjerg,I_Listestemmer,Listestemmer,Liberal Alliance,2
+Favrskov,11,Laurbjerg/Houlbjerg,I_Nicolai_Wang,Nicolai Wang,Liberal Alliance,3
+Favrskov,11,Laurbjerg/Houlbjerg,I_Lisa_Perkins,Lisa Perkins,Liberal Alliance,3
+Favrskov,11,Laurbjerg/Houlbjerg,L_Listestemmer,Listestemmer,Samlingspartiet Favrskov,2
+Favrskov,11,Laurbjerg/Houlbjerg,"L_Bo_Berger,_Hammel","Bo Berger, Hammel",Samlingspartiet Favrskov,4
+Favrskov,11,Laurbjerg/Houlbjerg,"L_Kasper_Kay_Petersen,_Hadsten","Kasper Kay Petersen, Hadsten",Samlingspartiet Favrskov,5
+Favrskov,11,Laurbjerg/Houlbjerg,O_Listestemmer,Listestemmer,Dansk Folkeparti,18
+Favrskov,11,Laurbjerg/Houlbjerg,O_Mercedes_Czank,Mercedes Czank,Dansk Folkeparti,8
+Favrskov,11,Laurbjerg/Houlbjerg,O_Eva_Damsgaard,Eva Damsgaard,Dansk Folkeparti,11
+Favrskov,11,Laurbjerg/Houlbjerg,O_Ove_Nørlem,Ove Nørlem,Dansk Folkeparti,1
+Favrskov,11,Laurbjerg/Houlbjerg,O_Svend_Kjeldsen,Svend Kjeldsen,Dansk Folkeparti,1
+Favrskov,11,Laurbjerg/Houlbjerg,O_Kjeld_Jensen,Kjeld Jensen,Dansk Folkeparti,6
+Favrskov,11,Laurbjerg/Houlbjerg,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",20
+Favrskov,11,Laurbjerg/Houlbjerg,V_Birgit_Liin,Birgit Liin,"Venstre, Danmarks Liberale Parti",314
+Favrskov,11,Laurbjerg/Houlbjerg,V_Flemming_Nørgaard,Flemming Nørgaard,"Venstre, Danmarks Liberale Parti",13
+Favrskov,11,Laurbjerg/Houlbjerg,V_Hanne_Smedegaard,Hanne Smedegaard,"Venstre, Danmarks Liberale Parti",4
+Favrskov,11,Laurbjerg/Houlbjerg,V_Thomas_Storm,Thomas Storm,"Venstre, Danmarks Liberale Parti",0
+Favrskov,11,Laurbjerg/Houlbjerg,V_Lone_Glarbo,Lone Glarbo,"Venstre, Danmarks Liberale Parti",3
+Favrskov,11,Laurbjerg/Houlbjerg,V_Ken_Richter,Ken Richter,"Venstre, Danmarks Liberale Parti",0
+Favrskov,11,Laurbjerg/Houlbjerg,V_Christian_Møller-Nielsen,Christian Møller-Nielsen,"Venstre, Danmarks Liberale Parti",1
+Favrskov,11,Laurbjerg/Houlbjerg,V_Morten_Bang,Morten Bang,"Venstre, Danmarks Liberale Parti",3
+Favrskov,11,Laurbjerg/Houlbjerg,V_Birgit_Bach-Valeur,Birgit Bach-Valeur,"Venstre, Danmarks Liberale Parti",2
+Favrskov,11,Laurbjerg/Houlbjerg,V_Simon_Buus_Olsen,Simon Buus Olsen,"Venstre, Danmarks Liberale Parti",3
+Favrskov,11,Laurbjerg/Houlbjerg,V_Michael_Jensen,Michael Jensen,"Venstre, Danmarks Liberale Parti",2
+Favrskov,11,Laurbjerg/Houlbjerg,V_Santana_Marie_Malling,Santana Marie Malling,"Venstre, Danmarks Liberale Parti",6
+Favrskov,11,Laurbjerg/Houlbjerg,V_Flemming_Kragh_Thomassen,Flemming Kragh Thomassen,"Venstre, Danmarks Liberale Parti",0
+Favrskov,11,Laurbjerg/Houlbjerg,V_Gert_Jensen,Gert Jensen,"Venstre, Danmarks Liberale Parti",21
+Favrskov,11,Laurbjerg/Houlbjerg,V_Orla_Nielsen,Orla Nielsen,"Venstre, Danmarks Liberale Parti",2
+Favrskov,11,Laurbjerg/Houlbjerg,V_Susanne_Rokkjær,Susanne Rokkjær,"Venstre, Danmarks Liberale Parti",3
+Favrskov,11,Laurbjerg/Houlbjerg,V_Arne_Bay_Madsen,Arne Bay Madsen,"Venstre, Danmarks Liberale Parti",0
+Favrskov,11,Laurbjerg/Houlbjerg,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,14
+Favrskov,11,Laurbjerg/Houlbjerg,"Ø_Thake_Fogh_Cordt,_Skjød","Thake Fogh Cordt, Skjød",Enhedslisten - De Rød-Grønne,9
+Favrskov,11,Laurbjerg/Houlbjerg,"Ø_Bodil_K._Olsen,_Houlbjerg","Bodil K. Olsen, Houlbjerg",Enhedslisten - De Rød-Grønne,22
+Favrskov,11,Laurbjerg/Houlbjerg,"Ø_Peder_Meyhoff,_Hinnerup","Peder Meyhoff, Hinnerup",Enhedslisten - De Rød-Grønne,2
+Favrskov,11,Laurbjerg/Houlbjerg,"Ø_Heidbra_Jonsdottir,_Hadsten","Heidbra Jonsdottir, Hadsten",Enhedslisten - De Rød-Grønne,0
+Favrskov,11,Laurbjerg/Houlbjerg,"Ø_Aksel_Madsen,_Hinnerup","Aksel Madsen, Hinnerup",Enhedslisten - De Rød-Grønne,0
+Favrskov,11,Laurbjerg/Houlbjerg,"Ø_Maria_Strunge_Sørensen,_Laurbjerg","Maria Strunge Sørensen, Laurbjerg",Enhedslisten - De Rød-Grønne,15
+Favrskov,11,Laurbjerg/Houlbjerg,"Ø_Clément_Blain,_Laurbjerg","Clément Blain, Laurbjerg",Enhedslisten - De Rød-Grønne,10
+Favrskov,11,Laurbjerg/Houlbjerg,"Ø_Per_Holm_Knudsen,_Hammel","Per Holm Knudsen, Hammel",Enhedslisten - De Rød-Grønne,2
+Favrskov,11,Laurbjerg/Houlbjerg,"Ø_Bendt_Lund_Nielsen,_Hammel","Bendt Lund Nielsen, Hammel",Enhedslisten - De Rød-Grønne,0
+Favrskov,12,Søften,A_Listestemmer,Listestemmer,Socialdemokratiet,128
+Favrskov,12,Søften,A_Nils_Borring,Nils Borring,Socialdemokratiet,265
+Favrskov,12,Søften,A_Isabell_Friis_Madsen,Isabell Friis Madsen,Socialdemokratiet,31
+Favrskov,12,Søften,A_Erling_Kvist_Andersen,Erling Kvist Andersen,Socialdemokratiet,37
+Favrskov,12,Søften,A_Lone_Boye,Lone Boye,Socialdemokratiet,9
+Favrskov,12,Søften,A_Gitte_Lynderup_Lauritsen,Gitte Lynderup Lauritsen,Socialdemokratiet,45
+Favrskov,12,Søften,A_Rikke_Randrup_Skåning,Rikke Randrup Skåning,Socialdemokratiet,13
+Favrskov,12,Søften,A_Søren_Gade,Søren Gade,Socialdemokratiet,2
+Favrskov,12,Søften,A_Grethe_Villadsen,Grethe Villadsen,Socialdemokratiet,2
+Favrskov,12,Søften,A_Niels_Flade_Nielsen,Niels Flade Nielsen,Socialdemokratiet,2
+Favrskov,12,Søften,A_Kristoffer_Merrild,Kristoffer Merrild,Socialdemokratiet,17
+Favrskov,12,Søften,A_Maria_Degn,Maria Degn,Socialdemokratiet,3
+Favrskov,12,Søften,A_Steen_Thomasen,Steen Thomasen,Socialdemokratiet,110
+Favrskov,12,Søften,A_Kim_Hedegaard,Kim Hedegaard,Socialdemokratiet,0
+Favrskov,12,Søften,A_Erik_Særkjær,Erik Særkjær,Socialdemokratiet,4
+Favrskov,12,Søften,A_Martin_Hager_Andersen,Martin Hager Andersen,Socialdemokratiet,6
+Favrskov,12,Søften,B_Listestemmer,Listestemmer,Radikale Venstre,19
+Favrskov,12,Søften,"B_Torben_Christensen,_Foldby","Torben Christensen, Foldby",Radikale Venstre,16
+Favrskov,12,Søften,"B_Pet_Petersen,_Hadsten","Pet Petersen, Hadsten",Radikale Venstre,20
+Favrskov,12,Søften,"B_Bassam_El-Daoud,_Voldby","Bassam El-Daoud, Voldby",Radikale Venstre,1
+Favrskov,12,Søften,"B_Peter_Enevoldsen,_Laurbjerg","Peter Enevoldsen, Laurbjerg",Radikale Venstre,0
+Favrskov,12,Søften,"B_Rasmus_Grønborg_Jakobsen,_Hinnerup","Rasmus Grønborg Jakobsen, Hinnerup",Radikale Venstre,30
+Favrskov,12,Søften,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,68
+Favrskov,12,Søften,C_Lars_Storgaard,Lars Storgaard,Det Konservative Folkeparti,24
+Favrskov,12,Søften,C_Charlotte_Green,Charlotte Green,Det Konservative Folkeparti,178
+Favrskov,12,Søften,C_Niels_Chr._Selchau-Mark,Niels Chr. Selchau-Mark,Det Konservative Folkeparti,13
+Favrskov,12,Søften,C_René_Schneider,René Schneider,Det Konservative Folkeparti,4
+Favrskov,12,Søften,C_Mette_Nøhr,Mette Nøhr,Det Konservative Folkeparti,13
+Favrskov,12,Søften,C_Anne-Sophie_Schjønning_Eriksen,Anne-Sophie Schjønning Eriksen,Det Konservative Folkeparti,9
+Favrskov,12,Søften,C_Lene_Guldbrandt,Lene Guldbrandt,Det Konservative Folkeparti,2
+Favrskov,12,Søften,C_Flemming_Aaen_Jensen,Flemming Aaen Jensen,Det Konservative Folkeparti,0
+Favrskov,12,Søften,C_Jesper_B._Poulsen,Jesper B. Poulsen,Det Konservative Folkeparti,0
+Favrskov,12,Søften,C_Knud_Schøler,Knud Schøler,Det Konservative Folkeparti,30
+Favrskov,12,Søften,C_Tommy_Højer,Tommy Højer,Det Konservative Folkeparti,0
+Favrskov,12,Søften,D_Listestemmer,Listestemmer,Nye Borgerlige,18
+Favrskov,12,Søften,D_Erling_Høj_Sørensen,Erling Høj Sørensen,Nye Borgerlige,13
+Favrskov,12,Søften,D_Hanne_Gram,Hanne Gram,Nye Borgerlige,7
+Favrskov,12,Søften,D_Benny_B._Jensen,Benny B. Jensen,Nye Borgerlige,6
+Favrskov,12,Søften,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,31
+Favrskov,12,Søften,"F_Søren_Frandsen,_Grundfør","Søren Frandsen, Grundfør",SF - Socialistisk Folkeparti,15
+Favrskov,12,Søften,"F_Søren_Lahn_Sloth,_Hinnerup","Søren Lahn Sloth, Hinnerup",SF - Socialistisk Folkeparti,28
+Favrskov,12,Søften,"F_Laila_Jerming_Graf,_Sall","Laila Jerming Graf, Sall",SF - Socialistisk Folkeparti,6
+Favrskov,12,Søften,"F_Chr._Kreiberg_Møller,_Hinnerup","Chr. Kreiberg Møller, Hinnerup",SF - Socialistisk Folkeparti,2
+Favrskov,12,Søften,"F_Henriette_Stein_Knudsen,_Hadsten","Henriette Stein Knudsen, Hadsten",SF - Socialistisk Folkeparti,1
+Favrskov,12,Søften,"F_Else_Marie_Frandsen,_Grundfør","Else Marie Frandsen, Grundfør",SF - Socialistisk Folkeparti,6
+Favrskov,12,Søften,I_Listestemmer,Listestemmer,Liberal Alliance,7
+Favrskov,12,Søften,I_Nicolai_Wang,Nicolai Wang,Liberal Alliance,6
+Favrskov,12,Søften,I_Lisa_Perkins,Lisa Perkins,Liberal Alliance,4
+Favrskov,12,Søften,L_Listestemmer,Listestemmer,Samlingspartiet Favrskov,1
+Favrskov,12,Søften,"L_Bo_Berger,_Hammel","Bo Berger, Hammel",Samlingspartiet Favrskov,0
+Favrskov,12,Søften,"L_Kasper_Kay_Petersen,_Hadsten","Kasper Kay Petersen, Hadsten",Samlingspartiet Favrskov,12
+Favrskov,12,Søften,O_Listestemmer,Listestemmer,Dansk Folkeparti,11
+Favrskov,12,Søften,O_Mercedes_Czank,Mercedes Czank,Dansk Folkeparti,4
+Favrskov,12,Søften,O_Eva_Damsgaard,Eva Damsgaard,Dansk Folkeparti,40
+Favrskov,12,Søften,O_Ove_Nørlem,Ove Nørlem,Dansk Folkeparti,1
+Favrskov,12,Søften,O_Svend_Kjeldsen,Svend Kjeldsen,Dansk Folkeparti,4
+Favrskov,12,Søften,O_Kjeld_Jensen,Kjeld Jensen,Dansk Folkeparti,0
+Favrskov,12,Søften,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",66
+Favrskov,12,Søften,V_Birgit_Liin,Birgit Liin,"Venstre, Danmarks Liberale Parti",35
+Favrskov,12,Søften,V_Flemming_Nørgaard,Flemming Nørgaard,"Venstre, Danmarks Liberale Parti",6
+Favrskov,12,Søften,V_Hanne_Smedegaard,Hanne Smedegaard,"Venstre, Danmarks Liberale Parti",4
+Favrskov,12,Søften,V_Thomas_Storm,Thomas Storm,"Venstre, Danmarks Liberale Parti",314
+Favrskov,12,Søften,V_Lone_Glarbo,Lone Glarbo,"Venstre, Danmarks Liberale Parti",54
+Favrskov,12,Søften,V_Ken_Richter,Ken Richter,"Venstre, Danmarks Liberale Parti",10
+Favrskov,12,Søften,V_Christian_Møller-Nielsen,Christian Møller-Nielsen,"Venstre, Danmarks Liberale Parti",3
+Favrskov,12,Søften,V_Morten_Bang,Morten Bang,"Venstre, Danmarks Liberale Parti",26
+Favrskov,12,Søften,V_Birgit_Bach-Valeur,Birgit Bach-Valeur,"Venstre, Danmarks Liberale Parti",1
+Favrskov,12,Søften,V_Simon_Buus_Olsen,Simon Buus Olsen,"Venstre, Danmarks Liberale Parti",1
+Favrskov,12,Søften,V_Michael_Jensen,Michael Jensen,"Venstre, Danmarks Liberale Parti",0
+Favrskov,12,Søften,V_Santana_Marie_Malling,Santana Marie Malling,"Venstre, Danmarks Liberale Parti",0
+Favrskov,12,Søften,V_Flemming_Kragh_Thomassen,Flemming Kragh Thomassen,"Venstre, Danmarks Liberale Parti",1
+Favrskov,12,Søften,V_Gert_Jensen,Gert Jensen,"Venstre, Danmarks Liberale Parti",2
+Favrskov,12,Søften,V_Orla_Nielsen,Orla Nielsen,"Venstre, Danmarks Liberale Parti",2
+Favrskov,12,Søften,V_Susanne_Rokkjær,Susanne Rokkjær,"Venstre, Danmarks Liberale Parti",2
+Favrskov,12,Søften,V_Arne_Bay_Madsen,Arne Bay Madsen,"Venstre, Danmarks Liberale Parti",1
+Favrskov,12,Søften,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,22
+Favrskov,12,Søften,"Ø_Thake_Fogh_Cordt,_Skjød","Thake Fogh Cordt, Skjød",Enhedslisten - De Rød-Grønne,3
+Favrskov,12,Søften,"Ø_Bodil_K._Olsen,_Houlbjerg","Bodil K. Olsen, Houlbjerg",Enhedslisten - De Rød-Grønne,10
+Favrskov,12,Søften,"Ø_Peder_Meyhoff,_Hinnerup","Peder Meyhoff, Hinnerup",Enhedslisten - De Rød-Grønne,6
+Favrskov,12,Søften,"Ø_Heidbra_Jonsdottir,_Hadsten","Heidbra Jonsdottir, Hadsten",Enhedslisten - De Rød-Grønne,1
+Favrskov,12,Søften,"Ø_Aksel_Madsen,_Hinnerup","Aksel Madsen, Hinnerup",Enhedslisten - De Rød-Grønne,0
+Favrskov,12,Søften,"Ø_Maria_Strunge_Sørensen,_Laurbjerg","Maria Strunge Sørensen, Laurbjerg",Enhedslisten - De Rød-Grønne,4
+Favrskov,12,Søften,"Ø_Clément_Blain,_Laurbjerg","Clément Blain, Laurbjerg",Enhedslisten - De Rød-Grønne,3
+Favrskov,12,Søften,"Ø_Per_Holm_Knudsen,_Hammel","Per Holm Knudsen, Hammel",Enhedslisten - De Rød-Grønne,1
+Favrskov,12,Søften,"Ø_Bendt_Lund_Nielsen,_Hammel","Bendt Lund Nielsen, Hammel",Enhedslisten - De Rød-Grønne,0
+Favrskov,13,Voldum,A_Listestemmer,Listestemmer,Socialdemokratiet,29
+Favrskov,13,Voldum,A_Nils_Borring,Nils Borring,Socialdemokratiet,41
+Favrskov,13,Voldum,A_Isabell_Friis_Madsen,Isabell Friis Madsen,Socialdemokratiet,3
+Favrskov,13,Voldum,A_Erling_Kvist_Andersen,Erling Kvist Andersen,Socialdemokratiet,0
+Favrskov,13,Voldum,A_Lone_Boye,Lone Boye,Socialdemokratiet,2
+Favrskov,13,Voldum,A_Gitte_Lynderup_Lauritsen,Gitte Lynderup Lauritsen,Socialdemokratiet,1
+Favrskov,13,Voldum,A_Rikke_Randrup_Skåning,Rikke Randrup Skåning,Socialdemokratiet,8
+Favrskov,13,Voldum,A_Søren_Gade,Søren Gade,Socialdemokratiet,0
+Favrskov,13,Voldum,A_Grethe_Villadsen,Grethe Villadsen,Socialdemokratiet,99
+Favrskov,13,Voldum,A_Niels_Flade_Nielsen,Niels Flade Nielsen,Socialdemokratiet,0
+Favrskov,13,Voldum,A_Kristoffer_Merrild,Kristoffer Merrild,Socialdemokratiet,3
+Favrskov,13,Voldum,A_Maria_Degn,Maria Degn,Socialdemokratiet,0
+Favrskov,13,Voldum,A_Steen_Thomasen,Steen Thomasen,Socialdemokratiet,1
+Favrskov,13,Voldum,A_Kim_Hedegaard,Kim Hedegaard,Socialdemokratiet,0
+Favrskov,13,Voldum,A_Erik_Særkjær,Erik Særkjær,Socialdemokratiet,0
+Favrskov,13,Voldum,A_Martin_Hager_Andersen,Martin Hager Andersen,Socialdemokratiet,0
+Favrskov,13,Voldum,B_Listestemmer,Listestemmer,Radikale Venstre,2
+Favrskov,13,Voldum,"B_Torben_Christensen,_Foldby","Torben Christensen, Foldby",Radikale Venstre,2
+Favrskov,13,Voldum,"B_Pet_Petersen,_Hadsten","Pet Petersen, Hadsten",Radikale Venstre,3
+Favrskov,13,Voldum,"B_Bassam_El-Daoud,_Voldby","Bassam El-Daoud, Voldby",Radikale Venstre,0
+Favrskov,13,Voldum,"B_Peter_Enevoldsen,_Laurbjerg","Peter Enevoldsen, Laurbjerg",Radikale Venstre,0
+Favrskov,13,Voldum,"B_Rasmus_Grønborg_Jakobsen,_Hinnerup","Rasmus Grønborg Jakobsen, Hinnerup",Radikale Venstre,0
+Favrskov,13,Voldum,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,18
+Favrskov,13,Voldum,C_Lars_Storgaard,Lars Storgaard,Det Konservative Folkeparti,7
+Favrskov,13,Voldum,C_Charlotte_Green,Charlotte Green,Det Konservative Folkeparti,8
+Favrskov,13,Voldum,C_Niels_Chr._Selchau-Mark,Niels Chr. Selchau-Mark,Det Konservative Folkeparti,8
+Favrskov,13,Voldum,C_René_Schneider,René Schneider,Det Konservative Folkeparti,0
+Favrskov,13,Voldum,C_Mette_Nøhr,Mette Nøhr,Det Konservative Folkeparti,2
+Favrskov,13,Voldum,C_Anne-Sophie_Schjønning_Eriksen,Anne-Sophie Schjønning Eriksen,Det Konservative Folkeparti,6
+Favrskov,13,Voldum,C_Lene_Guldbrandt,Lene Guldbrandt,Det Konservative Folkeparti,0
+Favrskov,13,Voldum,C_Flemming_Aaen_Jensen,Flemming Aaen Jensen,Det Konservative Folkeparti,0
+Favrskov,13,Voldum,C_Jesper_B._Poulsen,Jesper B. Poulsen,Det Konservative Folkeparti,1
+Favrskov,13,Voldum,C_Knud_Schøler,Knud Schøler,Det Konservative Folkeparti,0
+Favrskov,13,Voldum,C_Tommy_Højer,Tommy Højer,Det Konservative Folkeparti,0
+Favrskov,13,Voldum,D_Listestemmer,Listestemmer,Nye Borgerlige,18
+Favrskov,13,Voldum,D_Erling_Høj_Sørensen,Erling Høj Sørensen,Nye Borgerlige,13
+Favrskov,13,Voldum,D_Hanne_Gram,Hanne Gram,Nye Borgerlige,2
+Favrskov,13,Voldum,D_Benny_B._Jensen,Benny B. Jensen,Nye Borgerlige,6
+Favrskov,13,Voldum,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,5
+Favrskov,13,Voldum,"F_Søren_Frandsen,_Grundfør","Søren Frandsen, Grundfør",SF - Socialistisk Folkeparti,3
+Favrskov,13,Voldum,"F_Søren_Lahn_Sloth,_Hinnerup","Søren Lahn Sloth, Hinnerup",SF - Socialistisk Folkeparti,0
+Favrskov,13,Voldum,"F_Laila_Jerming_Graf,_Sall","Laila Jerming Graf, Sall",SF - Socialistisk Folkeparti,0
+Favrskov,13,Voldum,"F_Chr._Kreiberg_Møller,_Hinnerup","Chr. Kreiberg Møller, Hinnerup",SF - Socialistisk Folkeparti,0
+Favrskov,13,Voldum,"F_Henriette_Stein_Knudsen,_Hadsten","Henriette Stein Knudsen, Hadsten",SF - Socialistisk Folkeparti,1
+Favrskov,13,Voldum,"F_Else_Marie_Frandsen,_Grundfør","Else Marie Frandsen, Grundfør",SF - Socialistisk Folkeparti,2
+Favrskov,13,Voldum,I_Listestemmer,Listestemmer,Liberal Alliance,1
+Favrskov,13,Voldum,I_Nicolai_Wang,Nicolai Wang,Liberal Alliance,3
+Favrskov,13,Voldum,I_Lisa_Perkins,Lisa Perkins,Liberal Alliance,2
+Favrskov,13,Voldum,L_Listestemmer,Listestemmer,Samlingspartiet Favrskov,1
+Favrskov,13,Voldum,"L_Bo_Berger,_Hammel","Bo Berger, Hammel",Samlingspartiet Favrskov,2
+Favrskov,13,Voldum,"L_Kasper_Kay_Petersen,_Hadsten","Kasper Kay Petersen, Hadsten",Samlingspartiet Favrskov,7
+Favrskov,13,Voldum,O_Listestemmer,Listestemmer,Dansk Folkeparti,11
+Favrskov,13,Voldum,O_Mercedes_Czank,Mercedes Czank,Dansk Folkeparti,11
+Favrskov,13,Voldum,O_Eva_Damsgaard,Eva Damsgaard,Dansk Folkeparti,7
+Favrskov,13,Voldum,O_Ove_Nørlem,Ove Nørlem,Dansk Folkeparti,1
+Favrskov,13,Voldum,O_Svend_Kjeldsen,Svend Kjeldsen,Dansk Folkeparti,0
+Favrskov,13,Voldum,O_Kjeld_Jensen,Kjeld Jensen,Dansk Folkeparti,2
+Favrskov,13,Voldum,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",22
+Favrskov,13,Voldum,V_Birgit_Liin,Birgit Liin,"Venstre, Danmarks Liberale Parti",13
+Favrskov,13,Voldum,V_Flemming_Nørgaard,Flemming Nørgaard,"Venstre, Danmarks Liberale Parti",2
+Favrskov,13,Voldum,V_Hanne_Smedegaard,Hanne Smedegaard,"Venstre, Danmarks Liberale Parti",193
+Favrskov,13,Voldum,V_Thomas_Storm,Thomas Storm,"Venstre, Danmarks Liberale Parti",1
+Favrskov,13,Voldum,V_Lone_Glarbo,Lone Glarbo,"Venstre, Danmarks Liberale Parti",1
+Favrskov,13,Voldum,V_Ken_Richter,Ken Richter,"Venstre, Danmarks Liberale Parti",1
+Favrskov,13,Voldum,V_Christian_Møller-Nielsen,Christian Møller-Nielsen,"Venstre, Danmarks Liberale Parti",3
+Favrskov,13,Voldum,V_Morten_Bang,Morten Bang,"Venstre, Danmarks Liberale Parti",0
+Favrskov,13,Voldum,V_Birgit_Bach-Valeur,Birgit Bach-Valeur,"Venstre, Danmarks Liberale Parti",1
+Favrskov,13,Voldum,V_Simon_Buus_Olsen,Simon Buus Olsen,"Venstre, Danmarks Liberale Parti",18
+Favrskov,13,Voldum,V_Michael_Jensen,Michael Jensen,"Venstre, Danmarks Liberale Parti",2
+Favrskov,13,Voldum,V_Santana_Marie_Malling,Santana Marie Malling,"Venstre, Danmarks Liberale Parti",1
+Favrskov,13,Voldum,V_Flemming_Kragh_Thomassen,Flemming Kragh Thomassen,"Venstre, Danmarks Liberale Parti",2
+Favrskov,13,Voldum,V_Gert_Jensen,Gert Jensen,"Venstre, Danmarks Liberale Parti",1
+Favrskov,13,Voldum,V_Orla_Nielsen,Orla Nielsen,"Venstre, Danmarks Liberale Parti",1
+Favrskov,13,Voldum,V_Susanne_Rokkjær,Susanne Rokkjær,"Venstre, Danmarks Liberale Parti",1
+Favrskov,13,Voldum,V_Arne_Bay_Madsen,Arne Bay Madsen,"Venstre, Danmarks Liberale Parti",0
+Favrskov,13,Voldum,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,12
+Favrskov,13,Voldum,"Ø_Thake_Fogh_Cordt,_Skjød","Thake Fogh Cordt, Skjød",Enhedslisten - De Rød-Grønne,0
+Favrskov,13,Voldum,"Ø_Bodil_K._Olsen,_Houlbjerg","Bodil K. Olsen, Houlbjerg",Enhedslisten - De Rød-Grønne,2
+Favrskov,13,Voldum,"Ø_Peder_Meyhoff,_Hinnerup","Peder Meyhoff, Hinnerup",Enhedslisten - De Rød-Grønne,1
+Favrskov,13,Voldum,"Ø_Heidbra_Jonsdottir,_Hadsten","Heidbra Jonsdottir, Hadsten",Enhedslisten - De Rød-Grønne,1
+Favrskov,13,Voldum,"Ø_Aksel_Madsen,_Hinnerup","Aksel Madsen, Hinnerup",Enhedslisten - De Rød-Grønne,0
+Favrskov,13,Voldum,"Ø_Maria_Strunge_Sørensen,_Laurbjerg","Maria Strunge Sørensen, Laurbjerg",Enhedslisten - De Rød-Grønne,3
+Favrskov,13,Voldum,"Ø_Clément_Blain,_Laurbjerg","Clément Blain, Laurbjerg",Enhedslisten - De Rød-Grønne,0
+Favrskov,13,Voldum,"Ø_Per_Holm_Knudsen,_Hammel","Per Holm Knudsen, Hammel",Enhedslisten - De Rød-Grønne,2
+Favrskov,13,Voldum,"Ø_Bendt_Lund_Nielsen,_Hammel","Bendt Lund Nielsen, Hammel",Enhedslisten - De Rød-Grønne,0
+Favrskov,14,Lading,A_Listestemmer,Listestemmer,Socialdemokratiet,36
+Favrskov,14,Lading,A_Nils_Borring,Nils Borring,Socialdemokratiet,126
+Favrskov,14,Lading,A_Isabell_Friis_Madsen,Isabell Friis Madsen,Socialdemokratiet,8
+Favrskov,14,Lading,A_Erling_Kvist_Andersen,Erling Kvist Andersen,Socialdemokratiet,1
+Favrskov,14,Lading,A_Lone_Boye,Lone Boye,Socialdemokratiet,2
+Favrskov,14,Lading,A_Gitte_Lynderup_Lauritsen,Gitte Lynderup Lauritsen,Socialdemokratiet,3
+Favrskov,14,Lading,A_Rikke_Randrup_Skåning,Rikke Randrup Skåning,Socialdemokratiet,2
+Favrskov,14,Lading,A_Søren_Gade,Søren Gade,Socialdemokratiet,4
+Favrskov,14,Lading,A_Grethe_Villadsen,Grethe Villadsen,Socialdemokratiet,0
+Favrskov,14,Lading,A_Niels_Flade_Nielsen,Niels Flade Nielsen,Socialdemokratiet,1
+Favrskov,14,Lading,A_Kristoffer_Merrild,Kristoffer Merrild,Socialdemokratiet,7
+Favrskov,14,Lading,A_Maria_Degn,Maria Degn,Socialdemokratiet,12
+Favrskov,14,Lading,A_Steen_Thomasen,Steen Thomasen,Socialdemokratiet,1
+Favrskov,14,Lading,A_Kim_Hedegaard,Kim Hedegaard,Socialdemokratiet,0
+Favrskov,14,Lading,A_Erik_Særkjær,Erik Særkjær,Socialdemokratiet,3
+Favrskov,14,Lading,A_Martin_Hager_Andersen,Martin Hager Andersen,Socialdemokratiet,1
+Favrskov,14,Lading,B_Listestemmer,Listestemmer,Radikale Venstre,11
+Favrskov,14,Lading,"B_Torben_Christensen,_Foldby","Torben Christensen, Foldby",Radikale Venstre,9
+Favrskov,14,Lading,"B_Pet_Petersen,_Hadsten","Pet Petersen, Hadsten",Radikale Venstre,4
+Favrskov,14,Lading,"B_Bassam_El-Daoud,_Voldby","Bassam El-Daoud, Voldby",Radikale Venstre,0
+Favrskov,14,Lading,"B_Peter_Enevoldsen,_Laurbjerg","Peter Enevoldsen, Laurbjerg",Radikale Venstre,1
+Favrskov,14,Lading,"B_Rasmus_Grønborg_Jakobsen,_Hinnerup","Rasmus Grønborg Jakobsen, Hinnerup",Radikale Venstre,3
+Favrskov,14,Lading,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,18
+Favrskov,14,Lading,C_Lars_Storgaard,Lars Storgaard,Det Konservative Folkeparti,10
+Favrskov,14,Lading,C_Charlotte_Green,Charlotte Green,Det Konservative Folkeparti,5
+Favrskov,14,Lading,C_Niels_Chr._Selchau-Mark,Niels Chr. Selchau-Mark,Det Konservative Folkeparti,1
+Favrskov,14,Lading,C_René_Schneider,René Schneider,Det Konservative Folkeparti,2
+Favrskov,14,Lading,C_Mette_Nøhr,Mette Nøhr,Det Konservative Folkeparti,20
+Favrskov,14,Lading,C_Anne-Sophie_Schjønning_Eriksen,Anne-Sophie Schjønning Eriksen,Det Konservative Folkeparti,5
+Favrskov,14,Lading,C_Lene_Guldbrandt,Lene Guldbrandt,Det Konservative Folkeparti,2
+Favrskov,14,Lading,C_Flemming_Aaen_Jensen,Flemming Aaen Jensen,Det Konservative Folkeparti,1
+Favrskov,14,Lading,C_Jesper_B._Poulsen,Jesper B. Poulsen,Det Konservative Folkeparti,1
+Favrskov,14,Lading,C_Knud_Schøler,Knud Schøler,Det Konservative Folkeparti,1
+Favrskov,14,Lading,C_Tommy_Højer,Tommy Højer,Det Konservative Folkeparti,1
+Favrskov,14,Lading,D_Listestemmer,Listestemmer,Nye Borgerlige,19
+Favrskov,14,Lading,D_Erling_Høj_Sørensen,Erling Høj Sørensen,Nye Borgerlige,7
+Favrskov,14,Lading,D_Hanne_Gram,Hanne Gram,Nye Borgerlige,5
+Favrskov,14,Lading,D_Benny_B._Jensen,Benny B. Jensen,Nye Borgerlige,2
+Favrskov,14,Lading,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,9
+Favrskov,14,Lading,"F_Søren_Frandsen,_Grundfør","Søren Frandsen, Grundfør",SF - Socialistisk Folkeparti,3
+Favrskov,14,Lading,"F_Søren_Lahn_Sloth,_Hinnerup","Søren Lahn Sloth, Hinnerup",SF - Socialistisk Folkeparti,3
+Favrskov,14,Lading,"F_Laila_Jerming_Graf,_Sall","Laila Jerming Graf, Sall",SF - Socialistisk Folkeparti,2
+Favrskov,14,Lading,"F_Chr._Kreiberg_Møller,_Hinnerup","Chr. Kreiberg Møller, Hinnerup",SF - Socialistisk Folkeparti,1
+Favrskov,14,Lading,"F_Henriette_Stein_Knudsen,_Hadsten","Henriette Stein Knudsen, Hadsten",SF - Socialistisk Folkeparti,0
+Favrskov,14,Lading,"F_Else_Marie_Frandsen,_Grundfør","Else Marie Frandsen, Grundfør",SF - Socialistisk Folkeparti,1
+Favrskov,14,Lading,I_Listestemmer,Listestemmer,Liberal Alliance,5
+Favrskov,14,Lading,I_Nicolai_Wang,Nicolai Wang,Liberal Alliance,2
+Favrskov,14,Lading,I_Lisa_Perkins,Lisa Perkins,Liberal Alliance,2
+Favrskov,14,Lading,L_Listestemmer,Listestemmer,Samlingspartiet Favrskov,4
+Favrskov,14,Lading,"L_Bo_Berger,_Hammel","Bo Berger, Hammel",Samlingspartiet Favrskov,2
+Favrskov,14,Lading,"L_Kasper_Kay_Petersen,_Hadsten","Kasper Kay Petersen, Hadsten",Samlingspartiet Favrskov,4
+Favrskov,14,Lading,O_Listestemmer,Listestemmer,Dansk Folkeparti,10
+Favrskov,14,Lading,O_Mercedes_Czank,Mercedes Czank,Dansk Folkeparti,5
+Favrskov,14,Lading,O_Eva_Damsgaard,Eva Damsgaard,Dansk Folkeparti,5
+Favrskov,14,Lading,O_Ove_Nørlem,Ove Nørlem,Dansk Folkeparti,0
+Favrskov,14,Lading,O_Svend_Kjeldsen,Svend Kjeldsen,Dansk Folkeparti,1
+Favrskov,14,Lading,O_Kjeld_Jensen,Kjeld Jensen,Dansk Folkeparti,0
+Favrskov,14,Lading,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",31
+Favrskov,14,Lading,V_Birgit_Liin,Birgit Liin,"Venstre, Danmarks Liberale Parti",22
+Favrskov,14,Lading,V_Flemming_Nørgaard,Flemming Nørgaard,"Venstre, Danmarks Liberale Parti",4
+Favrskov,14,Lading,V_Hanne_Smedegaard,Hanne Smedegaard,"Venstre, Danmarks Liberale Parti",1
+Favrskov,14,Lading,V_Thomas_Storm,Thomas Storm,"Venstre, Danmarks Liberale Parti",1
+Favrskov,14,Lading,V_Lone_Glarbo,Lone Glarbo,"Venstre, Danmarks Liberale Parti",5
+Favrskov,14,Lading,V_Ken_Richter,Ken Richter,"Venstre, Danmarks Liberale Parti",1
+Favrskov,14,Lading,V_Christian_Møller-Nielsen,Christian Møller-Nielsen,"Venstre, Danmarks Liberale Parti",2
+Favrskov,14,Lading,V_Morten_Bang,Morten Bang,"Venstre, Danmarks Liberale Parti",2
+Favrskov,14,Lading,V_Birgit_Bach-Valeur,Birgit Bach-Valeur,"Venstre, Danmarks Liberale Parti",0
+Favrskov,14,Lading,V_Simon_Buus_Olsen,Simon Buus Olsen,"Venstre, Danmarks Liberale Parti",1
+Favrskov,14,Lading,V_Michael_Jensen,Michael Jensen,"Venstre, Danmarks Liberale Parti",0
+Favrskov,14,Lading,V_Santana_Marie_Malling,Santana Marie Malling,"Venstre, Danmarks Liberale Parti",1
+Favrskov,14,Lading,V_Flemming_Kragh_Thomassen,Flemming Kragh Thomassen,"Venstre, Danmarks Liberale Parti",0
+Favrskov,14,Lading,V_Gert_Jensen,Gert Jensen,"Venstre, Danmarks Liberale Parti",0
+Favrskov,14,Lading,V_Orla_Nielsen,Orla Nielsen,"Venstre, Danmarks Liberale Parti",103
+Favrskov,14,Lading,V_Susanne_Rokkjær,Susanne Rokkjær,"Venstre, Danmarks Liberale Parti",1
+Favrskov,14,Lading,V_Arne_Bay_Madsen,Arne Bay Madsen,"Venstre, Danmarks Liberale Parti",0
+Favrskov,14,Lading,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,24
+Favrskov,14,Lading,"Ø_Thake_Fogh_Cordt,_Skjød","Thake Fogh Cordt, Skjød",Enhedslisten - De Rød-Grønne,4
+Favrskov,14,Lading,"Ø_Bodil_K._Olsen,_Houlbjerg","Bodil K. Olsen, Houlbjerg",Enhedslisten - De Rød-Grønne,5
+Favrskov,14,Lading,"Ø_Peder_Meyhoff,_Hinnerup","Peder Meyhoff, Hinnerup",Enhedslisten - De Rød-Grønne,3
+Favrskov,14,Lading,"Ø_Heidbra_Jonsdottir,_Hadsten","Heidbra Jonsdottir, Hadsten",Enhedslisten - De Rød-Grønne,0
+Favrskov,14,Lading,"Ø_Aksel_Madsen,_Hinnerup","Aksel Madsen, Hinnerup",Enhedslisten - De Rød-Grønne,0
+Favrskov,14,Lading,"Ø_Maria_Strunge_Sørensen,_Laurbjerg","Maria Strunge Sørensen, Laurbjerg",Enhedslisten - De Rød-Grønne,11
+Favrskov,14,Lading,"Ø_Clément_Blain,_Laurbjerg","Clément Blain, Laurbjerg",Enhedslisten - De Rød-Grønne,0
+Favrskov,14,Lading,"Ø_Per_Holm_Knudsen,_Hammel","Per Holm Knudsen, Hammel",Enhedslisten - De Rød-Grønne,1
+Favrskov,14,Lading,"Ø_Bendt_Lund_Nielsen,_Hammel","Bendt Lund Nielsen, Hammel",Enhedslisten - De Rød-Grønne,0

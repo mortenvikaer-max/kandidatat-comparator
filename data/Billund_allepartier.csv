@@ -1,0 +1,477 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Billund,1,Billund,A_Listestemmer,Listestemmer,Socialdemokratiet,163
+Billund,1,Billund,"A_Ann_Charlotte_G._Vilstrup,_Billund","Ann Charlotte G. Vilstrup, Billund",Socialdemokratiet,760
+Billund,1,Billund,"A_Kris_Jensen_Skriver,_Grindsted","Kris Jensen Skriver, Grindsted",Socialdemokratiet,14
+Billund,1,Billund,"A_Jeyarajah_Rasiah,_Grindsted","Jeyarajah Rasiah, Grindsted",Socialdemokratiet,28
+Billund,1,Billund,"A_Simon_Nicolajsen_Jørgensen,_Billun","Simon Nicolajsen Jørgensen, Billun",Socialdemokratiet,165
+Billund,1,Billund,"A_Heidi_Alberthe_Nielsen,_Stenderup-","Heidi Alberthe Nielsen, Stenderup-",Socialdemokratiet,1
+Billund,1,Billund,"A_Birthe_Nielsen,_Hejnsvig","Birthe Nielsen, Hejnsvig",Socialdemokratiet,32
+Billund,1,Billund,"A_Arne_Spangfort_Christensen,_Vorbas","Arne Spangfort Christensen, Vorbas",Socialdemokratiet,3
+Billund,1,Billund,"A_Kurt_Jensen,_Sdr._Omme","Kurt Jensen, Sdr. Omme",Socialdemokratiet,1
+Billund,1,Billund,"A_Eva_Kristensen,_Grindsted","Eva Kristensen, Grindsted",Socialdemokratiet,3
+Billund,1,Billund,"A_Rie_Köppen,_Grindsted","Rie Köppen, Grindsted",Socialdemokratiet,8
+Billund,1,Billund,"A_Jannick_Dam_Kristensen,_Billund","Jannick Dam Kristensen, Billund",Socialdemokratiet,48
+Billund,1,Billund,"A_Tina_Glad,_Grindsted","Tina Glad, Grindsted",Socialdemokratiet,1
+Billund,1,Billund,"A_Brian_Nissen,_Filskov","Brian Nissen, Filskov",Socialdemokratiet,15
+Billund,1,Billund,"A_Jane_Albinus_Borg_Kjær,_Hejnsvig","Jane Albinus Borg Kjær, Hejnsvig",Socialdemokratiet,8
+Billund,1,Billund,"A_Mikkel_Jakobsen,_Billund","Mikkel Jakobsen, Billund",Socialdemokratiet,14
+Billund,1,Billund,"A_Anne_Lise_Holm,_Sdr._Omme","Anne Lise Holm, Sdr. Omme",Socialdemokratiet,1
+Billund,1,Billund,"A_Jill_Isabel_Flores_í_Toftum,_Billu","Jill Isabel Flores í Toftum, Billu",Socialdemokratiet,24
+Billund,1,Billund,B_Listestemmer,Listestemmer,Radikale Venstre,24
+Billund,1,Billund,B_Peter_Geurts,Peter Geurts,Radikale Venstre,58
+Billund,1,Billund,B_Gregers_Lindvig,Gregers Lindvig,Radikale Venstre,28
+Billund,1,Billund,B_Niels_Kr._Refstrup,Niels Kr. Refstrup,Radikale Venstre,22
+Billund,1,Billund,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,80
+Billund,1,Billund,"C_Allan_Munk_Nielsen,_Sdr._Omme","Allan Munk Nielsen, Sdr. Omme",Det Konservative Folkeparti,36
+Billund,1,Billund,"C_Lars_Hansen,_Grindsted","Lars Hansen, Grindsted",Det Konservative Folkeparti,43
+Billund,1,Billund,"C_René_Eriksen,_Hejnsvig","René Eriksen, Hejnsvig",Det Konservative Folkeparti,5
+Billund,1,Billund,"C_Carsten_Søndersø_Riemann,_Grindste","Carsten Søndersø Riemann, Grindste",Det Konservative Folkeparti,4
+Billund,1,Billund,"C_Per_Madsen,_Grindsted","Per Madsen, Grindsted",Det Konservative Folkeparti,8
+Billund,1,Billund,"C_Jeppe_Fuglsang,_Grindsted","Jeppe Fuglsang, Grindsted",Det Konservative Folkeparti,27
+Billund,1,Billund,"C_Katri_Søgaard,_Grindsted","Katri Søgaard, Grindsted",Det Konservative Folkeparti,4
+Billund,1,Billund,D_Listestemmer,Listestemmer,Nye Borgerlige,31
+Billund,1,Billund,D_Allan_Christensen,Allan Christensen,Nye Borgerlige,13
+Billund,1,Billund,D_Frank_Mikkelsen,Frank Mikkelsen,Nye Borgerlige,19
+Billund,1,Billund,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,25
+Billund,1,Billund,F_Karlo_Madsen,Karlo Madsen,SF - Socialistisk Folkeparti,10
+Billund,1,Billund,K_Listestemmer,Listestemmer,Kristendemokraterne,7
+Billund,1,Billund,K_Frits_Simmelsgaard_Kristensen,Frits Simmelsgaard Kristensen,Kristendemokraterne,2
+Billund,1,Billund,L_Listestemmer,Listestemmer,Lokalpolitisk Forum,40
+Billund,1,Billund,L_Ulrich_Kristensen,Ulrich Kristensen,Lokalpolitisk Forum,340
+Billund,1,Billund,L_Nikolai_L._Friis,Nikolai L. Friis,Lokalpolitisk Forum,76
+Billund,1,Billund,L_Coco_Kjærgaard,Coco Kjærgaard,Lokalpolitisk Forum,42
+Billund,1,Billund,L_Martin_Alminde_Friis,Martin Alminde Friis,Lokalpolitisk Forum,50
+Billund,1,Billund,L_Tony_Olsen,Tony Olsen,Lokalpolitisk Forum,2
+Billund,1,Billund,L_Martin_Borup,Martin Borup,Lokalpolitisk Forum,27
+Billund,1,Billund,O_Listestemmer,Listestemmer,Dansk Folkeparti,50
+Billund,1,Billund,"O_Per_Nyhus,_Grindsted","Per Nyhus, Grindsted",Dansk Folkeparti,80
+Billund,1,Billund,"O_Mogens_Jørgensen,_Sdr._Omme","Mogens Jørgensen, Sdr. Omme",Dansk Folkeparti,3
+Billund,1,Billund,"O_Bjarne_Jensen,_Grindsted","Bjarne Jensen, Grindsted",Dansk Folkeparti,17
+Billund,1,Billund,"O_Laila_Poulsen,_Billund","Laila Poulsen, Billund",Dansk Folkeparti,30
+Billund,1,Billund,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",147
+Billund,1,Billund,"V_Stephanie_Storbank,_Stendr-Krogage","Stephanie Storbank, Stendr-Krogage","Venstre, Danmarks Liberale Parti",270
+Billund,1,Billund,"V_Peter_Fredensborg,_Billund","Peter Fredensborg, Billund","Venstre, Danmarks Liberale Parti",396
+Billund,1,Billund,"V_Mads_Søbye_Helbo,_Grindsted","Mads Søbye Helbo, Grindsted","Venstre, Danmarks Liberale Parti",17
+Billund,1,Billund,"V_Cecilie_Rahbek,_Grindsted","Cecilie Rahbek, Grindsted","Venstre, Danmarks Liberale Parti",0
+Billund,1,Billund,"V_Jørgen_Clement,_Sdr._Omme","Jørgen Clement, Sdr. Omme","Venstre, Danmarks Liberale Parti",2
+Billund,1,Billund,"V_Sofie_Schmahl,_Billund","Sofie Schmahl, Billund","Venstre, Danmarks Liberale Parti",101
+Billund,1,Billund,"V_Bjarne_Larsen,_Hejnsvig","Bjarne Larsen, Hejnsvig","Venstre, Danmarks Liberale Parti",8
+Billund,1,Billund,"V_Jørn_Poulsen,_Vorbasse","Jørn Poulsen, Vorbasse","Venstre, Danmarks Liberale Parti",1
+Billund,1,Billund,"V_Robert_Terkelsen,_Filskov","Robert Terkelsen, Filskov","Venstre, Danmarks Liberale Parti",9
+Billund,1,Billund,"V_Søren_Leth_Nielsen,_Grindsted","Søren Leth Nielsen, Grindsted","Venstre, Danmarks Liberale Parti",4
+Billund,1,Billund,"V_Leo_Schjødt_Larsen,_Grindsted","Leo Schjødt Larsen, Grindsted","Venstre, Danmarks Liberale Parti",4
+Billund,1,Billund,"V_Mette_Roed,_Grindsted","Mette Roed, Grindsted","Venstre, Danmarks Liberale Parti",16
+Billund,1,Billund,"V_Jakob_Vibe-Pedersen,_Billund","Jakob Vibe-Pedersen, Billund","Venstre, Danmarks Liberale Parti",76
+Billund,1,Billund,"V_Majbrit_Rasmussen,_Hejnsvig","Majbrit Rasmussen, Hejnsvig","Venstre, Danmarks Liberale Parti",2
+Billund,1,Billund,"V_Leif_Gull_Storbank,_Grindsted","Leif Gull Storbank, Grindsted","Venstre, Danmarks Liberale Parti",1
+Billund,1,Billund,"V_Lars_Kjærhus,_Billund","Lars Kjærhus, Billund","Venstre, Danmarks Liberale Parti",104
+Billund,1,Billund,"V_Jesper_Bay,_Vorbasse","Jesper Bay, Vorbasse","Venstre, Danmarks Liberale Parti",0
+Billund,1,Billund,"V_Patrick_Fuglsang,_Grindsted","Patrick Fuglsang, Grindsted","Venstre, Danmarks Liberale Parti",7
+Billund,2,Sdr. Omme,A_Listestemmer,Listestemmer,Socialdemokratiet,40
+Billund,2,Sdr. Omme,"A_Ann_Charlotte_G._Vilstrup,_Billund","Ann Charlotte G. Vilstrup, Billund",Socialdemokratiet,31
+Billund,2,Sdr. Omme,"A_Kris_Jensen_Skriver,_Grindsted","Kris Jensen Skriver, Grindsted",Socialdemokratiet,7
+Billund,2,Sdr. Omme,"A_Jeyarajah_Rasiah,_Grindsted","Jeyarajah Rasiah, Grindsted",Socialdemokratiet,10
+Billund,2,Sdr. Omme,"A_Simon_Nicolajsen_Jørgensen,_Billun","Simon Nicolajsen Jørgensen, Billun",Socialdemokratiet,3
+Billund,2,Sdr. Omme,"A_Heidi_Alberthe_Nielsen,_Stenderup-","Heidi Alberthe Nielsen, Stenderup-",Socialdemokratiet,1
+Billund,2,Sdr. Omme,"A_Birthe_Nielsen,_Hejnsvig","Birthe Nielsen, Hejnsvig",Socialdemokratiet,10
+Billund,2,Sdr. Omme,"A_Arne_Spangfort_Christensen,_Vorbas","Arne Spangfort Christensen, Vorbas",Socialdemokratiet,1
+Billund,2,Sdr. Omme,"A_Kurt_Jensen,_Sdr._Omme","Kurt Jensen, Sdr. Omme",Socialdemokratiet,232
+Billund,2,Sdr. Omme,"A_Eva_Kristensen,_Grindsted","Eva Kristensen, Grindsted",Socialdemokratiet,0
+Billund,2,Sdr. Omme,"A_Rie_Köppen,_Grindsted","Rie Köppen, Grindsted",Socialdemokratiet,7
+Billund,2,Sdr. Omme,"A_Jannick_Dam_Kristensen,_Billund","Jannick Dam Kristensen, Billund",Socialdemokratiet,3
+Billund,2,Sdr. Omme,"A_Tina_Glad,_Grindsted","Tina Glad, Grindsted",Socialdemokratiet,1
+Billund,2,Sdr. Omme,"A_Brian_Nissen,_Filskov","Brian Nissen, Filskov",Socialdemokratiet,3
+Billund,2,Sdr. Omme,"A_Jane_Albinus_Borg_Kjær,_Hejnsvig","Jane Albinus Borg Kjær, Hejnsvig",Socialdemokratiet,1
+Billund,2,Sdr. Omme,"A_Mikkel_Jakobsen,_Billund","Mikkel Jakobsen, Billund",Socialdemokratiet,0
+Billund,2,Sdr. Omme,"A_Anne_Lise_Holm,_Sdr._Omme","Anne Lise Holm, Sdr. Omme",Socialdemokratiet,24
+Billund,2,Sdr. Omme,"A_Jill_Isabel_Flores_í_Toftum,_Billu","Jill Isabel Flores í Toftum, Billu",Socialdemokratiet,0
+Billund,2,Sdr. Omme,B_Listestemmer,Listestemmer,Radikale Venstre,5
+Billund,2,Sdr. Omme,B_Peter_Geurts,Peter Geurts,Radikale Venstre,2
+Billund,2,Sdr. Omme,B_Gregers_Lindvig,Gregers Lindvig,Radikale Venstre,0
+Billund,2,Sdr. Omme,B_Niels_Kr._Refstrup,Niels Kr. Refstrup,Radikale Venstre,1
+Billund,2,Sdr. Omme,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,6
+Billund,2,Sdr. Omme,"C_Allan_Munk_Nielsen,_Sdr._Omme","Allan Munk Nielsen, Sdr. Omme",Det Konservative Folkeparti,292
+Billund,2,Sdr. Omme,"C_Lars_Hansen,_Grindsted","Lars Hansen, Grindsted",Det Konservative Folkeparti,2
+Billund,2,Sdr. Omme,"C_René_Eriksen,_Hejnsvig","René Eriksen, Hejnsvig",Det Konservative Folkeparti,1
+Billund,2,Sdr. Omme,"C_Carsten_Søndersø_Riemann,_Grindste","Carsten Søndersø Riemann, Grindste",Det Konservative Folkeparti,0
+Billund,2,Sdr. Omme,"C_Per_Madsen,_Grindsted","Per Madsen, Grindsted",Det Konservative Folkeparti,4
+Billund,2,Sdr. Omme,"C_Jeppe_Fuglsang,_Grindsted","Jeppe Fuglsang, Grindsted",Det Konservative Folkeparti,8
+Billund,2,Sdr. Omme,"C_Katri_Søgaard,_Grindsted","Katri Søgaard, Grindsted",Det Konservative Folkeparti,0
+Billund,2,Sdr. Omme,D_Listestemmer,Listestemmer,Nye Borgerlige,21
+Billund,2,Sdr. Omme,D_Allan_Christensen,Allan Christensen,Nye Borgerlige,16
+Billund,2,Sdr. Omme,D_Frank_Mikkelsen,Frank Mikkelsen,Nye Borgerlige,5
+Billund,2,Sdr. Omme,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,10
+Billund,2,Sdr. Omme,F_Karlo_Madsen,Karlo Madsen,SF - Socialistisk Folkeparti,6
+Billund,2,Sdr. Omme,K_Listestemmer,Listestemmer,Kristendemokraterne,2
+Billund,2,Sdr. Omme,K_Frits_Simmelsgaard_Kristensen,Frits Simmelsgaard Kristensen,Kristendemokraterne,3
+Billund,2,Sdr. Omme,L_Listestemmer,Listestemmer,Lokalpolitisk Forum,0
+Billund,2,Sdr. Omme,L_Ulrich_Kristensen,Ulrich Kristensen,Lokalpolitisk Forum,1
+Billund,2,Sdr. Omme,L_Nikolai_L._Friis,Nikolai L. Friis,Lokalpolitisk Forum,0
+Billund,2,Sdr. Omme,L_Coco_Kjærgaard,Coco Kjærgaard,Lokalpolitisk Forum,4
+Billund,2,Sdr. Omme,L_Martin_Alminde_Friis,Martin Alminde Friis,Lokalpolitisk Forum,0
+Billund,2,Sdr. Omme,L_Tony_Olsen,Tony Olsen,Lokalpolitisk Forum,0
+Billund,2,Sdr. Omme,L_Martin_Borup,Martin Borup,Lokalpolitisk Forum,0
+Billund,2,Sdr. Omme,O_Listestemmer,Listestemmer,Dansk Folkeparti,15
+Billund,2,Sdr. Omme,"O_Per_Nyhus,_Grindsted","Per Nyhus, Grindsted",Dansk Folkeparti,50
+Billund,2,Sdr. Omme,"O_Mogens_Jørgensen,_Sdr._Omme","Mogens Jørgensen, Sdr. Omme",Dansk Folkeparti,122
+Billund,2,Sdr. Omme,"O_Bjarne_Jensen,_Grindsted","Bjarne Jensen, Grindsted",Dansk Folkeparti,0
+Billund,2,Sdr. Omme,"O_Laila_Poulsen,_Billund","Laila Poulsen, Billund",Dansk Folkeparti,3
+Billund,2,Sdr. Omme,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",38
+Billund,2,Sdr. Omme,"V_Stephanie_Storbank,_Stendr-Krogage","Stephanie Storbank, Stendr-Krogage","Venstre, Danmarks Liberale Parti",77
+Billund,2,Sdr. Omme,"V_Peter_Fredensborg,_Billund","Peter Fredensborg, Billund","Venstre, Danmarks Liberale Parti",3
+Billund,2,Sdr. Omme,"V_Mads_Søbye_Helbo,_Grindsted","Mads Søbye Helbo, Grindsted","Venstre, Danmarks Liberale Parti",0
+Billund,2,Sdr. Omme,"V_Cecilie_Rahbek,_Grindsted","Cecilie Rahbek, Grindsted","Venstre, Danmarks Liberale Parti",7
+Billund,2,Sdr. Omme,"V_Jørgen_Clement,_Sdr._Omme","Jørgen Clement, Sdr. Omme","Venstre, Danmarks Liberale Parti",139
+Billund,2,Sdr. Omme,"V_Sofie_Schmahl,_Billund","Sofie Schmahl, Billund","Venstre, Danmarks Liberale Parti",2
+Billund,2,Sdr. Omme,"V_Bjarne_Larsen,_Hejnsvig","Bjarne Larsen, Hejnsvig","Venstre, Danmarks Liberale Parti",0
+Billund,2,Sdr. Omme,"V_Jørn_Poulsen,_Vorbasse","Jørn Poulsen, Vorbasse","Venstre, Danmarks Liberale Parti",1
+Billund,2,Sdr. Omme,"V_Robert_Terkelsen,_Filskov","Robert Terkelsen, Filskov","Venstre, Danmarks Liberale Parti",8
+Billund,2,Sdr. Omme,"V_Søren_Leth_Nielsen,_Grindsted","Søren Leth Nielsen, Grindsted","Venstre, Danmarks Liberale Parti",2
+Billund,2,Sdr. Omme,"V_Leo_Schjødt_Larsen,_Grindsted","Leo Schjødt Larsen, Grindsted","Venstre, Danmarks Liberale Parti",0
+Billund,2,Sdr. Omme,"V_Mette_Roed,_Grindsted","Mette Roed, Grindsted","Venstre, Danmarks Liberale Parti",4
+Billund,2,Sdr. Omme,"V_Jakob_Vibe-Pedersen,_Billund","Jakob Vibe-Pedersen, Billund","Venstre, Danmarks Liberale Parti",1
+Billund,2,Sdr. Omme,"V_Majbrit_Rasmussen,_Hejnsvig","Majbrit Rasmussen, Hejnsvig","Venstre, Danmarks Liberale Parti",1
+Billund,2,Sdr. Omme,"V_Leif_Gull_Storbank,_Grindsted","Leif Gull Storbank, Grindsted","Venstre, Danmarks Liberale Parti",3
+Billund,2,Sdr. Omme,"V_Lars_Kjærhus,_Billund","Lars Kjærhus, Billund","Venstre, Danmarks Liberale Parti",0
+Billund,2,Sdr. Omme,"V_Jesper_Bay,_Vorbasse","Jesper Bay, Vorbasse","Venstre, Danmarks Liberale Parti",0
+Billund,2,Sdr. Omme,"V_Patrick_Fuglsang,_Grindsted","Patrick Fuglsang, Grindsted","Venstre, Danmarks Liberale Parti",7
+Billund,3,Vorbasse,A_Listestemmer,Listestemmer,Socialdemokratiet,39
+Billund,3,Vorbasse,"A_Ann_Charlotte_G._Vilstrup,_Billund","Ann Charlotte G. Vilstrup, Billund",Socialdemokratiet,60
+Billund,3,Vorbasse,"A_Kris_Jensen_Skriver,_Grindsted","Kris Jensen Skriver, Grindsted",Socialdemokratiet,2
+Billund,3,Vorbasse,"A_Jeyarajah_Rasiah,_Grindsted","Jeyarajah Rasiah, Grindsted",Socialdemokratiet,0
+Billund,3,Vorbasse,"A_Simon_Nicolajsen_Jørgensen,_Billun","Simon Nicolajsen Jørgensen, Billun",Socialdemokratiet,3
+Billund,3,Vorbasse,"A_Heidi_Alberthe_Nielsen,_Stenderup-","Heidi Alberthe Nielsen, Stenderup-",Socialdemokratiet,0
+Billund,3,Vorbasse,"A_Birthe_Nielsen,_Hejnsvig","Birthe Nielsen, Hejnsvig",Socialdemokratiet,6
+Billund,3,Vorbasse,"A_Arne_Spangfort_Christensen,_Vorbas","Arne Spangfort Christensen, Vorbas",Socialdemokratiet,212
+Billund,3,Vorbasse,"A_Kurt_Jensen,_Sdr._Omme","Kurt Jensen, Sdr. Omme",Socialdemokratiet,1
+Billund,3,Vorbasse,"A_Eva_Kristensen,_Grindsted","Eva Kristensen, Grindsted",Socialdemokratiet,0
+Billund,3,Vorbasse,"A_Rie_Köppen,_Grindsted","Rie Köppen, Grindsted",Socialdemokratiet,7
+Billund,3,Vorbasse,"A_Jannick_Dam_Kristensen,_Billund","Jannick Dam Kristensen, Billund",Socialdemokratiet,33
+Billund,3,Vorbasse,"A_Tina_Glad,_Grindsted","Tina Glad, Grindsted",Socialdemokratiet,1
+Billund,3,Vorbasse,"A_Brian_Nissen,_Filskov","Brian Nissen, Filskov",Socialdemokratiet,7
+Billund,3,Vorbasse,"A_Jane_Albinus_Borg_Kjær,_Hejnsvig","Jane Albinus Borg Kjær, Hejnsvig",Socialdemokratiet,11
+Billund,3,Vorbasse,"A_Mikkel_Jakobsen,_Billund","Mikkel Jakobsen, Billund",Socialdemokratiet,0
+Billund,3,Vorbasse,"A_Anne_Lise_Holm,_Sdr._Omme","Anne Lise Holm, Sdr. Omme",Socialdemokratiet,1
+Billund,3,Vorbasse,"A_Jill_Isabel_Flores_í_Toftum,_Billu","Jill Isabel Flores í Toftum, Billu",Socialdemokratiet,9
+Billund,3,Vorbasse,B_Listestemmer,Listestemmer,Radikale Venstre,7
+Billund,3,Vorbasse,B_Peter_Geurts,Peter Geurts,Radikale Venstre,4
+Billund,3,Vorbasse,B_Gregers_Lindvig,Gregers Lindvig,Radikale Venstre,2
+Billund,3,Vorbasse,B_Niels_Kr._Refstrup,Niels Kr. Refstrup,Radikale Venstre,1
+Billund,3,Vorbasse,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,22
+Billund,3,Vorbasse,"C_Allan_Munk_Nielsen,_Sdr._Omme","Allan Munk Nielsen, Sdr. Omme",Det Konservative Folkeparti,8
+Billund,3,Vorbasse,"C_Lars_Hansen,_Grindsted","Lars Hansen, Grindsted",Det Konservative Folkeparti,4
+Billund,3,Vorbasse,"C_René_Eriksen,_Hejnsvig","René Eriksen, Hejnsvig",Det Konservative Folkeparti,10
+Billund,3,Vorbasse,"C_Carsten_Søndersø_Riemann,_Grindste","Carsten Søndersø Riemann, Grindste",Det Konservative Folkeparti,0
+Billund,3,Vorbasse,"C_Per_Madsen,_Grindsted","Per Madsen, Grindsted",Det Konservative Folkeparti,4
+Billund,3,Vorbasse,"C_Jeppe_Fuglsang,_Grindsted","Jeppe Fuglsang, Grindsted",Det Konservative Folkeparti,6
+Billund,3,Vorbasse,"C_Katri_Søgaard,_Grindsted","Katri Søgaard, Grindsted",Det Konservative Folkeparti,0
+Billund,3,Vorbasse,D_Listestemmer,Listestemmer,Nye Borgerlige,18
+Billund,3,Vorbasse,D_Allan_Christensen,Allan Christensen,Nye Borgerlige,11
+Billund,3,Vorbasse,D_Frank_Mikkelsen,Frank Mikkelsen,Nye Borgerlige,7
+Billund,3,Vorbasse,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,11
+Billund,3,Vorbasse,F_Karlo_Madsen,Karlo Madsen,SF - Socialistisk Folkeparti,4
+Billund,3,Vorbasse,K_Listestemmer,Listestemmer,Kristendemokraterne,5
+Billund,3,Vorbasse,K_Frits_Simmelsgaard_Kristensen,Frits Simmelsgaard Kristensen,Kristendemokraterne,51
+Billund,3,Vorbasse,L_Listestemmer,Listestemmer,Lokalpolitisk Forum,4
+Billund,3,Vorbasse,L_Ulrich_Kristensen,Ulrich Kristensen,Lokalpolitisk Forum,16
+Billund,3,Vorbasse,L_Nikolai_L._Friis,Nikolai L. Friis,Lokalpolitisk Forum,4
+Billund,3,Vorbasse,L_Coco_Kjærgaard,Coco Kjærgaard,Lokalpolitisk Forum,8
+Billund,3,Vorbasse,L_Martin_Alminde_Friis,Martin Alminde Friis,Lokalpolitisk Forum,1
+Billund,3,Vorbasse,L_Tony_Olsen,Tony Olsen,Lokalpolitisk Forum,0
+Billund,3,Vorbasse,L_Martin_Borup,Martin Borup,Lokalpolitisk Forum,3
+Billund,3,Vorbasse,O_Listestemmer,Listestemmer,Dansk Folkeparti,28
+Billund,3,Vorbasse,"O_Per_Nyhus,_Grindsted","Per Nyhus, Grindsted",Dansk Folkeparti,65
+Billund,3,Vorbasse,"O_Mogens_Jørgensen,_Sdr._Omme","Mogens Jørgensen, Sdr. Omme",Dansk Folkeparti,4
+Billund,3,Vorbasse,"O_Bjarne_Jensen,_Grindsted","Bjarne Jensen, Grindsted",Dansk Folkeparti,3
+Billund,3,Vorbasse,"O_Laila_Poulsen,_Billund","Laila Poulsen, Billund",Dansk Folkeparti,7
+Billund,3,Vorbasse,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",43
+Billund,3,Vorbasse,"V_Stephanie_Storbank,_Stendr-Krogage","Stephanie Storbank, Stendr-Krogage","Venstre, Danmarks Liberale Parti",89
+Billund,3,Vorbasse,"V_Peter_Fredensborg,_Billund","Peter Fredensborg, Billund","Venstre, Danmarks Liberale Parti",13
+Billund,3,Vorbasse,"V_Mads_Søbye_Helbo,_Grindsted","Mads Søbye Helbo, Grindsted","Venstre, Danmarks Liberale Parti",4
+Billund,3,Vorbasse,"V_Cecilie_Rahbek,_Grindsted","Cecilie Rahbek, Grindsted","Venstre, Danmarks Liberale Parti",3
+Billund,3,Vorbasse,"V_Jørgen_Clement,_Sdr._Omme","Jørgen Clement, Sdr. Omme","Venstre, Danmarks Liberale Parti",0
+Billund,3,Vorbasse,"V_Sofie_Schmahl,_Billund","Sofie Schmahl, Billund","Venstre, Danmarks Liberale Parti",4
+Billund,3,Vorbasse,"V_Bjarne_Larsen,_Hejnsvig","Bjarne Larsen, Hejnsvig","Venstre, Danmarks Liberale Parti",6
+Billund,3,Vorbasse,"V_Jørn_Poulsen,_Vorbasse","Jørn Poulsen, Vorbasse","Venstre, Danmarks Liberale Parti",215
+Billund,3,Vorbasse,"V_Robert_Terkelsen,_Filskov","Robert Terkelsen, Filskov","Venstre, Danmarks Liberale Parti",3
+Billund,3,Vorbasse,"V_Søren_Leth_Nielsen,_Grindsted","Søren Leth Nielsen, Grindsted","Venstre, Danmarks Liberale Parti",1
+Billund,3,Vorbasse,"V_Leo_Schjødt_Larsen,_Grindsted","Leo Schjødt Larsen, Grindsted","Venstre, Danmarks Liberale Parti",0
+Billund,3,Vorbasse,"V_Mette_Roed,_Grindsted","Mette Roed, Grindsted","Venstre, Danmarks Liberale Parti",3
+Billund,3,Vorbasse,"V_Jakob_Vibe-Pedersen,_Billund","Jakob Vibe-Pedersen, Billund","Venstre, Danmarks Liberale Parti",1
+Billund,3,Vorbasse,"V_Majbrit_Rasmussen,_Hejnsvig","Majbrit Rasmussen, Hejnsvig","Venstre, Danmarks Liberale Parti",1
+Billund,3,Vorbasse,"V_Leif_Gull_Storbank,_Grindsted","Leif Gull Storbank, Grindsted","Venstre, Danmarks Liberale Parti",1
+Billund,3,Vorbasse,"V_Lars_Kjærhus,_Billund","Lars Kjærhus, Billund","Venstre, Danmarks Liberale Parti",1
+Billund,3,Vorbasse,"V_Jesper_Bay,_Vorbasse","Jesper Bay, Vorbasse","Venstre, Danmarks Liberale Parti",22
+Billund,3,Vorbasse,"V_Patrick_Fuglsang,_Grindsted","Patrick Fuglsang, Grindsted","Venstre, Danmarks Liberale Parti",1
+Billund,4,Filskov,A_Listestemmer,Listestemmer,Socialdemokratiet,11
+Billund,4,Filskov,"A_Ann_Charlotte_G._Vilstrup,_Billund","Ann Charlotte G. Vilstrup, Billund",Socialdemokratiet,12
+Billund,4,Filskov,"A_Kris_Jensen_Skriver,_Grindsted","Kris Jensen Skriver, Grindsted",Socialdemokratiet,2
+Billund,4,Filskov,"A_Jeyarajah_Rasiah,_Grindsted","Jeyarajah Rasiah, Grindsted",Socialdemokratiet,1
+Billund,4,Filskov,"A_Simon_Nicolajsen_Jørgensen,_Billun","Simon Nicolajsen Jørgensen, Billun",Socialdemokratiet,0
+Billund,4,Filskov,"A_Heidi_Alberthe_Nielsen,_Stenderup-","Heidi Alberthe Nielsen, Stenderup-",Socialdemokratiet,0
+Billund,4,Filskov,"A_Birthe_Nielsen,_Hejnsvig","Birthe Nielsen, Hejnsvig",Socialdemokratiet,4
+Billund,4,Filskov,"A_Arne_Spangfort_Christensen,_Vorbas","Arne Spangfort Christensen, Vorbas",Socialdemokratiet,1
+Billund,4,Filskov,"A_Kurt_Jensen,_Sdr._Omme","Kurt Jensen, Sdr. Omme",Socialdemokratiet,3
+Billund,4,Filskov,"A_Eva_Kristensen,_Grindsted","Eva Kristensen, Grindsted",Socialdemokratiet,0
+Billund,4,Filskov,"A_Rie_Köppen,_Grindsted","Rie Köppen, Grindsted",Socialdemokratiet,0
+Billund,4,Filskov,"A_Jannick_Dam_Kristensen,_Billund","Jannick Dam Kristensen, Billund",Socialdemokratiet,0
+Billund,4,Filskov,"A_Tina_Glad,_Grindsted","Tina Glad, Grindsted",Socialdemokratiet,1
+Billund,4,Filskov,"A_Brian_Nissen,_Filskov","Brian Nissen, Filskov",Socialdemokratiet,82
+Billund,4,Filskov,"A_Jane_Albinus_Borg_Kjær,_Hejnsvig","Jane Albinus Borg Kjær, Hejnsvig",Socialdemokratiet,0
+Billund,4,Filskov,"A_Mikkel_Jakobsen,_Billund","Mikkel Jakobsen, Billund",Socialdemokratiet,0
+Billund,4,Filskov,"A_Anne_Lise_Holm,_Sdr._Omme","Anne Lise Holm, Sdr. Omme",Socialdemokratiet,0
+Billund,4,Filskov,"A_Jill_Isabel_Flores_í_Toftum,_Billu","Jill Isabel Flores í Toftum, Billu",Socialdemokratiet,1
+Billund,4,Filskov,B_Listestemmer,Listestemmer,Radikale Venstre,0
+Billund,4,Filskov,B_Peter_Geurts,Peter Geurts,Radikale Venstre,1
+Billund,4,Filskov,B_Gregers_Lindvig,Gregers Lindvig,Radikale Venstre,1
+Billund,4,Filskov,B_Niels_Kr._Refstrup,Niels Kr. Refstrup,Radikale Venstre,0
+Billund,4,Filskov,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,6
+Billund,4,Filskov,"C_Allan_Munk_Nielsen,_Sdr._Omme","Allan Munk Nielsen, Sdr. Omme",Det Konservative Folkeparti,2
+Billund,4,Filskov,"C_Lars_Hansen,_Grindsted","Lars Hansen, Grindsted",Det Konservative Folkeparti,7
+Billund,4,Filskov,"C_René_Eriksen,_Hejnsvig","René Eriksen, Hejnsvig",Det Konservative Folkeparti,1
+Billund,4,Filskov,"C_Carsten_Søndersø_Riemann,_Grindste","Carsten Søndersø Riemann, Grindste",Det Konservative Folkeparti,0
+Billund,4,Filskov,"C_Per_Madsen,_Grindsted","Per Madsen, Grindsted",Det Konservative Folkeparti,0
+Billund,4,Filskov,"C_Jeppe_Fuglsang,_Grindsted","Jeppe Fuglsang, Grindsted",Det Konservative Folkeparti,4
+Billund,4,Filskov,"C_Katri_Søgaard,_Grindsted","Katri Søgaard, Grindsted",Det Konservative Folkeparti,0
+Billund,4,Filskov,D_Listestemmer,Listestemmer,Nye Borgerlige,6
+Billund,4,Filskov,D_Allan_Christensen,Allan Christensen,Nye Borgerlige,1
+Billund,4,Filskov,D_Frank_Mikkelsen,Frank Mikkelsen,Nye Borgerlige,3
+Billund,4,Filskov,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,3
+Billund,4,Filskov,F_Karlo_Madsen,Karlo Madsen,SF - Socialistisk Folkeparti,0
+Billund,4,Filskov,K_Listestemmer,Listestemmer,Kristendemokraterne,2
+Billund,4,Filskov,K_Frits_Simmelsgaard_Kristensen,Frits Simmelsgaard Kristensen,Kristendemokraterne,2
+Billund,4,Filskov,L_Listestemmer,Listestemmer,Lokalpolitisk Forum,0
+Billund,4,Filskov,L_Ulrich_Kristensen,Ulrich Kristensen,Lokalpolitisk Forum,2
+Billund,4,Filskov,L_Nikolai_L._Friis,Nikolai L. Friis,Lokalpolitisk Forum,0
+Billund,4,Filskov,L_Coco_Kjærgaard,Coco Kjærgaard,Lokalpolitisk Forum,1
+Billund,4,Filskov,L_Martin_Alminde_Friis,Martin Alminde Friis,Lokalpolitisk Forum,1
+Billund,4,Filskov,L_Tony_Olsen,Tony Olsen,Lokalpolitisk Forum,2
+Billund,4,Filskov,L_Martin_Borup,Martin Borup,Lokalpolitisk Forum,2
+Billund,4,Filskov,O_Listestemmer,Listestemmer,Dansk Folkeparti,9
+Billund,4,Filskov,"O_Per_Nyhus,_Grindsted","Per Nyhus, Grindsted",Dansk Folkeparti,40
+Billund,4,Filskov,"O_Mogens_Jørgensen,_Sdr._Omme","Mogens Jørgensen, Sdr. Omme",Dansk Folkeparti,3
+Billund,4,Filskov,"O_Bjarne_Jensen,_Grindsted","Bjarne Jensen, Grindsted",Dansk Folkeparti,4
+Billund,4,Filskov,"O_Laila_Poulsen,_Billund","Laila Poulsen, Billund",Dansk Folkeparti,2
+Billund,4,Filskov,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",20
+Billund,4,Filskov,"V_Stephanie_Storbank,_Stendr-Krogage","Stephanie Storbank, Stendr-Krogage","Venstre, Danmarks Liberale Parti",40
+Billund,4,Filskov,"V_Peter_Fredensborg,_Billund","Peter Fredensborg, Billund","Venstre, Danmarks Liberale Parti",2
+Billund,4,Filskov,"V_Mads_Søbye_Helbo,_Grindsted","Mads Søbye Helbo, Grindsted","Venstre, Danmarks Liberale Parti",2
+Billund,4,Filskov,"V_Cecilie_Rahbek,_Grindsted","Cecilie Rahbek, Grindsted","Venstre, Danmarks Liberale Parti",0
+Billund,4,Filskov,"V_Jørgen_Clement,_Sdr._Omme","Jørgen Clement, Sdr. Omme","Venstre, Danmarks Liberale Parti",1
+Billund,4,Filskov,"V_Sofie_Schmahl,_Billund","Sofie Schmahl, Billund","Venstre, Danmarks Liberale Parti",1
+Billund,4,Filskov,"V_Bjarne_Larsen,_Hejnsvig","Bjarne Larsen, Hejnsvig","Venstre, Danmarks Liberale Parti",0
+Billund,4,Filskov,"V_Jørn_Poulsen,_Vorbasse","Jørn Poulsen, Vorbasse","Venstre, Danmarks Liberale Parti",0
+Billund,4,Filskov,"V_Robert_Terkelsen,_Filskov","Robert Terkelsen, Filskov","Venstre, Danmarks Liberale Parti",266
+Billund,4,Filskov,"V_Søren_Leth_Nielsen,_Grindsted","Søren Leth Nielsen, Grindsted","Venstre, Danmarks Liberale Parti",1
+Billund,4,Filskov,"V_Leo_Schjødt_Larsen,_Grindsted","Leo Schjødt Larsen, Grindsted","Venstre, Danmarks Liberale Parti",3
+Billund,4,Filskov,"V_Mette_Roed,_Grindsted","Mette Roed, Grindsted","Venstre, Danmarks Liberale Parti",2
+Billund,4,Filskov,"V_Jakob_Vibe-Pedersen,_Billund","Jakob Vibe-Pedersen, Billund","Venstre, Danmarks Liberale Parti",0
+Billund,4,Filskov,"V_Majbrit_Rasmussen,_Hejnsvig","Majbrit Rasmussen, Hejnsvig","Venstre, Danmarks Liberale Parti",1
+Billund,4,Filskov,"V_Leif_Gull_Storbank,_Grindsted","Leif Gull Storbank, Grindsted","Venstre, Danmarks Liberale Parti",1
+Billund,4,Filskov,"V_Lars_Kjærhus,_Billund","Lars Kjærhus, Billund","Venstre, Danmarks Liberale Parti",0
+Billund,4,Filskov,"V_Jesper_Bay,_Vorbasse","Jesper Bay, Vorbasse","Venstre, Danmarks Liberale Parti",0
+Billund,4,Filskov,"V_Patrick_Fuglsang,_Grindsted","Patrick Fuglsang, Grindsted","Venstre, Danmarks Liberale Parti",3
+Billund,5,St./Krogager,A_Listestemmer,Listestemmer,Socialdemokratiet,11
+Billund,5,St./Krogager,"A_Ann_Charlotte_G._Vilstrup,_Billund","Ann Charlotte G. Vilstrup, Billund",Socialdemokratiet,17
+Billund,5,St./Krogager,"A_Kris_Jensen_Skriver,_Grindsted","Kris Jensen Skriver, Grindsted",Socialdemokratiet,8
+Billund,5,St./Krogager,"A_Jeyarajah_Rasiah,_Grindsted","Jeyarajah Rasiah, Grindsted",Socialdemokratiet,1
+Billund,5,St./Krogager,"A_Simon_Nicolajsen_Jørgensen,_Billun","Simon Nicolajsen Jørgensen, Billun",Socialdemokratiet,2
+Billund,5,St./Krogager,"A_Heidi_Alberthe_Nielsen,_Stenderup-","Heidi Alberthe Nielsen, Stenderup-",Socialdemokratiet,63
+Billund,5,St./Krogager,"A_Birthe_Nielsen,_Hejnsvig","Birthe Nielsen, Hejnsvig",Socialdemokratiet,5
+Billund,5,St./Krogager,"A_Arne_Spangfort_Christensen,_Vorbas","Arne Spangfort Christensen, Vorbas",Socialdemokratiet,0
+Billund,5,St./Krogager,"A_Kurt_Jensen,_Sdr._Omme","Kurt Jensen, Sdr. Omme",Socialdemokratiet,0
+Billund,5,St./Krogager,"A_Eva_Kristensen,_Grindsted","Eva Kristensen, Grindsted",Socialdemokratiet,0
+Billund,5,St./Krogager,"A_Rie_Köppen,_Grindsted","Rie Köppen, Grindsted",Socialdemokratiet,3
+Billund,5,St./Krogager,"A_Jannick_Dam_Kristensen,_Billund","Jannick Dam Kristensen, Billund",Socialdemokratiet,1
+Billund,5,St./Krogager,"A_Tina_Glad,_Grindsted","Tina Glad, Grindsted",Socialdemokratiet,0
+Billund,5,St./Krogager,"A_Brian_Nissen,_Filskov","Brian Nissen, Filskov",Socialdemokratiet,2
+Billund,5,St./Krogager,"A_Jane_Albinus_Borg_Kjær,_Hejnsvig","Jane Albinus Borg Kjær, Hejnsvig",Socialdemokratiet,2
+Billund,5,St./Krogager,"A_Mikkel_Jakobsen,_Billund","Mikkel Jakobsen, Billund",Socialdemokratiet,0
+Billund,5,St./Krogager,"A_Anne_Lise_Holm,_Sdr._Omme","Anne Lise Holm, Sdr. Omme",Socialdemokratiet,0
+Billund,5,St./Krogager,"A_Jill_Isabel_Flores_í_Toftum,_Billu","Jill Isabel Flores í Toftum, Billu",Socialdemokratiet,1
+Billund,5,St./Krogager,B_Listestemmer,Listestemmer,Radikale Venstre,0
+Billund,5,St./Krogager,B_Peter_Geurts,Peter Geurts,Radikale Venstre,2
+Billund,5,St./Krogager,B_Gregers_Lindvig,Gregers Lindvig,Radikale Venstre,1
+Billund,5,St./Krogager,B_Niels_Kr._Refstrup,Niels Kr. Refstrup,Radikale Venstre,0
+Billund,5,St./Krogager,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,5
+Billund,5,St./Krogager,"C_Allan_Munk_Nielsen,_Sdr._Omme","Allan Munk Nielsen, Sdr. Omme",Det Konservative Folkeparti,3
+Billund,5,St./Krogager,"C_Lars_Hansen,_Grindsted","Lars Hansen, Grindsted",Det Konservative Folkeparti,4
+Billund,5,St./Krogager,"C_René_Eriksen,_Hejnsvig","René Eriksen, Hejnsvig",Det Konservative Folkeparti,1
+Billund,5,St./Krogager,"C_Carsten_Søndersø_Riemann,_Grindste","Carsten Søndersø Riemann, Grindste",Det Konservative Folkeparti,0
+Billund,5,St./Krogager,"C_Per_Madsen,_Grindsted","Per Madsen, Grindsted",Det Konservative Folkeparti,1
+Billund,5,St./Krogager,"C_Jeppe_Fuglsang,_Grindsted","Jeppe Fuglsang, Grindsted",Det Konservative Folkeparti,4
+Billund,5,St./Krogager,"C_Katri_Søgaard,_Grindsted","Katri Søgaard, Grindsted",Det Konservative Folkeparti,1
+Billund,5,St./Krogager,D_Listestemmer,Listestemmer,Nye Borgerlige,9
+Billund,5,St./Krogager,D_Allan_Christensen,Allan Christensen,Nye Borgerlige,4
+Billund,5,St./Krogager,D_Frank_Mikkelsen,Frank Mikkelsen,Nye Borgerlige,2
+Billund,5,St./Krogager,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,1
+Billund,5,St./Krogager,F_Karlo_Madsen,Karlo Madsen,SF - Socialistisk Folkeparti,1
+Billund,5,St./Krogager,K_Listestemmer,Listestemmer,Kristendemokraterne,1
+Billund,5,St./Krogager,K_Frits_Simmelsgaard_Kristensen,Frits Simmelsgaard Kristensen,Kristendemokraterne,1
+Billund,5,St./Krogager,L_Listestemmer,Listestemmer,Lokalpolitisk Forum,0
+Billund,5,St./Krogager,L_Ulrich_Kristensen,Ulrich Kristensen,Lokalpolitisk Forum,3
+Billund,5,St./Krogager,L_Nikolai_L._Friis,Nikolai L. Friis,Lokalpolitisk Forum,0
+Billund,5,St./Krogager,L_Coco_Kjærgaard,Coco Kjærgaard,Lokalpolitisk Forum,1
+Billund,5,St./Krogager,L_Martin_Alminde_Friis,Martin Alminde Friis,Lokalpolitisk Forum,0
+Billund,5,St./Krogager,L_Tony_Olsen,Tony Olsen,Lokalpolitisk Forum,2
+Billund,5,St./Krogager,L_Martin_Borup,Martin Borup,Lokalpolitisk Forum,0
+Billund,5,St./Krogager,O_Listestemmer,Listestemmer,Dansk Folkeparti,6
+Billund,5,St./Krogager,"O_Per_Nyhus,_Grindsted","Per Nyhus, Grindsted",Dansk Folkeparti,20
+Billund,5,St./Krogager,"O_Mogens_Jørgensen,_Sdr._Omme","Mogens Jørgensen, Sdr. Omme",Dansk Folkeparti,1
+Billund,5,St./Krogager,"O_Bjarne_Jensen,_Grindsted","Bjarne Jensen, Grindsted",Dansk Folkeparti,4
+Billund,5,St./Krogager,"O_Laila_Poulsen,_Billund","Laila Poulsen, Billund",Dansk Folkeparti,0
+Billund,5,St./Krogager,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",9
+Billund,5,St./Krogager,"V_Stephanie_Storbank,_Stendr-Krogage","Stephanie Storbank, Stendr-Krogage","Venstre, Danmarks Liberale Parti",330
+Billund,5,St./Krogager,"V_Peter_Fredensborg,_Billund","Peter Fredensborg, Billund","Venstre, Danmarks Liberale Parti",1
+Billund,5,St./Krogager,"V_Mads_Søbye_Helbo,_Grindsted","Mads Søbye Helbo, Grindsted","Venstre, Danmarks Liberale Parti",1
+Billund,5,St./Krogager,"V_Cecilie_Rahbek,_Grindsted","Cecilie Rahbek, Grindsted","Venstre, Danmarks Liberale Parti",0
+Billund,5,St./Krogager,"V_Jørgen_Clement,_Sdr._Omme","Jørgen Clement, Sdr. Omme","Venstre, Danmarks Liberale Parti",0
+Billund,5,St./Krogager,"V_Sofie_Schmahl,_Billund","Sofie Schmahl, Billund","Venstre, Danmarks Liberale Parti",0
+Billund,5,St./Krogager,"V_Bjarne_Larsen,_Hejnsvig","Bjarne Larsen, Hejnsvig","Venstre, Danmarks Liberale Parti",3
+Billund,5,St./Krogager,"V_Jørn_Poulsen,_Vorbasse","Jørn Poulsen, Vorbasse","Venstre, Danmarks Liberale Parti",0
+Billund,5,St./Krogager,"V_Robert_Terkelsen,_Filskov","Robert Terkelsen, Filskov","Venstre, Danmarks Liberale Parti",0
+Billund,5,St./Krogager,"V_Søren_Leth_Nielsen,_Grindsted","Søren Leth Nielsen, Grindsted","Venstre, Danmarks Liberale Parti",2
+Billund,5,St./Krogager,"V_Leo_Schjødt_Larsen,_Grindsted","Leo Schjødt Larsen, Grindsted","Venstre, Danmarks Liberale Parti",1
+Billund,5,St./Krogager,"V_Mette_Roed,_Grindsted","Mette Roed, Grindsted","Venstre, Danmarks Liberale Parti",2
+Billund,5,St./Krogager,"V_Jakob_Vibe-Pedersen,_Billund","Jakob Vibe-Pedersen, Billund","Venstre, Danmarks Liberale Parti",0
+Billund,5,St./Krogager,"V_Majbrit_Rasmussen,_Hejnsvig","Majbrit Rasmussen, Hejnsvig","Venstre, Danmarks Liberale Parti",1
+Billund,5,St./Krogager,"V_Leif_Gull_Storbank,_Grindsted","Leif Gull Storbank, Grindsted","Venstre, Danmarks Liberale Parti",0
+Billund,5,St./Krogager,"V_Lars_Kjærhus,_Billund","Lars Kjærhus, Billund","Venstre, Danmarks Liberale Parti",0
+Billund,5,St./Krogager,"V_Jesper_Bay,_Vorbasse","Jesper Bay, Vorbasse","Venstre, Danmarks Liberale Parti",0
+Billund,5,St./Krogager,"V_Patrick_Fuglsang,_Grindsted","Patrick Fuglsang, Grindsted","Venstre, Danmarks Liberale Parti",12
+Billund,6,Grindsted,A_Listestemmer,Listestemmer,Socialdemokratiet,257
+Billund,6,Grindsted,"A_Ann_Charlotte_G._Vilstrup,_Billund","Ann Charlotte G. Vilstrup, Billund",Socialdemokratiet,464
+Billund,6,Grindsted,"A_Kris_Jensen_Skriver,_Grindsted","Kris Jensen Skriver, Grindsted",Socialdemokratiet,429
+Billund,6,Grindsted,"A_Jeyarajah_Rasiah,_Grindsted","Jeyarajah Rasiah, Grindsted",Socialdemokratiet,309
+Billund,6,Grindsted,"A_Simon_Nicolajsen_Jørgensen,_Billun","Simon Nicolajsen Jørgensen, Billun",Socialdemokratiet,23
+Billund,6,Grindsted,"A_Heidi_Alberthe_Nielsen,_Stenderup-","Heidi Alberthe Nielsen, Stenderup-",Socialdemokratiet,46
+Billund,6,Grindsted,"A_Birthe_Nielsen,_Hejnsvig","Birthe Nielsen, Hejnsvig",Socialdemokratiet,40
+Billund,6,Grindsted,"A_Arne_Spangfort_Christensen,_Vorbas","Arne Spangfort Christensen, Vorbas",Socialdemokratiet,1
+Billund,6,Grindsted,"A_Kurt_Jensen,_Sdr._Omme","Kurt Jensen, Sdr. Omme",Socialdemokratiet,11
+Billund,6,Grindsted,"A_Eva_Kristensen,_Grindsted","Eva Kristensen, Grindsted",Socialdemokratiet,59
+Billund,6,Grindsted,"A_Rie_Köppen,_Grindsted","Rie Köppen, Grindsted",Socialdemokratiet,85
+Billund,6,Grindsted,"A_Jannick_Dam_Kristensen,_Billund","Jannick Dam Kristensen, Billund",Socialdemokratiet,41
+Billund,6,Grindsted,"A_Tina_Glad,_Grindsted","Tina Glad, Grindsted",Socialdemokratiet,50
+Billund,6,Grindsted,"A_Brian_Nissen,_Filskov","Brian Nissen, Filskov",Socialdemokratiet,27
+Billund,6,Grindsted,"A_Jane_Albinus_Borg_Kjær,_Hejnsvig","Jane Albinus Borg Kjær, Hejnsvig",Socialdemokratiet,7
+Billund,6,Grindsted,"A_Mikkel_Jakobsen,_Billund","Mikkel Jakobsen, Billund",Socialdemokratiet,2
+Billund,6,Grindsted,"A_Anne_Lise_Holm,_Sdr._Omme","Anne Lise Holm, Sdr. Omme",Socialdemokratiet,22
+Billund,6,Grindsted,"A_Jill_Isabel_Flores_í_Toftum,_Billu","Jill Isabel Flores í Toftum, Billu",Socialdemokratiet,12
+Billund,6,Grindsted,B_Listestemmer,Listestemmer,Radikale Venstre,27
+Billund,6,Grindsted,B_Peter_Geurts,Peter Geurts,Radikale Venstre,23
+Billund,6,Grindsted,B_Gregers_Lindvig,Gregers Lindvig,Radikale Venstre,5
+Billund,6,Grindsted,B_Niels_Kr._Refstrup,Niels Kr. Refstrup,Radikale Venstre,3
+Billund,6,Grindsted,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,73
+Billund,6,Grindsted,"C_Allan_Munk_Nielsen,_Sdr._Omme","Allan Munk Nielsen, Sdr. Omme",Det Konservative Folkeparti,113
+Billund,6,Grindsted,"C_Lars_Hansen,_Grindsted","Lars Hansen, Grindsted",Det Konservative Folkeparti,284
+Billund,6,Grindsted,"C_René_Eriksen,_Hejnsvig","René Eriksen, Hejnsvig",Det Konservative Folkeparti,3
+Billund,6,Grindsted,"C_Carsten_Søndersø_Riemann,_Grindste","Carsten Søndersø Riemann, Grindste",Det Konservative Folkeparti,35
+Billund,6,Grindsted,"C_Per_Madsen,_Grindsted","Per Madsen, Grindsted",Det Konservative Folkeparti,14
+Billund,6,Grindsted,"C_Jeppe_Fuglsang,_Grindsted","Jeppe Fuglsang, Grindsted",Det Konservative Folkeparti,142
+Billund,6,Grindsted,"C_Katri_Søgaard,_Grindsted","Katri Søgaard, Grindsted",Det Konservative Folkeparti,15
+Billund,6,Grindsted,D_Listestemmer,Listestemmer,Nye Borgerlige,65
+Billund,6,Grindsted,D_Allan_Christensen,Allan Christensen,Nye Borgerlige,22
+Billund,6,Grindsted,D_Frank_Mikkelsen,Frank Mikkelsen,Nye Borgerlige,41
+Billund,6,Grindsted,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,15
+Billund,6,Grindsted,F_Karlo_Madsen,Karlo Madsen,SF - Socialistisk Folkeparti,26
+Billund,6,Grindsted,K_Listestemmer,Listestemmer,Kristendemokraterne,26
+Billund,6,Grindsted,K_Frits_Simmelsgaard_Kristensen,Frits Simmelsgaard Kristensen,Kristendemokraterne,66
+Billund,6,Grindsted,L_Listestemmer,Listestemmer,Lokalpolitisk Forum,10
+Billund,6,Grindsted,L_Ulrich_Kristensen,Ulrich Kristensen,Lokalpolitisk Forum,72
+Billund,6,Grindsted,L_Nikolai_L._Friis,Nikolai L. Friis,Lokalpolitisk Forum,7
+Billund,6,Grindsted,L_Coco_Kjærgaard,Coco Kjærgaard,Lokalpolitisk Forum,12
+Billund,6,Grindsted,L_Martin_Alminde_Friis,Martin Alminde Friis,Lokalpolitisk Forum,12
+Billund,6,Grindsted,L_Tony_Olsen,Tony Olsen,Lokalpolitisk Forum,13
+Billund,6,Grindsted,L_Martin_Borup,Martin Borup,Lokalpolitisk Forum,2
+Billund,6,Grindsted,O_Listestemmer,Listestemmer,Dansk Folkeparti,46
+Billund,6,Grindsted,"O_Per_Nyhus,_Grindsted","Per Nyhus, Grindsted",Dansk Folkeparti,424
+Billund,6,Grindsted,"O_Mogens_Jørgensen,_Sdr._Omme","Mogens Jørgensen, Sdr. Omme",Dansk Folkeparti,26
+Billund,6,Grindsted,"O_Bjarne_Jensen,_Grindsted","Bjarne Jensen, Grindsted",Dansk Folkeparti,48
+Billund,6,Grindsted,"O_Laila_Poulsen,_Billund","Laila Poulsen, Billund",Dansk Folkeparti,6
+Billund,6,Grindsted,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",246
+Billund,6,Grindsted,"V_Stephanie_Storbank,_Stendr-Krogage","Stephanie Storbank, Stendr-Krogage","Venstre, Danmarks Liberale Parti",1131
+Billund,6,Grindsted,"V_Peter_Fredensborg,_Billund","Peter Fredensborg, Billund","Venstre, Danmarks Liberale Parti",40
+Billund,6,Grindsted,"V_Mads_Søbye_Helbo,_Grindsted","Mads Søbye Helbo, Grindsted","Venstre, Danmarks Liberale Parti",253
+Billund,6,Grindsted,"V_Cecilie_Rahbek,_Grindsted","Cecilie Rahbek, Grindsted","Venstre, Danmarks Liberale Parti",44
+Billund,6,Grindsted,"V_Jørgen_Clement,_Sdr._Omme","Jørgen Clement, Sdr. Omme","Venstre, Danmarks Liberale Parti",6
+Billund,6,Grindsted,"V_Sofie_Schmahl,_Billund","Sofie Schmahl, Billund","Venstre, Danmarks Liberale Parti",6
+Billund,6,Grindsted,"V_Bjarne_Larsen,_Hejnsvig","Bjarne Larsen, Hejnsvig","Venstre, Danmarks Liberale Parti",34
+Billund,6,Grindsted,"V_Jørn_Poulsen,_Vorbasse","Jørn Poulsen, Vorbasse","Venstre, Danmarks Liberale Parti",2
+Billund,6,Grindsted,"V_Robert_Terkelsen,_Filskov","Robert Terkelsen, Filskov","Venstre, Danmarks Liberale Parti",43
+Billund,6,Grindsted,"V_Søren_Leth_Nielsen,_Grindsted","Søren Leth Nielsen, Grindsted","Venstre, Danmarks Liberale Parti",48
+Billund,6,Grindsted,"V_Leo_Schjødt_Larsen,_Grindsted","Leo Schjødt Larsen, Grindsted","Venstre, Danmarks Liberale Parti",55
+Billund,6,Grindsted,"V_Mette_Roed,_Grindsted","Mette Roed, Grindsted","Venstre, Danmarks Liberale Parti",120
+Billund,6,Grindsted,"V_Jakob_Vibe-Pedersen,_Billund","Jakob Vibe-Pedersen, Billund","Venstre, Danmarks Liberale Parti",5
+Billund,6,Grindsted,"V_Majbrit_Rasmussen,_Hejnsvig","Majbrit Rasmussen, Hejnsvig","Venstre, Danmarks Liberale Parti",13
+Billund,6,Grindsted,"V_Leif_Gull_Storbank,_Grindsted","Leif Gull Storbank, Grindsted","Venstre, Danmarks Liberale Parti",64
+Billund,6,Grindsted,"V_Lars_Kjærhus,_Billund","Lars Kjærhus, Billund","Venstre, Danmarks Liberale Parti",7
+Billund,6,Grindsted,"V_Jesper_Bay,_Vorbasse","Jesper Bay, Vorbasse","Venstre, Danmarks Liberale Parti",0
+Billund,6,Grindsted,"V_Patrick_Fuglsang,_Grindsted","Patrick Fuglsang, Grindsted","Venstre, Danmarks Liberale Parti",17
+Billund,7,Hejnsvig,A_Listestemmer,Listestemmer,Socialdemokratiet,28
+Billund,7,Hejnsvig,"A_Ann_Charlotte_G._Vilstrup,_Billund","Ann Charlotte G. Vilstrup, Billund",Socialdemokratiet,45
+Billund,7,Hejnsvig,"A_Kris_Jensen_Skriver,_Grindsted","Kris Jensen Skriver, Grindsted",Socialdemokratiet,8
+Billund,7,Hejnsvig,"A_Jeyarajah_Rasiah,_Grindsted","Jeyarajah Rasiah, Grindsted",Socialdemokratiet,6
+Billund,7,Hejnsvig,"A_Simon_Nicolajsen_Jørgensen,_Billun","Simon Nicolajsen Jørgensen, Billun",Socialdemokratiet,2
+Billund,7,Hejnsvig,"A_Heidi_Alberthe_Nielsen,_Stenderup-","Heidi Alberthe Nielsen, Stenderup-",Socialdemokratiet,3
+Billund,7,Hejnsvig,"A_Birthe_Nielsen,_Hejnsvig","Birthe Nielsen, Hejnsvig",Socialdemokratiet,116
+Billund,7,Hejnsvig,"A_Arne_Spangfort_Christensen,_Vorbas","Arne Spangfort Christensen, Vorbas",Socialdemokratiet,2
+Billund,7,Hejnsvig,"A_Kurt_Jensen,_Sdr._Omme","Kurt Jensen, Sdr. Omme",Socialdemokratiet,0
+Billund,7,Hejnsvig,"A_Eva_Kristensen,_Grindsted","Eva Kristensen, Grindsted",Socialdemokratiet,3
+Billund,7,Hejnsvig,"A_Rie_Köppen,_Grindsted","Rie Köppen, Grindsted",Socialdemokratiet,6
+Billund,7,Hejnsvig,"A_Jannick_Dam_Kristensen,_Billund","Jannick Dam Kristensen, Billund",Socialdemokratiet,4
+Billund,7,Hejnsvig,"A_Tina_Glad,_Grindsted","Tina Glad, Grindsted",Socialdemokratiet,1
+Billund,7,Hejnsvig,"A_Brian_Nissen,_Filskov","Brian Nissen, Filskov",Socialdemokratiet,9
+Billund,7,Hejnsvig,"A_Jane_Albinus_Borg_Kjær,_Hejnsvig","Jane Albinus Borg Kjær, Hejnsvig",Socialdemokratiet,46
+Billund,7,Hejnsvig,"A_Mikkel_Jakobsen,_Billund","Mikkel Jakobsen, Billund",Socialdemokratiet,0
+Billund,7,Hejnsvig,"A_Anne_Lise_Holm,_Sdr._Omme","Anne Lise Holm, Sdr. Omme",Socialdemokratiet,0
+Billund,7,Hejnsvig,"A_Jill_Isabel_Flores_í_Toftum,_Billu","Jill Isabel Flores í Toftum, Billu",Socialdemokratiet,2
+Billund,7,Hejnsvig,B_Listestemmer,Listestemmer,Radikale Venstre,3
+Billund,7,Hejnsvig,B_Peter_Geurts,Peter Geurts,Radikale Venstre,2
+Billund,7,Hejnsvig,B_Gregers_Lindvig,Gregers Lindvig,Radikale Venstre,0
+Billund,7,Hejnsvig,B_Niels_Kr._Refstrup,Niels Kr. Refstrup,Radikale Venstre,0
+Billund,7,Hejnsvig,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,7
+Billund,7,Hejnsvig,"C_Allan_Munk_Nielsen,_Sdr._Omme","Allan Munk Nielsen, Sdr. Omme",Det Konservative Folkeparti,5
+Billund,7,Hejnsvig,"C_Lars_Hansen,_Grindsted","Lars Hansen, Grindsted",Det Konservative Folkeparti,6
+Billund,7,Hejnsvig,"C_René_Eriksen,_Hejnsvig","René Eriksen, Hejnsvig",Det Konservative Folkeparti,29
+Billund,7,Hejnsvig,"C_Carsten_Søndersø_Riemann,_Grindste","Carsten Søndersø Riemann, Grindste",Det Konservative Folkeparti,1
+Billund,7,Hejnsvig,"C_Per_Madsen,_Grindsted","Per Madsen, Grindsted",Det Konservative Folkeparti,4
+Billund,7,Hejnsvig,"C_Jeppe_Fuglsang,_Grindsted","Jeppe Fuglsang, Grindsted",Det Konservative Folkeparti,6
+Billund,7,Hejnsvig,"C_Katri_Søgaard,_Grindsted","Katri Søgaard, Grindsted",Det Konservative Folkeparti,1
+Billund,7,Hejnsvig,D_Listestemmer,Listestemmer,Nye Borgerlige,14
+Billund,7,Hejnsvig,D_Allan_Christensen,Allan Christensen,Nye Borgerlige,11
+Billund,7,Hejnsvig,D_Frank_Mikkelsen,Frank Mikkelsen,Nye Borgerlige,3
+Billund,7,Hejnsvig,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,6
+Billund,7,Hejnsvig,F_Karlo_Madsen,Karlo Madsen,SF - Socialistisk Folkeparti,5
+Billund,7,Hejnsvig,K_Listestemmer,Listestemmer,Kristendemokraterne,3
+Billund,7,Hejnsvig,K_Frits_Simmelsgaard_Kristensen,Frits Simmelsgaard Kristensen,Kristendemokraterne,7
+Billund,7,Hejnsvig,L_Listestemmer,Listestemmer,Lokalpolitisk Forum,2
+Billund,7,Hejnsvig,L_Ulrich_Kristensen,Ulrich Kristensen,Lokalpolitisk Forum,8
+Billund,7,Hejnsvig,L_Nikolai_L._Friis,Nikolai L. Friis,Lokalpolitisk Forum,2
+Billund,7,Hejnsvig,L_Coco_Kjærgaard,Coco Kjærgaard,Lokalpolitisk Forum,10
+Billund,7,Hejnsvig,L_Martin_Alminde_Friis,Martin Alminde Friis,Lokalpolitisk Forum,0
+Billund,7,Hejnsvig,L_Tony_Olsen,Tony Olsen,Lokalpolitisk Forum,1
+Billund,7,Hejnsvig,L_Martin_Borup,Martin Borup,Lokalpolitisk Forum,1
+Billund,7,Hejnsvig,O_Listestemmer,Listestemmer,Dansk Folkeparti,23
+Billund,7,Hejnsvig,"O_Per_Nyhus,_Grindsted","Per Nyhus, Grindsted",Dansk Folkeparti,77
+Billund,7,Hejnsvig,"O_Mogens_Jørgensen,_Sdr._Omme","Mogens Jørgensen, Sdr. Omme",Dansk Folkeparti,9
+Billund,7,Hejnsvig,"O_Bjarne_Jensen,_Grindsted","Bjarne Jensen, Grindsted",Dansk Folkeparti,11
+Billund,7,Hejnsvig,"O_Laila_Poulsen,_Billund","Laila Poulsen, Billund",Dansk Folkeparti,4
+Billund,7,Hejnsvig,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",38
+Billund,7,Hejnsvig,"V_Stephanie_Storbank,_Stendr-Krogage","Stephanie Storbank, Stendr-Krogage","Venstre, Danmarks Liberale Parti",126
+Billund,7,Hejnsvig,"V_Peter_Fredensborg,_Billund","Peter Fredensborg, Billund","Venstre, Danmarks Liberale Parti",13
+Billund,7,Hejnsvig,"V_Mads_Søbye_Helbo,_Grindsted","Mads Søbye Helbo, Grindsted","Venstre, Danmarks Liberale Parti",1
+Billund,7,Hejnsvig,"V_Cecilie_Rahbek,_Grindsted","Cecilie Rahbek, Grindsted","Venstre, Danmarks Liberale Parti",1
+Billund,7,Hejnsvig,"V_Jørgen_Clement,_Sdr._Omme","Jørgen Clement, Sdr. Omme","Venstre, Danmarks Liberale Parti",0
+Billund,7,Hejnsvig,"V_Sofie_Schmahl,_Billund","Sofie Schmahl, Billund","Venstre, Danmarks Liberale Parti",1
+Billund,7,Hejnsvig,"V_Bjarne_Larsen,_Hejnsvig","Bjarne Larsen, Hejnsvig","Venstre, Danmarks Liberale Parti",115
+Billund,7,Hejnsvig,"V_Jørn_Poulsen,_Vorbasse","Jørn Poulsen, Vorbasse","Venstre, Danmarks Liberale Parti",1
+Billund,7,Hejnsvig,"V_Robert_Terkelsen,_Filskov","Robert Terkelsen, Filskov","Venstre, Danmarks Liberale Parti",1
+Billund,7,Hejnsvig,"V_Søren_Leth_Nielsen,_Grindsted","Søren Leth Nielsen, Grindsted","Venstre, Danmarks Liberale Parti",1
+Billund,7,Hejnsvig,"V_Leo_Schjødt_Larsen,_Grindsted","Leo Schjødt Larsen, Grindsted","Venstre, Danmarks Liberale Parti",1
+Billund,7,Hejnsvig,"V_Mette_Roed,_Grindsted","Mette Roed, Grindsted","Venstre, Danmarks Liberale Parti",6
+Billund,7,Hejnsvig,"V_Jakob_Vibe-Pedersen,_Billund","Jakob Vibe-Pedersen, Billund","Venstre, Danmarks Liberale Parti",0
+Billund,7,Hejnsvig,"V_Majbrit_Rasmussen,_Hejnsvig","Majbrit Rasmussen, Hejnsvig","Venstre, Danmarks Liberale Parti",248
+Billund,7,Hejnsvig,"V_Leif_Gull_Storbank,_Grindsted","Leif Gull Storbank, Grindsted","Venstre, Danmarks Liberale Parti",1
+Billund,7,Hejnsvig,"V_Lars_Kjærhus,_Billund","Lars Kjærhus, Billund","Venstre, Danmarks Liberale Parti",4
+Billund,7,Hejnsvig,"V_Jesper_Bay,_Vorbasse","Jesper Bay, Vorbasse","Venstre, Danmarks Liberale Parti",0
+Billund,7,Hejnsvig,"V_Patrick_Fuglsang,_Grindsted","Patrick Fuglsang, Grindsted","Venstre, Danmarks Liberale Parti",1

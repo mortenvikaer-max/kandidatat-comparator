@@ -1,0 +1,1729 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Assens,1,Assens,A_Listestemmer,Listestemmer,Socialdemokratiet,306
+Assens,1,Assens,"A_Poul-Erik_Svendsen,_Aarup","Poul-Erik Svendsen, Aarup",Socialdemokratiet,151
+Assens,1,Assens,"A_Charlotte_Vincent_Petersen,_Tom.St","Charlotte Vincent Petersen, Tom.St",Socialdemokratiet,56
+Assens,1,Assens,"A_Sara_Emil_Baaring,_Vissenbjerg","Sara Emil Baaring, Vissenbjerg",Socialdemokratiet,60
+Assens,1,Assens,"A_Lone_Akselsen,_Brylle","Lone Akselsen, Brylle",Socialdemokratiet,16
+Assens,1,Assens,"A_Ashil_Farokh,_Tommerup_St.","Ashil Farokh, Tommerup St.",Socialdemokratiet,22
+Assens,1,Assens,"A_Berit_Schaldemose,_Glamsbjerg","Berit Schaldemose, Glamsbjerg",Socialdemokratiet,25
+Assens,1,Assens,"A_Lasse_Tajmer,_Assens","Lasse Tajmer, Assens",Socialdemokratiet,213
+Assens,1,Assens,"A_Lars_Søgaard,_Assens","Lars Søgaard, Assens",Socialdemokratiet,103
+Assens,1,Assens,"A_Elmer_Philipsen,_Glamsbjerg","Elmer Philipsen, Glamsbjerg",Socialdemokratiet,16
+Assens,1,Assens,"A_Henrik_Hansen,_Assens","Henrik Hansen, Assens",Socialdemokratiet,127
+Assens,1,Assens,"A_Leif_Rothe_Rasmussen,_Aarup","Leif Rothe Rasmussen, Aarup",Socialdemokratiet,6
+Assens,1,Assens,"A_Lone_Hegaard_Andersen,_Brylle","Lone Hegaard Andersen, Brylle",Socialdemokratiet,15
+Assens,1,Assens,"A_Poul_Hansen,_Brunshuse","Poul Hansen, Brunshuse",Socialdemokratiet,20
+Assens,1,Assens,"A_Mikael_Jensen,_Assens","Mikael Jensen, Assens",Socialdemokratiet,38
+Assens,1,Assens,"A_Helge_Kold,_Haarby","Helge Kold, Haarby",Socialdemokratiet,10
+Assens,1,Assens,"A_Inga_Jørgensen,_Aarup","Inga Jørgensen, Aarup",Socialdemokratiet,2
+Assens,1,Assens,B_Listestemmer,Listestemmer,Radikale Venstre,24
+Assens,1,Assens,"B_Poul_Poulsen,_Aarup","Poul Poulsen, Aarup",Radikale Venstre,31
+Assens,1,Assens,"B_Rasmus_Dons,_Gummerup","Rasmus Dons, Gummerup",Radikale Venstre,5
+Assens,1,Assens,"B_Joy_Christensen,_Assens","Joy Christensen, Assens",Radikale Venstre,15
+Assens,1,Assens,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,64
+Assens,1,Assens,"C_Søren_Thomsen,_Assens","Søren Thomsen, Assens",Det Konservative Folkeparti,249
+Assens,1,Assens,"C_Jim_Staffensen,_Haarby","Jim Staffensen, Haarby",Det Konservative Folkeparti,10
+Assens,1,Assens,"C_Natasja_Bruun_Knudsen,_Assens","Natasja Bruun Knudsen, Assens",Det Konservative Folkeparti,51
+Assens,1,Assens,"C_Vagn_Top,_Brylle","Vagn Top, Brylle",Det Konservative Folkeparti,2
+Assens,1,Assens,"C_Tobias_Bennedsen,_Barløse","Tobias Bennedsen, Barløse",Det Konservative Folkeparti,6
+Assens,1,Assens,"C_Lars_Littau_Goldmann,_Haarby","Lars Littau Goldmann, Haarby",Det Konservative Folkeparti,3
+Assens,1,Assens,"C_John_Børsting_Mikkelsen,_Helnæs","John Børsting Mikkelsen, Helnæs",Det Konservative Folkeparti,3
+Assens,1,Assens,"C_Sofia_Katrine_Svensson,_Tommerup","Sofia Katrine Svensson, Tommerup",Det Konservative Folkeparti,0
+Assens,1,Assens,"C_Jesper_Christensen,_Glamsbjerg","Jesper Christensen, Glamsbjerg",Det Konservative Folkeparti,4
+Assens,1,Assens,D_Listestemmer,Listestemmer,Nye Borgerlige,56
+Assens,1,Assens,D_Lars_S._Lillebæk,Lars S. Lillebæk,Nye Borgerlige,49
+Assens,1,Assens,D_Hanne_Knappmann,Hanne Knappmann,Nye Borgerlige,19
+Assens,1,Assens,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,58
+Assens,1,Assens,"F_Mogens_Mulle_Johansen,_Glamsbjerg","Mogens Mulle Johansen, Glamsbjerg",SF - Socialistisk Folkeparti,22
+Assens,1,Assens,"F_Jeanette_Sandberg,_Tommerup_St.","Jeanette Sandberg, Tommerup St.",SF - Socialistisk Folkeparti,35
+Assens,1,Assens,"F_Flemming_Risskov_Jørgensen,_Viss.","Flemming Risskov Jørgensen, Viss.",SF - Socialistisk Folkeparti,22
+Assens,1,Assens,"F_Poul_Erik_Kristiansen,_Glamsbjerg","Poul Erik Kristiansen, Glamsbjerg",SF - Socialistisk Folkeparti,6
+Assens,1,Assens,"F_Mette-Rose_Kongstad,_Glamsbjerg","Mette-Rose Kongstad, Glamsbjerg",SF - Socialistisk Folkeparti,11
+Assens,1,Assens,"F_Hans_Peter_Lund,_Tommerup_St.","Hans Peter Lund, Tommerup St.",SF - Socialistisk Folkeparti,1
+Assens,1,Assens,"F_Henning_Petersen,_Holte","Henning Petersen, Holte",SF - Socialistisk Folkeparti,1
+Assens,1,Assens,"F_Inge_Thorup,_Aarup","Inge Thorup, Aarup",SF - Socialistisk Folkeparti,4
+Assens,1,Assens,"F_Hans_Glæsel,_Skalbjerg","Hans Glæsel, Skalbjerg",SF - Socialistisk Folkeparti,0
+Assens,1,Assens,"F_Helle_Beierholm,_Assens","Helle Beierholm, Assens",SF - Socialistisk Folkeparti,22
+Assens,1,Assens,H_Listestemmer,Listestemmer,SocialKonservative Assens,1
+Assens,1,Assens,"H_Jørn_Strand_Nielsen,_Haarby","Jørn Strand Nielsen, Haarby",SocialKonservative Assens,5
+Assens,1,Assens,M_Listestemmer,Listestemmer,Vi Lokale Demokrater,1
+Assens,1,Assens,"M_Irene_Jeppesen,_Vissenbjerg","Irene Jeppesen, Vissenbjerg",Vi Lokale Demokrater,1
+Assens,1,Assens,"M_Benno_Dahl,_Vissenbjerg","Benno Dahl, Vissenbjerg",Vi Lokale Demokrater,0
+Assens,1,Assens,O_Listestemmer,Listestemmer,Dansk Folkeparti,46
+Assens,1,Assens,O_Jens_Henrik_W._Thulesen_Dahl,Jens Henrik W. Thulesen Dahl,Dansk Folkeparti,77
+Assens,1,Assens,O_Lars_Kolling,Lars Kolling,Dansk Folkeparti,57
+Assens,1,Assens,O_Bente_S._Rasmussen,Bente S. Rasmussen,Dansk Folkeparti,3
+Assens,1,Assens,O_Finn_B._Hansen,Finn B. Hansen,Dansk Folkeparti,8
+Assens,1,Assens,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",129
+Assens,1,Assens,"V_Søren_Steen_Andersen,_Tommerup","Søren Steen Andersen, Tommerup","Venstre, Danmarks Liberale Parti",654
+Assens,1,Assens,"V_Pia_Offer_Madsen,_Glamsbjerg","Pia Offer Madsen, Glamsbjerg","Venstre, Danmarks Liberale Parti",108
+Assens,1,Assens,"V_Dan_Gørtz,_Aarup","Dan Gørtz, Aarup","Venstre, Danmarks Liberale Parti",8
+Assens,1,Assens,"V_Tine_Grau_Poulsen,_Vissenbjerg","Tine Grau Poulsen, Vissenbjerg","Venstre, Danmarks Liberale Parti",8
+Assens,1,Assens,"V_Nikolaj_Leed_Henriksen,_Aarup","Nikolaj Leed Henriksen, Aarup","Venstre, Danmarks Liberale Parti",11
+Assens,1,Assens,"V_Bodil_Boesgaard,_Vissenbjerg","Bodil Boesgaard, Vissenbjerg","Venstre, Danmarks Liberale Parti",5
+Assens,1,Assens,"V_Jens_Jakobsen,_Haarby","Jens Jakobsen, Haarby","Venstre, Danmarks Liberale Parti",11
+Assens,1,Assens,"V_Knud_Søby,_Assens","Knud Søby, Assens","Venstre, Danmarks Liberale Parti",132
+Assens,1,Assens,"V_Ole_Maagaard_Pedersen,_Ørsted","Ole Maagaard Pedersen, Ørsted","Venstre, Danmarks Liberale Parti",9
+Assens,1,Assens,"V_Rie_Nielsen,_Assens","Rie Nielsen, Assens","Venstre, Danmarks Liberale Parti",104
+Assens,1,Assens,"V_Henrik_Kirk,_Vissenbjerg","Henrik Kirk, Vissenbjerg","Venstre, Danmarks Liberale Parti",4
+Assens,1,Assens,"V_Camilla_Lykke_Sørensen,_Ebberup","Camilla Lykke Sørensen, Ebberup","Venstre, Danmarks Liberale Parti",45
+Assens,1,Assens,"V_Ib_W._Jensen,_Søllested","Ib W. Jensen, Søllested","Venstre, Danmarks Liberale Parti",16
+Assens,1,Assens,"V_Henrik_Mott_Frandsen,_Turup","Henrik Mott Frandsen, Turup","Venstre, Danmarks Liberale Parti",35
+Assens,1,Assens,"V_Semir_Azet_Sinou,_Assens","Semir Azet Sinou, Assens","Venstre, Danmarks Liberale Parti",91
+Assens,1,Assens,"V_Søren_Edlefsen,_Assens","Søren Edlefsen, Assens","Venstre, Danmarks Liberale Parti",45
+Assens,1,Assens,"V_Henrik_Jørgensen,_Verninge","Henrik Jørgensen, Verninge","Venstre, Danmarks Liberale Parti",0
+Assens,1,Assens,"V_Søren_Fisker_Olesen,_Bred","Søren Fisker Olesen, Bred","Venstre, Danmarks Liberale Parti",1
+Assens,1,Assens,"V_Steen-Ove_Teisner,_Flemløse","Steen-Ove Teisner, Flemløse","Venstre, Danmarks Liberale Parti",0
+Assens,1,Assens,"V_Lars_Tastum_Madsen,_Tommerup","Lars Tastum Madsen, Tommerup","Venstre, Danmarks Liberale Parti",0
+Assens,1,Assens,"V_Camilla_Hedenhoff,_Sø_Søby","Camilla Hedenhoff, Sø Søby","Venstre, Danmarks Liberale Parti",0
+Assens,1,Assens,"V_Ulrikka_Brændgaard_Nissen,_Solevad","Ulrikka Brændgaard Nissen, Solevad","Venstre, Danmarks Liberale Parti",4
+Assens,1,Assens,"V_Torben_Schadt-Poulsen,_Assens","Torben Schadt-Poulsen, Assens","Venstre, Danmarks Liberale Parti",4
+Assens,1,Assens,"V_Peter_Poulsen,_Aarup","Peter Poulsen, Aarup","Venstre, Danmarks Liberale Parti",1
+Assens,1,Assens,Z_Listestemmer,Listestemmer,De LokalNationale,7
+Assens,1,Assens,Z_Betina_Signe_Christiansen,Betina Signe Christiansen,De LokalNationale,5
+Assens,1,Assens,Æ_Listestemmer,Listestemmer,Frihedslisten,7
+Assens,1,Assens,"Æ_Millah_Kongsbach,_Assens","Millah Kongsbach, Assens",Frihedslisten,18
+Assens,1,Assens,"Æ_John_Boisen,_Glamsbjerg","John Boisen, Glamsbjerg",Frihedslisten,0
+Assens,1,Assens,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,90
+Assens,1,Assens,"Ø_Kaj_Alstrup,_Assens","Kaj Alstrup, Assens",Enhedslisten - De Rød-Grønne,22
+Assens,1,Assens,"Ø_Kirsten_Hofset,_Egemosedam","Kirsten Hofset, Egemosedam",Enhedslisten - De Rød-Grønne,8
+Assens,1,Assens,"Ø_Camilla_Reese_Sejerøe,_Skallebølle","Camilla Reese Sejerøe, Skallebølle",Enhedslisten - De Rød-Grønne,10
+Assens,1,Assens,"Ø_Rune_Biskopstö_Christensen,_Assens","Rune Biskopstö Christensen, Assens",Enhedslisten - De Rød-Grønne,11
+Assens,1,Assens,"Ø_Heidi_C.V._Mørch,_Assens","Heidi C.V. Mørch, Assens",Enhedslisten - De Rød-Grønne,13
+Assens,1,Assens,"Ø_Gert_Jacobsen,_Turup","Gert Jacobsen, Turup",Enhedslisten - De Rød-Grønne,2
+Assens,1,Assens,"Ø_Line_Mex-Jørgensen,_Skalbjerg","Line Mex-Jørgensen, Skalbjerg",Enhedslisten - De Rød-Grønne,3
+Assens,1,Assens,"Ø_Henrik_Frydenborg,_Tommerup","Henrik Frydenborg, Tommerup",Enhedslisten - De Rød-Grønne,3
+Assens,1,Assens,Å_Listestemmer,Listestemmer,Alternativet,6
+Assens,1,Assens,Å_Ole_Dupont_Kofod,Ole Dupont Kofod,Alternativet,10
+Assens,2,Ebberup,A_Listestemmer,Listestemmer,Socialdemokratiet,77
+Assens,2,Ebberup,"A_Poul-Erik_Svendsen,_Aarup","Poul-Erik Svendsen, Aarup",Socialdemokratiet,47
+Assens,2,Ebberup,"A_Charlotte_Vincent_Petersen,_Tom.St","Charlotte Vincent Petersen, Tom.St",Socialdemokratiet,22
+Assens,2,Ebberup,"A_Sara_Emil_Baaring,_Vissenbjerg","Sara Emil Baaring, Vissenbjerg",Socialdemokratiet,17
+Assens,2,Ebberup,"A_Lone_Akselsen,_Brylle","Lone Akselsen, Brylle",Socialdemokratiet,3
+Assens,2,Ebberup,"A_Ashil_Farokh,_Tommerup_St.","Ashil Farokh, Tommerup St.",Socialdemokratiet,7
+Assens,2,Ebberup,"A_Berit_Schaldemose,_Glamsbjerg","Berit Schaldemose, Glamsbjerg",Socialdemokratiet,20
+Assens,2,Ebberup,"A_Lasse_Tajmer,_Assens","Lasse Tajmer, Assens",Socialdemokratiet,30
+Assens,2,Ebberup,"A_Lars_Søgaard,_Assens","Lars Søgaard, Assens",Socialdemokratiet,13
+Assens,2,Ebberup,"A_Elmer_Philipsen,_Glamsbjerg","Elmer Philipsen, Glamsbjerg",Socialdemokratiet,1
+Assens,2,Ebberup,"A_Henrik_Hansen,_Assens","Henrik Hansen, Assens",Socialdemokratiet,14
+Assens,2,Ebberup,"A_Leif_Rothe_Rasmussen,_Aarup","Leif Rothe Rasmussen, Aarup",Socialdemokratiet,3
+Assens,2,Ebberup,"A_Lone_Hegaard_Andersen,_Brylle","Lone Hegaard Andersen, Brylle",Socialdemokratiet,2
+Assens,2,Ebberup,"A_Poul_Hansen,_Brunshuse","Poul Hansen, Brunshuse",Socialdemokratiet,15
+Assens,2,Ebberup,"A_Mikael_Jensen,_Assens","Mikael Jensen, Assens",Socialdemokratiet,10
+Assens,2,Ebberup,"A_Helge_Kold,_Haarby","Helge Kold, Haarby",Socialdemokratiet,3
+Assens,2,Ebberup,"A_Inga_Jørgensen,_Aarup","Inga Jørgensen, Aarup",Socialdemokratiet,0
+Assens,2,Ebberup,B_Listestemmer,Listestemmer,Radikale Venstre,4
+Assens,2,Ebberup,"B_Poul_Poulsen,_Aarup","Poul Poulsen, Aarup",Radikale Venstre,7
+Assens,2,Ebberup,"B_Rasmus_Dons,_Gummerup","Rasmus Dons, Gummerup",Radikale Venstre,1
+Assens,2,Ebberup,"B_Joy_Christensen,_Assens","Joy Christensen, Assens",Radikale Venstre,2
+Assens,2,Ebberup,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,21
+Assens,2,Ebberup,"C_Søren_Thomsen,_Assens","Søren Thomsen, Assens",Det Konservative Folkeparti,46
+Assens,2,Ebberup,"C_Jim_Staffensen,_Haarby","Jim Staffensen, Haarby",Det Konservative Folkeparti,2
+Assens,2,Ebberup,"C_Natasja_Bruun_Knudsen,_Assens","Natasja Bruun Knudsen, Assens",Det Konservative Folkeparti,4
+Assens,2,Ebberup,"C_Vagn_Top,_Brylle","Vagn Top, Brylle",Det Konservative Folkeparti,0
+Assens,2,Ebberup,"C_Tobias_Bennedsen,_Barløse","Tobias Bennedsen, Barløse",Det Konservative Folkeparti,0
+Assens,2,Ebberup,"C_Lars_Littau_Goldmann,_Haarby","Lars Littau Goldmann, Haarby",Det Konservative Folkeparti,1
+Assens,2,Ebberup,"C_John_Børsting_Mikkelsen,_Helnæs","John Børsting Mikkelsen, Helnæs",Det Konservative Folkeparti,0
+Assens,2,Ebberup,"C_Sofia_Katrine_Svensson,_Tommerup","Sofia Katrine Svensson, Tommerup",Det Konservative Folkeparti,0
+Assens,2,Ebberup,"C_Jesper_Christensen,_Glamsbjerg","Jesper Christensen, Glamsbjerg",Det Konservative Folkeparti,0
+Assens,2,Ebberup,D_Listestemmer,Listestemmer,Nye Borgerlige,11
+Assens,2,Ebberup,D_Lars_S._Lillebæk,Lars S. Lillebæk,Nye Borgerlige,15
+Assens,2,Ebberup,D_Hanne_Knappmann,Hanne Knappmann,Nye Borgerlige,5
+Assens,2,Ebberup,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,14
+Assens,2,Ebberup,"F_Mogens_Mulle_Johansen,_Glamsbjerg","Mogens Mulle Johansen, Glamsbjerg",SF - Socialistisk Folkeparti,8
+Assens,2,Ebberup,"F_Jeanette_Sandberg,_Tommerup_St.","Jeanette Sandberg, Tommerup St.",SF - Socialistisk Folkeparti,14
+Assens,2,Ebberup,"F_Flemming_Risskov_Jørgensen,_Viss.","Flemming Risskov Jørgensen, Viss.",SF - Socialistisk Folkeparti,1
+Assens,2,Ebberup,"F_Poul_Erik_Kristiansen,_Glamsbjerg","Poul Erik Kristiansen, Glamsbjerg",SF - Socialistisk Folkeparti,0
+Assens,2,Ebberup,"F_Mette-Rose_Kongstad,_Glamsbjerg","Mette-Rose Kongstad, Glamsbjerg",SF - Socialistisk Folkeparti,6
+Assens,2,Ebberup,"F_Hans_Peter_Lund,_Tommerup_St.","Hans Peter Lund, Tommerup St.",SF - Socialistisk Folkeparti,0
+Assens,2,Ebberup,"F_Henning_Petersen,_Holte","Henning Petersen, Holte",SF - Socialistisk Folkeparti,2
+Assens,2,Ebberup,"F_Inge_Thorup,_Aarup","Inge Thorup, Aarup",SF - Socialistisk Folkeparti,0
+Assens,2,Ebberup,"F_Hans_Glæsel,_Skalbjerg","Hans Glæsel, Skalbjerg",SF - Socialistisk Folkeparti,0
+Assens,2,Ebberup,"F_Helle_Beierholm,_Assens","Helle Beierholm, Assens",SF - Socialistisk Folkeparti,11
+Assens,2,Ebberup,H_Listestemmer,Listestemmer,SocialKonservative Assens,0
+Assens,2,Ebberup,"H_Jørn_Strand_Nielsen,_Haarby","Jørn Strand Nielsen, Haarby",SocialKonservative Assens,0
+Assens,2,Ebberup,M_Listestemmer,Listestemmer,Vi Lokale Demokrater,0
+Assens,2,Ebberup,"M_Irene_Jeppesen,_Vissenbjerg","Irene Jeppesen, Vissenbjerg",Vi Lokale Demokrater,0
+Assens,2,Ebberup,"M_Benno_Dahl,_Vissenbjerg","Benno Dahl, Vissenbjerg",Vi Lokale Demokrater,0
+Assens,2,Ebberup,O_Listestemmer,Listestemmer,Dansk Folkeparti,14
+Assens,2,Ebberup,O_Jens_Henrik_W._Thulesen_Dahl,Jens Henrik W. Thulesen Dahl,Dansk Folkeparti,21
+Assens,2,Ebberup,O_Lars_Kolling,Lars Kolling,Dansk Folkeparti,20
+Assens,2,Ebberup,O_Bente_S._Rasmussen,Bente S. Rasmussen,Dansk Folkeparti,0
+Assens,2,Ebberup,O_Finn_B._Hansen,Finn B. Hansen,Dansk Folkeparti,2
+Assens,2,Ebberup,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",33
+Assens,2,Ebberup,"V_Søren_Steen_Andersen,_Tommerup","Søren Steen Andersen, Tommerup","Venstre, Danmarks Liberale Parti",158
+Assens,2,Ebberup,"V_Pia_Offer_Madsen,_Glamsbjerg","Pia Offer Madsen, Glamsbjerg","Venstre, Danmarks Liberale Parti",29
+Assens,2,Ebberup,"V_Dan_Gørtz,_Aarup","Dan Gørtz, Aarup","Venstre, Danmarks Liberale Parti",5
+Assens,2,Ebberup,"V_Tine_Grau_Poulsen,_Vissenbjerg","Tine Grau Poulsen, Vissenbjerg","Venstre, Danmarks Liberale Parti",0
+Assens,2,Ebberup,"V_Nikolaj_Leed_Henriksen,_Aarup","Nikolaj Leed Henriksen, Aarup","Venstre, Danmarks Liberale Parti",3
+Assens,2,Ebberup,"V_Bodil_Boesgaard,_Vissenbjerg","Bodil Boesgaard, Vissenbjerg","Venstre, Danmarks Liberale Parti",2
+Assens,2,Ebberup,"V_Jens_Jakobsen,_Haarby","Jens Jakobsen, Haarby","Venstre, Danmarks Liberale Parti",2
+Assens,2,Ebberup,"V_Knud_Søby,_Assens","Knud Søby, Assens","Venstre, Danmarks Liberale Parti",3
+Assens,2,Ebberup,"V_Ole_Maagaard_Pedersen,_Ørsted","Ole Maagaard Pedersen, Ørsted","Venstre, Danmarks Liberale Parti",3
+Assens,2,Ebberup,"V_Rie_Nielsen,_Assens","Rie Nielsen, Assens","Venstre, Danmarks Liberale Parti",10
+Assens,2,Ebberup,"V_Henrik_Kirk,_Vissenbjerg","Henrik Kirk, Vissenbjerg","Venstre, Danmarks Liberale Parti",0
+Assens,2,Ebberup,"V_Camilla_Lykke_Sørensen,_Ebberup","Camilla Lykke Sørensen, Ebberup","Venstre, Danmarks Liberale Parti",104
+Assens,2,Ebberup,"V_Ib_W._Jensen,_Søllested","Ib W. Jensen, Søllested","Venstre, Danmarks Liberale Parti",13
+Assens,2,Ebberup,"V_Henrik_Mott_Frandsen,_Turup","Henrik Mott Frandsen, Turup","Venstre, Danmarks Liberale Parti",4
+Assens,2,Ebberup,"V_Semir_Azet_Sinou,_Assens","Semir Azet Sinou, Assens","Venstre, Danmarks Liberale Parti",6
+Assens,2,Ebberup,"V_Søren_Edlefsen,_Assens","Søren Edlefsen, Assens","Venstre, Danmarks Liberale Parti",2
+Assens,2,Ebberup,"V_Henrik_Jørgensen,_Verninge","Henrik Jørgensen, Verninge","Venstre, Danmarks Liberale Parti",0
+Assens,2,Ebberup,"V_Søren_Fisker_Olesen,_Bred","Søren Fisker Olesen, Bred","Venstre, Danmarks Liberale Parti",0
+Assens,2,Ebberup,"V_Steen-Ove_Teisner,_Flemløse","Steen-Ove Teisner, Flemløse","Venstre, Danmarks Liberale Parti",2
+Assens,2,Ebberup,"V_Lars_Tastum_Madsen,_Tommerup","Lars Tastum Madsen, Tommerup","Venstre, Danmarks Liberale Parti",0
+Assens,2,Ebberup,"V_Camilla_Hedenhoff,_Sø_Søby","Camilla Hedenhoff, Sø Søby","Venstre, Danmarks Liberale Parti",4
+Assens,2,Ebberup,"V_Ulrikka_Brændgaard_Nissen,_Solevad","Ulrikka Brændgaard Nissen, Solevad","Venstre, Danmarks Liberale Parti",1
+Assens,2,Ebberup,"V_Torben_Schadt-Poulsen,_Assens","Torben Schadt-Poulsen, Assens","Venstre, Danmarks Liberale Parti",0
+Assens,2,Ebberup,"V_Peter_Poulsen,_Aarup","Peter Poulsen, Aarup","Venstre, Danmarks Liberale Parti",2
+Assens,2,Ebberup,Z_Listestemmer,Listestemmer,De LokalNationale,0
+Assens,2,Ebberup,Z_Betina_Signe_Christiansen,Betina Signe Christiansen,De LokalNationale,0
+Assens,2,Ebberup,Æ_Listestemmer,Listestemmer,Frihedslisten,0
+Assens,2,Ebberup,"Æ_Millah_Kongsbach,_Assens","Millah Kongsbach, Assens",Frihedslisten,1
+Assens,2,Ebberup,"Æ_John_Boisen,_Glamsbjerg","John Boisen, Glamsbjerg",Frihedslisten,1
+Assens,2,Ebberup,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,11
+Assens,2,Ebberup,"Ø_Kaj_Alstrup,_Assens","Kaj Alstrup, Assens",Enhedslisten - De Rød-Grønne,5
+Assens,2,Ebberup,"Ø_Kirsten_Hofset,_Egemosedam","Kirsten Hofset, Egemosedam",Enhedslisten - De Rød-Grønne,1
+Assens,2,Ebberup,"Ø_Camilla_Reese_Sejerøe,_Skallebølle","Camilla Reese Sejerøe, Skallebølle",Enhedslisten - De Rød-Grønne,0
+Assens,2,Ebberup,"Ø_Rune_Biskopstö_Christensen,_Assens","Rune Biskopstö Christensen, Assens",Enhedslisten - De Rød-Grønne,2
+Assens,2,Ebberup,"Ø_Heidi_C.V._Mørch,_Assens","Heidi C.V. Mørch, Assens",Enhedslisten - De Rød-Grønne,3
+Assens,2,Ebberup,"Ø_Gert_Jacobsen,_Turup","Gert Jacobsen, Turup",Enhedslisten - De Rød-Grønne,0
+Assens,2,Ebberup,"Ø_Line_Mex-Jørgensen,_Skalbjerg","Line Mex-Jørgensen, Skalbjerg",Enhedslisten - De Rød-Grønne,0
+Assens,2,Ebberup,"Ø_Henrik_Frydenborg,_Tommerup","Henrik Frydenborg, Tommerup",Enhedslisten - De Rød-Grønne,1
+Assens,2,Ebberup,Å_Listestemmer,Listestemmer,Alternativet,3
+Assens,2,Ebberup,Å_Ole_Dupont_Kofod,Ole Dupont Kofod,Alternativet,5
+Assens,3,Turup,A_Listestemmer,Listestemmer,Socialdemokratiet,34
+Assens,3,Turup,"A_Poul-Erik_Svendsen,_Aarup","Poul-Erik Svendsen, Aarup",Socialdemokratiet,15
+Assens,3,Turup,"A_Charlotte_Vincent_Petersen,_Tom.St","Charlotte Vincent Petersen, Tom.St",Socialdemokratiet,9
+Assens,3,Turup,"A_Sara_Emil_Baaring,_Vissenbjerg","Sara Emil Baaring, Vissenbjerg",Socialdemokratiet,7
+Assens,3,Turup,"A_Lone_Akselsen,_Brylle","Lone Akselsen, Brylle",Socialdemokratiet,0
+Assens,3,Turup,"A_Ashil_Farokh,_Tommerup_St.","Ashil Farokh, Tommerup St.",Socialdemokratiet,1
+Assens,3,Turup,"A_Berit_Schaldemose,_Glamsbjerg","Berit Schaldemose, Glamsbjerg",Socialdemokratiet,2
+Assens,3,Turup,"A_Lasse_Tajmer,_Assens","Lasse Tajmer, Assens",Socialdemokratiet,3
+Assens,3,Turup,"A_Lars_Søgaard,_Assens","Lars Søgaard, Assens",Socialdemokratiet,3
+Assens,3,Turup,"A_Elmer_Philipsen,_Glamsbjerg","Elmer Philipsen, Glamsbjerg",Socialdemokratiet,1
+Assens,3,Turup,"A_Henrik_Hansen,_Assens","Henrik Hansen, Assens",Socialdemokratiet,11
+Assens,3,Turup,"A_Leif_Rothe_Rasmussen,_Aarup","Leif Rothe Rasmussen, Aarup",Socialdemokratiet,0
+Assens,3,Turup,"A_Lone_Hegaard_Andersen,_Brylle","Lone Hegaard Andersen, Brylle",Socialdemokratiet,2
+Assens,3,Turup,"A_Poul_Hansen,_Brunshuse","Poul Hansen, Brunshuse",Socialdemokratiet,3
+Assens,3,Turup,"A_Mikael_Jensen,_Assens","Mikael Jensen, Assens",Socialdemokratiet,5
+Assens,3,Turup,"A_Helge_Kold,_Haarby","Helge Kold, Haarby",Socialdemokratiet,2
+Assens,3,Turup,"A_Inga_Jørgensen,_Aarup","Inga Jørgensen, Aarup",Socialdemokratiet,0
+Assens,3,Turup,B_Listestemmer,Listestemmer,Radikale Venstre,2
+Assens,3,Turup,"B_Poul_Poulsen,_Aarup","Poul Poulsen, Aarup",Radikale Venstre,6
+Assens,3,Turup,"B_Rasmus_Dons,_Gummerup","Rasmus Dons, Gummerup",Radikale Venstre,4
+Assens,3,Turup,"B_Joy_Christensen,_Assens","Joy Christensen, Assens",Radikale Venstre,1
+Assens,3,Turup,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,3
+Assens,3,Turup,"C_Søren_Thomsen,_Assens","Søren Thomsen, Assens",Det Konservative Folkeparti,7
+Assens,3,Turup,"C_Jim_Staffensen,_Haarby","Jim Staffensen, Haarby",Det Konservative Folkeparti,0
+Assens,3,Turup,"C_Natasja_Bruun_Knudsen,_Assens","Natasja Bruun Knudsen, Assens",Det Konservative Folkeparti,6
+Assens,3,Turup,"C_Vagn_Top,_Brylle","Vagn Top, Brylle",Det Konservative Folkeparti,1
+Assens,3,Turup,"C_Tobias_Bennedsen,_Barløse","Tobias Bennedsen, Barløse",Det Konservative Folkeparti,0
+Assens,3,Turup,"C_Lars_Littau_Goldmann,_Haarby","Lars Littau Goldmann, Haarby",Det Konservative Folkeparti,2
+Assens,3,Turup,"C_John_Børsting_Mikkelsen,_Helnæs","John Børsting Mikkelsen, Helnæs",Det Konservative Folkeparti,0
+Assens,3,Turup,"C_Sofia_Katrine_Svensson,_Tommerup","Sofia Katrine Svensson, Tommerup",Det Konservative Folkeparti,0
+Assens,3,Turup,"C_Jesper_Christensen,_Glamsbjerg","Jesper Christensen, Glamsbjerg",Det Konservative Folkeparti,1
+Assens,3,Turup,D_Listestemmer,Listestemmer,Nye Borgerlige,2
+Assens,3,Turup,D_Lars_S._Lillebæk,Lars S. Lillebæk,Nye Borgerlige,2
+Assens,3,Turup,D_Hanne_Knappmann,Hanne Knappmann,Nye Borgerlige,1
+Assens,3,Turup,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,16
+Assens,3,Turup,"F_Mogens_Mulle_Johansen,_Glamsbjerg","Mogens Mulle Johansen, Glamsbjerg",SF - Socialistisk Folkeparti,7
+Assens,3,Turup,"F_Jeanette_Sandberg,_Tommerup_St.","Jeanette Sandberg, Tommerup St.",SF - Socialistisk Folkeparti,5
+Assens,3,Turup,"F_Flemming_Risskov_Jørgensen,_Viss.","Flemming Risskov Jørgensen, Viss.",SF - Socialistisk Folkeparti,1
+Assens,3,Turup,"F_Poul_Erik_Kristiansen,_Glamsbjerg","Poul Erik Kristiansen, Glamsbjerg",SF - Socialistisk Folkeparti,1
+Assens,3,Turup,"F_Mette-Rose_Kongstad,_Glamsbjerg","Mette-Rose Kongstad, Glamsbjerg",SF - Socialistisk Folkeparti,3
+Assens,3,Turup,"F_Hans_Peter_Lund,_Tommerup_St.","Hans Peter Lund, Tommerup St.",SF - Socialistisk Folkeparti,0
+Assens,3,Turup,"F_Henning_Petersen,_Holte","Henning Petersen, Holte",SF - Socialistisk Folkeparti,0
+Assens,3,Turup,"F_Inge_Thorup,_Aarup","Inge Thorup, Aarup",SF - Socialistisk Folkeparti,0
+Assens,3,Turup,"F_Hans_Glæsel,_Skalbjerg","Hans Glæsel, Skalbjerg",SF - Socialistisk Folkeparti,0
+Assens,3,Turup,"F_Helle_Beierholm,_Assens","Helle Beierholm, Assens",SF - Socialistisk Folkeparti,2
+Assens,3,Turup,H_Listestemmer,Listestemmer,SocialKonservative Assens,0
+Assens,3,Turup,"H_Jørn_Strand_Nielsen,_Haarby","Jørn Strand Nielsen, Haarby",SocialKonservative Assens,0
+Assens,3,Turup,M_Listestemmer,Listestemmer,Vi Lokale Demokrater,0
+Assens,3,Turup,"M_Irene_Jeppesen,_Vissenbjerg","Irene Jeppesen, Vissenbjerg",Vi Lokale Demokrater,1
+Assens,3,Turup,"M_Benno_Dahl,_Vissenbjerg","Benno Dahl, Vissenbjerg",Vi Lokale Demokrater,0
+Assens,3,Turup,O_Listestemmer,Listestemmer,Dansk Folkeparti,6
+Assens,3,Turup,O_Jens_Henrik_W._Thulesen_Dahl,Jens Henrik W. Thulesen Dahl,Dansk Folkeparti,21
+Assens,3,Turup,O_Lars_Kolling,Lars Kolling,Dansk Folkeparti,5
+Assens,3,Turup,O_Bente_S._Rasmussen,Bente S. Rasmussen,Dansk Folkeparti,1
+Assens,3,Turup,O_Finn_B._Hansen,Finn B. Hansen,Dansk Folkeparti,3
+Assens,3,Turup,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",23
+Assens,3,Turup,"V_Søren_Steen_Andersen,_Tommerup","Søren Steen Andersen, Tommerup","Venstre, Danmarks Liberale Parti",88
+Assens,3,Turup,"V_Pia_Offer_Madsen,_Glamsbjerg","Pia Offer Madsen, Glamsbjerg","Venstre, Danmarks Liberale Parti",13
+Assens,3,Turup,"V_Dan_Gørtz,_Aarup","Dan Gørtz, Aarup","Venstre, Danmarks Liberale Parti",1
+Assens,3,Turup,"V_Tine_Grau_Poulsen,_Vissenbjerg","Tine Grau Poulsen, Vissenbjerg","Venstre, Danmarks Liberale Parti",2
+Assens,3,Turup,"V_Nikolaj_Leed_Henriksen,_Aarup","Nikolaj Leed Henriksen, Aarup","Venstre, Danmarks Liberale Parti",4
+Assens,3,Turup,"V_Bodil_Boesgaard,_Vissenbjerg","Bodil Boesgaard, Vissenbjerg","Venstre, Danmarks Liberale Parti",1
+Assens,3,Turup,"V_Jens_Jakobsen,_Haarby","Jens Jakobsen, Haarby","Venstre, Danmarks Liberale Parti",0
+Assens,3,Turup,"V_Knud_Søby,_Assens","Knud Søby, Assens","Venstre, Danmarks Liberale Parti",5
+Assens,3,Turup,"V_Ole_Maagaard_Pedersen,_Ørsted","Ole Maagaard Pedersen, Ørsted","Venstre, Danmarks Liberale Parti",0
+Assens,3,Turup,"V_Rie_Nielsen,_Assens","Rie Nielsen, Assens","Venstre, Danmarks Liberale Parti",5
+Assens,3,Turup,"V_Henrik_Kirk,_Vissenbjerg","Henrik Kirk, Vissenbjerg","Venstre, Danmarks Liberale Parti",1
+Assens,3,Turup,"V_Camilla_Lykke_Sørensen,_Ebberup","Camilla Lykke Sørensen, Ebberup","Venstre, Danmarks Liberale Parti",11
+Assens,3,Turup,"V_Ib_W._Jensen,_Søllested","Ib W. Jensen, Søllested","Venstre, Danmarks Liberale Parti",10
+Assens,3,Turup,"V_Henrik_Mott_Frandsen,_Turup","Henrik Mott Frandsen, Turup","Venstre, Danmarks Liberale Parti",47
+Assens,3,Turup,"V_Semir_Azet_Sinou,_Assens","Semir Azet Sinou, Assens","Venstre, Danmarks Liberale Parti",9
+Assens,3,Turup,"V_Søren_Edlefsen,_Assens","Søren Edlefsen, Assens","Venstre, Danmarks Liberale Parti",3
+Assens,3,Turup,"V_Henrik_Jørgensen,_Verninge","Henrik Jørgensen, Verninge","Venstre, Danmarks Liberale Parti",0
+Assens,3,Turup,"V_Søren_Fisker_Olesen,_Bred","Søren Fisker Olesen, Bred","Venstre, Danmarks Liberale Parti",0
+Assens,3,Turup,"V_Steen-Ove_Teisner,_Flemløse","Steen-Ove Teisner, Flemløse","Venstre, Danmarks Liberale Parti",1
+Assens,3,Turup,"V_Lars_Tastum_Madsen,_Tommerup","Lars Tastum Madsen, Tommerup","Venstre, Danmarks Liberale Parti",0
+Assens,3,Turup,"V_Camilla_Hedenhoff,_Sø_Søby","Camilla Hedenhoff, Sø Søby","Venstre, Danmarks Liberale Parti",2
+Assens,3,Turup,"V_Ulrikka_Brændgaard_Nissen,_Solevad","Ulrikka Brændgaard Nissen, Solevad","Venstre, Danmarks Liberale Parti",0
+Assens,3,Turup,"V_Torben_Schadt-Poulsen,_Assens","Torben Schadt-Poulsen, Assens","Venstre, Danmarks Liberale Parti",1
+Assens,3,Turup,"V_Peter_Poulsen,_Aarup","Peter Poulsen, Aarup","Venstre, Danmarks Liberale Parti",2
+Assens,3,Turup,Z_Listestemmer,Listestemmer,De LokalNationale,0
+Assens,3,Turup,Z_Betina_Signe_Christiansen,Betina Signe Christiansen,De LokalNationale,0
+Assens,3,Turup,Æ_Listestemmer,Listestemmer,Frihedslisten,1
+Assens,3,Turup,"Æ_Millah_Kongsbach,_Assens","Millah Kongsbach, Assens",Frihedslisten,2
+Assens,3,Turup,"Æ_John_Boisen,_Glamsbjerg","John Boisen, Glamsbjerg",Frihedslisten,0
+Assens,3,Turup,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,6
+Assens,3,Turup,"Ø_Kaj_Alstrup,_Assens","Kaj Alstrup, Assens",Enhedslisten - De Rød-Grønne,1
+Assens,3,Turup,"Ø_Kirsten_Hofset,_Egemosedam","Kirsten Hofset, Egemosedam",Enhedslisten - De Rød-Grønne,1
+Assens,3,Turup,"Ø_Camilla_Reese_Sejerøe,_Skallebølle","Camilla Reese Sejerøe, Skallebølle",Enhedslisten - De Rød-Grønne,3
+Assens,3,Turup,"Ø_Rune_Biskopstö_Christensen,_Assens","Rune Biskopstö Christensen, Assens",Enhedslisten - De Rød-Grønne,1
+Assens,3,Turup,"Ø_Heidi_C.V._Mørch,_Assens","Heidi C.V. Mørch, Assens",Enhedslisten - De Rød-Grønne,1
+Assens,3,Turup,"Ø_Gert_Jacobsen,_Turup","Gert Jacobsen, Turup",Enhedslisten - De Rød-Grønne,2
+Assens,3,Turup,"Ø_Line_Mex-Jørgensen,_Skalbjerg","Line Mex-Jørgensen, Skalbjerg",Enhedslisten - De Rød-Grønne,0
+Assens,3,Turup,"Ø_Henrik_Frydenborg,_Tommerup","Henrik Frydenborg, Tommerup",Enhedslisten - De Rød-Grønne,0
+Assens,3,Turup,Å_Listestemmer,Listestemmer,Alternativet,1
+Assens,3,Turup,Å_Ole_Dupont_Kofod,Ole Dupont Kofod,Alternativet,9
+Assens,4,Salbrovad,A_Listestemmer,Listestemmer,Socialdemokratiet,20
+Assens,4,Salbrovad,"A_Poul-Erik_Svendsen,_Aarup","Poul-Erik Svendsen, Aarup",Socialdemokratiet,25
+Assens,4,Salbrovad,"A_Charlotte_Vincent_Petersen,_Tom.St","Charlotte Vincent Petersen, Tom.St",Socialdemokratiet,10
+Assens,4,Salbrovad,"A_Sara_Emil_Baaring,_Vissenbjerg","Sara Emil Baaring, Vissenbjerg",Socialdemokratiet,1
+Assens,4,Salbrovad,"A_Lone_Akselsen,_Brylle","Lone Akselsen, Brylle",Socialdemokratiet,0
+Assens,4,Salbrovad,"A_Ashil_Farokh,_Tommerup_St.","Ashil Farokh, Tommerup St.",Socialdemokratiet,3
+Assens,4,Salbrovad,"A_Berit_Schaldemose,_Glamsbjerg","Berit Schaldemose, Glamsbjerg",Socialdemokratiet,2
+Assens,4,Salbrovad,"A_Lasse_Tajmer,_Assens","Lasse Tajmer, Assens",Socialdemokratiet,9
+Assens,4,Salbrovad,"A_Lars_Søgaard,_Assens","Lars Søgaard, Assens",Socialdemokratiet,3
+Assens,4,Salbrovad,"A_Elmer_Philipsen,_Glamsbjerg","Elmer Philipsen, Glamsbjerg",Socialdemokratiet,0
+Assens,4,Salbrovad,"A_Henrik_Hansen,_Assens","Henrik Hansen, Assens",Socialdemokratiet,10
+Assens,4,Salbrovad,"A_Leif_Rothe_Rasmussen,_Aarup","Leif Rothe Rasmussen, Aarup",Socialdemokratiet,3
+Assens,4,Salbrovad,"A_Lone_Hegaard_Andersen,_Brylle","Lone Hegaard Andersen, Brylle",Socialdemokratiet,2
+Assens,4,Salbrovad,"A_Poul_Hansen,_Brunshuse","Poul Hansen, Brunshuse",Socialdemokratiet,1
+Assens,4,Salbrovad,"A_Mikael_Jensen,_Assens","Mikael Jensen, Assens",Socialdemokratiet,3
+Assens,4,Salbrovad,"A_Helge_Kold,_Haarby","Helge Kold, Haarby",Socialdemokratiet,0
+Assens,4,Salbrovad,"A_Inga_Jørgensen,_Aarup","Inga Jørgensen, Aarup",Socialdemokratiet,2
+Assens,4,Salbrovad,B_Listestemmer,Listestemmer,Radikale Venstre,3
+Assens,4,Salbrovad,"B_Poul_Poulsen,_Aarup","Poul Poulsen, Aarup",Radikale Venstre,6
+Assens,4,Salbrovad,"B_Rasmus_Dons,_Gummerup","Rasmus Dons, Gummerup",Radikale Venstre,2
+Assens,4,Salbrovad,"B_Joy_Christensen,_Assens","Joy Christensen, Assens",Radikale Venstre,0
+Assens,4,Salbrovad,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,11
+Assens,4,Salbrovad,"C_Søren_Thomsen,_Assens","Søren Thomsen, Assens",Det Konservative Folkeparti,26
+Assens,4,Salbrovad,"C_Jim_Staffensen,_Haarby","Jim Staffensen, Haarby",Det Konservative Folkeparti,2
+Assens,4,Salbrovad,"C_Natasja_Bruun_Knudsen,_Assens","Natasja Bruun Knudsen, Assens",Det Konservative Folkeparti,4
+Assens,4,Salbrovad,"C_Vagn_Top,_Brylle","Vagn Top, Brylle",Det Konservative Folkeparti,2
+Assens,4,Salbrovad,"C_Tobias_Bennedsen,_Barløse","Tobias Bennedsen, Barløse",Det Konservative Folkeparti,13
+Assens,4,Salbrovad,"C_Lars_Littau_Goldmann,_Haarby","Lars Littau Goldmann, Haarby",Det Konservative Folkeparti,0
+Assens,4,Salbrovad,"C_John_Børsting_Mikkelsen,_Helnæs","John Børsting Mikkelsen, Helnæs",Det Konservative Folkeparti,0
+Assens,4,Salbrovad,"C_Sofia_Katrine_Svensson,_Tommerup","Sofia Katrine Svensson, Tommerup",Det Konservative Folkeparti,1
+Assens,4,Salbrovad,"C_Jesper_Christensen,_Glamsbjerg","Jesper Christensen, Glamsbjerg",Det Konservative Folkeparti,2
+Assens,4,Salbrovad,D_Listestemmer,Listestemmer,Nye Borgerlige,13
+Assens,4,Salbrovad,D_Lars_S._Lillebæk,Lars S. Lillebæk,Nye Borgerlige,10
+Assens,4,Salbrovad,D_Hanne_Knappmann,Hanne Knappmann,Nye Borgerlige,0
+Assens,4,Salbrovad,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,8
+Assens,4,Salbrovad,"F_Mogens_Mulle_Johansen,_Glamsbjerg","Mogens Mulle Johansen, Glamsbjerg",SF - Socialistisk Folkeparti,0
+Assens,4,Salbrovad,"F_Jeanette_Sandberg,_Tommerup_St.","Jeanette Sandberg, Tommerup St.",SF - Socialistisk Folkeparti,4
+Assens,4,Salbrovad,"F_Flemming_Risskov_Jørgensen,_Viss.","Flemming Risskov Jørgensen, Viss.",SF - Socialistisk Folkeparti,1
+Assens,4,Salbrovad,"F_Poul_Erik_Kristiansen,_Glamsbjerg","Poul Erik Kristiansen, Glamsbjerg",SF - Socialistisk Folkeparti,1
+Assens,4,Salbrovad,"F_Mette-Rose_Kongstad,_Glamsbjerg","Mette-Rose Kongstad, Glamsbjerg",SF - Socialistisk Folkeparti,5
+Assens,4,Salbrovad,"F_Hans_Peter_Lund,_Tommerup_St.","Hans Peter Lund, Tommerup St.",SF - Socialistisk Folkeparti,0
+Assens,4,Salbrovad,"F_Henning_Petersen,_Holte","Henning Petersen, Holte",SF - Socialistisk Folkeparti,2
+Assens,4,Salbrovad,"F_Inge_Thorup,_Aarup","Inge Thorup, Aarup",SF - Socialistisk Folkeparti,1
+Assens,4,Salbrovad,"F_Hans_Glæsel,_Skalbjerg","Hans Glæsel, Skalbjerg",SF - Socialistisk Folkeparti,0
+Assens,4,Salbrovad,"F_Helle_Beierholm,_Assens","Helle Beierholm, Assens",SF - Socialistisk Folkeparti,4
+Assens,4,Salbrovad,H_Listestemmer,Listestemmer,SocialKonservative Assens,0
+Assens,4,Salbrovad,"H_Jørn_Strand_Nielsen,_Haarby","Jørn Strand Nielsen, Haarby",SocialKonservative Assens,0
+Assens,4,Salbrovad,M_Listestemmer,Listestemmer,Vi Lokale Demokrater,0
+Assens,4,Salbrovad,"M_Irene_Jeppesen,_Vissenbjerg","Irene Jeppesen, Vissenbjerg",Vi Lokale Demokrater,1
+Assens,4,Salbrovad,"M_Benno_Dahl,_Vissenbjerg","Benno Dahl, Vissenbjerg",Vi Lokale Demokrater,0
+Assens,4,Salbrovad,O_Listestemmer,Listestemmer,Dansk Folkeparti,3
+Assens,4,Salbrovad,O_Jens_Henrik_W._Thulesen_Dahl,Jens Henrik W. Thulesen Dahl,Dansk Folkeparti,19
+Assens,4,Salbrovad,O_Lars_Kolling,Lars Kolling,Dansk Folkeparti,7
+Assens,4,Salbrovad,O_Bente_S._Rasmussen,Bente S. Rasmussen,Dansk Folkeparti,1
+Assens,4,Salbrovad,O_Finn_B._Hansen,Finn B. Hansen,Dansk Folkeparti,1
+Assens,4,Salbrovad,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",23
+Assens,4,Salbrovad,"V_Søren_Steen_Andersen,_Tommerup","Søren Steen Andersen, Tommerup","Venstre, Danmarks Liberale Parti",48
+Assens,4,Salbrovad,"V_Pia_Offer_Madsen,_Glamsbjerg","Pia Offer Madsen, Glamsbjerg","Venstre, Danmarks Liberale Parti",10
+Assens,4,Salbrovad,"V_Dan_Gørtz,_Aarup","Dan Gørtz, Aarup","Venstre, Danmarks Liberale Parti",2
+Assens,4,Salbrovad,"V_Tine_Grau_Poulsen,_Vissenbjerg","Tine Grau Poulsen, Vissenbjerg","Venstre, Danmarks Liberale Parti",0
+Assens,4,Salbrovad,"V_Nikolaj_Leed_Henriksen,_Aarup","Nikolaj Leed Henriksen, Aarup","Venstre, Danmarks Liberale Parti",2
+Assens,4,Salbrovad,"V_Bodil_Boesgaard,_Vissenbjerg","Bodil Boesgaard, Vissenbjerg","Venstre, Danmarks Liberale Parti",0
+Assens,4,Salbrovad,"V_Jens_Jakobsen,_Haarby","Jens Jakobsen, Haarby","Venstre, Danmarks Liberale Parti",0
+Assens,4,Salbrovad,"V_Knud_Søby,_Assens","Knud Søby, Assens","Venstre, Danmarks Liberale Parti",1
+Assens,4,Salbrovad,"V_Ole_Maagaard_Pedersen,_Ørsted","Ole Maagaard Pedersen, Ørsted","Venstre, Danmarks Liberale Parti",0
+Assens,4,Salbrovad,"V_Rie_Nielsen,_Assens","Rie Nielsen, Assens","Venstre, Danmarks Liberale Parti",3
+Assens,4,Salbrovad,"V_Henrik_Kirk,_Vissenbjerg","Henrik Kirk, Vissenbjerg","Venstre, Danmarks Liberale Parti",2
+Assens,4,Salbrovad,"V_Camilla_Lykke_Sørensen,_Ebberup","Camilla Lykke Sørensen, Ebberup","Venstre, Danmarks Liberale Parti",9
+Assens,4,Salbrovad,"V_Ib_W._Jensen,_Søllested","Ib W. Jensen, Søllested","Venstre, Danmarks Liberale Parti",3
+Assens,4,Salbrovad,"V_Henrik_Mott_Frandsen,_Turup","Henrik Mott Frandsen, Turup","Venstre, Danmarks Liberale Parti",106
+Assens,4,Salbrovad,"V_Semir_Azet_Sinou,_Assens","Semir Azet Sinou, Assens","Venstre, Danmarks Liberale Parti",3
+Assens,4,Salbrovad,"V_Søren_Edlefsen,_Assens","Søren Edlefsen, Assens","Venstre, Danmarks Liberale Parti",2
+Assens,4,Salbrovad,"V_Henrik_Jørgensen,_Verninge","Henrik Jørgensen, Verninge","Venstre, Danmarks Liberale Parti",0
+Assens,4,Salbrovad,"V_Søren_Fisker_Olesen,_Bred","Søren Fisker Olesen, Bred","Venstre, Danmarks Liberale Parti",0
+Assens,4,Salbrovad,"V_Steen-Ove_Teisner,_Flemløse","Steen-Ove Teisner, Flemløse","Venstre, Danmarks Liberale Parti",0
+Assens,4,Salbrovad,"V_Lars_Tastum_Madsen,_Tommerup","Lars Tastum Madsen, Tommerup","Venstre, Danmarks Liberale Parti",0
+Assens,4,Salbrovad,"V_Camilla_Hedenhoff,_Sø_Søby","Camilla Hedenhoff, Sø Søby","Venstre, Danmarks Liberale Parti",0
+Assens,4,Salbrovad,"V_Ulrikka_Brændgaard_Nissen,_Solevad","Ulrikka Brændgaard Nissen, Solevad","Venstre, Danmarks Liberale Parti",3
+Assens,4,Salbrovad,"V_Torben_Schadt-Poulsen,_Assens","Torben Schadt-Poulsen, Assens","Venstre, Danmarks Liberale Parti",0
+Assens,4,Salbrovad,"V_Peter_Poulsen,_Aarup","Peter Poulsen, Aarup","Venstre, Danmarks Liberale Parti",0
+Assens,4,Salbrovad,Z_Listestemmer,Listestemmer,De LokalNationale,0
+Assens,4,Salbrovad,Z_Betina_Signe_Christiansen,Betina Signe Christiansen,De LokalNationale,1
+Assens,4,Salbrovad,Æ_Listestemmer,Listestemmer,Frihedslisten,1
+Assens,4,Salbrovad,"Æ_Millah_Kongsbach,_Assens","Millah Kongsbach, Assens",Frihedslisten,1
+Assens,4,Salbrovad,"Æ_John_Boisen,_Glamsbjerg","John Boisen, Glamsbjerg",Frihedslisten,1
+Assens,4,Salbrovad,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,10
+Assens,4,Salbrovad,"Ø_Kaj_Alstrup,_Assens","Kaj Alstrup, Assens",Enhedslisten - De Rød-Grønne,2
+Assens,4,Salbrovad,"Ø_Kirsten_Hofset,_Egemosedam","Kirsten Hofset, Egemosedam",Enhedslisten - De Rød-Grønne,2
+Assens,4,Salbrovad,"Ø_Camilla_Reese_Sejerøe,_Skallebølle","Camilla Reese Sejerøe, Skallebølle",Enhedslisten - De Rød-Grønne,1
+Assens,4,Salbrovad,"Ø_Rune_Biskopstö_Christensen,_Assens","Rune Biskopstö Christensen, Assens",Enhedslisten - De Rød-Grønne,1
+Assens,4,Salbrovad,"Ø_Heidi_C.V._Mørch,_Assens","Heidi C.V. Mørch, Assens",Enhedslisten - De Rød-Grønne,0
+Assens,4,Salbrovad,"Ø_Gert_Jacobsen,_Turup","Gert Jacobsen, Turup",Enhedslisten - De Rød-Grønne,0
+Assens,4,Salbrovad,"Ø_Line_Mex-Jørgensen,_Skalbjerg","Line Mex-Jørgensen, Skalbjerg",Enhedslisten - De Rød-Grønne,0
+Assens,4,Salbrovad,"Ø_Henrik_Frydenborg,_Tommerup","Henrik Frydenborg, Tommerup",Enhedslisten - De Rød-Grønne,0
+Assens,4,Salbrovad,Å_Listestemmer,Listestemmer,Alternativet,3
+Assens,4,Salbrovad,Å_Ole_Dupont_Kofod,Ole Dupont Kofod,Alternativet,4
+Assens,5,Aarup/Kerte,A_Listestemmer,Listestemmer,Socialdemokratiet,152
+Assens,5,Aarup/Kerte,"A_Poul-Erik_Svendsen,_Aarup","Poul-Erik Svendsen, Aarup",Socialdemokratiet,279
+Assens,5,Aarup/Kerte,"A_Charlotte_Vincent_Petersen,_Tom.St","Charlotte Vincent Petersen, Tom.St",Socialdemokratiet,30
+Assens,5,Aarup/Kerte,"A_Sara_Emil_Baaring,_Vissenbjerg","Sara Emil Baaring, Vissenbjerg",Socialdemokratiet,31
+Assens,5,Aarup/Kerte,"A_Lone_Akselsen,_Brylle","Lone Akselsen, Brylle",Socialdemokratiet,7
+Assens,5,Aarup/Kerte,"A_Ashil_Farokh,_Tommerup_St.","Ashil Farokh, Tommerup St.",Socialdemokratiet,7
+Assens,5,Aarup/Kerte,"A_Berit_Schaldemose,_Glamsbjerg","Berit Schaldemose, Glamsbjerg",Socialdemokratiet,17
+Assens,5,Aarup/Kerte,"A_Lasse_Tajmer,_Assens","Lasse Tajmer, Assens",Socialdemokratiet,4
+Assens,5,Aarup/Kerte,"A_Lars_Søgaard,_Assens","Lars Søgaard, Assens",Socialdemokratiet,6
+Assens,5,Aarup/Kerte,"A_Elmer_Philipsen,_Glamsbjerg","Elmer Philipsen, Glamsbjerg",Socialdemokratiet,4
+Assens,5,Aarup/Kerte,"A_Henrik_Hansen,_Assens","Henrik Hansen, Assens",Socialdemokratiet,4
+Assens,5,Aarup/Kerte,"A_Leif_Rothe_Rasmussen,_Aarup","Leif Rothe Rasmussen, Aarup",Socialdemokratiet,112
+Assens,5,Aarup/Kerte,"A_Lone_Hegaard_Andersen,_Brylle","Lone Hegaard Andersen, Brylle",Socialdemokratiet,2
+Assens,5,Aarup/Kerte,"A_Poul_Hansen,_Brunshuse","Poul Hansen, Brunshuse",Socialdemokratiet,1
+Assens,5,Aarup/Kerte,"A_Mikael_Jensen,_Assens","Mikael Jensen, Assens",Socialdemokratiet,0
+Assens,5,Aarup/Kerte,"A_Helge_Kold,_Haarby","Helge Kold, Haarby",Socialdemokratiet,5
+Assens,5,Aarup/Kerte,"A_Inga_Jørgensen,_Aarup","Inga Jørgensen, Aarup",Socialdemokratiet,15
+Assens,5,Aarup/Kerte,B_Listestemmer,Listestemmer,Radikale Venstre,9
+Assens,5,Aarup/Kerte,"B_Poul_Poulsen,_Aarup","Poul Poulsen, Aarup",Radikale Venstre,56
+Assens,5,Aarup/Kerte,"B_Rasmus_Dons,_Gummerup","Rasmus Dons, Gummerup",Radikale Venstre,9
+Assens,5,Aarup/Kerte,"B_Joy_Christensen,_Assens","Joy Christensen, Assens",Radikale Venstre,2
+Assens,5,Aarup/Kerte,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,50
+Assens,5,Aarup/Kerte,"C_Søren_Thomsen,_Assens","Søren Thomsen, Assens",Det Konservative Folkeparti,55
+Assens,5,Aarup/Kerte,"C_Jim_Staffensen,_Haarby","Jim Staffensen, Haarby",Det Konservative Folkeparti,13
+Assens,5,Aarup/Kerte,"C_Natasja_Bruun_Knudsen,_Assens","Natasja Bruun Knudsen, Assens",Det Konservative Folkeparti,25
+Assens,5,Aarup/Kerte,"C_Vagn_Top,_Brylle","Vagn Top, Brylle",Det Konservative Folkeparti,1
+Assens,5,Aarup/Kerte,"C_Tobias_Bennedsen,_Barløse","Tobias Bennedsen, Barløse",Det Konservative Folkeparti,5
+Assens,5,Aarup/Kerte,"C_Lars_Littau_Goldmann,_Haarby","Lars Littau Goldmann, Haarby",Det Konservative Folkeparti,6
+Assens,5,Aarup/Kerte,"C_John_Børsting_Mikkelsen,_Helnæs","John Børsting Mikkelsen, Helnæs",Det Konservative Folkeparti,1
+Assens,5,Aarup/Kerte,"C_Sofia_Katrine_Svensson,_Tommerup","Sofia Katrine Svensson, Tommerup",Det Konservative Folkeparti,1
+Assens,5,Aarup/Kerte,"C_Jesper_Christensen,_Glamsbjerg","Jesper Christensen, Glamsbjerg",Det Konservative Folkeparti,2
+Assens,5,Aarup/Kerte,D_Listestemmer,Listestemmer,Nye Borgerlige,37
+Assens,5,Aarup/Kerte,D_Lars_S._Lillebæk,Lars S. Lillebæk,Nye Borgerlige,44
+Assens,5,Aarup/Kerte,D_Hanne_Knappmann,Hanne Knappmann,Nye Borgerlige,5
+Assens,5,Aarup/Kerte,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,32
+Assens,5,Aarup/Kerte,"F_Mogens_Mulle_Johansen,_Glamsbjerg","Mogens Mulle Johansen, Glamsbjerg",SF - Socialistisk Folkeparti,6
+Assens,5,Aarup/Kerte,"F_Jeanette_Sandberg,_Tommerup_St.","Jeanette Sandberg, Tommerup St.",SF - Socialistisk Folkeparti,14
+Assens,5,Aarup/Kerte,"F_Flemming_Risskov_Jørgensen,_Viss.","Flemming Risskov Jørgensen, Viss.",SF - Socialistisk Folkeparti,9
+Assens,5,Aarup/Kerte,"F_Poul_Erik_Kristiansen,_Glamsbjerg","Poul Erik Kristiansen, Glamsbjerg",SF - Socialistisk Folkeparti,3
+Assens,5,Aarup/Kerte,"F_Mette-Rose_Kongstad,_Glamsbjerg","Mette-Rose Kongstad, Glamsbjerg",SF - Socialistisk Folkeparti,17
+Assens,5,Aarup/Kerte,"F_Hans_Peter_Lund,_Tommerup_St.","Hans Peter Lund, Tommerup St.",SF - Socialistisk Folkeparti,0
+Assens,5,Aarup/Kerte,"F_Henning_Petersen,_Holte","Henning Petersen, Holte",SF - Socialistisk Folkeparti,5
+Assens,5,Aarup/Kerte,"F_Inge_Thorup,_Aarup","Inge Thorup, Aarup",SF - Socialistisk Folkeparti,30
+Assens,5,Aarup/Kerte,"F_Hans_Glæsel,_Skalbjerg","Hans Glæsel, Skalbjerg",SF - Socialistisk Folkeparti,0
+Assens,5,Aarup/Kerte,"F_Helle_Beierholm,_Assens","Helle Beierholm, Assens",SF - Socialistisk Folkeparti,2
+Assens,5,Aarup/Kerte,H_Listestemmer,Listestemmer,SocialKonservative Assens,0
+Assens,5,Aarup/Kerte,"H_Jørn_Strand_Nielsen,_Haarby","Jørn Strand Nielsen, Haarby",SocialKonservative Assens,0
+Assens,5,Aarup/Kerte,M_Listestemmer,Listestemmer,Vi Lokale Demokrater,2
+Assens,5,Aarup/Kerte,"M_Irene_Jeppesen,_Vissenbjerg","Irene Jeppesen, Vissenbjerg",Vi Lokale Demokrater,2
+Assens,5,Aarup/Kerte,"M_Benno_Dahl,_Vissenbjerg","Benno Dahl, Vissenbjerg",Vi Lokale Demokrater,0
+Assens,5,Aarup/Kerte,O_Listestemmer,Listestemmer,Dansk Folkeparti,26
+Assens,5,Aarup/Kerte,O_Jens_Henrik_W._Thulesen_Dahl,Jens Henrik W. Thulesen Dahl,Dansk Folkeparti,43
+Assens,5,Aarup/Kerte,O_Lars_Kolling,Lars Kolling,Dansk Folkeparti,22
+Assens,5,Aarup/Kerte,O_Bente_S._Rasmussen,Bente S. Rasmussen,Dansk Folkeparti,3
+Assens,5,Aarup/Kerte,O_Finn_B._Hansen,Finn B. Hansen,Dansk Folkeparti,19
+Assens,5,Aarup/Kerte,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",115
+Assens,5,Aarup/Kerte,"V_Søren_Steen_Andersen,_Tommerup","Søren Steen Andersen, Tommerup","Venstre, Danmarks Liberale Parti",343
+Assens,5,Aarup/Kerte,"V_Pia_Offer_Madsen,_Glamsbjerg","Pia Offer Madsen, Glamsbjerg","Venstre, Danmarks Liberale Parti",29
+Assens,5,Aarup/Kerte,"V_Dan_Gørtz,_Aarup","Dan Gørtz, Aarup","Venstre, Danmarks Liberale Parti",116
+Assens,5,Aarup/Kerte,"V_Tine_Grau_Poulsen,_Vissenbjerg","Tine Grau Poulsen, Vissenbjerg","Venstre, Danmarks Liberale Parti",18
+Assens,5,Aarup/Kerte,"V_Nikolaj_Leed_Henriksen,_Aarup","Nikolaj Leed Henriksen, Aarup","Venstre, Danmarks Liberale Parti",128
+Assens,5,Aarup/Kerte,"V_Bodil_Boesgaard,_Vissenbjerg","Bodil Boesgaard, Vissenbjerg","Venstre, Danmarks Liberale Parti",6
+Assens,5,Aarup/Kerte,"V_Jens_Jakobsen,_Haarby","Jens Jakobsen, Haarby","Venstre, Danmarks Liberale Parti",3
+Assens,5,Aarup/Kerte,"V_Knud_Søby,_Assens","Knud Søby, Assens","Venstre, Danmarks Liberale Parti",2
+Assens,5,Aarup/Kerte,"V_Ole_Maagaard_Pedersen,_Ørsted","Ole Maagaard Pedersen, Ørsted","Venstre, Danmarks Liberale Parti",47
+Assens,5,Aarup/Kerte,"V_Rie_Nielsen,_Assens","Rie Nielsen, Assens","Venstre, Danmarks Liberale Parti",9
+Assens,5,Aarup/Kerte,"V_Henrik_Kirk,_Vissenbjerg","Henrik Kirk, Vissenbjerg","Venstre, Danmarks Liberale Parti",31
+Assens,5,Aarup/Kerte,"V_Camilla_Lykke_Sørensen,_Ebberup","Camilla Lykke Sørensen, Ebberup","Venstre, Danmarks Liberale Parti",16
+Assens,5,Aarup/Kerte,"V_Ib_W._Jensen,_Søllested","Ib W. Jensen, Søllested","Venstre, Danmarks Liberale Parti",14
+Assens,5,Aarup/Kerte,"V_Henrik_Mott_Frandsen,_Turup","Henrik Mott Frandsen, Turup","Venstre, Danmarks Liberale Parti",10
+Assens,5,Aarup/Kerte,"V_Semir_Azet_Sinou,_Assens","Semir Azet Sinou, Assens","Venstre, Danmarks Liberale Parti",3
+Assens,5,Aarup/Kerte,"V_Søren_Edlefsen,_Assens","Søren Edlefsen, Assens","Venstre, Danmarks Liberale Parti",5
+Assens,5,Aarup/Kerte,"V_Henrik_Jørgensen,_Verninge","Henrik Jørgensen, Verninge","Venstre, Danmarks Liberale Parti",2
+Assens,5,Aarup/Kerte,"V_Søren_Fisker_Olesen,_Bred","Søren Fisker Olesen, Bred","Venstre, Danmarks Liberale Parti",7
+Assens,5,Aarup/Kerte,"V_Steen-Ove_Teisner,_Flemløse","Steen-Ove Teisner, Flemløse","Venstre, Danmarks Liberale Parti",0
+Assens,5,Aarup/Kerte,"V_Lars_Tastum_Madsen,_Tommerup","Lars Tastum Madsen, Tommerup","Venstre, Danmarks Liberale Parti",2
+Assens,5,Aarup/Kerte,"V_Camilla_Hedenhoff,_Sø_Søby","Camilla Hedenhoff, Sø Søby","Venstre, Danmarks Liberale Parti",1
+Assens,5,Aarup/Kerte,"V_Ulrikka_Brændgaard_Nissen,_Solevad","Ulrikka Brændgaard Nissen, Solevad","Venstre, Danmarks Liberale Parti",1
+Assens,5,Aarup/Kerte,"V_Torben_Schadt-Poulsen,_Assens","Torben Schadt-Poulsen, Assens","Venstre, Danmarks Liberale Parti",0
+Assens,5,Aarup/Kerte,"V_Peter_Poulsen,_Aarup","Peter Poulsen, Aarup","Venstre, Danmarks Liberale Parti",92
+Assens,5,Aarup/Kerte,Z_Listestemmer,Listestemmer,De LokalNationale,0
+Assens,5,Aarup/Kerte,Z_Betina_Signe_Christiansen,Betina Signe Christiansen,De LokalNationale,2
+Assens,5,Aarup/Kerte,Æ_Listestemmer,Listestemmer,Frihedslisten,1
+Assens,5,Aarup/Kerte,"Æ_Millah_Kongsbach,_Assens","Millah Kongsbach, Assens",Frihedslisten,11
+Assens,5,Aarup/Kerte,"Æ_John_Boisen,_Glamsbjerg","John Boisen, Glamsbjerg",Frihedslisten,0
+Assens,5,Aarup/Kerte,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,33
+Assens,5,Aarup/Kerte,"Ø_Kaj_Alstrup,_Assens","Kaj Alstrup, Assens",Enhedslisten - De Rød-Grønne,6
+Assens,5,Aarup/Kerte,"Ø_Kirsten_Hofset,_Egemosedam","Kirsten Hofset, Egemosedam",Enhedslisten - De Rød-Grønne,7
+Assens,5,Aarup/Kerte,"Ø_Camilla_Reese_Sejerøe,_Skallebølle","Camilla Reese Sejerøe, Skallebølle",Enhedslisten - De Rød-Grønne,13
+Assens,5,Aarup/Kerte,"Ø_Rune_Biskopstö_Christensen,_Assens","Rune Biskopstö Christensen, Assens",Enhedslisten - De Rød-Grønne,2
+Assens,5,Aarup/Kerte,"Ø_Heidi_C.V._Mørch,_Assens","Heidi C.V. Mørch, Assens",Enhedslisten - De Rød-Grønne,3
+Assens,5,Aarup/Kerte,"Ø_Gert_Jacobsen,_Turup","Gert Jacobsen, Turup",Enhedslisten - De Rød-Grønne,0
+Assens,5,Aarup/Kerte,"Ø_Line_Mex-Jørgensen,_Skalbjerg","Line Mex-Jørgensen, Skalbjerg",Enhedslisten - De Rød-Grønne,4
+Assens,5,Aarup/Kerte,"Ø_Henrik_Frydenborg,_Tommerup","Henrik Frydenborg, Tommerup",Enhedslisten - De Rød-Grønne,2
+Assens,5,Aarup/Kerte,Å_Listestemmer,Listestemmer,Alternativet,3
+Assens,5,Aarup/Kerte,Å_Ole_Dupont_Kofod,Ole Dupont Kofod,Alternativet,4
+Assens,6,Rørup,A_Listestemmer,Listestemmer,Socialdemokratiet,21
+Assens,6,Rørup,"A_Poul-Erik_Svendsen,_Aarup","Poul-Erik Svendsen, Aarup",Socialdemokratiet,32
+Assens,6,Rørup,"A_Charlotte_Vincent_Petersen,_Tom.St","Charlotte Vincent Petersen, Tom.St",Socialdemokratiet,5
+Assens,6,Rørup,"A_Sara_Emil_Baaring,_Vissenbjerg","Sara Emil Baaring, Vissenbjerg",Socialdemokratiet,5
+Assens,6,Rørup,"A_Lone_Akselsen,_Brylle","Lone Akselsen, Brylle",Socialdemokratiet,0
+Assens,6,Rørup,"A_Ashil_Farokh,_Tommerup_St.","Ashil Farokh, Tommerup St.",Socialdemokratiet,1
+Assens,6,Rørup,"A_Berit_Schaldemose,_Glamsbjerg","Berit Schaldemose, Glamsbjerg",Socialdemokratiet,1
+Assens,6,Rørup,"A_Lasse_Tajmer,_Assens","Lasse Tajmer, Assens",Socialdemokratiet,0
+Assens,6,Rørup,"A_Lars_Søgaard,_Assens","Lars Søgaard, Assens",Socialdemokratiet,0
+Assens,6,Rørup,"A_Elmer_Philipsen,_Glamsbjerg","Elmer Philipsen, Glamsbjerg",Socialdemokratiet,0
+Assens,6,Rørup,"A_Henrik_Hansen,_Assens","Henrik Hansen, Assens",Socialdemokratiet,0
+Assens,6,Rørup,"A_Leif_Rothe_Rasmussen,_Aarup","Leif Rothe Rasmussen, Aarup",Socialdemokratiet,9
+Assens,6,Rørup,"A_Lone_Hegaard_Andersen,_Brylle","Lone Hegaard Andersen, Brylle",Socialdemokratiet,0
+Assens,6,Rørup,"A_Poul_Hansen,_Brunshuse","Poul Hansen, Brunshuse",Socialdemokratiet,0
+Assens,6,Rørup,"A_Mikael_Jensen,_Assens","Mikael Jensen, Assens",Socialdemokratiet,0
+Assens,6,Rørup,"A_Helge_Kold,_Haarby","Helge Kold, Haarby",Socialdemokratiet,0
+Assens,6,Rørup,"A_Inga_Jørgensen,_Aarup","Inga Jørgensen, Aarup",Socialdemokratiet,1
+Assens,6,Rørup,B_Listestemmer,Listestemmer,Radikale Venstre,1
+Assens,6,Rørup,"B_Poul_Poulsen,_Aarup","Poul Poulsen, Aarup",Radikale Venstre,74
+Assens,6,Rørup,"B_Rasmus_Dons,_Gummerup","Rasmus Dons, Gummerup",Radikale Venstre,1
+Assens,6,Rørup,"B_Joy_Christensen,_Assens","Joy Christensen, Assens",Radikale Venstre,0
+Assens,6,Rørup,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,4
+Assens,6,Rørup,"C_Søren_Thomsen,_Assens","Søren Thomsen, Assens",Det Konservative Folkeparti,2
+Assens,6,Rørup,"C_Jim_Staffensen,_Haarby","Jim Staffensen, Haarby",Det Konservative Folkeparti,0
+Assens,6,Rørup,"C_Natasja_Bruun_Knudsen,_Assens","Natasja Bruun Knudsen, Assens",Det Konservative Folkeparti,0
+Assens,6,Rørup,"C_Vagn_Top,_Brylle","Vagn Top, Brylle",Det Konservative Folkeparti,0
+Assens,6,Rørup,"C_Tobias_Bennedsen,_Barløse","Tobias Bennedsen, Barløse",Det Konservative Folkeparti,0
+Assens,6,Rørup,"C_Lars_Littau_Goldmann,_Haarby","Lars Littau Goldmann, Haarby",Det Konservative Folkeparti,0
+Assens,6,Rørup,"C_John_Børsting_Mikkelsen,_Helnæs","John Børsting Mikkelsen, Helnæs",Det Konservative Folkeparti,0
+Assens,6,Rørup,"C_Sofia_Katrine_Svensson,_Tommerup","Sofia Katrine Svensson, Tommerup",Det Konservative Folkeparti,0
+Assens,6,Rørup,"C_Jesper_Christensen,_Glamsbjerg","Jesper Christensen, Glamsbjerg",Det Konservative Folkeparti,0
+Assens,6,Rørup,D_Listestemmer,Listestemmer,Nye Borgerlige,6
+Assens,6,Rørup,D_Lars_S._Lillebæk,Lars S. Lillebæk,Nye Borgerlige,8
+Assens,6,Rørup,D_Hanne_Knappmann,Hanne Knappmann,Nye Borgerlige,6
+Assens,6,Rørup,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,5
+Assens,6,Rørup,"F_Mogens_Mulle_Johansen,_Glamsbjerg","Mogens Mulle Johansen, Glamsbjerg",SF - Socialistisk Folkeparti,0
+Assens,6,Rørup,"F_Jeanette_Sandberg,_Tommerup_St.","Jeanette Sandberg, Tommerup St.",SF - Socialistisk Folkeparti,2
+Assens,6,Rørup,"F_Flemming_Risskov_Jørgensen,_Viss.","Flemming Risskov Jørgensen, Viss.",SF - Socialistisk Folkeparti,0
+Assens,6,Rørup,"F_Poul_Erik_Kristiansen,_Glamsbjerg","Poul Erik Kristiansen, Glamsbjerg",SF - Socialistisk Folkeparti,0
+Assens,6,Rørup,"F_Mette-Rose_Kongstad,_Glamsbjerg","Mette-Rose Kongstad, Glamsbjerg",SF - Socialistisk Folkeparti,0
+Assens,6,Rørup,"F_Hans_Peter_Lund,_Tommerup_St.","Hans Peter Lund, Tommerup St.",SF - Socialistisk Folkeparti,0
+Assens,6,Rørup,"F_Henning_Petersen,_Holte","Henning Petersen, Holte",SF - Socialistisk Folkeparti,0
+Assens,6,Rørup,"F_Inge_Thorup,_Aarup","Inge Thorup, Aarup",SF - Socialistisk Folkeparti,5
+Assens,6,Rørup,"F_Hans_Glæsel,_Skalbjerg","Hans Glæsel, Skalbjerg",SF - Socialistisk Folkeparti,0
+Assens,6,Rørup,"F_Helle_Beierholm,_Assens","Helle Beierholm, Assens",SF - Socialistisk Folkeparti,0
+Assens,6,Rørup,H_Listestemmer,Listestemmer,SocialKonservative Assens,0
+Assens,6,Rørup,"H_Jørn_Strand_Nielsen,_Haarby","Jørn Strand Nielsen, Haarby",SocialKonservative Assens,1
+Assens,6,Rørup,M_Listestemmer,Listestemmer,Vi Lokale Demokrater,0
+Assens,6,Rørup,"M_Irene_Jeppesen,_Vissenbjerg","Irene Jeppesen, Vissenbjerg",Vi Lokale Demokrater,0
+Assens,6,Rørup,"M_Benno_Dahl,_Vissenbjerg","Benno Dahl, Vissenbjerg",Vi Lokale Demokrater,0
+Assens,6,Rørup,O_Listestemmer,Listestemmer,Dansk Folkeparti,8
+Assens,6,Rørup,O_Jens_Henrik_W._Thulesen_Dahl,Jens Henrik W. Thulesen Dahl,Dansk Folkeparti,14
+Assens,6,Rørup,O_Lars_Kolling,Lars Kolling,Dansk Folkeparti,4
+Assens,6,Rørup,O_Bente_S._Rasmussen,Bente S. Rasmussen,Dansk Folkeparti,2
+Assens,6,Rørup,O_Finn_B._Hansen,Finn B. Hansen,Dansk Folkeparti,8
+Assens,6,Rørup,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",18
+Assens,6,Rørup,"V_Søren_Steen_Andersen,_Tommerup","Søren Steen Andersen, Tommerup","Venstre, Danmarks Liberale Parti",64
+Assens,6,Rørup,"V_Pia_Offer_Madsen,_Glamsbjerg","Pia Offer Madsen, Glamsbjerg","Venstre, Danmarks Liberale Parti",5
+Assens,6,Rørup,"V_Dan_Gørtz,_Aarup","Dan Gørtz, Aarup","Venstre, Danmarks Liberale Parti",8
+Assens,6,Rørup,"V_Tine_Grau_Poulsen,_Vissenbjerg","Tine Grau Poulsen, Vissenbjerg","Venstre, Danmarks Liberale Parti",6
+Assens,6,Rørup,"V_Nikolaj_Leed_Henriksen,_Aarup","Nikolaj Leed Henriksen, Aarup","Venstre, Danmarks Liberale Parti",9
+Assens,6,Rørup,"V_Bodil_Boesgaard,_Vissenbjerg","Bodil Boesgaard, Vissenbjerg","Venstre, Danmarks Liberale Parti",0
+Assens,6,Rørup,"V_Jens_Jakobsen,_Haarby","Jens Jakobsen, Haarby","Venstre, Danmarks Liberale Parti",1
+Assens,6,Rørup,"V_Knud_Søby,_Assens","Knud Søby, Assens","Venstre, Danmarks Liberale Parti",0
+Assens,6,Rørup,"V_Ole_Maagaard_Pedersen,_Ørsted","Ole Maagaard Pedersen, Ørsted","Venstre, Danmarks Liberale Parti",6
+Assens,6,Rørup,"V_Rie_Nielsen,_Assens","Rie Nielsen, Assens","Venstre, Danmarks Liberale Parti",0
+Assens,6,Rørup,"V_Henrik_Kirk,_Vissenbjerg","Henrik Kirk, Vissenbjerg","Venstre, Danmarks Liberale Parti",8
+Assens,6,Rørup,"V_Camilla_Lykke_Sørensen,_Ebberup","Camilla Lykke Sørensen, Ebberup","Venstre, Danmarks Liberale Parti",1
+Assens,6,Rørup,"V_Ib_W._Jensen,_Søllested","Ib W. Jensen, Søllested","Venstre, Danmarks Liberale Parti",1
+Assens,6,Rørup,"V_Henrik_Mott_Frandsen,_Turup","Henrik Mott Frandsen, Turup","Venstre, Danmarks Liberale Parti",4
+Assens,6,Rørup,"V_Semir_Azet_Sinou,_Assens","Semir Azet Sinou, Assens","Venstre, Danmarks Liberale Parti",2
+Assens,6,Rørup,"V_Søren_Edlefsen,_Assens","Søren Edlefsen, Assens","Venstre, Danmarks Liberale Parti",0
+Assens,6,Rørup,"V_Henrik_Jørgensen,_Verninge","Henrik Jørgensen, Verninge","Venstre, Danmarks Liberale Parti",0
+Assens,6,Rørup,"V_Søren_Fisker_Olesen,_Bred","Søren Fisker Olesen, Bred","Venstre, Danmarks Liberale Parti",0
+Assens,6,Rørup,"V_Steen-Ove_Teisner,_Flemløse","Steen-Ove Teisner, Flemløse","Venstre, Danmarks Liberale Parti",0
+Assens,6,Rørup,"V_Lars_Tastum_Madsen,_Tommerup","Lars Tastum Madsen, Tommerup","Venstre, Danmarks Liberale Parti",1
+Assens,6,Rørup,"V_Camilla_Hedenhoff,_Sø_Søby","Camilla Hedenhoff, Sø Søby","Venstre, Danmarks Liberale Parti",0
+Assens,6,Rørup,"V_Ulrikka_Brændgaard_Nissen,_Solevad","Ulrikka Brændgaard Nissen, Solevad","Venstre, Danmarks Liberale Parti",0
+Assens,6,Rørup,"V_Torben_Schadt-Poulsen,_Assens","Torben Schadt-Poulsen, Assens","Venstre, Danmarks Liberale Parti",0
+Assens,6,Rørup,"V_Peter_Poulsen,_Aarup","Peter Poulsen, Aarup","Venstre, Danmarks Liberale Parti",2
+Assens,6,Rørup,Z_Listestemmer,Listestemmer,De LokalNationale,0
+Assens,6,Rørup,Z_Betina_Signe_Christiansen,Betina Signe Christiansen,De LokalNationale,0
+Assens,6,Rørup,Æ_Listestemmer,Listestemmer,Frihedslisten,0
+Assens,6,Rørup,"Æ_Millah_Kongsbach,_Assens","Millah Kongsbach, Assens",Frihedslisten,3
+Assens,6,Rørup,"Æ_John_Boisen,_Glamsbjerg","John Boisen, Glamsbjerg",Frihedslisten,1
+Assens,6,Rørup,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,4
+Assens,6,Rørup,"Ø_Kaj_Alstrup,_Assens","Kaj Alstrup, Assens",Enhedslisten - De Rød-Grønne,0
+Assens,6,Rørup,"Ø_Kirsten_Hofset,_Egemosedam","Kirsten Hofset, Egemosedam",Enhedslisten - De Rød-Grønne,0
+Assens,6,Rørup,"Ø_Camilla_Reese_Sejerøe,_Skallebølle","Camilla Reese Sejerøe, Skallebølle",Enhedslisten - De Rød-Grønne,0
+Assens,6,Rørup,"Ø_Rune_Biskopstö_Christensen,_Assens","Rune Biskopstö Christensen, Assens",Enhedslisten - De Rød-Grønne,0
+Assens,6,Rørup,"Ø_Heidi_C.V._Mørch,_Assens","Heidi C.V. Mørch, Assens",Enhedslisten - De Rød-Grønne,0
+Assens,6,Rørup,"Ø_Gert_Jacobsen,_Turup","Gert Jacobsen, Turup",Enhedslisten - De Rød-Grønne,0
+Assens,6,Rørup,"Ø_Line_Mex-Jørgensen,_Skalbjerg","Line Mex-Jørgensen, Skalbjerg",Enhedslisten - De Rød-Grønne,1
+Assens,6,Rørup,"Ø_Henrik_Frydenborg,_Tommerup","Henrik Frydenborg, Tommerup",Enhedslisten - De Rød-Grønne,0
+Assens,6,Rørup,Å_Listestemmer,Listestemmer,Alternativet,0
+Assens,6,Rørup,Å_Ole_Dupont_Kofod,Ole Dupont Kofod,Alternativet,0
+Assens,7,Orte/Ørsted,A_Listestemmer,Listestemmer,Socialdemokratiet,34
+Assens,7,Orte/Ørsted,"A_Poul-Erik_Svendsen,_Aarup","Poul-Erik Svendsen, Aarup",Socialdemokratiet,38
+Assens,7,Orte/Ørsted,"A_Charlotte_Vincent_Petersen,_Tom.St","Charlotte Vincent Petersen, Tom.St",Socialdemokratiet,5
+Assens,7,Orte/Ørsted,"A_Sara_Emil_Baaring,_Vissenbjerg","Sara Emil Baaring, Vissenbjerg",Socialdemokratiet,19
+Assens,7,Orte/Ørsted,"A_Lone_Akselsen,_Brylle","Lone Akselsen, Brylle",Socialdemokratiet,7
+Assens,7,Orte/Ørsted,"A_Ashil_Farokh,_Tommerup_St.","Ashil Farokh, Tommerup St.",Socialdemokratiet,6
+Assens,7,Orte/Ørsted,"A_Berit_Schaldemose,_Glamsbjerg","Berit Schaldemose, Glamsbjerg",Socialdemokratiet,5
+Assens,7,Orte/Ørsted,"A_Lasse_Tajmer,_Assens","Lasse Tajmer, Assens",Socialdemokratiet,7
+Assens,7,Orte/Ørsted,"A_Lars_Søgaard,_Assens","Lars Søgaard, Assens",Socialdemokratiet,6
+Assens,7,Orte/Ørsted,"A_Elmer_Philipsen,_Glamsbjerg","Elmer Philipsen, Glamsbjerg",Socialdemokratiet,6
+Assens,7,Orte/Ørsted,"A_Henrik_Hansen,_Assens","Henrik Hansen, Assens",Socialdemokratiet,0
+Assens,7,Orte/Ørsted,"A_Leif_Rothe_Rasmussen,_Aarup","Leif Rothe Rasmussen, Aarup",Socialdemokratiet,10
+Assens,7,Orte/Ørsted,"A_Lone_Hegaard_Andersen,_Brylle","Lone Hegaard Andersen, Brylle",Socialdemokratiet,3
+Assens,7,Orte/Ørsted,"A_Poul_Hansen,_Brunshuse","Poul Hansen, Brunshuse",Socialdemokratiet,5
+Assens,7,Orte/Ørsted,"A_Mikael_Jensen,_Assens","Mikael Jensen, Assens",Socialdemokratiet,0
+Assens,7,Orte/Ørsted,"A_Helge_Kold,_Haarby","Helge Kold, Haarby",Socialdemokratiet,1
+Assens,7,Orte/Ørsted,"A_Inga_Jørgensen,_Aarup","Inga Jørgensen, Aarup",Socialdemokratiet,8
+Assens,7,Orte/Ørsted,B_Listestemmer,Listestemmer,Radikale Venstre,6
+Assens,7,Orte/Ørsted,"B_Poul_Poulsen,_Aarup","Poul Poulsen, Aarup",Radikale Venstre,9
+Assens,7,Orte/Ørsted,"B_Rasmus_Dons,_Gummerup","Rasmus Dons, Gummerup",Radikale Venstre,3
+Assens,7,Orte/Ørsted,"B_Joy_Christensen,_Assens","Joy Christensen, Assens",Radikale Venstre,2
+Assens,7,Orte/Ørsted,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,20
+Assens,7,Orte/Ørsted,"C_Søren_Thomsen,_Assens","Søren Thomsen, Assens",Det Konservative Folkeparti,19
+Assens,7,Orte/Ørsted,"C_Jim_Staffensen,_Haarby","Jim Staffensen, Haarby",Det Konservative Folkeparti,1
+Assens,7,Orte/Ørsted,"C_Natasja_Bruun_Knudsen,_Assens","Natasja Bruun Knudsen, Assens",Det Konservative Folkeparti,5
+Assens,7,Orte/Ørsted,"C_Vagn_Top,_Brylle","Vagn Top, Brylle",Det Konservative Folkeparti,6
+Assens,7,Orte/Ørsted,"C_Tobias_Bennedsen,_Barløse","Tobias Bennedsen, Barløse",Det Konservative Folkeparti,3
+Assens,7,Orte/Ørsted,"C_Lars_Littau_Goldmann,_Haarby","Lars Littau Goldmann, Haarby",Det Konservative Folkeparti,2
+Assens,7,Orte/Ørsted,"C_John_Børsting_Mikkelsen,_Helnæs","John Børsting Mikkelsen, Helnæs",Det Konservative Folkeparti,0
+Assens,7,Orte/Ørsted,"C_Sofia_Katrine_Svensson,_Tommerup","Sofia Katrine Svensson, Tommerup",Det Konservative Folkeparti,3
+Assens,7,Orte/Ørsted,"C_Jesper_Christensen,_Glamsbjerg","Jesper Christensen, Glamsbjerg",Det Konservative Folkeparti,0
+Assens,7,Orte/Ørsted,D_Listestemmer,Listestemmer,Nye Borgerlige,16
+Assens,7,Orte/Ørsted,D_Lars_S._Lillebæk,Lars S. Lillebæk,Nye Borgerlige,10
+Assens,7,Orte/Ørsted,D_Hanne_Knappmann,Hanne Knappmann,Nye Borgerlige,5
+Assens,7,Orte/Ørsted,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,17
+Assens,7,Orte/Ørsted,"F_Mogens_Mulle_Johansen,_Glamsbjerg","Mogens Mulle Johansen, Glamsbjerg",SF - Socialistisk Folkeparti,6
+Assens,7,Orte/Ørsted,"F_Jeanette_Sandberg,_Tommerup_St.","Jeanette Sandberg, Tommerup St.",SF - Socialistisk Folkeparti,28
+Assens,7,Orte/Ørsted,"F_Flemming_Risskov_Jørgensen,_Viss.","Flemming Risskov Jørgensen, Viss.",SF - Socialistisk Folkeparti,6
+Assens,7,Orte/Ørsted,"F_Poul_Erik_Kristiansen,_Glamsbjerg","Poul Erik Kristiansen, Glamsbjerg",SF - Socialistisk Folkeparti,0
+Assens,7,Orte/Ørsted,"F_Mette-Rose_Kongstad,_Glamsbjerg","Mette-Rose Kongstad, Glamsbjerg",SF - Socialistisk Folkeparti,5
+Assens,7,Orte/Ørsted,"F_Hans_Peter_Lund,_Tommerup_St.","Hans Peter Lund, Tommerup St.",SF - Socialistisk Folkeparti,1
+Assens,7,Orte/Ørsted,"F_Henning_Petersen,_Holte","Henning Petersen, Holte",SF - Socialistisk Folkeparti,2
+Assens,7,Orte/Ørsted,"F_Inge_Thorup,_Aarup","Inge Thorup, Aarup",SF - Socialistisk Folkeparti,8
+Assens,7,Orte/Ørsted,"F_Hans_Glæsel,_Skalbjerg","Hans Glæsel, Skalbjerg",SF - Socialistisk Folkeparti,0
+Assens,7,Orte/Ørsted,"F_Helle_Beierholm,_Assens","Helle Beierholm, Assens",SF - Socialistisk Folkeparti,0
+Assens,7,Orte/Ørsted,H_Listestemmer,Listestemmer,SocialKonservative Assens,1
+Assens,7,Orte/Ørsted,"H_Jørn_Strand_Nielsen,_Haarby","Jørn Strand Nielsen, Haarby",SocialKonservative Assens,0
+Assens,7,Orte/Ørsted,M_Listestemmer,Listestemmer,Vi Lokale Demokrater,1
+Assens,7,Orte/Ørsted,"M_Irene_Jeppesen,_Vissenbjerg","Irene Jeppesen, Vissenbjerg",Vi Lokale Demokrater,1
+Assens,7,Orte/Ørsted,"M_Benno_Dahl,_Vissenbjerg","Benno Dahl, Vissenbjerg",Vi Lokale Demokrater,1
+Assens,7,Orte/Ørsted,O_Listestemmer,Listestemmer,Dansk Folkeparti,12
+Assens,7,Orte/Ørsted,O_Jens_Henrik_W._Thulesen_Dahl,Jens Henrik W. Thulesen Dahl,Dansk Folkeparti,13
+Assens,7,Orte/Ørsted,O_Lars_Kolling,Lars Kolling,Dansk Folkeparti,10
+Assens,7,Orte/Ørsted,O_Bente_S._Rasmussen,Bente S. Rasmussen,Dansk Folkeparti,4
+Assens,7,Orte/Ørsted,O_Finn_B._Hansen,Finn B. Hansen,Dansk Folkeparti,0
+Assens,7,Orte/Ørsted,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",46
+Assens,7,Orte/Ørsted,"V_Søren_Steen_Andersen,_Tommerup","Søren Steen Andersen, Tommerup","Venstre, Danmarks Liberale Parti",106
+Assens,7,Orte/Ørsted,"V_Pia_Offer_Madsen,_Glamsbjerg","Pia Offer Madsen, Glamsbjerg","Venstre, Danmarks Liberale Parti",14
+Assens,7,Orte/Ørsted,"V_Dan_Gørtz,_Aarup","Dan Gørtz, Aarup","Venstre, Danmarks Liberale Parti",14
+Assens,7,Orte/Ørsted,"V_Tine_Grau_Poulsen,_Vissenbjerg","Tine Grau Poulsen, Vissenbjerg","Venstre, Danmarks Liberale Parti",10
+Assens,7,Orte/Ørsted,"V_Nikolaj_Leed_Henriksen,_Aarup","Nikolaj Leed Henriksen, Aarup","Venstre, Danmarks Liberale Parti",12
+Assens,7,Orte/Ørsted,"V_Bodil_Boesgaard,_Vissenbjerg","Bodil Boesgaard, Vissenbjerg","Venstre, Danmarks Liberale Parti",2
+Assens,7,Orte/Ørsted,"V_Jens_Jakobsen,_Haarby","Jens Jakobsen, Haarby","Venstre, Danmarks Liberale Parti",0
+Assens,7,Orte/Ørsted,"V_Knud_Søby,_Assens","Knud Søby, Assens","Venstre, Danmarks Liberale Parti",2
+Assens,7,Orte/Ørsted,"V_Ole_Maagaard_Pedersen,_Ørsted","Ole Maagaard Pedersen, Ørsted","Venstre, Danmarks Liberale Parti",43
+Assens,7,Orte/Ørsted,"V_Rie_Nielsen,_Assens","Rie Nielsen, Assens","Venstre, Danmarks Liberale Parti",1
+Assens,7,Orte/Ørsted,"V_Henrik_Kirk,_Vissenbjerg","Henrik Kirk, Vissenbjerg","Venstre, Danmarks Liberale Parti",7
+Assens,7,Orte/Ørsted,"V_Camilla_Lykke_Sørensen,_Ebberup","Camilla Lykke Sørensen, Ebberup","Venstre, Danmarks Liberale Parti",6
+Assens,7,Orte/Ørsted,"V_Ib_W._Jensen,_Søllested","Ib W. Jensen, Søllested","Venstre, Danmarks Liberale Parti",14
+Assens,7,Orte/Ørsted,"V_Henrik_Mott_Frandsen,_Turup","Henrik Mott Frandsen, Turup","Venstre, Danmarks Liberale Parti",5
+Assens,7,Orte/Ørsted,"V_Semir_Azet_Sinou,_Assens","Semir Azet Sinou, Assens","Venstre, Danmarks Liberale Parti",0
+Assens,7,Orte/Ørsted,"V_Søren_Edlefsen,_Assens","Søren Edlefsen, Assens","Venstre, Danmarks Liberale Parti",0
+Assens,7,Orte/Ørsted,"V_Henrik_Jørgensen,_Verninge","Henrik Jørgensen, Verninge","Venstre, Danmarks Liberale Parti",4
+Assens,7,Orte/Ørsted,"V_Søren_Fisker_Olesen,_Bred","Søren Fisker Olesen, Bred","Venstre, Danmarks Liberale Parti",0
+Assens,7,Orte/Ørsted,"V_Steen-Ove_Teisner,_Flemløse","Steen-Ove Teisner, Flemløse","Venstre, Danmarks Liberale Parti",0
+Assens,7,Orte/Ørsted,"V_Lars_Tastum_Madsen,_Tommerup","Lars Tastum Madsen, Tommerup","Venstre, Danmarks Liberale Parti",1
+Assens,7,Orte/Ørsted,"V_Camilla_Hedenhoff,_Sø_Søby","Camilla Hedenhoff, Sø Søby","Venstre, Danmarks Liberale Parti",1
+Assens,7,Orte/Ørsted,"V_Ulrikka_Brændgaard_Nissen,_Solevad","Ulrikka Brændgaard Nissen, Solevad","Venstre, Danmarks Liberale Parti",4
+Assens,7,Orte/Ørsted,"V_Torben_Schadt-Poulsen,_Assens","Torben Schadt-Poulsen, Assens","Venstre, Danmarks Liberale Parti",1
+Assens,7,Orte/Ørsted,"V_Peter_Poulsen,_Aarup","Peter Poulsen, Aarup","Venstre, Danmarks Liberale Parti",5
+Assens,7,Orte/Ørsted,Z_Listestemmer,Listestemmer,De LokalNationale,0
+Assens,7,Orte/Ørsted,Z_Betina_Signe_Christiansen,Betina Signe Christiansen,De LokalNationale,0
+Assens,7,Orte/Ørsted,Æ_Listestemmer,Listestemmer,Frihedslisten,1
+Assens,7,Orte/Ørsted,"Æ_Millah_Kongsbach,_Assens","Millah Kongsbach, Assens",Frihedslisten,1
+Assens,7,Orte/Ørsted,"Æ_John_Boisen,_Glamsbjerg","John Boisen, Glamsbjerg",Frihedslisten,0
+Assens,7,Orte/Ørsted,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,11
+Assens,7,Orte/Ørsted,"Ø_Kaj_Alstrup,_Assens","Kaj Alstrup, Assens",Enhedslisten - De Rød-Grønne,4
+Assens,7,Orte/Ørsted,"Ø_Kirsten_Hofset,_Egemosedam","Kirsten Hofset, Egemosedam",Enhedslisten - De Rød-Grønne,9
+Assens,7,Orte/Ørsted,"Ø_Camilla_Reese_Sejerøe,_Skallebølle","Camilla Reese Sejerøe, Skallebølle",Enhedslisten - De Rød-Grønne,5
+Assens,7,Orte/Ørsted,"Ø_Rune_Biskopstö_Christensen,_Assens","Rune Biskopstö Christensen, Assens",Enhedslisten - De Rød-Grønne,1
+Assens,7,Orte/Ørsted,"Ø_Heidi_C.V._Mørch,_Assens","Heidi C.V. Mørch, Assens",Enhedslisten - De Rød-Grønne,1
+Assens,7,Orte/Ørsted,"Ø_Gert_Jacobsen,_Turup","Gert Jacobsen, Turup",Enhedslisten - De Rød-Grønne,0
+Assens,7,Orte/Ørsted,"Ø_Line_Mex-Jørgensen,_Skalbjerg","Line Mex-Jørgensen, Skalbjerg",Enhedslisten - De Rød-Grønne,2
+Assens,7,Orte/Ørsted,"Ø_Henrik_Frydenborg,_Tommerup","Henrik Frydenborg, Tommerup",Enhedslisten - De Rød-Grønne,1
+Assens,7,Orte/Ørsted,Å_Listestemmer,Listestemmer,Alternativet,1
+Assens,7,Orte/Ørsted,Å_Ole_Dupont_Kofod,Ole Dupont Kofod,Alternativet,4
+Assens,8,Glamsbjerg/Søllested,A_Listestemmer,Listestemmer,Socialdemokratiet,125
+Assens,8,Glamsbjerg/Søllested,"A_Poul-Erik_Svendsen,_Aarup","Poul-Erik Svendsen, Aarup",Socialdemokratiet,58
+Assens,8,Glamsbjerg/Søllested,"A_Charlotte_Vincent_Petersen,_Tom.St","Charlotte Vincent Petersen, Tom.St",Socialdemokratiet,16
+Assens,8,Glamsbjerg/Søllested,"A_Sara_Emil_Baaring,_Vissenbjerg","Sara Emil Baaring, Vissenbjerg",Socialdemokratiet,34
+Assens,8,Glamsbjerg/Søllested,"A_Lone_Akselsen,_Brylle","Lone Akselsen, Brylle",Socialdemokratiet,13
+Assens,8,Glamsbjerg/Søllested,"A_Ashil_Farokh,_Tommerup_St.","Ashil Farokh, Tommerup St.",Socialdemokratiet,9
+Assens,8,Glamsbjerg/Søllested,"A_Berit_Schaldemose,_Glamsbjerg","Berit Schaldemose, Glamsbjerg",Socialdemokratiet,68
+Assens,8,Glamsbjerg/Søllested,"A_Lasse_Tajmer,_Assens","Lasse Tajmer, Assens",Socialdemokratiet,5
+Assens,8,Glamsbjerg/Søllested,"A_Lars_Søgaard,_Assens","Lars Søgaard, Assens",Socialdemokratiet,5
+Assens,8,Glamsbjerg/Søllested,"A_Elmer_Philipsen,_Glamsbjerg","Elmer Philipsen, Glamsbjerg",Socialdemokratiet,187
+Assens,8,Glamsbjerg/Søllested,"A_Henrik_Hansen,_Assens","Henrik Hansen, Assens",Socialdemokratiet,7
+Assens,8,Glamsbjerg/Søllested,"A_Leif_Rothe_Rasmussen,_Aarup","Leif Rothe Rasmussen, Aarup",Socialdemokratiet,2
+Assens,8,Glamsbjerg/Søllested,"A_Lone_Hegaard_Andersen,_Brylle","Lone Hegaard Andersen, Brylle",Socialdemokratiet,3
+Assens,8,Glamsbjerg/Søllested,"A_Poul_Hansen,_Brunshuse","Poul Hansen, Brunshuse",Socialdemokratiet,9
+Assens,8,Glamsbjerg/Søllested,"A_Mikael_Jensen,_Assens","Mikael Jensen, Assens",Socialdemokratiet,1
+Assens,8,Glamsbjerg/Søllested,"A_Helge_Kold,_Haarby","Helge Kold, Haarby",Socialdemokratiet,4
+Assens,8,Glamsbjerg/Søllested,"A_Inga_Jørgensen,_Aarup","Inga Jørgensen, Aarup",Socialdemokratiet,0
+Assens,8,Glamsbjerg/Søllested,B_Listestemmer,Listestemmer,Radikale Venstre,7
+Assens,8,Glamsbjerg/Søllested,"B_Poul_Poulsen,_Aarup","Poul Poulsen, Aarup",Radikale Venstre,18
+Assens,8,Glamsbjerg/Søllested,"B_Rasmus_Dons,_Gummerup","Rasmus Dons, Gummerup",Radikale Venstre,11
+Assens,8,Glamsbjerg/Søllested,"B_Joy_Christensen,_Assens","Joy Christensen, Assens",Radikale Venstre,7
+Assens,8,Glamsbjerg/Søllested,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,21
+Assens,8,Glamsbjerg/Søllested,"C_Søren_Thomsen,_Assens","Søren Thomsen, Assens",Det Konservative Folkeparti,49
+Assens,8,Glamsbjerg/Søllested,"C_Jim_Staffensen,_Haarby","Jim Staffensen, Haarby",Det Konservative Folkeparti,13
+Assens,8,Glamsbjerg/Søllested,"C_Natasja_Bruun_Knudsen,_Assens","Natasja Bruun Knudsen, Assens",Det Konservative Folkeparti,3
+Assens,8,Glamsbjerg/Søllested,"C_Vagn_Top,_Brylle","Vagn Top, Brylle",Det Konservative Folkeparti,3
+Assens,8,Glamsbjerg/Søllested,"C_Tobias_Bennedsen,_Barløse","Tobias Bennedsen, Barløse",Det Konservative Folkeparti,1
+Assens,8,Glamsbjerg/Søllested,"C_Lars_Littau_Goldmann,_Haarby","Lars Littau Goldmann, Haarby",Det Konservative Folkeparti,7
+Assens,8,Glamsbjerg/Søllested,"C_John_Børsting_Mikkelsen,_Helnæs","John Børsting Mikkelsen, Helnæs",Det Konservative Folkeparti,3
+Assens,8,Glamsbjerg/Søllested,"C_Sofia_Katrine_Svensson,_Tommerup","Sofia Katrine Svensson, Tommerup",Det Konservative Folkeparti,1
+Assens,8,Glamsbjerg/Søllested,"C_Jesper_Christensen,_Glamsbjerg","Jesper Christensen, Glamsbjerg",Det Konservative Folkeparti,11
+Assens,8,Glamsbjerg/Søllested,D_Listestemmer,Listestemmer,Nye Borgerlige,23
+Assens,8,Glamsbjerg/Søllested,D_Lars_S._Lillebæk,Lars S. Lillebæk,Nye Borgerlige,35
+Assens,8,Glamsbjerg/Søllested,D_Hanne_Knappmann,Hanne Knappmann,Nye Borgerlige,6
+Assens,8,Glamsbjerg/Søllested,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,31
+Assens,8,Glamsbjerg/Søllested,"F_Mogens_Mulle_Johansen,_Glamsbjerg","Mogens Mulle Johansen, Glamsbjerg",SF - Socialistisk Folkeparti,44
+Assens,8,Glamsbjerg/Søllested,"F_Jeanette_Sandberg,_Tommerup_St.","Jeanette Sandberg, Tommerup St.",SF - Socialistisk Folkeparti,27
+Assens,8,Glamsbjerg/Søllested,"F_Flemming_Risskov_Jørgensen,_Viss.","Flemming Risskov Jørgensen, Viss.",SF - Socialistisk Folkeparti,7
+Assens,8,Glamsbjerg/Søllested,"F_Poul_Erik_Kristiansen,_Glamsbjerg","Poul Erik Kristiansen, Glamsbjerg",SF - Socialistisk Folkeparti,16
+Assens,8,Glamsbjerg/Søllested,"F_Mette-Rose_Kongstad,_Glamsbjerg","Mette-Rose Kongstad, Glamsbjerg",SF - Socialistisk Folkeparti,11
+Assens,8,Glamsbjerg/Søllested,"F_Hans_Peter_Lund,_Tommerup_St.","Hans Peter Lund, Tommerup St.",SF - Socialistisk Folkeparti,3
+Assens,8,Glamsbjerg/Søllested,"F_Henning_Petersen,_Holte","Henning Petersen, Holte",SF - Socialistisk Folkeparti,7
+Assens,8,Glamsbjerg/Søllested,"F_Inge_Thorup,_Aarup","Inge Thorup, Aarup",SF - Socialistisk Folkeparti,5
+Assens,8,Glamsbjerg/Søllested,"F_Hans_Glæsel,_Skalbjerg","Hans Glæsel, Skalbjerg",SF - Socialistisk Folkeparti,0
+Assens,8,Glamsbjerg/Søllested,"F_Helle_Beierholm,_Assens","Helle Beierholm, Assens",SF - Socialistisk Folkeparti,3
+Assens,8,Glamsbjerg/Søllested,H_Listestemmer,Listestemmer,SocialKonservative Assens,1
+Assens,8,Glamsbjerg/Søllested,"H_Jørn_Strand_Nielsen,_Haarby","Jørn Strand Nielsen, Haarby",SocialKonservative Assens,0
+Assens,8,Glamsbjerg/Søllested,M_Listestemmer,Listestemmer,Vi Lokale Demokrater,1
+Assens,8,Glamsbjerg/Søllested,"M_Irene_Jeppesen,_Vissenbjerg","Irene Jeppesen, Vissenbjerg",Vi Lokale Demokrater,2
+Assens,8,Glamsbjerg/Søllested,"M_Benno_Dahl,_Vissenbjerg","Benno Dahl, Vissenbjerg",Vi Lokale Demokrater,0
+Assens,8,Glamsbjerg/Søllested,O_Listestemmer,Listestemmer,Dansk Folkeparti,21
+Assens,8,Glamsbjerg/Søllested,O_Jens_Henrik_W._Thulesen_Dahl,Jens Henrik W. Thulesen Dahl,Dansk Folkeparti,23
+Assens,8,Glamsbjerg/Søllested,O_Lars_Kolling,Lars Kolling,Dansk Folkeparti,92
+Assens,8,Glamsbjerg/Søllested,O_Bente_S._Rasmussen,Bente S. Rasmussen,Dansk Folkeparti,1
+Assens,8,Glamsbjerg/Søllested,O_Finn_B._Hansen,Finn B. Hansen,Dansk Folkeparti,3
+Assens,8,Glamsbjerg/Søllested,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",51
+Assens,8,Glamsbjerg/Søllested,"V_Søren_Steen_Andersen,_Tommerup","Søren Steen Andersen, Tommerup","Venstre, Danmarks Liberale Parti",245
+Assens,8,Glamsbjerg/Søllested,"V_Pia_Offer_Madsen,_Glamsbjerg","Pia Offer Madsen, Glamsbjerg","Venstre, Danmarks Liberale Parti",172
+Assens,8,Glamsbjerg/Søllested,"V_Dan_Gørtz,_Aarup","Dan Gørtz, Aarup","Venstre, Danmarks Liberale Parti",1
+Assens,8,Glamsbjerg/Søllested,"V_Tine_Grau_Poulsen,_Vissenbjerg","Tine Grau Poulsen, Vissenbjerg","Venstre, Danmarks Liberale Parti",5
+Assens,8,Glamsbjerg/Søllested,"V_Nikolaj_Leed_Henriksen,_Aarup","Nikolaj Leed Henriksen, Aarup","Venstre, Danmarks Liberale Parti",18
+Assens,8,Glamsbjerg/Søllested,"V_Bodil_Boesgaard,_Vissenbjerg","Bodil Boesgaard, Vissenbjerg","Venstre, Danmarks Liberale Parti",1
+Assens,8,Glamsbjerg/Søllested,"V_Jens_Jakobsen,_Haarby","Jens Jakobsen, Haarby","Venstre, Danmarks Liberale Parti",7
+Assens,8,Glamsbjerg/Søllested,"V_Knud_Søby,_Assens","Knud Søby, Assens","Venstre, Danmarks Liberale Parti",4
+Assens,8,Glamsbjerg/Søllested,"V_Ole_Maagaard_Pedersen,_Ørsted","Ole Maagaard Pedersen, Ørsted","Venstre, Danmarks Liberale Parti",15
+Assens,8,Glamsbjerg/Søllested,"V_Rie_Nielsen,_Assens","Rie Nielsen, Assens","Venstre, Danmarks Liberale Parti",4
+Assens,8,Glamsbjerg/Søllested,"V_Henrik_Kirk,_Vissenbjerg","Henrik Kirk, Vissenbjerg","Venstre, Danmarks Liberale Parti",3
+Assens,8,Glamsbjerg/Søllested,"V_Camilla_Lykke_Sørensen,_Ebberup","Camilla Lykke Sørensen, Ebberup","Venstre, Danmarks Liberale Parti",9
+Assens,8,Glamsbjerg/Søllested,"V_Ib_W._Jensen,_Søllested","Ib W. Jensen, Søllested","Venstre, Danmarks Liberale Parti",41
+Assens,8,Glamsbjerg/Søllested,"V_Henrik_Mott_Frandsen,_Turup","Henrik Mott Frandsen, Turup","Venstre, Danmarks Liberale Parti",2
+Assens,8,Glamsbjerg/Søllested,"V_Semir_Azet_Sinou,_Assens","Semir Azet Sinou, Assens","Venstre, Danmarks Liberale Parti",8
+Assens,8,Glamsbjerg/Søllested,"V_Søren_Edlefsen,_Assens","Søren Edlefsen, Assens","Venstre, Danmarks Liberale Parti",2
+Assens,8,Glamsbjerg/Søllested,"V_Henrik_Jørgensen,_Verninge","Henrik Jørgensen, Verninge","Venstre, Danmarks Liberale Parti",4
+Assens,8,Glamsbjerg/Søllested,"V_Søren_Fisker_Olesen,_Bred","Søren Fisker Olesen, Bred","Venstre, Danmarks Liberale Parti",0
+Assens,8,Glamsbjerg/Søllested,"V_Steen-Ove_Teisner,_Flemløse","Steen-Ove Teisner, Flemløse","Venstre, Danmarks Liberale Parti",8
+Assens,8,Glamsbjerg/Søllested,"V_Lars_Tastum_Madsen,_Tommerup","Lars Tastum Madsen, Tommerup","Venstre, Danmarks Liberale Parti",1
+Assens,8,Glamsbjerg/Søllested,"V_Camilla_Hedenhoff,_Sø_Søby","Camilla Hedenhoff, Sø Søby","Venstre, Danmarks Liberale Parti",0
+Assens,8,Glamsbjerg/Søllested,"V_Ulrikka_Brændgaard_Nissen,_Solevad","Ulrikka Brændgaard Nissen, Solevad","Venstre, Danmarks Liberale Parti",7
+Assens,8,Glamsbjerg/Søllested,"V_Torben_Schadt-Poulsen,_Assens","Torben Schadt-Poulsen, Assens","Venstre, Danmarks Liberale Parti",0
+Assens,8,Glamsbjerg/Søllested,"V_Peter_Poulsen,_Aarup","Peter Poulsen, Aarup","Venstre, Danmarks Liberale Parti",4
+Assens,8,Glamsbjerg/Søllested,Z_Listestemmer,Listestemmer,De LokalNationale,1
+Assens,8,Glamsbjerg/Søllested,Z_Betina_Signe_Christiansen,Betina Signe Christiansen,De LokalNationale,2
+Assens,8,Glamsbjerg/Søllested,Æ_Listestemmer,Listestemmer,Frihedslisten,1
+Assens,8,Glamsbjerg/Søllested,"Æ_Millah_Kongsbach,_Assens","Millah Kongsbach, Assens",Frihedslisten,4
+Assens,8,Glamsbjerg/Søllested,"Æ_John_Boisen,_Glamsbjerg","John Boisen, Glamsbjerg",Frihedslisten,0
+Assens,8,Glamsbjerg/Søllested,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,28
+Assens,8,Glamsbjerg/Søllested,"Ø_Kaj_Alstrup,_Assens","Kaj Alstrup, Assens",Enhedslisten - De Rød-Grønne,13
+Assens,8,Glamsbjerg/Søllested,"Ø_Kirsten_Hofset,_Egemosedam","Kirsten Hofset, Egemosedam",Enhedslisten - De Rød-Grønne,10
+Assens,8,Glamsbjerg/Søllested,"Ø_Camilla_Reese_Sejerøe,_Skallebølle","Camilla Reese Sejerøe, Skallebølle",Enhedslisten - De Rød-Grønne,5
+Assens,8,Glamsbjerg/Søllested,"Ø_Rune_Biskopstö_Christensen,_Assens","Rune Biskopstö Christensen, Assens",Enhedslisten - De Rød-Grønne,3
+Assens,8,Glamsbjerg/Søllested,"Ø_Heidi_C.V._Mørch,_Assens","Heidi C.V. Mørch, Assens",Enhedslisten - De Rød-Grønne,2
+Assens,8,Glamsbjerg/Søllested,"Ø_Gert_Jacobsen,_Turup","Gert Jacobsen, Turup",Enhedslisten - De Rød-Grønne,0
+Assens,8,Glamsbjerg/Søllested,"Ø_Line_Mex-Jørgensen,_Skalbjerg","Line Mex-Jørgensen, Skalbjerg",Enhedslisten - De Rød-Grønne,1
+Assens,8,Glamsbjerg/Søllested,"Ø_Henrik_Frydenborg,_Tommerup","Henrik Frydenborg, Tommerup",Enhedslisten - De Rød-Grønne,4
+Assens,8,Glamsbjerg/Søllested,Å_Listestemmer,Listestemmer,Alternativet,4
+Assens,8,Glamsbjerg/Søllested,Å_Ole_Dupont_Kofod,Ole Dupont Kofod,Alternativet,31
+Assens,9,Flemløse,A_Listestemmer,Listestemmer,Socialdemokratiet,35
+Assens,9,Flemløse,"A_Poul-Erik_Svendsen,_Aarup","Poul-Erik Svendsen, Aarup",Socialdemokratiet,16
+Assens,9,Flemløse,"A_Charlotte_Vincent_Petersen,_Tom.St","Charlotte Vincent Petersen, Tom.St",Socialdemokratiet,7
+Assens,9,Flemløse,"A_Sara_Emil_Baaring,_Vissenbjerg","Sara Emil Baaring, Vissenbjerg",Socialdemokratiet,5
+Assens,9,Flemløse,"A_Lone_Akselsen,_Brylle","Lone Akselsen, Brylle",Socialdemokratiet,2
+Assens,9,Flemløse,"A_Ashil_Farokh,_Tommerup_St.","Ashil Farokh, Tommerup St.",Socialdemokratiet,0
+Assens,9,Flemløse,"A_Berit_Schaldemose,_Glamsbjerg","Berit Schaldemose, Glamsbjerg",Socialdemokratiet,16
+Assens,9,Flemløse,"A_Lasse_Tajmer,_Assens","Lasse Tajmer, Assens",Socialdemokratiet,1
+Assens,9,Flemløse,"A_Lars_Søgaard,_Assens","Lars Søgaard, Assens",Socialdemokratiet,1
+Assens,9,Flemløse,"A_Elmer_Philipsen,_Glamsbjerg","Elmer Philipsen, Glamsbjerg",Socialdemokratiet,25
+Assens,9,Flemløse,"A_Henrik_Hansen,_Assens","Henrik Hansen, Assens",Socialdemokratiet,3
+Assens,9,Flemløse,"A_Leif_Rothe_Rasmussen,_Aarup","Leif Rothe Rasmussen, Aarup",Socialdemokratiet,0
+Assens,9,Flemløse,"A_Lone_Hegaard_Andersen,_Brylle","Lone Hegaard Andersen, Brylle",Socialdemokratiet,2
+Assens,9,Flemløse,"A_Poul_Hansen,_Brunshuse","Poul Hansen, Brunshuse",Socialdemokratiet,4
+Assens,9,Flemløse,"A_Mikael_Jensen,_Assens","Mikael Jensen, Assens",Socialdemokratiet,0
+Assens,9,Flemløse,"A_Helge_Kold,_Haarby","Helge Kold, Haarby",Socialdemokratiet,4
+Assens,9,Flemløse,"A_Inga_Jørgensen,_Aarup","Inga Jørgensen, Aarup",Socialdemokratiet,0
+Assens,9,Flemløse,B_Listestemmer,Listestemmer,Radikale Venstre,1
+Assens,9,Flemløse,"B_Poul_Poulsen,_Aarup","Poul Poulsen, Aarup",Radikale Venstre,1
+Assens,9,Flemløse,"B_Rasmus_Dons,_Gummerup","Rasmus Dons, Gummerup",Radikale Venstre,2
+Assens,9,Flemløse,"B_Joy_Christensen,_Assens","Joy Christensen, Assens",Radikale Venstre,1
+Assens,9,Flemløse,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,12
+Assens,9,Flemløse,"C_Søren_Thomsen,_Assens","Søren Thomsen, Assens",Det Konservative Folkeparti,27
+Assens,9,Flemløse,"C_Jim_Staffensen,_Haarby","Jim Staffensen, Haarby",Det Konservative Folkeparti,7
+Assens,9,Flemløse,"C_Natasja_Bruun_Knudsen,_Assens","Natasja Bruun Knudsen, Assens",Det Konservative Folkeparti,5
+Assens,9,Flemløse,"C_Vagn_Top,_Brylle","Vagn Top, Brylle",Det Konservative Folkeparti,1
+Assens,9,Flemløse,"C_Tobias_Bennedsen,_Barløse","Tobias Bennedsen, Barløse",Det Konservative Folkeparti,1
+Assens,9,Flemløse,"C_Lars_Littau_Goldmann,_Haarby","Lars Littau Goldmann, Haarby",Det Konservative Folkeparti,5
+Assens,9,Flemløse,"C_John_Børsting_Mikkelsen,_Helnæs","John Børsting Mikkelsen, Helnæs",Det Konservative Folkeparti,0
+Assens,9,Flemløse,"C_Sofia_Katrine_Svensson,_Tommerup","Sofia Katrine Svensson, Tommerup",Det Konservative Folkeparti,2
+Assens,9,Flemløse,"C_Jesper_Christensen,_Glamsbjerg","Jesper Christensen, Glamsbjerg",Det Konservative Folkeparti,6
+Assens,9,Flemløse,D_Listestemmer,Listestemmer,Nye Borgerlige,6
+Assens,9,Flemløse,D_Lars_S._Lillebæk,Lars S. Lillebæk,Nye Borgerlige,21
+Assens,9,Flemløse,D_Hanne_Knappmann,Hanne Knappmann,Nye Borgerlige,4
+Assens,9,Flemløse,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,5
+Assens,9,Flemløse,"F_Mogens_Mulle_Johansen,_Glamsbjerg","Mogens Mulle Johansen, Glamsbjerg",SF - Socialistisk Folkeparti,3
+Assens,9,Flemløse,"F_Jeanette_Sandberg,_Tommerup_St.","Jeanette Sandberg, Tommerup St.",SF - Socialistisk Folkeparti,6
+Assens,9,Flemløse,"F_Flemming_Risskov_Jørgensen,_Viss.","Flemming Risskov Jørgensen, Viss.",SF - Socialistisk Folkeparti,0
+Assens,9,Flemløse,"F_Poul_Erik_Kristiansen,_Glamsbjerg","Poul Erik Kristiansen, Glamsbjerg",SF - Socialistisk Folkeparti,1
+Assens,9,Flemløse,"F_Mette-Rose_Kongstad,_Glamsbjerg","Mette-Rose Kongstad, Glamsbjerg",SF - Socialistisk Folkeparti,0
+Assens,9,Flemløse,"F_Hans_Peter_Lund,_Tommerup_St.","Hans Peter Lund, Tommerup St.",SF - Socialistisk Folkeparti,2
+Assens,9,Flemløse,"F_Henning_Petersen,_Holte","Henning Petersen, Holte",SF - Socialistisk Folkeparti,2
+Assens,9,Flemløse,"F_Inge_Thorup,_Aarup","Inge Thorup, Aarup",SF - Socialistisk Folkeparti,1
+Assens,9,Flemløse,"F_Hans_Glæsel,_Skalbjerg","Hans Glæsel, Skalbjerg",SF - Socialistisk Folkeparti,0
+Assens,9,Flemløse,"F_Helle_Beierholm,_Assens","Helle Beierholm, Assens",SF - Socialistisk Folkeparti,1
+Assens,9,Flemløse,H_Listestemmer,Listestemmer,SocialKonservative Assens,0
+Assens,9,Flemløse,"H_Jørn_Strand_Nielsen,_Haarby","Jørn Strand Nielsen, Haarby",SocialKonservative Assens,0
+Assens,9,Flemløse,M_Listestemmer,Listestemmer,Vi Lokale Demokrater,1
+Assens,9,Flemløse,"M_Irene_Jeppesen,_Vissenbjerg","Irene Jeppesen, Vissenbjerg",Vi Lokale Demokrater,1
+Assens,9,Flemløse,"M_Benno_Dahl,_Vissenbjerg","Benno Dahl, Vissenbjerg",Vi Lokale Demokrater,0
+Assens,9,Flemløse,O_Listestemmer,Listestemmer,Dansk Folkeparti,13
+Assens,9,Flemløse,O_Jens_Henrik_W._Thulesen_Dahl,Jens Henrik W. Thulesen Dahl,Dansk Folkeparti,16
+Assens,9,Flemløse,O_Lars_Kolling,Lars Kolling,Dansk Folkeparti,11
+Assens,9,Flemløse,O_Bente_S._Rasmussen,Bente S. Rasmussen,Dansk Folkeparti,0
+Assens,9,Flemløse,O_Finn_B._Hansen,Finn B. Hansen,Dansk Folkeparti,3
+Assens,9,Flemløse,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",14
+Assens,9,Flemløse,"V_Søren_Steen_Andersen,_Tommerup","Søren Steen Andersen, Tommerup","Venstre, Danmarks Liberale Parti",56
+Assens,9,Flemløse,"V_Pia_Offer_Madsen,_Glamsbjerg","Pia Offer Madsen, Glamsbjerg","Venstre, Danmarks Liberale Parti",37
+Assens,9,Flemløse,"V_Dan_Gørtz,_Aarup","Dan Gørtz, Aarup","Venstre, Danmarks Liberale Parti",4
+Assens,9,Flemløse,"V_Tine_Grau_Poulsen,_Vissenbjerg","Tine Grau Poulsen, Vissenbjerg","Venstre, Danmarks Liberale Parti",2
+Assens,9,Flemløse,"V_Nikolaj_Leed_Henriksen,_Aarup","Nikolaj Leed Henriksen, Aarup","Venstre, Danmarks Liberale Parti",7
+Assens,9,Flemløse,"V_Bodil_Boesgaard,_Vissenbjerg","Bodil Boesgaard, Vissenbjerg","Venstre, Danmarks Liberale Parti",0
+Assens,9,Flemløse,"V_Jens_Jakobsen,_Haarby","Jens Jakobsen, Haarby","Venstre, Danmarks Liberale Parti",19
+Assens,9,Flemløse,"V_Knud_Søby,_Assens","Knud Søby, Assens","Venstre, Danmarks Liberale Parti",1
+Assens,9,Flemløse,"V_Ole_Maagaard_Pedersen,_Ørsted","Ole Maagaard Pedersen, Ørsted","Venstre, Danmarks Liberale Parti",0
+Assens,9,Flemløse,"V_Rie_Nielsen,_Assens","Rie Nielsen, Assens","Venstre, Danmarks Liberale Parti",1
+Assens,9,Flemløse,"V_Henrik_Kirk,_Vissenbjerg","Henrik Kirk, Vissenbjerg","Venstre, Danmarks Liberale Parti",2
+Assens,9,Flemløse,"V_Camilla_Lykke_Sørensen,_Ebberup","Camilla Lykke Sørensen, Ebberup","Venstre, Danmarks Liberale Parti",6
+Assens,9,Flemløse,"V_Ib_W._Jensen,_Søllested","Ib W. Jensen, Søllested","Venstre, Danmarks Liberale Parti",14
+Assens,9,Flemløse,"V_Henrik_Mott_Frandsen,_Turup","Henrik Mott Frandsen, Turup","Venstre, Danmarks Liberale Parti",2
+Assens,9,Flemløse,"V_Semir_Azet_Sinou,_Assens","Semir Azet Sinou, Assens","Venstre, Danmarks Liberale Parti",0
+Assens,9,Flemløse,"V_Søren_Edlefsen,_Assens","Søren Edlefsen, Assens","Venstre, Danmarks Liberale Parti",0
+Assens,9,Flemløse,"V_Henrik_Jørgensen,_Verninge","Henrik Jørgensen, Verninge","Venstre, Danmarks Liberale Parti",0
+Assens,9,Flemløse,"V_Søren_Fisker_Olesen,_Bred","Søren Fisker Olesen, Bred","Venstre, Danmarks Liberale Parti",0
+Assens,9,Flemløse,"V_Steen-Ove_Teisner,_Flemløse","Steen-Ove Teisner, Flemløse","Venstre, Danmarks Liberale Parti",48
+Assens,9,Flemløse,"V_Lars_Tastum_Madsen,_Tommerup","Lars Tastum Madsen, Tommerup","Venstre, Danmarks Liberale Parti",0
+Assens,9,Flemløse,"V_Camilla_Hedenhoff,_Sø_Søby","Camilla Hedenhoff, Sø Søby","Venstre, Danmarks Liberale Parti",0
+Assens,9,Flemløse,"V_Ulrikka_Brændgaard_Nissen,_Solevad","Ulrikka Brændgaard Nissen, Solevad","Venstre, Danmarks Liberale Parti",2
+Assens,9,Flemløse,"V_Torben_Schadt-Poulsen,_Assens","Torben Schadt-Poulsen, Assens","Venstre, Danmarks Liberale Parti",0
+Assens,9,Flemløse,"V_Peter_Poulsen,_Aarup","Peter Poulsen, Aarup","Venstre, Danmarks Liberale Parti",0
+Assens,9,Flemløse,Z_Listestemmer,Listestemmer,De LokalNationale,1
+Assens,9,Flemløse,Z_Betina_Signe_Christiansen,Betina Signe Christiansen,De LokalNationale,1
+Assens,9,Flemløse,Æ_Listestemmer,Listestemmer,Frihedslisten,2
+Assens,9,Flemløse,"Æ_Millah_Kongsbach,_Assens","Millah Kongsbach, Assens",Frihedslisten,0
+Assens,9,Flemløse,"Æ_John_Boisen,_Glamsbjerg","John Boisen, Glamsbjerg",Frihedslisten,1
+Assens,9,Flemløse,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,12
+Assens,9,Flemløse,"Ø_Kaj_Alstrup,_Assens","Kaj Alstrup, Assens",Enhedslisten - De Rød-Grønne,4
+Assens,9,Flemløse,"Ø_Kirsten_Hofset,_Egemosedam","Kirsten Hofset, Egemosedam",Enhedslisten - De Rød-Grønne,1
+Assens,9,Flemløse,"Ø_Camilla_Reese_Sejerøe,_Skallebølle","Camilla Reese Sejerøe, Skallebølle",Enhedslisten - De Rød-Grønne,1
+Assens,9,Flemløse,"Ø_Rune_Biskopstö_Christensen,_Assens","Rune Biskopstö Christensen, Assens",Enhedslisten - De Rød-Grønne,0
+Assens,9,Flemløse,"Ø_Heidi_C.V._Mørch,_Assens","Heidi C.V. Mørch, Assens",Enhedslisten - De Rød-Grønne,0
+Assens,9,Flemløse,"Ø_Gert_Jacobsen,_Turup","Gert Jacobsen, Turup",Enhedslisten - De Rød-Grønne,1
+Assens,9,Flemløse,"Ø_Line_Mex-Jørgensen,_Skalbjerg","Line Mex-Jørgensen, Skalbjerg",Enhedslisten - De Rød-Grønne,0
+Assens,9,Flemløse,"Ø_Henrik_Frydenborg,_Tommerup","Henrik Frydenborg, Tommerup",Enhedslisten - De Rød-Grønne,0
+Assens,9,Flemløse,Å_Listestemmer,Listestemmer,Alternativet,1
+Assens,9,Flemløse,Å_Ole_Dupont_Kofod,Ole Dupont Kofod,Alternativet,5
+Assens,10,Køng,A_Listestemmer,Listestemmer,Socialdemokratiet,33
+Assens,10,Køng,"A_Poul-Erik_Svendsen,_Aarup","Poul-Erik Svendsen, Aarup",Socialdemokratiet,20
+Assens,10,Køng,"A_Charlotte_Vincent_Petersen,_Tom.St","Charlotte Vincent Petersen, Tom.St",Socialdemokratiet,5
+Assens,10,Køng,"A_Sara_Emil_Baaring,_Vissenbjerg","Sara Emil Baaring, Vissenbjerg",Socialdemokratiet,10
+Assens,10,Køng,"A_Lone_Akselsen,_Brylle","Lone Akselsen, Brylle",Socialdemokratiet,2
+Assens,10,Køng,"A_Ashil_Farokh,_Tommerup_St.","Ashil Farokh, Tommerup St.",Socialdemokratiet,1
+Assens,10,Køng,"A_Berit_Schaldemose,_Glamsbjerg","Berit Schaldemose, Glamsbjerg",Socialdemokratiet,31
+Assens,10,Køng,"A_Lasse_Tajmer,_Assens","Lasse Tajmer, Assens",Socialdemokratiet,4
+Assens,10,Køng,"A_Lars_Søgaard,_Assens","Lars Søgaard, Assens",Socialdemokratiet,0
+Assens,10,Køng,"A_Elmer_Philipsen,_Glamsbjerg","Elmer Philipsen, Glamsbjerg",Socialdemokratiet,26
+Assens,10,Køng,"A_Henrik_Hansen,_Assens","Henrik Hansen, Assens",Socialdemokratiet,0
+Assens,10,Køng,"A_Leif_Rothe_Rasmussen,_Aarup","Leif Rothe Rasmussen, Aarup",Socialdemokratiet,0
+Assens,10,Køng,"A_Lone_Hegaard_Andersen,_Brylle","Lone Hegaard Andersen, Brylle",Socialdemokratiet,4
+Assens,10,Køng,"A_Poul_Hansen,_Brunshuse","Poul Hansen, Brunshuse",Socialdemokratiet,2
+Assens,10,Køng,"A_Mikael_Jensen,_Assens","Mikael Jensen, Assens",Socialdemokratiet,0
+Assens,10,Køng,"A_Helge_Kold,_Haarby","Helge Kold, Haarby",Socialdemokratiet,1
+Assens,10,Køng,"A_Inga_Jørgensen,_Aarup","Inga Jørgensen, Aarup",Socialdemokratiet,0
+Assens,10,Køng,B_Listestemmer,Listestemmer,Radikale Venstre,3
+Assens,10,Køng,"B_Poul_Poulsen,_Aarup","Poul Poulsen, Aarup",Radikale Venstre,1
+Assens,10,Køng,"B_Rasmus_Dons,_Gummerup","Rasmus Dons, Gummerup",Radikale Venstre,29
+Assens,10,Køng,"B_Joy_Christensen,_Assens","Joy Christensen, Assens",Radikale Venstre,0
+Assens,10,Køng,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,3
+Assens,10,Køng,"C_Søren_Thomsen,_Assens","Søren Thomsen, Assens",Det Konservative Folkeparti,15
+Assens,10,Køng,"C_Jim_Staffensen,_Haarby","Jim Staffensen, Haarby",Det Konservative Folkeparti,0
+Assens,10,Køng,"C_Natasja_Bruun_Knudsen,_Assens","Natasja Bruun Knudsen, Assens",Det Konservative Folkeparti,1
+Assens,10,Køng,"C_Vagn_Top,_Brylle","Vagn Top, Brylle",Det Konservative Folkeparti,1
+Assens,10,Køng,"C_Tobias_Bennedsen,_Barløse","Tobias Bennedsen, Barløse",Det Konservative Folkeparti,1
+Assens,10,Køng,"C_Lars_Littau_Goldmann,_Haarby","Lars Littau Goldmann, Haarby",Det Konservative Folkeparti,0
+Assens,10,Køng,"C_John_Børsting_Mikkelsen,_Helnæs","John Børsting Mikkelsen, Helnæs",Det Konservative Folkeparti,0
+Assens,10,Køng,"C_Sofia_Katrine_Svensson,_Tommerup","Sofia Katrine Svensson, Tommerup",Det Konservative Folkeparti,1
+Assens,10,Køng,"C_Jesper_Christensen,_Glamsbjerg","Jesper Christensen, Glamsbjerg",Det Konservative Folkeparti,8
+Assens,10,Køng,D_Listestemmer,Listestemmer,Nye Borgerlige,11
+Assens,10,Køng,D_Lars_S._Lillebæk,Lars S. Lillebæk,Nye Borgerlige,6
+Assens,10,Køng,D_Hanne_Knappmann,Hanne Knappmann,Nye Borgerlige,3
+Assens,10,Køng,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,10
+Assens,10,Køng,"F_Mogens_Mulle_Johansen,_Glamsbjerg","Mogens Mulle Johansen, Glamsbjerg",SF - Socialistisk Folkeparti,3
+Assens,10,Køng,"F_Jeanette_Sandberg,_Tommerup_St.","Jeanette Sandberg, Tommerup St.",SF - Socialistisk Folkeparti,9
+Assens,10,Køng,"F_Flemming_Risskov_Jørgensen,_Viss.","Flemming Risskov Jørgensen, Viss.",SF - Socialistisk Folkeparti,4
+Assens,10,Køng,"F_Poul_Erik_Kristiansen,_Glamsbjerg","Poul Erik Kristiansen, Glamsbjerg",SF - Socialistisk Folkeparti,0
+Assens,10,Køng,"F_Mette-Rose_Kongstad,_Glamsbjerg","Mette-Rose Kongstad, Glamsbjerg",SF - Socialistisk Folkeparti,11
+Assens,10,Køng,"F_Hans_Peter_Lund,_Tommerup_St.","Hans Peter Lund, Tommerup St.",SF - Socialistisk Folkeparti,0
+Assens,10,Køng,"F_Henning_Petersen,_Holte","Henning Petersen, Holte",SF - Socialistisk Folkeparti,3
+Assens,10,Køng,"F_Inge_Thorup,_Aarup","Inge Thorup, Aarup",SF - Socialistisk Folkeparti,0
+Assens,10,Køng,"F_Hans_Glæsel,_Skalbjerg","Hans Glæsel, Skalbjerg",SF - Socialistisk Folkeparti,0
+Assens,10,Køng,"F_Helle_Beierholm,_Assens","Helle Beierholm, Assens",SF - Socialistisk Folkeparti,1
+Assens,10,Køng,H_Listestemmer,Listestemmer,SocialKonservative Assens,1
+Assens,10,Køng,"H_Jørn_Strand_Nielsen,_Haarby","Jørn Strand Nielsen, Haarby",SocialKonservative Assens,0
+Assens,10,Køng,M_Listestemmer,Listestemmer,Vi Lokale Demokrater,0
+Assens,10,Køng,"M_Irene_Jeppesen,_Vissenbjerg","Irene Jeppesen, Vissenbjerg",Vi Lokale Demokrater,0
+Assens,10,Køng,"M_Benno_Dahl,_Vissenbjerg","Benno Dahl, Vissenbjerg",Vi Lokale Demokrater,0
+Assens,10,Køng,O_Listestemmer,Listestemmer,Dansk Folkeparti,9
+Assens,10,Køng,O_Jens_Henrik_W._Thulesen_Dahl,Jens Henrik W. Thulesen Dahl,Dansk Folkeparti,9
+Assens,10,Køng,O_Lars_Kolling,Lars Kolling,Dansk Folkeparti,14
+Assens,10,Køng,O_Bente_S._Rasmussen,Bente S. Rasmussen,Dansk Folkeparti,3
+Assens,10,Køng,O_Finn_B._Hansen,Finn B. Hansen,Dansk Folkeparti,3
+Assens,10,Køng,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",24
+Assens,10,Køng,"V_Søren_Steen_Andersen,_Tommerup","Søren Steen Andersen, Tommerup","Venstre, Danmarks Liberale Parti",92
+Assens,10,Køng,"V_Pia_Offer_Madsen,_Glamsbjerg","Pia Offer Madsen, Glamsbjerg","Venstre, Danmarks Liberale Parti",75
+Assens,10,Køng,"V_Dan_Gørtz,_Aarup","Dan Gørtz, Aarup","Venstre, Danmarks Liberale Parti",3
+Assens,10,Køng,"V_Tine_Grau_Poulsen,_Vissenbjerg","Tine Grau Poulsen, Vissenbjerg","Venstre, Danmarks Liberale Parti",2
+Assens,10,Køng,"V_Nikolaj_Leed_Henriksen,_Aarup","Nikolaj Leed Henriksen, Aarup","Venstre, Danmarks Liberale Parti",5
+Assens,10,Køng,"V_Bodil_Boesgaard,_Vissenbjerg","Bodil Boesgaard, Vissenbjerg","Venstre, Danmarks Liberale Parti",0
+Assens,10,Køng,"V_Jens_Jakobsen,_Haarby","Jens Jakobsen, Haarby","Venstre, Danmarks Liberale Parti",8
+Assens,10,Køng,"V_Knud_Søby,_Assens","Knud Søby, Assens","Venstre, Danmarks Liberale Parti",2
+Assens,10,Køng,"V_Ole_Maagaard_Pedersen,_Ørsted","Ole Maagaard Pedersen, Ørsted","Venstre, Danmarks Liberale Parti",1
+Assens,10,Køng,"V_Rie_Nielsen,_Assens","Rie Nielsen, Assens","Venstre, Danmarks Liberale Parti",2
+Assens,10,Køng,"V_Henrik_Kirk,_Vissenbjerg","Henrik Kirk, Vissenbjerg","Venstre, Danmarks Liberale Parti",0
+Assens,10,Køng,"V_Camilla_Lykke_Sørensen,_Ebberup","Camilla Lykke Sørensen, Ebberup","Venstre, Danmarks Liberale Parti",2
+Assens,10,Køng,"V_Ib_W._Jensen,_Søllested","Ib W. Jensen, Søllested","Venstre, Danmarks Liberale Parti",11
+Assens,10,Køng,"V_Henrik_Mott_Frandsen,_Turup","Henrik Mott Frandsen, Turup","Venstre, Danmarks Liberale Parti",2
+Assens,10,Køng,"V_Semir_Azet_Sinou,_Assens","Semir Azet Sinou, Assens","Venstre, Danmarks Liberale Parti",0
+Assens,10,Køng,"V_Søren_Edlefsen,_Assens","Søren Edlefsen, Assens","Venstre, Danmarks Liberale Parti",0
+Assens,10,Køng,"V_Henrik_Jørgensen,_Verninge","Henrik Jørgensen, Verninge","Venstre, Danmarks Liberale Parti",0
+Assens,10,Køng,"V_Søren_Fisker_Olesen,_Bred","Søren Fisker Olesen, Bred","Venstre, Danmarks Liberale Parti",0
+Assens,10,Køng,"V_Steen-Ove_Teisner,_Flemløse","Steen-Ove Teisner, Flemløse","Venstre, Danmarks Liberale Parti",1
+Assens,10,Køng,"V_Lars_Tastum_Madsen,_Tommerup","Lars Tastum Madsen, Tommerup","Venstre, Danmarks Liberale Parti",0
+Assens,10,Køng,"V_Camilla_Hedenhoff,_Sø_Søby","Camilla Hedenhoff, Sø Søby","Venstre, Danmarks Liberale Parti",0
+Assens,10,Køng,"V_Ulrikka_Brændgaard_Nissen,_Solevad","Ulrikka Brændgaard Nissen, Solevad","Venstre, Danmarks Liberale Parti",2
+Assens,10,Køng,"V_Torben_Schadt-Poulsen,_Assens","Torben Schadt-Poulsen, Assens","Venstre, Danmarks Liberale Parti",0
+Assens,10,Køng,"V_Peter_Poulsen,_Aarup","Peter Poulsen, Aarup","Venstre, Danmarks Liberale Parti",1
+Assens,10,Køng,Z_Listestemmer,Listestemmer,De LokalNationale,0
+Assens,10,Køng,Z_Betina_Signe_Christiansen,Betina Signe Christiansen,De LokalNationale,1
+Assens,10,Køng,Æ_Listestemmer,Listestemmer,Frihedslisten,0
+Assens,10,Køng,"Æ_Millah_Kongsbach,_Assens","Millah Kongsbach, Assens",Frihedslisten,2
+Assens,10,Køng,"Æ_John_Boisen,_Glamsbjerg","John Boisen, Glamsbjerg",Frihedslisten,0
+Assens,10,Køng,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,9
+Assens,10,Køng,"Ø_Kaj_Alstrup,_Assens","Kaj Alstrup, Assens",Enhedslisten - De Rød-Grønne,4
+Assens,10,Køng,"Ø_Kirsten_Hofset,_Egemosedam","Kirsten Hofset, Egemosedam",Enhedslisten - De Rød-Grønne,1
+Assens,10,Køng,"Ø_Camilla_Reese_Sejerøe,_Skallebølle","Camilla Reese Sejerøe, Skallebølle",Enhedslisten - De Rød-Grønne,7
+Assens,10,Køng,"Ø_Rune_Biskopstö_Christensen,_Assens","Rune Biskopstö Christensen, Assens",Enhedslisten - De Rød-Grønne,0
+Assens,10,Køng,"Ø_Heidi_C.V._Mørch,_Assens","Heidi C.V. Mørch, Assens",Enhedslisten - De Rød-Grønne,2
+Assens,10,Køng,"Ø_Gert_Jacobsen,_Turup","Gert Jacobsen, Turup",Enhedslisten - De Rød-Grønne,0
+Assens,10,Køng,"Ø_Line_Mex-Jørgensen,_Skalbjerg","Line Mex-Jørgensen, Skalbjerg",Enhedslisten - De Rød-Grønne,0
+Assens,10,Køng,"Ø_Henrik_Frydenborg,_Tommerup","Henrik Frydenborg, Tommerup",Enhedslisten - De Rød-Grønne,0
+Assens,10,Køng,Å_Listestemmer,Listestemmer,Alternativet,0
+Assens,10,Køng,Å_Ole_Dupont_Kofod,Ole Dupont Kofod,Alternativet,2
+Assens,11,Vissenbjerg,A_Listestemmer,Listestemmer,Socialdemokratiet,229
+Assens,11,Vissenbjerg,"A_Poul-Erik_Svendsen,_Aarup","Poul-Erik Svendsen, Aarup",Socialdemokratiet,132
+Assens,11,Vissenbjerg,"A_Charlotte_Vincent_Petersen,_Tom.St","Charlotte Vincent Petersen, Tom.St",Socialdemokratiet,63
+Assens,11,Vissenbjerg,"A_Sara_Emil_Baaring,_Vissenbjerg","Sara Emil Baaring, Vissenbjerg",Socialdemokratiet,264
+Assens,11,Vissenbjerg,"A_Lone_Akselsen,_Brylle","Lone Akselsen, Brylle",Socialdemokratiet,18
+Assens,11,Vissenbjerg,"A_Ashil_Farokh,_Tommerup_St.","Ashil Farokh, Tommerup St.",Socialdemokratiet,17
+Assens,11,Vissenbjerg,"A_Berit_Schaldemose,_Glamsbjerg","Berit Schaldemose, Glamsbjerg",Socialdemokratiet,14
+Assens,11,Vissenbjerg,"A_Lasse_Tajmer,_Assens","Lasse Tajmer, Assens",Socialdemokratiet,4
+Assens,11,Vissenbjerg,"A_Lars_Søgaard,_Assens","Lars Søgaard, Assens",Socialdemokratiet,12
+Assens,11,Vissenbjerg,"A_Elmer_Philipsen,_Glamsbjerg","Elmer Philipsen, Glamsbjerg",Socialdemokratiet,5
+Assens,11,Vissenbjerg,"A_Henrik_Hansen,_Assens","Henrik Hansen, Assens",Socialdemokratiet,2
+Assens,11,Vissenbjerg,"A_Leif_Rothe_Rasmussen,_Aarup","Leif Rothe Rasmussen, Aarup",Socialdemokratiet,9
+Assens,11,Vissenbjerg,"A_Lone_Hegaard_Andersen,_Brylle","Lone Hegaard Andersen, Brylle",Socialdemokratiet,4
+Assens,11,Vissenbjerg,"A_Poul_Hansen,_Brunshuse","Poul Hansen, Brunshuse",Socialdemokratiet,6
+Assens,11,Vissenbjerg,"A_Mikael_Jensen,_Assens","Mikael Jensen, Assens",Socialdemokratiet,1
+Assens,11,Vissenbjerg,"A_Helge_Kold,_Haarby","Helge Kold, Haarby",Socialdemokratiet,2
+Assens,11,Vissenbjerg,"A_Inga_Jørgensen,_Aarup","Inga Jørgensen, Aarup",Socialdemokratiet,2
+Assens,11,Vissenbjerg,B_Listestemmer,Listestemmer,Radikale Venstre,18
+Assens,11,Vissenbjerg,"B_Poul_Poulsen,_Aarup","Poul Poulsen, Aarup",Radikale Venstre,21
+Assens,11,Vissenbjerg,"B_Rasmus_Dons,_Gummerup","Rasmus Dons, Gummerup",Radikale Venstre,10
+Assens,11,Vissenbjerg,"B_Joy_Christensen,_Assens","Joy Christensen, Assens",Radikale Venstre,3
+Assens,11,Vissenbjerg,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,50
+Assens,11,Vissenbjerg,"C_Søren_Thomsen,_Assens","Søren Thomsen, Assens",Det Konservative Folkeparti,51
+Assens,11,Vissenbjerg,"C_Jim_Staffensen,_Haarby","Jim Staffensen, Haarby",Det Konservative Folkeparti,4
+Assens,11,Vissenbjerg,"C_Natasja_Bruun_Knudsen,_Assens","Natasja Bruun Knudsen, Assens",Det Konservative Folkeparti,21
+Assens,11,Vissenbjerg,"C_Vagn_Top,_Brylle","Vagn Top, Brylle",Det Konservative Folkeparti,10
+Assens,11,Vissenbjerg,"C_Tobias_Bennedsen,_Barløse","Tobias Bennedsen, Barløse",Det Konservative Folkeparti,2
+Assens,11,Vissenbjerg,"C_Lars_Littau_Goldmann,_Haarby","Lars Littau Goldmann, Haarby",Det Konservative Folkeparti,7
+Assens,11,Vissenbjerg,"C_John_Børsting_Mikkelsen,_Helnæs","John Børsting Mikkelsen, Helnæs",Det Konservative Folkeparti,0
+Assens,11,Vissenbjerg,"C_Sofia_Katrine_Svensson,_Tommerup","Sofia Katrine Svensson, Tommerup",Det Konservative Folkeparti,3
+Assens,11,Vissenbjerg,"C_Jesper_Christensen,_Glamsbjerg","Jesper Christensen, Glamsbjerg",Det Konservative Folkeparti,5
+Assens,11,Vissenbjerg,D_Listestemmer,Listestemmer,Nye Borgerlige,62
+Assens,11,Vissenbjerg,D_Lars_S._Lillebæk,Lars S. Lillebæk,Nye Borgerlige,87
+Assens,11,Vissenbjerg,D_Hanne_Knappmann,Hanne Knappmann,Nye Borgerlige,15
+Assens,11,Vissenbjerg,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,36
+Assens,11,Vissenbjerg,"F_Mogens_Mulle_Johansen,_Glamsbjerg","Mogens Mulle Johansen, Glamsbjerg",SF - Socialistisk Folkeparti,19
+Assens,11,Vissenbjerg,"F_Jeanette_Sandberg,_Tommerup_St.","Jeanette Sandberg, Tommerup St.",SF - Socialistisk Folkeparti,50
+Assens,11,Vissenbjerg,"F_Flemming_Risskov_Jørgensen,_Viss.","Flemming Risskov Jørgensen, Viss.",SF - Socialistisk Folkeparti,71
+Assens,11,Vissenbjerg,"F_Poul_Erik_Kristiansen,_Glamsbjerg","Poul Erik Kristiansen, Glamsbjerg",SF - Socialistisk Folkeparti,4
+Assens,11,Vissenbjerg,"F_Mette-Rose_Kongstad,_Glamsbjerg","Mette-Rose Kongstad, Glamsbjerg",SF - Socialistisk Folkeparti,12
+Assens,11,Vissenbjerg,"F_Hans_Peter_Lund,_Tommerup_St.","Hans Peter Lund, Tommerup St.",SF - Socialistisk Folkeparti,4
+Assens,11,Vissenbjerg,"F_Henning_Petersen,_Holte","Henning Petersen, Holte",SF - Socialistisk Folkeparti,1
+Assens,11,Vissenbjerg,"F_Inge_Thorup,_Aarup","Inge Thorup, Aarup",SF - Socialistisk Folkeparti,9
+Assens,11,Vissenbjerg,"F_Hans_Glæsel,_Skalbjerg","Hans Glæsel, Skalbjerg",SF - Socialistisk Folkeparti,0
+Assens,11,Vissenbjerg,"F_Helle_Beierholm,_Assens","Helle Beierholm, Assens",SF - Socialistisk Folkeparti,2
+Assens,11,Vissenbjerg,H_Listestemmer,Listestemmer,SocialKonservative Assens,1
+Assens,11,Vissenbjerg,"H_Jørn_Strand_Nielsen,_Haarby","Jørn Strand Nielsen, Haarby",SocialKonservative Assens,1
+Assens,11,Vissenbjerg,M_Listestemmer,Listestemmer,Vi Lokale Demokrater,0
+Assens,11,Vissenbjerg,"M_Irene_Jeppesen,_Vissenbjerg","Irene Jeppesen, Vissenbjerg",Vi Lokale Demokrater,17
+Assens,11,Vissenbjerg,"M_Benno_Dahl,_Vissenbjerg","Benno Dahl, Vissenbjerg",Vi Lokale Demokrater,19
+Assens,11,Vissenbjerg,O_Listestemmer,Listestemmer,Dansk Folkeparti,43
+Assens,11,Vissenbjerg,O_Jens_Henrik_W._Thulesen_Dahl,Jens Henrik W. Thulesen Dahl,Dansk Folkeparti,58
+Assens,11,Vissenbjerg,O_Lars_Kolling,Lars Kolling,Dansk Folkeparti,35
+Assens,11,Vissenbjerg,O_Bente_S._Rasmussen,Bente S. Rasmussen,Dansk Folkeparti,8
+Assens,11,Vissenbjerg,O_Finn_B._Hansen,Finn B. Hansen,Dansk Folkeparti,6
+Assens,11,Vissenbjerg,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",130
+Assens,11,Vissenbjerg,"V_Søren_Steen_Andersen,_Tommerup","Søren Steen Andersen, Tommerup","Venstre, Danmarks Liberale Parti",384
+Assens,11,Vissenbjerg,"V_Pia_Offer_Madsen,_Glamsbjerg","Pia Offer Madsen, Glamsbjerg","Venstre, Danmarks Liberale Parti",17
+Assens,11,Vissenbjerg,"V_Dan_Gørtz,_Aarup","Dan Gørtz, Aarup","Venstre, Danmarks Liberale Parti",14
+Assens,11,Vissenbjerg,"V_Tine_Grau_Poulsen,_Vissenbjerg","Tine Grau Poulsen, Vissenbjerg","Venstre, Danmarks Liberale Parti",216
+Assens,11,Vissenbjerg,"V_Nikolaj_Leed_Henriksen,_Aarup","Nikolaj Leed Henriksen, Aarup","Venstre, Danmarks Liberale Parti",14
+Assens,11,Vissenbjerg,"V_Bodil_Boesgaard,_Vissenbjerg","Bodil Boesgaard, Vissenbjerg","Venstre, Danmarks Liberale Parti",107
+Assens,11,Vissenbjerg,"V_Jens_Jakobsen,_Haarby","Jens Jakobsen, Haarby","Venstre, Danmarks Liberale Parti",3
+Assens,11,Vissenbjerg,"V_Knud_Søby,_Assens","Knud Søby, Assens","Venstre, Danmarks Liberale Parti",0
+Assens,11,Vissenbjerg,"V_Ole_Maagaard_Pedersen,_Ørsted","Ole Maagaard Pedersen, Ørsted","Venstre, Danmarks Liberale Parti",14
+Assens,11,Vissenbjerg,"V_Rie_Nielsen,_Assens","Rie Nielsen, Assens","Venstre, Danmarks Liberale Parti",4
+Assens,11,Vissenbjerg,"V_Henrik_Kirk,_Vissenbjerg","Henrik Kirk, Vissenbjerg","Venstre, Danmarks Liberale Parti",558
+Assens,11,Vissenbjerg,"V_Camilla_Lykke_Sørensen,_Ebberup","Camilla Lykke Sørensen, Ebberup","Venstre, Danmarks Liberale Parti",6
+Assens,11,Vissenbjerg,"V_Ib_W._Jensen,_Søllested","Ib W. Jensen, Søllested","Venstre, Danmarks Liberale Parti",6
+Assens,11,Vissenbjerg,"V_Henrik_Mott_Frandsen,_Turup","Henrik Mott Frandsen, Turup","Venstre, Danmarks Liberale Parti",5
+Assens,11,Vissenbjerg,"V_Semir_Azet_Sinou,_Assens","Semir Azet Sinou, Assens","Venstre, Danmarks Liberale Parti",2
+Assens,11,Vissenbjerg,"V_Søren_Edlefsen,_Assens","Søren Edlefsen, Assens","Venstre, Danmarks Liberale Parti",1
+Assens,11,Vissenbjerg,"V_Henrik_Jørgensen,_Verninge","Henrik Jørgensen, Verninge","Venstre, Danmarks Liberale Parti",4
+Assens,11,Vissenbjerg,"V_Søren_Fisker_Olesen,_Bred","Søren Fisker Olesen, Bred","Venstre, Danmarks Liberale Parti",6
+Assens,11,Vissenbjerg,"V_Steen-Ove_Teisner,_Flemløse","Steen-Ove Teisner, Flemløse","Venstre, Danmarks Liberale Parti",1
+Assens,11,Vissenbjerg,"V_Lars_Tastum_Madsen,_Tommerup","Lars Tastum Madsen, Tommerup","Venstre, Danmarks Liberale Parti",0
+Assens,11,Vissenbjerg,"V_Camilla_Hedenhoff,_Sø_Søby","Camilla Hedenhoff, Sø Søby","Venstre, Danmarks Liberale Parti",1
+Assens,11,Vissenbjerg,"V_Ulrikka_Brændgaard_Nissen,_Solevad","Ulrikka Brændgaard Nissen, Solevad","Venstre, Danmarks Liberale Parti",5
+Assens,11,Vissenbjerg,"V_Torben_Schadt-Poulsen,_Assens","Torben Schadt-Poulsen, Assens","Venstre, Danmarks Liberale Parti",1
+Assens,11,Vissenbjerg,"V_Peter_Poulsen,_Aarup","Peter Poulsen, Aarup","Venstre, Danmarks Liberale Parti",4
+Assens,11,Vissenbjerg,Z_Listestemmer,Listestemmer,De LokalNationale,2
+Assens,11,Vissenbjerg,Z_Betina_Signe_Christiansen,Betina Signe Christiansen,De LokalNationale,4
+Assens,11,Vissenbjerg,Æ_Listestemmer,Listestemmer,Frihedslisten,3
+Assens,11,Vissenbjerg,"Æ_Millah_Kongsbach,_Assens","Millah Kongsbach, Assens",Frihedslisten,4
+Assens,11,Vissenbjerg,"Æ_John_Boisen,_Glamsbjerg","John Boisen, Glamsbjerg",Frihedslisten,0
+Assens,11,Vissenbjerg,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,52
+Assens,11,Vissenbjerg,"Ø_Kaj_Alstrup,_Assens","Kaj Alstrup, Assens",Enhedslisten - De Rød-Grønne,24
+Assens,11,Vissenbjerg,"Ø_Kirsten_Hofset,_Egemosedam","Kirsten Hofset, Egemosedam",Enhedslisten - De Rød-Grønne,7
+Assens,11,Vissenbjerg,"Ø_Camilla_Reese_Sejerøe,_Skallebølle","Camilla Reese Sejerøe, Skallebølle",Enhedslisten - De Rød-Grønne,19
+Assens,11,Vissenbjerg,"Ø_Rune_Biskopstö_Christensen,_Assens","Rune Biskopstö Christensen, Assens",Enhedslisten - De Rød-Grønne,2
+Assens,11,Vissenbjerg,"Ø_Heidi_C.V._Mørch,_Assens","Heidi C.V. Mørch, Assens",Enhedslisten - De Rød-Grønne,0
+Assens,11,Vissenbjerg,"Ø_Gert_Jacobsen,_Turup","Gert Jacobsen, Turup",Enhedslisten - De Rød-Grønne,6
+Assens,11,Vissenbjerg,"Ø_Line_Mex-Jørgensen,_Skalbjerg","Line Mex-Jørgensen, Skalbjerg",Enhedslisten - De Rød-Grønne,16
+Assens,11,Vissenbjerg,"Ø_Henrik_Frydenborg,_Tommerup","Henrik Frydenborg, Tommerup",Enhedslisten - De Rød-Grønne,8
+Assens,11,Vissenbjerg,Å_Listestemmer,Listestemmer,Alternativet,8
+Assens,11,Vissenbjerg,Å_Ole_Dupont_Kofod,Ole Dupont Kofod,Alternativet,12
+Assens,12,Dreslette/Helnæs,A_Listestemmer,Listestemmer,Socialdemokratiet,40
+Assens,12,Dreslette/Helnæs,"A_Poul-Erik_Svendsen,_Aarup","Poul-Erik Svendsen, Aarup",Socialdemokratiet,14
+Assens,12,Dreslette/Helnæs,"A_Charlotte_Vincent_Petersen,_Tom.St","Charlotte Vincent Petersen, Tom.St",Socialdemokratiet,8
+Assens,12,Dreslette/Helnæs,"A_Sara_Emil_Baaring,_Vissenbjerg","Sara Emil Baaring, Vissenbjerg",Socialdemokratiet,10
+Assens,12,Dreslette/Helnæs,"A_Lone_Akselsen,_Brylle","Lone Akselsen, Brylle",Socialdemokratiet,3
+Assens,12,Dreslette/Helnæs,"A_Ashil_Farokh,_Tommerup_St.","Ashil Farokh, Tommerup St.",Socialdemokratiet,4
+Assens,12,Dreslette/Helnæs,"A_Berit_Schaldemose,_Glamsbjerg","Berit Schaldemose, Glamsbjerg",Socialdemokratiet,6
+Assens,12,Dreslette/Helnæs,"A_Lasse_Tajmer,_Assens","Lasse Tajmer, Assens",Socialdemokratiet,12
+Assens,12,Dreslette/Helnæs,"A_Lars_Søgaard,_Assens","Lars Søgaard, Assens",Socialdemokratiet,0
+Assens,12,Dreslette/Helnæs,"A_Elmer_Philipsen,_Glamsbjerg","Elmer Philipsen, Glamsbjerg",Socialdemokratiet,2
+Assens,12,Dreslette/Helnæs,"A_Henrik_Hansen,_Assens","Henrik Hansen, Assens",Socialdemokratiet,8
+Assens,12,Dreslette/Helnæs,"A_Leif_Rothe_Rasmussen,_Aarup","Leif Rothe Rasmussen, Aarup",Socialdemokratiet,0
+Assens,12,Dreslette/Helnæs,"A_Lone_Hegaard_Andersen,_Brylle","Lone Hegaard Andersen, Brylle",Socialdemokratiet,2
+Assens,12,Dreslette/Helnæs,"A_Poul_Hansen,_Brunshuse","Poul Hansen, Brunshuse",Socialdemokratiet,30
+Assens,12,Dreslette/Helnæs,"A_Mikael_Jensen,_Assens","Mikael Jensen, Assens",Socialdemokratiet,0
+Assens,12,Dreslette/Helnæs,"A_Helge_Kold,_Haarby","Helge Kold, Haarby",Socialdemokratiet,10
+Assens,12,Dreslette/Helnæs,"A_Inga_Jørgensen,_Aarup","Inga Jørgensen, Aarup",Socialdemokratiet,0
+Assens,12,Dreslette/Helnæs,B_Listestemmer,Listestemmer,Radikale Venstre,2
+Assens,12,Dreslette/Helnæs,"B_Poul_Poulsen,_Aarup","Poul Poulsen, Aarup",Radikale Venstre,4
+Assens,12,Dreslette/Helnæs,"B_Rasmus_Dons,_Gummerup","Rasmus Dons, Gummerup",Radikale Venstre,1
+Assens,12,Dreslette/Helnæs,"B_Joy_Christensen,_Assens","Joy Christensen, Assens",Radikale Venstre,1
+Assens,12,Dreslette/Helnæs,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,7
+Assens,12,Dreslette/Helnæs,"C_Søren_Thomsen,_Assens","Søren Thomsen, Assens",Det Konservative Folkeparti,39
+Assens,12,Dreslette/Helnæs,"C_Jim_Staffensen,_Haarby","Jim Staffensen, Haarby",Det Konservative Folkeparti,11
+Assens,12,Dreslette/Helnæs,"C_Natasja_Bruun_Knudsen,_Assens","Natasja Bruun Knudsen, Assens",Det Konservative Folkeparti,0
+Assens,12,Dreslette/Helnæs,"C_Vagn_Top,_Brylle","Vagn Top, Brylle",Det Konservative Folkeparti,2
+Assens,12,Dreslette/Helnæs,"C_Tobias_Bennedsen,_Barløse","Tobias Bennedsen, Barløse",Det Konservative Folkeparti,0
+Assens,12,Dreslette/Helnæs,"C_Lars_Littau_Goldmann,_Haarby","Lars Littau Goldmann, Haarby",Det Konservative Folkeparti,0
+Assens,12,Dreslette/Helnæs,"C_John_Børsting_Mikkelsen,_Helnæs","John Børsting Mikkelsen, Helnæs",Det Konservative Folkeparti,6
+Assens,12,Dreslette/Helnæs,"C_Sofia_Katrine_Svensson,_Tommerup","Sofia Katrine Svensson, Tommerup",Det Konservative Folkeparti,0
+Assens,12,Dreslette/Helnæs,"C_Jesper_Christensen,_Glamsbjerg","Jesper Christensen, Glamsbjerg",Det Konservative Folkeparti,1
+Assens,12,Dreslette/Helnæs,D_Listestemmer,Listestemmer,Nye Borgerlige,5
+Assens,12,Dreslette/Helnæs,D_Lars_S._Lillebæk,Lars S. Lillebæk,Nye Borgerlige,6
+Assens,12,Dreslette/Helnæs,D_Hanne_Knappmann,Hanne Knappmann,Nye Borgerlige,3
+Assens,12,Dreslette/Helnæs,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,10
+Assens,12,Dreslette/Helnæs,"F_Mogens_Mulle_Johansen,_Glamsbjerg","Mogens Mulle Johansen, Glamsbjerg",SF - Socialistisk Folkeparti,12
+Assens,12,Dreslette/Helnæs,"F_Jeanette_Sandberg,_Tommerup_St.","Jeanette Sandberg, Tommerup St.",SF - Socialistisk Folkeparti,9
+Assens,12,Dreslette/Helnæs,"F_Flemming_Risskov_Jørgensen,_Viss.","Flemming Risskov Jørgensen, Viss.",SF - Socialistisk Folkeparti,1
+Assens,12,Dreslette/Helnæs,"F_Poul_Erik_Kristiansen,_Glamsbjerg","Poul Erik Kristiansen, Glamsbjerg",SF - Socialistisk Folkeparti,0
+Assens,12,Dreslette/Helnæs,"F_Mette-Rose_Kongstad,_Glamsbjerg","Mette-Rose Kongstad, Glamsbjerg",SF - Socialistisk Folkeparti,3
+Assens,12,Dreslette/Helnæs,"F_Hans_Peter_Lund,_Tommerup_St.","Hans Peter Lund, Tommerup St.",SF - Socialistisk Folkeparti,0
+Assens,12,Dreslette/Helnæs,"F_Henning_Petersen,_Holte","Henning Petersen, Holte",SF - Socialistisk Folkeparti,1
+Assens,12,Dreslette/Helnæs,"F_Inge_Thorup,_Aarup","Inge Thorup, Aarup",SF - Socialistisk Folkeparti,0
+Assens,12,Dreslette/Helnæs,"F_Hans_Glæsel,_Skalbjerg","Hans Glæsel, Skalbjerg",SF - Socialistisk Folkeparti,0
+Assens,12,Dreslette/Helnæs,"F_Helle_Beierholm,_Assens","Helle Beierholm, Assens",SF - Socialistisk Folkeparti,2
+Assens,12,Dreslette/Helnæs,H_Listestemmer,Listestemmer,SocialKonservative Assens,0
+Assens,12,Dreslette/Helnæs,"H_Jørn_Strand_Nielsen,_Haarby","Jørn Strand Nielsen, Haarby",SocialKonservative Assens,0
+Assens,12,Dreslette/Helnæs,M_Listestemmer,Listestemmer,Vi Lokale Demokrater,0
+Assens,12,Dreslette/Helnæs,"M_Irene_Jeppesen,_Vissenbjerg","Irene Jeppesen, Vissenbjerg",Vi Lokale Demokrater,0
+Assens,12,Dreslette/Helnæs,"M_Benno_Dahl,_Vissenbjerg","Benno Dahl, Vissenbjerg",Vi Lokale Demokrater,0
+Assens,12,Dreslette/Helnæs,O_Listestemmer,Listestemmer,Dansk Folkeparti,8
+Assens,12,Dreslette/Helnæs,O_Jens_Henrik_W._Thulesen_Dahl,Jens Henrik W. Thulesen Dahl,Dansk Folkeparti,10
+Assens,12,Dreslette/Helnæs,O_Lars_Kolling,Lars Kolling,Dansk Folkeparti,9
+Assens,12,Dreslette/Helnæs,O_Bente_S._Rasmussen,Bente S. Rasmussen,Dansk Folkeparti,1
+Assens,12,Dreslette/Helnæs,O_Finn_B._Hansen,Finn B. Hansen,Dansk Folkeparti,1
+Assens,12,Dreslette/Helnæs,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",13
+Assens,12,Dreslette/Helnæs,"V_Søren_Steen_Andersen,_Tommerup","Søren Steen Andersen, Tommerup","Venstre, Danmarks Liberale Parti",162
+Assens,12,Dreslette/Helnæs,"V_Pia_Offer_Madsen,_Glamsbjerg","Pia Offer Madsen, Glamsbjerg","Venstre, Danmarks Liberale Parti",15
+Assens,12,Dreslette/Helnæs,"V_Dan_Gørtz,_Aarup","Dan Gørtz, Aarup","Venstre, Danmarks Liberale Parti",1
+Assens,12,Dreslette/Helnæs,"V_Tine_Grau_Poulsen,_Vissenbjerg","Tine Grau Poulsen, Vissenbjerg","Venstre, Danmarks Liberale Parti",4
+Assens,12,Dreslette/Helnæs,"V_Nikolaj_Leed_Henriksen,_Aarup","Nikolaj Leed Henriksen, Aarup","Venstre, Danmarks Liberale Parti",1
+Assens,12,Dreslette/Helnæs,"V_Bodil_Boesgaard,_Vissenbjerg","Bodil Boesgaard, Vissenbjerg","Venstre, Danmarks Liberale Parti",1
+Assens,12,Dreslette/Helnæs,"V_Jens_Jakobsen,_Haarby","Jens Jakobsen, Haarby","Venstre, Danmarks Liberale Parti",52
+Assens,12,Dreslette/Helnæs,"V_Knud_Søby,_Assens","Knud Søby, Assens","Venstre, Danmarks Liberale Parti",4
+Assens,12,Dreslette/Helnæs,"V_Ole_Maagaard_Pedersen,_Ørsted","Ole Maagaard Pedersen, Ørsted","Venstre, Danmarks Liberale Parti",3
+Assens,12,Dreslette/Helnæs,"V_Rie_Nielsen,_Assens","Rie Nielsen, Assens","Venstre, Danmarks Liberale Parti",4
+Assens,12,Dreslette/Helnæs,"V_Henrik_Kirk,_Vissenbjerg","Henrik Kirk, Vissenbjerg","Venstre, Danmarks Liberale Parti",0
+Assens,12,Dreslette/Helnæs,"V_Camilla_Lykke_Sørensen,_Ebberup","Camilla Lykke Sørensen, Ebberup","Venstre, Danmarks Liberale Parti",20
+Assens,12,Dreslette/Helnæs,"V_Ib_W._Jensen,_Søllested","Ib W. Jensen, Søllested","Venstre, Danmarks Liberale Parti",16
+Assens,12,Dreslette/Helnæs,"V_Henrik_Mott_Frandsen,_Turup","Henrik Mott Frandsen, Turup","Venstre, Danmarks Liberale Parti",0
+Assens,12,Dreslette/Helnæs,"V_Semir_Azet_Sinou,_Assens","Semir Azet Sinou, Assens","Venstre, Danmarks Liberale Parti",3
+Assens,12,Dreslette/Helnæs,"V_Søren_Edlefsen,_Assens","Søren Edlefsen, Assens","Venstre, Danmarks Liberale Parti",0
+Assens,12,Dreslette/Helnæs,"V_Henrik_Jørgensen,_Verninge","Henrik Jørgensen, Verninge","Venstre, Danmarks Liberale Parti",0
+Assens,12,Dreslette/Helnæs,"V_Søren_Fisker_Olesen,_Bred","Søren Fisker Olesen, Bred","Venstre, Danmarks Liberale Parti",0
+Assens,12,Dreslette/Helnæs,"V_Steen-Ove_Teisner,_Flemløse","Steen-Ove Teisner, Flemløse","Venstre, Danmarks Liberale Parti",1
+Assens,12,Dreslette/Helnæs,"V_Lars_Tastum_Madsen,_Tommerup","Lars Tastum Madsen, Tommerup","Venstre, Danmarks Liberale Parti",0
+Assens,12,Dreslette/Helnæs,"V_Camilla_Hedenhoff,_Sø_Søby","Camilla Hedenhoff, Sø Søby","Venstre, Danmarks Liberale Parti",1
+Assens,12,Dreslette/Helnæs,"V_Ulrikka_Brændgaard_Nissen,_Solevad","Ulrikka Brændgaard Nissen, Solevad","Venstre, Danmarks Liberale Parti",0
+Assens,12,Dreslette/Helnæs,"V_Torben_Schadt-Poulsen,_Assens","Torben Schadt-Poulsen, Assens","Venstre, Danmarks Liberale Parti",1
+Assens,12,Dreslette/Helnæs,"V_Peter_Poulsen,_Aarup","Peter Poulsen, Aarup","Venstre, Danmarks Liberale Parti",1
+Assens,12,Dreslette/Helnæs,Z_Listestemmer,Listestemmer,De LokalNationale,0
+Assens,12,Dreslette/Helnæs,Z_Betina_Signe_Christiansen,Betina Signe Christiansen,De LokalNationale,1
+Assens,12,Dreslette/Helnæs,Æ_Listestemmer,Listestemmer,Frihedslisten,2
+Assens,12,Dreslette/Helnæs,"Æ_Millah_Kongsbach,_Assens","Millah Kongsbach, Assens",Frihedslisten,1
+Assens,12,Dreslette/Helnæs,"Æ_John_Boisen,_Glamsbjerg","John Boisen, Glamsbjerg",Frihedslisten,0
+Assens,12,Dreslette/Helnæs,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,9
+Assens,12,Dreslette/Helnæs,"Ø_Kaj_Alstrup,_Assens","Kaj Alstrup, Assens",Enhedslisten - De Rød-Grønne,2
+Assens,12,Dreslette/Helnæs,"Ø_Kirsten_Hofset,_Egemosedam","Kirsten Hofset, Egemosedam",Enhedslisten - De Rød-Grønne,7
+Assens,12,Dreslette/Helnæs,"Ø_Camilla_Reese_Sejerøe,_Skallebølle","Camilla Reese Sejerøe, Skallebølle",Enhedslisten - De Rød-Grønne,0
+Assens,12,Dreslette/Helnæs,"Ø_Rune_Biskopstö_Christensen,_Assens","Rune Biskopstö Christensen, Assens",Enhedslisten - De Rød-Grønne,0
+Assens,12,Dreslette/Helnæs,"Ø_Heidi_C.V._Mørch,_Assens","Heidi C.V. Mørch, Assens",Enhedslisten - De Rød-Grønne,1
+Assens,12,Dreslette/Helnæs,"Ø_Gert_Jacobsen,_Turup","Gert Jacobsen, Turup",Enhedslisten - De Rød-Grønne,1
+Assens,12,Dreslette/Helnæs,"Ø_Line_Mex-Jørgensen,_Skalbjerg","Line Mex-Jørgensen, Skalbjerg",Enhedslisten - De Rød-Grønne,2
+Assens,12,Dreslette/Helnæs,"Ø_Henrik_Frydenborg,_Tommerup","Henrik Frydenborg, Tommerup",Enhedslisten - De Rød-Grønne,1
+Assens,12,Dreslette/Helnæs,Å_Listestemmer,Listestemmer,Alternativet,0
+Assens,12,Dreslette/Helnæs,Å_Ole_Dupont_Kofod,Ole Dupont Kofod,Alternativet,5
+Assens,13,Haarby,A_Listestemmer,Listestemmer,Socialdemokratiet,146
+Assens,13,Haarby,"A_Poul-Erik_Svendsen,_Aarup","Poul-Erik Svendsen, Aarup",Socialdemokratiet,61
+Assens,13,Haarby,"A_Charlotte_Vincent_Petersen,_Tom.St","Charlotte Vincent Petersen, Tom.St",Socialdemokratiet,21
+Assens,13,Haarby,"A_Sara_Emil_Baaring,_Vissenbjerg","Sara Emil Baaring, Vissenbjerg",Socialdemokratiet,21
+Assens,13,Haarby,"A_Lone_Akselsen,_Brylle","Lone Akselsen, Brylle",Socialdemokratiet,8
+Assens,13,Haarby,"A_Ashil_Farokh,_Tommerup_St.","Ashil Farokh, Tommerup St.",Socialdemokratiet,6
+Assens,13,Haarby,"A_Berit_Schaldemose,_Glamsbjerg","Berit Schaldemose, Glamsbjerg",Socialdemokratiet,26
+Assens,13,Haarby,"A_Lasse_Tajmer,_Assens","Lasse Tajmer, Assens",Socialdemokratiet,6
+Assens,13,Haarby,"A_Lars_Søgaard,_Assens","Lars Søgaard, Assens",Socialdemokratiet,4
+Assens,13,Haarby,"A_Elmer_Philipsen,_Glamsbjerg","Elmer Philipsen, Glamsbjerg",Socialdemokratiet,15
+Assens,13,Haarby,"A_Henrik_Hansen,_Assens","Henrik Hansen, Assens",Socialdemokratiet,1
+Assens,13,Haarby,"A_Leif_Rothe_Rasmussen,_Aarup","Leif Rothe Rasmussen, Aarup",Socialdemokratiet,3
+Assens,13,Haarby,"A_Lone_Hegaard_Andersen,_Brylle","Lone Hegaard Andersen, Brylle",Socialdemokratiet,8
+Assens,13,Haarby,"A_Poul_Hansen,_Brunshuse","Poul Hansen, Brunshuse",Socialdemokratiet,13
+Assens,13,Haarby,"A_Mikael_Jensen,_Assens","Mikael Jensen, Assens",Socialdemokratiet,1
+Assens,13,Haarby,"A_Helge_Kold,_Haarby","Helge Kold, Haarby",Socialdemokratiet,174
+Assens,13,Haarby,"A_Inga_Jørgensen,_Aarup","Inga Jørgensen, Aarup",Socialdemokratiet,0
+Assens,13,Haarby,B_Listestemmer,Listestemmer,Radikale Venstre,5
+Assens,13,Haarby,"B_Poul_Poulsen,_Aarup","Poul Poulsen, Aarup",Radikale Venstre,5
+Assens,13,Haarby,"B_Rasmus_Dons,_Gummerup","Rasmus Dons, Gummerup",Radikale Venstre,6
+Assens,13,Haarby,"B_Joy_Christensen,_Assens","Joy Christensen, Assens",Radikale Venstre,2
+Assens,13,Haarby,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,14
+Assens,13,Haarby,"C_Søren_Thomsen,_Assens","Søren Thomsen, Assens",Det Konservative Folkeparti,109
+Assens,13,Haarby,"C_Jim_Staffensen,_Haarby","Jim Staffensen, Haarby",Det Konservative Folkeparti,50
+Assens,13,Haarby,"C_Natasja_Bruun_Knudsen,_Assens","Natasja Bruun Knudsen, Assens",Det Konservative Folkeparti,5
+Assens,13,Haarby,"C_Vagn_Top,_Brylle","Vagn Top, Brylle",Det Konservative Folkeparti,0
+Assens,13,Haarby,"C_Tobias_Bennedsen,_Barløse","Tobias Bennedsen, Barløse",Det Konservative Folkeparti,1
+Assens,13,Haarby,"C_Lars_Littau_Goldmann,_Haarby","Lars Littau Goldmann, Haarby",Det Konservative Folkeparti,24
+Assens,13,Haarby,"C_John_Børsting_Mikkelsen,_Helnæs","John Børsting Mikkelsen, Helnæs",Det Konservative Folkeparti,0
+Assens,13,Haarby,"C_Sofia_Katrine_Svensson,_Tommerup","Sofia Katrine Svensson, Tommerup",Det Konservative Folkeparti,2
+Assens,13,Haarby,"C_Jesper_Christensen,_Glamsbjerg","Jesper Christensen, Glamsbjerg",Det Konservative Folkeparti,4
+Assens,13,Haarby,D_Listestemmer,Listestemmer,Nye Borgerlige,25
+Assens,13,Haarby,D_Lars_S._Lillebæk,Lars S. Lillebæk,Nye Borgerlige,31
+Assens,13,Haarby,D_Hanne_Knappmann,Hanne Knappmann,Nye Borgerlige,7
+Assens,13,Haarby,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,15
+Assens,13,Haarby,"F_Mogens_Mulle_Johansen,_Glamsbjerg","Mogens Mulle Johansen, Glamsbjerg",SF - Socialistisk Folkeparti,13
+Assens,13,Haarby,"F_Jeanette_Sandberg,_Tommerup_St.","Jeanette Sandberg, Tommerup St.",SF - Socialistisk Folkeparti,24
+Assens,13,Haarby,"F_Flemming_Risskov_Jørgensen,_Viss.","Flemming Risskov Jørgensen, Viss.",SF - Socialistisk Folkeparti,1
+Assens,13,Haarby,"F_Poul_Erik_Kristiansen,_Glamsbjerg","Poul Erik Kristiansen, Glamsbjerg",SF - Socialistisk Folkeparti,2
+Assens,13,Haarby,"F_Mette-Rose_Kongstad,_Glamsbjerg","Mette-Rose Kongstad, Glamsbjerg",SF - Socialistisk Folkeparti,10
+Assens,13,Haarby,"F_Hans_Peter_Lund,_Tommerup_St.","Hans Peter Lund, Tommerup St.",SF - Socialistisk Folkeparti,0
+Assens,13,Haarby,"F_Henning_Petersen,_Holte","Henning Petersen, Holte",SF - Socialistisk Folkeparti,2
+Assens,13,Haarby,"F_Inge_Thorup,_Aarup","Inge Thorup, Aarup",SF - Socialistisk Folkeparti,0
+Assens,13,Haarby,"F_Hans_Glæsel,_Skalbjerg","Hans Glæsel, Skalbjerg",SF - Socialistisk Folkeparti,0
+Assens,13,Haarby,"F_Helle_Beierholm,_Assens","Helle Beierholm, Assens",SF - Socialistisk Folkeparti,1
+Assens,13,Haarby,H_Listestemmer,Listestemmer,SocialKonservative Assens,0
+Assens,13,Haarby,"H_Jørn_Strand_Nielsen,_Haarby","Jørn Strand Nielsen, Haarby",SocialKonservative Assens,3
+Assens,13,Haarby,M_Listestemmer,Listestemmer,Vi Lokale Demokrater,0
+Assens,13,Haarby,"M_Irene_Jeppesen,_Vissenbjerg","Irene Jeppesen, Vissenbjerg",Vi Lokale Demokrater,2
+Assens,13,Haarby,"M_Benno_Dahl,_Vissenbjerg","Benno Dahl, Vissenbjerg",Vi Lokale Demokrater,0
+Assens,13,Haarby,O_Listestemmer,Listestemmer,Dansk Folkeparti,20
+Assens,13,Haarby,O_Jens_Henrik_W._Thulesen_Dahl,Jens Henrik W. Thulesen Dahl,Dansk Folkeparti,32
+Assens,13,Haarby,O_Lars_Kolling,Lars Kolling,Dansk Folkeparti,25
+Assens,13,Haarby,O_Bente_S._Rasmussen,Bente S. Rasmussen,Dansk Folkeparti,1
+Assens,13,Haarby,O_Finn_B._Hansen,Finn B. Hansen,Dansk Folkeparti,2
+Assens,13,Haarby,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",69
+Assens,13,Haarby,"V_Søren_Steen_Andersen,_Tommerup","Søren Steen Andersen, Tommerup","Venstre, Danmarks Liberale Parti",244
+Assens,13,Haarby,"V_Pia_Offer_Madsen,_Glamsbjerg","Pia Offer Madsen, Glamsbjerg","Venstre, Danmarks Liberale Parti",89
+Assens,13,Haarby,"V_Dan_Gørtz,_Aarup","Dan Gørtz, Aarup","Venstre, Danmarks Liberale Parti",0
+Assens,13,Haarby,"V_Tine_Grau_Poulsen,_Vissenbjerg","Tine Grau Poulsen, Vissenbjerg","Venstre, Danmarks Liberale Parti",4
+Assens,13,Haarby,"V_Nikolaj_Leed_Henriksen,_Aarup","Nikolaj Leed Henriksen, Aarup","Venstre, Danmarks Liberale Parti",5
+Assens,13,Haarby,"V_Bodil_Boesgaard,_Vissenbjerg","Bodil Boesgaard, Vissenbjerg","Venstre, Danmarks Liberale Parti",1
+Assens,13,Haarby,"V_Jens_Jakobsen,_Haarby","Jens Jakobsen, Haarby","Venstre, Danmarks Liberale Parti",403
+Assens,13,Haarby,"V_Knud_Søby,_Assens","Knud Søby, Assens","Venstre, Danmarks Liberale Parti",1
+Assens,13,Haarby,"V_Ole_Maagaard_Pedersen,_Ørsted","Ole Maagaard Pedersen, Ørsted","Venstre, Danmarks Liberale Parti",0
+Assens,13,Haarby,"V_Rie_Nielsen,_Assens","Rie Nielsen, Assens","Venstre, Danmarks Liberale Parti",3
+Assens,13,Haarby,"V_Henrik_Kirk,_Vissenbjerg","Henrik Kirk, Vissenbjerg","Venstre, Danmarks Liberale Parti",0
+Assens,13,Haarby,"V_Camilla_Lykke_Sørensen,_Ebberup","Camilla Lykke Sørensen, Ebberup","Venstre, Danmarks Liberale Parti",11
+Assens,13,Haarby,"V_Ib_W._Jensen,_Søllested","Ib W. Jensen, Søllested","Venstre, Danmarks Liberale Parti",5
+Assens,13,Haarby,"V_Henrik_Mott_Frandsen,_Turup","Henrik Mott Frandsen, Turup","Venstre, Danmarks Liberale Parti",2
+Assens,13,Haarby,"V_Semir_Azet_Sinou,_Assens","Semir Azet Sinou, Assens","Venstre, Danmarks Liberale Parti",2
+Assens,13,Haarby,"V_Søren_Edlefsen,_Assens","Søren Edlefsen, Assens","Venstre, Danmarks Liberale Parti",1
+Assens,13,Haarby,"V_Henrik_Jørgensen,_Verninge","Henrik Jørgensen, Verninge","Venstre, Danmarks Liberale Parti",1
+Assens,13,Haarby,"V_Søren_Fisker_Olesen,_Bred","Søren Fisker Olesen, Bred","Venstre, Danmarks Liberale Parti",0
+Assens,13,Haarby,"V_Steen-Ove_Teisner,_Flemløse","Steen-Ove Teisner, Flemløse","Venstre, Danmarks Liberale Parti",0
+Assens,13,Haarby,"V_Lars_Tastum_Madsen,_Tommerup","Lars Tastum Madsen, Tommerup","Venstre, Danmarks Liberale Parti",0
+Assens,13,Haarby,"V_Camilla_Hedenhoff,_Sø_Søby","Camilla Hedenhoff, Sø Søby","Venstre, Danmarks Liberale Parti",0
+Assens,13,Haarby,"V_Ulrikka_Brændgaard_Nissen,_Solevad","Ulrikka Brændgaard Nissen, Solevad","Venstre, Danmarks Liberale Parti",4
+Assens,13,Haarby,"V_Torben_Schadt-Poulsen,_Assens","Torben Schadt-Poulsen, Assens","Venstre, Danmarks Liberale Parti",2
+Assens,13,Haarby,"V_Peter_Poulsen,_Aarup","Peter Poulsen, Aarup","Venstre, Danmarks Liberale Parti",0
+Assens,13,Haarby,Z_Listestemmer,Listestemmer,De LokalNationale,1
+Assens,13,Haarby,Z_Betina_Signe_Christiansen,Betina Signe Christiansen,De LokalNationale,2
+Assens,13,Haarby,Æ_Listestemmer,Listestemmer,Frihedslisten,3
+Assens,13,Haarby,"Æ_Millah_Kongsbach,_Assens","Millah Kongsbach, Assens",Frihedslisten,1
+Assens,13,Haarby,"Æ_John_Boisen,_Glamsbjerg","John Boisen, Glamsbjerg",Frihedslisten,0
+Assens,13,Haarby,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,21
+Assens,13,Haarby,"Ø_Kaj_Alstrup,_Assens","Kaj Alstrup, Assens",Enhedslisten - De Rød-Grønne,5
+Assens,13,Haarby,"Ø_Kirsten_Hofset,_Egemosedam","Kirsten Hofset, Egemosedam",Enhedslisten - De Rød-Grønne,1
+Assens,13,Haarby,"Ø_Camilla_Reese_Sejerøe,_Skallebølle","Camilla Reese Sejerøe, Skallebølle",Enhedslisten - De Rød-Grønne,2
+Assens,13,Haarby,"Ø_Rune_Biskopstö_Christensen,_Assens","Rune Biskopstö Christensen, Assens",Enhedslisten - De Rød-Grønne,1
+Assens,13,Haarby,"Ø_Heidi_C.V._Mørch,_Assens","Heidi C.V. Mørch, Assens",Enhedslisten - De Rød-Grønne,0
+Assens,13,Haarby,"Ø_Gert_Jacobsen,_Turup","Gert Jacobsen, Turup",Enhedslisten - De Rød-Grønne,0
+Assens,13,Haarby,"Ø_Line_Mex-Jørgensen,_Skalbjerg","Line Mex-Jørgensen, Skalbjerg",Enhedslisten - De Rød-Grønne,0
+Assens,13,Haarby,"Ø_Henrik_Frydenborg,_Tommerup","Henrik Frydenborg, Tommerup",Enhedslisten - De Rød-Grønne,0
+Assens,13,Haarby,Å_Listestemmer,Listestemmer,Alternativet,1
+Assens,13,Haarby,Å_Ole_Dupont_Kofod,Ole Dupont Kofod,Alternativet,1
+Assens,14,Jordløse,A_Listestemmer,Listestemmer,Socialdemokratiet,25
+Assens,14,Jordløse,"A_Poul-Erik_Svendsen,_Aarup","Poul-Erik Svendsen, Aarup",Socialdemokratiet,6
+Assens,14,Jordløse,"A_Charlotte_Vincent_Petersen,_Tom.St","Charlotte Vincent Petersen, Tom.St",Socialdemokratiet,2
+Assens,14,Jordløse,"A_Sara_Emil_Baaring,_Vissenbjerg","Sara Emil Baaring, Vissenbjerg",Socialdemokratiet,4
+Assens,14,Jordløse,"A_Lone_Akselsen,_Brylle","Lone Akselsen, Brylle",Socialdemokratiet,4
+Assens,14,Jordløse,"A_Ashil_Farokh,_Tommerup_St.","Ashil Farokh, Tommerup St.",Socialdemokratiet,0
+Assens,14,Jordløse,"A_Berit_Schaldemose,_Glamsbjerg","Berit Schaldemose, Glamsbjerg",Socialdemokratiet,5
+Assens,14,Jordløse,"A_Lasse_Tajmer,_Assens","Lasse Tajmer, Assens",Socialdemokratiet,2
+Assens,14,Jordløse,"A_Lars_Søgaard,_Assens","Lars Søgaard, Assens",Socialdemokratiet,3
+Assens,14,Jordløse,"A_Elmer_Philipsen,_Glamsbjerg","Elmer Philipsen, Glamsbjerg",Socialdemokratiet,2
+Assens,14,Jordløse,"A_Henrik_Hansen,_Assens","Henrik Hansen, Assens",Socialdemokratiet,1
+Assens,14,Jordløse,"A_Leif_Rothe_Rasmussen,_Aarup","Leif Rothe Rasmussen, Aarup",Socialdemokratiet,0
+Assens,14,Jordløse,"A_Lone_Hegaard_Andersen,_Brylle","Lone Hegaard Andersen, Brylle",Socialdemokratiet,0
+Assens,14,Jordløse,"A_Poul_Hansen,_Brunshuse","Poul Hansen, Brunshuse",Socialdemokratiet,4
+Assens,14,Jordløse,"A_Mikael_Jensen,_Assens","Mikael Jensen, Assens",Socialdemokratiet,1
+Assens,14,Jordløse,"A_Helge_Kold,_Haarby","Helge Kold, Haarby",Socialdemokratiet,19
+Assens,14,Jordløse,"A_Inga_Jørgensen,_Aarup","Inga Jørgensen, Aarup",Socialdemokratiet,0
+Assens,14,Jordløse,B_Listestemmer,Listestemmer,Radikale Venstre,1
+Assens,14,Jordløse,"B_Poul_Poulsen,_Aarup","Poul Poulsen, Aarup",Radikale Venstre,10
+Assens,14,Jordløse,"B_Rasmus_Dons,_Gummerup","Rasmus Dons, Gummerup",Radikale Venstre,0
+Assens,14,Jordløse,"B_Joy_Christensen,_Assens","Joy Christensen, Assens",Radikale Venstre,0
+Assens,14,Jordløse,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,10
+Assens,14,Jordløse,"C_Søren_Thomsen,_Assens","Søren Thomsen, Assens",Det Konservative Folkeparti,8
+Assens,14,Jordløse,"C_Jim_Staffensen,_Haarby","Jim Staffensen, Haarby",Det Konservative Folkeparti,21
+Assens,14,Jordløse,"C_Natasja_Bruun_Knudsen,_Assens","Natasja Bruun Knudsen, Assens",Det Konservative Folkeparti,1
+Assens,14,Jordløse,"C_Vagn_Top,_Brylle","Vagn Top, Brylle",Det Konservative Folkeparti,1
+Assens,14,Jordløse,"C_Tobias_Bennedsen,_Barløse","Tobias Bennedsen, Barløse",Det Konservative Folkeparti,0
+Assens,14,Jordløse,"C_Lars_Littau_Goldmann,_Haarby","Lars Littau Goldmann, Haarby",Det Konservative Folkeparti,0
+Assens,14,Jordløse,"C_John_Børsting_Mikkelsen,_Helnæs","John Børsting Mikkelsen, Helnæs",Det Konservative Folkeparti,0
+Assens,14,Jordløse,"C_Sofia_Katrine_Svensson,_Tommerup","Sofia Katrine Svensson, Tommerup",Det Konservative Folkeparti,0
+Assens,14,Jordløse,"C_Jesper_Christensen,_Glamsbjerg","Jesper Christensen, Glamsbjerg",Det Konservative Folkeparti,1
+Assens,14,Jordløse,D_Listestemmer,Listestemmer,Nye Borgerlige,9
+Assens,14,Jordløse,D_Lars_S._Lillebæk,Lars S. Lillebæk,Nye Borgerlige,5
+Assens,14,Jordløse,D_Hanne_Knappmann,Hanne Knappmann,Nye Borgerlige,2
+Assens,14,Jordløse,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,8
+Assens,14,Jordløse,"F_Mogens_Mulle_Johansen,_Glamsbjerg","Mogens Mulle Johansen, Glamsbjerg",SF - Socialistisk Folkeparti,0
+Assens,14,Jordløse,"F_Jeanette_Sandberg,_Tommerup_St.","Jeanette Sandberg, Tommerup St.",SF - Socialistisk Folkeparti,4
+Assens,14,Jordløse,"F_Flemming_Risskov_Jørgensen,_Viss.","Flemming Risskov Jørgensen, Viss.",SF - Socialistisk Folkeparti,1
+Assens,14,Jordløse,"F_Poul_Erik_Kristiansen,_Glamsbjerg","Poul Erik Kristiansen, Glamsbjerg",SF - Socialistisk Folkeparti,0
+Assens,14,Jordløse,"F_Mette-Rose_Kongstad,_Glamsbjerg","Mette-Rose Kongstad, Glamsbjerg",SF - Socialistisk Folkeparti,2
+Assens,14,Jordløse,"F_Hans_Peter_Lund,_Tommerup_St.","Hans Peter Lund, Tommerup St.",SF - Socialistisk Folkeparti,0
+Assens,14,Jordløse,"F_Henning_Petersen,_Holte","Henning Petersen, Holte",SF - Socialistisk Folkeparti,0
+Assens,14,Jordløse,"F_Inge_Thorup,_Aarup","Inge Thorup, Aarup",SF - Socialistisk Folkeparti,0
+Assens,14,Jordløse,"F_Hans_Glæsel,_Skalbjerg","Hans Glæsel, Skalbjerg",SF - Socialistisk Folkeparti,0
+Assens,14,Jordløse,"F_Helle_Beierholm,_Assens","Helle Beierholm, Assens",SF - Socialistisk Folkeparti,0
+Assens,14,Jordløse,H_Listestemmer,Listestemmer,SocialKonservative Assens,0
+Assens,14,Jordløse,"H_Jørn_Strand_Nielsen,_Haarby","Jørn Strand Nielsen, Haarby",SocialKonservative Assens,0
+Assens,14,Jordløse,M_Listestemmer,Listestemmer,Vi Lokale Demokrater,0
+Assens,14,Jordløse,"M_Irene_Jeppesen,_Vissenbjerg","Irene Jeppesen, Vissenbjerg",Vi Lokale Demokrater,0
+Assens,14,Jordløse,"M_Benno_Dahl,_Vissenbjerg","Benno Dahl, Vissenbjerg",Vi Lokale Demokrater,0
+Assens,14,Jordløse,O_Listestemmer,Listestemmer,Dansk Folkeparti,9
+Assens,14,Jordløse,O_Jens_Henrik_W._Thulesen_Dahl,Jens Henrik W. Thulesen Dahl,Dansk Folkeparti,7
+Assens,14,Jordløse,O_Lars_Kolling,Lars Kolling,Dansk Folkeparti,5
+Assens,14,Jordløse,O_Bente_S._Rasmussen,Bente S. Rasmussen,Dansk Folkeparti,2
+Assens,14,Jordløse,O_Finn_B._Hansen,Finn B. Hansen,Dansk Folkeparti,0
+Assens,14,Jordløse,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",15
+Assens,14,Jordløse,"V_Søren_Steen_Andersen,_Tommerup","Søren Steen Andersen, Tommerup","Venstre, Danmarks Liberale Parti",61
+Assens,14,Jordløse,"V_Pia_Offer_Madsen,_Glamsbjerg","Pia Offer Madsen, Glamsbjerg","Venstre, Danmarks Liberale Parti",13
+Assens,14,Jordløse,"V_Dan_Gørtz,_Aarup","Dan Gørtz, Aarup","Venstre, Danmarks Liberale Parti",2
+Assens,14,Jordløse,"V_Tine_Grau_Poulsen,_Vissenbjerg","Tine Grau Poulsen, Vissenbjerg","Venstre, Danmarks Liberale Parti",0
+Assens,14,Jordløse,"V_Nikolaj_Leed_Henriksen,_Aarup","Nikolaj Leed Henriksen, Aarup","Venstre, Danmarks Liberale Parti",0
+Assens,14,Jordløse,"V_Bodil_Boesgaard,_Vissenbjerg","Bodil Boesgaard, Vissenbjerg","Venstre, Danmarks Liberale Parti",0
+Assens,14,Jordløse,"V_Jens_Jakobsen,_Haarby","Jens Jakobsen, Haarby","Venstre, Danmarks Liberale Parti",46
+Assens,14,Jordløse,"V_Knud_Søby,_Assens","Knud Søby, Assens","Venstre, Danmarks Liberale Parti",0
+Assens,14,Jordløse,"V_Ole_Maagaard_Pedersen,_Ørsted","Ole Maagaard Pedersen, Ørsted","Venstre, Danmarks Liberale Parti",1
+Assens,14,Jordløse,"V_Rie_Nielsen,_Assens","Rie Nielsen, Assens","Venstre, Danmarks Liberale Parti",1
+Assens,14,Jordløse,"V_Henrik_Kirk,_Vissenbjerg","Henrik Kirk, Vissenbjerg","Venstre, Danmarks Liberale Parti",1
+Assens,14,Jordløse,"V_Camilla_Lykke_Sørensen,_Ebberup","Camilla Lykke Sørensen, Ebberup","Venstre, Danmarks Liberale Parti",2
+Assens,14,Jordløse,"V_Ib_W._Jensen,_Søllested","Ib W. Jensen, Søllested","Venstre, Danmarks Liberale Parti",0
+Assens,14,Jordløse,"V_Henrik_Mott_Frandsen,_Turup","Henrik Mott Frandsen, Turup","Venstre, Danmarks Liberale Parti",0
+Assens,14,Jordløse,"V_Semir_Azet_Sinou,_Assens","Semir Azet Sinou, Assens","Venstre, Danmarks Liberale Parti",1
+Assens,14,Jordløse,"V_Søren_Edlefsen,_Assens","Søren Edlefsen, Assens","Venstre, Danmarks Liberale Parti",0
+Assens,14,Jordløse,"V_Henrik_Jørgensen,_Verninge","Henrik Jørgensen, Verninge","Venstre, Danmarks Liberale Parti",0
+Assens,14,Jordløse,"V_Søren_Fisker_Olesen,_Bred","Søren Fisker Olesen, Bred","Venstre, Danmarks Liberale Parti",0
+Assens,14,Jordløse,"V_Steen-Ove_Teisner,_Flemløse","Steen-Ove Teisner, Flemløse","Venstre, Danmarks Liberale Parti",0
+Assens,14,Jordløse,"V_Lars_Tastum_Madsen,_Tommerup","Lars Tastum Madsen, Tommerup","Venstre, Danmarks Liberale Parti",0
+Assens,14,Jordløse,"V_Camilla_Hedenhoff,_Sø_Søby","Camilla Hedenhoff, Sø Søby","Venstre, Danmarks Liberale Parti",0
+Assens,14,Jordløse,"V_Ulrikka_Brændgaard_Nissen,_Solevad","Ulrikka Brændgaard Nissen, Solevad","Venstre, Danmarks Liberale Parti",0
+Assens,14,Jordløse,"V_Torben_Schadt-Poulsen,_Assens","Torben Schadt-Poulsen, Assens","Venstre, Danmarks Liberale Parti",0
+Assens,14,Jordløse,"V_Peter_Poulsen,_Aarup","Peter Poulsen, Aarup","Venstre, Danmarks Liberale Parti",0
+Assens,14,Jordløse,Z_Listestemmer,Listestemmer,De LokalNationale,0
+Assens,14,Jordløse,Z_Betina_Signe_Christiansen,Betina Signe Christiansen,De LokalNationale,0
+Assens,14,Jordløse,Æ_Listestemmer,Listestemmer,Frihedslisten,1
+Assens,14,Jordløse,"Æ_Millah_Kongsbach,_Assens","Millah Kongsbach, Assens",Frihedslisten,2
+Assens,14,Jordløse,"Æ_John_Boisen,_Glamsbjerg","John Boisen, Glamsbjerg",Frihedslisten,0
+Assens,14,Jordløse,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,12
+Assens,14,Jordløse,"Ø_Kaj_Alstrup,_Assens","Kaj Alstrup, Assens",Enhedslisten - De Rød-Grønne,10
+Assens,14,Jordløse,"Ø_Kirsten_Hofset,_Egemosedam","Kirsten Hofset, Egemosedam",Enhedslisten - De Rød-Grønne,1
+Assens,14,Jordløse,"Ø_Camilla_Reese_Sejerøe,_Skallebølle","Camilla Reese Sejerøe, Skallebølle",Enhedslisten - De Rød-Grønne,3
+Assens,14,Jordløse,"Ø_Rune_Biskopstö_Christensen,_Assens","Rune Biskopstö Christensen, Assens",Enhedslisten - De Rød-Grønne,0
+Assens,14,Jordløse,"Ø_Heidi_C.V._Mørch,_Assens","Heidi C.V. Mørch, Assens",Enhedslisten - De Rød-Grønne,0
+Assens,14,Jordløse,"Ø_Gert_Jacobsen,_Turup","Gert Jacobsen, Turup",Enhedslisten - De Rød-Grønne,0
+Assens,14,Jordløse,"Ø_Line_Mex-Jørgensen,_Skalbjerg","Line Mex-Jørgensen, Skalbjerg",Enhedslisten - De Rød-Grønne,0
+Assens,14,Jordløse,"Ø_Henrik_Frydenborg,_Tommerup","Henrik Frydenborg, Tommerup",Enhedslisten - De Rød-Grønne,0
+Assens,14,Jordløse,Å_Listestemmer,Listestemmer,Alternativet,3
+Assens,14,Jordløse,Å_Ole_Dupont_Kofod,Ole Dupont Kofod,Alternativet,3
+Assens,15,Brylle,A_Listestemmer,Listestemmer,Socialdemokratiet,65
+Assens,15,Brylle,"A_Poul-Erik_Svendsen,_Aarup","Poul-Erik Svendsen, Aarup",Socialdemokratiet,26
+Assens,15,Brylle,"A_Charlotte_Vincent_Petersen,_Tom.St","Charlotte Vincent Petersen, Tom.St",Socialdemokratiet,17
+Assens,15,Brylle,"A_Sara_Emil_Baaring,_Vissenbjerg","Sara Emil Baaring, Vissenbjerg",Socialdemokratiet,12
+Assens,15,Brylle,"A_Lone_Akselsen,_Brylle","Lone Akselsen, Brylle",Socialdemokratiet,96
+Assens,15,Brylle,"A_Ashil_Farokh,_Tommerup_St.","Ashil Farokh, Tommerup St.",Socialdemokratiet,6
+Assens,15,Brylle,"A_Berit_Schaldemose,_Glamsbjerg","Berit Schaldemose, Glamsbjerg",Socialdemokratiet,3
+Assens,15,Brylle,"A_Lasse_Tajmer,_Assens","Lasse Tajmer, Assens",Socialdemokratiet,3
+Assens,15,Brylle,"A_Lars_Søgaard,_Assens","Lars Søgaard, Assens",Socialdemokratiet,0
+Assens,15,Brylle,"A_Elmer_Philipsen,_Glamsbjerg","Elmer Philipsen, Glamsbjerg",Socialdemokratiet,4
+Assens,15,Brylle,"A_Henrik_Hansen,_Assens","Henrik Hansen, Assens",Socialdemokratiet,0
+Assens,15,Brylle,"A_Leif_Rothe_Rasmussen,_Aarup","Leif Rothe Rasmussen, Aarup",Socialdemokratiet,3
+Assens,15,Brylle,"A_Lone_Hegaard_Andersen,_Brylle","Lone Hegaard Andersen, Brylle",Socialdemokratiet,37
+Assens,15,Brylle,"A_Poul_Hansen,_Brunshuse","Poul Hansen, Brunshuse",Socialdemokratiet,0
+Assens,15,Brylle,"A_Mikael_Jensen,_Assens","Mikael Jensen, Assens",Socialdemokratiet,0
+Assens,15,Brylle,"A_Helge_Kold,_Haarby","Helge Kold, Haarby",Socialdemokratiet,0
+Assens,15,Brylle,"A_Inga_Jørgensen,_Aarup","Inga Jørgensen, Aarup",Socialdemokratiet,0
+Assens,15,Brylle,B_Listestemmer,Listestemmer,Radikale Venstre,4
+Assens,15,Brylle,"B_Poul_Poulsen,_Aarup","Poul Poulsen, Aarup",Radikale Venstre,3
+Assens,15,Brylle,"B_Rasmus_Dons,_Gummerup","Rasmus Dons, Gummerup",Radikale Venstre,4
+Assens,15,Brylle,"B_Joy_Christensen,_Assens","Joy Christensen, Assens",Radikale Venstre,1
+Assens,15,Brylle,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,18
+Assens,15,Brylle,"C_Søren_Thomsen,_Assens","Søren Thomsen, Assens",Det Konservative Folkeparti,19
+Assens,15,Brylle,"C_Jim_Staffensen,_Haarby","Jim Staffensen, Haarby",Det Konservative Folkeparti,3
+Assens,15,Brylle,"C_Natasja_Bruun_Knudsen,_Assens","Natasja Bruun Knudsen, Assens",Det Konservative Folkeparti,4
+Assens,15,Brylle,"C_Vagn_Top,_Brylle","Vagn Top, Brylle",Det Konservative Folkeparti,78
+Assens,15,Brylle,"C_Tobias_Bennedsen,_Barløse","Tobias Bennedsen, Barløse",Det Konservative Folkeparti,1
+Assens,15,Brylle,"C_Lars_Littau_Goldmann,_Haarby","Lars Littau Goldmann, Haarby",Det Konservative Folkeparti,2
+Assens,15,Brylle,"C_John_Børsting_Mikkelsen,_Helnæs","John Børsting Mikkelsen, Helnæs",Det Konservative Folkeparti,0
+Assens,15,Brylle,"C_Sofia_Katrine_Svensson,_Tommerup","Sofia Katrine Svensson, Tommerup",Det Konservative Folkeparti,2
+Assens,15,Brylle,"C_Jesper_Christensen,_Glamsbjerg","Jesper Christensen, Glamsbjerg",Det Konservative Folkeparti,1
+Assens,15,Brylle,D_Listestemmer,Listestemmer,Nye Borgerlige,25
+Assens,15,Brylle,D_Lars_S._Lillebæk,Lars S. Lillebæk,Nye Borgerlige,15
+Assens,15,Brylle,D_Hanne_Knappmann,Hanne Knappmann,Nye Borgerlige,7
+Assens,15,Brylle,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,18
+Assens,15,Brylle,"F_Mogens_Mulle_Johansen,_Glamsbjerg","Mogens Mulle Johansen, Glamsbjerg",SF - Socialistisk Folkeparti,12
+Assens,15,Brylle,"F_Jeanette_Sandberg,_Tommerup_St.","Jeanette Sandberg, Tommerup St.",SF - Socialistisk Folkeparti,28
+Assens,15,Brylle,"F_Flemming_Risskov_Jørgensen,_Viss.","Flemming Risskov Jørgensen, Viss.",SF - Socialistisk Folkeparti,2
+Assens,15,Brylle,"F_Poul_Erik_Kristiansen,_Glamsbjerg","Poul Erik Kristiansen, Glamsbjerg",SF - Socialistisk Folkeparti,2
+Assens,15,Brylle,"F_Mette-Rose_Kongstad,_Glamsbjerg","Mette-Rose Kongstad, Glamsbjerg",SF - Socialistisk Folkeparti,6
+Assens,15,Brylle,"F_Hans_Peter_Lund,_Tommerup_St.","Hans Peter Lund, Tommerup St.",SF - Socialistisk Folkeparti,3
+Assens,15,Brylle,"F_Henning_Petersen,_Holte","Henning Petersen, Holte",SF - Socialistisk Folkeparti,2
+Assens,15,Brylle,"F_Inge_Thorup,_Aarup","Inge Thorup, Aarup",SF - Socialistisk Folkeparti,1
+Assens,15,Brylle,"F_Hans_Glæsel,_Skalbjerg","Hans Glæsel, Skalbjerg",SF - Socialistisk Folkeparti,0
+Assens,15,Brylle,"F_Helle_Beierholm,_Assens","Helle Beierholm, Assens",SF - Socialistisk Folkeparti,1
+Assens,15,Brylle,H_Listestemmer,Listestemmer,SocialKonservative Assens,0
+Assens,15,Brylle,"H_Jørn_Strand_Nielsen,_Haarby","Jørn Strand Nielsen, Haarby",SocialKonservative Assens,0
+Assens,15,Brylle,M_Listestemmer,Listestemmer,Vi Lokale Demokrater,0
+Assens,15,Brylle,"M_Irene_Jeppesen,_Vissenbjerg","Irene Jeppesen, Vissenbjerg",Vi Lokale Demokrater,1
+Assens,15,Brylle,"M_Benno_Dahl,_Vissenbjerg","Benno Dahl, Vissenbjerg",Vi Lokale Demokrater,0
+Assens,15,Brylle,O_Listestemmer,Listestemmer,Dansk Folkeparti,21
+Assens,15,Brylle,O_Jens_Henrik_W._Thulesen_Dahl,Jens Henrik W. Thulesen Dahl,Dansk Folkeparti,15
+Assens,15,Brylle,O_Lars_Kolling,Lars Kolling,Dansk Folkeparti,7
+Assens,15,Brylle,O_Bente_S._Rasmussen,Bente S. Rasmussen,Dansk Folkeparti,1
+Assens,15,Brylle,O_Finn_B._Hansen,Finn B. Hansen,Dansk Folkeparti,0
+Assens,15,Brylle,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",50
+Assens,15,Brylle,"V_Søren_Steen_Andersen,_Tommerup","Søren Steen Andersen, Tommerup","Venstre, Danmarks Liberale Parti",304
+Assens,15,Brylle,"V_Pia_Offer_Madsen,_Glamsbjerg","Pia Offer Madsen, Glamsbjerg","Venstre, Danmarks Liberale Parti",12
+Assens,15,Brylle,"V_Dan_Gørtz,_Aarup","Dan Gørtz, Aarup","Venstre, Danmarks Liberale Parti",0
+Assens,15,Brylle,"V_Tine_Grau_Poulsen,_Vissenbjerg","Tine Grau Poulsen, Vissenbjerg","Venstre, Danmarks Liberale Parti",1
+Assens,15,Brylle,"V_Nikolaj_Leed_Henriksen,_Aarup","Nikolaj Leed Henriksen, Aarup","Venstre, Danmarks Liberale Parti",2
+Assens,15,Brylle,"V_Bodil_Boesgaard,_Vissenbjerg","Bodil Boesgaard, Vissenbjerg","Venstre, Danmarks Liberale Parti",5
+Assens,15,Brylle,"V_Jens_Jakobsen,_Haarby","Jens Jakobsen, Haarby","Venstre, Danmarks Liberale Parti",3
+Assens,15,Brylle,"V_Knud_Søby,_Assens","Knud Søby, Assens","Venstre, Danmarks Liberale Parti",1
+Assens,15,Brylle,"V_Ole_Maagaard_Pedersen,_Ørsted","Ole Maagaard Pedersen, Ørsted","Venstre, Danmarks Liberale Parti",5
+Assens,15,Brylle,"V_Rie_Nielsen,_Assens","Rie Nielsen, Assens","Venstre, Danmarks Liberale Parti",1
+Assens,15,Brylle,"V_Henrik_Kirk,_Vissenbjerg","Henrik Kirk, Vissenbjerg","Venstre, Danmarks Liberale Parti",4
+Assens,15,Brylle,"V_Camilla_Lykke_Sørensen,_Ebberup","Camilla Lykke Sørensen, Ebberup","Venstre, Danmarks Liberale Parti",4
+Assens,15,Brylle,"V_Ib_W._Jensen,_Søllested","Ib W. Jensen, Søllested","Venstre, Danmarks Liberale Parti",2
+Assens,15,Brylle,"V_Henrik_Mott_Frandsen,_Turup","Henrik Mott Frandsen, Turup","Venstre, Danmarks Liberale Parti",3
+Assens,15,Brylle,"V_Semir_Azet_Sinou,_Assens","Semir Azet Sinou, Assens","Venstre, Danmarks Liberale Parti",0
+Assens,15,Brylle,"V_Søren_Edlefsen,_Assens","Søren Edlefsen, Assens","Venstre, Danmarks Liberale Parti",1
+Assens,15,Brylle,"V_Henrik_Jørgensen,_Verninge","Henrik Jørgensen, Verninge","Venstre, Danmarks Liberale Parti",3
+Assens,15,Brylle,"V_Søren_Fisker_Olesen,_Bred","Søren Fisker Olesen, Bred","Venstre, Danmarks Liberale Parti",1
+Assens,15,Brylle,"V_Steen-Ove_Teisner,_Flemløse","Steen-Ove Teisner, Flemløse","Venstre, Danmarks Liberale Parti",0
+Assens,15,Brylle,"V_Lars_Tastum_Madsen,_Tommerup","Lars Tastum Madsen, Tommerup","Venstre, Danmarks Liberale Parti",5
+Assens,15,Brylle,"V_Camilla_Hedenhoff,_Sø_Søby","Camilla Hedenhoff, Sø Søby","Venstre, Danmarks Liberale Parti",0
+Assens,15,Brylle,"V_Ulrikka_Brændgaard_Nissen,_Solevad","Ulrikka Brændgaard Nissen, Solevad","Venstre, Danmarks Liberale Parti",18
+Assens,15,Brylle,"V_Torben_Schadt-Poulsen,_Assens","Torben Schadt-Poulsen, Assens","Venstre, Danmarks Liberale Parti",0
+Assens,15,Brylle,"V_Peter_Poulsen,_Aarup","Peter Poulsen, Aarup","Venstre, Danmarks Liberale Parti",1
+Assens,15,Brylle,Z_Listestemmer,Listestemmer,De LokalNationale,0
+Assens,15,Brylle,Z_Betina_Signe_Christiansen,Betina Signe Christiansen,De LokalNationale,2
+Assens,15,Brylle,Æ_Listestemmer,Listestemmer,Frihedslisten,1
+Assens,15,Brylle,"Æ_Millah_Kongsbach,_Assens","Millah Kongsbach, Assens",Frihedslisten,1
+Assens,15,Brylle,"Æ_John_Boisen,_Glamsbjerg","John Boisen, Glamsbjerg",Frihedslisten,2
+Assens,15,Brylle,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,10
+Assens,15,Brylle,"Ø_Kaj_Alstrup,_Assens","Kaj Alstrup, Assens",Enhedslisten - De Rød-Grønne,2
+Assens,15,Brylle,"Ø_Kirsten_Hofset,_Egemosedam","Kirsten Hofset, Egemosedam",Enhedslisten - De Rød-Grønne,3
+Assens,15,Brylle,"Ø_Camilla_Reese_Sejerøe,_Skallebølle","Camilla Reese Sejerøe, Skallebølle",Enhedslisten - De Rød-Grønne,0
+Assens,15,Brylle,"Ø_Rune_Biskopstö_Christensen,_Assens","Rune Biskopstö Christensen, Assens",Enhedslisten - De Rød-Grønne,0
+Assens,15,Brylle,"Ø_Heidi_C.V._Mørch,_Assens","Heidi C.V. Mørch, Assens",Enhedslisten - De Rød-Grønne,2
+Assens,15,Brylle,"Ø_Gert_Jacobsen,_Turup","Gert Jacobsen, Turup",Enhedslisten - De Rød-Grønne,0
+Assens,15,Brylle,"Ø_Line_Mex-Jørgensen,_Skalbjerg","Line Mex-Jørgensen, Skalbjerg",Enhedslisten - De Rød-Grønne,0
+Assens,15,Brylle,"Ø_Henrik_Frydenborg,_Tommerup","Henrik Frydenborg, Tommerup",Enhedslisten - De Rød-Grønne,3
+Assens,15,Brylle,Å_Listestemmer,Listestemmer,Alternativet,3
+Assens,15,Brylle,Å_Ole_Dupont_Kofod,Ole Dupont Kofod,Alternativet,4
+Assens,16,Tommerup,A_Listestemmer,Listestemmer,Socialdemokratiet,74
+Assens,16,Tommerup,"A_Poul-Erik_Svendsen,_Aarup","Poul-Erik Svendsen, Aarup",Socialdemokratiet,39
+Assens,16,Tommerup,"A_Charlotte_Vincent_Petersen,_Tom.St","Charlotte Vincent Petersen, Tom.St",Socialdemokratiet,32
+Assens,16,Tommerup,"A_Sara_Emil_Baaring,_Vissenbjerg","Sara Emil Baaring, Vissenbjerg",Socialdemokratiet,26
+Assens,16,Tommerup,"A_Lone_Akselsen,_Brylle","Lone Akselsen, Brylle",Socialdemokratiet,32
+Assens,16,Tommerup,"A_Ashil_Farokh,_Tommerup_St.","Ashil Farokh, Tommerup St.",Socialdemokratiet,8
+Assens,16,Tommerup,"A_Berit_Schaldemose,_Glamsbjerg","Berit Schaldemose, Glamsbjerg",Socialdemokratiet,4
+Assens,16,Tommerup,"A_Lasse_Tajmer,_Assens","Lasse Tajmer, Assens",Socialdemokratiet,2
+Assens,16,Tommerup,"A_Lars_Søgaard,_Assens","Lars Søgaard, Assens",Socialdemokratiet,2
+Assens,16,Tommerup,"A_Elmer_Philipsen,_Glamsbjerg","Elmer Philipsen, Glamsbjerg",Socialdemokratiet,1
+Assens,16,Tommerup,"A_Henrik_Hansen,_Assens","Henrik Hansen, Assens",Socialdemokratiet,0
+Assens,16,Tommerup,"A_Leif_Rothe_Rasmussen,_Aarup","Leif Rothe Rasmussen, Aarup",Socialdemokratiet,1
+Assens,16,Tommerup,"A_Lone_Hegaard_Andersen,_Brylle","Lone Hegaard Andersen, Brylle",Socialdemokratiet,20
+Assens,16,Tommerup,"A_Poul_Hansen,_Brunshuse","Poul Hansen, Brunshuse",Socialdemokratiet,0
+Assens,16,Tommerup,"A_Mikael_Jensen,_Assens","Mikael Jensen, Assens",Socialdemokratiet,0
+Assens,16,Tommerup,"A_Helge_Kold,_Haarby","Helge Kold, Haarby",Socialdemokratiet,1
+Assens,16,Tommerup,"A_Inga_Jørgensen,_Aarup","Inga Jørgensen, Aarup",Socialdemokratiet,0
+Assens,16,Tommerup,B_Listestemmer,Listestemmer,Radikale Venstre,2
+Assens,16,Tommerup,"B_Poul_Poulsen,_Aarup","Poul Poulsen, Aarup",Radikale Venstre,13
+Assens,16,Tommerup,"B_Rasmus_Dons,_Gummerup","Rasmus Dons, Gummerup",Radikale Venstre,4
+Assens,16,Tommerup,"B_Joy_Christensen,_Assens","Joy Christensen, Assens",Radikale Venstre,3
+Assens,16,Tommerup,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,9
+Assens,16,Tommerup,"C_Søren_Thomsen,_Assens","Søren Thomsen, Assens",Det Konservative Folkeparti,15
+Assens,16,Tommerup,"C_Jim_Staffensen,_Haarby","Jim Staffensen, Haarby",Det Konservative Folkeparti,6
+Assens,16,Tommerup,"C_Natasja_Bruun_Knudsen,_Assens","Natasja Bruun Knudsen, Assens",Det Konservative Folkeparti,1
+Assens,16,Tommerup,"C_Vagn_Top,_Brylle","Vagn Top, Brylle",Det Konservative Folkeparti,16
+Assens,16,Tommerup,"C_Tobias_Bennedsen,_Barløse","Tobias Bennedsen, Barløse",Det Konservative Folkeparti,2
+Assens,16,Tommerup,"C_Lars_Littau_Goldmann,_Haarby","Lars Littau Goldmann, Haarby",Det Konservative Folkeparti,2
+Assens,16,Tommerup,"C_John_Børsting_Mikkelsen,_Helnæs","John Børsting Mikkelsen, Helnæs",Det Konservative Folkeparti,0
+Assens,16,Tommerup,"C_Sofia_Katrine_Svensson,_Tommerup","Sofia Katrine Svensson, Tommerup",Det Konservative Folkeparti,3
+Assens,16,Tommerup,"C_Jesper_Christensen,_Glamsbjerg","Jesper Christensen, Glamsbjerg",Det Konservative Folkeparti,2
+Assens,16,Tommerup,D_Listestemmer,Listestemmer,Nye Borgerlige,23
+Assens,16,Tommerup,D_Lars_S._Lillebæk,Lars S. Lillebæk,Nye Borgerlige,21
+Assens,16,Tommerup,D_Hanne_Knappmann,Hanne Knappmann,Nye Borgerlige,14
+Assens,16,Tommerup,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,19
+Assens,16,Tommerup,"F_Mogens_Mulle_Johansen,_Glamsbjerg","Mogens Mulle Johansen, Glamsbjerg",SF - Socialistisk Folkeparti,19
+Assens,16,Tommerup,"F_Jeanette_Sandberg,_Tommerup_St.","Jeanette Sandberg, Tommerup St.",SF - Socialistisk Folkeparti,64
+Assens,16,Tommerup,"F_Flemming_Risskov_Jørgensen,_Viss.","Flemming Risskov Jørgensen, Viss.",SF - Socialistisk Folkeparti,3
+Assens,16,Tommerup,"F_Poul_Erik_Kristiansen,_Glamsbjerg","Poul Erik Kristiansen, Glamsbjerg",SF - Socialistisk Folkeparti,1
+Assens,16,Tommerup,"F_Mette-Rose_Kongstad,_Glamsbjerg","Mette-Rose Kongstad, Glamsbjerg",SF - Socialistisk Folkeparti,9
+Assens,16,Tommerup,"F_Hans_Peter_Lund,_Tommerup_St.","Hans Peter Lund, Tommerup St.",SF - Socialistisk Folkeparti,1
+Assens,16,Tommerup,"F_Henning_Petersen,_Holte","Henning Petersen, Holte",SF - Socialistisk Folkeparti,1
+Assens,16,Tommerup,"F_Inge_Thorup,_Aarup","Inge Thorup, Aarup",SF - Socialistisk Folkeparti,0
+Assens,16,Tommerup,"F_Hans_Glæsel,_Skalbjerg","Hans Glæsel, Skalbjerg",SF - Socialistisk Folkeparti,0
+Assens,16,Tommerup,"F_Helle_Beierholm,_Assens","Helle Beierholm, Assens",SF - Socialistisk Folkeparti,0
+Assens,16,Tommerup,H_Listestemmer,Listestemmer,SocialKonservative Assens,0
+Assens,16,Tommerup,"H_Jørn_Strand_Nielsen,_Haarby","Jørn Strand Nielsen, Haarby",SocialKonservative Assens,1
+Assens,16,Tommerup,M_Listestemmer,Listestemmer,Vi Lokale Demokrater,1
+Assens,16,Tommerup,"M_Irene_Jeppesen,_Vissenbjerg","Irene Jeppesen, Vissenbjerg",Vi Lokale Demokrater,0
+Assens,16,Tommerup,"M_Benno_Dahl,_Vissenbjerg","Benno Dahl, Vissenbjerg",Vi Lokale Demokrater,0
+Assens,16,Tommerup,O_Listestemmer,Listestemmer,Dansk Folkeparti,11
+Assens,16,Tommerup,O_Jens_Henrik_W._Thulesen_Dahl,Jens Henrik W. Thulesen Dahl,Dansk Folkeparti,11
+Assens,16,Tommerup,O_Lars_Kolling,Lars Kolling,Dansk Folkeparti,7
+Assens,16,Tommerup,O_Bente_S._Rasmussen,Bente S. Rasmussen,Dansk Folkeparti,0
+Assens,16,Tommerup,O_Finn_B._Hansen,Finn B. Hansen,Dansk Folkeparti,1
+Assens,16,Tommerup,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",33
+Assens,16,Tommerup,"V_Søren_Steen_Andersen,_Tommerup","Søren Steen Andersen, Tommerup","Venstre, Danmarks Liberale Parti",454
+Assens,16,Tommerup,"V_Pia_Offer_Madsen,_Glamsbjerg","Pia Offer Madsen, Glamsbjerg","Venstre, Danmarks Liberale Parti",18
+Assens,16,Tommerup,"V_Dan_Gørtz,_Aarup","Dan Gørtz, Aarup","Venstre, Danmarks Liberale Parti",4
+Assens,16,Tommerup,"V_Tine_Grau_Poulsen,_Vissenbjerg","Tine Grau Poulsen, Vissenbjerg","Venstre, Danmarks Liberale Parti",4
+Assens,16,Tommerup,"V_Nikolaj_Leed_Henriksen,_Aarup","Nikolaj Leed Henriksen, Aarup","Venstre, Danmarks Liberale Parti",3
+Assens,16,Tommerup,"V_Bodil_Boesgaard,_Vissenbjerg","Bodil Boesgaard, Vissenbjerg","Venstre, Danmarks Liberale Parti",0
+Assens,16,Tommerup,"V_Jens_Jakobsen,_Haarby","Jens Jakobsen, Haarby","Venstre, Danmarks Liberale Parti",3
+Assens,16,Tommerup,"V_Knud_Søby,_Assens","Knud Søby, Assens","Venstre, Danmarks Liberale Parti",0
+Assens,16,Tommerup,"V_Ole_Maagaard_Pedersen,_Ørsted","Ole Maagaard Pedersen, Ørsted","Venstre, Danmarks Liberale Parti",1
+Assens,16,Tommerup,"V_Rie_Nielsen,_Assens","Rie Nielsen, Assens","Venstre, Danmarks Liberale Parti",3
+Assens,16,Tommerup,"V_Henrik_Kirk,_Vissenbjerg","Henrik Kirk, Vissenbjerg","Venstre, Danmarks Liberale Parti",1
+Assens,16,Tommerup,"V_Camilla_Lykke_Sørensen,_Ebberup","Camilla Lykke Sørensen, Ebberup","Venstre, Danmarks Liberale Parti",2
+Assens,16,Tommerup,"V_Ib_W._Jensen,_Søllested","Ib W. Jensen, Søllested","Venstre, Danmarks Liberale Parti",2
+Assens,16,Tommerup,"V_Henrik_Mott_Frandsen,_Turup","Henrik Mott Frandsen, Turup","Venstre, Danmarks Liberale Parti",1
+Assens,16,Tommerup,"V_Semir_Azet_Sinou,_Assens","Semir Azet Sinou, Assens","Venstre, Danmarks Liberale Parti",1
+Assens,16,Tommerup,"V_Søren_Edlefsen,_Assens","Søren Edlefsen, Assens","Venstre, Danmarks Liberale Parti",0
+Assens,16,Tommerup,"V_Henrik_Jørgensen,_Verninge","Henrik Jørgensen, Verninge","Venstre, Danmarks Liberale Parti",9
+Assens,16,Tommerup,"V_Søren_Fisker_Olesen,_Bred","Søren Fisker Olesen, Bred","Venstre, Danmarks Liberale Parti",0
+Assens,16,Tommerup,"V_Steen-Ove_Teisner,_Flemløse","Steen-Ove Teisner, Flemløse","Venstre, Danmarks Liberale Parti",1
+Assens,16,Tommerup,"V_Lars_Tastum_Madsen,_Tommerup","Lars Tastum Madsen, Tommerup","Venstre, Danmarks Liberale Parti",13
+Assens,16,Tommerup,"V_Camilla_Hedenhoff,_Sø_Søby","Camilla Hedenhoff, Sø Søby","Venstre, Danmarks Liberale Parti",0
+Assens,16,Tommerup,"V_Ulrikka_Brændgaard_Nissen,_Solevad","Ulrikka Brændgaard Nissen, Solevad","Venstre, Danmarks Liberale Parti",7
+Assens,16,Tommerup,"V_Torben_Schadt-Poulsen,_Assens","Torben Schadt-Poulsen, Assens","Venstre, Danmarks Liberale Parti",0
+Assens,16,Tommerup,"V_Peter_Poulsen,_Aarup","Peter Poulsen, Aarup","Venstre, Danmarks Liberale Parti",2
+Assens,16,Tommerup,Z_Listestemmer,Listestemmer,De LokalNationale,1
+Assens,16,Tommerup,Z_Betina_Signe_Christiansen,Betina Signe Christiansen,De LokalNationale,5
+Assens,16,Tommerup,Æ_Listestemmer,Listestemmer,Frihedslisten,2
+Assens,16,Tommerup,"Æ_Millah_Kongsbach,_Assens","Millah Kongsbach, Assens",Frihedslisten,4
+Assens,16,Tommerup,"Æ_John_Boisen,_Glamsbjerg","John Boisen, Glamsbjerg",Frihedslisten,0
+Assens,16,Tommerup,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,15
+Assens,16,Tommerup,"Ø_Kaj_Alstrup,_Assens","Kaj Alstrup, Assens",Enhedslisten - De Rød-Grønne,3
+Assens,16,Tommerup,"Ø_Kirsten_Hofset,_Egemosedam","Kirsten Hofset, Egemosedam",Enhedslisten - De Rød-Grønne,1
+Assens,16,Tommerup,"Ø_Camilla_Reese_Sejerøe,_Skallebølle","Camilla Reese Sejerøe, Skallebølle",Enhedslisten - De Rød-Grønne,0
+Assens,16,Tommerup,"Ø_Rune_Biskopstö_Christensen,_Assens","Rune Biskopstö Christensen, Assens",Enhedslisten - De Rød-Grønne,0
+Assens,16,Tommerup,"Ø_Heidi_C.V._Mørch,_Assens","Heidi C.V. Mørch, Assens",Enhedslisten - De Rød-Grønne,0
+Assens,16,Tommerup,"Ø_Gert_Jacobsen,_Turup","Gert Jacobsen, Turup",Enhedslisten - De Rød-Grønne,0
+Assens,16,Tommerup,"Ø_Line_Mex-Jørgensen,_Skalbjerg","Line Mex-Jørgensen, Skalbjerg",Enhedslisten - De Rød-Grønne,0
+Assens,16,Tommerup,"Ø_Henrik_Frydenborg,_Tommerup","Henrik Frydenborg, Tommerup",Enhedslisten - De Rød-Grønne,1
+Assens,16,Tommerup,Å_Listestemmer,Listestemmer,Alternativet,0
+Assens,16,Tommerup,Å_Ole_Dupont_Kofod,Ole Dupont Kofod,Alternativet,6
+Assens,17,Tommerup St,A_Listestemmer,Listestemmer,Socialdemokratiet,99
+Assens,17,Tommerup St,"A_Poul-Erik_Svendsen,_Aarup","Poul-Erik Svendsen, Aarup",Socialdemokratiet,44
+Assens,17,Tommerup St,"A_Charlotte_Vincent_Petersen,_Tom.St","Charlotte Vincent Petersen, Tom.St",Socialdemokratiet,173
+Assens,17,Tommerup St,"A_Sara_Emil_Baaring,_Vissenbjerg","Sara Emil Baaring, Vissenbjerg",Socialdemokratiet,49
+Assens,17,Tommerup St,"A_Lone_Akselsen,_Brylle","Lone Akselsen, Brylle",Socialdemokratiet,25
+Assens,17,Tommerup St,"A_Ashil_Farokh,_Tommerup_St.","Ashil Farokh, Tommerup St.",Socialdemokratiet,82
+Assens,17,Tommerup St,"A_Berit_Schaldemose,_Glamsbjerg","Berit Schaldemose, Glamsbjerg",Socialdemokratiet,4
+Assens,17,Tommerup St,"A_Lasse_Tajmer,_Assens","Lasse Tajmer, Assens",Socialdemokratiet,2
+Assens,17,Tommerup St,"A_Lars_Søgaard,_Assens","Lars Søgaard, Assens",Socialdemokratiet,0
+Assens,17,Tommerup St,"A_Elmer_Philipsen,_Glamsbjerg","Elmer Philipsen, Glamsbjerg",Socialdemokratiet,7
+Assens,17,Tommerup St,"A_Henrik_Hansen,_Assens","Henrik Hansen, Assens",Socialdemokratiet,0
+Assens,17,Tommerup St,"A_Leif_Rothe_Rasmussen,_Aarup","Leif Rothe Rasmussen, Aarup",Socialdemokratiet,3
+Assens,17,Tommerup St,"A_Lone_Hegaard_Andersen,_Brylle","Lone Hegaard Andersen, Brylle",Socialdemokratiet,26
+Assens,17,Tommerup St,"A_Poul_Hansen,_Brunshuse","Poul Hansen, Brunshuse",Socialdemokratiet,2
+Assens,17,Tommerup St,"A_Mikael_Jensen,_Assens","Mikael Jensen, Assens",Socialdemokratiet,0
+Assens,17,Tommerup St,"A_Helge_Kold,_Haarby","Helge Kold, Haarby",Socialdemokratiet,0
+Assens,17,Tommerup St,"A_Inga_Jørgensen,_Aarup","Inga Jørgensen, Aarup",Socialdemokratiet,3
+Assens,17,Tommerup St,B_Listestemmer,Listestemmer,Radikale Venstre,13
+Assens,17,Tommerup St,"B_Poul_Poulsen,_Aarup","Poul Poulsen, Aarup",Radikale Venstre,20
+Assens,17,Tommerup St,"B_Rasmus_Dons,_Gummerup","Rasmus Dons, Gummerup",Radikale Venstre,11
+Assens,17,Tommerup St,"B_Joy_Christensen,_Assens","Joy Christensen, Assens",Radikale Venstre,6
+Assens,17,Tommerup St,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,33
+Assens,17,Tommerup St,"C_Søren_Thomsen,_Assens","Søren Thomsen, Assens",Det Konservative Folkeparti,34
+Assens,17,Tommerup St,"C_Jim_Staffensen,_Haarby","Jim Staffensen, Haarby",Det Konservative Folkeparti,10
+Assens,17,Tommerup St,"C_Natasja_Bruun_Knudsen,_Assens","Natasja Bruun Knudsen, Assens",Det Konservative Folkeparti,6
+Assens,17,Tommerup St,"C_Vagn_Top,_Brylle","Vagn Top, Brylle",Det Konservative Folkeparti,12
+Assens,17,Tommerup St,"C_Tobias_Bennedsen,_Barløse","Tobias Bennedsen, Barløse",Det Konservative Folkeparti,2
+Assens,17,Tommerup St,"C_Lars_Littau_Goldmann,_Haarby","Lars Littau Goldmann, Haarby",Det Konservative Folkeparti,4
+Assens,17,Tommerup St,"C_John_Børsting_Mikkelsen,_Helnæs","John Børsting Mikkelsen, Helnæs",Det Konservative Folkeparti,0
+Assens,17,Tommerup St,"C_Sofia_Katrine_Svensson,_Tommerup","Sofia Katrine Svensson, Tommerup",Det Konservative Folkeparti,7
+Assens,17,Tommerup St,"C_Jesper_Christensen,_Glamsbjerg","Jesper Christensen, Glamsbjerg",Det Konservative Folkeparti,1
+Assens,17,Tommerup St,D_Listestemmer,Listestemmer,Nye Borgerlige,14
+Assens,17,Tommerup St,D_Lars_S._Lillebæk,Lars S. Lillebæk,Nye Borgerlige,16
+Assens,17,Tommerup St,D_Hanne_Knappmann,Hanne Knappmann,Nye Borgerlige,4
+Assens,17,Tommerup St,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,30
+Assens,17,Tommerup St,"F_Mogens_Mulle_Johansen,_Glamsbjerg","Mogens Mulle Johansen, Glamsbjerg",SF - Socialistisk Folkeparti,15
+Assens,17,Tommerup St,"F_Jeanette_Sandberg,_Tommerup_St.","Jeanette Sandberg, Tommerup St.",SF - Socialistisk Folkeparti,97
+Assens,17,Tommerup St,"F_Flemming_Risskov_Jørgensen,_Viss.","Flemming Risskov Jørgensen, Viss.",SF - Socialistisk Folkeparti,5
+Assens,17,Tommerup St,"F_Poul_Erik_Kristiansen,_Glamsbjerg","Poul Erik Kristiansen, Glamsbjerg",SF - Socialistisk Folkeparti,1
+Assens,17,Tommerup St,"F_Mette-Rose_Kongstad,_Glamsbjerg","Mette-Rose Kongstad, Glamsbjerg",SF - Socialistisk Folkeparti,9
+Assens,17,Tommerup St,"F_Hans_Peter_Lund,_Tommerup_St.","Hans Peter Lund, Tommerup St.",SF - Socialistisk Folkeparti,4
+Assens,17,Tommerup St,"F_Henning_Petersen,_Holte","Henning Petersen, Holte",SF - Socialistisk Folkeparti,1
+Assens,17,Tommerup St,"F_Inge_Thorup,_Aarup","Inge Thorup, Aarup",SF - Socialistisk Folkeparti,2
+Assens,17,Tommerup St,"F_Hans_Glæsel,_Skalbjerg","Hans Glæsel, Skalbjerg",SF - Socialistisk Folkeparti,0
+Assens,17,Tommerup St,"F_Helle_Beierholm,_Assens","Helle Beierholm, Assens",SF - Socialistisk Folkeparti,3
+Assens,17,Tommerup St,H_Listestemmer,Listestemmer,SocialKonservative Assens,0
+Assens,17,Tommerup St,"H_Jørn_Strand_Nielsen,_Haarby","Jørn Strand Nielsen, Haarby",SocialKonservative Assens,0
+Assens,17,Tommerup St,M_Listestemmer,Listestemmer,Vi Lokale Demokrater,0
+Assens,17,Tommerup St,"M_Irene_Jeppesen,_Vissenbjerg","Irene Jeppesen, Vissenbjerg",Vi Lokale Demokrater,0
+Assens,17,Tommerup St,"M_Benno_Dahl,_Vissenbjerg","Benno Dahl, Vissenbjerg",Vi Lokale Demokrater,0
+Assens,17,Tommerup St,O_Listestemmer,Listestemmer,Dansk Folkeparti,9
+Assens,17,Tommerup St,O_Jens_Henrik_W._Thulesen_Dahl,Jens Henrik W. Thulesen Dahl,Dansk Folkeparti,22
+Assens,17,Tommerup St,O_Lars_Kolling,Lars Kolling,Dansk Folkeparti,9
+Assens,17,Tommerup St,O_Bente_S._Rasmussen,Bente S. Rasmussen,Dansk Folkeparti,0
+Assens,17,Tommerup St,O_Finn_B._Hansen,Finn B. Hansen,Dansk Folkeparti,1
+Assens,17,Tommerup St,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",52
+Assens,17,Tommerup St,"V_Søren_Steen_Andersen,_Tommerup","Søren Steen Andersen, Tommerup","Venstre, Danmarks Liberale Parti",287
+Assens,17,Tommerup St,"V_Pia_Offer_Madsen,_Glamsbjerg","Pia Offer Madsen, Glamsbjerg","Venstre, Danmarks Liberale Parti",20
+Assens,17,Tommerup St,"V_Dan_Gørtz,_Aarup","Dan Gørtz, Aarup","Venstre, Danmarks Liberale Parti",5
+Assens,17,Tommerup St,"V_Tine_Grau_Poulsen,_Vissenbjerg","Tine Grau Poulsen, Vissenbjerg","Venstre, Danmarks Liberale Parti",5
+Assens,17,Tommerup St,"V_Nikolaj_Leed_Henriksen,_Aarup","Nikolaj Leed Henriksen, Aarup","Venstre, Danmarks Liberale Parti",8
+Assens,17,Tommerup St,"V_Bodil_Boesgaard,_Vissenbjerg","Bodil Boesgaard, Vissenbjerg","Venstre, Danmarks Liberale Parti",3
+Assens,17,Tommerup St,"V_Jens_Jakobsen,_Haarby","Jens Jakobsen, Haarby","Venstre, Danmarks Liberale Parti",2
+Assens,17,Tommerup St,"V_Knud_Søby,_Assens","Knud Søby, Assens","Venstre, Danmarks Liberale Parti",2
+Assens,17,Tommerup St,"V_Ole_Maagaard_Pedersen,_Ørsted","Ole Maagaard Pedersen, Ørsted","Venstre, Danmarks Liberale Parti",2
+Assens,17,Tommerup St,"V_Rie_Nielsen,_Assens","Rie Nielsen, Assens","Venstre, Danmarks Liberale Parti",1
+Assens,17,Tommerup St,"V_Henrik_Kirk,_Vissenbjerg","Henrik Kirk, Vissenbjerg","Venstre, Danmarks Liberale Parti",11
+Assens,17,Tommerup St,"V_Camilla_Lykke_Sørensen,_Ebberup","Camilla Lykke Sørensen, Ebberup","Venstre, Danmarks Liberale Parti",2
+Assens,17,Tommerup St,"V_Ib_W._Jensen,_Søllested","Ib W. Jensen, Søllested","Venstre, Danmarks Liberale Parti",3
+Assens,17,Tommerup St,"V_Henrik_Mott_Frandsen,_Turup","Henrik Mott Frandsen, Turup","Venstre, Danmarks Liberale Parti",1
+Assens,17,Tommerup St,"V_Semir_Azet_Sinou,_Assens","Semir Azet Sinou, Assens","Venstre, Danmarks Liberale Parti",1
+Assens,17,Tommerup St,"V_Søren_Edlefsen,_Assens","Søren Edlefsen, Assens","Venstre, Danmarks Liberale Parti",0
+Assens,17,Tommerup St,"V_Henrik_Jørgensen,_Verninge","Henrik Jørgensen, Verninge","Venstre, Danmarks Liberale Parti",6
+Assens,17,Tommerup St,"V_Søren_Fisker_Olesen,_Bred","Søren Fisker Olesen, Bred","Venstre, Danmarks Liberale Parti",1
+Assens,17,Tommerup St,"V_Steen-Ove_Teisner,_Flemløse","Steen-Ove Teisner, Flemløse","Venstre, Danmarks Liberale Parti",0
+Assens,17,Tommerup St,"V_Lars_Tastum_Madsen,_Tommerup","Lars Tastum Madsen, Tommerup","Venstre, Danmarks Liberale Parti",0
+Assens,17,Tommerup St,"V_Camilla_Hedenhoff,_Sø_Søby","Camilla Hedenhoff, Sø Søby","Venstre, Danmarks Liberale Parti",0
+Assens,17,Tommerup St,"V_Ulrikka_Brændgaard_Nissen,_Solevad","Ulrikka Brændgaard Nissen, Solevad","Venstre, Danmarks Liberale Parti",8
+Assens,17,Tommerup St,"V_Torben_Schadt-Poulsen,_Assens","Torben Schadt-Poulsen, Assens","Venstre, Danmarks Liberale Parti",0
+Assens,17,Tommerup St,"V_Peter_Poulsen,_Aarup","Peter Poulsen, Aarup","Venstre, Danmarks Liberale Parti",6
+Assens,17,Tommerup St,Z_Listestemmer,Listestemmer,De LokalNationale,0
+Assens,17,Tommerup St,Z_Betina_Signe_Christiansen,Betina Signe Christiansen,De LokalNationale,2
+Assens,17,Tommerup St,Æ_Listestemmer,Listestemmer,Frihedslisten,0
+Assens,17,Tommerup St,"Æ_Millah_Kongsbach,_Assens","Millah Kongsbach, Assens",Frihedslisten,2
+Assens,17,Tommerup St,"Æ_John_Boisen,_Glamsbjerg","John Boisen, Glamsbjerg",Frihedslisten,1
+Assens,17,Tommerup St,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,21
+Assens,17,Tommerup St,"Ø_Kaj_Alstrup,_Assens","Kaj Alstrup, Assens",Enhedslisten - De Rød-Grønne,8
+Assens,17,Tommerup St,"Ø_Kirsten_Hofset,_Egemosedam","Kirsten Hofset, Egemosedam",Enhedslisten - De Rød-Grønne,6
+Assens,17,Tommerup St,"Ø_Camilla_Reese_Sejerøe,_Skallebølle","Camilla Reese Sejerøe, Skallebølle",Enhedslisten - De Rød-Grønne,7
+Assens,17,Tommerup St,"Ø_Rune_Biskopstö_Christensen,_Assens","Rune Biskopstö Christensen, Assens",Enhedslisten - De Rød-Grønne,1
+Assens,17,Tommerup St,"Ø_Heidi_C.V._Mørch,_Assens","Heidi C.V. Mørch, Assens",Enhedslisten - De Rød-Grønne,0
+Assens,17,Tommerup St,"Ø_Gert_Jacobsen,_Turup","Gert Jacobsen, Turup",Enhedslisten - De Rød-Grønne,0
+Assens,17,Tommerup St,"Ø_Line_Mex-Jørgensen,_Skalbjerg","Line Mex-Jørgensen, Skalbjerg",Enhedslisten - De Rød-Grønne,2
+Assens,17,Tommerup St,"Ø_Henrik_Frydenborg,_Tommerup","Henrik Frydenborg, Tommerup",Enhedslisten - De Rød-Grønne,12
+Assens,17,Tommerup St,Å_Listestemmer,Listestemmer,Alternativet,6
+Assens,17,Tommerup St,Å_Ole_Dupont_Kofod,Ole Dupont Kofod,Alternativet,8
+Assens,18,Verninge/Nårup,A_Listestemmer,Listestemmer,Socialdemokratiet,53
+Assens,18,Verninge/Nårup,"A_Poul-Erik_Svendsen,_Aarup","Poul-Erik Svendsen, Aarup",Socialdemokratiet,22
+Assens,18,Verninge/Nårup,"A_Charlotte_Vincent_Petersen,_Tom.St","Charlotte Vincent Petersen, Tom.St",Socialdemokratiet,20
+Assens,18,Verninge/Nårup,"A_Sara_Emil_Baaring,_Vissenbjerg","Sara Emil Baaring, Vissenbjerg",Socialdemokratiet,52
+Assens,18,Verninge/Nårup,"A_Lone_Akselsen,_Brylle","Lone Akselsen, Brylle",Socialdemokratiet,19
+Assens,18,Verninge/Nårup,"A_Ashil_Farokh,_Tommerup_St.","Ashil Farokh, Tommerup St.",Socialdemokratiet,3
+Assens,18,Verninge/Nårup,"A_Berit_Schaldemose,_Glamsbjerg","Berit Schaldemose, Glamsbjerg",Socialdemokratiet,6
+Assens,18,Verninge/Nårup,"A_Lasse_Tajmer,_Assens","Lasse Tajmer, Assens",Socialdemokratiet,3
+Assens,18,Verninge/Nårup,"A_Lars_Søgaard,_Assens","Lars Søgaard, Assens",Socialdemokratiet,1
+Assens,18,Verninge/Nårup,"A_Elmer_Philipsen,_Glamsbjerg","Elmer Philipsen, Glamsbjerg",Socialdemokratiet,5
+Assens,18,Verninge/Nårup,"A_Henrik_Hansen,_Assens","Henrik Hansen, Assens",Socialdemokratiet,0
+Assens,18,Verninge/Nårup,"A_Leif_Rothe_Rasmussen,_Aarup","Leif Rothe Rasmussen, Aarup",Socialdemokratiet,3
+Assens,18,Verninge/Nårup,"A_Lone_Hegaard_Andersen,_Brylle","Lone Hegaard Andersen, Brylle",Socialdemokratiet,30
+Assens,18,Verninge/Nårup,"A_Poul_Hansen,_Brunshuse","Poul Hansen, Brunshuse",Socialdemokratiet,2
+Assens,18,Verninge/Nårup,"A_Mikael_Jensen,_Assens","Mikael Jensen, Assens",Socialdemokratiet,0
+Assens,18,Verninge/Nårup,"A_Helge_Kold,_Haarby","Helge Kold, Haarby",Socialdemokratiet,1
+Assens,18,Verninge/Nårup,"A_Inga_Jørgensen,_Aarup","Inga Jørgensen, Aarup",Socialdemokratiet,0
+Assens,18,Verninge/Nårup,B_Listestemmer,Listestemmer,Radikale Venstre,6
+Assens,18,Verninge/Nårup,"B_Poul_Poulsen,_Aarup","Poul Poulsen, Aarup",Radikale Venstre,1
+Assens,18,Verninge/Nårup,"B_Rasmus_Dons,_Gummerup","Rasmus Dons, Gummerup",Radikale Venstre,5
+Assens,18,Verninge/Nårup,"B_Joy_Christensen,_Assens","Joy Christensen, Assens",Radikale Venstre,1
+Assens,18,Verninge/Nårup,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,14
+Assens,18,Verninge/Nårup,"C_Søren_Thomsen,_Assens","Søren Thomsen, Assens",Det Konservative Folkeparti,11
+Assens,18,Verninge/Nårup,"C_Jim_Staffensen,_Haarby","Jim Staffensen, Haarby",Det Konservative Folkeparti,2
+Assens,18,Verninge/Nårup,"C_Natasja_Bruun_Knudsen,_Assens","Natasja Bruun Knudsen, Assens",Det Konservative Folkeparti,2
+Assens,18,Verninge/Nårup,"C_Vagn_Top,_Brylle","Vagn Top, Brylle",Det Konservative Folkeparti,13
+Assens,18,Verninge/Nårup,"C_Tobias_Bennedsen,_Barløse","Tobias Bennedsen, Barløse",Det Konservative Folkeparti,0
+Assens,18,Verninge/Nårup,"C_Lars_Littau_Goldmann,_Haarby","Lars Littau Goldmann, Haarby",Det Konservative Folkeparti,3
+Assens,18,Verninge/Nårup,"C_John_Børsting_Mikkelsen,_Helnæs","John Børsting Mikkelsen, Helnæs",Det Konservative Folkeparti,0
+Assens,18,Verninge/Nårup,"C_Sofia_Katrine_Svensson,_Tommerup","Sofia Katrine Svensson, Tommerup",Det Konservative Folkeparti,1
+Assens,18,Verninge/Nårup,"C_Jesper_Christensen,_Glamsbjerg","Jesper Christensen, Glamsbjerg",Det Konservative Folkeparti,1
+Assens,18,Verninge/Nårup,D_Listestemmer,Listestemmer,Nye Borgerlige,21
+Assens,18,Verninge/Nårup,D_Lars_S._Lillebæk,Lars S. Lillebæk,Nye Borgerlige,31
+Assens,18,Verninge/Nårup,D_Hanne_Knappmann,Hanne Knappmann,Nye Borgerlige,6
+Assens,18,Verninge/Nårup,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,17
+Assens,18,Verninge/Nårup,"F_Mogens_Mulle_Johansen,_Glamsbjerg","Mogens Mulle Johansen, Glamsbjerg",SF - Socialistisk Folkeparti,11
+Assens,18,Verninge/Nårup,"F_Jeanette_Sandberg,_Tommerup_St.","Jeanette Sandberg, Tommerup St.",SF - Socialistisk Folkeparti,19
+Assens,18,Verninge/Nårup,"F_Flemming_Risskov_Jørgensen,_Viss.","Flemming Risskov Jørgensen, Viss.",SF - Socialistisk Folkeparti,0
+Assens,18,Verninge/Nårup,"F_Poul_Erik_Kristiansen,_Glamsbjerg","Poul Erik Kristiansen, Glamsbjerg",SF - Socialistisk Folkeparti,2
+Assens,18,Verninge/Nårup,"F_Mette-Rose_Kongstad,_Glamsbjerg","Mette-Rose Kongstad, Glamsbjerg",SF - Socialistisk Folkeparti,1
+Assens,18,Verninge/Nårup,"F_Hans_Peter_Lund,_Tommerup_St.","Hans Peter Lund, Tommerup St.",SF - Socialistisk Folkeparti,1
+Assens,18,Verninge/Nårup,"F_Henning_Petersen,_Holte","Henning Petersen, Holte",SF - Socialistisk Folkeparti,1
+Assens,18,Verninge/Nårup,"F_Inge_Thorup,_Aarup","Inge Thorup, Aarup",SF - Socialistisk Folkeparti,0
+Assens,18,Verninge/Nårup,"F_Hans_Glæsel,_Skalbjerg","Hans Glæsel, Skalbjerg",SF - Socialistisk Folkeparti,0
+Assens,18,Verninge/Nårup,"F_Helle_Beierholm,_Assens","Helle Beierholm, Assens",SF - Socialistisk Folkeparti,1
+Assens,18,Verninge/Nårup,H_Listestemmer,Listestemmer,SocialKonservative Assens,0
+Assens,18,Verninge/Nårup,"H_Jørn_Strand_Nielsen,_Haarby","Jørn Strand Nielsen, Haarby",SocialKonservative Assens,2
+Assens,18,Verninge/Nårup,M_Listestemmer,Listestemmer,Vi Lokale Demokrater,1
+Assens,18,Verninge/Nårup,"M_Irene_Jeppesen,_Vissenbjerg","Irene Jeppesen, Vissenbjerg",Vi Lokale Demokrater,0
+Assens,18,Verninge/Nårup,"M_Benno_Dahl,_Vissenbjerg","Benno Dahl, Vissenbjerg",Vi Lokale Demokrater,0
+Assens,18,Verninge/Nårup,O_Listestemmer,Listestemmer,Dansk Folkeparti,8
+Assens,18,Verninge/Nårup,O_Jens_Henrik_W._Thulesen_Dahl,Jens Henrik W. Thulesen Dahl,Dansk Folkeparti,18
+Assens,18,Verninge/Nårup,O_Lars_Kolling,Lars Kolling,Dansk Folkeparti,16
+Assens,18,Verninge/Nårup,O_Bente_S._Rasmussen,Bente S. Rasmussen,Dansk Folkeparti,0
+Assens,18,Verninge/Nårup,O_Finn_B._Hansen,Finn B. Hansen,Dansk Folkeparti,0
+Assens,18,Verninge/Nårup,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",35
+Assens,18,Verninge/Nårup,"V_Søren_Steen_Andersen,_Tommerup","Søren Steen Andersen, Tommerup","Venstre, Danmarks Liberale Parti",250
+Assens,18,Verninge/Nårup,"V_Pia_Offer_Madsen,_Glamsbjerg","Pia Offer Madsen, Glamsbjerg","Venstre, Danmarks Liberale Parti",17
+Assens,18,Verninge/Nårup,"V_Dan_Gørtz,_Aarup","Dan Gørtz, Aarup","Venstre, Danmarks Liberale Parti",0
+Assens,18,Verninge/Nårup,"V_Tine_Grau_Poulsen,_Vissenbjerg","Tine Grau Poulsen, Vissenbjerg","Venstre, Danmarks Liberale Parti",0
+Assens,18,Verninge/Nårup,"V_Nikolaj_Leed_Henriksen,_Aarup","Nikolaj Leed Henriksen, Aarup","Venstre, Danmarks Liberale Parti",2
+Assens,18,Verninge/Nårup,"V_Bodil_Boesgaard,_Vissenbjerg","Bodil Boesgaard, Vissenbjerg","Venstre, Danmarks Liberale Parti",3
+Assens,18,Verninge/Nårup,"V_Jens_Jakobsen,_Haarby","Jens Jakobsen, Haarby","Venstre, Danmarks Liberale Parti",6
+Assens,18,Verninge/Nårup,"V_Knud_Søby,_Assens","Knud Søby, Assens","Venstre, Danmarks Liberale Parti",0
+Assens,18,Verninge/Nårup,"V_Ole_Maagaard_Pedersen,_Ørsted","Ole Maagaard Pedersen, Ørsted","Venstre, Danmarks Liberale Parti",2
+Assens,18,Verninge/Nårup,"V_Rie_Nielsen,_Assens","Rie Nielsen, Assens","Venstre, Danmarks Liberale Parti",3
+Assens,18,Verninge/Nårup,"V_Henrik_Kirk,_Vissenbjerg","Henrik Kirk, Vissenbjerg","Venstre, Danmarks Liberale Parti",2
+Assens,18,Verninge/Nårup,"V_Camilla_Lykke_Sørensen,_Ebberup","Camilla Lykke Sørensen, Ebberup","Venstre, Danmarks Liberale Parti",7
+Assens,18,Verninge/Nårup,"V_Ib_W._Jensen,_Søllested","Ib W. Jensen, Søllested","Venstre, Danmarks Liberale Parti",2
+Assens,18,Verninge/Nårup,"V_Henrik_Mott_Frandsen,_Turup","Henrik Mott Frandsen, Turup","Venstre, Danmarks Liberale Parti",0
+Assens,18,Verninge/Nårup,"V_Semir_Azet_Sinou,_Assens","Semir Azet Sinou, Assens","Venstre, Danmarks Liberale Parti",2
+Assens,18,Verninge/Nårup,"V_Søren_Edlefsen,_Assens","Søren Edlefsen, Assens","Venstre, Danmarks Liberale Parti",1
+Assens,18,Verninge/Nårup,"V_Henrik_Jørgensen,_Verninge","Henrik Jørgensen, Verninge","Venstre, Danmarks Liberale Parti",74
+Assens,18,Verninge/Nårup,"V_Søren_Fisker_Olesen,_Bred","Søren Fisker Olesen, Bred","Venstre, Danmarks Liberale Parti",0
+Assens,18,Verninge/Nårup,"V_Steen-Ove_Teisner,_Flemløse","Steen-Ove Teisner, Flemløse","Venstre, Danmarks Liberale Parti",0
+Assens,18,Verninge/Nårup,"V_Lars_Tastum_Madsen,_Tommerup","Lars Tastum Madsen, Tommerup","Venstre, Danmarks Liberale Parti",3
+Assens,18,Verninge/Nårup,"V_Camilla_Hedenhoff,_Sø_Søby","Camilla Hedenhoff, Sø Søby","Venstre, Danmarks Liberale Parti",0
+Assens,18,Verninge/Nårup,"V_Ulrikka_Brændgaard_Nissen,_Solevad","Ulrikka Brændgaard Nissen, Solevad","Venstre, Danmarks Liberale Parti",16
+Assens,18,Verninge/Nårup,"V_Torben_Schadt-Poulsen,_Assens","Torben Schadt-Poulsen, Assens","Venstre, Danmarks Liberale Parti",0
+Assens,18,Verninge/Nårup,"V_Peter_Poulsen,_Aarup","Peter Poulsen, Aarup","Venstre, Danmarks Liberale Parti",0
+Assens,18,Verninge/Nårup,Z_Listestemmer,Listestemmer,De LokalNationale,0
+Assens,18,Verninge/Nårup,Z_Betina_Signe_Christiansen,Betina Signe Christiansen,De LokalNationale,1
+Assens,18,Verninge/Nårup,Æ_Listestemmer,Listestemmer,Frihedslisten,1
+Assens,18,Verninge/Nårup,"Æ_Millah_Kongsbach,_Assens","Millah Kongsbach, Assens",Frihedslisten,3
+Assens,18,Verninge/Nårup,"Æ_John_Boisen,_Glamsbjerg","John Boisen, Glamsbjerg",Frihedslisten,0
+Assens,18,Verninge/Nårup,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,10
+Assens,18,Verninge/Nårup,"Ø_Kaj_Alstrup,_Assens","Kaj Alstrup, Assens",Enhedslisten - De Rød-Grønne,5
+Assens,18,Verninge/Nårup,"Ø_Kirsten_Hofset,_Egemosedam","Kirsten Hofset, Egemosedam",Enhedslisten - De Rød-Grønne,2
+Assens,18,Verninge/Nårup,"Ø_Camilla_Reese_Sejerøe,_Skallebølle","Camilla Reese Sejerøe, Skallebølle",Enhedslisten - De Rød-Grønne,0
+Assens,18,Verninge/Nårup,"Ø_Rune_Biskopstö_Christensen,_Assens","Rune Biskopstö Christensen, Assens",Enhedslisten - De Rød-Grønne,0
+Assens,18,Verninge/Nårup,"Ø_Heidi_C.V._Mørch,_Assens","Heidi C.V. Mørch, Assens",Enhedslisten - De Rød-Grønne,0
+Assens,18,Verninge/Nårup,"Ø_Gert_Jacobsen,_Turup","Gert Jacobsen, Turup",Enhedslisten - De Rød-Grønne,0
+Assens,18,Verninge/Nårup,"Ø_Line_Mex-Jørgensen,_Skalbjerg","Line Mex-Jørgensen, Skalbjerg",Enhedslisten - De Rød-Grønne,2
+Assens,18,Verninge/Nårup,"Ø_Henrik_Frydenborg,_Tommerup","Henrik Frydenborg, Tommerup",Enhedslisten - De Rød-Grønne,2
+Assens,18,Verninge/Nårup,Å_Listestemmer,Listestemmer,Alternativet,0
+Assens,18,Verninge/Nårup,Å_Ole_Dupont_Kofod,Ole Dupont Kofod,Alternativet,2

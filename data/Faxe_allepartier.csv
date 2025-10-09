@@ -1,0 +1,645 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Faxe,1,Haslev 01,A_Listestemmer,Listestemmer,Socialdemokratiet,337
+Faxe,1,Haslev 01,A_Camilla_Meyer,Camilla Meyer,Socialdemokratiet,340
+Faxe,1,Haslev 01,A_Jørgen_Richardt_Nielsen,Jørgen Richardt Nielsen,Socialdemokratiet,59
+Faxe,1,Haslev 01,A_Per_Thomsen,Per Thomsen,Socialdemokratiet,72
+Faxe,1,Haslev 01,A_Steen_Andersen,Steen Andersen,Socialdemokratiet,8
+Faxe,1,Haslev 01,A_Lisette_Lind_Larsen,Lisette Lind Larsen,Socialdemokratiet,15
+Faxe,1,Haslev 01,A_Finn_Hansen,Finn Hansen,Socialdemokratiet,10
+Faxe,1,Haslev 01,A_Peter_Vilson,Peter Vilson,Socialdemokratiet,29
+Faxe,1,Haslev 01,A_Randi_O._Johansson,Randi O. Johansson,Socialdemokratiet,24
+Faxe,1,Haslev 01,A_Jeannie_Thorving_Hansen,Jeannie Thorving Hansen,Socialdemokratiet,25
+Faxe,1,Haslev 01,A_Christina_Birkemose,Christina Birkemose,Socialdemokratiet,174
+Faxe,1,Haslev 01,A_Leif_Davidsen,Leif Davidsen,Socialdemokratiet,4
+Faxe,1,Haslev 01,A_Bill_Larsen,Bill Larsen,Socialdemokratiet,2
+Faxe,1,Haslev 01,A_Jens_Hvidemose,Jens Hvidemose,Socialdemokratiet,53
+Faxe,1,Haslev 01,A_Anders_Franssen,Anders Franssen,Socialdemokratiet,10
+Faxe,1,Haslev 01,B_Listestemmer,Listestemmer,Radikale Venstre,20
+Faxe,1,Haslev 01,B_Kenni_Lars_Rasmussen,Kenni Lars Rasmussen,Radikale Venstre,9
+Faxe,1,Haslev 01,B_Anne_Fiil_Winther,Anne Fiil Winther,Radikale Venstre,20
+Faxe,1,Haslev 01,B_Jimmi_Andreasen,Jimmi Andreasen,Radikale Venstre,9
+Faxe,1,Haslev 01,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,107
+Faxe,1,Haslev 01,C_Michael_Christensen,Michael Christensen,Det Konservative Folkeparti,67
+Faxe,1,Haslev 01,C_Allan_Tirsgaard,Allan Tirsgaard,Det Konservative Folkeparti,92
+Faxe,1,Haslev 01,C_Bent_Ole_Bærenholdt,Bent Ole Bærenholdt,Det Konservative Folkeparti,38
+Faxe,1,Haslev 01,C_Anette_Melgaard,Anette Melgaard,Det Konservative Folkeparti,33
+Faxe,1,Haslev 01,C_Stella_Borne_Mikkelsen,Stella Borne Mikkelsen,Det Konservative Folkeparti,7
+Faxe,1,Haslev 01,D_Listestemmer,Listestemmer,Nye Borgerlige,91
+Faxe,1,Haslev 01,D_Pia_Backquist,Pia Backquist,Nye Borgerlige,39
+Faxe,1,Haslev 01,D_René_Nielsen,René Nielsen,Nye Borgerlige,12
+Faxe,1,Haslev 01,D_Henrik_Berg,Henrik Berg,Nye Borgerlige,3
+Faxe,1,Haslev 01,D_Morten_Vennike,Morten Vennike,Nye Borgerlige,1
+Faxe,1,Haslev 01,D_Jannick_Jeppesen,Jannick Jeppesen,Nye Borgerlige,28
+Faxe,1,Haslev 01,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,99
+Faxe,1,Haslev 01,F_Michelle_Frese,Michelle Frese,SF - Socialistisk Folkeparti,91
+Faxe,1,Haslev 01,F_Ivan_Flændsdal,Ivan Flændsdal,SF - Socialistisk Folkeparti,21
+Faxe,1,Haslev 01,F_Mogens_Stilhoff,Mogens Stilhoff,SF - Socialistisk Folkeparti,47
+Faxe,1,Haslev 01,F_Charlotte_Poulsen,Charlotte Poulsen,SF - Socialistisk Folkeparti,11
+Faxe,1,Haslev 01,F_David_S._Christensen,David S. Christensen,SF - Socialistisk Folkeparti,7
+Faxe,1,Haslev 01,F_Ghita_Østenby,Ghita Østenby,SF - Socialistisk Folkeparti,1
+Faxe,1,Haslev 01,F_Nicklas_Sandvad,Nicklas Sandvad,SF - Socialistisk Folkeparti,11
+Faxe,1,Haslev 01,F_Stig_Herold_Nielsen,Stig Herold Nielsen,SF - Socialistisk Folkeparti,0
+Faxe,1,Haslev 01,F_Anita_Skov,Anita Skov,SF - Socialistisk Folkeparti,13
+Faxe,1,Haslev 01,F_Marie_Sonne,Marie Sonne,SF - Socialistisk Folkeparti,10
+Faxe,1,Haslev 01,F_Johnny_Hougaard,Johnny Hougaard,SF - Socialistisk Folkeparti,0
+Faxe,1,Haslev 01,F_Michael_Søndermand,Michael Søndermand,SF - Socialistisk Folkeparti,6
+Faxe,1,Haslev 01,F_Bente_Ovesen,Bente Ovesen,SF - Socialistisk Folkeparti,2
+Faxe,1,Haslev 01,F_Bente_Noer_Larsen,Bente Noer Larsen,SF - Socialistisk Folkeparti,5
+Faxe,1,Haslev 01,F_Mona_Pedersen,Mona Pedersen,SF - Socialistisk Folkeparti,0
+Faxe,1,Haslev 01,I_Listestemmer,Listestemmer,Liberal Alliance,13
+Faxe,1,Haslev 01,I_Mikkel_B._Dam,Mikkel B. Dam,Liberal Alliance,187
+Faxe,1,Haslev 01,I_Emma_Rasmussen,Emma Rasmussen,Liberal Alliance,4
+Faxe,1,Haslev 01,I_Birger_Holm_Brøndberg,Birger Holm Brøndberg,Liberal Alliance,3
+Faxe,1,Haslev 01,I_Lasse_Guldberg_Christensen,Lasse Guldberg Christensen,Liberal Alliance,1
+Faxe,1,Haslev 01,I_Morten_Haupt-Hansen,Morten Haupt-Hansen,Liberal Alliance,9
+Faxe,1,Haslev 01,L_Listestemmer,Listestemmer,Lokallisten,17
+Faxe,1,Haslev 01,L_René_Tuekær,René Tuekær,Lokallisten,17
+Faxe,1,Haslev 01,L_Marianne_Ørgaard,Marianne Ørgaard,Lokallisten,4
+Faxe,1,Haslev 01,L_Nina_Gulddal,Nina Gulddal,Lokallisten,9
+Faxe,1,Haslev 01,L_Jan_Hoffmann,Jan Hoffmann,Lokallisten,1
+Faxe,1,Haslev 01,L_Charlotte_Eiberg,Charlotte Eiberg,Lokallisten,15
+Faxe,1,Haslev 01,L_Calle_Kasper_Christensen,Calle Kasper Christensen,Lokallisten,4
+Faxe,1,Haslev 01,L_Laila_Hansen,Laila Hansen,Lokallisten,3
+Faxe,1,Haslev 01,L_Dorte_Steinmetz_Bagge,Dorte Steinmetz Bagge,Lokallisten,0
+Faxe,1,Haslev 01,O_Listestemmer,Listestemmer,Dansk Folkeparti,101
+Faxe,1,Haslev 01,O_Lars_Folmann,Lars Folmann,Dansk Folkeparti,93
+Faxe,1,Haslev 01,O_Eli_Jacobi_Nielsen,Eli Jacobi Nielsen,Dansk Folkeparti,19
+Faxe,1,Haslev 01,O_Bente_Abrahamsen,Bente Abrahamsen,Dansk Folkeparti,11
+Faxe,1,Haslev 01,O_Martin_Rosbjørn,Martin Rosbjørn,Dansk Folkeparti,6
+Faxe,1,Haslev 01,O_Fritz_Christensen,Fritz Christensen,Dansk Folkeparti,8
+Faxe,1,Haslev 01,O_Steen_Petersen,Steen Petersen,Dansk Folkeparti,17
+Faxe,1,Haslev 01,O_Erik_Tysbjerg_Schiøtt,Erik Tysbjerg Schiøtt,Dansk Folkeparti,6
+Faxe,1,Haslev 01,O_Simone_Bolvig,Simone Bolvig,Dansk Folkeparti,46
+Faxe,1,Haslev 01,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",176
+Faxe,1,Haslev 01,V_Ole_Vive,Ole Vive,"Venstre, Danmarks Liberale Parti",349
+Faxe,1,Haslev 01,V_Michael_Rosendahl,Michael Rosendahl,"Venstre, Danmarks Liberale Parti",125
+Faxe,1,Haslev 01,V_Martin_Lasse_Sieben,Martin Lasse Sieben,"Venstre, Danmarks Liberale Parti",54
+Faxe,1,Haslev 01,V_Erik_Rasmussen,Erik Rasmussen,"Venstre, Danmarks Liberale Parti",18
+Faxe,1,Haslev 01,V_Martin_Kruse,Martin Kruse,"Venstre, Danmarks Liberale Parti",9
+Faxe,1,Haslev 01,V_Dorthe_Adelsbech,Dorthe Adelsbech,"Venstre, Danmarks Liberale Parti",126
+Faxe,1,Haslev 01,V_Dorthe_Egede_Borg,Dorthe Egede Borg,"Venstre, Danmarks Liberale Parti",39
+Faxe,1,Haslev 01,V_Henrik_Aakast,Henrik Aakast,"Venstre, Danmarks Liberale Parti",13
+Faxe,1,Haslev 01,V_Helle_Lysholm,Helle Lysholm,"Venstre, Danmarks Liberale Parti",46
+Faxe,1,Haslev 01,V_Nellie_Bradsted,Nellie Bradsted,"Venstre, Danmarks Liberale Parti",200
+Faxe,1,Haslev 01,V_Jens_Jørgen_Stokholm,Jens Jørgen Stokholm,"Venstre, Danmarks Liberale Parti",6
+Faxe,1,Haslev 01,V_Casper_Niels_S_Christensen,Casper Niels S Christensen,"Venstre, Danmarks Liberale Parti",1
+Faxe,1,Haslev 01,V_Jørgen_Egede_Johannessen,Jørgen Egede Johannessen,"Venstre, Danmarks Liberale Parti",4
+Faxe,1,Haslev 01,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,62
+Faxe,1,Haslev 01,Ø_Thomas_Spange_Olsen,Thomas Spange Olsen,Enhedslisten - De Rød-Grønne,31
+Faxe,1,Haslev 01,Ø_Lone_Stæhr,Lone Stæhr,Enhedslisten - De Rød-Grønne,31
+Faxe,1,Haslev 01,Ø_Ida_Ingerslev_Hansen,Ida Ingerslev Hansen,Enhedslisten - De Rød-Grønne,11
+Faxe,1,Haslev 01,Ø_Helle_Vinther_Wallin,Helle Vinther Wallin,Enhedslisten - De Rød-Grønne,2
+Faxe,1,Haslev 01,Ø_Birgit_Hansen,Birgit Hansen,Enhedslisten - De Rød-Grønne,8
+Faxe,1,Haslev 01,Ø_Jan_Kjærgaard_Hansen,Jan Kjærgaard Hansen,Enhedslisten - De Rød-Grønne,1
+Faxe,2,Haslev 02,A_Listestemmer,Listestemmer,Socialdemokratiet,384
+Faxe,2,Haslev 02,A_Camilla_Meyer,Camilla Meyer,Socialdemokratiet,435
+Faxe,2,Haslev 02,A_Jørgen_Richardt_Nielsen,Jørgen Richardt Nielsen,Socialdemokratiet,64
+Faxe,2,Haslev 02,A_Per_Thomsen,Per Thomsen,Socialdemokratiet,57
+Faxe,2,Haslev 02,A_Steen_Andersen,Steen Andersen,Socialdemokratiet,11
+Faxe,2,Haslev 02,A_Lisette_Lind_Larsen,Lisette Lind Larsen,Socialdemokratiet,15
+Faxe,2,Haslev 02,A_Finn_Hansen,Finn Hansen,Socialdemokratiet,15
+Faxe,2,Haslev 02,A_Peter_Vilson,Peter Vilson,Socialdemokratiet,28
+Faxe,2,Haslev 02,A_Randi_O._Johansson,Randi O. Johansson,Socialdemokratiet,31
+Faxe,2,Haslev 02,A_Jeannie_Thorving_Hansen,Jeannie Thorving Hansen,Socialdemokratiet,35
+Faxe,2,Haslev 02,A_Christina_Birkemose,Christina Birkemose,Socialdemokratiet,196
+Faxe,2,Haslev 02,A_Leif_Davidsen,Leif Davidsen,Socialdemokratiet,4
+Faxe,2,Haslev 02,A_Bill_Larsen,Bill Larsen,Socialdemokratiet,0
+Faxe,2,Haslev 02,A_Jens_Hvidemose,Jens Hvidemose,Socialdemokratiet,80
+Faxe,2,Haslev 02,A_Anders_Franssen,Anders Franssen,Socialdemokratiet,35
+Faxe,2,Haslev 02,B_Listestemmer,Listestemmer,Radikale Venstre,26
+Faxe,2,Haslev 02,B_Kenni_Lars_Rasmussen,Kenni Lars Rasmussen,Radikale Venstre,12
+Faxe,2,Haslev 02,B_Anne_Fiil_Winther,Anne Fiil Winther,Radikale Venstre,34
+Faxe,2,Haslev 02,B_Jimmi_Andreasen,Jimmi Andreasen,Radikale Venstre,7
+Faxe,2,Haslev 02,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,98
+Faxe,2,Haslev 02,C_Michael_Christensen,Michael Christensen,Det Konservative Folkeparti,85
+Faxe,2,Haslev 02,C_Allan_Tirsgaard,Allan Tirsgaard,Det Konservative Folkeparti,82
+Faxe,2,Haslev 02,C_Bent_Ole_Bærenholdt,Bent Ole Bærenholdt,Det Konservative Folkeparti,55
+Faxe,2,Haslev 02,C_Anette_Melgaard,Anette Melgaard,Det Konservative Folkeparti,29
+Faxe,2,Haslev 02,C_Stella_Borne_Mikkelsen,Stella Borne Mikkelsen,Det Konservative Folkeparti,9
+Faxe,2,Haslev 02,D_Listestemmer,Listestemmer,Nye Borgerlige,98
+Faxe,2,Haslev 02,D_Pia_Backquist,Pia Backquist,Nye Borgerlige,51
+Faxe,2,Haslev 02,D_René_Nielsen,René Nielsen,Nye Borgerlige,11
+Faxe,2,Haslev 02,D_Henrik_Berg,Henrik Berg,Nye Borgerlige,7
+Faxe,2,Haslev 02,D_Morten_Vennike,Morten Vennike,Nye Borgerlige,6
+Faxe,2,Haslev 02,D_Jannick_Jeppesen,Jannick Jeppesen,Nye Borgerlige,14
+Faxe,2,Haslev 02,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,106
+Faxe,2,Haslev 02,F_Michelle_Frese,Michelle Frese,SF - Socialistisk Folkeparti,66
+Faxe,2,Haslev 02,F_Ivan_Flændsdal,Ivan Flændsdal,SF - Socialistisk Folkeparti,43
+Faxe,2,Haslev 02,F_Mogens_Stilhoff,Mogens Stilhoff,SF - Socialistisk Folkeparti,52
+Faxe,2,Haslev 02,F_Charlotte_Poulsen,Charlotte Poulsen,SF - Socialistisk Folkeparti,7
+Faxe,2,Haslev 02,F_David_S._Christensen,David S. Christensen,SF - Socialistisk Folkeparti,11
+Faxe,2,Haslev 02,F_Ghita_Østenby,Ghita Østenby,SF - Socialistisk Folkeparti,0
+Faxe,2,Haslev 02,F_Nicklas_Sandvad,Nicklas Sandvad,SF - Socialistisk Folkeparti,16
+Faxe,2,Haslev 02,F_Stig_Herold_Nielsen,Stig Herold Nielsen,SF - Socialistisk Folkeparti,1
+Faxe,2,Haslev 02,F_Anita_Skov,Anita Skov,SF - Socialistisk Folkeparti,14
+Faxe,2,Haslev 02,F_Marie_Sonne,Marie Sonne,SF - Socialistisk Folkeparti,10
+Faxe,2,Haslev 02,F_Johnny_Hougaard,Johnny Hougaard,SF - Socialistisk Folkeparti,0
+Faxe,2,Haslev 02,F_Michael_Søndermand,Michael Søndermand,SF - Socialistisk Folkeparti,3
+Faxe,2,Haslev 02,F_Bente_Ovesen,Bente Ovesen,SF - Socialistisk Folkeparti,5
+Faxe,2,Haslev 02,F_Bente_Noer_Larsen,Bente Noer Larsen,SF - Socialistisk Folkeparti,1
+Faxe,2,Haslev 02,F_Mona_Pedersen,Mona Pedersen,SF - Socialistisk Folkeparti,0
+Faxe,2,Haslev 02,I_Listestemmer,Listestemmer,Liberal Alliance,9
+Faxe,2,Haslev 02,I_Mikkel_B._Dam,Mikkel B. Dam,Liberal Alliance,204
+Faxe,2,Haslev 02,I_Emma_Rasmussen,Emma Rasmussen,Liberal Alliance,1
+Faxe,2,Haslev 02,I_Birger_Holm_Brøndberg,Birger Holm Brøndberg,Liberal Alliance,5
+Faxe,2,Haslev 02,I_Lasse_Guldberg_Christensen,Lasse Guldberg Christensen,Liberal Alliance,1
+Faxe,2,Haslev 02,I_Morten_Haupt-Hansen,Morten Haupt-Hansen,Liberal Alliance,7
+Faxe,2,Haslev 02,L_Listestemmer,Listestemmer,Lokallisten,21
+Faxe,2,Haslev 02,L_René_Tuekær,René Tuekær,Lokallisten,29
+Faxe,2,Haslev 02,L_Marianne_Ørgaard,Marianne Ørgaard,Lokallisten,8
+Faxe,2,Haslev 02,L_Nina_Gulddal,Nina Gulddal,Lokallisten,13
+Faxe,2,Haslev 02,L_Jan_Hoffmann,Jan Hoffmann,Lokallisten,2
+Faxe,2,Haslev 02,L_Charlotte_Eiberg,Charlotte Eiberg,Lokallisten,9
+Faxe,2,Haslev 02,L_Calle_Kasper_Christensen,Calle Kasper Christensen,Lokallisten,5
+Faxe,2,Haslev 02,L_Laila_Hansen,Laila Hansen,Lokallisten,4
+Faxe,2,Haslev 02,L_Dorte_Steinmetz_Bagge,Dorte Steinmetz Bagge,Lokallisten,0
+Faxe,2,Haslev 02,O_Listestemmer,Listestemmer,Dansk Folkeparti,75
+Faxe,2,Haslev 02,O_Lars_Folmann,Lars Folmann,Dansk Folkeparti,135
+Faxe,2,Haslev 02,O_Eli_Jacobi_Nielsen,Eli Jacobi Nielsen,Dansk Folkeparti,19
+Faxe,2,Haslev 02,O_Bente_Abrahamsen,Bente Abrahamsen,Dansk Folkeparti,14
+Faxe,2,Haslev 02,O_Martin_Rosbjørn,Martin Rosbjørn,Dansk Folkeparti,6
+Faxe,2,Haslev 02,O_Fritz_Christensen,Fritz Christensen,Dansk Folkeparti,9
+Faxe,2,Haslev 02,O_Steen_Petersen,Steen Petersen,Dansk Folkeparti,18
+Faxe,2,Haslev 02,O_Erik_Tysbjerg_Schiøtt,Erik Tysbjerg Schiøtt,Dansk Folkeparti,3
+Faxe,2,Haslev 02,O_Simone_Bolvig,Simone Bolvig,Dansk Folkeparti,13
+Faxe,2,Haslev 02,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",174
+Faxe,2,Haslev 02,V_Ole_Vive,Ole Vive,"Venstre, Danmarks Liberale Parti",330
+Faxe,2,Haslev 02,V_Michael_Rosendahl,Michael Rosendahl,"Venstre, Danmarks Liberale Parti",72
+Faxe,2,Haslev 02,V_Martin_Lasse_Sieben,Martin Lasse Sieben,"Venstre, Danmarks Liberale Parti",19
+Faxe,2,Haslev 02,V_Erik_Rasmussen,Erik Rasmussen,"Venstre, Danmarks Liberale Parti",7
+Faxe,2,Haslev 02,V_Martin_Kruse,Martin Kruse,"Venstre, Danmarks Liberale Parti",8
+Faxe,2,Haslev 02,V_Dorthe_Adelsbech,Dorthe Adelsbech,"Venstre, Danmarks Liberale Parti",92
+Faxe,2,Haslev 02,V_Dorthe_Egede_Borg,Dorthe Egede Borg,"Venstre, Danmarks Liberale Parti",28
+Faxe,2,Haslev 02,V_Henrik_Aakast,Henrik Aakast,"Venstre, Danmarks Liberale Parti",70
+Faxe,2,Haslev 02,V_Helle_Lysholm,Helle Lysholm,"Venstre, Danmarks Liberale Parti",38
+Faxe,2,Haslev 02,V_Nellie_Bradsted,Nellie Bradsted,"Venstre, Danmarks Liberale Parti",153
+Faxe,2,Haslev 02,V_Jens_Jørgen_Stokholm,Jens Jørgen Stokholm,"Venstre, Danmarks Liberale Parti",2
+Faxe,2,Haslev 02,V_Casper_Niels_S_Christensen,Casper Niels S Christensen,"Venstre, Danmarks Liberale Parti",1
+Faxe,2,Haslev 02,V_Jørgen_Egede_Johannessen,Jørgen Egede Johannessen,"Venstre, Danmarks Liberale Parti",10
+Faxe,2,Haslev 02,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,84
+Faxe,2,Haslev 02,Ø_Thomas_Spange_Olsen,Thomas Spange Olsen,Enhedslisten - De Rød-Grønne,37
+Faxe,2,Haslev 02,Ø_Lone_Stæhr,Lone Stæhr,Enhedslisten - De Rød-Grønne,50
+Faxe,2,Haslev 02,Ø_Ida_Ingerslev_Hansen,Ida Ingerslev Hansen,Enhedslisten - De Rød-Grønne,11
+Faxe,2,Haslev 02,Ø_Helle_Vinther_Wallin,Helle Vinther Wallin,Enhedslisten - De Rød-Grønne,1
+Faxe,2,Haslev 02,Ø_Birgit_Hansen,Birgit Hansen,Enhedslisten - De Rød-Grønne,5
+Faxe,2,Haslev 02,Ø_Jan_Kjærgaard_Hansen,Jan Kjærgaard Hansen,Enhedslisten - De Rød-Grønne,5
+Faxe,3,Faxe,A_Listestemmer,Listestemmer,Socialdemokratiet,227
+Faxe,3,Faxe,A_Camilla_Meyer,Camilla Meyer,Socialdemokratiet,219
+Faxe,3,Faxe,A_Jørgen_Richardt_Nielsen,Jørgen Richardt Nielsen,Socialdemokratiet,9
+Faxe,3,Faxe,A_Per_Thomsen,Per Thomsen,Socialdemokratiet,27
+Faxe,3,Faxe,A_Steen_Andersen,Steen Andersen,Socialdemokratiet,32
+Faxe,3,Faxe,A_Lisette_Lind_Larsen,Lisette Lind Larsen,Socialdemokratiet,131
+Faxe,3,Faxe,A_Finn_Hansen,Finn Hansen,Socialdemokratiet,7
+Faxe,3,Faxe,A_Peter_Vilson,Peter Vilson,Socialdemokratiet,3
+Faxe,3,Faxe,A_Randi_O._Johansson,Randi O. Johansson,Socialdemokratiet,67
+Faxe,3,Faxe,A_Jeannie_Thorving_Hansen,Jeannie Thorving Hansen,Socialdemokratiet,8
+Faxe,3,Faxe,A_Christina_Birkemose,Christina Birkemose,Socialdemokratiet,34
+Faxe,3,Faxe,A_Leif_Davidsen,Leif Davidsen,Socialdemokratiet,3
+Faxe,3,Faxe,A_Bill_Larsen,Bill Larsen,Socialdemokratiet,19
+Faxe,3,Faxe,A_Jens_Hvidemose,Jens Hvidemose,Socialdemokratiet,3
+Faxe,3,Faxe,A_Anders_Franssen,Anders Franssen,Socialdemokratiet,1
+Faxe,3,Faxe,B_Listestemmer,Listestemmer,Radikale Venstre,10
+Faxe,3,Faxe,B_Kenni_Lars_Rasmussen,Kenni Lars Rasmussen,Radikale Venstre,6
+Faxe,3,Faxe,B_Anne_Fiil_Winther,Anne Fiil Winther,Radikale Venstre,11
+Faxe,3,Faxe,B_Jimmi_Andreasen,Jimmi Andreasen,Radikale Venstre,2
+Faxe,3,Faxe,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,45
+Faxe,3,Faxe,C_Michael_Christensen,Michael Christensen,Det Konservative Folkeparti,38
+Faxe,3,Faxe,C_Allan_Tirsgaard,Allan Tirsgaard,Det Konservative Folkeparti,10
+Faxe,3,Faxe,C_Bent_Ole_Bærenholdt,Bent Ole Bærenholdt,Det Konservative Folkeparti,6
+Faxe,3,Faxe,C_Anette_Melgaard,Anette Melgaard,Det Konservative Folkeparti,11
+Faxe,3,Faxe,C_Stella_Borne_Mikkelsen,Stella Borne Mikkelsen,Det Konservative Folkeparti,7
+Faxe,3,Faxe,D_Listestemmer,Listestemmer,Nye Borgerlige,69
+Faxe,3,Faxe,D_Pia_Backquist,Pia Backquist,Nye Borgerlige,28
+Faxe,3,Faxe,D_René_Nielsen,René Nielsen,Nye Borgerlige,13
+Faxe,3,Faxe,D_Henrik_Berg,Henrik Berg,Nye Borgerlige,4
+Faxe,3,Faxe,D_Morten_Vennike,Morten Vennike,Nye Borgerlige,2
+Faxe,3,Faxe,D_Jannick_Jeppesen,Jannick Jeppesen,Nye Borgerlige,14
+Faxe,3,Faxe,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,42
+Faxe,3,Faxe,F_Michelle_Frese,Michelle Frese,SF - Socialistisk Folkeparti,31
+Faxe,3,Faxe,F_Ivan_Flændsdal,Ivan Flændsdal,SF - Socialistisk Folkeparti,7
+Faxe,3,Faxe,F_Mogens_Stilhoff,Mogens Stilhoff,SF - Socialistisk Folkeparti,5
+Faxe,3,Faxe,F_Charlotte_Poulsen,Charlotte Poulsen,SF - Socialistisk Folkeparti,15
+Faxe,3,Faxe,F_David_S._Christensen,David S. Christensen,SF - Socialistisk Folkeparti,2
+Faxe,3,Faxe,F_Ghita_Østenby,Ghita Østenby,SF - Socialistisk Folkeparti,1
+Faxe,3,Faxe,F_Nicklas_Sandvad,Nicklas Sandvad,SF - Socialistisk Folkeparti,1
+Faxe,3,Faxe,F_Stig_Herold_Nielsen,Stig Herold Nielsen,SF - Socialistisk Folkeparti,1
+Faxe,3,Faxe,F_Anita_Skov,Anita Skov,SF - Socialistisk Folkeparti,3
+Faxe,3,Faxe,F_Marie_Sonne,Marie Sonne,SF - Socialistisk Folkeparti,5
+Faxe,3,Faxe,F_Johnny_Hougaard,Johnny Hougaard,SF - Socialistisk Folkeparti,0
+Faxe,3,Faxe,F_Michael_Søndermand,Michael Søndermand,SF - Socialistisk Folkeparti,1
+Faxe,3,Faxe,F_Bente_Ovesen,Bente Ovesen,SF - Socialistisk Folkeparti,1
+Faxe,3,Faxe,F_Bente_Noer_Larsen,Bente Noer Larsen,SF - Socialistisk Folkeparti,0
+Faxe,3,Faxe,F_Mona_Pedersen,Mona Pedersen,SF - Socialistisk Folkeparti,1
+Faxe,3,Faxe,I_Listestemmer,Listestemmer,Liberal Alliance,6
+Faxe,3,Faxe,I_Mikkel_B._Dam,Mikkel B. Dam,Liberal Alliance,54
+Faxe,3,Faxe,I_Emma_Rasmussen,Emma Rasmussen,Liberal Alliance,2
+Faxe,3,Faxe,I_Birger_Holm_Brøndberg,Birger Holm Brøndberg,Liberal Alliance,2
+Faxe,3,Faxe,I_Lasse_Guldberg_Christensen,Lasse Guldberg Christensen,Liberal Alliance,0
+Faxe,3,Faxe,I_Morten_Haupt-Hansen,Morten Haupt-Hansen,Liberal Alliance,1
+Faxe,3,Faxe,L_Listestemmer,Listestemmer,Lokallisten,33
+Faxe,3,Faxe,L_René_Tuekær,René Tuekær,Lokallisten,246
+Faxe,3,Faxe,L_Marianne_Ørgaard,Marianne Ørgaard,Lokallisten,17
+Faxe,3,Faxe,L_Nina_Gulddal,Nina Gulddal,Lokallisten,2
+Faxe,3,Faxe,L_Jan_Hoffmann,Jan Hoffmann,Lokallisten,1
+Faxe,3,Faxe,L_Charlotte_Eiberg,Charlotte Eiberg,Lokallisten,3
+Faxe,3,Faxe,L_Calle_Kasper_Christensen,Calle Kasper Christensen,Lokallisten,6
+Faxe,3,Faxe,L_Laila_Hansen,Laila Hansen,Lokallisten,2
+Faxe,3,Faxe,L_Dorte_Steinmetz_Bagge,Dorte Steinmetz Bagge,Lokallisten,3
+Faxe,3,Faxe,O_Listestemmer,Listestemmer,Dansk Folkeparti,60
+Faxe,3,Faxe,O_Lars_Folmann,Lars Folmann,Dansk Folkeparti,21
+Faxe,3,Faxe,O_Eli_Jacobi_Nielsen,Eli Jacobi Nielsen,Dansk Folkeparti,16
+Faxe,3,Faxe,O_Bente_Abrahamsen,Bente Abrahamsen,Dansk Folkeparti,54
+Faxe,3,Faxe,O_Martin_Rosbjørn,Martin Rosbjørn,Dansk Folkeparti,5
+Faxe,3,Faxe,O_Fritz_Christensen,Fritz Christensen,Dansk Folkeparti,6
+Faxe,3,Faxe,O_Steen_Petersen,Steen Petersen,Dansk Folkeparti,10
+Faxe,3,Faxe,O_Erik_Tysbjerg_Schiøtt,Erik Tysbjerg Schiøtt,Dansk Folkeparti,3
+Faxe,3,Faxe,O_Simone_Bolvig,Simone Bolvig,Dansk Folkeparti,6
+Faxe,3,Faxe,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",97
+Faxe,3,Faxe,V_Ole_Vive,Ole Vive,"Venstre, Danmarks Liberale Parti",432
+Faxe,3,Faxe,V_Michael_Rosendahl,Michael Rosendahl,"Venstre, Danmarks Liberale Parti",4
+Faxe,3,Faxe,V_Martin_Lasse_Sieben,Martin Lasse Sieben,"Venstre, Danmarks Liberale Parti",3
+Faxe,3,Faxe,V_Erik_Rasmussen,Erik Rasmussen,"Venstre, Danmarks Liberale Parti",10
+Faxe,3,Faxe,V_Martin_Kruse,Martin Kruse,"Venstre, Danmarks Liberale Parti",1
+Faxe,3,Faxe,V_Dorthe_Adelsbech,Dorthe Adelsbech,"Venstre, Danmarks Liberale Parti",99
+Faxe,3,Faxe,V_Dorthe_Egede_Borg,Dorthe Egede Borg,"Venstre, Danmarks Liberale Parti",22
+Faxe,3,Faxe,V_Henrik_Aakast,Henrik Aakast,"Venstre, Danmarks Liberale Parti",4
+Faxe,3,Faxe,V_Helle_Lysholm,Helle Lysholm,"Venstre, Danmarks Liberale Parti",8
+Faxe,3,Faxe,V_Nellie_Bradsted,Nellie Bradsted,"Venstre, Danmarks Liberale Parti",16
+Faxe,3,Faxe,V_Jens_Jørgen_Stokholm,Jens Jørgen Stokholm,"Venstre, Danmarks Liberale Parti",0
+Faxe,3,Faxe,V_Casper_Niels_S_Christensen,Casper Niels S Christensen,"Venstre, Danmarks Liberale Parti",7
+Faxe,3,Faxe,V_Jørgen_Egede_Johannessen,Jørgen Egede Johannessen,"Venstre, Danmarks Liberale Parti",2
+Faxe,3,Faxe,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,37
+Faxe,3,Faxe,Ø_Thomas_Spange_Olsen,Thomas Spange Olsen,Enhedslisten - De Rød-Grønne,18
+Faxe,3,Faxe,Ø_Lone_Stæhr,Lone Stæhr,Enhedslisten - De Rød-Grønne,2
+Faxe,3,Faxe,Ø_Ida_Ingerslev_Hansen,Ida Ingerslev Hansen,Enhedslisten - De Rød-Grønne,3
+Faxe,3,Faxe,Ø_Helle_Vinther_Wallin,Helle Vinther Wallin,Enhedslisten - De Rød-Grønne,12
+Faxe,3,Faxe,Ø_Birgit_Hansen,Birgit Hansen,Enhedslisten - De Rød-Grønne,2
+Faxe,3,Faxe,Ø_Jan_Kjærgaard_Hansen,Jan Kjærgaard Hansen,Enhedslisten - De Rød-Grønne,0
+Faxe,4,Hylleholt,A_Listestemmer,Listestemmer,Socialdemokratiet,201
+Faxe,4,Hylleholt,A_Camilla_Meyer,Camilla Meyer,Socialdemokratiet,236
+Faxe,4,Hylleholt,A_Jørgen_Richardt_Nielsen,Jørgen Richardt Nielsen,Socialdemokratiet,17
+Faxe,4,Hylleholt,A_Per_Thomsen,Per Thomsen,Socialdemokratiet,13
+Faxe,4,Hylleholt,A_Steen_Andersen,Steen Andersen,Socialdemokratiet,14
+Faxe,4,Hylleholt,A_Lisette_Lind_Larsen,Lisette Lind Larsen,Socialdemokratiet,74
+Faxe,4,Hylleholt,A_Finn_Hansen,Finn Hansen,Socialdemokratiet,13
+Faxe,4,Hylleholt,A_Peter_Vilson,Peter Vilson,Socialdemokratiet,2
+Faxe,4,Hylleholt,A_Randi_O._Johansson,Randi O. Johansson,Socialdemokratiet,12
+Faxe,4,Hylleholt,A_Jeannie_Thorving_Hansen,Jeannie Thorving Hansen,Socialdemokratiet,5
+Faxe,4,Hylleholt,A_Christina_Birkemose,Christina Birkemose,Socialdemokratiet,37
+Faxe,4,Hylleholt,A_Leif_Davidsen,Leif Davidsen,Socialdemokratiet,1
+Faxe,4,Hylleholt,A_Bill_Larsen,Bill Larsen,Socialdemokratiet,50
+Faxe,4,Hylleholt,A_Jens_Hvidemose,Jens Hvidemose,Socialdemokratiet,1
+Faxe,4,Hylleholt,A_Anders_Franssen,Anders Franssen,Socialdemokratiet,3
+Faxe,4,Hylleholt,B_Listestemmer,Listestemmer,Radikale Venstre,3
+Faxe,4,Hylleholt,B_Kenni_Lars_Rasmussen,Kenni Lars Rasmussen,Radikale Venstre,0
+Faxe,4,Hylleholt,B_Anne_Fiil_Winther,Anne Fiil Winther,Radikale Venstre,17
+Faxe,4,Hylleholt,B_Jimmi_Andreasen,Jimmi Andreasen,Radikale Venstre,4
+Faxe,4,Hylleholt,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,52
+Faxe,4,Hylleholt,C_Michael_Christensen,Michael Christensen,Det Konservative Folkeparti,18
+Faxe,4,Hylleholt,C_Allan_Tirsgaard,Allan Tirsgaard,Det Konservative Folkeparti,7
+Faxe,4,Hylleholt,C_Bent_Ole_Bærenholdt,Bent Ole Bærenholdt,Det Konservative Folkeparti,7
+Faxe,4,Hylleholt,C_Anette_Melgaard,Anette Melgaard,Det Konservative Folkeparti,10
+Faxe,4,Hylleholt,C_Stella_Borne_Mikkelsen,Stella Borne Mikkelsen,Det Konservative Folkeparti,4
+Faxe,4,Hylleholt,D_Listestemmer,Listestemmer,Nye Borgerlige,48
+Faxe,4,Hylleholt,D_Pia_Backquist,Pia Backquist,Nye Borgerlige,10
+Faxe,4,Hylleholt,D_René_Nielsen,René Nielsen,Nye Borgerlige,8
+Faxe,4,Hylleholt,D_Henrik_Berg,Henrik Berg,Nye Borgerlige,8
+Faxe,4,Hylleholt,D_Morten_Vennike,Morten Vennike,Nye Borgerlige,0
+Faxe,4,Hylleholt,D_Jannick_Jeppesen,Jannick Jeppesen,Nye Borgerlige,9
+Faxe,4,Hylleholt,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,68
+Faxe,4,Hylleholt,F_Michelle_Frese,Michelle Frese,SF - Socialistisk Folkeparti,63
+Faxe,4,Hylleholt,F_Ivan_Flændsdal,Ivan Flændsdal,SF - Socialistisk Folkeparti,14
+Faxe,4,Hylleholt,F_Mogens_Stilhoff,Mogens Stilhoff,SF - Socialistisk Folkeparti,2
+Faxe,4,Hylleholt,F_Charlotte_Poulsen,Charlotte Poulsen,SF - Socialistisk Folkeparti,12
+Faxe,4,Hylleholt,F_David_S._Christensen,David S. Christensen,SF - Socialistisk Folkeparti,4
+Faxe,4,Hylleholt,F_Ghita_Østenby,Ghita Østenby,SF - Socialistisk Folkeparti,4
+Faxe,4,Hylleholt,F_Nicklas_Sandvad,Nicklas Sandvad,SF - Socialistisk Folkeparti,3
+Faxe,4,Hylleholt,F_Stig_Herold_Nielsen,Stig Herold Nielsen,SF - Socialistisk Folkeparti,1
+Faxe,4,Hylleholt,F_Anita_Skov,Anita Skov,SF - Socialistisk Folkeparti,0
+Faxe,4,Hylleholt,F_Marie_Sonne,Marie Sonne,SF - Socialistisk Folkeparti,3
+Faxe,4,Hylleholt,F_Johnny_Hougaard,Johnny Hougaard,SF - Socialistisk Folkeparti,0
+Faxe,4,Hylleholt,F_Michael_Søndermand,Michael Søndermand,SF - Socialistisk Folkeparti,1
+Faxe,4,Hylleholt,F_Bente_Ovesen,Bente Ovesen,SF - Socialistisk Folkeparti,1
+Faxe,4,Hylleholt,F_Bente_Noer_Larsen,Bente Noer Larsen,SF - Socialistisk Folkeparti,2
+Faxe,4,Hylleholt,F_Mona_Pedersen,Mona Pedersen,SF - Socialistisk Folkeparti,3
+Faxe,4,Hylleholt,I_Listestemmer,Listestemmer,Liberal Alliance,6
+Faxe,4,Hylleholt,I_Mikkel_B._Dam,Mikkel B. Dam,Liberal Alliance,31
+Faxe,4,Hylleholt,I_Emma_Rasmussen,Emma Rasmussen,Liberal Alliance,1
+Faxe,4,Hylleholt,I_Birger_Holm_Brøndberg,Birger Holm Brøndberg,Liberal Alliance,4
+Faxe,4,Hylleholt,I_Lasse_Guldberg_Christensen,Lasse Guldberg Christensen,Liberal Alliance,0
+Faxe,4,Hylleholt,I_Morten_Haupt-Hansen,Morten Haupt-Hansen,Liberal Alliance,0
+Faxe,4,Hylleholt,L_Listestemmer,Listestemmer,Lokallisten,32
+Faxe,4,Hylleholt,L_René_Tuekær,René Tuekær,Lokallisten,190
+Faxe,4,Hylleholt,L_Marianne_Ørgaard,Marianne Ørgaard,Lokallisten,22
+Faxe,4,Hylleholt,L_Nina_Gulddal,Nina Gulddal,Lokallisten,0
+Faxe,4,Hylleholt,L_Jan_Hoffmann,Jan Hoffmann,Lokallisten,18
+Faxe,4,Hylleholt,L_Charlotte_Eiberg,Charlotte Eiberg,Lokallisten,4
+Faxe,4,Hylleholt,L_Calle_Kasper_Christensen,Calle Kasper Christensen,Lokallisten,2
+Faxe,4,Hylleholt,L_Laila_Hansen,Laila Hansen,Lokallisten,11
+Faxe,4,Hylleholt,L_Dorte_Steinmetz_Bagge,Dorte Steinmetz Bagge,Lokallisten,3
+Faxe,4,Hylleholt,O_Listestemmer,Listestemmer,Dansk Folkeparti,36
+Faxe,4,Hylleholt,O_Lars_Folmann,Lars Folmann,Dansk Folkeparti,29
+Faxe,4,Hylleholt,O_Eli_Jacobi_Nielsen,Eli Jacobi Nielsen,Dansk Folkeparti,12
+Faxe,4,Hylleholt,O_Bente_Abrahamsen,Bente Abrahamsen,Dansk Folkeparti,55
+Faxe,4,Hylleholt,O_Martin_Rosbjørn,Martin Rosbjørn,Dansk Folkeparti,4
+Faxe,4,Hylleholt,O_Fritz_Christensen,Fritz Christensen,Dansk Folkeparti,6
+Faxe,4,Hylleholt,O_Steen_Petersen,Steen Petersen,Dansk Folkeparti,6
+Faxe,4,Hylleholt,O_Erik_Tysbjerg_Schiøtt,Erik Tysbjerg Schiøtt,Dansk Folkeparti,0
+Faxe,4,Hylleholt,O_Simone_Bolvig,Simone Bolvig,Dansk Folkeparti,5
+Faxe,4,Hylleholt,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",67
+Faxe,4,Hylleholt,V_Ole_Vive,Ole Vive,"Venstre, Danmarks Liberale Parti",380
+Faxe,4,Hylleholt,V_Michael_Rosendahl,Michael Rosendahl,"Venstre, Danmarks Liberale Parti",3
+Faxe,4,Hylleholt,V_Martin_Lasse_Sieben,Martin Lasse Sieben,"Venstre, Danmarks Liberale Parti",4
+Faxe,4,Hylleholt,V_Erik_Rasmussen,Erik Rasmussen,"Venstre, Danmarks Liberale Parti",10
+Faxe,4,Hylleholt,V_Martin_Kruse,Martin Kruse,"Venstre, Danmarks Liberale Parti",4
+Faxe,4,Hylleholt,V_Dorthe_Adelsbech,Dorthe Adelsbech,"Venstre, Danmarks Liberale Parti",31
+Faxe,4,Hylleholt,V_Dorthe_Egede_Borg,Dorthe Egede Borg,"Venstre, Danmarks Liberale Parti",12
+Faxe,4,Hylleholt,V_Henrik_Aakast,Henrik Aakast,"Venstre, Danmarks Liberale Parti",1
+Faxe,4,Hylleholt,V_Helle_Lysholm,Helle Lysholm,"Venstre, Danmarks Liberale Parti",7
+Faxe,4,Hylleholt,V_Nellie_Bradsted,Nellie Bradsted,"Venstre, Danmarks Liberale Parti",10
+Faxe,4,Hylleholt,V_Jens_Jørgen_Stokholm,Jens Jørgen Stokholm,"Venstre, Danmarks Liberale Parti",0
+Faxe,4,Hylleholt,V_Casper_Niels_S_Christensen,Casper Niels S Christensen,"Venstre, Danmarks Liberale Parti",0
+Faxe,4,Hylleholt,V_Jørgen_Egede_Johannessen,Jørgen Egede Johannessen,"Venstre, Danmarks Liberale Parti",1
+Faxe,4,Hylleholt,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,67
+Faxe,4,Hylleholt,Ø_Thomas_Spange_Olsen,Thomas Spange Olsen,Enhedslisten - De Rød-Grønne,63
+Faxe,4,Hylleholt,Ø_Lone_Stæhr,Lone Stæhr,Enhedslisten - De Rød-Grønne,4
+Faxe,4,Hylleholt,Ø_Ida_Ingerslev_Hansen,Ida Ingerslev Hansen,Enhedslisten - De Rød-Grønne,26
+Faxe,4,Hylleholt,Ø_Helle_Vinther_Wallin,Helle Vinther Wallin,Enhedslisten - De Rød-Grønne,9
+Faxe,4,Hylleholt,Ø_Birgit_Hansen,Birgit Hansen,Enhedslisten - De Rød-Grønne,2
+Faxe,4,Hylleholt,Ø_Jan_Kjærgaard_Hansen,Jan Kjærgaard Hansen,Enhedslisten - De Rød-Grønne,8
+Faxe,5,Karise,A_Listestemmer,Listestemmer,Socialdemokratiet,170
+Faxe,5,Karise,A_Camilla_Meyer,Camilla Meyer,Socialdemokratiet,163
+Faxe,5,Karise,A_Jørgen_Richardt_Nielsen,Jørgen Richardt Nielsen,Socialdemokratiet,9
+Faxe,5,Karise,A_Per_Thomsen,Per Thomsen,Socialdemokratiet,15
+Faxe,5,Karise,A_Steen_Andersen,Steen Andersen,Socialdemokratiet,2
+Faxe,5,Karise,A_Lisette_Lind_Larsen,Lisette Lind Larsen,Socialdemokratiet,21
+Faxe,5,Karise,A_Finn_Hansen,Finn Hansen,Socialdemokratiet,6
+Faxe,5,Karise,A_Peter_Vilson,Peter Vilson,Socialdemokratiet,2
+Faxe,5,Karise,A_Randi_O._Johansson,Randi O. Johansson,Socialdemokratiet,22
+Faxe,5,Karise,A_Jeannie_Thorving_Hansen,Jeannie Thorving Hansen,Socialdemokratiet,1
+Faxe,5,Karise,A_Christina_Birkemose,Christina Birkemose,Socialdemokratiet,14
+Faxe,5,Karise,A_Leif_Davidsen,Leif Davidsen,Socialdemokratiet,1
+Faxe,5,Karise,A_Bill_Larsen,Bill Larsen,Socialdemokratiet,8
+Faxe,5,Karise,A_Jens_Hvidemose,Jens Hvidemose,Socialdemokratiet,0
+Faxe,5,Karise,A_Anders_Franssen,Anders Franssen,Socialdemokratiet,6
+Faxe,5,Karise,B_Listestemmer,Listestemmer,Radikale Venstre,13
+Faxe,5,Karise,B_Kenni_Lars_Rasmussen,Kenni Lars Rasmussen,Radikale Venstre,4
+Faxe,5,Karise,B_Anne_Fiil_Winther,Anne Fiil Winther,Radikale Venstre,13
+Faxe,5,Karise,B_Jimmi_Andreasen,Jimmi Andreasen,Radikale Venstre,1
+Faxe,5,Karise,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,52
+Faxe,5,Karise,C_Michael_Christensen,Michael Christensen,Det Konservative Folkeparti,26
+Faxe,5,Karise,C_Allan_Tirsgaard,Allan Tirsgaard,Det Konservative Folkeparti,15
+Faxe,5,Karise,C_Bent_Ole_Bærenholdt,Bent Ole Bærenholdt,Det Konservative Folkeparti,8
+Faxe,5,Karise,C_Anette_Melgaard,Anette Melgaard,Det Konservative Folkeparti,15
+Faxe,5,Karise,C_Stella_Borne_Mikkelsen,Stella Borne Mikkelsen,Det Konservative Folkeparti,5
+Faxe,5,Karise,D_Listestemmer,Listestemmer,Nye Borgerlige,85
+Faxe,5,Karise,D_Pia_Backquist,Pia Backquist,Nye Borgerlige,32
+Faxe,5,Karise,D_René_Nielsen,René Nielsen,Nye Borgerlige,12
+Faxe,5,Karise,D_Henrik_Berg,Henrik Berg,Nye Borgerlige,4
+Faxe,5,Karise,D_Morten_Vennike,Morten Vennike,Nye Borgerlige,1
+Faxe,5,Karise,D_Jannick_Jeppesen,Jannick Jeppesen,Nye Borgerlige,6
+Faxe,5,Karise,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,53
+Faxe,5,Karise,F_Michelle_Frese,Michelle Frese,SF - Socialistisk Folkeparti,101
+Faxe,5,Karise,F_Ivan_Flændsdal,Ivan Flændsdal,SF - Socialistisk Folkeparti,10
+Faxe,5,Karise,F_Mogens_Stilhoff,Mogens Stilhoff,SF - Socialistisk Folkeparti,7
+Faxe,5,Karise,F_Charlotte_Poulsen,Charlotte Poulsen,SF - Socialistisk Folkeparti,4
+Faxe,5,Karise,F_David_S._Christensen,David S. Christensen,SF - Socialistisk Folkeparti,1
+Faxe,5,Karise,F_Ghita_Østenby,Ghita Østenby,SF - Socialistisk Folkeparti,2
+Faxe,5,Karise,F_Nicklas_Sandvad,Nicklas Sandvad,SF - Socialistisk Folkeparti,2
+Faxe,5,Karise,F_Stig_Herold_Nielsen,Stig Herold Nielsen,SF - Socialistisk Folkeparti,5
+Faxe,5,Karise,F_Anita_Skov,Anita Skov,SF - Socialistisk Folkeparti,3
+Faxe,5,Karise,F_Marie_Sonne,Marie Sonne,SF - Socialistisk Folkeparti,9
+Faxe,5,Karise,F_Johnny_Hougaard,Johnny Hougaard,SF - Socialistisk Folkeparti,1
+Faxe,5,Karise,F_Michael_Søndermand,Michael Søndermand,SF - Socialistisk Folkeparti,0
+Faxe,5,Karise,F_Bente_Ovesen,Bente Ovesen,SF - Socialistisk Folkeparti,0
+Faxe,5,Karise,F_Bente_Noer_Larsen,Bente Noer Larsen,SF - Socialistisk Folkeparti,1
+Faxe,5,Karise,F_Mona_Pedersen,Mona Pedersen,SF - Socialistisk Folkeparti,8
+Faxe,5,Karise,I_Listestemmer,Listestemmer,Liberal Alliance,12
+Faxe,5,Karise,I_Mikkel_B._Dam,Mikkel B. Dam,Liberal Alliance,27
+Faxe,5,Karise,I_Emma_Rasmussen,Emma Rasmussen,Liberal Alliance,3
+Faxe,5,Karise,I_Birger_Holm_Brøndberg,Birger Holm Brøndberg,Liberal Alliance,2
+Faxe,5,Karise,I_Lasse_Guldberg_Christensen,Lasse Guldberg Christensen,Liberal Alliance,0
+Faxe,5,Karise,I_Morten_Haupt-Hansen,Morten Haupt-Hansen,Liberal Alliance,0
+Faxe,5,Karise,L_Listestemmer,Listestemmer,Lokallisten,21
+Faxe,5,Karise,L_René_Tuekær,René Tuekær,Lokallisten,61
+Faxe,5,Karise,L_Marianne_Ørgaard,Marianne Ørgaard,Lokallisten,224
+Faxe,5,Karise,L_Nina_Gulddal,Nina Gulddal,Lokallisten,1
+Faxe,5,Karise,L_Jan_Hoffmann,Jan Hoffmann,Lokallisten,0
+Faxe,5,Karise,L_Charlotte_Eiberg,Charlotte Eiberg,Lokallisten,1
+Faxe,5,Karise,L_Calle_Kasper_Christensen,Calle Kasper Christensen,Lokallisten,0
+Faxe,5,Karise,L_Laila_Hansen,Laila Hansen,Lokallisten,1
+Faxe,5,Karise,L_Dorte_Steinmetz_Bagge,Dorte Steinmetz Bagge,Lokallisten,2
+Faxe,5,Karise,O_Listestemmer,Listestemmer,Dansk Folkeparti,52
+Faxe,5,Karise,O_Lars_Folmann,Lars Folmann,Dansk Folkeparti,43
+Faxe,5,Karise,O_Eli_Jacobi_Nielsen,Eli Jacobi Nielsen,Dansk Folkeparti,86
+Faxe,5,Karise,O_Bente_Abrahamsen,Bente Abrahamsen,Dansk Folkeparti,9
+Faxe,5,Karise,O_Martin_Rosbjørn,Martin Rosbjørn,Dansk Folkeparti,11
+Faxe,5,Karise,O_Fritz_Christensen,Fritz Christensen,Dansk Folkeparti,11
+Faxe,5,Karise,O_Steen_Petersen,Steen Petersen,Dansk Folkeparti,7
+Faxe,5,Karise,O_Erik_Tysbjerg_Schiøtt,Erik Tysbjerg Schiøtt,Dansk Folkeparti,1
+Faxe,5,Karise,O_Simone_Bolvig,Simone Bolvig,Dansk Folkeparti,14
+Faxe,5,Karise,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",82
+Faxe,5,Karise,V_Ole_Vive,Ole Vive,"Venstre, Danmarks Liberale Parti",224
+Faxe,5,Karise,V_Michael_Rosendahl,Michael Rosendahl,"Venstre, Danmarks Liberale Parti",4
+Faxe,5,Karise,V_Martin_Lasse_Sieben,Martin Lasse Sieben,"Venstre, Danmarks Liberale Parti",3
+Faxe,5,Karise,V_Erik_Rasmussen,Erik Rasmussen,"Venstre, Danmarks Liberale Parti",11
+Faxe,5,Karise,V_Martin_Kruse,Martin Kruse,"Venstre, Danmarks Liberale Parti",21
+Faxe,5,Karise,V_Dorthe_Adelsbech,Dorthe Adelsbech,"Venstre, Danmarks Liberale Parti",47
+Faxe,5,Karise,V_Dorthe_Egede_Borg,Dorthe Egede Borg,"Venstre, Danmarks Liberale Parti",18
+Faxe,5,Karise,V_Henrik_Aakast,Henrik Aakast,"Venstre, Danmarks Liberale Parti",4
+Faxe,5,Karise,V_Helle_Lysholm,Helle Lysholm,"Venstre, Danmarks Liberale Parti",8
+Faxe,5,Karise,V_Nellie_Bradsted,Nellie Bradsted,"Venstre, Danmarks Liberale Parti",12
+Faxe,5,Karise,V_Jens_Jørgen_Stokholm,Jens Jørgen Stokholm,"Venstre, Danmarks Liberale Parti",2
+Faxe,5,Karise,V_Casper_Niels_S_Christensen,Casper Niels S Christensen,"Venstre, Danmarks Liberale Parti",2
+Faxe,5,Karise,V_Jørgen_Egede_Johannessen,Jørgen Egede Johannessen,"Venstre, Danmarks Liberale Parti",1
+Faxe,5,Karise,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,50
+Faxe,5,Karise,Ø_Thomas_Spange_Olsen,Thomas Spange Olsen,Enhedslisten - De Rød-Grønne,120
+Faxe,5,Karise,Ø_Lone_Stæhr,Lone Stæhr,Enhedslisten - De Rød-Grønne,8
+Faxe,5,Karise,Ø_Ida_Ingerslev_Hansen,Ida Ingerslev Hansen,Enhedslisten - De Rød-Grønne,9
+Faxe,5,Karise,Ø_Helle_Vinther_Wallin,Helle Vinther Wallin,Enhedslisten - De Rød-Grønne,6
+Faxe,5,Karise,Ø_Birgit_Hansen,Birgit Hansen,Enhedslisten - De Rød-Grønne,0
+Faxe,5,Karise,Ø_Jan_Kjærgaard_Hansen,Jan Kjærgaard Hansen,Enhedslisten - De Rød-Grønne,2
+Faxe,6,Dalby,A_Listestemmer,Listestemmer,Socialdemokratiet,153
+Faxe,6,Dalby,A_Camilla_Meyer,Camilla Meyer,Socialdemokratiet,128
+Faxe,6,Dalby,A_Jørgen_Richardt_Nielsen,Jørgen Richardt Nielsen,Socialdemokratiet,14
+Faxe,6,Dalby,A_Per_Thomsen,Per Thomsen,Socialdemokratiet,14
+Faxe,6,Dalby,A_Steen_Andersen,Steen Andersen,Socialdemokratiet,5
+Faxe,6,Dalby,A_Lisette_Lind_Larsen,Lisette Lind Larsen,Socialdemokratiet,10
+Faxe,6,Dalby,A_Finn_Hansen,Finn Hansen,Socialdemokratiet,88
+Faxe,6,Dalby,A_Peter_Vilson,Peter Vilson,Socialdemokratiet,0
+Faxe,6,Dalby,A_Randi_O._Johansson,Randi O. Johansson,Socialdemokratiet,17
+Faxe,6,Dalby,A_Jeannie_Thorving_Hansen,Jeannie Thorving Hansen,Socialdemokratiet,3
+Faxe,6,Dalby,A_Christina_Birkemose,Christina Birkemose,Socialdemokratiet,32
+Faxe,6,Dalby,A_Leif_Davidsen,Leif Davidsen,Socialdemokratiet,7
+Faxe,6,Dalby,A_Bill_Larsen,Bill Larsen,Socialdemokratiet,0
+Faxe,6,Dalby,A_Jens_Hvidemose,Jens Hvidemose,Socialdemokratiet,3
+Faxe,6,Dalby,A_Anders_Franssen,Anders Franssen,Socialdemokratiet,4
+Faxe,6,Dalby,B_Listestemmer,Listestemmer,Radikale Venstre,14
+Faxe,6,Dalby,B_Kenni_Lars_Rasmussen,Kenni Lars Rasmussen,Radikale Venstre,2
+Faxe,6,Dalby,B_Anne_Fiil_Winther,Anne Fiil Winther,Radikale Venstre,19
+Faxe,6,Dalby,B_Jimmi_Andreasen,Jimmi Andreasen,Radikale Venstre,1
+Faxe,6,Dalby,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,49
+Faxe,6,Dalby,C_Michael_Christensen,Michael Christensen,Det Konservative Folkeparti,37
+Faxe,6,Dalby,C_Allan_Tirsgaard,Allan Tirsgaard,Det Konservative Folkeparti,17
+Faxe,6,Dalby,C_Bent_Ole_Bærenholdt,Bent Ole Bærenholdt,Det Konservative Folkeparti,12
+Faxe,6,Dalby,C_Anette_Melgaard,Anette Melgaard,Det Konservative Folkeparti,18
+Faxe,6,Dalby,C_Stella_Borne_Mikkelsen,Stella Borne Mikkelsen,Det Konservative Folkeparti,4
+Faxe,6,Dalby,D_Listestemmer,Listestemmer,Nye Borgerlige,71
+Faxe,6,Dalby,D_Pia_Backquist,Pia Backquist,Nye Borgerlige,25
+Faxe,6,Dalby,D_René_Nielsen,René Nielsen,Nye Borgerlige,13
+Faxe,6,Dalby,D_Henrik_Berg,Henrik Berg,Nye Borgerlige,5
+Faxe,6,Dalby,D_Morten_Vennike,Morten Vennike,Nye Borgerlige,1
+Faxe,6,Dalby,D_Jannick_Jeppesen,Jannick Jeppesen,Nye Borgerlige,18
+Faxe,6,Dalby,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,40
+Faxe,6,Dalby,F_Michelle_Frese,Michelle Frese,SF - Socialistisk Folkeparti,29
+Faxe,6,Dalby,F_Ivan_Flændsdal,Ivan Flændsdal,SF - Socialistisk Folkeparti,1
+Faxe,6,Dalby,F_Mogens_Stilhoff,Mogens Stilhoff,SF - Socialistisk Folkeparti,2
+Faxe,6,Dalby,F_Charlotte_Poulsen,Charlotte Poulsen,SF - Socialistisk Folkeparti,6
+Faxe,6,Dalby,F_David_S._Christensen,David S. Christensen,SF - Socialistisk Folkeparti,3
+Faxe,6,Dalby,F_Ghita_Østenby,Ghita Østenby,SF - Socialistisk Folkeparti,0
+Faxe,6,Dalby,F_Nicklas_Sandvad,Nicklas Sandvad,SF - Socialistisk Folkeparti,5
+Faxe,6,Dalby,F_Stig_Herold_Nielsen,Stig Herold Nielsen,SF - Socialistisk Folkeparti,1
+Faxe,6,Dalby,F_Anita_Skov,Anita Skov,SF - Socialistisk Folkeparti,4
+Faxe,6,Dalby,F_Marie_Sonne,Marie Sonne,SF - Socialistisk Folkeparti,6
+Faxe,6,Dalby,F_Johnny_Hougaard,Johnny Hougaard,SF - Socialistisk Folkeparti,0
+Faxe,6,Dalby,F_Michael_Søndermand,Michael Søndermand,SF - Socialistisk Folkeparti,2
+Faxe,6,Dalby,F_Bente_Ovesen,Bente Ovesen,SF - Socialistisk Folkeparti,2
+Faxe,6,Dalby,F_Bente_Noer_Larsen,Bente Noer Larsen,SF - Socialistisk Folkeparti,0
+Faxe,6,Dalby,F_Mona_Pedersen,Mona Pedersen,SF - Socialistisk Folkeparti,0
+Faxe,6,Dalby,I_Listestemmer,Listestemmer,Liberal Alliance,11
+Faxe,6,Dalby,I_Mikkel_B._Dam,Mikkel B. Dam,Liberal Alliance,40
+Faxe,6,Dalby,I_Emma_Rasmussen,Emma Rasmussen,Liberal Alliance,2
+Faxe,6,Dalby,I_Birger_Holm_Brøndberg,Birger Holm Brøndberg,Liberal Alliance,0
+Faxe,6,Dalby,I_Lasse_Guldberg_Christensen,Lasse Guldberg Christensen,Liberal Alliance,0
+Faxe,6,Dalby,I_Morten_Haupt-Hansen,Morten Haupt-Hansen,Liberal Alliance,2
+Faxe,6,Dalby,L_Listestemmer,Listestemmer,Lokallisten,10
+Faxe,6,Dalby,L_René_Tuekær,René Tuekær,Lokallisten,21
+Faxe,6,Dalby,L_Marianne_Ørgaard,Marianne Ørgaard,Lokallisten,11
+Faxe,6,Dalby,L_Nina_Gulddal,Nina Gulddal,Lokallisten,4
+Faxe,6,Dalby,L_Jan_Hoffmann,Jan Hoffmann,Lokallisten,20
+Faxe,6,Dalby,L_Charlotte_Eiberg,Charlotte Eiberg,Lokallisten,14
+Faxe,6,Dalby,L_Calle_Kasper_Christensen,Calle Kasper Christensen,Lokallisten,5
+Faxe,6,Dalby,L_Laila_Hansen,Laila Hansen,Lokallisten,10
+Faxe,6,Dalby,L_Dorte_Steinmetz_Bagge,Dorte Steinmetz Bagge,Lokallisten,8
+Faxe,6,Dalby,O_Listestemmer,Listestemmer,Dansk Folkeparti,58
+Faxe,6,Dalby,O_Lars_Folmann,Lars Folmann,Dansk Folkeparti,44
+Faxe,6,Dalby,O_Eli_Jacobi_Nielsen,Eli Jacobi Nielsen,Dansk Folkeparti,14
+Faxe,6,Dalby,O_Bente_Abrahamsen,Bente Abrahamsen,Dansk Folkeparti,10
+Faxe,6,Dalby,O_Martin_Rosbjørn,Martin Rosbjørn,Dansk Folkeparti,5
+Faxe,6,Dalby,O_Fritz_Christensen,Fritz Christensen,Dansk Folkeparti,14
+Faxe,6,Dalby,O_Steen_Petersen,Steen Petersen,Dansk Folkeparti,8
+Faxe,6,Dalby,O_Erik_Tysbjerg_Schiøtt,Erik Tysbjerg Schiøtt,Dansk Folkeparti,1
+Faxe,6,Dalby,O_Simone_Bolvig,Simone Bolvig,Dansk Folkeparti,9
+Faxe,6,Dalby,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",100
+Faxe,6,Dalby,V_Ole_Vive,Ole Vive,"Venstre, Danmarks Liberale Parti",156
+Faxe,6,Dalby,V_Michael_Rosendahl,Michael Rosendahl,"Venstre, Danmarks Liberale Parti",8
+Faxe,6,Dalby,V_Martin_Lasse_Sieben,Martin Lasse Sieben,"Venstre, Danmarks Liberale Parti",8
+Faxe,6,Dalby,V_Erik_Rasmussen,Erik Rasmussen,"Venstre, Danmarks Liberale Parti",6
+Faxe,6,Dalby,V_Martin_Kruse,Martin Kruse,"Venstre, Danmarks Liberale Parti",8
+Faxe,6,Dalby,V_Dorthe_Adelsbech,Dorthe Adelsbech,"Venstre, Danmarks Liberale Parti",29
+Faxe,6,Dalby,V_Dorthe_Egede_Borg,Dorthe Egede Borg,"Venstre, Danmarks Liberale Parti",297
+Faxe,6,Dalby,V_Henrik_Aakast,Henrik Aakast,"Venstre, Danmarks Liberale Parti",5
+Faxe,6,Dalby,V_Helle_Lysholm,Helle Lysholm,"Venstre, Danmarks Liberale Parti",9
+Faxe,6,Dalby,V_Nellie_Bradsted,Nellie Bradsted,"Venstre, Danmarks Liberale Parti",14
+Faxe,6,Dalby,V_Jens_Jørgen_Stokholm,Jens Jørgen Stokholm,"Venstre, Danmarks Liberale Parti",1
+Faxe,6,Dalby,V_Casper_Niels_S_Christensen,Casper Niels S Christensen,"Venstre, Danmarks Liberale Parti",0
+Faxe,6,Dalby,V_Jørgen_Egede_Johannessen,Jørgen Egede Johannessen,"Venstre, Danmarks Liberale Parti",6
+Faxe,6,Dalby,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,13
+Faxe,6,Dalby,Ø_Thomas_Spange_Olsen,Thomas Spange Olsen,Enhedslisten - De Rød-Grønne,7
+Faxe,6,Dalby,Ø_Lone_Stæhr,Lone Stæhr,Enhedslisten - De Rød-Grønne,6
+Faxe,6,Dalby,Ø_Ida_Ingerslev_Hansen,Ida Ingerslev Hansen,Enhedslisten - De Rød-Grønne,2
+Faxe,6,Dalby,Ø_Helle_Vinther_Wallin,Helle Vinther Wallin,Enhedslisten - De Rød-Grønne,4
+Faxe,6,Dalby,Ø_Birgit_Hansen,Birgit Hansen,Enhedslisten - De Rød-Grønne,0
+Faxe,6,Dalby,Ø_Jan_Kjærgaard_Hansen,Jan Kjærgaard Hansen,Enhedslisten - De Rød-Grønne,0
+Faxe,7,Rønnede,A_Listestemmer,Listestemmer,Socialdemokratiet,133
+Faxe,7,Rønnede,A_Camilla_Meyer,Camilla Meyer,Socialdemokratiet,198
+Faxe,7,Rønnede,A_Jørgen_Richardt_Nielsen,Jørgen Richardt Nielsen,Socialdemokratiet,9
+Faxe,7,Rønnede,A_Per_Thomsen,Per Thomsen,Socialdemokratiet,18
+Faxe,7,Rønnede,A_Steen_Andersen,Steen Andersen,Socialdemokratiet,132
+Faxe,7,Rønnede,A_Lisette_Lind_Larsen,Lisette Lind Larsen,Socialdemokratiet,7
+Faxe,7,Rønnede,A_Finn_Hansen,Finn Hansen,Socialdemokratiet,38
+Faxe,7,Rønnede,A_Peter_Vilson,Peter Vilson,Socialdemokratiet,1
+Faxe,7,Rønnede,A_Randi_O._Johansson,Randi O. Johansson,Socialdemokratiet,18
+Faxe,7,Rønnede,A_Jeannie_Thorving_Hansen,Jeannie Thorving Hansen,Socialdemokratiet,6
+Faxe,7,Rønnede,A_Christina_Birkemose,Christina Birkemose,Socialdemokratiet,34
+Faxe,7,Rønnede,A_Leif_Davidsen,Leif Davidsen,Socialdemokratiet,1
+Faxe,7,Rønnede,A_Bill_Larsen,Bill Larsen,Socialdemokratiet,1
+Faxe,7,Rønnede,A_Jens_Hvidemose,Jens Hvidemose,Socialdemokratiet,4
+Faxe,7,Rønnede,A_Anders_Franssen,Anders Franssen,Socialdemokratiet,2
+Faxe,7,Rønnede,B_Listestemmer,Listestemmer,Radikale Venstre,7
+Faxe,7,Rønnede,B_Kenni_Lars_Rasmussen,Kenni Lars Rasmussen,Radikale Venstre,1
+Faxe,7,Rønnede,B_Anne_Fiil_Winther,Anne Fiil Winther,Radikale Venstre,56
+Faxe,7,Rønnede,B_Jimmi_Andreasen,Jimmi Andreasen,Radikale Venstre,2
+Faxe,7,Rønnede,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,46
+Faxe,7,Rønnede,C_Michael_Christensen,Michael Christensen,Det Konservative Folkeparti,35
+Faxe,7,Rønnede,C_Allan_Tirsgaard,Allan Tirsgaard,Det Konservative Folkeparti,22
+Faxe,7,Rønnede,C_Bent_Ole_Bærenholdt,Bent Ole Bærenholdt,Det Konservative Folkeparti,8
+Faxe,7,Rønnede,C_Anette_Melgaard,Anette Melgaard,Det Konservative Folkeparti,14
+Faxe,7,Rønnede,C_Stella_Borne_Mikkelsen,Stella Borne Mikkelsen,Det Konservative Folkeparti,6
+Faxe,7,Rønnede,D_Listestemmer,Listestemmer,Nye Borgerlige,65
+Faxe,7,Rønnede,D_Pia_Backquist,Pia Backquist,Nye Borgerlige,34
+Faxe,7,Rønnede,D_René_Nielsen,René Nielsen,Nye Borgerlige,13
+Faxe,7,Rønnede,D_Henrik_Berg,Henrik Berg,Nye Borgerlige,8
+Faxe,7,Rønnede,D_Morten_Vennike,Morten Vennike,Nye Borgerlige,4
+Faxe,7,Rønnede,D_Jannick_Jeppesen,Jannick Jeppesen,Nye Borgerlige,11
+Faxe,7,Rønnede,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,40
+Faxe,7,Rønnede,F_Michelle_Frese,Michelle Frese,SF - Socialistisk Folkeparti,18
+Faxe,7,Rønnede,F_Ivan_Flændsdal,Ivan Flændsdal,SF - Socialistisk Folkeparti,5
+Faxe,7,Rønnede,F_Mogens_Stilhoff,Mogens Stilhoff,SF - Socialistisk Folkeparti,5
+Faxe,7,Rønnede,F_Charlotte_Poulsen,Charlotte Poulsen,SF - Socialistisk Folkeparti,5
+Faxe,7,Rønnede,F_David_S._Christensen,David S. Christensen,SF - Socialistisk Folkeparti,0
+Faxe,7,Rønnede,F_Ghita_Østenby,Ghita Østenby,SF - Socialistisk Folkeparti,0
+Faxe,7,Rønnede,F_Nicklas_Sandvad,Nicklas Sandvad,SF - Socialistisk Folkeparti,2
+Faxe,7,Rønnede,F_Stig_Herold_Nielsen,Stig Herold Nielsen,SF - Socialistisk Folkeparti,1
+Faxe,7,Rønnede,F_Anita_Skov,Anita Skov,SF - Socialistisk Folkeparti,3
+Faxe,7,Rønnede,F_Marie_Sonne,Marie Sonne,SF - Socialistisk Folkeparti,10
+Faxe,7,Rønnede,F_Johnny_Hougaard,Johnny Hougaard,SF - Socialistisk Folkeparti,0
+Faxe,7,Rønnede,F_Michael_Søndermand,Michael Søndermand,SF - Socialistisk Folkeparti,0
+Faxe,7,Rønnede,F_Bente_Ovesen,Bente Ovesen,SF - Socialistisk Folkeparti,0
+Faxe,7,Rønnede,F_Bente_Noer_Larsen,Bente Noer Larsen,SF - Socialistisk Folkeparti,0
+Faxe,7,Rønnede,F_Mona_Pedersen,Mona Pedersen,SF - Socialistisk Folkeparti,1
+Faxe,7,Rønnede,I_Listestemmer,Listestemmer,Liberal Alliance,18
+Faxe,7,Rønnede,I_Mikkel_B._Dam,Mikkel B. Dam,Liberal Alliance,59
+Faxe,7,Rønnede,I_Emma_Rasmussen,Emma Rasmussen,Liberal Alliance,12
+Faxe,7,Rønnede,I_Birger_Holm_Brøndberg,Birger Holm Brøndberg,Liberal Alliance,2
+Faxe,7,Rønnede,I_Lasse_Guldberg_Christensen,Lasse Guldberg Christensen,Liberal Alliance,2
+Faxe,7,Rønnede,I_Morten_Haupt-Hansen,Morten Haupt-Hansen,Liberal Alliance,0
+Faxe,7,Rønnede,L_Listestemmer,Listestemmer,Lokallisten,12
+Faxe,7,Rønnede,L_René_Tuekær,René Tuekær,Lokallisten,39
+Faxe,7,Rønnede,L_Marianne_Ørgaard,Marianne Ørgaard,Lokallisten,4
+Faxe,7,Rønnede,L_Nina_Gulddal,Nina Gulddal,Lokallisten,3
+Faxe,7,Rønnede,L_Jan_Hoffmann,Jan Hoffmann,Lokallisten,0
+Faxe,7,Rønnede,L_Charlotte_Eiberg,Charlotte Eiberg,Lokallisten,2
+Faxe,7,Rønnede,L_Calle_Kasper_Christensen,Calle Kasper Christensen,Lokallisten,3
+Faxe,7,Rønnede,L_Laila_Hansen,Laila Hansen,Lokallisten,7
+Faxe,7,Rønnede,L_Dorte_Steinmetz_Bagge,Dorte Steinmetz Bagge,Lokallisten,1
+Faxe,7,Rønnede,O_Listestemmer,Listestemmer,Dansk Folkeparti,55
+Faxe,7,Rønnede,O_Lars_Folmann,Lars Folmann,Dansk Folkeparti,34
+Faxe,7,Rønnede,O_Eli_Jacobi_Nielsen,Eli Jacobi Nielsen,Dansk Folkeparti,16
+Faxe,7,Rønnede,O_Bente_Abrahamsen,Bente Abrahamsen,Dansk Folkeparti,15
+Faxe,7,Rønnede,O_Martin_Rosbjørn,Martin Rosbjørn,Dansk Folkeparti,21
+Faxe,7,Rønnede,O_Fritz_Christensen,Fritz Christensen,Dansk Folkeparti,5
+Faxe,7,Rønnede,O_Steen_Petersen,Steen Petersen,Dansk Folkeparti,18
+Faxe,7,Rønnede,O_Erik_Tysbjerg_Schiøtt,Erik Tysbjerg Schiøtt,Dansk Folkeparti,2
+Faxe,7,Rønnede,O_Simone_Bolvig,Simone Bolvig,Dansk Folkeparti,12
+Faxe,7,Rønnede,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",79
+Faxe,7,Rønnede,V_Ole_Vive,Ole Vive,"Venstre, Danmarks Liberale Parti",229
+Faxe,7,Rønnede,V_Michael_Rosendahl,Michael Rosendahl,"Venstre, Danmarks Liberale Parti",4
+Faxe,7,Rønnede,V_Martin_Lasse_Sieben,Martin Lasse Sieben,"Venstre, Danmarks Liberale Parti",2
+Faxe,7,Rønnede,V_Erik_Rasmussen,Erik Rasmussen,"Venstre, Danmarks Liberale Parti",114
+Faxe,7,Rønnede,V_Martin_Kruse,Martin Kruse,"Venstre, Danmarks Liberale Parti",2
+Faxe,7,Rønnede,V_Dorthe_Adelsbech,Dorthe Adelsbech,"Venstre, Danmarks Liberale Parti",53
+Faxe,7,Rønnede,V_Dorthe_Egede_Borg,Dorthe Egede Borg,"Venstre, Danmarks Liberale Parti",34
+Faxe,7,Rønnede,V_Henrik_Aakast,Henrik Aakast,"Venstre, Danmarks Liberale Parti",8
+Faxe,7,Rønnede,V_Helle_Lysholm,Helle Lysholm,"Venstre, Danmarks Liberale Parti",8
+Faxe,7,Rønnede,V_Nellie_Bradsted,Nellie Bradsted,"Venstre, Danmarks Liberale Parti",15
+Faxe,7,Rønnede,V_Jens_Jørgen_Stokholm,Jens Jørgen Stokholm,"Venstre, Danmarks Liberale Parti",0
+Faxe,7,Rønnede,V_Casper_Niels_S_Christensen,Casper Niels S Christensen,"Venstre, Danmarks Liberale Parti",0
+Faxe,7,Rønnede,V_Jørgen_Egede_Johannessen,Jørgen Egede Johannessen,"Venstre, Danmarks Liberale Parti",2
+Faxe,7,Rønnede,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,29
+Faxe,7,Rønnede,Ø_Thomas_Spange_Olsen,Thomas Spange Olsen,Enhedslisten - De Rød-Grønne,11
+Faxe,7,Rønnede,Ø_Lone_Stæhr,Lone Stæhr,Enhedslisten - De Rød-Grønne,5
+Faxe,7,Rønnede,Ø_Ida_Ingerslev_Hansen,Ida Ingerslev Hansen,Enhedslisten - De Rød-Grønne,4
+Faxe,7,Rønnede,Ø_Helle_Vinther_Wallin,Helle Vinther Wallin,Enhedslisten - De Rød-Grønne,3
+Faxe,7,Rønnede,Ø_Birgit_Hansen,Birgit Hansen,Enhedslisten - De Rød-Grønne,0
+Faxe,7,Rønnede,Ø_Jan_Kjærgaard_Hansen,Jan Kjærgaard Hansen,Enhedslisten - De Rød-Grønne,2

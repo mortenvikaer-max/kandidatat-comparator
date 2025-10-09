@@ -1,0 +1,856 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Ballerup,1,Tapeten,A_Listestemmer,Listestemmer,Socialdemokratiet,345
+Ballerup,1,Tapeten,A_Jesper_Würtzen_-_Skovlunde,Jesper Würtzen - Skovlunde,Socialdemokratiet,636
+Ballerup,1,Tapeten,A_Maria_Lundahl_Assov_-_Ballerup,Maria Lundahl Assov - Ballerup,Socialdemokratiet,76
+Ballerup,1,Tapeten,A_Peter_Als_-_Skovlunde,Peter Als - Skovlunde,Socialdemokratiet,13
+Ballerup,1,Tapeten,A_Charlotte_Holtermann_-_Egebjerg,Charlotte Holtermann - Egebjerg,Socialdemokratiet,15
+Ballerup,1,Tapeten,A_Johan_Müller_-_Ballerup,Johan Müller - Ballerup,Socialdemokratiet,58
+Ballerup,1,Tapeten,A_Hella_Tiedemann_-_Ballerup,Hella Tiedemann - Ballerup,Socialdemokratiet,101
+Ballerup,1,Tapeten,A_Per_Mortensen_-_Måløv,Per Mortensen - Måløv,Socialdemokratiet,12
+Ballerup,1,Tapeten,A_Anja_Holtze_-_Skovlunde,Anja Holtze - Skovlunde,Socialdemokratiet,14
+Ballerup,1,Tapeten,A_Dennis_Sørensen_-_Ballerup,Dennis Sørensen - Ballerup,Socialdemokratiet,15
+Ballerup,1,Tapeten,A_Lolan_Ottesen_-_Ballerup,Lolan Ottesen - Ballerup,Socialdemokratiet,48
+Ballerup,1,Tapeten,A_Musa_Kekec_-_Ballerup,Musa Kekec - Ballerup,Socialdemokratiet,77
+Ballerup,1,Tapeten,A_Sandra_Marsenic_-_Egebjerg,Sandra Marsenic - Egebjerg,Socialdemokratiet,101
+Ballerup,1,Tapeten,A_Erling_Andersen_-_Måløv,Erling Andersen - Måløv,Socialdemokratiet,6
+Ballerup,1,Tapeten,A_Laila_Busted_-_Ballerup,Laila Busted - Ballerup,Socialdemokratiet,27
+Ballerup,1,Tapeten,A_Morten_Andersson_-_Egebjerg,Morten Andersson - Egebjerg,Socialdemokratiet,1
+Ballerup,1,Tapeten,A_Nicolas_Almann_Olsen_-_Ballerup,Nicolas Almann Olsen - Ballerup,Socialdemokratiet,6
+Ballerup,1,Tapeten,A_Özcan_Kizilkaya_-_Måløv,Özcan Kizilkaya - Måløv,Socialdemokratiet,24
+Ballerup,1,Tapeten,A_Michael_Brønd_-_Ballerup,Michael Brønd - Ballerup,Socialdemokratiet,32
+Ballerup,1,Tapeten,A_Martin_Høyer_Rasmussen_-_Ballerup,Martin Høyer Rasmussen - Ballerup,Socialdemokratiet,3
+Ballerup,1,Tapeten,A_Mikkel_Zacho_Justesen_-_Ballerup,Mikkel Zacho Justesen - Ballerup,Socialdemokratiet,28
+Ballerup,1,Tapeten,A_Zoran_Rajovic_-_Ballerup,Zoran Rajovic - Ballerup,Socialdemokratiet,6
+Ballerup,1,Tapeten,B_Listestemmer,Listestemmer,Radikale Venstre,23
+Ballerup,1,Tapeten,B_Lars_Green_Bach,Lars Green Bach,Radikale Venstre,18
+Ballerup,1,Tapeten,B_Mustafa_Deveci,Mustafa Deveci,Radikale Venstre,24
+Ballerup,1,Tapeten,B_Sanne_Fandrup,Sanne Fandrup,Radikale Venstre,8
+Ballerup,1,Tapeten,B_Annette_Randløv,Annette Randløv,Radikale Venstre,5
+Ballerup,1,Tapeten,B_Katrine_Bugge,Katrine Bugge,Radikale Venstre,11
+Ballerup,1,Tapeten,B_Asger_Jensen,Asger Jensen,Radikale Venstre,1
+Ballerup,1,Tapeten,B_Jørgen_Bragge,Jørgen Bragge,Radikale Venstre,0
+Ballerup,1,Tapeten,B_Christell_Erichsen,Christell Erichsen,Radikale Venstre,3
+Ballerup,1,Tapeten,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,127
+Ballerup,1,Tapeten,C_Allan_Kristensen_-_Ballerup,Allan Kristensen - Ballerup,Det Konservative Folkeparti,42
+Ballerup,1,Tapeten,C_Karsten_Kriegel_-_Måløv,Karsten Kriegel - Måløv,Det Konservative Folkeparti,20
+Ballerup,1,Tapeten,C_Kristijan_Vukicevic_-_Ballerup,Kristijan Vukicevic - Ballerup,Det Konservative Folkeparti,30
+Ballerup,1,Tapeten,C_Kate_Svarrer_-_Ballerup,Kate Svarrer - Ballerup,Det Konservative Folkeparti,20
+Ballerup,1,Tapeten,C_Morten_Løgager_-_Ballerup,Morten Løgager - Ballerup,Det Konservative Folkeparti,19
+Ballerup,1,Tapeten,C_Lis_Folke_Christensen_-_Egebjerg,Lis Folke Christensen - Egebjerg,Det Konservative Folkeparti,3
+Ballerup,1,Tapeten,C_Frederik_Forland_-_Måløv,Frederik Forland - Måløv,Det Konservative Folkeparti,10
+Ballerup,1,Tapeten,C_Kasper_Schlander_-_Måløv,Kasper Schlander - Måløv,Det Konservative Folkeparti,6
+Ballerup,1,Tapeten,D_Listestemmer,Listestemmer,Nye Borgerlige,48
+Ballerup,1,Tapeten,D_Andre_Amingsø,Andre Amingsø,Nye Borgerlige,28
+Ballerup,1,Tapeten,D_Kristian_Bach,Kristian Bach,Nye Borgerlige,9
+Ballerup,1,Tapeten,D_Brian_Ølholm,Brian Ølholm,Nye Borgerlige,18
+Ballerup,1,Tapeten,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,51
+Ballerup,1,Tapeten,F_Simon_Knudstrup,Simon Knudstrup,SF - Socialistisk Folkeparti,45
+Ballerup,1,Tapeten,F_Taner_Genc,Taner Genc,SF - Socialistisk Folkeparti,70
+Ballerup,1,Tapeten,F_Gitte_Boffy_Lillelund,Gitte Boffy Lillelund,SF - Socialistisk Folkeparti,13
+Ballerup,1,Tapeten,F_Ulrik_Falk-Sørensen,Ulrik Falk-Sørensen,SF - Socialistisk Folkeparti,2
+Ballerup,1,Tapeten,F_Birte_Kramhøft,Birte Kramhøft,SF - Socialistisk Folkeparti,0
+Ballerup,1,Tapeten,F_Niels_Overgaard,Niels Overgaard,SF - Socialistisk Folkeparti,1
+Ballerup,1,Tapeten,F_Thorkild_Krejberg,Thorkild Krejberg,SF - Socialistisk Folkeparti,0
+Ballerup,1,Tapeten,F_Tim_Larsen,Tim Larsen,SF - Socialistisk Folkeparti,0
+Ballerup,1,Tapeten,F_Jørn_Nielsen,Jørn Nielsen,SF - Socialistisk Folkeparti,0
+Ballerup,1,Tapeten,F_Rune_Frøding,Rune Frøding,SF - Socialistisk Folkeparti,1
+Ballerup,1,Tapeten,F_Peter_Andersen,Peter Andersen,SF - Socialistisk Folkeparti,0
+Ballerup,1,Tapeten,G_Listestemmer,Listestemmer,Veganerpartiet,6
+Ballerup,1,Tapeten,G_Frida_Freiesleben,Frida Freiesleben,Veganerpartiet,18
+Ballerup,1,Tapeten,I_Listestemmer,Listestemmer,Liberal Alliance,11
+Ballerup,1,Tapeten,I_Mikkel_Kruse_-_Skovlunde,Mikkel Kruse - Skovlunde,Liberal Alliance,1
+Ballerup,1,Tapeten,I_Claus_Damkjær_-_Ballerup,Claus Damkjær - Ballerup,Liberal Alliance,3
+Ballerup,1,Tapeten,I_Oscar_Gade-Frimann_-_Måløv,Oscar Gade-Frimann - Måløv,Liberal Alliance,2
+Ballerup,1,Tapeten,L_Listestemmer,Listestemmer,Serhat Kücükkart,3
+Ballerup,1,Tapeten,L_Serhat_Kücükkart,Serhat Kücükkart,Serhat Kücükkart,28
+Ballerup,1,Tapeten,O_Listestemmer,Listestemmer,Dansk Folkeparti,55
+Ballerup,1,Tapeten,O_Michael_Jensen,Michael Jensen,Dansk Folkeparti,64
+Ballerup,1,Tapeten,O_Jette_Meinertz,Jette Meinertz,Dansk Folkeparti,25
+Ballerup,1,Tapeten,O_Kasper_Sørmer-Sørensen,Kasper Sørmer-Sørensen,Dansk Folkeparti,9
+Ballerup,1,Tapeten,O_Rune_K._Wegge,Rune K. Wegge,Dansk Folkeparti,0
+Ballerup,1,Tapeten,O_Birthe_Møller_Jonsson,Birthe Møller Jonsson,Dansk Folkeparti,2
+Ballerup,1,Tapeten,O_Allan_Petersen,Allan Petersen,Dansk Folkeparti,11
+Ballerup,1,Tapeten,P_Listestemmer,Listestemmer,Partiet Ballerup Listen,7
+Ballerup,1,Tapeten,P_Michael_Olsen,Michael Olsen,Partiet Ballerup Listen,5
+Ballerup,1,Tapeten,P_Line_Fielsøe_Petersen,Line Fielsøe Petersen,Partiet Ballerup Listen,1
+Ballerup,1,Tapeten,P_Christine_Andersen,Christine Andersen,Partiet Ballerup Listen,0
+Ballerup,1,Tapeten,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",61
+Ballerup,1,Tapeten,V_Mikael_Wandel,Mikael Wandel,"Venstre, Danmarks Liberale Parti",39
+Ballerup,1,Tapeten,V_Jacob_Wøhler_Jørgensen,Jacob Wøhler Jørgensen,"Venstre, Danmarks Liberale Parti",16
+Ballerup,1,Tapeten,V_Dorthe_Rigét,Dorthe Rigét,"Venstre, Danmarks Liberale Parti",17
+Ballerup,1,Tapeten,V_Christian_Skjæran,Christian Skjæran,"Venstre, Danmarks Liberale Parti",13
+Ballerup,1,Tapeten,V_Sussie_Wandel,Sussie Wandel,"Venstre, Danmarks Liberale Parti",8
+Ballerup,1,Tapeten,V_Zishan_Ali,Zishan Ali,"Venstre, Danmarks Liberale Parti",10
+Ballerup,1,Tapeten,V_Bettina_Prühs,Bettina Prühs,"Venstre, Danmarks Liberale Parti",3
+Ballerup,1,Tapeten,V_Nina_Skaarup,Nina Skaarup,"Venstre, Danmarks Liberale Parti",6
+Ballerup,1,Tapeten,V_Henrik_Vejgaard,Henrik Vejgaard,"Venstre, Danmarks Liberale Parti",5
+Ballerup,1,Tapeten,V_Marie_Kielberg-Bæk,Marie Kielberg-Bæk,"Venstre, Danmarks Liberale Parti",0
+Ballerup,1,Tapeten,V_Bente_Bjørklund,Bente Bjørklund,"Venstre, Danmarks Liberale Parti",0
+Ballerup,1,Tapeten,Æ_Listestemmer,Listestemmer,Frihedslisten,4
+Ballerup,1,Tapeten,Æ_Ulrik_Eibye,Ulrik Eibye,Frihedslisten,10
+Ballerup,1,Tapeten,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,50
+Ballerup,1,Tapeten,Ø_Stine_Rahbek_Pedersen_-_Måløv,Stine Rahbek Pedersen - Måløv,Enhedslisten - De Rød-Grønne,30
+Ballerup,1,Tapeten,Ø_Saime_B._Inanc_-_Skovlunde,Saime B. Inanc - Skovlunde,Enhedslisten - De Rød-Grønne,10
+Ballerup,1,Tapeten,Ø_Miasser_Hawwa_-_Ballerup,Miasser Hawwa - Ballerup,Enhedslisten - De Rød-Grønne,13
+Ballerup,1,Tapeten,Ø_Louise_Mathiasen_-_Østerhøj,Louise Mathiasen - Østerhøj,Enhedslisten - De Rød-Grønne,7
+Ballerup,1,Tapeten,Ø_Muhammad_Ali_Abbasi_-_Ballerup,Muhammad Ali Abbasi - Ballerup,Enhedslisten - De Rød-Grønne,13
+Ballerup,2,Baltorpskolen - Rugvænget,A_Listestemmer,Listestemmer,Socialdemokratiet,410
+Ballerup,2,Baltorpskolen - Rugvænget,A_Jesper_Würtzen_-_Skovlunde,Jesper Würtzen - Skovlunde,Socialdemokratiet,826
+Ballerup,2,Baltorpskolen - Rugvænget,A_Maria_Lundahl_Assov_-_Ballerup,Maria Lundahl Assov - Ballerup,Socialdemokratiet,80
+Ballerup,2,Baltorpskolen - Rugvænget,A_Peter_Als_-_Skovlunde,Peter Als - Skovlunde,Socialdemokratiet,15
+Ballerup,2,Baltorpskolen - Rugvænget,A_Charlotte_Holtermann_-_Egebjerg,Charlotte Holtermann - Egebjerg,Socialdemokratiet,27
+Ballerup,2,Baltorpskolen - Rugvænget,A_Johan_Müller_-_Ballerup,Johan Müller - Ballerup,Socialdemokratiet,73
+Ballerup,2,Baltorpskolen - Rugvænget,A_Hella_Tiedemann_-_Ballerup,Hella Tiedemann - Ballerup,Socialdemokratiet,101
+Ballerup,2,Baltorpskolen - Rugvænget,A_Per_Mortensen_-_Måløv,Per Mortensen - Måløv,Socialdemokratiet,47
+Ballerup,2,Baltorpskolen - Rugvænget,A_Anja_Holtze_-_Skovlunde,Anja Holtze - Skovlunde,Socialdemokratiet,14
+Ballerup,2,Baltorpskolen - Rugvænget,A_Dennis_Sørensen_-_Ballerup,Dennis Sørensen - Ballerup,Socialdemokratiet,42
+Ballerup,2,Baltorpskolen - Rugvænget,A_Lolan_Ottesen_-_Ballerup,Lolan Ottesen - Ballerup,Socialdemokratiet,135
+Ballerup,2,Baltorpskolen - Rugvænget,A_Musa_Kekec_-_Ballerup,Musa Kekec - Ballerup,Socialdemokratiet,63
+Ballerup,2,Baltorpskolen - Rugvænget,A_Sandra_Marsenic_-_Egebjerg,Sandra Marsenic - Egebjerg,Socialdemokratiet,71
+Ballerup,2,Baltorpskolen - Rugvænget,A_Erling_Andersen_-_Måløv,Erling Andersen - Måløv,Socialdemokratiet,9
+Ballerup,2,Baltorpskolen - Rugvænget,A_Laila_Busted_-_Ballerup,Laila Busted - Ballerup,Socialdemokratiet,36
+Ballerup,2,Baltorpskolen - Rugvænget,A_Morten_Andersson_-_Egebjerg,Morten Andersson - Egebjerg,Socialdemokratiet,6
+Ballerup,2,Baltorpskolen - Rugvænget,A_Nicolas_Almann_Olsen_-_Ballerup,Nicolas Almann Olsen - Ballerup,Socialdemokratiet,12
+Ballerup,2,Baltorpskolen - Rugvænget,A_Özcan_Kizilkaya_-_Måløv,Özcan Kizilkaya - Måløv,Socialdemokratiet,49
+Ballerup,2,Baltorpskolen - Rugvænget,A_Michael_Brønd_-_Ballerup,Michael Brønd - Ballerup,Socialdemokratiet,15
+Ballerup,2,Baltorpskolen - Rugvænget,A_Martin_Høyer_Rasmussen_-_Ballerup,Martin Høyer Rasmussen - Ballerup,Socialdemokratiet,11
+Ballerup,2,Baltorpskolen - Rugvænget,A_Mikkel_Zacho_Justesen_-_Ballerup,Mikkel Zacho Justesen - Ballerup,Socialdemokratiet,9
+Ballerup,2,Baltorpskolen - Rugvænget,A_Zoran_Rajovic_-_Ballerup,Zoran Rajovic - Ballerup,Socialdemokratiet,36
+Ballerup,2,Baltorpskolen - Rugvænget,B_Listestemmer,Listestemmer,Radikale Venstre,43
+Ballerup,2,Baltorpskolen - Rugvænget,B_Lars_Green_Bach,Lars Green Bach,Radikale Venstre,10
+Ballerup,2,Baltorpskolen - Rugvænget,B_Mustafa_Deveci,Mustafa Deveci,Radikale Venstre,10
+Ballerup,2,Baltorpskolen - Rugvænget,B_Sanne_Fandrup,Sanne Fandrup,Radikale Venstre,8
+Ballerup,2,Baltorpskolen - Rugvænget,B_Annette_Randløv,Annette Randløv,Radikale Venstre,7
+Ballerup,2,Baltorpskolen - Rugvænget,B_Katrine_Bugge,Katrine Bugge,Radikale Venstre,10
+Ballerup,2,Baltorpskolen - Rugvænget,B_Asger_Jensen,Asger Jensen,Radikale Venstre,1
+Ballerup,2,Baltorpskolen - Rugvænget,B_Jørgen_Bragge,Jørgen Bragge,Radikale Venstre,1
+Ballerup,2,Baltorpskolen - Rugvænget,B_Christell_Erichsen,Christell Erichsen,Radikale Venstre,0
+Ballerup,2,Baltorpskolen - Rugvænget,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,156
+Ballerup,2,Baltorpskolen - Rugvænget,C_Allan_Kristensen_-_Ballerup,Allan Kristensen - Ballerup,Det Konservative Folkeparti,68
+Ballerup,2,Baltorpskolen - Rugvænget,C_Karsten_Kriegel_-_Måløv,Karsten Kriegel - Måløv,Det Konservative Folkeparti,36
+Ballerup,2,Baltorpskolen - Rugvænget,C_Kristijan_Vukicevic_-_Ballerup,Kristijan Vukicevic - Ballerup,Det Konservative Folkeparti,12
+Ballerup,2,Baltorpskolen - Rugvænget,C_Kate_Svarrer_-_Ballerup,Kate Svarrer - Ballerup,Det Konservative Folkeparti,32
+Ballerup,2,Baltorpskolen - Rugvænget,C_Morten_Løgager_-_Ballerup,Morten Løgager - Ballerup,Det Konservative Folkeparti,24
+Ballerup,2,Baltorpskolen - Rugvænget,C_Lis_Folke_Christensen_-_Egebjerg,Lis Folke Christensen - Egebjerg,Det Konservative Folkeparti,8
+Ballerup,2,Baltorpskolen - Rugvænget,C_Frederik_Forland_-_Måløv,Frederik Forland - Måløv,Det Konservative Folkeparti,6
+Ballerup,2,Baltorpskolen - Rugvænget,C_Kasper_Schlander_-_Måløv,Kasper Schlander - Måløv,Det Konservative Folkeparti,16
+Ballerup,2,Baltorpskolen - Rugvænget,D_Listestemmer,Listestemmer,Nye Borgerlige,85
+Ballerup,2,Baltorpskolen - Rugvænget,D_Andre_Amingsø,Andre Amingsø,Nye Borgerlige,33
+Ballerup,2,Baltorpskolen - Rugvænget,D_Kristian_Bach,Kristian Bach,Nye Borgerlige,11
+Ballerup,2,Baltorpskolen - Rugvænget,D_Brian_Ølholm,Brian Ølholm,Nye Borgerlige,23
+Ballerup,2,Baltorpskolen - Rugvænget,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,95
+Ballerup,2,Baltorpskolen - Rugvænget,F_Simon_Knudstrup,Simon Knudstrup,SF - Socialistisk Folkeparti,63
+Ballerup,2,Baltorpskolen - Rugvænget,F_Taner_Genc,Taner Genc,SF - Socialistisk Folkeparti,77
+Ballerup,2,Baltorpskolen - Rugvænget,F_Gitte_Boffy_Lillelund,Gitte Boffy Lillelund,SF - Socialistisk Folkeparti,29
+Ballerup,2,Baltorpskolen - Rugvænget,F_Ulrik_Falk-Sørensen,Ulrik Falk-Sørensen,SF - Socialistisk Folkeparti,4
+Ballerup,2,Baltorpskolen - Rugvænget,F_Birte_Kramhøft,Birte Kramhøft,SF - Socialistisk Folkeparti,4
+Ballerup,2,Baltorpskolen - Rugvænget,F_Niels_Overgaard,Niels Overgaard,SF - Socialistisk Folkeparti,4
+Ballerup,2,Baltorpskolen - Rugvænget,F_Thorkild_Krejberg,Thorkild Krejberg,SF - Socialistisk Folkeparti,3
+Ballerup,2,Baltorpskolen - Rugvænget,F_Tim_Larsen,Tim Larsen,SF - Socialistisk Folkeparti,0
+Ballerup,2,Baltorpskolen - Rugvænget,F_Jørn_Nielsen,Jørn Nielsen,SF - Socialistisk Folkeparti,0
+Ballerup,2,Baltorpskolen - Rugvænget,F_Rune_Frøding,Rune Frøding,SF - Socialistisk Folkeparti,2
+Ballerup,2,Baltorpskolen - Rugvænget,F_Peter_Andersen,Peter Andersen,SF - Socialistisk Folkeparti,2
+Ballerup,2,Baltorpskolen - Rugvænget,G_Listestemmer,Listestemmer,Veganerpartiet,11
+Ballerup,2,Baltorpskolen - Rugvænget,G_Frida_Freiesleben,Frida Freiesleben,Veganerpartiet,22
+Ballerup,2,Baltorpskolen - Rugvænget,I_Listestemmer,Listestemmer,Liberal Alliance,20
+Ballerup,2,Baltorpskolen - Rugvænget,I_Mikkel_Kruse_-_Skovlunde,Mikkel Kruse - Skovlunde,Liberal Alliance,1
+Ballerup,2,Baltorpskolen - Rugvænget,I_Claus_Damkjær_-_Ballerup,Claus Damkjær - Ballerup,Liberal Alliance,7
+Ballerup,2,Baltorpskolen - Rugvænget,I_Oscar_Gade-Frimann_-_Måløv,Oscar Gade-Frimann - Måløv,Liberal Alliance,2
+Ballerup,2,Baltorpskolen - Rugvænget,L_Listestemmer,Listestemmer,Serhat Kücükkart,7
+Ballerup,2,Baltorpskolen - Rugvænget,L_Serhat_Kücükkart,Serhat Kücükkart,Serhat Kücükkart,56
+Ballerup,2,Baltorpskolen - Rugvænget,O_Listestemmer,Listestemmer,Dansk Folkeparti,89
+Ballerup,2,Baltorpskolen - Rugvænget,O_Michael_Jensen,Michael Jensen,Dansk Folkeparti,78
+Ballerup,2,Baltorpskolen - Rugvænget,O_Jette_Meinertz,Jette Meinertz,Dansk Folkeparti,33
+Ballerup,2,Baltorpskolen - Rugvænget,O_Kasper_Sørmer-Sørensen,Kasper Sørmer-Sørensen,Dansk Folkeparti,17
+Ballerup,2,Baltorpskolen - Rugvænget,O_Rune_K._Wegge,Rune K. Wegge,Dansk Folkeparti,2
+Ballerup,2,Baltorpskolen - Rugvænget,O_Birthe_Møller_Jonsson,Birthe Møller Jonsson,Dansk Folkeparti,5
+Ballerup,2,Baltorpskolen - Rugvænget,O_Allan_Petersen,Allan Petersen,Dansk Folkeparti,4
+Ballerup,2,Baltorpskolen - Rugvænget,P_Listestemmer,Listestemmer,Partiet Ballerup Listen,10
+Ballerup,2,Baltorpskolen - Rugvænget,P_Michael_Olsen,Michael Olsen,Partiet Ballerup Listen,9
+Ballerup,2,Baltorpskolen - Rugvænget,P_Line_Fielsøe_Petersen,Line Fielsøe Petersen,Partiet Ballerup Listen,9
+Ballerup,2,Baltorpskolen - Rugvænget,P_Christine_Andersen,Christine Andersen,Partiet Ballerup Listen,4
+Ballerup,2,Baltorpskolen - Rugvænget,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",91
+Ballerup,2,Baltorpskolen - Rugvænget,V_Mikael_Wandel,Mikael Wandel,"Venstre, Danmarks Liberale Parti",38
+Ballerup,2,Baltorpskolen - Rugvænget,V_Jacob_Wøhler_Jørgensen,Jacob Wøhler Jørgensen,"Venstre, Danmarks Liberale Parti",24
+Ballerup,2,Baltorpskolen - Rugvænget,V_Dorthe_Rigét,Dorthe Rigét,"Venstre, Danmarks Liberale Parti",30
+Ballerup,2,Baltorpskolen - Rugvænget,V_Christian_Skjæran,Christian Skjæran,"Venstre, Danmarks Liberale Parti",10
+Ballerup,2,Baltorpskolen - Rugvænget,V_Sussie_Wandel,Sussie Wandel,"Venstre, Danmarks Liberale Parti",22
+Ballerup,2,Baltorpskolen - Rugvænget,V_Zishan_Ali,Zishan Ali,"Venstre, Danmarks Liberale Parti",26
+Ballerup,2,Baltorpskolen - Rugvænget,V_Bettina_Prühs,Bettina Prühs,"Venstre, Danmarks Liberale Parti",4
+Ballerup,2,Baltorpskolen - Rugvænget,V_Nina_Skaarup,Nina Skaarup,"Venstre, Danmarks Liberale Parti",1
+Ballerup,2,Baltorpskolen - Rugvænget,V_Henrik_Vejgaard,Henrik Vejgaard,"Venstre, Danmarks Liberale Parti",4
+Ballerup,2,Baltorpskolen - Rugvænget,V_Marie_Kielberg-Bæk,Marie Kielberg-Bæk,"Venstre, Danmarks Liberale Parti",0
+Ballerup,2,Baltorpskolen - Rugvænget,V_Bente_Bjørklund,Bente Bjørklund,"Venstre, Danmarks Liberale Parti",0
+Ballerup,2,Baltorpskolen - Rugvænget,Æ_Listestemmer,Listestemmer,Frihedslisten,10
+Ballerup,2,Baltorpskolen - Rugvænget,Æ_Ulrik_Eibye,Ulrik Eibye,Frihedslisten,17
+Ballerup,2,Baltorpskolen - Rugvænget,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,98
+Ballerup,2,Baltorpskolen - Rugvænget,Ø_Stine_Rahbek_Pedersen_-_Måløv,Stine Rahbek Pedersen - Måløv,Enhedslisten - De Rød-Grønne,93
+Ballerup,2,Baltorpskolen - Rugvænget,Ø_Saime_B._Inanc_-_Skovlunde,Saime B. Inanc - Skovlunde,Enhedslisten - De Rød-Grønne,18
+Ballerup,2,Baltorpskolen - Rugvænget,Ø_Miasser_Hawwa_-_Ballerup,Miasser Hawwa - Ballerup,Enhedslisten - De Rød-Grønne,20
+Ballerup,2,Baltorpskolen - Rugvænget,Ø_Louise_Mathiasen_-_Østerhøj,Louise Mathiasen - Østerhøj,Enhedslisten - De Rød-Grønne,11
+Ballerup,2,Baltorpskolen - Rugvænget,Ø_Muhammad_Ali_Abbasi_-_Ballerup,Muhammad Ali Abbasi - Ballerup,Enhedslisten - De Rød-Grønne,10
+Ballerup,3,Skovvejens Skole - Vest,A_Listestemmer,Listestemmer,Socialdemokratiet,215
+Ballerup,3,Skovvejens Skole - Vest,A_Jesper_Würtzen_-_Skovlunde,Jesper Würtzen - Skovlunde,Socialdemokratiet,320
+Ballerup,3,Skovvejens Skole - Vest,A_Maria_Lundahl_Assov_-_Ballerup,Maria Lundahl Assov - Ballerup,Socialdemokratiet,30
+Ballerup,3,Skovvejens Skole - Vest,A_Peter_Als_-_Skovlunde,Peter Als - Skovlunde,Socialdemokratiet,58
+Ballerup,3,Skovvejens Skole - Vest,A_Charlotte_Holtermann_-_Egebjerg,Charlotte Holtermann - Egebjerg,Socialdemokratiet,34
+Ballerup,3,Skovvejens Skole - Vest,A_Johan_Müller_-_Ballerup,Johan Müller - Ballerup,Socialdemokratiet,48
+Ballerup,3,Skovvejens Skole - Vest,A_Hella_Tiedemann_-_Ballerup,Hella Tiedemann - Ballerup,Socialdemokratiet,40
+Ballerup,3,Skovvejens Skole - Vest,A_Per_Mortensen_-_Måløv,Per Mortensen - Måløv,Socialdemokratiet,12
+Ballerup,3,Skovvejens Skole - Vest,A_Anja_Holtze_-_Skovlunde,Anja Holtze - Skovlunde,Socialdemokratiet,13
+Ballerup,3,Skovvejens Skole - Vest,A_Dennis_Sørensen_-_Ballerup,Dennis Sørensen - Ballerup,Socialdemokratiet,5
+Ballerup,3,Skovvejens Skole - Vest,A_Lolan_Ottesen_-_Ballerup,Lolan Ottesen - Ballerup,Socialdemokratiet,44
+Ballerup,3,Skovvejens Skole - Vest,A_Musa_Kekec_-_Ballerup,Musa Kekec - Ballerup,Socialdemokratiet,7
+Ballerup,3,Skovvejens Skole - Vest,A_Sandra_Marsenic_-_Egebjerg,Sandra Marsenic - Egebjerg,Socialdemokratiet,17
+Ballerup,3,Skovvejens Skole - Vest,A_Erling_Andersen_-_Måløv,Erling Andersen - Måløv,Socialdemokratiet,2
+Ballerup,3,Skovvejens Skole - Vest,A_Laila_Busted_-_Ballerup,Laila Busted - Ballerup,Socialdemokratiet,13
+Ballerup,3,Skovvejens Skole - Vest,A_Morten_Andersson_-_Egebjerg,Morten Andersson - Egebjerg,Socialdemokratiet,13
+Ballerup,3,Skovvejens Skole - Vest,A_Nicolas_Almann_Olsen_-_Ballerup,Nicolas Almann Olsen - Ballerup,Socialdemokratiet,4
+Ballerup,3,Skovvejens Skole - Vest,A_Özcan_Kizilkaya_-_Måløv,Özcan Kizilkaya - Måløv,Socialdemokratiet,2
+Ballerup,3,Skovvejens Skole - Vest,A_Michael_Brønd_-_Ballerup,Michael Brønd - Ballerup,Socialdemokratiet,10
+Ballerup,3,Skovvejens Skole - Vest,A_Martin_Høyer_Rasmussen_-_Ballerup,Martin Høyer Rasmussen - Ballerup,Socialdemokratiet,4
+Ballerup,3,Skovvejens Skole - Vest,A_Mikkel_Zacho_Justesen_-_Ballerup,Mikkel Zacho Justesen - Ballerup,Socialdemokratiet,11
+Ballerup,3,Skovvejens Skole - Vest,A_Zoran_Rajovic_-_Ballerup,Zoran Rajovic - Ballerup,Socialdemokratiet,8
+Ballerup,3,Skovvejens Skole - Vest,B_Listestemmer,Listestemmer,Radikale Venstre,20
+Ballerup,3,Skovvejens Skole - Vest,B_Lars_Green_Bach,Lars Green Bach,Radikale Venstre,17
+Ballerup,3,Skovvejens Skole - Vest,B_Mustafa_Deveci,Mustafa Deveci,Radikale Venstre,3
+Ballerup,3,Skovvejens Skole - Vest,B_Sanne_Fandrup,Sanne Fandrup,Radikale Venstre,7
+Ballerup,3,Skovvejens Skole - Vest,B_Annette_Randløv,Annette Randløv,Radikale Venstre,10
+Ballerup,3,Skovvejens Skole - Vest,B_Katrine_Bugge,Katrine Bugge,Radikale Venstre,10
+Ballerup,3,Skovvejens Skole - Vest,B_Asger_Jensen,Asger Jensen,Radikale Venstre,1
+Ballerup,3,Skovvejens Skole - Vest,B_Jørgen_Bragge,Jørgen Bragge,Radikale Venstre,0
+Ballerup,3,Skovvejens Skole - Vest,B_Christell_Erichsen,Christell Erichsen,Radikale Venstre,7
+Ballerup,3,Skovvejens Skole - Vest,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,117
+Ballerup,3,Skovvejens Skole - Vest,C_Allan_Kristensen_-_Ballerup,Allan Kristensen - Ballerup,Det Konservative Folkeparti,141
+Ballerup,3,Skovvejens Skole - Vest,C_Karsten_Kriegel_-_Måløv,Karsten Kriegel - Måløv,Det Konservative Folkeparti,19
+Ballerup,3,Skovvejens Skole - Vest,C_Kristijan_Vukicevic_-_Ballerup,Kristijan Vukicevic - Ballerup,Det Konservative Folkeparti,6
+Ballerup,3,Skovvejens Skole - Vest,C_Kate_Svarrer_-_Ballerup,Kate Svarrer - Ballerup,Det Konservative Folkeparti,19
+Ballerup,3,Skovvejens Skole - Vest,C_Morten_Løgager_-_Ballerup,Morten Løgager - Ballerup,Det Konservative Folkeparti,8
+Ballerup,3,Skovvejens Skole - Vest,C_Lis_Folke_Christensen_-_Egebjerg,Lis Folke Christensen - Egebjerg,Det Konservative Folkeparti,4
+Ballerup,3,Skovvejens Skole - Vest,C_Frederik_Forland_-_Måløv,Frederik Forland - Måløv,Det Konservative Folkeparti,3
+Ballerup,3,Skovvejens Skole - Vest,C_Kasper_Schlander_-_Måløv,Kasper Schlander - Måløv,Det Konservative Folkeparti,13
+Ballerup,3,Skovvejens Skole - Vest,D_Listestemmer,Listestemmer,Nye Borgerlige,49
+Ballerup,3,Skovvejens Skole - Vest,D_Andre_Amingsø,Andre Amingsø,Nye Borgerlige,9
+Ballerup,3,Skovvejens Skole - Vest,D_Kristian_Bach,Kristian Bach,Nye Borgerlige,6
+Ballerup,3,Skovvejens Skole - Vest,D_Brian_Ølholm,Brian Ølholm,Nye Borgerlige,16
+Ballerup,3,Skovvejens Skole - Vest,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,43
+Ballerup,3,Skovvejens Skole - Vest,F_Simon_Knudstrup,Simon Knudstrup,SF - Socialistisk Folkeparti,64
+Ballerup,3,Skovvejens Skole - Vest,F_Taner_Genc,Taner Genc,SF - Socialistisk Folkeparti,22
+Ballerup,3,Skovvejens Skole - Vest,F_Gitte_Boffy_Lillelund,Gitte Boffy Lillelund,SF - Socialistisk Folkeparti,10
+Ballerup,3,Skovvejens Skole - Vest,F_Ulrik_Falk-Sørensen,Ulrik Falk-Sørensen,SF - Socialistisk Folkeparti,3
+Ballerup,3,Skovvejens Skole - Vest,F_Birte_Kramhøft,Birte Kramhøft,SF - Socialistisk Folkeparti,2
+Ballerup,3,Skovvejens Skole - Vest,F_Niels_Overgaard,Niels Overgaard,SF - Socialistisk Folkeparti,1
+Ballerup,3,Skovvejens Skole - Vest,F_Thorkild_Krejberg,Thorkild Krejberg,SF - Socialistisk Folkeparti,1
+Ballerup,3,Skovvejens Skole - Vest,F_Tim_Larsen,Tim Larsen,SF - Socialistisk Folkeparti,1
+Ballerup,3,Skovvejens Skole - Vest,F_Jørn_Nielsen,Jørn Nielsen,SF - Socialistisk Folkeparti,0
+Ballerup,3,Skovvejens Skole - Vest,F_Rune_Frøding,Rune Frøding,SF - Socialistisk Folkeparti,0
+Ballerup,3,Skovvejens Skole - Vest,F_Peter_Andersen,Peter Andersen,SF - Socialistisk Folkeparti,0
+Ballerup,3,Skovvejens Skole - Vest,G_Listestemmer,Listestemmer,Veganerpartiet,5
+Ballerup,3,Skovvejens Skole - Vest,G_Frida_Freiesleben,Frida Freiesleben,Veganerpartiet,11
+Ballerup,3,Skovvejens Skole - Vest,I_Listestemmer,Listestemmer,Liberal Alliance,5
+Ballerup,3,Skovvejens Skole - Vest,I_Mikkel_Kruse_-_Skovlunde,Mikkel Kruse - Skovlunde,Liberal Alliance,1
+Ballerup,3,Skovvejens Skole - Vest,I_Claus_Damkjær_-_Ballerup,Claus Damkjær - Ballerup,Liberal Alliance,12
+Ballerup,3,Skovvejens Skole - Vest,I_Oscar_Gade-Frimann_-_Måløv,Oscar Gade-Frimann - Måløv,Liberal Alliance,0
+Ballerup,3,Skovvejens Skole - Vest,L_Listestemmer,Listestemmer,Serhat Kücükkart,0
+Ballerup,3,Skovvejens Skole - Vest,L_Serhat_Kücükkart,Serhat Kücükkart,Serhat Kücükkart,6
+Ballerup,3,Skovvejens Skole - Vest,O_Listestemmer,Listestemmer,Dansk Folkeparti,37
+Ballerup,3,Skovvejens Skole - Vest,O_Michael_Jensen,Michael Jensen,Dansk Folkeparti,25
+Ballerup,3,Skovvejens Skole - Vest,O_Jette_Meinertz,Jette Meinertz,Dansk Folkeparti,17
+Ballerup,3,Skovvejens Skole - Vest,O_Kasper_Sørmer-Sørensen,Kasper Sørmer-Sørensen,Dansk Folkeparti,3
+Ballerup,3,Skovvejens Skole - Vest,O_Rune_K._Wegge,Rune K. Wegge,Dansk Folkeparti,0
+Ballerup,3,Skovvejens Skole - Vest,O_Birthe_Møller_Jonsson,Birthe Møller Jonsson,Dansk Folkeparti,1
+Ballerup,3,Skovvejens Skole - Vest,O_Allan_Petersen,Allan Petersen,Dansk Folkeparti,3
+Ballerup,3,Skovvejens Skole - Vest,P_Listestemmer,Listestemmer,Partiet Ballerup Listen,2
+Ballerup,3,Skovvejens Skole - Vest,P_Michael_Olsen,Michael Olsen,Partiet Ballerup Listen,1
+Ballerup,3,Skovvejens Skole - Vest,P_Line_Fielsøe_Petersen,Line Fielsøe Petersen,Partiet Ballerup Listen,2
+Ballerup,3,Skovvejens Skole - Vest,P_Christine_Andersen,Christine Andersen,Partiet Ballerup Listen,0
+Ballerup,3,Skovvejens Skole - Vest,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",59
+Ballerup,3,Skovvejens Skole - Vest,V_Mikael_Wandel,Mikael Wandel,"Venstre, Danmarks Liberale Parti",38
+Ballerup,3,Skovvejens Skole - Vest,V_Jacob_Wøhler_Jørgensen,Jacob Wøhler Jørgensen,"Venstre, Danmarks Liberale Parti",43
+Ballerup,3,Skovvejens Skole - Vest,V_Dorthe_Rigét,Dorthe Rigét,"Venstre, Danmarks Liberale Parti",26
+Ballerup,3,Skovvejens Skole - Vest,V_Christian_Skjæran,Christian Skjæran,"Venstre, Danmarks Liberale Parti",3
+Ballerup,3,Skovvejens Skole - Vest,V_Sussie_Wandel,Sussie Wandel,"Venstre, Danmarks Liberale Parti",20
+Ballerup,3,Skovvejens Skole - Vest,V_Zishan_Ali,Zishan Ali,"Venstre, Danmarks Liberale Parti",4
+Ballerup,3,Skovvejens Skole - Vest,V_Bettina_Prühs,Bettina Prühs,"Venstre, Danmarks Liberale Parti",3
+Ballerup,3,Skovvejens Skole - Vest,V_Nina_Skaarup,Nina Skaarup,"Venstre, Danmarks Liberale Parti",0
+Ballerup,3,Skovvejens Skole - Vest,V_Henrik_Vejgaard,Henrik Vejgaard,"Venstre, Danmarks Liberale Parti",0
+Ballerup,3,Skovvejens Skole - Vest,V_Marie_Kielberg-Bæk,Marie Kielberg-Bæk,"Venstre, Danmarks Liberale Parti",1
+Ballerup,3,Skovvejens Skole - Vest,V_Bente_Bjørklund,Bente Bjørklund,"Venstre, Danmarks Liberale Parti",0
+Ballerup,3,Skovvejens Skole - Vest,Æ_Listestemmer,Listestemmer,Frihedslisten,1
+Ballerup,3,Skovvejens Skole - Vest,Æ_Ulrik_Eibye,Ulrik Eibye,Frihedslisten,4
+Ballerup,3,Skovvejens Skole - Vest,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,40
+Ballerup,3,Skovvejens Skole - Vest,Ø_Stine_Rahbek_Pedersen_-_Måløv,Stine Rahbek Pedersen - Måløv,Enhedslisten - De Rød-Grønne,39
+Ballerup,3,Skovvejens Skole - Vest,Ø_Saime_B._Inanc_-_Skovlunde,Saime B. Inanc - Skovlunde,Enhedslisten - De Rød-Grønne,6
+Ballerup,3,Skovvejens Skole - Vest,Ø_Miasser_Hawwa_-_Ballerup,Miasser Hawwa - Ballerup,Enhedslisten - De Rød-Grønne,7
+Ballerup,3,Skovvejens Skole - Vest,Ø_Louise_Mathiasen_-_Østerhøj,Louise Mathiasen - Østerhøj,Enhedslisten - De Rød-Grønne,4
+Ballerup,3,Skovvejens Skole - Vest,Ø_Muhammad_Ali_Abbasi_-_Ballerup,Muhammad Ali Abbasi - Ballerup,Enhedslisten - De Rød-Grønne,3
+Ballerup,4,Grantoftehallen,A_Listestemmer,Listestemmer,Socialdemokratiet,237
+Ballerup,4,Grantoftehallen,A_Jesper_Würtzen_-_Skovlunde,Jesper Würtzen - Skovlunde,Socialdemokratiet,422
+Ballerup,4,Grantoftehallen,A_Maria_Lundahl_Assov_-_Ballerup,Maria Lundahl Assov - Ballerup,Socialdemokratiet,80
+Ballerup,4,Grantoftehallen,A_Peter_Als_-_Skovlunde,Peter Als - Skovlunde,Socialdemokratiet,2
+Ballerup,4,Grantoftehallen,A_Charlotte_Holtermann_-_Egebjerg,Charlotte Holtermann - Egebjerg,Socialdemokratiet,4
+Ballerup,4,Grantoftehallen,A_Johan_Müller_-_Ballerup,Johan Müller - Ballerup,Socialdemokratiet,39
+Ballerup,4,Grantoftehallen,A_Hella_Tiedemann_-_Ballerup,Hella Tiedemann - Ballerup,Socialdemokratiet,52
+Ballerup,4,Grantoftehallen,A_Per_Mortensen_-_Måløv,Per Mortensen - Måløv,Socialdemokratiet,17
+Ballerup,4,Grantoftehallen,A_Anja_Holtze_-_Skovlunde,Anja Holtze - Skovlunde,Socialdemokratiet,6
+Ballerup,4,Grantoftehallen,A_Dennis_Sørensen_-_Ballerup,Dennis Sørensen - Ballerup,Socialdemokratiet,37
+Ballerup,4,Grantoftehallen,A_Lolan_Ottesen_-_Ballerup,Lolan Ottesen - Ballerup,Socialdemokratiet,64
+Ballerup,4,Grantoftehallen,A_Musa_Kekec_-_Ballerup,Musa Kekec - Ballerup,Socialdemokratiet,54
+Ballerup,4,Grantoftehallen,A_Sandra_Marsenic_-_Egebjerg,Sandra Marsenic - Egebjerg,Socialdemokratiet,44
+Ballerup,4,Grantoftehallen,A_Erling_Andersen_-_Måløv,Erling Andersen - Måløv,Socialdemokratiet,4
+Ballerup,4,Grantoftehallen,A_Laila_Busted_-_Ballerup,Laila Busted - Ballerup,Socialdemokratiet,8
+Ballerup,4,Grantoftehallen,A_Morten_Andersson_-_Egebjerg,Morten Andersson - Egebjerg,Socialdemokratiet,9
+Ballerup,4,Grantoftehallen,A_Nicolas_Almann_Olsen_-_Ballerup,Nicolas Almann Olsen - Ballerup,Socialdemokratiet,6
+Ballerup,4,Grantoftehallen,A_Özcan_Kizilkaya_-_Måløv,Özcan Kizilkaya - Måløv,Socialdemokratiet,19
+Ballerup,4,Grantoftehallen,A_Michael_Brønd_-_Ballerup,Michael Brønd - Ballerup,Socialdemokratiet,10
+Ballerup,4,Grantoftehallen,A_Martin_Høyer_Rasmussen_-_Ballerup,Martin Høyer Rasmussen - Ballerup,Socialdemokratiet,5
+Ballerup,4,Grantoftehallen,A_Mikkel_Zacho_Justesen_-_Ballerup,Mikkel Zacho Justesen - Ballerup,Socialdemokratiet,11
+Ballerup,4,Grantoftehallen,A_Zoran_Rajovic_-_Ballerup,Zoran Rajovic - Ballerup,Socialdemokratiet,10
+Ballerup,4,Grantoftehallen,B_Listestemmer,Listestemmer,Radikale Venstre,23
+Ballerup,4,Grantoftehallen,B_Lars_Green_Bach,Lars Green Bach,Radikale Venstre,5
+Ballerup,4,Grantoftehallen,B_Mustafa_Deveci,Mustafa Deveci,Radikale Venstre,8
+Ballerup,4,Grantoftehallen,B_Sanne_Fandrup,Sanne Fandrup,Radikale Venstre,6
+Ballerup,4,Grantoftehallen,B_Annette_Randløv,Annette Randløv,Radikale Venstre,4
+Ballerup,4,Grantoftehallen,B_Katrine_Bugge,Katrine Bugge,Radikale Venstre,5
+Ballerup,4,Grantoftehallen,B_Asger_Jensen,Asger Jensen,Radikale Venstre,1
+Ballerup,4,Grantoftehallen,B_Jørgen_Bragge,Jørgen Bragge,Radikale Venstre,0
+Ballerup,4,Grantoftehallen,B_Christell_Erichsen,Christell Erichsen,Radikale Venstre,0
+Ballerup,4,Grantoftehallen,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,73
+Ballerup,4,Grantoftehallen,C_Allan_Kristensen_-_Ballerup,Allan Kristensen - Ballerup,Det Konservative Folkeparti,24
+Ballerup,4,Grantoftehallen,C_Karsten_Kriegel_-_Måløv,Karsten Kriegel - Måløv,Det Konservative Folkeparti,23
+Ballerup,4,Grantoftehallen,C_Kristijan_Vukicevic_-_Ballerup,Kristijan Vukicevic - Ballerup,Det Konservative Folkeparti,5
+Ballerup,4,Grantoftehallen,C_Kate_Svarrer_-_Ballerup,Kate Svarrer - Ballerup,Det Konservative Folkeparti,17
+Ballerup,4,Grantoftehallen,C_Morten_Løgager_-_Ballerup,Morten Løgager - Ballerup,Det Konservative Folkeparti,11
+Ballerup,4,Grantoftehallen,C_Lis_Folke_Christensen_-_Egebjerg,Lis Folke Christensen - Egebjerg,Det Konservative Folkeparti,1
+Ballerup,4,Grantoftehallen,C_Frederik_Forland_-_Måløv,Frederik Forland - Måløv,Det Konservative Folkeparti,4
+Ballerup,4,Grantoftehallen,C_Kasper_Schlander_-_Måløv,Kasper Schlander - Måløv,Det Konservative Folkeparti,5
+Ballerup,4,Grantoftehallen,D_Listestemmer,Listestemmer,Nye Borgerlige,40
+Ballerup,4,Grantoftehallen,D_Andre_Amingsø,Andre Amingsø,Nye Borgerlige,36
+Ballerup,4,Grantoftehallen,D_Kristian_Bach,Kristian Bach,Nye Borgerlige,7
+Ballerup,4,Grantoftehallen,D_Brian_Ølholm,Brian Ølholm,Nye Borgerlige,7
+Ballerup,4,Grantoftehallen,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,48
+Ballerup,4,Grantoftehallen,F_Simon_Knudstrup,Simon Knudstrup,SF - Socialistisk Folkeparti,45
+Ballerup,4,Grantoftehallen,F_Taner_Genc,Taner Genc,SF - Socialistisk Folkeparti,57
+Ballerup,4,Grantoftehallen,F_Gitte_Boffy_Lillelund,Gitte Boffy Lillelund,SF - Socialistisk Folkeparti,5
+Ballerup,4,Grantoftehallen,F_Ulrik_Falk-Sørensen,Ulrik Falk-Sørensen,SF - Socialistisk Folkeparti,5
+Ballerup,4,Grantoftehallen,F_Birte_Kramhøft,Birte Kramhøft,SF - Socialistisk Folkeparti,1
+Ballerup,4,Grantoftehallen,F_Niels_Overgaard,Niels Overgaard,SF - Socialistisk Folkeparti,4
+Ballerup,4,Grantoftehallen,F_Thorkild_Krejberg,Thorkild Krejberg,SF - Socialistisk Folkeparti,0
+Ballerup,4,Grantoftehallen,F_Tim_Larsen,Tim Larsen,SF - Socialistisk Folkeparti,1
+Ballerup,4,Grantoftehallen,F_Jørn_Nielsen,Jørn Nielsen,SF - Socialistisk Folkeparti,0
+Ballerup,4,Grantoftehallen,F_Rune_Frøding,Rune Frøding,SF - Socialistisk Folkeparti,0
+Ballerup,4,Grantoftehallen,F_Peter_Andersen,Peter Andersen,SF - Socialistisk Folkeparti,1
+Ballerup,4,Grantoftehallen,G_Listestemmer,Listestemmer,Veganerpartiet,1
+Ballerup,4,Grantoftehallen,G_Frida_Freiesleben,Frida Freiesleben,Veganerpartiet,11
+Ballerup,4,Grantoftehallen,I_Listestemmer,Listestemmer,Liberal Alliance,7
+Ballerup,4,Grantoftehallen,I_Mikkel_Kruse_-_Skovlunde,Mikkel Kruse - Skovlunde,Liberal Alliance,0
+Ballerup,4,Grantoftehallen,I_Claus_Damkjær_-_Ballerup,Claus Damkjær - Ballerup,Liberal Alliance,1
+Ballerup,4,Grantoftehallen,I_Oscar_Gade-Frimann_-_Måløv,Oscar Gade-Frimann - Måløv,Liberal Alliance,0
+Ballerup,4,Grantoftehallen,L_Listestemmer,Listestemmer,Serhat Kücükkart,10
+Ballerup,4,Grantoftehallen,L_Serhat_Kücükkart,Serhat Kücükkart,Serhat Kücükkart,88
+Ballerup,4,Grantoftehallen,O_Listestemmer,Listestemmer,Dansk Folkeparti,31
+Ballerup,4,Grantoftehallen,O_Michael_Jensen,Michael Jensen,Dansk Folkeparti,34
+Ballerup,4,Grantoftehallen,O_Jette_Meinertz,Jette Meinertz,Dansk Folkeparti,21
+Ballerup,4,Grantoftehallen,O_Kasper_Sørmer-Sørensen,Kasper Sørmer-Sørensen,Dansk Folkeparti,16
+Ballerup,4,Grantoftehallen,O_Rune_K._Wegge,Rune K. Wegge,Dansk Folkeparti,1
+Ballerup,4,Grantoftehallen,O_Birthe_Møller_Jonsson,Birthe Møller Jonsson,Dansk Folkeparti,9
+Ballerup,4,Grantoftehallen,O_Allan_Petersen,Allan Petersen,Dansk Folkeparti,5
+Ballerup,4,Grantoftehallen,P_Listestemmer,Listestemmer,Partiet Ballerup Listen,5
+Ballerup,4,Grantoftehallen,P_Michael_Olsen,Michael Olsen,Partiet Ballerup Listen,5
+Ballerup,4,Grantoftehallen,P_Line_Fielsøe_Petersen,Line Fielsøe Petersen,Partiet Ballerup Listen,3
+Ballerup,4,Grantoftehallen,P_Christine_Andersen,Christine Andersen,Partiet Ballerup Listen,1
+Ballerup,4,Grantoftehallen,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",41
+Ballerup,4,Grantoftehallen,V_Mikael_Wandel,Mikael Wandel,"Venstre, Danmarks Liberale Parti",7
+Ballerup,4,Grantoftehallen,V_Jacob_Wøhler_Jørgensen,Jacob Wøhler Jørgensen,"Venstre, Danmarks Liberale Parti",12
+Ballerup,4,Grantoftehallen,V_Dorthe_Rigét,Dorthe Rigét,"Venstre, Danmarks Liberale Parti",35
+Ballerup,4,Grantoftehallen,V_Christian_Skjæran,Christian Skjæran,"Venstre, Danmarks Liberale Parti",2
+Ballerup,4,Grantoftehallen,V_Sussie_Wandel,Sussie Wandel,"Venstre, Danmarks Liberale Parti",10
+Ballerup,4,Grantoftehallen,V_Zishan_Ali,Zishan Ali,"Venstre, Danmarks Liberale Parti",1
+Ballerup,4,Grantoftehallen,V_Bettina_Prühs,Bettina Prühs,"Venstre, Danmarks Liberale Parti",1
+Ballerup,4,Grantoftehallen,V_Nina_Skaarup,Nina Skaarup,"Venstre, Danmarks Liberale Parti",3
+Ballerup,4,Grantoftehallen,V_Henrik_Vejgaard,Henrik Vejgaard,"Venstre, Danmarks Liberale Parti",0
+Ballerup,4,Grantoftehallen,V_Marie_Kielberg-Bæk,Marie Kielberg-Bæk,"Venstre, Danmarks Liberale Parti",0
+Ballerup,4,Grantoftehallen,V_Bente_Bjørklund,Bente Bjørklund,"Venstre, Danmarks Liberale Parti",0
+Ballerup,4,Grantoftehallen,Æ_Listestemmer,Listestemmer,Frihedslisten,2
+Ballerup,4,Grantoftehallen,Æ_Ulrik_Eibye,Ulrik Eibye,Frihedslisten,12
+Ballerup,4,Grantoftehallen,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,41
+Ballerup,4,Grantoftehallen,Ø_Stine_Rahbek_Pedersen_-_Måløv,Stine Rahbek Pedersen - Måløv,Enhedslisten - De Rød-Grønne,27
+Ballerup,4,Grantoftehallen,Ø_Saime_B._Inanc_-_Skovlunde,Saime B. Inanc - Skovlunde,Enhedslisten - De Rød-Grønne,6
+Ballerup,4,Grantoftehallen,Ø_Miasser_Hawwa_-_Ballerup,Miasser Hawwa - Ballerup,Enhedslisten - De Rød-Grønne,10
+Ballerup,4,Grantoftehallen,Ø_Louise_Mathiasen_-_Østerhøj,Louise Mathiasen - Østerhøj,Enhedslisten - De Rød-Grønne,6
+Ballerup,4,Grantoftehallen,Ø_Muhammad_Ali_Abbasi_-_Ballerup,Muhammad Ali Abbasi - Ballerup,Enhedslisten - De Rød-Grønne,1
+Ballerup,5,Idrætshallen,A_Listestemmer,Listestemmer,Socialdemokratiet,284
+Ballerup,5,Idrætshallen,A_Jesper_Würtzen_-_Skovlunde,Jesper Würtzen - Skovlunde,Socialdemokratiet,667
+Ballerup,5,Idrætshallen,A_Maria_Lundahl_Assov_-_Ballerup,Maria Lundahl Assov - Ballerup,Socialdemokratiet,25
+Ballerup,5,Idrætshallen,A_Peter_Als_-_Skovlunde,Peter Als - Skovlunde,Socialdemokratiet,40
+Ballerup,5,Idrætshallen,A_Charlotte_Holtermann_-_Egebjerg,Charlotte Holtermann - Egebjerg,Socialdemokratiet,8
+Ballerup,5,Idrætshallen,A_Johan_Müller_-_Ballerup,Johan Müller - Ballerup,Socialdemokratiet,22
+Ballerup,5,Idrætshallen,A_Hella_Tiedemann_-_Ballerup,Hella Tiedemann - Ballerup,Socialdemokratiet,94
+Ballerup,5,Idrætshallen,A_Per_Mortensen_-_Måløv,Per Mortensen - Måløv,Socialdemokratiet,7
+Ballerup,5,Idrætshallen,A_Anja_Holtze_-_Skovlunde,Anja Holtze - Skovlunde,Socialdemokratiet,132
+Ballerup,5,Idrætshallen,A_Dennis_Sørensen_-_Ballerup,Dennis Sørensen - Ballerup,Socialdemokratiet,8
+Ballerup,5,Idrætshallen,A_Lolan_Ottesen_-_Ballerup,Lolan Ottesen - Ballerup,Socialdemokratiet,63
+Ballerup,5,Idrætshallen,A_Musa_Kekec_-_Ballerup,Musa Kekec - Ballerup,Socialdemokratiet,13
+Ballerup,5,Idrætshallen,A_Sandra_Marsenic_-_Egebjerg,Sandra Marsenic - Egebjerg,Socialdemokratiet,65
+Ballerup,5,Idrætshallen,A_Erling_Andersen_-_Måløv,Erling Andersen - Måløv,Socialdemokratiet,5
+Ballerup,5,Idrætshallen,A_Laila_Busted_-_Ballerup,Laila Busted - Ballerup,Socialdemokratiet,7
+Ballerup,5,Idrætshallen,A_Morten_Andersson_-_Egebjerg,Morten Andersson - Egebjerg,Socialdemokratiet,9
+Ballerup,5,Idrætshallen,A_Nicolas_Almann_Olsen_-_Ballerup,Nicolas Almann Olsen - Ballerup,Socialdemokratiet,6
+Ballerup,5,Idrætshallen,A_Özcan_Kizilkaya_-_Måløv,Özcan Kizilkaya - Måløv,Socialdemokratiet,7
+Ballerup,5,Idrætshallen,A_Michael_Brønd_-_Ballerup,Michael Brønd - Ballerup,Socialdemokratiet,3
+Ballerup,5,Idrætshallen,A_Martin_Høyer_Rasmussen_-_Ballerup,Martin Høyer Rasmussen - Ballerup,Socialdemokratiet,5
+Ballerup,5,Idrætshallen,A_Mikkel_Zacho_Justesen_-_Ballerup,Mikkel Zacho Justesen - Ballerup,Socialdemokratiet,9
+Ballerup,5,Idrætshallen,A_Zoran_Rajovic_-_Ballerup,Zoran Rajovic - Ballerup,Socialdemokratiet,8
+Ballerup,5,Idrætshallen,B_Listestemmer,Listestemmer,Radikale Venstre,40
+Ballerup,5,Idrætshallen,B_Lars_Green_Bach,Lars Green Bach,Radikale Venstre,87
+Ballerup,5,Idrætshallen,B_Mustafa_Deveci,Mustafa Deveci,Radikale Venstre,3
+Ballerup,5,Idrætshallen,B_Sanne_Fandrup,Sanne Fandrup,Radikale Venstre,14
+Ballerup,5,Idrætshallen,B_Annette_Randløv,Annette Randløv,Radikale Venstre,17
+Ballerup,5,Idrætshallen,B_Katrine_Bugge,Katrine Bugge,Radikale Venstre,12
+Ballerup,5,Idrætshallen,B_Asger_Jensen,Asger Jensen,Radikale Venstre,5
+Ballerup,5,Idrætshallen,B_Jørgen_Bragge,Jørgen Bragge,Radikale Venstre,0
+Ballerup,5,Idrætshallen,B_Christell_Erichsen,Christell Erichsen,Radikale Venstre,2
+Ballerup,5,Idrætshallen,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,242
+Ballerup,5,Idrætshallen,C_Allan_Kristensen_-_Ballerup,Allan Kristensen - Ballerup,Det Konservative Folkeparti,39
+Ballerup,5,Idrætshallen,C_Karsten_Kriegel_-_Måløv,Karsten Kriegel - Måløv,Det Konservative Folkeparti,32
+Ballerup,5,Idrætshallen,C_Kristijan_Vukicevic_-_Ballerup,Kristijan Vukicevic - Ballerup,Det Konservative Folkeparti,8
+Ballerup,5,Idrætshallen,C_Kate_Svarrer_-_Ballerup,Kate Svarrer - Ballerup,Det Konservative Folkeparti,19
+Ballerup,5,Idrætshallen,C_Morten_Løgager_-_Ballerup,Morten Løgager - Ballerup,Det Konservative Folkeparti,49
+Ballerup,5,Idrætshallen,C_Lis_Folke_Christensen_-_Egebjerg,Lis Folke Christensen - Egebjerg,Det Konservative Folkeparti,5
+Ballerup,5,Idrætshallen,C_Frederik_Forland_-_Måløv,Frederik Forland - Måløv,Det Konservative Folkeparti,6
+Ballerup,5,Idrætshallen,C_Kasper_Schlander_-_Måløv,Kasper Schlander - Måløv,Det Konservative Folkeparti,18
+Ballerup,5,Idrætshallen,D_Listestemmer,Listestemmer,Nye Borgerlige,35
+Ballerup,5,Idrætshallen,D_Andre_Amingsø,Andre Amingsø,Nye Borgerlige,13
+Ballerup,5,Idrætshallen,D_Kristian_Bach,Kristian Bach,Nye Borgerlige,8
+Ballerup,5,Idrætshallen,D_Brian_Ølholm,Brian Ølholm,Nye Borgerlige,8
+Ballerup,5,Idrætshallen,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,84
+Ballerup,5,Idrætshallen,F_Simon_Knudstrup,Simon Knudstrup,SF - Socialistisk Folkeparti,84
+Ballerup,5,Idrætshallen,F_Taner_Genc,Taner Genc,SF - Socialistisk Folkeparti,18
+Ballerup,5,Idrætshallen,F_Gitte_Boffy_Lillelund,Gitte Boffy Lillelund,SF - Socialistisk Folkeparti,16
+Ballerup,5,Idrætshallen,F_Ulrik_Falk-Sørensen,Ulrik Falk-Sørensen,SF - Socialistisk Folkeparti,6
+Ballerup,5,Idrætshallen,F_Birte_Kramhøft,Birte Kramhøft,SF - Socialistisk Folkeparti,3
+Ballerup,5,Idrætshallen,F_Niels_Overgaard,Niels Overgaard,SF - Socialistisk Folkeparti,1
+Ballerup,5,Idrætshallen,F_Thorkild_Krejberg,Thorkild Krejberg,SF - Socialistisk Folkeparti,3
+Ballerup,5,Idrætshallen,F_Tim_Larsen,Tim Larsen,SF - Socialistisk Folkeparti,0
+Ballerup,5,Idrætshallen,F_Jørn_Nielsen,Jørn Nielsen,SF - Socialistisk Folkeparti,0
+Ballerup,5,Idrætshallen,F_Rune_Frøding,Rune Frøding,SF - Socialistisk Folkeparti,1
+Ballerup,5,Idrætshallen,F_Peter_Andersen,Peter Andersen,SF - Socialistisk Folkeparti,0
+Ballerup,5,Idrætshallen,G_Listestemmer,Listestemmer,Veganerpartiet,4
+Ballerup,5,Idrætshallen,G_Frida_Freiesleben,Frida Freiesleben,Veganerpartiet,16
+Ballerup,5,Idrætshallen,I_Listestemmer,Listestemmer,Liberal Alliance,7
+Ballerup,5,Idrætshallen,I_Mikkel_Kruse_-_Skovlunde,Mikkel Kruse - Skovlunde,Liberal Alliance,10
+Ballerup,5,Idrætshallen,I_Claus_Damkjær_-_Ballerup,Claus Damkjær - Ballerup,Liberal Alliance,8
+Ballerup,5,Idrætshallen,I_Oscar_Gade-Frimann_-_Måløv,Oscar Gade-Frimann - Måløv,Liberal Alliance,0
+Ballerup,5,Idrætshallen,L_Listestemmer,Listestemmer,Serhat Kücükkart,1
+Ballerup,5,Idrætshallen,L_Serhat_Kücükkart,Serhat Kücükkart,Serhat Kücükkart,2
+Ballerup,5,Idrætshallen,O_Listestemmer,Listestemmer,Dansk Folkeparti,40
+Ballerup,5,Idrætshallen,O_Michael_Jensen,Michael Jensen,Dansk Folkeparti,36
+Ballerup,5,Idrætshallen,O_Jette_Meinertz,Jette Meinertz,Dansk Folkeparti,16
+Ballerup,5,Idrætshallen,O_Kasper_Sørmer-Sørensen,Kasper Sørmer-Sørensen,Dansk Folkeparti,2
+Ballerup,5,Idrætshallen,O_Rune_K._Wegge,Rune K. Wegge,Dansk Folkeparti,1
+Ballerup,5,Idrætshallen,O_Birthe_Møller_Jonsson,Birthe Møller Jonsson,Dansk Folkeparti,3
+Ballerup,5,Idrætshallen,O_Allan_Petersen,Allan Petersen,Dansk Folkeparti,2
+Ballerup,5,Idrætshallen,P_Listestemmer,Listestemmer,Partiet Ballerup Listen,8
+Ballerup,5,Idrætshallen,P_Michael_Olsen,Michael Olsen,Partiet Ballerup Listen,8
+Ballerup,5,Idrætshallen,P_Line_Fielsøe_Petersen,Line Fielsøe Petersen,Partiet Ballerup Listen,2
+Ballerup,5,Idrætshallen,P_Christine_Andersen,Christine Andersen,Partiet Ballerup Listen,4
+Ballerup,5,Idrætshallen,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",126
+Ballerup,5,Idrætshallen,V_Mikael_Wandel,Mikael Wandel,"Venstre, Danmarks Liberale Parti",44
+Ballerup,5,Idrætshallen,V_Jacob_Wøhler_Jørgensen,Jacob Wøhler Jørgensen,"Venstre, Danmarks Liberale Parti",34
+Ballerup,5,Idrætshallen,V_Dorthe_Rigét,Dorthe Rigét,"Venstre, Danmarks Liberale Parti",19
+Ballerup,5,Idrætshallen,V_Christian_Skjæran,Christian Skjæran,"Venstre, Danmarks Liberale Parti",9
+Ballerup,5,Idrætshallen,V_Sussie_Wandel,Sussie Wandel,"Venstre, Danmarks Liberale Parti",37
+Ballerup,5,Idrætshallen,V_Zishan_Ali,Zishan Ali,"Venstre, Danmarks Liberale Parti",3
+Ballerup,5,Idrætshallen,V_Bettina_Prühs,Bettina Prühs,"Venstre, Danmarks Liberale Parti",14
+Ballerup,5,Idrætshallen,V_Nina_Skaarup,Nina Skaarup,"Venstre, Danmarks Liberale Parti",3
+Ballerup,5,Idrætshallen,V_Henrik_Vejgaard,Henrik Vejgaard,"Venstre, Danmarks Liberale Parti",2
+Ballerup,5,Idrætshallen,V_Marie_Kielberg-Bæk,Marie Kielberg-Bæk,"Venstre, Danmarks Liberale Parti",6
+Ballerup,5,Idrætshallen,V_Bente_Bjørklund,Bente Bjørklund,"Venstre, Danmarks Liberale Parti",0
+Ballerup,5,Idrætshallen,Æ_Listestemmer,Listestemmer,Frihedslisten,2
+Ballerup,5,Idrætshallen,Æ_Ulrik_Eibye,Ulrik Eibye,Frihedslisten,3
+Ballerup,5,Idrætshallen,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,40
+Ballerup,5,Idrætshallen,Ø_Stine_Rahbek_Pedersen_-_Måløv,Stine Rahbek Pedersen - Måløv,Enhedslisten - De Rød-Grønne,54
+Ballerup,5,Idrætshallen,Ø_Saime_B._Inanc_-_Skovlunde,Saime B. Inanc - Skovlunde,Enhedslisten - De Rød-Grønne,19
+Ballerup,5,Idrætshallen,Ø_Miasser_Hawwa_-_Ballerup,Miasser Hawwa - Ballerup,Enhedslisten - De Rød-Grønne,3
+Ballerup,5,Idrætshallen,Ø_Louise_Mathiasen_-_Østerhøj,Louise Mathiasen - Østerhøj,Enhedslisten - De Rød-Grønne,4
+Ballerup,5,Idrætshallen,Ø_Muhammad_Ali_Abbasi_-_Ballerup,Muhammad Ali Abbasi - Ballerup,Enhedslisten - De Rød-Grønne,4
+Ballerup,6,Skovlunde Skole - Lundebjerg,A_Listestemmer,Listestemmer,Socialdemokratiet,455
+Ballerup,6,Skovlunde Skole - Lundebjerg,A_Jesper_Würtzen_-_Skovlunde,Jesper Würtzen - Skovlunde,Socialdemokratiet,854
+Ballerup,6,Skovlunde Skole - Lundebjerg,A_Maria_Lundahl_Assov_-_Ballerup,Maria Lundahl Assov - Ballerup,Socialdemokratiet,34
+Ballerup,6,Skovlunde Skole - Lundebjerg,A_Peter_Als_-_Skovlunde,Peter Als - Skovlunde,Socialdemokratiet,32
+Ballerup,6,Skovlunde Skole - Lundebjerg,A_Charlotte_Holtermann_-_Egebjerg,Charlotte Holtermann - Egebjerg,Socialdemokratiet,12
+Ballerup,6,Skovlunde Skole - Lundebjerg,A_Johan_Müller_-_Ballerup,Johan Müller - Ballerup,Socialdemokratiet,53
+Ballerup,6,Skovlunde Skole - Lundebjerg,A_Hella_Tiedemann_-_Ballerup,Hella Tiedemann - Ballerup,Socialdemokratiet,57
+Ballerup,6,Skovlunde Skole - Lundebjerg,A_Per_Mortensen_-_Måløv,Per Mortensen - Måløv,Socialdemokratiet,14
+Ballerup,6,Skovlunde Skole - Lundebjerg,A_Anja_Holtze_-_Skovlunde,Anja Holtze - Skovlunde,Socialdemokratiet,104
+Ballerup,6,Skovlunde Skole - Lundebjerg,A_Dennis_Sørensen_-_Ballerup,Dennis Sørensen - Ballerup,Socialdemokratiet,10
+Ballerup,6,Skovlunde Skole - Lundebjerg,A_Lolan_Ottesen_-_Ballerup,Lolan Ottesen - Ballerup,Socialdemokratiet,103
+Ballerup,6,Skovlunde Skole - Lundebjerg,A_Musa_Kekec_-_Ballerup,Musa Kekec - Ballerup,Socialdemokratiet,21
+Ballerup,6,Skovlunde Skole - Lundebjerg,A_Sandra_Marsenic_-_Egebjerg,Sandra Marsenic - Egebjerg,Socialdemokratiet,82
+Ballerup,6,Skovlunde Skole - Lundebjerg,A_Erling_Andersen_-_Måløv,Erling Andersen - Måløv,Socialdemokratiet,2
+Ballerup,6,Skovlunde Skole - Lundebjerg,A_Laila_Busted_-_Ballerup,Laila Busted - Ballerup,Socialdemokratiet,13
+Ballerup,6,Skovlunde Skole - Lundebjerg,A_Morten_Andersson_-_Egebjerg,Morten Andersson - Egebjerg,Socialdemokratiet,8
+Ballerup,6,Skovlunde Skole - Lundebjerg,A_Nicolas_Almann_Olsen_-_Ballerup,Nicolas Almann Olsen - Ballerup,Socialdemokratiet,16
+Ballerup,6,Skovlunde Skole - Lundebjerg,A_Özcan_Kizilkaya_-_Måløv,Özcan Kizilkaya - Måløv,Socialdemokratiet,18
+Ballerup,6,Skovlunde Skole - Lundebjerg,A_Michael_Brønd_-_Ballerup,Michael Brønd - Ballerup,Socialdemokratiet,11
+Ballerup,6,Skovlunde Skole - Lundebjerg,A_Martin_Høyer_Rasmussen_-_Ballerup,Martin Høyer Rasmussen - Ballerup,Socialdemokratiet,12
+Ballerup,6,Skovlunde Skole - Lundebjerg,A_Mikkel_Zacho_Justesen_-_Ballerup,Mikkel Zacho Justesen - Ballerup,Socialdemokratiet,14
+Ballerup,6,Skovlunde Skole - Lundebjerg,A_Zoran_Rajovic_-_Ballerup,Zoran Rajovic - Ballerup,Socialdemokratiet,22
+Ballerup,6,Skovlunde Skole - Lundebjerg,B_Listestemmer,Listestemmer,Radikale Venstre,54
+Ballerup,6,Skovlunde Skole - Lundebjerg,B_Lars_Green_Bach,Lars Green Bach,Radikale Venstre,47
+Ballerup,6,Skovlunde Skole - Lundebjerg,B_Mustafa_Deveci,Mustafa Deveci,Radikale Venstre,9
+Ballerup,6,Skovlunde Skole - Lundebjerg,B_Sanne_Fandrup,Sanne Fandrup,Radikale Venstre,12
+Ballerup,6,Skovlunde Skole - Lundebjerg,B_Annette_Randløv,Annette Randløv,Radikale Venstre,9
+Ballerup,6,Skovlunde Skole - Lundebjerg,B_Katrine_Bugge,Katrine Bugge,Radikale Venstre,21
+Ballerup,6,Skovlunde Skole - Lundebjerg,B_Asger_Jensen,Asger Jensen,Radikale Venstre,7
+Ballerup,6,Skovlunde Skole - Lundebjerg,B_Jørgen_Bragge,Jørgen Bragge,Radikale Venstre,0
+Ballerup,6,Skovlunde Skole - Lundebjerg,B_Christell_Erichsen,Christell Erichsen,Radikale Venstre,5
+Ballerup,6,Skovlunde Skole - Lundebjerg,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,176
+Ballerup,6,Skovlunde Skole - Lundebjerg,C_Allan_Kristensen_-_Ballerup,Allan Kristensen - Ballerup,Det Konservative Folkeparti,38
+Ballerup,6,Skovlunde Skole - Lundebjerg,C_Karsten_Kriegel_-_Måløv,Karsten Kriegel - Måløv,Det Konservative Folkeparti,22
+Ballerup,6,Skovlunde Skole - Lundebjerg,C_Kristijan_Vukicevic_-_Ballerup,Kristijan Vukicevic - Ballerup,Det Konservative Folkeparti,7
+Ballerup,6,Skovlunde Skole - Lundebjerg,C_Kate_Svarrer_-_Ballerup,Kate Svarrer - Ballerup,Det Konservative Folkeparti,24
+Ballerup,6,Skovlunde Skole - Lundebjerg,C_Morten_Løgager_-_Ballerup,Morten Løgager - Ballerup,Det Konservative Folkeparti,56
+Ballerup,6,Skovlunde Skole - Lundebjerg,C_Lis_Folke_Christensen_-_Egebjerg,Lis Folke Christensen - Egebjerg,Det Konservative Folkeparti,6
+Ballerup,6,Skovlunde Skole - Lundebjerg,C_Frederik_Forland_-_Måløv,Frederik Forland - Måløv,Det Konservative Folkeparti,9
+Ballerup,6,Skovlunde Skole - Lundebjerg,C_Kasper_Schlander_-_Måløv,Kasper Schlander - Måløv,Det Konservative Folkeparti,14
+Ballerup,6,Skovlunde Skole - Lundebjerg,D_Listestemmer,Listestemmer,Nye Borgerlige,80
+Ballerup,6,Skovlunde Skole - Lundebjerg,D_Andre_Amingsø,Andre Amingsø,Nye Borgerlige,18
+Ballerup,6,Skovlunde Skole - Lundebjerg,D_Kristian_Bach,Kristian Bach,Nye Borgerlige,13
+Ballerup,6,Skovlunde Skole - Lundebjerg,D_Brian_Ølholm,Brian Ølholm,Nye Borgerlige,12
+Ballerup,6,Skovlunde Skole - Lundebjerg,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,79
+Ballerup,6,Skovlunde Skole - Lundebjerg,F_Simon_Knudstrup,Simon Knudstrup,SF - Socialistisk Folkeparti,78
+Ballerup,6,Skovlunde Skole - Lundebjerg,F_Taner_Genc,Taner Genc,SF - Socialistisk Folkeparti,26
+Ballerup,6,Skovlunde Skole - Lundebjerg,F_Gitte_Boffy_Lillelund,Gitte Boffy Lillelund,SF - Socialistisk Folkeparti,12
+Ballerup,6,Skovlunde Skole - Lundebjerg,F_Ulrik_Falk-Sørensen,Ulrik Falk-Sørensen,SF - Socialistisk Folkeparti,4
+Ballerup,6,Skovlunde Skole - Lundebjerg,F_Birte_Kramhøft,Birte Kramhøft,SF - Socialistisk Folkeparti,4
+Ballerup,6,Skovlunde Skole - Lundebjerg,F_Niels_Overgaard,Niels Overgaard,SF - Socialistisk Folkeparti,3
+Ballerup,6,Skovlunde Skole - Lundebjerg,F_Thorkild_Krejberg,Thorkild Krejberg,SF - Socialistisk Folkeparti,0
+Ballerup,6,Skovlunde Skole - Lundebjerg,F_Tim_Larsen,Tim Larsen,SF - Socialistisk Folkeparti,1
+Ballerup,6,Skovlunde Skole - Lundebjerg,F_Jørn_Nielsen,Jørn Nielsen,SF - Socialistisk Folkeparti,4
+Ballerup,6,Skovlunde Skole - Lundebjerg,F_Rune_Frøding,Rune Frøding,SF - Socialistisk Folkeparti,0
+Ballerup,6,Skovlunde Skole - Lundebjerg,F_Peter_Andersen,Peter Andersen,SF - Socialistisk Folkeparti,0
+Ballerup,6,Skovlunde Skole - Lundebjerg,G_Listestemmer,Listestemmer,Veganerpartiet,5
+Ballerup,6,Skovlunde Skole - Lundebjerg,G_Frida_Freiesleben,Frida Freiesleben,Veganerpartiet,20
+Ballerup,6,Skovlunde Skole - Lundebjerg,I_Listestemmer,Listestemmer,Liberal Alliance,16
+Ballerup,6,Skovlunde Skole - Lundebjerg,I_Mikkel_Kruse_-_Skovlunde,Mikkel Kruse - Skovlunde,Liberal Alliance,12
+Ballerup,6,Skovlunde Skole - Lundebjerg,I_Claus_Damkjær_-_Ballerup,Claus Damkjær - Ballerup,Liberal Alliance,3
+Ballerup,6,Skovlunde Skole - Lundebjerg,I_Oscar_Gade-Frimann_-_Måløv,Oscar Gade-Frimann - Måløv,Liberal Alliance,1
+Ballerup,6,Skovlunde Skole - Lundebjerg,L_Listestemmer,Listestemmer,Serhat Kücükkart,4
+Ballerup,6,Skovlunde Skole - Lundebjerg,L_Serhat_Kücükkart,Serhat Kücükkart,Serhat Kücükkart,12
+Ballerup,6,Skovlunde Skole - Lundebjerg,O_Listestemmer,Listestemmer,Dansk Folkeparti,87
+Ballerup,6,Skovlunde Skole - Lundebjerg,O_Michael_Jensen,Michael Jensen,Dansk Folkeparti,94
+Ballerup,6,Skovlunde Skole - Lundebjerg,O_Jette_Meinertz,Jette Meinertz,Dansk Folkeparti,11
+Ballerup,6,Skovlunde Skole - Lundebjerg,O_Kasper_Sørmer-Sørensen,Kasper Sørmer-Sørensen,Dansk Folkeparti,7
+Ballerup,6,Skovlunde Skole - Lundebjerg,O_Rune_K._Wegge,Rune K. Wegge,Dansk Folkeparti,1
+Ballerup,6,Skovlunde Skole - Lundebjerg,O_Birthe_Møller_Jonsson,Birthe Møller Jonsson,Dansk Folkeparti,8
+Ballerup,6,Skovlunde Skole - Lundebjerg,O_Allan_Petersen,Allan Petersen,Dansk Folkeparti,1
+Ballerup,6,Skovlunde Skole - Lundebjerg,P_Listestemmer,Listestemmer,Partiet Ballerup Listen,12
+Ballerup,6,Skovlunde Skole - Lundebjerg,P_Michael_Olsen,Michael Olsen,Partiet Ballerup Listen,17
+Ballerup,6,Skovlunde Skole - Lundebjerg,P_Line_Fielsøe_Petersen,Line Fielsøe Petersen,Partiet Ballerup Listen,13
+Ballerup,6,Skovlunde Skole - Lundebjerg,P_Christine_Andersen,Christine Andersen,Partiet Ballerup Listen,6
+Ballerup,6,Skovlunde Skole - Lundebjerg,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",92
+Ballerup,6,Skovlunde Skole - Lundebjerg,V_Mikael_Wandel,Mikael Wandel,"Venstre, Danmarks Liberale Parti",18
+Ballerup,6,Skovlunde Skole - Lundebjerg,V_Jacob_Wøhler_Jørgensen,Jacob Wøhler Jørgensen,"Venstre, Danmarks Liberale Parti",30
+Ballerup,6,Skovlunde Skole - Lundebjerg,V_Dorthe_Rigét,Dorthe Rigét,"Venstre, Danmarks Liberale Parti",19
+Ballerup,6,Skovlunde Skole - Lundebjerg,V_Christian_Skjæran,Christian Skjæran,"Venstre, Danmarks Liberale Parti",7
+Ballerup,6,Skovlunde Skole - Lundebjerg,V_Sussie_Wandel,Sussie Wandel,"Venstre, Danmarks Liberale Parti",23
+Ballerup,6,Skovlunde Skole - Lundebjerg,V_Zishan_Ali,Zishan Ali,"Venstre, Danmarks Liberale Parti",8
+Ballerup,6,Skovlunde Skole - Lundebjerg,V_Bettina_Prühs,Bettina Prühs,"Venstre, Danmarks Liberale Parti",3
+Ballerup,6,Skovlunde Skole - Lundebjerg,V_Nina_Skaarup,Nina Skaarup,"Venstre, Danmarks Liberale Parti",3
+Ballerup,6,Skovlunde Skole - Lundebjerg,V_Henrik_Vejgaard,Henrik Vejgaard,"Venstre, Danmarks Liberale Parti",1
+Ballerup,6,Skovlunde Skole - Lundebjerg,V_Marie_Kielberg-Bæk,Marie Kielberg-Bæk,"Venstre, Danmarks Liberale Parti",2
+Ballerup,6,Skovlunde Skole - Lundebjerg,V_Bente_Bjørklund,Bente Bjørklund,"Venstre, Danmarks Liberale Parti",1
+Ballerup,6,Skovlunde Skole - Lundebjerg,Æ_Listestemmer,Listestemmer,Frihedslisten,5
+Ballerup,6,Skovlunde Skole - Lundebjerg,Æ_Ulrik_Eibye,Ulrik Eibye,Frihedslisten,14
+Ballerup,6,Skovlunde Skole - Lundebjerg,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,89
+Ballerup,6,Skovlunde Skole - Lundebjerg,Ø_Stine_Rahbek_Pedersen_-_Måløv,Stine Rahbek Pedersen - Måløv,Enhedslisten - De Rød-Grønne,81
+Ballerup,6,Skovlunde Skole - Lundebjerg,Ø_Saime_B._Inanc_-_Skovlunde,Saime B. Inanc - Skovlunde,Enhedslisten - De Rød-Grønne,46
+Ballerup,6,Skovlunde Skole - Lundebjerg,Ø_Miasser_Hawwa_-_Ballerup,Miasser Hawwa - Ballerup,Enhedslisten - De Rød-Grønne,5
+Ballerup,6,Skovlunde Skole - Lundebjerg,Ø_Louise_Mathiasen_-_Østerhøj,Louise Mathiasen - Østerhøj,Enhedslisten - De Rød-Grønne,14
+Ballerup,6,Skovlunde Skole - Lundebjerg,Ø_Muhammad_Ali_Abbasi_-_Ballerup,Muhammad Ali Abbasi - Ballerup,Enhedslisten - De Rød-Grønne,9
+Ballerup,8,Måløv Ny Hal,A_Listestemmer,Listestemmer,Socialdemokratiet,407
+Ballerup,8,Måløv Ny Hal,A_Jesper_Würtzen_-_Skovlunde,Jesper Würtzen - Skovlunde,Socialdemokratiet,515
+Ballerup,8,Måløv Ny Hal,A_Maria_Lundahl_Assov_-_Ballerup,Maria Lundahl Assov - Ballerup,Socialdemokratiet,46
+Ballerup,8,Måløv Ny Hal,A_Peter_Als_-_Skovlunde,Peter Als - Skovlunde,Socialdemokratiet,19
+Ballerup,8,Måløv Ny Hal,A_Charlotte_Holtermann_-_Egebjerg,Charlotte Holtermann - Egebjerg,Socialdemokratiet,24
+Ballerup,8,Måløv Ny Hal,A_Johan_Müller_-_Ballerup,Johan Müller - Ballerup,Socialdemokratiet,48
+Ballerup,8,Måløv Ny Hal,A_Hella_Tiedemann_-_Ballerup,Hella Tiedemann - Ballerup,Socialdemokratiet,56
+Ballerup,8,Måløv Ny Hal,A_Per_Mortensen_-_Måløv,Per Mortensen - Måløv,Socialdemokratiet,147
+Ballerup,8,Måløv Ny Hal,A_Anja_Holtze_-_Skovlunde,Anja Holtze - Skovlunde,Socialdemokratiet,11
+Ballerup,8,Måløv Ny Hal,A_Dennis_Sørensen_-_Ballerup,Dennis Sørensen - Ballerup,Socialdemokratiet,3
+Ballerup,8,Måløv Ny Hal,A_Lolan_Ottesen_-_Ballerup,Lolan Ottesen - Ballerup,Socialdemokratiet,31
+Ballerup,8,Måløv Ny Hal,A_Musa_Kekec_-_Ballerup,Musa Kekec - Ballerup,Socialdemokratiet,20
+Ballerup,8,Måløv Ny Hal,A_Sandra_Marsenic_-_Egebjerg,Sandra Marsenic - Egebjerg,Socialdemokratiet,25
+Ballerup,8,Måløv Ny Hal,A_Erling_Andersen_-_Måløv,Erling Andersen - Måløv,Socialdemokratiet,98
+Ballerup,8,Måløv Ny Hal,A_Laila_Busted_-_Ballerup,Laila Busted - Ballerup,Socialdemokratiet,11
+Ballerup,8,Måløv Ny Hal,A_Morten_Andersson_-_Egebjerg,Morten Andersson - Egebjerg,Socialdemokratiet,9
+Ballerup,8,Måløv Ny Hal,A_Nicolas_Almann_Olsen_-_Ballerup,Nicolas Almann Olsen - Ballerup,Socialdemokratiet,3
+Ballerup,8,Måløv Ny Hal,A_Özcan_Kizilkaya_-_Måløv,Özcan Kizilkaya - Måløv,Socialdemokratiet,20
+Ballerup,8,Måløv Ny Hal,A_Michael_Brønd_-_Ballerup,Michael Brønd - Ballerup,Socialdemokratiet,6
+Ballerup,8,Måløv Ny Hal,A_Martin_Høyer_Rasmussen_-_Ballerup,Martin Høyer Rasmussen - Ballerup,Socialdemokratiet,10
+Ballerup,8,Måløv Ny Hal,A_Mikkel_Zacho_Justesen_-_Ballerup,Mikkel Zacho Justesen - Ballerup,Socialdemokratiet,9
+Ballerup,8,Måløv Ny Hal,A_Zoran_Rajovic_-_Ballerup,Zoran Rajovic - Ballerup,Socialdemokratiet,9
+Ballerup,8,Måløv Ny Hal,B_Listestemmer,Listestemmer,Radikale Venstre,59
+Ballerup,8,Måløv Ny Hal,B_Lars_Green_Bach,Lars Green Bach,Radikale Venstre,26
+Ballerup,8,Måløv Ny Hal,B_Mustafa_Deveci,Mustafa Deveci,Radikale Venstre,6
+Ballerup,8,Måløv Ny Hal,B_Sanne_Fandrup,Sanne Fandrup,Radikale Venstre,9
+Ballerup,8,Måløv Ny Hal,B_Annette_Randløv,Annette Randløv,Radikale Venstre,25
+Ballerup,8,Måløv Ny Hal,B_Katrine_Bugge,Katrine Bugge,Radikale Venstre,14
+Ballerup,8,Måløv Ny Hal,B_Asger_Jensen,Asger Jensen,Radikale Venstre,5
+Ballerup,8,Måløv Ny Hal,B_Jørgen_Bragge,Jørgen Bragge,Radikale Venstre,2
+Ballerup,8,Måløv Ny Hal,B_Christell_Erichsen,Christell Erichsen,Radikale Venstre,4
+Ballerup,8,Måløv Ny Hal,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,197
+Ballerup,8,Måløv Ny Hal,C_Allan_Kristensen_-_Ballerup,Allan Kristensen - Ballerup,Det Konservative Folkeparti,58
+Ballerup,8,Måløv Ny Hal,C_Karsten_Kriegel_-_Måløv,Karsten Kriegel - Måløv,Det Konservative Folkeparti,143
+Ballerup,8,Måløv Ny Hal,C_Kristijan_Vukicevic_-_Ballerup,Kristijan Vukicevic - Ballerup,Det Konservative Folkeparti,6
+Ballerup,8,Måløv Ny Hal,C_Kate_Svarrer_-_Ballerup,Kate Svarrer - Ballerup,Det Konservative Folkeparti,22
+Ballerup,8,Måløv Ny Hal,C_Morten_Løgager_-_Ballerup,Morten Løgager - Ballerup,Det Konservative Folkeparti,17
+Ballerup,8,Måløv Ny Hal,C_Lis_Folke_Christensen_-_Egebjerg,Lis Folke Christensen - Egebjerg,Det Konservative Folkeparti,1
+Ballerup,8,Måløv Ny Hal,C_Frederik_Forland_-_Måløv,Frederik Forland - Måløv,Det Konservative Folkeparti,24
+Ballerup,8,Måløv Ny Hal,C_Kasper_Schlander_-_Måløv,Kasper Schlander - Måløv,Det Konservative Folkeparti,53
+Ballerup,8,Måløv Ny Hal,D_Listestemmer,Listestemmer,Nye Borgerlige,46
+Ballerup,8,Måløv Ny Hal,D_Andre_Amingsø,Andre Amingsø,Nye Borgerlige,13
+Ballerup,8,Måløv Ny Hal,D_Kristian_Bach,Kristian Bach,Nye Borgerlige,6
+Ballerup,8,Måløv Ny Hal,D_Brian_Ølholm,Brian Ølholm,Nye Borgerlige,13
+Ballerup,8,Måløv Ny Hal,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,74
+Ballerup,8,Måløv Ny Hal,F_Simon_Knudstrup,Simon Knudstrup,SF - Socialistisk Folkeparti,35
+Ballerup,8,Måløv Ny Hal,F_Taner_Genc,Taner Genc,SF - Socialistisk Folkeparti,34
+Ballerup,8,Måløv Ny Hal,F_Gitte_Boffy_Lillelund,Gitte Boffy Lillelund,SF - Socialistisk Folkeparti,18
+Ballerup,8,Måløv Ny Hal,F_Ulrik_Falk-Sørensen,Ulrik Falk-Sørensen,SF - Socialistisk Folkeparti,6
+Ballerup,8,Måløv Ny Hal,F_Birte_Kramhøft,Birte Kramhøft,SF - Socialistisk Folkeparti,4
+Ballerup,8,Måløv Ny Hal,F_Niels_Overgaard,Niels Overgaard,SF - Socialistisk Folkeparti,1
+Ballerup,8,Måløv Ny Hal,F_Thorkild_Krejberg,Thorkild Krejberg,SF - Socialistisk Folkeparti,0
+Ballerup,8,Måløv Ny Hal,F_Tim_Larsen,Tim Larsen,SF - Socialistisk Folkeparti,1
+Ballerup,8,Måløv Ny Hal,F_Jørn_Nielsen,Jørn Nielsen,SF - Socialistisk Folkeparti,0
+Ballerup,8,Måløv Ny Hal,F_Rune_Frøding,Rune Frøding,SF - Socialistisk Folkeparti,0
+Ballerup,8,Måløv Ny Hal,F_Peter_Andersen,Peter Andersen,SF - Socialistisk Folkeparti,0
+Ballerup,8,Måløv Ny Hal,G_Listestemmer,Listestemmer,Veganerpartiet,5
+Ballerup,8,Måløv Ny Hal,G_Frida_Freiesleben,Frida Freiesleben,Veganerpartiet,22
+Ballerup,8,Måløv Ny Hal,I_Listestemmer,Listestemmer,Liberal Alliance,12
+Ballerup,8,Måløv Ny Hal,I_Mikkel_Kruse_-_Skovlunde,Mikkel Kruse - Skovlunde,Liberal Alliance,5
+Ballerup,8,Måløv Ny Hal,I_Claus_Damkjær_-_Ballerup,Claus Damkjær - Ballerup,Liberal Alliance,4
+Ballerup,8,Måløv Ny Hal,I_Oscar_Gade-Frimann_-_Måløv,Oscar Gade-Frimann - Måløv,Liberal Alliance,7
+Ballerup,8,Måløv Ny Hal,L_Listestemmer,Listestemmer,Serhat Kücükkart,0
+Ballerup,8,Måløv Ny Hal,L_Serhat_Kücükkart,Serhat Kücükkart,Serhat Kücükkart,19
+Ballerup,8,Måløv Ny Hal,O_Listestemmer,Listestemmer,Dansk Folkeparti,32
+Ballerup,8,Måløv Ny Hal,O_Michael_Jensen,Michael Jensen,Dansk Folkeparti,27
+Ballerup,8,Måløv Ny Hal,O_Jette_Meinertz,Jette Meinertz,Dansk Folkeparti,32
+Ballerup,8,Måløv Ny Hal,O_Kasper_Sørmer-Sørensen,Kasper Sørmer-Sørensen,Dansk Folkeparti,3
+Ballerup,8,Måløv Ny Hal,O_Rune_K._Wegge,Rune K. Wegge,Dansk Folkeparti,0
+Ballerup,8,Måløv Ny Hal,O_Birthe_Møller_Jonsson,Birthe Møller Jonsson,Dansk Folkeparti,6
+Ballerup,8,Måløv Ny Hal,O_Allan_Petersen,Allan Petersen,Dansk Folkeparti,1
+Ballerup,8,Måløv Ny Hal,P_Listestemmer,Listestemmer,Partiet Ballerup Listen,3
+Ballerup,8,Måløv Ny Hal,P_Michael_Olsen,Michael Olsen,Partiet Ballerup Listen,2
+Ballerup,8,Måløv Ny Hal,P_Line_Fielsøe_Petersen,Line Fielsøe Petersen,Partiet Ballerup Listen,1
+Ballerup,8,Måløv Ny Hal,P_Christine_Andersen,Christine Andersen,Partiet Ballerup Listen,0
+Ballerup,8,Måløv Ny Hal,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",134
+Ballerup,8,Måløv Ny Hal,V_Mikael_Wandel,Mikael Wandel,"Venstre, Danmarks Liberale Parti",41
+Ballerup,8,Måløv Ny Hal,V_Jacob_Wøhler_Jørgensen,Jacob Wøhler Jørgensen,"Venstre, Danmarks Liberale Parti",19
+Ballerup,8,Måløv Ny Hal,V_Dorthe_Rigét,Dorthe Rigét,"Venstre, Danmarks Liberale Parti",24
+Ballerup,8,Måløv Ny Hal,V_Christian_Skjæran,Christian Skjæran,"Venstre, Danmarks Liberale Parti",6
+Ballerup,8,Måløv Ny Hal,V_Sussie_Wandel,Sussie Wandel,"Venstre, Danmarks Liberale Parti",34
+Ballerup,8,Måløv Ny Hal,V_Zishan_Ali,Zishan Ali,"Venstre, Danmarks Liberale Parti",3
+Ballerup,8,Måløv Ny Hal,V_Bettina_Prühs,Bettina Prühs,"Venstre, Danmarks Liberale Parti",4
+Ballerup,8,Måløv Ny Hal,V_Nina_Skaarup,Nina Skaarup,"Venstre, Danmarks Liberale Parti",6
+Ballerup,8,Måløv Ny Hal,V_Henrik_Vejgaard,Henrik Vejgaard,"Venstre, Danmarks Liberale Parti",1
+Ballerup,8,Måløv Ny Hal,V_Marie_Kielberg-Bæk,Marie Kielberg-Bæk,"Venstre, Danmarks Liberale Parti",3
+Ballerup,8,Måløv Ny Hal,V_Bente_Bjørklund,Bente Bjørklund,"Venstre, Danmarks Liberale Parti",1
+Ballerup,8,Måløv Ny Hal,Æ_Listestemmer,Listestemmer,Frihedslisten,1
+Ballerup,8,Måløv Ny Hal,Æ_Ulrik_Eibye,Ulrik Eibye,Frihedslisten,15
+Ballerup,8,Måløv Ny Hal,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,60
+Ballerup,8,Måløv Ny Hal,Ø_Stine_Rahbek_Pedersen_-_Måløv,Stine Rahbek Pedersen - Måløv,Enhedslisten - De Rød-Grønne,170
+Ballerup,8,Måløv Ny Hal,Ø_Saime_B._Inanc_-_Skovlunde,Saime B. Inanc - Skovlunde,Enhedslisten - De Rød-Grønne,3
+Ballerup,8,Måløv Ny Hal,Ø_Miasser_Hawwa_-_Ballerup,Miasser Hawwa - Ballerup,Enhedslisten - De Rød-Grønne,9
+Ballerup,8,Måløv Ny Hal,Ø_Louise_Mathiasen_-_Østerhøj,Louise Mathiasen - Østerhøj,Enhedslisten - De Rød-Grønne,10
+Ballerup,8,Måløv Ny Hal,Ø_Muhammad_Ali_Abbasi_-_Ballerup,Muhammad Ali Abbasi - Ballerup,Enhedslisten - De Rød-Grønne,7
+Ballerup,9,Egebjerghallen,A_Listestemmer,Listestemmer,Socialdemokratiet,248
+Ballerup,9,Egebjerghallen,A_Jesper_Würtzen_-_Skovlunde,Jesper Würtzen - Skovlunde,Socialdemokratiet,280
+Ballerup,9,Egebjerghallen,A_Maria_Lundahl_Assov_-_Ballerup,Maria Lundahl Assov - Ballerup,Socialdemokratiet,30
+Ballerup,9,Egebjerghallen,A_Peter_Als_-_Skovlunde,Peter Als - Skovlunde,Socialdemokratiet,74
+Ballerup,9,Egebjerghallen,A_Charlotte_Holtermann_-_Egebjerg,Charlotte Holtermann - Egebjerg,Socialdemokratiet,212
+Ballerup,9,Egebjerghallen,A_Johan_Müller_-_Ballerup,Johan Müller - Ballerup,Socialdemokratiet,56
+Ballerup,9,Egebjerghallen,A_Hella_Tiedemann_-_Ballerup,Hella Tiedemann - Ballerup,Socialdemokratiet,21
+Ballerup,9,Egebjerghallen,A_Per_Mortensen_-_Måløv,Per Mortensen - Måløv,Socialdemokratiet,7
+Ballerup,9,Egebjerghallen,A_Anja_Holtze_-_Skovlunde,Anja Holtze - Skovlunde,Socialdemokratiet,5
+Ballerup,9,Egebjerghallen,A_Dennis_Sørensen_-_Ballerup,Dennis Sørensen - Ballerup,Socialdemokratiet,5
+Ballerup,9,Egebjerghallen,A_Lolan_Ottesen_-_Ballerup,Lolan Ottesen - Ballerup,Socialdemokratiet,26
+Ballerup,9,Egebjerghallen,A_Musa_Kekec_-_Ballerup,Musa Kekec - Ballerup,Socialdemokratiet,9
+Ballerup,9,Egebjerghallen,A_Sandra_Marsenic_-_Egebjerg,Sandra Marsenic - Egebjerg,Socialdemokratiet,42
+Ballerup,9,Egebjerghallen,A_Erling_Andersen_-_Måløv,Erling Andersen - Måløv,Socialdemokratiet,4
+Ballerup,9,Egebjerghallen,A_Laila_Busted_-_Ballerup,Laila Busted - Ballerup,Socialdemokratiet,11
+Ballerup,9,Egebjerghallen,A_Morten_Andersson_-_Egebjerg,Morten Andersson - Egebjerg,Socialdemokratiet,81
+Ballerup,9,Egebjerghallen,A_Nicolas_Almann_Olsen_-_Ballerup,Nicolas Almann Olsen - Ballerup,Socialdemokratiet,9
+Ballerup,9,Egebjerghallen,A_Özcan_Kizilkaya_-_Måløv,Özcan Kizilkaya - Måløv,Socialdemokratiet,0
+Ballerup,9,Egebjerghallen,A_Michael_Brønd_-_Ballerup,Michael Brønd - Ballerup,Socialdemokratiet,1
+Ballerup,9,Egebjerghallen,A_Martin_Høyer_Rasmussen_-_Ballerup,Martin Høyer Rasmussen - Ballerup,Socialdemokratiet,0
+Ballerup,9,Egebjerghallen,A_Mikkel_Zacho_Justesen_-_Ballerup,Mikkel Zacho Justesen - Ballerup,Socialdemokratiet,11
+Ballerup,9,Egebjerghallen,A_Zoran_Rajovic_-_Ballerup,Zoran Rajovic - Ballerup,Socialdemokratiet,10
+Ballerup,9,Egebjerghallen,B_Listestemmer,Listestemmer,Radikale Venstre,46
+Ballerup,9,Egebjerghallen,B_Lars_Green_Bach,Lars Green Bach,Radikale Venstre,21
+Ballerup,9,Egebjerghallen,B_Mustafa_Deveci,Mustafa Deveci,Radikale Venstre,2
+Ballerup,9,Egebjerghallen,B_Sanne_Fandrup,Sanne Fandrup,Radikale Venstre,15
+Ballerup,9,Egebjerghallen,B_Annette_Randløv,Annette Randløv,Radikale Venstre,18
+Ballerup,9,Egebjerghallen,B_Katrine_Bugge,Katrine Bugge,Radikale Venstre,13
+Ballerup,9,Egebjerghallen,B_Asger_Jensen,Asger Jensen,Radikale Venstre,3
+Ballerup,9,Egebjerghallen,B_Jørgen_Bragge,Jørgen Bragge,Radikale Venstre,6
+Ballerup,9,Egebjerghallen,B_Christell_Erichsen,Christell Erichsen,Radikale Venstre,12
+Ballerup,9,Egebjerghallen,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,183
+Ballerup,9,Egebjerghallen,C_Allan_Kristensen_-_Ballerup,Allan Kristensen - Ballerup,Det Konservative Folkeparti,69
+Ballerup,9,Egebjerghallen,C_Karsten_Kriegel_-_Måløv,Karsten Kriegel - Måløv,Det Konservative Folkeparti,36
+Ballerup,9,Egebjerghallen,C_Kristijan_Vukicevic_-_Ballerup,Kristijan Vukicevic - Ballerup,Det Konservative Folkeparti,7
+Ballerup,9,Egebjerghallen,C_Kate_Svarrer_-_Ballerup,Kate Svarrer - Ballerup,Det Konservative Folkeparti,44
+Ballerup,9,Egebjerghallen,C_Morten_Løgager_-_Ballerup,Morten Løgager - Ballerup,Det Konservative Folkeparti,19
+Ballerup,9,Egebjerghallen,C_Lis_Folke_Christensen_-_Egebjerg,Lis Folke Christensen - Egebjerg,Det Konservative Folkeparti,44
+Ballerup,9,Egebjerghallen,C_Frederik_Forland_-_Måløv,Frederik Forland - Måløv,Det Konservative Folkeparti,4
+Ballerup,9,Egebjerghallen,C_Kasper_Schlander_-_Måløv,Kasper Schlander - Måløv,Det Konservative Folkeparti,10
+Ballerup,9,Egebjerghallen,D_Listestemmer,Listestemmer,Nye Borgerlige,43
+Ballerup,9,Egebjerghallen,D_Andre_Amingsø,Andre Amingsø,Nye Borgerlige,6
+Ballerup,9,Egebjerghallen,D_Kristian_Bach,Kristian Bach,Nye Borgerlige,7
+Ballerup,9,Egebjerghallen,D_Brian_Ølholm,Brian Ølholm,Nye Borgerlige,18
+Ballerup,9,Egebjerghallen,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,71
+Ballerup,9,Egebjerghallen,F_Simon_Knudstrup,Simon Knudstrup,SF - Socialistisk Folkeparti,98
+Ballerup,9,Egebjerghallen,F_Taner_Genc,Taner Genc,SF - Socialistisk Folkeparti,50
+Ballerup,9,Egebjerghallen,F_Gitte_Boffy_Lillelund,Gitte Boffy Lillelund,SF - Socialistisk Folkeparti,14
+Ballerup,9,Egebjerghallen,F_Ulrik_Falk-Sørensen,Ulrik Falk-Sørensen,SF - Socialistisk Folkeparti,7
+Ballerup,9,Egebjerghallen,F_Birte_Kramhøft,Birte Kramhøft,SF - Socialistisk Folkeparti,7
+Ballerup,9,Egebjerghallen,F_Niels_Overgaard,Niels Overgaard,SF - Socialistisk Folkeparti,5
+Ballerup,9,Egebjerghallen,F_Thorkild_Krejberg,Thorkild Krejberg,SF - Socialistisk Folkeparti,0
+Ballerup,9,Egebjerghallen,F_Tim_Larsen,Tim Larsen,SF - Socialistisk Folkeparti,0
+Ballerup,9,Egebjerghallen,F_Jørn_Nielsen,Jørn Nielsen,SF - Socialistisk Folkeparti,0
+Ballerup,9,Egebjerghallen,F_Rune_Frøding,Rune Frøding,SF - Socialistisk Folkeparti,3
+Ballerup,9,Egebjerghallen,F_Peter_Andersen,Peter Andersen,SF - Socialistisk Folkeparti,0
+Ballerup,9,Egebjerghallen,G_Listestemmer,Listestemmer,Veganerpartiet,6
+Ballerup,9,Egebjerghallen,G_Frida_Freiesleben,Frida Freiesleben,Veganerpartiet,30
+Ballerup,9,Egebjerghallen,I_Listestemmer,Listestemmer,Liberal Alliance,15
+Ballerup,9,Egebjerghallen,I_Mikkel_Kruse_-_Skovlunde,Mikkel Kruse - Skovlunde,Liberal Alliance,5
+Ballerup,9,Egebjerghallen,I_Claus_Damkjær_-_Ballerup,Claus Damkjær - Ballerup,Liberal Alliance,5
+Ballerup,9,Egebjerghallen,I_Oscar_Gade-Frimann_-_Måløv,Oscar Gade-Frimann - Måløv,Liberal Alliance,1
+Ballerup,9,Egebjerghallen,L_Listestemmer,Listestemmer,Serhat Kücükkart,2
+Ballerup,9,Egebjerghallen,L_Serhat_Kücükkart,Serhat Kücükkart,Serhat Kücükkart,9
+Ballerup,9,Egebjerghallen,O_Listestemmer,Listestemmer,Dansk Folkeparti,28
+Ballerup,9,Egebjerghallen,O_Michael_Jensen,Michael Jensen,Dansk Folkeparti,24
+Ballerup,9,Egebjerghallen,O_Jette_Meinertz,Jette Meinertz,Dansk Folkeparti,11
+Ballerup,9,Egebjerghallen,O_Kasper_Sørmer-Sørensen,Kasper Sørmer-Sørensen,Dansk Folkeparti,2
+Ballerup,9,Egebjerghallen,O_Rune_K._Wegge,Rune K. Wegge,Dansk Folkeparti,0
+Ballerup,9,Egebjerghallen,O_Birthe_Møller_Jonsson,Birthe Møller Jonsson,Dansk Folkeparti,0
+Ballerup,9,Egebjerghallen,O_Allan_Petersen,Allan Petersen,Dansk Folkeparti,2
+Ballerup,9,Egebjerghallen,P_Listestemmer,Listestemmer,Partiet Ballerup Listen,4
+Ballerup,9,Egebjerghallen,P_Michael_Olsen,Michael Olsen,Partiet Ballerup Listen,5
+Ballerup,9,Egebjerghallen,P_Line_Fielsøe_Petersen,Line Fielsøe Petersen,Partiet Ballerup Listen,1
+Ballerup,9,Egebjerghallen,P_Christine_Andersen,Christine Andersen,Partiet Ballerup Listen,0
+Ballerup,9,Egebjerghallen,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",107
+Ballerup,9,Egebjerghallen,V_Mikael_Wandel,Mikael Wandel,"Venstre, Danmarks Liberale Parti",39
+Ballerup,9,Egebjerghallen,V_Jacob_Wøhler_Jørgensen,Jacob Wøhler Jørgensen,"Venstre, Danmarks Liberale Parti",41
+Ballerup,9,Egebjerghallen,V_Dorthe_Rigét,Dorthe Rigét,"Venstre, Danmarks Liberale Parti",25
+Ballerup,9,Egebjerghallen,V_Christian_Skjæran,Christian Skjæran,"Venstre, Danmarks Liberale Parti",24
+Ballerup,9,Egebjerghallen,V_Sussie_Wandel,Sussie Wandel,"Venstre, Danmarks Liberale Parti",18
+Ballerup,9,Egebjerghallen,V_Zishan_Ali,Zishan Ali,"Venstre, Danmarks Liberale Parti",1
+Ballerup,9,Egebjerghallen,V_Bettina_Prühs,Bettina Prühs,"Venstre, Danmarks Liberale Parti",3
+Ballerup,9,Egebjerghallen,V_Nina_Skaarup,Nina Skaarup,"Venstre, Danmarks Liberale Parti",5
+Ballerup,9,Egebjerghallen,V_Henrik_Vejgaard,Henrik Vejgaard,"Venstre, Danmarks Liberale Parti",0
+Ballerup,9,Egebjerghallen,V_Marie_Kielberg-Bæk,Marie Kielberg-Bæk,"Venstre, Danmarks Liberale Parti",2
+Ballerup,9,Egebjerghallen,V_Bente_Bjørklund,Bente Bjørklund,"Venstre, Danmarks Liberale Parti",0
+Ballerup,9,Egebjerghallen,Æ_Listestemmer,Listestemmer,Frihedslisten,2
+Ballerup,9,Egebjerghallen,Æ_Ulrik_Eibye,Ulrik Eibye,Frihedslisten,6
+Ballerup,9,Egebjerghallen,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,61
+Ballerup,9,Egebjerghallen,Ø_Stine_Rahbek_Pedersen_-_Måløv,Stine Rahbek Pedersen - Måløv,Enhedslisten - De Rød-Grønne,79
+Ballerup,9,Egebjerghallen,Ø_Saime_B._Inanc_-_Skovlunde,Saime B. Inanc - Skovlunde,Enhedslisten - De Rød-Grønne,3
+Ballerup,9,Egebjerghallen,Ø_Miasser_Hawwa_-_Ballerup,Miasser Hawwa - Ballerup,Enhedslisten - De Rød-Grønne,17
+Ballerup,9,Egebjerghallen,Ø_Louise_Mathiasen_-_Østerhøj,Louise Mathiasen - Østerhøj,Enhedslisten - De Rød-Grønne,9
+Ballerup,9,Egebjerghallen,Ø_Muhammad_Ali_Abbasi_-_Ballerup,Muhammad Ali Abbasi - Ballerup,Enhedslisten - De Rød-Grønne,3
+Ballerup,10,Østerhøjhallen,A_Listestemmer,Listestemmer,Socialdemokratiet,194
+Ballerup,10,Østerhøjhallen,A_Jesper_Würtzen_-_Skovlunde,Jesper Würtzen - Skovlunde,Socialdemokratiet,272
+Ballerup,10,Østerhøjhallen,A_Maria_Lundahl_Assov_-_Ballerup,Maria Lundahl Assov - Ballerup,Socialdemokratiet,30
+Ballerup,10,Østerhøjhallen,A_Peter_Als_-_Skovlunde,Peter Als - Skovlunde,Socialdemokratiet,9
+Ballerup,10,Østerhøjhallen,A_Charlotte_Holtermann_-_Egebjerg,Charlotte Holtermann - Egebjerg,Socialdemokratiet,13
+Ballerup,10,Østerhøjhallen,A_Johan_Müller_-_Ballerup,Johan Müller - Ballerup,Socialdemokratiet,48
+Ballerup,10,Østerhøjhallen,A_Hella_Tiedemann_-_Ballerup,Hella Tiedemann - Ballerup,Socialdemokratiet,45
+Ballerup,10,Østerhøjhallen,A_Per_Mortensen_-_Måløv,Per Mortensen - Måløv,Socialdemokratiet,10
+Ballerup,10,Østerhøjhallen,A_Anja_Holtze_-_Skovlunde,Anja Holtze - Skovlunde,Socialdemokratiet,9
+Ballerup,10,Østerhøjhallen,A_Dennis_Sørensen_-_Ballerup,Dennis Sørensen - Ballerup,Socialdemokratiet,2
+Ballerup,10,Østerhøjhallen,A_Lolan_Ottesen_-_Ballerup,Lolan Ottesen - Ballerup,Socialdemokratiet,21
+Ballerup,10,Østerhøjhallen,A_Musa_Kekec_-_Ballerup,Musa Kekec - Ballerup,Socialdemokratiet,12
+Ballerup,10,Østerhøjhallen,A_Sandra_Marsenic_-_Egebjerg,Sandra Marsenic - Egebjerg,Socialdemokratiet,17
+Ballerup,10,Østerhøjhallen,A_Erling_Andersen_-_Måløv,Erling Andersen - Måløv,Socialdemokratiet,9
+Ballerup,10,Østerhøjhallen,A_Laila_Busted_-_Ballerup,Laila Busted - Ballerup,Socialdemokratiet,4
+Ballerup,10,Østerhøjhallen,A_Morten_Andersson_-_Egebjerg,Morten Andersson - Egebjerg,Socialdemokratiet,5
+Ballerup,10,Østerhøjhallen,A_Nicolas_Almann_Olsen_-_Ballerup,Nicolas Almann Olsen - Ballerup,Socialdemokratiet,6
+Ballerup,10,Østerhøjhallen,A_Özcan_Kizilkaya_-_Måløv,Özcan Kizilkaya - Måløv,Socialdemokratiet,4
+Ballerup,10,Østerhøjhallen,A_Michael_Brønd_-_Ballerup,Michael Brønd - Ballerup,Socialdemokratiet,2
+Ballerup,10,Østerhøjhallen,A_Martin_Høyer_Rasmussen_-_Ballerup,Martin Høyer Rasmussen - Ballerup,Socialdemokratiet,24
+Ballerup,10,Østerhøjhallen,A_Mikkel_Zacho_Justesen_-_Ballerup,Mikkel Zacho Justesen - Ballerup,Socialdemokratiet,9
+Ballerup,10,Østerhøjhallen,A_Zoran_Rajovic_-_Ballerup,Zoran Rajovic - Ballerup,Socialdemokratiet,8
+Ballerup,10,Østerhøjhallen,B_Listestemmer,Listestemmer,Radikale Venstre,30
+Ballerup,10,Østerhøjhallen,B_Lars_Green_Bach,Lars Green Bach,Radikale Venstre,23
+Ballerup,10,Østerhøjhallen,B_Mustafa_Deveci,Mustafa Deveci,Radikale Venstre,2
+Ballerup,10,Østerhøjhallen,B_Sanne_Fandrup,Sanne Fandrup,Radikale Venstre,7
+Ballerup,10,Østerhøjhallen,B_Annette_Randløv,Annette Randløv,Radikale Venstre,16
+Ballerup,10,Østerhøjhallen,B_Katrine_Bugge,Katrine Bugge,Radikale Venstre,7
+Ballerup,10,Østerhøjhallen,B_Asger_Jensen,Asger Jensen,Radikale Venstre,7
+Ballerup,10,Østerhøjhallen,B_Jørgen_Bragge,Jørgen Bragge,Radikale Venstre,0
+Ballerup,10,Østerhøjhallen,B_Christell_Erichsen,Christell Erichsen,Radikale Venstre,1
+Ballerup,10,Østerhøjhallen,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,122
+Ballerup,10,Østerhøjhallen,C_Allan_Kristensen_-_Ballerup,Allan Kristensen - Ballerup,Det Konservative Folkeparti,27
+Ballerup,10,Østerhøjhallen,C_Karsten_Kriegel_-_Måløv,Karsten Kriegel - Måløv,Det Konservative Folkeparti,34
+Ballerup,10,Østerhøjhallen,C_Kristijan_Vukicevic_-_Ballerup,Kristijan Vukicevic - Ballerup,Det Konservative Folkeparti,5
+Ballerup,10,Østerhøjhallen,C_Kate_Svarrer_-_Ballerup,Kate Svarrer - Ballerup,Det Konservative Folkeparti,40
+Ballerup,10,Østerhøjhallen,C_Morten_Løgager_-_Ballerup,Morten Løgager - Ballerup,Det Konservative Folkeparti,10
+Ballerup,10,Østerhøjhallen,C_Lis_Folke_Christensen_-_Egebjerg,Lis Folke Christensen - Egebjerg,Det Konservative Folkeparti,3
+Ballerup,10,Østerhøjhallen,C_Frederik_Forland_-_Måløv,Frederik Forland - Måløv,Det Konservative Folkeparti,7
+Ballerup,10,Østerhøjhallen,C_Kasper_Schlander_-_Måløv,Kasper Schlander - Måløv,Det Konservative Folkeparti,16
+Ballerup,10,Østerhøjhallen,D_Listestemmer,Listestemmer,Nye Borgerlige,13
+Ballerup,10,Østerhøjhallen,D_Andre_Amingsø,Andre Amingsø,Nye Borgerlige,7
+Ballerup,10,Østerhøjhallen,D_Kristian_Bach,Kristian Bach,Nye Borgerlige,8
+Ballerup,10,Østerhøjhallen,D_Brian_Ølholm,Brian Ølholm,Nye Borgerlige,7
+Ballerup,10,Østerhøjhallen,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,52
+Ballerup,10,Østerhøjhallen,F_Simon_Knudstrup,Simon Knudstrup,SF - Socialistisk Folkeparti,26
+Ballerup,10,Østerhøjhallen,F_Taner_Genc,Taner Genc,SF - Socialistisk Folkeparti,16
+Ballerup,10,Østerhøjhallen,F_Gitte_Boffy_Lillelund,Gitte Boffy Lillelund,SF - Socialistisk Folkeparti,19
+Ballerup,10,Østerhøjhallen,F_Ulrik_Falk-Sørensen,Ulrik Falk-Sørensen,SF - Socialistisk Folkeparti,5
+Ballerup,10,Østerhøjhallen,F_Birte_Kramhøft,Birte Kramhøft,SF - Socialistisk Folkeparti,1
+Ballerup,10,Østerhøjhallen,F_Niels_Overgaard,Niels Overgaard,SF - Socialistisk Folkeparti,1
+Ballerup,10,Østerhøjhallen,F_Thorkild_Krejberg,Thorkild Krejberg,SF - Socialistisk Folkeparti,1
+Ballerup,10,Østerhøjhallen,F_Tim_Larsen,Tim Larsen,SF - Socialistisk Folkeparti,0
+Ballerup,10,Østerhøjhallen,F_Jørn_Nielsen,Jørn Nielsen,SF - Socialistisk Folkeparti,0
+Ballerup,10,Østerhøjhallen,F_Rune_Frøding,Rune Frøding,SF - Socialistisk Folkeparti,0
+Ballerup,10,Østerhøjhallen,F_Peter_Andersen,Peter Andersen,SF - Socialistisk Folkeparti,2
+Ballerup,10,Østerhøjhallen,G_Listestemmer,Listestemmer,Veganerpartiet,4
+Ballerup,10,Østerhøjhallen,G_Frida_Freiesleben,Frida Freiesleben,Veganerpartiet,15
+Ballerup,10,Østerhøjhallen,I_Listestemmer,Listestemmer,Liberal Alliance,4
+Ballerup,10,Østerhøjhallen,I_Mikkel_Kruse_-_Skovlunde,Mikkel Kruse - Skovlunde,Liberal Alliance,2
+Ballerup,10,Østerhøjhallen,I_Claus_Damkjær_-_Ballerup,Claus Damkjær - Ballerup,Liberal Alliance,1
+Ballerup,10,Østerhøjhallen,I_Oscar_Gade-Frimann_-_Måløv,Oscar Gade-Frimann - Måløv,Liberal Alliance,2
+Ballerup,10,Østerhøjhallen,L_Listestemmer,Listestemmer,Serhat Kücükkart,1
+Ballerup,10,Østerhøjhallen,L_Serhat_Kücükkart,Serhat Kücükkart,Serhat Kücükkart,6
+Ballerup,10,Østerhøjhallen,O_Listestemmer,Listestemmer,Dansk Folkeparti,15
+Ballerup,10,Østerhøjhallen,O_Michael_Jensen,Michael Jensen,Dansk Folkeparti,23
+Ballerup,10,Østerhøjhallen,O_Jette_Meinertz,Jette Meinertz,Dansk Folkeparti,13
+Ballerup,10,Østerhøjhallen,O_Kasper_Sørmer-Sørensen,Kasper Sørmer-Sørensen,Dansk Folkeparti,3
+Ballerup,10,Østerhøjhallen,O_Rune_K._Wegge,Rune K. Wegge,Dansk Folkeparti,3
+Ballerup,10,Østerhøjhallen,O_Birthe_Møller_Jonsson,Birthe Møller Jonsson,Dansk Folkeparti,3
+Ballerup,10,Østerhøjhallen,O_Allan_Petersen,Allan Petersen,Dansk Folkeparti,1
+Ballerup,10,Østerhøjhallen,P_Listestemmer,Listestemmer,Partiet Ballerup Listen,2
+Ballerup,10,Østerhøjhallen,P_Michael_Olsen,Michael Olsen,Partiet Ballerup Listen,2
+Ballerup,10,Østerhøjhallen,P_Line_Fielsøe_Petersen,Line Fielsøe Petersen,Partiet Ballerup Listen,0
+Ballerup,10,Østerhøjhallen,P_Christine_Andersen,Christine Andersen,Partiet Ballerup Listen,0
+Ballerup,10,Østerhøjhallen,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",53
+Ballerup,10,Østerhøjhallen,V_Mikael_Wandel,Mikael Wandel,"Venstre, Danmarks Liberale Parti",12
+Ballerup,10,Østerhøjhallen,V_Jacob_Wøhler_Jørgensen,Jacob Wøhler Jørgensen,"Venstre, Danmarks Liberale Parti",16
+Ballerup,10,Østerhøjhallen,V_Dorthe_Rigét,Dorthe Rigét,"Venstre, Danmarks Liberale Parti",13
+Ballerup,10,Østerhøjhallen,V_Christian_Skjæran,Christian Skjæran,"Venstre, Danmarks Liberale Parti",2
+Ballerup,10,Østerhøjhallen,V_Sussie_Wandel,Sussie Wandel,"Venstre, Danmarks Liberale Parti",10
+Ballerup,10,Østerhøjhallen,V_Zishan_Ali,Zishan Ali,"Venstre, Danmarks Liberale Parti",3
+Ballerup,10,Østerhøjhallen,V_Bettina_Prühs,Bettina Prühs,"Venstre, Danmarks Liberale Parti",1
+Ballerup,10,Østerhøjhallen,V_Nina_Skaarup,Nina Skaarup,"Venstre, Danmarks Liberale Parti",2
+Ballerup,10,Østerhøjhallen,V_Henrik_Vejgaard,Henrik Vejgaard,"Venstre, Danmarks Liberale Parti",0
+Ballerup,10,Østerhøjhallen,V_Marie_Kielberg-Bæk,Marie Kielberg-Bæk,"Venstre, Danmarks Liberale Parti",1
+Ballerup,10,Østerhøjhallen,V_Bente_Bjørklund,Bente Bjørklund,"Venstre, Danmarks Liberale Parti",0
+Ballerup,10,Østerhøjhallen,Æ_Listestemmer,Listestemmer,Frihedslisten,1
+Ballerup,10,Østerhøjhallen,Æ_Ulrik_Eibye,Ulrik Eibye,Frihedslisten,3
+Ballerup,10,Østerhøjhallen,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,60
+Ballerup,10,Østerhøjhallen,Ø_Stine_Rahbek_Pedersen_-_Måløv,Stine Rahbek Pedersen - Måløv,Enhedslisten - De Rød-Grønne,154
+Ballerup,10,Østerhøjhallen,Ø_Saime_B._Inanc_-_Skovlunde,Saime B. Inanc - Skovlunde,Enhedslisten - De Rød-Grønne,5
+Ballerup,10,Østerhøjhallen,Ø_Miasser_Hawwa_-_Ballerup,Miasser Hawwa - Ballerup,Enhedslisten - De Rød-Grønne,8
+Ballerup,10,Østerhøjhallen,Ø_Louise_Mathiasen_-_Østerhøj,Louise Mathiasen - Østerhøj,Enhedslisten - De Rød-Grønne,14
+Ballerup,10,Østerhøjhallen,Ø_Muhammad_Ali_Abbasi_-_Ballerup,Muhammad Ali Abbasi - Ballerup,Enhedslisten - De Rød-Grønne,2

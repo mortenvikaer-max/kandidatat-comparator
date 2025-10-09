@@ -1,0 +1,93 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Fanø,1,Nordby,A_Listestemmer,Listestemmer,Socialdemokratiet,48
+Fanø,1,Nordby,A_Johan_Brink_Jensen,Johan Brink Jensen,Socialdemokratiet,72
+Fanø,1,Nordby,A_Jørgen_Dalsgaard,Jørgen Dalsgaard,Socialdemokratiet,17
+Fanø,1,Nordby,A_Kim_Fischer,Kim Fischer,Socialdemokratiet,11
+Fanø,1,Nordby,B_Listestemmer,Listestemmer,Radikale Venstre,60
+Fanø,1,Nordby,B_Frank_Jensen,Frank Jensen,Radikale Venstre,364
+Fanø,1,Nordby,B_Olav_Nielsen,Olav Nielsen,Radikale Venstre,57
+Fanø,1,Nordby,B_Melissa_Gilroy,Melissa Gilroy,Radikale Venstre,67
+Fanø,1,Nordby,B_Mille_Renée_Larsen,Mille Renée Larsen,Radikale Venstre,64
+Fanø,1,Nordby,B_Sofie_Exner,Sofie Exner,Radikale Venstre,10
+Fanø,1,Nordby,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,42
+Fanø,1,Nordby,C_Christian_Lorenzen,Christian Lorenzen,Det Konservative Folkeparti,223
+Fanø,1,Nordby,C_Anja_Parbst_Høst,Anja Parbst Høst,Det Konservative Folkeparti,16
+Fanø,1,Nordby,C_Niels_Fischer-Nielsen,Niels Fischer-Nielsen,Det Konservative Folkeparti,59
+Fanø,1,Nordby,C_Tina_Haldan_Gotthardsen,Tina Haldan Gotthardsen,Det Konservative Folkeparti,25
+Fanø,1,Nordby,C_Tobias_Tornel,Tobias Tornel,Det Konservative Folkeparti,17
+Fanø,1,Nordby,C_Kurt_Kirkegaard,Kurt Kirkegaard,Det Konservative Folkeparti,17
+Fanø,1,Nordby,C_Kenneth_Lindenhoff,Kenneth Lindenhoff,Det Konservative Folkeparti,21
+Fanø,1,Nordby,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,19
+Fanø,1,Nordby,F_Karen_Jeppesen,Karen Jeppesen,SF - Socialistisk Folkeparti,74
+Fanø,1,Nordby,F_Stina_Thøgersen,Stina Thøgersen,SF - Socialistisk Folkeparti,10
+Fanø,1,Nordby,F_Erik_Stoye,Erik Stoye,SF - Socialistisk Folkeparti,11
+Fanø,1,Nordby,F_Niels_Christian_Nielsen,Niels Christian Nielsen,SF - Socialistisk Folkeparti,18
+Fanø,1,Nordby,L_Listestemmer,Listestemmer,Fanø Lokalliste,9
+Fanø,1,Nordby,L_Henning_Kjærgaard,Henning Kjærgaard,Fanø Lokalliste,50
+Fanø,1,Nordby,O_Listestemmer,Listestemmer,Dansk Folkeparti,7
+Fanø,1,Nordby,O_Willy_Morgenstern,Willy Morgenstern,Dansk Folkeparti,7
+Fanø,1,Nordby,O_John_Ditlev_Sørensen,John Ditlev Sørensen,Dansk Folkeparti,15
+Fanø,1,Nordby,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",27
+Fanø,1,Nordby,V_Erik_Nørreby,Erik Nørreby,"Venstre, Danmarks Liberale Parti",163
+Fanø,1,Nordby,V_Emil_Hoffmann_Madsen,Emil Hoffmann Madsen,"Venstre, Danmarks Liberale Parti",20
+Fanø,1,Nordby,V_Emil_Lodal_Malling,Emil Lodal Malling,"Venstre, Danmarks Liberale Parti",17
+Fanø,1,Nordby,V_Anders_Frey,Anders Frey,"Venstre, Danmarks Liberale Parti",93
+Fanø,1,Nordby,V_Lars_Christoffersen,Lars Christoffersen,"Venstre, Danmarks Liberale Parti",9
+Fanø,1,Nordby,V_Rikke_Iversen,Rikke Iversen,"Venstre, Danmarks Liberale Parti",16
+Fanø,1,Nordby,V_Dennis_Feldberg,Dennis Feldberg,"Venstre, Danmarks Liberale Parti",38
+Fanø,1,Nordby,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød - Grønne,63
+Fanø,1,Nordby,Ø_Lasse_Harder_Schousboe,Lasse Harder Schousboe,Enhedslisten - De Rød - Grønne,93
+Fanø,1,Nordby,Ø_Lisbet_Petersen,Lisbet Petersen,Enhedslisten - De Rød - Grønne,5
+Fanø,1,Nordby,Ø_Peter_Bøgsted_Knudsen,Peter Bøgsted Knudsen,Enhedslisten - De Rød - Grønne,3
+Fanø,1,Nordby,Ø_Mette_Nørby_Jensen,Mette Nørby Jensen,Enhedslisten - De Rød - Grønne,9
+Fanø,1,Nordby,Ø_Lars_Nielsen,Lars Nielsen,Enhedslisten - De Rød - Grønne,0
+Fanø,1,Nordby,Ø_Malene_D._Beck,Malene D. Beck,Enhedslisten - De Rød - Grønne,0
+Fanø,1,Nordby,Å_Listestemmer,Listestemmer,Alternativet,5
+Fanø,1,Nordby,Å_Benjamin_S._Andersen,Benjamin S. Andersen,Alternativet,55
+Fanø,1,Nordby,Å_Lene_Kaltwasser_Leonhardt,Lene Kaltwasser Leonhardt,Alternativet,10
+Fanø,2,Sønderho,A_Listestemmer,Listestemmer,Socialdemokratiet,2
+Fanø,2,Sønderho,A_Johan_Brink_Jensen,Johan Brink Jensen,Socialdemokratiet,33
+Fanø,2,Sønderho,A_Jørgen_Dalsgaard,Jørgen Dalsgaard,Socialdemokratiet,0
+Fanø,2,Sønderho,A_Kim_Fischer,Kim Fischer,Socialdemokratiet,7
+Fanø,2,Sønderho,B_Listestemmer,Listestemmer,Radikale Venstre,8
+Fanø,2,Sønderho,B_Frank_Jensen,Frank Jensen,Radikale Venstre,14
+Fanø,2,Sønderho,B_Olav_Nielsen,Olav Nielsen,Radikale Venstre,6
+Fanø,2,Sønderho,B_Melissa_Gilroy,Melissa Gilroy,Radikale Venstre,0
+Fanø,2,Sønderho,B_Mille_Renée_Larsen,Mille Renée Larsen,Radikale Venstre,1
+Fanø,2,Sønderho,B_Sofie_Exner,Sofie Exner,Radikale Venstre,15
+Fanø,2,Sønderho,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,4
+Fanø,2,Sønderho,C_Christian_Lorenzen,Christian Lorenzen,Det Konservative Folkeparti,15
+Fanø,2,Sønderho,C_Anja_Parbst_Høst,Anja Parbst Høst,Det Konservative Folkeparti,0
+Fanø,2,Sønderho,C_Niels_Fischer-Nielsen,Niels Fischer-Nielsen,Det Konservative Folkeparti,47
+Fanø,2,Sønderho,C_Tina_Haldan_Gotthardsen,Tina Haldan Gotthardsen,Det Konservative Folkeparti,0
+Fanø,2,Sønderho,C_Tobias_Tornel,Tobias Tornel,Det Konservative Folkeparti,0
+Fanø,2,Sønderho,C_Kurt_Kirkegaard,Kurt Kirkegaard,Det Konservative Folkeparti,10
+Fanø,2,Sønderho,C_Kenneth_Lindenhoff,Kenneth Lindenhoff,Det Konservative Folkeparti,0
+Fanø,2,Sønderho,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,4
+Fanø,2,Sønderho,F_Karen_Jeppesen,Karen Jeppesen,SF - Socialistisk Folkeparti,0
+Fanø,2,Sønderho,F_Stina_Thøgersen,Stina Thøgersen,SF - Socialistisk Folkeparti,12
+Fanø,2,Sønderho,F_Erik_Stoye,Erik Stoye,SF - Socialistisk Folkeparti,0
+Fanø,2,Sønderho,F_Niels_Christian_Nielsen,Niels Christian Nielsen,SF - Socialistisk Folkeparti,0
+Fanø,2,Sønderho,L_Listestemmer,Listestemmer,Fanø Lokalliste,0
+Fanø,2,Sønderho,L_Henning_Kjærgaard,Henning Kjærgaard,Fanø Lokalliste,2
+Fanø,2,Sønderho,O_Listestemmer,Listestemmer,Dansk Folkeparti,0
+Fanø,2,Sønderho,O_Willy_Morgenstern,Willy Morgenstern,Dansk Folkeparti,3
+Fanø,2,Sønderho,O_John_Ditlev_Sørensen,John Ditlev Sørensen,Dansk Folkeparti,0
+Fanø,2,Sønderho,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",0
+Fanø,2,Sønderho,V_Erik_Nørreby,Erik Nørreby,"Venstre, Danmarks Liberale Parti",5
+Fanø,2,Sønderho,V_Emil_Hoffmann_Madsen,Emil Hoffmann Madsen,"Venstre, Danmarks Liberale Parti",4
+Fanø,2,Sønderho,V_Emil_Lodal_Malling,Emil Lodal Malling,"Venstre, Danmarks Liberale Parti",32
+Fanø,2,Sønderho,V_Anders_Frey,Anders Frey,"Venstre, Danmarks Liberale Parti",0
+Fanø,2,Sønderho,V_Lars_Christoffersen,Lars Christoffersen,"Venstre, Danmarks Liberale Parti",1
+Fanø,2,Sønderho,V_Rikke_Iversen,Rikke Iversen,"Venstre, Danmarks Liberale Parti",0
+Fanø,2,Sønderho,V_Dennis_Feldberg,Dennis Feldberg,"Venstre, Danmarks Liberale Parti",3
+Fanø,2,Sønderho,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød - Grønne,6
+Fanø,2,Sønderho,Ø_Lasse_Harder_Schousboe,Lasse Harder Schousboe,Enhedslisten - De Rød - Grønne,11
+Fanø,2,Sønderho,Ø_Lisbet_Petersen,Lisbet Petersen,Enhedslisten - De Rød - Grønne,0
+Fanø,2,Sønderho,Ø_Peter_Bøgsted_Knudsen,Peter Bøgsted Knudsen,Enhedslisten - De Rød - Grønne,0
+Fanø,2,Sønderho,Ø_Mette_Nørby_Jensen,Mette Nørby Jensen,Enhedslisten - De Rød - Grønne,0
+Fanø,2,Sønderho,Ø_Lars_Nielsen,Lars Nielsen,Enhedslisten - De Rød - Grønne,3
+Fanø,2,Sønderho,Ø_Malene_D._Beck,Malene D. Beck,Enhedslisten - De Rød - Grønne,8
+Fanø,2,Sønderho,Å_Listestemmer,Listestemmer,Alternativet,4
+Fanø,2,Sønderho,Å_Benjamin_S._Andersen,Benjamin S. Andersen,Alternativet,5
+Fanø,2,Sønderho,Å_Lene_Kaltwasser_Leonhardt,Lene Kaltwasser Leonhardt,Alternativet,0

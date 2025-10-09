@@ -1,0 +1,809 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Fredericia,1,Gymnasiet,A_Listestemmer,Listestemmer,Socialdemokratiet,635
+Fredericia,1,Gymnasiet,A_Steen_Wrist,Steen Wrist,Socialdemokratiet,1015
+Fredericia,1,Gymnasiet,A_Søren_Larsen,Søren Larsen,Socialdemokratiet,65
+Fredericia,1,Gymnasiet,A_Christian_Bro,Christian Bro,Socialdemokratiet,92
+Fredericia,1,Gymnasiet,A_John_Nyborg,John Nyborg,Socialdemokratiet,104
+Fredericia,1,Gymnasiet,A_Turan_Savas,Turan Savas,Socialdemokratiet,135
+Fredericia,1,Gymnasiet,A_Ole_Steen_Hansen,Ole Steen Hansen,Socialdemokratiet,145
+Fredericia,1,Gymnasiet,A_Bente_Ankersen,Bente Ankersen,Socialdemokratiet,41
+Fredericia,1,Gymnasiet,A_Anette_Hyre-Jensen,Anette Hyre-Jensen,Socialdemokratiet,44
+Fredericia,1,Gymnasiet,A_David_Gulløv,David Gulløv,Socialdemokratiet,102
+Fredericia,1,Gymnasiet,A_Vibe_Dyhrberg,Vibe Dyhrberg,Socialdemokratiet,114
+Fredericia,1,Gymnasiet,A_Oliver_Overgaard_Jessen,Oliver Overgaard Jessen,Socialdemokratiet,34
+Fredericia,1,Gymnasiet,A_Helle_Bang_Andersen,Helle Bang Andersen,Socialdemokratiet,22
+Fredericia,1,Gymnasiet,A_Lise_Nielson,Lise Nielson,Socialdemokratiet,35
+Fredericia,1,Gymnasiet,A_Charlotte_Høgedal,Charlotte Høgedal,Socialdemokratiet,17
+Fredericia,1,Gymnasiet,A_Hanne_Imer_Pedersen,Hanne Imer Pedersen,Socialdemokratiet,40
+Fredericia,1,Gymnasiet,A_Lene_Skovmark_Elsborg,Lene Skovmark Elsborg,Socialdemokratiet,54
+Fredericia,1,Gymnasiet,A_Lars_Midtgaard,Lars Midtgaard,Socialdemokratiet,1
+Fredericia,1,Gymnasiet,A_Dan_Ravn_Larsen,Dan Ravn Larsen,Socialdemokratiet,19
+Fredericia,1,Gymnasiet,A_Dorthe_Fallesen_Frimann,Dorthe Fallesen Frimann,Socialdemokratiet,37
+Fredericia,1,Gymnasiet,A_Carsten_Høj,Carsten Høj,Socialdemokratiet,19
+Fredericia,1,Gymnasiet,A_David_Ramm,David Ramm,Socialdemokratiet,11
+Fredericia,1,Gymnasiet,A_Finn_Muhs,Finn Muhs,Socialdemokratiet,32
+Fredericia,1,Gymnasiet,B_Listestemmer,Listestemmer,Radikale Venstre,37
+Fredericia,1,Gymnasiet,B_Kirsten_Vad_Knudsen,Kirsten Vad Knudsen,Radikale Venstre,42
+Fredericia,1,Gymnasiet,B_Nanna_Nørholm,Nanna Nørholm,Radikale Venstre,32
+Fredericia,1,Gymnasiet,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,150
+Fredericia,1,Gymnasiet,C_Tommy_Rachlitz_Nielsen,Tommy Rachlitz Nielsen,Det Konservative Folkeparti,162
+Fredericia,1,Gymnasiet,C_Kirsten_Hassing_Nielsen,Kirsten Hassing Nielsen,Det Konservative Folkeparti,80
+Fredericia,1,Gymnasiet,C_Henriette_C._Jensen,Henriette C. Jensen,Det Konservative Folkeparti,34
+Fredericia,1,Gymnasiet,C_Poul_Sørensen,Poul Sørensen,Det Konservative Folkeparti,56
+Fredericia,1,Gymnasiet,C_Julian_Infante_Brahe_Jørgensen,Julian Infante Brahe Jørgensen,Det Konservative Folkeparti,17
+Fredericia,1,Gymnasiet,C_Leif_Carlsen,Leif Carlsen,Det Konservative Folkeparti,1
+Fredericia,1,Gymnasiet,C_Sebastian_Erlandsen,Sebastian Erlandsen,Det Konservative Folkeparti,11
+Fredericia,1,Gymnasiet,C_Søren_Bak,Søren Bak,Det Konservative Folkeparti,37
+Fredericia,1,Gymnasiet,D_Listestemmer,Listestemmer,Nye Borgerlige,105
+Fredericia,1,Gymnasiet,D_Karsten_Byrgesen,Karsten Byrgesen,Nye Borgerlige,274
+Fredericia,1,Gymnasiet,D_Bent_Troelsen,Bent Troelsen,Nye Borgerlige,16
+Fredericia,1,Gymnasiet,D_Johnny_Majgård,Johnny Majgård,Nye Borgerlige,6
+Fredericia,1,Gymnasiet,D_Torben_Sten_Nielsen,Torben Sten Nielsen,Nye Borgerlige,11
+Fredericia,1,Gymnasiet,D_Hanneann_Phillina_Noell_Pedersen,Hanneann Phillina Noell Pedersen,Nye Borgerlige,19
+Fredericia,1,Gymnasiet,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,132
+Fredericia,1,Gymnasiet,F_Connie_Maybrith_Jørgensen,Connie Maybrith Jørgensen,SF - Socialistisk Folkeparti,85
+Fredericia,1,Gymnasiet,F_Jonas_Straarup_Christensen,Jonas Straarup Christensen,SF - Socialistisk Folkeparti,44
+Fredericia,1,Gymnasiet,F_Lars_Olesen,Lars Olesen,SF - Socialistisk Folkeparti,15
+Fredericia,1,Gymnasiet,F_Bent_Bregendahl,Bent Bregendahl,SF - Socialistisk Folkeparti,8
+Fredericia,1,Gymnasiet,F_Malene_Søgaard-Andersen,Malene Søgaard-Andersen,SF - Socialistisk Folkeparti,28
+Fredericia,1,Gymnasiet,F_Henning_Troelsen,Henning Troelsen,SF - Socialistisk Folkeparti,8
+Fredericia,1,Gymnasiet,F_Amina_M._Jawed,Amina M. Jawed,SF - Socialistisk Folkeparti,5
+Fredericia,1,Gymnasiet,F_Birgitte_Moos_Laursen,Birgitte Moos Laursen,SF - Socialistisk Folkeparti,5
+Fredericia,1,Gymnasiet,F_Per_A._Moos_Laursen,Per A. Moos Laursen,SF - Socialistisk Folkeparti,5
+Fredericia,1,Gymnasiet,F_Leif_Jørgensen,Leif Jørgensen,SF - Socialistisk Folkeparti,1
+Fredericia,1,Gymnasiet,F_Bo_Bergstrøm,Bo Bergstrøm,SF - Socialistisk Folkeparti,7
+Fredericia,1,Gymnasiet,I_Listestemmer,Listestemmer,Liberal Alliance,14
+Fredericia,1,Gymnasiet,I_Poul_Rand,Poul Rand,Liberal Alliance,16
+Fredericia,1,Gymnasiet,I_Anders_Wienberg_Jensen,Anders Wienberg Jensen,Liberal Alliance,2
+Fredericia,1,Gymnasiet,K_Listestemmer,Listestemmer,Kristendemokraterne,12
+Fredericia,1,Gymnasiet,K_Henrik_Thermansen_Møller,Henrik Thermansen Møller,Kristendemokraterne,17
+Fredericia,1,Gymnasiet,O_Listestemmer,Listestemmer,Dansk Folkeparti,88
+Fredericia,1,Gymnasiet,O_Susanne_Eilersen,Susanne Eilersen,Dansk Folkeparti,255
+Fredericia,1,Gymnasiet,O_Lasse_Holmqvist,Lasse Holmqvist,Dansk Folkeparti,20
+Fredericia,1,Gymnasiet,O_Bente_Rasmussen,Bente Rasmussen,Dansk Folkeparti,12
+Fredericia,1,Gymnasiet,O_Inger_Nielsen,Inger Nielsen,Dansk Folkeparti,18
+Fredericia,1,Gymnasiet,O_Palle_Dahl,Palle Dahl,Dansk Folkeparti,48
+Fredericia,1,Gymnasiet,O_Charlotte_Møller-Madsen,Charlotte Møller-Madsen,Dansk Folkeparti,23
+Fredericia,1,Gymnasiet,P_Listestemmer,Listestemmer,Frie Danske,3
+Fredericia,1,Gymnasiet,P_Thor_Nielsen,Thor Nielsen,Frie Danske,1
+Fredericia,1,Gymnasiet,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",245
+Fredericia,1,Gymnasiet,V_Peder_Tind,Peder Tind,"Venstre, Danmarks Liberale Parti",416
+Fredericia,1,Gymnasiet,V_Pernelle_Jensen,Pernelle Jensen,"Venstre, Danmarks Liberale Parti",158
+Fredericia,1,Gymnasiet,V_Kenny_Bruun_Olsen,Kenny Bruun Olsen,"Venstre, Danmarks Liberale Parti",107
+Fredericia,1,Gymnasiet,V_Christian_Jørgensen,Christian Jørgensen,"Venstre, Danmarks Liberale Parti",38
+Fredericia,1,Gymnasiet,V_Niels_Martin_Vind,Niels Martin Vind,"Venstre, Danmarks Liberale Parti",123
+Fredericia,1,Gymnasiet,V_Louis_Lindholm,Louis Lindholm,"Venstre, Danmarks Liberale Parti",102
+Fredericia,1,Gymnasiet,V_Henrik_Eriksen,Henrik Eriksen,"Venstre, Danmarks Liberale Parti",40
+Fredericia,1,Gymnasiet,V_Søren_Schou,Søren Schou,"Venstre, Danmarks Liberale Parti",11
+Fredericia,1,Gymnasiet,V_Sebastian_Frifelt_Ordell,Sebastian Frifelt Ordell,"Venstre, Danmarks Liberale Parti",16
+Fredericia,1,Gymnasiet,V_Annette_Bach_Laursen,Annette Bach Laursen,"Venstre, Danmarks Liberale Parti",20
+Fredericia,1,Gymnasiet,V_John_Rasmussen,John Rasmussen,"Venstre, Danmarks Liberale Parti",22
+Fredericia,1,Gymnasiet,V_Søren_Seidelin,Søren Seidelin,"Venstre, Danmarks Liberale Parti",13
+Fredericia,1,Gymnasiet,V_Helene_Østergaard,Helene Østergaard,"Venstre, Danmarks Liberale Parti",8
+Fredericia,1,Gymnasiet,Y_Listestemmer,Listestemmer,Borgerligt Fællesskab,11
+Fredericia,1,Gymnasiet,Y_Kirstine_Holst,Kirstine Holst,Borgerligt Fællesskab,38
+Fredericia,1,Gymnasiet,Y_Søren_Grøn_Stampe,Søren Grøn Stampe,Borgerligt Fællesskab,29
+Fredericia,1,Gymnasiet,Y_Toke_Kieler,Toke Kieler,Borgerligt Fællesskab,2
+Fredericia,1,Gymnasiet,Æ_Listestemmer,Listestemmer,Frihedslisten,4
+Fredericia,1,Gymnasiet,Æ_Malene_Husted,Malene Husted,Frihedslisten,8
+Fredericia,1,Gymnasiet,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,161
+Fredericia,1,Gymnasiet,Ø_Cecilie_Roed_Schultz,Cecilie Roed Schultz,Enhedslisten - De Rød-Grønne,374
+Fredericia,1,Gymnasiet,Ø_Maria_Sloth,Maria Sloth,Enhedslisten - De Rød-Grønne,25
+Fredericia,1,Gymnasiet,Ø_Jan_Filbært,Jan Filbært,Enhedslisten - De Rød-Grønne,54
+Fredericia,1,Gymnasiet,Ø_Mikkel_Martin,Mikkel Martin,Enhedslisten - De Rød-Grønne,5
+Fredericia,1,Gymnasiet,Ø_Andreas_Bjerring_Tobiassen,Andreas Bjerring Tobiassen,Enhedslisten - De Rød-Grønne,18
+Fredericia,1,Gymnasiet,Ø_Henning_Hartmeyer,Henning Hartmeyer,Enhedslisten - De Rød-Grønne,3
+Fredericia,1,Gymnasiet,Ø_Marc_Hast_Knudsen,Marc Hast Knudsen,Enhedslisten - De Rød-Grønne,5
+Fredericia,1,Gymnasiet,Ø_Frantz_Edeling,Frantz Edeling,Enhedslisten - De Rød-Grønne,6
+Fredericia,1,Gymnasiet,Å_Listestemmer,Listestemmer,Alternativet,78
+Fredericia,1,Gymnasiet,Å_Martin_Runager,Martin Runager,Alternativet,35
+Fredericia,1,Gymnasiet,Å_Ecaterina_Pedersen,Ecaterina Pedersen,Alternativet,13
+Fredericia,1,Gymnasiet,Å_Kim_Arthur,Kim Arthur,Alternativet,6
+Fredericia,1,Gymnasiet,Å_Mads_Wiig_Ehmsen,Mads Wiig Ehmsen,Alternativet,4
+Fredericia,2,Bredstrup-Pjedsted,A_Listestemmer,Listestemmer,Socialdemokratiet,57
+Fredericia,2,Bredstrup-Pjedsted,A_Steen_Wrist,Steen Wrist,Socialdemokratiet,76
+Fredericia,2,Bredstrup-Pjedsted,A_Søren_Larsen,Søren Larsen,Socialdemokratiet,8
+Fredericia,2,Bredstrup-Pjedsted,A_Christian_Bro,Christian Bro,Socialdemokratiet,2
+Fredericia,2,Bredstrup-Pjedsted,A_John_Nyborg,John Nyborg,Socialdemokratiet,5
+Fredericia,2,Bredstrup-Pjedsted,A_Turan_Savas,Turan Savas,Socialdemokratiet,2
+Fredericia,2,Bredstrup-Pjedsted,A_Ole_Steen_Hansen,Ole Steen Hansen,Socialdemokratiet,17
+Fredericia,2,Bredstrup-Pjedsted,A_Bente_Ankersen,Bente Ankersen,Socialdemokratiet,4
+Fredericia,2,Bredstrup-Pjedsted,A_Anette_Hyre-Jensen,Anette Hyre-Jensen,Socialdemokratiet,1
+Fredericia,2,Bredstrup-Pjedsted,A_David_Gulløv,David Gulløv,Socialdemokratiet,10
+Fredericia,2,Bredstrup-Pjedsted,A_Vibe_Dyhrberg,Vibe Dyhrberg,Socialdemokratiet,7
+Fredericia,2,Bredstrup-Pjedsted,A_Oliver_Overgaard_Jessen,Oliver Overgaard Jessen,Socialdemokratiet,0
+Fredericia,2,Bredstrup-Pjedsted,A_Helle_Bang_Andersen,Helle Bang Andersen,Socialdemokratiet,2
+Fredericia,2,Bredstrup-Pjedsted,A_Lise_Nielson,Lise Nielson,Socialdemokratiet,2
+Fredericia,2,Bredstrup-Pjedsted,A_Charlotte_Høgedal,Charlotte Høgedal,Socialdemokratiet,24
+Fredericia,2,Bredstrup-Pjedsted,A_Hanne_Imer_Pedersen,Hanne Imer Pedersen,Socialdemokratiet,1
+Fredericia,2,Bredstrup-Pjedsted,A_Lene_Skovmark_Elsborg,Lene Skovmark Elsborg,Socialdemokratiet,0
+Fredericia,2,Bredstrup-Pjedsted,A_Lars_Midtgaard,Lars Midtgaard,Socialdemokratiet,0
+Fredericia,2,Bredstrup-Pjedsted,A_Dan_Ravn_Larsen,Dan Ravn Larsen,Socialdemokratiet,62
+Fredericia,2,Bredstrup-Pjedsted,A_Dorthe_Fallesen_Frimann,Dorthe Fallesen Frimann,Socialdemokratiet,8
+Fredericia,2,Bredstrup-Pjedsted,A_Carsten_Høj,Carsten Høj,Socialdemokratiet,1
+Fredericia,2,Bredstrup-Pjedsted,A_David_Ramm,David Ramm,Socialdemokratiet,0
+Fredericia,2,Bredstrup-Pjedsted,A_Finn_Muhs,Finn Muhs,Socialdemokratiet,1
+Fredericia,2,Bredstrup-Pjedsted,B_Listestemmer,Listestemmer,Radikale Venstre,1
+Fredericia,2,Bredstrup-Pjedsted,B_Kirsten_Vad_Knudsen,Kirsten Vad Knudsen,Radikale Venstre,2
+Fredericia,2,Bredstrup-Pjedsted,B_Nanna_Nørholm,Nanna Nørholm,Radikale Venstre,7
+Fredericia,2,Bredstrup-Pjedsted,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,22
+Fredericia,2,Bredstrup-Pjedsted,C_Tommy_Rachlitz_Nielsen,Tommy Rachlitz Nielsen,Det Konservative Folkeparti,15
+Fredericia,2,Bredstrup-Pjedsted,C_Kirsten_Hassing_Nielsen,Kirsten Hassing Nielsen,Det Konservative Folkeparti,7
+Fredericia,2,Bredstrup-Pjedsted,C_Henriette_C._Jensen,Henriette C. Jensen,Det Konservative Folkeparti,4
+Fredericia,2,Bredstrup-Pjedsted,C_Poul_Sørensen,Poul Sørensen,Det Konservative Folkeparti,12
+Fredericia,2,Bredstrup-Pjedsted,C_Julian_Infante_Brahe_Jørgensen,Julian Infante Brahe Jørgensen,Det Konservative Folkeparti,4
+Fredericia,2,Bredstrup-Pjedsted,C_Leif_Carlsen,Leif Carlsen,Det Konservative Folkeparti,0
+Fredericia,2,Bredstrup-Pjedsted,C_Sebastian_Erlandsen,Sebastian Erlandsen,Det Konservative Folkeparti,2
+Fredericia,2,Bredstrup-Pjedsted,C_Søren_Bak,Søren Bak,Det Konservative Folkeparti,9
+Fredericia,2,Bredstrup-Pjedsted,D_Listestemmer,Listestemmer,Nye Borgerlige,17
+Fredericia,2,Bredstrup-Pjedsted,D_Karsten_Byrgesen,Karsten Byrgesen,Nye Borgerlige,35
+Fredericia,2,Bredstrup-Pjedsted,D_Bent_Troelsen,Bent Troelsen,Nye Borgerlige,5
+Fredericia,2,Bredstrup-Pjedsted,D_Johnny_Majgård,Johnny Majgård,Nye Borgerlige,2
+Fredericia,2,Bredstrup-Pjedsted,D_Torben_Sten_Nielsen,Torben Sten Nielsen,Nye Borgerlige,1
+Fredericia,2,Bredstrup-Pjedsted,D_Hanneann_Phillina_Noell_Pedersen,Hanneann Phillina Noell Pedersen,Nye Borgerlige,1
+Fredericia,2,Bredstrup-Pjedsted,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,9
+Fredericia,2,Bredstrup-Pjedsted,F_Connie_Maybrith_Jørgensen,Connie Maybrith Jørgensen,SF - Socialistisk Folkeparti,10
+Fredericia,2,Bredstrup-Pjedsted,F_Jonas_Straarup_Christensen,Jonas Straarup Christensen,SF - Socialistisk Folkeparti,3
+Fredericia,2,Bredstrup-Pjedsted,F_Lars_Olesen,Lars Olesen,SF - Socialistisk Folkeparti,3
+Fredericia,2,Bredstrup-Pjedsted,F_Bent_Bregendahl,Bent Bregendahl,SF - Socialistisk Folkeparti,0
+Fredericia,2,Bredstrup-Pjedsted,F_Malene_Søgaard-Andersen,Malene Søgaard-Andersen,SF - Socialistisk Folkeparti,3
+Fredericia,2,Bredstrup-Pjedsted,F_Henning_Troelsen,Henning Troelsen,SF - Socialistisk Folkeparti,0
+Fredericia,2,Bredstrup-Pjedsted,F_Amina_M._Jawed,Amina M. Jawed,SF - Socialistisk Folkeparti,0
+Fredericia,2,Bredstrup-Pjedsted,F_Birgitte_Moos_Laursen,Birgitte Moos Laursen,SF - Socialistisk Folkeparti,1
+Fredericia,2,Bredstrup-Pjedsted,F_Per_A._Moos_Laursen,Per A. Moos Laursen,SF - Socialistisk Folkeparti,1
+Fredericia,2,Bredstrup-Pjedsted,F_Leif_Jørgensen,Leif Jørgensen,SF - Socialistisk Folkeparti,0
+Fredericia,2,Bredstrup-Pjedsted,F_Bo_Bergstrøm,Bo Bergstrøm,SF - Socialistisk Folkeparti,0
+Fredericia,2,Bredstrup-Pjedsted,I_Listestemmer,Listestemmer,Liberal Alliance,0
+Fredericia,2,Bredstrup-Pjedsted,I_Poul_Rand,Poul Rand,Liberal Alliance,4
+Fredericia,2,Bredstrup-Pjedsted,I_Anders_Wienberg_Jensen,Anders Wienberg Jensen,Liberal Alliance,0
+Fredericia,2,Bredstrup-Pjedsted,K_Listestemmer,Listestemmer,Kristendemokraterne,2
+Fredericia,2,Bredstrup-Pjedsted,K_Henrik_Thermansen_Møller,Henrik Thermansen Møller,Kristendemokraterne,5
+Fredericia,2,Bredstrup-Pjedsted,O_Listestemmer,Listestemmer,Dansk Folkeparti,13
+Fredericia,2,Bredstrup-Pjedsted,O_Susanne_Eilersen,Susanne Eilersen,Dansk Folkeparti,33
+Fredericia,2,Bredstrup-Pjedsted,O_Lasse_Holmqvist,Lasse Holmqvist,Dansk Folkeparti,0
+Fredericia,2,Bredstrup-Pjedsted,O_Bente_Rasmussen,Bente Rasmussen,Dansk Folkeparti,1
+Fredericia,2,Bredstrup-Pjedsted,O_Inger_Nielsen,Inger Nielsen,Dansk Folkeparti,1
+Fredericia,2,Bredstrup-Pjedsted,O_Palle_Dahl,Palle Dahl,Dansk Folkeparti,4
+Fredericia,2,Bredstrup-Pjedsted,O_Charlotte_Møller-Madsen,Charlotte Møller-Madsen,Dansk Folkeparti,4
+Fredericia,2,Bredstrup-Pjedsted,P_Listestemmer,Listestemmer,Frie Danske,0
+Fredericia,2,Bredstrup-Pjedsted,P_Thor_Nielsen,Thor Nielsen,Frie Danske,1
+Fredericia,2,Bredstrup-Pjedsted,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",42
+Fredericia,2,Bredstrup-Pjedsted,V_Peder_Tind,Peder Tind,"Venstre, Danmarks Liberale Parti",53
+Fredericia,2,Bredstrup-Pjedsted,V_Pernelle_Jensen,Pernelle Jensen,"Venstre, Danmarks Liberale Parti",20
+Fredericia,2,Bredstrup-Pjedsted,V_Kenny_Bruun_Olsen,Kenny Bruun Olsen,"Venstre, Danmarks Liberale Parti",19
+Fredericia,2,Bredstrup-Pjedsted,V_Christian_Jørgensen,Christian Jørgensen,"Venstre, Danmarks Liberale Parti",4
+Fredericia,2,Bredstrup-Pjedsted,V_Niels_Martin_Vind,Niels Martin Vind,"Venstre, Danmarks Liberale Parti",95
+Fredericia,2,Bredstrup-Pjedsted,V_Louis_Lindholm,Louis Lindholm,"Venstre, Danmarks Liberale Parti",6
+Fredericia,2,Bredstrup-Pjedsted,V_Henrik_Eriksen,Henrik Eriksen,"Venstre, Danmarks Liberale Parti",2
+Fredericia,2,Bredstrup-Pjedsted,V_Søren_Schou,Søren Schou,"Venstre, Danmarks Liberale Parti",5
+Fredericia,2,Bredstrup-Pjedsted,V_Sebastian_Frifelt_Ordell,Sebastian Frifelt Ordell,"Venstre, Danmarks Liberale Parti",1
+Fredericia,2,Bredstrup-Pjedsted,V_Annette_Bach_Laursen,Annette Bach Laursen,"Venstre, Danmarks Liberale Parti",3
+Fredericia,2,Bredstrup-Pjedsted,V_John_Rasmussen,John Rasmussen,"Venstre, Danmarks Liberale Parti",1
+Fredericia,2,Bredstrup-Pjedsted,V_Søren_Seidelin,Søren Seidelin,"Venstre, Danmarks Liberale Parti",1
+Fredericia,2,Bredstrup-Pjedsted,V_Helene_Østergaard,Helene Østergaard,"Venstre, Danmarks Liberale Parti",0
+Fredericia,2,Bredstrup-Pjedsted,Y_Listestemmer,Listestemmer,Borgerligt Fællesskab,1
+Fredericia,2,Bredstrup-Pjedsted,Y_Kirstine_Holst,Kirstine Holst,Borgerligt Fællesskab,4
+Fredericia,2,Bredstrup-Pjedsted,Y_Søren_Grøn_Stampe,Søren Grøn Stampe,Borgerligt Fællesskab,2
+Fredericia,2,Bredstrup-Pjedsted,Y_Toke_Kieler,Toke Kieler,Borgerligt Fællesskab,0
+Fredericia,2,Bredstrup-Pjedsted,Æ_Listestemmer,Listestemmer,Frihedslisten,3
+Fredericia,2,Bredstrup-Pjedsted,Æ_Malene_Husted,Malene Husted,Frihedslisten,1
+Fredericia,2,Bredstrup-Pjedsted,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,15
+Fredericia,2,Bredstrup-Pjedsted,Ø_Cecilie_Roed_Schultz,Cecilie Roed Schultz,Enhedslisten - De Rød-Grønne,22
+Fredericia,2,Bredstrup-Pjedsted,Ø_Maria_Sloth,Maria Sloth,Enhedslisten - De Rød-Grønne,1
+Fredericia,2,Bredstrup-Pjedsted,Ø_Jan_Filbært,Jan Filbært,Enhedslisten - De Rød-Grønne,2
+Fredericia,2,Bredstrup-Pjedsted,Ø_Mikkel_Martin,Mikkel Martin,Enhedslisten - De Rød-Grønne,1
+Fredericia,2,Bredstrup-Pjedsted,Ø_Andreas_Bjerring_Tobiassen,Andreas Bjerring Tobiassen,Enhedslisten - De Rød-Grønne,0
+Fredericia,2,Bredstrup-Pjedsted,Ø_Henning_Hartmeyer,Henning Hartmeyer,Enhedslisten - De Rød-Grønne,0
+Fredericia,2,Bredstrup-Pjedsted,Ø_Marc_Hast_Knudsen,Marc Hast Knudsen,Enhedslisten - De Rød-Grønne,0
+Fredericia,2,Bredstrup-Pjedsted,Ø_Frantz_Edeling,Frantz Edeling,Enhedslisten - De Rød-Grønne,1
+Fredericia,2,Bredstrup-Pjedsted,Å_Listestemmer,Listestemmer,Alternativet,2
+Fredericia,2,Bredstrup-Pjedsted,Å_Martin_Runager,Martin Runager,Alternativet,1
+Fredericia,2,Bredstrup-Pjedsted,Å_Ecaterina_Pedersen,Ecaterina Pedersen,Alternativet,4
+Fredericia,2,Bredstrup-Pjedsted,Å_Kim_Arthur,Kim Arthur,Alternativet,0
+Fredericia,2,Bredstrup-Pjedsted,Å_Mads_Wiig_Ehmsen,Mads Wiig Ehmsen,Alternativet,2
+Fredericia,3,Erritsø,A_Listestemmer,Listestemmer,Socialdemokratiet,416
+Fredericia,3,Erritsø,A_Steen_Wrist,Steen Wrist,Socialdemokratiet,791
+Fredericia,3,Erritsø,A_Søren_Larsen,Søren Larsen,Socialdemokratiet,47
+Fredericia,3,Erritsø,A_Christian_Bro,Christian Bro,Socialdemokratiet,49
+Fredericia,3,Erritsø,A_John_Nyborg,John Nyborg,Socialdemokratiet,61
+Fredericia,3,Erritsø,A_Turan_Savas,Turan Savas,Socialdemokratiet,37
+Fredericia,3,Erritsø,A_Ole_Steen_Hansen,Ole Steen Hansen,Socialdemokratiet,65
+Fredericia,3,Erritsø,A_Bente_Ankersen,Bente Ankersen,Socialdemokratiet,43
+Fredericia,3,Erritsø,A_Anette_Hyre-Jensen,Anette Hyre-Jensen,Socialdemokratiet,47
+Fredericia,3,Erritsø,A_David_Gulløv,David Gulløv,Socialdemokratiet,29
+Fredericia,3,Erritsø,A_Vibe_Dyhrberg,Vibe Dyhrberg,Socialdemokratiet,82
+Fredericia,3,Erritsø,A_Oliver_Overgaard_Jessen,Oliver Overgaard Jessen,Socialdemokratiet,10
+Fredericia,3,Erritsø,A_Helle_Bang_Andersen,Helle Bang Andersen,Socialdemokratiet,25
+Fredericia,3,Erritsø,A_Lise_Nielson,Lise Nielson,Socialdemokratiet,19
+Fredericia,3,Erritsø,A_Charlotte_Høgedal,Charlotte Høgedal,Socialdemokratiet,14
+Fredericia,3,Erritsø,A_Hanne_Imer_Pedersen,Hanne Imer Pedersen,Socialdemokratiet,13
+Fredericia,3,Erritsø,A_Lene_Skovmark_Elsborg,Lene Skovmark Elsborg,Socialdemokratiet,11
+Fredericia,3,Erritsø,A_Lars_Midtgaard,Lars Midtgaard,Socialdemokratiet,3
+Fredericia,3,Erritsø,A_Dan_Ravn_Larsen,Dan Ravn Larsen,Socialdemokratiet,9
+Fredericia,3,Erritsø,A_Dorthe_Fallesen_Frimann,Dorthe Fallesen Frimann,Socialdemokratiet,29
+Fredericia,3,Erritsø,A_Carsten_Høj,Carsten Høj,Socialdemokratiet,14
+Fredericia,3,Erritsø,A_David_Ramm,David Ramm,Socialdemokratiet,4
+Fredericia,3,Erritsø,A_Finn_Muhs,Finn Muhs,Socialdemokratiet,8
+Fredericia,3,Erritsø,B_Listestemmer,Listestemmer,Radikale Venstre,27
+Fredericia,3,Erritsø,B_Kirsten_Vad_Knudsen,Kirsten Vad Knudsen,Radikale Venstre,96
+Fredericia,3,Erritsø,B_Nanna_Nørholm,Nanna Nørholm,Radikale Venstre,27
+Fredericia,3,Erritsø,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,217
+Fredericia,3,Erritsø,C_Tommy_Rachlitz_Nielsen,Tommy Rachlitz Nielsen,Det Konservative Folkeparti,170
+Fredericia,3,Erritsø,C_Kirsten_Hassing_Nielsen,Kirsten Hassing Nielsen,Det Konservative Folkeparti,169
+Fredericia,3,Erritsø,C_Henriette_C._Jensen,Henriette C. Jensen,Det Konservative Folkeparti,28
+Fredericia,3,Erritsø,C_Poul_Sørensen,Poul Sørensen,Det Konservative Folkeparti,48
+Fredericia,3,Erritsø,C_Julian_Infante_Brahe_Jørgensen,Julian Infante Brahe Jørgensen,Det Konservative Folkeparti,10
+Fredericia,3,Erritsø,C_Leif_Carlsen,Leif Carlsen,Det Konservative Folkeparti,11
+Fredericia,3,Erritsø,C_Sebastian_Erlandsen,Sebastian Erlandsen,Det Konservative Folkeparti,11
+Fredericia,3,Erritsø,C_Søren_Bak,Søren Bak,Det Konservative Folkeparti,27
+Fredericia,3,Erritsø,D_Listestemmer,Listestemmer,Nye Borgerlige,86
+Fredericia,3,Erritsø,D_Karsten_Byrgesen,Karsten Byrgesen,Nye Borgerlige,154
+Fredericia,3,Erritsø,D_Bent_Troelsen,Bent Troelsen,Nye Borgerlige,23
+Fredericia,3,Erritsø,D_Johnny_Majgård,Johnny Majgård,Nye Borgerlige,4
+Fredericia,3,Erritsø,D_Torben_Sten_Nielsen,Torben Sten Nielsen,Nye Borgerlige,8
+Fredericia,3,Erritsø,D_Hanneann_Phillina_Noell_Pedersen,Hanneann Phillina Noell Pedersen,Nye Borgerlige,17
+Fredericia,3,Erritsø,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,80
+Fredericia,3,Erritsø,F_Connie_Maybrith_Jørgensen,Connie Maybrith Jørgensen,SF - Socialistisk Folkeparti,41
+Fredericia,3,Erritsø,F_Jonas_Straarup_Christensen,Jonas Straarup Christensen,SF - Socialistisk Folkeparti,24
+Fredericia,3,Erritsø,F_Lars_Olesen,Lars Olesen,SF - Socialistisk Folkeparti,8
+Fredericia,3,Erritsø,F_Bent_Bregendahl,Bent Bregendahl,SF - Socialistisk Folkeparti,6
+Fredericia,3,Erritsø,F_Malene_Søgaard-Andersen,Malene Søgaard-Andersen,SF - Socialistisk Folkeparti,24
+Fredericia,3,Erritsø,F_Henning_Troelsen,Henning Troelsen,SF - Socialistisk Folkeparti,3
+Fredericia,3,Erritsø,F_Amina_M._Jawed,Amina M. Jawed,SF - Socialistisk Folkeparti,2
+Fredericia,3,Erritsø,F_Birgitte_Moos_Laursen,Birgitte Moos Laursen,SF - Socialistisk Folkeparti,0
+Fredericia,3,Erritsø,F_Per_A._Moos_Laursen,Per A. Moos Laursen,SF - Socialistisk Folkeparti,2
+Fredericia,3,Erritsø,F_Leif_Jørgensen,Leif Jørgensen,SF - Socialistisk Folkeparti,2
+Fredericia,3,Erritsø,F_Bo_Bergstrøm,Bo Bergstrøm,SF - Socialistisk Folkeparti,2
+Fredericia,3,Erritsø,I_Listestemmer,Listestemmer,Liberal Alliance,10
+Fredericia,3,Erritsø,I_Poul_Rand,Poul Rand,Liberal Alliance,5
+Fredericia,3,Erritsø,I_Anders_Wienberg_Jensen,Anders Wienberg Jensen,Liberal Alliance,4
+Fredericia,3,Erritsø,K_Listestemmer,Listestemmer,Kristendemokraterne,5
+Fredericia,3,Erritsø,K_Henrik_Thermansen_Møller,Henrik Thermansen Møller,Kristendemokraterne,8
+Fredericia,3,Erritsø,O_Listestemmer,Listestemmer,Dansk Folkeparti,50
+Fredericia,3,Erritsø,O_Susanne_Eilersen,Susanne Eilersen,Dansk Folkeparti,292
+Fredericia,3,Erritsø,O_Lasse_Holmqvist,Lasse Holmqvist,Dansk Folkeparti,14
+Fredericia,3,Erritsø,O_Bente_Rasmussen,Bente Rasmussen,Dansk Folkeparti,19
+Fredericia,3,Erritsø,O_Inger_Nielsen,Inger Nielsen,Dansk Folkeparti,42
+Fredericia,3,Erritsø,O_Palle_Dahl,Palle Dahl,Dansk Folkeparti,22
+Fredericia,3,Erritsø,O_Charlotte_Møller-Madsen,Charlotte Møller-Madsen,Dansk Folkeparti,24
+Fredericia,3,Erritsø,P_Listestemmer,Listestemmer,Frie Danske,0
+Fredericia,3,Erritsø,P_Thor_Nielsen,Thor Nielsen,Frie Danske,2
+Fredericia,3,Erritsø,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",277
+Fredericia,3,Erritsø,V_Peder_Tind,Peder Tind,"Venstre, Danmarks Liberale Parti",417
+Fredericia,3,Erritsø,V_Pernelle_Jensen,Pernelle Jensen,"Venstre, Danmarks Liberale Parti",153
+Fredericia,3,Erritsø,V_Kenny_Bruun_Olsen,Kenny Bruun Olsen,"Venstre, Danmarks Liberale Parti",57
+Fredericia,3,Erritsø,V_Christian_Jørgensen,Christian Jørgensen,"Venstre, Danmarks Liberale Parti",190
+Fredericia,3,Erritsø,V_Niels_Martin_Vind,Niels Martin Vind,"Venstre, Danmarks Liberale Parti",93
+Fredericia,3,Erritsø,V_Louis_Lindholm,Louis Lindholm,"Venstre, Danmarks Liberale Parti",102
+Fredericia,3,Erritsø,V_Henrik_Eriksen,Henrik Eriksen,"Venstre, Danmarks Liberale Parti",27
+Fredericia,3,Erritsø,V_Søren_Schou,Søren Schou,"Venstre, Danmarks Liberale Parti",37
+Fredericia,3,Erritsø,V_Sebastian_Frifelt_Ordell,Sebastian Frifelt Ordell,"Venstre, Danmarks Liberale Parti",7
+Fredericia,3,Erritsø,V_Annette_Bach_Laursen,Annette Bach Laursen,"Venstre, Danmarks Liberale Parti",13
+Fredericia,3,Erritsø,V_John_Rasmussen,John Rasmussen,"Venstre, Danmarks Liberale Parti",19
+Fredericia,3,Erritsø,V_Søren_Seidelin,Søren Seidelin,"Venstre, Danmarks Liberale Parti",4
+Fredericia,3,Erritsø,V_Helene_Østergaard,Helene Østergaard,"Venstre, Danmarks Liberale Parti",7
+Fredericia,3,Erritsø,Y_Listestemmer,Listestemmer,Borgerligt Fællesskab,13
+Fredericia,3,Erritsø,Y_Kirstine_Holst,Kirstine Holst,Borgerligt Fællesskab,54
+Fredericia,3,Erritsø,Y_Søren_Grøn_Stampe,Søren Grøn Stampe,Borgerligt Fællesskab,57
+Fredericia,3,Erritsø,Y_Toke_Kieler,Toke Kieler,Borgerligt Fællesskab,4
+Fredericia,3,Erritsø,Æ_Listestemmer,Listestemmer,Frihedslisten,1
+Fredericia,3,Erritsø,Æ_Malene_Husted,Malene Husted,Frihedslisten,5
+Fredericia,3,Erritsø,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,73
+Fredericia,3,Erritsø,Ø_Cecilie_Roed_Schultz,Cecilie Roed Schultz,Enhedslisten - De Rød-Grønne,194
+Fredericia,3,Erritsø,Ø_Maria_Sloth,Maria Sloth,Enhedslisten - De Rød-Grønne,7
+Fredericia,3,Erritsø,Ø_Jan_Filbært,Jan Filbært,Enhedslisten - De Rød-Grønne,3
+Fredericia,3,Erritsø,Ø_Mikkel_Martin,Mikkel Martin,Enhedslisten - De Rød-Grønne,2
+Fredericia,3,Erritsø,Ø_Andreas_Bjerring_Tobiassen,Andreas Bjerring Tobiassen,Enhedslisten - De Rød-Grønne,6
+Fredericia,3,Erritsø,Ø_Henning_Hartmeyer,Henning Hartmeyer,Enhedslisten - De Rød-Grønne,3
+Fredericia,3,Erritsø,Ø_Marc_Hast_Knudsen,Marc Hast Knudsen,Enhedslisten - De Rød-Grønne,0
+Fredericia,3,Erritsø,Ø_Frantz_Edeling,Frantz Edeling,Enhedslisten - De Rød-Grønne,0
+Fredericia,3,Erritsø,Å_Listestemmer,Listestemmer,Alternativet,18
+Fredericia,3,Erritsø,Å_Martin_Runager,Martin Runager,Alternativet,7
+Fredericia,3,Erritsø,Å_Ecaterina_Pedersen,Ecaterina Pedersen,Alternativet,12
+Fredericia,3,Erritsø,Å_Kim_Arthur,Kim Arthur,Alternativet,4
+Fredericia,3,Erritsø,Å_Mads_Wiig_Ehmsen,Mads Wiig Ehmsen,Alternativet,1
+Fredericia,4,Herslev,A_Listestemmer,Listestemmer,Socialdemokratiet,17
+Fredericia,4,Herslev,A_Steen_Wrist,Steen Wrist,Socialdemokratiet,45
+Fredericia,4,Herslev,A_Søren_Larsen,Søren Larsen,Socialdemokratiet,5
+Fredericia,4,Herslev,A_Christian_Bro,Christian Bro,Socialdemokratiet,3
+Fredericia,4,Herslev,A_John_Nyborg,John Nyborg,Socialdemokratiet,2
+Fredericia,4,Herslev,A_Turan_Savas,Turan Savas,Socialdemokratiet,0
+Fredericia,4,Herslev,A_Ole_Steen_Hansen,Ole Steen Hansen,Socialdemokratiet,3
+Fredericia,4,Herslev,A_Bente_Ankersen,Bente Ankersen,Socialdemokratiet,2
+Fredericia,4,Herslev,A_Anette_Hyre-Jensen,Anette Hyre-Jensen,Socialdemokratiet,2
+Fredericia,4,Herslev,A_David_Gulløv,David Gulløv,Socialdemokratiet,1
+Fredericia,4,Herslev,A_Vibe_Dyhrberg,Vibe Dyhrberg,Socialdemokratiet,6
+Fredericia,4,Herslev,A_Oliver_Overgaard_Jessen,Oliver Overgaard Jessen,Socialdemokratiet,0
+Fredericia,4,Herslev,A_Helle_Bang_Andersen,Helle Bang Andersen,Socialdemokratiet,3
+Fredericia,4,Herslev,A_Lise_Nielson,Lise Nielson,Socialdemokratiet,3
+Fredericia,4,Herslev,A_Charlotte_Høgedal,Charlotte Høgedal,Socialdemokratiet,1
+Fredericia,4,Herslev,A_Hanne_Imer_Pedersen,Hanne Imer Pedersen,Socialdemokratiet,1
+Fredericia,4,Herslev,A_Lene_Skovmark_Elsborg,Lene Skovmark Elsborg,Socialdemokratiet,2
+Fredericia,4,Herslev,A_Lars_Midtgaard,Lars Midtgaard,Socialdemokratiet,0
+Fredericia,4,Herslev,A_Dan_Ravn_Larsen,Dan Ravn Larsen,Socialdemokratiet,2
+Fredericia,4,Herslev,A_Dorthe_Fallesen_Frimann,Dorthe Fallesen Frimann,Socialdemokratiet,2
+Fredericia,4,Herslev,A_Carsten_Høj,Carsten Høj,Socialdemokratiet,1
+Fredericia,4,Herslev,A_David_Ramm,David Ramm,Socialdemokratiet,0
+Fredericia,4,Herslev,A_Finn_Muhs,Finn Muhs,Socialdemokratiet,1
+Fredericia,4,Herslev,B_Listestemmer,Listestemmer,Radikale Venstre,0
+Fredericia,4,Herslev,B_Kirsten_Vad_Knudsen,Kirsten Vad Knudsen,Radikale Venstre,1
+Fredericia,4,Herslev,B_Nanna_Nørholm,Nanna Nørholm,Radikale Venstre,2
+Fredericia,4,Herslev,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,12
+Fredericia,4,Herslev,C_Tommy_Rachlitz_Nielsen,Tommy Rachlitz Nielsen,Det Konservative Folkeparti,16
+Fredericia,4,Herslev,C_Kirsten_Hassing_Nielsen,Kirsten Hassing Nielsen,Det Konservative Folkeparti,2
+Fredericia,4,Herslev,C_Henriette_C._Jensen,Henriette C. Jensen,Det Konservative Folkeparti,3
+Fredericia,4,Herslev,C_Poul_Sørensen,Poul Sørensen,Det Konservative Folkeparti,1
+Fredericia,4,Herslev,C_Julian_Infante_Brahe_Jørgensen,Julian Infante Brahe Jørgensen,Det Konservative Folkeparti,0
+Fredericia,4,Herslev,C_Leif_Carlsen,Leif Carlsen,Det Konservative Folkeparti,2
+Fredericia,4,Herslev,C_Sebastian_Erlandsen,Sebastian Erlandsen,Det Konservative Folkeparti,0
+Fredericia,4,Herslev,C_Søren_Bak,Søren Bak,Det Konservative Folkeparti,0
+Fredericia,4,Herslev,D_Listestemmer,Listestemmer,Nye Borgerlige,13
+Fredericia,4,Herslev,D_Karsten_Byrgesen,Karsten Byrgesen,Nye Borgerlige,28
+Fredericia,4,Herslev,D_Bent_Troelsen,Bent Troelsen,Nye Borgerlige,2
+Fredericia,4,Herslev,D_Johnny_Majgård,Johnny Majgård,Nye Borgerlige,3
+Fredericia,4,Herslev,D_Torben_Sten_Nielsen,Torben Sten Nielsen,Nye Borgerlige,0
+Fredericia,4,Herslev,D_Hanneann_Phillina_Noell_Pedersen,Hanneann Phillina Noell Pedersen,Nye Borgerlige,2
+Fredericia,4,Herslev,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,3
+Fredericia,4,Herslev,F_Connie_Maybrith_Jørgensen,Connie Maybrith Jørgensen,SF - Socialistisk Folkeparti,5
+Fredericia,4,Herslev,F_Jonas_Straarup_Christensen,Jonas Straarup Christensen,SF - Socialistisk Folkeparti,1
+Fredericia,4,Herslev,F_Lars_Olesen,Lars Olesen,SF - Socialistisk Folkeparti,1
+Fredericia,4,Herslev,F_Bent_Bregendahl,Bent Bregendahl,SF - Socialistisk Folkeparti,0
+Fredericia,4,Herslev,F_Malene_Søgaard-Andersen,Malene Søgaard-Andersen,SF - Socialistisk Folkeparti,0
+Fredericia,4,Herslev,F_Henning_Troelsen,Henning Troelsen,SF - Socialistisk Folkeparti,0
+Fredericia,4,Herslev,F_Amina_M._Jawed,Amina M. Jawed,SF - Socialistisk Folkeparti,1
+Fredericia,4,Herslev,F_Birgitte_Moos_Laursen,Birgitte Moos Laursen,SF - Socialistisk Folkeparti,0
+Fredericia,4,Herslev,F_Per_A._Moos_Laursen,Per A. Moos Laursen,SF - Socialistisk Folkeparti,0
+Fredericia,4,Herslev,F_Leif_Jørgensen,Leif Jørgensen,SF - Socialistisk Folkeparti,0
+Fredericia,4,Herslev,F_Bo_Bergstrøm,Bo Bergstrøm,SF - Socialistisk Folkeparti,0
+Fredericia,4,Herslev,I_Listestemmer,Listestemmer,Liberal Alliance,6
+Fredericia,4,Herslev,I_Poul_Rand,Poul Rand,Liberal Alliance,0
+Fredericia,4,Herslev,I_Anders_Wienberg_Jensen,Anders Wienberg Jensen,Liberal Alliance,0
+Fredericia,4,Herslev,K_Listestemmer,Listestemmer,Kristendemokraterne,2
+Fredericia,4,Herslev,K_Henrik_Thermansen_Møller,Henrik Thermansen Møller,Kristendemokraterne,0
+Fredericia,4,Herslev,O_Listestemmer,Listestemmer,Dansk Folkeparti,10
+Fredericia,4,Herslev,O_Susanne_Eilersen,Susanne Eilersen,Dansk Folkeparti,28
+Fredericia,4,Herslev,O_Lasse_Holmqvist,Lasse Holmqvist,Dansk Folkeparti,2
+Fredericia,4,Herslev,O_Bente_Rasmussen,Bente Rasmussen,Dansk Folkeparti,0
+Fredericia,4,Herslev,O_Inger_Nielsen,Inger Nielsen,Dansk Folkeparti,3
+Fredericia,4,Herslev,O_Palle_Dahl,Palle Dahl,Dansk Folkeparti,3
+Fredericia,4,Herslev,O_Charlotte_Møller-Madsen,Charlotte Møller-Madsen,Dansk Folkeparti,1
+Fredericia,4,Herslev,P_Listestemmer,Listestemmer,Frie Danske,0
+Fredericia,4,Herslev,P_Thor_Nielsen,Thor Nielsen,Frie Danske,0
+Fredericia,4,Herslev,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",24
+Fredericia,4,Herslev,V_Peder_Tind,Peder Tind,"Venstre, Danmarks Liberale Parti",32
+Fredericia,4,Herslev,V_Pernelle_Jensen,Pernelle Jensen,"Venstre, Danmarks Liberale Parti",11
+Fredericia,4,Herslev,V_Kenny_Bruun_Olsen,Kenny Bruun Olsen,"Venstre, Danmarks Liberale Parti",17
+Fredericia,4,Herslev,V_Christian_Jørgensen,Christian Jørgensen,"Venstre, Danmarks Liberale Parti",4
+Fredericia,4,Herslev,V_Niels_Martin_Vind,Niels Martin Vind,"Venstre, Danmarks Liberale Parti",8
+Fredericia,4,Herslev,V_Louis_Lindholm,Louis Lindholm,"Venstre, Danmarks Liberale Parti",3
+Fredericia,4,Herslev,V_Henrik_Eriksen,Henrik Eriksen,"Venstre, Danmarks Liberale Parti",0
+Fredericia,4,Herslev,V_Søren_Schou,Søren Schou,"Venstre, Danmarks Liberale Parti",3
+Fredericia,4,Herslev,V_Sebastian_Frifelt_Ordell,Sebastian Frifelt Ordell,"Venstre, Danmarks Liberale Parti",1
+Fredericia,4,Herslev,V_Annette_Bach_Laursen,Annette Bach Laursen,"Venstre, Danmarks Liberale Parti",1
+Fredericia,4,Herslev,V_John_Rasmussen,John Rasmussen,"Venstre, Danmarks Liberale Parti",2
+Fredericia,4,Herslev,V_Søren_Seidelin,Søren Seidelin,"Venstre, Danmarks Liberale Parti",1
+Fredericia,4,Herslev,V_Helene_Østergaard,Helene Østergaard,"Venstre, Danmarks Liberale Parti",1
+Fredericia,4,Herslev,Y_Listestemmer,Listestemmer,Borgerligt Fællesskab,1
+Fredericia,4,Herslev,Y_Kirstine_Holst,Kirstine Holst,Borgerligt Fællesskab,7
+Fredericia,4,Herslev,Y_Søren_Grøn_Stampe,Søren Grøn Stampe,Borgerligt Fællesskab,2
+Fredericia,4,Herslev,Y_Toke_Kieler,Toke Kieler,Borgerligt Fællesskab,0
+Fredericia,4,Herslev,Æ_Listestemmer,Listestemmer,Frihedslisten,1
+Fredericia,4,Herslev,Æ_Malene_Husted,Malene Husted,Frihedslisten,0
+Fredericia,4,Herslev,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,7
+Fredericia,4,Herslev,Ø_Cecilie_Roed_Schultz,Cecilie Roed Schultz,Enhedslisten - De Rød-Grønne,13
+Fredericia,4,Herslev,Ø_Maria_Sloth,Maria Sloth,Enhedslisten - De Rød-Grønne,1
+Fredericia,4,Herslev,Ø_Jan_Filbært,Jan Filbært,Enhedslisten - De Rød-Grønne,0
+Fredericia,4,Herslev,Ø_Mikkel_Martin,Mikkel Martin,Enhedslisten - De Rød-Grønne,0
+Fredericia,4,Herslev,Ø_Andreas_Bjerring_Tobiassen,Andreas Bjerring Tobiassen,Enhedslisten - De Rød-Grønne,1
+Fredericia,4,Herslev,Ø_Henning_Hartmeyer,Henning Hartmeyer,Enhedslisten - De Rød-Grønne,0
+Fredericia,4,Herslev,Ø_Marc_Hast_Knudsen,Marc Hast Knudsen,Enhedslisten - De Rød-Grønne,0
+Fredericia,4,Herslev,Ø_Frantz_Edeling,Frantz Edeling,Enhedslisten - De Rød-Grønne,0
+Fredericia,4,Herslev,Å_Listestemmer,Listestemmer,Alternativet,0
+Fredericia,4,Herslev,Å_Martin_Runager,Martin Runager,Alternativet,2
+Fredericia,4,Herslev,Å_Ecaterina_Pedersen,Ecaterina Pedersen,Alternativet,0
+Fredericia,4,Herslev,Å_Kim_Arthur,Kim Arthur,Alternativet,0
+Fredericia,4,Herslev,Å_Mads_Wiig_Ehmsen,Mads Wiig Ehmsen,Alternativet,1
+Fredericia,5,Taulov,A_Listestemmer,Listestemmer,Socialdemokratiet,270
+Fredericia,5,Taulov,A_Steen_Wrist,Steen Wrist,Socialdemokratiet,346
+Fredericia,5,Taulov,A_Søren_Larsen,Søren Larsen,Socialdemokratiet,16
+Fredericia,5,Taulov,A_Christian_Bro,Christian Bro,Socialdemokratiet,13
+Fredericia,5,Taulov,A_John_Nyborg,John Nyborg,Socialdemokratiet,25
+Fredericia,5,Taulov,A_Turan_Savas,Turan Savas,Socialdemokratiet,11
+Fredericia,5,Taulov,A_Ole_Steen_Hansen,Ole Steen Hansen,Socialdemokratiet,36
+Fredericia,5,Taulov,A_Bente_Ankersen,Bente Ankersen,Socialdemokratiet,23
+Fredericia,5,Taulov,A_Anette_Hyre-Jensen,Anette Hyre-Jensen,Socialdemokratiet,13
+Fredericia,5,Taulov,A_David_Gulløv,David Gulløv,Socialdemokratiet,12
+Fredericia,5,Taulov,A_Vibe_Dyhrberg,Vibe Dyhrberg,Socialdemokratiet,36
+Fredericia,5,Taulov,A_Oliver_Overgaard_Jessen,Oliver Overgaard Jessen,Socialdemokratiet,4
+Fredericia,5,Taulov,A_Helle_Bang_Andersen,Helle Bang Andersen,Socialdemokratiet,7
+Fredericia,5,Taulov,A_Lise_Nielson,Lise Nielson,Socialdemokratiet,9
+Fredericia,5,Taulov,A_Charlotte_Høgedal,Charlotte Høgedal,Socialdemokratiet,12
+Fredericia,5,Taulov,A_Hanne_Imer_Pedersen,Hanne Imer Pedersen,Socialdemokratiet,8
+Fredericia,5,Taulov,A_Lene_Skovmark_Elsborg,Lene Skovmark Elsborg,Socialdemokratiet,8
+Fredericia,5,Taulov,A_Lars_Midtgaard,Lars Midtgaard,Socialdemokratiet,12
+Fredericia,5,Taulov,A_Dan_Ravn_Larsen,Dan Ravn Larsen,Socialdemokratiet,18
+Fredericia,5,Taulov,A_Dorthe_Fallesen_Frimann,Dorthe Fallesen Frimann,Socialdemokratiet,7
+Fredericia,5,Taulov,A_Carsten_Høj,Carsten Høj,Socialdemokratiet,7
+Fredericia,5,Taulov,A_David_Ramm,David Ramm,Socialdemokratiet,1
+Fredericia,5,Taulov,A_Finn_Muhs,Finn Muhs,Socialdemokratiet,5
+Fredericia,5,Taulov,B_Listestemmer,Listestemmer,Radikale Venstre,19
+Fredericia,5,Taulov,B_Kirsten_Vad_Knudsen,Kirsten Vad Knudsen,Radikale Venstre,26
+Fredericia,5,Taulov,B_Nanna_Nørholm,Nanna Nørholm,Radikale Venstre,110
+Fredericia,5,Taulov,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,140
+Fredericia,5,Taulov,C_Tommy_Rachlitz_Nielsen,Tommy Rachlitz Nielsen,Det Konservative Folkeparti,112
+Fredericia,5,Taulov,C_Kirsten_Hassing_Nielsen,Kirsten Hassing Nielsen,Det Konservative Folkeparti,56
+Fredericia,5,Taulov,C_Henriette_C._Jensen,Henriette C. Jensen,Det Konservative Folkeparti,19
+Fredericia,5,Taulov,C_Poul_Sørensen,Poul Sørensen,Det Konservative Folkeparti,11
+Fredericia,5,Taulov,C_Julian_Infante_Brahe_Jørgensen,Julian Infante Brahe Jørgensen,Det Konservative Folkeparti,8
+Fredericia,5,Taulov,C_Leif_Carlsen,Leif Carlsen,Det Konservative Folkeparti,2
+Fredericia,5,Taulov,C_Sebastian_Erlandsen,Sebastian Erlandsen,Det Konservative Folkeparti,3
+Fredericia,5,Taulov,C_Søren_Bak,Søren Bak,Det Konservative Folkeparti,16
+Fredericia,5,Taulov,D_Listestemmer,Listestemmer,Nye Borgerlige,60
+Fredericia,5,Taulov,D_Karsten_Byrgesen,Karsten Byrgesen,Nye Borgerlige,87
+Fredericia,5,Taulov,D_Bent_Troelsen,Bent Troelsen,Nye Borgerlige,26
+Fredericia,5,Taulov,D_Johnny_Majgård,Johnny Majgård,Nye Borgerlige,6
+Fredericia,5,Taulov,D_Torben_Sten_Nielsen,Torben Sten Nielsen,Nye Borgerlige,8
+Fredericia,5,Taulov,D_Hanneann_Phillina_Noell_Pedersen,Hanneann Phillina Noell Pedersen,Nye Borgerlige,17
+Fredericia,5,Taulov,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,72
+Fredericia,5,Taulov,F_Connie_Maybrith_Jørgensen,Connie Maybrith Jørgensen,SF - Socialistisk Folkeparti,31
+Fredericia,5,Taulov,F_Jonas_Straarup_Christensen,Jonas Straarup Christensen,SF - Socialistisk Folkeparti,8
+Fredericia,5,Taulov,F_Lars_Olesen,Lars Olesen,SF - Socialistisk Folkeparti,3
+Fredericia,5,Taulov,F_Bent_Bregendahl,Bent Bregendahl,SF - Socialistisk Folkeparti,14
+Fredericia,5,Taulov,F_Malene_Søgaard-Andersen,Malene Søgaard-Andersen,SF - Socialistisk Folkeparti,6
+Fredericia,5,Taulov,F_Henning_Troelsen,Henning Troelsen,SF - Socialistisk Folkeparti,5
+Fredericia,5,Taulov,F_Amina_M._Jawed,Amina M. Jawed,SF - Socialistisk Folkeparti,3
+Fredericia,5,Taulov,F_Birgitte_Moos_Laursen,Birgitte Moos Laursen,SF - Socialistisk Folkeparti,1
+Fredericia,5,Taulov,F_Per_A._Moos_Laursen,Per A. Moos Laursen,SF - Socialistisk Folkeparti,2
+Fredericia,5,Taulov,F_Leif_Jørgensen,Leif Jørgensen,SF - Socialistisk Folkeparti,1
+Fredericia,5,Taulov,F_Bo_Bergstrøm,Bo Bergstrøm,SF - Socialistisk Folkeparti,0
+Fredericia,5,Taulov,I_Listestemmer,Listestemmer,Liberal Alliance,8
+Fredericia,5,Taulov,I_Poul_Rand,Poul Rand,Liberal Alliance,7
+Fredericia,5,Taulov,I_Anders_Wienberg_Jensen,Anders Wienberg Jensen,Liberal Alliance,2
+Fredericia,5,Taulov,K_Listestemmer,Listestemmer,Kristendemokraterne,7
+Fredericia,5,Taulov,K_Henrik_Thermansen_Møller,Henrik Thermansen Møller,Kristendemokraterne,9
+Fredericia,5,Taulov,O_Listestemmer,Listestemmer,Dansk Folkeparti,50
+Fredericia,5,Taulov,O_Susanne_Eilersen,Susanne Eilersen,Dansk Folkeparti,116
+Fredericia,5,Taulov,O_Lasse_Holmqvist,Lasse Holmqvist,Dansk Folkeparti,11
+Fredericia,5,Taulov,O_Bente_Rasmussen,Bente Rasmussen,Dansk Folkeparti,2
+Fredericia,5,Taulov,O_Inger_Nielsen,Inger Nielsen,Dansk Folkeparti,6
+Fredericia,5,Taulov,O_Palle_Dahl,Palle Dahl,Dansk Folkeparti,25
+Fredericia,5,Taulov,O_Charlotte_Møller-Madsen,Charlotte Møller-Madsen,Dansk Folkeparti,15
+Fredericia,5,Taulov,P_Listestemmer,Listestemmer,Frie Danske,0
+Fredericia,5,Taulov,P_Thor_Nielsen,Thor Nielsen,Frie Danske,0
+Fredericia,5,Taulov,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",223
+Fredericia,5,Taulov,V_Peder_Tind,Peder Tind,"Venstre, Danmarks Liberale Parti",225
+Fredericia,5,Taulov,V_Pernelle_Jensen,Pernelle Jensen,"Venstre, Danmarks Liberale Parti",109
+Fredericia,5,Taulov,V_Kenny_Bruun_Olsen,Kenny Bruun Olsen,"Venstre, Danmarks Liberale Parti",49
+Fredericia,5,Taulov,V_Christian_Jørgensen,Christian Jørgensen,"Venstre, Danmarks Liberale Parti",25
+Fredericia,5,Taulov,V_Niels_Martin_Vind,Niels Martin Vind,"Venstre, Danmarks Liberale Parti",79
+Fredericia,5,Taulov,V_Louis_Lindholm,Louis Lindholm,"Venstre, Danmarks Liberale Parti",26
+Fredericia,5,Taulov,V_Henrik_Eriksen,Henrik Eriksen,"Venstre, Danmarks Liberale Parti",17
+Fredericia,5,Taulov,V_Søren_Schou,Søren Schou,"Venstre, Danmarks Liberale Parti",10
+Fredericia,5,Taulov,V_Sebastian_Frifelt_Ordell,Sebastian Frifelt Ordell,"Venstre, Danmarks Liberale Parti",4
+Fredericia,5,Taulov,V_Annette_Bach_Laursen,Annette Bach Laursen,"Venstre, Danmarks Liberale Parti",8
+Fredericia,5,Taulov,V_John_Rasmussen,John Rasmussen,"Venstre, Danmarks Liberale Parti",10
+Fredericia,5,Taulov,V_Søren_Seidelin,Søren Seidelin,"Venstre, Danmarks Liberale Parti",8
+Fredericia,5,Taulov,V_Helene_Østergaard,Helene Østergaard,"Venstre, Danmarks Liberale Parti",6
+Fredericia,5,Taulov,Y_Listestemmer,Listestemmer,Borgerligt Fællesskab,5
+Fredericia,5,Taulov,Y_Kirstine_Holst,Kirstine Holst,Borgerligt Fællesskab,26
+Fredericia,5,Taulov,Y_Søren_Grøn_Stampe,Søren Grøn Stampe,Borgerligt Fællesskab,2
+Fredericia,5,Taulov,Y_Toke_Kieler,Toke Kieler,Borgerligt Fællesskab,2
+Fredericia,5,Taulov,Æ_Listestemmer,Listestemmer,Frihedslisten,2
+Fredericia,5,Taulov,Æ_Malene_Husted,Malene Husted,Frihedslisten,3
+Fredericia,5,Taulov,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,23
+Fredericia,5,Taulov,Ø_Cecilie_Roed_Schultz,Cecilie Roed Schultz,Enhedslisten - De Rød-Grønne,77
+Fredericia,5,Taulov,Ø_Maria_Sloth,Maria Sloth,Enhedslisten - De Rød-Grønne,5
+Fredericia,5,Taulov,Ø_Jan_Filbært,Jan Filbært,Enhedslisten - De Rød-Grønne,3
+Fredericia,5,Taulov,Ø_Mikkel_Martin,Mikkel Martin,Enhedslisten - De Rød-Grønne,0
+Fredericia,5,Taulov,Ø_Andreas_Bjerring_Tobiassen,Andreas Bjerring Tobiassen,Enhedslisten - De Rød-Grønne,1
+Fredericia,5,Taulov,Ø_Henning_Hartmeyer,Henning Hartmeyer,Enhedslisten - De Rød-Grønne,2
+Fredericia,5,Taulov,Ø_Marc_Hast_Knudsen,Marc Hast Knudsen,Enhedslisten - De Rød-Grønne,2
+Fredericia,5,Taulov,Ø_Frantz_Edeling,Frantz Edeling,Enhedslisten - De Rød-Grønne,0
+Fredericia,5,Taulov,Å_Listestemmer,Listestemmer,Alternativet,8
+Fredericia,5,Taulov,Å_Martin_Runager,Martin Runager,Alternativet,5
+Fredericia,5,Taulov,Å_Ecaterina_Pedersen,Ecaterina Pedersen,Alternativet,6
+Fredericia,5,Taulov,Å_Kim_Arthur,Kim Arthur,Alternativet,7
+Fredericia,5,Taulov,Å_Mads_Wiig_Ehmsen,Mads Wiig Ehmsen,Alternativet,1
+Fredericia,6,Søndermarken,A_Listestemmer,Listestemmer,Socialdemokratiet,502
+Fredericia,6,Søndermarken,A_Steen_Wrist,Steen Wrist,Socialdemokratiet,823
+Fredericia,6,Søndermarken,A_Søren_Larsen,Søren Larsen,Socialdemokratiet,57
+Fredericia,6,Søndermarken,A_Christian_Bro,Christian Bro,Socialdemokratiet,161
+Fredericia,6,Søndermarken,A_John_Nyborg,John Nyborg,Socialdemokratiet,51
+Fredericia,6,Søndermarken,A_Turan_Savas,Turan Savas,Socialdemokratiet,135
+Fredericia,6,Søndermarken,A_Ole_Steen_Hansen,Ole Steen Hansen,Socialdemokratiet,64
+Fredericia,6,Søndermarken,A_Bente_Ankersen,Bente Ankersen,Socialdemokratiet,46
+Fredericia,6,Søndermarken,A_Anette_Hyre-Jensen,Anette Hyre-Jensen,Socialdemokratiet,43
+Fredericia,6,Søndermarken,A_David_Gulløv,David Gulløv,Socialdemokratiet,70
+Fredericia,6,Søndermarken,A_Vibe_Dyhrberg,Vibe Dyhrberg,Socialdemokratiet,54
+Fredericia,6,Søndermarken,A_Oliver_Overgaard_Jessen,Oliver Overgaard Jessen,Socialdemokratiet,14
+Fredericia,6,Søndermarken,A_Helle_Bang_Andersen,Helle Bang Andersen,Socialdemokratiet,13
+Fredericia,6,Søndermarken,A_Lise_Nielson,Lise Nielson,Socialdemokratiet,77
+Fredericia,6,Søndermarken,A_Charlotte_Høgedal,Charlotte Høgedal,Socialdemokratiet,14
+Fredericia,6,Søndermarken,A_Hanne_Imer_Pedersen,Hanne Imer Pedersen,Socialdemokratiet,11
+Fredericia,6,Søndermarken,A_Lene_Skovmark_Elsborg,Lene Skovmark Elsborg,Socialdemokratiet,35
+Fredericia,6,Søndermarken,A_Lars_Midtgaard,Lars Midtgaard,Socialdemokratiet,4
+Fredericia,6,Søndermarken,A_Dan_Ravn_Larsen,Dan Ravn Larsen,Socialdemokratiet,11
+Fredericia,6,Søndermarken,A_Dorthe_Fallesen_Frimann,Dorthe Fallesen Frimann,Socialdemokratiet,18
+Fredericia,6,Søndermarken,A_Carsten_Høj,Carsten Høj,Socialdemokratiet,5
+Fredericia,6,Søndermarken,A_David_Ramm,David Ramm,Socialdemokratiet,3
+Fredericia,6,Søndermarken,A_Finn_Muhs,Finn Muhs,Socialdemokratiet,20
+Fredericia,6,Søndermarken,B_Listestemmer,Listestemmer,Radikale Venstre,28
+Fredericia,6,Søndermarken,B_Kirsten_Vad_Knudsen,Kirsten Vad Knudsen,Radikale Venstre,20
+Fredericia,6,Søndermarken,B_Nanna_Nørholm,Nanna Nørholm,Radikale Venstre,15
+Fredericia,6,Søndermarken,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,113
+Fredericia,6,Søndermarken,C_Tommy_Rachlitz_Nielsen,Tommy Rachlitz Nielsen,Det Konservative Folkeparti,90
+Fredericia,6,Søndermarken,C_Kirsten_Hassing_Nielsen,Kirsten Hassing Nielsen,Det Konservative Folkeparti,50
+Fredericia,6,Søndermarken,C_Henriette_C._Jensen,Henriette C. Jensen,Det Konservative Folkeparti,27
+Fredericia,6,Søndermarken,C_Poul_Sørensen,Poul Sørensen,Det Konservative Folkeparti,28
+Fredericia,6,Søndermarken,C_Julian_Infante_Brahe_Jørgensen,Julian Infante Brahe Jørgensen,Det Konservative Folkeparti,10
+Fredericia,6,Søndermarken,C_Leif_Carlsen,Leif Carlsen,Det Konservative Folkeparti,2
+Fredericia,6,Søndermarken,C_Sebastian_Erlandsen,Sebastian Erlandsen,Det Konservative Folkeparti,9
+Fredericia,6,Søndermarken,C_Søren_Bak,Søren Bak,Det Konservative Folkeparti,12
+Fredericia,6,Søndermarken,D_Listestemmer,Listestemmer,Nye Borgerlige,110
+Fredericia,6,Søndermarken,D_Karsten_Byrgesen,Karsten Byrgesen,Nye Borgerlige,111
+Fredericia,6,Søndermarken,D_Bent_Troelsen,Bent Troelsen,Nye Borgerlige,20
+Fredericia,6,Søndermarken,D_Johnny_Majgård,Johnny Majgård,Nye Borgerlige,12
+Fredericia,6,Søndermarken,D_Torben_Sten_Nielsen,Torben Sten Nielsen,Nye Borgerlige,8
+Fredericia,6,Søndermarken,D_Hanneann_Phillina_Noell_Pedersen,Hanneann Phillina Noell Pedersen,Nye Borgerlige,12
+Fredericia,6,Søndermarken,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,59
+Fredericia,6,Søndermarken,F_Connie_Maybrith_Jørgensen,Connie Maybrith Jørgensen,SF - Socialistisk Folkeparti,55
+Fredericia,6,Søndermarken,F_Jonas_Straarup_Christensen,Jonas Straarup Christensen,SF - Socialistisk Folkeparti,21
+Fredericia,6,Søndermarken,F_Lars_Olesen,Lars Olesen,SF - Socialistisk Folkeparti,5
+Fredericia,6,Søndermarken,F_Bent_Bregendahl,Bent Bregendahl,SF - Socialistisk Folkeparti,5
+Fredericia,6,Søndermarken,F_Malene_Søgaard-Andersen,Malene Søgaard-Andersen,SF - Socialistisk Folkeparti,15
+Fredericia,6,Søndermarken,F_Henning_Troelsen,Henning Troelsen,SF - Socialistisk Folkeparti,13
+Fredericia,6,Søndermarken,F_Amina_M._Jawed,Amina M. Jawed,SF - Socialistisk Folkeparti,12
+Fredericia,6,Søndermarken,F_Birgitte_Moos_Laursen,Birgitte Moos Laursen,SF - Socialistisk Folkeparti,5
+Fredericia,6,Søndermarken,F_Per_A._Moos_Laursen,Per A. Moos Laursen,SF - Socialistisk Folkeparti,2
+Fredericia,6,Søndermarken,F_Leif_Jørgensen,Leif Jørgensen,SF - Socialistisk Folkeparti,0
+Fredericia,6,Søndermarken,F_Bo_Bergstrøm,Bo Bergstrøm,SF - Socialistisk Folkeparti,3
+Fredericia,6,Søndermarken,I_Listestemmer,Listestemmer,Liberal Alliance,3
+Fredericia,6,Søndermarken,I_Poul_Rand,Poul Rand,Liberal Alliance,10
+Fredericia,6,Søndermarken,I_Anders_Wienberg_Jensen,Anders Wienberg Jensen,Liberal Alliance,4
+Fredericia,6,Søndermarken,K_Listestemmer,Listestemmer,Kristendemokraterne,9
+Fredericia,6,Søndermarken,K_Henrik_Thermansen_Møller,Henrik Thermansen Møller,Kristendemokraterne,8
+Fredericia,6,Søndermarken,O_Listestemmer,Listestemmer,Dansk Folkeparti,88
+Fredericia,6,Søndermarken,O_Susanne_Eilersen,Susanne Eilersen,Dansk Folkeparti,220
+Fredericia,6,Søndermarken,O_Lasse_Holmqvist,Lasse Holmqvist,Dansk Folkeparti,14
+Fredericia,6,Søndermarken,O_Bente_Rasmussen,Bente Rasmussen,Dansk Folkeparti,11
+Fredericia,6,Søndermarken,O_Inger_Nielsen,Inger Nielsen,Dansk Folkeparti,27
+Fredericia,6,Søndermarken,O_Palle_Dahl,Palle Dahl,Dansk Folkeparti,63
+Fredericia,6,Søndermarken,O_Charlotte_Møller-Madsen,Charlotte Møller-Madsen,Dansk Folkeparti,13
+Fredericia,6,Søndermarken,P_Listestemmer,Listestemmer,Frie Danske,3
+Fredericia,6,Søndermarken,P_Thor_Nielsen,Thor Nielsen,Frie Danske,2
+Fredericia,6,Søndermarken,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",175
+Fredericia,6,Søndermarken,V_Peder_Tind,Peder Tind,"Venstre, Danmarks Liberale Parti",383
+Fredericia,6,Søndermarken,V_Pernelle_Jensen,Pernelle Jensen,"Venstre, Danmarks Liberale Parti",100
+Fredericia,6,Søndermarken,V_Kenny_Bruun_Olsen,Kenny Bruun Olsen,"Venstre, Danmarks Liberale Parti",57
+Fredericia,6,Søndermarken,V_Christian_Jørgensen,Christian Jørgensen,"Venstre, Danmarks Liberale Parti",37
+Fredericia,6,Søndermarken,V_Niels_Martin_Vind,Niels Martin Vind,"Venstre, Danmarks Liberale Parti",72
+Fredericia,6,Søndermarken,V_Louis_Lindholm,Louis Lindholm,"Venstre, Danmarks Liberale Parti",60
+Fredericia,6,Søndermarken,V_Henrik_Eriksen,Henrik Eriksen,"Venstre, Danmarks Liberale Parti",22
+Fredericia,6,Søndermarken,V_Søren_Schou,Søren Schou,"Venstre, Danmarks Liberale Parti",10
+Fredericia,6,Søndermarken,V_Sebastian_Frifelt_Ordell,Sebastian Frifelt Ordell,"Venstre, Danmarks Liberale Parti",11
+Fredericia,6,Søndermarken,V_Annette_Bach_Laursen,Annette Bach Laursen,"Venstre, Danmarks Liberale Parti",9
+Fredericia,6,Søndermarken,V_John_Rasmussen,John Rasmussen,"Venstre, Danmarks Liberale Parti",12
+Fredericia,6,Søndermarken,V_Søren_Seidelin,Søren Seidelin,"Venstre, Danmarks Liberale Parti",12
+Fredericia,6,Søndermarken,V_Helene_Østergaard,Helene Østergaard,"Venstre, Danmarks Liberale Parti",6
+Fredericia,6,Søndermarken,Y_Listestemmer,Listestemmer,Borgerligt Fællesskab,8
+Fredericia,6,Søndermarken,Y_Kirstine_Holst,Kirstine Holst,Borgerligt Fællesskab,32
+Fredericia,6,Søndermarken,Y_Søren_Grøn_Stampe,Søren Grøn Stampe,Borgerligt Fællesskab,33
+Fredericia,6,Søndermarken,Y_Toke_Kieler,Toke Kieler,Borgerligt Fællesskab,9
+Fredericia,6,Søndermarken,Æ_Listestemmer,Listestemmer,Frihedslisten,2
+Fredericia,6,Søndermarken,Æ_Malene_Husted,Malene Husted,Frihedslisten,8
+Fredericia,6,Søndermarken,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,113
+Fredericia,6,Søndermarken,Ø_Cecilie_Roed_Schultz,Cecilie Roed Schultz,Enhedslisten - De Rød-Grønne,152
+Fredericia,6,Søndermarken,Ø_Maria_Sloth,Maria Sloth,Enhedslisten - De Rød-Grønne,15
+Fredericia,6,Søndermarken,Ø_Jan_Filbært,Jan Filbært,Enhedslisten - De Rød-Grønne,15
+Fredericia,6,Søndermarken,Ø_Mikkel_Martin,Mikkel Martin,Enhedslisten - De Rød-Grønne,3
+Fredericia,6,Søndermarken,Ø_Andreas_Bjerring_Tobiassen,Andreas Bjerring Tobiassen,Enhedslisten - De Rød-Grønne,30
+Fredericia,6,Søndermarken,Ø_Henning_Hartmeyer,Henning Hartmeyer,Enhedslisten - De Rød-Grønne,5
+Fredericia,6,Søndermarken,Ø_Marc_Hast_Knudsen,Marc Hast Knudsen,Enhedslisten - De Rød-Grønne,3
+Fredericia,6,Søndermarken,Ø_Frantz_Edeling,Frantz Edeling,Enhedslisten - De Rød-Grønne,2
+Fredericia,6,Søndermarken,Å_Listestemmer,Listestemmer,Alternativet,8
+Fredericia,6,Søndermarken,Å_Martin_Runager,Martin Runager,Alternativet,6
+Fredericia,6,Søndermarken,Å_Ecaterina_Pedersen,Ecaterina Pedersen,Alternativet,9
+Fredericia,6,Søndermarken,Å_Kim_Arthur,Kim Arthur,Alternativet,8
+Fredericia,6,Søndermarken,Å_Mads_Wiig_Ehmsen,Mads Wiig Ehmsen,Alternativet,7
+Fredericia,7,Bøgeskov,A_Listestemmer,Listestemmer,Socialdemokratiet,69
+Fredericia,7,Bøgeskov,A_Steen_Wrist,Steen Wrist,Socialdemokratiet,122
+Fredericia,7,Bøgeskov,A_Søren_Larsen,Søren Larsen,Socialdemokratiet,15
+Fredericia,7,Bøgeskov,A_Christian_Bro,Christian Bro,Socialdemokratiet,12
+Fredericia,7,Bøgeskov,A_John_Nyborg,John Nyborg,Socialdemokratiet,17
+Fredericia,7,Bøgeskov,A_Turan_Savas,Turan Savas,Socialdemokratiet,8
+Fredericia,7,Bøgeskov,A_Ole_Steen_Hansen,Ole Steen Hansen,Socialdemokratiet,30
+Fredericia,7,Bøgeskov,A_Bente_Ankersen,Bente Ankersen,Socialdemokratiet,35
+Fredericia,7,Bøgeskov,A_Anette_Hyre-Jensen,Anette Hyre-Jensen,Socialdemokratiet,6
+Fredericia,7,Bøgeskov,A_David_Gulløv,David Gulløv,Socialdemokratiet,8
+Fredericia,7,Bøgeskov,A_Vibe_Dyhrberg,Vibe Dyhrberg,Socialdemokratiet,23
+Fredericia,7,Bøgeskov,A_Oliver_Overgaard_Jessen,Oliver Overgaard Jessen,Socialdemokratiet,0
+Fredericia,7,Bøgeskov,A_Helle_Bang_Andersen,Helle Bang Andersen,Socialdemokratiet,2
+Fredericia,7,Bøgeskov,A_Lise_Nielson,Lise Nielson,Socialdemokratiet,2
+Fredericia,7,Bøgeskov,A_Charlotte_Høgedal,Charlotte Høgedal,Socialdemokratiet,3
+Fredericia,7,Bøgeskov,A_Hanne_Imer_Pedersen,Hanne Imer Pedersen,Socialdemokratiet,1
+Fredericia,7,Bøgeskov,A_Lene_Skovmark_Elsborg,Lene Skovmark Elsborg,Socialdemokratiet,2
+Fredericia,7,Bøgeskov,A_Lars_Midtgaard,Lars Midtgaard,Socialdemokratiet,0
+Fredericia,7,Bøgeskov,A_Dan_Ravn_Larsen,Dan Ravn Larsen,Socialdemokratiet,2
+Fredericia,7,Bøgeskov,A_Dorthe_Fallesen_Frimann,Dorthe Fallesen Frimann,Socialdemokratiet,20
+Fredericia,7,Bøgeskov,A_Carsten_Høj,Carsten Høj,Socialdemokratiet,2
+Fredericia,7,Bøgeskov,A_David_Ramm,David Ramm,Socialdemokratiet,0
+Fredericia,7,Bøgeskov,A_Finn_Muhs,Finn Muhs,Socialdemokratiet,3
+Fredericia,7,Bøgeskov,B_Listestemmer,Listestemmer,Radikale Venstre,6
+Fredericia,7,Bøgeskov,B_Kirsten_Vad_Knudsen,Kirsten Vad Knudsen,Radikale Venstre,10
+Fredericia,7,Bøgeskov,B_Nanna_Nørholm,Nanna Nørholm,Radikale Venstre,7
+Fredericia,7,Bøgeskov,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,46
+Fredericia,7,Bøgeskov,C_Tommy_Rachlitz_Nielsen,Tommy Rachlitz Nielsen,Det Konservative Folkeparti,29
+Fredericia,7,Bøgeskov,C_Kirsten_Hassing_Nielsen,Kirsten Hassing Nielsen,Det Konservative Folkeparti,27
+Fredericia,7,Bøgeskov,C_Henriette_C._Jensen,Henriette C. Jensen,Det Konservative Folkeparti,8
+Fredericia,7,Bøgeskov,C_Poul_Sørensen,Poul Sørensen,Det Konservative Folkeparti,47
+Fredericia,7,Bøgeskov,C_Julian_Infante_Brahe_Jørgensen,Julian Infante Brahe Jørgensen,Det Konservative Folkeparti,2
+Fredericia,7,Bøgeskov,C_Leif_Carlsen,Leif Carlsen,Det Konservative Folkeparti,0
+Fredericia,7,Bøgeskov,C_Sebastian_Erlandsen,Sebastian Erlandsen,Det Konservative Folkeparti,3
+Fredericia,7,Bøgeskov,C_Søren_Bak,Søren Bak,Det Konservative Folkeparti,1
+Fredericia,7,Bøgeskov,D_Listestemmer,Listestemmer,Nye Borgerlige,16
+Fredericia,7,Bøgeskov,D_Karsten_Byrgesen,Karsten Byrgesen,Nye Borgerlige,49
+Fredericia,7,Bøgeskov,D_Bent_Troelsen,Bent Troelsen,Nye Borgerlige,8
+Fredericia,7,Bøgeskov,D_Johnny_Majgård,Johnny Majgård,Nye Borgerlige,1
+Fredericia,7,Bøgeskov,D_Torben_Sten_Nielsen,Torben Sten Nielsen,Nye Borgerlige,0
+Fredericia,7,Bøgeskov,D_Hanneann_Phillina_Noell_Pedersen,Hanneann Phillina Noell Pedersen,Nye Borgerlige,3
+Fredericia,7,Bøgeskov,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,20
+Fredericia,7,Bøgeskov,F_Connie_Maybrith_Jørgensen,Connie Maybrith Jørgensen,SF - Socialistisk Folkeparti,15
+Fredericia,7,Bøgeskov,F_Jonas_Straarup_Christensen,Jonas Straarup Christensen,SF - Socialistisk Folkeparti,5
+Fredericia,7,Bøgeskov,F_Lars_Olesen,Lars Olesen,SF - Socialistisk Folkeparti,1
+Fredericia,7,Bøgeskov,F_Bent_Bregendahl,Bent Bregendahl,SF - Socialistisk Folkeparti,0
+Fredericia,7,Bøgeskov,F_Malene_Søgaard-Andersen,Malene Søgaard-Andersen,SF - Socialistisk Folkeparti,3
+Fredericia,7,Bøgeskov,F_Henning_Troelsen,Henning Troelsen,SF - Socialistisk Folkeparti,2
+Fredericia,7,Bøgeskov,F_Amina_M._Jawed,Amina M. Jawed,SF - Socialistisk Folkeparti,0
+Fredericia,7,Bøgeskov,F_Birgitte_Moos_Laursen,Birgitte Moos Laursen,SF - Socialistisk Folkeparti,0
+Fredericia,7,Bøgeskov,F_Per_A._Moos_Laursen,Per A. Moos Laursen,SF - Socialistisk Folkeparti,1
+Fredericia,7,Bøgeskov,F_Leif_Jørgensen,Leif Jørgensen,SF - Socialistisk Folkeparti,0
+Fredericia,7,Bøgeskov,F_Bo_Bergstrøm,Bo Bergstrøm,SF - Socialistisk Folkeparti,0
+Fredericia,7,Bøgeskov,I_Listestemmer,Listestemmer,Liberal Alliance,1
+Fredericia,7,Bøgeskov,I_Poul_Rand,Poul Rand,Liberal Alliance,0
+Fredericia,7,Bøgeskov,I_Anders_Wienberg_Jensen,Anders Wienberg Jensen,Liberal Alliance,0
+Fredericia,7,Bøgeskov,K_Listestemmer,Listestemmer,Kristendemokraterne,1
+Fredericia,7,Bøgeskov,K_Henrik_Thermansen_Møller,Henrik Thermansen Møller,Kristendemokraterne,4
+Fredericia,7,Bøgeskov,O_Listestemmer,Listestemmer,Dansk Folkeparti,25
+Fredericia,7,Bøgeskov,O_Susanne_Eilersen,Susanne Eilersen,Dansk Folkeparti,26
+Fredericia,7,Bøgeskov,O_Lasse_Holmqvist,Lasse Holmqvist,Dansk Folkeparti,3
+Fredericia,7,Bøgeskov,O_Bente_Rasmussen,Bente Rasmussen,Dansk Folkeparti,1
+Fredericia,7,Bøgeskov,O_Inger_Nielsen,Inger Nielsen,Dansk Folkeparti,6
+Fredericia,7,Bøgeskov,O_Palle_Dahl,Palle Dahl,Dansk Folkeparti,11
+Fredericia,7,Bøgeskov,O_Charlotte_Møller-Madsen,Charlotte Møller-Madsen,Dansk Folkeparti,9
+Fredericia,7,Bøgeskov,P_Listestemmer,Listestemmer,Frie Danske,0
+Fredericia,7,Bøgeskov,P_Thor_Nielsen,Thor Nielsen,Frie Danske,1
+Fredericia,7,Bøgeskov,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",51
+Fredericia,7,Bøgeskov,V_Peder_Tind,Peder Tind,"Venstre, Danmarks Liberale Parti",77
+Fredericia,7,Bøgeskov,V_Pernelle_Jensen,Pernelle Jensen,"Venstre, Danmarks Liberale Parti",40
+Fredericia,7,Bøgeskov,V_Kenny_Bruun_Olsen,Kenny Bruun Olsen,"Venstre, Danmarks Liberale Parti",30
+Fredericia,7,Bøgeskov,V_Christian_Jørgensen,Christian Jørgensen,"Venstre, Danmarks Liberale Parti",5
+Fredericia,7,Bøgeskov,V_Niels_Martin_Vind,Niels Martin Vind,"Venstre, Danmarks Liberale Parti",36
+Fredericia,7,Bøgeskov,V_Louis_Lindholm,Louis Lindholm,"Venstre, Danmarks Liberale Parti",26
+Fredericia,7,Bøgeskov,V_Henrik_Eriksen,Henrik Eriksen,"Venstre, Danmarks Liberale Parti",14
+Fredericia,7,Bøgeskov,V_Søren_Schou,Søren Schou,"Venstre, Danmarks Liberale Parti",1
+Fredericia,7,Bøgeskov,V_Sebastian_Frifelt_Ordell,Sebastian Frifelt Ordell,"Venstre, Danmarks Liberale Parti",1
+Fredericia,7,Bøgeskov,V_Annette_Bach_Laursen,Annette Bach Laursen,"Venstre, Danmarks Liberale Parti",16
+Fredericia,7,Bøgeskov,V_John_Rasmussen,John Rasmussen,"Venstre, Danmarks Liberale Parti",4
+Fredericia,7,Bøgeskov,V_Søren_Seidelin,Søren Seidelin,"Venstre, Danmarks Liberale Parti",2
+Fredericia,7,Bøgeskov,V_Helene_Østergaard,Helene Østergaard,"Venstre, Danmarks Liberale Parti",0
+Fredericia,7,Bøgeskov,Y_Listestemmer,Listestemmer,Borgerligt Fællesskab,1
+Fredericia,7,Bøgeskov,Y_Kirstine_Holst,Kirstine Holst,Borgerligt Fællesskab,9
+Fredericia,7,Bøgeskov,Y_Søren_Grøn_Stampe,Søren Grøn Stampe,Borgerligt Fællesskab,4
+Fredericia,7,Bøgeskov,Y_Toke_Kieler,Toke Kieler,Borgerligt Fællesskab,0
+Fredericia,7,Bøgeskov,Æ_Listestemmer,Listestemmer,Frihedslisten,1
+Fredericia,7,Bøgeskov,Æ_Malene_Husted,Malene Husted,Frihedslisten,3
+Fredericia,7,Bøgeskov,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,5
+Fredericia,7,Bøgeskov,Ø_Cecilie_Roed_Schultz,Cecilie Roed Schultz,Enhedslisten - De Rød-Grønne,54
+Fredericia,7,Bøgeskov,Ø_Maria_Sloth,Maria Sloth,Enhedslisten - De Rød-Grønne,4
+Fredericia,7,Bøgeskov,Ø_Jan_Filbært,Jan Filbært,Enhedslisten - De Rød-Grønne,2
+Fredericia,7,Bøgeskov,Ø_Mikkel_Martin,Mikkel Martin,Enhedslisten - De Rød-Grønne,0
+Fredericia,7,Bøgeskov,Ø_Andreas_Bjerring_Tobiassen,Andreas Bjerring Tobiassen,Enhedslisten - De Rød-Grønne,0
+Fredericia,7,Bøgeskov,Ø_Henning_Hartmeyer,Henning Hartmeyer,Enhedslisten - De Rød-Grønne,1
+Fredericia,7,Bøgeskov,Ø_Marc_Hast_Knudsen,Marc Hast Knudsen,Enhedslisten - De Rød-Grønne,0
+Fredericia,7,Bøgeskov,Ø_Frantz_Edeling,Frantz Edeling,Enhedslisten - De Rød-Grønne,0
+Fredericia,7,Bøgeskov,Å_Listestemmer,Listestemmer,Alternativet,1
+Fredericia,7,Bøgeskov,Å_Martin_Runager,Martin Runager,Alternativet,1
+Fredericia,7,Bøgeskov,Å_Ecaterina_Pedersen,Ecaterina Pedersen,Alternativet,1
+Fredericia,7,Bøgeskov,Å_Kim_Arthur,Kim Arthur,Alternativet,0
+Fredericia,7,Bøgeskov,Å_Mads_Wiig_Ehmsen,Mads Wiig Ehmsen,Alternativet,0
+Fredericia,8,Indre By,A_Listestemmer,Listestemmer,Socialdemokratiet,239
+Fredericia,8,Indre By,A_Steen_Wrist,Steen Wrist,Socialdemokratiet,393
+Fredericia,8,Indre By,A_Søren_Larsen,Søren Larsen,Socialdemokratiet,24
+Fredericia,8,Indre By,A_Christian_Bro,Christian Bro,Socialdemokratiet,28
+Fredericia,8,Indre By,A_John_Nyborg,John Nyborg,Socialdemokratiet,39
+Fredericia,8,Indre By,A_Turan_Savas,Turan Savas,Socialdemokratiet,35
+Fredericia,8,Indre By,A_Ole_Steen_Hansen,Ole Steen Hansen,Socialdemokratiet,58
+Fredericia,8,Indre By,A_Bente_Ankersen,Bente Ankersen,Socialdemokratiet,39
+Fredericia,8,Indre By,A_Anette_Hyre-Jensen,Anette Hyre-Jensen,Socialdemokratiet,32
+Fredericia,8,Indre By,A_David_Gulløv,David Gulløv,Socialdemokratiet,47
+Fredericia,8,Indre By,A_Vibe_Dyhrberg,Vibe Dyhrberg,Socialdemokratiet,49
+Fredericia,8,Indre By,A_Oliver_Overgaard_Jessen,Oliver Overgaard Jessen,Socialdemokratiet,15
+Fredericia,8,Indre By,A_Helle_Bang_Andersen,Helle Bang Andersen,Socialdemokratiet,9
+Fredericia,8,Indre By,A_Lise_Nielson,Lise Nielson,Socialdemokratiet,23
+Fredericia,8,Indre By,A_Charlotte_Høgedal,Charlotte Høgedal,Socialdemokratiet,10
+Fredericia,8,Indre By,A_Hanne_Imer_Pedersen,Hanne Imer Pedersen,Socialdemokratiet,7
+Fredericia,8,Indre By,A_Lene_Skovmark_Elsborg,Lene Skovmark Elsborg,Socialdemokratiet,33
+Fredericia,8,Indre By,A_Lars_Midtgaard,Lars Midtgaard,Socialdemokratiet,0
+Fredericia,8,Indre By,A_Dan_Ravn_Larsen,Dan Ravn Larsen,Socialdemokratiet,6
+Fredericia,8,Indre By,A_Dorthe_Fallesen_Frimann,Dorthe Fallesen Frimann,Socialdemokratiet,25
+Fredericia,8,Indre By,A_Carsten_Høj,Carsten Høj,Socialdemokratiet,17
+Fredericia,8,Indre By,A_David_Ramm,David Ramm,Socialdemokratiet,2
+Fredericia,8,Indre By,A_Finn_Muhs,Finn Muhs,Socialdemokratiet,33
+Fredericia,8,Indre By,B_Listestemmer,Listestemmer,Radikale Venstre,16
+Fredericia,8,Indre By,B_Kirsten_Vad_Knudsen,Kirsten Vad Knudsen,Radikale Venstre,22
+Fredericia,8,Indre By,B_Nanna_Nørholm,Nanna Nørholm,Radikale Venstre,13
+Fredericia,8,Indre By,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,89
+Fredericia,8,Indre By,C_Tommy_Rachlitz_Nielsen,Tommy Rachlitz Nielsen,Det Konservative Folkeparti,91
+Fredericia,8,Indre By,C_Kirsten_Hassing_Nielsen,Kirsten Hassing Nielsen,Det Konservative Folkeparti,30
+Fredericia,8,Indre By,C_Henriette_C._Jensen,Henriette C. Jensen,Det Konservative Folkeparti,13
+Fredericia,8,Indre By,C_Poul_Sørensen,Poul Sørensen,Det Konservative Folkeparti,26
+Fredericia,8,Indre By,C_Julian_Infante_Brahe_Jørgensen,Julian Infante Brahe Jørgensen,Det Konservative Folkeparti,8
+Fredericia,8,Indre By,C_Leif_Carlsen,Leif Carlsen,Det Konservative Folkeparti,8
+Fredericia,8,Indre By,C_Sebastian_Erlandsen,Sebastian Erlandsen,Det Konservative Folkeparti,2
+Fredericia,8,Indre By,C_Søren_Bak,Søren Bak,Det Konservative Folkeparti,26
+Fredericia,8,Indre By,D_Listestemmer,Listestemmer,Nye Borgerlige,59
+Fredericia,8,Indre By,D_Karsten_Byrgesen,Karsten Byrgesen,Nye Borgerlige,96
+Fredericia,8,Indre By,D_Bent_Troelsen,Bent Troelsen,Nye Borgerlige,10
+Fredericia,8,Indre By,D_Johnny_Majgård,Johnny Majgård,Nye Borgerlige,2
+Fredericia,8,Indre By,D_Torben_Sten_Nielsen,Torben Sten Nielsen,Nye Borgerlige,11
+Fredericia,8,Indre By,D_Hanneann_Phillina_Noell_Pedersen,Hanneann Phillina Noell Pedersen,Nye Borgerlige,6
+Fredericia,8,Indre By,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,69
+Fredericia,8,Indre By,F_Connie_Maybrith_Jørgensen,Connie Maybrith Jørgensen,SF - Socialistisk Folkeparti,46
+Fredericia,8,Indre By,F_Jonas_Straarup_Christensen,Jonas Straarup Christensen,SF - Socialistisk Folkeparti,10
+Fredericia,8,Indre By,F_Lars_Olesen,Lars Olesen,SF - Socialistisk Folkeparti,10
+Fredericia,8,Indre By,F_Bent_Bregendahl,Bent Bregendahl,SF - Socialistisk Folkeparti,1
+Fredericia,8,Indre By,F_Malene_Søgaard-Andersen,Malene Søgaard-Andersen,SF - Socialistisk Folkeparti,5
+Fredericia,8,Indre By,F_Henning_Troelsen,Henning Troelsen,SF - Socialistisk Folkeparti,5
+Fredericia,8,Indre By,F_Amina_M._Jawed,Amina M. Jawed,SF - Socialistisk Folkeparti,4
+Fredericia,8,Indre By,F_Birgitte_Moos_Laursen,Birgitte Moos Laursen,SF - Socialistisk Folkeparti,1
+Fredericia,8,Indre By,F_Per_A._Moos_Laursen,Per A. Moos Laursen,SF - Socialistisk Folkeparti,2
+Fredericia,8,Indre By,F_Leif_Jørgensen,Leif Jørgensen,SF - Socialistisk Folkeparti,0
+Fredericia,8,Indre By,F_Bo_Bergstrøm,Bo Bergstrøm,SF - Socialistisk Folkeparti,4
+Fredericia,8,Indre By,I_Listestemmer,Listestemmer,Liberal Alliance,15
+Fredericia,8,Indre By,I_Poul_Rand,Poul Rand,Liberal Alliance,11
+Fredericia,8,Indre By,I_Anders_Wienberg_Jensen,Anders Wienberg Jensen,Liberal Alliance,1
+Fredericia,8,Indre By,K_Listestemmer,Listestemmer,Kristendemokraterne,1
+Fredericia,8,Indre By,K_Henrik_Thermansen_Møller,Henrik Thermansen Møller,Kristendemokraterne,0
+Fredericia,8,Indre By,O_Listestemmer,Listestemmer,Dansk Folkeparti,52
+Fredericia,8,Indre By,O_Susanne_Eilersen,Susanne Eilersen,Dansk Folkeparti,112
+Fredericia,8,Indre By,O_Lasse_Holmqvist,Lasse Holmqvist,Dansk Folkeparti,10
+Fredericia,8,Indre By,O_Bente_Rasmussen,Bente Rasmussen,Dansk Folkeparti,5
+Fredericia,8,Indre By,O_Inger_Nielsen,Inger Nielsen,Dansk Folkeparti,14
+Fredericia,8,Indre By,O_Palle_Dahl,Palle Dahl,Dansk Folkeparti,13
+Fredericia,8,Indre By,O_Charlotte_Møller-Madsen,Charlotte Møller-Madsen,Dansk Folkeparti,16
+Fredericia,8,Indre By,P_Listestemmer,Listestemmer,Frie Danske,0
+Fredericia,8,Indre By,P_Thor_Nielsen,Thor Nielsen,Frie Danske,8
+Fredericia,8,Indre By,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",144
+Fredericia,8,Indre By,V_Peder_Tind,Peder Tind,"Venstre, Danmarks Liberale Parti",179
+Fredericia,8,Indre By,V_Pernelle_Jensen,Pernelle Jensen,"Venstre, Danmarks Liberale Parti",55
+Fredericia,8,Indre By,V_Kenny_Bruun_Olsen,Kenny Bruun Olsen,"Venstre, Danmarks Liberale Parti",38
+Fredericia,8,Indre By,V_Christian_Jørgensen,Christian Jørgensen,"Venstre, Danmarks Liberale Parti",37
+Fredericia,8,Indre By,V_Niels_Martin_Vind,Niels Martin Vind,"Venstre, Danmarks Liberale Parti",28
+Fredericia,8,Indre By,V_Louis_Lindholm,Louis Lindholm,"Venstre, Danmarks Liberale Parti",25
+Fredericia,8,Indre By,V_Henrik_Eriksen,Henrik Eriksen,"Venstre, Danmarks Liberale Parti",18
+Fredericia,8,Indre By,V_Søren_Schou,Søren Schou,"Venstre, Danmarks Liberale Parti",5
+Fredericia,8,Indre By,V_Sebastian_Frifelt_Ordell,Sebastian Frifelt Ordell,"Venstre, Danmarks Liberale Parti",15
+Fredericia,8,Indre By,V_Annette_Bach_Laursen,Annette Bach Laursen,"Venstre, Danmarks Liberale Parti",7
+Fredericia,8,Indre By,V_John_Rasmussen,John Rasmussen,"Venstre, Danmarks Liberale Parti",9
+Fredericia,8,Indre By,V_Søren_Seidelin,Søren Seidelin,"Venstre, Danmarks Liberale Parti",6
+Fredericia,8,Indre By,V_Helene_Østergaard,Helene Østergaard,"Venstre, Danmarks Liberale Parti",2
+Fredericia,8,Indre By,Y_Listestemmer,Listestemmer,Borgerligt Fællesskab,4
+Fredericia,8,Indre By,Y_Kirstine_Holst,Kirstine Holst,Borgerligt Fællesskab,21
+Fredericia,8,Indre By,Y_Søren_Grøn_Stampe,Søren Grøn Stampe,Borgerligt Fællesskab,9
+Fredericia,8,Indre By,Y_Toke_Kieler,Toke Kieler,Borgerligt Fællesskab,3
+Fredericia,8,Indre By,Æ_Listestemmer,Listestemmer,Frihedslisten,4
+Fredericia,8,Indre By,Æ_Malene_Husted,Malene Husted,Frihedslisten,6
+Fredericia,8,Indre By,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,90
+Fredericia,8,Indre By,Ø_Cecilie_Roed_Schultz,Cecilie Roed Schultz,Enhedslisten - De Rød-Grønne,174
+Fredericia,8,Indre By,Ø_Maria_Sloth,Maria Sloth,Enhedslisten - De Rød-Grønne,13
+Fredericia,8,Indre By,Ø_Jan_Filbært,Jan Filbært,Enhedslisten - De Rød-Grønne,6
+Fredericia,8,Indre By,Ø_Mikkel_Martin,Mikkel Martin,Enhedslisten - De Rød-Grønne,5
+Fredericia,8,Indre By,Ø_Andreas_Bjerring_Tobiassen,Andreas Bjerring Tobiassen,Enhedslisten - De Rød-Grønne,9
+Fredericia,8,Indre By,Ø_Henning_Hartmeyer,Henning Hartmeyer,Enhedslisten - De Rød-Grønne,1
+Fredericia,8,Indre By,Ø_Marc_Hast_Knudsen,Marc Hast Knudsen,Enhedslisten - De Rød-Grønne,5
+Fredericia,8,Indre By,Ø_Frantz_Edeling,Frantz Edeling,Enhedslisten - De Rød-Grønne,5
+Fredericia,8,Indre By,Å_Listestemmer,Listestemmer,Alternativet,13
+Fredericia,8,Indre By,Å_Martin_Runager,Martin Runager,Alternativet,7
+Fredericia,8,Indre By,Å_Ecaterina_Pedersen,Ecaterina Pedersen,Alternativet,8
+Fredericia,8,Indre By,Å_Kim_Arthur,Kim Arthur,Alternativet,7
+Fredericia,8,Indre By,Å_Mads_Wiig_Ehmsen,Mads Wiig Ehmsen,Alternativet,11

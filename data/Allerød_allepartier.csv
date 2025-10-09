@@ -1,0 +1,391 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Allerød,1,Blovstrød,A_Listestemmer,Listestemmer,Socialdemokratiet,54
+Allerød,1,Blovstrød,A_Miki_Dam_Larsen,Miki Dam Larsen,Socialdemokratiet,49
+Allerød,1,Blovstrød,A_Jesper_Holdflod_Pallesen,Jesper Holdflod Pallesen,Socialdemokratiet,11
+Allerød,1,Blovstrød,A_Vibeke_Højbjerg,Vibeke Højbjerg,Socialdemokratiet,23
+Allerød,1,Blovstrød,A_Nicolai_Pallisborg,Nicolai Pallisborg,Socialdemokratiet,34
+Allerød,1,Blovstrød,A_Theodore_Gbouable,Theodore Gbouable,Socialdemokratiet,2
+Allerød,1,Blovstrød,A_Alice_Silkjær,Alice Silkjær,Socialdemokratiet,8
+Allerød,1,Blovstrød,A_Gitte_Gross,Gitte Gross,Socialdemokratiet,18
+Allerød,1,Blovstrød,A_Kasper_Ljung_Pedersen,Kasper Ljung Pedersen,Socialdemokratiet,3
+Allerød,1,Blovstrød,A_Niels_Christian_Dahl,Niels Christian Dahl,Socialdemokratiet,6
+Allerød,1,Blovstrød,A_Finn_Serup_Jensen,Finn Serup Jensen,Socialdemokratiet,0
+Allerød,1,Blovstrød,A_Birgitte_Greby,Birgitte Greby,Socialdemokratiet,11
+Allerød,1,Blovstrød,B_Listestemmer,Listestemmer,Radikale Venstre,40
+Allerød,1,Blovstrød,"B_Merete_Them_Kjølholm,_Lillerød","Merete Them Kjølholm, Lillerød",Radikale Venstre,53
+Allerød,1,Blovstrød,"B_Rune_Sixtus_Glæser,_Blovstrød","Rune Sixtus Glæser, Blovstrød",Radikale Venstre,47
+Allerød,1,Blovstrød,"B_Jytte_Agerup,_Lillerød","Jytte Agerup, Lillerød",Radikale Venstre,10
+Allerød,1,Blovstrød,"B_Carsten_Brechling_Andersen,_Lynge","Carsten Brechling Andersen, Lynge",Radikale Venstre,1
+Allerød,1,Blovstrød,"B_Vibeke_Arndt_Skak_Jensen,_Lillerød","Vibeke Arndt Skak Jensen, Lillerød",Radikale Venstre,12
+Allerød,1,Blovstrød,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,119
+Allerød,1,Blovstrød,C_Jørgen_Johansen,Jørgen Johansen,Det Konservative Folkeparti,153
+Allerød,1,Blovstrød,C_Erik_Lund,Erik Lund,Det Konservative Folkeparti,34
+Allerød,1,Blovstrød,C_Lars_Bacher,Lars Bacher,Det Konservative Folkeparti,9
+Allerød,1,Blovstrød,C_Martin_H._Wolffbrandt,Martin H. Wolffbrandt,Det Konservative Folkeparti,72
+Allerød,1,Blovstrød,C_Bettina_Løgager,Bettina Løgager,Det Konservative Folkeparti,32
+Allerød,1,Blovstrød,C_Faruk_Kilic,Faruk Kilic,Det Konservative Folkeparti,7
+Allerød,1,Blovstrød,C_Thomas_Frisch,Thomas Frisch,Det Konservative Folkeparti,17
+Allerød,1,Blovstrød,C_Eric_Lerdrup_Bourgois,Eric Lerdrup Bourgois,Det Konservative Folkeparti,16
+Allerød,1,Blovstrød,C_Kim_Holmstrøm,Kim Holmstrøm,Det Konservative Folkeparti,10
+Allerød,1,Blovstrød,C_Jeanette_Oxfeldt,Jeanette Oxfeldt,Det Konservative Folkeparti,5
+Allerød,1,Blovstrød,C_Søsser_Grønnegård,Søsser Grønnegård,Det Konservative Folkeparti,6
+Allerød,1,Blovstrød,C_Torbjørn_Barfod,Torbjørn Barfod,Det Konservative Folkeparti,5
+Allerød,1,Blovstrød,C_Leif_Johansen,Leif Johansen,Det Konservative Folkeparti,53
+Allerød,1,Blovstrød,C_René_Nicklas_Wendt,René Nicklas Wendt,Det Konservative Folkeparti,0
+Allerød,1,Blovstrød,D_Listestemmer,Listestemmer,Nye Borgerlige,32
+Allerød,1,Blovstrød,D_John_Jensen,John Jensen,Nye Borgerlige,12
+Allerød,1,Blovstrød,D_Jacob_Beer,Jacob Beer,Nye Borgerlige,13
+Allerød,1,Blovstrød,D_Joan_Blomsterberg,Joan Blomsterberg,Nye Borgerlige,2
+Allerød,1,Blovstrød,D_John_Hammer,John Hammer,Nye Borgerlige,2
+Allerød,1,Blovstrød,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,69
+Allerød,1,Blovstrød,F_Nikolaj_Bührmann,Nikolaj Bührmann,SF - Socialistisk Folkeparti,62
+Allerød,1,Blovstrød,F_Anders_Damm-Frydenberg,Anders Damm-Frydenberg,SF - Socialistisk Folkeparti,22
+Allerød,1,Blovstrød,F_Kurt_Koudahl_Petersen,Kurt Koudahl Petersen,SF - Socialistisk Folkeparti,7
+Allerød,1,Blovstrød,F_Signe_Schløer,Signe Schløer,SF - Socialistisk Folkeparti,91
+Allerød,1,Blovstrød,F_Jørgen_Ekstrøm_Jakobsen,Jørgen Ekstrøm Jakobsen,SF - Socialistisk Folkeparti,32
+Allerød,1,Blovstrød,F_Nina_Madsen,Nina Madsen,SF - Socialistisk Folkeparti,3
+Allerød,1,Blovstrød,F_Jalila_Rachdi,Jalila Rachdi,SF - Socialistisk Folkeparti,3
+Allerød,1,Blovstrød,F_Camilla_Damm-Frydenberg,Camilla Damm-Frydenberg,SF - Socialistisk Folkeparti,3
+Allerød,1,Blovstrød,F_Flemming_Langhans,Flemming Langhans,SF - Socialistisk Folkeparti,0
+Allerød,1,Blovstrød,F_Ole_Holm-Møller,Ole Holm-Møller,SF - Socialistisk Folkeparti,0
+Allerød,1,Blovstrød,I_Listestemmer,Listestemmer,Liberal Alliance,5
+Allerød,1,Blovstrød,I_Christian_Hauge_Lundgaard,Christian Hauge Lundgaard,Liberal Alliance,8
+Allerød,1,Blovstrød,I_Steffen_Møller,Steffen Møller,Liberal Alliance,2
+Allerød,1,Blovstrød,O_Listestemmer,Listestemmer,Dansk Folkeparti,11
+Allerød,1,Blovstrød,O_Vagn_Lund,Vagn Lund,Dansk Folkeparti,3
+Allerød,1,Blovstrød,Q_Listestemmer,Listestemmer,Feministisk Initiativ,1
+Allerød,1,Blovstrød,"Q_Sally_Dorthea_Fischer,_Blovstrød","Sally Dorthea Fischer, Blovstrød",Feministisk Initiativ,6
+Allerød,1,Blovstrød,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",82
+Allerød,1,Blovstrød,"V_Karsten_Längerich,_Lillerød","Karsten Längerich, Lillerød","Venstre, Danmarks Liberale Parti",79
+Allerød,1,Blovstrød,"V_Clara_Rao,_Lillerød","Clara Rao, Lillerød","Venstre, Danmarks Liberale Parti",72
+Allerød,1,Blovstrød,"V_Lisbeth_Skov,_Lynge","Lisbeth Skov, Lynge","Venstre, Danmarks Liberale Parti",5
+Allerød,1,Blovstrød,"V_Michael_Nørregaard,_Lillerød","Michael Nørregaard, Lillerød","Venstre, Danmarks Liberale Parti",18
+Allerød,1,Blovstrød,"V_Anders_Glümer,_Blovstrød","Anders Glümer, Blovstrød","Venstre, Danmarks Liberale Parti",195
+Allerød,1,Blovstrød,"V_Jacob_Bach_Meldal,_Lillerød","Jacob Bach Meldal, Lillerød","Venstre, Danmarks Liberale Parti",6
+Allerød,1,Blovstrød,"V_Niels_Kirkegaard,_Blovstrød","Niels Kirkegaard, Blovstrød","Venstre, Danmarks Liberale Parti",34
+Allerød,1,Blovstrød,"V_Kitt_Svane,_Blovstrød","Kitt Svane, Blovstrød","Venstre, Danmarks Liberale Parti",30
+Allerød,1,Blovstrød,"V_Esben_Buchwald,_Lynge","Esben Buchwald, Lynge","Venstre, Danmarks Liberale Parti",6
+Allerød,1,Blovstrød,"V_Erling_Petersen,_Lynge","Erling Petersen, Lynge","Venstre, Danmarks Liberale Parti",37
+Allerød,1,Blovstrød,"V_Carsten_Rasmussen,_Lillerød","Carsten Rasmussen, Lillerød","Venstre, Danmarks Liberale Parti",2
+Allerød,1,Blovstrød,"V_Helle_Kramp,_Lillerød","Helle Kramp, Lillerød","Venstre, Danmarks Liberale Parti",0
+Allerød,1,Blovstrød,"V_Peter_Rysgaard,_Lillerød","Peter Rysgaard, Lillerød","Venstre, Danmarks Liberale Parti",0
+Allerød,1,Blovstrød,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,39
+Allerød,1,Blovstrød,"Ø_Emil_Ulrik_Andersen,_Blovstrød","Emil Ulrik Andersen, Blovstrød",Enhedslisten - De Rød-Grønne,37
+Allerød,1,Blovstrød,"Ø_Tune_Revsgaard_Nielsen,_Blovstrød","Tune Revsgaard Nielsen, Blovstrød",Enhedslisten - De Rød-Grønne,65
+Allerød,1,Blovstrød,"Ø_Søs_Nissen,_Lillerød","Søs Nissen, Lillerød",Enhedslisten - De Rød-Grønne,17
+Allerød,1,Blovstrød,"Ø_Lars_Juel_Sørensen,_Lynge","Lars Juel Sørensen, Lynge",Enhedslisten - De Rød-Grønne,7
+Allerød,1,Blovstrød,"Ø_Dorte_Reehaug,_Allerød","Dorte Reehaug, Allerød",Enhedslisten - De Rød-Grønne,1
+Allerød,1,Blovstrød,"Ø_Anja_Miehe-Renard,_Lynge","Anja Miehe-Renard, Lynge",Enhedslisten - De Rød-Grønne,1
+Allerød,1,Blovstrød,"Ø_Troels_Jacobsen,_Nymølle","Troels Jacobsen, Nymølle",Enhedslisten - De Rød-Grønne,0
+Allerød,2,Skovvang,A_Listestemmer,Listestemmer,Socialdemokratiet,138
+Allerød,2,Skovvang,A_Miki_Dam_Larsen,Miki Dam Larsen,Socialdemokratiet,158
+Allerød,2,Skovvang,A_Jesper_Holdflod_Pallesen,Jesper Holdflod Pallesen,Socialdemokratiet,77
+Allerød,2,Skovvang,A_Vibeke_Højbjerg,Vibeke Højbjerg,Socialdemokratiet,41
+Allerød,2,Skovvang,A_Nicolai_Pallisborg,Nicolai Pallisborg,Socialdemokratiet,12
+Allerød,2,Skovvang,A_Theodore_Gbouable,Theodore Gbouable,Socialdemokratiet,19
+Allerød,2,Skovvang,A_Alice_Silkjær,Alice Silkjær,Socialdemokratiet,29
+Allerød,2,Skovvang,A_Gitte_Gross,Gitte Gross,Socialdemokratiet,46
+Allerød,2,Skovvang,A_Kasper_Ljung_Pedersen,Kasper Ljung Pedersen,Socialdemokratiet,11
+Allerød,2,Skovvang,A_Niels_Christian_Dahl,Niels Christian Dahl,Socialdemokratiet,7
+Allerød,2,Skovvang,A_Finn_Serup_Jensen,Finn Serup Jensen,Socialdemokratiet,5
+Allerød,2,Skovvang,A_Birgitte_Greby,Birgitte Greby,Socialdemokratiet,15
+Allerød,2,Skovvang,B_Listestemmer,Listestemmer,Radikale Venstre,66
+Allerød,2,Skovvang,"B_Merete_Them_Kjølholm,_Lillerød","Merete Them Kjølholm, Lillerød",Radikale Venstre,81
+Allerød,2,Skovvang,"B_Rune_Sixtus_Glæser,_Blovstrød","Rune Sixtus Glæser, Blovstrød",Radikale Venstre,5
+Allerød,2,Skovvang,"B_Jytte_Agerup,_Lillerød","Jytte Agerup, Lillerød",Radikale Venstre,27
+Allerød,2,Skovvang,"B_Carsten_Brechling_Andersen,_Lynge","Carsten Brechling Andersen, Lynge",Radikale Venstre,1
+Allerød,2,Skovvang,"B_Vibeke_Arndt_Skak_Jensen,_Lillerød","Vibeke Arndt Skak Jensen, Lillerød",Radikale Venstre,21
+Allerød,2,Skovvang,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,158
+Allerød,2,Skovvang,C_Jørgen_Johansen,Jørgen Johansen,Det Konservative Folkeparti,289
+Allerød,2,Skovvang,C_Erik_Lund,Erik Lund,Det Konservative Folkeparti,192
+Allerød,2,Skovvang,C_Lars_Bacher,Lars Bacher,Det Konservative Folkeparti,23
+Allerød,2,Skovvang,C_Martin_H._Wolffbrandt,Martin H. Wolffbrandt,Det Konservative Folkeparti,11
+Allerød,2,Skovvang,C_Bettina_Løgager,Bettina Løgager,Det Konservative Folkeparti,57
+Allerød,2,Skovvang,C_Faruk_Kilic,Faruk Kilic,Det Konservative Folkeparti,55
+Allerød,2,Skovvang,C_Thomas_Frisch,Thomas Frisch,Det Konservative Folkeparti,29
+Allerød,2,Skovvang,C_Eric_Lerdrup_Bourgois,Eric Lerdrup Bourgois,Det Konservative Folkeparti,28
+Allerød,2,Skovvang,C_Kim_Holmstrøm,Kim Holmstrøm,Det Konservative Folkeparti,11
+Allerød,2,Skovvang,C_Jeanette_Oxfeldt,Jeanette Oxfeldt,Det Konservative Folkeparti,9
+Allerød,2,Skovvang,C_Søsser_Grønnegård,Søsser Grønnegård,Det Konservative Folkeparti,10
+Allerød,2,Skovvang,C_Torbjørn_Barfod,Torbjørn Barfod,Det Konservative Folkeparti,2
+Allerød,2,Skovvang,C_Leif_Johansen,Leif Johansen,Det Konservative Folkeparti,4
+Allerød,2,Skovvang,C_René_Nicklas_Wendt,René Nicklas Wendt,Det Konservative Folkeparti,4
+Allerød,2,Skovvang,D_Listestemmer,Listestemmer,Nye Borgerlige,43
+Allerød,2,Skovvang,D_John_Jensen,John Jensen,Nye Borgerlige,21
+Allerød,2,Skovvang,D_Jacob_Beer,Jacob Beer,Nye Borgerlige,18
+Allerød,2,Skovvang,D_Joan_Blomsterberg,Joan Blomsterberg,Nye Borgerlige,4
+Allerød,2,Skovvang,D_John_Hammer,John Hammer,Nye Borgerlige,3
+Allerød,2,Skovvang,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,100
+Allerød,2,Skovvang,F_Nikolaj_Bührmann,Nikolaj Bührmann,SF - Socialistisk Folkeparti,96
+Allerød,2,Skovvang,F_Anders_Damm-Frydenberg,Anders Damm-Frydenberg,SF - Socialistisk Folkeparti,41
+Allerød,2,Skovvang,F_Kurt_Koudahl_Petersen,Kurt Koudahl Petersen,SF - Socialistisk Folkeparti,30
+Allerød,2,Skovvang,F_Signe_Schløer,Signe Schløer,SF - Socialistisk Folkeparti,71
+Allerød,2,Skovvang,F_Jørgen_Ekstrøm_Jakobsen,Jørgen Ekstrøm Jakobsen,SF - Socialistisk Folkeparti,9
+Allerød,2,Skovvang,F_Nina_Madsen,Nina Madsen,SF - Socialistisk Folkeparti,7
+Allerød,2,Skovvang,F_Jalila_Rachdi,Jalila Rachdi,SF - Socialistisk Folkeparti,4
+Allerød,2,Skovvang,F_Camilla_Damm-Frydenberg,Camilla Damm-Frydenberg,SF - Socialistisk Folkeparti,8
+Allerød,2,Skovvang,F_Flemming_Langhans,Flemming Langhans,SF - Socialistisk Folkeparti,0
+Allerød,2,Skovvang,F_Ole_Holm-Møller,Ole Holm-Møller,SF - Socialistisk Folkeparti,0
+Allerød,2,Skovvang,I_Listestemmer,Listestemmer,Liberal Alliance,12
+Allerød,2,Skovvang,I_Christian_Hauge_Lundgaard,Christian Hauge Lundgaard,Liberal Alliance,14
+Allerød,2,Skovvang,I_Steffen_Møller,Steffen Møller,Liberal Alliance,1
+Allerød,2,Skovvang,O_Listestemmer,Listestemmer,Dansk Folkeparti,20
+Allerød,2,Skovvang,O_Vagn_Lund,Vagn Lund,Dansk Folkeparti,12
+Allerød,2,Skovvang,Q_Listestemmer,Listestemmer,Feministisk Initiativ,4
+Allerød,2,Skovvang,"Q_Sally_Dorthea_Fischer,_Blovstrød","Sally Dorthea Fischer, Blovstrød",Feministisk Initiativ,6
+Allerød,2,Skovvang,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",120
+Allerød,2,Skovvang,"V_Karsten_Längerich,_Lillerød","Karsten Längerich, Lillerød","Venstre, Danmarks Liberale Parti",115
+Allerød,2,Skovvang,"V_Clara_Rao,_Lillerød","Clara Rao, Lillerød","Venstre, Danmarks Liberale Parti",153
+Allerød,2,Skovvang,"V_Lisbeth_Skov,_Lynge","Lisbeth Skov, Lynge","Venstre, Danmarks Liberale Parti",18
+Allerød,2,Skovvang,"V_Michael_Nørregaard,_Lillerød","Michael Nørregaard, Lillerød","Venstre, Danmarks Liberale Parti",61
+Allerød,2,Skovvang,"V_Anders_Glümer,_Blovstrød","Anders Glümer, Blovstrød","Venstre, Danmarks Liberale Parti",4
+Allerød,2,Skovvang,"V_Jacob_Bach_Meldal,_Lillerød","Jacob Bach Meldal, Lillerød","Venstre, Danmarks Liberale Parti",7
+Allerød,2,Skovvang,"V_Niels_Kirkegaard,_Blovstrød","Niels Kirkegaard, Blovstrød","Venstre, Danmarks Liberale Parti",7
+Allerød,2,Skovvang,"V_Kitt_Svane,_Blovstrød","Kitt Svane, Blovstrød","Venstre, Danmarks Liberale Parti",2
+Allerød,2,Skovvang,"V_Esben_Buchwald,_Lynge","Esben Buchwald, Lynge","Venstre, Danmarks Liberale Parti",5
+Allerød,2,Skovvang,"V_Erling_Petersen,_Lynge","Erling Petersen, Lynge","Venstre, Danmarks Liberale Parti",8
+Allerød,2,Skovvang,"V_Carsten_Rasmussen,_Lillerød","Carsten Rasmussen, Lillerød","Venstre, Danmarks Liberale Parti",22
+Allerød,2,Skovvang,"V_Helle_Kramp,_Lillerød","Helle Kramp, Lillerød","Venstre, Danmarks Liberale Parti",2
+Allerød,2,Skovvang,"V_Peter_Rysgaard,_Lillerød","Peter Rysgaard, Lillerød","Venstre, Danmarks Liberale Parti",1
+Allerød,2,Skovvang,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,90
+Allerød,2,Skovvang,"Ø_Emil_Ulrik_Andersen,_Blovstrød","Emil Ulrik Andersen, Blovstrød",Enhedslisten - De Rød-Grønne,51
+Allerød,2,Skovvang,"Ø_Tune_Revsgaard_Nielsen,_Blovstrød","Tune Revsgaard Nielsen, Blovstrød",Enhedslisten - De Rød-Grønne,28
+Allerød,2,Skovvang,"Ø_Søs_Nissen,_Lillerød","Søs Nissen, Lillerød",Enhedslisten - De Rød-Grønne,52
+Allerød,2,Skovvang,"Ø_Lars_Juel_Sørensen,_Lynge","Lars Juel Sørensen, Lynge",Enhedslisten - De Rød-Grønne,14
+Allerød,2,Skovvang,"Ø_Dorte_Reehaug,_Allerød","Dorte Reehaug, Allerød",Enhedslisten - De Rød-Grønne,18
+Allerød,2,Skovvang,"Ø_Anja_Miehe-Renard,_Lynge","Anja Miehe-Renard, Lynge",Enhedslisten - De Rød-Grønne,3
+Allerød,2,Skovvang,"Ø_Troels_Jacobsen,_Nymølle","Troels Jacobsen, Nymølle",Enhedslisten - De Rød-Grønne,2
+Allerød,3,Lillerød,A_Listestemmer,Listestemmer,Socialdemokratiet,144
+Allerød,3,Lillerød,A_Miki_Dam_Larsen,Miki Dam Larsen,Socialdemokratiet,219
+Allerød,3,Lillerød,A_Jesper_Holdflod_Pallesen,Jesper Holdflod Pallesen,Socialdemokratiet,24
+Allerød,3,Lillerød,A_Vibeke_Højbjerg,Vibeke Højbjerg,Socialdemokratiet,67
+Allerød,3,Lillerød,A_Nicolai_Pallisborg,Nicolai Pallisborg,Socialdemokratiet,14
+Allerød,3,Lillerød,A_Theodore_Gbouable,Theodore Gbouable,Socialdemokratiet,24
+Allerød,3,Lillerød,A_Alice_Silkjær,Alice Silkjær,Socialdemokratiet,26
+Allerød,3,Lillerød,A_Gitte_Gross,Gitte Gross,Socialdemokratiet,28
+Allerød,3,Lillerød,A_Kasper_Ljung_Pedersen,Kasper Ljung Pedersen,Socialdemokratiet,28
+Allerød,3,Lillerød,A_Niels_Christian_Dahl,Niels Christian Dahl,Socialdemokratiet,6
+Allerød,3,Lillerød,A_Finn_Serup_Jensen,Finn Serup Jensen,Socialdemokratiet,2
+Allerød,3,Lillerød,A_Birgitte_Greby,Birgitte Greby,Socialdemokratiet,21
+Allerød,3,Lillerød,B_Listestemmer,Listestemmer,Radikale Venstre,57
+Allerød,3,Lillerød,"B_Merete_Them_Kjølholm,_Lillerød","Merete Them Kjølholm, Lillerød",Radikale Venstre,138
+Allerød,3,Lillerød,"B_Rune_Sixtus_Glæser,_Blovstrød","Rune Sixtus Glæser, Blovstrød",Radikale Venstre,9
+Allerød,3,Lillerød,"B_Jytte_Agerup,_Lillerød","Jytte Agerup, Lillerød",Radikale Venstre,19
+Allerød,3,Lillerød,"B_Carsten_Brechling_Andersen,_Lynge","Carsten Brechling Andersen, Lynge",Radikale Venstre,3
+Allerød,3,Lillerød,"B_Vibeke_Arndt_Skak_Jensen,_Lillerød","Vibeke Arndt Skak Jensen, Lillerød",Radikale Venstre,31
+Allerød,3,Lillerød,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,200
+Allerød,3,Lillerød,C_Jørgen_Johansen,Jørgen Johansen,Det Konservative Folkeparti,385
+Allerød,3,Lillerød,C_Erik_Lund,Erik Lund,Det Konservative Folkeparti,114
+Allerød,3,Lillerød,C_Lars_Bacher,Lars Bacher,Det Konservative Folkeparti,67
+Allerød,3,Lillerød,C_Martin_H._Wolffbrandt,Martin H. Wolffbrandt,Det Konservative Folkeparti,17
+Allerød,3,Lillerød,C_Bettina_Løgager,Bettina Løgager,Det Konservative Folkeparti,70
+Allerød,3,Lillerød,C_Faruk_Kilic,Faruk Kilic,Det Konservative Folkeparti,13
+Allerød,3,Lillerød,C_Thomas_Frisch,Thomas Frisch,Det Konservative Folkeparti,46
+Allerød,3,Lillerød,C_Eric_Lerdrup_Bourgois,Eric Lerdrup Bourgois,Det Konservative Folkeparti,49
+Allerød,3,Lillerød,C_Kim_Holmstrøm,Kim Holmstrøm,Det Konservative Folkeparti,20
+Allerød,3,Lillerød,C_Jeanette_Oxfeldt,Jeanette Oxfeldt,Det Konservative Folkeparti,11
+Allerød,3,Lillerød,C_Søsser_Grønnegård,Søsser Grønnegård,Det Konservative Folkeparti,14
+Allerød,3,Lillerød,C_Torbjørn_Barfod,Torbjørn Barfod,Det Konservative Folkeparti,5
+Allerød,3,Lillerød,C_Leif_Johansen,Leif Johansen,Det Konservative Folkeparti,7
+Allerød,3,Lillerød,C_René_Nicklas_Wendt,René Nicklas Wendt,Det Konservative Folkeparti,1
+Allerød,3,Lillerød,D_Listestemmer,Listestemmer,Nye Borgerlige,40
+Allerød,3,Lillerød,D_John_Jensen,John Jensen,Nye Borgerlige,17
+Allerød,3,Lillerød,D_Jacob_Beer,Jacob Beer,Nye Borgerlige,15
+Allerød,3,Lillerød,D_Joan_Blomsterberg,Joan Blomsterberg,Nye Borgerlige,7
+Allerød,3,Lillerød,D_John_Hammer,John Hammer,Nye Borgerlige,1
+Allerød,3,Lillerød,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,87
+Allerød,3,Lillerød,F_Nikolaj_Bührmann,Nikolaj Bührmann,SF - Socialistisk Folkeparti,108
+Allerød,3,Lillerød,F_Anders_Damm-Frydenberg,Anders Damm-Frydenberg,SF - Socialistisk Folkeparti,37
+Allerød,3,Lillerød,F_Kurt_Koudahl_Petersen,Kurt Koudahl Petersen,SF - Socialistisk Folkeparti,21
+Allerød,3,Lillerød,F_Signe_Schløer,Signe Schløer,SF - Socialistisk Folkeparti,91
+Allerød,3,Lillerød,F_Jørgen_Ekstrøm_Jakobsen,Jørgen Ekstrøm Jakobsen,SF - Socialistisk Folkeparti,9
+Allerød,3,Lillerød,F_Nina_Madsen,Nina Madsen,SF - Socialistisk Folkeparti,7
+Allerød,3,Lillerød,F_Jalila_Rachdi,Jalila Rachdi,SF - Socialistisk Folkeparti,2
+Allerød,3,Lillerød,F_Camilla_Damm-Frydenberg,Camilla Damm-Frydenberg,SF - Socialistisk Folkeparti,5
+Allerød,3,Lillerød,F_Flemming_Langhans,Flemming Langhans,SF - Socialistisk Folkeparti,1
+Allerød,3,Lillerød,F_Ole_Holm-Møller,Ole Holm-Møller,SF - Socialistisk Folkeparti,7
+Allerød,3,Lillerød,I_Listestemmer,Listestemmer,Liberal Alliance,14
+Allerød,3,Lillerød,I_Christian_Hauge_Lundgaard,Christian Hauge Lundgaard,Liberal Alliance,11
+Allerød,3,Lillerød,I_Steffen_Møller,Steffen Møller,Liberal Alliance,4
+Allerød,3,Lillerød,O_Listestemmer,Listestemmer,Dansk Folkeparti,17
+Allerød,3,Lillerød,O_Vagn_Lund,Vagn Lund,Dansk Folkeparti,7
+Allerød,3,Lillerød,Q_Listestemmer,Listestemmer,Feministisk Initiativ,1
+Allerød,3,Lillerød,"Q_Sally_Dorthea_Fischer,_Blovstrød","Sally Dorthea Fischer, Blovstrød",Feministisk Initiativ,5
+Allerød,3,Lillerød,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",137
+Allerød,3,Lillerød,"V_Karsten_Längerich,_Lillerød","Karsten Längerich, Lillerød","Venstre, Danmarks Liberale Parti",227
+Allerød,3,Lillerød,"V_Clara_Rao,_Lillerød","Clara Rao, Lillerød","Venstre, Danmarks Liberale Parti",247
+Allerød,3,Lillerød,"V_Lisbeth_Skov,_Lynge","Lisbeth Skov, Lynge","Venstre, Danmarks Liberale Parti",29
+Allerød,3,Lillerød,"V_Michael_Nørregaard,_Lillerød","Michael Nørregaard, Lillerød","Venstre, Danmarks Liberale Parti",121
+Allerød,3,Lillerød,"V_Anders_Glümer,_Blovstrød","Anders Glümer, Blovstrød","Venstre, Danmarks Liberale Parti",15
+Allerød,3,Lillerød,"V_Jacob_Bach_Meldal,_Lillerød","Jacob Bach Meldal, Lillerød","Venstre, Danmarks Liberale Parti",33
+Allerød,3,Lillerød,"V_Niels_Kirkegaard,_Blovstrød","Niels Kirkegaard, Blovstrød","Venstre, Danmarks Liberale Parti",14
+Allerød,3,Lillerød,"V_Kitt_Svane,_Blovstrød","Kitt Svane, Blovstrød","Venstre, Danmarks Liberale Parti",5
+Allerød,3,Lillerød,"V_Esben_Buchwald,_Lynge","Esben Buchwald, Lynge","Venstre, Danmarks Liberale Parti",4
+Allerød,3,Lillerød,"V_Erling_Petersen,_Lynge","Erling Petersen, Lynge","Venstre, Danmarks Liberale Parti",10
+Allerød,3,Lillerød,"V_Carsten_Rasmussen,_Lillerød","Carsten Rasmussen, Lillerød","Venstre, Danmarks Liberale Parti",12
+Allerød,3,Lillerød,"V_Helle_Kramp,_Lillerød","Helle Kramp, Lillerød","Venstre, Danmarks Liberale Parti",1
+Allerød,3,Lillerød,"V_Peter_Rysgaard,_Lillerød","Peter Rysgaard, Lillerød","Venstre, Danmarks Liberale Parti",8
+Allerød,3,Lillerød,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,88
+Allerød,3,Lillerød,"Ø_Emil_Ulrik_Andersen,_Blovstrød","Emil Ulrik Andersen, Blovstrød",Enhedslisten - De Rød-Grønne,55
+Allerød,3,Lillerød,"Ø_Tune_Revsgaard_Nielsen,_Blovstrød","Tune Revsgaard Nielsen, Blovstrød",Enhedslisten - De Rød-Grønne,26
+Allerød,3,Lillerød,"Ø_Søs_Nissen,_Lillerød","Søs Nissen, Lillerød",Enhedslisten - De Rød-Grønne,29
+Allerød,3,Lillerød,"Ø_Lars_Juel_Sørensen,_Lynge","Lars Juel Sørensen, Lynge",Enhedslisten - De Rød-Grønne,6
+Allerød,3,Lillerød,"Ø_Dorte_Reehaug,_Allerød","Dorte Reehaug, Allerød",Enhedslisten - De Rød-Grønne,5
+Allerød,3,Lillerød,"Ø_Anja_Miehe-Renard,_Lynge","Anja Miehe-Renard, Lynge",Enhedslisten - De Rød-Grønne,1
+Allerød,3,Lillerød,"Ø_Troels_Jacobsen,_Nymølle","Troels Jacobsen, Nymølle",Enhedslisten - De Rød-Grønne,1
+Allerød,4,Lynge,A_Listestemmer,Listestemmer,Socialdemokratiet,145
+Allerød,4,Lynge,A_Miki_Dam_Larsen,Miki Dam Larsen,Socialdemokratiet,189
+Allerød,4,Lynge,A_Jesper_Holdflod_Pallesen,Jesper Holdflod Pallesen,Socialdemokratiet,11
+Allerød,4,Lynge,A_Vibeke_Højbjerg,Vibeke Højbjerg,Socialdemokratiet,35
+Allerød,4,Lynge,A_Nicolai_Pallisborg,Nicolai Pallisborg,Socialdemokratiet,3
+Allerød,4,Lynge,A_Theodore_Gbouable,Theodore Gbouable,Socialdemokratiet,89
+Allerød,4,Lynge,A_Alice_Silkjær,Alice Silkjær,Socialdemokratiet,10
+Allerød,4,Lynge,A_Gitte_Gross,Gitte Gross,Socialdemokratiet,6
+Allerød,4,Lynge,A_Kasper_Ljung_Pedersen,Kasper Ljung Pedersen,Socialdemokratiet,13
+Allerød,4,Lynge,A_Niels_Christian_Dahl,Niels Christian Dahl,Socialdemokratiet,3
+Allerød,4,Lynge,A_Finn_Serup_Jensen,Finn Serup Jensen,Socialdemokratiet,0
+Allerød,4,Lynge,A_Birgitte_Greby,Birgitte Greby,Socialdemokratiet,12
+Allerød,4,Lynge,B_Listestemmer,Listestemmer,Radikale Venstre,35
+Allerød,4,Lynge,"B_Merete_Them_Kjølholm,_Lillerød","Merete Them Kjølholm, Lillerød",Radikale Venstre,38
+Allerød,4,Lynge,"B_Rune_Sixtus_Glæser,_Blovstrød","Rune Sixtus Glæser, Blovstrød",Radikale Venstre,8
+Allerød,4,Lynge,"B_Jytte_Agerup,_Lillerød","Jytte Agerup, Lillerød",Radikale Venstre,8
+Allerød,4,Lynge,"B_Carsten_Brechling_Andersen,_Lynge","Carsten Brechling Andersen, Lynge",Radikale Venstre,17
+Allerød,4,Lynge,"B_Vibeke_Arndt_Skak_Jensen,_Lillerød","Vibeke Arndt Skak Jensen, Lillerød",Radikale Venstre,10
+Allerød,4,Lynge,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,140
+Allerød,4,Lynge,C_Jørgen_Johansen,Jørgen Johansen,Det Konservative Folkeparti,235
+Allerød,4,Lynge,C_Erik_Lund,Erik Lund,Det Konservative Folkeparti,60
+Allerød,4,Lynge,C_Lars_Bacher,Lars Bacher,Det Konservative Folkeparti,13
+Allerød,4,Lynge,C_Martin_H._Wolffbrandt,Martin H. Wolffbrandt,Det Konservative Folkeparti,4
+Allerød,4,Lynge,C_Bettina_Løgager,Bettina Løgager,Det Konservative Folkeparti,28
+Allerød,4,Lynge,C_Faruk_Kilic,Faruk Kilic,Det Konservative Folkeparti,6
+Allerød,4,Lynge,C_Thomas_Frisch,Thomas Frisch,Det Konservative Folkeparti,90
+Allerød,4,Lynge,C_Eric_Lerdrup_Bourgois,Eric Lerdrup Bourgois,Det Konservative Folkeparti,11
+Allerød,4,Lynge,C_Kim_Holmstrøm,Kim Holmstrøm,Det Konservative Folkeparti,7
+Allerød,4,Lynge,C_Jeanette_Oxfeldt,Jeanette Oxfeldt,Det Konservative Folkeparti,6
+Allerød,4,Lynge,C_Søsser_Grønnegård,Søsser Grønnegård,Det Konservative Folkeparti,20
+Allerød,4,Lynge,C_Torbjørn_Barfod,Torbjørn Barfod,Det Konservative Folkeparti,217
+Allerød,4,Lynge,C_Leif_Johansen,Leif Johansen,Det Konservative Folkeparti,2
+Allerød,4,Lynge,C_René_Nicklas_Wendt,René Nicklas Wendt,Det Konservative Folkeparti,8
+Allerød,4,Lynge,D_Listestemmer,Listestemmer,Nye Borgerlige,60
+Allerød,4,Lynge,D_John_Jensen,John Jensen,Nye Borgerlige,25
+Allerød,4,Lynge,D_Jacob_Beer,Jacob Beer,Nye Borgerlige,18
+Allerød,4,Lynge,D_Joan_Blomsterberg,Joan Blomsterberg,Nye Borgerlige,9
+Allerød,4,Lynge,D_John_Hammer,John Hammer,Nye Borgerlige,7
+Allerød,4,Lynge,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,56
+Allerød,4,Lynge,F_Nikolaj_Bührmann,Nikolaj Bührmann,SF - Socialistisk Folkeparti,39
+Allerød,4,Lynge,F_Anders_Damm-Frydenberg,Anders Damm-Frydenberg,SF - Socialistisk Folkeparti,20
+Allerød,4,Lynge,F_Kurt_Koudahl_Petersen,Kurt Koudahl Petersen,SF - Socialistisk Folkeparti,8
+Allerød,4,Lynge,F_Signe_Schløer,Signe Schløer,SF - Socialistisk Folkeparti,47
+Allerød,4,Lynge,F_Jørgen_Ekstrøm_Jakobsen,Jørgen Ekstrøm Jakobsen,SF - Socialistisk Folkeparti,9
+Allerød,4,Lynge,F_Nina_Madsen,Nina Madsen,SF - Socialistisk Folkeparti,5
+Allerød,4,Lynge,F_Jalila_Rachdi,Jalila Rachdi,SF - Socialistisk Folkeparti,2
+Allerød,4,Lynge,F_Camilla_Damm-Frydenberg,Camilla Damm-Frydenberg,SF - Socialistisk Folkeparti,2
+Allerød,4,Lynge,F_Flemming_Langhans,Flemming Langhans,SF - Socialistisk Folkeparti,0
+Allerød,4,Lynge,F_Ole_Holm-Møller,Ole Holm-Møller,SF - Socialistisk Folkeparti,0
+Allerød,4,Lynge,I_Listestemmer,Listestemmer,Liberal Alliance,14
+Allerød,4,Lynge,I_Christian_Hauge_Lundgaard,Christian Hauge Lundgaard,Liberal Alliance,6
+Allerød,4,Lynge,I_Steffen_Møller,Steffen Møller,Liberal Alliance,3
+Allerød,4,Lynge,O_Listestemmer,Listestemmer,Dansk Folkeparti,20
+Allerød,4,Lynge,O_Vagn_Lund,Vagn Lund,Dansk Folkeparti,2
+Allerød,4,Lynge,Q_Listestemmer,Listestemmer,Feministisk Initiativ,1
+Allerød,4,Lynge,"Q_Sally_Dorthea_Fischer,_Blovstrød","Sally Dorthea Fischer, Blovstrød",Feministisk Initiativ,1
+Allerød,4,Lynge,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",112
+Allerød,4,Lynge,"V_Karsten_Längerich,_Lillerød","Karsten Längerich, Lillerød","Venstre, Danmarks Liberale Parti",87
+Allerød,4,Lynge,"V_Clara_Rao,_Lillerød","Clara Rao, Lillerød","Venstre, Danmarks Liberale Parti",66
+Allerød,4,Lynge,"V_Lisbeth_Skov,_Lynge","Lisbeth Skov, Lynge","Venstre, Danmarks Liberale Parti",328
+Allerød,4,Lynge,"V_Michael_Nørregaard,_Lillerød","Michael Nørregaard, Lillerød","Venstre, Danmarks Liberale Parti",24
+Allerød,4,Lynge,"V_Anders_Glümer,_Blovstrød","Anders Glümer, Blovstrød","Venstre, Danmarks Liberale Parti",6
+Allerød,4,Lynge,"V_Jacob_Bach_Meldal,_Lillerød","Jacob Bach Meldal, Lillerød","Venstre, Danmarks Liberale Parti",3
+Allerød,4,Lynge,"V_Niels_Kirkegaard,_Blovstrød","Niels Kirkegaard, Blovstrød","Venstre, Danmarks Liberale Parti",0
+Allerød,4,Lynge,"V_Kitt_Svane,_Blovstrød","Kitt Svane, Blovstrød","Venstre, Danmarks Liberale Parti",7
+Allerød,4,Lynge,"V_Esben_Buchwald,_Lynge","Esben Buchwald, Lynge","Venstre, Danmarks Liberale Parti",233
+Allerød,4,Lynge,"V_Erling_Petersen,_Lynge","Erling Petersen, Lynge","Venstre, Danmarks Liberale Parti",81
+Allerød,4,Lynge,"V_Carsten_Rasmussen,_Lillerød","Carsten Rasmussen, Lillerød","Venstre, Danmarks Liberale Parti",7
+Allerød,4,Lynge,"V_Helle_Kramp,_Lillerød","Helle Kramp, Lillerød","Venstre, Danmarks Liberale Parti",1
+Allerød,4,Lynge,"V_Peter_Rysgaard,_Lillerød","Peter Rysgaard, Lillerød","Venstre, Danmarks Liberale Parti",5
+Allerød,4,Lynge,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,41
+Allerød,4,Lynge,"Ø_Emil_Ulrik_Andersen,_Blovstrød","Emil Ulrik Andersen, Blovstrød",Enhedslisten - De Rød-Grønne,31
+Allerød,4,Lynge,"Ø_Tune_Revsgaard_Nielsen,_Blovstrød","Tune Revsgaard Nielsen, Blovstrød",Enhedslisten - De Rød-Grønne,15
+Allerød,4,Lynge,"Ø_Søs_Nissen,_Lillerød","Søs Nissen, Lillerød",Enhedslisten - De Rød-Grønne,10
+Allerød,4,Lynge,"Ø_Lars_Juel_Sørensen,_Lynge","Lars Juel Sørensen, Lynge",Enhedslisten - De Rød-Grønne,98
+Allerød,4,Lynge,"Ø_Dorte_Reehaug,_Allerød","Dorte Reehaug, Allerød",Enhedslisten - De Rød-Grønne,10
+Allerød,4,Lynge,"Ø_Anja_Miehe-Renard,_Lynge","Anja Miehe-Renard, Lynge",Enhedslisten - De Rød-Grønne,18
+Allerød,4,Lynge,"Ø_Troels_Jacobsen,_Nymølle","Troels Jacobsen, Nymølle",Enhedslisten - De Rød-Grønne,6
+Allerød,5,Ravnsholt,A_Listestemmer,Listestemmer,Socialdemokratiet,127
+Allerød,5,Ravnsholt,A_Miki_Dam_Larsen,Miki Dam Larsen,Socialdemokratiet,135
+Allerød,5,Ravnsholt,A_Jesper_Holdflod_Pallesen,Jesper Holdflod Pallesen,Socialdemokratiet,19
+Allerød,5,Ravnsholt,A_Vibeke_Højbjerg,Vibeke Højbjerg,Socialdemokratiet,88
+Allerød,5,Ravnsholt,A_Nicolai_Pallisborg,Nicolai Pallisborg,Socialdemokratiet,4
+Allerød,5,Ravnsholt,A_Theodore_Gbouable,Theodore Gbouable,Socialdemokratiet,16
+Allerød,5,Ravnsholt,A_Alice_Silkjær,Alice Silkjær,Socialdemokratiet,22
+Allerød,5,Ravnsholt,A_Gitte_Gross,Gitte Gross,Socialdemokratiet,14
+Allerød,5,Ravnsholt,A_Kasper_Ljung_Pedersen,Kasper Ljung Pedersen,Socialdemokratiet,46
+Allerød,5,Ravnsholt,A_Niels_Christian_Dahl,Niels Christian Dahl,Socialdemokratiet,15
+Allerød,5,Ravnsholt,A_Finn_Serup_Jensen,Finn Serup Jensen,Socialdemokratiet,9
+Allerød,5,Ravnsholt,A_Birgitte_Greby,Birgitte Greby,Socialdemokratiet,37
+Allerød,5,Ravnsholt,B_Listestemmer,Listestemmer,Radikale Venstre,57
+Allerød,5,Ravnsholt,"B_Merete_Them_Kjølholm,_Lillerød","Merete Them Kjølholm, Lillerød",Radikale Venstre,86
+Allerød,5,Ravnsholt,"B_Rune_Sixtus_Glæser,_Blovstrød","Rune Sixtus Glæser, Blovstrød",Radikale Venstre,15
+Allerød,5,Ravnsholt,"B_Jytte_Agerup,_Lillerød","Jytte Agerup, Lillerød",Radikale Venstre,27
+Allerød,5,Ravnsholt,"B_Carsten_Brechling_Andersen,_Lynge","Carsten Brechling Andersen, Lynge",Radikale Venstre,2
+Allerød,5,Ravnsholt,"B_Vibeke_Arndt_Skak_Jensen,_Lillerød","Vibeke Arndt Skak Jensen, Lillerød",Radikale Venstre,21
+Allerød,5,Ravnsholt,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,191
+Allerød,5,Ravnsholt,C_Jørgen_Johansen,Jørgen Johansen,Det Konservative Folkeparti,440
+Allerød,5,Ravnsholt,C_Erik_Lund,Erik Lund,Det Konservative Folkeparti,106
+Allerød,5,Ravnsholt,C_Lars_Bacher,Lars Bacher,Det Konservative Folkeparti,62
+Allerød,5,Ravnsholt,C_Martin_H._Wolffbrandt,Martin H. Wolffbrandt,Det Konservative Folkeparti,18
+Allerød,5,Ravnsholt,C_Bettina_Løgager,Bettina Løgager,Det Konservative Folkeparti,61
+Allerød,5,Ravnsholt,C_Faruk_Kilic,Faruk Kilic,Det Konservative Folkeparti,11
+Allerød,5,Ravnsholt,C_Thomas_Frisch,Thomas Frisch,Det Konservative Folkeparti,335
+Allerød,5,Ravnsholt,C_Eric_Lerdrup_Bourgois,Eric Lerdrup Bourgois,Det Konservative Folkeparti,54
+Allerød,5,Ravnsholt,C_Kim_Holmstrøm,Kim Holmstrøm,Det Konservative Folkeparti,19
+Allerød,5,Ravnsholt,C_Jeanette_Oxfeldt,Jeanette Oxfeldt,Det Konservative Folkeparti,14
+Allerød,5,Ravnsholt,C_Søsser_Grønnegård,Søsser Grønnegård,Det Konservative Folkeparti,13
+Allerød,5,Ravnsholt,C_Torbjørn_Barfod,Torbjørn Barfod,Det Konservative Folkeparti,3
+Allerød,5,Ravnsholt,C_Leif_Johansen,Leif Johansen,Det Konservative Folkeparti,8
+Allerød,5,Ravnsholt,C_René_Nicklas_Wendt,René Nicklas Wendt,Det Konservative Folkeparti,5
+Allerød,5,Ravnsholt,D_Listestemmer,Listestemmer,Nye Borgerlige,36
+Allerød,5,Ravnsholt,D_John_Jensen,John Jensen,Nye Borgerlige,20
+Allerød,5,Ravnsholt,D_Jacob_Beer,Jacob Beer,Nye Borgerlige,30
+Allerød,5,Ravnsholt,D_Joan_Blomsterberg,Joan Blomsterberg,Nye Borgerlige,6
+Allerød,5,Ravnsholt,D_John_Hammer,John Hammer,Nye Borgerlige,4
+Allerød,5,Ravnsholt,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,88
+Allerød,5,Ravnsholt,F_Nikolaj_Bührmann,Nikolaj Bührmann,SF - Socialistisk Folkeparti,65
+Allerød,5,Ravnsholt,F_Anders_Damm-Frydenberg,Anders Damm-Frydenberg,SF - Socialistisk Folkeparti,22
+Allerød,5,Ravnsholt,F_Kurt_Koudahl_Petersen,Kurt Koudahl Petersen,SF - Socialistisk Folkeparti,14
+Allerød,5,Ravnsholt,F_Signe_Schløer,Signe Schløer,SF - Socialistisk Folkeparti,74
+Allerød,5,Ravnsholt,F_Jørgen_Ekstrøm_Jakobsen,Jørgen Ekstrøm Jakobsen,SF - Socialistisk Folkeparti,19
+Allerød,5,Ravnsholt,F_Nina_Madsen,Nina Madsen,SF - Socialistisk Folkeparti,9
+Allerød,5,Ravnsholt,F_Jalila_Rachdi,Jalila Rachdi,SF - Socialistisk Folkeparti,1
+Allerød,5,Ravnsholt,F_Camilla_Damm-Frydenberg,Camilla Damm-Frydenberg,SF - Socialistisk Folkeparti,1
+Allerød,5,Ravnsholt,F_Flemming_Langhans,Flemming Langhans,SF - Socialistisk Folkeparti,3
+Allerød,5,Ravnsholt,F_Ole_Holm-Møller,Ole Holm-Møller,SF - Socialistisk Folkeparti,0
+Allerød,5,Ravnsholt,I_Listestemmer,Listestemmer,Liberal Alliance,21
+Allerød,5,Ravnsholt,I_Christian_Hauge_Lundgaard,Christian Hauge Lundgaard,Liberal Alliance,16
+Allerød,5,Ravnsholt,I_Steffen_Møller,Steffen Møller,Liberal Alliance,5
+Allerød,5,Ravnsholt,O_Listestemmer,Listestemmer,Dansk Folkeparti,17
+Allerød,5,Ravnsholt,O_Vagn_Lund,Vagn Lund,Dansk Folkeparti,6
+Allerød,5,Ravnsholt,Q_Listestemmer,Listestemmer,Feministisk Initiativ,3
+Allerød,5,Ravnsholt,"Q_Sally_Dorthea_Fischer,_Blovstrød","Sally Dorthea Fischer, Blovstrød",Feministisk Initiativ,4
+Allerød,5,Ravnsholt,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",170
+Allerød,5,Ravnsholt,"V_Karsten_Längerich,_Lillerød","Karsten Längerich, Lillerød","Venstre, Danmarks Liberale Parti",260
+Allerød,5,Ravnsholt,"V_Clara_Rao,_Lillerød","Clara Rao, Lillerød","Venstre, Danmarks Liberale Parti",283
+Allerød,5,Ravnsholt,"V_Lisbeth_Skov,_Lynge","Lisbeth Skov, Lynge","Venstre, Danmarks Liberale Parti",22
+Allerød,5,Ravnsholt,"V_Michael_Nørregaard,_Lillerød","Michael Nørregaard, Lillerød","Venstre, Danmarks Liberale Parti",156
+Allerød,5,Ravnsholt,"V_Anders_Glümer,_Blovstrød","Anders Glümer, Blovstrød","Venstre, Danmarks Liberale Parti",19
+Allerød,5,Ravnsholt,"V_Jacob_Bach_Meldal,_Lillerød","Jacob Bach Meldal, Lillerød","Venstre, Danmarks Liberale Parti",15
+Allerød,5,Ravnsholt,"V_Niels_Kirkegaard,_Blovstrød","Niels Kirkegaard, Blovstrød","Venstre, Danmarks Liberale Parti",12
+Allerød,5,Ravnsholt,"V_Kitt_Svane,_Blovstrød","Kitt Svane, Blovstrød","Venstre, Danmarks Liberale Parti",10
+Allerød,5,Ravnsholt,"V_Esben_Buchwald,_Lynge","Esben Buchwald, Lynge","Venstre, Danmarks Liberale Parti",9
+Allerød,5,Ravnsholt,"V_Erling_Petersen,_Lynge","Erling Petersen, Lynge","Venstre, Danmarks Liberale Parti",9
+Allerød,5,Ravnsholt,"V_Carsten_Rasmussen,_Lillerød","Carsten Rasmussen, Lillerød","Venstre, Danmarks Liberale Parti",12
+Allerød,5,Ravnsholt,"V_Helle_Kramp,_Lillerød","Helle Kramp, Lillerød","Venstre, Danmarks Liberale Parti",1
+Allerød,5,Ravnsholt,"V_Peter_Rysgaard,_Lillerød","Peter Rysgaard, Lillerød","Venstre, Danmarks Liberale Parti",14
+Allerød,5,Ravnsholt,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,58
+Allerød,5,Ravnsholt,"Ø_Emil_Ulrik_Andersen,_Blovstrød","Emil Ulrik Andersen, Blovstrød",Enhedslisten - De Rød-Grønne,39
+Allerød,5,Ravnsholt,"Ø_Tune_Revsgaard_Nielsen,_Blovstrød","Tune Revsgaard Nielsen, Blovstrød",Enhedslisten - De Rød-Grønne,20
+Allerød,5,Ravnsholt,"Ø_Søs_Nissen,_Lillerød","Søs Nissen, Lillerød",Enhedslisten - De Rød-Grønne,17
+Allerød,5,Ravnsholt,"Ø_Lars_Juel_Sørensen,_Lynge","Lars Juel Sørensen, Lynge",Enhedslisten - De Rød-Grønne,15
+Allerød,5,Ravnsholt,"Ø_Dorte_Reehaug,_Allerød","Dorte Reehaug, Allerød",Enhedslisten - De Rød-Grønne,15
+Allerød,5,Ravnsholt,"Ø_Anja_Miehe-Renard,_Lynge","Anja Miehe-Renard, Lynge",Enhedslisten - De Rød-Grønne,3
+Allerød,5,Ravnsholt,"Ø_Troels_Jacobsen,_Nymølle","Troels Jacobsen, Nymølle",Enhedslisten - De Rød-Grønne,2
