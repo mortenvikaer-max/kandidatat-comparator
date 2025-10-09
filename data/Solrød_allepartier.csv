@@ -1,0 +1,256 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Solrød,1,Havdrup,A_Listestemmer,Listestemmer,Socialdemokratiet,151
+Solrød,1,Havdrup,A_Jonas_Ring_Madsen,Jonas Ring Madsen,Socialdemokratiet,201
+Solrød,1,Havdrup,A_Jytte_Willendrup,Jytte Willendrup,Socialdemokratiet,13
+Solrød,1,Havdrup,A_Anette_Fynbo_Blem,Anette Fynbo Blem,Socialdemokratiet,21
+Solrød,1,Havdrup,A_Hanne_Bache_Vognbjerg,Hanne Bache Vognbjerg,Socialdemokratiet,19
+Solrød,1,Havdrup,A_John_Wennerwald,John Wennerwald,Socialdemokratiet,4
+Solrød,1,Havdrup,A_Finn_Larsen,Finn Larsen,Socialdemokratiet,10
+Solrød,1,Havdrup,A_Finn_Åge_Rasmussen,Finn Åge Rasmussen,Socialdemokratiet,3
+Solrød,1,Havdrup,A_Arne_Nowicki_Pedersen,Arne Nowicki Pedersen,Socialdemokratiet,2
+Solrød,1,Havdrup,A_John_Løvenskjold_Nielsen,John Løvenskjold Nielsen,Socialdemokratiet,1
+Solrød,1,Havdrup,A_Bendt_Kirk,Bendt Kirk,Socialdemokratiet,3
+Solrød,1,Havdrup,B_Listestemmer,Listestemmer,Radikale Venstre,4
+Solrød,1,Havdrup,B_Per_Laursen,Per Laursen,Radikale Venstre,11
+Solrød,1,Havdrup,B_Michael_Cubbin,Michael Cubbin,Radikale Venstre,0
+Solrød,1,Havdrup,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,80
+Solrød,1,Havdrup,C_Jan_Færch,Jan Færch,Det Konservative Folkeparti,58
+Solrød,1,Havdrup,C_Morten_Scheelsbeck,Morten Scheelsbeck,Det Konservative Folkeparti,18
+Solrød,1,Havdrup,C_Mads_Silberg,Mads Silberg,Det Konservative Folkeparti,6
+Solrød,1,Havdrup,C_Martin_Truberg_Jensen,Martin Truberg Jensen,Det Konservative Folkeparti,1
+Solrød,1,Havdrup,C_Therese_Nebel,Therese Nebel,Det Konservative Folkeparti,2
+Solrød,1,Havdrup,C_Mia_Qvist_Scheelsbeck,Mia Qvist Scheelsbeck,Det Konservative Folkeparti,8
+Solrød,1,Havdrup,C_John_Mogensen,John Mogensen,Det Konservative Folkeparti,19
+Solrød,1,Havdrup,C_Steen_Knuppert-Hansen,Steen Knuppert-Hansen,Det Konservative Folkeparti,0
+Solrød,1,Havdrup,D_Listestemmer,Listestemmer,Nye Borgerlige,48
+Solrød,1,Havdrup,D_Ulrik_Nick_Lassen,Ulrik Nick Lassen,Nye Borgerlige,29
+Solrød,1,Havdrup,D_Palle_Hemmingsen,Palle Hemmingsen,Nye Borgerlige,5
+Solrød,1,Havdrup,D_Linda_Basse,Linda Basse,Nye Borgerlige,10
+Solrød,1,Havdrup,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,44
+Solrød,1,Havdrup,"F_Henrik_T._Larsen,_Jersie_Str.","Henrik T. Larsen, Jersie Str.",SF - Socialistisk Folkeparti,6
+Solrød,1,Havdrup,"F_Claus_Redder_Madsen,_Jersie","Claus Redder Madsen, Jersie",SF - Socialistisk Folkeparti,9
+Solrød,1,Havdrup,"F_Eva_Rosenbæk-Svane,_Jersie_Strand","Eva Rosenbæk-Svane, Jersie Strand",SF - Socialistisk Folkeparti,24
+Solrød,1,Havdrup,"F_Farid_Faizi,_Solrød_Strand","Farid Faizi, Solrød Strand",SF - Socialistisk Folkeparti,1
+Solrød,1,Havdrup,"F_Marianne_Svane,_Jersie_Strand","Marianne Svane, Jersie Strand",SF - Socialistisk Folkeparti,33
+Solrød,1,Havdrup,"F_Marianne_Hauge,_Havdrup","Marianne Hauge, Havdrup",SF - Socialistisk Folkeparti,1
+Solrød,1,Havdrup,"F_Ida_Harsløf,_Solrød_Landsby","Ida Harsløf, Solrød Landsby",SF - Socialistisk Folkeparti,1
+Solrød,1,Havdrup,H_Listestemmer,Listestemmer,VoresSolrød,29
+Solrød,1,Havdrup,H_Christian_Nyholm,Christian Nyholm,VoresSolrød,11
+Solrød,1,Havdrup,H_Ina_Lindemark,Ina Lindemark,VoresSolrød,53
+Solrød,1,Havdrup,H_Jannik_Jensen,Jannik Jensen,VoresSolrød,1
+Solrød,1,Havdrup,H_Lil_Lyrstrand,Lil Lyrstrand,VoresSolrød,15
+Solrød,1,Havdrup,H_Carsten_Ring,Carsten Ring,VoresSolrød,5
+Solrød,1,Havdrup,H_Orla_Bakdal,Orla Bakdal,VoresSolrød,6
+Solrød,1,Havdrup,H_Pernille_S._Christiansen,Pernille S. Christiansen,VoresSolrød,4
+Solrød,1,Havdrup,H_Knud_Rasmussen,Knud Rasmussen,VoresSolrød,3
+Solrød,1,Havdrup,H_Bente_Dahl,Bente Dahl,VoresSolrød,0
+Solrød,1,Havdrup,H_Torben_Skernby,Torben Skernby,VoresSolrød,2
+Solrød,1,Havdrup,H_Per_S._Jensen,Per S. Jensen,VoresSolrød,4
+Solrød,1,Havdrup,H_Jacob_Kock_Plinius,Jacob Kock Plinius,VoresSolrød,0
+Solrød,1,Havdrup,I_Listestemmer,Listestemmer,Liberal Alliance,25
+Solrød,1,Havdrup,I_Emil_Blücher,Emil Blücher,Liberal Alliance,180
+Solrød,1,Havdrup,I_Henrik_Boye,Henrik Boye,Liberal Alliance,6
+Solrød,1,Havdrup,I_Regine_Hovmøller,Regine Hovmøller,Liberal Alliance,16
+Solrød,1,Havdrup,L_Listestemmer,Listestemmer,Havdruplisten,269
+Solrød,1,Havdrup,"L_Christian_Vang,_Havdrup","Christian Vang, Havdrup",Havdruplisten,246
+Solrød,1,Havdrup,"L_Bo_C._Christiansen,_Havdrup","Bo C. Christiansen, Havdrup",Havdruplisten,109
+Solrød,1,Havdrup,"L_Finn_H._Jensen,_Havdrup","Finn H. Jensen, Havdrup",Havdruplisten,82
+Solrød,1,Havdrup,"L_Bettina_Kastrup,_Havdrup","Bettina Kastrup, Havdrup",Havdruplisten,85
+Solrød,1,Havdrup,O_Listestemmer,Listestemmer,Dansk Folkeparti,32
+Solrød,1,Havdrup,"O_Brian_Mørch,_Jersie_Strand","Brian Mørch, Jersie Strand",Dansk Folkeparti,82
+Solrød,1,Havdrup,"O_Helle_Zelasny,_Havdrup","Helle Zelasny, Havdrup",Dansk Folkeparti,37
+Solrød,1,Havdrup,"O_Per_Pohlmann,_Kirke_Skensved","Per Pohlmann, Kirke Skensved",Dansk Folkeparti,7
+Solrød,1,Havdrup,"O_Steffen_Røgind,_Solrød_Strand","Steffen Røgind, Solrød Strand",Dansk Folkeparti,0
+Solrød,1,Havdrup,"O_Flemming_Bugge,_Solrød_Strand","Flemming Bugge, Solrød Strand",Dansk Folkeparti,1
+Solrød,1,Havdrup,"O_Tommy_Winther,_Solrød_Strand","Tommy Winther, Solrød Strand",Dansk Folkeparti,0
+Solrød,1,Havdrup,"O_Christen_Kristensen,_Jersie_Strand","Christen Kristensen, Jersie Strand",Dansk Folkeparti,0
+Solrød,1,Havdrup,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",63
+Solrød,1,Havdrup,"V_Niels_Hörup,_Solrød_Strand","Niels Hörup, Solrød Strand","Venstre, Danmarks Liberale Parti",170
+Solrød,1,Havdrup,"V_Kim_Sunesen,_Karlstrup","Kim Sunesen, Karlstrup","Venstre, Danmarks Liberale Parti",20
+Solrød,1,Havdrup,"V_Ivar_Haugaard-Hansen,Solrød_Strand","Ivar Haugaard-Hansen,Solrød Strand","Venstre, Danmarks Liberale Parti",6
+Solrød,1,Havdrup,"V_Lene_Stevnhoved,_Trylleskov_Strand","Lene Stevnhoved, Trylleskov Strand","Venstre, Danmarks Liberale Parti",7
+Solrød,1,Havdrup,"V_Michael_Arnø,_Jersie_Strand","Michael Arnø, Jersie Strand","Venstre, Danmarks Liberale Parti",3
+Solrød,1,Havdrup,"V_Dina_Oxfeldt,_Jersie_Strand","Dina Oxfeldt, Jersie Strand","Venstre, Danmarks Liberale Parti",3
+Solrød,1,Havdrup,"V_Henning_Arlofelt_Petersen,Solr.str","Henning Arlofelt Petersen,Solr.str","Venstre, Danmarks Liberale Parti",10
+Solrød,1,Havdrup,"V_Henning_Madsen,_Gl._Havdrup","Henning Madsen, Gl. Havdrup","Venstre, Danmarks Liberale Parti",33
+Solrød,1,Havdrup,"V_Lars_Mark,_Solrød_Strand","Lars Mark, Solrød Strand","Venstre, Danmarks Liberale Parti",1
+Solrød,1,Havdrup,"V_Betinna_Nørring,_Jersie_Strand","Betinna Nørring, Jersie Strand","Venstre, Danmarks Liberale Parti",2
+Solrød,1,Havdrup,"V_Peter_Klokker,_Kirke_Skensved","Peter Klokker, Kirke Skensved","Venstre, Danmarks Liberale Parti",21
+Solrød,1,Havdrup,"V_Musa_Akin,_Jersie_Strand","Musa Akin, Jersie Strand","Venstre, Danmarks Liberale Parti",2
+Solrød,1,Havdrup,"V_Niels_Valstedgaard,_Havdrup","Niels Valstedgaard, Havdrup","Venstre, Danmarks Liberale Parti",13
+Solrød,1,Havdrup,"V_Stig_Johansen,_Havdrup","Stig Johansen, Havdrup","Venstre, Danmarks Liberale Parti",15
+Solrød,1,Havdrup,"V_Mathilde_Heinze,_Solrød","Mathilde Heinze, Solrød","Venstre, Danmarks Liberale Parti",5
+Solrød,1,Havdrup,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,25
+Solrød,1,Havdrup,Ø_Birgit_Gedionsen,Birgit Gedionsen,Enhedslisten - De Rød-Grønne,9
+Solrød,1,Havdrup,Ø_Helle_Thorsen,Helle Thorsen,Enhedslisten - De Rød-Grønne,3
+Solrød,1,Havdrup,Ø_Kenneth_Øverup,Kenneth Øverup,Enhedslisten - De Rød-Grønne,16
+Solrød,4,Det Nordlige Strandområde,A_Listestemmer,Listestemmer,Socialdemokratiet,236
+Solrød,4,Det Nordlige Strandområde,A_Jonas_Ring_Madsen,Jonas Ring Madsen,Socialdemokratiet,341
+Solrød,4,Det Nordlige Strandområde,A_Jytte_Willendrup,Jytte Willendrup,Socialdemokratiet,44
+Solrød,4,Det Nordlige Strandområde,A_Anette_Fynbo_Blem,Anette Fynbo Blem,Socialdemokratiet,54
+Solrød,4,Det Nordlige Strandområde,A_Hanne_Bache_Vognbjerg,Hanne Bache Vognbjerg,Socialdemokratiet,31
+Solrød,4,Det Nordlige Strandområde,A_John_Wennerwald,John Wennerwald,Socialdemokratiet,32
+Solrød,4,Det Nordlige Strandområde,A_Finn_Larsen,Finn Larsen,Socialdemokratiet,17
+Solrød,4,Det Nordlige Strandområde,A_Finn_Åge_Rasmussen,Finn Åge Rasmussen,Socialdemokratiet,9
+Solrød,4,Det Nordlige Strandområde,A_Arne_Nowicki_Pedersen,Arne Nowicki Pedersen,Socialdemokratiet,5
+Solrød,4,Det Nordlige Strandområde,A_John_Løvenskjold_Nielsen,John Løvenskjold Nielsen,Socialdemokratiet,4
+Solrød,4,Det Nordlige Strandområde,A_Bendt_Kirk,Bendt Kirk,Socialdemokratiet,2
+Solrød,4,Det Nordlige Strandområde,B_Listestemmer,Listestemmer,Radikale Venstre,20
+Solrød,4,Det Nordlige Strandområde,B_Per_Laursen,Per Laursen,Radikale Venstre,33
+Solrød,4,Det Nordlige Strandområde,B_Michael_Cubbin,Michael Cubbin,Radikale Venstre,5
+Solrød,4,Det Nordlige Strandområde,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,203
+Solrød,4,Det Nordlige Strandområde,C_Jan_Færch,Jan Færch,Det Konservative Folkeparti,214
+Solrød,4,Det Nordlige Strandområde,C_Morten_Scheelsbeck,Morten Scheelsbeck,Det Konservative Folkeparti,73
+Solrød,4,Det Nordlige Strandområde,C_Mads_Silberg,Mads Silberg,Det Konservative Folkeparti,54
+Solrød,4,Det Nordlige Strandområde,C_Martin_Truberg_Jensen,Martin Truberg Jensen,Det Konservative Folkeparti,31
+Solrød,4,Det Nordlige Strandområde,C_Therese_Nebel,Therese Nebel,Det Konservative Folkeparti,24
+Solrød,4,Det Nordlige Strandområde,C_Mia_Qvist_Scheelsbeck,Mia Qvist Scheelsbeck,Det Konservative Folkeparti,13
+Solrød,4,Det Nordlige Strandområde,C_John_Mogensen,John Mogensen,Det Konservative Folkeparti,4
+Solrød,4,Det Nordlige Strandområde,C_Steen_Knuppert-Hansen,Steen Knuppert-Hansen,Det Konservative Folkeparti,11
+Solrød,4,Det Nordlige Strandområde,D_Listestemmer,Listestemmer,Nye Borgerlige,64
+Solrød,4,Det Nordlige Strandområde,D_Ulrik_Nick_Lassen,Ulrik Nick Lassen,Nye Borgerlige,56
+Solrød,4,Det Nordlige Strandområde,D_Palle_Hemmingsen,Palle Hemmingsen,Nye Borgerlige,15
+Solrød,4,Det Nordlige Strandområde,D_Linda_Basse,Linda Basse,Nye Borgerlige,23
+Solrød,4,Det Nordlige Strandområde,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,58
+Solrød,4,Det Nordlige Strandområde,"F_Henrik_T._Larsen,_Jersie_Str.","Henrik T. Larsen, Jersie Str.",SF - Socialistisk Folkeparti,11
+Solrød,4,Det Nordlige Strandområde,"F_Claus_Redder_Madsen,_Jersie","Claus Redder Madsen, Jersie",SF - Socialistisk Folkeparti,24
+Solrød,4,Det Nordlige Strandområde,"F_Eva_Rosenbæk-Svane,_Jersie_Strand","Eva Rosenbæk-Svane, Jersie Strand",SF - Socialistisk Folkeparti,42
+Solrød,4,Det Nordlige Strandområde,"F_Farid_Faizi,_Solrød_Strand","Farid Faizi, Solrød Strand",SF - Socialistisk Folkeparti,17
+Solrød,4,Det Nordlige Strandområde,"F_Marianne_Svane,_Jersie_Strand","Marianne Svane, Jersie Strand",SF - Socialistisk Folkeparti,11
+Solrød,4,Det Nordlige Strandområde,"F_Marianne_Hauge,_Havdrup","Marianne Hauge, Havdrup",SF - Socialistisk Folkeparti,7
+Solrød,4,Det Nordlige Strandområde,"F_Ida_Harsløf,_Solrød_Landsby","Ida Harsløf, Solrød Landsby",SF - Socialistisk Folkeparti,7
+Solrød,4,Det Nordlige Strandområde,H_Listestemmer,Listestemmer,VoresSolrød,239
+Solrød,4,Det Nordlige Strandområde,H_Christian_Nyholm,Christian Nyholm,VoresSolrød,108
+Solrød,4,Det Nordlige Strandområde,H_Ina_Lindemark,Ina Lindemark,VoresSolrød,124
+Solrød,4,Det Nordlige Strandområde,H_Jannik_Jensen,Jannik Jensen,VoresSolrød,13
+Solrød,4,Det Nordlige Strandområde,H_Lil_Lyrstrand,Lil Lyrstrand,VoresSolrød,91
+Solrød,4,Det Nordlige Strandområde,H_Carsten_Ring,Carsten Ring,VoresSolrød,59
+Solrød,4,Det Nordlige Strandområde,H_Orla_Bakdal,Orla Bakdal,VoresSolrød,19
+Solrød,4,Det Nordlige Strandområde,H_Pernille_S._Christiansen,Pernille S. Christiansen,VoresSolrød,18
+Solrød,4,Det Nordlige Strandområde,H_Knud_Rasmussen,Knud Rasmussen,VoresSolrød,16
+Solrød,4,Det Nordlige Strandområde,H_Bente_Dahl,Bente Dahl,VoresSolrød,5
+Solrød,4,Det Nordlige Strandområde,H_Torben_Skernby,Torben Skernby,VoresSolrød,45
+Solrød,4,Det Nordlige Strandområde,H_Per_S._Jensen,Per S. Jensen,VoresSolrød,6
+Solrød,4,Det Nordlige Strandområde,H_Jacob_Kock_Plinius,Jacob Kock Plinius,VoresSolrød,14
+Solrød,4,Det Nordlige Strandområde,I_Listestemmer,Listestemmer,Liberal Alliance,79
+Solrød,4,Det Nordlige Strandområde,I_Emil_Blücher,Emil Blücher,Liberal Alliance,596
+Solrød,4,Det Nordlige Strandområde,I_Henrik_Boye,Henrik Boye,Liberal Alliance,24
+Solrød,4,Det Nordlige Strandområde,I_Regine_Hovmøller,Regine Hovmøller,Liberal Alliance,53
+Solrød,4,Det Nordlige Strandområde,L_Listestemmer,Listestemmer,Havdruplisten,3
+Solrød,4,Det Nordlige Strandområde,"L_Christian_Vang,_Havdrup","Christian Vang, Havdrup",Havdruplisten,8
+Solrød,4,Det Nordlige Strandområde,"L_Bo_C._Christiansen,_Havdrup","Bo C. Christiansen, Havdrup",Havdruplisten,3
+Solrød,4,Det Nordlige Strandområde,"L_Finn_H._Jensen,_Havdrup","Finn H. Jensen, Havdrup",Havdruplisten,0
+Solrød,4,Det Nordlige Strandområde,"L_Bettina_Kastrup,_Havdrup","Bettina Kastrup, Havdrup",Havdruplisten,3
+Solrød,4,Det Nordlige Strandområde,O_Listestemmer,Listestemmer,Dansk Folkeparti,49
+Solrød,4,Det Nordlige Strandområde,"O_Brian_Mørch,_Jersie_Strand","Brian Mørch, Jersie Strand",Dansk Folkeparti,121
+Solrød,4,Det Nordlige Strandområde,"O_Helle_Zelasny,_Havdrup","Helle Zelasny, Havdrup",Dansk Folkeparti,5
+Solrød,4,Det Nordlige Strandområde,"O_Per_Pohlmann,_Kirke_Skensved","Per Pohlmann, Kirke Skensved",Dansk Folkeparti,0
+Solrød,4,Det Nordlige Strandområde,"O_Steffen_Røgind,_Solrød_Strand","Steffen Røgind, Solrød Strand",Dansk Folkeparti,9
+Solrød,4,Det Nordlige Strandområde,"O_Flemming_Bugge,_Solrød_Strand","Flemming Bugge, Solrød Strand",Dansk Folkeparti,4
+Solrød,4,Det Nordlige Strandområde,"O_Tommy_Winther,_Solrød_Strand","Tommy Winther, Solrød Strand",Dansk Folkeparti,3
+Solrød,4,Det Nordlige Strandområde,"O_Christen_Kristensen,_Jersie_Strand","Christen Kristensen, Jersie Strand",Dansk Folkeparti,1
+Solrød,4,Det Nordlige Strandområde,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",238
+Solrød,4,Det Nordlige Strandområde,"V_Niels_Hörup,_Solrød_Strand","Niels Hörup, Solrød Strand","Venstre, Danmarks Liberale Parti",477
+Solrød,4,Det Nordlige Strandområde,"V_Kim_Sunesen,_Karlstrup","Kim Sunesen, Karlstrup","Venstre, Danmarks Liberale Parti",110
+Solrød,4,Det Nordlige Strandområde,"V_Ivar_Haugaard-Hansen,Solrød_Strand","Ivar Haugaard-Hansen,Solrød Strand","Venstre, Danmarks Liberale Parti",50
+Solrød,4,Det Nordlige Strandområde,"V_Lene_Stevnhoved,_Trylleskov_Strand","Lene Stevnhoved, Trylleskov Strand","Venstre, Danmarks Liberale Parti",56
+Solrød,4,Det Nordlige Strandområde,"V_Michael_Arnø,_Jersie_Strand","Michael Arnø, Jersie Strand","Venstre, Danmarks Liberale Parti",16
+Solrød,4,Det Nordlige Strandområde,"V_Dina_Oxfeldt,_Jersie_Strand","Dina Oxfeldt, Jersie Strand","Venstre, Danmarks Liberale Parti",7
+Solrød,4,Det Nordlige Strandområde,"V_Henning_Arlofelt_Petersen,Solr.str","Henning Arlofelt Petersen,Solr.str","Venstre, Danmarks Liberale Parti",30
+Solrød,4,Det Nordlige Strandområde,"V_Henning_Madsen,_Gl._Havdrup","Henning Madsen, Gl. Havdrup","Venstre, Danmarks Liberale Parti",18
+Solrød,4,Det Nordlige Strandområde,"V_Lars_Mark,_Solrød_Strand","Lars Mark, Solrød Strand","Venstre, Danmarks Liberale Parti",12
+Solrød,4,Det Nordlige Strandområde,"V_Betinna_Nørring,_Jersie_Strand","Betinna Nørring, Jersie Strand","Venstre, Danmarks Liberale Parti",3
+Solrød,4,Det Nordlige Strandområde,"V_Peter_Klokker,_Kirke_Skensved","Peter Klokker, Kirke Skensved","Venstre, Danmarks Liberale Parti",1
+Solrød,4,Det Nordlige Strandområde,"V_Musa_Akin,_Jersie_Strand","Musa Akin, Jersie Strand","Venstre, Danmarks Liberale Parti",26
+Solrød,4,Det Nordlige Strandområde,"V_Niels_Valstedgaard,_Havdrup","Niels Valstedgaard, Havdrup","Venstre, Danmarks Liberale Parti",2
+Solrød,4,Det Nordlige Strandområde,"V_Stig_Johansen,_Havdrup","Stig Johansen, Havdrup","Venstre, Danmarks Liberale Parti",3
+Solrød,4,Det Nordlige Strandområde,"V_Mathilde_Heinze,_Solrød","Mathilde Heinze, Solrød","Venstre, Danmarks Liberale Parti",17
+Solrød,4,Det Nordlige Strandområde,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,42
+Solrød,4,Det Nordlige Strandområde,Ø_Birgit_Gedionsen,Birgit Gedionsen,Enhedslisten - De Rød-Grønne,19
+Solrød,4,Det Nordlige Strandområde,Ø_Helle_Thorsen,Helle Thorsen,Enhedslisten - De Rød-Grønne,9
+Solrød,4,Det Nordlige Strandområde,Ø_Kenneth_Øverup,Kenneth Øverup,Enhedslisten - De Rød-Grønne,26
+Solrød,5,Det Sydlige Strandområde,A_Listestemmer,Listestemmer,Socialdemokratiet,296
+Solrød,5,Det Sydlige Strandområde,A_Jonas_Ring_Madsen,Jonas Ring Madsen,Socialdemokratiet,431
+Solrød,5,Det Sydlige Strandområde,A_Jytte_Willendrup,Jytte Willendrup,Socialdemokratiet,47
+Solrød,5,Det Sydlige Strandområde,A_Anette_Fynbo_Blem,Anette Fynbo Blem,Socialdemokratiet,60
+Solrød,5,Det Sydlige Strandområde,A_Hanne_Bache_Vognbjerg,Hanne Bache Vognbjerg,Socialdemokratiet,56
+Solrød,5,Det Sydlige Strandområde,A_John_Wennerwald,John Wennerwald,Socialdemokratiet,18
+Solrød,5,Det Sydlige Strandområde,A_Finn_Larsen,Finn Larsen,Socialdemokratiet,24
+Solrød,5,Det Sydlige Strandområde,A_Finn_Åge_Rasmussen,Finn Åge Rasmussen,Socialdemokratiet,22
+Solrød,5,Det Sydlige Strandområde,A_Arne_Nowicki_Pedersen,Arne Nowicki Pedersen,Socialdemokratiet,12
+Solrød,5,Det Sydlige Strandområde,A_John_Løvenskjold_Nielsen,John Løvenskjold Nielsen,Socialdemokratiet,8
+Solrød,5,Det Sydlige Strandområde,A_Bendt_Kirk,Bendt Kirk,Socialdemokratiet,10
+Solrød,5,Det Sydlige Strandområde,B_Listestemmer,Listestemmer,Radikale Venstre,33
+Solrød,5,Det Sydlige Strandområde,B_Per_Laursen,Per Laursen,Radikale Venstre,19
+Solrød,5,Det Sydlige Strandområde,B_Michael_Cubbin,Michael Cubbin,Radikale Venstre,4
+Solrød,5,Det Sydlige Strandområde,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,221
+Solrød,5,Det Sydlige Strandområde,C_Jan_Færch,Jan Færch,Det Konservative Folkeparti,226
+Solrød,5,Det Sydlige Strandområde,C_Morten_Scheelsbeck,Morten Scheelsbeck,Det Konservative Folkeparti,76
+Solrød,5,Det Sydlige Strandområde,C_Mads_Silberg,Mads Silberg,Det Konservative Folkeparti,54
+Solrød,5,Det Sydlige Strandområde,C_Martin_Truberg_Jensen,Martin Truberg Jensen,Det Konservative Folkeparti,42
+Solrød,5,Det Sydlige Strandområde,C_Therese_Nebel,Therese Nebel,Det Konservative Folkeparti,16
+Solrød,5,Det Sydlige Strandområde,C_Mia_Qvist_Scheelsbeck,Mia Qvist Scheelsbeck,Det Konservative Folkeparti,12
+Solrød,5,Det Sydlige Strandområde,C_John_Mogensen,John Mogensen,Det Konservative Folkeparti,6
+Solrød,5,Det Sydlige Strandområde,C_Steen_Knuppert-Hansen,Steen Knuppert-Hansen,Det Konservative Folkeparti,1
+Solrød,5,Det Sydlige Strandområde,D_Listestemmer,Listestemmer,Nye Borgerlige,66
+Solrød,5,Det Sydlige Strandområde,D_Ulrik_Nick_Lassen,Ulrik Nick Lassen,Nye Borgerlige,101
+Solrød,5,Det Sydlige Strandområde,D_Palle_Hemmingsen,Palle Hemmingsen,Nye Borgerlige,9
+Solrød,5,Det Sydlige Strandområde,D_Linda_Basse,Linda Basse,Nye Borgerlige,23
+Solrød,5,Det Sydlige Strandområde,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,60
+Solrød,5,Det Sydlige Strandområde,"F_Henrik_T._Larsen,_Jersie_Str.","Henrik T. Larsen, Jersie Str.",SF - Socialistisk Folkeparti,12
+Solrød,5,Det Sydlige Strandområde,"F_Claus_Redder_Madsen,_Jersie","Claus Redder Madsen, Jersie",SF - Socialistisk Folkeparti,32
+Solrød,5,Det Sydlige Strandområde,"F_Eva_Rosenbæk-Svane,_Jersie_Strand","Eva Rosenbæk-Svane, Jersie Strand",SF - Socialistisk Folkeparti,60
+Solrød,5,Det Sydlige Strandområde,"F_Farid_Faizi,_Solrød_Strand","Farid Faizi, Solrød Strand",SF - Socialistisk Folkeparti,5
+Solrød,5,Det Sydlige Strandområde,"F_Marianne_Svane,_Jersie_Strand","Marianne Svane, Jersie Strand",SF - Socialistisk Folkeparti,20
+Solrød,5,Det Sydlige Strandområde,"F_Marianne_Hauge,_Havdrup","Marianne Hauge, Havdrup",SF - Socialistisk Folkeparti,2
+Solrød,5,Det Sydlige Strandområde,"F_Ida_Harsløf,_Solrød_Landsby","Ida Harsløf, Solrød Landsby",SF - Socialistisk Folkeparti,2
+Solrød,5,Det Sydlige Strandområde,H_Listestemmer,Listestemmer,VoresSolrød,335
+Solrød,5,Det Sydlige Strandområde,H_Christian_Nyholm,Christian Nyholm,VoresSolrød,203
+Solrød,5,Det Sydlige Strandområde,H_Ina_Lindemark,Ina Lindemark,VoresSolrød,195
+Solrød,5,Det Sydlige Strandområde,H_Jannik_Jensen,Jannik Jensen,VoresSolrød,50
+Solrød,5,Det Sydlige Strandområde,H_Lil_Lyrstrand,Lil Lyrstrand,VoresSolrød,90
+Solrød,5,Det Sydlige Strandområde,H_Carsten_Ring,Carsten Ring,VoresSolrød,146
+Solrød,5,Det Sydlige Strandområde,H_Orla_Bakdal,Orla Bakdal,VoresSolrød,49
+Solrød,5,Det Sydlige Strandområde,H_Pernille_S._Christiansen,Pernille S. Christiansen,VoresSolrød,38
+Solrød,5,Det Sydlige Strandområde,H_Knud_Rasmussen,Knud Rasmussen,VoresSolrød,27
+Solrød,5,Det Sydlige Strandområde,H_Bente_Dahl,Bente Dahl,VoresSolrød,10
+Solrød,5,Det Sydlige Strandområde,H_Torben_Skernby,Torben Skernby,VoresSolrød,37
+Solrød,5,Det Sydlige Strandområde,H_Per_S._Jensen,Per S. Jensen,VoresSolrød,8
+Solrød,5,Det Sydlige Strandområde,H_Jacob_Kock_Plinius,Jacob Kock Plinius,VoresSolrød,6
+Solrød,5,Det Sydlige Strandområde,I_Listestemmer,Listestemmer,Liberal Alliance,89
+Solrød,5,Det Sydlige Strandområde,I_Emil_Blücher,Emil Blücher,Liberal Alliance,805
+Solrød,5,Det Sydlige Strandområde,I_Henrik_Boye,Henrik Boye,Liberal Alliance,25
+Solrød,5,Det Sydlige Strandområde,I_Regine_Hovmøller,Regine Hovmøller,Liberal Alliance,46
+Solrød,5,Det Sydlige Strandområde,L_Listestemmer,Listestemmer,Havdruplisten,3
+Solrød,5,Det Sydlige Strandområde,"L_Christian_Vang,_Havdrup","Christian Vang, Havdrup",Havdruplisten,4
+Solrød,5,Det Sydlige Strandområde,"L_Bo_C._Christiansen,_Havdrup","Bo C. Christiansen, Havdrup",Havdruplisten,4
+Solrød,5,Det Sydlige Strandområde,"L_Finn_H._Jensen,_Havdrup","Finn H. Jensen, Havdrup",Havdruplisten,2
+Solrød,5,Det Sydlige Strandområde,"L_Bettina_Kastrup,_Havdrup","Bettina Kastrup, Havdrup",Havdruplisten,10
+Solrød,5,Det Sydlige Strandområde,O_Listestemmer,Listestemmer,Dansk Folkeparti,61
+Solrød,5,Det Sydlige Strandområde,"O_Brian_Mørch,_Jersie_Strand","Brian Mørch, Jersie Strand",Dansk Folkeparti,165
+Solrød,5,Det Sydlige Strandområde,"O_Helle_Zelasny,_Havdrup","Helle Zelasny, Havdrup",Dansk Folkeparti,9
+Solrød,5,Det Sydlige Strandområde,"O_Per_Pohlmann,_Kirke_Skensved","Per Pohlmann, Kirke Skensved",Dansk Folkeparti,3
+Solrød,5,Det Sydlige Strandområde,"O_Steffen_Røgind,_Solrød_Strand","Steffen Røgind, Solrød Strand",Dansk Folkeparti,10
+Solrød,5,Det Sydlige Strandområde,"O_Flemming_Bugge,_Solrød_Strand","Flemming Bugge, Solrød Strand",Dansk Folkeparti,1
+Solrød,5,Det Sydlige Strandområde,"O_Tommy_Winther,_Solrød_Strand","Tommy Winther, Solrød Strand",Dansk Folkeparti,2
+Solrød,5,Det Sydlige Strandområde,"O_Christen_Kristensen,_Jersie_Strand","Christen Kristensen, Jersie Strand",Dansk Folkeparti,2
+Solrød,5,Det Sydlige Strandområde,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",238
+Solrød,5,Det Sydlige Strandområde,"V_Niels_Hörup,_Solrød_Strand","Niels Hörup, Solrød Strand","Venstre, Danmarks Liberale Parti",499
+Solrød,5,Det Sydlige Strandområde,"V_Kim_Sunesen,_Karlstrup","Kim Sunesen, Karlstrup","Venstre, Danmarks Liberale Parti",74
+Solrød,5,Det Sydlige Strandområde,"V_Ivar_Haugaard-Hansen,Solrød_Strand","Ivar Haugaard-Hansen,Solrød Strand","Venstre, Danmarks Liberale Parti",77
+Solrød,5,Det Sydlige Strandområde,"V_Lene_Stevnhoved,_Trylleskov_Strand","Lene Stevnhoved, Trylleskov Strand","Venstre, Danmarks Liberale Parti",42
+Solrød,5,Det Sydlige Strandområde,"V_Michael_Arnø,_Jersie_Strand","Michael Arnø, Jersie Strand","Venstre, Danmarks Liberale Parti",50
+Solrød,5,Det Sydlige Strandområde,"V_Dina_Oxfeldt,_Jersie_Strand","Dina Oxfeldt, Jersie Strand","Venstre, Danmarks Liberale Parti",19
+Solrød,5,Det Sydlige Strandområde,"V_Henning_Arlofelt_Petersen,Solr.str","Henning Arlofelt Petersen,Solr.str","Venstre, Danmarks Liberale Parti",20
+Solrød,5,Det Sydlige Strandområde,"V_Henning_Madsen,_Gl._Havdrup","Henning Madsen, Gl. Havdrup","Venstre, Danmarks Liberale Parti",12
+Solrød,5,Det Sydlige Strandområde,"V_Lars_Mark,_Solrød_Strand","Lars Mark, Solrød Strand","Venstre, Danmarks Liberale Parti",8
+Solrød,5,Det Sydlige Strandområde,"V_Betinna_Nørring,_Jersie_Strand","Betinna Nørring, Jersie Strand","Venstre, Danmarks Liberale Parti",7
+Solrød,5,Det Sydlige Strandområde,"V_Peter_Klokker,_Kirke_Skensved","Peter Klokker, Kirke Skensved","Venstre, Danmarks Liberale Parti",1
+Solrød,5,Det Sydlige Strandområde,"V_Musa_Akin,_Jersie_Strand","Musa Akin, Jersie Strand","Venstre, Danmarks Liberale Parti",38
+Solrød,5,Det Sydlige Strandområde,"V_Niels_Valstedgaard,_Havdrup","Niels Valstedgaard, Havdrup","Venstre, Danmarks Liberale Parti",9
+Solrød,5,Det Sydlige Strandområde,"V_Stig_Johansen,_Havdrup","Stig Johansen, Havdrup","Venstre, Danmarks Liberale Parti",4
+Solrød,5,Det Sydlige Strandområde,"V_Mathilde_Heinze,_Solrød","Mathilde Heinze, Solrød","Venstre, Danmarks Liberale Parti",15
+Solrød,5,Det Sydlige Strandområde,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,51
+Solrød,5,Det Sydlige Strandområde,Ø_Birgit_Gedionsen,Birgit Gedionsen,Enhedslisten - De Rød-Grønne,37
+Solrød,5,Det Sydlige Strandområde,Ø_Helle_Thorsen,Helle Thorsen,Enhedslisten - De Rød-Grønne,17
+Solrød,5,Det Sydlige Strandområde,Ø_Kenneth_Øverup,Kenneth Øverup,Enhedslisten - De Rød-Grønne,52
