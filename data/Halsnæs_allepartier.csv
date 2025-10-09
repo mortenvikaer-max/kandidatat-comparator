@@ -1,0 +1,386 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Halsnæs,1,Hundested,A_Listestemmer,Listestemmer,Socialdemokratiet,322
+Halsnæs,1,Hundested,A_Steffen_Jensen,Steffen Jensen,Socialdemokratiet,1363
+Halsnæs,1,Hundested,A_Helge_Friis,Helge Friis,Socialdemokratiet,37
+Halsnæs,1,Hundested,A_Helle_Lunderød,Helle Lunderød,Socialdemokratiet,28
+Halsnæs,1,Hundested,A_Annette_Westh,Annette Westh,Socialdemokratiet,71
+Halsnæs,1,Hundested,A_Henrik_Tolstrup,Henrik Tolstrup,Socialdemokratiet,12
+Halsnæs,1,Hundested,A_Torben_Hedelund,Torben Hedelund,Socialdemokratiet,164
+Halsnæs,1,Hundested,A_Tommy_Frøslev,Tommy Frøslev,Socialdemokratiet,133
+Halsnæs,1,Hundested,A_Kirsten_Lauritsen,Kirsten Lauritsen,Socialdemokratiet,30
+Halsnæs,1,Hundested,A_Jannik_Haulik_Jørgensen,Jannik Haulik Jørgensen,Socialdemokratiet,49
+Halsnæs,1,Hundested,A_Matilde_Ørsted,Matilde Ørsted,Socialdemokratiet,36
+Halsnæs,1,Hundested,A_Rolf_Møller_Hansen,Rolf Møller Hansen,Socialdemokratiet,2
+Halsnæs,1,Hundested,A_Mads_Vergo,Mads Vergo,Socialdemokratiet,19
+Halsnæs,1,Hundested,A_Niclas_Bannebjerg_Nanboe,Niclas Bannebjerg Nanboe,Socialdemokratiet,12
+Halsnæs,1,Hundested,A_Kirstin_Kristensen,Kirstin Kristensen,Socialdemokratiet,8
+Halsnæs,1,Hundested,A_Kim_Daugbjerg,Kim Daugbjerg,Socialdemokratiet,9
+Halsnæs,1,Hundested,A_Steen_Lindblad,Steen Lindblad,Socialdemokratiet,2
+Halsnæs,1,Hundested,A_Steen_Mikkelsen,Steen Mikkelsen,Socialdemokratiet,37
+Halsnæs,1,Hundested,B_Listestemmer,Listestemmer,Radikale Venstre,26
+Halsnæs,1,Hundested,B_Jesper_Kirkebye_Andersen,Jesper Kirkebye Andersen,Radikale Venstre,12
+Halsnæs,1,Hundested,B_Anne-Mette_Lorenzen,Anne-Mette Lorenzen,Radikale Venstre,19
+Halsnæs,1,Hundested,B_Morten_Nielsen,Morten Nielsen,Radikale Venstre,3
+Halsnæs,1,Hundested,B_Morten_Lorenzen,Morten Lorenzen,Radikale Venstre,2
+Halsnæs,1,Hundested,B_Steen_Bager,Steen Bager,Radikale Venstre,22
+Halsnæs,1,Hundested,B_Dorthe_Myndal_Fogtmann,Dorthe Myndal Fogtmann,Radikale Venstre,8
+Halsnæs,1,Hundested,B_Mona_Højlund,Mona Højlund,Radikale Venstre,0
+Halsnæs,1,Hundested,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,111
+Halsnæs,1,Hundested,"C_Kim_Jensen,_Hundested","Kim Jensen, Hundested",Det Konservative Folkeparti,123
+Halsnæs,1,Hundested,"C_Peter_Nørris_Dalsgaard,_Fr-værk","Peter Nørris Dalsgaard, Fr-værk",Det Konservative Folkeparti,20
+Halsnæs,1,Hundested,"C_Søren_Hersdorf,_Ølsted","Søren Hersdorf, Ølsted",Det Konservative Folkeparti,22
+Halsnæs,1,Hundested,"C_Kirsten_Aunstrup,_Frederiksværk","Kirsten Aunstrup, Frederiksværk",Det Konservative Folkeparti,17
+Halsnæs,1,Hundested,"C_Søren_Vester-Fabrin,_Auderød","Søren Vester-Fabrin, Auderød",Det Konservative Folkeparti,11
+Halsnæs,1,Hundested,D_Listestemmer,Listestemmer,Nye Borgerlige,91
+Halsnæs,1,Hundested,D_Johan_Thorup,Johan Thorup,Nye Borgerlige,79
+Halsnæs,1,Hundested,D_Henning_Linnemann,Henning Linnemann,Nye Borgerlige,14
+Halsnæs,1,Hundested,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,100
+Halsnæs,1,Hundested,"F_Anja_Rosengreen,_Hundested","Anja Rosengreen, Hundested",SF - Socialistisk Folkeparti,428
+Halsnæs,1,Hundested,"F_Olaf_Prien,_Frederiksværk","Olaf Prien, Frederiksværk",SF - Socialistisk Folkeparti,38
+Halsnæs,1,Hundested,"F_Peter_Nilsson,_Sølager","Peter Nilsson, Sølager",SF - Socialistisk Folkeparti,30
+Halsnæs,1,Hundested,"F_Kristine_Skarbinika_Pedersen,_Eng","Kristine Skarbinika Pedersen, Eng",SF - Socialistisk Folkeparti,1
+Halsnæs,1,Hundested,"F_Carsten_Møller,_Torup","Carsten Møller, Torup",SF - Socialistisk Folkeparti,50
+Halsnæs,1,Hundested,"F_Jane_Howe_Gersager,_Liseleje","Jane Howe Gersager, Liseleje",SF - Socialistisk Folkeparti,0
+Halsnæs,1,Hundested,"F_Dorthe_Jensen,_Frederiksværk","Dorthe Jensen, Frederiksværk",SF - Socialistisk Folkeparti,3
+Halsnæs,1,Hundested,"F_Anita_Bager,_Sølager","Anita Bager, Sølager",SF - Socialistisk Folkeparti,17
+Halsnæs,1,Hundested,"F_Ulla_Westtoft,_Hundested","Ulla Westtoft, Hundested",SF - Socialistisk Folkeparti,17
+Halsnæs,1,Hundested,M_Listestemmer,Listestemmer,Det Miljøradikale Parti,2
+Halsnæs,1,Hundested,M_Timo_Jattu,Timo Jattu,Det Miljøradikale Parti,41
+Halsnæs,1,Hundested,O_Listestemmer,Listestemmer,Dansk Folkeparti,72
+Halsnæs,1,Hundested,"O_Ole_S._Nielsen,_Evetofte","Ole S. Nielsen, Evetofte",Dansk Folkeparti,42
+Halsnæs,1,Hundested,"O_Victor_V._Nielsen,_Frederiksværk","Victor V. Nielsen, Frederiksværk",Dansk Folkeparti,13
+Halsnæs,1,Hundested,"O_Ole_Wedel,_Hundested","Ole Wedel, Hundested",Dansk Folkeparti,32
+Halsnæs,1,Hundested,"O_Merete_Egholm,_Ølsted","Merete Egholm, Ølsted",Dansk Folkeparti,9
+Halsnæs,1,Hundested,"O_Ove_Pedersen,_Hundested","Ove Pedersen, Hundested",Dansk Folkeparti,20
+Halsnæs,1,Hundested,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",206
+Halsnæs,1,Hundested,V_Michael_Thomsen,Michael Thomsen,"Venstre, Danmarks Liberale Parti",330
+Halsnæs,1,Hundested,V_Thomas_Møller_Nielsen,Thomas Møller Nielsen,"Venstre, Danmarks Liberale Parti",86
+Halsnæs,1,Hundested,V_Frederik_Germann,Frederik Germann,"Venstre, Danmarks Liberale Parti",94
+Halsnæs,1,Hundested,V_Sune_Raunkjær,Sune Raunkjær,"Venstre, Danmarks Liberale Parti",166
+Halsnæs,1,Hundested,V_Susan_Eirfeldt,Susan Eirfeldt,"Venstre, Danmarks Liberale Parti",106
+Halsnæs,1,Hundested,V_Lars_Stegman,Lars Stegman,"Venstre, Danmarks Liberale Parti",93
+Halsnæs,1,Hundested,V_Mette_Kjerulf,Mette Kjerulf,"Venstre, Danmarks Liberale Parti",51
+Halsnæs,1,Hundested,V_Bitten_Jørgensen,Bitten Jørgensen,"Venstre, Danmarks Liberale Parti",13
+Halsnæs,1,Hundested,V_Niels_Bruun,Niels Bruun,"Venstre, Danmarks Liberale Parti",5
+Halsnæs,1,Hundested,V_Lars_Frost,Lars Frost,"Venstre, Danmarks Liberale Parti",6
+Halsnæs,1,Hundested,V_Tarja_Knudsen,Tarja Knudsen,"Venstre, Danmarks Liberale Parti",16
+Halsnæs,1,Hundested,V_Lili_Lyng_Madsen,Lili Lyng Madsen,"Venstre, Danmarks Liberale Parti",1
+Halsnæs,1,Hundested,V_Birger_Jarulf,Birger Jarulf,"Venstre, Danmarks Liberale Parti",2
+Halsnæs,1,Hundested,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,139
+Halsnæs,1,Hundested,"Ø_Thue_Lundgaard,_Frederiksværk","Thue Lundgaard, Frederiksværk",Enhedslisten - De Rød-Grønne,118
+Halsnæs,1,Hundested,"Ø_Kirsten_Agnes_Bilfeldt,_Torup","Kirsten Agnes Bilfeldt, Torup",Enhedslisten - De Rød-Grønne,115
+Halsnæs,1,Hundested,"Ø_Benny_Nielsen,_Frederiksværk","Benny Nielsen, Frederiksværk",Enhedslisten - De Rød-Grønne,6
+Halsnæs,1,Hundested,"Ø_Per_Heisselberg,_Frederiksværk","Per Heisselberg, Frederiksværk",Enhedslisten - De Rød-Grønne,2
+Halsnæs,1,Hundested,"Ø_Lilli_Davids,_Hundested","Lilli Davids, Hundested",Enhedslisten - De Rød-Grønne,29
+Halsnæs,1,Hundested,"Ø_Steen_Andersen,_Hundested","Steen Andersen, Hundested",Enhedslisten - De Rød-Grønne,14
+Halsnæs,1,Hundested,Å_Listestemmer,Listestemmer,Alternativet,19
+Halsnæs,1,Hundested,"Å_Mariane_Lunden,_Hundested","Mariane Lunden, Hundested",Alternativet,41
+Halsnæs,1,Hundested,"Å_Nanna_Høyrup,_Hundested","Nanna Høyrup, Hundested",Alternativet,67
+Halsnæs,2,Melby,A_Listestemmer,Listestemmer,Socialdemokratiet,119
+Halsnæs,2,Melby,A_Steffen_Jensen,Steffen Jensen,Socialdemokratiet,727
+Halsnæs,2,Melby,A_Helge_Friis,Helge Friis,Socialdemokratiet,57
+Halsnæs,2,Melby,A_Helle_Lunderød,Helle Lunderød,Socialdemokratiet,25
+Halsnæs,2,Melby,A_Annette_Westh,Annette Westh,Socialdemokratiet,26
+Halsnæs,2,Melby,A_Henrik_Tolstrup,Henrik Tolstrup,Socialdemokratiet,16
+Halsnæs,2,Melby,A_Torben_Hedelund,Torben Hedelund,Socialdemokratiet,3
+Halsnæs,2,Melby,A_Tommy_Frøslev,Tommy Frøslev,Socialdemokratiet,1
+Halsnæs,2,Melby,A_Kirsten_Lauritsen,Kirsten Lauritsen,Socialdemokratiet,14
+Halsnæs,2,Melby,A_Jannik_Haulik_Jørgensen,Jannik Haulik Jørgensen,Socialdemokratiet,9
+Halsnæs,2,Melby,A_Matilde_Ørsted,Matilde Ørsted,Socialdemokratiet,30
+Halsnæs,2,Melby,A_Rolf_Møller_Hansen,Rolf Møller Hansen,Socialdemokratiet,6
+Halsnæs,2,Melby,A_Mads_Vergo,Mads Vergo,Socialdemokratiet,8
+Halsnæs,2,Melby,A_Niclas_Bannebjerg_Nanboe,Niclas Bannebjerg Nanboe,Socialdemokratiet,11
+Halsnæs,2,Melby,A_Kirstin_Kristensen,Kirstin Kristensen,Socialdemokratiet,9
+Halsnæs,2,Melby,A_Kim_Daugbjerg,Kim Daugbjerg,Socialdemokratiet,85
+Halsnæs,2,Melby,A_Steen_Lindblad,Steen Lindblad,Socialdemokratiet,2
+Halsnæs,2,Melby,A_Steen_Mikkelsen,Steen Mikkelsen,Socialdemokratiet,0
+Halsnæs,2,Melby,B_Listestemmer,Listestemmer,Radikale Venstre,10
+Halsnæs,2,Melby,B_Jesper_Kirkebye_Andersen,Jesper Kirkebye Andersen,Radikale Venstre,6
+Halsnæs,2,Melby,B_Anne-Mette_Lorenzen,Anne-Mette Lorenzen,Radikale Venstre,11
+Halsnæs,2,Melby,B_Morten_Nielsen,Morten Nielsen,Radikale Venstre,5
+Halsnæs,2,Melby,B_Morten_Lorenzen,Morten Lorenzen,Radikale Venstre,3
+Halsnæs,2,Melby,B_Steen_Bager,Steen Bager,Radikale Venstre,5
+Halsnæs,2,Melby,B_Dorthe_Myndal_Fogtmann,Dorthe Myndal Fogtmann,Radikale Venstre,4
+Halsnæs,2,Melby,B_Mona_Højlund,Mona Højlund,Radikale Venstre,1
+Halsnæs,2,Melby,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,71
+Halsnæs,2,Melby,"C_Kim_Jensen,_Hundested","Kim Jensen, Hundested",Det Konservative Folkeparti,45
+Halsnæs,2,Melby,"C_Peter_Nørris_Dalsgaard,_Fr-værk","Peter Nørris Dalsgaard, Fr-værk",Det Konservative Folkeparti,31
+Halsnæs,2,Melby,"C_Søren_Hersdorf,_Ølsted","Søren Hersdorf, Ølsted",Det Konservative Folkeparti,10
+Halsnæs,2,Melby,"C_Kirsten_Aunstrup,_Frederiksværk","Kirsten Aunstrup, Frederiksværk",Det Konservative Folkeparti,10
+Halsnæs,2,Melby,"C_Søren_Vester-Fabrin,_Auderød","Søren Vester-Fabrin, Auderød",Det Konservative Folkeparti,6
+Halsnæs,2,Melby,D_Listestemmer,Listestemmer,Nye Borgerlige,46
+Halsnæs,2,Melby,D_Johan_Thorup,Johan Thorup,Nye Borgerlige,22
+Halsnæs,2,Melby,D_Henning_Linnemann,Henning Linnemann,Nye Borgerlige,6
+Halsnæs,2,Melby,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,42
+Halsnæs,2,Melby,"F_Anja_Rosengreen,_Hundested","Anja Rosengreen, Hundested",SF - Socialistisk Folkeparti,115
+Halsnæs,2,Melby,"F_Olaf_Prien,_Frederiksværk","Olaf Prien, Frederiksværk",SF - Socialistisk Folkeparti,13
+Halsnæs,2,Melby,"F_Peter_Nilsson,_Sølager","Peter Nilsson, Sølager",SF - Socialistisk Folkeparti,1
+Halsnæs,2,Melby,"F_Kristine_Skarbinika_Pedersen,_Eng","Kristine Skarbinika Pedersen, Eng",SF - Socialistisk Folkeparti,3
+Halsnæs,2,Melby,"F_Carsten_Møller,_Torup","Carsten Møller, Torup",SF - Socialistisk Folkeparti,9
+Halsnæs,2,Melby,"F_Jane_Howe_Gersager,_Liseleje","Jane Howe Gersager, Liseleje",SF - Socialistisk Folkeparti,8
+Halsnæs,2,Melby,"F_Dorthe_Jensen,_Frederiksværk","Dorthe Jensen, Frederiksværk",SF - Socialistisk Folkeparti,2
+Halsnæs,2,Melby,"F_Anita_Bager,_Sølager","Anita Bager, Sølager",SF - Socialistisk Folkeparti,1
+Halsnæs,2,Melby,"F_Ulla_Westtoft,_Hundested","Ulla Westtoft, Hundested",SF - Socialistisk Folkeparti,2
+Halsnæs,2,Melby,M_Listestemmer,Listestemmer,Det Miljøradikale Parti,3
+Halsnæs,2,Melby,M_Timo_Jattu,Timo Jattu,Det Miljøradikale Parti,6
+Halsnæs,2,Melby,O_Listestemmer,Listestemmer,Dansk Folkeparti,30
+Halsnæs,2,Melby,"O_Ole_S._Nielsen,_Evetofte","Ole S. Nielsen, Evetofte",Dansk Folkeparti,40
+Halsnæs,2,Melby,"O_Victor_V._Nielsen,_Frederiksværk","Victor V. Nielsen, Frederiksværk",Dansk Folkeparti,14
+Halsnæs,2,Melby,"O_Ole_Wedel,_Hundested","Ole Wedel, Hundested",Dansk Folkeparti,7
+Halsnæs,2,Melby,"O_Merete_Egholm,_Ølsted","Merete Egholm, Ølsted",Dansk Folkeparti,6
+Halsnæs,2,Melby,"O_Ove_Pedersen,_Hundested","Ove Pedersen, Hundested",Dansk Folkeparti,1
+Halsnæs,2,Melby,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",99
+Halsnæs,2,Melby,V_Michael_Thomsen,Michael Thomsen,"Venstre, Danmarks Liberale Parti",184
+Halsnæs,2,Melby,V_Thomas_Møller_Nielsen,Thomas Møller Nielsen,"Venstre, Danmarks Liberale Parti",57
+Halsnæs,2,Melby,V_Frederik_Germann,Frederik Germann,"Venstre, Danmarks Liberale Parti",45
+Halsnæs,2,Melby,V_Sune_Raunkjær,Sune Raunkjær,"Venstre, Danmarks Liberale Parti",16
+Halsnæs,2,Melby,V_Susan_Eirfeldt,Susan Eirfeldt,"Venstre, Danmarks Liberale Parti",22
+Halsnæs,2,Melby,V_Lars_Stegman,Lars Stegman,"Venstre, Danmarks Liberale Parti",3
+Halsnæs,2,Melby,V_Mette_Kjerulf,Mette Kjerulf,"Venstre, Danmarks Liberale Parti",11
+Halsnæs,2,Melby,V_Bitten_Jørgensen,Bitten Jørgensen,"Venstre, Danmarks Liberale Parti",9
+Halsnæs,2,Melby,V_Niels_Bruun,Niels Bruun,"Venstre, Danmarks Liberale Parti",8
+Halsnæs,2,Melby,V_Lars_Frost,Lars Frost,"Venstre, Danmarks Liberale Parti",5
+Halsnæs,2,Melby,V_Tarja_Knudsen,Tarja Knudsen,"Venstre, Danmarks Liberale Parti",12
+Halsnæs,2,Melby,V_Lili_Lyng_Madsen,Lili Lyng Madsen,"Venstre, Danmarks Liberale Parti",2
+Halsnæs,2,Melby,V_Birger_Jarulf,Birger Jarulf,"Venstre, Danmarks Liberale Parti",1
+Halsnæs,2,Melby,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,40
+Halsnæs,2,Melby,"Ø_Thue_Lundgaard,_Frederiksværk","Thue Lundgaard, Frederiksværk",Enhedslisten - De Rød-Grønne,36
+Halsnæs,2,Melby,"Ø_Kirsten_Agnes_Bilfeldt,_Torup","Kirsten Agnes Bilfeldt, Torup",Enhedslisten - De Rød-Grønne,23
+Halsnæs,2,Melby,"Ø_Benny_Nielsen,_Frederiksværk","Benny Nielsen, Frederiksværk",Enhedslisten - De Rød-Grønne,3
+Halsnæs,2,Melby,"Ø_Per_Heisselberg,_Frederiksværk","Per Heisselberg, Frederiksværk",Enhedslisten - De Rød-Grønne,3
+Halsnæs,2,Melby,"Ø_Lilli_Davids,_Hundested","Lilli Davids, Hundested",Enhedslisten - De Rød-Grønne,2
+Halsnæs,2,Melby,"Ø_Steen_Andersen,_Hundested","Steen Andersen, Hundested",Enhedslisten - De Rød-Grønne,1
+Halsnæs,2,Melby,Å_Listestemmer,Listestemmer,Alternativet,8
+Halsnæs,2,Melby,"Å_Mariane_Lunden,_Hundested","Mariane Lunden, Hundested",Alternativet,7
+Halsnæs,2,Melby,"Å_Nanna_Høyrup,_Hundested","Nanna Høyrup, Hundested",Alternativet,14
+Halsnæs,3,Enghaven,A_Listestemmer,Listestemmer,Socialdemokratiet,129
+Halsnæs,3,Enghaven,A_Steffen_Jensen,Steffen Jensen,Socialdemokratiet,707
+Halsnæs,3,Enghaven,A_Helge_Friis,Helge Friis,Socialdemokratiet,26
+Halsnæs,3,Enghaven,A_Helle_Lunderød,Helle Lunderød,Socialdemokratiet,16
+Halsnæs,3,Enghaven,A_Annette_Westh,Annette Westh,Socialdemokratiet,59
+Halsnæs,3,Enghaven,A_Henrik_Tolstrup,Henrik Tolstrup,Socialdemokratiet,12
+Halsnæs,3,Enghaven,A_Torben_Hedelund,Torben Hedelund,Socialdemokratiet,4
+Halsnæs,3,Enghaven,A_Tommy_Frøslev,Tommy Frøslev,Socialdemokratiet,6
+Halsnæs,3,Enghaven,A_Kirsten_Lauritsen,Kirsten Lauritsen,Socialdemokratiet,15
+Halsnæs,3,Enghaven,A_Jannik_Haulik_Jørgensen,Jannik Haulik Jørgensen,Socialdemokratiet,9
+Halsnæs,3,Enghaven,A_Matilde_Ørsted,Matilde Ørsted,Socialdemokratiet,53
+Halsnæs,3,Enghaven,A_Rolf_Møller_Hansen,Rolf Møller Hansen,Socialdemokratiet,2
+Halsnæs,3,Enghaven,A_Mads_Vergo,Mads Vergo,Socialdemokratiet,16
+Halsnæs,3,Enghaven,A_Niclas_Bannebjerg_Nanboe,Niclas Bannebjerg Nanboe,Socialdemokratiet,3
+Halsnæs,3,Enghaven,A_Kirstin_Kristensen,Kirstin Kristensen,Socialdemokratiet,2
+Halsnæs,3,Enghaven,A_Kim_Daugbjerg,Kim Daugbjerg,Socialdemokratiet,16
+Halsnæs,3,Enghaven,A_Steen_Lindblad,Steen Lindblad,Socialdemokratiet,8
+Halsnæs,3,Enghaven,A_Steen_Mikkelsen,Steen Mikkelsen,Socialdemokratiet,4
+Halsnæs,3,Enghaven,B_Listestemmer,Listestemmer,Radikale Venstre,8
+Halsnæs,3,Enghaven,B_Jesper_Kirkebye_Andersen,Jesper Kirkebye Andersen,Radikale Venstre,7
+Halsnæs,3,Enghaven,B_Anne-Mette_Lorenzen,Anne-Mette Lorenzen,Radikale Venstre,6
+Halsnæs,3,Enghaven,B_Morten_Nielsen,Morten Nielsen,Radikale Venstre,1
+Halsnæs,3,Enghaven,B_Morten_Lorenzen,Morten Lorenzen,Radikale Venstre,3
+Halsnæs,3,Enghaven,B_Steen_Bager,Steen Bager,Radikale Venstre,6
+Halsnæs,3,Enghaven,B_Dorthe_Myndal_Fogtmann,Dorthe Myndal Fogtmann,Radikale Venstre,7
+Halsnæs,3,Enghaven,B_Mona_Højlund,Mona Højlund,Radikale Venstre,0
+Halsnæs,3,Enghaven,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,53
+Halsnæs,3,Enghaven,"C_Kim_Jensen,_Hundested","Kim Jensen, Hundested",Det Konservative Folkeparti,21
+Halsnæs,3,Enghaven,"C_Peter_Nørris_Dalsgaard,_Fr-værk","Peter Nørris Dalsgaard, Fr-værk",Det Konservative Folkeparti,27
+Halsnæs,3,Enghaven,"C_Søren_Hersdorf,_Ølsted","Søren Hersdorf, Ølsted",Det Konservative Folkeparti,7
+Halsnæs,3,Enghaven,"C_Kirsten_Aunstrup,_Frederiksværk","Kirsten Aunstrup, Frederiksværk",Det Konservative Folkeparti,8
+Halsnæs,3,Enghaven,"C_Søren_Vester-Fabrin,_Auderød","Søren Vester-Fabrin, Auderød",Det Konservative Folkeparti,5
+Halsnæs,3,Enghaven,D_Listestemmer,Listestemmer,Nye Borgerlige,33
+Halsnæs,3,Enghaven,D_Johan_Thorup,Johan Thorup,Nye Borgerlige,25
+Halsnæs,3,Enghaven,D_Henning_Linnemann,Henning Linnemann,Nye Borgerlige,8
+Halsnæs,3,Enghaven,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,42
+Halsnæs,3,Enghaven,"F_Anja_Rosengreen,_Hundested","Anja Rosengreen, Hundested",SF - Socialistisk Folkeparti,66
+Halsnæs,3,Enghaven,"F_Olaf_Prien,_Frederiksværk","Olaf Prien, Frederiksværk",SF - Socialistisk Folkeparti,21
+Halsnæs,3,Enghaven,"F_Peter_Nilsson,_Sølager","Peter Nilsson, Sølager",SF - Socialistisk Folkeparti,3
+Halsnæs,3,Enghaven,"F_Kristine_Skarbinika_Pedersen,_Eng","Kristine Skarbinika Pedersen, Eng",SF - Socialistisk Folkeparti,6
+Halsnæs,3,Enghaven,"F_Carsten_Møller,_Torup","Carsten Møller, Torup",SF - Socialistisk Folkeparti,4
+Halsnæs,3,Enghaven,"F_Jane_Howe_Gersager,_Liseleje","Jane Howe Gersager, Liseleje",SF - Socialistisk Folkeparti,1
+Halsnæs,3,Enghaven,"F_Dorthe_Jensen,_Frederiksværk","Dorthe Jensen, Frederiksværk",SF - Socialistisk Folkeparti,6
+Halsnæs,3,Enghaven,"F_Anita_Bager,_Sølager","Anita Bager, Sølager",SF - Socialistisk Folkeparti,1
+Halsnæs,3,Enghaven,"F_Ulla_Westtoft,_Hundested","Ulla Westtoft, Hundested",SF - Socialistisk Folkeparti,0
+Halsnæs,3,Enghaven,M_Listestemmer,Listestemmer,Det Miljøradikale Parti,0
+Halsnæs,3,Enghaven,M_Timo_Jattu,Timo Jattu,Det Miljøradikale Parti,4
+Halsnæs,3,Enghaven,O_Listestemmer,Listestemmer,Dansk Folkeparti,29
+Halsnæs,3,Enghaven,"O_Ole_S._Nielsen,_Evetofte","Ole S. Nielsen, Evetofte",Dansk Folkeparti,15
+Halsnæs,3,Enghaven,"O_Victor_V._Nielsen,_Frederiksværk","Victor V. Nielsen, Frederiksværk",Dansk Folkeparti,12
+Halsnæs,3,Enghaven,"O_Ole_Wedel,_Hundested","Ole Wedel, Hundested",Dansk Folkeparti,2
+Halsnæs,3,Enghaven,"O_Merete_Egholm,_Ølsted","Merete Egholm, Ølsted",Dansk Folkeparti,3
+Halsnæs,3,Enghaven,"O_Ove_Pedersen,_Hundested","Ove Pedersen, Hundested",Dansk Folkeparti,1
+Halsnæs,3,Enghaven,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",81
+Halsnæs,3,Enghaven,V_Michael_Thomsen,Michael Thomsen,"Venstre, Danmarks Liberale Parti",211
+Halsnæs,3,Enghaven,V_Thomas_Møller_Nielsen,Thomas Møller Nielsen,"Venstre, Danmarks Liberale Parti",63
+Halsnæs,3,Enghaven,V_Frederik_Germann,Frederik Germann,"Venstre, Danmarks Liberale Parti",90
+Halsnæs,3,Enghaven,V_Sune_Raunkjær,Sune Raunkjær,"Venstre, Danmarks Liberale Parti",5
+Halsnæs,3,Enghaven,V_Susan_Eirfeldt,Susan Eirfeldt,"Venstre, Danmarks Liberale Parti",13
+Halsnæs,3,Enghaven,V_Lars_Stegman,Lars Stegman,"Venstre, Danmarks Liberale Parti",6
+Halsnæs,3,Enghaven,V_Mette_Kjerulf,Mette Kjerulf,"Venstre, Danmarks Liberale Parti",3
+Halsnæs,3,Enghaven,V_Bitten_Jørgensen,Bitten Jørgensen,"Venstre, Danmarks Liberale Parti",16
+Halsnæs,3,Enghaven,V_Niels_Bruun,Niels Bruun,"Venstre, Danmarks Liberale Parti",9
+Halsnæs,3,Enghaven,V_Lars_Frost,Lars Frost,"Venstre, Danmarks Liberale Parti",2
+Halsnæs,3,Enghaven,V_Tarja_Knudsen,Tarja Knudsen,"Venstre, Danmarks Liberale Parti",9
+Halsnæs,3,Enghaven,V_Lili_Lyng_Madsen,Lili Lyng Madsen,"Venstre, Danmarks Liberale Parti",1
+Halsnæs,3,Enghaven,V_Birger_Jarulf,Birger Jarulf,"Venstre, Danmarks Liberale Parti",0
+Halsnæs,3,Enghaven,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,22
+Halsnæs,3,Enghaven,"Ø_Thue_Lundgaard,_Frederiksværk","Thue Lundgaard, Frederiksværk",Enhedslisten - De Rød-Grønne,21
+Halsnæs,3,Enghaven,"Ø_Kirsten_Agnes_Bilfeldt,_Torup","Kirsten Agnes Bilfeldt, Torup",Enhedslisten - De Rød-Grønne,18
+Halsnæs,3,Enghaven,"Ø_Benny_Nielsen,_Frederiksværk","Benny Nielsen, Frederiksværk",Enhedslisten - De Rød-Grønne,3
+Halsnæs,3,Enghaven,"Ø_Per_Heisselberg,_Frederiksværk","Per Heisselberg, Frederiksværk",Enhedslisten - De Rød-Grønne,0
+Halsnæs,3,Enghaven,"Ø_Lilli_Davids,_Hundested","Lilli Davids, Hundested",Enhedslisten - De Rød-Grønne,6
+Halsnæs,3,Enghaven,"Ø_Steen_Andersen,_Hundested","Steen Andersen, Hundested",Enhedslisten - De Rød-Grønne,0
+Halsnæs,3,Enghaven,Å_Listestemmer,Listestemmer,Alternativet,8
+Halsnæs,3,Enghaven,"Å_Mariane_Lunden,_Hundested","Mariane Lunden, Hundested",Alternativet,4
+Halsnæs,3,Enghaven,"Å_Nanna_Høyrup,_Hundested","Nanna Høyrup, Hundested",Alternativet,8
+Halsnæs,4,Frederiksværk,A_Listestemmer,Listestemmer,Socialdemokratiet,359
+Halsnæs,4,Frederiksværk,A_Steffen_Jensen,Steffen Jensen,Socialdemokratiet,1474
+Halsnæs,4,Frederiksværk,A_Helge_Friis,Helge Friis,Socialdemokratiet,75
+Halsnæs,4,Frederiksværk,A_Helle_Lunderød,Helle Lunderød,Socialdemokratiet,75
+Halsnæs,4,Frederiksværk,A_Annette_Westh,Annette Westh,Socialdemokratiet,91
+Halsnæs,4,Frederiksværk,A_Henrik_Tolstrup,Henrik Tolstrup,Socialdemokratiet,54
+Halsnæs,4,Frederiksværk,A_Torben_Hedelund,Torben Hedelund,Socialdemokratiet,11
+Halsnæs,4,Frederiksværk,A_Tommy_Frøslev,Tommy Frøslev,Socialdemokratiet,11
+Halsnæs,4,Frederiksværk,A_Kirsten_Lauritsen,Kirsten Lauritsen,Socialdemokratiet,62
+Halsnæs,4,Frederiksværk,A_Jannik_Haulik_Jørgensen,Jannik Haulik Jørgensen,Socialdemokratiet,41
+Halsnæs,4,Frederiksværk,A_Matilde_Ørsted,Matilde Ørsted,Socialdemokratiet,62
+Halsnæs,4,Frederiksværk,A_Rolf_Møller_Hansen,Rolf Møller Hansen,Socialdemokratiet,28
+Halsnæs,4,Frederiksværk,A_Mads_Vergo,Mads Vergo,Socialdemokratiet,22
+Halsnæs,4,Frederiksværk,A_Niclas_Bannebjerg_Nanboe,Niclas Bannebjerg Nanboe,Socialdemokratiet,21
+Halsnæs,4,Frederiksværk,A_Kirstin_Kristensen,Kirstin Kristensen,Socialdemokratiet,7
+Halsnæs,4,Frederiksværk,A_Kim_Daugbjerg,Kim Daugbjerg,Socialdemokratiet,17
+Halsnæs,4,Frederiksværk,A_Steen_Lindblad,Steen Lindblad,Socialdemokratiet,27
+Halsnæs,4,Frederiksværk,A_Steen_Mikkelsen,Steen Mikkelsen,Socialdemokratiet,3
+Halsnæs,4,Frederiksværk,B_Listestemmer,Listestemmer,Radikale Venstre,24
+Halsnæs,4,Frederiksværk,B_Jesper_Kirkebye_Andersen,Jesper Kirkebye Andersen,Radikale Venstre,10
+Halsnæs,4,Frederiksværk,B_Anne-Mette_Lorenzen,Anne-Mette Lorenzen,Radikale Venstre,10
+Halsnæs,4,Frederiksværk,B_Morten_Nielsen,Morten Nielsen,Radikale Venstre,6
+Halsnæs,4,Frederiksværk,B_Morten_Lorenzen,Morten Lorenzen,Radikale Venstre,4
+Halsnæs,4,Frederiksværk,B_Steen_Bager,Steen Bager,Radikale Venstre,11
+Halsnæs,4,Frederiksværk,B_Dorthe_Myndal_Fogtmann,Dorthe Myndal Fogtmann,Radikale Venstre,9
+Halsnæs,4,Frederiksværk,B_Mona_Højlund,Mona Højlund,Radikale Venstre,1
+Halsnæs,4,Frederiksværk,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,136
+Halsnæs,4,Frederiksværk,"C_Kim_Jensen,_Hundested","Kim Jensen, Hundested",Det Konservative Folkeparti,59
+Halsnæs,4,Frederiksværk,"C_Peter_Nørris_Dalsgaard,_Fr-værk","Peter Nørris Dalsgaard, Fr-værk",Det Konservative Folkeparti,43
+Halsnæs,4,Frederiksværk,"C_Søren_Hersdorf,_Ølsted","Søren Hersdorf, Ølsted",Det Konservative Folkeparti,27
+Halsnæs,4,Frederiksværk,"C_Kirsten_Aunstrup,_Frederiksværk","Kirsten Aunstrup, Frederiksværk",Det Konservative Folkeparti,25
+Halsnæs,4,Frederiksværk,"C_Søren_Vester-Fabrin,_Auderød","Søren Vester-Fabrin, Auderød",Det Konservative Folkeparti,27
+Halsnæs,4,Frederiksværk,D_Listestemmer,Listestemmer,Nye Borgerlige,102
+Halsnæs,4,Frederiksværk,D_Johan_Thorup,Johan Thorup,Nye Borgerlige,75
+Halsnæs,4,Frederiksværk,D_Henning_Linnemann,Henning Linnemann,Nye Borgerlige,18
+Halsnæs,4,Frederiksværk,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,86
+Halsnæs,4,Frederiksværk,"F_Anja_Rosengreen,_Hundested","Anja Rosengreen, Hundested",SF - Socialistisk Folkeparti,175
+Halsnæs,4,Frederiksværk,"F_Olaf_Prien,_Frederiksværk","Olaf Prien, Frederiksværk",SF - Socialistisk Folkeparti,101
+Halsnæs,4,Frederiksværk,"F_Peter_Nilsson,_Sølager","Peter Nilsson, Sølager",SF - Socialistisk Folkeparti,8
+Halsnæs,4,Frederiksværk,"F_Kristine_Skarbinika_Pedersen,_Eng","Kristine Skarbinika Pedersen, Eng",SF - Socialistisk Folkeparti,12
+Halsnæs,4,Frederiksværk,"F_Carsten_Møller,_Torup","Carsten Møller, Torup",SF - Socialistisk Folkeparti,7
+Halsnæs,4,Frederiksværk,"F_Jane_Howe_Gersager,_Liseleje","Jane Howe Gersager, Liseleje",SF - Socialistisk Folkeparti,2
+Halsnæs,4,Frederiksværk,"F_Dorthe_Jensen,_Frederiksværk","Dorthe Jensen, Frederiksværk",SF - Socialistisk Folkeparti,21
+Halsnæs,4,Frederiksværk,"F_Anita_Bager,_Sølager","Anita Bager, Sølager",SF - Socialistisk Folkeparti,4
+Halsnæs,4,Frederiksværk,"F_Ulla_Westtoft,_Hundested","Ulla Westtoft, Hundested",SF - Socialistisk Folkeparti,1
+Halsnæs,4,Frederiksværk,M_Listestemmer,Listestemmer,Det Miljøradikale Parti,4
+Halsnæs,4,Frederiksværk,M_Timo_Jattu,Timo Jattu,Det Miljøradikale Parti,12
+Halsnæs,4,Frederiksværk,O_Listestemmer,Listestemmer,Dansk Folkeparti,84
+Halsnæs,4,Frederiksværk,"O_Ole_S._Nielsen,_Evetofte","Ole S. Nielsen, Evetofte",Dansk Folkeparti,49
+Halsnæs,4,Frederiksværk,"O_Victor_V._Nielsen,_Frederiksværk","Victor V. Nielsen, Frederiksværk",Dansk Folkeparti,19
+Halsnæs,4,Frederiksværk,"O_Ole_Wedel,_Hundested","Ole Wedel, Hundested",Dansk Folkeparti,5
+Halsnæs,4,Frederiksværk,"O_Merete_Egholm,_Ølsted","Merete Egholm, Ølsted",Dansk Folkeparti,17
+Halsnæs,4,Frederiksværk,"O_Ove_Pedersen,_Hundested","Ove Pedersen, Hundested",Dansk Folkeparti,0
+Halsnæs,4,Frederiksværk,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",210
+Halsnæs,4,Frederiksværk,V_Michael_Thomsen,Michael Thomsen,"Venstre, Danmarks Liberale Parti",394
+Halsnæs,4,Frederiksværk,V_Thomas_Møller_Nielsen,Thomas Møller Nielsen,"Venstre, Danmarks Liberale Parti",148
+Halsnæs,4,Frederiksværk,V_Frederik_Germann,Frederik Germann,"Venstre, Danmarks Liberale Parti",110
+Halsnæs,4,Frederiksværk,V_Sune_Raunkjær,Sune Raunkjær,"Venstre, Danmarks Liberale Parti",14
+Halsnæs,4,Frederiksværk,V_Susan_Eirfeldt,Susan Eirfeldt,"Venstre, Danmarks Liberale Parti",20
+Halsnæs,4,Frederiksværk,V_Lars_Stegman,Lars Stegman,"Venstre, Danmarks Liberale Parti",6
+Halsnæs,4,Frederiksværk,V_Mette_Kjerulf,Mette Kjerulf,"Venstre, Danmarks Liberale Parti",17
+Halsnæs,4,Frederiksværk,V_Bitten_Jørgensen,Bitten Jørgensen,"Venstre, Danmarks Liberale Parti",50
+Halsnæs,4,Frederiksværk,V_Niels_Bruun,Niels Bruun,"Venstre, Danmarks Liberale Parti",24
+Halsnæs,4,Frederiksværk,V_Lars_Frost,Lars Frost,"Venstre, Danmarks Liberale Parti",3
+Halsnæs,4,Frederiksværk,V_Tarja_Knudsen,Tarja Knudsen,"Venstre, Danmarks Liberale Parti",15
+Halsnæs,4,Frederiksværk,V_Lili_Lyng_Madsen,Lili Lyng Madsen,"Venstre, Danmarks Liberale Parti",5
+Halsnæs,4,Frederiksværk,V_Birger_Jarulf,Birger Jarulf,"Venstre, Danmarks Liberale Parti",1
+Halsnæs,4,Frederiksværk,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,96
+Halsnæs,4,Frederiksværk,"Ø_Thue_Lundgaard,_Frederiksværk","Thue Lundgaard, Frederiksværk",Enhedslisten - De Rød-Grønne,69
+Halsnæs,4,Frederiksværk,"Ø_Kirsten_Agnes_Bilfeldt,_Torup","Kirsten Agnes Bilfeldt, Torup",Enhedslisten - De Rød-Grønne,39
+Halsnæs,4,Frederiksværk,"Ø_Benny_Nielsen,_Frederiksværk","Benny Nielsen, Frederiksværk",Enhedslisten - De Rød-Grønne,14
+Halsnæs,4,Frederiksværk,"Ø_Per_Heisselberg,_Frederiksværk","Per Heisselberg, Frederiksværk",Enhedslisten - De Rød-Grønne,5
+Halsnæs,4,Frederiksværk,"Ø_Lilli_Davids,_Hundested","Lilli Davids, Hundested",Enhedslisten - De Rød-Grønne,7
+Halsnæs,4,Frederiksværk,"Ø_Steen_Andersen,_Hundested","Steen Andersen, Hundested",Enhedslisten - De Rød-Grønne,0
+Halsnæs,4,Frederiksværk,Å_Listestemmer,Listestemmer,Alternativet,18
+Halsnæs,4,Frederiksværk,"Å_Mariane_Lunden,_Hundested","Mariane Lunden, Hundested",Alternativet,26
+Halsnæs,4,Frederiksværk,"Å_Nanna_Høyrup,_Hundested","Nanna Høyrup, Hundested",Alternativet,20
+Halsnæs,5,Ølsted,A_Listestemmer,Listestemmer,Socialdemokratiet,130
+Halsnæs,5,Ølsted,A_Steffen_Jensen,Steffen Jensen,Socialdemokratiet,318
+Halsnæs,5,Ølsted,A_Helge_Friis,Helge Friis,Socialdemokratiet,34
+Halsnæs,5,Ølsted,A_Helle_Lunderød,Helle Lunderød,Socialdemokratiet,9
+Halsnæs,5,Ølsted,A_Annette_Westh,Annette Westh,Socialdemokratiet,30
+Halsnæs,5,Ølsted,A_Henrik_Tolstrup,Henrik Tolstrup,Socialdemokratiet,45
+Halsnæs,5,Ølsted,A_Torben_Hedelund,Torben Hedelund,Socialdemokratiet,2
+Halsnæs,5,Ølsted,A_Tommy_Frøslev,Tommy Frøslev,Socialdemokratiet,2
+Halsnæs,5,Ølsted,A_Kirsten_Lauritsen,Kirsten Lauritsen,Socialdemokratiet,7
+Halsnæs,5,Ølsted,A_Jannik_Haulik_Jørgensen,Jannik Haulik Jørgensen,Socialdemokratiet,7
+Halsnæs,5,Ølsted,A_Matilde_Ørsted,Matilde Ørsted,Socialdemokratiet,8
+Halsnæs,5,Ølsted,A_Rolf_Møller_Hansen,Rolf Møller Hansen,Socialdemokratiet,2
+Halsnæs,5,Ølsted,A_Mads_Vergo,Mads Vergo,Socialdemokratiet,178
+Halsnæs,5,Ølsted,A_Niclas_Bannebjerg_Nanboe,Niclas Bannebjerg Nanboe,Socialdemokratiet,16
+Halsnæs,5,Ølsted,A_Kirstin_Kristensen,Kirstin Kristensen,Socialdemokratiet,0
+Halsnæs,5,Ølsted,A_Kim_Daugbjerg,Kim Daugbjerg,Socialdemokratiet,1
+Halsnæs,5,Ølsted,A_Steen_Lindblad,Steen Lindblad,Socialdemokratiet,2
+Halsnæs,5,Ølsted,A_Steen_Mikkelsen,Steen Mikkelsen,Socialdemokratiet,1
+Halsnæs,5,Ølsted,B_Listestemmer,Listestemmer,Radikale Venstre,11
+Halsnæs,5,Ølsted,B_Jesper_Kirkebye_Andersen,Jesper Kirkebye Andersen,Radikale Venstre,16
+Halsnæs,5,Ølsted,B_Anne-Mette_Lorenzen,Anne-Mette Lorenzen,Radikale Venstre,6
+Halsnæs,5,Ølsted,B_Morten_Nielsen,Morten Nielsen,Radikale Venstre,0
+Halsnæs,5,Ølsted,B_Morten_Lorenzen,Morten Lorenzen,Radikale Venstre,4
+Halsnæs,5,Ølsted,B_Steen_Bager,Steen Bager,Radikale Venstre,4
+Halsnæs,5,Ølsted,B_Dorthe_Myndal_Fogtmann,Dorthe Myndal Fogtmann,Radikale Venstre,1
+Halsnæs,5,Ølsted,B_Mona_Højlund,Mona Højlund,Radikale Venstre,1
+Halsnæs,5,Ølsted,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,50
+Halsnæs,5,Ølsted,"C_Kim_Jensen,_Hundested","Kim Jensen, Hundested",Det Konservative Folkeparti,16
+Halsnæs,5,Ølsted,"C_Peter_Nørris_Dalsgaard,_Fr-værk","Peter Nørris Dalsgaard, Fr-værk",Det Konservative Folkeparti,17
+Halsnæs,5,Ølsted,"C_Søren_Hersdorf,_Ølsted","Søren Hersdorf, Ølsted",Det Konservative Folkeparti,43
+Halsnæs,5,Ølsted,"C_Kirsten_Aunstrup,_Frederiksværk","Kirsten Aunstrup, Frederiksværk",Det Konservative Folkeparti,4
+Halsnæs,5,Ølsted,"C_Søren_Vester-Fabrin,_Auderød","Søren Vester-Fabrin, Auderød",Det Konservative Folkeparti,4
+Halsnæs,5,Ølsted,D_Listestemmer,Listestemmer,Nye Borgerlige,51
+Halsnæs,5,Ølsted,D_Johan_Thorup,Johan Thorup,Nye Borgerlige,27
+Halsnæs,5,Ølsted,D_Henning_Linnemann,Henning Linnemann,Nye Borgerlige,12
+Halsnæs,5,Ølsted,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,18
+Halsnæs,5,Ølsted,"F_Anja_Rosengreen,_Hundested","Anja Rosengreen, Hundested",SF - Socialistisk Folkeparti,41
+Halsnæs,5,Ølsted,"F_Olaf_Prien,_Frederiksværk","Olaf Prien, Frederiksværk",SF - Socialistisk Folkeparti,10
+Halsnæs,5,Ølsted,"F_Peter_Nilsson,_Sølager","Peter Nilsson, Sølager",SF - Socialistisk Folkeparti,2
+Halsnæs,5,Ølsted,"F_Kristine_Skarbinika_Pedersen,_Eng","Kristine Skarbinika Pedersen, Eng",SF - Socialistisk Folkeparti,5
+Halsnæs,5,Ølsted,"F_Carsten_Møller,_Torup","Carsten Møller, Torup",SF - Socialistisk Folkeparti,5
+Halsnæs,5,Ølsted,"F_Jane_Howe_Gersager,_Liseleje","Jane Howe Gersager, Liseleje",SF - Socialistisk Folkeparti,0
+Halsnæs,5,Ølsted,"F_Dorthe_Jensen,_Frederiksværk","Dorthe Jensen, Frederiksværk",SF - Socialistisk Folkeparti,8
+Halsnæs,5,Ølsted,"F_Anita_Bager,_Sølager","Anita Bager, Sølager",SF - Socialistisk Folkeparti,3
+Halsnæs,5,Ølsted,"F_Ulla_Westtoft,_Hundested","Ulla Westtoft, Hundested",SF - Socialistisk Folkeparti,1
+Halsnæs,5,Ølsted,M_Listestemmer,Listestemmer,Det Miljøradikale Parti,1
+Halsnæs,5,Ølsted,M_Timo_Jattu,Timo Jattu,Det Miljøradikale Parti,7
+Halsnæs,5,Ølsted,O_Listestemmer,Listestemmer,Dansk Folkeparti,28
+Halsnæs,5,Ølsted,"O_Ole_S._Nielsen,_Evetofte","Ole S. Nielsen, Evetofte",Dansk Folkeparti,22
+Halsnæs,5,Ølsted,"O_Victor_V._Nielsen,_Frederiksværk","Victor V. Nielsen, Frederiksværk",Dansk Folkeparti,6
+Halsnæs,5,Ølsted,"O_Ole_Wedel,_Hundested","Ole Wedel, Hundested",Dansk Folkeparti,4
+Halsnæs,5,Ølsted,"O_Merete_Egholm,_Ølsted","Merete Egholm, Ølsted",Dansk Folkeparti,30
+Halsnæs,5,Ølsted,"O_Ove_Pedersen,_Hundested","Ove Pedersen, Hundested",Dansk Folkeparti,2
+Halsnæs,5,Ølsted,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",126
+Halsnæs,5,Ølsted,V_Michael_Thomsen,Michael Thomsen,"Venstre, Danmarks Liberale Parti",134
+Halsnæs,5,Ølsted,V_Thomas_Møller_Nielsen,Thomas Møller Nielsen,"Venstre, Danmarks Liberale Parti",80
+Halsnæs,5,Ølsted,V_Frederik_Germann,Frederik Germann,"Venstre, Danmarks Liberale Parti",33
+Halsnæs,5,Ølsted,V_Sune_Raunkjær,Sune Raunkjær,"Venstre, Danmarks Liberale Parti",8
+Halsnæs,5,Ølsted,V_Susan_Eirfeldt,Susan Eirfeldt,"Venstre, Danmarks Liberale Parti",15
+Halsnæs,5,Ølsted,V_Lars_Stegman,Lars Stegman,"Venstre, Danmarks Liberale Parti",4
+Halsnæs,5,Ølsted,V_Mette_Kjerulf,Mette Kjerulf,"Venstre, Danmarks Liberale Parti",7
+Halsnæs,5,Ølsted,V_Bitten_Jørgensen,Bitten Jørgensen,"Venstre, Danmarks Liberale Parti",10
+Halsnæs,5,Ølsted,V_Niels_Bruun,Niels Bruun,"Venstre, Danmarks Liberale Parti",10
+Halsnæs,5,Ølsted,V_Lars_Frost,Lars Frost,"Venstre, Danmarks Liberale Parti",2
+Halsnæs,5,Ølsted,V_Tarja_Knudsen,Tarja Knudsen,"Venstre, Danmarks Liberale Parti",11
+Halsnæs,5,Ølsted,V_Lili_Lyng_Madsen,Lili Lyng Madsen,"Venstre, Danmarks Liberale Parti",7
+Halsnæs,5,Ølsted,V_Birger_Jarulf,Birger Jarulf,"Venstre, Danmarks Liberale Parti",1
+Halsnæs,5,Ølsted,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,31
+Halsnæs,5,Ølsted,"Ø_Thue_Lundgaard,_Frederiksværk","Thue Lundgaard, Frederiksværk",Enhedslisten - De Rød-Grønne,10
+Halsnæs,5,Ølsted,"Ø_Kirsten_Agnes_Bilfeldt,_Torup","Kirsten Agnes Bilfeldt, Torup",Enhedslisten - De Rød-Grønne,7
+Halsnæs,5,Ølsted,"Ø_Benny_Nielsen,_Frederiksværk","Benny Nielsen, Frederiksværk",Enhedslisten - De Rød-Grønne,2
+Halsnæs,5,Ølsted,"Ø_Per_Heisselberg,_Frederiksværk","Per Heisselberg, Frederiksværk",Enhedslisten - De Rød-Grønne,0
+Halsnæs,5,Ølsted,"Ø_Lilli_Davids,_Hundested","Lilli Davids, Hundested",Enhedslisten - De Rød-Grønne,4
+Halsnæs,5,Ølsted,"Ø_Steen_Andersen,_Hundested","Steen Andersen, Hundested",Enhedslisten - De Rød-Grønne,0
+Halsnæs,5,Ølsted,Å_Listestemmer,Listestemmer,Alternativet,0
+Halsnæs,5,Ølsted,"Å_Mariane_Lunden,_Hundested","Mariane Lunden, Hundested",Alternativet,10
+Halsnæs,5,Ølsted,"Å_Nanna_Høyrup,_Hundested","Nanna Høyrup, Hundested",Alternativet,6

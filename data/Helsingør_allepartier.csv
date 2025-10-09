@@ -1,0 +1,1501 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Helsingør,1,Helsingør Hallen,A_Listestemmer,Listestemmer,Socialdemokratiet,437
+Helsingør,1,Helsingør Hallen,A_Claus_Christoffersen,Claus Christoffersen,Socialdemokratiet,326
+Helsingør,1,Helsingør Hallen,A_Thomas_Horn,Thomas Horn,Socialdemokratiet,169
+Helsingør,1,Helsingør Hallen,A_Gitte_Kondrup,Gitte Kondrup,Socialdemokratiet,126
+Helsingør,1,Helsingør Hallen,A_Peter_Poulsen,Peter Poulsen,Socialdemokratiet,42
+Helsingør,1,Helsingør Hallen,A_Lone_Grønhøj_Frandsen,Lone Grønhøj Frandsen,Socialdemokratiet,44
+Helsingør,1,Helsingør Hallen,A_Betina_Svinggaard,Betina Svinggaard,Socialdemokratiet,96
+Helsingør,1,Helsingør Hallen,A_Lene_Lindberg,Lene Lindberg,Socialdemokratiet,59
+Helsingør,1,Helsingør Hallen,A_Silas_Drejer,Silas Drejer,Socialdemokratiet,49
+Helsingør,1,Helsingør Hallen,A_Daniel_Boalth_Petersen,Daniel Boalth Petersen,Socialdemokratiet,37
+Helsingør,1,Helsingør Hallen,A_Christian_Thelin,Christian Thelin,Socialdemokratiet,30
+Helsingør,1,Helsingør Hallen,A_Lars_Rosenørn-Dohn,Lars Rosenørn-Dohn,Socialdemokratiet,6
+Helsingør,1,Helsingør Hallen,A_Palle_Wørman,Palle Wørman,Socialdemokratiet,34
+Helsingør,1,Helsingør Hallen,A_Harun_Avdal,Harun Avdal,Socialdemokratiet,19
+Helsingør,1,Helsingør Hallen,A_Thomas_Hjalmar_Mikkelsen,Thomas Hjalmar Mikkelsen,Socialdemokratiet,9
+Helsingør,1,Helsingør Hallen,A_Jørgen_Persson,Jørgen Persson,Socialdemokratiet,9
+Helsingør,1,Helsingør Hallen,A_Mads_Sandholdt,Mads Sandholdt,Socialdemokratiet,4
+Helsingør,1,Helsingør Hallen,B_Listestemmer,Listestemmer,Radikale Venstre,71
+Helsingør,1,Helsingør Hallen,"B_Christian_Holm_Donatzky,_Helsingør","Christian Holm Donatzky, Helsingør",Radikale Venstre,153
+Helsingør,1,Helsingør Hallen,"B_Knud_Mogensen,_Tikøb","Knud Mogensen, Tikøb",Radikale Venstre,8
+Helsingør,1,Helsingør Hallen,"B_Birgit_Mørup,_Helsingør","Birgit Mørup, Helsingør",Radikale Venstre,47
+Helsingør,1,Helsingør Hallen,"B_Per_Frank_Povlsen,_Helsingør","Per Frank Povlsen, Helsingør",Radikale Venstre,5
+Helsingør,1,Helsingør Hallen,"B_Inge-Lise_Candelaria,_Helsingør","Inge-Lise Candelaria, Helsingør",Radikale Venstre,11
+Helsingør,1,Helsingør Hallen,"B_Mogens_Aarsleff_Hansen,_Espergærde","Mogens Aarsleff Hansen, Espergærde",Radikale Venstre,1
+Helsingør,1,Helsingør Hallen,"B_Niels_Frederiksen,_Hellebæk","Niels Frederiksen, Hellebæk",Radikale Venstre,3
+Helsingør,1,Helsingør Hallen,"B_Annette_Steglich-Petersen,Hornbæk","Annette Steglich-Petersen,Hornbæk",Radikale Venstre,10
+Helsingør,1,Helsingør Hallen,"B_Noah_Nevado,_Helsingør","Noah Nevado, Helsingør",Radikale Venstre,4
+Helsingør,1,Helsingør Hallen,"B_Hanne_E._Jakobsen,_Snekkersten","Hanne E. Jakobsen, Snekkersten",Radikale Venstre,10
+Helsingør,1,Helsingør Hallen,"B_Poul_Bernt_Jensen,_Snekkersten","Poul Bernt Jensen, Snekkersten",Radikale Venstre,1
+Helsingør,1,Helsingør Hallen,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,253
+Helsingør,1,Helsingør Hallen,C_Benedikte_Kiær,Benedikte Kiær,Det Konservative Folkeparti,924
+Helsingør,1,Helsingør Hallen,C_Jens_Bertram,Jens Bertram,Det Konservative Folkeparti,28
+Helsingør,1,Helsingør Hallen,C_Michael_Mathiesen,Michael Mathiesen,Det Konservative Folkeparti,29
+Helsingør,1,Helsingør Hallen,C_Birgitte_Bergman,Birgitte Bergman,Det Konservative Folkeparti,58
+Helsingør,1,Helsingør Hallen,C_Janus_Kyhl,Janus Kyhl,Det Konservative Folkeparti,41
+Helsingør,1,Helsingør Hallen,C_Arne_Thorvald_Koktvedgaard,Arne Thorvald Koktvedgaard,Det Konservative Folkeparti,4
+Helsingør,1,Helsingør Hallen,C_Michael_Lagoni,Michael Lagoni,Det Konservative Folkeparti,49
+Helsingør,1,Helsingør Hallen,C_Kristina_Kongsted,Kristina Kongsted,Det Konservative Folkeparti,19
+Helsingør,1,Helsingør Hallen,C_Thomas_Kok,Thomas Kok,Det Konservative Folkeparti,82
+Helsingør,1,Helsingør Hallen,C_Gert_Dyekjær,Gert Dyekjær,Det Konservative Folkeparti,12
+Helsingør,1,Helsingør Hallen,C_Birgitte_Milling,Birgitte Milling,Det Konservative Folkeparti,6
+Helsingør,1,Helsingør Hallen,C_Claus_Birkelyng,Claus Birkelyng,Det Konservative Folkeparti,37
+Helsingør,1,Helsingør Hallen,C_Carol_Krogstrup,Carol Krogstrup,Det Konservative Folkeparti,17
+Helsingør,1,Helsingør Hallen,C_Tom_Pedersen,Tom Pedersen,Det Konservative Folkeparti,1
+Helsingør,1,Helsingør Hallen,C_Olav_Berntsen,Olav Berntsen,Det Konservative Folkeparti,2
+Helsingør,1,Helsingør Hallen,C_Henrik_Malmgreen,Henrik Malmgreen,Det Konservative Folkeparti,3
+Helsingør,1,Helsingør Hallen,C_Henrik_Carmel,Henrik Carmel,Det Konservative Folkeparti,4
+Helsingør,1,Helsingør Hallen,C_Thomas_Grauslund,Thomas Grauslund,Det Konservative Folkeparti,5
+Helsingør,1,Helsingør Hallen,C_Sarah_Thorning_Guldborg,Sarah Thorning Guldborg,Det Konservative Folkeparti,6
+Helsingør,1,Helsingør Hallen,C_Knud_Vinther_Hansen,Knud Vinther Hansen,Det Konservative Folkeparti,13
+Helsingør,1,Helsingør Hallen,C_Hanne_Buur,Hanne Buur,Det Konservative Folkeparti,0
+Helsingør,1,Helsingør Hallen,C_Steen_Boldsen,Steen Boldsen,Det Konservative Folkeparti,46
+Helsingør,1,Helsingør Hallen,C_Per_E.Thomsen,Per E.Thomsen,Det Konservative Folkeparti,6
+Helsingør,1,Helsingør Hallen,D_Listestemmer,Listestemmer,Nye Borgerlige,104
+Helsingør,1,Helsingør Hallen,D_Ulla_Kokfelt,Ulla Kokfelt,Nye Borgerlige,127
+Helsingør,1,Helsingør Hallen,D_Rene_Schibler,Rene Schibler,Nye Borgerlige,8
+Helsingør,1,Helsingør Hallen,D_Denise_Rostgaard,Denise Rostgaard,Nye Borgerlige,61
+Helsingør,1,Helsingør Hallen,D_Kenneth_Kure,Kenneth Kure,Nye Borgerlige,5
+Helsingør,1,Helsingør Hallen,D_Jeanne_Højstrøm,Jeanne Højstrøm,Nye Borgerlige,10
+Helsingør,1,Helsingør Hallen,D_Margith_Marie_Jensen,Margith Marie Jensen,Nye Borgerlige,5
+Helsingør,1,Helsingør Hallen,D_Per_Olsen,Per Olsen,Nye Borgerlige,11
+Helsingør,1,Helsingør Hallen,D_Peter_la_Cour,Peter la Cour,Nye Borgerlige,3
+Helsingør,1,Helsingør Hallen,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,113
+Helsingør,1,Helsingør Hallen,F_Bente_Borg_Donkin,Bente Borg Donkin,SF - Socialistisk Folkeparti,117
+Helsingør,1,Helsingør Hallen,F_Anders_Wilsbech,Anders Wilsbech,SF - Socialistisk Folkeparti,13
+Helsingør,1,Helsingør Hallen,F_Niels_Mørup,Niels Mørup,SF - Socialistisk Folkeparti,20
+Helsingør,1,Helsingør Hallen,F_Thorfinn_Johansen,Thorfinn Johansen,SF - Socialistisk Folkeparti,13
+Helsingør,1,Helsingør Hallen,F_Dorthe_Bjørn_Andersen,Dorthe Bjørn Andersen,SF - Socialistisk Folkeparti,14
+Helsingør,1,Helsingør Hallen,F_Ole_Bergmann,Ole Bergmann,SF - Socialistisk Folkeparti,25
+Helsingør,1,Helsingør Hallen,H_Listestemmer,Listestemmer,Projekt Transparens,0
+Helsingør,1,Helsingør Hallen,H_Jeppe_Hauptmann,Jeppe Hauptmann,Projekt Transparens,1
+Helsingør,1,Helsingør Hallen,I_Listestemmer,Listestemmer,Liberal Alliance,39
+Helsingør,1,Helsingør Hallen,"I_Nicholas_Just_Villadsen,Kvistgård","Nicholas Just Villadsen,Kvistgård",Liberal Alliance,19
+Helsingør,1,Helsingør Hallen,"I_Kira_Danholm,_Snekkersten","Kira Danholm, Snekkersten",Liberal Alliance,6
+Helsingør,1,Helsingør Hallen,"I_Aishah_Yatim,_Helsingør","Aishah Yatim, Helsingør",Liberal Alliance,3
+Helsingør,1,Helsingør Hallen,"I_Jan_Ilum,_Helsingør","Jan Ilum, Helsingør",Liberal Alliance,1
+Helsingør,1,Helsingør Hallen,"I_Claus_Helge_Nielsen,_Helsingør","Claus Helge Nielsen, Helsingør",Liberal Alliance,3
+Helsingør,1,Helsingør Hallen,"I_Nicklas_M._Danholm,_Snekkersten","Nicklas M. Danholm, Snekkersten",Liberal Alliance,2
+Helsingør,1,Helsingør Hallen,J_Listestemmer,Listestemmer,Listehansen,4
+Helsingør,1,Helsingør Hallen,J_Jimmy_Jørgensen,Jimmy Jørgensen,Listehansen,10
+Helsingør,1,Helsingør Hallen,J_Erban_Jakobsen,Erban Jakobsen,Listehansen,2
+Helsingør,1,Helsingør Hallen,O_Listestemmer,Listestemmer,Dansk Folkeparti,88
+Helsingør,1,Helsingør Hallen,O_Marlene_Harpsøe,Marlene Harpsøe,Dansk Folkeparti,84
+Helsingør,1,Helsingør Hallen,O_Freja_Södergran,Freja Södergran,Dansk Folkeparti,20
+Helsingør,1,Helsingør Hallen,O_Rune_Oliver_Christensen,Rune Oliver Christensen,Dansk Folkeparti,32
+Helsingør,1,Helsingør Hallen,O_Stefan_Warburg,Stefan Warburg,Dansk Folkeparti,9
+Helsingør,1,Helsingør Hallen,O_Delvalle_Villarroel,Delvalle Villarroel,Dansk Folkeparti,1
+Helsingør,1,Helsingør Hallen,O_Lotte_Lehnerskjold,Lotte Lehnerskjold,Dansk Folkeparti,2
+Helsingør,1,Helsingør Hallen,O_Max_Tranebæk,Max Tranebæk,Dansk Folkeparti,6
+Helsingør,1,Helsingør Hallen,O_Erik_Warburg,Erik Warburg,Dansk Folkeparti,1
+Helsingør,1,Helsingør Hallen,O_Betty_Andersen,Betty Andersen,Dansk Folkeparti,2
+Helsingør,1,Helsingør Hallen,O_Niels-Christian_Kjeldsen,Niels-Christian Kjeldsen,Dansk Folkeparti,1
+Helsingør,1,Helsingør Hallen,O_Esther_Warburg,Esther Warburg,Dansk Folkeparti,0
+Helsingør,1,Helsingør Hallen,O_Torben_Elleboe,Torben Elleboe,Dansk Folkeparti,2
+Helsingør,1,Helsingør Hallen,O_Randi_Nielsen,Randi Nielsen,Dansk Folkeparti,1
+Helsingør,1,Helsingør Hallen,O_Viggo_Pedersen,Viggo Pedersen,Dansk Folkeparti,2
+Helsingør,1,Helsingør Hallen,O_Jens_Kirkegaard,Jens Kirkegaard,Dansk Folkeparti,3
+Helsingør,1,Helsingør Hallen,O_Ib_Kirkegaard,Ib Kirkegaard,Dansk Folkeparti,5
+Helsingør,1,Helsingør Hallen,P_Listestemmer,Listestemmer,Bella Listen,0
+Helsingør,1,Helsingør Hallen,P_Robert_Christiansen,Robert Christiansen,Bella Listen,0
+Helsingør,1,Helsingør Hallen,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",66
+Helsingør,1,Helsingør Hallen,"V_Mette_Lene_Jensen,_Espergærde","Mette Lene Jensen, Espergærde","Venstre, Danmarks Liberale Parti",63
+Helsingør,1,Helsingør Hallen,"V_Kari_Jørgensen,_Snekkersten","Kari Jørgensen, Snekkersten","Venstre, Danmarks Liberale Parti",12
+Helsingør,1,Helsingør Hallen,"V_Morten_Westergaard,_Espergærde","Morten Westergaard, Espergærde","Venstre, Danmarks Liberale Parti",19
+Helsingør,1,Helsingør Hallen,"V_Bjørn_Cronquist,Helsingør","Bjørn Cronquist,Helsingør","Venstre, Danmarks Liberale Parti",8
+Helsingør,1,Helsingør Hallen,"V_Helena_B._Sanders,_Helsingør","Helena B. Sanders, Helsingør","Venstre, Danmarks Liberale Parti",9
+Helsingør,1,Helsingør Hallen,"V_Christine_S._Brun,Hornbæk","Christine S. Brun,Hornbæk","Venstre, Danmarks Liberale Parti",10
+Helsingør,1,Helsingør Hallen,"V_Mikael_Heibrock_Sørensen,Snekkerst","Mikael Heibrock Sørensen,Snekkerst","Venstre, Danmarks Liberale Parti",0
+Helsingør,1,Helsingør Hallen,"V_Freddy_Jensen,_Espergærde","Freddy Jensen, Espergærde","Venstre, Danmarks Liberale Parti",0
+Helsingør,1,Helsingør Hallen,"V_Holger_Søndergaard,_Espergærde","Holger Søndergaard, Espergærde","Venstre, Danmarks Liberale Parti",0
+Helsingør,1,Helsingør Hallen,"V_Bettina_Cronquist,_Helsingør","Bettina Cronquist, Helsingør","Venstre, Danmarks Liberale Parti",5
+Helsingør,1,Helsingør Hallen,"V_Mads_Jessen_Jensen,_Espergærde","Mads Jessen Jensen, Espergærde","Venstre, Danmarks Liberale Parti",12
+Helsingør,1,Helsingør Hallen,"V_Karin_Andersen,_Hornbæk","Karin Andersen, Hornbæk","Venstre, Danmarks Liberale Parti",1
+Helsingør,1,Helsingør Hallen,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,168
+Helsingør,1,Helsingør Hallen,"Ø_Allan_Berg_Mortensen,_Helsingør","Allan Berg Mortensen, Helsingør",Enhedslisten - De Rød-Grønne,106
+Helsingør,1,Helsingør Hallen,"Ø_Jørgen_Bodilsen,_Helsingør","Jørgen Bodilsen, Helsingør",Enhedslisten - De Rød-Grønne,26
+Helsingør,1,Helsingør Hallen,"Ø_Malthe_Jacobsen,_Helsingør","Malthe Jacobsen, Helsingør",Enhedslisten - De Rød-Grønne,74
+Helsingør,1,Helsingør Hallen,"Ø_Annette_Frøhling,_Helsingør","Annette Frøhling, Helsingør",Enhedslisten - De Rød-Grønne,28
+Helsingør,1,Helsingør Hallen,"Ø_Karin_Claudia_Steinberg,_Espergærd","Karin Claudia Steinberg, Espergærd",Enhedslisten - De Rød-Grønne,3
+Helsingør,1,Helsingør Hallen,"Ø_Suzanne_Schytt,_Helsingør","Suzanne Schytt, Helsingør",Enhedslisten - De Rød-Grønne,47
+Helsingør,1,Helsingør Hallen,"Ø_Hans_Kjærgaard,_Nygård","Hans Kjærgaard, Nygård",Enhedslisten - De Rød-Grønne,4
+Helsingør,1,Helsingør Hallen,Å_Listestemmer,Listestemmer,Alternativet,40
+Helsingør,1,Helsingør Hallen,Å_Mette_Skamris,Mette Skamris,Alternativet,39
+Helsingør,1,Helsingør Hallen,Å_Helene_Liliendahl_Brydensholt,Helene Liliendahl Brydensholt,Alternativet,46
+Helsingør,1,Helsingør Hallen,Å_Morten_Greve,Morten Greve,Alternativet,12
+Helsingør,2,Skolen ved Gurrevej,A_Listestemmer,Listestemmer,Socialdemokratiet,523
+Helsingør,2,Skolen ved Gurrevej,A_Claus_Christoffersen,Claus Christoffersen,Socialdemokratiet,379
+Helsingør,2,Skolen ved Gurrevej,A_Thomas_Horn,Thomas Horn,Socialdemokratiet,193
+Helsingør,2,Skolen ved Gurrevej,A_Gitte_Kondrup,Gitte Kondrup,Socialdemokratiet,103
+Helsingør,2,Skolen ved Gurrevej,A_Peter_Poulsen,Peter Poulsen,Socialdemokratiet,46
+Helsingør,2,Skolen ved Gurrevej,A_Lone_Grønhøj_Frandsen,Lone Grønhøj Frandsen,Socialdemokratiet,22
+Helsingør,2,Skolen ved Gurrevej,A_Betina_Svinggaard,Betina Svinggaard,Socialdemokratiet,76
+Helsingør,2,Skolen ved Gurrevej,A_Lene_Lindberg,Lene Lindberg,Socialdemokratiet,82
+Helsingør,2,Skolen ved Gurrevej,A_Silas_Drejer,Silas Drejer,Socialdemokratiet,86
+Helsingør,2,Skolen ved Gurrevej,A_Daniel_Boalth_Petersen,Daniel Boalth Petersen,Socialdemokratiet,44
+Helsingør,2,Skolen ved Gurrevej,A_Christian_Thelin,Christian Thelin,Socialdemokratiet,26
+Helsingør,2,Skolen ved Gurrevej,A_Lars_Rosenørn-Dohn,Lars Rosenørn-Dohn,Socialdemokratiet,2
+Helsingør,2,Skolen ved Gurrevej,A_Palle_Wørman,Palle Wørman,Socialdemokratiet,35
+Helsingør,2,Skolen ved Gurrevej,A_Harun_Avdal,Harun Avdal,Socialdemokratiet,73
+Helsingør,2,Skolen ved Gurrevej,A_Thomas_Hjalmar_Mikkelsen,Thomas Hjalmar Mikkelsen,Socialdemokratiet,24
+Helsingør,2,Skolen ved Gurrevej,A_Jørgen_Persson,Jørgen Persson,Socialdemokratiet,7
+Helsingør,2,Skolen ved Gurrevej,A_Mads_Sandholdt,Mads Sandholdt,Socialdemokratiet,6
+Helsingør,2,Skolen ved Gurrevej,B_Listestemmer,Listestemmer,Radikale Venstre,58
+Helsingør,2,Skolen ved Gurrevej,"B_Christian_Holm_Donatzky,_Helsingør","Christian Holm Donatzky, Helsingør",Radikale Venstre,77
+Helsingør,2,Skolen ved Gurrevej,"B_Knud_Mogensen,_Tikøb","Knud Mogensen, Tikøb",Radikale Venstre,5
+Helsingør,2,Skolen ved Gurrevej,"B_Birgit_Mørup,_Helsingør","Birgit Mørup, Helsingør",Radikale Venstre,21
+Helsingør,2,Skolen ved Gurrevej,"B_Per_Frank_Povlsen,_Helsingør","Per Frank Povlsen, Helsingør",Radikale Venstre,12
+Helsingør,2,Skolen ved Gurrevej,"B_Inge-Lise_Candelaria,_Helsingør","Inge-Lise Candelaria, Helsingør",Radikale Venstre,9
+Helsingør,2,Skolen ved Gurrevej,"B_Mogens_Aarsleff_Hansen,_Espergærde","Mogens Aarsleff Hansen, Espergærde",Radikale Venstre,0
+Helsingør,2,Skolen ved Gurrevej,"B_Niels_Frederiksen,_Hellebæk","Niels Frederiksen, Hellebæk",Radikale Venstre,0
+Helsingør,2,Skolen ved Gurrevej,"B_Annette_Steglich-Petersen,Hornbæk","Annette Steglich-Petersen,Hornbæk",Radikale Venstre,1
+Helsingør,2,Skolen ved Gurrevej,"B_Noah_Nevado,_Helsingør","Noah Nevado, Helsingør",Radikale Venstre,7
+Helsingør,2,Skolen ved Gurrevej,"B_Hanne_E._Jakobsen,_Snekkersten","Hanne E. Jakobsen, Snekkersten",Radikale Venstre,4
+Helsingør,2,Skolen ved Gurrevej,"B_Poul_Bernt_Jensen,_Snekkersten","Poul Bernt Jensen, Snekkersten",Radikale Venstre,2
+Helsingør,2,Skolen ved Gurrevej,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,197
+Helsingør,2,Skolen ved Gurrevej,C_Benedikte_Kiær,Benedikte Kiær,Det Konservative Folkeparti,702
+Helsingør,2,Skolen ved Gurrevej,C_Jens_Bertram,Jens Bertram,Det Konservative Folkeparti,18
+Helsingør,2,Skolen ved Gurrevej,C_Michael_Mathiesen,Michael Mathiesen,Det Konservative Folkeparti,22
+Helsingør,2,Skolen ved Gurrevej,C_Birgitte_Bergman,Birgitte Bergman,Det Konservative Folkeparti,26
+Helsingør,2,Skolen ved Gurrevej,C_Janus_Kyhl,Janus Kyhl,Det Konservative Folkeparti,13
+Helsingør,2,Skolen ved Gurrevej,C_Arne_Thorvald_Koktvedgaard,Arne Thorvald Koktvedgaard,Det Konservative Folkeparti,3
+Helsingør,2,Skolen ved Gurrevej,C_Michael_Lagoni,Michael Lagoni,Det Konservative Folkeparti,39
+Helsingør,2,Skolen ved Gurrevej,C_Kristina_Kongsted,Kristina Kongsted,Det Konservative Folkeparti,9
+Helsingør,2,Skolen ved Gurrevej,C_Thomas_Kok,Thomas Kok,Det Konservative Folkeparti,26
+Helsingør,2,Skolen ved Gurrevej,C_Gert_Dyekjær,Gert Dyekjær,Det Konservative Folkeparti,8
+Helsingør,2,Skolen ved Gurrevej,C_Birgitte_Milling,Birgitte Milling,Det Konservative Folkeparti,6
+Helsingør,2,Skolen ved Gurrevej,C_Claus_Birkelyng,Claus Birkelyng,Det Konservative Folkeparti,27
+Helsingør,2,Skolen ved Gurrevej,C_Carol_Krogstrup,Carol Krogstrup,Det Konservative Folkeparti,9
+Helsingør,2,Skolen ved Gurrevej,C_Tom_Pedersen,Tom Pedersen,Det Konservative Folkeparti,5
+Helsingør,2,Skolen ved Gurrevej,C_Olav_Berntsen,Olav Berntsen,Det Konservative Folkeparti,0
+Helsingør,2,Skolen ved Gurrevej,C_Henrik_Malmgreen,Henrik Malmgreen,Det Konservative Folkeparti,5
+Helsingør,2,Skolen ved Gurrevej,C_Henrik_Carmel,Henrik Carmel,Det Konservative Folkeparti,6
+Helsingør,2,Skolen ved Gurrevej,C_Thomas_Grauslund,Thomas Grauslund,Det Konservative Folkeparti,3
+Helsingør,2,Skolen ved Gurrevej,C_Sarah_Thorning_Guldborg,Sarah Thorning Guldborg,Det Konservative Folkeparti,5
+Helsingør,2,Skolen ved Gurrevej,C_Knud_Vinther_Hansen,Knud Vinther Hansen,Det Konservative Folkeparti,18
+Helsingør,2,Skolen ved Gurrevej,C_Hanne_Buur,Hanne Buur,Det Konservative Folkeparti,0
+Helsingør,2,Skolen ved Gurrevej,C_Steen_Boldsen,Steen Boldsen,Det Konservative Folkeparti,19
+Helsingør,2,Skolen ved Gurrevej,C_Per_E.Thomsen,Per E.Thomsen,Det Konservative Folkeparti,5
+Helsingør,2,Skolen ved Gurrevej,D_Listestemmer,Listestemmer,Nye Borgerlige,132
+Helsingør,2,Skolen ved Gurrevej,D_Ulla_Kokfelt,Ulla Kokfelt,Nye Borgerlige,110
+Helsingør,2,Skolen ved Gurrevej,D_Rene_Schibler,Rene Schibler,Nye Borgerlige,8
+Helsingør,2,Skolen ved Gurrevej,D_Denise_Rostgaard,Denise Rostgaard,Nye Borgerlige,80
+Helsingør,2,Skolen ved Gurrevej,D_Kenneth_Kure,Kenneth Kure,Nye Borgerlige,5
+Helsingør,2,Skolen ved Gurrevej,D_Jeanne_Højstrøm,Jeanne Højstrøm,Nye Borgerlige,6
+Helsingør,2,Skolen ved Gurrevej,D_Margith_Marie_Jensen,Margith Marie Jensen,Nye Borgerlige,4
+Helsingør,2,Skolen ved Gurrevej,D_Per_Olsen,Per Olsen,Nye Borgerlige,28
+Helsingør,2,Skolen ved Gurrevej,D_Peter_la_Cour,Peter la Cour,Nye Borgerlige,3
+Helsingør,2,Skolen ved Gurrevej,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,105
+Helsingør,2,Skolen ved Gurrevej,F_Bente_Borg_Donkin,Bente Borg Donkin,SF - Socialistisk Folkeparti,84
+Helsingør,2,Skolen ved Gurrevej,F_Anders_Wilsbech,Anders Wilsbech,SF - Socialistisk Folkeparti,12
+Helsingør,2,Skolen ved Gurrevej,F_Niels_Mørup,Niels Mørup,SF - Socialistisk Folkeparti,16
+Helsingør,2,Skolen ved Gurrevej,F_Thorfinn_Johansen,Thorfinn Johansen,SF - Socialistisk Folkeparti,9
+Helsingør,2,Skolen ved Gurrevej,F_Dorthe_Bjørn_Andersen,Dorthe Bjørn Andersen,SF - Socialistisk Folkeparti,11
+Helsingør,2,Skolen ved Gurrevej,F_Ole_Bergmann,Ole Bergmann,SF - Socialistisk Folkeparti,5
+Helsingør,2,Skolen ved Gurrevej,H_Listestemmer,Listestemmer,Projekt Transparens,0
+Helsingør,2,Skolen ved Gurrevej,H_Jeppe_Hauptmann,Jeppe Hauptmann,Projekt Transparens,1
+Helsingør,2,Skolen ved Gurrevej,I_Listestemmer,Listestemmer,Liberal Alliance,24
+Helsingør,2,Skolen ved Gurrevej,"I_Nicholas_Just_Villadsen,Kvistgård","Nicholas Just Villadsen,Kvistgård",Liberal Alliance,10
+Helsingør,2,Skolen ved Gurrevej,"I_Kira_Danholm,_Snekkersten","Kira Danholm, Snekkersten",Liberal Alliance,3
+Helsingør,2,Skolen ved Gurrevej,"I_Aishah_Yatim,_Helsingør","Aishah Yatim, Helsingør",Liberal Alliance,1
+Helsingør,2,Skolen ved Gurrevej,"I_Jan_Ilum,_Helsingør","Jan Ilum, Helsingør",Liberal Alliance,0
+Helsingør,2,Skolen ved Gurrevej,"I_Claus_Helge_Nielsen,_Helsingør","Claus Helge Nielsen, Helsingør",Liberal Alliance,3
+Helsingør,2,Skolen ved Gurrevej,"I_Nicklas_M._Danholm,_Snekkersten","Nicklas M. Danholm, Snekkersten",Liberal Alliance,0
+Helsingør,2,Skolen ved Gurrevej,J_Listestemmer,Listestemmer,Listehansen,2
+Helsingør,2,Skolen ved Gurrevej,J_Jimmy_Jørgensen,Jimmy Jørgensen,Listehansen,5
+Helsingør,2,Skolen ved Gurrevej,J_Erban_Jakobsen,Erban Jakobsen,Listehansen,1
+Helsingør,2,Skolen ved Gurrevej,O_Listestemmer,Listestemmer,Dansk Folkeparti,89
+Helsingør,2,Skolen ved Gurrevej,O_Marlene_Harpsøe,Marlene Harpsøe,Dansk Folkeparti,119
+Helsingør,2,Skolen ved Gurrevej,O_Freja_Södergran,Freja Södergran,Dansk Folkeparti,35
+Helsingør,2,Skolen ved Gurrevej,O_Rune_Oliver_Christensen,Rune Oliver Christensen,Dansk Folkeparti,29
+Helsingør,2,Skolen ved Gurrevej,O_Stefan_Warburg,Stefan Warburg,Dansk Folkeparti,7
+Helsingør,2,Skolen ved Gurrevej,O_Delvalle_Villarroel,Delvalle Villarroel,Dansk Folkeparti,2
+Helsingør,2,Skolen ved Gurrevej,O_Lotte_Lehnerskjold,Lotte Lehnerskjold,Dansk Folkeparti,6
+Helsingør,2,Skolen ved Gurrevej,O_Max_Tranebæk,Max Tranebæk,Dansk Folkeparti,8
+Helsingør,2,Skolen ved Gurrevej,O_Erik_Warburg,Erik Warburg,Dansk Folkeparti,0
+Helsingør,2,Skolen ved Gurrevej,O_Betty_Andersen,Betty Andersen,Dansk Folkeparti,3
+Helsingør,2,Skolen ved Gurrevej,O_Niels-Christian_Kjeldsen,Niels-Christian Kjeldsen,Dansk Folkeparti,1
+Helsingør,2,Skolen ved Gurrevej,O_Esther_Warburg,Esther Warburg,Dansk Folkeparti,0
+Helsingør,2,Skolen ved Gurrevej,O_Torben_Elleboe,Torben Elleboe,Dansk Folkeparti,4
+Helsingør,2,Skolen ved Gurrevej,O_Randi_Nielsen,Randi Nielsen,Dansk Folkeparti,4
+Helsingør,2,Skolen ved Gurrevej,O_Viggo_Pedersen,Viggo Pedersen,Dansk Folkeparti,0
+Helsingør,2,Skolen ved Gurrevej,O_Jens_Kirkegaard,Jens Kirkegaard,Dansk Folkeparti,7
+Helsingør,2,Skolen ved Gurrevej,O_Ib_Kirkegaard,Ib Kirkegaard,Dansk Folkeparti,12
+Helsingør,2,Skolen ved Gurrevej,P_Listestemmer,Listestemmer,Bella Listen,0
+Helsingør,2,Skolen ved Gurrevej,P_Robert_Christiansen,Robert Christiansen,Bella Listen,1
+Helsingør,2,Skolen ved Gurrevej,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",48
+Helsingør,2,Skolen ved Gurrevej,"V_Mette_Lene_Jensen,_Espergærde","Mette Lene Jensen, Espergærde","Venstre, Danmarks Liberale Parti",59
+Helsingør,2,Skolen ved Gurrevej,"V_Kari_Jørgensen,_Snekkersten","Kari Jørgensen, Snekkersten","Venstre, Danmarks Liberale Parti",13
+Helsingør,2,Skolen ved Gurrevej,"V_Morten_Westergaard,_Espergærde","Morten Westergaard, Espergærde","Venstre, Danmarks Liberale Parti",8
+Helsingør,2,Skolen ved Gurrevej,"V_Bjørn_Cronquist,Helsingør","Bjørn Cronquist,Helsingør","Venstre, Danmarks Liberale Parti",9
+Helsingør,2,Skolen ved Gurrevej,"V_Helena_B._Sanders,_Helsingør","Helena B. Sanders, Helsingør","Venstre, Danmarks Liberale Parti",18
+Helsingør,2,Skolen ved Gurrevej,"V_Christine_S._Brun,Hornbæk","Christine S. Brun,Hornbæk","Venstre, Danmarks Liberale Parti",5
+Helsingør,2,Skolen ved Gurrevej,"V_Mikael_Heibrock_Sørensen,Snekkerst","Mikael Heibrock Sørensen,Snekkerst","Venstre, Danmarks Liberale Parti",1
+Helsingør,2,Skolen ved Gurrevej,"V_Freddy_Jensen,_Espergærde","Freddy Jensen, Espergærde","Venstre, Danmarks Liberale Parti",0
+Helsingør,2,Skolen ved Gurrevej,"V_Holger_Søndergaard,_Espergærde","Holger Søndergaard, Espergærde","Venstre, Danmarks Liberale Parti",0
+Helsingør,2,Skolen ved Gurrevej,"V_Bettina_Cronquist,_Helsingør","Bettina Cronquist, Helsingør","Venstre, Danmarks Liberale Parti",2
+Helsingør,2,Skolen ved Gurrevej,"V_Mads_Jessen_Jensen,_Espergærde","Mads Jessen Jensen, Espergærde","Venstre, Danmarks Liberale Parti",6
+Helsingør,2,Skolen ved Gurrevej,"V_Karin_Andersen,_Hornbæk","Karin Andersen, Hornbæk","Venstre, Danmarks Liberale Parti",0
+Helsingør,2,Skolen ved Gurrevej,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,165
+Helsingør,2,Skolen ved Gurrevej,"Ø_Allan_Berg_Mortensen,_Helsingør","Allan Berg Mortensen, Helsingør",Enhedslisten - De Rød-Grønne,91
+Helsingør,2,Skolen ved Gurrevej,"Ø_Jørgen_Bodilsen,_Helsingør","Jørgen Bodilsen, Helsingør",Enhedslisten - De Rød-Grønne,21
+Helsingør,2,Skolen ved Gurrevej,"Ø_Malthe_Jacobsen,_Helsingør","Malthe Jacobsen, Helsingør",Enhedslisten - De Rød-Grønne,50
+Helsingør,2,Skolen ved Gurrevej,"Ø_Annette_Frøhling,_Helsingør","Annette Frøhling, Helsingør",Enhedslisten - De Rød-Grønne,14
+Helsingør,2,Skolen ved Gurrevej,"Ø_Karin_Claudia_Steinberg,_Espergærd","Karin Claudia Steinberg, Espergærd",Enhedslisten - De Rød-Grønne,2
+Helsingør,2,Skolen ved Gurrevej,"Ø_Suzanne_Schytt,_Helsingør","Suzanne Schytt, Helsingør",Enhedslisten - De Rød-Grønne,47
+Helsingør,2,Skolen ved Gurrevej,"Ø_Hans_Kjærgaard,_Nygård","Hans Kjærgaard, Nygård",Enhedslisten - De Rød-Grønne,3
+Helsingør,2,Skolen ved Gurrevej,Å_Listestemmer,Listestemmer,Alternativet,25
+Helsingør,2,Skolen ved Gurrevej,Å_Mette_Skamris,Mette Skamris,Alternativet,44
+Helsingør,2,Skolen ved Gurrevej,Å_Helene_Liliendahl_Brydensholt,Helene Liliendahl Brydensholt,Alternativet,29
+Helsingør,2,Skolen ved Gurrevej,Å_Morten_Greve,Morten Greve,Alternativet,6
+Helsingør,3,"Laden, Gl. Vapnagård",A_Listestemmer,Listestemmer,Socialdemokratiet,244
+Helsingør,3,"Laden, Gl. Vapnagård",A_Claus_Christoffersen,Claus Christoffersen,Socialdemokratiet,188
+Helsingør,3,"Laden, Gl. Vapnagård",A_Thomas_Horn,Thomas Horn,Socialdemokratiet,146
+Helsingør,3,"Laden, Gl. Vapnagård",A_Gitte_Kondrup,Gitte Kondrup,Socialdemokratiet,69
+Helsingør,3,"Laden, Gl. Vapnagård",A_Peter_Poulsen,Peter Poulsen,Socialdemokratiet,28
+Helsingør,3,"Laden, Gl. Vapnagård",A_Lone_Grønhøj_Frandsen,Lone Grønhøj Frandsen,Socialdemokratiet,17
+Helsingør,3,"Laden, Gl. Vapnagård",A_Betina_Svinggaard,Betina Svinggaard,Socialdemokratiet,71
+Helsingør,3,"Laden, Gl. Vapnagård",A_Lene_Lindberg,Lene Lindberg,Socialdemokratiet,35
+Helsingør,3,"Laden, Gl. Vapnagård",A_Silas_Drejer,Silas Drejer,Socialdemokratiet,36
+Helsingør,3,"Laden, Gl. Vapnagård",A_Daniel_Boalth_Petersen,Daniel Boalth Petersen,Socialdemokratiet,20
+Helsingør,3,"Laden, Gl. Vapnagård",A_Christian_Thelin,Christian Thelin,Socialdemokratiet,11
+Helsingør,3,"Laden, Gl. Vapnagård",A_Lars_Rosenørn-Dohn,Lars Rosenørn-Dohn,Socialdemokratiet,2
+Helsingør,3,"Laden, Gl. Vapnagård",A_Palle_Wørman,Palle Wørman,Socialdemokratiet,30
+Helsingør,3,"Laden, Gl. Vapnagård",A_Harun_Avdal,Harun Avdal,Socialdemokratiet,317
+Helsingør,3,"Laden, Gl. Vapnagård",A_Thomas_Hjalmar_Mikkelsen,Thomas Hjalmar Mikkelsen,Socialdemokratiet,2
+Helsingør,3,"Laden, Gl. Vapnagård",A_Jørgen_Persson,Jørgen Persson,Socialdemokratiet,3
+Helsingør,3,"Laden, Gl. Vapnagård",A_Mads_Sandholdt,Mads Sandholdt,Socialdemokratiet,4
+Helsingør,3,"Laden, Gl. Vapnagård",B_Listestemmer,Listestemmer,Radikale Venstre,65
+Helsingør,3,"Laden, Gl. Vapnagård","B_Christian_Holm_Donatzky,_Helsingør","Christian Holm Donatzky, Helsingør",Radikale Venstre,98
+Helsingør,3,"Laden, Gl. Vapnagård","B_Knud_Mogensen,_Tikøb","Knud Mogensen, Tikøb",Radikale Venstre,3
+Helsingør,3,"Laden, Gl. Vapnagård","B_Birgit_Mørup,_Helsingør","Birgit Mørup, Helsingør",Radikale Venstre,26
+Helsingør,3,"Laden, Gl. Vapnagård","B_Per_Frank_Povlsen,_Helsingør","Per Frank Povlsen, Helsingør",Radikale Venstre,2
+Helsingør,3,"Laden, Gl. Vapnagård","B_Inge-Lise_Candelaria,_Helsingør","Inge-Lise Candelaria, Helsingør",Radikale Venstre,6
+Helsingør,3,"Laden, Gl. Vapnagård","B_Mogens_Aarsleff_Hansen,_Espergærde","Mogens Aarsleff Hansen, Espergærde",Radikale Venstre,0
+Helsingør,3,"Laden, Gl. Vapnagård","B_Niels_Frederiksen,_Hellebæk","Niels Frederiksen, Hellebæk",Radikale Venstre,1
+Helsingør,3,"Laden, Gl. Vapnagård","B_Annette_Steglich-Petersen,Hornbæk","Annette Steglich-Petersen,Hornbæk",Radikale Venstre,3
+Helsingør,3,"Laden, Gl. Vapnagård","B_Noah_Nevado,_Helsingør","Noah Nevado, Helsingør",Radikale Venstre,4
+Helsingør,3,"Laden, Gl. Vapnagård","B_Hanne_E._Jakobsen,_Snekkersten","Hanne E. Jakobsen, Snekkersten",Radikale Venstre,3
+Helsingør,3,"Laden, Gl. Vapnagård","B_Poul_Bernt_Jensen,_Snekkersten","Poul Bernt Jensen, Snekkersten",Radikale Venstre,2
+Helsingør,3,"Laden, Gl. Vapnagård",C_Listestemmer,Listestemmer,Det Konservative Folkeparti,171
+Helsingør,3,"Laden, Gl. Vapnagård",C_Benedikte_Kiær,Benedikte Kiær,Det Konservative Folkeparti,597
+Helsingør,3,"Laden, Gl. Vapnagård",C_Jens_Bertram,Jens Bertram,Det Konservative Folkeparti,11
+Helsingør,3,"Laden, Gl. Vapnagård",C_Michael_Mathiesen,Michael Mathiesen,Det Konservative Folkeparti,17
+Helsingør,3,"Laden, Gl. Vapnagård",C_Birgitte_Bergman,Birgitte Bergman,Det Konservative Folkeparti,65
+Helsingør,3,"Laden, Gl. Vapnagård",C_Janus_Kyhl,Janus Kyhl,Det Konservative Folkeparti,11
+Helsingør,3,"Laden, Gl. Vapnagård",C_Arne_Thorvald_Koktvedgaard,Arne Thorvald Koktvedgaard,Det Konservative Folkeparti,2
+Helsingør,3,"Laden, Gl. Vapnagård",C_Michael_Lagoni,Michael Lagoni,Det Konservative Folkeparti,31
+Helsingør,3,"Laden, Gl. Vapnagård",C_Kristina_Kongsted,Kristina Kongsted,Det Konservative Folkeparti,3
+Helsingør,3,"Laden, Gl. Vapnagård",C_Thomas_Kok,Thomas Kok,Det Konservative Folkeparti,37
+Helsingør,3,"Laden, Gl. Vapnagård",C_Gert_Dyekjær,Gert Dyekjær,Det Konservative Folkeparti,4
+Helsingør,3,"Laden, Gl. Vapnagård",C_Birgitte_Milling,Birgitte Milling,Det Konservative Folkeparti,11
+Helsingør,3,"Laden, Gl. Vapnagård",C_Claus_Birkelyng,Claus Birkelyng,Det Konservative Folkeparti,34
+Helsingør,3,"Laden, Gl. Vapnagård",C_Carol_Krogstrup,Carol Krogstrup,Det Konservative Folkeparti,14
+Helsingør,3,"Laden, Gl. Vapnagård",C_Tom_Pedersen,Tom Pedersen,Det Konservative Folkeparti,9
+Helsingør,3,"Laden, Gl. Vapnagård",C_Olav_Berntsen,Olav Berntsen,Det Konservative Folkeparti,1
+Helsingør,3,"Laden, Gl. Vapnagård",C_Henrik_Malmgreen,Henrik Malmgreen,Det Konservative Folkeparti,11
+Helsingør,3,"Laden, Gl. Vapnagård",C_Henrik_Carmel,Henrik Carmel,Det Konservative Folkeparti,3
+Helsingør,3,"Laden, Gl. Vapnagård",C_Thomas_Grauslund,Thomas Grauslund,Det Konservative Folkeparti,4
+Helsingør,3,"Laden, Gl. Vapnagård",C_Sarah_Thorning_Guldborg,Sarah Thorning Guldborg,Det Konservative Folkeparti,3
+Helsingør,3,"Laden, Gl. Vapnagård",C_Knud_Vinther_Hansen,Knud Vinther Hansen,Det Konservative Folkeparti,10
+Helsingør,3,"Laden, Gl. Vapnagård",C_Hanne_Buur,Hanne Buur,Det Konservative Folkeparti,0
+Helsingør,3,"Laden, Gl. Vapnagård",C_Steen_Boldsen,Steen Boldsen,Det Konservative Folkeparti,19
+Helsingør,3,"Laden, Gl. Vapnagård",C_Per_E.Thomsen,Per E.Thomsen,Det Konservative Folkeparti,6
+Helsingør,3,"Laden, Gl. Vapnagård",D_Listestemmer,Listestemmer,Nye Borgerlige,95
+Helsingør,3,"Laden, Gl. Vapnagård",D_Ulla_Kokfelt,Ulla Kokfelt,Nye Borgerlige,93
+Helsingør,3,"Laden, Gl. Vapnagård",D_Rene_Schibler,Rene Schibler,Nye Borgerlige,6
+Helsingør,3,"Laden, Gl. Vapnagård",D_Denise_Rostgaard,Denise Rostgaard,Nye Borgerlige,54
+Helsingør,3,"Laden, Gl. Vapnagård",D_Kenneth_Kure,Kenneth Kure,Nye Borgerlige,6
+Helsingør,3,"Laden, Gl. Vapnagård",D_Jeanne_Højstrøm,Jeanne Højstrøm,Nye Borgerlige,4
+Helsingør,3,"Laden, Gl. Vapnagård",D_Margith_Marie_Jensen,Margith Marie Jensen,Nye Borgerlige,0
+Helsingør,3,"Laden, Gl. Vapnagård",D_Per_Olsen,Per Olsen,Nye Borgerlige,8
+Helsingør,3,"Laden, Gl. Vapnagård",D_Peter_la_Cour,Peter la Cour,Nye Borgerlige,2
+Helsingør,3,"Laden, Gl. Vapnagård",F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,75
+Helsingør,3,"Laden, Gl. Vapnagård",F_Bente_Borg_Donkin,Bente Borg Donkin,SF - Socialistisk Folkeparti,97
+Helsingør,3,"Laden, Gl. Vapnagård",F_Anders_Wilsbech,Anders Wilsbech,SF - Socialistisk Folkeparti,4
+Helsingør,3,"Laden, Gl. Vapnagård",F_Niels_Mørup,Niels Mørup,SF - Socialistisk Folkeparti,6
+Helsingør,3,"Laden, Gl. Vapnagård",F_Thorfinn_Johansen,Thorfinn Johansen,SF - Socialistisk Folkeparti,6
+Helsingør,3,"Laden, Gl. Vapnagård",F_Dorthe_Bjørn_Andersen,Dorthe Bjørn Andersen,SF - Socialistisk Folkeparti,8
+Helsingør,3,"Laden, Gl. Vapnagård",F_Ole_Bergmann,Ole Bergmann,SF - Socialistisk Folkeparti,8
+Helsingør,3,"Laden, Gl. Vapnagård",H_Listestemmer,Listestemmer,Projekt Transparens,1
+Helsingør,3,"Laden, Gl. Vapnagård",H_Jeppe_Hauptmann,Jeppe Hauptmann,Projekt Transparens,0
+Helsingør,3,"Laden, Gl. Vapnagård",I_Listestemmer,Listestemmer,Liberal Alliance,22
+Helsingør,3,"Laden, Gl. Vapnagård","I_Nicholas_Just_Villadsen,Kvistgård","Nicholas Just Villadsen,Kvistgård",Liberal Alliance,12
+Helsingør,3,"Laden, Gl. Vapnagård","I_Kira_Danholm,_Snekkersten","Kira Danholm, Snekkersten",Liberal Alliance,2
+Helsingør,3,"Laden, Gl. Vapnagård","I_Aishah_Yatim,_Helsingør","Aishah Yatim, Helsingør",Liberal Alliance,3
+Helsingør,3,"Laden, Gl. Vapnagård","I_Jan_Ilum,_Helsingør","Jan Ilum, Helsingør",Liberal Alliance,3
+Helsingør,3,"Laden, Gl. Vapnagård","I_Claus_Helge_Nielsen,_Helsingør","Claus Helge Nielsen, Helsingør",Liberal Alliance,4
+Helsingør,3,"Laden, Gl. Vapnagård","I_Nicklas_M._Danholm,_Snekkersten","Nicklas M. Danholm, Snekkersten",Liberal Alliance,0
+Helsingør,3,"Laden, Gl. Vapnagård",J_Listestemmer,Listestemmer,Listehansen,2
+Helsingør,3,"Laden, Gl. Vapnagård",J_Jimmy_Jørgensen,Jimmy Jørgensen,Listehansen,11
+Helsingør,3,"Laden, Gl. Vapnagård",J_Erban_Jakobsen,Erban Jakobsen,Listehansen,3
+Helsingør,3,"Laden, Gl. Vapnagård",O_Listestemmer,Listestemmer,Dansk Folkeparti,68
+Helsingør,3,"Laden, Gl. Vapnagård",O_Marlene_Harpsøe,Marlene Harpsøe,Dansk Folkeparti,70
+Helsingør,3,"Laden, Gl. Vapnagård",O_Freja_Södergran,Freja Södergran,Dansk Folkeparti,35
+Helsingør,3,"Laden, Gl. Vapnagård",O_Rune_Oliver_Christensen,Rune Oliver Christensen,Dansk Folkeparti,23
+Helsingør,3,"Laden, Gl. Vapnagård",O_Stefan_Warburg,Stefan Warburg,Dansk Folkeparti,3
+Helsingør,3,"Laden, Gl. Vapnagård",O_Delvalle_Villarroel,Delvalle Villarroel,Dansk Folkeparti,0
+Helsingør,3,"Laden, Gl. Vapnagård",O_Lotte_Lehnerskjold,Lotte Lehnerskjold,Dansk Folkeparti,0
+Helsingør,3,"Laden, Gl. Vapnagård",O_Max_Tranebæk,Max Tranebæk,Dansk Folkeparti,2
+Helsingør,3,"Laden, Gl. Vapnagård",O_Erik_Warburg,Erik Warburg,Dansk Folkeparti,1
+Helsingør,3,"Laden, Gl. Vapnagård",O_Betty_Andersen,Betty Andersen,Dansk Folkeparti,1
+Helsingør,3,"Laden, Gl. Vapnagård",O_Niels-Christian_Kjeldsen,Niels-Christian Kjeldsen,Dansk Folkeparti,0
+Helsingør,3,"Laden, Gl. Vapnagård",O_Esther_Warburg,Esther Warburg,Dansk Folkeparti,3
+Helsingør,3,"Laden, Gl. Vapnagård",O_Torben_Elleboe,Torben Elleboe,Dansk Folkeparti,0
+Helsingør,3,"Laden, Gl. Vapnagård",O_Randi_Nielsen,Randi Nielsen,Dansk Folkeparti,2
+Helsingør,3,"Laden, Gl. Vapnagård",O_Viggo_Pedersen,Viggo Pedersen,Dansk Folkeparti,0
+Helsingør,3,"Laden, Gl. Vapnagård",O_Jens_Kirkegaard,Jens Kirkegaard,Dansk Folkeparti,4
+Helsingør,3,"Laden, Gl. Vapnagård",O_Ib_Kirkegaard,Ib Kirkegaard,Dansk Folkeparti,5
+Helsingør,3,"Laden, Gl. Vapnagård",P_Listestemmer,Listestemmer,Bella Listen,1
+Helsingør,3,"Laden, Gl. Vapnagård",P_Robert_Christiansen,Robert Christiansen,Bella Listen,2
+Helsingør,3,"Laden, Gl. Vapnagård",V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",52
+Helsingør,3,"Laden, Gl. Vapnagård","V_Mette_Lene_Jensen,_Espergærde","Mette Lene Jensen, Espergærde","Venstre, Danmarks Liberale Parti",61
+Helsingør,3,"Laden, Gl. Vapnagård","V_Kari_Jørgensen,_Snekkersten","Kari Jørgensen, Snekkersten","Venstre, Danmarks Liberale Parti",11
+Helsingør,3,"Laden, Gl. Vapnagård","V_Morten_Westergaard,_Espergærde","Morten Westergaard, Espergærde","Venstre, Danmarks Liberale Parti",8
+Helsingør,3,"Laden, Gl. Vapnagård","V_Bjørn_Cronquist,Helsingør","Bjørn Cronquist,Helsingør","Venstre, Danmarks Liberale Parti",7
+Helsingør,3,"Laden, Gl. Vapnagård","V_Helena_B._Sanders,_Helsingør","Helena B. Sanders, Helsingør","Venstre, Danmarks Liberale Parti",10
+Helsingør,3,"Laden, Gl. Vapnagård","V_Christine_S._Brun,Hornbæk","Christine S. Brun,Hornbæk","Venstre, Danmarks Liberale Parti",8
+Helsingør,3,"Laden, Gl. Vapnagård","V_Mikael_Heibrock_Sørensen,Snekkerst","Mikael Heibrock Sørensen,Snekkerst","Venstre, Danmarks Liberale Parti",0
+Helsingør,3,"Laden, Gl. Vapnagård","V_Freddy_Jensen,_Espergærde","Freddy Jensen, Espergærde","Venstre, Danmarks Liberale Parti",0
+Helsingør,3,"Laden, Gl. Vapnagård","V_Holger_Søndergaard,_Espergærde","Holger Søndergaard, Espergærde","Venstre, Danmarks Liberale Parti",0
+Helsingør,3,"Laden, Gl. Vapnagård","V_Bettina_Cronquist,_Helsingør","Bettina Cronquist, Helsingør","Venstre, Danmarks Liberale Parti",1
+Helsingør,3,"Laden, Gl. Vapnagård","V_Mads_Jessen_Jensen,_Espergærde","Mads Jessen Jensen, Espergærde","Venstre, Danmarks Liberale Parti",4
+Helsingør,3,"Laden, Gl. Vapnagård","V_Karin_Andersen,_Hornbæk","Karin Andersen, Hornbæk","Venstre, Danmarks Liberale Parti",0
+Helsingør,3,"Laden, Gl. Vapnagård",Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,134
+Helsingør,3,"Laden, Gl. Vapnagård","Ø_Allan_Berg_Mortensen,_Helsingør","Allan Berg Mortensen, Helsingør",Enhedslisten - De Rød-Grønne,64
+Helsingør,3,"Laden, Gl. Vapnagård","Ø_Jørgen_Bodilsen,_Helsingør","Jørgen Bodilsen, Helsingør",Enhedslisten - De Rød-Grønne,31
+Helsingør,3,"Laden, Gl. Vapnagård","Ø_Malthe_Jacobsen,_Helsingør","Malthe Jacobsen, Helsingør",Enhedslisten - De Rød-Grønne,29
+Helsingør,3,"Laden, Gl. Vapnagård","Ø_Annette_Frøhling,_Helsingør","Annette Frøhling, Helsingør",Enhedslisten - De Rød-Grønne,13
+Helsingør,3,"Laden, Gl. Vapnagård","Ø_Karin_Claudia_Steinberg,_Espergærd","Karin Claudia Steinberg, Espergærd",Enhedslisten - De Rød-Grønne,2
+Helsingør,3,"Laden, Gl. Vapnagård","Ø_Suzanne_Schytt,_Helsingør","Suzanne Schytt, Helsingør",Enhedslisten - De Rød-Grønne,56
+Helsingør,3,"Laden, Gl. Vapnagård","Ø_Hans_Kjærgaard,_Nygård","Hans Kjærgaard, Nygård",Enhedslisten - De Rød-Grønne,0
+Helsingør,3,"Laden, Gl. Vapnagård",Å_Listestemmer,Listestemmer,Alternativet,26
+Helsingør,3,"Laden, Gl. Vapnagård",Å_Mette_Skamris,Mette Skamris,Alternativet,23
+Helsingør,3,"Laden, Gl. Vapnagård",Å_Helene_Liliendahl_Brydensholt,Helene Liliendahl Brydensholt,Alternativet,21
+Helsingør,3,"Laden, Gl. Vapnagård",Å_Morten_Greve,Morten Greve,Alternativet,9
+Helsingør,4,Bølgen,A_Listestemmer,Listestemmer,Socialdemokratiet,205
+Helsingør,4,Bølgen,A_Claus_Christoffersen,Claus Christoffersen,Socialdemokratiet,97
+Helsingør,4,Bølgen,A_Thomas_Horn,Thomas Horn,Socialdemokratiet,192
+Helsingør,4,Bølgen,A_Gitte_Kondrup,Gitte Kondrup,Socialdemokratiet,61
+Helsingør,4,Bølgen,A_Peter_Poulsen,Peter Poulsen,Socialdemokratiet,41
+Helsingør,4,Bølgen,A_Lone_Grønhøj_Frandsen,Lone Grønhøj Frandsen,Socialdemokratiet,71
+Helsingør,4,Bølgen,A_Betina_Svinggaard,Betina Svinggaard,Socialdemokratiet,47
+Helsingør,4,Bølgen,A_Lene_Lindberg,Lene Lindberg,Socialdemokratiet,19
+Helsingør,4,Bølgen,A_Silas_Drejer,Silas Drejer,Socialdemokratiet,23
+Helsingør,4,Bølgen,A_Daniel_Boalth_Petersen,Daniel Boalth Petersen,Socialdemokratiet,33
+Helsingør,4,Bølgen,A_Christian_Thelin,Christian Thelin,Socialdemokratiet,26
+Helsingør,4,Bølgen,A_Lars_Rosenørn-Dohn,Lars Rosenørn-Dohn,Socialdemokratiet,0
+Helsingør,4,Bølgen,A_Palle_Wørman,Palle Wørman,Socialdemokratiet,10
+Helsingør,4,Bølgen,A_Harun_Avdal,Harun Avdal,Socialdemokratiet,3
+Helsingør,4,Bølgen,A_Thomas_Hjalmar_Mikkelsen,Thomas Hjalmar Mikkelsen,Socialdemokratiet,4
+Helsingør,4,Bølgen,A_Jørgen_Persson,Jørgen Persson,Socialdemokratiet,0
+Helsingør,4,Bølgen,A_Mads_Sandholdt,Mads Sandholdt,Socialdemokratiet,1
+Helsingør,4,Bølgen,B_Listestemmer,Listestemmer,Radikale Venstre,44
+Helsingør,4,Bølgen,"B_Christian_Holm_Donatzky,_Helsingør","Christian Holm Donatzky, Helsingør",Radikale Venstre,85
+Helsingør,4,Bølgen,"B_Knud_Mogensen,_Tikøb","Knud Mogensen, Tikøb",Radikale Venstre,4
+Helsingør,4,Bølgen,"B_Birgit_Mørup,_Helsingør","Birgit Mørup, Helsingør",Radikale Venstre,16
+Helsingør,4,Bølgen,"B_Per_Frank_Povlsen,_Helsingør","Per Frank Povlsen, Helsingør",Radikale Venstre,4
+Helsingør,4,Bølgen,"B_Inge-Lise_Candelaria,_Helsingør","Inge-Lise Candelaria, Helsingør",Radikale Venstre,2
+Helsingør,4,Bølgen,"B_Mogens_Aarsleff_Hansen,_Espergærde","Mogens Aarsleff Hansen, Espergærde",Radikale Venstre,0
+Helsingør,4,Bølgen,"B_Niels_Frederiksen,_Hellebæk","Niels Frederiksen, Hellebæk",Radikale Venstre,14
+Helsingør,4,Bølgen,"B_Annette_Steglich-Petersen,Hornbæk","Annette Steglich-Petersen,Hornbæk",Radikale Venstre,2
+Helsingør,4,Bølgen,"B_Noah_Nevado,_Helsingør","Noah Nevado, Helsingør",Radikale Venstre,5
+Helsingør,4,Bølgen,"B_Hanne_E._Jakobsen,_Snekkersten","Hanne E. Jakobsen, Snekkersten",Radikale Venstre,2
+Helsingør,4,Bølgen,"B_Poul_Bernt_Jensen,_Snekkersten","Poul Bernt Jensen, Snekkersten",Radikale Venstre,0
+Helsingør,4,Bølgen,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,184
+Helsingør,4,Bølgen,C_Benedikte_Kiær,Benedikte Kiær,Det Konservative Folkeparti,699
+Helsingør,4,Bølgen,C_Jens_Bertram,Jens Bertram,Det Konservative Folkeparti,22
+Helsingør,4,Bølgen,C_Michael_Mathiesen,Michael Mathiesen,Det Konservative Folkeparti,26
+Helsingør,4,Bølgen,C_Birgitte_Bergman,Birgitte Bergman,Det Konservative Folkeparti,38
+Helsingør,4,Bølgen,C_Janus_Kyhl,Janus Kyhl,Det Konservative Folkeparti,176
+Helsingør,4,Bølgen,C_Arne_Thorvald_Koktvedgaard,Arne Thorvald Koktvedgaard,Det Konservative Folkeparti,5
+Helsingør,4,Bølgen,C_Michael_Lagoni,Michael Lagoni,Det Konservative Folkeparti,39
+Helsingør,4,Bølgen,C_Kristina_Kongsted,Kristina Kongsted,Det Konservative Folkeparti,78
+Helsingør,4,Bølgen,C_Thomas_Kok,Thomas Kok,Det Konservative Folkeparti,17
+Helsingør,4,Bølgen,C_Gert_Dyekjær,Gert Dyekjær,Det Konservative Folkeparti,144
+Helsingør,4,Bølgen,C_Birgitte_Milling,Birgitte Milling,Det Konservative Folkeparti,3
+Helsingør,4,Bølgen,C_Claus_Birkelyng,Claus Birkelyng,Det Konservative Folkeparti,34
+Helsingør,4,Bølgen,C_Carol_Krogstrup,Carol Krogstrup,Det Konservative Folkeparti,3
+Helsingør,4,Bølgen,C_Tom_Pedersen,Tom Pedersen,Det Konservative Folkeparti,6
+Helsingør,4,Bølgen,C_Olav_Berntsen,Olav Berntsen,Det Konservative Folkeparti,2
+Helsingør,4,Bølgen,C_Henrik_Malmgreen,Henrik Malmgreen,Det Konservative Folkeparti,4
+Helsingør,4,Bølgen,C_Henrik_Carmel,Henrik Carmel,Det Konservative Folkeparti,3
+Helsingør,4,Bølgen,C_Thomas_Grauslund,Thomas Grauslund,Det Konservative Folkeparti,51
+Helsingør,4,Bølgen,C_Sarah_Thorning_Guldborg,Sarah Thorning Guldborg,Det Konservative Folkeparti,3
+Helsingør,4,Bølgen,C_Knud_Vinther_Hansen,Knud Vinther Hansen,Det Konservative Folkeparti,14
+Helsingør,4,Bølgen,C_Hanne_Buur,Hanne Buur,Det Konservative Folkeparti,0
+Helsingør,4,Bølgen,C_Steen_Boldsen,Steen Boldsen,Det Konservative Folkeparti,27
+Helsingør,4,Bølgen,C_Per_E.Thomsen,Per E.Thomsen,Det Konservative Folkeparti,2
+Helsingør,4,Bølgen,D_Listestemmer,Listestemmer,Nye Borgerlige,71
+Helsingør,4,Bølgen,D_Ulla_Kokfelt,Ulla Kokfelt,Nye Borgerlige,65
+Helsingør,4,Bølgen,D_Rene_Schibler,Rene Schibler,Nye Borgerlige,9
+Helsingør,4,Bølgen,D_Denise_Rostgaard,Denise Rostgaard,Nye Borgerlige,39
+Helsingør,4,Bølgen,D_Kenneth_Kure,Kenneth Kure,Nye Borgerlige,1
+Helsingør,4,Bølgen,D_Jeanne_Højstrøm,Jeanne Højstrøm,Nye Borgerlige,2
+Helsingør,4,Bølgen,D_Margith_Marie_Jensen,Margith Marie Jensen,Nye Borgerlige,0
+Helsingør,4,Bølgen,D_Per_Olsen,Per Olsen,Nye Borgerlige,5
+Helsingør,4,Bølgen,D_Peter_la_Cour,Peter la Cour,Nye Borgerlige,6
+Helsingør,4,Bølgen,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,53
+Helsingør,4,Bølgen,F_Bente_Borg_Donkin,Bente Borg Donkin,SF - Socialistisk Folkeparti,55
+Helsingør,4,Bølgen,F_Anders_Wilsbech,Anders Wilsbech,SF - Socialistisk Folkeparti,6
+Helsingør,4,Bølgen,F_Niels_Mørup,Niels Mørup,SF - Socialistisk Folkeparti,6
+Helsingør,4,Bølgen,F_Thorfinn_Johansen,Thorfinn Johansen,SF - Socialistisk Folkeparti,5
+Helsingør,4,Bølgen,F_Dorthe_Bjørn_Andersen,Dorthe Bjørn Andersen,SF - Socialistisk Folkeparti,11
+Helsingør,4,Bølgen,F_Ole_Bergmann,Ole Bergmann,SF - Socialistisk Folkeparti,2
+Helsingør,4,Bølgen,H_Listestemmer,Listestemmer,Projekt Transparens,0
+Helsingør,4,Bølgen,H_Jeppe_Hauptmann,Jeppe Hauptmann,Projekt Transparens,0
+Helsingør,4,Bølgen,I_Listestemmer,Listestemmer,Liberal Alliance,24
+Helsingør,4,Bølgen,"I_Nicholas_Just_Villadsen,Kvistgård","Nicholas Just Villadsen,Kvistgård",Liberal Alliance,15
+Helsingør,4,Bølgen,"I_Kira_Danholm,_Snekkersten","Kira Danholm, Snekkersten",Liberal Alliance,5
+Helsingør,4,Bølgen,"I_Aishah_Yatim,_Helsingør","Aishah Yatim, Helsingør",Liberal Alliance,0
+Helsingør,4,Bølgen,"I_Jan_Ilum,_Helsingør","Jan Ilum, Helsingør",Liberal Alliance,0
+Helsingør,4,Bølgen,"I_Claus_Helge_Nielsen,_Helsingør","Claus Helge Nielsen, Helsingør",Liberal Alliance,1
+Helsingør,4,Bølgen,"I_Nicklas_M._Danholm,_Snekkersten","Nicklas M. Danholm, Snekkersten",Liberal Alliance,0
+Helsingør,4,Bølgen,J_Listestemmer,Listestemmer,Listehansen,1
+Helsingør,4,Bølgen,J_Jimmy_Jørgensen,Jimmy Jørgensen,Listehansen,3
+Helsingør,4,Bølgen,J_Erban_Jakobsen,Erban Jakobsen,Listehansen,0
+Helsingør,4,Bølgen,O_Listestemmer,Listestemmer,Dansk Folkeparti,52
+Helsingør,4,Bølgen,O_Marlene_Harpsøe,Marlene Harpsøe,Dansk Folkeparti,48
+Helsingør,4,Bølgen,O_Freja_Södergran,Freja Södergran,Dansk Folkeparti,18
+Helsingør,4,Bølgen,O_Rune_Oliver_Christensen,Rune Oliver Christensen,Dansk Folkeparti,3
+Helsingør,4,Bølgen,O_Stefan_Warburg,Stefan Warburg,Dansk Folkeparti,6
+Helsingør,4,Bølgen,O_Delvalle_Villarroel,Delvalle Villarroel,Dansk Folkeparti,0
+Helsingør,4,Bølgen,O_Lotte_Lehnerskjold,Lotte Lehnerskjold,Dansk Folkeparti,0
+Helsingør,4,Bølgen,O_Max_Tranebæk,Max Tranebæk,Dansk Folkeparti,0
+Helsingør,4,Bølgen,O_Erik_Warburg,Erik Warburg,Dansk Folkeparti,1
+Helsingør,4,Bølgen,O_Betty_Andersen,Betty Andersen,Dansk Folkeparti,1
+Helsingør,4,Bølgen,O_Niels-Christian_Kjeldsen,Niels-Christian Kjeldsen,Dansk Folkeparti,0
+Helsingør,4,Bølgen,O_Esther_Warburg,Esther Warburg,Dansk Folkeparti,1
+Helsingør,4,Bølgen,O_Torben_Elleboe,Torben Elleboe,Dansk Folkeparti,1
+Helsingør,4,Bølgen,O_Randi_Nielsen,Randi Nielsen,Dansk Folkeparti,2
+Helsingør,4,Bølgen,O_Viggo_Pedersen,Viggo Pedersen,Dansk Folkeparti,0
+Helsingør,4,Bølgen,O_Jens_Kirkegaard,Jens Kirkegaard,Dansk Folkeparti,4
+Helsingør,4,Bølgen,O_Ib_Kirkegaard,Ib Kirkegaard,Dansk Folkeparti,8
+Helsingør,4,Bølgen,P_Listestemmer,Listestemmer,Bella Listen,0
+Helsingør,4,Bølgen,P_Robert_Christiansen,Robert Christiansen,Bella Listen,1
+Helsingør,4,Bølgen,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",70
+Helsingør,4,Bølgen,"V_Mette_Lene_Jensen,_Espergærde","Mette Lene Jensen, Espergærde","Venstre, Danmarks Liberale Parti",52
+Helsingør,4,Bølgen,"V_Kari_Jørgensen,_Snekkersten","Kari Jørgensen, Snekkersten","Venstre, Danmarks Liberale Parti",11
+Helsingør,4,Bølgen,"V_Morten_Westergaard,_Espergærde","Morten Westergaard, Espergærde","Venstre, Danmarks Liberale Parti",11
+Helsingør,4,Bølgen,"V_Bjørn_Cronquist,Helsingør","Bjørn Cronquist,Helsingør","Venstre, Danmarks Liberale Parti",4
+Helsingør,4,Bølgen,"V_Helena_B._Sanders,_Helsingør","Helena B. Sanders, Helsingør","Venstre, Danmarks Liberale Parti",5
+Helsingør,4,Bølgen,"V_Christine_S._Brun,Hornbæk","Christine S. Brun,Hornbæk","Venstre, Danmarks Liberale Parti",5
+Helsingør,4,Bølgen,"V_Mikael_Heibrock_Sørensen,Snekkerst","Mikael Heibrock Sørensen,Snekkerst","Venstre, Danmarks Liberale Parti",1
+Helsingør,4,Bølgen,"V_Freddy_Jensen,_Espergærde","Freddy Jensen, Espergærde","Venstre, Danmarks Liberale Parti",1
+Helsingør,4,Bølgen,"V_Holger_Søndergaard,_Espergærde","Holger Søndergaard, Espergærde","Venstre, Danmarks Liberale Parti",0
+Helsingør,4,Bølgen,"V_Bettina_Cronquist,_Helsingør","Bettina Cronquist, Helsingør","Venstre, Danmarks Liberale Parti",1
+Helsingør,4,Bølgen,"V_Mads_Jessen_Jensen,_Espergærde","Mads Jessen Jensen, Espergærde","Venstre, Danmarks Liberale Parti",1
+Helsingør,4,Bølgen,"V_Karin_Andersen,_Hornbæk","Karin Andersen, Hornbæk","Venstre, Danmarks Liberale Parti",0
+Helsingør,4,Bølgen,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,84
+Helsingør,4,Bølgen,"Ø_Allan_Berg_Mortensen,_Helsingør","Allan Berg Mortensen, Helsingør",Enhedslisten - De Rød-Grønne,36
+Helsingør,4,Bølgen,"Ø_Jørgen_Bodilsen,_Helsingør","Jørgen Bodilsen, Helsingør",Enhedslisten - De Rød-Grønne,3
+Helsingør,4,Bølgen,"Ø_Malthe_Jacobsen,_Helsingør","Malthe Jacobsen, Helsingør",Enhedslisten - De Rød-Grønne,26
+Helsingør,4,Bølgen,"Ø_Annette_Frøhling,_Helsingør","Annette Frøhling, Helsingør",Enhedslisten - De Rød-Grønne,16
+Helsingør,4,Bølgen,"Ø_Karin_Claudia_Steinberg,_Espergærd","Karin Claudia Steinberg, Espergærd",Enhedslisten - De Rød-Grønne,6
+Helsingør,4,Bølgen,"Ø_Suzanne_Schytt,_Helsingør","Suzanne Schytt, Helsingør",Enhedslisten - De Rød-Grønne,13
+Helsingør,4,Bølgen,"Ø_Hans_Kjærgaard,_Nygård","Hans Kjærgaard, Nygård",Enhedslisten - De Rød-Grønne,2
+Helsingør,4,Bølgen,Å_Listestemmer,Listestemmer,Alternativet,9
+Helsingør,4,Bølgen,Å_Mette_Skamris,Mette Skamris,Alternativet,18
+Helsingør,4,Bølgen,Å_Helene_Liliendahl_Brydensholt,Helene Liliendahl Brydensholt,Alternativet,24
+Helsingør,4,Bølgen,Å_Morten_Greve,Morten Greve,Alternativet,12
+Helsingør,5,Hornbæk Skole,A_Listestemmer,Listestemmer,Socialdemokratiet,154
+Helsingør,5,Hornbæk Skole,A_Claus_Christoffersen,Claus Christoffersen,Socialdemokratiet,77
+Helsingør,5,Hornbæk Skole,A_Thomas_Horn,Thomas Horn,Socialdemokratiet,33
+Helsingør,5,Hornbæk Skole,A_Gitte_Kondrup,Gitte Kondrup,Socialdemokratiet,37
+Helsingør,5,Hornbæk Skole,A_Peter_Poulsen,Peter Poulsen,Socialdemokratiet,168
+Helsingør,5,Hornbæk Skole,A_Lone_Grønhøj_Frandsen,Lone Grønhøj Frandsen,Socialdemokratiet,19
+Helsingør,5,Hornbæk Skole,A_Betina_Svinggaard,Betina Svinggaard,Socialdemokratiet,30
+Helsingør,5,Hornbæk Skole,A_Lene_Lindberg,Lene Lindberg,Socialdemokratiet,20
+Helsingør,5,Hornbæk Skole,A_Silas_Drejer,Silas Drejer,Socialdemokratiet,4
+Helsingør,5,Hornbæk Skole,A_Daniel_Boalth_Petersen,Daniel Boalth Petersen,Socialdemokratiet,113
+Helsingør,5,Hornbæk Skole,A_Christian_Thelin,Christian Thelin,Socialdemokratiet,7
+Helsingør,5,Hornbæk Skole,A_Lars_Rosenørn-Dohn,Lars Rosenørn-Dohn,Socialdemokratiet,2
+Helsingør,5,Hornbæk Skole,A_Palle_Wørman,Palle Wørman,Socialdemokratiet,13
+Helsingør,5,Hornbæk Skole,A_Harun_Avdal,Harun Avdal,Socialdemokratiet,1
+Helsingør,5,Hornbæk Skole,A_Thomas_Hjalmar_Mikkelsen,Thomas Hjalmar Mikkelsen,Socialdemokratiet,4
+Helsingør,5,Hornbæk Skole,A_Jørgen_Persson,Jørgen Persson,Socialdemokratiet,1
+Helsingør,5,Hornbæk Skole,A_Mads_Sandholdt,Mads Sandholdt,Socialdemokratiet,0
+Helsingør,5,Hornbæk Skole,B_Listestemmer,Listestemmer,Radikale Venstre,54
+Helsingør,5,Hornbæk Skole,"B_Christian_Holm_Donatzky,_Helsingør","Christian Holm Donatzky, Helsingør",Radikale Venstre,87
+Helsingør,5,Hornbæk Skole,"B_Knud_Mogensen,_Tikøb","Knud Mogensen, Tikøb",Radikale Venstre,11
+Helsingør,5,Hornbæk Skole,"B_Birgit_Mørup,_Helsingør","Birgit Mørup, Helsingør",Radikale Venstre,13
+Helsingør,5,Hornbæk Skole,"B_Per_Frank_Povlsen,_Helsingør","Per Frank Povlsen, Helsingør",Radikale Venstre,0
+Helsingør,5,Hornbæk Skole,"B_Inge-Lise_Candelaria,_Helsingør","Inge-Lise Candelaria, Helsingør",Radikale Venstre,7
+Helsingør,5,Hornbæk Skole,"B_Mogens_Aarsleff_Hansen,_Espergærde","Mogens Aarsleff Hansen, Espergærde",Radikale Venstre,0
+Helsingør,5,Hornbæk Skole,"B_Niels_Frederiksen,_Hellebæk","Niels Frederiksen, Hellebæk",Radikale Venstre,1
+Helsingør,5,Hornbæk Skole,"B_Annette_Steglich-Petersen,Hornbæk","Annette Steglich-Petersen,Hornbæk",Radikale Venstre,52
+Helsingør,5,Hornbæk Skole,"B_Noah_Nevado,_Helsingør","Noah Nevado, Helsingør",Radikale Venstre,2
+Helsingør,5,Hornbæk Skole,"B_Hanne_E._Jakobsen,_Snekkersten","Hanne E. Jakobsen, Snekkersten",Radikale Venstre,5
+Helsingør,5,Hornbæk Skole,"B_Poul_Bernt_Jensen,_Snekkersten","Poul Bernt Jensen, Snekkersten",Radikale Venstre,0
+Helsingør,5,Hornbæk Skole,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,147
+Helsingør,5,Hornbæk Skole,C_Benedikte_Kiær,Benedikte Kiær,Det Konservative Folkeparti,607
+Helsingør,5,Hornbæk Skole,C_Jens_Bertram,Jens Bertram,Det Konservative Folkeparti,262
+Helsingør,5,Hornbæk Skole,C_Michael_Mathiesen,Michael Mathiesen,Det Konservative Folkeparti,14
+Helsingør,5,Hornbæk Skole,C_Birgitte_Bergman,Birgitte Bergman,Det Konservative Folkeparti,38
+Helsingør,5,Hornbæk Skole,C_Janus_Kyhl,Janus Kyhl,Det Konservative Folkeparti,16
+Helsingør,5,Hornbæk Skole,C_Arne_Thorvald_Koktvedgaard,Arne Thorvald Koktvedgaard,Det Konservative Folkeparti,4
+Helsingør,5,Hornbæk Skole,C_Michael_Lagoni,Michael Lagoni,Det Konservative Folkeparti,13
+Helsingør,5,Hornbæk Skole,C_Kristina_Kongsted,Kristina Kongsted,Det Konservative Folkeparti,9
+Helsingør,5,Hornbæk Skole,C_Thomas_Kok,Thomas Kok,Det Konservative Folkeparti,9
+Helsingør,5,Hornbæk Skole,C_Gert_Dyekjær,Gert Dyekjær,Det Konservative Folkeparti,5
+Helsingør,5,Hornbæk Skole,C_Birgitte_Milling,Birgitte Milling,Det Konservative Folkeparti,7
+Helsingør,5,Hornbæk Skole,C_Claus_Birkelyng,Claus Birkelyng,Det Konservative Folkeparti,20
+Helsingør,5,Hornbæk Skole,C_Carol_Krogstrup,Carol Krogstrup,Det Konservative Folkeparti,0
+Helsingør,5,Hornbæk Skole,C_Tom_Pedersen,Tom Pedersen,Det Konservative Folkeparti,4
+Helsingør,5,Hornbæk Skole,C_Olav_Berntsen,Olav Berntsen,Det Konservative Folkeparti,106
+Helsingør,5,Hornbæk Skole,C_Henrik_Malmgreen,Henrik Malmgreen,Det Konservative Folkeparti,0
+Helsingør,5,Hornbæk Skole,C_Henrik_Carmel,Henrik Carmel,Det Konservative Folkeparti,2
+Helsingør,5,Hornbæk Skole,C_Thomas_Grauslund,Thomas Grauslund,Det Konservative Folkeparti,1
+Helsingør,5,Hornbæk Skole,C_Sarah_Thorning_Guldborg,Sarah Thorning Guldborg,Det Konservative Folkeparti,7
+Helsingør,5,Hornbæk Skole,C_Knud_Vinther_Hansen,Knud Vinther Hansen,Det Konservative Folkeparti,19
+Helsingør,5,Hornbæk Skole,C_Hanne_Buur,Hanne Buur,Det Konservative Folkeparti,4
+Helsingør,5,Hornbæk Skole,C_Steen_Boldsen,Steen Boldsen,Det Konservative Folkeparti,10
+Helsingør,5,Hornbæk Skole,C_Per_E.Thomsen,Per E.Thomsen,Det Konservative Folkeparti,2
+Helsingør,5,Hornbæk Skole,D_Listestemmer,Listestemmer,Nye Borgerlige,67
+Helsingør,5,Hornbæk Skole,D_Ulla_Kokfelt,Ulla Kokfelt,Nye Borgerlige,53
+Helsingør,5,Hornbæk Skole,D_Rene_Schibler,Rene Schibler,Nye Borgerlige,25
+Helsingør,5,Hornbæk Skole,D_Denise_Rostgaard,Denise Rostgaard,Nye Borgerlige,26
+Helsingør,5,Hornbæk Skole,D_Kenneth_Kure,Kenneth Kure,Nye Borgerlige,0
+Helsingør,5,Hornbæk Skole,D_Jeanne_Højstrøm,Jeanne Højstrøm,Nye Borgerlige,1
+Helsingør,5,Hornbæk Skole,D_Margith_Marie_Jensen,Margith Marie Jensen,Nye Borgerlige,1
+Helsingør,5,Hornbæk Skole,D_Per_Olsen,Per Olsen,Nye Borgerlige,3
+Helsingør,5,Hornbæk Skole,D_Peter_la_Cour,Peter la Cour,Nye Borgerlige,6
+Helsingør,5,Hornbæk Skole,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,55
+Helsingør,5,Hornbæk Skole,F_Bente_Borg_Donkin,Bente Borg Donkin,SF - Socialistisk Folkeparti,53
+Helsingør,5,Hornbæk Skole,F_Anders_Wilsbech,Anders Wilsbech,SF - Socialistisk Folkeparti,3
+Helsingør,5,Hornbæk Skole,F_Niels_Mørup,Niels Mørup,SF - Socialistisk Folkeparti,7
+Helsingør,5,Hornbæk Skole,F_Thorfinn_Johansen,Thorfinn Johansen,SF - Socialistisk Folkeparti,2
+Helsingør,5,Hornbæk Skole,F_Dorthe_Bjørn_Andersen,Dorthe Bjørn Andersen,SF - Socialistisk Folkeparti,22
+Helsingør,5,Hornbæk Skole,F_Ole_Bergmann,Ole Bergmann,SF - Socialistisk Folkeparti,6
+Helsingør,5,Hornbæk Skole,H_Listestemmer,Listestemmer,Projekt Transparens,0
+Helsingør,5,Hornbæk Skole,H_Jeppe_Hauptmann,Jeppe Hauptmann,Projekt Transparens,1
+Helsingør,5,Hornbæk Skole,I_Listestemmer,Listestemmer,Liberal Alliance,21
+Helsingør,5,Hornbæk Skole,"I_Nicholas_Just_Villadsen,Kvistgård","Nicholas Just Villadsen,Kvistgård",Liberal Alliance,6
+Helsingør,5,Hornbæk Skole,"I_Kira_Danholm,_Snekkersten","Kira Danholm, Snekkersten",Liberal Alliance,2
+Helsingør,5,Hornbæk Skole,"I_Aishah_Yatim,_Helsingør","Aishah Yatim, Helsingør",Liberal Alliance,0
+Helsingør,5,Hornbæk Skole,"I_Jan_Ilum,_Helsingør","Jan Ilum, Helsingør",Liberal Alliance,2
+Helsingør,5,Hornbæk Skole,"I_Claus_Helge_Nielsen,_Helsingør","Claus Helge Nielsen, Helsingør",Liberal Alliance,0
+Helsingør,5,Hornbæk Skole,"I_Nicklas_M._Danholm,_Snekkersten","Nicklas M. Danholm, Snekkersten",Liberal Alliance,1
+Helsingør,5,Hornbæk Skole,J_Listestemmer,Listestemmer,Listehansen,1
+Helsingør,5,Hornbæk Skole,J_Jimmy_Jørgensen,Jimmy Jørgensen,Listehansen,1
+Helsingør,5,Hornbæk Skole,J_Erban_Jakobsen,Erban Jakobsen,Listehansen,0
+Helsingør,5,Hornbæk Skole,O_Listestemmer,Listestemmer,Dansk Folkeparti,25
+Helsingør,5,Hornbæk Skole,O_Marlene_Harpsøe,Marlene Harpsøe,Dansk Folkeparti,46
+Helsingør,5,Hornbæk Skole,O_Freja_Södergran,Freja Södergran,Dansk Folkeparti,5
+Helsingør,5,Hornbæk Skole,O_Rune_Oliver_Christensen,Rune Oliver Christensen,Dansk Folkeparti,18
+Helsingør,5,Hornbæk Skole,O_Stefan_Warburg,Stefan Warburg,Dansk Folkeparti,5
+Helsingør,5,Hornbæk Skole,O_Delvalle_Villarroel,Delvalle Villarroel,Dansk Folkeparti,0
+Helsingør,5,Hornbæk Skole,O_Lotte_Lehnerskjold,Lotte Lehnerskjold,Dansk Folkeparti,6
+Helsingør,5,Hornbæk Skole,O_Max_Tranebæk,Max Tranebæk,Dansk Folkeparti,1
+Helsingør,5,Hornbæk Skole,O_Erik_Warburg,Erik Warburg,Dansk Folkeparti,0
+Helsingør,5,Hornbæk Skole,O_Betty_Andersen,Betty Andersen,Dansk Folkeparti,0
+Helsingør,5,Hornbæk Skole,O_Niels-Christian_Kjeldsen,Niels-Christian Kjeldsen,Dansk Folkeparti,0
+Helsingør,5,Hornbæk Skole,O_Esther_Warburg,Esther Warburg,Dansk Folkeparti,0
+Helsingør,5,Hornbæk Skole,O_Torben_Elleboe,Torben Elleboe,Dansk Folkeparti,0
+Helsingør,5,Hornbæk Skole,O_Randi_Nielsen,Randi Nielsen,Dansk Folkeparti,0
+Helsingør,5,Hornbæk Skole,O_Viggo_Pedersen,Viggo Pedersen,Dansk Folkeparti,1
+Helsingør,5,Hornbæk Skole,O_Jens_Kirkegaard,Jens Kirkegaard,Dansk Folkeparti,1
+Helsingør,5,Hornbæk Skole,O_Ib_Kirkegaard,Ib Kirkegaard,Dansk Folkeparti,4
+Helsingør,5,Hornbæk Skole,P_Listestemmer,Listestemmer,Bella Listen,0
+Helsingør,5,Hornbæk Skole,P_Robert_Christiansen,Robert Christiansen,Bella Listen,1
+Helsingør,5,Hornbæk Skole,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",50
+Helsingør,5,Hornbæk Skole,"V_Mette_Lene_Jensen,_Espergærde","Mette Lene Jensen, Espergærde","Venstre, Danmarks Liberale Parti",44
+Helsingør,5,Hornbæk Skole,"V_Kari_Jørgensen,_Snekkersten","Kari Jørgensen, Snekkersten","Venstre, Danmarks Liberale Parti",8
+Helsingør,5,Hornbæk Skole,"V_Morten_Westergaard,_Espergærde","Morten Westergaard, Espergærde","Venstre, Danmarks Liberale Parti",17
+Helsingør,5,Hornbæk Skole,"V_Bjørn_Cronquist,Helsingør","Bjørn Cronquist,Helsingør","Venstre, Danmarks Liberale Parti",5
+Helsingør,5,Hornbæk Skole,"V_Helena_B._Sanders,_Helsingør","Helena B. Sanders, Helsingør","Venstre, Danmarks Liberale Parti",3
+Helsingør,5,Hornbæk Skole,"V_Christine_S._Brun,Hornbæk","Christine S. Brun,Hornbæk","Venstre, Danmarks Liberale Parti",53
+Helsingør,5,Hornbæk Skole,"V_Mikael_Heibrock_Sørensen,Snekkerst","Mikael Heibrock Sørensen,Snekkerst","Venstre, Danmarks Liberale Parti",0
+Helsingør,5,Hornbæk Skole,"V_Freddy_Jensen,_Espergærde","Freddy Jensen, Espergærde","Venstre, Danmarks Liberale Parti",0
+Helsingør,5,Hornbæk Skole,"V_Holger_Søndergaard,_Espergærde","Holger Søndergaard, Espergærde","Venstre, Danmarks Liberale Parti",1
+Helsingør,5,Hornbæk Skole,"V_Bettina_Cronquist,_Helsingør","Bettina Cronquist, Helsingør","Venstre, Danmarks Liberale Parti",1
+Helsingør,5,Hornbæk Skole,"V_Mads_Jessen_Jensen,_Espergærde","Mads Jessen Jensen, Espergærde","Venstre, Danmarks Liberale Parti",6
+Helsingør,5,Hornbæk Skole,"V_Karin_Andersen,_Hornbæk","Karin Andersen, Hornbæk","Venstre, Danmarks Liberale Parti",14
+Helsingør,5,Hornbæk Skole,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,59
+Helsingør,5,Hornbæk Skole,"Ø_Allan_Berg_Mortensen,_Helsingør","Allan Berg Mortensen, Helsingør",Enhedslisten - De Rød-Grønne,33
+Helsingør,5,Hornbæk Skole,"Ø_Jørgen_Bodilsen,_Helsingør","Jørgen Bodilsen, Helsingør",Enhedslisten - De Rød-Grønne,5
+Helsingør,5,Hornbæk Skole,"Ø_Malthe_Jacobsen,_Helsingør","Malthe Jacobsen, Helsingør",Enhedslisten - De Rød-Grønne,20
+Helsingør,5,Hornbæk Skole,"Ø_Annette_Frøhling,_Helsingør","Annette Frøhling, Helsingør",Enhedslisten - De Rød-Grønne,9
+Helsingør,5,Hornbæk Skole,"Ø_Karin_Claudia_Steinberg,_Espergærd","Karin Claudia Steinberg, Espergærd",Enhedslisten - De Rød-Grønne,3
+Helsingør,5,Hornbæk Skole,"Ø_Suzanne_Schytt,_Helsingør","Suzanne Schytt, Helsingør",Enhedslisten - De Rød-Grønne,6
+Helsingør,5,Hornbæk Skole,"Ø_Hans_Kjærgaard,_Nygård","Hans Kjærgaard, Nygård",Enhedslisten - De Rød-Grønne,1
+Helsingør,5,Hornbæk Skole,Å_Listestemmer,Listestemmer,Alternativet,16
+Helsingør,5,Hornbæk Skole,Å_Mette_Skamris,Mette Skamris,Alternativet,16
+Helsingør,5,Hornbæk Skole,Å_Helene_Liliendahl_Brydensholt,Helene Liliendahl Brydensholt,Alternativet,28
+Helsingør,5,Hornbæk Skole,Å_Morten_Greve,Morten Greve,Alternativet,19
+Helsingør,6,Nygård Skole,A_Listestemmer,Listestemmer,Socialdemokratiet,29
+Helsingør,6,Nygård Skole,A_Claus_Christoffersen,Claus Christoffersen,Socialdemokratiet,29
+Helsingør,6,Nygård Skole,A_Thomas_Horn,Thomas Horn,Socialdemokratiet,14
+Helsingør,6,Nygård Skole,A_Gitte_Kondrup,Gitte Kondrup,Socialdemokratiet,9
+Helsingør,6,Nygård Skole,A_Peter_Poulsen,Peter Poulsen,Socialdemokratiet,4
+Helsingør,6,Nygård Skole,A_Lone_Grønhøj_Frandsen,Lone Grønhøj Frandsen,Socialdemokratiet,2
+Helsingør,6,Nygård Skole,A_Betina_Svinggaard,Betina Svinggaard,Socialdemokratiet,8
+Helsingør,6,Nygård Skole,A_Lene_Lindberg,Lene Lindberg,Socialdemokratiet,36
+Helsingør,6,Nygård Skole,A_Silas_Drejer,Silas Drejer,Socialdemokratiet,10
+Helsingør,6,Nygård Skole,A_Daniel_Boalth_Petersen,Daniel Boalth Petersen,Socialdemokratiet,6
+Helsingør,6,Nygård Skole,A_Christian_Thelin,Christian Thelin,Socialdemokratiet,1
+Helsingør,6,Nygård Skole,A_Lars_Rosenørn-Dohn,Lars Rosenørn-Dohn,Socialdemokratiet,0
+Helsingør,6,Nygård Skole,A_Palle_Wørman,Palle Wørman,Socialdemokratiet,6
+Helsingør,6,Nygård Skole,A_Harun_Avdal,Harun Avdal,Socialdemokratiet,0
+Helsingør,6,Nygård Skole,A_Thomas_Hjalmar_Mikkelsen,Thomas Hjalmar Mikkelsen,Socialdemokratiet,2
+Helsingør,6,Nygård Skole,A_Jørgen_Persson,Jørgen Persson,Socialdemokratiet,1
+Helsingør,6,Nygård Skole,A_Mads_Sandholdt,Mads Sandholdt,Socialdemokratiet,0
+Helsingør,6,Nygård Skole,B_Listestemmer,Listestemmer,Radikale Venstre,13
+Helsingør,6,Nygård Skole,"B_Christian_Holm_Donatzky,_Helsingør","Christian Holm Donatzky, Helsingør",Radikale Venstre,18
+Helsingør,6,Nygård Skole,"B_Knud_Mogensen,_Tikøb","Knud Mogensen, Tikøb",Radikale Venstre,7
+Helsingør,6,Nygård Skole,"B_Birgit_Mørup,_Helsingør","Birgit Mørup, Helsingør",Radikale Venstre,6
+Helsingør,6,Nygård Skole,"B_Per_Frank_Povlsen,_Helsingør","Per Frank Povlsen, Helsingør",Radikale Venstre,0
+Helsingør,6,Nygård Skole,"B_Inge-Lise_Candelaria,_Helsingør","Inge-Lise Candelaria, Helsingør",Radikale Venstre,1
+Helsingør,6,Nygård Skole,"B_Mogens_Aarsleff_Hansen,_Espergærde","Mogens Aarsleff Hansen, Espergærde",Radikale Venstre,0
+Helsingør,6,Nygård Skole,"B_Niels_Frederiksen,_Hellebæk","Niels Frederiksen, Hellebæk",Radikale Venstre,0
+Helsingør,6,Nygård Skole,"B_Annette_Steglich-Petersen,Hornbæk","Annette Steglich-Petersen,Hornbæk",Radikale Venstre,0
+Helsingør,6,Nygård Skole,"B_Noah_Nevado,_Helsingør","Noah Nevado, Helsingør",Radikale Venstre,0
+Helsingør,6,Nygård Skole,"B_Hanne_E._Jakobsen,_Snekkersten","Hanne E. Jakobsen, Snekkersten",Radikale Venstre,2
+Helsingør,6,Nygård Skole,"B_Poul_Bernt_Jensen,_Snekkersten","Poul Bernt Jensen, Snekkersten",Radikale Venstre,1
+Helsingør,6,Nygård Skole,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,45
+Helsingør,6,Nygård Skole,C_Benedikte_Kiær,Benedikte Kiær,Det Konservative Folkeparti,172
+Helsingør,6,Nygård Skole,C_Jens_Bertram,Jens Bertram,Det Konservative Folkeparti,6
+Helsingør,6,Nygård Skole,C_Michael_Mathiesen,Michael Mathiesen,Det Konservative Folkeparti,6
+Helsingør,6,Nygård Skole,C_Birgitte_Bergman,Birgitte Bergman,Det Konservative Folkeparti,6
+Helsingør,6,Nygård Skole,C_Janus_Kyhl,Janus Kyhl,Det Konservative Folkeparti,4
+Helsingør,6,Nygård Skole,C_Arne_Thorvald_Koktvedgaard,Arne Thorvald Koktvedgaard,Det Konservative Folkeparti,1
+Helsingør,6,Nygård Skole,C_Michael_Lagoni,Michael Lagoni,Det Konservative Folkeparti,8
+Helsingør,6,Nygård Skole,C_Kristina_Kongsted,Kristina Kongsted,Det Konservative Folkeparti,19
+Helsingør,6,Nygård Skole,C_Thomas_Kok,Thomas Kok,Det Konservative Folkeparti,7
+Helsingør,6,Nygård Skole,C_Gert_Dyekjær,Gert Dyekjær,Det Konservative Folkeparti,2
+Helsingør,6,Nygård Skole,C_Birgitte_Milling,Birgitte Milling,Det Konservative Folkeparti,3
+Helsingør,6,Nygård Skole,C_Claus_Birkelyng,Claus Birkelyng,Det Konservative Folkeparti,3
+Helsingør,6,Nygård Skole,C_Carol_Krogstrup,Carol Krogstrup,Det Konservative Folkeparti,1
+Helsingør,6,Nygård Skole,C_Tom_Pedersen,Tom Pedersen,Det Konservative Folkeparti,5
+Helsingør,6,Nygård Skole,C_Olav_Berntsen,Olav Berntsen,Det Konservative Folkeparti,0
+Helsingør,6,Nygård Skole,C_Henrik_Malmgreen,Henrik Malmgreen,Det Konservative Folkeparti,1
+Helsingør,6,Nygård Skole,C_Henrik_Carmel,Henrik Carmel,Det Konservative Folkeparti,2
+Helsingør,6,Nygård Skole,C_Thomas_Grauslund,Thomas Grauslund,Det Konservative Folkeparti,2
+Helsingør,6,Nygård Skole,C_Sarah_Thorning_Guldborg,Sarah Thorning Guldborg,Det Konservative Folkeparti,2
+Helsingør,6,Nygård Skole,C_Knud_Vinther_Hansen,Knud Vinther Hansen,Det Konservative Folkeparti,3
+Helsingør,6,Nygård Skole,C_Hanne_Buur,Hanne Buur,Det Konservative Folkeparti,0
+Helsingør,6,Nygård Skole,C_Steen_Boldsen,Steen Boldsen,Det Konservative Folkeparti,3
+Helsingør,6,Nygård Skole,C_Per_E.Thomsen,Per E.Thomsen,Det Konservative Folkeparti,1
+Helsingør,6,Nygård Skole,D_Listestemmer,Listestemmer,Nye Borgerlige,22
+Helsingør,6,Nygård Skole,D_Ulla_Kokfelt,Ulla Kokfelt,Nye Borgerlige,24
+Helsingør,6,Nygård Skole,D_Rene_Schibler,Rene Schibler,Nye Borgerlige,3
+Helsingør,6,Nygård Skole,D_Denise_Rostgaard,Denise Rostgaard,Nye Borgerlige,19
+Helsingør,6,Nygård Skole,D_Kenneth_Kure,Kenneth Kure,Nye Borgerlige,1
+Helsingør,6,Nygård Skole,D_Jeanne_Højstrøm,Jeanne Højstrøm,Nye Borgerlige,1
+Helsingør,6,Nygård Skole,D_Margith_Marie_Jensen,Margith Marie Jensen,Nye Borgerlige,0
+Helsingør,6,Nygård Skole,D_Per_Olsen,Per Olsen,Nye Borgerlige,2
+Helsingør,6,Nygård Skole,D_Peter_la_Cour,Peter la Cour,Nye Borgerlige,1
+Helsingør,6,Nygård Skole,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,13
+Helsingør,6,Nygård Skole,F_Bente_Borg_Donkin,Bente Borg Donkin,SF - Socialistisk Folkeparti,8
+Helsingør,6,Nygård Skole,F_Anders_Wilsbech,Anders Wilsbech,SF - Socialistisk Folkeparti,1
+Helsingør,6,Nygård Skole,F_Niels_Mørup,Niels Mørup,SF - Socialistisk Folkeparti,1
+Helsingør,6,Nygård Skole,F_Thorfinn_Johansen,Thorfinn Johansen,SF - Socialistisk Folkeparti,0
+Helsingør,6,Nygård Skole,F_Dorthe_Bjørn_Andersen,Dorthe Bjørn Andersen,SF - Socialistisk Folkeparti,4
+Helsingør,6,Nygård Skole,F_Ole_Bergmann,Ole Bergmann,SF - Socialistisk Folkeparti,3
+Helsingør,6,Nygård Skole,H_Listestemmer,Listestemmer,Projekt Transparens,0
+Helsingør,6,Nygård Skole,H_Jeppe_Hauptmann,Jeppe Hauptmann,Projekt Transparens,4
+Helsingør,6,Nygård Skole,I_Listestemmer,Listestemmer,Liberal Alliance,8
+Helsingør,6,Nygård Skole,"I_Nicholas_Just_Villadsen,Kvistgård","Nicholas Just Villadsen,Kvistgård",Liberal Alliance,8
+Helsingør,6,Nygård Skole,"I_Kira_Danholm,_Snekkersten","Kira Danholm, Snekkersten",Liberal Alliance,0
+Helsingør,6,Nygård Skole,"I_Aishah_Yatim,_Helsingør","Aishah Yatim, Helsingør",Liberal Alliance,0
+Helsingør,6,Nygård Skole,"I_Jan_Ilum,_Helsingør","Jan Ilum, Helsingør",Liberal Alliance,0
+Helsingør,6,Nygård Skole,"I_Claus_Helge_Nielsen,_Helsingør","Claus Helge Nielsen, Helsingør",Liberal Alliance,0
+Helsingør,6,Nygård Skole,"I_Nicklas_M._Danholm,_Snekkersten","Nicklas M. Danholm, Snekkersten",Liberal Alliance,1
+Helsingør,6,Nygård Skole,J_Listestemmer,Listestemmer,Listehansen,0
+Helsingør,6,Nygård Skole,J_Jimmy_Jørgensen,Jimmy Jørgensen,Listehansen,0
+Helsingør,6,Nygård Skole,J_Erban_Jakobsen,Erban Jakobsen,Listehansen,0
+Helsingør,6,Nygård Skole,O_Listestemmer,Listestemmer,Dansk Folkeparti,10
+Helsingør,6,Nygård Skole,O_Marlene_Harpsøe,Marlene Harpsøe,Dansk Folkeparti,15
+Helsingør,6,Nygård Skole,O_Freja_Södergran,Freja Södergran,Dansk Folkeparti,3
+Helsingør,6,Nygård Skole,O_Rune_Oliver_Christensen,Rune Oliver Christensen,Dansk Folkeparti,0
+Helsingør,6,Nygård Skole,O_Stefan_Warburg,Stefan Warburg,Dansk Folkeparti,0
+Helsingør,6,Nygård Skole,O_Delvalle_Villarroel,Delvalle Villarroel,Dansk Folkeparti,0
+Helsingør,6,Nygård Skole,O_Lotte_Lehnerskjold,Lotte Lehnerskjold,Dansk Folkeparti,0
+Helsingør,6,Nygård Skole,O_Max_Tranebæk,Max Tranebæk,Dansk Folkeparti,1
+Helsingør,6,Nygård Skole,O_Erik_Warburg,Erik Warburg,Dansk Folkeparti,0
+Helsingør,6,Nygård Skole,O_Betty_Andersen,Betty Andersen,Dansk Folkeparti,0
+Helsingør,6,Nygård Skole,O_Niels-Christian_Kjeldsen,Niels-Christian Kjeldsen,Dansk Folkeparti,0
+Helsingør,6,Nygård Skole,O_Esther_Warburg,Esther Warburg,Dansk Folkeparti,0
+Helsingør,6,Nygård Skole,O_Torben_Elleboe,Torben Elleboe,Dansk Folkeparti,0
+Helsingør,6,Nygård Skole,O_Randi_Nielsen,Randi Nielsen,Dansk Folkeparti,0
+Helsingør,6,Nygård Skole,O_Viggo_Pedersen,Viggo Pedersen,Dansk Folkeparti,0
+Helsingør,6,Nygård Skole,O_Jens_Kirkegaard,Jens Kirkegaard,Dansk Folkeparti,2
+Helsingør,6,Nygård Skole,O_Ib_Kirkegaard,Ib Kirkegaard,Dansk Folkeparti,1
+Helsingør,6,Nygård Skole,P_Listestemmer,Listestemmer,Bella Listen,0
+Helsingør,6,Nygård Skole,P_Robert_Christiansen,Robert Christiansen,Bella Listen,0
+Helsingør,6,Nygård Skole,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",18
+Helsingør,6,Nygård Skole,"V_Mette_Lene_Jensen,_Espergærde","Mette Lene Jensen, Espergærde","Venstre, Danmarks Liberale Parti",15
+Helsingør,6,Nygård Skole,"V_Kari_Jørgensen,_Snekkersten","Kari Jørgensen, Snekkersten","Venstre, Danmarks Liberale Parti",2
+Helsingør,6,Nygård Skole,"V_Morten_Westergaard,_Espergærde","Morten Westergaard, Espergærde","Venstre, Danmarks Liberale Parti",9
+Helsingør,6,Nygård Skole,"V_Bjørn_Cronquist,Helsingør","Bjørn Cronquist,Helsingør","Venstre, Danmarks Liberale Parti",2
+Helsingør,6,Nygård Skole,"V_Helena_B._Sanders,_Helsingør","Helena B. Sanders, Helsingør","Venstre, Danmarks Liberale Parti",0
+Helsingør,6,Nygård Skole,"V_Christine_S._Brun,Hornbæk","Christine S. Brun,Hornbæk","Venstre, Danmarks Liberale Parti",3
+Helsingør,6,Nygård Skole,"V_Mikael_Heibrock_Sørensen,Snekkerst","Mikael Heibrock Sørensen,Snekkerst","Venstre, Danmarks Liberale Parti",0
+Helsingør,6,Nygård Skole,"V_Freddy_Jensen,_Espergærde","Freddy Jensen, Espergærde","Venstre, Danmarks Liberale Parti",0
+Helsingør,6,Nygård Skole,"V_Holger_Søndergaard,_Espergærde","Holger Søndergaard, Espergærde","Venstre, Danmarks Liberale Parti",0
+Helsingør,6,Nygård Skole,"V_Bettina_Cronquist,_Helsingør","Bettina Cronquist, Helsingør","Venstre, Danmarks Liberale Parti",1
+Helsingør,6,Nygård Skole,"V_Mads_Jessen_Jensen,_Espergærde","Mads Jessen Jensen, Espergærde","Venstre, Danmarks Liberale Parti",2
+Helsingør,6,Nygård Skole,"V_Karin_Andersen,_Hornbæk","Karin Andersen, Hornbæk","Venstre, Danmarks Liberale Parti",0
+Helsingør,6,Nygård Skole,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,17
+Helsingør,6,Nygård Skole,"Ø_Allan_Berg_Mortensen,_Helsingør","Allan Berg Mortensen, Helsingør",Enhedslisten - De Rød-Grønne,9
+Helsingør,6,Nygård Skole,"Ø_Jørgen_Bodilsen,_Helsingør","Jørgen Bodilsen, Helsingør",Enhedslisten - De Rød-Grønne,3
+Helsingør,6,Nygård Skole,"Ø_Malthe_Jacobsen,_Helsingør","Malthe Jacobsen, Helsingør",Enhedslisten - De Rød-Grønne,1
+Helsingør,6,Nygård Skole,"Ø_Annette_Frøhling,_Helsingør","Annette Frøhling, Helsingør",Enhedslisten - De Rød-Grønne,5
+Helsingør,6,Nygård Skole,"Ø_Karin_Claudia_Steinberg,_Espergærd","Karin Claudia Steinberg, Espergærd",Enhedslisten - De Rød-Grønne,1
+Helsingør,6,Nygård Skole,"Ø_Suzanne_Schytt,_Helsingør","Suzanne Schytt, Helsingør",Enhedslisten - De Rød-Grønne,5
+Helsingør,6,Nygård Skole,"Ø_Hans_Kjærgaard,_Nygård","Hans Kjærgaard, Nygård",Enhedslisten - De Rød-Grønne,5
+Helsingør,6,Nygård Skole,Å_Listestemmer,Listestemmer,Alternativet,4
+Helsingør,6,Nygård Skole,Å_Mette_Skamris,Mette Skamris,Alternativet,9
+Helsingør,6,Nygård Skole,Å_Helene_Liliendahl_Brydensholt,Helene Liliendahl Brydensholt,Alternativet,9
+Helsingør,6,Nygård Skole,Å_Morten_Greve,Morten Greve,Alternativet,3
+Helsingør,7,Tikøb Skole,A_Listestemmer,Listestemmer,Socialdemokratiet,42
+Helsingør,7,Tikøb Skole,A_Claus_Christoffersen,Claus Christoffersen,Socialdemokratiet,32
+Helsingør,7,Tikøb Skole,A_Thomas_Horn,Thomas Horn,Socialdemokratiet,10
+Helsingør,7,Tikøb Skole,A_Gitte_Kondrup,Gitte Kondrup,Socialdemokratiet,14
+Helsingør,7,Tikøb Skole,A_Peter_Poulsen,Peter Poulsen,Socialdemokratiet,3
+Helsingør,7,Tikøb Skole,A_Lone_Grønhøj_Frandsen,Lone Grønhøj Frandsen,Socialdemokratiet,5
+Helsingør,7,Tikøb Skole,A_Betina_Svinggaard,Betina Svinggaard,Socialdemokratiet,8
+Helsingør,7,Tikøb Skole,A_Lene_Lindberg,Lene Lindberg,Socialdemokratiet,4
+Helsingør,7,Tikøb Skole,A_Silas_Drejer,Silas Drejer,Socialdemokratiet,5
+Helsingør,7,Tikøb Skole,A_Daniel_Boalth_Petersen,Daniel Boalth Petersen,Socialdemokratiet,6
+Helsingør,7,Tikøb Skole,A_Christian_Thelin,Christian Thelin,Socialdemokratiet,3
+Helsingør,7,Tikøb Skole,A_Lars_Rosenørn-Dohn,Lars Rosenørn-Dohn,Socialdemokratiet,0
+Helsingør,7,Tikøb Skole,A_Palle_Wørman,Palle Wørman,Socialdemokratiet,2
+Helsingør,7,Tikøb Skole,A_Harun_Avdal,Harun Avdal,Socialdemokratiet,1
+Helsingør,7,Tikøb Skole,A_Thomas_Hjalmar_Mikkelsen,Thomas Hjalmar Mikkelsen,Socialdemokratiet,0
+Helsingør,7,Tikøb Skole,A_Jørgen_Persson,Jørgen Persson,Socialdemokratiet,0
+Helsingør,7,Tikøb Skole,A_Mads_Sandholdt,Mads Sandholdt,Socialdemokratiet,3
+Helsingør,7,Tikøb Skole,B_Listestemmer,Listestemmer,Radikale Venstre,11
+Helsingør,7,Tikøb Skole,"B_Christian_Holm_Donatzky,_Helsingør","Christian Holm Donatzky, Helsingør",Radikale Venstre,9
+Helsingør,7,Tikøb Skole,"B_Knud_Mogensen,_Tikøb","Knud Mogensen, Tikøb",Radikale Venstre,71
+Helsingør,7,Tikøb Skole,"B_Birgit_Mørup,_Helsingør","Birgit Mørup, Helsingør",Radikale Venstre,2
+Helsingør,7,Tikøb Skole,"B_Per_Frank_Povlsen,_Helsingør","Per Frank Povlsen, Helsingør",Radikale Venstre,0
+Helsingør,7,Tikøb Skole,"B_Inge-Lise_Candelaria,_Helsingør","Inge-Lise Candelaria, Helsingør",Radikale Venstre,0
+Helsingør,7,Tikøb Skole,"B_Mogens_Aarsleff_Hansen,_Espergærde","Mogens Aarsleff Hansen, Espergærde",Radikale Venstre,1
+Helsingør,7,Tikøb Skole,"B_Niels_Frederiksen,_Hellebæk","Niels Frederiksen, Hellebæk",Radikale Venstre,0
+Helsingør,7,Tikøb Skole,"B_Annette_Steglich-Petersen,Hornbæk","Annette Steglich-Petersen,Hornbæk",Radikale Venstre,0
+Helsingør,7,Tikøb Skole,"B_Noah_Nevado,_Helsingør","Noah Nevado, Helsingør",Radikale Venstre,0
+Helsingør,7,Tikøb Skole,"B_Hanne_E._Jakobsen,_Snekkersten","Hanne E. Jakobsen, Snekkersten",Radikale Venstre,1
+Helsingør,7,Tikøb Skole,"B_Poul_Bernt_Jensen,_Snekkersten","Poul Bernt Jensen, Snekkersten",Radikale Venstre,0
+Helsingør,7,Tikøb Skole,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,46
+Helsingør,7,Tikøb Skole,C_Benedikte_Kiær,Benedikte Kiær,Det Konservative Folkeparti,161
+Helsingør,7,Tikøb Skole,C_Jens_Bertram,Jens Bertram,Det Konservative Folkeparti,5
+Helsingør,7,Tikøb Skole,C_Michael_Mathiesen,Michael Mathiesen,Det Konservative Folkeparti,13
+Helsingør,7,Tikøb Skole,C_Birgitte_Bergman,Birgitte Bergman,Det Konservative Folkeparti,10
+Helsingør,7,Tikøb Skole,C_Janus_Kyhl,Janus Kyhl,Det Konservative Folkeparti,1
+Helsingør,7,Tikøb Skole,C_Arne_Thorvald_Koktvedgaard,Arne Thorvald Koktvedgaard,Det Konservative Folkeparti,0
+Helsingør,7,Tikøb Skole,C_Michael_Lagoni,Michael Lagoni,Det Konservative Folkeparti,3
+Helsingør,7,Tikøb Skole,C_Kristina_Kongsted,Kristina Kongsted,Det Konservative Folkeparti,9
+Helsingør,7,Tikøb Skole,C_Thomas_Kok,Thomas Kok,Det Konservative Folkeparti,1
+Helsingør,7,Tikøb Skole,C_Gert_Dyekjær,Gert Dyekjær,Det Konservative Folkeparti,0
+Helsingør,7,Tikøb Skole,C_Birgitte_Milling,Birgitte Milling,Det Konservative Folkeparti,3
+Helsingør,7,Tikøb Skole,C_Claus_Birkelyng,Claus Birkelyng,Det Konservative Folkeparti,7
+Helsingør,7,Tikøb Skole,C_Carol_Krogstrup,Carol Krogstrup,Det Konservative Folkeparti,1
+Helsingør,7,Tikøb Skole,C_Tom_Pedersen,Tom Pedersen,Det Konservative Folkeparti,0
+Helsingør,7,Tikøb Skole,C_Olav_Berntsen,Olav Berntsen,Det Konservative Folkeparti,1
+Helsingør,7,Tikøb Skole,C_Henrik_Malmgreen,Henrik Malmgreen,Det Konservative Folkeparti,2
+Helsingør,7,Tikøb Skole,C_Henrik_Carmel,Henrik Carmel,Det Konservative Folkeparti,0
+Helsingør,7,Tikøb Skole,C_Thomas_Grauslund,Thomas Grauslund,Det Konservative Folkeparti,0
+Helsingør,7,Tikøb Skole,C_Sarah_Thorning_Guldborg,Sarah Thorning Guldborg,Det Konservative Folkeparti,2
+Helsingør,7,Tikøb Skole,C_Knud_Vinther_Hansen,Knud Vinther Hansen,Det Konservative Folkeparti,125
+Helsingør,7,Tikøb Skole,C_Hanne_Buur,Hanne Buur,Det Konservative Folkeparti,0
+Helsingør,7,Tikøb Skole,C_Steen_Boldsen,Steen Boldsen,Det Konservative Folkeparti,3
+Helsingør,7,Tikøb Skole,C_Per_E.Thomsen,Per E.Thomsen,Det Konservative Folkeparti,3
+Helsingør,7,Tikøb Skole,D_Listestemmer,Listestemmer,Nye Borgerlige,27
+Helsingør,7,Tikøb Skole,D_Ulla_Kokfelt,Ulla Kokfelt,Nye Borgerlige,24
+Helsingør,7,Tikøb Skole,D_Rene_Schibler,Rene Schibler,Nye Borgerlige,0
+Helsingør,7,Tikøb Skole,D_Denise_Rostgaard,Denise Rostgaard,Nye Borgerlige,13
+Helsingør,7,Tikøb Skole,D_Kenneth_Kure,Kenneth Kure,Nye Borgerlige,1
+Helsingør,7,Tikøb Skole,D_Jeanne_Højstrøm,Jeanne Højstrøm,Nye Borgerlige,1
+Helsingør,7,Tikøb Skole,D_Margith_Marie_Jensen,Margith Marie Jensen,Nye Borgerlige,0
+Helsingør,7,Tikøb Skole,D_Per_Olsen,Per Olsen,Nye Borgerlige,2
+Helsingør,7,Tikøb Skole,D_Peter_la_Cour,Peter la Cour,Nye Borgerlige,3
+Helsingør,7,Tikøb Skole,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,11
+Helsingør,7,Tikøb Skole,F_Bente_Borg_Donkin,Bente Borg Donkin,SF - Socialistisk Folkeparti,7
+Helsingør,7,Tikøb Skole,F_Anders_Wilsbech,Anders Wilsbech,SF - Socialistisk Folkeparti,1
+Helsingør,7,Tikøb Skole,F_Niels_Mørup,Niels Mørup,SF - Socialistisk Folkeparti,2
+Helsingør,7,Tikøb Skole,F_Thorfinn_Johansen,Thorfinn Johansen,SF - Socialistisk Folkeparti,1
+Helsingør,7,Tikøb Skole,F_Dorthe_Bjørn_Andersen,Dorthe Bjørn Andersen,SF - Socialistisk Folkeparti,0
+Helsingør,7,Tikøb Skole,F_Ole_Bergmann,Ole Bergmann,SF - Socialistisk Folkeparti,0
+Helsingør,7,Tikøb Skole,H_Listestemmer,Listestemmer,Projekt Transparens,0
+Helsingør,7,Tikøb Skole,H_Jeppe_Hauptmann,Jeppe Hauptmann,Projekt Transparens,0
+Helsingør,7,Tikøb Skole,I_Listestemmer,Listestemmer,Liberal Alliance,8
+Helsingør,7,Tikøb Skole,"I_Nicholas_Just_Villadsen,Kvistgård","Nicholas Just Villadsen,Kvistgård",Liberal Alliance,0
+Helsingør,7,Tikøb Skole,"I_Kira_Danholm,_Snekkersten","Kira Danholm, Snekkersten",Liberal Alliance,1
+Helsingør,7,Tikøb Skole,"I_Aishah_Yatim,_Helsingør","Aishah Yatim, Helsingør",Liberal Alliance,0
+Helsingør,7,Tikøb Skole,"I_Jan_Ilum,_Helsingør","Jan Ilum, Helsingør",Liberal Alliance,0
+Helsingør,7,Tikøb Skole,"I_Claus_Helge_Nielsen,_Helsingør","Claus Helge Nielsen, Helsingør",Liberal Alliance,0
+Helsingør,7,Tikøb Skole,"I_Nicklas_M._Danholm,_Snekkersten","Nicklas M. Danholm, Snekkersten",Liberal Alliance,0
+Helsingør,7,Tikøb Skole,J_Listestemmer,Listestemmer,Listehansen,0
+Helsingør,7,Tikøb Skole,J_Jimmy_Jørgensen,Jimmy Jørgensen,Listehansen,0
+Helsingør,7,Tikøb Skole,J_Erban_Jakobsen,Erban Jakobsen,Listehansen,0
+Helsingør,7,Tikøb Skole,O_Listestemmer,Listestemmer,Dansk Folkeparti,9
+Helsingør,7,Tikøb Skole,O_Marlene_Harpsøe,Marlene Harpsøe,Dansk Folkeparti,16
+Helsingør,7,Tikøb Skole,O_Freja_Södergran,Freja Södergran,Dansk Folkeparti,3
+Helsingør,7,Tikøb Skole,O_Rune_Oliver_Christensen,Rune Oliver Christensen,Dansk Folkeparti,1
+Helsingør,7,Tikøb Skole,O_Stefan_Warburg,Stefan Warburg,Dansk Folkeparti,2
+Helsingør,7,Tikøb Skole,O_Delvalle_Villarroel,Delvalle Villarroel,Dansk Folkeparti,0
+Helsingør,7,Tikøb Skole,O_Lotte_Lehnerskjold,Lotte Lehnerskjold,Dansk Folkeparti,0
+Helsingør,7,Tikøb Skole,O_Max_Tranebæk,Max Tranebæk,Dansk Folkeparti,1
+Helsingør,7,Tikøb Skole,O_Erik_Warburg,Erik Warburg,Dansk Folkeparti,0
+Helsingør,7,Tikøb Skole,O_Betty_Andersen,Betty Andersen,Dansk Folkeparti,0
+Helsingør,7,Tikøb Skole,O_Niels-Christian_Kjeldsen,Niels-Christian Kjeldsen,Dansk Folkeparti,0
+Helsingør,7,Tikøb Skole,O_Esther_Warburg,Esther Warburg,Dansk Folkeparti,0
+Helsingør,7,Tikøb Skole,O_Torben_Elleboe,Torben Elleboe,Dansk Folkeparti,0
+Helsingør,7,Tikøb Skole,O_Randi_Nielsen,Randi Nielsen,Dansk Folkeparti,0
+Helsingør,7,Tikøb Skole,O_Viggo_Pedersen,Viggo Pedersen,Dansk Folkeparti,0
+Helsingør,7,Tikøb Skole,O_Jens_Kirkegaard,Jens Kirkegaard,Dansk Folkeparti,0
+Helsingør,7,Tikøb Skole,O_Ib_Kirkegaard,Ib Kirkegaard,Dansk Folkeparti,6
+Helsingør,7,Tikøb Skole,P_Listestemmer,Listestemmer,Bella Listen,0
+Helsingør,7,Tikøb Skole,P_Robert_Christiansen,Robert Christiansen,Bella Listen,0
+Helsingør,7,Tikøb Skole,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",26
+Helsingør,7,Tikøb Skole,"V_Mette_Lene_Jensen,_Espergærde","Mette Lene Jensen, Espergærde","Venstre, Danmarks Liberale Parti",31
+Helsingør,7,Tikøb Skole,"V_Kari_Jørgensen,_Snekkersten","Kari Jørgensen, Snekkersten","Venstre, Danmarks Liberale Parti",0
+Helsingør,7,Tikøb Skole,"V_Morten_Westergaard,_Espergærde","Morten Westergaard, Espergærde","Venstre, Danmarks Liberale Parti",58
+Helsingør,7,Tikøb Skole,"V_Bjørn_Cronquist,Helsingør","Bjørn Cronquist,Helsingør","Venstre, Danmarks Liberale Parti",1
+Helsingør,7,Tikøb Skole,"V_Helena_B._Sanders,_Helsingør","Helena B. Sanders, Helsingør","Venstre, Danmarks Liberale Parti",2
+Helsingør,7,Tikøb Skole,"V_Christine_S._Brun,Hornbæk","Christine S. Brun,Hornbæk","Venstre, Danmarks Liberale Parti",1
+Helsingør,7,Tikøb Skole,"V_Mikael_Heibrock_Sørensen,Snekkerst","Mikael Heibrock Sørensen,Snekkerst","Venstre, Danmarks Liberale Parti",0
+Helsingør,7,Tikøb Skole,"V_Freddy_Jensen,_Espergærde","Freddy Jensen, Espergærde","Venstre, Danmarks Liberale Parti",0
+Helsingør,7,Tikøb Skole,"V_Holger_Søndergaard,_Espergærde","Holger Søndergaard, Espergærde","Venstre, Danmarks Liberale Parti",0
+Helsingør,7,Tikøb Skole,"V_Bettina_Cronquist,_Helsingør","Bettina Cronquist, Helsingør","Venstre, Danmarks Liberale Parti",1
+Helsingør,7,Tikøb Skole,"V_Mads_Jessen_Jensen,_Espergærde","Mads Jessen Jensen, Espergærde","Venstre, Danmarks Liberale Parti",1
+Helsingør,7,Tikøb Skole,"V_Karin_Andersen,_Hornbæk","Karin Andersen, Hornbæk","Venstre, Danmarks Liberale Parti",0
+Helsingør,7,Tikøb Skole,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,22
+Helsingør,7,Tikøb Skole,"Ø_Allan_Berg_Mortensen,_Helsingør","Allan Berg Mortensen, Helsingør",Enhedslisten - De Rød-Grønne,4
+Helsingør,7,Tikøb Skole,"Ø_Jørgen_Bodilsen,_Helsingør","Jørgen Bodilsen, Helsingør",Enhedslisten - De Rød-Grønne,1
+Helsingør,7,Tikøb Skole,"Ø_Malthe_Jacobsen,_Helsingør","Malthe Jacobsen, Helsingør",Enhedslisten - De Rød-Grønne,3
+Helsingør,7,Tikøb Skole,"Ø_Annette_Frøhling,_Helsingør","Annette Frøhling, Helsingør",Enhedslisten - De Rød-Grønne,1
+Helsingør,7,Tikøb Skole,"Ø_Karin_Claudia_Steinberg,_Espergærd","Karin Claudia Steinberg, Espergærd",Enhedslisten - De Rød-Grønne,2
+Helsingør,7,Tikøb Skole,"Ø_Suzanne_Schytt,_Helsingør","Suzanne Schytt, Helsingør",Enhedslisten - De Rød-Grønne,0
+Helsingør,7,Tikøb Skole,"Ø_Hans_Kjærgaard,_Nygård","Hans Kjærgaard, Nygård",Enhedslisten - De Rød-Grønne,1
+Helsingør,7,Tikøb Skole,Å_Listestemmer,Listestemmer,Alternativet,3
+Helsingør,7,Tikøb Skole,Å_Mette_Skamris,Mette Skamris,Alternativet,1
+Helsingør,7,Tikøb Skole,Å_Helene_Liliendahl_Brydensholt,Helene Liliendahl Brydensholt,Alternativet,6
+Helsingør,7,Tikøb Skole,Å_Morten_Greve,Morten Greve,Alternativet,5
+Helsingør,8,Kvistgård Idrætsanlæg,A_Listestemmer,Listestemmer,Socialdemokratiet,42
+Helsingør,8,Kvistgård Idrætsanlæg,A_Claus_Christoffersen,Claus Christoffersen,Socialdemokratiet,32
+Helsingør,8,Kvistgård Idrætsanlæg,A_Thomas_Horn,Thomas Horn,Socialdemokratiet,12
+Helsingør,8,Kvistgård Idrætsanlæg,A_Gitte_Kondrup,Gitte Kondrup,Socialdemokratiet,2
+Helsingør,8,Kvistgård Idrætsanlæg,A_Peter_Poulsen,Peter Poulsen,Socialdemokratiet,0
+Helsingør,8,Kvistgård Idrætsanlæg,A_Lone_Grønhøj_Frandsen,Lone Grønhøj Frandsen,Socialdemokratiet,5
+Helsingør,8,Kvistgård Idrætsanlæg,A_Betina_Svinggaard,Betina Svinggaard,Socialdemokratiet,6
+Helsingør,8,Kvistgård Idrætsanlæg,A_Lene_Lindberg,Lene Lindberg,Socialdemokratiet,3
+Helsingør,8,Kvistgård Idrætsanlæg,A_Silas_Drejer,Silas Drejer,Socialdemokratiet,13
+Helsingør,8,Kvistgård Idrætsanlæg,A_Daniel_Boalth_Petersen,Daniel Boalth Petersen,Socialdemokratiet,12
+Helsingør,8,Kvistgård Idrætsanlæg,A_Christian_Thelin,Christian Thelin,Socialdemokratiet,2
+Helsingør,8,Kvistgård Idrætsanlæg,A_Lars_Rosenørn-Dohn,Lars Rosenørn-Dohn,Socialdemokratiet,0
+Helsingør,8,Kvistgård Idrætsanlæg,A_Palle_Wørman,Palle Wørman,Socialdemokratiet,3
+Helsingør,8,Kvistgård Idrætsanlæg,A_Harun_Avdal,Harun Avdal,Socialdemokratiet,5
+Helsingør,8,Kvistgård Idrætsanlæg,A_Thomas_Hjalmar_Mikkelsen,Thomas Hjalmar Mikkelsen,Socialdemokratiet,2
+Helsingør,8,Kvistgård Idrætsanlæg,A_Jørgen_Persson,Jørgen Persson,Socialdemokratiet,2
+Helsingør,8,Kvistgård Idrætsanlæg,A_Mads_Sandholdt,Mads Sandholdt,Socialdemokratiet,0
+Helsingør,8,Kvistgård Idrætsanlæg,B_Listestemmer,Listestemmer,Radikale Venstre,15
+Helsingør,8,Kvistgård Idrætsanlæg,"B_Christian_Holm_Donatzky,_Helsingør","Christian Holm Donatzky, Helsingør",Radikale Venstre,14
+Helsingør,8,Kvistgård Idrætsanlæg,"B_Knud_Mogensen,_Tikøb","Knud Mogensen, Tikøb",Radikale Venstre,3
+Helsingør,8,Kvistgård Idrætsanlæg,"B_Birgit_Mørup,_Helsingør","Birgit Mørup, Helsingør",Radikale Venstre,6
+Helsingør,8,Kvistgård Idrætsanlæg,"B_Per_Frank_Povlsen,_Helsingør","Per Frank Povlsen, Helsingør",Radikale Venstre,1
+Helsingør,8,Kvistgård Idrætsanlæg,"B_Inge-Lise_Candelaria,_Helsingør","Inge-Lise Candelaria, Helsingør",Radikale Venstre,0
+Helsingør,8,Kvistgård Idrætsanlæg,"B_Mogens_Aarsleff_Hansen,_Espergærde","Mogens Aarsleff Hansen, Espergærde",Radikale Venstre,1
+Helsingør,8,Kvistgård Idrætsanlæg,"B_Niels_Frederiksen,_Hellebæk","Niels Frederiksen, Hellebæk",Radikale Venstre,1
+Helsingør,8,Kvistgård Idrætsanlæg,"B_Annette_Steglich-Petersen,Hornbæk","Annette Steglich-Petersen,Hornbæk",Radikale Venstre,1
+Helsingør,8,Kvistgård Idrætsanlæg,"B_Noah_Nevado,_Helsingør","Noah Nevado, Helsingør",Radikale Venstre,0
+Helsingør,8,Kvistgård Idrætsanlæg,"B_Hanne_E._Jakobsen,_Snekkersten","Hanne E. Jakobsen, Snekkersten",Radikale Venstre,1
+Helsingør,8,Kvistgård Idrætsanlæg,"B_Poul_Bernt_Jensen,_Snekkersten","Poul Bernt Jensen, Snekkersten",Radikale Venstre,0
+Helsingør,8,Kvistgård Idrætsanlæg,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,27
+Helsingør,8,Kvistgård Idrætsanlæg,C_Benedikte_Kiær,Benedikte Kiær,Det Konservative Folkeparti,107
+Helsingør,8,Kvistgård Idrætsanlæg,C_Jens_Bertram,Jens Bertram,Det Konservative Folkeparti,2
+Helsingør,8,Kvistgård Idrætsanlæg,C_Michael_Mathiesen,Michael Mathiesen,Det Konservative Folkeparti,6
+Helsingør,8,Kvistgård Idrætsanlæg,C_Birgitte_Bergman,Birgitte Bergman,Det Konservative Folkeparti,9
+Helsingør,8,Kvistgård Idrætsanlæg,C_Janus_Kyhl,Janus Kyhl,Det Konservative Folkeparti,0
+Helsingør,8,Kvistgård Idrætsanlæg,C_Arne_Thorvald_Koktvedgaard,Arne Thorvald Koktvedgaard,Det Konservative Folkeparti,0
+Helsingør,8,Kvistgård Idrætsanlæg,C_Michael_Lagoni,Michael Lagoni,Det Konservative Folkeparti,4
+Helsingør,8,Kvistgård Idrætsanlæg,C_Kristina_Kongsted,Kristina Kongsted,Det Konservative Folkeparti,4
+Helsingør,8,Kvistgård Idrætsanlæg,C_Thomas_Kok,Thomas Kok,Det Konservative Folkeparti,2
+Helsingør,8,Kvistgård Idrætsanlæg,C_Gert_Dyekjær,Gert Dyekjær,Det Konservative Folkeparti,0
+Helsingør,8,Kvistgård Idrætsanlæg,C_Birgitte_Milling,Birgitte Milling,Det Konservative Folkeparti,4
+Helsingør,8,Kvistgård Idrætsanlæg,C_Claus_Birkelyng,Claus Birkelyng,Det Konservative Folkeparti,3
+Helsingør,8,Kvistgård Idrætsanlæg,C_Carol_Krogstrup,Carol Krogstrup,Det Konservative Folkeparti,2
+Helsingør,8,Kvistgård Idrætsanlæg,C_Tom_Pedersen,Tom Pedersen,Det Konservative Folkeparti,0
+Helsingør,8,Kvistgård Idrætsanlæg,C_Olav_Berntsen,Olav Berntsen,Det Konservative Folkeparti,1
+Helsingør,8,Kvistgård Idrætsanlæg,C_Henrik_Malmgreen,Henrik Malmgreen,Det Konservative Folkeparti,0
+Helsingør,8,Kvistgård Idrætsanlæg,C_Henrik_Carmel,Henrik Carmel,Det Konservative Folkeparti,0
+Helsingør,8,Kvistgård Idrætsanlæg,C_Thomas_Grauslund,Thomas Grauslund,Det Konservative Folkeparti,1
+Helsingør,8,Kvistgård Idrætsanlæg,C_Sarah_Thorning_Guldborg,Sarah Thorning Guldborg,Det Konservative Folkeparti,2
+Helsingør,8,Kvistgård Idrætsanlæg,C_Knud_Vinther_Hansen,Knud Vinther Hansen,Det Konservative Folkeparti,6
+Helsingør,8,Kvistgård Idrætsanlæg,C_Hanne_Buur,Hanne Buur,Det Konservative Folkeparti,0
+Helsingør,8,Kvistgård Idrætsanlæg,C_Steen_Boldsen,Steen Boldsen,Det Konservative Folkeparti,1
+Helsingør,8,Kvistgård Idrætsanlæg,C_Per_E.Thomsen,Per E.Thomsen,Det Konservative Folkeparti,2
+Helsingør,8,Kvistgård Idrætsanlæg,D_Listestemmer,Listestemmer,Nye Borgerlige,19
+Helsingør,8,Kvistgård Idrætsanlæg,D_Ulla_Kokfelt,Ulla Kokfelt,Nye Borgerlige,15
+Helsingør,8,Kvistgård Idrætsanlæg,D_Rene_Schibler,Rene Schibler,Nye Borgerlige,2
+Helsingør,8,Kvistgård Idrætsanlæg,D_Denise_Rostgaard,Denise Rostgaard,Nye Borgerlige,9
+Helsingør,8,Kvistgård Idrætsanlæg,D_Kenneth_Kure,Kenneth Kure,Nye Borgerlige,0
+Helsingør,8,Kvistgård Idrætsanlæg,D_Jeanne_Højstrøm,Jeanne Højstrøm,Nye Borgerlige,0
+Helsingør,8,Kvistgård Idrætsanlæg,D_Margith_Marie_Jensen,Margith Marie Jensen,Nye Borgerlige,1
+Helsingør,8,Kvistgård Idrætsanlæg,D_Per_Olsen,Per Olsen,Nye Borgerlige,3
+Helsingør,8,Kvistgård Idrætsanlæg,D_Peter_la_Cour,Peter la Cour,Nye Borgerlige,1
+Helsingør,8,Kvistgård Idrætsanlæg,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,18
+Helsingør,8,Kvistgård Idrætsanlæg,F_Bente_Borg_Donkin,Bente Borg Donkin,SF - Socialistisk Folkeparti,11
+Helsingør,8,Kvistgård Idrætsanlæg,F_Anders_Wilsbech,Anders Wilsbech,SF - Socialistisk Folkeparti,1
+Helsingør,8,Kvistgård Idrætsanlæg,F_Niels_Mørup,Niels Mørup,SF - Socialistisk Folkeparti,0
+Helsingør,8,Kvistgård Idrætsanlæg,F_Thorfinn_Johansen,Thorfinn Johansen,SF - Socialistisk Folkeparti,0
+Helsingør,8,Kvistgård Idrætsanlæg,F_Dorthe_Bjørn_Andersen,Dorthe Bjørn Andersen,SF - Socialistisk Folkeparti,1
+Helsingør,8,Kvistgård Idrætsanlæg,F_Ole_Bergmann,Ole Bergmann,SF - Socialistisk Folkeparti,2
+Helsingør,8,Kvistgård Idrætsanlæg,H_Listestemmer,Listestemmer,Projekt Transparens,0
+Helsingør,8,Kvistgård Idrætsanlæg,H_Jeppe_Hauptmann,Jeppe Hauptmann,Projekt Transparens,0
+Helsingør,8,Kvistgård Idrætsanlæg,I_Listestemmer,Listestemmer,Liberal Alliance,4
+Helsingør,8,Kvistgård Idrætsanlæg,"I_Nicholas_Just_Villadsen,Kvistgård","Nicholas Just Villadsen,Kvistgård",Liberal Alliance,11
+Helsingør,8,Kvistgård Idrætsanlæg,"I_Kira_Danholm,_Snekkersten","Kira Danholm, Snekkersten",Liberal Alliance,1
+Helsingør,8,Kvistgård Idrætsanlæg,"I_Aishah_Yatim,_Helsingør","Aishah Yatim, Helsingør",Liberal Alliance,1
+Helsingør,8,Kvistgård Idrætsanlæg,"I_Jan_Ilum,_Helsingør","Jan Ilum, Helsingør",Liberal Alliance,0
+Helsingør,8,Kvistgård Idrætsanlæg,"I_Claus_Helge_Nielsen,_Helsingør","Claus Helge Nielsen, Helsingør",Liberal Alliance,0
+Helsingør,8,Kvistgård Idrætsanlæg,"I_Nicklas_M._Danholm,_Snekkersten","Nicklas M. Danholm, Snekkersten",Liberal Alliance,0
+Helsingør,8,Kvistgård Idrætsanlæg,J_Listestemmer,Listestemmer,Listehansen,0
+Helsingør,8,Kvistgård Idrætsanlæg,J_Jimmy_Jørgensen,Jimmy Jørgensen,Listehansen,0
+Helsingør,8,Kvistgård Idrætsanlæg,J_Erban_Jakobsen,Erban Jakobsen,Listehansen,0
+Helsingør,8,Kvistgård Idrætsanlæg,O_Listestemmer,Listestemmer,Dansk Folkeparti,19
+Helsingør,8,Kvistgård Idrætsanlæg,O_Marlene_Harpsøe,Marlene Harpsøe,Dansk Folkeparti,14
+Helsingør,8,Kvistgård Idrætsanlæg,O_Freja_Södergran,Freja Södergran,Dansk Folkeparti,3
+Helsingør,8,Kvistgård Idrætsanlæg,O_Rune_Oliver_Christensen,Rune Oliver Christensen,Dansk Folkeparti,2
+Helsingør,8,Kvistgård Idrætsanlæg,O_Stefan_Warburg,Stefan Warburg,Dansk Folkeparti,0
+Helsingør,8,Kvistgård Idrætsanlæg,O_Delvalle_Villarroel,Delvalle Villarroel,Dansk Folkeparti,1
+Helsingør,8,Kvistgård Idrætsanlæg,O_Lotte_Lehnerskjold,Lotte Lehnerskjold,Dansk Folkeparti,0
+Helsingør,8,Kvistgård Idrætsanlæg,O_Max_Tranebæk,Max Tranebæk,Dansk Folkeparti,0
+Helsingør,8,Kvistgård Idrætsanlæg,O_Erik_Warburg,Erik Warburg,Dansk Folkeparti,0
+Helsingør,8,Kvistgård Idrætsanlæg,O_Betty_Andersen,Betty Andersen,Dansk Folkeparti,1
+Helsingør,8,Kvistgård Idrætsanlæg,O_Niels-Christian_Kjeldsen,Niels-Christian Kjeldsen,Dansk Folkeparti,0
+Helsingør,8,Kvistgård Idrætsanlæg,O_Esther_Warburg,Esther Warburg,Dansk Folkeparti,0
+Helsingør,8,Kvistgård Idrætsanlæg,O_Torben_Elleboe,Torben Elleboe,Dansk Folkeparti,0
+Helsingør,8,Kvistgård Idrætsanlæg,O_Randi_Nielsen,Randi Nielsen,Dansk Folkeparti,0
+Helsingør,8,Kvistgård Idrætsanlæg,O_Viggo_Pedersen,Viggo Pedersen,Dansk Folkeparti,0
+Helsingør,8,Kvistgård Idrætsanlæg,O_Jens_Kirkegaard,Jens Kirkegaard,Dansk Folkeparti,1
+Helsingør,8,Kvistgård Idrætsanlæg,O_Ib_Kirkegaard,Ib Kirkegaard,Dansk Folkeparti,2
+Helsingør,8,Kvistgård Idrætsanlæg,P_Listestemmer,Listestemmer,Bella Listen,0
+Helsingør,8,Kvistgård Idrætsanlæg,P_Robert_Christiansen,Robert Christiansen,Bella Listen,1
+Helsingør,8,Kvistgård Idrætsanlæg,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",12
+Helsingør,8,Kvistgård Idrætsanlæg,"V_Mette_Lene_Jensen,_Espergærde","Mette Lene Jensen, Espergærde","Venstre, Danmarks Liberale Parti",15
+Helsingør,8,Kvistgård Idrætsanlæg,"V_Kari_Jørgensen,_Snekkersten","Kari Jørgensen, Snekkersten","Venstre, Danmarks Liberale Parti",2
+Helsingør,8,Kvistgård Idrætsanlæg,"V_Morten_Westergaard,_Espergærde","Morten Westergaard, Espergærde","Venstre, Danmarks Liberale Parti",5
+Helsingør,8,Kvistgård Idrætsanlæg,"V_Bjørn_Cronquist,Helsingør","Bjørn Cronquist,Helsingør","Venstre, Danmarks Liberale Parti",2
+Helsingør,8,Kvistgård Idrætsanlæg,"V_Helena_B._Sanders,_Helsingør","Helena B. Sanders, Helsingør","Venstre, Danmarks Liberale Parti",2
+Helsingør,8,Kvistgård Idrætsanlæg,"V_Christine_S._Brun,Hornbæk","Christine S. Brun,Hornbæk","Venstre, Danmarks Liberale Parti",1
+Helsingør,8,Kvistgård Idrætsanlæg,"V_Mikael_Heibrock_Sørensen,Snekkerst","Mikael Heibrock Sørensen,Snekkerst","Venstre, Danmarks Liberale Parti",0
+Helsingør,8,Kvistgård Idrætsanlæg,"V_Freddy_Jensen,_Espergærde","Freddy Jensen, Espergærde","Venstre, Danmarks Liberale Parti",0
+Helsingør,8,Kvistgård Idrætsanlæg,"V_Holger_Søndergaard,_Espergærde","Holger Søndergaard, Espergærde","Venstre, Danmarks Liberale Parti",0
+Helsingør,8,Kvistgård Idrætsanlæg,"V_Bettina_Cronquist,_Helsingør","Bettina Cronquist, Helsingør","Venstre, Danmarks Liberale Parti",0
+Helsingør,8,Kvistgård Idrætsanlæg,"V_Mads_Jessen_Jensen,_Espergærde","Mads Jessen Jensen, Espergærde","Venstre, Danmarks Liberale Parti",2
+Helsingør,8,Kvistgård Idrætsanlæg,"V_Karin_Andersen,_Hornbæk","Karin Andersen, Hornbæk","Venstre, Danmarks Liberale Parti",0
+Helsingør,8,Kvistgård Idrætsanlæg,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,13
+Helsingør,8,Kvistgård Idrætsanlæg,"Ø_Allan_Berg_Mortensen,_Helsingør","Allan Berg Mortensen, Helsingør",Enhedslisten - De Rød-Grønne,4
+Helsingør,8,Kvistgård Idrætsanlæg,"Ø_Jørgen_Bodilsen,_Helsingør","Jørgen Bodilsen, Helsingør",Enhedslisten - De Rød-Grønne,0
+Helsingør,8,Kvistgård Idrætsanlæg,"Ø_Malthe_Jacobsen,_Helsingør","Malthe Jacobsen, Helsingør",Enhedslisten - De Rød-Grønne,7
+Helsingør,8,Kvistgård Idrætsanlæg,"Ø_Annette_Frøhling,_Helsingør","Annette Frøhling, Helsingør",Enhedslisten - De Rød-Grønne,3
+Helsingør,8,Kvistgård Idrætsanlæg,"Ø_Karin_Claudia_Steinberg,_Espergærd","Karin Claudia Steinberg, Espergærd",Enhedslisten - De Rød-Grønne,2
+Helsingør,8,Kvistgård Idrætsanlæg,"Ø_Suzanne_Schytt,_Helsingør","Suzanne Schytt, Helsingør",Enhedslisten - De Rød-Grønne,3
+Helsingør,8,Kvistgård Idrætsanlæg,"Ø_Hans_Kjærgaard,_Nygård","Hans Kjærgaard, Nygård",Enhedslisten - De Rød-Grønne,1
+Helsingør,8,Kvistgård Idrætsanlæg,Å_Listestemmer,Listestemmer,Alternativet,6
+Helsingør,8,Kvistgård Idrætsanlæg,Å_Mette_Skamris,Mette Skamris,Alternativet,2
+Helsingør,8,Kvistgård Idrætsanlæg,Å_Helene_Liliendahl_Brydensholt,Helene Liliendahl Brydensholt,Alternativet,6
+Helsingør,8,Kvistgård Idrætsanlæg,Å_Morten_Greve,Morten Greve,Alternativet,5
+Helsingør,9,Snekkersten Hallen,A_Listestemmer,Listestemmer,Socialdemokratiet,169
+Helsingør,9,Snekkersten Hallen,A_Claus_Christoffersen,Claus Christoffersen,Socialdemokratiet,162
+Helsingør,9,Snekkersten Hallen,A_Thomas_Horn,Thomas Horn,Socialdemokratiet,65
+Helsingør,9,Snekkersten Hallen,A_Gitte_Kondrup,Gitte Kondrup,Socialdemokratiet,63
+Helsingør,9,Snekkersten Hallen,A_Peter_Poulsen,Peter Poulsen,Socialdemokratiet,14
+Helsingør,9,Snekkersten Hallen,A_Lone_Grønhøj_Frandsen,Lone Grønhøj Frandsen,Socialdemokratiet,29
+Helsingør,9,Snekkersten Hallen,A_Betina_Svinggaard,Betina Svinggaard,Socialdemokratiet,60
+Helsingør,9,Snekkersten Hallen,A_Lene_Lindberg,Lene Lindberg,Socialdemokratiet,32
+Helsingør,9,Snekkersten Hallen,A_Silas_Drejer,Silas Drejer,Socialdemokratiet,23
+Helsingør,9,Snekkersten Hallen,A_Daniel_Boalth_Petersen,Daniel Boalth Petersen,Socialdemokratiet,15
+Helsingør,9,Snekkersten Hallen,A_Christian_Thelin,Christian Thelin,Socialdemokratiet,7
+Helsingør,9,Snekkersten Hallen,A_Lars_Rosenørn-Dohn,Lars Rosenørn-Dohn,Socialdemokratiet,0
+Helsingør,9,Snekkersten Hallen,A_Palle_Wørman,Palle Wørman,Socialdemokratiet,48
+Helsingør,9,Snekkersten Hallen,A_Harun_Avdal,Harun Avdal,Socialdemokratiet,17
+Helsingør,9,Snekkersten Hallen,A_Thomas_Hjalmar_Mikkelsen,Thomas Hjalmar Mikkelsen,Socialdemokratiet,2
+Helsingør,9,Snekkersten Hallen,A_Jørgen_Persson,Jørgen Persson,Socialdemokratiet,0
+Helsingør,9,Snekkersten Hallen,A_Mads_Sandholdt,Mads Sandholdt,Socialdemokratiet,0
+Helsingør,9,Snekkersten Hallen,B_Listestemmer,Listestemmer,Radikale Venstre,67
+Helsingør,9,Snekkersten Hallen,"B_Christian_Holm_Donatzky,_Helsingør","Christian Holm Donatzky, Helsingør",Radikale Venstre,88
+Helsingør,9,Snekkersten Hallen,"B_Knud_Mogensen,_Tikøb","Knud Mogensen, Tikøb",Radikale Venstre,2
+Helsingør,9,Snekkersten Hallen,"B_Birgit_Mørup,_Helsingør","Birgit Mørup, Helsingør",Radikale Venstre,28
+Helsingør,9,Snekkersten Hallen,"B_Per_Frank_Povlsen,_Helsingør","Per Frank Povlsen, Helsingør",Radikale Venstre,1
+Helsingør,9,Snekkersten Hallen,"B_Inge-Lise_Candelaria,_Helsingør","Inge-Lise Candelaria, Helsingør",Radikale Venstre,2
+Helsingør,9,Snekkersten Hallen,"B_Mogens_Aarsleff_Hansen,_Espergærde","Mogens Aarsleff Hansen, Espergærde",Radikale Venstre,3
+Helsingør,9,Snekkersten Hallen,"B_Niels_Frederiksen,_Hellebæk","Niels Frederiksen, Hellebæk",Radikale Venstre,1
+Helsingør,9,Snekkersten Hallen,"B_Annette_Steglich-Petersen,Hornbæk","Annette Steglich-Petersen,Hornbæk",Radikale Venstre,6
+Helsingør,9,Snekkersten Hallen,"B_Noah_Nevado,_Helsingør","Noah Nevado, Helsingør",Radikale Venstre,1
+Helsingør,9,Snekkersten Hallen,"B_Hanne_E._Jakobsen,_Snekkersten","Hanne E. Jakobsen, Snekkersten",Radikale Venstre,18
+Helsingør,9,Snekkersten Hallen,"B_Poul_Bernt_Jensen,_Snekkersten","Poul Bernt Jensen, Snekkersten",Radikale Venstre,4
+Helsingør,9,Snekkersten Hallen,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,178
+Helsingør,9,Snekkersten Hallen,C_Benedikte_Kiær,Benedikte Kiær,Det Konservative Folkeparti,623
+Helsingør,9,Snekkersten Hallen,C_Jens_Bertram,Jens Bertram,Det Konservative Folkeparti,16
+Helsingør,9,Snekkersten Hallen,C_Michael_Mathiesen,Michael Mathiesen,Det Konservative Folkeparti,32
+Helsingør,9,Snekkersten Hallen,C_Birgitte_Bergman,Birgitte Bergman,Det Konservative Folkeparti,120
+Helsingør,9,Snekkersten Hallen,C_Janus_Kyhl,Janus Kyhl,Det Konservative Folkeparti,14
+Helsingør,9,Snekkersten Hallen,C_Arne_Thorvald_Koktvedgaard,Arne Thorvald Koktvedgaard,Det Konservative Folkeparti,1
+Helsingør,9,Snekkersten Hallen,C_Michael_Lagoni,Michael Lagoni,Det Konservative Folkeparti,28
+Helsingør,9,Snekkersten Hallen,C_Kristina_Kongsted,Kristina Kongsted,Det Konservative Folkeparti,2
+Helsingør,9,Snekkersten Hallen,C_Thomas_Kok,Thomas Kok,Det Konservative Folkeparti,37
+Helsingør,9,Snekkersten Hallen,C_Gert_Dyekjær,Gert Dyekjær,Det Konservative Folkeparti,3
+Helsingør,9,Snekkersten Hallen,C_Birgitte_Milling,Birgitte Milling,Det Konservative Folkeparti,5
+Helsingør,9,Snekkersten Hallen,C_Claus_Birkelyng,Claus Birkelyng,Det Konservative Folkeparti,17
+Helsingør,9,Snekkersten Hallen,C_Carol_Krogstrup,Carol Krogstrup,Det Konservative Folkeparti,13
+Helsingør,9,Snekkersten Hallen,C_Tom_Pedersen,Tom Pedersen,Det Konservative Folkeparti,11
+Helsingør,9,Snekkersten Hallen,C_Olav_Berntsen,Olav Berntsen,Det Konservative Folkeparti,0
+Helsingør,9,Snekkersten Hallen,C_Henrik_Malmgreen,Henrik Malmgreen,Det Konservative Folkeparti,10
+Helsingør,9,Snekkersten Hallen,C_Henrik_Carmel,Henrik Carmel,Det Konservative Folkeparti,14
+Helsingør,9,Snekkersten Hallen,C_Thomas_Grauslund,Thomas Grauslund,Det Konservative Folkeparti,6
+Helsingør,9,Snekkersten Hallen,C_Sarah_Thorning_Guldborg,Sarah Thorning Guldborg,Det Konservative Folkeparti,11
+Helsingør,9,Snekkersten Hallen,C_Knud_Vinther_Hansen,Knud Vinther Hansen,Det Konservative Folkeparti,9
+Helsingør,9,Snekkersten Hallen,C_Hanne_Buur,Hanne Buur,Det Konservative Folkeparti,0
+Helsingør,9,Snekkersten Hallen,C_Steen_Boldsen,Steen Boldsen,Det Konservative Folkeparti,18
+Helsingør,9,Snekkersten Hallen,C_Per_E.Thomsen,Per E.Thomsen,Det Konservative Folkeparti,2
+Helsingør,9,Snekkersten Hallen,D_Listestemmer,Listestemmer,Nye Borgerlige,60
+Helsingør,9,Snekkersten Hallen,D_Ulla_Kokfelt,Ulla Kokfelt,Nye Borgerlige,65
+Helsingør,9,Snekkersten Hallen,D_Rene_Schibler,Rene Schibler,Nye Borgerlige,5
+Helsingør,9,Snekkersten Hallen,D_Denise_Rostgaard,Denise Rostgaard,Nye Borgerlige,28
+Helsingør,9,Snekkersten Hallen,D_Kenneth_Kure,Kenneth Kure,Nye Borgerlige,2
+Helsingør,9,Snekkersten Hallen,D_Jeanne_Højstrøm,Jeanne Højstrøm,Nye Borgerlige,3
+Helsingør,9,Snekkersten Hallen,D_Margith_Marie_Jensen,Margith Marie Jensen,Nye Borgerlige,3
+Helsingør,9,Snekkersten Hallen,D_Per_Olsen,Per Olsen,Nye Borgerlige,4
+Helsingør,9,Snekkersten Hallen,D_Peter_la_Cour,Peter la Cour,Nye Borgerlige,0
+Helsingør,9,Snekkersten Hallen,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,47
+Helsingør,9,Snekkersten Hallen,F_Bente_Borg_Donkin,Bente Borg Donkin,SF - Socialistisk Folkeparti,63
+Helsingør,9,Snekkersten Hallen,F_Anders_Wilsbech,Anders Wilsbech,SF - Socialistisk Folkeparti,17
+Helsingør,9,Snekkersten Hallen,F_Niels_Mørup,Niels Mørup,SF - Socialistisk Folkeparti,9
+Helsingør,9,Snekkersten Hallen,F_Thorfinn_Johansen,Thorfinn Johansen,SF - Socialistisk Folkeparti,3
+Helsingør,9,Snekkersten Hallen,F_Dorthe_Bjørn_Andersen,Dorthe Bjørn Andersen,SF - Socialistisk Folkeparti,11
+Helsingør,9,Snekkersten Hallen,F_Ole_Bergmann,Ole Bergmann,SF - Socialistisk Folkeparti,2
+Helsingør,9,Snekkersten Hallen,H_Listestemmer,Listestemmer,Projekt Transparens,0
+Helsingør,9,Snekkersten Hallen,H_Jeppe_Hauptmann,Jeppe Hauptmann,Projekt Transparens,0
+Helsingør,9,Snekkersten Hallen,I_Listestemmer,Listestemmer,Liberal Alliance,15
+Helsingør,9,Snekkersten Hallen,"I_Nicholas_Just_Villadsen,Kvistgård","Nicholas Just Villadsen,Kvistgård",Liberal Alliance,8
+Helsingør,9,Snekkersten Hallen,"I_Kira_Danholm,_Snekkersten","Kira Danholm, Snekkersten",Liberal Alliance,10
+Helsingør,9,Snekkersten Hallen,"I_Aishah_Yatim,_Helsingør","Aishah Yatim, Helsingør",Liberal Alliance,2
+Helsingør,9,Snekkersten Hallen,"I_Jan_Ilum,_Helsingør","Jan Ilum, Helsingør",Liberal Alliance,0
+Helsingør,9,Snekkersten Hallen,"I_Claus_Helge_Nielsen,_Helsingør","Claus Helge Nielsen, Helsingør",Liberal Alliance,3
+Helsingør,9,Snekkersten Hallen,"I_Nicklas_M._Danholm,_Snekkersten","Nicklas M. Danholm, Snekkersten",Liberal Alliance,2
+Helsingør,9,Snekkersten Hallen,J_Listestemmer,Listestemmer,Listehansen,0
+Helsingør,9,Snekkersten Hallen,J_Jimmy_Jørgensen,Jimmy Jørgensen,Listehansen,3
+Helsingør,9,Snekkersten Hallen,J_Erban_Jakobsen,Erban Jakobsen,Listehansen,1
+Helsingør,9,Snekkersten Hallen,O_Listestemmer,Listestemmer,Dansk Folkeparti,32
+Helsingør,9,Snekkersten Hallen,O_Marlene_Harpsøe,Marlene Harpsøe,Dansk Folkeparti,35
+Helsingør,9,Snekkersten Hallen,O_Freja_Södergran,Freja Södergran,Dansk Folkeparti,30
+Helsingør,9,Snekkersten Hallen,O_Rune_Oliver_Christensen,Rune Oliver Christensen,Dansk Folkeparti,9
+Helsingør,9,Snekkersten Hallen,O_Stefan_Warburg,Stefan Warburg,Dansk Folkeparti,1
+Helsingør,9,Snekkersten Hallen,O_Delvalle_Villarroel,Delvalle Villarroel,Dansk Folkeparti,0
+Helsingør,9,Snekkersten Hallen,O_Lotte_Lehnerskjold,Lotte Lehnerskjold,Dansk Folkeparti,1
+Helsingør,9,Snekkersten Hallen,O_Max_Tranebæk,Max Tranebæk,Dansk Folkeparti,0
+Helsingør,9,Snekkersten Hallen,O_Erik_Warburg,Erik Warburg,Dansk Folkeparti,1
+Helsingør,9,Snekkersten Hallen,O_Betty_Andersen,Betty Andersen,Dansk Folkeparti,0
+Helsingør,9,Snekkersten Hallen,O_Niels-Christian_Kjeldsen,Niels-Christian Kjeldsen,Dansk Folkeparti,1
+Helsingør,9,Snekkersten Hallen,O_Esther_Warburg,Esther Warburg,Dansk Folkeparti,0
+Helsingør,9,Snekkersten Hallen,O_Torben_Elleboe,Torben Elleboe,Dansk Folkeparti,0
+Helsingør,9,Snekkersten Hallen,O_Randi_Nielsen,Randi Nielsen,Dansk Folkeparti,0
+Helsingør,9,Snekkersten Hallen,O_Viggo_Pedersen,Viggo Pedersen,Dansk Folkeparti,0
+Helsingør,9,Snekkersten Hallen,O_Jens_Kirkegaard,Jens Kirkegaard,Dansk Folkeparti,1
+Helsingør,9,Snekkersten Hallen,O_Ib_Kirkegaard,Ib Kirkegaard,Dansk Folkeparti,2
+Helsingør,9,Snekkersten Hallen,P_Listestemmer,Listestemmer,Bella Listen,0
+Helsingør,9,Snekkersten Hallen,P_Robert_Christiansen,Robert Christiansen,Bella Listen,1
+Helsingør,9,Snekkersten Hallen,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",30
+Helsingør,9,Snekkersten Hallen,"V_Mette_Lene_Jensen,_Espergærde","Mette Lene Jensen, Espergærde","Venstre, Danmarks Liberale Parti",71
+Helsingør,9,Snekkersten Hallen,"V_Kari_Jørgensen,_Snekkersten","Kari Jørgensen, Snekkersten","Venstre, Danmarks Liberale Parti",7
+Helsingør,9,Snekkersten Hallen,"V_Morten_Westergaard,_Espergærde","Morten Westergaard, Espergærde","Venstre, Danmarks Liberale Parti",16
+Helsingør,9,Snekkersten Hallen,"V_Bjørn_Cronquist,Helsingør","Bjørn Cronquist,Helsingør","Venstre, Danmarks Liberale Parti",2
+Helsingør,9,Snekkersten Hallen,"V_Helena_B._Sanders,_Helsingør","Helena B. Sanders, Helsingør","Venstre, Danmarks Liberale Parti",8
+Helsingør,9,Snekkersten Hallen,"V_Christine_S._Brun,Hornbæk","Christine S. Brun,Hornbæk","Venstre, Danmarks Liberale Parti",5
+Helsingør,9,Snekkersten Hallen,"V_Mikael_Heibrock_Sørensen,Snekkerst","Mikael Heibrock Sørensen,Snekkerst","Venstre, Danmarks Liberale Parti",6
+Helsingør,9,Snekkersten Hallen,"V_Freddy_Jensen,_Espergærde","Freddy Jensen, Espergærde","Venstre, Danmarks Liberale Parti",0
+Helsingør,9,Snekkersten Hallen,"V_Holger_Søndergaard,_Espergærde","Holger Søndergaard, Espergærde","Venstre, Danmarks Liberale Parti",0
+Helsingør,9,Snekkersten Hallen,"V_Bettina_Cronquist,_Helsingør","Bettina Cronquist, Helsingør","Venstre, Danmarks Liberale Parti",0
+Helsingør,9,Snekkersten Hallen,"V_Mads_Jessen_Jensen,_Espergærde","Mads Jessen Jensen, Espergærde","Venstre, Danmarks Liberale Parti",4
+Helsingør,9,Snekkersten Hallen,"V_Karin_Andersen,_Hornbæk","Karin Andersen, Hornbæk","Venstre, Danmarks Liberale Parti",0
+Helsingør,9,Snekkersten Hallen,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,64
+Helsingør,9,Snekkersten Hallen,"Ø_Allan_Berg_Mortensen,_Helsingør","Allan Berg Mortensen, Helsingør",Enhedslisten - De Rød-Grønne,41
+Helsingør,9,Snekkersten Hallen,"Ø_Jørgen_Bodilsen,_Helsingør","Jørgen Bodilsen, Helsingør",Enhedslisten - De Rød-Grønne,5
+Helsingør,9,Snekkersten Hallen,"Ø_Malthe_Jacobsen,_Helsingør","Malthe Jacobsen, Helsingør",Enhedslisten - De Rød-Grønne,30
+Helsingør,9,Snekkersten Hallen,"Ø_Annette_Frøhling,_Helsingør","Annette Frøhling, Helsingør",Enhedslisten - De Rød-Grønne,15
+Helsingør,9,Snekkersten Hallen,"Ø_Karin_Claudia_Steinberg,_Espergærd","Karin Claudia Steinberg, Espergærd",Enhedslisten - De Rød-Grønne,2
+Helsingør,9,Snekkersten Hallen,"Ø_Suzanne_Schytt,_Helsingør","Suzanne Schytt, Helsingør",Enhedslisten - De Rød-Grønne,15
+Helsingør,9,Snekkersten Hallen,"Ø_Hans_Kjærgaard,_Nygård","Hans Kjærgaard, Nygård",Enhedslisten - De Rød-Grønne,1
+Helsingør,9,Snekkersten Hallen,Å_Listestemmer,Listestemmer,Alternativet,18
+Helsingør,9,Snekkersten Hallen,Å_Mette_Skamris,Mette Skamris,Alternativet,17
+Helsingør,9,Snekkersten Hallen,Å_Helene_Liliendahl_Brydensholt,Helene Liliendahl Brydensholt,Alternativet,13
+Helsingør,9,Snekkersten Hallen,Å_Morten_Greve,Morten Greve,Alternativet,5
+Helsingør,10,Espergærde Bibliotek,A_Listestemmer,Listestemmer,Socialdemokratiet,160
+Helsingør,10,Espergærde Bibliotek,A_Claus_Christoffersen,Claus Christoffersen,Socialdemokratiet,145
+Helsingør,10,Espergærde Bibliotek,A_Thomas_Horn,Thomas Horn,Socialdemokratiet,41
+Helsingør,10,Espergærde Bibliotek,A_Gitte_Kondrup,Gitte Kondrup,Socialdemokratiet,25
+Helsingør,10,Espergærde Bibliotek,A_Peter_Poulsen,Peter Poulsen,Socialdemokratiet,8
+Helsingør,10,Espergærde Bibliotek,A_Lone_Grønhøj_Frandsen,Lone Grønhøj Frandsen,Socialdemokratiet,25
+Helsingør,10,Espergærde Bibliotek,A_Betina_Svinggaard,Betina Svinggaard,Socialdemokratiet,35
+Helsingør,10,Espergærde Bibliotek,A_Lene_Lindberg,Lene Lindberg,Socialdemokratiet,12
+Helsingør,10,Espergærde Bibliotek,A_Silas_Drejer,Silas Drejer,Socialdemokratiet,52
+Helsingør,10,Espergærde Bibliotek,A_Daniel_Boalth_Petersen,Daniel Boalth Petersen,Socialdemokratiet,14
+Helsingør,10,Espergærde Bibliotek,A_Christian_Thelin,Christian Thelin,Socialdemokratiet,4
+Helsingør,10,Espergærde Bibliotek,A_Lars_Rosenørn-Dohn,Lars Rosenørn-Dohn,Socialdemokratiet,7
+Helsingør,10,Espergærde Bibliotek,A_Palle_Wørman,Palle Wørman,Socialdemokratiet,7
+Helsingør,10,Espergærde Bibliotek,A_Harun_Avdal,Harun Avdal,Socialdemokratiet,5
+Helsingør,10,Espergærde Bibliotek,A_Thomas_Hjalmar_Mikkelsen,Thomas Hjalmar Mikkelsen,Socialdemokratiet,0
+Helsingør,10,Espergærde Bibliotek,A_Jørgen_Persson,Jørgen Persson,Socialdemokratiet,0
+Helsingør,10,Espergærde Bibliotek,A_Mads_Sandholdt,Mads Sandholdt,Socialdemokratiet,1
+Helsingør,10,Espergærde Bibliotek,B_Listestemmer,Listestemmer,Radikale Venstre,91
+Helsingør,10,Espergærde Bibliotek,"B_Christian_Holm_Donatzky,_Helsingør","Christian Holm Donatzky, Helsingør",Radikale Venstre,127
+Helsingør,10,Espergærde Bibliotek,"B_Knud_Mogensen,_Tikøb","Knud Mogensen, Tikøb",Radikale Venstre,3
+Helsingør,10,Espergærde Bibliotek,"B_Birgit_Mørup,_Helsingør","Birgit Mørup, Helsingør",Radikale Venstre,25
+Helsingør,10,Espergærde Bibliotek,"B_Per_Frank_Povlsen,_Helsingør","Per Frank Povlsen, Helsingør",Radikale Venstre,4
+Helsingør,10,Espergærde Bibliotek,"B_Inge-Lise_Candelaria,_Helsingør","Inge-Lise Candelaria, Helsingør",Radikale Venstre,7
+Helsingør,10,Espergærde Bibliotek,"B_Mogens_Aarsleff_Hansen,_Espergærde","Mogens Aarsleff Hansen, Espergærde",Radikale Venstre,5
+Helsingør,10,Espergærde Bibliotek,"B_Niels_Frederiksen,_Hellebæk","Niels Frederiksen, Hellebæk",Radikale Venstre,0
+Helsingør,10,Espergærde Bibliotek,"B_Annette_Steglich-Petersen,Hornbæk","Annette Steglich-Petersen,Hornbæk",Radikale Venstre,8
+Helsingør,10,Espergærde Bibliotek,"B_Noah_Nevado,_Helsingør","Noah Nevado, Helsingør",Radikale Venstre,4
+Helsingør,10,Espergærde Bibliotek,"B_Hanne_E._Jakobsen,_Snekkersten","Hanne E. Jakobsen, Snekkersten",Radikale Venstre,13
+Helsingør,10,Espergærde Bibliotek,"B_Poul_Bernt_Jensen,_Snekkersten","Poul Bernt Jensen, Snekkersten",Radikale Venstre,0
+Helsingør,10,Espergærde Bibliotek,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,202
+Helsingør,10,Espergærde Bibliotek,C_Benedikte_Kiær,Benedikte Kiær,Det Konservative Folkeparti,532
+Helsingør,10,Espergærde Bibliotek,C_Jens_Bertram,Jens Bertram,Det Konservative Folkeparti,18
+Helsingør,10,Espergærde Bibliotek,C_Michael_Mathiesen,Michael Mathiesen,Det Konservative Folkeparti,109
+Helsingør,10,Espergærde Bibliotek,C_Birgitte_Bergman,Birgitte Bergman,Det Konservative Folkeparti,57
+Helsingør,10,Espergærde Bibliotek,C_Janus_Kyhl,Janus Kyhl,Det Konservative Folkeparti,11
+Helsingør,10,Espergærde Bibliotek,C_Arne_Thorvald_Koktvedgaard,Arne Thorvald Koktvedgaard,Det Konservative Folkeparti,0
+Helsingør,10,Espergærde Bibliotek,C_Michael_Lagoni,Michael Lagoni,Det Konservative Folkeparti,75
+Helsingør,10,Espergærde Bibliotek,C_Kristina_Kongsted,Kristina Kongsted,Det Konservative Folkeparti,12
+Helsingør,10,Espergærde Bibliotek,C_Thomas_Kok,Thomas Kok,Det Konservative Folkeparti,14
+Helsingør,10,Espergærde Bibliotek,C_Gert_Dyekjær,Gert Dyekjær,Det Konservative Folkeparti,4
+Helsingør,10,Espergærde Bibliotek,C_Birgitte_Milling,Birgitte Milling,Det Konservative Folkeparti,9
+Helsingør,10,Espergærde Bibliotek,C_Claus_Birkelyng,Claus Birkelyng,Det Konservative Folkeparti,23
+Helsingør,10,Espergærde Bibliotek,C_Carol_Krogstrup,Carol Krogstrup,Det Konservative Folkeparti,0
+Helsingør,10,Espergærde Bibliotek,C_Tom_Pedersen,Tom Pedersen,Det Konservative Folkeparti,46
+Helsingør,10,Espergærde Bibliotek,C_Olav_Berntsen,Olav Berntsen,Det Konservative Folkeparti,0
+Helsingør,10,Espergærde Bibliotek,C_Henrik_Malmgreen,Henrik Malmgreen,Det Konservative Folkeparti,11
+Helsingør,10,Espergærde Bibliotek,C_Henrik_Carmel,Henrik Carmel,Det Konservative Folkeparti,22
+Helsingør,10,Espergærde Bibliotek,C_Thomas_Grauslund,Thomas Grauslund,Det Konservative Folkeparti,1
+Helsingør,10,Espergærde Bibliotek,C_Sarah_Thorning_Guldborg,Sarah Thorning Guldborg,Det Konservative Folkeparti,53
+Helsingør,10,Espergærde Bibliotek,C_Knud_Vinther_Hansen,Knud Vinther Hansen,Det Konservative Folkeparti,5
+Helsingør,10,Espergærde Bibliotek,C_Hanne_Buur,Hanne Buur,Det Konservative Folkeparti,0
+Helsingør,10,Espergærde Bibliotek,C_Steen_Boldsen,Steen Boldsen,Det Konservative Folkeparti,12
+Helsingør,10,Espergærde Bibliotek,C_Per_E.Thomsen,Per E.Thomsen,Det Konservative Folkeparti,0
+Helsingør,10,Espergærde Bibliotek,D_Listestemmer,Listestemmer,Nye Borgerlige,48
+Helsingør,10,Espergærde Bibliotek,D_Ulla_Kokfelt,Ulla Kokfelt,Nye Borgerlige,60
+Helsingør,10,Espergærde Bibliotek,D_Rene_Schibler,Rene Schibler,Nye Borgerlige,3
+Helsingør,10,Espergærde Bibliotek,D_Denise_Rostgaard,Denise Rostgaard,Nye Borgerlige,10
+Helsingør,10,Espergærde Bibliotek,D_Kenneth_Kure,Kenneth Kure,Nye Borgerlige,1
+Helsingør,10,Espergærde Bibliotek,D_Jeanne_Højstrøm,Jeanne Højstrøm,Nye Borgerlige,1
+Helsingør,10,Espergærde Bibliotek,D_Margith_Marie_Jensen,Margith Marie Jensen,Nye Borgerlige,0
+Helsingør,10,Espergærde Bibliotek,D_Per_Olsen,Per Olsen,Nye Borgerlige,2
+Helsingør,10,Espergærde Bibliotek,D_Peter_la_Cour,Peter la Cour,Nye Borgerlige,5
+Helsingør,10,Espergærde Bibliotek,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,62
+Helsingør,10,Espergærde Bibliotek,F_Bente_Borg_Donkin,Bente Borg Donkin,SF - Socialistisk Folkeparti,67
+Helsingør,10,Espergærde Bibliotek,F_Anders_Wilsbech,Anders Wilsbech,SF - Socialistisk Folkeparti,3
+Helsingør,10,Espergærde Bibliotek,F_Niels_Mørup,Niels Mørup,SF - Socialistisk Folkeparti,14
+Helsingør,10,Espergærde Bibliotek,F_Thorfinn_Johansen,Thorfinn Johansen,SF - Socialistisk Folkeparti,2
+Helsingør,10,Espergærde Bibliotek,F_Dorthe_Bjørn_Andersen,Dorthe Bjørn Andersen,SF - Socialistisk Folkeparti,8
+Helsingør,10,Espergærde Bibliotek,F_Ole_Bergmann,Ole Bergmann,SF - Socialistisk Folkeparti,6
+Helsingør,10,Espergærde Bibliotek,H_Listestemmer,Listestemmer,Projekt Transparens,1
+Helsingør,10,Espergærde Bibliotek,H_Jeppe_Hauptmann,Jeppe Hauptmann,Projekt Transparens,1
+Helsingør,10,Espergærde Bibliotek,I_Listestemmer,Listestemmer,Liberal Alliance,19
+Helsingør,10,Espergærde Bibliotek,"I_Nicholas_Just_Villadsen,Kvistgård","Nicholas Just Villadsen,Kvistgård",Liberal Alliance,11
+Helsingør,10,Espergærde Bibliotek,"I_Kira_Danholm,_Snekkersten","Kira Danholm, Snekkersten",Liberal Alliance,3
+Helsingør,10,Espergærde Bibliotek,"I_Aishah_Yatim,_Helsingør","Aishah Yatim, Helsingør",Liberal Alliance,0
+Helsingør,10,Espergærde Bibliotek,"I_Jan_Ilum,_Helsingør","Jan Ilum, Helsingør",Liberal Alliance,1
+Helsingør,10,Espergærde Bibliotek,"I_Claus_Helge_Nielsen,_Helsingør","Claus Helge Nielsen, Helsingør",Liberal Alliance,0
+Helsingør,10,Espergærde Bibliotek,"I_Nicklas_M._Danholm,_Snekkersten","Nicklas M. Danholm, Snekkersten",Liberal Alliance,2
+Helsingør,10,Espergærde Bibliotek,J_Listestemmer,Listestemmer,Listehansen,0
+Helsingør,10,Espergærde Bibliotek,J_Jimmy_Jørgensen,Jimmy Jørgensen,Listehansen,0
+Helsingør,10,Espergærde Bibliotek,J_Erban_Jakobsen,Erban Jakobsen,Listehansen,0
+Helsingør,10,Espergærde Bibliotek,O_Listestemmer,Listestemmer,Dansk Folkeparti,8
+Helsingør,10,Espergærde Bibliotek,O_Marlene_Harpsøe,Marlene Harpsøe,Dansk Folkeparti,40
+Helsingør,10,Espergærde Bibliotek,O_Freja_Södergran,Freja Södergran,Dansk Folkeparti,10
+Helsingør,10,Espergærde Bibliotek,O_Rune_Oliver_Christensen,Rune Oliver Christensen,Dansk Folkeparti,12
+Helsingør,10,Espergærde Bibliotek,O_Stefan_Warburg,Stefan Warburg,Dansk Folkeparti,2
+Helsingør,10,Espergærde Bibliotek,O_Delvalle_Villarroel,Delvalle Villarroel,Dansk Folkeparti,0
+Helsingør,10,Espergærde Bibliotek,O_Lotte_Lehnerskjold,Lotte Lehnerskjold,Dansk Folkeparti,2
+Helsingør,10,Espergærde Bibliotek,O_Max_Tranebæk,Max Tranebæk,Dansk Folkeparti,1
+Helsingør,10,Espergærde Bibliotek,O_Erik_Warburg,Erik Warburg,Dansk Folkeparti,0
+Helsingør,10,Espergærde Bibliotek,O_Betty_Andersen,Betty Andersen,Dansk Folkeparti,0
+Helsingør,10,Espergærde Bibliotek,O_Niels-Christian_Kjeldsen,Niels-Christian Kjeldsen,Dansk Folkeparti,0
+Helsingør,10,Espergærde Bibliotek,O_Esther_Warburg,Esther Warburg,Dansk Folkeparti,0
+Helsingør,10,Espergærde Bibliotek,O_Torben_Elleboe,Torben Elleboe,Dansk Folkeparti,0
+Helsingør,10,Espergærde Bibliotek,O_Randi_Nielsen,Randi Nielsen,Dansk Folkeparti,0
+Helsingør,10,Espergærde Bibliotek,O_Viggo_Pedersen,Viggo Pedersen,Dansk Folkeparti,0
+Helsingør,10,Espergærde Bibliotek,O_Jens_Kirkegaard,Jens Kirkegaard,Dansk Folkeparti,2
+Helsingør,10,Espergærde Bibliotek,O_Ib_Kirkegaard,Ib Kirkegaard,Dansk Folkeparti,1
+Helsingør,10,Espergærde Bibliotek,P_Listestemmer,Listestemmer,Bella Listen,2
+Helsingør,10,Espergærde Bibliotek,P_Robert_Christiansen,Robert Christiansen,Bella Listen,0
+Helsingør,10,Espergærde Bibliotek,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",42
+Helsingør,10,Espergærde Bibliotek,"V_Mette_Lene_Jensen,_Espergærde","Mette Lene Jensen, Espergærde","Venstre, Danmarks Liberale Parti",132
+Helsingør,10,Espergærde Bibliotek,"V_Kari_Jørgensen,_Snekkersten","Kari Jørgensen, Snekkersten","Venstre, Danmarks Liberale Parti",3
+Helsingør,10,Espergærde Bibliotek,"V_Morten_Westergaard,_Espergærde","Morten Westergaard, Espergærde","Venstre, Danmarks Liberale Parti",10
+Helsingør,10,Espergærde Bibliotek,"V_Bjørn_Cronquist,Helsingør","Bjørn Cronquist,Helsingør","Venstre, Danmarks Liberale Parti",2
+Helsingør,10,Espergærde Bibliotek,"V_Helena_B._Sanders,_Helsingør","Helena B. Sanders, Helsingør","Venstre, Danmarks Liberale Parti",5
+Helsingør,10,Espergærde Bibliotek,"V_Christine_S._Brun,Hornbæk","Christine S. Brun,Hornbæk","Venstre, Danmarks Liberale Parti",7
+Helsingør,10,Espergærde Bibliotek,"V_Mikael_Heibrock_Sørensen,Snekkerst","Mikael Heibrock Sørensen,Snekkerst","Venstre, Danmarks Liberale Parti",0
+Helsingør,10,Espergærde Bibliotek,"V_Freddy_Jensen,_Espergærde","Freddy Jensen, Espergærde","Venstre, Danmarks Liberale Parti",2
+Helsingør,10,Espergærde Bibliotek,"V_Holger_Søndergaard,_Espergærde","Holger Søndergaard, Espergærde","Venstre, Danmarks Liberale Parti",0
+Helsingør,10,Espergærde Bibliotek,"V_Bettina_Cronquist,_Helsingør","Bettina Cronquist, Helsingør","Venstre, Danmarks Liberale Parti",1
+Helsingør,10,Espergærde Bibliotek,"V_Mads_Jessen_Jensen,_Espergærde","Mads Jessen Jensen, Espergærde","Venstre, Danmarks Liberale Parti",6
+Helsingør,10,Espergærde Bibliotek,"V_Karin_Andersen,_Hornbæk","Karin Andersen, Hornbæk","Venstre, Danmarks Liberale Parti",0
+Helsingør,10,Espergærde Bibliotek,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,50
+Helsingør,10,Espergærde Bibliotek,"Ø_Allan_Berg_Mortensen,_Helsingør","Allan Berg Mortensen, Helsingør",Enhedslisten - De Rød-Grønne,64
+Helsingør,10,Espergærde Bibliotek,"Ø_Jørgen_Bodilsen,_Helsingør","Jørgen Bodilsen, Helsingør",Enhedslisten - De Rød-Grønne,7
+Helsingør,10,Espergærde Bibliotek,"Ø_Malthe_Jacobsen,_Helsingør","Malthe Jacobsen, Helsingør",Enhedslisten - De Rød-Grønne,19
+Helsingør,10,Espergærde Bibliotek,"Ø_Annette_Frøhling,_Helsingør","Annette Frøhling, Helsingør",Enhedslisten - De Rød-Grønne,7
+Helsingør,10,Espergærde Bibliotek,"Ø_Karin_Claudia_Steinberg,_Espergærd","Karin Claudia Steinberg, Espergærd",Enhedslisten - De Rød-Grønne,12
+Helsingør,10,Espergærde Bibliotek,"Ø_Suzanne_Schytt,_Helsingør","Suzanne Schytt, Helsingør",Enhedslisten - De Rød-Grønne,6
+Helsingør,10,Espergærde Bibliotek,"Ø_Hans_Kjærgaard,_Nygård","Hans Kjærgaard, Nygård",Enhedslisten - De Rød-Grønne,1
+Helsingør,10,Espergærde Bibliotek,Å_Listestemmer,Listestemmer,Alternativet,16
+Helsingør,10,Espergærde Bibliotek,Å_Mette_Skamris,Mette Skamris,Alternativet,16
+Helsingør,10,Espergærde Bibliotek,Å_Helene_Liliendahl_Brydensholt,Helene Liliendahl Brydensholt,Alternativet,41
+Helsingør,10,Espergærde Bibliotek,Å_Morten_Greve,Morten Greve,Alternativet,6
+Helsingør,11,Mørdrupskolen,A_Listestemmer,Listestemmer,Socialdemokratiet,255
+Helsingør,11,Mørdrupskolen,A_Claus_Christoffersen,Claus Christoffersen,Socialdemokratiet,274
+Helsingør,11,Mørdrupskolen,A_Thomas_Horn,Thomas Horn,Socialdemokratiet,76
+Helsingør,11,Mørdrupskolen,A_Gitte_Kondrup,Gitte Kondrup,Socialdemokratiet,55
+Helsingør,11,Mørdrupskolen,A_Peter_Poulsen,Peter Poulsen,Socialdemokratiet,11
+Helsingør,11,Mørdrupskolen,A_Lone_Grønhøj_Frandsen,Lone Grønhøj Frandsen,Socialdemokratiet,31
+Helsingør,11,Mørdrupskolen,A_Betina_Svinggaard,Betina Svinggaard,Socialdemokratiet,28
+Helsingør,11,Mørdrupskolen,A_Lene_Lindberg,Lene Lindberg,Socialdemokratiet,21
+Helsingør,11,Mørdrupskolen,A_Silas_Drejer,Silas Drejer,Socialdemokratiet,73
+Helsingør,11,Mørdrupskolen,A_Daniel_Boalth_Petersen,Daniel Boalth Petersen,Socialdemokratiet,28
+Helsingør,11,Mørdrupskolen,A_Christian_Thelin,Christian Thelin,Socialdemokratiet,13
+Helsingør,11,Mørdrupskolen,A_Lars_Rosenørn-Dohn,Lars Rosenørn-Dohn,Socialdemokratiet,4
+Helsingør,11,Mørdrupskolen,A_Palle_Wørman,Palle Wørman,Socialdemokratiet,21
+Helsingør,11,Mørdrupskolen,A_Harun_Avdal,Harun Avdal,Socialdemokratiet,16
+Helsingør,11,Mørdrupskolen,A_Thomas_Hjalmar_Mikkelsen,Thomas Hjalmar Mikkelsen,Socialdemokratiet,2
+Helsingør,11,Mørdrupskolen,A_Jørgen_Persson,Jørgen Persson,Socialdemokratiet,1
+Helsingør,11,Mørdrupskolen,A_Mads_Sandholdt,Mads Sandholdt,Socialdemokratiet,2
+Helsingør,11,Mørdrupskolen,B_Listestemmer,Listestemmer,Radikale Venstre,106
+Helsingør,11,Mørdrupskolen,"B_Christian_Holm_Donatzky,_Helsingør","Christian Holm Donatzky, Helsingør",Radikale Venstre,104
+Helsingør,11,Mørdrupskolen,"B_Knud_Mogensen,_Tikøb","Knud Mogensen, Tikøb",Radikale Venstre,8
+Helsingør,11,Mørdrupskolen,"B_Birgit_Mørup,_Helsingør","Birgit Mørup, Helsingør",Radikale Venstre,38
+Helsingør,11,Mørdrupskolen,"B_Per_Frank_Povlsen,_Helsingør","Per Frank Povlsen, Helsingør",Radikale Venstre,5
+Helsingør,11,Mørdrupskolen,"B_Inge-Lise_Candelaria,_Helsingør","Inge-Lise Candelaria, Helsingør",Radikale Venstre,10
+Helsingør,11,Mørdrupskolen,"B_Mogens_Aarsleff_Hansen,_Espergærde","Mogens Aarsleff Hansen, Espergærde",Radikale Venstre,15
+Helsingør,11,Mørdrupskolen,"B_Niels_Frederiksen,_Hellebæk","Niels Frederiksen, Hellebæk",Radikale Venstre,0
+Helsingør,11,Mørdrupskolen,"B_Annette_Steglich-Petersen,Hornbæk","Annette Steglich-Petersen,Hornbæk",Radikale Venstre,4
+Helsingør,11,Mørdrupskolen,"B_Noah_Nevado,_Helsingør","Noah Nevado, Helsingør",Radikale Venstre,2
+Helsingør,11,Mørdrupskolen,"B_Hanne_E._Jakobsen,_Snekkersten","Hanne E. Jakobsen, Snekkersten",Radikale Venstre,15
+Helsingør,11,Mørdrupskolen,"B_Poul_Bernt_Jensen,_Snekkersten","Poul Bernt Jensen, Snekkersten",Radikale Venstre,1
+Helsingør,11,Mørdrupskolen,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,194
+Helsingør,11,Mørdrupskolen,C_Benedikte_Kiær,Benedikte Kiær,Det Konservative Folkeparti,613
+Helsingør,11,Mørdrupskolen,C_Jens_Bertram,Jens Bertram,Det Konservative Folkeparti,10
+Helsingør,11,Mørdrupskolen,C_Michael_Mathiesen,Michael Mathiesen,Det Konservative Folkeparti,138
+Helsingør,11,Mørdrupskolen,C_Birgitte_Bergman,Birgitte Bergman,Det Konservative Folkeparti,61
+Helsingør,11,Mørdrupskolen,C_Janus_Kyhl,Janus Kyhl,Det Konservative Folkeparti,11
+Helsingør,11,Mørdrupskolen,C_Arne_Thorvald_Koktvedgaard,Arne Thorvald Koktvedgaard,Det Konservative Folkeparti,4
+Helsingør,11,Mørdrupskolen,C_Michael_Lagoni,Michael Lagoni,Det Konservative Folkeparti,30
+Helsingør,11,Mørdrupskolen,C_Kristina_Kongsted,Kristina Kongsted,Det Konservative Folkeparti,4
+Helsingør,11,Mørdrupskolen,C_Thomas_Kok,Thomas Kok,Det Konservative Folkeparti,17
+Helsingør,11,Mørdrupskolen,C_Gert_Dyekjær,Gert Dyekjær,Det Konservative Folkeparti,9
+Helsingør,11,Mørdrupskolen,C_Birgitte_Milling,Birgitte Milling,Det Konservative Folkeparti,5
+Helsingør,11,Mørdrupskolen,C_Claus_Birkelyng,Claus Birkelyng,Det Konservative Folkeparti,16
+Helsingør,11,Mørdrupskolen,C_Carol_Krogstrup,Carol Krogstrup,Det Konservative Folkeparti,1
+Helsingør,11,Mørdrupskolen,C_Tom_Pedersen,Tom Pedersen,Det Konservative Folkeparti,74
+Helsingør,11,Mørdrupskolen,C_Olav_Berntsen,Olav Berntsen,Det Konservative Folkeparti,0
+Helsingør,11,Mørdrupskolen,C_Henrik_Malmgreen,Henrik Malmgreen,Det Konservative Folkeparti,9
+Helsingør,11,Mørdrupskolen,C_Henrik_Carmel,Henrik Carmel,Det Konservative Folkeparti,40
+Helsingør,11,Mørdrupskolen,C_Thomas_Grauslund,Thomas Grauslund,Det Konservative Folkeparti,3
+Helsingør,11,Mørdrupskolen,C_Sarah_Thorning_Guldborg,Sarah Thorning Guldborg,Det Konservative Folkeparti,48
+Helsingør,11,Mørdrupskolen,C_Knud_Vinther_Hansen,Knud Vinther Hansen,Det Konservative Folkeparti,18
+Helsingør,11,Mørdrupskolen,C_Hanne_Buur,Hanne Buur,Det Konservative Folkeparti,0
+Helsingør,11,Mørdrupskolen,C_Steen_Boldsen,Steen Boldsen,Det Konservative Folkeparti,12
+Helsingør,11,Mørdrupskolen,C_Per_E.Thomsen,Per E.Thomsen,Det Konservative Folkeparti,2
+Helsingør,11,Mørdrupskolen,D_Listestemmer,Listestemmer,Nye Borgerlige,83
+Helsingør,11,Mørdrupskolen,D_Ulla_Kokfelt,Ulla Kokfelt,Nye Borgerlige,89
+Helsingør,11,Mørdrupskolen,D_Rene_Schibler,Rene Schibler,Nye Borgerlige,5
+Helsingør,11,Mørdrupskolen,D_Denise_Rostgaard,Denise Rostgaard,Nye Borgerlige,25
+Helsingør,11,Mørdrupskolen,D_Kenneth_Kure,Kenneth Kure,Nye Borgerlige,2
+Helsingør,11,Mørdrupskolen,D_Jeanne_Højstrøm,Jeanne Højstrøm,Nye Borgerlige,2
+Helsingør,11,Mørdrupskolen,D_Margith_Marie_Jensen,Margith Marie Jensen,Nye Borgerlige,0
+Helsingør,11,Mørdrupskolen,D_Per_Olsen,Per Olsen,Nye Borgerlige,4
+Helsingør,11,Mørdrupskolen,D_Peter_la_Cour,Peter la Cour,Nye Borgerlige,3
+Helsingør,11,Mørdrupskolen,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,80
+Helsingør,11,Mørdrupskolen,F_Bente_Borg_Donkin,Bente Borg Donkin,SF - Socialistisk Folkeparti,69
+Helsingør,11,Mørdrupskolen,F_Anders_Wilsbech,Anders Wilsbech,SF - Socialistisk Folkeparti,7
+Helsingør,11,Mørdrupskolen,F_Niels_Mørup,Niels Mørup,SF - Socialistisk Folkeparti,9
+Helsingør,11,Mørdrupskolen,F_Thorfinn_Johansen,Thorfinn Johansen,SF - Socialistisk Folkeparti,0
+Helsingør,11,Mørdrupskolen,F_Dorthe_Bjørn_Andersen,Dorthe Bjørn Andersen,SF - Socialistisk Folkeparti,12
+Helsingør,11,Mørdrupskolen,F_Ole_Bergmann,Ole Bergmann,SF - Socialistisk Folkeparti,10
+Helsingør,11,Mørdrupskolen,H_Listestemmer,Listestemmer,Projekt Transparens,0
+Helsingør,11,Mørdrupskolen,H_Jeppe_Hauptmann,Jeppe Hauptmann,Projekt Transparens,0
+Helsingør,11,Mørdrupskolen,I_Listestemmer,Listestemmer,Liberal Alliance,21
+Helsingør,11,Mørdrupskolen,"I_Nicholas_Just_Villadsen,Kvistgård","Nicholas Just Villadsen,Kvistgård",Liberal Alliance,13
+Helsingør,11,Mørdrupskolen,"I_Kira_Danholm,_Snekkersten","Kira Danholm, Snekkersten",Liberal Alliance,6
+Helsingør,11,Mørdrupskolen,"I_Aishah_Yatim,_Helsingør","Aishah Yatim, Helsingør",Liberal Alliance,1
+Helsingør,11,Mørdrupskolen,"I_Jan_Ilum,_Helsingør","Jan Ilum, Helsingør",Liberal Alliance,0
+Helsingør,11,Mørdrupskolen,"I_Claus_Helge_Nielsen,_Helsingør","Claus Helge Nielsen, Helsingør",Liberal Alliance,1
+Helsingør,11,Mørdrupskolen,"I_Nicklas_M._Danholm,_Snekkersten","Nicklas M. Danholm, Snekkersten",Liberal Alliance,0
+Helsingør,11,Mørdrupskolen,J_Listestemmer,Listestemmer,Listehansen,0
+Helsingør,11,Mørdrupskolen,J_Jimmy_Jørgensen,Jimmy Jørgensen,Listehansen,1
+Helsingør,11,Mørdrupskolen,J_Erban_Jakobsen,Erban Jakobsen,Listehansen,0
+Helsingør,11,Mørdrupskolen,O_Listestemmer,Listestemmer,Dansk Folkeparti,37
+Helsingør,11,Mørdrupskolen,O_Marlene_Harpsøe,Marlene Harpsøe,Dansk Folkeparti,90
+Helsingør,11,Mørdrupskolen,O_Freja_Södergran,Freja Södergran,Dansk Folkeparti,17
+Helsingør,11,Mørdrupskolen,O_Rune_Oliver_Christensen,Rune Oliver Christensen,Dansk Folkeparti,14
+Helsingør,11,Mørdrupskolen,O_Stefan_Warburg,Stefan Warburg,Dansk Folkeparti,2
+Helsingør,11,Mørdrupskolen,O_Delvalle_Villarroel,Delvalle Villarroel,Dansk Folkeparti,0
+Helsingør,11,Mørdrupskolen,O_Lotte_Lehnerskjold,Lotte Lehnerskjold,Dansk Folkeparti,2
+Helsingør,11,Mørdrupskolen,O_Max_Tranebæk,Max Tranebæk,Dansk Folkeparti,1
+Helsingør,11,Mørdrupskolen,O_Erik_Warburg,Erik Warburg,Dansk Folkeparti,0
+Helsingør,11,Mørdrupskolen,O_Betty_Andersen,Betty Andersen,Dansk Folkeparti,1
+Helsingør,11,Mørdrupskolen,O_Niels-Christian_Kjeldsen,Niels-Christian Kjeldsen,Dansk Folkeparti,1
+Helsingør,11,Mørdrupskolen,O_Esther_Warburg,Esther Warburg,Dansk Folkeparti,0
+Helsingør,11,Mørdrupskolen,O_Torben_Elleboe,Torben Elleboe,Dansk Folkeparti,0
+Helsingør,11,Mørdrupskolen,O_Randi_Nielsen,Randi Nielsen,Dansk Folkeparti,1
+Helsingør,11,Mørdrupskolen,O_Viggo_Pedersen,Viggo Pedersen,Dansk Folkeparti,1
+Helsingør,11,Mørdrupskolen,O_Jens_Kirkegaard,Jens Kirkegaard,Dansk Folkeparti,4
+Helsingør,11,Mørdrupskolen,O_Ib_Kirkegaard,Ib Kirkegaard,Dansk Folkeparti,7
+Helsingør,11,Mørdrupskolen,P_Listestemmer,Listestemmer,Bella Listen,1
+Helsingør,11,Mørdrupskolen,P_Robert_Christiansen,Robert Christiansen,Bella Listen,0
+Helsingør,11,Mørdrupskolen,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",64
+Helsingør,11,Mørdrupskolen,"V_Mette_Lene_Jensen,_Espergærde","Mette Lene Jensen, Espergærde","Venstre, Danmarks Liberale Parti",222
+Helsingør,11,Mørdrupskolen,"V_Kari_Jørgensen,_Snekkersten","Kari Jørgensen, Snekkersten","Venstre, Danmarks Liberale Parti",6
+Helsingør,11,Mørdrupskolen,"V_Morten_Westergaard,_Espergærde","Morten Westergaard, Espergærde","Venstre, Danmarks Liberale Parti",37
+Helsingør,11,Mørdrupskolen,"V_Bjørn_Cronquist,Helsingør","Bjørn Cronquist,Helsingør","Venstre, Danmarks Liberale Parti",4
+Helsingør,11,Mørdrupskolen,"V_Helena_B._Sanders,_Helsingør","Helena B. Sanders, Helsingør","Venstre, Danmarks Liberale Parti",3
+Helsingør,11,Mørdrupskolen,"V_Christine_S._Brun,Hornbæk","Christine S. Brun,Hornbæk","Venstre, Danmarks Liberale Parti",8
+Helsingør,11,Mørdrupskolen,"V_Mikael_Heibrock_Sørensen,Snekkerst","Mikael Heibrock Sørensen,Snekkerst","Venstre, Danmarks Liberale Parti",0
+Helsingør,11,Mørdrupskolen,"V_Freddy_Jensen,_Espergærde","Freddy Jensen, Espergærde","Venstre, Danmarks Liberale Parti",0
+Helsingør,11,Mørdrupskolen,"V_Holger_Søndergaard,_Espergærde","Holger Søndergaard, Espergærde","Venstre, Danmarks Liberale Parti",1
+Helsingør,11,Mørdrupskolen,"V_Bettina_Cronquist,_Helsingør","Bettina Cronquist, Helsingør","Venstre, Danmarks Liberale Parti",2
+Helsingør,11,Mørdrupskolen,"V_Mads_Jessen_Jensen,_Espergærde","Mads Jessen Jensen, Espergærde","Venstre, Danmarks Liberale Parti",20
+Helsingør,11,Mørdrupskolen,"V_Karin_Andersen,_Hornbæk","Karin Andersen, Hornbæk","Venstre, Danmarks Liberale Parti",1
+Helsingør,11,Mørdrupskolen,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,93
+Helsingør,11,Mørdrupskolen,"Ø_Allan_Berg_Mortensen,_Helsingør","Allan Berg Mortensen, Helsingør",Enhedslisten - De Rød-Grønne,35
+Helsingør,11,Mørdrupskolen,"Ø_Jørgen_Bodilsen,_Helsingør","Jørgen Bodilsen, Helsingør",Enhedslisten - De Rød-Grønne,9
+Helsingør,11,Mørdrupskolen,"Ø_Malthe_Jacobsen,_Helsingør","Malthe Jacobsen, Helsingør",Enhedslisten - De Rød-Grønne,32
+Helsingør,11,Mørdrupskolen,"Ø_Annette_Frøhling,_Helsingør","Annette Frøhling, Helsingør",Enhedslisten - De Rød-Grønne,17
+Helsingør,11,Mørdrupskolen,"Ø_Karin_Claudia_Steinberg,_Espergærd","Karin Claudia Steinberg, Espergærd",Enhedslisten - De Rød-Grønne,21
+Helsingør,11,Mørdrupskolen,"Ø_Suzanne_Schytt,_Helsingør","Suzanne Schytt, Helsingør",Enhedslisten - De Rød-Grønne,11
+Helsingør,11,Mørdrupskolen,"Ø_Hans_Kjærgaard,_Nygård","Hans Kjærgaard, Nygård",Enhedslisten - De Rød-Grønne,2
+Helsingør,11,Mørdrupskolen,Å_Listestemmer,Listestemmer,Alternativet,23
+Helsingør,11,Mørdrupskolen,Å_Mette_Skamris,Mette Skamris,Alternativet,26
+Helsingør,11,Mørdrupskolen,Å_Helene_Liliendahl_Brydensholt,Helene Liliendahl Brydensholt,Alternativet,38
+Helsingør,11,Mørdrupskolen,Å_Morten_Greve,Morten Greve,Alternativet,15
+Helsingør,12,Toldkammeret,A_Listestemmer,Listestemmer,Socialdemokratiet,97
+Helsingør,12,Toldkammeret,A_Claus_Christoffersen,Claus Christoffersen,Socialdemokratiet,81
+Helsingør,12,Toldkammeret,A_Thomas_Horn,Thomas Horn,Socialdemokratiet,52
+Helsingør,12,Toldkammeret,A_Gitte_Kondrup,Gitte Kondrup,Socialdemokratiet,29
+Helsingør,12,Toldkammeret,A_Peter_Poulsen,Peter Poulsen,Socialdemokratiet,8
+Helsingør,12,Toldkammeret,A_Lone_Grønhøj_Frandsen,Lone Grønhøj Frandsen,Socialdemokratiet,20
+Helsingør,12,Toldkammeret,A_Betina_Svinggaard,Betina Svinggaard,Socialdemokratiet,17
+Helsingør,12,Toldkammeret,A_Lene_Lindberg,Lene Lindberg,Socialdemokratiet,16
+Helsingør,12,Toldkammeret,A_Silas_Drejer,Silas Drejer,Socialdemokratiet,8
+Helsingør,12,Toldkammeret,A_Daniel_Boalth_Petersen,Daniel Boalth Petersen,Socialdemokratiet,5
+Helsingør,12,Toldkammeret,A_Christian_Thelin,Christian Thelin,Socialdemokratiet,4
+Helsingør,12,Toldkammeret,A_Lars_Rosenørn-Dohn,Lars Rosenørn-Dohn,Socialdemokratiet,2
+Helsingør,12,Toldkammeret,A_Palle_Wørman,Palle Wørman,Socialdemokratiet,3
+Helsingør,12,Toldkammeret,A_Harun_Avdal,Harun Avdal,Socialdemokratiet,3
+Helsingør,12,Toldkammeret,A_Thomas_Hjalmar_Mikkelsen,Thomas Hjalmar Mikkelsen,Socialdemokratiet,1
+Helsingør,12,Toldkammeret,A_Jørgen_Persson,Jørgen Persson,Socialdemokratiet,0
+Helsingør,12,Toldkammeret,A_Mads_Sandholdt,Mads Sandholdt,Socialdemokratiet,1
+Helsingør,12,Toldkammeret,B_Listestemmer,Listestemmer,Radikale Venstre,40
+Helsingør,12,Toldkammeret,"B_Christian_Holm_Donatzky,_Helsingør","Christian Holm Donatzky, Helsingør",Radikale Venstre,67
+Helsingør,12,Toldkammeret,"B_Knud_Mogensen,_Tikøb","Knud Mogensen, Tikøb",Radikale Venstre,6
+Helsingør,12,Toldkammeret,"B_Birgit_Mørup,_Helsingør","Birgit Mørup, Helsingør",Radikale Venstre,20
+Helsingør,12,Toldkammeret,"B_Per_Frank_Povlsen,_Helsingør","Per Frank Povlsen, Helsingør",Radikale Venstre,3
+Helsingør,12,Toldkammeret,"B_Inge-Lise_Candelaria,_Helsingør","Inge-Lise Candelaria, Helsingør",Radikale Venstre,7
+Helsingør,12,Toldkammeret,"B_Mogens_Aarsleff_Hansen,_Espergærde","Mogens Aarsleff Hansen, Espergærde",Radikale Venstre,0
+Helsingør,12,Toldkammeret,"B_Niels_Frederiksen,_Hellebæk","Niels Frederiksen, Hellebæk",Radikale Venstre,0
+Helsingør,12,Toldkammeret,"B_Annette_Steglich-Petersen,Hornbæk","Annette Steglich-Petersen,Hornbæk",Radikale Venstre,0
+Helsingør,12,Toldkammeret,"B_Noah_Nevado,_Helsingør","Noah Nevado, Helsingør",Radikale Venstre,3
+Helsingør,12,Toldkammeret,"B_Hanne_E._Jakobsen,_Snekkersten","Hanne E. Jakobsen, Snekkersten",Radikale Venstre,6
+Helsingør,12,Toldkammeret,"B_Poul_Bernt_Jensen,_Snekkersten","Poul Bernt Jensen, Snekkersten",Radikale Venstre,1
+Helsingør,12,Toldkammeret,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,64
+Helsingør,12,Toldkammeret,C_Benedikte_Kiær,Benedikte Kiær,Det Konservative Folkeparti,265
+Helsingør,12,Toldkammeret,C_Jens_Bertram,Jens Bertram,Det Konservative Folkeparti,8
+Helsingør,12,Toldkammeret,C_Michael_Mathiesen,Michael Mathiesen,Det Konservative Folkeparti,14
+Helsingør,12,Toldkammeret,C_Birgitte_Bergman,Birgitte Bergman,Det Konservative Folkeparti,16
+Helsingør,12,Toldkammeret,C_Janus_Kyhl,Janus Kyhl,Det Konservative Folkeparti,14
+Helsingør,12,Toldkammeret,C_Arne_Thorvald_Koktvedgaard,Arne Thorvald Koktvedgaard,Det Konservative Folkeparti,0
+Helsingør,12,Toldkammeret,C_Michael_Lagoni,Michael Lagoni,Det Konservative Folkeparti,40
+Helsingør,12,Toldkammeret,C_Kristina_Kongsted,Kristina Kongsted,Det Konservative Folkeparti,5
+Helsingør,12,Toldkammeret,C_Thomas_Kok,Thomas Kok,Det Konservative Folkeparti,33
+Helsingør,12,Toldkammeret,C_Gert_Dyekjær,Gert Dyekjær,Det Konservative Folkeparti,4
+Helsingør,12,Toldkammeret,C_Birgitte_Milling,Birgitte Milling,Det Konservative Folkeparti,1
+Helsingør,12,Toldkammeret,C_Claus_Birkelyng,Claus Birkelyng,Det Konservative Folkeparti,3
+Helsingør,12,Toldkammeret,C_Carol_Krogstrup,Carol Krogstrup,Det Konservative Folkeparti,2
+Helsingør,12,Toldkammeret,C_Tom_Pedersen,Tom Pedersen,Det Konservative Folkeparti,2
+Helsingør,12,Toldkammeret,C_Olav_Berntsen,Olav Berntsen,Det Konservative Folkeparti,0
+Helsingør,12,Toldkammeret,C_Henrik_Malmgreen,Henrik Malmgreen,Det Konservative Folkeparti,5
+Helsingør,12,Toldkammeret,C_Henrik_Carmel,Henrik Carmel,Det Konservative Folkeparti,3
+Helsingør,12,Toldkammeret,C_Thomas_Grauslund,Thomas Grauslund,Det Konservative Folkeparti,1
+Helsingør,12,Toldkammeret,C_Sarah_Thorning_Guldborg,Sarah Thorning Guldborg,Det Konservative Folkeparti,4
+Helsingør,12,Toldkammeret,C_Knud_Vinther_Hansen,Knud Vinther Hansen,Det Konservative Folkeparti,6
+Helsingør,12,Toldkammeret,C_Hanne_Buur,Hanne Buur,Det Konservative Folkeparti,0
+Helsingør,12,Toldkammeret,C_Steen_Boldsen,Steen Boldsen,Det Konservative Folkeparti,22
+Helsingør,12,Toldkammeret,C_Per_E.Thomsen,Per E.Thomsen,Det Konservative Folkeparti,1
+Helsingør,12,Toldkammeret,D_Listestemmer,Listestemmer,Nye Borgerlige,30
+Helsingør,12,Toldkammeret,D_Ulla_Kokfelt,Ulla Kokfelt,Nye Borgerlige,32
+Helsingør,12,Toldkammeret,D_Rene_Schibler,Rene Schibler,Nye Borgerlige,2
+Helsingør,12,Toldkammeret,D_Denise_Rostgaard,Denise Rostgaard,Nye Borgerlige,11
+Helsingør,12,Toldkammeret,D_Kenneth_Kure,Kenneth Kure,Nye Borgerlige,0
+Helsingør,12,Toldkammeret,D_Jeanne_Højstrøm,Jeanne Højstrøm,Nye Borgerlige,1
+Helsingør,12,Toldkammeret,D_Margith_Marie_Jensen,Margith Marie Jensen,Nye Borgerlige,1
+Helsingør,12,Toldkammeret,D_Per_Olsen,Per Olsen,Nye Borgerlige,6
+Helsingør,12,Toldkammeret,D_Peter_la_Cour,Peter la Cour,Nye Borgerlige,1
+Helsingør,12,Toldkammeret,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,40
+Helsingør,12,Toldkammeret,F_Bente_Borg_Donkin,Bente Borg Donkin,SF - Socialistisk Folkeparti,43
+Helsingør,12,Toldkammeret,F_Anders_Wilsbech,Anders Wilsbech,SF - Socialistisk Folkeparti,2
+Helsingør,12,Toldkammeret,F_Niels_Mørup,Niels Mørup,SF - Socialistisk Folkeparti,7
+Helsingør,12,Toldkammeret,F_Thorfinn_Johansen,Thorfinn Johansen,SF - Socialistisk Folkeparti,3
+Helsingør,12,Toldkammeret,F_Dorthe_Bjørn_Andersen,Dorthe Bjørn Andersen,SF - Socialistisk Folkeparti,2
+Helsingør,12,Toldkammeret,F_Ole_Bergmann,Ole Bergmann,SF - Socialistisk Folkeparti,6
+Helsingør,12,Toldkammeret,H_Listestemmer,Listestemmer,Projekt Transparens,0
+Helsingør,12,Toldkammeret,H_Jeppe_Hauptmann,Jeppe Hauptmann,Projekt Transparens,0
+Helsingør,12,Toldkammeret,I_Listestemmer,Listestemmer,Liberal Alliance,19
+Helsingør,12,Toldkammeret,"I_Nicholas_Just_Villadsen,Kvistgård","Nicholas Just Villadsen,Kvistgård",Liberal Alliance,8
+Helsingør,12,Toldkammeret,"I_Kira_Danholm,_Snekkersten","Kira Danholm, Snekkersten",Liberal Alliance,2
+Helsingør,12,Toldkammeret,"I_Aishah_Yatim,_Helsingør","Aishah Yatim, Helsingør",Liberal Alliance,1
+Helsingør,12,Toldkammeret,"I_Jan_Ilum,_Helsingør","Jan Ilum, Helsingør",Liberal Alliance,1
+Helsingør,12,Toldkammeret,"I_Claus_Helge_Nielsen,_Helsingør","Claus Helge Nielsen, Helsingør",Liberal Alliance,2
+Helsingør,12,Toldkammeret,"I_Nicklas_M._Danholm,_Snekkersten","Nicklas M. Danholm, Snekkersten",Liberal Alliance,0
+Helsingør,12,Toldkammeret,J_Listestemmer,Listestemmer,Listehansen,2
+Helsingør,12,Toldkammeret,J_Jimmy_Jørgensen,Jimmy Jørgensen,Listehansen,6
+Helsingør,12,Toldkammeret,J_Erban_Jakobsen,Erban Jakobsen,Listehansen,1
+Helsingør,12,Toldkammeret,O_Listestemmer,Listestemmer,Dansk Folkeparti,10
+Helsingør,12,Toldkammeret,O_Marlene_Harpsøe,Marlene Harpsøe,Dansk Folkeparti,15
+Helsingør,12,Toldkammeret,O_Freja_Södergran,Freja Södergran,Dansk Folkeparti,25
+Helsingør,12,Toldkammeret,O_Rune_Oliver_Christensen,Rune Oliver Christensen,Dansk Folkeparti,4
+Helsingør,12,Toldkammeret,O_Stefan_Warburg,Stefan Warburg,Dansk Folkeparti,0
+Helsingør,12,Toldkammeret,O_Delvalle_Villarroel,Delvalle Villarroel,Dansk Folkeparti,0
+Helsingør,12,Toldkammeret,O_Lotte_Lehnerskjold,Lotte Lehnerskjold,Dansk Folkeparti,0
+Helsingør,12,Toldkammeret,O_Max_Tranebæk,Max Tranebæk,Dansk Folkeparti,1
+Helsingør,12,Toldkammeret,O_Erik_Warburg,Erik Warburg,Dansk Folkeparti,1
+Helsingør,12,Toldkammeret,O_Betty_Andersen,Betty Andersen,Dansk Folkeparti,0
+Helsingør,12,Toldkammeret,O_Niels-Christian_Kjeldsen,Niels-Christian Kjeldsen,Dansk Folkeparti,2
+Helsingør,12,Toldkammeret,O_Esther_Warburg,Esther Warburg,Dansk Folkeparti,0
+Helsingør,12,Toldkammeret,O_Torben_Elleboe,Torben Elleboe,Dansk Folkeparti,3
+Helsingør,12,Toldkammeret,O_Randi_Nielsen,Randi Nielsen,Dansk Folkeparti,0
+Helsingør,12,Toldkammeret,O_Viggo_Pedersen,Viggo Pedersen,Dansk Folkeparti,0
+Helsingør,12,Toldkammeret,O_Jens_Kirkegaard,Jens Kirkegaard,Dansk Folkeparti,0
+Helsingør,12,Toldkammeret,O_Ib_Kirkegaard,Ib Kirkegaard,Dansk Folkeparti,0
+Helsingør,12,Toldkammeret,P_Listestemmer,Listestemmer,Bella Listen,0
+Helsingør,12,Toldkammeret,P_Robert_Christiansen,Robert Christiansen,Bella Listen,2
+Helsingør,12,Toldkammeret,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",17
+Helsingør,12,Toldkammeret,"V_Mette_Lene_Jensen,_Espergærde","Mette Lene Jensen, Espergærde","Venstre, Danmarks Liberale Parti",22
+Helsingør,12,Toldkammeret,"V_Kari_Jørgensen,_Snekkersten","Kari Jørgensen, Snekkersten","Venstre, Danmarks Liberale Parti",4
+Helsingør,12,Toldkammeret,"V_Morten_Westergaard,_Espergærde","Morten Westergaard, Espergærde","Venstre, Danmarks Liberale Parti",5
+Helsingør,12,Toldkammeret,"V_Bjørn_Cronquist,Helsingør","Bjørn Cronquist,Helsingør","Venstre, Danmarks Liberale Parti",4
+Helsingør,12,Toldkammeret,"V_Helena_B._Sanders,_Helsingør","Helena B. Sanders, Helsingør","Venstre, Danmarks Liberale Parti",3
+Helsingør,12,Toldkammeret,"V_Christine_S._Brun,Hornbæk","Christine S. Brun,Hornbæk","Venstre, Danmarks Liberale Parti",5
+Helsingør,12,Toldkammeret,"V_Mikael_Heibrock_Sørensen,Snekkerst","Mikael Heibrock Sørensen,Snekkerst","Venstre, Danmarks Liberale Parti",0
+Helsingør,12,Toldkammeret,"V_Freddy_Jensen,_Espergærde","Freddy Jensen, Espergærde","Venstre, Danmarks Liberale Parti",0
+Helsingør,12,Toldkammeret,"V_Holger_Søndergaard,_Espergærde","Holger Søndergaard, Espergærde","Venstre, Danmarks Liberale Parti",0
+Helsingør,12,Toldkammeret,"V_Bettina_Cronquist,_Helsingør","Bettina Cronquist, Helsingør","Venstre, Danmarks Liberale Parti",2
+Helsingør,12,Toldkammeret,"V_Mads_Jessen_Jensen,_Espergærde","Mads Jessen Jensen, Espergærde","Venstre, Danmarks Liberale Parti",2
+Helsingør,12,Toldkammeret,"V_Karin_Andersen,_Hornbæk","Karin Andersen, Hornbæk","Venstre, Danmarks Liberale Parti",0
+Helsingør,12,Toldkammeret,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,93
+Helsingør,12,Toldkammeret,"Ø_Allan_Berg_Mortensen,_Helsingør","Allan Berg Mortensen, Helsingør",Enhedslisten - De Rød-Grønne,44
+Helsingør,12,Toldkammeret,"Ø_Jørgen_Bodilsen,_Helsingør","Jørgen Bodilsen, Helsingør",Enhedslisten - De Rød-Grønne,9
+Helsingør,12,Toldkammeret,"Ø_Malthe_Jacobsen,_Helsingør","Malthe Jacobsen, Helsingør",Enhedslisten - De Rød-Grønne,38
+Helsingør,12,Toldkammeret,"Ø_Annette_Frøhling,_Helsingør","Annette Frøhling, Helsingør",Enhedslisten - De Rød-Grønne,13
+Helsingør,12,Toldkammeret,"Ø_Karin_Claudia_Steinberg,_Espergærd","Karin Claudia Steinberg, Espergærd",Enhedslisten - De Rød-Grønne,2
+Helsingør,12,Toldkammeret,"Ø_Suzanne_Schytt,_Helsingør","Suzanne Schytt, Helsingør",Enhedslisten - De Rød-Grønne,15
+Helsingør,12,Toldkammeret,"Ø_Hans_Kjærgaard,_Nygård","Hans Kjærgaard, Nygård",Enhedslisten - De Rød-Grønne,0
+Helsingør,12,Toldkammeret,Å_Listestemmer,Listestemmer,Alternativet,11
+Helsingør,12,Toldkammeret,Å_Mette_Skamris,Mette Skamris,Alternativet,26
+Helsingør,12,Toldkammeret,Å_Helene_Liliendahl_Brydensholt,Helene Liliendahl Brydensholt,Alternativet,8
+Helsingør,12,Toldkammeret,Å_Morten_Greve,Morten Greve,Alternativet,11

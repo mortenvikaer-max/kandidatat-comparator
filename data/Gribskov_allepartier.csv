@@ -1,0 +1,1441 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Gribskov,1,Blistrup,A_Listestemmer,Listestemmer,Socialdemokratiet,138
+Gribskov,1,Blistrup,A_Morten_Dahlberg_Nielsen,Morten Dahlberg Nielsen,Socialdemokratiet,54
+Gribskov,1,Blistrup,A_Allan_Nielsen,Allan Nielsen,Socialdemokratiet,19
+Gribskov,1,Blistrup,A_Pia_Elly_Godsted_Foght,Pia Elly Godsted Foght,Socialdemokratiet,41
+Gribskov,1,Blistrup,A_Mette_Marianne_Tolstrup,Mette Marianne Tolstrup,Socialdemokratiet,12
+Gribskov,1,Blistrup,A_Jannik_Lyng_Petersen,Jannik Lyng Petersen,Socialdemokratiet,8
+Gribskov,1,Blistrup,A_Steffen_Dannemand_Goldschmidt,Steffen Dannemand Goldschmidt,Socialdemokratiet,16
+Gribskov,1,Blistrup,A_Daniel_Tao_Faber_Threms,Daniel Tao Faber Threms,Socialdemokratiet,11
+Gribskov,1,Blistrup,B_Listestemmer,Listestemmer,Radikale Venstre,19
+Gribskov,1,Blistrup,B_Bo_Jul_Baandhagen_Nielsen_-_Gillel,Bo Jul Baandhagen Nielsen - Gillel,Radikale Venstre,21
+Gribskov,1,Blistrup,B_Mette_Dollerup_-_Gilleleje,Mette Dollerup - Gilleleje,Radikale Venstre,9
+Gribskov,1,Blistrup,B_Rikke_Vesterbæk_Heitmann_-_Græsted,Rikke Vesterbæk Heitmann - Græsted,Radikale Venstre,3
+Gribskov,1,Blistrup,B_Thomas_Frandsen_-_Tisvildeleje,Thomas Frandsen - Tisvildeleje,Radikale Venstre,0
+Gribskov,1,Blistrup,B_Jens_Peter_Hansen_-_Gilleleje,Jens Peter Hansen - Gilleleje,Radikale Venstre,4
+Gribskov,1,Blistrup,B_Karl_Terpager_Andersen_-_Vejby,Karl Terpager Andersen - Vejby,Radikale Venstre,0
+Gribskov,1,Blistrup,B_Frank_Skaarup_Slemming_-_Tinkerup,Frank Skaarup Slemming - Tinkerup,Radikale Venstre,2
+Gribskov,1,Blistrup,B_Arne_Skovgaard_Nielsen_-_Helsinge,Arne Skovgaard Nielsen - Helsinge,Radikale Venstre,1
+Gribskov,1,Blistrup,B_Søren_Bald_-_Tibirke_Sand,Søren Bald - Tibirke Sand,Radikale Venstre,0
+Gribskov,1,Blistrup,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,90
+Gribskov,1,Blistrup,C_Trine_Mette_Egetved-Sørensen,Trine Mette Egetved-Sørensen,Det Konservative Folkeparti,298
+Gribskov,1,Blistrup,C_Lars_Nielsen,Lars Nielsen,Det Konservative Folkeparti,49
+Gribskov,1,Blistrup,C_Samir_Maáli,Samir Maáli,Det Konservative Folkeparti,10
+Gribskov,1,Blistrup,C_Daniel_Frigast,Daniel Frigast,Det Konservative Folkeparti,2
+Gribskov,1,Blistrup,C_Helene_Elisabeth_F_Gerlykke-Dohn,Helene Elisabeth F Gerlykke-Dohn,Det Konservative Folkeparti,16
+Gribskov,1,Blistrup,C_Simon_Johannes_Mortensen,Simon Johannes Mortensen,Det Konservative Folkeparti,3
+Gribskov,1,Blistrup,C_Bertel_Dandanell_Bording,Bertel Dandanell Bording,Det Konservative Folkeparti,6
+Gribskov,1,Blistrup,C_Michael_Frank_Hansen,Michael Frank Hansen,Det Konservative Folkeparti,4
+Gribskov,1,Blistrup,C_Lars_Christian_Bregnbak,Lars Christian Bregnbak,Det Konservative Folkeparti,5
+Gribskov,1,Blistrup,C_Kim_Thonsgaard,Kim Thonsgaard,Det Konservative Folkeparti,3
+Gribskov,1,Blistrup,C_Casper_Hannibal_Aistrup,Casper Hannibal Aistrup,Det Konservative Folkeparti,9
+Gribskov,1,Blistrup,C_Jens_Louis_Zwicky,Jens Louis Zwicky,Det Konservative Folkeparti,2
+Gribskov,1,Blistrup,C_Hasse_Højmark_Andersen,Hasse Højmark Andersen,Det Konservative Folkeparti,1
+Gribskov,1,Blistrup,D_Listestemmer,Listestemmer,Nye Borgerlige,65
+Gribskov,1,Blistrup,D_Kim_Hinrich_-_Helsinge,Kim Hinrich - Helsinge,Nye Borgerlige,35
+Gribskov,1,Blistrup,D_Zandra_Thulstrup_Pihl_-_Ørby,Zandra Thulstrup Pihl - Ørby,Nye Borgerlige,13
+Gribskov,1,Blistrup,D_Helle_Saugmann_Lund_-_Gilleleje,Helle Saugmann Lund - Gilleleje,Nye Borgerlige,46
+Gribskov,1,Blistrup,D_Thomas_Thorby_Bang_-_Helsinge,Thomas Thorby Bang - Helsinge,Nye Borgerlige,7
+Gribskov,1,Blistrup,D_Rasmus_Kaspar_Jensen_-_Annisse,Rasmus Kaspar Jensen - Annisse,Nye Borgerlige,7
+Gribskov,1,Blistrup,D_Leif_Krøyer_-_Græsted,Leif Krøyer - Græsted,Nye Borgerlige,2
+Gribskov,1,Blistrup,D_Peter_Sørensen_-_Mårum,Peter Sørensen - Mårum,Nye Borgerlige,5
+Gribskov,1,Blistrup,E_Listestemmer,Listestemmer,nytgribskov,68
+Gribskov,1,Blistrup,E_Anders_Gerner_Frost,Anders Gerner Frost,nytgribskov,125
+Gribskov,1,Blistrup,E_Pernille_Søndergaard,Pernille Søndergaard,nytgribskov,18
+Gribskov,1,Blistrup,E_Morten_Rohde_Klitgaard,Morten Rohde Klitgaard,nytgribskov,33
+Gribskov,1,Blistrup,E_Pernille_Kromann_Sams,Pernille Kromann Sams,nytgribskov,9
+Gribskov,1,Blistrup,E_Jesper_Hagen_Behrensdorff,Jesper Hagen Behrensdorff,nytgribskov,4
+Gribskov,1,Blistrup,E_Jonna_Hildur_Præst,Jonna Hildur Præst,nytgribskov,3
+Gribskov,1,Blistrup,E_Tonny_Nalepa_Jensen,Tonny Nalepa Jensen,nytgribskov,0
+Gribskov,1,Blistrup,E_Astrid_Franklin_Recinella,Astrid Franklin Recinella,nytgribskov,11
+Gribskov,1,Blistrup,E_Oliver_Hagen_Møllenberg,Oliver Hagen Møllenberg,nytgribskov,4
+Gribskov,1,Blistrup,E_Ceren_Sen,Ceren Sen,nytgribskov,2
+Gribskov,1,Blistrup,E_Thomas_Jung_Larsen,Thomas Jung Larsen,nytgribskov,25
+Gribskov,1,Blistrup,E_Janni_Bøgh_Olsen,Janni Bøgh Olsen,nytgribskov,8
+Gribskov,1,Blistrup,E_Jesper_Skibby,Jesper Skibby,nytgribskov,10
+Gribskov,1,Blistrup,E_Pernille_Albjerg_Sørensen,Pernille Albjerg Sørensen,nytgribskov,8
+Gribskov,1,Blistrup,E_Henrik_Magelund,Henrik Magelund,nytgribskov,1
+Gribskov,1,Blistrup,E_Andreas_Pedersen_Søegaard,Andreas Pedersen Søegaard,nytgribskov,2
+Gribskov,1,Blistrup,E_Flemming_Lund_Blixt,Flemming Lund Blixt,nytgribskov,0
+Gribskov,1,Blistrup,E_Allan_Sørensen,Allan Sørensen,nytgribskov,3
+Gribskov,1,Blistrup,E_Anders_Vilhelm_Grøndahl,Anders Vilhelm Grøndahl,nytgribskov,1
+Gribskov,1,Blistrup,E_Ole_Flemming_Krog,Ole Flemming Krog,nytgribskov,0
+Gribskov,1,Blistrup,E_Søren_Rosenkrantz_Maack,Søren Rosenkrantz Maack,nytgribskov,6
+Gribskov,1,Blistrup,E_Allan_Meyer_Petersen,Allan Meyer Petersen,nytgribskov,2
+Gribskov,1,Blistrup,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,54
+Gribskov,1,Blistrup,F_Jens_Rane_Holck_-_Tisvilde,Jens Rane Holck - Tisvilde,SF - Socialistisk Folkeparti,29
+Gribskov,1,Blistrup,F_Mathias_Arnvig_Zilberberg_-_Gillel,Mathias Arnvig Zilberberg - Gillel,SF - Socialistisk Folkeparti,56
+Gribskov,1,Blistrup,F_Kirsten_Rolfsager_-_Dr.Mølle,Kirsten Rolfsager - Dr.Mølle,SF - Socialistisk Folkeparti,6
+Gribskov,1,Blistrup,F_Susan_Kjeldgaard_-_Gilleleje,Susan Kjeldgaard - Gilleleje,SF - Socialistisk Folkeparti,30
+Gribskov,1,Blistrup,F_Jens_Ove_Hofmann_-_Helsinge,Jens Ove Hofmann - Helsinge,SF - Socialistisk Folkeparti,4
+Gribskov,1,Blistrup,F_Kirsten_Juul_-_Smidstrup_Strand,Kirsten Juul - Smidstrup Strand,SF - Socialistisk Folkeparti,8
+Gribskov,1,Blistrup,F_Lars_Kiilerich_Laustsen_-_Annisse,Lars Kiilerich Laustsen - Annisse,SF - Socialistisk Folkeparti,1
+Gribskov,1,Blistrup,F_Børge_Hermann_Sørensen_-_Gilleleje,Børge Hermann Sørensen - Gilleleje,SF - Socialistisk Folkeparti,0
+Gribskov,1,Blistrup,M_Listestemmer,Listestemmer,Klimapartiet i Gribskov,2
+Gribskov,1,Blistrup,M_Gert_Lassen,Gert Lassen,Klimapartiet i Gribskov,2
+Gribskov,1,Blistrup,O_Listestemmer,Listestemmer,Dansk Folkeparti,50
+Gribskov,1,Blistrup,O_Brian_Lyck_Jørgensen,Brian Lyck Jørgensen,Dansk Folkeparti,64
+Gribskov,1,Blistrup,O_Michael_Jens_Rerup,Michael Jens Rerup,Dansk Folkeparti,6
+Gribskov,1,Blistrup,O_Anja_Schlie,Anja Schlie,Dansk Folkeparti,16
+Gribskov,1,Blistrup,O_Keld_Lund,Keld Lund,Dansk Folkeparti,11
+Gribskov,1,Blistrup,O_Henrik_Bo_Hedelund,Henrik Bo Hedelund,Dansk Folkeparti,2
+Gribskov,1,Blistrup,O_Henrik_Jarl_Fugl,Henrik Jarl Fugl,Dansk Folkeparti,0
+Gribskov,1,Blistrup,O_Finn_Fredsgaard,Finn Fredsgaard,Dansk Folkeparti,1
+Gribskov,1,Blistrup,U_Listestemmer,Listestemmer,KultureltFokus,2
+Gribskov,1,Blistrup,U_Morten_Ulrik_Jørgensen,Morten Ulrik Jørgensen,KultureltFokus,9
+Gribskov,1,Blistrup,U_Helene_Bartram,Helene Bartram,KultureltFokus,1
+Gribskov,1,Blistrup,U_Steen_Ejler_Hasselby,Steen Ejler Hasselby,KultureltFokus,1
+Gribskov,1,Blistrup,U_Camilla_Nielsen,Camilla Nielsen,KultureltFokus,2
+Gribskov,1,Blistrup,U_Mikkel_Ramm,Mikkel Ramm,KultureltFokus,0
+Gribskov,1,Blistrup,U_Jeanette_Wachenschwantz,Jeanette Wachenschwantz,KultureltFokus,0
+Gribskov,1,Blistrup,U_Hanne_Jette_Brudholm,Hanne Jette Brudholm,KultureltFokus,1
+Gribskov,1,Blistrup,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",78
+Gribskov,1,Blistrup,V_Bent_Hansen,Bent Hansen,"Venstre, Danmarks Liberale Parti",117
+Gribskov,1,Blistrup,V_Kim_Valentin,Kim Valentin,"Venstre, Danmarks Liberale Parti",59
+Gribskov,1,Blistrup,V_Natasha_Elisabeth_A_S_H_Enetoft,Natasha Elisabeth A S H Enetoft,"Venstre, Danmarks Liberale Parti",11
+Gribskov,1,Blistrup,V_Tue_Villebro,Tue Villebro,"Venstre, Danmarks Liberale Parti",14
+Gribskov,1,Blistrup,V_Helle_Blomsterberg,Helle Blomsterberg,"Venstre, Danmarks Liberale Parti",18
+Gribskov,1,Blistrup,V_Jørgen_Emil_Simonsen,Jørgen Emil Simonsen,"Venstre, Danmarks Liberale Parti",17
+Gribskov,1,Blistrup,V_Sally_Schlichting,Sally Schlichting,"Venstre, Danmarks Liberale Parti",8
+Gribskov,1,Blistrup,V_Betty_Schachtschabel,Betty Schachtschabel,"Venstre, Danmarks Liberale Parti",7
+Gribskov,1,Blistrup,V_Steen_Pedersen,Steen Pedersen,"Venstre, Danmarks Liberale Parti",25
+Gribskov,1,Blistrup,V_Eskild_Beiter,Eskild Beiter,"Venstre, Danmarks Liberale Parti",5
+Gribskov,1,Blistrup,V_Bill_Petersen_Kaae,Bill Petersen Kaae,"Venstre, Danmarks Liberale Parti",5
+Gribskov,1,Blistrup,V_Johnny_Braginski,Johnny Braginski,"Venstre, Danmarks Liberale Parti",0
+Gribskov,1,Blistrup,V_Carl-Børge_Christiansen,Carl-Børge Christiansen,"Venstre, Danmarks Liberale Parti",4
+Gribskov,1,Blistrup,V_Viola_Mathiasen,Viola Mathiasen,"Venstre, Danmarks Liberale Parti",3
+Gribskov,1,Blistrup,V_Pia_Mørz,Pia Mørz,"Venstre, Danmarks Liberale Parti",3
+Gribskov,1,Blistrup,V_Flemming_Steen_Munch,Flemming Steen Munch,"Venstre, Danmarks Liberale Parti",15
+Gribskov,1,Blistrup,V_Jannich_Birger_Petersen,Jannich Birger Petersen,"Venstre, Danmarks Liberale Parti",101
+Gribskov,1,Blistrup,V_Birgit_Jette_Roswall,Birgit Jette Roswall,"Venstre, Danmarks Liberale Parti",62
+Gribskov,1,Blistrup,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,48
+Gribskov,1,Blistrup,Ø_Michael_Hemming_Nielsen_-_Gillelej,Michael Hemming Nielsen - Gillelej,Enhedslisten - De Rød-Grønne,24
+Gribskov,1,Blistrup,Ø_Niels_Arne_Würgler_-_Dr._Mølle,Niels Arne Würgler - Dr. Mølle,Enhedslisten - De Rød-Grønne,13
+Gribskov,1,Blistrup,Ø_Annie_Hagel_-_Gilleleje,Annie Hagel - Gilleleje,Enhedslisten - De Rød-Grønne,15
+Gribskov,1,Blistrup,Ø_Christine_Karlinsky_Scherfig_-_Græ,Christine Karlinsky Scherfig - Græ,Enhedslisten - De Rød-Grønne,5
+Gribskov,1,Blistrup,Ø_Jørgen_Sidenius_Strøm_-_Tisvildele,Jørgen Sidenius Strøm - Tisvildele,Enhedslisten - De Rød-Grønne,5
+Gribskov,1,Blistrup,Ø_Jette_Borgvold_Hansen_-_Gilleleje,Jette Borgvold Hansen - Gilleleje,Enhedslisten - De Rød-Grønne,0
+Gribskov,1,Blistrup,Ø_Kurt_Øland_Schimmell_-_Dr._Mølle,Kurt Øland Schimmell - Dr. Mølle,Enhedslisten - De Rød-Grønne,0
+Gribskov,1,Blistrup,Ø_Claus_Nedenskov_-_Gilleleje,Claus Nedenskov - Gilleleje,Enhedslisten - De Rød-Grønne,0
+Gribskov,1,Blistrup,Å_Listestemmer,Listestemmer,Alternativet,0
+Gribskov,1,Blistrup,Å_Maud_Margrethe_Pedersen,Maud Margrethe Pedersen,Alternativet,13
+Gribskov,2,Esbønderup,A_Listestemmer,Listestemmer,Socialdemokratiet,117
+Gribskov,2,Esbønderup,A_Morten_Dahlberg_Nielsen,Morten Dahlberg Nielsen,Socialdemokratiet,34
+Gribskov,2,Esbønderup,A_Allan_Nielsen,Allan Nielsen,Socialdemokratiet,12
+Gribskov,2,Esbønderup,A_Pia_Elly_Godsted_Foght,Pia Elly Godsted Foght,Socialdemokratiet,32
+Gribskov,2,Esbønderup,A_Mette_Marianne_Tolstrup,Mette Marianne Tolstrup,Socialdemokratiet,15
+Gribskov,2,Esbønderup,A_Jannik_Lyng_Petersen,Jannik Lyng Petersen,Socialdemokratiet,0
+Gribskov,2,Esbønderup,A_Steffen_Dannemand_Goldschmidt,Steffen Dannemand Goldschmidt,Socialdemokratiet,8
+Gribskov,2,Esbønderup,A_Daniel_Tao_Faber_Threms,Daniel Tao Faber Threms,Socialdemokratiet,2
+Gribskov,2,Esbønderup,B_Listestemmer,Listestemmer,Radikale Venstre,21
+Gribskov,2,Esbønderup,B_Bo_Jul_Baandhagen_Nielsen_-_Gillel,Bo Jul Baandhagen Nielsen - Gillel,Radikale Venstre,32
+Gribskov,2,Esbønderup,B_Mette_Dollerup_-_Gilleleje,Mette Dollerup - Gilleleje,Radikale Venstre,8
+Gribskov,2,Esbønderup,B_Rikke_Vesterbæk_Heitmann_-_Græsted,Rikke Vesterbæk Heitmann - Græsted,Radikale Venstre,7
+Gribskov,2,Esbønderup,B_Thomas_Frandsen_-_Tisvildeleje,Thomas Frandsen - Tisvildeleje,Radikale Venstre,0
+Gribskov,2,Esbønderup,B_Jens_Peter_Hansen_-_Gilleleje,Jens Peter Hansen - Gilleleje,Radikale Venstre,1
+Gribskov,2,Esbønderup,B_Karl_Terpager_Andersen_-_Vejby,Karl Terpager Andersen - Vejby,Radikale Venstre,0
+Gribskov,2,Esbønderup,B_Frank_Skaarup_Slemming_-_Tinkerup,Frank Skaarup Slemming - Tinkerup,Radikale Venstre,0
+Gribskov,2,Esbønderup,B_Arne_Skovgaard_Nielsen_-_Helsinge,Arne Skovgaard Nielsen - Helsinge,Radikale Venstre,0
+Gribskov,2,Esbønderup,B_Søren_Bald_-_Tibirke_Sand,Søren Bald - Tibirke Sand,Radikale Venstre,1
+Gribskov,2,Esbønderup,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,105
+Gribskov,2,Esbønderup,C_Trine_Mette_Egetved-Sørensen,Trine Mette Egetved-Sørensen,Det Konservative Folkeparti,185
+Gribskov,2,Esbønderup,C_Lars_Nielsen,Lars Nielsen,Det Konservative Folkeparti,11
+Gribskov,2,Esbønderup,C_Samir_Maáli,Samir Maáli,Det Konservative Folkeparti,5
+Gribskov,2,Esbønderup,C_Daniel_Frigast,Daniel Frigast,Det Konservative Folkeparti,1
+Gribskov,2,Esbønderup,C_Helene_Elisabeth_F_Gerlykke-Dohn,Helene Elisabeth F Gerlykke-Dohn,Det Konservative Folkeparti,8
+Gribskov,2,Esbønderup,C_Simon_Johannes_Mortensen,Simon Johannes Mortensen,Det Konservative Folkeparti,3
+Gribskov,2,Esbønderup,C_Bertel_Dandanell_Bording,Bertel Dandanell Bording,Det Konservative Folkeparti,10
+Gribskov,2,Esbønderup,C_Michael_Frank_Hansen,Michael Frank Hansen,Det Konservative Folkeparti,0
+Gribskov,2,Esbønderup,C_Lars_Christian_Bregnbak,Lars Christian Bregnbak,Det Konservative Folkeparti,0
+Gribskov,2,Esbønderup,C_Kim_Thonsgaard,Kim Thonsgaard,Det Konservative Folkeparti,7
+Gribskov,2,Esbønderup,C_Casper_Hannibal_Aistrup,Casper Hannibal Aistrup,Det Konservative Folkeparti,1
+Gribskov,2,Esbønderup,C_Jens_Louis_Zwicky,Jens Louis Zwicky,Det Konservative Folkeparti,1
+Gribskov,2,Esbønderup,C_Hasse_Højmark_Andersen,Hasse Højmark Andersen,Det Konservative Folkeparti,0
+Gribskov,2,Esbønderup,D_Listestemmer,Listestemmer,Nye Borgerlige,52
+Gribskov,2,Esbønderup,D_Kim_Hinrich_-_Helsinge,Kim Hinrich - Helsinge,Nye Borgerlige,16
+Gribskov,2,Esbønderup,D_Zandra_Thulstrup_Pihl_-_Ørby,Zandra Thulstrup Pihl - Ørby,Nye Borgerlige,7
+Gribskov,2,Esbønderup,D_Helle_Saugmann_Lund_-_Gilleleje,Helle Saugmann Lund - Gilleleje,Nye Borgerlige,30
+Gribskov,2,Esbønderup,D_Thomas_Thorby_Bang_-_Helsinge,Thomas Thorby Bang - Helsinge,Nye Borgerlige,1
+Gribskov,2,Esbønderup,D_Rasmus_Kaspar_Jensen_-_Annisse,Rasmus Kaspar Jensen - Annisse,Nye Borgerlige,7
+Gribskov,2,Esbønderup,D_Leif_Krøyer_-_Græsted,Leif Krøyer - Græsted,Nye Borgerlige,8
+Gribskov,2,Esbønderup,D_Peter_Sørensen_-_Mårum,Peter Sørensen - Mårum,Nye Borgerlige,4
+Gribskov,2,Esbønderup,E_Listestemmer,Listestemmer,nytgribskov,41
+Gribskov,2,Esbønderup,E_Anders_Gerner_Frost,Anders Gerner Frost,nytgribskov,83
+Gribskov,2,Esbønderup,E_Pernille_Søndergaard,Pernille Søndergaard,nytgribskov,12
+Gribskov,2,Esbønderup,E_Morten_Rohde_Klitgaard,Morten Rohde Klitgaard,nytgribskov,4
+Gribskov,2,Esbønderup,E_Pernille_Kromann_Sams,Pernille Kromann Sams,nytgribskov,6
+Gribskov,2,Esbønderup,E_Jesper_Hagen_Behrensdorff,Jesper Hagen Behrensdorff,nytgribskov,18
+Gribskov,2,Esbønderup,E_Jonna_Hildur_Præst,Jonna Hildur Præst,nytgribskov,0
+Gribskov,2,Esbønderup,E_Tonny_Nalepa_Jensen,Tonny Nalepa Jensen,nytgribskov,5
+Gribskov,2,Esbønderup,E_Astrid_Franklin_Recinella,Astrid Franklin Recinella,nytgribskov,2
+Gribskov,2,Esbønderup,E_Oliver_Hagen_Møllenberg,Oliver Hagen Møllenberg,nytgribskov,6
+Gribskov,2,Esbønderup,E_Ceren_Sen,Ceren Sen,nytgribskov,2
+Gribskov,2,Esbønderup,E_Thomas_Jung_Larsen,Thomas Jung Larsen,nytgribskov,8
+Gribskov,2,Esbønderup,E_Janni_Bøgh_Olsen,Janni Bøgh Olsen,nytgribskov,6
+Gribskov,2,Esbønderup,E_Jesper_Skibby,Jesper Skibby,nytgribskov,3
+Gribskov,2,Esbønderup,E_Pernille_Albjerg_Sørensen,Pernille Albjerg Sørensen,nytgribskov,9
+Gribskov,2,Esbønderup,E_Henrik_Magelund,Henrik Magelund,nytgribskov,0
+Gribskov,2,Esbønderup,E_Andreas_Pedersen_Søegaard,Andreas Pedersen Søegaard,nytgribskov,1
+Gribskov,2,Esbønderup,E_Flemming_Lund_Blixt,Flemming Lund Blixt,nytgribskov,0
+Gribskov,2,Esbønderup,E_Allan_Sørensen,Allan Sørensen,nytgribskov,4
+Gribskov,2,Esbønderup,E_Anders_Vilhelm_Grøndahl,Anders Vilhelm Grøndahl,nytgribskov,1
+Gribskov,2,Esbønderup,E_Ole_Flemming_Krog,Ole Flemming Krog,nytgribskov,2
+Gribskov,2,Esbønderup,E_Søren_Rosenkrantz_Maack,Søren Rosenkrantz Maack,nytgribskov,3
+Gribskov,2,Esbønderup,E_Allan_Meyer_Petersen,Allan Meyer Petersen,nytgribskov,1
+Gribskov,2,Esbønderup,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,48
+Gribskov,2,Esbønderup,F_Jens_Rane_Holck_-_Tisvilde,Jens Rane Holck - Tisvilde,SF - Socialistisk Folkeparti,16
+Gribskov,2,Esbønderup,F_Mathias_Arnvig_Zilberberg_-_Gillel,Mathias Arnvig Zilberberg - Gillel,SF - Socialistisk Folkeparti,37
+Gribskov,2,Esbønderup,F_Kirsten_Rolfsager_-_Dr.Mølle,Kirsten Rolfsager - Dr.Mølle,SF - Socialistisk Folkeparti,28
+Gribskov,2,Esbønderup,F_Susan_Kjeldgaard_-_Gilleleje,Susan Kjeldgaard - Gilleleje,SF - Socialistisk Folkeparti,41
+Gribskov,2,Esbønderup,F_Jens_Ove_Hofmann_-_Helsinge,Jens Ove Hofmann - Helsinge,SF - Socialistisk Folkeparti,1
+Gribskov,2,Esbønderup,F_Kirsten_Juul_-_Smidstrup_Strand,Kirsten Juul - Smidstrup Strand,SF - Socialistisk Folkeparti,3
+Gribskov,2,Esbønderup,F_Lars_Kiilerich_Laustsen_-_Annisse,Lars Kiilerich Laustsen - Annisse,SF - Socialistisk Folkeparti,2
+Gribskov,2,Esbønderup,F_Børge_Hermann_Sørensen_-_Gilleleje,Børge Hermann Sørensen - Gilleleje,SF - Socialistisk Folkeparti,3
+Gribskov,2,Esbønderup,M_Listestemmer,Listestemmer,Klimapartiet i Gribskov,2
+Gribskov,2,Esbønderup,M_Gert_Lassen,Gert Lassen,Klimapartiet i Gribskov,3
+Gribskov,2,Esbønderup,O_Listestemmer,Listestemmer,Dansk Folkeparti,26
+Gribskov,2,Esbønderup,O_Brian_Lyck_Jørgensen,Brian Lyck Jørgensen,Dansk Folkeparti,23
+Gribskov,2,Esbønderup,O_Michael_Jens_Rerup,Michael Jens Rerup,Dansk Folkeparti,2
+Gribskov,2,Esbønderup,O_Anja_Schlie,Anja Schlie,Dansk Folkeparti,11
+Gribskov,2,Esbønderup,O_Keld_Lund,Keld Lund,Dansk Folkeparti,1
+Gribskov,2,Esbønderup,O_Henrik_Bo_Hedelund,Henrik Bo Hedelund,Dansk Folkeparti,3
+Gribskov,2,Esbønderup,O_Henrik_Jarl_Fugl,Henrik Jarl Fugl,Dansk Folkeparti,0
+Gribskov,2,Esbønderup,O_Finn_Fredsgaard,Finn Fredsgaard,Dansk Folkeparti,1
+Gribskov,2,Esbønderup,U_Listestemmer,Listestemmer,KultureltFokus,1
+Gribskov,2,Esbønderup,U_Morten_Ulrik_Jørgensen,Morten Ulrik Jørgensen,KultureltFokus,4
+Gribskov,2,Esbønderup,U_Helene_Bartram,Helene Bartram,KultureltFokus,2
+Gribskov,2,Esbønderup,U_Steen_Ejler_Hasselby,Steen Ejler Hasselby,KultureltFokus,3
+Gribskov,2,Esbønderup,U_Camilla_Nielsen,Camilla Nielsen,KultureltFokus,1
+Gribskov,2,Esbønderup,U_Mikkel_Ramm,Mikkel Ramm,KultureltFokus,0
+Gribskov,2,Esbønderup,U_Jeanette_Wachenschwantz,Jeanette Wachenschwantz,KultureltFokus,1
+Gribskov,2,Esbønderup,U_Hanne_Jette_Brudholm,Hanne Jette Brudholm,KultureltFokus,3
+Gribskov,2,Esbønderup,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",62
+Gribskov,2,Esbønderup,V_Bent_Hansen,Bent Hansen,"Venstre, Danmarks Liberale Parti",67
+Gribskov,2,Esbønderup,V_Kim_Valentin,Kim Valentin,"Venstre, Danmarks Liberale Parti",33
+Gribskov,2,Esbønderup,V_Natasha_Elisabeth_A_S_H_Enetoft,Natasha Elisabeth A S H Enetoft,"Venstre, Danmarks Liberale Parti",4
+Gribskov,2,Esbønderup,V_Tue_Villebro,Tue Villebro,"Venstre, Danmarks Liberale Parti",14
+Gribskov,2,Esbønderup,V_Helle_Blomsterberg,Helle Blomsterberg,"Venstre, Danmarks Liberale Parti",9
+Gribskov,2,Esbønderup,V_Jørgen_Emil_Simonsen,Jørgen Emil Simonsen,"Venstre, Danmarks Liberale Parti",15
+Gribskov,2,Esbønderup,V_Sally_Schlichting,Sally Schlichting,"Venstre, Danmarks Liberale Parti",15
+Gribskov,2,Esbønderup,V_Betty_Schachtschabel,Betty Schachtschabel,"Venstre, Danmarks Liberale Parti",0
+Gribskov,2,Esbønderup,V_Steen_Pedersen,Steen Pedersen,"Venstre, Danmarks Liberale Parti",6
+Gribskov,2,Esbønderup,V_Eskild_Beiter,Eskild Beiter,"Venstre, Danmarks Liberale Parti",1
+Gribskov,2,Esbønderup,V_Bill_Petersen_Kaae,Bill Petersen Kaae,"Venstre, Danmarks Liberale Parti",1
+Gribskov,2,Esbønderup,V_Johnny_Braginski,Johnny Braginski,"Venstre, Danmarks Liberale Parti",1
+Gribskov,2,Esbønderup,V_Carl-Børge_Christiansen,Carl-Børge Christiansen,"Venstre, Danmarks Liberale Parti",7
+Gribskov,2,Esbønderup,V_Viola_Mathiasen,Viola Mathiasen,"Venstre, Danmarks Liberale Parti",2
+Gribskov,2,Esbønderup,V_Pia_Mørz,Pia Mørz,"Venstre, Danmarks Liberale Parti",1
+Gribskov,2,Esbønderup,V_Flemming_Steen_Munch,Flemming Steen Munch,"Venstre, Danmarks Liberale Parti",5
+Gribskov,2,Esbønderup,V_Jannich_Birger_Petersen,Jannich Birger Petersen,"Venstre, Danmarks Liberale Parti",33
+Gribskov,2,Esbønderup,V_Birgit_Jette_Roswall,Birgit Jette Roswall,"Venstre, Danmarks Liberale Parti",9
+Gribskov,2,Esbønderup,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,51
+Gribskov,2,Esbønderup,Ø_Michael_Hemming_Nielsen_-_Gillelej,Michael Hemming Nielsen - Gillelej,Enhedslisten - De Rød-Grønne,16
+Gribskov,2,Esbønderup,Ø_Niels_Arne_Würgler_-_Dr._Mølle,Niels Arne Würgler - Dr. Mølle,Enhedslisten - De Rød-Grønne,25
+Gribskov,2,Esbønderup,Ø_Annie_Hagel_-_Gilleleje,Annie Hagel - Gilleleje,Enhedslisten - De Rød-Grønne,13
+Gribskov,2,Esbønderup,Ø_Christine_Karlinsky_Scherfig_-_Græ,Christine Karlinsky Scherfig - Græ,Enhedslisten - De Rød-Grønne,10
+Gribskov,2,Esbønderup,Ø_Jørgen_Sidenius_Strøm_-_Tisvildele,Jørgen Sidenius Strøm - Tisvildele,Enhedslisten - De Rød-Grønne,1
+Gribskov,2,Esbønderup,Ø_Jette_Borgvold_Hansen_-_Gilleleje,Jette Borgvold Hansen - Gilleleje,Enhedslisten - De Rød-Grønne,1
+Gribskov,2,Esbønderup,Ø_Kurt_Øland_Schimmell_-_Dr._Mølle,Kurt Øland Schimmell - Dr. Mølle,Enhedslisten - De Rød-Grønne,4
+Gribskov,2,Esbønderup,Ø_Claus_Nedenskov_-_Gilleleje,Claus Nedenskov - Gilleleje,Enhedslisten - De Rød-Grønne,1
+Gribskov,2,Esbønderup,Å_Listestemmer,Listestemmer,Alternativet,9
+Gribskov,2,Esbønderup,Å_Maud_Margrethe_Pedersen,Maud Margrethe Pedersen,Alternativet,56
+Gribskov,3,Valby,A_Listestemmer,Listestemmer,Socialdemokratiet,15
+Gribskov,3,Valby,A_Morten_Dahlberg_Nielsen,Morten Dahlberg Nielsen,Socialdemokratiet,2
+Gribskov,3,Valby,A_Allan_Nielsen,Allan Nielsen,Socialdemokratiet,4
+Gribskov,3,Valby,A_Pia_Elly_Godsted_Foght,Pia Elly Godsted Foght,Socialdemokratiet,4
+Gribskov,3,Valby,A_Mette_Marianne_Tolstrup,Mette Marianne Tolstrup,Socialdemokratiet,2
+Gribskov,3,Valby,A_Jannik_Lyng_Petersen,Jannik Lyng Petersen,Socialdemokratiet,0
+Gribskov,3,Valby,A_Steffen_Dannemand_Goldschmidt,Steffen Dannemand Goldschmidt,Socialdemokratiet,0
+Gribskov,3,Valby,A_Daniel_Tao_Faber_Threms,Daniel Tao Faber Threms,Socialdemokratiet,0
+Gribskov,3,Valby,B_Listestemmer,Listestemmer,Radikale Venstre,4
+Gribskov,3,Valby,B_Bo_Jul_Baandhagen_Nielsen_-_Gillel,Bo Jul Baandhagen Nielsen - Gillel,Radikale Venstre,3
+Gribskov,3,Valby,B_Mette_Dollerup_-_Gilleleje,Mette Dollerup - Gilleleje,Radikale Venstre,2
+Gribskov,3,Valby,B_Rikke_Vesterbæk_Heitmann_-_Græsted,Rikke Vesterbæk Heitmann - Græsted,Radikale Venstre,1
+Gribskov,3,Valby,B_Thomas_Frandsen_-_Tisvildeleje,Thomas Frandsen - Tisvildeleje,Radikale Venstre,0
+Gribskov,3,Valby,B_Jens_Peter_Hansen_-_Gilleleje,Jens Peter Hansen - Gilleleje,Radikale Venstre,0
+Gribskov,3,Valby,B_Karl_Terpager_Andersen_-_Vejby,Karl Terpager Andersen - Vejby,Radikale Venstre,1
+Gribskov,3,Valby,B_Frank_Skaarup_Slemming_-_Tinkerup,Frank Skaarup Slemming - Tinkerup,Radikale Venstre,0
+Gribskov,3,Valby,B_Arne_Skovgaard_Nielsen_-_Helsinge,Arne Skovgaard Nielsen - Helsinge,Radikale Venstre,1
+Gribskov,3,Valby,B_Søren_Bald_-_Tibirke_Sand,Søren Bald - Tibirke Sand,Radikale Venstre,0
+Gribskov,3,Valby,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,16
+Gribskov,3,Valby,C_Trine_Mette_Egetved-Sørensen,Trine Mette Egetved-Sørensen,Det Konservative Folkeparti,37
+Gribskov,3,Valby,C_Lars_Nielsen,Lars Nielsen,Det Konservative Folkeparti,0
+Gribskov,3,Valby,C_Samir_Maáli,Samir Maáli,Det Konservative Folkeparti,0
+Gribskov,3,Valby,C_Daniel_Frigast,Daniel Frigast,Det Konservative Folkeparti,0
+Gribskov,3,Valby,C_Helene_Elisabeth_F_Gerlykke-Dohn,Helene Elisabeth F Gerlykke-Dohn,Det Konservative Folkeparti,1
+Gribskov,3,Valby,C_Simon_Johannes_Mortensen,Simon Johannes Mortensen,Det Konservative Folkeparti,2
+Gribskov,3,Valby,C_Bertel_Dandanell_Bording,Bertel Dandanell Bording,Det Konservative Folkeparti,2
+Gribskov,3,Valby,C_Michael_Frank_Hansen,Michael Frank Hansen,Det Konservative Folkeparti,0
+Gribskov,3,Valby,C_Lars_Christian_Bregnbak,Lars Christian Bregnbak,Det Konservative Folkeparti,0
+Gribskov,3,Valby,C_Kim_Thonsgaard,Kim Thonsgaard,Det Konservative Folkeparti,1
+Gribskov,3,Valby,C_Casper_Hannibal_Aistrup,Casper Hannibal Aistrup,Det Konservative Folkeparti,0
+Gribskov,3,Valby,C_Jens_Louis_Zwicky,Jens Louis Zwicky,Det Konservative Folkeparti,0
+Gribskov,3,Valby,C_Hasse_Højmark_Andersen,Hasse Højmark Andersen,Det Konservative Folkeparti,0
+Gribskov,3,Valby,D_Listestemmer,Listestemmer,Nye Borgerlige,8
+Gribskov,3,Valby,D_Kim_Hinrich_-_Helsinge,Kim Hinrich - Helsinge,Nye Borgerlige,5
+Gribskov,3,Valby,D_Zandra_Thulstrup_Pihl_-_Ørby,Zandra Thulstrup Pihl - Ørby,Nye Borgerlige,1
+Gribskov,3,Valby,D_Helle_Saugmann_Lund_-_Gilleleje,Helle Saugmann Lund - Gilleleje,Nye Borgerlige,5
+Gribskov,3,Valby,D_Thomas_Thorby_Bang_-_Helsinge,Thomas Thorby Bang - Helsinge,Nye Borgerlige,4
+Gribskov,3,Valby,D_Rasmus_Kaspar_Jensen_-_Annisse,Rasmus Kaspar Jensen - Annisse,Nye Borgerlige,0
+Gribskov,3,Valby,D_Leif_Krøyer_-_Græsted,Leif Krøyer - Græsted,Nye Borgerlige,0
+Gribskov,3,Valby,D_Peter_Sørensen_-_Mårum,Peter Sørensen - Mårum,Nye Borgerlige,0
+Gribskov,3,Valby,E_Listestemmer,Listestemmer,nytgribskov,13
+Gribskov,3,Valby,E_Anders_Gerner_Frost,Anders Gerner Frost,nytgribskov,17
+Gribskov,3,Valby,E_Pernille_Søndergaard,Pernille Søndergaard,nytgribskov,1
+Gribskov,3,Valby,E_Morten_Rohde_Klitgaard,Morten Rohde Klitgaard,nytgribskov,0
+Gribskov,3,Valby,E_Pernille_Kromann_Sams,Pernille Kromann Sams,nytgribskov,3
+Gribskov,3,Valby,E_Jesper_Hagen_Behrensdorff,Jesper Hagen Behrensdorff,nytgribskov,1
+Gribskov,3,Valby,E_Jonna_Hildur_Præst,Jonna Hildur Præst,nytgribskov,0
+Gribskov,3,Valby,E_Tonny_Nalepa_Jensen,Tonny Nalepa Jensen,nytgribskov,3
+Gribskov,3,Valby,E_Astrid_Franklin_Recinella,Astrid Franklin Recinella,nytgribskov,4
+Gribskov,3,Valby,E_Oliver_Hagen_Møllenberg,Oliver Hagen Møllenberg,nytgribskov,0
+Gribskov,3,Valby,E_Ceren_Sen,Ceren Sen,nytgribskov,1
+Gribskov,3,Valby,E_Thomas_Jung_Larsen,Thomas Jung Larsen,nytgribskov,2
+Gribskov,3,Valby,E_Janni_Bøgh_Olsen,Janni Bøgh Olsen,nytgribskov,0
+Gribskov,3,Valby,E_Jesper_Skibby,Jesper Skibby,nytgribskov,1
+Gribskov,3,Valby,E_Pernille_Albjerg_Sørensen,Pernille Albjerg Sørensen,nytgribskov,0
+Gribskov,3,Valby,E_Henrik_Magelund,Henrik Magelund,nytgribskov,0
+Gribskov,3,Valby,E_Andreas_Pedersen_Søegaard,Andreas Pedersen Søegaard,nytgribskov,0
+Gribskov,3,Valby,E_Flemming_Lund_Blixt,Flemming Lund Blixt,nytgribskov,0
+Gribskov,3,Valby,E_Allan_Sørensen,Allan Sørensen,nytgribskov,1
+Gribskov,3,Valby,E_Anders_Vilhelm_Grøndahl,Anders Vilhelm Grøndahl,nytgribskov,0
+Gribskov,3,Valby,E_Ole_Flemming_Krog,Ole Flemming Krog,nytgribskov,0
+Gribskov,3,Valby,E_Søren_Rosenkrantz_Maack,Søren Rosenkrantz Maack,nytgribskov,0
+Gribskov,3,Valby,E_Allan_Meyer_Petersen,Allan Meyer Petersen,nytgribskov,0
+Gribskov,3,Valby,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,11
+Gribskov,3,Valby,F_Jens_Rane_Holck_-_Tisvilde,Jens Rane Holck - Tisvilde,SF - Socialistisk Folkeparti,9
+Gribskov,3,Valby,F_Mathias_Arnvig_Zilberberg_-_Gillel,Mathias Arnvig Zilberberg - Gillel,SF - Socialistisk Folkeparti,7
+Gribskov,3,Valby,F_Kirsten_Rolfsager_-_Dr.Mølle,Kirsten Rolfsager - Dr.Mølle,SF - Socialistisk Folkeparti,2
+Gribskov,3,Valby,F_Susan_Kjeldgaard_-_Gilleleje,Susan Kjeldgaard - Gilleleje,SF - Socialistisk Folkeparti,8
+Gribskov,3,Valby,F_Jens_Ove_Hofmann_-_Helsinge,Jens Ove Hofmann - Helsinge,SF - Socialistisk Folkeparti,0
+Gribskov,3,Valby,F_Kirsten_Juul_-_Smidstrup_Strand,Kirsten Juul - Smidstrup Strand,SF - Socialistisk Folkeparti,0
+Gribskov,3,Valby,F_Lars_Kiilerich_Laustsen_-_Annisse,Lars Kiilerich Laustsen - Annisse,SF - Socialistisk Folkeparti,0
+Gribskov,3,Valby,F_Børge_Hermann_Sørensen_-_Gilleleje,Børge Hermann Sørensen - Gilleleje,SF - Socialistisk Folkeparti,1
+Gribskov,3,Valby,M_Listestemmer,Listestemmer,Klimapartiet i Gribskov,1
+Gribskov,3,Valby,M_Gert_Lassen,Gert Lassen,Klimapartiet i Gribskov,1
+Gribskov,3,Valby,O_Listestemmer,Listestemmer,Dansk Folkeparti,4
+Gribskov,3,Valby,O_Brian_Lyck_Jørgensen,Brian Lyck Jørgensen,Dansk Folkeparti,1
+Gribskov,3,Valby,O_Michael_Jens_Rerup,Michael Jens Rerup,Dansk Folkeparti,0
+Gribskov,3,Valby,O_Anja_Schlie,Anja Schlie,Dansk Folkeparti,1
+Gribskov,3,Valby,O_Keld_Lund,Keld Lund,Dansk Folkeparti,0
+Gribskov,3,Valby,O_Henrik_Bo_Hedelund,Henrik Bo Hedelund,Dansk Folkeparti,2
+Gribskov,3,Valby,O_Henrik_Jarl_Fugl,Henrik Jarl Fugl,Dansk Folkeparti,0
+Gribskov,3,Valby,O_Finn_Fredsgaard,Finn Fredsgaard,Dansk Folkeparti,0
+Gribskov,3,Valby,U_Listestemmer,Listestemmer,KultureltFokus,1
+Gribskov,3,Valby,U_Morten_Ulrik_Jørgensen,Morten Ulrik Jørgensen,KultureltFokus,1
+Gribskov,3,Valby,U_Helene_Bartram,Helene Bartram,KultureltFokus,0
+Gribskov,3,Valby,U_Steen_Ejler_Hasselby,Steen Ejler Hasselby,KultureltFokus,0
+Gribskov,3,Valby,U_Camilla_Nielsen,Camilla Nielsen,KultureltFokus,0
+Gribskov,3,Valby,U_Mikkel_Ramm,Mikkel Ramm,KultureltFokus,0
+Gribskov,3,Valby,U_Jeanette_Wachenschwantz,Jeanette Wachenschwantz,KultureltFokus,0
+Gribskov,3,Valby,U_Hanne_Jette_Brudholm,Hanne Jette Brudholm,KultureltFokus,0
+Gribskov,3,Valby,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",19
+Gribskov,3,Valby,V_Bent_Hansen,Bent Hansen,"Venstre, Danmarks Liberale Parti",27
+Gribskov,3,Valby,V_Kim_Valentin,Kim Valentin,"Venstre, Danmarks Liberale Parti",7
+Gribskov,3,Valby,V_Natasha_Elisabeth_A_S_H_Enetoft,Natasha Elisabeth A S H Enetoft,"Venstre, Danmarks Liberale Parti",1
+Gribskov,3,Valby,V_Tue_Villebro,Tue Villebro,"Venstre, Danmarks Liberale Parti",6
+Gribskov,3,Valby,V_Helle_Blomsterberg,Helle Blomsterberg,"Venstre, Danmarks Liberale Parti",6
+Gribskov,3,Valby,V_Jørgen_Emil_Simonsen,Jørgen Emil Simonsen,"Venstre, Danmarks Liberale Parti",3
+Gribskov,3,Valby,V_Sally_Schlichting,Sally Schlichting,"Venstre, Danmarks Liberale Parti",2
+Gribskov,3,Valby,V_Betty_Schachtschabel,Betty Schachtschabel,"Venstre, Danmarks Liberale Parti",0
+Gribskov,3,Valby,V_Steen_Pedersen,Steen Pedersen,"Venstre, Danmarks Liberale Parti",5
+Gribskov,3,Valby,V_Eskild_Beiter,Eskild Beiter,"Venstre, Danmarks Liberale Parti",0
+Gribskov,3,Valby,V_Bill_Petersen_Kaae,Bill Petersen Kaae,"Venstre, Danmarks Liberale Parti",0
+Gribskov,3,Valby,V_Johnny_Braginski,Johnny Braginski,"Venstre, Danmarks Liberale Parti",0
+Gribskov,3,Valby,V_Carl-Børge_Christiansen,Carl-Børge Christiansen,"Venstre, Danmarks Liberale Parti",12
+Gribskov,3,Valby,V_Viola_Mathiasen,Viola Mathiasen,"Venstre, Danmarks Liberale Parti",1
+Gribskov,3,Valby,V_Pia_Mørz,Pia Mørz,"Venstre, Danmarks Liberale Parti",0
+Gribskov,3,Valby,V_Flemming_Steen_Munch,Flemming Steen Munch,"Venstre, Danmarks Liberale Parti",0
+Gribskov,3,Valby,V_Jannich_Birger_Petersen,Jannich Birger Petersen,"Venstre, Danmarks Liberale Parti",2
+Gribskov,3,Valby,V_Birgit_Jette_Roswall,Birgit Jette Roswall,"Venstre, Danmarks Liberale Parti",1
+Gribskov,3,Valby,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,8
+Gribskov,3,Valby,Ø_Michael_Hemming_Nielsen_-_Gillelej,Michael Hemming Nielsen - Gillelej,Enhedslisten - De Rød-Grønne,3
+Gribskov,3,Valby,Ø_Niels_Arne_Würgler_-_Dr._Mølle,Niels Arne Würgler - Dr. Mølle,Enhedslisten - De Rød-Grønne,7
+Gribskov,3,Valby,Ø_Annie_Hagel_-_Gilleleje,Annie Hagel - Gilleleje,Enhedslisten - De Rød-Grønne,1
+Gribskov,3,Valby,Ø_Christine_Karlinsky_Scherfig_-_Græ,Christine Karlinsky Scherfig - Græ,Enhedslisten - De Rød-Grønne,1
+Gribskov,3,Valby,Ø_Jørgen_Sidenius_Strøm_-_Tisvildele,Jørgen Sidenius Strøm - Tisvildele,Enhedslisten - De Rød-Grønne,0
+Gribskov,3,Valby,Ø_Jette_Borgvold_Hansen_-_Gilleleje,Jette Borgvold Hansen - Gilleleje,Enhedslisten - De Rød-Grønne,0
+Gribskov,3,Valby,Ø_Kurt_Øland_Schimmell_-_Dr._Mølle,Kurt Øland Schimmell - Dr. Mølle,Enhedslisten - De Rød-Grønne,0
+Gribskov,3,Valby,Ø_Claus_Nedenskov_-_Gilleleje,Claus Nedenskov - Gilleleje,Enhedslisten - De Rød-Grønne,0
+Gribskov,3,Valby,Å_Listestemmer,Listestemmer,Alternativet,1
+Gribskov,3,Valby,Å_Maud_Margrethe_Pedersen,Maud Margrethe Pedersen,Alternativet,3
+Gribskov,4,Græsted,A_Listestemmer,Listestemmer,Socialdemokratiet,147
+Gribskov,4,Græsted,A_Morten_Dahlberg_Nielsen,Morten Dahlberg Nielsen,Socialdemokratiet,63
+Gribskov,4,Græsted,A_Allan_Nielsen,Allan Nielsen,Socialdemokratiet,23
+Gribskov,4,Græsted,A_Pia_Elly_Godsted_Foght,Pia Elly Godsted Foght,Socialdemokratiet,38
+Gribskov,4,Græsted,A_Mette_Marianne_Tolstrup,Mette Marianne Tolstrup,Socialdemokratiet,20
+Gribskov,4,Græsted,A_Jannik_Lyng_Petersen,Jannik Lyng Petersen,Socialdemokratiet,6
+Gribskov,4,Græsted,A_Steffen_Dannemand_Goldschmidt,Steffen Dannemand Goldschmidt,Socialdemokratiet,28
+Gribskov,4,Græsted,A_Daniel_Tao_Faber_Threms,Daniel Tao Faber Threms,Socialdemokratiet,7
+Gribskov,4,Græsted,B_Listestemmer,Listestemmer,Radikale Venstre,22
+Gribskov,4,Græsted,B_Bo_Jul_Baandhagen_Nielsen_-_Gillel,Bo Jul Baandhagen Nielsen - Gillel,Radikale Venstre,49
+Gribskov,4,Græsted,B_Mette_Dollerup_-_Gilleleje,Mette Dollerup - Gilleleje,Radikale Venstre,5
+Gribskov,4,Græsted,B_Rikke_Vesterbæk_Heitmann_-_Græsted,Rikke Vesterbæk Heitmann - Græsted,Radikale Venstre,17
+Gribskov,4,Græsted,B_Thomas_Frandsen_-_Tisvildeleje,Thomas Frandsen - Tisvildeleje,Radikale Venstre,2
+Gribskov,4,Græsted,B_Jens_Peter_Hansen_-_Gilleleje,Jens Peter Hansen - Gilleleje,Radikale Venstre,0
+Gribskov,4,Græsted,B_Karl_Terpager_Andersen_-_Vejby,Karl Terpager Andersen - Vejby,Radikale Venstre,1
+Gribskov,4,Græsted,B_Frank_Skaarup_Slemming_-_Tinkerup,Frank Skaarup Slemming - Tinkerup,Radikale Venstre,0
+Gribskov,4,Græsted,B_Arne_Skovgaard_Nielsen_-_Helsinge,Arne Skovgaard Nielsen - Helsinge,Radikale Venstre,0
+Gribskov,4,Græsted,B_Søren_Bald_-_Tibirke_Sand,Søren Bald - Tibirke Sand,Radikale Venstre,1
+Gribskov,4,Græsted,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,131
+Gribskov,4,Græsted,C_Trine_Mette_Egetved-Sørensen,Trine Mette Egetved-Sørensen,Det Konservative Folkeparti,249
+Gribskov,4,Græsted,C_Lars_Nielsen,Lars Nielsen,Det Konservative Folkeparti,28
+Gribskov,4,Græsted,C_Samir_Maáli,Samir Maáli,Det Konservative Folkeparti,8
+Gribskov,4,Græsted,C_Daniel_Frigast,Daniel Frigast,Det Konservative Folkeparti,1
+Gribskov,4,Græsted,C_Helene_Elisabeth_F_Gerlykke-Dohn,Helene Elisabeth F Gerlykke-Dohn,Det Konservative Folkeparti,21
+Gribskov,4,Græsted,C_Simon_Johannes_Mortensen,Simon Johannes Mortensen,Det Konservative Folkeparti,8
+Gribskov,4,Græsted,C_Bertel_Dandanell_Bording,Bertel Dandanell Bording,Det Konservative Folkeparti,6
+Gribskov,4,Græsted,C_Michael_Frank_Hansen,Michael Frank Hansen,Det Konservative Folkeparti,3
+Gribskov,4,Græsted,C_Lars_Christian_Bregnbak,Lars Christian Bregnbak,Det Konservative Folkeparti,5
+Gribskov,4,Græsted,C_Kim_Thonsgaard,Kim Thonsgaard,Det Konservative Folkeparti,23
+Gribskov,4,Græsted,C_Casper_Hannibal_Aistrup,Casper Hannibal Aistrup,Det Konservative Folkeparti,6
+Gribskov,4,Græsted,C_Jens_Louis_Zwicky,Jens Louis Zwicky,Det Konservative Folkeparti,1
+Gribskov,4,Græsted,C_Hasse_Højmark_Andersen,Hasse Højmark Andersen,Det Konservative Folkeparti,0
+Gribskov,4,Græsted,D_Listestemmer,Listestemmer,Nye Borgerlige,84
+Gribskov,4,Græsted,D_Kim_Hinrich_-_Helsinge,Kim Hinrich - Helsinge,Nye Borgerlige,31
+Gribskov,4,Græsted,D_Zandra_Thulstrup_Pihl_-_Ørby,Zandra Thulstrup Pihl - Ørby,Nye Borgerlige,19
+Gribskov,4,Græsted,D_Helle_Saugmann_Lund_-_Gilleleje,Helle Saugmann Lund - Gilleleje,Nye Borgerlige,42
+Gribskov,4,Græsted,D_Thomas_Thorby_Bang_-_Helsinge,Thomas Thorby Bang - Helsinge,Nye Borgerlige,3
+Gribskov,4,Græsted,D_Rasmus_Kaspar_Jensen_-_Annisse,Rasmus Kaspar Jensen - Annisse,Nye Borgerlige,5
+Gribskov,4,Græsted,D_Leif_Krøyer_-_Græsted,Leif Krøyer - Græsted,Nye Borgerlige,19
+Gribskov,4,Græsted,D_Peter_Sørensen_-_Mårum,Peter Sørensen - Mårum,Nye Borgerlige,2
+Gribskov,4,Græsted,E_Listestemmer,Listestemmer,nytgribskov,70
+Gribskov,4,Græsted,E_Anders_Gerner_Frost,Anders Gerner Frost,nytgribskov,122
+Gribskov,4,Græsted,E_Pernille_Søndergaard,Pernille Søndergaard,nytgribskov,14
+Gribskov,4,Græsted,E_Morten_Rohde_Klitgaard,Morten Rohde Klitgaard,nytgribskov,9
+Gribskov,4,Græsted,E_Pernille_Kromann_Sams,Pernille Kromann Sams,nytgribskov,4
+Gribskov,4,Græsted,E_Jesper_Hagen_Behrensdorff,Jesper Hagen Behrensdorff,nytgribskov,5
+Gribskov,4,Græsted,E_Jonna_Hildur_Præst,Jonna Hildur Præst,nytgribskov,13
+Gribskov,4,Græsted,E_Tonny_Nalepa_Jensen,Tonny Nalepa Jensen,nytgribskov,4
+Gribskov,4,Græsted,E_Astrid_Franklin_Recinella,Astrid Franklin Recinella,nytgribskov,9
+Gribskov,4,Græsted,E_Oliver_Hagen_Møllenberg,Oliver Hagen Møllenberg,nytgribskov,7
+Gribskov,4,Græsted,E_Ceren_Sen,Ceren Sen,nytgribskov,3
+Gribskov,4,Græsted,E_Thomas_Jung_Larsen,Thomas Jung Larsen,nytgribskov,18
+Gribskov,4,Græsted,E_Janni_Bøgh_Olsen,Janni Bøgh Olsen,nytgribskov,2
+Gribskov,4,Græsted,E_Jesper_Skibby,Jesper Skibby,nytgribskov,6
+Gribskov,4,Græsted,E_Pernille_Albjerg_Sørensen,Pernille Albjerg Sørensen,nytgribskov,4
+Gribskov,4,Græsted,E_Henrik_Magelund,Henrik Magelund,nytgribskov,2
+Gribskov,4,Græsted,E_Andreas_Pedersen_Søegaard,Andreas Pedersen Søegaard,nytgribskov,1
+Gribskov,4,Græsted,E_Flemming_Lund_Blixt,Flemming Lund Blixt,nytgribskov,2
+Gribskov,4,Græsted,E_Allan_Sørensen,Allan Sørensen,nytgribskov,2
+Gribskov,4,Græsted,E_Anders_Vilhelm_Grøndahl,Anders Vilhelm Grøndahl,nytgribskov,1
+Gribskov,4,Græsted,E_Ole_Flemming_Krog,Ole Flemming Krog,nytgribskov,2
+Gribskov,4,Græsted,E_Søren_Rosenkrantz_Maack,Søren Rosenkrantz Maack,nytgribskov,7
+Gribskov,4,Græsted,E_Allan_Meyer_Petersen,Allan Meyer Petersen,nytgribskov,4
+Gribskov,4,Græsted,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,67
+Gribskov,4,Græsted,F_Jens_Rane_Holck_-_Tisvilde,Jens Rane Holck - Tisvilde,SF - Socialistisk Folkeparti,25
+Gribskov,4,Græsted,F_Mathias_Arnvig_Zilberberg_-_Gillel,Mathias Arnvig Zilberberg - Gillel,SF - Socialistisk Folkeparti,60
+Gribskov,4,Græsted,F_Kirsten_Rolfsager_-_Dr.Mølle,Kirsten Rolfsager - Dr.Mølle,SF - Socialistisk Folkeparti,9
+Gribskov,4,Græsted,F_Susan_Kjeldgaard_-_Gilleleje,Susan Kjeldgaard - Gilleleje,SF - Socialistisk Folkeparti,37
+Gribskov,4,Græsted,F_Jens_Ove_Hofmann_-_Helsinge,Jens Ove Hofmann - Helsinge,SF - Socialistisk Folkeparti,5
+Gribskov,4,Græsted,F_Kirsten_Juul_-_Smidstrup_Strand,Kirsten Juul - Smidstrup Strand,SF - Socialistisk Folkeparti,2
+Gribskov,4,Græsted,F_Lars_Kiilerich_Laustsen_-_Annisse,Lars Kiilerich Laustsen - Annisse,SF - Socialistisk Folkeparti,1
+Gribskov,4,Græsted,F_Børge_Hermann_Sørensen_-_Gilleleje,Børge Hermann Sørensen - Gilleleje,SF - Socialistisk Folkeparti,2
+Gribskov,4,Græsted,M_Listestemmer,Listestemmer,Klimapartiet i Gribskov,2
+Gribskov,4,Græsted,M_Gert_Lassen,Gert Lassen,Klimapartiet i Gribskov,3
+Gribskov,4,Græsted,O_Listestemmer,Listestemmer,Dansk Folkeparti,51
+Gribskov,4,Græsted,O_Brian_Lyck_Jørgensen,Brian Lyck Jørgensen,Dansk Folkeparti,55
+Gribskov,4,Græsted,O_Michael_Jens_Rerup,Michael Jens Rerup,Dansk Folkeparti,8
+Gribskov,4,Græsted,O_Anja_Schlie,Anja Schlie,Dansk Folkeparti,9
+Gribskov,4,Græsted,O_Keld_Lund,Keld Lund,Dansk Folkeparti,4
+Gribskov,4,Græsted,O_Henrik_Bo_Hedelund,Henrik Bo Hedelund,Dansk Folkeparti,2
+Gribskov,4,Græsted,O_Henrik_Jarl_Fugl,Henrik Jarl Fugl,Dansk Folkeparti,1
+Gribskov,4,Græsted,O_Finn_Fredsgaard,Finn Fredsgaard,Dansk Folkeparti,0
+Gribskov,4,Græsted,U_Listestemmer,Listestemmer,KultureltFokus,1
+Gribskov,4,Græsted,U_Morten_Ulrik_Jørgensen,Morten Ulrik Jørgensen,KultureltFokus,12
+Gribskov,4,Græsted,U_Helene_Bartram,Helene Bartram,KultureltFokus,3
+Gribskov,4,Græsted,U_Steen_Ejler_Hasselby,Steen Ejler Hasselby,KultureltFokus,1
+Gribskov,4,Græsted,U_Camilla_Nielsen,Camilla Nielsen,KultureltFokus,7
+Gribskov,4,Græsted,U_Mikkel_Ramm,Mikkel Ramm,KultureltFokus,1
+Gribskov,4,Græsted,U_Jeanette_Wachenschwantz,Jeanette Wachenschwantz,KultureltFokus,0
+Gribskov,4,Græsted,U_Hanne_Jette_Brudholm,Hanne Jette Brudholm,KultureltFokus,0
+Gribskov,4,Græsted,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",105
+Gribskov,4,Græsted,V_Bent_Hansen,Bent Hansen,"Venstre, Danmarks Liberale Parti",99
+Gribskov,4,Græsted,V_Kim_Valentin,Kim Valentin,"Venstre, Danmarks Liberale Parti",104
+Gribskov,4,Græsted,V_Natasha_Elisabeth_A_S_H_Enetoft,Natasha Elisabeth A S H Enetoft,"Venstre, Danmarks Liberale Parti",14
+Gribskov,4,Græsted,V_Tue_Villebro,Tue Villebro,"Venstre, Danmarks Liberale Parti",68
+Gribskov,4,Græsted,V_Helle_Blomsterberg,Helle Blomsterberg,"Venstre, Danmarks Liberale Parti",45
+Gribskov,4,Græsted,V_Jørgen_Emil_Simonsen,Jørgen Emil Simonsen,"Venstre, Danmarks Liberale Parti",33
+Gribskov,4,Græsted,V_Sally_Schlichting,Sally Schlichting,"Venstre, Danmarks Liberale Parti",9
+Gribskov,4,Græsted,V_Betty_Schachtschabel,Betty Schachtschabel,"Venstre, Danmarks Liberale Parti",9
+Gribskov,4,Græsted,V_Steen_Pedersen,Steen Pedersen,"Venstre, Danmarks Liberale Parti",19
+Gribskov,4,Græsted,V_Eskild_Beiter,Eskild Beiter,"Venstre, Danmarks Liberale Parti",24
+Gribskov,4,Græsted,V_Bill_Petersen_Kaae,Bill Petersen Kaae,"Venstre, Danmarks Liberale Parti",6
+Gribskov,4,Græsted,V_Johnny_Braginski,Johnny Braginski,"Venstre, Danmarks Liberale Parti",0
+Gribskov,4,Græsted,V_Carl-Børge_Christiansen,Carl-Børge Christiansen,"Venstre, Danmarks Liberale Parti",4
+Gribskov,4,Græsted,V_Viola_Mathiasen,Viola Mathiasen,"Venstre, Danmarks Liberale Parti",2
+Gribskov,4,Græsted,V_Pia_Mørz,Pia Mørz,"Venstre, Danmarks Liberale Parti",4
+Gribskov,4,Græsted,V_Flemming_Steen_Munch,Flemming Steen Munch,"Venstre, Danmarks Liberale Parti",6
+Gribskov,4,Græsted,V_Jannich_Birger_Petersen,Jannich Birger Petersen,"Venstre, Danmarks Liberale Parti",72
+Gribskov,4,Græsted,V_Birgit_Jette_Roswall,Birgit Jette Roswall,"Venstre, Danmarks Liberale Parti",7
+Gribskov,4,Græsted,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,66
+Gribskov,4,Græsted,Ø_Michael_Hemming_Nielsen_-_Gillelej,Michael Hemming Nielsen - Gillelej,Enhedslisten - De Rød-Grønne,21
+Gribskov,4,Græsted,Ø_Niels_Arne_Würgler_-_Dr._Mølle,Niels Arne Würgler - Dr. Mølle,Enhedslisten - De Rød-Grønne,7
+Gribskov,4,Græsted,Ø_Annie_Hagel_-_Gilleleje,Annie Hagel - Gilleleje,Enhedslisten - De Rød-Grønne,14
+Gribskov,4,Græsted,Ø_Christine_Karlinsky_Scherfig_-_Græ,Christine Karlinsky Scherfig - Græ,Enhedslisten - De Rød-Grønne,20
+Gribskov,4,Græsted,Ø_Jørgen_Sidenius_Strøm_-_Tisvildele,Jørgen Sidenius Strøm - Tisvildele,Enhedslisten - De Rød-Grønne,3
+Gribskov,4,Græsted,Ø_Jette_Borgvold_Hansen_-_Gilleleje,Jette Borgvold Hansen - Gilleleje,Enhedslisten - De Rød-Grønne,2
+Gribskov,4,Græsted,Ø_Kurt_Øland_Schimmell_-_Dr._Mølle,Kurt Øland Schimmell - Dr. Mølle,Enhedslisten - De Rød-Grønne,0
+Gribskov,4,Græsted,Ø_Claus_Nedenskov_-_Gilleleje,Claus Nedenskov - Gilleleje,Enhedslisten - De Rød-Grønne,1
+Gribskov,4,Græsted,Å_Listestemmer,Listestemmer,Alternativet,2
+Gribskov,4,Græsted,Å_Maud_Margrethe_Pedersen,Maud Margrethe Pedersen,Alternativet,9
+Gribskov,5,Annisse,A_Listestemmer,Listestemmer,Socialdemokratiet,54
+Gribskov,5,Annisse,A_Morten_Dahlberg_Nielsen,Morten Dahlberg Nielsen,Socialdemokratiet,21
+Gribskov,5,Annisse,A_Allan_Nielsen,Allan Nielsen,Socialdemokratiet,13
+Gribskov,5,Annisse,A_Pia_Elly_Godsted_Foght,Pia Elly Godsted Foght,Socialdemokratiet,33
+Gribskov,5,Annisse,A_Mette_Marianne_Tolstrup,Mette Marianne Tolstrup,Socialdemokratiet,8
+Gribskov,5,Annisse,A_Jannik_Lyng_Petersen,Jannik Lyng Petersen,Socialdemokratiet,0
+Gribskov,5,Annisse,A_Steffen_Dannemand_Goldschmidt,Steffen Dannemand Goldschmidt,Socialdemokratiet,10
+Gribskov,5,Annisse,A_Daniel_Tao_Faber_Threms,Daniel Tao Faber Threms,Socialdemokratiet,2
+Gribskov,5,Annisse,B_Listestemmer,Listestemmer,Radikale Venstre,16
+Gribskov,5,Annisse,B_Bo_Jul_Baandhagen_Nielsen_-_Gillel,Bo Jul Baandhagen Nielsen - Gillel,Radikale Venstre,16
+Gribskov,5,Annisse,B_Mette_Dollerup_-_Gilleleje,Mette Dollerup - Gilleleje,Radikale Venstre,4
+Gribskov,5,Annisse,B_Rikke_Vesterbæk_Heitmann_-_Græsted,Rikke Vesterbæk Heitmann - Græsted,Radikale Venstre,0
+Gribskov,5,Annisse,B_Thomas_Frandsen_-_Tisvildeleje,Thomas Frandsen - Tisvildeleje,Radikale Venstre,1
+Gribskov,5,Annisse,B_Jens_Peter_Hansen_-_Gilleleje,Jens Peter Hansen - Gilleleje,Radikale Venstre,0
+Gribskov,5,Annisse,B_Karl_Terpager_Andersen_-_Vejby,Karl Terpager Andersen - Vejby,Radikale Venstre,0
+Gribskov,5,Annisse,B_Frank_Skaarup_Slemming_-_Tinkerup,Frank Skaarup Slemming - Tinkerup,Radikale Venstre,0
+Gribskov,5,Annisse,B_Arne_Skovgaard_Nielsen_-_Helsinge,Arne Skovgaard Nielsen - Helsinge,Radikale Venstre,3
+Gribskov,5,Annisse,B_Søren_Bald_-_Tibirke_Sand,Søren Bald - Tibirke Sand,Radikale Venstre,0
+Gribskov,5,Annisse,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,79
+Gribskov,5,Annisse,C_Trine_Mette_Egetved-Sørensen,Trine Mette Egetved-Sørensen,Det Konservative Folkeparti,133
+Gribskov,5,Annisse,C_Lars_Nielsen,Lars Nielsen,Det Konservative Folkeparti,5
+Gribskov,5,Annisse,C_Samir_Maáli,Samir Maáli,Det Konservative Folkeparti,2
+Gribskov,5,Annisse,C_Daniel_Frigast,Daniel Frigast,Det Konservative Folkeparti,1
+Gribskov,5,Annisse,C_Helene_Elisabeth_F_Gerlykke-Dohn,Helene Elisabeth F Gerlykke-Dohn,Det Konservative Folkeparti,7
+Gribskov,5,Annisse,C_Simon_Johannes_Mortensen,Simon Johannes Mortensen,Det Konservative Folkeparti,8
+Gribskov,5,Annisse,C_Bertel_Dandanell_Bording,Bertel Dandanell Bording,Det Konservative Folkeparti,6
+Gribskov,5,Annisse,C_Michael_Frank_Hansen,Michael Frank Hansen,Det Konservative Folkeparti,0
+Gribskov,5,Annisse,C_Lars_Christian_Bregnbak,Lars Christian Bregnbak,Det Konservative Folkeparti,48
+Gribskov,5,Annisse,C_Kim_Thonsgaard,Kim Thonsgaard,Det Konservative Folkeparti,3
+Gribskov,5,Annisse,C_Casper_Hannibal_Aistrup,Casper Hannibal Aistrup,Det Konservative Folkeparti,10
+Gribskov,5,Annisse,C_Jens_Louis_Zwicky,Jens Louis Zwicky,Det Konservative Folkeparti,1
+Gribskov,5,Annisse,C_Hasse_Højmark_Andersen,Hasse Højmark Andersen,Det Konservative Folkeparti,0
+Gribskov,5,Annisse,D_Listestemmer,Listestemmer,Nye Borgerlige,35
+Gribskov,5,Annisse,D_Kim_Hinrich_-_Helsinge,Kim Hinrich - Helsinge,Nye Borgerlige,17
+Gribskov,5,Annisse,D_Zandra_Thulstrup_Pihl_-_Ørby,Zandra Thulstrup Pihl - Ørby,Nye Borgerlige,9
+Gribskov,5,Annisse,D_Helle_Saugmann_Lund_-_Gilleleje,Helle Saugmann Lund - Gilleleje,Nye Borgerlige,11
+Gribskov,5,Annisse,D_Thomas_Thorby_Bang_-_Helsinge,Thomas Thorby Bang - Helsinge,Nye Borgerlige,3
+Gribskov,5,Annisse,D_Rasmus_Kaspar_Jensen_-_Annisse,Rasmus Kaspar Jensen - Annisse,Nye Borgerlige,14
+Gribskov,5,Annisse,D_Leif_Krøyer_-_Græsted,Leif Krøyer - Græsted,Nye Borgerlige,0
+Gribskov,5,Annisse,D_Peter_Sørensen_-_Mårum,Peter Sørensen - Mårum,Nye Borgerlige,1
+Gribskov,5,Annisse,E_Listestemmer,Listestemmer,nytgribskov,51
+Gribskov,5,Annisse,E_Anders_Gerner_Frost,Anders Gerner Frost,nytgribskov,103
+Gribskov,5,Annisse,E_Pernille_Søndergaard,Pernille Søndergaard,nytgribskov,38
+Gribskov,5,Annisse,E_Morten_Rohde_Klitgaard,Morten Rohde Klitgaard,nytgribskov,5
+Gribskov,5,Annisse,E_Pernille_Kromann_Sams,Pernille Kromann Sams,nytgribskov,48
+Gribskov,5,Annisse,E_Jesper_Hagen_Behrensdorff,Jesper Hagen Behrensdorff,nytgribskov,11
+Gribskov,5,Annisse,E_Jonna_Hildur_Præst,Jonna Hildur Præst,nytgribskov,0
+Gribskov,5,Annisse,E_Tonny_Nalepa_Jensen,Tonny Nalepa Jensen,nytgribskov,17
+Gribskov,5,Annisse,E_Astrid_Franklin_Recinella,Astrid Franklin Recinella,nytgribskov,11
+Gribskov,5,Annisse,E_Oliver_Hagen_Møllenberg,Oliver Hagen Møllenberg,nytgribskov,4
+Gribskov,5,Annisse,E_Ceren_Sen,Ceren Sen,nytgribskov,3
+Gribskov,5,Annisse,E_Thomas_Jung_Larsen,Thomas Jung Larsen,nytgribskov,6
+Gribskov,5,Annisse,E_Janni_Bøgh_Olsen,Janni Bøgh Olsen,nytgribskov,28
+Gribskov,5,Annisse,E_Jesper_Skibby,Jesper Skibby,nytgribskov,7
+Gribskov,5,Annisse,E_Pernille_Albjerg_Sørensen,Pernille Albjerg Sørensen,nytgribskov,2
+Gribskov,5,Annisse,E_Henrik_Magelund,Henrik Magelund,nytgribskov,0
+Gribskov,5,Annisse,E_Andreas_Pedersen_Søegaard,Andreas Pedersen Søegaard,nytgribskov,1
+Gribskov,5,Annisse,E_Flemming_Lund_Blixt,Flemming Lund Blixt,nytgribskov,10
+Gribskov,5,Annisse,E_Allan_Sørensen,Allan Sørensen,nytgribskov,3
+Gribskov,5,Annisse,E_Anders_Vilhelm_Grøndahl,Anders Vilhelm Grøndahl,nytgribskov,0
+Gribskov,5,Annisse,E_Ole_Flemming_Krog,Ole Flemming Krog,nytgribskov,0
+Gribskov,5,Annisse,E_Søren_Rosenkrantz_Maack,Søren Rosenkrantz Maack,nytgribskov,5
+Gribskov,5,Annisse,E_Allan_Meyer_Petersen,Allan Meyer Petersen,nytgribskov,1
+Gribskov,5,Annisse,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,21
+Gribskov,5,Annisse,F_Jens_Rane_Holck_-_Tisvilde,Jens Rane Holck - Tisvilde,SF - Socialistisk Folkeparti,22
+Gribskov,5,Annisse,F_Mathias_Arnvig_Zilberberg_-_Gillel,Mathias Arnvig Zilberberg - Gillel,SF - Socialistisk Folkeparti,13
+Gribskov,5,Annisse,F_Kirsten_Rolfsager_-_Dr.Mølle,Kirsten Rolfsager - Dr.Mølle,SF - Socialistisk Folkeparti,3
+Gribskov,5,Annisse,F_Susan_Kjeldgaard_-_Gilleleje,Susan Kjeldgaard - Gilleleje,SF - Socialistisk Folkeparti,19
+Gribskov,5,Annisse,F_Jens_Ove_Hofmann_-_Helsinge,Jens Ove Hofmann - Helsinge,SF - Socialistisk Folkeparti,1
+Gribskov,5,Annisse,F_Kirsten_Juul_-_Smidstrup_Strand,Kirsten Juul - Smidstrup Strand,SF - Socialistisk Folkeparti,1
+Gribskov,5,Annisse,F_Lars_Kiilerich_Laustsen_-_Annisse,Lars Kiilerich Laustsen - Annisse,SF - Socialistisk Folkeparti,9
+Gribskov,5,Annisse,F_Børge_Hermann_Sørensen_-_Gilleleje,Børge Hermann Sørensen - Gilleleje,SF - Socialistisk Folkeparti,0
+Gribskov,5,Annisse,M_Listestemmer,Listestemmer,Klimapartiet i Gribskov,3
+Gribskov,5,Annisse,M_Gert_Lassen,Gert Lassen,Klimapartiet i Gribskov,1
+Gribskov,5,Annisse,O_Listestemmer,Listestemmer,Dansk Folkeparti,20
+Gribskov,5,Annisse,O_Brian_Lyck_Jørgensen,Brian Lyck Jørgensen,Dansk Folkeparti,16
+Gribskov,5,Annisse,O_Michael_Jens_Rerup,Michael Jens Rerup,Dansk Folkeparti,1
+Gribskov,5,Annisse,O_Anja_Schlie,Anja Schlie,Dansk Folkeparti,7
+Gribskov,5,Annisse,O_Keld_Lund,Keld Lund,Dansk Folkeparti,2
+Gribskov,5,Annisse,O_Henrik_Bo_Hedelund,Henrik Bo Hedelund,Dansk Folkeparti,2
+Gribskov,5,Annisse,O_Henrik_Jarl_Fugl,Henrik Jarl Fugl,Dansk Folkeparti,0
+Gribskov,5,Annisse,O_Finn_Fredsgaard,Finn Fredsgaard,Dansk Folkeparti,0
+Gribskov,5,Annisse,U_Listestemmer,Listestemmer,KultureltFokus,0
+Gribskov,5,Annisse,U_Morten_Ulrik_Jørgensen,Morten Ulrik Jørgensen,KultureltFokus,1
+Gribskov,5,Annisse,U_Helene_Bartram,Helene Bartram,KultureltFokus,1
+Gribskov,5,Annisse,U_Steen_Ejler_Hasselby,Steen Ejler Hasselby,KultureltFokus,1
+Gribskov,5,Annisse,U_Camilla_Nielsen,Camilla Nielsen,KultureltFokus,0
+Gribskov,5,Annisse,U_Mikkel_Ramm,Mikkel Ramm,KultureltFokus,0
+Gribskov,5,Annisse,U_Jeanette_Wachenschwantz,Jeanette Wachenschwantz,KultureltFokus,0
+Gribskov,5,Annisse,U_Hanne_Jette_Brudholm,Hanne Jette Brudholm,KultureltFokus,0
+Gribskov,5,Annisse,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",45
+Gribskov,5,Annisse,V_Bent_Hansen,Bent Hansen,"Venstre, Danmarks Liberale Parti",59
+Gribskov,5,Annisse,V_Kim_Valentin,Kim Valentin,"Venstre, Danmarks Liberale Parti",37
+Gribskov,5,Annisse,V_Natasha_Elisabeth_A_S_H_Enetoft,Natasha Elisabeth A S H Enetoft,"Venstre, Danmarks Liberale Parti",3
+Gribskov,5,Annisse,V_Tue_Villebro,Tue Villebro,"Venstre, Danmarks Liberale Parti",12
+Gribskov,5,Annisse,V_Helle_Blomsterberg,Helle Blomsterberg,"Venstre, Danmarks Liberale Parti",14
+Gribskov,5,Annisse,V_Jørgen_Emil_Simonsen,Jørgen Emil Simonsen,"Venstre, Danmarks Liberale Parti",11
+Gribskov,5,Annisse,V_Sally_Schlichting,Sally Schlichting,"Venstre, Danmarks Liberale Parti",3
+Gribskov,5,Annisse,V_Betty_Schachtschabel,Betty Schachtschabel,"Venstre, Danmarks Liberale Parti",18
+Gribskov,5,Annisse,V_Steen_Pedersen,Steen Pedersen,"Venstre, Danmarks Liberale Parti",0
+Gribskov,5,Annisse,V_Eskild_Beiter,Eskild Beiter,"Venstre, Danmarks Liberale Parti",1
+Gribskov,5,Annisse,V_Bill_Petersen_Kaae,Bill Petersen Kaae,"Venstre, Danmarks Liberale Parti",4
+Gribskov,5,Annisse,V_Johnny_Braginski,Johnny Braginski,"Venstre, Danmarks Liberale Parti",1
+Gribskov,5,Annisse,V_Carl-Børge_Christiansen,Carl-Børge Christiansen,"Venstre, Danmarks Liberale Parti",3
+Gribskov,5,Annisse,V_Viola_Mathiasen,Viola Mathiasen,"Venstre, Danmarks Liberale Parti",0
+Gribskov,5,Annisse,V_Pia_Mørz,Pia Mørz,"Venstre, Danmarks Liberale Parti",0
+Gribskov,5,Annisse,V_Flemming_Steen_Munch,Flemming Steen Munch,"Venstre, Danmarks Liberale Parti",2
+Gribskov,5,Annisse,V_Jannich_Birger_Petersen,Jannich Birger Petersen,"Venstre, Danmarks Liberale Parti",5
+Gribskov,5,Annisse,V_Birgit_Jette_Roswall,Birgit Jette Roswall,"Venstre, Danmarks Liberale Parti",4
+Gribskov,5,Annisse,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,12
+Gribskov,5,Annisse,Ø_Michael_Hemming_Nielsen_-_Gillelej,Michael Hemming Nielsen - Gillelej,Enhedslisten - De Rød-Grønne,4
+Gribskov,5,Annisse,Ø_Niels_Arne_Würgler_-_Dr._Mølle,Niels Arne Würgler - Dr. Mølle,Enhedslisten - De Rød-Grønne,12
+Gribskov,5,Annisse,Ø_Annie_Hagel_-_Gilleleje,Annie Hagel - Gilleleje,Enhedslisten - De Rød-Grønne,8
+Gribskov,5,Annisse,Ø_Christine_Karlinsky_Scherfig_-_Græ,Christine Karlinsky Scherfig - Græ,Enhedslisten - De Rød-Grønne,3
+Gribskov,5,Annisse,Ø_Jørgen_Sidenius_Strøm_-_Tisvildele,Jørgen Sidenius Strøm - Tisvildele,Enhedslisten - De Rød-Grønne,6
+Gribskov,5,Annisse,Ø_Jette_Borgvold_Hansen_-_Gilleleje,Jette Borgvold Hansen - Gilleleje,Enhedslisten - De Rød-Grønne,0
+Gribskov,5,Annisse,Ø_Kurt_Øland_Schimmell_-_Dr._Mølle,Kurt Øland Schimmell - Dr. Mølle,Enhedslisten - De Rød-Grønne,1
+Gribskov,5,Annisse,Ø_Claus_Nedenskov_-_Gilleleje,Claus Nedenskov - Gilleleje,Enhedslisten - De Rød-Grønne,0
+Gribskov,5,Annisse,Å_Listestemmer,Listestemmer,Alternativet,2
+Gribskov,5,Annisse,Å_Maud_Margrethe_Pedersen,Maud Margrethe Pedersen,Alternativet,6
+Gribskov,6,Gilleleje,A_Listestemmer,Listestemmer,Socialdemokratiet,196
+Gribskov,6,Gilleleje,A_Morten_Dahlberg_Nielsen,Morten Dahlberg Nielsen,Socialdemokratiet,86
+Gribskov,6,Gilleleje,A_Allan_Nielsen,Allan Nielsen,Socialdemokratiet,17
+Gribskov,6,Gilleleje,A_Pia_Elly_Godsted_Foght,Pia Elly Godsted Foght,Socialdemokratiet,53
+Gribskov,6,Gilleleje,A_Mette_Marianne_Tolstrup,Mette Marianne Tolstrup,Socialdemokratiet,24
+Gribskov,6,Gilleleje,A_Jannik_Lyng_Petersen,Jannik Lyng Petersen,Socialdemokratiet,28
+Gribskov,6,Gilleleje,A_Steffen_Dannemand_Goldschmidt,Steffen Dannemand Goldschmidt,Socialdemokratiet,22
+Gribskov,6,Gilleleje,A_Daniel_Tao_Faber_Threms,Daniel Tao Faber Threms,Socialdemokratiet,7
+Gribskov,6,Gilleleje,B_Listestemmer,Listestemmer,Radikale Venstre,32
+Gribskov,6,Gilleleje,B_Bo_Jul_Baandhagen_Nielsen_-_Gillel,Bo Jul Baandhagen Nielsen - Gillel,Radikale Venstre,128
+Gribskov,6,Gilleleje,B_Mette_Dollerup_-_Gilleleje,Mette Dollerup - Gilleleje,Radikale Venstre,20
+Gribskov,6,Gilleleje,B_Rikke_Vesterbæk_Heitmann_-_Græsted,Rikke Vesterbæk Heitmann - Græsted,Radikale Venstre,0
+Gribskov,6,Gilleleje,B_Thomas_Frandsen_-_Tisvildeleje,Thomas Frandsen - Tisvildeleje,Radikale Venstre,4
+Gribskov,6,Gilleleje,B_Jens_Peter_Hansen_-_Gilleleje,Jens Peter Hansen - Gilleleje,Radikale Venstre,22
+Gribskov,6,Gilleleje,B_Karl_Terpager_Andersen_-_Vejby,Karl Terpager Andersen - Vejby,Radikale Venstre,2
+Gribskov,6,Gilleleje,B_Frank_Skaarup_Slemming_-_Tinkerup,Frank Skaarup Slemming - Tinkerup,Radikale Venstre,4
+Gribskov,6,Gilleleje,B_Arne_Skovgaard_Nielsen_-_Helsinge,Arne Skovgaard Nielsen - Helsinge,Radikale Venstre,1
+Gribskov,6,Gilleleje,B_Søren_Bald_-_Tibirke_Sand,Søren Bald - Tibirke Sand,Radikale Venstre,1
+Gribskov,6,Gilleleje,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,205
+Gribskov,6,Gilleleje,C_Trine_Mette_Egetved-Sørensen,Trine Mette Egetved-Sørensen,Det Konservative Folkeparti,652
+Gribskov,6,Gilleleje,C_Lars_Nielsen,Lars Nielsen,Det Konservative Folkeparti,470
+Gribskov,6,Gilleleje,C_Samir_Maáli,Samir Maáli,Det Konservative Folkeparti,19
+Gribskov,6,Gilleleje,C_Daniel_Frigast,Daniel Frigast,Det Konservative Folkeparti,3
+Gribskov,6,Gilleleje,C_Helene_Elisabeth_F_Gerlykke-Dohn,Helene Elisabeth F Gerlykke-Dohn,Det Konservative Folkeparti,13
+Gribskov,6,Gilleleje,C_Simon_Johannes_Mortensen,Simon Johannes Mortensen,Det Konservative Folkeparti,2
+Gribskov,6,Gilleleje,C_Bertel_Dandanell_Bording,Bertel Dandanell Bording,Det Konservative Folkeparti,6
+Gribskov,6,Gilleleje,C_Michael_Frank_Hansen,Michael Frank Hansen,Det Konservative Folkeparti,19
+Gribskov,6,Gilleleje,C_Lars_Christian_Bregnbak,Lars Christian Bregnbak,Det Konservative Folkeparti,2
+Gribskov,6,Gilleleje,C_Kim_Thonsgaard,Kim Thonsgaard,Det Konservative Folkeparti,19
+Gribskov,6,Gilleleje,C_Casper_Hannibal_Aistrup,Casper Hannibal Aistrup,Det Konservative Folkeparti,13
+Gribskov,6,Gilleleje,C_Jens_Louis_Zwicky,Jens Louis Zwicky,Det Konservative Folkeparti,0
+Gribskov,6,Gilleleje,C_Hasse_Højmark_Andersen,Hasse Højmark Andersen,Det Konservative Folkeparti,20
+Gribskov,6,Gilleleje,D_Listestemmer,Listestemmer,Nye Borgerlige,75
+Gribskov,6,Gilleleje,D_Kim_Hinrich_-_Helsinge,Kim Hinrich - Helsinge,Nye Borgerlige,24
+Gribskov,6,Gilleleje,D_Zandra_Thulstrup_Pihl_-_Ørby,Zandra Thulstrup Pihl - Ørby,Nye Borgerlige,6
+Gribskov,6,Gilleleje,D_Helle_Saugmann_Lund_-_Gilleleje,Helle Saugmann Lund - Gilleleje,Nye Borgerlige,94
+Gribskov,6,Gilleleje,D_Thomas_Thorby_Bang_-_Helsinge,Thomas Thorby Bang - Helsinge,Nye Borgerlige,6
+Gribskov,6,Gilleleje,D_Rasmus_Kaspar_Jensen_-_Annisse,Rasmus Kaspar Jensen - Annisse,Nye Borgerlige,10
+Gribskov,6,Gilleleje,D_Leif_Krøyer_-_Græsted,Leif Krøyer - Græsted,Nye Borgerlige,4
+Gribskov,6,Gilleleje,D_Peter_Sørensen_-_Mårum,Peter Sørensen - Mårum,Nye Borgerlige,1
+Gribskov,6,Gilleleje,E_Listestemmer,Listestemmer,nytgribskov,72
+Gribskov,6,Gilleleje,E_Anders_Gerner_Frost,Anders Gerner Frost,nytgribskov,137
+Gribskov,6,Gilleleje,E_Pernille_Søndergaard,Pernille Søndergaard,nytgribskov,15
+Gribskov,6,Gilleleje,E_Morten_Rohde_Klitgaard,Morten Rohde Klitgaard,nytgribskov,9
+Gribskov,6,Gilleleje,E_Pernille_Kromann_Sams,Pernille Kromann Sams,nytgribskov,9
+Gribskov,6,Gilleleje,E_Jesper_Hagen_Behrensdorff,Jesper Hagen Behrensdorff,nytgribskov,7
+Gribskov,6,Gilleleje,E_Jonna_Hildur_Præst,Jonna Hildur Præst,nytgribskov,2
+Gribskov,6,Gilleleje,E_Tonny_Nalepa_Jensen,Tonny Nalepa Jensen,nytgribskov,3
+Gribskov,6,Gilleleje,E_Astrid_Franklin_Recinella,Astrid Franklin Recinella,nytgribskov,6
+Gribskov,6,Gilleleje,E_Oliver_Hagen_Møllenberg,Oliver Hagen Møllenberg,nytgribskov,20
+Gribskov,6,Gilleleje,E_Ceren_Sen,Ceren Sen,nytgribskov,2
+Gribskov,6,Gilleleje,E_Thomas_Jung_Larsen,Thomas Jung Larsen,nytgribskov,10
+Gribskov,6,Gilleleje,E_Janni_Bøgh_Olsen,Janni Bøgh Olsen,nytgribskov,4
+Gribskov,6,Gilleleje,E_Jesper_Skibby,Jesper Skibby,nytgribskov,14
+Gribskov,6,Gilleleje,E_Pernille_Albjerg_Sørensen,Pernille Albjerg Sørensen,nytgribskov,4
+Gribskov,6,Gilleleje,E_Henrik_Magelund,Henrik Magelund,nytgribskov,38
+Gribskov,6,Gilleleje,E_Andreas_Pedersen_Søegaard,Andreas Pedersen Søegaard,nytgribskov,0
+Gribskov,6,Gilleleje,E_Flemming_Lund_Blixt,Flemming Lund Blixt,nytgribskov,2
+Gribskov,6,Gilleleje,E_Allan_Sørensen,Allan Sørensen,nytgribskov,1
+Gribskov,6,Gilleleje,E_Anders_Vilhelm_Grøndahl,Anders Vilhelm Grøndahl,nytgribskov,9
+Gribskov,6,Gilleleje,E_Ole_Flemming_Krog,Ole Flemming Krog,nytgribskov,3
+Gribskov,6,Gilleleje,E_Søren_Rosenkrantz_Maack,Søren Rosenkrantz Maack,nytgribskov,3
+Gribskov,6,Gilleleje,E_Allan_Meyer_Petersen,Allan Meyer Petersen,nytgribskov,10
+Gribskov,6,Gilleleje,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,69
+Gribskov,6,Gilleleje,F_Jens_Rane_Holck_-_Tisvilde,Jens Rane Holck - Tisvilde,SF - Socialistisk Folkeparti,22
+Gribskov,6,Gilleleje,F_Mathias_Arnvig_Zilberberg_-_Gillel,Mathias Arnvig Zilberberg - Gillel,SF - Socialistisk Folkeparti,96
+Gribskov,6,Gilleleje,F_Kirsten_Rolfsager_-_Dr.Mølle,Kirsten Rolfsager - Dr.Mølle,SF - Socialistisk Folkeparti,16
+Gribskov,6,Gilleleje,F_Susan_Kjeldgaard_-_Gilleleje,Susan Kjeldgaard - Gilleleje,SF - Socialistisk Folkeparti,62
+Gribskov,6,Gilleleje,F_Jens_Ove_Hofmann_-_Helsinge,Jens Ove Hofmann - Helsinge,SF - Socialistisk Folkeparti,1
+Gribskov,6,Gilleleje,F_Kirsten_Juul_-_Smidstrup_Strand,Kirsten Juul - Smidstrup Strand,SF - Socialistisk Folkeparti,3
+Gribskov,6,Gilleleje,F_Lars_Kiilerich_Laustsen_-_Annisse,Lars Kiilerich Laustsen - Annisse,SF - Socialistisk Folkeparti,2
+Gribskov,6,Gilleleje,F_Børge_Hermann_Sørensen_-_Gilleleje,Børge Hermann Sørensen - Gilleleje,SF - Socialistisk Folkeparti,9
+Gribskov,6,Gilleleje,M_Listestemmer,Listestemmer,Klimapartiet i Gribskov,7
+Gribskov,6,Gilleleje,M_Gert_Lassen,Gert Lassen,Klimapartiet i Gribskov,4
+Gribskov,6,Gilleleje,O_Listestemmer,Listestemmer,Dansk Folkeparti,57
+Gribskov,6,Gilleleje,O_Brian_Lyck_Jørgensen,Brian Lyck Jørgensen,Dansk Folkeparti,68
+Gribskov,6,Gilleleje,O_Michael_Jens_Rerup,Michael Jens Rerup,Dansk Folkeparti,3
+Gribskov,6,Gilleleje,O_Anja_Schlie,Anja Schlie,Dansk Folkeparti,19
+Gribskov,6,Gilleleje,O_Keld_Lund,Keld Lund,Dansk Folkeparti,2
+Gribskov,6,Gilleleje,O_Henrik_Bo_Hedelund,Henrik Bo Hedelund,Dansk Folkeparti,0
+Gribskov,6,Gilleleje,O_Henrik_Jarl_Fugl,Henrik Jarl Fugl,Dansk Folkeparti,2
+Gribskov,6,Gilleleje,O_Finn_Fredsgaard,Finn Fredsgaard,Dansk Folkeparti,1
+Gribskov,6,Gilleleje,U_Listestemmer,Listestemmer,KultureltFokus,2
+Gribskov,6,Gilleleje,U_Morten_Ulrik_Jørgensen,Morten Ulrik Jørgensen,KultureltFokus,71
+Gribskov,6,Gilleleje,U_Helene_Bartram,Helene Bartram,KultureltFokus,1
+Gribskov,6,Gilleleje,U_Steen_Ejler_Hasselby,Steen Ejler Hasselby,KultureltFokus,0
+Gribskov,6,Gilleleje,U_Camilla_Nielsen,Camilla Nielsen,KultureltFokus,1
+Gribskov,6,Gilleleje,U_Mikkel_Ramm,Mikkel Ramm,KultureltFokus,2
+Gribskov,6,Gilleleje,U_Jeanette_Wachenschwantz,Jeanette Wachenschwantz,KultureltFokus,2
+Gribskov,6,Gilleleje,U_Hanne_Jette_Brudholm,Hanne Jette Brudholm,KultureltFokus,0
+Gribskov,6,Gilleleje,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",129
+Gribskov,6,Gilleleje,V_Bent_Hansen,Bent Hansen,"Venstre, Danmarks Liberale Parti",139
+Gribskov,6,Gilleleje,V_Kim_Valentin,Kim Valentin,"Venstre, Danmarks Liberale Parti",77
+Gribskov,6,Gilleleje,V_Natasha_Elisabeth_A_S_H_Enetoft,Natasha Elisabeth A S H Enetoft,"Venstre, Danmarks Liberale Parti",21
+Gribskov,6,Gilleleje,V_Tue_Villebro,Tue Villebro,"Venstre, Danmarks Liberale Parti",29
+Gribskov,6,Gilleleje,V_Helle_Blomsterberg,Helle Blomsterberg,"Venstre, Danmarks Liberale Parti",18
+Gribskov,6,Gilleleje,V_Jørgen_Emil_Simonsen,Jørgen Emil Simonsen,"Venstre, Danmarks Liberale Parti",22
+Gribskov,6,Gilleleje,V_Sally_Schlichting,Sally Schlichting,"Venstre, Danmarks Liberale Parti",33
+Gribskov,6,Gilleleje,V_Betty_Schachtschabel,Betty Schachtschabel,"Venstre, Danmarks Liberale Parti",6
+Gribskov,6,Gilleleje,V_Steen_Pedersen,Steen Pedersen,"Venstre, Danmarks Liberale Parti",4
+Gribskov,6,Gilleleje,V_Eskild_Beiter,Eskild Beiter,"Venstre, Danmarks Liberale Parti",3
+Gribskov,6,Gilleleje,V_Bill_Petersen_Kaae,Bill Petersen Kaae,"Venstre, Danmarks Liberale Parti",8
+Gribskov,6,Gilleleje,V_Johnny_Braginski,Johnny Braginski,"Venstre, Danmarks Liberale Parti",0
+Gribskov,6,Gilleleje,V_Carl-Børge_Christiansen,Carl-Børge Christiansen,"Venstre, Danmarks Liberale Parti",1
+Gribskov,6,Gilleleje,V_Viola_Mathiasen,Viola Mathiasen,"Venstre, Danmarks Liberale Parti",5
+Gribskov,6,Gilleleje,V_Pia_Mørz,Pia Mørz,"Venstre, Danmarks Liberale Parti",4
+Gribskov,6,Gilleleje,V_Flemming_Steen_Munch,Flemming Steen Munch,"Venstre, Danmarks Liberale Parti",7
+Gribskov,6,Gilleleje,V_Jannich_Birger_Petersen,Jannich Birger Petersen,"Venstre, Danmarks Liberale Parti",100
+Gribskov,6,Gilleleje,V_Birgit_Jette_Roswall,Birgit Jette Roswall,"Venstre, Danmarks Liberale Parti",37
+Gribskov,6,Gilleleje,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,113
+Gribskov,6,Gilleleje,Ø_Michael_Hemming_Nielsen_-_Gillelej,Michael Hemming Nielsen - Gillelej,Enhedslisten - De Rød-Grønne,41
+Gribskov,6,Gilleleje,Ø_Niels_Arne_Würgler_-_Dr._Mølle,Niels Arne Würgler - Dr. Mølle,Enhedslisten - De Rød-Grønne,37
+Gribskov,6,Gilleleje,Ø_Annie_Hagel_-_Gilleleje,Annie Hagel - Gilleleje,Enhedslisten - De Rød-Grønne,50
+Gribskov,6,Gilleleje,Ø_Christine_Karlinsky_Scherfig_-_Græ,Christine Karlinsky Scherfig - Græ,Enhedslisten - De Rød-Grønne,3
+Gribskov,6,Gilleleje,Ø_Jørgen_Sidenius_Strøm_-_Tisvildele,Jørgen Sidenius Strøm - Tisvildele,Enhedslisten - De Rød-Grønne,1
+Gribskov,6,Gilleleje,Ø_Jette_Borgvold_Hansen_-_Gilleleje,Jette Borgvold Hansen - Gilleleje,Enhedslisten - De Rød-Grønne,3
+Gribskov,6,Gilleleje,Ø_Kurt_Øland_Schimmell_-_Dr._Mølle,Kurt Øland Schimmell - Dr. Mølle,Enhedslisten - De Rød-Grønne,1
+Gribskov,6,Gilleleje,Ø_Claus_Nedenskov_-_Gilleleje,Claus Nedenskov - Gilleleje,Enhedslisten - De Rød-Grønne,2
+Gribskov,6,Gilleleje,Å_Listestemmer,Listestemmer,Alternativet,5
+Gribskov,6,Gilleleje,Å_Maud_Margrethe_Pedersen,Maud Margrethe Pedersen,Alternativet,15
+Gribskov,7,Søborg,A_Listestemmer,Listestemmer,Socialdemokratiet,35
+Gribskov,7,Søborg,A_Morten_Dahlberg_Nielsen,Morten Dahlberg Nielsen,Socialdemokratiet,13
+Gribskov,7,Søborg,A_Allan_Nielsen,Allan Nielsen,Socialdemokratiet,14
+Gribskov,7,Søborg,A_Pia_Elly_Godsted_Foght,Pia Elly Godsted Foght,Socialdemokratiet,8
+Gribskov,7,Søborg,A_Mette_Marianne_Tolstrup,Mette Marianne Tolstrup,Socialdemokratiet,8
+Gribskov,7,Søborg,A_Jannik_Lyng_Petersen,Jannik Lyng Petersen,Socialdemokratiet,3
+Gribskov,7,Søborg,A_Steffen_Dannemand_Goldschmidt,Steffen Dannemand Goldschmidt,Socialdemokratiet,10
+Gribskov,7,Søborg,A_Daniel_Tao_Faber_Threms,Daniel Tao Faber Threms,Socialdemokratiet,1
+Gribskov,7,Søborg,B_Listestemmer,Listestemmer,Radikale Venstre,17
+Gribskov,7,Søborg,B_Bo_Jul_Baandhagen_Nielsen_-_Gillel,Bo Jul Baandhagen Nielsen - Gillel,Radikale Venstre,11
+Gribskov,7,Søborg,B_Mette_Dollerup_-_Gilleleje,Mette Dollerup - Gilleleje,Radikale Venstre,11
+Gribskov,7,Søborg,B_Rikke_Vesterbæk_Heitmann_-_Græsted,Rikke Vesterbæk Heitmann - Græsted,Radikale Venstre,1
+Gribskov,7,Søborg,B_Thomas_Frandsen_-_Tisvildeleje,Thomas Frandsen - Tisvildeleje,Radikale Venstre,0
+Gribskov,7,Søborg,B_Jens_Peter_Hansen_-_Gilleleje,Jens Peter Hansen - Gilleleje,Radikale Venstre,0
+Gribskov,7,Søborg,B_Karl_Terpager_Andersen_-_Vejby,Karl Terpager Andersen - Vejby,Radikale Venstre,0
+Gribskov,7,Søborg,B_Frank_Skaarup_Slemming_-_Tinkerup,Frank Skaarup Slemming - Tinkerup,Radikale Venstre,0
+Gribskov,7,Søborg,B_Arne_Skovgaard_Nielsen_-_Helsinge,Arne Skovgaard Nielsen - Helsinge,Radikale Venstre,0
+Gribskov,7,Søborg,B_Søren_Bald_-_Tibirke_Sand,Søren Bald - Tibirke Sand,Radikale Venstre,1
+Gribskov,7,Søborg,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,38
+Gribskov,7,Søborg,C_Trine_Mette_Egetved-Sørensen,Trine Mette Egetved-Sørensen,Det Konservative Folkeparti,102
+Gribskov,7,Søborg,C_Lars_Nielsen,Lars Nielsen,Det Konservative Folkeparti,17
+Gribskov,7,Søborg,C_Samir_Maáli,Samir Maáli,Det Konservative Folkeparti,2
+Gribskov,7,Søborg,C_Daniel_Frigast,Daniel Frigast,Det Konservative Folkeparti,0
+Gribskov,7,Søborg,C_Helene_Elisabeth_F_Gerlykke-Dohn,Helene Elisabeth F Gerlykke-Dohn,Det Konservative Folkeparti,5
+Gribskov,7,Søborg,C_Simon_Johannes_Mortensen,Simon Johannes Mortensen,Det Konservative Folkeparti,0
+Gribskov,7,Søborg,C_Bertel_Dandanell_Bording,Bertel Dandanell Bording,Det Konservative Folkeparti,1
+Gribskov,7,Søborg,C_Michael_Frank_Hansen,Michael Frank Hansen,Det Konservative Folkeparti,5
+Gribskov,7,Søborg,C_Lars_Christian_Bregnbak,Lars Christian Bregnbak,Det Konservative Folkeparti,2
+Gribskov,7,Søborg,C_Kim_Thonsgaard,Kim Thonsgaard,Det Konservative Folkeparti,0
+Gribskov,7,Søborg,C_Casper_Hannibal_Aistrup,Casper Hannibal Aistrup,Det Konservative Folkeparti,6
+Gribskov,7,Søborg,C_Jens_Louis_Zwicky,Jens Louis Zwicky,Det Konservative Folkeparti,1
+Gribskov,7,Søborg,C_Hasse_Højmark_Andersen,Hasse Højmark Andersen,Det Konservative Folkeparti,0
+Gribskov,7,Søborg,D_Listestemmer,Listestemmer,Nye Borgerlige,17
+Gribskov,7,Søborg,D_Kim_Hinrich_-_Helsinge,Kim Hinrich - Helsinge,Nye Borgerlige,4
+Gribskov,7,Søborg,D_Zandra_Thulstrup_Pihl_-_Ørby,Zandra Thulstrup Pihl - Ørby,Nye Borgerlige,3
+Gribskov,7,Søborg,D_Helle_Saugmann_Lund_-_Gilleleje,Helle Saugmann Lund - Gilleleje,Nye Borgerlige,34
+Gribskov,7,Søborg,D_Thomas_Thorby_Bang_-_Helsinge,Thomas Thorby Bang - Helsinge,Nye Borgerlige,0
+Gribskov,7,Søborg,D_Rasmus_Kaspar_Jensen_-_Annisse,Rasmus Kaspar Jensen - Annisse,Nye Borgerlige,2
+Gribskov,7,Søborg,D_Leif_Krøyer_-_Græsted,Leif Krøyer - Græsted,Nye Borgerlige,2
+Gribskov,7,Søborg,D_Peter_Sørensen_-_Mårum,Peter Sørensen - Mårum,Nye Borgerlige,3
+Gribskov,7,Søborg,E_Listestemmer,Listestemmer,nytgribskov,19
+Gribskov,7,Søborg,E_Anders_Gerner_Frost,Anders Gerner Frost,nytgribskov,54
+Gribskov,7,Søborg,E_Pernille_Søndergaard,Pernille Søndergaard,nytgribskov,5
+Gribskov,7,Søborg,E_Morten_Rohde_Klitgaard,Morten Rohde Klitgaard,nytgribskov,0
+Gribskov,7,Søborg,E_Pernille_Kromann_Sams,Pernille Kromann Sams,nytgribskov,2
+Gribskov,7,Søborg,E_Jesper_Hagen_Behrensdorff,Jesper Hagen Behrensdorff,nytgribskov,7
+Gribskov,7,Søborg,E_Jonna_Hildur_Præst,Jonna Hildur Præst,nytgribskov,0
+Gribskov,7,Søborg,E_Tonny_Nalepa_Jensen,Tonny Nalepa Jensen,nytgribskov,3
+Gribskov,7,Søborg,E_Astrid_Franklin_Recinella,Astrid Franklin Recinella,nytgribskov,0
+Gribskov,7,Søborg,E_Oliver_Hagen_Møllenberg,Oliver Hagen Møllenberg,nytgribskov,2
+Gribskov,7,Søborg,E_Ceren_Sen,Ceren Sen,nytgribskov,0
+Gribskov,7,Søborg,E_Thomas_Jung_Larsen,Thomas Jung Larsen,nytgribskov,5
+Gribskov,7,Søborg,E_Janni_Bøgh_Olsen,Janni Bøgh Olsen,nytgribskov,1
+Gribskov,7,Søborg,E_Jesper_Skibby,Jesper Skibby,nytgribskov,1
+Gribskov,7,Søborg,E_Pernille_Albjerg_Sørensen,Pernille Albjerg Sørensen,nytgribskov,2
+Gribskov,7,Søborg,E_Henrik_Magelund,Henrik Magelund,nytgribskov,2
+Gribskov,7,Søborg,E_Andreas_Pedersen_Søegaard,Andreas Pedersen Søegaard,nytgribskov,0
+Gribskov,7,Søborg,E_Flemming_Lund_Blixt,Flemming Lund Blixt,nytgribskov,2
+Gribskov,7,Søborg,E_Allan_Sørensen,Allan Sørensen,nytgribskov,0
+Gribskov,7,Søborg,E_Anders_Vilhelm_Grøndahl,Anders Vilhelm Grøndahl,nytgribskov,12
+Gribskov,7,Søborg,E_Ole_Flemming_Krog,Ole Flemming Krog,nytgribskov,1
+Gribskov,7,Søborg,E_Søren_Rosenkrantz_Maack,Søren Rosenkrantz Maack,nytgribskov,1
+Gribskov,7,Søborg,E_Allan_Meyer_Petersen,Allan Meyer Petersen,nytgribskov,0
+Gribskov,7,Søborg,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,15
+Gribskov,7,Søborg,F_Jens_Rane_Holck_-_Tisvilde,Jens Rane Holck - Tisvilde,SF - Socialistisk Folkeparti,4
+Gribskov,7,Søborg,F_Mathias_Arnvig_Zilberberg_-_Gillel,Mathias Arnvig Zilberberg - Gillel,SF - Socialistisk Folkeparti,10
+Gribskov,7,Søborg,F_Kirsten_Rolfsager_-_Dr.Mølle,Kirsten Rolfsager - Dr.Mølle,SF - Socialistisk Folkeparti,2
+Gribskov,7,Søborg,F_Susan_Kjeldgaard_-_Gilleleje,Susan Kjeldgaard - Gilleleje,SF - Socialistisk Folkeparti,28
+Gribskov,7,Søborg,F_Jens_Ove_Hofmann_-_Helsinge,Jens Ove Hofmann - Helsinge,SF - Socialistisk Folkeparti,1
+Gribskov,7,Søborg,F_Kirsten_Juul_-_Smidstrup_Strand,Kirsten Juul - Smidstrup Strand,SF - Socialistisk Folkeparti,0
+Gribskov,7,Søborg,F_Lars_Kiilerich_Laustsen_-_Annisse,Lars Kiilerich Laustsen - Annisse,SF - Socialistisk Folkeparti,1
+Gribskov,7,Søborg,F_Børge_Hermann_Sørensen_-_Gilleleje,Børge Hermann Sørensen - Gilleleje,SF - Socialistisk Folkeparti,0
+Gribskov,7,Søborg,M_Listestemmer,Listestemmer,Klimapartiet i Gribskov,0
+Gribskov,7,Søborg,M_Gert_Lassen,Gert Lassen,Klimapartiet i Gribskov,3
+Gribskov,7,Søborg,O_Listestemmer,Listestemmer,Dansk Folkeparti,15
+Gribskov,7,Søborg,O_Brian_Lyck_Jørgensen,Brian Lyck Jørgensen,Dansk Folkeparti,10
+Gribskov,7,Søborg,O_Michael_Jens_Rerup,Michael Jens Rerup,Dansk Folkeparti,1
+Gribskov,7,Søborg,O_Anja_Schlie,Anja Schlie,Dansk Folkeparti,3
+Gribskov,7,Søborg,O_Keld_Lund,Keld Lund,Dansk Folkeparti,1
+Gribskov,7,Søborg,O_Henrik_Bo_Hedelund,Henrik Bo Hedelund,Dansk Folkeparti,0
+Gribskov,7,Søborg,O_Henrik_Jarl_Fugl,Henrik Jarl Fugl,Dansk Folkeparti,0
+Gribskov,7,Søborg,O_Finn_Fredsgaard,Finn Fredsgaard,Dansk Folkeparti,0
+Gribskov,7,Søborg,U_Listestemmer,Listestemmer,KultureltFokus,2
+Gribskov,7,Søborg,U_Morten_Ulrik_Jørgensen,Morten Ulrik Jørgensen,KultureltFokus,9
+Gribskov,7,Søborg,U_Helene_Bartram,Helene Bartram,KultureltFokus,0
+Gribskov,7,Søborg,U_Steen_Ejler_Hasselby,Steen Ejler Hasselby,KultureltFokus,1
+Gribskov,7,Søborg,U_Camilla_Nielsen,Camilla Nielsen,KultureltFokus,0
+Gribskov,7,Søborg,U_Mikkel_Ramm,Mikkel Ramm,KultureltFokus,0
+Gribskov,7,Søborg,U_Jeanette_Wachenschwantz,Jeanette Wachenschwantz,KultureltFokus,0
+Gribskov,7,Søborg,U_Hanne_Jette_Brudholm,Hanne Jette Brudholm,KultureltFokus,0
+Gribskov,7,Søborg,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",27
+Gribskov,7,Søborg,V_Bent_Hansen,Bent Hansen,"Venstre, Danmarks Liberale Parti",34
+Gribskov,7,Søborg,V_Kim_Valentin,Kim Valentin,"Venstre, Danmarks Liberale Parti",19
+Gribskov,7,Søborg,V_Natasha_Elisabeth_A_S_H_Enetoft,Natasha Elisabeth A S H Enetoft,"Venstre, Danmarks Liberale Parti",9
+Gribskov,7,Søborg,V_Tue_Villebro,Tue Villebro,"Venstre, Danmarks Liberale Parti",16
+Gribskov,7,Søborg,V_Helle_Blomsterberg,Helle Blomsterberg,"Venstre, Danmarks Liberale Parti",7
+Gribskov,7,Søborg,V_Jørgen_Emil_Simonsen,Jørgen Emil Simonsen,"Venstre, Danmarks Liberale Parti",4
+Gribskov,7,Søborg,V_Sally_Schlichting,Sally Schlichting,"Venstre, Danmarks Liberale Parti",28
+Gribskov,7,Søborg,V_Betty_Schachtschabel,Betty Schachtschabel,"Venstre, Danmarks Liberale Parti",1
+Gribskov,7,Søborg,V_Steen_Pedersen,Steen Pedersen,"Venstre, Danmarks Liberale Parti",3
+Gribskov,7,Søborg,V_Eskild_Beiter,Eskild Beiter,"Venstre, Danmarks Liberale Parti",2
+Gribskov,7,Søborg,V_Bill_Petersen_Kaae,Bill Petersen Kaae,"Venstre, Danmarks Liberale Parti",1
+Gribskov,7,Søborg,V_Johnny_Braginski,Johnny Braginski,"Venstre, Danmarks Liberale Parti",0
+Gribskov,7,Søborg,V_Carl-Børge_Christiansen,Carl-Børge Christiansen,"Venstre, Danmarks Liberale Parti",1
+Gribskov,7,Søborg,V_Viola_Mathiasen,Viola Mathiasen,"Venstre, Danmarks Liberale Parti",0
+Gribskov,7,Søborg,V_Pia_Mørz,Pia Mørz,"Venstre, Danmarks Liberale Parti",0
+Gribskov,7,Søborg,V_Flemming_Steen_Munch,Flemming Steen Munch,"Venstre, Danmarks Liberale Parti",4
+Gribskov,7,Søborg,V_Jannich_Birger_Petersen,Jannich Birger Petersen,"Venstre, Danmarks Liberale Parti",14
+Gribskov,7,Søborg,V_Birgit_Jette_Roswall,Birgit Jette Roswall,"Venstre, Danmarks Liberale Parti",2
+Gribskov,7,Søborg,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,21
+Gribskov,7,Søborg,Ø_Michael_Hemming_Nielsen_-_Gillelej,Michael Hemming Nielsen - Gillelej,Enhedslisten - De Rød-Grønne,5
+Gribskov,7,Søborg,Ø_Niels_Arne_Würgler_-_Dr._Mølle,Niels Arne Würgler - Dr. Mølle,Enhedslisten - De Rød-Grønne,18
+Gribskov,7,Søborg,Ø_Annie_Hagel_-_Gilleleje,Annie Hagel - Gilleleje,Enhedslisten - De Rød-Grønne,14
+Gribskov,7,Søborg,Ø_Christine_Karlinsky_Scherfig_-_Græ,Christine Karlinsky Scherfig - Græ,Enhedslisten - De Rød-Grønne,4
+Gribskov,7,Søborg,Ø_Jørgen_Sidenius_Strøm_-_Tisvildele,Jørgen Sidenius Strøm - Tisvildele,Enhedslisten - De Rød-Grønne,0
+Gribskov,7,Søborg,Ø_Jette_Borgvold_Hansen_-_Gilleleje,Jette Borgvold Hansen - Gilleleje,Enhedslisten - De Rød-Grønne,1
+Gribskov,7,Søborg,Ø_Kurt_Øland_Schimmell_-_Dr._Mølle,Kurt Øland Schimmell - Dr. Mølle,Enhedslisten - De Rød-Grønne,1
+Gribskov,7,Søborg,Ø_Claus_Nedenskov_-_Gilleleje,Claus Nedenskov - Gilleleje,Enhedslisten - De Rød-Grønne,1
+Gribskov,7,Søborg,Å_Listestemmer,Listestemmer,Alternativet,3
+Gribskov,7,Søborg,Å_Maud_Margrethe_Pedersen,Maud Margrethe Pedersen,Alternativet,6
+Gribskov,8,Helsinge,A_Listestemmer,Listestemmer,Socialdemokratiet,249
+Gribskov,8,Helsinge,A_Morten_Dahlberg_Nielsen,Morten Dahlberg Nielsen,Socialdemokratiet,155
+Gribskov,8,Helsinge,A_Allan_Nielsen,Allan Nielsen,Socialdemokratiet,24
+Gribskov,8,Helsinge,A_Pia_Elly_Godsted_Foght,Pia Elly Godsted Foght,Socialdemokratiet,113
+Gribskov,8,Helsinge,A_Mette_Marianne_Tolstrup,Mette Marianne Tolstrup,Socialdemokratiet,33
+Gribskov,8,Helsinge,A_Jannik_Lyng_Petersen,Jannik Lyng Petersen,Socialdemokratiet,6
+Gribskov,8,Helsinge,A_Steffen_Dannemand_Goldschmidt,Steffen Dannemand Goldschmidt,Socialdemokratiet,24
+Gribskov,8,Helsinge,A_Daniel_Tao_Faber_Threms,Daniel Tao Faber Threms,Socialdemokratiet,22
+Gribskov,8,Helsinge,B_Listestemmer,Listestemmer,Radikale Venstre,35
+Gribskov,8,Helsinge,B_Bo_Jul_Baandhagen_Nielsen_-_Gillel,Bo Jul Baandhagen Nielsen - Gillel,Radikale Venstre,35
+Gribskov,8,Helsinge,B_Mette_Dollerup_-_Gilleleje,Mette Dollerup - Gilleleje,Radikale Venstre,12
+Gribskov,8,Helsinge,B_Rikke_Vesterbæk_Heitmann_-_Græsted,Rikke Vesterbæk Heitmann - Græsted,Radikale Venstre,10
+Gribskov,8,Helsinge,B_Thomas_Frandsen_-_Tisvildeleje,Thomas Frandsen - Tisvildeleje,Radikale Venstre,0
+Gribskov,8,Helsinge,B_Jens_Peter_Hansen_-_Gilleleje,Jens Peter Hansen - Gilleleje,Radikale Venstre,0
+Gribskov,8,Helsinge,B_Karl_Terpager_Andersen_-_Vejby,Karl Terpager Andersen - Vejby,Radikale Venstre,5
+Gribskov,8,Helsinge,B_Frank_Skaarup_Slemming_-_Tinkerup,Frank Skaarup Slemming - Tinkerup,Radikale Venstre,1
+Gribskov,8,Helsinge,B_Arne_Skovgaard_Nielsen_-_Helsinge,Arne Skovgaard Nielsen - Helsinge,Radikale Venstre,7
+Gribskov,8,Helsinge,B_Søren_Bald_-_Tibirke_Sand,Søren Bald - Tibirke Sand,Radikale Venstre,1
+Gribskov,8,Helsinge,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,193
+Gribskov,8,Helsinge,C_Trine_Mette_Egetved-Sørensen,Trine Mette Egetved-Sørensen,Det Konservative Folkeparti,590
+Gribskov,8,Helsinge,C_Lars_Nielsen,Lars Nielsen,Det Konservative Folkeparti,9
+Gribskov,8,Helsinge,C_Samir_Maáli,Samir Maáli,Det Konservative Folkeparti,9
+Gribskov,8,Helsinge,C_Daniel_Frigast,Daniel Frigast,Det Konservative Folkeparti,3
+Gribskov,8,Helsinge,C_Helene_Elisabeth_F_Gerlykke-Dohn,Helene Elisabeth F Gerlykke-Dohn,Det Konservative Folkeparti,36
+Gribskov,8,Helsinge,C_Simon_Johannes_Mortensen,Simon Johannes Mortensen,Det Konservative Folkeparti,24
+Gribskov,8,Helsinge,C_Bertel_Dandanell_Bording,Bertel Dandanell Bording,Det Konservative Folkeparti,9
+Gribskov,8,Helsinge,C_Michael_Frank_Hansen,Michael Frank Hansen,Det Konservative Folkeparti,4
+Gribskov,8,Helsinge,C_Lars_Christian_Bregnbak,Lars Christian Bregnbak,Det Konservative Folkeparti,9
+Gribskov,8,Helsinge,C_Kim_Thonsgaard,Kim Thonsgaard,Det Konservative Folkeparti,8
+Gribskov,8,Helsinge,C_Casper_Hannibal_Aistrup,Casper Hannibal Aistrup,Det Konservative Folkeparti,8
+Gribskov,8,Helsinge,C_Jens_Louis_Zwicky,Jens Louis Zwicky,Det Konservative Folkeparti,8
+Gribskov,8,Helsinge,C_Hasse_Højmark_Andersen,Hasse Højmark Andersen,Det Konservative Folkeparti,1
+Gribskov,8,Helsinge,D_Listestemmer,Listestemmer,Nye Borgerlige,91
+Gribskov,8,Helsinge,D_Kim_Hinrich_-_Helsinge,Kim Hinrich - Helsinge,Nye Borgerlige,63
+Gribskov,8,Helsinge,D_Zandra_Thulstrup_Pihl_-_Ørby,Zandra Thulstrup Pihl - Ørby,Nye Borgerlige,20
+Gribskov,8,Helsinge,D_Helle_Saugmann_Lund_-_Gilleleje,Helle Saugmann Lund - Gilleleje,Nye Borgerlige,14
+Gribskov,8,Helsinge,D_Thomas_Thorby_Bang_-_Helsinge,Thomas Thorby Bang - Helsinge,Nye Borgerlige,28
+Gribskov,8,Helsinge,D_Rasmus_Kaspar_Jensen_-_Annisse,Rasmus Kaspar Jensen - Annisse,Nye Borgerlige,10
+Gribskov,8,Helsinge,D_Leif_Krøyer_-_Græsted,Leif Krøyer - Græsted,Nye Borgerlige,0
+Gribskov,8,Helsinge,D_Peter_Sørensen_-_Mårum,Peter Sørensen - Mårum,Nye Borgerlige,4
+Gribskov,8,Helsinge,E_Listestemmer,Listestemmer,nytgribskov,152
+Gribskov,8,Helsinge,E_Anders_Gerner_Frost,Anders Gerner Frost,nytgribskov,298
+Gribskov,8,Helsinge,E_Pernille_Søndergaard,Pernille Søndergaard,nytgribskov,60
+Gribskov,8,Helsinge,E_Morten_Rohde_Klitgaard,Morten Rohde Klitgaard,nytgribskov,27
+Gribskov,8,Helsinge,E_Pernille_Kromann_Sams,Pernille Kromann Sams,nytgribskov,41
+Gribskov,8,Helsinge,E_Jesper_Hagen_Behrensdorff,Jesper Hagen Behrensdorff,nytgribskov,45
+Gribskov,8,Helsinge,E_Jonna_Hildur_Præst,Jonna Hildur Præst,nytgribskov,5
+Gribskov,8,Helsinge,E_Tonny_Nalepa_Jensen,Tonny Nalepa Jensen,nytgribskov,51
+Gribskov,8,Helsinge,E_Astrid_Franklin_Recinella,Astrid Franklin Recinella,nytgribskov,27
+Gribskov,8,Helsinge,E_Oliver_Hagen_Møllenberg,Oliver Hagen Møllenberg,nytgribskov,9
+Gribskov,8,Helsinge,E_Ceren_Sen,Ceren Sen,nytgribskov,71
+Gribskov,8,Helsinge,E_Thomas_Jung_Larsen,Thomas Jung Larsen,nytgribskov,27
+Gribskov,8,Helsinge,E_Janni_Bøgh_Olsen,Janni Bøgh Olsen,nytgribskov,17
+Gribskov,8,Helsinge,E_Jesper_Skibby,Jesper Skibby,nytgribskov,23
+Gribskov,8,Helsinge,E_Pernille_Albjerg_Sørensen,Pernille Albjerg Sørensen,nytgribskov,6
+Gribskov,8,Helsinge,E_Henrik_Magelund,Henrik Magelund,nytgribskov,0
+Gribskov,8,Helsinge,E_Andreas_Pedersen_Søegaard,Andreas Pedersen Søegaard,nytgribskov,7
+Gribskov,8,Helsinge,E_Flemming_Lund_Blixt,Flemming Lund Blixt,nytgribskov,13
+Gribskov,8,Helsinge,E_Allan_Sørensen,Allan Sørensen,nytgribskov,15
+Gribskov,8,Helsinge,E_Anders_Vilhelm_Grøndahl,Anders Vilhelm Grøndahl,nytgribskov,1
+Gribskov,8,Helsinge,E_Ole_Flemming_Krog,Ole Flemming Krog,nytgribskov,12
+Gribskov,8,Helsinge,E_Søren_Rosenkrantz_Maack,Søren Rosenkrantz Maack,nytgribskov,8
+Gribskov,8,Helsinge,E_Allan_Meyer_Petersen,Allan Meyer Petersen,nytgribskov,7
+Gribskov,8,Helsinge,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,116
+Gribskov,8,Helsinge,F_Jens_Rane_Holck_-_Tisvilde,Jens Rane Holck - Tisvilde,SF - Socialistisk Folkeparti,73
+Gribskov,8,Helsinge,F_Mathias_Arnvig_Zilberberg_-_Gillel,Mathias Arnvig Zilberberg - Gillel,SF - Socialistisk Folkeparti,78
+Gribskov,8,Helsinge,F_Kirsten_Rolfsager_-_Dr.Mølle,Kirsten Rolfsager - Dr.Mølle,SF - Socialistisk Folkeparti,9
+Gribskov,8,Helsinge,F_Susan_Kjeldgaard_-_Gilleleje,Susan Kjeldgaard - Gilleleje,SF - Socialistisk Folkeparti,43
+Gribskov,8,Helsinge,F_Jens_Ove_Hofmann_-_Helsinge,Jens Ove Hofmann - Helsinge,SF - Socialistisk Folkeparti,20
+Gribskov,8,Helsinge,F_Kirsten_Juul_-_Smidstrup_Strand,Kirsten Juul - Smidstrup Strand,SF - Socialistisk Folkeparti,3
+Gribskov,8,Helsinge,F_Lars_Kiilerich_Laustsen_-_Annisse,Lars Kiilerich Laustsen - Annisse,SF - Socialistisk Folkeparti,6
+Gribskov,8,Helsinge,F_Børge_Hermann_Sørensen_-_Gilleleje,Børge Hermann Sørensen - Gilleleje,SF - Socialistisk Folkeparti,1
+Gribskov,8,Helsinge,M_Listestemmer,Listestemmer,Klimapartiet i Gribskov,1
+Gribskov,8,Helsinge,M_Gert_Lassen,Gert Lassen,Klimapartiet i Gribskov,1
+Gribskov,8,Helsinge,O_Listestemmer,Listestemmer,Dansk Folkeparti,88
+Gribskov,8,Helsinge,O_Brian_Lyck_Jørgensen,Brian Lyck Jørgensen,Dansk Folkeparti,85
+Gribskov,8,Helsinge,O_Michael_Jens_Rerup,Michael Jens Rerup,Dansk Folkeparti,9
+Gribskov,8,Helsinge,O_Anja_Schlie,Anja Schlie,Dansk Folkeparti,26
+Gribskov,8,Helsinge,O_Keld_Lund,Keld Lund,Dansk Folkeparti,4
+Gribskov,8,Helsinge,O_Henrik_Bo_Hedelund,Henrik Bo Hedelund,Dansk Folkeparti,2
+Gribskov,8,Helsinge,O_Henrik_Jarl_Fugl,Henrik Jarl Fugl,Dansk Folkeparti,0
+Gribskov,8,Helsinge,O_Finn_Fredsgaard,Finn Fredsgaard,Dansk Folkeparti,3
+Gribskov,8,Helsinge,U_Listestemmer,Listestemmer,KultureltFokus,1
+Gribskov,8,Helsinge,U_Morten_Ulrik_Jørgensen,Morten Ulrik Jørgensen,KultureltFokus,5
+Gribskov,8,Helsinge,U_Helene_Bartram,Helene Bartram,KultureltFokus,3
+Gribskov,8,Helsinge,U_Steen_Ejler_Hasselby,Steen Ejler Hasselby,KultureltFokus,1
+Gribskov,8,Helsinge,U_Camilla_Nielsen,Camilla Nielsen,KultureltFokus,3
+Gribskov,8,Helsinge,U_Mikkel_Ramm,Mikkel Ramm,KultureltFokus,2
+Gribskov,8,Helsinge,U_Jeanette_Wachenschwantz,Jeanette Wachenschwantz,KultureltFokus,1
+Gribskov,8,Helsinge,U_Hanne_Jette_Brudholm,Hanne Jette Brudholm,KultureltFokus,3
+Gribskov,8,Helsinge,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",174
+Gribskov,8,Helsinge,V_Bent_Hansen,Bent Hansen,"Venstre, Danmarks Liberale Parti",211
+Gribskov,8,Helsinge,V_Kim_Valentin,Kim Valentin,"Venstre, Danmarks Liberale Parti",87
+Gribskov,8,Helsinge,V_Natasha_Elisabeth_A_S_H_Enetoft,Natasha Elisabeth A S H Enetoft,"Venstre, Danmarks Liberale Parti",40
+Gribskov,8,Helsinge,V_Tue_Villebro,Tue Villebro,"Venstre, Danmarks Liberale Parti",21
+Gribskov,8,Helsinge,V_Helle_Blomsterberg,Helle Blomsterberg,"Venstre, Danmarks Liberale Parti",93
+Gribskov,8,Helsinge,V_Jørgen_Emil_Simonsen,Jørgen Emil Simonsen,"Venstre, Danmarks Liberale Parti",16
+Gribskov,8,Helsinge,V_Sally_Schlichting,Sally Schlichting,"Venstre, Danmarks Liberale Parti",9
+Gribskov,8,Helsinge,V_Betty_Schachtschabel,Betty Schachtschabel,"Venstre, Danmarks Liberale Parti",19
+Gribskov,8,Helsinge,V_Steen_Pedersen,Steen Pedersen,"Venstre, Danmarks Liberale Parti",4
+Gribskov,8,Helsinge,V_Eskild_Beiter,Eskild Beiter,"Venstre, Danmarks Liberale Parti",0
+Gribskov,8,Helsinge,V_Bill_Petersen_Kaae,Bill Petersen Kaae,"Venstre, Danmarks Liberale Parti",7
+Gribskov,8,Helsinge,V_Johnny_Braginski,Johnny Braginski,"Venstre, Danmarks Liberale Parti",8
+Gribskov,8,Helsinge,V_Carl-Børge_Christiansen,Carl-Børge Christiansen,"Venstre, Danmarks Liberale Parti",32
+Gribskov,8,Helsinge,V_Viola_Mathiasen,Viola Mathiasen,"Venstre, Danmarks Liberale Parti",11
+Gribskov,8,Helsinge,V_Pia_Mørz,Pia Mørz,"Venstre, Danmarks Liberale Parti",21
+Gribskov,8,Helsinge,V_Flemming_Steen_Munch,Flemming Steen Munch,"Venstre, Danmarks Liberale Parti",10
+Gribskov,8,Helsinge,V_Jannich_Birger_Petersen,Jannich Birger Petersen,"Venstre, Danmarks Liberale Parti",34
+Gribskov,8,Helsinge,V_Birgit_Jette_Roswall,Birgit Jette Roswall,"Venstre, Danmarks Liberale Parti",15
+Gribskov,8,Helsinge,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,89
+Gribskov,8,Helsinge,Ø_Michael_Hemming_Nielsen_-_Gillelej,Michael Hemming Nielsen - Gillelej,Enhedslisten - De Rød-Grønne,36
+Gribskov,8,Helsinge,Ø_Niels_Arne_Würgler_-_Dr._Mølle,Niels Arne Würgler - Dr. Mølle,Enhedslisten - De Rød-Grønne,9
+Gribskov,8,Helsinge,Ø_Annie_Hagel_-_Gilleleje,Annie Hagel - Gilleleje,Enhedslisten - De Rød-Grønne,23
+Gribskov,8,Helsinge,Ø_Christine_Karlinsky_Scherfig_-_Græ,Christine Karlinsky Scherfig - Græ,Enhedslisten - De Rød-Grønne,10
+Gribskov,8,Helsinge,Ø_Jørgen_Sidenius_Strøm_-_Tisvildele,Jørgen Sidenius Strøm - Tisvildele,Enhedslisten - De Rød-Grønne,6
+Gribskov,8,Helsinge,Ø_Jette_Borgvold_Hansen_-_Gilleleje,Jette Borgvold Hansen - Gilleleje,Enhedslisten - De Rød-Grønne,1
+Gribskov,8,Helsinge,Ø_Kurt_Øland_Schimmell_-_Dr._Mølle,Kurt Øland Schimmell - Dr. Mølle,Enhedslisten - De Rød-Grønne,1
+Gribskov,8,Helsinge,Ø_Claus_Nedenskov_-_Gilleleje,Claus Nedenskov - Gilleleje,Enhedslisten - De Rød-Grønne,1
+Gribskov,8,Helsinge,Å_Listestemmer,Listestemmer,Alternativet,3
+Gribskov,8,Helsinge,Å_Maud_Margrethe_Pedersen,Maud Margrethe Pedersen,Alternativet,10
+Gribskov,9,Mårum,A_Listestemmer,Listestemmer,Socialdemokratiet,19
+Gribskov,9,Mårum,A_Morten_Dahlberg_Nielsen,Morten Dahlberg Nielsen,Socialdemokratiet,9
+Gribskov,9,Mårum,A_Allan_Nielsen,Allan Nielsen,Socialdemokratiet,5
+Gribskov,9,Mårum,A_Pia_Elly_Godsted_Foght,Pia Elly Godsted Foght,Socialdemokratiet,6
+Gribskov,9,Mårum,A_Mette_Marianne_Tolstrup,Mette Marianne Tolstrup,Socialdemokratiet,3
+Gribskov,9,Mårum,A_Jannik_Lyng_Petersen,Jannik Lyng Petersen,Socialdemokratiet,2
+Gribskov,9,Mårum,A_Steffen_Dannemand_Goldschmidt,Steffen Dannemand Goldschmidt,Socialdemokratiet,1
+Gribskov,9,Mårum,A_Daniel_Tao_Faber_Threms,Daniel Tao Faber Threms,Socialdemokratiet,2
+Gribskov,9,Mårum,B_Listestemmer,Listestemmer,Radikale Venstre,9
+Gribskov,9,Mårum,B_Bo_Jul_Baandhagen_Nielsen_-_Gillel,Bo Jul Baandhagen Nielsen - Gillel,Radikale Venstre,13
+Gribskov,9,Mårum,B_Mette_Dollerup_-_Gilleleje,Mette Dollerup - Gilleleje,Radikale Venstre,6
+Gribskov,9,Mårum,B_Rikke_Vesterbæk_Heitmann_-_Græsted,Rikke Vesterbæk Heitmann - Græsted,Radikale Venstre,5
+Gribskov,9,Mårum,B_Thomas_Frandsen_-_Tisvildeleje,Thomas Frandsen - Tisvildeleje,Radikale Venstre,0
+Gribskov,9,Mårum,B_Jens_Peter_Hansen_-_Gilleleje,Jens Peter Hansen - Gilleleje,Radikale Venstre,0
+Gribskov,9,Mårum,B_Karl_Terpager_Andersen_-_Vejby,Karl Terpager Andersen - Vejby,Radikale Venstre,2
+Gribskov,9,Mårum,B_Frank_Skaarup_Slemming_-_Tinkerup,Frank Skaarup Slemming - Tinkerup,Radikale Venstre,0
+Gribskov,9,Mårum,B_Arne_Skovgaard_Nielsen_-_Helsinge,Arne Skovgaard Nielsen - Helsinge,Radikale Venstre,0
+Gribskov,9,Mårum,B_Søren_Bald_-_Tibirke_Sand,Søren Bald - Tibirke Sand,Radikale Venstre,0
+Gribskov,9,Mårum,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,37
+Gribskov,9,Mårum,C_Trine_Mette_Egetved-Sørensen,Trine Mette Egetved-Sørensen,Det Konservative Folkeparti,57
+Gribskov,9,Mårum,C_Lars_Nielsen,Lars Nielsen,Det Konservative Folkeparti,4
+Gribskov,9,Mårum,C_Samir_Maáli,Samir Maáli,Det Konservative Folkeparti,0
+Gribskov,9,Mårum,C_Daniel_Frigast,Daniel Frigast,Det Konservative Folkeparti,1
+Gribskov,9,Mårum,C_Helene_Elisabeth_F_Gerlykke-Dohn,Helene Elisabeth F Gerlykke-Dohn,Det Konservative Folkeparti,2
+Gribskov,9,Mårum,C_Simon_Johannes_Mortensen,Simon Johannes Mortensen,Det Konservative Folkeparti,3
+Gribskov,9,Mårum,C_Bertel_Dandanell_Bording,Bertel Dandanell Bording,Det Konservative Folkeparti,1
+Gribskov,9,Mårum,C_Michael_Frank_Hansen,Michael Frank Hansen,Det Konservative Folkeparti,1
+Gribskov,9,Mårum,C_Lars_Christian_Bregnbak,Lars Christian Bregnbak,Det Konservative Folkeparti,1
+Gribskov,9,Mårum,C_Kim_Thonsgaard,Kim Thonsgaard,Det Konservative Folkeparti,3
+Gribskov,9,Mårum,C_Casper_Hannibal_Aistrup,Casper Hannibal Aistrup,Det Konservative Folkeparti,0
+Gribskov,9,Mårum,C_Jens_Louis_Zwicky,Jens Louis Zwicky,Det Konservative Folkeparti,0
+Gribskov,9,Mårum,C_Hasse_Højmark_Andersen,Hasse Højmark Andersen,Det Konservative Folkeparti,0
+Gribskov,9,Mårum,D_Listestemmer,Listestemmer,Nye Borgerlige,11
+Gribskov,9,Mårum,D_Kim_Hinrich_-_Helsinge,Kim Hinrich - Helsinge,Nye Borgerlige,7
+Gribskov,9,Mårum,D_Zandra_Thulstrup_Pihl_-_Ørby,Zandra Thulstrup Pihl - Ørby,Nye Borgerlige,3
+Gribskov,9,Mårum,D_Helle_Saugmann_Lund_-_Gilleleje,Helle Saugmann Lund - Gilleleje,Nye Borgerlige,4
+Gribskov,9,Mårum,D_Thomas_Thorby_Bang_-_Helsinge,Thomas Thorby Bang - Helsinge,Nye Borgerlige,3
+Gribskov,9,Mårum,D_Rasmus_Kaspar_Jensen_-_Annisse,Rasmus Kaspar Jensen - Annisse,Nye Borgerlige,1
+Gribskov,9,Mårum,D_Leif_Krøyer_-_Græsted,Leif Krøyer - Græsted,Nye Borgerlige,0
+Gribskov,9,Mårum,D_Peter_Sørensen_-_Mårum,Peter Sørensen - Mårum,Nye Borgerlige,6
+Gribskov,9,Mårum,E_Listestemmer,Listestemmer,nytgribskov,22
+Gribskov,9,Mårum,E_Anders_Gerner_Frost,Anders Gerner Frost,nytgribskov,33
+Gribskov,9,Mårum,E_Pernille_Søndergaard,Pernille Søndergaard,nytgribskov,8
+Gribskov,9,Mårum,E_Morten_Rohde_Klitgaard,Morten Rohde Klitgaard,nytgribskov,5
+Gribskov,9,Mårum,E_Pernille_Kromann_Sams,Pernille Kromann Sams,nytgribskov,3
+Gribskov,9,Mårum,E_Jesper_Hagen_Behrensdorff,Jesper Hagen Behrensdorff,nytgribskov,2
+Gribskov,9,Mårum,E_Jonna_Hildur_Præst,Jonna Hildur Præst,nytgribskov,0
+Gribskov,9,Mårum,E_Tonny_Nalepa_Jensen,Tonny Nalepa Jensen,nytgribskov,5
+Gribskov,9,Mårum,E_Astrid_Franklin_Recinella,Astrid Franklin Recinella,nytgribskov,2
+Gribskov,9,Mårum,E_Oliver_Hagen_Møllenberg,Oliver Hagen Møllenberg,nytgribskov,2
+Gribskov,9,Mårum,E_Ceren_Sen,Ceren Sen,nytgribskov,0
+Gribskov,9,Mårum,E_Thomas_Jung_Larsen,Thomas Jung Larsen,nytgribskov,3
+Gribskov,9,Mårum,E_Janni_Bøgh_Olsen,Janni Bøgh Olsen,nytgribskov,0
+Gribskov,9,Mårum,E_Jesper_Skibby,Jesper Skibby,nytgribskov,0
+Gribskov,9,Mårum,E_Pernille_Albjerg_Sørensen,Pernille Albjerg Sørensen,nytgribskov,3
+Gribskov,9,Mårum,E_Henrik_Magelund,Henrik Magelund,nytgribskov,0
+Gribskov,9,Mårum,E_Andreas_Pedersen_Søegaard,Andreas Pedersen Søegaard,nytgribskov,0
+Gribskov,9,Mårum,E_Flemming_Lund_Blixt,Flemming Lund Blixt,nytgribskov,0
+Gribskov,9,Mårum,E_Allan_Sørensen,Allan Sørensen,nytgribskov,0
+Gribskov,9,Mårum,E_Anders_Vilhelm_Grøndahl,Anders Vilhelm Grøndahl,nytgribskov,4
+Gribskov,9,Mårum,E_Ole_Flemming_Krog,Ole Flemming Krog,nytgribskov,2
+Gribskov,9,Mårum,E_Søren_Rosenkrantz_Maack,Søren Rosenkrantz Maack,nytgribskov,4
+Gribskov,9,Mårum,E_Allan_Meyer_Petersen,Allan Meyer Petersen,nytgribskov,0
+Gribskov,9,Mårum,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,16
+Gribskov,9,Mårum,F_Jens_Rane_Holck_-_Tisvilde,Jens Rane Holck - Tisvilde,SF - Socialistisk Folkeparti,12
+Gribskov,9,Mårum,F_Mathias_Arnvig_Zilberberg_-_Gillel,Mathias Arnvig Zilberberg - Gillel,SF - Socialistisk Folkeparti,2
+Gribskov,9,Mårum,F_Kirsten_Rolfsager_-_Dr.Mølle,Kirsten Rolfsager - Dr.Mølle,SF - Socialistisk Folkeparti,2
+Gribskov,9,Mårum,F_Susan_Kjeldgaard_-_Gilleleje,Susan Kjeldgaard - Gilleleje,SF - Socialistisk Folkeparti,8
+Gribskov,9,Mårum,F_Jens_Ove_Hofmann_-_Helsinge,Jens Ove Hofmann - Helsinge,SF - Socialistisk Folkeparti,1
+Gribskov,9,Mårum,F_Kirsten_Juul_-_Smidstrup_Strand,Kirsten Juul - Smidstrup Strand,SF - Socialistisk Folkeparti,0
+Gribskov,9,Mårum,F_Lars_Kiilerich_Laustsen_-_Annisse,Lars Kiilerich Laustsen - Annisse,SF - Socialistisk Folkeparti,0
+Gribskov,9,Mårum,F_Børge_Hermann_Sørensen_-_Gilleleje,Børge Hermann Sørensen - Gilleleje,SF - Socialistisk Folkeparti,1
+Gribskov,9,Mårum,M_Listestemmer,Listestemmer,Klimapartiet i Gribskov,2
+Gribskov,9,Mårum,M_Gert_Lassen,Gert Lassen,Klimapartiet i Gribskov,0
+Gribskov,9,Mårum,O_Listestemmer,Listestemmer,Dansk Folkeparti,11
+Gribskov,9,Mårum,O_Brian_Lyck_Jørgensen,Brian Lyck Jørgensen,Dansk Folkeparti,11
+Gribskov,9,Mårum,O_Michael_Jens_Rerup,Michael Jens Rerup,Dansk Folkeparti,0
+Gribskov,9,Mårum,O_Anja_Schlie,Anja Schlie,Dansk Folkeparti,6
+Gribskov,9,Mårum,O_Keld_Lund,Keld Lund,Dansk Folkeparti,2
+Gribskov,9,Mårum,O_Henrik_Bo_Hedelund,Henrik Bo Hedelund,Dansk Folkeparti,8
+Gribskov,9,Mårum,O_Henrik_Jarl_Fugl,Henrik Jarl Fugl,Dansk Folkeparti,0
+Gribskov,9,Mårum,O_Finn_Fredsgaard,Finn Fredsgaard,Dansk Folkeparti,1
+Gribskov,9,Mårum,U_Listestemmer,Listestemmer,KultureltFokus,0
+Gribskov,9,Mårum,U_Morten_Ulrik_Jørgensen,Morten Ulrik Jørgensen,KultureltFokus,0
+Gribskov,9,Mårum,U_Helene_Bartram,Helene Bartram,KultureltFokus,0
+Gribskov,9,Mårum,U_Steen_Ejler_Hasselby,Steen Ejler Hasselby,KultureltFokus,0
+Gribskov,9,Mårum,U_Camilla_Nielsen,Camilla Nielsen,KultureltFokus,1
+Gribskov,9,Mårum,U_Mikkel_Ramm,Mikkel Ramm,KultureltFokus,0
+Gribskov,9,Mårum,U_Jeanette_Wachenschwantz,Jeanette Wachenschwantz,KultureltFokus,0
+Gribskov,9,Mårum,U_Hanne_Jette_Brudholm,Hanne Jette Brudholm,KultureltFokus,0
+Gribskov,9,Mårum,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",25
+Gribskov,9,Mårum,V_Bent_Hansen,Bent Hansen,"Venstre, Danmarks Liberale Parti",20
+Gribskov,9,Mårum,V_Kim_Valentin,Kim Valentin,"Venstre, Danmarks Liberale Parti",13
+Gribskov,9,Mårum,V_Natasha_Elisabeth_A_S_H_Enetoft,Natasha Elisabeth A S H Enetoft,"Venstre, Danmarks Liberale Parti",1
+Gribskov,9,Mårum,V_Tue_Villebro,Tue Villebro,"Venstre, Danmarks Liberale Parti",32
+Gribskov,9,Mårum,V_Helle_Blomsterberg,Helle Blomsterberg,"Venstre, Danmarks Liberale Parti",9
+Gribskov,9,Mårum,V_Jørgen_Emil_Simonsen,Jørgen Emil Simonsen,"Venstre, Danmarks Liberale Parti",5
+Gribskov,9,Mårum,V_Sally_Schlichting,Sally Schlichting,"Venstre, Danmarks Liberale Parti",6
+Gribskov,9,Mårum,V_Betty_Schachtschabel,Betty Schachtschabel,"Venstre, Danmarks Liberale Parti",2
+Gribskov,9,Mårum,V_Steen_Pedersen,Steen Pedersen,"Venstre, Danmarks Liberale Parti",1
+Gribskov,9,Mårum,V_Eskild_Beiter,Eskild Beiter,"Venstre, Danmarks Liberale Parti",0
+Gribskov,9,Mårum,V_Bill_Petersen_Kaae,Bill Petersen Kaae,"Venstre, Danmarks Liberale Parti",0
+Gribskov,9,Mårum,V_Johnny_Braginski,Johnny Braginski,"Venstre, Danmarks Liberale Parti",0
+Gribskov,9,Mårum,V_Carl-Børge_Christiansen,Carl-Børge Christiansen,"Venstre, Danmarks Liberale Parti",5
+Gribskov,9,Mårum,V_Viola_Mathiasen,Viola Mathiasen,"Venstre, Danmarks Liberale Parti",1
+Gribskov,9,Mårum,V_Pia_Mørz,Pia Mørz,"Venstre, Danmarks Liberale Parti",0
+Gribskov,9,Mårum,V_Flemming_Steen_Munch,Flemming Steen Munch,"Venstre, Danmarks Liberale Parti",1
+Gribskov,9,Mårum,V_Jannich_Birger_Petersen,Jannich Birger Petersen,"Venstre, Danmarks Liberale Parti",9
+Gribskov,9,Mårum,V_Birgit_Jette_Roswall,Birgit Jette Roswall,"Venstre, Danmarks Liberale Parti",0
+Gribskov,9,Mårum,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,19
+Gribskov,9,Mårum,Ø_Michael_Hemming_Nielsen_-_Gillelej,Michael Hemming Nielsen - Gillelej,Enhedslisten - De Rød-Grønne,5
+Gribskov,9,Mårum,Ø_Niels_Arne_Würgler_-_Dr._Mølle,Niels Arne Würgler - Dr. Mølle,Enhedslisten - De Rød-Grønne,2
+Gribskov,9,Mårum,Ø_Annie_Hagel_-_Gilleleje,Annie Hagel - Gilleleje,Enhedslisten - De Rød-Grønne,8
+Gribskov,9,Mårum,Ø_Christine_Karlinsky_Scherfig_-_Græ,Christine Karlinsky Scherfig - Græ,Enhedslisten - De Rød-Grønne,1
+Gribskov,9,Mårum,Ø_Jørgen_Sidenius_Strøm_-_Tisvildele,Jørgen Sidenius Strøm - Tisvildele,Enhedslisten - De Rød-Grønne,0
+Gribskov,9,Mårum,Ø_Jette_Borgvold_Hansen_-_Gilleleje,Jette Borgvold Hansen - Gilleleje,Enhedslisten - De Rød-Grønne,1
+Gribskov,9,Mårum,Ø_Kurt_Øland_Schimmell_-_Dr._Mølle,Kurt Øland Schimmell - Dr. Mølle,Enhedslisten - De Rød-Grønne,0
+Gribskov,9,Mårum,Ø_Claus_Nedenskov_-_Gilleleje,Claus Nedenskov - Gilleleje,Enhedslisten - De Rød-Grønne,1
+Gribskov,9,Mårum,Å_Listestemmer,Listestemmer,Alternativet,3
+Gribskov,9,Mårum,Å_Maud_Margrethe_Pedersen,Maud Margrethe Pedersen,Alternativet,2
+Gribskov,10,Ramløse,A_Listestemmer,Listestemmer,Socialdemokratiet,65
+Gribskov,10,Ramløse,A_Morten_Dahlberg_Nielsen,Morten Dahlberg Nielsen,Socialdemokratiet,35
+Gribskov,10,Ramløse,A_Allan_Nielsen,Allan Nielsen,Socialdemokratiet,17
+Gribskov,10,Ramløse,A_Pia_Elly_Godsted_Foght,Pia Elly Godsted Foght,Socialdemokratiet,30
+Gribskov,10,Ramløse,A_Mette_Marianne_Tolstrup,Mette Marianne Tolstrup,Socialdemokratiet,6
+Gribskov,10,Ramløse,A_Jannik_Lyng_Petersen,Jannik Lyng Petersen,Socialdemokratiet,3
+Gribskov,10,Ramløse,A_Steffen_Dannemand_Goldschmidt,Steffen Dannemand Goldschmidt,Socialdemokratiet,7
+Gribskov,10,Ramløse,A_Daniel_Tao_Faber_Threms,Daniel Tao Faber Threms,Socialdemokratiet,2
+Gribskov,10,Ramløse,B_Listestemmer,Listestemmer,Radikale Venstre,17
+Gribskov,10,Ramløse,B_Bo_Jul_Baandhagen_Nielsen_-_Gillel,Bo Jul Baandhagen Nielsen - Gillel,Radikale Venstre,14
+Gribskov,10,Ramløse,B_Mette_Dollerup_-_Gilleleje,Mette Dollerup - Gilleleje,Radikale Venstre,3
+Gribskov,10,Ramløse,B_Rikke_Vesterbæk_Heitmann_-_Græsted,Rikke Vesterbæk Heitmann - Græsted,Radikale Venstre,3
+Gribskov,10,Ramløse,B_Thomas_Frandsen_-_Tisvildeleje,Thomas Frandsen - Tisvildeleje,Radikale Venstre,1
+Gribskov,10,Ramløse,B_Jens_Peter_Hansen_-_Gilleleje,Jens Peter Hansen - Gilleleje,Radikale Venstre,0
+Gribskov,10,Ramløse,B_Karl_Terpager_Andersen_-_Vejby,Karl Terpager Andersen - Vejby,Radikale Venstre,1
+Gribskov,10,Ramløse,B_Frank_Skaarup_Slemming_-_Tinkerup,Frank Skaarup Slemming - Tinkerup,Radikale Venstre,1
+Gribskov,10,Ramløse,B_Arne_Skovgaard_Nielsen_-_Helsinge,Arne Skovgaard Nielsen - Helsinge,Radikale Venstre,2
+Gribskov,10,Ramløse,B_Søren_Bald_-_Tibirke_Sand,Søren Bald - Tibirke Sand,Radikale Venstre,4
+Gribskov,10,Ramløse,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,56
+Gribskov,10,Ramløse,C_Trine_Mette_Egetved-Sørensen,Trine Mette Egetved-Sørensen,Det Konservative Folkeparti,242
+Gribskov,10,Ramløse,C_Lars_Nielsen,Lars Nielsen,Det Konservative Folkeparti,2
+Gribskov,10,Ramløse,C_Samir_Maáli,Samir Maáli,Det Konservative Folkeparti,7
+Gribskov,10,Ramløse,C_Daniel_Frigast,Daniel Frigast,Det Konservative Folkeparti,6
+Gribskov,10,Ramløse,C_Helene_Elisabeth_F_Gerlykke-Dohn,Helene Elisabeth F Gerlykke-Dohn,Det Konservative Folkeparti,28
+Gribskov,10,Ramløse,C_Simon_Johannes_Mortensen,Simon Johannes Mortensen,Det Konservative Folkeparti,8
+Gribskov,10,Ramløse,C_Bertel_Dandanell_Bording,Bertel Dandanell Bording,Det Konservative Folkeparti,1
+Gribskov,10,Ramløse,C_Michael_Frank_Hansen,Michael Frank Hansen,Det Konservative Folkeparti,0
+Gribskov,10,Ramløse,C_Lars_Christian_Bregnbak,Lars Christian Bregnbak,Det Konservative Folkeparti,13
+Gribskov,10,Ramløse,C_Kim_Thonsgaard,Kim Thonsgaard,Det Konservative Folkeparti,2
+Gribskov,10,Ramløse,C_Casper_Hannibal_Aistrup,Casper Hannibal Aistrup,Det Konservative Folkeparti,2
+Gribskov,10,Ramløse,C_Jens_Louis_Zwicky,Jens Louis Zwicky,Det Konservative Folkeparti,2
+Gribskov,10,Ramløse,C_Hasse_Højmark_Andersen,Hasse Højmark Andersen,Det Konservative Folkeparti,1
+Gribskov,10,Ramløse,D_Listestemmer,Listestemmer,Nye Borgerlige,36
+Gribskov,10,Ramløse,D_Kim_Hinrich_-_Helsinge,Kim Hinrich - Helsinge,Nye Borgerlige,69
+Gribskov,10,Ramløse,D_Zandra_Thulstrup_Pihl_-_Ørby,Zandra Thulstrup Pihl - Ørby,Nye Borgerlige,9
+Gribskov,10,Ramløse,D_Helle_Saugmann_Lund_-_Gilleleje,Helle Saugmann Lund - Gilleleje,Nye Borgerlige,3
+Gribskov,10,Ramløse,D_Thomas_Thorby_Bang_-_Helsinge,Thomas Thorby Bang - Helsinge,Nye Borgerlige,8
+Gribskov,10,Ramløse,D_Rasmus_Kaspar_Jensen_-_Annisse,Rasmus Kaspar Jensen - Annisse,Nye Borgerlige,2
+Gribskov,10,Ramløse,D_Leif_Krøyer_-_Græsted,Leif Krøyer - Græsted,Nye Borgerlige,1
+Gribskov,10,Ramløse,D_Peter_Sørensen_-_Mårum,Peter Sørensen - Mårum,Nye Borgerlige,1
+Gribskov,10,Ramløse,E_Listestemmer,Listestemmer,nytgribskov,55
+Gribskov,10,Ramløse,E_Anders_Gerner_Frost,Anders Gerner Frost,nytgribskov,110
+Gribskov,10,Ramløse,E_Pernille_Søndergaard,Pernille Søndergaard,nytgribskov,29
+Gribskov,10,Ramløse,E_Morten_Rohde_Klitgaard,Morten Rohde Klitgaard,nytgribskov,4
+Gribskov,10,Ramløse,E_Pernille_Kromann_Sams,Pernille Kromann Sams,nytgribskov,16
+Gribskov,10,Ramløse,E_Jesper_Hagen_Behrensdorff,Jesper Hagen Behrensdorff,nytgribskov,10
+Gribskov,10,Ramløse,E_Jonna_Hildur_Præst,Jonna Hildur Præst,nytgribskov,0
+Gribskov,10,Ramløse,E_Tonny_Nalepa_Jensen,Tonny Nalepa Jensen,nytgribskov,4
+Gribskov,10,Ramløse,E_Astrid_Franklin_Recinella,Astrid Franklin Recinella,nytgribskov,8
+Gribskov,10,Ramløse,E_Oliver_Hagen_Møllenberg,Oliver Hagen Møllenberg,nytgribskov,3
+Gribskov,10,Ramløse,E_Ceren_Sen,Ceren Sen,nytgribskov,3
+Gribskov,10,Ramløse,E_Thomas_Jung_Larsen,Thomas Jung Larsen,nytgribskov,6
+Gribskov,10,Ramløse,E_Janni_Bøgh_Olsen,Janni Bøgh Olsen,nytgribskov,5
+Gribskov,10,Ramløse,E_Jesper_Skibby,Jesper Skibby,nytgribskov,3
+Gribskov,10,Ramløse,E_Pernille_Albjerg_Sørensen,Pernille Albjerg Sørensen,nytgribskov,0
+Gribskov,10,Ramløse,E_Henrik_Magelund,Henrik Magelund,nytgribskov,0
+Gribskov,10,Ramløse,E_Andreas_Pedersen_Søegaard,Andreas Pedersen Søegaard,nytgribskov,3
+Gribskov,10,Ramløse,E_Flemming_Lund_Blixt,Flemming Lund Blixt,nytgribskov,1
+Gribskov,10,Ramløse,E_Allan_Sørensen,Allan Sørensen,nytgribskov,4
+Gribskov,10,Ramløse,E_Anders_Vilhelm_Grøndahl,Anders Vilhelm Grøndahl,nytgribskov,2
+Gribskov,10,Ramløse,E_Ole_Flemming_Krog,Ole Flemming Krog,nytgribskov,6
+Gribskov,10,Ramløse,E_Søren_Rosenkrantz_Maack,Søren Rosenkrantz Maack,nytgribskov,7
+Gribskov,10,Ramløse,E_Allan_Meyer_Petersen,Allan Meyer Petersen,nytgribskov,0
+Gribskov,10,Ramløse,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,41
+Gribskov,10,Ramløse,F_Jens_Rane_Holck_-_Tisvilde,Jens Rane Holck - Tisvilde,SF - Socialistisk Folkeparti,43
+Gribskov,10,Ramløse,F_Mathias_Arnvig_Zilberberg_-_Gillel,Mathias Arnvig Zilberberg - Gillel,SF - Socialistisk Folkeparti,22
+Gribskov,10,Ramløse,F_Kirsten_Rolfsager_-_Dr.Mølle,Kirsten Rolfsager - Dr.Mølle,SF - Socialistisk Folkeparti,1
+Gribskov,10,Ramløse,F_Susan_Kjeldgaard_-_Gilleleje,Susan Kjeldgaard - Gilleleje,SF - Socialistisk Folkeparti,22
+Gribskov,10,Ramløse,F_Jens_Ove_Hofmann_-_Helsinge,Jens Ove Hofmann - Helsinge,SF - Socialistisk Folkeparti,5
+Gribskov,10,Ramløse,F_Kirsten_Juul_-_Smidstrup_Strand,Kirsten Juul - Smidstrup Strand,SF - Socialistisk Folkeparti,0
+Gribskov,10,Ramløse,F_Lars_Kiilerich_Laustsen_-_Annisse,Lars Kiilerich Laustsen - Annisse,SF - Socialistisk Folkeparti,1
+Gribskov,10,Ramløse,F_Børge_Hermann_Sørensen_-_Gilleleje,Børge Hermann Sørensen - Gilleleje,SF - Socialistisk Folkeparti,1
+Gribskov,10,Ramløse,M_Listestemmer,Listestemmer,Klimapartiet i Gribskov,2
+Gribskov,10,Ramløse,M_Gert_Lassen,Gert Lassen,Klimapartiet i Gribskov,4
+Gribskov,10,Ramløse,O_Listestemmer,Listestemmer,Dansk Folkeparti,27
+Gribskov,10,Ramløse,O_Brian_Lyck_Jørgensen,Brian Lyck Jørgensen,Dansk Folkeparti,18
+Gribskov,10,Ramløse,O_Michael_Jens_Rerup,Michael Jens Rerup,Dansk Folkeparti,7
+Gribskov,10,Ramløse,O_Anja_Schlie,Anja Schlie,Dansk Folkeparti,5
+Gribskov,10,Ramløse,O_Keld_Lund,Keld Lund,Dansk Folkeparti,2
+Gribskov,10,Ramløse,O_Henrik_Bo_Hedelund,Henrik Bo Hedelund,Dansk Folkeparti,6
+Gribskov,10,Ramløse,O_Henrik_Jarl_Fugl,Henrik Jarl Fugl,Dansk Folkeparti,1
+Gribskov,10,Ramløse,O_Finn_Fredsgaard,Finn Fredsgaard,Dansk Folkeparti,0
+Gribskov,10,Ramløse,U_Listestemmer,Listestemmer,KultureltFokus,1
+Gribskov,10,Ramløse,U_Morten_Ulrik_Jørgensen,Morten Ulrik Jørgensen,KultureltFokus,1
+Gribskov,10,Ramløse,U_Helene_Bartram,Helene Bartram,KultureltFokus,0
+Gribskov,10,Ramløse,U_Steen_Ejler_Hasselby,Steen Ejler Hasselby,KultureltFokus,0
+Gribskov,10,Ramløse,U_Camilla_Nielsen,Camilla Nielsen,KultureltFokus,0
+Gribskov,10,Ramløse,U_Mikkel_Ramm,Mikkel Ramm,KultureltFokus,0
+Gribskov,10,Ramløse,U_Jeanette_Wachenschwantz,Jeanette Wachenschwantz,KultureltFokus,1
+Gribskov,10,Ramløse,U_Hanne_Jette_Brudholm,Hanne Jette Brudholm,KultureltFokus,0
+Gribskov,10,Ramløse,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",49
+Gribskov,10,Ramløse,V_Bent_Hansen,Bent Hansen,"Venstre, Danmarks Liberale Parti",83
+Gribskov,10,Ramløse,V_Kim_Valentin,Kim Valentin,"Venstre, Danmarks Liberale Parti",35
+Gribskov,10,Ramløse,V_Natasha_Elisabeth_A_S_H_Enetoft,Natasha Elisabeth A S H Enetoft,"Venstre, Danmarks Liberale Parti",23
+Gribskov,10,Ramløse,V_Tue_Villebro,Tue Villebro,"Venstre, Danmarks Liberale Parti",10
+Gribskov,10,Ramløse,V_Helle_Blomsterberg,Helle Blomsterberg,"Venstre, Danmarks Liberale Parti",19
+Gribskov,10,Ramløse,V_Jørgen_Emil_Simonsen,Jørgen Emil Simonsen,"Venstre, Danmarks Liberale Parti",7
+Gribskov,10,Ramløse,V_Sally_Schlichting,Sally Schlichting,"Venstre, Danmarks Liberale Parti",5
+Gribskov,10,Ramløse,V_Betty_Schachtschabel,Betty Schachtschabel,"Venstre, Danmarks Liberale Parti",222
+Gribskov,10,Ramløse,V_Steen_Pedersen,Steen Pedersen,"Venstre, Danmarks Liberale Parti",5
+Gribskov,10,Ramløse,V_Eskild_Beiter,Eskild Beiter,"Venstre, Danmarks Liberale Parti",0
+Gribskov,10,Ramløse,V_Bill_Petersen_Kaae,Bill Petersen Kaae,"Venstre, Danmarks Liberale Parti",0
+Gribskov,10,Ramløse,V_Johnny_Braginski,Johnny Braginski,"Venstre, Danmarks Liberale Parti",2
+Gribskov,10,Ramløse,V_Carl-Børge_Christiansen,Carl-Børge Christiansen,"Venstre, Danmarks Liberale Parti",5
+Gribskov,10,Ramløse,V_Viola_Mathiasen,Viola Mathiasen,"Venstre, Danmarks Liberale Parti",0
+Gribskov,10,Ramløse,V_Pia_Mørz,Pia Mørz,"Venstre, Danmarks Liberale Parti",2
+Gribskov,10,Ramløse,V_Flemming_Steen_Munch,Flemming Steen Munch,"Venstre, Danmarks Liberale Parti",6
+Gribskov,10,Ramløse,V_Jannich_Birger_Petersen,Jannich Birger Petersen,"Venstre, Danmarks Liberale Parti",6
+Gribskov,10,Ramløse,V_Birgit_Jette_Roswall,Birgit Jette Roswall,"Venstre, Danmarks Liberale Parti",7
+Gribskov,10,Ramløse,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,31
+Gribskov,10,Ramløse,Ø_Michael_Hemming_Nielsen_-_Gillelej,Michael Hemming Nielsen - Gillelej,Enhedslisten - De Rød-Grønne,9
+Gribskov,10,Ramløse,Ø_Niels_Arne_Würgler_-_Dr._Mølle,Niels Arne Würgler - Dr. Mølle,Enhedslisten - De Rød-Grønne,10
+Gribskov,10,Ramløse,Ø_Annie_Hagel_-_Gilleleje,Annie Hagel - Gilleleje,Enhedslisten - De Rød-Grønne,6
+Gribskov,10,Ramløse,Ø_Christine_Karlinsky_Scherfig_-_Græ,Christine Karlinsky Scherfig - Græ,Enhedslisten - De Rød-Grønne,4
+Gribskov,10,Ramløse,Ø_Jørgen_Sidenius_Strøm_-_Tisvildele,Jørgen Sidenius Strøm - Tisvildele,Enhedslisten - De Rød-Grønne,5
+Gribskov,10,Ramløse,Ø_Jette_Borgvold_Hansen_-_Gilleleje,Jette Borgvold Hansen - Gilleleje,Enhedslisten - De Rød-Grønne,0
+Gribskov,10,Ramløse,Ø_Kurt_Øland_Schimmell_-_Dr._Mølle,Kurt Øland Schimmell - Dr. Mølle,Enhedslisten - De Rød-Grønne,0
+Gribskov,10,Ramløse,Ø_Claus_Nedenskov_-_Gilleleje,Claus Nedenskov - Gilleleje,Enhedslisten - De Rød-Grønne,0
+Gribskov,10,Ramløse,Å_Listestemmer,Listestemmer,Alternativet,3
+Gribskov,10,Ramløse,Å_Maud_Margrethe_Pedersen,Maud Margrethe Pedersen,Alternativet,2
+Gribskov,11,Vejby,A_Listestemmer,Listestemmer,Socialdemokratiet,81
+Gribskov,11,Vejby,A_Morten_Dahlberg_Nielsen,Morten Dahlberg Nielsen,Socialdemokratiet,43
+Gribskov,11,Vejby,A_Allan_Nielsen,Allan Nielsen,Socialdemokratiet,8
+Gribskov,11,Vejby,A_Pia_Elly_Godsted_Foght,Pia Elly Godsted Foght,Socialdemokratiet,39
+Gribskov,11,Vejby,A_Mette_Marianne_Tolstrup,Mette Marianne Tolstrup,Socialdemokratiet,25
+Gribskov,11,Vejby,A_Jannik_Lyng_Petersen,Jannik Lyng Petersen,Socialdemokratiet,1
+Gribskov,11,Vejby,A_Steffen_Dannemand_Goldschmidt,Steffen Dannemand Goldschmidt,Socialdemokratiet,2
+Gribskov,11,Vejby,A_Daniel_Tao_Faber_Threms,Daniel Tao Faber Threms,Socialdemokratiet,25
+Gribskov,11,Vejby,B_Listestemmer,Listestemmer,Radikale Venstre,3
+Gribskov,11,Vejby,B_Bo_Jul_Baandhagen_Nielsen_-_Gillel,Bo Jul Baandhagen Nielsen - Gillel,Radikale Venstre,12
+Gribskov,11,Vejby,B_Mette_Dollerup_-_Gilleleje,Mette Dollerup - Gilleleje,Radikale Venstre,6
+Gribskov,11,Vejby,B_Rikke_Vesterbæk_Heitmann_-_Græsted,Rikke Vesterbæk Heitmann - Græsted,Radikale Venstre,4
+Gribskov,11,Vejby,B_Thomas_Frandsen_-_Tisvildeleje,Thomas Frandsen - Tisvildeleje,Radikale Venstre,4
+Gribskov,11,Vejby,B_Jens_Peter_Hansen_-_Gilleleje,Jens Peter Hansen - Gilleleje,Radikale Venstre,1
+Gribskov,11,Vejby,B_Karl_Terpager_Andersen_-_Vejby,Karl Terpager Andersen - Vejby,Radikale Venstre,9
+Gribskov,11,Vejby,B_Frank_Skaarup_Slemming_-_Tinkerup,Frank Skaarup Slemming - Tinkerup,Radikale Venstre,0
+Gribskov,11,Vejby,B_Arne_Skovgaard_Nielsen_-_Helsinge,Arne Skovgaard Nielsen - Helsinge,Radikale Venstre,0
+Gribskov,11,Vejby,B_Søren_Bald_-_Tibirke_Sand,Søren Bald - Tibirke Sand,Radikale Venstre,0
+Gribskov,11,Vejby,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,53
+Gribskov,11,Vejby,C_Trine_Mette_Egetved-Sørensen,Trine Mette Egetved-Sørensen,Det Konservative Folkeparti,205
+Gribskov,11,Vejby,C_Lars_Nielsen,Lars Nielsen,Det Konservative Folkeparti,3
+Gribskov,11,Vejby,C_Samir_Maáli,Samir Maáli,Det Konservative Folkeparti,6
+Gribskov,11,Vejby,C_Daniel_Frigast,Daniel Frigast,Det Konservative Folkeparti,15
+Gribskov,11,Vejby,C_Helene_Elisabeth_F_Gerlykke-Dohn,Helene Elisabeth F Gerlykke-Dohn,Det Konservative Folkeparti,9
+Gribskov,11,Vejby,C_Simon_Johannes_Mortensen,Simon Johannes Mortensen,Det Konservative Folkeparti,3
+Gribskov,11,Vejby,C_Bertel_Dandanell_Bording,Bertel Dandanell Bording,Det Konservative Folkeparti,2
+Gribskov,11,Vejby,C_Michael_Frank_Hansen,Michael Frank Hansen,Det Konservative Folkeparti,1
+Gribskov,11,Vejby,C_Lars_Christian_Bregnbak,Lars Christian Bregnbak,Det Konservative Folkeparti,0
+Gribskov,11,Vejby,C_Kim_Thonsgaard,Kim Thonsgaard,Det Konservative Folkeparti,5
+Gribskov,11,Vejby,C_Casper_Hannibal_Aistrup,Casper Hannibal Aistrup,Det Konservative Folkeparti,7
+Gribskov,11,Vejby,C_Jens_Louis_Zwicky,Jens Louis Zwicky,Det Konservative Folkeparti,1
+Gribskov,11,Vejby,C_Hasse_Højmark_Andersen,Hasse Højmark Andersen,Det Konservative Folkeparti,0
+Gribskov,11,Vejby,D_Listestemmer,Listestemmer,Nye Borgerlige,47
+Gribskov,11,Vejby,D_Kim_Hinrich_-_Helsinge,Kim Hinrich - Helsinge,Nye Borgerlige,19
+Gribskov,11,Vejby,D_Zandra_Thulstrup_Pihl_-_Ørby,Zandra Thulstrup Pihl - Ørby,Nye Borgerlige,18
+Gribskov,11,Vejby,D_Helle_Saugmann_Lund_-_Gilleleje,Helle Saugmann Lund - Gilleleje,Nye Borgerlige,18
+Gribskov,11,Vejby,D_Thomas_Thorby_Bang_-_Helsinge,Thomas Thorby Bang - Helsinge,Nye Borgerlige,9
+Gribskov,11,Vejby,D_Rasmus_Kaspar_Jensen_-_Annisse,Rasmus Kaspar Jensen - Annisse,Nye Borgerlige,9
+Gribskov,11,Vejby,D_Leif_Krøyer_-_Græsted,Leif Krøyer - Græsted,Nye Borgerlige,2
+Gribskov,11,Vejby,D_Peter_Sørensen_-_Mårum,Peter Sørensen - Mårum,Nye Borgerlige,1
+Gribskov,11,Vejby,E_Listestemmer,Listestemmer,nytgribskov,59
+Gribskov,11,Vejby,E_Anders_Gerner_Frost,Anders Gerner Frost,nytgribskov,119
+Gribskov,11,Vejby,E_Pernille_Søndergaard,Pernille Søndergaard,nytgribskov,6
+Gribskov,11,Vejby,E_Morten_Rohde_Klitgaard,Morten Rohde Klitgaard,nytgribskov,3
+Gribskov,11,Vejby,E_Pernille_Kromann_Sams,Pernille Kromann Sams,nytgribskov,4
+Gribskov,11,Vejby,E_Jesper_Hagen_Behrensdorff,Jesper Hagen Behrensdorff,nytgribskov,6
+Gribskov,11,Vejby,E_Jonna_Hildur_Præst,Jonna Hildur Præst,nytgribskov,5
+Gribskov,11,Vejby,E_Tonny_Nalepa_Jensen,Tonny Nalepa Jensen,nytgribskov,4
+Gribskov,11,Vejby,E_Astrid_Franklin_Recinella,Astrid Franklin Recinella,nytgribskov,17
+Gribskov,11,Vejby,E_Oliver_Hagen_Møllenberg,Oliver Hagen Møllenberg,nytgribskov,5
+Gribskov,11,Vejby,E_Ceren_Sen,Ceren Sen,nytgribskov,1
+Gribskov,11,Vejby,E_Thomas_Jung_Larsen,Thomas Jung Larsen,nytgribskov,7
+Gribskov,11,Vejby,E_Janni_Bøgh_Olsen,Janni Bøgh Olsen,nytgribskov,20
+Gribskov,11,Vejby,E_Jesper_Skibby,Jesper Skibby,nytgribskov,4
+Gribskov,11,Vejby,E_Pernille_Albjerg_Sørensen,Pernille Albjerg Sørensen,nytgribskov,1
+Gribskov,11,Vejby,E_Henrik_Magelund,Henrik Magelund,nytgribskov,0
+Gribskov,11,Vejby,E_Andreas_Pedersen_Søegaard,Andreas Pedersen Søegaard,nytgribskov,0
+Gribskov,11,Vejby,E_Flemming_Lund_Blixt,Flemming Lund Blixt,nytgribskov,0
+Gribskov,11,Vejby,E_Allan_Sørensen,Allan Sørensen,nytgribskov,62
+Gribskov,11,Vejby,E_Anders_Vilhelm_Grøndahl,Anders Vilhelm Grøndahl,nytgribskov,3
+Gribskov,11,Vejby,E_Ole_Flemming_Krog,Ole Flemming Krog,nytgribskov,2
+Gribskov,11,Vejby,E_Søren_Rosenkrantz_Maack,Søren Rosenkrantz Maack,nytgribskov,2
+Gribskov,11,Vejby,E_Allan_Meyer_Petersen,Allan Meyer Petersen,nytgribskov,5
+Gribskov,11,Vejby,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,36
+Gribskov,11,Vejby,F_Jens_Rane_Holck_-_Tisvilde,Jens Rane Holck - Tisvilde,SF - Socialistisk Folkeparti,55
+Gribskov,11,Vejby,F_Mathias_Arnvig_Zilberberg_-_Gillel,Mathias Arnvig Zilberberg - Gillel,SF - Socialistisk Folkeparti,23
+Gribskov,11,Vejby,F_Kirsten_Rolfsager_-_Dr.Mølle,Kirsten Rolfsager - Dr.Mølle,SF - Socialistisk Folkeparti,11
+Gribskov,11,Vejby,F_Susan_Kjeldgaard_-_Gilleleje,Susan Kjeldgaard - Gilleleje,SF - Socialistisk Folkeparti,18
+Gribskov,11,Vejby,F_Jens_Ove_Hofmann_-_Helsinge,Jens Ove Hofmann - Helsinge,SF - Socialistisk Folkeparti,6
+Gribskov,11,Vejby,F_Kirsten_Juul_-_Smidstrup_Strand,Kirsten Juul - Smidstrup Strand,SF - Socialistisk Folkeparti,0
+Gribskov,11,Vejby,F_Lars_Kiilerich_Laustsen_-_Annisse,Lars Kiilerich Laustsen - Annisse,SF - Socialistisk Folkeparti,2
+Gribskov,11,Vejby,F_Børge_Hermann_Sørensen_-_Gilleleje,Børge Hermann Sørensen - Gilleleje,SF - Socialistisk Folkeparti,0
+Gribskov,11,Vejby,M_Listestemmer,Listestemmer,Klimapartiet i Gribskov,2
+Gribskov,11,Vejby,M_Gert_Lassen,Gert Lassen,Klimapartiet i Gribskov,4
+Gribskov,11,Vejby,O_Listestemmer,Listestemmer,Dansk Folkeparti,36
+Gribskov,11,Vejby,O_Brian_Lyck_Jørgensen,Brian Lyck Jørgensen,Dansk Folkeparti,25
+Gribskov,11,Vejby,O_Michael_Jens_Rerup,Michael Jens Rerup,Dansk Folkeparti,14
+Gribskov,11,Vejby,O_Anja_Schlie,Anja Schlie,Dansk Folkeparti,6
+Gribskov,11,Vejby,O_Keld_Lund,Keld Lund,Dansk Folkeparti,2
+Gribskov,11,Vejby,O_Henrik_Bo_Hedelund,Henrik Bo Hedelund,Dansk Folkeparti,1
+Gribskov,11,Vejby,O_Henrik_Jarl_Fugl,Henrik Jarl Fugl,Dansk Folkeparti,0
+Gribskov,11,Vejby,O_Finn_Fredsgaard,Finn Fredsgaard,Dansk Folkeparti,1
+Gribskov,11,Vejby,U_Listestemmer,Listestemmer,KultureltFokus,1
+Gribskov,11,Vejby,U_Morten_Ulrik_Jørgensen,Morten Ulrik Jørgensen,KultureltFokus,3
+Gribskov,11,Vejby,U_Helene_Bartram,Helene Bartram,KultureltFokus,1
+Gribskov,11,Vejby,U_Steen_Ejler_Hasselby,Steen Ejler Hasselby,KultureltFokus,0
+Gribskov,11,Vejby,U_Camilla_Nielsen,Camilla Nielsen,KultureltFokus,1
+Gribskov,11,Vejby,U_Mikkel_Ramm,Mikkel Ramm,KultureltFokus,0
+Gribskov,11,Vejby,U_Jeanette_Wachenschwantz,Jeanette Wachenschwantz,KultureltFokus,0
+Gribskov,11,Vejby,U_Hanne_Jette_Brudholm,Hanne Jette Brudholm,KultureltFokus,0
+Gribskov,11,Vejby,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",41
+Gribskov,11,Vejby,V_Bent_Hansen,Bent Hansen,"Venstre, Danmarks Liberale Parti",91
+Gribskov,11,Vejby,V_Kim_Valentin,Kim Valentin,"Venstre, Danmarks Liberale Parti",30
+Gribskov,11,Vejby,V_Natasha_Elisabeth_A_S_H_Enetoft,Natasha Elisabeth A S H Enetoft,"Venstre, Danmarks Liberale Parti",4
+Gribskov,11,Vejby,V_Tue_Villebro,Tue Villebro,"Venstre, Danmarks Liberale Parti",9
+Gribskov,11,Vejby,V_Helle_Blomsterberg,Helle Blomsterberg,"Venstre, Danmarks Liberale Parti",6
+Gribskov,11,Vejby,V_Jørgen_Emil_Simonsen,Jørgen Emil Simonsen,"Venstre, Danmarks Liberale Parti",4
+Gribskov,11,Vejby,V_Sally_Schlichting,Sally Schlichting,"Venstre, Danmarks Liberale Parti",3
+Gribskov,11,Vejby,V_Betty_Schachtschabel,Betty Schachtschabel,"Venstre, Danmarks Liberale Parti",13
+Gribskov,11,Vejby,V_Steen_Pedersen,Steen Pedersen,"Venstre, Danmarks Liberale Parti",0
+Gribskov,11,Vejby,V_Eskild_Beiter,Eskild Beiter,"Venstre, Danmarks Liberale Parti",1
+Gribskov,11,Vejby,V_Bill_Petersen_Kaae,Bill Petersen Kaae,"Venstre, Danmarks Liberale Parti",18
+Gribskov,11,Vejby,V_Johnny_Braginski,Johnny Braginski,"Venstre, Danmarks Liberale Parti",4
+Gribskov,11,Vejby,V_Carl-Børge_Christiansen,Carl-Børge Christiansen,"Venstre, Danmarks Liberale Parti",6
+Gribskov,11,Vejby,V_Viola_Mathiasen,Viola Mathiasen,"Venstre, Danmarks Liberale Parti",1
+Gribskov,11,Vejby,V_Pia_Mørz,Pia Mørz,"Venstre, Danmarks Liberale Parti",4
+Gribskov,11,Vejby,V_Flemming_Steen_Munch,Flemming Steen Munch,"Venstre, Danmarks Liberale Parti",5
+Gribskov,11,Vejby,V_Jannich_Birger_Petersen,Jannich Birger Petersen,"Venstre, Danmarks Liberale Parti",5
+Gribskov,11,Vejby,V_Birgit_Jette_Roswall,Birgit Jette Roswall,"Venstre, Danmarks Liberale Parti",2
+Gribskov,11,Vejby,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,40
+Gribskov,11,Vejby,Ø_Michael_Hemming_Nielsen_-_Gillelej,Michael Hemming Nielsen - Gillelej,Enhedslisten - De Rød-Grønne,12
+Gribskov,11,Vejby,Ø_Niels_Arne_Würgler_-_Dr._Mølle,Niels Arne Würgler - Dr. Mølle,Enhedslisten - De Rød-Grønne,16
+Gribskov,11,Vejby,Ø_Annie_Hagel_-_Gilleleje,Annie Hagel - Gilleleje,Enhedslisten - De Rød-Grønne,19
+Gribskov,11,Vejby,Ø_Christine_Karlinsky_Scherfig_-_Græ,Christine Karlinsky Scherfig - Græ,Enhedslisten - De Rød-Grønne,7
+Gribskov,11,Vejby,Ø_Jørgen_Sidenius_Strøm_-_Tisvildele,Jørgen Sidenius Strøm - Tisvildele,Enhedslisten - De Rød-Grønne,9
+Gribskov,11,Vejby,Ø_Jette_Borgvold_Hansen_-_Gilleleje,Jette Borgvold Hansen - Gilleleje,Enhedslisten - De Rød-Grønne,2
+Gribskov,11,Vejby,Ø_Kurt_Øland_Schimmell_-_Dr._Mølle,Kurt Øland Schimmell - Dr. Mølle,Enhedslisten - De Rød-Grønne,0
+Gribskov,11,Vejby,Ø_Claus_Nedenskov_-_Gilleleje,Claus Nedenskov - Gilleleje,Enhedslisten - De Rød-Grønne,0
+Gribskov,11,Vejby,Å_Listestemmer,Listestemmer,Alternativet,0
+Gribskov,11,Vejby,Å_Maud_Margrethe_Pedersen,Maud Margrethe Pedersen,Alternativet,3
+Gribskov,12,Tibirke,A_Listestemmer,Listestemmer,Socialdemokratiet,65
+Gribskov,12,Tibirke,A_Morten_Dahlberg_Nielsen,Morten Dahlberg Nielsen,Socialdemokratiet,25
+Gribskov,12,Tibirke,A_Allan_Nielsen,Allan Nielsen,Socialdemokratiet,10
+Gribskov,12,Tibirke,A_Pia_Elly_Godsted_Foght,Pia Elly Godsted Foght,Socialdemokratiet,19
+Gribskov,12,Tibirke,A_Mette_Marianne_Tolstrup,Mette Marianne Tolstrup,Socialdemokratiet,22
+Gribskov,12,Tibirke,A_Jannik_Lyng_Petersen,Jannik Lyng Petersen,Socialdemokratiet,1
+Gribskov,12,Tibirke,A_Steffen_Dannemand_Goldschmidt,Steffen Dannemand Goldschmidt,Socialdemokratiet,2
+Gribskov,12,Tibirke,A_Daniel_Tao_Faber_Threms,Daniel Tao Faber Threms,Socialdemokratiet,9
+Gribskov,12,Tibirke,B_Listestemmer,Listestemmer,Radikale Venstre,12
+Gribskov,12,Tibirke,B_Bo_Jul_Baandhagen_Nielsen_-_Gillel,Bo Jul Baandhagen Nielsen - Gillel,Radikale Venstre,11
+Gribskov,12,Tibirke,B_Mette_Dollerup_-_Gilleleje,Mette Dollerup - Gilleleje,Radikale Venstre,3
+Gribskov,12,Tibirke,B_Rikke_Vesterbæk_Heitmann_-_Græsted,Rikke Vesterbæk Heitmann - Græsted,Radikale Venstre,0
+Gribskov,12,Tibirke,B_Thomas_Frandsen_-_Tisvildeleje,Thomas Frandsen - Tisvildeleje,Radikale Venstre,10
+Gribskov,12,Tibirke,B_Jens_Peter_Hansen_-_Gilleleje,Jens Peter Hansen - Gilleleje,Radikale Venstre,0
+Gribskov,12,Tibirke,B_Karl_Terpager_Andersen_-_Vejby,Karl Terpager Andersen - Vejby,Radikale Venstre,1
+Gribskov,12,Tibirke,B_Frank_Skaarup_Slemming_-_Tinkerup,Frank Skaarup Slemming - Tinkerup,Radikale Venstre,0
+Gribskov,12,Tibirke,B_Arne_Skovgaard_Nielsen_-_Helsinge,Arne Skovgaard Nielsen - Helsinge,Radikale Venstre,0
+Gribskov,12,Tibirke,B_Søren_Bald_-_Tibirke_Sand,Søren Bald - Tibirke Sand,Radikale Venstre,1
+Gribskov,12,Tibirke,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,32
+Gribskov,12,Tibirke,C_Trine_Mette_Egetved-Sørensen,Trine Mette Egetved-Sørensen,Det Konservative Folkeparti,105
+Gribskov,12,Tibirke,C_Lars_Nielsen,Lars Nielsen,Det Konservative Folkeparti,4
+Gribskov,12,Tibirke,C_Samir_Maáli,Samir Maáli,Det Konservative Folkeparti,3
+Gribskov,12,Tibirke,C_Daniel_Frigast,Daniel Frigast,Det Konservative Folkeparti,61
+Gribskov,12,Tibirke,C_Helene_Elisabeth_F_Gerlykke-Dohn,Helene Elisabeth F Gerlykke-Dohn,Det Konservative Folkeparti,5
+Gribskov,12,Tibirke,C_Simon_Johannes_Mortensen,Simon Johannes Mortensen,Det Konservative Folkeparti,0
+Gribskov,12,Tibirke,C_Bertel_Dandanell_Bording,Bertel Dandanell Bording,Det Konservative Folkeparti,0
+Gribskov,12,Tibirke,C_Michael_Frank_Hansen,Michael Frank Hansen,Det Konservative Folkeparti,0
+Gribskov,12,Tibirke,C_Lars_Christian_Bregnbak,Lars Christian Bregnbak,Det Konservative Folkeparti,0
+Gribskov,12,Tibirke,C_Kim_Thonsgaard,Kim Thonsgaard,Det Konservative Folkeparti,0
+Gribskov,12,Tibirke,C_Casper_Hannibal_Aistrup,Casper Hannibal Aistrup,Det Konservative Folkeparti,0
+Gribskov,12,Tibirke,C_Jens_Louis_Zwicky,Jens Louis Zwicky,Det Konservative Folkeparti,0
+Gribskov,12,Tibirke,C_Hasse_Højmark_Andersen,Hasse Højmark Andersen,Det Konservative Folkeparti,0
+Gribskov,12,Tibirke,D_Listestemmer,Listestemmer,Nye Borgerlige,17
+Gribskov,12,Tibirke,D_Kim_Hinrich_-_Helsinge,Kim Hinrich - Helsinge,Nye Borgerlige,7
+Gribskov,12,Tibirke,D_Zandra_Thulstrup_Pihl_-_Ørby,Zandra Thulstrup Pihl - Ørby,Nye Borgerlige,8
+Gribskov,12,Tibirke,D_Helle_Saugmann_Lund_-_Gilleleje,Helle Saugmann Lund - Gilleleje,Nye Borgerlige,5
+Gribskov,12,Tibirke,D_Thomas_Thorby_Bang_-_Helsinge,Thomas Thorby Bang - Helsinge,Nye Borgerlige,5
+Gribskov,12,Tibirke,D_Rasmus_Kaspar_Jensen_-_Annisse,Rasmus Kaspar Jensen - Annisse,Nye Borgerlige,2
+Gribskov,12,Tibirke,D_Leif_Krøyer_-_Græsted,Leif Krøyer - Græsted,Nye Borgerlige,0
+Gribskov,12,Tibirke,D_Peter_Sørensen_-_Mårum,Peter Sørensen - Mårum,Nye Borgerlige,0
+Gribskov,12,Tibirke,E_Listestemmer,Listestemmer,nytgribskov,30
+Gribskov,12,Tibirke,E_Anders_Gerner_Frost,Anders Gerner Frost,nytgribskov,161
+Gribskov,12,Tibirke,E_Pernille_Søndergaard,Pernille Søndergaard,nytgribskov,9
+Gribskov,12,Tibirke,E_Morten_Rohde_Klitgaard,Morten Rohde Klitgaard,nytgribskov,0
+Gribskov,12,Tibirke,E_Pernille_Kromann_Sams,Pernille Kromann Sams,nytgribskov,8
+Gribskov,12,Tibirke,E_Jesper_Hagen_Behrensdorff,Jesper Hagen Behrensdorff,nytgribskov,1
+Gribskov,12,Tibirke,E_Jonna_Hildur_Præst,Jonna Hildur Præst,nytgribskov,3
+Gribskov,12,Tibirke,E_Tonny_Nalepa_Jensen,Tonny Nalepa Jensen,nytgribskov,1
+Gribskov,12,Tibirke,E_Astrid_Franklin_Recinella,Astrid Franklin Recinella,nytgribskov,63
+Gribskov,12,Tibirke,E_Oliver_Hagen_Møllenberg,Oliver Hagen Møllenberg,nytgribskov,0
+Gribskov,12,Tibirke,E_Ceren_Sen,Ceren Sen,nytgribskov,4
+Gribskov,12,Tibirke,E_Thomas_Jung_Larsen,Thomas Jung Larsen,nytgribskov,9
+Gribskov,12,Tibirke,E_Janni_Bøgh_Olsen,Janni Bøgh Olsen,nytgribskov,2
+Gribskov,12,Tibirke,E_Jesper_Skibby,Jesper Skibby,nytgribskov,2
+Gribskov,12,Tibirke,E_Pernille_Albjerg_Sørensen,Pernille Albjerg Sørensen,nytgribskov,1
+Gribskov,12,Tibirke,E_Henrik_Magelund,Henrik Magelund,nytgribskov,0
+Gribskov,12,Tibirke,E_Andreas_Pedersen_Søegaard,Andreas Pedersen Søegaard,nytgribskov,0
+Gribskov,12,Tibirke,E_Flemming_Lund_Blixt,Flemming Lund Blixt,nytgribskov,0
+Gribskov,12,Tibirke,E_Allan_Sørensen,Allan Sørensen,nytgribskov,12
+Gribskov,12,Tibirke,E_Anders_Vilhelm_Grøndahl,Anders Vilhelm Grøndahl,nytgribskov,0
+Gribskov,12,Tibirke,E_Ole_Flemming_Krog,Ole Flemming Krog,nytgribskov,1
+Gribskov,12,Tibirke,E_Søren_Rosenkrantz_Maack,Søren Rosenkrantz Maack,nytgribskov,2
+Gribskov,12,Tibirke,E_Allan_Meyer_Petersen,Allan Meyer Petersen,nytgribskov,0
+Gribskov,12,Tibirke,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,19
+Gribskov,12,Tibirke,F_Jens_Rane_Holck_-_Tisvilde,Jens Rane Holck - Tisvilde,SF - Socialistisk Folkeparti,136
+Gribskov,12,Tibirke,F_Mathias_Arnvig_Zilberberg_-_Gillel,Mathias Arnvig Zilberberg - Gillel,SF - Socialistisk Folkeparti,15
+Gribskov,12,Tibirke,F_Kirsten_Rolfsager_-_Dr.Mølle,Kirsten Rolfsager - Dr.Mølle,SF - Socialistisk Folkeparti,0
+Gribskov,12,Tibirke,F_Susan_Kjeldgaard_-_Gilleleje,Susan Kjeldgaard - Gilleleje,SF - Socialistisk Folkeparti,6
+Gribskov,12,Tibirke,F_Jens_Ove_Hofmann_-_Helsinge,Jens Ove Hofmann - Helsinge,SF - Socialistisk Folkeparti,0
+Gribskov,12,Tibirke,F_Kirsten_Juul_-_Smidstrup_Strand,Kirsten Juul - Smidstrup Strand,SF - Socialistisk Folkeparti,1
+Gribskov,12,Tibirke,F_Lars_Kiilerich_Laustsen_-_Annisse,Lars Kiilerich Laustsen - Annisse,SF - Socialistisk Folkeparti,3
+Gribskov,12,Tibirke,F_Børge_Hermann_Sørensen_-_Gilleleje,Børge Hermann Sørensen - Gilleleje,SF - Socialistisk Folkeparti,0
+Gribskov,12,Tibirke,M_Listestemmer,Listestemmer,Klimapartiet i Gribskov,0
+Gribskov,12,Tibirke,M_Gert_Lassen,Gert Lassen,Klimapartiet i Gribskov,4
+Gribskov,12,Tibirke,O_Listestemmer,Listestemmer,Dansk Folkeparti,10
+Gribskov,12,Tibirke,O_Brian_Lyck_Jørgensen,Brian Lyck Jørgensen,Dansk Folkeparti,17
+Gribskov,12,Tibirke,O_Michael_Jens_Rerup,Michael Jens Rerup,Dansk Folkeparti,1
+Gribskov,12,Tibirke,O_Anja_Schlie,Anja Schlie,Dansk Folkeparti,2
+Gribskov,12,Tibirke,O_Keld_Lund,Keld Lund,Dansk Folkeparti,1
+Gribskov,12,Tibirke,O_Henrik_Bo_Hedelund,Henrik Bo Hedelund,Dansk Folkeparti,0
+Gribskov,12,Tibirke,O_Henrik_Jarl_Fugl,Henrik Jarl Fugl,Dansk Folkeparti,0
+Gribskov,12,Tibirke,O_Finn_Fredsgaard,Finn Fredsgaard,Dansk Folkeparti,0
+Gribskov,12,Tibirke,U_Listestemmer,Listestemmer,KultureltFokus,0
+Gribskov,12,Tibirke,U_Morten_Ulrik_Jørgensen,Morten Ulrik Jørgensen,KultureltFokus,4
+Gribskov,12,Tibirke,U_Helene_Bartram,Helene Bartram,KultureltFokus,1
+Gribskov,12,Tibirke,U_Steen_Ejler_Hasselby,Steen Ejler Hasselby,KultureltFokus,0
+Gribskov,12,Tibirke,U_Camilla_Nielsen,Camilla Nielsen,KultureltFokus,0
+Gribskov,12,Tibirke,U_Mikkel_Ramm,Mikkel Ramm,KultureltFokus,0
+Gribskov,12,Tibirke,U_Jeanette_Wachenschwantz,Jeanette Wachenschwantz,KultureltFokus,1
+Gribskov,12,Tibirke,U_Hanne_Jette_Brudholm,Hanne Jette Brudholm,KultureltFokus,0
+Gribskov,12,Tibirke,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",33
+Gribskov,12,Tibirke,V_Bent_Hansen,Bent Hansen,"Venstre, Danmarks Liberale Parti",33
+Gribskov,12,Tibirke,V_Kim_Valentin,Kim Valentin,"Venstre, Danmarks Liberale Parti",15
+Gribskov,12,Tibirke,V_Natasha_Elisabeth_A_S_H_Enetoft,Natasha Elisabeth A S H Enetoft,"Venstre, Danmarks Liberale Parti",7
+Gribskov,12,Tibirke,V_Tue_Villebro,Tue Villebro,"Venstre, Danmarks Liberale Parti",8
+Gribskov,12,Tibirke,V_Helle_Blomsterberg,Helle Blomsterberg,"Venstre, Danmarks Liberale Parti",6
+Gribskov,12,Tibirke,V_Jørgen_Emil_Simonsen,Jørgen Emil Simonsen,"Venstre, Danmarks Liberale Parti",3
+Gribskov,12,Tibirke,V_Sally_Schlichting,Sally Schlichting,"Venstre, Danmarks Liberale Parti",3
+Gribskov,12,Tibirke,V_Betty_Schachtschabel,Betty Schachtschabel,"Venstre, Danmarks Liberale Parti",7
+Gribskov,12,Tibirke,V_Steen_Pedersen,Steen Pedersen,"Venstre, Danmarks Liberale Parti",1
+Gribskov,12,Tibirke,V_Eskild_Beiter,Eskild Beiter,"Venstre, Danmarks Liberale Parti",0
+Gribskov,12,Tibirke,V_Bill_Petersen_Kaae,Bill Petersen Kaae,"Venstre, Danmarks Liberale Parti",4
+Gribskov,12,Tibirke,V_Johnny_Braginski,Johnny Braginski,"Venstre, Danmarks Liberale Parti",0
+Gribskov,12,Tibirke,V_Carl-Børge_Christiansen,Carl-Børge Christiansen,"Venstre, Danmarks Liberale Parti",1
+Gribskov,12,Tibirke,V_Viola_Mathiasen,Viola Mathiasen,"Venstre, Danmarks Liberale Parti",0
+Gribskov,12,Tibirke,V_Pia_Mørz,Pia Mørz,"Venstre, Danmarks Liberale Parti",1
+Gribskov,12,Tibirke,V_Flemming_Steen_Munch,Flemming Steen Munch,"Venstre, Danmarks Liberale Parti",2
+Gribskov,12,Tibirke,V_Jannich_Birger_Petersen,Jannich Birger Petersen,"Venstre, Danmarks Liberale Parti",3
+Gribskov,12,Tibirke,V_Birgit_Jette_Roswall,Birgit Jette Roswall,"Venstre, Danmarks Liberale Parti",2
+Gribskov,12,Tibirke,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,32
+Gribskov,12,Tibirke,Ø_Michael_Hemming_Nielsen_-_Gillelej,Michael Hemming Nielsen - Gillelej,Enhedslisten - De Rød-Grønne,10
+Gribskov,12,Tibirke,Ø_Niels_Arne_Würgler_-_Dr._Mølle,Niels Arne Würgler - Dr. Mølle,Enhedslisten - De Rød-Grønne,18
+Gribskov,12,Tibirke,Ø_Annie_Hagel_-_Gilleleje,Annie Hagel - Gilleleje,Enhedslisten - De Rød-Grønne,7
+Gribskov,12,Tibirke,Ø_Christine_Karlinsky_Scherfig_-_Græ,Christine Karlinsky Scherfig - Græ,Enhedslisten - De Rød-Grønne,4
+Gribskov,12,Tibirke,Ø_Jørgen_Sidenius_Strøm_-_Tisvildele,Jørgen Sidenius Strøm - Tisvildele,Enhedslisten - De Rød-Grønne,21
+Gribskov,12,Tibirke,Ø_Jette_Borgvold_Hansen_-_Gilleleje,Jette Borgvold Hansen - Gilleleje,Enhedslisten - De Rød-Grønne,2
+Gribskov,12,Tibirke,Ø_Kurt_Øland_Schimmell_-_Dr._Mølle,Kurt Øland Schimmell - Dr. Mølle,Enhedslisten - De Rød-Grønne,0
+Gribskov,12,Tibirke,Ø_Claus_Nedenskov_-_Gilleleje,Claus Nedenskov - Gilleleje,Enhedslisten - De Rød-Grønne,0
+Gribskov,12,Tibirke,Å_Listestemmer,Listestemmer,Alternativet,2
+Gribskov,12,Tibirke,Å_Maud_Margrethe_Pedersen,Maud Margrethe Pedersen,Alternativet,7

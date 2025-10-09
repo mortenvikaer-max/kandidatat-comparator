@@ -1,0 +1,701 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Furesø,1,Værløse,A_Listestemmer,Listestemmer,Socialdemokratiet,475
+Furesø,1,Værløse,A_Ole_Bondo_Christensen,Ole Bondo Christensen,Socialdemokratiet,743
+Furesø,1,Værløse,A_Bettina_Ugelvig_Møller,Bettina Ugelvig Møller,Socialdemokratiet,136
+Furesø,1,Værløse,A_Matilde_Powers,Matilde Powers,Socialdemokratiet,207
+Furesø,1,Værløse,A_Preben_Sandberg_Pettersson,Preben Sandberg Pettersson,Socialdemokratiet,20
+Furesø,1,Værløse,A_Lene_Munch-Petersen,Lene Munch-Petersen,Socialdemokratiet,31
+Furesø,1,Værløse,A_Niels_Bjerre_Degn,Niels Bjerre Degn,Socialdemokratiet,11
+Furesø,1,Værløse,A_Hasan_Yilmaz,Hasan Yilmaz,Socialdemokratiet,33
+Furesø,1,Værløse,A_Muhammed_Bektas,Muhammed Bektas,Socialdemokratiet,161
+Furesø,1,Værløse,A_Sussy_Sara_Hasle_Hansen,Sussy Sara Hasle Hansen,Socialdemokratiet,149
+Furesø,1,Værløse,A_Rasmus_Dahl,Rasmus Dahl,Socialdemokratiet,2
+Furesø,1,Værløse,A_Niels_Holk_Teinhart,Niels Holk Teinhart,Socialdemokratiet,58
+Furesø,1,Værløse,A_Susan_Engstrøm,Susan Engstrøm,Socialdemokratiet,8
+Furesø,1,Værløse,A_Christina_Iversen,Christina Iversen,Socialdemokratiet,7
+Furesø,1,Værløse,A_Helle_Katrine_Møller,Helle Katrine Møller,Socialdemokratiet,58
+Furesø,1,Værløse,A_Karin_Alsø,Karin Alsø,Socialdemokratiet,3
+Furesø,1,Værløse,A_Katarina_Ritz,Katarina Ritz,Socialdemokratiet,3
+Furesø,1,Værløse,A_Eddi_Meier,Eddi Meier,Socialdemokratiet,3
+Furesø,1,Værløse,A_Sofie_Pihl_Carrara,Sofie Pihl Carrara,Socialdemokratiet,26
+Furesø,1,Værløse,A_Lene_Bang,Lene Bang,Socialdemokratiet,12
+Furesø,1,Værløse,A_Peter_Arentzen,Peter Arentzen,Socialdemokratiet,12
+Furesø,1,Værløse,A_Celal_Deniz_Kilic,Celal Deniz Kilic,Socialdemokratiet,26
+Furesø,1,Værløse,B_Listestemmer,Listestemmer,Radikale Venstre,139
+Furesø,1,Værløse,B_Tine_Hessner,Tine Hessner,Radikale Venstre,193
+Furesø,1,Værløse,B_Ole_Kristensen,Ole Kristensen,Radikale Venstre,25
+Furesø,1,Værløse,B_Anders_Medum_Groth,Anders Medum Groth,Radikale Venstre,113
+Furesø,1,Værløse,B_Thomas_Hesselhøj_Hansen,Thomas Hesselhøj Hansen,Radikale Venstre,49
+Furesø,1,Værløse,B_Hanne_Gudik-Sørensen,Hanne Gudik-Sørensen,Radikale Venstre,23
+Furesø,1,Værløse,B_Jens_Rikardt_Andersen,Jens Rikardt Andersen,Radikale Venstre,3
+Furesø,1,Værløse,B_Henrik_Kenneth_Lyngberg,Henrik Kenneth Lyngberg,Radikale Venstre,10
+Furesø,1,Værløse,B_Neel_Linhøft_Ingstrup,Neel Linhøft Ingstrup,Radikale Venstre,13
+Furesø,1,Værløse,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,526
+Furesø,1,Værløse,C_Lars_Carstensen,Lars Carstensen,Det Konservative Folkeparti,309
+Furesø,1,Værløse,C_Egil_Hulgaard,Egil Hulgaard,Det Konservative Folkeparti,145
+Furesø,1,Værløse,C_Rikke_Blak-Kristiansen,Rikke Blak-Kristiansen,Det Konservative Folkeparti,241
+Furesø,1,Værløse,C_Joachim_Hjorting,Joachim Hjorting,Det Konservative Folkeparti,33
+Furesø,1,Værløse,C_Niels_Jørgen_Brandt,Niels Jørgen Brandt,Det Konservative Folkeparti,28
+Furesø,1,Værløse,C_Anne-Lise_Thorsen,Anne-Lise Thorsen,Det Konservative Folkeparti,33
+Furesø,1,Værløse,C_Yuying_Chen,Yuying Chen,Det Konservative Folkeparti,67
+Furesø,1,Værløse,C_Henrik_Haugaard_Pedersen,Henrik Haugaard Pedersen,Det Konservative Folkeparti,5
+Furesø,1,Værløse,C_Henrik_Christensen,Henrik Christensen,Det Konservative Folkeparti,30
+Furesø,1,Værløse,C_Sven_Krarup_Nielsen,Sven Krarup Nielsen,Det Konservative Folkeparti,5
+Furesø,1,Værløse,C_Sanne_Sejrbo-Dekker,Sanne Sejrbo-Dekker,Det Konservative Folkeparti,46
+Furesø,1,Værløse,D_Listestemmer,Listestemmer,Nye Borgerlige,59
+Furesø,1,Værløse,"D_Søren_Højbjerg,_Farum","Søren Højbjerg, Farum",Nye Borgerlige,36
+Furesø,1,Værløse,"D_Lisa_Thomsen,_Værløse","Lisa Thomsen, Værløse",Nye Borgerlige,54
+Furesø,1,Værløse,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,86
+Furesø,1,Værløse,F_Jesper_Dyhrberg,Jesper Dyhrberg,SF - Socialistisk Folkeparti,66
+Furesø,1,Værløse,F_Jan_Kjældgaard,Jan Kjældgaard,SF - Socialistisk Folkeparti,25
+Furesø,1,Værløse,F_Claus_Jensen,Claus Jensen,SF - Socialistisk Folkeparti,21
+Furesø,1,Værløse,F_Henrik_Tyle,Henrik Tyle,SF - Socialistisk Folkeparti,5
+Furesø,1,Værløse,F_Henrik_F._Wille,Henrik F. Wille,SF - Socialistisk Folkeparti,5
+Furesø,1,Værløse,F_Randi_Angelica_Kristensen,Randi Angelica Kristensen,SF - Socialistisk Folkeparti,22
+Furesø,1,Værløse,I_Listestemmer,Listestemmer,Liberal Alliance,43
+Furesø,1,Værløse,I_Søren_Bronée_Bronér,Søren Bronée Bronér,Liberal Alliance,23
+Furesø,1,Værløse,I_Simone_Salung_Bagger,Simone Salung Bagger,Liberal Alliance,6
+Furesø,1,Værløse,I_Steen_Horstmann_Larsen,Steen Horstmann Larsen,Liberal Alliance,12
+Furesø,1,Værløse,I_Inge_Storm,Inge Storm,Liberal Alliance,9
+Furesø,1,Værløse,I_Mads_Okkels_Hansen,Mads Okkels Hansen,Liberal Alliance,6
+Furesø,1,Værløse,I_Niels_Høiby,Niels Høiby,Liberal Alliance,4
+Furesø,1,Værløse,I_Arne_Rask,Arne Rask,Liberal Alliance,6
+Furesø,1,Værløse,I_Mogens_B._Andersen,Mogens B. Andersen,Liberal Alliance,6
+Furesø,1,Værløse,O_Listestemmer,Listestemmer,Dansk Folkeparti,47
+Furesø,1,Værløse,"O_Carsten_Svensson,_Farum","Carsten Svensson, Farum",Dansk Folkeparti,17
+Furesø,1,Værløse,"O_Mette_P._Madsen,_Farum","Mette P. Madsen, Farum",Dansk Folkeparti,10
+Furesø,1,Værløse,"O_Kathe_Søeballe,_Farum","Kathe Søeballe, Farum",Dansk Folkeparti,0
+Furesø,1,Værløse,"O_Marie_Christensen,_Farum","Marie Christensen, Farum",Dansk Folkeparti,2
+Furesø,1,Værløse,"O_John_Reckendorff,_Farum","John Reckendorff, Farum",Dansk Folkeparti,3
+Furesø,1,Værløse,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",185
+Furesø,1,Værløse,V_Gustav_Juul,Gustav Juul,"Venstre, Danmarks Liberale Parti",126
+Furesø,1,Værløse,V_Lars_Carpens,Lars Carpens,"Venstre, Danmarks Liberale Parti",24
+Furesø,1,Værløse,V_Jesper_Larsen,Jesper Larsen,"Venstre, Danmarks Liberale Parti",13
+Furesø,1,Værløse,V_Pierre_Henriksen,Pierre Henriksen,"Venstre, Danmarks Liberale Parti",9
+Furesø,1,Værløse,V_Musa_Harmanci,Musa Harmanci,"Venstre, Danmarks Liberale Parti",37
+Furesø,1,Værløse,V_Christine_Møller-Jensen,Christine Møller-Jensen,"Venstre, Danmarks Liberale Parti",61
+Furesø,1,Værløse,V_Jørgen_Flarup_Gosvig,Jørgen Flarup Gosvig,"Venstre, Danmarks Liberale Parti",1
+Furesø,1,Værløse,V_Anna_Frifelt,Anna Frifelt,"Venstre, Danmarks Liberale Parti",5
+Furesø,1,Værløse,V_Søren_Bollerup_Hansen,Søren Bollerup Hansen,"Venstre, Danmarks Liberale Parti",1
+Furesø,1,Værløse,V_Paul_Thomsen,Paul Thomsen,"Venstre, Danmarks Liberale Parti",0
+Furesø,1,Værløse,V_Kate_Jacquerot,Kate Jacquerot,"Venstre, Danmarks Liberale Parti",20
+Furesø,1,Værløse,Æ_Listestemmer,Listestemmer,Frihedslisten,6
+Furesø,1,Værløse,"Æ_Katjalivah_Elleyhansen,_Værløse","Katjalivah Elleyhansen, Værløse",Frihedslisten,8
+Furesø,1,Værløse,"Æ_Flemming_Blicher,_Værløse","Flemming Blicher, Værløse",Frihedslisten,9
+Furesø,1,Værløse,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,113
+Furesø,1,Værløse,Ø_Øjvind_Vilsholm,Øjvind Vilsholm,Enhedslisten - De Rød-Grønne,92
+Furesø,1,Værløse,Ø_Helle_Vallentin,Helle Vallentin,Enhedslisten - De Rød-Grønne,38
+Furesø,1,Værløse,Ø_Rigmor_Jark,Rigmor Jark,Enhedslisten - De Rød-Grønne,9
+Furesø,1,Værløse,Ø_Kristian_Jensen,Kristian Jensen,Enhedslisten - De Rød-Grønne,1
+Furesø,1,Værløse,Ø_Gitte_Åkjær,Gitte Åkjær,Enhedslisten - De Rød-Grønne,1
+Furesø,1,Værløse,Ø_Allan_E._Petersen,Allan E. Petersen,Enhedslisten - De Rød-Grønne,5
+Furesø,1,Værløse,Ø_Allan_If_Jensen,Allan If Jensen,Enhedslisten - De Rød-Grønne,4
+Furesø,1,Værløse,Ø_Maria_Teresa_Ferreira,Maria Teresa Ferreira,Enhedslisten - De Rød-Grønne,10
+Furesø,1,Værløse,Ø_Erik_Boldsen,Erik Boldsen,Enhedslisten - De Rød-Grønne,0
+Furesø,1,Værløse,Ø_Frede_Thomsen,Frede Thomsen,Enhedslisten - De Rød-Grønne,1
+Furesø,1,Værløse,Å_Listestemmer,Listestemmer,Alternativet,12
+Furesø,1,Værløse,"Å_Allon_Hein_Sørensen,_Farum","Allon Hein Sørensen, Farum",Alternativet,26
+Furesø,1,Værløse,"Å_Hanne_Juel,_Hareskovby","Hanne Juel, Hareskovby",Alternativet,7
+Furesø,1,Værløse,"Å_Charlotte_Torp,_Kirke_Værløse","Charlotte Torp, Kirke Værløse",Alternativet,8
+Furesø,1,Værløse,"Å_Jan_Nikolai_Kristensen,_Farum","Jan Nikolai Kristensen, Farum",Alternativet,1
+Furesø,1,Værløse,"Å_Per_Long,_Farum","Per Long, Farum",Alternativet,2
+Furesø,2,Hareskov,A_Listestemmer,Listestemmer,Socialdemokratiet,107
+Furesø,2,Hareskov,A_Ole_Bondo_Christensen,Ole Bondo Christensen,Socialdemokratiet,116
+Furesø,2,Hareskov,A_Bettina_Ugelvig_Møller,Bettina Ugelvig Møller,Socialdemokratiet,21
+Furesø,2,Hareskov,A_Matilde_Powers,Matilde Powers,Socialdemokratiet,345
+Furesø,2,Hareskov,A_Preben_Sandberg_Pettersson,Preben Sandberg Pettersson,Socialdemokratiet,3
+Furesø,2,Hareskov,A_Lene_Munch-Petersen,Lene Munch-Petersen,Socialdemokratiet,127
+Furesø,2,Hareskov,A_Niels_Bjerre_Degn,Niels Bjerre Degn,Socialdemokratiet,0
+Furesø,2,Hareskov,A_Hasan_Yilmaz,Hasan Yilmaz,Socialdemokratiet,4
+Furesø,2,Hareskov,A_Muhammed_Bektas,Muhammed Bektas,Socialdemokratiet,12
+Furesø,2,Hareskov,A_Sussy_Sara_Hasle_Hansen,Sussy Sara Hasle Hansen,Socialdemokratiet,6
+Furesø,2,Hareskov,A_Rasmus_Dahl,Rasmus Dahl,Socialdemokratiet,0
+Furesø,2,Hareskov,A_Niels_Holk_Teinhart,Niels Holk Teinhart,Socialdemokratiet,2
+Furesø,2,Hareskov,A_Susan_Engstrøm,Susan Engstrøm,Socialdemokratiet,1
+Furesø,2,Hareskov,A_Christina_Iversen,Christina Iversen,Socialdemokratiet,1
+Furesø,2,Hareskov,A_Helle_Katrine_Møller,Helle Katrine Møller,Socialdemokratiet,5
+Furesø,2,Hareskov,A_Karin_Alsø,Karin Alsø,Socialdemokratiet,2
+Furesø,2,Hareskov,A_Katarina_Ritz,Katarina Ritz,Socialdemokratiet,6
+Furesø,2,Hareskov,A_Eddi_Meier,Eddi Meier,Socialdemokratiet,3
+Furesø,2,Hareskov,A_Sofie_Pihl_Carrara,Sofie Pihl Carrara,Socialdemokratiet,4
+Furesø,2,Hareskov,A_Lene_Bang,Lene Bang,Socialdemokratiet,5
+Furesø,2,Hareskov,A_Peter_Arentzen,Peter Arentzen,Socialdemokratiet,3
+Furesø,2,Hareskov,A_Celal_Deniz_Kilic,Celal Deniz Kilic,Socialdemokratiet,6
+Furesø,2,Hareskov,B_Listestemmer,Listestemmer,Radikale Venstre,67
+Furesø,2,Hareskov,B_Tine_Hessner,Tine Hessner,Radikale Venstre,63
+Furesø,2,Hareskov,B_Ole_Kristensen,Ole Kristensen,Radikale Venstre,3
+Furesø,2,Hareskov,B_Anders_Medum_Groth,Anders Medum Groth,Radikale Venstre,20
+Furesø,2,Hareskov,B_Thomas_Hesselhøj_Hansen,Thomas Hesselhøj Hansen,Radikale Venstre,12
+Furesø,2,Hareskov,B_Hanne_Gudik-Sørensen,Hanne Gudik-Sørensen,Radikale Venstre,1
+Furesø,2,Hareskov,B_Jens_Rikardt_Andersen,Jens Rikardt Andersen,Radikale Venstre,6
+Furesø,2,Hareskov,B_Henrik_Kenneth_Lyngberg,Henrik Kenneth Lyngberg,Radikale Venstre,4
+Furesø,2,Hareskov,B_Neel_Linhøft_Ingstrup,Neel Linhøft Ingstrup,Radikale Venstre,8
+Furesø,2,Hareskov,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,122
+Furesø,2,Hareskov,C_Lars_Carstensen,Lars Carstensen,Det Konservative Folkeparti,52
+Furesø,2,Hareskov,C_Egil_Hulgaard,Egil Hulgaard,Det Konservative Folkeparti,273
+Furesø,2,Hareskov,C_Rikke_Blak-Kristiansen,Rikke Blak-Kristiansen,Det Konservative Folkeparti,40
+Furesø,2,Hareskov,C_Joachim_Hjorting,Joachim Hjorting,Det Konservative Folkeparti,4
+Furesø,2,Hareskov,C_Niels_Jørgen_Brandt,Niels Jørgen Brandt,Det Konservative Folkeparti,92
+Furesø,2,Hareskov,C_Anne-Lise_Thorsen,Anne-Lise Thorsen,Det Konservative Folkeparti,15
+Furesø,2,Hareskov,C_Yuying_Chen,Yuying Chen,Det Konservative Folkeparti,9
+Furesø,2,Hareskov,C_Henrik_Haugaard_Pedersen,Henrik Haugaard Pedersen,Det Konservative Folkeparti,0
+Furesø,2,Hareskov,C_Henrik_Christensen,Henrik Christensen,Det Konservative Folkeparti,8
+Furesø,2,Hareskov,C_Sven_Krarup_Nielsen,Sven Krarup Nielsen,Det Konservative Folkeparti,0
+Furesø,2,Hareskov,C_Sanne_Sejrbo-Dekker,Sanne Sejrbo-Dekker,Det Konservative Folkeparti,8
+Furesø,2,Hareskov,D_Listestemmer,Listestemmer,Nye Borgerlige,11
+Furesø,2,Hareskov,"D_Søren_Højbjerg,_Farum","Søren Højbjerg, Farum",Nye Borgerlige,9
+Furesø,2,Hareskov,"D_Lisa_Thomsen,_Værløse","Lisa Thomsen, Værløse",Nye Borgerlige,17
+Furesø,2,Hareskov,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,49
+Furesø,2,Hareskov,F_Jesper_Dyhrberg,Jesper Dyhrberg,SF - Socialistisk Folkeparti,30
+Furesø,2,Hareskov,F_Jan_Kjældgaard,Jan Kjældgaard,SF - Socialistisk Folkeparti,6
+Furesø,2,Hareskov,F_Claus_Jensen,Claus Jensen,SF - Socialistisk Folkeparti,2
+Furesø,2,Hareskov,F_Henrik_Tyle,Henrik Tyle,SF - Socialistisk Folkeparti,0
+Furesø,2,Hareskov,F_Henrik_F._Wille,Henrik F. Wille,SF - Socialistisk Folkeparti,2
+Furesø,2,Hareskov,F_Randi_Angelica_Kristensen,Randi Angelica Kristensen,SF - Socialistisk Folkeparti,8
+Furesø,2,Hareskov,I_Listestemmer,Listestemmer,Liberal Alliance,14
+Furesø,2,Hareskov,I_Søren_Bronée_Bronér,Søren Bronée Bronér,Liberal Alliance,6
+Furesø,2,Hareskov,I_Simone_Salung_Bagger,Simone Salung Bagger,Liberal Alliance,1
+Furesø,2,Hareskov,I_Steen_Horstmann_Larsen,Steen Horstmann Larsen,Liberal Alliance,0
+Furesø,2,Hareskov,I_Inge_Storm,Inge Storm,Liberal Alliance,2
+Furesø,2,Hareskov,I_Mads_Okkels_Hansen,Mads Okkels Hansen,Liberal Alliance,0
+Furesø,2,Hareskov,I_Niels_Høiby,Niels Høiby,Liberal Alliance,2
+Furesø,2,Hareskov,I_Arne_Rask,Arne Rask,Liberal Alliance,2
+Furesø,2,Hareskov,I_Mogens_B._Andersen,Mogens B. Andersen,Liberal Alliance,2
+Furesø,2,Hareskov,O_Listestemmer,Listestemmer,Dansk Folkeparti,3
+Furesø,2,Hareskov,"O_Carsten_Svensson,_Farum","Carsten Svensson, Farum",Dansk Folkeparti,6
+Furesø,2,Hareskov,"O_Mette_P._Madsen,_Farum","Mette P. Madsen, Farum",Dansk Folkeparti,0
+Furesø,2,Hareskov,"O_Kathe_Søeballe,_Farum","Kathe Søeballe, Farum",Dansk Folkeparti,0
+Furesø,2,Hareskov,"O_Marie_Christensen,_Farum","Marie Christensen, Farum",Dansk Folkeparti,1
+Furesø,2,Hareskov,"O_John_Reckendorff,_Farum","John Reckendorff, Farum",Dansk Folkeparti,0
+Furesø,2,Hareskov,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",39
+Furesø,2,Hareskov,V_Gustav_Juul,Gustav Juul,"Venstre, Danmarks Liberale Parti",55
+Furesø,2,Hareskov,V_Lars_Carpens,Lars Carpens,"Venstre, Danmarks Liberale Parti",7
+Furesø,2,Hareskov,V_Jesper_Larsen,Jesper Larsen,"Venstre, Danmarks Liberale Parti",112
+Furesø,2,Hareskov,V_Pierre_Henriksen,Pierre Henriksen,"Venstre, Danmarks Liberale Parti",2
+Furesø,2,Hareskov,V_Musa_Harmanci,Musa Harmanci,"Venstre, Danmarks Liberale Parti",0
+Furesø,2,Hareskov,V_Christine_Møller-Jensen,Christine Møller-Jensen,"Venstre, Danmarks Liberale Parti",96
+Furesø,2,Hareskov,V_Jørgen_Flarup_Gosvig,Jørgen Flarup Gosvig,"Venstre, Danmarks Liberale Parti",2
+Furesø,2,Hareskov,V_Anna_Frifelt,Anna Frifelt,"Venstre, Danmarks Liberale Parti",1
+Furesø,2,Hareskov,V_Søren_Bollerup_Hansen,Søren Bollerup Hansen,"Venstre, Danmarks Liberale Parti",1
+Furesø,2,Hareskov,V_Paul_Thomsen,Paul Thomsen,"Venstre, Danmarks Liberale Parti",0
+Furesø,2,Hareskov,V_Kate_Jacquerot,Kate Jacquerot,"Venstre, Danmarks Liberale Parti",8
+Furesø,2,Hareskov,Æ_Listestemmer,Listestemmer,Frihedslisten,0
+Furesø,2,Hareskov,"Æ_Katjalivah_Elleyhansen,_Værløse","Katjalivah Elleyhansen, Værløse",Frihedslisten,0
+Furesø,2,Hareskov,"Æ_Flemming_Blicher,_Værløse","Flemming Blicher, Værløse",Frihedslisten,1
+Furesø,2,Hareskov,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,60
+Furesø,2,Hareskov,Ø_Øjvind_Vilsholm,Øjvind Vilsholm,Enhedslisten - De Rød-Grønne,41
+Furesø,2,Hareskov,Ø_Helle_Vallentin,Helle Vallentin,Enhedslisten - De Rød-Grønne,18
+Furesø,2,Hareskov,Ø_Rigmor_Jark,Rigmor Jark,Enhedslisten - De Rød-Grønne,0
+Furesø,2,Hareskov,Ø_Kristian_Jensen,Kristian Jensen,Enhedslisten - De Rød-Grønne,0
+Furesø,2,Hareskov,Ø_Gitte_Åkjær,Gitte Åkjær,Enhedslisten - De Rød-Grønne,6
+Furesø,2,Hareskov,Ø_Allan_E._Petersen,Allan E. Petersen,Enhedslisten - De Rød-Grønne,0
+Furesø,2,Hareskov,Ø_Allan_If_Jensen,Allan If Jensen,Enhedslisten - De Rød-Grønne,1
+Furesø,2,Hareskov,Ø_Maria_Teresa_Ferreira,Maria Teresa Ferreira,Enhedslisten - De Rød-Grønne,4
+Furesø,2,Hareskov,Ø_Erik_Boldsen,Erik Boldsen,Enhedslisten - De Rød-Grønne,1
+Furesø,2,Hareskov,Ø_Frede_Thomsen,Frede Thomsen,Enhedslisten - De Rød-Grønne,1
+Furesø,2,Hareskov,Å_Listestemmer,Listestemmer,Alternativet,5
+Furesø,2,Hareskov,"Å_Allon_Hein_Sørensen,_Farum","Allon Hein Sørensen, Farum",Alternativet,9
+Furesø,2,Hareskov,"Å_Hanne_Juel,_Hareskovby","Hanne Juel, Hareskovby",Alternativet,8
+Furesø,2,Hareskov,"Å_Charlotte_Torp,_Kirke_Værløse","Charlotte Torp, Kirke Værløse",Alternativet,1
+Furesø,2,Hareskov,"Å_Jan_Nikolai_Kristensen,_Farum","Jan Nikolai Kristensen, Farum",Alternativet,3
+Furesø,2,Hareskov,"Å_Per_Long,_Farum","Per Long, Farum",Alternativet,0
+Furesø,3,Søndersø,A_Listestemmer,Listestemmer,Socialdemokratiet,192
+Furesø,3,Søndersø,A_Ole_Bondo_Christensen,Ole Bondo Christensen,Socialdemokratiet,317
+Furesø,3,Søndersø,A_Bettina_Ugelvig_Møller,Bettina Ugelvig Møller,Socialdemokratiet,55
+Furesø,3,Søndersø,A_Matilde_Powers,Matilde Powers,Socialdemokratiet,100
+Furesø,3,Søndersø,A_Preben_Sandberg_Pettersson,Preben Sandberg Pettersson,Socialdemokratiet,47
+Furesø,3,Søndersø,A_Lene_Munch-Petersen,Lene Munch-Petersen,Socialdemokratiet,24
+Furesø,3,Søndersø,A_Niels_Bjerre_Degn,Niels Bjerre Degn,Socialdemokratiet,9
+Furesø,3,Søndersø,A_Hasan_Yilmaz,Hasan Yilmaz,Socialdemokratiet,5
+Furesø,3,Søndersø,A_Muhammed_Bektas,Muhammed Bektas,Socialdemokratiet,92
+Furesø,3,Søndersø,A_Sussy_Sara_Hasle_Hansen,Sussy Sara Hasle Hansen,Socialdemokratiet,26
+Furesø,3,Søndersø,A_Rasmus_Dahl,Rasmus Dahl,Socialdemokratiet,7
+Furesø,3,Søndersø,A_Niels_Holk_Teinhart,Niels Holk Teinhart,Socialdemokratiet,37
+Furesø,3,Søndersø,A_Susan_Engstrøm,Susan Engstrøm,Socialdemokratiet,6
+Furesø,3,Søndersø,A_Christina_Iversen,Christina Iversen,Socialdemokratiet,1
+Furesø,3,Søndersø,A_Helle_Katrine_Møller,Helle Katrine Møller,Socialdemokratiet,19
+Furesø,3,Søndersø,A_Karin_Alsø,Karin Alsø,Socialdemokratiet,9
+Furesø,3,Søndersø,A_Katarina_Ritz,Katarina Ritz,Socialdemokratiet,5
+Furesø,3,Søndersø,A_Eddi_Meier,Eddi Meier,Socialdemokratiet,5
+Furesø,3,Søndersø,A_Sofie_Pihl_Carrara,Sofie Pihl Carrara,Socialdemokratiet,35
+Furesø,3,Søndersø,A_Lene_Bang,Lene Bang,Socialdemokratiet,7
+Furesø,3,Søndersø,A_Peter_Arentzen,Peter Arentzen,Socialdemokratiet,5
+Furesø,3,Søndersø,A_Celal_Deniz_Kilic,Celal Deniz Kilic,Socialdemokratiet,7
+Furesø,3,Søndersø,B_Listestemmer,Listestemmer,Radikale Venstre,88
+Furesø,3,Søndersø,B_Tine_Hessner,Tine Hessner,Radikale Venstre,183
+Furesø,3,Søndersø,B_Ole_Kristensen,Ole Kristensen,Radikale Venstre,10
+Furesø,3,Søndersø,B_Anders_Medum_Groth,Anders Medum Groth,Radikale Venstre,35
+Furesø,3,Søndersø,B_Thomas_Hesselhøj_Hansen,Thomas Hesselhøj Hansen,Radikale Venstre,12
+Furesø,3,Søndersø,B_Hanne_Gudik-Sørensen,Hanne Gudik-Sørensen,Radikale Venstre,8
+Furesø,3,Søndersø,B_Jens_Rikardt_Andersen,Jens Rikardt Andersen,Radikale Venstre,3
+Furesø,3,Søndersø,B_Henrik_Kenneth_Lyngberg,Henrik Kenneth Lyngberg,Radikale Venstre,8
+Furesø,3,Søndersø,B_Neel_Linhøft_Ingstrup,Neel Linhøft Ingstrup,Radikale Venstre,6
+Furesø,3,Søndersø,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,311
+Furesø,3,Søndersø,C_Lars_Carstensen,Lars Carstensen,Det Konservative Folkeparti,205
+Furesø,3,Søndersø,C_Egil_Hulgaard,Egil Hulgaard,Det Konservative Folkeparti,80
+Furesø,3,Søndersø,C_Rikke_Blak-Kristiansen,Rikke Blak-Kristiansen,Det Konservative Folkeparti,103
+Furesø,3,Søndersø,C_Joachim_Hjorting,Joachim Hjorting,Det Konservative Folkeparti,15
+Furesø,3,Søndersø,C_Niels_Jørgen_Brandt,Niels Jørgen Brandt,Det Konservative Folkeparti,23
+Furesø,3,Søndersø,C_Anne-Lise_Thorsen,Anne-Lise Thorsen,Det Konservative Folkeparti,22
+Furesø,3,Søndersø,C_Yuying_Chen,Yuying Chen,Det Konservative Folkeparti,70
+Furesø,3,Søndersø,C_Henrik_Haugaard_Pedersen,Henrik Haugaard Pedersen,Det Konservative Folkeparti,9
+Furesø,3,Søndersø,C_Henrik_Christensen,Henrik Christensen,Det Konservative Folkeparti,17
+Furesø,3,Søndersø,C_Sven_Krarup_Nielsen,Sven Krarup Nielsen,Det Konservative Folkeparti,4
+Furesø,3,Søndersø,C_Sanne_Sejrbo-Dekker,Sanne Sejrbo-Dekker,Det Konservative Folkeparti,26
+Furesø,3,Søndersø,D_Listestemmer,Listestemmer,Nye Borgerlige,34
+Furesø,3,Søndersø,"D_Søren_Højbjerg,_Farum","Søren Højbjerg, Farum",Nye Borgerlige,18
+Furesø,3,Søndersø,"D_Lisa_Thomsen,_Værløse","Lisa Thomsen, Værløse",Nye Borgerlige,21
+Furesø,3,Søndersø,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,51
+Furesø,3,Søndersø,F_Jesper_Dyhrberg,Jesper Dyhrberg,SF - Socialistisk Folkeparti,49
+Furesø,3,Søndersø,F_Jan_Kjældgaard,Jan Kjældgaard,SF - Socialistisk Folkeparti,10
+Furesø,3,Søndersø,F_Claus_Jensen,Claus Jensen,SF - Socialistisk Folkeparti,7
+Furesø,3,Søndersø,F_Henrik_Tyle,Henrik Tyle,SF - Socialistisk Folkeparti,1
+Furesø,3,Søndersø,F_Henrik_F._Wille,Henrik F. Wille,SF - Socialistisk Folkeparti,1
+Furesø,3,Søndersø,F_Randi_Angelica_Kristensen,Randi Angelica Kristensen,SF - Socialistisk Folkeparti,11
+Furesø,3,Søndersø,I_Listestemmer,Listestemmer,Liberal Alliance,32
+Furesø,3,Søndersø,I_Søren_Bronée_Bronér,Søren Bronée Bronér,Liberal Alliance,11
+Furesø,3,Søndersø,I_Simone_Salung_Bagger,Simone Salung Bagger,Liberal Alliance,4
+Furesø,3,Søndersø,I_Steen_Horstmann_Larsen,Steen Horstmann Larsen,Liberal Alliance,12
+Furesø,3,Søndersø,I_Inge_Storm,Inge Storm,Liberal Alliance,4
+Furesø,3,Søndersø,I_Mads_Okkels_Hansen,Mads Okkels Hansen,Liberal Alliance,6
+Furesø,3,Søndersø,I_Niels_Høiby,Niels Høiby,Liberal Alliance,4
+Furesø,3,Søndersø,I_Arne_Rask,Arne Rask,Liberal Alliance,1
+Furesø,3,Søndersø,I_Mogens_B._Andersen,Mogens B. Andersen,Liberal Alliance,2
+Furesø,3,Søndersø,O_Listestemmer,Listestemmer,Dansk Folkeparti,20
+Furesø,3,Søndersø,"O_Carsten_Svensson,_Farum","Carsten Svensson, Farum",Dansk Folkeparti,5
+Furesø,3,Søndersø,"O_Mette_P._Madsen,_Farum","Mette P. Madsen, Farum",Dansk Folkeparti,4
+Furesø,3,Søndersø,"O_Kathe_Søeballe,_Farum","Kathe Søeballe, Farum",Dansk Folkeparti,0
+Furesø,3,Søndersø,"O_Marie_Christensen,_Farum","Marie Christensen, Farum",Dansk Folkeparti,0
+Furesø,3,Søndersø,"O_John_Reckendorff,_Farum","John Reckendorff, Farum",Dansk Folkeparti,1
+Furesø,3,Søndersø,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",93
+Furesø,3,Søndersø,V_Gustav_Juul,Gustav Juul,"Venstre, Danmarks Liberale Parti",113
+Furesø,3,Søndersø,V_Lars_Carpens,Lars Carpens,"Venstre, Danmarks Liberale Parti",23
+Furesø,3,Søndersø,V_Jesper_Larsen,Jesper Larsen,"Venstre, Danmarks Liberale Parti",11
+Furesø,3,Søndersø,V_Pierre_Henriksen,Pierre Henriksen,"Venstre, Danmarks Liberale Parti",4
+Furesø,3,Søndersø,V_Musa_Harmanci,Musa Harmanci,"Venstre, Danmarks Liberale Parti",3
+Furesø,3,Søndersø,V_Christine_Møller-Jensen,Christine Møller-Jensen,"Venstre, Danmarks Liberale Parti",59
+Furesø,3,Søndersø,V_Jørgen_Flarup_Gosvig,Jørgen Flarup Gosvig,"Venstre, Danmarks Liberale Parti",1
+Furesø,3,Søndersø,V_Anna_Frifelt,Anna Frifelt,"Venstre, Danmarks Liberale Parti",3
+Furesø,3,Søndersø,V_Søren_Bollerup_Hansen,Søren Bollerup Hansen,"Venstre, Danmarks Liberale Parti",0
+Furesø,3,Søndersø,V_Paul_Thomsen,Paul Thomsen,"Venstre, Danmarks Liberale Parti",0
+Furesø,3,Søndersø,V_Kate_Jacquerot,Kate Jacquerot,"Venstre, Danmarks Liberale Parti",14
+Furesø,3,Søndersø,Æ_Listestemmer,Listestemmer,Frihedslisten,9
+Furesø,3,Søndersø,"Æ_Katjalivah_Elleyhansen,_Værløse","Katjalivah Elleyhansen, Værløse",Frihedslisten,6
+Furesø,3,Søndersø,"Æ_Flemming_Blicher,_Værløse","Flemming Blicher, Værløse",Frihedslisten,6
+Furesø,3,Søndersø,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,57
+Furesø,3,Søndersø,Ø_Øjvind_Vilsholm,Øjvind Vilsholm,Enhedslisten - De Rød-Grønne,72
+Furesø,3,Søndersø,Ø_Helle_Vallentin,Helle Vallentin,Enhedslisten - De Rød-Grønne,30
+Furesø,3,Søndersø,Ø_Rigmor_Jark,Rigmor Jark,Enhedslisten - De Rød-Grønne,4
+Furesø,3,Søndersø,Ø_Kristian_Jensen,Kristian Jensen,Enhedslisten - De Rød-Grønne,1
+Furesø,3,Søndersø,Ø_Gitte_Åkjær,Gitte Åkjær,Enhedslisten - De Rød-Grønne,2
+Furesø,3,Søndersø,Ø_Allan_E._Petersen,Allan E. Petersen,Enhedslisten - De Rød-Grønne,0
+Furesø,3,Søndersø,Ø_Allan_If_Jensen,Allan If Jensen,Enhedslisten - De Rød-Grønne,0
+Furesø,3,Søndersø,Ø_Maria_Teresa_Ferreira,Maria Teresa Ferreira,Enhedslisten - De Rød-Grønne,3
+Furesø,3,Søndersø,Ø_Erik_Boldsen,Erik Boldsen,Enhedslisten - De Rød-Grønne,0
+Furesø,3,Søndersø,Ø_Frede_Thomsen,Frede Thomsen,Enhedslisten - De Rød-Grønne,1
+Furesø,3,Søndersø,Å_Listestemmer,Listestemmer,Alternativet,11
+Furesø,3,Søndersø,"Å_Allon_Hein_Sørensen,_Farum","Allon Hein Sørensen, Farum",Alternativet,14
+Furesø,3,Søndersø,"Å_Hanne_Juel,_Hareskovby","Hanne Juel, Hareskovby",Alternativet,5
+Furesø,3,Søndersø,"Å_Charlotte_Torp,_Kirke_Værløse","Charlotte Torp, Kirke Værløse",Alternativet,17
+Furesø,3,Søndersø,"Å_Jan_Nikolai_Kristensen,_Farum","Jan Nikolai Kristensen, Farum",Alternativet,0
+Furesø,3,Søndersø,"Å_Per_Long,_Farum","Per Long, Farum",Alternativet,0
+Furesø,4,Jonstrup,A_Listestemmer,Listestemmer,Socialdemokratiet,72
+Furesø,4,Jonstrup,A_Ole_Bondo_Christensen,Ole Bondo Christensen,Socialdemokratiet,101
+Furesø,4,Jonstrup,A_Bettina_Ugelvig_Møller,Bettina Ugelvig Møller,Socialdemokratiet,15
+Furesø,4,Jonstrup,A_Matilde_Powers,Matilde Powers,Socialdemokratiet,30
+Furesø,4,Jonstrup,A_Preben_Sandberg_Pettersson,Preben Sandberg Pettersson,Socialdemokratiet,0
+Furesø,4,Jonstrup,A_Lene_Munch-Petersen,Lene Munch-Petersen,Socialdemokratiet,4
+Furesø,4,Jonstrup,A_Niels_Bjerre_Degn,Niels Bjerre Degn,Socialdemokratiet,3
+Furesø,4,Jonstrup,A_Hasan_Yilmaz,Hasan Yilmaz,Socialdemokratiet,0
+Furesø,4,Jonstrup,A_Muhammed_Bektas,Muhammed Bektas,Socialdemokratiet,10
+Furesø,4,Jonstrup,A_Sussy_Sara_Hasle_Hansen,Sussy Sara Hasle Hansen,Socialdemokratiet,8
+Furesø,4,Jonstrup,A_Rasmus_Dahl,Rasmus Dahl,Socialdemokratiet,1
+Furesø,4,Jonstrup,A_Niels_Holk_Teinhart,Niels Holk Teinhart,Socialdemokratiet,0
+Furesø,4,Jonstrup,A_Susan_Engstrøm,Susan Engstrøm,Socialdemokratiet,2
+Furesø,4,Jonstrup,A_Christina_Iversen,Christina Iversen,Socialdemokratiet,0
+Furesø,4,Jonstrup,A_Helle_Katrine_Møller,Helle Katrine Møller,Socialdemokratiet,2
+Furesø,4,Jonstrup,A_Karin_Alsø,Karin Alsø,Socialdemokratiet,0
+Furesø,4,Jonstrup,A_Katarina_Ritz,Katarina Ritz,Socialdemokratiet,0
+Furesø,4,Jonstrup,A_Eddi_Meier,Eddi Meier,Socialdemokratiet,107
+Furesø,4,Jonstrup,A_Sofie_Pihl_Carrara,Sofie Pihl Carrara,Socialdemokratiet,5
+Furesø,4,Jonstrup,A_Lene_Bang,Lene Bang,Socialdemokratiet,3
+Furesø,4,Jonstrup,A_Peter_Arentzen,Peter Arentzen,Socialdemokratiet,2
+Furesø,4,Jonstrup,A_Celal_Deniz_Kilic,Celal Deniz Kilic,Socialdemokratiet,0
+Furesø,4,Jonstrup,B_Listestemmer,Listestemmer,Radikale Venstre,28
+Furesø,4,Jonstrup,B_Tine_Hessner,Tine Hessner,Radikale Venstre,55
+Furesø,4,Jonstrup,B_Ole_Kristensen,Ole Kristensen,Radikale Venstre,3
+Furesø,4,Jonstrup,B_Anders_Medum_Groth,Anders Medum Groth,Radikale Venstre,6
+Furesø,4,Jonstrup,B_Thomas_Hesselhøj_Hansen,Thomas Hesselhøj Hansen,Radikale Venstre,2
+Furesø,4,Jonstrup,B_Hanne_Gudik-Sørensen,Hanne Gudik-Sørensen,Radikale Venstre,3
+Furesø,4,Jonstrup,B_Jens_Rikardt_Andersen,Jens Rikardt Andersen,Radikale Venstre,2
+Furesø,4,Jonstrup,B_Henrik_Kenneth_Lyngberg,Henrik Kenneth Lyngberg,Radikale Venstre,3
+Furesø,4,Jonstrup,B_Neel_Linhøft_Ingstrup,Neel Linhøft Ingstrup,Radikale Venstre,5
+Furesø,4,Jonstrup,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,56
+Furesø,4,Jonstrup,C_Lars_Carstensen,Lars Carstensen,Det Konservative Folkeparti,35
+Furesø,4,Jonstrup,C_Egil_Hulgaard,Egil Hulgaard,Det Konservative Folkeparti,19
+Furesø,4,Jonstrup,C_Rikke_Blak-Kristiansen,Rikke Blak-Kristiansen,Det Konservative Folkeparti,14
+Furesø,4,Jonstrup,C_Joachim_Hjorting,Joachim Hjorting,Det Konservative Folkeparti,4
+Furesø,4,Jonstrup,C_Niels_Jørgen_Brandt,Niels Jørgen Brandt,Det Konservative Folkeparti,1
+Furesø,4,Jonstrup,C_Anne-Lise_Thorsen,Anne-Lise Thorsen,Det Konservative Folkeparti,1
+Furesø,4,Jonstrup,C_Yuying_Chen,Yuying Chen,Det Konservative Folkeparti,9
+Furesø,4,Jonstrup,C_Henrik_Haugaard_Pedersen,Henrik Haugaard Pedersen,Det Konservative Folkeparti,3
+Furesø,4,Jonstrup,C_Henrik_Christensen,Henrik Christensen,Det Konservative Folkeparti,3
+Furesø,4,Jonstrup,C_Sven_Krarup_Nielsen,Sven Krarup Nielsen,Det Konservative Folkeparti,0
+Furesø,4,Jonstrup,C_Sanne_Sejrbo-Dekker,Sanne Sejrbo-Dekker,Det Konservative Folkeparti,9
+Furesø,4,Jonstrup,D_Listestemmer,Listestemmer,Nye Borgerlige,12
+Furesø,4,Jonstrup,"D_Søren_Højbjerg,_Farum","Søren Højbjerg, Farum",Nye Borgerlige,2
+Furesø,4,Jonstrup,"D_Lisa_Thomsen,_Værløse","Lisa Thomsen, Værløse",Nye Borgerlige,5
+Furesø,4,Jonstrup,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,17
+Furesø,4,Jonstrup,F_Jesper_Dyhrberg,Jesper Dyhrberg,SF - Socialistisk Folkeparti,125
+Furesø,4,Jonstrup,F_Jan_Kjældgaard,Jan Kjældgaard,SF - Socialistisk Folkeparti,7
+Furesø,4,Jonstrup,F_Claus_Jensen,Claus Jensen,SF - Socialistisk Folkeparti,2
+Furesø,4,Jonstrup,F_Henrik_Tyle,Henrik Tyle,SF - Socialistisk Folkeparti,1
+Furesø,4,Jonstrup,F_Henrik_F._Wille,Henrik F. Wille,SF - Socialistisk Folkeparti,1
+Furesø,4,Jonstrup,F_Randi_Angelica_Kristensen,Randi Angelica Kristensen,SF - Socialistisk Folkeparti,5
+Furesø,4,Jonstrup,I_Listestemmer,Listestemmer,Liberal Alliance,10
+Furesø,4,Jonstrup,I_Søren_Bronée_Bronér,Søren Bronée Bronér,Liberal Alliance,3
+Furesø,4,Jonstrup,I_Simone_Salung_Bagger,Simone Salung Bagger,Liberal Alliance,1
+Furesø,4,Jonstrup,I_Steen_Horstmann_Larsen,Steen Horstmann Larsen,Liberal Alliance,2
+Furesø,4,Jonstrup,I_Inge_Storm,Inge Storm,Liberal Alliance,3
+Furesø,4,Jonstrup,I_Mads_Okkels_Hansen,Mads Okkels Hansen,Liberal Alliance,0
+Furesø,4,Jonstrup,I_Niels_Høiby,Niels Høiby,Liberal Alliance,0
+Furesø,4,Jonstrup,I_Arne_Rask,Arne Rask,Liberal Alliance,0
+Furesø,4,Jonstrup,I_Mogens_B._Andersen,Mogens B. Andersen,Liberal Alliance,0
+Furesø,4,Jonstrup,O_Listestemmer,Listestemmer,Dansk Folkeparti,5
+Furesø,4,Jonstrup,"O_Carsten_Svensson,_Farum","Carsten Svensson, Farum",Dansk Folkeparti,1
+Furesø,4,Jonstrup,"O_Mette_P._Madsen,_Farum","Mette P. Madsen, Farum",Dansk Folkeparti,2
+Furesø,4,Jonstrup,"O_Kathe_Søeballe,_Farum","Kathe Søeballe, Farum",Dansk Folkeparti,2
+Furesø,4,Jonstrup,"O_Marie_Christensen,_Farum","Marie Christensen, Farum",Dansk Folkeparti,0
+Furesø,4,Jonstrup,"O_John_Reckendorff,_Farum","John Reckendorff, Farum",Dansk Folkeparti,0
+Furesø,4,Jonstrup,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",27
+Furesø,4,Jonstrup,V_Gustav_Juul,Gustav Juul,"Venstre, Danmarks Liberale Parti",19
+Furesø,4,Jonstrup,V_Lars_Carpens,Lars Carpens,"Venstre, Danmarks Liberale Parti",3
+Furesø,4,Jonstrup,V_Jesper_Larsen,Jesper Larsen,"Venstre, Danmarks Liberale Parti",4
+Furesø,4,Jonstrup,V_Pierre_Henriksen,Pierre Henriksen,"Venstre, Danmarks Liberale Parti",2
+Furesø,4,Jonstrup,V_Musa_Harmanci,Musa Harmanci,"Venstre, Danmarks Liberale Parti",3
+Furesø,4,Jonstrup,V_Christine_Møller-Jensen,Christine Møller-Jensen,"Venstre, Danmarks Liberale Parti",9
+Furesø,4,Jonstrup,V_Jørgen_Flarup_Gosvig,Jørgen Flarup Gosvig,"Venstre, Danmarks Liberale Parti",0
+Furesø,4,Jonstrup,V_Anna_Frifelt,Anna Frifelt,"Venstre, Danmarks Liberale Parti",0
+Furesø,4,Jonstrup,V_Søren_Bollerup_Hansen,Søren Bollerup Hansen,"Venstre, Danmarks Liberale Parti",1
+Furesø,4,Jonstrup,V_Paul_Thomsen,Paul Thomsen,"Venstre, Danmarks Liberale Parti",0
+Furesø,4,Jonstrup,V_Kate_Jacquerot,Kate Jacquerot,"Venstre, Danmarks Liberale Parti",5
+Furesø,4,Jonstrup,Æ_Listestemmer,Listestemmer,Frihedslisten,1
+Furesø,4,Jonstrup,"Æ_Katjalivah_Elleyhansen,_Værløse","Katjalivah Elleyhansen, Værløse",Frihedslisten,0
+Furesø,4,Jonstrup,"Æ_Flemming_Blicher,_Værløse","Flemming Blicher, Værløse",Frihedslisten,0
+Furesø,4,Jonstrup,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,42
+Furesø,4,Jonstrup,Ø_Øjvind_Vilsholm,Øjvind Vilsholm,Enhedslisten - De Rød-Grønne,20
+Furesø,4,Jonstrup,Ø_Helle_Vallentin,Helle Vallentin,Enhedslisten - De Rød-Grønne,12
+Furesø,4,Jonstrup,Ø_Rigmor_Jark,Rigmor Jark,Enhedslisten - De Rød-Grønne,4
+Furesø,4,Jonstrup,Ø_Kristian_Jensen,Kristian Jensen,Enhedslisten - De Rød-Grønne,0
+Furesø,4,Jonstrup,Ø_Gitte_Åkjær,Gitte Åkjær,Enhedslisten - De Rød-Grønne,1
+Furesø,4,Jonstrup,Ø_Allan_E._Petersen,Allan E. Petersen,Enhedslisten - De Rød-Grønne,0
+Furesø,4,Jonstrup,Ø_Allan_If_Jensen,Allan If Jensen,Enhedslisten - De Rød-Grønne,0
+Furesø,4,Jonstrup,Ø_Maria_Teresa_Ferreira,Maria Teresa Ferreira,Enhedslisten - De Rød-Grønne,0
+Furesø,4,Jonstrup,Ø_Erik_Boldsen,Erik Boldsen,Enhedslisten - De Rød-Grønne,0
+Furesø,4,Jonstrup,Ø_Frede_Thomsen,Frede Thomsen,Enhedslisten - De Rød-Grønne,1
+Furesø,4,Jonstrup,Å_Listestemmer,Listestemmer,Alternativet,5
+Furesø,4,Jonstrup,"Å_Allon_Hein_Sørensen,_Farum","Allon Hein Sørensen, Farum",Alternativet,3
+Furesø,4,Jonstrup,"Å_Hanne_Juel,_Hareskovby","Hanne Juel, Hareskovby",Alternativet,5
+Furesø,4,Jonstrup,"Å_Charlotte_Torp,_Kirke_Værløse","Charlotte Torp, Kirke Værløse",Alternativet,2
+Furesø,4,Jonstrup,"Å_Jan_Nikolai_Kristensen,_Farum","Jan Nikolai Kristensen, Farum",Alternativet,0
+Furesø,4,Jonstrup,"Å_Per_Long,_Farum","Per Long, Farum",Alternativet,0
+Furesø,5,Stavnsholt,A_Listestemmer,Listestemmer,Socialdemokratiet,231
+Furesø,5,Stavnsholt,A_Ole_Bondo_Christensen,Ole Bondo Christensen,Socialdemokratiet,458
+Furesø,5,Stavnsholt,A_Bettina_Ugelvig_Møller,Bettina Ugelvig Møller,Socialdemokratiet,30
+Furesø,5,Stavnsholt,A_Matilde_Powers,Matilde Powers,Socialdemokratiet,66
+Furesø,5,Stavnsholt,A_Preben_Sandberg_Pettersson,Preben Sandberg Pettersson,Socialdemokratiet,5
+Furesø,5,Stavnsholt,A_Lene_Munch-Petersen,Lene Munch-Petersen,Socialdemokratiet,21
+Furesø,5,Stavnsholt,A_Niels_Bjerre_Degn,Niels Bjerre Degn,Socialdemokratiet,66
+Furesø,5,Stavnsholt,A_Hasan_Yilmaz,Hasan Yilmaz,Socialdemokratiet,71
+Furesø,5,Stavnsholt,A_Muhammed_Bektas,Muhammed Bektas,Socialdemokratiet,34
+Furesø,5,Stavnsholt,A_Sussy_Sara_Hasle_Hansen,Sussy Sara Hasle Hansen,Socialdemokratiet,16
+Furesø,5,Stavnsholt,A_Rasmus_Dahl,Rasmus Dahl,Socialdemokratiet,21
+Furesø,5,Stavnsholt,A_Niels_Holk_Teinhart,Niels Holk Teinhart,Socialdemokratiet,6
+Furesø,5,Stavnsholt,A_Susan_Engstrøm,Susan Engstrøm,Socialdemokratiet,9
+Furesø,5,Stavnsholt,A_Christina_Iversen,Christina Iversen,Socialdemokratiet,6
+Furesø,5,Stavnsholt,A_Helle_Katrine_Møller,Helle Katrine Møller,Socialdemokratiet,5
+Furesø,5,Stavnsholt,A_Karin_Alsø,Karin Alsø,Socialdemokratiet,86
+Furesø,5,Stavnsholt,A_Katarina_Ritz,Katarina Ritz,Socialdemokratiet,28
+Furesø,5,Stavnsholt,A_Eddi_Meier,Eddi Meier,Socialdemokratiet,4
+Furesø,5,Stavnsholt,A_Sofie_Pihl_Carrara,Sofie Pihl Carrara,Socialdemokratiet,14
+Furesø,5,Stavnsholt,A_Lene_Bang,Lene Bang,Socialdemokratiet,35
+Furesø,5,Stavnsholt,A_Peter_Arentzen,Peter Arentzen,Socialdemokratiet,9
+Furesø,5,Stavnsholt,A_Celal_Deniz_Kilic,Celal Deniz Kilic,Socialdemokratiet,4
+Furesø,5,Stavnsholt,B_Listestemmer,Listestemmer,Radikale Venstre,73
+Furesø,5,Stavnsholt,B_Tine_Hessner,Tine Hessner,Radikale Venstre,62
+Furesø,5,Stavnsholt,B_Ole_Kristensen,Ole Kristensen,Radikale Venstre,6
+Furesø,5,Stavnsholt,B_Anders_Medum_Groth,Anders Medum Groth,Radikale Venstre,121
+Furesø,5,Stavnsholt,B_Thomas_Hesselhøj_Hansen,Thomas Hesselhøj Hansen,Radikale Venstre,4
+Furesø,5,Stavnsholt,B_Hanne_Gudik-Sørensen,Hanne Gudik-Sørensen,Radikale Venstre,2
+Furesø,5,Stavnsholt,B_Jens_Rikardt_Andersen,Jens Rikardt Andersen,Radikale Venstre,2
+Furesø,5,Stavnsholt,B_Henrik_Kenneth_Lyngberg,Henrik Kenneth Lyngberg,Radikale Venstre,10
+Furesø,5,Stavnsholt,B_Neel_Linhøft_Ingstrup,Neel Linhøft Ingstrup,Radikale Venstre,12
+Furesø,5,Stavnsholt,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,313
+Furesø,5,Stavnsholt,C_Lars_Carstensen,Lars Carstensen,Det Konservative Folkeparti,300
+Furesø,5,Stavnsholt,C_Egil_Hulgaard,Egil Hulgaard,Det Konservative Folkeparti,30
+Furesø,5,Stavnsholt,C_Rikke_Blak-Kristiansen,Rikke Blak-Kristiansen,Det Konservative Folkeparti,55
+Furesø,5,Stavnsholt,C_Joachim_Hjorting,Joachim Hjorting,Det Konservative Folkeparti,32
+Furesø,5,Stavnsholt,C_Niels_Jørgen_Brandt,Niels Jørgen Brandt,Det Konservative Folkeparti,10
+Furesø,5,Stavnsholt,C_Anne-Lise_Thorsen,Anne-Lise Thorsen,Det Konservative Folkeparti,20
+Furesø,5,Stavnsholt,C_Yuying_Chen,Yuying Chen,Det Konservative Folkeparti,26
+Furesø,5,Stavnsholt,C_Henrik_Haugaard_Pedersen,Henrik Haugaard Pedersen,Det Konservative Folkeparti,10
+Furesø,5,Stavnsholt,C_Henrik_Christensen,Henrik Christensen,Det Konservative Folkeparti,83
+Furesø,5,Stavnsholt,C_Sven_Krarup_Nielsen,Sven Krarup Nielsen,Det Konservative Folkeparti,18
+Furesø,5,Stavnsholt,C_Sanne_Sejrbo-Dekker,Sanne Sejrbo-Dekker,Det Konservative Folkeparti,16
+Furesø,5,Stavnsholt,D_Listestemmer,Listestemmer,Nye Borgerlige,20
+Furesø,5,Stavnsholt,"D_Søren_Højbjerg,_Farum","Søren Højbjerg, Farum",Nye Borgerlige,35
+Furesø,5,Stavnsholt,"D_Lisa_Thomsen,_Værløse","Lisa Thomsen, Værløse",Nye Borgerlige,8
+Furesø,5,Stavnsholt,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,40
+Furesø,5,Stavnsholt,F_Jesper_Dyhrberg,Jesper Dyhrberg,SF - Socialistisk Folkeparti,27
+Furesø,5,Stavnsholt,F_Jan_Kjældgaard,Jan Kjældgaard,SF - Socialistisk Folkeparti,30
+Furesø,5,Stavnsholt,F_Claus_Jensen,Claus Jensen,SF - Socialistisk Folkeparti,0
+Furesø,5,Stavnsholt,F_Henrik_Tyle,Henrik Tyle,SF - Socialistisk Folkeparti,1
+Furesø,5,Stavnsholt,F_Henrik_F._Wille,Henrik F. Wille,SF - Socialistisk Folkeparti,3
+Furesø,5,Stavnsholt,F_Randi_Angelica_Kristensen,Randi Angelica Kristensen,SF - Socialistisk Folkeparti,13
+Furesø,5,Stavnsholt,I_Listestemmer,Listestemmer,Liberal Alliance,29
+Furesø,5,Stavnsholt,I_Søren_Bronée_Bronér,Søren Bronée Bronér,Liberal Alliance,16
+Furesø,5,Stavnsholt,I_Simone_Salung_Bagger,Simone Salung Bagger,Liberal Alliance,14
+Furesø,5,Stavnsholt,I_Steen_Horstmann_Larsen,Steen Horstmann Larsen,Liberal Alliance,1
+Furesø,5,Stavnsholt,I_Inge_Storm,Inge Storm,Liberal Alliance,16
+Furesø,5,Stavnsholt,I_Mads_Okkels_Hansen,Mads Okkels Hansen,Liberal Alliance,0
+Furesø,5,Stavnsholt,I_Niels_Høiby,Niels Høiby,Liberal Alliance,9
+Furesø,5,Stavnsholt,I_Arne_Rask,Arne Rask,Liberal Alliance,1
+Furesø,5,Stavnsholt,I_Mogens_B._Andersen,Mogens B. Andersen,Liberal Alliance,1
+Furesø,5,Stavnsholt,O_Listestemmer,Listestemmer,Dansk Folkeparti,13
+Furesø,5,Stavnsholt,"O_Carsten_Svensson,_Farum","Carsten Svensson, Farum",Dansk Folkeparti,7
+Furesø,5,Stavnsholt,"O_Mette_P._Madsen,_Farum","Mette P. Madsen, Farum",Dansk Folkeparti,8
+Furesø,5,Stavnsholt,"O_Kathe_Søeballe,_Farum","Kathe Søeballe, Farum",Dansk Folkeparti,3
+Furesø,5,Stavnsholt,"O_Marie_Christensen,_Farum","Marie Christensen, Farum",Dansk Folkeparti,1
+Furesø,5,Stavnsholt,"O_John_Reckendorff,_Farum","John Reckendorff, Farum",Dansk Folkeparti,1
+Furesø,5,Stavnsholt,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",110
+Furesø,5,Stavnsholt,V_Gustav_Juul,Gustav Juul,"Venstre, Danmarks Liberale Parti",102
+Furesø,5,Stavnsholt,V_Lars_Carpens,Lars Carpens,"Venstre, Danmarks Liberale Parti",68
+Furesø,5,Stavnsholt,V_Jesper_Larsen,Jesper Larsen,"Venstre, Danmarks Liberale Parti",6
+Furesø,5,Stavnsholt,V_Pierre_Henriksen,Pierre Henriksen,"Venstre, Danmarks Liberale Parti",6
+Furesø,5,Stavnsholt,V_Musa_Harmanci,Musa Harmanci,"Venstre, Danmarks Liberale Parti",46
+Furesø,5,Stavnsholt,V_Christine_Møller-Jensen,Christine Møller-Jensen,"Venstre, Danmarks Liberale Parti",26
+Furesø,5,Stavnsholt,V_Jørgen_Flarup_Gosvig,Jørgen Flarup Gosvig,"Venstre, Danmarks Liberale Parti",0
+Furesø,5,Stavnsholt,V_Anna_Frifelt,Anna Frifelt,"Venstre, Danmarks Liberale Parti",1
+Furesø,5,Stavnsholt,V_Søren_Bollerup_Hansen,Søren Bollerup Hansen,"Venstre, Danmarks Liberale Parti",1
+Furesø,5,Stavnsholt,V_Paul_Thomsen,Paul Thomsen,"Venstre, Danmarks Liberale Parti",9
+Furesø,5,Stavnsholt,V_Kate_Jacquerot,Kate Jacquerot,"Venstre, Danmarks Liberale Parti",18
+Furesø,5,Stavnsholt,Æ_Listestemmer,Listestemmer,Frihedslisten,2
+Furesø,5,Stavnsholt,"Æ_Katjalivah_Elleyhansen,_Værløse","Katjalivah Elleyhansen, Værløse",Frihedslisten,0
+Furesø,5,Stavnsholt,"Æ_Flemming_Blicher,_Værløse","Flemming Blicher, Værløse",Frihedslisten,4
+Furesø,5,Stavnsholt,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,74
+Furesø,5,Stavnsholt,Ø_Øjvind_Vilsholm,Øjvind Vilsholm,Enhedslisten - De Rød-Grønne,62
+Furesø,5,Stavnsholt,Ø_Helle_Vallentin,Helle Vallentin,Enhedslisten - De Rød-Grønne,34
+Furesø,5,Stavnsholt,Ø_Rigmor_Jark,Rigmor Jark,Enhedslisten - De Rød-Grønne,13
+Furesø,5,Stavnsholt,Ø_Kristian_Jensen,Kristian Jensen,Enhedslisten - De Rød-Grønne,8
+Furesø,5,Stavnsholt,Ø_Gitte_Åkjær,Gitte Åkjær,Enhedslisten - De Rød-Grønne,4
+Furesø,5,Stavnsholt,Ø_Allan_E._Petersen,Allan E. Petersen,Enhedslisten - De Rød-Grønne,2
+Furesø,5,Stavnsholt,Ø_Allan_If_Jensen,Allan If Jensen,Enhedslisten - De Rød-Grønne,1
+Furesø,5,Stavnsholt,Ø_Maria_Teresa_Ferreira,Maria Teresa Ferreira,Enhedslisten - De Rød-Grønne,0
+Furesø,5,Stavnsholt,Ø_Erik_Boldsen,Erik Boldsen,Enhedslisten - De Rød-Grønne,5
+Furesø,5,Stavnsholt,Ø_Frede_Thomsen,Frede Thomsen,Enhedslisten - De Rød-Grønne,1
+Furesø,5,Stavnsholt,Å_Listestemmer,Listestemmer,Alternativet,13
+Furesø,5,Stavnsholt,"Å_Allon_Hein_Sørensen,_Farum","Allon Hein Sørensen, Farum",Alternativet,17
+Furesø,5,Stavnsholt,"Å_Hanne_Juel,_Hareskovby","Hanne Juel, Hareskovby",Alternativet,4
+Furesø,5,Stavnsholt,"Å_Charlotte_Torp,_Kirke_Værløse","Charlotte Torp, Kirke Værløse",Alternativet,3
+Furesø,5,Stavnsholt,"Å_Jan_Nikolai_Kristensen,_Farum","Jan Nikolai Kristensen, Farum",Alternativet,1
+Furesø,5,Stavnsholt,"Å_Per_Long,_Farum","Per Long, Farum",Alternativet,0
+Furesø,6,Solvang,A_Listestemmer,Listestemmer,Socialdemokratiet,354
+Furesø,6,Solvang,A_Ole_Bondo_Christensen,Ole Bondo Christensen,Socialdemokratiet,624
+Furesø,6,Solvang,A_Bettina_Ugelvig_Møller,Bettina Ugelvig Møller,Socialdemokratiet,64
+Furesø,6,Solvang,A_Matilde_Powers,Matilde Powers,Socialdemokratiet,103
+Furesø,6,Solvang,A_Preben_Sandberg_Pettersson,Preben Sandberg Pettersson,Socialdemokratiet,9
+Furesø,6,Solvang,A_Lene_Munch-Petersen,Lene Munch-Petersen,Socialdemokratiet,17
+Furesø,6,Solvang,A_Niels_Bjerre_Degn,Niels Bjerre Degn,Socialdemokratiet,34
+Furesø,6,Solvang,A_Hasan_Yilmaz,Hasan Yilmaz,Socialdemokratiet,137
+Furesø,6,Solvang,A_Muhammed_Bektas,Muhammed Bektas,Socialdemokratiet,37
+Furesø,6,Solvang,A_Sussy_Sara_Hasle_Hansen,Sussy Sara Hasle Hansen,Socialdemokratiet,31
+Furesø,6,Solvang,A_Rasmus_Dahl,Rasmus Dahl,Socialdemokratiet,21
+Furesø,6,Solvang,A_Niels_Holk_Teinhart,Niels Holk Teinhart,Socialdemokratiet,6
+Furesø,6,Solvang,A_Susan_Engstrøm,Susan Engstrøm,Socialdemokratiet,29
+Furesø,6,Solvang,A_Christina_Iversen,Christina Iversen,Socialdemokratiet,5
+Furesø,6,Solvang,A_Helle_Katrine_Møller,Helle Katrine Møller,Socialdemokratiet,22
+Furesø,6,Solvang,A_Karin_Alsø,Karin Alsø,Socialdemokratiet,22
+Furesø,6,Solvang,A_Katarina_Ritz,Katarina Ritz,Socialdemokratiet,10
+Furesø,6,Solvang,A_Eddi_Meier,Eddi Meier,Socialdemokratiet,3
+Furesø,6,Solvang,A_Sofie_Pihl_Carrara,Sofie Pihl Carrara,Socialdemokratiet,12
+Furesø,6,Solvang,A_Lene_Bang,Lene Bang,Socialdemokratiet,91
+Furesø,6,Solvang,A_Peter_Arentzen,Peter Arentzen,Socialdemokratiet,59
+Furesø,6,Solvang,A_Celal_Deniz_Kilic,Celal Deniz Kilic,Socialdemokratiet,11
+Furesø,6,Solvang,B_Listestemmer,Listestemmer,Radikale Venstre,111
+Furesø,6,Solvang,B_Tine_Hessner,Tine Hessner,Radikale Venstre,147
+Furesø,6,Solvang,B_Ole_Kristensen,Ole Kristensen,Radikale Venstre,14
+Furesø,6,Solvang,B_Anders_Medum_Groth,Anders Medum Groth,Radikale Venstre,129
+Furesø,6,Solvang,B_Thomas_Hesselhøj_Hansen,Thomas Hesselhøj Hansen,Radikale Venstre,11
+Furesø,6,Solvang,B_Hanne_Gudik-Sørensen,Hanne Gudik-Sørensen,Radikale Venstre,9
+Furesø,6,Solvang,B_Jens_Rikardt_Andersen,Jens Rikardt Andersen,Radikale Venstre,3
+Furesø,6,Solvang,B_Henrik_Kenneth_Lyngberg,Henrik Kenneth Lyngberg,Radikale Venstre,21
+Furesø,6,Solvang,B_Neel_Linhøft_Ingstrup,Neel Linhøft Ingstrup,Radikale Venstre,15
+Furesø,6,Solvang,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,417
+Furesø,6,Solvang,C_Lars_Carstensen,Lars Carstensen,Det Konservative Folkeparti,324
+Furesø,6,Solvang,C_Egil_Hulgaard,Egil Hulgaard,Det Konservative Folkeparti,68
+Furesø,6,Solvang,C_Rikke_Blak-Kristiansen,Rikke Blak-Kristiansen,Det Konservative Folkeparti,72
+Furesø,6,Solvang,C_Joachim_Hjorting,Joachim Hjorting,Det Konservative Folkeparti,45
+Furesø,6,Solvang,C_Niels_Jørgen_Brandt,Niels Jørgen Brandt,Det Konservative Folkeparti,38
+Furesø,6,Solvang,C_Anne-Lise_Thorsen,Anne-Lise Thorsen,Det Konservative Folkeparti,25
+Furesø,6,Solvang,C_Yuying_Chen,Yuying Chen,Det Konservative Folkeparti,30
+Furesø,6,Solvang,C_Henrik_Haugaard_Pedersen,Henrik Haugaard Pedersen,Det Konservative Folkeparti,18
+Furesø,6,Solvang,C_Henrik_Christensen,Henrik Christensen,Det Konservative Folkeparti,36
+Furesø,6,Solvang,C_Sven_Krarup_Nielsen,Sven Krarup Nielsen,Det Konservative Folkeparti,25
+Furesø,6,Solvang,C_Sanne_Sejrbo-Dekker,Sanne Sejrbo-Dekker,Det Konservative Folkeparti,33
+Furesø,6,Solvang,D_Listestemmer,Listestemmer,Nye Borgerlige,54
+Furesø,6,Solvang,"D_Søren_Højbjerg,_Farum","Søren Højbjerg, Farum",Nye Borgerlige,48
+Furesø,6,Solvang,"D_Lisa_Thomsen,_Værløse","Lisa Thomsen, Værløse",Nye Borgerlige,9
+Furesø,6,Solvang,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,94
+Furesø,6,Solvang,F_Jesper_Dyhrberg,Jesper Dyhrberg,SF - Socialistisk Folkeparti,71
+Furesø,6,Solvang,F_Jan_Kjældgaard,Jan Kjældgaard,SF - Socialistisk Folkeparti,47
+Furesø,6,Solvang,F_Claus_Jensen,Claus Jensen,SF - Socialistisk Folkeparti,3
+Furesø,6,Solvang,F_Henrik_Tyle,Henrik Tyle,SF - Socialistisk Folkeparti,7
+Furesø,6,Solvang,F_Henrik_F._Wille,Henrik F. Wille,SF - Socialistisk Folkeparti,10
+Furesø,6,Solvang,F_Randi_Angelica_Kristensen,Randi Angelica Kristensen,SF - Socialistisk Folkeparti,17
+Furesø,6,Solvang,I_Listestemmer,Listestemmer,Liberal Alliance,53
+Furesø,6,Solvang,I_Søren_Bronée_Bronér,Søren Bronée Bronér,Liberal Alliance,43
+Furesø,6,Solvang,I_Simone_Salung_Bagger,Simone Salung Bagger,Liberal Alliance,16
+Furesø,6,Solvang,I_Steen_Horstmann_Larsen,Steen Horstmann Larsen,Liberal Alliance,4
+Furesø,6,Solvang,I_Inge_Storm,Inge Storm,Liberal Alliance,9
+Furesø,6,Solvang,I_Mads_Okkels_Hansen,Mads Okkels Hansen,Liberal Alliance,3
+Furesø,6,Solvang,I_Niels_Høiby,Niels Høiby,Liberal Alliance,5
+Furesø,6,Solvang,I_Arne_Rask,Arne Rask,Liberal Alliance,1
+Furesø,6,Solvang,I_Mogens_B._Andersen,Mogens B. Andersen,Liberal Alliance,4
+Furesø,6,Solvang,O_Listestemmer,Listestemmer,Dansk Folkeparti,22
+Furesø,6,Solvang,"O_Carsten_Svensson,_Farum","Carsten Svensson, Farum",Dansk Folkeparti,30
+Furesø,6,Solvang,"O_Mette_P._Madsen,_Farum","Mette P. Madsen, Farum",Dansk Folkeparti,5
+Furesø,6,Solvang,"O_Kathe_Søeballe,_Farum","Kathe Søeballe, Farum",Dansk Folkeparti,4
+Furesø,6,Solvang,"O_Marie_Christensen,_Farum","Marie Christensen, Farum",Dansk Folkeparti,1
+Furesø,6,Solvang,"O_John_Reckendorff,_Farum","John Reckendorff, Farum",Dansk Folkeparti,1
+Furesø,6,Solvang,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",183
+Furesø,6,Solvang,V_Gustav_Juul,Gustav Juul,"Venstre, Danmarks Liberale Parti",133
+Furesø,6,Solvang,V_Lars_Carpens,Lars Carpens,"Venstre, Danmarks Liberale Parti",141
+Furesø,6,Solvang,V_Jesper_Larsen,Jesper Larsen,"Venstre, Danmarks Liberale Parti",9
+Furesø,6,Solvang,V_Pierre_Henriksen,Pierre Henriksen,"Venstre, Danmarks Liberale Parti",9
+Furesø,6,Solvang,V_Musa_Harmanci,Musa Harmanci,"Venstre, Danmarks Liberale Parti",42
+Furesø,6,Solvang,V_Christine_Møller-Jensen,Christine Møller-Jensen,"Venstre, Danmarks Liberale Parti",64
+Furesø,6,Solvang,V_Jørgen_Flarup_Gosvig,Jørgen Flarup Gosvig,"Venstre, Danmarks Liberale Parti",0
+Furesø,6,Solvang,V_Anna_Frifelt,Anna Frifelt,"Venstre, Danmarks Liberale Parti",3
+Furesø,6,Solvang,V_Søren_Bollerup_Hansen,Søren Bollerup Hansen,"Venstre, Danmarks Liberale Parti",0
+Furesø,6,Solvang,V_Paul_Thomsen,Paul Thomsen,"Venstre, Danmarks Liberale Parti",3
+Furesø,6,Solvang,V_Kate_Jacquerot,Kate Jacquerot,"Venstre, Danmarks Liberale Parti",33
+Furesø,6,Solvang,Æ_Listestemmer,Listestemmer,Frihedslisten,1
+Furesø,6,Solvang,"Æ_Katjalivah_Elleyhansen,_Værløse","Katjalivah Elleyhansen, Værløse",Frihedslisten,2
+Furesø,6,Solvang,"Æ_Flemming_Blicher,_Værløse","Flemming Blicher, Værløse",Frihedslisten,10
+Furesø,6,Solvang,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,135
+Furesø,6,Solvang,Ø_Øjvind_Vilsholm,Øjvind Vilsholm,Enhedslisten - De Rød-Grønne,177
+Furesø,6,Solvang,Ø_Helle_Vallentin,Helle Vallentin,Enhedslisten - De Rød-Grønne,41
+Furesø,6,Solvang,Ø_Rigmor_Jark,Rigmor Jark,Enhedslisten - De Rød-Grønne,26
+Furesø,6,Solvang,Ø_Kristian_Jensen,Kristian Jensen,Enhedslisten - De Rød-Grønne,2
+Furesø,6,Solvang,Ø_Gitte_Åkjær,Gitte Åkjær,Enhedslisten - De Rød-Grønne,5
+Furesø,6,Solvang,Ø_Allan_E._Petersen,Allan E. Petersen,Enhedslisten - De Rød-Grønne,2
+Furesø,6,Solvang,Ø_Allan_If_Jensen,Allan If Jensen,Enhedslisten - De Rød-Grønne,2
+Furesø,6,Solvang,Ø_Maria_Teresa_Ferreira,Maria Teresa Ferreira,Enhedslisten - De Rød-Grønne,6
+Furesø,6,Solvang,Ø_Erik_Boldsen,Erik Boldsen,Enhedslisten - De Rød-Grønne,3
+Furesø,6,Solvang,Ø_Frede_Thomsen,Frede Thomsen,Enhedslisten - De Rød-Grønne,4
+Furesø,6,Solvang,Å_Listestemmer,Listestemmer,Alternativet,17
+Furesø,6,Solvang,"Å_Allon_Hein_Sørensen,_Farum","Allon Hein Sørensen, Farum",Alternativet,45
+Furesø,6,Solvang,"Å_Hanne_Juel,_Hareskovby","Hanne Juel, Hareskovby",Alternativet,11
+Furesø,6,Solvang,"Å_Charlotte_Torp,_Kirke_Værløse","Charlotte Torp, Kirke Værløse",Alternativet,9
+Furesø,6,Solvang,"Å_Jan_Nikolai_Kristensen,_Farum","Jan Nikolai Kristensen, Farum",Alternativet,7
+Furesø,6,Solvang,"Å_Per_Long,_Farum","Per Long, Farum",Alternativet,3
+Furesø,7,Paltholm,A_Listestemmer,Listestemmer,Socialdemokratiet,234
+Furesø,7,Paltholm,A_Ole_Bondo_Christensen,Ole Bondo Christensen,Socialdemokratiet,355
+Furesø,7,Paltholm,A_Bettina_Ugelvig_Møller,Bettina Ugelvig Møller,Socialdemokratiet,29
+Furesø,7,Paltholm,A_Matilde_Powers,Matilde Powers,Socialdemokratiet,46
+Furesø,7,Paltholm,A_Preben_Sandberg_Pettersson,Preben Sandberg Pettersson,Socialdemokratiet,5
+Furesø,7,Paltholm,A_Lene_Munch-Petersen,Lene Munch-Petersen,Socialdemokratiet,15
+Furesø,7,Paltholm,A_Niels_Bjerre_Degn,Niels Bjerre Degn,Socialdemokratiet,30
+Furesø,7,Paltholm,A_Hasan_Yilmaz,Hasan Yilmaz,Socialdemokratiet,181
+Furesø,7,Paltholm,A_Muhammed_Bektas,Muhammed Bektas,Socialdemokratiet,15
+Furesø,7,Paltholm,A_Sussy_Sara_Hasle_Hansen,Sussy Sara Hasle Hansen,Socialdemokratiet,16
+Furesø,7,Paltholm,A_Rasmus_Dahl,Rasmus Dahl,Socialdemokratiet,9
+Furesø,7,Paltholm,A_Niels_Holk_Teinhart,Niels Holk Teinhart,Socialdemokratiet,6
+Furesø,7,Paltholm,A_Susan_Engstrøm,Susan Engstrøm,Socialdemokratiet,48
+Furesø,7,Paltholm,A_Christina_Iversen,Christina Iversen,Socialdemokratiet,12
+Furesø,7,Paltholm,A_Helle_Katrine_Møller,Helle Katrine Møller,Socialdemokratiet,5
+Furesø,7,Paltholm,A_Karin_Alsø,Karin Alsø,Socialdemokratiet,10
+Furesø,7,Paltholm,A_Katarina_Ritz,Katarina Ritz,Socialdemokratiet,4
+Furesø,7,Paltholm,A_Eddi_Meier,Eddi Meier,Socialdemokratiet,0
+Furesø,7,Paltholm,A_Sofie_Pihl_Carrara,Sofie Pihl Carrara,Socialdemokratiet,9
+Furesø,7,Paltholm,A_Lene_Bang,Lene Bang,Socialdemokratiet,29
+Furesø,7,Paltholm,A_Peter_Arentzen,Peter Arentzen,Socialdemokratiet,4
+Furesø,7,Paltholm,A_Celal_Deniz_Kilic,Celal Deniz Kilic,Socialdemokratiet,22
+Furesø,7,Paltholm,B_Listestemmer,Listestemmer,Radikale Venstre,34
+Furesø,7,Paltholm,B_Tine_Hessner,Tine Hessner,Radikale Venstre,32
+Furesø,7,Paltholm,B_Ole_Kristensen,Ole Kristensen,Radikale Venstre,5
+Furesø,7,Paltholm,B_Anders_Medum_Groth,Anders Medum Groth,Radikale Venstre,68
+Furesø,7,Paltholm,B_Thomas_Hesselhøj_Hansen,Thomas Hesselhøj Hansen,Radikale Venstre,2
+Furesø,7,Paltholm,B_Hanne_Gudik-Sørensen,Hanne Gudik-Sørensen,Radikale Venstre,4
+Furesø,7,Paltholm,B_Jens_Rikardt_Andersen,Jens Rikardt Andersen,Radikale Venstre,2
+Furesø,7,Paltholm,B_Henrik_Kenneth_Lyngberg,Henrik Kenneth Lyngberg,Radikale Venstre,2
+Furesø,7,Paltholm,B_Neel_Linhøft_Ingstrup,Neel Linhøft Ingstrup,Radikale Venstre,17
+Furesø,7,Paltholm,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,103
+Furesø,7,Paltholm,C_Lars_Carstensen,Lars Carstensen,Det Konservative Folkeparti,87
+Furesø,7,Paltholm,C_Egil_Hulgaard,Egil Hulgaard,Det Konservative Folkeparti,18
+Furesø,7,Paltholm,C_Rikke_Blak-Kristiansen,Rikke Blak-Kristiansen,Det Konservative Folkeparti,19
+Furesø,7,Paltholm,C_Joachim_Hjorting,Joachim Hjorting,Det Konservative Folkeparti,19
+Furesø,7,Paltholm,C_Niels_Jørgen_Brandt,Niels Jørgen Brandt,Det Konservative Folkeparti,4
+Furesø,7,Paltholm,C_Anne-Lise_Thorsen,Anne-Lise Thorsen,Det Konservative Folkeparti,7
+Furesø,7,Paltholm,C_Yuying_Chen,Yuying Chen,Det Konservative Folkeparti,9
+Furesø,7,Paltholm,C_Henrik_Haugaard_Pedersen,Henrik Haugaard Pedersen,Det Konservative Folkeparti,23
+Furesø,7,Paltholm,C_Henrik_Christensen,Henrik Christensen,Det Konservative Folkeparti,10
+Furesø,7,Paltholm,C_Sven_Krarup_Nielsen,Sven Krarup Nielsen,Det Konservative Folkeparti,7
+Furesø,7,Paltholm,C_Sanne_Sejrbo-Dekker,Sanne Sejrbo-Dekker,Det Konservative Folkeparti,11
+Furesø,7,Paltholm,D_Listestemmer,Listestemmer,Nye Borgerlige,42
+Furesø,7,Paltholm,"D_Søren_Højbjerg,_Farum","Søren Højbjerg, Farum",Nye Borgerlige,33
+Furesø,7,Paltholm,"D_Lisa_Thomsen,_Værløse","Lisa Thomsen, Værløse",Nye Borgerlige,8
+Furesø,7,Paltholm,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,45
+Furesø,7,Paltholm,F_Jesper_Dyhrberg,Jesper Dyhrberg,SF - Socialistisk Folkeparti,25
+Furesø,7,Paltholm,F_Jan_Kjældgaard,Jan Kjældgaard,SF - Socialistisk Folkeparti,16
+Furesø,7,Paltholm,F_Claus_Jensen,Claus Jensen,SF - Socialistisk Folkeparti,8
+Furesø,7,Paltholm,F_Henrik_Tyle,Henrik Tyle,SF - Socialistisk Folkeparti,3
+Furesø,7,Paltholm,F_Henrik_F._Wille,Henrik F. Wille,SF - Socialistisk Folkeparti,5
+Furesø,7,Paltholm,F_Randi_Angelica_Kristensen,Randi Angelica Kristensen,SF - Socialistisk Folkeparti,6
+Furesø,7,Paltholm,I_Listestemmer,Listestemmer,Liberal Alliance,15
+Furesø,7,Paltholm,I_Søren_Bronée_Bronér,Søren Bronée Bronér,Liberal Alliance,5
+Furesø,7,Paltholm,I_Simone_Salung_Bagger,Simone Salung Bagger,Liberal Alliance,5
+Furesø,7,Paltholm,I_Steen_Horstmann_Larsen,Steen Horstmann Larsen,Liberal Alliance,1
+Furesø,7,Paltholm,I_Inge_Storm,Inge Storm,Liberal Alliance,5
+Furesø,7,Paltholm,I_Mads_Okkels_Hansen,Mads Okkels Hansen,Liberal Alliance,1
+Furesø,7,Paltholm,I_Niels_Høiby,Niels Høiby,Liberal Alliance,1
+Furesø,7,Paltholm,I_Arne_Rask,Arne Rask,Liberal Alliance,1
+Furesø,7,Paltholm,I_Mogens_B._Andersen,Mogens B. Andersen,Liberal Alliance,1
+Furesø,7,Paltholm,O_Listestemmer,Listestemmer,Dansk Folkeparti,25
+Furesø,7,Paltholm,"O_Carsten_Svensson,_Farum","Carsten Svensson, Farum",Dansk Folkeparti,16
+Furesø,7,Paltholm,"O_Mette_P._Madsen,_Farum","Mette P. Madsen, Farum",Dansk Folkeparti,10
+Furesø,7,Paltholm,"O_Kathe_Søeballe,_Farum","Kathe Søeballe, Farum",Dansk Folkeparti,0
+Furesø,7,Paltholm,"O_Marie_Christensen,_Farum","Marie Christensen, Farum",Dansk Folkeparti,2
+Furesø,7,Paltholm,"O_John_Reckendorff,_Farum","John Reckendorff, Farum",Dansk Folkeparti,2
+Furesø,7,Paltholm,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",73
+Furesø,7,Paltholm,V_Gustav_Juul,Gustav Juul,"Venstre, Danmarks Liberale Parti",35
+Furesø,7,Paltholm,V_Lars_Carpens,Lars Carpens,"Venstre, Danmarks Liberale Parti",44
+Furesø,7,Paltholm,V_Jesper_Larsen,Jesper Larsen,"Venstre, Danmarks Liberale Parti",6
+Furesø,7,Paltholm,V_Pierre_Henriksen,Pierre Henriksen,"Venstre, Danmarks Liberale Parti",9
+Furesø,7,Paltholm,V_Musa_Harmanci,Musa Harmanci,"Venstre, Danmarks Liberale Parti",177
+Furesø,7,Paltholm,V_Christine_Møller-Jensen,Christine Møller-Jensen,"Venstre, Danmarks Liberale Parti",16
+Furesø,7,Paltholm,V_Jørgen_Flarup_Gosvig,Jørgen Flarup Gosvig,"Venstre, Danmarks Liberale Parti",1
+Furesø,7,Paltholm,V_Anna_Frifelt,Anna Frifelt,"Venstre, Danmarks Liberale Parti",2
+Furesø,7,Paltholm,V_Søren_Bollerup_Hansen,Søren Bollerup Hansen,"Venstre, Danmarks Liberale Parti",0
+Furesø,7,Paltholm,V_Paul_Thomsen,Paul Thomsen,"Venstre, Danmarks Liberale Parti",0
+Furesø,7,Paltholm,V_Kate_Jacquerot,Kate Jacquerot,"Venstre, Danmarks Liberale Parti",7
+Furesø,7,Paltholm,Æ_Listestemmer,Listestemmer,Frihedslisten,10
+Furesø,7,Paltholm,"Æ_Katjalivah_Elleyhansen,_Værløse","Katjalivah Elleyhansen, Værløse",Frihedslisten,3
+Furesø,7,Paltholm,"Æ_Flemming_Blicher,_Værløse","Flemming Blicher, Værløse",Frihedslisten,11
+Furesø,7,Paltholm,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,104
+Furesø,7,Paltholm,Ø_Øjvind_Vilsholm,Øjvind Vilsholm,Enhedslisten - De Rød-Grønne,58
+Furesø,7,Paltholm,Ø_Helle_Vallentin,Helle Vallentin,Enhedslisten - De Rød-Grønne,33
+Furesø,7,Paltholm,Ø_Rigmor_Jark,Rigmor Jark,Enhedslisten - De Rød-Grønne,16
+Furesø,7,Paltholm,Ø_Kristian_Jensen,Kristian Jensen,Enhedslisten - De Rød-Grønne,2
+Furesø,7,Paltholm,Ø_Gitte_Åkjær,Gitte Åkjær,Enhedslisten - De Rød-Grønne,5
+Furesø,7,Paltholm,Ø_Allan_E._Petersen,Allan E. Petersen,Enhedslisten - De Rød-Grønne,4
+Furesø,7,Paltholm,Ø_Allan_If_Jensen,Allan If Jensen,Enhedslisten - De Rød-Grønne,10
+Furesø,7,Paltholm,Ø_Maria_Teresa_Ferreira,Maria Teresa Ferreira,Enhedslisten - De Rød-Grønne,7
+Furesø,7,Paltholm,Ø_Erik_Boldsen,Erik Boldsen,Enhedslisten - De Rød-Grønne,4
+Furesø,7,Paltholm,Ø_Frede_Thomsen,Frede Thomsen,Enhedslisten - De Rød-Grønne,0
+Furesø,7,Paltholm,Å_Listestemmer,Listestemmer,Alternativet,23
+Furesø,7,Paltholm,"Å_Allon_Hein_Sørensen,_Farum","Allon Hein Sørensen, Farum",Alternativet,39
+Furesø,7,Paltholm,"Å_Hanne_Juel,_Hareskovby","Hanne Juel, Hareskovby",Alternativet,1
+Furesø,7,Paltholm,"Å_Charlotte_Torp,_Kirke_Værløse","Charlotte Torp, Kirke Værløse",Alternativet,8
+Furesø,7,Paltholm,"Å_Jan_Nikolai_Kristensen,_Farum","Jan Nikolai Kristensen, Farum",Alternativet,4
+Furesø,7,Paltholm,"Å_Per_Long,_Farum","Per Long, Farum",Alternativet,5

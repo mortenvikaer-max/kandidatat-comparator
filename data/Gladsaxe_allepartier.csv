@@ -1,0 +1,883 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Gladsaxe,1,Bagsværd,A_Listestemmer,Listestemmer,Socialdemokratiet,355
+Gladsaxe,1,Bagsværd,A_Trine_Græse,Trine Græse,Socialdemokratiet,385
+Gladsaxe,1,Bagsværd,A_Kristine_Henriksen,Kristine Henriksen,Socialdemokratiet,26
+Gladsaxe,1,Bagsværd,A_Jakob_Skovgaard_Koed,Jakob Skovgaard Koed,Socialdemokratiet,24
+Gladsaxe,1,Bagsværd,A_Ole_Skrald,Ole Skrald,Socialdemokratiet,20
+Gladsaxe,1,Bagsværd,A_Katrine_Skov,Katrine Skov,Socialdemokratiet,37
+Gladsaxe,1,Bagsværd,A_Tom_Vang_Knudsen,Tom Vang Knudsen,Socialdemokratiet,7
+Gladsaxe,1,Bagsværd,A_Rikke_Louise_Schilling,Rikke Louise Schilling,Socialdemokratiet,43
+Gladsaxe,1,Bagsværd,A_Line_Stockmal_Ammundsen,Line Stockmal Ammundsen,Socialdemokratiet,36
+Gladsaxe,1,Bagsværd,A_Peter_Berg_Nellemann,Peter Berg Nellemann,Socialdemokratiet,11
+Gladsaxe,1,Bagsværd,A_Bjarne_Henriksen,Bjarne Henriksen,Socialdemokratiet,11
+Gladsaxe,1,Bagsværd,A_Henrik_V._Pedersen,Henrik V. Pedersen,Socialdemokratiet,1
+Gladsaxe,1,Bagsværd,A_Calle_Greisholm,Calle Greisholm,Socialdemokratiet,38
+Gladsaxe,1,Bagsværd,A_Anthon_Berentzen,Anthon Berentzen,Socialdemokratiet,26
+Gladsaxe,1,Bagsværd,A_Kristian_Niebuhr,Kristian Niebuhr,Socialdemokratiet,7
+Gladsaxe,1,Bagsværd,A_Allan_Olsen,Allan Olsen,Socialdemokratiet,2
+Gladsaxe,1,Bagsværd,B_Listestemmer,Listestemmer,Radikale Venstre,116
+Gladsaxe,1,Bagsværd,B_Christina_Rittig_Falkberg,Christina Rittig Falkberg,Radikale Venstre,61
+Gladsaxe,1,Bagsværd,B_Pia_Skou,Pia Skou,Radikale Venstre,63
+Gladsaxe,1,Bagsværd,B_Claus_Wachmann,Claus Wachmann,Radikale Venstre,16
+Gladsaxe,1,Bagsværd,B_Lis_Smidsholm,Lis Smidsholm,Radikale Venstre,7
+Gladsaxe,1,Bagsværd,B_Martin_Karbech_Mouritsen,Martin Karbech Mouritsen,Radikale Venstre,1
+Gladsaxe,1,Bagsværd,B_Jakob_Trier,Jakob Trier,Radikale Venstre,1
+Gladsaxe,1,Bagsværd,B_Sara_Edwige_Kobli,Sara Edwige Kobli,Radikale Venstre,1
+Gladsaxe,1,Bagsværd,B_Nick_Nouri,Nick Nouri,Radikale Venstre,0
+Gladsaxe,1,Bagsværd,B_Anne_Parbst,Anne Parbst,Radikale Venstre,1
+Gladsaxe,1,Bagsværd,B_Claus_Staal,Claus Staal,Radikale Venstre,9
+Gladsaxe,1,Bagsværd,B_Flemming_Ytzen,Flemming Ytzen,Radikale Venstre,2
+Gladsaxe,1,Bagsværd,B_Mads_Bondo_Dydensborg,Mads Bondo Dydensborg,Radikale Venstre,0
+Gladsaxe,1,Bagsværd,B_Bjarne_Tolboe_Christiansen,Bjarne Tolboe Christiansen,Radikale Venstre,2
+Gladsaxe,1,Bagsværd,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,191
+Gladsaxe,1,Bagsværd,C_Henrik_Sørensen,Henrik Sørensen,Det Konservative Folkeparti,77
+Gladsaxe,1,Bagsværd,C_Thomas_Germann,Thomas Germann,Det Konservative Folkeparti,40
+Gladsaxe,1,Bagsværd,C_Rebecca_Plomin,Rebecca Plomin,Det Konservative Folkeparti,40
+Gladsaxe,1,Bagsværd,C_Jacqueline_Kristensen,Jacqueline Kristensen,Det Konservative Folkeparti,16
+Gladsaxe,1,Bagsværd,C_Lars_Abel,Lars Abel,Det Konservative Folkeparti,192
+Gladsaxe,1,Bagsværd,C_Mogens_Busk_Sørensen,Mogens Busk Sørensen,Det Konservative Folkeparti,4
+Gladsaxe,1,Bagsværd,C_Marianne_Damgaard-Sørensen,Marianne Damgaard-Sørensen,Det Konservative Folkeparti,21
+Gladsaxe,1,Bagsværd,C_Christa_Kjær,Christa Kjær,Det Konservative Folkeparti,4
+Gladsaxe,1,Bagsværd,D_Listestemmer,Listestemmer,Nye Borgerlige,57
+Gladsaxe,1,Bagsværd,D_Jan_Pless,Jan Pless,Nye Borgerlige,50
+Gladsaxe,1,Bagsværd,D_Carsten_Toft,Carsten Toft,Nye Borgerlige,6
+Gladsaxe,1,Bagsværd,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,107
+Gladsaxe,1,Bagsværd,F_Serdal_Benli,Serdal Benli,SF - Socialistisk Folkeparti,137
+Gladsaxe,1,Bagsværd,F_Dorthe_Wichmand_Müller,Dorthe Wichmand Müller,SF - Socialistisk Folkeparti,33
+Gladsaxe,1,Bagsværd,F_Signe_Ejersbo,Signe Ejersbo,SF - Socialistisk Folkeparti,18
+Gladsaxe,1,Bagsværd,F_Lene_Søndergaard,Lene Søndergaard,SF - Socialistisk Folkeparti,40
+Gladsaxe,1,Bagsværd,F_Frederik_Hoedeman,Frederik Hoedeman,SF - Socialistisk Folkeparti,1
+Gladsaxe,1,Bagsværd,F_Holger_Grohganz,Holger Grohganz,SF - Socialistisk Folkeparti,15
+Gladsaxe,1,Bagsværd,F_Bo_Bülow,Bo Bülow,SF - Socialistisk Folkeparti,2
+Gladsaxe,1,Bagsværd,F_Peter_Malinovsky,Peter Malinovsky,SF - Socialistisk Folkeparti,10
+Gladsaxe,1,Bagsværd,F_Gunnar_Svendsen,Gunnar Svendsen,SF - Socialistisk Folkeparti,3
+Gladsaxe,1,Bagsværd,F_Anne_Breum,Anne Breum,SF - Socialistisk Folkeparti,8
+Gladsaxe,1,Bagsværd,H_Listestemmer,Listestemmer,Sahar Aslani,1
+Gladsaxe,1,Bagsværd,H_Sahar_Aslani,Sahar Aslani,Sahar Aslani,3
+Gladsaxe,1,Bagsværd,I_Listestemmer,Listestemmer,Liberal Alliance,37
+Gladsaxe,1,Bagsværd,I_Jørgen_Juhl,Jørgen Juhl,Liberal Alliance,21
+Gladsaxe,1,Bagsværd,I_David_Ibsen,David Ibsen,Liberal Alliance,12
+Gladsaxe,1,Bagsværd,I_Kim_Fuglsang_Laczek,Kim Fuglsang Laczek,Liberal Alliance,8
+Gladsaxe,1,Bagsværd,I_Jytte_Tholstrup_Svendsen,Jytte Tholstrup Svendsen,Liberal Alliance,0
+Gladsaxe,1,Bagsværd,K_Listestemmer,Listestemmer,Kristendemokraterne,3
+Gladsaxe,1,Bagsværd,K_Esben_Frette_Johnsen,Esben Frette Johnsen,Kristendemokraterne,6
+Gladsaxe,1,Bagsværd,K_Bolette_von_Westphal,Bolette von Westphal,Kristendemokraterne,4
+Gladsaxe,1,Bagsværd,L_Listestemmer,Listestemmer,Lokallisten Gladsaxe,21
+Gladsaxe,1,Bagsværd,L_Lise_Tønner,Lise Tønner,Lokallisten Gladsaxe,28
+Gladsaxe,1,Bagsværd,L_Lene_Svendborg,Lene Svendborg,Lokallisten Gladsaxe,23
+Gladsaxe,1,Bagsværd,L_John_Ellehammer,John Ellehammer,Lokallisten Gladsaxe,3
+Gladsaxe,1,Bagsværd,L_Suleman_Naim,Suleman Naim,Lokallisten Gladsaxe,21
+Gladsaxe,1,Bagsværd,O_Listestemmer,Listestemmer,Dansk Folkeparti,32
+Gladsaxe,1,Bagsværd,O_Susanne_Damsgaard,Susanne Damsgaard,Dansk Folkeparti,43
+Gladsaxe,1,Bagsværd,O_Bonett_Trusell,Bonett Trusell,Dansk Folkeparti,5
+Gladsaxe,1,Bagsværd,O_Klaus_Kjær,Klaus Kjær,Dansk Folkeparti,8
+Gladsaxe,1,Bagsværd,O_Flemming_H._Albrechtsen,Flemming H. Albrechtsen,Dansk Folkeparti,3
+Gladsaxe,1,Bagsværd,O_Patricia_Damsgaard,Patricia Damsgaard,Dansk Folkeparti,0
+Gladsaxe,1,Bagsværd,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",140
+Gladsaxe,1,Bagsværd,V_Martin_Skou_Heidemann,Martin Skou Heidemann,"Venstre, Danmarks Liberale Parti",163
+Gladsaxe,1,Bagsværd,V_Astrid_Søborg,Astrid Søborg,"Venstre, Danmarks Liberale Parti",119
+Gladsaxe,1,Bagsværd,V_Lone_Yalcinkaya,Lone Yalcinkaya,"Venstre, Danmarks Liberale Parti",44
+Gladsaxe,1,Bagsværd,V_Thekla_Ravn,Thekla Ravn,"Venstre, Danmarks Liberale Parti",8
+Gladsaxe,1,Bagsværd,V_Allan_Juhl_Feddersen,Allan Juhl Feddersen,"Venstre, Danmarks Liberale Parti",3
+Gladsaxe,1,Bagsværd,V_Gunnar_Sumberg,Gunnar Sumberg,"Venstre, Danmarks Liberale Parti",8
+Gladsaxe,1,Bagsværd,V_Benedikte_Claudinger,Benedikte Claudinger,"Venstre, Danmarks Liberale Parti",12
+Gladsaxe,1,Bagsværd,V_Henrik_Thormod_Andersen,Henrik Thormod Andersen,"Venstre, Danmarks Liberale Parti",0
+Gladsaxe,1,Bagsværd,V_Kenneth_Colding,Kenneth Colding,"Venstre, Danmarks Liberale Parti",13
+Gladsaxe,1,Bagsværd,V_Camilla_Friis,Camilla Friis,"Venstre, Danmarks Liberale Parti",38
+Gladsaxe,1,Bagsværd,V_René_Wriedt,René Wriedt,"Venstre, Danmarks Liberale Parti",3
+Gladsaxe,1,Bagsværd,V_Finn_Kilbak,Finn Kilbak,"Venstre, Danmarks Liberale Parti",26
+Gladsaxe,1,Bagsværd,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,121
+Gladsaxe,1,Bagsværd,Ø_Trine_Henriksen,Trine Henriksen,Enhedslisten - De Rød-Grønne,92
+Gladsaxe,1,Bagsværd,Ø_Signe_Rosa_Skelbæk,Signe Rosa Skelbæk,Enhedslisten - De Rød-Grønne,33
+Gladsaxe,1,Bagsværd,Ø_Michael_Dorph_Jensen,Michael Dorph Jensen,Enhedslisten - De Rød-Grønne,12
+Gladsaxe,1,Bagsværd,Ø_Torben_Madsen,Torben Madsen,Enhedslisten - De Rød-Grønne,11
+Gladsaxe,1,Bagsværd,Ø_Casper_Pedersen,Casper Pedersen,Enhedslisten - De Rød-Grønne,4
+Gladsaxe,1,Bagsværd,Ø_Shila_Pourdeylami,Shila Pourdeylami,Enhedslisten - De Rød-Grønne,21
+Gladsaxe,1,Bagsværd,Ø_Sune_Rastad_Bahn,Sune Rastad Bahn,Enhedslisten - De Rød-Grønne,2
+Gladsaxe,1,Bagsværd,Ø_Bertha_M._Friis,Bertha M. Friis,Enhedslisten - De Rød-Grønne,9
+Gladsaxe,1,Bagsværd,Ø_Morten_Ravn_Landerslev,Morten Ravn Landerslev,Enhedslisten - De Rød-Grønne,1
+Gladsaxe,1,Bagsværd,Ø_Patrick_Okwonga,Patrick Okwonga,Enhedslisten - De Rød-Grønne,4
+Gladsaxe,2,Hovedbiblioteket,A_Listestemmer,Listestemmer,Socialdemokratiet,514
+Gladsaxe,2,Hovedbiblioteket,A_Trine_Græse,Trine Græse,Socialdemokratiet,445
+Gladsaxe,2,Hovedbiblioteket,A_Kristine_Henriksen,Kristine Henriksen,Socialdemokratiet,58
+Gladsaxe,2,Hovedbiblioteket,A_Jakob_Skovgaard_Koed,Jakob Skovgaard Koed,Socialdemokratiet,23
+Gladsaxe,2,Hovedbiblioteket,A_Ole_Skrald,Ole Skrald,Socialdemokratiet,41
+Gladsaxe,2,Hovedbiblioteket,A_Katrine_Skov,Katrine Skov,Socialdemokratiet,79
+Gladsaxe,2,Hovedbiblioteket,A_Tom_Vang_Knudsen,Tom Vang Knudsen,Socialdemokratiet,11
+Gladsaxe,2,Hovedbiblioteket,A_Rikke_Louise_Schilling,Rikke Louise Schilling,Socialdemokratiet,31
+Gladsaxe,2,Hovedbiblioteket,A_Line_Stockmal_Ammundsen,Line Stockmal Ammundsen,Socialdemokratiet,68
+Gladsaxe,2,Hovedbiblioteket,A_Peter_Berg_Nellemann,Peter Berg Nellemann,Socialdemokratiet,21
+Gladsaxe,2,Hovedbiblioteket,A_Bjarne_Henriksen,Bjarne Henriksen,Socialdemokratiet,12
+Gladsaxe,2,Hovedbiblioteket,A_Henrik_V._Pedersen,Henrik V. Pedersen,Socialdemokratiet,7
+Gladsaxe,2,Hovedbiblioteket,A_Calle_Greisholm,Calle Greisholm,Socialdemokratiet,97
+Gladsaxe,2,Hovedbiblioteket,A_Anthon_Berentzen,Anthon Berentzen,Socialdemokratiet,35
+Gladsaxe,2,Hovedbiblioteket,A_Kristian_Niebuhr,Kristian Niebuhr,Socialdemokratiet,25
+Gladsaxe,2,Hovedbiblioteket,A_Allan_Olsen,Allan Olsen,Socialdemokratiet,15
+Gladsaxe,2,Hovedbiblioteket,B_Listestemmer,Listestemmer,Radikale Venstre,108
+Gladsaxe,2,Hovedbiblioteket,B_Christina_Rittig_Falkberg,Christina Rittig Falkberg,Radikale Venstre,70
+Gladsaxe,2,Hovedbiblioteket,B_Pia_Skou,Pia Skou,Radikale Venstre,50
+Gladsaxe,2,Hovedbiblioteket,B_Claus_Wachmann,Claus Wachmann,Radikale Venstre,2
+Gladsaxe,2,Hovedbiblioteket,B_Lis_Smidsholm,Lis Smidsholm,Radikale Venstre,2
+Gladsaxe,2,Hovedbiblioteket,B_Martin_Karbech_Mouritsen,Martin Karbech Mouritsen,Radikale Venstre,0
+Gladsaxe,2,Hovedbiblioteket,B_Jakob_Trier,Jakob Trier,Radikale Venstre,3
+Gladsaxe,2,Hovedbiblioteket,B_Sara_Edwige_Kobli,Sara Edwige Kobli,Radikale Venstre,16
+Gladsaxe,2,Hovedbiblioteket,B_Nick_Nouri,Nick Nouri,Radikale Venstre,1
+Gladsaxe,2,Hovedbiblioteket,B_Anne_Parbst,Anne Parbst,Radikale Venstre,0
+Gladsaxe,2,Hovedbiblioteket,B_Claus_Staal,Claus Staal,Radikale Venstre,15
+Gladsaxe,2,Hovedbiblioteket,B_Flemming_Ytzen,Flemming Ytzen,Radikale Venstre,5
+Gladsaxe,2,Hovedbiblioteket,B_Mads_Bondo_Dydensborg,Mads Bondo Dydensborg,Radikale Venstre,0
+Gladsaxe,2,Hovedbiblioteket,B_Bjarne_Tolboe_Christiansen,Bjarne Tolboe Christiansen,Radikale Venstre,3
+Gladsaxe,2,Hovedbiblioteket,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,192
+Gladsaxe,2,Hovedbiblioteket,C_Henrik_Sørensen,Henrik Sørensen,Det Konservative Folkeparti,68
+Gladsaxe,2,Hovedbiblioteket,C_Thomas_Germann,Thomas Germann,Det Konservative Folkeparti,11
+Gladsaxe,2,Hovedbiblioteket,C_Rebecca_Plomin,Rebecca Plomin,Det Konservative Folkeparti,33
+Gladsaxe,2,Hovedbiblioteket,C_Jacqueline_Kristensen,Jacqueline Kristensen,Det Konservative Folkeparti,21
+Gladsaxe,2,Hovedbiblioteket,C_Lars_Abel,Lars Abel,Det Konservative Folkeparti,65
+Gladsaxe,2,Hovedbiblioteket,C_Mogens_Busk_Sørensen,Mogens Busk Sørensen,Det Konservative Folkeparti,5
+Gladsaxe,2,Hovedbiblioteket,C_Marianne_Damgaard-Sørensen,Marianne Damgaard-Sørensen,Det Konservative Folkeparti,18
+Gladsaxe,2,Hovedbiblioteket,C_Christa_Kjær,Christa Kjær,Det Konservative Folkeparti,11
+Gladsaxe,2,Hovedbiblioteket,D_Listestemmer,Listestemmer,Nye Borgerlige,80
+Gladsaxe,2,Hovedbiblioteket,D_Jan_Pless,Jan Pless,Nye Borgerlige,59
+Gladsaxe,2,Hovedbiblioteket,D_Carsten_Toft,Carsten Toft,Nye Borgerlige,8
+Gladsaxe,2,Hovedbiblioteket,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,186
+Gladsaxe,2,Hovedbiblioteket,F_Serdal_Benli,Serdal Benli,SF - Socialistisk Folkeparti,154
+Gladsaxe,2,Hovedbiblioteket,F_Dorthe_Wichmand_Müller,Dorthe Wichmand Müller,SF - Socialistisk Folkeparti,32
+Gladsaxe,2,Hovedbiblioteket,F_Signe_Ejersbo,Signe Ejersbo,SF - Socialistisk Folkeparti,41
+Gladsaxe,2,Hovedbiblioteket,F_Lene_Søndergaard,Lene Søndergaard,SF - Socialistisk Folkeparti,43
+Gladsaxe,2,Hovedbiblioteket,F_Frederik_Hoedeman,Frederik Hoedeman,SF - Socialistisk Folkeparti,5
+Gladsaxe,2,Hovedbiblioteket,F_Holger_Grohganz,Holger Grohganz,SF - Socialistisk Folkeparti,9
+Gladsaxe,2,Hovedbiblioteket,F_Bo_Bülow,Bo Bülow,SF - Socialistisk Folkeparti,9
+Gladsaxe,2,Hovedbiblioteket,F_Peter_Malinovsky,Peter Malinovsky,SF - Socialistisk Folkeparti,9
+Gladsaxe,2,Hovedbiblioteket,F_Gunnar_Svendsen,Gunnar Svendsen,SF - Socialistisk Folkeparti,1
+Gladsaxe,2,Hovedbiblioteket,F_Anne_Breum,Anne Breum,SF - Socialistisk Folkeparti,9
+Gladsaxe,2,Hovedbiblioteket,H_Listestemmer,Listestemmer,Sahar Aslani,1
+Gladsaxe,2,Hovedbiblioteket,H_Sahar_Aslani,Sahar Aslani,Sahar Aslani,5
+Gladsaxe,2,Hovedbiblioteket,I_Listestemmer,Listestemmer,Liberal Alliance,43
+Gladsaxe,2,Hovedbiblioteket,I_Jørgen_Juhl,Jørgen Juhl,Liberal Alliance,9
+Gladsaxe,2,Hovedbiblioteket,I_David_Ibsen,David Ibsen,Liberal Alliance,8
+Gladsaxe,2,Hovedbiblioteket,I_Kim_Fuglsang_Laczek,Kim Fuglsang Laczek,Liberal Alliance,8
+Gladsaxe,2,Hovedbiblioteket,I_Jytte_Tholstrup_Svendsen,Jytte Tholstrup Svendsen,Liberal Alliance,1
+Gladsaxe,2,Hovedbiblioteket,K_Listestemmer,Listestemmer,Kristendemokraterne,10
+Gladsaxe,2,Hovedbiblioteket,K_Esben_Frette_Johnsen,Esben Frette Johnsen,Kristendemokraterne,6
+Gladsaxe,2,Hovedbiblioteket,K_Bolette_von_Westphal,Bolette von Westphal,Kristendemokraterne,3
+Gladsaxe,2,Hovedbiblioteket,L_Listestemmer,Listestemmer,Lokallisten Gladsaxe,26
+Gladsaxe,2,Hovedbiblioteket,L_Lise_Tønner,Lise Tønner,Lokallisten Gladsaxe,46
+Gladsaxe,2,Hovedbiblioteket,L_Lene_Svendborg,Lene Svendborg,Lokallisten Gladsaxe,33
+Gladsaxe,2,Hovedbiblioteket,L_John_Ellehammer,John Ellehammer,Lokallisten Gladsaxe,7
+Gladsaxe,2,Hovedbiblioteket,L_Suleman_Naim,Suleman Naim,Lokallisten Gladsaxe,49
+Gladsaxe,2,Hovedbiblioteket,O_Listestemmer,Listestemmer,Dansk Folkeparti,62
+Gladsaxe,2,Hovedbiblioteket,O_Susanne_Damsgaard,Susanne Damsgaard,Dansk Folkeparti,56
+Gladsaxe,2,Hovedbiblioteket,O_Bonett_Trusell,Bonett Trusell,Dansk Folkeparti,16
+Gladsaxe,2,Hovedbiblioteket,O_Klaus_Kjær,Klaus Kjær,Dansk Folkeparti,17
+Gladsaxe,2,Hovedbiblioteket,O_Flemming_H._Albrechtsen,Flemming H. Albrechtsen,Dansk Folkeparti,2
+Gladsaxe,2,Hovedbiblioteket,O_Patricia_Damsgaard,Patricia Damsgaard,Dansk Folkeparti,1
+Gladsaxe,2,Hovedbiblioteket,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",181
+Gladsaxe,2,Hovedbiblioteket,V_Martin_Skou_Heidemann,Martin Skou Heidemann,"Venstre, Danmarks Liberale Parti",112
+Gladsaxe,2,Hovedbiblioteket,V_Astrid_Søborg,Astrid Søborg,"Venstre, Danmarks Liberale Parti",104
+Gladsaxe,2,Hovedbiblioteket,V_Lone_Yalcinkaya,Lone Yalcinkaya,"Venstre, Danmarks Liberale Parti",57
+Gladsaxe,2,Hovedbiblioteket,V_Thekla_Ravn,Thekla Ravn,"Venstre, Danmarks Liberale Parti",11
+Gladsaxe,2,Hovedbiblioteket,V_Allan_Juhl_Feddersen,Allan Juhl Feddersen,"Venstre, Danmarks Liberale Parti",6
+Gladsaxe,2,Hovedbiblioteket,V_Gunnar_Sumberg,Gunnar Sumberg,"Venstre, Danmarks Liberale Parti",11
+Gladsaxe,2,Hovedbiblioteket,V_Benedikte_Claudinger,Benedikte Claudinger,"Venstre, Danmarks Liberale Parti",4
+Gladsaxe,2,Hovedbiblioteket,V_Henrik_Thormod_Andersen,Henrik Thormod Andersen,"Venstre, Danmarks Liberale Parti",5
+Gladsaxe,2,Hovedbiblioteket,V_Kenneth_Colding,Kenneth Colding,"Venstre, Danmarks Liberale Parti",16
+Gladsaxe,2,Hovedbiblioteket,V_Camilla_Friis,Camilla Friis,"Venstre, Danmarks Liberale Parti",41
+Gladsaxe,2,Hovedbiblioteket,V_René_Wriedt,René Wriedt,"Venstre, Danmarks Liberale Parti",0
+Gladsaxe,2,Hovedbiblioteket,V_Finn_Kilbak,Finn Kilbak,"Venstre, Danmarks Liberale Parti",16
+Gladsaxe,2,Hovedbiblioteket,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,194
+Gladsaxe,2,Hovedbiblioteket,Ø_Trine_Henriksen,Trine Henriksen,Enhedslisten - De Rød-Grønne,97
+Gladsaxe,2,Hovedbiblioteket,Ø_Signe_Rosa_Skelbæk,Signe Rosa Skelbæk,Enhedslisten - De Rød-Grønne,59
+Gladsaxe,2,Hovedbiblioteket,Ø_Michael_Dorph_Jensen,Michael Dorph Jensen,Enhedslisten - De Rød-Grønne,7
+Gladsaxe,2,Hovedbiblioteket,Ø_Torben_Madsen,Torben Madsen,Enhedslisten - De Rød-Grønne,21
+Gladsaxe,2,Hovedbiblioteket,Ø_Casper_Pedersen,Casper Pedersen,Enhedslisten - De Rød-Grønne,5
+Gladsaxe,2,Hovedbiblioteket,Ø_Shila_Pourdeylami,Shila Pourdeylami,Enhedslisten - De Rød-Grønne,31
+Gladsaxe,2,Hovedbiblioteket,Ø_Sune_Rastad_Bahn,Sune Rastad Bahn,Enhedslisten - De Rød-Grønne,6
+Gladsaxe,2,Hovedbiblioteket,Ø_Bertha_M._Friis,Bertha M. Friis,Enhedslisten - De Rød-Grønne,26
+Gladsaxe,2,Hovedbiblioteket,Ø_Morten_Ravn_Landerslev,Morten Ravn Landerslev,Enhedslisten - De Rød-Grønne,2
+Gladsaxe,2,Hovedbiblioteket,Ø_Patrick_Okwonga,Patrick Okwonga,Enhedslisten - De Rød-Grønne,2
+Gladsaxe,3,Egegård,A_Listestemmer,Listestemmer,Socialdemokratiet,475
+Gladsaxe,3,Egegård,A_Trine_Græse,Trine Græse,Socialdemokratiet,428
+Gladsaxe,3,Egegård,A_Kristine_Henriksen,Kristine Henriksen,Socialdemokratiet,35
+Gladsaxe,3,Egegård,A_Jakob_Skovgaard_Koed,Jakob Skovgaard Koed,Socialdemokratiet,32
+Gladsaxe,3,Egegård,A_Ole_Skrald,Ole Skrald,Socialdemokratiet,64
+Gladsaxe,3,Egegård,A_Katrine_Skov,Katrine Skov,Socialdemokratiet,34
+Gladsaxe,3,Egegård,A_Tom_Vang_Knudsen,Tom Vang Knudsen,Socialdemokratiet,11
+Gladsaxe,3,Egegård,A_Rikke_Louise_Schilling,Rikke Louise Schilling,Socialdemokratiet,37
+Gladsaxe,3,Egegård,A_Line_Stockmal_Ammundsen,Line Stockmal Ammundsen,Socialdemokratiet,49
+Gladsaxe,3,Egegård,A_Peter_Berg_Nellemann,Peter Berg Nellemann,Socialdemokratiet,32
+Gladsaxe,3,Egegård,A_Bjarne_Henriksen,Bjarne Henriksen,Socialdemokratiet,17
+Gladsaxe,3,Egegård,A_Henrik_V._Pedersen,Henrik V. Pedersen,Socialdemokratiet,5
+Gladsaxe,3,Egegård,A_Calle_Greisholm,Calle Greisholm,Socialdemokratiet,46
+Gladsaxe,3,Egegård,A_Anthon_Berentzen,Anthon Berentzen,Socialdemokratiet,22
+Gladsaxe,3,Egegård,A_Kristian_Niebuhr,Kristian Niebuhr,Socialdemokratiet,6
+Gladsaxe,3,Egegård,A_Allan_Olsen,Allan Olsen,Socialdemokratiet,8
+Gladsaxe,3,Egegård,B_Listestemmer,Listestemmer,Radikale Venstre,88
+Gladsaxe,3,Egegård,B_Christina_Rittig_Falkberg,Christina Rittig Falkberg,Radikale Venstre,54
+Gladsaxe,3,Egegård,B_Pia_Skou,Pia Skou,Radikale Venstre,52
+Gladsaxe,3,Egegård,B_Claus_Wachmann,Claus Wachmann,Radikale Venstre,3
+Gladsaxe,3,Egegård,B_Lis_Smidsholm,Lis Smidsholm,Radikale Venstre,5
+Gladsaxe,3,Egegård,B_Martin_Karbech_Mouritsen,Martin Karbech Mouritsen,Radikale Venstre,0
+Gladsaxe,3,Egegård,B_Jakob_Trier,Jakob Trier,Radikale Venstre,1
+Gladsaxe,3,Egegård,B_Sara_Edwige_Kobli,Sara Edwige Kobli,Radikale Venstre,7
+Gladsaxe,3,Egegård,B_Nick_Nouri,Nick Nouri,Radikale Venstre,2
+Gladsaxe,3,Egegård,B_Anne_Parbst,Anne Parbst,Radikale Venstre,1
+Gladsaxe,3,Egegård,B_Claus_Staal,Claus Staal,Radikale Venstre,8
+Gladsaxe,3,Egegård,B_Flemming_Ytzen,Flemming Ytzen,Radikale Venstre,1
+Gladsaxe,3,Egegård,B_Mads_Bondo_Dydensborg,Mads Bondo Dydensborg,Radikale Venstre,2
+Gladsaxe,3,Egegård,B_Bjarne_Tolboe_Christiansen,Bjarne Tolboe Christiansen,Radikale Venstre,2
+Gladsaxe,3,Egegård,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,199
+Gladsaxe,3,Egegård,C_Henrik_Sørensen,Henrik Sørensen,Det Konservative Folkeparti,94
+Gladsaxe,3,Egegård,C_Thomas_Germann,Thomas Germann,Det Konservative Folkeparti,13
+Gladsaxe,3,Egegård,C_Rebecca_Plomin,Rebecca Plomin,Det Konservative Folkeparti,42
+Gladsaxe,3,Egegård,C_Jacqueline_Kristensen,Jacqueline Kristensen,Det Konservative Folkeparti,14
+Gladsaxe,3,Egegård,C_Lars_Abel,Lars Abel,Det Konservative Folkeparti,66
+Gladsaxe,3,Egegård,C_Mogens_Busk_Sørensen,Mogens Busk Sørensen,Det Konservative Folkeparti,8
+Gladsaxe,3,Egegård,C_Marianne_Damgaard-Sørensen,Marianne Damgaard-Sørensen,Det Konservative Folkeparti,11
+Gladsaxe,3,Egegård,C_Christa_Kjær,Christa Kjær,Det Konservative Folkeparti,8
+Gladsaxe,3,Egegård,D_Listestemmer,Listestemmer,Nye Borgerlige,68
+Gladsaxe,3,Egegård,D_Jan_Pless,Jan Pless,Nye Borgerlige,65
+Gladsaxe,3,Egegård,D_Carsten_Toft,Carsten Toft,Nye Borgerlige,14
+Gladsaxe,3,Egegård,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,111
+Gladsaxe,3,Egegård,F_Serdal_Benli,Serdal Benli,SF - Socialistisk Folkeparti,140
+Gladsaxe,3,Egegård,F_Dorthe_Wichmand_Müller,Dorthe Wichmand Müller,SF - Socialistisk Folkeparti,31
+Gladsaxe,3,Egegård,F_Signe_Ejersbo,Signe Ejersbo,SF - Socialistisk Folkeparti,19
+Gladsaxe,3,Egegård,F_Lene_Søndergaard,Lene Søndergaard,SF - Socialistisk Folkeparti,27
+Gladsaxe,3,Egegård,F_Frederik_Hoedeman,Frederik Hoedeman,SF - Socialistisk Folkeparti,1
+Gladsaxe,3,Egegård,F_Holger_Grohganz,Holger Grohganz,SF - Socialistisk Folkeparti,6
+Gladsaxe,3,Egegård,F_Bo_Bülow,Bo Bülow,SF - Socialistisk Folkeparti,5
+Gladsaxe,3,Egegård,F_Peter_Malinovsky,Peter Malinovsky,SF - Socialistisk Folkeparti,7
+Gladsaxe,3,Egegård,F_Gunnar_Svendsen,Gunnar Svendsen,SF - Socialistisk Folkeparti,3
+Gladsaxe,3,Egegård,F_Anne_Breum,Anne Breum,SF - Socialistisk Folkeparti,7
+Gladsaxe,3,Egegård,H_Listestemmer,Listestemmer,Sahar Aslani,5
+Gladsaxe,3,Egegård,H_Sahar_Aslani,Sahar Aslani,Sahar Aslani,4
+Gladsaxe,3,Egegård,I_Listestemmer,Listestemmer,Liberal Alliance,23
+Gladsaxe,3,Egegård,I_Jørgen_Juhl,Jørgen Juhl,Liberal Alliance,3
+Gladsaxe,3,Egegård,I_David_Ibsen,David Ibsen,Liberal Alliance,7
+Gladsaxe,3,Egegård,I_Kim_Fuglsang_Laczek,Kim Fuglsang Laczek,Liberal Alliance,11
+Gladsaxe,3,Egegård,I_Jytte_Tholstrup_Svendsen,Jytte Tholstrup Svendsen,Liberal Alliance,2
+Gladsaxe,3,Egegård,K_Listestemmer,Listestemmer,Kristendemokraterne,4
+Gladsaxe,3,Egegård,K_Esben_Frette_Johnsen,Esben Frette Johnsen,Kristendemokraterne,3
+Gladsaxe,3,Egegård,K_Bolette_von_Westphal,Bolette von Westphal,Kristendemokraterne,4
+Gladsaxe,3,Egegård,L_Listestemmer,Listestemmer,Lokallisten Gladsaxe,33
+Gladsaxe,3,Egegård,L_Lise_Tønner,Lise Tønner,Lokallisten Gladsaxe,27
+Gladsaxe,3,Egegård,L_Lene_Svendborg,Lene Svendborg,Lokallisten Gladsaxe,26
+Gladsaxe,3,Egegård,L_John_Ellehammer,John Ellehammer,Lokallisten Gladsaxe,5
+Gladsaxe,3,Egegård,L_Suleman_Naim,Suleman Naim,Lokallisten Gladsaxe,22
+Gladsaxe,3,Egegård,O_Listestemmer,Listestemmer,Dansk Folkeparti,64
+Gladsaxe,3,Egegård,O_Susanne_Damsgaard,Susanne Damsgaard,Dansk Folkeparti,67
+Gladsaxe,3,Egegård,O_Bonett_Trusell,Bonett Trusell,Dansk Folkeparti,21
+Gladsaxe,3,Egegård,O_Klaus_Kjær,Klaus Kjær,Dansk Folkeparti,7
+Gladsaxe,3,Egegård,O_Flemming_H._Albrechtsen,Flemming H. Albrechtsen,Dansk Folkeparti,2
+Gladsaxe,3,Egegård,O_Patricia_Damsgaard,Patricia Damsgaard,Dansk Folkeparti,0
+Gladsaxe,3,Egegård,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",161
+Gladsaxe,3,Egegård,V_Martin_Skou_Heidemann,Martin Skou Heidemann,"Venstre, Danmarks Liberale Parti",117
+Gladsaxe,3,Egegård,V_Astrid_Søborg,Astrid Søborg,"Venstre, Danmarks Liberale Parti",76
+Gladsaxe,3,Egegård,V_Lone_Yalcinkaya,Lone Yalcinkaya,"Venstre, Danmarks Liberale Parti",38
+Gladsaxe,3,Egegård,V_Thekla_Ravn,Thekla Ravn,"Venstre, Danmarks Liberale Parti",46
+Gladsaxe,3,Egegård,V_Allan_Juhl_Feddersen,Allan Juhl Feddersen,"Venstre, Danmarks Liberale Parti",7
+Gladsaxe,3,Egegård,V_Gunnar_Sumberg,Gunnar Sumberg,"Venstre, Danmarks Liberale Parti",8
+Gladsaxe,3,Egegård,V_Benedikte_Claudinger,Benedikte Claudinger,"Venstre, Danmarks Liberale Parti",9
+Gladsaxe,3,Egegård,V_Henrik_Thormod_Andersen,Henrik Thormod Andersen,"Venstre, Danmarks Liberale Parti",2
+Gladsaxe,3,Egegård,V_Kenneth_Colding,Kenneth Colding,"Venstre, Danmarks Liberale Parti",17
+Gladsaxe,3,Egegård,V_Camilla_Friis,Camilla Friis,"Venstre, Danmarks Liberale Parti",38
+Gladsaxe,3,Egegård,V_René_Wriedt,René Wriedt,"Venstre, Danmarks Liberale Parti",5
+Gladsaxe,3,Egegård,V_Finn_Kilbak,Finn Kilbak,"Venstre, Danmarks Liberale Parti",9
+Gladsaxe,3,Egegård,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,128
+Gladsaxe,3,Egegård,Ø_Trine_Henriksen,Trine Henriksen,Enhedslisten - De Rød-Grønne,59
+Gladsaxe,3,Egegård,Ø_Signe_Rosa_Skelbæk,Signe Rosa Skelbæk,Enhedslisten - De Rød-Grønne,37
+Gladsaxe,3,Egegård,Ø_Michael_Dorph_Jensen,Michael Dorph Jensen,Enhedslisten - De Rød-Grønne,15
+Gladsaxe,3,Egegård,Ø_Torben_Madsen,Torben Madsen,Enhedslisten - De Rød-Grønne,15
+Gladsaxe,3,Egegård,Ø_Casper_Pedersen,Casper Pedersen,Enhedslisten - De Rød-Grønne,6
+Gladsaxe,3,Egegård,Ø_Shila_Pourdeylami,Shila Pourdeylami,Enhedslisten - De Rød-Grønne,31
+Gladsaxe,3,Egegård,Ø_Sune_Rastad_Bahn,Sune Rastad Bahn,Enhedslisten - De Rød-Grønne,2
+Gladsaxe,3,Egegård,Ø_Bertha_M._Friis,Bertha M. Friis,Enhedslisten - De Rød-Grønne,14
+Gladsaxe,3,Egegård,Ø_Morten_Ravn_Landerslev,Morten Ravn Landerslev,Enhedslisten - De Rød-Grønne,0
+Gladsaxe,3,Egegård,Ø_Patrick_Okwonga,Patrick Okwonga,Enhedslisten - De Rød-Grønne,1
+Gladsaxe,4,Grønnemose,A_Listestemmer,Listestemmer,Socialdemokratiet,443
+Gladsaxe,4,Grønnemose,A_Trine_Græse,Trine Græse,Socialdemokratiet,436
+Gladsaxe,4,Grønnemose,A_Kristine_Henriksen,Kristine Henriksen,Socialdemokratiet,43
+Gladsaxe,4,Grønnemose,A_Jakob_Skovgaard_Koed,Jakob Skovgaard Koed,Socialdemokratiet,27
+Gladsaxe,4,Grønnemose,A_Ole_Skrald,Ole Skrald,Socialdemokratiet,34
+Gladsaxe,4,Grønnemose,A_Katrine_Skov,Katrine Skov,Socialdemokratiet,138
+Gladsaxe,4,Grønnemose,A_Tom_Vang_Knudsen,Tom Vang Knudsen,Socialdemokratiet,18
+Gladsaxe,4,Grønnemose,A_Rikke_Louise_Schilling,Rikke Louise Schilling,Socialdemokratiet,16
+Gladsaxe,4,Grønnemose,A_Line_Stockmal_Ammundsen,Line Stockmal Ammundsen,Socialdemokratiet,50
+Gladsaxe,4,Grønnemose,A_Peter_Berg_Nellemann,Peter Berg Nellemann,Socialdemokratiet,20
+Gladsaxe,4,Grønnemose,A_Bjarne_Henriksen,Bjarne Henriksen,Socialdemokratiet,7
+Gladsaxe,4,Grønnemose,A_Henrik_V._Pedersen,Henrik V. Pedersen,Socialdemokratiet,8
+Gladsaxe,4,Grønnemose,A_Calle_Greisholm,Calle Greisholm,Socialdemokratiet,62
+Gladsaxe,4,Grønnemose,A_Anthon_Berentzen,Anthon Berentzen,Socialdemokratiet,12
+Gladsaxe,4,Grønnemose,A_Kristian_Niebuhr,Kristian Niebuhr,Socialdemokratiet,26
+Gladsaxe,4,Grønnemose,A_Allan_Olsen,Allan Olsen,Socialdemokratiet,23
+Gladsaxe,4,Grønnemose,B_Listestemmer,Listestemmer,Radikale Venstre,144
+Gladsaxe,4,Grønnemose,B_Christina_Rittig_Falkberg,Christina Rittig Falkberg,Radikale Venstre,161
+Gladsaxe,4,Grønnemose,B_Pia_Skou,Pia Skou,Radikale Venstre,33
+Gladsaxe,4,Grønnemose,B_Claus_Wachmann,Claus Wachmann,Radikale Venstre,11
+Gladsaxe,4,Grønnemose,B_Lis_Smidsholm,Lis Smidsholm,Radikale Venstre,2
+Gladsaxe,4,Grønnemose,B_Martin_Karbech_Mouritsen,Martin Karbech Mouritsen,Radikale Venstre,1
+Gladsaxe,4,Grønnemose,B_Jakob_Trier,Jakob Trier,Radikale Venstre,3
+Gladsaxe,4,Grønnemose,B_Sara_Edwige_Kobli,Sara Edwige Kobli,Radikale Venstre,12
+Gladsaxe,4,Grønnemose,B_Nick_Nouri,Nick Nouri,Radikale Venstre,3
+Gladsaxe,4,Grønnemose,B_Anne_Parbst,Anne Parbst,Radikale Venstre,2
+Gladsaxe,4,Grønnemose,B_Claus_Staal,Claus Staal,Radikale Venstre,9
+Gladsaxe,4,Grønnemose,B_Flemming_Ytzen,Flemming Ytzen,Radikale Venstre,0
+Gladsaxe,4,Grønnemose,B_Mads_Bondo_Dydensborg,Mads Bondo Dydensborg,Radikale Venstre,2
+Gladsaxe,4,Grønnemose,B_Bjarne_Tolboe_Christiansen,Bjarne Tolboe Christiansen,Radikale Venstre,2
+Gladsaxe,4,Grønnemose,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,152
+Gladsaxe,4,Grønnemose,C_Henrik_Sørensen,Henrik Sørensen,Det Konservative Folkeparti,50
+Gladsaxe,4,Grønnemose,C_Thomas_Germann,Thomas Germann,Det Konservative Folkeparti,12
+Gladsaxe,4,Grønnemose,C_Rebecca_Plomin,Rebecca Plomin,Det Konservative Folkeparti,17
+Gladsaxe,4,Grønnemose,C_Jacqueline_Kristensen,Jacqueline Kristensen,Det Konservative Folkeparti,33
+Gladsaxe,4,Grønnemose,C_Lars_Abel,Lars Abel,Det Konservative Folkeparti,63
+Gladsaxe,4,Grønnemose,C_Mogens_Busk_Sørensen,Mogens Busk Sørensen,Det Konservative Folkeparti,6
+Gladsaxe,4,Grønnemose,C_Marianne_Damgaard-Sørensen,Marianne Damgaard-Sørensen,Det Konservative Folkeparti,11
+Gladsaxe,4,Grønnemose,C_Christa_Kjær,Christa Kjær,Det Konservative Folkeparti,4
+Gladsaxe,4,Grønnemose,D_Listestemmer,Listestemmer,Nye Borgerlige,52
+Gladsaxe,4,Grønnemose,D_Jan_Pless,Jan Pless,Nye Borgerlige,45
+Gladsaxe,4,Grønnemose,D_Carsten_Toft,Carsten Toft,Nye Borgerlige,10
+Gladsaxe,4,Grønnemose,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,196
+Gladsaxe,4,Grønnemose,F_Serdal_Benli,Serdal Benli,SF - Socialistisk Folkeparti,188
+Gladsaxe,4,Grønnemose,F_Dorthe_Wichmand_Müller,Dorthe Wichmand Müller,SF - Socialistisk Folkeparti,36
+Gladsaxe,4,Grønnemose,F_Signe_Ejersbo,Signe Ejersbo,SF - Socialistisk Folkeparti,25
+Gladsaxe,4,Grønnemose,F_Lene_Søndergaard,Lene Søndergaard,SF - Socialistisk Folkeparti,50
+Gladsaxe,4,Grønnemose,F_Frederik_Hoedeman,Frederik Hoedeman,SF - Socialistisk Folkeparti,3
+Gladsaxe,4,Grønnemose,F_Holger_Grohganz,Holger Grohganz,SF - Socialistisk Folkeparti,7
+Gladsaxe,4,Grønnemose,F_Bo_Bülow,Bo Bülow,SF - Socialistisk Folkeparti,5
+Gladsaxe,4,Grønnemose,F_Peter_Malinovsky,Peter Malinovsky,SF - Socialistisk Folkeparti,10
+Gladsaxe,4,Grønnemose,F_Gunnar_Svendsen,Gunnar Svendsen,SF - Socialistisk Folkeparti,4
+Gladsaxe,4,Grønnemose,F_Anne_Breum,Anne Breum,SF - Socialistisk Folkeparti,17
+Gladsaxe,4,Grønnemose,H_Listestemmer,Listestemmer,Sahar Aslani,5
+Gladsaxe,4,Grønnemose,H_Sahar_Aslani,Sahar Aslani,Sahar Aslani,8
+Gladsaxe,4,Grønnemose,I_Listestemmer,Listestemmer,Liberal Alliance,21
+Gladsaxe,4,Grønnemose,I_Jørgen_Juhl,Jørgen Juhl,Liberal Alliance,7
+Gladsaxe,4,Grønnemose,I_David_Ibsen,David Ibsen,Liberal Alliance,15
+Gladsaxe,4,Grønnemose,I_Kim_Fuglsang_Laczek,Kim Fuglsang Laczek,Liberal Alliance,1
+Gladsaxe,4,Grønnemose,I_Jytte_Tholstrup_Svendsen,Jytte Tholstrup Svendsen,Liberal Alliance,3
+Gladsaxe,4,Grønnemose,K_Listestemmer,Listestemmer,Kristendemokraterne,11
+Gladsaxe,4,Grønnemose,K_Esben_Frette_Johnsen,Esben Frette Johnsen,Kristendemokraterne,4
+Gladsaxe,4,Grønnemose,K_Bolette_von_Westphal,Bolette von Westphal,Kristendemokraterne,5
+Gladsaxe,4,Grønnemose,L_Listestemmer,Listestemmer,Lokallisten Gladsaxe,34
+Gladsaxe,4,Grønnemose,L_Lise_Tønner,Lise Tønner,Lokallisten Gladsaxe,117
+Gladsaxe,4,Grønnemose,L_Lene_Svendborg,Lene Svendborg,Lokallisten Gladsaxe,26
+Gladsaxe,4,Grønnemose,L_John_Ellehammer,John Ellehammer,Lokallisten Gladsaxe,5
+Gladsaxe,4,Grønnemose,L_Suleman_Naim,Suleman Naim,Lokallisten Gladsaxe,227
+Gladsaxe,4,Grønnemose,O_Listestemmer,Listestemmer,Dansk Folkeparti,55
+Gladsaxe,4,Grønnemose,O_Susanne_Damsgaard,Susanne Damsgaard,Dansk Folkeparti,75
+Gladsaxe,4,Grønnemose,O_Bonett_Trusell,Bonett Trusell,Dansk Folkeparti,27
+Gladsaxe,4,Grønnemose,O_Klaus_Kjær,Klaus Kjær,Dansk Folkeparti,13
+Gladsaxe,4,Grønnemose,O_Flemming_H._Albrechtsen,Flemming H. Albrechtsen,Dansk Folkeparti,2
+Gladsaxe,4,Grønnemose,O_Patricia_Damsgaard,Patricia Damsgaard,Dansk Folkeparti,2
+Gladsaxe,4,Grønnemose,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",106
+Gladsaxe,4,Grønnemose,V_Martin_Skou_Heidemann,Martin Skou Heidemann,"Venstre, Danmarks Liberale Parti",104
+Gladsaxe,4,Grønnemose,V_Astrid_Søborg,Astrid Søborg,"Venstre, Danmarks Liberale Parti",87
+Gladsaxe,4,Grønnemose,V_Lone_Yalcinkaya,Lone Yalcinkaya,"Venstre, Danmarks Liberale Parti",31
+Gladsaxe,4,Grønnemose,V_Thekla_Ravn,Thekla Ravn,"Venstre, Danmarks Liberale Parti",10
+Gladsaxe,4,Grønnemose,V_Allan_Juhl_Feddersen,Allan Juhl Feddersen,"Venstre, Danmarks Liberale Parti",8
+Gladsaxe,4,Grønnemose,V_Gunnar_Sumberg,Gunnar Sumberg,"Venstre, Danmarks Liberale Parti",6
+Gladsaxe,4,Grønnemose,V_Benedikte_Claudinger,Benedikte Claudinger,"Venstre, Danmarks Liberale Parti",4
+Gladsaxe,4,Grønnemose,V_Henrik_Thormod_Andersen,Henrik Thormod Andersen,"Venstre, Danmarks Liberale Parti",2
+Gladsaxe,4,Grønnemose,V_Kenneth_Colding,Kenneth Colding,"Venstre, Danmarks Liberale Parti",19
+Gladsaxe,4,Grønnemose,V_Camilla_Friis,Camilla Friis,"Venstre, Danmarks Liberale Parti",25
+Gladsaxe,4,Grønnemose,V_René_Wriedt,René Wriedt,"Venstre, Danmarks Liberale Parti",0
+Gladsaxe,4,Grønnemose,V_Finn_Kilbak,Finn Kilbak,"Venstre, Danmarks Liberale Parti",4
+Gladsaxe,4,Grønnemose,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,264
+Gladsaxe,4,Grønnemose,Ø_Trine_Henriksen,Trine Henriksen,Enhedslisten - De Rød-Grønne,191
+Gladsaxe,4,Grønnemose,Ø_Signe_Rosa_Skelbæk,Signe Rosa Skelbæk,Enhedslisten - De Rød-Grønne,74
+Gladsaxe,4,Grønnemose,Ø_Michael_Dorph_Jensen,Michael Dorph Jensen,Enhedslisten - De Rød-Grønne,24
+Gladsaxe,4,Grønnemose,Ø_Torben_Madsen,Torben Madsen,Enhedslisten - De Rød-Grønne,29
+Gladsaxe,4,Grønnemose,Ø_Casper_Pedersen,Casper Pedersen,Enhedslisten - De Rød-Grønne,9
+Gladsaxe,4,Grønnemose,Ø_Shila_Pourdeylami,Shila Pourdeylami,Enhedslisten - De Rød-Grønne,26
+Gladsaxe,4,Grønnemose,Ø_Sune_Rastad_Bahn,Sune Rastad Bahn,Enhedslisten - De Rød-Grønne,4
+Gladsaxe,4,Grønnemose,Ø_Bertha_M._Friis,Bertha M. Friis,Enhedslisten - De Rød-Grønne,24
+Gladsaxe,4,Grønnemose,Ø_Morten_Ravn_Landerslev,Morten Ravn Landerslev,Enhedslisten - De Rød-Grønne,6
+Gladsaxe,4,Grønnemose,Ø_Patrick_Okwonga,Patrick Okwonga,Enhedslisten - De Rød-Grønne,4
+Gladsaxe,5,Mørkhøj,A_Listestemmer,Listestemmer,Socialdemokratiet,553
+Gladsaxe,5,Mørkhøj,A_Trine_Græse,Trine Græse,Socialdemokratiet,435
+Gladsaxe,5,Mørkhøj,A_Kristine_Henriksen,Kristine Henriksen,Socialdemokratiet,37
+Gladsaxe,5,Mørkhøj,A_Jakob_Skovgaard_Koed,Jakob Skovgaard Koed,Socialdemokratiet,25
+Gladsaxe,5,Mørkhøj,A_Ole_Skrald,Ole Skrald,Socialdemokratiet,59
+Gladsaxe,5,Mørkhøj,A_Katrine_Skov,Katrine Skov,Socialdemokratiet,44
+Gladsaxe,5,Mørkhøj,A_Tom_Vang_Knudsen,Tom Vang Knudsen,Socialdemokratiet,140
+Gladsaxe,5,Mørkhøj,A_Rikke_Louise_Schilling,Rikke Louise Schilling,Socialdemokratiet,33
+Gladsaxe,5,Mørkhøj,A_Line_Stockmal_Ammundsen,Line Stockmal Ammundsen,Socialdemokratiet,26
+Gladsaxe,5,Mørkhøj,A_Peter_Berg_Nellemann,Peter Berg Nellemann,Socialdemokratiet,11
+Gladsaxe,5,Mørkhøj,A_Bjarne_Henriksen,Bjarne Henriksen,Socialdemokratiet,8
+Gladsaxe,5,Mørkhøj,A_Henrik_V._Pedersen,Henrik V. Pedersen,Socialdemokratiet,71
+Gladsaxe,5,Mørkhøj,A_Calle_Greisholm,Calle Greisholm,Socialdemokratiet,67
+Gladsaxe,5,Mørkhøj,A_Anthon_Berentzen,Anthon Berentzen,Socialdemokratiet,22
+Gladsaxe,5,Mørkhøj,A_Kristian_Niebuhr,Kristian Niebuhr,Socialdemokratiet,14
+Gladsaxe,5,Mørkhøj,A_Allan_Olsen,Allan Olsen,Socialdemokratiet,5
+Gladsaxe,5,Mørkhøj,B_Listestemmer,Listestemmer,Radikale Venstre,88
+Gladsaxe,5,Mørkhøj,B_Christina_Rittig_Falkberg,Christina Rittig Falkberg,Radikale Venstre,47
+Gladsaxe,5,Mørkhøj,B_Pia_Skou,Pia Skou,Radikale Venstre,36
+Gladsaxe,5,Mørkhøj,B_Claus_Wachmann,Claus Wachmann,Radikale Venstre,6
+Gladsaxe,5,Mørkhøj,B_Lis_Smidsholm,Lis Smidsholm,Radikale Venstre,8
+Gladsaxe,5,Mørkhøj,B_Martin_Karbech_Mouritsen,Martin Karbech Mouritsen,Radikale Venstre,0
+Gladsaxe,5,Mørkhøj,B_Jakob_Trier,Jakob Trier,Radikale Venstre,5
+Gladsaxe,5,Mørkhøj,B_Sara_Edwige_Kobli,Sara Edwige Kobli,Radikale Venstre,8
+Gladsaxe,5,Mørkhøj,B_Nick_Nouri,Nick Nouri,Radikale Venstre,0
+Gladsaxe,5,Mørkhøj,B_Anne_Parbst,Anne Parbst,Radikale Venstre,1
+Gladsaxe,5,Mørkhøj,B_Claus_Staal,Claus Staal,Radikale Venstre,10
+Gladsaxe,5,Mørkhøj,B_Flemming_Ytzen,Flemming Ytzen,Radikale Venstre,0
+Gladsaxe,5,Mørkhøj,B_Mads_Bondo_Dydensborg,Mads Bondo Dydensborg,Radikale Venstre,1
+Gladsaxe,5,Mørkhøj,B_Bjarne_Tolboe_Christiansen,Bjarne Tolboe Christiansen,Radikale Venstre,5
+Gladsaxe,5,Mørkhøj,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,178
+Gladsaxe,5,Mørkhøj,C_Henrik_Sørensen,Henrik Sørensen,Det Konservative Folkeparti,75
+Gladsaxe,5,Mørkhøj,C_Thomas_Germann,Thomas Germann,Det Konservative Folkeparti,23
+Gladsaxe,5,Mørkhøj,C_Rebecca_Plomin,Rebecca Plomin,Det Konservative Folkeparti,33
+Gladsaxe,5,Mørkhøj,C_Jacqueline_Kristensen,Jacqueline Kristensen,Det Konservative Folkeparti,20
+Gladsaxe,5,Mørkhøj,C_Lars_Abel,Lars Abel,Det Konservative Folkeparti,51
+Gladsaxe,5,Mørkhøj,C_Mogens_Busk_Sørensen,Mogens Busk Sørensen,Det Konservative Folkeparti,4
+Gladsaxe,5,Mørkhøj,C_Marianne_Damgaard-Sørensen,Marianne Damgaard-Sørensen,Det Konservative Folkeparti,5
+Gladsaxe,5,Mørkhøj,C_Christa_Kjær,Christa Kjær,Det Konservative Folkeparti,4
+Gladsaxe,5,Mørkhøj,D_Listestemmer,Listestemmer,Nye Borgerlige,70
+Gladsaxe,5,Mørkhøj,D_Jan_Pless,Jan Pless,Nye Borgerlige,65
+Gladsaxe,5,Mørkhøj,D_Carsten_Toft,Carsten Toft,Nye Borgerlige,7
+Gladsaxe,5,Mørkhøj,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,162
+Gladsaxe,5,Mørkhøj,F_Serdal_Benli,Serdal Benli,SF - Socialistisk Folkeparti,239
+Gladsaxe,5,Mørkhøj,F_Dorthe_Wichmand_Müller,Dorthe Wichmand Müller,SF - Socialistisk Folkeparti,27
+Gladsaxe,5,Mørkhøj,F_Signe_Ejersbo,Signe Ejersbo,SF - Socialistisk Folkeparti,24
+Gladsaxe,5,Mørkhøj,F_Lene_Søndergaard,Lene Søndergaard,SF - Socialistisk Folkeparti,18
+Gladsaxe,5,Mørkhøj,F_Frederik_Hoedeman,Frederik Hoedeman,SF - Socialistisk Folkeparti,3
+Gladsaxe,5,Mørkhøj,F_Holger_Grohganz,Holger Grohganz,SF - Socialistisk Folkeparti,6
+Gladsaxe,5,Mørkhøj,F_Bo_Bülow,Bo Bülow,SF - Socialistisk Folkeparti,3
+Gladsaxe,5,Mørkhøj,F_Peter_Malinovsky,Peter Malinovsky,SF - Socialistisk Folkeparti,6
+Gladsaxe,5,Mørkhøj,F_Gunnar_Svendsen,Gunnar Svendsen,SF - Socialistisk Folkeparti,0
+Gladsaxe,5,Mørkhøj,F_Anne_Breum,Anne Breum,SF - Socialistisk Folkeparti,16
+Gladsaxe,5,Mørkhøj,H_Listestemmer,Listestemmer,Sahar Aslani,2
+Gladsaxe,5,Mørkhøj,H_Sahar_Aslani,Sahar Aslani,Sahar Aslani,7
+Gladsaxe,5,Mørkhøj,I_Listestemmer,Listestemmer,Liberal Alliance,34
+Gladsaxe,5,Mørkhøj,I_Jørgen_Juhl,Jørgen Juhl,Liberal Alliance,5
+Gladsaxe,5,Mørkhøj,I_David_Ibsen,David Ibsen,Liberal Alliance,7
+Gladsaxe,5,Mørkhøj,I_Kim_Fuglsang_Laczek,Kim Fuglsang Laczek,Liberal Alliance,6
+Gladsaxe,5,Mørkhøj,I_Jytte_Tholstrup_Svendsen,Jytte Tholstrup Svendsen,Liberal Alliance,0
+Gladsaxe,5,Mørkhøj,K_Listestemmer,Listestemmer,Kristendemokraterne,13
+Gladsaxe,5,Mørkhøj,K_Esben_Frette_Johnsen,Esben Frette Johnsen,Kristendemokraterne,11
+Gladsaxe,5,Mørkhøj,K_Bolette_von_Westphal,Bolette von Westphal,Kristendemokraterne,3
+Gladsaxe,5,Mørkhøj,L_Listestemmer,Listestemmer,Lokallisten Gladsaxe,16
+Gladsaxe,5,Mørkhøj,L_Lise_Tønner,Lise Tønner,Lokallisten Gladsaxe,48
+Gladsaxe,5,Mørkhøj,L_Lene_Svendborg,Lene Svendborg,Lokallisten Gladsaxe,23
+Gladsaxe,5,Mørkhøj,L_John_Ellehammer,John Ellehammer,Lokallisten Gladsaxe,5
+Gladsaxe,5,Mørkhøj,L_Suleman_Naim,Suleman Naim,Lokallisten Gladsaxe,34
+Gladsaxe,5,Mørkhøj,O_Listestemmer,Listestemmer,Dansk Folkeparti,79
+Gladsaxe,5,Mørkhøj,O_Susanne_Damsgaard,Susanne Damsgaard,Dansk Folkeparti,71
+Gladsaxe,5,Mørkhøj,O_Bonett_Trusell,Bonett Trusell,Dansk Folkeparti,20
+Gladsaxe,5,Mørkhøj,O_Klaus_Kjær,Klaus Kjær,Dansk Folkeparti,7
+Gladsaxe,5,Mørkhøj,O_Flemming_H._Albrechtsen,Flemming H. Albrechtsen,Dansk Folkeparti,3
+Gladsaxe,5,Mørkhøj,O_Patricia_Damsgaard,Patricia Damsgaard,Dansk Folkeparti,1
+Gladsaxe,5,Mørkhøj,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",141
+Gladsaxe,5,Mørkhøj,V_Martin_Skou_Heidemann,Martin Skou Heidemann,"Venstre, Danmarks Liberale Parti",75
+Gladsaxe,5,Mørkhøj,V_Astrid_Søborg,Astrid Søborg,"Venstre, Danmarks Liberale Parti",66
+Gladsaxe,5,Mørkhøj,V_Lone_Yalcinkaya,Lone Yalcinkaya,"Venstre, Danmarks Liberale Parti",34
+Gladsaxe,5,Mørkhøj,V_Thekla_Ravn,Thekla Ravn,"Venstre, Danmarks Liberale Parti",17
+Gladsaxe,5,Mørkhøj,V_Allan_Juhl_Feddersen,Allan Juhl Feddersen,"Venstre, Danmarks Liberale Parti",39
+Gladsaxe,5,Mørkhøj,V_Gunnar_Sumberg,Gunnar Sumberg,"Venstre, Danmarks Liberale Parti",9
+Gladsaxe,5,Mørkhøj,V_Benedikte_Claudinger,Benedikte Claudinger,"Venstre, Danmarks Liberale Parti",1
+Gladsaxe,5,Mørkhøj,V_Henrik_Thormod_Andersen,Henrik Thormod Andersen,"Venstre, Danmarks Liberale Parti",2
+Gladsaxe,5,Mørkhøj,V_Kenneth_Colding,Kenneth Colding,"Venstre, Danmarks Liberale Parti",8
+Gladsaxe,5,Mørkhøj,V_Camilla_Friis,Camilla Friis,"Venstre, Danmarks Liberale Parti",29
+Gladsaxe,5,Mørkhøj,V_René_Wriedt,René Wriedt,"Venstre, Danmarks Liberale Parti",1
+Gladsaxe,5,Mørkhøj,V_Finn_Kilbak,Finn Kilbak,"Venstre, Danmarks Liberale Parti",4
+Gladsaxe,5,Mørkhøj,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,202
+Gladsaxe,5,Mørkhøj,Ø_Trine_Henriksen,Trine Henriksen,Enhedslisten - De Rød-Grønne,107
+Gladsaxe,5,Mørkhøj,Ø_Signe_Rosa_Skelbæk,Signe Rosa Skelbæk,Enhedslisten - De Rød-Grønne,38
+Gladsaxe,5,Mørkhøj,Ø_Michael_Dorph_Jensen,Michael Dorph Jensen,Enhedslisten - De Rød-Grønne,12
+Gladsaxe,5,Mørkhøj,Ø_Torben_Madsen,Torben Madsen,Enhedslisten - De Rød-Grønne,15
+Gladsaxe,5,Mørkhøj,Ø_Casper_Pedersen,Casper Pedersen,Enhedslisten - De Rød-Grønne,3
+Gladsaxe,5,Mørkhøj,Ø_Shila_Pourdeylami,Shila Pourdeylami,Enhedslisten - De Rød-Grønne,26
+Gladsaxe,5,Mørkhøj,Ø_Sune_Rastad_Bahn,Sune Rastad Bahn,Enhedslisten - De Rød-Grønne,2
+Gladsaxe,5,Mørkhøj,Ø_Bertha_M._Friis,Bertha M. Friis,Enhedslisten - De Rød-Grønne,6
+Gladsaxe,5,Mørkhøj,Ø_Morten_Ravn_Landerslev,Morten Ravn Landerslev,Enhedslisten - De Rød-Grønne,3
+Gladsaxe,5,Mørkhøj,Ø_Patrick_Okwonga,Patrick Okwonga,Enhedslisten - De Rød-Grønne,3
+Gladsaxe,6,Stengård,A_Listestemmer,Listestemmer,Socialdemokratiet,534
+Gladsaxe,6,Stengård,A_Trine_Græse,Trine Græse,Socialdemokratiet,501
+Gladsaxe,6,Stengård,A_Kristine_Henriksen,Kristine Henriksen,Socialdemokratiet,31
+Gladsaxe,6,Stengård,A_Jakob_Skovgaard_Koed,Jakob Skovgaard Koed,Socialdemokratiet,35
+Gladsaxe,6,Stengård,A_Ole_Skrald,Ole Skrald,Socialdemokratiet,35
+Gladsaxe,6,Stengård,A_Katrine_Skov,Katrine Skov,Socialdemokratiet,40
+Gladsaxe,6,Stengård,A_Tom_Vang_Knudsen,Tom Vang Knudsen,Socialdemokratiet,7
+Gladsaxe,6,Stengård,A_Rikke_Louise_Schilling,Rikke Louise Schilling,Socialdemokratiet,66
+Gladsaxe,6,Stengård,A_Line_Stockmal_Ammundsen,Line Stockmal Ammundsen,Socialdemokratiet,68
+Gladsaxe,6,Stengård,A_Peter_Berg_Nellemann,Peter Berg Nellemann,Socialdemokratiet,12
+Gladsaxe,6,Stengård,A_Bjarne_Henriksen,Bjarne Henriksen,Socialdemokratiet,19
+Gladsaxe,6,Stengård,A_Henrik_V._Pedersen,Henrik V. Pedersen,Socialdemokratiet,6
+Gladsaxe,6,Stengård,A_Calle_Greisholm,Calle Greisholm,Socialdemokratiet,36
+Gladsaxe,6,Stengård,A_Anthon_Berentzen,Anthon Berentzen,Socialdemokratiet,57
+Gladsaxe,6,Stengård,A_Kristian_Niebuhr,Kristian Niebuhr,Socialdemokratiet,19
+Gladsaxe,6,Stengård,A_Allan_Olsen,Allan Olsen,Socialdemokratiet,7
+Gladsaxe,6,Stengård,B_Listestemmer,Listestemmer,Radikale Venstre,146
+Gladsaxe,6,Stengård,B_Christina_Rittig_Falkberg,Christina Rittig Falkberg,Radikale Venstre,118
+Gladsaxe,6,Stengård,B_Pia_Skou,Pia Skou,Radikale Venstre,121
+Gladsaxe,6,Stengård,B_Claus_Wachmann,Claus Wachmann,Radikale Venstre,15
+Gladsaxe,6,Stengård,B_Lis_Smidsholm,Lis Smidsholm,Radikale Venstre,2
+Gladsaxe,6,Stengård,B_Martin_Karbech_Mouritsen,Martin Karbech Mouritsen,Radikale Venstre,1
+Gladsaxe,6,Stengård,B_Jakob_Trier,Jakob Trier,Radikale Venstre,5
+Gladsaxe,6,Stengård,B_Sara_Edwige_Kobli,Sara Edwige Kobli,Radikale Venstre,7
+Gladsaxe,6,Stengård,B_Nick_Nouri,Nick Nouri,Radikale Venstre,0
+Gladsaxe,6,Stengård,B_Anne_Parbst,Anne Parbst,Radikale Venstre,2
+Gladsaxe,6,Stengård,B_Claus_Staal,Claus Staal,Radikale Venstre,10
+Gladsaxe,6,Stengård,B_Flemming_Ytzen,Flemming Ytzen,Radikale Venstre,0
+Gladsaxe,6,Stengård,B_Mads_Bondo_Dydensborg,Mads Bondo Dydensborg,Radikale Venstre,1
+Gladsaxe,6,Stengård,B_Bjarne_Tolboe_Christiansen,Bjarne Tolboe Christiansen,Radikale Venstre,3
+Gladsaxe,6,Stengård,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,265
+Gladsaxe,6,Stengård,C_Henrik_Sørensen,Henrik Sørensen,Det Konservative Folkeparti,86
+Gladsaxe,6,Stengård,C_Thomas_Germann,Thomas Germann,Det Konservative Folkeparti,14
+Gladsaxe,6,Stengård,C_Rebecca_Plomin,Rebecca Plomin,Det Konservative Folkeparti,67
+Gladsaxe,6,Stengård,C_Jacqueline_Kristensen,Jacqueline Kristensen,Det Konservative Folkeparti,33
+Gladsaxe,6,Stengård,C_Lars_Abel,Lars Abel,Det Konservative Folkeparti,74
+Gladsaxe,6,Stengård,C_Mogens_Busk_Sørensen,Mogens Busk Sørensen,Det Konservative Folkeparti,7
+Gladsaxe,6,Stengård,C_Marianne_Damgaard-Sørensen,Marianne Damgaard-Sørensen,Det Konservative Folkeparti,13
+Gladsaxe,6,Stengård,C_Christa_Kjær,Christa Kjær,Det Konservative Folkeparti,13
+Gladsaxe,6,Stengård,D_Listestemmer,Listestemmer,Nye Borgerlige,50
+Gladsaxe,6,Stengård,D_Jan_Pless,Jan Pless,Nye Borgerlige,45
+Gladsaxe,6,Stengård,D_Carsten_Toft,Carsten Toft,Nye Borgerlige,5
+Gladsaxe,6,Stengård,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,193
+Gladsaxe,6,Stengård,F_Serdal_Benli,Serdal Benli,SF - Socialistisk Folkeparti,144
+Gladsaxe,6,Stengård,F_Dorthe_Wichmand_Müller,Dorthe Wichmand Müller,SF - Socialistisk Folkeparti,40
+Gladsaxe,6,Stengård,F_Signe_Ejersbo,Signe Ejersbo,SF - Socialistisk Folkeparti,55
+Gladsaxe,6,Stengård,F_Lene_Søndergaard,Lene Søndergaard,SF - Socialistisk Folkeparti,68
+Gladsaxe,6,Stengård,F_Frederik_Hoedeman,Frederik Hoedeman,SF - Socialistisk Folkeparti,3
+Gladsaxe,6,Stengård,F_Holger_Grohganz,Holger Grohganz,SF - Socialistisk Folkeparti,19
+Gladsaxe,6,Stengård,F_Bo_Bülow,Bo Bülow,SF - Socialistisk Folkeparti,3
+Gladsaxe,6,Stengård,F_Peter_Malinovsky,Peter Malinovsky,SF - Socialistisk Folkeparti,12
+Gladsaxe,6,Stengård,F_Gunnar_Svendsen,Gunnar Svendsen,SF - Socialistisk Folkeparti,2
+Gladsaxe,6,Stengård,F_Anne_Breum,Anne Breum,SF - Socialistisk Folkeparti,14
+Gladsaxe,6,Stengård,H_Listestemmer,Listestemmer,Sahar Aslani,1
+Gladsaxe,6,Stengård,H_Sahar_Aslani,Sahar Aslani,Sahar Aslani,4
+Gladsaxe,6,Stengård,I_Listestemmer,Listestemmer,Liberal Alliance,33
+Gladsaxe,6,Stengård,I_Jørgen_Juhl,Jørgen Juhl,Liberal Alliance,8
+Gladsaxe,6,Stengård,I_David_Ibsen,David Ibsen,Liberal Alliance,10
+Gladsaxe,6,Stengård,I_Kim_Fuglsang_Laczek,Kim Fuglsang Laczek,Liberal Alliance,5
+Gladsaxe,6,Stengård,I_Jytte_Tholstrup_Svendsen,Jytte Tholstrup Svendsen,Liberal Alliance,5
+Gladsaxe,6,Stengård,K_Listestemmer,Listestemmer,Kristendemokraterne,4
+Gladsaxe,6,Stengård,K_Esben_Frette_Johnsen,Esben Frette Johnsen,Kristendemokraterne,9
+Gladsaxe,6,Stengård,K_Bolette_von_Westphal,Bolette von Westphal,Kristendemokraterne,4
+Gladsaxe,6,Stengård,L_Listestemmer,Listestemmer,Lokallisten Gladsaxe,31
+Gladsaxe,6,Stengård,L_Lise_Tønner,Lise Tønner,Lokallisten Gladsaxe,25
+Gladsaxe,6,Stengård,L_Lene_Svendborg,Lene Svendborg,Lokallisten Gladsaxe,35
+Gladsaxe,6,Stengård,L_John_Ellehammer,John Ellehammer,Lokallisten Gladsaxe,5
+Gladsaxe,6,Stengård,L_Suleman_Naim,Suleman Naim,Lokallisten Gladsaxe,13
+Gladsaxe,6,Stengård,O_Listestemmer,Listestemmer,Dansk Folkeparti,39
+Gladsaxe,6,Stengård,O_Susanne_Damsgaard,Susanne Damsgaard,Dansk Folkeparti,24
+Gladsaxe,6,Stengård,O_Bonett_Trusell,Bonett Trusell,Dansk Folkeparti,10
+Gladsaxe,6,Stengård,O_Klaus_Kjær,Klaus Kjær,Dansk Folkeparti,2
+Gladsaxe,6,Stengård,O_Flemming_H._Albrechtsen,Flemming H. Albrechtsen,Dansk Folkeparti,3
+Gladsaxe,6,Stengård,O_Patricia_Damsgaard,Patricia Damsgaard,Dansk Folkeparti,1
+Gladsaxe,6,Stengård,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",168
+Gladsaxe,6,Stengård,V_Martin_Skou_Heidemann,Martin Skou Heidemann,"Venstre, Danmarks Liberale Parti",158
+Gladsaxe,6,Stengård,V_Astrid_Søborg,Astrid Søborg,"Venstre, Danmarks Liberale Parti",119
+Gladsaxe,6,Stengård,V_Lone_Yalcinkaya,Lone Yalcinkaya,"Venstre, Danmarks Liberale Parti",49
+Gladsaxe,6,Stengård,V_Thekla_Ravn,Thekla Ravn,"Venstre, Danmarks Liberale Parti",22
+Gladsaxe,6,Stengård,V_Allan_Juhl_Feddersen,Allan Juhl Feddersen,"Venstre, Danmarks Liberale Parti",1
+Gladsaxe,6,Stengård,V_Gunnar_Sumberg,Gunnar Sumberg,"Venstre, Danmarks Liberale Parti",14
+Gladsaxe,6,Stengård,V_Benedikte_Claudinger,Benedikte Claudinger,"Venstre, Danmarks Liberale Parti",8
+Gladsaxe,6,Stengård,V_Henrik_Thormod_Andersen,Henrik Thormod Andersen,"Venstre, Danmarks Liberale Parti",4
+Gladsaxe,6,Stengård,V_Kenneth_Colding,Kenneth Colding,"Venstre, Danmarks Liberale Parti",11
+Gladsaxe,6,Stengård,V_Camilla_Friis,Camilla Friis,"Venstre, Danmarks Liberale Parti",49
+Gladsaxe,6,Stengård,V_René_Wriedt,René Wriedt,"Venstre, Danmarks Liberale Parti",17
+Gladsaxe,6,Stengård,V_Finn_Kilbak,Finn Kilbak,"Venstre, Danmarks Liberale Parti",37
+Gladsaxe,6,Stengård,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,167
+Gladsaxe,6,Stengård,Ø_Trine_Henriksen,Trine Henriksen,Enhedslisten - De Rød-Grønne,103
+Gladsaxe,6,Stengård,Ø_Signe_Rosa_Skelbæk,Signe Rosa Skelbæk,Enhedslisten - De Rød-Grønne,68
+Gladsaxe,6,Stengård,Ø_Michael_Dorph_Jensen,Michael Dorph Jensen,Enhedslisten - De Rød-Grønne,18
+Gladsaxe,6,Stengård,Ø_Torben_Madsen,Torben Madsen,Enhedslisten - De Rød-Grønne,28
+Gladsaxe,6,Stengård,Ø_Casper_Pedersen,Casper Pedersen,Enhedslisten - De Rød-Grønne,10
+Gladsaxe,6,Stengård,Ø_Shila_Pourdeylami,Shila Pourdeylami,Enhedslisten - De Rød-Grønne,28
+Gladsaxe,6,Stengård,Ø_Sune_Rastad_Bahn,Sune Rastad Bahn,Enhedslisten - De Rød-Grønne,3
+Gladsaxe,6,Stengård,Ø_Bertha_M._Friis,Bertha M. Friis,Enhedslisten - De Rød-Grønne,29
+Gladsaxe,6,Stengård,Ø_Morten_Ravn_Landerslev,Morten Ravn Landerslev,Enhedslisten - De Rød-Grønne,1
+Gladsaxe,6,Stengård,Ø_Patrick_Okwonga,Patrick Okwonga,Enhedslisten - De Rød-Grønne,1
+Gladsaxe,7,Søborg,A_Listestemmer,Listestemmer,Socialdemokratiet,302
+Gladsaxe,7,Søborg,A_Trine_Græse,Trine Græse,Socialdemokratiet,257
+Gladsaxe,7,Søborg,A_Kristine_Henriksen,Kristine Henriksen,Socialdemokratiet,26
+Gladsaxe,7,Søborg,A_Jakob_Skovgaard_Koed,Jakob Skovgaard Koed,Socialdemokratiet,18
+Gladsaxe,7,Søborg,A_Ole_Skrald,Ole Skrald,Socialdemokratiet,14
+Gladsaxe,7,Søborg,A_Katrine_Skov,Katrine Skov,Socialdemokratiet,54
+Gladsaxe,7,Søborg,A_Tom_Vang_Knudsen,Tom Vang Knudsen,Socialdemokratiet,9
+Gladsaxe,7,Søborg,A_Rikke_Louise_Schilling,Rikke Louise Schilling,Socialdemokratiet,14
+Gladsaxe,7,Søborg,A_Line_Stockmal_Ammundsen,Line Stockmal Ammundsen,Socialdemokratiet,45
+Gladsaxe,7,Søborg,A_Peter_Berg_Nellemann,Peter Berg Nellemann,Socialdemokratiet,9
+Gladsaxe,7,Søborg,A_Bjarne_Henriksen,Bjarne Henriksen,Socialdemokratiet,5
+Gladsaxe,7,Søborg,A_Henrik_V._Pedersen,Henrik V. Pedersen,Socialdemokratiet,7
+Gladsaxe,7,Søborg,A_Calle_Greisholm,Calle Greisholm,Socialdemokratiet,55
+Gladsaxe,7,Søborg,A_Anthon_Berentzen,Anthon Berentzen,Socialdemokratiet,10
+Gladsaxe,7,Søborg,A_Kristian_Niebuhr,Kristian Niebuhr,Socialdemokratiet,7
+Gladsaxe,7,Søborg,A_Allan_Olsen,Allan Olsen,Socialdemokratiet,21
+Gladsaxe,7,Søborg,B_Listestemmer,Listestemmer,Radikale Venstre,79
+Gladsaxe,7,Søborg,B_Christina_Rittig_Falkberg,Christina Rittig Falkberg,Radikale Venstre,115
+Gladsaxe,7,Søborg,B_Pia_Skou,Pia Skou,Radikale Venstre,38
+Gladsaxe,7,Søborg,B_Claus_Wachmann,Claus Wachmann,Radikale Venstre,4
+Gladsaxe,7,Søborg,B_Lis_Smidsholm,Lis Smidsholm,Radikale Venstre,5
+Gladsaxe,7,Søborg,B_Martin_Karbech_Mouritsen,Martin Karbech Mouritsen,Radikale Venstre,3
+Gladsaxe,7,Søborg,B_Jakob_Trier,Jakob Trier,Radikale Venstre,3
+Gladsaxe,7,Søborg,B_Sara_Edwige_Kobli,Sara Edwige Kobli,Radikale Venstre,8
+Gladsaxe,7,Søborg,B_Nick_Nouri,Nick Nouri,Radikale Venstre,0
+Gladsaxe,7,Søborg,B_Anne_Parbst,Anne Parbst,Radikale Venstre,0
+Gladsaxe,7,Søborg,B_Claus_Staal,Claus Staal,Radikale Venstre,4
+Gladsaxe,7,Søborg,B_Flemming_Ytzen,Flemming Ytzen,Radikale Venstre,1
+Gladsaxe,7,Søborg,B_Mads_Bondo_Dydensborg,Mads Bondo Dydensborg,Radikale Venstre,2
+Gladsaxe,7,Søborg,B_Bjarne_Tolboe_Christiansen,Bjarne Tolboe Christiansen,Radikale Venstre,2
+Gladsaxe,7,Søborg,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,157
+Gladsaxe,7,Søborg,C_Henrik_Sørensen,Henrik Sørensen,Det Konservative Folkeparti,58
+Gladsaxe,7,Søborg,C_Thomas_Germann,Thomas Germann,Det Konservative Folkeparti,15
+Gladsaxe,7,Søborg,C_Rebecca_Plomin,Rebecca Plomin,Det Konservative Folkeparti,31
+Gladsaxe,7,Søborg,C_Jacqueline_Kristensen,Jacqueline Kristensen,Det Konservative Folkeparti,23
+Gladsaxe,7,Søborg,C_Lars_Abel,Lars Abel,Det Konservative Folkeparti,54
+Gladsaxe,7,Søborg,C_Mogens_Busk_Sørensen,Mogens Busk Sørensen,Det Konservative Folkeparti,4
+Gladsaxe,7,Søborg,C_Marianne_Damgaard-Sørensen,Marianne Damgaard-Sørensen,Det Konservative Folkeparti,10
+Gladsaxe,7,Søborg,C_Christa_Kjær,Christa Kjær,Det Konservative Folkeparti,8
+Gladsaxe,7,Søborg,D_Listestemmer,Listestemmer,Nye Borgerlige,42
+Gladsaxe,7,Søborg,D_Jan_Pless,Jan Pless,Nye Borgerlige,27
+Gladsaxe,7,Søborg,D_Carsten_Toft,Carsten Toft,Nye Borgerlige,6
+Gladsaxe,7,Søborg,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,112
+Gladsaxe,7,Søborg,F_Serdal_Benli,Serdal Benli,SF - Socialistisk Folkeparti,105
+Gladsaxe,7,Søborg,F_Dorthe_Wichmand_Müller,Dorthe Wichmand Müller,SF - Socialistisk Folkeparti,37
+Gladsaxe,7,Søborg,F_Signe_Ejersbo,Signe Ejersbo,SF - Socialistisk Folkeparti,23
+Gladsaxe,7,Søborg,F_Lene_Søndergaard,Lene Søndergaard,SF - Socialistisk Folkeparti,38
+Gladsaxe,7,Søborg,F_Frederik_Hoedeman,Frederik Hoedeman,SF - Socialistisk Folkeparti,1
+Gladsaxe,7,Søborg,F_Holger_Grohganz,Holger Grohganz,SF - Socialistisk Folkeparti,23
+Gladsaxe,7,Søborg,F_Bo_Bülow,Bo Bülow,SF - Socialistisk Folkeparti,3
+Gladsaxe,7,Søborg,F_Peter_Malinovsky,Peter Malinovsky,SF - Socialistisk Folkeparti,7
+Gladsaxe,7,Søborg,F_Gunnar_Svendsen,Gunnar Svendsen,SF - Socialistisk Folkeparti,1
+Gladsaxe,7,Søborg,F_Anne_Breum,Anne Breum,SF - Socialistisk Folkeparti,4
+Gladsaxe,7,Søborg,H_Listestemmer,Listestemmer,Sahar Aslani,0
+Gladsaxe,7,Søborg,H_Sahar_Aslani,Sahar Aslani,Sahar Aslani,7
+Gladsaxe,7,Søborg,I_Listestemmer,Listestemmer,Liberal Alliance,25
+Gladsaxe,7,Søborg,I_Jørgen_Juhl,Jørgen Juhl,Liberal Alliance,12
+Gladsaxe,7,Søborg,I_David_Ibsen,David Ibsen,Liberal Alliance,4
+Gladsaxe,7,Søborg,I_Kim_Fuglsang_Laczek,Kim Fuglsang Laczek,Liberal Alliance,4
+Gladsaxe,7,Søborg,I_Jytte_Tholstrup_Svendsen,Jytte Tholstrup Svendsen,Liberal Alliance,2
+Gladsaxe,7,Søborg,K_Listestemmer,Listestemmer,Kristendemokraterne,2
+Gladsaxe,7,Søborg,K_Esben_Frette_Johnsen,Esben Frette Johnsen,Kristendemokraterne,2
+Gladsaxe,7,Søborg,K_Bolette_von_Westphal,Bolette von Westphal,Kristendemokraterne,4
+Gladsaxe,7,Søborg,L_Listestemmer,Listestemmer,Lokallisten Gladsaxe,18
+Gladsaxe,7,Søborg,L_Lise_Tønner,Lise Tønner,Lokallisten Gladsaxe,30
+Gladsaxe,7,Søborg,L_Lene_Svendborg,Lene Svendborg,Lokallisten Gladsaxe,13
+Gladsaxe,7,Søborg,L_John_Ellehammer,John Ellehammer,Lokallisten Gladsaxe,6
+Gladsaxe,7,Søborg,L_Suleman_Naim,Suleman Naim,Lokallisten Gladsaxe,13
+Gladsaxe,7,Søborg,O_Listestemmer,Listestemmer,Dansk Folkeparti,34
+Gladsaxe,7,Søborg,O_Susanne_Damsgaard,Susanne Damsgaard,Dansk Folkeparti,43
+Gladsaxe,7,Søborg,O_Bonett_Trusell,Bonett Trusell,Dansk Folkeparti,6
+Gladsaxe,7,Søborg,O_Klaus_Kjær,Klaus Kjær,Dansk Folkeparti,3
+Gladsaxe,7,Søborg,O_Flemming_H._Albrechtsen,Flemming H. Albrechtsen,Dansk Folkeparti,1
+Gladsaxe,7,Søborg,O_Patricia_Damsgaard,Patricia Damsgaard,Dansk Folkeparti,2
+Gladsaxe,7,Søborg,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",115
+Gladsaxe,7,Søborg,V_Martin_Skou_Heidemann,Martin Skou Heidemann,"Venstre, Danmarks Liberale Parti",84
+Gladsaxe,7,Søborg,V_Astrid_Søborg,Astrid Søborg,"Venstre, Danmarks Liberale Parti",96
+Gladsaxe,7,Søborg,V_Lone_Yalcinkaya,Lone Yalcinkaya,"Venstre, Danmarks Liberale Parti",33
+Gladsaxe,7,Søborg,V_Thekla_Ravn,Thekla Ravn,"Venstre, Danmarks Liberale Parti",5
+Gladsaxe,7,Søborg,V_Allan_Juhl_Feddersen,Allan Juhl Feddersen,"Venstre, Danmarks Liberale Parti",6
+Gladsaxe,7,Søborg,V_Gunnar_Sumberg,Gunnar Sumberg,"Venstre, Danmarks Liberale Parti",8
+Gladsaxe,7,Søborg,V_Benedikte_Claudinger,Benedikte Claudinger,"Venstre, Danmarks Liberale Parti",3
+Gladsaxe,7,Søborg,V_Henrik_Thormod_Andersen,Henrik Thormod Andersen,"Venstre, Danmarks Liberale Parti",3
+Gladsaxe,7,Søborg,V_Kenneth_Colding,Kenneth Colding,"Venstre, Danmarks Liberale Parti",5
+Gladsaxe,7,Søborg,V_Camilla_Friis,Camilla Friis,"Venstre, Danmarks Liberale Parti",23
+Gladsaxe,7,Søborg,V_René_Wriedt,René Wriedt,"Venstre, Danmarks Liberale Parti",1
+Gladsaxe,7,Søborg,V_Finn_Kilbak,Finn Kilbak,"Venstre, Danmarks Liberale Parti",5
+Gladsaxe,7,Søborg,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,146
+Gladsaxe,7,Søborg,Ø_Trine_Henriksen,Trine Henriksen,Enhedslisten - De Rød-Grønne,99
+Gladsaxe,7,Søborg,Ø_Signe_Rosa_Skelbæk,Signe Rosa Skelbæk,Enhedslisten - De Rød-Grønne,52
+Gladsaxe,7,Søborg,Ø_Michael_Dorph_Jensen,Michael Dorph Jensen,Enhedslisten - De Rød-Grønne,13
+Gladsaxe,7,Søborg,Ø_Torben_Madsen,Torben Madsen,Enhedslisten - De Rød-Grønne,15
+Gladsaxe,7,Søborg,Ø_Casper_Pedersen,Casper Pedersen,Enhedslisten - De Rød-Grønne,3
+Gladsaxe,7,Søborg,Ø_Shila_Pourdeylami,Shila Pourdeylami,Enhedslisten - De Rød-Grønne,16
+Gladsaxe,7,Søborg,Ø_Sune_Rastad_Bahn,Sune Rastad Bahn,Enhedslisten - De Rød-Grønne,0
+Gladsaxe,7,Søborg,Ø_Bertha_M._Friis,Bertha M. Friis,Enhedslisten - De Rød-Grønne,8
+Gladsaxe,7,Søborg,Ø_Morten_Ravn_Landerslev,Morten Ravn Landerslev,Enhedslisten - De Rød-Grønne,1
+Gladsaxe,7,Søborg,Ø_Patrick_Okwonga,Patrick Okwonga,Enhedslisten - De Rød-Grønne,2
+Gladsaxe,8,Vadgård,A_Listestemmer,Listestemmer,Socialdemokratiet,337
+Gladsaxe,8,Vadgård,A_Trine_Græse,Trine Græse,Socialdemokratiet,317
+Gladsaxe,8,Vadgård,A_Kristine_Henriksen,Kristine Henriksen,Socialdemokratiet,30
+Gladsaxe,8,Vadgård,A_Jakob_Skovgaard_Koed,Jakob Skovgaard Koed,Socialdemokratiet,15
+Gladsaxe,8,Vadgård,A_Ole_Skrald,Ole Skrald,Socialdemokratiet,56
+Gladsaxe,8,Vadgård,A_Katrine_Skov,Katrine Skov,Socialdemokratiet,47
+Gladsaxe,8,Vadgård,A_Tom_Vang_Knudsen,Tom Vang Knudsen,Socialdemokratiet,12
+Gladsaxe,8,Vadgård,A_Rikke_Louise_Schilling,Rikke Louise Schilling,Socialdemokratiet,28
+Gladsaxe,8,Vadgård,A_Line_Stockmal_Ammundsen,Line Stockmal Ammundsen,Socialdemokratiet,54
+Gladsaxe,8,Vadgård,A_Peter_Berg_Nellemann,Peter Berg Nellemann,Socialdemokratiet,11
+Gladsaxe,8,Vadgård,A_Bjarne_Henriksen,Bjarne Henriksen,Socialdemokratiet,13
+Gladsaxe,8,Vadgård,A_Henrik_V._Pedersen,Henrik V. Pedersen,Socialdemokratiet,5
+Gladsaxe,8,Vadgård,A_Calle_Greisholm,Calle Greisholm,Socialdemokratiet,32
+Gladsaxe,8,Vadgård,A_Anthon_Berentzen,Anthon Berentzen,Socialdemokratiet,13
+Gladsaxe,8,Vadgård,A_Kristian_Niebuhr,Kristian Niebuhr,Socialdemokratiet,18
+Gladsaxe,8,Vadgård,A_Allan_Olsen,Allan Olsen,Socialdemokratiet,5
+Gladsaxe,8,Vadgård,B_Listestemmer,Listestemmer,Radikale Venstre,64
+Gladsaxe,8,Vadgård,B_Christina_Rittig_Falkberg,Christina Rittig Falkberg,Radikale Venstre,47
+Gladsaxe,8,Vadgård,B_Pia_Skou,Pia Skou,Radikale Venstre,80
+Gladsaxe,8,Vadgård,B_Claus_Wachmann,Claus Wachmann,Radikale Venstre,13
+Gladsaxe,8,Vadgård,B_Lis_Smidsholm,Lis Smidsholm,Radikale Venstre,2
+Gladsaxe,8,Vadgård,B_Martin_Karbech_Mouritsen,Martin Karbech Mouritsen,Radikale Venstre,1
+Gladsaxe,8,Vadgård,B_Jakob_Trier,Jakob Trier,Radikale Venstre,1
+Gladsaxe,8,Vadgård,B_Sara_Edwige_Kobli,Sara Edwige Kobli,Radikale Venstre,3
+Gladsaxe,8,Vadgård,B_Nick_Nouri,Nick Nouri,Radikale Venstre,0
+Gladsaxe,8,Vadgård,B_Anne_Parbst,Anne Parbst,Radikale Venstre,0
+Gladsaxe,8,Vadgård,B_Claus_Staal,Claus Staal,Radikale Venstre,5
+Gladsaxe,8,Vadgård,B_Flemming_Ytzen,Flemming Ytzen,Radikale Venstre,2
+Gladsaxe,8,Vadgård,B_Mads_Bondo_Dydensborg,Mads Bondo Dydensborg,Radikale Venstre,0
+Gladsaxe,8,Vadgård,B_Bjarne_Tolboe_Christiansen,Bjarne Tolboe Christiansen,Radikale Venstre,2
+Gladsaxe,8,Vadgård,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,194
+Gladsaxe,8,Vadgård,C_Henrik_Sørensen,Henrik Sørensen,Det Konservative Folkeparti,67
+Gladsaxe,8,Vadgård,C_Thomas_Germann,Thomas Germann,Det Konservative Folkeparti,13
+Gladsaxe,8,Vadgård,C_Rebecca_Plomin,Rebecca Plomin,Det Konservative Folkeparti,28
+Gladsaxe,8,Vadgård,C_Jacqueline_Kristensen,Jacqueline Kristensen,Det Konservative Folkeparti,17
+Gladsaxe,8,Vadgård,C_Lars_Abel,Lars Abel,Det Konservative Folkeparti,37
+Gladsaxe,8,Vadgård,C_Mogens_Busk_Sørensen,Mogens Busk Sørensen,Det Konservative Folkeparti,2
+Gladsaxe,8,Vadgård,C_Marianne_Damgaard-Sørensen,Marianne Damgaard-Sørensen,Det Konservative Folkeparti,11
+Gladsaxe,8,Vadgård,C_Christa_Kjær,Christa Kjær,Det Konservative Folkeparti,3
+Gladsaxe,8,Vadgård,D_Listestemmer,Listestemmer,Nye Borgerlige,58
+Gladsaxe,8,Vadgård,D_Jan_Pless,Jan Pless,Nye Borgerlige,57
+Gladsaxe,8,Vadgård,D_Carsten_Toft,Carsten Toft,Nye Borgerlige,9
+Gladsaxe,8,Vadgård,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,99
+Gladsaxe,8,Vadgård,F_Serdal_Benli,Serdal Benli,SF - Socialistisk Folkeparti,91
+Gladsaxe,8,Vadgård,F_Dorthe_Wichmand_Müller,Dorthe Wichmand Müller,SF - Socialistisk Folkeparti,38
+Gladsaxe,8,Vadgård,F_Signe_Ejersbo,Signe Ejersbo,SF - Socialistisk Folkeparti,12
+Gladsaxe,8,Vadgård,F_Lene_Søndergaard,Lene Søndergaard,SF - Socialistisk Folkeparti,19
+Gladsaxe,8,Vadgård,F_Frederik_Hoedeman,Frederik Hoedeman,SF - Socialistisk Folkeparti,4
+Gladsaxe,8,Vadgård,F_Holger_Grohganz,Holger Grohganz,SF - Socialistisk Folkeparti,3
+Gladsaxe,8,Vadgård,F_Bo_Bülow,Bo Bülow,SF - Socialistisk Folkeparti,3
+Gladsaxe,8,Vadgård,F_Peter_Malinovsky,Peter Malinovsky,SF - Socialistisk Folkeparti,9
+Gladsaxe,8,Vadgård,F_Gunnar_Svendsen,Gunnar Svendsen,SF - Socialistisk Folkeparti,2
+Gladsaxe,8,Vadgård,F_Anne_Breum,Anne Breum,SF - Socialistisk Folkeparti,9
+Gladsaxe,8,Vadgård,H_Listestemmer,Listestemmer,Sahar Aslani,1
+Gladsaxe,8,Vadgård,H_Sahar_Aslani,Sahar Aslani,Sahar Aslani,6
+Gladsaxe,8,Vadgård,I_Listestemmer,Listestemmer,Liberal Alliance,28
+Gladsaxe,8,Vadgård,I_Jørgen_Juhl,Jørgen Juhl,Liberal Alliance,6
+Gladsaxe,8,Vadgård,I_David_Ibsen,David Ibsen,Liberal Alliance,9
+Gladsaxe,8,Vadgård,I_Kim_Fuglsang_Laczek,Kim Fuglsang Laczek,Liberal Alliance,8
+Gladsaxe,8,Vadgård,I_Jytte_Tholstrup_Svendsen,Jytte Tholstrup Svendsen,Liberal Alliance,2
+Gladsaxe,8,Vadgård,K_Listestemmer,Listestemmer,Kristendemokraterne,6
+Gladsaxe,8,Vadgård,K_Esben_Frette_Johnsen,Esben Frette Johnsen,Kristendemokraterne,2
+Gladsaxe,8,Vadgård,K_Bolette_von_Westphal,Bolette von Westphal,Kristendemokraterne,3
+Gladsaxe,8,Vadgård,L_Listestemmer,Listestemmer,Lokallisten Gladsaxe,9
+Gladsaxe,8,Vadgård,L_Lise_Tønner,Lise Tønner,Lokallisten Gladsaxe,24
+Gladsaxe,8,Vadgård,L_Lene_Svendborg,Lene Svendborg,Lokallisten Gladsaxe,13
+Gladsaxe,8,Vadgård,L_John_Ellehammer,John Ellehammer,Lokallisten Gladsaxe,2
+Gladsaxe,8,Vadgård,L_Suleman_Naim,Suleman Naim,Lokallisten Gladsaxe,11
+Gladsaxe,8,Vadgård,O_Listestemmer,Listestemmer,Dansk Folkeparti,32
+Gladsaxe,8,Vadgård,O_Susanne_Damsgaard,Susanne Damsgaard,Dansk Folkeparti,50
+Gladsaxe,8,Vadgård,O_Bonett_Trusell,Bonett Trusell,Dansk Folkeparti,13
+Gladsaxe,8,Vadgård,O_Klaus_Kjær,Klaus Kjær,Dansk Folkeparti,6
+Gladsaxe,8,Vadgård,O_Flemming_H._Albrechtsen,Flemming H. Albrechtsen,Dansk Folkeparti,6
+Gladsaxe,8,Vadgård,O_Patricia_Damsgaard,Patricia Damsgaard,Dansk Folkeparti,4
+Gladsaxe,8,Vadgård,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",123
+Gladsaxe,8,Vadgård,V_Martin_Skou_Heidemann,Martin Skou Heidemann,"Venstre, Danmarks Liberale Parti",83
+Gladsaxe,8,Vadgård,V_Astrid_Søborg,Astrid Søborg,"Venstre, Danmarks Liberale Parti",66
+Gladsaxe,8,Vadgård,V_Lone_Yalcinkaya,Lone Yalcinkaya,"Venstre, Danmarks Liberale Parti",28
+Gladsaxe,8,Vadgård,V_Thekla_Ravn,Thekla Ravn,"Venstre, Danmarks Liberale Parti",20
+Gladsaxe,8,Vadgård,V_Allan_Juhl_Feddersen,Allan Juhl Feddersen,"Venstre, Danmarks Liberale Parti",8
+Gladsaxe,8,Vadgård,V_Gunnar_Sumberg,Gunnar Sumberg,"Venstre, Danmarks Liberale Parti",3
+Gladsaxe,8,Vadgård,V_Benedikte_Claudinger,Benedikte Claudinger,"Venstre, Danmarks Liberale Parti",5
+Gladsaxe,8,Vadgård,V_Henrik_Thormod_Andersen,Henrik Thormod Andersen,"Venstre, Danmarks Liberale Parti",3
+Gladsaxe,8,Vadgård,V_Kenneth_Colding,Kenneth Colding,"Venstre, Danmarks Liberale Parti",12
+Gladsaxe,8,Vadgård,V_Camilla_Friis,Camilla Friis,"Venstre, Danmarks Liberale Parti",47
+Gladsaxe,8,Vadgård,V_René_Wriedt,René Wriedt,"Venstre, Danmarks Liberale Parti",1
+Gladsaxe,8,Vadgård,V_Finn_Kilbak,Finn Kilbak,"Venstre, Danmarks Liberale Parti",7
+Gladsaxe,8,Vadgård,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,95
+Gladsaxe,8,Vadgård,Ø_Trine_Henriksen,Trine Henriksen,Enhedslisten - De Rød-Grønne,68
+Gladsaxe,8,Vadgård,Ø_Signe_Rosa_Skelbæk,Signe Rosa Skelbæk,Enhedslisten - De Rød-Grønne,45
+Gladsaxe,8,Vadgård,Ø_Michael_Dorph_Jensen,Michael Dorph Jensen,Enhedslisten - De Rød-Grønne,19
+Gladsaxe,8,Vadgård,Ø_Torben_Madsen,Torben Madsen,Enhedslisten - De Rød-Grønne,11
+Gladsaxe,8,Vadgård,Ø_Casper_Pedersen,Casper Pedersen,Enhedslisten - De Rød-Grønne,7
+Gladsaxe,8,Vadgård,Ø_Shila_Pourdeylami,Shila Pourdeylami,Enhedslisten - De Rød-Grønne,18
+Gladsaxe,8,Vadgård,Ø_Sune_Rastad_Bahn,Sune Rastad Bahn,Enhedslisten - De Rød-Grønne,1
+Gladsaxe,8,Vadgård,Ø_Bertha_M._Friis,Bertha M. Friis,Enhedslisten - De Rød-Grønne,12
+Gladsaxe,8,Vadgård,Ø_Morten_Ravn_Landerslev,Morten Ravn Landerslev,Enhedslisten - De Rød-Grønne,1
+Gladsaxe,8,Vadgård,Ø_Patrick_Okwonga,Patrick Okwonga,Enhedslisten - De Rød-Grønne,4
+Gladsaxe,9,Værebro,A_Listestemmer,Listestemmer,Socialdemokratiet,175
+Gladsaxe,9,Værebro,A_Trine_Græse,Trine Græse,Socialdemokratiet,267
+Gladsaxe,9,Værebro,A_Kristine_Henriksen,Kristine Henriksen,Socialdemokratiet,27
+Gladsaxe,9,Værebro,A_Jakob_Skovgaard_Koed,Jakob Skovgaard Koed,Socialdemokratiet,15
+Gladsaxe,9,Værebro,A_Ole_Skrald,Ole Skrald,Socialdemokratiet,13
+Gladsaxe,9,Værebro,A_Katrine_Skov,Katrine Skov,Socialdemokratiet,15
+Gladsaxe,9,Værebro,A_Tom_Vang_Knudsen,Tom Vang Knudsen,Socialdemokratiet,1
+Gladsaxe,9,Værebro,A_Rikke_Louise_Schilling,Rikke Louise Schilling,Socialdemokratiet,22
+Gladsaxe,9,Værebro,A_Line_Stockmal_Ammundsen,Line Stockmal Ammundsen,Socialdemokratiet,16
+Gladsaxe,9,Værebro,A_Peter_Berg_Nellemann,Peter Berg Nellemann,Socialdemokratiet,8
+Gladsaxe,9,Værebro,A_Bjarne_Henriksen,Bjarne Henriksen,Socialdemokratiet,5
+Gladsaxe,9,Værebro,A_Henrik_V._Pedersen,Henrik V. Pedersen,Socialdemokratiet,1
+Gladsaxe,9,Værebro,A_Calle_Greisholm,Calle Greisholm,Socialdemokratiet,9
+Gladsaxe,9,Værebro,A_Anthon_Berentzen,Anthon Berentzen,Socialdemokratiet,9
+Gladsaxe,9,Værebro,A_Kristian_Niebuhr,Kristian Niebuhr,Socialdemokratiet,2
+Gladsaxe,9,Værebro,A_Allan_Olsen,Allan Olsen,Socialdemokratiet,4
+Gladsaxe,9,Værebro,B_Listestemmer,Listestemmer,Radikale Venstre,44
+Gladsaxe,9,Værebro,B_Christina_Rittig_Falkberg,Christina Rittig Falkberg,Radikale Venstre,55
+Gladsaxe,9,Værebro,B_Pia_Skou,Pia Skou,Radikale Venstre,40
+Gladsaxe,9,Værebro,B_Claus_Wachmann,Claus Wachmann,Radikale Venstre,6
+Gladsaxe,9,Værebro,B_Lis_Smidsholm,Lis Smidsholm,Radikale Venstre,6
+Gladsaxe,9,Værebro,B_Martin_Karbech_Mouritsen,Martin Karbech Mouritsen,Radikale Venstre,1
+Gladsaxe,9,Værebro,B_Jakob_Trier,Jakob Trier,Radikale Venstre,3
+Gladsaxe,9,Værebro,B_Sara_Edwige_Kobli,Sara Edwige Kobli,Radikale Venstre,3
+Gladsaxe,9,Værebro,B_Nick_Nouri,Nick Nouri,Radikale Venstre,0
+Gladsaxe,9,Værebro,B_Anne_Parbst,Anne Parbst,Radikale Venstre,6
+Gladsaxe,9,Værebro,B_Claus_Staal,Claus Staal,Radikale Venstre,3
+Gladsaxe,9,Værebro,B_Flemming_Ytzen,Flemming Ytzen,Radikale Venstre,2
+Gladsaxe,9,Værebro,B_Mads_Bondo_Dydensborg,Mads Bondo Dydensborg,Radikale Venstre,4
+Gladsaxe,9,Værebro,B_Bjarne_Tolboe_Christiansen,Bjarne Tolboe Christiansen,Radikale Venstre,2
+Gladsaxe,9,Værebro,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,101
+Gladsaxe,9,Værebro,C_Henrik_Sørensen,Henrik Sørensen,Det Konservative Folkeparti,45
+Gladsaxe,9,Værebro,C_Thomas_Germann,Thomas Germann,Det Konservative Folkeparti,17
+Gladsaxe,9,Værebro,C_Rebecca_Plomin,Rebecca Plomin,Det Konservative Folkeparti,26
+Gladsaxe,9,Værebro,C_Jacqueline_Kristensen,Jacqueline Kristensen,Det Konservative Folkeparti,7
+Gladsaxe,9,Værebro,C_Lars_Abel,Lars Abel,Det Konservative Folkeparti,45
+Gladsaxe,9,Værebro,C_Mogens_Busk_Sørensen,Mogens Busk Sørensen,Det Konservative Folkeparti,3
+Gladsaxe,9,Værebro,C_Marianne_Damgaard-Sørensen,Marianne Damgaard-Sørensen,Det Konservative Folkeparti,7
+Gladsaxe,9,Værebro,C_Christa_Kjær,Christa Kjær,Det Konservative Folkeparti,3
+Gladsaxe,9,Værebro,D_Listestemmer,Listestemmer,Nye Borgerlige,36
+Gladsaxe,9,Værebro,D_Jan_Pless,Jan Pless,Nye Borgerlige,17
+Gladsaxe,9,Værebro,D_Carsten_Toft,Carsten Toft,Nye Borgerlige,2
+Gladsaxe,9,Værebro,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,41
+Gladsaxe,9,Værebro,F_Serdal_Benli,Serdal Benli,SF - Socialistisk Folkeparti,112
+Gladsaxe,9,Værebro,F_Dorthe_Wichmand_Müller,Dorthe Wichmand Müller,SF - Socialistisk Folkeparti,6
+Gladsaxe,9,Værebro,F_Signe_Ejersbo,Signe Ejersbo,SF - Socialistisk Folkeparti,14
+Gladsaxe,9,Værebro,F_Lene_Søndergaard,Lene Søndergaard,SF - Socialistisk Folkeparti,8
+Gladsaxe,9,Værebro,F_Frederik_Hoedeman,Frederik Hoedeman,SF - Socialistisk Folkeparti,1
+Gladsaxe,9,Værebro,F_Holger_Grohganz,Holger Grohganz,SF - Socialistisk Folkeparti,7
+Gladsaxe,9,Værebro,F_Bo_Bülow,Bo Bülow,SF - Socialistisk Folkeparti,2
+Gladsaxe,9,Værebro,F_Peter_Malinovsky,Peter Malinovsky,SF - Socialistisk Folkeparti,5
+Gladsaxe,9,Værebro,F_Gunnar_Svendsen,Gunnar Svendsen,SF - Socialistisk Folkeparti,2
+Gladsaxe,9,Værebro,F_Anne_Breum,Anne Breum,SF - Socialistisk Folkeparti,5
+Gladsaxe,9,Værebro,H_Listestemmer,Listestemmer,Sahar Aslani,3
+Gladsaxe,9,Værebro,H_Sahar_Aslani,Sahar Aslani,Sahar Aslani,3
+Gladsaxe,9,Værebro,I_Listestemmer,Listestemmer,Liberal Alliance,22
+Gladsaxe,9,Værebro,I_Jørgen_Juhl,Jørgen Juhl,Liberal Alliance,11
+Gladsaxe,9,Værebro,I_David_Ibsen,David Ibsen,Liberal Alliance,4
+Gladsaxe,9,Værebro,I_Kim_Fuglsang_Laczek,Kim Fuglsang Laczek,Liberal Alliance,3
+Gladsaxe,9,Værebro,I_Jytte_Tholstrup_Svendsen,Jytte Tholstrup Svendsen,Liberal Alliance,1
+Gladsaxe,9,Værebro,K_Listestemmer,Listestemmer,Kristendemokraterne,4
+Gladsaxe,9,Værebro,K_Esben_Frette_Johnsen,Esben Frette Johnsen,Kristendemokraterne,3
+Gladsaxe,9,Værebro,K_Bolette_von_Westphal,Bolette von Westphal,Kristendemokraterne,1
+Gladsaxe,9,Værebro,L_Listestemmer,Listestemmer,Lokallisten Gladsaxe,16
+Gladsaxe,9,Værebro,L_Lise_Tønner,Lise Tønner,Lokallisten Gladsaxe,38
+Gladsaxe,9,Værebro,L_Lene_Svendborg,Lene Svendborg,Lokallisten Gladsaxe,14
+Gladsaxe,9,Værebro,L_John_Ellehammer,John Ellehammer,Lokallisten Gladsaxe,1
+Gladsaxe,9,Værebro,L_Suleman_Naim,Suleman Naim,Lokallisten Gladsaxe,28
+Gladsaxe,9,Værebro,O_Listestemmer,Listestemmer,Dansk Folkeparti,19
+Gladsaxe,9,Værebro,O_Susanne_Damsgaard,Susanne Damsgaard,Dansk Folkeparti,28
+Gladsaxe,9,Værebro,O_Bonett_Trusell,Bonett Trusell,Dansk Folkeparti,4
+Gladsaxe,9,Værebro,O_Klaus_Kjær,Klaus Kjær,Dansk Folkeparti,12
+Gladsaxe,9,Værebro,O_Flemming_H._Albrechtsen,Flemming H. Albrechtsen,Dansk Folkeparti,0
+Gladsaxe,9,Værebro,O_Patricia_Damsgaard,Patricia Damsgaard,Dansk Folkeparti,0
+Gladsaxe,9,Værebro,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",80
+Gladsaxe,9,Værebro,V_Martin_Skou_Heidemann,Martin Skou Heidemann,"Venstre, Danmarks Liberale Parti",89
+Gladsaxe,9,Værebro,V_Astrid_Søborg,Astrid Søborg,"Venstre, Danmarks Liberale Parti",44
+Gladsaxe,9,Værebro,V_Lone_Yalcinkaya,Lone Yalcinkaya,"Venstre, Danmarks Liberale Parti",33
+Gladsaxe,9,Værebro,V_Thekla_Ravn,Thekla Ravn,"Venstre, Danmarks Liberale Parti",7
+Gladsaxe,9,Værebro,V_Allan_Juhl_Feddersen,Allan Juhl Feddersen,"Venstre, Danmarks Liberale Parti",1
+Gladsaxe,9,Værebro,V_Gunnar_Sumberg,Gunnar Sumberg,"Venstre, Danmarks Liberale Parti",2
+Gladsaxe,9,Værebro,V_Benedikte_Claudinger,Benedikte Claudinger,"Venstre, Danmarks Liberale Parti",6
+Gladsaxe,9,Værebro,V_Henrik_Thormod_Andersen,Henrik Thormod Andersen,"Venstre, Danmarks Liberale Parti",5
+Gladsaxe,9,Værebro,V_Kenneth_Colding,Kenneth Colding,"Venstre, Danmarks Liberale Parti",3
+Gladsaxe,9,Værebro,V_Camilla_Friis,Camilla Friis,"Venstre, Danmarks Liberale Parti",25
+Gladsaxe,9,Værebro,V_René_Wriedt,René Wriedt,"Venstre, Danmarks Liberale Parti",0
+Gladsaxe,9,Værebro,V_Finn_Kilbak,Finn Kilbak,"Venstre, Danmarks Liberale Parti",3
+Gladsaxe,9,Værebro,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,93
+Gladsaxe,9,Værebro,Ø_Trine_Henriksen,Trine Henriksen,Enhedslisten - De Rød-Grønne,52
+Gladsaxe,9,Værebro,Ø_Signe_Rosa_Skelbæk,Signe Rosa Skelbæk,Enhedslisten - De Rød-Grønne,20
+Gladsaxe,9,Værebro,Ø_Michael_Dorph_Jensen,Michael Dorph Jensen,Enhedslisten - De Rød-Grønne,2
+Gladsaxe,9,Værebro,Ø_Torben_Madsen,Torben Madsen,Enhedslisten - De Rød-Grønne,3
+Gladsaxe,9,Værebro,Ø_Casper_Pedersen,Casper Pedersen,Enhedslisten - De Rød-Grønne,3
+Gladsaxe,9,Værebro,Ø_Shila_Pourdeylami,Shila Pourdeylami,Enhedslisten - De Rød-Grønne,11
+Gladsaxe,9,Værebro,Ø_Sune_Rastad_Bahn,Sune Rastad Bahn,Enhedslisten - De Rød-Grønne,0
+Gladsaxe,9,Værebro,Ø_Bertha_M._Friis,Bertha M. Friis,Enhedslisten - De Rød-Grønne,5
+Gladsaxe,9,Værebro,Ø_Morten_Ravn_Landerslev,Morten Ravn Landerslev,Enhedslisten - De Rød-Grønne,0
+Gladsaxe,9,Værebro,Ø_Patrick_Okwonga,Patrick Okwonga,Enhedslisten - De Rød-Grønne,5

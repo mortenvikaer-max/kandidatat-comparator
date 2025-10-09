@@ -1,0 +1,1041 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Gentofte,1,Jægersborg,A_Listestemmer,Listestemmer,Socialdemokratiet,96
+Gentofte,1,Jægersborg,A_Søren_Heisel,Søren Heisel,Socialdemokratiet,83
+Gentofte,1,Jægersborg,A_Anne_Hjorth,Anne Hjorth,Socialdemokratiet,49
+Gentofte,1,Jægersborg,A_Halima_El_Abassi,Halima El Abassi,Socialdemokratiet,38
+Gentofte,1,Jægersborg,A_Gitte_H._Terndrup,Gitte H. Terndrup,Socialdemokratiet,11
+Gentofte,1,Jægersborg,A_Kevin_Høj,Kevin Høj,Socialdemokratiet,3
+Gentofte,1,Jægersborg,A_Susan_Wiinblad,Susan Wiinblad,Socialdemokratiet,8
+Gentofte,1,Jægersborg,A_Lars_Bo_Winther,Lars Bo Winther,Socialdemokratiet,5
+Gentofte,1,Jægersborg,A_Thomas_Ellegaard,Thomas Ellegaard,Socialdemokratiet,25
+Gentofte,1,Jægersborg,B_Listestemmer,Listestemmer,Radikale Venstre,95
+Gentofte,1,Jægersborg,B_Kristine_Kryger,Kristine Kryger,Radikale Venstre,85
+Gentofte,1,Jægersborg,B_Ane_Palsberg,Ane Palsberg,Radikale Venstre,36
+Gentofte,1,Jægersborg,B_Marie_Brixtofte,Marie Brixtofte,Radikale Venstre,123
+Gentofte,1,Jægersborg,B_Anders_Hartzen,Anders Hartzen,Radikale Venstre,4
+Gentofte,1,Jægersborg,B_Kasper_Brejnholt_Bak,Kasper Brejnholt Bak,Radikale Venstre,9
+Gentofte,1,Jægersborg,B_Martin_Iversen,Martin Iversen,Radikale Venstre,1
+Gentofte,1,Jægersborg,B_Sven_Tovborg_Jensen,Sven Tovborg Jensen,Radikale Venstre,2
+Gentofte,1,Jægersborg,B_Else_Lindberg,Else Lindberg,Radikale Venstre,3
+Gentofte,1,Jægersborg,B_Carsten_Lassen,Carsten Lassen,Radikale Venstre,0
+Gentofte,1,Jægersborg,B_Melitta_Naegeli,Melitta Naegeli,Radikale Venstre,0
+Gentofte,1,Jægersborg,B_Anders_Jensen,Anders Jensen,Radikale Venstre,0
+Gentofte,1,Jægersborg,B_Morten_Ladefoged,Morten Ladefoged,Radikale Venstre,2
+Gentofte,1,Jægersborg,B_Ummy_Hamyar,Ummy Hamyar,Radikale Venstre,6
+Gentofte,1,Jægersborg,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,590
+Gentofte,1,Jægersborg,C_Michael_Fenger,Michael Fenger,Det Konservative Folkeparti,1036
+Gentofte,1,Jægersborg,C_Pia_Nyring,Pia Nyring,Det Konservative Folkeparti,141
+Gentofte,1,Jægersborg,C_Andreas_Weidinger,Andreas Weidinger,Det Konservative Folkeparti,164
+Gentofte,1,Jægersborg,C_Katja_S._Johansen,Katja S. Johansen,Det Konservative Folkeparti,44
+Gentofte,1,Jægersborg,C_Jesper_Marcus,Jesper Marcus,Det Konservative Folkeparti,46
+Gentofte,1,Jægersborg,C_Karen_Riis_Kjølbye,Karen Riis Kjølbye,Det Konservative Folkeparti,30
+Gentofte,1,Jægersborg,C_Christian_Eppers,Christian Eppers,Det Konservative Folkeparti,2
+Gentofte,1,Jægersborg,C_Christina_Wex,Christina Wex,Det Konservative Folkeparti,53
+Gentofte,1,Jægersborg,C_Niels_Lund,Niels Lund,Det Konservative Folkeparti,26
+Gentofte,1,Jægersborg,C_Britta_Riis,Britta Riis,Det Konservative Folkeparti,76
+Gentofte,1,Jægersborg,C_Teit_Andersen,Teit Andersen,Det Konservative Folkeparti,75
+Gentofte,1,Jægersborg,C_Marianne_Bugge_Zederkof,Marianne Bugge Zederkof,Det Konservative Folkeparti,11
+Gentofte,1,Jægersborg,C_Stig_Wall,Stig Wall,Det Konservative Folkeparti,79
+Gentofte,1,Jægersborg,C_Per_Bruun_Andersen,Per Bruun Andersen,Det Konservative Folkeparti,10
+Gentofte,1,Jægersborg,C_Valdemar_H._Høiris,Valdemar H. Høiris,Det Konservative Folkeparti,17
+Gentofte,1,Jægersborg,C_Claus_Høegh-Guldberg,Claus Høegh-Guldberg,Det Konservative Folkeparti,9
+Gentofte,1,Jægersborg,C_Jesper_Kamp_Nielsen,Jesper Kamp Nielsen,Det Konservative Folkeparti,19
+Gentofte,1,Jægersborg,C_Malene_Brandt,Malene Brandt,Det Konservative Folkeparti,27
+Gentofte,1,Jægersborg,C_Anton_Brüniche-Olsen,Anton Brüniche-Olsen,Det Konservative Folkeparti,23
+Gentofte,1,Jægersborg,C_Ann_Sophie_Friis,Ann Sophie Friis,Det Konservative Folkeparti,27
+Gentofte,1,Jægersborg,C_Jonas_Parello-Plesner,Jonas Parello-Plesner,Det Konservative Folkeparti,34
+Gentofte,1,Jægersborg,C_Michala_Gale_Sehested,Michala Gale Sehested,Det Konservative Folkeparti,19
+Gentofte,1,Jægersborg,C_Charlotte_Libach,Charlotte Libach,Det Konservative Folkeparti,15
+Gentofte,1,Jægersborg,D_Listestemmer,Listestemmer,Nye Borgerlige,46
+Gentofte,1,Jægersborg,D_Thomas_S._Bentsen,Thomas S. Bentsen,Nye Borgerlige,27
+Gentofte,1,Jægersborg,D_Henrik_Engel_Elborough,Henrik Engel Elborough,Nye Borgerlige,2
+Gentofte,1,Jægersborg,D_Kenneth_K._Olsen,Kenneth K. Olsen,Nye Borgerlige,1
+Gentofte,1,Jægersborg,D_Ivan_Léon_Siehr,Ivan Léon Siehr,Nye Borgerlige,0
+Gentofte,1,Jægersborg,D_Flemming_Bækkeskov,Flemming Bækkeskov,Nye Borgerlige,9
+Gentofte,1,Jægersborg,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,96
+Gentofte,1,Jægersborg,F_Helene_Brochmann,Helene Brochmann,SF - Socialistisk Folkeparti,100
+Gentofte,1,Jægersborg,F_Jonas_Niemann,Jonas Niemann,SF - Socialistisk Folkeparti,26
+Gentofte,1,Jægersborg,F_John_Andersen,John Andersen,SF - Socialistisk Folkeparti,2
+Gentofte,1,Jægersborg,F_Dina_Wildt,Dina Wildt,SF - Socialistisk Folkeparti,10
+Gentofte,1,Jægersborg,F_Jens_Ahm,Jens Ahm,SF - Socialistisk Folkeparti,1
+Gentofte,1,Jægersborg,F_Lise_Müller,Lise Müller,SF - Socialistisk Folkeparti,28
+Gentofte,1,Jægersborg,F_Magnus_Morsing,Magnus Morsing,SF - Socialistisk Folkeparti,13
+Gentofte,1,Jægersborg,I_Listestemmer,Listestemmer,Liberal Alliance,36
+Gentofte,1,Jægersborg,I_Kasper_Heumann,Kasper Heumann,Liberal Alliance,24
+Gentofte,1,Jægersborg,I_Peter_Loft,Peter Loft,Liberal Alliance,33
+Gentofte,1,Jægersborg,I_Vibeke_Molise_Nibe,Vibeke Molise Nibe,Liberal Alliance,3
+Gentofte,1,Jægersborg,I_Simon_Karim_Helledie,Simon Karim Helledie,Liberal Alliance,10
+Gentofte,1,Jægersborg,I_Jonas_Søndergaard,Jonas Søndergaard,Liberal Alliance,7
+Gentofte,1,Jægersborg,K_Listestemmer,Listestemmer,Kristendemokraterne,2
+Gentofte,1,Jægersborg,K_Jesper_Lohse,Jesper Lohse,Kristendemokraterne,9
+Gentofte,1,Jægersborg,K_Søren_Harslund,Søren Harslund,Kristendemokraterne,0
+Gentofte,1,Jægersborg,O_Listestemmer,Listestemmer,Dansk Folkeparti,17
+Gentofte,1,Jægersborg,O_Rita_Rahbek,Rita Rahbek,Dansk Folkeparti,1
+Gentofte,1,Jægersborg,O_Theis_Bagge,Theis Bagge,Dansk Folkeparti,4
+Gentofte,1,Jægersborg,O_Niels_Ernbro,Niels Ernbro,Dansk Folkeparti,0
+Gentofte,1,Jægersborg,O_Sarah_Brøndum,Sarah Brøndum,Dansk Folkeparti,3
+Gentofte,1,Jægersborg,O_Annet_Soos,Annet Soos,Dansk Folkeparti,0
+Gentofte,1,Jægersborg,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",72
+Gentofte,1,Jægersborg,V_Morten_Løkkegaard,Morten Løkkegaard,"Venstre, Danmarks Liberale Parti",125
+Gentofte,1,Jægersborg,V_Søren_Stilling_Christensen,Søren Stilling Christensen,"Venstre, Danmarks Liberale Parti",3
+Gentofte,1,Jægersborg,V_Mads_Justsen,Mads Justsen,"Venstre, Danmarks Liberale Parti",25
+Gentofte,1,Jægersborg,V_Alexander_Kamp,Alexander Kamp,"Venstre, Danmarks Liberale Parti",5
+Gentofte,1,Jægersborg,V_Kirsten_Elvstrøm,Kirsten Elvstrøm,"Venstre, Danmarks Liberale Parti",11
+Gentofte,1,Jægersborg,V_Tine_Horwitz,Tine Horwitz,"Venstre, Danmarks Liberale Parti",2
+Gentofte,1,Jægersborg,V_Egil_Rindorf,Egil Rindorf,"Venstre, Danmarks Liberale Parti",2
+Gentofte,1,Jægersborg,V_Jesper_Holm,Jesper Holm,"Venstre, Danmarks Liberale Parti",3
+Gentofte,1,Jægersborg,V_Jørn_Holdt,Jørn Holdt,"Venstre, Danmarks Liberale Parti",0
+Gentofte,1,Jægersborg,V_Jørgen_Tarris,Jørgen Tarris,"Venstre, Danmarks Liberale Parti",2
+Gentofte,1,Jægersborg,V_Nils_Juhl_Andreasen,Nils Juhl Andreasen,"Venstre, Danmarks Liberale Parti",10
+Gentofte,1,Jægersborg,V_Anders_Lautrup-Larsen,Anders Lautrup-Larsen,"Venstre, Danmarks Liberale Parti",3
+Gentofte,1,Jægersborg,V_Alexander_Schneevoigt,Alexander Schneevoigt,"Venstre, Danmarks Liberale Parti",2
+Gentofte,1,Jægersborg,V_Helle_Forland,Helle Forland,"Venstre, Danmarks Liberale Parti",1
+Gentofte,1,Jægersborg,V_Morten_Munk_Ebbesen,Morten Munk Ebbesen,"Venstre, Danmarks Liberale Parti",2
+Gentofte,1,Jægersborg,V_Kjeld_Danneskiold-Samsøe,Kjeld Danneskiold-Samsøe,"Venstre, Danmarks Liberale Parti",0
+Gentofte,1,Jægersborg,Æ_Listestemmer,Listestemmer,Frihedslisten,12
+Gentofte,1,Jægersborg,"Æ_Charlotte_Petersen,_Hellerup","Charlotte Petersen, Hellerup",Frihedslisten,2
+Gentofte,1,Jægersborg,"Æ_Henrik_Vendelbo,_Gentofte","Henrik Vendelbo, Gentofte",Frihedslisten,2
+Gentofte,1,Jægersborg,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,110
+Gentofte,1,Jægersborg,Ø_Jeanne_Toxværd,Jeanne Toxværd,Enhedslisten - De Rød-Grønne,79
+Gentofte,1,Jægersborg,Ø_Frederik_Dehlholm,Frederik Dehlholm,Enhedslisten - De Rød-Grønne,8
+Gentofte,1,Jægersborg,Ø_Line_Traugott,Line Traugott,Enhedslisten - De Rød-Grønne,9
+Gentofte,1,Jægersborg,Ø_Jørn_Fink,Jørn Fink,Enhedslisten - De Rød-Grønne,1
+Gentofte,1,Jægersborg,Ø_Birthe_Bjerre,Birthe Bjerre,Enhedslisten - De Rød-Grønne,4
+Gentofte,1,Jægersborg,Ø_Magne_Edvard_Pihl,Magne Edvard Pihl,Enhedslisten - De Rød-Grønne,6
+Gentofte,1,Jægersborg,Ø_Tage_Christiansen,Tage Christiansen,Enhedslisten - De Rød-Grønne,1
+Gentofte,2,Munkegård,A_Listestemmer,Listestemmer,Socialdemokratiet,193
+Gentofte,2,Munkegård,A_Søren_Heisel,Søren Heisel,Socialdemokratiet,199
+Gentofte,2,Munkegård,A_Anne_Hjorth,Anne Hjorth,Socialdemokratiet,81
+Gentofte,2,Munkegård,A_Halima_El_Abassi,Halima El Abassi,Socialdemokratiet,50
+Gentofte,2,Munkegård,A_Gitte_H._Terndrup,Gitte H. Terndrup,Socialdemokratiet,13
+Gentofte,2,Munkegård,A_Kevin_Høj,Kevin Høj,Socialdemokratiet,12
+Gentofte,2,Munkegård,A_Susan_Wiinblad,Susan Wiinblad,Socialdemokratiet,10
+Gentofte,2,Munkegård,A_Lars_Bo_Winther,Lars Bo Winther,Socialdemokratiet,35
+Gentofte,2,Munkegård,A_Thomas_Ellegaard,Thomas Ellegaard,Socialdemokratiet,7
+Gentofte,2,Munkegård,B_Listestemmer,Listestemmer,Radikale Venstre,99
+Gentofte,2,Munkegård,B_Kristine_Kryger,Kristine Kryger,Radikale Venstre,72
+Gentofte,2,Munkegård,B_Ane_Palsberg,Ane Palsberg,Radikale Venstre,51
+Gentofte,2,Munkegård,B_Marie_Brixtofte,Marie Brixtofte,Radikale Venstre,101
+Gentofte,2,Munkegård,B_Anders_Hartzen,Anders Hartzen,Radikale Venstre,1
+Gentofte,2,Munkegård,B_Kasper_Brejnholt_Bak,Kasper Brejnholt Bak,Radikale Venstre,17
+Gentofte,2,Munkegård,B_Martin_Iversen,Martin Iversen,Radikale Venstre,3
+Gentofte,2,Munkegård,B_Sven_Tovborg_Jensen,Sven Tovborg Jensen,Radikale Venstre,0
+Gentofte,2,Munkegård,B_Else_Lindberg,Else Lindberg,Radikale Venstre,2
+Gentofte,2,Munkegård,B_Carsten_Lassen,Carsten Lassen,Radikale Venstre,3
+Gentofte,2,Munkegård,B_Melitta_Naegeli,Melitta Naegeli,Radikale Venstre,1
+Gentofte,2,Munkegård,B_Anders_Jensen,Anders Jensen,Radikale Venstre,3
+Gentofte,2,Munkegård,B_Morten_Ladefoged,Morten Ladefoged,Radikale Venstre,4
+Gentofte,2,Munkegård,B_Ummy_Hamyar,Ummy Hamyar,Radikale Venstre,6
+Gentofte,2,Munkegård,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,431
+Gentofte,2,Munkegård,C_Michael_Fenger,Michael Fenger,Det Konservative Folkeparti,606
+Gentofte,2,Munkegård,C_Pia_Nyring,Pia Nyring,Det Konservative Folkeparti,122
+Gentofte,2,Munkegård,C_Andreas_Weidinger,Andreas Weidinger,Det Konservative Folkeparti,95
+Gentofte,2,Munkegård,C_Katja_S._Johansen,Katja S. Johansen,Det Konservative Folkeparti,34
+Gentofte,2,Munkegård,C_Jesper_Marcus,Jesper Marcus,Det Konservative Folkeparti,13
+Gentofte,2,Munkegård,C_Karen_Riis_Kjølbye,Karen Riis Kjølbye,Det Konservative Folkeparti,9
+Gentofte,2,Munkegård,C_Christian_Eppers,Christian Eppers,Det Konservative Folkeparti,10
+Gentofte,2,Munkegård,C_Christina_Wex,Christina Wex,Det Konservative Folkeparti,26
+Gentofte,2,Munkegård,C_Niels_Lund,Niels Lund,Det Konservative Folkeparti,8
+Gentofte,2,Munkegård,C_Britta_Riis,Britta Riis,Det Konservative Folkeparti,15
+Gentofte,2,Munkegård,C_Teit_Andersen,Teit Andersen,Det Konservative Folkeparti,21
+Gentofte,2,Munkegård,C_Marianne_Bugge_Zederkof,Marianne Bugge Zederkof,Det Konservative Folkeparti,20
+Gentofte,2,Munkegård,C_Stig_Wall,Stig Wall,Det Konservative Folkeparti,11
+Gentofte,2,Munkegård,C_Per_Bruun_Andersen,Per Bruun Andersen,Det Konservative Folkeparti,16
+Gentofte,2,Munkegård,C_Valdemar_H._Høiris,Valdemar H. Høiris,Det Konservative Folkeparti,3
+Gentofte,2,Munkegård,C_Claus_Høegh-Guldberg,Claus Høegh-Guldberg,Det Konservative Folkeparti,0
+Gentofte,2,Munkegård,C_Jesper_Kamp_Nielsen,Jesper Kamp Nielsen,Det Konservative Folkeparti,2
+Gentofte,2,Munkegård,C_Malene_Brandt,Malene Brandt,Det Konservative Folkeparti,18
+Gentofte,2,Munkegård,C_Anton_Brüniche-Olsen,Anton Brüniche-Olsen,Det Konservative Folkeparti,23
+Gentofte,2,Munkegård,C_Ann_Sophie_Friis,Ann Sophie Friis,Det Konservative Folkeparti,13
+Gentofte,2,Munkegård,C_Jonas_Parello-Plesner,Jonas Parello-Plesner,Det Konservative Folkeparti,8
+Gentofte,2,Munkegård,C_Michala_Gale_Sehested,Michala Gale Sehested,Det Konservative Folkeparti,14
+Gentofte,2,Munkegård,C_Charlotte_Libach,Charlotte Libach,Det Konservative Folkeparti,19
+Gentofte,2,Munkegård,D_Listestemmer,Listestemmer,Nye Borgerlige,29
+Gentofte,2,Munkegård,D_Thomas_S._Bentsen,Thomas S. Bentsen,Nye Borgerlige,27
+Gentofte,2,Munkegård,D_Henrik_Engel_Elborough,Henrik Engel Elborough,Nye Borgerlige,7
+Gentofte,2,Munkegård,D_Kenneth_K._Olsen,Kenneth K. Olsen,Nye Borgerlige,0
+Gentofte,2,Munkegård,D_Ivan_Léon_Siehr,Ivan Léon Siehr,Nye Borgerlige,4
+Gentofte,2,Munkegård,D_Flemming_Bækkeskov,Flemming Bækkeskov,Nye Borgerlige,8
+Gentofte,2,Munkegård,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,119
+Gentofte,2,Munkegård,F_Helene_Brochmann,Helene Brochmann,SF - Socialistisk Folkeparti,120
+Gentofte,2,Munkegård,F_Jonas_Niemann,Jonas Niemann,SF - Socialistisk Folkeparti,43
+Gentofte,2,Munkegård,F_John_Andersen,John Andersen,SF - Socialistisk Folkeparti,8
+Gentofte,2,Munkegård,F_Dina_Wildt,Dina Wildt,SF - Socialistisk Folkeparti,12
+Gentofte,2,Munkegård,F_Jens_Ahm,Jens Ahm,SF - Socialistisk Folkeparti,2
+Gentofte,2,Munkegård,F_Lise_Müller,Lise Müller,SF - Socialistisk Folkeparti,61
+Gentofte,2,Munkegård,F_Magnus_Morsing,Magnus Morsing,SF - Socialistisk Folkeparti,2
+Gentofte,2,Munkegård,I_Listestemmer,Listestemmer,Liberal Alliance,24
+Gentofte,2,Munkegård,I_Kasper_Heumann,Kasper Heumann,Liberal Alliance,19
+Gentofte,2,Munkegård,I_Peter_Loft,Peter Loft,Liberal Alliance,11
+Gentofte,2,Munkegård,I_Vibeke_Molise_Nibe,Vibeke Molise Nibe,Liberal Alliance,1
+Gentofte,2,Munkegård,I_Simon_Karim_Helledie,Simon Karim Helledie,Liberal Alliance,3
+Gentofte,2,Munkegård,I_Jonas_Søndergaard,Jonas Søndergaard,Liberal Alliance,2
+Gentofte,2,Munkegård,K_Listestemmer,Listestemmer,Kristendemokraterne,6
+Gentofte,2,Munkegård,K_Jesper_Lohse,Jesper Lohse,Kristendemokraterne,13
+Gentofte,2,Munkegård,K_Søren_Harslund,Søren Harslund,Kristendemokraterne,0
+Gentofte,2,Munkegård,O_Listestemmer,Listestemmer,Dansk Folkeparti,19
+Gentofte,2,Munkegård,O_Rita_Rahbek,Rita Rahbek,Dansk Folkeparti,7
+Gentofte,2,Munkegård,O_Theis_Bagge,Theis Bagge,Dansk Folkeparti,2
+Gentofte,2,Munkegård,O_Niels_Ernbro,Niels Ernbro,Dansk Folkeparti,0
+Gentofte,2,Munkegård,O_Sarah_Brøndum,Sarah Brøndum,Dansk Folkeparti,0
+Gentofte,2,Munkegård,O_Annet_Soos,Annet Soos,Dansk Folkeparti,3
+Gentofte,2,Munkegård,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",48
+Gentofte,2,Munkegård,V_Morten_Løkkegaard,Morten Løkkegaard,"Venstre, Danmarks Liberale Parti",52
+Gentofte,2,Munkegård,V_Søren_Stilling_Christensen,Søren Stilling Christensen,"Venstre, Danmarks Liberale Parti",0
+Gentofte,2,Munkegård,V_Mads_Justsen,Mads Justsen,"Venstre, Danmarks Liberale Parti",16
+Gentofte,2,Munkegård,V_Alexander_Kamp,Alexander Kamp,"Venstre, Danmarks Liberale Parti",7
+Gentofte,2,Munkegård,V_Kirsten_Elvstrøm,Kirsten Elvstrøm,"Venstre, Danmarks Liberale Parti",3
+Gentofte,2,Munkegård,V_Tine_Horwitz,Tine Horwitz,"Venstre, Danmarks Liberale Parti",2
+Gentofte,2,Munkegård,V_Egil_Rindorf,Egil Rindorf,"Venstre, Danmarks Liberale Parti",0
+Gentofte,2,Munkegård,V_Jesper_Holm,Jesper Holm,"Venstre, Danmarks Liberale Parti",2
+Gentofte,2,Munkegård,V_Jørn_Holdt,Jørn Holdt,"Venstre, Danmarks Liberale Parti",1
+Gentofte,2,Munkegård,V_Jørgen_Tarris,Jørgen Tarris,"Venstre, Danmarks Liberale Parti",0
+Gentofte,2,Munkegård,V_Nils_Juhl_Andreasen,Nils Juhl Andreasen,"Venstre, Danmarks Liberale Parti",2
+Gentofte,2,Munkegård,V_Anders_Lautrup-Larsen,Anders Lautrup-Larsen,"Venstre, Danmarks Liberale Parti",2
+Gentofte,2,Munkegård,V_Alexander_Schneevoigt,Alexander Schneevoigt,"Venstre, Danmarks Liberale Parti",2
+Gentofte,2,Munkegård,V_Helle_Forland,Helle Forland,"Venstre, Danmarks Liberale Parti",2
+Gentofte,2,Munkegård,V_Morten_Munk_Ebbesen,Morten Munk Ebbesen,"Venstre, Danmarks Liberale Parti",0
+Gentofte,2,Munkegård,V_Kjeld_Danneskiold-Samsøe,Kjeld Danneskiold-Samsøe,"Venstre, Danmarks Liberale Parti",1
+Gentofte,2,Munkegård,Æ_Listestemmer,Listestemmer,Frihedslisten,3
+Gentofte,2,Munkegård,"Æ_Charlotte_Petersen,_Hellerup","Charlotte Petersen, Hellerup",Frihedslisten,4
+Gentofte,2,Munkegård,"Æ_Henrik_Vendelbo,_Gentofte","Henrik Vendelbo, Gentofte",Frihedslisten,4
+Gentofte,2,Munkegård,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,145
+Gentofte,2,Munkegård,Ø_Jeanne_Toxværd,Jeanne Toxværd,Enhedslisten - De Rød-Grønne,92
+Gentofte,2,Munkegård,Ø_Frederik_Dehlholm,Frederik Dehlholm,Enhedslisten - De Rød-Grønne,9
+Gentofte,2,Munkegård,Ø_Line_Traugott,Line Traugott,Enhedslisten - De Rød-Grønne,14
+Gentofte,2,Munkegård,Ø_Jørn_Fink,Jørn Fink,Enhedslisten - De Rød-Grønne,3
+Gentofte,2,Munkegård,Ø_Birthe_Bjerre,Birthe Bjerre,Enhedslisten - De Rød-Grønne,3
+Gentofte,2,Munkegård,Ø_Magne_Edvard_Pihl,Magne Edvard Pihl,Enhedslisten - De Rød-Grønne,0
+Gentofte,2,Munkegård,Ø_Tage_Christiansen,Tage Christiansen,Enhedslisten - De Rød-Grønne,1
+Gentofte,3,Rådhuset,A_Listestemmer,Listestemmer,Socialdemokratiet,112
+Gentofte,3,Rådhuset,A_Søren_Heisel,Søren Heisel,Socialdemokratiet,61
+Gentofte,3,Rådhuset,A_Anne_Hjorth,Anne Hjorth,Socialdemokratiet,46
+Gentofte,3,Rådhuset,A_Halima_El_Abassi,Halima El Abassi,Socialdemokratiet,51
+Gentofte,3,Rådhuset,A_Gitte_H._Terndrup,Gitte H. Terndrup,Socialdemokratiet,4
+Gentofte,3,Rådhuset,A_Kevin_Høj,Kevin Høj,Socialdemokratiet,0
+Gentofte,3,Rådhuset,A_Susan_Wiinblad,Susan Wiinblad,Socialdemokratiet,14
+Gentofte,3,Rådhuset,A_Lars_Bo_Winther,Lars Bo Winther,Socialdemokratiet,2
+Gentofte,3,Rådhuset,A_Thomas_Ellegaard,Thomas Ellegaard,Socialdemokratiet,4
+Gentofte,3,Rådhuset,B_Listestemmer,Listestemmer,Radikale Venstre,94
+Gentofte,3,Rådhuset,B_Kristine_Kryger,Kristine Kryger,Radikale Venstre,120
+Gentofte,3,Rådhuset,B_Ane_Palsberg,Ane Palsberg,Radikale Venstre,42
+Gentofte,3,Rådhuset,B_Marie_Brixtofte,Marie Brixtofte,Radikale Venstre,154
+Gentofte,3,Rådhuset,B_Anders_Hartzen,Anders Hartzen,Radikale Venstre,3
+Gentofte,3,Rådhuset,B_Kasper_Brejnholt_Bak,Kasper Brejnholt Bak,Radikale Venstre,15
+Gentofte,3,Rådhuset,B_Martin_Iversen,Martin Iversen,Radikale Venstre,5
+Gentofte,3,Rådhuset,B_Sven_Tovborg_Jensen,Sven Tovborg Jensen,Radikale Venstre,0
+Gentofte,3,Rådhuset,B_Else_Lindberg,Else Lindberg,Radikale Venstre,1
+Gentofte,3,Rådhuset,B_Carsten_Lassen,Carsten Lassen,Radikale Venstre,4
+Gentofte,3,Rådhuset,B_Melitta_Naegeli,Melitta Naegeli,Radikale Venstre,3
+Gentofte,3,Rådhuset,B_Anders_Jensen,Anders Jensen,Radikale Venstre,0
+Gentofte,3,Rådhuset,B_Morten_Ladefoged,Morten Ladefoged,Radikale Venstre,3
+Gentofte,3,Rådhuset,B_Ummy_Hamyar,Ummy Hamyar,Radikale Venstre,2
+Gentofte,3,Rådhuset,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,498
+Gentofte,3,Rådhuset,C_Michael_Fenger,Michael Fenger,Det Konservative Folkeparti,816
+Gentofte,3,Rådhuset,C_Pia_Nyring,Pia Nyring,Det Konservative Folkeparti,112
+Gentofte,3,Rådhuset,C_Andreas_Weidinger,Andreas Weidinger,Det Konservative Folkeparti,130
+Gentofte,3,Rådhuset,C_Katja_S._Johansen,Katja S. Johansen,Det Konservative Folkeparti,31
+Gentofte,3,Rådhuset,C_Jesper_Marcus,Jesper Marcus,Det Konservative Folkeparti,42
+Gentofte,3,Rådhuset,C_Karen_Riis_Kjølbye,Karen Riis Kjølbye,Det Konservative Folkeparti,25
+Gentofte,3,Rådhuset,C_Christian_Eppers,Christian Eppers,Det Konservative Folkeparti,34
+Gentofte,3,Rådhuset,C_Christina_Wex,Christina Wex,Det Konservative Folkeparti,136
+Gentofte,3,Rådhuset,C_Niels_Lund,Niels Lund,Det Konservative Folkeparti,41
+Gentofte,3,Rådhuset,C_Britta_Riis,Britta Riis,Det Konservative Folkeparti,49
+Gentofte,3,Rådhuset,C_Teit_Andersen,Teit Andersen,Det Konservative Folkeparti,50
+Gentofte,3,Rådhuset,C_Marianne_Bugge_Zederkof,Marianne Bugge Zederkof,Det Konservative Folkeparti,14
+Gentofte,3,Rådhuset,C_Stig_Wall,Stig Wall,Det Konservative Folkeparti,15
+Gentofte,3,Rådhuset,C_Per_Bruun_Andersen,Per Bruun Andersen,Det Konservative Folkeparti,38
+Gentofte,3,Rådhuset,C_Valdemar_H._Høiris,Valdemar H. Høiris,Det Konservative Folkeparti,29
+Gentofte,3,Rådhuset,C_Claus_Høegh-Guldberg,Claus Høegh-Guldberg,Det Konservative Folkeparti,16
+Gentofte,3,Rådhuset,C_Jesper_Kamp_Nielsen,Jesper Kamp Nielsen,Det Konservative Folkeparti,11
+Gentofte,3,Rådhuset,C_Malene_Brandt,Malene Brandt,Det Konservative Folkeparti,83
+Gentofte,3,Rådhuset,C_Anton_Brüniche-Olsen,Anton Brüniche-Olsen,Det Konservative Folkeparti,38
+Gentofte,3,Rådhuset,C_Ann_Sophie_Friis,Ann Sophie Friis,Det Konservative Folkeparti,18
+Gentofte,3,Rådhuset,C_Jonas_Parello-Plesner,Jonas Parello-Plesner,Det Konservative Folkeparti,39
+Gentofte,3,Rådhuset,C_Michala_Gale_Sehested,Michala Gale Sehested,Det Konservative Folkeparti,11
+Gentofte,3,Rådhuset,C_Charlotte_Libach,Charlotte Libach,Det Konservative Folkeparti,18
+Gentofte,3,Rådhuset,D_Listestemmer,Listestemmer,Nye Borgerlige,38
+Gentofte,3,Rådhuset,D_Thomas_S._Bentsen,Thomas S. Bentsen,Nye Borgerlige,35
+Gentofte,3,Rådhuset,D_Henrik_Engel_Elborough,Henrik Engel Elborough,Nye Borgerlige,7
+Gentofte,3,Rådhuset,D_Kenneth_K._Olsen,Kenneth K. Olsen,Nye Borgerlige,2
+Gentofte,3,Rådhuset,D_Ivan_Léon_Siehr,Ivan Léon Siehr,Nye Borgerlige,2
+Gentofte,3,Rådhuset,D_Flemming_Bækkeskov,Flemming Bækkeskov,Nye Borgerlige,8
+Gentofte,3,Rådhuset,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,88
+Gentofte,3,Rådhuset,F_Helene_Brochmann,Helene Brochmann,SF - Socialistisk Folkeparti,98
+Gentofte,3,Rådhuset,F_Jonas_Niemann,Jonas Niemann,SF - Socialistisk Folkeparti,29
+Gentofte,3,Rådhuset,F_John_Andersen,John Andersen,SF - Socialistisk Folkeparti,6
+Gentofte,3,Rådhuset,F_Dina_Wildt,Dina Wildt,SF - Socialistisk Folkeparti,11
+Gentofte,3,Rådhuset,F_Jens_Ahm,Jens Ahm,SF - Socialistisk Folkeparti,0
+Gentofte,3,Rådhuset,F_Lise_Müller,Lise Müller,SF - Socialistisk Folkeparti,43
+Gentofte,3,Rådhuset,F_Magnus_Morsing,Magnus Morsing,SF - Socialistisk Folkeparti,1
+Gentofte,3,Rådhuset,I_Listestemmer,Listestemmer,Liberal Alliance,29
+Gentofte,3,Rådhuset,I_Kasper_Heumann,Kasper Heumann,Liberal Alliance,21
+Gentofte,3,Rådhuset,I_Peter_Loft,Peter Loft,Liberal Alliance,42
+Gentofte,3,Rådhuset,I_Vibeke_Molise_Nibe,Vibeke Molise Nibe,Liberal Alliance,2
+Gentofte,3,Rådhuset,I_Simon_Karim_Helledie,Simon Karim Helledie,Liberal Alliance,9
+Gentofte,3,Rådhuset,I_Jonas_Søndergaard,Jonas Søndergaard,Liberal Alliance,9
+Gentofte,3,Rådhuset,K_Listestemmer,Listestemmer,Kristendemokraterne,3
+Gentofte,3,Rådhuset,K_Jesper_Lohse,Jesper Lohse,Kristendemokraterne,8
+Gentofte,3,Rådhuset,K_Søren_Harslund,Søren Harslund,Kristendemokraterne,2
+Gentofte,3,Rådhuset,O_Listestemmer,Listestemmer,Dansk Folkeparti,12
+Gentofte,3,Rådhuset,O_Rita_Rahbek,Rita Rahbek,Dansk Folkeparti,3
+Gentofte,3,Rådhuset,O_Theis_Bagge,Theis Bagge,Dansk Folkeparti,2
+Gentofte,3,Rådhuset,O_Niels_Ernbro,Niels Ernbro,Dansk Folkeparti,0
+Gentofte,3,Rådhuset,O_Sarah_Brøndum,Sarah Brøndum,Dansk Folkeparti,1
+Gentofte,3,Rådhuset,O_Annet_Soos,Annet Soos,Dansk Folkeparti,0
+Gentofte,3,Rådhuset,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",61
+Gentofte,3,Rådhuset,V_Morten_Løkkegaard,Morten Løkkegaard,"Venstre, Danmarks Liberale Parti",85
+Gentofte,3,Rådhuset,V_Søren_Stilling_Christensen,Søren Stilling Christensen,"Venstre, Danmarks Liberale Parti",1
+Gentofte,3,Rådhuset,V_Mads_Justsen,Mads Justsen,"Venstre, Danmarks Liberale Parti",17
+Gentofte,3,Rådhuset,V_Alexander_Kamp,Alexander Kamp,"Venstre, Danmarks Liberale Parti",5
+Gentofte,3,Rådhuset,V_Kirsten_Elvstrøm,Kirsten Elvstrøm,"Venstre, Danmarks Liberale Parti",11
+Gentofte,3,Rådhuset,V_Tine_Horwitz,Tine Horwitz,"Venstre, Danmarks Liberale Parti",1
+Gentofte,3,Rådhuset,V_Egil_Rindorf,Egil Rindorf,"Venstre, Danmarks Liberale Parti",0
+Gentofte,3,Rådhuset,V_Jesper_Holm,Jesper Holm,"Venstre, Danmarks Liberale Parti",0
+Gentofte,3,Rådhuset,V_Jørn_Holdt,Jørn Holdt,"Venstre, Danmarks Liberale Parti",0
+Gentofte,3,Rådhuset,V_Jørgen_Tarris,Jørgen Tarris,"Venstre, Danmarks Liberale Parti",2
+Gentofte,3,Rådhuset,V_Nils_Juhl_Andreasen,Nils Juhl Andreasen,"Venstre, Danmarks Liberale Parti",6
+Gentofte,3,Rådhuset,V_Anders_Lautrup-Larsen,Anders Lautrup-Larsen,"Venstre, Danmarks Liberale Parti",1
+Gentofte,3,Rådhuset,V_Alexander_Schneevoigt,Alexander Schneevoigt,"Venstre, Danmarks Liberale Parti",2
+Gentofte,3,Rådhuset,V_Helle_Forland,Helle Forland,"Venstre, Danmarks Liberale Parti",2
+Gentofte,3,Rådhuset,V_Morten_Munk_Ebbesen,Morten Munk Ebbesen,"Venstre, Danmarks Liberale Parti",1
+Gentofte,3,Rådhuset,V_Kjeld_Danneskiold-Samsøe,Kjeld Danneskiold-Samsøe,"Venstre, Danmarks Liberale Parti",0
+Gentofte,3,Rådhuset,Æ_Listestemmer,Listestemmer,Frihedslisten,1
+Gentofte,3,Rådhuset,"Æ_Charlotte_Petersen,_Hellerup","Charlotte Petersen, Hellerup",Frihedslisten,4
+Gentofte,3,Rådhuset,"Æ_Henrik_Vendelbo,_Gentofte","Henrik Vendelbo, Gentofte",Frihedslisten,3
+Gentofte,3,Rådhuset,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,69
+Gentofte,3,Rådhuset,Ø_Jeanne_Toxværd,Jeanne Toxværd,Enhedslisten - De Rød-Grønne,63
+Gentofte,3,Rådhuset,Ø_Frederik_Dehlholm,Frederik Dehlholm,Enhedslisten - De Rød-Grønne,9
+Gentofte,3,Rådhuset,Ø_Line_Traugott,Line Traugott,Enhedslisten - De Rød-Grønne,5
+Gentofte,3,Rådhuset,Ø_Jørn_Fink,Jørn Fink,Enhedslisten - De Rød-Grønne,5
+Gentofte,3,Rådhuset,Ø_Birthe_Bjerre,Birthe Bjerre,Enhedslisten - De Rød-Grønne,4
+Gentofte,3,Rådhuset,Ø_Magne_Edvard_Pihl,Magne Edvard Pihl,Enhedslisten - De Rød-Grønne,0
+Gentofte,3,Rådhuset,Ø_Tage_Christiansen,Tage Christiansen,Enhedslisten - De Rød-Grønne,0
+Gentofte,4,Bakkegård,A_Listestemmer,Listestemmer,Socialdemokratiet,178
+Gentofte,4,Bakkegård,A_Søren_Heisel,Søren Heisel,Socialdemokratiet,161
+Gentofte,4,Bakkegård,A_Anne_Hjorth,Anne Hjorth,Socialdemokratiet,65
+Gentofte,4,Bakkegård,A_Halima_El_Abassi,Halima El Abassi,Socialdemokratiet,50
+Gentofte,4,Bakkegård,A_Gitte_H._Terndrup,Gitte H. Terndrup,Socialdemokratiet,38
+Gentofte,4,Bakkegård,A_Kevin_Høj,Kevin Høj,Socialdemokratiet,7
+Gentofte,4,Bakkegård,A_Susan_Wiinblad,Susan Wiinblad,Socialdemokratiet,8
+Gentofte,4,Bakkegård,A_Lars_Bo_Winther,Lars Bo Winther,Socialdemokratiet,5
+Gentofte,4,Bakkegård,A_Thomas_Ellegaard,Thomas Ellegaard,Socialdemokratiet,9
+Gentofte,4,Bakkegård,B_Listestemmer,Listestemmer,Radikale Venstre,107
+Gentofte,4,Bakkegård,B_Kristine_Kryger,Kristine Kryger,Radikale Venstre,127
+Gentofte,4,Bakkegård,B_Ane_Palsberg,Ane Palsberg,Radikale Venstre,72
+Gentofte,4,Bakkegård,B_Marie_Brixtofte,Marie Brixtofte,Radikale Venstre,72
+Gentofte,4,Bakkegård,B_Anders_Hartzen,Anders Hartzen,Radikale Venstre,2
+Gentofte,4,Bakkegård,B_Kasper_Brejnholt_Bak,Kasper Brejnholt Bak,Radikale Venstre,18
+Gentofte,4,Bakkegård,B_Martin_Iversen,Martin Iversen,Radikale Venstre,4
+Gentofte,4,Bakkegård,B_Sven_Tovborg_Jensen,Sven Tovborg Jensen,Radikale Venstre,0
+Gentofte,4,Bakkegård,B_Else_Lindberg,Else Lindberg,Radikale Venstre,1
+Gentofte,4,Bakkegård,B_Carsten_Lassen,Carsten Lassen,Radikale Venstre,5
+Gentofte,4,Bakkegård,B_Melitta_Naegeli,Melitta Naegeli,Radikale Venstre,1
+Gentofte,4,Bakkegård,B_Anders_Jensen,Anders Jensen,Radikale Venstre,1
+Gentofte,4,Bakkegård,B_Morten_Ladefoged,Morten Ladefoged,Radikale Venstre,5
+Gentofte,4,Bakkegård,B_Ummy_Hamyar,Ummy Hamyar,Radikale Venstre,8
+Gentofte,4,Bakkegård,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,451
+Gentofte,4,Bakkegård,C_Michael_Fenger,Michael Fenger,Det Konservative Folkeparti,620
+Gentofte,4,Bakkegård,C_Pia_Nyring,Pia Nyring,Det Konservative Folkeparti,54
+Gentofte,4,Bakkegård,C_Andreas_Weidinger,Andreas Weidinger,Det Konservative Folkeparti,186
+Gentofte,4,Bakkegård,C_Katja_S._Johansen,Katja S. Johansen,Det Konservative Folkeparti,61
+Gentofte,4,Bakkegård,C_Jesper_Marcus,Jesper Marcus,Det Konservative Folkeparti,6
+Gentofte,4,Bakkegård,C_Karen_Riis_Kjølbye,Karen Riis Kjølbye,Det Konservative Folkeparti,12
+Gentofte,4,Bakkegård,C_Christian_Eppers,Christian Eppers,Det Konservative Folkeparti,33
+Gentofte,4,Bakkegård,C_Christina_Wex,Christina Wex,Det Konservative Folkeparti,56
+Gentofte,4,Bakkegård,C_Niels_Lund,Niels Lund,Det Konservative Folkeparti,14
+Gentofte,4,Bakkegård,C_Britta_Riis,Britta Riis,Det Konservative Folkeparti,22
+Gentofte,4,Bakkegård,C_Teit_Andersen,Teit Andersen,Det Konservative Folkeparti,42
+Gentofte,4,Bakkegård,C_Marianne_Bugge_Zederkof,Marianne Bugge Zederkof,Det Konservative Folkeparti,8
+Gentofte,4,Bakkegård,C_Stig_Wall,Stig Wall,Det Konservative Folkeparti,8
+Gentofte,4,Bakkegård,C_Per_Bruun_Andersen,Per Bruun Andersen,Det Konservative Folkeparti,14
+Gentofte,4,Bakkegård,C_Valdemar_H._Høiris,Valdemar H. Høiris,Det Konservative Folkeparti,14
+Gentofte,4,Bakkegård,C_Claus_Høegh-Guldberg,Claus Høegh-Guldberg,Det Konservative Folkeparti,5
+Gentofte,4,Bakkegård,C_Jesper_Kamp_Nielsen,Jesper Kamp Nielsen,Det Konservative Folkeparti,16
+Gentofte,4,Bakkegård,C_Malene_Brandt,Malene Brandt,Det Konservative Folkeparti,15
+Gentofte,4,Bakkegård,C_Anton_Brüniche-Olsen,Anton Brüniche-Olsen,Det Konservative Folkeparti,20
+Gentofte,4,Bakkegård,C_Ann_Sophie_Friis,Ann Sophie Friis,Det Konservative Folkeparti,8
+Gentofte,4,Bakkegård,C_Jonas_Parello-Plesner,Jonas Parello-Plesner,Det Konservative Folkeparti,18
+Gentofte,4,Bakkegård,C_Michala_Gale_Sehested,Michala Gale Sehested,Det Konservative Folkeparti,5
+Gentofte,4,Bakkegård,C_Charlotte_Libach,Charlotte Libach,Det Konservative Folkeparti,20
+Gentofte,4,Bakkegård,D_Listestemmer,Listestemmer,Nye Borgerlige,53
+Gentofte,4,Bakkegård,D_Thomas_S._Bentsen,Thomas S. Bentsen,Nye Borgerlige,26
+Gentofte,4,Bakkegård,D_Henrik_Engel_Elborough,Henrik Engel Elborough,Nye Borgerlige,5
+Gentofte,4,Bakkegård,D_Kenneth_K._Olsen,Kenneth K. Olsen,Nye Borgerlige,0
+Gentofte,4,Bakkegård,D_Ivan_Léon_Siehr,Ivan Léon Siehr,Nye Borgerlige,0
+Gentofte,4,Bakkegård,D_Flemming_Bækkeskov,Flemming Bækkeskov,Nye Borgerlige,5
+Gentofte,4,Bakkegård,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,93
+Gentofte,4,Bakkegård,F_Helene_Brochmann,Helene Brochmann,SF - Socialistisk Folkeparti,89
+Gentofte,4,Bakkegård,F_Jonas_Niemann,Jonas Niemann,SF - Socialistisk Folkeparti,31
+Gentofte,4,Bakkegård,F_John_Andersen,John Andersen,SF - Socialistisk Folkeparti,2
+Gentofte,4,Bakkegård,F_Dina_Wildt,Dina Wildt,SF - Socialistisk Folkeparti,10
+Gentofte,4,Bakkegård,F_Jens_Ahm,Jens Ahm,SF - Socialistisk Folkeparti,1
+Gentofte,4,Bakkegård,F_Lise_Müller,Lise Müller,SF - Socialistisk Folkeparti,40
+Gentofte,4,Bakkegård,F_Magnus_Morsing,Magnus Morsing,SF - Socialistisk Folkeparti,3
+Gentofte,4,Bakkegård,I_Listestemmer,Listestemmer,Liberal Alliance,19
+Gentofte,4,Bakkegård,I_Kasper_Heumann,Kasper Heumann,Liberal Alliance,10
+Gentofte,4,Bakkegård,I_Peter_Loft,Peter Loft,Liberal Alliance,19
+Gentofte,4,Bakkegård,I_Vibeke_Molise_Nibe,Vibeke Molise Nibe,Liberal Alliance,1
+Gentofte,4,Bakkegård,I_Simon_Karim_Helledie,Simon Karim Helledie,Liberal Alliance,3
+Gentofte,4,Bakkegård,I_Jonas_Søndergaard,Jonas Søndergaard,Liberal Alliance,3
+Gentofte,4,Bakkegård,K_Listestemmer,Listestemmer,Kristendemokraterne,6
+Gentofte,4,Bakkegård,K_Jesper_Lohse,Jesper Lohse,Kristendemokraterne,6
+Gentofte,4,Bakkegård,K_Søren_Harslund,Søren Harslund,Kristendemokraterne,1
+Gentofte,4,Bakkegård,O_Listestemmer,Listestemmer,Dansk Folkeparti,23
+Gentofte,4,Bakkegård,O_Rita_Rahbek,Rita Rahbek,Dansk Folkeparti,1
+Gentofte,4,Bakkegård,O_Theis_Bagge,Theis Bagge,Dansk Folkeparti,0
+Gentofte,4,Bakkegård,O_Niels_Ernbro,Niels Ernbro,Dansk Folkeparti,4
+Gentofte,4,Bakkegård,O_Sarah_Brøndum,Sarah Brøndum,Dansk Folkeparti,2
+Gentofte,4,Bakkegård,O_Annet_Soos,Annet Soos,Dansk Folkeparti,2
+Gentofte,4,Bakkegård,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",43
+Gentofte,4,Bakkegård,V_Morten_Løkkegaard,Morten Løkkegaard,"Venstre, Danmarks Liberale Parti",88
+Gentofte,4,Bakkegård,V_Søren_Stilling_Christensen,Søren Stilling Christensen,"Venstre, Danmarks Liberale Parti",4
+Gentofte,4,Bakkegård,V_Mads_Justsen,Mads Justsen,"Venstre, Danmarks Liberale Parti",12
+Gentofte,4,Bakkegård,V_Alexander_Kamp,Alexander Kamp,"Venstre, Danmarks Liberale Parti",6
+Gentofte,4,Bakkegård,V_Kirsten_Elvstrøm,Kirsten Elvstrøm,"Venstre, Danmarks Liberale Parti",7
+Gentofte,4,Bakkegård,V_Tine_Horwitz,Tine Horwitz,"Venstre, Danmarks Liberale Parti",1
+Gentofte,4,Bakkegård,V_Egil_Rindorf,Egil Rindorf,"Venstre, Danmarks Liberale Parti",8
+Gentofte,4,Bakkegård,V_Jesper_Holm,Jesper Holm,"Venstre, Danmarks Liberale Parti",1
+Gentofte,4,Bakkegård,V_Jørn_Holdt,Jørn Holdt,"Venstre, Danmarks Liberale Parti",3
+Gentofte,4,Bakkegård,V_Jørgen_Tarris,Jørgen Tarris,"Venstre, Danmarks Liberale Parti",0
+Gentofte,4,Bakkegård,V_Nils_Juhl_Andreasen,Nils Juhl Andreasen,"Venstre, Danmarks Liberale Parti",5
+Gentofte,4,Bakkegård,V_Anders_Lautrup-Larsen,Anders Lautrup-Larsen,"Venstre, Danmarks Liberale Parti",2
+Gentofte,4,Bakkegård,V_Alexander_Schneevoigt,Alexander Schneevoigt,"Venstre, Danmarks Liberale Parti",1
+Gentofte,4,Bakkegård,V_Helle_Forland,Helle Forland,"Venstre, Danmarks Liberale Parti",0
+Gentofte,4,Bakkegård,V_Morten_Munk_Ebbesen,Morten Munk Ebbesen,"Venstre, Danmarks Liberale Parti",3
+Gentofte,4,Bakkegård,V_Kjeld_Danneskiold-Samsøe,Kjeld Danneskiold-Samsøe,"Venstre, Danmarks Liberale Parti",2
+Gentofte,4,Bakkegård,Æ_Listestemmer,Listestemmer,Frihedslisten,6
+Gentofte,4,Bakkegård,"Æ_Charlotte_Petersen,_Hellerup","Charlotte Petersen, Hellerup",Frihedslisten,10
+Gentofte,4,Bakkegård,"Æ_Henrik_Vendelbo,_Gentofte","Henrik Vendelbo, Gentofte",Frihedslisten,7
+Gentofte,4,Bakkegård,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,103
+Gentofte,4,Bakkegård,Ø_Jeanne_Toxværd,Jeanne Toxværd,Enhedslisten - De Rød-Grønne,76
+Gentofte,4,Bakkegård,Ø_Frederik_Dehlholm,Frederik Dehlholm,Enhedslisten - De Rød-Grønne,5
+Gentofte,4,Bakkegård,Ø_Line_Traugott,Line Traugott,Enhedslisten - De Rød-Grønne,17
+Gentofte,4,Bakkegård,Ø_Jørn_Fink,Jørn Fink,Enhedslisten - De Rød-Grønne,6
+Gentofte,4,Bakkegård,Ø_Birthe_Bjerre,Birthe Bjerre,Enhedslisten - De Rød-Grønne,4
+Gentofte,4,Bakkegård,Ø_Magne_Edvard_Pihl,Magne Edvard Pihl,Enhedslisten - De Rød-Grønne,1
+Gentofte,4,Bakkegård,Ø_Tage_Christiansen,Tage Christiansen,Enhedslisten - De Rød-Grønne,2
+Gentofte,5,Dyssegård,A_Listestemmer,Listestemmer,Socialdemokratiet,99
+Gentofte,5,Dyssegård,A_Søren_Heisel,Søren Heisel,Socialdemokratiet,105
+Gentofte,5,Dyssegård,A_Anne_Hjorth,Anne Hjorth,Socialdemokratiet,58
+Gentofte,5,Dyssegård,A_Halima_El_Abassi,Halima El Abassi,Socialdemokratiet,29
+Gentofte,5,Dyssegård,A_Gitte_H._Terndrup,Gitte H. Terndrup,Socialdemokratiet,9
+Gentofte,5,Dyssegård,A_Kevin_Høj,Kevin Høj,Socialdemokratiet,11
+Gentofte,5,Dyssegård,A_Susan_Wiinblad,Susan Wiinblad,Socialdemokratiet,15
+Gentofte,5,Dyssegård,A_Lars_Bo_Winther,Lars Bo Winther,Socialdemokratiet,6
+Gentofte,5,Dyssegård,A_Thomas_Ellegaard,Thomas Ellegaard,Socialdemokratiet,3
+Gentofte,5,Dyssegård,B_Listestemmer,Listestemmer,Radikale Venstre,121
+Gentofte,5,Dyssegård,B_Kristine_Kryger,Kristine Kryger,Radikale Venstre,90
+Gentofte,5,Dyssegård,B_Ane_Palsberg,Ane Palsberg,Radikale Venstre,57
+Gentofte,5,Dyssegård,B_Marie_Brixtofte,Marie Brixtofte,Radikale Venstre,148
+Gentofte,5,Dyssegård,B_Anders_Hartzen,Anders Hartzen,Radikale Venstre,10
+Gentofte,5,Dyssegård,B_Kasper_Brejnholt_Bak,Kasper Brejnholt Bak,Radikale Venstre,21
+Gentofte,5,Dyssegård,B_Martin_Iversen,Martin Iversen,Radikale Venstre,1
+Gentofte,5,Dyssegård,B_Sven_Tovborg_Jensen,Sven Tovborg Jensen,Radikale Venstre,0
+Gentofte,5,Dyssegård,B_Else_Lindberg,Else Lindberg,Radikale Venstre,1
+Gentofte,5,Dyssegård,B_Carsten_Lassen,Carsten Lassen,Radikale Venstre,12
+Gentofte,5,Dyssegård,B_Melitta_Naegeli,Melitta Naegeli,Radikale Venstre,0
+Gentofte,5,Dyssegård,B_Anders_Jensen,Anders Jensen,Radikale Venstre,0
+Gentofte,5,Dyssegård,B_Morten_Ladefoged,Morten Ladefoged,Radikale Venstre,7
+Gentofte,5,Dyssegård,B_Ummy_Hamyar,Ummy Hamyar,Radikale Venstre,2
+Gentofte,5,Dyssegård,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,550
+Gentofte,5,Dyssegård,C_Michael_Fenger,Michael Fenger,Det Konservative Folkeparti,817
+Gentofte,5,Dyssegård,C_Pia_Nyring,Pia Nyring,Det Konservative Folkeparti,144
+Gentofte,5,Dyssegård,C_Andreas_Weidinger,Andreas Weidinger,Det Konservative Folkeparti,287
+Gentofte,5,Dyssegård,C_Katja_S._Johansen,Katja S. Johansen,Det Konservative Folkeparti,28
+Gentofte,5,Dyssegård,C_Jesper_Marcus,Jesper Marcus,Det Konservative Folkeparti,13
+Gentofte,5,Dyssegård,C_Karen_Riis_Kjølbye,Karen Riis Kjølbye,Det Konservative Folkeparti,8
+Gentofte,5,Dyssegård,C_Christian_Eppers,Christian Eppers,Det Konservative Folkeparti,17
+Gentofte,5,Dyssegård,C_Christina_Wex,Christina Wex,Det Konservative Folkeparti,76
+Gentofte,5,Dyssegård,C_Niels_Lund,Niels Lund,Det Konservative Folkeparti,12
+Gentofte,5,Dyssegård,C_Britta_Riis,Britta Riis,Det Konservative Folkeparti,19
+Gentofte,5,Dyssegård,C_Teit_Andersen,Teit Andersen,Det Konservative Folkeparti,34
+Gentofte,5,Dyssegård,C_Marianne_Bugge_Zederkof,Marianne Bugge Zederkof,Det Konservative Folkeparti,52
+Gentofte,5,Dyssegård,C_Stig_Wall,Stig Wall,Det Konservative Folkeparti,22
+Gentofte,5,Dyssegård,C_Per_Bruun_Andersen,Per Bruun Andersen,Det Konservative Folkeparti,19
+Gentofte,5,Dyssegård,C_Valdemar_H._Høiris,Valdemar H. Høiris,Det Konservative Folkeparti,27
+Gentofte,5,Dyssegård,C_Claus_Høegh-Guldberg,Claus Høegh-Guldberg,Det Konservative Folkeparti,9
+Gentofte,5,Dyssegård,C_Jesper_Kamp_Nielsen,Jesper Kamp Nielsen,Det Konservative Folkeparti,13
+Gentofte,5,Dyssegård,C_Malene_Brandt,Malene Brandt,Det Konservative Folkeparti,53
+Gentofte,5,Dyssegård,C_Anton_Brüniche-Olsen,Anton Brüniche-Olsen,Det Konservative Folkeparti,22
+Gentofte,5,Dyssegård,C_Ann_Sophie_Friis,Ann Sophie Friis,Det Konservative Folkeparti,16
+Gentofte,5,Dyssegård,C_Jonas_Parello-Plesner,Jonas Parello-Plesner,Det Konservative Folkeparti,19
+Gentofte,5,Dyssegård,C_Michala_Gale_Sehested,Michala Gale Sehested,Det Konservative Folkeparti,9
+Gentofte,5,Dyssegård,C_Charlotte_Libach,Charlotte Libach,Det Konservative Folkeparti,25
+Gentofte,5,Dyssegård,D_Listestemmer,Listestemmer,Nye Borgerlige,38
+Gentofte,5,Dyssegård,D_Thomas_S._Bentsen,Thomas S. Bentsen,Nye Borgerlige,27
+Gentofte,5,Dyssegård,D_Henrik_Engel_Elborough,Henrik Engel Elborough,Nye Borgerlige,5
+Gentofte,5,Dyssegård,D_Kenneth_K._Olsen,Kenneth K. Olsen,Nye Borgerlige,2
+Gentofte,5,Dyssegård,D_Ivan_Léon_Siehr,Ivan Léon Siehr,Nye Borgerlige,1
+Gentofte,5,Dyssegård,D_Flemming_Bækkeskov,Flemming Bækkeskov,Nye Borgerlige,5
+Gentofte,5,Dyssegård,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,107
+Gentofte,5,Dyssegård,F_Helene_Brochmann,Helene Brochmann,SF - Socialistisk Folkeparti,104
+Gentofte,5,Dyssegård,F_Jonas_Niemann,Jonas Niemann,SF - Socialistisk Folkeparti,35
+Gentofte,5,Dyssegård,F_John_Andersen,John Andersen,SF - Socialistisk Folkeparti,2
+Gentofte,5,Dyssegård,F_Dina_Wildt,Dina Wildt,SF - Socialistisk Folkeparti,16
+Gentofte,5,Dyssegård,F_Jens_Ahm,Jens Ahm,SF - Socialistisk Folkeparti,1
+Gentofte,5,Dyssegård,F_Lise_Müller,Lise Müller,SF - Socialistisk Folkeparti,51
+Gentofte,5,Dyssegård,F_Magnus_Morsing,Magnus Morsing,SF - Socialistisk Folkeparti,4
+Gentofte,5,Dyssegård,I_Listestemmer,Listestemmer,Liberal Alliance,28
+Gentofte,5,Dyssegård,I_Kasper_Heumann,Kasper Heumann,Liberal Alliance,13
+Gentofte,5,Dyssegård,I_Peter_Loft,Peter Loft,Liberal Alliance,25
+Gentofte,5,Dyssegård,I_Vibeke_Molise_Nibe,Vibeke Molise Nibe,Liberal Alliance,0
+Gentofte,5,Dyssegård,I_Simon_Karim_Helledie,Simon Karim Helledie,Liberal Alliance,5
+Gentofte,5,Dyssegård,I_Jonas_Søndergaard,Jonas Søndergaard,Liberal Alliance,6
+Gentofte,5,Dyssegård,K_Listestemmer,Listestemmer,Kristendemokraterne,2
+Gentofte,5,Dyssegård,K_Jesper_Lohse,Jesper Lohse,Kristendemokraterne,3
+Gentofte,5,Dyssegård,K_Søren_Harslund,Søren Harslund,Kristendemokraterne,1
+Gentofte,5,Dyssegård,O_Listestemmer,Listestemmer,Dansk Folkeparti,17
+Gentofte,5,Dyssegård,O_Rita_Rahbek,Rita Rahbek,Dansk Folkeparti,3
+Gentofte,5,Dyssegård,O_Theis_Bagge,Theis Bagge,Dansk Folkeparti,1
+Gentofte,5,Dyssegård,O_Niels_Ernbro,Niels Ernbro,Dansk Folkeparti,6
+Gentofte,5,Dyssegård,O_Sarah_Brøndum,Sarah Brøndum,Dansk Folkeparti,0
+Gentofte,5,Dyssegård,O_Annet_Soos,Annet Soos,Dansk Folkeparti,0
+Gentofte,5,Dyssegård,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",56
+Gentofte,5,Dyssegård,V_Morten_Løkkegaard,Morten Løkkegaard,"Venstre, Danmarks Liberale Parti",78
+Gentofte,5,Dyssegård,V_Søren_Stilling_Christensen,Søren Stilling Christensen,"Venstre, Danmarks Liberale Parti",4
+Gentofte,5,Dyssegård,V_Mads_Justsen,Mads Justsen,"Venstre, Danmarks Liberale Parti",13
+Gentofte,5,Dyssegård,V_Alexander_Kamp,Alexander Kamp,"Venstre, Danmarks Liberale Parti",9
+Gentofte,5,Dyssegård,V_Kirsten_Elvstrøm,Kirsten Elvstrøm,"Venstre, Danmarks Liberale Parti",13
+Gentofte,5,Dyssegård,V_Tine_Horwitz,Tine Horwitz,"Venstre, Danmarks Liberale Parti",7
+Gentofte,5,Dyssegård,V_Egil_Rindorf,Egil Rindorf,"Venstre, Danmarks Liberale Parti",0
+Gentofte,5,Dyssegård,V_Jesper_Holm,Jesper Holm,"Venstre, Danmarks Liberale Parti",2
+Gentofte,5,Dyssegård,V_Jørn_Holdt,Jørn Holdt,"Venstre, Danmarks Liberale Parti",0
+Gentofte,5,Dyssegård,V_Jørgen_Tarris,Jørgen Tarris,"Venstre, Danmarks Liberale Parti",1
+Gentofte,5,Dyssegård,V_Nils_Juhl_Andreasen,Nils Juhl Andreasen,"Venstre, Danmarks Liberale Parti",4
+Gentofte,5,Dyssegård,V_Anders_Lautrup-Larsen,Anders Lautrup-Larsen,"Venstre, Danmarks Liberale Parti",2
+Gentofte,5,Dyssegård,V_Alexander_Schneevoigt,Alexander Schneevoigt,"Venstre, Danmarks Liberale Parti",0
+Gentofte,5,Dyssegård,V_Helle_Forland,Helle Forland,"Venstre, Danmarks Liberale Parti",2
+Gentofte,5,Dyssegård,V_Morten_Munk_Ebbesen,Morten Munk Ebbesen,"Venstre, Danmarks Liberale Parti",3
+Gentofte,5,Dyssegård,V_Kjeld_Danneskiold-Samsøe,Kjeld Danneskiold-Samsøe,"Venstre, Danmarks Liberale Parti",2
+Gentofte,5,Dyssegård,Æ_Listestemmer,Listestemmer,Frihedslisten,2
+Gentofte,5,Dyssegård,"Æ_Charlotte_Petersen,_Hellerup","Charlotte Petersen, Hellerup",Frihedslisten,7
+Gentofte,5,Dyssegård,"Æ_Henrik_Vendelbo,_Gentofte","Henrik Vendelbo, Gentofte",Frihedslisten,0
+Gentofte,5,Dyssegård,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,101
+Gentofte,5,Dyssegård,Ø_Jeanne_Toxværd,Jeanne Toxværd,Enhedslisten - De Rød-Grønne,85
+Gentofte,5,Dyssegård,Ø_Frederik_Dehlholm,Frederik Dehlholm,Enhedslisten - De Rød-Grønne,9
+Gentofte,5,Dyssegård,Ø_Line_Traugott,Line Traugott,Enhedslisten - De Rød-Grønne,10
+Gentofte,5,Dyssegård,Ø_Jørn_Fink,Jørn Fink,Enhedslisten - De Rød-Grønne,6
+Gentofte,5,Dyssegård,Ø_Birthe_Bjerre,Birthe Bjerre,Enhedslisten - De Rød-Grønne,0
+Gentofte,5,Dyssegård,Ø_Magne_Edvard_Pihl,Magne Edvard Pihl,Enhedslisten - De Rød-Grønne,1
+Gentofte,5,Dyssegård,Ø_Tage_Christiansen,Tage Christiansen,Enhedslisten - De Rød-Grønne,4
+Gentofte,6,Maglegård,A_Listestemmer,Listestemmer,Socialdemokratiet,86
+Gentofte,6,Maglegård,A_Søren_Heisel,Søren Heisel,Socialdemokratiet,87
+Gentofte,6,Maglegård,A_Anne_Hjorth,Anne Hjorth,Socialdemokratiet,47
+Gentofte,6,Maglegård,A_Halima_El_Abassi,Halima El Abassi,Socialdemokratiet,33
+Gentofte,6,Maglegård,A_Gitte_H._Terndrup,Gitte H. Terndrup,Socialdemokratiet,7
+Gentofte,6,Maglegård,A_Kevin_Høj,Kevin Høj,Socialdemokratiet,3
+Gentofte,6,Maglegård,A_Susan_Wiinblad,Susan Wiinblad,Socialdemokratiet,5
+Gentofte,6,Maglegård,A_Lars_Bo_Winther,Lars Bo Winther,Socialdemokratiet,2
+Gentofte,6,Maglegård,A_Thomas_Ellegaard,Thomas Ellegaard,Socialdemokratiet,4
+Gentofte,6,Maglegård,B_Listestemmer,Listestemmer,Radikale Venstre,90
+Gentofte,6,Maglegård,B_Kristine_Kryger,Kristine Kryger,Radikale Venstre,82
+Gentofte,6,Maglegård,B_Ane_Palsberg,Ane Palsberg,Radikale Venstre,29
+Gentofte,6,Maglegård,B_Marie_Brixtofte,Marie Brixtofte,Radikale Venstre,316
+Gentofte,6,Maglegård,B_Anders_Hartzen,Anders Hartzen,Radikale Venstre,5
+Gentofte,6,Maglegård,B_Kasper_Brejnholt_Bak,Kasper Brejnholt Bak,Radikale Venstre,11
+Gentofte,6,Maglegård,B_Martin_Iversen,Martin Iversen,Radikale Venstre,4
+Gentofte,6,Maglegård,B_Sven_Tovborg_Jensen,Sven Tovborg Jensen,Radikale Venstre,3
+Gentofte,6,Maglegård,B_Else_Lindberg,Else Lindberg,Radikale Venstre,1
+Gentofte,6,Maglegård,B_Carsten_Lassen,Carsten Lassen,Radikale Venstre,2
+Gentofte,6,Maglegård,B_Melitta_Naegeli,Melitta Naegeli,Radikale Venstre,4
+Gentofte,6,Maglegård,B_Anders_Jensen,Anders Jensen,Radikale Venstre,0
+Gentofte,6,Maglegård,B_Morten_Ladefoged,Morten Ladefoged,Radikale Venstre,2
+Gentofte,6,Maglegård,B_Ummy_Hamyar,Ummy Hamyar,Radikale Venstre,1
+Gentofte,6,Maglegård,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,586
+Gentofte,6,Maglegård,C_Michael_Fenger,Michael Fenger,Det Konservative Folkeparti,1131
+Gentofte,6,Maglegård,C_Pia_Nyring,Pia Nyring,Det Konservative Folkeparti,177
+Gentofte,6,Maglegård,C_Andreas_Weidinger,Andreas Weidinger,Det Konservative Folkeparti,99
+Gentofte,6,Maglegård,C_Katja_S._Johansen,Katja S. Johansen,Det Konservative Folkeparti,26
+Gentofte,6,Maglegård,C_Jesper_Marcus,Jesper Marcus,Det Konservative Folkeparti,43
+Gentofte,6,Maglegård,C_Karen_Riis_Kjølbye,Karen Riis Kjølbye,Det Konservative Folkeparti,112
+Gentofte,6,Maglegård,C_Christian_Eppers,Christian Eppers,Det Konservative Folkeparti,24
+Gentofte,6,Maglegård,C_Christina_Wex,Christina Wex,Det Konservative Folkeparti,91
+Gentofte,6,Maglegård,C_Niels_Lund,Niels Lund,Det Konservative Folkeparti,12
+Gentofte,6,Maglegård,C_Britta_Riis,Britta Riis,Det Konservative Folkeparti,43
+Gentofte,6,Maglegård,C_Teit_Andersen,Teit Andersen,Det Konservative Folkeparti,44
+Gentofte,6,Maglegård,C_Marianne_Bugge_Zederkof,Marianne Bugge Zederkof,Det Konservative Folkeparti,16
+Gentofte,6,Maglegård,C_Stig_Wall,Stig Wall,Det Konservative Folkeparti,40
+Gentofte,6,Maglegård,C_Per_Bruun_Andersen,Per Bruun Andersen,Det Konservative Folkeparti,13
+Gentofte,6,Maglegård,C_Valdemar_H._Høiris,Valdemar H. Høiris,Det Konservative Folkeparti,33
+Gentofte,6,Maglegård,C_Claus_Høegh-Guldberg,Claus Høegh-Guldberg,Det Konservative Folkeparti,19
+Gentofte,6,Maglegård,C_Jesper_Kamp_Nielsen,Jesper Kamp Nielsen,Det Konservative Folkeparti,19
+Gentofte,6,Maglegård,C_Malene_Brandt,Malene Brandt,Det Konservative Folkeparti,38
+Gentofte,6,Maglegård,C_Anton_Brüniche-Olsen,Anton Brüniche-Olsen,Det Konservative Folkeparti,52
+Gentofte,6,Maglegård,C_Ann_Sophie_Friis,Ann Sophie Friis,Det Konservative Folkeparti,48
+Gentofte,6,Maglegård,C_Jonas_Parello-Plesner,Jonas Parello-Plesner,Det Konservative Folkeparti,16
+Gentofte,6,Maglegård,C_Michala_Gale_Sehested,Michala Gale Sehested,Det Konservative Folkeparti,13
+Gentofte,6,Maglegård,C_Charlotte_Libach,Charlotte Libach,Det Konservative Folkeparti,30
+Gentofte,6,Maglegård,D_Listestemmer,Listestemmer,Nye Borgerlige,51
+Gentofte,6,Maglegård,D_Thomas_S._Bentsen,Thomas S. Bentsen,Nye Borgerlige,28
+Gentofte,6,Maglegård,D_Henrik_Engel_Elborough,Henrik Engel Elborough,Nye Borgerlige,4
+Gentofte,6,Maglegård,D_Kenneth_K._Olsen,Kenneth K. Olsen,Nye Borgerlige,2
+Gentofte,6,Maglegård,D_Ivan_Léon_Siehr,Ivan Léon Siehr,Nye Borgerlige,0
+Gentofte,6,Maglegård,D_Flemming_Bækkeskov,Flemming Bækkeskov,Nye Borgerlige,6
+Gentofte,6,Maglegård,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,114
+Gentofte,6,Maglegård,F_Helene_Brochmann,Helene Brochmann,SF - Socialistisk Folkeparti,121
+Gentofte,6,Maglegård,F_Jonas_Niemann,Jonas Niemann,SF - Socialistisk Folkeparti,35
+Gentofte,6,Maglegård,F_John_Andersen,John Andersen,SF - Socialistisk Folkeparti,3
+Gentofte,6,Maglegård,F_Dina_Wildt,Dina Wildt,SF - Socialistisk Folkeparti,16
+Gentofte,6,Maglegård,F_Jens_Ahm,Jens Ahm,SF - Socialistisk Folkeparti,3
+Gentofte,6,Maglegård,F_Lise_Müller,Lise Müller,SF - Socialistisk Folkeparti,30
+Gentofte,6,Maglegård,F_Magnus_Morsing,Magnus Morsing,SF - Socialistisk Folkeparti,2
+Gentofte,6,Maglegård,I_Listestemmer,Listestemmer,Liberal Alliance,36
+Gentofte,6,Maglegård,I_Kasper_Heumann,Kasper Heumann,Liberal Alliance,25
+Gentofte,6,Maglegård,I_Peter_Loft,Peter Loft,Liberal Alliance,49
+Gentofte,6,Maglegård,I_Vibeke_Molise_Nibe,Vibeke Molise Nibe,Liberal Alliance,3
+Gentofte,6,Maglegård,I_Simon_Karim_Helledie,Simon Karim Helledie,Liberal Alliance,13
+Gentofte,6,Maglegård,I_Jonas_Søndergaard,Jonas Søndergaard,Liberal Alliance,3
+Gentofte,6,Maglegård,K_Listestemmer,Listestemmer,Kristendemokraterne,4
+Gentofte,6,Maglegård,K_Jesper_Lohse,Jesper Lohse,Kristendemokraterne,2
+Gentofte,6,Maglegård,K_Søren_Harslund,Søren Harslund,Kristendemokraterne,0
+Gentofte,6,Maglegård,O_Listestemmer,Listestemmer,Dansk Folkeparti,8
+Gentofte,6,Maglegård,O_Rita_Rahbek,Rita Rahbek,Dansk Folkeparti,7
+Gentofte,6,Maglegård,O_Theis_Bagge,Theis Bagge,Dansk Folkeparti,0
+Gentofte,6,Maglegård,O_Niels_Ernbro,Niels Ernbro,Dansk Folkeparti,3
+Gentofte,6,Maglegård,O_Sarah_Brøndum,Sarah Brøndum,Dansk Folkeparti,0
+Gentofte,6,Maglegård,O_Annet_Soos,Annet Soos,Dansk Folkeparti,1
+Gentofte,6,Maglegård,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",70
+Gentofte,6,Maglegård,V_Morten_Løkkegaard,Morten Løkkegaard,"Venstre, Danmarks Liberale Parti",128
+Gentofte,6,Maglegård,V_Søren_Stilling_Christensen,Søren Stilling Christensen,"Venstre, Danmarks Liberale Parti",3
+Gentofte,6,Maglegård,V_Mads_Justsen,Mads Justsen,"Venstre, Danmarks Liberale Parti",5
+Gentofte,6,Maglegård,V_Alexander_Kamp,Alexander Kamp,"Venstre, Danmarks Liberale Parti",9
+Gentofte,6,Maglegård,V_Kirsten_Elvstrøm,Kirsten Elvstrøm,"Venstre, Danmarks Liberale Parti",13
+Gentofte,6,Maglegård,V_Tine_Horwitz,Tine Horwitz,"Venstre, Danmarks Liberale Parti",5
+Gentofte,6,Maglegård,V_Egil_Rindorf,Egil Rindorf,"Venstre, Danmarks Liberale Parti",2
+Gentofte,6,Maglegård,V_Jesper_Holm,Jesper Holm,"Venstre, Danmarks Liberale Parti",1
+Gentofte,6,Maglegård,V_Jørn_Holdt,Jørn Holdt,"Venstre, Danmarks Liberale Parti",0
+Gentofte,6,Maglegård,V_Jørgen_Tarris,Jørgen Tarris,"Venstre, Danmarks Liberale Parti",1
+Gentofte,6,Maglegård,V_Nils_Juhl_Andreasen,Nils Juhl Andreasen,"Venstre, Danmarks Liberale Parti",3
+Gentofte,6,Maglegård,V_Anders_Lautrup-Larsen,Anders Lautrup-Larsen,"Venstre, Danmarks Liberale Parti",1
+Gentofte,6,Maglegård,V_Alexander_Schneevoigt,Alexander Schneevoigt,"Venstre, Danmarks Liberale Parti",1
+Gentofte,6,Maglegård,V_Helle_Forland,Helle Forland,"Venstre, Danmarks Liberale Parti",1
+Gentofte,6,Maglegård,V_Morten_Munk_Ebbesen,Morten Munk Ebbesen,"Venstre, Danmarks Liberale Parti",9
+Gentofte,6,Maglegård,V_Kjeld_Danneskiold-Samsøe,Kjeld Danneskiold-Samsøe,"Venstre, Danmarks Liberale Parti",1
+Gentofte,6,Maglegård,Æ_Listestemmer,Listestemmer,Frihedslisten,0
+Gentofte,6,Maglegård,"Æ_Charlotte_Petersen,_Hellerup","Charlotte Petersen, Hellerup",Frihedslisten,7
+Gentofte,6,Maglegård,"Æ_Henrik_Vendelbo,_Gentofte","Henrik Vendelbo, Gentofte",Frihedslisten,2
+Gentofte,6,Maglegård,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,99
+Gentofte,6,Maglegård,Ø_Jeanne_Toxværd,Jeanne Toxværd,Enhedslisten - De Rød-Grønne,95
+Gentofte,6,Maglegård,Ø_Frederik_Dehlholm,Frederik Dehlholm,Enhedslisten - De Rød-Grønne,4
+Gentofte,6,Maglegård,Ø_Line_Traugott,Line Traugott,Enhedslisten - De Rød-Grønne,12
+Gentofte,6,Maglegård,Ø_Jørn_Fink,Jørn Fink,Enhedslisten - De Rød-Grønne,1
+Gentofte,6,Maglegård,Ø_Birthe_Bjerre,Birthe Bjerre,Enhedslisten - De Rød-Grønne,0
+Gentofte,6,Maglegård,Ø_Magne_Edvard_Pihl,Magne Edvard Pihl,Enhedslisten - De Rød-Grønne,1
+Gentofte,6,Maglegård,Ø_Tage_Christiansen,Tage Christiansen,Enhedslisten - De Rød-Grønne,0
+Gentofte,7,Hellerup,A_Listestemmer,Listestemmer,Socialdemokratiet,139
+Gentofte,7,Hellerup,A_Søren_Heisel,Søren Heisel,Socialdemokratiet,77
+Gentofte,7,Hellerup,A_Anne_Hjorth,Anne Hjorth,Socialdemokratiet,67
+Gentofte,7,Hellerup,A_Halima_El_Abassi,Halima El Abassi,Socialdemokratiet,42
+Gentofte,7,Hellerup,A_Gitte_H._Terndrup,Gitte H. Terndrup,Socialdemokratiet,7
+Gentofte,7,Hellerup,A_Kevin_Høj,Kevin Høj,Socialdemokratiet,9
+Gentofte,7,Hellerup,A_Susan_Wiinblad,Susan Wiinblad,Socialdemokratiet,17
+Gentofte,7,Hellerup,A_Lars_Bo_Winther,Lars Bo Winther,Socialdemokratiet,2
+Gentofte,7,Hellerup,A_Thomas_Ellegaard,Thomas Ellegaard,Socialdemokratiet,2
+Gentofte,7,Hellerup,B_Listestemmer,Listestemmer,Radikale Venstre,121
+Gentofte,7,Hellerup,B_Kristine_Kryger,Kristine Kryger,Radikale Venstre,62
+Gentofte,7,Hellerup,B_Ane_Palsberg,Ane Palsberg,Radikale Venstre,35
+Gentofte,7,Hellerup,B_Marie_Brixtofte,Marie Brixtofte,Radikale Venstre,233
+Gentofte,7,Hellerup,B_Anders_Hartzen,Anders Hartzen,Radikale Venstre,5
+Gentofte,7,Hellerup,B_Kasper_Brejnholt_Bak,Kasper Brejnholt Bak,Radikale Venstre,16
+Gentofte,7,Hellerup,B_Martin_Iversen,Martin Iversen,Radikale Venstre,2
+Gentofte,7,Hellerup,B_Sven_Tovborg_Jensen,Sven Tovborg Jensen,Radikale Venstre,1
+Gentofte,7,Hellerup,B_Else_Lindberg,Else Lindberg,Radikale Venstre,3
+Gentofte,7,Hellerup,B_Carsten_Lassen,Carsten Lassen,Radikale Venstre,7
+Gentofte,7,Hellerup,B_Melitta_Naegeli,Melitta Naegeli,Radikale Venstre,1
+Gentofte,7,Hellerup,B_Anders_Jensen,Anders Jensen,Radikale Venstre,0
+Gentofte,7,Hellerup,B_Morten_Ladefoged,Morten Ladefoged,Radikale Venstre,7
+Gentofte,7,Hellerup,B_Ummy_Hamyar,Ummy Hamyar,Radikale Venstre,2
+Gentofte,7,Hellerup,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,672
+Gentofte,7,Hellerup,C_Michael_Fenger,Michael Fenger,Det Konservative Folkeparti,1131
+Gentofte,7,Hellerup,C_Pia_Nyring,Pia Nyring,Det Konservative Folkeparti,141
+Gentofte,7,Hellerup,C_Andreas_Weidinger,Andreas Weidinger,Det Konservative Folkeparti,130
+Gentofte,7,Hellerup,C_Katja_S._Johansen,Katja S. Johansen,Det Konservative Folkeparti,29
+Gentofte,7,Hellerup,C_Jesper_Marcus,Jesper Marcus,Det Konservative Folkeparti,29
+Gentofte,7,Hellerup,C_Karen_Riis_Kjølbye,Karen Riis Kjølbye,Det Konservative Folkeparti,46
+Gentofte,7,Hellerup,C_Christian_Eppers,Christian Eppers,Det Konservative Folkeparti,12
+Gentofte,7,Hellerup,C_Christina_Wex,Christina Wex,Det Konservative Folkeparti,66
+Gentofte,7,Hellerup,C_Niels_Lund,Niels Lund,Det Konservative Folkeparti,15
+Gentofte,7,Hellerup,C_Britta_Riis,Britta Riis,Det Konservative Folkeparti,28
+Gentofte,7,Hellerup,C_Teit_Andersen,Teit Andersen,Det Konservative Folkeparti,23
+Gentofte,7,Hellerup,C_Marianne_Bugge_Zederkof,Marianne Bugge Zederkof,Det Konservative Folkeparti,11
+Gentofte,7,Hellerup,C_Stig_Wall,Stig Wall,Det Konservative Folkeparti,41
+Gentofte,7,Hellerup,C_Per_Bruun_Andersen,Per Bruun Andersen,Det Konservative Folkeparti,16
+Gentofte,7,Hellerup,C_Valdemar_H._Høiris,Valdemar H. Høiris,Det Konservative Folkeparti,13
+Gentofte,7,Hellerup,C_Claus_Høegh-Guldberg,Claus Høegh-Guldberg,Det Konservative Folkeparti,17
+Gentofte,7,Hellerup,C_Jesper_Kamp_Nielsen,Jesper Kamp Nielsen,Det Konservative Folkeparti,41
+Gentofte,7,Hellerup,C_Malene_Brandt,Malene Brandt,Det Konservative Folkeparti,47
+Gentofte,7,Hellerup,C_Anton_Brüniche-Olsen,Anton Brüniche-Olsen,Det Konservative Folkeparti,27
+Gentofte,7,Hellerup,C_Ann_Sophie_Friis,Ann Sophie Friis,Det Konservative Folkeparti,25
+Gentofte,7,Hellerup,C_Jonas_Parello-Plesner,Jonas Parello-Plesner,Det Konservative Folkeparti,29
+Gentofte,7,Hellerup,C_Michala_Gale_Sehested,Michala Gale Sehested,Det Konservative Folkeparti,13
+Gentofte,7,Hellerup,C_Charlotte_Libach,Charlotte Libach,Det Konservative Folkeparti,34
+Gentofte,7,Hellerup,D_Listestemmer,Listestemmer,Nye Borgerlige,52
+Gentofte,7,Hellerup,D_Thomas_S._Bentsen,Thomas S. Bentsen,Nye Borgerlige,41
+Gentofte,7,Hellerup,D_Henrik_Engel_Elborough,Henrik Engel Elborough,Nye Borgerlige,10
+Gentofte,7,Hellerup,D_Kenneth_K._Olsen,Kenneth K. Olsen,Nye Borgerlige,2
+Gentofte,7,Hellerup,D_Ivan_Léon_Siehr,Ivan Léon Siehr,Nye Borgerlige,1
+Gentofte,7,Hellerup,D_Flemming_Bækkeskov,Flemming Bækkeskov,Nye Borgerlige,9
+Gentofte,7,Hellerup,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,114
+Gentofte,7,Hellerup,F_Helene_Brochmann,Helene Brochmann,SF - Socialistisk Folkeparti,138
+Gentofte,7,Hellerup,F_Jonas_Niemann,Jonas Niemann,SF - Socialistisk Folkeparti,31
+Gentofte,7,Hellerup,F_John_Andersen,John Andersen,SF - Socialistisk Folkeparti,8
+Gentofte,7,Hellerup,F_Dina_Wildt,Dina Wildt,SF - Socialistisk Folkeparti,14
+Gentofte,7,Hellerup,F_Jens_Ahm,Jens Ahm,SF - Socialistisk Folkeparti,1
+Gentofte,7,Hellerup,F_Lise_Müller,Lise Müller,SF - Socialistisk Folkeparti,49
+Gentofte,7,Hellerup,F_Magnus_Morsing,Magnus Morsing,SF - Socialistisk Folkeparti,3
+Gentofte,7,Hellerup,I_Listestemmer,Listestemmer,Liberal Alliance,43
+Gentofte,7,Hellerup,I_Kasper_Heumann,Kasper Heumann,Liberal Alliance,23
+Gentofte,7,Hellerup,I_Peter_Loft,Peter Loft,Liberal Alliance,43
+Gentofte,7,Hellerup,I_Vibeke_Molise_Nibe,Vibeke Molise Nibe,Liberal Alliance,5
+Gentofte,7,Hellerup,I_Simon_Karim_Helledie,Simon Karim Helledie,Liberal Alliance,11
+Gentofte,7,Hellerup,I_Jonas_Søndergaard,Jonas Søndergaard,Liberal Alliance,6
+Gentofte,7,Hellerup,K_Listestemmer,Listestemmer,Kristendemokraterne,11
+Gentofte,7,Hellerup,K_Jesper_Lohse,Jesper Lohse,Kristendemokraterne,9
+Gentofte,7,Hellerup,K_Søren_Harslund,Søren Harslund,Kristendemokraterne,2
+Gentofte,7,Hellerup,O_Listestemmer,Listestemmer,Dansk Folkeparti,17
+Gentofte,7,Hellerup,O_Rita_Rahbek,Rita Rahbek,Dansk Folkeparti,10
+Gentofte,7,Hellerup,O_Theis_Bagge,Theis Bagge,Dansk Folkeparti,1
+Gentofte,7,Hellerup,O_Niels_Ernbro,Niels Ernbro,Dansk Folkeparti,0
+Gentofte,7,Hellerup,O_Sarah_Brøndum,Sarah Brøndum,Dansk Folkeparti,0
+Gentofte,7,Hellerup,O_Annet_Soos,Annet Soos,Dansk Folkeparti,0
+Gentofte,7,Hellerup,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",96
+Gentofte,7,Hellerup,V_Morten_Løkkegaard,Morten Løkkegaard,"Venstre, Danmarks Liberale Parti",141
+Gentofte,7,Hellerup,V_Søren_Stilling_Christensen,Søren Stilling Christensen,"Venstre, Danmarks Liberale Parti",2
+Gentofte,7,Hellerup,V_Mads_Justsen,Mads Justsen,"Venstre, Danmarks Liberale Parti",9
+Gentofte,7,Hellerup,V_Alexander_Kamp,Alexander Kamp,"Venstre, Danmarks Liberale Parti",17
+Gentofte,7,Hellerup,V_Kirsten_Elvstrøm,Kirsten Elvstrøm,"Venstre, Danmarks Liberale Parti",9
+Gentofte,7,Hellerup,V_Tine_Horwitz,Tine Horwitz,"Venstre, Danmarks Liberale Parti",3
+Gentofte,7,Hellerup,V_Egil_Rindorf,Egil Rindorf,"Venstre, Danmarks Liberale Parti",3
+Gentofte,7,Hellerup,V_Jesper_Holm,Jesper Holm,"Venstre, Danmarks Liberale Parti",0
+Gentofte,7,Hellerup,V_Jørn_Holdt,Jørn Holdt,"Venstre, Danmarks Liberale Parti",0
+Gentofte,7,Hellerup,V_Jørgen_Tarris,Jørgen Tarris,"Venstre, Danmarks Liberale Parti",0
+Gentofte,7,Hellerup,V_Nils_Juhl_Andreasen,Nils Juhl Andreasen,"Venstre, Danmarks Liberale Parti",4
+Gentofte,7,Hellerup,V_Anders_Lautrup-Larsen,Anders Lautrup-Larsen,"Venstre, Danmarks Liberale Parti",2
+Gentofte,7,Hellerup,V_Alexander_Schneevoigt,Alexander Schneevoigt,"Venstre, Danmarks Liberale Parti",3
+Gentofte,7,Hellerup,V_Helle_Forland,Helle Forland,"Venstre, Danmarks Liberale Parti",0
+Gentofte,7,Hellerup,V_Morten_Munk_Ebbesen,Morten Munk Ebbesen,"Venstre, Danmarks Liberale Parti",4
+Gentofte,7,Hellerup,V_Kjeld_Danneskiold-Samsøe,Kjeld Danneskiold-Samsøe,"Venstre, Danmarks Liberale Parti",5
+Gentofte,7,Hellerup,Æ_Listestemmer,Listestemmer,Frihedslisten,12
+Gentofte,7,Hellerup,"Æ_Charlotte_Petersen,_Hellerup","Charlotte Petersen, Hellerup",Frihedslisten,0
+Gentofte,7,Hellerup,"Æ_Henrik_Vendelbo,_Gentofte","Henrik Vendelbo, Gentofte",Frihedslisten,0
+Gentofte,7,Hellerup,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,173
+Gentofte,7,Hellerup,Ø_Jeanne_Toxværd,Jeanne Toxværd,Enhedslisten - De Rød-Grønne,111
+Gentofte,7,Hellerup,Ø_Frederik_Dehlholm,Frederik Dehlholm,Enhedslisten - De Rød-Grønne,16
+Gentofte,7,Hellerup,Ø_Line_Traugott,Line Traugott,Enhedslisten - De Rød-Grønne,4
+Gentofte,7,Hellerup,Ø_Jørn_Fink,Jørn Fink,Enhedslisten - De Rød-Grønne,5
+Gentofte,7,Hellerup,Ø_Birthe_Bjerre,Birthe Bjerre,Enhedslisten - De Rød-Grønne,3
+Gentofte,7,Hellerup,Ø_Magne_Edvard_Pihl,Magne Edvard Pihl,Enhedslisten - De Rød-Grønne,1
+Gentofte,7,Hellerup,Ø_Tage_Christiansen,Tage Christiansen,Enhedslisten - De Rød-Grønne,1
+Gentofte,8,Ordrup,A_Listestemmer,Listestemmer,Socialdemokratiet,100
+Gentofte,8,Ordrup,A_Søren_Heisel,Søren Heisel,Socialdemokratiet,83
+Gentofte,8,Ordrup,A_Anne_Hjorth,Anne Hjorth,Socialdemokratiet,29
+Gentofte,8,Ordrup,A_Halima_El_Abassi,Halima El Abassi,Socialdemokratiet,38
+Gentofte,8,Ordrup,A_Gitte_H._Terndrup,Gitte H. Terndrup,Socialdemokratiet,6
+Gentofte,8,Ordrup,A_Kevin_Høj,Kevin Høj,Socialdemokratiet,2
+Gentofte,8,Ordrup,A_Susan_Wiinblad,Susan Wiinblad,Socialdemokratiet,25
+Gentofte,8,Ordrup,A_Lars_Bo_Winther,Lars Bo Winther,Socialdemokratiet,4
+Gentofte,8,Ordrup,A_Thomas_Ellegaard,Thomas Ellegaard,Socialdemokratiet,2
+Gentofte,8,Ordrup,B_Listestemmer,Listestemmer,Radikale Venstre,89
+Gentofte,8,Ordrup,B_Kristine_Kryger,Kristine Kryger,Radikale Venstre,56
+Gentofte,8,Ordrup,B_Ane_Palsberg,Ane Palsberg,Radikale Venstre,26
+Gentofte,8,Ordrup,B_Marie_Brixtofte,Marie Brixtofte,Radikale Venstre,120
+Gentofte,8,Ordrup,B_Anders_Hartzen,Anders Hartzen,Radikale Venstre,6
+Gentofte,8,Ordrup,B_Kasper_Brejnholt_Bak,Kasper Brejnholt Bak,Radikale Venstre,10
+Gentofte,8,Ordrup,B_Martin_Iversen,Martin Iversen,Radikale Venstre,1
+Gentofte,8,Ordrup,B_Sven_Tovborg_Jensen,Sven Tovborg Jensen,Radikale Venstre,0
+Gentofte,8,Ordrup,B_Else_Lindberg,Else Lindberg,Radikale Venstre,4
+Gentofte,8,Ordrup,B_Carsten_Lassen,Carsten Lassen,Radikale Venstre,2
+Gentofte,8,Ordrup,B_Melitta_Naegeli,Melitta Naegeli,Radikale Venstre,0
+Gentofte,8,Ordrup,B_Anders_Jensen,Anders Jensen,Radikale Venstre,3
+Gentofte,8,Ordrup,B_Morten_Ladefoged,Morten Ladefoged,Radikale Venstre,3
+Gentofte,8,Ordrup,B_Ummy_Hamyar,Ummy Hamyar,Radikale Venstre,1
+Gentofte,8,Ordrup,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,509
+Gentofte,8,Ordrup,C_Michael_Fenger,Michael Fenger,Det Konservative Folkeparti,883
+Gentofte,8,Ordrup,C_Pia_Nyring,Pia Nyring,Det Konservative Folkeparti,91
+Gentofte,8,Ordrup,C_Andreas_Weidinger,Andreas Weidinger,Det Konservative Folkeparti,113
+Gentofte,8,Ordrup,C_Katja_S._Johansen,Katja S. Johansen,Det Konservative Folkeparti,27
+Gentofte,8,Ordrup,C_Jesper_Marcus,Jesper Marcus,Det Konservative Folkeparti,56
+Gentofte,8,Ordrup,C_Karen_Riis_Kjølbye,Karen Riis Kjølbye,Det Konservative Folkeparti,30
+Gentofte,8,Ordrup,C_Christian_Eppers,Christian Eppers,Det Konservative Folkeparti,7
+Gentofte,8,Ordrup,C_Christina_Wex,Christina Wex,Det Konservative Folkeparti,50
+Gentofte,8,Ordrup,C_Niels_Lund,Niels Lund,Det Konservative Folkeparti,25
+Gentofte,8,Ordrup,C_Britta_Riis,Britta Riis,Det Konservative Folkeparti,35
+Gentofte,8,Ordrup,C_Teit_Andersen,Teit Andersen,Det Konservative Folkeparti,27
+Gentofte,8,Ordrup,C_Marianne_Bugge_Zederkof,Marianne Bugge Zederkof,Det Konservative Folkeparti,4
+Gentofte,8,Ordrup,C_Stig_Wall,Stig Wall,Det Konservative Folkeparti,55
+Gentofte,8,Ordrup,C_Per_Bruun_Andersen,Per Bruun Andersen,Det Konservative Folkeparti,13
+Gentofte,8,Ordrup,C_Valdemar_H._Høiris,Valdemar H. Høiris,Det Konservative Folkeparti,19
+Gentofte,8,Ordrup,C_Claus_Høegh-Guldberg,Claus Høegh-Guldberg,Det Konservative Folkeparti,18
+Gentofte,8,Ordrup,C_Jesper_Kamp_Nielsen,Jesper Kamp Nielsen,Det Konservative Folkeparti,15
+Gentofte,8,Ordrup,C_Malene_Brandt,Malene Brandt,Det Konservative Folkeparti,30
+Gentofte,8,Ordrup,C_Anton_Brüniche-Olsen,Anton Brüniche-Olsen,Det Konservative Folkeparti,25
+Gentofte,8,Ordrup,C_Ann_Sophie_Friis,Ann Sophie Friis,Det Konservative Folkeparti,16
+Gentofte,8,Ordrup,C_Jonas_Parello-Plesner,Jonas Parello-Plesner,Det Konservative Folkeparti,18
+Gentofte,8,Ordrup,C_Michala_Gale_Sehested,Michala Gale Sehested,Det Konservative Folkeparti,16
+Gentofte,8,Ordrup,C_Charlotte_Libach,Charlotte Libach,Det Konservative Folkeparti,17
+Gentofte,8,Ordrup,D_Listestemmer,Listestemmer,Nye Borgerlige,49
+Gentofte,8,Ordrup,D_Thomas_S._Bentsen,Thomas S. Bentsen,Nye Borgerlige,24
+Gentofte,8,Ordrup,D_Henrik_Engel_Elborough,Henrik Engel Elborough,Nye Borgerlige,2
+Gentofte,8,Ordrup,D_Kenneth_K._Olsen,Kenneth K. Olsen,Nye Borgerlige,5
+Gentofte,8,Ordrup,D_Ivan_Léon_Siehr,Ivan Léon Siehr,Nye Borgerlige,0
+Gentofte,8,Ordrup,D_Flemming_Bækkeskov,Flemming Bækkeskov,Nye Borgerlige,5
+Gentofte,8,Ordrup,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,77
+Gentofte,8,Ordrup,F_Helene_Brochmann,Helene Brochmann,SF - Socialistisk Folkeparti,67
+Gentofte,8,Ordrup,F_Jonas_Niemann,Jonas Niemann,SF - Socialistisk Folkeparti,16
+Gentofte,8,Ordrup,F_John_Andersen,John Andersen,SF - Socialistisk Folkeparti,1
+Gentofte,8,Ordrup,F_Dina_Wildt,Dina Wildt,SF - Socialistisk Folkeparti,7
+Gentofte,8,Ordrup,F_Jens_Ahm,Jens Ahm,SF - Socialistisk Folkeparti,1
+Gentofte,8,Ordrup,F_Lise_Müller,Lise Müller,SF - Socialistisk Folkeparti,29
+Gentofte,8,Ordrup,F_Magnus_Morsing,Magnus Morsing,SF - Socialistisk Folkeparti,2
+Gentofte,8,Ordrup,I_Listestemmer,Listestemmer,Liberal Alliance,69
+Gentofte,8,Ordrup,I_Kasper_Heumann,Kasper Heumann,Liberal Alliance,2
+Gentofte,8,Ordrup,I_Peter_Loft,Peter Loft,Liberal Alliance,4
+Gentofte,8,Ordrup,I_Vibeke_Molise_Nibe,Vibeke Molise Nibe,Liberal Alliance,1
+Gentofte,8,Ordrup,I_Simon_Karim_Helledie,Simon Karim Helledie,Liberal Alliance,1
+Gentofte,8,Ordrup,I_Jonas_Søndergaard,Jonas Søndergaard,Liberal Alliance,0
+Gentofte,8,Ordrup,K_Listestemmer,Listestemmer,Kristendemokraterne,1
+Gentofte,8,Ordrup,K_Jesper_Lohse,Jesper Lohse,Kristendemokraterne,6
+Gentofte,8,Ordrup,K_Søren_Harslund,Søren Harslund,Kristendemokraterne,0
+Gentofte,8,Ordrup,O_Listestemmer,Listestemmer,Dansk Folkeparti,13
+Gentofte,8,Ordrup,O_Rita_Rahbek,Rita Rahbek,Dansk Folkeparti,4
+Gentofte,8,Ordrup,O_Theis_Bagge,Theis Bagge,Dansk Folkeparti,2
+Gentofte,8,Ordrup,O_Niels_Ernbro,Niels Ernbro,Dansk Folkeparti,0
+Gentofte,8,Ordrup,O_Sarah_Brøndum,Sarah Brøndum,Dansk Folkeparti,0
+Gentofte,8,Ordrup,O_Annet_Soos,Annet Soos,Dansk Folkeparti,0
+Gentofte,8,Ordrup,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",46
+Gentofte,8,Ordrup,V_Morten_Løkkegaard,Morten Løkkegaard,"Venstre, Danmarks Liberale Parti",112
+Gentofte,8,Ordrup,V_Søren_Stilling_Christensen,Søren Stilling Christensen,"Venstre, Danmarks Liberale Parti",0
+Gentofte,8,Ordrup,V_Mads_Justsen,Mads Justsen,"Venstre, Danmarks Liberale Parti",13
+Gentofte,8,Ordrup,V_Alexander_Kamp,Alexander Kamp,"Venstre, Danmarks Liberale Parti",6
+Gentofte,8,Ordrup,V_Kirsten_Elvstrøm,Kirsten Elvstrøm,"Venstre, Danmarks Liberale Parti",7
+Gentofte,8,Ordrup,V_Tine_Horwitz,Tine Horwitz,"Venstre, Danmarks Liberale Parti",4
+Gentofte,8,Ordrup,V_Egil_Rindorf,Egil Rindorf,"Venstre, Danmarks Liberale Parti",1
+Gentofte,8,Ordrup,V_Jesper_Holm,Jesper Holm,"Venstre, Danmarks Liberale Parti",1
+Gentofte,8,Ordrup,V_Jørn_Holdt,Jørn Holdt,"Venstre, Danmarks Liberale Parti",0
+Gentofte,8,Ordrup,V_Jørgen_Tarris,Jørgen Tarris,"Venstre, Danmarks Liberale Parti",0
+Gentofte,8,Ordrup,V_Nils_Juhl_Andreasen,Nils Juhl Andreasen,"Venstre, Danmarks Liberale Parti",4
+Gentofte,8,Ordrup,V_Anders_Lautrup-Larsen,Anders Lautrup-Larsen,"Venstre, Danmarks Liberale Parti",9
+Gentofte,8,Ordrup,V_Alexander_Schneevoigt,Alexander Schneevoigt,"Venstre, Danmarks Liberale Parti",9
+Gentofte,8,Ordrup,V_Helle_Forland,Helle Forland,"Venstre, Danmarks Liberale Parti",4
+Gentofte,8,Ordrup,V_Morten_Munk_Ebbesen,Morten Munk Ebbesen,"Venstre, Danmarks Liberale Parti",1
+Gentofte,8,Ordrup,V_Kjeld_Danneskiold-Samsøe,Kjeld Danneskiold-Samsøe,"Venstre, Danmarks Liberale Parti",1
+Gentofte,8,Ordrup,Æ_Listestemmer,Listestemmer,Frihedslisten,4
+Gentofte,8,Ordrup,"Æ_Charlotte_Petersen,_Hellerup","Charlotte Petersen, Hellerup",Frihedslisten,12
+Gentofte,8,Ordrup,"Æ_Henrik_Vendelbo,_Gentofte","Henrik Vendelbo, Gentofte",Frihedslisten,3
+Gentofte,8,Ordrup,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,84
+Gentofte,8,Ordrup,Ø_Jeanne_Toxværd,Jeanne Toxværd,Enhedslisten - De Rød-Grønne,73
+Gentofte,8,Ordrup,Ø_Frederik_Dehlholm,Frederik Dehlholm,Enhedslisten - De Rød-Grønne,5
+Gentofte,8,Ordrup,Ø_Line_Traugott,Line Traugott,Enhedslisten - De Rød-Grønne,7
+Gentofte,8,Ordrup,Ø_Jørn_Fink,Jørn Fink,Enhedslisten - De Rød-Grønne,5
+Gentofte,8,Ordrup,Ø_Birthe_Bjerre,Birthe Bjerre,Enhedslisten - De Rød-Grønne,4
+Gentofte,8,Ordrup,Ø_Magne_Edvard_Pihl,Magne Edvard Pihl,Enhedslisten - De Rød-Grønne,0
+Gentofte,8,Ordrup,Ø_Tage_Christiansen,Tage Christiansen,Enhedslisten - De Rød-Grønne,3
+Gentofte,9,Skovshoved,A_Listestemmer,Listestemmer,Socialdemokratiet,92
+Gentofte,9,Skovshoved,A_Søren_Heisel,Søren Heisel,Socialdemokratiet,45
+Gentofte,9,Skovshoved,A_Anne_Hjorth,Anne Hjorth,Socialdemokratiet,34
+Gentofte,9,Skovshoved,A_Halima_El_Abassi,Halima El Abassi,Socialdemokratiet,29
+Gentofte,9,Skovshoved,A_Gitte_H._Terndrup,Gitte H. Terndrup,Socialdemokratiet,5
+Gentofte,9,Skovshoved,A_Kevin_Høj,Kevin Høj,Socialdemokratiet,3
+Gentofte,9,Skovshoved,A_Susan_Wiinblad,Susan Wiinblad,Socialdemokratiet,19
+Gentofte,9,Skovshoved,A_Lars_Bo_Winther,Lars Bo Winther,Socialdemokratiet,0
+Gentofte,9,Skovshoved,A_Thomas_Ellegaard,Thomas Ellegaard,Socialdemokratiet,3
+Gentofte,9,Skovshoved,B_Listestemmer,Listestemmer,Radikale Venstre,96
+Gentofte,9,Skovshoved,B_Kristine_Kryger,Kristine Kryger,Radikale Venstre,81
+Gentofte,9,Skovshoved,B_Ane_Palsberg,Ane Palsberg,Radikale Venstre,20
+Gentofte,9,Skovshoved,B_Marie_Brixtofte,Marie Brixtofte,Radikale Venstre,145
+Gentofte,9,Skovshoved,B_Anders_Hartzen,Anders Hartzen,Radikale Venstre,1
+Gentofte,9,Skovshoved,B_Kasper_Brejnholt_Bak,Kasper Brejnholt Bak,Radikale Venstre,18
+Gentofte,9,Skovshoved,B_Martin_Iversen,Martin Iversen,Radikale Venstre,0
+Gentofte,9,Skovshoved,B_Sven_Tovborg_Jensen,Sven Tovborg Jensen,Radikale Venstre,0
+Gentofte,9,Skovshoved,B_Else_Lindberg,Else Lindberg,Radikale Venstre,2
+Gentofte,9,Skovshoved,B_Carsten_Lassen,Carsten Lassen,Radikale Venstre,6
+Gentofte,9,Skovshoved,B_Melitta_Naegeli,Melitta Naegeli,Radikale Venstre,3
+Gentofte,9,Skovshoved,B_Anders_Jensen,Anders Jensen,Radikale Venstre,0
+Gentofte,9,Skovshoved,B_Morten_Ladefoged,Morten Ladefoged,Radikale Venstre,3
+Gentofte,9,Skovshoved,B_Ummy_Hamyar,Ummy Hamyar,Radikale Venstre,9
+Gentofte,9,Skovshoved,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,553
+Gentofte,9,Skovshoved,C_Michael_Fenger,Michael Fenger,Det Konservative Folkeparti,1000
+Gentofte,9,Skovshoved,C_Pia_Nyring,Pia Nyring,Det Konservative Folkeparti,154
+Gentofte,9,Skovshoved,C_Andreas_Weidinger,Andreas Weidinger,Det Konservative Folkeparti,477
+Gentofte,9,Skovshoved,C_Katja_S._Johansen,Katja S. Johansen,Det Konservative Folkeparti,13
+Gentofte,9,Skovshoved,C_Jesper_Marcus,Jesper Marcus,Det Konservative Folkeparti,38
+Gentofte,9,Skovshoved,C_Karen_Riis_Kjølbye,Karen Riis Kjølbye,Det Konservative Folkeparti,41
+Gentofte,9,Skovshoved,C_Christian_Eppers,Christian Eppers,Det Konservative Folkeparti,8
+Gentofte,9,Skovshoved,C_Christina_Wex,Christina Wex,Det Konservative Folkeparti,46
+Gentofte,9,Skovshoved,C_Niels_Lund,Niels Lund,Det Konservative Folkeparti,10
+Gentofte,9,Skovshoved,C_Britta_Riis,Britta Riis,Det Konservative Folkeparti,28
+Gentofte,9,Skovshoved,C_Teit_Andersen,Teit Andersen,Det Konservative Folkeparti,30
+Gentofte,9,Skovshoved,C_Marianne_Bugge_Zederkof,Marianne Bugge Zederkof,Det Konservative Folkeparti,12
+Gentofte,9,Skovshoved,C_Stig_Wall,Stig Wall,Det Konservative Folkeparti,39
+Gentofte,9,Skovshoved,C_Per_Bruun_Andersen,Per Bruun Andersen,Det Konservative Folkeparti,10
+Gentofte,9,Skovshoved,C_Valdemar_H._Høiris,Valdemar H. Høiris,Det Konservative Folkeparti,19
+Gentofte,9,Skovshoved,C_Claus_Høegh-Guldberg,Claus Høegh-Guldberg,Det Konservative Folkeparti,17
+Gentofte,9,Skovshoved,C_Jesper_Kamp_Nielsen,Jesper Kamp Nielsen,Det Konservative Folkeparti,13
+Gentofte,9,Skovshoved,C_Malene_Brandt,Malene Brandt,Det Konservative Folkeparti,28
+Gentofte,9,Skovshoved,C_Anton_Brüniche-Olsen,Anton Brüniche-Olsen,Det Konservative Folkeparti,21
+Gentofte,9,Skovshoved,C_Ann_Sophie_Friis,Ann Sophie Friis,Det Konservative Folkeparti,22
+Gentofte,9,Skovshoved,C_Jonas_Parello-Plesner,Jonas Parello-Plesner,Det Konservative Folkeparti,14
+Gentofte,9,Skovshoved,C_Michala_Gale_Sehested,Michala Gale Sehested,Det Konservative Folkeparti,39
+Gentofte,9,Skovshoved,C_Charlotte_Libach,Charlotte Libach,Det Konservative Folkeparti,13
+Gentofte,9,Skovshoved,D_Listestemmer,Listestemmer,Nye Borgerlige,46
+Gentofte,9,Skovshoved,D_Thomas_S._Bentsen,Thomas S. Bentsen,Nye Borgerlige,29
+Gentofte,9,Skovshoved,D_Henrik_Engel_Elborough,Henrik Engel Elborough,Nye Borgerlige,6
+Gentofte,9,Skovshoved,D_Kenneth_K._Olsen,Kenneth K. Olsen,Nye Borgerlige,0
+Gentofte,9,Skovshoved,D_Ivan_Léon_Siehr,Ivan Léon Siehr,Nye Borgerlige,2
+Gentofte,9,Skovshoved,D_Flemming_Bækkeskov,Flemming Bækkeskov,Nye Borgerlige,3
+Gentofte,9,Skovshoved,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,67
+Gentofte,9,Skovshoved,F_Helene_Brochmann,Helene Brochmann,SF - Socialistisk Folkeparti,62
+Gentofte,9,Skovshoved,F_Jonas_Niemann,Jonas Niemann,SF - Socialistisk Folkeparti,22
+Gentofte,9,Skovshoved,F_John_Andersen,John Andersen,SF - Socialistisk Folkeparti,1
+Gentofte,9,Skovshoved,F_Dina_Wildt,Dina Wildt,SF - Socialistisk Folkeparti,9
+Gentofte,9,Skovshoved,F_Jens_Ahm,Jens Ahm,SF - Socialistisk Folkeparti,0
+Gentofte,9,Skovshoved,F_Lise_Müller,Lise Müller,SF - Socialistisk Folkeparti,25
+Gentofte,9,Skovshoved,F_Magnus_Morsing,Magnus Morsing,SF - Socialistisk Folkeparti,0
+Gentofte,9,Skovshoved,I_Listestemmer,Listestemmer,Liberal Alliance,39
+Gentofte,9,Skovshoved,I_Kasper_Heumann,Kasper Heumann,Liberal Alliance,28
+Gentofte,9,Skovshoved,I_Peter_Loft,Peter Loft,Liberal Alliance,51
+Gentofte,9,Skovshoved,I_Vibeke_Molise_Nibe,Vibeke Molise Nibe,Liberal Alliance,6
+Gentofte,9,Skovshoved,I_Simon_Karim_Helledie,Simon Karim Helledie,Liberal Alliance,3
+Gentofte,9,Skovshoved,I_Jonas_Søndergaard,Jonas Søndergaard,Liberal Alliance,7
+Gentofte,9,Skovshoved,K_Listestemmer,Listestemmer,Kristendemokraterne,4
+Gentofte,9,Skovshoved,K_Jesper_Lohse,Jesper Lohse,Kristendemokraterne,7
+Gentofte,9,Skovshoved,K_Søren_Harslund,Søren Harslund,Kristendemokraterne,0
+Gentofte,9,Skovshoved,O_Listestemmer,Listestemmer,Dansk Folkeparti,10
+Gentofte,9,Skovshoved,O_Rita_Rahbek,Rita Rahbek,Dansk Folkeparti,5
+Gentofte,9,Skovshoved,O_Theis_Bagge,Theis Bagge,Dansk Folkeparti,2
+Gentofte,9,Skovshoved,O_Niels_Ernbro,Niels Ernbro,Dansk Folkeparti,1
+Gentofte,9,Skovshoved,O_Sarah_Brøndum,Sarah Brøndum,Dansk Folkeparti,2
+Gentofte,9,Skovshoved,O_Annet_Soos,Annet Soos,Dansk Folkeparti,0
+Gentofte,9,Skovshoved,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",71
+Gentofte,9,Skovshoved,V_Morten_Løkkegaard,Morten Løkkegaard,"Venstre, Danmarks Liberale Parti",125
+Gentofte,9,Skovshoved,V_Søren_Stilling_Christensen,Søren Stilling Christensen,"Venstre, Danmarks Liberale Parti",7
+Gentofte,9,Skovshoved,V_Mads_Justsen,Mads Justsen,"Venstre, Danmarks Liberale Parti",13
+Gentofte,9,Skovshoved,V_Alexander_Kamp,Alexander Kamp,"Venstre, Danmarks Liberale Parti",5
+Gentofte,9,Skovshoved,V_Kirsten_Elvstrøm,Kirsten Elvstrøm,"Venstre, Danmarks Liberale Parti",11
+Gentofte,9,Skovshoved,V_Tine_Horwitz,Tine Horwitz,"Venstre, Danmarks Liberale Parti",12
+Gentofte,9,Skovshoved,V_Egil_Rindorf,Egil Rindorf,"Venstre, Danmarks Liberale Parti",0
+Gentofte,9,Skovshoved,V_Jesper_Holm,Jesper Holm,"Venstre, Danmarks Liberale Parti",1
+Gentofte,9,Skovshoved,V_Jørn_Holdt,Jørn Holdt,"Venstre, Danmarks Liberale Parti",0
+Gentofte,9,Skovshoved,V_Jørgen_Tarris,Jørgen Tarris,"Venstre, Danmarks Liberale Parti",0
+Gentofte,9,Skovshoved,V_Nils_Juhl_Andreasen,Nils Juhl Andreasen,"Venstre, Danmarks Liberale Parti",4
+Gentofte,9,Skovshoved,V_Anders_Lautrup-Larsen,Anders Lautrup-Larsen,"Venstre, Danmarks Liberale Parti",1
+Gentofte,9,Skovshoved,V_Alexander_Schneevoigt,Alexander Schneevoigt,"Venstre, Danmarks Liberale Parti",3
+Gentofte,9,Skovshoved,V_Helle_Forland,Helle Forland,"Venstre, Danmarks Liberale Parti",0
+Gentofte,9,Skovshoved,V_Morten_Munk_Ebbesen,Morten Munk Ebbesen,"Venstre, Danmarks Liberale Parti",0
+Gentofte,9,Skovshoved,V_Kjeld_Danneskiold-Samsøe,Kjeld Danneskiold-Samsøe,"Venstre, Danmarks Liberale Parti",6
+Gentofte,9,Skovshoved,Æ_Listestemmer,Listestemmer,Frihedslisten,3
+Gentofte,9,Skovshoved,"Æ_Charlotte_Petersen,_Hellerup","Charlotte Petersen, Hellerup",Frihedslisten,5
+Gentofte,9,Skovshoved,"Æ_Henrik_Vendelbo,_Gentofte","Henrik Vendelbo, Gentofte",Frihedslisten,1
+Gentofte,9,Skovshoved,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,77
+Gentofte,9,Skovshoved,Ø_Jeanne_Toxværd,Jeanne Toxværd,Enhedslisten - De Rød-Grønne,80
+Gentofte,9,Skovshoved,Ø_Frederik_Dehlholm,Frederik Dehlholm,Enhedslisten - De Rød-Grønne,10
+Gentofte,9,Skovshoved,Ø_Line_Traugott,Line Traugott,Enhedslisten - De Rød-Grønne,6
+Gentofte,9,Skovshoved,Ø_Jørn_Fink,Jørn Fink,Enhedslisten - De Rød-Grønne,2
+Gentofte,9,Skovshoved,Ø_Birthe_Bjerre,Birthe Bjerre,Enhedslisten - De Rød-Grønne,4
+Gentofte,9,Skovshoved,Ø_Magne_Edvard_Pihl,Magne Edvard Pihl,Enhedslisten - De Rød-Grønne,0
+Gentofte,9,Skovshoved,Ø_Tage_Christiansen,Tage Christiansen,Enhedslisten - De Rød-Grønne,2
+Gentofte,10,Skovgård,A_Listestemmer,Listestemmer,Socialdemokratiet,81
+Gentofte,10,Skovgård,A_Søren_Heisel,Søren Heisel,Socialdemokratiet,57
+Gentofte,10,Skovgård,A_Anne_Hjorth,Anne Hjorth,Socialdemokratiet,41
+Gentofte,10,Skovgård,A_Halima_El_Abassi,Halima El Abassi,Socialdemokratiet,25
+Gentofte,10,Skovgård,A_Gitte_H._Terndrup,Gitte H. Terndrup,Socialdemokratiet,4
+Gentofte,10,Skovgård,A_Kevin_Høj,Kevin Høj,Socialdemokratiet,1
+Gentofte,10,Skovgård,A_Susan_Wiinblad,Susan Wiinblad,Socialdemokratiet,23
+Gentofte,10,Skovgård,A_Lars_Bo_Winther,Lars Bo Winther,Socialdemokratiet,4
+Gentofte,10,Skovgård,A_Thomas_Ellegaard,Thomas Ellegaard,Socialdemokratiet,2
+Gentofte,10,Skovgård,B_Listestemmer,Listestemmer,Radikale Venstre,78
+Gentofte,10,Skovgård,B_Kristine_Kryger,Kristine Kryger,Radikale Venstre,57
+Gentofte,10,Skovgård,B_Ane_Palsberg,Ane Palsberg,Radikale Venstre,22
+Gentofte,10,Skovgård,B_Marie_Brixtofte,Marie Brixtofte,Radikale Venstre,107
+Gentofte,10,Skovgård,B_Anders_Hartzen,Anders Hartzen,Radikale Venstre,2
+Gentofte,10,Skovgård,B_Kasper_Brejnholt_Bak,Kasper Brejnholt Bak,Radikale Venstre,9
+Gentofte,10,Skovgård,B_Martin_Iversen,Martin Iversen,Radikale Venstre,0
+Gentofte,10,Skovgård,B_Sven_Tovborg_Jensen,Sven Tovborg Jensen,Radikale Venstre,3
+Gentofte,10,Skovgård,B_Else_Lindberg,Else Lindberg,Radikale Venstre,4
+Gentofte,10,Skovgård,B_Carsten_Lassen,Carsten Lassen,Radikale Venstre,2
+Gentofte,10,Skovgård,B_Melitta_Naegeli,Melitta Naegeli,Radikale Venstre,1
+Gentofte,10,Skovgård,B_Anders_Jensen,Anders Jensen,Radikale Venstre,0
+Gentofte,10,Skovgård,B_Morten_Ladefoged,Morten Ladefoged,Radikale Venstre,7
+Gentofte,10,Skovgård,B_Ummy_Hamyar,Ummy Hamyar,Radikale Venstre,4
+Gentofte,10,Skovgård,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,557
+Gentofte,10,Skovgård,C_Michael_Fenger,Michael Fenger,Det Konservative Folkeparti,902
+Gentofte,10,Skovgård,C_Pia_Nyring,Pia Nyring,Det Konservative Folkeparti,92
+Gentofte,10,Skovgård,C_Andreas_Weidinger,Andreas Weidinger,Det Konservative Folkeparti,169
+Gentofte,10,Skovgård,C_Katja_S._Johansen,Katja S. Johansen,Det Konservative Folkeparti,31
+Gentofte,10,Skovgård,C_Jesper_Marcus,Jesper Marcus,Det Konservative Folkeparti,28
+Gentofte,10,Skovgård,C_Karen_Riis_Kjølbye,Karen Riis Kjølbye,Det Konservative Folkeparti,38
+Gentofte,10,Skovgård,C_Christian_Eppers,Christian Eppers,Det Konservative Folkeparti,13
+Gentofte,10,Skovgård,C_Christina_Wex,Christina Wex,Det Konservative Folkeparti,31
+Gentofte,10,Skovgård,C_Niels_Lund,Niels Lund,Det Konservative Folkeparti,16
+Gentofte,10,Skovgård,C_Britta_Riis,Britta Riis,Det Konservative Folkeparti,44
+Gentofte,10,Skovgård,C_Teit_Andersen,Teit Andersen,Det Konservative Folkeparti,26
+Gentofte,10,Skovgård,C_Marianne_Bugge_Zederkof,Marianne Bugge Zederkof,Det Konservative Folkeparti,20
+Gentofte,10,Skovgård,C_Stig_Wall,Stig Wall,Det Konservative Folkeparti,82
+Gentofte,10,Skovgård,C_Per_Bruun_Andersen,Per Bruun Andersen,Det Konservative Folkeparti,6
+Gentofte,10,Skovgård,C_Valdemar_H._Høiris,Valdemar H. Høiris,Det Konservative Folkeparti,11
+Gentofte,10,Skovgård,C_Claus_Høegh-Guldberg,Claus Høegh-Guldberg,Det Konservative Folkeparti,8
+Gentofte,10,Skovgård,C_Jesper_Kamp_Nielsen,Jesper Kamp Nielsen,Det Konservative Folkeparti,9
+Gentofte,10,Skovgård,C_Malene_Brandt,Malene Brandt,Det Konservative Folkeparti,14
+Gentofte,10,Skovgård,C_Anton_Brüniche-Olsen,Anton Brüniche-Olsen,Det Konservative Folkeparti,25
+Gentofte,10,Skovgård,C_Ann_Sophie_Friis,Ann Sophie Friis,Det Konservative Folkeparti,21
+Gentofte,10,Skovgård,C_Jonas_Parello-Plesner,Jonas Parello-Plesner,Det Konservative Folkeparti,11
+Gentofte,10,Skovgård,C_Michala_Gale_Sehested,Michala Gale Sehested,Det Konservative Folkeparti,29
+Gentofte,10,Skovgård,C_Charlotte_Libach,Charlotte Libach,Det Konservative Folkeparti,9
+Gentofte,10,Skovgård,D_Listestemmer,Listestemmer,Nye Borgerlige,40
+Gentofte,10,Skovgård,D_Thomas_S._Bentsen,Thomas S. Bentsen,Nye Borgerlige,23
+Gentofte,10,Skovgård,D_Henrik_Engel_Elborough,Henrik Engel Elborough,Nye Borgerlige,4
+Gentofte,10,Skovgård,D_Kenneth_K._Olsen,Kenneth K. Olsen,Nye Borgerlige,1
+Gentofte,10,Skovgård,D_Ivan_Léon_Siehr,Ivan Léon Siehr,Nye Borgerlige,1
+Gentofte,10,Skovgård,D_Flemming_Bækkeskov,Flemming Bækkeskov,Nye Borgerlige,8
+Gentofte,10,Skovgård,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,74
+Gentofte,10,Skovgård,F_Helene_Brochmann,Helene Brochmann,SF - Socialistisk Folkeparti,67
+Gentofte,10,Skovgård,F_Jonas_Niemann,Jonas Niemann,SF - Socialistisk Folkeparti,14
+Gentofte,10,Skovgård,F_John_Andersen,John Andersen,SF - Socialistisk Folkeparti,2
+Gentofte,10,Skovgård,F_Dina_Wildt,Dina Wildt,SF - Socialistisk Folkeparti,8
+Gentofte,10,Skovgård,F_Jens_Ahm,Jens Ahm,SF - Socialistisk Folkeparti,1
+Gentofte,10,Skovgård,F_Lise_Müller,Lise Müller,SF - Socialistisk Folkeparti,37
+Gentofte,10,Skovgård,F_Magnus_Morsing,Magnus Morsing,SF - Socialistisk Folkeparti,4
+Gentofte,10,Skovgård,I_Listestemmer,Listestemmer,Liberal Alliance,30
+Gentofte,10,Skovgård,I_Kasper_Heumann,Kasper Heumann,Liberal Alliance,14
+Gentofte,10,Skovgård,I_Peter_Loft,Peter Loft,Liberal Alliance,49
+Gentofte,10,Skovgård,I_Vibeke_Molise_Nibe,Vibeke Molise Nibe,Liberal Alliance,3
+Gentofte,10,Skovgård,I_Simon_Karim_Helledie,Simon Karim Helledie,Liberal Alliance,5
+Gentofte,10,Skovgård,I_Jonas_Søndergaard,Jonas Søndergaard,Liberal Alliance,7
+Gentofte,10,Skovgård,K_Listestemmer,Listestemmer,Kristendemokraterne,4
+Gentofte,10,Skovgård,K_Jesper_Lohse,Jesper Lohse,Kristendemokraterne,3
+Gentofte,10,Skovgård,K_Søren_Harslund,Søren Harslund,Kristendemokraterne,0
+Gentofte,10,Skovgård,O_Listestemmer,Listestemmer,Dansk Folkeparti,14
+Gentofte,10,Skovgård,O_Rita_Rahbek,Rita Rahbek,Dansk Folkeparti,6
+Gentofte,10,Skovgård,O_Theis_Bagge,Theis Bagge,Dansk Folkeparti,1
+Gentofte,10,Skovgård,O_Niels_Ernbro,Niels Ernbro,Dansk Folkeparti,0
+Gentofte,10,Skovgård,O_Sarah_Brøndum,Sarah Brøndum,Dansk Folkeparti,1
+Gentofte,10,Skovgård,O_Annet_Soos,Annet Soos,Dansk Folkeparti,0
+Gentofte,10,Skovgård,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",64
+Gentofte,10,Skovgård,V_Morten_Løkkegaard,Morten Løkkegaard,"Venstre, Danmarks Liberale Parti",122
+Gentofte,10,Skovgård,V_Søren_Stilling_Christensen,Søren Stilling Christensen,"Venstre, Danmarks Liberale Parti",2
+Gentofte,10,Skovgård,V_Mads_Justsen,Mads Justsen,"Venstre, Danmarks Liberale Parti",19
+Gentofte,10,Skovgård,V_Alexander_Kamp,Alexander Kamp,"Venstre, Danmarks Liberale Parti",3
+Gentofte,10,Skovgård,V_Kirsten_Elvstrøm,Kirsten Elvstrøm,"Venstre, Danmarks Liberale Parti",13
+Gentofte,10,Skovgård,V_Tine_Horwitz,Tine Horwitz,"Venstre, Danmarks Liberale Parti",5
+Gentofte,10,Skovgård,V_Egil_Rindorf,Egil Rindorf,"Venstre, Danmarks Liberale Parti",2
+Gentofte,10,Skovgård,V_Jesper_Holm,Jesper Holm,"Venstre, Danmarks Liberale Parti",0
+Gentofte,10,Skovgård,V_Jørn_Holdt,Jørn Holdt,"Venstre, Danmarks Liberale Parti",0
+Gentofte,10,Skovgård,V_Jørgen_Tarris,Jørgen Tarris,"Venstre, Danmarks Liberale Parti",1
+Gentofte,10,Skovgård,V_Nils_Juhl_Andreasen,Nils Juhl Andreasen,"Venstre, Danmarks Liberale Parti",7
+Gentofte,10,Skovgård,V_Anders_Lautrup-Larsen,Anders Lautrup-Larsen,"Venstre, Danmarks Liberale Parti",5
+Gentofte,10,Skovgård,V_Alexander_Schneevoigt,Alexander Schneevoigt,"Venstre, Danmarks Liberale Parti",3
+Gentofte,10,Skovgård,V_Helle_Forland,Helle Forland,"Venstre, Danmarks Liberale Parti",0
+Gentofte,10,Skovgård,V_Morten_Munk_Ebbesen,Morten Munk Ebbesen,"Venstre, Danmarks Liberale Parti",2
+Gentofte,10,Skovgård,V_Kjeld_Danneskiold-Samsøe,Kjeld Danneskiold-Samsøe,"Venstre, Danmarks Liberale Parti",2
+Gentofte,10,Skovgård,Æ_Listestemmer,Listestemmer,Frihedslisten,5
+Gentofte,10,Skovgård,"Æ_Charlotte_Petersen,_Hellerup","Charlotte Petersen, Hellerup",Frihedslisten,7
+Gentofte,10,Skovgård,"Æ_Henrik_Vendelbo,_Gentofte","Henrik Vendelbo, Gentofte",Frihedslisten,0
+Gentofte,10,Skovgård,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,86
+Gentofte,10,Skovgård,Ø_Jeanne_Toxværd,Jeanne Toxværd,Enhedslisten - De Rød-Grønne,62
+Gentofte,10,Skovgård,Ø_Frederik_Dehlholm,Frederik Dehlholm,Enhedslisten - De Rød-Grønne,9
+Gentofte,10,Skovgård,Ø_Line_Traugott,Line Traugott,Enhedslisten - De Rød-Grønne,3
+Gentofte,10,Skovgård,Ø_Jørn_Fink,Jørn Fink,Enhedslisten - De Rød-Grønne,3
+Gentofte,10,Skovgård,Ø_Birthe_Bjerre,Birthe Bjerre,Enhedslisten - De Rød-Grønne,2
+Gentofte,10,Skovgård,Ø_Magne_Edvard_Pihl,Magne Edvard Pihl,Enhedslisten - De Rød-Grønne,1
+Gentofte,10,Skovgård,Ø_Tage_Christiansen,Tage Christiansen,Enhedslisten - De Rød-Grønne,1

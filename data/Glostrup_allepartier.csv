@@ -1,0 +1,619 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Glostrup,1,"Glostrup Skole, Nordvang",A_Listestemmer,Listestemmer,Socialdemokratiet,167
+Glostrup,1,"Glostrup Skole, Nordvang",A_Kasper_Damsgaard,Kasper Damsgaard,Socialdemokratiet,249
+Glostrup,1,"Glostrup Skole, Nordvang",A_Søren_Enemark,Søren Enemark,Socialdemokratiet,24
+Glostrup,1,"Glostrup Skole, Nordvang",A_Annette_Normind_Thomsen,Annette Normind Thomsen,Socialdemokratiet,11
+Glostrup,1,"Glostrup Skole, Nordvang",A_Camilla_Christensen,Camilla Christensen,Socialdemokratiet,31
+Glostrup,1,"Glostrup Skole, Nordvang",A_Torben_Jensen,Torben Jensen,Socialdemokratiet,1
+Glostrup,1,"Glostrup Skole, Nordvang",A_Ulrik_Løvstrøm_Nielsen,Ulrik Løvstrøm Nielsen,Socialdemokratiet,14
+Glostrup,1,"Glostrup Skole, Nordvang",A_Helle_Bager_Nielsen,Helle Bager Nielsen,Socialdemokratiet,30
+Glostrup,1,"Glostrup Skole, Nordvang",A_Lisa_Ward,Lisa Ward,Socialdemokratiet,16
+Glostrup,1,"Glostrup Skole, Nordvang",A_Morten_Bybjerg_Nygaard,Morten Bybjerg Nygaard,Socialdemokratiet,5
+Glostrup,1,"Glostrup Skole, Nordvang",A_Waqar_Ahmed,Waqar Ahmed,Socialdemokratiet,18
+Glostrup,1,"Glostrup Skole, Nordvang",A_Gitte_Wallin_Limkilde,Gitte Wallin Limkilde,Socialdemokratiet,8
+Glostrup,1,"Glostrup Skole, Nordvang",A_Allan_Larsen,Allan Larsen,Socialdemokratiet,19
+Glostrup,1,"Glostrup Skole, Nordvang",A_Jesper_Weidick,Jesper Weidick,Socialdemokratiet,1
+Glostrup,1,"Glostrup Skole, Nordvang",A_Anne_Tinghus,Anne Tinghus,Socialdemokratiet,5
+Glostrup,1,"Glostrup Skole, Nordvang",B_Listestemmer,Listestemmer,Radikale Venstre,26
+Glostrup,1,"Glostrup Skole, Nordvang",B_Emilie_Sloth,Emilie Sloth,Radikale Venstre,42
+Glostrup,1,"Glostrup Skole, Nordvang",B_Mikkel_Bay,Mikkel Bay,Radikale Venstre,2
+Glostrup,1,"Glostrup Skole, Nordvang",B_Nicolai_Ringkjær_Skafte,Nicolai Ringkjær Skafte,Radikale Venstre,16
+Glostrup,1,"Glostrup Skole, Nordvang",B_Pia_Bach,Pia Bach,Radikale Venstre,4
+Glostrup,1,"Glostrup Skole, Nordvang",B_Thomas_Skov_Andersen,Thomas Skov Andersen,Radikale Venstre,3
+Glostrup,1,"Glostrup Skole, Nordvang",B_Lise_Sustmann_Allen,Lise Sustmann Allen,Radikale Venstre,6
+Glostrup,1,"Glostrup Skole, Nordvang",B_Juliette_Forneris,Juliette Forneris,Radikale Venstre,4
+Glostrup,1,"Glostrup Skole, Nordvang",B_Bent_Filstrup,Bent Filstrup,Radikale Venstre,2
+Glostrup,1,"Glostrup Skole, Nordvang",B_Jørgen_Boelskov,Jørgen Boelskov,Radikale Venstre,3
+Glostrup,1,"Glostrup Skole, Nordvang",C_Listestemmer,Listestemmer,Det Konservative Folkeparti,67
+Glostrup,1,"Glostrup Skole, Nordvang",C_Dan_Kornbek_Christiansen,Dan Kornbek Christiansen,Det Konservative Folkeparti,54
+Glostrup,1,"Glostrup Skole, Nordvang",C_Vicky_Schumann,Vicky Schumann,Det Konservative Folkeparti,30
+Glostrup,1,"Glostrup Skole, Nordvang",C_Jesper_Gerding_Kirchner,Jesper Gerding Kirchner,Det Konservative Folkeparti,18
+Glostrup,1,"Glostrup Skole, Nordvang",C_Christian_Ebbesen,Christian Ebbesen,Det Konservative Folkeparti,20
+Glostrup,1,"Glostrup Skole, Nordvang",C_Lars_Bennike,Lars Bennike,Det Konservative Folkeparti,11
+Glostrup,1,"Glostrup Skole, Nordvang",C_Morten_Hansen,Morten Hansen,Det Konservative Folkeparti,0
+Glostrup,1,"Glostrup Skole, Nordvang",C_Poul_Hermann,Poul Hermann,Det Konservative Folkeparti,2
+Glostrup,1,"Glostrup Skole, Nordvang",C_Steffen_Schlægelberger,Steffen Schlægelberger,Det Konservative Folkeparti,2
+Glostrup,1,"Glostrup Skole, Nordvang",C_Gitte_Pladsbjerg_Schnoor,Gitte Pladsbjerg Schnoor,Det Konservative Folkeparti,1
+Glostrup,1,"Glostrup Skole, Nordvang",C_Thue_Agger_Svaneberg,Thue Agger Svaneberg,Det Konservative Folkeparti,2
+Glostrup,1,"Glostrup Skole, Nordvang",C_Martin_Aa._Rosenkrantz,Martin Aa. Rosenkrantz,Det Konservative Folkeparti,15
+Glostrup,1,"Glostrup Skole, Nordvang",D_Listestemmer,Listestemmer,Nye Borgerlige,23
+Glostrup,1,"Glostrup Skole, Nordvang",D_Tonny_Madsen,Tonny Madsen,Nye Borgerlige,12
+Glostrup,1,"Glostrup Skole, Nordvang",F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,27
+Glostrup,1,"Glostrup Skole, Nordvang",F_Henrik_Lund,Henrik Lund,SF - Socialistisk Folkeparti,33
+Glostrup,1,"Glostrup Skole, Nordvang",F_Lennart_Larsen_Lindberg,Lennart Larsen Lindberg,SF - Socialistisk Folkeparti,3
+Glostrup,1,"Glostrup Skole, Nordvang",F_Jens_Erik_Larsen,Jens Erik Larsen,SF - Socialistisk Folkeparti,2
+Glostrup,1,"Glostrup Skole, Nordvang",F_Mogens_Mathiesen,Mogens Mathiesen,SF - Socialistisk Folkeparti,12
+Glostrup,1,"Glostrup Skole, Nordvang",F_Palle_Laustrup,Palle Laustrup,SF - Socialistisk Folkeparti,2
+Glostrup,1,"Glostrup Skole, Nordvang",F_Mads_Hareskov_Jørgensen,Mads Hareskov Jørgensen,SF - Socialistisk Folkeparti,3
+Glostrup,1,"Glostrup Skole, Nordvang",I_Listestemmer,Listestemmer,Liberal Alliance,9
+Glostrup,1,"Glostrup Skole, Nordvang",I_Marlene_Frandsen,Marlene Frandsen,Liberal Alliance,19
+Glostrup,1,"Glostrup Skole, Nordvang",L_Listestemmer,Listestemmer,Glostrup Borgerliste,6
+Glostrup,1,"Glostrup Skole, Nordvang",L_Flemming_Ørhem,Flemming Ørhem,Glostrup Borgerliste,25
+Glostrup,1,"Glostrup Skole, Nordvang",L_Pia_Hagbarth_Dahlin,Pia Hagbarth Dahlin,Glostrup Borgerliste,5
+Glostrup,1,"Glostrup Skole, Nordvang",L_Nia_Hagbarth_Juel,Nia Hagbarth Juel,Glostrup Borgerliste,6
+Glostrup,1,"Glostrup Skole, Nordvang",L_Frederik_Frydendal-Oesten,Frederik Frydendal-Oesten,Glostrup Borgerliste,0
+Glostrup,1,"Glostrup Skole, Nordvang",L_Pia_Christoffersen,Pia Christoffersen,Glostrup Borgerliste,0
+Glostrup,1,"Glostrup Skole, Nordvang",L_Ib_Clasen,Ib Clasen,Glostrup Borgerliste,0
+Glostrup,1,"Glostrup Skole, Nordvang",L_Carsten_Engholm,Carsten Engholm,Glostrup Borgerliste,0
+Glostrup,1,"Glostrup Skole, Nordvang",O_Listestemmer,Listestemmer,Dansk Folkeparti,24
+Glostrup,1,"Glostrup Skole, Nordvang",O_Peder_Kähler,Peder Kähler,Dansk Folkeparti,13
+Glostrup,1,"Glostrup Skole, Nordvang",O_Ann_Spetzler,Ann Spetzler,Dansk Folkeparti,10
+Glostrup,1,"Glostrup Skole, Nordvang",O_Henning_Christensen,Henning Christensen,Dansk Folkeparti,1
+Glostrup,1,"Glostrup Skole, Nordvang",O_Jan_Hvidkjær,Jan Hvidkjær,Dansk Folkeparti,1
+Glostrup,1,"Glostrup Skole, Nordvang",O_Jane_Jacobsen,Jane Jacobsen,Dansk Folkeparti,2
+Glostrup,1,"Glostrup Skole, Nordvang",U_Listestemmer,Listestemmer,Bylisten,12
+Glostrup,1,"Glostrup Skole, Nordvang",U_Lars_Thomsen,Lars Thomsen,Bylisten,52
+Glostrup,1,"Glostrup Skole, Nordvang",U_Kirstine_Bjarnt,Kirstine Bjarnt,Bylisten,5
+Glostrup,1,"Glostrup Skole, Nordvang",U_Per_Froholdt,Per Froholdt,Bylisten,1
+Glostrup,1,"Glostrup Skole, Nordvang",U_Ditte_Sieling_Emanuel,Ditte Sieling Emanuel,Bylisten,7
+Glostrup,1,"Glostrup Skole, Nordvang",U_Jonas_Madsen,Jonas Madsen,Bylisten,0
+Glostrup,1,"Glostrup Skole, Nordvang",U_Conny_Iversen,Conny Iversen,Bylisten,1
+Glostrup,1,"Glostrup Skole, Nordvang",U_Bo_Frederiksen,Bo Frederiksen,Bylisten,2
+Glostrup,1,"Glostrup Skole, Nordvang",U_Bibi_Kjæhr_Jensen,Bibi Kjæhr Jensen,Bylisten,4
+Glostrup,1,"Glostrup Skole, Nordvang",U_Saefaldin_Asaad,Saefaldin Asaad,Bylisten,7
+Glostrup,1,"Glostrup Skole, Nordvang",U_Imad_Daher,Imad Daher,Bylisten,5
+Glostrup,1,"Glostrup Skole, Nordvang",U_Annette_Thorsen,Annette Thorsen,Bylisten,0
+Glostrup,1,"Glostrup Skole, Nordvang",U_Ellis_Vest,Ellis Vest,Bylisten,0
+Glostrup,1,"Glostrup Skole, Nordvang",U_Annelise_Cronfelt,Annelise Cronfelt,Bylisten,0
+Glostrup,1,"Glostrup Skole, Nordvang",U_Pia_Paulsen,Pia Paulsen,Bylisten,0
+Glostrup,1,"Glostrup Skole, Nordvang",U_Mogens_Jensen,Mogens Jensen,Bylisten,2
+Glostrup,1,"Glostrup Skole, Nordvang",U_Jesper_Hess-Nielsen,Jesper Hess-Nielsen,Bylisten,2
+Glostrup,1,"Glostrup Skole, Nordvang",U_Carsten_Pedersen,Carsten Pedersen,Bylisten,0
+Glostrup,1,"Glostrup Skole, Nordvang",U_Kurt_Kjær,Kurt Kjær,Bylisten,0
+Glostrup,1,"Glostrup Skole, Nordvang",U_Tove_Nika_Brøndsted,Tove Nika Brøndsted,Bylisten,0
+Glostrup,1,"Glostrup Skole, Nordvang",U_Sonja_Sjøgren,Sonja Sjøgren,Bylisten,0
+Glostrup,1,"Glostrup Skole, Nordvang",U_Helle_Ø._Nielsen,Helle Ø. Nielsen,Bylisten,0
+Glostrup,1,"Glostrup Skole, Nordvang",U_Mai-Britt_Plough_Hemmingsen,Mai-Britt Plough Hemmingsen,Bylisten,1
+Glostrup,1,"Glostrup Skole, Nordvang",V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",87
+Glostrup,1,"Glostrup Skole, Nordvang",V_Piet_Papageorge,Piet Papageorge,"Venstre, Danmarks Liberale Parti",324
+Glostrup,1,"Glostrup Skole, Nordvang",V_Leif_Meyer_Olsen,Leif Meyer Olsen,"Venstre, Danmarks Liberale Parti",5
+Glostrup,1,"Glostrup Skole, Nordvang",V_Maja_Lüchau,Maja Lüchau,"Venstre, Danmarks Liberale Parti",21
+Glostrup,1,"Glostrup Skole, Nordvang",V_Torben_Martinsen,Torben Martinsen,"Venstre, Danmarks Liberale Parti",3
+Glostrup,1,"Glostrup Skole, Nordvang",V_Ina-Maria_Nielsen,Ina-Maria Nielsen,"Venstre, Danmarks Liberale Parti",11
+Glostrup,1,"Glostrup Skole, Nordvang",V_Eva_Nørgaard_Wojtala,Eva Nørgaard Wojtala,"Venstre, Danmarks Liberale Parti",4
+Glostrup,1,"Glostrup Skole, Nordvang",V_Gert_Jensen,Gert Jensen,"Venstre, Danmarks Liberale Parti",19
+Glostrup,1,"Glostrup Skole, Nordvang",V_Torben_M._Jensen,Torben M. Jensen,"Venstre, Danmarks Liberale Parti",4
+Glostrup,1,"Glostrup Skole, Nordvang",V_Ole_Møller_Andreasen,Ole Møller Andreasen,"Venstre, Danmarks Liberale Parti",1
+Glostrup,1,"Glostrup Skole, Nordvang",V_Anker_Jacobsen,Anker Jacobsen,"Venstre, Danmarks Liberale Parti",0
+Glostrup,1,"Glostrup Skole, Nordvang",V_Jens_Hoff,Jens Hoff,"Venstre, Danmarks Liberale Parti",0
+Glostrup,1,"Glostrup Skole, Nordvang",V_Hans_Sørensen,Hans Sørensen,"Venstre, Danmarks Liberale Parti",0
+Glostrup,1,"Glostrup Skole, Nordvang",V_Jan_Otzen,Jan Otzen,"Venstre, Danmarks Liberale Parti",0
+Glostrup,1,"Glostrup Skole, Nordvang",Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,26
+Glostrup,1,"Glostrup Skole, Nordvang",Ø_Kirstina_Tranberg,Kirstina Tranberg,Enhedslisten - De Rød-Grønne,19
+Glostrup,1,"Glostrup Skole, Nordvang",Ø_John_Simoni,John Simoni,Enhedslisten - De Rød-Grønne,2
+Glostrup,1,"Glostrup Skole, Nordvang",Ø_Signe_Koustrup,Signe Koustrup,Enhedslisten - De Rød-Grønne,10
+Glostrup,2,Aktivitetscentret Sydvestvej,A_Listestemmer,Listestemmer,Socialdemokratiet,149
+Glostrup,2,Aktivitetscentret Sydvestvej,A_Kasper_Damsgaard,Kasper Damsgaard,Socialdemokratiet,175
+Glostrup,2,Aktivitetscentret Sydvestvej,A_Søren_Enemark,Søren Enemark,Socialdemokratiet,39
+Glostrup,2,Aktivitetscentret Sydvestvej,A_Annette_Normind_Thomsen,Annette Normind Thomsen,Socialdemokratiet,14
+Glostrup,2,Aktivitetscentret Sydvestvej,A_Camilla_Christensen,Camilla Christensen,Socialdemokratiet,10
+Glostrup,2,Aktivitetscentret Sydvestvej,A_Torben_Jensen,Torben Jensen,Socialdemokratiet,3
+Glostrup,2,Aktivitetscentret Sydvestvej,A_Ulrik_Løvstrøm_Nielsen,Ulrik Løvstrøm Nielsen,Socialdemokratiet,5
+Glostrup,2,Aktivitetscentret Sydvestvej,A_Helle_Bager_Nielsen,Helle Bager Nielsen,Socialdemokratiet,18
+Glostrup,2,Aktivitetscentret Sydvestvej,A_Lisa_Ward,Lisa Ward,Socialdemokratiet,5
+Glostrup,2,Aktivitetscentret Sydvestvej,A_Morten_Bybjerg_Nygaard,Morten Bybjerg Nygaard,Socialdemokratiet,6
+Glostrup,2,Aktivitetscentret Sydvestvej,A_Waqar_Ahmed,Waqar Ahmed,Socialdemokratiet,24
+Glostrup,2,Aktivitetscentret Sydvestvej,A_Gitte_Wallin_Limkilde,Gitte Wallin Limkilde,Socialdemokratiet,3
+Glostrup,2,Aktivitetscentret Sydvestvej,A_Allan_Larsen,Allan Larsen,Socialdemokratiet,0
+Glostrup,2,Aktivitetscentret Sydvestvej,A_Jesper_Weidick,Jesper Weidick,Socialdemokratiet,1
+Glostrup,2,Aktivitetscentret Sydvestvej,A_Anne_Tinghus,Anne Tinghus,Socialdemokratiet,1
+Glostrup,2,Aktivitetscentret Sydvestvej,B_Listestemmer,Listestemmer,Radikale Venstre,28
+Glostrup,2,Aktivitetscentret Sydvestvej,B_Emilie_Sloth,Emilie Sloth,Radikale Venstre,23
+Glostrup,2,Aktivitetscentret Sydvestvej,B_Mikkel_Bay,Mikkel Bay,Radikale Venstre,5
+Glostrup,2,Aktivitetscentret Sydvestvej,B_Nicolai_Ringkjær_Skafte,Nicolai Ringkjær Skafte,Radikale Venstre,8
+Glostrup,2,Aktivitetscentret Sydvestvej,B_Pia_Bach,Pia Bach,Radikale Venstre,1
+Glostrup,2,Aktivitetscentret Sydvestvej,B_Thomas_Skov_Andersen,Thomas Skov Andersen,Radikale Venstre,3
+Glostrup,2,Aktivitetscentret Sydvestvej,B_Lise_Sustmann_Allen,Lise Sustmann Allen,Radikale Venstre,6
+Glostrup,2,Aktivitetscentret Sydvestvej,B_Juliette_Forneris,Juliette Forneris,Radikale Venstre,6
+Glostrup,2,Aktivitetscentret Sydvestvej,B_Bent_Filstrup,Bent Filstrup,Radikale Venstre,3
+Glostrup,2,Aktivitetscentret Sydvestvej,B_Jørgen_Boelskov,Jørgen Boelskov,Radikale Venstre,3
+Glostrup,2,Aktivitetscentret Sydvestvej,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,54
+Glostrup,2,Aktivitetscentret Sydvestvej,C_Dan_Kornbek_Christiansen,Dan Kornbek Christiansen,Det Konservative Folkeparti,43
+Glostrup,2,Aktivitetscentret Sydvestvej,C_Vicky_Schumann,Vicky Schumann,Det Konservative Folkeparti,12
+Glostrup,2,Aktivitetscentret Sydvestvej,C_Jesper_Gerding_Kirchner,Jesper Gerding Kirchner,Det Konservative Folkeparti,1
+Glostrup,2,Aktivitetscentret Sydvestvej,C_Christian_Ebbesen,Christian Ebbesen,Det Konservative Folkeparti,5
+Glostrup,2,Aktivitetscentret Sydvestvej,C_Lars_Bennike,Lars Bennike,Det Konservative Folkeparti,12
+Glostrup,2,Aktivitetscentret Sydvestvej,C_Morten_Hansen,Morten Hansen,Det Konservative Folkeparti,1
+Glostrup,2,Aktivitetscentret Sydvestvej,C_Poul_Hermann,Poul Hermann,Det Konservative Folkeparti,1
+Glostrup,2,Aktivitetscentret Sydvestvej,C_Steffen_Schlægelberger,Steffen Schlægelberger,Det Konservative Folkeparti,2
+Glostrup,2,Aktivitetscentret Sydvestvej,C_Gitte_Pladsbjerg_Schnoor,Gitte Pladsbjerg Schnoor,Det Konservative Folkeparti,5
+Glostrup,2,Aktivitetscentret Sydvestvej,C_Thue_Agger_Svaneberg,Thue Agger Svaneberg,Det Konservative Folkeparti,0
+Glostrup,2,Aktivitetscentret Sydvestvej,C_Martin_Aa._Rosenkrantz,Martin Aa. Rosenkrantz,Det Konservative Folkeparti,2
+Glostrup,2,Aktivitetscentret Sydvestvej,D_Listestemmer,Listestemmer,Nye Borgerlige,15
+Glostrup,2,Aktivitetscentret Sydvestvej,D_Tonny_Madsen,Tonny Madsen,Nye Borgerlige,17
+Glostrup,2,Aktivitetscentret Sydvestvej,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,49
+Glostrup,2,Aktivitetscentret Sydvestvej,F_Henrik_Lund,Henrik Lund,SF - Socialistisk Folkeparti,24
+Glostrup,2,Aktivitetscentret Sydvestvej,F_Lennart_Larsen_Lindberg,Lennart Larsen Lindberg,SF - Socialistisk Folkeparti,10
+Glostrup,2,Aktivitetscentret Sydvestvej,F_Jens_Erik_Larsen,Jens Erik Larsen,SF - Socialistisk Folkeparti,2
+Glostrup,2,Aktivitetscentret Sydvestvej,F_Mogens_Mathiesen,Mogens Mathiesen,SF - Socialistisk Folkeparti,6
+Glostrup,2,Aktivitetscentret Sydvestvej,F_Palle_Laustrup,Palle Laustrup,SF - Socialistisk Folkeparti,1
+Glostrup,2,Aktivitetscentret Sydvestvej,F_Mads_Hareskov_Jørgensen,Mads Hareskov Jørgensen,SF - Socialistisk Folkeparti,2
+Glostrup,2,Aktivitetscentret Sydvestvej,I_Listestemmer,Listestemmer,Liberal Alliance,3
+Glostrup,2,Aktivitetscentret Sydvestvej,I_Marlene_Frandsen,Marlene Frandsen,Liberal Alliance,7
+Glostrup,2,Aktivitetscentret Sydvestvej,L_Listestemmer,Listestemmer,Glostrup Borgerliste,10
+Glostrup,2,Aktivitetscentret Sydvestvej,L_Flemming_Ørhem,Flemming Ørhem,Glostrup Borgerliste,3
+Glostrup,2,Aktivitetscentret Sydvestvej,L_Pia_Hagbarth_Dahlin,Pia Hagbarth Dahlin,Glostrup Borgerliste,0
+Glostrup,2,Aktivitetscentret Sydvestvej,L_Nia_Hagbarth_Juel,Nia Hagbarth Juel,Glostrup Borgerliste,1
+Glostrup,2,Aktivitetscentret Sydvestvej,L_Frederik_Frydendal-Oesten,Frederik Frydendal-Oesten,Glostrup Borgerliste,2
+Glostrup,2,Aktivitetscentret Sydvestvej,L_Pia_Christoffersen,Pia Christoffersen,Glostrup Borgerliste,1
+Glostrup,2,Aktivitetscentret Sydvestvej,L_Ib_Clasen,Ib Clasen,Glostrup Borgerliste,1
+Glostrup,2,Aktivitetscentret Sydvestvej,L_Carsten_Engholm,Carsten Engholm,Glostrup Borgerliste,0
+Glostrup,2,Aktivitetscentret Sydvestvej,O_Listestemmer,Listestemmer,Dansk Folkeparti,31
+Glostrup,2,Aktivitetscentret Sydvestvej,O_Peder_Kähler,Peder Kähler,Dansk Folkeparti,12
+Glostrup,2,Aktivitetscentret Sydvestvej,O_Ann_Spetzler,Ann Spetzler,Dansk Folkeparti,13
+Glostrup,2,Aktivitetscentret Sydvestvej,O_Henning_Christensen,Henning Christensen,Dansk Folkeparti,1
+Glostrup,2,Aktivitetscentret Sydvestvej,O_Jan_Hvidkjær,Jan Hvidkjær,Dansk Folkeparti,1
+Glostrup,2,Aktivitetscentret Sydvestvej,O_Jane_Jacobsen,Jane Jacobsen,Dansk Folkeparti,0
+Glostrup,2,Aktivitetscentret Sydvestvej,U_Listestemmer,Listestemmer,Bylisten,18
+Glostrup,2,Aktivitetscentret Sydvestvej,U_Lars_Thomsen,Lars Thomsen,Bylisten,115
+Glostrup,2,Aktivitetscentret Sydvestvej,U_Kirstine_Bjarnt,Kirstine Bjarnt,Bylisten,9
+Glostrup,2,Aktivitetscentret Sydvestvej,U_Per_Froholdt,Per Froholdt,Bylisten,0
+Glostrup,2,Aktivitetscentret Sydvestvej,U_Ditte_Sieling_Emanuel,Ditte Sieling Emanuel,Bylisten,9
+Glostrup,2,Aktivitetscentret Sydvestvej,U_Jonas_Madsen,Jonas Madsen,Bylisten,1
+Glostrup,2,Aktivitetscentret Sydvestvej,U_Conny_Iversen,Conny Iversen,Bylisten,3
+Glostrup,2,Aktivitetscentret Sydvestvej,U_Bo_Frederiksen,Bo Frederiksen,Bylisten,0
+Glostrup,2,Aktivitetscentret Sydvestvej,U_Bibi_Kjæhr_Jensen,Bibi Kjæhr Jensen,Bylisten,2
+Glostrup,2,Aktivitetscentret Sydvestvej,U_Saefaldin_Asaad,Saefaldin Asaad,Bylisten,5
+Glostrup,2,Aktivitetscentret Sydvestvej,U_Imad_Daher,Imad Daher,Bylisten,9
+Glostrup,2,Aktivitetscentret Sydvestvej,U_Annette_Thorsen,Annette Thorsen,Bylisten,1
+Glostrup,2,Aktivitetscentret Sydvestvej,U_Ellis_Vest,Ellis Vest,Bylisten,0
+Glostrup,2,Aktivitetscentret Sydvestvej,U_Annelise_Cronfelt,Annelise Cronfelt,Bylisten,0
+Glostrup,2,Aktivitetscentret Sydvestvej,U_Pia_Paulsen,Pia Paulsen,Bylisten,0
+Glostrup,2,Aktivitetscentret Sydvestvej,U_Mogens_Jensen,Mogens Jensen,Bylisten,3
+Glostrup,2,Aktivitetscentret Sydvestvej,U_Jesper_Hess-Nielsen,Jesper Hess-Nielsen,Bylisten,5
+Glostrup,2,Aktivitetscentret Sydvestvej,U_Carsten_Pedersen,Carsten Pedersen,Bylisten,0
+Glostrup,2,Aktivitetscentret Sydvestvej,U_Kurt_Kjær,Kurt Kjær,Bylisten,0
+Glostrup,2,Aktivitetscentret Sydvestvej,U_Tove_Nika_Brøndsted,Tove Nika Brøndsted,Bylisten,0
+Glostrup,2,Aktivitetscentret Sydvestvej,U_Sonja_Sjøgren,Sonja Sjøgren,Bylisten,0
+Glostrup,2,Aktivitetscentret Sydvestvej,U_Helle_Ø._Nielsen,Helle Ø. Nielsen,Bylisten,0
+Glostrup,2,Aktivitetscentret Sydvestvej,U_Mai-Britt_Plough_Hemmingsen,Mai-Britt Plough Hemmingsen,Bylisten,0
+Glostrup,2,Aktivitetscentret Sydvestvej,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",77
+Glostrup,2,Aktivitetscentret Sydvestvej,V_Piet_Papageorge,Piet Papageorge,"Venstre, Danmarks Liberale Parti",315
+Glostrup,2,Aktivitetscentret Sydvestvej,V_Leif_Meyer_Olsen,Leif Meyer Olsen,"Venstre, Danmarks Liberale Parti",13
+Glostrup,2,Aktivitetscentret Sydvestvej,V_Maja_Lüchau,Maja Lüchau,"Venstre, Danmarks Liberale Parti",15
+Glostrup,2,Aktivitetscentret Sydvestvej,V_Torben_Martinsen,Torben Martinsen,"Venstre, Danmarks Liberale Parti",4
+Glostrup,2,Aktivitetscentret Sydvestvej,V_Ina-Maria_Nielsen,Ina-Maria Nielsen,"Venstre, Danmarks Liberale Parti",14
+Glostrup,2,Aktivitetscentret Sydvestvej,V_Eva_Nørgaard_Wojtala,Eva Nørgaard Wojtala,"Venstre, Danmarks Liberale Parti",4
+Glostrup,2,Aktivitetscentret Sydvestvej,V_Gert_Jensen,Gert Jensen,"Venstre, Danmarks Liberale Parti",6
+Glostrup,2,Aktivitetscentret Sydvestvej,V_Torben_M._Jensen,Torben M. Jensen,"Venstre, Danmarks Liberale Parti",1
+Glostrup,2,Aktivitetscentret Sydvestvej,V_Ole_Møller_Andreasen,Ole Møller Andreasen,"Venstre, Danmarks Liberale Parti",1
+Glostrup,2,Aktivitetscentret Sydvestvej,V_Anker_Jacobsen,Anker Jacobsen,"Venstre, Danmarks Liberale Parti",1
+Glostrup,2,Aktivitetscentret Sydvestvej,V_Jens_Hoff,Jens Hoff,"Venstre, Danmarks Liberale Parti",1
+Glostrup,2,Aktivitetscentret Sydvestvej,V_Hans_Sørensen,Hans Sørensen,"Venstre, Danmarks Liberale Parti",0
+Glostrup,2,Aktivitetscentret Sydvestvej,V_Jan_Otzen,Jan Otzen,"Venstre, Danmarks Liberale Parti",1
+Glostrup,2,Aktivitetscentret Sydvestvej,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,38
+Glostrup,2,Aktivitetscentret Sydvestvej,Ø_Kirstina_Tranberg,Kirstina Tranberg,Enhedslisten - De Rød-Grønne,18
+Glostrup,2,Aktivitetscentret Sydvestvej,Ø_John_Simoni,John Simoni,Enhedslisten - De Rød-Grønne,0
+Glostrup,2,Aktivitetscentret Sydvestvej,Ø_Signe_Koustrup,Signe Koustrup,Enhedslisten - De Rød-Grønne,6
+Glostrup,3,Søndervanghallen,A_Listestemmer,Listestemmer,Socialdemokratiet,286
+Glostrup,3,Søndervanghallen,A_Kasper_Damsgaard,Kasper Damsgaard,Socialdemokratiet,340
+Glostrup,3,Søndervanghallen,A_Søren_Enemark,Søren Enemark,Socialdemokratiet,33
+Glostrup,3,Søndervanghallen,A_Annette_Normind_Thomsen,Annette Normind Thomsen,Socialdemokratiet,17
+Glostrup,3,Søndervanghallen,A_Camilla_Christensen,Camilla Christensen,Socialdemokratiet,45
+Glostrup,3,Søndervanghallen,A_Torben_Jensen,Torben Jensen,Socialdemokratiet,32
+Glostrup,3,Søndervanghallen,A_Ulrik_Løvstrøm_Nielsen,Ulrik Løvstrøm Nielsen,Socialdemokratiet,15
+Glostrup,3,Søndervanghallen,A_Helle_Bager_Nielsen,Helle Bager Nielsen,Socialdemokratiet,71
+Glostrup,3,Søndervanghallen,A_Lisa_Ward,Lisa Ward,Socialdemokratiet,19
+Glostrup,3,Søndervanghallen,A_Morten_Bybjerg_Nygaard,Morten Bybjerg Nygaard,Socialdemokratiet,4
+Glostrup,3,Søndervanghallen,A_Waqar_Ahmed,Waqar Ahmed,Socialdemokratiet,13
+Glostrup,3,Søndervanghallen,A_Gitte_Wallin_Limkilde,Gitte Wallin Limkilde,Socialdemokratiet,12
+Glostrup,3,Søndervanghallen,A_Allan_Larsen,Allan Larsen,Socialdemokratiet,2
+Glostrup,3,Søndervanghallen,A_Jesper_Weidick,Jesper Weidick,Socialdemokratiet,5
+Glostrup,3,Søndervanghallen,A_Anne_Tinghus,Anne Tinghus,Socialdemokratiet,19
+Glostrup,3,Søndervanghallen,B_Listestemmer,Listestemmer,Radikale Venstre,40
+Glostrup,3,Søndervanghallen,B_Emilie_Sloth,Emilie Sloth,Radikale Venstre,19
+Glostrup,3,Søndervanghallen,B_Mikkel_Bay,Mikkel Bay,Radikale Venstre,7
+Glostrup,3,Søndervanghallen,B_Nicolai_Ringkjær_Skafte,Nicolai Ringkjær Skafte,Radikale Venstre,14
+Glostrup,3,Søndervanghallen,B_Pia_Bach,Pia Bach,Radikale Venstre,8
+Glostrup,3,Søndervanghallen,B_Thomas_Skov_Andersen,Thomas Skov Andersen,Radikale Venstre,2
+Glostrup,3,Søndervanghallen,B_Lise_Sustmann_Allen,Lise Sustmann Allen,Radikale Venstre,7
+Glostrup,3,Søndervanghallen,B_Juliette_Forneris,Juliette Forneris,Radikale Venstre,14
+Glostrup,3,Søndervanghallen,B_Bent_Filstrup,Bent Filstrup,Radikale Venstre,2
+Glostrup,3,Søndervanghallen,B_Jørgen_Boelskov,Jørgen Boelskov,Radikale Venstre,5
+Glostrup,3,Søndervanghallen,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,97
+Glostrup,3,Søndervanghallen,C_Dan_Kornbek_Christiansen,Dan Kornbek Christiansen,Det Konservative Folkeparti,61
+Glostrup,3,Søndervanghallen,C_Vicky_Schumann,Vicky Schumann,Det Konservative Folkeparti,24
+Glostrup,3,Søndervanghallen,C_Jesper_Gerding_Kirchner,Jesper Gerding Kirchner,Det Konservative Folkeparti,14
+Glostrup,3,Søndervanghallen,C_Christian_Ebbesen,Christian Ebbesen,Det Konservative Folkeparti,10
+Glostrup,3,Søndervanghallen,C_Lars_Bennike,Lars Bennike,Det Konservative Folkeparti,9
+Glostrup,3,Søndervanghallen,C_Morten_Hansen,Morten Hansen,Det Konservative Folkeparti,8
+Glostrup,3,Søndervanghallen,C_Poul_Hermann,Poul Hermann,Det Konservative Folkeparti,3
+Glostrup,3,Søndervanghallen,C_Steffen_Schlægelberger,Steffen Schlægelberger,Det Konservative Folkeparti,3
+Glostrup,3,Søndervanghallen,C_Gitte_Pladsbjerg_Schnoor,Gitte Pladsbjerg Schnoor,Det Konservative Folkeparti,5
+Glostrup,3,Søndervanghallen,C_Thue_Agger_Svaneberg,Thue Agger Svaneberg,Det Konservative Folkeparti,0
+Glostrup,3,Søndervanghallen,C_Martin_Aa._Rosenkrantz,Martin Aa. Rosenkrantz,Det Konservative Folkeparti,11
+Glostrup,3,Søndervanghallen,D_Listestemmer,Listestemmer,Nye Borgerlige,38
+Glostrup,3,Søndervanghallen,D_Tonny_Madsen,Tonny Madsen,Nye Borgerlige,40
+Glostrup,3,Søndervanghallen,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,61
+Glostrup,3,Søndervanghallen,F_Henrik_Lund,Henrik Lund,SF - Socialistisk Folkeparti,20
+Glostrup,3,Søndervanghallen,F_Lennart_Larsen_Lindberg,Lennart Larsen Lindberg,SF - Socialistisk Folkeparti,8
+Glostrup,3,Søndervanghallen,F_Jens_Erik_Larsen,Jens Erik Larsen,SF - Socialistisk Folkeparti,3
+Glostrup,3,Søndervanghallen,F_Mogens_Mathiesen,Mogens Mathiesen,SF - Socialistisk Folkeparti,7
+Glostrup,3,Søndervanghallen,F_Palle_Laustrup,Palle Laustrup,SF - Socialistisk Folkeparti,2
+Glostrup,3,Søndervanghallen,F_Mads_Hareskov_Jørgensen,Mads Hareskov Jørgensen,SF - Socialistisk Folkeparti,3
+Glostrup,3,Søndervanghallen,I_Listestemmer,Listestemmer,Liberal Alliance,9
+Glostrup,3,Søndervanghallen,I_Marlene_Frandsen,Marlene Frandsen,Liberal Alliance,17
+Glostrup,3,Søndervanghallen,L_Listestemmer,Listestemmer,Glostrup Borgerliste,3
+Glostrup,3,Søndervanghallen,L_Flemming_Ørhem,Flemming Ørhem,Glostrup Borgerliste,23
+Glostrup,3,Søndervanghallen,L_Pia_Hagbarth_Dahlin,Pia Hagbarth Dahlin,Glostrup Borgerliste,3
+Glostrup,3,Søndervanghallen,L_Nia_Hagbarth_Juel,Nia Hagbarth Juel,Glostrup Borgerliste,4
+Glostrup,3,Søndervanghallen,L_Frederik_Frydendal-Oesten,Frederik Frydendal-Oesten,Glostrup Borgerliste,1
+Glostrup,3,Søndervanghallen,L_Pia_Christoffersen,Pia Christoffersen,Glostrup Borgerliste,0
+Glostrup,3,Søndervanghallen,L_Ib_Clasen,Ib Clasen,Glostrup Borgerliste,0
+Glostrup,3,Søndervanghallen,L_Carsten_Engholm,Carsten Engholm,Glostrup Borgerliste,4
+Glostrup,3,Søndervanghallen,O_Listestemmer,Listestemmer,Dansk Folkeparti,56
+Glostrup,3,Søndervanghallen,O_Peder_Kähler,Peder Kähler,Dansk Folkeparti,16
+Glostrup,3,Søndervanghallen,O_Ann_Spetzler,Ann Spetzler,Dansk Folkeparti,25
+Glostrup,3,Søndervanghallen,O_Henning_Christensen,Henning Christensen,Dansk Folkeparti,3
+Glostrup,3,Søndervanghallen,O_Jan_Hvidkjær,Jan Hvidkjær,Dansk Folkeparti,0
+Glostrup,3,Søndervanghallen,O_Jane_Jacobsen,Jane Jacobsen,Dansk Folkeparti,4
+Glostrup,3,Søndervanghallen,U_Listestemmer,Listestemmer,Bylisten,36
+Glostrup,3,Søndervanghallen,U_Lars_Thomsen,Lars Thomsen,Bylisten,104
+Glostrup,3,Søndervanghallen,U_Kirstine_Bjarnt,Kirstine Bjarnt,Bylisten,15
+Glostrup,3,Søndervanghallen,U_Per_Froholdt,Per Froholdt,Bylisten,2
+Glostrup,3,Søndervanghallen,U_Ditte_Sieling_Emanuel,Ditte Sieling Emanuel,Bylisten,11
+Glostrup,3,Søndervanghallen,U_Jonas_Madsen,Jonas Madsen,Bylisten,5
+Glostrup,3,Søndervanghallen,U_Conny_Iversen,Conny Iversen,Bylisten,7
+Glostrup,3,Søndervanghallen,U_Bo_Frederiksen,Bo Frederiksen,Bylisten,0
+Glostrup,3,Søndervanghallen,U_Bibi_Kjæhr_Jensen,Bibi Kjæhr Jensen,Bylisten,1
+Glostrup,3,Søndervanghallen,U_Saefaldin_Asaad,Saefaldin Asaad,Bylisten,3
+Glostrup,3,Søndervanghallen,U_Imad_Daher,Imad Daher,Bylisten,24
+Glostrup,3,Søndervanghallen,U_Annette_Thorsen,Annette Thorsen,Bylisten,1
+Glostrup,3,Søndervanghallen,U_Ellis_Vest,Ellis Vest,Bylisten,1
+Glostrup,3,Søndervanghallen,U_Annelise_Cronfelt,Annelise Cronfelt,Bylisten,3
+Glostrup,3,Søndervanghallen,U_Pia_Paulsen,Pia Paulsen,Bylisten,0
+Glostrup,3,Søndervanghallen,U_Mogens_Jensen,Mogens Jensen,Bylisten,2
+Glostrup,3,Søndervanghallen,U_Jesper_Hess-Nielsen,Jesper Hess-Nielsen,Bylisten,2
+Glostrup,3,Søndervanghallen,U_Carsten_Pedersen,Carsten Pedersen,Bylisten,0
+Glostrup,3,Søndervanghallen,U_Kurt_Kjær,Kurt Kjær,Bylisten,1
+Glostrup,3,Søndervanghallen,U_Tove_Nika_Brøndsted,Tove Nika Brøndsted,Bylisten,0
+Glostrup,3,Søndervanghallen,U_Sonja_Sjøgren,Sonja Sjøgren,Bylisten,0
+Glostrup,3,Søndervanghallen,U_Helle_Ø._Nielsen,Helle Ø. Nielsen,Bylisten,8
+Glostrup,3,Søndervanghallen,U_Mai-Britt_Plough_Hemmingsen,Mai-Britt Plough Hemmingsen,Bylisten,1
+Glostrup,3,Søndervanghallen,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",106
+Glostrup,3,Søndervanghallen,V_Piet_Papageorge,Piet Papageorge,"Venstre, Danmarks Liberale Parti",386
+Glostrup,3,Søndervanghallen,V_Leif_Meyer_Olsen,Leif Meyer Olsen,"Venstre, Danmarks Liberale Parti",10
+Glostrup,3,Søndervanghallen,V_Maja_Lüchau,Maja Lüchau,"Venstre, Danmarks Liberale Parti",27
+Glostrup,3,Søndervanghallen,V_Torben_Martinsen,Torben Martinsen,"Venstre, Danmarks Liberale Parti",2
+Glostrup,3,Søndervanghallen,V_Ina-Maria_Nielsen,Ina-Maria Nielsen,"Venstre, Danmarks Liberale Parti",15
+Glostrup,3,Søndervanghallen,V_Eva_Nørgaard_Wojtala,Eva Nørgaard Wojtala,"Venstre, Danmarks Liberale Parti",6
+Glostrup,3,Søndervanghallen,V_Gert_Jensen,Gert Jensen,"Venstre, Danmarks Liberale Parti",28
+Glostrup,3,Søndervanghallen,V_Torben_M._Jensen,Torben M. Jensen,"Venstre, Danmarks Liberale Parti",5
+Glostrup,3,Søndervanghallen,V_Ole_Møller_Andreasen,Ole Møller Andreasen,"Venstre, Danmarks Liberale Parti",0
+Glostrup,3,Søndervanghallen,V_Anker_Jacobsen,Anker Jacobsen,"Venstre, Danmarks Liberale Parti",0
+Glostrup,3,Søndervanghallen,V_Jens_Hoff,Jens Hoff,"Venstre, Danmarks Liberale Parti",2
+Glostrup,3,Søndervanghallen,V_Hans_Sørensen,Hans Sørensen,"Venstre, Danmarks Liberale Parti",0
+Glostrup,3,Søndervanghallen,V_Jan_Otzen,Jan Otzen,"Venstre, Danmarks Liberale Parti",0
+Glostrup,3,Søndervanghallen,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,68
+Glostrup,3,Søndervanghallen,Ø_Kirstina_Tranberg,Kirstina Tranberg,Enhedslisten - De Rød-Grønne,32
+Glostrup,3,Søndervanghallen,Ø_John_Simoni,John Simoni,Enhedslisten - De Rød-Grønne,4
+Glostrup,3,Søndervanghallen,Ø_Signe_Koustrup,Signe Koustrup,Enhedslisten - De Rød-Grønne,13
+Glostrup,4,"Glostrup Skole, Vestervang",A_Listestemmer,Listestemmer,Socialdemokratiet,262
+Glostrup,4,"Glostrup Skole, Vestervang",A_Kasper_Damsgaard,Kasper Damsgaard,Socialdemokratiet,390
+Glostrup,4,"Glostrup Skole, Vestervang",A_Søren_Enemark,Søren Enemark,Socialdemokratiet,43
+Glostrup,4,"Glostrup Skole, Vestervang",A_Annette_Normind_Thomsen,Annette Normind Thomsen,Socialdemokratiet,30
+Glostrup,4,"Glostrup Skole, Vestervang",A_Camilla_Christensen,Camilla Christensen,Socialdemokratiet,47
+Glostrup,4,"Glostrup Skole, Vestervang",A_Torben_Jensen,Torben Jensen,Socialdemokratiet,5
+Glostrup,4,"Glostrup Skole, Vestervang",A_Ulrik_Løvstrøm_Nielsen,Ulrik Løvstrøm Nielsen,Socialdemokratiet,24
+Glostrup,4,"Glostrup Skole, Vestervang",A_Helle_Bager_Nielsen,Helle Bager Nielsen,Socialdemokratiet,12
+Glostrup,4,"Glostrup Skole, Vestervang",A_Lisa_Ward,Lisa Ward,Socialdemokratiet,32
+Glostrup,4,"Glostrup Skole, Vestervang",A_Morten_Bybjerg_Nygaard,Morten Bybjerg Nygaard,Socialdemokratiet,3
+Glostrup,4,"Glostrup Skole, Vestervang",A_Waqar_Ahmed,Waqar Ahmed,Socialdemokratiet,22
+Glostrup,4,"Glostrup Skole, Vestervang",A_Gitte_Wallin_Limkilde,Gitte Wallin Limkilde,Socialdemokratiet,8
+Glostrup,4,"Glostrup Skole, Vestervang",A_Allan_Larsen,Allan Larsen,Socialdemokratiet,2
+Glostrup,4,"Glostrup Skole, Vestervang",A_Jesper_Weidick,Jesper Weidick,Socialdemokratiet,27
+Glostrup,4,"Glostrup Skole, Vestervang",A_Anne_Tinghus,Anne Tinghus,Socialdemokratiet,11
+Glostrup,4,"Glostrup Skole, Vestervang",B_Listestemmer,Listestemmer,Radikale Venstre,44
+Glostrup,4,"Glostrup Skole, Vestervang",B_Emilie_Sloth,Emilie Sloth,Radikale Venstre,13
+Glostrup,4,"Glostrup Skole, Vestervang",B_Mikkel_Bay,Mikkel Bay,Radikale Venstre,7
+Glostrup,4,"Glostrup Skole, Vestervang",B_Nicolai_Ringkjær_Skafte,Nicolai Ringkjær Skafte,Radikale Venstre,5
+Glostrup,4,"Glostrup Skole, Vestervang",B_Pia_Bach,Pia Bach,Radikale Venstre,3
+Glostrup,4,"Glostrup Skole, Vestervang",B_Thomas_Skov_Andersen,Thomas Skov Andersen,Radikale Venstre,3
+Glostrup,4,"Glostrup Skole, Vestervang",B_Lise_Sustmann_Allen,Lise Sustmann Allen,Radikale Venstre,2
+Glostrup,4,"Glostrup Skole, Vestervang",B_Juliette_Forneris,Juliette Forneris,Radikale Venstre,4
+Glostrup,4,"Glostrup Skole, Vestervang",B_Bent_Filstrup,Bent Filstrup,Radikale Venstre,2
+Glostrup,4,"Glostrup Skole, Vestervang",B_Jørgen_Boelskov,Jørgen Boelskov,Radikale Venstre,7
+Glostrup,4,"Glostrup Skole, Vestervang",C_Listestemmer,Listestemmer,Det Konservative Folkeparti,46
+Glostrup,4,"Glostrup Skole, Vestervang",C_Dan_Kornbek_Christiansen,Dan Kornbek Christiansen,Det Konservative Folkeparti,21
+Glostrup,4,"Glostrup Skole, Vestervang",C_Vicky_Schumann,Vicky Schumann,Det Konservative Folkeparti,11
+Glostrup,4,"Glostrup Skole, Vestervang",C_Jesper_Gerding_Kirchner,Jesper Gerding Kirchner,Det Konservative Folkeparti,10
+Glostrup,4,"Glostrup Skole, Vestervang",C_Christian_Ebbesen,Christian Ebbesen,Det Konservative Folkeparti,5
+Glostrup,4,"Glostrup Skole, Vestervang",C_Lars_Bennike,Lars Bennike,Det Konservative Folkeparti,1
+Glostrup,4,"Glostrup Skole, Vestervang",C_Morten_Hansen,Morten Hansen,Det Konservative Folkeparti,3
+Glostrup,4,"Glostrup Skole, Vestervang",C_Poul_Hermann,Poul Hermann,Det Konservative Folkeparti,1
+Glostrup,4,"Glostrup Skole, Vestervang",C_Steffen_Schlægelberger,Steffen Schlægelberger,Det Konservative Folkeparti,1
+Glostrup,4,"Glostrup Skole, Vestervang",C_Gitte_Pladsbjerg_Schnoor,Gitte Pladsbjerg Schnoor,Det Konservative Folkeparti,2
+Glostrup,4,"Glostrup Skole, Vestervang",C_Thue_Agger_Svaneberg,Thue Agger Svaneberg,Det Konservative Folkeparti,1
+Glostrup,4,"Glostrup Skole, Vestervang",C_Martin_Aa._Rosenkrantz,Martin Aa. Rosenkrantz,Det Konservative Folkeparti,1
+Glostrup,4,"Glostrup Skole, Vestervang",D_Listestemmer,Listestemmer,Nye Borgerlige,28
+Glostrup,4,"Glostrup Skole, Vestervang",D_Tonny_Madsen,Tonny Madsen,Nye Borgerlige,23
+Glostrup,4,"Glostrup Skole, Vestervang",F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,34
+Glostrup,4,"Glostrup Skole, Vestervang",F_Henrik_Lund,Henrik Lund,SF - Socialistisk Folkeparti,20
+Glostrup,4,"Glostrup Skole, Vestervang",F_Lennart_Larsen_Lindberg,Lennart Larsen Lindberg,SF - Socialistisk Folkeparti,7
+Glostrup,4,"Glostrup Skole, Vestervang",F_Jens_Erik_Larsen,Jens Erik Larsen,SF - Socialistisk Folkeparti,4
+Glostrup,4,"Glostrup Skole, Vestervang",F_Mogens_Mathiesen,Mogens Mathiesen,SF - Socialistisk Folkeparti,9
+Glostrup,4,"Glostrup Skole, Vestervang",F_Palle_Laustrup,Palle Laustrup,SF - Socialistisk Folkeparti,3
+Glostrup,4,"Glostrup Skole, Vestervang",F_Mads_Hareskov_Jørgensen,Mads Hareskov Jørgensen,SF - Socialistisk Folkeparti,1
+Glostrup,4,"Glostrup Skole, Vestervang",I_Listestemmer,Listestemmer,Liberal Alliance,1
+Glostrup,4,"Glostrup Skole, Vestervang",I_Marlene_Frandsen,Marlene Frandsen,Liberal Alliance,9
+Glostrup,4,"Glostrup Skole, Vestervang",L_Listestemmer,Listestemmer,Glostrup Borgerliste,12
+Glostrup,4,"Glostrup Skole, Vestervang",L_Flemming_Ørhem,Flemming Ørhem,Glostrup Borgerliste,44
+Glostrup,4,"Glostrup Skole, Vestervang",L_Pia_Hagbarth_Dahlin,Pia Hagbarth Dahlin,Glostrup Borgerliste,4
+Glostrup,4,"Glostrup Skole, Vestervang",L_Nia_Hagbarth_Juel,Nia Hagbarth Juel,Glostrup Borgerliste,0
+Glostrup,4,"Glostrup Skole, Vestervang",L_Frederik_Frydendal-Oesten,Frederik Frydendal-Oesten,Glostrup Borgerliste,1
+Glostrup,4,"Glostrup Skole, Vestervang",L_Pia_Christoffersen,Pia Christoffersen,Glostrup Borgerliste,2
+Glostrup,4,"Glostrup Skole, Vestervang",L_Ib_Clasen,Ib Clasen,Glostrup Borgerliste,0
+Glostrup,4,"Glostrup Skole, Vestervang",L_Carsten_Engholm,Carsten Engholm,Glostrup Borgerliste,1
+Glostrup,4,"Glostrup Skole, Vestervang",O_Listestemmer,Listestemmer,Dansk Folkeparti,48
+Glostrup,4,"Glostrup Skole, Vestervang",O_Peder_Kähler,Peder Kähler,Dansk Folkeparti,20
+Glostrup,4,"Glostrup Skole, Vestervang",O_Ann_Spetzler,Ann Spetzler,Dansk Folkeparti,22
+Glostrup,4,"Glostrup Skole, Vestervang",O_Henning_Christensen,Henning Christensen,Dansk Folkeparti,2
+Glostrup,4,"Glostrup Skole, Vestervang",O_Jan_Hvidkjær,Jan Hvidkjær,Dansk Folkeparti,0
+Glostrup,4,"Glostrup Skole, Vestervang",O_Jane_Jacobsen,Jane Jacobsen,Dansk Folkeparti,4
+Glostrup,4,"Glostrup Skole, Vestervang",U_Listestemmer,Listestemmer,Bylisten,20
+Glostrup,4,"Glostrup Skole, Vestervang",U_Lars_Thomsen,Lars Thomsen,Bylisten,50
+Glostrup,4,"Glostrup Skole, Vestervang",U_Kirstine_Bjarnt,Kirstine Bjarnt,Bylisten,2
+Glostrup,4,"Glostrup Skole, Vestervang",U_Per_Froholdt,Per Froholdt,Bylisten,12
+Glostrup,4,"Glostrup Skole, Vestervang",U_Ditte_Sieling_Emanuel,Ditte Sieling Emanuel,Bylisten,9
+Glostrup,4,"Glostrup Skole, Vestervang",U_Jonas_Madsen,Jonas Madsen,Bylisten,2
+Glostrup,4,"Glostrup Skole, Vestervang",U_Conny_Iversen,Conny Iversen,Bylisten,4
+Glostrup,4,"Glostrup Skole, Vestervang",U_Bo_Frederiksen,Bo Frederiksen,Bylisten,2
+Glostrup,4,"Glostrup Skole, Vestervang",U_Bibi_Kjæhr_Jensen,Bibi Kjæhr Jensen,Bylisten,1
+Glostrup,4,"Glostrup Skole, Vestervang",U_Saefaldin_Asaad,Saefaldin Asaad,Bylisten,0
+Glostrup,4,"Glostrup Skole, Vestervang",U_Imad_Daher,Imad Daher,Bylisten,13
+Glostrup,4,"Glostrup Skole, Vestervang",U_Annette_Thorsen,Annette Thorsen,Bylisten,3
+Glostrup,4,"Glostrup Skole, Vestervang",U_Ellis_Vest,Ellis Vest,Bylisten,0
+Glostrup,4,"Glostrup Skole, Vestervang",U_Annelise_Cronfelt,Annelise Cronfelt,Bylisten,0
+Glostrup,4,"Glostrup Skole, Vestervang",U_Pia_Paulsen,Pia Paulsen,Bylisten,0
+Glostrup,4,"Glostrup Skole, Vestervang",U_Mogens_Jensen,Mogens Jensen,Bylisten,2
+Glostrup,4,"Glostrup Skole, Vestervang",U_Jesper_Hess-Nielsen,Jesper Hess-Nielsen,Bylisten,0
+Glostrup,4,"Glostrup Skole, Vestervang",U_Carsten_Pedersen,Carsten Pedersen,Bylisten,0
+Glostrup,4,"Glostrup Skole, Vestervang",U_Kurt_Kjær,Kurt Kjær,Bylisten,0
+Glostrup,4,"Glostrup Skole, Vestervang",U_Tove_Nika_Brøndsted,Tove Nika Brøndsted,Bylisten,1
+Glostrup,4,"Glostrup Skole, Vestervang",U_Sonja_Sjøgren,Sonja Sjøgren,Bylisten,0
+Glostrup,4,"Glostrup Skole, Vestervang",U_Helle_Ø._Nielsen,Helle Ø. Nielsen,Bylisten,1
+Glostrup,4,"Glostrup Skole, Vestervang",U_Mai-Britt_Plough_Hemmingsen,Mai-Britt Plough Hemmingsen,Bylisten,1
+Glostrup,4,"Glostrup Skole, Vestervang",V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",46
+Glostrup,4,"Glostrup Skole, Vestervang",V_Piet_Papageorge,Piet Papageorge,"Venstre, Danmarks Liberale Parti",166
+Glostrup,4,"Glostrup Skole, Vestervang",V_Leif_Meyer_Olsen,Leif Meyer Olsen,"Venstre, Danmarks Liberale Parti",5
+Glostrup,4,"Glostrup Skole, Vestervang",V_Maja_Lüchau,Maja Lüchau,"Venstre, Danmarks Liberale Parti",6
+Glostrup,4,"Glostrup Skole, Vestervang",V_Torben_Martinsen,Torben Martinsen,"Venstre, Danmarks Liberale Parti",5
+Glostrup,4,"Glostrup Skole, Vestervang",V_Ina-Maria_Nielsen,Ina-Maria Nielsen,"Venstre, Danmarks Liberale Parti",8
+Glostrup,4,"Glostrup Skole, Vestervang",V_Eva_Nørgaard_Wojtala,Eva Nørgaard Wojtala,"Venstre, Danmarks Liberale Parti",6
+Glostrup,4,"Glostrup Skole, Vestervang",V_Gert_Jensen,Gert Jensen,"Venstre, Danmarks Liberale Parti",5
+Glostrup,4,"Glostrup Skole, Vestervang",V_Torben_M._Jensen,Torben M. Jensen,"Venstre, Danmarks Liberale Parti",3
+Glostrup,4,"Glostrup Skole, Vestervang",V_Ole_Møller_Andreasen,Ole Møller Andreasen,"Venstre, Danmarks Liberale Parti",0
+Glostrup,4,"Glostrup Skole, Vestervang",V_Anker_Jacobsen,Anker Jacobsen,"Venstre, Danmarks Liberale Parti",0
+Glostrup,4,"Glostrup Skole, Vestervang",V_Jens_Hoff,Jens Hoff,"Venstre, Danmarks Liberale Parti",4
+Glostrup,4,"Glostrup Skole, Vestervang",V_Hans_Sørensen,Hans Sørensen,"Venstre, Danmarks Liberale Parti",0
+Glostrup,4,"Glostrup Skole, Vestervang",V_Jan_Otzen,Jan Otzen,"Venstre, Danmarks Liberale Parti",1
+Glostrup,4,"Glostrup Skole, Vestervang",Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,57
+Glostrup,4,"Glostrup Skole, Vestervang",Ø_Kirstina_Tranberg,Kirstina Tranberg,Enhedslisten - De Rød-Grønne,27
+Glostrup,4,"Glostrup Skole, Vestervang",Ø_John_Simoni,John Simoni,Enhedslisten - De Rød-Grønne,3
+Glostrup,4,"Glostrup Skole, Vestervang",Ø_Signe_Koustrup,Signe Koustrup,Enhedslisten - De Rød-Grønne,14
+Glostrup,5,Ejbyhallen,A_Listestemmer,Listestemmer,Socialdemokratiet,70
+Glostrup,5,Ejbyhallen,A_Kasper_Damsgaard,Kasper Damsgaard,Socialdemokratiet,173
+Glostrup,5,Ejbyhallen,A_Søren_Enemark,Søren Enemark,Socialdemokratiet,9
+Glostrup,5,Ejbyhallen,A_Annette_Normind_Thomsen,Annette Normind Thomsen,Socialdemokratiet,13
+Glostrup,5,Ejbyhallen,A_Camilla_Christensen,Camilla Christensen,Socialdemokratiet,15
+Glostrup,5,Ejbyhallen,A_Torben_Jensen,Torben Jensen,Socialdemokratiet,2
+Glostrup,5,Ejbyhallen,A_Ulrik_Løvstrøm_Nielsen,Ulrik Løvstrøm Nielsen,Socialdemokratiet,0
+Glostrup,5,Ejbyhallen,A_Helle_Bager_Nielsen,Helle Bager Nielsen,Socialdemokratiet,7
+Glostrup,5,Ejbyhallen,A_Lisa_Ward,Lisa Ward,Socialdemokratiet,3
+Glostrup,5,Ejbyhallen,A_Morten_Bybjerg_Nygaard,Morten Bybjerg Nygaard,Socialdemokratiet,4
+Glostrup,5,Ejbyhallen,A_Waqar_Ahmed,Waqar Ahmed,Socialdemokratiet,1
+Glostrup,5,Ejbyhallen,A_Gitte_Wallin_Limkilde,Gitte Wallin Limkilde,Socialdemokratiet,1
+Glostrup,5,Ejbyhallen,A_Allan_Larsen,Allan Larsen,Socialdemokratiet,0
+Glostrup,5,Ejbyhallen,A_Jesper_Weidick,Jesper Weidick,Socialdemokratiet,0
+Glostrup,5,Ejbyhallen,A_Anne_Tinghus,Anne Tinghus,Socialdemokratiet,0
+Glostrup,5,Ejbyhallen,B_Listestemmer,Listestemmer,Radikale Venstre,20
+Glostrup,5,Ejbyhallen,B_Emilie_Sloth,Emilie Sloth,Radikale Venstre,12
+Glostrup,5,Ejbyhallen,B_Mikkel_Bay,Mikkel Bay,Radikale Venstre,3
+Glostrup,5,Ejbyhallen,B_Nicolai_Ringkjær_Skafte,Nicolai Ringkjær Skafte,Radikale Venstre,1
+Glostrup,5,Ejbyhallen,B_Pia_Bach,Pia Bach,Radikale Venstre,1
+Glostrup,5,Ejbyhallen,B_Thomas_Skov_Andersen,Thomas Skov Andersen,Radikale Venstre,1
+Glostrup,5,Ejbyhallen,B_Lise_Sustmann_Allen,Lise Sustmann Allen,Radikale Venstre,0
+Glostrup,5,Ejbyhallen,B_Juliette_Forneris,Juliette Forneris,Radikale Venstre,0
+Glostrup,5,Ejbyhallen,B_Bent_Filstrup,Bent Filstrup,Radikale Venstre,3
+Glostrup,5,Ejbyhallen,B_Jørgen_Boelskov,Jørgen Boelskov,Radikale Venstre,0
+Glostrup,5,Ejbyhallen,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,52
+Glostrup,5,Ejbyhallen,C_Dan_Kornbek_Christiansen,Dan Kornbek Christiansen,Det Konservative Folkeparti,40
+Glostrup,5,Ejbyhallen,C_Vicky_Schumann,Vicky Schumann,Det Konservative Folkeparti,7
+Glostrup,5,Ejbyhallen,C_Jesper_Gerding_Kirchner,Jesper Gerding Kirchner,Det Konservative Folkeparti,3
+Glostrup,5,Ejbyhallen,C_Christian_Ebbesen,Christian Ebbesen,Det Konservative Folkeparti,3
+Glostrup,5,Ejbyhallen,C_Lars_Bennike,Lars Bennike,Det Konservative Folkeparti,7
+Glostrup,5,Ejbyhallen,C_Morten_Hansen,Morten Hansen,Det Konservative Folkeparti,2
+Glostrup,5,Ejbyhallen,C_Poul_Hermann,Poul Hermann,Det Konservative Folkeparti,0
+Glostrup,5,Ejbyhallen,C_Steffen_Schlægelberger,Steffen Schlægelberger,Det Konservative Folkeparti,1
+Glostrup,5,Ejbyhallen,C_Gitte_Pladsbjerg_Schnoor,Gitte Pladsbjerg Schnoor,Det Konservative Folkeparti,4
+Glostrup,5,Ejbyhallen,C_Thue_Agger_Svaneberg,Thue Agger Svaneberg,Det Konservative Folkeparti,0
+Glostrup,5,Ejbyhallen,C_Martin_Aa._Rosenkrantz,Martin Aa. Rosenkrantz,Det Konservative Folkeparti,6
+Glostrup,5,Ejbyhallen,D_Listestemmer,Listestemmer,Nye Borgerlige,11
+Glostrup,5,Ejbyhallen,D_Tonny_Madsen,Tonny Madsen,Nye Borgerlige,4
+Glostrup,5,Ejbyhallen,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,9
+Glostrup,5,Ejbyhallen,F_Henrik_Lund,Henrik Lund,SF - Socialistisk Folkeparti,11
+Glostrup,5,Ejbyhallen,F_Lennart_Larsen_Lindberg,Lennart Larsen Lindberg,SF - Socialistisk Folkeparti,2
+Glostrup,5,Ejbyhallen,F_Jens_Erik_Larsen,Jens Erik Larsen,SF - Socialistisk Folkeparti,0
+Glostrup,5,Ejbyhallen,F_Mogens_Mathiesen,Mogens Mathiesen,SF - Socialistisk Folkeparti,3
+Glostrup,5,Ejbyhallen,F_Palle_Laustrup,Palle Laustrup,SF - Socialistisk Folkeparti,0
+Glostrup,5,Ejbyhallen,F_Mads_Hareskov_Jørgensen,Mads Hareskov Jørgensen,SF - Socialistisk Folkeparti,2
+Glostrup,5,Ejbyhallen,I_Listestemmer,Listestemmer,Liberal Alliance,6
+Glostrup,5,Ejbyhallen,I_Marlene_Frandsen,Marlene Frandsen,Liberal Alliance,8
+Glostrup,5,Ejbyhallen,L_Listestemmer,Listestemmer,Glostrup Borgerliste,1
+Glostrup,5,Ejbyhallen,L_Flemming_Ørhem,Flemming Ørhem,Glostrup Borgerliste,4
+Glostrup,5,Ejbyhallen,L_Pia_Hagbarth_Dahlin,Pia Hagbarth Dahlin,Glostrup Borgerliste,1
+Glostrup,5,Ejbyhallen,L_Nia_Hagbarth_Juel,Nia Hagbarth Juel,Glostrup Borgerliste,3
+Glostrup,5,Ejbyhallen,L_Frederik_Frydendal-Oesten,Frederik Frydendal-Oesten,Glostrup Borgerliste,1
+Glostrup,5,Ejbyhallen,L_Pia_Christoffersen,Pia Christoffersen,Glostrup Borgerliste,0
+Glostrup,5,Ejbyhallen,L_Ib_Clasen,Ib Clasen,Glostrup Borgerliste,0
+Glostrup,5,Ejbyhallen,L_Carsten_Engholm,Carsten Engholm,Glostrup Borgerliste,0
+Glostrup,5,Ejbyhallen,O_Listestemmer,Listestemmer,Dansk Folkeparti,14
+Glostrup,5,Ejbyhallen,O_Peder_Kähler,Peder Kähler,Dansk Folkeparti,19
+Glostrup,5,Ejbyhallen,O_Ann_Spetzler,Ann Spetzler,Dansk Folkeparti,8
+Glostrup,5,Ejbyhallen,O_Henning_Christensen,Henning Christensen,Dansk Folkeparti,0
+Glostrup,5,Ejbyhallen,O_Jan_Hvidkjær,Jan Hvidkjær,Dansk Folkeparti,0
+Glostrup,5,Ejbyhallen,O_Jane_Jacobsen,Jane Jacobsen,Dansk Folkeparti,0
+Glostrup,5,Ejbyhallen,U_Listestemmer,Listestemmer,Bylisten,16
+Glostrup,5,Ejbyhallen,U_Lars_Thomsen,Lars Thomsen,Bylisten,49
+Glostrup,5,Ejbyhallen,U_Kirstine_Bjarnt,Kirstine Bjarnt,Bylisten,1
+Glostrup,5,Ejbyhallen,U_Per_Froholdt,Per Froholdt,Bylisten,1
+Glostrup,5,Ejbyhallen,U_Ditte_Sieling_Emanuel,Ditte Sieling Emanuel,Bylisten,3
+Glostrup,5,Ejbyhallen,U_Jonas_Madsen,Jonas Madsen,Bylisten,0
+Glostrup,5,Ejbyhallen,U_Conny_Iversen,Conny Iversen,Bylisten,1
+Glostrup,5,Ejbyhallen,U_Bo_Frederiksen,Bo Frederiksen,Bylisten,0
+Glostrup,5,Ejbyhallen,U_Bibi_Kjæhr_Jensen,Bibi Kjæhr Jensen,Bylisten,0
+Glostrup,5,Ejbyhallen,U_Saefaldin_Asaad,Saefaldin Asaad,Bylisten,0
+Glostrup,5,Ejbyhallen,U_Imad_Daher,Imad Daher,Bylisten,1
+Glostrup,5,Ejbyhallen,U_Annette_Thorsen,Annette Thorsen,Bylisten,2
+Glostrup,5,Ejbyhallen,U_Ellis_Vest,Ellis Vest,Bylisten,0
+Glostrup,5,Ejbyhallen,U_Annelise_Cronfelt,Annelise Cronfelt,Bylisten,0
+Glostrup,5,Ejbyhallen,U_Pia_Paulsen,Pia Paulsen,Bylisten,0
+Glostrup,5,Ejbyhallen,U_Mogens_Jensen,Mogens Jensen,Bylisten,1
+Glostrup,5,Ejbyhallen,U_Jesper_Hess-Nielsen,Jesper Hess-Nielsen,Bylisten,3
+Glostrup,5,Ejbyhallen,U_Carsten_Pedersen,Carsten Pedersen,Bylisten,0
+Glostrup,5,Ejbyhallen,U_Kurt_Kjær,Kurt Kjær,Bylisten,0
+Glostrup,5,Ejbyhallen,U_Tove_Nika_Brøndsted,Tove Nika Brøndsted,Bylisten,0
+Glostrup,5,Ejbyhallen,U_Sonja_Sjøgren,Sonja Sjøgren,Bylisten,0
+Glostrup,5,Ejbyhallen,U_Helle_Ø._Nielsen,Helle Ø. Nielsen,Bylisten,0
+Glostrup,5,Ejbyhallen,U_Mai-Britt_Plough_Hemmingsen,Mai-Britt Plough Hemmingsen,Bylisten,1
+Glostrup,5,Ejbyhallen,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",79
+Glostrup,5,Ejbyhallen,V_Piet_Papageorge,Piet Papageorge,"Venstre, Danmarks Liberale Parti",196
+Glostrup,5,Ejbyhallen,V_Leif_Meyer_Olsen,Leif Meyer Olsen,"Venstre, Danmarks Liberale Parti",64
+Glostrup,5,Ejbyhallen,V_Maja_Lüchau,Maja Lüchau,"Venstre, Danmarks Liberale Parti",12
+Glostrup,5,Ejbyhallen,V_Torben_Martinsen,Torben Martinsen,"Venstre, Danmarks Liberale Parti",48
+Glostrup,5,Ejbyhallen,V_Ina-Maria_Nielsen,Ina-Maria Nielsen,"Venstre, Danmarks Liberale Parti",6
+Glostrup,5,Ejbyhallen,V_Eva_Nørgaard_Wojtala,Eva Nørgaard Wojtala,"Venstre, Danmarks Liberale Parti",2
+Glostrup,5,Ejbyhallen,V_Gert_Jensen,Gert Jensen,"Venstre, Danmarks Liberale Parti",7
+Glostrup,5,Ejbyhallen,V_Torben_M._Jensen,Torben M. Jensen,"Venstre, Danmarks Liberale Parti",2
+Glostrup,5,Ejbyhallen,V_Ole_Møller_Andreasen,Ole Møller Andreasen,"Venstre, Danmarks Liberale Parti",0
+Glostrup,5,Ejbyhallen,V_Anker_Jacobsen,Anker Jacobsen,"Venstre, Danmarks Liberale Parti",0
+Glostrup,5,Ejbyhallen,V_Jens_Hoff,Jens Hoff,"Venstre, Danmarks Liberale Parti",0
+Glostrup,5,Ejbyhallen,V_Hans_Sørensen,Hans Sørensen,"Venstre, Danmarks Liberale Parti",0
+Glostrup,5,Ejbyhallen,V_Jan_Otzen,Jan Otzen,"Venstre, Danmarks Liberale Parti",14
+Glostrup,5,Ejbyhallen,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,26
+Glostrup,5,Ejbyhallen,Ø_Kirstina_Tranberg,Kirstina Tranberg,Enhedslisten - De Rød-Grønne,8
+Glostrup,5,Ejbyhallen,Ø_John_Simoni,John Simoni,Enhedslisten - De Rød-Grønne,0
+Glostrup,5,Ejbyhallen,Ø_Signe_Koustrup,Signe Koustrup,Enhedslisten - De Rød-Grønne,2
+Glostrup,6,Hvissingehallen,A_Listestemmer,Listestemmer,Socialdemokratiet,185
+Glostrup,6,Hvissingehallen,A_Kasper_Damsgaard,Kasper Damsgaard,Socialdemokratiet,337
+Glostrup,6,Hvissingehallen,A_Søren_Enemark,Søren Enemark,Socialdemokratiet,27
+Glostrup,6,Hvissingehallen,A_Annette_Normind_Thomsen,Annette Normind Thomsen,Socialdemokratiet,23
+Glostrup,6,Hvissingehallen,A_Camilla_Christensen,Camilla Christensen,Socialdemokratiet,24
+Glostrup,6,Hvissingehallen,A_Torben_Jensen,Torben Jensen,Socialdemokratiet,1
+Glostrup,6,Hvissingehallen,A_Ulrik_Løvstrøm_Nielsen,Ulrik Løvstrøm Nielsen,Socialdemokratiet,20
+Glostrup,6,Hvissingehallen,A_Helle_Bager_Nielsen,Helle Bager Nielsen,Socialdemokratiet,23
+Glostrup,6,Hvissingehallen,A_Lisa_Ward,Lisa Ward,Socialdemokratiet,12
+Glostrup,6,Hvissingehallen,A_Morten_Bybjerg_Nygaard,Morten Bybjerg Nygaard,Socialdemokratiet,58
+Glostrup,6,Hvissingehallen,A_Waqar_Ahmed,Waqar Ahmed,Socialdemokratiet,11
+Glostrup,6,Hvissingehallen,A_Gitte_Wallin_Limkilde,Gitte Wallin Limkilde,Socialdemokratiet,2
+Glostrup,6,Hvissingehallen,A_Allan_Larsen,Allan Larsen,Socialdemokratiet,9
+Glostrup,6,Hvissingehallen,A_Jesper_Weidick,Jesper Weidick,Socialdemokratiet,3
+Glostrup,6,Hvissingehallen,A_Anne_Tinghus,Anne Tinghus,Socialdemokratiet,5
+Glostrup,6,Hvissingehallen,B_Listestemmer,Listestemmer,Radikale Venstre,25
+Glostrup,6,Hvissingehallen,B_Emilie_Sloth,Emilie Sloth,Radikale Venstre,22
+Glostrup,6,Hvissingehallen,B_Mikkel_Bay,Mikkel Bay,Radikale Venstre,4
+Glostrup,6,Hvissingehallen,B_Nicolai_Ringkjær_Skafte,Nicolai Ringkjær Skafte,Radikale Venstre,9
+Glostrup,6,Hvissingehallen,B_Pia_Bach,Pia Bach,Radikale Venstre,3
+Glostrup,6,Hvissingehallen,B_Thomas_Skov_Andersen,Thomas Skov Andersen,Radikale Venstre,1
+Glostrup,6,Hvissingehallen,B_Lise_Sustmann_Allen,Lise Sustmann Allen,Radikale Venstre,6
+Glostrup,6,Hvissingehallen,B_Juliette_Forneris,Juliette Forneris,Radikale Venstre,1
+Glostrup,6,Hvissingehallen,B_Bent_Filstrup,Bent Filstrup,Radikale Venstre,1
+Glostrup,6,Hvissingehallen,B_Jørgen_Boelskov,Jørgen Boelskov,Radikale Venstre,1
+Glostrup,6,Hvissingehallen,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,74
+Glostrup,6,Hvissingehallen,C_Dan_Kornbek_Christiansen,Dan Kornbek Christiansen,Det Konservative Folkeparti,56
+Glostrup,6,Hvissingehallen,C_Vicky_Schumann,Vicky Schumann,Det Konservative Folkeparti,25
+Glostrup,6,Hvissingehallen,C_Jesper_Gerding_Kirchner,Jesper Gerding Kirchner,Det Konservative Folkeparti,13
+Glostrup,6,Hvissingehallen,C_Christian_Ebbesen,Christian Ebbesen,Det Konservative Folkeparti,5
+Glostrup,6,Hvissingehallen,C_Lars_Bennike,Lars Bennike,Det Konservative Folkeparti,2
+Glostrup,6,Hvissingehallen,C_Morten_Hansen,Morten Hansen,Det Konservative Folkeparti,2
+Glostrup,6,Hvissingehallen,C_Poul_Hermann,Poul Hermann,Det Konservative Folkeparti,4
+Glostrup,6,Hvissingehallen,C_Steffen_Schlægelberger,Steffen Schlægelberger,Det Konservative Folkeparti,6
+Glostrup,6,Hvissingehallen,C_Gitte_Pladsbjerg_Schnoor,Gitte Pladsbjerg Schnoor,Det Konservative Folkeparti,1
+Glostrup,6,Hvissingehallen,C_Thue_Agger_Svaneberg,Thue Agger Svaneberg,Det Konservative Folkeparti,0
+Glostrup,6,Hvissingehallen,C_Martin_Aa._Rosenkrantz,Martin Aa. Rosenkrantz,Det Konservative Folkeparti,8
+Glostrup,6,Hvissingehallen,D_Listestemmer,Listestemmer,Nye Borgerlige,22
+Glostrup,6,Hvissingehallen,D_Tonny_Madsen,Tonny Madsen,Nye Borgerlige,36
+Glostrup,6,Hvissingehallen,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,43
+Glostrup,6,Hvissingehallen,F_Henrik_Lund,Henrik Lund,SF - Socialistisk Folkeparti,29
+Glostrup,6,Hvissingehallen,F_Lennart_Larsen_Lindberg,Lennart Larsen Lindberg,SF - Socialistisk Folkeparti,4
+Glostrup,6,Hvissingehallen,F_Jens_Erik_Larsen,Jens Erik Larsen,SF - Socialistisk Folkeparti,1
+Glostrup,6,Hvissingehallen,F_Mogens_Mathiesen,Mogens Mathiesen,SF - Socialistisk Folkeparti,10
+Glostrup,6,Hvissingehallen,F_Palle_Laustrup,Palle Laustrup,SF - Socialistisk Folkeparti,4
+Glostrup,6,Hvissingehallen,F_Mads_Hareskov_Jørgensen,Mads Hareskov Jørgensen,SF - Socialistisk Folkeparti,0
+Glostrup,6,Hvissingehallen,I_Listestemmer,Listestemmer,Liberal Alliance,5
+Glostrup,6,Hvissingehallen,I_Marlene_Frandsen,Marlene Frandsen,Liberal Alliance,19
+Glostrup,6,Hvissingehallen,L_Listestemmer,Listestemmer,Glostrup Borgerliste,5
+Glostrup,6,Hvissingehallen,L_Flemming_Ørhem,Flemming Ørhem,Glostrup Borgerliste,10
+Glostrup,6,Hvissingehallen,L_Pia_Hagbarth_Dahlin,Pia Hagbarth Dahlin,Glostrup Borgerliste,4
+Glostrup,6,Hvissingehallen,L_Nia_Hagbarth_Juel,Nia Hagbarth Juel,Glostrup Borgerliste,3
+Glostrup,6,Hvissingehallen,L_Frederik_Frydendal-Oesten,Frederik Frydendal-Oesten,Glostrup Borgerliste,7
+Glostrup,6,Hvissingehallen,L_Pia_Christoffersen,Pia Christoffersen,Glostrup Borgerliste,0
+Glostrup,6,Hvissingehallen,L_Ib_Clasen,Ib Clasen,Glostrup Borgerliste,0
+Glostrup,6,Hvissingehallen,L_Carsten_Engholm,Carsten Engholm,Glostrup Borgerliste,0
+Glostrup,6,Hvissingehallen,O_Listestemmer,Listestemmer,Dansk Folkeparti,27
+Glostrup,6,Hvissingehallen,O_Peder_Kähler,Peder Kähler,Dansk Folkeparti,11
+Glostrup,6,Hvissingehallen,O_Ann_Spetzler,Ann Spetzler,Dansk Folkeparti,21
+Glostrup,6,Hvissingehallen,O_Henning_Christensen,Henning Christensen,Dansk Folkeparti,3
+Glostrup,6,Hvissingehallen,O_Jan_Hvidkjær,Jan Hvidkjær,Dansk Folkeparti,0
+Glostrup,6,Hvissingehallen,O_Jane_Jacobsen,Jane Jacobsen,Dansk Folkeparti,1
+Glostrup,6,Hvissingehallen,U_Listestemmer,Listestemmer,Bylisten,30
+Glostrup,6,Hvissingehallen,U_Lars_Thomsen,Lars Thomsen,Bylisten,74
+Glostrup,6,Hvissingehallen,U_Kirstine_Bjarnt,Kirstine Bjarnt,Bylisten,1
+Glostrup,6,Hvissingehallen,U_Per_Froholdt,Per Froholdt,Bylisten,3
+Glostrup,6,Hvissingehallen,U_Ditte_Sieling_Emanuel,Ditte Sieling Emanuel,Bylisten,12
+Glostrup,6,Hvissingehallen,U_Jonas_Madsen,Jonas Madsen,Bylisten,10
+Glostrup,6,Hvissingehallen,U_Conny_Iversen,Conny Iversen,Bylisten,2
+Glostrup,6,Hvissingehallen,U_Bo_Frederiksen,Bo Frederiksen,Bylisten,2
+Glostrup,6,Hvissingehallen,U_Bibi_Kjæhr_Jensen,Bibi Kjæhr Jensen,Bylisten,2
+Glostrup,6,Hvissingehallen,U_Saefaldin_Asaad,Saefaldin Asaad,Bylisten,1
+Glostrup,6,Hvissingehallen,U_Imad_Daher,Imad Daher,Bylisten,2
+Glostrup,6,Hvissingehallen,U_Annette_Thorsen,Annette Thorsen,Bylisten,1
+Glostrup,6,Hvissingehallen,U_Ellis_Vest,Ellis Vest,Bylisten,0
+Glostrup,6,Hvissingehallen,U_Annelise_Cronfelt,Annelise Cronfelt,Bylisten,0
+Glostrup,6,Hvissingehallen,U_Pia_Paulsen,Pia Paulsen,Bylisten,0
+Glostrup,6,Hvissingehallen,U_Mogens_Jensen,Mogens Jensen,Bylisten,2
+Glostrup,6,Hvissingehallen,U_Jesper_Hess-Nielsen,Jesper Hess-Nielsen,Bylisten,0
+Glostrup,6,Hvissingehallen,U_Carsten_Pedersen,Carsten Pedersen,Bylisten,0
+Glostrup,6,Hvissingehallen,U_Kurt_Kjær,Kurt Kjær,Bylisten,0
+Glostrup,6,Hvissingehallen,U_Tove_Nika_Brøndsted,Tove Nika Brøndsted,Bylisten,1
+Glostrup,6,Hvissingehallen,U_Sonja_Sjøgren,Sonja Sjøgren,Bylisten,0
+Glostrup,6,Hvissingehallen,U_Helle_Ø._Nielsen,Helle Ø. Nielsen,Bylisten,1
+Glostrup,6,Hvissingehallen,U_Mai-Britt_Plough_Hemmingsen,Mai-Britt Plough Hemmingsen,Bylisten,0
+Glostrup,6,Hvissingehallen,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",107
+Glostrup,6,Hvissingehallen,V_Piet_Papageorge,Piet Papageorge,"Venstre, Danmarks Liberale Parti",268
+Glostrup,6,Hvissingehallen,V_Leif_Meyer_Olsen,Leif Meyer Olsen,"Venstre, Danmarks Liberale Parti",4
+Glostrup,6,Hvissingehallen,V_Maja_Lüchau,Maja Lüchau,"Venstre, Danmarks Liberale Parti",20
+Glostrup,6,Hvissingehallen,V_Torben_Martinsen,Torben Martinsen,"Venstre, Danmarks Liberale Parti",25
+Glostrup,6,Hvissingehallen,V_Ina-Maria_Nielsen,Ina-Maria Nielsen,"Venstre, Danmarks Liberale Parti",12
+Glostrup,6,Hvissingehallen,V_Eva_Nørgaard_Wojtala,Eva Nørgaard Wojtala,"Venstre, Danmarks Liberale Parti",10
+Glostrup,6,Hvissingehallen,V_Gert_Jensen,Gert Jensen,"Venstre, Danmarks Liberale Parti",21
+Glostrup,6,Hvissingehallen,V_Torben_M._Jensen,Torben M. Jensen,"Venstre, Danmarks Liberale Parti",4
+Glostrup,6,Hvissingehallen,V_Ole_Møller_Andreasen,Ole Møller Andreasen,"Venstre, Danmarks Liberale Parti",4
+Glostrup,6,Hvissingehallen,V_Anker_Jacobsen,Anker Jacobsen,"Venstre, Danmarks Liberale Parti",0
+Glostrup,6,Hvissingehallen,V_Jens_Hoff,Jens Hoff,"Venstre, Danmarks Liberale Parti",0
+Glostrup,6,Hvissingehallen,V_Hans_Sørensen,Hans Sørensen,"Venstre, Danmarks Liberale Parti",0
+Glostrup,6,Hvissingehallen,V_Jan_Otzen,Jan Otzen,"Venstre, Danmarks Liberale Parti",1
+Glostrup,6,Hvissingehallen,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,53
+Glostrup,6,Hvissingehallen,Ø_Kirstina_Tranberg,Kirstina Tranberg,Enhedslisten - De Rød-Grønne,19
+Glostrup,6,Hvissingehallen,Ø_John_Simoni,John Simoni,Enhedslisten - De Rød-Grønne,2
+Glostrup,6,Hvissingehallen,Ø_Signe_Koustrup,Signe Koustrup,Enhedslisten - De Rød-Grønne,9

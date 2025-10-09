@@ -1,0 +1,1345 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Frederiksberg,1,"10. Kreds, Søerne",A_Listestemmer,Listestemmer,Socialdemokratiet,317
+Frederiksberg,1,"10. Kreds, Søerne",A_Michael_Vindfeldt,Michael Vindfeldt,Socialdemokratiet,397
+Frederiksberg,1,"10. Kreds, Søerne",A_Sine_Heltberg,Sine Heltberg,Socialdemokratiet,64
+Frederiksberg,1,"10. Kreds, Søerne",A_Gunvor_Wibroe,Gunvor Wibroe,Socialdemokratiet,65
+Frederiksberg,1,"10. Kreds, Søerne",A_Malte_Mathies_Løcke,Malte Mathies Løcke,Socialdemokratiet,26
+Frederiksberg,1,"10. Kreds, Søerne",A_Rune_Rummel,Rune Rummel,Socialdemokratiet,9
+Frederiksberg,1,"10. Kreds, Søerne",A_Vibeke_Westh,Vibeke Westh,Socialdemokratiet,14
+Frederiksberg,1,"10. Kreds, Søerne",A_Michael_Haas,Michael Haas,Socialdemokratiet,4
+Frederiksberg,1,"10. Kreds, Søerne",A_Christine_Jørnø_Vestergaard,Christine Jørnø Vestergaard,Socialdemokratiet,8
+Frederiksberg,1,"10. Kreds, Søerne",A_Kristoffer_Appel,Kristoffer Appel,Socialdemokratiet,22
+Frederiksberg,1,"10. Kreds, Søerne",A_Christina_Sylvest-Noer,Christina Sylvest-Noer,Socialdemokratiet,28
+Frederiksberg,1,"10. Kreds, Søerne",A_Søren_Dahlstrøm,Søren Dahlstrøm,Socialdemokratiet,8
+Frederiksberg,1,"10. Kreds, Søerne",A_Elvis_Camacho,Elvis Camacho,Socialdemokratiet,7
+Frederiksberg,1,"10. Kreds, Søerne",A_Pernille_Fendrich_Schmidt,Pernille Fendrich Schmidt,Socialdemokratiet,6
+Frederiksberg,1,"10. Kreds, Søerne",A_Thomas_Kruse_Pedersen,Thomas Kruse Pedersen,Socialdemokratiet,2
+Frederiksberg,1,"10. Kreds, Søerne",A_Manu_Sareen,Manu Sareen,Socialdemokratiet,48
+Frederiksberg,1,"10. Kreds, Søerne",A_Roxana_Simion,Roxana Simion,Socialdemokratiet,6
+Frederiksberg,1,"10. Kreds, Søerne",A_Aino_Vedel,Aino Vedel,Socialdemokratiet,5
+Frederiksberg,1,"10. Kreds, Søerne",A_Hanne_Illum,Hanne Illum,Socialdemokratiet,5
+Frederiksberg,1,"10. Kreds, Søerne",A_Malou_Astrup_Clemmensen,Malou Astrup Clemmensen,Socialdemokratiet,7
+Frederiksberg,1,"10. Kreds, Søerne",A_Julie_Weile,Julie Weile,Socialdemokratiet,5
+Frederiksberg,1,"10. Kreds, Søerne",A_Jesper_Telcs,Jesper Telcs,Socialdemokratiet,5
+Frederiksberg,1,"10. Kreds, Søerne",A_Jasminka_Kamic,Jasminka Kamic,Socialdemokratiet,4
+Frederiksberg,1,"10. Kreds, Søerne",A_Helena_Johannessen-Henry,Helena Johannessen-Henry,Socialdemokratiet,3
+Frederiksberg,1,"10. Kreds, Søerne",A_Anders_Kaare,Anders Kaare,Socialdemokratiet,7
+Frederiksberg,1,"10. Kreds, Søerne",B_Listestemmer,Listestemmer,Radikale Venstre,202
+Frederiksberg,1,"10. Kreds, Søerne",B_Lone_Loklindt,Lone Loklindt,Radikale Venstre,249
+Frederiksberg,1,"10. Kreds, Søerne",B_Ruben_Kidde,Ruben Kidde,Radikale Venstre,80
+Frederiksberg,1,"10. Kreds, Søerne",B_Freja_Fokdal,Freja Fokdal,Radikale Venstre,102
+Frederiksberg,1,"10. Kreds, Søerne",B_Emilie_Normann,Emilie Normann,Radikale Venstre,15
+Frederiksberg,1,"10. Kreds, Søerne",B_Kirsten_Lee,Kirsten Lee,Radikale Venstre,9
+Frederiksberg,1,"10. Kreds, Søerne",B_Jens-Christian_Navarro_Poulsen,Jens-Christian Navarro Poulsen,Radikale Venstre,11
+Frederiksberg,1,"10. Kreds, Søerne",B_David_Munis_Zepernick,David Munis Zepernick,Radikale Venstre,27
+Frederiksberg,1,"10. Kreds, Søerne",B_Thomas_Baark,Thomas Baark,Radikale Venstre,4
+Frederiksberg,1,"10. Kreds, Søerne",B_Anne-Sofie_Sadolin_Henningsen,Anne-Sofie Sadolin Henningsen,Radikale Venstre,24
+Frederiksberg,1,"10. Kreds, Søerne",B_Nicholai_Tandrup,Nicholai Tandrup,Radikale Venstre,13
+Frederiksberg,1,"10. Kreds, Søerne",B_Lars_Brask,Lars Brask,Radikale Venstre,16
+Frederiksberg,1,"10. Kreds, Søerne",C_Listestemmer,Listestemmer,Det Konservative Folkeparti,816
+Frederiksberg,1,"10. Kreds, Søerne",C_Simon_Aggesen,Simon Aggesen,Det Konservative Folkeparti,581
+Frederiksberg,1,"10. Kreds, Søerne",C_Alexandra_Dessoy,Alexandra Dessoy,Det Konservative Folkeparti,80
+Frederiksberg,1,"10. Kreds, Søerne",C_Nikolaj_Bøgh,Nikolaj Bøgh,Det Konservative Folkeparti,142
+Frederiksberg,1,"10. Kreds, Søerne",C_Flemming_Brank,Flemming Brank,Det Konservative Folkeparti,18
+Frederiksberg,1,"10. Kreds, Søerne",C_Helle_Sjelle,Helle Sjelle,Det Konservative Folkeparti,47
+Frederiksberg,1,"10. Kreds, Søerne",C_Laura_Lindahl,Laura Lindahl,Det Konservative Folkeparti,154
+Frederiksberg,1,"10. Kreds, Søerne",C_Merete_Winther_Hildebrandt,Merete Winther Hildebrandt,Det Konservative Folkeparti,51
+Frederiksberg,1,"10. Kreds, Søerne",C_Fasael_Rehman,Fasael Rehman,Det Konservative Folkeparti,45
+Frederiksberg,1,"10. Kreds, Søerne",C_Brian_Holm,Brian Holm,Det Konservative Folkeparti,118
+Frederiksberg,1,"10. Kreds, Søerne",C_Carina_Høedt,Carina Høedt,Det Konservative Folkeparti,77
+Frederiksberg,1,"10. Kreds, Søerne",C_Bent_Isager-Nielsen,Bent Isager-Nielsen,Det Konservative Folkeparti,107
+Frederiksberg,1,"10. Kreds, Søerne",C_Michael_Wagner_Molin_Brautsch,Michael Wagner Molin Brautsch,Det Konservative Folkeparti,40
+Frederiksberg,1,"10. Kreds, Søerne",C_Malene_Sandfeld,Malene Sandfeld,Det Konservative Folkeparti,36
+Frederiksberg,1,"10. Kreds, Søerne",C_Claus_Wagenblast-Franck,Claus Wagenblast-Franck,Det Konservative Folkeparti,18
+Frederiksberg,1,"10. Kreds, Søerne",C_Helene_Fagerhøj,Helene Fagerhøj,Det Konservative Folkeparti,12
+Frederiksberg,1,"10. Kreds, Søerne",C_Jacob_Rosenberg,Jacob Rosenberg,Det Konservative Folkeparti,24
+Frederiksberg,1,"10. Kreds, Søerne",C_Anders_Storgaard,Anders Storgaard,Det Konservative Folkeparti,63
+Frederiksberg,1,"10. Kreds, Søerne",C_Asli_Usakli,Asli Usakli,Det Konservative Folkeparti,2
+Frederiksberg,1,"10. Kreds, Søerne",C_Jakob_Sejergaard,Jakob Sejergaard,Det Konservative Folkeparti,11
+Frederiksberg,1,"10. Kreds, Søerne",C_Klavs_van_Hauen,Klavs van Hauen,Det Konservative Folkeparti,4
+Frederiksberg,1,"10. Kreds, Søerne",C_Amalie_Pilgaard_Grammelstorff,Amalie Pilgaard Grammelstorff,Det Konservative Folkeparti,17
+Frederiksberg,1,"10. Kreds, Søerne",C_Niko_Reich_Morales,Niko Reich Morales,Det Konservative Folkeparti,2
+Frederiksberg,1,"10. Kreds, Søerne",C_Susan_Vestergaard,Susan Vestergaard,Det Konservative Folkeparti,3
+Frederiksberg,1,"10. Kreds, Søerne",C_Torsten_Vittrup_Dalegaard,Torsten Vittrup Dalegaard,Det Konservative Folkeparti,18
+Frederiksberg,1,"10. Kreds, Søerne",C_Trine_Labuhn,Trine Labuhn,Det Konservative Folkeparti,55
+Frederiksberg,1,"10. Kreds, Søerne",C_Henrik_Lange,Henrik Lange,Det Konservative Folkeparti,60
+Frederiksberg,1,"10. Kreds, Søerne",C_Susanne_Elmark,Susanne Elmark,Det Konservative Folkeparti,31
+Frederiksberg,1,"10. Kreds, Søerne",C_Bo_Gøtz,Bo Gøtz,Det Konservative Folkeparti,9
+Frederiksberg,1,"10. Kreds, Søerne",C_Else_Marie_Thorgaard,Else Marie Thorgaard,Det Konservative Folkeparti,18
+Frederiksberg,1,"10. Kreds, Søerne",C_Jacob_Sten_Teckemeier,Jacob Sten Teckemeier,Det Konservative Folkeparti,6
+Frederiksberg,1,"10. Kreds, Søerne",C_Karsten_Skawbo-Jensen,Karsten Skawbo-Jensen,Det Konservative Folkeparti,18
+Frederiksberg,1,"10. Kreds, Søerne",D_Listestemmer,Listestemmer,Nye Borgerlige,22
+Frederiksberg,1,"10. Kreds, Søerne",D_Helle_Rosenvig,Helle Rosenvig,Nye Borgerlige,15
+Frederiksberg,1,"10. Kreds, Søerne",D_Karsten_Larsen,Karsten Larsen,Nye Borgerlige,2
+Frederiksberg,1,"10. Kreds, Søerne",E_Listestemmer,Listestemmer,Hvid-sten,2
+Frederiksberg,1,"10. Kreds, Søerne",E_Per_Odin_Thiim_Thim,Per Odin Thiim Thim,Hvid-sten,2
+Frederiksberg,1,"10. Kreds, Søerne",E_Frits_Degner,Frits Degner,Hvid-sten,0
+Frederiksberg,1,"10. Kreds, Søerne",F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,156
+Frederiksberg,1,"10. Kreds, Søerne",F_Balder_Mørk_Andersen,Balder Mørk Andersen,SF - Socialistisk Folkeparti,66
+Frederiksberg,1,"10. Kreds, Søerne",F_Lotte_Kofoed,Lotte Kofoed,SF - Socialistisk Folkeparti,89
+Frederiksberg,1,"10. Kreds, Søerne",F_Nurten_Akgün,Nurten Akgün,SF - Socialistisk Folkeparti,20
+Frederiksberg,1,"10. Kreds, Søerne",F_Carsten_Bøtker,Carsten Bøtker,SF - Socialistisk Folkeparti,4
+Frederiksberg,1,"10. Kreds, Søerne",F_Michella_Lescher,Michella Lescher,SF - Socialistisk Folkeparti,1
+Frederiksberg,1,"10. Kreds, Søerne",F_Henning_C._Hansen,Henning C. Hansen,SF - Socialistisk Folkeparti,1
+Frederiksberg,1,"10. Kreds, Søerne",F_Sidsel_Rastad,Sidsel Rastad,SF - Socialistisk Folkeparti,9
+Frederiksberg,1,"10. Kreds, Søerne",F_Tomas_Munch_Nielsen,Tomas Munch Nielsen,SF - Socialistisk Folkeparti,0
+Frederiksberg,1,"10. Kreds, Søerne",F_Morten_J._Larsen,Morten J. Larsen,SF - Socialistisk Folkeparti,1
+Frederiksberg,1,"10. Kreds, Søerne",F_René_Hülz,René Hülz,SF - Socialistisk Folkeparti,0
+Frederiksberg,1,"10. Kreds, Søerne",F_Anette_Schrøder,Anette Schrøder,SF - Socialistisk Folkeparti,1
+Frederiksberg,1,"10. Kreds, Søerne",F_Gitte_Greve_Jørgensen,Gitte Greve Jørgensen,SF - Socialistisk Folkeparti,0
+Frederiksberg,1,"10. Kreds, Søerne",G_Listestemmer,Listestemmer,Veganerpartiet,14
+Frederiksberg,1,"10. Kreds, Søerne",G_Carsten_Olesen,Carsten Olesen,Veganerpartiet,8
+Frederiksberg,1,"10. Kreds, Søerne",H_Listestemmer,Listestemmer,Havenisse-partiet,3
+Frederiksberg,1,"10. Kreds, Søerne",H_Hannibal_Hildorf,Hannibal Hildorf,Havenisse-partiet,0
+Frederiksberg,1,"10. Kreds, Søerne",I_Listestemmer,Listestemmer,Liberal Alliance,46
+Frederiksberg,1,"10. Kreds, Søerne",I_Lars_Berg_Andersen,Lars Berg Andersen,Liberal Alliance,44
+Frederiksberg,1,"10. Kreds, Søerne",I_Lara_Ann_Waters,Lara Ann Waters,Liberal Alliance,3
+Frederiksberg,1,"10. Kreds, Søerne",I_Claus_Willén,Claus Willén,Liberal Alliance,4
+Frederiksberg,1,"10. Kreds, Søerne",I_Katrine_Fischer,Katrine Fischer,Liberal Alliance,12
+Frederiksberg,1,"10. Kreds, Søerne",J_Listestemmer,Listestemmer,Bitten Vivi Jensen,7
+Frederiksberg,1,"10. Kreds, Søerne",J_Bitten_Vivi_Jensen,Bitten Vivi Jensen,Bitten Vivi Jensen,29
+Frederiksberg,1,"10. Kreds, Søerne",J_Katja_Din,Katja Din,Bitten Vivi Jensen,3
+Frederiksberg,1,"10. Kreds, Søerne",J_Pierre_Larsen,Pierre Larsen,Bitten Vivi Jensen,0
+Frederiksberg,1,"10. Kreds, Søerne",J_Christel_Jensen,Christel Jensen,Bitten Vivi Jensen,1
+Frederiksberg,1,"10. Kreds, Søerne",J_Mariana_Burmeister,Mariana Burmeister,Bitten Vivi Jensen,0
+Frederiksberg,1,"10. Kreds, Søerne",J_Patrick_Hansen,Patrick Hansen,Bitten Vivi Jensen,0
+Frederiksberg,1,"10. Kreds, Søerne",K_Listestemmer,Listestemmer,Kristendemokraterne,14
+Frederiksberg,1,"10. Kreds, Søerne",K_Jacob_Bang,Jacob Bang,Kristendemokraterne,4
+Frederiksberg,1,"10. Kreds, Søerne",O_Listestemmer,Listestemmer,Dansk Folkeparti,30
+Frederiksberg,1,"10. Kreds, Søerne",O_Eva_Bechmann,Eva Bechmann,Dansk Folkeparti,6
+Frederiksberg,1,"10. Kreds, Søerne",O_Christian_Bülow,Christian Bülow,Dansk Folkeparti,6
+Frederiksberg,1,"10. Kreds, Søerne",O_David_M._Gerschwald,David M. Gerschwald,Dansk Folkeparti,5
+Frederiksberg,1,"10. Kreds, Søerne",T_Listestemmer,Listestemmer,Volt,11
+Frederiksberg,1,"10. Kreds, Søerne",T_Kathrine_Richter,Kathrine Richter,Volt,11
+Frederiksberg,1,"10. Kreds, Søerne",T_Mathieu_Pouletty,Mathieu Pouletty,Volt,0
+Frederiksberg,1,"10. Kreds, Søerne",V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",76
+Frederiksberg,1,"10. Kreds, Søerne",V_Jan_E._Jørgensen,Jan E. Jørgensen,"Venstre, Danmarks Liberale Parti",254
+Frederiksberg,1,"10. Kreds, Søerne",V_Alexandra_Sasha,Alexandra Sasha,"Venstre, Danmarks Liberale Parti",43
+Frederiksberg,1,"10. Kreds, Søerne",V_Martin_Voergaard,Martin Voergaard,"Venstre, Danmarks Liberale Parti",10
+Frederiksberg,1,"10. Kreds, Søerne",V_Peter_Fjerring,Peter Fjerring,"Venstre, Danmarks Liberale Parti",6
+Frederiksberg,1,"10. Kreds, Søerne",V_Bettina_Palle,Bettina Palle,"Venstre, Danmarks Liberale Parti",13
+Frederiksberg,1,"10. Kreds, Søerne",V_Jesper_Munk,Jesper Munk,"Venstre, Danmarks Liberale Parti",1
+Frederiksberg,1,"10. Kreds, Søerne",V_William_Birgisson,William Birgisson,"Venstre, Danmarks Liberale Parti",2
+Frederiksberg,1,"10. Kreds, Søerne",V_Casper_Pedersen,Casper Pedersen,"Venstre, Danmarks Liberale Parti",1
+Frederiksberg,1,"10. Kreds, Søerne",V_Christian_Ohm-Hieronymussen,Christian Ohm-Hieronymussen,"Venstre, Danmarks Liberale Parti",5
+Frederiksberg,1,"10. Kreds, Søerne",V_Lars_Bøge,Lars Bøge,"Venstre, Danmarks Liberale Parti",1
+Frederiksberg,1,"10. Kreds, Søerne",Y_Listestemmer,Listestemmer,Kærlighedspartiet (Regnbuef / Bef),4
+Frederiksberg,1,"10. Kreds, Søerne",Y_Franco_Calledda,Franco Calledda,Kærlighedspartiet (Regnbuef / Bef),1
+Frederiksberg,1,"10. Kreds, Søerne",Y_Claus_Bork,Claus Bork,Kærlighedspartiet (Regnbuef / Bef),2
+Frederiksberg,1,"10. Kreds, Søerne",Æ_Listestemmer,Listestemmer,Frihedslisten,7
+Frederiksberg,1,"10. Kreds, Søerne",Æ_Liv_Oppedal,Liv Oppedal,Frihedslisten,3
+Frederiksberg,1,"10. Kreds, Søerne",Æ_Lone_Nørgaard,Lone Nørgaard,Frihedslisten,5
+Frederiksberg,1,"10. Kreds, Søerne",Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,398
+Frederiksberg,1,"10. Kreds, Søerne",Ø_Mette_Bang_Larsen,Mette Bang Larsen,Enhedslisten - De Rød-Grønne,114
+Frederiksberg,1,"10. Kreds, Søerne",Ø_Pelle_Dragsted,Pelle Dragsted,Enhedslisten - De Rød-Grønne,606
+Frederiksberg,1,"10. Kreds, Søerne",Ø_Daniel_Panduro,Daniel Panduro,Enhedslisten - De Rød-Grønne,15
+Frederiksberg,1,"10. Kreds, Søerne",Ø_Anja_Lundtoft,Anja Lundtoft,Enhedslisten - De Rød-Grønne,23
+Frederiksberg,1,"10. Kreds, Søerne",Ø_Thyge_Enevoldsen,Thyge Enevoldsen,Enhedslisten - De Rød-Grønne,25
+Frederiksberg,1,"10. Kreds, Søerne",Ø_Rasmus_Holme_Nielsen,Rasmus Holme Nielsen,Enhedslisten - De Rød-Grønne,18
+Frederiksberg,1,"10. Kreds, Søerne",Ø_Tone_Høybye,Tone Høybye,Enhedslisten - De Rød-Grønne,10
+Frederiksberg,1,"10. Kreds, Søerne",Ø_Mads-Emil_Gaardsvig_Christensen,Mads-Emil Gaardsvig Christensen,Enhedslisten - De Rød-Grønne,4
+Frederiksberg,1,"10. Kreds, Søerne",Ø_Christina_Ytzen,Christina Ytzen,Enhedslisten - De Rød-Grønne,5
+Frederiksberg,1,"10. Kreds, Søerne",Ø_Morten_K._Christensen-Hornehøj,Morten K. Christensen-Hornehøj,Enhedslisten - De Rød-Grønne,4
+Frederiksberg,1,"10. Kreds, Søerne",Ø_Eva_Thune_Jacobsen,Eva Thune Jacobsen,Enhedslisten - De Rød-Grønne,9
+Frederiksberg,1,"10. Kreds, Søerne",Ø_Malte_Bern_Jensen,Malte Bern Jensen,Enhedslisten - De Rød-Grønne,5
+Frederiksberg,1,"10. Kreds, Søerne",Ø_Anne_Eggen,Anne Eggen,Enhedslisten - De Rød-Grønne,3
+Frederiksberg,1,"10. Kreds, Søerne",Ø_Peter_Mikael_Hansen,Peter Mikael Hansen,Enhedslisten - De Rød-Grønne,5
+Frederiksberg,1,"10. Kreds, Søerne",Ø_Ulla_Pierri_Enevoldsen,Ulla Pierri Enevoldsen,Enhedslisten - De Rød-Grønne,7
+Frederiksberg,1,"10. Kreds, Søerne",Ø_Christian_Gorm_Hansen,Christian Gorm Hansen,Enhedslisten - De Rød-Grønne,1
+Frederiksberg,1,"10. Kreds, Søerne",Ø_Cecilia_S._Nysted,Cecilia S. Nysted,Enhedslisten - De Rød-Grønne,3
+Frederiksberg,1,"10. Kreds, Søerne",Ø_Emil_Samaras,Emil Samaras,Enhedslisten - De Rød-Grønne,11
+Frederiksberg,1,"10. Kreds, Søerne",Ø_Marianne_Rohde,Marianne Rohde,Enhedslisten - De Rød-Grønne,1
+Frederiksberg,1,"10. Kreds, Søerne",Ø_Torben_Lindquist,Torben Lindquist,Enhedslisten - De Rød-Grønne,0
+Frederiksberg,1,"10. Kreds, Søerne",Ø_Ulla_Binderup_Jørgensen,Ulla Binderup Jørgensen,Enhedslisten - De Rød-Grønne,10
+Frederiksberg,1,"10. Kreds, Søerne",Ø_Jacob_Nicolajsen,Jacob Nicolajsen,Enhedslisten - De Rød-Grønne,0
+Frederiksberg,1,"10. Kreds, Søerne",Ø_Sabrina_Louise_Christiansen,Sabrina Louise Christiansen,Enhedslisten - De Rød-Grønne,22
+Frederiksberg,1,"10. Kreds, Søerne",Ø_Henrik_Friis,Henrik Friis,Enhedslisten - De Rød-Grønne,2
+Frederiksberg,1,"10. Kreds, Søerne",Ø_Lea_Krusell,Lea Krusell,Enhedslisten - De Rød-Grønne,20
+Frederiksberg,1,"10. Kreds, Søerne",Ø_Anders_Jørgensen,Anders Jørgensen,Enhedslisten - De Rød-Grønne,0
+Frederiksberg,1,"10. Kreds, Søerne",Ø_Bianca_Vitting,Bianca Vitting,Enhedslisten - De Rød-Grønne,13
+Frederiksberg,1,"10. Kreds, Søerne",Ø_Jakob_Ørsted,Jakob Ørsted,Enhedslisten - De Rød-Grønne,6
+Frederiksberg,1,"10. Kreds, Søerne",Ø_Mia_Haugaard_Madsen,Mia Haugaard Madsen,Enhedslisten - De Rød-Grønne,7
+Frederiksberg,1,"10. Kreds, Søerne",Ø_Henning_Pape,Henning Pape,Enhedslisten - De Rød-Grønne,1
+Frederiksberg,1,"10. Kreds, Søerne",Ø_Susanne_Gustenhoff,Susanne Gustenhoff,Enhedslisten - De Rød-Grønne,0
+Frederiksberg,1,"10. Kreds, Søerne",Ø_Peter_Vogelius,Peter Vogelius,Enhedslisten - De Rød-Grønne,2
+Frederiksberg,1,"10. Kreds, Søerne",Ø_Else_Guldager,Else Guldager,Enhedslisten - De Rød-Grønne,9
+Frederiksberg,1,"10. Kreds, Søerne",Å_Listestemmer,Listestemmer,Alternativet,22
+Frederiksberg,1,"10. Kreds, Søerne",Å_Mette_Bram,Mette Bram,Alternativet,13
+Frederiksberg,1,"10. Kreds, Søerne",Å_Maria_Eichhorn,Maria Eichhorn,Alternativet,8
+Frederiksberg,1,"10. Kreds, Søerne",Å_Annedorthe_Kring,Annedorthe Kring,Alternativet,4
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",A_Listestemmer,Listestemmer,Socialdemokratiet,337
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",A_Michael_Vindfeldt,Michael Vindfeldt,Socialdemokratiet,408
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",A_Sine_Heltberg,Sine Heltberg,Socialdemokratiet,85
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",A_Gunvor_Wibroe,Gunvor Wibroe,Socialdemokratiet,62
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",A_Malte_Mathies_Løcke,Malte Mathies Løcke,Socialdemokratiet,29
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",A_Rune_Rummel,Rune Rummel,Socialdemokratiet,9
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",A_Vibeke_Westh,Vibeke Westh,Socialdemokratiet,22
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",A_Michael_Haas,Michael Haas,Socialdemokratiet,3
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",A_Christine_Jørnø_Vestergaard,Christine Jørnø Vestergaard,Socialdemokratiet,13
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",A_Kristoffer_Appel,Kristoffer Appel,Socialdemokratiet,32
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",A_Christina_Sylvest-Noer,Christina Sylvest-Noer,Socialdemokratiet,20
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",A_Søren_Dahlstrøm,Søren Dahlstrøm,Socialdemokratiet,3
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",A_Elvis_Camacho,Elvis Camacho,Socialdemokratiet,5
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",A_Pernille_Fendrich_Schmidt,Pernille Fendrich Schmidt,Socialdemokratiet,6
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",A_Thomas_Kruse_Pedersen,Thomas Kruse Pedersen,Socialdemokratiet,0
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",A_Manu_Sareen,Manu Sareen,Socialdemokratiet,45
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",A_Roxana_Simion,Roxana Simion,Socialdemokratiet,10
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",A_Aino_Vedel,Aino Vedel,Socialdemokratiet,2
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",A_Hanne_Illum,Hanne Illum,Socialdemokratiet,3
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",A_Malou_Astrup_Clemmensen,Malou Astrup Clemmensen,Socialdemokratiet,4
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",A_Julie_Weile,Julie Weile,Socialdemokratiet,4
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",A_Jesper_Telcs,Jesper Telcs,Socialdemokratiet,4
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",A_Jasminka_Kamic,Jasminka Kamic,Socialdemokratiet,2
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",A_Helena_Johannessen-Henry,Helena Johannessen-Henry,Socialdemokratiet,9
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",A_Anders_Kaare,Anders Kaare,Socialdemokratiet,3
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",B_Listestemmer,Listestemmer,Radikale Venstre,183
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",B_Lone_Loklindt,Lone Loklindt,Radikale Venstre,242
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",B_Ruben_Kidde,Ruben Kidde,Radikale Venstre,89
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",B_Freja_Fokdal,Freja Fokdal,Radikale Venstre,100
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",B_Emilie_Normann,Emilie Normann,Radikale Venstre,21
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",B_Kirsten_Lee,Kirsten Lee,Radikale Venstre,5
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",B_Jens-Christian_Navarro_Poulsen,Jens-Christian Navarro Poulsen,Radikale Venstre,5
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",B_David_Munis_Zepernick,David Munis Zepernick,Radikale Venstre,24
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",B_Thomas_Baark,Thomas Baark,Radikale Venstre,13
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",B_Anne-Sofie_Sadolin_Henningsen,Anne-Sofie Sadolin Henningsen,Radikale Venstre,14
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",B_Nicholai_Tandrup,Nicholai Tandrup,Radikale Venstre,8
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",B_Lars_Brask,Lars Brask,Radikale Venstre,3
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",C_Listestemmer,Listestemmer,Det Konservative Folkeparti,918
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",C_Simon_Aggesen,Simon Aggesen,Det Konservative Folkeparti,690
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",C_Alexandra_Dessoy,Alexandra Dessoy,Det Konservative Folkeparti,178
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",C_Nikolaj_Bøgh,Nikolaj Bøgh,Det Konservative Folkeparti,180
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",C_Flemming_Brank,Flemming Brank,Det Konservative Folkeparti,30
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",C_Helle_Sjelle,Helle Sjelle,Det Konservative Folkeparti,67
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",C_Laura_Lindahl,Laura Lindahl,Det Konservative Folkeparti,137
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",C_Merete_Winther_Hildebrandt,Merete Winther Hildebrandt,Det Konservative Folkeparti,62
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",C_Fasael_Rehman,Fasael Rehman,Det Konservative Folkeparti,25
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",C_Brian_Holm,Brian Holm,Det Konservative Folkeparti,125
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",C_Carina_Høedt,Carina Høedt,Det Konservative Folkeparti,19
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",C_Bent_Isager-Nielsen,Bent Isager-Nielsen,Det Konservative Folkeparti,129
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",C_Michael_Wagner_Molin_Brautsch,Michael Wagner Molin Brautsch,Det Konservative Folkeparti,138
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",C_Malene_Sandfeld,Malene Sandfeld,Det Konservative Folkeparti,38
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",C_Claus_Wagenblast-Franck,Claus Wagenblast-Franck,Det Konservative Folkeparti,41
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",C_Helene_Fagerhøj,Helene Fagerhøj,Det Konservative Folkeparti,16
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",C_Jacob_Rosenberg,Jacob Rosenberg,Det Konservative Folkeparti,40
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",C_Anders_Storgaard,Anders Storgaard,Det Konservative Folkeparti,58
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",C_Asli_Usakli,Asli Usakli,Det Konservative Folkeparti,2
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",C_Jakob_Sejergaard,Jakob Sejergaard,Det Konservative Folkeparti,3
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",C_Klavs_van_Hauen,Klavs van Hauen,Det Konservative Folkeparti,17
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",C_Amalie_Pilgaard_Grammelstorff,Amalie Pilgaard Grammelstorff,Det Konservative Folkeparti,25
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",C_Niko_Reich_Morales,Niko Reich Morales,Det Konservative Folkeparti,9
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",C_Susan_Vestergaard,Susan Vestergaard,Det Konservative Folkeparti,15
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",C_Torsten_Vittrup_Dalegaard,Torsten Vittrup Dalegaard,Det Konservative Folkeparti,21
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",C_Trine_Labuhn,Trine Labuhn,Det Konservative Folkeparti,57
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",C_Henrik_Lange,Henrik Lange,Det Konservative Folkeparti,33
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",C_Susanne_Elmark,Susanne Elmark,Det Konservative Folkeparti,21
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",C_Bo_Gøtz,Bo Gøtz,Det Konservative Folkeparti,13
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",C_Else_Marie_Thorgaard,Else Marie Thorgaard,Det Konservative Folkeparti,9
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",C_Jacob_Sten_Teckemeier,Jacob Sten Teckemeier,Det Konservative Folkeparti,2
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",C_Karsten_Skawbo-Jensen,Karsten Skawbo-Jensen,Det Konservative Folkeparti,31
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",D_Listestemmer,Listestemmer,Nye Borgerlige,23
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",D_Helle_Rosenvig,Helle Rosenvig,Nye Borgerlige,18
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",D_Karsten_Larsen,Karsten Larsen,Nye Borgerlige,7
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",E_Listestemmer,Listestemmer,Hvid-sten,2
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",E_Per_Odin_Thiim_Thim,Per Odin Thiim Thim,Hvid-sten,1
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",E_Frits_Degner,Frits Degner,Hvid-sten,0
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,102
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",F_Balder_Mørk_Andersen,Balder Mørk Andersen,SF - Socialistisk Folkeparti,66
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",F_Lotte_Kofoed,Lotte Kofoed,SF - Socialistisk Folkeparti,98
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",F_Nurten_Akgün,Nurten Akgün,SF - Socialistisk Folkeparti,11
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",F_Carsten_Bøtker,Carsten Bøtker,SF - Socialistisk Folkeparti,6
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",F_Michella_Lescher,Michella Lescher,SF - Socialistisk Folkeparti,1
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",F_Henning_C._Hansen,Henning C. Hansen,SF - Socialistisk Folkeparti,0
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",F_Sidsel_Rastad,Sidsel Rastad,SF - Socialistisk Folkeparti,12
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",F_Tomas_Munch_Nielsen,Tomas Munch Nielsen,SF - Socialistisk Folkeparti,2
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",F_Morten_J._Larsen,Morten J. Larsen,SF - Socialistisk Folkeparti,0
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",F_René_Hülz,René Hülz,SF - Socialistisk Folkeparti,1
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",F_Anette_Schrøder,Anette Schrøder,SF - Socialistisk Folkeparti,2
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",F_Gitte_Greve_Jørgensen,Gitte Greve Jørgensen,SF - Socialistisk Folkeparti,1
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",G_Listestemmer,Listestemmer,Veganerpartiet,13
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",G_Carsten_Olesen,Carsten Olesen,Veganerpartiet,7
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",H_Listestemmer,Listestemmer,Havenisse-partiet,2
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",H_Hannibal_Hildorf,Hannibal Hildorf,Havenisse-partiet,0
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",I_Listestemmer,Listestemmer,Liberal Alliance,40
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",I_Lars_Berg_Andersen,Lars Berg Andersen,Liberal Alliance,37
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",I_Lara_Ann_Waters,Lara Ann Waters,Liberal Alliance,6
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",I_Claus_Willén,Claus Willén,Liberal Alliance,5
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",I_Katrine_Fischer,Katrine Fischer,Liberal Alliance,10
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",J_Listestemmer,Listestemmer,Bitten Vivi Jensen,13
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",J_Bitten_Vivi_Jensen,Bitten Vivi Jensen,Bitten Vivi Jensen,25
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",J_Katja_Din,Katja Din,Bitten Vivi Jensen,0
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",J_Pierre_Larsen,Pierre Larsen,Bitten Vivi Jensen,0
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",J_Christel_Jensen,Christel Jensen,Bitten Vivi Jensen,0
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",J_Mariana_Burmeister,Mariana Burmeister,Bitten Vivi Jensen,0
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",J_Patrick_Hansen,Patrick Hansen,Bitten Vivi Jensen,3
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",K_Listestemmer,Listestemmer,Kristendemokraterne,8
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",K_Jacob_Bang,Jacob Bang,Kristendemokraterne,0
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",O_Listestemmer,Listestemmer,Dansk Folkeparti,17
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",O_Eva_Bechmann,Eva Bechmann,Dansk Folkeparti,12
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",O_Christian_Bülow,Christian Bülow,Dansk Folkeparti,3
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",O_David_M._Gerschwald,David M. Gerschwald,Dansk Folkeparti,0
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",T_Listestemmer,Listestemmer,Volt,5
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",T_Kathrine_Richter,Kathrine Richter,Volt,6
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",T_Mathieu_Pouletty,Mathieu Pouletty,Volt,5
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",79
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",V_Jan_E._Jørgensen,Jan E. Jørgensen,"Venstre, Danmarks Liberale Parti",273
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",V_Alexandra_Sasha,Alexandra Sasha,"Venstre, Danmarks Liberale Parti",53
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",V_Martin_Voergaard,Martin Voergaard,"Venstre, Danmarks Liberale Parti",7
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",V_Peter_Fjerring,Peter Fjerring,"Venstre, Danmarks Liberale Parti",7
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",V_Bettina_Palle,Bettina Palle,"Venstre, Danmarks Liberale Parti",11
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",V_Jesper_Munk,Jesper Munk,"Venstre, Danmarks Liberale Parti",5
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",V_William_Birgisson,William Birgisson,"Venstre, Danmarks Liberale Parti",1
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",V_Casper_Pedersen,Casper Pedersen,"Venstre, Danmarks Liberale Parti",5
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",V_Christian_Ohm-Hieronymussen,Christian Ohm-Hieronymussen,"Venstre, Danmarks Liberale Parti",2
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",V_Lars_Bøge,Lars Bøge,"Venstre, Danmarks Liberale Parti",5
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",Y_Listestemmer,Listestemmer,Kærlighedspartiet (Regnbuef / Bef),0
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",Y_Franco_Calledda,Franco Calledda,Kærlighedspartiet (Regnbuef / Bef),1
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",Y_Claus_Bork,Claus Bork,Kærlighedspartiet (Regnbuef / Bef),0
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",Æ_Listestemmer,Listestemmer,Frihedslisten,3
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",Æ_Liv_Oppedal,Liv Oppedal,Frihedslisten,3
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",Æ_Lone_Nørgaard,Lone Nørgaard,Frihedslisten,3
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,293
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",Ø_Mette_Bang_Larsen,Mette Bang Larsen,Enhedslisten - De Rød-Grønne,102
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",Ø_Pelle_Dragsted,Pelle Dragsted,Enhedslisten - De Rød-Grønne,632
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",Ø_Daniel_Panduro,Daniel Panduro,Enhedslisten - De Rød-Grønne,15
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",Ø_Anja_Lundtoft,Anja Lundtoft,Enhedslisten - De Rød-Grønne,22
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",Ø_Thyge_Enevoldsen,Thyge Enevoldsen,Enhedslisten - De Rød-Grønne,22
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",Ø_Rasmus_Holme_Nielsen,Rasmus Holme Nielsen,Enhedslisten - De Rød-Grønne,21
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",Ø_Tone_Høybye,Tone Høybye,Enhedslisten - De Rød-Grønne,7
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",Ø_Mads-Emil_Gaardsvig_Christensen,Mads-Emil Gaardsvig Christensen,Enhedslisten - De Rød-Grønne,3
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",Ø_Christina_Ytzen,Christina Ytzen,Enhedslisten - De Rød-Grønne,7
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",Ø_Morten_K._Christensen-Hornehøj,Morten K. Christensen-Hornehøj,Enhedslisten - De Rød-Grønne,3
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",Ø_Eva_Thune_Jacobsen,Eva Thune Jacobsen,Enhedslisten - De Rød-Grønne,11
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",Ø_Malte_Bern_Jensen,Malte Bern Jensen,Enhedslisten - De Rød-Grønne,9
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",Ø_Anne_Eggen,Anne Eggen,Enhedslisten - De Rød-Grønne,0
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",Ø_Peter_Mikael_Hansen,Peter Mikael Hansen,Enhedslisten - De Rød-Grønne,2
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",Ø_Ulla_Pierri_Enevoldsen,Ulla Pierri Enevoldsen,Enhedslisten - De Rød-Grønne,10
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",Ø_Christian_Gorm_Hansen,Christian Gorm Hansen,Enhedslisten - De Rød-Grønne,2
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",Ø_Cecilia_S._Nysted,Cecilia S. Nysted,Enhedslisten - De Rød-Grønne,2
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",Ø_Emil_Samaras,Emil Samaras,Enhedslisten - De Rød-Grønne,11
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",Ø_Marianne_Rohde,Marianne Rohde,Enhedslisten - De Rød-Grønne,4
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",Ø_Torben_Lindquist,Torben Lindquist,Enhedslisten - De Rød-Grønne,1
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",Ø_Ulla_Binderup_Jørgensen,Ulla Binderup Jørgensen,Enhedslisten - De Rød-Grønne,3
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",Ø_Jacob_Nicolajsen,Jacob Nicolajsen,Enhedslisten - De Rød-Grønne,0
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",Ø_Sabrina_Louise_Christiansen,Sabrina Louise Christiansen,Enhedslisten - De Rød-Grønne,16
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",Ø_Henrik_Friis,Henrik Friis,Enhedslisten - De Rød-Grønne,10
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",Ø_Lea_Krusell,Lea Krusell,Enhedslisten - De Rød-Grønne,15
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",Ø_Anders_Jørgensen,Anders Jørgensen,Enhedslisten - De Rød-Grønne,0
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",Ø_Bianca_Vitting,Bianca Vitting,Enhedslisten - De Rød-Grønne,21
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",Ø_Jakob_Ørsted,Jakob Ørsted,Enhedslisten - De Rød-Grønne,3
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",Ø_Mia_Haugaard_Madsen,Mia Haugaard Madsen,Enhedslisten - De Rød-Grønne,2
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",Ø_Henning_Pape,Henning Pape,Enhedslisten - De Rød-Grønne,1
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",Ø_Susanne_Gustenhoff,Susanne Gustenhoff,Enhedslisten - De Rød-Grønne,1
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",Ø_Peter_Vogelius,Peter Vogelius,Enhedslisten - De Rød-Grønne,2
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",Ø_Else_Guldager,Else Guldager,Enhedslisten - De Rød-Grønne,5
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",Å_Listestemmer,Listestemmer,Alternativet,22
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",Å_Mette_Bram,Mette Bram,Alternativet,13
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",Å_Maria_Eichhorn,Maria Eichhorn,Alternativet,8
+Frederiksberg,2,"10. Kreds, Grundtvigsvej",Å_Annedorthe_Kring,Annedorthe Kring,Alternativet,5
+Frederiksberg,3,"10. Kreds, Bülowsvej",A_Listestemmer,Listestemmer,Socialdemokratiet,473
+Frederiksberg,3,"10. Kreds, Bülowsvej",A_Michael_Vindfeldt,Michael Vindfeldt,Socialdemokratiet,483
+Frederiksberg,3,"10. Kreds, Bülowsvej",A_Sine_Heltberg,Sine Heltberg,Socialdemokratiet,65
+Frederiksberg,3,"10. Kreds, Bülowsvej",A_Gunvor_Wibroe,Gunvor Wibroe,Socialdemokratiet,65
+Frederiksberg,3,"10. Kreds, Bülowsvej",A_Malte_Mathies_Løcke,Malte Mathies Løcke,Socialdemokratiet,78
+Frederiksberg,3,"10. Kreds, Bülowsvej",A_Rune_Rummel,Rune Rummel,Socialdemokratiet,20
+Frederiksberg,3,"10. Kreds, Bülowsvej",A_Vibeke_Westh,Vibeke Westh,Socialdemokratiet,29
+Frederiksberg,3,"10. Kreds, Bülowsvej",A_Michael_Haas,Michael Haas,Socialdemokratiet,3
+Frederiksberg,3,"10. Kreds, Bülowsvej",A_Christine_Jørnø_Vestergaard,Christine Jørnø Vestergaard,Socialdemokratiet,12
+Frederiksberg,3,"10. Kreds, Bülowsvej",A_Kristoffer_Appel,Kristoffer Appel,Socialdemokratiet,43
+Frederiksberg,3,"10. Kreds, Bülowsvej",A_Christina_Sylvest-Noer,Christina Sylvest-Noer,Socialdemokratiet,79
+Frederiksberg,3,"10. Kreds, Bülowsvej",A_Søren_Dahlstrøm,Søren Dahlstrøm,Socialdemokratiet,18
+Frederiksberg,3,"10. Kreds, Bülowsvej",A_Elvis_Camacho,Elvis Camacho,Socialdemokratiet,10
+Frederiksberg,3,"10. Kreds, Bülowsvej",A_Pernille_Fendrich_Schmidt,Pernille Fendrich Schmidt,Socialdemokratiet,12
+Frederiksberg,3,"10. Kreds, Bülowsvej",A_Thomas_Kruse_Pedersen,Thomas Kruse Pedersen,Socialdemokratiet,0
+Frederiksberg,3,"10. Kreds, Bülowsvej",A_Manu_Sareen,Manu Sareen,Socialdemokratiet,47
+Frederiksberg,3,"10. Kreds, Bülowsvej",A_Roxana_Simion,Roxana Simion,Socialdemokratiet,20
+Frederiksberg,3,"10. Kreds, Bülowsvej",A_Aino_Vedel,Aino Vedel,Socialdemokratiet,1
+Frederiksberg,3,"10. Kreds, Bülowsvej",A_Hanne_Illum,Hanne Illum,Socialdemokratiet,2
+Frederiksberg,3,"10. Kreds, Bülowsvej",A_Malou_Astrup_Clemmensen,Malou Astrup Clemmensen,Socialdemokratiet,5
+Frederiksberg,3,"10. Kreds, Bülowsvej",A_Julie_Weile,Julie Weile,Socialdemokratiet,6
+Frederiksberg,3,"10. Kreds, Bülowsvej",A_Jesper_Telcs,Jesper Telcs,Socialdemokratiet,3
+Frederiksberg,3,"10. Kreds, Bülowsvej",A_Jasminka_Kamic,Jasminka Kamic,Socialdemokratiet,3
+Frederiksberg,3,"10. Kreds, Bülowsvej",A_Helena_Johannessen-Henry,Helena Johannessen-Henry,Socialdemokratiet,3
+Frederiksberg,3,"10. Kreds, Bülowsvej",A_Anders_Kaare,Anders Kaare,Socialdemokratiet,4
+Frederiksberg,3,"10. Kreds, Bülowsvej",B_Listestemmer,Listestemmer,Radikale Venstre,274
+Frederiksberg,3,"10. Kreds, Bülowsvej",B_Lone_Loklindt,Lone Loklindt,Radikale Venstre,273
+Frederiksberg,3,"10. Kreds, Bülowsvej",B_Ruben_Kidde,Ruben Kidde,Radikale Venstre,185
+Frederiksberg,3,"10. Kreds, Bülowsvej",B_Freja_Fokdal,Freja Fokdal,Radikale Venstre,166
+Frederiksberg,3,"10. Kreds, Bülowsvej",B_Emilie_Normann,Emilie Normann,Radikale Venstre,27
+Frederiksberg,3,"10. Kreds, Bülowsvej",B_Kirsten_Lee,Kirsten Lee,Radikale Venstre,4
+Frederiksberg,3,"10. Kreds, Bülowsvej",B_Jens-Christian_Navarro_Poulsen,Jens-Christian Navarro Poulsen,Radikale Venstre,10
+Frederiksberg,3,"10. Kreds, Bülowsvej",B_David_Munis_Zepernick,David Munis Zepernick,Radikale Venstre,29
+Frederiksberg,3,"10. Kreds, Bülowsvej",B_Thomas_Baark,Thomas Baark,Radikale Venstre,10
+Frederiksberg,3,"10. Kreds, Bülowsvej",B_Anne-Sofie_Sadolin_Henningsen,Anne-Sofie Sadolin Henningsen,Radikale Venstre,42
+Frederiksberg,3,"10. Kreds, Bülowsvej",B_Nicholai_Tandrup,Nicholai Tandrup,Radikale Venstre,19
+Frederiksberg,3,"10. Kreds, Bülowsvej",B_Lars_Brask,Lars Brask,Radikale Venstre,2
+Frederiksberg,3,"10. Kreds, Bülowsvej",C_Listestemmer,Listestemmer,Det Konservative Folkeparti,1193
+Frederiksberg,3,"10. Kreds, Bülowsvej",C_Simon_Aggesen,Simon Aggesen,Det Konservative Folkeparti,753
+Frederiksberg,3,"10. Kreds, Bülowsvej",C_Alexandra_Dessoy,Alexandra Dessoy,Det Konservative Folkeparti,95
+Frederiksberg,3,"10. Kreds, Bülowsvej",C_Nikolaj_Bøgh,Nikolaj Bøgh,Det Konservative Folkeparti,113
+Frederiksberg,3,"10. Kreds, Bülowsvej",C_Flemming_Brank,Flemming Brank,Det Konservative Folkeparti,25
+Frederiksberg,3,"10. Kreds, Bülowsvej",C_Helle_Sjelle,Helle Sjelle,Det Konservative Folkeparti,51
+Frederiksberg,3,"10. Kreds, Bülowsvej",C_Laura_Lindahl,Laura Lindahl,Det Konservative Folkeparti,156
+Frederiksberg,3,"10. Kreds, Bülowsvej",C_Merete_Winther_Hildebrandt,Merete Winther Hildebrandt,Det Konservative Folkeparti,79
+Frederiksberg,3,"10. Kreds, Bülowsvej",C_Fasael_Rehman,Fasael Rehman,Det Konservative Folkeparti,50
+Frederiksberg,3,"10. Kreds, Bülowsvej",C_Brian_Holm,Brian Holm,Det Konservative Folkeparti,178
+Frederiksberg,3,"10. Kreds, Bülowsvej",C_Carina_Høedt,Carina Høedt,Det Konservative Folkeparti,72
+Frederiksberg,3,"10. Kreds, Bülowsvej",C_Bent_Isager-Nielsen,Bent Isager-Nielsen,Det Konservative Folkeparti,121
+Frederiksberg,3,"10. Kreds, Bülowsvej",C_Michael_Wagner_Molin_Brautsch,Michael Wagner Molin Brautsch,Det Konservative Folkeparti,43
+Frederiksberg,3,"10. Kreds, Bülowsvej",C_Malene_Sandfeld,Malene Sandfeld,Det Konservative Folkeparti,44
+Frederiksberg,3,"10. Kreds, Bülowsvej",C_Claus_Wagenblast-Franck,Claus Wagenblast-Franck,Det Konservative Folkeparti,19
+Frederiksberg,3,"10. Kreds, Bülowsvej",C_Helene_Fagerhøj,Helene Fagerhøj,Det Konservative Folkeparti,14
+Frederiksberg,3,"10. Kreds, Bülowsvej",C_Jacob_Rosenberg,Jacob Rosenberg,Det Konservative Folkeparti,38
+Frederiksberg,3,"10. Kreds, Bülowsvej",C_Anders_Storgaard,Anders Storgaard,Det Konservative Folkeparti,108
+Frederiksberg,3,"10. Kreds, Bülowsvej",C_Asli_Usakli,Asli Usakli,Det Konservative Folkeparti,3
+Frederiksberg,3,"10. Kreds, Bülowsvej",C_Jakob_Sejergaard,Jakob Sejergaard,Det Konservative Folkeparti,16
+Frederiksberg,3,"10. Kreds, Bülowsvej",C_Klavs_van_Hauen,Klavs van Hauen,Det Konservative Folkeparti,19
+Frederiksberg,3,"10. Kreds, Bülowsvej",C_Amalie_Pilgaard_Grammelstorff,Amalie Pilgaard Grammelstorff,Det Konservative Folkeparti,33
+Frederiksberg,3,"10. Kreds, Bülowsvej",C_Niko_Reich_Morales,Niko Reich Morales,Det Konservative Folkeparti,13
+Frederiksberg,3,"10. Kreds, Bülowsvej",C_Susan_Vestergaard,Susan Vestergaard,Det Konservative Folkeparti,9
+Frederiksberg,3,"10. Kreds, Bülowsvej",C_Torsten_Vittrup_Dalegaard,Torsten Vittrup Dalegaard,Det Konservative Folkeparti,23
+Frederiksberg,3,"10. Kreds, Bülowsvej",C_Trine_Labuhn,Trine Labuhn,Det Konservative Folkeparti,101
+Frederiksberg,3,"10. Kreds, Bülowsvej",C_Henrik_Lange,Henrik Lange,Det Konservative Folkeparti,30
+Frederiksberg,3,"10. Kreds, Bülowsvej",C_Susanne_Elmark,Susanne Elmark,Det Konservative Folkeparti,33
+Frederiksberg,3,"10. Kreds, Bülowsvej",C_Bo_Gøtz,Bo Gøtz,Det Konservative Folkeparti,5
+Frederiksberg,3,"10. Kreds, Bülowsvej",C_Else_Marie_Thorgaard,Else Marie Thorgaard,Det Konservative Folkeparti,21
+Frederiksberg,3,"10. Kreds, Bülowsvej",C_Jacob_Sten_Teckemeier,Jacob Sten Teckemeier,Det Konservative Folkeparti,10
+Frederiksberg,3,"10. Kreds, Bülowsvej",C_Karsten_Skawbo-Jensen,Karsten Skawbo-Jensen,Det Konservative Folkeparti,18
+Frederiksberg,3,"10. Kreds, Bülowsvej",D_Listestemmer,Listestemmer,Nye Borgerlige,37
+Frederiksberg,3,"10. Kreds, Bülowsvej",D_Helle_Rosenvig,Helle Rosenvig,Nye Borgerlige,23
+Frederiksberg,3,"10. Kreds, Bülowsvej",D_Karsten_Larsen,Karsten Larsen,Nye Borgerlige,4
+Frederiksberg,3,"10. Kreds, Bülowsvej",E_Listestemmer,Listestemmer,Hvid-sten,0
+Frederiksberg,3,"10. Kreds, Bülowsvej",E_Per_Odin_Thiim_Thim,Per Odin Thiim Thim,Hvid-sten,5
+Frederiksberg,3,"10. Kreds, Bülowsvej",E_Frits_Degner,Frits Degner,Hvid-sten,2
+Frederiksberg,3,"10. Kreds, Bülowsvej",F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,223
+Frederiksberg,3,"10. Kreds, Bülowsvej",F_Balder_Mørk_Andersen,Balder Mørk Andersen,SF - Socialistisk Folkeparti,94
+Frederiksberg,3,"10. Kreds, Bülowsvej",F_Lotte_Kofoed,Lotte Kofoed,SF - Socialistisk Folkeparti,109
+Frederiksberg,3,"10. Kreds, Bülowsvej",F_Nurten_Akgün,Nurten Akgün,SF - Socialistisk Folkeparti,24
+Frederiksberg,3,"10. Kreds, Bülowsvej",F_Carsten_Bøtker,Carsten Bøtker,SF - Socialistisk Folkeparti,5
+Frederiksberg,3,"10. Kreds, Bülowsvej",F_Michella_Lescher,Michella Lescher,SF - Socialistisk Folkeparti,3
+Frederiksberg,3,"10. Kreds, Bülowsvej",F_Henning_C._Hansen,Henning C. Hansen,SF - Socialistisk Folkeparti,3
+Frederiksberg,3,"10. Kreds, Bülowsvej",F_Sidsel_Rastad,Sidsel Rastad,SF - Socialistisk Folkeparti,17
+Frederiksberg,3,"10. Kreds, Bülowsvej",F_Tomas_Munch_Nielsen,Tomas Munch Nielsen,SF - Socialistisk Folkeparti,0
+Frederiksberg,3,"10. Kreds, Bülowsvej",F_Morten_J._Larsen,Morten J. Larsen,SF - Socialistisk Folkeparti,1
+Frederiksberg,3,"10. Kreds, Bülowsvej",F_René_Hülz,René Hülz,SF - Socialistisk Folkeparti,0
+Frederiksberg,3,"10. Kreds, Bülowsvej",F_Anette_Schrøder,Anette Schrøder,SF - Socialistisk Folkeparti,1
+Frederiksberg,3,"10. Kreds, Bülowsvej",F_Gitte_Greve_Jørgensen,Gitte Greve Jørgensen,SF - Socialistisk Folkeparti,2
+Frederiksberg,3,"10. Kreds, Bülowsvej",G_Listestemmer,Listestemmer,Veganerpartiet,17
+Frederiksberg,3,"10. Kreds, Bülowsvej",G_Carsten_Olesen,Carsten Olesen,Veganerpartiet,14
+Frederiksberg,3,"10. Kreds, Bülowsvej",H_Listestemmer,Listestemmer,Havenisse-partiet,2
+Frederiksberg,3,"10. Kreds, Bülowsvej",H_Hannibal_Hildorf,Hannibal Hildorf,Havenisse-partiet,5
+Frederiksberg,3,"10. Kreds, Bülowsvej",I_Listestemmer,Listestemmer,Liberal Alliance,41
+Frederiksberg,3,"10. Kreds, Bülowsvej",I_Lars_Berg_Andersen,Lars Berg Andersen,Liberal Alliance,39
+Frederiksberg,3,"10. Kreds, Bülowsvej",I_Lara_Ann_Waters,Lara Ann Waters,Liberal Alliance,5
+Frederiksberg,3,"10. Kreds, Bülowsvej",I_Claus_Willén,Claus Willén,Liberal Alliance,8
+Frederiksberg,3,"10. Kreds, Bülowsvej",I_Katrine_Fischer,Katrine Fischer,Liberal Alliance,7
+Frederiksberg,3,"10. Kreds, Bülowsvej",J_Listestemmer,Listestemmer,Bitten Vivi Jensen,5
+Frederiksberg,3,"10. Kreds, Bülowsvej",J_Bitten_Vivi_Jensen,Bitten Vivi Jensen,Bitten Vivi Jensen,41
+Frederiksberg,3,"10. Kreds, Bülowsvej",J_Katja_Din,Katja Din,Bitten Vivi Jensen,0
+Frederiksberg,3,"10. Kreds, Bülowsvej",J_Pierre_Larsen,Pierre Larsen,Bitten Vivi Jensen,0
+Frederiksberg,3,"10. Kreds, Bülowsvej",J_Christel_Jensen,Christel Jensen,Bitten Vivi Jensen,0
+Frederiksberg,3,"10. Kreds, Bülowsvej",J_Mariana_Burmeister,Mariana Burmeister,Bitten Vivi Jensen,0
+Frederiksberg,3,"10. Kreds, Bülowsvej",J_Patrick_Hansen,Patrick Hansen,Bitten Vivi Jensen,5
+Frederiksberg,3,"10. Kreds, Bülowsvej",K_Listestemmer,Listestemmer,Kristendemokraterne,10
+Frederiksberg,3,"10. Kreds, Bülowsvej",K_Jacob_Bang,Jacob Bang,Kristendemokraterne,0
+Frederiksberg,3,"10. Kreds, Bülowsvej",O_Listestemmer,Listestemmer,Dansk Folkeparti,23
+Frederiksberg,3,"10. Kreds, Bülowsvej",O_Eva_Bechmann,Eva Bechmann,Dansk Folkeparti,10
+Frederiksberg,3,"10. Kreds, Bülowsvej",O_Christian_Bülow,Christian Bülow,Dansk Folkeparti,9
+Frederiksberg,3,"10. Kreds, Bülowsvej",O_David_M._Gerschwald,David M. Gerschwald,Dansk Folkeparti,1
+Frederiksberg,3,"10. Kreds, Bülowsvej",T_Listestemmer,Listestemmer,Volt,7
+Frederiksberg,3,"10. Kreds, Bülowsvej",T_Kathrine_Richter,Kathrine Richter,Volt,10
+Frederiksberg,3,"10. Kreds, Bülowsvej",T_Mathieu_Pouletty,Mathieu Pouletty,Volt,3
+Frederiksberg,3,"10. Kreds, Bülowsvej",V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",99
+Frederiksberg,3,"10. Kreds, Bülowsvej",V_Jan_E._Jørgensen,Jan E. Jørgensen,"Venstre, Danmarks Liberale Parti",322
+Frederiksberg,3,"10. Kreds, Bülowsvej",V_Alexandra_Sasha,Alexandra Sasha,"Venstre, Danmarks Liberale Parti",61
+Frederiksberg,3,"10. Kreds, Bülowsvej",V_Martin_Voergaard,Martin Voergaard,"Venstre, Danmarks Liberale Parti",15
+Frederiksberg,3,"10. Kreds, Bülowsvej",V_Peter_Fjerring,Peter Fjerring,"Venstre, Danmarks Liberale Parti",10
+Frederiksberg,3,"10. Kreds, Bülowsvej",V_Bettina_Palle,Bettina Palle,"Venstre, Danmarks Liberale Parti",10
+Frederiksberg,3,"10. Kreds, Bülowsvej",V_Jesper_Munk,Jesper Munk,"Venstre, Danmarks Liberale Parti",1
+Frederiksberg,3,"10. Kreds, Bülowsvej",V_William_Birgisson,William Birgisson,"Venstre, Danmarks Liberale Parti",3
+Frederiksberg,3,"10. Kreds, Bülowsvej",V_Casper_Pedersen,Casper Pedersen,"Venstre, Danmarks Liberale Parti",8
+Frederiksberg,3,"10. Kreds, Bülowsvej",V_Christian_Ohm-Hieronymussen,Christian Ohm-Hieronymussen,"Venstre, Danmarks Liberale Parti",17
+Frederiksberg,3,"10. Kreds, Bülowsvej",V_Lars_Bøge,Lars Bøge,"Venstre, Danmarks Liberale Parti",4
+Frederiksberg,3,"10. Kreds, Bülowsvej",Y_Listestemmer,Listestemmer,Kærlighedspartiet (Regnbuef / Bef),2
+Frederiksberg,3,"10. Kreds, Bülowsvej",Y_Franco_Calledda,Franco Calledda,Kærlighedspartiet (Regnbuef / Bef),2
+Frederiksberg,3,"10. Kreds, Bülowsvej",Y_Claus_Bork,Claus Bork,Kærlighedspartiet (Regnbuef / Bef),0
+Frederiksberg,3,"10. Kreds, Bülowsvej",Æ_Listestemmer,Listestemmer,Frihedslisten,6
+Frederiksberg,3,"10. Kreds, Bülowsvej",Æ_Liv_Oppedal,Liv Oppedal,Frihedslisten,5
+Frederiksberg,3,"10. Kreds, Bülowsvej",Æ_Lone_Nørgaard,Lone Nørgaard,Frihedslisten,3
+Frederiksberg,3,"10. Kreds, Bülowsvej",Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,558
+Frederiksberg,3,"10. Kreds, Bülowsvej",Ø_Mette_Bang_Larsen,Mette Bang Larsen,Enhedslisten - De Rød-Grønne,143
+Frederiksberg,3,"10. Kreds, Bülowsvej",Ø_Pelle_Dragsted,Pelle Dragsted,Enhedslisten - De Rød-Grønne,705
+Frederiksberg,3,"10. Kreds, Bülowsvej",Ø_Daniel_Panduro,Daniel Panduro,Enhedslisten - De Rød-Grønne,27
+Frederiksberg,3,"10. Kreds, Bülowsvej",Ø_Anja_Lundtoft,Anja Lundtoft,Enhedslisten - De Rød-Grønne,41
+Frederiksberg,3,"10. Kreds, Bülowsvej",Ø_Thyge_Enevoldsen,Thyge Enevoldsen,Enhedslisten - De Rød-Grønne,34
+Frederiksberg,3,"10. Kreds, Bülowsvej",Ø_Rasmus_Holme_Nielsen,Rasmus Holme Nielsen,Enhedslisten - De Rød-Grønne,50
+Frederiksberg,3,"10. Kreds, Bülowsvej",Ø_Tone_Høybye,Tone Høybye,Enhedslisten - De Rød-Grønne,20
+Frederiksberg,3,"10. Kreds, Bülowsvej",Ø_Mads-Emil_Gaardsvig_Christensen,Mads-Emil Gaardsvig Christensen,Enhedslisten - De Rød-Grønne,16
+Frederiksberg,3,"10. Kreds, Bülowsvej",Ø_Christina_Ytzen,Christina Ytzen,Enhedslisten - De Rød-Grønne,13
+Frederiksberg,3,"10. Kreds, Bülowsvej",Ø_Morten_K._Christensen-Hornehøj,Morten K. Christensen-Hornehøj,Enhedslisten - De Rød-Grønne,3
+Frederiksberg,3,"10. Kreds, Bülowsvej",Ø_Eva_Thune_Jacobsen,Eva Thune Jacobsen,Enhedslisten - De Rød-Grønne,10
+Frederiksberg,3,"10. Kreds, Bülowsvej",Ø_Malte_Bern_Jensen,Malte Bern Jensen,Enhedslisten - De Rød-Grønne,13
+Frederiksberg,3,"10. Kreds, Bülowsvej",Ø_Anne_Eggen,Anne Eggen,Enhedslisten - De Rød-Grønne,2
+Frederiksberg,3,"10. Kreds, Bülowsvej",Ø_Peter_Mikael_Hansen,Peter Mikael Hansen,Enhedslisten - De Rød-Grønne,5
+Frederiksberg,3,"10. Kreds, Bülowsvej",Ø_Ulla_Pierri_Enevoldsen,Ulla Pierri Enevoldsen,Enhedslisten - De Rød-Grønne,7
+Frederiksberg,3,"10. Kreds, Bülowsvej",Ø_Christian_Gorm_Hansen,Christian Gorm Hansen,Enhedslisten - De Rød-Grønne,4
+Frederiksberg,3,"10. Kreds, Bülowsvej",Ø_Cecilia_S._Nysted,Cecilia S. Nysted,Enhedslisten - De Rød-Grønne,1
+Frederiksberg,3,"10. Kreds, Bülowsvej",Ø_Emil_Samaras,Emil Samaras,Enhedslisten - De Rød-Grønne,17
+Frederiksberg,3,"10. Kreds, Bülowsvej",Ø_Marianne_Rohde,Marianne Rohde,Enhedslisten - De Rød-Grønne,10
+Frederiksberg,3,"10. Kreds, Bülowsvej",Ø_Torben_Lindquist,Torben Lindquist,Enhedslisten - De Rød-Grønne,0
+Frederiksberg,3,"10. Kreds, Bülowsvej",Ø_Ulla_Binderup_Jørgensen,Ulla Binderup Jørgensen,Enhedslisten - De Rød-Grønne,6
+Frederiksberg,3,"10. Kreds, Bülowsvej",Ø_Jacob_Nicolajsen,Jacob Nicolajsen,Enhedslisten - De Rød-Grønne,1
+Frederiksberg,3,"10. Kreds, Bülowsvej",Ø_Sabrina_Louise_Christiansen,Sabrina Louise Christiansen,Enhedslisten - De Rød-Grønne,56
+Frederiksberg,3,"10. Kreds, Bülowsvej",Ø_Henrik_Friis,Henrik Friis,Enhedslisten - De Rød-Grønne,7
+Frederiksberg,3,"10. Kreds, Bülowsvej",Ø_Lea_Krusell,Lea Krusell,Enhedslisten - De Rød-Grønne,25
+Frederiksberg,3,"10. Kreds, Bülowsvej",Ø_Anders_Jørgensen,Anders Jørgensen,Enhedslisten - De Rød-Grønne,0
+Frederiksberg,3,"10. Kreds, Bülowsvej",Ø_Bianca_Vitting,Bianca Vitting,Enhedslisten - De Rød-Grønne,15
+Frederiksberg,3,"10. Kreds, Bülowsvej",Ø_Jakob_Ørsted,Jakob Ørsted,Enhedslisten - De Rød-Grønne,9
+Frederiksberg,3,"10. Kreds, Bülowsvej",Ø_Mia_Haugaard_Madsen,Mia Haugaard Madsen,Enhedslisten - De Rød-Grønne,10
+Frederiksberg,3,"10. Kreds, Bülowsvej",Ø_Henning_Pape,Henning Pape,Enhedslisten - De Rød-Grønne,2
+Frederiksberg,3,"10. Kreds, Bülowsvej",Ø_Susanne_Gustenhoff,Susanne Gustenhoff,Enhedslisten - De Rød-Grønne,1
+Frederiksberg,3,"10. Kreds, Bülowsvej",Ø_Peter_Vogelius,Peter Vogelius,Enhedslisten - De Rød-Grønne,1
+Frederiksberg,3,"10. Kreds, Bülowsvej",Ø_Else_Guldager,Else Guldager,Enhedslisten - De Rød-Grønne,10
+Frederiksberg,3,"10. Kreds, Bülowsvej",Å_Listestemmer,Listestemmer,Alternativet,25
+Frederiksberg,3,"10. Kreds, Bülowsvej",Å_Mette_Bram,Mette Bram,Alternativet,24
+Frederiksberg,3,"10. Kreds, Bülowsvej",Å_Maria_Eichhorn,Maria Eichhorn,Alternativet,13
+Frederiksberg,3,"10. Kreds, Bülowsvej",Å_Annedorthe_Kring,Annedorthe Kring,Alternativet,16
+Frederiksberg,4,"10. Kreds, Duevej",A_Listestemmer,Listestemmer,Socialdemokratiet,376
+Frederiksberg,4,"10. Kreds, Duevej",A_Michael_Vindfeldt,Michael Vindfeldt,Socialdemokratiet,478
+Frederiksberg,4,"10. Kreds, Duevej",A_Sine_Heltberg,Sine Heltberg,Socialdemokratiet,66
+Frederiksberg,4,"10. Kreds, Duevej",A_Gunvor_Wibroe,Gunvor Wibroe,Socialdemokratiet,71
+Frederiksberg,4,"10. Kreds, Duevej",A_Malte_Mathies_Løcke,Malte Mathies Løcke,Socialdemokratiet,80
+Frederiksberg,4,"10. Kreds, Duevej",A_Rune_Rummel,Rune Rummel,Socialdemokratiet,15
+Frederiksberg,4,"10. Kreds, Duevej",A_Vibeke_Westh,Vibeke Westh,Socialdemokratiet,26
+Frederiksberg,4,"10. Kreds, Duevej",A_Michael_Haas,Michael Haas,Socialdemokratiet,6
+Frederiksberg,4,"10. Kreds, Duevej",A_Christine_Jørnø_Vestergaard,Christine Jørnø Vestergaard,Socialdemokratiet,10
+Frederiksberg,4,"10. Kreds, Duevej",A_Kristoffer_Appel,Kristoffer Appel,Socialdemokratiet,33
+Frederiksberg,4,"10. Kreds, Duevej",A_Christina_Sylvest-Noer,Christina Sylvest-Noer,Socialdemokratiet,47
+Frederiksberg,4,"10. Kreds, Duevej",A_Søren_Dahlstrøm,Søren Dahlstrøm,Socialdemokratiet,28
+Frederiksberg,4,"10. Kreds, Duevej",A_Elvis_Camacho,Elvis Camacho,Socialdemokratiet,6
+Frederiksberg,4,"10. Kreds, Duevej",A_Pernille_Fendrich_Schmidt,Pernille Fendrich Schmidt,Socialdemokratiet,13
+Frederiksberg,4,"10. Kreds, Duevej",A_Thomas_Kruse_Pedersen,Thomas Kruse Pedersen,Socialdemokratiet,2
+Frederiksberg,4,"10. Kreds, Duevej",A_Manu_Sareen,Manu Sareen,Socialdemokratiet,16
+Frederiksberg,4,"10. Kreds, Duevej",A_Roxana_Simion,Roxana Simion,Socialdemokratiet,11
+Frederiksberg,4,"10. Kreds, Duevej",A_Aino_Vedel,Aino Vedel,Socialdemokratiet,0
+Frederiksberg,4,"10. Kreds, Duevej",A_Hanne_Illum,Hanne Illum,Socialdemokratiet,9
+Frederiksberg,4,"10. Kreds, Duevej",A_Malou_Astrup_Clemmensen,Malou Astrup Clemmensen,Socialdemokratiet,11
+Frederiksberg,4,"10. Kreds, Duevej",A_Julie_Weile,Julie Weile,Socialdemokratiet,5
+Frederiksberg,4,"10. Kreds, Duevej",A_Jesper_Telcs,Jesper Telcs,Socialdemokratiet,3
+Frederiksberg,4,"10. Kreds, Duevej",A_Jasminka_Kamic,Jasminka Kamic,Socialdemokratiet,10
+Frederiksberg,4,"10. Kreds, Duevej",A_Helena_Johannessen-Henry,Helena Johannessen-Henry,Socialdemokratiet,7
+Frederiksberg,4,"10. Kreds, Duevej",A_Anders_Kaare,Anders Kaare,Socialdemokratiet,4
+Frederiksberg,4,"10. Kreds, Duevej",B_Listestemmer,Listestemmer,Radikale Venstre,247
+Frederiksberg,4,"10. Kreds, Duevej",B_Lone_Loklindt,Lone Loklindt,Radikale Venstre,256
+Frederiksberg,4,"10. Kreds, Duevej",B_Ruben_Kidde,Ruben Kidde,Radikale Venstre,186
+Frederiksberg,4,"10. Kreds, Duevej",B_Freja_Fokdal,Freja Fokdal,Radikale Venstre,123
+Frederiksberg,4,"10. Kreds, Duevej",B_Emilie_Normann,Emilie Normann,Radikale Venstre,22
+Frederiksberg,4,"10. Kreds, Duevej",B_Kirsten_Lee,Kirsten Lee,Radikale Venstre,7
+Frederiksberg,4,"10. Kreds, Duevej",B_Jens-Christian_Navarro_Poulsen,Jens-Christian Navarro Poulsen,Radikale Venstre,2
+Frederiksberg,4,"10. Kreds, Duevej",B_David_Munis_Zepernick,David Munis Zepernick,Radikale Venstre,10
+Frederiksberg,4,"10. Kreds, Duevej",B_Thomas_Baark,Thomas Baark,Radikale Venstre,27
+Frederiksberg,4,"10. Kreds, Duevej",B_Anne-Sofie_Sadolin_Henningsen,Anne-Sofie Sadolin Henningsen,Radikale Venstre,26
+Frederiksberg,4,"10. Kreds, Duevej",B_Nicholai_Tandrup,Nicholai Tandrup,Radikale Venstre,10
+Frederiksberg,4,"10. Kreds, Duevej",B_Lars_Brask,Lars Brask,Radikale Venstre,3
+Frederiksberg,4,"10. Kreds, Duevej",C_Listestemmer,Listestemmer,Det Konservative Folkeparti,972
+Frederiksberg,4,"10. Kreds, Duevej",C_Simon_Aggesen,Simon Aggesen,Det Konservative Folkeparti,725
+Frederiksberg,4,"10. Kreds, Duevej",C_Alexandra_Dessoy,Alexandra Dessoy,Det Konservative Folkeparti,65
+Frederiksberg,4,"10. Kreds, Duevej",C_Nikolaj_Bøgh,Nikolaj Bøgh,Det Konservative Folkeparti,112
+Frederiksberg,4,"10. Kreds, Duevej",C_Flemming_Brank,Flemming Brank,Det Konservative Folkeparti,27
+Frederiksberg,4,"10. Kreds, Duevej",C_Helle_Sjelle,Helle Sjelle,Det Konservative Folkeparti,56
+Frederiksberg,4,"10. Kreds, Duevej",C_Laura_Lindahl,Laura Lindahl,Det Konservative Folkeparti,210
+Frederiksberg,4,"10. Kreds, Duevej",C_Merete_Winther_Hildebrandt,Merete Winther Hildebrandt,Det Konservative Folkeparti,202
+Frederiksberg,4,"10. Kreds, Duevej",C_Fasael_Rehman,Fasael Rehman,Det Konservative Folkeparti,117
+Frederiksberg,4,"10. Kreds, Duevej",C_Brian_Holm,Brian Holm,Det Konservative Folkeparti,146
+Frederiksberg,4,"10. Kreds, Duevej",C_Carina_Høedt,Carina Høedt,Det Konservative Folkeparti,23
+Frederiksberg,4,"10. Kreds, Duevej",C_Bent_Isager-Nielsen,Bent Isager-Nielsen,Det Konservative Folkeparti,123
+Frederiksberg,4,"10. Kreds, Duevej",C_Michael_Wagner_Molin_Brautsch,Michael Wagner Molin Brautsch,Det Konservative Folkeparti,30
+Frederiksberg,4,"10. Kreds, Duevej",C_Malene_Sandfeld,Malene Sandfeld,Det Konservative Folkeparti,25
+Frederiksberg,4,"10. Kreds, Duevej",C_Claus_Wagenblast-Franck,Claus Wagenblast-Franck,Det Konservative Folkeparti,23
+Frederiksberg,4,"10. Kreds, Duevej",C_Helene_Fagerhøj,Helene Fagerhøj,Det Konservative Folkeparti,15
+Frederiksberg,4,"10. Kreds, Duevej",C_Jacob_Rosenberg,Jacob Rosenberg,Det Konservative Folkeparti,37
+Frederiksberg,4,"10. Kreds, Duevej",C_Anders_Storgaard,Anders Storgaard,Det Konservative Folkeparti,94
+Frederiksberg,4,"10. Kreds, Duevej",C_Asli_Usakli,Asli Usakli,Det Konservative Folkeparti,11
+Frederiksberg,4,"10. Kreds, Duevej",C_Jakob_Sejergaard,Jakob Sejergaard,Det Konservative Folkeparti,12
+Frederiksberg,4,"10. Kreds, Duevej",C_Klavs_van_Hauen,Klavs van Hauen,Det Konservative Folkeparti,4
+Frederiksberg,4,"10. Kreds, Duevej",C_Amalie_Pilgaard_Grammelstorff,Amalie Pilgaard Grammelstorff,Det Konservative Folkeparti,14
+Frederiksberg,4,"10. Kreds, Duevej",C_Niko_Reich_Morales,Niko Reich Morales,Det Konservative Folkeparti,6
+Frederiksberg,4,"10. Kreds, Duevej",C_Susan_Vestergaard,Susan Vestergaard,Det Konservative Folkeparti,28
+Frederiksberg,4,"10. Kreds, Duevej",C_Torsten_Vittrup_Dalegaard,Torsten Vittrup Dalegaard,Det Konservative Folkeparti,23
+Frederiksberg,4,"10. Kreds, Duevej",C_Trine_Labuhn,Trine Labuhn,Det Konservative Folkeparti,77
+Frederiksberg,4,"10. Kreds, Duevej",C_Henrik_Lange,Henrik Lange,Det Konservative Folkeparti,22
+Frederiksberg,4,"10. Kreds, Duevej",C_Susanne_Elmark,Susanne Elmark,Det Konservative Folkeparti,16
+Frederiksberg,4,"10. Kreds, Duevej",C_Bo_Gøtz,Bo Gøtz,Det Konservative Folkeparti,3
+Frederiksberg,4,"10. Kreds, Duevej",C_Else_Marie_Thorgaard,Else Marie Thorgaard,Det Konservative Folkeparti,40
+Frederiksberg,4,"10. Kreds, Duevej",C_Jacob_Sten_Teckemeier,Jacob Sten Teckemeier,Det Konservative Folkeparti,2
+Frederiksberg,4,"10. Kreds, Duevej",C_Karsten_Skawbo-Jensen,Karsten Skawbo-Jensen,Det Konservative Folkeparti,19
+Frederiksberg,4,"10. Kreds, Duevej",D_Listestemmer,Listestemmer,Nye Borgerlige,35
+Frederiksberg,4,"10. Kreds, Duevej",D_Helle_Rosenvig,Helle Rosenvig,Nye Borgerlige,21
+Frederiksberg,4,"10. Kreds, Duevej",D_Karsten_Larsen,Karsten Larsen,Nye Borgerlige,5
+Frederiksberg,4,"10. Kreds, Duevej",E_Listestemmer,Listestemmer,Hvid-sten,2
+Frederiksberg,4,"10. Kreds, Duevej",E_Per_Odin_Thiim_Thim,Per Odin Thiim Thim,Hvid-sten,5
+Frederiksberg,4,"10. Kreds, Duevej",E_Frits_Degner,Frits Degner,Hvid-sten,0
+Frederiksberg,4,"10. Kreds, Duevej",F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,189
+Frederiksberg,4,"10. Kreds, Duevej",F_Balder_Mørk_Andersen,Balder Mørk Andersen,SF - Socialistisk Folkeparti,88
+Frederiksberg,4,"10. Kreds, Duevej",F_Lotte_Kofoed,Lotte Kofoed,SF - Socialistisk Folkeparti,85
+Frederiksberg,4,"10. Kreds, Duevej",F_Nurten_Akgün,Nurten Akgün,SF - Socialistisk Folkeparti,32
+Frederiksberg,4,"10. Kreds, Duevej",F_Carsten_Bøtker,Carsten Bøtker,SF - Socialistisk Folkeparti,3
+Frederiksberg,4,"10. Kreds, Duevej",F_Michella_Lescher,Michella Lescher,SF - Socialistisk Folkeparti,7
+Frederiksberg,4,"10. Kreds, Duevej",F_Henning_C._Hansen,Henning C. Hansen,SF - Socialistisk Folkeparti,1
+Frederiksberg,4,"10. Kreds, Duevej",F_Sidsel_Rastad,Sidsel Rastad,SF - Socialistisk Folkeparti,20
+Frederiksberg,4,"10. Kreds, Duevej",F_Tomas_Munch_Nielsen,Tomas Munch Nielsen,SF - Socialistisk Folkeparti,0
+Frederiksberg,4,"10. Kreds, Duevej",F_Morten_J._Larsen,Morten J. Larsen,SF - Socialistisk Folkeparti,0
+Frederiksberg,4,"10. Kreds, Duevej",F_René_Hülz,René Hülz,SF - Socialistisk Folkeparti,0
+Frederiksberg,4,"10. Kreds, Duevej",F_Anette_Schrøder,Anette Schrøder,SF - Socialistisk Folkeparti,2
+Frederiksberg,4,"10. Kreds, Duevej",F_Gitte_Greve_Jørgensen,Gitte Greve Jørgensen,SF - Socialistisk Folkeparti,0
+Frederiksberg,4,"10. Kreds, Duevej",G_Listestemmer,Listestemmer,Veganerpartiet,10
+Frederiksberg,4,"10. Kreds, Duevej",G_Carsten_Olesen,Carsten Olesen,Veganerpartiet,8
+Frederiksberg,4,"10. Kreds, Duevej",H_Listestemmer,Listestemmer,Havenisse-partiet,4
+Frederiksberg,4,"10. Kreds, Duevej",H_Hannibal_Hildorf,Hannibal Hildorf,Havenisse-partiet,2
+Frederiksberg,4,"10. Kreds, Duevej",I_Listestemmer,Listestemmer,Liberal Alliance,34
+Frederiksberg,4,"10. Kreds, Duevej",I_Lars_Berg_Andersen,Lars Berg Andersen,Liberal Alliance,37
+Frederiksberg,4,"10. Kreds, Duevej",I_Lara_Ann_Waters,Lara Ann Waters,Liberal Alliance,13
+Frederiksberg,4,"10. Kreds, Duevej",I_Claus_Willén,Claus Willén,Liberal Alliance,7
+Frederiksberg,4,"10. Kreds, Duevej",I_Katrine_Fischer,Katrine Fischer,Liberal Alliance,10
+Frederiksberg,4,"10. Kreds, Duevej",J_Listestemmer,Listestemmer,Bitten Vivi Jensen,10
+Frederiksberg,4,"10. Kreds, Duevej",J_Bitten_Vivi_Jensen,Bitten Vivi Jensen,Bitten Vivi Jensen,17
+Frederiksberg,4,"10. Kreds, Duevej",J_Katja_Din,Katja Din,Bitten Vivi Jensen,1
+Frederiksberg,4,"10. Kreds, Duevej",J_Pierre_Larsen,Pierre Larsen,Bitten Vivi Jensen,0
+Frederiksberg,4,"10. Kreds, Duevej",J_Christel_Jensen,Christel Jensen,Bitten Vivi Jensen,0
+Frederiksberg,4,"10. Kreds, Duevej",J_Mariana_Burmeister,Mariana Burmeister,Bitten Vivi Jensen,2
+Frederiksberg,4,"10. Kreds, Duevej",J_Patrick_Hansen,Patrick Hansen,Bitten Vivi Jensen,1
+Frederiksberg,4,"10. Kreds, Duevej",K_Listestemmer,Listestemmer,Kristendemokraterne,11
+Frederiksberg,4,"10. Kreds, Duevej",K_Jacob_Bang,Jacob Bang,Kristendemokraterne,1
+Frederiksberg,4,"10. Kreds, Duevej",O_Listestemmer,Listestemmer,Dansk Folkeparti,27
+Frederiksberg,4,"10. Kreds, Duevej",O_Eva_Bechmann,Eva Bechmann,Dansk Folkeparti,19
+Frederiksberg,4,"10. Kreds, Duevej",O_Christian_Bülow,Christian Bülow,Dansk Folkeparti,10
+Frederiksberg,4,"10. Kreds, Duevej",O_David_M._Gerschwald,David M. Gerschwald,Dansk Folkeparti,0
+Frederiksberg,4,"10. Kreds, Duevej",T_Listestemmer,Listestemmer,Volt,4
+Frederiksberg,4,"10. Kreds, Duevej",T_Kathrine_Richter,Kathrine Richter,Volt,5
+Frederiksberg,4,"10. Kreds, Duevej",T_Mathieu_Pouletty,Mathieu Pouletty,Volt,0
+Frederiksberg,4,"10. Kreds, Duevej",V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",103
+Frederiksberg,4,"10. Kreds, Duevej",V_Jan_E._Jørgensen,Jan E. Jørgensen,"Venstre, Danmarks Liberale Parti",376
+Frederiksberg,4,"10. Kreds, Duevej",V_Alexandra_Sasha,Alexandra Sasha,"Venstre, Danmarks Liberale Parti",59
+Frederiksberg,4,"10. Kreds, Duevej",V_Martin_Voergaard,Martin Voergaard,"Venstre, Danmarks Liberale Parti",22
+Frederiksberg,4,"10. Kreds, Duevej",V_Peter_Fjerring,Peter Fjerring,"Venstre, Danmarks Liberale Parti",4
+Frederiksberg,4,"10. Kreds, Duevej",V_Bettina_Palle,Bettina Palle,"Venstre, Danmarks Liberale Parti",7
+Frederiksberg,4,"10. Kreds, Duevej",V_Jesper_Munk,Jesper Munk,"Venstre, Danmarks Liberale Parti",1
+Frederiksberg,4,"10. Kreds, Duevej",V_William_Birgisson,William Birgisson,"Venstre, Danmarks Liberale Parti",5
+Frederiksberg,4,"10. Kreds, Duevej",V_Casper_Pedersen,Casper Pedersen,"Venstre, Danmarks Liberale Parti",6
+Frederiksberg,4,"10. Kreds, Duevej",V_Christian_Ohm-Hieronymussen,Christian Ohm-Hieronymussen,"Venstre, Danmarks Liberale Parti",5
+Frederiksberg,4,"10. Kreds, Duevej",V_Lars_Bøge,Lars Bøge,"Venstre, Danmarks Liberale Parti",4
+Frederiksberg,4,"10. Kreds, Duevej",Y_Listestemmer,Listestemmer,Kærlighedspartiet (Regnbuef / Bef),2
+Frederiksberg,4,"10. Kreds, Duevej",Y_Franco_Calledda,Franco Calledda,Kærlighedspartiet (Regnbuef / Bef),2
+Frederiksberg,4,"10. Kreds, Duevej",Y_Claus_Bork,Claus Bork,Kærlighedspartiet (Regnbuef / Bef),1
+Frederiksberg,4,"10. Kreds, Duevej",Æ_Listestemmer,Listestemmer,Frihedslisten,7
+Frederiksberg,4,"10. Kreds, Duevej",Æ_Liv_Oppedal,Liv Oppedal,Frihedslisten,4
+Frederiksberg,4,"10. Kreds, Duevej",Æ_Lone_Nørgaard,Lone Nørgaard,Frihedslisten,6
+Frederiksberg,4,"10. Kreds, Duevej",Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,463
+Frederiksberg,4,"10. Kreds, Duevej",Ø_Mette_Bang_Larsen,Mette Bang Larsen,Enhedslisten - De Rød-Grønne,142
+Frederiksberg,4,"10. Kreds, Duevej",Ø_Pelle_Dragsted,Pelle Dragsted,Enhedslisten - De Rød-Grønne,514
+Frederiksberg,4,"10. Kreds, Duevej",Ø_Daniel_Panduro,Daniel Panduro,Enhedslisten - De Rød-Grønne,28
+Frederiksberg,4,"10. Kreds, Duevej",Ø_Anja_Lundtoft,Anja Lundtoft,Enhedslisten - De Rød-Grønne,30
+Frederiksberg,4,"10. Kreds, Duevej",Ø_Thyge_Enevoldsen,Thyge Enevoldsen,Enhedslisten - De Rød-Grønne,24
+Frederiksberg,4,"10. Kreds, Duevej",Ø_Rasmus_Holme_Nielsen,Rasmus Holme Nielsen,Enhedslisten - De Rød-Grønne,18
+Frederiksberg,4,"10. Kreds, Duevej",Ø_Tone_Høybye,Tone Høybye,Enhedslisten - De Rød-Grønne,16
+Frederiksberg,4,"10. Kreds, Duevej",Ø_Mads-Emil_Gaardsvig_Christensen,Mads-Emil Gaardsvig Christensen,Enhedslisten - De Rød-Grønne,5
+Frederiksberg,4,"10. Kreds, Duevej",Ø_Christina_Ytzen,Christina Ytzen,Enhedslisten - De Rød-Grønne,11
+Frederiksberg,4,"10. Kreds, Duevej",Ø_Morten_K._Christensen-Hornehøj,Morten K. Christensen-Hornehøj,Enhedslisten - De Rød-Grønne,5
+Frederiksberg,4,"10. Kreds, Duevej",Ø_Eva_Thune_Jacobsen,Eva Thune Jacobsen,Enhedslisten - De Rød-Grønne,7
+Frederiksberg,4,"10. Kreds, Duevej",Ø_Malte_Bern_Jensen,Malte Bern Jensen,Enhedslisten - De Rød-Grønne,13
+Frederiksberg,4,"10. Kreds, Duevej",Ø_Anne_Eggen,Anne Eggen,Enhedslisten - De Rød-Grønne,0
+Frederiksberg,4,"10. Kreds, Duevej",Ø_Peter_Mikael_Hansen,Peter Mikael Hansen,Enhedslisten - De Rød-Grønne,1
+Frederiksberg,4,"10. Kreds, Duevej",Ø_Ulla_Pierri_Enevoldsen,Ulla Pierri Enevoldsen,Enhedslisten - De Rød-Grønne,5
+Frederiksberg,4,"10. Kreds, Duevej",Ø_Christian_Gorm_Hansen,Christian Gorm Hansen,Enhedslisten - De Rød-Grønne,0
+Frederiksberg,4,"10. Kreds, Duevej",Ø_Cecilia_S._Nysted,Cecilia S. Nysted,Enhedslisten - De Rød-Grønne,2
+Frederiksberg,4,"10. Kreds, Duevej",Ø_Emil_Samaras,Emil Samaras,Enhedslisten - De Rød-Grønne,14
+Frederiksberg,4,"10. Kreds, Duevej",Ø_Marianne_Rohde,Marianne Rohde,Enhedslisten - De Rød-Grønne,8
+Frederiksberg,4,"10. Kreds, Duevej",Ø_Torben_Lindquist,Torben Lindquist,Enhedslisten - De Rød-Grønne,0
+Frederiksberg,4,"10. Kreds, Duevej",Ø_Ulla_Binderup_Jørgensen,Ulla Binderup Jørgensen,Enhedslisten - De Rød-Grønne,8
+Frederiksberg,4,"10. Kreds, Duevej",Ø_Jacob_Nicolajsen,Jacob Nicolajsen,Enhedslisten - De Rød-Grønne,1
+Frederiksberg,4,"10. Kreds, Duevej",Ø_Sabrina_Louise_Christiansen,Sabrina Louise Christiansen,Enhedslisten - De Rød-Grønne,50
+Frederiksberg,4,"10. Kreds, Duevej",Ø_Henrik_Friis,Henrik Friis,Enhedslisten - De Rød-Grønne,5
+Frederiksberg,4,"10. Kreds, Duevej",Ø_Lea_Krusell,Lea Krusell,Enhedslisten - De Rød-Grønne,28
+Frederiksberg,4,"10. Kreds, Duevej",Ø_Anders_Jørgensen,Anders Jørgensen,Enhedslisten - De Rød-Grønne,0
+Frederiksberg,4,"10. Kreds, Duevej",Ø_Bianca_Vitting,Bianca Vitting,Enhedslisten - De Rød-Grønne,25
+Frederiksberg,4,"10. Kreds, Duevej",Ø_Jakob_Ørsted,Jakob Ørsted,Enhedslisten - De Rød-Grønne,4
+Frederiksberg,4,"10. Kreds, Duevej",Ø_Mia_Haugaard_Madsen,Mia Haugaard Madsen,Enhedslisten - De Rød-Grønne,8
+Frederiksberg,4,"10. Kreds, Duevej",Ø_Henning_Pape,Henning Pape,Enhedslisten - De Rød-Grønne,1
+Frederiksberg,4,"10. Kreds, Duevej",Ø_Susanne_Gustenhoff,Susanne Gustenhoff,Enhedslisten - De Rød-Grønne,0
+Frederiksberg,4,"10. Kreds, Duevej",Ø_Peter_Vogelius,Peter Vogelius,Enhedslisten - De Rød-Grønne,0
+Frederiksberg,4,"10. Kreds, Duevej",Ø_Else_Guldager,Else Guldager,Enhedslisten - De Rød-Grønne,15
+Frederiksberg,4,"10. Kreds, Duevej",Å_Listestemmer,Listestemmer,Alternativet,26
+Frederiksberg,4,"10. Kreds, Duevej",Å_Mette_Bram,Mette Bram,Alternativet,16
+Frederiksberg,4,"10. Kreds, Duevej",Å_Maria_Eichhorn,Maria Eichhorn,Alternativet,19
+Frederiksberg,4,"10. Kreds, Duevej",Å_Annedorthe_Kring,Annedorthe Kring,Alternativet,9
+Frederiksberg,5,"11. Kreds, Lindevang",A_Listestemmer,Listestemmer,Socialdemokratiet,451
+Frederiksberg,5,"11. Kreds, Lindevang",A_Michael_Vindfeldt,Michael Vindfeldt,Socialdemokratiet,586
+Frederiksberg,5,"11. Kreds, Lindevang",A_Sine_Heltberg,Sine Heltberg,Socialdemokratiet,113
+Frederiksberg,5,"11. Kreds, Lindevang",A_Gunvor_Wibroe,Gunvor Wibroe,Socialdemokratiet,38
+Frederiksberg,5,"11. Kreds, Lindevang",A_Malte_Mathies_Løcke,Malte Mathies Løcke,Socialdemokratiet,84
+Frederiksberg,5,"11. Kreds, Lindevang",A_Rune_Rummel,Rune Rummel,Socialdemokratiet,5
+Frederiksberg,5,"11. Kreds, Lindevang",A_Vibeke_Westh,Vibeke Westh,Socialdemokratiet,23
+Frederiksberg,5,"11. Kreds, Lindevang",A_Michael_Haas,Michael Haas,Socialdemokratiet,6
+Frederiksberg,5,"11. Kreds, Lindevang",A_Christine_Jørnø_Vestergaard,Christine Jørnø Vestergaard,Socialdemokratiet,23
+Frederiksberg,5,"11. Kreds, Lindevang",A_Kristoffer_Appel,Kristoffer Appel,Socialdemokratiet,14
+Frederiksberg,5,"11. Kreds, Lindevang",A_Christina_Sylvest-Noer,Christina Sylvest-Noer,Socialdemokratiet,53
+Frederiksberg,5,"11. Kreds, Lindevang",A_Søren_Dahlstrøm,Søren Dahlstrøm,Socialdemokratiet,16
+Frederiksberg,5,"11. Kreds, Lindevang",A_Elvis_Camacho,Elvis Camacho,Socialdemokratiet,6
+Frederiksberg,5,"11. Kreds, Lindevang",A_Pernille_Fendrich_Schmidt,Pernille Fendrich Schmidt,Socialdemokratiet,13
+Frederiksberg,5,"11. Kreds, Lindevang",A_Thomas_Kruse_Pedersen,Thomas Kruse Pedersen,Socialdemokratiet,6
+Frederiksberg,5,"11. Kreds, Lindevang",A_Manu_Sareen,Manu Sareen,Socialdemokratiet,38
+Frederiksberg,5,"11. Kreds, Lindevang",A_Roxana_Simion,Roxana Simion,Socialdemokratiet,30
+Frederiksberg,5,"11. Kreds, Lindevang",A_Aino_Vedel,Aino Vedel,Socialdemokratiet,2
+Frederiksberg,5,"11. Kreds, Lindevang",A_Hanne_Illum,Hanne Illum,Socialdemokratiet,22
+Frederiksberg,5,"11. Kreds, Lindevang",A_Malou_Astrup_Clemmensen,Malou Astrup Clemmensen,Socialdemokratiet,8
+Frederiksberg,5,"11. Kreds, Lindevang",A_Julie_Weile,Julie Weile,Socialdemokratiet,3
+Frederiksberg,5,"11. Kreds, Lindevang",A_Jesper_Telcs,Jesper Telcs,Socialdemokratiet,3
+Frederiksberg,5,"11. Kreds, Lindevang",A_Jasminka_Kamic,Jasminka Kamic,Socialdemokratiet,18
+Frederiksberg,5,"11. Kreds, Lindevang",A_Helena_Johannessen-Henry,Helena Johannessen-Henry,Socialdemokratiet,10
+Frederiksberg,5,"11. Kreds, Lindevang",A_Anders_Kaare,Anders Kaare,Socialdemokratiet,4
+Frederiksberg,5,"11. Kreds, Lindevang",B_Listestemmer,Listestemmer,Radikale Venstre,165
+Frederiksberg,5,"11. Kreds, Lindevang",B_Lone_Loklindt,Lone Loklindt,Radikale Venstre,150
+Frederiksberg,5,"11. Kreds, Lindevang",B_Ruben_Kidde,Ruben Kidde,Radikale Venstre,70
+Frederiksberg,5,"11. Kreds, Lindevang",B_Freja_Fokdal,Freja Fokdal,Radikale Venstre,94
+Frederiksberg,5,"11. Kreds, Lindevang",B_Emilie_Normann,Emilie Normann,Radikale Venstre,10
+Frederiksberg,5,"11. Kreds, Lindevang",B_Kirsten_Lee,Kirsten Lee,Radikale Venstre,7
+Frederiksberg,5,"11. Kreds, Lindevang",B_Jens-Christian_Navarro_Poulsen,Jens-Christian Navarro Poulsen,Radikale Venstre,2
+Frederiksberg,5,"11. Kreds, Lindevang",B_David_Munis_Zepernick,David Munis Zepernick,Radikale Venstre,15
+Frederiksberg,5,"11. Kreds, Lindevang",B_Thomas_Baark,Thomas Baark,Radikale Venstre,6
+Frederiksberg,5,"11. Kreds, Lindevang",B_Anne-Sofie_Sadolin_Henningsen,Anne-Sofie Sadolin Henningsen,Radikale Venstre,22
+Frederiksberg,5,"11. Kreds, Lindevang",B_Nicholai_Tandrup,Nicholai Tandrup,Radikale Venstre,5
+Frederiksberg,5,"11. Kreds, Lindevang",B_Lars_Brask,Lars Brask,Radikale Venstre,2
+Frederiksberg,5,"11. Kreds, Lindevang",C_Listestemmer,Listestemmer,Det Konservative Folkeparti,912
+Frederiksberg,5,"11. Kreds, Lindevang",C_Simon_Aggesen,Simon Aggesen,Det Konservative Folkeparti,638
+Frederiksberg,5,"11. Kreds, Lindevang",C_Alexandra_Dessoy,Alexandra Dessoy,Det Konservative Folkeparti,52
+Frederiksberg,5,"11. Kreds, Lindevang",C_Nikolaj_Bøgh,Nikolaj Bøgh,Det Konservative Folkeparti,106
+Frederiksberg,5,"11. Kreds, Lindevang",C_Flemming_Brank,Flemming Brank,Det Konservative Folkeparti,60
+Frederiksberg,5,"11. Kreds, Lindevang",C_Helle_Sjelle,Helle Sjelle,Det Konservative Folkeparti,69
+Frederiksberg,5,"11. Kreds, Lindevang",C_Laura_Lindahl,Laura Lindahl,Det Konservative Folkeparti,147
+Frederiksberg,5,"11. Kreds, Lindevang",C_Merete_Winther_Hildebrandt,Merete Winther Hildebrandt,Det Konservative Folkeparti,65
+Frederiksberg,5,"11. Kreds, Lindevang",C_Fasael_Rehman,Fasael Rehman,Det Konservative Folkeparti,40
+Frederiksberg,5,"11. Kreds, Lindevang",C_Brian_Holm,Brian Holm,Det Konservative Folkeparti,128
+Frederiksberg,5,"11. Kreds, Lindevang",C_Carina_Høedt,Carina Høedt,Det Konservative Folkeparti,15
+Frederiksberg,5,"11. Kreds, Lindevang",C_Bent_Isager-Nielsen,Bent Isager-Nielsen,Det Konservative Folkeparti,156
+Frederiksberg,5,"11. Kreds, Lindevang",C_Michael_Wagner_Molin_Brautsch,Michael Wagner Molin Brautsch,Det Konservative Folkeparti,62
+Frederiksberg,5,"11. Kreds, Lindevang",C_Malene_Sandfeld,Malene Sandfeld,Det Konservative Folkeparti,27
+Frederiksberg,5,"11. Kreds, Lindevang",C_Claus_Wagenblast-Franck,Claus Wagenblast-Franck,Det Konservative Folkeparti,17
+Frederiksberg,5,"11. Kreds, Lindevang",C_Helene_Fagerhøj,Helene Fagerhøj,Det Konservative Folkeparti,24
+Frederiksberg,5,"11. Kreds, Lindevang",C_Jacob_Rosenberg,Jacob Rosenberg,Det Konservative Folkeparti,30
+Frederiksberg,5,"11. Kreds, Lindevang",C_Anders_Storgaard,Anders Storgaard,Det Konservative Folkeparti,118
+Frederiksberg,5,"11. Kreds, Lindevang",C_Asli_Usakli,Asli Usakli,Det Konservative Folkeparti,20
+Frederiksberg,5,"11. Kreds, Lindevang",C_Jakob_Sejergaard,Jakob Sejergaard,Det Konservative Folkeparti,7
+Frederiksberg,5,"11. Kreds, Lindevang",C_Klavs_van_Hauen,Klavs van Hauen,Det Konservative Folkeparti,9
+Frederiksberg,5,"11. Kreds, Lindevang",C_Amalie_Pilgaard_Grammelstorff,Amalie Pilgaard Grammelstorff,Det Konservative Folkeparti,20
+Frederiksberg,5,"11. Kreds, Lindevang",C_Niko_Reich_Morales,Niko Reich Morales,Det Konservative Folkeparti,14
+Frederiksberg,5,"11. Kreds, Lindevang",C_Susan_Vestergaard,Susan Vestergaard,Det Konservative Folkeparti,13
+Frederiksberg,5,"11. Kreds, Lindevang",C_Torsten_Vittrup_Dalegaard,Torsten Vittrup Dalegaard,Det Konservative Folkeparti,42
+Frederiksberg,5,"11. Kreds, Lindevang",C_Trine_Labuhn,Trine Labuhn,Det Konservative Folkeparti,48
+Frederiksberg,5,"11. Kreds, Lindevang",C_Henrik_Lange,Henrik Lange,Det Konservative Folkeparti,22
+Frederiksberg,5,"11. Kreds, Lindevang",C_Susanne_Elmark,Susanne Elmark,Det Konservative Folkeparti,10
+Frederiksberg,5,"11. Kreds, Lindevang",C_Bo_Gøtz,Bo Gøtz,Det Konservative Folkeparti,3
+Frederiksberg,5,"11. Kreds, Lindevang",C_Else_Marie_Thorgaard,Else Marie Thorgaard,Det Konservative Folkeparti,18
+Frederiksberg,5,"11. Kreds, Lindevang",C_Jacob_Sten_Teckemeier,Jacob Sten Teckemeier,Det Konservative Folkeparti,2
+Frederiksberg,5,"11. Kreds, Lindevang",C_Karsten_Skawbo-Jensen,Karsten Skawbo-Jensen,Det Konservative Folkeparti,18
+Frederiksberg,5,"11. Kreds, Lindevang",D_Listestemmer,Listestemmer,Nye Borgerlige,46
+Frederiksberg,5,"11. Kreds, Lindevang",D_Helle_Rosenvig,Helle Rosenvig,Nye Borgerlige,33
+Frederiksberg,5,"11. Kreds, Lindevang",D_Karsten_Larsen,Karsten Larsen,Nye Borgerlige,8
+Frederiksberg,5,"11. Kreds, Lindevang",E_Listestemmer,Listestemmer,Hvid-sten,3
+Frederiksberg,5,"11. Kreds, Lindevang",E_Per_Odin_Thiim_Thim,Per Odin Thiim Thim,Hvid-sten,7
+Frederiksberg,5,"11. Kreds, Lindevang",E_Frits_Degner,Frits Degner,Hvid-sten,1
+Frederiksberg,5,"11. Kreds, Lindevang",F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,149
+Frederiksberg,5,"11. Kreds, Lindevang",F_Balder_Mørk_Andersen,Balder Mørk Andersen,SF - Socialistisk Folkeparti,86
+Frederiksberg,5,"11. Kreds, Lindevang",F_Lotte_Kofoed,Lotte Kofoed,SF - Socialistisk Folkeparti,79
+Frederiksberg,5,"11. Kreds, Lindevang",F_Nurten_Akgün,Nurten Akgün,SF - Socialistisk Folkeparti,18
+Frederiksberg,5,"11. Kreds, Lindevang",F_Carsten_Bøtker,Carsten Bøtker,SF - Socialistisk Folkeparti,17
+Frederiksberg,5,"11. Kreds, Lindevang",F_Michella_Lescher,Michella Lescher,SF - Socialistisk Folkeparti,4
+Frederiksberg,5,"11. Kreds, Lindevang",F_Henning_C._Hansen,Henning C. Hansen,SF - Socialistisk Folkeparti,1
+Frederiksberg,5,"11. Kreds, Lindevang",F_Sidsel_Rastad,Sidsel Rastad,SF - Socialistisk Folkeparti,10
+Frederiksberg,5,"11. Kreds, Lindevang",F_Tomas_Munch_Nielsen,Tomas Munch Nielsen,SF - Socialistisk Folkeparti,0
+Frederiksberg,5,"11. Kreds, Lindevang",F_Morten_J._Larsen,Morten J. Larsen,SF - Socialistisk Folkeparti,1
+Frederiksberg,5,"11. Kreds, Lindevang",F_René_Hülz,René Hülz,SF - Socialistisk Folkeparti,0
+Frederiksberg,5,"11. Kreds, Lindevang",F_Anette_Schrøder,Anette Schrøder,SF - Socialistisk Folkeparti,3
+Frederiksberg,5,"11. Kreds, Lindevang",F_Gitte_Greve_Jørgensen,Gitte Greve Jørgensen,SF - Socialistisk Folkeparti,2
+Frederiksberg,5,"11. Kreds, Lindevang",G_Listestemmer,Listestemmer,Veganerpartiet,11
+Frederiksberg,5,"11. Kreds, Lindevang",G_Carsten_Olesen,Carsten Olesen,Veganerpartiet,21
+Frederiksberg,5,"11. Kreds, Lindevang",H_Listestemmer,Listestemmer,Havenisse-partiet,2
+Frederiksberg,5,"11. Kreds, Lindevang",H_Hannibal_Hildorf,Hannibal Hildorf,Havenisse-partiet,3
+Frederiksberg,5,"11. Kreds, Lindevang",I_Listestemmer,Listestemmer,Liberal Alliance,36
+Frederiksberg,5,"11. Kreds, Lindevang",I_Lars_Berg_Andersen,Lars Berg Andersen,Liberal Alliance,57
+Frederiksberg,5,"11. Kreds, Lindevang",I_Lara_Ann_Waters,Lara Ann Waters,Liberal Alliance,6
+Frederiksberg,5,"11. Kreds, Lindevang",I_Claus_Willén,Claus Willén,Liberal Alliance,6
+Frederiksberg,5,"11. Kreds, Lindevang",I_Katrine_Fischer,Katrine Fischer,Liberal Alliance,8
+Frederiksberg,5,"11. Kreds, Lindevang",J_Listestemmer,Listestemmer,Bitten Vivi Jensen,13
+Frederiksberg,5,"11. Kreds, Lindevang",J_Bitten_Vivi_Jensen,Bitten Vivi Jensen,Bitten Vivi Jensen,44
+Frederiksberg,5,"11. Kreds, Lindevang",J_Katja_Din,Katja Din,Bitten Vivi Jensen,2
+Frederiksberg,5,"11. Kreds, Lindevang",J_Pierre_Larsen,Pierre Larsen,Bitten Vivi Jensen,2
+Frederiksberg,5,"11. Kreds, Lindevang",J_Christel_Jensen,Christel Jensen,Bitten Vivi Jensen,1
+Frederiksberg,5,"11. Kreds, Lindevang",J_Mariana_Burmeister,Mariana Burmeister,Bitten Vivi Jensen,0
+Frederiksberg,5,"11. Kreds, Lindevang",J_Patrick_Hansen,Patrick Hansen,Bitten Vivi Jensen,1
+Frederiksberg,5,"11. Kreds, Lindevang",K_Listestemmer,Listestemmer,Kristendemokraterne,17
+Frederiksberg,5,"11. Kreds, Lindevang",K_Jacob_Bang,Jacob Bang,Kristendemokraterne,0
+Frederiksberg,5,"11. Kreds, Lindevang",O_Listestemmer,Listestemmer,Dansk Folkeparti,35
+Frederiksberg,5,"11. Kreds, Lindevang",O_Eva_Bechmann,Eva Bechmann,Dansk Folkeparti,23
+Frederiksberg,5,"11. Kreds, Lindevang",O_Christian_Bülow,Christian Bülow,Dansk Folkeparti,17
+Frederiksberg,5,"11. Kreds, Lindevang",O_David_M._Gerschwald,David M. Gerschwald,Dansk Folkeparti,3
+Frederiksberg,5,"11. Kreds, Lindevang",T_Listestemmer,Listestemmer,Volt,3
+Frederiksberg,5,"11. Kreds, Lindevang",T_Kathrine_Richter,Kathrine Richter,Volt,6
+Frederiksberg,5,"11. Kreds, Lindevang",T_Mathieu_Pouletty,Mathieu Pouletty,Volt,0
+Frederiksberg,5,"11. Kreds, Lindevang",V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",101
+Frederiksberg,5,"11. Kreds, Lindevang",V_Jan_E._Jørgensen,Jan E. Jørgensen,"Venstre, Danmarks Liberale Parti",224
+Frederiksberg,5,"11. Kreds, Lindevang",V_Alexandra_Sasha,Alexandra Sasha,"Venstre, Danmarks Liberale Parti",69
+Frederiksberg,5,"11. Kreds, Lindevang",V_Martin_Voergaard,Martin Voergaard,"Venstre, Danmarks Liberale Parti",14
+Frederiksberg,5,"11. Kreds, Lindevang",V_Peter_Fjerring,Peter Fjerring,"Venstre, Danmarks Liberale Parti",12
+Frederiksberg,5,"11. Kreds, Lindevang",V_Bettina_Palle,Bettina Palle,"Venstre, Danmarks Liberale Parti",7
+Frederiksberg,5,"11. Kreds, Lindevang",V_Jesper_Munk,Jesper Munk,"Venstre, Danmarks Liberale Parti",1
+Frederiksberg,5,"11. Kreds, Lindevang",V_William_Birgisson,William Birgisson,"Venstre, Danmarks Liberale Parti",6
+Frederiksberg,5,"11. Kreds, Lindevang",V_Casper_Pedersen,Casper Pedersen,"Venstre, Danmarks Liberale Parti",6
+Frederiksberg,5,"11. Kreds, Lindevang",V_Christian_Ohm-Hieronymussen,Christian Ohm-Hieronymussen,"Venstre, Danmarks Liberale Parti",1
+Frederiksberg,5,"11. Kreds, Lindevang",V_Lars_Bøge,Lars Bøge,"Venstre, Danmarks Liberale Parti",3
+Frederiksberg,5,"11. Kreds, Lindevang",Y_Listestemmer,Listestemmer,Kærlighedspartiet (Regnbuef / Bef),2
+Frederiksberg,5,"11. Kreds, Lindevang",Y_Franco_Calledda,Franco Calledda,Kærlighedspartiet (Regnbuef / Bef),1
+Frederiksberg,5,"11. Kreds, Lindevang",Y_Claus_Bork,Claus Bork,Kærlighedspartiet (Regnbuef / Bef),0
+Frederiksberg,5,"11. Kreds, Lindevang",Æ_Listestemmer,Listestemmer,Frihedslisten,18
+Frederiksberg,5,"11. Kreds, Lindevang",Æ_Liv_Oppedal,Liv Oppedal,Frihedslisten,10
+Frederiksberg,5,"11. Kreds, Lindevang",Æ_Lone_Nørgaard,Lone Nørgaard,Frihedslisten,9
+Frederiksberg,5,"11. Kreds, Lindevang",Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,478
+Frederiksberg,5,"11. Kreds, Lindevang",Ø_Mette_Bang_Larsen,Mette Bang Larsen,Enhedslisten - De Rød-Grønne,121
+Frederiksberg,5,"11. Kreds, Lindevang",Ø_Pelle_Dragsted,Pelle Dragsted,Enhedslisten - De Rød-Grønne,433
+Frederiksberg,5,"11. Kreds, Lindevang",Ø_Daniel_Panduro,Daniel Panduro,Enhedslisten - De Rød-Grønne,29
+Frederiksberg,5,"11. Kreds, Lindevang",Ø_Anja_Lundtoft,Anja Lundtoft,Enhedslisten - De Rød-Grønne,29
+Frederiksberg,5,"11. Kreds, Lindevang",Ø_Thyge_Enevoldsen,Thyge Enevoldsen,Enhedslisten - De Rød-Grønne,23
+Frederiksberg,5,"11. Kreds, Lindevang",Ø_Rasmus_Holme_Nielsen,Rasmus Holme Nielsen,Enhedslisten - De Rød-Grønne,37
+Frederiksberg,5,"11. Kreds, Lindevang",Ø_Tone_Høybye,Tone Høybye,Enhedslisten - De Rød-Grønne,10
+Frederiksberg,5,"11. Kreds, Lindevang",Ø_Mads-Emil_Gaardsvig_Christensen,Mads-Emil Gaardsvig Christensen,Enhedslisten - De Rød-Grønne,4
+Frederiksberg,5,"11. Kreds, Lindevang",Ø_Christina_Ytzen,Christina Ytzen,Enhedslisten - De Rød-Grønne,7
+Frederiksberg,5,"11. Kreds, Lindevang",Ø_Morten_K._Christensen-Hornehøj,Morten K. Christensen-Hornehøj,Enhedslisten - De Rød-Grønne,30
+Frederiksberg,5,"11. Kreds, Lindevang",Ø_Eva_Thune_Jacobsen,Eva Thune Jacobsen,Enhedslisten - De Rød-Grønne,7
+Frederiksberg,5,"11. Kreds, Lindevang",Ø_Malte_Bern_Jensen,Malte Bern Jensen,Enhedslisten - De Rød-Grønne,10
+Frederiksberg,5,"11. Kreds, Lindevang",Ø_Anne_Eggen,Anne Eggen,Enhedslisten - De Rød-Grønne,0
+Frederiksberg,5,"11. Kreds, Lindevang",Ø_Peter_Mikael_Hansen,Peter Mikael Hansen,Enhedslisten - De Rød-Grønne,6
+Frederiksberg,5,"11. Kreds, Lindevang",Ø_Ulla_Pierri_Enevoldsen,Ulla Pierri Enevoldsen,Enhedslisten - De Rød-Grønne,7
+Frederiksberg,5,"11. Kreds, Lindevang",Ø_Christian_Gorm_Hansen,Christian Gorm Hansen,Enhedslisten - De Rød-Grønne,5
+Frederiksberg,5,"11. Kreds, Lindevang",Ø_Cecilia_S._Nysted,Cecilia S. Nysted,Enhedslisten - De Rød-Grønne,3
+Frederiksberg,5,"11. Kreds, Lindevang",Ø_Emil_Samaras,Emil Samaras,Enhedslisten - De Rød-Grønne,8
+Frederiksberg,5,"11. Kreds, Lindevang",Ø_Marianne_Rohde,Marianne Rohde,Enhedslisten - De Rød-Grønne,3
+Frederiksberg,5,"11. Kreds, Lindevang",Ø_Torben_Lindquist,Torben Lindquist,Enhedslisten - De Rød-Grønne,0
+Frederiksberg,5,"11. Kreds, Lindevang",Ø_Ulla_Binderup_Jørgensen,Ulla Binderup Jørgensen,Enhedslisten - De Rød-Grønne,5
+Frederiksberg,5,"11. Kreds, Lindevang",Ø_Jacob_Nicolajsen,Jacob Nicolajsen,Enhedslisten - De Rød-Grønne,2
+Frederiksberg,5,"11. Kreds, Lindevang",Ø_Sabrina_Louise_Christiansen,Sabrina Louise Christiansen,Enhedslisten - De Rød-Grønne,33
+Frederiksberg,5,"11. Kreds, Lindevang",Ø_Henrik_Friis,Henrik Friis,Enhedslisten - De Rød-Grønne,2
+Frederiksberg,5,"11. Kreds, Lindevang",Ø_Lea_Krusell,Lea Krusell,Enhedslisten - De Rød-Grønne,8
+Frederiksberg,5,"11. Kreds, Lindevang",Ø_Anders_Jørgensen,Anders Jørgensen,Enhedslisten - De Rød-Grønne,0
+Frederiksberg,5,"11. Kreds, Lindevang",Ø_Bianca_Vitting,Bianca Vitting,Enhedslisten - De Rød-Grønne,21
+Frederiksberg,5,"11. Kreds, Lindevang",Ø_Jakob_Ørsted,Jakob Ørsted,Enhedslisten - De Rød-Grønne,6
+Frederiksberg,5,"11. Kreds, Lindevang",Ø_Mia_Haugaard_Madsen,Mia Haugaard Madsen,Enhedslisten - De Rød-Grønne,12
+Frederiksberg,5,"11. Kreds, Lindevang",Ø_Henning_Pape,Henning Pape,Enhedslisten - De Rød-Grønne,0
+Frederiksberg,5,"11. Kreds, Lindevang",Ø_Susanne_Gustenhoff,Susanne Gustenhoff,Enhedslisten - De Rød-Grønne,0
+Frederiksberg,5,"11. Kreds, Lindevang",Ø_Peter_Vogelius,Peter Vogelius,Enhedslisten - De Rød-Grønne,0
+Frederiksberg,5,"11. Kreds, Lindevang",Ø_Else_Guldager,Else Guldager,Enhedslisten - De Rød-Grønne,6
+Frederiksberg,5,"11. Kreds, Lindevang",Å_Listestemmer,Listestemmer,Alternativet,18
+Frederiksberg,5,"11. Kreds, Lindevang",Å_Mette_Bram,Mette Bram,Alternativet,17
+Frederiksberg,5,"11. Kreds, Lindevang",Å_Maria_Eichhorn,Maria Eichhorn,Alternativet,11
+Frederiksberg,5,"11. Kreds, Lindevang",Å_Annedorthe_Kring,Annedorthe Kring,Alternativet,9
+Frederiksberg,6,"11. Kreds, Søndermark",A_Listestemmer,Listestemmer,Socialdemokratiet,431
+Frederiksberg,6,"11. Kreds, Søndermark",A_Michael_Vindfeldt,Michael Vindfeldt,Socialdemokratiet,495
+Frederiksberg,6,"11. Kreds, Søndermark",A_Sine_Heltberg,Sine Heltberg,Socialdemokratiet,116
+Frederiksberg,6,"11. Kreds, Søndermark",A_Gunvor_Wibroe,Gunvor Wibroe,Socialdemokratiet,36
+Frederiksberg,6,"11. Kreds, Søndermark",A_Malte_Mathies_Løcke,Malte Mathies Løcke,Socialdemokratiet,44
+Frederiksberg,6,"11. Kreds, Søndermark",A_Rune_Rummel,Rune Rummel,Socialdemokratiet,9
+Frederiksberg,6,"11. Kreds, Søndermark",A_Vibeke_Westh,Vibeke Westh,Socialdemokratiet,18
+Frederiksberg,6,"11. Kreds, Søndermark",A_Michael_Haas,Michael Haas,Socialdemokratiet,3
+Frederiksberg,6,"11. Kreds, Søndermark",A_Christine_Jørnø_Vestergaard,Christine Jørnø Vestergaard,Socialdemokratiet,16
+Frederiksberg,6,"11. Kreds, Søndermark",A_Kristoffer_Appel,Kristoffer Appel,Socialdemokratiet,19
+Frederiksberg,6,"11. Kreds, Søndermark",A_Christina_Sylvest-Noer,Christina Sylvest-Noer,Socialdemokratiet,31
+Frederiksberg,6,"11. Kreds, Søndermark",A_Søren_Dahlstrøm,Søren Dahlstrøm,Socialdemokratiet,16
+Frederiksberg,6,"11. Kreds, Søndermark",A_Elvis_Camacho,Elvis Camacho,Socialdemokratiet,1
+Frederiksberg,6,"11. Kreds, Søndermark",A_Pernille_Fendrich_Schmidt,Pernille Fendrich Schmidt,Socialdemokratiet,7
+Frederiksberg,6,"11. Kreds, Søndermark",A_Thomas_Kruse_Pedersen,Thomas Kruse Pedersen,Socialdemokratiet,45
+Frederiksberg,6,"11. Kreds, Søndermark",A_Manu_Sareen,Manu Sareen,Socialdemokratiet,23
+Frederiksberg,6,"11. Kreds, Søndermark",A_Roxana_Simion,Roxana Simion,Socialdemokratiet,10
+Frederiksberg,6,"11. Kreds, Søndermark",A_Aino_Vedel,Aino Vedel,Socialdemokratiet,2
+Frederiksberg,6,"11. Kreds, Søndermark",A_Hanne_Illum,Hanne Illum,Socialdemokratiet,5
+Frederiksberg,6,"11. Kreds, Søndermark",A_Malou_Astrup_Clemmensen,Malou Astrup Clemmensen,Socialdemokratiet,5
+Frederiksberg,6,"11. Kreds, Søndermark",A_Julie_Weile,Julie Weile,Socialdemokratiet,4
+Frederiksberg,6,"11. Kreds, Søndermark",A_Jesper_Telcs,Jesper Telcs,Socialdemokratiet,2
+Frederiksberg,6,"11. Kreds, Søndermark",A_Jasminka_Kamic,Jasminka Kamic,Socialdemokratiet,15
+Frederiksberg,6,"11. Kreds, Søndermark",A_Helena_Johannessen-Henry,Helena Johannessen-Henry,Socialdemokratiet,3
+Frederiksberg,6,"11. Kreds, Søndermark",A_Anders_Kaare,Anders Kaare,Socialdemokratiet,5
+Frederiksberg,6,"11. Kreds, Søndermark",B_Listestemmer,Listestemmer,Radikale Venstre,162
+Frederiksberg,6,"11. Kreds, Søndermark",B_Lone_Loklindt,Lone Loklindt,Radikale Venstre,186
+Frederiksberg,6,"11. Kreds, Søndermark",B_Ruben_Kidde,Ruben Kidde,Radikale Venstre,54
+Frederiksberg,6,"11. Kreds, Søndermark",B_Freja_Fokdal,Freja Fokdal,Radikale Venstre,81
+Frederiksberg,6,"11. Kreds, Søndermark",B_Emilie_Normann,Emilie Normann,Radikale Venstre,12
+Frederiksberg,6,"11. Kreds, Søndermark",B_Kirsten_Lee,Kirsten Lee,Radikale Venstre,4
+Frederiksberg,6,"11. Kreds, Søndermark",B_Jens-Christian_Navarro_Poulsen,Jens-Christian Navarro Poulsen,Radikale Venstre,2
+Frederiksberg,6,"11. Kreds, Søndermark",B_David_Munis_Zepernick,David Munis Zepernick,Radikale Venstre,13
+Frederiksberg,6,"11. Kreds, Søndermark",B_Thomas_Baark,Thomas Baark,Radikale Venstre,5
+Frederiksberg,6,"11. Kreds, Søndermark",B_Anne-Sofie_Sadolin_Henningsen,Anne-Sofie Sadolin Henningsen,Radikale Venstre,23
+Frederiksberg,6,"11. Kreds, Søndermark",B_Nicholai_Tandrup,Nicholai Tandrup,Radikale Venstre,8
+Frederiksberg,6,"11. Kreds, Søndermark",B_Lars_Brask,Lars Brask,Radikale Venstre,2
+Frederiksberg,6,"11. Kreds, Søndermark",C_Listestemmer,Listestemmer,Det Konservative Folkeparti,928
+Frederiksberg,6,"11. Kreds, Søndermark",C_Simon_Aggesen,Simon Aggesen,Det Konservative Folkeparti,690
+Frederiksberg,6,"11. Kreds, Søndermark",C_Alexandra_Dessoy,Alexandra Dessoy,Det Konservative Folkeparti,75
+Frederiksberg,6,"11. Kreds, Søndermark",C_Nikolaj_Bøgh,Nikolaj Bøgh,Det Konservative Folkeparti,163
+Frederiksberg,6,"11. Kreds, Søndermark",C_Flemming_Brank,Flemming Brank,Det Konservative Folkeparti,33
+Frederiksberg,6,"11. Kreds, Søndermark",C_Helle_Sjelle,Helle Sjelle,Det Konservative Folkeparti,60
+Frederiksberg,6,"11. Kreds, Søndermark",C_Laura_Lindahl,Laura Lindahl,Det Konservative Folkeparti,151
+Frederiksberg,6,"11. Kreds, Søndermark",C_Merete_Winther_Hildebrandt,Merete Winther Hildebrandt,Det Konservative Folkeparti,58
+Frederiksberg,6,"11. Kreds, Søndermark",C_Fasael_Rehman,Fasael Rehman,Det Konservative Folkeparti,27
+Frederiksberg,6,"11. Kreds, Søndermark",C_Brian_Holm,Brian Holm,Det Konservative Folkeparti,125
+Frederiksberg,6,"11. Kreds, Søndermark",C_Carina_Høedt,Carina Høedt,Det Konservative Folkeparti,25
+Frederiksberg,6,"11. Kreds, Søndermark",C_Bent_Isager-Nielsen,Bent Isager-Nielsen,Det Konservative Folkeparti,179
+Frederiksberg,6,"11. Kreds, Søndermark",C_Michael_Wagner_Molin_Brautsch,Michael Wagner Molin Brautsch,Det Konservative Folkeparti,76
+Frederiksberg,6,"11. Kreds, Søndermark",C_Malene_Sandfeld,Malene Sandfeld,Det Konservative Folkeparti,25
+Frederiksberg,6,"11. Kreds, Søndermark",C_Claus_Wagenblast-Franck,Claus Wagenblast-Franck,Det Konservative Folkeparti,22
+Frederiksberg,6,"11. Kreds, Søndermark",C_Helene_Fagerhøj,Helene Fagerhøj,Det Konservative Folkeparti,18
+Frederiksberg,6,"11. Kreds, Søndermark",C_Jacob_Rosenberg,Jacob Rosenberg,Det Konservative Folkeparti,20
+Frederiksberg,6,"11. Kreds, Søndermark",C_Anders_Storgaard,Anders Storgaard,Det Konservative Folkeparti,113
+Frederiksberg,6,"11. Kreds, Søndermark",C_Asli_Usakli,Asli Usakli,Det Konservative Folkeparti,12
+Frederiksberg,6,"11. Kreds, Søndermark",C_Jakob_Sejergaard,Jakob Sejergaard,Det Konservative Folkeparti,20
+Frederiksberg,6,"11. Kreds, Søndermark",C_Klavs_van_Hauen,Klavs van Hauen,Det Konservative Folkeparti,14
+Frederiksberg,6,"11. Kreds, Søndermark",C_Amalie_Pilgaard_Grammelstorff,Amalie Pilgaard Grammelstorff,Det Konservative Folkeparti,34
+Frederiksberg,6,"11. Kreds, Søndermark",C_Niko_Reich_Morales,Niko Reich Morales,Det Konservative Folkeparti,5
+Frederiksberg,6,"11. Kreds, Søndermark",C_Susan_Vestergaard,Susan Vestergaard,Det Konservative Folkeparti,11
+Frederiksberg,6,"11. Kreds, Søndermark",C_Torsten_Vittrup_Dalegaard,Torsten Vittrup Dalegaard,Det Konservative Folkeparti,16
+Frederiksberg,6,"11. Kreds, Søndermark",C_Trine_Labuhn,Trine Labuhn,Det Konservative Folkeparti,41
+Frederiksberg,6,"11. Kreds, Søndermark",C_Henrik_Lange,Henrik Lange,Det Konservative Folkeparti,10
+Frederiksberg,6,"11. Kreds, Søndermark",C_Susanne_Elmark,Susanne Elmark,Det Konservative Folkeparti,11
+Frederiksberg,6,"11. Kreds, Søndermark",C_Bo_Gøtz,Bo Gøtz,Det Konservative Folkeparti,2
+Frederiksberg,6,"11. Kreds, Søndermark",C_Else_Marie_Thorgaard,Else Marie Thorgaard,Det Konservative Folkeparti,15
+Frederiksberg,6,"11. Kreds, Søndermark",C_Jacob_Sten_Teckemeier,Jacob Sten Teckemeier,Det Konservative Folkeparti,17
+Frederiksberg,6,"11. Kreds, Søndermark",C_Karsten_Skawbo-Jensen,Karsten Skawbo-Jensen,Det Konservative Folkeparti,23
+Frederiksberg,6,"11. Kreds, Søndermark",D_Listestemmer,Listestemmer,Nye Borgerlige,30
+Frederiksberg,6,"11. Kreds, Søndermark",D_Helle_Rosenvig,Helle Rosenvig,Nye Borgerlige,28
+Frederiksberg,6,"11. Kreds, Søndermark",D_Karsten_Larsen,Karsten Larsen,Nye Borgerlige,8
+Frederiksberg,6,"11. Kreds, Søndermark",E_Listestemmer,Listestemmer,Hvid-sten,4
+Frederiksberg,6,"11. Kreds, Søndermark",E_Per_Odin_Thiim_Thim,Per Odin Thiim Thim,Hvid-sten,5
+Frederiksberg,6,"11. Kreds, Søndermark",E_Frits_Degner,Frits Degner,Hvid-sten,0
+Frederiksberg,6,"11. Kreds, Søndermark",F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,107
+Frederiksberg,6,"11. Kreds, Søndermark",F_Balder_Mørk_Andersen,Balder Mørk Andersen,SF - Socialistisk Folkeparti,73
+Frederiksberg,6,"11. Kreds, Søndermark",F_Lotte_Kofoed,Lotte Kofoed,SF - Socialistisk Folkeparti,52
+Frederiksberg,6,"11. Kreds, Søndermark",F_Nurten_Akgün,Nurten Akgün,SF - Socialistisk Folkeparti,7
+Frederiksberg,6,"11. Kreds, Søndermark",F_Carsten_Bøtker,Carsten Bøtker,SF - Socialistisk Folkeparti,6
+Frederiksberg,6,"11. Kreds, Søndermark",F_Michella_Lescher,Michella Lescher,SF - Socialistisk Folkeparti,2
+Frederiksberg,6,"11. Kreds, Søndermark",F_Henning_C._Hansen,Henning C. Hansen,SF - Socialistisk Folkeparti,2
+Frederiksberg,6,"11. Kreds, Søndermark",F_Sidsel_Rastad,Sidsel Rastad,SF - Socialistisk Folkeparti,17
+Frederiksberg,6,"11. Kreds, Søndermark",F_Tomas_Munch_Nielsen,Tomas Munch Nielsen,SF - Socialistisk Folkeparti,1
+Frederiksberg,6,"11. Kreds, Søndermark",F_Morten_J._Larsen,Morten J. Larsen,SF - Socialistisk Folkeparti,0
+Frederiksberg,6,"11. Kreds, Søndermark",F_René_Hülz,René Hülz,SF - Socialistisk Folkeparti,0
+Frederiksberg,6,"11. Kreds, Søndermark",F_Anette_Schrøder,Anette Schrøder,SF - Socialistisk Folkeparti,3
+Frederiksberg,6,"11. Kreds, Søndermark",F_Gitte_Greve_Jørgensen,Gitte Greve Jørgensen,SF - Socialistisk Folkeparti,0
+Frederiksberg,6,"11. Kreds, Søndermark",G_Listestemmer,Listestemmer,Veganerpartiet,10
+Frederiksberg,6,"11. Kreds, Søndermark",G_Carsten_Olesen,Carsten Olesen,Veganerpartiet,11
+Frederiksberg,6,"11. Kreds, Søndermark",H_Listestemmer,Listestemmer,Havenisse-partiet,6
+Frederiksberg,6,"11. Kreds, Søndermark",H_Hannibal_Hildorf,Hannibal Hildorf,Havenisse-partiet,10
+Frederiksberg,6,"11. Kreds, Søndermark",I_Listestemmer,Listestemmer,Liberal Alliance,31
+Frederiksberg,6,"11. Kreds, Søndermark",I_Lars_Berg_Andersen,Lars Berg Andersen,Liberal Alliance,27
+Frederiksberg,6,"11. Kreds, Søndermark",I_Lara_Ann_Waters,Lara Ann Waters,Liberal Alliance,5
+Frederiksberg,6,"11. Kreds, Søndermark",I_Claus_Willén,Claus Willén,Liberal Alliance,3
+Frederiksberg,6,"11. Kreds, Søndermark",I_Katrine_Fischer,Katrine Fischer,Liberal Alliance,3
+Frederiksberg,6,"11. Kreds, Søndermark",J_Listestemmer,Listestemmer,Bitten Vivi Jensen,10
+Frederiksberg,6,"11. Kreds, Søndermark",J_Bitten_Vivi_Jensen,Bitten Vivi Jensen,Bitten Vivi Jensen,37
+Frederiksberg,6,"11. Kreds, Søndermark",J_Katja_Din,Katja Din,Bitten Vivi Jensen,0
+Frederiksberg,6,"11. Kreds, Søndermark",J_Pierre_Larsen,Pierre Larsen,Bitten Vivi Jensen,0
+Frederiksberg,6,"11. Kreds, Søndermark",J_Christel_Jensen,Christel Jensen,Bitten Vivi Jensen,0
+Frederiksberg,6,"11. Kreds, Søndermark",J_Mariana_Burmeister,Mariana Burmeister,Bitten Vivi Jensen,0
+Frederiksberg,6,"11. Kreds, Søndermark",J_Patrick_Hansen,Patrick Hansen,Bitten Vivi Jensen,0
+Frederiksberg,6,"11. Kreds, Søndermark",K_Listestemmer,Listestemmer,Kristendemokraterne,14
+Frederiksberg,6,"11. Kreds, Søndermark",K_Jacob_Bang,Jacob Bang,Kristendemokraterne,2
+Frederiksberg,6,"11. Kreds, Søndermark",O_Listestemmer,Listestemmer,Dansk Folkeparti,24
+Frederiksberg,6,"11. Kreds, Søndermark",O_Eva_Bechmann,Eva Bechmann,Dansk Folkeparti,32
+Frederiksberg,6,"11. Kreds, Søndermark",O_Christian_Bülow,Christian Bülow,Dansk Folkeparti,23
+Frederiksberg,6,"11. Kreds, Søndermark",O_David_M._Gerschwald,David M. Gerschwald,Dansk Folkeparti,2
+Frederiksberg,6,"11. Kreds, Søndermark",T_Listestemmer,Listestemmer,Volt,3
+Frederiksberg,6,"11. Kreds, Søndermark",T_Kathrine_Richter,Kathrine Richter,Volt,6
+Frederiksberg,6,"11. Kreds, Søndermark",T_Mathieu_Pouletty,Mathieu Pouletty,Volt,0
+Frederiksberg,6,"11. Kreds, Søndermark",V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",79
+Frederiksberg,6,"11. Kreds, Søndermark",V_Jan_E._Jørgensen,Jan E. Jørgensen,"Venstre, Danmarks Liberale Parti",190
+Frederiksberg,6,"11. Kreds, Søndermark",V_Alexandra_Sasha,Alexandra Sasha,"Venstre, Danmarks Liberale Parti",68
+Frederiksberg,6,"11. Kreds, Søndermark",V_Martin_Voergaard,Martin Voergaard,"Venstre, Danmarks Liberale Parti",10
+Frederiksberg,6,"11. Kreds, Søndermark",V_Peter_Fjerring,Peter Fjerring,"Venstre, Danmarks Liberale Parti",10
+Frederiksberg,6,"11. Kreds, Søndermark",V_Bettina_Palle,Bettina Palle,"Venstre, Danmarks Liberale Parti",6
+Frederiksberg,6,"11. Kreds, Søndermark",V_Jesper_Munk,Jesper Munk,"Venstre, Danmarks Liberale Parti",2
+Frederiksberg,6,"11. Kreds, Søndermark",V_William_Birgisson,William Birgisson,"Venstre, Danmarks Liberale Parti",1
+Frederiksberg,6,"11. Kreds, Søndermark",V_Casper_Pedersen,Casper Pedersen,"Venstre, Danmarks Liberale Parti",2
+Frederiksberg,6,"11. Kreds, Søndermark",V_Christian_Ohm-Hieronymussen,Christian Ohm-Hieronymussen,"Venstre, Danmarks Liberale Parti",0
+Frederiksberg,6,"11. Kreds, Søndermark",V_Lars_Bøge,Lars Bøge,"Venstre, Danmarks Liberale Parti",4
+Frederiksberg,6,"11. Kreds, Søndermark",Y_Listestemmer,Listestemmer,Kærlighedspartiet (Regnbuef / Bef),4
+Frederiksberg,6,"11. Kreds, Søndermark",Y_Franco_Calledda,Franco Calledda,Kærlighedspartiet (Regnbuef / Bef),1
+Frederiksberg,6,"11. Kreds, Søndermark",Y_Claus_Bork,Claus Bork,Kærlighedspartiet (Regnbuef / Bef),0
+Frederiksberg,6,"11. Kreds, Søndermark",Æ_Listestemmer,Listestemmer,Frihedslisten,4
+Frederiksberg,6,"11. Kreds, Søndermark",Æ_Liv_Oppedal,Liv Oppedal,Frihedslisten,4
+Frederiksberg,6,"11. Kreds, Søndermark",Æ_Lone_Nørgaard,Lone Nørgaard,Frihedslisten,8
+Frederiksberg,6,"11. Kreds, Søndermark",Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,375
+Frederiksberg,6,"11. Kreds, Søndermark",Ø_Mette_Bang_Larsen,Mette Bang Larsen,Enhedslisten - De Rød-Grønne,101
+Frederiksberg,6,"11. Kreds, Søndermark",Ø_Pelle_Dragsted,Pelle Dragsted,Enhedslisten - De Rød-Grønne,391
+Frederiksberg,6,"11. Kreds, Søndermark",Ø_Daniel_Panduro,Daniel Panduro,Enhedslisten - De Rød-Grønne,27
+Frederiksberg,6,"11. Kreds, Søndermark",Ø_Anja_Lundtoft,Anja Lundtoft,Enhedslisten - De Rød-Grønne,17
+Frederiksberg,6,"11. Kreds, Søndermark",Ø_Thyge_Enevoldsen,Thyge Enevoldsen,Enhedslisten - De Rød-Grønne,21
+Frederiksberg,6,"11. Kreds, Søndermark",Ø_Rasmus_Holme_Nielsen,Rasmus Holme Nielsen,Enhedslisten - De Rød-Grønne,26
+Frederiksberg,6,"11. Kreds, Søndermark",Ø_Tone_Høybye,Tone Høybye,Enhedslisten - De Rød-Grønne,8
+Frederiksberg,6,"11. Kreds, Søndermark",Ø_Mads-Emil_Gaardsvig_Christensen,Mads-Emil Gaardsvig Christensen,Enhedslisten - De Rød-Grønne,2
+Frederiksberg,6,"11. Kreds, Søndermark",Ø_Christina_Ytzen,Christina Ytzen,Enhedslisten - De Rød-Grønne,4
+Frederiksberg,6,"11. Kreds, Søndermark",Ø_Morten_K._Christensen-Hornehøj,Morten K. Christensen-Hornehøj,Enhedslisten - De Rød-Grønne,4
+Frederiksberg,6,"11. Kreds, Søndermark",Ø_Eva_Thune_Jacobsen,Eva Thune Jacobsen,Enhedslisten - De Rød-Grønne,2
+Frederiksberg,6,"11. Kreds, Søndermark",Ø_Malte_Bern_Jensen,Malte Bern Jensen,Enhedslisten - De Rød-Grønne,8
+Frederiksberg,6,"11. Kreds, Søndermark",Ø_Anne_Eggen,Anne Eggen,Enhedslisten - De Rød-Grønne,2
+Frederiksberg,6,"11. Kreds, Søndermark",Ø_Peter_Mikael_Hansen,Peter Mikael Hansen,Enhedslisten - De Rød-Grønne,3
+Frederiksberg,6,"11. Kreds, Søndermark",Ø_Ulla_Pierri_Enevoldsen,Ulla Pierri Enevoldsen,Enhedslisten - De Rød-Grønne,7
+Frederiksberg,6,"11. Kreds, Søndermark",Ø_Christian_Gorm_Hansen,Christian Gorm Hansen,Enhedslisten - De Rød-Grønne,3
+Frederiksberg,6,"11. Kreds, Søndermark",Ø_Cecilia_S._Nysted,Cecilia S. Nysted,Enhedslisten - De Rød-Grønne,4
+Frederiksberg,6,"11. Kreds, Søndermark",Ø_Emil_Samaras,Emil Samaras,Enhedslisten - De Rød-Grønne,12
+Frederiksberg,6,"11. Kreds, Søndermark",Ø_Marianne_Rohde,Marianne Rohde,Enhedslisten - De Rød-Grønne,2
+Frederiksberg,6,"11. Kreds, Søndermark",Ø_Torben_Lindquist,Torben Lindquist,Enhedslisten - De Rød-Grønne,1
+Frederiksberg,6,"11. Kreds, Søndermark",Ø_Ulla_Binderup_Jørgensen,Ulla Binderup Jørgensen,Enhedslisten - De Rød-Grønne,12
+Frederiksberg,6,"11. Kreds, Søndermark",Ø_Jacob_Nicolajsen,Jacob Nicolajsen,Enhedslisten - De Rød-Grønne,3
+Frederiksberg,6,"11. Kreds, Søndermark",Ø_Sabrina_Louise_Christiansen,Sabrina Louise Christiansen,Enhedslisten - De Rød-Grønne,30
+Frederiksberg,6,"11. Kreds, Søndermark",Ø_Henrik_Friis,Henrik Friis,Enhedslisten - De Rød-Grønne,1
+Frederiksberg,6,"11. Kreds, Søndermark",Ø_Lea_Krusell,Lea Krusell,Enhedslisten - De Rød-Grønne,22
+Frederiksberg,6,"11. Kreds, Søndermark",Ø_Anders_Jørgensen,Anders Jørgensen,Enhedslisten - De Rød-Grønne,0
+Frederiksberg,6,"11. Kreds, Søndermark",Ø_Bianca_Vitting,Bianca Vitting,Enhedslisten - De Rød-Grønne,17
+Frederiksberg,6,"11. Kreds, Søndermark",Ø_Jakob_Ørsted,Jakob Ørsted,Enhedslisten - De Rød-Grønne,3
+Frederiksberg,6,"11. Kreds, Søndermark",Ø_Mia_Haugaard_Madsen,Mia Haugaard Madsen,Enhedslisten - De Rød-Grønne,13
+Frederiksberg,6,"11. Kreds, Søndermark",Ø_Henning_Pape,Henning Pape,Enhedslisten - De Rød-Grønne,0
+Frederiksberg,6,"11. Kreds, Søndermark",Ø_Susanne_Gustenhoff,Susanne Gustenhoff,Enhedslisten - De Rød-Grønne,0
+Frederiksberg,6,"11. Kreds, Søndermark",Ø_Peter_Vogelius,Peter Vogelius,Enhedslisten - De Rød-Grønne,0
+Frederiksberg,6,"11. Kreds, Søndermark",Ø_Else_Guldager,Else Guldager,Enhedslisten - De Rød-Grønne,6
+Frederiksberg,6,"11. Kreds, Søndermark",Å_Listestemmer,Listestemmer,Alternativet,20
+Frederiksberg,6,"11. Kreds, Søndermark",Å_Mette_Bram,Mette Bram,Alternativet,18
+Frederiksberg,6,"11. Kreds, Søndermark",Å_Maria_Eichhorn,Maria Eichhorn,Alternativet,9
+Frederiksberg,6,"11. Kreds, Søndermark",Å_Annedorthe_Kring,Annedorthe Kring,Alternativet,5
+Frederiksberg,7,"11. Kreds, Rådhuset",A_Listestemmer,Listestemmer,Socialdemokratiet,424
+Frederiksberg,7,"11. Kreds, Rådhuset",A_Michael_Vindfeldt,Michael Vindfeldt,Socialdemokratiet,508
+Frederiksberg,7,"11. Kreds, Rådhuset",A_Sine_Heltberg,Sine Heltberg,Socialdemokratiet,73
+Frederiksberg,7,"11. Kreds, Rådhuset",A_Gunvor_Wibroe,Gunvor Wibroe,Socialdemokratiet,66
+Frederiksberg,7,"11. Kreds, Rådhuset",A_Malte_Mathies_Løcke,Malte Mathies Løcke,Socialdemokratiet,104
+Frederiksberg,7,"11. Kreds, Rådhuset",A_Rune_Rummel,Rune Rummel,Socialdemokratiet,10
+Frederiksberg,7,"11. Kreds, Rådhuset",A_Vibeke_Westh,Vibeke Westh,Socialdemokratiet,6
+Frederiksberg,7,"11. Kreds, Rådhuset",A_Michael_Haas,Michael Haas,Socialdemokratiet,7
+Frederiksberg,7,"11. Kreds, Rådhuset",A_Christine_Jørnø_Vestergaard,Christine Jørnø Vestergaard,Socialdemokratiet,17
+Frederiksberg,7,"11. Kreds, Rådhuset",A_Kristoffer_Appel,Kristoffer Appel,Socialdemokratiet,23
+Frederiksberg,7,"11. Kreds, Rådhuset",A_Christina_Sylvest-Noer,Christina Sylvest-Noer,Socialdemokratiet,26
+Frederiksberg,7,"11. Kreds, Rådhuset",A_Søren_Dahlstrøm,Søren Dahlstrøm,Socialdemokratiet,13
+Frederiksberg,7,"11. Kreds, Rådhuset",A_Elvis_Camacho,Elvis Camacho,Socialdemokratiet,7
+Frederiksberg,7,"11. Kreds, Rådhuset",A_Pernille_Fendrich_Schmidt,Pernille Fendrich Schmidt,Socialdemokratiet,9
+Frederiksberg,7,"11. Kreds, Rådhuset",A_Thomas_Kruse_Pedersen,Thomas Kruse Pedersen,Socialdemokratiet,0
+Frederiksberg,7,"11. Kreds, Rådhuset",A_Manu_Sareen,Manu Sareen,Socialdemokratiet,34
+Frederiksberg,7,"11. Kreds, Rådhuset",A_Roxana_Simion,Roxana Simion,Socialdemokratiet,12
+Frederiksberg,7,"11. Kreds, Rådhuset",A_Aino_Vedel,Aino Vedel,Socialdemokratiet,4
+Frederiksberg,7,"11. Kreds, Rådhuset",A_Hanne_Illum,Hanne Illum,Socialdemokratiet,1
+Frederiksberg,7,"11. Kreds, Rådhuset",A_Malou_Astrup_Clemmensen,Malou Astrup Clemmensen,Socialdemokratiet,13
+Frederiksberg,7,"11. Kreds, Rådhuset",A_Julie_Weile,Julie Weile,Socialdemokratiet,8
+Frederiksberg,7,"11. Kreds, Rådhuset",A_Jesper_Telcs,Jesper Telcs,Socialdemokratiet,3
+Frederiksberg,7,"11. Kreds, Rådhuset",A_Jasminka_Kamic,Jasminka Kamic,Socialdemokratiet,4
+Frederiksberg,7,"11. Kreds, Rådhuset",A_Helena_Johannessen-Henry,Helena Johannessen-Henry,Socialdemokratiet,4
+Frederiksberg,7,"11. Kreds, Rådhuset",A_Anders_Kaare,Anders Kaare,Socialdemokratiet,5
+Frederiksberg,7,"11. Kreds, Rådhuset",B_Listestemmer,Listestemmer,Radikale Venstre,179
+Frederiksberg,7,"11. Kreds, Rådhuset",B_Lone_Loklindt,Lone Loklindt,Radikale Venstre,159
+Frederiksberg,7,"11. Kreds, Rådhuset",B_Ruben_Kidde,Ruben Kidde,Radikale Venstre,73
+Frederiksberg,7,"11. Kreds, Rådhuset",B_Freja_Fokdal,Freja Fokdal,Radikale Venstre,114
+Frederiksberg,7,"11. Kreds, Rådhuset",B_Emilie_Normann,Emilie Normann,Radikale Venstre,17
+Frederiksberg,7,"11. Kreds, Rådhuset",B_Kirsten_Lee,Kirsten Lee,Radikale Venstre,9
+Frederiksberg,7,"11. Kreds, Rådhuset",B_Jens-Christian_Navarro_Poulsen,Jens-Christian Navarro Poulsen,Radikale Venstre,1
+Frederiksberg,7,"11. Kreds, Rådhuset",B_David_Munis_Zepernick,David Munis Zepernick,Radikale Venstre,13
+Frederiksberg,7,"11. Kreds, Rådhuset",B_Thomas_Baark,Thomas Baark,Radikale Venstre,6
+Frederiksberg,7,"11. Kreds, Rådhuset",B_Anne-Sofie_Sadolin_Henningsen,Anne-Sofie Sadolin Henningsen,Radikale Venstre,23
+Frederiksberg,7,"11. Kreds, Rådhuset",B_Nicholai_Tandrup,Nicholai Tandrup,Radikale Venstre,7
+Frederiksberg,7,"11. Kreds, Rådhuset",B_Lars_Brask,Lars Brask,Radikale Venstre,1
+Frederiksberg,7,"11. Kreds, Rådhuset",C_Listestemmer,Listestemmer,Det Konservative Folkeparti,1021
+Frederiksberg,7,"11. Kreds, Rådhuset",C_Simon_Aggesen,Simon Aggesen,Det Konservative Folkeparti,761
+Frederiksberg,7,"11. Kreds, Rådhuset",C_Alexandra_Dessoy,Alexandra Dessoy,Det Konservative Folkeparti,81
+Frederiksberg,7,"11. Kreds, Rådhuset",C_Nikolaj_Bøgh,Nikolaj Bøgh,Det Konservative Folkeparti,178
+Frederiksberg,7,"11. Kreds, Rådhuset",C_Flemming_Brank,Flemming Brank,Det Konservative Folkeparti,36
+Frederiksberg,7,"11. Kreds, Rådhuset",C_Helle_Sjelle,Helle Sjelle,Det Konservative Folkeparti,70
+Frederiksberg,7,"11. Kreds, Rådhuset",C_Laura_Lindahl,Laura Lindahl,Det Konservative Folkeparti,183
+Frederiksberg,7,"11. Kreds, Rådhuset",C_Merete_Winther_Hildebrandt,Merete Winther Hildebrandt,Det Konservative Folkeparti,56
+Frederiksberg,7,"11. Kreds, Rådhuset",C_Fasael_Rehman,Fasael Rehman,Det Konservative Folkeparti,42
+Frederiksberg,7,"11. Kreds, Rådhuset",C_Brian_Holm,Brian Holm,Det Konservative Folkeparti,159
+Frederiksberg,7,"11. Kreds, Rådhuset",C_Carina_Høedt,Carina Høedt,Det Konservative Folkeparti,19
+Frederiksberg,7,"11. Kreds, Rådhuset",C_Bent_Isager-Nielsen,Bent Isager-Nielsen,Det Konservative Folkeparti,129
+Frederiksberg,7,"11. Kreds, Rådhuset",C_Michael_Wagner_Molin_Brautsch,Michael Wagner Molin Brautsch,Det Konservative Folkeparti,74
+Frederiksberg,7,"11. Kreds, Rådhuset",C_Malene_Sandfeld,Malene Sandfeld,Det Konservative Folkeparti,50
+Frederiksberg,7,"11. Kreds, Rådhuset",C_Claus_Wagenblast-Franck,Claus Wagenblast-Franck,Det Konservative Folkeparti,79
+Frederiksberg,7,"11. Kreds, Rådhuset",C_Helene_Fagerhøj,Helene Fagerhøj,Det Konservative Folkeparti,29
+Frederiksberg,7,"11. Kreds, Rådhuset",C_Jacob_Rosenberg,Jacob Rosenberg,Det Konservative Folkeparti,28
+Frederiksberg,7,"11. Kreds, Rådhuset",C_Anders_Storgaard,Anders Storgaard,Det Konservative Folkeparti,74
+Frederiksberg,7,"11. Kreds, Rådhuset",C_Asli_Usakli,Asli Usakli,Det Konservative Folkeparti,12
+Frederiksberg,7,"11. Kreds, Rådhuset",C_Jakob_Sejergaard,Jakob Sejergaard,Det Konservative Folkeparti,13
+Frederiksberg,7,"11. Kreds, Rådhuset",C_Klavs_van_Hauen,Klavs van Hauen,Det Konservative Folkeparti,3
+Frederiksberg,7,"11. Kreds, Rådhuset",C_Amalie_Pilgaard_Grammelstorff,Amalie Pilgaard Grammelstorff,Det Konservative Folkeparti,28
+Frederiksberg,7,"11. Kreds, Rådhuset",C_Niko_Reich_Morales,Niko Reich Morales,Det Konservative Folkeparti,2
+Frederiksberg,7,"11. Kreds, Rådhuset",C_Susan_Vestergaard,Susan Vestergaard,Det Konservative Folkeparti,11
+Frederiksberg,7,"11. Kreds, Rådhuset",C_Torsten_Vittrup_Dalegaard,Torsten Vittrup Dalegaard,Det Konservative Folkeparti,36
+Frederiksberg,7,"11. Kreds, Rådhuset",C_Trine_Labuhn,Trine Labuhn,Det Konservative Folkeparti,72
+Frederiksberg,7,"11. Kreds, Rådhuset",C_Henrik_Lange,Henrik Lange,Det Konservative Folkeparti,16
+Frederiksberg,7,"11. Kreds, Rådhuset",C_Susanne_Elmark,Susanne Elmark,Det Konservative Folkeparti,13
+Frederiksberg,7,"11. Kreds, Rådhuset",C_Bo_Gøtz,Bo Gøtz,Det Konservative Folkeparti,2
+Frederiksberg,7,"11. Kreds, Rådhuset",C_Else_Marie_Thorgaard,Else Marie Thorgaard,Det Konservative Folkeparti,8
+Frederiksberg,7,"11. Kreds, Rådhuset",C_Jacob_Sten_Teckemeier,Jacob Sten Teckemeier,Det Konservative Folkeparti,3
+Frederiksberg,7,"11. Kreds, Rådhuset",C_Karsten_Skawbo-Jensen,Karsten Skawbo-Jensen,Det Konservative Folkeparti,12
+Frederiksberg,7,"11. Kreds, Rådhuset",D_Listestemmer,Listestemmer,Nye Borgerlige,36
+Frederiksberg,7,"11. Kreds, Rådhuset",D_Helle_Rosenvig,Helle Rosenvig,Nye Borgerlige,27
+Frederiksberg,7,"11. Kreds, Rådhuset",D_Karsten_Larsen,Karsten Larsen,Nye Borgerlige,8
+Frederiksberg,7,"11. Kreds, Rådhuset",E_Listestemmer,Listestemmer,Hvid-sten,0
+Frederiksberg,7,"11. Kreds, Rådhuset",E_Per_Odin_Thiim_Thim,Per Odin Thiim Thim,Hvid-sten,6
+Frederiksberg,7,"11. Kreds, Rådhuset",E_Frits_Degner,Frits Degner,Hvid-sten,0
+Frederiksberg,7,"11. Kreds, Rådhuset",F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,169
+Frederiksberg,7,"11. Kreds, Rådhuset",F_Balder_Mørk_Andersen,Balder Mørk Andersen,SF - Socialistisk Folkeparti,68
+Frederiksberg,7,"11. Kreds, Rådhuset",F_Lotte_Kofoed,Lotte Kofoed,SF - Socialistisk Folkeparti,58
+Frederiksberg,7,"11. Kreds, Rådhuset",F_Nurten_Akgün,Nurten Akgün,SF - Socialistisk Folkeparti,16
+Frederiksberg,7,"11. Kreds, Rådhuset",F_Carsten_Bøtker,Carsten Bøtker,SF - Socialistisk Folkeparti,7
+Frederiksberg,7,"11. Kreds, Rådhuset",F_Michella_Lescher,Michella Lescher,SF - Socialistisk Folkeparti,6
+Frederiksberg,7,"11. Kreds, Rådhuset",F_Henning_C._Hansen,Henning C. Hansen,SF - Socialistisk Folkeparti,0
+Frederiksberg,7,"11. Kreds, Rådhuset",F_Sidsel_Rastad,Sidsel Rastad,SF - Socialistisk Folkeparti,8
+Frederiksberg,7,"11. Kreds, Rådhuset",F_Tomas_Munch_Nielsen,Tomas Munch Nielsen,SF - Socialistisk Folkeparti,1
+Frederiksberg,7,"11. Kreds, Rådhuset",F_Morten_J._Larsen,Morten J. Larsen,SF - Socialistisk Folkeparti,0
+Frederiksberg,7,"11. Kreds, Rådhuset",F_René_Hülz,René Hülz,SF - Socialistisk Folkeparti,1
+Frederiksberg,7,"11. Kreds, Rådhuset",F_Anette_Schrøder,Anette Schrøder,SF - Socialistisk Folkeparti,2
+Frederiksberg,7,"11. Kreds, Rådhuset",F_Gitte_Greve_Jørgensen,Gitte Greve Jørgensen,SF - Socialistisk Folkeparti,0
+Frederiksberg,7,"11. Kreds, Rådhuset",G_Listestemmer,Listestemmer,Veganerpartiet,20
+Frederiksberg,7,"11. Kreds, Rådhuset",G_Carsten_Olesen,Carsten Olesen,Veganerpartiet,14
+Frederiksberg,7,"11. Kreds, Rådhuset",H_Listestemmer,Listestemmer,Havenisse-partiet,0
+Frederiksberg,7,"11. Kreds, Rådhuset",H_Hannibal_Hildorf,Hannibal Hildorf,Havenisse-partiet,4
+Frederiksberg,7,"11. Kreds, Rådhuset",I_Listestemmer,Listestemmer,Liberal Alliance,34
+Frederiksberg,7,"11. Kreds, Rådhuset",I_Lars_Berg_Andersen,Lars Berg Andersen,Liberal Alliance,37
+Frederiksberg,7,"11. Kreds, Rådhuset",I_Lara_Ann_Waters,Lara Ann Waters,Liberal Alliance,5
+Frederiksberg,7,"11. Kreds, Rådhuset",I_Claus_Willén,Claus Willén,Liberal Alliance,5
+Frederiksberg,7,"11. Kreds, Rådhuset",I_Katrine_Fischer,Katrine Fischer,Liberal Alliance,10
+Frederiksberg,7,"11. Kreds, Rådhuset",J_Listestemmer,Listestemmer,Bitten Vivi Jensen,11
+Frederiksberg,7,"11. Kreds, Rådhuset",J_Bitten_Vivi_Jensen,Bitten Vivi Jensen,Bitten Vivi Jensen,33
+Frederiksberg,7,"11. Kreds, Rådhuset",J_Katja_Din,Katja Din,Bitten Vivi Jensen,0
+Frederiksberg,7,"11. Kreds, Rådhuset",J_Pierre_Larsen,Pierre Larsen,Bitten Vivi Jensen,4
+Frederiksberg,7,"11. Kreds, Rådhuset",J_Christel_Jensen,Christel Jensen,Bitten Vivi Jensen,0
+Frederiksberg,7,"11. Kreds, Rådhuset",J_Mariana_Burmeister,Mariana Burmeister,Bitten Vivi Jensen,0
+Frederiksberg,7,"11. Kreds, Rådhuset",J_Patrick_Hansen,Patrick Hansen,Bitten Vivi Jensen,2
+Frederiksberg,7,"11. Kreds, Rådhuset",K_Listestemmer,Listestemmer,Kristendemokraterne,9
+Frederiksberg,7,"11. Kreds, Rådhuset",K_Jacob_Bang,Jacob Bang,Kristendemokraterne,3
+Frederiksberg,7,"11. Kreds, Rådhuset",O_Listestemmer,Listestemmer,Dansk Folkeparti,30
+Frederiksberg,7,"11. Kreds, Rådhuset",O_Eva_Bechmann,Eva Bechmann,Dansk Folkeparti,9
+Frederiksberg,7,"11. Kreds, Rådhuset",O_Christian_Bülow,Christian Bülow,Dansk Folkeparti,6
+Frederiksberg,7,"11. Kreds, Rådhuset",O_David_M._Gerschwald,David M. Gerschwald,Dansk Folkeparti,1
+Frederiksberg,7,"11. Kreds, Rådhuset",T_Listestemmer,Listestemmer,Volt,6
+Frederiksberg,7,"11. Kreds, Rådhuset",T_Kathrine_Richter,Kathrine Richter,Volt,4
+Frederiksberg,7,"11. Kreds, Rådhuset",T_Mathieu_Pouletty,Mathieu Pouletty,Volt,2
+Frederiksberg,7,"11. Kreds, Rådhuset",V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",77
+Frederiksberg,7,"11. Kreds, Rådhuset",V_Jan_E._Jørgensen,Jan E. Jørgensen,"Venstre, Danmarks Liberale Parti",244
+Frederiksberg,7,"11. Kreds, Rådhuset",V_Alexandra_Sasha,Alexandra Sasha,"Venstre, Danmarks Liberale Parti",61
+Frederiksberg,7,"11. Kreds, Rådhuset",V_Martin_Voergaard,Martin Voergaard,"Venstre, Danmarks Liberale Parti",15
+Frederiksberg,7,"11. Kreds, Rådhuset",V_Peter_Fjerring,Peter Fjerring,"Venstre, Danmarks Liberale Parti",12
+Frederiksberg,7,"11. Kreds, Rådhuset",V_Bettina_Palle,Bettina Palle,"Venstre, Danmarks Liberale Parti",6
+Frederiksberg,7,"11. Kreds, Rådhuset",V_Jesper_Munk,Jesper Munk,"Venstre, Danmarks Liberale Parti",2
+Frederiksberg,7,"11. Kreds, Rådhuset",V_William_Birgisson,William Birgisson,"Venstre, Danmarks Liberale Parti",3
+Frederiksberg,7,"11. Kreds, Rådhuset",V_Casper_Pedersen,Casper Pedersen,"Venstre, Danmarks Liberale Parti",5
+Frederiksberg,7,"11. Kreds, Rådhuset",V_Christian_Ohm-Hieronymussen,Christian Ohm-Hieronymussen,"Venstre, Danmarks Liberale Parti",4
+Frederiksberg,7,"11. Kreds, Rådhuset",V_Lars_Bøge,Lars Bøge,"Venstre, Danmarks Liberale Parti",1
+Frederiksberg,7,"11. Kreds, Rådhuset",Y_Listestemmer,Listestemmer,Kærlighedspartiet (Regnbuef / Bef),3
+Frederiksberg,7,"11. Kreds, Rådhuset",Y_Franco_Calledda,Franco Calledda,Kærlighedspartiet (Regnbuef / Bef),1
+Frederiksberg,7,"11. Kreds, Rådhuset",Y_Claus_Bork,Claus Bork,Kærlighedspartiet (Regnbuef / Bef),0
+Frederiksberg,7,"11. Kreds, Rådhuset",Æ_Listestemmer,Listestemmer,Frihedslisten,6
+Frederiksberg,7,"11. Kreds, Rådhuset",Æ_Liv_Oppedal,Liv Oppedal,Frihedslisten,3
+Frederiksberg,7,"11. Kreds, Rådhuset",Æ_Lone_Nørgaard,Lone Nørgaard,Frihedslisten,7
+Frederiksberg,7,"11. Kreds, Rådhuset",Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,357
+Frederiksberg,7,"11. Kreds, Rådhuset",Ø_Mette_Bang_Larsen,Mette Bang Larsen,Enhedslisten - De Rød-Grønne,97
+Frederiksberg,7,"11. Kreds, Rådhuset",Ø_Pelle_Dragsted,Pelle Dragsted,Enhedslisten - De Rød-Grønne,429
+Frederiksberg,7,"11. Kreds, Rådhuset",Ø_Daniel_Panduro,Daniel Panduro,Enhedslisten - De Rød-Grønne,12
+Frederiksberg,7,"11. Kreds, Rådhuset",Ø_Anja_Lundtoft,Anja Lundtoft,Enhedslisten - De Rød-Grønne,15
+Frederiksberg,7,"11. Kreds, Rådhuset",Ø_Thyge_Enevoldsen,Thyge Enevoldsen,Enhedslisten - De Rød-Grønne,22
+Frederiksberg,7,"11. Kreds, Rådhuset",Ø_Rasmus_Holme_Nielsen,Rasmus Holme Nielsen,Enhedslisten - De Rød-Grønne,31
+Frederiksberg,7,"11. Kreds, Rådhuset",Ø_Tone_Høybye,Tone Høybye,Enhedslisten - De Rød-Grønne,12
+Frederiksberg,7,"11. Kreds, Rådhuset",Ø_Mads-Emil_Gaardsvig_Christensen,Mads-Emil Gaardsvig Christensen,Enhedslisten - De Rød-Grønne,2
+Frederiksberg,7,"11. Kreds, Rådhuset",Ø_Christina_Ytzen,Christina Ytzen,Enhedslisten - De Rød-Grønne,6
+Frederiksberg,7,"11. Kreds, Rådhuset",Ø_Morten_K._Christensen-Hornehøj,Morten K. Christensen-Hornehøj,Enhedslisten - De Rød-Grønne,9
+Frederiksberg,7,"11. Kreds, Rådhuset",Ø_Eva_Thune_Jacobsen,Eva Thune Jacobsen,Enhedslisten - De Rød-Grønne,7
+Frederiksberg,7,"11. Kreds, Rådhuset",Ø_Malte_Bern_Jensen,Malte Bern Jensen,Enhedslisten - De Rød-Grønne,4
+Frederiksberg,7,"11. Kreds, Rådhuset",Ø_Anne_Eggen,Anne Eggen,Enhedslisten - De Rød-Grønne,9
+Frederiksberg,7,"11. Kreds, Rådhuset",Ø_Peter_Mikael_Hansen,Peter Mikael Hansen,Enhedslisten - De Rød-Grønne,2
+Frederiksberg,7,"11. Kreds, Rådhuset",Ø_Ulla_Pierri_Enevoldsen,Ulla Pierri Enevoldsen,Enhedslisten - De Rød-Grønne,10
+Frederiksberg,7,"11. Kreds, Rådhuset",Ø_Christian_Gorm_Hansen,Christian Gorm Hansen,Enhedslisten - De Rød-Grønne,1
+Frederiksberg,7,"11. Kreds, Rådhuset",Ø_Cecilia_S._Nysted,Cecilia S. Nysted,Enhedslisten - De Rød-Grønne,3
+Frederiksberg,7,"11. Kreds, Rådhuset",Ø_Emil_Samaras,Emil Samaras,Enhedslisten - De Rød-Grønne,10
+Frederiksberg,7,"11. Kreds, Rådhuset",Ø_Marianne_Rohde,Marianne Rohde,Enhedslisten - De Rød-Grønne,5
+Frederiksberg,7,"11. Kreds, Rådhuset",Ø_Torben_Lindquist,Torben Lindquist,Enhedslisten - De Rød-Grønne,0
+Frederiksberg,7,"11. Kreds, Rådhuset",Ø_Ulla_Binderup_Jørgensen,Ulla Binderup Jørgensen,Enhedslisten - De Rød-Grønne,4
+Frederiksberg,7,"11. Kreds, Rådhuset",Ø_Jacob_Nicolajsen,Jacob Nicolajsen,Enhedslisten - De Rød-Grønne,0
+Frederiksberg,7,"11. Kreds, Rådhuset",Ø_Sabrina_Louise_Christiansen,Sabrina Louise Christiansen,Enhedslisten - De Rød-Grønne,23
+Frederiksberg,7,"11. Kreds, Rådhuset",Ø_Henrik_Friis,Henrik Friis,Enhedslisten - De Rød-Grønne,2
+Frederiksberg,7,"11. Kreds, Rådhuset",Ø_Lea_Krusell,Lea Krusell,Enhedslisten - De Rød-Grønne,23
+Frederiksberg,7,"11. Kreds, Rådhuset",Ø_Anders_Jørgensen,Anders Jørgensen,Enhedslisten - De Rød-Grønne,0
+Frederiksberg,7,"11. Kreds, Rådhuset",Ø_Bianca_Vitting,Bianca Vitting,Enhedslisten - De Rød-Grønne,13
+Frederiksberg,7,"11. Kreds, Rådhuset",Ø_Jakob_Ørsted,Jakob Ørsted,Enhedslisten - De Rød-Grønne,3
+Frederiksberg,7,"11. Kreds, Rådhuset",Ø_Mia_Haugaard_Madsen,Mia Haugaard Madsen,Enhedslisten - De Rød-Grønne,4
+Frederiksberg,7,"11. Kreds, Rådhuset",Ø_Henning_Pape,Henning Pape,Enhedslisten - De Rød-Grønne,0
+Frederiksberg,7,"11. Kreds, Rådhuset",Ø_Susanne_Gustenhoff,Susanne Gustenhoff,Enhedslisten - De Rød-Grønne,0
+Frederiksberg,7,"11. Kreds, Rådhuset",Ø_Peter_Vogelius,Peter Vogelius,Enhedslisten - De Rød-Grønne,0
+Frederiksberg,7,"11. Kreds, Rådhuset",Ø_Else_Guldager,Else Guldager,Enhedslisten - De Rød-Grønne,9
+Frederiksberg,7,"11. Kreds, Rådhuset",Å_Listestemmer,Listestemmer,Alternativet,24
+Frederiksberg,7,"11. Kreds, Rådhuset",Å_Mette_Bram,Mette Bram,Alternativet,21
+Frederiksberg,7,"11. Kreds, Rådhuset",Å_Maria_Eichhorn,Maria Eichhorn,Alternativet,11
+Frederiksberg,7,"11. Kreds, Rådhuset",Å_Annedorthe_Kring,Annedorthe Kring,Alternativet,13
+Frederiksberg,8,"11. Kreds, Nyelandsvej",A_Listestemmer,Listestemmer,Socialdemokratiet,317
+Frederiksberg,8,"11. Kreds, Nyelandsvej",A_Michael_Vindfeldt,Michael Vindfeldt,Socialdemokratiet,371
+Frederiksberg,8,"11. Kreds, Nyelandsvej",A_Sine_Heltberg,Sine Heltberg,Socialdemokratiet,54
+Frederiksberg,8,"11. Kreds, Nyelandsvej",A_Gunvor_Wibroe,Gunvor Wibroe,Socialdemokratiet,59
+Frederiksberg,8,"11. Kreds, Nyelandsvej",A_Malte_Mathies_Løcke,Malte Mathies Løcke,Socialdemokratiet,67
+Frederiksberg,8,"11. Kreds, Nyelandsvej",A_Rune_Rummel,Rune Rummel,Socialdemokratiet,21
+Frederiksberg,8,"11. Kreds, Nyelandsvej",A_Vibeke_Westh,Vibeke Westh,Socialdemokratiet,12
+Frederiksberg,8,"11. Kreds, Nyelandsvej",A_Michael_Haas,Michael Haas,Socialdemokratiet,3
+Frederiksberg,8,"11. Kreds, Nyelandsvej",A_Christine_Jørnø_Vestergaard,Christine Jørnø Vestergaard,Socialdemokratiet,9
+Frederiksberg,8,"11. Kreds, Nyelandsvej",A_Kristoffer_Appel,Kristoffer Appel,Socialdemokratiet,25
+Frederiksberg,8,"11. Kreds, Nyelandsvej",A_Christina_Sylvest-Noer,Christina Sylvest-Noer,Socialdemokratiet,46
+Frederiksberg,8,"11. Kreds, Nyelandsvej",A_Søren_Dahlstrøm,Søren Dahlstrøm,Socialdemokratiet,21
+Frederiksberg,8,"11. Kreds, Nyelandsvej",A_Elvis_Camacho,Elvis Camacho,Socialdemokratiet,2
+Frederiksberg,8,"11. Kreds, Nyelandsvej",A_Pernille_Fendrich_Schmidt,Pernille Fendrich Schmidt,Socialdemokratiet,10
+Frederiksberg,8,"11. Kreds, Nyelandsvej",A_Thomas_Kruse_Pedersen,Thomas Kruse Pedersen,Socialdemokratiet,0
+Frederiksberg,8,"11. Kreds, Nyelandsvej",A_Manu_Sareen,Manu Sareen,Socialdemokratiet,20
+Frederiksberg,8,"11. Kreds, Nyelandsvej",A_Roxana_Simion,Roxana Simion,Socialdemokratiet,19
+Frederiksberg,8,"11. Kreds, Nyelandsvej",A_Aino_Vedel,Aino Vedel,Socialdemokratiet,1
+Frederiksberg,8,"11. Kreds, Nyelandsvej",A_Hanne_Illum,Hanne Illum,Socialdemokratiet,3
+Frederiksberg,8,"11. Kreds, Nyelandsvej",A_Malou_Astrup_Clemmensen,Malou Astrup Clemmensen,Socialdemokratiet,10
+Frederiksberg,8,"11. Kreds, Nyelandsvej",A_Julie_Weile,Julie Weile,Socialdemokratiet,6
+Frederiksberg,8,"11. Kreds, Nyelandsvej",A_Jesper_Telcs,Jesper Telcs,Socialdemokratiet,2
+Frederiksberg,8,"11. Kreds, Nyelandsvej",A_Jasminka_Kamic,Jasminka Kamic,Socialdemokratiet,4
+Frederiksberg,8,"11. Kreds, Nyelandsvej",A_Helena_Johannessen-Henry,Helena Johannessen-Henry,Socialdemokratiet,8
+Frederiksberg,8,"11. Kreds, Nyelandsvej",A_Anders_Kaare,Anders Kaare,Socialdemokratiet,2
+Frederiksberg,8,"11. Kreds, Nyelandsvej",B_Listestemmer,Listestemmer,Radikale Venstre,167
+Frederiksberg,8,"11. Kreds, Nyelandsvej",B_Lone_Loklindt,Lone Loklindt,Radikale Venstre,141
+Frederiksberg,8,"11. Kreds, Nyelandsvej",B_Ruben_Kidde,Ruben Kidde,Radikale Venstre,62
+Frederiksberg,8,"11. Kreds, Nyelandsvej",B_Freja_Fokdal,Freja Fokdal,Radikale Venstre,102
+Frederiksberg,8,"11. Kreds, Nyelandsvej",B_Emilie_Normann,Emilie Normann,Radikale Venstre,17
+Frederiksberg,8,"11. Kreds, Nyelandsvej",B_Kirsten_Lee,Kirsten Lee,Radikale Venstre,3
+Frederiksberg,8,"11. Kreds, Nyelandsvej",B_Jens-Christian_Navarro_Poulsen,Jens-Christian Navarro Poulsen,Radikale Venstre,7
+Frederiksberg,8,"11. Kreds, Nyelandsvej",B_David_Munis_Zepernick,David Munis Zepernick,Radikale Venstre,15
+Frederiksberg,8,"11. Kreds, Nyelandsvej",B_Thomas_Baark,Thomas Baark,Radikale Venstre,10
+Frederiksberg,8,"11. Kreds, Nyelandsvej",B_Anne-Sofie_Sadolin_Henningsen,Anne-Sofie Sadolin Henningsen,Radikale Venstre,27
+Frederiksberg,8,"11. Kreds, Nyelandsvej",B_Nicholai_Tandrup,Nicholai Tandrup,Radikale Venstre,4
+Frederiksberg,8,"11. Kreds, Nyelandsvej",B_Lars_Brask,Lars Brask,Radikale Venstre,10
+Frederiksberg,8,"11. Kreds, Nyelandsvej",C_Listestemmer,Listestemmer,Det Konservative Folkeparti,898
+Frederiksberg,8,"11. Kreds, Nyelandsvej",C_Simon_Aggesen,Simon Aggesen,Det Konservative Folkeparti,598
+Frederiksberg,8,"11. Kreds, Nyelandsvej",C_Alexandra_Dessoy,Alexandra Dessoy,Det Konservative Folkeparti,72
+Frederiksberg,8,"11. Kreds, Nyelandsvej",C_Nikolaj_Bøgh,Nikolaj Bøgh,Det Konservative Folkeparti,85
+Frederiksberg,8,"11. Kreds, Nyelandsvej",C_Flemming_Brank,Flemming Brank,Det Konservative Folkeparti,19
+Frederiksberg,8,"11. Kreds, Nyelandsvej",C_Helle_Sjelle,Helle Sjelle,Det Konservative Folkeparti,34
+Frederiksberg,8,"11. Kreds, Nyelandsvej",C_Laura_Lindahl,Laura Lindahl,Det Konservative Folkeparti,152
+Frederiksberg,8,"11. Kreds, Nyelandsvej",C_Merete_Winther_Hildebrandt,Merete Winther Hildebrandt,Det Konservative Folkeparti,46
+Frederiksberg,8,"11. Kreds, Nyelandsvej",C_Fasael_Rehman,Fasael Rehman,Det Konservative Folkeparti,59
+Frederiksberg,8,"11. Kreds, Nyelandsvej",C_Brian_Holm,Brian Holm,Det Konservative Folkeparti,156
+Frederiksberg,8,"11. Kreds, Nyelandsvej",C_Carina_Høedt,Carina Høedt,Det Konservative Folkeparti,29
+Frederiksberg,8,"11. Kreds, Nyelandsvej",C_Bent_Isager-Nielsen,Bent Isager-Nielsen,Det Konservative Folkeparti,105
+Frederiksberg,8,"11. Kreds, Nyelandsvej",C_Michael_Wagner_Molin_Brautsch,Michael Wagner Molin Brautsch,Det Konservative Folkeparti,28
+Frederiksberg,8,"11. Kreds, Nyelandsvej",C_Malene_Sandfeld,Malene Sandfeld,Det Konservative Folkeparti,38
+Frederiksberg,8,"11. Kreds, Nyelandsvej",C_Claus_Wagenblast-Franck,Claus Wagenblast-Franck,Det Konservative Folkeparti,8
+Frederiksberg,8,"11. Kreds, Nyelandsvej",C_Helene_Fagerhøj,Helene Fagerhøj,Det Konservative Folkeparti,15
+Frederiksberg,8,"11. Kreds, Nyelandsvej",C_Jacob_Rosenberg,Jacob Rosenberg,Det Konservative Folkeparti,34
+Frederiksberg,8,"11. Kreds, Nyelandsvej",C_Anders_Storgaard,Anders Storgaard,Det Konservative Folkeparti,55
+Frederiksberg,8,"11. Kreds, Nyelandsvej",C_Asli_Usakli,Asli Usakli,Det Konservative Folkeparti,3
+Frederiksberg,8,"11. Kreds, Nyelandsvej",C_Jakob_Sejergaard,Jakob Sejergaard,Det Konservative Folkeparti,11
+Frederiksberg,8,"11. Kreds, Nyelandsvej",C_Klavs_van_Hauen,Klavs van Hauen,Det Konservative Folkeparti,7
+Frederiksberg,8,"11. Kreds, Nyelandsvej",C_Amalie_Pilgaard_Grammelstorff,Amalie Pilgaard Grammelstorff,Det Konservative Folkeparti,24
+Frederiksberg,8,"11. Kreds, Nyelandsvej",C_Niko_Reich_Morales,Niko Reich Morales,Det Konservative Folkeparti,8
+Frederiksberg,8,"11. Kreds, Nyelandsvej",C_Susan_Vestergaard,Susan Vestergaard,Det Konservative Folkeparti,9
+Frederiksberg,8,"11. Kreds, Nyelandsvej",C_Torsten_Vittrup_Dalegaard,Torsten Vittrup Dalegaard,Det Konservative Folkeparti,13
+Frederiksberg,8,"11. Kreds, Nyelandsvej",C_Trine_Labuhn,Trine Labuhn,Det Konservative Folkeparti,173
+Frederiksberg,8,"11. Kreds, Nyelandsvej",C_Henrik_Lange,Henrik Lange,Det Konservative Folkeparti,27
+Frederiksberg,8,"11. Kreds, Nyelandsvej",C_Susanne_Elmark,Susanne Elmark,Det Konservative Folkeparti,13
+Frederiksberg,8,"11. Kreds, Nyelandsvej",C_Bo_Gøtz,Bo Gøtz,Det Konservative Folkeparti,6
+Frederiksberg,8,"11. Kreds, Nyelandsvej",C_Else_Marie_Thorgaard,Else Marie Thorgaard,Det Konservative Folkeparti,44
+Frederiksberg,8,"11. Kreds, Nyelandsvej",C_Jacob_Sten_Teckemeier,Jacob Sten Teckemeier,Det Konservative Folkeparti,1
+Frederiksberg,8,"11. Kreds, Nyelandsvej",C_Karsten_Skawbo-Jensen,Karsten Skawbo-Jensen,Det Konservative Folkeparti,9
+Frederiksberg,8,"11. Kreds, Nyelandsvej",D_Listestemmer,Listestemmer,Nye Borgerlige,29
+Frederiksberg,8,"11. Kreds, Nyelandsvej",D_Helle_Rosenvig,Helle Rosenvig,Nye Borgerlige,13
+Frederiksberg,8,"11. Kreds, Nyelandsvej",D_Karsten_Larsen,Karsten Larsen,Nye Borgerlige,6
+Frederiksberg,8,"11. Kreds, Nyelandsvej",E_Listestemmer,Listestemmer,Hvid-sten,3
+Frederiksberg,8,"11. Kreds, Nyelandsvej",E_Per_Odin_Thiim_Thim,Per Odin Thiim Thim,Hvid-sten,3
+Frederiksberg,8,"11. Kreds, Nyelandsvej",E_Frits_Degner,Frits Degner,Hvid-sten,0
+Frederiksberg,8,"11. Kreds, Nyelandsvej",F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,117
+Frederiksberg,8,"11. Kreds, Nyelandsvej",F_Balder_Mørk_Andersen,Balder Mørk Andersen,SF - Socialistisk Folkeparti,87
+Frederiksberg,8,"11. Kreds, Nyelandsvej",F_Lotte_Kofoed,Lotte Kofoed,SF - Socialistisk Folkeparti,64
+Frederiksberg,8,"11. Kreds, Nyelandsvej",F_Nurten_Akgün,Nurten Akgün,SF - Socialistisk Folkeparti,13
+Frederiksberg,8,"11. Kreds, Nyelandsvej",F_Carsten_Bøtker,Carsten Bøtker,SF - Socialistisk Folkeparti,3
+Frederiksberg,8,"11. Kreds, Nyelandsvej",F_Michella_Lescher,Michella Lescher,SF - Socialistisk Folkeparti,6
+Frederiksberg,8,"11. Kreds, Nyelandsvej",F_Henning_C._Hansen,Henning C. Hansen,SF - Socialistisk Folkeparti,1
+Frederiksberg,8,"11. Kreds, Nyelandsvej",F_Sidsel_Rastad,Sidsel Rastad,SF - Socialistisk Folkeparti,21
+Frederiksberg,8,"11. Kreds, Nyelandsvej",F_Tomas_Munch_Nielsen,Tomas Munch Nielsen,SF - Socialistisk Folkeparti,0
+Frederiksberg,8,"11. Kreds, Nyelandsvej",F_Morten_J._Larsen,Morten J. Larsen,SF - Socialistisk Folkeparti,0
+Frederiksberg,8,"11. Kreds, Nyelandsvej",F_René_Hülz,René Hülz,SF - Socialistisk Folkeparti,2
+Frederiksberg,8,"11. Kreds, Nyelandsvej",F_Anette_Schrøder,Anette Schrøder,SF - Socialistisk Folkeparti,0
+Frederiksberg,8,"11. Kreds, Nyelandsvej",F_Gitte_Greve_Jørgensen,Gitte Greve Jørgensen,SF - Socialistisk Folkeparti,3
+Frederiksberg,8,"11. Kreds, Nyelandsvej",G_Listestemmer,Listestemmer,Veganerpartiet,12
+Frederiksberg,8,"11. Kreds, Nyelandsvej",G_Carsten_Olesen,Carsten Olesen,Veganerpartiet,11
+Frederiksberg,8,"11. Kreds, Nyelandsvej",H_Listestemmer,Listestemmer,Havenisse-partiet,2
+Frederiksberg,8,"11. Kreds, Nyelandsvej",H_Hannibal_Hildorf,Hannibal Hildorf,Havenisse-partiet,4
+Frederiksberg,8,"11. Kreds, Nyelandsvej",I_Listestemmer,Listestemmer,Liberal Alliance,45
+Frederiksberg,8,"11. Kreds, Nyelandsvej",I_Lars_Berg_Andersen,Lars Berg Andersen,Liberal Alliance,30
+Frederiksberg,8,"11. Kreds, Nyelandsvej",I_Lara_Ann_Waters,Lara Ann Waters,Liberal Alliance,0
+Frederiksberg,8,"11. Kreds, Nyelandsvej",I_Claus_Willén,Claus Willén,Liberal Alliance,4
+Frederiksberg,8,"11. Kreds, Nyelandsvej",I_Katrine_Fischer,Katrine Fischer,Liberal Alliance,9
+Frederiksberg,8,"11. Kreds, Nyelandsvej",J_Listestemmer,Listestemmer,Bitten Vivi Jensen,10
+Frederiksberg,8,"11. Kreds, Nyelandsvej",J_Bitten_Vivi_Jensen,Bitten Vivi Jensen,Bitten Vivi Jensen,39
+Frederiksberg,8,"11. Kreds, Nyelandsvej",J_Katja_Din,Katja Din,Bitten Vivi Jensen,0
+Frederiksberg,8,"11. Kreds, Nyelandsvej",J_Pierre_Larsen,Pierre Larsen,Bitten Vivi Jensen,0
+Frederiksberg,8,"11. Kreds, Nyelandsvej",J_Christel_Jensen,Christel Jensen,Bitten Vivi Jensen,2
+Frederiksberg,8,"11. Kreds, Nyelandsvej",J_Mariana_Burmeister,Mariana Burmeister,Bitten Vivi Jensen,0
+Frederiksberg,8,"11. Kreds, Nyelandsvej",J_Patrick_Hansen,Patrick Hansen,Bitten Vivi Jensen,0
+Frederiksberg,8,"11. Kreds, Nyelandsvej",K_Listestemmer,Listestemmer,Kristendemokraterne,12
+Frederiksberg,8,"11. Kreds, Nyelandsvej",K_Jacob_Bang,Jacob Bang,Kristendemokraterne,0
+Frederiksberg,8,"11. Kreds, Nyelandsvej",O_Listestemmer,Listestemmer,Dansk Folkeparti,21
+Frederiksberg,8,"11. Kreds, Nyelandsvej",O_Eva_Bechmann,Eva Bechmann,Dansk Folkeparti,13
+Frederiksberg,8,"11. Kreds, Nyelandsvej",O_Christian_Bülow,Christian Bülow,Dansk Folkeparti,7
+Frederiksberg,8,"11. Kreds, Nyelandsvej",O_David_M._Gerschwald,David M. Gerschwald,Dansk Folkeparti,1
+Frederiksberg,8,"11. Kreds, Nyelandsvej",T_Listestemmer,Listestemmer,Volt,3
+Frederiksberg,8,"11. Kreds, Nyelandsvej",T_Kathrine_Richter,Kathrine Richter,Volt,4
+Frederiksberg,8,"11. Kreds, Nyelandsvej",T_Mathieu_Pouletty,Mathieu Pouletty,Volt,1
+Frederiksberg,8,"11. Kreds, Nyelandsvej",V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",86
+Frederiksberg,8,"11. Kreds, Nyelandsvej",V_Jan_E._Jørgensen,Jan E. Jørgensen,"Venstre, Danmarks Liberale Parti",178
+Frederiksberg,8,"11. Kreds, Nyelandsvej",V_Alexandra_Sasha,Alexandra Sasha,"Venstre, Danmarks Liberale Parti",60
+Frederiksberg,8,"11. Kreds, Nyelandsvej",V_Martin_Voergaard,Martin Voergaard,"Venstre, Danmarks Liberale Parti",10
+Frederiksberg,8,"11. Kreds, Nyelandsvej",V_Peter_Fjerring,Peter Fjerring,"Venstre, Danmarks Liberale Parti",4
+Frederiksberg,8,"11. Kreds, Nyelandsvej",V_Bettina_Palle,Bettina Palle,"Venstre, Danmarks Liberale Parti",4
+Frederiksberg,8,"11. Kreds, Nyelandsvej",V_Jesper_Munk,Jesper Munk,"Venstre, Danmarks Liberale Parti",2
+Frederiksberg,8,"11. Kreds, Nyelandsvej",V_William_Birgisson,William Birgisson,"Venstre, Danmarks Liberale Parti",0
+Frederiksberg,8,"11. Kreds, Nyelandsvej",V_Casper_Pedersen,Casper Pedersen,"Venstre, Danmarks Liberale Parti",5
+Frederiksberg,8,"11. Kreds, Nyelandsvej",V_Christian_Ohm-Hieronymussen,Christian Ohm-Hieronymussen,"Venstre, Danmarks Liberale Parti",4
+Frederiksberg,8,"11. Kreds, Nyelandsvej",V_Lars_Bøge,Lars Bøge,"Venstre, Danmarks Liberale Parti",2
+Frederiksberg,8,"11. Kreds, Nyelandsvej",Y_Listestemmer,Listestemmer,Kærlighedspartiet (Regnbuef / Bef),2
+Frederiksberg,8,"11. Kreds, Nyelandsvej",Y_Franco_Calledda,Franco Calledda,Kærlighedspartiet (Regnbuef / Bef),2
+Frederiksberg,8,"11. Kreds, Nyelandsvej",Y_Claus_Bork,Claus Bork,Kærlighedspartiet (Regnbuef / Bef),0
+Frederiksberg,8,"11. Kreds, Nyelandsvej",Æ_Listestemmer,Listestemmer,Frihedslisten,3
+Frederiksberg,8,"11. Kreds, Nyelandsvej",Æ_Liv_Oppedal,Liv Oppedal,Frihedslisten,3
+Frederiksberg,8,"11. Kreds, Nyelandsvej",Æ_Lone_Nørgaard,Lone Nørgaard,Frihedslisten,4
+Frederiksberg,8,"11. Kreds, Nyelandsvej",Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,385
+Frederiksberg,8,"11. Kreds, Nyelandsvej",Ø_Mette_Bang_Larsen,Mette Bang Larsen,Enhedslisten - De Rød-Grønne,114
+Frederiksberg,8,"11. Kreds, Nyelandsvej",Ø_Pelle_Dragsted,Pelle Dragsted,Enhedslisten - De Rød-Grønne,488
+Frederiksberg,8,"11. Kreds, Nyelandsvej",Ø_Daniel_Panduro,Daniel Panduro,Enhedslisten - De Rød-Grønne,13
+Frederiksberg,8,"11. Kreds, Nyelandsvej",Ø_Anja_Lundtoft,Anja Lundtoft,Enhedslisten - De Rød-Grønne,16
+Frederiksberg,8,"11. Kreds, Nyelandsvej",Ø_Thyge_Enevoldsen,Thyge Enevoldsen,Enhedslisten - De Rød-Grønne,17
+Frederiksberg,8,"11. Kreds, Nyelandsvej",Ø_Rasmus_Holme_Nielsen,Rasmus Holme Nielsen,Enhedslisten - De Rød-Grønne,18
+Frederiksberg,8,"11. Kreds, Nyelandsvej",Ø_Tone_Høybye,Tone Høybye,Enhedslisten - De Rød-Grønne,8
+Frederiksberg,8,"11. Kreds, Nyelandsvej",Ø_Mads-Emil_Gaardsvig_Christensen,Mads-Emil Gaardsvig Christensen,Enhedslisten - De Rød-Grønne,4
+Frederiksberg,8,"11. Kreds, Nyelandsvej",Ø_Christina_Ytzen,Christina Ytzen,Enhedslisten - De Rød-Grønne,8
+Frederiksberg,8,"11. Kreds, Nyelandsvej",Ø_Morten_K._Christensen-Hornehøj,Morten K. Christensen-Hornehøj,Enhedslisten - De Rød-Grønne,0
+Frederiksberg,8,"11. Kreds, Nyelandsvej",Ø_Eva_Thune_Jacobsen,Eva Thune Jacobsen,Enhedslisten - De Rød-Grønne,9
+Frederiksberg,8,"11. Kreds, Nyelandsvej",Ø_Malte_Bern_Jensen,Malte Bern Jensen,Enhedslisten - De Rød-Grønne,10
+Frederiksberg,8,"11. Kreds, Nyelandsvej",Ø_Anne_Eggen,Anne Eggen,Enhedslisten - De Rød-Grønne,1
+Frederiksberg,8,"11. Kreds, Nyelandsvej",Ø_Peter_Mikael_Hansen,Peter Mikael Hansen,Enhedslisten - De Rød-Grønne,9
+Frederiksberg,8,"11. Kreds, Nyelandsvej",Ø_Ulla_Pierri_Enevoldsen,Ulla Pierri Enevoldsen,Enhedslisten - De Rød-Grønne,6
+Frederiksberg,8,"11. Kreds, Nyelandsvej",Ø_Christian_Gorm_Hansen,Christian Gorm Hansen,Enhedslisten - De Rød-Grønne,1
+Frederiksberg,8,"11. Kreds, Nyelandsvej",Ø_Cecilia_S._Nysted,Cecilia S. Nysted,Enhedslisten - De Rød-Grønne,3
+Frederiksberg,8,"11. Kreds, Nyelandsvej",Ø_Emil_Samaras,Emil Samaras,Enhedslisten - De Rød-Grønne,13
+Frederiksberg,8,"11. Kreds, Nyelandsvej",Ø_Marianne_Rohde,Marianne Rohde,Enhedslisten - De Rød-Grønne,8
+Frederiksberg,8,"11. Kreds, Nyelandsvej",Ø_Torben_Lindquist,Torben Lindquist,Enhedslisten - De Rød-Grønne,0
+Frederiksberg,8,"11. Kreds, Nyelandsvej",Ø_Ulla_Binderup_Jørgensen,Ulla Binderup Jørgensen,Enhedslisten - De Rød-Grønne,9
+Frederiksberg,8,"11. Kreds, Nyelandsvej",Ø_Jacob_Nicolajsen,Jacob Nicolajsen,Enhedslisten - De Rød-Grønne,1
+Frederiksberg,8,"11. Kreds, Nyelandsvej",Ø_Sabrina_Louise_Christiansen,Sabrina Louise Christiansen,Enhedslisten - De Rød-Grønne,28
+Frederiksberg,8,"11. Kreds, Nyelandsvej",Ø_Henrik_Friis,Henrik Friis,Enhedslisten - De Rød-Grønne,3
+Frederiksberg,8,"11. Kreds, Nyelandsvej",Ø_Lea_Krusell,Lea Krusell,Enhedslisten - De Rød-Grønne,19
+Frederiksberg,8,"11. Kreds, Nyelandsvej",Ø_Anders_Jørgensen,Anders Jørgensen,Enhedslisten - De Rød-Grønne,0
+Frederiksberg,8,"11. Kreds, Nyelandsvej",Ø_Bianca_Vitting,Bianca Vitting,Enhedslisten - De Rød-Grønne,13
+Frederiksberg,8,"11. Kreds, Nyelandsvej",Ø_Jakob_Ørsted,Jakob Ørsted,Enhedslisten - De Rød-Grønne,7
+Frederiksberg,8,"11. Kreds, Nyelandsvej",Ø_Mia_Haugaard_Madsen,Mia Haugaard Madsen,Enhedslisten - De Rød-Grønne,11
+Frederiksberg,8,"11. Kreds, Nyelandsvej",Ø_Henning_Pape,Henning Pape,Enhedslisten - De Rød-Grønne,1
+Frederiksberg,8,"11. Kreds, Nyelandsvej",Ø_Susanne_Gustenhoff,Susanne Gustenhoff,Enhedslisten - De Rød-Grønne,0
+Frederiksberg,8,"11. Kreds, Nyelandsvej",Ø_Peter_Vogelius,Peter Vogelius,Enhedslisten - De Rød-Grønne,1
+Frederiksberg,8,"11. Kreds, Nyelandsvej",Ø_Else_Guldager,Else Guldager,Enhedslisten - De Rød-Grønne,10
+Frederiksberg,8,"11. Kreds, Nyelandsvej",Å_Listestemmer,Listestemmer,Alternativet,20
+Frederiksberg,8,"11. Kreds, Nyelandsvej",Å_Mette_Bram,Mette Bram,Alternativet,17
+Frederiksberg,8,"11. Kreds, Nyelandsvej",Å_Maria_Eichhorn,Maria Eichhorn,Alternativet,13
+Frederiksberg,8,"11. Kreds, Nyelandsvej",Å_Annedorthe_Kring,Annedorthe Kring,Alternativet,13

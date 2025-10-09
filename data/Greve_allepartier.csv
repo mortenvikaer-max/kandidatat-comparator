@@ -1,0 +1,526 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Greve,1,Arenaskolen,A_Listestemmer,Listestemmer,Socialdemokratiet,257
+Greve,1,Arenaskolen,"A_John_T._Olsen,_Hundige","John T. Olsen, Hundige",Socialdemokratiet,294
+Greve,1,Arenaskolen,"A_Bjarke_Abel,_Greve","Bjarke Abel, Greve",Socialdemokratiet,41
+Greve,1,Arenaskolen,"A_Heidi_Serny_Jacobsen,_Hundige","Heidi Serny Jacobsen, Hundige",Socialdemokratiet,31
+Greve,1,Arenaskolen,"A_Maria_Witthøft,_Hundige","Maria Witthøft, Hundige",Socialdemokratiet,77
+Greve,1,Arenaskolen,"A_Charlotte_Levin,_Tune","Charlotte Levin, Tune",Socialdemokratiet,6
+Greve,1,Arenaskolen,"A_Tina_Rottbøll,_Hundige","Tina Rottbøll, Hundige",Socialdemokratiet,61
+Greve,1,Arenaskolen,"A_Frank_Christiansen,_Mosede","Frank Christiansen, Mosede",Socialdemokratiet,3
+Greve,1,Arenaskolen,"A_Kenneth_Jerkel,_Hundige","Kenneth Jerkel, Hundige",Socialdemokratiet,32
+Greve,1,Arenaskolen,"A_Jette_Andersen,_Hundige","Jette Andersen, Hundige",Socialdemokratiet,44
+Greve,1,Arenaskolen,"A_Bjarne_Groth_Kjær,_Karlslunde","Bjarne Groth Kjær, Karlslunde",Socialdemokratiet,7
+Greve,1,Arenaskolen,"A_René_Bak_Høg,_Greve","René Bak Høg, Greve",Socialdemokratiet,3
+Greve,1,Arenaskolen,"A_Steen_Larsen,_Karlslunde","Steen Larsen, Karlslunde",Socialdemokratiet,3
+Greve,1,Arenaskolen,"A_Dorit_Schultz,_Greve","Dorit Schultz, Greve",Socialdemokratiet,12
+Greve,1,Arenaskolen,"A_Battal_Kücükavci,_Hundige","Battal Kücükavci, Hundige",Socialdemokratiet,27
+Greve,1,Arenaskolen,"A_Andreas_Blåberg,_Hundige","Andreas Blåberg, Hundige",Socialdemokratiet,0
+Greve,1,Arenaskolen,"A_Leif_Limkilde,_Greve","Leif Limkilde, Greve",Socialdemokratiet,8
+Greve,1,Arenaskolen,"A_Freddy_Aldenborg,_Greve","Freddy Aldenborg, Greve",Socialdemokratiet,1
+Greve,1,Arenaskolen,"A_Michael_Bo_Svendsen,_Hundige","Michael Bo Svendsen, Hundige",Socialdemokratiet,0
+Greve,1,Arenaskolen,"A_Allan_Jørgensen,_Mosede","Allan Jørgensen, Mosede",Socialdemokratiet,1
+Greve,1,Arenaskolen,"A_Daisi_Liljegren_Schultz,_Greve","Daisi Liljegren Schultz, Greve",Socialdemokratiet,1
+Greve,1,Arenaskolen,"A_Claus_A._Pedersen,_Hundige","Claus A. Pedersen, Hundige",Socialdemokratiet,4
+Greve,1,Arenaskolen,B_Listestemmer,Listestemmer,Radikale Venstre,18
+Greve,1,Arenaskolen,"B_Lars_Bjarne_Nielsen,_Greve","Lars Bjarne Nielsen, Greve",Radikale Venstre,16
+Greve,1,Arenaskolen,"B_Rachid_Bouziyane,_Hundige","Rachid Bouziyane, Hundige",Radikale Venstre,5
+Greve,1,Arenaskolen,"B_Bjarke_Lindsø_Andersen,_Greve","Bjarke Lindsø Andersen, Greve",Radikale Venstre,2
+Greve,1,Arenaskolen,"B_Jens_Wrang,_Karlslunde","Jens Wrang, Karlslunde",Radikale Venstre,0
+Greve,1,Arenaskolen,"B_Jesper_Nordentoft,_Greve","Jesper Nordentoft, Greve",Radikale Venstre,2
+Greve,1,Arenaskolen,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,124
+Greve,1,Arenaskolen,C_Brigitte_Klintskov_Jerkel,Brigitte Klintskov Jerkel,Det Konservative Folkeparti,149
+Greve,1,Arenaskolen,C_Jess_Eiberg_Hansen,Jess Eiberg Hansen,Det Konservative Folkeparti,7
+Greve,1,Arenaskolen,C_Claus_Dyremose,Claus Dyremose,Det Konservative Folkeparti,15
+Greve,1,Arenaskolen,C_Kasper_Holton_Hülsen,Kasper Holton Hülsen,Det Konservative Folkeparti,21
+Greve,1,Arenaskolen,C_Thomas_Klingspor-Bentzen,Thomas Klingspor-Bentzen,Det Konservative Folkeparti,3
+Greve,1,Arenaskolen,C_Mathias_Schwartz_Kirkegaard,Mathias Schwartz Kirkegaard,Det Konservative Folkeparti,12
+Greve,1,Arenaskolen,C_Ruth_Birkelund,Ruth Birkelund,Det Konservative Folkeparti,3
+Greve,1,Arenaskolen,C_Peter_T._E._Jonasen,Peter T. E. Jonasen,Det Konservative Folkeparti,5
+Greve,1,Arenaskolen,C_Henrik_Balleby_Hansen,Henrik Balleby Hansen,Det Konservative Folkeparti,17
+Greve,1,Arenaskolen,C_Åki_Kristiansen,Åki Kristiansen,Det Konservative Folkeparti,4
+Greve,1,Arenaskolen,D_Listestemmer,Listestemmer,Nye Borgerlige,74
+Greve,1,Arenaskolen,D_Hans-Jørgen_Kirstein,Hans-Jørgen Kirstein,Nye Borgerlige,27
+Greve,1,Arenaskolen,D_Jørgen_Schwartz,Jørgen Schwartz,Nye Borgerlige,13
+Greve,1,Arenaskolen,D_Annette_Vahlgreen,Annette Vahlgreen,Nye Borgerlige,9
+Greve,1,Arenaskolen,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,33
+Greve,1,Arenaskolen,"F_Linda_Heegaard,_Greve","Linda Heegaard, Greve",SF - Socialistisk Folkeparti,35
+Greve,1,Arenaskolen,"F_Michael_Holm,_Hundige","Michael Holm, Hundige",SF - Socialistisk Folkeparti,2
+Greve,1,Arenaskolen,"F_Eva_Larsen,_Karlslunde","Eva Larsen, Karlslunde",SF - Socialistisk Folkeparti,5
+Greve,1,Arenaskolen,"F_Thomas_Klinke,_Hundige","Thomas Klinke, Hundige",SF - Socialistisk Folkeparti,0
+Greve,1,Arenaskolen,"F_Peter_Vinther,_Hundige","Peter Vinther, Hundige",SF - Socialistisk Folkeparti,6
+Greve,1,Arenaskolen,"F_Bitten_Sørensen,_Hundige","Bitten Sørensen, Hundige",SF - Socialistisk Folkeparti,3
+Greve,1,Arenaskolen,"F_Carsten_Dibbern,_Hundige","Carsten Dibbern, Hundige",SF - Socialistisk Folkeparti,0
+Greve,1,Arenaskolen,G_Listestemmer,Listestemmer,Veganerpartiet,3
+Greve,1,Arenaskolen,G_Jill_Wortziger,Jill Wortziger,Veganerpartiet,5
+Greve,1,Arenaskolen,I_Listestemmer,Listestemmer,Liberal Alliance,5
+Greve,1,Arenaskolen,I_Frederik_Damgaard,Frederik Damgaard,Liberal Alliance,5
+Greve,1,Arenaskolen,I_Susanne_Juul_Damgaard,Susanne Juul Damgaard,Liberal Alliance,1
+Greve,1,Arenaskolen,K_Listestemmer,Listestemmer,Kristendemokraterne,5
+Greve,1,Arenaskolen,K_Eva_Guldfred,Eva Guldfred,Kristendemokraterne,3
+Greve,1,Arenaskolen,K_Jens_P._Hansen,Jens P. Hansen,Kristendemokraterne,3
+Greve,1,Arenaskolen,K_Beniamin_Tecsa,Beniamin Tecsa,Kristendemokraterne,0
+Greve,1,Arenaskolen,O_Listestemmer,Listestemmer,Dansk Folkeparti,53
+Greve,1,Arenaskolen,"O_Liselott_Blixt,_Mosede-Greve","Liselott Blixt, Mosede-Greve",Dansk Folkeparti,97
+Greve,1,Arenaskolen,"O_Casper_Wayert,_Hundige","Casper Wayert, Hundige",Dansk Folkeparti,19
+Greve,1,Arenaskolen,"O_Mortan_Martinsson,_Greve","Mortan Martinsson, Greve",Dansk Folkeparti,18
+Greve,1,Arenaskolen,"O_Claus_Engskov,_Greve","Claus Engskov, Greve",Dansk Folkeparti,1
+Greve,1,Arenaskolen,"O_Peter_Adelheid_Wetke,_Tune","Peter Adelheid Wetke, Tune",Dansk Folkeparti,0
+Greve,1,Arenaskolen,"O_Jørgen_Gustavsen,_Greve_Midt","Jørgen Gustavsen, Greve Midt",Dansk Folkeparti,1
+Greve,1,Arenaskolen,"O_Helga_Gunnarsdottir,_Mosede-Greve","Helga Gunnarsdottir, Mosede-Greve",Dansk Folkeparti,2
+Greve,1,Arenaskolen,"O_Lars_Lautrup-Larsen,_Mosede","Lars Lautrup-Larsen, Mosede",Dansk Folkeparti,0
+Greve,1,Arenaskolen,"O_Marianne_Heldam,_Greve_Landsby","Marianne Heldam, Greve Landsby",Dansk Folkeparti,1
+Greve,1,Arenaskolen,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",145
+Greve,1,Arenaskolen,V_Pernille_Beckmann,Pernille Beckmann,"Venstre, Danmarks Liberale Parti",210
+Greve,1,Arenaskolen,V_Morten_Dahlin,Morten Dahlin,"Venstre, Danmarks Liberale Parti",141
+Greve,1,Arenaskolen,V_Marc_Genning,Marc Genning,"Venstre, Danmarks Liberale Parti",51
+Greve,1,Arenaskolen,V_Jesper_Fini_Kuhre,Jesper Fini Kuhre,"Venstre, Danmarks Liberale Parti",9
+Greve,1,Arenaskolen,V_Claus_Jensen,Claus Jensen,"Venstre, Danmarks Liberale Parti",5
+Greve,1,Arenaskolen,V_Anne_Marie_Lyduch,Anne Marie Lyduch,"Venstre, Danmarks Liberale Parti",12
+Greve,1,Arenaskolen,V_Claus_Hjort_Schrøder,Claus Hjort Schrøder,"Venstre, Danmarks Liberale Parti",6
+Greve,1,Arenaskolen,V_Jan_Reslow-Nielsen,Jan Reslow-Nielsen,"Venstre, Danmarks Liberale Parti",6
+Greve,1,Arenaskolen,V_Conni_Bergendorff,Conni Bergendorff,"Venstre, Danmarks Liberale Parti",13
+Greve,1,Arenaskolen,V_Therese_Ørskov_Kunoy,Therese Ørskov Kunoy,"Venstre, Danmarks Liberale Parti",1
+Greve,1,Arenaskolen,V_Søren_Andersen,Søren Andersen,"Venstre, Danmarks Liberale Parti",1
+Greve,1,Arenaskolen,V_Torben_Hoffmann,Torben Hoffmann,"Venstre, Danmarks Liberale Parti",17
+Greve,1,Arenaskolen,V_Dorthe_Bøgh_Madsen,Dorthe Bøgh Madsen,"Venstre, Danmarks Liberale Parti",15
+Greve,1,Arenaskolen,V_Manal_Abd_El-Hafiz,Manal Abd El-Hafiz,"Venstre, Danmarks Liberale Parti",21
+Greve,1,Arenaskolen,V_Dilek_Yildirim,Dilek Yildirim,"Venstre, Danmarks Liberale Parti",0
+Greve,1,Arenaskolen,V_Simon_Østergaard,Simon Østergaard,"Venstre, Danmarks Liberale Parti",6
+Greve,1,Arenaskolen,V_Lone_Mortensen,Lone Mortensen,"Venstre, Danmarks Liberale Parti",4
+Greve,1,Arenaskolen,V_Ronni_Mark_Nielsen,Ronni Mark Nielsen,"Venstre, Danmarks Liberale Parti",9
+Greve,1,Arenaskolen,V_Jette_Asdal_Nielsen,Jette Asdal Nielsen,"Venstre, Danmarks Liberale Parti",0
+Greve,1,Arenaskolen,V_Martin_Holgersen,Martin Holgersen,"Venstre, Danmarks Liberale Parti",2
+Greve,1,Arenaskolen,V_Rigge_Nørmark,Rigge Nørmark,"Venstre, Danmarks Liberale Parti",5
+Greve,1,Arenaskolen,V_Martin_Kaas_Neergaard,Martin Kaas Neergaard,"Venstre, Danmarks Liberale Parti",1
+Greve,1,Arenaskolen,V_Per_Lund_Sørensen,Per Lund Sørensen,"Venstre, Danmarks Liberale Parti",0
+Greve,1,Arenaskolen,W_Listestemmer,Listestemmer,Party Parti,9
+Greve,1,Arenaskolen,W_Christoffer_Columbus_Wadil,Christoffer Columbus Wadil,Party Parti,27
+Greve,1,Arenaskolen,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,27
+Greve,1,Arenaskolen,"Ø_Mehmet_Zeki_Dogru,_Hundige","Mehmet Zeki Dogru, Hundige",Enhedslisten - De Rød-Grønne,107
+Greve,1,Arenaskolen,"Ø_Susanne_Pahlmann,_Karlslunde","Susanne Pahlmann, Karlslunde",Enhedslisten - De Rød-Grønne,3
+Greve,1,Arenaskolen,"Ø_Qendrim_Hasani,_Hundige","Qendrim Hasani, Hundige",Enhedslisten - De Rød-Grønne,9
+Greve,1,Arenaskolen,"Ø_Cecilie_Langvad_Oddershede,_Hundig","Cecilie Langvad Oddershede, Hundig",Enhedslisten - De Rød-Grønne,23
+Greve,1,Arenaskolen,"Ø_Hartmut_Pahlmann,_Karlslunde","Hartmut Pahlmann, Karlslunde",Enhedslisten - De Rød-Grønne,0
+Greve,1,Arenaskolen,"Ø_Leni_Dam,_Karlslunde","Leni Dam, Karlslunde",Enhedslisten - De Rød-Grønne,0
+Greve,1,Arenaskolen,"Ø_Saad_Ibrahim,_Greve","Saad Ibrahim, Greve",Enhedslisten - De Rød-Grønne,3
+Greve,1,Arenaskolen,"Ø_Annette_Nielsen,_Greve","Annette Nielsen, Greve",Enhedslisten - De Rød-Grønne,3
+Greve,2,Greve Idrætscenter,A_Listestemmer,Listestemmer,Socialdemokratiet,1026
+Greve,2,Greve Idrætscenter,"A_John_T._Olsen,_Hundige","John T. Olsen, Hundige",Socialdemokratiet,601
+Greve,2,Greve Idrætscenter,"A_Bjarke_Abel,_Greve","Bjarke Abel, Greve",Socialdemokratiet,195
+Greve,2,Greve Idrætscenter,"A_Heidi_Serny_Jacobsen,_Hundige","Heidi Serny Jacobsen, Hundige",Socialdemokratiet,167
+Greve,2,Greve Idrætscenter,"A_Maria_Witthøft,_Hundige","Maria Witthøft, Hundige",Socialdemokratiet,277
+Greve,2,Greve Idrætscenter,"A_Charlotte_Levin,_Tune","Charlotte Levin, Tune",Socialdemokratiet,43
+Greve,2,Greve Idrætscenter,"A_Tina_Rottbøll,_Hundige","Tina Rottbøll, Hundige",Socialdemokratiet,166
+Greve,2,Greve Idrætscenter,"A_Frank_Christiansen,_Mosede","Frank Christiansen, Mosede",Socialdemokratiet,28
+Greve,2,Greve Idrætscenter,"A_Kenneth_Jerkel,_Hundige","Kenneth Jerkel, Hundige",Socialdemokratiet,146
+Greve,2,Greve Idrætscenter,"A_Jette_Andersen,_Hundige","Jette Andersen, Hundige",Socialdemokratiet,108
+Greve,2,Greve Idrætscenter,"A_Bjarne_Groth_Kjær,_Karlslunde","Bjarne Groth Kjær, Karlslunde",Socialdemokratiet,41
+Greve,2,Greve Idrætscenter,"A_René_Bak_Høg,_Greve","René Bak Høg, Greve",Socialdemokratiet,36
+Greve,2,Greve Idrætscenter,"A_Steen_Larsen,_Karlslunde","Steen Larsen, Karlslunde",Socialdemokratiet,14
+Greve,2,Greve Idrætscenter,"A_Dorit_Schultz,_Greve","Dorit Schultz, Greve",Socialdemokratiet,33
+Greve,2,Greve Idrætscenter,"A_Battal_Kücükavci,_Hundige","Battal Kücükavci, Hundige",Socialdemokratiet,93
+Greve,2,Greve Idrætscenter,"A_Andreas_Blåberg,_Hundige","Andreas Blåberg, Hundige",Socialdemokratiet,11
+Greve,2,Greve Idrætscenter,"A_Leif_Limkilde,_Greve","Leif Limkilde, Greve",Socialdemokratiet,32
+Greve,2,Greve Idrætscenter,"A_Freddy_Aldenborg,_Greve","Freddy Aldenborg, Greve",Socialdemokratiet,20
+Greve,2,Greve Idrætscenter,"A_Michael_Bo_Svendsen,_Hundige","Michael Bo Svendsen, Hundige",Socialdemokratiet,3
+Greve,2,Greve Idrætscenter,"A_Allan_Jørgensen,_Mosede","Allan Jørgensen, Mosede",Socialdemokratiet,3
+Greve,2,Greve Idrætscenter,"A_Daisi_Liljegren_Schultz,_Greve","Daisi Liljegren Schultz, Greve",Socialdemokratiet,10
+Greve,2,Greve Idrætscenter,"A_Claus_A._Pedersen,_Hundige","Claus A. Pedersen, Hundige",Socialdemokratiet,5
+Greve,2,Greve Idrætscenter,B_Listestemmer,Listestemmer,Radikale Venstre,101
+Greve,2,Greve Idrætscenter,"B_Lars_Bjarne_Nielsen,_Greve","Lars Bjarne Nielsen, Greve",Radikale Venstre,91
+Greve,2,Greve Idrætscenter,"B_Rachid_Bouziyane,_Hundige","Rachid Bouziyane, Hundige",Radikale Venstre,45
+Greve,2,Greve Idrætscenter,"B_Bjarke_Lindsø_Andersen,_Greve","Bjarke Lindsø Andersen, Greve",Radikale Venstre,7
+Greve,2,Greve Idrætscenter,"B_Jens_Wrang,_Karlslunde","Jens Wrang, Karlslunde",Radikale Venstre,3
+Greve,2,Greve Idrætscenter,"B_Jesper_Nordentoft,_Greve","Jesper Nordentoft, Greve",Radikale Venstre,9
+Greve,2,Greve Idrætscenter,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,365
+Greve,2,Greve Idrætscenter,C_Brigitte_Klintskov_Jerkel,Brigitte Klintskov Jerkel,Det Konservative Folkeparti,474
+Greve,2,Greve Idrætscenter,C_Jess_Eiberg_Hansen,Jess Eiberg Hansen,Det Konservative Folkeparti,34
+Greve,2,Greve Idrætscenter,C_Claus_Dyremose,Claus Dyremose,Det Konservative Folkeparti,118
+Greve,2,Greve Idrætscenter,C_Kasper_Holton_Hülsen,Kasper Holton Hülsen,Det Konservative Folkeparti,50
+Greve,2,Greve Idrætscenter,C_Thomas_Klingspor-Bentzen,Thomas Klingspor-Bentzen,Det Konservative Folkeparti,19
+Greve,2,Greve Idrætscenter,C_Mathias_Schwartz_Kirkegaard,Mathias Schwartz Kirkegaard,Det Konservative Folkeparti,48
+Greve,2,Greve Idrætscenter,C_Ruth_Birkelund,Ruth Birkelund,Det Konservative Folkeparti,17
+Greve,2,Greve Idrætscenter,C_Peter_T._E._Jonasen,Peter T. E. Jonasen,Det Konservative Folkeparti,22
+Greve,2,Greve Idrætscenter,C_Henrik_Balleby_Hansen,Henrik Balleby Hansen,Det Konservative Folkeparti,81
+Greve,2,Greve Idrætscenter,C_Åki_Kristiansen,Åki Kristiansen,Det Konservative Folkeparti,14
+Greve,2,Greve Idrætscenter,D_Listestemmer,Listestemmer,Nye Borgerlige,187
+Greve,2,Greve Idrætscenter,D_Hans-Jørgen_Kirstein,Hans-Jørgen Kirstein,Nye Borgerlige,113
+Greve,2,Greve Idrætscenter,D_Jørgen_Schwartz,Jørgen Schwartz,Nye Borgerlige,48
+Greve,2,Greve Idrætscenter,D_Annette_Vahlgreen,Annette Vahlgreen,Nye Borgerlige,30
+Greve,2,Greve Idrætscenter,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,146
+Greve,2,Greve Idrætscenter,"F_Linda_Heegaard,_Greve","Linda Heegaard, Greve",SF - Socialistisk Folkeparti,196
+Greve,2,Greve Idrætscenter,"F_Michael_Holm,_Hundige","Michael Holm, Hundige",SF - Socialistisk Folkeparti,5
+Greve,2,Greve Idrætscenter,"F_Eva_Larsen,_Karlslunde","Eva Larsen, Karlslunde",SF - Socialistisk Folkeparti,29
+Greve,2,Greve Idrætscenter,"F_Thomas_Klinke,_Hundige","Thomas Klinke, Hundige",SF - Socialistisk Folkeparti,1
+Greve,2,Greve Idrætscenter,"F_Peter_Vinther,_Hundige","Peter Vinther, Hundige",SF - Socialistisk Folkeparti,7
+Greve,2,Greve Idrætscenter,"F_Bitten_Sørensen,_Hundige","Bitten Sørensen, Hundige",SF - Socialistisk Folkeparti,4
+Greve,2,Greve Idrætscenter,"F_Carsten_Dibbern,_Hundige","Carsten Dibbern, Hundige",SF - Socialistisk Folkeparti,3
+Greve,2,Greve Idrætscenter,G_Listestemmer,Listestemmer,Veganerpartiet,5
+Greve,2,Greve Idrætscenter,G_Jill_Wortziger,Jill Wortziger,Veganerpartiet,15
+Greve,2,Greve Idrætscenter,I_Listestemmer,Listestemmer,Liberal Alliance,36
+Greve,2,Greve Idrætscenter,I_Frederik_Damgaard,Frederik Damgaard,Liberal Alliance,25
+Greve,2,Greve Idrætscenter,I_Susanne_Juul_Damgaard,Susanne Juul Damgaard,Liberal Alliance,4
+Greve,2,Greve Idrætscenter,K_Listestemmer,Listestemmer,Kristendemokraterne,11
+Greve,2,Greve Idrætscenter,K_Eva_Guldfred,Eva Guldfred,Kristendemokraterne,13
+Greve,2,Greve Idrætscenter,K_Jens_P._Hansen,Jens P. Hansen,Kristendemokraterne,18
+Greve,2,Greve Idrætscenter,K_Beniamin_Tecsa,Beniamin Tecsa,Kristendemokraterne,0
+Greve,2,Greve Idrætscenter,O_Listestemmer,Listestemmer,Dansk Folkeparti,153
+Greve,2,Greve Idrætscenter,"O_Liselott_Blixt,_Mosede-Greve","Liselott Blixt, Mosede-Greve",Dansk Folkeparti,333
+Greve,2,Greve Idrætscenter,"O_Casper_Wayert,_Hundige","Casper Wayert, Hundige",Dansk Folkeparti,38
+Greve,2,Greve Idrætscenter,"O_Mortan_Martinsson,_Greve","Mortan Martinsson, Greve",Dansk Folkeparti,73
+Greve,2,Greve Idrætscenter,"O_Claus_Engskov,_Greve","Claus Engskov, Greve",Dansk Folkeparti,19
+Greve,2,Greve Idrætscenter,"O_Peter_Adelheid_Wetke,_Tune","Peter Adelheid Wetke, Tune",Dansk Folkeparti,5
+Greve,2,Greve Idrætscenter,"O_Jørgen_Gustavsen,_Greve_Midt","Jørgen Gustavsen, Greve Midt",Dansk Folkeparti,14
+Greve,2,Greve Idrætscenter,"O_Helga_Gunnarsdottir,_Mosede-Greve","Helga Gunnarsdottir, Mosede-Greve",Dansk Folkeparti,5
+Greve,2,Greve Idrætscenter,"O_Lars_Lautrup-Larsen,_Mosede","Lars Lautrup-Larsen, Mosede",Dansk Folkeparti,4
+Greve,2,Greve Idrætscenter,"O_Marianne_Heldam,_Greve_Landsby","Marianne Heldam, Greve Landsby",Dansk Folkeparti,4
+Greve,2,Greve Idrætscenter,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",613
+Greve,2,Greve Idrætscenter,V_Pernille_Beckmann,Pernille Beckmann,"Venstre, Danmarks Liberale Parti",1054
+Greve,2,Greve Idrætscenter,V_Morten_Dahlin,Morten Dahlin,"Venstre, Danmarks Liberale Parti",734
+Greve,2,Greve Idrætscenter,V_Marc_Genning,Marc Genning,"Venstre, Danmarks Liberale Parti",170
+Greve,2,Greve Idrætscenter,V_Jesper_Fini_Kuhre,Jesper Fini Kuhre,"Venstre, Danmarks Liberale Parti",83
+Greve,2,Greve Idrætscenter,V_Claus_Jensen,Claus Jensen,"Venstre, Danmarks Liberale Parti",124
+Greve,2,Greve Idrætscenter,V_Anne_Marie_Lyduch,Anne Marie Lyduch,"Venstre, Danmarks Liberale Parti",105
+Greve,2,Greve Idrætscenter,V_Claus_Hjort_Schrøder,Claus Hjort Schrøder,"Venstre, Danmarks Liberale Parti",30
+Greve,2,Greve Idrætscenter,V_Jan_Reslow-Nielsen,Jan Reslow-Nielsen,"Venstre, Danmarks Liberale Parti",5
+Greve,2,Greve Idrætscenter,V_Conni_Bergendorff,Conni Bergendorff,"Venstre, Danmarks Liberale Parti",49
+Greve,2,Greve Idrætscenter,V_Therese_Ørskov_Kunoy,Therese Ørskov Kunoy,"Venstre, Danmarks Liberale Parti",40
+Greve,2,Greve Idrætscenter,V_Søren_Andersen,Søren Andersen,"Venstre, Danmarks Liberale Parti",11
+Greve,2,Greve Idrætscenter,V_Torben_Hoffmann,Torben Hoffmann,"Venstre, Danmarks Liberale Parti",147
+Greve,2,Greve Idrætscenter,V_Dorthe_Bøgh_Madsen,Dorthe Bøgh Madsen,"Venstre, Danmarks Liberale Parti",56
+Greve,2,Greve Idrætscenter,V_Manal_Abd_El-Hafiz,Manal Abd El-Hafiz,"Venstre, Danmarks Liberale Parti",72
+Greve,2,Greve Idrætscenter,V_Dilek_Yildirim,Dilek Yildirim,"Venstre, Danmarks Liberale Parti",39
+Greve,2,Greve Idrætscenter,V_Simon_Østergaard,Simon Østergaard,"Venstre, Danmarks Liberale Parti",57
+Greve,2,Greve Idrætscenter,V_Lone_Mortensen,Lone Mortensen,"Venstre, Danmarks Liberale Parti",37
+Greve,2,Greve Idrætscenter,V_Ronni_Mark_Nielsen,Ronni Mark Nielsen,"Venstre, Danmarks Liberale Parti",82
+Greve,2,Greve Idrætscenter,V_Jette_Asdal_Nielsen,Jette Asdal Nielsen,"Venstre, Danmarks Liberale Parti",3
+Greve,2,Greve Idrætscenter,V_Martin_Holgersen,Martin Holgersen,"Venstre, Danmarks Liberale Parti",4
+Greve,2,Greve Idrætscenter,V_Rigge_Nørmark,Rigge Nørmark,"Venstre, Danmarks Liberale Parti",17
+Greve,2,Greve Idrætscenter,V_Martin_Kaas_Neergaard,Martin Kaas Neergaard,"Venstre, Danmarks Liberale Parti",0
+Greve,2,Greve Idrætscenter,V_Per_Lund_Sørensen,Per Lund Sørensen,"Venstre, Danmarks Liberale Parti",5
+Greve,2,Greve Idrætscenter,W_Listestemmer,Listestemmer,Party Parti,31
+Greve,2,Greve Idrætscenter,W_Christoffer_Columbus_Wadil,Christoffer Columbus Wadil,Party Parti,129
+Greve,2,Greve Idrætscenter,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,144
+Greve,2,Greve Idrætscenter,"Ø_Mehmet_Zeki_Dogru,_Hundige","Mehmet Zeki Dogru, Hundige",Enhedslisten - De Rød-Grønne,398
+Greve,2,Greve Idrætscenter,"Ø_Susanne_Pahlmann,_Karlslunde","Susanne Pahlmann, Karlslunde",Enhedslisten - De Rød-Grønne,20
+Greve,2,Greve Idrætscenter,"Ø_Qendrim_Hasani,_Hundige","Qendrim Hasani, Hundige",Enhedslisten - De Rød-Grønne,48
+Greve,2,Greve Idrætscenter,"Ø_Cecilie_Langvad_Oddershede,_Hundig","Cecilie Langvad Oddershede, Hundig",Enhedslisten - De Rød-Grønne,35
+Greve,2,Greve Idrætscenter,"Ø_Hartmut_Pahlmann,_Karlslunde","Hartmut Pahlmann, Karlslunde",Enhedslisten - De Rød-Grønne,1
+Greve,2,Greve Idrætscenter,"Ø_Leni_Dam,_Karlslunde","Leni Dam, Karlslunde",Enhedslisten - De Rød-Grønne,3
+Greve,2,Greve Idrætscenter,"Ø_Saad_Ibrahim,_Greve","Saad Ibrahim, Greve",Enhedslisten - De Rød-Grønne,15
+Greve,2,Greve Idrætscenter,"Ø_Annette_Nielsen,_Greve","Annette Nielsen, Greve",Enhedslisten - De Rød-Grønne,15
+Greve,3,Mosedeskolen,A_Listestemmer,Listestemmer,Socialdemokratiet,306
+Greve,3,Mosedeskolen,"A_John_T._Olsen,_Hundige","John T. Olsen, Hundige",Socialdemokratiet,114
+Greve,3,Mosedeskolen,"A_Bjarke_Abel,_Greve","Bjarke Abel, Greve",Socialdemokratiet,57
+Greve,3,Mosedeskolen,"A_Heidi_Serny_Jacobsen,_Hundige","Heidi Serny Jacobsen, Hundige",Socialdemokratiet,47
+Greve,3,Mosedeskolen,"A_Maria_Witthøft,_Hundige","Maria Witthøft, Hundige",Socialdemokratiet,71
+Greve,3,Mosedeskolen,"A_Charlotte_Levin,_Tune","Charlotte Levin, Tune",Socialdemokratiet,20
+Greve,3,Mosedeskolen,"A_Tina_Rottbøll,_Hundige","Tina Rottbøll, Hundige",Socialdemokratiet,66
+Greve,3,Mosedeskolen,"A_Frank_Christiansen,_Mosede","Frank Christiansen, Mosede",Socialdemokratiet,59
+Greve,3,Mosedeskolen,"A_Kenneth_Jerkel,_Hundige","Kenneth Jerkel, Hundige",Socialdemokratiet,41
+Greve,3,Mosedeskolen,"A_Jette_Andersen,_Hundige","Jette Andersen, Hundige",Socialdemokratiet,15
+Greve,3,Mosedeskolen,"A_Bjarne_Groth_Kjær,_Karlslunde","Bjarne Groth Kjær, Karlslunde",Socialdemokratiet,11
+Greve,3,Mosedeskolen,"A_René_Bak_Høg,_Greve","René Bak Høg, Greve",Socialdemokratiet,20
+Greve,3,Mosedeskolen,"A_Steen_Larsen,_Karlslunde","Steen Larsen, Karlslunde",Socialdemokratiet,3
+Greve,3,Mosedeskolen,"A_Dorit_Schultz,_Greve","Dorit Schultz, Greve",Socialdemokratiet,13
+Greve,3,Mosedeskolen,"A_Battal_Kücükavci,_Hundige","Battal Kücükavci, Hundige",Socialdemokratiet,0
+Greve,3,Mosedeskolen,"A_Andreas_Blåberg,_Hundige","Andreas Blåberg, Hundige",Socialdemokratiet,1
+Greve,3,Mosedeskolen,"A_Leif_Limkilde,_Greve","Leif Limkilde, Greve",Socialdemokratiet,11
+Greve,3,Mosedeskolen,"A_Freddy_Aldenborg,_Greve","Freddy Aldenborg, Greve",Socialdemokratiet,4
+Greve,3,Mosedeskolen,"A_Michael_Bo_Svendsen,_Hundige","Michael Bo Svendsen, Hundige",Socialdemokratiet,1
+Greve,3,Mosedeskolen,"A_Allan_Jørgensen,_Mosede","Allan Jørgensen, Mosede",Socialdemokratiet,4
+Greve,3,Mosedeskolen,"A_Daisi_Liljegren_Schultz,_Greve","Daisi Liljegren Schultz, Greve",Socialdemokratiet,1
+Greve,3,Mosedeskolen,"A_Claus_A._Pedersen,_Hundige","Claus A. Pedersen, Hundige",Socialdemokratiet,1
+Greve,3,Mosedeskolen,B_Listestemmer,Listestemmer,Radikale Venstre,38
+Greve,3,Mosedeskolen,"B_Lars_Bjarne_Nielsen,_Greve","Lars Bjarne Nielsen, Greve",Radikale Venstre,28
+Greve,3,Mosedeskolen,"B_Rachid_Bouziyane,_Hundige","Rachid Bouziyane, Hundige",Radikale Venstre,11
+Greve,3,Mosedeskolen,"B_Bjarke_Lindsø_Andersen,_Greve","Bjarke Lindsø Andersen, Greve",Radikale Venstre,8
+Greve,3,Mosedeskolen,"B_Jens_Wrang,_Karlslunde","Jens Wrang, Karlslunde",Radikale Venstre,0
+Greve,3,Mosedeskolen,"B_Jesper_Nordentoft,_Greve","Jesper Nordentoft, Greve",Radikale Venstre,2
+Greve,3,Mosedeskolen,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,158
+Greve,3,Mosedeskolen,C_Brigitte_Klintskov_Jerkel,Brigitte Klintskov Jerkel,Det Konservative Folkeparti,182
+Greve,3,Mosedeskolen,C_Jess_Eiberg_Hansen,Jess Eiberg Hansen,Det Konservative Folkeparti,26
+Greve,3,Mosedeskolen,C_Claus_Dyremose,Claus Dyremose,Det Konservative Folkeparti,74
+Greve,3,Mosedeskolen,C_Kasper_Holton_Hülsen,Kasper Holton Hülsen,Det Konservative Folkeparti,24
+Greve,3,Mosedeskolen,C_Thomas_Klingspor-Bentzen,Thomas Klingspor-Bentzen,Det Konservative Folkeparti,4
+Greve,3,Mosedeskolen,C_Mathias_Schwartz_Kirkegaard,Mathias Schwartz Kirkegaard,Det Konservative Folkeparti,27
+Greve,3,Mosedeskolen,C_Ruth_Birkelund,Ruth Birkelund,Det Konservative Folkeparti,4
+Greve,3,Mosedeskolen,C_Peter_T._E._Jonasen,Peter T. E. Jonasen,Det Konservative Folkeparti,14
+Greve,3,Mosedeskolen,C_Henrik_Balleby_Hansen,Henrik Balleby Hansen,Det Konservative Folkeparti,22
+Greve,3,Mosedeskolen,C_Åki_Kristiansen,Åki Kristiansen,Det Konservative Folkeparti,6
+Greve,3,Mosedeskolen,D_Listestemmer,Listestemmer,Nye Borgerlige,62
+Greve,3,Mosedeskolen,D_Hans-Jørgen_Kirstein,Hans-Jørgen Kirstein,Nye Borgerlige,34
+Greve,3,Mosedeskolen,D_Jørgen_Schwartz,Jørgen Schwartz,Nye Borgerlige,31
+Greve,3,Mosedeskolen,D_Annette_Vahlgreen,Annette Vahlgreen,Nye Borgerlige,11
+Greve,3,Mosedeskolen,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,45
+Greve,3,Mosedeskolen,"F_Linda_Heegaard,_Greve","Linda Heegaard, Greve",SF - Socialistisk Folkeparti,76
+Greve,3,Mosedeskolen,"F_Michael_Holm,_Hundige","Michael Holm, Hundige",SF - Socialistisk Folkeparti,2
+Greve,3,Mosedeskolen,"F_Eva_Larsen,_Karlslunde","Eva Larsen, Karlslunde",SF - Socialistisk Folkeparti,10
+Greve,3,Mosedeskolen,"F_Thomas_Klinke,_Hundige","Thomas Klinke, Hundige",SF - Socialistisk Folkeparti,0
+Greve,3,Mosedeskolen,"F_Peter_Vinther,_Hundige","Peter Vinther, Hundige",SF - Socialistisk Folkeparti,0
+Greve,3,Mosedeskolen,"F_Bitten_Sørensen,_Hundige","Bitten Sørensen, Hundige",SF - Socialistisk Folkeparti,0
+Greve,3,Mosedeskolen,"F_Carsten_Dibbern,_Hundige","Carsten Dibbern, Hundige",SF - Socialistisk Folkeparti,0
+Greve,3,Mosedeskolen,G_Listestemmer,Listestemmer,Veganerpartiet,1
+Greve,3,Mosedeskolen,G_Jill_Wortziger,Jill Wortziger,Veganerpartiet,4
+Greve,3,Mosedeskolen,I_Listestemmer,Listestemmer,Liberal Alliance,17
+Greve,3,Mosedeskolen,I_Frederik_Damgaard,Frederik Damgaard,Liberal Alliance,14
+Greve,3,Mosedeskolen,I_Susanne_Juul_Damgaard,Susanne Juul Damgaard,Liberal Alliance,0
+Greve,3,Mosedeskolen,K_Listestemmer,Listestemmer,Kristendemokraterne,3
+Greve,3,Mosedeskolen,K_Eva_Guldfred,Eva Guldfred,Kristendemokraterne,0
+Greve,3,Mosedeskolen,K_Jens_P._Hansen,Jens P. Hansen,Kristendemokraterne,0
+Greve,3,Mosedeskolen,K_Beniamin_Tecsa,Beniamin Tecsa,Kristendemokraterne,1
+Greve,3,Mosedeskolen,O_Listestemmer,Listestemmer,Dansk Folkeparti,36
+Greve,3,Mosedeskolen,"O_Liselott_Blixt,_Mosede-Greve","Liselott Blixt, Mosede-Greve",Dansk Folkeparti,149
+Greve,3,Mosedeskolen,"O_Casper_Wayert,_Hundige","Casper Wayert, Hundige",Dansk Folkeparti,7
+Greve,3,Mosedeskolen,"O_Mortan_Martinsson,_Greve","Mortan Martinsson, Greve",Dansk Folkeparti,13
+Greve,3,Mosedeskolen,"O_Claus_Engskov,_Greve","Claus Engskov, Greve",Dansk Folkeparti,2
+Greve,3,Mosedeskolen,"O_Peter_Adelheid_Wetke,_Tune","Peter Adelheid Wetke, Tune",Dansk Folkeparti,2
+Greve,3,Mosedeskolen,"O_Jørgen_Gustavsen,_Greve_Midt","Jørgen Gustavsen, Greve Midt",Dansk Folkeparti,5
+Greve,3,Mosedeskolen,"O_Helga_Gunnarsdottir,_Mosede-Greve","Helga Gunnarsdottir, Mosede-Greve",Dansk Folkeparti,1
+Greve,3,Mosedeskolen,"O_Lars_Lautrup-Larsen,_Mosede","Lars Lautrup-Larsen, Mosede",Dansk Folkeparti,0
+Greve,3,Mosedeskolen,"O_Marianne_Heldam,_Greve_Landsby","Marianne Heldam, Greve Landsby",Dansk Folkeparti,0
+Greve,3,Mosedeskolen,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",277
+Greve,3,Mosedeskolen,V_Pernille_Beckmann,Pernille Beckmann,"Venstre, Danmarks Liberale Parti",504
+Greve,3,Mosedeskolen,V_Morten_Dahlin,Morten Dahlin,"Venstre, Danmarks Liberale Parti",337
+Greve,3,Mosedeskolen,V_Marc_Genning,Marc Genning,"Venstre, Danmarks Liberale Parti",89
+Greve,3,Mosedeskolen,V_Jesper_Fini_Kuhre,Jesper Fini Kuhre,"Venstre, Danmarks Liberale Parti",23
+Greve,3,Mosedeskolen,V_Claus_Jensen,Claus Jensen,"Venstre, Danmarks Liberale Parti",56
+Greve,3,Mosedeskolen,V_Anne_Marie_Lyduch,Anne Marie Lyduch,"Venstre, Danmarks Liberale Parti",29
+Greve,3,Mosedeskolen,V_Claus_Hjort_Schrøder,Claus Hjort Schrøder,"Venstre, Danmarks Liberale Parti",9
+Greve,3,Mosedeskolen,V_Jan_Reslow-Nielsen,Jan Reslow-Nielsen,"Venstre, Danmarks Liberale Parti",0
+Greve,3,Mosedeskolen,V_Conni_Bergendorff,Conni Bergendorff,"Venstre, Danmarks Liberale Parti",36
+Greve,3,Mosedeskolen,V_Therese_Ørskov_Kunoy,Therese Ørskov Kunoy,"Venstre, Danmarks Liberale Parti",20
+Greve,3,Mosedeskolen,V_Søren_Andersen,Søren Andersen,"Venstre, Danmarks Liberale Parti",7
+Greve,3,Mosedeskolen,V_Torben_Hoffmann,Torben Hoffmann,"Venstre, Danmarks Liberale Parti",30
+Greve,3,Mosedeskolen,V_Dorthe_Bøgh_Madsen,Dorthe Bøgh Madsen,"Venstre, Danmarks Liberale Parti",36
+Greve,3,Mosedeskolen,V_Manal_Abd_El-Hafiz,Manal Abd El-Hafiz,"Venstre, Danmarks Liberale Parti",9
+Greve,3,Mosedeskolen,V_Dilek_Yildirim,Dilek Yildirim,"Venstre, Danmarks Liberale Parti",2
+Greve,3,Mosedeskolen,V_Simon_Østergaard,Simon Østergaard,"Venstre, Danmarks Liberale Parti",98
+Greve,3,Mosedeskolen,V_Lone_Mortensen,Lone Mortensen,"Venstre, Danmarks Liberale Parti",15
+Greve,3,Mosedeskolen,V_Ronni_Mark_Nielsen,Ronni Mark Nielsen,"Venstre, Danmarks Liberale Parti",36
+Greve,3,Mosedeskolen,V_Jette_Asdal_Nielsen,Jette Asdal Nielsen,"Venstre, Danmarks Liberale Parti",3
+Greve,3,Mosedeskolen,V_Martin_Holgersen,Martin Holgersen,"Venstre, Danmarks Liberale Parti",1
+Greve,3,Mosedeskolen,V_Rigge_Nørmark,Rigge Nørmark,"Venstre, Danmarks Liberale Parti",13
+Greve,3,Mosedeskolen,V_Martin_Kaas_Neergaard,Martin Kaas Neergaard,"Venstre, Danmarks Liberale Parti",1
+Greve,3,Mosedeskolen,V_Per_Lund_Sørensen,Per Lund Sørensen,"Venstre, Danmarks Liberale Parti",1
+Greve,3,Mosedeskolen,W_Listestemmer,Listestemmer,Party Parti,4
+Greve,3,Mosedeskolen,W_Christoffer_Columbus_Wadil,Christoffer Columbus Wadil,Party Parti,31
+Greve,3,Mosedeskolen,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,36
+Greve,3,Mosedeskolen,"Ø_Mehmet_Zeki_Dogru,_Hundige","Mehmet Zeki Dogru, Hundige",Enhedslisten - De Rød-Grønne,31
+Greve,3,Mosedeskolen,"Ø_Susanne_Pahlmann,_Karlslunde","Susanne Pahlmann, Karlslunde",Enhedslisten - De Rød-Grønne,4
+Greve,3,Mosedeskolen,"Ø_Qendrim_Hasani,_Hundige","Qendrim Hasani, Hundige",Enhedslisten - De Rød-Grønne,4
+Greve,3,Mosedeskolen,"Ø_Cecilie_Langvad_Oddershede,_Hundig","Cecilie Langvad Oddershede, Hundig",Enhedslisten - De Rød-Grønne,6
+Greve,3,Mosedeskolen,"Ø_Hartmut_Pahlmann,_Karlslunde","Hartmut Pahlmann, Karlslunde",Enhedslisten - De Rød-Grønne,0
+Greve,3,Mosedeskolen,"Ø_Leni_Dam,_Karlslunde","Leni Dam, Karlslunde",Enhedslisten - De Rød-Grønne,1
+Greve,3,Mosedeskolen,"Ø_Saad_Ibrahim,_Greve","Saad Ibrahim, Greve",Enhedslisten - De Rød-Grønne,2
+Greve,3,Mosedeskolen,"Ø_Annette_Nielsen,_Greve","Annette Nielsen, Greve",Enhedslisten - De Rød-Grønne,3
+Greve,4,Karlslunde Hallerne,A_Listestemmer,Listestemmer,Socialdemokratiet,438
+Greve,4,Karlslunde Hallerne,"A_John_T._Olsen,_Hundige","John T. Olsen, Hundige",Socialdemokratiet,117
+Greve,4,Karlslunde Hallerne,"A_Bjarke_Abel,_Greve","Bjarke Abel, Greve",Socialdemokratiet,71
+Greve,4,Karlslunde Hallerne,"A_Heidi_Serny_Jacobsen,_Hundige","Heidi Serny Jacobsen, Hundige",Socialdemokratiet,60
+Greve,4,Karlslunde Hallerne,"A_Maria_Witthøft,_Hundige","Maria Witthøft, Hundige",Socialdemokratiet,65
+Greve,4,Karlslunde Hallerne,"A_Charlotte_Levin,_Tune","Charlotte Levin, Tune",Socialdemokratiet,11
+Greve,4,Karlslunde Hallerne,"A_Tina_Rottbøll,_Hundige","Tina Rottbøll, Hundige",Socialdemokratiet,62
+Greve,4,Karlslunde Hallerne,"A_Frank_Christiansen,_Mosede","Frank Christiansen, Mosede",Socialdemokratiet,9
+Greve,4,Karlslunde Hallerne,"A_Kenneth_Jerkel,_Hundige","Kenneth Jerkel, Hundige",Socialdemokratiet,31
+Greve,4,Karlslunde Hallerne,"A_Jette_Andersen,_Hundige","Jette Andersen, Hundige",Socialdemokratiet,15
+Greve,4,Karlslunde Hallerne,"A_Bjarne_Groth_Kjær,_Karlslunde","Bjarne Groth Kjær, Karlslunde",Socialdemokratiet,64
+Greve,4,Karlslunde Hallerne,"A_René_Bak_Høg,_Greve","René Bak Høg, Greve",Socialdemokratiet,12
+Greve,4,Karlslunde Hallerne,"A_Steen_Larsen,_Karlslunde","Steen Larsen, Karlslunde",Socialdemokratiet,79
+Greve,4,Karlslunde Hallerne,"A_Dorit_Schultz,_Greve","Dorit Schultz, Greve",Socialdemokratiet,9
+Greve,4,Karlslunde Hallerne,"A_Battal_Kücükavci,_Hundige","Battal Kücükavci, Hundige",Socialdemokratiet,6
+Greve,4,Karlslunde Hallerne,"A_Andreas_Blåberg,_Hundige","Andreas Blåberg, Hundige",Socialdemokratiet,1
+Greve,4,Karlslunde Hallerne,"A_Leif_Limkilde,_Greve","Leif Limkilde, Greve",Socialdemokratiet,11
+Greve,4,Karlslunde Hallerne,"A_Freddy_Aldenborg,_Greve","Freddy Aldenborg, Greve",Socialdemokratiet,1
+Greve,4,Karlslunde Hallerne,"A_Michael_Bo_Svendsen,_Hundige","Michael Bo Svendsen, Hundige",Socialdemokratiet,2
+Greve,4,Karlslunde Hallerne,"A_Allan_Jørgensen,_Mosede","Allan Jørgensen, Mosede",Socialdemokratiet,1
+Greve,4,Karlslunde Hallerne,"A_Daisi_Liljegren_Schultz,_Greve","Daisi Liljegren Schultz, Greve",Socialdemokratiet,1
+Greve,4,Karlslunde Hallerne,"A_Claus_A._Pedersen,_Hundige","Claus A. Pedersen, Hundige",Socialdemokratiet,2
+Greve,4,Karlslunde Hallerne,B_Listestemmer,Listestemmer,Radikale Venstre,42
+Greve,4,Karlslunde Hallerne,"B_Lars_Bjarne_Nielsen,_Greve","Lars Bjarne Nielsen, Greve",Radikale Venstre,33
+Greve,4,Karlslunde Hallerne,"B_Rachid_Bouziyane,_Hundige","Rachid Bouziyane, Hundige",Radikale Venstre,6
+Greve,4,Karlslunde Hallerne,"B_Bjarke_Lindsø_Andersen,_Greve","Bjarke Lindsø Andersen, Greve",Radikale Venstre,3
+Greve,4,Karlslunde Hallerne,"B_Jens_Wrang,_Karlslunde","Jens Wrang, Karlslunde",Radikale Venstre,11
+Greve,4,Karlslunde Hallerne,"B_Jesper_Nordentoft,_Greve","Jesper Nordentoft, Greve",Radikale Venstre,5
+Greve,4,Karlslunde Hallerne,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,187
+Greve,4,Karlslunde Hallerne,C_Brigitte_Klintskov_Jerkel,Brigitte Klintskov Jerkel,Det Konservative Folkeparti,210
+Greve,4,Karlslunde Hallerne,C_Jess_Eiberg_Hansen,Jess Eiberg Hansen,Det Konservative Folkeparti,16
+Greve,4,Karlslunde Hallerne,C_Claus_Dyremose,Claus Dyremose,Det Konservative Folkeparti,40
+Greve,4,Karlslunde Hallerne,C_Kasper_Holton_Hülsen,Kasper Holton Hülsen,Det Konservative Folkeparti,21
+Greve,4,Karlslunde Hallerne,C_Thomas_Klingspor-Bentzen,Thomas Klingspor-Bentzen,Det Konservative Folkeparti,7
+Greve,4,Karlslunde Hallerne,C_Mathias_Schwartz_Kirkegaard,Mathias Schwartz Kirkegaard,Det Konservative Folkeparti,68
+Greve,4,Karlslunde Hallerne,C_Ruth_Birkelund,Ruth Birkelund,Det Konservative Folkeparti,7
+Greve,4,Karlslunde Hallerne,C_Peter_T._E._Jonasen,Peter T. E. Jonasen,Det Konservative Folkeparti,9
+Greve,4,Karlslunde Hallerne,C_Henrik_Balleby_Hansen,Henrik Balleby Hansen,Det Konservative Folkeparti,25
+Greve,4,Karlslunde Hallerne,C_Åki_Kristiansen,Åki Kristiansen,Det Konservative Folkeparti,19
+Greve,4,Karlslunde Hallerne,D_Listestemmer,Listestemmer,Nye Borgerlige,95
+Greve,4,Karlslunde Hallerne,D_Hans-Jørgen_Kirstein,Hans-Jørgen Kirstein,Nye Borgerlige,53
+Greve,4,Karlslunde Hallerne,D_Jørgen_Schwartz,Jørgen Schwartz,Nye Borgerlige,31
+Greve,4,Karlslunde Hallerne,D_Annette_Vahlgreen,Annette Vahlgreen,Nye Borgerlige,10
+Greve,4,Karlslunde Hallerne,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,78
+Greve,4,Karlslunde Hallerne,"F_Linda_Heegaard,_Greve","Linda Heegaard, Greve",SF - Socialistisk Folkeparti,73
+Greve,4,Karlslunde Hallerne,"F_Michael_Holm,_Hundige","Michael Holm, Hundige",SF - Socialistisk Folkeparti,1
+Greve,4,Karlslunde Hallerne,"F_Eva_Larsen,_Karlslunde","Eva Larsen, Karlslunde",SF - Socialistisk Folkeparti,45
+Greve,4,Karlslunde Hallerne,"F_Thomas_Klinke,_Hundige","Thomas Klinke, Hundige",SF - Socialistisk Folkeparti,0
+Greve,4,Karlslunde Hallerne,"F_Peter_Vinther,_Hundige","Peter Vinther, Hundige",SF - Socialistisk Folkeparti,3
+Greve,4,Karlslunde Hallerne,"F_Bitten_Sørensen,_Hundige","Bitten Sørensen, Hundige",SF - Socialistisk Folkeparti,0
+Greve,4,Karlslunde Hallerne,"F_Carsten_Dibbern,_Hundige","Carsten Dibbern, Hundige",SF - Socialistisk Folkeparti,0
+Greve,4,Karlslunde Hallerne,G_Listestemmer,Listestemmer,Veganerpartiet,2
+Greve,4,Karlslunde Hallerne,G_Jill_Wortziger,Jill Wortziger,Veganerpartiet,6
+Greve,4,Karlslunde Hallerne,I_Listestemmer,Listestemmer,Liberal Alliance,18
+Greve,4,Karlslunde Hallerne,I_Frederik_Damgaard,Frederik Damgaard,Liberal Alliance,42
+Greve,4,Karlslunde Hallerne,I_Susanne_Juul_Damgaard,Susanne Juul Damgaard,Liberal Alliance,2
+Greve,4,Karlslunde Hallerne,K_Listestemmer,Listestemmer,Kristendemokraterne,15
+Greve,4,Karlslunde Hallerne,K_Eva_Guldfred,Eva Guldfred,Kristendemokraterne,12
+Greve,4,Karlslunde Hallerne,K_Jens_P._Hansen,Jens P. Hansen,Kristendemokraterne,7
+Greve,4,Karlslunde Hallerne,K_Beniamin_Tecsa,Beniamin Tecsa,Kristendemokraterne,0
+Greve,4,Karlslunde Hallerne,O_Listestemmer,Listestemmer,Dansk Folkeparti,72
+Greve,4,Karlslunde Hallerne,"O_Liselott_Blixt,_Mosede-Greve","Liselott Blixt, Mosede-Greve",Dansk Folkeparti,150
+Greve,4,Karlslunde Hallerne,"O_Casper_Wayert,_Hundige","Casper Wayert, Hundige",Dansk Folkeparti,6
+Greve,4,Karlslunde Hallerne,"O_Mortan_Martinsson,_Greve","Mortan Martinsson, Greve",Dansk Folkeparti,32
+Greve,4,Karlslunde Hallerne,"O_Claus_Engskov,_Greve","Claus Engskov, Greve",Dansk Folkeparti,3
+Greve,4,Karlslunde Hallerne,"O_Peter_Adelheid_Wetke,_Tune","Peter Adelheid Wetke, Tune",Dansk Folkeparti,4
+Greve,4,Karlslunde Hallerne,"O_Jørgen_Gustavsen,_Greve_Midt","Jørgen Gustavsen, Greve Midt",Dansk Folkeparti,3
+Greve,4,Karlslunde Hallerne,"O_Helga_Gunnarsdottir,_Mosede-Greve","Helga Gunnarsdottir, Mosede-Greve",Dansk Folkeparti,3
+Greve,4,Karlslunde Hallerne,"O_Lars_Lautrup-Larsen,_Mosede","Lars Lautrup-Larsen, Mosede",Dansk Folkeparti,0
+Greve,4,Karlslunde Hallerne,"O_Marianne_Heldam,_Greve_Landsby","Marianne Heldam, Greve Landsby",Dansk Folkeparti,0
+Greve,4,Karlslunde Hallerne,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",381
+Greve,4,Karlslunde Hallerne,V_Pernille_Beckmann,Pernille Beckmann,"Venstre, Danmarks Liberale Parti",959
+Greve,4,Karlslunde Hallerne,V_Morten_Dahlin,Morten Dahlin,"Venstre, Danmarks Liberale Parti",433
+Greve,4,Karlslunde Hallerne,V_Marc_Genning,Marc Genning,"Venstre, Danmarks Liberale Parti",75
+Greve,4,Karlslunde Hallerne,V_Jesper_Fini_Kuhre,Jesper Fini Kuhre,"Venstre, Danmarks Liberale Parti",11
+Greve,4,Karlslunde Hallerne,V_Claus_Jensen,Claus Jensen,"Venstre, Danmarks Liberale Parti",67
+Greve,4,Karlslunde Hallerne,V_Anne_Marie_Lyduch,Anne Marie Lyduch,"Venstre, Danmarks Liberale Parti",57
+Greve,4,Karlslunde Hallerne,V_Claus_Hjort_Schrøder,Claus Hjort Schrøder,"Venstre, Danmarks Liberale Parti",9
+Greve,4,Karlslunde Hallerne,V_Jan_Reslow-Nielsen,Jan Reslow-Nielsen,"Venstre, Danmarks Liberale Parti",3
+Greve,4,Karlslunde Hallerne,V_Conni_Bergendorff,Conni Bergendorff,"Venstre, Danmarks Liberale Parti",36
+Greve,4,Karlslunde Hallerne,V_Therese_Ørskov_Kunoy,Therese Ørskov Kunoy,"Venstre, Danmarks Liberale Parti",12
+Greve,4,Karlslunde Hallerne,V_Søren_Andersen,Søren Andersen,"Venstre, Danmarks Liberale Parti",7
+Greve,4,Karlslunde Hallerne,V_Torben_Hoffmann,Torben Hoffmann,"Venstre, Danmarks Liberale Parti",32
+Greve,4,Karlslunde Hallerne,V_Dorthe_Bøgh_Madsen,Dorthe Bøgh Madsen,"Venstre, Danmarks Liberale Parti",26
+Greve,4,Karlslunde Hallerne,V_Manal_Abd_El-Hafiz,Manal Abd El-Hafiz,"Venstre, Danmarks Liberale Parti",17
+Greve,4,Karlslunde Hallerne,V_Dilek_Yildirim,Dilek Yildirim,"Venstre, Danmarks Liberale Parti",4
+Greve,4,Karlslunde Hallerne,V_Simon_Østergaard,Simon Østergaard,"Venstre, Danmarks Liberale Parti",16
+Greve,4,Karlslunde Hallerne,V_Lone_Mortensen,Lone Mortensen,"Venstre, Danmarks Liberale Parti",33
+Greve,4,Karlslunde Hallerne,V_Ronni_Mark_Nielsen,Ronni Mark Nielsen,"Venstre, Danmarks Liberale Parti",28
+Greve,4,Karlslunde Hallerne,V_Jette_Asdal_Nielsen,Jette Asdal Nielsen,"Venstre, Danmarks Liberale Parti",0
+Greve,4,Karlslunde Hallerne,V_Martin_Holgersen,Martin Holgersen,"Venstre, Danmarks Liberale Parti",2
+Greve,4,Karlslunde Hallerne,V_Rigge_Nørmark,Rigge Nørmark,"Venstre, Danmarks Liberale Parti",21
+Greve,4,Karlslunde Hallerne,V_Martin_Kaas_Neergaard,Martin Kaas Neergaard,"Venstre, Danmarks Liberale Parti",1
+Greve,4,Karlslunde Hallerne,V_Per_Lund_Sørensen,Per Lund Sørensen,"Venstre, Danmarks Liberale Parti",1
+Greve,4,Karlslunde Hallerne,W_Listestemmer,Listestemmer,Party Parti,4
+Greve,4,Karlslunde Hallerne,W_Christoffer_Columbus_Wadil,Christoffer Columbus Wadil,Party Parti,30
+Greve,4,Karlslunde Hallerne,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,43
+Greve,4,Karlslunde Hallerne,"Ø_Mehmet_Zeki_Dogru,_Hundige","Mehmet Zeki Dogru, Hundige",Enhedslisten - De Rød-Grønne,20
+Greve,4,Karlslunde Hallerne,"Ø_Susanne_Pahlmann,_Karlslunde","Susanne Pahlmann, Karlslunde",Enhedslisten - De Rød-Grønne,33
+Greve,4,Karlslunde Hallerne,"Ø_Qendrim_Hasani,_Hundige","Qendrim Hasani, Hundige",Enhedslisten - De Rød-Grønne,5
+Greve,4,Karlslunde Hallerne,"Ø_Cecilie_Langvad_Oddershede,_Hundig","Cecilie Langvad Oddershede, Hundig",Enhedslisten - De Rød-Grønne,8
+Greve,4,Karlslunde Hallerne,"Ø_Hartmut_Pahlmann,_Karlslunde","Hartmut Pahlmann, Karlslunde",Enhedslisten - De Rød-Grønne,1
+Greve,4,Karlslunde Hallerne,"Ø_Leni_Dam,_Karlslunde","Leni Dam, Karlslunde",Enhedslisten - De Rød-Grønne,5
+Greve,4,Karlslunde Hallerne,"Ø_Saad_Ibrahim,_Greve","Saad Ibrahim, Greve",Enhedslisten - De Rød-Grønne,1
+Greve,4,Karlslunde Hallerne,"Ø_Annette_Nielsen,_Greve","Annette Nielsen, Greve",Enhedslisten - De Rød-Grønne,6
+Greve,5,Tune Hallerne,A_Listestemmer,Listestemmer,Socialdemokratiet,291
+Greve,5,Tune Hallerne,"A_John_T._Olsen,_Hundige","John T. Olsen, Hundige",Socialdemokratiet,73
+Greve,5,Tune Hallerne,"A_Bjarke_Abel,_Greve","Bjarke Abel, Greve",Socialdemokratiet,117
+Greve,5,Tune Hallerne,"A_Heidi_Serny_Jacobsen,_Hundige","Heidi Serny Jacobsen, Hundige",Socialdemokratiet,16
+Greve,5,Tune Hallerne,"A_Maria_Witthøft,_Hundige","Maria Witthøft, Hundige",Socialdemokratiet,48
+Greve,5,Tune Hallerne,"A_Charlotte_Levin,_Tune","Charlotte Levin, Tune",Socialdemokratiet,416
+Greve,5,Tune Hallerne,"A_Tina_Rottbøll,_Hundige","Tina Rottbøll, Hundige",Socialdemokratiet,21
+Greve,5,Tune Hallerne,"A_Frank_Christiansen,_Mosede","Frank Christiansen, Mosede",Socialdemokratiet,4
+Greve,5,Tune Hallerne,"A_Kenneth_Jerkel,_Hundige","Kenneth Jerkel, Hundige",Socialdemokratiet,16
+Greve,5,Tune Hallerne,"A_Jette_Andersen,_Hundige","Jette Andersen, Hundige",Socialdemokratiet,1
+Greve,5,Tune Hallerne,"A_Bjarne_Groth_Kjær,_Karlslunde","Bjarne Groth Kjær, Karlslunde",Socialdemokratiet,7
+Greve,5,Tune Hallerne,"A_René_Bak_Høg,_Greve","René Bak Høg, Greve",Socialdemokratiet,4
+Greve,5,Tune Hallerne,"A_Steen_Larsen,_Karlslunde","Steen Larsen, Karlslunde",Socialdemokratiet,6
+Greve,5,Tune Hallerne,"A_Dorit_Schultz,_Greve","Dorit Schultz, Greve",Socialdemokratiet,9
+Greve,5,Tune Hallerne,"A_Battal_Kücükavci,_Hundige","Battal Kücükavci, Hundige",Socialdemokratiet,0
+Greve,5,Tune Hallerne,"A_Andreas_Blåberg,_Hundige","Andreas Blåberg, Hundige",Socialdemokratiet,0
+Greve,5,Tune Hallerne,"A_Leif_Limkilde,_Greve","Leif Limkilde, Greve",Socialdemokratiet,1
+Greve,5,Tune Hallerne,"A_Freddy_Aldenborg,_Greve","Freddy Aldenborg, Greve",Socialdemokratiet,1
+Greve,5,Tune Hallerne,"A_Michael_Bo_Svendsen,_Hundige","Michael Bo Svendsen, Hundige",Socialdemokratiet,0
+Greve,5,Tune Hallerne,"A_Allan_Jørgensen,_Mosede","Allan Jørgensen, Mosede",Socialdemokratiet,3
+Greve,5,Tune Hallerne,"A_Daisi_Liljegren_Schultz,_Greve","Daisi Liljegren Schultz, Greve",Socialdemokratiet,2
+Greve,5,Tune Hallerne,"A_Claus_A._Pedersen,_Hundige","Claus A. Pedersen, Hundige",Socialdemokratiet,0
+Greve,5,Tune Hallerne,B_Listestemmer,Listestemmer,Radikale Venstre,18
+Greve,5,Tune Hallerne,"B_Lars_Bjarne_Nielsen,_Greve","Lars Bjarne Nielsen, Greve",Radikale Venstre,16
+Greve,5,Tune Hallerne,"B_Rachid_Bouziyane,_Hundige","Rachid Bouziyane, Hundige",Radikale Venstre,17
+Greve,5,Tune Hallerne,"B_Bjarke_Lindsø_Andersen,_Greve","Bjarke Lindsø Andersen, Greve",Radikale Venstre,1
+Greve,5,Tune Hallerne,"B_Jens_Wrang,_Karlslunde","Jens Wrang, Karlslunde",Radikale Venstre,1
+Greve,5,Tune Hallerne,"B_Jesper_Nordentoft,_Greve","Jesper Nordentoft, Greve",Radikale Venstre,0
+Greve,5,Tune Hallerne,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,98
+Greve,5,Tune Hallerne,C_Brigitte_Klintskov_Jerkel,Brigitte Klintskov Jerkel,Det Konservative Folkeparti,97
+Greve,5,Tune Hallerne,C_Jess_Eiberg_Hansen,Jess Eiberg Hansen,Det Konservative Folkeparti,5
+Greve,5,Tune Hallerne,C_Claus_Dyremose,Claus Dyremose,Det Konservative Folkeparti,21
+Greve,5,Tune Hallerne,C_Kasper_Holton_Hülsen,Kasper Holton Hülsen,Det Konservative Folkeparti,9
+Greve,5,Tune Hallerne,C_Thomas_Klingspor-Bentzen,Thomas Klingspor-Bentzen,Det Konservative Folkeparti,3
+Greve,5,Tune Hallerne,C_Mathias_Schwartz_Kirkegaard,Mathias Schwartz Kirkegaard,Det Konservative Folkeparti,10
+Greve,5,Tune Hallerne,C_Ruth_Birkelund,Ruth Birkelund,Det Konservative Folkeparti,2
+Greve,5,Tune Hallerne,C_Peter_T._E._Jonasen,Peter T. E. Jonasen,Det Konservative Folkeparti,9
+Greve,5,Tune Hallerne,C_Henrik_Balleby_Hansen,Henrik Balleby Hansen,Det Konservative Folkeparti,47
+Greve,5,Tune Hallerne,C_Åki_Kristiansen,Åki Kristiansen,Det Konservative Folkeparti,2
+Greve,5,Tune Hallerne,D_Listestemmer,Listestemmer,Nye Borgerlige,72
+Greve,5,Tune Hallerne,D_Hans-Jørgen_Kirstein,Hans-Jørgen Kirstein,Nye Borgerlige,44
+Greve,5,Tune Hallerne,D_Jørgen_Schwartz,Jørgen Schwartz,Nye Borgerlige,20
+Greve,5,Tune Hallerne,D_Annette_Vahlgreen,Annette Vahlgreen,Nye Borgerlige,10
+Greve,5,Tune Hallerne,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,54
+Greve,5,Tune Hallerne,"F_Linda_Heegaard,_Greve","Linda Heegaard, Greve",SF - Socialistisk Folkeparti,75
+Greve,5,Tune Hallerne,"F_Michael_Holm,_Hundige","Michael Holm, Hundige",SF - Socialistisk Folkeparti,0
+Greve,5,Tune Hallerne,"F_Eva_Larsen,_Karlslunde","Eva Larsen, Karlslunde",SF - Socialistisk Folkeparti,11
+Greve,5,Tune Hallerne,"F_Thomas_Klinke,_Hundige","Thomas Klinke, Hundige",SF - Socialistisk Folkeparti,0
+Greve,5,Tune Hallerne,"F_Peter_Vinther,_Hundige","Peter Vinther, Hundige",SF - Socialistisk Folkeparti,5
+Greve,5,Tune Hallerne,"F_Bitten_Sørensen,_Hundige","Bitten Sørensen, Hundige",SF - Socialistisk Folkeparti,0
+Greve,5,Tune Hallerne,"F_Carsten_Dibbern,_Hundige","Carsten Dibbern, Hundige",SF - Socialistisk Folkeparti,1
+Greve,5,Tune Hallerne,G_Listestemmer,Listestemmer,Veganerpartiet,1
+Greve,5,Tune Hallerne,G_Jill_Wortziger,Jill Wortziger,Veganerpartiet,5
+Greve,5,Tune Hallerne,I_Listestemmer,Listestemmer,Liberal Alliance,10
+Greve,5,Tune Hallerne,I_Frederik_Damgaard,Frederik Damgaard,Liberal Alliance,10
+Greve,5,Tune Hallerne,I_Susanne_Juul_Damgaard,Susanne Juul Damgaard,Liberal Alliance,0
+Greve,5,Tune Hallerne,K_Listestemmer,Listestemmer,Kristendemokraterne,8
+Greve,5,Tune Hallerne,K_Eva_Guldfred,Eva Guldfred,Kristendemokraterne,3
+Greve,5,Tune Hallerne,K_Jens_P._Hansen,Jens P. Hansen,Kristendemokraterne,1
+Greve,5,Tune Hallerne,K_Beniamin_Tecsa,Beniamin Tecsa,Kristendemokraterne,0
+Greve,5,Tune Hallerne,O_Listestemmer,Listestemmer,Dansk Folkeparti,59
+Greve,5,Tune Hallerne,"O_Liselott_Blixt,_Mosede-Greve","Liselott Blixt, Mosede-Greve",Dansk Folkeparti,124
+Greve,5,Tune Hallerne,"O_Casper_Wayert,_Hundige","Casper Wayert, Hundige",Dansk Folkeparti,4
+Greve,5,Tune Hallerne,"O_Mortan_Martinsson,_Greve","Mortan Martinsson, Greve",Dansk Folkeparti,13
+Greve,5,Tune Hallerne,"O_Claus_Engskov,_Greve","Claus Engskov, Greve",Dansk Folkeparti,4
+Greve,5,Tune Hallerne,"O_Peter_Adelheid_Wetke,_Tune","Peter Adelheid Wetke, Tune",Dansk Folkeparti,29
+Greve,5,Tune Hallerne,"O_Jørgen_Gustavsen,_Greve_Midt","Jørgen Gustavsen, Greve Midt",Dansk Folkeparti,7
+Greve,5,Tune Hallerne,"O_Helga_Gunnarsdottir,_Mosede-Greve","Helga Gunnarsdottir, Mosede-Greve",Dansk Folkeparti,0
+Greve,5,Tune Hallerne,"O_Lars_Lautrup-Larsen,_Mosede","Lars Lautrup-Larsen, Mosede",Dansk Folkeparti,0
+Greve,5,Tune Hallerne,"O_Marianne_Heldam,_Greve_Landsby","Marianne Heldam, Greve Landsby",Dansk Folkeparti,2
+Greve,5,Tune Hallerne,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",177
+Greve,5,Tune Hallerne,V_Pernille_Beckmann,Pernille Beckmann,"Venstre, Danmarks Liberale Parti",396
+Greve,5,Tune Hallerne,V_Morten_Dahlin,Morten Dahlin,"Venstre, Danmarks Liberale Parti",194
+Greve,5,Tune Hallerne,V_Marc_Genning,Marc Genning,"Venstre, Danmarks Liberale Parti",24
+Greve,5,Tune Hallerne,V_Jesper_Fini_Kuhre,Jesper Fini Kuhre,"Venstre, Danmarks Liberale Parti",4
+Greve,5,Tune Hallerne,V_Claus_Jensen,Claus Jensen,"Venstre, Danmarks Liberale Parti",12
+Greve,5,Tune Hallerne,V_Anne_Marie_Lyduch,Anne Marie Lyduch,"Venstre, Danmarks Liberale Parti",7
+Greve,5,Tune Hallerne,V_Claus_Hjort_Schrøder,Claus Hjort Schrøder,"Venstre, Danmarks Liberale Parti",3
+Greve,5,Tune Hallerne,V_Jan_Reslow-Nielsen,Jan Reslow-Nielsen,"Venstre, Danmarks Liberale Parti",0
+Greve,5,Tune Hallerne,V_Conni_Bergendorff,Conni Bergendorff,"Venstre, Danmarks Liberale Parti",12
+Greve,5,Tune Hallerne,V_Therese_Ørskov_Kunoy,Therese Ørskov Kunoy,"Venstre, Danmarks Liberale Parti",5
+Greve,5,Tune Hallerne,V_Søren_Andersen,Søren Andersen,"Venstre, Danmarks Liberale Parti",1
+Greve,5,Tune Hallerne,V_Torben_Hoffmann,Torben Hoffmann,"Venstre, Danmarks Liberale Parti",9
+Greve,5,Tune Hallerne,V_Dorthe_Bøgh_Madsen,Dorthe Bøgh Madsen,"Venstre, Danmarks Liberale Parti",13
+Greve,5,Tune Hallerne,V_Manal_Abd_El-Hafiz,Manal Abd El-Hafiz,"Venstre, Danmarks Liberale Parti",1
+Greve,5,Tune Hallerne,V_Dilek_Yildirim,Dilek Yildirim,"Venstre, Danmarks Liberale Parti",2
+Greve,5,Tune Hallerne,V_Simon_Østergaard,Simon Østergaard,"Venstre, Danmarks Liberale Parti",11
+Greve,5,Tune Hallerne,V_Lone_Mortensen,Lone Mortensen,"Venstre, Danmarks Liberale Parti",218
+Greve,5,Tune Hallerne,V_Ronni_Mark_Nielsen,Ronni Mark Nielsen,"Venstre, Danmarks Liberale Parti",12
+Greve,5,Tune Hallerne,V_Jette_Asdal_Nielsen,Jette Asdal Nielsen,"Venstre, Danmarks Liberale Parti",1
+Greve,5,Tune Hallerne,V_Martin_Holgersen,Martin Holgersen,"Venstre, Danmarks Liberale Parti",0
+Greve,5,Tune Hallerne,V_Rigge_Nørmark,Rigge Nørmark,"Venstre, Danmarks Liberale Parti",1
+Greve,5,Tune Hallerne,V_Martin_Kaas_Neergaard,Martin Kaas Neergaard,"Venstre, Danmarks Liberale Parti",0
+Greve,5,Tune Hallerne,V_Per_Lund_Sørensen,Per Lund Sørensen,"Venstre, Danmarks Liberale Parti",392
+Greve,5,Tune Hallerne,W_Listestemmer,Listestemmer,Party Parti,9
+Greve,5,Tune Hallerne,W_Christoffer_Columbus_Wadil,Christoffer Columbus Wadil,Party Parti,40
+Greve,5,Tune Hallerne,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,32
+Greve,5,Tune Hallerne,"Ø_Mehmet_Zeki_Dogru,_Hundige","Mehmet Zeki Dogru, Hundige",Enhedslisten - De Rød-Grønne,21
+Greve,5,Tune Hallerne,"Ø_Susanne_Pahlmann,_Karlslunde","Susanne Pahlmann, Karlslunde",Enhedslisten - De Rød-Grønne,5
+Greve,5,Tune Hallerne,"Ø_Qendrim_Hasani,_Hundige","Qendrim Hasani, Hundige",Enhedslisten - De Rød-Grønne,1
+Greve,5,Tune Hallerne,"Ø_Cecilie_Langvad_Oddershede,_Hundig","Cecilie Langvad Oddershede, Hundig",Enhedslisten - De Rød-Grønne,9
+Greve,5,Tune Hallerne,"Ø_Hartmut_Pahlmann,_Karlslunde","Hartmut Pahlmann, Karlslunde",Enhedslisten - De Rød-Grønne,0
+Greve,5,Tune Hallerne,"Ø_Leni_Dam,_Karlslunde","Leni Dam, Karlslunde",Enhedslisten - De Rød-Grønne,1
+Greve,5,Tune Hallerne,"Ø_Saad_Ibrahim,_Greve","Saad Ibrahim, Greve",Enhedslisten - De Rød-Grønne,1
+Greve,5,Tune Hallerne,"Ø_Annette_Nielsen,_Greve","Annette Nielsen, Greve",Enhedslisten - De Rød-Grønne,3

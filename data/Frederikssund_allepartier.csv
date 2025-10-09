@@ -1,0 +1,577 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Frederikssund,1,Frederikssund Midt,A_Listestemmer,Listestemmer,Socialdemokratiet,332
+Frederikssund,1,Frederikssund Midt,A_Tina_Tving_Stauning,Tina Tving Stauning,Socialdemokratiet,346
+Frederikssund,1,Frederikssund Midt,A_Jesper_Wittenburg,Jesper Wittenburg,Socialdemokratiet,181
+Frederikssund,1,Frederikssund Midt,A_Poul_Erik_Skov_Christensen,Poul Erik Skov Christensen,Socialdemokratiet,76
+Frederikssund,1,Frederikssund Midt,A_Susanne_Bettina_Jørgensen,Susanne Bettina Jørgensen,Socialdemokratiet,75
+Frederikssund,1,Frederikssund Midt,A_Anne-Lise_Kuhre,Anne-Lise Kuhre,Socialdemokratiet,17
+Frederikssund,1,Frederikssund Midt,A_Lars_Jepsen,Lars Jepsen,Socialdemokratiet,90
+Frederikssund,1,Frederikssund Midt,A_Kenneth_Jensen,Kenneth Jensen,Socialdemokratiet,71
+Frederikssund,1,Frederikssund Midt,A_Ozgür_Bardakci,Ozgür Bardakci,Socialdemokratiet,109
+Frederikssund,1,Frederikssund Midt,A_Carsten_Cederholm,Carsten Cederholm,Socialdemokratiet,27
+Frederikssund,1,Frederikssund Midt,A_Jesper_Henriksen,Jesper Henriksen,Socialdemokratiet,18
+Frederikssund,1,Frederikssund Midt,A_Anne-Mette_Olsen,Anne-Mette Olsen,Socialdemokratiet,9
+Frederikssund,1,Frederikssund Midt,A_Kim_Egelund,Kim Egelund,Socialdemokratiet,8
+Frederikssund,1,Frederikssund Midt,A_Lars_Eitmann,Lars Eitmann,Socialdemokratiet,16
+Frederikssund,1,Frederikssund Midt,A_Martin_Kirchgässner,Martin Kirchgässner,Socialdemokratiet,1
+Frederikssund,1,Frederikssund Midt,A_Jimmy_Sarvad,Jimmy Sarvad,Socialdemokratiet,3
+Frederikssund,1,Frederikssund Midt,A_Julia_Revling,Julia Revling,Socialdemokratiet,10
+Frederikssund,1,Frederikssund Midt,A_Sanne_Johansen,Sanne Johansen,Socialdemokratiet,28
+Frederikssund,1,Frederikssund Midt,B_Listestemmer,Listestemmer,Radikale Venstre,58
+Frederikssund,1,Frederikssund Midt,"B_Søren_Weimann,_Hornsherred","Søren Weimann, Hornsherred",Radikale Venstre,45
+Frederikssund,1,Frederikssund Midt,"B_Asbjørn_Laurberg,_Frederikssund","Asbjørn Laurberg, Frederikssund",Radikale Venstre,9
+Frederikssund,1,Frederikssund Midt,"B_Sükran_Gezen,_Frederikssund","Sükran Gezen, Frederikssund",Radikale Venstre,5
+Frederikssund,1,Frederikssund Midt,"B_Kjartan_Lind,_Frederikssund","Kjartan Lind, Frederikssund",Radikale Venstre,10
+Frederikssund,1,Frederikssund Midt,"B_Mark_Barnkob,_Frederikssund","Mark Barnkob, Frederikssund",Radikale Venstre,5
+Frederikssund,1,Frederikssund Midt,"B_John_Witt,_Græse_Bakkeby","John Witt, Græse Bakkeby",Radikale Venstre,2
+Frederikssund,1,Frederikssund Midt,"B_Kim_Bromberg,_Jægerspris","Kim Bromberg, Jægerspris",Radikale Venstre,8
+Frederikssund,1,Frederikssund Midt,"B_Carsten_Nielsen,_Frederikssund","Carsten Nielsen, Frederikssund",Radikale Venstre,8
+Frederikssund,1,Frederikssund Midt,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,103
+Frederikssund,1,Frederikssund Midt,"C_Niels_Martin_Viuff,_Frederikssund","Niels Martin Viuff, Frederikssund",Det Konservative Folkeparti,127
+Frederikssund,1,Frederikssund Midt,"C_Therese_Hejnfelt,_Skibby","Therese Hejnfelt, Skibby",Det Konservative Folkeparti,73
+Frederikssund,1,Frederikssund Midt,"C_Nicolai_Pandorff,_Onsved","Nicolai Pandorff, Onsved",Det Konservative Folkeparti,6
+Frederikssund,1,Frederikssund Midt,"C_Henrik_Godiksen,_Slangerup","Henrik Godiksen, Slangerup",Det Konservative Folkeparti,24
+Frederikssund,1,Frederikssund Midt,"C_Kenneth_Johansen,_St._Rørbæk","Kenneth Johansen, St. Rørbæk",Det Konservative Folkeparti,7
+Frederikssund,1,Frederikssund Midt,"C_Jonas_Brandt,_Kyndby_Huse","Jonas Brandt, Kyndby Huse",Det Konservative Folkeparti,23
+Frederikssund,1,Frederikssund Midt,"C_Henrik_Biehl,_Skuldelev","Henrik Biehl, Skuldelev",Det Konservative Folkeparti,3
+Frederikssund,1,Frederikssund Midt,D_Listestemmer,Listestemmer,Nye Borgerlige,90
+Frederikssund,1,Frederikssund Midt,D_Maibritt_Møller_Nielsen,Maibritt Møller Nielsen,Nye Borgerlige,52
+Frederikssund,1,Frederikssund Midt,D_Karl_Andersen,Karl Andersen,Nye Borgerlige,16
+Frederikssund,1,Frederikssund Midt,D_Lars_Goth,Lars Goth,Nye Borgerlige,2
+Frederikssund,1,Frederikssund Midt,D_Ole_Engell_Clausen,Ole Engell Clausen,Nye Borgerlige,6
+Frederikssund,1,Frederikssund Midt,D_Tobias_Daniel_Isaksson,Tobias Daniel Isaksson,Nye Borgerlige,23
+Frederikssund,1,Frederikssund Midt,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,89
+Frederikssund,1,Frederikssund Midt,F_Anna_Poulsen,Anna Poulsen,SF - Socialistisk Folkeparti,145
+Frederikssund,1,Frederikssund Midt,F_Ole_Frimann_Hansen,Ole Frimann Hansen,SF - Socialistisk Folkeparti,29
+Frederikssund,1,Frederikssund Midt,F_Lone_Terp,Lone Terp,SF - Socialistisk Folkeparti,39
+Frederikssund,1,Frederikssund Midt,F_Anders_Madsen,Anders Madsen,SF - Socialistisk Folkeparti,31
+Frederikssund,1,Frederikssund Midt,F_Marianne_Stannum,Marianne Stannum,SF - Socialistisk Folkeparti,19
+Frederikssund,1,Frederikssund Midt,F_Michael_Grønbech,Michael Grønbech,SF - Socialistisk Folkeparti,12
+Frederikssund,1,Frederikssund Midt,H_Listestemmer,Listestemmer,Forenet Frederikssund,5
+Frederikssund,1,Frederikssund Midt,H_Niki_Hou_Bagge,Niki Hou Bagge,Forenet Frederikssund,14
+Frederikssund,1,Frederikssund Midt,N_Listestemmer,Listestemmer,Fjordlandslisten,78
+Frederikssund,1,Frederikssund Midt,N_Kirsten_Weiland,Kirsten Weiland,Fjordlandslisten,112
+Frederikssund,1,Frederikssund Midt,N_Ole_Peltola,Ole Peltola,Fjordlandslisten,7
+Frederikssund,1,Frederikssund Midt,N_Jørgen_Olsen,Jørgen Olsen,Fjordlandslisten,8
+Frederikssund,1,Frederikssund Midt,N_Lennie_Hansen,Lennie Hansen,Fjordlandslisten,12
+Frederikssund,1,Frederikssund Midt,N_Morten_Villadsen,Morten Villadsen,Fjordlandslisten,24
+Frederikssund,1,Frederikssund Midt,N_Camilla_Cordius,Camilla Cordius,Fjordlandslisten,4
+Frederikssund,1,Frederikssund Midt,N_Jan_Lykke,Jan Lykke,Fjordlandslisten,2
+Frederikssund,1,Frederikssund Midt,N_John_Ziegler,John Ziegler,Fjordlandslisten,32
+Frederikssund,1,Frederikssund Midt,N_Susanne_Bartholin,Susanne Bartholin,Fjordlandslisten,5
+Frederikssund,1,Frederikssund Midt,O_Listestemmer,Listestemmer,Dansk Folkeparti,86
+Frederikssund,1,Frederikssund Midt,"O_Gert_Løfgren,_Slangerup","Gert Løfgren, Slangerup",Dansk Folkeparti,9
+Frederikssund,1,Frederikssund Midt,"O_Inge_Messerschmidt,_Frederikssund","Inge Messerschmidt, Frederikssund",Dansk Folkeparti,89
+Frederikssund,1,Frederikssund Midt,"O_Tobias_Weische,_Frederikssund","Tobias Weische, Frederikssund",Dansk Folkeparti,38
+Frederikssund,1,Frederikssund Midt,"O_Heidi_Jørgensen,_Jægerspris","Heidi Jørgensen, Jægerspris",Dansk Folkeparti,14
+Frederikssund,1,Frederikssund Midt,"O_Jess_Lykke_Christensen,_Skibby","Jess Lykke Christensen, Skibby",Dansk Folkeparti,2
+Frederikssund,1,Frederikssund Midt,"O_Andreas_Brøsen,_Slangerup","Andreas Brøsen, Slangerup",Dansk Folkeparti,1
+Frederikssund,1,Frederikssund Midt,"O_Berit_Stehr,_Jægerspris","Berit Stehr, Jægerspris",Dansk Folkeparti,1
+Frederikssund,1,Frederikssund Midt,"O_Trúgvi_Gudmundarson,_Frederikssund","Trúgvi Gudmundarson, Frederikssund",Dansk Folkeparti,6
+Frederikssund,1,Frederikssund Midt,"O_Arne_Dølling,_Frederikssund","Arne Dølling, Frederikssund",Dansk Folkeparti,0
+Frederikssund,1,Frederikssund Midt,"O_Jannie_Bøgh,_Skibby","Jannie Bøgh, Skibby",Dansk Folkeparti,18
+Frederikssund,1,Frederikssund Midt,P_Listestemmer,Listestemmer,Anja Bisp Pedersen,12
+Frederikssund,1,Frederikssund Midt,P_Anja_Bisp_Pedersen,Anja Bisp Pedersen,Anja Bisp Pedersen,9
+Frederikssund,1,Frederikssund Midt,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",163
+Frederikssund,1,Frederikssund Midt,V_John_Schmidt_Andersen,John Schmidt Andersen,"Venstre, Danmarks Liberale Parti",249
+Frederikssund,1,Frederikssund Midt,V_Hans_Andersen,Hans Andersen,"Venstre, Danmarks Liberale Parti",172
+Frederikssund,1,Frederikssund Midt,V_Anne_Sofie_Uhrskov,Anne Sofie Uhrskov,"Venstre, Danmarks Liberale Parti",56
+Frederikssund,1,Frederikssund Midt,V_Jørgen_Bech,Jørgen Bech,"Venstre, Danmarks Liberale Parti",17
+Frederikssund,1,Frederikssund Midt,V_Michael_Tøgersen,Michael Tøgersen,"Venstre, Danmarks Liberale Parti",159
+Frederikssund,1,Frederikssund Midt,V_Jens_Jørgensen,Jens Jørgensen,"Venstre, Danmarks Liberale Parti",7
+Frederikssund,1,Frederikssund Midt,V_Morten_Skovgaard,Morten Skovgaard,"Venstre, Danmarks Liberale Parti",55
+Frederikssund,1,Frederikssund Midt,V_Charlotte_Drue_Aagaard,Charlotte Drue Aagaard,"Venstre, Danmarks Liberale Parti",56
+Frederikssund,1,Frederikssund Midt,V_Lisbet_Jensen,Lisbet Jensen,"Venstre, Danmarks Liberale Parti",29
+Frederikssund,1,Frederikssund Midt,V_Tom_Lysgaard,Tom Lysgaard,"Venstre, Danmarks Liberale Parti",2
+Frederikssund,1,Frederikssund Midt,V_Neslihan_Güzel,Neslihan Güzel,"Venstre, Danmarks Liberale Parti",45
+Frederikssund,1,Frederikssund Midt,V_Signe_Sysse_Grünfeld-Bierre,Signe Sysse Grünfeld-Bierre,"Venstre, Danmarks Liberale Parti",25
+Frederikssund,1,Frederikssund Midt,V_Mikkel_Johansen,Mikkel Johansen,"Venstre, Danmarks Liberale Parti",5
+Frederikssund,1,Frederikssund Midt,V_Lisbeth_Dupont-Rosenvold,Lisbeth Dupont-Rosenvold,"Venstre, Danmarks Liberale Parti",2
+Frederikssund,1,Frederikssund Midt,V_Martin_Elmegaard,Martin Elmegaard,"Venstre, Danmarks Liberale Parti",0
+Frederikssund,1,Frederikssund Midt,V_Søren_Find_Andersen,Søren Find Andersen,"Venstre, Danmarks Liberale Parti",0
+Frederikssund,1,Frederikssund Midt,V_Christoffer_Christensen,Christoffer Christensen,"Venstre, Danmarks Liberale Parti",6
+Frederikssund,1,Frederikssund Midt,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,85
+Frederikssund,1,Frederikssund Midt,"Ø_Rasmus_Petersen,_Jægerspris","Rasmus Petersen, Jægerspris",Enhedslisten - De Rød-Grønne,24
+Frederikssund,1,Frederikssund Midt,"Ø_Ulrik_Goos_Iversen,_Jægerspris","Ulrik Goos Iversen, Jægerspris",Enhedslisten - De Rød-Grønne,31
+Frederikssund,1,Frederikssund Midt,"Ø_Erik_Andersen,_Skibby","Erik Andersen, Skibby",Enhedslisten - De Rød-Grønne,6
+Frederikssund,1,Frederikssund Midt,"Ø_Kirsten_Folke,_Jægerspris","Kirsten Folke, Jægerspris",Enhedslisten - De Rød-Grønne,34
+Frederikssund,2,Frederikssund Nord,A_Listestemmer,Listestemmer,Socialdemokratiet,232
+Frederikssund,2,Frederikssund Nord,A_Tina_Tving_Stauning,Tina Tving Stauning,Socialdemokratiet,254
+Frederikssund,2,Frederikssund Nord,A_Jesper_Wittenburg,Jesper Wittenburg,Socialdemokratiet,111
+Frederikssund,2,Frederikssund Nord,A_Poul_Erik_Skov_Christensen,Poul Erik Skov Christensen,Socialdemokratiet,48
+Frederikssund,2,Frederikssund Nord,A_Susanne_Bettina_Jørgensen,Susanne Bettina Jørgensen,Socialdemokratiet,54
+Frederikssund,2,Frederikssund Nord,A_Anne-Lise_Kuhre,Anne-Lise Kuhre,Socialdemokratiet,8
+Frederikssund,2,Frederikssund Nord,A_Lars_Jepsen,Lars Jepsen,Socialdemokratiet,112
+Frederikssund,2,Frederikssund Nord,A_Kenneth_Jensen,Kenneth Jensen,Socialdemokratiet,41
+Frederikssund,2,Frederikssund Nord,A_Ozgür_Bardakci,Ozgür Bardakci,Socialdemokratiet,91
+Frederikssund,2,Frederikssund Nord,A_Carsten_Cederholm,Carsten Cederholm,Socialdemokratiet,17
+Frederikssund,2,Frederikssund Nord,A_Jesper_Henriksen,Jesper Henriksen,Socialdemokratiet,3
+Frederikssund,2,Frederikssund Nord,A_Anne-Mette_Olsen,Anne-Mette Olsen,Socialdemokratiet,6
+Frederikssund,2,Frederikssund Nord,A_Kim_Egelund,Kim Egelund,Socialdemokratiet,6
+Frederikssund,2,Frederikssund Nord,A_Lars_Eitmann,Lars Eitmann,Socialdemokratiet,11
+Frederikssund,2,Frederikssund Nord,A_Martin_Kirchgässner,Martin Kirchgässner,Socialdemokratiet,2
+Frederikssund,2,Frederikssund Nord,A_Jimmy_Sarvad,Jimmy Sarvad,Socialdemokratiet,5
+Frederikssund,2,Frederikssund Nord,A_Julia_Revling,Julia Revling,Socialdemokratiet,11
+Frederikssund,2,Frederikssund Nord,A_Sanne_Johansen,Sanne Johansen,Socialdemokratiet,26
+Frederikssund,2,Frederikssund Nord,B_Listestemmer,Listestemmer,Radikale Venstre,45
+Frederikssund,2,Frederikssund Nord,"B_Søren_Weimann,_Hornsherred","Søren Weimann, Hornsherred",Radikale Venstre,51
+Frederikssund,2,Frederikssund Nord,"B_Asbjørn_Laurberg,_Frederikssund","Asbjørn Laurberg, Frederikssund",Radikale Venstre,6
+Frederikssund,2,Frederikssund Nord,"B_Sükran_Gezen,_Frederikssund","Sükran Gezen, Frederikssund",Radikale Venstre,12
+Frederikssund,2,Frederikssund Nord,"B_Kjartan_Lind,_Frederikssund","Kjartan Lind, Frederikssund",Radikale Venstre,11
+Frederikssund,2,Frederikssund Nord,"B_Mark_Barnkob,_Frederikssund","Mark Barnkob, Frederikssund",Radikale Venstre,3
+Frederikssund,2,Frederikssund Nord,"B_John_Witt,_Græse_Bakkeby","John Witt, Græse Bakkeby",Radikale Venstre,11
+Frederikssund,2,Frederikssund Nord,"B_Kim_Bromberg,_Jægerspris","Kim Bromberg, Jægerspris",Radikale Venstre,8
+Frederikssund,2,Frederikssund Nord,"B_Carsten_Nielsen,_Frederikssund","Carsten Nielsen, Frederikssund",Radikale Venstre,0
+Frederikssund,2,Frederikssund Nord,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,94
+Frederikssund,2,Frederikssund Nord,"C_Niels_Martin_Viuff,_Frederikssund","Niels Martin Viuff, Frederikssund",Det Konservative Folkeparti,115
+Frederikssund,2,Frederikssund Nord,"C_Therese_Hejnfelt,_Skibby","Therese Hejnfelt, Skibby",Det Konservative Folkeparti,60
+Frederikssund,2,Frederikssund Nord,"C_Nicolai_Pandorff,_Onsved","Nicolai Pandorff, Onsved",Det Konservative Folkeparti,9
+Frederikssund,2,Frederikssund Nord,"C_Henrik_Godiksen,_Slangerup","Henrik Godiksen, Slangerup",Det Konservative Folkeparti,26
+Frederikssund,2,Frederikssund Nord,"C_Kenneth_Johansen,_St._Rørbæk","Kenneth Johansen, St. Rørbæk",Det Konservative Folkeparti,5
+Frederikssund,2,Frederikssund Nord,"C_Jonas_Brandt,_Kyndby_Huse","Jonas Brandt, Kyndby Huse",Det Konservative Folkeparti,18
+Frederikssund,2,Frederikssund Nord,"C_Henrik_Biehl,_Skuldelev","Henrik Biehl, Skuldelev",Det Konservative Folkeparti,8
+Frederikssund,2,Frederikssund Nord,D_Listestemmer,Listestemmer,Nye Borgerlige,69
+Frederikssund,2,Frederikssund Nord,D_Maibritt_Møller_Nielsen,Maibritt Møller Nielsen,Nye Borgerlige,53
+Frederikssund,2,Frederikssund Nord,D_Karl_Andersen,Karl Andersen,Nye Borgerlige,6
+Frederikssund,2,Frederikssund Nord,D_Lars_Goth,Lars Goth,Nye Borgerlige,2
+Frederikssund,2,Frederikssund Nord,D_Ole_Engell_Clausen,Ole Engell Clausen,Nye Borgerlige,4
+Frederikssund,2,Frederikssund Nord,D_Tobias_Daniel_Isaksson,Tobias Daniel Isaksson,Nye Borgerlige,38
+Frederikssund,2,Frederikssund Nord,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,86
+Frederikssund,2,Frederikssund Nord,F_Anna_Poulsen,Anna Poulsen,SF - Socialistisk Folkeparti,112
+Frederikssund,2,Frederikssund Nord,F_Ole_Frimann_Hansen,Ole Frimann Hansen,SF - Socialistisk Folkeparti,29
+Frederikssund,2,Frederikssund Nord,F_Lone_Terp,Lone Terp,SF - Socialistisk Folkeparti,22
+Frederikssund,2,Frederikssund Nord,F_Anders_Madsen,Anders Madsen,SF - Socialistisk Folkeparti,7
+Frederikssund,2,Frederikssund Nord,F_Marianne_Stannum,Marianne Stannum,SF - Socialistisk Folkeparti,19
+Frederikssund,2,Frederikssund Nord,F_Michael_Grønbech,Michael Grønbech,SF - Socialistisk Folkeparti,11
+Frederikssund,2,Frederikssund Nord,H_Listestemmer,Listestemmer,Forenet Frederikssund,4
+Frederikssund,2,Frederikssund Nord,H_Niki_Hou_Bagge,Niki Hou Bagge,Forenet Frederikssund,13
+Frederikssund,2,Frederikssund Nord,N_Listestemmer,Listestemmer,Fjordlandslisten,88
+Frederikssund,2,Frederikssund Nord,N_Kirsten_Weiland,Kirsten Weiland,Fjordlandslisten,57
+Frederikssund,2,Frederikssund Nord,N_Ole_Peltola,Ole Peltola,Fjordlandslisten,10
+Frederikssund,2,Frederikssund Nord,N_Jørgen_Olsen,Jørgen Olsen,Fjordlandslisten,13
+Frederikssund,2,Frederikssund Nord,N_Lennie_Hansen,Lennie Hansen,Fjordlandslisten,6
+Frederikssund,2,Frederikssund Nord,N_Morten_Villadsen,Morten Villadsen,Fjordlandslisten,25
+Frederikssund,2,Frederikssund Nord,N_Camilla_Cordius,Camilla Cordius,Fjordlandslisten,30
+Frederikssund,2,Frederikssund Nord,N_Jan_Lykke,Jan Lykke,Fjordlandslisten,2
+Frederikssund,2,Frederikssund Nord,N_John_Ziegler,John Ziegler,Fjordlandslisten,13
+Frederikssund,2,Frederikssund Nord,N_Susanne_Bartholin,Susanne Bartholin,Fjordlandslisten,5
+Frederikssund,2,Frederikssund Nord,O_Listestemmer,Listestemmer,Dansk Folkeparti,57
+Frederikssund,2,Frederikssund Nord,"O_Gert_Løfgren,_Slangerup","Gert Løfgren, Slangerup",Dansk Folkeparti,13
+Frederikssund,2,Frederikssund Nord,"O_Inge_Messerschmidt,_Frederikssund","Inge Messerschmidt, Frederikssund",Dansk Folkeparti,76
+Frederikssund,2,Frederikssund Nord,"O_Tobias_Weische,_Frederikssund","Tobias Weische, Frederikssund",Dansk Folkeparti,28
+Frederikssund,2,Frederikssund Nord,"O_Heidi_Jørgensen,_Jægerspris","Heidi Jørgensen, Jægerspris",Dansk Folkeparti,15
+Frederikssund,2,Frederikssund Nord,"O_Jess_Lykke_Christensen,_Skibby","Jess Lykke Christensen, Skibby",Dansk Folkeparti,1
+Frederikssund,2,Frederikssund Nord,"O_Andreas_Brøsen,_Slangerup","Andreas Brøsen, Slangerup",Dansk Folkeparti,1
+Frederikssund,2,Frederikssund Nord,"O_Berit_Stehr,_Jægerspris","Berit Stehr, Jægerspris",Dansk Folkeparti,2
+Frederikssund,2,Frederikssund Nord,"O_Trúgvi_Gudmundarson,_Frederikssund","Trúgvi Gudmundarson, Frederikssund",Dansk Folkeparti,4
+Frederikssund,2,Frederikssund Nord,"O_Arne_Dølling,_Frederikssund","Arne Dølling, Frederikssund",Dansk Folkeparti,0
+Frederikssund,2,Frederikssund Nord,"O_Jannie_Bøgh,_Skibby","Jannie Bøgh, Skibby",Dansk Folkeparti,29
+Frederikssund,2,Frederikssund Nord,P_Listestemmer,Listestemmer,Anja Bisp Pedersen,12
+Frederikssund,2,Frederikssund Nord,P_Anja_Bisp_Pedersen,Anja Bisp Pedersen,Anja Bisp Pedersen,2
+Frederikssund,2,Frederikssund Nord,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",119
+Frederikssund,2,Frederikssund Nord,V_John_Schmidt_Andersen,John Schmidt Andersen,"Venstre, Danmarks Liberale Parti",183
+Frederikssund,2,Frederikssund Nord,V_Hans_Andersen,Hans Andersen,"Venstre, Danmarks Liberale Parti",145
+Frederikssund,2,Frederikssund Nord,V_Anne_Sofie_Uhrskov,Anne Sofie Uhrskov,"Venstre, Danmarks Liberale Parti",46
+Frederikssund,2,Frederikssund Nord,V_Jørgen_Bech,Jørgen Bech,"Venstre, Danmarks Liberale Parti",11
+Frederikssund,2,Frederikssund Nord,V_Michael_Tøgersen,Michael Tøgersen,"Venstre, Danmarks Liberale Parti",96
+Frederikssund,2,Frederikssund Nord,V_Jens_Jørgensen,Jens Jørgensen,"Venstre, Danmarks Liberale Parti",17
+Frederikssund,2,Frederikssund Nord,V_Morten_Skovgaard,Morten Skovgaard,"Venstre, Danmarks Liberale Parti",30
+Frederikssund,2,Frederikssund Nord,V_Charlotte_Drue_Aagaard,Charlotte Drue Aagaard,"Venstre, Danmarks Liberale Parti",33
+Frederikssund,2,Frederikssund Nord,V_Lisbet_Jensen,Lisbet Jensen,"Venstre, Danmarks Liberale Parti",22
+Frederikssund,2,Frederikssund Nord,V_Tom_Lysgaard,Tom Lysgaard,"Venstre, Danmarks Liberale Parti",3
+Frederikssund,2,Frederikssund Nord,V_Neslihan_Güzel,Neslihan Güzel,"Venstre, Danmarks Liberale Parti",33
+Frederikssund,2,Frederikssund Nord,V_Signe_Sysse_Grünfeld-Bierre,Signe Sysse Grünfeld-Bierre,"Venstre, Danmarks Liberale Parti",8
+Frederikssund,2,Frederikssund Nord,V_Mikkel_Johansen,Mikkel Johansen,"Venstre, Danmarks Liberale Parti",4
+Frederikssund,2,Frederikssund Nord,V_Lisbeth_Dupont-Rosenvold,Lisbeth Dupont-Rosenvold,"Venstre, Danmarks Liberale Parti",8
+Frederikssund,2,Frederikssund Nord,V_Martin_Elmegaard,Martin Elmegaard,"Venstre, Danmarks Liberale Parti",2
+Frederikssund,2,Frederikssund Nord,V_Søren_Find_Andersen,Søren Find Andersen,"Venstre, Danmarks Liberale Parti",1
+Frederikssund,2,Frederikssund Nord,V_Christoffer_Christensen,Christoffer Christensen,"Venstre, Danmarks Liberale Parti",4
+Frederikssund,2,Frederikssund Nord,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,68
+Frederikssund,2,Frederikssund Nord,"Ø_Rasmus_Petersen,_Jægerspris","Rasmus Petersen, Jægerspris",Enhedslisten - De Rød-Grønne,27
+Frederikssund,2,Frederikssund Nord,"Ø_Ulrik_Goos_Iversen,_Jægerspris","Ulrik Goos Iversen, Jægerspris",Enhedslisten - De Rød-Grønne,23
+Frederikssund,2,Frederikssund Nord,"Ø_Erik_Andersen,_Skibby","Erik Andersen, Skibby",Enhedslisten - De Rød-Grønne,2
+Frederikssund,2,Frederikssund Nord,"Ø_Kirsten_Folke,_Jægerspris","Kirsten Folke, Jægerspris",Enhedslisten - De Rød-Grønne,25
+Frederikssund,3,Frederikssund Syd,A_Listestemmer,Listestemmer,Socialdemokratiet,278
+Frederikssund,3,Frederikssund Syd,A_Tina_Tving_Stauning,Tina Tving Stauning,Socialdemokratiet,232
+Frederikssund,3,Frederikssund Syd,A_Jesper_Wittenburg,Jesper Wittenburg,Socialdemokratiet,158
+Frederikssund,3,Frederikssund Syd,A_Poul_Erik_Skov_Christensen,Poul Erik Skov Christensen,Socialdemokratiet,71
+Frederikssund,3,Frederikssund Syd,A_Susanne_Bettina_Jørgensen,Susanne Bettina Jørgensen,Socialdemokratiet,50
+Frederikssund,3,Frederikssund Syd,A_Anne-Lise_Kuhre,Anne-Lise Kuhre,Socialdemokratiet,11
+Frederikssund,3,Frederikssund Syd,A_Lars_Jepsen,Lars Jepsen,Socialdemokratiet,74
+Frederikssund,3,Frederikssund Syd,A_Kenneth_Jensen,Kenneth Jensen,Socialdemokratiet,90
+Frederikssund,3,Frederikssund Syd,A_Ozgür_Bardakci,Ozgür Bardakci,Socialdemokratiet,31
+Frederikssund,3,Frederikssund Syd,A_Carsten_Cederholm,Carsten Cederholm,Socialdemokratiet,24
+Frederikssund,3,Frederikssund Syd,A_Jesper_Henriksen,Jesper Henriksen,Socialdemokratiet,9
+Frederikssund,3,Frederikssund Syd,A_Anne-Mette_Olsen,Anne-Mette Olsen,Socialdemokratiet,5
+Frederikssund,3,Frederikssund Syd,A_Kim_Egelund,Kim Egelund,Socialdemokratiet,6
+Frederikssund,3,Frederikssund Syd,A_Lars_Eitmann,Lars Eitmann,Socialdemokratiet,33
+Frederikssund,3,Frederikssund Syd,A_Martin_Kirchgässner,Martin Kirchgässner,Socialdemokratiet,6
+Frederikssund,3,Frederikssund Syd,A_Jimmy_Sarvad,Jimmy Sarvad,Socialdemokratiet,2
+Frederikssund,3,Frederikssund Syd,A_Julia_Revling,Julia Revling,Socialdemokratiet,7
+Frederikssund,3,Frederikssund Syd,A_Sanne_Johansen,Sanne Johansen,Socialdemokratiet,20
+Frederikssund,3,Frederikssund Syd,B_Listestemmer,Listestemmer,Radikale Venstre,62
+Frederikssund,3,Frederikssund Syd,"B_Søren_Weimann,_Hornsherred","Søren Weimann, Hornsherred",Radikale Venstre,98
+Frederikssund,3,Frederikssund Syd,"B_Asbjørn_Laurberg,_Frederikssund","Asbjørn Laurberg, Frederikssund",Radikale Venstre,10
+Frederikssund,3,Frederikssund Syd,"B_Sükran_Gezen,_Frederikssund","Sükran Gezen, Frederikssund",Radikale Venstre,2
+Frederikssund,3,Frederikssund Syd,"B_Kjartan_Lind,_Frederikssund","Kjartan Lind, Frederikssund",Radikale Venstre,9
+Frederikssund,3,Frederikssund Syd,"B_Mark_Barnkob,_Frederikssund","Mark Barnkob, Frederikssund",Radikale Venstre,2
+Frederikssund,3,Frederikssund Syd,"B_John_Witt,_Græse_Bakkeby","John Witt, Græse Bakkeby",Radikale Venstre,5
+Frederikssund,3,Frederikssund Syd,"B_Kim_Bromberg,_Jægerspris","Kim Bromberg, Jægerspris",Radikale Venstre,11
+Frederikssund,3,Frederikssund Syd,"B_Carsten_Nielsen,_Frederikssund","Carsten Nielsen, Frederikssund",Radikale Venstre,4
+Frederikssund,3,Frederikssund Syd,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,119
+Frederikssund,3,Frederikssund Syd,"C_Niels_Martin_Viuff,_Frederikssund","Niels Martin Viuff, Frederikssund",Det Konservative Folkeparti,115
+Frederikssund,3,Frederikssund Syd,"C_Therese_Hejnfelt,_Skibby","Therese Hejnfelt, Skibby",Det Konservative Folkeparti,57
+Frederikssund,3,Frederikssund Syd,"C_Nicolai_Pandorff,_Onsved","Nicolai Pandorff, Onsved",Det Konservative Folkeparti,5
+Frederikssund,3,Frederikssund Syd,"C_Henrik_Godiksen,_Slangerup","Henrik Godiksen, Slangerup",Det Konservative Folkeparti,25
+Frederikssund,3,Frederikssund Syd,"C_Kenneth_Johansen,_St._Rørbæk","Kenneth Johansen, St. Rørbæk",Det Konservative Folkeparti,16
+Frederikssund,3,Frederikssund Syd,"C_Jonas_Brandt,_Kyndby_Huse","Jonas Brandt, Kyndby Huse",Det Konservative Folkeparti,23
+Frederikssund,3,Frederikssund Syd,"C_Henrik_Biehl,_Skuldelev","Henrik Biehl, Skuldelev",Det Konservative Folkeparti,6
+Frederikssund,3,Frederikssund Syd,D_Listestemmer,Listestemmer,Nye Borgerlige,83
+Frederikssund,3,Frederikssund Syd,D_Maibritt_Møller_Nielsen,Maibritt Møller Nielsen,Nye Borgerlige,59
+Frederikssund,3,Frederikssund Syd,D_Karl_Andersen,Karl Andersen,Nye Borgerlige,4
+Frederikssund,3,Frederikssund Syd,D_Lars_Goth,Lars Goth,Nye Borgerlige,4
+Frederikssund,3,Frederikssund Syd,D_Ole_Engell_Clausen,Ole Engell Clausen,Nye Borgerlige,11
+Frederikssund,3,Frederikssund Syd,D_Tobias_Daniel_Isaksson,Tobias Daniel Isaksson,Nye Borgerlige,14
+Frederikssund,3,Frederikssund Syd,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,91
+Frederikssund,3,Frederikssund Syd,F_Anna_Poulsen,Anna Poulsen,SF - Socialistisk Folkeparti,139
+Frederikssund,3,Frederikssund Syd,F_Ole_Frimann_Hansen,Ole Frimann Hansen,SF - Socialistisk Folkeparti,25
+Frederikssund,3,Frederikssund Syd,F_Lone_Terp,Lone Terp,SF - Socialistisk Folkeparti,50
+Frederikssund,3,Frederikssund Syd,F_Anders_Madsen,Anders Madsen,SF - Socialistisk Folkeparti,30
+Frederikssund,3,Frederikssund Syd,F_Marianne_Stannum,Marianne Stannum,SF - Socialistisk Folkeparti,19
+Frederikssund,3,Frederikssund Syd,F_Michael_Grønbech,Michael Grønbech,SF - Socialistisk Folkeparti,6
+Frederikssund,3,Frederikssund Syd,H_Listestemmer,Listestemmer,Forenet Frederikssund,2
+Frederikssund,3,Frederikssund Syd,H_Niki_Hou_Bagge,Niki Hou Bagge,Forenet Frederikssund,12
+Frederikssund,3,Frederikssund Syd,N_Listestemmer,Listestemmer,Fjordlandslisten,91
+Frederikssund,3,Frederikssund Syd,N_Kirsten_Weiland,Kirsten Weiland,Fjordlandslisten,70
+Frederikssund,3,Frederikssund Syd,N_Ole_Peltola,Ole Peltola,Fjordlandslisten,13
+Frederikssund,3,Frederikssund Syd,N_Jørgen_Olsen,Jørgen Olsen,Fjordlandslisten,24
+Frederikssund,3,Frederikssund Syd,N_Lennie_Hansen,Lennie Hansen,Fjordlandslisten,11
+Frederikssund,3,Frederikssund Syd,N_Morten_Villadsen,Morten Villadsen,Fjordlandslisten,17
+Frederikssund,3,Frederikssund Syd,N_Camilla_Cordius,Camilla Cordius,Fjordlandslisten,7
+Frederikssund,3,Frederikssund Syd,N_Jan_Lykke,Jan Lykke,Fjordlandslisten,2
+Frederikssund,3,Frederikssund Syd,N_John_Ziegler,John Ziegler,Fjordlandslisten,16
+Frederikssund,3,Frederikssund Syd,N_Susanne_Bartholin,Susanne Bartholin,Fjordlandslisten,4
+Frederikssund,3,Frederikssund Syd,O_Listestemmer,Listestemmer,Dansk Folkeparti,74
+Frederikssund,3,Frederikssund Syd,"O_Gert_Løfgren,_Slangerup","Gert Løfgren, Slangerup",Dansk Folkeparti,12
+Frederikssund,3,Frederikssund Syd,"O_Inge_Messerschmidt,_Frederikssund","Inge Messerschmidt, Frederikssund",Dansk Folkeparti,81
+Frederikssund,3,Frederikssund Syd,"O_Tobias_Weische,_Frederikssund","Tobias Weische, Frederikssund",Dansk Folkeparti,17
+Frederikssund,3,Frederikssund Syd,"O_Heidi_Jørgensen,_Jægerspris","Heidi Jørgensen, Jægerspris",Dansk Folkeparti,10
+Frederikssund,3,Frederikssund Syd,"O_Jess_Lykke_Christensen,_Skibby","Jess Lykke Christensen, Skibby",Dansk Folkeparti,1
+Frederikssund,3,Frederikssund Syd,"O_Andreas_Brøsen,_Slangerup","Andreas Brøsen, Slangerup",Dansk Folkeparti,0
+Frederikssund,3,Frederikssund Syd,"O_Berit_Stehr,_Jægerspris","Berit Stehr, Jægerspris",Dansk Folkeparti,6
+Frederikssund,3,Frederikssund Syd,"O_Trúgvi_Gudmundarson,_Frederikssund","Trúgvi Gudmundarson, Frederikssund",Dansk Folkeparti,6
+Frederikssund,3,Frederikssund Syd,"O_Arne_Dølling,_Frederikssund","Arne Dølling, Frederikssund",Dansk Folkeparti,0
+Frederikssund,3,Frederikssund Syd,"O_Jannie_Bøgh,_Skibby","Jannie Bøgh, Skibby",Dansk Folkeparti,28
+Frederikssund,3,Frederikssund Syd,P_Listestemmer,Listestemmer,Anja Bisp Pedersen,5
+Frederikssund,3,Frederikssund Syd,P_Anja_Bisp_Pedersen,Anja Bisp Pedersen,Anja Bisp Pedersen,7
+Frederikssund,3,Frederikssund Syd,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",171
+Frederikssund,3,Frederikssund Syd,V_John_Schmidt_Andersen,John Schmidt Andersen,"Venstre, Danmarks Liberale Parti",283
+Frederikssund,3,Frederikssund Syd,V_Hans_Andersen,Hans Andersen,"Venstre, Danmarks Liberale Parti",140
+Frederikssund,3,Frederikssund Syd,V_Anne_Sofie_Uhrskov,Anne Sofie Uhrskov,"Venstre, Danmarks Liberale Parti",91
+Frederikssund,3,Frederikssund Syd,V_Jørgen_Bech,Jørgen Bech,"Venstre, Danmarks Liberale Parti",12
+Frederikssund,3,Frederikssund Syd,V_Michael_Tøgersen,Michael Tøgersen,"Venstre, Danmarks Liberale Parti",125
+Frederikssund,3,Frederikssund Syd,V_Jens_Jørgensen,Jens Jørgensen,"Venstre, Danmarks Liberale Parti",9
+Frederikssund,3,Frederikssund Syd,V_Morten_Skovgaard,Morten Skovgaard,"Venstre, Danmarks Liberale Parti",77
+Frederikssund,3,Frederikssund Syd,V_Charlotte_Drue_Aagaard,Charlotte Drue Aagaard,"Venstre, Danmarks Liberale Parti",49
+Frederikssund,3,Frederikssund Syd,V_Lisbet_Jensen,Lisbet Jensen,"Venstre, Danmarks Liberale Parti",21
+Frederikssund,3,Frederikssund Syd,V_Tom_Lysgaard,Tom Lysgaard,"Venstre, Danmarks Liberale Parti",3
+Frederikssund,3,Frederikssund Syd,V_Neslihan_Güzel,Neslihan Güzel,"Venstre, Danmarks Liberale Parti",21
+Frederikssund,3,Frederikssund Syd,V_Signe_Sysse_Grünfeld-Bierre,Signe Sysse Grünfeld-Bierre,"Venstre, Danmarks Liberale Parti",16
+Frederikssund,3,Frederikssund Syd,V_Mikkel_Johansen,Mikkel Johansen,"Venstre, Danmarks Liberale Parti",2
+Frederikssund,3,Frederikssund Syd,V_Lisbeth_Dupont-Rosenvold,Lisbeth Dupont-Rosenvold,"Venstre, Danmarks Liberale Parti",6
+Frederikssund,3,Frederikssund Syd,V_Martin_Elmegaard,Martin Elmegaard,"Venstre, Danmarks Liberale Parti",7
+Frederikssund,3,Frederikssund Syd,V_Søren_Find_Andersen,Søren Find Andersen,"Venstre, Danmarks Liberale Parti",2
+Frederikssund,3,Frederikssund Syd,V_Christoffer_Christensen,Christoffer Christensen,"Venstre, Danmarks Liberale Parti",8
+Frederikssund,3,Frederikssund Syd,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,62
+Frederikssund,3,Frederikssund Syd,"Ø_Rasmus_Petersen,_Jægerspris","Rasmus Petersen, Jægerspris",Enhedslisten - De Rød-Grønne,19
+Frederikssund,3,Frederikssund Syd,"Ø_Ulrik_Goos_Iversen,_Jægerspris","Ulrik Goos Iversen, Jægerspris",Enhedslisten - De Rød-Grønne,25
+Frederikssund,3,Frederikssund Syd,"Ø_Erik_Andersen,_Skibby","Erik Andersen, Skibby",Enhedslisten - De Rød-Grønne,3
+Frederikssund,3,Frederikssund Syd,"Ø_Kirsten_Folke,_Jægerspris","Kirsten Folke, Jægerspris",Enhedslisten - De Rød-Grønne,26
+Frederikssund,4,Skibby,A_Listestemmer,Listestemmer,Socialdemokratiet,386
+Frederikssund,4,Skibby,A_Tina_Tving_Stauning,Tina Tving Stauning,Socialdemokratiet,322
+Frederikssund,4,Skibby,A_Jesper_Wittenburg,Jesper Wittenburg,Socialdemokratiet,34
+Frederikssund,4,Skibby,A_Poul_Erik_Skov_Christensen,Poul Erik Skov Christensen,Socialdemokratiet,42
+Frederikssund,4,Skibby,A_Susanne_Bettina_Jørgensen,Susanne Bettina Jørgensen,Socialdemokratiet,153
+Frederikssund,4,Skibby,A_Anne-Lise_Kuhre,Anne-Lise Kuhre,Socialdemokratiet,7
+Frederikssund,4,Skibby,A_Lars_Jepsen,Lars Jepsen,Socialdemokratiet,11
+Frederikssund,4,Skibby,A_Kenneth_Jensen,Kenneth Jensen,Socialdemokratiet,83
+Frederikssund,4,Skibby,A_Ozgür_Bardakci,Ozgür Bardakci,Socialdemokratiet,4
+Frederikssund,4,Skibby,A_Carsten_Cederholm,Carsten Cederholm,Socialdemokratiet,10
+Frederikssund,4,Skibby,A_Jesper_Henriksen,Jesper Henriksen,Socialdemokratiet,10
+Frederikssund,4,Skibby,A_Anne-Mette_Olsen,Anne-Mette Olsen,Socialdemokratiet,45
+Frederikssund,4,Skibby,A_Kim_Egelund,Kim Egelund,Socialdemokratiet,40
+Frederikssund,4,Skibby,A_Lars_Eitmann,Lars Eitmann,Socialdemokratiet,9
+Frederikssund,4,Skibby,A_Martin_Kirchgässner,Martin Kirchgässner,Socialdemokratiet,27
+Frederikssund,4,Skibby,A_Jimmy_Sarvad,Jimmy Sarvad,Socialdemokratiet,5
+Frederikssund,4,Skibby,A_Julia_Revling,Julia Revling,Socialdemokratiet,8
+Frederikssund,4,Skibby,A_Sanne_Johansen,Sanne Johansen,Socialdemokratiet,27
+Frederikssund,4,Skibby,B_Listestemmer,Listestemmer,Radikale Venstre,32
+Frederikssund,4,Skibby,"B_Søren_Weimann,_Hornsherred","Søren Weimann, Hornsherred",Radikale Venstre,29
+Frederikssund,4,Skibby,"B_Asbjørn_Laurberg,_Frederikssund","Asbjørn Laurberg, Frederikssund",Radikale Venstre,2
+Frederikssund,4,Skibby,"B_Sükran_Gezen,_Frederikssund","Sükran Gezen, Frederikssund",Radikale Venstre,2
+Frederikssund,4,Skibby,"B_Kjartan_Lind,_Frederikssund","Kjartan Lind, Frederikssund",Radikale Venstre,6
+Frederikssund,4,Skibby,"B_Mark_Barnkob,_Frederikssund","Mark Barnkob, Frederikssund",Radikale Venstre,2
+Frederikssund,4,Skibby,"B_John_Witt,_Græse_Bakkeby","John Witt, Græse Bakkeby",Radikale Venstre,4
+Frederikssund,4,Skibby,"B_Kim_Bromberg,_Jægerspris","Kim Bromberg, Jægerspris",Radikale Venstre,10
+Frederikssund,4,Skibby,"B_Carsten_Nielsen,_Frederikssund","Carsten Nielsen, Frederikssund",Radikale Venstre,1
+Frederikssund,4,Skibby,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,97
+Frederikssund,4,Skibby,"C_Niels_Martin_Viuff,_Frederikssund","Niels Martin Viuff, Frederikssund",Det Konservative Folkeparti,66
+Frederikssund,4,Skibby,"C_Therese_Hejnfelt,_Skibby","Therese Hejnfelt, Skibby",Det Konservative Folkeparti,165
+Frederikssund,4,Skibby,"C_Nicolai_Pandorff,_Onsved","Nicolai Pandorff, Onsved",Det Konservative Folkeparti,24
+Frederikssund,4,Skibby,"C_Henrik_Godiksen,_Slangerup","Henrik Godiksen, Slangerup",Det Konservative Folkeparti,4
+Frederikssund,4,Skibby,"C_Kenneth_Johansen,_St._Rørbæk","Kenneth Johansen, St. Rørbæk",Det Konservative Folkeparti,4
+Frederikssund,4,Skibby,"C_Jonas_Brandt,_Kyndby_Huse","Jonas Brandt, Kyndby Huse",Det Konservative Folkeparti,39
+Frederikssund,4,Skibby,"C_Henrik_Biehl,_Skuldelev","Henrik Biehl, Skuldelev",Det Konservative Folkeparti,7
+Frederikssund,4,Skibby,D_Listestemmer,Listestemmer,Nye Borgerlige,114
+Frederikssund,4,Skibby,D_Maibritt_Møller_Nielsen,Maibritt Møller Nielsen,Nye Borgerlige,97
+Frederikssund,4,Skibby,D_Karl_Andersen,Karl Andersen,Nye Borgerlige,3
+Frederikssund,4,Skibby,D_Lars_Goth,Lars Goth,Nye Borgerlige,1
+Frederikssund,4,Skibby,D_Ole_Engell_Clausen,Ole Engell Clausen,Nye Borgerlige,2
+Frederikssund,4,Skibby,D_Tobias_Daniel_Isaksson,Tobias Daniel Isaksson,Nye Borgerlige,25
+Frederikssund,4,Skibby,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,66
+Frederikssund,4,Skibby,F_Anna_Poulsen,Anna Poulsen,SF - Socialistisk Folkeparti,123
+Frederikssund,4,Skibby,F_Ole_Frimann_Hansen,Ole Frimann Hansen,SF - Socialistisk Folkeparti,17
+Frederikssund,4,Skibby,F_Lone_Terp,Lone Terp,SF - Socialistisk Folkeparti,37
+Frederikssund,4,Skibby,F_Anders_Madsen,Anders Madsen,SF - Socialistisk Folkeparti,39
+Frederikssund,4,Skibby,F_Marianne_Stannum,Marianne Stannum,SF - Socialistisk Folkeparti,13
+Frederikssund,4,Skibby,F_Michael_Grønbech,Michael Grønbech,SF - Socialistisk Folkeparti,9
+Frederikssund,4,Skibby,H_Listestemmer,Listestemmer,Forenet Frederikssund,2
+Frederikssund,4,Skibby,H_Niki_Hou_Bagge,Niki Hou Bagge,Forenet Frederikssund,6
+Frederikssund,4,Skibby,N_Listestemmer,Listestemmer,Fjordlandslisten,160
+Frederikssund,4,Skibby,N_Kirsten_Weiland,Kirsten Weiland,Fjordlandslisten,203
+Frederikssund,4,Skibby,N_Ole_Peltola,Ole Peltola,Fjordlandslisten,66
+Frederikssund,4,Skibby,N_Jørgen_Olsen,Jørgen Olsen,Fjordlandslisten,33
+Frederikssund,4,Skibby,N_Lennie_Hansen,Lennie Hansen,Fjordlandslisten,23
+Frederikssund,4,Skibby,N_Morten_Villadsen,Morten Villadsen,Fjordlandslisten,12
+Frederikssund,4,Skibby,N_Camilla_Cordius,Camilla Cordius,Fjordlandslisten,15
+Frederikssund,4,Skibby,N_Jan_Lykke,Jan Lykke,Fjordlandslisten,2
+Frederikssund,4,Skibby,N_John_Ziegler,John Ziegler,Fjordlandslisten,6
+Frederikssund,4,Skibby,N_Susanne_Bartholin,Susanne Bartholin,Fjordlandslisten,11
+Frederikssund,4,Skibby,O_Listestemmer,Listestemmer,Dansk Folkeparti,93
+Frederikssund,4,Skibby,"O_Gert_Løfgren,_Slangerup","Gert Løfgren, Slangerup",Dansk Folkeparti,32
+Frederikssund,4,Skibby,"O_Inge_Messerschmidt,_Frederikssund","Inge Messerschmidt, Frederikssund",Dansk Folkeparti,75
+Frederikssund,4,Skibby,"O_Tobias_Weische,_Frederikssund","Tobias Weische, Frederikssund",Dansk Folkeparti,18
+Frederikssund,4,Skibby,"O_Heidi_Jørgensen,_Jægerspris","Heidi Jørgensen, Jægerspris",Dansk Folkeparti,14
+Frederikssund,4,Skibby,"O_Jess_Lykke_Christensen,_Skibby","Jess Lykke Christensen, Skibby",Dansk Folkeparti,21
+Frederikssund,4,Skibby,"O_Andreas_Brøsen,_Slangerup","Andreas Brøsen, Slangerup",Dansk Folkeparti,0
+Frederikssund,4,Skibby,"O_Berit_Stehr,_Jægerspris","Berit Stehr, Jægerspris",Dansk Folkeparti,7
+Frederikssund,4,Skibby,"O_Trúgvi_Gudmundarson,_Frederikssund","Trúgvi Gudmundarson, Frederikssund",Dansk Folkeparti,3
+Frederikssund,4,Skibby,"O_Arne_Dølling,_Frederikssund","Arne Dølling, Frederikssund",Dansk Folkeparti,0
+Frederikssund,4,Skibby,"O_Jannie_Bøgh,_Skibby","Jannie Bøgh, Skibby",Dansk Folkeparti,66
+Frederikssund,4,Skibby,P_Listestemmer,Listestemmer,Anja Bisp Pedersen,11
+Frederikssund,4,Skibby,P_Anja_Bisp_Pedersen,Anja Bisp Pedersen,Anja Bisp Pedersen,15
+Frederikssund,4,Skibby,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",144
+Frederikssund,4,Skibby,V_John_Schmidt_Andersen,John Schmidt Andersen,"Venstre, Danmarks Liberale Parti",131
+Frederikssund,4,Skibby,V_Hans_Andersen,Hans Andersen,"Venstre, Danmarks Liberale Parti",61
+Frederikssund,4,Skibby,V_Anne_Sofie_Uhrskov,Anne Sofie Uhrskov,"Venstre, Danmarks Liberale Parti",28
+Frederikssund,4,Skibby,V_Jørgen_Bech,Jørgen Bech,"Venstre, Danmarks Liberale Parti",370
+Frederikssund,4,Skibby,V_Michael_Tøgersen,Michael Tøgersen,"Venstre, Danmarks Liberale Parti",21
+Frederikssund,4,Skibby,V_Jens_Jørgensen,Jens Jørgensen,"Venstre, Danmarks Liberale Parti",48
+Frederikssund,4,Skibby,V_Morten_Skovgaard,Morten Skovgaard,"Venstre, Danmarks Liberale Parti",13
+Frederikssund,4,Skibby,V_Charlotte_Drue_Aagaard,Charlotte Drue Aagaard,"Venstre, Danmarks Liberale Parti",23
+Frederikssund,4,Skibby,V_Lisbet_Jensen,Lisbet Jensen,"Venstre, Danmarks Liberale Parti",16
+Frederikssund,4,Skibby,V_Tom_Lysgaard,Tom Lysgaard,"Venstre, Danmarks Liberale Parti",4
+Frederikssund,4,Skibby,V_Neslihan_Güzel,Neslihan Güzel,"Venstre, Danmarks Liberale Parti",1
+Frederikssund,4,Skibby,V_Signe_Sysse_Grünfeld-Bierre,Signe Sysse Grünfeld-Bierre,"Venstre, Danmarks Liberale Parti",30
+Frederikssund,4,Skibby,V_Mikkel_Johansen,Mikkel Johansen,"Venstre, Danmarks Liberale Parti",87
+Frederikssund,4,Skibby,V_Lisbeth_Dupont-Rosenvold,Lisbeth Dupont-Rosenvold,"Venstre, Danmarks Liberale Parti",3
+Frederikssund,4,Skibby,V_Martin_Elmegaard,Martin Elmegaard,"Venstre, Danmarks Liberale Parti",3
+Frederikssund,4,Skibby,V_Søren_Find_Andersen,Søren Find Andersen,"Venstre, Danmarks Liberale Parti",41
+Frederikssund,4,Skibby,V_Christoffer_Christensen,Christoffer Christensen,"Venstre, Danmarks Liberale Parti",1
+Frederikssund,4,Skibby,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,127
+Frederikssund,4,Skibby,"Ø_Rasmus_Petersen,_Jægerspris","Rasmus Petersen, Jægerspris",Enhedslisten - De Rød-Grønne,23
+Frederikssund,4,Skibby,"Ø_Ulrik_Goos_Iversen,_Jægerspris","Ulrik Goos Iversen, Jægerspris",Enhedslisten - De Rød-Grønne,25
+Frederikssund,4,Skibby,"Ø_Erik_Andersen,_Skibby","Erik Andersen, Skibby",Enhedslisten - De Rød-Grønne,42
+Frederikssund,4,Skibby,"Ø_Kirsten_Folke,_Jægerspris","Kirsten Folke, Jægerspris",Enhedslisten - De Rød-Grønne,65
+Frederikssund,5,Jægerspris,A_Listestemmer,Listestemmer,Socialdemokratiet,342
+Frederikssund,5,Jægerspris,A_Tina_Tving_Stauning,Tina Tving Stauning,Socialdemokratiet,295
+Frederikssund,5,Jægerspris,A_Jesper_Wittenburg,Jesper Wittenburg,Socialdemokratiet,60
+Frederikssund,5,Jægerspris,A_Poul_Erik_Skov_Christensen,Poul Erik Skov Christensen,Socialdemokratiet,56
+Frederikssund,5,Jægerspris,A_Susanne_Bettina_Jørgensen,Susanne Bettina Jørgensen,Socialdemokratiet,142
+Frederikssund,5,Jægerspris,A_Anne-Lise_Kuhre,Anne-Lise Kuhre,Socialdemokratiet,10
+Frederikssund,5,Jægerspris,A_Lars_Jepsen,Lars Jepsen,Socialdemokratiet,19
+Frederikssund,5,Jægerspris,A_Kenneth_Jensen,Kenneth Jensen,Socialdemokratiet,200
+Frederikssund,5,Jægerspris,A_Ozgür_Bardakci,Ozgür Bardakci,Socialdemokratiet,20
+Frederikssund,5,Jægerspris,A_Carsten_Cederholm,Carsten Cederholm,Socialdemokratiet,8
+Frederikssund,5,Jægerspris,A_Jesper_Henriksen,Jesper Henriksen,Socialdemokratiet,171
+Frederikssund,5,Jægerspris,A_Anne-Mette_Olsen,Anne-Mette Olsen,Socialdemokratiet,14
+Frederikssund,5,Jægerspris,A_Kim_Egelund,Kim Egelund,Socialdemokratiet,3
+Frederikssund,5,Jægerspris,A_Lars_Eitmann,Lars Eitmann,Socialdemokratiet,9
+Frederikssund,5,Jægerspris,A_Martin_Kirchgässner,Martin Kirchgässner,Socialdemokratiet,2
+Frederikssund,5,Jægerspris,A_Jimmy_Sarvad,Jimmy Sarvad,Socialdemokratiet,10
+Frederikssund,5,Jægerspris,A_Julia_Revling,Julia Revling,Socialdemokratiet,5
+Frederikssund,5,Jægerspris,A_Sanne_Johansen,Sanne Johansen,Socialdemokratiet,31
+Frederikssund,5,Jægerspris,B_Listestemmer,Listestemmer,Radikale Venstre,46
+Frederikssund,5,Jægerspris,"B_Søren_Weimann,_Hornsherred","Søren Weimann, Hornsherred",Radikale Venstre,38
+Frederikssund,5,Jægerspris,"B_Asbjørn_Laurberg,_Frederikssund","Asbjørn Laurberg, Frederikssund",Radikale Venstre,3
+Frederikssund,5,Jægerspris,"B_Sükran_Gezen,_Frederikssund","Sükran Gezen, Frederikssund",Radikale Venstre,2
+Frederikssund,5,Jægerspris,"B_Kjartan_Lind,_Frederikssund","Kjartan Lind, Frederikssund",Radikale Venstre,4
+Frederikssund,5,Jægerspris,"B_Mark_Barnkob,_Frederikssund","Mark Barnkob, Frederikssund",Radikale Venstre,3
+Frederikssund,5,Jægerspris,"B_John_Witt,_Græse_Bakkeby","John Witt, Græse Bakkeby",Radikale Venstre,1
+Frederikssund,5,Jægerspris,"B_Kim_Bromberg,_Jægerspris","Kim Bromberg, Jægerspris",Radikale Venstre,16
+Frederikssund,5,Jægerspris,"B_Carsten_Nielsen,_Frederikssund","Carsten Nielsen, Frederikssund",Radikale Venstre,0
+Frederikssund,5,Jægerspris,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,93
+Frederikssund,5,Jægerspris,"C_Niels_Martin_Viuff,_Frederikssund","Niels Martin Viuff, Frederikssund",Det Konservative Folkeparti,88
+Frederikssund,5,Jægerspris,"C_Therese_Hejnfelt,_Skibby","Therese Hejnfelt, Skibby",Det Konservative Folkeparti,69
+Frederikssund,5,Jægerspris,"C_Nicolai_Pandorff,_Onsved","Nicolai Pandorff, Onsved",Det Konservative Folkeparti,11
+Frederikssund,5,Jægerspris,"C_Henrik_Godiksen,_Slangerup","Henrik Godiksen, Slangerup",Det Konservative Folkeparti,14
+Frederikssund,5,Jægerspris,"C_Kenneth_Johansen,_St._Rørbæk","Kenneth Johansen, St. Rørbæk",Det Konservative Folkeparti,8
+Frederikssund,5,Jægerspris,"C_Jonas_Brandt,_Kyndby_Huse","Jonas Brandt, Kyndby Huse",Det Konservative Folkeparti,27
+Frederikssund,5,Jægerspris,"C_Henrik_Biehl,_Skuldelev","Henrik Biehl, Skuldelev",Det Konservative Folkeparti,8
+Frederikssund,5,Jægerspris,D_Listestemmer,Listestemmer,Nye Borgerlige,95
+Frederikssund,5,Jægerspris,D_Maibritt_Møller_Nielsen,Maibritt Møller Nielsen,Nye Borgerlige,94
+Frederikssund,5,Jægerspris,D_Karl_Andersen,Karl Andersen,Nye Borgerlige,9
+Frederikssund,5,Jægerspris,D_Lars_Goth,Lars Goth,Nye Borgerlige,10
+Frederikssund,5,Jægerspris,D_Ole_Engell_Clausen,Ole Engell Clausen,Nye Borgerlige,5
+Frederikssund,5,Jægerspris,D_Tobias_Daniel_Isaksson,Tobias Daniel Isaksson,Nye Borgerlige,23
+Frederikssund,5,Jægerspris,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,95
+Frederikssund,5,Jægerspris,F_Anna_Poulsen,Anna Poulsen,SF - Socialistisk Folkeparti,99
+Frederikssund,5,Jægerspris,F_Ole_Frimann_Hansen,Ole Frimann Hansen,SF - Socialistisk Folkeparti,13
+Frederikssund,5,Jægerspris,F_Lone_Terp,Lone Terp,SF - Socialistisk Folkeparti,29
+Frederikssund,5,Jægerspris,F_Anders_Madsen,Anders Madsen,SF - Socialistisk Folkeparti,53
+Frederikssund,5,Jægerspris,F_Marianne_Stannum,Marianne Stannum,SF - Socialistisk Folkeparti,18
+Frederikssund,5,Jægerspris,F_Michael_Grønbech,Michael Grønbech,SF - Socialistisk Folkeparti,3
+Frederikssund,5,Jægerspris,H_Listestemmer,Listestemmer,Forenet Frederikssund,4
+Frederikssund,5,Jægerspris,H_Niki_Hou_Bagge,Niki Hou Bagge,Forenet Frederikssund,5
+Frederikssund,5,Jægerspris,N_Listestemmer,Listestemmer,Fjordlandslisten,138
+Frederikssund,5,Jægerspris,N_Kirsten_Weiland,Kirsten Weiland,Fjordlandslisten,107
+Frederikssund,5,Jægerspris,N_Ole_Peltola,Ole Peltola,Fjordlandslisten,72
+Frederikssund,5,Jægerspris,N_Jørgen_Olsen,Jørgen Olsen,Fjordlandslisten,12
+Frederikssund,5,Jægerspris,N_Lennie_Hansen,Lennie Hansen,Fjordlandslisten,102
+Frederikssund,5,Jægerspris,N_Morten_Villadsen,Morten Villadsen,Fjordlandslisten,9
+Frederikssund,5,Jægerspris,N_Camilla_Cordius,Camilla Cordius,Fjordlandslisten,9
+Frederikssund,5,Jægerspris,N_Jan_Lykke,Jan Lykke,Fjordlandslisten,4
+Frederikssund,5,Jægerspris,N_John_Ziegler,John Ziegler,Fjordlandslisten,10
+Frederikssund,5,Jægerspris,N_Susanne_Bartholin,Susanne Bartholin,Fjordlandslisten,48
+Frederikssund,5,Jægerspris,O_Listestemmer,Listestemmer,Dansk Folkeparti,98
+Frederikssund,5,Jægerspris,"O_Gert_Løfgren,_Slangerup","Gert Løfgren, Slangerup",Dansk Folkeparti,35
+Frederikssund,5,Jægerspris,"O_Inge_Messerschmidt,_Frederikssund","Inge Messerschmidt, Frederikssund",Dansk Folkeparti,90
+Frederikssund,5,Jægerspris,"O_Tobias_Weische,_Frederikssund","Tobias Weische, Frederikssund",Dansk Folkeparti,23
+Frederikssund,5,Jægerspris,"O_Heidi_Jørgensen,_Jægerspris","Heidi Jørgensen, Jægerspris",Dansk Folkeparti,43
+Frederikssund,5,Jægerspris,"O_Jess_Lykke_Christensen,_Skibby","Jess Lykke Christensen, Skibby",Dansk Folkeparti,2
+Frederikssund,5,Jægerspris,"O_Andreas_Brøsen,_Slangerup","Andreas Brøsen, Slangerup",Dansk Folkeparti,0
+Frederikssund,5,Jægerspris,"O_Berit_Stehr,_Jægerspris","Berit Stehr, Jægerspris",Dansk Folkeparti,14
+Frederikssund,5,Jægerspris,"O_Trúgvi_Gudmundarson,_Frederikssund","Trúgvi Gudmundarson, Frederikssund",Dansk Folkeparti,3
+Frederikssund,5,Jægerspris,"O_Arne_Dølling,_Frederikssund","Arne Dølling, Frederikssund",Dansk Folkeparti,0
+Frederikssund,5,Jægerspris,"O_Jannie_Bøgh,_Skibby","Jannie Bøgh, Skibby",Dansk Folkeparti,30
+Frederikssund,5,Jægerspris,P_Listestemmer,Listestemmer,Anja Bisp Pedersen,62
+Frederikssund,5,Jægerspris,P_Anja_Bisp_Pedersen,Anja Bisp Pedersen,Anja Bisp Pedersen,77
+Frederikssund,5,Jægerspris,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",127
+Frederikssund,5,Jægerspris,V_John_Schmidt_Andersen,John Schmidt Andersen,"Venstre, Danmarks Liberale Parti",173
+Frederikssund,5,Jægerspris,V_Hans_Andersen,Hans Andersen,"Venstre, Danmarks Liberale Parti",108
+Frederikssund,5,Jægerspris,V_Anne_Sofie_Uhrskov,Anne Sofie Uhrskov,"Venstre, Danmarks Liberale Parti",36
+Frederikssund,5,Jægerspris,V_Jørgen_Bech,Jørgen Bech,"Venstre, Danmarks Liberale Parti",40
+Frederikssund,5,Jægerspris,V_Michael_Tøgersen,Michael Tøgersen,"Venstre, Danmarks Liberale Parti",81
+Frederikssund,5,Jægerspris,V_Jens_Jørgensen,Jens Jørgensen,"Venstre, Danmarks Liberale Parti",73
+Frederikssund,5,Jægerspris,V_Morten_Skovgaard,Morten Skovgaard,"Venstre, Danmarks Liberale Parti",20
+Frederikssund,5,Jægerspris,V_Charlotte_Drue_Aagaard,Charlotte Drue Aagaard,"Venstre, Danmarks Liberale Parti",95
+Frederikssund,5,Jægerspris,V_Lisbet_Jensen,Lisbet Jensen,"Venstre, Danmarks Liberale Parti",20
+Frederikssund,5,Jægerspris,V_Tom_Lysgaard,Tom Lysgaard,"Venstre, Danmarks Liberale Parti",67
+Frederikssund,5,Jægerspris,V_Neslihan_Güzel,Neslihan Güzel,"Venstre, Danmarks Liberale Parti",1
+Frederikssund,5,Jægerspris,V_Signe_Sysse_Grünfeld-Bierre,Signe Sysse Grünfeld-Bierre,"Venstre, Danmarks Liberale Parti",40
+Frederikssund,5,Jægerspris,V_Mikkel_Johansen,Mikkel Johansen,"Venstre, Danmarks Liberale Parti",5
+Frederikssund,5,Jægerspris,V_Lisbeth_Dupont-Rosenvold,Lisbeth Dupont-Rosenvold,"Venstre, Danmarks Liberale Parti",13
+Frederikssund,5,Jægerspris,V_Martin_Elmegaard,Martin Elmegaard,"Venstre, Danmarks Liberale Parti",8
+Frederikssund,5,Jægerspris,V_Søren_Find_Andersen,Søren Find Andersen,"Venstre, Danmarks Liberale Parti",2
+Frederikssund,5,Jægerspris,V_Christoffer_Christensen,Christoffer Christensen,"Venstre, Danmarks Liberale Parti",3
+Frederikssund,5,Jægerspris,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,126
+Frederikssund,5,Jægerspris,"Ø_Rasmus_Petersen,_Jægerspris","Rasmus Petersen, Jægerspris",Enhedslisten - De Rød-Grønne,35
+Frederikssund,5,Jægerspris,"Ø_Ulrik_Goos_Iversen,_Jægerspris","Ulrik Goos Iversen, Jægerspris",Enhedslisten - De Rød-Grønne,85
+Frederikssund,5,Jægerspris,"Ø_Erik_Andersen,_Skibby","Erik Andersen, Skibby",Enhedslisten - De Rød-Grønne,3
+Frederikssund,5,Jægerspris,"Ø_Kirsten_Folke,_Jægerspris","Kirsten Folke, Jægerspris",Enhedslisten - De Rød-Grønne,67
+Frederikssund,6,Slangerup,A_Listestemmer,Listestemmer,Socialdemokratiet,344
+Frederikssund,6,Slangerup,A_Tina_Tving_Stauning,Tina Tving Stauning,Socialdemokratiet,188
+Frederikssund,6,Slangerup,A_Jesper_Wittenburg,Jesper Wittenburg,Socialdemokratiet,28
+Frederikssund,6,Slangerup,A_Poul_Erik_Skov_Christensen,Poul Erik Skov Christensen,Socialdemokratiet,36
+Frederikssund,6,Slangerup,A_Susanne_Bettina_Jørgensen,Susanne Bettina Jørgensen,Socialdemokratiet,43
+Frederikssund,6,Slangerup,A_Anne-Lise_Kuhre,Anne-Lise Kuhre,Socialdemokratiet,381
+Frederikssund,6,Slangerup,A_Lars_Jepsen,Lars Jepsen,Socialdemokratiet,11
+Frederikssund,6,Slangerup,A_Kenneth_Jensen,Kenneth Jensen,Socialdemokratiet,13
+Frederikssund,6,Slangerup,A_Ozgür_Bardakci,Ozgür Bardakci,Socialdemokratiet,22
+Frederikssund,6,Slangerup,A_Carsten_Cederholm,Carsten Cederholm,Socialdemokratiet,38
+Frederikssund,6,Slangerup,A_Jesper_Henriksen,Jesper Henriksen,Socialdemokratiet,4
+Frederikssund,6,Slangerup,A_Anne-Mette_Olsen,Anne-Mette Olsen,Socialdemokratiet,16
+Frederikssund,6,Slangerup,A_Kim_Egelund,Kim Egelund,Socialdemokratiet,9
+Frederikssund,6,Slangerup,A_Lars_Eitmann,Lars Eitmann,Socialdemokratiet,12
+Frederikssund,6,Slangerup,A_Martin_Kirchgässner,Martin Kirchgässner,Socialdemokratiet,1
+Frederikssund,6,Slangerup,A_Jimmy_Sarvad,Jimmy Sarvad,Socialdemokratiet,12
+Frederikssund,6,Slangerup,A_Julia_Revling,Julia Revling,Socialdemokratiet,3
+Frederikssund,6,Slangerup,A_Sanne_Johansen,Sanne Johansen,Socialdemokratiet,13
+Frederikssund,6,Slangerup,B_Listestemmer,Listestemmer,Radikale Venstre,69
+Frederikssund,6,Slangerup,"B_Søren_Weimann,_Hornsherred","Søren Weimann, Hornsherred",Radikale Venstre,22
+Frederikssund,6,Slangerup,"B_Asbjørn_Laurberg,_Frederikssund","Asbjørn Laurberg, Frederikssund",Radikale Venstre,9
+Frederikssund,6,Slangerup,"B_Sükran_Gezen,_Frederikssund","Sükran Gezen, Frederikssund",Radikale Venstre,7
+Frederikssund,6,Slangerup,"B_Kjartan_Lind,_Frederikssund","Kjartan Lind, Frederikssund",Radikale Venstre,6
+Frederikssund,6,Slangerup,"B_Mark_Barnkob,_Frederikssund","Mark Barnkob, Frederikssund",Radikale Venstre,1
+Frederikssund,6,Slangerup,"B_John_Witt,_Græse_Bakkeby","John Witt, Græse Bakkeby",Radikale Venstre,12
+Frederikssund,6,Slangerup,"B_Kim_Bromberg,_Jægerspris","Kim Bromberg, Jægerspris",Radikale Venstre,17
+Frederikssund,6,Slangerup,"B_Carsten_Nielsen,_Frederikssund","Carsten Nielsen, Frederikssund",Radikale Venstre,1
+Frederikssund,6,Slangerup,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,176
+Frederikssund,6,Slangerup,"C_Niels_Martin_Viuff,_Frederikssund","Niels Martin Viuff, Frederikssund",Det Konservative Folkeparti,53
+Frederikssund,6,Slangerup,"C_Therese_Hejnfelt,_Skibby","Therese Hejnfelt, Skibby",Det Konservative Folkeparti,44
+Frederikssund,6,Slangerup,"C_Nicolai_Pandorff,_Onsved","Nicolai Pandorff, Onsved",Det Konservative Folkeparti,13
+Frederikssund,6,Slangerup,"C_Henrik_Godiksen,_Slangerup","Henrik Godiksen, Slangerup",Det Konservative Folkeparti,182
+Frederikssund,6,Slangerup,"C_Kenneth_Johansen,_St._Rørbæk","Kenneth Johansen, St. Rørbæk",Det Konservative Folkeparti,4
+Frederikssund,6,Slangerup,"C_Jonas_Brandt,_Kyndby_Huse","Jonas Brandt, Kyndby Huse",Det Konservative Folkeparti,14
+Frederikssund,6,Slangerup,"C_Henrik_Biehl,_Skuldelev","Henrik Biehl, Skuldelev",Det Konservative Folkeparti,4
+Frederikssund,6,Slangerup,D_Listestemmer,Listestemmer,Nye Borgerlige,116
+Frederikssund,6,Slangerup,D_Maibritt_Møller_Nielsen,Maibritt Møller Nielsen,Nye Borgerlige,75
+Frederikssund,6,Slangerup,D_Karl_Andersen,Karl Andersen,Nye Borgerlige,10
+Frederikssund,6,Slangerup,D_Lars_Goth,Lars Goth,Nye Borgerlige,1
+Frederikssund,6,Slangerup,D_Ole_Engell_Clausen,Ole Engell Clausen,Nye Borgerlige,9
+Frederikssund,6,Slangerup,D_Tobias_Daniel_Isaksson,Tobias Daniel Isaksson,Nye Borgerlige,24
+Frederikssund,6,Slangerup,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,83
+Frederikssund,6,Slangerup,F_Anna_Poulsen,Anna Poulsen,SF - Socialistisk Folkeparti,95
+Frederikssund,6,Slangerup,F_Ole_Frimann_Hansen,Ole Frimann Hansen,SF - Socialistisk Folkeparti,18
+Frederikssund,6,Slangerup,F_Lone_Terp,Lone Terp,SF - Socialistisk Folkeparti,29
+Frederikssund,6,Slangerup,F_Anders_Madsen,Anders Madsen,SF - Socialistisk Folkeparti,10
+Frederikssund,6,Slangerup,F_Marianne_Stannum,Marianne Stannum,SF - Socialistisk Folkeparti,17
+Frederikssund,6,Slangerup,F_Michael_Grønbech,Michael Grønbech,SF - Socialistisk Folkeparti,8
+Frederikssund,6,Slangerup,H_Listestemmer,Listestemmer,Forenet Frederikssund,1
+Frederikssund,6,Slangerup,H_Niki_Hou_Bagge,Niki Hou Bagge,Forenet Frederikssund,12
+Frederikssund,6,Slangerup,N_Listestemmer,Listestemmer,Fjordlandslisten,46
+Frederikssund,6,Slangerup,N_Kirsten_Weiland,Kirsten Weiland,Fjordlandslisten,32
+Frederikssund,6,Slangerup,N_Ole_Peltola,Ole Peltola,Fjordlandslisten,5
+Frederikssund,6,Slangerup,N_Jørgen_Olsen,Jørgen Olsen,Fjordlandslisten,2
+Frederikssund,6,Slangerup,N_Lennie_Hansen,Lennie Hansen,Fjordlandslisten,2
+Frederikssund,6,Slangerup,N_Morten_Villadsen,Morten Villadsen,Fjordlandslisten,9
+Frederikssund,6,Slangerup,N_Camilla_Cordius,Camilla Cordius,Fjordlandslisten,4
+Frederikssund,6,Slangerup,N_Jan_Lykke,Jan Lykke,Fjordlandslisten,12
+Frederikssund,6,Slangerup,N_John_Ziegler,John Ziegler,Fjordlandslisten,6
+Frederikssund,6,Slangerup,N_Susanne_Bartholin,Susanne Bartholin,Fjordlandslisten,3
+Frederikssund,6,Slangerup,O_Listestemmer,Listestemmer,Dansk Folkeparti,98
+Frederikssund,6,Slangerup,"O_Gert_Løfgren,_Slangerup","Gert Løfgren, Slangerup",Dansk Folkeparti,120
+Frederikssund,6,Slangerup,"O_Inge_Messerschmidt,_Frederikssund","Inge Messerschmidt, Frederikssund",Dansk Folkeparti,36
+Frederikssund,6,Slangerup,"O_Tobias_Weische,_Frederikssund","Tobias Weische, Frederikssund",Dansk Folkeparti,8
+Frederikssund,6,Slangerup,"O_Heidi_Jørgensen,_Jægerspris","Heidi Jørgensen, Jægerspris",Dansk Folkeparti,7
+Frederikssund,6,Slangerup,"O_Jess_Lykke_Christensen,_Skibby","Jess Lykke Christensen, Skibby",Dansk Folkeparti,0
+Frederikssund,6,Slangerup,"O_Andreas_Brøsen,_Slangerup","Andreas Brøsen, Slangerup",Dansk Folkeparti,8
+Frederikssund,6,Slangerup,"O_Berit_Stehr,_Jægerspris","Berit Stehr, Jægerspris",Dansk Folkeparti,0
+Frederikssund,6,Slangerup,"O_Trúgvi_Gudmundarson,_Frederikssund","Trúgvi Gudmundarson, Frederikssund",Dansk Folkeparti,6
+Frederikssund,6,Slangerup,"O_Arne_Dølling,_Frederikssund","Arne Dølling, Frederikssund",Dansk Folkeparti,0
+Frederikssund,6,Slangerup,"O_Jannie_Bøgh,_Skibby","Jannie Bøgh, Skibby",Dansk Folkeparti,57
+Frederikssund,6,Slangerup,P_Listestemmer,Listestemmer,Anja Bisp Pedersen,2
+Frederikssund,6,Slangerup,P_Anja_Bisp_Pedersen,Anja Bisp Pedersen,Anja Bisp Pedersen,1
+Frederikssund,6,Slangerup,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",166
+Frederikssund,6,Slangerup,V_John_Schmidt_Andersen,John Schmidt Andersen,"Venstre, Danmarks Liberale Parti",530
+Frederikssund,6,Slangerup,V_Hans_Andersen,Hans Andersen,"Venstre, Danmarks Liberale Parti",120
+Frederikssund,6,Slangerup,V_Anne_Sofie_Uhrskov,Anne Sofie Uhrskov,"Venstre, Danmarks Liberale Parti",397
+Frederikssund,6,Slangerup,V_Jørgen_Bech,Jørgen Bech,"Venstre, Danmarks Liberale Parti",17
+Frederikssund,6,Slangerup,V_Michael_Tøgersen,Michael Tøgersen,"Venstre, Danmarks Liberale Parti",32
+Frederikssund,6,Slangerup,V_Jens_Jørgensen,Jens Jørgensen,"Venstre, Danmarks Liberale Parti",23
+Frederikssund,6,Slangerup,V_Morten_Skovgaard,Morten Skovgaard,"Venstre, Danmarks Liberale Parti",6
+Frederikssund,6,Slangerup,V_Charlotte_Drue_Aagaard,Charlotte Drue Aagaard,"Venstre, Danmarks Liberale Parti",17
+Frederikssund,6,Slangerup,V_Lisbet_Jensen,Lisbet Jensen,"Venstre, Danmarks Liberale Parti",11
+Frederikssund,6,Slangerup,V_Tom_Lysgaard,Tom Lysgaard,"Venstre, Danmarks Liberale Parti",4
+Frederikssund,6,Slangerup,V_Neslihan_Güzel,Neslihan Güzel,"Venstre, Danmarks Liberale Parti",6
+Frederikssund,6,Slangerup,V_Signe_Sysse_Grünfeld-Bierre,Signe Sysse Grünfeld-Bierre,"Venstre, Danmarks Liberale Parti",11
+Frederikssund,6,Slangerup,V_Mikkel_Johansen,Mikkel Johansen,"Venstre, Danmarks Liberale Parti",3
+Frederikssund,6,Slangerup,V_Lisbeth_Dupont-Rosenvold,Lisbeth Dupont-Rosenvold,"Venstre, Danmarks Liberale Parti",8
+Frederikssund,6,Slangerup,V_Martin_Elmegaard,Martin Elmegaard,"Venstre, Danmarks Liberale Parti",2
+Frederikssund,6,Slangerup,V_Søren_Find_Andersen,Søren Find Andersen,"Venstre, Danmarks Liberale Parti",2
+Frederikssund,6,Slangerup,V_Christoffer_Christensen,Christoffer Christensen,"Venstre, Danmarks Liberale Parti",4
+Frederikssund,6,Slangerup,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,57
+Frederikssund,6,Slangerup,"Ø_Rasmus_Petersen,_Jægerspris","Rasmus Petersen, Jægerspris",Enhedslisten - De Rød-Grønne,18
+Frederikssund,6,Slangerup,"Ø_Ulrik_Goos_Iversen,_Jægerspris","Ulrik Goos Iversen, Jægerspris",Enhedslisten - De Rød-Grønne,27
+Frederikssund,6,Slangerup,"Ø_Erik_Andersen,_Skibby","Erik Andersen, Skibby",Enhedslisten - De Rød-Grønne,3
+Frederikssund,6,Slangerup,"Ø_Kirsten_Folke,_Jægerspris","Kirsten Folke, Jægerspris",Enhedslisten - De Rød-Grønne,19
