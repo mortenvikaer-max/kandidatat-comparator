@@ -105,6 +105,7 @@
           <table class="table-sticky w-full text-sm min-w-[640px]" id="psTable">
             <thead id="psThead"></thead>
             <tbody id="psTbody"></tbody>
+            <tfoot id="psTFoot"></tfoot>
           </table>
         </div>
         <p class="text-xs text-gray-500 mt-2">Tip: Scroll vandret for at se alle kandidater, hvis der vælges mange.</p>
@@ -190,7 +191,6 @@
         state.region = r; state.kommune = "";
         el("kommuneSelect").innerHTML = `<option value="">Vælg region først</option>`;
         el("kommuneSelect").disabled = !r;
-        disableCompareControls();
         state.selected.clear(); renderAll();
         if (r) populateKommuner(r);
       };
@@ -214,7 +214,6 @@
           loadKommuneData(k);
         } else {
           state.rows = [];
-          disableCompareControls();
           renderAll();
         }
       };
@@ -253,9 +252,10 @@
     // ---- Dataindlæsning ----
     async function loadKommuneData(kommune) {
       el("error").textContent = "";
+      const safe = encodeURIComponent(kommune); // HÅNDTER æ/ø/å i filnavne
       const candidates = [
-        `data/${kommune}_allepartier.csv`,
-        `data/${kommune}.csv`,
+        `data/${safe}_allepartier.csv`,
+        `data/${safe}.csv`,
       ];
       for (const url of candidates) {
         try {
@@ -276,7 +276,7 @@
         kommune: canonical(r.kommune),
         valgsted_id: canonical(r.valgsted_id),
         valgsted_navn: canonical(r.valgsted_navn),
-        kandidat_id: canonical(r.kandidat_id || r.kandidat_navn), // fallback hvis ID mangler
+        kandidat_id: canonical(r.kandidat_id || r.kandidat_navn),
         kandidat_navn: canonical(r.kandidat_navn),
         parti: canonical(r.parti),
         stemmer: Number(r.stemmer || 0) || 0,
@@ -369,30 +369,41 @@
       return Array.from(m.values()).sort((a,b)=> a.navn.localeCompare(b.navn,"da"));
     }
 
-    // Tabel pr. valgsted
+    // Tabel pr. valgsted (nu MED kommunetotal nederst – ingen “Total”-kolonne pr. valgsted)
     function renderPsTable(psList, sel) {
       const thead = el("psThead");
       const tbody = el("psTbody");
+      const tfoot = el("psTFoot");
+
       if (!sel.length) {
         thead.innerHTML = `<tr><th class="text-left py-2 pr-3">Valgsted</th></tr>`;
         tbody.innerHTML = `<tr><td class="py-4 text-center text-gray-500" colspan="1">Vælg mindst én kandidat.</td></tr>`;
+        tfoot.innerHTML = "";
         return;
       }
+
+      // Header
       thead.innerHTML =
         `<tr class="text-left border-b">
            <th class="py-2 pr-3 bg-white">Valgsted</th>
            ${sel.map(s => `<th class="py-2 pr-3">${escapeHtml(s.kandidat_navn)} (${escapeHtml(s.parti)})</th>`).join("")}
-           <th class="py-2 pr-3">Total</th>
          </tr>`;
+
+      // Rows: et per valgsted
       tbody.innerHTML = psList.map(ps => {
         const cells = sel.map(s => ps[s.kandidat_id] || 0);
-        const sum = cells.reduce((a,b)=>a+b,0);
         return `<tr class="border-b last:border-0">
                   <td class="py-2 pr-3 font-medium bg-white">${escapeHtml(ps.navn)}</td>
                   ${cells.map(v => `<td class="py-2 pr-3 tabular-nums">${fmt(v)}</td>`).join("")}
-                  <td class="py-2 pr-3 tabular-nums font-medium">${fmt(sum)}</td>
                 </tr>`;
       }).join("");
+
+      // Footer: Kommunetotal pr. kandidat
+      const totals = computeTotalsByCandidate();
+      const totalsCells = sel.map(s => `<td class="py-2 pr-3 tabular-nums font-medium">${fmt(totals.get(s.kandidat_id) || 0)}</td>`).join("");
+      tfoot.innerHTML = `<tr class="border-t">
+        <th class="py-2 pr-3 text-left bg-white">Kommunetotal</th>${totalsCells}
+      </tr>`;
     }
 
     // Diagram pr. valgsted
