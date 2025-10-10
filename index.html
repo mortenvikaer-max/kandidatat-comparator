@@ -19,6 +19,8 @@
     .btn  { @apply inline-flex items-center gap-2 rounded-xl border px-3 py-2; }
     .btn:disabled { @apply opacity-50 cursor-not-allowed; }
     .table-sticky thead th:first-child, .table-sticky tbody td:first-child { position: sticky; left: 0; background: white; }
+    .tabbox { @apply flex-1 rounded-xl border bg-white px-4 py-3 text-center cursor-pointer select-none; }
+    .tabbox.active { @apply border-gray-900 bg-gray-900 text-white; }
   </style>
 </head>
 
@@ -29,7 +31,6 @@
       <div class="text-3xl md:text-4xl font-extrabold tracking-tight">Valgresultater – Kommunalvalg 2021</div>
       <div class="mt-2 text-white/80">Vælg en kommune og få overblik over partier og kandidater.</div>
 
-      <!-- Kommunevælger i hero -->
       <div class="mt-6 grid grid-cols-1 md:grid-cols-3 gap-3">
         <div>
           <label class="text-sm text-white/80">Region</label>
@@ -48,7 +49,7 @@
   <!-- HOVEDINDHOLD -->
   <main class="mx-auto max-w-6xl p-4 space-y-6">
 
-    <!-- PARTI-OVERSIGT: to-panel layout -->
+    <!-- PARTI-OVERSIGT -->
     <section>
       <div class="flex items-center justify-between mb-3">
         <h2 class="text-xl font-semibold">Partier og kandidater</h2>
@@ -56,24 +57,25 @@
       </div>
 
       <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-        <!-- Venstre panel: partier -->
         <aside class="space-y-2 md:col-span-1" id="partyList"></aside>
 
-        <!-- Højre panel: kandidater for valgt parti -->
         <section class="md:col-span-2 card p-4 space-y-3" id="partyDetail">
           <div id="partyDetailHeader" class="text-gray-500 text-sm">Vælg et parti i venstre panel for at se kandidater.</div>
-          <div id="candidateList" class="space-y-2"></div>
+          <div id="candidateList" class="grid grid-cols-1 md:grid-cols-2 gap-2"></div>
         </section>
       </div>
     </section>
 
-    <!-- VALGTE KANDIDATER (chips) — skjules indtil der er valgt nogen -->
+    <!-- VALGTE KANDIDATER -->
     <section id="compareSection" class="card p-4 space-y-3 hidden">
-      <h2 class="font-medium">Kandidat-sammenligning</h2>
-      <div id="selectedChips" class="flex flex-wrap gap-2"></div>
+      <div class="flex items-center justify-between">
+        <h2 class="font-medium">Sammenligning af kandidater</h2>
+        <button id="btnClearAll" class="btn">Nulstil alle valgte kandidater</button>
+      </div>
+      <div id="selectedList" class="space-y-2"></div>
     </section>
 
-    <!-- OPSUMMERING — skjules indtil der er valgt nogen -->
+    <!-- OPSUMMERING -->
     <section id="summarySection" class="card p-4 space-y-3 hidden">
       <h2 class="font-medium">Opsummering (samlede stemmer)</h2>
       <div class="overflow-auto">
@@ -91,11 +93,11 @@
       </div>
     </section>
 
-    <!-- TAB-KORT (tabel+diagram) — skjules indtil der er valgt nogen -->
+    <!-- TABEL/DIAGRAM -->
     <section id="tabsCard" class="card p-4 space-y-4 hidden">
-      <div class="flex gap-2">
-        <button class="chip active" data-tab="valgsted-tabel">Tabel pr. valgsted</button>
-        <button class="chip" data-tab="valgsted-diagram">Diagram pr. valgsted</button>
+      <div class="flex gap-3">
+        <button class="tabbox active" data-tab="valgsted-tabel">Tabel pr. valgsted</button>
+        <button class="tabbox" data-tab="valgsted-diagram">Diagram pr. valgsted</button>
       </div>
 
       <div id="tab-valgsted-tabel">
@@ -168,7 +170,7 @@
       const bg = PARTY_COLORS[letter] || DEFAULT_BADGE_BG;
       const isDefault = !(letter in PARTY_COLORS);
       const fg = isDefault ? DEFAULT_BADGE_FG : "#ffffff";
-      return `background-color:${bg}; color:${fg}; border-color:${bg}`;
+      return { bg, fg, style: `background-color:${bg}; color:${fg}; border-color:${bg}` };
     }
 
     // ——— INIT ———
@@ -187,6 +189,9 @@
           loadKommuneData(k);
         }
       }
+
+      // Nulstil alle
+      el("btnClearAll").onclick = () => { state.selected.clear(); renderAll(); };
     });
 
     // ——— Dropdowns ———
@@ -275,9 +280,7 @@
       const res = [];
       for (const [parti, rows] of byParti.entries()){
         const candMap = new Map();
-        let partyTotal = 0;
         for (const r of rows){
-          partyTotal += r.stemmer;
           if (!candMap.has(r.kandidat_id)){
             candMap.set(r.kandidat_id, {kandidat_id:r.kandidat_id, kandidat_navn:r.kandidat_navn, parti:r.parti, total:0});
           }
@@ -291,7 +294,6 @@
           kandidater
         });
       }
-      // Alfabetisk efter bogstav
       res.sort((a,b)=> a.letter.localeCompare(b.letter, "da"));
       return res;
     }
@@ -306,7 +308,7 @@
       }
       for (const p of stats){
         const div = document.createElement("div");
-        const style = badgeStyleForLetter(p.letter);
+        const { style } = badgeStyleForLetter(p.letter);
         div.className = `flex items-center justify-between rounded-xl border px-3 py-2 cursor-pointer hover:bg-gray-100 transition ${
           state.activeParty === p.parti ? "bg-gray-100 border-gray-400" : "border-gray-200"
         }`;
@@ -334,7 +336,7 @@
       }
     }
 
-    // ——— Højre panel: kandidater (alfabetisk, Listestemmer sidst) ———
+    // ——— Højre panel: kandidater ———
     function renderPartyDetail(parti){
       const header = el("partyDetailHeader");
       const list = el("candidateList");
@@ -350,11 +352,11 @@
 
       for (const k of sorted){
         const row = document.createElement("div");
-        row.className = `flex items-center justify-between rounded-xl border px-3 py-2`;
+        row.className = `rounded-xl border px-3 py-2 flex items-center justify-between`;
         row.innerHTML = `
           <div>
             <div class="font-medium">${escapeHtml(k.kandidat_navn)}</div>
-            <div class="text-xs text-gray-500">${escapeHtml(k.parti)}</div>
+            <div class="text-xs text-gray-500">${escapeHtml(k.parti)} · ${fmt(k.total)} stemmer i alt</div>
           </div>
           <button class="btn" data-add="${k.kandidat_id}">Tilføj</button>
         `;
@@ -378,22 +380,33 @@
       el("tabsCard").classList.toggle("hidden", !hasSel);
     }
 
-    // ——— Valgte kandidater (chips) ———
+    // ——— Valgte kandidater (med partifarve-badge) ———
     function renderSelected(){
-      const root = el("selectedChips");
+      const root = el("selectedList");
       const sel = getSelectedOrdered();
-      root.innerHTML = sel.map(k => `
-        <span class="chip">
-          ${escapeHtml(k.kandidat_navn)} (${escapeHtml(k.parti)})
-          <button class="ml-1" aria-label="Fjern" onclick="removeCandidate('${k.kandidat_id}')">✕</button>
-        </span>
-      `).join("") || `<span class="text-sm text-gray-500">Ingen kandidater valgt endnu.</span>`;
+      root.innerHTML = sel.map(k => {
+        const letter = partiLetter(k.kandidat_id);
+        const { style } = badgeStyleForLetter(letter);
+        return `
+          <div class="rounded-xl border p-3 flex items-center justify-between">
+            <div class="flex items-center gap-3">
+              <div class="h-7 w-7 rounded-full border flex items-center justify-center text-sm font-semibold" style="${style}">
+                ${escapeHtml(letter)}
+              </div>
+              <div class="font-medium">${escapeHtml(k.kandidat_navn)} <span class="text-gray-500">(${escapeHtml(k.parti)})</span></div>
+            </div>
+            <button class="btn" onclick="removeCandidate('${k.kandidat_id}')">Fjern</button>
+          </div>
+        `;
+      }).join("") || `<div class="text-sm text-gray-500">Ingen kandidater valgt endnu.</div>`;
+      // Disable "Nulstil alle" hvis tom
+      el("btnClearAll").disabled = sel.length === 0;
     }
     window.removeCandidate = (kid)=>{ state.selected.delete(kid); renderAll(); };
     function getSelected(){ return Array.from(state.selected.values()); }
     function getSelectedOrdered(){ const s = getSelected().slice(); s.sort(sortKandidaterAlpha); return s; }
 
-    // ——— Opsummering (totale pr. kandidat) ———
+    // ——— Opsummering ———
     function computeTotalsByCandidate(){
       const totals = new Map();
       for (const r of state.rows) totals.set(r.kandidat_id, (totals.get(r.kandidat_id)||0) + r.stemmer);
@@ -468,7 +481,7 @@
     function initTabs(){
       for (const b of document.querySelectorAll("[data-tab]")){
         b.onclick = ()=>{
-          document.querySelectorAll("[data-tab]").forEach(x=>x.classList.remove("active"));
+          document.querySelectorAll(".tabbox").forEach(x=>x.classList.remove("active"));
           b.classList.add("active");
           const t = b.getAttribute("data-tab");
           document.getElementById("tab-valgsted-tabel").classList.toggle("hidden", t!=="valgsted-tabel");
