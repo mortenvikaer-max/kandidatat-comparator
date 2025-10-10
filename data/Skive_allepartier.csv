@@ -1,0 +1,2021 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Skive,1,Aakjær,A_Listestemmer,Listestemmer,Socialdemokratiet,215
+Skive,1,Aakjær,"A_Peder_Christensen,_Skive","Peder Christensen, Skive",Socialdemokratiet,584
+Skive,1,Aakjær,"A_Ruth_Kristensen,_Skive","Ruth Kristensen, Skive",Socialdemokratiet,132
+Skive,1,Aakjær,"A_Niels_Ole_D._Nielsen,_Skive","Niels Ole D. Nielsen, Skive",Socialdemokratiet,39
+Skive,1,Aakjær,"A_Stine_Esther_Christensen,_Egeris","Stine Esther Christensen, Egeris",Socialdemokratiet,134
+Skive,1,Aakjær,"A_Johnny_Kent_Knudsen,_Skive","Johnny Kent Knudsen, Skive",Socialdemokratiet,55
+Skive,1,Aakjær,"A_Bente_Østergaard,_Roslev","Bente Østergaard, Roslev",Socialdemokratiet,10
+Skive,1,Aakjær,"A_Claus_Kjeldsen,_Skive","Claus Kjeldsen, Skive",Socialdemokratiet,6
+Skive,1,Aakjær,"A_Marianne_Fløe_Fejerskov,_Skive","Marianne Fløe Fejerskov, Skive",Socialdemokratiet,28
+Skive,1,Aakjær,"A_Kim_Jepsen,_Ramsing","Kim Jepsen, Ramsing",Socialdemokratiet,46
+Skive,1,Aakjær,"A_Henrik_Godsk,_Rødding","Henrik Godsk, Rødding",Socialdemokratiet,9
+Skive,1,Aakjær,"A_Jan_D._Andersen,_Jebjerg","Jan D. Andersen, Jebjerg",Socialdemokratiet,8
+Skive,1,Aakjær,"A_Keld_Mørk_Kristensen,_Rønbjerg","Keld Mørk Kristensen, Rønbjerg",Socialdemokratiet,25
+Skive,1,Aakjær,"A_Susanne_Grove,_Skive","Susanne Grove, Skive",Socialdemokratiet,12
+Skive,1,Aakjær,"A_Michael_Lundsted_Nielsen,_Hem","Michael Lundsted Nielsen, Hem",Socialdemokratiet,14
+Skive,1,Aakjær,"A_Jonna_Skov,_Skive","Jonna Skov, Skive",Socialdemokratiet,14
+Skive,1,Aakjær,"A_Dorte_Christensen,_Fur","Dorte Christensen, Fur",Socialdemokratiet,5
+Skive,1,Aakjær,"A_Carsten_Høgh_Nielsen,_Nr._Søby","Carsten Høgh Nielsen, Nr. Søby",Socialdemokratiet,2
+Skive,1,Aakjær,"A_Kim_Kurdahl,_Højslev_St.","Kim Kurdahl, Højslev St.",Socialdemokratiet,2
+Skive,1,Aakjær,B_Listestemmer,Listestemmer,Radikale Venstre,45
+Skive,1,Aakjær,"B_Ellen_Bye_Jensen,_Fur","Ellen Bye Jensen, Fur",Radikale Venstre,17
+Skive,1,Aakjær,"B_Henrik_Wæhrens_Winther,_Skive","Henrik Wæhrens Winther, Skive",Radikale Venstre,43
+Skive,1,Aakjær,"B_Solveig_Stausholm-Jensen,_Skive","Solveig Stausholm-Jensen, Skive",Radikale Venstre,24
+Skive,1,Aakjær,"B_Gorm_Wæhrens,_Skive","Gorm Wæhrens, Skive",Radikale Venstre,4
+Skive,1,Aakjær,"B_Egon_Espersen,_Kisumkær","Egon Espersen, Kisumkær",Radikale Venstre,0
+Skive,1,Aakjær,"B_Henning_Linderoth,Jebjerg","Henning Linderoth,Jebjerg",Radikale Venstre,6
+Skive,1,Aakjær,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,54
+Skive,1,Aakjær,"C_Mogens_Birkelund,_Højslev","Mogens Birkelund, Højslev",Det Konservative Folkeparti,55
+Skive,1,Aakjær,"C_Kenneth_J._Grinderslev,_Roslev","Kenneth J. Grinderslev, Roslev",Det Konservative Folkeparti,12
+Skive,1,Aakjær,"C_Palle_Christensen,_Skive","Palle Christensen, Skive",Det Konservative Folkeparti,17
+Skive,1,Aakjær,"C_Peter_Søndergaard,_Dølby","Peter Søndergaard, Dølby",Det Konservative Folkeparti,2
+Skive,1,Aakjær,"C_Carl_Eiler_Carlsen,_Glyngøre","Carl Eiler Carlsen, Glyngøre",Det Konservative Folkeparti,10
+Skive,1,Aakjær,"C_Bjarne_Linneberg,_Skive","Bjarne Linneberg, Skive",Det Konservative Folkeparti,33
+Skive,1,Aakjær,D_Listestemmer,Listestemmer,Nye Borgerlige,56
+Skive,1,Aakjær,"D_Erik_Mortensen,_Vile","Erik Mortensen, Vile",Nye Borgerlige,36
+Skive,1,Aakjær,"D_Annie_Kaagaard_Kristensen,_Breum","Annie Kaagaard Kristensen, Breum",Nye Borgerlige,13
+Skive,1,Aakjær,"D_Morten_Jensen,_Skive","Morten Jensen, Skive",Nye Borgerlige,50
+Skive,1,Aakjær,"D_Søren_Andersen,_Højslev","Søren Andersen, Højslev",Nye Borgerlige,3
+Skive,1,Aakjær,"D_Frank_Dons_Pedersen,_Skive","Frank Dons Pedersen, Skive",Nye Borgerlige,5
+Skive,1,Aakjær,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,62
+Skive,1,Aakjær,"F_Anders_Bøge,Lihme","Anders Bøge,Lihme",SF - Socialistisk Folkeparti,68
+Skive,1,Aakjær,"F_Elsemarie_Trøst,_Skive","Elsemarie Trøst, Skive",SF - Socialistisk Folkeparti,41
+Skive,1,Aakjær,"F_Mia_Sönchen_Johansen,_Skive","Mia Sönchen Johansen, Skive",SF - Socialistisk Folkeparti,78
+Skive,1,Aakjær,"F_Jeppe_Tandal_Nielsen,_Skive","Jeppe Tandal Nielsen, Skive",SF - Socialistisk Folkeparti,23
+Skive,1,Aakjær,"F_Frits_Laursen,_Glyngøre","Frits Laursen, Glyngøre",SF - Socialistisk Folkeparti,5
+Skive,1,Aakjær,"F_Henrik_Bollesen_Nielsen,_Skive","Henrik Bollesen Nielsen, Skive",SF - Socialistisk Folkeparti,17
+Skive,1,Aakjær,"F_Thue_Grum-Schwensen,_Spøttrup","Thue Grum-Schwensen, Spøttrup",SF - Socialistisk Folkeparti,7
+Skive,1,Aakjær,"F_Thomas_D._Sølvsten,_Brårup","Thomas D. Sølvsten, Brårup",SF - Socialistisk Folkeparti,2
+Skive,1,Aakjær,"F_Else_Stokholm,_Skive","Else Stokholm, Skive",SF - Socialistisk Folkeparti,7
+Skive,1,Aakjær,"F_Ole_Bisgaard,_Skive","Ole Bisgaard, Skive",SF - Socialistisk Folkeparti,4
+Skive,1,Aakjær,"F_Vagn_Pedersen,_Skive","Vagn Pedersen, Skive",SF - Socialistisk Folkeparti,3
+Skive,1,Aakjær,M_Listestemmer,Listestemmer,Skive-Listen,46
+Skive,1,Aakjær,M_Per_B._Jeppesen,Per B. Jeppesen,Skive-Listen,167
+Skive,1,Aakjær,M_Lars_Thoft_Thomsen,Lars Thoft Thomsen,Skive-Listen,23
+Skive,1,Aakjær,M_Annette_Daniels_Møller,Annette Daniels Møller,Skive-Listen,9
+Skive,1,Aakjær,M_Knud_Mogensen,Knud Mogensen,Skive-Listen,8
+Skive,1,Aakjær,M_Hanne_Louise_Eriksen,Hanne Louise Eriksen,Skive-Listen,8
+Skive,1,Aakjær,M_Henrik_Skaarup,Henrik Skaarup,Skive-Listen,8
+Skive,1,Aakjær,M_Bente_I._Kristensen,Bente I. Kristensen,Skive-Listen,3
+Skive,1,Aakjær,M_Leif_Winther,Leif Winther,Skive-Listen,4
+Skive,1,Aakjær,M_Jesper_Laursen,Jesper Laursen,Skive-Listen,7
+Skive,1,Aakjær,M_Marianne_Bro,Marianne Bro,Skive-Listen,4
+Skive,1,Aakjær,M_Leif_Mikkelsen,Leif Mikkelsen,Skive-Listen,12
+Skive,1,Aakjær,M_Jan_Plovmand,Jan Plovmand,Skive-Listen,0
+Skive,1,Aakjær,M_Heine_Sørensen,Heine Sørensen,Skive-Listen,0
+Skive,1,Aakjær,M_Ole_Lindhard,Ole Lindhard,Skive-Listen,49
+Skive,1,Aakjær,O_Listestemmer,Listestemmer,Dansk Folkeparti,47
+Skive,1,Aakjær,"O_Peter_Mousten_Vestergård,_Jebjerg","Peter Mousten Vestergård, Jebjerg",Dansk Folkeparti,22
+Skive,1,Aakjær,"O_Tom_Bøgholm,_Skive","Tom Bøgholm, Skive",Dansk Folkeparti,31
+Skive,1,Aakjær,"O_Anders_Simmelsgaard_Krogh,_Brårup","Anders Simmelsgaard Krogh, Brårup",Dansk Folkeparti,16
+Skive,1,Aakjær,"O_Keld_Fausing,_Højslev","Keld Fausing, Højslev",Dansk Folkeparti,4
+Skive,1,Aakjær,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",158
+Skive,1,Aakjær,V_Peder_Christian_Kirkegaard,Peder Christian Kirkegaard,"Venstre, Danmarks Liberale Parti",715
+Skive,1,Aakjær,V_Jens_Have,Jens Have,"Venstre, Danmarks Liberale Parti",33
+Skive,1,Aakjær,V_Matthias_Landeværn_Nielsen,Matthias Landeværn Nielsen,"Venstre, Danmarks Liberale Parti",14
+Skive,1,Aakjær,V_Alfred_Brunsgaard,Alfred Brunsgaard,"Venstre, Danmarks Liberale Parti",95
+Skive,1,Aakjær,V_Alice_Bro_Grønvaldt,Alice Bro Grønvaldt,"Venstre, Danmarks Liberale Parti",25
+Skive,1,Aakjær,V_Annette_Torp,Annette Torp,"Venstre, Danmarks Liberale Parti",15
+Skive,1,Aakjær,V_Betina_Bugge,Betina Bugge,"Venstre, Danmarks Liberale Parti",7
+Skive,1,Aakjær,V_Christian_Vad_Holm,Christian Vad Holm,"Venstre, Danmarks Liberale Parti",23
+Skive,1,Aakjær,V_Dorthe_Dalsgaard,Dorthe Dalsgaard,"Venstre, Danmarks Liberale Parti",13
+Skive,1,Aakjær,V_Evan_Holst,Evan Holst,"Venstre, Danmarks Liberale Parti",13
+Skive,1,Aakjær,V_Goska_Rasmussen,Goska Rasmussen,"Venstre, Danmarks Liberale Parti",40
+Skive,1,Aakjær,V_Gregers_Frederiksen,Gregers Frederiksen,"Venstre, Danmarks Liberale Parti",17
+Skive,1,Aakjær,V_Hanne_Brogaard,Hanne Brogaard,"Venstre, Danmarks Liberale Parti",9
+Skive,1,Aakjær,V_Ina_Nyvang,Ina Nyvang,"Venstre, Danmarks Liberale Parti",8
+Skive,1,Aakjær,V_Karsten_Nørholm_Villadsen,Karsten Nørholm Villadsen,"Venstre, Danmarks Liberale Parti",4
+Skive,1,Aakjær,V_Kenneth_Enggrob,Kenneth Enggrob,"Venstre, Danmarks Liberale Parti",4
+Skive,1,Aakjær,V_Mogens_Børsting,Mogens Børsting,"Venstre, Danmarks Liberale Parti",7
+Skive,1,Aakjær,V_Morten_Enggaard,Morten Enggaard,"Venstre, Danmarks Liberale Parti",30
+Skive,1,Aakjær,V_Olav_Nørgaard,Olav Nørgaard,"Venstre, Danmarks Liberale Parti",13
+Skive,1,Aakjær,V_Ole_Faarkrog-Søgaard,Ole Faarkrog-Søgaard,"Venstre, Danmarks Liberale Parti",28
+Skive,1,Aakjær,V_Susanne_Toftegaard_Hansen,Susanne Toftegaard Hansen,"Venstre, Danmarks Liberale Parti",20
+Skive,1,Aakjær,V_Susanne_Rusbjerg,Susanne Rusbjerg,"Venstre, Danmarks Liberale Parti",6
+Skive,1,Aakjær,V_Tom_Nykjær,Tom Nykjær,"Venstre, Danmarks Liberale Parti",3
+Skive,1,Aakjær,Æ_Listestemmer,Listestemmer,Frihedslisten,4
+Skive,1,Aakjær,"Æ_Bente_Dahl_Pedersen,_Hem","Bente Dahl Pedersen, Hem",Frihedslisten,9
+Skive,1,Aakjær,"Æ_Gitte_Lind_Bendixen,_Selde","Gitte Lind Bendixen, Selde",Frihedslisten,1
+Skive,1,Aakjær,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,43
+Skive,1,Aakjær,Ø_Helle_Nørgaard_Lundsby,Helle Nørgaard Lundsby,Enhedslisten - De Rød-Grønne,43
+Skive,1,Aakjær,Ø_Jacob_Abildgaard,Jacob Abildgaard,Enhedslisten - De Rød-Grønne,6
+Skive,2,Skivehus,A_Listestemmer,Listestemmer,Socialdemokratiet,161
+Skive,2,Skivehus,"A_Peder_Christensen,_Skive","Peder Christensen, Skive",Socialdemokratiet,546
+Skive,2,Skivehus,"A_Ruth_Kristensen,_Skive","Ruth Kristensen, Skive",Socialdemokratiet,83
+Skive,2,Skivehus,"A_Niels_Ole_D._Nielsen,_Skive","Niels Ole D. Nielsen, Skive",Socialdemokratiet,39
+Skive,2,Skivehus,"A_Stine_Esther_Christensen,_Egeris","Stine Esther Christensen, Egeris",Socialdemokratiet,114
+Skive,2,Skivehus,"A_Johnny_Kent_Knudsen,_Skive","Johnny Kent Knudsen, Skive",Socialdemokratiet,43
+Skive,2,Skivehus,"A_Bente_Østergaard,_Roslev","Bente Østergaard, Roslev",Socialdemokratiet,4
+Skive,2,Skivehus,"A_Claus_Kjeldsen,_Skive","Claus Kjeldsen, Skive",Socialdemokratiet,8
+Skive,2,Skivehus,"A_Marianne_Fløe_Fejerskov,_Skive","Marianne Fløe Fejerskov, Skive",Socialdemokratiet,28
+Skive,2,Skivehus,"A_Kim_Jepsen,_Ramsing","Kim Jepsen, Ramsing",Socialdemokratiet,16
+Skive,2,Skivehus,"A_Henrik_Godsk,_Rødding","Henrik Godsk, Rødding",Socialdemokratiet,6
+Skive,2,Skivehus,"A_Jan_D._Andersen,_Jebjerg","Jan D. Andersen, Jebjerg",Socialdemokratiet,8
+Skive,2,Skivehus,"A_Keld_Mørk_Kristensen,_Rønbjerg","Keld Mørk Kristensen, Rønbjerg",Socialdemokratiet,12
+Skive,2,Skivehus,"A_Susanne_Grove,_Skive","Susanne Grove, Skive",Socialdemokratiet,4
+Skive,2,Skivehus,"A_Michael_Lundsted_Nielsen,_Hem","Michael Lundsted Nielsen, Hem",Socialdemokratiet,11
+Skive,2,Skivehus,"A_Jonna_Skov,_Skive","Jonna Skov, Skive",Socialdemokratiet,17
+Skive,2,Skivehus,"A_Dorte_Christensen,_Fur","Dorte Christensen, Fur",Socialdemokratiet,0
+Skive,2,Skivehus,"A_Carsten_Høgh_Nielsen,_Nr._Søby","Carsten Høgh Nielsen, Nr. Søby",Socialdemokratiet,4
+Skive,2,Skivehus,"A_Kim_Kurdahl,_Højslev_St.","Kim Kurdahl, Højslev St.",Socialdemokratiet,2
+Skive,2,Skivehus,B_Listestemmer,Listestemmer,Radikale Venstre,20
+Skive,2,Skivehus,"B_Ellen_Bye_Jensen,_Fur","Ellen Bye Jensen, Fur",Radikale Venstre,11
+Skive,2,Skivehus,"B_Henrik_Wæhrens_Winther,_Skive","Henrik Wæhrens Winther, Skive",Radikale Venstre,67
+Skive,2,Skivehus,"B_Solveig_Stausholm-Jensen,_Skive","Solveig Stausholm-Jensen, Skive",Radikale Venstre,18
+Skive,2,Skivehus,"B_Gorm_Wæhrens,_Skive","Gorm Wæhrens, Skive",Radikale Venstre,8
+Skive,2,Skivehus,"B_Egon_Espersen,_Kisumkær","Egon Espersen, Kisumkær",Radikale Venstre,0
+Skive,2,Skivehus,"B_Henning_Linderoth,Jebjerg","Henning Linderoth,Jebjerg",Radikale Venstre,3
+Skive,2,Skivehus,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,72
+Skive,2,Skivehus,"C_Mogens_Birkelund,_Højslev","Mogens Birkelund, Højslev",Det Konservative Folkeparti,83
+Skive,2,Skivehus,"C_Kenneth_J._Grinderslev,_Roslev","Kenneth J. Grinderslev, Roslev",Det Konservative Folkeparti,4
+Skive,2,Skivehus,"C_Palle_Christensen,_Skive","Palle Christensen, Skive",Det Konservative Folkeparti,17
+Skive,2,Skivehus,"C_Peter_Søndergaard,_Dølby","Peter Søndergaard, Dølby",Det Konservative Folkeparti,7
+Skive,2,Skivehus,"C_Carl_Eiler_Carlsen,_Glyngøre","Carl Eiler Carlsen, Glyngøre",Det Konservative Folkeparti,4
+Skive,2,Skivehus,"C_Bjarne_Linneberg,_Skive","Bjarne Linneberg, Skive",Det Konservative Folkeparti,23
+Skive,2,Skivehus,D_Listestemmer,Listestemmer,Nye Borgerlige,41
+Skive,2,Skivehus,"D_Erik_Mortensen,_Vile","Erik Mortensen, Vile",Nye Borgerlige,17
+Skive,2,Skivehus,"D_Annie_Kaagaard_Kristensen,_Breum","Annie Kaagaard Kristensen, Breum",Nye Borgerlige,9
+Skive,2,Skivehus,"D_Morten_Jensen,_Skive","Morten Jensen, Skive",Nye Borgerlige,35
+Skive,2,Skivehus,"D_Søren_Andersen,_Højslev","Søren Andersen, Højslev",Nye Borgerlige,2
+Skive,2,Skivehus,"D_Frank_Dons_Pedersen,_Skive","Frank Dons Pedersen, Skive",Nye Borgerlige,8
+Skive,2,Skivehus,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,47
+Skive,2,Skivehus,"F_Anders_Bøge,Lihme","Anders Bøge,Lihme",SF - Socialistisk Folkeparti,101
+Skive,2,Skivehus,"F_Elsemarie_Trøst,_Skive","Elsemarie Trøst, Skive",SF - Socialistisk Folkeparti,22
+Skive,2,Skivehus,"F_Mia_Sönchen_Johansen,_Skive","Mia Sönchen Johansen, Skive",SF - Socialistisk Folkeparti,41
+Skive,2,Skivehus,"F_Jeppe_Tandal_Nielsen,_Skive","Jeppe Tandal Nielsen, Skive",SF - Socialistisk Folkeparti,14
+Skive,2,Skivehus,"F_Frits_Laursen,_Glyngøre","Frits Laursen, Glyngøre",SF - Socialistisk Folkeparti,7
+Skive,2,Skivehus,"F_Henrik_Bollesen_Nielsen,_Skive","Henrik Bollesen Nielsen, Skive",SF - Socialistisk Folkeparti,45
+Skive,2,Skivehus,"F_Thue_Grum-Schwensen,_Spøttrup","Thue Grum-Schwensen, Spøttrup",SF - Socialistisk Folkeparti,7
+Skive,2,Skivehus,"F_Thomas_D._Sølvsten,_Brårup","Thomas D. Sølvsten, Brårup",SF - Socialistisk Folkeparti,0
+Skive,2,Skivehus,"F_Else_Stokholm,_Skive","Else Stokholm, Skive",SF - Socialistisk Folkeparti,7
+Skive,2,Skivehus,"F_Ole_Bisgaard,_Skive","Ole Bisgaard, Skive",SF - Socialistisk Folkeparti,0
+Skive,2,Skivehus,"F_Vagn_Pedersen,_Skive","Vagn Pedersen, Skive",SF - Socialistisk Folkeparti,4
+Skive,2,Skivehus,M_Listestemmer,Listestemmer,Skive-Listen,34
+Skive,2,Skivehus,M_Per_B._Jeppesen,Per B. Jeppesen,Skive-Listen,140
+Skive,2,Skivehus,M_Lars_Thoft_Thomsen,Lars Thoft Thomsen,Skive-Listen,17
+Skive,2,Skivehus,M_Annette_Daniels_Møller,Annette Daniels Møller,Skive-Listen,9
+Skive,2,Skivehus,M_Knud_Mogensen,Knud Mogensen,Skive-Listen,7
+Skive,2,Skivehus,M_Hanne_Louise_Eriksen,Hanne Louise Eriksen,Skive-Listen,3
+Skive,2,Skivehus,M_Henrik_Skaarup,Henrik Skaarup,Skive-Listen,3
+Skive,2,Skivehus,M_Bente_I._Kristensen,Bente I. Kristensen,Skive-Listen,1
+Skive,2,Skivehus,M_Leif_Winther,Leif Winther,Skive-Listen,3
+Skive,2,Skivehus,M_Jesper_Laursen,Jesper Laursen,Skive-Listen,13
+Skive,2,Skivehus,M_Marianne_Bro,Marianne Bro,Skive-Listen,1
+Skive,2,Skivehus,M_Leif_Mikkelsen,Leif Mikkelsen,Skive-Listen,10
+Skive,2,Skivehus,M_Jan_Plovmand,Jan Plovmand,Skive-Listen,0
+Skive,2,Skivehus,M_Heine_Sørensen,Heine Sørensen,Skive-Listen,0
+Skive,2,Skivehus,M_Ole_Lindhard,Ole Lindhard,Skive-Listen,16
+Skive,2,Skivehus,O_Listestemmer,Listestemmer,Dansk Folkeparti,34
+Skive,2,Skivehus,"O_Peter_Mousten_Vestergård,_Jebjerg","Peter Mousten Vestergård, Jebjerg",Dansk Folkeparti,12
+Skive,2,Skivehus,"O_Tom_Bøgholm,_Skive","Tom Bøgholm, Skive",Dansk Folkeparti,13
+Skive,2,Skivehus,"O_Anders_Simmelsgaard_Krogh,_Brårup","Anders Simmelsgaard Krogh, Brårup",Dansk Folkeparti,8
+Skive,2,Skivehus,"O_Keld_Fausing,_Højslev","Keld Fausing, Højslev",Dansk Folkeparti,1
+Skive,2,Skivehus,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",122
+Skive,2,Skivehus,V_Peder_Christian_Kirkegaard,Peder Christian Kirkegaard,"Venstre, Danmarks Liberale Parti",812
+Skive,2,Skivehus,V_Jens_Have,Jens Have,"Venstre, Danmarks Liberale Parti",18
+Skive,2,Skivehus,V_Matthias_Landeværn_Nielsen,Matthias Landeværn Nielsen,"Venstre, Danmarks Liberale Parti",10
+Skive,2,Skivehus,V_Alfred_Brunsgaard,Alfred Brunsgaard,"Venstre, Danmarks Liberale Parti",125
+Skive,2,Skivehus,V_Alice_Bro_Grønvaldt,Alice Bro Grønvaldt,"Venstre, Danmarks Liberale Parti",28
+Skive,2,Skivehus,V_Annette_Torp,Annette Torp,"Venstre, Danmarks Liberale Parti",5
+Skive,2,Skivehus,V_Betina_Bugge,Betina Bugge,"Venstre, Danmarks Liberale Parti",7
+Skive,2,Skivehus,V_Christian_Vad_Holm,Christian Vad Holm,"Venstre, Danmarks Liberale Parti",30
+Skive,2,Skivehus,V_Dorthe_Dalsgaard,Dorthe Dalsgaard,"Venstre, Danmarks Liberale Parti",6
+Skive,2,Skivehus,V_Evan_Holst,Evan Holst,"Venstre, Danmarks Liberale Parti",17
+Skive,2,Skivehus,V_Goska_Rasmussen,Goska Rasmussen,"Venstre, Danmarks Liberale Parti",69
+Skive,2,Skivehus,V_Gregers_Frederiksen,Gregers Frederiksen,"Venstre, Danmarks Liberale Parti",20
+Skive,2,Skivehus,V_Hanne_Brogaard,Hanne Brogaard,"Venstre, Danmarks Liberale Parti",5
+Skive,2,Skivehus,V_Ina_Nyvang,Ina Nyvang,"Venstre, Danmarks Liberale Parti",13
+Skive,2,Skivehus,V_Karsten_Nørholm_Villadsen,Karsten Nørholm Villadsen,"Venstre, Danmarks Liberale Parti",1
+Skive,2,Skivehus,V_Kenneth_Enggrob,Kenneth Enggrob,"Venstre, Danmarks Liberale Parti",5
+Skive,2,Skivehus,V_Mogens_Børsting,Mogens Børsting,"Venstre, Danmarks Liberale Parti",5
+Skive,2,Skivehus,V_Morten_Enggaard,Morten Enggaard,"Venstre, Danmarks Liberale Parti",136
+Skive,2,Skivehus,V_Olav_Nørgaard,Olav Nørgaard,"Venstre, Danmarks Liberale Parti",6
+Skive,2,Skivehus,V_Ole_Faarkrog-Søgaard,Ole Faarkrog-Søgaard,"Venstre, Danmarks Liberale Parti",31
+Skive,2,Skivehus,V_Susanne_Toftegaard_Hansen,Susanne Toftegaard Hansen,"Venstre, Danmarks Liberale Parti",117
+Skive,2,Skivehus,V_Susanne_Rusbjerg,Susanne Rusbjerg,"Venstre, Danmarks Liberale Parti",3
+Skive,2,Skivehus,V_Tom_Nykjær,Tom Nykjær,"Venstre, Danmarks Liberale Parti",1
+Skive,2,Skivehus,Æ_Listestemmer,Listestemmer,Frihedslisten,2
+Skive,2,Skivehus,"Æ_Bente_Dahl_Pedersen,_Hem","Bente Dahl Pedersen, Hem",Frihedslisten,5
+Skive,2,Skivehus,"Æ_Gitte_Lind_Bendixen,_Selde","Gitte Lind Bendixen, Selde",Frihedslisten,0
+Skive,2,Skivehus,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,22
+Skive,2,Skivehus,Ø_Helle_Nørgaard_Lundsby,Helle Nørgaard Lundsby,Enhedslisten - De Rød-Grønne,15
+Skive,2,Skivehus,Ø_Jacob_Abildgaard,Jacob Abildgaard,Enhedslisten - De Rød-Grønne,6
+Skive,3,Brårup,A_Listestemmer,Listestemmer,Socialdemokratiet,181
+Skive,3,Brårup,"A_Peder_Christensen,_Skive","Peder Christensen, Skive",Socialdemokratiet,492
+Skive,3,Brårup,"A_Ruth_Kristensen,_Skive","Ruth Kristensen, Skive",Socialdemokratiet,44
+Skive,3,Brårup,"A_Niels_Ole_D._Nielsen,_Skive","Niels Ole D. Nielsen, Skive",Socialdemokratiet,198
+Skive,3,Brårup,"A_Stine_Esther_Christensen,_Egeris","Stine Esther Christensen, Egeris",Socialdemokratiet,220
+Skive,3,Brårup,"A_Johnny_Kent_Knudsen,_Skive","Johnny Kent Knudsen, Skive",Socialdemokratiet,70
+Skive,3,Brårup,"A_Bente_Østergaard,_Roslev","Bente Østergaard, Roslev",Socialdemokratiet,3
+Skive,3,Brårup,"A_Claus_Kjeldsen,_Skive","Claus Kjeldsen, Skive",Socialdemokratiet,7
+Skive,3,Brårup,"A_Marianne_Fløe_Fejerskov,_Skive","Marianne Fløe Fejerskov, Skive",Socialdemokratiet,28
+Skive,3,Brårup,"A_Kim_Jepsen,_Ramsing","Kim Jepsen, Ramsing",Socialdemokratiet,22
+Skive,3,Brårup,"A_Henrik_Godsk,_Rødding","Henrik Godsk, Rødding",Socialdemokratiet,10
+Skive,3,Brårup,"A_Jan_D._Andersen,_Jebjerg","Jan D. Andersen, Jebjerg",Socialdemokratiet,5
+Skive,3,Brårup,"A_Keld_Mørk_Kristensen,_Rønbjerg","Keld Mørk Kristensen, Rønbjerg",Socialdemokratiet,19
+Skive,3,Brårup,"A_Susanne_Grove,_Skive","Susanne Grove, Skive",Socialdemokratiet,7
+Skive,3,Brårup,"A_Michael_Lundsted_Nielsen,_Hem","Michael Lundsted Nielsen, Hem",Socialdemokratiet,7
+Skive,3,Brårup,"A_Jonna_Skov,_Skive","Jonna Skov, Skive",Socialdemokratiet,14
+Skive,3,Brårup,"A_Dorte_Christensen,_Fur","Dorte Christensen, Fur",Socialdemokratiet,0
+Skive,3,Brårup,"A_Carsten_Høgh_Nielsen,_Nr._Søby","Carsten Høgh Nielsen, Nr. Søby",Socialdemokratiet,3
+Skive,3,Brårup,"A_Kim_Kurdahl,_Højslev_St.","Kim Kurdahl, Højslev St.",Socialdemokratiet,2
+Skive,3,Brårup,B_Listestemmer,Listestemmer,Radikale Venstre,22
+Skive,3,Brårup,"B_Ellen_Bye_Jensen,_Fur","Ellen Bye Jensen, Fur",Radikale Venstre,17
+Skive,3,Brårup,"B_Henrik_Wæhrens_Winther,_Skive","Henrik Wæhrens Winther, Skive",Radikale Venstre,21
+Skive,3,Brårup,"B_Solveig_Stausholm-Jensen,_Skive","Solveig Stausholm-Jensen, Skive",Radikale Venstre,16
+Skive,3,Brårup,"B_Gorm_Wæhrens,_Skive","Gorm Wæhrens, Skive",Radikale Venstre,7
+Skive,3,Brårup,"B_Egon_Espersen,_Kisumkær","Egon Espersen, Kisumkær",Radikale Venstre,1
+Skive,3,Brårup,"B_Henning_Linderoth,Jebjerg","Henning Linderoth,Jebjerg",Radikale Venstre,6
+Skive,3,Brårup,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,48
+Skive,3,Brårup,"C_Mogens_Birkelund,_Højslev","Mogens Birkelund, Højslev",Det Konservative Folkeparti,30
+Skive,3,Brårup,"C_Kenneth_J._Grinderslev,_Roslev","Kenneth J. Grinderslev, Roslev",Det Konservative Folkeparti,2
+Skive,3,Brårup,"C_Palle_Christensen,_Skive","Palle Christensen, Skive",Det Konservative Folkeparti,31
+Skive,3,Brårup,"C_Peter_Søndergaard,_Dølby","Peter Søndergaard, Dølby",Det Konservative Folkeparti,3
+Skive,3,Brårup,"C_Carl_Eiler_Carlsen,_Glyngøre","Carl Eiler Carlsen, Glyngøre",Det Konservative Folkeparti,7
+Skive,3,Brårup,"C_Bjarne_Linneberg,_Skive","Bjarne Linneberg, Skive",Det Konservative Folkeparti,29
+Skive,3,Brårup,D_Listestemmer,Listestemmer,Nye Borgerlige,38
+Skive,3,Brårup,"D_Erik_Mortensen,_Vile","Erik Mortensen, Vile",Nye Borgerlige,14
+Skive,3,Brårup,"D_Annie_Kaagaard_Kristensen,_Breum","Annie Kaagaard Kristensen, Breum",Nye Borgerlige,12
+Skive,3,Brårup,"D_Morten_Jensen,_Skive","Morten Jensen, Skive",Nye Borgerlige,26
+Skive,3,Brårup,"D_Søren_Andersen,_Højslev","Søren Andersen, Højslev",Nye Borgerlige,2
+Skive,3,Brårup,"D_Frank_Dons_Pedersen,_Skive","Frank Dons Pedersen, Skive",Nye Borgerlige,2
+Skive,3,Brårup,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,45
+Skive,3,Brårup,"F_Anders_Bøge,Lihme","Anders Bøge,Lihme",SF - Socialistisk Folkeparti,75
+Skive,3,Brårup,"F_Elsemarie_Trøst,_Skive","Elsemarie Trøst, Skive",SF - Socialistisk Folkeparti,24
+Skive,3,Brårup,"F_Mia_Sönchen_Johansen,_Skive","Mia Sönchen Johansen, Skive",SF - Socialistisk Folkeparti,46
+Skive,3,Brårup,"F_Jeppe_Tandal_Nielsen,_Skive","Jeppe Tandal Nielsen, Skive",SF - Socialistisk Folkeparti,21
+Skive,3,Brårup,"F_Frits_Laursen,_Glyngøre","Frits Laursen, Glyngøre",SF - Socialistisk Folkeparti,10
+Skive,3,Brårup,"F_Henrik_Bollesen_Nielsen,_Skive","Henrik Bollesen Nielsen, Skive",SF - Socialistisk Folkeparti,36
+Skive,3,Brårup,"F_Thue_Grum-Schwensen,_Spøttrup","Thue Grum-Schwensen, Spøttrup",SF - Socialistisk Folkeparti,7
+Skive,3,Brårup,"F_Thomas_D._Sølvsten,_Brårup","Thomas D. Sølvsten, Brårup",SF - Socialistisk Folkeparti,4
+Skive,3,Brårup,"F_Else_Stokholm,_Skive","Else Stokholm, Skive",SF - Socialistisk Folkeparti,3
+Skive,3,Brårup,"F_Ole_Bisgaard,_Skive","Ole Bisgaard, Skive",SF - Socialistisk Folkeparti,0
+Skive,3,Brårup,"F_Vagn_Pedersen,_Skive","Vagn Pedersen, Skive",SF - Socialistisk Folkeparti,5
+Skive,3,Brårup,M_Listestemmer,Listestemmer,Skive-Listen,37
+Skive,3,Brårup,M_Per_B._Jeppesen,Per B. Jeppesen,Skive-Listen,247
+Skive,3,Brårup,M_Lars_Thoft_Thomsen,Lars Thoft Thomsen,Skive-Listen,20
+Skive,3,Brårup,M_Annette_Daniels_Møller,Annette Daniels Møller,Skive-Listen,10
+Skive,3,Brårup,M_Knud_Mogensen,Knud Mogensen,Skive-Listen,3
+Skive,3,Brårup,M_Hanne_Louise_Eriksen,Hanne Louise Eriksen,Skive-Listen,4
+Skive,3,Brårup,M_Henrik_Skaarup,Henrik Skaarup,Skive-Listen,10
+Skive,3,Brårup,M_Bente_I._Kristensen,Bente I. Kristensen,Skive-Listen,5
+Skive,3,Brårup,M_Leif_Winther,Leif Winther,Skive-Listen,7
+Skive,3,Brårup,M_Jesper_Laursen,Jesper Laursen,Skive-Listen,9
+Skive,3,Brårup,M_Marianne_Bro,Marianne Bro,Skive-Listen,1
+Skive,3,Brårup,M_Leif_Mikkelsen,Leif Mikkelsen,Skive-Listen,10
+Skive,3,Brårup,M_Jan_Plovmand,Jan Plovmand,Skive-Listen,2
+Skive,3,Brårup,M_Heine_Sørensen,Heine Sørensen,Skive-Listen,0
+Skive,3,Brårup,M_Ole_Lindhard,Ole Lindhard,Skive-Listen,34
+Skive,3,Brårup,O_Listestemmer,Listestemmer,Dansk Folkeparti,47
+Skive,3,Brårup,"O_Peter_Mousten_Vestergård,_Jebjerg","Peter Mousten Vestergård, Jebjerg",Dansk Folkeparti,10
+Skive,3,Brårup,"O_Tom_Bøgholm,_Skive","Tom Bøgholm, Skive",Dansk Folkeparti,28
+Skive,3,Brårup,"O_Anders_Simmelsgaard_Krogh,_Brårup","Anders Simmelsgaard Krogh, Brårup",Dansk Folkeparti,21
+Skive,3,Brårup,"O_Keld_Fausing,_Højslev","Keld Fausing, Højslev",Dansk Folkeparti,0
+Skive,3,Brårup,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",114
+Skive,3,Brårup,V_Peder_Christian_Kirkegaard,Peder Christian Kirkegaard,"Venstre, Danmarks Liberale Parti",640
+Skive,3,Brårup,V_Jens_Have,Jens Have,"Venstre, Danmarks Liberale Parti",24
+Skive,3,Brårup,V_Matthias_Landeværn_Nielsen,Matthias Landeværn Nielsen,"Venstre, Danmarks Liberale Parti",9
+Skive,3,Brårup,V_Alfred_Brunsgaard,Alfred Brunsgaard,"Venstre, Danmarks Liberale Parti",41
+Skive,3,Brårup,V_Alice_Bro_Grønvaldt,Alice Bro Grønvaldt,"Venstre, Danmarks Liberale Parti",17
+Skive,3,Brårup,V_Annette_Torp,Annette Torp,"Venstre, Danmarks Liberale Parti",5
+Skive,3,Brårup,V_Betina_Bugge,Betina Bugge,"Venstre, Danmarks Liberale Parti",8
+Skive,3,Brårup,V_Christian_Vad_Holm,Christian Vad Holm,"Venstre, Danmarks Liberale Parti",36
+Skive,3,Brårup,V_Dorthe_Dalsgaard,Dorthe Dalsgaard,"Venstre, Danmarks Liberale Parti",1
+Skive,3,Brårup,V_Evan_Holst,Evan Holst,"Venstre, Danmarks Liberale Parti",11
+Skive,3,Brårup,V_Goska_Rasmussen,Goska Rasmussen,"Venstre, Danmarks Liberale Parti",30
+Skive,3,Brårup,V_Gregers_Frederiksen,Gregers Frederiksen,"Venstre, Danmarks Liberale Parti",10
+Skive,3,Brårup,V_Hanne_Brogaard,Hanne Brogaard,"Venstre, Danmarks Liberale Parti",3
+Skive,3,Brårup,V_Ina_Nyvang,Ina Nyvang,"Venstre, Danmarks Liberale Parti",10
+Skive,3,Brårup,V_Karsten_Nørholm_Villadsen,Karsten Nørholm Villadsen,"Venstre, Danmarks Liberale Parti",3
+Skive,3,Brårup,V_Kenneth_Enggrob,Kenneth Enggrob,"Venstre, Danmarks Liberale Parti",5
+Skive,3,Brårup,V_Mogens_Børsting,Mogens Børsting,"Venstre, Danmarks Liberale Parti",8
+Skive,3,Brårup,V_Morten_Enggaard,Morten Enggaard,"Venstre, Danmarks Liberale Parti",31
+Skive,3,Brårup,V_Olav_Nørgaard,Olav Nørgaard,"Venstre, Danmarks Liberale Parti",6
+Skive,3,Brårup,V_Ole_Faarkrog-Søgaard,Ole Faarkrog-Søgaard,"Venstre, Danmarks Liberale Parti",60
+Skive,3,Brårup,V_Susanne_Toftegaard_Hansen,Susanne Toftegaard Hansen,"Venstre, Danmarks Liberale Parti",9
+Skive,3,Brårup,V_Susanne_Rusbjerg,Susanne Rusbjerg,"Venstre, Danmarks Liberale Parti",5
+Skive,3,Brårup,V_Tom_Nykjær,Tom Nykjær,"Venstre, Danmarks Liberale Parti",1
+Skive,3,Brårup,Æ_Listestemmer,Listestemmer,Frihedslisten,4
+Skive,3,Brårup,"Æ_Bente_Dahl_Pedersen,_Hem","Bente Dahl Pedersen, Hem",Frihedslisten,2
+Skive,3,Brårup,"Æ_Gitte_Lind_Bendixen,_Selde","Gitte Lind Bendixen, Selde",Frihedslisten,1
+Skive,3,Brårup,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,36
+Skive,3,Brårup,Ø_Helle_Nørgaard_Lundsby,Helle Nørgaard Lundsby,Enhedslisten - De Rød-Grønne,38
+Skive,3,Brårup,Ø_Jacob_Abildgaard,Jacob Abildgaard,Enhedslisten - De Rød-Grønne,9
+Skive,4,Højslev,A_Listestemmer,Listestemmer,Socialdemokratiet,95
+Skive,4,Højslev,"A_Peder_Christensen,_Skive","Peder Christensen, Skive",Socialdemokratiet,248
+Skive,4,Højslev,"A_Ruth_Kristensen,_Skive","Ruth Kristensen, Skive",Socialdemokratiet,21
+Skive,4,Højslev,"A_Niels_Ole_D._Nielsen,_Skive","Niels Ole D. Nielsen, Skive",Socialdemokratiet,7
+Skive,4,Højslev,"A_Stine_Esther_Christensen,_Egeris","Stine Esther Christensen, Egeris",Socialdemokratiet,39
+Skive,4,Højslev,"A_Johnny_Kent_Knudsen,_Skive","Johnny Kent Knudsen, Skive",Socialdemokratiet,18
+Skive,4,Højslev,"A_Bente_Østergaard,_Roslev","Bente Østergaard, Roslev",Socialdemokratiet,1
+Skive,4,Højslev,"A_Claus_Kjeldsen,_Skive","Claus Kjeldsen, Skive",Socialdemokratiet,0
+Skive,4,Højslev,"A_Marianne_Fløe_Fejerskov,_Skive","Marianne Fløe Fejerskov, Skive",Socialdemokratiet,12
+Skive,4,Højslev,"A_Kim_Jepsen,_Ramsing","Kim Jepsen, Ramsing",Socialdemokratiet,4
+Skive,4,Højslev,"A_Henrik_Godsk,_Rødding","Henrik Godsk, Rødding",Socialdemokratiet,0
+Skive,4,Højslev,"A_Jan_D._Andersen,_Jebjerg","Jan D. Andersen, Jebjerg",Socialdemokratiet,0
+Skive,4,Højslev,"A_Keld_Mørk_Kristensen,_Rønbjerg","Keld Mørk Kristensen, Rønbjerg",Socialdemokratiet,5
+Skive,4,Højslev,"A_Susanne_Grove,_Skive","Susanne Grove, Skive",Socialdemokratiet,3
+Skive,4,Højslev,"A_Michael_Lundsted_Nielsen,_Hem","Michael Lundsted Nielsen, Hem",Socialdemokratiet,3
+Skive,4,Højslev,"A_Jonna_Skov,_Skive","Jonna Skov, Skive",Socialdemokratiet,7
+Skive,4,Højslev,"A_Dorte_Christensen,_Fur","Dorte Christensen, Fur",Socialdemokratiet,1
+Skive,4,Højslev,"A_Carsten_Høgh_Nielsen,_Nr._Søby","Carsten Høgh Nielsen, Nr. Søby",Socialdemokratiet,42
+Skive,4,Højslev,"A_Kim_Kurdahl,_Højslev_St.","Kim Kurdahl, Højslev St.",Socialdemokratiet,23
+Skive,4,Højslev,B_Listestemmer,Listestemmer,Radikale Venstre,8
+Skive,4,Højslev,"B_Ellen_Bye_Jensen,_Fur","Ellen Bye Jensen, Fur",Radikale Venstre,6
+Skive,4,Højslev,"B_Henrik_Wæhrens_Winther,_Skive","Henrik Wæhrens Winther, Skive",Radikale Venstre,9
+Skive,4,Højslev,"B_Solveig_Stausholm-Jensen,_Skive","Solveig Stausholm-Jensen, Skive",Radikale Venstre,6
+Skive,4,Højslev,"B_Gorm_Wæhrens,_Skive","Gorm Wæhrens, Skive",Radikale Venstre,4
+Skive,4,Højslev,"B_Egon_Espersen,_Kisumkær","Egon Espersen, Kisumkær",Radikale Venstre,0
+Skive,4,Højslev,"B_Henning_Linderoth,Jebjerg","Henning Linderoth,Jebjerg",Radikale Venstre,1
+Skive,4,Højslev,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,26
+Skive,4,Højslev,"C_Mogens_Birkelund,_Højslev","Mogens Birkelund, Højslev",Det Konservative Folkeparti,72
+Skive,4,Højslev,"C_Kenneth_J._Grinderslev,_Roslev","Kenneth J. Grinderslev, Roslev",Det Konservative Folkeparti,3
+Skive,4,Højslev,"C_Palle_Christensen,_Skive","Palle Christensen, Skive",Det Konservative Folkeparti,4
+Skive,4,Højslev,"C_Peter_Søndergaard,_Dølby","Peter Søndergaard, Dølby",Det Konservative Folkeparti,1
+Skive,4,Højslev,"C_Carl_Eiler_Carlsen,_Glyngøre","Carl Eiler Carlsen, Glyngøre",Det Konservative Folkeparti,3
+Skive,4,Højslev,"C_Bjarne_Linneberg,_Skive","Bjarne Linneberg, Skive",Det Konservative Folkeparti,110
+Skive,4,Højslev,D_Listestemmer,Listestemmer,Nye Borgerlige,28
+Skive,4,Højslev,"D_Erik_Mortensen,_Vile","Erik Mortensen, Vile",Nye Borgerlige,17
+Skive,4,Højslev,"D_Annie_Kaagaard_Kristensen,_Breum","Annie Kaagaard Kristensen, Breum",Nye Borgerlige,4
+Skive,4,Højslev,"D_Morten_Jensen,_Skive","Morten Jensen, Skive",Nye Borgerlige,13
+Skive,4,Højslev,"D_Søren_Andersen,_Højslev","Søren Andersen, Højslev",Nye Borgerlige,12
+Skive,4,Højslev,"D_Frank_Dons_Pedersen,_Skive","Frank Dons Pedersen, Skive",Nye Borgerlige,4
+Skive,4,Højslev,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,19
+Skive,4,Højslev,"F_Anders_Bøge,Lihme","Anders Bøge,Lihme",SF - Socialistisk Folkeparti,26
+Skive,4,Højslev,"F_Elsemarie_Trøst,_Skive","Elsemarie Trøst, Skive",SF - Socialistisk Folkeparti,17
+Skive,4,Højslev,"F_Mia_Sönchen_Johansen,_Skive","Mia Sönchen Johansen, Skive",SF - Socialistisk Folkeparti,24
+Skive,4,Højslev,"F_Jeppe_Tandal_Nielsen,_Skive","Jeppe Tandal Nielsen, Skive",SF - Socialistisk Folkeparti,7
+Skive,4,Højslev,"F_Frits_Laursen,_Glyngøre","Frits Laursen, Glyngøre",SF - Socialistisk Folkeparti,3
+Skive,4,Højslev,"F_Henrik_Bollesen_Nielsen,_Skive","Henrik Bollesen Nielsen, Skive",SF - Socialistisk Folkeparti,7
+Skive,4,Højslev,"F_Thue_Grum-Schwensen,_Spøttrup","Thue Grum-Schwensen, Spøttrup",SF - Socialistisk Folkeparti,1
+Skive,4,Højslev,"F_Thomas_D._Sølvsten,_Brårup","Thomas D. Sølvsten, Brårup",SF - Socialistisk Folkeparti,1
+Skive,4,Højslev,"F_Else_Stokholm,_Skive","Else Stokholm, Skive",SF - Socialistisk Folkeparti,1
+Skive,4,Højslev,"F_Ole_Bisgaard,_Skive","Ole Bisgaard, Skive",SF - Socialistisk Folkeparti,0
+Skive,4,Højslev,"F_Vagn_Pedersen,_Skive","Vagn Pedersen, Skive",SF - Socialistisk Folkeparti,3
+Skive,4,Højslev,M_Listestemmer,Listestemmer,Skive-Listen,11
+Skive,4,Højslev,M_Per_B._Jeppesen,Per B. Jeppesen,Skive-Listen,65
+Skive,4,Højslev,M_Lars_Thoft_Thomsen,Lars Thoft Thomsen,Skive-Listen,9
+Skive,4,Højslev,M_Annette_Daniels_Møller,Annette Daniels Møller,Skive-Listen,1
+Skive,4,Højslev,M_Knud_Mogensen,Knud Mogensen,Skive-Listen,2
+Skive,4,Højslev,M_Hanne_Louise_Eriksen,Hanne Louise Eriksen,Skive-Listen,2
+Skive,4,Højslev,M_Henrik_Skaarup,Henrik Skaarup,Skive-Listen,4
+Skive,4,Højslev,M_Bente_I._Kristensen,Bente I. Kristensen,Skive-Listen,0
+Skive,4,Højslev,M_Leif_Winther,Leif Winther,Skive-Listen,1
+Skive,4,Højslev,M_Jesper_Laursen,Jesper Laursen,Skive-Listen,2
+Skive,4,Højslev,M_Marianne_Bro,Marianne Bro,Skive-Listen,0
+Skive,4,Højslev,M_Leif_Mikkelsen,Leif Mikkelsen,Skive-Listen,6
+Skive,4,Højslev,M_Jan_Plovmand,Jan Plovmand,Skive-Listen,1
+Skive,4,Højslev,M_Heine_Sørensen,Heine Sørensen,Skive-Listen,0
+Skive,4,Højslev,M_Ole_Lindhard,Ole Lindhard,Skive-Listen,18
+Skive,4,Højslev,O_Listestemmer,Listestemmer,Dansk Folkeparti,25
+Skive,4,Højslev,"O_Peter_Mousten_Vestergård,_Jebjerg","Peter Mousten Vestergård, Jebjerg",Dansk Folkeparti,7
+Skive,4,Højslev,"O_Tom_Bøgholm,_Skive","Tom Bøgholm, Skive",Dansk Folkeparti,7
+Skive,4,Højslev,"O_Anders_Simmelsgaard_Krogh,_Brårup","Anders Simmelsgaard Krogh, Brårup",Dansk Folkeparti,6
+Skive,4,Højslev,"O_Keld_Fausing,_Højslev","Keld Fausing, Højslev",Dansk Folkeparti,12
+Skive,4,Højslev,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",61
+Skive,4,Højslev,V_Peder_Christian_Kirkegaard,Peder Christian Kirkegaard,"Venstre, Danmarks Liberale Parti",520
+Skive,4,Højslev,V_Jens_Have,Jens Have,"Venstre, Danmarks Liberale Parti",2
+Skive,4,Højslev,V_Matthias_Landeværn_Nielsen,Matthias Landeværn Nielsen,"Venstre, Danmarks Liberale Parti",6
+Skive,4,Højslev,V_Alfred_Brunsgaard,Alfred Brunsgaard,"Venstre, Danmarks Liberale Parti",11
+Skive,4,Højslev,V_Alice_Bro_Grønvaldt,Alice Bro Grønvaldt,"Venstre, Danmarks Liberale Parti",10
+Skive,4,Højslev,V_Annette_Torp,Annette Torp,"Venstre, Danmarks Liberale Parti",0
+Skive,4,Højslev,V_Betina_Bugge,Betina Bugge,"Venstre, Danmarks Liberale Parti",5
+Skive,4,Højslev,V_Christian_Vad_Holm,Christian Vad Holm,"Venstre, Danmarks Liberale Parti",266
+Skive,4,Højslev,V_Dorthe_Dalsgaard,Dorthe Dalsgaard,"Venstre, Danmarks Liberale Parti",4
+Skive,4,Højslev,V_Evan_Holst,Evan Holst,"Venstre, Danmarks Liberale Parti",3
+Skive,4,Højslev,V_Goska_Rasmussen,Goska Rasmussen,"Venstre, Danmarks Liberale Parti",14
+Skive,4,Højslev,V_Gregers_Frederiksen,Gregers Frederiksen,"Venstre, Danmarks Liberale Parti",5
+Skive,4,Højslev,V_Hanne_Brogaard,Hanne Brogaard,"Venstre, Danmarks Liberale Parti",1
+Skive,4,Højslev,V_Ina_Nyvang,Ina Nyvang,"Venstre, Danmarks Liberale Parti",190
+Skive,4,Højslev,V_Karsten_Nørholm_Villadsen,Karsten Nørholm Villadsen,"Venstre, Danmarks Liberale Parti",0
+Skive,4,Højslev,V_Kenneth_Enggrob,Kenneth Enggrob,"Venstre, Danmarks Liberale Parti",1
+Skive,4,Højslev,V_Mogens_Børsting,Mogens Børsting,"Venstre, Danmarks Liberale Parti",4
+Skive,4,Højslev,V_Morten_Enggaard,Morten Enggaard,"Venstre, Danmarks Liberale Parti",7
+Skive,4,Højslev,V_Olav_Nørgaard,Olav Nørgaard,"Venstre, Danmarks Liberale Parti",11
+Skive,4,Højslev,V_Ole_Faarkrog-Søgaard,Ole Faarkrog-Søgaard,"Venstre, Danmarks Liberale Parti",6
+Skive,4,Højslev,V_Susanne_Toftegaard_Hansen,Susanne Toftegaard Hansen,"Venstre, Danmarks Liberale Parti",6
+Skive,4,Højslev,V_Susanne_Rusbjerg,Susanne Rusbjerg,"Venstre, Danmarks Liberale Parti",3
+Skive,4,Højslev,V_Tom_Nykjær,Tom Nykjær,"Venstre, Danmarks Liberale Parti",1
+Skive,4,Højslev,Æ_Listestemmer,Listestemmer,Frihedslisten,3
+Skive,4,Højslev,"Æ_Bente_Dahl_Pedersen,_Hem","Bente Dahl Pedersen, Hem",Frihedslisten,9
+Skive,4,Højslev,"Æ_Gitte_Lind_Bendixen,_Selde","Gitte Lind Bendixen, Selde",Frihedslisten,1
+Skive,4,Højslev,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,12
+Skive,4,Højslev,Ø_Helle_Nørgaard_Lundsby,Helle Nørgaard Lundsby,Enhedslisten - De Rød-Grønne,26
+Skive,4,Højslev,Ø_Jacob_Abildgaard,Jacob Abildgaard,Enhedslisten - De Rød-Grønne,0
+Skive,5,Ørslevkloster,A_Listestemmer,Listestemmer,Socialdemokratiet,27
+Skive,5,Ørslevkloster,"A_Peder_Christensen,_Skive","Peder Christensen, Skive",Socialdemokratiet,73
+Skive,5,Ørslevkloster,"A_Ruth_Kristensen,_Skive","Ruth Kristensen, Skive",Socialdemokratiet,5
+Skive,5,Ørslevkloster,"A_Niels_Ole_D._Nielsen,_Skive","Niels Ole D. Nielsen, Skive",Socialdemokratiet,2
+Skive,5,Ørslevkloster,"A_Stine_Esther_Christensen,_Egeris","Stine Esther Christensen, Egeris",Socialdemokratiet,17
+Skive,5,Ørslevkloster,"A_Johnny_Kent_Knudsen,_Skive","Johnny Kent Knudsen, Skive",Socialdemokratiet,1
+Skive,5,Ørslevkloster,"A_Bente_Østergaard,_Roslev","Bente Østergaard, Roslev",Socialdemokratiet,2
+Skive,5,Ørslevkloster,"A_Claus_Kjeldsen,_Skive","Claus Kjeldsen, Skive",Socialdemokratiet,0
+Skive,5,Ørslevkloster,"A_Marianne_Fløe_Fejerskov,_Skive","Marianne Fløe Fejerskov, Skive",Socialdemokratiet,4
+Skive,5,Ørslevkloster,"A_Kim_Jepsen,_Ramsing","Kim Jepsen, Ramsing",Socialdemokratiet,2
+Skive,5,Ørslevkloster,"A_Henrik_Godsk,_Rødding","Henrik Godsk, Rødding",Socialdemokratiet,0
+Skive,5,Ørslevkloster,"A_Jan_D._Andersen,_Jebjerg","Jan D. Andersen, Jebjerg",Socialdemokratiet,2
+Skive,5,Ørslevkloster,"A_Keld_Mørk_Kristensen,_Rønbjerg","Keld Mørk Kristensen, Rønbjerg",Socialdemokratiet,1
+Skive,5,Ørslevkloster,"A_Susanne_Grove,_Skive","Susanne Grove, Skive",Socialdemokratiet,1
+Skive,5,Ørslevkloster,"A_Michael_Lundsted_Nielsen,_Hem","Michael Lundsted Nielsen, Hem",Socialdemokratiet,1
+Skive,5,Ørslevkloster,"A_Jonna_Skov,_Skive","Jonna Skov, Skive",Socialdemokratiet,1
+Skive,5,Ørslevkloster,"A_Dorte_Christensen,_Fur","Dorte Christensen, Fur",Socialdemokratiet,0
+Skive,5,Ørslevkloster,"A_Carsten_Høgh_Nielsen,_Nr._Søby","Carsten Høgh Nielsen, Nr. Søby",Socialdemokratiet,2
+Skive,5,Ørslevkloster,"A_Kim_Kurdahl,_Højslev_St.","Kim Kurdahl, Højslev St.",Socialdemokratiet,2
+Skive,5,Ørslevkloster,B_Listestemmer,Listestemmer,Radikale Venstre,5
+Skive,5,Ørslevkloster,"B_Ellen_Bye_Jensen,_Fur","Ellen Bye Jensen, Fur",Radikale Venstre,4
+Skive,5,Ørslevkloster,"B_Henrik_Wæhrens_Winther,_Skive","Henrik Wæhrens Winther, Skive",Radikale Venstre,2
+Skive,5,Ørslevkloster,"B_Solveig_Stausholm-Jensen,_Skive","Solveig Stausholm-Jensen, Skive",Radikale Venstre,4
+Skive,5,Ørslevkloster,"B_Gorm_Wæhrens,_Skive","Gorm Wæhrens, Skive",Radikale Venstre,1
+Skive,5,Ørslevkloster,"B_Egon_Espersen,_Kisumkær","Egon Espersen, Kisumkær",Radikale Venstre,0
+Skive,5,Ørslevkloster,"B_Henning_Linderoth,Jebjerg","Henning Linderoth,Jebjerg",Radikale Venstre,0
+Skive,5,Ørslevkloster,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,15
+Skive,5,Ørslevkloster,"C_Mogens_Birkelund,_Højslev","Mogens Birkelund, Højslev",Det Konservative Folkeparti,14
+Skive,5,Ørslevkloster,"C_Kenneth_J._Grinderslev,_Roslev","Kenneth J. Grinderslev, Roslev",Det Konservative Folkeparti,0
+Skive,5,Ørslevkloster,"C_Palle_Christensen,_Skive","Palle Christensen, Skive",Det Konservative Folkeparti,4
+Skive,5,Ørslevkloster,"C_Peter_Søndergaard,_Dølby","Peter Søndergaard, Dølby",Det Konservative Folkeparti,0
+Skive,5,Ørslevkloster,"C_Carl_Eiler_Carlsen,_Glyngøre","Carl Eiler Carlsen, Glyngøre",Det Konservative Folkeparti,1
+Skive,5,Ørslevkloster,"C_Bjarne_Linneberg,_Skive","Bjarne Linneberg, Skive",Det Konservative Folkeparti,4
+Skive,5,Ørslevkloster,D_Listestemmer,Listestemmer,Nye Borgerlige,5
+Skive,5,Ørslevkloster,"D_Erik_Mortensen,_Vile","Erik Mortensen, Vile",Nye Borgerlige,5
+Skive,5,Ørslevkloster,"D_Annie_Kaagaard_Kristensen,_Breum","Annie Kaagaard Kristensen, Breum",Nye Borgerlige,5
+Skive,5,Ørslevkloster,"D_Morten_Jensen,_Skive","Morten Jensen, Skive",Nye Borgerlige,3
+Skive,5,Ørslevkloster,"D_Søren_Andersen,_Højslev","Søren Andersen, Højslev",Nye Borgerlige,3
+Skive,5,Ørslevkloster,"D_Frank_Dons_Pedersen,_Skive","Frank Dons Pedersen, Skive",Nye Borgerlige,0
+Skive,5,Ørslevkloster,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,12
+Skive,5,Ørslevkloster,"F_Anders_Bøge,Lihme","Anders Bøge,Lihme",SF - Socialistisk Folkeparti,10
+Skive,5,Ørslevkloster,"F_Elsemarie_Trøst,_Skive","Elsemarie Trøst, Skive",SF - Socialistisk Folkeparti,6
+Skive,5,Ørslevkloster,"F_Mia_Sönchen_Johansen,_Skive","Mia Sönchen Johansen, Skive",SF - Socialistisk Folkeparti,8
+Skive,5,Ørslevkloster,"F_Jeppe_Tandal_Nielsen,_Skive","Jeppe Tandal Nielsen, Skive",SF - Socialistisk Folkeparti,2
+Skive,5,Ørslevkloster,"F_Frits_Laursen,_Glyngøre","Frits Laursen, Glyngøre",SF - Socialistisk Folkeparti,3
+Skive,5,Ørslevkloster,"F_Henrik_Bollesen_Nielsen,_Skive","Henrik Bollesen Nielsen, Skive",SF - Socialistisk Folkeparti,1
+Skive,5,Ørslevkloster,"F_Thue_Grum-Schwensen,_Spøttrup","Thue Grum-Schwensen, Spøttrup",SF - Socialistisk Folkeparti,1
+Skive,5,Ørslevkloster,"F_Thomas_D._Sølvsten,_Brårup","Thomas D. Sølvsten, Brårup",SF - Socialistisk Folkeparti,0
+Skive,5,Ørslevkloster,"F_Else_Stokholm,_Skive","Else Stokholm, Skive",SF - Socialistisk Folkeparti,0
+Skive,5,Ørslevkloster,"F_Ole_Bisgaard,_Skive","Ole Bisgaard, Skive",SF - Socialistisk Folkeparti,0
+Skive,5,Ørslevkloster,"F_Vagn_Pedersen,_Skive","Vagn Pedersen, Skive",SF - Socialistisk Folkeparti,0
+Skive,5,Ørslevkloster,M_Listestemmer,Listestemmer,Skive-Listen,1
+Skive,5,Ørslevkloster,M_Per_B._Jeppesen,Per B. Jeppesen,Skive-Listen,6
+Skive,5,Ørslevkloster,M_Lars_Thoft_Thomsen,Lars Thoft Thomsen,Skive-Listen,1
+Skive,5,Ørslevkloster,M_Annette_Daniels_Møller,Annette Daniels Møller,Skive-Listen,0
+Skive,5,Ørslevkloster,M_Knud_Mogensen,Knud Mogensen,Skive-Listen,0
+Skive,5,Ørslevkloster,M_Hanne_Louise_Eriksen,Hanne Louise Eriksen,Skive-Listen,1
+Skive,5,Ørslevkloster,M_Henrik_Skaarup,Henrik Skaarup,Skive-Listen,1
+Skive,5,Ørslevkloster,M_Bente_I._Kristensen,Bente I. Kristensen,Skive-Listen,0
+Skive,5,Ørslevkloster,M_Leif_Winther,Leif Winther,Skive-Listen,0
+Skive,5,Ørslevkloster,M_Jesper_Laursen,Jesper Laursen,Skive-Listen,0
+Skive,5,Ørslevkloster,M_Marianne_Bro,Marianne Bro,Skive-Listen,0
+Skive,5,Ørslevkloster,M_Leif_Mikkelsen,Leif Mikkelsen,Skive-Listen,0
+Skive,5,Ørslevkloster,M_Jan_Plovmand,Jan Plovmand,Skive-Listen,0
+Skive,5,Ørslevkloster,M_Heine_Sørensen,Heine Sørensen,Skive-Listen,0
+Skive,5,Ørslevkloster,M_Ole_Lindhard,Ole Lindhard,Skive-Listen,1
+Skive,5,Ørslevkloster,O_Listestemmer,Listestemmer,Dansk Folkeparti,9
+Skive,5,Ørslevkloster,"O_Peter_Mousten_Vestergård,_Jebjerg","Peter Mousten Vestergård, Jebjerg",Dansk Folkeparti,4
+Skive,5,Ørslevkloster,"O_Tom_Bøgholm,_Skive","Tom Bøgholm, Skive",Dansk Folkeparti,2
+Skive,5,Ørslevkloster,"O_Anders_Simmelsgaard_Krogh,_Brårup","Anders Simmelsgaard Krogh, Brårup",Dansk Folkeparti,0
+Skive,5,Ørslevkloster,"O_Keld_Fausing,_Højslev","Keld Fausing, Højslev",Dansk Folkeparti,9
+Skive,5,Ørslevkloster,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",24
+Skive,5,Ørslevkloster,V_Peder_Christian_Kirkegaard,Peder Christian Kirkegaard,"Venstre, Danmarks Liberale Parti",440
+Skive,5,Ørslevkloster,V_Jens_Have,Jens Have,"Venstre, Danmarks Liberale Parti",2
+Skive,5,Ørslevkloster,V_Matthias_Landeværn_Nielsen,Matthias Landeværn Nielsen,"Venstre, Danmarks Liberale Parti",2
+Skive,5,Ørslevkloster,V_Alfred_Brunsgaard,Alfred Brunsgaard,"Venstre, Danmarks Liberale Parti",5
+Skive,5,Ørslevkloster,V_Alice_Bro_Grønvaldt,Alice Bro Grønvaldt,"Venstre, Danmarks Liberale Parti",2
+Skive,5,Ørslevkloster,V_Annette_Torp,Annette Torp,"Venstre, Danmarks Liberale Parti",0
+Skive,5,Ørslevkloster,V_Betina_Bugge,Betina Bugge,"Venstre, Danmarks Liberale Parti",4
+Skive,5,Ørslevkloster,V_Christian_Vad_Holm,Christian Vad Holm,"Venstre, Danmarks Liberale Parti",18
+Skive,5,Ørslevkloster,V_Dorthe_Dalsgaard,Dorthe Dalsgaard,"Venstre, Danmarks Liberale Parti",0
+Skive,5,Ørslevkloster,V_Evan_Holst,Evan Holst,"Venstre, Danmarks Liberale Parti",0
+Skive,5,Ørslevkloster,V_Goska_Rasmussen,Goska Rasmussen,"Venstre, Danmarks Liberale Parti",4
+Skive,5,Ørslevkloster,V_Gregers_Frederiksen,Gregers Frederiksen,"Venstre, Danmarks Liberale Parti",2
+Skive,5,Ørslevkloster,V_Hanne_Brogaard,Hanne Brogaard,"Venstre, Danmarks Liberale Parti",1
+Skive,5,Ørslevkloster,V_Ina_Nyvang,Ina Nyvang,"Venstre, Danmarks Liberale Parti",7
+Skive,5,Ørslevkloster,V_Karsten_Nørholm_Villadsen,Karsten Nørholm Villadsen,"Venstre, Danmarks Liberale Parti",0
+Skive,5,Ørslevkloster,V_Kenneth_Enggrob,Kenneth Enggrob,"Venstre, Danmarks Liberale Parti",1
+Skive,5,Ørslevkloster,V_Mogens_Børsting,Mogens Børsting,"Venstre, Danmarks Liberale Parti",0
+Skive,5,Ørslevkloster,V_Morten_Enggaard,Morten Enggaard,"Venstre, Danmarks Liberale Parti",1
+Skive,5,Ørslevkloster,V_Olav_Nørgaard,Olav Nørgaard,"Venstre, Danmarks Liberale Parti",16
+Skive,5,Ørslevkloster,V_Ole_Faarkrog-Søgaard,Ole Faarkrog-Søgaard,"Venstre, Danmarks Liberale Parti",0
+Skive,5,Ørslevkloster,V_Susanne_Toftegaard_Hansen,Susanne Toftegaard Hansen,"Venstre, Danmarks Liberale Parti",1
+Skive,5,Ørslevkloster,V_Susanne_Rusbjerg,Susanne Rusbjerg,"Venstre, Danmarks Liberale Parti",2
+Skive,5,Ørslevkloster,V_Tom_Nykjær,Tom Nykjær,"Venstre, Danmarks Liberale Parti",0
+Skive,5,Ørslevkloster,Æ_Listestemmer,Listestemmer,Frihedslisten,1
+Skive,5,Ørslevkloster,"Æ_Bente_Dahl_Pedersen,_Hem","Bente Dahl Pedersen, Hem",Frihedslisten,4
+Skive,5,Ørslevkloster,"Æ_Gitte_Lind_Bendixen,_Selde","Gitte Lind Bendixen, Selde",Frihedslisten,0
+Skive,5,Ørslevkloster,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,9
+Skive,5,Ørslevkloster,Ø_Helle_Nørgaard_Lundsby,Helle Nørgaard Lundsby,Enhedslisten - De Rød-Grønne,18
+Skive,5,Ørslevkloster,Ø_Jacob_Abildgaard,Jacob Abildgaard,Enhedslisten - De Rød-Grønne,1
+Skive,6,Rønbjerg,A_Listestemmer,Listestemmer,Socialdemokratiet,13
+Skive,6,Rønbjerg,"A_Peder_Christensen,_Skive","Peder Christensen, Skive",Socialdemokratiet,33
+Skive,6,Rønbjerg,"A_Ruth_Kristensen,_Skive","Ruth Kristensen, Skive",Socialdemokratiet,7
+Skive,6,Rønbjerg,"A_Niels_Ole_D._Nielsen,_Skive","Niels Ole D. Nielsen, Skive",Socialdemokratiet,10
+Skive,6,Rønbjerg,"A_Stine_Esther_Christensen,_Egeris","Stine Esther Christensen, Egeris",Socialdemokratiet,4
+Skive,6,Rønbjerg,"A_Johnny_Kent_Knudsen,_Skive","Johnny Kent Knudsen, Skive",Socialdemokratiet,3
+Skive,6,Rønbjerg,"A_Bente_Østergaard,_Roslev","Bente Østergaard, Roslev",Socialdemokratiet,0
+Skive,6,Rønbjerg,"A_Claus_Kjeldsen,_Skive","Claus Kjeldsen, Skive",Socialdemokratiet,1
+Skive,6,Rønbjerg,"A_Marianne_Fløe_Fejerskov,_Skive","Marianne Fløe Fejerskov, Skive",Socialdemokratiet,1
+Skive,6,Rønbjerg,"A_Kim_Jepsen,_Ramsing","Kim Jepsen, Ramsing",Socialdemokratiet,0
+Skive,6,Rønbjerg,"A_Henrik_Godsk,_Rødding","Henrik Godsk, Rødding",Socialdemokratiet,0
+Skive,6,Rønbjerg,"A_Jan_D._Andersen,_Jebjerg","Jan D. Andersen, Jebjerg",Socialdemokratiet,0
+Skive,6,Rønbjerg,"A_Keld_Mørk_Kristensen,_Rønbjerg","Keld Mørk Kristensen, Rønbjerg",Socialdemokratiet,118
+Skive,6,Rønbjerg,"A_Susanne_Grove,_Skive","Susanne Grove, Skive",Socialdemokratiet,0
+Skive,6,Rønbjerg,"A_Michael_Lundsted_Nielsen,_Hem","Michael Lundsted Nielsen, Hem",Socialdemokratiet,0
+Skive,6,Rønbjerg,"A_Jonna_Skov,_Skive","Jonna Skov, Skive",Socialdemokratiet,1
+Skive,6,Rønbjerg,"A_Dorte_Christensen,_Fur","Dorte Christensen, Fur",Socialdemokratiet,0
+Skive,6,Rønbjerg,"A_Carsten_Høgh_Nielsen,_Nr._Søby","Carsten Høgh Nielsen, Nr. Søby",Socialdemokratiet,0
+Skive,6,Rønbjerg,"A_Kim_Kurdahl,_Højslev_St.","Kim Kurdahl, Højslev St.",Socialdemokratiet,0
+Skive,6,Rønbjerg,B_Listestemmer,Listestemmer,Radikale Venstre,2
+Skive,6,Rønbjerg,"B_Ellen_Bye_Jensen,_Fur","Ellen Bye Jensen, Fur",Radikale Venstre,1
+Skive,6,Rønbjerg,"B_Henrik_Wæhrens_Winther,_Skive","Henrik Wæhrens Winther, Skive",Radikale Venstre,0
+Skive,6,Rønbjerg,"B_Solveig_Stausholm-Jensen,_Skive","Solveig Stausholm-Jensen, Skive",Radikale Venstre,1
+Skive,6,Rønbjerg,"B_Gorm_Wæhrens,_Skive","Gorm Wæhrens, Skive",Radikale Venstre,4
+Skive,6,Rønbjerg,"B_Egon_Espersen,_Kisumkær","Egon Espersen, Kisumkær",Radikale Venstre,3
+Skive,6,Rønbjerg,"B_Henning_Linderoth,Jebjerg","Henning Linderoth,Jebjerg",Radikale Venstre,0
+Skive,6,Rønbjerg,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,10
+Skive,6,Rønbjerg,"C_Mogens_Birkelund,_Højslev","Mogens Birkelund, Højslev",Det Konservative Folkeparti,4
+Skive,6,Rønbjerg,"C_Kenneth_J._Grinderslev,_Roslev","Kenneth J. Grinderslev, Roslev",Det Konservative Folkeparti,0
+Skive,6,Rønbjerg,"C_Palle_Christensen,_Skive","Palle Christensen, Skive",Det Konservative Folkeparti,1
+Skive,6,Rønbjerg,"C_Peter_Søndergaard,_Dølby","Peter Søndergaard, Dølby",Det Konservative Folkeparti,0
+Skive,6,Rønbjerg,"C_Carl_Eiler_Carlsen,_Glyngøre","Carl Eiler Carlsen, Glyngøre",Det Konservative Folkeparti,6
+Skive,6,Rønbjerg,"C_Bjarne_Linneberg,_Skive","Bjarne Linneberg, Skive",Det Konservative Folkeparti,0
+Skive,6,Rønbjerg,D_Listestemmer,Listestemmer,Nye Borgerlige,8
+Skive,6,Rønbjerg,"D_Erik_Mortensen,_Vile","Erik Mortensen, Vile",Nye Borgerlige,4
+Skive,6,Rønbjerg,"D_Annie_Kaagaard_Kristensen,_Breum","Annie Kaagaard Kristensen, Breum",Nye Borgerlige,2
+Skive,6,Rønbjerg,"D_Morten_Jensen,_Skive","Morten Jensen, Skive",Nye Borgerlige,6
+Skive,6,Rønbjerg,"D_Søren_Andersen,_Højslev","Søren Andersen, Højslev",Nye Borgerlige,0
+Skive,6,Rønbjerg,"D_Frank_Dons_Pedersen,_Skive","Frank Dons Pedersen, Skive",Nye Borgerlige,0
+Skive,6,Rønbjerg,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,2
+Skive,6,Rønbjerg,"F_Anders_Bøge,Lihme","Anders Bøge,Lihme",SF - Socialistisk Folkeparti,9
+Skive,6,Rønbjerg,"F_Elsemarie_Trøst,_Skive","Elsemarie Trøst, Skive",SF - Socialistisk Folkeparti,1
+Skive,6,Rønbjerg,"F_Mia_Sönchen_Johansen,_Skive","Mia Sönchen Johansen, Skive",SF - Socialistisk Folkeparti,4
+Skive,6,Rønbjerg,"F_Jeppe_Tandal_Nielsen,_Skive","Jeppe Tandal Nielsen, Skive",SF - Socialistisk Folkeparti,1
+Skive,6,Rønbjerg,"F_Frits_Laursen,_Glyngøre","Frits Laursen, Glyngøre",SF - Socialistisk Folkeparti,0
+Skive,6,Rønbjerg,"F_Henrik_Bollesen_Nielsen,_Skive","Henrik Bollesen Nielsen, Skive",SF - Socialistisk Folkeparti,0
+Skive,6,Rønbjerg,"F_Thue_Grum-Schwensen,_Spøttrup","Thue Grum-Schwensen, Spøttrup",SF - Socialistisk Folkeparti,0
+Skive,6,Rønbjerg,"F_Thomas_D._Sølvsten,_Brårup","Thomas D. Sølvsten, Brårup",SF - Socialistisk Folkeparti,0
+Skive,6,Rønbjerg,"F_Else_Stokholm,_Skive","Else Stokholm, Skive",SF - Socialistisk Folkeparti,0
+Skive,6,Rønbjerg,"F_Ole_Bisgaard,_Skive","Ole Bisgaard, Skive",SF - Socialistisk Folkeparti,0
+Skive,6,Rønbjerg,"F_Vagn_Pedersen,_Skive","Vagn Pedersen, Skive",SF - Socialistisk Folkeparti,0
+Skive,6,Rønbjerg,M_Listestemmer,Listestemmer,Skive-Listen,4
+Skive,6,Rønbjerg,M_Per_B._Jeppesen,Per B. Jeppesen,Skive-Listen,8
+Skive,6,Rønbjerg,M_Lars_Thoft_Thomsen,Lars Thoft Thomsen,Skive-Listen,2
+Skive,6,Rønbjerg,M_Annette_Daniels_Møller,Annette Daniels Møller,Skive-Listen,0
+Skive,6,Rønbjerg,M_Knud_Mogensen,Knud Mogensen,Skive-Listen,1
+Skive,6,Rønbjerg,M_Hanne_Louise_Eriksen,Hanne Louise Eriksen,Skive-Listen,0
+Skive,6,Rønbjerg,M_Henrik_Skaarup,Henrik Skaarup,Skive-Listen,1
+Skive,6,Rønbjerg,M_Bente_I._Kristensen,Bente I. Kristensen,Skive-Listen,0
+Skive,6,Rønbjerg,M_Leif_Winther,Leif Winther,Skive-Listen,1
+Skive,6,Rønbjerg,M_Jesper_Laursen,Jesper Laursen,Skive-Listen,1
+Skive,6,Rønbjerg,M_Marianne_Bro,Marianne Bro,Skive-Listen,0
+Skive,6,Rønbjerg,M_Leif_Mikkelsen,Leif Mikkelsen,Skive-Listen,1
+Skive,6,Rønbjerg,M_Jan_Plovmand,Jan Plovmand,Skive-Listen,0
+Skive,6,Rønbjerg,M_Heine_Sørensen,Heine Sørensen,Skive-Listen,0
+Skive,6,Rønbjerg,M_Ole_Lindhard,Ole Lindhard,Skive-Listen,1
+Skive,6,Rønbjerg,O_Listestemmer,Listestemmer,Dansk Folkeparti,5
+Skive,6,Rønbjerg,"O_Peter_Mousten_Vestergård,_Jebjerg","Peter Mousten Vestergård, Jebjerg",Dansk Folkeparti,3
+Skive,6,Rønbjerg,"O_Tom_Bøgholm,_Skive","Tom Bøgholm, Skive",Dansk Folkeparti,5
+Skive,6,Rønbjerg,"O_Anders_Simmelsgaard_Krogh,_Brårup","Anders Simmelsgaard Krogh, Brårup",Dansk Folkeparti,1
+Skive,6,Rønbjerg,"O_Keld_Fausing,_Højslev","Keld Fausing, Højslev",Dansk Folkeparti,1
+Skive,6,Rønbjerg,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",11
+Skive,6,Rønbjerg,V_Peder_Christian_Kirkegaard,Peder Christian Kirkegaard,"Venstre, Danmarks Liberale Parti",39
+Skive,6,Rønbjerg,V_Jens_Have,Jens Have,"Venstre, Danmarks Liberale Parti",29
+Skive,6,Rønbjerg,V_Matthias_Landeværn_Nielsen,Matthias Landeværn Nielsen,"Venstre, Danmarks Liberale Parti",3
+Skive,6,Rønbjerg,V_Alfred_Brunsgaard,Alfred Brunsgaard,"Venstre, Danmarks Liberale Parti",8
+Skive,6,Rønbjerg,V_Alice_Bro_Grønvaldt,Alice Bro Grønvaldt,"Venstre, Danmarks Liberale Parti",1
+Skive,6,Rønbjerg,V_Annette_Torp,Annette Torp,"Venstre, Danmarks Liberale Parti",1
+Skive,6,Rønbjerg,V_Betina_Bugge,Betina Bugge,"Venstre, Danmarks Liberale Parti",0
+Skive,6,Rønbjerg,V_Christian_Vad_Holm,Christian Vad Holm,"Venstre, Danmarks Liberale Parti",23
+Skive,6,Rønbjerg,V_Dorthe_Dalsgaard,Dorthe Dalsgaard,"Venstre, Danmarks Liberale Parti",1
+Skive,6,Rønbjerg,V_Evan_Holst,Evan Holst,"Venstre, Danmarks Liberale Parti",1
+Skive,6,Rønbjerg,V_Goska_Rasmussen,Goska Rasmussen,"Venstre, Danmarks Liberale Parti",6
+Skive,6,Rønbjerg,V_Gregers_Frederiksen,Gregers Frederiksen,"Venstre, Danmarks Liberale Parti",1
+Skive,6,Rønbjerg,V_Hanne_Brogaard,Hanne Brogaard,"Venstre, Danmarks Liberale Parti",0
+Skive,6,Rønbjerg,V_Ina_Nyvang,Ina Nyvang,"Venstre, Danmarks Liberale Parti",1
+Skive,6,Rønbjerg,V_Karsten_Nørholm_Villadsen,Karsten Nørholm Villadsen,"Venstre, Danmarks Liberale Parti",0
+Skive,6,Rønbjerg,V_Kenneth_Enggrob,Kenneth Enggrob,"Venstre, Danmarks Liberale Parti",18
+Skive,6,Rønbjerg,V_Mogens_Børsting,Mogens Børsting,"Venstre, Danmarks Liberale Parti",0
+Skive,6,Rønbjerg,V_Morten_Enggaard,Morten Enggaard,"Venstre, Danmarks Liberale Parti",2
+Skive,6,Rønbjerg,V_Olav_Nørgaard,Olav Nørgaard,"Venstre, Danmarks Liberale Parti",1
+Skive,6,Rønbjerg,V_Ole_Faarkrog-Søgaard,Ole Faarkrog-Søgaard,"Venstre, Danmarks Liberale Parti",1
+Skive,6,Rønbjerg,V_Susanne_Toftegaard_Hansen,Susanne Toftegaard Hansen,"Venstre, Danmarks Liberale Parti",0
+Skive,6,Rønbjerg,V_Susanne_Rusbjerg,Susanne Rusbjerg,"Venstre, Danmarks Liberale Parti",0
+Skive,6,Rønbjerg,V_Tom_Nykjær,Tom Nykjær,"Venstre, Danmarks Liberale Parti",0
+Skive,6,Rønbjerg,Æ_Listestemmer,Listestemmer,Frihedslisten,1
+Skive,6,Rønbjerg,"Æ_Bente_Dahl_Pedersen,_Hem","Bente Dahl Pedersen, Hem",Frihedslisten,1
+Skive,6,Rønbjerg,"Æ_Gitte_Lind_Bendixen,_Selde","Gitte Lind Bendixen, Selde",Frihedslisten,0
+Skive,6,Rønbjerg,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,1
+Skive,6,Rønbjerg,Ø_Helle_Nørgaard_Lundsby,Helle Nørgaard Lundsby,Enhedslisten - De Rød-Grønne,6
+Skive,6,Rønbjerg,Ø_Jacob_Abildgaard,Jacob Abildgaard,Enhedslisten - De Rød-Grønne,2
+Skive,7,Hem,A_Listestemmer,Listestemmer,Socialdemokratiet,12
+Skive,7,Hem,"A_Peder_Christensen,_Skive","Peder Christensen, Skive",Socialdemokratiet,34
+Skive,7,Hem,"A_Ruth_Kristensen,_Skive","Ruth Kristensen, Skive",Socialdemokratiet,1
+Skive,7,Hem,"A_Niels_Ole_D._Nielsen,_Skive","Niels Ole D. Nielsen, Skive",Socialdemokratiet,2
+Skive,7,Hem,"A_Stine_Esther_Christensen,_Egeris","Stine Esther Christensen, Egeris",Socialdemokratiet,2
+Skive,7,Hem,"A_Johnny_Kent_Knudsen,_Skive","Johnny Kent Knudsen, Skive",Socialdemokratiet,5
+Skive,7,Hem,"A_Bente_Østergaard,_Roslev","Bente Østergaard, Roslev",Socialdemokratiet,1
+Skive,7,Hem,"A_Claus_Kjeldsen,_Skive","Claus Kjeldsen, Skive",Socialdemokratiet,0
+Skive,7,Hem,"A_Marianne_Fløe_Fejerskov,_Skive","Marianne Fløe Fejerskov, Skive",Socialdemokratiet,2
+Skive,7,Hem,"A_Kim_Jepsen,_Ramsing","Kim Jepsen, Ramsing",Socialdemokratiet,6
+Skive,7,Hem,"A_Henrik_Godsk,_Rødding","Henrik Godsk, Rødding",Socialdemokratiet,2
+Skive,7,Hem,"A_Jan_D._Andersen,_Jebjerg","Jan D. Andersen, Jebjerg",Socialdemokratiet,1
+Skive,7,Hem,"A_Keld_Mørk_Kristensen,_Rønbjerg","Keld Mørk Kristensen, Rønbjerg",Socialdemokratiet,1
+Skive,7,Hem,"A_Susanne_Grove,_Skive","Susanne Grove, Skive",Socialdemokratiet,1
+Skive,7,Hem,"A_Michael_Lundsted_Nielsen,_Hem","Michael Lundsted Nielsen, Hem",Socialdemokratiet,126
+Skive,7,Hem,"A_Jonna_Skov,_Skive","Jonna Skov, Skive",Socialdemokratiet,0
+Skive,7,Hem,"A_Dorte_Christensen,_Fur","Dorte Christensen, Fur",Socialdemokratiet,0
+Skive,7,Hem,"A_Carsten_Høgh_Nielsen,_Nr._Søby","Carsten Høgh Nielsen, Nr. Søby",Socialdemokratiet,0
+Skive,7,Hem,"A_Kim_Kurdahl,_Højslev_St.","Kim Kurdahl, Højslev St.",Socialdemokratiet,0
+Skive,7,Hem,B_Listestemmer,Listestemmer,Radikale Venstre,2
+Skive,7,Hem,"B_Ellen_Bye_Jensen,_Fur","Ellen Bye Jensen, Fur",Radikale Venstre,1
+Skive,7,Hem,"B_Henrik_Wæhrens_Winther,_Skive","Henrik Wæhrens Winther, Skive",Radikale Venstre,3
+Skive,7,Hem,"B_Solveig_Stausholm-Jensen,_Skive","Solveig Stausholm-Jensen, Skive",Radikale Venstre,1
+Skive,7,Hem,"B_Gorm_Wæhrens,_Skive","Gorm Wæhrens, Skive",Radikale Venstre,0
+Skive,7,Hem,"B_Egon_Espersen,_Kisumkær","Egon Espersen, Kisumkær",Radikale Venstre,0
+Skive,7,Hem,"B_Henning_Linderoth,Jebjerg","Henning Linderoth,Jebjerg",Radikale Venstre,0
+Skive,7,Hem,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,6
+Skive,7,Hem,"C_Mogens_Birkelund,_Højslev","Mogens Birkelund, Højslev",Det Konservative Folkeparti,1
+Skive,7,Hem,"C_Kenneth_J._Grinderslev,_Roslev","Kenneth J. Grinderslev, Roslev",Det Konservative Folkeparti,2
+Skive,7,Hem,"C_Palle_Christensen,_Skive","Palle Christensen, Skive",Det Konservative Folkeparti,3
+Skive,7,Hem,"C_Peter_Søndergaard,_Dølby","Peter Søndergaard, Dølby",Det Konservative Folkeparti,3
+Skive,7,Hem,"C_Carl_Eiler_Carlsen,_Glyngøre","Carl Eiler Carlsen, Glyngøre",Det Konservative Folkeparti,1
+Skive,7,Hem,"C_Bjarne_Linneberg,_Skive","Bjarne Linneberg, Skive",Det Konservative Folkeparti,0
+Skive,7,Hem,D_Listestemmer,Listestemmer,Nye Borgerlige,11
+Skive,7,Hem,"D_Erik_Mortensen,_Vile","Erik Mortensen, Vile",Nye Borgerlige,8
+Skive,7,Hem,"D_Annie_Kaagaard_Kristensen,_Breum","Annie Kaagaard Kristensen, Breum",Nye Borgerlige,5
+Skive,7,Hem,"D_Morten_Jensen,_Skive","Morten Jensen, Skive",Nye Borgerlige,6
+Skive,7,Hem,"D_Søren_Andersen,_Højslev","Søren Andersen, Højslev",Nye Borgerlige,0
+Skive,7,Hem,"D_Frank_Dons_Pedersen,_Skive","Frank Dons Pedersen, Skive",Nye Borgerlige,2
+Skive,7,Hem,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,7
+Skive,7,Hem,"F_Anders_Bøge,Lihme","Anders Bøge,Lihme",SF - Socialistisk Folkeparti,13
+Skive,7,Hem,"F_Elsemarie_Trøst,_Skive","Elsemarie Trøst, Skive",SF - Socialistisk Folkeparti,1
+Skive,7,Hem,"F_Mia_Sönchen_Johansen,_Skive","Mia Sönchen Johansen, Skive",SF - Socialistisk Folkeparti,4
+Skive,7,Hem,"F_Jeppe_Tandal_Nielsen,_Skive","Jeppe Tandal Nielsen, Skive",SF - Socialistisk Folkeparti,1
+Skive,7,Hem,"F_Frits_Laursen,_Glyngøre","Frits Laursen, Glyngøre",SF - Socialistisk Folkeparti,1
+Skive,7,Hem,"F_Henrik_Bollesen_Nielsen,_Skive","Henrik Bollesen Nielsen, Skive",SF - Socialistisk Folkeparti,3
+Skive,7,Hem,"F_Thue_Grum-Schwensen,_Spøttrup","Thue Grum-Schwensen, Spøttrup",SF - Socialistisk Folkeparti,1
+Skive,7,Hem,"F_Thomas_D._Sølvsten,_Brårup","Thomas D. Sølvsten, Brårup",SF - Socialistisk Folkeparti,0
+Skive,7,Hem,"F_Else_Stokholm,_Skive","Else Stokholm, Skive",SF - Socialistisk Folkeparti,0
+Skive,7,Hem,"F_Ole_Bisgaard,_Skive","Ole Bisgaard, Skive",SF - Socialistisk Folkeparti,0
+Skive,7,Hem,"F_Vagn_Pedersen,_Skive","Vagn Pedersen, Skive",SF - Socialistisk Folkeparti,1
+Skive,7,Hem,M_Listestemmer,Listestemmer,Skive-Listen,7
+Skive,7,Hem,M_Per_B._Jeppesen,Per B. Jeppesen,Skive-Listen,14
+Skive,7,Hem,M_Lars_Thoft_Thomsen,Lars Thoft Thomsen,Skive-Listen,1
+Skive,7,Hem,M_Annette_Daniels_Møller,Annette Daniels Møller,Skive-Listen,0
+Skive,7,Hem,M_Knud_Mogensen,Knud Mogensen,Skive-Listen,1
+Skive,7,Hem,M_Hanne_Louise_Eriksen,Hanne Louise Eriksen,Skive-Listen,0
+Skive,7,Hem,M_Henrik_Skaarup,Henrik Skaarup,Skive-Listen,1
+Skive,7,Hem,M_Bente_I._Kristensen,Bente I. Kristensen,Skive-Listen,0
+Skive,7,Hem,M_Leif_Winther,Leif Winther,Skive-Listen,0
+Skive,7,Hem,M_Jesper_Laursen,Jesper Laursen,Skive-Listen,2
+Skive,7,Hem,M_Marianne_Bro,Marianne Bro,Skive-Listen,0
+Skive,7,Hem,M_Leif_Mikkelsen,Leif Mikkelsen,Skive-Listen,1
+Skive,7,Hem,M_Jan_Plovmand,Jan Plovmand,Skive-Listen,0
+Skive,7,Hem,M_Heine_Sørensen,Heine Sørensen,Skive-Listen,0
+Skive,7,Hem,M_Ole_Lindhard,Ole Lindhard,Skive-Listen,4
+Skive,7,Hem,O_Listestemmer,Listestemmer,Dansk Folkeparti,7
+Skive,7,Hem,"O_Peter_Mousten_Vestergård,_Jebjerg","Peter Mousten Vestergård, Jebjerg",Dansk Folkeparti,6
+Skive,7,Hem,"O_Tom_Bøgholm,_Skive","Tom Bøgholm, Skive",Dansk Folkeparti,2
+Skive,7,Hem,"O_Anders_Simmelsgaard_Krogh,_Brårup","Anders Simmelsgaard Krogh, Brårup",Dansk Folkeparti,6
+Skive,7,Hem,"O_Keld_Fausing,_Højslev","Keld Fausing, Højslev",Dansk Folkeparti,1
+Skive,7,Hem,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",16
+Skive,7,Hem,V_Peder_Christian_Kirkegaard,Peder Christian Kirkegaard,"Venstre, Danmarks Liberale Parti",96
+Skive,7,Hem,V_Jens_Have,Jens Have,"Venstre, Danmarks Liberale Parti",6
+Skive,7,Hem,V_Matthias_Landeværn_Nielsen,Matthias Landeværn Nielsen,"Venstre, Danmarks Liberale Parti",4
+Skive,7,Hem,V_Alfred_Brunsgaard,Alfred Brunsgaard,"Venstre, Danmarks Liberale Parti",63
+Skive,7,Hem,V_Alice_Bro_Grønvaldt,Alice Bro Grønvaldt,"Venstre, Danmarks Liberale Parti",6
+Skive,7,Hem,V_Annette_Torp,Annette Torp,"Venstre, Danmarks Liberale Parti",2
+Skive,7,Hem,V_Betina_Bugge,Betina Bugge,"Venstre, Danmarks Liberale Parti",0
+Skive,7,Hem,V_Christian_Vad_Holm,Christian Vad Holm,"Venstre, Danmarks Liberale Parti",4
+Skive,7,Hem,V_Dorthe_Dalsgaard,Dorthe Dalsgaard,"Venstre, Danmarks Liberale Parti",2
+Skive,7,Hem,V_Evan_Holst,Evan Holst,"Venstre, Danmarks Liberale Parti",1
+Skive,7,Hem,V_Goska_Rasmussen,Goska Rasmussen,"Venstre, Danmarks Liberale Parti",10
+Skive,7,Hem,V_Gregers_Frederiksen,Gregers Frederiksen,"Venstre, Danmarks Liberale Parti",7
+Skive,7,Hem,V_Hanne_Brogaard,Hanne Brogaard,"Venstre, Danmarks Liberale Parti",1
+Skive,7,Hem,V_Ina_Nyvang,Ina Nyvang,"Venstre, Danmarks Liberale Parti",1
+Skive,7,Hem,V_Karsten_Nørholm_Villadsen,Karsten Nørholm Villadsen,"Venstre, Danmarks Liberale Parti",3
+Skive,7,Hem,V_Kenneth_Enggrob,Kenneth Enggrob,"Venstre, Danmarks Liberale Parti",2
+Skive,7,Hem,V_Mogens_Børsting,Mogens Børsting,"Venstre, Danmarks Liberale Parti",2
+Skive,7,Hem,V_Morten_Enggaard,Morten Enggaard,"Venstre, Danmarks Liberale Parti",2
+Skive,7,Hem,V_Olav_Nørgaard,Olav Nørgaard,"Venstre, Danmarks Liberale Parti",0
+Skive,7,Hem,V_Ole_Faarkrog-Søgaard,Ole Faarkrog-Søgaard,"Venstre, Danmarks Liberale Parti",1
+Skive,7,Hem,V_Susanne_Toftegaard_Hansen,Susanne Toftegaard Hansen,"Venstre, Danmarks Liberale Parti",2
+Skive,7,Hem,V_Susanne_Rusbjerg,Susanne Rusbjerg,"Venstre, Danmarks Liberale Parti",0
+Skive,7,Hem,V_Tom_Nykjær,Tom Nykjær,"Venstre, Danmarks Liberale Parti",0
+Skive,7,Hem,Æ_Listestemmer,Listestemmer,Frihedslisten,0
+Skive,7,Hem,"Æ_Bente_Dahl_Pedersen,_Hem","Bente Dahl Pedersen, Hem",Frihedslisten,9
+Skive,7,Hem,"Æ_Gitte_Lind_Bendixen,_Selde","Gitte Lind Bendixen, Selde",Frihedslisten,0
+Skive,7,Hem,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,0
+Skive,7,Hem,Ø_Helle_Nørgaard_Lundsby,Helle Nørgaard Lundsby,Enhedslisten - De Rød-Grønne,1
+Skive,7,Hem,Ø_Jacob_Abildgaard,Jacob Abildgaard,Enhedslisten - De Rød-Grønne,2
+Skive,8,Lihme,A_Listestemmer,Listestemmer,Socialdemokratiet,15
+Skive,8,Lihme,"A_Peder_Christensen,_Skive","Peder Christensen, Skive",Socialdemokratiet,44
+Skive,8,Lihme,"A_Ruth_Kristensen,_Skive","Ruth Kristensen, Skive",Socialdemokratiet,2
+Skive,8,Lihme,"A_Niels_Ole_D._Nielsen,_Skive","Niels Ole D. Nielsen, Skive",Socialdemokratiet,0
+Skive,8,Lihme,"A_Stine_Esther_Christensen,_Egeris","Stine Esther Christensen, Egeris",Socialdemokratiet,4
+Skive,8,Lihme,"A_Johnny_Kent_Knudsen,_Skive","Johnny Kent Knudsen, Skive",Socialdemokratiet,2
+Skive,8,Lihme,"A_Bente_Østergaard,_Roslev","Bente Østergaard, Roslev",Socialdemokratiet,0
+Skive,8,Lihme,"A_Claus_Kjeldsen,_Skive","Claus Kjeldsen, Skive",Socialdemokratiet,1
+Skive,8,Lihme,"A_Marianne_Fløe_Fejerskov,_Skive","Marianne Fløe Fejerskov, Skive",Socialdemokratiet,2
+Skive,8,Lihme,"A_Kim_Jepsen,_Ramsing","Kim Jepsen, Ramsing",Socialdemokratiet,47
+Skive,8,Lihme,"A_Henrik_Godsk,_Rødding","Henrik Godsk, Rødding",Socialdemokratiet,8
+Skive,8,Lihme,"A_Jan_D._Andersen,_Jebjerg","Jan D. Andersen, Jebjerg",Socialdemokratiet,2
+Skive,8,Lihme,"A_Keld_Mørk_Kristensen,_Rønbjerg","Keld Mørk Kristensen, Rønbjerg",Socialdemokratiet,1
+Skive,8,Lihme,"A_Susanne_Grove,_Skive","Susanne Grove, Skive",Socialdemokratiet,1
+Skive,8,Lihme,"A_Michael_Lundsted_Nielsen,_Hem","Michael Lundsted Nielsen, Hem",Socialdemokratiet,0
+Skive,8,Lihme,"A_Jonna_Skov,_Skive","Jonna Skov, Skive",Socialdemokratiet,0
+Skive,8,Lihme,"A_Dorte_Christensen,_Fur","Dorte Christensen, Fur",Socialdemokratiet,0
+Skive,8,Lihme,"A_Carsten_Høgh_Nielsen,_Nr._Søby","Carsten Høgh Nielsen, Nr. Søby",Socialdemokratiet,0
+Skive,8,Lihme,"A_Kim_Kurdahl,_Højslev_St.","Kim Kurdahl, Højslev St.",Socialdemokratiet,0
+Skive,8,Lihme,B_Listestemmer,Listestemmer,Radikale Venstre,2
+Skive,8,Lihme,"B_Ellen_Bye_Jensen,_Fur","Ellen Bye Jensen, Fur",Radikale Venstre,4
+Skive,8,Lihme,"B_Henrik_Wæhrens_Winther,_Skive","Henrik Wæhrens Winther, Skive",Radikale Venstre,1
+Skive,8,Lihme,"B_Solveig_Stausholm-Jensen,_Skive","Solveig Stausholm-Jensen, Skive",Radikale Venstre,0
+Skive,8,Lihme,"B_Gorm_Wæhrens,_Skive","Gorm Wæhrens, Skive",Radikale Venstre,1
+Skive,8,Lihme,"B_Egon_Espersen,_Kisumkær","Egon Espersen, Kisumkær",Radikale Venstre,0
+Skive,8,Lihme,"B_Henning_Linderoth,Jebjerg","Henning Linderoth,Jebjerg",Radikale Venstre,0
+Skive,8,Lihme,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,7
+Skive,8,Lihme,"C_Mogens_Birkelund,_Højslev","Mogens Birkelund, Højslev",Det Konservative Folkeparti,1
+Skive,8,Lihme,"C_Kenneth_J._Grinderslev,_Roslev","Kenneth J. Grinderslev, Roslev",Det Konservative Folkeparti,3
+Skive,8,Lihme,"C_Palle_Christensen,_Skive","Palle Christensen, Skive",Det Konservative Folkeparti,1
+Skive,8,Lihme,"C_Peter_Søndergaard,_Dølby","Peter Søndergaard, Dølby",Det Konservative Folkeparti,2
+Skive,8,Lihme,"C_Carl_Eiler_Carlsen,_Glyngøre","Carl Eiler Carlsen, Glyngøre",Det Konservative Folkeparti,0
+Skive,8,Lihme,"C_Bjarne_Linneberg,_Skive","Bjarne Linneberg, Skive",Det Konservative Folkeparti,4
+Skive,8,Lihme,D_Listestemmer,Listestemmer,Nye Borgerlige,3
+Skive,8,Lihme,"D_Erik_Mortensen,_Vile","Erik Mortensen, Vile",Nye Borgerlige,4
+Skive,8,Lihme,"D_Annie_Kaagaard_Kristensen,_Breum","Annie Kaagaard Kristensen, Breum",Nye Borgerlige,2
+Skive,8,Lihme,"D_Morten_Jensen,_Skive","Morten Jensen, Skive",Nye Borgerlige,4
+Skive,8,Lihme,"D_Søren_Andersen,_Højslev","Søren Andersen, Højslev",Nye Borgerlige,0
+Skive,8,Lihme,"D_Frank_Dons_Pedersen,_Skive","Frank Dons Pedersen, Skive",Nye Borgerlige,0
+Skive,8,Lihme,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,8
+Skive,8,Lihme,"F_Anders_Bøge,Lihme","Anders Bøge,Lihme",SF - Socialistisk Folkeparti,52
+Skive,8,Lihme,"F_Elsemarie_Trøst,_Skive","Elsemarie Trøst, Skive",SF - Socialistisk Folkeparti,2
+Skive,8,Lihme,"F_Mia_Sönchen_Johansen,_Skive","Mia Sönchen Johansen, Skive",SF - Socialistisk Folkeparti,3
+Skive,8,Lihme,"F_Jeppe_Tandal_Nielsen,_Skive","Jeppe Tandal Nielsen, Skive",SF - Socialistisk Folkeparti,0
+Skive,8,Lihme,"F_Frits_Laursen,_Glyngøre","Frits Laursen, Glyngøre",SF - Socialistisk Folkeparti,0
+Skive,8,Lihme,"F_Henrik_Bollesen_Nielsen,_Skive","Henrik Bollesen Nielsen, Skive",SF - Socialistisk Folkeparti,1
+Skive,8,Lihme,"F_Thue_Grum-Schwensen,_Spøttrup","Thue Grum-Schwensen, Spøttrup",SF - Socialistisk Folkeparti,0
+Skive,8,Lihme,"F_Thomas_D._Sølvsten,_Brårup","Thomas D. Sølvsten, Brårup",SF - Socialistisk Folkeparti,0
+Skive,8,Lihme,"F_Else_Stokholm,_Skive","Else Stokholm, Skive",SF - Socialistisk Folkeparti,0
+Skive,8,Lihme,"F_Ole_Bisgaard,_Skive","Ole Bisgaard, Skive",SF - Socialistisk Folkeparti,0
+Skive,8,Lihme,"F_Vagn_Pedersen,_Skive","Vagn Pedersen, Skive",SF - Socialistisk Folkeparti,2
+Skive,8,Lihme,M_Listestemmer,Listestemmer,Skive-Listen,0
+Skive,8,Lihme,M_Per_B._Jeppesen,Per B. Jeppesen,Skive-Listen,3
+Skive,8,Lihme,M_Lars_Thoft_Thomsen,Lars Thoft Thomsen,Skive-Listen,0
+Skive,8,Lihme,M_Annette_Daniels_Møller,Annette Daniels Møller,Skive-Listen,0
+Skive,8,Lihme,M_Knud_Mogensen,Knud Mogensen,Skive-Listen,0
+Skive,8,Lihme,M_Hanne_Louise_Eriksen,Hanne Louise Eriksen,Skive-Listen,0
+Skive,8,Lihme,M_Henrik_Skaarup,Henrik Skaarup,Skive-Listen,0
+Skive,8,Lihme,M_Bente_I._Kristensen,Bente I. Kristensen,Skive-Listen,0
+Skive,8,Lihme,M_Leif_Winther,Leif Winther,Skive-Listen,0
+Skive,8,Lihme,M_Jesper_Laursen,Jesper Laursen,Skive-Listen,0
+Skive,8,Lihme,M_Marianne_Bro,Marianne Bro,Skive-Listen,0
+Skive,8,Lihme,M_Leif_Mikkelsen,Leif Mikkelsen,Skive-Listen,0
+Skive,8,Lihme,M_Jan_Plovmand,Jan Plovmand,Skive-Listen,0
+Skive,8,Lihme,M_Heine_Sørensen,Heine Sørensen,Skive-Listen,0
+Skive,8,Lihme,M_Ole_Lindhard,Ole Lindhard,Skive-Listen,0
+Skive,8,Lihme,O_Listestemmer,Listestemmer,Dansk Folkeparti,2
+Skive,8,Lihme,"O_Peter_Mousten_Vestergård,_Jebjerg","Peter Mousten Vestergård, Jebjerg",Dansk Folkeparti,0
+Skive,8,Lihme,"O_Tom_Bøgholm,_Skive","Tom Bøgholm, Skive",Dansk Folkeparti,2
+Skive,8,Lihme,"O_Anders_Simmelsgaard_Krogh,_Brårup","Anders Simmelsgaard Krogh, Brårup",Dansk Folkeparti,4
+Skive,8,Lihme,"O_Keld_Fausing,_Højslev","Keld Fausing, Højslev",Dansk Folkeparti,0
+Skive,8,Lihme,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",9
+Skive,8,Lihme,V_Peder_Christian_Kirkegaard,Peder Christian Kirkegaard,"Venstre, Danmarks Liberale Parti",18
+Skive,8,Lihme,V_Jens_Have,Jens Have,"Venstre, Danmarks Liberale Parti",4
+Skive,8,Lihme,V_Matthias_Landeværn_Nielsen,Matthias Landeværn Nielsen,"Venstre, Danmarks Liberale Parti",0
+Skive,8,Lihme,V_Alfred_Brunsgaard,Alfred Brunsgaard,"Venstre, Danmarks Liberale Parti",1
+Skive,8,Lihme,V_Alice_Bro_Grønvaldt,Alice Bro Grønvaldt,"Venstre, Danmarks Liberale Parti",14
+Skive,8,Lihme,V_Annette_Torp,Annette Torp,"Venstre, Danmarks Liberale Parti",0
+Skive,8,Lihme,V_Betina_Bugge,Betina Bugge,"Venstre, Danmarks Liberale Parti",0
+Skive,8,Lihme,V_Christian_Vad_Holm,Christian Vad Holm,"Venstre, Danmarks Liberale Parti",0
+Skive,8,Lihme,V_Dorthe_Dalsgaard,Dorthe Dalsgaard,"Venstre, Danmarks Liberale Parti",104
+Skive,8,Lihme,V_Evan_Holst,Evan Holst,"Venstre, Danmarks Liberale Parti",0
+Skive,8,Lihme,V_Goska_Rasmussen,Goska Rasmussen,"Venstre, Danmarks Liberale Parti",1
+Skive,8,Lihme,V_Gregers_Frederiksen,Gregers Frederiksen,"Venstre, Danmarks Liberale Parti",3
+Skive,8,Lihme,V_Hanne_Brogaard,Hanne Brogaard,"Venstre, Danmarks Liberale Parti",2
+Skive,8,Lihme,V_Ina_Nyvang,Ina Nyvang,"Venstre, Danmarks Liberale Parti",2
+Skive,8,Lihme,V_Karsten_Nørholm_Villadsen,Karsten Nørholm Villadsen,"Venstre, Danmarks Liberale Parti",2
+Skive,8,Lihme,V_Kenneth_Enggrob,Kenneth Enggrob,"Venstre, Danmarks Liberale Parti",0
+Skive,8,Lihme,V_Mogens_Børsting,Mogens Børsting,"Venstre, Danmarks Liberale Parti",1
+Skive,8,Lihme,V_Morten_Enggaard,Morten Enggaard,"Venstre, Danmarks Liberale Parti",0
+Skive,8,Lihme,V_Olav_Nørgaard,Olav Nørgaard,"Venstre, Danmarks Liberale Parti",0
+Skive,8,Lihme,V_Ole_Faarkrog-Søgaard,Ole Faarkrog-Søgaard,"Venstre, Danmarks Liberale Parti",0
+Skive,8,Lihme,V_Susanne_Toftegaard_Hansen,Susanne Toftegaard Hansen,"Venstre, Danmarks Liberale Parti",0
+Skive,8,Lihme,V_Susanne_Rusbjerg,Susanne Rusbjerg,"Venstre, Danmarks Liberale Parti",0
+Skive,8,Lihme,V_Tom_Nykjær,Tom Nykjær,"Venstre, Danmarks Liberale Parti",0
+Skive,8,Lihme,Æ_Listestemmer,Listestemmer,Frihedslisten,0
+Skive,8,Lihme,"Æ_Bente_Dahl_Pedersen,_Hem","Bente Dahl Pedersen, Hem",Frihedslisten,1
+Skive,8,Lihme,"Æ_Gitte_Lind_Bendixen,_Selde","Gitte Lind Bendixen, Selde",Frihedslisten,0
+Skive,8,Lihme,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,2
+Skive,8,Lihme,Ø_Helle_Nørgaard_Lundsby,Helle Nørgaard Lundsby,Enhedslisten - De Rød-Grønne,2
+Skive,8,Lihme,Ø_Jacob_Abildgaard,Jacob Abildgaard,Enhedslisten - De Rød-Grønne,0
+Skive,9,Oddense - Otting,A_Listestemmer,Listestemmer,Socialdemokratiet,15
+Skive,9,Oddense - Otting,"A_Peder_Christensen,_Skive","Peder Christensen, Skive",Socialdemokratiet,47
+Skive,9,Oddense - Otting,"A_Ruth_Kristensen,_Skive","Ruth Kristensen, Skive",Socialdemokratiet,5
+Skive,9,Oddense - Otting,"A_Niels_Ole_D._Nielsen,_Skive","Niels Ole D. Nielsen, Skive",Socialdemokratiet,0
+Skive,9,Oddense - Otting,"A_Stine_Esther_Christensen,_Egeris","Stine Esther Christensen, Egeris",Socialdemokratiet,6
+Skive,9,Oddense - Otting,"A_Johnny_Kent_Knudsen,_Skive","Johnny Kent Knudsen, Skive",Socialdemokratiet,3
+Skive,9,Oddense - Otting,"A_Bente_Østergaard,_Roslev","Bente Østergaard, Roslev",Socialdemokratiet,5
+Skive,9,Oddense - Otting,"A_Claus_Kjeldsen,_Skive","Claus Kjeldsen, Skive",Socialdemokratiet,0
+Skive,9,Oddense - Otting,"A_Marianne_Fløe_Fejerskov,_Skive","Marianne Fløe Fejerskov, Skive",Socialdemokratiet,1
+Skive,9,Oddense - Otting,"A_Kim_Jepsen,_Ramsing","Kim Jepsen, Ramsing",Socialdemokratiet,2
+Skive,9,Oddense - Otting,"A_Henrik_Godsk,_Rødding","Henrik Godsk, Rødding",Socialdemokratiet,0
+Skive,9,Oddense - Otting,"A_Jan_D._Andersen,_Jebjerg","Jan D. Andersen, Jebjerg",Socialdemokratiet,2
+Skive,9,Oddense - Otting,"A_Keld_Mørk_Kristensen,_Rønbjerg","Keld Mørk Kristensen, Rønbjerg",Socialdemokratiet,1
+Skive,9,Oddense - Otting,"A_Susanne_Grove,_Skive","Susanne Grove, Skive",Socialdemokratiet,2
+Skive,9,Oddense - Otting,"A_Michael_Lundsted_Nielsen,_Hem","Michael Lundsted Nielsen, Hem",Socialdemokratiet,9
+Skive,9,Oddense - Otting,"A_Jonna_Skov,_Skive","Jonna Skov, Skive",Socialdemokratiet,2
+Skive,9,Oddense - Otting,"A_Dorte_Christensen,_Fur","Dorte Christensen, Fur",Socialdemokratiet,0
+Skive,9,Oddense - Otting,"A_Carsten_Høgh_Nielsen,_Nr._Søby","Carsten Høgh Nielsen, Nr. Søby",Socialdemokratiet,0
+Skive,9,Oddense - Otting,"A_Kim_Kurdahl,_Højslev_St.","Kim Kurdahl, Højslev St.",Socialdemokratiet,0
+Skive,9,Oddense - Otting,B_Listestemmer,Listestemmer,Radikale Venstre,3
+Skive,9,Oddense - Otting,"B_Ellen_Bye_Jensen,_Fur","Ellen Bye Jensen, Fur",Radikale Venstre,0
+Skive,9,Oddense - Otting,"B_Henrik_Wæhrens_Winther,_Skive","Henrik Wæhrens Winther, Skive",Radikale Venstre,2
+Skive,9,Oddense - Otting,"B_Solveig_Stausholm-Jensen,_Skive","Solveig Stausholm-Jensen, Skive",Radikale Venstre,0
+Skive,9,Oddense - Otting,"B_Gorm_Wæhrens,_Skive","Gorm Wæhrens, Skive",Radikale Venstre,1
+Skive,9,Oddense - Otting,"B_Egon_Espersen,_Kisumkær","Egon Espersen, Kisumkær",Radikale Venstre,0
+Skive,9,Oddense - Otting,"B_Henning_Linderoth,Jebjerg","Henning Linderoth,Jebjerg",Radikale Venstre,2
+Skive,9,Oddense - Otting,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,1
+Skive,9,Oddense - Otting,"C_Mogens_Birkelund,_Højslev","Mogens Birkelund, Højslev",Det Konservative Folkeparti,0
+Skive,9,Oddense - Otting,"C_Kenneth_J._Grinderslev,_Roslev","Kenneth J. Grinderslev, Roslev",Det Konservative Folkeparti,2
+Skive,9,Oddense - Otting,"C_Palle_Christensen,_Skive","Palle Christensen, Skive",Det Konservative Folkeparti,1
+Skive,9,Oddense - Otting,"C_Peter_Søndergaard,_Dølby","Peter Søndergaard, Dølby",Det Konservative Folkeparti,0
+Skive,9,Oddense - Otting,"C_Carl_Eiler_Carlsen,_Glyngøre","Carl Eiler Carlsen, Glyngøre",Det Konservative Folkeparti,1
+Skive,9,Oddense - Otting,"C_Bjarne_Linneberg,_Skive","Bjarne Linneberg, Skive",Det Konservative Folkeparti,2
+Skive,9,Oddense - Otting,D_Listestemmer,Listestemmer,Nye Borgerlige,11
+Skive,9,Oddense - Otting,"D_Erik_Mortensen,_Vile","Erik Mortensen, Vile",Nye Borgerlige,2
+Skive,9,Oddense - Otting,"D_Annie_Kaagaard_Kristensen,_Breum","Annie Kaagaard Kristensen, Breum",Nye Borgerlige,3
+Skive,9,Oddense - Otting,"D_Morten_Jensen,_Skive","Morten Jensen, Skive",Nye Borgerlige,4
+Skive,9,Oddense - Otting,"D_Søren_Andersen,_Højslev","Søren Andersen, Højslev",Nye Borgerlige,0
+Skive,9,Oddense - Otting,"D_Frank_Dons_Pedersen,_Skive","Frank Dons Pedersen, Skive",Nye Borgerlige,0
+Skive,9,Oddense - Otting,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,5
+Skive,9,Oddense - Otting,"F_Anders_Bøge,Lihme","Anders Bøge,Lihme",SF - Socialistisk Folkeparti,10
+Skive,9,Oddense - Otting,"F_Elsemarie_Trøst,_Skive","Elsemarie Trøst, Skive",SF - Socialistisk Folkeparti,3
+Skive,9,Oddense - Otting,"F_Mia_Sönchen_Johansen,_Skive","Mia Sönchen Johansen, Skive",SF - Socialistisk Folkeparti,2
+Skive,9,Oddense - Otting,"F_Jeppe_Tandal_Nielsen,_Skive","Jeppe Tandal Nielsen, Skive",SF - Socialistisk Folkeparti,0
+Skive,9,Oddense - Otting,"F_Frits_Laursen,_Glyngøre","Frits Laursen, Glyngøre",SF - Socialistisk Folkeparti,0
+Skive,9,Oddense - Otting,"F_Henrik_Bollesen_Nielsen,_Skive","Henrik Bollesen Nielsen, Skive",SF - Socialistisk Folkeparti,0
+Skive,9,Oddense - Otting,"F_Thue_Grum-Schwensen,_Spøttrup","Thue Grum-Schwensen, Spøttrup",SF - Socialistisk Folkeparti,3
+Skive,9,Oddense - Otting,"F_Thomas_D._Sølvsten,_Brårup","Thomas D. Sølvsten, Brårup",SF - Socialistisk Folkeparti,0
+Skive,9,Oddense - Otting,"F_Else_Stokholm,_Skive","Else Stokholm, Skive",SF - Socialistisk Folkeparti,1
+Skive,9,Oddense - Otting,"F_Ole_Bisgaard,_Skive","Ole Bisgaard, Skive",SF - Socialistisk Folkeparti,0
+Skive,9,Oddense - Otting,"F_Vagn_Pedersen,_Skive","Vagn Pedersen, Skive",SF - Socialistisk Folkeparti,0
+Skive,9,Oddense - Otting,M_Listestemmer,Listestemmer,Skive-Listen,1
+Skive,9,Oddense - Otting,M_Per_B._Jeppesen,Per B. Jeppesen,Skive-Listen,1
+Skive,9,Oddense - Otting,M_Lars_Thoft_Thomsen,Lars Thoft Thomsen,Skive-Listen,0
+Skive,9,Oddense - Otting,M_Annette_Daniels_Møller,Annette Daniels Møller,Skive-Listen,0
+Skive,9,Oddense - Otting,M_Knud_Mogensen,Knud Mogensen,Skive-Listen,0
+Skive,9,Oddense - Otting,M_Hanne_Louise_Eriksen,Hanne Louise Eriksen,Skive-Listen,0
+Skive,9,Oddense - Otting,M_Henrik_Skaarup,Henrik Skaarup,Skive-Listen,0
+Skive,9,Oddense - Otting,M_Bente_I._Kristensen,Bente I. Kristensen,Skive-Listen,0
+Skive,9,Oddense - Otting,M_Leif_Winther,Leif Winther,Skive-Listen,0
+Skive,9,Oddense - Otting,M_Jesper_Laursen,Jesper Laursen,Skive-Listen,0
+Skive,9,Oddense - Otting,M_Marianne_Bro,Marianne Bro,Skive-Listen,0
+Skive,9,Oddense - Otting,M_Leif_Mikkelsen,Leif Mikkelsen,Skive-Listen,0
+Skive,9,Oddense - Otting,M_Jan_Plovmand,Jan Plovmand,Skive-Listen,0
+Skive,9,Oddense - Otting,M_Heine_Sørensen,Heine Sørensen,Skive-Listen,0
+Skive,9,Oddense - Otting,M_Ole_Lindhard,Ole Lindhard,Skive-Listen,1
+Skive,9,Oddense - Otting,O_Listestemmer,Listestemmer,Dansk Folkeparti,2
+Skive,9,Oddense - Otting,"O_Peter_Mousten_Vestergård,_Jebjerg","Peter Mousten Vestergård, Jebjerg",Dansk Folkeparti,3
+Skive,9,Oddense - Otting,"O_Tom_Bøgholm,_Skive","Tom Bøgholm, Skive",Dansk Folkeparti,2
+Skive,9,Oddense - Otting,"O_Anders_Simmelsgaard_Krogh,_Brårup","Anders Simmelsgaard Krogh, Brårup",Dansk Folkeparti,0
+Skive,9,Oddense - Otting,"O_Keld_Fausing,_Højslev","Keld Fausing, Højslev",Dansk Folkeparti,0
+Skive,9,Oddense - Otting,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",12
+Skive,9,Oddense - Otting,V_Peder_Christian_Kirkegaard,Peder Christian Kirkegaard,"Venstre, Danmarks Liberale Parti",31
+Skive,9,Oddense - Otting,V_Jens_Have,Jens Have,"Venstre, Danmarks Liberale Parti",0
+Skive,9,Oddense - Otting,V_Matthias_Landeværn_Nielsen,Matthias Landeværn Nielsen,"Venstre, Danmarks Liberale Parti",3
+Skive,9,Oddense - Otting,V_Alfred_Brunsgaard,Alfred Brunsgaard,"Venstre, Danmarks Liberale Parti",232
+Skive,9,Oddense - Otting,V_Alice_Bro_Grønvaldt,Alice Bro Grønvaldt,"Venstre, Danmarks Liberale Parti",7
+Skive,9,Oddense - Otting,V_Annette_Torp,Annette Torp,"Venstre, Danmarks Liberale Parti",0
+Skive,9,Oddense - Otting,V_Betina_Bugge,Betina Bugge,"Venstre, Danmarks Liberale Parti",2
+Skive,9,Oddense - Otting,V_Christian_Vad_Holm,Christian Vad Holm,"Venstre, Danmarks Liberale Parti",0
+Skive,9,Oddense - Otting,V_Dorthe_Dalsgaard,Dorthe Dalsgaard,"Venstre, Danmarks Liberale Parti",2
+Skive,9,Oddense - Otting,V_Evan_Holst,Evan Holst,"Venstre, Danmarks Liberale Parti",0
+Skive,9,Oddense - Otting,V_Goska_Rasmussen,Goska Rasmussen,"Venstre, Danmarks Liberale Parti",4
+Skive,9,Oddense - Otting,V_Gregers_Frederiksen,Gregers Frederiksen,"Venstre, Danmarks Liberale Parti",3
+Skive,9,Oddense - Otting,V_Hanne_Brogaard,Hanne Brogaard,"Venstre, Danmarks Liberale Parti",2
+Skive,9,Oddense - Otting,V_Ina_Nyvang,Ina Nyvang,"Venstre, Danmarks Liberale Parti",0
+Skive,9,Oddense - Otting,V_Karsten_Nørholm_Villadsen,Karsten Nørholm Villadsen,"Venstre, Danmarks Liberale Parti",0
+Skive,9,Oddense - Otting,V_Kenneth_Enggrob,Kenneth Enggrob,"Venstre, Danmarks Liberale Parti",0
+Skive,9,Oddense - Otting,V_Mogens_Børsting,Mogens Børsting,"Venstre, Danmarks Liberale Parti",4
+Skive,9,Oddense - Otting,V_Morten_Enggaard,Morten Enggaard,"Venstre, Danmarks Liberale Parti",1
+Skive,9,Oddense - Otting,V_Olav_Nørgaard,Olav Nørgaard,"Venstre, Danmarks Liberale Parti",0
+Skive,9,Oddense - Otting,V_Ole_Faarkrog-Søgaard,Ole Faarkrog-Søgaard,"Venstre, Danmarks Liberale Parti",2
+Skive,9,Oddense - Otting,V_Susanne_Toftegaard_Hansen,Susanne Toftegaard Hansen,"Venstre, Danmarks Liberale Parti",1
+Skive,9,Oddense - Otting,V_Susanne_Rusbjerg,Susanne Rusbjerg,"Venstre, Danmarks Liberale Parti",0
+Skive,9,Oddense - Otting,V_Tom_Nykjær,Tom Nykjær,"Venstre, Danmarks Liberale Parti",0
+Skive,9,Oddense - Otting,Æ_Listestemmer,Listestemmer,Frihedslisten,0
+Skive,9,Oddense - Otting,"Æ_Bente_Dahl_Pedersen,_Hem","Bente Dahl Pedersen, Hem",Frihedslisten,0
+Skive,9,Oddense - Otting,"Æ_Gitte_Lind_Bendixen,_Selde","Gitte Lind Bendixen, Selde",Frihedslisten,0
+Skive,9,Oddense - Otting,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,2
+Skive,9,Oddense - Otting,Ø_Helle_Nørgaard_Lundsby,Helle Nørgaard Lundsby,Enhedslisten - De Rød-Grønne,5
+Skive,9,Oddense - Otting,Ø_Jacob_Abildgaard,Jacob Abildgaard,Enhedslisten - De Rød-Grønne,0
+Skive,10,Rødding,A_Listestemmer,Listestemmer,Socialdemokratiet,15
+Skive,10,Rødding,"A_Peder_Christensen,_Skive","Peder Christensen, Skive",Socialdemokratiet,51
+Skive,10,Rødding,"A_Ruth_Kristensen,_Skive","Ruth Kristensen, Skive",Socialdemokratiet,7
+Skive,10,Rødding,"A_Niels_Ole_D._Nielsen,_Skive","Niels Ole D. Nielsen, Skive",Socialdemokratiet,1
+Skive,10,Rødding,"A_Stine_Esther_Christensen,_Egeris","Stine Esther Christensen, Egeris",Socialdemokratiet,6
+Skive,10,Rødding,"A_Johnny_Kent_Knudsen,_Skive","Johnny Kent Knudsen, Skive",Socialdemokratiet,4
+Skive,10,Rødding,"A_Bente_Østergaard,_Roslev","Bente Østergaard, Roslev",Socialdemokratiet,0
+Skive,10,Rødding,"A_Claus_Kjeldsen,_Skive","Claus Kjeldsen, Skive",Socialdemokratiet,0
+Skive,10,Rødding,"A_Marianne_Fløe_Fejerskov,_Skive","Marianne Fløe Fejerskov, Skive",Socialdemokratiet,0
+Skive,10,Rødding,"A_Kim_Jepsen,_Ramsing","Kim Jepsen, Ramsing",Socialdemokratiet,37
+Skive,10,Rødding,"A_Henrik_Godsk,_Rødding","Henrik Godsk, Rødding",Socialdemokratiet,205
+Skive,10,Rødding,"A_Jan_D._Andersen,_Jebjerg","Jan D. Andersen, Jebjerg",Socialdemokratiet,1
+Skive,10,Rødding,"A_Keld_Mørk_Kristensen,_Rønbjerg","Keld Mørk Kristensen, Rønbjerg",Socialdemokratiet,2
+Skive,10,Rødding,"A_Susanne_Grove,_Skive","Susanne Grove, Skive",Socialdemokratiet,1
+Skive,10,Rødding,"A_Michael_Lundsted_Nielsen,_Hem","Michael Lundsted Nielsen, Hem",Socialdemokratiet,4
+Skive,10,Rødding,"A_Jonna_Skov,_Skive","Jonna Skov, Skive",Socialdemokratiet,0
+Skive,10,Rødding,"A_Dorte_Christensen,_Fur","Dorte Christensen, Fur",Socialdemokratiet,0
+Skive,10,Rødding,"A_Carsten_Høgh_Nielsen,_Nr._Søby","Carsten Høgh Nielsen, Nr. Søby",Socialdemokratiet,0
+Skive,10,Rødding,"A_Kim_Kurdahl,_Højslev_St.","Kim Kurdahl, Højslev St.",Socialdemokratiet,1
+Skive,10,Rødding,B_Listestemmer,Listestemmer,Radikale Venstre,1
+Skive,10,Rødding,"B_Ellen_Bye_Jensen,_Fur","Ellen Bye Jensen, Fur",Radikale Venstre,1
+Skive,10,Rødding,"B_Henrik_Wæhrens_Winther,_Skive","Henrik Wæhrens Winther, Skive",Radikale Venstre,0
+Skive,10,Rødding,"B_Solveig_Stausholm-Jensen,_Skive","Solveig Stausholm-Jensen, Skive",Radikale Venstre,0
+Skive,10,Rødding,"B_Gorm_Wæhrens,_Skive","Gorm Wæhrens, Skive",Radikale Venstre,0
+Skive,10,Rødding,"B_Egon_Espersen,_Kisumkær","Egon Espersen, Kisumkær",Radikale Venstre,0
+Skive,10,Rødding,"B_Henning_Linderoth,Jebjerg","Henning Linderoth,Jebjerg",Radikale Venstre,1
+Skive,10,Rødding,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,10
+Skive,10,Rødding,"C_Mogens_Birkelund,_Højslev","Mogens Birkelund, Højslev",Det Konservative Folkeparti,2
+Skive,10,Rødding,"C_Kenneth_J._Grinderslev,_Roslev","Kenneth J. Grinderslev, Roslev",Det Konservative Folkeparti,3
+Skive,10,Rødding,"C_Palle_Christensen,_Skive","Palle Christensen, Skive",Det Konservative Folkeparti,0
+Skive,10,Rødding,"C_Peter_Søndergaard,_Dølby","Peter Søndergaard, Dølby",Det Konservative Folkeparti,1
+Skive,10,Rødding,"C_Carl_Eiler_Carlsen,_Glyngøre","Carl Eiler Carlsen, Glyngøre",Det Konservative Folkeparti,0
+Skive,10,Rødding,"C_Bjarne_Linneberg,_Skive","Bjarne Linneberg, Skive",Det Konservative Folkeparti,0
+Skive,10,Rødding,D_Listestemmer,Listestemmer,Nye Borgerlige,9
+Skive,10,Rødding,"D_Erik_Mortensen,_Vile","Erik Mortensen, Vile",Nye Borgerlige,7
+Skive,10,Rødding,"D_Annie_Kaagaard_Kristensen,_Breum","Annie Kaagaard Kristensen, Breum",Nye Borgerlige,1
+Skive,10,Rødding,"D_Morten_Jensen,_Skive","Morten Jensen, Skive",Nye Borgerlige,6
+Skive,10,Rødding,"D_Søren_Andersen,_Højslev","Søren Andersen, Højslev",Nye Borgerlige,2
+Skive,10,Rødding,"D_Frank_Dons_Pedersen,_Skive","Frank Dons Pedersen, Skive",Nye Borgerlige,0
+Skive,10,Rødding,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,4
+Skive,10,Rødding,"F_Anders_Bøge,Lihme","Anders Bøge,Lihme",SF - Socialistisk Folkeparti,34
+Skive,10,Rødding,"F_Elsemarie_Trøst,_Skive","Elsemarie Trøst, Skive",SF - Socialistisk Folkeparti,6
+Skive,10,Rødding,"F_Mia_Sönchen_Johansen,_Skive","Mia Sönchen Johansen, Skive",SF - Socialistisk Folkeparti,5
+Skive,10,Rødding,"F_Jeppe_Tandal_Nielsen,_Skive","Jeppe Tandal Nielsen, Skive",SF - Socialistisk Folkeparti,0
+Skive,10,Rødding,"F_Frits_Laursen,_Glyngøre","Frits Laursen, Glyngøre",SF - Socialistisk Folkeparti,1
+Skive,10,Rødding,"F_Henrik_Bollesen_Nielsen,_Skive","Henrik Bollesen Nielsen, Skive",SF - Socialistisk Folkeparti,0
+Skive,10,Rødding,"F_Thue_Grum-Schwensen,_Spøttrup","Thue Grum-Schwensen, Spøttrup",SF - Socialistisk Folkeparti,3
+Skive,10,Rødding,"F_Thomas_D._Sølvsten,_Brårup","Thomas D. Sølvsten, Brårup",SF - Socialistisk Folkeparti,0
+Skive,10,Rødding,"F_Else_Stokholm,_Skive","Else Stokholm, Skive",SF - Socialistisk Folkeparti,0
+Skive,10,Rødding,"F_Ole_Bisgaard,_Skive","Ole Bisgaard, Skive",SF - Socialistisk Folkeparti,0
+Skive,10,Rødding,"F_Vagn_Pedersen,_Skive","Vagn Pedersen, Skive",SF - Socialistisk Folkeparti,0
+Skive,10,Rødding,M_Listestemmer,Listestemmer,Skive-Listen,2
+Skive,10,Rødding,M_Per_B._Jeppesen,Per B. Jeppesen,Skive-Listen,7
+Skive,10,Rødding,M_Lars_Thoft_Thomsen,Lars Thoft Thomsen,Skive-Listen,1
+Skive,10,Rødding,M_Annette_Daniels_Møller,Annette Daniels Møller,Skive-Listen,0
+Skive,10,Rødding,M_Knud_Mogensen,Knud Mogensen,Skive-Listen,0
+Skive,10,Rødding,M_Hanne_Louise_Eriksen,Hanne Louise Eriksen,Skive-Listen,1
+Skive,10,Rødding,M_Henrik_Skaarup,Henrik Skaarup,Skive-Listen,0
+Skive,10,Rødding,M_Bente_I._Kristensen,Bente I. Kristensen,Skive-Listen,0
+Skive,10,Rødding,M_Leif_Winther,Leif Winther,Skive-Listen,0
+Skive,10,Rødding,M_Jesper_Laursen,Jesper Laursen,Skive-Listen,0
+Skive,10,Rødding,M_Marianne_Bro,Marianne Bro,Skive-Listen,0
+Skive,10,Rødding,M_Leif_Mikkelsen,Leif Mikkelsen,Skive-Listen,1
+Skive,10,Rødding,M_Jan_Plovmand,Jan Plovmand,Skive-Listen,0
+Skive,10,Rødding,M_Heine_Sørensen,Heine Sørensen,Skive-Listen,0
+Skive,10,Rødding,M_Ole_Lindhard,Ole Lindhard,Skive-Listen,2
+Skive,10,Rødding,O_Listestemmer,Listestemmer,Dansk Folkeparti,17
+Skive,10,Rødding,"O_Peter_Mousten_Vestergård,_Jebjerg","Peter Mousten Vestergård, Jebjerg",Dansk Folkeparti,8
+Skive,10,Rødding,"O_Tom_Bøgholm,_Skive","Tom Bøgholm, Skive",Dansk Folkeparti,5
+Skive,10,Rødding,"O_Anders_Simmelsgaard_Krogh,_Brårup","Anders Simmelsgaard Krogh, Brårup",Dansk Folkeparti,1
+Skive,10,Rødding,"O_Keld_Fausing,_Højslev","Keld Fausing, Højslev",Dansk Folkeparti,0
+Skive,10,Rødding,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",30
+Skive,10,Rødding,V_Peder_Christian_Kirkegaard,Peder Christian Kirkegaard,"Venstre, Danmarks Liberale Parti",54
+Skive,10,Rødding,V_Jens_Have,Jens Have,"Venstre, Danmarks Liberale Parti",7
+Skive,10,Rødding,V_Matthias_Landeværn_Nielsen,Matthias Landeværn Nielsen,"Venstre, Danmarks Liberale Parti",0
+Skive,10,Rødding,V_Alfred_Brunsgaard,Alfred Brunsgaard,"Venstre, Danmarks Liberale Parti",12
+Skive,10,Rødding,V_Alice_Bro_Grønvaldt,Alice Bro Grønvaldt,"Venstre, Danmarks Liberale Parti",157
+Skive,10,Rødding,V_Annette_Torp,Annette Torp,"Venstre, Danmarks Liberale Parti",0
+Skive,10,Rødding,V_Betina_Bugge,Betina Bugge,"Venstre, Danmarks Liberale Parti",1
+Skive,10,Rødding,V_Christian_Vad_Holm,Christian Vad Holm,"Venstre, Danmarks Liberale Parti",3
+Skive,10,Rødding,V_Dorthe_Dalsgaard,Dorthe Dalsgaard,"Venstre, Danmarks Liberale Parti",14
+Skive,10,Rødding,V_Evan_Holst,Evan Holst,"Venstre, Danmarks Liberale Parti",0
+Skive,10,Rødding,V_Goska_Rasmussen,Goska Rasmussen,"Venstre, Danmarks Liberale Parti",10
+Skive,10,Rødding,V_Gregers_Frederiksen,Gregers Frederiksen,"Venstre, Danmarks Liberale Parti",3
+Skive,10,Rødding,V_Hanne_Brogaard,Hanne Brogaard,"Venstre, Danmarks Liberale Parti",0
+Skive,10,Rødding,V_Ina_Nyvang,Ina Nyvang,"Venstre, Danmarks Liberale Parti",0
+Skive,10,Rødding,V_Karsten_Nørholm_Villadsen,Karsten Nørholm Villadsen,"Venstre, Danmarks Liberale Parti",34
+Skive,10,Rødding,V_Kenneth_Enggrob,Kenneth Enggrob,"Venstre, Danmarks Liberale Parti",2
+Skive,10,Rødding,V_Mogens_Børsting,Mogens Børsting,"Venstre, Danmarks Liberale Parti",3
+Skive,10,Rødding,V_Morten_Enggaard,Morten Enggaard,"Venstre, Danmarks Liberale Parti",2
+Skive,10,Rødding,V_Olav_Nørgaard,Olav Nørgaard,"Venstre, Danmarks Liberale Parti",2
+Skive,10,Rødding,V_Ole_Faarkrog-Søgaard,Ole Faarkrog-Søgaard,"Venstre, Danmarks Liberale Parti",0
+Skive,10,Rødding,V_Susanne_Toftegaard_Hansen,Susanne Toftegaard Hansen,"Venstre, Danmarks Liberale Parti",0
+Skive,10,Rødding,V_Susanne_Rusbjerg,Susanne Rusbjerg,"Venstre, Danmarks Liberale Parti",0
+Skive,10,Rødding,V_Tom_Nykjær,Tom Nykjær,"Venstre, Danmarks Liberale Parti",1
+Skive,10,Rødding,Æ_Listestemmer,Listestemmer,Frihedslisten,0
+Skive,10,Rødding,"Æ_Bente_Dahl_Pedersen,_Hem","Bente Dahl Pedersen, Hem",Frihedslisten,1
+Skive,10,Rødding,"Æ_Gitte_Lind_Bendixen,_Selde","Gitte Lind Bendixen, Selde",Frihedslisten,0
+Skive,10,Rødding,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,3
+Skive,10,Rødding,Ø_Helle_Nørgaard_Lundsby,Helle Nørgaard Lundsby,Enhedslisten - De Rød-Grønne,2
+Skive,10,Rødding,Ø_Jacob_Abildgaard,Jacob Abildgaard,Enhedslisten - De Rød-Grønne,2
+Skive,11,Glyngøre,A_Listestemmer,Listestemmer,Socialdemokratiet,62
+Skive,11,Glyngøre,"A_Peder_Christensen,_Skive","Peder Christensen, Skive",Socialdemokratiet,98
+Skive,11,Glyngøre,"A_Ruth_Kristensen,_Skive","Ruth Kristensen, Skive",Socialdemokratiet,3
+Skive,11,Glyngøre,"A_Niels_Ole_D._Nielsen,_Skive","Niels Ole D. Nielsen, Skive",Socialdemokratiet,2
+Skive,11,Glyngøre,"A_Stine_Esther_Christensen,_Egeris","Stine Esther Christensen, Egeris",Socialdemokratiet,3
+Skive,11,Glyngøre,"A_Johnny_Kent_Knudsen,_Skive","Johnny Kent Knudsen, Skive",Socialdemokratiet,2
+Skive,11,Glyngøre,"A_Bente_Østergaard,_Roslev","Bente Østergaard, Roslev",Socialdemokratiet,36
+Skive,11,Glyngøre,"A_Claus_Kjeldsen,_Skive","Claus Kjeldsen, Skive",Socialdemokratiet,2
+Skive,11,Glyngøre,"A_Marianne_Fløe_Fejerskov,_Skive","Marianne Fløe Fejerskov, Skive",Socialdemokratiet,1
+Skive,11,Glyngøre,"A_Kim_Jepsen,_Ramsing","Kim Jepsen, Ramsing",Socialdemokratiet,4
+Skive,11,Glyngøre,"A_Henrik_Godsk,_Rødding","Henrik Godsk, Rødding",Socialdemokratiet,0
+Skive,11,Glyngøre,"A_Jan_D._Andersen,_Jebjerg","Jan D. Andersen, Jebjerg",Socialdemokratiet,1
+Skive,11,Glyngøre,"A_Keld_Mørk_Kristensen,_Rønbjerg","Keld Mørk Kristensen, Rønbjerg",Socialdemokratiet,0
+Skive,11,Glyngøre,"A_Susanne_Grove,_Skive","Susanne Grove, Skive",Socialdemokratiet,12
+Skive,11,Glyngøre,"A_Michael_Lundsted_Nielsen,_Hem","Michael Lundsted Nielsen, Hem",Socialdemokratiet,1
+Skive,11,Glyngøre,"A_Jonna_Skov,_Skive","Jonna Skov, Skive",Socialdemokratiet,2
+Skive,11,Glyngøre,"A_Dorte_Christensen,_Fur","Dorte Christensen, Fur",Socialdemokratiet,0
+Skive,11,Glyngøre,"A_Carsten_Høgh_Nielsen,_Nr._Søby","Carsten Høgh Nielsen, Nr. Søby",Socialdemokratiet,0
+Skive,11,Glyngøre,"A_Kim_Kurdahl,_Højslev_St.","Kim Kurdahl, Højslev St.",Socialdemokratiet,0
+Skive,11,Glyngøre,B_Listestemmer,Listestemmer,Radikale Venstre,7
+Skive,11,Glyngøre,"B_Ellen_Bye_Jensen,_Fur","Ellen Bye Jensen, Fur",Radikale Venstre,7
+Skive,11,Glyngøre,"B_Henrik_Wæhrens_Winther,_Skive","Henrik Wæhrens Winther, Skive",Radikale Venstre,2
+Skive,11,Glyngøre,"B_Solveig_Stausholm-Jensen,_Skive","Solveig Stausholm-Jensen, Skive",Radikale Venstre,1
+Skive,11,Glyngøre,"B_Gorm_Wæhrens,_Skive","Gorm Wæhrens, Skive",Radikale Venstre,1
+Skive,11,Glyngøre,"B_Egon_Espersen,_Kisumkær","Egon Espersen, Kisumkær",Radikale Venstre,0
+Skive,11,Glyngøre,"B_Henning_Linderoth,Jebjerg","Henning Linderoth,Jebjerg",Radikale Venstre,0
+Skive,11,Glyngøre,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,9
+Skive,11,Glyngøre,"C_Mogens_Birkelund,_Højslev","Mogens Birkelund, Højslev",Det Konservative Folkeparti,4
+Skive,11,Glyngøre,"C_Kenneth_J._Grinderslev,_Roslev","Kenneth J. Grinderslev, Roslev",Det Konservative Folkeparti,3
+Skive,11,Glyngøre,"C_Palle_Christensen,_Skive","Palle Christensen, Skive",Det Konservative Folkeparti,0
+Skive,11,Glyngøre,"C_Peter_Søndergaard,_Dølby","Peter Søndergaard, Dølby",Det Konservative Folkeparti,1
+Skive,11,Glyngøre,"C_Carl_Eiler_Carlsen,_Glyngøre","Carl Eiler Carlsen, Glyngøre",Det Konservative Folkeparti,24
+Skive,11,Glyngøre,"C_Bjarne_Linneberg,_Skive","Bjarne Linneberg, Skive",Det Konservative Folkeparti,1
+Skive,11,Glyngøre,D_Listestemmer,Listestemmer,Nye Borgerlige,10
+Skive,11,Glyngøre,"D_Erik_Mortensen,_Vile","Erik Mortensen, Vile",Nye Borgerlige,79
+Skive,11,Glyngøre,"D_Annie_Kaagaard_Kristensen,_Breum","Annie Kaagaard Kristensen, Breum",Nye Borgerlige,7
+Skive,11,Glyngøre,"D_Morten_Jensen,_Skive","Morten Jensen, Skive",Nye Borgerlige,5
+Skive,11,Glyngøre,"D_Søren_Andersen,_Højslev","Søren Andersen, Højslev",Nye Borgerlige,1
+Skive,11,Glyngøre,"D_Frank_Dons_Pedersen,_Skive","Frank Dons Pedersen, Skive",Nye Borgerlige,0
+Skive,11,Glyngøre,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,4
+Skive,11,Glyngøre,"F_Anders_Bøge,Lihme","Anders Bøge,Lihme",SF - Socialistisk Folkeparti,25
+Skive,11,Glyngøre,"F_Elsemarie_Trøst,_Skive","Elsemarie Trøst, Skive",SF - Socialistisk Folkeparti,3
+Skive,11,Glyngøre,"F_Mia_Sönchen_Johansen,_Skive","Mia Sönchen Johansen, Skive",SF - Socialistisk Folkeparti,9
+Skive,11,Glyngøre,"F_Jeppe_Tandal_Nielsen,_Skive","Jeppe Tandal Nielsen, Skive",SF - Socialistisk Folkeparti,4
+Skive,11,Glyngøre,"F_Frits_Laursen,_Glyngøre","Frits Laursen, Glyngøre",SF - Socialistisk Folkeparti,27
+Skive,11,Glyngøre,"F_Henrik_Bollesen_Nielsen,_Skive","Henrik Bollesen Nielsen, Skive",SF - Socialistisk Folkeparti,3
+Skive,11,Glyngøre,"F_Thue_Grum-Schwensen,_Spøttrup","Thue Grum-Schwensen, Spøttrup",SF - Socialistisk Folkeparti,2
+Skive,11,Glyngøre,"F_Thomas_D._Sølvsten,_Brårup","Thomas D. Sølvsten, Brårup",SF - Socialistisk Folkeparti,1
+Skive,11,Glyngøre,"F_Else_Stokholm,_Skive","Else Stokholm, Skive",SF - Socialistisk Folkeparti,1
+Skive,11,Glyngøre,"F_Ole_Bisgaard,_Skive","Ole Bisgaard, Skive",SF - Socialistisk Folkeparti,0
+Skive,11,Glyngøre,"F_Vagn_Pedersen,_Skive","Vagn Pedersen, Skive",SF - Socialistisk Folkeparti,0
+Skive,11,Glyngøre,M_Listestemmer,Listestemmer,Skive-Listen,0
+Skive,11,Glyngøre,M_Per_B._Jeppesen,Per B. Jeppesen,Skive-Listen,3
+Skive,11,Glyngøre,M_Lars_Thoft_Thomsen,Lars Thoft Thomsen,Skive-Listen,2
+Skive,11,Glyngøre,M_Annette_Daniels_Møller,Annette Daniels Møller,Skive-Listen,2
+Skive,11,Glyngøre,M_Knud_Mogensen,Knud Mogensen,Skive-Listen,0
+Skive,11,Glyngøre,M_Hanne_Louise_Eriksen,Hanne Louise Eriksen,Skive-Listen,0
+Skive,11,Glyngøre,M_Henrik_Skaarup,Henrik Skaarup,Skive-Listen,0
+Skive,11,Glyngøre,M_Bente_I._Kristensen,Bente I. Kristensen,Skive-Listen,0
+Skive,11,Glyngøre,M_Leif_Winther,Leif Winther,Skive-Listen,0
+Skive,11,Glyngøre,M_Jesper_Laursen,Jesper Laursen,Skive-Listen,0
+Skive,11,Glyngøre,M_Marianne_Bro,Marianne Bro,Skive-Listen,0
+Skive,11,Glyngøre,M_Leif_Mikkelsen,Leif Mikkelsen,Skive-Listen,0
+Skive,11,Glyngøre,M_Jan_Plovmand,Jan Plovmand,Skive-Listen,0
+Skive,11,Glyngøre,M_Heine_Sørensen,Heine Sørensen,Skive-Listen,0
+Skive,11,Glyngøre,M_Ole_Lindhard,Ole Lindhard,Skive-Listen,1
+Skive,11,Glyngøre,O_Listestemmer,Listestemmer,Dansk Folkeparti,13
+Skive,11,Glyngøre,"O_Peter_Mousten_Vestergård,_Jebjerg","Peter Mousten Vestergård, Jebjerg",Dansk Folkeparti,10
+Skive,11,Glyngøre,"O_Tom_Bøgholm,_Skive","Tom Bøgholm, Skive",Dansk Folkeparti,3
+Skive,11,Glyngøre,"O_Anders_Simmelsgaard_Krogh,_Brårup","Anders Simmelsgaard Krogh, Brårup",Dansk Folkeparti,4
+Skive,11,Glyngøre,"O_Keld_Fausing,_Højslev","Keld Fausing, Højslev",Dansk Folkeparti,0
+Skive,11,Glyngøre,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",24
+Skive,11,Glyngøre,V_Peder_Christian_Kirkegaard,Peder Christian Kirkegaard,"Venstre, Danmarks Liberale Parti",82
+Skive,11,Glyngøre,V_Jens_Have,Jens Have,"Venstre, Danmarks Liberale Parti",1
+Skive,11,Glyngøre,V_Matthias_Landeværn_Nielsen,Matthias Landeværn Nielsen,"Venstre, Danmarks Liberale Parti",4
+Skive,11,Glyngøre,V_Alfred_Brunsgaard,Alfred Brunsgaard,"Venstre, Danmarks Liberale Parti",12
+Skive,11,Glyngøre,V_Alice_Bro_Grønvaldt,Alice Bro Grønvaldt,"Venstre, Danmarks Liberale Parti",11
+Skive,11,Glyngøre,V_Annette_Torp,Annette Torp,"Venstre, Danmarks Liberale Parti",6
+Skive,11,Glyngøre,V_Betina_Bugge,Betina Bugge,"Venstre, Danmarks Liberale Parti",4
+Skive,11,Glyngøre,V_Christian_Vad_Holm,Christian Vad Holm,"Venstre, Danmarks Liberale Parti",1
+Skive,11,Glyngøre,V_Dorthe_Dalsgaard,Dorthe Dalsgaard,"Venstre, Danmarks Liberale Parti",0
+Skive,11,Glyngøre,V_Evan_Holst,Evan Holst,"Venstre, Danmarks Liberale Parti",2
+Skive,11,Glyngøre,V_Goska_Rasmussen,Goska Rasmussen,"Venstre, Danmarks Liberale Parti",398
+Skive,11,Glyngøre,V_Gregers_Frederiksen,Gregers Frederiksen,"Venstre, Danmarks Liberale Parti",10
+Skive,11,Glyngøre,V_Hanne_Brogaard,Hanne Brogaard,"Venstre, Danmarks Liberale Parti",9
+Skive,11,Glyngøre,V_Ina_Nyvang,Ina Nyvang,"Venstre, Danmarks Liberale Parti",0
+Skive,11,Glyngøre,V_Karsten_Nørholm_Villadsen,Karsten Nørholm Villadsen,"Venstre, Danmarks Liberale Parti",0
+Skive,11,Glyngøre,V_Kenneth_Enggrob,Kenneth Enggrob,"Venstre, Danmarks Liberale Parti",0
+Skive,11,Glyngøre,V_Mogens_Børsting,Mogens Børsting,"Venstre, Danmarks Liberale Parti",3
+Skive,11,Glyngøre,V_Morten_Enggaard,Morten Enggaard,"Venstre, Danmarks Liberale Parti",2
+Skive,11,Glyngøre,V_Olav_Nørgaard,Olav Nørgaard,"Venstre, Danmarks Liberale Parti",0
+Skive,11,Glyngøre,V_Ole_Faarkrog-Søgaard,Ole Faarkrog-Søgaard,"Venstre, Danmarks Liberale Parti",1
+Skive,11,Glyngøre,V_Susanne_Toftegaard_Hansen,Susanne Toftegaard Hansen,"Venstre, Danmarks Liberale Parti",2
+Skive,11,Glyngøre,V_Susanne_Rusbjerg,Susanne Rusbjerg,"Venstre, Danmarks Liberale Parti",0
+Skive,11,Glyngøre,V_Tom_Nykjær,Tom Nykjær,"Venstre, Danmarks Liberale Parti",2
+Skive,11,Glyngøre,Æ_Listestemmer,Listestemmer,Frihedslisten,0
+Skive,11,Glyngøre,"Æ_Bente_Dahl_Pedersen,_Hem","Bente Dahl Pedersen, Hem",Frihedslisten,0
+Skive,11,Glyngøre,"Æ_Gitte_Lind_Bendixen,_Selde","Gitte Lind Bendixen, Selde",Frihedslisten,0
+Skive,11,Glyngøre,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,4
+Skive,11,Glyngøre,Ø_Helle_Nørgaard_Lundsby,Helle Nørgaard Lundsby,Enhedslisten - De Rød-Grønne,6
+Skive,11,Glyngøre,Ø_Jacob_Abildgaard,Jacob Abildgaard,Enhedslisten - De Rød-Grønne,1
+Skive,12,Durup,A_Listestemmer,Listestemmer,Socialdemokratiet,28
+Skive,12,Durup,"A_Peder_Christensen,_Skive","Peder Christensen, Skive",Socialdemokratiet,65
+Skive,12,Durup,"A_Ruth_Kristensen,_Skive","Ruth Kristensen, Skive",Socialdemokratiet,1
+Skive,12,Durup,"A_Niels_Ole_D._Nielsen,_Skive","Niels Ole D. Nielsen, Skive",Socialdemokratiet,0
+Skive,12,Durup,"A_Stine_Esther_Christensen,_Egeris","Stine Esther Christensen, Egeris",Socialdemokratiet,6
+Skive,12,Durup,"A_Johnny_Kent_Knudsen,_Skive","Johnny Kent Knudsen, Skive",Socialdemokratiet,3
+Skive,12,Durup,"A_Bente_Østergaard,_Roslev","Bente Østergaard, Roslev",Socialdemokratiet,49
+Skive,12,Durup,"A_Claus_Kjeldsen,_Skive","Claus Kjeldsen, Skive",Socialdemokratiet,1
+Skive,12,Durup,"A_Marianne_Fløe_Fejerskov,_Skive","Marianne Fløe Fejerskov, Skive",Socialdemokratiet,0
+Skive,12,Durup,"A_Kim_Jepsen,_Ramsing","Kim Jepsen, Ramsing",Socialdemokratiet,4
+Skive,12,Durup,"A_Henrik_Godsk,_Rødding","Henrik Godsk, Rødding",Socialdemokratiet,0
+Skive,12,Durup,"A_Jan_D._Andersen,_Jebjerg","Jan D. Andersen, Jebjerg",Socialdemokratiet,5
+Skive,12,Durup,"A_Keld_Mørk_Kristensen,_Rønbjerg","Keld Mørk Kristensen, Rønbjerg",Socialdemokratiet,0
+Skive,12,Durup,"A_Susanne_Grove,_Skive","Susanne Grove, Skive",Socialdemokratiet,22
+Skive,12,Durup,"A_Michael_Lundsted_Nielsen,_Hem","Michael Lundsted Nielsen, Hem",Socialdemokratiet,0
+Skive,12,Durup,"A_Jonna_Skov,_Skive","Jonna Skov, Skive",Socialdemokratiet,1
+Skive,12,Durup,"A_Dorte_Christensen,_Fur","Dorte Christensen, Fur",Socialdemokratiet,2
+Skive,12,Durup,"A_Carsten_Høgh_Nielsen,_Nr._Søby","Carsten Høgh Nielsen, Nr. Søby",Socialdemokratiet,0
+Skive,12,Durup,"A_Kim_Kurdahl,_Højslev_St.","Kim Kurdahl, Højslev St.",Socialdemokratiet,0
+Skive,12,Durup,B_Listestemmer,Listestemmer,Radikale Venstre,3
+Skive,12,Durup,"B_Ellen_Bye_Jensen,_Fur","Ellen Bye Jensen, Fur",Radikale Venstre,0
+Skive,12,Durup,"B_Henrik_Wæhrens_Winther,_Skive","Henrik Wæhrens Winther, Skive",Radikale Venstre,2
+Skive,12,Durup,"B_Solveig_Stausholm-Jensen,_Skive","Solveig Stausholm-Jensen, Skive",Radikale Venstre,1
+Skive,12,Durup,"B_Gorm_Wæhrens,_Skive","Gorm Wæhrens, Skive",Radikale Venstre,1
+Skive,12,Durup,"B_Egon_Espersen,_Kisumkær","Egon Espersen, Kisumkær",Radikale Venstre,0
+Skive,12,Durup,"B_Henning_Linderoth,Jebjerg","Henning Linderoth,Jebjerg",Radikale Venstre,3
+Skive,12,Durup,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,9
+Skive,12,Durup,"C_Mogens_Birkelund,_Højslev","Mogens Birkelund, Højslev",Det Konservative Folkeparti,2
+Skive,12,Durup,"C_Kenneth_J._Grinderslev,_Roslev","Kenneth J. Grinderslev, Roslev",Det Konservative Folkeparti,15
+Skive,12,Durup,"C_Palle_Christensen,_Skive","Palle Christensen, Skive",Det Konservative Folkeparti,1
+Skive,12,Durup,"C_Peter_Søndergaard,_Dølby","Peter Søndergaard, Dølby",Det Konservative Folkeparti,3
+Skive,12,Durup,"C_Carl_Eiler_Carlsen,_Glyngøre","Carl Eiler Carlsen, Glyngøre",Det Konservative Folkeparti,10
+Skive,12,Durup,"C_Bjarne_Linneberg,_Skive","Bjarne Linneberg, Skive",Det Konservative Folkeparti,2
+Skive,12,Durup,D_Listestemmer,Listestemmer,Nye Borgerlige,8
+Skive,12,Durup,"D_Erik_Mortensen,_Vile","Erik Mortensen, Vile",Nye Borgerlige,44
+Skive,12,Durup,"D_Annie_Kaagaard_Kristensen,_Breum","Annie Kaagaard Kristensen, Breum",Nye Borgerlige,2
+Skive,12,Durup,"D_Morten_Jensen,_Skive","Morten Jensen, Skive",Nye Borgerlige,4
+Skive,12,Durup,"D_Søren_Andersen,_Højslev","Søren Andersen, Højslev",Nye Borgerlige,0
+Skive,12,Durup,"D_Frank_Dons_Pedersen,_Skive","Frank Dons Pedersen, Skive",Nye Borgerlige,0
+Skive,12,Durup,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,9
+Skive,12,Durup,"F_Anders_Bøge,Lihme","Anders Bøge,Lihme",SF - Socialistisk Folkeparti,16
+Skive,12,Durup,"F_Elsemarie_Trøst,_Skive","Elsemarie Trøst, Skive",SF - Socialistisk Folkeparti,1
+Skive,12,Durup,"F_Mia_Sönchen_Johansen,_Skive","Mia Sönchen Johansen, Skive",SF - Socialistisk Folkeparti,2
+Skive,12,Durup,"F_Jeppe_Tandal_Nielsen,_Skive","Jeppe Tandal Nielsen, Skive",SF - Socialistisk Folkeparti,0
+Skive,12,Durup,"F_Frits_Laursen,_Glyngøre","Frits Laursen, Glyngøre",SF - Socialistisk Folkeparti,2
+Skive,12,Durup,"F_Henrik_Bollesen_Nielsen,_Skive","Henrik Bollesen Nielsen, Skive",SF - Socialistisk Folkeparti,2
+Skive,12,Durup,"F_Thue_Grum-Schwensen,_Spøttrup","Thue Grum-Schwensen, Spøttrup",SF - Socialistisk Folkeparti,2
+Skive,12,Durup,"F_Thomas_D._Sølvsten,_Brårup","Thomas D. Sølvsten, Brårup",SF - Socialistisk Folkeparti,0
+Skive,12,Durup,"F_Else_Stokholm,_Skive","Else Stokholm, Skive",SF - Socialistisk Folkeparti,2
+Skive,12,Durup,"F_Ole_Bisgaard,_Skive","Ole Bisgaard, Skive",SF - Socialistisk Folkeparti,0
+Skive,12,Durup,"F_Vagn_Pedersen,_Skive","Vagn Pedersen, Skive",SF - Socialistisk Folkeparti,0
+Skive,12,Durup,M_Listestemmer,Listestemmer,Skive-Listen,2
+Skive,12,Durup,M_Per_B._Jeppesen,Per B. Jeppesen,Skive-Listen,4
+Skive,12,Durup,M_Lars_Thoft_Thomsen,Lars Thoft Thomsen,Skive-Listen,0
+Skive,12,Durup,M_Annette_Daniels_Møller,Annette Daniels Møller,Skive-Listen,6
+Skive,12,Durup,M_Knud_Mogensen,Knud Mogensen,Skive-Listen,0
+Skive,12,Durup,M_Hanne_Louise_Eriksen,Hanne Louise Eriksen,Skive-Listen,0
+Skive,12,Durup,M_Henrik_Skaarup,Henrik Skaarup,Skive-Listen,0
+Skive,12,Durup,M_Bente_I._Kristensen,Bente I. Kristensen,Skive-Listen,0
+Skive,12,Durup,M_Leif_Winther,Leif Winther,Skive-Listen,0
+Skive,12,Durup,M_Jesper_Laursen,Jesper Laursen,Skive-Listen,1
+Skive,12,Durup,M_Marianne_Bro,Marianne Bro,Skive-Listen,0
+Skive,12,Durup,M_Leif_Mikkelsen,Leif Mikkelsen,Skive-Listen,1
+Skive,12,Durup,M_Jan_Plovmand,Jan Plovmand,Skive-Listen,0
+Skive,12,Durup,M_Heine_Sørensen,Heine Sørensen,Skive-Listen,0
+Skive,12,Durup,M_Ole_Lindhard,Ole Lindhard,Skive-Listen,1
+Skive,12,Durup,O_Listestemmer,Listestemmer,Dansk Folkeparti,6
+Skive,12,Durup,"O_Peter_Mousten_Vestergård,_Jebjerg","Peter Mousten Vestergård, Jebjerg",Dansk Folkeparti,20
+Skive,12,Durup,"O_Tom_Bøgholm,_Skive","Tom Bøgholm, Skive",Dansk Folkeparti,1
+Skive,12,Durup,"O_Anders_Simmelsgaard_Krogh,_Brårup","Anders Simmelsgaard Krogh, Brårup",Dansk Folkeparti,1
+Skive,12,Durup,"O_Keld_Fausing,_Højslev","Keld Fausing, Højslev",Dansk Folkeparti,0
+Skive,12,Durup,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",27
+Skive,12,Durup,V_Peder_Christian_Kirkegaard,Peder Christian Kirkegaard,"Venstre, Danmarks Liberale Parti",81
+Skive,12,Durup,V_Jens_Have,Jens Have,"Venstre, Danmarks Liberale Parti",0
+Skive,12,Durup,V_Matthias_Landeværn_Nielsen,Matthias Landeværn Nielsen,"Venstre, Danmarks Liberale Parti",7
+Skive,12,Durup,V_Alfred_Brunsgaard,Alfred Brunsgaard,"Venstre, Danmarks Liberale Parti",6
+Skive,12,Durup,V_Alice_Bro_Grønvaldt,Alice Bro Grønvaldt,"Venstre, Danmarks Liberale Parti",7
+Skive,12,Durup,V_Annette_Torp,Annette Torp,"Venstre, Danmarks Liberale Parti",149
+Skive,12,Durup,V_Betina_Bugge,Betina Bugge,"Venstre, Danmarks Liberale Parti",1
+Skive,12,Durup,V_Christian_Vad_Holm,Christian Vad Holm,"Venstre, Danmarks Liberale Parti",5
+Skive,12,Durup,V_Dorthe_Dalsgaard,Dorthe Dalsgaard,"Venstre, Danmarks Liberale Parti",1
+Skive,12,Durup,V_Evan_Holst,Evan Holst,"Venstre, Danmarks Liberale Parti",3
+Skive,12,Durup,V_Goska_Rasmussen,Goska Rasmussen,"Venstre, Danmarks Liberale Parti",18
+Skive,12,Durup,V_Gregers_Frederiksen,Gregers Frederiksen,"Venstre, Danmarks Liberale Parti",36
+Skive,12,Durup,V_Hanne_Brogaard,Hanne Brogaard,"Venstre, Danmarks Liberale Parti",5
+Skive,12,Durup,V_Ina_Nyvang,Ina Nyvang,"Venstre, Danmarks Liberale Parti",1
+Skive,12,Durup,V_Karsten_Nørholm_Villadsen,Karsten Nørholm Villadsen,"Venstre, Danmarks Liberale Parti",0
+Skive,12,Durup,V_Kenneth_Enggrob,Kenneth Enggrob,"Venstre, Danmarks Liberale Parti",0
+Skive,12,Durup,V_Mogens_Børsting,Mogens Børsting,"Venstre, Danmarks Liberale Parti",2
+Skive,12,Durup,V_Morten_Enggaard,Morten Enggaard,"Venstre, Danmarks Liberale Parti",1
+Skive,12,Durup,V_Olav_Nørgaard,Olav Nørgaard,"Venstre, Danmarks Liberale Parti",1
+Skive,12,Durup,V_Ole_Faarkrog-Søgaard,Ole Faarkrog-Søgaard,"Venstre, Danmarks Liberale Parti",0
+Skive,12,Durup,V_Susanne_Toftegaard_Hansen,Susanne Toftegaard Hansen,"Venstre, Danmarks Liberale Parti",0
+Skive,12,Durup,V_Susanne_Rusbjerg,Susanne Rusbjerg,"Venstre, Danmarks Liberale Parti",0
+Skive,12,Durup,V_Tom_Nykjær,Tom Nykjær,"Venstre, Danmarks Liberale Parti",4
+Skive,12,Durup,Æ_Listestemmer,Listestemmer,Frihedslisten,1
+Skive,12,Durup,"Æ_Bente_Dahl_Pedersen,_Hem","Bente Dahl Pedersen, Hem",Frihedslisten,1
+Skive,12,Durup,"Æ_Gitte_Lind_Bendixen,_Selde","Gitte Lind Bendixen, Selde",Frihedslisten,0
+Skive,12,Durup,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,3
+Skive,12,Durup,Ø_Helle_Nørgaard_Lundsby,Helle Nørgaard Lundsby,Enhedslisten - De Rød-Grønne,2
+Skive,12,Durup,Ø_Jacob_Abildgaard,Jacob Abildgaard,Enhedslisten - De Rød-Grønne,1
+Skive,13,Roslev,A_Listestemmer,Listestemmer,Socialdemokratiet,52
+Skive,13,Roslev,"A_Peder_Christensen,_Skive","Peder Christensen, Skive",Socialdemokratiet,78
+Skive,13,Roslev,"A_Ruth_Kristensen,_Skive","Ruth Kristensen, Skive",Socialdemokratiet,5
+Skive,13,Roslev,"A_Niels_Ole_D._Nielsen,_Skive","Niels Ole D. Nielsen, Skive",Socialdemokratiet,1
+Skive,13,Roslev,"A_Stine_Esther_Christensen,_Egeris","Stine Esther Christensen, Egeris",Socialdemokratiet,13
+Skive,13,Roslev,"A_Johnny_Kent_Knudsen,_Skive","Johnny Kent Knudsen, Skive",Socialdemokratiet,16
+Skive,13,Roslev,"A_Bente_Østergaard,_Roslev","Bente Østergaard, Roslev",Socialdemokratiet,194
+Skive,13,Roslev,"A_Claus_Kjeldsen,_Skive","Claus Kjeldsen, Skive",Socialdemokratiet,1
+Skive,13,Roslev,"A_Marianne_Fløe_Fejerskov,_Skive","Marianne Fløe Fejerskov, Skive",Socialdemokratiet,3
+Skive,13,Roslev,"A_Kim_Jepsen,_Ramsing","Kim Jepsen, Ramsing",Socialdemokratiet,7
+Skive,13,Roslev,"A_Henrik_Godsk,_Rødding","Henrik Godsk, Rødding",Socialdemokratiet,0
+Skive,13,Roslev,"A_Jan_D._Andersen,_Jebjerg","Jan D. Andersen, Jebjerg",Socialdemokratiet,7
+Skive,13,Roslev,"A_Keld_Mørk_Kristensen,_Rønbjerg","Keld Mørk Kristensen, Rønbjerg",Socialdemokratiet,3
+Skive,13,Roslev,"A_Susanne_Grove,_Skive","Susanne Grove, Skive",Socialdemokratiet,3
+Skive,13,Roslev,"A_Michael_Lundsted_Nielsen,_Hem","Michael Lundsted Nielsen, Hem",Socialdemokratiet,2
+Skive,13,Roslev,"A_Jonna_Skov,_Skive","Jonna Skov, Skive",Socialdemokratiet,8
+Skive,13,Roslev,"A_Dorte_Christensen,_Fur","Dorte Christensen, Fur",Socialdemokratiet,0
+Skive,13,Roslev,"A_Carsten_Høgh_Nielsen,_Nr._Søby","Carsten Høgh Nielsen, Nr. Søby",Socialdemokratiet,1
+Skive,13,Roslev,"A_Kim_Kurdahl,_Højslev_St.","Kim Kurdahl, Højslev St.",Socialdemokratiet,0
+Skive,13,Roslev,B_Listestemmer,Listestemmer,Radikale Venstre,4
+Skive,13,Roslev,"B_Ellen_Bye_Jensen,_Fur","Ellen Bye Jensen, Fur",Radikale Venstre,7
+Skive,13,Roslev,"B_Henrik_Wæhrens_Winther,_Skive","Henrik Wæhrens Winther, Skive",Radikale Venstre,2
+Skive,13,Roslev,"B_Solveig_Stausholm-Jensen,_Skive","Solveig Stausholm-Jensen, Skive",Radikale Venstre,2
+Skive,13,Roslev,"B_Gorm_Wæhrens,_Skive","Gorm Wæhrens, Skive",Radikale Venstre,1
+Skive,13,Roslev,"B_Egon_Espersen,_Kisumkær","Egon Espersen, Kisumkær",Radikale Venstre,0
+Skive,13,Roslev,"B_Henning_Linderoth,Jebjerg","Henning Linderoth,Jebjerg",Radikale Venstre,4
+Skive,13,Roslev,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,10
+Skive,13,Roslev,"C_Mogens_Birkelund,_Højslev","Mogens Birkelund, Højslev",Det Konservative Folkeparti,7
+Skive,13,Roslev,"C_Kenneth_J._Grinderslev,_Roslev","Kenneth J. Grinderslev, Roslev",Det Konservative Folkeparti,5
+Skive,13,Roslev,"C_Palle_Christensen,_Skive","Palle Christensen, Skive",Det Konservative Folkeparti,2
+Skive,13,Roslev,"C_Peter_Søndergaard,_Dølby","Peter Søndergaard, Dølby",Det Konservative Folkeparti,0
+Skive,13,Roslev,"C_Carl_Eiler_Carlsen,_Glyngøre","Carl Eiler Carlsen, Glyngøre",Det Konservative Folkeparti,3
+Skive,13,Roslev,"C_Bjarne_Linneberg,_Skive","Bjarne Linneberg, Skive",Det Konservative Folkeparti,1
+Skive,13,Roslev,D_Listestemmer,Listestemmer,Nye Borgerlige,17
+Skive,13,Roslev,"D_Erik_Mortensen,_Vile","Erik Mortensen, Vile",Nye Borgerlige,44
+Skive,13,Roslev,"D_Annie_Kaagaard_Kristensen,_Breum","Annie Kaagaard Kristensen, Breum",Nye Borgerlige,10
+Skive,13,Roslev,"D_Morten_Jensen,_Skive","Morten Jensen, Skive",Nye Borgerlige,8
+Skive,13,Roslev,"D_Søren_Andersen,_Højslev","Søren Andersen, Højslev",Nye Borgerlige,2
+Skive,13,Roslev,"D_Frank_Dons_Pedersen,_Skive","Frank Dons Pedersen, Skive",Nye Borgerlige,0
+Skive,13,Roslev,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,7
+Skive,13,Roslev,"F_Anders_Bøge,Lihme","Anders Bøge,Lihme",SF - Socialistisk Folkeparti,37
+Skive,13,Roslev,"F_Elsemarie_Trøst,_Skive","Elsemarie Trøst, Skive",SF - Socialistisk Folkeparti,6
+Skive,13,Roslev,"F_Mia_Sönchen_Johansen,_Skive","Mia Sönchen Johansen, Skive",SF - Socialistisk Folkeparti,10
+Skive,13,Roslev,"F_Jeppe_Tandal_Nielsen,_Skive","Jeppe Tandal Nielsen, Skive",SF - Socialistisk Folkeparti,0
+Skive,13,Roslev,"F_Frits_Laursen,_Glyngøre","Frits Laursen, Glyngøre",SF - Socialistisk Folkeparti,4
+Skive,13,Roslev,"F_Henrik_Bollesen_Nielsen,_Skive","Henrik Bollesen Nielsen, Skive",SF - Socialistisk Folkeparti,1
+Skive,13,Roslev,"F_Thue_Grum-Schwensen,_Spøttrup","Thue Grum-Schwensen, Spøttrup",SF - Socialistisk Folkeparti,1
+Skive,13,Roslev,"F_Thomas_D._Sølvsten,_Brårup","Thomas D. Sølvsten, Brårup",SF - Socialistisk Folkeparti,1
+Skive,13,Roslev,"F_Else_Stokholm,_Skive","Else Stokholm, Skive",SF - Socialistisk Folkeparti,0
+Skive,13,Roslev,"F_Ole_Bisgaard,_Skive","Ole Bisgaard, Skive",SF - Socialistisk Folkeparti,0
+Skive,13,Roslev,"F_Vagn_Pedersen,_Skive","Vagn Pedersen, Skive",SF - Socialistisk Folkeparti,0
+Skive,13,Roslev,M_Listestemmer,Listestemmer,Skive-Listen,1
+Skive,13,Roslev,M_Per_B._Jeppesen,Per B. Jeppesen,Skive-Listen,6
+Skive,13,Roslev,M_Lars_Thoft_Thomsen,Lars Thoft Thomsen,Skive-Listen,0
+Skive,13,Roslev,M_Annette_Daniels_Møller,Annette Daniels Møller,Skive-Listen,4
+Skive,13,Roslev,M_Knud_Mogensen,Knud Mogensen,Skive-Listen,0
+Skive,13,Roslev,M_Hanne_Louise_Eriksen,Hanne Louise Eriksen,Skive-Listen,2
+Skive,13,Roslev,M_Henrik_Skaarup,Henrik Skaarup,Skive-Listen,0
+Skive,13,Roslev,M_Bente_I._Kristensen,Bente I. Kristensen,Skive-Listen,0
+Skive,13,Roslev,M_Leif_Winther,Leif Winther,Skive-Listen,1
+Skive,13,Roslev,M_Jesper_Laursen,Jesper Laursen,Skive-Listen,0
+Skive,13,Roslev,M_Marianne_Bro,Marianne Bro,Skive-Listen,0
+Skive,13,Roslev,M_Leif_Mikkelsen,Leif Mikkelsen,Skive-Listen,1
+Skive,13,Roslev,M_Jan_Plovmand,Jan Plovmand,Skive-Listen,0
+Skive,13,Roslev,M_Heine_Sørensen,Heine Sørensen,Skive-Listen,0
+Skive,13,Roslev,M_Ole_Lindhard,Ole Lindhard,Skive-Listen,0
+Skive,13,Roslev,O_Listestemmer,Listestemmer,Dansk Folkeparti,20
+Skive,13,Roslev,"O_Peter_Mousten_Vestergård,_Jebjerg","Peter Mousten Vestergård, Jebjerg",Dansk Folkeparti,14
+Skive,13,Roslev,"O_Tom_Bøgholm,_Skive","Tom Bøgholm, Skive",Dansk Folkeparti,2
+Skive,13,Roslev,"O_Anders_Simmelsgaard_Krogh,_Brårup","Anders Simmelsgaard Krogh, Brårup",Dansk Folkeparti,4
+Skive,13,Roslev,"O_Keld_Fausing,_Højslev","Keld Fausing, Højslev",Dansk Folkeparti,0
+Skive,13,Roslev,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",30
+Skive,13,Roslev,V_Peder_Christian_Kirkegaard,Peder Christian Kirkegaard,"Venstre, Danmarks Liberale Parti",115
+Skive,13,Roslev,V_Jens_Have,Jens Have,"Venstre, Danmarks Liberale Parti",4
+Skive,13,Roslev,V_Matthias_Landeværn_Nielsen,Matthias Landeværn Nielsen,"Venstre, Danmarks Liberale Parti",7
+Skive,13,Roslev,V_Alfred_Brunsgaard,Alfred Brunsgaard,"Venstre, Danmarks Liberale Parti",62
+Skive,13,Roslev,V_Alice_Bro_Grønvaldt,Alice Bro Grønvaldt,"Venstre, Danmarks Liberale Parti",10
+Skive,13,Roslev,V_Annette_Torp,Annette Torp,"Venstre, Danmarks Liberale Parti",18
+Skive,13,Roslev,V_Betina_Bugge,Betina Bugge,"Venstre, Danmarks Liberale Parti",2
+Skive,13,Roslev,V_Christian_Vad_Holm,Christian Vad Holm,"Venstre, Danmarks Liberale Parti",5
+Skive,13,Roslev,V_Dorthe_Dalsgaard,Dorthe Dalsgaard,"Venstre, Danmarks Liberale Parti",3
+Skive,13,Roslev,V_Evan_Holst,Evan Holst,"Venstre, Danmarks Liberale Parti",7
+Skive,13,Roslev,V_Goska_Rasmussen,Goska Rasmussen,"Venstre, Danmarks Liberale Parti",17
+Skive,13,Roslev,V_Gregers_Frederiksen,Gregers Frederiksen,"Venstre, Danmarks Liberale Parti",214
+Skive,13,Roslev,V_Hanne_Brogaard,Hanne Brogaard,"Venstre, Danmarks Liberale Parti",5
+Skive,13,Roslev,V_Ina_Nyvang,Ina Nyvang,"Venstre, Danmarks Liberale Parti",1
+Skive,13,Roslev,V_Karsten_Nørholm_Villadsen,Karsten Nørholm Villadsen,"Venstre, Danmarks Liberale Parti",1
+Skive,13,Roslev,V_Kenneth_Enggrob,Kenneth Enggrob,"Venstre, Danmarks Liberale Parti",1
+Skive,13,Roslev,V_Mogens_Børsting,Mogens Børsting,"Venstre, Danmarks Liberale Parti",3
+Skive,13,Roslev,V_Morten_Enggaard,Morten Enggaard,"Venstre, Danmarks Liberale Parti",8
+Skive,13,Roslev,V_Olav_Nørgaard,Olav Nørgaard,"Venstre, Danmarks Liberale Parti",0
+Skive,13,Roslev,V_Ole_Faarkrog-Søgaard,Ole Faarkrog-Søgaard,"Venstre, Danmarks Liberale Parti",3
+Skive,13,Roslev,V_Susanne_Toftegaard_Hansen,Susanne Toftegaard Hansen,"Venstre, Danmarks Liberale Parti",0
+Skive,13,Roslev,V_Susanne_Rusbjerg,Susanne Rusbjerg,"Venstre, Danmarks Liberale Parti",0
+Skive,13,Roslev,V_Tom_Nykjær,Tom Nykjær,"Venstre, Danmarks Liberale Parti",28
+Skive,13,Roslev,Æ_Listestemmer,Listestemmer,Frihedslisten,0
+Skive,13,Roslev,"Æ_Bente_Dahl_Pedersen,_Hem","Bente Dahl Pedersen, Hem",Frihedslisten,3
+Skive,13,Roslev,"Æ_Gitte_Lind_Bendixen,_Selde","Gitte Lind Bendixen, Selde",Frihedslisten,0
+Skive,13,Roslev,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,11
+Skive,13,Roslev,Ø_Helle_Nørgaard_Lundsby,Helle Nørgaard Lundsby,Enhedslisten - De Rød-Grønne,6
+Skive,13,Roslev,Ø_Jacob_Abildgaard,Jacob Abildgaard,Enhedslisten - De Rød-Grønne,0
+Skive,14,Jebjerg-Lyby,A_Listestemmer,Listestemmer,Socialdemokratiet,32
+Skive,14,Jebjerg-Lyby,"A_Peder_Christensen,_Skive","Peder Christensen, Skive",Socialdemokratiet,55
+Skive,14,Jebjerg-Lyby,"A_Ruth_Kristensen,_Skive","Ruth Kristensen, Skive",Socialdemokratiet,6
+Skive,14,Jebjerg-Lyby,"A_Niels_Ole_D._Nielsen,_Skive","Niels Ole D. Nielsen, Skive",Socialdemokratiet,5
+Skive,14,Jebjerg-Lyby,"A_Stine_Esther_Christensen,_Egeris","Stine Esther Christensen, Egeris",Socialdemokratiet,15
+Skive,14,Jebjerg-Lyby,"A_Johnny_Kent_Knudsen,_Skive","Johnny Kent Knudsen, Skive",Socialdemokratiet,7
+Skive,14,Jebjerg-Lyby,"A_Bente_Østergaard,_Roslev","Bente Østergaard, Roslev",Socialdemokratiet,11
+Skive,14,Jebjerg-Lyby,"A_Claus_Kjeldsen,_Skive","Claus Kjeldsen, Skive",Socialdemokratiet,0
+Skive,14,Jebjerg-Lyby,"A_Marianne_Fløe_Fejerskov,_Skive","Marianne Fløe Fejerskov, Skive",Socialdemokratiet,1
+Skive,14,Jebjerg-Lyby,"A_Kim_Jepsen,_Ramsing","Kim Jepsen, Ramsing",Socialdemokratiet,1
+Skive,14,Jebjerg-Lyby,"A_Henrik_Godsk,_Rødding","Henrik Godsk, Rødding",Socialdemokratiet,2
+Skive,14,Jebjerg-Lyby,"A_Jan_D._Andersen,_Jebjerg","Jan D. Andersen, Jebjerg",Socialdemokratiet,230
+Skive,14,Jebjerg-Lyby,"A_Keld_Mørk_Kristensen,_Rønbjerg","Keld Mørk Kristensen, Rønbjerg",Socialdemokratiet,2
+Skive,14,Jebjerg-Lyby,"A_Susanne_Grove,_Skive","Susanne Grove, Skive",Socialdemokratiet,2
+Skive,14,Jebjerg-Lyby,"A_Michael_Lundsted_Nielsen,_Hem","Michael Lundsted Nielsen, Hem",Socialdemokratiet,0
+Skive,14,Jebjerg-Lyby,"A_Jonna_Skov,_Skive","Jonna Skov, Skive",Socialdemokratiet,4
+Skive,14,Jebjerg-Lyby,"A_Dorte_Christensen,_Fur","Dorte Christensen, Fur",Socialdemokratiet,0
+Skive,14,Jebjerg-Lyby,"A_Carsten_Høgh_Nielsen,_Nr._Søby","Carsten Høgh Nielsen, Nr. Søby",Socialdemokratiet,0
+Skive,14,Jebjerg-Lyby,"A_Kim_Kurdahl,_Højslev_St.","Kim Kurdahl, Højslev St.",Socialdemokratiet,1
+Skive,14,Jebjerg-Lyby,B_Listestemmer,Listestemmer,Radikale Venstre,3
+Skive,14,Jebjerg-Lyby,"B_Ellen_Bye_Jensen,_Fur","Ellen Bye Jensen, Fur",Radikale Venstre,1
+Skive,14,Jebjerg-Lyby,"B_Henrik_Wæhrens_Winther,_Skive","Henrik Wæhrens Winther, Skive",Radikale Venstre,2
+Skive,14,Jebjerg-Lyby,"B_Solveig_Stausholm-Jensen,_Skive","Solveig Stausholm-Jensen, Skive",Radikale Venstre,3
+Skive,14,Jebjerg-Lyby,"B_Gorm_Wæhrens,_Skive","Gorm Wæhrens, Skive",Radikale Venstre,3
+Skive,14,Jebjerg-Lyby,"B_Egon_Espersen,_Kisumkær","Egon Espersen, Kisumkær",Radikale Venstre,0
+Skive,14,Jebjerg-Lyby,"B_Henning_Linderoth,Jebjerg","Henning Linderoth,Jebjerg",Radikale Venstre,3
+Skive,14,Jebjerg-Lyby,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,8
+Skive,14,Jebjerg-Lyby,"C_Mogens_Birkelund,_Højslev","Mogens Birkelund, Højslev",Det Konservative Folkeparti,7
+Skive,14,Jebjerg-Lyby,"C_Kenneth_J._Grinderslev,_Roslev","Kenneth J. Grinderslev, Roslev",Det Konservative Folkeparti,7
+Skive,14,Jebjerg-Lyby,"C_Palle_Christensen,_Skive","Palle Christensen, Skive",Det Konservative Folkeparti,2
+Skive,14,Jebjerg-Lyby,"C_Peter_Søndergaard,_Dølby","Peter Søndergaard, Dølby",Det Konservative Folkeparti,2
+Skive,14,Jebjerg-Lyby,"C_Carl_Eiler_Carlsen,_Glyngøre","Carl Eiler Carlsen, Glyngøre",Det Konservative Folkeparti,0
+Skive,14,Jebjerg-Lyby,"C_Bjarne_Linneberg,_Skive","Bjarne Linneberg, Skive",Det Konservative Folkeparti,1
+Skive,14,Jebjerg-Lyby,D_Listestemmer,Listestemmer,Nye Borgerlige,9
+Skive,14,Jebjerg-Lyby,"D_Erik_Mortensen,_Vile","Erik Mortensen, Vile",Nye Borgerlige,10
+Skive,14,Jebjerg-Lyby,"D_Annie_Kaagaard_Kristensen,_Breum","Annie Kaagaard Kristensen, Breum",Nye Borgerlige,11
+Skive,14,Jebjerg-Lyby,"D_Morten_Jensen,_Skive","Morten Jensen, Skive",Nye Borgerlige,6
+Skive,14,Jebjerg-Lyby,"D_Søren_Andersen,_Højslev","Søren Andersen, Højslev",Nye Borgerlige,1
+Skive,14,Jebjerg-Lyby,"D_Frank_Dons_Pedersen,_Skive","Frank Dons Pedersen, Skive",Nye Borgerlige,0
+Skive,14,Jebjerg-Lyby,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,9
+Skive,14,Jebjerg-Lyby,"F_Anders_Bøge,Lihme","Anders Bøge,Lihme",SF - Socialistisk Folkeparti,11
+Skive,14,Jebjerg-Lyby,"F_Elsemarie_Trøst,_Skive","Elsemarie Trøst, Skive",SF - Socialistisk Folkeparti,2
+Skive,14,Jebjerg-Lyby,"F_Mia_Sönchen_Johansen,_Skive","Mia Sönchen Johansen, Skive",SF - Socialistisk Folkeparti,7
+Skive,14,Jebjerg-Lyby,"F_Jeppe_Tandal_Nielsen,_Skive","Jeppe Tandal Nielsen, Skive",SF - Socialistisk Folkeparti,4
+Skive,14,Jebjerg-Lyby,"F_Frits_Laursen,_Glyngøre","Frits Laursen, Glyngøre",SF - Socialistisk Folkeparti,1
+Skive,14,Jebjerg-Lyby,"F_Henrik_Bollesen_Nielsen,_Skive","Henrik Bollesen Nielsen, Skive",SF - Socialistisk Folkeparti,6
+Skive,14,Jebjerg-Lyby,"F_Thue_Grum-Schwensen,_Spøttrup","Thue Grum-Schwensen, Spøttrup",SF - Socialistisk Folkeparti,0
+Skive,14,Jebjerg-Lyby,"F_Thomas_D._Sølvsten,_Brårup","Thomas D. Sølvsten, Brårup",SF - Socialistisk Folkeparti,0
+Skive,14,Jebjerg-Lyby,"F_Else_Stokholm,_Skive","Else Stokholm, Skive",SF - Socialistisk Folkeparti,0
+Skive,14,Jebjerg-Lyby,"F_Ole_Bisgaard,_Skive","Ole Bisgaard, Skive",SF - Socialistisk Folkeparti,0
+Skive,14,Jebjerg-Lyby,"F_Vagn_Pedersen,_Skive","Vagn Pedersen, Skive",SF - Socialistisk Folkeparti,1
+Skive,14,Jebjerg-Lyby,M_Listestemmer,Listestemmer,Skive-Listen,3
+Skive,14,Jebjerg-Lyby,M_Per_B._Jeppesen,Per B. Jeppesen,Skive-Listen,6
+Skive,14,Jebjerg-Lyby,M_Lars_Thoft_Thomsen,Lars Thoft Thomsen,Skive-Listen,0
+Skive,14,Jebjerg-Lyby,M_Annette_Daniels_Møller,Annette Daniels Møller,Skive-Listen,0
+Skive,14,Jebjerg-Lyby,M_Knud_Mogensen,Knud Mogensen,Skive-Listen,0
+Skive,14,Jebjerg-Lyby,M_Hanne_Louise_Eriksen,Hanne Louise Eriksen,Skive-Listen,0
+Skive,14,Jebjerg-Lyby,M_Henrik_Skaarup,Henrik Skaarup,Skive-Listen,0
+Skive,14,Jebjerg-Lyby,M_Bente_I._Kristensen,Bente I. Kristensen,Skive-Listen,0
+Skive,14,Jebjerg-Lyby,M_Leif_Winther,Leif Winther,Skive-Listen,0
+Skive,14,Jebjerg-Lyby,M_Jesper_Laursen,Jesper Laursen,Skive-Listen,0
+Skive,14,Jebjerg-Lyby,M_Marianne_Bro,Marianne Bro,Skive-Listen,0
+Skive,14,Jebjerg-Lyby,M_Leif_Mikkelsen,Leif Mikkelsen,Skive-Listen,2
+Skive,14,Jebjerg-Lyby,M_Jan_Plovmand,Jan Plovmand,Skive-Listen,1
+Skive,14,Jebjerg-Lyby,M_Heine_Sørensen,Heine Sørensen,Skive-Listen,0
+Skive,14,Jebjerg-Lyby,M_Ole_Lindhard,Ole Lindhard,Skive-Listen,3
+Skive,14,Jebjerg-Lyby,O_Listestemmer,Listestemmer,Dansk Folkeparti,5
+Skive,14,Jebjerg-Lyby,"O_Peter_Mousten_Vestergård,_Jebjerg","Peter Mousten Vestergård, Jebjerg",Dansk Folkeparti,41
+Skive,14,Jebjerg-Lyby,"O_Tom_Bøgholm,_Skive","Tom Bøgholm, Skive",Dansk Folkeparti,1
+Skive,14,Jebjerg-Lyby,"O_Anders_Simmelsgaard_Krogh,_Brårup","Anders Simmelsgaard Krogh, Brårup",Dansk Folkeparti,2
+Skive,14,Jebjerg-Lyby,"O_Keld_Fausing,_Højslev","Keld Fausing, Højslev",Dansk Folkeparti,0
+Skive,14,Jebjerg-Lyby,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",20
+Skive,14,Jebjerg-Lyby,V_Peder_Christian_Kirkegaard,Peder Christian Kirkegaard,"Venstre, Danmarks Liberale Parti",77
+Skive,14,Jebjerg-Lyby,V_Jens_Have,Jens Have,"Venstre, Danmarks Liberale Parti",3
+Skive,14,Jebjerg-Lyby,V_Matthias_Landeværn_Nielsen,Matthias Landeværn Nielsen,"Venstre, Danmarks Liberale Parti",20
+Skive,14,Jebjerg-Lyby,V_Alfred_Brunsgaard,Alfred Brunsgaard,"Venstre, Danmarks Liberale Parti",22
+Skive,14,Jebjerg-Lyby,V_Alice_Bro_Grønvaldt,Alice Bro Grønvaldt,"Venstre, Danmarks Liberale Parti",7
+Skive,14,Jebjerg-Lyby,V_Annette_Torp,Annette Torp,"Venstre, Danmarks Liberale Parti",4
+Skive,14,Jebjerg-Lyby,V_Betina_Bugge,Betina Bugge,"Venstre, Danmarks Liberale Parti",4
+Skive,14,Jebjerg-Lyby,V_Christian_Vad_Holm,Christian Vad Holm,"Venstre, Danmarks Liberale Parti",1
+Skive,14,Jebjerg-Lyby,V_Dorthe_Dalsgaard,Dorthe Dalsgaard,"Venstre, Danmarks Liberale Parti",1
+Skive,14,Jebjerg-Lyby,V_Evan_Holst,Evan Holst,"Venstre, Danmarks Liberale Parti",137
+Skive,14,Jebjerg-Lyby,V_Goska_Rasmussen,Goska Rasmussen,"Venstre, Danmarks Liberale Parti",11
+Skive,14,Jebjerg-Lyby,V_Gregers_Frederiksen,Gregers Frederiksen,"Venstre, Danmarks Liberale Parti",9
+Skive,14,Jebjerg-Lyby,V_Hanne_Brogaard,Hanne Brogaard,"Venstre, Danmarks Liberale Parti",4
+Skive,14,Jebjerg-Lyby,V_Ina_Nyvang,Ina Nyvang,"Venstre, Danmarks Liberale Parti",2
+Skive,14,Jebjerg-Lyby,V_Karsten_Nørholm_Villadsen,Karsten Nørholm Villadsen,"Venstre, Danmarks Liberale Parti",0
+Skive,14,Jebjerg-Lyby,V_Kenneth_Enggrob,Kenneth Enggrob,"Venstre, Danmarks Liberale Parti",0
+Skive,14,Jebjerg-Lyby,V_Mogens_Børsting,Mogens Børsting,"Venstre, Danmarks Liberale Parti",4
+Skive,14,Jebjerg-Lyby,V_Morten_Enggaard,Morten Enggaard,"Venstre, Danmarks Liberale Parti",4
+Skive,14,Jebjerg-Lyby,V_Olav_Nørgaard,Olav Nørgaard,"Venstre, Danmarks Liberale Parti",1
+Skive,14,Jebjerg-Lyby,V_Ole_Faarkrog-Søgaard,Ole Faarkrog-Søgaard,"Venstre, Danmarks Liberale Parti",2
+Skive,14,Jebjerg-Lyby,V_Susanne_Toftegaard_Hansen,Susanne Toftegaard Hansen,"Venstre, Danmarks Liberale Parti",2
+Skive,14,Jebjerg-Lyby,V_Susanne_Rusbjerg,Susanne Rusbjerg,"Venstre, Danmarks Liberale Parti",2
+Skive,14,Jebjerg-Lyby,V_Tom_Nykjær,Tom Nykjær,"Venstre, Danmarks Liberale Parti",1
+Skive,14,Jebjerg-Lyby,Æ_Listestemmer,Listestemmer,Frihedslisten,3
+Skive,14,Jebjerg-Lyby,"Æ_Bente_Dahl_Pedersen,_Hem","Bente Dahl Pedersen, Hem",Frihedslisten,0
+Skive,14,Jebjerg-Lyby,"Æ_Gitte_Lind_Bendixen,_Selde","Gitte Lind Bendixen, Selde",Frihedslisten,1
+Skive,14,Jebjerg-Lyby,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,9
+Skive,14,Jebjerg-Lyby,Ø_Helle_Nørgaard_Lundsby,Helle Nørgaard Lundsby,Enhedslisten - De Rød-Grønne,5
+Skive,14,Jebjerg-Lyby,Ø_Jacob_Abildgaard,Jacob Abildgaard,Enhedslisten - De Rød-Grønne,2
+Skive,15,Balling,A_Listestemmer,Listestemmer,Socialdemokratiet,35
+Skive,15,Balling,"A_Peder_Christensen,_Skive","Peder Christensen, Skive",Socialdemokratiet,172
+Skive,15,Balling,"A_Ruth_Kristensen,_Skive","Ruth Kristensen, Skive",Socialdemokratiet,8
+Skive,15,Balling,"A_Niels_Ole_D._Nielsen,_Skive","Niels Ole D. Nielsen, Skive",Socialdemokratiet,1
+Skive,15,Balling,"A_Stine_Esther_Christensen,_Egeris","Stine Esther Christensen, Egeris",Socialdemokratiet,8
+Skive,15,Balling,"A_Johnny_Kent_Knudsen,_Skive","Johnny Kent Knudsen, Skive",Socialdemokratiet,4
+Skive,15,Balling,"A_Bente_Østergaard,_Roslev","Bente Østergaard, Roslev",Socialdemokratiet,3
+Skive,15,Balling,"A_Claus_Kjeldsen,_Skive","Claus Kjeldsen, Skive",Socialdemokratiet,0
+Skive,15,Balling,"A_Marianne_Fløe_Fejerskov,_Skive","Marianne Fløe Fejerskov, Skive",Socialdemokratiet,2
+Skive,15,Balling,"A_Kim_Jepsen,_Ramsing","Kim Jepsen, Ramsing",Socialdemokratiet,98
+Skive,15,Balling,"A_Henrik_Godsk,_Rødding","Henrik Godsk, Rødding",Socialdemokratiet,26
+Skive,15,Balling,"A_Jan_D._Andersen,_Jebjerg","Jan D. Andersen, Jebjerg",Socialdemokratiet,2
+Skive,15,Balling,"A_Keld_Mørk_Kristensen,_Rønbjerg","Keld Mørk Kristensen, Rønbjerg",Socialdemokratiet,0
+Skive,15,Balling,"A_Susanne_Grove,_Skive","Susanne Grove, Skive",Socialdemokratiet,3
+Skive,15,Balling,"A_Michael_Lundsted_Nielsen,_Hem","Michael Lundsted Nielsen, Hem",Socialdemokratiet,0
+Skive,15,Balling,"A_Jonna_Skov,_Skive","Jonna Skov, Skive",Socialdemokratiet,1
+Skive,15,Balling,"A_Dorte_Christensen,_Fur","Dorte Christensen, Fur",Socialdemokratiet,0
+Skive,15,Balling,"A_Carsten_Høgh_Nielsen,_Nr._Søby","Carsten Høgh Nielsen, Nr. Søby",Socialdemokratiet,0
+Skive,15,Balling,"A_Kim_Kurdahl,_Højslev_St.","Kim Kurdahl, Højslev St.",Socialdemokratiet,1
+Skive,15,Balling,B_Listestemmer,Listestemmer,Radikale Venstre,5
+Skive,15,Balling,"B_Ellen_Bye_Jensen,_Fur","Ellen Bye Jensen, Fur",Radikale Venstre,0
+Skive,15,Balling,"B_Henrik_Wæhrens_Winther,_Skive","Henrik Wæhrens Winther, Skive",Radikale Venstre,4
+Skive,15,Balling,"B_Solveig_Stausholm-Jensen,_Skive","Solveig Stausholm-Jensen, Skive",Radikale Venstre,3
+Skive,15,Balling,"B_Gorm_Wæhrens,_Skive","Gorm Wæhrens, Skive",Radikale Venstre,1
+Skive,15,Balling,"B_Egon_Espersen,_Kisumkær","Egon Espersen, Kisumkær",Radikale Venstre,1
+Skive,15,Balling,"B_Henning_Linderoth,Jebjerg","Henning Linderoth,Jebjerg",Radikale Venstre,1
+Skive,15,Balling,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,11
+Skive,15,Balling,"C_Mogens_Birkelund,_Højslev","Mogens Birkelund, Højslev",Det Konservative Folkeparti,1
+Skive,15,Balling,"C_Kenneth_J._Grinderslev,_Roslev","Kenneth J. Grinderslev, Roslev",Det Konservative Folkeparti,3
+Skive,15,Balling,"C_Palle_Christensen,_Skive","Palle Christensen, Skive",Det Konservative Folkeparti,2
+Skive,15,Balling,"C_Peter_Søndergaard,_Dølby","Peter Søndergaard, Dølby",Det Konservative Folkeparti,1
+Skive,15,Balling,"C_Carl_Eiler_Carlsen,_Glyngøre","Carl Eiler Carlsen, Glyngøre",Det Konservative Folkeparti,1
+Skive,15,Balling,"C_Bjarne_Linneberg,_Skive","Bjarne Linneberg, Skive",Det Konservative Folkeparti,3
+Skive,15,Balling,D_Listestemmer,Listestemmer,Nye Borgerlige,9
+Skive,15,Balling,"D_Erik_Mortensen,_Vile","Erik Mortensen, Vile",Nye Borgerlige,9
+Skive,15,Balling,"D_Annie_Kaagaard_Kristensen,_Breum","Annie Kaagaard Kristensen, Breum",Nye Borgerlige,9
+Skive,15,Balling,"D_Morten_Jensen,_Skive","Morten Jensen, Skive",Nye Borgerlige,3
+Skive,15,Balling,"D_Søren_Andersen,_Højslev","Søren Andersen, Højslev",Nye Borgerlige,0
+Skive,15,Balling,"D_Frank_Dons_Pedersen,_Skive","Frank Dons Pedersen, Skive",Nye Borgerlige,0
+Skive,15,Balling,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,8
+Skive,15,Balling,"F_Anders_Bøge,Lihme","Anders Bøge,Lihme",SF - Socialistisk Folkeparti,55
+Skive,15,Balling,"F_Elsemarie_Trøst,_Skive","Elsemarie Trøst, Skive",SF - Socialistisk Folkeparti,3
+Skive,15,Balling,"F_Mia_Sönchen_Johansen,_Skive","Mia Sönchen Johansen, Skive",SF - Socialistisk Folkeparti,4
+Skive,15,Balling,"F_Jeppe_Tandal_Nielsen,_Skive","Jeppe Tandal Nielsen, Skive",SF - Socialistisk Folkeparti,1
+Skive,15,Balling,"F_Frits_Laursen,_Glyngøre","Frits Laursen, Glyngøre",SF - Socialistisk Folkeparti,2
+Skive,15,Balling,"F_Henrik_Bollesen_Nielsen,_Skive","Henrik Bollesen Nielsen, Skive",SF - Socialistisk Folkeparti,1
+Skive,15,Balling,"F_Thue_Grum-Schwensen,_Spøttrup","Thue Grum-Schwensen, Spøttrup",SF - Socialistisk Folkeparti,0
+Skive,15,Balling,"F_Thomas_D._Sølvsten,_Brårup","Thomas D. Sølvsten, Brårup",SF - Socialistisk Folkeparti,0
+Skive,15,Balling,"F_Else_Stokholm,_Skive","Else Stokholm, Skive",SF - Socialistisk Folkeparti,0
+Skive,15,Balling,"F_Ole_Bisgaard,_Skive","Ole Bisgaard, Skive",SF - Socialistisk Folkeparti,0
+Skive,15,Balling,"F_Vagn_Pedersen,_Skive","Vagn Pedersen, Skive",SF - Socialistisk Folkeparti,0
+Skive,15,Balling,M_Listestemmer,Listestemmer,Skive-Listen,1
+Skive,15,Balling,M_Per_B._Jeppesen,Per B. Jeppesen,Skive-Listen,3
+Skive,15,Balling,M_Lars_Thoft_Thomsen,Lars Thoft Thomsen,Skive-Listen,0
+Skive,15,Balling,M_Annette_Daniels_Møller,Annette Daniels Møller,Skive-Listen,2
+Skive,15,Balling,M_Knud_Mogensen,Knud Mogensen,Skive-Listen,0
+Skive,15,Balling,M_Hanne_Louise_Eriksen,Hanne Louise Eriksen,Skive-Listen,1
+Skive,15,Balling,M_Henrik_Skaarup,Henrik Skaarup,Skive-Listen,0
+Skive,15,Balling,M_Bente_I._Kristensen,Bente I. Kristensen,Skive-Listen,0
+Skive,15,Balling,M_Leif_Winther,Leif Winther,Skive-Listen,0
+Skive,15,Balling,M_Jesper_Laursen,Jesper Laursen,Skive-Listen,0
+Skive,15,Balling,M_Marianne_Bro,Marianne Bro,Skive-Listen,0
+Skive,15,Balling,M_Leif_Mikkelsen,Leif Mikkelsen,Skive-Listen,2
+Skive,15,Balling,M_Jan_Plovmand,Jan Plovmand,Skive-Listen,0
+Skive,15,Balling,M_Heine_Sørensen,Heine Sørensen,Skive-Listen,0
+Skive,15,Balling,M_Ole_Lindhard,Ole Lindhard,Skive-Listen,3
+Skive,15,Balling,O_Listestemmer,Listestemmer,Dansk Folkeparti,6
+Skive,15,Balling,"O_Peter_Mousten_Vestergård,_Jebjerg","Peter Mousten Vestergård, Jebjerg",Dansk Folkeparti,7
+Skive,15,Balling,"O_Tom_Bøgholm,_Skive","Tom Bøgholm, Skive",Dansk Folkeparti,3
+Skive,15,Balling,"O_Anders_Simmelsgaard_Krogh,_Brårup","Anders Simmelsgaard Krogh, Brårup",Dansk Folkeparti,5
+Skive,15,Balling,"O_Keld_Fausing,_Højslev","Keld Fausing, Højslev",Dansk Folkeparti,0
+Skive,15,Balling,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",33
+Skive,15,Balling,V_Peder_Christian_Kirkegaard,Peder Christian Kirkegaard,"Venstre, Danmarks Liberale Parti",120
+Skive,15,Balling,V_Jens_Have,Jens Have,"Venstre, Danmarks Liberale Parti",10
+Skive,15,Balling,V_Matthias_Landeværn_Nielsen,Matthias Landeværn Nielsen,"Venstre, Danmarks Liberale Parti",3
+Skive,15,Balling,V_Alfred_Brunsgaard,Alfred Brunsgaard,"Venstre, Danmarks Liberale Parti",82
+Skive,15,Balling,V_Alice_Bro_Grønvaldt,Alice Bro Grønvaldt,"Venstre, Danmarks Liberale Parti",51
+Skive,15,Balling,V_Annette_Torp,Annette Torp,"Venstre, Danmarks Liberale Parti",0
+Skive,15,Balling,V_Betina_Bugge,Betina Bugge,"Venstre, Danmarks Liberale Parti",0
+Skive,15,Balling,V_Christian_Vad_Holm,Christian Vad Holm,"Venstre, Danmarks Liberale Parti",5
+Skive,15,Balling,V_Dorthe_Dalsgaard,Dorthe Dalsgaard,"Venstre, Danmarks Liberale Parti",19
+Skive,15,Balling,V_Evan_Holst,Evan Holst,"Venstre, Danmarks Liberale Parti",2
+Skive,15,Balling,V_Goska_Rasmussen,Goska Rasmussen,"Venstre, Danmarks Liberale Parti",6
+Skive,15,Balling,V_Gregers_Frederiksen,Gregers Frederiksen,"Venstre, Danmarks Liberale Parti",8
+Skive,15,Balling,V_Hanne_Brogaard,Hanne Brogaard,"Venstre, Danmarks Liberale Parti",1
+Skive,15,Balling,V_Ina_Nyvang,Ina Nyvang,"Venstre, Danmarks Liberale Parti",1
+Skive,15,Balling,V_Karsten_Nørholm_Villadsen,Karsten Nørholm Villadsen,"Venstre, Danmarks Liberale Parti",5
+Skive,15,Balling,V_Kenneth_Enggrob,Kenneth Enggrob,"Venstre, Danmarks Liberale Parti",3
+Skive,15,Balling,V_Mogens_Børsting,Mogens Børsting,"Venstre, Danmarks Liberale Parti",0
+Skive,15,Balling,V_Morten_Enggaard,Morten Enggaard,"Venstre, Danmarks Liberale Parti",0
+Skive,15,Balling,V_Olav_Nørgaard,Olav Nørgaard,"Venstre, Danmarks Liberale Parti",2
+Skive,15,Balling,V_Ole_Faarkrog-Søgaard,Ole Faarkrog-Søgaard,"Venstre, Danmarks Liberale Parti",0
+Skive,15,Balling,V_Susanne_Toftegaard_Hansen,Susanne Toftegaard Hansen,"Venstre, Danmarks Liberale Parti",1
+Skive,15,Balling,V_Susanne_Rusbjerg,Susanne Rusbjerg,"Venstre, Danmarks Liberale Parti",26
+Skive,15,Balling,V_Tom_Nykjær,Tom Nykjær,"Venstre, Danmarks Liberale Parti",1
+Skive,15,Balling,Æ_Listestemmer,Listestemmer,Frihedslisten,0
+Skive,15,Balling,"Æ_Bente_Dahl_Pedersen,_Hem","Bente Dahl Pedersen, Hem",Frihedslisten,3
+Skive,15,Balling,"Æ_Gitte_Lind_Bendixen,_Selde","Gitte Lind Bendixen, Selde",Frihedslisten,0
+Skive,15,Balling,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,2
+Skive,15,Balling,Ø_Helle_Nørgaard_Lundsby,Helle Nørgaard Lundsby,Enhedslisten - De Rød-Grønne,1
+Skive,15,Balling,Ø_Jacob_Abildgaard,Jacob Abildgaard,Enhedslisten - De Rød-Grønne,1
+Skive,16,Breum,A_Listestemmer,Listestemmer,Socialdemokratiet,40
+Skive,16,Breum,"A_Peder_Christensen,_Skive","Peder Christensen, Skive",Socialdemokratiet,75
+Skive,16,Breum,"A_Ruth_Kristensen,_Skive","Ruth Kristensen, Skive",Socialdemokratiet,10
+Skive,16,Breum,"A_Niels_Ole_D._Nielsen,_Skive","Niels Ole D. Nielsen, Skive",Socialdemokratiet,3
+Skive,16,Breum,"A_Stine_Esther_Christensen,_Egeris","Stine Esther Christensen, Egeris",Socialdemokratiet,16
+Skive,16,Breum,"A_Johnny_Kent_Knudsen,_Skive","Johnny Kent Knudsen, Skive",Socialdemokratiet,5
+Skive,16,Breum,"A_Bente_Østergaard,_Roslev","Bente Østergaard, Roslev",Socialdemokratiet,11
+Skive,16,Breum,"A_Claus_Kjeldsen,_Skive","Claus Kjeldsen, Skive",Socialdemokratiet,0
+Skive,16,Breum,"A_Marianne_Fløe_Fejerskov,_Skive","Marianne Fløe Fejerskov, Skive",Socialdemokratiet,2
+Skive,16,Breum,"A_Kim_Jepsen,_Ramsing","Kim Jepsen, Ramsing",Socialdemokratiet,9
+Skive,16,Breum,"A_Henrik_Godsk,_Rødding","Henrik Godsk, Rødding",Socialdemokratiet,0
+Skive,16,Breum,"A_Jan_D._Andersen,_Jebjerg","Jan D. Andersen, Jebjerg",Socialdemokratiet,39
+Skive,16,Breum,"A_Keld_Mørk_Kristensen,_Rønbjerg","Keld Mørk Kristensen, Rønbjerg",Socialdemokratiet,0
+Skive,16,Breum,"A_Susanne_Grove,_Skive","Susanne Grove, Skive",Socialdemokratiet,3
+Skive,16,Breum,"A_Michael_Lundsted_Nielsen,_Hem","Michael Lundsted Nielsen, Hem",Socialdemokratiet,0
+Skive,16,Breum,"A_Jonna_Skov,_Skive","Jonna Skov, Skive",Socialdemokratiet,9
+Skive,16,Breum,"A_Dorte_Christensen,_Fur","Dorte Christensen, Fur",Socialdemokratiet,0
+Skive,16,Breum,"A_Carsten_Høgh_Nielsen,_Nr._Søby","Carsten Høgh Nielsen, Nr. Søby",Socialdemokratiet,0
+Skive,16,Breum,"A_Kim_Kurdahl,_Højslev_St.","Kim Kurdahl, Højslev St.",Socialdemokratiet,1
+Skive,16,Breum,B_Listestemmer,Listestemmer,Radikale Venstre,2
+Skive,16,Breum,"B_Ellen_Bye_Jensen,_Fur","Ellen Bye Jensen, Fur",Radikale Venstre,3
+Skive,16,Breum,"B_Henrik_Wæhrens_Winther,_Skive","Henrik Wæhrens Winther, Skive",Radikale Venstre,4
+Skive,16,Breum,"B_Solveig_Stausholm-Jensen,_Skive","Solveig Stausholm-Jensen, Skive",Radikale Venstre,3
+Skive,16,Breum,"B_Gorm_Wæhrens,_Skive","Gorm Wæhrens, Skive",Radikale Venstre,2
+Skive,16,Breum,"B_Egon_Espersen,_Kisumkær","Egon Espersen, Kisumkær",Radikale Venstre,0
+Skive,16,Breum,"B_Henning_Linderoth,Jebjerg","Henning Linderoth,Jebjerg",Radikale Venstre,3
+Skive,16,Breum,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,11
+Skive,16,Breum,"C_Mogens_Birkelund,_Højslev","Mogens Birkelund, Højslev",Det Konservative Folkeparti,4
+Skive,16,Breum,"C_Kenneth_J._Grinderslev,_Roslev","Kenneth J. Grinderslev, Roslev",Det Konservative Folkeparti,5
+Skive,16,Breum,"C_Palle_Christensen,_Skive","Palle Christensen, Skive",Det Konservative Folkeparti,3
+Skive,16,Breum,"C_Peter_Søndergaard,_Dølby","Peter Søndergaard, Dølby",Det Konservative Folkeparti,0
+Skive,16,Breum,"C_Carl_Eiler_Carlsen,_Glyngøre","Carl Eiler Carlsen, Glyngøre",Det Konservative Folkeparti,1
+Skive,16,Breum,"C_Bjarne_Linneberg,_Skive","Bjarne Linneberg, Skive",Det Konservative Folkeparti,4
+Skive,16,Breum,D_Listestemmer,Listestemmer,Nye Borgerlige,8
+Skive,16,Breum,"D_Erik_Mortensen,_Vile","Erik Mortensen, Vile",Nye Borgerlige,8
+Skive,16,Breum,"D_Annie_Kaagaard_Kristensen,_Breum","Annie Kaagaard Kristensen, Breum",Nye Borgerlige,23
+Skive,16,Breum,"D_Morten_Jensen,_Skive","Morten Jensen, Skive",Nye Borgerlige,8
+Skive,16,Breum,"D_Søren_Andersen,_Højslev","Søren Andersen, Højslev",Nye Borgerlige,0
+Skive,16,Breum,"D_Frank_Dons_Pedersen,_Skive","Frank Dons Pedersen, Skive",Nye Borgerlige,0
+Skive,16,Breum,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,8
+Skive,16,Breum,"F_Anders_Bøge,Lihme","Anders Bøge,Lihme",SF - Socialistisk Folkeparti,23
+Skive,16,Breum,"F_Elsemarie_Trøst,_Skive","Elsemarie Trøst, Skive",SF - Socialistisk Folkeparti,9
+Skive,16,Breum,"F_Mia_Sönchen_Johansen,_Skive","Mia Sönchen Johansen, Skive",SF - Socialistisk Folkeparti,9
+Skive,16,Breum,"F_Jeppe_Tandal_Nielsen,_Skive","Jeppe Tandal Nielsen, Skive",SF - Socialistisk Folkeparti,5
+Skive,16,Breum,"F_Frits_Laursen,_Glyngøre","Frits Laursen, Glyngøre",SF - Socialistisk Folkeparti,4
+Skive,16,Breum,"F_Henrik_Bollesen_Nielsen,_Skive","Henrik Bollesen Nielsen, Skive",SF - Socialistisk Folkeparti,2
+Skive,16,Breum,"F_Thue_Grum-Schwensen,_Spøttrup","Thue Grum-Schwensen, Spøttrup",SF - Socialistisk Folkeparti,1
+Skive,16,Breum,"F_Thomas_D._Sølvsten,_Brårup","Thomas D. Sølvsten, Brårup",SF - Socialistisk Folkeparti,0
+Skive,16,Breum,"F_Else_Stokholm,_Skive","Else Stokholm, Skive",SF - Socialistisk Folkeparti,3
+Skive,16,Breum,"F_Ole_Bisgaard,_Skive","Ole Bisgaard, Skive",SF - Socialistisk Folkeparti,1
+Skive,16,Breum,"F_Vagn_Pedersen,_Skive","Vagn Pedersen, Skive",SF - Socialistisk Folkeparti,0
+Skive,16,Breum,M_Listestemmer,Listestemmer,Skive-Listen,2
+Skive,16,Breum,M_Per_B._Jeppesen,Per B. Jeppesen,Skive-Listen,15
+Skive,16,Breum,M_Lars_Thoft_Thomsen,Lars Thoft Thomsen,Skive-Listen,0
+Skive,16,Breum,M_Annette_Daniels_Møller,Annette Daniels Møller,Skive-Listen,6
+Skive,16,Breum,M_Knud_Mogensen,Knud Mogensen,Skive-Listen,0
+Skive,16,Breum,M_Hanne_Louise_Eriksen,Hanne Louise Eriksen,Skive-Listen,0
+Skive,16,Breum,M_Henrik_Skaarup,Henrik Skaarup,Skive-Listen,0
+Skive,16,Breum,M_Bente_I._Kristensen,Bente I. Kristensen,Skive-Listen,1
+Skive,16,Breum,M_Leif_Winther,Leif Winther,Skive-Listen,0
+Skive,16,Breum,M_Jesper_Laursen,Jesper Laursen,Skive-Listen,0
+Skive,16,Breum,M_Marianne_Bro,Marianne Bro,Skive-Listen,1
+Skive,16,Breum,M_Leif_Mikkelsen,Leif Mikkelsen,Skive-Listen,0
+Skive,16,Breum,M_Jan_Plovmand,Jan Plovmand,Skive-Listen,0
+Skive,16,Breum,M_Heine_Sørensen,Heine Sørensen,Skive-Listen,0
+Skive,16,Breum,M_Ole_Lindhard,Ole Lindhard,Skive-Listen,1
+Skive,16,Breum,O_Listestemmer,Listestemmer,Dansk Folkeparti,10
+Skive,16,Breum,"O_Peter_Mousten_Vestergård,_Jebjerg","Peter Mousten Vestergård, Jebjerg",Dansk Folkeparti,16
+Skive,16,Breum,"O_Tom_Bøgholm,_Skive","Tom Bøgholm, Skive",Dansk Folkeparti,3
+Skive,16,Breum,"O_Anders_Simmelsgaard_Krogh,_Brårup","Anders Simmelsgaard Krogh, Brårup",Dansk Folkeparti,3
+Skive,16,Breum,"O_Keld_Fausing,_Højslev","Keld Fausing, Højslev",Dansk Folkeparti,0
+Skive,16,Breum,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",37
+Skive,16,Breum,V_Peder_Christian_Kirkegaard,Peder Christian Kirkegaard,"Venstre, Danmarks Liberale Parti",120
+Skive,16,Breum,V_Jens_Have,Jens Have,"Venstre, Danmarks Liberale Parti",3
+Skive,16,Breum,V_Matthias_Landeværn_Nielsen,Matthias Landeværn Nielsen,"Venstre, Danmarks Liberale Parti",6
+Skive,16,Breum,V_Alfred_Brunsgaard,Alfred Brunsgaard,"Venstre, Danmarks Liberale Parti",17
+Skive,16,Breum,V_Alice_Bro_Grønvaldt,Alice Bro Grønvaldt,"Venstre, Danmarks Liberale Parti",11
+Skive,16,Breum,V_Annette_Torp,Annette Torp,"Venstre, Danmarks Liberale Parti",4
+Skive,16,Breum,V_Betina_Bugge,Betina Bugge,"Venstre, Danmarks Liberale Parti",6
+Skive,16,Breum,V_Christian_Vad_Holm,Christian Vad Holm,"Venstre, Danmarks Liberale Parti",5
+Skive,16,Breum,V_Dorthe_Dalsgaard,Dorthe Dalsgaard,"Venstre, Danmarks Liberale Parti",5
+Skive,16,Breum,V_Evan_Holst,Evan Holst,"Venstre, Danmarks Liberale Parti",24
+Skive,16,Breum,V_Goska_Rasmussen,Goska Rasmussen,"Venstre, Danmarks Liberale Parti",8
+Skive,16,Breum,V_Gregers_Frederiksen,Gregers Frederiksen,"Venstre, Danmarks Liberale Parti",13
+Skive,16,Breum,V_Hanne_Brogaard,Hanne Brogaard,"Venstre, Danmarks Liberale Parti",306
+Skive,16,Breum,V_Ina_Nyvang,Ina Nyvang,"Venstre, Danmarks Liberale Parti",1
+Skive,16,Breum,V_Karsten_Nørholm_Villadsen,Karsten Nørholm Villadsen,"Venstre, Danmarks Liberale Parti",0
+Skive,16,Breum,V_Kenneth_Enggrob,Kenneth Enggrob,"Venstre, Danmarks Liberale Parti",0
+Skive,16,Breum,V_Mogens_Børsting,Mogens Børsting,"Venstre, Danmarks Liberale Parti",17
+Skive,16,Breum,V_Morten_Enggaard,Morten Enggaard,"Venstre, Danmarks Liberale Parti",16
+Skive,16,Breum,V_Olav_Nørgaard,Olav Nørgaard,"Venstre, Danmarks Liberale Parti",3
+Skive,16,Breum,V_Ole_Faarkrog-Søgaard,Ole Faarkrog-Søgaard,"Venstre, Danmarks Liberale Parti",0
+Skive,16,Breum,V_Susanne_Toftegaard_Hansen,Susanne Toftegaard Hansen,"Venstre, Danmarks Liberale Parti",0
+Skive,16,Breum,V_Susanne_Rusbjerg,Susanne Rusbjerg,"Venstre, Danmarks Liberale Parti",0
+Skive,16,Breum,V_Tom_Nykjær,Tom Nykjær,"Venstre, Danmarks Liberale Parti",3
+Skive,16,Breum,Æ_Listestemmer,Listestemmer,Frihedslisten,0
+Skive,16,Breum,"Æ_Bente_Dahl_Pedersen,_Hem","Bente Dahl Pedersen, Hem",Frihedslisten,2
+Skive,16,Breum,"Æ_Gitte_Lind_Bendixen,_Selde","Gitte Lind Bendixen, Selde",Frihedslisten,1
+Skive,16,Breum,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,5
+Skive,16,Breum,Ø_Helle_Nørgaard_Lundsby,Helle Nørgaard Lundsby,Enhedslisten - De Rød-Grønne,6
+Skive,16,Breum,Ø_Jacob_Abildgaard,Jacob Abildgaard,Enhedslisten - De Rød-Grønne,1
+Skive,17,Håsum-Ramsing,A_Listestemmer,Listestemmer,Socialdemokratiet,5
+Skive,17,Håsum-Ramsing,"A_Peder_Christensen,_Skive","Peder Christensen, Skive",Socialdemokratiet,23
+Skive,17,Håsum-Ramsing,"A_Ruth_Kristensen,_Skive","Ruth Kristensen, Skive",Socialdemokratiet,0
+Skive,17,Håsum-Ramsing,"A_Niels_Ole_D._Nielsen,_Skive","Niels Ole D. Nielsen, Skive",Socialdemokratiet,0
+Skive,17,Håsum-Ramsing,"A_Stine_Esther_Christensen,_Egeris","Stine Esther Christensen, Egeris",Socialdemokratiet,3
+Skive,17,Håsum-Ramsing,"A_Johnny_Kent_Knudsen,_Skive","Johnny Kent Knudsen, Skive",Socialdemokratiet,3
+Skive,17,Håsum-Ramsing,"A_Bente_Østergaard,_Roslev","Bente Østergaard, Roslev",Socialdemokratiet,1
+Skive,17,Håsum-Ramsing,"A_Claus_Kjeldsen,_Skive","Claus Kjeldsen, Skive",Socialdemokratiet,1
+Skive,17,Håsum-Ramsing,"A_Marianne_Fløe_Fejerskov,_Skive","Marianne Fløe Fejerskov, Skive",Socialdemokratiet,1
+Skive,17,Håsum-Ramsing,"A_Kim_Jepsen,_Ramsing","Kim Jepsen, Ramsing",Socialdemokratiet,128
+Skive,17,Håsum-Ramsing,"A_Henrik_Godsk,_Rødding","Henrik Godsk, Rødding",Socialdemokratiet,2
+Skive,17,Håsum-Ramsing,"A_Jan_D._Andersen,_Jebjerg","Jan D. Andersen, Jebjerg",Socialdemokratiet,0
+Skive,17,Håsum-Ramsing,"A_Keld_Mørk_Kristensen,_Rønbjerg","Keld Mørk Kristensen, Rønbjerg",Socialdemokratiet,0
+Skive,17,Håsum-Ramsing,"A_Susanne_Grove,_Skive","Susanne Grove, Skive",Socialdemokratiet,0
+Skive,17,Håsum-Ramsing,"A_Michael_Lundsted_Nielsen,_Hem","Michael Lundsted Nielsen, Hem",Socialdemokratiet,0
+Skive,17,Håsum-Ramsing,"A_Jonna_Skov,_Skive","Jonna Skov, Skive",Socialdemokratiet,0
+Skive,17,Håsum-Ramsing,"A_Dorte_Christensen,_Fur","Dorte Christensen, Fur",Socialdemokratiet,0
+Skive,17,Håsum-Ramsing,"A_Carsten_Høgh_Nielsen,_Nr._Søby","Carsten Høgh Nielsen, Nr. Søby",Socialdemokratiet,0
+Skive,17,Håsum-Ramsing,"A_Kim_Kurdahl,_Højslev_St.","Kim Kurdahl, Højslev St.",Socialdemokratiet,1
+Skive,17,Håsum-Ramsing,B_Listestemmer,Listestemmer,Radikale Venstre,1
+Skive,17,Håsum-Ramsing,"B_Ellen_Bye_Jensen,_Fur","Ellen Bye Jensen, Fur",Radikale Venstre,0
+Skive,17,Håsum-Ramsing,"B_Henrik_Wæhrens_Winther,_Skive","Henrik Wæhrens Winther, Skive",Radikale Venstre,1
+Skive,17,Håsum-Ramsing,"B_Solveig_Stausholm-Jensen,_Skive","Solveig Stausholm-Jensen, Skive",Radikale Venstre,0
+Skive,17,Håsum-Ramsing,"B_Gorm_Wæhrens,_Skive","Gorm Wæhrens, Skive",Radikale Venstre,0
+Skive,17,Håsum-Ramsing,"B_Egon_Espersen,_Kisumkær","Egon Espersen, Kisumkær",Radikale Venstre,0
+Skive,17,Håsum-Ramsing,"B_Henning_Linderoth,Jebjerg","Henning Linderoth,Jebjerg",Radikale Venstre,0
+Skive,17,Håsum-Ramsing,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,6
+Skive,17,Håsum-Ramsing,"C_Mogens_Birkelund,_Højslev","Mogens Birkelund, Højslev",Det Konservative Folkeparti,4
+Skive,17,Håsum-Ramsing,"C_Kenneth_J._Grinderslev,_Roslev","Kenneth J. Grinderslev, Roslev",Det Konservative Folkeparti,3
+Skive,17,Håsum-Ramsing,"C_Palle_Christensen,_Skive","Palle Christensen, Skive",Det Konservative Folkeparti,4
+Skive,17,Håsum-Ramsing,"C_Peter_Søndergaard,_Dølby","Peter Søndergaard, Dølby",Det Konservative Folkeparti,0
+Skive,17,Håsum-Ramsing,"C_Carl_Eiler_Carlsen,_Glyngøre","Carl Eiler Carlsen, Glyngøre",Det Konservative Folkeparti,0
+Skive,17,Håsum-Ramsing,"C_Bjarne_Linneberg,_Skive","Bjarne Linneberg, Skive",Det Konservative Folkeparti,1
+Skive,17,Håsum-Ramsing,D_Listestemmer,Listestemmer,Nye Borgerlige,9
+Skive,17,Håsum-Ramsing,"D_Erik_Mortensen,_Vile","Erik Mortensen, Vile",Nye Borgerlige,5
+Skive,17,Håsum-Ramsing,"D_Annie_Kaagaard_Kristensen,_Breum","Annie Kaagaard Kristensen, Breum",Nye Borgerlige,3
+Skive,17,Håsum-Ramsing,"D_Morten_Jensen,_Skive","Morten Jensen, Skive",Nye Borgerlige,2
+Skive,17,Håsum-Ramsing,"D_Søren_Andersen,_Højslev","Søren Andersen, Højslev",Nye Borgerlige,0
+Skive,17,Håsum-Ramsing,"D_Frank_Dons_Pedersen,_Skive","Frank Dons Pedersen, Skive",Nye Borgerlige,0
+Skive,17,Håsum-Ramsing,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,3
+Skive,17,Håsum-Ramsing,"F_Anders_Bøge,Lihme","Anders Bøge,Lihme",SF - Socialistisk Folkeparti,11
+Skive,17,Håsum-Ramsing,"F_Elsemarie_Trøst,_Skive","Elsemarie Trøst, Skive",SF - Socialistisk Folkeparti,3
+Skive,17,Håsum-Ramsing,"F_Mia_Sönchen_Johansen,_Skive","Mia Sönchen Johansen, Skive",SF - Socialistisk Folkeparti,4
+Skive,17,Håsum-Ramsing,"F_Jeppe_Tandal_Nielsen,_Skive","Jeppe Tandal Nielsen, Skive",SF - Socialistisk Folkeparti,0
+Skive,17,Håsum-Ramsing,"F_Frits_Laursen,_Glyngøre","Frits Laursen, Glyngøre",SF - Socialistisk Folkeparti,2
+Skive,17,Håsum-Ramsing,"F_Henrik_Bollesen_Nielsen,_Skive","Henrik Bollesen Nielsen, Skive",SF - Socialistisk Folkeparti,0
+Skive,17,Håsum-Ramsing,"F_Thue_Grum-Schwensen,_Spøttrup","Thue Grum-Schwensen, Spøttrup",SF - Socialistisk Folkeparti,0
+Skive,17,Håsum-Ramsing,"F_Thomas_D._Sølvsten,_Brårup","Thomas D. Sølvsten, Brårup",SF - Socialistisk Folkeparti,0
+Skive,17,Håsum-Ramsing,"F_Else_Stokholm,_Skive","Else Stokholm, Skive",SF - Socialistisk Folkeparti,1
+Skive,17,Håsum-Ramsing,"F_Ole_Bisgaard,_Skive","Ole Bisgaard, Skive",SF - Socialistisk Folkeparti,0
+Skive,17,Håsum-Ramsing,"F_Vagn_Pedersen,_Skive","Vagn Pedersen, Skive",SF - Socialistisk Folkeparti,0
+Skive,17,Håsum-Ramsing,M_Listestemmer,Listestemmer,Skive-Listen,3
+Skive,17,Håsum-Ramsing,M_Per_B._Jeppesen,Per B. Jeppesen,Skive-Listen,1
+Skive,17,Håsum-Ramsing,M_Lars_Thoft_Thomsen,Lars Thoft Thomsen,Skive-Listen,0
+Skive,17,Håsum-Ramsing,M_Annette_Daniels_Møller,Annette Daniels Møller,Skive-Listen,1
+Skive,17,Håsum-Ramsing,M_Knud_Mogensen,Knud Mogensen,Skive-Listen,0
+Skive,17,Håsum-Ramsing,M_Hanne_Louise_Eriksen,Hanne Louise Eriksen,Skive-Listen,0
+Skive,17,Håsum-Ramsing,M_Henrik_Skaarup,Henrik Skaarup,Skive-Listen,0
+Skive,17,Håsum-Ramsing,M_Bente_I._Kristensen,Bente I. Kristensen,Skive-Listen,0
+Skive,17,Håsum-Ramsing,M_Leif_Winther,Leif Winther,Skive-Listen,0
+Skive,17,Håsum-Ramsing,M_Jesper_Laursen,Jesper Laursen,Skive-Listen,0
+Skive,17,Håsum-Ramsing,M_Marianne_Bro,Marianne Bro,Skive-Listen,0
+Skive,17,Håsum-Ramsing,M_Leif_Mikkelsen,Leif Mikkelsen,Skive-Listen,0
+Skive,17,Håsum-Ramsing,M_Jan_Plovmand,Jan Plovmand,Skive-Listen,0
+Skive,17,Håsum-Ramsing,M_Heine_Sørensen,Heine Sørensen,Skive-Listen,0
+Skive,17,Håsum-Ramsing,M_Ole_Lindhard,Ole Lindhard,Skive-Listen,2
+Skive,17,Håsum-Ramsing,O_Listestemmer,Listestemmer,Dansk Folkeparti,9
+Skive,17,Håsum-Ramsing,"O_Peter_Mousten_Vestergård,_Jebjerg","Peter Mousten Vestergård, Jebjerg",Dansk Folkeparti,4
+Skive,17,Håsum-Ramsing,"O_Tom_Bøgholm,_Skive","Tom Bøgholm, Skive",Dansk Folkeparti,5
+Skive,17,Håsum-Ramsing,"O_Anders_Simmelsgaard_Krogh,_Brårup","Anders Simmelsgaard Krogh, Brårup",Dansk Folkeparti,1
+Skive,17,Håsum-Ramsing,"O_Keld_Fausing,_Højslev","Keld Fausing, Højslev",Dansk Folkeparti,0
+Skive,17,Håsum-Ramsing,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",8
+Skive,17,Håsum-Ramsing,V_Peder_Christian_Kirkegaard,Peder Christian Kirkegaard,"Venstre, Danmarks Liberale Parti",29
+Skive,17,Håsum-Ramsing,V_Jens_Have,Jens Have,"Venstre, Danmarks Liberale Parti",4
+Skive,17,Håsum-Ramsing,V_Matthias_Landeværn_Nielsen,Matthias Landeværn Nielsen,"Venstre, Danmarks Liberale Parti",1
+Skive,17,Håsum-Ramsing,V_Alfred_Brunsgaard,Alfred Brunsgaard,"Venstre, Danmarks Liberale Parti",12
+Skive,17,Håsum-Ramsing,V_Alice_Bro_Grønvaldt,Alice Bro Grønvaldt,"Venstre, Danmarks Liberale Parti",61
+Skive,17,Håsum-Ramsing,V_Annette_Torp,Annette Torp,"Venstre, Danmarks Liberale Parti",1
+Skive,17,Håsum-Ramsing,V_Betina_Bugge,Betina Bugge,"Venstre, Danmarks Liberale Parti",1
+Skive,17,Håsum-Ramsing,V_Christian_Vad_Holm,Christian Vad Holm,"Venstre, Danmarks Liberale Parti",4
+Skive,17,Håsum-Ramsing,V_Dorthe_Dalsgaard,Dorthe Dalsgaard,"Venstre, Danmarks Liberale Parti",10
+Skive,17,Håsum-Ramsing,V_Evan_Holst,Evan Holst,"Venstre, Danmarks Liberale Parti",0
+Skive,17,Håsum-Ramsing,V_Goska_Rasmussen,Goska Rasmussen,"Venstre, Danmarks Liberale Parti",2
+Skive,17,Håsum-Ramsing,V_Gregers_Frederiksen,Gregers Frederiksen,"Venstre, Danmarks Liberale Parti",2
+Skive,17,Håsum-Ramsing,V_Hanne_Brogaard,Hanne Brogaard,"Venstre, Danmarks Liberale Parti",0
+Skive,17,Håsum-Ramsing,V_Ina_Nyvang,Ina Nyvang,"Venstre, Danmarks Liberale Parti",0
+Skive,17,Håsum-Ramsing,V_Karsten_Nørholm_Villadsen,Karsten Nørholm Villadsen,"Venstre, Danmarks Liberale Parti",7
+Skive,17,Håsum-Ramsing,V_Kenneth_Enggrob,Kenneth Enggrob,"Venstre, Danmarks Liberale Parti",1
+Skive,17,Håsum-Ramsing,V_Mogens_Børsting,Mogens Børsting,"Venstre, Danmarks Liberale Parti",1
+Skive,17,Håsum-Ramsing,V_Morten_Enggaard,Morten Enggaard,"Venstre, Danmarks Liberale Parti",0
+Skive,17,Håsum-Ramsing,V_Olav_Nørgaard,Olav Nørgaard,"Venstre, Danmarks Liberale Parti",0
+Skive,17,Håsum-Ramsing,V_Ole_Faarkrog-Søgaard,Ole Faarkrog-Søgaard,"Venstre, Danmarks Liberale Parti",0
+Skive,17,Håsum-Ramsing,V_Susanne_Toftegaard_Hansen,Susanne Toftegaard Hansen,"Venstre, Danmarks Liberale Parti",0
+Skive,17,Håsum-Ramsing,V_Susanne_Rusbjerg,Susanne Rusbjerg,"Venstre, Danmarks Liberale Parti",5
+Skive,17,Håsum-Ramsing,V_Tom_Nykjær,Tom Nykjær,"Venstre, Danmarks Liberale Parti",0
+Skive,17,Håsum-Ramsing,Æ_Listestemmer,Listestemmer,Frihedslisten,0
+Skive,17,Håsum-Ramsing,"Æ_Bente_Dahl_Pedersen,_Hem","Bente Dahl Pedersen, Hem",Frihedslisten,2
+Skive,17,Håsum-Ramsing,"Æ_Gitte_Lind_Bendixen,_Selde","Gitte Lind Bendixen, Selde",Frihedslisten,0
+Skive,17,Håsum-Ramsing,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,1
+Skive,17,Håsum-Ramsing,Ø_Helle_Nørgaard_Lundsby,Helle Nørgaard Lundsby,Enhedslisten - De Rød-Grønne,3
+Skive,17,Håsum-Ramsing,Ø_Jacob_Abildgaard,Jacob Abildgaard,Enhedslisten - De Rød-Grønne,3
+Skive,18,Selde,A_Listestemmer,Listestemmer,Socialdemokratiet,41
+Skive,18,Selde,"A_Peder_Christensen,_Skive","Peder Christensen, Skive",Socialdemokratiet,56
+Skive,18,Selde,"A_Ruth_Kristensen,_Skive","Ruth Kristensen, Skive",Socialdemokratiet,3
+Skive,18,Selde,"A_Niels_Ole_D._Nielsen,_Skive","Niels Ole D. Nielsen, Skive",Socialdemokratiet,1
+Skive,18,Selde,"A_Stine_Esther_Christensen,_Egeris","Stine Esther Christensen, Egeris",Socialdemokratiet,8
+Skive,18,Selde,"A_Johnny_Kent_Knudsen,_Skive","Johnny Kent Knudsen, Skive",Socialdemokratiet,4
+Skive,18,Selde,"A_Bente_Østergaard,_Roslev","Bente Østergaard, Roslev",Socialdemokratiet,25
+Skive,18,Selde,"A_Claus_Kjeldsen,_Skive","Claus Kjeldsen, Skive",Socialdemokratiet,0
+Skive,18,Selde,"A_Marianne_Fløe_Fejerskov,_Skive","Marianne Fløe Fejerskov, Skive",Socialdemokratiet,2
+Skive,18,Selde,"A_Kim_Jepsen,_Ramsing","Kim Jepsen, Ramsing",Socialdemokratiet,4
+Skive,18,Selde,"A_Henrik_Godsk,_Rødding","Henrik Godsk, Rødding",Socialdemokratiet,1
+Skive,18,Selde,"A_Jan_D._Andersen,_Jebjerg","Jan D. Andersen, Jebjerg",Socialdemokratiet,15
+Skive,18,Selde,"A_Keld_Mørk_Kristensen,_Rønbjerg","Keld Mørk Kristensen, Rønbjerg",Socialdemokratiet,1
+Skive,18,Selde,"A_Susanne_Grove,_Skive","Susanne Grove, Skive",Socialdemokratiet,3
+Skive,18,Selde,"A_Michael_Lundsted_Nielsen,_Hem","Michael Lundsted Nielsen, Hem",Socialdemokratiet,0
+Skive,18,Selde,"A_Jonna_Skov,_Skive","Jonna Skov, Skive",Socialdemokratiet,0
+Skive,18,Selde,"A_Dorte_Christensen,_Fur","Dorte Christensen, Fur",Socialdemokratiet,5
+Skive,18,Selde,"A_Carsten_Høgh_Nielsen,_Nr._Søby","Carsten Høgh Nielsen, Nr. Søby",Socialdemokratiet,2
+Skive,18,Selde,"A_Kim_Kurdahl,_Højslev_St.","Kim Kurdahl, Højslev St.",Socialdemokratiet,0
+Skive,18,Selde,B_Listestemmer,Listestemmer,Radikale Venstre,4
+Skive,18,Selde,"B_Ellen_Bye_Jensen,_Fur","Ellen Bye Jensen, Fur",Radikale Venstre,4
+Skive,18,Selde,"B_Henrik_Wæhrens_Winther,_Skive","Henrik Wæhrens Winther, Skive",Radikale Venstre,1
+Skive,18,Selde,"B_Solveig_Stausholm-Jensen,_Skive","Solveig Stausholm-Jensen, Skive",Radikale Venstre,1
+Skive,18,Selde,"B_Gorm_Wæhrens,_Skive","Gorm Wæhrens, Skive",Radikale Venstre,0
+Skive,18,Selde,"B_Egon_Espersen,_Kisumkær","Egon Espersen, Kisumkær",Radikale Venstre,0
+Skive,18,Selde,"B_Henning_Linderoth,Jebjerg","Henning Linderoth,Jebjerg",Radikale Venstre,0
+Skive,18,Selde,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,9
+Skive,18,Selde,"C_Mogens_Birkelund,_Højslev","Mogens Birkelund, Højslev",Det Konservative Folkeparti,6
+Skive,18,Selde,"C_Kenneth_J._Grinderslev,_Roslev","Kenneth J. Grinderslev, Roslev",Det Konservative Folkeparti,3
+Skive,18,Selde,"C_Palle_Christensen,_Skive","Palle Christensen, Skive",Det Konservative Folkeparti,1
+Skive,18,Selde,"C_Peter_Søndergaard,_Dølby","Peter Søndergaard, Dølby",Det Konservative Folkeparti,2
+Skive,18,Selde,"C_Carl_Eiler_Carlsen,_Glyngøre","Carl Eiler Carlsen, Glyngøre",Det Konservative Folkeparti,4
+Skive,18,Selde,"C_Bjarne_Linneberg,_Skive","Bjarne Linneberg, Skive",Det Konservative Folkeparti,0
+Skive,18,Selde,D_Listestemmer,Listestemmer,Nye Borgerlige,16
+Skive,18,Selde,"D_Erik_Mortensen,_Vile","Erik Mortensen, Vile",Nye Borgerlige,24
+Skive,18,Selde,"D_Annie_Kaagaard_Kristensen,_Breum","Annie Kaagaard Kristensen, Breum",Nye Borgerlige,21
+Skive,18,Selde,"D_Morten_Jensen,_Skive","Morten Jensen, Skive",Nye Borgerlige,6
+Skive,18,Selde,"D_Søren_Andersen,_Højslev","Søren Andersen, Højslev",Nye Borgerlige,0
+Skive,18,Selde,"D_Frank_Dons_Pedersen,_Skive","Frank Dons Pedersen, Skive",Nye Borgerlige,1
+Skive,18,Selde,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,9
+Skive,18,Selde,"F_Anders_Bøge,Lihme","Anders Bøge,Lihme",SF - Socialistisk Folkeparti,24
+Skive,18,Selde,"F_Elsemarie_Trøst,_Skive","Elsemarie Trøst, Skive",SF - Socialistisk Folkeparti,1
+Skive,18,Selde,"F_Mia_Sönchen_Johansen,_Skive","Mia Sönchen Johansen, Skive",SF - Socialistisk Folkeparti,8
+Skive,18,Selde,"F_Jeppe_Tandal_Nielsen,_Skive","Jeppe Tandal Nielsen, Skive",SF - Socialistisk Folkeparti,3
+Skive,18,Selde,"F_Frits_Laursen,_Glyngøre","Frits Laursen, Glyngøre",SF - Socialistisk Folkeparti,0
+Skive,18,Selde,"F_Henrik_Bollesen_Nielsen,_Skive","Henrik Bollesen Nielsen, Skive",SF - Socialistisk Folkeparti,2
+Skive,18,Selde,"F_Thue_Grum-Schwensen,_Spøttrup","Thue Grum-Schwensen, Spøttrup",SF - Socialistisk Folkeparti,0
+Skive,18,Selde,"F_Thomas_D._Sølvsten,_Brårup","Thomas D. Sølvsten, Brårup",SF - Socialistisk Folkeparti,0
+Skive,18,Selde,"F_Else_Stokholm,_Skive","Else Stokholm, Skive",SF - Socialistisk Folkeparti,0
+Skive,18,Selde,"F_Ole_Bisgaard,_Skive","Ole Bisgaard, Skive",SF - Socialistisk Folkeparti,1
+Skive,18,Selde,"F_Vagn_Pedersen,_Skive","Vagn Pedersen, Skive",SF - Socialistisk Folkeparti,0
+Skive,18,Selde,M_Listestemmer,Listestemmer,Skive-Listen,5
+Skive,18,Selde,M_Per_B._Jeppesen,Per B. Jeppesen,Skive-Listen,6
+Skive,18,Selde,M_Lars_Thoft_Thomsen,Lars Thoft Thomsen,Skive-Listen,0
+Skive,18,Selde,M_Annette_Daniels_Møller,Annette Daniels Møller,Skive-Listen,4
+Skive,18,Selde,M_Knud_Mogensen,Knud Mogensen,Skive-Listen,1
+Skive,18,Selde,M_Hanne_Louise_Eriksen,Hanne Louise Eriksen,Skive-Listen,0
+Skive,18,Selde,M_Henrik_Skaarup,Henrik Skaarup,Skive-Listen,0
+Skive,18,Selde,M_Bente_I._Kristensen,Bente I. Kristensen,Skive-Listen,0
+Skive,18,Selde,M_Leif_Winther,Leif Winther,Skive-Listen,0
+Skive,18,Selde,M_Jesper_Laursen,Jesper Laursen,Skive-Listen,0
+Skive,18,Selde,M_Marianne_Bro,Marianne Bro,Skive-Listen,0
+Skive,18,Selde,M_Leif_Mikkelsen,Leif Mikkelsen,Skive-Listen,1
+Skive,18,Selde,M_Jan_Plovmand,Jan Plovmand,Skive-Listen,1
+Skive,18,Selde,M_Heine_Sørensen,Heine Sørensen,Skive-Listen,0
+Skive,18,Selde,M_Ole_Lindhard,Ole Lindhard,Skive-Listen,0
+Skive,18,Selde,O_Listestemmer,Listestemmer,Dansk Folkeparti,9
+Skive,18,Selde,"O_Peter_Mousten_Vestergård,_Jebjerg","Peter Mousten Vestergård, Jebjerg",Dansk Folkeparti,14
+Skive,18,Selde,"O_Tom_Bøgholm,_Skive","Tom Bøgholm, Skive",Dansk Folkeparti,2
+Skive,18,Selde,"O_Anders_Simmelsgaard_Krogh,_Brårup","Anders Simmelsgaard Krogh, Brårup",Dansk Folkeparti,2
+Skive,18,Selde,"O_Keld_Fausing,_Højslev","Keld Fausing, Højslev",Dansk Folkeparti,0
+Skive,18,Selde,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",25
+Skive,18,Selde,V_Peder_Christian_Kirkegaard,Peder Christian Kirkegaard,"Venstre, Danmarks Liberale Parti",87
+Skive,18,Selde,V_Jens_Have,Jens Have,"Venstre, Danmarks Liberale Parti",1
+Skive,18,Selde,V_Matthias_Landeværn_Nielsen,Matthias Landeværn Nielsen,"Venstre, Danmarks Liberale Parti",3
+Skive,18,Selde,V_Alfred_Brunsgaard,Alfred Brunsgaard,"Venstre, Danmarks Liberale Parti",19
+Skive,18,Selde,V_Alice_Bro_Grønvaldt,Alice Bro Grønvaldt,"Venstre, Danmarks Liberale Parti",6
+Skive,18,Selde,V_Annette_Torp,Annette Torp,"Venstre, Danmarks Liberale Parti",6
+Skive,18,Selde,V_Betina_Bugge,Betina Bugge,"Venstre, Danmarks Liberale Parti",17
+Skive,18,Selde,V_Christian_Vad_Holm,Christian Vad Holm,"Venstre, Danmarks Liberale Parti",1
+Skive,18,Selde,V_Dorthe_Dalsgaard,Dorthe Dalsgaard,"Venstre, Danmarks Liberale Parti",3
+Skive,18,Selde,V_Evan_Holst,Evan Holst,"Venstre, Danmarks Liberale Parti",2
+Skive,18,Selde,V_Goska_Rasmussen,Goska Rasmussen,"Venstre, Danmarks Liberale Parti",6
+Skive,18,Selde,V_Gregers_Frederiksen,Gregers Frederiksen,"Venstre, Danmarks Liberale Parti",8
+Skive,18,Selde,V_Hanne_Brogaard,Hanne Brogaard,"Venstre, Danmarks Liberale Parti",33
+Skive,18,Selde,V_Ina_Nyvang,Ina Nyvang,"Venstre, Danmarks Liberale Parti",0
+Skive,18,Selde,V_Karsten_Nørholm_Villadsen,Karsten Nørholm Villadsen,"Venstre, Danmarks Liberale Parti",0
+Skive,18,Selde,V_Kenneth_Enggrob,Kenneth Enggrob,"Venstre, Danmarks Liberale Parti",1
+Skive,18,Selde,V_Mogens_Børsting,Mogens Børsting,"Venstre, Danmarks Liberale Parti",123
+Skive,18,Selde,V_Morten_Enggaard,Morten Enggaard,"Venstre, Danmarks Liberale Parti",5
+Skive,18,Selde,V_Olav_Nørgaard,Olav Nørgaard,"Venstre, Danmarks Liberale Parti",1
+Skive,18,Selde,V_Ole_Faarkrog-Søgaard,Ole Faarkrog-Søgaard,"Venstre, Danmarks Liberale Parti",1
+Skive,18,Selde,V_Susanne_Toftegaard_Hansen,Susanne Toftegaard Hansen,"Venstre, Danmarks Liberale Parti",0
+Skive,18,Selde,V_Susanne_Rusbjerg,Susanne Rusbjerg,"Venstre, Danmarks Liberale Parti",1
+Skive,18,Selde,V_Tom_Nykjær,Tom Nykjær,"Venstre, Danmarks Liberale Parti",1
+Skive,18,Selde,Æ_Listestemmer,Listestemmer,Frihedslisten,0
+Skive,18,Selde,"Æ_Bente_Dahl_Pedersen,_Hem","Bente Dahl Pedersen, Hem",Frihedslisten,2
+Skive,18,Selde,"Æ_Gitte_Lind_Bendixen,_Selde","Gitte Lind Bendixen, Selde",Frihedslisten,1
+Skive,18,Selde,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,6
+Skive,18,Selde,Ø_Helle_Nørgaard_Lundsby,Helle Nørgaard Lundsby,Enhedslisten - De Rød-Grønne,5
+Skive,18,Selde,Ø_Jacob_Abildgaard,Jacob Abildgaard,Enhedslisten - De Rød-Grønne,4
+Skive,19,Lem-Vejby,A_Listestemmer,Listestemmer,Socialdemokratiet,19
+Skive,19,Lem-Vejby,"A_Peder_Christensen,_Skive","Peder Christensen, Skive",Socialdemokratiet,52
+Skive,19,Lem-Vejby,"A_Ruth_Kristensen,_Skive","Ruth Kristensen, Skive",Socialdemokratiet,0
+Skive,19,Lem-Vejby,"A_Niels_Ole_D._Nielsen,_Skive","Niels Ole D. Nielsen, Skive",Socialdemokratiet,0
+Skive,19,Lem-Vejby,"A_Stine_Esther_Christensen,_Egeris","Stine Esther Christensen, Egeris",Socialdemokratiet,4
+Skive,19,Lem-Vejby,"A_Johnny_Kent_Knudsen,_Skive","Johnny Kent Knudsen, Skive",Socialdemokratiet,8
+Skive,19,Lem-Vejby,"A_Bente_Østergaard,_Roslev","Bente Østergaard, Roslev",Socialdemokratiet,0
+Skive,19,Lem-Vejby,"A_Claus_Kjeldsen,_Skive","Claus Kjeldsen, Skive",Socialdemokratiet,2
+Skive,19,Lem-Vejby,"A_Marianne_Fløe_Fejerskov,_Skive","Marianne Fløe Fejerskov, Skive",Socialdemokratiet,0
+Skive,19,Lem-Vejby,"A_Kim_Jepsen,_Ramsing","Kim Jepsen, Ramsing",Socialdemokratiet,83
+Skive,19,Lem-Vejby,"A_Henrik_Godsk,_Rødding","Henrik Godsk, Rødding",Socialdemokratiet,10
+Skive,19,Lem-Vejby,"A_Jan_D._Andersen,_Jebjerg","Jan D. Andersen, Jebjerg",Socialdemokratiet,1
+Skive,19,Lem-Vejby,"A_Keld_Mørk_Kristensen,_Rønbjerg","Keld Mørk Kristensen, Rønbjerg",Socialdemokratiet,0
+Skive,19,Lem-Vejby,"A_Susanne_Grove,_Skive","Susanne Grove, Skive",Socialdemokratiet,0
+Skive,19,Lem-Vejby,"A_Michael_Lundsted_Nielsen,_Hem","Michael Lundsted Nielsen, Hem",Socialdemokratiet,1
+Skive,19,Lem-Vejby,"A_Jonna_Skov,_Skive","Jonna Skov, Skive",Socialdemokratiet,3
+Skive,19,Lem-Vejby,"A_Dorte_Christensen,_Fur","Dorte Christensen, Fur",Socialdemokratiet,0
+Skive,19,Lem-Vejby,"A_Carsten_Høgh_Nielsen,_Nr._Søby","Carsten Høgh Nielsen, Nr. Søby",Socialdemokratiet,0
+Skive,19,Lem-Vejby,"A_Kim_Kurdahl,_Højslev_St.","Kim Kurdahl, Højslev St.",Socialdemokratiet,0
+Skive,19,Lem-Vejby,B_Listestemmer,Listestemmer,Radikale Venstre,1
+Skive,19,Lem-Vejby,"B_Ellen_Bye_Jensen,_Fur","Ellen Bye Jensen, Fur",Radikale Venstre,1
+Skive,19,Lem-Vejby,"B_Henrik_Wæhrens_Winther,_Skive","Henrik Wæhrens Winther, Skive",Radikale Venstre,3
+Skive,19,Lem-Vejby,"B_Solveig_Stausholm-Jensen,_Skive","Solveig Stausholm-Jensen, Skive",Radikale Venstre,1
+Skive,19,Lem-Vejby,"B_Gorm_Wæhrens,_Skive","Gorm Wæhrens, Skive",Radikale Venstre,2
+Skive,19,Lem-Vejby,"B_Egon_Espersen,_Kisumkær","Egon Espersen, Kisumkær",Radikale Venstre,0
+Skive,19,Lem-Vejby,"B_Henning_Linderoth,Jebjerg","Henning Linderoth,Jebjerg",Radikale Venstre,1
+Skive,19,Lem-Vejby,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,5
+Skive,19,Lem-Vejby,"C_Mogens_Birkelund,_Højslev","Mogens Birkelund, Højslev",Det Konservative Folkeparti,2
+Skive,19,Lem-Vejby,"C_Kenneth_J._Grinderslev,_Roslev","Kenneth J. Grinderslev, Roslev",Det Konservative Folkeparti,2
+Skive,19,Lem-Vejby,"C_Palle_Christensen,_Skive","Palle Christensen, Skive",Det Konservative Folkeparti,2
+Skive,19,Lem-Vejby,"C_Peter_Søndergaard,_Dølby","Peter Søndergaard, Dølby",Det Konservative Folkeparti,1
+Skive,19,Lem-Vejby,"C_Carl_Eiler_Carlsen,_Glyngøre","Carl Eiler Carlsen, Glyngøre",Det Konservative Folkeparti,0
+Skive,19,Lem-Vejby,"C_Bjarne_Linneberg,_Skive","Bjarne Linneberg, Skive",Det Konservative Folkeparti,1
+Skive,19,Lem-Vejby,D_Listestemmer,Listestemmer,Nye Borgerlige,5
+Skive,19,Lem-Vejby,"D_Erik_Mortensen,_Vile","Erik Mortensen, Vile",Nye Borgerlige,6
+Skive,19,Lem-Vejby,"D_Annie_Kaagaard_Kristensen,_Breum","Annie Kaagaard Kristensen, Breum",Nye Borgerlige,0
+Skive,19,Lem-Vejby,"D_Morten_Jensen,_Skive","Morten Jensen, Skive",Nye Borgerlige,6
+Skive,19,Lem-Vejby,"D_Søren_Andersen,_Højslev","Søren Andersen, Højslev",Nye Borgerlige,1
+Skive,19,Lem-Vejby,"D_Frank_Dons_Pedersen,_Skive","Frank Dons Pedersen, Skive",Nye Borgerlige,1
+Skive,19,Lem-Vejby,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,2
+Skive,19,Lem-Vejby,"F_Anders_Bøge,Lihme","Anders Bøge,Lihme",SF - Socialistisk Folkeparti,28
+Skive,19,Lem-Vejby,"F_Elsemarie_Trøst,_Skive","Elsemarie Trøst, Skive",SF - Socialistisk Folkeparti,2
+Skive,19,Lem-Vejby,"F_Mia_Sönchen_Johansen,_Skive","Mia Sönchen Johansen, Skive",SF - Socialistisk Folkeparti,1
+Skive,19,Lem-Vejby,"F_Jeppe_Tandal_Nielsen,_Skive","Jeppe Tandal Nielsen, Skive",SF - Socialistisk Folkeparti,0
+Skive,19,Lem-Vejby,"F_Frits_Laursen,_Glyngøre","Frits Laursen, Glyngøre",SF - Socialistisk Folkeparti,1
+Skive,19,Lem-Vejby,"F_Henrik_Bollesen_Nielsen,_Skive","Henrik Bollesen Nielsen, Skive",SF - Socialistisk Folkeparti,1
+Skive,19,Lem-Vejby,"F_Thue_Grum-Schwensen,_Spøttrup","Thue Grum-Schwensen, Spøttrup",SF - Socialistisk Folkeparti,1
+Skive,19,Lem-Vejby,"F_Thomas_D._Sølvsten,_Brårup","Thomas D. Sølvsten, Brårup",SF - Socialistisk Folkeparti,0
+Skive,19,Lem-Vejby,"F_Else_Stokholm,_Skive","Else Stokholm, Skive",SF - Socialistisk Folkeparti,0
+Skive,19,Lem-Vejby,"F_Ole_Bisgaard,_Skive","Ole Bisgaard, Skive",SF - Socialistisk Folkeparti,0
+Skive,19,Lem-Vejby,"F_Vagn_Pedersen,_Skive","Vagn Pedersen, Skive",SF - Socialistisk Folkeparti,0
+Skive,19,Lem-Vejby,M_Listestemmer,Listestemmer,Skive-Listen,2
+Skive,19,Lem-Vejby,M_Per_B._Jeppesen,Per B. Jeppesen,Skive-Listen,3
+Skive,19,Lem-Vejby,M_Lars_Thoft_Thomsen,Lars Thoft Thomsen,Skive-Listen,0
+Skive,19,Lem-Vejby,M_Annette_Daniels_Møller,Annette Daniels Møller,Skive-Listen,0
+Skive,19,Lem-Vejby,M_Knud_Mogensen,Knud Mogensen,Skive-Listen,1
+Skive,19,Lem-Vejby,M_Hanne_Louise_Eriksen,Hanne Louise Eriksen,Skive-Listen,0
+Skive,19,Lem-Vejby,M_Henrik_Skaarup,Henrik Skaarup,Skive-Listen,0
+Skive,19,Lem-Vejby,M_Bente_I._Kristensen,Bente I. Kristensen,Skive-Listen,0
+Skive,19,Lem-Vejby,M_Leif_Winther,Leif Winther,Skive-Listen,0
+Skive,19,Lem-Vejby,M_Jesper_Laursen,Jesper Laursen,Skive-Listen,0
+Skive,19,Lem-Vejby,M_Marianne_Bro,Marianne Bro,Skive-Listen,1
+Skive,19,Lem-Vejby,M_Leif_Mikkelsen,Leif Mikkelsen,Skive-Listen,0
+Skive,19,Lem-Vejby,M_Jan_Plovmand,Jan Plovmand,Skive-Listen,0
+Skive,19,Lem-Vejby,M_Heine_Sørensen,Heine Sørensen,Skive-Listen,0
+Skive,19,Lem-Vejby,M_Ole_Lindhard,Ole Lindhard,Skive-Listen,4
+Skive,19,Lem-Vejby,O_Listestemmer,Listestemmer,Dansk Folkeparti,11
+Skive,19,Lem-Vejby,"O_Peter_Mousten_Vestergård,_Jebjerg","Peter Mousten Vestergård, Jebjerg",Dansk Folkeparti,4
+Skive,19,Lem-Vejby,"O_Tom_Bøgholm,_Skive","Tom Bøgholm, Skive",Dansk Folkeparti,6
+Skive,19,Lem-Vejby,"O_Anders_Simmelsgaard_Krogh,_Brårup","Anders Simmelsgaard Krogh, Brårup",Dansk Folkeparti,5
+Skive,19,Lem-Vejby,"O_Keld_Fausing,_Højslev","Keld Fausing, Højslev",Dansk Folkeparti,1
+Skive,19,Lem-Vejby,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",16
+Skive,19,Lem-Vejby,V_Peder_Christian_Kirkegaard,Peder Christian Kirkegaard,"Venstre, Danmarks Liberale Parti",45
+Skive,19,Lem-Vejby,V_Jens_Have,Jens Have,"Venstre, Danmarks Liberale Parti",6
+Skive,19,Lem-Vejby,V_Matthias_Landeværn_Nielsen,Matthias Landeværn Nielsen,"Venstre, Danmarks Liberale Parti",1
+Skive,19,Lem-Vejby,V_Alfred_Brunsgaard,Alfred Brunsgaard,"Venstre, Danmarks Liberale Parti",1
+Skive,19,Lem-Vejby,V_Alice_Bro_Grønvaldt,Alice Bro Grønvaldt,"Venstre, Danmarks Liberale Parti",41
+Skive,19,Lem-Vejby,V_Annette_Torp,Annette Torp,"Venstre, Danmarks Liberale Parti",0
+Skive,19,Lem-Vejby,V_Betina_Bugge,Betina Bugge,"Venstre, Danmarks Liberale Parti",0
+Skive,19,Lem-Vejby,V_Christian_Vad_Holm,Christian Vad Holm,"Venstre, Danmarks Liberale Parti",0
+Skive,19,Lem-Vejby,V_Dorthe_Dalsgaard,Dorthe Dalsgaard,"Venstre, Danmarks Liberale Parti",56
+Skive,19,Lem-Vejby,V_Evan_Holst,Evan Holst,"Venstre, Danmarks Liberale Parti",0
+Skive,19,Lem-Vejby,V_Goska_Rasmussen,Goska Rasmussen,"Venstre, Danmarks Liberale Parti",1
+Skive,19,Lem-Vejby,V_Gregers_Frederiksen,Gregers Frederiksen,"Venstre, Danmarks Liberale Parti",6
+Skive,19,Lem-Vejby,V_Hanne_Brogaard,Hanne Brogaard,"Venstre, Danmarks Liberale Parti",1
+Skive,19,Lem-Vejby,V_Ina_Nyvang,Ina Nyvang,"Venstre, Danmarks Liberale Parti",3
+Skive,19,Lem-Vejby,V_Karsten_Nørholm_Villadsen,Karsten Nørholm Villadsen,"Venstre, Danmarks Liberale Parti",4
+Skive,19,Lem-Vejby,V_Kenneth_Enggrob,Kenneth Enggrob,"Venstre, Danmarks Liberale Parti",0
+Skive,19,Lem-Vejby,V_Mogens_Børsting,Mogens Børsting,"Venstre, Danmarks Liberale Parti",0
+Skive,19,Lem-Vejby,V_Morten_Enggaard,Morten Enggaard,"Venstre, Danmarks Liberale Parti",0
+Skive,19,Lem-Vejby,V_Olav_Nørgaard,Olav Nørgaard,"Venstre, Danmarks Liberale Parti",2
+Skive,19,Lem-Vejby,V_Ole_Faarkrog-Søgaard,Ole Faarkrog-Søgaard,"Venstre, Danmarks Liberale Parti",1
+Skive,19,Lem-Vejby,V_Susanne_Toftegaard_Hansen,Susanne Toftegaard Hansen,"Venstre, Danmarks Liberale Parti",0
+Skive,19,Lem-Vejby,V_Susanne_Rusbjerg,Susanne Rusbjerg,"Venstre, Danmarks Liberale Parti",3
+Skive,19,Lem-Vejby,V_Tom_Nykjær,Tom Nykjær,"Venstre, Danmarks Liberale Parti",0
+Skive,19,Lem-Vejby,Æ_Listestemmer,Listestemmer,Frihedslisten,1
+Skive,19,Lem-Vejby,"Æ_Bente_Dahl_Pedersen,_Hem","Bente Dahl Pedersen, Hem",Frihedslisten,4
+Skive,19,Lem-Vejby,"Æ_Gitte_Lind_Bendixen,_Selde","Gitte Lind Bendixen, Selde",Frihedslisten,0
+Skive,19,Lem-Vejby,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,2
+Skive,19,Lem-Vejby,Ø_Helle_Nørgaard_Lundsby,Helle Nørgaard Lundsby,Enhedslisten - De Rød-Grønne,3
+Skive,19,Lem-Vejby,Ø_Jacob_Abildgaard,Jacob Abildgaard,Enhedslisten - De Rød-Grønne,0
+Skive,20,Fur,A_Listestemmer,Listestemmer,Socialdemokratiet,29
+Skive,20,Fur,"A_Peder_Christensen,_Skive","Peder Christensen, Skive",Socialdemokratiet,16
+Skive,20,Fur,"A_Ruth_Kristensen,_Skive","Ruth Kristensen, Skive",Socialdemokratiet,5
+Skive,20,Fur,"A_Niels_Ole_D._Nielsen,_Skive","Niels Ole D. Nielsen, Skive",Socialdemokratiet,2
+Skive,20,Fur,"A_Stine_Esther_Christensen,_Egeris","Stine Esther Christensen, Egeris",Socialdemokratiet,2
+Skive,20,Fur,"A_Johnny_Kent_Knudsen,_Skive","Johnny Kent Knudsen, Skive",Socialdemokratiet,0
+Skive,20,Fur,"A_Bente_Østergaard,_Roslev","Bente Østergaard, Roslev",Socialdemokratiet,1
+Skive,20,Fur,"A_Claus_Kjeldsen,_Skive","Claus Kjeldsen, Skive",Socialdemokratiet,1
+Skive,20,Fur,"A_Marianne_Fløe_Fejerskov,_Skive","Marianne Fløe Fejerskov, Skive",Socialdemokratiet,1
+Skive,20,Fur,"A_Kim_Jepsen,_Ramsing","Kim Jepsen, Ramsing",Socialdemokratiet,1
+Skive,20,Fur,"A_Henrik_Godsk,_Rødding","Henrik Godsk, Rødding",Socialdemokratiet,0
+Skive,20,Fur,"A_Jan_D._Andersen,_Jebjerg","Jan D. Andersen, Jebjerg",Socialdemokratiet,0
+Skive,20,Fur,"A_Keld_Mørk_Kristensen,_Rønbjerg","Keld Mørk Kristensen, Rønbjerg",Socialdemokratiet,0
+Skive,20,Fur,"A_Susanne_Grove,_Skive","Susanne Grove, Skive",Socialdemokratiet,1
+Skive,20,Fur,"A_Michael_Lundsted_Nielsen,_Hem","Michael Lundsted Nielsen, Hem",Socialdemokratiet,0
+Skive,20,Fur,"A_Jonna_Skov,_Skive","Jonna Skov, Skive",Socialdemokratiet,0
+Skive,20,Fur,"A_Dorte_Christensen,_Fur","Dorte Christensen, Fur",Socialdemokratiet,38
+Skive,20,Fur,"A_Carsten_Høgh_Nielsen,_Nr._Søby","Carsten Høgh Nielsen, Nr. Søby",Socialdemokratiet,0
+Skive,20,Fur,"A_Kim_Kurdahl,_Højslev_St.","Kim Kurdahl, Højslev St.",Socialdemokratiet,0
+Skive,20,Fur,B_Listestemmer,Listestemmer,Radikale Venstre,1
+Skive,20,Fur,"B_Ellen_Bye_Jensen,_Fur","Ellen Bye Jensen, Fur",Radikale Venstre,23
+Skive,20,Fur,"B_Henrik_Wæhrens_Winther,_Skive","Henrik Wæhrens Winther, Skive",Radikale Venstre,0
+Skive,20,Fur,"B_Solveig_Stausholm-Jensen,_Skive","Solveig Stausholm-Jensen, Skive",Radikale Venstre,0
+Skive,20,Fur,"B_Gorm_Wæhrens,_Skive","Gorm Wæhrens, Skive",Radikale Venstre,0
+Skive,20,Fur,"B_Egon_Espersen,_Kisumkær","Egon Espersen, Kisumkær",Radikale Venstre,0
+Skive,20,Fur,"B_Henning_Linderoth,Jebjerg","Henning Linderoth,Jebjerg",Radikale Venstre,0
+Skive,20,Fur,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,6
+Skive,20,Fur,"C_Mogens_Birkelund,_Højslev","Mogens Birkelund, Højslev",Det Konservative Folkeparti,3
+Skive,20,Fur,"C_Kenneth_J._Grinderslev,_Roslev","Kenneth J. Grinderslev, Roslev",Det Konservative Folkeparti,1
+Skive,20,Fur,"C_Palle_Christensen,_Skive","Palle Christensen, Skive",Det Konservative Folkeparti,1
+Skive,20,Fur,"C_Peter_Søndergaard,_Dølby","Peter Søndergaard, Dølby",Det Konservative Folkeparti,0
+Skive,20,Fur,"C_Carl_Eiler_Carlsen,_Glyngøre","Carl Eiler Carlsen, Glyngøre",Det Konservative Folkeparti,3
+Skive,20,Fur,"C_Bjarne_Linneberg,_Skive","Bjarne Linneberg, Skive",Det Konservative Folkeparti,0
+Skive,20,Fur,D_Listestemmer,Listestemmer,Nye Borgerlige,3
+Skive,20,Fur,"D_Erik_Mortensen,_Vile","Erik Mortensen, Vile",Nye Borgerlige,6
+Skive,20,Fur,"D_Annie_Kaagaard_Kristensen,_Breum","Annie Kaagaard Kristensen, Breum",Nye Borgerlige,9
+Skive,20,Fur,"D_Morten_Jensen,_Skive","Morten Jensen, Skive",Nye Borgerlige,1
+Skive,20,Fur,"D_Søren_Andersen,_Højslev","Søren Andersen, Højslev",Nye Borgerlige,0
+Skive,20,Fur,"D_Frank_Dons_Pedersen,_Skive","Frank Dons Pedersen, Skive",Nye Borgerlige,0
+Skive,20,Fur,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,7
+Skive,20,Fur,"F_Anders_Bøge,Lihme","Anders Bøge,Lihme",SF - Socialistisk Folkeparti,19
+Skive,20,Fur,"F_Elsemarie_Trøst,_Skive","Elsemarie Trøst, Skive",SF - Socialistisk Folkeparti,5
+Skive,20,Fur,"F_Mia_Sönchen_Johansen,_Skive","Mia Sönchen Johansen, Skive",SF - Socialistisk Folkeparti,12
+Skive,20,Fur,"F_Jeppe_Tandal_Nielsen,_Skive","Jeppe Tandal Nielsen, Skive",SF - Socialistisk Folkeparti,5
+Skive,20,Fur,"F_Frits_Laursen,_Glyngøre","Frits Laursen, Glyngøre",SF - Socialistisk Folkeparti,0
+Skive,20,Fur,"F_Henrik_Bollesen_Nielsen,_Skive","Henrik Bollesen Nielsen, Skive",SF - Socialistisk Folkeparti,0
+Skive,20,Fur,"F_Thue_Grum-Schwensen,_Spøttrup","Thue Grum-Schwensen, Spøttrup",SF - Socialistisk Folkeparti,4
+Skive,20,Fur,"F_Thomas_D._Sølvsten,_Brårup","Thomas D. Sølvsten, Brårup",SF - Socialistisk Folkeparti,1
+Skive,20,Fur,"F_Else_Stokholm,_Skive","Else Stokholm, Skive",SF - Socialistisk Folkeparti,1
+Skive,20,Fur,"F_Ole_Bisgaard,_Skive","Ole Bisgaard, Skive",SF - Socialistisk Folkeparti,0
+Skive,20,Fur,"F_Vagn_Pedersen,_Skive","Vagn Pedersen, Skive",SF - Socialistisk Folkeparti,0
+Skive,20,Fur,M_Listestemmer,Listestemmer,Skive-Listen,0
+Skive,20,Fur,M_Per_B._Jeppesen,Per B. Jeppesen,Skive-Listen,1
+Skive,20,Fur,M_Lars_Thoft_Thomsen,Lars Thoft Thomsen,Skive-Listen,0
+Skive,20,Fur,M_Annette_Daniels_Møller,Annette Daniels Møller,Skive-Listen,0
+Skive,20,Fur,M_Knud_Mogensen,Knud Mogensen,Skive-Listen,0
+Skive,20,Fur,M_Hanne_Louise_Eriksen,Hanne Louise Eriksen,Skive-Listen,0
+Skive,20,Fur,M_Henrik_Skaarup,Henrik Skaarup,Skive-Listen,0
+Skive,20,Fur,M_Bente_I._Kristensen,Bente I. Kristensen,Skive-Listen,0
+Skive,20,Fur,M_Leif_Winther,Leif Winther,Skive-Listen,0
+Skive,20,Fur,M_Jesper_Laursen,Jesper Laursen,Skive-Listen,0
+Skive,20,Fur,M_Marianne_Bro,Marianne Bro,Skive-Listen,0
+Skive,20,Fur,M_Leif_Mikkelsen,Leif Mikkelsen,Skive-Listen,0
+Skive,20,Fur,M_Jan_Plovmand,Jan Plovmand,Skive-Listen,0
+Skive,20,Fur,M_Heine_Sørensen,Heine Sørensen,Skive-Listen,0
+Skive,20,Fur,M_Ole_Lindhard,Ole Lindhard,Skive-Listen,0
+Skive,20,Fur,O_Listestemmer,Listestemmer,Dansk Folkeparti,2
+Skive,20,Fur,"O_Peter_Mousten_Vestergård,_Jebjerg","Peter Mousten Vestergård, Jebjerg",Dansk Folkeparti,5
+Skive,20,Fur,"O_Tom_Bøgholm,_Skive","Tom Bøgholm, Skive",Dansk Folkeparti,2
+Skive,20,Fur,"O_Anders_Simmelsgaard_Krogh,_Brårup","Anders Simmelsgaard Krogh, Brårup",Dansk Folkeparti,1
+Skive,20,Fur,"O_Keld_Fausing,_Højslev","Keld Fausing, Højslev",Dansk Folkeparti,0
+Skive,20,Fur,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",5
+Skive,20,Fur,V_Peder_Christian_Kirkegaard,Peder Christian Kirkegaard,"Venstre, Danmarks Liberale Parti",52
+Skive,20,Fur,V_Jens_Have,Jens Have,"Venstre, Danmarks Liberale Parti",1
+Skive,20,Fur,V_Matthias_Landeværn_Nielsen,Matthias Landeværn Nielsen,"Venstre, Danmarks Liberale Parti",2
+Skive,20,Fur,V_Alfred_Brunsgaard,Alfred Brunsgaard,"Venstre, Danmarks Liberale Parti",3
+Skive,20,Fur,V_Alice_Bro_Grønvaldt,Alice Bro Grønvaldt,"Venstre, Danmarks Liberale Parti",6
+Skive,20,Fur,V_Annette_Torp,Annette Torp,"Venstre, Danmarks Liberale Parti",1
+Skive,20,Fur,V_Betina_Bugge,Betina Bugge,"Venstre, Danmarks Liberale Parti",223
+Skive,20,Fur,V_Christian_Vad_Holm,Christian Vad Holm,"Venstre, Danmarks Liberale Parti",1
+Skive,20,Fur,V_Dorthe_Dalsgaard,Dorthe Dalsgaard,"Venstre, Danmarks Liberale Parti",3
+Skive,20,Fur,V_Evan_Holst,Evan Holst,"Venstre, Danmarks Liberale Parti",1
+Skive,20,Fur,V_Goska_Rasmussen,Goska Rasmussen,"Venstre, Danmarks Liberale Parti",2
+Skive,20,Fur,V_Gregers_Frederiksen,Gregers Frederiksen,"Venstre, Danmarks Liberale Parti",4
+Skive,20,Fur,V_Hanne_Brogaard,Hanne Brogaard,"Venstre, Danmarks Liberale Parti",3
+Skive,20,Fur,V_Ina_Nyvang,Ina Nyvang,"Venstre, Danmarks Liberale Parti",0
+Skive,20,Fur,V_Karsten_Nørholm_Villadsen,Karsten Nørholm Villadsen,"Venstre, Danmarks Liberale Parti",0
+Skive,20,Fur,V_Kenneth_Enggrob,Kenneth Enggrob,"Venstre, Danmarks Liberale Parti",1
+Skive,20,Fur,V_Mogens_Børsting,Mogens Børsting,"Venstre, Danmarks Liberale Parti",1
+Skive,20,Fur,V_Morten_Enggaard,Morten Enggaard,"Venstre, Danmarks Liberale Parti",0
+Skive,20,Fur,V_Olav_Nørgaard,Olav Nørgaard,"Venstre, Danmarks Liberale Parti",1
+Skive,20,Fur,V_Ole_Faarkrog-Søgaard,Ole Faarkrog-Søgaard,"Venstre, Danmarks Liberale Parti",0
+Skive,20,Fur,V_Susanne_Toftegaard_Hansen,Susanne Toftegaard Hansen,"Venstre, Danmarks Liberale Parti",0
+Skive,20,Fur,V_Susanne_Rusbjerg,Susanne Rusbjerg,"Venstre, Danmarks Liberale Parti",0
+Skive,20,Fur,V_Tom_Nykjær,Tom Nykjær,"Venstre, Danmarks Liberale Parti",0
+Skive,20,Fur,Æ_Listestemmer,Listestemmer,Frihedslisten,0
+Skive,20,Fur,"Æ_Bente_Dahl_Pedersen,_Hem","Bente Dahl Pedersen, Hem",Frihedslisten,0
+Skive,20,Fur,"Æ_Gitte_Lind_Bendixen,_Selde","Gitte Lind Bendixen, Selde",Frihedslisten,1
+Skive,20,Fur,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,4
+Skive,20,Fur,Ø_Helle_Nørgaard_Lundsby,Helle Nørgaard Lundsby,Enhedslisten - De Rød-Grønne,6
+Skive,20,Fur,Ø_Jacob_Abildgaard,Jacob Abildgaard,Enhedslisten - De Rød-Grønne,0

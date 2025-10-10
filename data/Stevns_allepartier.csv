@@ -1,0 +1,341 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Stevns,1,Hårlevhallen,A_Listestemmer,Listestemmer,Socialdemokratiet,271
+Stevns,1,Hårlevhallen,"A_Henning_Urban_Dam,_Store_Heddinge","Henning Urban Dam, Store Heddinge",Socialdemokratiet,152
+Stevns,1,Hårlevhallen,"A_Anne_Munch,_Rødvig","Anne Munch, Rødvig",Socialdemokratiet,29
+Stevns,1,Hårlevhallen,"A_Helen_Sørensen,_Strøby_Egede","Helen Sørensen, Strøby Egede",Socialdemokratiet,25
+Stevns,1,Hårlevhallen,"A_Steen_S._Hansen,_Hårlev","Steen S. Hansen, Hårlev",Socialdemokratiet,151
+Stevns,1,Hårlevhallen,"A_Thomas_Overgaard,_Store_Heddinge","Thomas Overgaard, Store Heddinge",Socialdemokratiet,14
+Stevns,1,Hårlevhallen,"A_Tim_Christensen,_Strøby_Egede","Tim Christensen, Strøby Egede",Socialdemokratiet,39
+Stevns,1,Hårlevhallen,"A_Morten_Kasper,_Valløby","Morten Kasper, Valløby",Socialdemokratiet,29
+Stevns,1,Hårlevhallen,"A_Ib_Petersen,_Hårlev","Ib Petersen, Hårlev",Socialdemokratiet,49
+Stevns,1,Hårlevhallen,"A_Charlotte_Hansen,_Store_Heddinge","Charlotte Hansen, Store Heddinge",Socialdemokratiet,17
+Stevns,1,Hårlevhallen,"A_Mogens_Hansen,_Rødvig","Mogens Hansen, Rødvig",Socialdemokratiet,4
+Stevns,1,Hårlevhallen,B_Listestemmer,Listestemmer,Radikale Venstre,27
+Stevns,1,Hårlevhallen,"B_Line_Krogh_Lay,_Store_Heddinge","Line Krogh Lay, Store Heddinge",Radikale Venstre,76
+Stevns,1,Hårlevhallen,"B_Sofus_Christensen,_Boestofte","Sofus Christensen, Boestofte",Radikale Venstre,20
+Stevns,1,Hårlevhallen,"B_Johannes_Frimodt-Møller,_St.H.","Johannes Frimodt-Møller, St.H.",Radikale Venstre,24
+Stevns,1,Hårlevhallen,"B_Louise_Vinther_Alis,_Hellested","Louise Vinther Alis, Hellested",Radikale Venstre,20
+Stevns,1,Hårlevhallen,"B_Bjarne_Hendrichsen,_Lyderslev","Bjarne Hendrichsen, Lyderslev",Radikale Venstre,3
+Stevns,1,Hårlevhallen,"B_Birgit_Voigt,_Strøby_Egede","Birgit Voigt, Strøby Egede",Radikale Venstre,1
+Stevns,1,Hårlevhallen,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,70
+Stevns,1,Hårlevhallen,"C_Mikkel_Lundemann_Rasmussen,_St._H.","Mikkel Lundemann Rasmussen, St. H.",Det Konservative Folkeparti,128
+Stevns,1,Hårlevhallen,"C_Thor_Grønbæk,_Holtug","Thor Grønbæk, Holtug",Det Konservative Folkeparti,11
+Stevns,1,Hårlevhallen,"C_Dorthe_Winberg,_Strøby_Egede","Dorthe Winberg, Strøby Egede",Det Konservative Folkeparti,20
+Stevns,1,Hårlevhallen,"C_Ellen_Knudsen,_Store_Heddinge","Ellen Knudsen, Store Heddinge",Det Konservative Folkeparti,7
+Stevns,1,Hårlevhallen,"C_Emil_Larsen,_Hårlev","Emil Larsen, Hårlev",Det Konservative Folkeparti,106
+Stevns,1,Hårlevhallen,"C_Bo_Kjeldsmark,_Strøby_Egede","Bo Kjeldsmark, Strøby Egede",Det Konservative Folkeparti,7
+Stevns,1,Hårlevhallen,"C_Michael_Ring_Møller_Jensen,_Str.E.","Michael Ring Møller Jensen, Str.E.",Det Konservative Folkeparti,8
+Stevns,1,Hårlevhallen,D_Listestemmer,Listestemmer,Nye Borgerlige,72
+Stevns,1,Hårlevhallen,D_Bolette_Sølyst,Bolette Sølyst,Nye Borgerlige,45
+Stevns,1,Hårlevhallen,D_Lasse_Wøhlk,Lasse Wøhlk,Nye Borgerlige,4
+Stevns,1,Hårlevhallen,D_Niels_Holvard,Niels Holvard,Nye Borgerlige,1
+Stevns,1,Hårlevhallen,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,76
+Stevns,1,Hårlevhallen,"F_Michael_Graakjær,_Strøby_Egede","Michael Graakjær, Strøby Egede",SF - Socialistisk Folkeparti,25
+Stevns,1,Hårlevhallen,"F_Jan_Jespersen,_Hellested","Jan Jespersen, Hellested",SF - Socialistisk Folkeparti,27
+Stevns,1,Hårlevhallen,"F_Julie_Hoff_Sørensen,_Valløby","Julie Hoff Sørensen, Valløby",SF - Socialistisk Folkeparti,41
+Stevns,1,Hårlevhallen,"F_Robert_Hellebek,_Strøby","Robert Hellebek, Strøby",SF - Socialistisk Folkeparti,0
+Stevns,1,Hårlevhallen,"F_Birgit_Smedegård,_Hellested","Birgit Smedegård, Hellested",SF - Socialistisk Folkeparti,11
+Stevns,1,Hårlevhallen,"F_Hans_Chr._Rasmussen,_Gevnø_Mark","Hans Chr. Rasmussen, Gevnø Mark",SF - Socialistisk Folkeparti,1
+Stevns,1,Hårlevhallen,I_Listestemmer,Listestemmer,Liberal Alliance,12
+Stevns,1,Hårlevhallen,I_Lars_Barthold_Hansen,Lars Barthold Hansen,Liberal Alliance,6
+Stevns,1,Hårlevhallen,I_Tim_Warner,Tim Warner,Liberal Alliance,3
+Stevns,1,Hårlevhallen,I_Sarah_Sjølin_Lilaa,Sarah Sjølin Lilaa,Liberal Alliance,1
+Stevns,1,Hårlevhallen,N_Listestemmer,Listestemmer,Nyt Stevns,33
+Stevns,1,Hårlevhallen,"N_Mogens_Haugaard,_Lund","Mogens Haugaard, Lund",Nyt Stevns,67
+Stevns,1,Hårlevhallen,"N_Kristian_Olsen,_Rødvig","Kristian Olsen, Rødvig",Nyt Stevns,0
+Stevns,1,Hårlevhallen,"N_Poul_Erik_Brixtofte,Store_Heddinge","Poul Erik Brixtofte,Store Heddinge",Nyt Stevns,7
+Stevns,1,Hårlevhallen,"N_Jørgen_Larsen,_Hårlev","Jørgen Larsen, Hårlev",Nyt Stevns,191
+Stevns,1,Hårlevhallen,"N_Kolbrún_Inga_Bjarnadóttir,_Hårlev","Kolbrún Inga Bjarnadóttir, Hårlev",Nyt Stevns,23
+Stevns,1,Hårlevhallen,"N_Rikke_Ackermann,_Store_Heddinge","Rikke Ackermann, Store Heddinge",Nyt Stevns,6
+Stevns,1,Hårlevhallen,"N_Jesper_Kristensen,Rødvig","Jesper Kristensen,Rødvig",Nyt Stevns,2
+Stevns,1,Hårlevhallen,"N_Brian_Qvist,_St._Heddinge","Brian Qvist, St. Heddinge",Nyt Stevns,5
+Stevns,1,Hårlevhallen,"N_René_Langelund_Larsen,_St.Heddinge","René Langelund Larsen, St.Heddinge",Nyt Stevns,0
+Stevns,1,Hårlevhallen,"N_Ole_Gjermandsen,Store_Heddinge","Ole Gjermandsen,Store Heddinge",Nyt Stevns,0
+Stevns,1,Hårlevhallen,"N_Birger_Merwald,_Rødvig","Birger Merwald, Rødvig",Nyt Stevns,0
+Stevns,1,Hårlevhallen,O_Listestemmer,Listestemmer,Dansk Folkeparti,54
+Stevns,1,Hårlevhallen,O_Martin_Henriksen,Martin Henriksen,Dansk Folkeparti,129
+Stevns,1,Hårlevhallen,"O_Helene_Brix,Lille_Heddinge","Helene Brix,Lille Heddinge",Dansk Folkeparti,8
+Stevns,1,Hårlevhallen,O_Rehné_Høst_Altenburg,Rehné Høst Altenburg,Dansk Folkeparti,5
+Stevns,1,Hårlevhallen,"O_Ulla_Rasmussen,_Store_Heddinge","Ulla Rasmussen, Store Heddinge",Dansk Folkeparti,3
+Stevns,1,Hårlevhallen,"O_Jytte_Jensen,_Store_Heddinge","Jytte Jensen, Store Heddinge",Dansk Folkeparti,1
+Stevns,1,Hårlevhallen,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",148
+Stevns,1,Hårlevhallen,"V_Anette_Mortensen,_Strøby_Egede","Anette Mortensen, Strøby Egede","Venstre, Danmarks Liberale Parti",396
+Stevns,1,Hårlevhallen,"V_Flemming_Petersen,_Hårlev","Flemming Petersen, Hårlev","Venstre, Danmarks Liberale Parti",123
+Stevns,1,Hårlevhallen,"V_Rasmus_Englund,_Store_Heddinge","Rasmus Englund, Store Heddinge","Venstre, Danmarks Liberale Parti",9
+Stevns,1,Hårlevhallen,"V_Bjarne_Nielsen,_Varpelev","Bjarne Nielsen, Varpelev","Venstre, Danmarks Liberale Parti",42
+Stevns,1,Hårlevhallen,"V_Karsten_Skov,_Strøby_Egede","Karsten Skov, Strøby Egede","Venstre, Danmarks Liberale Parti",8
+Stevns,1,Hårlevhallen,"V_Hans_Peter_Michaelsen,St._Heddinge","Hans Peter Michaelsen,St. Heddinge","Venstre, Danmarks Liberale Parti",3
+Stevns,1,Hårlevhallen,"V_Tina_Høve,_Hårlev","Tina Høve, Hårlev","Venstre, Danmarks Liberale Parti",25
+Stevns,1,Hårlevhallen,"V_Carl_Skou,_Rødvig","Carl Skou, Rødvig","Venstre, Danmarks Liberale Parti",1
+Stevns,1,Hårlevhallen,"V_Katja_Pedersen,_Strøby","Katja Pedersen, Strøby","Venstre, Danmarks Liberale Parti",7
+Stevns,1,Hårlevhallen,"V_John_Dalsgaard_Jensen,_Magleby","John Dalsgaard Jensen, Magleby","Venstre, Danmarks Liberale Parti",4
+Stevns,1,Hårlevhallen,"V_Gert_Nielsen,_Store_Heddinge","Gert Nielsen, Store Heddinge","Venstre, Danmarks Liberale Parti",1
+Stevns,1,Hårlevhallen,"V_Ruben_Lykke_Pedersen,_St._Heddinge","Ruben Lykke Pedersen, St. Heddinge","Venstre, Danmarks Liberale Parti",0
+Stevns,1,Hårlevhallen,"V_Niels_V._Petersen,_Strøby_Egede","Niels V. Petersen, Strøby Egede","Venstre, Danmarks Liberale Parti",3
+Stevns,1,Hårlevhallen,"V_Axel_Mølgaard_Andersen,_St._H.","Axel Mølgaard Andersen, St. H.","Venstre, Danmarks Liberale Parti",9
+Stevns,1,Hårlevhallen,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,80
+Stevns,1,Hårlevhallen,"Ø_Sejer_Folke,_Hellested","Sejer Folke, Hellested",Enhedslisten - De Rød-Grønne,84
+Stevns,1,Hårlevhallen,Ø_Heidi_van_den_HeijkantChristiansen,Heidi van den HeijkantChristiansen,Enhedslisten - De Rød-Grønne,46
+Stevns,1,Hårlevhallen,"Ø_Otto_Mortensen,_Valløby","Otto Mortensen, Valløby",Enhedslisten - De Rød-Grønne,13
+Stevns,1,Hårlevhallen,"Ø_Willy_Karlslund,_Strøby_Egede","Willy Karlslund, Strøby Egede",Enhedslisten - De Rød-Grønne,0
+Stevns,1,Hårlevhallen,"Ø_Peter_Roswall_Christensen,Hellest.","Peter Roswall Christensen,Hellest.",Enhedslisten - De Rød-Grønne,3
+Stevns,1,Hårlevhallen,"Ø_Lars_Aage_Pedersen,_Enderslev","Lars Aage Pedersen, Enderslev",Enhedslisten - De Rød-Grønne,1
+Stevns,1,Hårlevhallen,"Ø_Jonna_Faurskov,Hellested","Jonna Faurskov,Hellested",Enhedslisten - De Rød-Grønne,1
+Stevns,1,Hårlevhallen,"Ø_Erling_Sørvin,_Hellested","Erling Sørvin, Hellested",Enhedslisten - De Rød-Grønne,5
+Stevns,1,Hårlevhallen,"Ø_Poul_Erik_Madsen,_St._Tårnby","Poul Erik Madsen, St. Tårnby",Enhedslisten - De Rød-Grønne,3
+Stevns,1,Hårlevhallen,"Ø_Claus_Jeppesen,_Valløby","Claus Jeppesen, Valløby",Enhedslisten - De Rød-Grønne,0
+Stevns,2,Strøbyhallen,A_Listestemmer,Listestemmer,Socialdemokratiet,236
+Stevns,2,Strøbyhallen,"A_Henning_Urban_Dam,_Store_Heddinge","Henning Urban Dam, Store Heddinge",Socialdemokratiet,216
+Stevns,2,Strøbyhallen,"A_Anne_Munch,_Rødvig","Anne Munch, Rødvig",Socialdemokratiet,21
+Stevns,2,Strøbyhallen,"A_Helen_Sørensen,_Strøby_Egede","Helen Sørensen, Strøby Egede",Socialdemokratiet,118
+Stevns,2,Strøbyhallen,"A_Steen_S._Hansen,_Hårlev","Steen S. Hansen, Hårlev",Socialdemokratiet,24
+Stevns,2,Strøbyhallen,"A_Thomas_Overgaard,_Store_Heddinge","Thomas Overgaard, Store Heddinge",Socialdemokratiet,8
+Stevns,2,Strøbyhallen,"A_Tim_Christensen,_Strøby_Egede","Tim Christensen, Strøby Egede",Socialdemokratiet,206
+Stevns,2,Strøbyhallen,"A_Morten_Kasper,_Valløby","Morten Kasper, Valløby",Socialdemokratiet,83
+Stevns,2,Strøbyhallen,"A_Ib_Petersen,_Hårlev","Ib Petersen, Hårlev",Socialdemokratiet,4
+Stevns,2,Strøbyhallen,"A_Charlotte_Hansen,_Store_Heddinge","Charlotte Hansen, Store Heddinge",Socialdemokratiet,8
+Stevns,2,Strøbyhallen,"A_Mogens_Hansen,_Rødvig","Mogens Hansen, Rødvig",Socialdemokratiet,8
+Stevns,2,Strøbyhallen,B_Listestemmer,Listestemmer,Radikale Venstre,42
+Stevns,2,Strøbyhallen,"B_Line_Krogh_Lay,_Store_Heddinge","Line Krogh Lay, Store Heddinge",Radikale Venstre,92
+Stevns,2,Strøbyhallen,"B_Sofus_Christensen,_Boestofte","Sofus Christensen, Boestofte",Radikale Venstre,23
+Stevns,2,Strøbyhallen,"B_Johannes_Frimodt-Møller,_St.H.","Johannes Frimodt-Møller, St.H.",Radikale Venstre,39
+Stevns,2,Strøbyhallen,"B_Louise_Vinther_Alis,_Hellested","Louise Vinther Alis, Hellested",Radikale Venstre,5
+Stevns,2,Strøbyhallen,"B_Bjarne_Hendrichsen,_Lyderslev","Bjarne Hendrichsen, Lyderslev",Radikale Venstre,8
+Stevns,2,Strøbyhallen,"B_Birgit_Voigt,_Strøby_Egede","Birgit Voigt, Strøby Egede",Radikale Venstre,7
+Stevns,2,Strøbyhallen,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,142
+Stevns,2,Strøbyhallen,"C_Mikkel_Lundemann_Rasmussen,_St._H.","Mikkel Lundemann Rasmussen, St. H.",Det Konservative Folkeparti,179
+Stevns,2,Strøbyhallen,"C_Thor_Grønbæk,_Holtug","Thor Grønbæk, Holtug",Det Konservative Folkeparti,16
+Stevns,2,Strøbyhallen,"C_Dorthe_Winberg,_Strøby_Egede","Dorthe Winberg, Strøby Egede",Det Konservative Folkeparti,181
+Stevns,2,Strøbyhallen,"C_Ellen_Knudsen,_Store_Heddinge","Ellen Knudsen, Store Heddinge",Det Konservative Folkeparti,11
+Stevns,2,Strøbyhallen,"C_Emil_Larsen,_Hårlev","Emil Larsen, Hårlev",Det Konservative Folkeparti,13
+Stevns,2,Strøbyhallen,"C_Bo_Kjeldsmark,_Strøby_Egede","Bo Kjeldsmark, Strøby Egede",Det Konservative Folkeparti,24
+Stevns,2,Strøbyhallen,"C_Michael_Ring_Møller_Jensen,_Str.E.","Michael Ring Møller Jensen, Str.E.",Det Konservative Folkeparti,50
+Stevns,2,Strøbyhallen,D_Listestemmer,Listestemmer,Nye Borgerlige,68
+Stevns,2,Strøbyhallen,D_Bolette_Sølyst,Bolette Sølyst,Nye Borgerlige,72
+Stevns,2,Strøbyhallen,D_Lasse_Wøhlk,Lasse Wøhlk,Nye Borgerlige,12
+Stevns,2,Strøbyhallen,D_Niels_Holvard,Niels Holvard,Nye Borgerlige,6
+Stevns,2,Strøbyhallen,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,75
+Stevns,2,Strøbyhallen,"F_Michael_Graakjær,_Strøby_Egede","Michael Graakjær, Strøby Egede",SF - Socialistisk Folkeparti,66
+Stevns,2,Strøbyhallen,"F_Jan_Jespersen,_Hellested","Jan Jespersen, Hellested",SF - Socialistisk Folkeparti,14
+Stevns,2,Strøbyhallen,"F_Julie_Hoff_Sørensen,_Valløby","Julie Hoff Sørensen, Valløby",SF - Socialistisk Folkeparti,80
+Stevns,2,Strøbyhallen,"F_Robert_Hellebek,_Strøby","Robert Hellebek, Strøby",SF - Socialistisk Folkeparti,5
+Stevns,2,Strøbyhallen,"F_Birgit_Smedegård,_Hellested","Birgit Smedegård, Hellested",SF - Socialistisk Folkeparti,8
+Stevns,2,Strøbyhallen,"F_Hans_Chr._Rasmussen,_Gevnø_Mark","Hans Chr. Rasmussen, Gevnø Mark",SF - Socialistisk Folkeparti,1
+Stevns,2,Strøbyhallen,I_Listestemmer,Listestemmer,Liberal Alliance,14
+Stevns,2,Strøbyhallen,I_Lars_Barthold_Hansen,Lars Barthold Hansen,Liberal Alliance,15
+Stevns,2,Strøbyhallen,I_Tim_Warner,Tim Warner,Liberal Alliance,3
+Stevns,2,Strøbyhallen,I_Sarah_Sjølin_Lilaa,Sarah Sjølin Lilaa,Liberal Alliance,4
+Stevns,2,Strøbyhallen,N_Listestemmer,Listestemmer,Nyt Stevns,34
+Stevns,2,Strøbyhallen,"N_Mogens_Haugaard,_Lund","Mogens Haugaard, Lund",Nyt Stevns,120
+Stevns,2,Strøbyhallen,"N_Kristian_Olsen,_Rødvig","Kristian Olsen, Rødvig",Nyt Stevns,1
+Stevns,2,Strøbyhallen,"N_Poul_Erik_Brixtofte,Store_Heddinge","Poul Erik Brixtofte,Store Heddinge",Nyt Stevns,4
+Stevns,2,Strøbyhallen,"N_Jørgen_Larsen,_Hårlev","Jørgen Larsen, Hårlev",Nyt Stevns,31
+Stevns,2,Strøbyhallen,"N_Kolbrún_Inga_Bjarnadóttir,_Hårlev","Kolbrún Inga Bjarnadóttir, Hårlev",Nyt Stevns,9
+Stevns,2,Strøbyhallen,"N_Rikke_Ackermann,_Store_Heddinge","Rikke Ackermann, Store Heddinge",Nyt Stevns,2
+Stevns,2,Strøbyhallen,"N_Jesper_Kristensen,Rødvig","Jesper Kristensen,Rødvig",Nyt Stevns,1
+Stevns,2,Strøbyhallen,"N_Brian_Qvist,_St._Heddinge","Brian Qvist, St. Heddinge",Nyt Stevns,7
+Stevns,2,Strøbyhallen,"N_René_Langelund_Larsen,_St.Heddinge","René Langelund Larsen, St.Heddinge",Nyt Stevns,1
+Stevns,2,Strøbyhallen,"N_Ole_Gjermandsen,Store_Heddinge","Ole Gjermandsen,Store Heddinge",Nyt Stevns,3
+Stevns,2,Strøbyhallen,"N_Birger_Merwald,_Rødvig","Birger Merwald, Rødvig",Nyt Stevns,0
+Stevns,2,Strøbyhallen,O_Listestemmer,Listestemmer,Dansk Folkeparti,53
+Stevns,2,Strøbyhallen,O_Martin_Henriksen,Martin Henriksen,Dansk Folkeparti,161
+Stevns,2,Strøbyhallen,"O_Helene_Brix,Lille_Heddinge","Helene Brix,Lille Heddinge",Dansk Folkeparti,10
+Stevns,2,Strøbyhallen,O_Rehné_Høst_Altenburg,Rehné Høst Altenburg,Dansk Folkeparti,7
+Stevns,2,Strøbyhallen,"O_Ulla_Rasmussen,_Store_Heddinge","Ulla Rasmussen, Store Heddinge",Dansk Folkeparti,5
+Stevns,2,Strøbyhallen,"O_Jytte_Jensen,_Store_Heddinge","Jytte Jensen, Store Heddinge",Dansk Folkeparti,2
+Stevns,2,Strøbyhallen,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",196
+Stevns,2,Strøbyhallen,"V_Anette_Mortensen,_Strøby_Egede","Anette Mortensen, Strøby Egede","Venstre, Danmarks Liberale Parti",747
+Stevns,2,Strøbyhallen,"V_Flemming_Petersen,_Hårlev","Flemming Petersen, Hårlev","Venstre, Danmarks Liberale Parti",20
+Stevns,2,Strøbyhallen,"V_Rasmus_Englund,_Store_Heddinge","Rasmus Englund, Store Heddinge","Venstre, Danmarks Liberale Parti",13
+Stevns,2,Strøbyhallen,"V_Bjarne_Nielsen,_Varpelev","Bjarne Nielsen, Varpelev","Venstre, Danmarks Liberale Parti",38
+Stevns,2,Strøbyhallen,"V_Karsten_Skov,_Strøby_Egede","Karsten Skov, Strøby Egede","Venstre, Danmarks Liberale Parti",72
+Stevns,2,Strøbyhallen,"V_Hans_Peter_Michaelsen,St._Heddinge","Hans Peter Michaelsen,St. Heddinge","Venstre, Danmarks Liberale Parti",4
+Stevns,2,Strøbyhallen,"V_Tina_Høve,_Hårlev","Tina Høve, Hårlev","Venstre, Danmarks Liberale Parti",5
+Stevns,2,Strøbyhallen,"V_Carl_Skou,_Rødvig","Carl Skou, Rødvig","Venstre, Danmarks Liberale Parti",3
+Stevns,2,Strøbyhallen,"V_Katja_Pedersen,_Strøby","Katja Pedersen, Strøby","Venstre, Danmarks Liberale Parti",24
+Stevns,2,Strøbyhallen,"V_John_Dalsgaard_Jensen,_Magleby","John Dalsgaard Jensen, Magleby","Venstre, Danmarks Liberale Parti",20
+Stevns,2,Strøbyhallen,"V_Gert_Nielsen,_Store_Heddinge","Gert Nielsen, Store Heddinge","Venstre, Danmarks Liberale Parti",0
+Stevns,2,Strøbyhallen,"V_Ruben_Lykke_Pedersen,_St._Heddinge","Ruben Lykke Pedersen, St. Heddinge","Venstre, Danmarks Liberale Parti",4
+Stevns,2,Strøbyhallen,"V_Niels_V._Petersen,_Strøby_Egede","Niels V. Petersen, Strøby Egede","Venstre, Danmarks Liberale Parti",24
+Stevns,2,Strøbyhallen,"V_Axel_Mølgaard_Andersen,_St._H.","Axel Mølgaard Andersen, St. H.","Venstre, Danmarks Liberale Parti",3
+Stevns,2,Strøbyhallen,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,84
+Stevns,2,Strøbyhallen,"Ø_Sejer_Folke,_Hellested","Sejer Folke, Hellested",Enhedslisten - De Rød-Grønne,57
+Stevns,2,Strøbyhallen,Ø_Heidi_van_den_HeijkantChristiansen,Heidi van den HeijkantChristiansen,Enhedslisten - De Rød-Grønne,42
+Stevns,2,Strøbyhallen,"Ø_Otto_Mortensen,_Valløby","Otto Mortensen, Valløby",Enhedslisten - De Rød-Grønne,35
+Stevns,2,Strøbyhallen,"Ø_Willy_Karlslund,_Strøby_Egede","Willy Karlslund, Strøby Egede",Enhedslisten - De Rød-Grønne,8
+Stevns,2,Strøbyhallen,"Ø_Peter_Roswall_Christensen,Hellest.","Peter Roswall Christensen,Hellest.",Enhedslisten - De Rød-Grønne,1
+Stevns,2,Strøbyhallen,"Ø_Lars_Aage_Pedersen,_Enderslev","Lars Aage Pedersen, Enderslev",Enhedslisten - De Rød-Grønne,0
+Stevns,2,Strøbyhallen,"Ø_Jonna_Faurskov,Hellested","Jonna Faurskov,Hellested",Enhedslisten - De Rød-Grønne,4
+Stevns,2,Strøbyhallen,"Ø_Erling_Sørvin,_Hellested","Erling Sørvin, Hellested",Enhedslisten - De Rød-Grønne,3
+Stevns,2,Strøbyhallen,"Ø_Poul_Erik_Madsen,_St._Tårnby","Poul Erik Madsen, St. Tårnby",Enhedslisten - De Rød-Grønne,0
+Stevns,2,Strøbyhallen,"Ø_Claus_Jeppesen,_Valløby","Claus Jeppesen, Valløby",Enhedslisten - De Rød-Grønne,4
+Stevns,3,Stevnshallen,A_Listestemmer,Listestemmer,Socialdemokratiet,266
+Stevns,3,Stevnshallen,"A_Henning_Urban_Dam,_Store_Heddinge","Henning Urban Dam, Store Heddinge",Socialdemokratiet,305
+Stevns,3,Stevnshallen,"A_Anne_Munch,_Rødvig","Anne Munch, Rødvig",Socialdemokratiet,60
+Stevns,3,Stevnshallen,"A_Helen_Sørensen,_Strøby_Egede","Helen Sørensen, Strøby Egede",Socialdemokratiet,17
+Stevns,3,Stevnshallen,"A_Steen_S._Hansen,_Hårlev","Steen S. Hansen, Hårlev",Socialdemokratiet,14
+Stevns,3,Stevnshallen,"A_Thomas_Overgaard,_Store_Heddinge","Thomas Overgaard, Store Heddinge",Socialdemokratiet,110
+Stevns,3,Stevnshallen,"A_Tim_Christensen,_Strøby_Egede","Tim Christensen, Strøby Egede",Socialdemokratiet,29
+Stevns,3,Stevnshallen,"A_Morten_Kasper,_Valløby","Morten Kasper, Valløby",Socialdemokratiet,39
+Stevns,3,Stevnshallen,"A_Ib_Petersen,_Hårlev","Ib Petersen, Hårlev",Socialdemokratiet,1
+Stevns,3,Stevnshallen,"A_Charlotte_Hansen,_Store_Heddinge","Charlotte Hansen, Store Heddinge",Socialdemokratiet,30
+Stevns,3,Stevnshallen,"A_Mogens_Hansen,_Rødvig","Mogens Hansen, Rødvig",Socialdemokratiet,23
+Stevns,3,Stevnshallen,B_Listestemmer,Listestemmer,Radikale Venstre,25
+Stevns,3,Stevnshallen,"B_Line_Krogh_Lay,_Store_Heddinge","Line Krogh Lay, Store Heddinge",Radikale Venstre,89
+Stevns,3,Stevnshallen,"B_Sofus_Christensen,_Boestofte","Sofus Christensen, Boestofte",Radikale Venstre,19
+Stevns,3,Stevnshallen,"B_Johannes_Frimodt-Møller,_St.H.","Johannes Frimodt-Møller, St.H.",Radikale Venstre,39
+Stevns,3,Stevnshallen,"B_Louise_Vinther_Alis,_Hellested","Louise Vinther Alis, Hellested",Radikale Venstre,6
+Stevns,3,Stevnshallen,"B_Bjarne_Hendrichsen,_Lyderslev","Bjarne Hendrichsen, Lyderslev",Radikale Venstre,5
+Stevns,3,Stevnshallen,"B_Birgit_Voigt,_Strøby_Egede","Birgit Voigt, Strøby Egede",Radikale Venstre,0
+Stevns,3,Stevnshallen,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,60
+Stevns,3,Stevnshallen,"C_Mikkel_Lundemann_Rasmussen,_St._H.","Mikkel Lundemann Rasmussen, St. H.",Det Konservative Folkeparti,316
+Stevns,3,Stevnshallen,"C_Thor_Grønbæk,_Holtug","Thor Grønbæk, Holtug",Det Konservative Folkeparti,30
+Stevns,3,Stevnshallen,"C_Dorthe_Winberg,_Strøby_Egede","Dorthe Winberg, Strøby Egede",Det Konservative Folkeparti,15
+Stevns,3,Stevnshallen,"C_Ellen_Knudsen,_Store_Heddinge","Ellen Knudsen, Store Heddinge",Det Konservative Folkeparti,32
+Stevns,3,Stevnshallen,"C_Emil_Larsen,_Hårlev","Emil Larsen, Hårlev",Det Konservative Folkeparti,9
+Stevns,3,Stevnshallen,"C_Bo_Kjeldsmark,_Strøby_Egede","Bo Kjeldsmark, Strøby Egede",Det Konservative Folkeparti,7
+Stevns,3,Stevnshallen,"C_Michael_Ring_Møller_Jensen,_Str.E.","Michael Ring Møller Jensen, Str.E.",Det Konservative Folkeparti,4
+Stevns,3,Stevnshallen,D_Listestemmer,Listestemmer,Nye Borgerlige,61
+Stevns,3,Stevnshallen,D_Bolette_Sølyst,Bolette Sølyst,Nye Borgerlige,44
+Stevns,3,Stevnshallen,D_Lasse_Wøhlk,Lasse Wøhlk,Nye Borgerlige,2
+Stevns,3,Stevnshallen,D_Niels_Holvard,Niels Holvard,Nye Borgerlige,7
+Stevns,3,Stevnshallen,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,57
+Stevns,3,Stevnshallen,"F_Michael_Graakjær,_Strøby_Egede","Michael Graakjær, Strøby Egede",SF - Socialistisk Folkeparti,28
+Stevns,3,Stevnshallen,"F_Jan_Jespersen,_Hellested","Jan Jespersen, Hellested",SF - Socialistisk Folkeparti,25
+Stevns,3,Stevnshallen,"F_Julie_Hoff_Sørensen,_Valløby","Julie Hoff Sørensen, Valløby",SF - Socialistisk Folkeparti,26
+Stevns,3,Stevnshallen,"F_Robert_Hellebek,_Strøby","Robert Hellebek, Strøby",SF - Socialistisk Folkeparti,1
+Stevns,3,Stevnshallen,"F_Birgit_Smedegård,_Hellested","Birgit Smedegård, Hellested",SF - Socialistisk Folkeparti,5
+Stevns,3,Stevnshallen,"F_Hans_Chr._Rasmussen,_Gevnø_Mark","Hans Chr. Rasmussen, Gevnø Mark",SF - Socialistisk Folkeparti,3
+Stevns,3,Stevnshallen,I_Listestemmer,Listestemmer,Liberal Alliance,7
+Stevns,3,Stevnshallen,I_Lars_Barthold_Hansen,Lars Barthold Hansen,Liberal Alliance,13
+Stevns,3,Stevnshallen,I_Tim_Warner,Tim Warner,Liberal Alliance,6
+Stevns,3,Stevnshallen,I_Sarah_Sjølin_Lilaa,Sarah Sjølin Lilaa,Liberal Alliance,2
+Stevns,3,Stevnshallen,N_Listestemmer,Listestemmer,Nyt Stevns,47
+Stevns,3,Stevnshallen,"N_Mogens_Haugaard,_Lund","Mogens Haugaard, Lund",Nyt Stevns,143
+Stevns,3,Stevnshallen,"N_Kristian_Olsen,_Rødvig","Kristian Olsen, Rødvig",Nyt Stevns,11
+Stevns,3,Stevnshallen,"N_Poul_Erik_Brixtofte,Store_Heddinge","Poul Erik Brixtofte,Store Heddinge",Nyt Stevns,33
+Stevns,3,Stevnshallen,"N_Jørgen_Larsen,_Hårlev","Jørgen Larsen, Hårlev",Nyt Stevns,24
+Stevns,3,Stevnshallen,"N_Kolbrún_Inga_Bjarnadóttir,_Hårlev","Kolbrún Inga Bjarnadóttir, Hårlev",Nyt Stevns,13
+Stevns,3,Stevnshallen,"N_Rikke_Ackermann,_Store_Heddinge","Rikke Ackermann, Store Heddinge",Nyt Stevns,31
+Stevns,3,Stevnshallen,"N_Jesper_Kristensen,Rødvig","Jesper Kristensen,Rødvig",Nyt Stevns,1
+Stevns,3,Stevnshallen,"N_Brian_Qvist,_St._Heddinge","Brian Qvist, St. Heddinge",Nyt Stevns,10
+Stevns,3,Stevnshallen,"N_René_Langelund_Larsen,_St.Heddinge","René Langelund Larsen, St.Heddinge",Nyt Stevns,3
+Stevns,3,Stevnshallen,"N_Ole_Gjermandsen,Store_Heddinge","Ole Gjermandsen,Store Heddinge",Nyt Stevns,6
+Stevns,3,Stevnshallen,"N_Birger_Merwald,_Rødvig","Birger Merwald, Rødvig",Nyt Stevns,1
+Stevns,3,Stevnshallen,O_Listestemmer,Listestemmer,Dansk Folkeparti,54
+Stevns,3,Stevnshallen,O_Martin_Henriksen,Martin Henriksen,Dansk Folkeparti,164
+Stevns,3,Stevnshallen,"O_Helene_Brix,Lille_Heddinge","Helene Brix,Lille Heddinge",Dansk Folkeparti,22
+Stevns,3,Stevnshallen,O_Rehné_Høst_Altenburg,Rehné Høst Altenburg,Dansk Folkeparti,2
+Stevns,3,Stevnshallen,"O_Ulla_Rasmussen,_Store_Heddinge","Ulla Rasmussen, Store Heddinge",Dansk Folkeparti,8
+Stevns,3,Stevnshallen,"O_Jytte_Jensen,_Store_Heddinge","Jytte Jensen, Store Heddinge",Dansk Folkeparti,6
+Stevns,3,Stevnshallen,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",120
+Stevns,3,Stevnshallen,"V_Anette_Mortensen,_Strøby_Egede","Anette Mortensen, Strøby Egede","Venstre, Danmarks Liberale Parti",413
+Stevns,3,Stevnshallen,"V_Flemming_Petersen,_Hårlev","Flemming Petersen, Hårlev","Venstre, Danmarks Liberale Parti",21
+Stevns,3,Stevnshallen,"V_Rasmus_Englund,_Store_Heddinge","Rasmus Englund, Store Heddinge","Venstre, Danmarks Liberale Parti",21
+Stevns,3,Stevnshallen,"V_Bjarne_Nielsen,_Varpelev","Bjarne Nielsen, Varpelev","Venstre, Danmarks Liberale Parti",27
+Stevns,3,Stevnshallen,"V_Karsten_Skov,_Strøby_Egede","Karsten Skov, Strøby Egede","Venstre, Danmarks Liberale Parti",6
+Stevns,3,Stevnshallen,"V_Hans_Peter_Michaelsen,St._Heddinge","Hans Peter Michaelsen,St. Heddinge","Venstre, Danmarks Liberale Parti",7
+Stevns,3,Stevnshallen,"V_Tina_Høve,_Hårlev","Tina Høve, Hårlev","Venstre, Danmarks Liberale Parti",3
+Stevns,3,Stevnshallen,"V_Carl_Skou,_Rødvig","Carl Skou, Rødvig","Venstre, Danmarks Liberale Parti",6
+Stevns,3,Stevnshallen,"V_Katja_Pedersen,_Strøby","Katja Pedersen, Strøby","Venstre, Danmarks Liberale Parti",11
+Stevns,3,Stevnshallen,"V_John_Dalsgaard_Jensen,_Magleby","John Dalsgaard Jensen, Magleby","Venstre, Danmarks Liberale Parti",21
+Stevns,3,Stevnshallen,"V_Gert_Nielsen,_Store_Heddinge","Gert Nielsen, Store Heddinge","Venstre, Danmarks Liberale Parti",4
+Stevns,3,Stevnshallen,"V_Ruben_Lykke_Pedersen,_St._Heddinge","Ruben Lykke Pedersen, St. Heddinge","Venstre, Danmarks Liberale Parti",8
+Stevns,3,Stevnshallen,"V_Niels_V._Petersen,_Strøby_Egede","Niels V. Petersen, Strøby Egede","Venstre, Danmarks Liberale Parti",1
+Stevns,3,Stevnshallen,"V_Axel_Mølgaard_Andersen,_St._H.","Axel Mølgaard Andersen, St. H.","Venstre, Danmarks Liberale Parti",9
+Stevns,3,Stevnshallen,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,85
+Stevns,3,Stevnshallen,"Ø_Sejer_Folke,_Hellested","Sejer Folke, Hellested",Enhedslisten - De Rød-Grønne,59
+Stevns,3,Stevnshallen,Ø_Heidi_van_den_HeijkantChristiansen,Heidi van den HeijkantChristiansen,Enhedslisten - De Rød-Grønne,36
+Stevns,3,Stevnshallen,"Ø_Otto_Mortensen,_Valløby","Otto Mortensen, Valløby",Enhedslisten - De Rød-Grønne,14
+Stevns,3,Stevnshallen,"Ø_Willy_Karlslund,_Strøby_Egede","Willy Karlslund, Strøby Egede",Enhedslisten - De Rød-Grønne,3
+Stevns,3,Stevnshallen,"Ø_Peter_Roswall_Christensen,Hellest.","Peter Roswall Christensen,Hellest.",Enhedslisten - De Rød-Grønne,2
+Stevns,3,Stevnshallen,"Ø_Lars_Aage_Pedersen,_Enderslev","Lars Aage Pedersen, Enderslev",Enhedslisten - De Rød-Grønne,1
+Stevns,3,Stevnshallen,"Ø_Jonna_Faurskov,Hellested","Jonna Faurskov,Hellested",Enhedslisten - De Rød-Grønne,4
+Stevns,3,Stevnshallen,"Ø_Erling_Sørvin,_Hellested","Erling Sørvin, Hellested",Enhedslisten - De Rød-Grønne,3
+Stevns,3,Stevnshallen,"Ø_Poul_Erik_Madsen,_St._Tårnby","Poul Erik Madsen, St. Tårnby",Enhedslisten - De Rød-Grønne,0
+Stevns,3,Stevnshallen,"Ø_Claus_Jeppesen,_Valløby","Claus Jeppesen, Valløby",Enhedslisten - De Rød-Grønne,1
+Stevns,4,Sydstevnshallen,A_Listestemmer,Listestemmer,Socialdemokratiet,150
+Stevns,4,Sydstevnshallen,"A_Henning_Urban_Dam,_Store_Heddinge","Henning Urban Dam, Store Heddinge",Socialdemokratiet,164
+Stevns,4,Sydstevnshallen,"A_Anne_Munch,_Rødvig","Anne Munch, Rødvig",Socialdemokratiet,87
+Stevns,4,Sydstevnshallen,"A_Helen_Sørensen,_Strøby_Egede","Helen Sørensen, Strøby Egede",Socialdemokratiet,5
+Stevns,4,Sydstevnshallen,"A_Steen_S._Hansen,_Hårlev","Steen S. Hansen, Hårlev",Socialdemokratiet,20
+Stevns,4,Sydstevnshallen,"A_Thomas_Overgaard,_Store_Heddinge","Thomas Overgaard, Store Heddinge",Socialdemokratiet,25
+Stevns,4,Sydstevnshallen,"A_Tim_Christensen,_Strøby_Egede","Tim Christensen, Strøby Egede",Socialdemokratiet,17
+Stevns,4,Sydstevnshallen,"A_Morten_Kasper,_Valløby","Morten Kasper, Valløby",Socialdemokratiet,15
+Stevns,4,Sydstevnshallen,"A_Ib_Petersen,_Hårlev","Ib Petersen, Hårlev",Socialdemokratiet,2
+Stevns,4,Sydstevnshallen,"A_Charlotte_Hansen,_Store_Heddinge","Charlotte Hansen, Store Heddinge",Socialdemokratiet,6
+Stevns,4,Sydstevnshallen,"A_Mogens_Hansen,_Rødvig","Mogens Hansen, Rødvig",Socialdemokratiet,44
+Stevns,4,Sydstevnshallen,B_Listestemmer,Listestemmer,Radikale Venstre,16
+Stevns,4,Sydstevnshallen,"B_Line_Krogh_Lay,_Store_Heddinge","Line Krogh Lay, Store Heddinge",Radikale Venstre,90
+Stevns,4,Sydstevnshallen,"B_Sofus_Christensen,_Boestofte","Sofus Christensen, Boestofte",Radikale Venstre,22
+Stevns,4,Sydstevnshallen,"B_Johannes_Frimodt-Møller,_St.H.","Johannes Frimodt-Møller, St.H.",Radikale Venstre,16
+Stevns,4,Sydstevnshallen,"B_Louise_Vinther_Alis,_Hellested","Louise Vinther Alis, Hellested",Radikale Venstre,2
+Stevns,4,Sydstevnshallen,"B_Bjarne_Hendrichsen,_Lyderslev","Bjarne Hendrichsen, Lyderslev",Radikale Venstre,4
+Stevns,4,Sydstevnshallen,"B_Birgit_Voigt,_Strøby_Egede","Birgit Voigt, Strøby Egede",Radikale Venstre,0
+Stevns,4,Sydstevnshallen,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,50
+Stevns,4,Sydstevnshallen,"C_Mikkel_Lundemann_Rasmussen,_St._H.","Mikkel Lundemann Rasmussen, St. H.",Det Konservative Folkeparti,209
+Stevns,4,Sydstevnshallen,"C_Thor_Grønbæk,_Holtug","Thor Grønbæk, Holtug",Det Konservative Folkeparti,7
+Stevns,4,Sydstevnshallen,"C_Dorthe_Winberg,_Strøby_Egede","Dorthe Winberg, Strøby Egede",Det Konservative Folkeparti,4
+Stevns,4,Sydstevnshallen,"C_Ellen_Knudsen,_Store_Heddinge","Ellen Knudsen, Store Heddinge",Det Konservative Folkeparti,16
+Stevns,4,Sydstevnshallen,"C_Emil_Larsen,_Hårlev","Emil Larsen, Hårlev",Det Konservative Folkeparti,6
+Stevns,4,Sydstevnshallen,"C_Bo_Kjeldsmark,_Strøby_Egede","Bo Kjeldsmark, Strøby Egede",Det Konservative Folkeparti,1
+Stevns,4,Sydstevnshallen,"C_Michael_Ring_Møller_Jensen,_Str.E.","Michael Ring Møller Jensen, Str.E.",Det Konservative Folkeparti,2
+Stevns,4,Sydstevnshallen,D_Listestemmer,Listestemmer,Nye Borgerlige,27
+Stevns,4,Sydstevnshallen,D_Bolette_Sølyst,Bolette Sølyst,Nye Borgerlige,19
+Stevns,4,Sydstevnshallen,D_Lasse_Wøhlk,Lasse Wøhlk,Nye Borgerlige,4
+Stevns,4,Sydstevnshallen,D_Niels_Holvard,Niels Holvard,Nye Borgerlige,8
+Stevns,4,Sydstevnshallen,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,40
+Stevns,4,Sydstevnshallen,"F_Michael_Graakjær,_Strøby_Egede","Michael Graakjær, Strøby Egede",SF - Socialistisk Folkeparti,17
+Stevns,4,Sydstevnshallen,"F_Jan_Jespersen,_Hellested","Jan Jespersen, Hellested",SF - Socialistisk Folkeparti,24
+Stevns,4,Sydstevnshallen,"F_Julie_Hoff_Sørensen,_Valløby","Julie Hoff Sørensen, Valløby",SF - Socialistisk Folkeparti,20
+Stevns,4,Sydstevnshallen,"F_Robert_Hellebek,_Strøby","Robert Hellebek, Strøby",SF - Socialistisk Folkeparti,0
+Stevns,4,Sydstevnshallen,"F_Birgit_Smedegård,_Hellested","Birgit Smedegård, Hellested",SF - Socialistisk Folkeparti,1
+Stevns,4,Sydstevnshallen,"F_Hans_Chr._Rasmussen,_Gevnø_Mark","Hans Chr. Rasmussen, Gevnø Mark",SF - Socialistisk Folkeparti,5
+Stevns,4,Sydstevnshallen,I_Listestemmer,Listestemmer,Liberal Alliance,7
+Stevns,4,Sydstevnshallen,I_Lars_Barthold_Hansen,Lars Barthold Hansen,Liberal Alliance,7
+Stevns,4,Sydstevnshallen,I_Tim_Warner,Tim Warner,Liberal Alliance,7
+Stevns,4,Sydstevnshallen,I_Sarah_Sjølin_Lilaa,Sarah Sjølin Lilaa,Liberal Alliance,6
+Stevns,4,Sydstevnshallen,N_Listestemmer,Listestemmer,Nyt Stevns,33
+Stevns,4,Sydstevnshallen,"N_Mogens_Haugaard,_Lund","Mogens Haugaard, Lund",Nyt Stevns,188
+Stevns,4,Sydstevnshallen,"N_Kristian_Olsen,_Rødvig","Kristian Olsen, Rødvig",Nyt Stevns,33
+Stevns,4,Sydstevnshallen,"N_Poul_Erik_Brixtofte,Store_Heddinge","Poul Erik Brixtofte,Store Heddinge",Nyt Stevns,6
+Stevns,4,Sydstevnshallen,"N_Jørgen_Larsen,_Hårlev","Jørgen Larsen, Hårlev",Nyt Stevns,18
+Stevns,4,Sydstevnshallen,"N_Kolbrún_Inga_Bjarnadóttir,_Hårlev","Kolbrún Inga Bjarnadóttir, Hårlev",Nyt Stevns,8
+Stevns,4,Sydstevnshallen,"N_Rikke_Ackermann,_Store_Heddinge","Rikke Ackermann, Store Heddinge",Nyt Stevns,10
+Stevns,4,Sydstevnshallen,"N_Jesper_Kristensen,Rødvig","Jesper Kristensen,Rødvig",Nyt Stevns,7
+Stevns,4,Sydstevnshallen,"N_Brian_Qvist,_St._Heddinge","Brian Qvist, St. Heddinge",Nyt Stevns,1
+Stevns,4,Sydstevnshallen,"N_René_Langelund_Larsen,_St.Heddinge","René Langelund Larsen, St.Heddinge",Nyt Stevns,2
+Stevns,4,Sydstevnshallen,"N_Ole_Gjermandsen,Store_Heddinge","Ole Gjermandsen,Store Heddinge",Nyt Stevns,1
+Stevns,4,Sydstevnshallen,"N_Birger_Merwald,_Rødvig","Birger Merwald, Rødvig",Nyt Stevns,5
+Stevns,4,Sydstevnshallen,O_Listestemmer,Listestemmer,Dansk Folkeparti,22
+Stevns,4,Sydstevnshallen,O_Martin_Henriksen,Martin Henriksen,Dansk Folkeparti,150
+Stevns,4,Sydstevnshallen,"O_Helene_Brix,Lille_Heddinge","Helene Brix,Lille Heddinge",Dansk Folkeparti,10
+Stevns,4,Sydstevnshallen,O_Rehné_Høst_Altenburg,Rehné Høst Altenburg,Dansk Folkeparti,4
+Stevns,4,Sydstevnshallen,"O_Ulla_Rasmussen,_Store_Heddinge","Ulla Rasmussen, Store Heddinge",Dansk Folkeparti,4
+Stevns,4,Sydstevnshallen,"O_Jytte_Jensen,_Store_Heddinge","Jytte Jensen, Store Heddinge",Dansk Folkeparti,2
+Stevns,4,Sydstevnshallen,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",62
+Stevns,4,Sydstevnshallen,"V_Anette_Mortensen,_Strøby_Egede","Anette Mortensen, Strøby Egede","Venstre, Danmarks Liberale Parti",272
+Stevns,4,Sydstevnshallen,"V_Flemming_Petersen,_Hårlev","Flemming Petersen, Hårlev","Venstre, Danmarks Liberale Parti",10
+Stevns,4,Sydstevnshallen,"V_Rasmus_Englund,_Store_Heddinge","Rasmus Englund, Store Heddinge","Venstre, Danmarks Liberale Parti",10
+Stevns,4,Sydstevnshallen,"V_Bjarne_Nielsen,_Varpelev","Bjarne Nielsen, Varpelev","Venstre, Danmarks Liberale Parti",15
+Stevns,4,Sydstevnshallen,"V_Karsten_Skov,_Strøby_Egede","Karsten Skov, Strøby Egede","Venstre, Danmarks Liberale Parti",3
+Stevns,4,Sydstevnshallen,"V_Hans_Peter_Michaelsen,St._Heddinge","Hans Peter Michaelsen,St. Heddinge","Venstre, Danmarks Liberale Parti",11
+Stevns,4,Sydstevnshallen,"V_Tina_Høve,_Hårlev","Tina Høve, Hårlev","Venstre, Danmarks Liberale Parti",5
+Stevns,4,Sydstevnshallen,"V_Carl_Skou,_Rødvig","Carl Skou, Rødvig","Venstre, Danmarks Liberale Parti",24
+Stevns,4,Sydstevnshallen,"V_Katja_Pedersen,_Strøby","Katja Pedersen, Strøby","Venstre, Danmarks Liberale Parti",2
+Stevns,4,Sydstevnshallen,"V_John_Dalsgaard_Jensen,_Magleby","John Dalsgaard Jensen, Magleby","Venstre, Danmarks Liberale Parti",5
+Stevns,4,Sydstevnshallen,"V_Gert_Nielsen,_Store_Heddinge","Gert Nielsen, Store Heddinge","Venstre, Danmarks Liberale Parti",0
+Stevns,4,Sydstevnshallen,"V_Ruben_Lykke_Pedersen,_St._Heddinge","Ruben Lykke Pedersen, St. Heddinge","Venstre, Danmarks Liberale Parti",0
+Stevns,4,Sydstevnshallen,"V_Niels_V._Petersen,_Strøby_Egede","Niels V. Petersen, Strøby Egede","Venstre, Danmarks Liberale Parti",0
+Stevns,4,Sydstevnshallen,"V_Axel_Mølgaard_Andersen,_St._H.","Axel Mølgaard Andersen, St. H.","Venstre, Danmarks Liberale Parti",5
+Stevns,4,Sydstevnshallen,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,62
+Stevns,4,Sydstevnshallen,"Ø_Sejer_Folke,_Hellested","Sejer Folke, Hellested",Enhedslisten - De Rød-Grønne,59
+Stevns,4,Sydstevnshallen,Ø_Heidi_van_den_HeijkantChristiansen,Heidi van den HeijkantChristiansen,Enhedslisten - De Rød-Grønne,22
+Stevns,4,Sydstevnshallen,"Ø_Otto_Mortensen,_Valløby","Otto Mortensen, Valløby",Enhedslisten - De Rød-Grønne,9
+Stevns,4,Sydstevnshallen,"Ø_Willy_Karlslund,_Strøby_Egede","Willy Karlslund, Strøby Egede",Enhedslisten - De Rød-Grønne,0
+Stevns,4,Sydstevnshallen,"Ø_Peter_Roswall_Christensen,Hellest.","Peter Roswall Christensen,Hellest.",Enhedslisten - De Rød-Grønne,1
+Stevns,4,Sydstevnshallen,"Ø_Lars_Aage_Pedersen,_Enderslev","Lars Aage Pedersen, Enderslev",Enhedslisten - De Rød-Grønne,0
+Stevns,4,Sydstevnshallen,"Ø_Jonna_Faurskov,Hellested","Jonna Faurskov,Hellested",Enhedslisten - De Rød-Grønne,1
+Stevns,4,Sydstevnshallen,"Ø_Erling_Sørvin,_Hellested","Erling Sørvin, Hellested",Enhedslisten - De Rød-Grønne,3
+Stevns,4,Sydstevnshallen,"Ø_Poul_Erik_Madsen,_St._Tårnby","Poul Erik Madsen, St. Tårnby",Enhedslisten - De Rød-Grønne,0
+Stevns,4,Sydstevnshallen,"Ø_Claus_Jeppesen,_Valløby","Claus Jeppesen, Valløby",Enhedslisten - De Rød-Grønne,0

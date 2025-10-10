@@ -1,0 +1,713 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Syddjurs,1,Ebeltoft,A_Listestemmer,Listestemmer,Socialdemokratiet,339
+Syddjurs,1,Ebeltoft,"A_Michael_Stegger_Jensen,_Ryomgård","Michael Stegger Jensen, Ryomgård",Socialdemokratiet,276
+Syddjurs,1,Ebeltoft,"A_Christian_Haubuf,_Ebeltoft","Christian Haubuf, Ebeltoft",Socialdemokratiet,105
+Syddjurs,1,Ebeltoft,"A_Michael_Aakjær,_Hornslet","Michael Aakjær, Hornslet",Socialdemokratiet,9
+Syddjurs,1,Ebeltoft,"A_Anita_Søholm,_Mols","Anita Søholm, Mols",Socialdemokratiet,102
+Syddjurs,1,Ebeltoft,"A_Ole_S._Hansen,_Mørke","Ole S. Hansen, Mørke",Socialdemokratiet,13
+Syddjurs,1,Ebeltoft,"A_Jan_Fischer,_Hornslet","Jan Fischer, Hornslet",Socialdemokratiet,5
+Syddjurs,1,Ebeltoft,"A_Linda_Brask,_Ebeltoft","Linda Brask, Ebeltoft",Socialdemokratiet,95
+Syddjurs,1,Ebeltoft,"A_Lene_Straarup,_Mols","Lene Straarup, Mols",Socialdemokratiet,12
+Syddjurs,1,Ebeltoft,"A_Sidse_G._Vangsted,_Pindstrup","Sidse G. Vangsted, Pindstrup",Socialdemokratiet,14
+Syddjurs,1,Ebeltoft,"A_Erling_Mikkelsen,_Rønde","Erling Mikkelsen, Rønde",Socialdemokratiet,5
+Syddjurs,1,Ebeltoft,"A_Casper_Grud_Nielsen,_Ugelbølle","Casper Grud Nielsen, Ugelbølle",Socialdemokratiet,7
+Syddjurs,1,Ebeltoft,"A_Jan_Bruno_Jensen,_Rønde","Jan Bruno Jensen, Rønde",Socialdemokratiet,7
+Syddjurs,1,Ebeltoft,"A_Verner_Møller,_Feldballe","Verner Møller, Feldballe",Socialdemokratiet,2
+Syddjurs,1,Ebeltoft,"A_Lars_Breum,_Ådalen","Lars Breum, Ådalen",Socialdemokratiet,3
+Syddjurs,1,Ebeltoft,B_Listestemmer,Listestemmer,Radikale Venstre,31
+Syddjurs,1,Ebeltoft,"B_Heine_Skovbak_Iversen,_Ebeltoft","Heine Skovbak Iversen, Ebeltoft",Radikale Venstre,423
+Syddjurs,1,Ebeltoft,"B_Kari_Baklund,_Femmøller","Kari Baklund, Femmøller",Radikale Venstre,50
+Syddjurs,1,Ebeltoft,"B_Bjarke_Jensen,_Ådalen","Bjarke Jensen, Ådalen",Radikale Venstre,9
+Syddjurs,1,Ebeltoft,"B_Søren_Høgsberg_Handberg,_Rønde","Søren Høgsberg Handberg, Rønde",Radikale Venstre,0
+Syddjurs,1,Ebeltoft,"B_Victoria_Maddock,_Ebeltoft","Victoria Maddock, Ebeltoft",Radikale Venstre,10
+Syddjurs,1,Ebeltoft,"B_Louise_Bové_Villadsen,_Hornslet","Louise Bové Villadsen, Hornslet",Radikale Venstre,2
+Syddjurs,1,Ebeltoft,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,133
+Syddjurs,1,Ebeltoft,"C_Tommy_Bøgehøj,_Ebeltoft","Tommy Bøgehøj, Ebeltoft",Det Konservative Folkeparti,738
+Syddjurs,1,Ebeltoft,"C_Kasper_Kolstrup_Møller,_Kolind","Kasper Kolstrup Møller, Kolind",Det Konservative Folkeparti,23
+Syddjurs,1,Ebeltoft,"C_Kirstine_Kahr_Kvorning,_Grønfeld","Kirstine Kahr Kvorning, Grønfeld",Det Konservative Folkeparti,42
+Syddjurs,1,Ebeltoft,"C_Jan_Aude,_Hornslet","Jan Aude, Hornslet",Det Konservative Folkeparti,3
+Syddjurs,1,Ebeltoft,"C_Kristian_Damsgaard,_Rønde","Kristian Damsgaard, Rønde",Det Konservative Folkeparti,20
+Syddjurs,1,Ebeltoft,"C_Bjørn_Jensen,_Thorsager","Bjørn Jensen, Thorsager",Det Konservative Folkeparti,8
+Syddjurs,1,Ebeltoft,"C_Kim_Withen,_Helgenæs","Kim Withen, Helgenæs",Det Konservative Folkeparti,58
+Syddjurs,1,Ebeltoft,"C_Dorthe_Le_Fevre,_Ebeltoft","Dorthe Le Fevre, Ebeltoft",Det Konservative Folkeparti,80
+Syddjurs,1,Ebeltoft,"C_Diana_Bang,_Ryomgård","Diana Bang, Ryomgård",Det Konservative Folkeparti,1
+Syddjurs,1,Ebeltoft,"C_Lone_Myrwick,_Ugelbølle","Lone Myrwick, Ugelbølle",Det Konservative Folkeparti,0
+Syddjurs,1,Ebeltoft,"C_Søren_Maarslet,_Ebeltoft","Søren Maarslet, Ebeltoft",Det Konservative Folkeparti,19
+Syddjurs,1,Ebeltoft,"C_Niels_Aakjær_Holst,_Rønde","Niels Aakjær Holst, Rønde",Det Konservative Folkeparti,1
+Syddjurs,1,Ebeltoft,"C_Steen_Myrwick,_Ugelbølle","Steen Myrwick, Ugelbølle",Det Konservative Folkeparti,0
+Syddjurs,1,Ebeltoft,"C_Lars_Bjørn,_Ugelbølle","Lars Bjørn, Ugelbølle",Det Konservative Folkeparti,4
+Syddjurs,1,Ebeltoft,D_Listestemmer,Listestemmer,Nye Borgerlige,70
+Syddjurs,1,Ebeltoft,"D_Bent_Schouw,_Femmøller","Bent Schouw, Femmøller",Nye Borgerlige,62
+Syddjurs,1,Ebeltoft,"D_Laila_Sortland,_Ryomgård","Laila Sortland, Ryomgård",Nye Borgerlige,66
+Syddjurs,1,Ebeltoft,"D_Jan_Jensen,_Ryomgård","Jan Jensen, Ryomgård",Nye Borgerlige,5
+Syddjurs,1,Ebeltoft,"D_Katalin_Deme,_Ryomgård","Katalin Deme, Ryomgård",Nye Borgerlige,1
+Syddjurs,1,Ebeltoft,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,105
+Syddjurs,1,Ebeltoft,"F_Kirstine_Bille,_Balle","Kirstine Bille, Balle",SF - Socialistisk Folkeparti,555
+Syddjurs,1,Ebeltoft,"F_Kim_Lykke_Jensen,_Termestrup","Kim Lykke Jensen, Termestrup",SF - Socialistisk Folkeparti,24
+Syddjurs,1,Ebeltoft,"F_Morten_Siig_Henriksen,_Hornslet","Morten Siig Henriksen, Hornslet",SF - Socialistisk Folkeparti,13
+Syddjurs,1,Ebeltoft,"F_Jens_Rasmussen,_Dråby","Jens Rasmussen, Dråby",SF - Socialistisk Folkeparti,67
+Syddjurs,1,Ebeltoft,"F_Helle_Røge,_Ugelbølle","Helle Røge, Ugelbølle",SF - Socialistisk Folkeparti,11
+Syddjurs,1,Ebeltoft,"F_Jakob_Feldtfos_Christensen,_Ryomgå","Jakob Feldtfos Christensen, Ryomgå",SF - Socialistisk Folkeparti,4
+Syddjurs,1,Ebeltoft,"F_Kasper_Nissen,_Knebel","Kasper Nissen, Knebel",SF - Socialistisk Folkeparti,11
+Syddjurs,1,Ebeltoft,"F_Ingrid_Boldsen,_Kolind","Ingrid Boldsen, Kolind",SF - Socialistisk Folkeparti,7
+Syddjurs,1,Ebeltoft,"F_Kristian_Herget,_Ebeltoft","Kristian Herget, Ebeltoft",SF - Socialistisk Folkeparti,28
+Syddjurs,1,Ebeltoft,"F_Karin_Alsgård_Jensen,_Tirstrup","Karin Alsgård Jensen, Tirstrup",SF - Socialistisk Folkeparti,5
+Syddjurs,1,Ebeltoft,"F_Elisabeth_Rasmussen,_Hyllested","Elisabeth Rasmussen, Hyllested",SF - Socialistisk Folkeparti,1
+Syddjurs,1,Ebeltoft,"F_Jørgen_Ringgaard,_Stabrand","Jørgen Ringgaard, Stabrand",SF - Socialistisk Folkeparti,1
+Syddjurs,1,Ebeltoft,O_Listestemmer,Listestemmer,Dansk Folkeparti,57
+Syddjurs,1,Ebeltoft,"O_Grethe_Møgelvang,_Mørke","Grethe Møgelvang, Mørke",Dansk Folkeparti,25
+Syddjurs,1,Ebeltoft,"O_Kathrine_Birkedahl,_Thorsager","Kathrine Birkedahl, Thorsager",Dansk Folkeparti,10
+Syddjurs,1,Ebeltoft,"O_Peter_Bachmann,_Ebeltoft","Peter Bachmann, Ebeltoft",Dansk Folkeparti,25
+Syddjurs,1,Ebeltoft,"O_Gert_Svendsen,_Søby","Gert Svendsen, Søby",Dansk Folkeparti,0
+Syddjurs,1,Ebeltoft,"O_Ken_Hansen,_Ryomgård","Ken Hansen, Ryomgård",Dansk Folkeparti,0
+Syddjurs,1,Ebeltoft,"O_Edgar_Wolff,_Ebeltoft","Edgar Wolff, Ebeltoft",Dansk Folkeparti,9
+Syddjurs,1,Ebeltoft,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",139
+Syddjurs,1,Ebeltoft,"V_Claus_Wistoft,_Kolind","Claus Wistoft, Kolind","Venstre, Danmarks Liberale Parti",630
+Syddjurs,1,Ebeltoft,"V_Jørgen_Ivar_Brus_Mikkelsen,_Ebelto","Jørgen Ivar Brus Mikkelsen, Ebelto","Venstre, Danmarks Liberale Parti",84
+Syddjurs,1,Ebeltoft,"V_Gunnar_Sørensen,_Vrinners","Gunnar Sørensen, Vrinners","Venstre, Danmarks Liberale Parti",16
+Syddjurs,1,Ebeltoft,"V_Christoffer_Pedersen,_Rønde","Christoffer Pedersen, Rønde","Venstre, Danmarks Liberale Parti",13
+Syddjurs,1,Ebeltoft,"V_Marianne_Kirkegaard,_Hornslet","Marianne Kirkegaard, Hornslet","Venstre, Danmarks Liberale Parti",29
+Syddjurs,1,Ebeltoft,"V_Riber_Hog_Anthonsen,_Mørke","Riber Hog Anthonsen, Mørke","Venstre, Danmarks Liberale Parti",23
+Syddjurs,1,Ebeltoft,"V_Henriette_Qvist_Eriksen,_Hornslet","Henriette Qvist Eriksen, Hornslet","Venstre, Danmarks Liberale Parti",6
+Syddjurs,1,Ebeltoft,"V_Birthe_Moe_Laursen,_Mørke","Birthe Moe Laursen, Mørke","Venstre, Danmarks Liberale Parti",15
+Syddjurs,1,Ebeltoft,"V_Søren_Høg,_Ebeltoft","Søren Høg, Ebeltoft","Venstre, Danmarks Liberale Parti",17
+Syddjurs,1,Ebeltoft,"V_Jens_Bjørn_Andersen,_Mols","Jens Bjørn Andersen, Mols","Venstre, Danmarks Liberale Parti",11
+Syddjurs,1,Ebeltoft,"V_Else_Marie_Høgh,_Hornslet","Else Marie Høgh, Hornslet","Venstre, Danmarks Liberale Parti",5
+Syddjurs,1,Ebeltoft,"V_Hans_Jørgensen,_Mols","Hans Jørgensen, Mols","Venstre, Danmarks Liberale Parti",15
+Syddjurs,1,Ebeltoft,"V_Peter_Krog-Meyer,_Rønde","Peter Krog-Meyer, Rønde","Venstre, Danmarks Liberale Parti",0
+Syddjurs,1,Ebeltoft,"V_Carsten_K._Bryrup,_Nimtofte","Carsten K. Bryrup, Nimtofte","Venstre, Danmarks Liberale Parti",1
+Syddjurs,1,Ebeltoft,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,88
+Syddjurs,1,Ebeltoft,"Ø_Jesper_Yde_Knudsen,_Rønde","Jesper Yde Knudsen, Rønde",Enhedslisten - De Rød-Grønne,85
+Syddjurs,1,Ebeltoft,"Ø_Niels_Peter_Mortensen,_Ebeltoft","Niels Peter Mortensen, Ebeltoft",Enhedslisten - De Rød-Grønne,36
+Syddjurs,1,Ebeltoft,"Ø_Randi_Jepsen,_Mols","Randi Jepsen, Mols",Enhedslisten - De Rød-Grønne,37
+Syddjurs,1,Ebeltoft,"Ø_Mohammad_Steitan,_Hornslet","Mohammad Steitan, Hornslet",Enhedslisten - De Rød-Grønne,22
+Syddjurs,1,Ebeltoft,"Ø_Steffen_Østergaard,_Ebeltoft","Steffen Østergaard, Ebeltoft",Enhedslisten - De Rød-Grønne,11
+Syddjurs,1,Ebeltoft,"Ø_Helle_Nørgaard,_Nødager","Helle Nørgaard, Nødager",Enhedslisten - De Rød-Grønne,8
+Syddjurs,1,Ebeltoft,"Ø_Thøger_Trold_Pauli,_Thorsager","Thøger Trold Pauli, Thorsager",Enhedslisten - De Rød-Grønne,4
+Syddjurs,1,Ebeltoft,"Ø_Jens_Christian_Nielsen,_Feldballe","Jens Christian Nielsen, Feldballe",Enhedslisten - De Rød-Grønne,1
+Syddjurs,1,Ebeltoft,Å_Listestemmer,Listestemmer,Alternativet,20
+Syddjurs,1,Ebeltoft,Å_Mette_Refshauge_Foged,Mette Refshauge Foged,Alternativet,83
+Syddjurs,1,Ebeltoft,Å_Kasper_J._Bergman-Coates,Kasper J. Bergman-Coates,Alternativet,32
+Syddjurs,2,Mols,A_Listestemmer,Listestemmer,Socialdemokratiet,83
+Syddjurs,2,Mols,"A_Michael_Stegger_Jensen,_Ryomgård","Michael Stegger Jensen, Ryomgård",Socialdemokratiet,170
+Syddjurs,2,Mols,"A_Christian_Haubuf,_Ebeltoft","Christian Haubuf, Ebeltoft",Socialdemokratiet,6
+Syddjurs,2,Mols,"A_Michael_Aakjær,_Hornslet","Michael Aakjær, Hornslet",Socialdemokratiet,3
+Syddjurs,2,Mols,"A_Anita_Søholm,_Mols","Anita Søholm, Mols",Socialdemokratiet,70
+Syddjurs,2,Mols,"A_Ole_S._Hansen,_Mørke","Ole S. Hansen, Mørke",Socialdemokratiet,2
+Syddjurs,2,Mols,"A_Jan_Fischer,_Hornslet","Jan Fischer, Hornslet",Socialdemokratiet,0
+Syddjurs,2,Mols,"A_Linda_Brask,_Ebeltoft","Linda Brask, Ebeltoft",Socialdemokratiet,2
+Syddjurs,2,Mols,"A_Lene_Straarup,_Mols","Lene Straarup, Mols",Socialdemokratiet,114
+Syddjurs,2,Mols,"A_Sidse_G._Vangsted,_Pindstrup","Sidse G. Vangsted, Pindstrup",Socialdemokratiet,8
+Syddjurs,2,Mols,"A_Erling_Mikkelsen,_Rønde","Erling Mikkelsen, Rønde",Socialdemokratiet,2
+Syddjurs,2,Mols,"A_Casper_Grud_Nielsen,_Ugelbølle","Casper Grud Nielsen, Ugelbølle",Socialdemokratiet,4
+Syddjurs,2,Mols,"A_Jan_Bruno_Jensen,_Rønde","Jan Bruno Jensen, Rønde",Socialdemokratiet,8
+Syddjurs,2,Mols,"A_Verner_Møller,_Feldballe","Verner Møller, Feldballe",Socialdemokratiet,0
+Syddjurs,2,Mols,"A_Lars_Breum,_Ådalen","Lars Breum, Ådalen",Socialdemokratiet,0
+Syddjurs,2,Mols,B_Listestemmer,Listestemmer,Radikale Venstre,7
+Syddjurs,2,Mols,"B_Heine_Skovbak_Iversen,_Ebeltoft","Heine Skovbak Iversen, Ebeltoft",Radikale Venstre,31
+Syddjurs,2,Mols,"B_Kari_Baklund,_Femmøller","Kari Baklund, Femmøller",Radikale Venstre,21
+Syddjurs,2,Mols,"B_Bjarke_Jensen,_Ådalen","Bjarke Jensen, Ådalen",Radikale Venstre,4
+Syddjurs,2,Mols,"B_Søren_Høgsberg_Handberg,_Rønde","Søren Høgsberg Handberg, Rønde",Radikale Venstre,1
+Syddjurs,2,Mols,"B_Victoria_Maddock,_Ebeltoft","Victoria Maddock, Ebeltoft",Radikale Venstre,1
+Syddjurs,2,Mols,"B_Louise_Bové_Villadsen,_Hornslet","Louise Bové Villadsen, Hornslet",Radikale Venstre,1
+Syddjurs,2,Mols,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,74
+Syddjurs,2,Mols,"C_Tommy_Bøgehøj,_Ebeltoft","Tommy Bøgehøj, Ebeltoft",Det Konservative Folkeparti,55
+Syddjurs,2,Mols,"C_Kasper_Kolstrup_Møller,_Kolind","Kasper Kolstrup Møller, Kolind",Det Konservative Folkeparti,9
+Syddjurs,2,Mols,"C_Kirstine_Kahr_Kvorning,_Grønfeld","Kirstine Kahr Kvorning, Grønfeld",Det Konservative Folkeparti,40
+Syddjurs,2,Mols,"C_Jan_Aude,_Hornslet","Jan Aude, Hornslet",Det Konservative Folkeparti,1
+Syddjurs,2,Mols,"C_Kristian_Damsgaard,_Rønde","Kristian Damsgaard, Rønde",Det Konservative Folkeparti,13
+Syddjurs,2,Mols,"C_Bjørn_Jensen,_Thorsager","Bjørn Jensen, Thorsager",Det Konservative Folkeparti,7
+Syddjurs,2,Mols,"C_Kim_Withen,_Helgenæs","Kim Withen, Helgenæs",Det Konservative Folkeparti,52
+Syddjurs,2,Mols,"C_Dorthe_Le_Fevre,_Ebeltoft","Dorthe Le Fevre, Ebeltoft",Det Konservative Folkeparti,3
+Syddjurs,2,Mols,"C_Diana_Bang,_Ryomgård","Diana Bang, Ryomgård",Det Konservative Folkeparti,0
+Syddjurs,2,Mols,"C_Lone_Myrwick,_Ugelbølle","Lone Myrwick, Ugelbølle",Det Konservative Folkeparti,2
+Syddjurs,2,Mols,"C_Søren_Maarslet,_Ebeltoft","Søren Maarslet, Ebeltoft",Det Konservative Folkeparti,0
+Syddjurs,2,Mols,"C_Niels_Aakjær_Holst,_Rønde","Niels Aakjær Holst, Rønde",Det Konservative Folkeparti,0
+Syddjurs,2,Mols,"C_Steen_Myrwick,_Ugelbølle","Steen Myrwick, Ugelbølle",Det Konservative Folkeparti,0
+Syddjurs,2,Mols,"C_Lars_Bjørn,_Ugelbølle","Lars Bjørn, Ugelbølle",Det Konservative Folkeparti,7
+Syddjurs,2,Mols,D_Listestemmer,Listestemmer,Nye Borgerlige,33
+Syddjurs,2,Mols,"D_Bent_Schouw,_Femmøller","Bent Schouw, Femmøller",Nye Borgerlige,31
+Syddjurs,2,Mols,"D_Laila_Sortland,_Ryomgård","Laila Sortland, Ryomgård",Nye Borgerlige,34
+Syddjurs,2,Mols,"D_Jan_Jensen,_Ryomgård","Jan Jensen, Ryomgård",Nye Borgerlige,1
+Syddjurs,2,Mols,"D_Katalin_Deme,_Ryomgård","Katalin Deme, Ryomgård",Nye Borgerlige,0
+Syddjurs,2,Mols,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,37
+Syddjurs,2,Mols,"F_Kirstine_Bille,_Balle","Kirstine Bille, Balle",SF - Socialistisk Folkeparti,167
+Syddjurs,2,Mols,"F_Kim_Lykke_Jensen,_Termestrup","Kim Lykke Jensen, Termestrup",SF - Socialistisk Folkeparti,15
+Syddjurs,2,Mols,"F_Morten_Siig_Henriksen,_Hornslet","Morten Siig Henriksen, Hornslet",SF - Socialistisk Folkeparti,7
+Syddjurs,2,Mols,"F_Jens_Rasmussen,_Dråby","Jens Rasmussen, Dråby",SF - Socialistisk Folkeparti,3
+Syddjurs,2,Mols,"F_Helle_Røge,_Ugelbølle","Helle Røge, Ugelbølle",SF - Socialistisk Folkeparti,7
+Syddjurs,2,Mols,"F_Jakob_Feldtfos_Christensen,_Ryomgå","Jakob Feldtfos Christensen, Ryomgå",SF - Socialistisk Folkeparti,3
+Syddjurs,2,Mols,"F_Kasper_Nissen,_Knebel","Kasper Nissen, Knebel",SF - Socialistisk Folkeparti,110
+Syddjurs,2,Mols,"F_Ingrid_Boldsen,_Kolind","Ingrid Boldsen, Kolind",SF - Socialistisk Folkeparti,1
+Syddjurs,2,Mols,"F_Kristian_Herget,_Ebeltoft","Kristian Herget, Ebeltoft",SF - Socialistisk Folkeparti,7
+Syddjurs,2,Mols,"F_Karin_Alsgård_Jensen,_Tirstrup","Karin Alsgård Jensen, Tirstrup",SF - Socialistisk Folkeparti,2
+Syddjurs,2,Mols,"F_Elisabeth_Rasmussen,_Hyllested","Elisabeth Rasmussen, Hyllested",SF - Socialistisk Folkeparti,1
+Syddjurs,2,Mols,"F_Jørgen_Ringgaard,_Stabrand","Jørgen Ringgaard, Stabrand",SF - Socialistisk Folkeparti,2
+Syddjurs,2,Mols,O_Listestemmer,Listestemmer,Dansk Folkeparti,33
+Syddjurs,2,Mols,"O_Grethe_Møgelvang,_Mørke","Grethe Møgelvang, Mørke",Dansk Folkeparti,19
+Syddjurs,2,Mols,"O_Kathrine_Birkedahl,_Thorsager","Kathrine Birkedahl, Thorsager",Dansk Folkeparti,7
+Syddjurs,2,Mols,"O_Peter_Bachmann,_Ebeltoft","Peter Bachmann, Ebeltoft",Dansk Folkeparti,9
+Syddjurs,2,Mols,"O_Gert_Svendsen,_Søby","Gert Svendsen, Søby",Dansk Folkeparti,1
+Syddjurs,2,Mols,"O_Ken_Hansen,_Ryomgård","Ken Hansen, Ryomgård",Dansk Folkeparti,0
+Syddjurs,2,Mols,"O_Edgar_Wolff,_Ebeltoft","Edgar Wolff, Ebeltoft",Dansk Folkeparti,0
+Syddjurs,2,Mols,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",56
+Syddjurs,2,Mols,"V_Claus_Wistoft,_Kolind","Claus Wistoft, Kolind","Venstre, Danmarks Liberale Parti",190
+Syddjurs,2,Mols,"V_Jørgen_Ivar_Brus_Mikkelsen,_Ebelto","Jørgen Ivar Brus Mikkelsen, Ebelto","Venstre, Danmarks Liberale Parti",231
+Syddjurs,2,Mols,"V_Gunnar_Sørensen,_Vrinners","Gunnar Sørensen, Vrinners","Venstre, Danmarks Liberale Parti",97
+Syddjurs,2,Mols,"V_Christoffer_Pedersen,_Rønde","Christoffer Pedersen, Rønde","Venstre, Danmarks Liberale Parti",4
+Syddjurs,2,Mols,"V_Marianne_Kirkegaard,_Hornslet","Marianne Kirkegaard, Hornslet","Venstre, Danmarks Liberale Parti",18
+Syddjurs,2,Mols,"V_Riber_Hog_Anthonsen,_Mørke","Riber Hog Anthonsen, Mørke","Venstre, Danmarks Liberale Parti",18
+Syddjurs,2,Mols,"V_Henriette_Qvist_Eriksen,_Hornslet","Henriette Qvist Eriksen, Hornslet","Venstre, Danmarks Liberale Parti",6
+Syddjurs,2,Mols,"V_Birthe_Moe_Laursen,_Mørke","Birthe Moe Laursen, Mørke","Venstre, Danmarks Liberale Parti",3
+Syddjurs,2,Mols,"V_Søren_Høg,_Ebeltoft","Søren Høg, Ebeltoft","Venstre, Danmarks Liberale Parti",1
+Syddjurs,2,Mols,"V_Jens_Bjørn_Andersen,_Mols","Jens Bjørn Andersen, Mols","Venstre, Danmarks Liberale Parti",115
+Syddjurs,2,Mols,"V_Else_Marie_Høgh,_Hornslet","Else Marie Høgh, Hornslet","Venstre, Danmarks Liberale Parti",2
+Syddjurs,2,Mols,"V_Hans_Jørgensen,_Mols","Hans Jørgensen, Mols","Venstre, Danmarks Liberale Parti",15
+Syddjurs,2,Mols,"V_Peter_Krog-Meyer,_Rønde","Peter Krog-Meyer, Rønde","Venstre, Danmarks Liberale Parti",4
+Syddjurs,2,Mols,"V_Carsten_K._Bryrup,_Nimtofte","Carsten K. Bryrup, Nimtofte","Venstre, Danmarks Liberale Parti",1
+Syddjurs,2,Mols,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,68
+Syddjurs,2,Mols,"Ø_Jesper_Yde_Knudsen,_Rønde","Jesper Yde Knudsen, Rønde",Enhedslisten - De Rød-Grønne,68
+Syddjurs,2,Mols,"Ø_Niels_Peter_Mortensen,_Ebeltoft","Niels Peter Mortensen, Ebeltoft",Enhedslisten - De Rød-Grønne,6
+Syddjurs,2,Mols,"Ø_Randi_Jepsen,_Mols","Randi Jepsen, Mols",Enhedslisten - De Rød-Grønne,46
+Syddjurs,2,Mols,"Ø_Mohammad_Steitan,_Hornslet","Mohammad Steitan, Hornslet",Enhedslisten - De Rød-Grønne,6
+Syddjurs,2,Mols,"Ø_Steffen_Østergaard,_Ebeltoft","Steffen Østergaard, Ebeltoft",Enhedslisten - De Rød-Grønne,0
+Syddjurs,2,Mols,"Ø_Helle_Nørgaard,_Nødager","Helle Nørgaard, Nødager",Enhedslisten - De Rød-Grønne,8
+Syddjurs,2,Mols,"Ø_Thøger_Trold_Pauli,_Thorsager","Thøger Trold Pauli, Thorsager",Enhedslisten - De Rød-Grønne,1
+Syddjurs,2,Mols,"Ø_Jens_Christian_Nielsen,_Feldballe","Jens Christian Nielsen, Feldballe",Enhedslisten - De Rød-Grønne,2
+Syddjurs,2,Mols,Å_Listestemmer,Listestemmer,Alternativet,12
+Syddjurs,2,Mols,Å_Mette_Refshauge_Foged,Mette Refshauge Foged,Alternativet,122
+Syddjurs,2,Mols,Å_Kasper_J._Bergman-Coates,Kasper J. Bergman-Coates,Alternativet,10
+Syddjurs,3,Tirstrup,A_Listestemmer,Listestemmer,Socialdemokratiet,72
+Syddjurs,3,Tirstrup,"A_Michael_Stegger_Jensen,_Ryomgård","Michael Stegger Jensen, Ryomgård",Socialdemokratiet,46
+Syddjurs,3,Tirstrup,"A_Christian_Haubuf,_Ebeltoft","Christian Haubuf, Ebeltoft",Socialdemokratiet,19
+Syddjurs,3,Tirstrup,"A_Michael_Aakjær,_Hornslet","Michael Aakjær, Hornslet",Socialdemokratiet,0
+Syddjurs,3,Tirstrup,"A_Anita_Søholm,_Mols","Anita Søholm, Mols",Socialdemokratiet,14
+Syddjurs,3,Tirstrup,"A_Ole_S._Hansen,_Mørke","Ole S. Hansen, Mørke",Socialdemokratiet,5
+Syddjurs,3,Tirstrup,"A_Jan_Fischer,_Hornslet","Jan Fischer, Hornslet",Socialdemokratiet,1
+Syddjurs,3,Tirstrup,"A_Linda_Brask,_Ebeltoft","Linda Brask, Ebeltoft",Socialdemokratiet,11
+Syddjurs,3,Tirstrup,"A_Lene_Straarup,_Mols","Lene Straarup, Mols",Socialdemokratiet,2
+Syddjurs,3,Tirstrup,"A_Sidse_G._Vangsted,_Pindstrup","Sidse G. Vangsted, Pindstrup",Socialdemokratiet,9
+Syddjurs,3,Tirstrup,"A_Erling_Mikkelsen,_Rønde","Erling Mikkelsen, Rønde",Socialdemokratiet,2
+Syddjurs,3,Tirstrup,"A_Casper_Grud_Nielsen,_Ugelbølle","Casper Grud Nielsen, Ugelbølle",Socialdemokratiet,2
+Syddjurs,3,Tirstrup,"A_Jan_Bruno_Jensen,_Rønde","Jan Bruno Jensen, Rønde",Socialdemokratiet,3
+Syddjurs,3,Tirstrup,"A_Verner_Møller,_Feldballe","Verner Møller, Feldballe",Socialdemokratiet,2
+Syddjurs,3,Tirstrup,"A_Lars_Breum,_Ådalen","Lars Breum, Ådalen",Socialdemokratiet,0
+Syddjurs,3,Tirstrup,B_Listestemmer,Listestemmer,Radikale Venstre,3
+Syddjurs,3,Tirstrup,"B_Heine_Skovbak_Iversen,_Ebeltoft","Heine Skovbak Iversen, Ebeltoft",Radikale Venstre,12
+Syddjurs,3,Tirstrup,"B_Kari_Baklund,_Femmøller","Kari Baklund, Femmøller",Radikale Venstre,1
+Syddjurs,3,Tirstrup,"B_Bjarke_Jensen,_Ådalen","Bjarke Jensen, Ådalen",Radikale Venstre,4
+Syddjurs,3,Tirstrup,"B_Søren_Høgsberg_Handberg,_Rønde","Søren Høgsberg Handberg, Rønde",Radikale Venstre,1
+Syddjurs,3,Tirstrup,"B_Victoria_Maddock,_Ebeltoft","Victoria Maddock, Ebeltoft",Radikale Venstre,0
+Syddjurs,3,Tirstrup,"B_Louise_Bové_Villadsen,_Hornslet","Louise Bové Villadsen, Hornslet",Radikale Venstre,1
+Syddjurs,3,Tirstrup,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,43
+Syddjurs,3,Tirstrup,"C_Tommy_Bøgehøj,_Ebeltoft","Tommy Bøgehøj, Ebeltoft",Det Konservative Folkeparti,38
+Syddjurs,3,Tirstrup,"C_Kasper_Kolstrup_Møller,_Kolind","Kasper Kolstrup Møller, Kolind",Det Konservative Folkeparti,14
+Syddjurs,3,Tirstrup,"C_Kirstine_Kahr_Kvorning,_Grønfeld","Kirstine Kahr Kvorning, Grønfeld",Det Konservative Folkeparti,10
+Syddjurs,3,Tirstrup,"C_Jan_Aude,_Hornslet","Jan Aude, Hornslet",Det Konservative Folkeparti,3
+Syddjurs,3,Tirstrup,"C_Kristian_Damsgaard,_Rønde","Kristian Damsgaard, Rønde",Det Konservative Folkeparti,3
+Syddjurs,3,Tirstrup,"C_Bjørn_Jensen,_Thorsager","Bjørn Jensen, Thorsager",Det Konservative Folkeparti,6
+Syddjurs,3,Tirstrup,"C_Kim_Withen,_Helgenæs","Kim Withen, Helgenæs",Det Konservative Folkeparti,3
+Syddjurs,3,Tirstrup,"C_Dorthe_Le_Fevre,_Ebeltoft","Dorthe Le Fevre, Ebeltoft",Det Konservative Folkeparti,6
+Syddjurs,3,Tirstrup,"C_Diana_Bang,_Ryomgård","Diana Bang, Ryomgård",Det Konservative Folkeparti,0
+Syddjurs,3,Tirstrup,"C_Lone_Myrwick,_Ugelbølle","Lone Myrwick, Ugelbølle",Det Konservative Folkeparti,1
+Syddjurs,3,Tirstrup,"C_Søren_Maarslet,_Ebeltoft","Søren Maarslet, Ebeltoft",Det Konservative Folkeparti,2
+Syddjurs,3,Tirstrup,"C_Niels_Aakjær_Holst,_Rønde","Niels Aakjær Holst, Rønde",Det Konservative Folkeparti,1
+Syddjurs,3,Tirstrup,"C_Steen_Myrwick,_Ugelbølle","Steen Myrwick, Ugelbølle",Det Konservative Folkeparti,0
+Syddjurs,3,Tirstrup,"C_Lars_Bjørn,_Ugelbølle","Lars Bjørn, Ugelbølle",Det Konservative Folkeparti,6
+Syddjurs,3,Tirstrup,D_Listestemmer,Listestemmer,Nye Borgerlige,31
+Syddjurs,3,Tirstrup,"D_Bent_Schouw,_Femmøller","Bent Schouw, Femmøller",Nye Borgerlige,19
+Syddjurs,3,Tirstrup,"D_Laila_Sortland,_Ryomgård","Laila Sortland, Ryomgård",Nye Borgerlige,25
+Syddjurs,3,Tirstrup,"D_Jan_Jensen,_Ryomgård","Jan Jensen, Ryomgård",Nye Borgerlige,1
+Syddjurs,3,Tirstrup,"D_Katalin_Deme,_Ryomgård","Katalin Deme, Ryomgård",Nye Borgerlige,0
+Syddjurs,3,Tirstrup,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,24
+Syddjurs,3,Tirstrup,"F_Kirstine_Bille,_Balle","Kirstine Bille, Balle",SF - Socialistisk Folkeparti,275
+Syddjurs,3,Tirstrup,"F_Kim_Lykke_Jensen,_Termestrup","Kim Lykke Jensen, Termestrup",SF - Socialistisk Folkeparti,9
+Syddjurs,3,Tirstrup,"F_Morten_Siig_Henriksen,_Hornslet","Morten Siig Henriksen, Hornslet",SF - Socialistisk Folkeparti,2
+Syddjurs,3,Tirstrup,"F_Jens_Rasmussen,_Dråby","Jens Rasmussen, Dråby",SF - Socialistisk Folkeparti,7
+Syddjurs,3,Tirstrup,"F_Helle_Røge,_Ugelbølle","Helle Røge, Ugelbølle",SF - Socialistisk Folkeparti,1
+Syddjurs,3,Tirstrup,"F_Jakob_Feldtfos_Christensen,_Ryomgå","Jakob Feldtfos Christensen, Ryomgå",SF - Socialistisk Folkeparti,3
+Syddjurs,3,Tirstrup,"F_Kasper_Nissen,_Knebel","Kasper Nissen, Knebel",SF - Socialistisk Folkeparti,2
+Syddjurs,3,Tirstrup,"F_Ingrid_Boldsen,_Kolind","Ingrid Boldsen, Kolind",SF - Socialistisk Folkeparti,8
+Syddjurs,3,Tirstrup,"F_Kristian_Herget,_Ebeltoft","Kristian Herget, Ebeltoft",SF - Socialistisk Folkeparti,2
+Syddjurs,3,Tirstrup,"F_Karin_Alsgård_Jensen,_Tirstrup","Karin Alsgård Jensen, Tirstrup",SF - Socialistisk Folkeparti,7
+Syddjurs,3,Tirstrup,"F_Elisabeth_Rasmussen,_Hyllested","Elisabeth Rasmussen, Hyllested",SF - Socialistisk Folkeparti,0
+Syddjurs,3,Tirstrup,"F_Jørgen_Ringgaard,_Stabrand","Jørgen Ringgaard, Stabrand",SF - Socialistisk Folkeparti,0
+Syddjurs,3,Tirstrup,O_Listestemmer,Listestemmer,Dansk Folkeparti,13
+Syddjurs,3,Tirstrup,"O_Grethe_Møgelvang,_Mørke","Grethe Møgelvang, Mørke",Dansk Folkeparti,9
+Syddjurs,3,Tirstrup,"O_Kathrine_Birkedahl,_Thorsager","Kathrine Birkedahl, Thorsager",Dansk Folkeparti,10
+Syddjurs,3,Tirstrup,"O_Peter_Bachmann,_Ebeltoft","Peter Bachmann, Ebeltoft",Dansk Folkeparti,7
+Syddjurs,3,Tirstrup,"O_Gert_Svendsen,_Søby","Gert Svendsen, Søby",Dansk Folkeparti,0
+Syddjurs,3,Tirstrup,"O_Ken_Hansen,_Ryomgård","Ken Hansen, Ryomgård",Dansk Folkeparti,0
+Syddjurs,3,Tirstrup,"O_Edgar_Wolff,_Ebeltoft","Edgar Wolff, Ebeltoft",Dansk Folkeparti,2
+Syddjurs,3,Tirstrup,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",35
+Syddjurs,3,Tirstrup,"V_Claus_Wistoft,_Kolind","Claus Wistoft, Kolind","Venstre, Danmarks Liberale Parti",156
+Syddjurs,3,Tirstrup,"V_Jørgen_Ivar_Brus_Mikkelsen,_Ebelto","Jørgen Ivar Brus Mikkelsen, Ebelto","Venstre, Danmarks Liberale Parti",10
+Syddjurs,3,Tirstrup,"V_Gunnar_Sørensen,_Vrinners","Gunnar Sørensen, Vrinners","Venstre, Danmarks Liberale Parti",3
+Syddjurs,3,Tirstrup,"V_Christoffer_Pedersen,_Rønde","Christoffer Pedersen, Rønde","Venstre, Danmarks Liberale Parti",3
+Syddjurs,3,Tirstrup,"V_Marianne_Kirkegaard,_Hornslet","Marianne Kirkegaard, Hornslet","Venstre, Danmarks Liberale Parti",11
+Syddjurs,3,Tirstrup,"V_Riber_Hog_Anthonsen,_Mørke","Riber Hog Anthonsen, Mørke","Venstre, Danmarks Liberale Parti",15
+Syddjurs,3,Tirstrup,"V_Henriette_Qvist_Eriksen,_Hornslet","Henriette Qvist Eriksen, Hornslet","Venstre, Danmarks Liberale Parti",1
+Syddjurs,3,Tirstrup,"V_Birthe_Moe_Laursen,_Mørke","Birthe Moe Laursen, Mørke","Venstre, Danmarks Liberale Parti",5
+Syddjurs,3,Tirstrup,"V_Søren_Høg,_Ebeltoft","Søren Høg, Ebeltoft","Venstre, Danmarks Liberale Parti",3
+Syddjurs,3,Tirstrup,"V_Jens_Bjørn_Andersen,_Mols","Jens Bjørn Andersen, Mols","Venstre, Danmarks Liberale Parti",2
+Syddjurs,3,Tirstrup,"V_Else_Marie_Høgh,_Hornslet","Else Marie Høgh, Hornslet","Venstre, Danmarks Liberale Parti",2
+Syddjurs,3,Tirstrup,"V_Hans_Jørgensen,_Mols","Hans Jørgensen, Mols","Venstre, Danmarks Liberale Parti",1
+Syddjurs,3,Tirstrup,"V_Peter_Krog-Meyer,_Rønde","Peter Krog-Meyer, Rønde","Venstre, Danmarks Liberale Parti",1
+Syddjurs,3,Tirstrup,"V_Carsten_K._Bryrup,_Nimtofte","Carsten K. Bryrup, Nimtofte","Venstre, Danmarks Liberale Parti",1
+Syddjurs,3,Tirstrup,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,36
+Syddjurs,3,Tirstrup,"Ø_Jesper_Yde_Knudsen,_Rønde","Jesper Yde Knudsen, Rønde",Enhedslisten - De Rød-Grønne,35
+Syddjurs,3,Tirstrup,"Ø_Niels_Peter_Mortensen,_Ebeltoft","Niels Peter Mortensen, Ebeltoft",Enhedslisten - De Rød-Grønne,5
+Syddjurs,3,Tirstrup,"Ø_Randi_Jepsen,_Mols","Randi Jepsen, Mols",Enhedslisten - De Rød-Grønne,9
+Syddjurs,3,Tirstrup,"Ø_Mohammad_Steitan,_Hornslet","Mohammad Steitan, Hornslet",Enhedslisten - De Rød-Grønne,5
+Syddjurs,3,Tirstrup,"Ø_Steffen_Østergaard,_Ebeltoft","Steffen Østergaard, Ebeltoft",Enhedslisten - De Rød-Grønne,1
+Syddjurs,3,Tirstrup,"Ø_Helle_Nørgaard,_Nødager","Helle Nørgaard, Nødager",Enhedslisten - De Rød-Grønne,3
+Syddjurs,3,Tirstrup,"Ø_Thøger_Trold_Pauli,_Thorsager","Thøger Trold Pauli, Thorsager",Enhedslisten - De Rød-Grønne,2
+Syddjurs,3,Tirstrup,"Ø_Jens_Christian_Nielsen,_Feldballe","Jens Christian Nielsen, Feldballe",Enhedslisten - De Rød-Grønne,2
+Syddjurs,3,Tirstrup,Å_Listestemmer,Listestemmer,Alternativet,4
+Syddjurs,3,Tirstrup,Å_Mette_Refshauge_Foged,Mette Refshauge Foged,Alternativet,23
+Syddjurs,3,Tirstrup,Å_Kasper_J._Bergman-Coates,Kasper J. Bergman-Coates,Alternativet,5
+Syddjurs,4,Kolind,A_Listestemmer,Listestemmer,Socialdemokratiet,129
+Syddjurs,4,Kolind,"A_Michael_Stegger_Jensen,_Ryomgård","Michael Stegger Jensen, Ryomgård",Socialdemokratiet,159
+Syddjurs,4,Kolind,"A_Christian_Haubuf,_Ebeltoft","Christian Haubuf, Ebeltoft",Socialdemokratiet,2
+Syddjurs,4,Kolind,"A_Michael_Aakjær,_Hornslet","Michael Aakjær, Hornslet",Socialdemokratiet,2
+Syddjurs,4,Kolind,"A_Anita_Søholm,_Mols","Anita Søholm, Mols",Socialdemokratiet,26
+Syddjurs,4,Kolind,"A_Ole_S._Hansen,_Mørke","Ole S. Hansen, Mørke",Socialdemokratiet,33
+Syddjurs,4,Kolind,"A_Jan_Fischer,_Hornslet","Jan Fischer, Hornslet",Socialdemokratiet,3
+Syddjurs,4,Kolind,"A_Linda_Brask,_Ebeltoft","Linda Brask, Ebeltoft",Socialdemokratiet,4
+Syddjurs,4,Kolind,"A_Lene_Straarup,_Mols","Lene Straarup, Mols",Socialdemokratiet,2
+Syddjurs,4,Kolind,"A_Sidse_G._Vangsted,_Pindstrup","Sidse G. Vangsted, Pindstrup",Socialdemokratiet,12
+Syddjurs,4,Kolind,"A_Erling_Mikkelsen,_Rønde","Erling Mikkelsen, Rønde",Socialdemokratiet,6
+Syddjurs,4,Kolind,"A_Casper_Grud_Nielsen,_Ugelbølle","Casper Grud Nielsen, Ugelbølle",Socialdemokratiet,8
+Syddjurs,4,Kolind,"A_Jan_Bruno_Jensen,_Rønde","Jan Bruno Jensen, Rønde",Socialdemokratiet,8
+Syddjurs,4,Kolind,"A_Verner_Møller,_Feldballe","Verner Møller, Feldballe",Socialdemokratiet,3
+Syddjurs,4,Kolind,"A_Lars_Breum,_Ådalen","Lars Breum, Ådalen",Socialdemokratiet,2
+Syddjurs,4,Kolind,B_Listestemmer,Listestemmer,Radikale Venstre,4
+Syddjurs,4,Kolind,"B_Heine_Skovbak_Iversen,_Ebeltoft","Heine Skovbak Iversen, Ebeltoft",Radikale Venstre,15
+Syddjurs,4,Kolind,"B_Kari_Baklund,_Femmøller","Kari Baklund, Femmøller",Radikale Venstre,3
+Syddjurs,4,Kolind,"B_Bjarke_Jensen,_Ådalen","Bjarke Jensen, Ådalen",Radikale Venstre,9
+Syddjurs,4,Kolind,"B_Søren_Høgsberg_Handberg,_Rønde","Søren Høgsberg Handberg, Rønde",Radikale Venstre,4
+Syddjurs,4,Kolind,"B_Victoria_Maddock,_Ebeltoft","Victoria Maddock, Ebeltoft",Radikale Venstre,1
+Syddjurs,4,Kolind,"B_Louise_Bové_Villadsen,_Hornslet","Louise Bové Villadsen, Hornslet",Radikale Venstre,2
+Syddjurs,4,Kolind,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,43
+Syddjurs,4,Kolind,"C_Tommy_Bøgehøj,_Ebeltoft","Tommy Bøgehøj, Ebeltoft",Det Konservative Folkeparti,11
+Syddjurs,4,Kolind,"C_Kasper_Kolstrup_Møller,_Kolind","Kasper Kolstrup Møller, Kolind",Det Konservative Folkeparti,373
+Syddjurs,4,Kolind,"C_Kirstine_Kahr_Kvorning,_Grønfeld","Kirstine Kahr Kvorning, Grønfeld",Det Konservative Folkeparti,10
+Syddjurs,4,Kolind,"C_Jan_Aude,_Hornslet","Jan Aude, Hornslet",Det Konservative Folkeparti,6
+Syddjurs,4,Kolind,"C_Kristian_Damsgaard,_Rønde","Kristian Damsgaard, Rønde",Det Konservative Folkeparti,11
+Syddjurs,4,Kolind,"C_Bjørn_Jensen,_Thorsager","Bjørn Jensen, Thorsager",Det Konservative Folkeparti,11
+Syddjurs,4,Kolind,"C_Kim_Withen,_Helgenæs","Kim Withen, Helgenæs",Det Konservative Folkeparti,4
+Syddjurs,4,Kolind,"C_Dorthe_Le_Fevre,_Ebeltoft","Dorthe Le Fevre, Ebeltoft",Det Konservative Folkeparti,1
+Syddjurs,4,Kolind,"C_Diana_Bang,_Ryomgård","Diana Bang, Ryomgård",Det Konservative Folkeparti,5
+Syddjurs,4,Kolind,"C_Lone_Myrwick,_Ugelbølle","Lone Myrwick, Ugelbølle",Det Konservative Folkeparti,0
+Syddjurs,4,Kolind,"C_Søren_Maarslet,_Ebeltoft","Søren Maarslet, Ebeltoft",Det Konservative Folkeparti,0
+Syddjurs,4,Kolind,"C_Niels_Aakjær_Holst,_Rønde","Niels Aakjær Holst, Rønde",Det Konservative Folkeparti,2
+Syddjurs,4,Kolind,"C_Steen_Myrwick,_Ugelbølle","Steen Myrwick, Ugelbølle",Det Konservative Folkeparti,0
+Syddjurs,4,Kolind,"C_Lars_Bjørn,_Ugelbølle","Lars Bjørn, Ugelbølle",Det Konservative Folkeparti,3
+Syddjurs,4,Kolind,D_Listestemmer,Listestemmer,Nye Borgerlige,30
+Syddjurs,4,Kolind,"D_Bent_Schouw,_Femmøller","Bent Schouw, Femmøller",Nye Borgerlige,8
+Syddjurs,4,Kolind,"D_Laila_Sortland,_Ryomgård","Laila Sortland, Ryomgård",Nye Borgerlige,67
+Syddjurs,4,Kolind,"D_Jan_Jensen,_Ryomgård","Jan Jensen, Ryomgård",Nye Borgerlige,3
+Syddjurs,4,Kolind,"D_Katalin_Deme,_Ryomgård","Katalin Deme, Ryomgård",Nye Borgerlige,0
+Syddjurs,4,Kolind,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,23
+Syddjurs,4,Kolind,"F_Kirstine_Bille,_Balle","Kirstine Bille, Balle",SF - Socialistisk Folkeparti,128
+Syddjurs,4,Kolind,"F_Kim_Lykke_Jensen,_Termestrup","Kim Lykke Jensen, Termestrup",SF - Socialistisk Folkeparti,5
+Syddjurs,4,Kolind,"F_Morten_Siig_Henriksen,_Hornslet","Morten Siig Henriksen, Hornslet",SF - Socialistisk Folkeparti,5
+Syddjurs,4,Kolind,"F_Jens_Rasmussen,_Dråby","Jens Rasmussen, Dråby",SF - Socialistisk Folkeparti,0
+Syddjurs,4,Kolind,"F_Helle_Røge,_Ugelbølle","Helle Røge, Ugelbølle",SF - Socialistisk Folkeparti,1
+Syddjurs,4,Kolind,"F_Jakob_Feldtfos_Christensen,_Ryomgå","Jakob Feldtfos Christensen, Ryomgå",SF - Socialistisk Folkeparti,1
+Syddjurs,4,Kolind,"F_Kasper_Nissen,_Knebel","Kasper Nissen, Knebel",SF - Socialistisk Folkeparti,4
+Syddjurs,4,Kolind,"F_Ingrid_Boldsen,_Kolind","Ingrid Boldsen, Kolind",SF - Socialistisk Folkeparti,17
+Syddjurs,4,Kolind,"F_Kristian_Herget,_Ebeltoft","Kristian Herget, Ebeltoft",SF - Socialistisk Folkeparti,0
+Syddjurs,4,Kolind,"F_Karin_Alsgård_Jensen,_Tirstrup","Karin Alsgård Jensen, Tirstrup",SF - Socialistisk Folkeparti,0
+Syddjurs,4,Kolind,"F_Elisabeth_Rasmussen,_Hyllested","Elisabeth Rasmussen, Hyllested",SF - Socialistisk Folkeparti,0
+Syddjurs,4,Kolind,"F_Jørgen_Ringgaard,_Stabrand","Jørgen Ringgaard, Stabrand",SF - Socialistisk Folkeparti,1
+Syddjurs,4,Kolind,O_Listestemmer,Listestemmer,Dansk Folkeparti,33
+Syddjurs,4,Kolind,"O_Grethe_Møgelvang,_Mørke","Grethe Møgelvang, Mørke",Dansk Folkeparti,13
+Syddjurs,4,Kolind,"O_Kathrine_Birkedahl,_Thorsager","Kathrine Birkedahl, Thorsager",Dansk Folkeparti,8
+Syddjurs,4,Kolind,"O_Peter_Bachmann,_Ebeltoft","Peter Bachmann, Ebeltoft",Dansk Folkeparti,0
+Syddjurs,4,Kolind,"O_Gert_Svendsen,_Søby","Gert Svendsen, Søby",Dansk Folkeparti,0
+Syddjurs,4,Kolind,"O_Ken_Hansen,_Ryomgård","Ken Hansen, Ryomgård",Dansk Folkeparti,6
+Syddjurs,4,Kolind,"O_Edgar_Wolff,_Ebeltoft","Edgar Wolff, Ebeltoft",Dansk Folkeparti,0
+Syddjurs,4,Kolind,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",49
+Syddjurs,4,Kolind,"V_Claus_Wistoft,_Kolind","Claus Wistoft, Kolind","Venstre, Danmarks Liberale Parti",403
+Syddjurs,4,Kolind,"V_Jørgen_Ivar_Brus_Mikkelsen,_Ebelto","Jørgen Ivar Brus Mikkelsen, Ebelto","Venstre, Danmarks Liberale Parti",4
+Syddjurs,4,Kolind,"V_Gunnar_Sørensen,_Vrinners","Gunnar Sørensen, Vrinners","Venstre, Danmarks Liberale Parti",2
+Syddjurs,4,Kolind,"V_Christoffer_Pedersen,_Rønde","Christoffer Pedersen, Rønde","Venstre, Danmarks Liberale Parti",9
+Syddjurs,4,Kolind,"V_Marianne_Kirkegaard,_Hornslet","Marianne Kirkegaard, Hornslet","Venstre, Danmarks Liberale Parti",17
+Syddjurs,4,Kolind,"V_Riber_Hog_Anthonsen,_Mørke","Riber Hog Anthonsen, Mørke","Venstre, Danmarks Liberale Parti",15
+Syddjurs,4,Kolind,"V_Henriette_Qvist_Eriksen,_Hornslet","Henriette Qvist Eriksen, Hornslet","Venstre, Danmarks Liberale Parti",1
+Syddjurs,4,Kolind,"V_Birthe_Moe_Laursen,_Mørke","Birthe Moe Laursen, Mørke","Venstre, Danmarks Liberale Parti",3
+Syddjurs,4,Kolind,"V_Søren_Høg,_Ebeltoft","Søren Høg, Ebeltoft","Venstre, Danmarks Liberale Parti",0
+Syddjurs,4,Kolind,"V_Jens_Bjørn_Andersen,_Mols","Jens Bjørn Andersen, Mols","Venstre, Danmarks Liberale Parti",2
+Syddjurs,4,Kolind,"V_Else_Marie_Høgh,_Hornslet","Else Marie Høgh, Hornslet","Venstre, Danmarks Liberale Parti",2
+Syddjurs,4,Kolind,"V_Hans_Jørgensen,_Mols","Hans Jørgensen, Mols","Venstre, Danmarks Liberale Parti",1
+Syddjurs,4,Kolind,"V_Peter_Krog-Meyer,_Rønde","Peter Krog-Meyer, Rønde","Venstre, Danmarks Liberale Parti",3
+Syddjurs,4,Kolind,"V_Carsten_K._Bryrup,_Nimtofte","Carsten K. Bryrup, Nimtofte","Venstre, Danmarks Liberale Parti",5
+Syddjurs,4,Kolind,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,36
+Syddjurs,4,Kolind,"Ø_Jesper_Yde_Knudsen,_Rønde","Jesper Yde Knudsen, Rønde",Enhedslisten - De Rød-Grønne,24
+Syddjurs,4,Kolind,"Ø_Niels_Peter_Mortensen,_Ebeltoft","Niels Peter Mortensen, Ebeltoft",Enhedslisten - De Rød-Grønne,6
+Syddjurs,4,Kolind,"Ø_Randi_Jepsen,_Mols","Randi Jepsen, Mols",Enhedslisten - De Rød-Grønne,5
+Syddjurs,4,Kolind,"Ø_Mohammad_Steitan,_Hornslet","Mohammad Steitan, Hornslet",Enhedslisten - De Rød-Grønne,0
+Syddjurs,4,Kolind,"Ø_Steffen_Østergaard,_Ebeltoft","Steffen Østergaard, Ebeltoft",Enhedslisten - De Rød-Grønne,0
+Syddjurs,4,Kolind,"Ø_Helle_Nørgaard,_Nødager","Helle Nørgaard, Nødager",Enhedslisten - De Rød-Grønne,10
+Syddjurs,4,Kolind,"Ø_Thøger_Trold_Pauli,_Thorsager","Thøger Trold Pauli, Thorsager",Enhedslisten - De Rød-Grønne,8
+Syddjurs,4,Kolind,"Ø_Jens_Christian_Nielsen,_Feldballe","Jens Christian Nielsen, Feldballe",Enhedslisten - De Rød-Grønne,1
+Syddjurs,4,Kolind,Å_Listestemmer,Listestemmer,Alternativet,6
+Syddjurs,4,Kolind,Å_Mette_Refshauge_Foged,Mette Refshauge Foged,Alternativet,25
+Syddjurs,4,Kolind,Å_Kasper_J._Bergman-Coates,Kasper J. Bergman-Coates,Alternativet,10
+Syddjurs,5,Ryomgård,A_Listestemmer,Listestemmer,Socialdemokratiet,98
+Syddjurs,5,Ryomgård,"A_Michael_Stegger_Jensen,_Ryomgård","Michael Stegger Jensen, Ryomgård",Socialdemokratiet,592
+Syddjurs,5,Ryomgård,"A_Christian_Haubuf,_Ebeltoft","Christian Haubuf, Ebeltoft",Socialdemokratiet,5
+Syddjurs,5,Ryomgård,"A_Michael_Aakjær,_Hornslet","Michael Aakjær, Hornslet",Socialdemokratiet,6
+Syddjurs,5,Ryomgård,"A_Anita_Søholm,_Mols","Anita Søholm, Mols",Socialdemokratiet,9
+Syddjurs,5,Ryomgård,"A_Ole_S._Hansen,_Mørke","Ole S. Hansen, Mørke",Socialdemokratiet,7
+Syddjurs,5,Ryomgård,"A_Jan_Fischer,_Hornslet","Jan Fischer, Hornslet",Socialdemokratiet,0
+Syddjurs,5,Ryomgård,"A_Linda_Brask,_Ebeltoft","Linda Brask, Ebeltoft",Socialdemokratiet,3
+Syddjurs,5,Ryomgård,"A_Lene_Straarup,_Mols","Lene Straarup, Mols",Socialdemokratiet,3
+Syddjurs,5,Ryomgård,"A_Sidse_G._Vangsted,_Pindstrup","Sidse G. Vangsted, Pindstrup",Socialdemokratiet,201
+Syddjurs,5,Ryomgård,"A_Erling_Mikkelsen,_Rønde","Erling Mikkelsen, Rønde",Socialdemokratiet,2
+Syddjurs,5,Ryomgård,"A_Casper_Grud_Nielsen,_Ugelbølle","Casper Grud Nielsen, Ugelbølle",Socialdemokratiet,1
+Syddjurs,5,Ryomgård,"A_Jan_Bruno_Jensen,_Rønde","Jan Bruno Jensen, Rønde",Socialdemokratiet,9
+Syddjurs,5,Ryomgård,"A_Verner_Møller,_Feldballe","Verner Møller, Feldballe",Socialdemokratiet,2
+Syddjurs,5,Ryomgård,"A_Lars_Breum,_Ådalen","Lars Breum, Ådalen",Socialdemokratiet,3
+Syddjurs,5,Ryomgård,B_Listestemmer,Listestemmer,Radikale Venstre,19
+Syddjurs,5,Ryomgård,"B_Heine_Skovbak_Iversen,_Ebeltoft","Heine Skovbak Iversen, Ebeltoft",Radikale Venstre,17
+Syddjurs,5,Ryomgård,"B_Kari_Baklund,_Femmøller","Kari Baklund, Femmøller",Radikale Venstre,8
+Syddjurs,5,Ryomgård,"B_Bjarke_Jensen,_Ådalen","Bjarke Jensen, Ådalen",Radikale Venstre,14
+Syddjurs,5,Ryomgård,"B_Søren_Høgsberg_Handberg,_Rønde","Søren Høgsberg Handberg, Rønde",Radikale Venstre,0
+Syddjurs,5,Ryomgård,"B_Victoria_Maddock,_Ebeltoft","Victoria Maddock, Ebeltoft",Radikale Venstre,0
+Syddjurs,5,Ryomgård,"B_Louise_Bové_Villadsen,_Hornslet","Louise Bové Villadsen, Hornslet",Radikale Venstre,1
+Syddjurs,5,Ryomgård,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,78
+Syddjurs,5,Ryomgård,"C_Tommy_Bøgehøj,_Ebeltoft","Tommy Bøgehøj, Ebeltoft",Det Konservative Folkeparti,20
+Syddjurs,5,Ryomgård,"C_Kasper_Kolstrup_Møller,_Kolind","Kasper Kolstrup Møller, Kolind",Det Konservative Folkeparti,128
+Syddjurs,5,Ryomgård,"C_Kirstine_Kahr_Kvorning,_Grønfeld","Kirstine Kahr Kvorning, Grønfeld",Det Konservative Folkeparti,16
+Syddjurs,5,Ryomgård,"C_Jan_Aude,_Hornslet","Jan Aude, Hornslet",Det Konservative Folkeparti,4
+Syddjurs,5,Ryomgård,"C_Kristian_Damsgaard,_Rønde","Kristian Damsgaard, Rønde",Det Konservative Folkeparti,9
+Syddjurs,5,Ryomgård,"C_Bjørn_Jensen,_Thorsager","Bjørn Jensen, Thorsager",Det Konservative Folkeparti,21
+Syddjurs,5,Ryomgård,"C_Kim_Withen,_Helgenæs","Kim Withen, Helgenæs",Det Konservative Folkeparti,1
+Syddjurs,5,Ryomgård,"C_Dorthe_Le_Fevre,_Ebeltoft","Dorthe Le Fevre, Ebeltoft",Det Konservative Folkeparti,2
+Syddjurs,5,Ryomgård,"C_Diana_Bang,_Ryomgård","Diana Bang, Ryomgård",Det Konservative Folkeparti,25
+Syddjurs,5,Ryomgård,"C_Lone_Myrwick,_Ugelbølle","Lone Myrwick, Ugelbølle",Det Konservative Folkeparti,1
+Syddjurs,5,Ryomgård,"C_Søren_Maarslet,_Ebeltoft","Søren Maarslet, Ebeltoft",Det Konservative Folkeparti,0
+Syddjurs,5,Ryomgård,"C_Niels_Aakjær_Holst,_Rønde","Niels Aakjær Holst, Rønde",Det Konservative Folkeparti,0
+Syddjurs,5,Ryomgård,"C_Steen_Myrwick,_Ugelbølle","Steen Myrwick, Ugelbølle",Det Konservative Folkeparti,0
+Syddjurs,5,Ryomgård,"C_Lars_Bjørn,_Ugelbølle","Lars Bjørn, Ugelbølle",Det Konservative Folkeparti,3
+Syddjurs,5,Ryomgård,D_Listestemmer,Listestemmer,Nye Borgerlige,32
+Syddjurs,5,Ryomgård,"D_Bent_Schouw,_Femmøller","Bent Schouw, Femmøller",Nye Borgerlige,16
+Syddjurs,5,Ryomgård,"D_Laila_Sortland,_Ryomgård","Laila Sortland, Ryomgård",Nye Borgerlige,85
+Syddjurs,5,Ryomgård,"D_Jan_Jensen,_Ryomgård","Jan Jensen, Ryomgård",Nye Borgerlige,9
+Syddjurs,5,Ryomgård,"D_Katalin_Deme,_Ryomgård","Katalin Deme, Ryomgård",Nye Borgerlige,2
+Syddjurs,5,Ryomgård,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,34
+Syddjurs,5,Ryomgård,"F_Kirstine_Bille,_Balle","Kirstine Bille, Balle",SF - Socialistisk Folkeparti,134
+Syddjurs,5,Ryomgård,"F_Kim_Lykke_Jensen,_Termestrup","Kim Lykke Jensen, Termestrup",SF - Socialistisk Folkeparti,22
+Syddjurs,5,Ryomgård,"F_Morten_Siig_Henriksen,_Hornslet","Morten Siig Henriksen, Hornslet",SF - Socialistisk Folkeparti,13
+Syddjurs,5,Ryomgård,"F_Jens_Rasmussen,_Dråby","Jens Rasmussen, Dråby",SF - Socialistisk Folkeparti,4
+Syddjurs,5,Ryomgård,"F_Helle_Røge,_Ugelbølle","Helle Røge, Ugelbølle",SF - Socialistisk Folkeparti,1
+Syddjurs,5,Ryomgård,"F_Jakob_Feldtfos_Christensen,_Ryomgå","Jakob Feldtfos Christensen, Ryomgå",SF - Socialistisk Folkeparti,33
+Syddjurs,5,Ryomgård,"F_Kasper_Nissen,_Knebel","Kasper Nissen, Knebel",SF - Socialistisk Folkeparti,5
+Syddjurs,5,Ryomgård,"F_Ingrid_Boldsen,_Kolind","Ingrid Boldsen, Kolind",SF - Socialistisk Folkeparti,1
+Syddjurs,5,Ryomgård,"F_Kristian_Herget,_Ebeltoft","Kristian Herget, Ebeltoft",SF - Socialistisk Folkeparti,1
+Syddjurs,5,Ryomgård,"F_Karin_Alsgård_Jensen,_Tirstrup","Karin Alsgård Jensen, Tirstrup",SF - Socialistisk Folkeparti,2
+Syddjurs,5,Ryomgård,"F_Elisabeth_Rasmussen,_Hyllested","Elisabeth Rasmussen, Hyllested",SF - Socialistisk Folkeparti,0
+Syddjurs,5,Ryomgård,"F_Jørgen_Ringgaard,_Stabrand","Jørgen Ringgaard, Stabrand",SF - Socialistisk Folkeparti,0
+Syddjurs,5,Ryomgård,O_Listestemmer,Listestemmer,Dansk Folkeparti,26
+Syddjurs,5,Ryomgård,"O_Grethe_Møgelvang,_Mørke","Grethe Møgelvang, Mørke",Dansk Folkeparti,16
+Syddjurs,5,Ryomgård,"O_Kathrine_Birkedahl,_Thorsager","Kathrine Birkedahl, Thorsager",Dansk Folkeparti,15
+Syddjurs,5,Ryomgård,"O_Peter_Bachmann,_Ebeltoft","Peter Bachmann, Ebeltoft",Dansk Folkeparti,0
+Syddjurs,5,Ryomgård,"O_Gert_Svendsen,_Søby","Gert Svendsen, Søby",Dansk Folkeparti,0
+Syddjurs,5,Ryomgård,"O_Ken_Hansen,_Ryomgård","Ken Hansen, Ryomgård",Dansk Folkeparti,21
+Syddjurs,5,Ryomgård,"O_Edgar_Wolff,_Ebeltoft","Edgar Wolff, Ebeltoft",Dansk Folkeparti,0
+Syddjurs,5,Ryomgård,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",83
+Syddjurs,5,Ryomgård,"V_Claus_Wistoft,_Kolind","Claus Wistoft, Kolind","Venstre, Danmarks Liberale Parti",300
+Syddjurs,5,Ryomgård,"V_Jørgen_Ivar_Brus_Mikkelsen,_Ebelto","Jørgen Ivar Brus Mikkelsen, Ebelto","Venstre, Danmarks Liberale Parti",4
+Syddjurs,5,Ryomgård,"V_Gunnar_Sørensen,_Vrinners","Gunnar Sørensen, Vrinners","Venstre, Danmarks Liberale Parti",1
+Syddjurs,5,Ryomgård,"V_Christoffer_Pedersen,_Rønde","Christoffer Pedersen, Rønde","Venstre, Danmarks Liberale Parti",2
+Syddjurs,5,Ryomgård,"V_Marianne_Kirkegaard,_Hornslet","Marianne Kirkegaard, Hornslet","Venstre, Danmarks Liberale Parti",14
+Syddjurs,5,Ryomgård,"V_Riber_Hog_Anthonsen,_Mørke","Riber Hog Anthonsen, Mørke","Venstre, Danmarks Liberale Parti",15
+Syddjurs,5,Ryomgård,"V_Henriette_Qvist_Eriksen,_Hornslet","Henriette Qvist Eriksen, Hornslet","Venstre, Danmarks Liberale Parti",5
+Syddjurs,5,Ryomgård,"V_Birthe_Moe_Laursen,_Mørke","Birthe Moe Laursen, Mørke","Venstre, Danmarks Liberale Parti",7
+Syddjurs,5,Ryomgård,"V_Søren_Høg,_Ebeltoft","Søren Høg, Ebeltoft","Venstre, Danmarks Liberale Parti",0
+Syddjurs,5,Ryomgård,"V_Jens_Bjørn_Andersen,_Mols","Jens Bjørn Andersen, Mols","Venstre, Danmarks Liberale Parti",2
+Syddjurs,5,Ryomgård,"V_Else_Marie_Høgh,_Hornslet","Else Marie Høgh, Hornslet","Venstre, Danmarks Liberale Parti",10
+Syddjurs,5,Ryomgård,"V_Hans_Jørgensen,_Mols","Hans Jørgensen, Mols","Venstre, Danmarks Liberale Parti",1
+Syddjurs,5,Ryomgård,"V_Peter_Krog-Meyer,_Rønde","Peter Krog-Meyer, Rønde","Venstre, Danmarks Liberale Parti",4
+Syddjurs,5,Ryomgård,"V_Carsten_K._Bryrup,_Nimtofte","Carsten K. Bryrup, Nimtofte","Venstre, Danmarks Liberale Parti",50
+Syddjurs,5,Ryomgård,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,44
+Syddjurs,5,Ryomgård,"Ø_Jesper_Yde_Knudsen,_Rønde","Jesper Yde Knudsen, Rønde",Enhedslisten - De Rød-Grønne,36
+Syddjurs,5,Ryomgård,"Ø_Niels_Peter_Mortensen,_Ebeltoft","Niels Peter Mortensen, Ebeltoft",Enhedslisten - De Rød-Grønne,2
+Syddjurs,5,Ryomgård,"Ø_Randi_Jepsen,_Mols","Randi Jepsen, Mols",Enhedslisten - De Rød-Grønne,5
+Syddjurs,5,Ryomgård,"Ø_Mohammad_Steitan,_Hornslet","Mohammad Steitan, Hornslet",Enhedslisten - De Rød-Grønne,20
+Syddjurs,5,Ryomgård,"Ø_Steffen_Østergaard,_Ebeltoft","Steffen Østergaard, Ebeltoft",Enhedslisten - De Rød-Grønne,3
+Syddjurs,5,Ryomgård,"Ø_Helle_Nørgaard,_Nødager","Helle Nørgaard, Nødager",Enhedslisten - De Rød-Grønne,13
+Syddjurs,5,Ryomgård,"Ø_Thøger_Trold_Pauli,_Thorsager","Thøger Trold Pauli, Thorsager",Enhedslisten - De Rød-Grønne,6
+Syddjurs,5,Ryomgård,"Ø_Jens_Christian_Nielsen,_Feldballe","Jens Christian Nielsen, Feldballe",Enhedslisten - De Rød-Grønne,2
+Syddjurs,5,Ryomgård,Å_Listestemmer,Listestemmer,Alternativet,4
+Syddjurs,5,Ryomgård,Å_Mette_Refshauge_Foged,Mette Refshauge Foged,Alternativet,28
+Syddjurs,5,Ryomgård,Å_Kasper_J._Bergman-Coates,Kasper J. Bergman-Coates,Alternativet,2
+Syddjurs,6,Hornslet,A_Listestemmer,Listestemmer,Socialdemokratiet,301
+Syddjurs,6,Hornslet,"A_Michael_Stegger_Jensen,_Ryomgård","Michael Stegger Jensen, Ryomgård",Socialdemokratiet,228
+Syddjurs,6,Hornslet,"A_Christian_Haubuf,_Ebeltoft","Christian Haubuf, Ebeltoft",Socialdemokratiet,1
+Syddjurs,6,Hornslet,"A_Michael_Aakjær,_Hornslet","Michael Aakjær, Hornslet",Socialdemokratiet,340
+Syddjurs,6,Hornslet,"A_Anita_Søholm,_Mols","Anita Søholm, Mols",Socialdemokratiet,36
+Syddjurs,6,Hornslet,"A_Ole_S._Hansen,_Mørke","Ole S. Hansen, Mørke",Socialdemokratiet,42
+Syddjurs,6,Hornslet,"A_Jan_Fischer,_Hornslet","Jan Fischer, Hornslet",Socialdemokratiet,260
+Syddjurs,6,Hornslet,"A_Linda_Brask,_Ebeltoft","Linda Brask, Ebeltoft",Socialdemokratiet,13
+Syddjurs,6,Hornslet,"A_Lene_Straarup,_Mols","Lene Straarup, Mols",Socialdemokratiet,2
+Syddjurs,6,Hornslet,"A_Sidse_G._Vangsted,_Pindstrup","Sidse G. Vangsted, Pindstrup",Socialdemokratiet,28
+Syddjurs,6,Hornslet,"A_Erling_Mikkelsen,_Rønde","Erling Mikkelsen, Rønde",Socialdemokratiet,2
+Syddjurs,6,Hornslet,"A_Casper_Grud_Nielsen,_Ugelbølle","Casper Grud Nielsen, Ugelbølle",Socialdemokratiet,16
+Syddjurs,6,Hornslet,"A_Jan_Bruno_Jensen,_Rønde","Jan Bruno Jensen, Rønde",Socialdemokratiet,13
+Syddjurs,6,Hornslet,"A_Verner_Møller,_Feldballe","Verner Møller, Feldballe",Socialdemokratiet,3
+Syddjurs,6,Hornslet,"A_Lars_Breum,_Ådalen","Lars Breum, Ådalen",Socialdemokratiet,30
+Syddjurs,6,Hornslet,B_Listestemmer,Listestemmer,Radikale Venstre,34
+Syddjurs,6,Hornslet,"B_Heine_Skovbak_Iversen,_Ebeltoft","Heine Skovbak Iversen, Ebeltoft",Radikale Venstre,44
+Syddjurs,6,Hornslet,"B_Kari_Baklund,_Femmøller","Kari Baklund, Femmøller",Radikale Venstre,7
+Syddjurs,6,Hornslet,"B_Bjarke_Jensen,_Ådalen","Bjarke Jensen, Ådalen",Radikale Venstre,38
+Syddjurs,6,Hornslet,"B_Søren_Høgsberg_Handberg,_Rønde","Søren Høgsberg Handberg, Rønde",Radikale Venstre,0
+Syddjurs,6,Hornslet,"B_Victoria_Maddock,_Ebeltoft","Victoria Maddock, Ebeltoft",Radikale Venstre,0
+Syddjurs,6,Hornslet,"B_Louise_Bové_Villadsen,_Hornslet","Louise Bové Villadsen, Hornslet",Radikale Venstre,60
+Syddjurs,6,Hornslet,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,147
+Syddjurs,6,Hornslet,"C_Tommy_Bøgehøj,_Ebeltoft","Tommy Bøgehøj, Ebeltoft",Det Konservative Folkeparti,48
+Syddjurs,6,Hornslet,"C_Kasper_Kolstrup_Møller,_Kolind","Kasper Kolstrup Møller, Kolind",Det Konservative Folkeparti,44
+Syddjurs,6,Hornslet,"C_Kirstine_Kahr_Kvorning,_Grønfeld","Kirstine Kahr Kvorning, Grønfeld",Det Konservative Folkeparti,52
+Syddjurs,6,Hornslet,"C_Jan_Aude,_Hornslet","Jan Aude, Hornslet",Det Konservative Folkeparti,439
+Syddjurs,6,Hornslet,"C_Kristian_Damsgaard,_Rønde","Kristian Damsgaard, Rønde",Det Konservative Folkeparti,16
+Syddjurs,6,Hornslet,"C_Bjørn_Jensen,_Thorsager","Bjørn Jensen, Thorsager",Det Konservative Folkeparti,25
+Syddjurs,6,Hornslet,"C_Kim_Withen,_Helgenæs","Kim Withen, Helgenæs",Det Konservative Folkeparti,5
+Syddjurs,6,Hornslet,"C_Dorthe_Le_Fevre,_Ebeltoft","Dorthe Le Fevre, Ebeltoft",Det Konservative Folkeparti,2
+Syddjurs,6,Hornslet,"C_Diana_Bang,_Ryomgård","Diana Bang, Ryomgård",Det Konservative Folkeparti,1
+Syddjurs,6,Hornslet,"C_Lone_Myrwick,_Ugelbølle","Lone Myrwick, Ugelbølle",Det Konservative Folkeparti,2
+Syddjurs,6,Hornslet,"C_Søren_Maarslet,_Ebeltoft","Søren Maarslet, Ebeltoft",Det Konservative Folkeparti,1
+Syddjurs,6,Hornslet,"C_Niels_Aakjær_Holst,_Rønde","Niels Aakjær Holst, Rønde",Det Konservative Folkeparti,4
+Syddjurs,6,Hornslet,"C_Steen_Myrwick,_Ugelbølle","Steen Myrwick, Ugelbølle",Det Konservative Folkeparti,0
+Syddjurs,6,Hornslet,"C_Lars_Bjørn,_Ugelbølle","Lars Bjørn, Ugelbølle",Det Konservative Folkeparti,21
+Syddjurs,6,Hornslet,D_Listestemmer,Listestemmer,Nye Borgerlige,73
+Syddjurs,6,Hornslet,"D_Bent_Schouw,_Femmøller","Bent Schouw, Femmøller",Nye Borgerlige,15
+Syddjurs,6,Hornslet,"D_Laila_Sortland,_Ryomgård","Laila Sortland, Ryomgård",Nye Borgerlige,68
+Syddjurs,6,Hornslet,"D_Jan_Jensen,_Ryomgård","Jan Jensen, Ryomgård",Nye Borgerlige,8
+Syddjurs,6,Hornslet,"D_Katalin_Deme,_Ryomgård","Katalin Deme, Ryomgård",Nye Borgerlige,2
+Syddjurs,6,Hornslet,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,84
+Syddjurs,6,Hornslet,"F_Kirstine_Bille,_Balle","Kirstine Bille, Balle",SF - Socialistisk Folkeparti,146
+Syddjurs,6,Hornslet,"F_Kim_Lykke_Jensen,_Termestrup","Kim Lykke Jensen, Termestrup",SF - Socialistisk Folkeparti,96
+Syddjurs,6,Hornslet,"F_Morten_Siig_Henriksen,_Hornslet","Morten Siig Henriksen, Hornslet",SF - Socialistisk Folkeparti,111
+Syddjurs,6,Hornslet,"F_Jens_Rasmussen,_Dråby","Jens Rasmussen, Dråby",SF - Socialistisk Folkeparti,4
+Syddjurs,6,Hornslet,"F_Helle_Røge,_Ugelbølle","Helle Røge, Ugelbølle",SF - Socialistisk Folkeparti,65
+Syddjurs,6,Hornslet,"F_Jakob_Feldtfos_Christensen,_Ryomgå","Jakob Feldtfos Christensen, Ryomgå",SF - Socialistisk Folkeparti,3
+Syddjurs,6,Hornslet,"F_Kasper_Nissen,_Knebel","Kasper Nissen, Knebel",SF - Socialistisk Folkeparti,3
+Syddjurs,6,Hornslet,"F_Ingrid_Boldsen,_Kolind","Ingrid Boldsen, Kolind",SF - Socialistisk Folkeparti,0
+Syddjurs,6,Hornslet,"F_Kristian_Herget,_Ebeltoft","Kristian Herget, Ebeltoft",SF - Socialistisk Folkeparti,7
+Syddjurs,6,Hornslet,"F_Karin_Alsgård_Jensen,_Tirstrup","Karin Alsgård Jensen, Tirstrup",SF - Socialistisk Folkeparti,4
+Syddjurs,6,Hornslet,"F_Elisabeth_Rasmussen,_Hyllested","Elisabeth Rasmussen, Hyllested",SF - Socialistisk Folkeparti,0
+Syddjurs,6,Hornslet,"F_Jørgen_Ringgaard,_Stabrand","Jørgen Ringgaard, Stabrand",SF - Socialistisk Folkeparti,0
+Syddjurs,6,Hornslet,O_Listestemmer,Listestemmer,Dansk Folkeparti,67
+Syddjurs,6,Hornslet,"O_Grethe_Møgelvang,_Mørke","Grethe Møgelvang, Mørke",Dansk Folkeparti,24
+Syddjurs,6,Hornslet,"O_Kathrine_Birkedahl,_Thorsager","Kathrine Birkedahl, Thorsager",Dansk Folkeparti,18
+Syddjurs,6,Hornslet,"O_Peter_Bachmann,_Ebeltoft","Peter Bachmann, Ebeltoft",Dansk Folkeparti,1
+Syddjurs,6,Hornslet,"O_Gert_Svendsen,_Søby","Gert Svendsen, Søby",Dansk Folkeparti,18
+Syddjurs,6,Hornslet,"O_Ken_Hansen,_Ryomgård","Ken Hansen, Ryomgård",Dansk Folkeparti,1
+Syddjurs,6,Hornslet,"O_Edgar_Wolff,_Ebeltoft","Edgar Wolff, Ebeltoft",Dansk Folkeparti,0
+Syddjurs,6,Hornslet,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",154
+Syddjurs,6,Hornslet,"V_Claus_Wistoft,_Kolind","Claus Wistoft, Kolind","Venstre, Danmarks Liberale Parti",289
+Syddjurs,6,Hornslet,"V_Jørgen_Ivar_Brus_Mikkelsen,_Ebelto","Jørgen Ivar Brus Mikkelsen, Ebelto","Venstre, Danmarks Liberale Parti",20
+Syddjurs,6,Hornslet,"V_Gunnar_Sørensen,_Vrinners","Gunnar Sørensen, Vrinners","Venstre, Danmarks Liberale Parti",6
+Syddjurs,6,Hornslet,"V_Christoffer_Pedersen,_Rønde","Christoffer Pedersen, Rønde","Venstre, Danmarks Liberale Parti",31
+Syddjurs,6,Hornslet,"V_Marianne_Kirkegaard,_Hornslet","Marianne Kirkegaard, Hornslet","Venstre, Danmarks Liberale Parti",132
+Syddjurs,6,Hornslet,"V_Riber_Hog_Anthonsen,_Mørke","Riber Hog Anthonsen, Mørke","Venstre, Danmarks Liberale Parti",55
+Syddjurs,6,Hornslet,"V_Henriette_Qvist_Eriksen,_Hornslet","Henriette Qvist Eriksen, Hornslet","Venstre, Danmarks Liberale Parti",198
+Syddjurs,6,Hornslet,"V_Birthe_Moe_Laursen,_Mørke","Birthe Moe Laursen, Mørke","Venstre, Danmarks Liberale Parti",32
+Syddjurs,6,Hornslet,"V_Søren_Høg,_Ebeltoft","Søren Høg, Ebeltoft","Venstre, Danmarks Liberale Parti",0
+Syddjurs,6,Hornslet,"V_Jens_Bjørn_Andersen,_Mols","Jens Bjørn Andersen, Mols","Venstre, Danmarks Liberale Parti",6
+Syddjurs,6,Hornslet,"V_Else_Marie_Høgh,_Hornslet","Else Marie Høgh, Hornslet","Venstre, Danmarks Liberale Parti",83
+Syddjurs,6,Hornslet,"V_Hans_Jørgensen,_Mols","Hans Jørgensen, Mols","Venstre, Danmarks Liberale Parti",7
+Syddjurs,6,Hornslet,"V_Peter_Krog-Meyer,_Rønde","Peter Krog-Meyer, Rønde","Venstre, Danmarks Liberale Parti",0
+Syddjurs,6,Hornslet,"V_Carsten_K._Bryrup,_Nimtofte","Carsten K. Bryrup, Nimtofte","Venstre, Danmarks Liberale Parti",2
+Syddjurs,6,Hornslet,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,96
+Syddjurs,6,Hornslet,"Ø_Jesper_Yde_Knudsen,_Rønde","Jesper Yde Knudsen, Rønde",Enhedslisten - De Rød-Grønne,82
+Syddjurs,6,Hornslet,"Ø_Niels_Peter_Mortensen,_Ebeltoft","Niels Peter Mortensen, Ebeltoft",Enhedslisten - De Rød-Grønne,2
+Syddjurs,6,Hornslet,"Ø_Randi_Jepsen,_Mols","Randi Jepsen, Mols",Enhedslisten - De Rød-Grønne,14
+Syddjurs,6,Hornslet,"Ø_Mohammad_Steitan,_Hornslet","Mohammad Steitan, Hornslet",Enhedslisten - De Rød-Grønne,58
+Syddjurs,6,Hornslet,"Ø_Steffen_Østergaard,_Ebeltoft","Steffen Østergaard, Ebeltoft",Enhedslisten - De Rød-Grønne,3
+Syddjurs,6,Hornslet,"Ø_Helle_Nørgaard,_Nødager","Helle Nørgaard, Nødager",Enhedslisten - De Rød-Grønne,11
+Syddjurs,6,Hornslet,"Ø_Thøger_Trold_Pauli,_Thorsager","Thøger Trold Pauli, Thorsager",Enhedslisten - De Rød-Grønne,2
+Syddjurs,6,Hornslet,"Ø_Jens_Christian_Nielsen,_Feldballe","Jens Christian Nielsen, Feldballe",Enhedslisten - De Rød-Grønne,1
+Syddjurs,6,Hornslet,Å_Listestemmer,Listestemmer,Alternativet,12
+Syddjurs,6,Hornslet,Å_Mette_Refshauge_Foged,Mette Refshauge Foged,Alternativet,56
+Syddjurs,6,Hornslet,Å_Kasper_J._Bergman-Coates,Kasper J. Bergman-Coates,Alternativet,12
+Syddjurs,7,Mørke,A_Listestemmer,Listestemmer,Socialdemokratiet,86
+Syddjurs,7,Mørke,"A_Michael_Stegger_Jensen,_Ryomgård","Michael Stegger Jensen, Ryomgård",Socialdemokratiet,63
+Syddjurs,7,Mørke,"A_Christian_Haubuf,_Ebeltoft","Christian Haubuf, Ebeltoft",Socialdemokratiet,1
+Syddjurs,7,Mørke,"A_Michael_Aakjær,_Hornslet","Michael Aakjær, Hornslet",Socialdemokratiet,19
+Syddjurs,7,Mørke,"A_Anita_Søholm,_Mols","Anita Søholm, Mols",Socialdemokratiet,8
+Syddjurs,7,Mørke,"A_Ole_S._Hansen,_Mørke","Ole S. Hansen, Mørke",Socialdemokratiet,396
+Syddjurs,7,Mørke,"A_Jan_Fischer,_Hornslet","Jan Fischer, Hornslet",Socialdemokratiet,11
+Syddjurs,7,Mørke,"A_Linda_Brask,_Ebeltoft","Linda Brask, Ebeltoft",Socialdemokratiet,1
+Syddjurs,7,Mørke,"A_Lene_Straarup,_Mols","Lene Straarup, Mols",Socialdemokratiet,4
+Syddjurs,7,Mørke,"A_Sidse_G._Vangsted,_Pindstrup","Sidse G. Vangsted, Pindstrup",Socialdemokratiet,17
+Syddjurs,7,Mørke,"A_Erling_Mikkelsen,_Rønde","Erling Mikkelsen, Rønde",Socialdemokratiet,3
+Syddjurs,7,Mørke,"A_Casper_Grud_Nielsen,_Ugelbølle","Casper Grud Nielsen, Ugelbølle",Socialdemokratiet,4
+Syddjurs,7,Mørke,"A_Jan_Bruno_Jensen,_Rønde","Jan Bruno Jensen, Rønde",Socialdemokratiet,5
+Syddjurs,7,Mørke,"A_Verner_Møller,_Feldballe","Verner Møller, Feldballe",Socialdemokratiet,2
+Syddjurs,7,Mørke,"A_Lars_Breum,_Ådalen","Lars Breum, Ådalen",Socialdemokratiet,24
+Syddjurs,7,Mørke,B_Listestemmer,Listestemmer,Radikale Venstre,12
+Syddjurs,7,Mørke,"B_Heine_Skovbak_Iversen,_Ebeltoft","Heine Skovbak Iversen, Ebeltoft",Radikale Venstre,14
+Syddjurs,7,Mørke,"B_Kari_Baklund,_Femmøller","Kari Baklund, Femmøller",Radikale Venstre,7
+Syddjurs,7,Mørke,"B_Bjarke_Jensen,_Ådalen","Bjarke Jensen, Ådalen",Radikale Venstre,23
+Syddjurs,7,Mørke,"B_Søren_Høgsberg_Handberg,_Rønde","Søren Høgsberg Handberg, Rønde",Radikale Venstre,3
+Syddjurs,7,Mørke,"B_Victoria_Maddock,_Ebeltoft","Victoria Maddock, Ebeltoft",Radikale Venstre,0
+Syddjurs,7,Mørke,"B_Louise_Bové_Villadsen,_Hornslet","Louise Bové Villadsen, Hornslet",Radikale Venstre,5
+Syddjurs,7,Mørke,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,54
+Syddjurs,7,Mørke,"C_Tommy_Bøgehøj,_Ebeltoft","Tommy Bøgehøj, Ebeltoft",Det Konservative Folkeparti,7
+Syddjurs,7,Mørke,"C_Kasper_Kolstrup_Møller,_Kolind","Kasper Kolstrup Møller, Kolind",Det Konservative Folkeparti,15
+Syddjurs,7,Mørke,"C_Kirstine_Kahr_Kvorning,_Grønfeld","Kirstine Kahr Kvorning, Grønfeld",Det Konservative Folkeparti,12
+Syddjurs,7,Mørke,"C_Jan_Aude,_Hornslet","Jan Aude, Hornslet",Det Konservative Folkeparti,24
+Syddjurs,7,Mørke,"C_Kristian_Damsgaard,_Rønde","Kristian Damsgaard, Rønde",Det Konservative Folkeparti,8
+Syddjurs,7,Mørke,"C_Bjørn_Jensen,_Thorsager","Bjørn Jensen, Thorsager",Det Konservative Folkeparti,9
+Syddjurs,7,Mørke,"C_Kim_Withen,_Helgenæs","Kim Withen, Helgenæs",Det Konservative Folkeparti,6
+Syddjurs,7,Mørke,"C_Dorthe_Le_Fevre,_Ebeltoft","Dorthe Le Fevre, Ebeltoft",Det Konservative Folkeparti,3
+Syddjurs,7,Mørke,"C_Diana_Bang,_Ryomgård","Diana Bang, Ryomgård",Det Konservative Folkeparti,0
+Syddjurs,7,Mørke,"C_Lone_Myrwick,_Ugelbølle","Lone Myrwick, Ugelbølle",Det Konservative Folkeparti,0
+Syddjurs,7,Mørke,"C_Søren_Maarslet,_Ebeltoft","Søren Maarslet, Ebeltoft",Det Konservative Folkeparti,0
+Syddjurs,7,Mørke,"C_Niels_Aakjær_Holst,_Rønde","Niels Aakjær Holst, Rønde",Det Konservative Folkeparti,2
+Syddjurs,7,Mørke,"C_Steen_Myrwick,_Ugelbølle","Steen Myrwick, Ugelbølle",Det Konservative Folkeparti,0
+Syddjurs,7,Mørke,"C_Lars_Bjørn,_Ugelbølle","Lars Bjørn, Ugelbølle",Det Konservative Folkeparti,5
+Syddjurs,7,Mørke,D_Listestemmer,Listestemmer,Nye Borgerlige,52
+Syddjurs,7,Mørke,"D_Bent_Schouw,_Femmøller","Bent Schouw, Femmøller",Nye Borgerlige,18
+Syddjurs,7,Mørke,"D_Laila_Sortland,_Ryomgård","Laila Sortland, Ryomgård",Nye Borgerlige,43
+Syddjurs,7,Mørke,"D_Jan_Jensen,_Ryomgård","Jan Jensen, Ryomgård",Nye Borgerlige,4
+Syddjurs,7,Mørke,"D_Katalin_Deme,_Ryomgård","Katalin Deme, Ryomgård",Nye Borgerlige,4
+Syddjurs,7,Mørke,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,33
+Syddjurs,7,Mørke,"F_Kirstine_Bille,_Balle","Kirstine Bille, Balle",SF - Socialistisk Folkeparti,60
+Syddjurs,7,Mørke,"F_Kim_Lykke_Jensen,_Termestrup","Kim Lykke Jensen, Termestrup",SF - Socialistisk Folkeparti,155
+Syddjurs,7,Mørke,"F_Morten_Siig_Henriksen,_Hornslet","Morten Siig Henriksen, Hornslet",SF - Socialistisk Folkeparti,5
+Syddjurs,7,Mørke,"F_Jens_Rasmussen,_Dråby","Jens Rasmussen, Dråby",SF - Socialistisk Folkeparti,4
+Syddjurs,7,Mørke,"F_Helle_Røge,_Ugelbølle","Helle Røge, Ugelbølle",SF - Socialistisk Folkeparti,11
+Syddjurs,7,Mørke,"F_Jakob_Feldtfos_Christensen,_Ryomgå","Jakob Feldtfos Christensen, Ryomgå",SF - Socialistisk Folkeparti,0
+Syddjurs,7,Mørke,"F_Kasper_Nissen,_Knebel","Kasper Nissen, Knebel",SF - Socialistisk Folkeparti,1
+Syddjurs,7,Mørke,"F_Ingrid_Boldsen,_Kolind","Ingrid Boldsen, Kolind",SF - Socialistisk Folkeparti,3
+Syddjurs,7,Mørke,"F_Kristian_Herget,_Ebeltoft","Kristian Herget, Ebeltoft",SF - Socialistisk Folkeparti,5
+Syddjurs,7,Mørke,"F_Karin_Alsgård_Jensen,_Tirstrup","Karin Alsgård Jensen, Tirstrup",SF - Socialistisk Folkeparti,1
+Syddjurs,7,Mørke,"F_Elisabeth_Rasmussen,_Hyllested","Elisabeth Rasmussen, Hyllested",SF - Socialistisk Folkeparti,0
+Syddjurs,7,Mørke,"F_Jørgen_Ringgaard,_Stabrand","Jørgen Ringgaard, Stabrand",SF - Socialistisk Folkeparti,0
+Syddjurs,7,Mørke,O_Listestemmer,Listestemmer,Dansk Folkeparti,28
+Syddjurs,7,Mørke,"O_Grethe_Møgelvang,_Mørke","Grethe Møgelvang, Mørke",Dansk Folkeparti,52
+Syddjurs,7,Mørke,"O_Kathrine_Birkedahl,_Thorsager","Kathrine Birkedahl, Thorsager",Dansk Folkeparti,11
+Syddjurs,7,Mørke,"O_Peter_Bachmann,_Ebeltoft","Peter Bachmann, Ebeltoft",Dansk Folkeparti,0
+Syddjurs,7,Mørke,"O_Gert_Svendsen,_Søby","Gert Svendsen, Søby",Dansk Folkeparti,6
+Syddjurs,7,Mørke,"O_Ken_Hansen,_Ryomgård","Ken Hansen, Ryomgård",Dansk Folkeparti,0
+Syddjurs,7,Mørke,"O_Edgar_Wolff,_Ebeltoft","Edgar Wolff, Ebeltoft",Dansk Folkeparti,0
+Syddjurs,7,Mørke,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",52
+Syddjurs,7,Mørke,"V_Claus_Wistoft,_Kolind","Claus Wistoft, Kolind","Venstre, Danmarks Liberale Parti",152
+Syddjurs,7,Mørke,"V_Jørgen_Ivar_Brus_Mikkelsen,_Ebelto","Jørgen Ivar Brus Mikkelsen, Ebelto","Venstre, Danmarks Liberale Parti",3
+Syddjurs,7,Mørke,"V_Gunnar_Sørensen,_Vrinners","Gunnar Sørensen, Vrinners","Venstre, Danmarks Liberale Parti",2
+Syddjurs,7,Mørke,"V_Christoffer_Pedersen,_Rønde","Christoffer Pedersen, Rønde","Venstre, Danmarks Liberale Parti",17
+Syddjurs,7,Mørke,"V_Marianne_Kirkegaard,_Hornslet","Marianne Kirkegaard, Hornslet","Venstre, Danmarks Liberale Parti",11
+Syddjurs,7,Mørke,"V_Riber_Hog_Anthonsen,_Mørke","Riber Hog Anthonsen, Mørke","Venstre, Danmarks Liberale Parti",169
+Syddjurs,7,Mørke,"V_Henriette_Qvist_Eriksen,_Hornslet","Henriette Qvist Eriksen, Hornslet","Venstre, Danmarks Liberale Parti",15
+Syddjurs,7,Mørke,"V_Birthe_Moe_Laursen,_Mørke","Birthe Moe Laursen, Mørke","Venstre, Danmarks Liberale Parti",53
+Syddjurs,7,Mørke,"V_Søren_Høg,_Ebeltoft","Søren Høg, Ebeltoft","Venstre, Danmarks Liberale Parti",0
+Syddjurs,7,Mørke,"V_Jens_Bjørn_Andersen,_Mols","Jens Bjørn Andersen, Mols","Venstre, Danmarks Liberale Parti",3
+Syddjurs,7,Mørke,"V_Else_Marie_Høgh,_Hornslet","Else Marie Høgh, Hornslet","Venstre, Danmarks Liberale Parti",20
+Syddjurs,7,Mørke,"V_Hans_Jørgensen,_Mols","Hans Jørgensen, Mols","Venstre, Danmarks Liberale Parti",3
+Syddjurs,7,Mørke,"V_Peter_Krog-Meyer,_Rønde","Peter Krog-Meyer, Rønde","Venstre, Danmarks Liberale Parti",2
+Syddjurs,7,Mørke,"V_Carsten_K._Bryrup,_Nimtofte","Carsten K. Bryrup, Nimtofte","Venstre, Danmarks Liberale Parti",1
+Syddjurs,7,Mørke,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,27
+Syddjurs,7,Mørke,"Ø_Jesper_Yde_Knudsen,_Rønde","Jesper Yde Knudsen, Rønde",Enhedslisten - De Rød-Grønne,21
+Syddjurs,7,Mørke,"Ø_Niels_Peter_Mortensen,_Ebeltoft","Niels Peter Mortensen, Ebeltoft",Enhedslisten - De Rød-Grønne,2
+Syddjurs,7,Mørke,"Ø_Randi_Jepsen,_Mols","Randi Jepsen, Mols",Enhedslisten - De Rød-Grønne,8
+Syddjurs,7,Mørke,"Ø_Mohammad_Steitan,_Hornslet","Mohammad Steitan, Hornslet",Enhedslisten - De Rød-Grønne,25
+Syddjurs,7,Mørke,"Ø_Steffen_Østergaard,_Ebeltoft","Steffen Østergaard, Ebeltoft",Enhedslisten - De Rød-Grønne,1
+Syddjurs,7,Mørke,"Ø_Helle_Nørgaard,_Nødager","Helle Nørgaard, Nødager",Enhedslisten - De Rød-Grønne,3
+Syddjurs,7,Mørke,"Ø_Thøger_Trold_Pauli,_Thorsager","Thøger Trold Pauli, Thorsager",Enhedslisten - De Rød-Grønne,3
+Syddjurs,7,Mørke,"Ø_Jens_Christian_Nielsen,_Feldballe","Jens Christian Nielsen, Feldballe",Enhedslisten - De Rød-Grønne,3
+Syddjurs,7,Mørke,Å_Listestemmer,Listestemmer,Alternativet,10
+Syddjurs,7,Mørke,Å_Mette_Refshauge_Foged,Mette Refshauge Foged,Alternativet,20
+Syddjurs,7,Mørke,Å_Kasper_J._Bergman-Coates,Kasper J. Bergman-Coates,Alternativet,11
+Syddjurs,8,Rønde,A_Listestemmer,Listestemmer,Socialdemokratiet,325
+Syddjurs,8,Rønde,"A_Michael_Stegger_Jensen,_Ryomgård","Michael Stegger Jensen, Ryomgård",Socialdemokratiet,278
+Syddjurs,8,Rønde,"A_Christian_Haubuf,_Ebeltoft","Christian Haubuf, Ebeltoft",Socialdemokratiet,2
+Syddjurs,8,Rønde,"A_Michael_Aakjær,_Hornslet","Michael Aakjær, Hornslet",Socialdemokratiet,11
+Syddjurs,8,Rønde,"A_Anita_Søholm,_Mols","Anita Søholm, Mols",Socialdemokratiet,83
+Syddjurs,8,Rønde,"A_Ole_S._Hansen,_Mørke","Ole S. Hansen, Mørke",Socialdemokratiet,15
+Syddjurs,8,Rønde,"A_Jan_Fischer,_Hornslet","Jan Fischer, Hornslet",Socialdemokratiet,9
+Syddjurs,8,Rønde,"A_Linda_Brask,_Ebeltoft","Linda Brask, Ebeltoft",Socialdemokratiet,9
+Syddjurs,8,Rønde,"A_Lene_Straarup,_Mols","Lene Straarup, Mols",Socialdemokratiet,20
+Syddjurs,8,Rønde,"A_Sidse_G._Vangsted,_Pindstrup","Sidse G. Vangsted, Pindstrup",Socialdemokratiet,53
+Syddjurs,8,Rønde,"A_Erling_Mikkelsen,_Rønde","Erling Mikkelsen, Rønde",Socialdemokratiet,152
+Syddjurs,8,Rønde,"A_Casper_Grud_Nielsen,_Ugelbølle","Casper Grud Nielsen, Ugelbølle",Socialdemokratiet,172
+Syddjurs,8,Rønde,"A_Jan_Bruno_Jensen,_Rønde","Jan Bruno Jensen, Rønde",Socialdemokratiet,38
+Syddjurs,8,Rønde,"A_Verner_Møller,_Feldballe","Verner Møller, Feldballe",Socialdemokratiet,33
+Syddjurs,8,Rønde,"A_Lars_Breum,_Ådalen","Lars Breum, Ådalen",Socialdemokratiet,7
+Syddjurs,8,Rønde,B_Listestemmer,Listestemmer,Radikale Venstre,55
+Syddjurs,8,Rønde,"B_Heine_Skovbak_Iversen,_Ebeltoft","Heine Skovbak Iversen, Ebeltoft",Radikale Venstre,88
+Syddjurs,8,Rønde,"B_Kari_Baklund,_Femmøller","Kari Baklund, Femmøller",Radikale Venstre,35
+Syddjurs,8,Rønde,"B_Bjarke_Jensen,_Ådalen","Bjarke Jensen, Ådalen",Radikale Venstre,19
+Syddjurs,8,Rønde,"B_Søren_Høgsberg_Handberg,_Rønde","Søren Høgsberg Handberg, Rønde",Radikale Venstre,8
+Syddjurs,8,Rønde,"B_Victoria_Maddock,_Ebeltoft","Victoria Maddock, Ebeltoft",Radikale Venstre,4
+Syddjurs,8,Rønde,"B_Louise_Bové_Villadsen,_Hornslet","Louise Bové Villadsen, Hornslet",Radikale Venstre,8
+Syddjurs,8,Rønde,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,190
+Syddjurs,8,Rønde,"C_Tommy_Bøgehøj,_Ebeltoft","Tommy Bøgehøj, Ebeltoft",Det Konservative Folkeparti,67
+Syddjurs,8,Rønde,"C_Kasper_Kolstrup_Møller,_Kolind","Kasper Kolstrup Møller, Kolind",Det Konservative Folkeparti,49
+Syddjurs,8,Rønde,"C_Kirstine_Kahr_Kvorning,_Grønfeld","Kirstine Kahr Kvorning, Grønfeld",Det Konservative Folkeparti,123
+Syddjurs,8,Rønde,"C_Jan_Aude,_Hornslet","Jan Aude, Hornslet",Det Konservative Folkeparti,23
+Syddjurs,8,Rønde,"C_Kristian_Damsgaard,_Rønde","Kristian Damsgaard, Rønde",Det Konservative Folkeparti,61
+Syddjurs,8,Rønde,"C_Bjørn_Jensen,_Thorsager","Bjørn Jensen, Thorsager",Det Konservative Folkeparti,79
+Syddjurs,8,Rønde,"C_Kim_Withen,_Helgenæs","Kim Withen, Helgenæs",Det Konservative Folkeparti,15
+Syddjurs,8,Rønde,"C_Dorthe_Le_Fevre,_Ebeltoft","Dorthe Le Fevre, Ebeltoft",Det Konservative Folkeparti,6
+Syddjurs,8,Rønde,"C_Diana_Bang,_Ryomgård","Diana Bang, Ryomgård",Det Konservative Folkeparti,0
+Syddjurs,8,Rønde,"C_Lone_Myrwick,_Ugelbølle","Lone Myrwick, Ugelbølle",Det Konservative Folkeparti,21
+Syddjurs,8,Rønde,"C_Søren_Maarslet,_Ebeltoft","Søren Maarslet, Ebeltoft",Det Konservative Folkeparti,0
+Syddjurs,8,Rønde,"C_Niels_Aakjær_Holst,_Rønde","Niels Aakjær Holst, Rønde",Det Konservative Folkeparti,12
+Syddjurs,8,Rønde,"C_Steen_Myrwick,_Ugelbølle","Steen Myrwick, Ugelbølle",Det Konservative Folkeparti,6
+Syddjurs,8,Rønde,"C_Lars_Bjørn,_Ugelbølle","Lars Bjørn, Ugelbølle",Det Konservative Folkeparti,89
+Syddjurs,8,Rønde,D_Listestemmer,Listestemmer,Nye Borgerlige,69
+Syddjurs,8,Rønde,"D_Bent_Schouw,_Femmøller","Bent Schouw, Femmøller",Nye Borgerlige,17
+Syddjurs,8,Rønde,"D_Laila_Sortland,_Ryomgård","Laila Sortland, Ryomgård",Nye Borgerlige,91
+Syddjurs,8,Rønde,"D_Jan_Jensen,_Ryomgård","Jan Jensen, Ryomgård",Nye Borgerlige,7
+Syddjurs,8,Rønde,"D_Katalin_Deme,_Ryomgård","Katalin Deme, Ryomgård",Nye Borgerlige,3
+Syddjurs,8,Rønde,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,119
+Syddjurs,8,Rønde,"F_Kirstine_Bille,_Balle","Kirstine Bille, Balle",SF - Socialistisk Folkeparti,269
+Syddjurs,8,Rønde,"F_Kim_Lykke_Jensen,_Termestrup","Kim Lykke Jensen, Termestrup",SF - Socialistisk Folkeparti,68
+Syddjurs,8,Rønde,"F_Morten_Siig_Henriksen,_Hornslet","Morten Siig Henriksen, Hornslet",SF - Socialistisk Folkeparti,39
+Syddjurs,8,Rønde,"F_Jens_Rasmussen,_Dråby","Jens Rasmussen, Dråby",SF - Socialistisk Folkeparti,2
+Syddjurs,8,Rønde,"F_Helle_Røge,_Ugelbølle","Helle Røge, Ugelbølle",SF - Socialistisk Folkeparti,39
+Syddjurs,8,Rønde,"F_Jakob_Feldtfos_Christensen,_Ryomgå","Jakob Feldtfos Christensen, Ryomgå",SF - Socialistisk Folkeparti,5
+Syddjurs,8,Rønde,"F_Kasper_Nissen,_Knebel","Kasper Nissen, Knebel",SF - Socialistisk Folkeparti,9
+Syddjurs,8,Rønde,"F_Ingrid_Boldsen,_Kolind","Ingrid Boldsen, Kolind",SF - Socialistisk Folkeparti,3
+Syddjurs,8,Rønde,"F_Kristian_Herget,_Ebeltoft","Kristian Herget, Ebeltoft",SF - Socialistisk Folkeparti,9
+Syddjurs,8,Rønde,"F_Karin_Alsgård_Jensen,_Tirstrup","Karin Alsgård Jensen, Tirstrup",SF - Socialistisk Folkeparti,3
+Syddjurs,8,Rønde,"F_Elisabeth_Rasmussen,_Hyllested","Elisabeth Rasmussen, Hyllested",SF - Socialistisk Folkeparti,0
+Syddjurs,8,Rønde,"F_Jørgen_Ringgaard,_Stabrand","Jørgen Ringgaard, Stabrand",SF - Socialistisk Folkeparti,0
+Syddjurs,8,Rønde,O_Listestemmer,Listestemmer,Dansk Folkeparti,41
+Syddjurs,8,Rønde,"O_Grethe_Møgelvang,_Mørke","Grethe Møgelvang, Mørke",Dansk Folkeparti,20
+Syddjurs,8,Rønde,"O_Kathrine_Birkedahl,_Thorsager","Kathrine Birkedahl, Thorsager",Dansk Folkeparti,38
+Syddjurs,8,Rønde,"O_Peter_Bachmann,_Ebeltoft","Peter Bachmann, Ebeltoft",Dansk Folkeparti,3
+Syddjurs,8,Rønde,"O_Gert_Svendsen,_Søby","Gert Svendsen, Søby",Dansk Folkeparti,2
+Syddjurs,8,Rønde,"O_Ken_Hansen,_Ryomgård","Ken Hansen, Ryomgård",Dansk Folkeparti,0
+Syddjurs,8,Rønde,"O_Edgar_Wolff,_Ebeltoft","Edgar Wolff, Ebeltoft",Dansk Folkeparti,0
+Syddjurs,8,Rønde,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",136
+Syddjurs,8,Rønde,"V_Claus_Wistoft,_Kolind","Claus Wistoft, Kolind","Venstre, Danmarks Liberale Parti",517
+Syddjurs,8,Rønde,"V_Jørgen_Ivar_Brus_Mikkelsen,_Ebelto","Jørgen Ivar Brus Mikkelsen, Ebelto","Venstre, Danmarks Liberale Parti",46
+Syddjurs,8,Rønde,"V_Gunnar_Sørensen,_Vrinners","Gunnar Sørensen, Vrinners","Venstre, Danmarks Liberale Parti",20
+Syddjurs,8,Rønde,"V_Christoffer_Pedersen,_Rønde","Christoffer Pedersen, Rønde","Venstre, Danmarks Liberale Parti",210
+Syddjurs,8,Rønde,"V_Marianne_Kirkegaard,_Hornslet","Marianne Kirkegaard, Hornslet","Venstre, Danmarks Liberale Parti",34
+Syddjurs,8,Rønde,"V_Riber_Hog_Anthonsen,_Mørke","Riber Hog Anthonsen, Mørke","Venstre, Danmarks Liberale Parti",112
+Syddjurs,8,Rønde,"V_Henriette_Qvist_Eriksen,_Hornslet","Henriette Qvist Eriksen, Hornslet","Venstre, Danmarks Liberale Parti",16
+Syddjurs,8,Rønde,"V_Birthe_Moe_Laursen,_Mørke","Birthe Moe Laursen, Mørke","Venstre, Danmarks Liberale Parti",22
+Syddjurs,8,Rønde,"V_Søren_Høg,_Ebeltoft","Søren Høg, Ebeltoft","Venstre, Danmarks Liberale Parti",1
+Syddjurs,8,Rønde,"V_Jens_Bjørn_Andersen,_Mols","Jens Bjørn Andersen, Mols","Venstre, Danmarks Liberale Parti",15
+Syddjurs,8,Rønde,"V_Else_Marie_Høgh,_Hornslet","Else Marie Høgh, Hornslet","Venstre, Danmarks Liberale Parti",4
+Syddjurs,8,Rønde,"V_Hans_Jørgensen,_Mols","Hans Jørgensen, Mols","Venstre, Danmarks Liberale Parti",14
+Syddjurs,8,Rønde,"V_Peter_Krog-Meyer,_Rønde","Peter Krog-Meyer, Rønde","Venstre, Danmarks Liberale Parti",44
+Syddjurs,8,Rønde,"V_Carsten_K._Bryrup,_Nimtofte","Carsten K. Bryrup, Nimtofte","Venstre, Danmarks Liberale Parti",6
+Syddjurs,8,Rønde,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,102
+Syddjurs,8,Rønde,"Ø_Jesper_Yde_Knudsen,_Rønde","Jesper Yde Knudsen, Rønde",Enhedslisten - De Rød-Grønne,161
+Syddjurs,8,Rønde,"Ø_Niels_Peter_Mortensen,_Ebeltoft","Niels Peter Mortensen, Ebeltoft",Enhedslisten - De Rød-Grønne,6
+Syddjurs,8,Rønde,"Ø_Randi_Jepsen,_Mols","Randi Jepsen, Mols",Enhedslisten - De Rød-Grønne,22
+Syddjurs,8,Rønde,"Ø_Mohammad_Steitan,_Hornslet","Mohammad Steitan, Hornslet",Enhedslisten - De Rød-Grønne,16
+Syddjurs,8,Rønde,"Ø_Steffen_Østergaard,_Ebeltoft","Steffen Østergaard, Ebeltoft",Enhedslisten - De Rød-Grønne,3
+Syddjurs,8,Rønde,"Ø_Helle_Nørgaard,_Nødager","Helle Nørgaard, Nødager",Enhedslisten - De Rød-Grønne,11
+Syddjurs,8,Rønde,"Ø_Thøger_Trold_Pauli,_Thorsager","Thøger Trold Pauli, Thorsager",Enhedslisten - De Rød-Grønne,25
+Syddjurs,8,Rønde,"Ø_Jens_Christian_Nielsen,_Feldballe","Jens Christian Nielsen, Feldballe",Enhedslisten - De Rød-Grønne,5
+Syddjurs,8,Rønde,Å_Listestemmer,Listestemmer,Alternativet,27
+Syddjurs,8,Rønde,Å_Mette_Refshauge_Foged,Mette Refshauge Foged,Alternativet,113
+Syddjurs,8,Rønde,Å_Kasper_J._Bergman-Coates,Kasper J. Bergman-Coates,Alternativet,19

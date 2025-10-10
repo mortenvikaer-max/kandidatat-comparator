@@ -1,0 +1,491 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Struer,1,Struer,A_Listestemmer,Listestemmer,Socialdemokratiet,277
+Struer,1,Struer,A_John_Christoffersen,John Christoffersen,Socialdemokratiet,304
+Struer,1,Struer,A_Ann_Møller_Nielsen,Ann Møller Nielsen,Socialdemokratiet,244
+Struer,1,Struer,A_Dorte_Vilsgaard,Dorte Vilsgaard,Socialdemokratiet,89
+Struer,1,Struer,A_Palle_Lykke_Ravn,Palle Lykke Ravn,Socialdemokratiet,74
+Struer,1,Struer,A_Anna_Marie_Brix_Poulsen,Anna Marie Brix Poulsen,Socialdemokratiet,61
+Struer,1,Struer,A_Claus_Søgaard_Andersen,Claus Søgaard Andersen,Socialdemokratiet,8
+Struer,1,Struer,A_Flemming_T.Sørensen,Flemming T.Sørensen,Socialdemokratiet,107
+Struer,1,Struer,A_Flemming_Odde,Flemming Odde,Socialdemokratiet,53
+Struer,1,Struer,A_Theresa_Aroha_Wollenberg,Theresa Aroha Wollenberg,Socialdemokratiet,46
+Struer,1,Struer,A_Jesper_Olesen,Jesper Olesen,Socialdemokratiet,98
+Struer,1,Struer,A_Marianne_Kamp,Marianne Kamp,Socialdemokratiet,17
+Struer,1,Struer,A_Flemming_Karlsen,Flemming Karlsen,Socialdemokratiet,10
+Struer,1,Struer,A_Georg_Sabroe,Georg Sabroe,Socialdemokratiet,30
+Struer,1,Struer,A_Kaj_Munkholm,Kaj Munkholm,Socialdemokratiet,32
+Struer,1,Struer,A_Kristian_Svenningsen,Kristian Svenningsen,Socialdemokratiet,12
+Struer,1,Struer,A_Kristian_Andersen,Kristian Andersen,Socialdemokratiet,10
+Struer,1,Struer,A_Niels_Viggo_Lynghøj,Niels Viggo Lynghøj,Socialdemokratiet,109
+Struer,1,Struer,B_Listestemmer,Listestemmer,Radikale Venstre,30
+Struer,1,Struer,B_Peter_Vestergaard,Peter Vestergaard,Radikale Venstre,89
+Struer,1,Struer,B_Ole_Agergaard_Olsen,Ole Agergaard Olsen,Radikale Venstre,8
+Struer,1,Struer,B_Emma_Rørholm_Vestergaard,Emma Rørholm Vestergaard,Radikale Venstre,86
+Struer,1,Struer,B_Adam_Jensen,Adam Jensen,Radikale Venstre,47
+Struer,1,Struer,B_Jens_Ahrengot,Jens Ahrengot,Radikale Venstre,0
+Struer,1,Struer,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,59
+Struer,1,Struer,"C_Kjeld_Graversgård,Thyholm","Kjeld Graversgård,Thyholm",Det Konservative Folkeparti,39
+Struer,1,Struer,"C_Kim_Aalbæk,_Struer","Kim Aalbæk, Struer",Det Konservative Folkeparti,54
+Struer,1,Struer,"C_Bitten_Kvist_Jakobsen,_Struer","Bitten Kvist Jakobsen, Struer",Det Konservative Folkeparti,69
+Struer,1,Struer,"C_Jacob_Aarlit_Gade,_Thyholm","Jacob Aarlit Gade, Thyholm",Det Konservative Folkeparti,12
+Struer,1,Struer,"C_Villy_Nielsen,_Humlum","Villy Nielsen, Humlum",Det Konservative Folkeparti,10
+Struer,1,Struer,"C_Nina_Gøthche,_Hjerm","Nina Gøthche, Hjerm",Det Konservative Folkeparti,3
+Struer,1,Struer,D_Listestemmer,Listestemmer,Nye Borgerlige,53
+Struer,1,Struer,D_Henrik_Thinggaard,Henrik Thinggaard,Nye Borgerlige,70
+Struer,1,Struer,D_Jan_Prichystal,Jan Prichystal,Nye Borgerlige,15
+Struer,1,Struer,D_Maria_Thorup,Maria Thorup,Nye Borgerlige,25
+Struer,1,Struer,D_Troels_Nyborg_Jensen,Troels Nyborg Jensen,Nye Borgerlige,6
+Struer,1,Struer,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,112
+Struer,1,Struer,F_Anne_Kirstine_Bøge_Petersen,Anne Kirstine Bøge Petersen,SF - Socialistisk Folkeparti,80
+Struer,1,Struer,F_Meritta_Bjerregaard,Meritta Bjerregaard,SF - Socialistisk Folkeparti,33
+Struer,1,Struer,F_Hanne_D._Jacobsen,Hanne D. Jacobsen,SF - Socialistisk Folkeparti,22
+Struer,1,Struer,F_Rikke_Bergenstoff,Rikke Bergenstoff,SF - Socialistisk Folkeparti,19
+Struer,1,Struer,F_Ole_Johansen,Ole Johansen,SF - Socialistisk Folkeparti,19
+Struer,1,Struer,F_Ivan_Holck_Jensen,Ivan Holck Jensen,SF - Socialistisk Folkeparti,19
+Struer,1,Struer,I_Listestemmer,Listestemmer,Liberal Alliance,11
+Struer,1,Struer,"I_Thorbjørn_Jacobsen,_Struer","Thorbjørn Jacobsen, Struer",Liberal Alliance,79
+Struer,1,Struer,J_Listestemmer,Listestemmer,Fiskerlussing,12
+Struer,1,Struer,J_John_Jørgensen,John Jørgensen,Fiskerlussing,27
+Struer,1,Struer,O_Listestemmer,Listestemmer,Dansk Folkeparti,33
+Struer,1,Struer,O_Jette_Lund,Jette Lund,Dansk Folkeparti,58
+Struer,1,Struer,O_Peter_Hersom,Peter Hersom,Dansk Folkeparti,19
+Struer,1,Struer,O_Mikael_Jensen,Mikael Jensen,Dansk Folkeparti,5
+Struer,1,Struer,O_Sasha_Laigaard,Sasha Laigaard,Dansk Folkeparti,3
+Struer,1,Struer,O_Torben_Buurgaard,Torben Buurgaard,Dansk Folkeparti,6
+Struer,1,Struer,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",131
+Struer,1,Struer,V_Mads_Jakobsen,Mads Jakobsen,"Venstre, Danmarks Liberale Parti",731
+Struer,1,Struer,V_Karsten_Hjorth_Larsen,Karsten Hjorth Larsen,"Venstre, Danmarks Liberale Parti",196
+Struer,1,Struer,V_Frank_Linde,Frank Linde,"Venstre, Danmarks Liberale Parti",101
+Struer,1,Struer,V_Tim_Pindstofte,Tim Pindstofte,"Venstre, Danmarks Liberale Parti",26
+Struer,1,Struer,V_Kjeld_Flarup,Kjeld Flarup,"Venstre, Danmarks Liberale Parti",7
+Struer,1,Struer,V_Steen_Jakobsen,Steen Jakobsen,"Venstre, Danmarks Liberale Parti",94
+Struer,1,Struer,V_Elin_Hamborg,Elin Hamborg,"Venstre, Danmarks Liberale Parti",15
+Struer,1,Struer,V_Johannes_Stougård,Johannes Stougård,"Venstre, Danmarks Liberale Parti",7
+Struer,1,Struer,V_John_Vangsgaard,John Vangsgaard,"Venstre, Danmarks Liberale Parti",6
+Struer,1,Struer,V_Marianne_Bredal,Marianne Bredal,"Venstre, Danmarks Liberale Parti",119
+Struer,1,Struer,V_Morten_Graversen,Morten Graversen,"Venstre, Danmarks Liberale Parti",110
+Struer,1,Struer,V_Claus_Hansen,Claus Hansen,"Venstre, Danmarks Liberale Parti",9
+Struer,1,Struer,V_Kjeld_Jensen,Kjeld Jensen,"Venstre, Danmarks Liberale Parti",6
+Struer,1,Struer,V_Anisiya_Flarup,Anisiya Flarup,"Venstre, Danmarks Liberale Parti",12
+Struer,1,Struer,Æ_Listestemmer,Listestemmer,Frihedslisten,8
+Struer,1,Struer,"Æ_Adrian-Silviu,_Struer","Adrian-Silviu, Struer",Frihedslisten,14
+Struer,2,Gimsing,A_Listestemmer,Listestemmer,Socialdemokratiet,82
+Struer,2,Gimsing,A_John_Christoffersen,John Christoffersen,Socialdemokratiet,80
+Struer,2,Gimsing,A_Ann_Møller_Nielsen,Ann Møller Nielsen,Socialdemokratiet,92
+Struer,2,Gimsing,A_Dorte_Vilsgaard,Dorte Vilsgaard,Socialdemokratiet,16
+Struer,2,Gimsing,A_Palle_Lykke_Ravn,Palle Lykke Ravn,Socialdemokratiet,17
+Struer,2,Gimsing,A_Anna_Marie_Brix_Poulsen,Anna Marie Brix Poulsen,Socialdemokratiet,22
+Struer,2,Gimsing,A_Claus_Søgaard_Andersen,Claus Søgaard Andersen,Socialdemokratiet,7
+Struer,2,Gimsing,A_Flemming_T.Sørensen,Flemming T.Sørensen,Socialdemokratiet,18
+Struer,2,Gimsing,A_Flemming_Odde,Flemming Odde,Socialdemokratiet,8
+Struer,2,Gimsing,A_Theresa_Aroha_Wollenberg,Theresa Aroha Wollenberg,Socialdemokratiet,7
+Struer,2,Gimsing,A_Jesper_Olesen,Jesper Olesen,Socialdemokratiet,38
+Struer,2,Gimsing,A_Marianne_Kamp,Marianne Kamp,Socialdemokratiet,5
+Struer,2,Gimsing,A_Flemming_Karlsen,Flemming Karlsen,Socialdemokratiet,4
+Struer,2,Gimsing,A_Georg_Sabroe,Georg Sabroe,Socialdemokratiet,3
+Struer,2,Gimsing,A_Kaj_Munkholm,Kaj Munkholm,Socialdemokratiet,19
+Struer,2,Gimsing,A_Kristian_Svenningsen,Kristian Svenningsen,Socialdemokratiet,1
+Struer,2,Gimsing,A_Kristian_Andersen,Kristian Andersen,Socialdemokratiet,1
+Struer,2,Gimsing,A_Niels_Viggo_Lynghøj,Niels Viggo Lynghøj,Socialdemokratiet,25
+Struer,2,Gimsing,B_Listestemmer,Listestemmer,Radikale Venstre,5
+Struer,2,Gimsing,B_Peter_Vestergaard,Peter Vestergaard,Radikale Venstre,24
+Struer,2,Gimsing,B_Ole_Agergaard_Olsen,Ole Agergaard Olsen,Radikale Venstre,1
+Struer,2,Gimsing,B_Emma_Rørholm_Vestergaard,Emma Rørholm Vestergaard,Radikale Venstre,9
+Struer,2,Gimsing,B_Adam_Jensen,Adam Jensen,Radikale Venstre,3
+Struer,2,Gimsing,B_Jens_Ahrengot,Jens Ahrengot,Radikale Venstre,0
+Struer,2,Gimsing,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,11
+Struer,2,Gimsing,"C_Kjeld_Graversgård,Thyholm","Kjeld Graversgård,Thyholm",Det Konservative Folkeparti,6
+Struer,2,Gimsing,"C_Kim_Aalbæk,_Struer","Kim Aalbæk, Struer",Det Konservative Folkeparti,21
+Struer,2,Gimsing,"C_Bitten_Kvist_Jakobsen,_Struer","Bitten Kvist Jakobsen, Struer",Det Konservative Folkeparti,21
+Struer,2,Gimsing,"C_Jacob_Aarlit_Gade,_Thyholm","Jacob Aarlit Gade, Thyholm",Det Konservative Folkeparti,2
+Struer,2,Gimsing,"C_Villy_Nielsen,_Humlum","Villy Nielsen, Humlum",Det Konservative Folkeparti,0
+Struer,2,Gimsing,"C_Nina_Gøthche,_Hjerm","Nina Gøthche, Hjerm",Det Konservative Folkeparti,3
+Struer,2,Gimsing,D_Listestemmer,Listestemmer,Nye Borgerlige,11
+Struer,2,Gimsing,D_Henrik_Thinggaard,Henrik Thinggaard,Nye Borgerlige,21
+Struer,2,Gimsing,D_Jan_Prichystal,Jan Prichystal,Nye Borgerlige,6
+Struer,2,Gimsing,D_Maria_Thorup,Maria Thorup,Nye Borgerlige,5
+Struer,2,Gimsing,D_Troels_Nyborg_Jensen,Troels Nyborg Jensen,Nye Borgerlige,3
+Struer,2,Gimsing,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,17
+Struer,2,Gimsing,F_Anne_Kirstine_Bøge_Petersen,Anne Kirstine Bøge Petersen,SF - Socialistisk Folkeparti,18
+Struer,2,Gimsing,F_Meritta_Bjerregaard,Meritta Bjerregaard,SF - Socialistisk Folkeparti,16
+Struer,2,Gimsing,F_Hanne_D._Jacobsen,Hanne D. Jacobsen,SF - Socialistisk Folkeparti,5
+Struer,2,Gimsing,F_Rikke_Bergenstoff,Rikke Bergenstoff,SF - Socialistisk Folkeparti,3
+Struer,2,Gimsing,F_Ole_Johansen,Ole Johansen,SF - Socialistisk Folkeparti,13
+Struer,2,Gimsing,F_Ivan_Holck_Jensen,Ivan Holck Jensen,SF - Socialistisk Folkeparti,4
+Struer,2,Gimsing,I_Listestemmer,Listestemmer,Liberal Alliance,4
+Struer,2,Gimsing,"I_Thorbjørn_Jacobsen,_Struer","Thorbjørn Jacobsen, Struer",Liberal Alliance,26
+Struer,2,Gimsing,J_Listestemmer,Listestemmer,Fiskerlussing,0
+Struer,2,Gimsing,J_John_Jørgensen,John Jørgensen,Fiskerlussing,6
+Struer,2,Gimsing,O_Listestemmer,Listestemmer,Dansk Folkeparti,7
+Struer,2,Gimsing,O_Jette_Lund,Jette Lund,Dansk Folkeparti,15
+Struer,2,Gimsing,O_Peter_Hersom,Peter Hersom,Dansk Folkeparti,7
+Struer,2,Gimsing,O_Mikael_Jensen,Mikael Jensen,Dansk Folkeparti,1
+Struer,2,Gimsing,O_Sasha_Laigaard,Sasha Laigaard,Dansk Folkeparti,1
+Struer,2,Gimsing,O_Torben_Buurgaard,Torben Buurgaard,Dansk Folkeparti,1
+Struer,2,Gimsing,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",40
+Struer,2,Gimsing,V_Mads_Jakobsen,Mads Jakobsen,"Venstre, Danmarks Liberale Parti",184
+Struer,2,Gimsing,V_Karsten_Hjorth_Larsen,Karsten Hjorth Larsen,"Venstre, Danmarks Liberale Parti",44
+Struer,2,Gimsing,V_Frank_Linde,Frank Linde,"Venstre, Danmarks Liberale Parti",49
+Struer,2,Gimsing,V_Tim_Pindstofte,Tim Pindstofte,"Venstre, Danmarks Liberale Parti",11
+Struer,2,Gimsing,V_Kjeld_Flarup,Kjeld Flarup,"Venstre, Danmarks Liberale Parti",2
+Struer,2,Gimsing,V_Steen_Jakobsen,Steen Jakobsen,"Venstre, Danmarks Liberale Parti",23
+Struer,2,Gimsing,V_Elin_Hamborg,Elin Hamborg,"Venstre, Danmarks Liberale Parti",5
+Struer,2,Gimsing,V_Johannes_Stougård,Johannes Stougård,"Venstre, Danmarks Liberale Parti",1
+Struer,2,Gimsing,V_John_Vangsgaard,John Vangsgaard,"Venstre, Danmarks Liberale Parti",3
+Struer,2,Gimsing,V_Marianne_Bredal,Marianne Bredal,"Venstre, Danmarks Liberale Parti",49
+Struer,2,Gimsing,V_Morten_Graversen,Morten Graversen,"Venstre, Danmarks Liberale Parti",36
+Struer,2,Gimsing,V_Claus_Hansen,Claus Hansen,"Venstre, Danmarks Liberale Parti",0
+Struer,2,Gimsing,V_Kjeld_Jensen,Kjeld Jensen,"Venstre, Danmarks Liberale Parti",2
+Struer,2,Gimsing,V_Anisiya_Flarup,Anisiya Flarup,"Venstre, Danmarks Liberale Parti",6
+Struer,2,Gimsing,Æ_Listestemmer,Listestemmer,Frihedslisten,2
+Struer,2,Gimsing,"Æ_Adrian-Silviu,_Struer","Adrian-Silviu, Struer",Frihedslisten,5
+Struer,3,Hjerm,A_Listestemmer,Listestemmer,Socialdemokratiet,31
+Struer,3,Hjerm,A_John_Christoffersen,John Christoffersen,Socialdemokratiet,23
+Struer,3,Hjerm,A_Ann_Møller_Nielsen,Ann Møller Nielsen,Socialdemokratiet,20
+Struer,3,Hjerm,A_Dorte_Vilsgaard,Dorte Vilsgaard,Socialdemokratiet,7
+Struer,3,Hjerm,A_Palle_Lykke_Ravn,Palle Lykke Ravn,Socialdemokratiet,5
+Struer,3,Hjerm,A_Anna_Marie_Brix_Poulsen,Anna Marie Brix Poulsen,Socialdemokratiet,2
+Struer,3,Hjerm,A_Claus_Søgaard_Andersen,Claus Søgaard Andersen,Socialdemokratiet,188
+Struer,3,Hjerm,A_Flemming_T.Sørensen,Flemming T.Sørensen,Socialdemokratiet,2
+Struer,3,Hjerm,A_Flemming_Odde,Flemming Odde,Socialdemokratiet,3
+Struer,3,Hjerm,A_Theresa_Aroha_Wollenberg,Theresa Aroha Wollenberg,Socialdemokratiet,1
+Struer,3,Hjerm,A_Jesper_Olesen,Jesper Olesen,Socialdemokratiet,8
+Struer,3,Hjerm,A_Marianne_Kamp,Marianne Kamp,Socialdemokratiet,0
+Struer,3,Hjerm,A_Flemming_Karlsen,Flemming Karlsen,Socialdemokratiet,0
+Struer,3,Hjerm,A_Georg_Sabroe,Georg Sabroe,Socialdemokratiet,0
+Struer,3,Hjerm,A_Kaj_Munkholm,Kaj Munkholm,Socialdemokratiet,0
+Struer,3,Hjerm,A_Kristian_Svenningsen,Kristian Svenningsen,Socialdemokratiet,3
+Struer,3,Hjerm,A_Kristian_Andersen,Kristian Andersen,Socialdemokratiet,1
+Struer,3,Hjerm,A_Niels_Viggo_Lynghøj,Niels Viggo Lynghøj,Socialdemokratiet,2
+Struer,3,Hjerm,B_Listestemmer,Listestemmer,Radikale Venstre,2
+Struer,3,Hjerm,B_Peter_Vestergaard,Peter Vestergaard,Radikale Venstre,9
+Struer,3,Hjerm,B_Ole_Agergaard_Olsen,Ole Agergaard Olsen,Radikale Venstre,0
+Struer,3,Hjerm,B_Emma_Rørholm_Vestergaard,Emma Rørholm Vestergaard,Radikale Venstre,4
+Struer,3,Hjerm,B_Adam_Jensen,Adam Jensen,Radikale Venstre,1
+Struer,3,Hjerm,B_Jens_Ahrengot,Jens Ahrengot,Radikale Venstre,0
+Struer,3,Hjerm,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,15
+Struer,3,Hjerm,"C_Kjeld_Graversgård,Thyholm","Kjeld Graversgård,Thyholm",Det Konservative Folkeparti,5
+Struer,3,Hjerm,"C_Kim_Aalbæk,_Struer","Kim Aalbæk, Struer",Det Konservative Folkeparti,8
+Struer,3,Hjerm,"C_Bitten_Kvist_Jakobsen,_Struer","Bitten Kvist Jakobsen, Struer",Det Konservative Folkeparti,6
+Struer,3,Hjerm,"C_Jacob_Aarlit_Gade,_Thyholm","Jacob Aarlit Gade, Thyholm",Det Konservative Folkeparti,3
+Struer,3,Hjerm,"C_Villy_Nielsen,_Humlum","Villy Nielsen, Humlum",Det Konservative Folkeparti,0
+Struer,3,Hjerm,"C_Nina_Gøthche,_Hjerm","Nina Gøthche, Hjerm",Det Konservative Folkeparti,16
+Struer,3,Hjerm,D_Listestemmer,Listestemmer,Nye Borgerlige,17
+Struer,3,Hjerm,D_Henrik_Thinggaard,Henrik Thinggaard,Nye Borgerlige,9
+Struer,3,Hjerm,D_Jan_Prichystal,Jan Prichystal,Nye Borgerlige,2
+Struer,3,Hjerm,D_Maria_Thorup,Maria Thorup,Nye Borgerlige,15
+Struer,3,Hjerm,D_Troels_Nyborg_Jensen,Troels Nyborg Jensen,Nye Borgerlige,0
+Struer,3,Hjerm,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,15
+Struer,3,Hjerm,F_Anne_Kirstine_Bøge_Petersen,Anne Kirstine Bøge Petersen,SF - Socialistisk Folkeparti,13
+Struer,3,Hjerm,F_Meritta_Bjerregaard,Meritta Bjerregaard,SF - Socialistisk Folkeparti,3
+Struer,3,Hjerm,F_Hanne_D._Jacobsen,Hanne D. Jacobsen,SF - Socialistisk Folkeparti,0
+Struer,3,Hjerm,F_Rikke_Bergenstoff,Rikke Bergenstoff,SF - Socialistisk Folkeparti,1
+Struer,3,Hjerm,F_Ole_Johansen,Ole Johansen,SF - Socialistisk Folkeparti,2
+Struer,3,Hjerm,F_Ivan_Holck_Jensen,Ivan Holck Jensen,SF - Socialistisk Folkeparti,3
+Struer,3,Hjerm,I_Listestemmer,Listestemmer,Liberal Alliance,0
+Struer,3,Hjerm,"I_Thorbjørn_Jacobsen,_Struer","Thorbjørn Jacobsen, Struer",Liberal Alliance,12
+Struer,3,Hjerm,J_Listestemmer,Listestemmer,Fiskerlussing,4
+Struer,3,Hjerm,J_John_Jørgensen,John Jørgensen,Fiskerlussing,3
+Struer,3,Hjerm,O_Listestemmer,Listestemmer,Dansk Folkeparti,10
+Struer,3,Hjerm,O_Jette_Lund,Jette Lund,Dansk Folkeparti,8
+Struer,3,Hjerm,O_Peter_Hersom,Peter Hersom,Dansk Folkeparti,1
+Struer,3,Hjerm,O_Mikael_Jensen,Mikael Jensen,Dansk Folkeparti,0
+Struer,3,Hjerm,O_Sasha_Laigaard,Sasha Laigaard,Dansk Folkeparti,1
+Struer,3,Hjerm,O_Torben_Buurgaard,Torben Buurgaard,Dansk Folkeparti,0
+Struer,3,Hjerm,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",19
+Struer,3,Hjerm,V_Mads_Jakobsen,Mads Jakobsen,"Venstre, Danmarks Liberale Parti",90
+Struer,3,Hjerm,V_Karsten_Hjorth_Larsen,Karsten Hjorth Larsen,"Venstre, Danmarks Liberale Parti",8
+Struer,3,Hjerm,V_Frank_Linde,Frank Linde,"Venstre, Danmarks Liberale Parti",2
+Struer,3,Hjerm,V_Tim_Pindstofte,Tim Pindstofte,"Venstre, Danmarks Liberale Parti",392
+Struer,3,Hjerm,V_Kjeld_Flarup,Kjeld Flarup,"Venstre, Danmarks Liberale Parti",4
+Struer,3,Hjerm,V_Steen_Jakobsen,Steen Jakobsen,"Venstre, Danmarks Liberale Parti",11
+Struer,3,Hjerm,V_Elin_Hamborg,Elin Hamborg,"Venstre, Danmarks Liberale Parti",1
+Struer,3,Hjerm,V_Johannes_Stougård,Johannes Stougård,"Venstre, Danmarks Liberale Parti",1
+Struer,3,Hjerm,V_John_Vangsgaard,John Vangsgaard,"Venstre, Danmarks Liberale Parti",1
+Struer,3,Hjerm,V_Marianne_Bredal,Marianne Bredal,"Venstre, Danmarks Liberale Parti",15
+Struer,3,Hjerm,V_Morten_Graversen,Morten Graversen,"Venstre, Danmarks Liberale Parti",3
+Struer,3,Hjerm,V_Claus_Hansen,Claus Hansen,"Venstre, Danmarks Liberale Parti",31
+Struer,3,Hjerm,V_Kjeld_Jensen,Kjeld Jensen,"Venstre, Danmarks Liberale Parti",1
+Struer,3,Hjerm,V_Anisiya_Flarup,Anisiya Flarup,"Venstre, Danmarks Liberale Parti",0
+Struer,3,Hjerm,Æ_Listestemmer,Listestemmer,Frihedslisten,0
+Struer,3,Hjerm,"Æ_Adrian-Silviu,_Struer","Adrian-Silviu, Struer",Frihedslisten,0
+Struer,4,Humlum,A_Listestemmer,Listestemmer,Socialdemokratiet,47
+Struer,4,Humlum,A_John_Christoffersen,John Christoffersen,Socialdemokratiet,35
+Struer,4,Humlum,A_Ann_Møller_Nielsen,Ann Møller Nielsen,Socialdemokratiet,34
+Struer,4,Humlum,A_Dorte_Vilsgaard,Dorte Vilsgaard,Socialdemokratiet,12
+Struer,4,Humlum,A_Palle_Lykke_Ravn,Palle Lykke Ravn,Socialdemokratiet,157
+Struer,4,Humlum,A_Anna_Marie_Brix_Poulsen,Anna Marie Brix Poulsen,Socialdemokratiet,8
+Struer,4,Humlum,A_Claus_Søgaard_Andersen,Claus Søgaard Andersen,Socialdemokratiet,0
+Struer,4,Humlum,A_Flemming_T.Sørensen,Flemming T.Sørensen,Socialdemokratiet,20
+Struer,4,Humlum,A_Flemming_Odde,Flemming Odde,Socialdemokratiet,2
+Struer,4,Humlum,A_Theresa_Aroha_Wollenberg,Theresa Aroha Wollenberg,Socialdemokratiet,2
+Struer,4,Humlum,A_Jesper_Olesen,Jesper Olesen,Socialdemokratiet,19
+Struer,4,Humlum,A_Marianne_Kamp,Marianne Kamp,Socialdemokratiet,1
+Struer,4,Humlum,A_Flemming_Karlsen,Flemming Karlsen,Socialdemokratiet,0
+Struer,4,Humlum,A_Georg_Sabroe,Georg Sabroe,Socialdemokratiet,5
+Struer,4,Humlum,A_Kaj_Munkholm,Kaj Munkholm,Socialdemokratiet,1
+Struer,4,Humlum,A_Kristian_Svenningsen,Kristian Svenningsen,Socialdemokratiet,2
+Struer,4,Humlum,A_Kristian_Andersen,Kristian Andersen,Socialdemokratiet,1
+Struer,4,Humlum,A_Niels_Viggo_Lynghøj,Niels Viggo Lynghøj,Socialdemokratiet,15
+Struer,4,Humlum,B_Listestemmer,Listestemmer,Radikale Venstre,1
+Struer,4,Humlum,B_Peter_Vestergaard,Peter Vestergaard,Radikale Venstre,20
+Struer,4,Humlum,B_Ole_Agergaard_Olsen,Ole Agergaard Olsen,Radikale Venstre,1
+Struer,4,Humlum,B_Emma_Rørholm_Vestergaard,Emma Rørholm Vestergaard,Radikale Venstre,12
+Struer,4,Humlum,B_Adam_Jensen,Adam Jensen,Radikale Venstre,0
+Struer,4,Humlum,B_Jens_Ahrengot,Jens Ahrengot,Radikale Venstre,0
+Struer,4,Humlum,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,12
+Struer,4,Humlum,"C_Kjeld_Graversgård,Thyholm","Kjeld Graversgård,Thyholm",Det Konservative Folkeparti,10
+Struer,4,Humlum,"C_Kim_Aalbæk,_Struer","Kim Aalbæk, Struer",Det Konservative Folkeparti,3
+Struer,4,Humlum,"C_Bitten_Kvist_Jakobsen,_Struer","Bitten Kvist Jakobsen, Struer",Det Konservative Folkeparti,8
+Struer,4,Humlum,"C_Jacob_Aarlit_Gade,_Thyholm","Jacob Aarlit Gade, Thyholm",Det Konservative Folkeparti,3
+Struer,4,Humlum,"C_Villy_Nielsen,_Humlum","Villy Nielsen, Humlum",Det Konservative Folkeparti,46
+Struer,4,Humlum,"C_Nina_Gøthche,_Hjerm","Nina Gøthche, Hjerm",Det Konservative Folkeparti,1
+Struer,4,Humlum,D_Listestemmer,Listestemmer,Nye Borgerlige,17
+Struer,4,Humlum,D_Henrik_Thinggaard,Henrik Thinggaard,Nye Borgerlige,21
+Struer,4,Humlum,D_Jan_Prichystal,Jan Prichystal,Nye Borgerlige,6
+Struer,4,Humlum,D_Maria_Thorup,Maria Thorup,Nye Borgerlige,4
+Struer,4,Humlum,D_Troels_Nyborg_Jensen,Troels Nyborg Jensen,Nye Borgerlige,1
+Struer,4,Humlum,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,13
+Struer,4,Humlum,F_Anne_Kirstine_Bøge_Petersen,Anne Kirstine Bøge Petersen,SF - Socialistisk Folkeparti,31
+Struer,4,Humlum,F_Meritta_Bjerregaard,Meritta Bjerregaard,SF - Socialistisk Folkeparti,5
+Struer,4,Humlum,F_Hanne_D._Jacobsen,Hanne D. Jacobsen,SF - Socialistisk Folkeparti,3
+Struer,4,Humlum,F_Rikke_Bergenstoff,Rikke Bergenstoff,SF - Socialistisk Folkeparti,3
+Struer,4,Humlum,F_Ole_Johansen,Ole Johansen,SF - Socialistisk Folkeparti,0
+Struer,4,Humlum,F_Ivan_Holck_Jensen,Ivan Holck Jensen,SF - Socialistisk Folkeparti,3
+Struer,4,Humlum,I_Listestemmer,Listestemmer,Liberal Alliance,1
+Struer,4,Humlum,"I_Thorbjørn_Jacobsen,_Struer","Thorbjørn Jacobsen, Struer",Liberal Alliance,11
+Struer,4,Humlum,J_Listestemmer,Listestemmer,Fiskerlussing,1
+Struer,4,Humlum,J_John_Jørgensen,John Jørgensen,Fiskerlussing,4
+Struer,4,Humlum,O_Listestemmer,Listestemmer,Dansk Folkeparti,2
+Struer,4,Humlum,O_Jette_Lund,Jette Lund,Dansk Folkeparti,11
+Struer,4,Humlum,O_Peter_Hersom,Peter Hersom,Dansk Folkeparti,10
+Struer,4,Humlum,O_Mikael_Jensen,Mikael Jensen,Dansk Folkeparti,0
+Struer,4,Humlum,O_Sasha_Laigaard,Sasha Laigaard,Dansk Folkeparti,0
+Struer,4,Humlum,O_Torben_Buurgaard,Torben Buurgaard,Dansk Folkeparti,2
+Struer,4,Humlum,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",19
+Struer,4,Humlum,V_Mads_Jakobsen,Mads Jakobsen,"Venstre, Danmarks Liberale Parti",117
+Struer,4,Humlum,V_Karsten_Hjorth_Larsen,Karsten Hjorth Larsen,"Venstre, Danmarks Liberale Parti",10
+Struer,4,Humlum,V_Frank_Linde,Frank Linde,"Venstre, Danmarks Liberale Parti",9
+Struer,4,Humlum,V_Tim_Pindstofte,Tim Pindstofte,"Venstre, Danmarks Liberale Parti",3
+Struer,4,Humlum,V_Kjeld_Flarup,Kjeld Flarup,"Venstre, Danmarks Liberale Parti",1
+Struer,4,Humlum,V_Steen_Jakobsen,Steen Jakobsen,"Venstre, Danmarks Liberale Parti",19
+Struer,4,Humlum,V_Elin_Hamborg,Elin Hamborg,"Venstre, Danmarks Liberale Parti",1
+Struer,4,Humlum,V_Johannes_Stougård,Johannes Stougård,"Venstre, Danmarks Liberale Parti",1
+Struer,4,Humlum,V_John_Vangsgaard,John Vangsgaard,"Venstre, Danmarks Liberale Parti",8
+Struer,4,Humlum,V_Marianne_Bredal,Marianne Bredal,"Venstre, Danmarks Liberale Parti",192
+Struer,4,Humlum,V_Morten_Graversen,Morten Graversen,"Venstre, Danmarks Liberale Parti",31
+Struer,4,Humlum,V_Claus_Hansen,Claus Hansen,"Venstre, Danmarks Liberale Parti",9
+Struer,4,Humlum,V_Kjeld_Jensen,Kjeld Jensen,"Venstre, Danmarks Liberale Parti",0
+Struer,4,Humlum,V_Anisiya_Flarup,Anisiya Flarup,"Venstre, Danmarks Liberale Parti",1
+Struer,4,Humlum,Æ_Listestemmer,Listestemmer,Frihedslisten,0
+Struer,4,Humlum,"Æ_Adrian-Silviu,_Struer","Adrian-Silviu, Struer",Frihedslisten,1
+Struer,5,Bremdal,A_Listestemmer,Listestemmer,Socialdemokratiet,55
+Struer,5,Bremdal,A_John_Christoffersen,John Christoffersen,Socialdemokratiet,43
+Struer,5,Bremdal,A_Ann_Møller_Nielsen,Ann Møller Nielsen,Socialdemokratiet,36
+Struer,5,Bremdal,A_Dorte_Vilsgaard,Dorte Vilsgaard,Socialdemokratiet,26
+Struer,5,Bremdal,A_Palle_Lykke_Ravn,Palle Lykke Ravn,Socialdemokratiet,28
+Struer,5,Bremdal,A_Anna_Marie_Brix_Poulsen,Anna Marie Brix Poulsen,Socialdemokratiet,7
+Struer,5,Bremdal,A_Claus_Søgaard_Andersen,Claus Søgaard Andersen,Socialdemokratiet,1
+Struer,5,Bremdal,A_Flemming_T.Sørensen,Flemming T.Sørensen,Socialdemokratiet,133
+Struer,5,Bremdal,A_Flemming_Odde,Flemming Odde,Socialdemokratiet,6
+Struer,5,Bremdal,A_Theresa_Aroha_Wollenberg,Theresa Aroha Wollenberg,Socialdemokratiet,6
+Struer,5,Bremdal,A_Jesper_Olesen,Jesper Olesen,Socialdemokratiet,29
+Struer,5,Bremdal,A_Marianne_Kamp,Marianne Kamp,Socialdemokratiet,2
+Struer,5,Bremdal,A_Flemming_Karlsen,Flemming Karlsen,Socialdemokratiet,2
+Struer,5,Bremdal,A_Georg_Sabroe,Georg Sabroe,Socialdemokratiet,2
+Struer,5,Bremdal,A_Kaj_Munkholm,Kaj Munkholm,Socialdemokratiet,3
+Struer,5,Bremdal,A_Kristian_Svenningsen,Kristian Svenningsen,Socialdemokratiet,5
+Struer,5,Bremdal,A_Kristian_Andersen,Kristian Andersen,Socialdemokratiet,0
+Struer,5,Bremdal,A_Niels_Viggo_Lynghøj,Niels Viggo Lynghøj,Socialdemokratiet,13
+Struer,5,Bremdal,B_Listestemmer,Listestemmer,Radikale Venstre,6
+Struer,5,Bremdal,B_Peter_Vestergaard,Peter Vestergaard,Radikale Venstre,27
+Struer,5,Bremdal,B_Ole_Agergaard_Olsen,Ole Agergaard Olsen,Radikale Venstre,12
+Struer,5,Bremdal,B_Emma_Rørholm_Vestergaard,Emma Rørholm Vestergaard,Radikale Venstre,14
+Struer,5,Bremdal,B_Adam_Jensen,Adam Jensen,Radikale Venstre,1
+Struer,5,Bremdal,B_Jens_Ahrengot,Jens Ahrengot,Radikale Venstre,1
+Struer,5,Bremdal,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,9
+Struer,5,Bremdal,"C_Kjeld_Graversgård,Thyholm","Kjeld Graversgård,Thyholm",Det Konservative Folkeparti,16
+Struer,5,Bremdal,"C_Kim_Aalbæk,_Struer","Kim Aalbæk, Struer",Det Konservative Folkeparti,20
+Struer,5,Bremdal,"C_Bitten_Kvist_Jakobsen,_Struer","Bitten Kvist Jakobsen, Struer",Det Konservative Folkeparti,22
+Struer,5,Bremdal,"C_Jacob_Aarlit_Gade,_Thyholm","Jacob Aarlit Gade, Thyholm",Det Konservative Folkeparti,3
+Struer,5,Bremdal,"C_Villy_Nielsen,_Humlum","Villy Nielsen, Humlum",Det Konservative Folkeparti,4
+Struer,5,Bremdal,"C_Nina_Gøthche,_Hjerm","Nina Gøthche, Hjerm",Det Konservative Folkeparti,5
+Struer,5,Bremdal,D_Listestemmer,Listestemmer,Nye Borgerlige,4
+Struer,5,Bremdal,D_Henrik_Thinggaard,Henrik Thinggaard,Nye Borgerlige,31
+Struer,5,Bremdal,D_Jan_Prichystal,Jan Prichystal,Nye Borgerlige,2
+Struer,5,Bremdal,D_Maria_Thorup,Maria Thorup,Nye Borgerlige,7
+Struer,5,Bremdal,D_Troels_Nyborg_Jensen,Troels Nyborg Jensen,Nye Borgerlige,1
+Struer,5,Bremdal,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,25
+Struer,5,Bremdal,F_Anne_Kirstine_Bøge_Petersen,Anne Kirstine Bøge Petersen,SF - Socialistisk Folkeparti,21
+Struer,5,Bremdal,F_Meritta_Bjerregaard,Meritta Bjerregaard,SF - Socialistisk Folkeparti,6
+Struer,5,Bremdal,F_Hanne_D._Jacobsen,Hanne D. Jacobsen,SF - Socialistisk Folkeparti,5
+Struer,5,Bremdal,F_Rikke_Bergenstoff,Rikke Bergenstoff,SF - Socialistisk Folkeparti,3
+Struer,5,Bremdal,F_Ole_Johansen,Ole Johansen,SF - Socialistisk Folkeparti,2
+Struer,5,Bremdal,F_Ivan_Holck_Jensen,Ivan Holck Jensen,SF - Socialistisk Folkeparti,1
+Struer,5,Bremdal,I_Listestemmer,Listestemmer,Liberal Alliance,0
+Struer,5,Bremdal,"I_Thorbjørn_Jacobsen,_Struer","Thorbjørn Jacobsen, Struer",Liberal Alliance,21
+Struer,5,Bremdal,J_Listestemmer,Listestemmer,Fiskerlussing,4
+Struer,5,Bremdal,J_John_Jørgensen,John Jørgensen,Fiskerlussing,2
+Struer,5,Bremdal,O_Listestemmer,Listestemmer,Dansk Folkeparti,3
+Struer,5,Bremdal,O_Jette_Lund,Jette Lund,Dansk Folkeparti,12
+Struer,5,Bremdal,O_Peter_Hersom,Peter Hersom,Dansk Folkeparti,3
+Struer,5,Bremdal,O_Mikael_Jensen,Mikael Jensen,Dansk Folkeparti,2
+Struer,5,Bremdal,O_Sasha_Laigaard,Sasha Laigaard,Dansk Folkeparti,0
+Struer,5,Bremdal,O_Torben_Buurgaard,Torben Buurgaard,Dansk Folkeparti,2
+Struer,5,Bremdal,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",35
+Struer,5,Bremdal,V_Mads_Jakobsen,Mads Jakobsen,"Venstre, Danmarks Liberale Parti",221
+Struer,5,Bremdal,V_Karsten_Hjorth_Larsen,Karsten Hjorth Larsen,"Venstre, Danmarks Liberale Parti",42
+Struer,5,Bremdal,V_Frank_Linde,Frank Linde,"Venstre, Danmarks Liberale Parti",26
+Struer,5,Bremdal,V_Tim_Pindstofte,Tim Pindstofte,"Venstre, Danmarks Liberale Parti",9
+Struer,5,Bremdal,V_Kjeld_Flarup,Kjeld Flarup,"Venstre, Danmarks Liberale Parti",0
+Struer,5,Bremdal,V_Steen_Jakobsen,Steen Jakobsen,"Venstre, Danmarks Liberale Parti",29
+Struer,5,Bremdal,V_Elin_Hamborg,Elin Hamborg,"Venstre, Danmarks Liberale Parti",2
+Struer,5,Bremdal,V_Johannes_Stougård,Johannes Stougård,"Venstre, Danmarks Liberale Parti",2
+Struer,5,Bremdal,V_John_Vangsgaard,John Vangsgaard,"Venstre, Danmarks Liberale Parti",3
+Struer,5,Bremdal,V_Marianne_Bredal,Marianne Bredal,"Venstre, Danmarks Liberale Parti",49
+Struer,5,Bremdal,V_Morten_Graversen,Morten Graversen,"Venstre, Danmarks Liberale Parti",118
+Struer,5,Bremdal,V_Claus_Hansen,Claus Hansen,"Venstre, Danmarks Liberale Parti",2
+Struer,5,Bremdal,V_Kjeld_Jensen,Kjeld Jensen,"Venstre, Danmarks Liberale Parti",1
+Struer,5,Bremdal,V_Anisiya_Flarup,Anisiya Flarup,"Venstre, Danmarks Liberale Parti",5
+Struer,5,Bremdal,Æ_Listestemmer,Listestemmer,Frihedslisten,1
+Struer,5,Bremdal,"Æ_Adrian-Silviu,_Struer","Adrian-Silviu, Struer",Frihedslisten,1
+Struer,6,Langhøj,A_Listestemmer,Listestemmer,Socialdemokratiet,46
+Struer,6,Langhøj,A_John_Christoffersen,John Christoffersen,Socialdemokratiet,47
+Struer,6,Langhøj,A_Ann_Møller_Nielsen,Ann Møller Nielsen,Socialdemokratiet,32
+Struer,6,Langhøj,A_Dorte_Vilsgaard,Dorte Vilsgaard,Socialdemokratiet,19
+Struer,6,Langhøj,A_Palle_Lykke_Ravn,Palle Lykke Ravn,Socialdemokratiet,14
+Struer,6,Langhøj,A_Anna_Marie_Brix_Poulsen,Anna Marie Brix Poulsen,Socialdemokratiet,30
+Struer,6,Langhøj,A_Claus_Søgaard_Andersen,Claus Søgaard Andersen,Socialdemokratiet,2
+Struer,6,Langhøj,A_Flemming_T.Sørensen,Flemming T.Sørensen,Socialdemokratiet,13
+Struer,6,Langhøj,A_Flemming_Odde,Flemming Odde,Socialdemokratiet,4
+Struer,6,Langhøj,A_Theresa_Aroha_Wollenberg,Theresa Aroha Wollenberg,Socialdemokratiet,6
+Struer,6,Langhøj,A_Jesper_Olesen,Jesper Olesen,Socialdemokratiet,8
+Struer,6,Langhøj,A_Marianne_Kamp,Marianne Kamp,Socialdemokratiet,1
+Struer,6,Langhøj,A_Flemming_Karlsen,Flemming Karlsen,Socialdemokratiet,1
+Struer,6,Langhøj,A_Georg_Sabroe,Georg Sabroe,Socialdemokratiet,2
+Struer,6,Langhøj,A_Kaj_Munkholm,Kaj Munkholm,Socialdemokratiet,0
+Struer,6,Langhøj,A_Kristian_Svenningsen,Kristian Svenningsen,Socialdemokratiet,0
+Struer,6,Langhøj,A_Kristian_Andersen,Kristian Andersen,Socialdemokratiet,2
+Struer,6,Langhøj,A_Niels_Viggo_Lynghøj,Niels Viggo Lynghøj,Socialdemokratiet,11
+Struer,6,Langhøj,B_Listestemmer,Listestemmer,Radikale Venstre,5
+Struer,6,Langhøj,B_Peter_Vestergaard,Peter Vestergaard,Radikale Venstre,18
+Struer,6,Langhøj,B_Ole_Agergaard_Olsen,Ole Agergaard Olsen,Radikale Venstre,1
+Struer,6,Langhøj,B_Emma_Rørholm_Vestergaard,Emma Rørholm Vestergaard,Radikale Venstre,20
+Struer,6,Langhøj,B_Adam_Jensen,Adam Jensen,Radikale Venstre,1
+Struer,6,Langhøj,B_Jens_Ahrengot,Jens Ahrengot,Radikale Venstre,0
+Struer,6,Langhøj,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,10
+Struer,6,Langhøj,"C_Kjeld_Graversgård,Thyholm","Kjeld Graversgård,Thyholm",Det Konservative Folkeparti,22
+Struer,6,Langhøj,"C_Kim_Aalbæk,_Struer","Kim Aalbæk, Struer",Det Konservative Folkeparti,11
+Struer,6,Langhøj,"C_Bitten_Kvist_Jakobsen,_Struer","Bitten Kvist Jakobsen, Struer",Det Konservative Folkeparti,9
+Struer,6,Langhøj,"C_Jacob_Aarlit_Gade,_Thyholm","Jacob Aarlit Gade, Thyholm",Det Konservative Folkeparti,26
+Struer,6,Langhøj,"C_Villy_Nielsen,_Humlum","Villy Nielsen, Humlum",Det Konservative Folkeparti,0
+Struer,6,Langhøj,"C_Nina_Gøthche,_Hjerm","Nina Gøthche, Hjerm",Det Konservative Folkeparti,1
+Struer,6,Langhøj,D_Listestemmer,Listestemmer,Nye Borgerlige,11
+Struer,6,Langhøj,D_Henrik_Thinggaard,Henrik Thinggaard,Nye Borgerlige,13
+Struer,6,Langhøj,D_Jan_Prichystal,Jan Prichystal,Nye Borgerlige,1
+Struer,6,Langhøj,D_Maria_Thorup,Maria Thorup,Nye Borgerlige,12
+Struer,6,Langhøj,D_Troels_Nyborg_Jensen,Troels Nyborg Jensen,Nye Borgerlige,2
+Struer,6,Langhøj,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,16
+Struer,6,Langhøj,F_Anne_Kirstine_Bøge_Petersen,Anne Kirstine Bøge Petersen,SF - Socialistisk Folkeparti,15
+Struer,6,Langhøj,F_Meritta_Bjerregaard,Meritta Bjerregaard,SF - Socialistisk Folkeparti,9
+Struer,6,Langhøj,F_Hanne_D._Jacobsen,Hanne D. Jacobsen,SF - Socialistisk Folkeparti,3
+Struer,6,Langhøj,F_Rikke_Bergenstoff,Rikke Bergenstoff,SF - Socialistisk Folkeparti,4
+Struer,6,Langhøj,F_Ole_Johansen,Ole Johansen,SF - Socialistisk Folkeparti,0
+Struer,6,Langhøj,F_Ivan_Holck_Jensen,Ivan Holck Jensen,SF - Socialistisk Folkeparti,1
+Struer,6,Langhøj,I_Listestemmer,Listestemmer,Liberal Alliance,3
+Struer,6,Langhøj,"I_Thorbjørn_Jacobsen,_Struer","Thorbjørn Jacobsen, Struer",Liberal Alliance,23
+Struer,6,Langhøj,J_Listestemmer,Listestemmer,Fiskerlussing,2
+Struer,6,Langhøj,J_John_Jørgensen,John Jørgensen,Fiskerlussing,2
+Struer,6,Langhøj,O_Listestemmer,Listestemmer,Dansk Folkeparti,11
+Struer,6,Langhøj,O_Jette_Lund,Jette Lund,Dansk Folkeparti,14
+Struer,6,Langhøj,O_Peter_Hersom,Peter Hersom,Dansk Folkeparti,5
+Struer,6,Langhøj,O_Mikael_Jensen,Mikael Jensen,Dansk Folkeparti,2
+Struer,6,Langhøj,O_Sasha_Laigaard,Sasha Laigaard,Dansk Folkeparti,0
+Struer,6,Langhøj,O_Torben_Buurgaard,Torben Buurgaard,Dansk Folkeparti,2
+Struer,6,Langhøj,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",44
+Struer,6,Langhøj,V_Mads_Jakobsen,Mads Jakobsen,"Venstre, Danmarks Liberale Parti",268
+Struer,6,Langhøj,V_Karsten_Hjorth_Larsen,Karsten Hjorth Larsen,"Venstre, Danmarks Liberale Parti",21
+Struer,6,Langhøj,V_Frank_Linde,Frank Linde,"Venstre, Danmarks Liberale Parti",9
+Struer,6,Langhøj,V_Tim_Pindstofte,Tim Pindstofte,"Venstre, Danmarks Liberale Parti",12
+Struer,6,Langhøj,V_Kjeld_Flarup,Kjeld Flarup,"Venstre, Danmarks Liberale Parti",2
+Struer,6,Langhøj,V_Steen_Jakobsen,Steen Jakobsen,"Venstre, Danmarks Liberale Parti",151
+Struer,6,Langhøj,V_Elin_Hamborg,Elin Hamborg,"Venstre, Danmarks Liberale Parti",51
+Struer,6,Langhøj,V_Johannes_Stougård,Johannes Stougård,"Venstre, Danmarks Liberale Parti",131
+Struer,6,Langhøj,V_John_Vangsgaard,John Vangsgaard,"Venstre, Danmarks Liberale Parti",3
+Struer,6,Langhøj,V_Marianne_Bredal,Marianne Bredal,"Venstre, Danmarks Liberale Parti",39
+Struer,6,Langhøj,V_Morten_Graversen,Morten Graversen,"Venstre, Danmarks Liberale Parti",11
+Struer,6,Langhøj,V_Claus_Hansen,Claus Hansen,"Venstre, Danmarks Liberale Parti",1
+Struer,6,Langhøj,V_Kjeld_Jensen,Kjeld Jensen,"Venstre, Danmarks Liberale Parti",0
+Struer,6,Langhøj,V_Anisiya_Flarup,Anisiya Flarup,"Venstre, Danmarks Liberale Parti",2
+Struer,6,Langhøj,Æ_Listestemmer,Listestemmer,Frihedslisten,4
+Struer,6,Langhøj,"Æ_Adrian-Silviu,_Struer","Adrian-Silviu, Struer",Frihedslisten,0
+Struer,7,Hvidbjerg,A_Listestemmer,Listestemmer,Socialdemokratiet,70
+Struer,7,Hvidbjerg,A_John_Christoffersen,John Christoffersen,Socialdemokratiet,311
+Struer,7,Hvidbjerg,A_Ann_Møller_Nielsen,Ann Møller Nielsen,Socialdemokratiet,19
+Struer,7,Hvidbjerg,A_Dorte_Vilsgaard,Dorte Vilsgaard,Socialdemokratiet,11
+Struer,7,Hvidbjerg,A_Palle_Lykke_Ravn,Palle Lykke Ravn,Socialdemokratiet,11
+Struer,7,Hvidbjerg,A_Anna_Marie_Brix_Poulsen,Anna Marie Brix Poulsen,Socialdemokratiet,7
+Struer,7,Hvidbjerg,A_Claus_Søgaard_Andersen,Claus Søgaard Andersen,Socialdemokratiet,0
+Struer,7,Hvidbjerg,A_Flemming_T.Sørensen,Flemming T.Sørensen,Socialdemokratiet,17
+Struer,7,Hvidbjerg,A_Flemming_Odde,Flemming Odde,Socialdemokratiet,1
+Struer,7,Hvidbjerg,A_Theresa_Aroha_Wollenberg,Theresa Aroha Wollenberg,Socialdemokratiet,2
+Struer,7,Hvidbjerg,A_Jesper_Olesen,Jesper Olesen,Socialdemokratiet,7
+Struer,7,Hvidbjerg,A_Marianne_Kamp,Marianne Kamp,Socialdemokratiet,4
+Struer,7,Hvidbjerg,A_Flemming_Karlsen,Flemming Karlsen,Socialdemokratiet,1
+Struer,7,Hvidbjerg,A_Georg_Sabroe,Georg Sabroe,Socialdemokratiet,1
+Struer,7,Hvidbjerg,A_Kaj_Munkholm,Kaj Munkholm,Socialdemokratiet,0
+Struer,7,Hvidbjerg,A_Kristian_Svenningsen,Kristian Svenningsen,Socialdemokratiet,0
+Struer,7,Hvidbjerg,A_Kristian_Andersen,Kristian Andersen,Socialdemokratiet,1
+Struer,7,Hvidbjerg,A_Niels_Viggo_Lynghøj,Niels Viggo Lynghøj,Socialdemokratiet,7
+Struer,7,Hvidbjerg,B_Listestemmer,Listestemmer,Radikale Venstre,4
+Struer,7,Hvidbjerg,B_Peter_Vestergaard,Peter Vestergaard,Radikale Venstre,97
+Struer,7,Hvidbjerg,B_Ole_Agergaard_Olsen,Ole Agergaard Olsen,Radikale Venstre,1
+Struer,7,Hvidbjerg,B_Emma_Rørholm_Vestergaard,Emma Rørholm Vestergaard,Radikale Venstre,24
+Struer,7,Hvidbjerg,B_Adam_Jensen,Adam Jensen,Radikale Venstre,0
+Struer,7,Hvidbjerg,B_Jens_Ahrengot,Jens Ahrengot,Radikale Venstre,8
+Struer,7,Hvidbjerg,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,14
+Struer,7,Hvidbjerg,"C_Kjeld_Graversgård,Thyholm","Kjeld Graversgård,Thyholm",Det Konservative Folkeparti,261
+Struer,7,Hvidbjerg,"C_Kim_Aalbæk,_Struer","Kim Aalbæk, Struer",Det Konservative Folkeparti,5
+Struer,7,Hvidbjerg,"C_Bitten_Kvist_Jakobsen,_Struer","Bitten Kvist Jakobsen, Struer",Det Konservative Folkeparti,14
+Struer,7,Hvidbjerg,"C_Jacob_Aarlit_Gade,_Thyholm","Jacob Aarlit Gade, Thyholm",Det Konservative Folkeparti,151
+Struer,7,Hvidbjerg,"C_Villy_Nielsen,_Humlum","Villy Nielsen, Humlum",Det Konservative Folkeparti,1
+Struer,7,Hvidbjerg,"C_Nina_Gøthche,_Hjerm","Nina Gøthche, Hjerm",Det Konservative Folkeparti,2
+Struer,7,Hvidbjerg,D_Listestemmer,Listestemmer,Nye Borgerlige,24
+Struer,7,Hvidbjerg,D_Henrik_Thinggaard,Henrik Thinggaard,Nye Borgerlige,15
+Struer,7,Hvidbjerg,D_Jan_Prichystal,Jan Prichystal,Nye Borgerlige,4
+Struer,7,Hvidbjerg,D_Maria_Thorup,Maria Thorup,Nye Borgerlige,6
+Struer,7,Hvidbjerg,D_Troels_Nyborg_Jensen,Troels Nyborg Jensen,Nye Borgerlige,2
+Struer,7,Hvidbjerg,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,25
+Struer,7,Hvidbjerg,F_Anne_Kirstine_Bøge_Petersen,Anne Kirstine Bøge Petersen,SF - Socialistisk Folkeparti,39
+Struer,7,Hvidbjerg,F_Meritta_Bjerregaard,Meritta Bjerregaard,SF - Socialistisk Folkeparti,6
+Struer,7,Hvidbjerg,F_Hanne_D._Jacobsen,Hanne D. Jacobsen,SF - Socialistisk Folkeparti,0
+Struer,7,Hvidbjerg,F_Rikke_Bergenstoff,Rikke Bergenstoff,SF - Socialistisk Folkeparti,3
+Struer,7,Hvidbjerg,F_Ole_Johansen,Ole Johansen,SF - Socialistisk Folkeparti,2
+Struer,7,Hvidbjerg,F_Ivan_Holck_Jensen,Ivan Holck Jensen,SF - Socialistisk Folkeparti,2
+Struer,7,Hvidbjerg,I_Listestemmer,Listestemmer,Liberal Alliance,2
+Struer,7,Hvidbjerg,"I_Thorbjørn_Jacobsen,_Struer","Thorbjørn Jacobsen, Struer",Liberal Alliance,7
+Struer,7,Hvidbjerg,J_Listestemmer,Listestemmer,Fiskerlussing,2
+Struer,7,Hvidbjerg,J_John_Jørgensen,John Jørgensen,Fiskerlussing,3
+Struer,7,Hvidbjerg,O_Listestemmer,Listestemmer,Dansk Folkeparti,12
+Struer,7,Hvidbjerg,O_Jette_Lund,Jette Lund,Dansk Folkeparti,23
+Struer,7,Hvidbjerg,O_Peter_Hersom,Peter Hersom,Dansk Folkeparti,3
+Struer,7,Hvidbjerg,O_Mikael_Jensen,Mikael Jensen,Dansk Folkeparti,1
+Struer,7,Hvidbjerg,O_Sasha_Laigaard,Sasha Laigaard,Dansk Folkeparti,2
+Struer,7,Hvidbjerg,O_Torben_Buurgaard,Torben Buurgaard,Dansk Folkeparti,2
+Struer,7,Hvidbjerg,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",26
+Struer,7,Hvidbjerg,V_Mads_Jakobsen,Mads Jakobsen,"Venstre, Danmarks Liberale Parti",168
+Struer,7,Hvidbjerg,V_Karsten_Hjorth_Larsen,Karsten Hjorth Larsen,"Venstre, Danmarks Liberale Parti",10
+Struer,7,Hvidbjerg,V_Frank_Linde,Frank Linde,"Venstre, Danmarks Liberale Parti",6
+Struer,7,Hvidbjerg,V_Tim_Pindstofte,Tim Pindstofte,"Venstre, Danmarks Liberale Parti",1
+Struer,7,Hvidbjerg,V_Kjeld_Flarup,Kjeld Flarup,"Venstre, Danmarks Liberale Parti",3
+Struer,7,Hvidbjerg,V_Steen_Jakobsen,Steen Jakobsen,"Venstre, Danmarks Liberale Parti",19
+Struer,7,Hvidbjerg,V_Elin_Hamborg,Elin Hamborg,"Venstre, Danmarks Liberale Parti",6
+Struer,7,Hvidbjerg,V_Johannes_Stougård,Johannes Stougård,"Venstre, Danmarks Liberale Parti",2
+Struer,7,Hvidbjerg,V_John_Vangsgaard,John Vangsgaard,"Venstre, Danmarks Liberale Parti",255
+Struer,7,Hvidbjerg,V_Marianne_Bredal,Marianne Bredal,"Venstre, Danmarks Liberale Parti",32
+Struer,7,Hvidbjerg,V_Morten_Graversen,Morten Graversen,"Venstre, Danmarks Liberale Parti",5
+Struer,7,Hvidbjerg,V_Claus_Hansen,Claus Hansen,"Venstre, Danmarks Liberale Parti",1
+Struer,7,Hvidbjerg,V_Kjeld_Jensen,Kjeld Jensen,"Venstre, Danmarks Liberale Parti",3
+Struer,7,Hvidbjerg,V_Anisiya_Flarup,Anisiya Flarup,"Venstre, Danmarks Liberale Parti",1
+Struer,7,Hvidbjerg,Æ_Listestemmer,Listestemmer,Frihedslisten,0
+Struer,7,Hvidbjerg,"Æ_Adrian-Silviu,_Struer","Adrian-Silviu, Struer",Frihedslisten,5

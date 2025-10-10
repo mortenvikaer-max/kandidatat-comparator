@@ -1,0 +1,659 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Sorø,1,Dianalund,A_Listestemmer,Listestemmer,Socialdemokratiet,216
+Sorø,1,Dianalund,"A_Anne_Madsen,_Sorø","Anne Madsen, Sorø",Socialdemokratiet,222
+Sorø,1,Dianalund,"A_Preben_Lund,_Frederiksberg","Preben Lund, Frederiksberg",Socialdemokratiet,3
+Sorø,1,Dianalund,"A_Annette_Raaschou_van_der_Star,_DiL","Annette Raaschou van der Star, DiL",Socialdemokratiet,304
+Sorø,1,Dianalund,"A_Ivan_Hansen,_Pedersborg","Ivan Hansen, Pedersborg",Socialdemokratiet,23
+Sorø,1,Dianalund,"A_Mona_Kelder_Bouidar,_Frederiksberg","Mona Kelder Bouidar, Frederiksberg",Socialdemokratiet,27
+Sorø,1,Dianalund,"A_Bettina_Jensen,_Stenlille","Bettina Jensen, Stenlille",Socialdemokratiet,49
+Sorø,1,Dianalund,"A_Flemming_Kjærgaard,_Sorø","Flemming Kjærgaard, Sorø",Socialdemokratiet,2
+Sorø,1,Dianalund,"A_Dennis_Gartig,_Frederiksberg","Dennis Gartig, Frederiksberg",Socialdemokratiet,2
+Sorø,1,Dianalund,"A_Rene_Schou_Rasmussen,_Sorø","Rene Schou Rasmussen, Sorø",Socialdemokratiet,3
+Sorø,1,Dianalund,"A_Christian_Bjerre_Høst,_Ruds_Vedby","Christian Bjerre Høst, Ruds Vedby",Socialdemokratiet,9
+Sorø,1,Dianalund,"A_Erling_Larsen,_Dianalund","Erling Larsen, Dianalund",Socialdemokratiet,20
+Sorø,1,Dianalund,"A_Thomas_Fredsø,_Sorø","Thomas Fredsø, Sorø",Socialdemokratiet,2
+Sorø,1,Dianalund,"A_Tina_Czajkowski,_Pedersborg","Tina Czajkowski, Pedersborg",Socialdemokratiet,0
+Sorø,1,Dianalund,"A_Susan_Kierch,_Frederiksberg","Susan Kierch, Frederiksberg",Socialdemokratiet,3
+Sorø,1,Dianalund,"A_Jakob_Meibom,_Sorø","Jakob Meibom, Sorø",Socialdemokratiet,2
+Sorø,1,Dianalund,"A_Klaus_Gylling,_Sorø","Klaus Gylling, Sorø",Socialdemokratiet,0
+Sorø,1,Dianalund,B_Listestemmer,Listestemmer,Radikale Venstre,10
+Sorø,1,Dianalund,"B_Sascha_Fich,_Niløse","Sascha Fich, Niløse",Radikale Venstre,30
+Sorø,1,Dianalund,"B_Edris_Qasimi,_Pedersborg","Edris Qasimi, Pedersborg",Radikale Venstre,1
+Sorø,1,Dianalund,"B_Kurt_Løvlund_Pedersen,_Dianalund","Kurt Løvlund Pedersen, Dianalund",Radikale Venstre,6
+Sorø,1,Dianalund,"B_Tomas_Bech_Madsen,_Frederiksberg","Tomas Bech Madsen, Frederiksberg",Radikale Venstre,2
+Sorø,1,Dianalund,"B_Freja_Klingstrøm_Aaskoven,_Mk.bjby","Freja Klingstrøm Aaskoven, Mk.bjby",Radikale Venstre,1
+Sorø,1,Dianalund,"B_Jan_Woollhead,_Sorø","Jan Woollhead, Sorø",Radikale Venstre,3
+Sorø,1,Dianalund,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,128
+Sorø,1,Dianalund,"C_Gert_Jørgensen,_Sorø","Gert Jørgensen, Sorø",Det Konservative Folkeparti,312
+Sorø,1,Dianalund,"C_Bo_Christensen,_Sorø","Bo Christensen, Sorø",Det Konservative Folkeparti,10
+Sorø,1,Dianalund,"C_Mogens_Schwensen,_Dianalund","Mogens Schwensen, Dianalund",Det Konservative Folkeparti,152
+Sorø,1,Dianalund,"C_Sofie_Ullerup_Torpegaard,_Fr._Berg","Sofie Ullerup Torpegaard, Fr. Berg",Det Konservative Folkeparti,27
+Sorø,1,Dianalund,"C_Carsten_Petersen,_Ruds_Vedby","Carsten Petersen, Ruds Vedby",Det Konservative Folkeparti,4
+Sorø,1,Dianalund,"C_Eva_Sell,_Sorø","Eva Sell, Sorø",Det Konservative Folkeparti,16
+Sorø,1,Dianalund,"C_Kristian_Egebæk,_Dianalund","Kristian Egebæk, Dianalund",Det Konservative Folkeparti,84
+Sorø,1,Dianalund,"C_Janus_Tarp,_Sorø","Janus Tarp, Sorø",Det Konservative Folkeparti,4
+Sorø,1,Dianalund,"C_Marianne_Vinding,_Dianalund","Marianne Vinding, Dianalund",Det Konservative Folkeparti,103
+Sorø,1,Dianalund,"C_Martin_Belli_Jørgensen,_Slaglille","Martin Belli Jørgensen, Slaglille",Det Konservative Folkeparti,2
+Sorø,1,Dianalund,"C_Jens_Jacobsen,_Stenlille","Jens Jacobsen, Stenlille",Det Konservative Folkeparti,4
+Sorø,1,Dianalund,"C_Gert_Kuhn_Iversen,_Sorø","Gert Kuhn Iversen, Sorø",Det Konservative Folkeparti,0
+Sorø,1,Dianalund,"C_Peter_Nygaard,_Pedersborg","Peter Nygaard, Pedersborg",Det Konservative Folkeparti,14
+Sorø,1,Dianalund,"C_Malene_Jauer,_Sorø","Malene Jauer, Sorø",Det Konservative Folkeparti,3
+Sorø,1,Dianalund,"C_Søren_Sørensen,_Ruds_Vedby","Søren Sørensen, Ruds Vedby",Det Konservative Folkeparti,11
+Sorø,1,Dianalund,"C_Jesper_Danhøj,_Sorø","Jesper Danhøj, Sorø",Det Konservative Folkeparti,0
+Sorø,1,Dianalund,D_Listestemmer,Listestemmer,Nye Borgerlige,78
+Sorø,1,Dianalund,"D_Susanne_Borggaard,_Stenlille","Susanne Borggaard, Stenlille",Nye Borgerlige,63
+Sorø,1,Dianalund,"D_Jørgen_Funk,_Sorø","Jørgen Funk, Sorø",Nye Borgerlige,9
+Sorø,1,Dianalund,"D_Lianne_Hansen,_Stenlille","Lianne Hansen, Stenlille",Nye Borgerlige,8
+Sorø,1,Dianalund,"D_Karsten_Jürs,_Stenlille","Karsten Jürs, Stenlille",Nye Borgerlige,6
+Sorø,1,Dianalund,"D_Henrik_Andersen,_Sorø","Henrik Andersen, Sorø",Nye Borgerlige,4
+Sorø,1,Dianalund,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,52
+Sorø,1,Dianalund,F_Linda_Nielsen,Linda Nielsen,SF - Socialistisk Folkeparti,30
+Sorø,1,Dianalund,F_Kristiane_Nyborg,Kristiane Nyborg,SF - Socialistisk Folkeparti,64
+Sorø,1,Dianalund,F_Morten_Suhr,Morten Suhr,SF - Socialistisk Folkeparti,3
+Sorø,1,Dianalund,F_Bente_Blanné,Bente Blanné,SF - Socialistisk Folkeparti,14
+Sorø,1,Dianalund,F_Anne_Katrine_Blond,Anne Katrine Blond,SF - Socialistisk Folkeparti,3
+Sorø,1,Dianalund,F_Jens_Jørgen_Hansen,Jens Jørgen Hansen,SF - Socialistisk Folkeparti,0
+Sorø,1,Dianalund,F_Poul_Hangler,Poul Hangler,SF - Socialistisk Folkeparti,0
+Sorø,1,Dianalund,F_Helle_Visti_Jensen,Helle Visti Jensen,SF - Socialistisk Folkeparti,0
+Sorø,1,Dianalund,F_Jan_E._Pedersen,Jan E. Pedersen,SF - Socialistisk Folkeparti,0
+Sorø,1,Dianalund,I_Listestemmer,Listestemmer,Liberal Alliance,12
+Sorø,1,Dianalund,I_Nicolai_Sandager,Nicolai Sandager,Liberal Alliance,18
+Sorø,1,Dianalund,I_Benjamin_Bernhard_Højland,Benjamin Bernhard Højland,Liberal Alliance,1
+Sorø,1,Dianalund,K_Listestemmer,Listestemmer,Kristendemokraterne,16
+Sorø,1,Dianalund,K_Tage_Sørensen,Tage Sørensen,Kristendemokraterne,7
+Sorø,1,Dianalund,O_Listestemmer,Listestemmer,Dansk Folkeparti,54
+Sorø,1,Dianalund,O_Lars_Schmidt,Lars Schmidt,Dansk Folkeparti,103
+Sorø,1,Dianalund,O_Lars_Damgaard,Lars Damgaard,Dansk Folkeparti,13
+Sorø,1,Dianalund,O_Ellen_Thomsen,Ellen Thomsen,Dansk Folkeparti,19
+Sorø,1,Dianalund,O_Vibeke_Danborg,Vibeke Danborg,Dansk Folkeparti,9
+Sorø,1,Dianalund,O_Finn_Sørensen,Finn Sørensen,Dansk Folkeparti,5
+Sorø,1,Dianalund,Q_Listestemmer,Listestemmer,Frigængerne,1
+Sorø,1,Dianalund,"Q_Niels_Aalbæk_Jensen,_Frederiksberg","Niels Aalbæk Jensen, Frederiksberg",Frigængerne,0
+Sorø,1,Dianalund,"Q_Pia_Hvid,_Bjernede","Pia Hvid, Bjernede",Frigængerne,3
+Sorø,1,Dianalund,"Q_Kristoffer_Lindholt,_Sorø","Kristoffer Lindholt, Sorø",Frigængerne,1
+Sorø,1,Dianalund,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",72
+Sorø,1,Dianalund,"V_Kasper_Nygaard,_Pedersborg","Kasper Nygaard, Pedersborg","Venstre, Danmarks Liberale Parti",76
+Sorø,1,Dianalund,"V_Jens_Nygaard,_Sorø","Jens Nygaard, Sorø","Venstre, Danmarks Liberale Parti",14
+Sorø,1,Dianalund,"V_Rolf_Clausen,_Fulby","Rolf Clausen, Fulby","Venstre, Danmarks Liberale Parti",5
+Sorø,1,Dianalund,"V_Henrik_Kjølby,_Stenlille","Henrik Kjølby, Stenlille","Venstre, Danmarks Liberale Parti",3
+Sorø,1,Dianalund,"V_Ninna_Wiese_Pedersen,_Bjernede","Ninna Wiese Pedersen, Bjernede","Venstre, Danmarks Liberale Parti",13
+Sorø,1,Dianalund,"V_Jørgen_Larsen,_Dianalund","Jørgen Larsen, Dianalund","Venstre, Danmarks Liberale Parti",33
+Sorø,1,Dianalund,"V_Stephen_Møller_Hansen,_Sorø","Stephen Møller Hansen, Sorø","Venstre, Danmarks Liberale Parti",6
+Sorø,1,Dianalund,"V_Jakob_Spliid,_Frederiksberg","Jakob Spliid, Frederiksberg","Venstre, Danmarks Liberale Parti",35
+Sorø,1,Dianalund,"V_Henrik_Vester,_Frederiksberg","Henrik Vester, Frederiksberg","Venstre, Danmarks Liberale Parti",0
+Sorø,1,Dianalund,"V_Birgitte_Vester,_Frederiksberg","Birgitte Vester, Frederiksberg","Venstre, Danmarks Liberale Parti",1
+Sorø,1,Dianalund,"V_Asger_Jørnow,_Sorø","Asger Jørnow, Sorø","Venstre, Danmarks Liberale Parti",2
+Sorø,1,Dianalund,Æ_Listestemmer,Listestemmer,Frihedslisten,2
+Sorø,1,Dianalund,"Æ_Marianne_Hede,_St._Merløse","Marianne Hede, St. Merløse",Frihedslisten,1
+Sorø,1,Dianalund,"Æ_Mai_Ntova,_Dianalund","Mai Ntova, Dianalund",Frihedslisten,9
+Sorø,1,Dianalund,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,47
+Sorø,1,Dianalund,"Ø_Bo_Mouritzen,_Broby","Bo Mouritzen, Broby",Enhedslisten - De Rød-Grønne,23
+Sorø,1,Dianalund,"Ø_Abelone_Bergløv,_Lynge","Abelone Bergløv, Lynge",Enhedslisten - De Rød-Grønne,3
+Sorø,1,Dianalund,"Ø_Helene_Vadsten,_Pedersborg","Helene Vadsten, Pedersborg",Enhedslisten - De Rød-Grønne,8
+Sorø,1,Dianalund,"Ø_Niels-_Erik_Eich,_Frederiksberg","Niels- Erik Eich, Frederiksberg",Enhedslisten - De Rød-Grønne,2
+Sorø,1,Dianalund,"Ø_Ellen_Grüner,_Sorø","Ellen Grüner, Sorø",Enhedslisten - De Rød-Grønne,2
+Sorø,1,Dianalund,"Ø_Teit_Gamst,_Stenlille","Teit Gamst, Stenlille",Enhedslisten - De Rød-Grønne,7
+Sorø,2,Ruds Vedby,A_Listestemmer,Listestemmer,Socialdemokratiet,76
+Sorø,2,Ruds Vedby,"A_Anne_Madsen,_Sorø","Anne Madsen, Sorø",Socialdemokratiet,77
+Sorø,2,Ruds Vedby,"A_Preben_Lund,_Frederiksberg","Preben Lund, Frederiksberg",Socialdemokratiet,4
+Sorø,2,Ruds Vedby,"A_Annette_Raaschou_van_der_Star,_DiL","Annette Raaschou van der Star, DiL",Socialdemokratiet,18
+Sorø,2,Ruds Vedby,"A_Ivan_Hansen,_Pedersborg","Ivan Hansen, Pedersborg",Socialdemokratiet,22
+Sorø,2,Ruds Vedby,"A_Mona_Kelder_Bouidar,_Frederiksberg","Mona Kelder Bouidar, Frederiksberg",Socialdemokratiet,3
+Sorø,2,Ruds Vedby,"A_Bettina_Jensen,_Stenlille","Bettina Jensen, Stenlille",Socialdemokratiet,6
+Sorø,2,Ruds Vedby,"A_Flemming_Kjærgaard,_Sorø","Flemming Kjærgaard, Sorø",Socialdemokratiet,3
+Sorø,2,Ruds Vedby,"A_Dennis_Gartig,_Frederiksberg","Dennis Gartig, Frederiksberg",Socialdemokratiet,1
+Sorø,2,Ruds Vedby,"A_Rene_Schou_Rasmussen,_Sorø","Rene Schou Rasmussen, Sorø",Socialdemokratiet,1
+Sorø,2,Ruds Vedby,"A_Christian_Bjerre_Høst,_Ruds_Vedby","Christian Bjerre Høst, Ruds Vedby",Socialdemokratiet,53
+Sorø,2,Ruds Vedby,"A_Erling_Larsen,_Dianalund","Erling Larsen, Dianalund",Socialdemokratiet,3
+Sorø,2,Ruds Vedby,"A_Thomas_Fredsø,_Sorø","Thomas Fredsø, Sorø",Socialdemokratiet,2
+Sorø,2,Ruds Vedby,"A_Tina_Czajkowski,_Pedersborg","Tina Czajkowski, Pedersborg",Socialdemokratiet,3
+Sorø,2,Ruds Vedby,"A_Susan_Kierch,_Frederiksberg","Susan Kierch, Frederiksberg",Socialdemokratiet,0
+Sorø,2,Ruds Vedby,"A_Jakob_Meibom,_Sorø","Jakob Meibom, Sorø",Socialdemokratiet,0
+Sorø,2,Ruds Vedby,"A_Klaus_Gylling,_Sorø","Klaus Gylling, Sorø",Socialdemokratiet,0
+Sorø,2,Ruds Vedby,B_Listestemmer,Listestemmer,Radikale Venstre,7
+Sorø,2,Ruds Vedby,"B_Sascha_Fich,_Niløse","Sascha Fich, Niløse",Radikale Venstre,1
+Sorø,2,Ruds Vedby,"B_Edris_Qasimi,_Pedersborg","Edris Qasimi, Pedersborg",Radikale Venstre,1
+Sorø,2,Ruds Vedby,"B_Kurt_Løvlund_Pedersen,_Dianalund","Kurt Løvlund Pedersen, Dianalund",Radikale Venstre,0
+Sorø,2,Ruds Vedby,"B_Tomas_Bech_Madsen,_Frederiksberg","Tomas Bech Madsen, Frederiksberg",Radikale Venstre,0
+Sorø,2,Ruds Vedby,"B_Freja_Klingstrøm_Aaskoven,_Mk.bjby","Freja Klingstrøm Aaskoven, Mk.bjby",Radikale Venstre,1
+Sorø,2,Ruds Vedby,"B_Jan_Woollhead,_Sorø","Jan Woollhead, Sorø",Radikale Venstre,0
+Sorø,2,Ruds Vedby,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,33
+Sorø,2,Ruds Vedby,"C_Gert_Jørgensen,_Sorø","Gert Jørgensen, Sorø",Det Konservative Folkeparti,53
+Sorø,2,Ruds Vedby,"C_Bo_Christensen,_Sorø","Bo Christensen, Sorø",Det Konservative Folkeparti,0
+Sorø,2,Ruds Vedby,"C_Mogens_Schwensen,_Dianalund","Mogens Schwensen, Dianalund",Det Konservative Folkeparti,6
+Sorø,2,Ruds Vedby,"C_Sofie_Ullerup_Torpegaard,_Fr._Berg","Sofie Ullerup Torpegaard, Fr. Berg",Det Konservative Folkeparti,5
+Sorø,2,Ruds Vedby,"C_Carsten_Petersen,_Ruds_Vedby","Carsten Petersen, Ruds Vedby",Det Konservative Folkeparti,132
+Sorø,2,Ruds Vedby,"C_Eva_Sell,_Sorø","Eva Sell, Sorø",Det Konservative Folkeparti,3
+Sorø,2,Ruds Vedby,"C_Kristian_Egebæk,_Dianalund","Kristian Egebæk, Dianalund",Det Konservative Folkeparti,1
+Sorø,2,Ruds Vedby,"C_Janus_Tarp,_Sorø","Janus Tarp, Sorø",Det Konservative Folkeparti,3
+Sorø,2,Ruds Vedby,"C_Marianne_Vinding,_Dianalund","Marianne Vinding, Dianalund",Det Konservative Folkeparti,12
+Sorø,2,Ruds Vedby,"C_Martin_Belli_Jørgensen,_Slaglille","Martin Belli Jørgensen, Slaglille",Det Konservative Folkeparti,0
+Sorø,2,Ruds Vedby,"C_Jens_Jacobsen,_Stenlille","Jens Jacobsen, Stenlille",Det Konservative Folkeparti,2
+Sorø,2,Ruds Vedby,"C_Gert_Kuhn_Iversen,_Sorø","Gert Kuhn Iversen, Sorø",Det Konservative Folkeparti,0
+Sorø,2,Ruds Vedby,"C_Peter_Nygaard,_Pedersborg","Peter Nygaard, Pedersborg",Det Konservative Folkeparti,4
+Sorø,2,Ruds Vedby,"C_Malene_Jauer,_Sorø","Malene Jauer, Sorø",Det Konservative Folkeparti,2
+Sorø,2,Ruds Vedby,"C_Søren_Sørensen,_Ruds_Vedby","Søren Sørensen, Ruds Vedby",Det Konservative Folkeparti,108
+Sorø,2,Ruds Vedby,"C_Jesper_Danhøj,_Sorø","Jesper Danhøj, Sorø",Det Konservative Folkeparti,0
+Sorø,2,Ruds Vedby,D_Listestemmer,Listestemmer,Nye Borgerlige,27
+Sorø,2,Ruds Vedby,"D_Susanne_Borggaard,_Stenlille","Susanne Borggaard, Stenlille",Nye Borgerlige,21
+Sorø,2,Ruds Vedby,"D_Jørgen_Funk,_Sorø","Jørgen Funk, Sorø",Nye Borgerlige,5
+Sorø,2,Ruds Vedby,"D_Lianne_Hansen,_Stenlille","Lianne Hansen, Stenlille",Nye Borgerlige,2
+Sorø,2,Ruds Vedby,"D_Karsten_Jürs,_Stenlille","Karsten Jürs, Stenlille",Nye Borgerlige,0
+Sorø,2,Ruds Vedby,"D_Henrik_Andersen,_Sorø","Henrik Andersen, Sorø",Nye Borgerlige,3
+Sorø,2,Ruds Vedby,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,17
+Sorø,2,Ruds Vedby,F_Linda_Nielsen,Linda Nielsen,SF - Socialistisk Folkeparti,5
+Sorø,2,Ruds Vedby,F_Kristiane_Nyborg,Kristiane Nyborg,SF - Socialistisk Folkeparti,16
+Sorø,2,Ruds Vedby,F_Morten_Suhr,Morten Suhr,SF - Socialistisk Folkeparti,0
+Sorø,2,Ruds Vedby,F_Bente_Blanné,Bente Blanné,SF - Socialistisk Folkeparti,0
+Sorø,2,Ruds Vedby,F_Anne_Katrine_Blond,Anne Katrine Blond,SF - Socialistisk Folkeparti,2
+Sorø,2,Ruds Vedby,F_Jens_Jørgen_Hansen,Jens Jørgen Hansen,SF - Socialistisk Folkeparti,0
+Sorø,2,Ruds Vedby,F_Poul_Hangler,Poul Hangler,SF - Socialistisk Folkeparti,0
+Sorø,2,Ruds Vedby,F_Helle_Visti_Jensen,Helle Visti Jensen,SF - Socialistisk Folkeparti,0
+Sorø,2,Ruds Vedby,F_Jan_E._Pedersen,Jan E. Pedersen,SF - Socialistisk Folkeparti,1
+Sorø,2,Ruds Vedby,I_Listestemmer,Listestemmer,Liberal Alliance,3
+Sorø,2,Ruds Vedby,I_Nicolai_Sandager,Nicolai Sandager,Liberal Alliance,4
+Sorø,2,Ruds Vedby,I_Benjamin_Bernhard_Højland,Benjamin Bernhard Højland,Liberal Alliance,0
+Sorø,2,Ruds Vedby,K_Listestemmer,Listestemmer,Kristendemokraterne,3
+Sorø,2,Ruds Vedby,K_Tage_Sørensen,Tage Sørensen,Kristendemokraterne,8
+Sorø,2,Ruds Vedby,O_Listestemmer,Listestemmer,Dansk Folkeparti,24
+Sorø,2,Ruds Vedby,O_Lars_Schmidt,Lars Schmidt,Dansk Folkeparti,22
+Sorø,2,Ruds Vedby,O_Lars_Damgaard,Lars Damgaard,Dansk Folkeparti,3
+Sorø,2,Ruds Vedby,O_Ellen_Thomsen,Ellen Thomsen,Dansk Folkeparti,4
+Sorø,2,Ruds Vedby,O_Vibeke_Danborg,Vibeke Danborg,Dansk Folkeparti,2
+Sorø,2,Ruds Vedby,O_Finn_Sørensen,Finn Sørensen,Dansk Folkeparti,1
+Sorø,2,Ruds Vedby,Q_Listestemmer,Listestemmer,Frigængerne,0
+Sorø,2,Ruds Vedby,"Q_Niels_Aalbæk_Jensen,_Frederiksberg","Niels Aalbæk Jensen, Frederiksberg",Frigængerne,0
+Sorø,2,Ruds Vedby,"Q_Pia_Hvid,_Bjernede","Pia Hvid, Bjernede",Frigængerne,1
+Sorø,2,Ruds Vedby,"Q_Kristoffer_Lindholt,_Sorø","Kristoffer Lindholt, Sorø",Frigængerne,1
+Sorø,2,Ruds Vedby,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",17
+Sorø,2,Ruds Vedby,"V_Kasper_Nygaard,_Pedersborg","Kasper Nygaard, Pedersborg","Venstre, Danmarks Liberale Parti",4
+Sorø,2,Ruds Vedby,"V_Jens_Nygaard,_Sorø","Jens Nygaard, Sorø","Venstre, Danmarks Liberale Parti",3
+Sorø,2,Ruds Vedby,"V_Rolf_Clausen,_Fulby","Rolf Clausen, Fulby","Venstre, Danmarks Liberale Parti",1
+Sorø,2,Ruds Vedby,"V_Henrik_Kjølby,_Stenlille","Henrik Kjølby, Stenlille","Venstre, Danmarks Liberale Parti",0
+Sorø,2,Ruds Vedby,"V_Ninna_Wiese_Pedersen,_Bjernede","Ninna Wiese Pedersen, Bjernede","Venstre, Danmarks Liberale Parti",2
+Sorø,2,Ruds Vedby,"V_Jørgen_Larsen,_Dianalund","Jørgen Larsen, Dianalund","Venstre, Danmarks Liberale Parti",3
+Sorø,2,Ruds Vedby,"V_Stephen_Møller_Hansen,_Sorø","Stephen Møller Hansen, Sorø","Venstre, Danmarks Liberale Parti",2
+Sorø,2,Ruds Vedby,"V_Jakob_Spliid,_Frederiksberg","Jakob Spliid, Frederiksberg","Venstre, Danmarks Liberale Parti",2
+Sorø,2,Ruds Vedby,"V_Henrik_Vester,_Frederiksberg","Henrik Vester, Frederiksberg","Venstre, Danmarks Liberale Parti",0
+Sorø,2,Ruds Vedby,"V_Birgitte_Vester,_Frederiksberg","Birgitte Vester, Frederiksberg","Venstre, Danmarks Liberale Parti",0
+Sorø,2,Ruds Vedby,"V_Asger_Jørnow,_Sorø","Asger Jørnow, Sorø","Venstre, Danmarks Liberale Parti",0
+Sorø,2,Ruds Vedby,Æ_Listestemmer,Listestemmer,Frihedslisten,3
+Sorø,2,Ruds Vedby,"Æ_Marianne_Hede,_St._Merløse","Marianne Hede, St. Merløse",Frihedslisten,2
+Sorø,2,Ruds Vedby,"Æ_Mai_Ntova,_Dianalund","Mai Ntova, Dianalund",Frihedslisten,2
+Sorø,2,Ruds Vedby,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,27
+Sorø,2,Ruds Vedby,"Ø_Bo_Mouritzen,_Broby","Bo Mouritzen, Broby",Enhedslisten - De Rød-Grønne,4
+Sorø,2,Ruds Vedby,"Ø_Abelone_Bergløv,_Lynge","Abelone Bergløv, Lynge",Enhedslisten - De Rød-Grønne,3
+Sorø,2,Ruds Vedby,"Ø_Helene_Vadsten,_Pedersborg","Helene Vadsten, Pedersborg",Enhedslisten - De Rød-Grønne,8
+Sorø,2,Ruds Vedby,"Ø_Niels-_Erik_Eich,_Frederiksberg","Niels- Erik Eich, Frederiksberg",Enhedslisten - De Rød-Grønne,2
+Sorø,2,Ruds Vedby,"Ø_Ellen_Grüner,_Sorø","Ellen Grüner, Sorø",Enhedslisten - De Rød-Grønne,0
+Sorø,2,Ruds Vedby,"Ø_Teit_Gamst,_Stenlille","Teit Gamst, Stenlille",Enhedslisten - De Rød-Grønne,0
+Sorø,4,Alsted Fjenneslev,A_Listestemmer,Listestemmer,Socialdemokratiet,76
+Sorø,4,Alsted Fjenneslev,"A_Anne_Madsen,_Sorø","Anne Madsen, Sorø",Socialdemokratiet,109
+Sorø,4,Alsted Fjenneslev,"A_Preben_Lund,_Frederiksberg","Preben Lund, Frederiksberg",Socialdemokratiet,7
+Sorø,4,Alsted Fjenneslev,"A_Annette_Raaschou_van_der_Star,_DiL","Annette Raaschou van der Star, DiL",Socialdemokratiet,0
+Sorø,4,Alsted Fjenneslev,"A_Ivan_Hansen,_Pedersborg","Ivan Hansen, Pedersborg",Socialdemokratiet,33
+Sorø,4,Alsted Fjenneslev,"A_Mona_Kelder_Bouidar,_Frederiksberg","Mona Kelder Bouidar, Frederiksberg",Socialdemokratiet,5
+Sorø,4,Alsted Fjenneslev,"A_Bettina_Jensen,_Stenlille","Bettina Jensen, Stenlille",Socialdemokratiet,4
+Sorø,4,Alsted Fjenneslev,"A_Flemming_Kjærgaard,_Sorø","Flemming Kjærgaard, Sorø",Socialdemokratiet,11
+Sorø,4,Alsted Fjenneslev,"A_Dennis_Gartig,_Frederiksberg","Dennis Gartig, Frederiksberg",Socialdemokratiet,0
+Sorø,4,Alsted Fjenneslev,"A_Rene_Schou_Rasmussen,_Sorø","Rene Schou Rasmussen, Sorø",Socialdemokratiet,2
+Sorø,4,Alsted Fjenneslev,"A_Christian_Bjerre_Høst,_Ruds_Vedby","Christian Bjerre Høst, Ruds Vedby",Socialdemokratiet,0
+Sorø,4,Alsted Fjenneslev,"A_Erling_Larsen,_Dianalund","Erling Larsen, Dianalund",Socialdemokratiet,0
+Sorø,4,Alsted Fjenneslev,"A_Thomas_Fredsø,_Sorø","Thomas Fredsø, Sorø",Socialdemokratiet,3
+Sorø,4,Alsted Fjenneslev,"A_Tina_Czajkowski,_Pedersborg","Tina Czajkowski, Pedersborg",Socialdemokratiet,2
+Sorø,4,Alsted Fjenneslev,"A_Susan_Kierch,_Frederiksberg","Susan Kierch, Frederiksberg",Socialdemokratiet,2
+Sorø,4,Alsted Fjenneslev,"A_Jakob_Meibom,_Sorø","Jakob Meibom, Sorø",Socialdemokratiet,4
+Sorø,4,Alsted Fjenneslev,"A_Klaus_Gylling,_Sorø","Klaus Gylling, Sorø",Socialdemokratiet,1
+Sorø,4,Alsted Fjenneslev,B_Listestemmer,Listestemmer,Radikale Venstre,11
+Sorø,4,Alsted Fjenneslev,"B_Sascha_Fich,_Niløse","Sascha Fich, Niløse",Radikale Venstre,5
+Sorø,4,Alsted Fjenneslev,"B_Edris_Qasimi,_Pedersborg","Edris Qasimi, Pedersborg",Radikale Venstre,2
+Sorø,4,Alsted Fjenneslev,"B_Kurt_Løvlund_Pedersen,_Dianalund","Kurt Løvlund Pedersen, Dianalund",Radikale Venstre,0
+Sorø,4,Alsted Fjenneslev,"B_Tomas_Bech_Madsen,_Frederiksberg","Tomas Bech Madsen, Frederiksberg",Radikale Venstre,0
+Sorø,4,Alsted Fjenneslev,"B_Freja_Klingstrøm_Aaskoven,_Mk.bjby","Freja Klingstrøm Aaskoven, Mk.bjby",Radikale Venstre,0
+Sorø,4,Alsted Fjenneslev,"B_Jan_Woollhead,_Sorø","Jan Woollhead, Sorø",Radikale Venstre,1
+Sorø,4,Alsted Fjenneslev,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,46
+Sorø,4,Alsted Fjenneslev,"C_Gert_Jørgensen,_Sorø","Gert Jørgensen, Sorø",Det Konservative Folkeparti,111
+Sorø,4,Alsted Fjenneslev,"C_Bo_Christensen,_Sorø","Bo Christensen, Sorø",Det Konservative Folkeparti,9
+Sorø,4,Alsted Fjenneslev,"C_Mogens_Schwensen,_Dianalund","Mogens Schwensen, Dianalund",Det Konservative Folkeparti,1
+Sorø,4,Alsted Fjenneslev,"C_Sofie_Ullerup_Torpegaard,_Fr._Berg","Sofie Ullerup Torpegaard, Fr. Berg",Det Konservative Folkeparti,14
+Sorø,4,Alsted Fjenneslev,"C_Carsten_Petersen,_Ruds_Vedby","Carsten Petersen, Ruds Vedby",Det Konservative Folkeparti,0
+Sorø,4,Alsted Fjenneslev,"C_Eva_Sell,_Sorø","Eva Sell, Sorø",Det Konservative Folkeparti,3
+Sorø,4,Alsted Fjenneslev,"C_Kristian_Egebæk,_Dianalund","Kristian Egebæk, Dianalund",Det Konservative Folkeparti,0
+Sorø,4,Alsted Fjenneslev,"C_Janus_Tarp,_Sorø","Janus Tarp, Sorø",Det Konservative Folkeparti,1
+Sorø,4,Alsted Fjenneslev,"C_Marianne_Vinding,_Dianalund","Marianne Vinding, Dianalund",Det Konservative Folkeparti,3
+Sorø,4,Alsted Fjenneslev,"C_Martin_Belli_Jørgensen,_Slaglille","Martin Belli Jørgensen, Slaglille",Det Konservative Folkeparti,46
+Sorø,4,Alsted Fjenneslev,"C_Jens_Jacobsen,_Stenlille","Jens Jacobsen, Stenlille",Det Konservative Folkeparti,1
+Sorø,4,Alsted Fjenneslev,"C_Gert_Kuhn_Iversen,_Sorø","Gert Kuhn Iversen, Sorø",Det Konservative Folkeparti,3
+Sorø,4,Alsted Fjenneslev,"C_Peter_Nygaard,_Pedersborg","Peter Nygaard, Pedersborg",Det Konservative Folkeparti,14
+Sorø,4,Alsted Fjenneslev,"C_Malene_Jauer,_Sorø","Malene Jauer, Sorø",Det Konservative Folkeparti,4
+Sorø,4,Alsted Fjenneslev,"C_Søren_Sørensen,_Ruds_Vedby","Søren Sørensen, Ruds Vedby",Det Konservative Folkeparti,2
+Sorø,4,Alsted Fjenneslev,"C_Jesper_Danhøj,_Sorø","Jesper Danhøj, Sorø",Det Konservative Folkeparti,0
+Sorø,4,Alsted Fjenneslev,D_Listestemmer,Listestemmer,Nye Borgerlige,33
+Sorø,4,Alsted Fjenneslev,"D_Susanne_Borggaard,_Stenlille","Susanne Borggaard, Stenlille",Nye Borgerlige,28
+Sorø,4,Alsted Fjenneslev,"D_Jørgen_Funk,_Sorø","Jørgen Funk, Sorø",Nye Borgerlige,4
+Sorø,4,Alsted Fjenneslev,"D_Lianne_Hansen,_Stenlille","Lianne Hansen, Stenlille",Nye Borgerlige,3
+Sorø,4,Alsted Fjenneslev,"D_Karsten_Jürs,_Stenlille","Karsten Jürs, Stenlille",Nye Borgerlige,2
+Sorø,4,Alsted Fjenneslev,"D_Henrik_Andersen,_Sorø","Henrik Andersen, Sorø",Nye Borgerlige,9
+Sorø,4,Alsted Fjenneslev,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,22
+Sorø,4,Alsted Fjenneslev,F_Linda_Nielsen,Linda Nielsen,SF - Socialistisk Folkeparti,11
+Sorø,4,Alsted Fjenneslev,F_Kristiane_Nyborg,Kristiane Nyborg,SF - Socialistisk Folkeparti,29
+Sorø,4,Alsted Fjenneslev,F_Morten_Suhr,Morten Suhr,SF - Socialistisk Folkeparti,4
+Sorø,4,Alsted Fjenneslev,F_Bente_Blanné,Bente Blanné,SF - Socialistisk Folkeparti,1
+Sorø,4,Alsted Fjenneslev,F_Anne_Katrine_Blond,Anne Katrine Blond,SF - Socialistisk Folkeparti,1
+Sorø,4,Alsted Fjenneslev,F_Jens_Jørgen_Hansen,Jens Jørgen Hansen,SF - Socialistisk Folkeparti,0
+Sorø,4,Alsted Fjenneslev,F_Poul_Hangler,Poul Hangler,SF - Socialistisk Folkeparti,4
+Sorø,4,Alsted Fjenneslev,F_Helle_Visti_Jensen,Helle Visti Jensen,SF - Socialistisk Folkeparti,0
+Sorø,4,Alsted Fjenneslev,F_Jan_E._Pedersen,Jan E. Pedersen,SF - Socialistisk Folkeparti,0
+Sorø,4,Alsted Fjenneslev,I_Listestemmer,Listestemmer,Liberal Alliance,4
+Sorø,4,Alsted Fjenneslev,I_Nicolai_Sandager,Nicolai Sandager,Liberal Alliance,8
+Sorø,4,Alsted Fjenneslev,I_Benjamin_Bernhard_Højland,Benjamin Bernhard Højland,Liberal Alliance,0
+Sorø,4,Alsted Fjenneslev,K_Listestemmer,Listestemmer,Kristendemokraterne,1
+Sorø,4,Alsted Fjenneslev,K_Tage_Sørensen,Tage Sørensen,Kristendemokraterne,0
+Sorø,4,Alsted Fjenneslev,O_Listestemmer,Listestemmer,Dansk Folkeparti,22
+Sorø,4,Alsted Fjenneslev,O_Lars_Schmidt,Lars Schmidt,Dansk Folkeparti,12
+Sorø,4,Alsted Fjenneslev,O_Lars_Damgaard,Lars Damgaard,Dansk Folkeparti,5
+Sorø,4,Alsted Fjenneslev,O_Ellen_Thomsen,Ellen Thomsen,Dansk Folkeparti,1
+Sorø,4,Alsted Fjenneslev,O_Vibeke_Danborg,Vibeke Danborg,Dansk Folkeparti,6
+Sorø,4,Alsted Fjenneslev,O_Finn_Sørensen,Finn Sørensen,Dansk Folkeparti,0
+Sorø,4,Alsted Fjenneslev,Q_Listestemmer,Listestemmer,Frigængerne,0
+Sorø,4,Alsted Fjenneslev,"Q_Niels_Aalbæk_Jensen,_Frederiksberg","Niels Aalbæk Jensen, Frederiksberg",Frigængerne,0
+Sorø,4,Alsted Fjenneslev,"Q_Pia_Hvid,_Bjernede","Pia Hvid, Bjernede",Frigængerne,11
+Sorø,4,Alsted Fjenneslev,"Q_Kristoffer_Lindholt,_Sorø","Kristoffer Lindholt, Sorø",Frigængerne,0
+Sorø,4,Alsted Fjenneslev,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",34
+Sorø,4,Alsted Fjenneslev,"V_Kasper_Nygaard,_Pedersborg","Kasper Nygaard, Pedersborg","Venstre, Danmarks Liberale Parti",37
+Sorø,4,Alsted Fjenneslev,"V_Jens_Nygaard,_Sorø","Jens Nygaard, Sorø","Venstre, Danmarks Liberale Parti",12
+Sorø,4,Alsted Fjenneslev,"V_Rolf_Clausen,_Fulby","Rolf Clausen, Fulby","Venstre, Danmarks Liberale Parti",5
+Sorø,4,Alsted Fjenneslev,"V_Henrik_Kjølby,_Stenlille","Henrik Kjølby, Stenlille","Venstre, Danmarks Liberale Parti",3
+Sorø,4,Alsted Fjenneslev,"V_Ninna_Wiese_Pedersen,_Bjernede","Ninna Wiese Pedersen, Bjernede","Venstre, Danmarks Liberale Parti",38
+Sorø,4,Alsted Fjenneslev,"V_Jørgen_Larsen,_Dianalund","Jørgen Larsen, Dianalund","Venstre, Danmarks Liberale Parti",0
+Sorø,4,Alsted Fjenneslev,"V_Stephen_Møller_Hansen,_Sorø","Stephen Møller Hansen, Sorø","Venstre, Danmarks Liberale Parti",2
+Sorø,4,Alsted Fjenneslev,"V_Jakob_Spliid,_Frederiksberg","Jakob Spliid, Frederiksberg","Venstre, Danmarks Liberale Parti",29
+Sorø,4,Alsted Fjenneslev,"V_Henrik_Vester,_Frederiksberg","Henrik Vester, Frederiksberg","Venstre, Danmarks Liberale Parti",1
+Sorø,4,Alsted Fjenneslev,"V_Birgitte_Vester,_Frederiksberg","Birgitte Vester, Frederiksberg","Venstre, Danmarks Liberale Parti",0
+Sorø,4,Alsted Fjenneslev,"V_Asger_Jørnow,_Sorø","Asger Jørnow, Sorø","Venstre, Danmarks Liberale Parti",0
+Sorø,4,Alsted Fjenneslev,Æ_Listestemmer,Listestemmer,Frihedslisten,3
+Sorø,4,Alsted Fjenneslev,"Æ_Marianne_Hede,_St._Merløse","Marianne Hede, St. Merløse",Frihedslisten,3
+Sorø,4,Alsted Fjenneslev,"Æ_Mai_Ntova,_Dianalund","Mai Ntova, Dianalund",Frihedslisten,1
+Sorø,4,Alsted Fjenneslev,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,21
+Sorø,4,Alsted Fjenneslev,"Ø_Bo_Mouritzen,_Broby","Bo Mouritzen, Broby",Enhedslisten - De Rød-Grønne,15
+Sorø,4,Alsted Fjenneslev,"Ø_Abelone_Bergløv,_Lynge","Abelone Bergløv, Lynge",Enhedslisten - De Rød-Grønne,2
+Sorø,4,Alsted Fjenneslev,"Ø_Helene_Vadsten,_Pedersborg","Helene Vadsten, Pedersborg",Enhedslisten - De Rød-Grønne,5
+Sorø,4,Alsted Fjenneslev,"Ø_Niels-_Erik_Eich,_Frederiksberg","Niels- Erik Eich, Frederiksberg",Enhedslisten - De Rød-Grønne,0
+Sorø,4,Alsted Fjenneslev,"Ø_Ellen_Grüner,_Sorø","Ellen Grüner, Sorø",Enhedslisten - De Rød-Grønne,3
+Sorø,4,Alsted Fjenneslev,"Ø_Teit_Gamst,_Stenlille","Teit Gamst, Stenlille",Enhedslisten - De Rød-Grønne,0
+Sorø,5,Sorø,A_Listestemmer,Listestemmer,Socialdemokratiet,257
+Sorø,5,Sorø,"A_Anne_Madsen,_Sorø","Anne Madsen, Sorø",Socialdemokratiet,347
+Sorø,5,Sorø,"A_Preben_Lund,_Frederiksberg","Preben Lund, Frederiksberg",Socialdemokratiet,44
+Sorø,5,Sorø,"A_Annette_Raaschou_van_der_Star,_DiL","Annette Raaschou van der Star, DiL",Socialdemokratiet,23
+Sorø,5,Sorø,"A_Ivan_Hansen,_Pedersborg","Ivan Hansen, Pedersborg",Socialdemokratiet,99
+Sorø,5,Sorø,"A_Mona_Kelder_Bouidar,_Frederiksberg","Mona Kelder Bouidar, Frederiksberg",Socialdemokratiet,54
+Sorø,5,Sorø,"A_Bettina_Jensen,_Stenlille","Bettina Jensen, Stenlille",Socialdemokratiet,6
+Sorø,5,Sorø,"A_Flemming_Kjærgaard,_Sorø","Flemming Kjærgaard, Sorø",Socialdemokratiet,22
+Sorø,5,Sorø,"A_Dennis_Gartig,_Frederiksberg","Dennis Gartig, Frederiksberg",Socialdemokratiet,1
+Sorø,5,Sorø,"A_Rene_Schou_Rasmussen,_Sorø","Rene Schou Rasmussen, Sorø",Socialdemokratiet,25
+Sorø,5,Sorø,"A_Christian_Bjerre_Høst,_Ruds_Vedby","Christian Bjerre Høst, Ruds Vedby",Socialdemokratiet,2
+Sorø,5,Sorø,"A_Erling_Larsen,_Dianalund","Erling Larsen, Dianalund",Socialdemokratiet,1
+Sorø,5,Sorø,"A_Thomas_Fredsø,_Sorø","Thomas Fredsø, Sorø",Socialdemokratiet,9
+Sorø,5,Sorø,"A_Tina_Czajkowski,_Pedersborg","Tina Czajkowski, Pedersborg",Socialdemokratiet,3
+Sorø,5,Sorø,"A_Susan_Kierch,_Frederiksberg","Susan Kierch, Frederiksberg",Socialdemokratiet,14
+Sorø,5,Sorø,"A_Jakob_Meibom,_Sorø","Jakob Meibom, Sorø",Socialdemokratiet,18
+Sorø,5,Sorø,"A_Klaus_Gylling,_Sorø","Klaus Gylling, Sorø",Socialdemokratiet,8
+Sorø,5,Sorø,B_Listestemmer,Listestemmer,Radikale Venstre,37
+Sorø,5,Sorø,"B_Sascha_Fich,_Niløse","Sascha Fich, Niløse",Radikale Venstre,48
+Sorø,5,Sorø,"B_Edris_Qasimi,_Pedersborg","Edris Qasimi, Pedersborg",Radikale Venstre,44
+Sorø,5,Sorø,"B_Kurt_Løvlund_Pedersen,_Dianalund","Kurt Løvlund Pedersen, Dianalund",Radikale Venstre,0
+Sorø,5,Sorø,"B_Tomas_Bech_Madsen,_Frederiksberg","Tomas Bech Madsen, Frederiksberg",Radikale Venstre,8
+Sorø,5,Sorø,"B_Freja_Klingstrøm_Aaskoven,_Mk.bjby","Freja Klingstrøm Aaskoven, Mk.bjby",Radikale Venstre,2
+Sorø,5,Sorø,"B_Jan_Woollhead,_Sorø","Jan Woollhead, Sorø",Radikale Venstre,0
+Sorø,5,Sorø,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,153
+Sorø,5,Sorø,"C_Gert_Jørgensen,_Sorø","Gert Jørgensen, Sorø",Det Konservative Folkeparti,462
+Sorø,5,Sorø,"C_Bo_Christensen,_Sorø","Bo Christensen, Sorø",Det Konservative Folkeparti,113
+Sorø,5,Sorø,"C_Mogens_Schwensen,_Dianalund","Mogens Schwensen, Dianalund",Det Konservative Folkeparti,12
+Sorø,5,Sorø,"C_Sofie_Ullerup_Torpegaard,_Fr._Berg","Sofie Ullerup Torpegaard, Fr. Berg",Det Konservative Folkeparti,49
+Sorø,5,Sorø,"C_Carsten_Petersen,_Ruds_Vedby","Carsten Petersen, Ruds Vedby",Det Konservative Folkeparti,0
+Sorø,5,Sorø,"C_Eva_Sell,_Sorø","Eva Sell, Sorø",Det Konservative Folkeparti,16
+Sorø,5,Sorø,"C_Kristian_Egebæk,_Dianalund","Kristian Egebæk, Dianalund",Det Konservative Folkeparti,2
+Sorø,5,Sorø,"C_Janus_Tarp,_Sorø","Janus Tarp, Sorø",Det Konservative Folkeparti,23
+Sorø,5,Sorø,"C_Marianne_Vinding,_Dianalund","Marianne Vinding, Dianalund",Det Konservative Folkeparti,11
+Sorø,5,Sorø,"C_Martin_Belli_Jørgensen,_Slaglille","Martin Belli Jørgensen, Slaglille",Det Konservative Folkeparti,23
+Sorø,5,Sorø,"C_Jens_Jacobsen,_Stenlille","Jens Jacobsen, Stenlille",Det Konservative Folkeparti,0
+Sorø,5,Sorø,"C_Gert_Kuhn_Iversen,_Sorø","Gert Kuhn Iversen, Sorø",Det Konservative Folkeparti,23
+Sorø,5,Sorø,"C_Peter_Nygaard,_Pedersborg","Peter Nygaard, Pedersborg",Det Konservative Folkeparti,42
+Sorø,5,Sorø,"C_Malene_Jauer,_Sorø","Malene Jauer, Sorø",Det Konservative Folkeparti,10
+Sorø,5,Sorø,"C_Søren_Sørensen,_Ruds_Vedby","Søren Sørensen, Ruds Vedby",Det Konservative Folkeparti,6
+Sorø,5,Sorø,"C_Jesper_Danhøj,_Sorø","Jesper Danhøj, Sorø",Det Konservative Folkeparti,8
+Sorø,5,Sorø,D_Listestemmer,Listestemmer,Nye Borgerlige,31
+Sorø,5,Sorø,"D_Susanne_Borggaard,_Stenlille","Susanne Borggaard, Stenlille",Nye Borgerlige,23
+Sorø,5,Sorø,"D_Jørgen_Funk,_Sorø","Jørgen Funk, Sorø",Nye Borgerlige,8
+Sorø,5,Sorø,"D_Lianne_Hansen,_Stenlille","Lianne Hansen, Stenlille",Nye Borgerlige,2
+Sorø,5,Sorø,"D_Karsten_Jürs,_Stenlille","Karsten Jürs, Stenlille",Nye Borgerlige,2
+Sorø,5,Sorø,"D_Henrik_Andersen,_Sorø","Henrik Andersen, Sorø",Nye Borgerlige,7
+Sorø,5,Sorø,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,85
+Sorø,5,Sorø,F_Linda_Nielsen,Linda Nielsen,SF - Socialistisk Folkeparti,66
+Sorø,5,Sorø,F_Kristiane_Nyborg,Kristiane Nyborg,SF - Socialistisk Folkeparti,169
+Sorø,5,Sorø,F_Morten_Suhr,Morten Suhr,SF - Socialistisk Folkeparti,26
+Sorø,5,Sorø,F_Bente_Blanné,Bente Blanné,SF - Socialistisk Folkeparti,7
+Sorø,5,Sorø,F_Anne_Katrine_Blond,Anne Katrine Blond,SF - Socialistisk Folkeparti,13
+Sorø,5,Sorø,F_Jens_Jørgen_Hansen,Jens Jørgen Hansen,SF - Socialistisk Folkeparti,2
+Sorø,5,Sorø,F_Poul_Hangler,Poul Hangler,SF - Socialistisk Folkeparti,3
+Sorø,5,Sorø,F_Helle_Visti_Jensen,Helle Visti Jensen,SF - Socialistisk Folkeparti,1
+Sorø,5,Sorø,F_Jan_E._Pedersen,Jan E. Pedersen,SF - Socialistisk Folkeparti,1
+Sorø,5,Sorø,I_Listestemmer,Listestemmer,Liberal Alliance,6
+Sorø,5,Sorø,I_Nicolai_Sandager,Nicolai Sandager,Liberal Alliance,19
+Sorø,5,Sorø,I_Benjamin_Bernhard_Højland,Benjamin Bernhard Højland,Liberal Alliance,4
+Sorø,5,Sorø,K_Listestemmer,Listestemmer,Kristendemokraterne,7
+Sorø,5,Sorø,K_Tage_Sørensen,Tage Sørensen,Kristendemokraterne,0
+Sorø,5,Sorø,O_Listestemmer,Listestemmer,Dansk Folkeparti,48
+Sorø,5,Sorø,O_Lars_Schmidt,Lars Schmidt,Dansk Folkeparti,19
+Sorø,5,Sorø,O_Lars_Damgaard,Lars Damgaard,Dansk Folkeparti,7
+Sorø,5,Sorø,O_Ellen_Thomsen,Ellen Thomsen,Dansk Folkeparti,5
+Sorø,5,Sorø,O_Vibeke_Danborg,Vibeke Danborg,Dansk Folkeparti,11
+Sorø,5,Sorø,O_Finn_Sørensen,Finn Sørensen,Dansk Folkeparti,0
+Sorø,5,Sorø,Q_Listestemmer,Listestemmer,Frigængerne,3
+Sorø,5,Sorø,"Q_Niels_Aalbæk_Jensen,_Frederiksberg","Niels Aalbæk Jensen, Frederiksberg",Frigængerne,11
+Sorø,5,Sorø,"Q_Pia_Hvid,_Bjernede","Pia Hvid, Bjernede",Frigængerne,3
+Sorø,5,Sorø,"Q_Kristoffer_Lindholt,_Sorø","Kristoffer Lindholt, Sorø",Frigængerne,4
+Sorø,5,Sorø,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",52
+Sorø,5,Sorø,"V_Kasper_Nygaard,_Pedersborg","Kasper Nygaard, Pedersborg","Venstre, Danmarks Liberale Parti",56
+Sorø,5,Sorø,"V_Jens_Nygaard,_Sorø","Jens Nygaard, Sorø","Venstre, Danmarks Liberale Parti",14
+Sorø,5,Sorø,"V_Rolf_Clausen,_Fulby","Rolf Clausen, Fulby","Venstre, Danmarks Liberale Parti",7
+Sorø,5,Sorø,"V_Henrik_Kjølby,_Stenlille","Henrik Kjølby, Stenlille","Venstre, Danmarks Liberale Parti",1
+Sorø,5,Sorø,"V_Ninna_Wiese_Pedersen,_Bjernede","Ninna Wiese Pedersen, Bjernede","Venstre, Danmarks Liberale Parti",44
+Sorø,5,Sorø,"V_Jørgen_Larsen,_Dianalund","Jørgen Larsen, Dianalund","Venstre, Danmarks Liberale Parti",1
+Sorø,5,Sorø,"V_Stephen_Møller_Hansen,_Sorø","Stephen Møller Hansen, Sorø","Venstre, Danmarks Liberale Parti",19
+Sorø,5,Sorø,"V_Jakob_Spliid,_Frederiksberg","Jakob Spliid, Frederiksberg","Venstre, Danmarks Liberale Parti",42
+Sorø,5,Sorø,"V_Henrik_Vester,_Frederiksberg","Henrik Vester, Frederiksberg","Venstre, Danmarks Liberale Parti",0
+Sorø,5,Sorø,"V_Birgitte_Vester,_Frederiksberg","Birgitte Vester, Frederiksberg","Venstre, Danmarks Liberale Parti",1
+Sorø,5,Sorø,"V_Asger_Jørnow,_Sorø","Asger Jørnow, Sorø","Venstre, Danmarks Liberale Parti",8
+Sorø,5,Sorø,Æ_Listestemmer,Listestemmer,Frihedslisten,4
+Sorø,5,Sorø,"Æ_Marianne_Hede,_St._Merløse","Marianne Hede, St. Merløse",Frihedslisten,2
+Sorø,5,Sorø,"Æ_Mai_Ntova,_Dianalund","Mai Ntova, Dianalund",Frihedslisten,4
+Sorø,5,Sorø,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,78
+Sorø,5,Sorø,"Ø_Bo_Mouritzen,_Broby","Bo Mouritzen, Broby",Enhedslisten - De Rød-Grønne,51
+Sorø,5,Sorø,"Ø_Abelone_Bergløv,_Lynge","Abelone Bergløv, Lynge",Enhedslisten - De Rød-Grønne,6
+Sorø,5,Sorø,"Ø_Helene_Vadsten,_Pedersborg","Helene Vadsten, Pedersborg",Enhedslisten - De Rød-Grønne,9
+Sorø,5,Sorø,"Ø_Niels-_Erik_Eich,_Frederiksberg","Niels- Erik Eich, Frederiksberg",Enhedslisten - De Rød-Grønne,5
+Sorø,5,Sorø,"Ø_Ellen_Grüner,_Sorø","Ellen Grüner, Sorø",Enhedslisten - De Rød-Grønne,4
+Sorø,5,Sorø,"Ø_Teit_Gamst,_Stenlille","Teit Gamst, Stenlille",Enhedslisten - De Rød-Grønne,0
+Sorø,6,Frederiksberg,A_Listestemmer,Listestemmer,Socialdemokratiet,186
+Sorø,6,Frederiksberg,"A_Anne_Madsen,_Sorø","Anne Madsen, Sorø",Socialdemokratiet,284
+Sorø,6,Frederiksberg,"A_Preben_Lund,_Frederiksberg","Preben Lund, Frederiksberg",Socialdemokratiet,118
+Sorø,6,Frederiksberg,"A_Annette_Raaschou_van_der_Star,_DiL","Annette Raaschou van der Star, DiL",Socialdemokratiet,22
+Sorø,6,Frederiksberg,"A_Ivan_Hansen,_Pedersborg","Ivan Hansen, Pedersborg",Socialdemokratiet,73
+Sorø,6,Frederiksberg,"A_Mona_Kelder_Bouidar,_Frederiksberg","Mona Kelder Bouidar, Frederiksberg",Socialdemokratiet,136
+Sorø,6,Frederiksberg,"A_Bettina_Jensen,_Stenlille","Bettina Jensen, Stenlille",Socialdemokratiet,4
+Sorø,6,Frederiksberg,"A_Flemming_Kjærgaard,_Sorø","Flemming Kjærgaard, Sorø",Socialdemokratiet,6
+Sorø,6,Frederiksberg,"A_Dennis_Gartig,_Frederiksberg","Dennis Gartig, Frederiksberg",Socialdemokratiet,9
+Sorø,6,Frederiksberg,"A_Rene_Schou_Rasmussen,_Sorø","Rene Schou Rasmussen, Sorø",Socialdemokratiet,3
+Sorø,6,Frederiksberg,"A_Christian_Bjerre_Høst,_Ruds_Vedby","Christian Bjerre Høst, Ruds Vedby",Socialdemokratiet,0
+Sorø,6,Frederiksberg,"A_Erling_Larsen,_Dianalund","Erling Larsen, Dianalund",Socialdemokratiet,1
+Sorø,6,Frederiksberg,"A_Thomas_Fredsø,_Sorø","Thomas Fredsø, Sorø",Socialdemokratiet,11
+Sorø,6,Frederiksberg,"A_Tina_Czajkowski,_Pedersborg","Tina Czajkowski, Pedersborg",Socialdemokratiet,0
+Sorø,6,Frederiksberg,"A_Susan_Kierch,_Frederiksberg","Susan Kierch, Frederiksberg",Socialdemokratiet,18
+Sorø,6,Frederiksberg,"A_Jakob_Meibom,_Sorø","Jakob Meibom, Sorø",Socialdemokratiet,39
+Sorø,6,Frederiksberg,"A_Klaus_Gylling,_Sorø","Klaus Gylling, Sorø",Socialdemokratiet,2
+Sorø,6,Frederiksberg,B_Listestemmer,Listestemmer,Radikale Venstre,27
+Sorø,6,Frederiksberg,"B_Sascha_Fich,_Niløse","Sascha Fich, Niløse",Radikale Venstre,43
+Sorø,6,Frederiksberg,"B_Edris_Qasimi,_Pedersborg","Edris Qasimi, Pedersborg",Radikale Venstre,51
+Sorø,6,Frederiksberg,"B_Kurt_Løvlund_Pedersen,_Dianalund","Kurt Løvlund Pedersen, Dianalund",Radikale Venstre,0
+Sorø,6,Frederiksberg,"B_Tomas_Bech_Madsen,_Frederiksberg","Tomas Bech Madsen, Frederiksberg",Radikale Venstre,6
+Sorø,6,Frederiksberg,"B_Freja_Klingstrøm_Aaskoven,_Mk.bjby","Freja Klingstrøm Aaskoven, Mk.bjby",Radikale Venstre,0
+Sorø,6,Frederiksberg,"B_Jan_Woollhead,_Sorø","Jan Woollhead, Sorø",Radikale Venstre,6
+Sorø,6,Frederiksberg,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,108
+Sorø,6,Frederiksberg,"C_Gert_Jørgensen,_Sorø","Gert Jørgensen, Sorø",Det Konservative Folkeparti,382
+Sorø,6,Frederiksberg,"C_Bo_Christensen,_Sorø","Bo Christensen, Sorø",Det Konservative Folkeparti,47
+Sorø,6,Frederiksberg,"C_Mogens_Schwensen,_Dianalund","Mogens Schwensen, Dianalund",Det Konservative Folkeparti,6
+Sorø,6,Frederiksberg,"C_Sofie_Ullerup_Torpegaard,_Fr._Berg","Sofie Ullerup Torpegaard, Fr. Berg",Det Konservative Folkeparti,113
+Sorø,6,Frederiksberg,"C_Carsten_Petersen,_Ruds_Vedby","Carsten Petersen, Ruds Vedby",Det Konservative Folkeparti,2
+Sorø,6,Frederiksberg,"C_Eva_Sell,_Sorø","Eva Sell, Sorø",Det Konservative Folkeparti,12
+Sorø,6,Frederiksberg,"C_Kristian_Egebæk,_Dianalund","Kristian Egebæk, Dianalund",Det Konservative Folkeparti,1
+Sorø,6,Frederiksberg,"C_Janus_Tarp,_Sorø","Janus Tarp, Sorø",Det Konservative Folkeparti,16
+Sorø,6,Frederiksberg,"C_Marianne_Vinding,_Dianalund","Marianne Vinding, Dianalund",Det Konservative Folkeparti,4
+Sorø,6,Frederiksberg,"C_Martin_Belli_Jørgensen,_Slaglille","Martin Belli Jørgensen, Slaglille",Det Konservative Folkeparti,14
+Sorø,6,Frederiksberg,"C_Jens_Jacobsen,_Stenlille","Jens Jacobsen, Stenlille",Det Konservative Folkeparti,1
+Sorø,6,Frederiksberg,"C_Gert_Kuhn_Iversen,_Sorø","Gert Kuhn Iversen, Sorø",Det Konservative Folkeparti,9
+Sorø,6,Frederiksberg,"C_Peter_Nygaard,_Pedersborg","Peter Nygaard, Pedersborg",Det Konservative Folkeparti,25
+Sorø,6,Frederiksberg,"C_Malene_Jauer,_Sorø","Malene Jauer, Sorø",Det Konservative Folkeparti,6
+Sorø,6,Frederiksberg,"C_Søren_Sørensen,_Ruds_Vedby","Søren Sørensen, Ruds Vedby",Det Konservative Folkeparti,1
+Sorø,6,Frederiksberg,"C_Jesper_Danhøj,_Sorø","Jesper Danhøj, Sorø",Det Konservative Folkeparti,2
+Sorø,6,Frederiksberg,D_Listestemmer,Listestemmer,Nye Borgerlige,40
+Sorø,6,Frederiksberg,"D_Susanne_Borggaard,_Stenlille","Susanne Borggaard, Stenlille",Nye Borgerlige,32
+Sorø,6,Frederiksberg,"D_Jørgen_Funk,_Sorø","Jørgen Funk, Sorø",Nye Borgerlige,4
+Sorø,6,Frederiksberg,"D_Lianne_Hansen,_Stenlille","Lianne Hansen, Stenlille",Nye Borgerlige,3
+Sorø,6,Frederiksberg,"D_Karsten_Jürs,_Stenlille","Karsten Jürs, Stenlille",Nye Borgerlige,6
+Sorø,6,Frederiksberg,"D_Henrik_Andersen,_Sorø","Henrik Andersen, Sorø",Nye Borgerlige,4
+Sorø,6,Frederiksberg,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,90
+Sorø,6,Frederiksberg,F_Linda_Nielsen,Linda Nielsen,SF - Socialistisk Folkeparti,101
+Sorø,6,Frederiksberg,F_Kristiane_Nyborg,Kristiane Nyborg,SF - Socialistisk Folkeparti,202
+Sorø,6,Frederiksberg,F_Morten_Suhr,Morten Suhr,SF - Socialistisk Folkeparti,65
+Sorø,6,Frederiksberg,F_Bente_Blanné,Bente Blanné,SF - Socialistisk Folkeparti,8
+Sorø,6,Frederiksberg,F_Anne_Katrine_Blond,Anne Katrine Blond,SF - Socialistisk Folkeparti,4
+Sorø,6,Frederiksberg,F_Jens_Jørgen_Hansen,Jens Jørgen Hansen,SF - Socialistisk Folkeparti,2
+Sorø,6,Frederiksberg,F_Poul_Hangler,Poul Hangler,SF - Socialistisk Folkeparti,12
+Sorø,6,Frederiksberg,F_Helle_Visti_Jensen,Helle Visti Jensen,SF - Socialistisk Folkeparti,7
+Sorø,6,Frederiksberg,F_Jan_E._Pedersen,Jan E. Pedersen,SF - Socialistisk Folkeparti,1
+Sorø,6,Frederiksberg,I_Listestemmer,Listestemmer,Liberal Alliance,7
+Sorø,6,Frederiksberg,I_Nicolai_Sandager,Nicolai Sandager,Liberal Alliance,19
+Sorø,6,Frederiksberg,I_Benjamin_Bernhard_Højland,Benjamin Bernhard Højland,Liberal Alliance,1
+Sorø,6,Frederiksberg,K_Listestemmer,Listestemmer,Kristendemokraterne,4
+Sorø,6,Frederiksberg,K_Tage_Sørensen,Tage Sørensen,Kristendemokraterne,2
+Sorø,6,Frederiksberg,O_Listestemmer,Listestemmer,Dansk Folkeparti,27
+Sorø,6,Frederiksberg,O_Lars_Schmidt,Lars Schmidt,Dansk Folkeparti,20
+Sorø,6,Frederiksberg,O_Lars_Damgaard,Lars Damgaard,Dansk Folkeparti,6
+Sorø,6,Frederiksberg,O_Ellen_Thomsen,Ellen Thomsen,Dansk Folkeparti,7
+Sorø,6,Frederiksberg,O_Vibeke_Danborg,Vibeke Danborg,Dansk Folkeparti,1
+Sorø,6,Frederiksberg,O_Finn_Sørensen,Finn Sørensen,Dansk Folkeparti,2
+Sorø,6,Frederiksberg,Q_Listestemmer,Listestemmer,Frigængerne,1
+Sorø,6,Frederiksberg,"Q_Niels_Aalbæk_Jensen,_Frederiksberg","Niels Aalbæk Jensen, Frederiksberg",Frigængerne,27
+Sorø,6,Frederiksberg,"Q_Pia_Hvid,_Bjernede","Pia Hvid, Bjernede",Frigængerne,5
+Sorø,6,Frederiksberg,"Q_Kristoffer_Lindholt,_Sorø","Kristoffer Lindholt, Sorø",Frigængerne,2
+Sorø,6,Frederiksberg,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",64
+Sorø,6,Frederiksberg,"V_Kasper_Nygaard,_Pedersborg","Kasper Nygaard, Pedersborg","Venstre, Danmarks Liberale Parti",69
+Sorø,6,Frederiksberg,"V_Jens_Nygaard,_Sorø","Jens Nygaard, Sorø","Venstre, Danmarks Liberale Parti",19
+Sorø,6,Frederiksberg,"V_Rolf_Clausen,_Fulby","Rolf Clausen, Fulby","Venstre, Danmarks Liberale Parti",7
+Sorø,6,Frederiksberg,"V_Henrik_Kjølby,_Stenlille","Henrik Kjølby, Stenlille","Venstre, Danmarks Liberale Parti",1
+Sorø,6,Frederiksberg,"V_Ninna_Wiese_Pedersen,_Bjernede","Ninna Wiese Pedersen, Bjernede","Venstre, Danmarks Liberale Parti",21
+Sorø,6,Frederiksberg,"V_Jørgen_Larsen,_Dianalund","Jørgen Larsen, Dianalund","Venstre, Danmarks Liberale Parti",1
+Sorø,6,Frederiksberg,"V_Stephen_Møller_Hansen,_Sorø","Stephen Møller Hansen, Sorø","Venstre, Danmarks Liberale Parti",7
+Sorø,6,Frederiksberg,"V_Jakob_Spliid,_Frederiksberg","Jakob Spliid, Frederiksberg","Venstre, Danmarks Liberale Parti",124
+Sorø,6,Frederiksberg,"V_Henrik_Vester,_Frederiksberg","Henrik Vester, Frederiksberg","Venstre, Danmarks Liberale Parti",2
+Sorø,6,Frederiksberg,"V_Birgitte_Vester,_Frederiksberg","Birgitte Vester, Frederiksberg","Venstre, Danmarks Liberale Parti",5
+Sorø,6,Frederiksberg,"V_Asger_Jørnow,_Sorø","Asger Jørnow, Sorø","Venstre, Danmarks Liberale Parti",1
+Sorø,6,Frederiksberg,Æ_Listestemmer,Listestemmer,Frihedslisten,3
+Sorø,6,Frederiksberg,"Æ_Marianne_Hede,_St._Merløse","Marianne Hede, St. Merløse",Frihedslisten,4
+Sorø,6,Frederiksberg,"Æ_Mai_Ntova,_Dianalund","Mai Ntova, Dianalund",Frihedslisten,1
+Sorø,6,Frederiksberg,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,65
+Sorø,6,Frederiksberg,"Ø_Bo_Mouritzen,_Broby","Bo Mouritzen, Broby",Enhedslisten - De Rød-Grønne,88
+Sorø,6,Frederiksberg,"Ø_Abelone_Bergløv,_Lynge","Abelone Bergløv, Lynge",Enhedslisten - De Rød-Grønne,28
+Sorø,6,Frederiksberg,"Ø_Helene_Vadsten,_Pedersborg","Helene Vadsten, Pedersborg",Enhedslisten - De Rød-Grønne,12
+Sorø,6,Frederiksberg,"Ø_Niels-_Erik_Eich,_Frederiksberg","Niels- Erik Eich, Frederiksberg",Enhedslisten - De Rød-Grønne,5
+Sorø,6,Frederiksberg,"Ø_Ellen_Grüner,_Sorø","Ellen Grüner, Sorø",Enhedslisten - De Rød-Grønne,4
+Sorø,6,Frederiksberg,"Ø_Teit_Gamst,_Stenlille","Teit Gamst, Stenlille",Enhedslisten - De Rød-Grønne,2
+Sorø,8,Pedersborg,A_Listestemmer,Listestemmer,Socialdemokratiet,150
+Sorø,8,Pedersborg,"A_Anne_Madsen,_Sorø","Anne Madsen, Sorø",Socialdemokratiet,300
+Sorø,8,Pedersborg,"A_Preben_Lund,_Frederiksberg","Preben Lund, Frederiksberg",Socialdemokratiet,19
+Sorø,8,Pedersborg,"A_Annette_Raaschou_van_der_Star,_DiL","Annette Raaschou van der Star, DiL",Socialdemokratiet,17
+Sorø,8,Pedersborg,"A_Ivan_Hansen,_Pedersborg","Ivan Hansen, Pedersborg",Socialdemokratiet,116
+Sorø,8,Pedersborg,"A_Mona_Kelder_Bouidar,_Frederiksberg","Mona Kelder Bouidar, Frederiksberg",Socialdemokratiet,38
+Sorø,8,Pedersborg,"A_Bettina_Jensen,_Stenlille","Bettina Jensen, Stenlille",Socialdemokratiet,10
+Sorø,8,Pedersborg,"A_Flemming_Kjærgaard,_Sorø","Flemming Kjærgaard, Sorø",Socialdemokratiet,17
+Sorø,8,Pedersborg,"A_Dennis_Gartig,_Frederiksberg","Dennis Gartig, Frederiksberg",Socialdemokratiet,5
+Sorø,8,Pedersborg,"A_Rene_Schou_Rasmussen,_Sorø","Rene Schou Rasmussen, Sorø",Socialdemokratiet,9
+Sorø,8,Pedersborg,"A_Christian_Bjerre_Høst,_Ruds_Vedby","Christian Bjerre Høst, Ruds Vedby",Socialdemokratiet,4
+Sorø,8,Pedersborg,"A_Erling_Larsen,_Dianalund","Erling Larsen, Dianalund",Socialdemokratiet,0
+Sorø,8,Pedersborg,"A_Thomas_Fredsø,_Sorø","Thomas Fredsø, Sorø",Socialdemokratiet,0
+Sorø,8,Pedersborg,"A_Tina_Czajkowski,_Pedersborg","Tina Czajkowski, Pedersborg",Socialdemokratiet,15
+Sorø,8,Pedersborg,"A_Susan_Kierch,_Frederiksberg","Susan Kierch, Frederiksberg",Socialdemokratiet,2
+Sorø,8,Pedersborg,"A_Jakob_Meibom,_Sorø","Jakob Meibom, Sorø",Socialdemokratiet,11
+Sorø,8,Pedersborg,"A_Klaus_Gylling,_Sorø","Klaus Gylling, Sorø",Socialdemokratiet,2
+Sorø,8,Pedersborg,B_Listestemmer,Listestemmer,Radikale Venstre,20
+Sorø,8,Pedersborg,"B_Sascha_Fich,_Niløse","Sascha Fich, Niløse",Radikale Venstre,11
+Sorø,8,Pedersborg,"B_Edris_Qasimi,_Pedersborg","Edris Qasimi, Pedersborg",Radikale Venstre,20
+Sorø,8,Pedersborg,"B_Kurt_Løvlund_Pedersen,_Dianalund","Kurt Løvlund Pedersen, Dianalund",Radikale Venstre,0
+Sorø,8,Pedersborg,"B_Tomas_Bech_Madsen,_Frederiksberg","Tomas Bech Madsen, Frederiksberg",Radikale Venstre,2
+Sorø,8,Pedersborg,"B_Freja_Klingstrøm_Aaskoven,_Mk.bjby","Freja Klingstrøm Aaskoven, Mk.bjby",Radikale Venstre,0
+Sorø,8,Pedersborg,"B_Jan_Woollhead,_Sorø","Jan Woollhead, Sorø",Radikale Venstre,1
+Sorø,8,Pedersborg,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,114
+Sorø,8,Pedersborg,"C_Gert_Jørgensen,_Sorø","Gert Jørgensen, Sorø",Det Konservative Folkeparti,309
+Sorø,8,Pedersborg,"C_Bo_Christensen,_Sorø","Bo Christensen, Sorø",Det Konservative Folkeparti,44
+Sorø,8,Pedersborg,"C_Mogens_Schwensen,_Dianalund","Mogens Schwensen, Dianalund",Det Konservative Folkeparti,5
+Sorø,8,Pedersborg,"C_Sofie_Ullerup_Torpegaard,_Fr._Berg","Sofie Ullerup Torpegaard, Fr. Berg",Det Konservative Folkeparti,35
+Sorø,8,Pedersborg,"C_Carsten_Petersen,_Ruds_Vedby","Carsten Petersen, Ruds Vedby",Det Konservative Folkeparti,2
+Sorø,8,Pedersborg,"C_Eva_Sell,_Sorø","Eva Sell, Sorø",Det Konservative Folkeparti,10
+Sorø,8,Pedersborg,"C_Kristian_Egebæk,_Dianalund","Kristian Egebæk, Dianalund",Det Konservative Folkeparti,2
+Sorø,8,Pedersborg,"C_Janus_Tarp,_Sorø","Janus Tarp, Sorø",Det Konservative Folkeparti,10
+Sorø,8,Pedersborg,"C_Marianne_Vinding,_Dianalund","Marianne Vinding, Dianalund",Det Konservative Folkeparti,6
+Sorø,8,Pedersborg,"C_Martin_Belli_Jørgensen,_Slaglille","Martin Belli Jørgensen, Slaglille",Det Konservative Folkeparti,21
+Sorø,8,Pedersborg,"C_Jens_Jacobsen,_Stenlille","Jens Jacobsen, Stenlille",Det Konservative Folkeparti,2
+Sorø,8,Pedersborg,"C_Gert_Kuhn_Iversen,_Sorø","Gert Kuhn Iversen, Sorø",Det Konservative Folkeparti,10
+Sorø,8,Pedersborg,"C_Peter_Nygaard,_Pedersborg","Peter Nygaard, Pedersborg",Det Konservative Folkeparti,64
+Sorø,8,Pedersborg,"C_Malene_Jauer,_Sorø","Malene Jauer, Sorø",Det Konservative Folkeparti,2
+Sorø,8,Pedersborg,"C_Søren_Sørensen,_Ruds_Vedby","Søren Sørensen, Ruds Vedby",Det Konservative Folkeparti,3
+Sorø,8,Pedersborg,"C_Jesper_Danhøj,_Sorø","Jesper Danhøj, Sorø",Det Konservative Folkeparti,3
+Sorø,8,Pedersborg,D_Listestemmer,Listestemmer,Nye Borgerlige,45
+Sorø,8,Pedersborg,"D_Susanne_Borggaard,_Stenlille","Susanne Borggaard, Stenlille",Nye Borgerlige,38
+Sorø,8,Pedersborg,"D_Jørgen_Funk,_Sorø","Jørgen Funk, Sorø",Nye Borgerlige,9
+Sorø,8,Pedersborg,"D_Lianne_Hansen,_Stenlille","Lianne Hansen, Stenlille",Nye Borgerlige,4
+Sorø,8,Pedersborg,"D_Karsten_Jürs,_Stenlille","Karsten Jürs, Stenlille",Nye Borgerlige,1
+Sorø,8,Pedersborg,"D_Henrik_Andersen,_Sorø","Henrik Andersen, Sorø",Nye Borgerlige,18
+Sorø,8,Pedersborg,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,42
+Sorø,8,Pedersborg,F_Linda_Nielsen,Linda Nielsen,SF - Socialistisk Folkeparti,28
+Sorø,8,Pedersborg,F_Kristiane_Nyborg,Kristiane Nyborg,SF - Socialistisk Folkeparti,74
+Sorø,8,Pedersborg,F_Morten_Suhr,Morten Suhr,SF - Socialistisk Folkeparti,3
+Sorø,8,Pedersborg,F_Bente_Blanné,Bente Blanné,SF - Socialistisk Folkeparti,7
+Sorø,8,Pedersborg,F_Anne_Katrine_Blond,Anne Katrine Blond,SF - Socialistisk Folkeparti,7
+Sorø,8,Pedersborg,F_Jens_Jørgen_Hansen,Jens Jørgen Hansen,SF - Socialistisk Folkeparti,0
+Sorø,8,Pedersborg,F_Poul_Hangler,Poul Hangler,SF - Socialistisk Folkeparti,2
+Sorø,8,Pedersborg,F_Helle_Visti_Jensen,Helle Visti Jensen,SF - Socialistisk Folkeparti,0
+Sorø,8,Pedersborg,F_Jan_E._Pedersen,Jan E. Pedersen,SF - Socialistisk Folkeparti,1
+Sorø,8,Pedersborg,I_Listestemmer,Listestemmer,Liberal Alliance,7
+Sorø,8,Pedersborg,I_Nicolai_Sandager,Nicolai Sandager,Liberal Alliance,10
+Sorø,8,Pedersborg,I_Benjamin_Bernhard_Højland,Benjamin Bernhard Højland,Liberal Alliance,2
+Sorø,8,Pedersborg,K_Listestemmer,Listestemmer,Kristendemokraterne,0
+Sorø,8,Pedersborg,K_Tage_Sørensen,Tage Sørensen,Kristendemokraterne,2
+Sorø,8,Pedersborg,O_Listestemmer,Listestemmer,Dansk Folkeparti,38
+Sorø,8,Pedersborg,O_Lars_Schmidt,Lars Schmidt,Dansk Folkeparti,28
+Sorø,8,Pedersborg,O_Lars_Damgaard,Lars Damgaard,Dansk Folkeparti,8
+Sorø,8,Pedersborg,O_Ellen_Thomsen,Ellen Thomsen,Dansk Folkeparti,7
+Sorø,8,Pedersborg,O_Vibeke_Danborg,Vibeke Danborg,Dansk Folkeparti,6
+Sorø,8,Pedersborg,O_Finn_Sørensen,Finn Sørensen,Dansk Folkeparti,3
+Sorø,8,Pedersborg,Q_Listestemmer,Listestemmer,Frigængerne,0
+Sorø,8,Pedersborg,"Q_Niels_Aalbæk_Jensen,_Frederiksberg","Niels Aalbæk Jensen, Frederiksberg",Frigængerne,4
+Sorø,8,Pedersborg,"Q_Pia_Hvid,_Bjernede","Pia Hvid, Bjernede",Frigængerne,4
+Sorø,8,Pedersborg,"Q_Kristoffer_Lindholt,_Sorø","Kristoffer Lindholt, Sorø",Frigængerne,0
+Sorø,8,Pedersborg,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",54
+Sorø,8,Pedersborg,"V_Kasper_Nygaard,_Pedersborg","Kasper Nygaard, Pedersborg","Venstre, Danmarks Liberale Parti",89
+Sorø,8,Pedersborg,"V_Jens_Nygaard,_Sorø","Jens Nygaard, Sorø","Venstre, Danmarks Liberale Parti",33
+Sorø,8,Pedersborg,"V_Rolf_Clausen,_Fulby","Rolf Clausen, Fulby","Venstre, Danmarks Liberale Parti",10
+Sorø,8,Pedersborg,"V_Henrik_Kjølby,_Stenlille","Henrik Kjølby, Stenlille","Venstre, Danmarks Liberale Parti",2
+Sorø,8,Pedersborg,"V_Ninna_Wiese_Pedersen,_Bjernede","Ninna Wiese Pedersen, Bjernede","Venstre, Danmarks Liberale Parti",57
+Sorø,8,Pedersborg,"V_Jørgen_Larsen,_Dianalund","Jørgen Larsen, Dianalund","Venstre, Danmarks Liberale Parti",4
+Sorø,8,Pedersborg,"V_Stephen_Møller_Hansen,_Sorø","Stephen Møller Hansen, Sorø","Venstre, Danmarks Liberale Parti",6
+Sorø,8,Pedersborg,"V_Jakob_Spliid,_Frederiksberg","Jakob Spliid, Frederiksberg","Venstre, Danmarks Liberale Parti",56
+Sorø,8,Pedersborg,"V_Henrik_Vester,_Frederiksberg","Henrik Vester, Frederiksberg","Venstre, Danmarks Liberale Parti",0
+Sorø,8,Pedersborg,"V_Birgitte_Vester,_Frederiksberg","Birgitte Vester, Frederiksberg","Venstre, Danmarks Liberale Parti",0
+Sorø,8,Pedersborg,"V_Asger_Jørnow,_Sorø","Asger Jørnow, Sorø","Venstre, Danmarks Liberale Parti",1
+Sorø,8,Pedersborg,Æ_Listestemmer,Listestemmer,Frihedslisten,3
+Sorø,8,Pedersborg,"Æ_Marianne_Hede,_St._Merløse","Marianne Hede, St. Merløse",Frihedslisten,2
+Sorø,8,Pedersborg,"Æ_Mai_Ntova,_Dianalund","Mai Ntova, Dianalund",Frihedslisten,2
+Sorø,8,Pedersborg,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,28
+Sorø,8,Pedersborg,"Ø_Bo_Mouritzen,_Broby","Bo Mouritzen, Broby",Enhedslisten - De Rød-Grønne,21
+Sorø,8,Pedersborg,"Ø_Abelone_Bergløv,_Lynge","Abelone Bergløv, Lynge",Enhedslisten - De Rød-Grønne,6
+Sorø,8,Pedersborg,"Ø_Helene_Vadsten,_Pedersborg","Helene Vadsten, Pedersborg",Enhedslisten - De Rød-Grønne,14
+Sorø,8,Pedersborg,"Ø_Niels-_Erik_Eich,_Frederiksberg","Niels- Erik Eich, Frederiksberg",Enhedslisten - De Rød-Grønne,2
+Sorø,8,Pedersborg,"Ø_Ellen_Grüner,_Sorø","Ellen Grüner, Sorø",Enhedslisten - De Rød-Grønne,5
+Sorø,8,Pedersborg,"Ø_Teit_Gamst,_Stenlille","Teit Gamst, Stenlille",Enhedslisten - De Rød-Grønne,0
+Sorø,10,Stenlille,A_Listestemmer,Listestemmer,Socialdemokratiet,171
+Sorø,10,Stenlille,"A_Anne_Madsen,_Sorø","Anne Madsen, Sorø",Socialdemokratiet,186
+Sorø,10,Stenlille,"A_Preben_Lund,_Frederiksberg","Preben Lund, Frederiksberg",Socialdemokratiet,4
+Sorø,10,Stenlille,"A_Annette_Raaschou_van_der_Star,_DiL","Annette Raaschou van der Star, DiL",Socialdemokratiet,18
+Sorø,10,Stenlille,"A_Ivan_Hansen,_Pedersborg","Ivan Hansen, Pedersborg",Socialdemokratiet,31
+Sorø,10,Stenlille,"A_Mona_Kelder_Bouidar,_Frederiksberg","Mona Kelder Bouidar, Frederiksberg",Socialdemokratiet,20
+Sorø,10,Stenlille,"A_Bettina_Jensen,_Stenlille","Bettina Jensen, Stenlille",Socialdemokratiet,272
+Sorø,10,Stenlille,"A_Flemming_Kjærgaard,_Sorø","Flemming Kjærgaard, Sorø",Socialdemokratiet,5
+Sorø,10,Stenlille,"A_Dennis_Gartig,_Frederiksberg","Dennis Gartig, Frederiksberg",Socialdemokratiet,0
+Sorø,10,Stenlille,"A_Rene_Schou_Rasmussen,_Sorø","Rene Schou Rasmussen, Sorø",Socialdemokratiet,4
+Sorø,10,Stenlille,"A_Christian_Bjerre_Høst,_Ruds_Vedby","Christian Bjerre Høst, Ruds Vedby",Socialdemokratiet,2
+Sorø,10,Stenlille,"A_Erling_Larsen,_Dianalund","Erling Larsen, Dianalund",Socialdemokratiet,4
+Sorø,10,Stenlille,"A_Thomas_Fredsø,_Sorø","Thomas Fredsø, Sorø",Socialdemokratiet,2
+Sorø,10,Stenlille,"A_Tina_Czajkowski,_Pedersborg","Tina Czajkowski, Pedersborg",Socialdemokratiet,3
+Sorø,10,Stenlille,"A_Susan_Kierch,_Frederiksberg","Susan Kierch, Frederiksberg",Socialdemokratiet,2
+Sorø,10,Stenlille,"A_Jakob_Meibom,_Sorø","Jakob Meibom, Sorø",Socialdemokratiet,1
+Sorø,10,Stenlille,"A_Klaus_Gylling,_Sorø","Klaus Gylling, Sorø",Socialdemokratiet,1
+Sorø,10,Stenlille,B_Listestemmer,Listestemmer,Radikale Venstre,14
+Sorø,10,Stenlille,"B_Sascha_Fich,_Niløse","Sascha Fich, Niløse",Radikale Venstre,20
+Sorø,10,Stenlille,"B_Edris_Qasimi,_Pedersborg","Edris Qasimi, Pedersborg",Radikale Venstre,6
+Sorø,10,Stenlille,"B_Kurt_Løvlund_Pedersen,_Dianalund","Kurt Løvlund Pedersen, Dianalund",Radikale Venstre,2
+Sorø,10,Stenlille,"B_Tomas_Bech_Madsen,_Frederiksberg","Tomas Bech Madsen, Frederiksberg",Radikale Venstre,2
+Sorø,10,Stenlille,"B_Freja_Klingstrøm_Aaskoven,_Mk.bjby","Freja Klingstrøm Aaskoven, Mk.bjby",Radikale Venstre,6
+Sorø,10,Stenlille,"B_Jan_Woollhead,_Sorø","Jan Woollhead, Sorø",Radikale Venstre,0
+Sorø,10,Stenlille,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,95
+Sorø,10,Stenlille,"C_Gert_Jørgensen,_Sorø","Gert Jørgensen, Sorø",Det Konservative Folkeparti,264
+Sorø,10,Stenlille,"C_Bo_Christensen,_Sorø","Bo Christensen, Sorø",Det Konservative Folkeparti,17
+Sorø,10,Stenlille,"C_Mogens_Schwensen,_Dianalund","Mogens Schwensen, Dianalund",Det Konservative Folkeparti,21
+Sorø,10,Stenlille,"C_Sofie_Ullerup_Torpegaard,_Fr._Berg","Sofie Ullerup Torpegaard, Fr. Berg",Det Konservative Folkeparti,37
+Sorø,10,Stenlille,"C_Carsten_Petersen,_Ruds_Vedby","Carsten Petersen, Ruds Vedby",Det Konservative Folkeparti,5
+Sorø,10,Stenlille,"C_Eva_Sell,_Sorø","Eva Sell, Sorø",Det Konservative Folkeparti,14
+Sorø,10,Stenlille,"C_Kristian_Egebæk,_Dianalund","Kristian Egebæk, Dianalund",Det Konservative Folkeparti,6
+Sorø,10,Stenlille,"C_Janus_Tarp,_Sorø","Janus Tarp, Sorø",Det Konservative Folkeparti,3
+Sorø,10,Stenlille,"C_Marianne_Vinding,_Dianalund","Marianne Vinding, Dianalund",Det Konservative Folkeparti,21
+Sorø,10,Stenlille,"C_Martin_Belli_Jørgensen,_Slaglille","Martin Belli Jørgensen, Slaglille",Det Konservative Folkeparti,8
+Sorø,10,Stenlille,"C_Jens_Jacobsen,_Stenlille","Jens Jacobsen, Stenlille",Det Konservative Folkeparti,231
+Sorø,10,Stenlille,"C_Gert_Kuhn_Iversen,_Sorø","Gert Kuhn Iversen, Sorø",Det Konservative Folkeparti,3
+Sorø,10,Stenlille,"C_Peter_Nygaard,_Pedersborg","Peter Nygaard, Pedersborg",Det Konservative Folkeparti,16
+Sorø,10,Stenlille,"C_Malene_Jauer,_Sorø","Malene Jauer, Sorø",Det Konservative Folkeparti,6
+Sorø,10,Stenlille,"C_Søren_Sørensen,_Ruds_Vedby","Søren Sørensen, Ruds Vedby",Det Konservative Folkeparti,4
+Sorø,10,Stenlille,"C_Jesper_Danhøj,_Sorø","Jesper Danhøj, Sorø",Det Konservative Folkeparti,0
+Sorø,10,Stenlille,D_Listestemmer,Listestemmer,Nye Borgerlige,69
+Sorø,10,Stenlille,"D_Susanne_Borggaard,_Stenlille","Susanne Borggaard, Stenlille",Nye Borgerlige,93
+Sorø,10,Stenlille,"D_Jørgen_Funk,_Sorø","Jørgen Funk, Sorø",Nye Borgerlige,5
+Sorø,10,Stenlille,"D_Lianne_Hansen,_Stenlille","Lianne Hansen, Stenlille",Nye Borgerlige,24
+Sorø,10,Stenlille,"D_Karsten_Jürs,_Stenlille","Karsten Jürs, Stenlille",Nye Borgerlige,15
+Sorø,10,Stenlille,"D_Henrik_Andersen,_Sorø","Henrik Andersen, Sorø",Nye Borgerlige,10
+Sorø,10,Stenlille,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,72
+Sorø,10,Stenlille,F_Linda_Nielsen,Linda Nielsen,SF - Socialistisk Folkeparti,35
+Sorø,10,Stenlille,F_Kristiane_Nyborg,Kristiane Nyborg,SF - Socialistisk Folkeparti,63
+Sorø,10,Stenlille,F_Morten_Suhr,Morten Suhr,SF - Socialistisk Folkeparti,11
+Sorø,10,Stenlille,F_Bente_Blanné,Bente Blanné,SF - Socialistisk Folkeparti,13
+Sorø,10,Stenlille,F_Anne_Katrine_Blond,Anne Katrine Blond,SF - Socialistisk Folkeparti,5
+Sorø,10,Stenlille,F_Jens_Jørgen_Hansen,Jens Jørgen Hansen,SF - Socialistisk Folkeparti,5
+Sorø,10,Stenlille,F_Poul_Hangler,Poul Hangler,SF - Socialistisk Folkeparti,4
+Sorø,10,Stenlille,F_Helle_Visti_Jensen,Helle Visti Jensen,SF - Socialistisk Folkeparti,6
+Sorø,10,Stenlille,F_Jan_E._Pedersen,Jan E. Pedersen,SF - Socialistisk Folkeparti,4
+Sorø,10,Stenlille,I_Listestemmer,Listestemmer,Liberal Alliance,8
+Sorø,10,Stenlille,I_Nicolai_Sandager,Nicolai Sandager,Liberal Alliance,23
+Sorø,10,Stenlille,I_Benjamin_Bernhard_Højland,Benjamin Bernhard Højland,Liberal Alliance,2
+Sorø,10,Stenlille,K_Listestemmer,Listestemmer,Kristendemokraterne,4
+Sorø,10,Stenlille,K_Tage_Sørensen,Tage Sørensen,Kristendemokraterne,5
+Sorø,10,Stenlille,O_Listestemmer,Listestemmer,Dansk Folkeparti,61
+Sorø,10,Stenlille,O_Lars_Schmidt,Lars Schmidt,Dansk Folkeparti,33
+Sorø,10,Stenlille,O_Lars_Damgaard,Lars Damgaard,Dansk Folkeparti,18
+Sorø,10,Stenlille,O_Ellen_Thomsen,Ellen Thomsen,Dansk Folkeparti,35
+Sorø,10,Stenlille,O_Vibeke_Danborg,Vibeke Danborg,Dansk Folkeparti,13
+Sorø,10,Stenlille,O_Finn_Sørensen,Finn Sørensen,Dansk Folkeparti,2
+Sorø,10,Stenlille,Q_Listestemmer,Listestemmer,Frigængerne,2
+Sorø,10,Stenlille,"Q_Niels_Aalbæk_Jensen,_Frederiksberg","Niels Aalbæk Jensen, Frederiksberg",Frigængerne,0
+Sorø,10,Stenlille,"Q_Pia_Hvid,_Bjernede","Pia Hvid, Bjernede",Frigængerne,5
+Sorø,10,Stenlille,"Q_Kristoffer_Lindholt,_Sorø","Kristoffer Lindholt, Sorø",Frigængerne,0
+Sorø,10,Stenlille,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",97
+Sorø,10,Stenlille,"V_Kasper_Nygaard,_Pedersborg","Kasper Nygaard, Pedersborg","Venstre, Danmarks Liberale Parti",61
+Sorø,10,Stenlille,"V_Jens_Nygaard,_Sorø","Jens Nygaard, Sorø","Venstre, Danmarks Liberale Parti",21
+Sorø,10,Stenlille,"V_Rolf_Clausen,_Fulby","Rolf Clausen, Fulby","Venstre, Danmarks Liberale Parti",26
+Sorø,10,Stenlille,"V_Henrik_Kjølby,_Stenlille","Henrik Kjølby, Stenlille","Venstre, Danmarks Liberale Parti",31
+Sorø,10,Stenlille,"V_Ninna_Wiese_Pedersen,_Bjernede","Ninna Wiese Pedersen, Bjernede","Venstre, Danmarks Liberale Parti",28
+Sorø,10,Stenlille,"V_Jørgen_Larsen,_Dianalund","Jørgen Larsen, Dianalund","Venstre, Danmarks Liberale Parti",6
+Sorø,10,Stenlille,"V_Stephen_Møller_Hansen,_Sorø","Stephen Møller Hansen, Sorø","Venstre, Danmarks Liberale Parti",10
+Sorø,10,Stenlille,"V_Jakob_Spliid,_Frederiksberg","Jakob Spliid, Frederiksberg","Venstre, Danmarks Liberale Parti",30
+Sorø,10,Stenlille,"V_Henrik_Vester,_Frederiksberg","Henrik Vester, Frederiksberg","Venstre, Danmarks Liberale Parti",0
+Sorø,10,Stenlille,"V_Birgitte_Vester,_Frederiksberg","Birgitte Vester, Frederiksberg","Venstre, Danmarks Liberale Parti",2
+Sorø,10,Stenlille,"V_Asger_Jørnow,_Sorø","Asger Jørnow, Sorø","Venstre, Danmarks Liberale Parti",2
+Sorø,10,Stenlille,Æ_Listestemmer,Listestemmer,Frihedslisten,6
+Sorø,10,Stenlille,"Æ_Marianne_Hede,_St._Merløse","Marianne Hede, St. Merløse",Frihedslisten,10
+Sorø,10,Stenlille,"Æ_Mai_Ntova,_Dianalund","Mai Ntova, Dianalund",Frihedslisten,2
+Sorø,10,Stenlille,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,46
+Sorø,10,Stenlille,"Ø_Bo_Mouritzen,_Broby","Bo Mouritzen, Broby",Enhedslisten - De Rød-Grønne,19
+Sorø,10,Stenlille,"Ø_Abelone_Bergløv,_Lynge","Abelone Bergløv, Lynge",Enhedslisten - De Rød-Grønne,7
+Sorø,10,Stenlille,"Ø_Helene_Vadsten,_Pedersborg","Helene Vadsten, Pedersborg",Enhedslisten - De Rød-Grønne,8
+Sorø,10,Stenlille,"Ø_Niels-_Erik_Eich,_Frederiksberg","Niels- Erik Eich, Frederiksberg",Enhedslisten - De Rød-Grønne,3
+Sorø,10,Stenlille,"Ø_Ellen_Grüner,_Sorø","Ellen Grüner, Sorø",Enhedslisten - De Rød-Grønne,2
+Sorø,10,Stenlille,"Ø_Teit_Gamst,_Stenlille","Teit Gamst, Stenlille",Enhedslisten - De Rød-Grønne,15
