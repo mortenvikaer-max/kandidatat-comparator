@@ -1,0 +1,371 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Ishøj,1,Ishøj Landsby,A_Listestemmer,Listestemmer,Socialdemokratiet,72
+Ishøj,1,Ishøj Landsby,A_Merete_Amdisen,Merete Amdisen,Socialdemokratiet,78
+Ishøj,1,Ishøj Landsby,A_Kasper_Bjering_Søby_Jensen,Kasper Bjering Søby Jensen,Socialdemokratiet,6
+Ishøj,1,Ishøj Landsby,A_Jeannette_Merklin,Jeannette Merklin,Socialdemokratiet,58
+Ishøj,1,Ishøj Landsby,A_Thomas_Hjorth_Rasmussen,Thomas Hjorth Rasmussen,Socialdemokratiet,12
+Ishøj,1,Ishøj Landsby,A_Henrik_Olsen,Henrik Olsen,Socialdemokratiet,4
+Ishøj,1,Ishøj Landsby,A_Jørn_Højmark,Jørn Højmark,Socialdemokratiet,8
+Ishøj,1,Ishøj Landsby,A_Betina_Havmand_Demir,Betina Havmand Demir,Socialdemokratiet,6
+Ishøj,1,Ishøj Landsby,A_Erkan_Yapici,Erkan Yapici,Socialdemokratiet,2
+Ishøj,1,Ishøj Landsby,A_Anita_Boulier,Anita Boulier,Socialdemokratiet,0
+Ishøj,1,Ishøj Landsby,A_Mikkel_Weng_Nielsen,Mikkel Weng Nielsen,Socialdemokratiet,0
+Ishøj,1,Ishøj Landsby,A_Henriette_Flindt_Madsen,Henriette Flindt Madsen,Socialdemokratiet,8
+Ishøj,1,Ishøj Landsby,A_Bayram_Yüksel,Bayram Yüksel,Socialdemokratiet,2
+Ishøj,1,Ishøj Landsby,A_Aase_Bagger,Aase Bagger,Socialdemokratiet,3
+Ishøj,1,Ishøj Landsby,A_Murat_Kütük,Murat Kütük,Socialdemokratiet,4
+Ishøj,1,Ishøj Landsby,A_Henriette_Ritz_Kylmann,Henriette Ritz Kylmann,Socialdemokratiet,6
+Ishøj,1,Ishøj Landsby,A_Selcuk_Mehmet_Ozcan,Selcuk Mehmet Ozcan,Socialdemokratiet,7
+Ishøj,1,Ishøj Landsby,B_Listestemmer,Listestemmer,Radikale Venstre,12
+Ishøj,1,Ishøj Landsby,B_Ali_Güvercin,Ali Güvercin,Radikale Venstre,16
+Ishøj,1,Ishøj Landsby,B_Helle_M._Olesen,Helle M. Olesen,Radikale Venstre,4
+Ishøj,1,Ishøj Landsby,B_Wala_Alshahayib,Wala Alshahayib,Radikale Venstre,1
+Ishøj,1,Ishøj Landsby,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,46
+Ishøj,1,Ishøj Landsby,C_Rasmus_Ørvad_Boné,Rasmus Ørvad Boné,Det Konservative Folkeparti,49
+Ishøj,1,Ishøj Landsby,C_Uffe_Andersen,Uffe Andersen,Det Konservative Folkeparti,14
+Ishøj,1,Ishøj Landsby,C_Mogens_Everdahl,Mogens Everdahl,Det Konservative Folkeparti,1
+Ishøj,1,Ishøj Landsby,C_Benny_Hansen,Benny Hansen,Det Konservative Folkeparti,4
+Ishøj,1,Ishøj Landsby,D_Listestemmer,Listestemmer,Nye Borgerlige,21
+Ishøj,1,Ishøj Landsby,D_Rene_Quist,Rene Quist,Nye Borgerlige,10
+Ishøj,1,Ishøj Landsby,D_Poul_Erik_Christensen,Poul Erik Christensen,Nye Borgerlige,7
+Ishøj,1,Ishøj Landsby,D_May_Wold,May Wold,Nye Borgerlige,3
+Ishøj,1,Ishøj Landsby,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,19
+Ishøj,1,Ishøj Landsby,F_Kalbiye_Yüksel,Kalbiye Yüksel,SF - Socialistisk Folkeparti,7
+Ishøj,1,Ishøj Landsby,F_Sami_Deniz,Sami Deniz,SF - Socialistisk Folkeparti,4
+Ishøj,1,Ishøj Landsby,F_Natasha_Carstens,Natasha Carstens,SF - Socialistisk Folkeparti,25
+Ishøj,1,Ishøj Landsby,F_Henrik_Mikkelsen,Henrik Mikkelsen,SF - Socialistisk Folkeparti,1
+Ishøj,1,Ishøj Landsby,F_Ibrahim_Ozdemir,Ibrahim Ozdemir,SF - Socialistisk Folkeparti,0
+Ishøj,1,Ishøj Landsby,L_Listestemmer,Listestemmer,Ishøjlisten,11
+Ishøj,1,Ishøj Landsby,L_Ole_Bjørstorp,Ole Bjørstorp,Ishøjlisten,43
+Ishøj,1,Ishøj Landsby,L_Sengül_Deniz,Sengül Deniz,Ishøjlisten,19
+Ishøj,1,Ishøj Landsby,L_Johnna_Stark,Johnna Stark,Ishøjlisten,1
+Ishøj,1,Ishøj Landsby,L_Steen_Skovhus,Steen Skovhus,Ishøjlisten,5
+Ishøj,1,Ishøj Landsby,L_Milishia_Moradi,Milishia Moradi,Ishøjlisten,3
+Ishøj,1,Ishøj Landsby,L_Seyit_Ahmet_Ozkan,Seyit Ahmet Ozkan,Ishøjlisten,2
+Ishøj,1,Ishøj Landsby,L_Alija_Ganic,Alija Ganic,Ishøjlisten,4
+Ishøj,1,Ishøj Landsby,L_Sara_Younesi,Sara Younesi,Ishøjlisten,1
+Ishøj,1,Ishøj Landsby,L_Thorbjørn_Jensen,Thorbjørn Jensen,Ishøjlisten,0
+Ishøj,1,Ishøj Landsby,L_Hans_Jellingholt,Hans Jellingholt,Ishøjlisten,0
+Ishøj,1,Ishøj Landsby,M_Listestemmer,Listestemmer,Annelise Madsen,13
+Ishøj,1,Ishøj Landsby,M_Annelise_Madsen,Annelise Madsen,Annelise Madsen,37
+Ishøj,1,Ishøj Landsby,M_Flemming_Andersen,Flemming Andersen,Annelise Madsen,0
+Ishøj,1,Ishøj Landsby,M_Kjeld_Hildebrandt_Hansen,Kjeld Hildebrandt Hansen,Annelise Madsen,0
+Ishøj,1,Ishøj Landsby,M_Henriette_Tybjerg_Madsen,Henriette Tybjerg Madsen,Annelise Madsen,1
+Ishøj,1,Ishøj Landsby,M_Michael_Brostrøm,Michael Brostrøm,Annelise Madsen,1
+Ishøj,1,Ishøj Landsby,O_Listestemmer,Listestemmer,Dansk Folkeparti,15
+Ishøj,1,Ishøj Landsby,O_Poul_Rikardt_Jørgensen,Poul Rikardt Jørgensen,Dansk Folkeparti,5
+Ishøj,1,Ishøj Landsby,O_Charlotte_Jørgensen,Charlotte Jørgensen,Dansk Folkeparti,14
+Ishøj,1,Ishøj Landsby,O_Thomas_Nimholm,Thomas Nimholm,Dansk Folkeparti,22
+Ishøj,1,Ishøj Landsby,O_Henrik_Lund,Henrik Lund,Dansk Folkeparti,1
+Ishøj,1,Ishøj Landsby,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",67
+Ishøj,1,Ishøj Landsby,V_Pia_Skourup,Pia Skourup,"Venstre, Danmarks Liberale Parti",118
+Ishøj,1,Ishøj Landsby,V_Ole_Beckmann,Ole Beckmann,"Venstre, Danmarks Liberale Parti",36
+Ishøj,1,Ishøj Landsby,V_Tina_Nielsen,Tina Nielsen,"Venstre, Danmarks Liberale Parti",1
+Ishøj,1,Ishøj Landsby,V_Ulrik_Bjørn_Nielsen,Ulrik Bjørn Nielsen,"Venstre, Danmarks Liberale Parti",21
+Ishøj,1,Ishøj Landsby,V_Maria_Ronild,Maria Ronild,"Venstre, Danmarks Liberale Parti",7
+Ishøj,1,Ishøj Landsby,V_Birgit_Kampp,Birgit Kampp,"Venstre, Danmarks Liberale Parti",0
+Ishøj,1,Ishøj Landsby,V_Kjeld_Neumann,Kjeld Neumann,"Venstre, Danmarks Liberale Parti",0
+Ishøj,1,Ishøj Landsby,V_Flemming_Gylling,Flemming Gylling,"Venstre, Danmarks Liberale Parti",0
+Ishøj,1,Ishøj Landsby,Æ_Listestemmer,Listestemmer,Frihedslisten,1
+Ishøj,1,Ishøj Landsby,Æ_Anne_Marie_Svenningsen,Anne Marie Svenningsen,Frihedslisten,1
+Ishøj,1,Ishøj Landsby,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,18
+Ishøj,1,Ishøj Landsby,Ø_Ole_Wedel-Brandt,Ole Wedel-Brandt,Enhedslisten - De Rød-Grønne,12
+Ishøj,1,Ishøj Landsby,Ø_Anja_Skjoldborg_Hansen,Anja Skjoldborg Hansen,Enhedslisten - De Rød-Grønne,9
+Ishøj,1,Ishøj Landsby,Ø_Martin_Patrong_Haspang,Martin Patrong Haspang,Enhedslisten - De Rød-Grønne,0
+Ishøj,1,Ishøj Landsby,Ø_Ebbe_Neuchs_Sørensen,Ebbe Neuchs Sørensen,Enhedslisten - De Rød-Grønne,0
+Ishøj,2,Vibeholmskolen,A_Listestemmer,Listestemmer,Socialdemokratiet,171
+Ishøj,2,Vibeholmskolen,A_Merete_Amdisen,Merete Amdisen,Socialdemokratiet,314
+Ishøj,2,Vibeholmskolen,A_Kasper_Bjering_Søby_Jensen,Kasper Bjering Søby Jensen,Socialdemokratiet,18
+Ishøj,2,Vibeholmskolen,A_Jeannette_Merklin,Jeannette Merklin,Socialdemokratiet,27
+Ishøj,2,Vibeholmskolen,A_Thomas_Hjorth_Rasmussen,Thomas Hjorth Rasmussen,Socialdemokratiet,23
+Ishøj,2,Vibeholmskolen,A_Henrik_Olsen,Henrik Olsen,Socialdemokratiet,33
+Ishøj,2,Vibeholmskolen,A_Jørn_Højmark,Jørn Højmark,Socialdemokratiet,22
+Ishøj,2,Vibeholmskolen,A_Betina_Havmand_Demir,Betina Havmand Demir,Socialdemokratiet,18
+Ishøj,2,Vibeholmskolen,A_Erkan_Yapici,Erkan Yapici,Socialdemokratiet,33
+Ishøj,2,Vibeholmskolen,A_Anita_Boulier,Anita Boulier,Socialdemokratiet,3
+Ishøj,2,Vibeholmskolen,A_Mikkel_Weng_Nielsen,Mikkel Weng Nielsen,Socialdemokratiet,7
+Ishøj,2,Vibeholmskolen,A_Henriette_Flindt_Madsen,Henriette Flindt Madsen,Socialdemokratiet,8
+Ishøj,2,Vibeholmskolen,A_Bayram_Yüksel,Bayram Yüksel,Socialdemokratiet,15
+Ishøj,2,Vibeholmskolen,A_Aase_Bagger,Aase Bagger,Socialdemokratiet,15
+Ishøj,2,Vibeholmskolen,A_Murat_Kütük,Murat Kütük,Socialdemokratiet,39
+Ishøj,2,Vibeholmskolen,A_Henriette_Ritz_Kylmann,Henriette Ritz Kylmann,Socialdemokratiet,4
+Ishøj,2,Vibeholmskolen,A_Selcuk_Mehmet_Ozcan,Selcuk Mehmet Ozcan,Socialdemokratiet,55
+Ishøj,2,Vibeholmskolen,B_Listestemmer,Listestemmer,Radikale Venstre,13
+Ishøj,2,Vibeholmskolen,B_Ali_Güvercin,Ali Güvercin,Radikale Venstre,44
+Ishøj,2,Vibeholmskolen,B_Helle_M._Olesen,Helle M. Olesen,Radikale Venstre,10
+Ishøj,2,Vibeholmskolen,B_Wala_Alshahayib,Wala Alshahayib,Radikale Venstre,6
+Ishøj,2,Vibeholmskolen,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,56
+Ishøj,2,Vibeholmskolen,C_Rasmus_Ørvad_Boné,Rasmus Ørvad Boné,Det Konservative Folkeparti,73
+Ishøj,2,Vibeholmskolen,C_Uffe_Andersen,Uffe Andersen,Det Konservative Folkeparti,2
+Ishøj,2,Vibeholmskolen,C_Mogens_Everdahl,Mogens Everdahl,Det Konservative Folkeparti,0
+Ishøj,2,Vibeholmskolen,C_Benny_Hansen,Benny Hansen,Det Konservative Folkeparti,8
+Ishøj,2,Vibeholmskolen,D_Listestemmer,Listestemmer,Nye Borgerlige,37
+Ishøj,2,Vibeholmskolen,D_Rene_Quist,Rene Quist,Nye Borgerlige,24
+Ishøj,2,Vibeholmskolen,D_Poul_Erik_Christensen,Poul Erik Christensen,Nye Borgerlige,5
+Ishøj,2,Vibeholmskolen,D_May_Wold,May Wold,Nye Borgerlige,4
+Ishøj,2,Vibeholmskolen,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,19
+Ishøj,2,Vibeholmskolen,F_Kalbiye_Yüksel,Kalbiye Yüksel,SF - Socialistisk Folkeparti,48
+Ishøj,2,Vibeholmskolen,F_Sami_Deniz,Sami Deniz,SF - Socialistisk Folkeparti,28
+Ishøj,2,Vibeholmskolen,F_Natasha_Carstens,Natasha Carstens,SF - Socialistisk Folkeparti,23
+Ishøj,2,Vibeholmskolen,F_Henrik_Mikkelsen,Henrik Mikkelsen,SF - Socialistisk Folkeparti,5
+Ishøj,2,Vibeholmskolen,F_Ibrahim_Ozdemir,Ibrahim Ozdemir,SF - Socialistisk Folkeparti,6
+Ishøj,2,Vibeholmskolen,L_Listestemmer,Listestemmer,Ishøjlisten,20
+Ishøj,2,Vibeholmskolen,L_Ole_Bjørstorp,Ole Bjørstorp,Ishøjlisten,89
+Ishøj,2,Vibeholmskolen,L_Sengül_Deniz,Sengül Deniz,Ishøjlisten,56
+Ishøj,2,Vibeholmskolen,L_Johnna_Stark,Johnna Stark,Ishøjlisten,8
+Ishøj,2,Vibeholmskolen,L_Steen_Skovhus,Steen Skovhus,Ishøjlisten,11
+Ishøj,2,Vibeholmskolen,L_Milishia_Moradi,Milishia Moradi,Ishøjlisten,40
+Ishøj,2,Vibeholmskolen,L_Seyit_Ahmet_Ozkan,Seyit Ahmet Ozkan,Ishøjlisten,30
+Ishøj,2,Vibeholmskolen,L_Alija_Ganic,Alija Ganic,Ishøjlisten,1
+Ishøj,2,Vibeholmskolen,L_Sara_Younesi,Sara Younesi,Ishøjlisten,0
+Ishøj,2,Vibeholmskolen,L_Thorbjørn_Jensen,Thorbjørn Jensen,Ishøjlisten,2
+Ishøj,2,Vibeholmskolen,L_Hans_Jellingholt,Hans Jellingholt,Ishøjlisten,2
+Ishøj,2,Vibeholmskolen,M_Listestemmer,Listestemmer,Annelise Madsen,25
+Ishøj,2,Vibeholmskolen,M_Annelise_Madsen,Annelise Madsen,Annelise Madsen,116
+Ishøj,2,Vibeholmskolen,M_Flemming_Andersen,Flemming Andersen,Annelise Madsen,0
+Ishøj,2,Vibeholmskolen,M_Kjeld_Hildebrandt_Hansen,Kjeld Hildebrandt Hansen,Annelise Madsen,0
+Ishøj,2,Vibeholmskolen,M_Henriette_Tybjerg_Madsen,Henriette Tybjerg Madsen,Annelise Madsen,0
+Ishøj,2,Vibeholmskolen,M_Michael_Brostrøm,Michael Brostrøm,Annelise Madsen,8
+Ishøj,2,Vibeholmskolen,O_Listestemmer,Listestemmer,Dansk Folkeparti,30
+Ishøj,2,Vibeholmskolen,O_Poul_Rikardt_Jørgensen,Poul Rikardt Jørgensen,Dansk Folkeparti,19
+Ishøj,2,Vibeholmskolen,O_Charlotte_Jørgensen,Charlotte Jørgensen,Dansk Folkeparti,9
+Ishøj,2,Vibeholmskolen,O_Thomas_Nimholm,Thomas Nimholm,Dansk Folkeparti,7
+Ishøj,2,Vibeholmskolen,O_Henrik_Lund,Henrik Lund,Dansk Folkeparti,2
+Ishøj,2,Vibeholmskolen,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",74
+Ishøj,2,Vibeholmskolen,V_Pia_Skourup,Pia Skourup,"Venstre, Danmarks Liberale Parti",87
+Ishøj,2,Vibeholmskolen,V_Ole_Beckmann,Ole Beckmann,"Venstre, Danmarks Liberale Parti",22
+Ishøj,2,Vibeholmskolen,V_Tina_Nielsen,Tina Nielsen,"Venstre, Danmarks Liberale Parti",5
+Ishøj,2,Vibeholmskolen,V_Ulrik_Bjørn_Nielsen,Ulrik Bjørn Nielsen,"Venstre, Danmarks Liberale Parti",3
+Ishøj,2,Vibeholmskolen,V_Maria_Ronild,Maria Ronild,"Venstre, Danmarks Liberale Parti",12
+Ishøj,2,Vibeholmskolen,V_Birgit_Kampp,Birgit Kampp,"Venstre, Danmarks Liberale Parti",1
+Ishøj,2,Vibeholmskolen,V_Kjeld_Neumann,Kjeld Neumann,"Venstre, Danmarks Liberale Parti",0
+Ishøj,2,Vibeholmskolen,V_Flemming_Gylling,Flemming Gylling,"Venstre, Danmarks Liberale Parti",0
+Ishøj,2,Vibeholmskolen,Æ_Listestemmer,Listestemmer,Frihedslisten,1
+Ishøj,2,Vibeholmskolen,Æ_Anne_Marie_Svenningsen,Anne Marie Svenningsen,Frihedslisten,4
+Ishøj,2,Vibeholmskolen,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,39
+Ishøj,2,Vibeholmskolen,Ø_Ole_Wedel-Brandt,Ole Wedel-Brandt,Enhedslisten - De Rød-Grønne,18
+Ishøj,2,Vibeholmskolen,Ø_Anja_Skjoldborg_Hansen,Anja Skjoldborg Hansen,Enhedslisten - De Rød-Grønne,14
+Ishøj,2,Vibeholmskolen,Ø_Martin_Patrong_Haspang,Martin Patrong Haspang,Enhedslisten - De Rød-Grønne,1
+Ishøj,2,Vibeholmskolen,Ø_Ebbe_Neuchs_Sørensen,Ebbe Neuchs Sørensen,Enhedslisten - De Rød-Grønne,3
+Ishøj,3,Gildbroskolen,A_Listestemmer,Listestemmer,Socialdemokratiet,176
+Ishøj,3,Gildbroskolen,A_Merete_Amdisen,Merete Amdisen,Socialdemokratiet,350
+Ishøj,3,Gildbroskolen,A_Kasper_Bjering_Søby_Jensen,Kasper Bjering Søby Jensen,Socialdemokratiet,12
+Ishøj,3,Gildbroskolen,A_Jeannette_Merklin,Jeannette Merklin,Socialdemokratiet,19
+Ishøj,3,Gildbroskolen,A_Thomas_Hjorth_Rasmussen,Thomas Hjorth Rasmussen,Socialdemokratiet,73
+Ishøj,3,Gildbroskolen,A_Henrik_Olsen,Henrik Olsen,Socialdemokratiet,17
+Ishøj,3,Gildbroskolen,A_Jørn_Højmark,Jørn Højmark,Socialdemokratiet,16
+Ishøj,3,Gildbroskolen,A_Betina_Havmand_Demir,Betina Havmand Demir,Socialdemokratiet,53
+Ishøj,3,Gildbroskolen,A_Erkan_Yapici,Erkan Yapici,Socialdemokratiet,33
+Ishøj,3,Gildbroskolen,A_Anita_Boulier,Anita Boulier,Socialdemokratiet,2
+Ishøj,3,Gildbroskolen,A_Mikkel_Weng_Nielsen,Mikkel Weng Nielsen,Socialdemokratiet,2
+Ishøj,3,Gildbroskolen,A_Henriette_Flindt_Madsen,Henriette Flindt Madsen,Socialdemokratiet,20
+Ishøj,3,Gildbroskolen,A_Bayram_Yüksel,Bayram Yüksel,Socialdemokratiet,32
+Ishøj,3,Gildbroskolen,A_Aase_Bagger,Aase Bagger,Socialdemokratiet,11
+Ishøj,3,Gildbroskolen,A_Murat_Kütük,Murat Kütük,Socialdemokratiet,76
+Ishøj,3,Gildbroskolen,A_Henriette_Ritz_Kylmann,Henriette Ritz Kylmann,Socialdemokratiet,2
+Ishøj,3,Gildbroskolen,A_Selcuk_Mehmet_Ozcan,Selcuk Mehmet Ozcan,Socialdemokratiet,34
+Ishøj,3,Gildbroskolen,B_Listestemmer,Listestemmer,Radikale Venstre,22
+Ishøj,3,Gildbroskolen,B_Ali_Güvercin,Ali Güvercin,Radikale Venstre,53
+Ishøj,3,Gildbroskolen,B_Helle_M._Olesen,Helle M. Olesen,Radikale Venstre,8
+Ishøj,3,Gildbroskolen,B_Wala_Alshahayib,Wala Alshahayib,Radikale Venstre,4
+Ishøj,3,Gildbroskolen,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,34
+Ishøj,3,Gildbroskolen,C_Rasmus_Ørvad_Boné,Rasmus Ørvad Boné,Det Konservative Folkeparti,80
+Ishøj,3,Gildbroskolen,C_Uffe_Andersen,Uffe Andersen,Det Konservative Folkeparti,2
+Ishøj,3,Gildbroskolen,C_Mogens_Everdahl,Mogens Everdahl,Det Konservative Folkeparti,2
+Ishøj,3,Gildbroskolen,C_Benny_Hansen,Benny Hansen,Det Konservative Folkeparti,2
+Ishøj,3,Gildbroskolen,D_Listestemmer,Listestemmer,Nye Borgerlige,62
+Ishøj,3,Gildbroskolen,D_Rene_Quist,Rene Quist,Nye Borgerlige,18
+Ishøj,3,Gildbroskolen,D_Poul_Erik_Christensen,Poul Erik Christensen,Nye Borgerlige,9
+Ishøj,3,Gildbroskolen,D_May_Wold,May Wold,Nye Borgerlige,8
+Ishøj,3,Gildbroskolen,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,34
+Ishøj,3,Gildbroskolen,F_Kalbiye_Yüksel,Kalbiye Yüksel,SF - Socialistisk Folkeparti,40
+Ishøj,3,Gildbroskolen,F_Sami_Deniz,Sami Deniz,SF - Socialistisk Folkeparti,66
+Ishøj,3,Gildbroskolen,F_Natasha_Carstens,Natasha Carstens,SF - Socialistisk Folkeparti,23
+Ishøj,3,Gildbroskolen,F_Henrik_Mikkelsen,Henrik Mikkelsen,SF - Socialistisk Folkeparti,7
+Ishøj,3,Gildbroskolen,F_Ibrahim_Ozdemir,Ibrahim Ozdemir,SF - Socialistisk Folkeparti,3
+Ishøj,3,Gildbroskolen,L_Listestemmer,Listestemmer,Ishøjlisten,22
+Ishøj,3,Gildbroskolen,L_Ole_Bjørstorp,Ole Bjørstorp,Ishøjlisten,118
+Ishøj,3,Gildbroskolen,L_Sengül_Deniz,Sengül Deniz,Ishøjlisten,182
+Ishøj,3,Gildbroskolen,L_Johnna_Stark,Johnna Stark,Ishøjlisten,9
+Ishøj,3,Gildbroskolen,L_Steen_Skovhus,Steen Skovhus,Ishøjlisten,8
+Ishøj,3,Gildbroskolen,L_Milishia_Moradi,Milishia Moradi,Ishøjlisten,19
+Ishøj,3,Gildbroskolen,L_Seyit_Ahmet_Ozkan,Seyit Ahmet Ozkan,Ishøjlisten,60
+Ishøj,3,Gildbroskolen,L_Alija_Ganic,Alija Ganic,Ishøjlisten,17
+Ishøj,3,Gildbroskolen,L_Sara_Younesi,Sara Younesi,Ishøjlisten,2
+Ishøj,3,Gildbroskolen,L_Thorbjørn_Jensen,Thorbjørn Jensen,Ishøjlisten,2
+Ishøj,3,Gildbroskolen,L_Hans_Jellingholt,Hans Jellingholt,Ishøjlisten,0
+Ishøj,3,Gildbroskolen,M_Listestemmer,Listestemmer,Annelise Madsen,25
+Ishøj,3,Gildbroskolen,M_Annelise_Madsen,Annelise Madsen,Annelise Madsen,106
+Ishøj,3,Gildbroskolen,M_Flemming_Andersen,Flemming Andersen,Annelise Madsen,1
+Ishøj,3,Gildbroskolen,M_Kjeld_Hildebrandt_Hansen,Kjeld Hildebrandt Hansen,Annelise Madsen,1
+Ishøj,3,Gildbroskolen,M_Henriette_Tybjerg_Madsen,Henriette Tybjerg Madsen,Annelise Madsen,0
+Ishøj,3,Gildbroskolen,M_Michael_Brostrøm,Michael Brostrøm,Annelise Madsen,1
+Ishøj,3,Gildbroskolen,O_Listestemmer,Listestemmer,Dansk Folkeparti,64
+Ishøj,3,Gildbroskolen,O_Poul_Rikardt_Jørgensen,Poul Rikardt Jørgensen,Dansk Folkeparti,21
+Ishøj,3,Gildbroskolen,O_Charlotte_Jørgensen,Charlotte Jørgensen,Dansk Folkeparti,11
+Ishøj,3,Gildbroskolen,O_Thomas_Nimholm,Thomas Nimholm,Dansk Folkeparti,9
+Ishøj,3,Gildbroskolen,O_Henrik_Lund,Henrik Lund,Dansk Folkeparti,2
+Ishøj,3,Gildbroskolen,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",62
+Ishøj,3,Gildbroskolen,V_Pia_Skourup,Pia Skourup,"Venstre, Danmarks Liberale Parti",90
+Ishøj,3,Gildbroskolen,V_Ole_Beckmann,Ole Beckmann,"Venstre, Danmarks Liberale Parti",22
+Ishøj,3,Gildbroskolen,V_Tina_Nielsen,Tina Nielsen,"Venstre, Danmarks Liberale Parti",3
+Ishøj,3,Gildbroskolen,V_Ulrik_Bjørn_Nielsen,Ulrik Bjørn Nielsen,"Venstre, Danmarks Liberale Parti",2
+Ishøj,3,Gildbroskolen,V_Maria_Ronild,Maria Ronild,"Venstre, Danmarks Liberale Parti",25
+Ishøj,3,Gildbroskolen,V_Birgit_Kampp,Birgit Kampp,"Venstre, Danmarks Liberale Parti",3
+Ishøj,3,Gildbroskolen,V_Kjeld_Neumann,Kjeld Neumann,"Venstre, Danmarks Liberale Parti",0
+Ishøj,3,Gildbroskolen,V_Flemming_Gylling,Flemming Gylling,"Venstre, Danmarks Liberale Parti",2
+Ishøj,3,Gildbroskolen,Æ_Listestemmer,Listestemmer,Frihedslisten,6
+Ishøj,3,Gildbroskolen,Æ_Anne_Marie_Svenningsen,Anne Marie Svenningsen,Frihedslisten,3
+Ishøj,3,Gildbroskolen,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,40
+Ishøj,3,Gildbroskolen,Ø_Ole_Wedel-Brandt,Ole Wedel-Brandt,Enhedslisten - De Rød-Grønne,27
+Ishøj,3,Gildbroskolen,Ø_Anja_Skjoldborg_Hansen,Anja Skjoldborg Hansen,Enhedslisten - De Rød-Grønne,15
+Ishøj,3,Gildbroskolen,Ø_Martin_Patrong_Haspang,Martin Patrong Haspang,Enhedslisten - De Rød-Grønne,6
+Ishøj,3,Gildbroskolen,Ø_Ebbe_Neuchs_Sørensen,Ebbe Neuchs Sørensen,Enhedslisten - De Rød-Grønne,1
+Ishøj,4,Strandgårdskolen,A_Listestemmer,Listestemmer,Socialdemokratiet,151
+Ishøj,4,Strandgårdskolen,A_Merete_Amdisen,Merete Amdisen,Socialdemokratiet,196
+Ishøj,4,Strandgårdskolen,A_Kasper_Bjering_Søby_Jensen,Kasper Bjering Søby Jensen,Socialdemokratiet,15
+Ishøj,4,Strandgårdskolen,A_Jeannette_Merklin,Jeannette Merklin,Socialdemokratiet,12
+Ishøj,4,Strandgårdskolen,A_Thomas_Hjorth_Rasmussen,Thomas Hjorth Rasmussen,Socialdemokratiet,48
+Ishøj,4,Strandgårdskolen,A_Henrik_Olsen,Henrik Olsen,Socialdemokratiet,23
+Ishøj,4,Strandgårdskolen,A_Jørn_Højmark,Jørn Højmark,Socialdemokratiet,10
+Ishøj,4,Strandgårdskolen,A_Betina_Havmand_Demir,Betina Havmand Demir,Socialdemokratiet,31
+Ishøj,4,Strandgårdskolen,A_Erkan_Yapici,Erkan Yapici,Socialdemokratiet,85
+Ishøj,4,Strandgårdskolen,A_Anita_Boulier,Anita Boulier,Socialdemokratiet,10
+Ishøj,4,Strandgårdskolen,A_Mikkel_Weng_Nielsen,Mikkel Weng Nielsen,Socialdemokratiet,13
+Ishøj,4,Strandgårdskolen,A_Henriette_Flindt_Madsen,Henriette Flindt Madsen,Socialdemokratiet,12
+Ishøj,4,Strandgårdskolen,A_Bayram_Yüksel,Bayram Yüksel,Socialdemokratiet,34
+Ishøj,4,Strandgårdskolen,A_Aase_Bagger,Aase Bagger,Socialdemokratiet,4
+Ishøj,4,Strandgårdskolen,A_Murat_Kütük,Murat Kütük,Socialdemokratiet,88
+Ishøj,4,Strandgårdskolen,A_Henriette_Ritz_Kylmann,Henriette Ritz Kylmann,Socialdemokratiet,4
+Ishøj,4,Strandgårdskolen,A_Selcuk_Mehmet_Ozcan,Selcuk Mehmet Ozcan,Socialdemokratiet,127
+Ishøj,4,Strandgårdskolen,B_Listestemmer,Listestemmer,Radikale Venstre,14
+Ishøj,4,Strandgårdskolen,B_Ali_Güvercin,Ali Güvercin,Radikale Venstre,44
+Ishøj,4,Strandgårdskolen,B_Helle_M._Olesen,Helle M. Olesen,Radikale Venstre,8
+Ishøj,4,Strandgårdskolen,B_Wala_Alshahayib,Wala Alshahayib,Radikale Venstre,2
+Ishøj,4,Strandgårdskolen,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,24
+Ishøj,4,Strandgårdskolen,C_Rasmus_Ørvad_Boné,Rasmus Ørvad Boné,Det Konservative Folkeparti,28
+Ishøj,4,Strandgårdskolen,C_Uffe_Andersen,Uffe Andersen,Det Konservative Folkeparti,1
+Ishøj,4,Strandgårdskolen,C_Mogens_Everdahl,Mogens Everdahl,Det Konservative Folkeparti,1
+Ishøj,4,Strandgårdskolen,C_Benny_Hansen,Benny Hansen,Det Konservative Folkeparti,2
+Ishøj,4,Strandgårdskolen,D_Listestemmer,Listestemmer,Nye Borgerlige,21
+Ishøj,4,Strandgårdskolen,D_Rene_Quist,Rene Quist,Nye Borgerlige,16
+Ishøj,4,Strandgårdskolen,D_Poul_Erik_Christensen,Poul Erik Christensen,Nye Borgerlige,3
+Ishøj,4,Strandgårdskolen,D_May_Wold,May Wold,Nye Borgerlige,3
+Ishøj,4,Strandgårdskolen,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,27
+Ishøj,4,Strandgårdskolen,F_Kalbiye_Yüksel,Kalbiye Yüksel,SF - Socialistisk Folkeparti,101
+Ishøj,4,Strandgårdskolen,F_Sami_Deniz,Sami Deniz,SF - Socialistisk Folkeparti,66
+Ishøj,4,Strandgårdskolen,F_Natasha_Carstens,Natasha Carstens,SF - Socialistisk Folkeparti,10
+Ishøj,4,Strandgårdskolen,F_Henrik_Mikkelsen,Henrik Mikkelsen,SF - Socialistisk Folkeparti,3
+Ishøj,4,Strandgårdskolen,F_Ibrahim_Ozdemir,Ibrahim Ozdemir,SF - Socialistisk Folkeparti,1
+Ishøj,4,Strandgårdskolen,L_Listestemmer,Listestemmer,Ishøjlisten,27
+Ishøj,4,Strandgårdskolen,L_Ole_Bjørstorp,Ole Bjørstorp,Ishøjlisten,143
+Ishøj,4,Strandgårdskolen,L_Sengül_Deniz,Sengül Deniz,Ishøjlisten,148
+Ishøj,4,Strandgårdskolen,L_Johnna_Stark,Johnna Stark,Ishøjlisten,15
+Ishøj,4,Strandgårdskolen,L_Steen_Skovhus,Steen Skovhus,Ishøjlisten,16
+Ishøj,4,Strandgårdskolen,L_Milishia_Moradi,Milishia Moradi,Ishøjlisten,14
+Ishøj,4,Strandgårdskolen,L_Seyit_Ahmet_Ozkan,Seyit Ahmet Ozkan,Ishøjlisten,74
+Ishøj,4,Strandgårdskolen,L_Alija_Ganic,Alija Ganic,Ishøjlisten,17
+Ishøj,4,Strandgårdskolen,L_Sara_Younesi,Sara Younesi,Ishøjlisten,3
+Ishøj,4,Strandgårdskolen,L_Thorbjørn_Jensen,Thorbjørn Jensen,Ishøjlisten,0
+Ishøj,4,Strandgårdskolen,L_Hans_Jellingholt,Hans Jellingholt,Ishøjlisten,1
+Ishøj,4,Strandgårdskolen,M_Listestemmer,Listestemmer,Annelise Madsen,14
+Ishøj,4,Strandgårdskolen,M_Annelise_Madsen,Annelise Madsen,Annelise Madsen,44
+Ishøj,4,Strandgårdskolen,M_Flemming_Andersen,Flemming Andersen,Annelise Madsen,0
+Ishøj,4,Strandgårdskolen,M_Kjeld_Hildebrandt_Hansen,Kjeld Hildebrandt Hansen,Annelise Madsen,0
+Ishøj,4,Strandgårdskolen,M_Henriette_Tybjerg_Madsen,Henriette Tybjerg Madsen,Annelise Madsen,0
+Ishøj,4,Strandgårdskolen,M_Michael_Brostrøm,Michael Brostrøm,Annelise Madsen,3
+Ishøj,4,Strandgårdskolen,O_Listestemmer,Listestemmer,Dansk Folkeparti,32
+Ishøj,4,Strandgårdskolen,O_Poul_Rikardt_Jørgensen,Poul Rikardt Jørgensen,Dansk Folkeparti,10
+Ishøj,4,Strandgårdskolen,O_Charlotte_Jørgensen,Charlotte Jørgensen,Dansk Folkeparti,11
+Ishøj,4,Strandgårdskolen,O_Thomas_Nimholm,Thomas Nimholm,Dansk Folkeparti,5
+Ishøj,4,Strandgårdskolen,O_Henrik_Lund,Henrik Lund,Dansk Folkeparti,2
+Ishøj,4,Strandgårdskolen,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",17
+Ishøj,4,Strandgårdskolen,V_Pia_Skourup,Pia Skourup,"Venstre, Danmarks Liberale Parti",33
+Ishøj,4,Strandgårdskolen,V_Ole_Beckmann,Ole Beckmann,"Venstre, Danmarks Liberale Parti",8
+Ishøj,4,Strandgårdskolen,V_Tina_Nielsen,Tina Nielsen,"Venstre, Danmarks Liberale Parti",0
+Ishøj,4,Strandgårdskolen,V_Ulrik_Bjørn_Nielsen,Ulrik Bjørn Nielsen,"Venstre, Danmarks Liberale Parti",2
+Ishøj,4,Strandgårdskolen,V_Maria_Ronild,Maria Ronild,"Venstre, Danmarks Liberale Parti",6
+Ishøj,4,Strandgårdskolen,V_Birgit_Kampp,Birgit Kampp,"Venstre, Danmarks Liberale Parti",0
+Ishøj,4,Strandgårdskolen,V_Kjeld_Neumann,Kjeld Neumann,"Venstre, Danmarks Liberale Parti",1
+Ishøj,4,Strandgårdskolen,V_Flemming_Gylling,Flemming Gylling,"Venstre, Danmarks Liberale Parti",0
+Ishøj,4,Strandgårdskolen,Æ_Listestemmer,Listestemmer,Frihedslisten,1
+Ishøj,4,Strandgårdskolen,Æ_Anne_Marie_Svenningsen,Anne Marie Svenningsen,Frihedslisten,7
+Ishøj,4,Strandgårdskolen,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,28
+Ishøj,4,Strandgårdskolen,Ø_Ole_Wedel-Brandt,Ole Wedel-Brandt,Enhedslisten - De Rød-Grønne,17
+Ishøj,4,Strandgårdskolen,Ø_Anja_Skjoldborg_Hansen,Anja Skjoldborg Hansen,Enhedslisten - De Rød-Grønne,5
+Ishøj,4,Strandgårdskolen,Ø_Martin_Patrong_Haspang,Martin Patrong Haspang,Enhedslisten - De Rød-Grønne,5
+Ishøj,4,Strandgårdskolen,Ø_Ebbe_Neuchs_Sørensen,Ebbe Neuchs Sørensen,Enhedslisten - De Rød-Grønne,3
+Ishøj,5,Ishøj Bycenter,A_Listestemmer,Listestemmer,Socialdemokratiet,194
+Ishøj,5,Ishøj Bycenter,A_Merete_Amdisen,Merete Amdisen,Socialdemokratiet,283
+Ishøj,5,Ishøj Bycenter,A_Kasper_Bjering_Søby_Jensen,Kasper Bjering Søby Jensen,Socialdemokratiet,13
+Ishøj,5,Ishøj Bycenter,A_Jeannette_Merklin,Jeannette Merklin,Socialdemokratiet,17
+Ishøj,5,Ishøj Bycenter,A_Thomas_Hjorth_Rasmussen,Thomas Hjorth Rasmussen,Socialdemokratiet,55
+Ishøj,5,Ishøj Bycenter,A_Henrik_Olsen,Henrik Olsen,Socialdemokratiet,26
+Ishøj,5,Ishøj Bycenter,A_Jørn_Højmark,Jørn Højmark,Socialdemokratiet,46
+Ishøj,5,Ishøj Bycenter,A_Betina_Havmand_Demir,Betina Havmand Demir,Socialdemokratiet,24
+Ishøj,5,Ishøj Bycenter,A_Erkan_Yapici,Erkan Yapici,Socialdemokratiet,24
+Ishøj,5,Ishøj Bycenter,A_Anita_Boulier,Anita Boulier,Socialdemokratiet,3
+Ishøj,5,Ishøj Bycenter,A_Mikkel_Weng_Nielsen,Mikkel Weng Nielsen,Socialdemokratiet,13
+Ishøj,5,Ishøj Bycenter,A_Henriette_Flindt_Madsen,Henriette Flindt Madsen,Socialdemokratiet,13
+Ishøj,5,Ishøj Bycenter,A_Bayram_Yüksel,Bayram Yüksel,Socialdemokratiet,33
+Ishøj,5,Ishøj Bycenter,A_Aase_Bagger,Aase Bagger,Socialdemokratiet,4
+Ishøj,5,Ishøj Bycenter,A_Murat_Kütük,Murat Kütük,Socialdemokratiet,21
+Ishøj,5,Ishøj Bycenter,A_Henriette_Ritz_Kylmann,Henriette Ritz Kylmann,Socialdemokratiet,15
+Ishøj,5,Ishøj Bycenter,A_Selcuk_Mehmet_Ozcan,Selcuk Mehmet Ozcan,Socialdemokratiet,57
+Ishøj,5,Ishøj Bycenter,B_Listestemmer,Listestemmer,Radikale Venstre,22
+Ishøj,5,Ishøj Bycenter,B_Ali_Güvercin,Ali Güvercin,Radikale Venstre,54
+Ishøj,5,Ishøj Bycenter,B_Helle_M._Olesen,Helle M. Olesen,Radikale Venstre,18
+Ishøj,5,Ishøj Bycenter,B_Wala_Alshahayib,Wala Alshahayib,Radikale Venstre,1
+Ishøj,5,Ishøj Bycenter,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,61
+Ishøj,5,Ishøj Bycenter,C_Rasmus_Ørvad_Boné,Rasmus Ørvad Boné,Det Konservative Folkeparti,112
+Ishøj,5,Ishøj Bycenter,C_Uffe_Andersen,Uffe Andersen,Det Konservative Folkeparti,0
+Ishøj,5,Ishøj Bycenter,C_Mogens_Everdahl,Mogens Everdahl,Det Konservative Folkeparti,1
+Ishøj,5,Ishøj Bycenter,C_Benny_Hansen,Benny Hansen,Det Konservative Folkeparti,14
+Ishøj,5,Ishøj Bycenter,D_Listestemmer,Listestemmer,Nye Borgerlige,45
+Ishøj,5,Ishøj Bycenter,D_Rene_Quist,Rene Quist,Nye Borgerlige,20
+Ishøj,5,Ishøj Bycenter,D_Poul_Erik_Christensen,Poul Erik Christensen,Nye Borgerlige,3
+Ishøj,5,Ishøj Bycenter,D_May_Wold,May Wold,Nye Borgerlige,8
+Ishøj,5,Ishøj Bycenter,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,26
+Ishøj,5,Ishøj Bycenter,F_Kalbiye_Yüksel,Kalbiye Yüksel,SF - Socialistisk Folkeparti,48
+Ishøj,5,Ishøj Bycenter,F_Sami_Deniz,Sami Deniz,SF - Socialistisk Folkeparti,38
+Ishøj,5,Ishøj Bycenter,F_Natasha_Carstens,Natasha Carstens,SF - Socialistisk Folkeparti,42
+Ishøj,5,Ishøj Bycenter,F_Henrik_Mikkelsen,Henrik Mikkelsen,SF - Socialistisk Folkeparti,2
+Ishøj,5,Ishøj Bycenter,F_Ibrahim_Ozdemir,Ibrahim Ozdemir,SF - Socialistisk Folkeparti,3
+Ishøj,5,Ishøj Bycenter,L_Listestemmer,Listestemmer,Ishøjlisten,28
+Ishøj,5,Ishøj Bycenter,L_Ole_Bjørstorp,Ole Bjørstorp,Ishøjlisten,167
+Ishøj,5,Ishøj Bycenter,L_Sengül_Deniz,Sengül Deniz,Ishøjlisten,49
+Ishøj,5,Ishøj Bycenter,L_Johnna_Stark,Johnna Stark,Ishøjlisten,14
+Ishøj,5,Ishøj Bycenter,L_Steen_Skovhus,Steen Skovhus,Ishøjlisten,22
+Ishøj,5,Ishøj Bycenter,L_Milishia_Moradi,Milishia Moradi,Ishøjlisten,34
+Ishøj,5,Ishøj Bycenter,L_Seyit_Ahmet_Ozkan,Seyit Ahmet Ozkan,Ishøjlisten,28
+Ishøj,5,Ishøj Bycenter,L_Alija_Ganic,Alija Ganic,Ishøjlisten,20
+Ishøj,5,Ishøj Bycenter,L_Sara_Younesi,Sara Younesi,Ishøjlisten,0
+Ishøj,5,Ishøj Bycenter,L_Thorbjørn_Jensen,Thorbjørn Jensen,Ishøjlisten,1
+Ishøj,5,Ishøj Bycenter,L_Hans_Jellingholt,Hans Jellingholt,Ishøjlisten,0
+Ishøj,5,Ishøj Bycenter,M_Listestemmer,Listestemmer,Annelise Madsen,41
+Ishøj,5,Ishøj Bycenter,M_Annelise_Madsen,Annelise Madsen,Annelise Madsen,182
+Ishøj,5,Ishøj Bycenter,M_Flemming_Andersen,Flemming Andersen,Annelise Madsen,1
+Ishøj,5,Ishøj Bycenter,M_Kjeld_Hildebrandt_Hansen,Kjeld Hildebrandt Hansen,Annelise Madsen,3
+Ishøj,5,Ishøj Bycenter,M_Henriette_Tybjerg_Madsen,Henriette Tybjerg Madsen,Annelise Madsen,2
+Ishøj,5,Ishøj Bycenter,M_Michael_Brostrøm,Michael Brostrøm,Annelise Madsen,6
+Ishøj,5,Ishøj Bycenter,O_Listestemmer,Listestemmer,Dansk Folkeparti,46
+Ishøj,5,Ishøj Bycenter,O_Poul_Rikardt_Jørgensen,Poul Rikardt Jørgensen,Dansk Folkeparti,32
+Ishøj,5,Ishøj Bycenter,O_Charlotte_Jørgensen,Charlotte Jørgensen,Dansk Folkeparti,13
+Ishøj,5,Ishøj Bycenter,O_Thomas_Nimholm,Thomas Nimholm,Dansk Folkeparti,9
+Ishøj,5,Ishøj Bycenter,O_Henrik_Lund,Henrik Lund,Dansk Folkeparti,5
+Ishøj,5,Ishøj Bycenter,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",91
+Ishøj,5,Ishøj Bycenter,V_Pia_Skourup,Pia Skourup,"Venstre, Danmarks Liberale Parti",168
+Ishøj,5,Ishøj Bycenter,V_Ole_Beckmann,Ole Beckmann,"Venstre, Danmarks Liberale Parti",38
+Ishøj,5,Ishøj Bycenter,V_Tina_Nielsen,Tina Nielsen,"Venstre, Danmarks Liberale Parti",8
+Ishøj,5,Ishøj Bycenter,V_Ulrik_Bjørn_Nielsen,Ulrik Bjørn Nielsen,"Venstre, Danmarks Liberale Parti",3
+Ishøj,5,Ishøj Bycenter,V_Maria_Ronild,Maria Ronild,"Venstre, Danmarks Liberale Parti",13
+Ishøj,5,Ishøj Bycenter,V_Birgit_Kampp,Birgit Kampp,"Venstre, Danmarks Liberale Parti",2
+Ishøj,5,Ishøj Bycenter,V_Kjeld_Neumann,Kjeld Neumann,"Venstre, Danmarks Liberale Parti",1
+Ishøj,5,Ishøj Bycenter,V_Flemming_Gylling,Flemming Gylling,"Venstre, Danmarks Liberale Parti",1
+Ishøj,5,Ishøj Bycenter,Æ_Listestemmer,Listestemmer,Frihedslisten,0
+Ishøj,5,Ishøj Bycenter,Æ_Anne_Marie_Svenningsen,Anne Marie Svenningsen,Frihedslisten,5
+Ishøj,5,Ishøj Bycenter,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,49
+Ishøj,5,Ishøj Bycenter,Ø_Ole_Wedel-Brandt,Ole Wedel-Brandt,Enhedslisten - De Rød-Grønne,26
+Ishøj,5,Ishøj Bycenter,Ø_Anja_Skjoldborg_Hansen,Anja Skjoldborg Hansen,Enhedslisten - De Rød-Grønne,18
+Ishøj,5,Ishøj Bycenter,Ø_Martin_Patrong_Haspang,Martin Patrong Haspang,Enhedslisten - De Rød-Grønne,21
+Ishøj,5,Ishøj Bycenter,Ø_Ebbe_Neuchs_Sørensen,Ebbe Neuchs Sørensen,Enhedslisten - De Rød-Grønne,0

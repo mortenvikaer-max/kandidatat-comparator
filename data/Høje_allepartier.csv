@@ -1,0 +1,881 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Høje,1,Ole Rømer-Skolen,A_Listestemmer,Listestemmer,Socialdemokratiet,107
+Høje,1,Ole Rømer-Skolen,"A_Peter_Faarbæk,_Taastrup","Peter Faarbæk, Taastrup",Socialdemokratiet,75
+Høje,1,Ole Rømer-Skolen,"A_Anne_Mette_Bak,_Taastrup","Anne Mette Bak, Taastrup",Socialdemokratiet,16
+Høje,1,Ole Rømer-Skolen,"A_Thomas_Bak,_Taastrup","Thomas Bak, Taastrup",Socialdemokratiet,11
+Høje,1,Ole Rømer-Skolen,"A_Hugo_Hammel,_Sengeløse","Hugo Hammel, Sengeløse",Socialdemokratiet,11
+Høje,1,Ole Rømer-Skolen,"A_Thomas_Stenrød_Paulsen,_Taastrup","Thomas Stenrød Paulsen, Taastrup",Socialdemokratiet,4
+Høje,1,Ole Rømer-Skolen,"A_Nina_Strøm_Tønnes,_Hedehusene","Nina Strøm Tønnes, Hedehusene",Socialdemokratiet,6
+Høje,1,Ole Rømer-Skolen,"A_Malene_Thackrah,_Taastrup","Malene Thackrah, Taastrup",Socialdemokratiet,9
+Høje,1,Ole Rømer-Skolen,"A_Brith_Dorph_Josephsen,_Taastrup","Brith Dorph Josephsen, Taastrup",Socialdemokratiet,15
+Høje,1,Ole Rømer-Skolen,"A_Stefan_Ørsted_Petersen,_Taastrup","Stefan Ørsted Petersen, Taastrup",Socialdemokratiet,10
+Høje,1,Ole Rømer-Skolen,"A_Sabah_Abid,_Taastrup","Sabah Abid, Taastrup",Socialdemokratiet,40
+Høje,1,Ole Rømer-Skolen,"A_Sami_Gökdemir,_Taastrup","Sami Gökdemir, Taastrup",Socialdemokratiet,34
+Høje,1,Ole Rømer-Skolen,"A_Claus_Heje,_Taastrup","Claus Heje, Taastrup",Socialdemokratiet,3
+Høje,1,Ole Rømer-Skolen,"A_Oguzcan_Yüksel,_Taastrup","Oguzcan Yüksel, Taastrup",Socialdemokratiet,130
+Høje,1,Ole Rømer-Skolen,"A_Flemming_Amaro_Kristensen,_Hedehus","Flemming Amaro Kristensen, Hedehus",Socialdemokratiet,0
+Høje,1,Ole Rømer-Skolen,"A_Jacob_Harris,_Hedehusene","Jacob Harris, Hedehusene",Socialdemokratiet,1
+Høje,1,Ole Rømer-Skolen,B_Listestemmer,Listestemmer,Radikale Venstre,7
+Høje,1,Ole Rømer-Skolen,B_Esat_Sentürk,Esat Sentürk,Radikale Venstre,71
+Høje,1,Ole Rømer-Skolen,B_Ilknur_Kekec_Coban,Ilknur Kekec Coban,Radikale Venstre,44
+Høje,1,Ole Rømer-Skolen,B_Ibrahim_El-Khatib,Ibrahim El-Khatib,Radikale Venstre,7
+Høje,1,Ole Rømer-Skolen,B_Jerry_Jensen,Jerry Jensen,Radikale Venstre,2
+Høje,1,Ole Rømer-Skolen,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,49
+Høje,1,Ole Rømer-Skolen,"C_Michael_Ziegler,_Taastrup","Michael Ziegler, Taastrup",Det Konservative Folkeparti,282
+Høje,1,Ole Rømer-Skolen,"C_Merete_Scheelsbeck,_Taastrup","Merete Scheelsbeck, Taastrup",Det Konservative Folkeparti,16
+Høje,1,Ole Rømer-Skolen,"C_Toke_Elling,_Taastrup","Toke Elling, Taastrup",Det Konservative Folkeparti,6
+Høje,1,Ole Rømer-Skolen,"C_Marjan_Ganjjou,_Taastrup","Marjan Ganjjou, Taastrup",Det Konservative Folkeparti,8
+Høje,1,Ole Rømer-Skolen,"C_Jeanette_Ingemann,_Fløng","Jeanette Ingemann, Fløng",Det Konservative Folkeparti,1
+Høje,1,Ole Rømer-Skolen,"C_Turan_Akbulut,_Hedehusene","Turan Akbulut, Hedehusene",Det Konservative Folkeparti,18
+Høje,1,Ole Rømer-Skolen,"C_Steffen_Mølgaard,_Taastrup_Valby","Steffen Mølgaard, Taastrup Valby",Det Konservative Folkeparti,3
+Høje,1,Ole Rømer-Skolen,"C_Henrik_Torning,_Sengeløse","Henrik Torning, Sengeløse",Det Konservative Folkeparti,3
+Høje,1,Ole Rømer-Skolen,"C_Kurt_Scheelsbeck,_Hedehusene","Kurt Scheelsbeck, Hedehusene",Det Konservative Folkeparti,3
+Høje,1,Ole Rømer-Skolen,"C_Simon_Bøtkjær_Nielsen,_Høje_Taastr","Simon Bøtkjær Nielsen, Høje Taastr",Det Konservative Folkeparti,6
+Høje,1,Ole Rømer-Skolen,"C_Maj-Britt_Hartvig,_Torstorp","Maj-Britt Hartvig, Torstorp",Det Konservative Folkeparti,21
+Høje,1,Ole Rømer-Skolen,"C_Rejan_Azad_Ali,_Høje_Taastrup","Rejan Azad Ali, Høje Taastrup",Det Konservative Folkeparti,2
+Høje,1,Ole Rømer-Skolen,"C_Vivi_Holt,_Taastrup","Vivi Holt, Taastrup",Det Konservative Folkeparti,2
+Høje,1,Ole Rømer-Skolen,"C_Mikael_Emanuel,_Taastrup","Mikael Emanuel, Taastrup",Det Konservative Folkeparti,10
+Høje,1,Ole Rømer-Skolen,"C_Allan_Overgaard,_Taastrup","Allan Overgaard, Taastrup",Det Konservative Folkeparti,0
+Høje,1,Ole Rømer-Skolen,"C_Melis_Aydin,_Taastrup","Melis Aydin, Taastrup",Det Konservative Folkeparti,38
+Høje,1,Ole Rømer-Skolen,"C_Finn_Søder,_Sengeløse","Finn Søder, Sengeløse",Det Konservative Folkeparti,1
+Høje,1,Ole Rømer-Skolen,"C_Lone_Simonsen,_Taastrup","Lone Simonsen, Taastrup",Det Konservative Folkeparti,1
+Høje,1,Ole Rømer-Skolen,"C_Torben_Rasmussen,_Hedehusene","Torben Rasmussen, Hedehusene",Det Konservative Folkeparti,0
+Høje,1,Ole Rømer-Skolen,"C_Frede_Vest,_Soderup","Frede Vest, Soderup",Det Konservative Folkeparti,1
+Høje,1,Ole Rømer-Skolen,D_Listestemmer,Listestemmer,Nye Borgerlige,17
+Høje,1,Ole Rømer-Skolen,D_Bo_Ejsing,Bo Ejsing,Nye Borgerlige,22
+Høje,1,Ole Rømer-Skolen,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,21
+Høje,1,Ole Rømer-Skolen,"F_Øzdes_Durukan,_Taastrup","Øzdes Durukan, Taastrup",SF - Socialistisk Folkeparti,35
+Høje,1,Ole Rømer-Skolen,"F_Freja_Lander,_Taastrup","Freja Lander, Taastrup",SF - Socialistisk Folkeparti,11
+Høje,1,Ole Rømer-Skolen,"F_Birger_Juul,_Taastrup","Birger Juul, Taastrup",SF - Socialistisk Folkeparti,0
+Høje,1,Ole Rømer-Skolen,"F_Mette_Gagner,_Hedehusene","Mette Gagner, Hedehusene",SF - Socialistisk Folkeparti,4
+Høje,1,Ole Rømer-Skolen,"F_Kaj_V._Rasmussen,_Høje_Taastrup","Kaj V. Rasmussen, Høje Taastrup",SF - Socialistisk Folkeparti,2
+Høje,1,Ole Rømer-Skolen,I_Listestemmer,Listestemmer,Liberal Alliance,3
+Høje,1,Ole Rømer-Skolen,"I_Danny_Malkowski,_Taastrup","Danny Malkowski, Taastrup",Liberal Alliance,3
+Høje,1,Ole Rømer-Skolen,"I_Liv_K._Olesen,_Hedehusene","Liv K. Olesen, Hedehusene",Liberal Alliance,1
+Høje,1,Ole Rømer-Skolen,"I_Laurits_Dalby,_Taastrup","Laurits Dalby, Taastrup",Liberal Alliance,0
+Høje,1,Ole Rømer-Skolen,"I_Kim_Jensen,_Reerslev","Kim Jensen, Reerslev",Liberal Alliance,0
+Høje,1,Ole Rømer-Skolen,"I_Karsten_Ruuskanen-Strunge,_Taastru","Karsten Ruuskanen-Strunge, Taastru",Liberal Alliance,0
+Høje,1,Ole Rømer-Skolen,"I_Bettina_Stuhr,_Taastrup","Bettina Stuhr, Taastrup",Liberal Alliance,1
+Høje,1,Ole Rømer-Skolen,"I_Henning_K._Kristensen,_Taastrup","Henning K. Kristensen, Taastrup",Liberal Alliance,0
+Høje,1,Ole Rømer-Skolen,"I_Christian_Stender,_Taastrup","Christian Stender, Taastrup",Liberal Alliance,0
+Høje,1,Ole Rømer-Skolen,"I_Nicki_Wassmann_Brøchner,_Nærheden","Nicki Wassmann Brøchner, Nærheden",Liberal Alliance,0
+Høje,1,Ole Rømer-Skolen,O_Listestemmer,Listestemmer,Dansk Folkeparti,24
+Høje,1,Ole Rømer-Skolen,"O_Lars_Prier,_Taastrup","Lars Prier, Taastrup",Dansk Folkeparti,24
+Høje,1,Ole Rømer-Skolen,"O_Flemming_Hansen,_Taastrup","Flemming Hansen, Taastrup",Dansk Folkeparti,3
+Høje,1,Ole Rømer-Skolen,"O_Henrik_Pangel,_Hedehusene","Henrik Pangel, Hedehusene",Dansk Folkeparti,0
+Høje,1,Ole Rømer-Skolen,"O_Else_Stokholm,_Taastrup","Else Stokholm, Taastrup",Dansk Folkeparti,2
+Høje,1,Ole Rømer-Skolen,"O_Allan_Bolvig,_Taastrup","Allan Bolvig, Taastrup",Dansk Folkeparti,0
+Høje,1,Ole Rømer-Skolen,"O_Lene_Breuning,_Taastrup","Lene Breuning, Taastrup",Dansk Folkeparti,3
+Høje,1,Ole Rømer-Skolen,"O_Max_Dupont,_Taastrup","Max Dupont, Taastrup",Dansk Folkeparti,1
+Høje,1,Ole Rømer-Skolen,"O_Jørgen_Nygaard_Lerche,_Taastrup","Jørgen Nygaard Lerche, Taastrup",Dansk Folkeparti,0
+Høje,1,Ole Rømer-Skolen,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",15
+Høje,1,Ole Rømer-Skolen,"V_Lisbeth_Kjærholt,_Fløng","Lisbeth Kjærholt, Fløng","Venstre, Danmarks Liberale Parti",1
+Høje,1,Ole Rømer-Skolen,"V_Lucas_Damsgaard,_Taastrup","Lucas Damsgaard, Taastrup","Venstre, Danmarks Liberale Parti",3
+Høje,1,Ole Rømer-Skolen,"V_Frank_Clausen,_Taastrup","Frank Clausen, Taastrup","Venstre, Danmarks Liberale Parti",0
+Høje,1,Ole Rømer-Skolen,"V_Sophie_Brohus,_Taastrup","Sophie Brohus, Taastrup","Venstre, Danmarks Liberale Parti",1
+Høje,1,Ole Rømer-Skolen,"V_Karsten_Toksvig,_Taastrup","Karsten Toksvig, Taastrup","Venstre, Danmarks Liberale Parti",1
+Høje,1,Ole Rømer-Skolen,"V_Tina_Løyche,_Taastrup","Tina Løyche, Taastrup","Venstre, Danmarks Liberale Parti",1
+Høje,1,Ole Rømer-Skolen,"V_Morten_Hoffmann-Timmol,_Kraghave","Morten Hoffmann-Timmol, Kraghave","Venstre, Danmarks Liberale Parti",5
+Høje,1,Ole Rømer-Skolen,"V_Peder_Helt,_Hedehusene","Peder Helt, Hedehusene","Venstre, Danmarks Liberale Parti",0
+Høje,1,Ole Rømer-Skolen,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,37
+Høje,1,Ole Rømer-Skolen,"Ø_Emil_Viskum,_Taastrup","Emil Viskum, Taastrup",Enhedslisten - De Rød-Grønne,38
+Høje,1,Ole Rømer-Skolen,"Ø_Rojda_Kara,_Hedehusene","Rojda Kara, Hedehusene",Enhedslisten - De Rød-Grønne,12
+Høje,1,Ole Rømer-Skolen,"Ø_Halil_Kara,_Hedehusene","Halil Kara, Hedehusene",Enhedslisten - De Rød-Grønne,1
+Høje,1,Ole Rømer-Skolen,"Ø_Preben_Bjørn_Madsen,_Taastrup","Preben Bjørn Madsen, Taastrup",Enhedslisten - De Rød-Grønne,1
+Høje,1,Ole Rømer-Skolen,"Ø_Jørgen_Mortensen,_Taastrup","Jørgen Mortensen, Taastrup",Enhedslisten - De Rød-Grønne,1
+Høje,1,Ole Rømer-Skolen,Å_Listestemmer,Listestemmer,Alternativet,4
+Høje,1,Ole Rømer-Skolen,"Å_Ken_Patrick_Petersson,_Taastrup","Ken Patrick Petersson, Taastrup",Alternativet,4
+Høje,1,Ole Rømer-Skolen,"Å_Irina_Bjørnø,_Sengeløse","Irina Bjørnø, Sengeløse",Alternativet,7
+Høje,1,Ole Rømer-Skolen,"Å_Steffen_S._Koch,_Taastrup","Steffen S. Koch, Taastrup",Alternativet,2
+Høje,2,Parkskolen,A_Listestemmer,Listestemmer,Socialdemokratiet,163
+Høje,2,Parkskolen,"A_Peter_Faarbæk,_Taastrup","Peter Faarbæk, Taastrup",Socialdemokratiet,149
+Høje,2,Parkskolen,"A_Anne_Mette_Bak,_Taastrup","Anne Mette Bak, Taastrup",Socialdemokratiet,80
+Høje,2,Parkskolen,"A_Thomas_Bak,_Taastrup","Thomas Bak, Taastrup",Socialdemokratiet,52
+Høje,2,Parkskolen,"A_Hugo_Hammel,_Sengeløse","Hugo Hammel, Sengeløse",Socialdemokratiet,10
+Høje,2,Parkskolen,"A_Thomas_Stenrød_Paulsen,_Taastrup","Thomas Stenrød Paulsen, Taastrup",Socialdemokratiet,18
+Høje,2,Parkskolen,"A_Nina_Strøm_Tønnes,_Hedehusene","Nina Strøm Tønnes, Hedehusene",Socialdemokratiet,7
+Høje,2,Parkskolen,"A_Malene_Thackrah,_Taastrup","Malene Thackrah, Taastrup",Socialdemokratiet,17
+Høje,2,Parkskolen,"A_Brith_Dorph_Josephsen,_Taastrup","Brith Dorph Josephsen, Taastrup",Socialdemokratiet,28
+Høje,2,Parkskolen,"A_Stefan_Ørsted_Petersen,_Taastrup","Stefan Ørsted Petersen, Taastrup",Socialdemokratiet,6
+Høje,2,Parkskolen,"A_Sabah_Abid,_Taastrup","Sabah Abid, Taastrup",Socialdemokratiet,18
+Høje,2,Parkskolen,"A_Sami_Gökdemir,_Taastrup","Sami Gökdemir, Taastrup",Socialdemokratiet,44
+Høje,2,Parkskolen,"A_Claus_Heje,_Taastrup","Claus Heje, Taastrup",Socialdemokratiet,10
+Høje,2,Parkskolen,"A_Oguzcan_Yüksel,_Taastrup","Oguzcan Yüksel, Taastrup",Socialdemokratiet,28
+Høje,2,Parkskolen,"A_Flemming_Amaro_Kristensen,_Hedehus","Flemming Amaro Kristensen, Hedehus",Socialdemokratiet,2
+Høje,2,Parkskolen,"A_Jacob_Harris,_Hedehusene","Jacob Harris, Hedehusene",Socialdemokratiet,5
+Høje,2,Parkskolen,B_Listestemmer,Listestemmer,Radikale Venstre,14
+Høje,2,Parkskolen,B_Esat_Sentürk,Esat Sentürk,Radikale Venstre,41
+Høje,2,Parkskolen,B_Ilknur_Kekec_Coban,Ilknur Kekec Coban,Radikale Venstre,24
+Høje,2,Parkskolen,B_Ibrahim_El-Khatib,Ibrahim El-Khatib,Radikale Venstre,8
+Høje,2,Parkskolen,B_Jerry_Jensen,Jerry Jensen,Radikale Venstre,1
+Høje,2,Parkskolen,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,117
+Høje,2,Parkskolen,"C_Michael_Ziegler,_Taastrup","Michael Ziegler, Taastrup",Det Konservative Folkeparti,755
+Høje,2,Parkskolen,"C_Merete_Scheelsbeck,_Taastrup","Merete Scheelsbeck, Taastrup",Det Konservative Folkeparti,54
+Høje,2,Parkskolen,"C_Toke_Elling,_Taastrup","Toke Elling, Taastrup",Det Konservative Folkeparti,32
+Høje,2,Parkskolen,"C_Marjan_Ganjjou,_Taastrup","Marjan Ganjjou, Taastrup",Det Konservative Folkeparti,30
+Høje,2,Parkskolen,"C_Jeanette_Ingemann,_Fløng","Jeanette Ingemann, Fløng",Det Konservative Folkeparti,1
+Høje,2,Parkskolen,"C_Turan_Akbulut,_Hedehusene","Turan Akbulut, Hedehusene",Det Konservative Folkeparti,4
+Høje,2,Parkskolen,"C_Steffen_Mølgaard,_Taastrup_Valby","Steffen Mølgaard, Taastrup Valby",Det Konservative Folkeparti,19
+Høje,2,Parkskolen,"C_Henrik_Torning,_Sengeløse","Henrik Torning, Sengeløse",Det Konservative Folkeparti,2
+Høje,2,Parkskolen,"C_Kurt_Scheelsbeck,_Hedehusene","Kurt Scheelsbeck, Hedehusene",Det Konservative Folkeparti,6
+Høje,2,Parkskolen,"C_Simon_Bøtkjær_Nielsen,_Høje_Taastr","Simon Bøtkjær Nielsen, Høje Taastr",Det Konservative Folkeparti,30
+Høje,2,Parkskolen,"C_Maj-Britt_Hartvig,_Torstorp","Maj-Britt Hartvig, Torstorp",Det Konservative Folkeparti,54
+Høje,2,Parkskolen,"C_Rejan_Azad_Ali,_Høje_Taastrup","Rejan Azad Ali, Høje Taastrup",Det Konservative Folkeparti,1
+Høje,2,Parkskolen,"C_Vivi_Holt,_Taastrup","Vivi Holt, Taastrup",Det Konservative Folkeparti,4
+Høje,2,Parkskolen,"C_Mikael_Emanuel,_Taastrup","Mikael Emanuel, Taastrup",Det Konservative Folkeparti,46
+Høje,2,Parkskolen,"C_Allan_Overgaard,_Taastrup","Allan Overgaard, Taastrup",Det Konservative Folkeparti,2
+Høje,2,Parkskolen,"C_Melis_Aydin,_Taastrup","Melis Aydin, Taastrup",Det Konservative Folkeparti,55
+Høje,2,Parkskolen,"C_Finn_Søder,_Sengeløse","Finn Søder, Sengeløse",Det Konservative Folkeparti,0
+Høje,2,Parkskolen,"C_Lone_Simonsen,_Taastrup","Lone Simonsen, Taastrup",Det Konservative Folkeparti,1
+Høje,2,Parkskolen,"C_Torben_Rasmussen,_Hedehusene","Torben Rasmussen, Hedehusene",Det Konservative Folkeparti,0
+Høje,2,Parkskolen,"C_Frede_Vest,_Soderup","Frede Vest, Soderup",Det Konservative Folkeparti,0
+Høje,2,Parkskolen,D_Listestemmer,Listestemmer,Nye Borgerlige,13
+Høje,2,Parkskolen,D_Bo_Ejsing,Bo Ejsing,Nye Borgerlige,36
+Høje,2,Parkskolen,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,33
+Høje,2,Parkskolen,"F_Øzdes_Durukan,_Taastrup","Øzdes Durukan, Taastrup",SF - Socialistisk Folkeparti,38
+Høje,2,Parkskolen,"F_Freja_Lander,_Taastrup","Freja Lander, Taastrup",SF - Socialistisk Folkeparti,21
+Høje,2,Parkskolen,"F_Birger_Juul,_Taastrup","Birger Juul, Taastrup",SF - Socialistisk Folkeparti,3
+Høje,2,Parkskolen,"F_Mette_Gagner,_Hedehusene","Mette Gagner, Hedehusene",SF - Socialistisk Folkeparti,5
+Høje,2,Parkskolen,"F_Kaj_V._Rasmussen,_Høje_Taastrup","Kaj V. Rasmussen, Høje Taastrup",SF - Socialistisk Folkeparti,2
+Høje,2,Parkskolen,I_Listestemmer,Listestemmer,Liberal Alliance,6
+Høje,2,Parkskolen,"I_Danny_Malkowski,_Taastrup","Danny Malkowski, Taastrup",Liberal Alliance,29
+Høje,2,Parkskolen,"I_Liv_K._Olesen,_Hedehusene","Liv K. Olesen, Hedehusene",Liberal Alliance,1
+Høje,2,Parkskolen,"I_Laurits_Dalby,_Taastrup","Laurits Dalby, Taastrup",Liberal Alliance,1
+Høje,2,Parkskolen,"I_Kim_Jensen,_Reerslev","Kim Jensen, Reerslev",Liberal Alliance,0
+Høje,2,Parkskolen,"I_Karsten_Ruuskanen-Strunge,_Taastru","Karsten Ruuskanen-Strunge, Taastru",Liberal Alliance,0
+Høje,2,Parkskolen,"I_Bettina_Stuhr,_Taastrup","Bettina Stuhr, Taastrup",Liberal Alliance,0
+Høje,2,Parkskolen,"I_Henning_K._Kristensen,_Taastrup","Henning K. Kristensen, Taastrup",Liberal Alliance,2
+Høje,2,Parkskolen,"I_Christian_Stender,_Taastrup","Christian Stender, Taastrup",Liberal Alliance,1
+Høje,2,Parkskolen,"I_Nicki_Wassmann_Brøchner,_Nærheden","Nicki Wassmann Brøchner, Nærheden",Liberal Alliance,0
+Høje,2,Parkskolen,O_Listestemmer,Listestemmer,Dansk Folkeparti,23
+Høje,2,Parkskolen,"O_Lars_Prier,_Taastrup","Lars Prier, Taastrup",Dansk Folkeparti,48
+Høje,2,Parkskolen,"O_Flemming_Hansen,_Taastrup","Flemming Hansen, Taastrup",Dansk Folkeparti,10
+Høje,2,Parkskolen,"O_Henrik_Pangel,_Hedehusene","Henrik Pangel, Hedehusene",Dansk Folkeparti,0
+Høje,2,Parkskolen,"O_Else_Stokholm,_Taastrup","Else Stokholm, Taastrup",Dansk Folkeparti,9
+Høje,2,Parkskolen,"O_Allan_Bolvig,_Taastrup","Allan Bolvig, Taastrup",Dansk Folkeparti,2
+Høje,2,Parkskolen,"O_Lene_Breuning,_Taastrup","Lene Breuning, Taastrup",Dansk Folkeparti,3
+Høje,2,Parkskolen,"O_Max_Dupont,_Taastrup","Max Dupont, Taastrup",Dansk Folkeparti,7
+Høje,2,Parkskolen,"O_Jørgen_Nygaard_Lerche,_Taastrup","Jørgen Nygaard Lerche, Taastrup",Dansk Folkeparti,1
+Høje,2,Parkskolen,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",16
+Høje,2,Parkskolen,"V_Lisbeth_Kjærholt,_Fløng","Lisbeth Kjærholt, Fløng","Venstre, Danmarks Liberale Parti",22
+Høje,2,Parkskolen,"V_Lucas_Damsgaard,_Taastrup","Lucas Damsgaard, Taastrup","Venstre, Danmarks Liberale Parti",3
+Høje,2,Parkskolen,"V_Frank_Clausen,_Taastrup","Frank Clausen, Taastrup","Venstre, Danmarks Liberale Parti",2
+Høje,2,Parkskolen,"V_Sophie_Brohus,_Taastrup","Sophie Brohus, Taastrup","Venstre, Danmarks Liberale Parti",1
+Høje,2,Parkskolen,"V_Karsten_Toksvig,_Taastrup","Karsten Toksvig, Taastrup","Venstre, Danmarks Liberale Parti",0
+Høje,2,Parkskolen,"V_Tina_Løyche,_Taastrup","Tina Løyche, Taastrup","Venstre, Danmarks Liberale Parti",1
+Høje,2,Parkskolen,"V_Morten_Hoffmann-Timmol,_Kraghave","Morten Hoffmann-Timmol, Kraghave","Venstre, Danmarks Liberale Parti",0
+Høje,2,Parkskolen,"V_Peder_Helt,_Hedehusene","Peder Helt, Hedehusene","Venstre, Danmarks Liberale Parti",1
+Høje,2,Parkskolen,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,42
+Høje,2,Parkskolen,"Ø_Emil_Viskum,_Taastrup","Emil Viskum, Taastrup",Enhedslisten - De Rød-Grønne,48
+Høje,2,Parkskolen,"Ø_Rojda_Kara,_Hedehusene","Rojda Kara, Hedehusene",Enhedslisten - De Rød-Grønne,15
+Høje,2,Parkskolen,"Ø_Halil_Kara,_Hedehusene","Halil Kara, Hedehusene",Enhedslisten - De Rød-Grønne,1
+Høje,2,Parkskolen,"Ø_Preben_Bjørn_Madsen,_Taastrup","Preben Bjørn Madsen, Taastrup",Enhedslisten - De Rød-Grønne,2
+Høje,2,Parkskolen,"Ø_Jørgen_Mortensen,_Taastrup","Jørgen Mortensen, Taastrup",Enhedslisten - De Rød-Grønne,1
+Høje,2,Parkskolen,Å_Listestemmer,Listestemmer,Alternativet,4
+Høje,2,Parkskolen,"Å_Ken_Patrick_Petersson,_Taastrup","Ken Patrick Petersson, Taastrup",Alternativet,8
+Høje,2,Parkskolen,"Å_Irina_Bjørnø,_Sengeløse","Irina Bjørnø, Sengeløse",Alternativet,7
+Høje,2,Parkskolen,"Å_Steffen_S._Koch,_Taastrup","Steffen S. Koch, Taastrup",Alternativet,1
+Høje,4,Taastrup Kulturcenter,A_Listestemmer,Listestemmer,Socialdemokratiet,219
+Høje,4,Taastrup Kulturcenter,"A_Peter_Faarbæk,_Taastrup","Peter Faarbæk, Taastrup",Socialdemokratiet,206
+Høje,4,Taastrup Kulturcenter,"A_Anne_Mette_Bak,_Taastrup","Anne Mette Bak, Taastrup",Socialdemokratiet,85
+Høje,4,Taastrup Kulturcenter,"A_Thomas_Bak,_Taastrup","Thomas Bak, Taastrup",Socialdemokratiet,71
+Høje,4,Taastrup Kulturcenter,"A_Hugo_Hammel,_Sengeløse","Hugo Hammel, Sengeløse",Socialdemokratiet,13
+Høje,4,Taastrup Kulturcenter,"A_Thomas_Stenrød_Paulsen,_Taastrup","Thomas Stenrød Paulsen, Taastrup",Socialdemokratiet,22
+Høje,4,Taastrup Kulturcenter,"A_Nina_Strøm_Tønnes,_Hedehusene","Nina Strøm Tønnes, Hedehusene",Socialdemokratiet,12
+Høje,4,Taastrup Kulturcenter,"A_Malene_Thackrah,_Taastrup","Malene Thackrah, Taastrup",Socialdemokratiet,22
+Høje,4,Taastrup Kulturcenter,"A_Brith_Dorph_Josephsen,_Taastrup","Brith Dorph Josephsen, Taastrup",Socialdemokratiet,30
+Høje,4,Taastrup Kulturcenter,"A_Stefan_Ørsted_Petersen,_Taastrup","Stefan Ørsted Petersen, Taastrup",Socialdemokratiet,3
+Høje,4,Taastrup Kulturcenter,"A_Sabah_Abid,_Taastrup","Sabah Abid, Taastrup",Socialdemokratiet,41
+Høje,4,Taastrup Kulturcenter,"A_Sami_Gökdemir,_Taastrup","Sami Gökdemir, Taastrup",Socialdemokratiet,23
+Høje,4,Taastrup Kulturcenter,"A_Claus_Heje,_Taastrup","Claus Heje, Taastrup",Socialdemokratiet,6
+Høje,4,Taastrup Kulturcenter,"A_Oguzcan_Yüksel,_Taastrup","Oguzcan Yüksel, Taastrup",Socialdemokratiet,20
+Høje,4,Taastrup Kulturcenter,"A_Flemming_Amaro_Kristensen,_Hedehus","Flemming Amaro Kristensen, Hedehus",Socialdemokratiet,0
+Høje,4,Taastrup Kulturcenter,"A_Jacob_Harris,_Hedehusene","Jacob Harris, Hedehusene",Socialdemokratiet,2
+Høje,4,Taastrup Kulturcenter,B_Listestemmer,Listestemmer,Radikale Venstre,17
+Høje,4,Taastrup Kulturcenter,B_Esat_Sentürk,Esat Sentürk,Radikale Venstre,37
+Høje,4,Taastrup Kulturcenter,B_Ilknur_Kekec_Coban,Ilknur Kekec Coban,Radikale Venstre,29
+Høje,4,Taastrup Kulturcenter,B_Ibrahim_El-Khatib,Ibrahim El-Khatib,Radikale Venstre,3
+Høje,4,Taastrup Kulturcenter,B_Jerry_Jensen,Jerry Jensen,Radikale Venstre,0
+Høje,4,Taastrup Kulturcenter,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,167
+Høje,4,Taastrup Kulturcenter,"C_Michael_Ziegler,_Taastrup","Michael Ziegler, Taastrup",Det Konservative Folkeparti,1156
+Høje,4,Taastrup Kulturcenter,"C_Merete_Scheelsbeck,_Taastrup","Merete Scheelsbeck, Taastrup",Det Konservative Folkeparti,85
+Høje,4,Taastrup Kulturcenter,"C_Toke_Elling,_Taastrup","Toke Elling, Taastrup",Det Konservative Folkeparti,60
+Høje,4,Taastrup Kulturcenter,"C_Marjan_Ganjjou,_Taastrup","Marjan Ganjjou, Taastrup",Det Konservative Folkeparti,34
+Høje,4,Taastrup Kulturcenter,"C_Jeanette_Ingemann,_Fløng","Jeanette Ingemann, Fløng",Det Konservative Folkeparti,4
+Høje,4,Taastrup Kulturcenter,"C_Turan_Akbulut,_Hedehusene","Turan Akbulut, Hedehusene",Det Konservative Folkeparti,15
+Høje,4,Taastrup Kulturcenter,"C_Steffen_Mølgaard,_Taastrup_Valby","Steffen Mølgaard, Taastrup Valby",Det Konservative Folkeparti,25
+Høje,4,Taastrup Kulturcenter,"C_Henrik_Torning,_Sengeløse","Henrik Torning, Sengeløse",Det Konservative Folkeparti,1
+Høje,4,Taastrup Kulturcenter,"C_Kurt_Scheelsbeck,_Hedehusene","Kurt Scheelsbeck, Hedehusene",Det Konservative Folkeparti,9
+Høje,4,Taastrup Kulturcenter,"C_Simon_Bøtkjær_Nielsen,_Høje_Taastr","Simon Bøtkjær Nielsen, Høje Taastr",Det Konservative Folkeparti,20
+Høje,4,Taastrup Kulturcenter,"C_Maj-Britt_Hartvig,_Torstorp","Maj-Britt Hartvig, Torstorp",Det Konservative Folkeparti,45
+Høje,4,Taastrup Kulturcenter,"C_Rejan_Azad_Ali,_Høje_Taastrup","Rejan Azad Ali, Høje Taastrup",Det Konservative Folkeparti,0
+Høje,4,Taastrup Kulturcenter,"C_Vivi_Holt,_Taastrup","Vivi Holt, Taastrup",Det Konservative Folkeparti,12
+Høje,4,Taastrup Kulturcenter,"C_Mikael_Emanuel,_Taastrup","Mikael Emanuel, Taastrup",Det Konservative Folkeparti,40
+Høje,4,Taastrup Kulturcenter,"C_Allan_Overgaard,_Taastrup","Allan Overgaard, Taastrup",Det Konservative Folkeparti,0
+Høje,4,Taastrup Kulturcenter,"C_Melis_Aydin,_Taastrup","Melis Aydin, Taastrup",Det Konservative Folkeparti,7
+Høje,4,Taastrup Kulturcenter,"C_Finn_Søder,_Sengeløse","Finn Søder, Sengeløse",Det Konservative Folkeparti,2
+Høje,4,Taastrup Kulturcenter,"C_Lone_Simonsen,_Taastrup","Lone Simonsen, Taastrup",Det Konservative Folkeparti,1
+Høje,4,Taastrup Kulturcenter,"C_Torben_Rasmussen,_Hedehusene","Torben Rasmussen, Hedehusene",Det Konservative Folkeparti,0
+Høje,4,Taastrup Kulturcenter,"C_Frede_Vest,_Soderup","Frede Vest, Soderup",Det Konservative Folkeparti,1
+Høje,4,Taastrup Kulturcenter,D_Listestemmer,Listestemmer,Nye Borgerlige,46
+Høje,4,Taastrup Kulturcenter,D_Bo_Ejsing,Bo Ejsing,Nye Borgerlige,30
+Høje,4,Taastrup Kulturcenter,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,45
+Høje,4,Taastrup Kulturcenter,"F_Øzdes_Durukan,_Taastrup","Øzdes Durukan, Taastrup",SF - Socialistisk Folkeparti,59
+Høje,4,Taastrup Kulturcenter,"F_Freja_Lander,_Taastrup","Freja Lander, Taastrup",SF - Socialistisk Folkeparti,52
+Høje,4,Taastrup Kulturcenter,"F_Birger_Juul,_Taastrup","Birger Juul, Taastrup",SF - Socialistisk Folkeparti,5
+Høje,4,Taastrup Kulturcenter,"F_Mette_Gagner,_Hedehusene","Mette Gagner, Hedehusene",SF - Socialistisk Folkeparti,5
+Høje,4,Taastrup Kulturcenter,"F_Kaj_V._Rasmussen,_Høje_Taastrup","Kaj V. Rasmussen, Høje Taastrup",SF - Socialistisk Folkeparti,3
+Høje,4,Taastrup Kulturcenter,I_Listestemmer,Listestemmer,Liberal Alliance,10
+Høje,4,Taastrup Kulturcenter,"I_Danny_Malkowski,_Taastrup","Danny Malkowski, Taastrup",Liberal Alliance,24
+Høje,4,Taastrup Kulturcenter,"I_Liv_K._Olesen,_Hedehusene","Liv K. Olesen, Hedehusene",Liberal Alliance,1
+Høje,4,Taastrup Kulturcenter,"I_Laurits_Dalby,_Taastrup","Laurits Dalby, Taastrup",Liberal Alliance,1
+Høje,4,Taastrup Kulturcenter,"I_Kim_Jensen,_Reerslev","Kim Jensen, Reerslev",Liberal Alliance,0
+Høje,4,Taastrup Kulturcenter,"I_Karsten_Ruuskanen-Strunge,_Taastru","Karsten Ruuskanen-Strunge, Taastru",Liberal Alliance,0
+Høje,4,Taastrup Kulturcenter,"I_Bettina_Stuhr,_Taastrup","Bettina Stuhr, Taastrup",Liberal Alliance,1
+Høje,4,Taastrup Kulturcenter,"I_Henning_K._Kristensen,_Taastrup","Henning K. Kristensen, Taastrup",Liberal Alliance,0
+Høje,4,Taastrup Kulturcenter,"I_Christian_Stender,_Taastrup","Christian Stender, Taastrup",Liberal Alliance,0
+Høje,4,Taastrup Kulturcenter,"I_Nicki_Wassmann_Brøchner,_Nærheden","Nicki Wassmann Brøchner, Nærheden",Liberal Alliance,2
+Høje,4,Taastrup Kulturcenter,O_Listestemmer,Listestemmer,Dansk Folkeparti,48
+Høje,4,Taastrup Kulturcenter,"O_Lars_Prier,_Taastrup","Lars Prier, Taastrup",Dansk Folkeparti,65
+Høje,4,Taastrup Kulturcenter,"O_Flemming_Hansen,_Taastrup","Flemming Hansen, Taastrup",Dansk Folkeparti,13
+Høje,4,Taastrup Kulturcenter,"O_Henrik_Pangel,_Hedehusene","Henrik Pangel, Hedehusene",Dansk Folkeparti,1
+Høje,4,Taastrup Kulturcenter,"O_Else_Stokholm,_Taastrup","Else Stokholm, Taastrup",Dansk Folkeparti,4
+Høje,4,Taastrup Kulturcenter,"O_Allan_Bolvig,_Taastrup","Allan Bolvig, Taastrup",Dansk Folkeparti,3
+Høje,4,Taastrup Kulturcenter,"O_Lene_Breuning,_Taastrup","Lene Breuning, Taastrup",Dansk Folkeparti,8
+Høje,4,Taastrup Kulturcenter,"O_Max_Dupont,_Taastrup","Max Dupont, Taastrup",Dansk Folkeparti,11
+Høje,4,Taastrup Kulturcenter,"O_Jørgen_Nygaard_Lerche,_Taastrup","Jørgen Nygaard Lerche, Taastrup",Dansk Folkeparti,3
+Høje,4,Taastrup Kulturcenter,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",24
+Høje,4,Taastrup Kulturcenter,"V_Lisbeth_Kjærholt,_Fløng","Lisbeth Kjærholt, Fløng","Venstre, Danmarks Liberale Parti",26
+Høje,4,Taastrup Kulturcenter,"V_Lucas_Damsgaard,_Taastrup","Lucas Damsgaard, Taastrup","Venstre, Danmarks Liberale Parti",10
+Høje,4,Taastrup Kulturcenter,"V_Frank_Clausen,_Taastrup","Frank Clausen, Taastrup","Venstre, Danmarks Liberale Parti",2
+Høje,4,Taastrup Kulturcenter,"V_Sophie_Brohus,_Taastrup","Sophie Brohus, Taastrup","Venstre, Danmarks Liberale Parti",1
+Høje,4,Taastrup Kulturcenter,"V_Karsten_Toksvig,_Taastrup","Karsten Toksvig, Taastrup","Venstre, Danmarks Liberale Parti",2
+Høje,4,Taastrup Kulturcenter,"V_Tina_Løyche,_Taastrup","Tina Løyche, Taastrup","Venstre, Danmarks Liberale Parti",2
+Høje,4,Taastrup Kulturcenter,"V_Morten_Hoffmann-Timmol,_Kraghave","Morten Hoffmann-Timmol, Kraghave","Venstre, Danmarks Liberale Parti",0
+Høje,4,Taastrup Kulturcenter,"V_Peder_Helt,_Hedehusene","Peder Helt, Hedehusene","Venstre, Danmarks Liberale Parti",1
+Høje,4,Taastrup Kulturcenter,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,40
+Høje,4,Taastrup Kulturcenter,"Ø_Emil_Viskum,_Taastrup","Emil Viskum, Taastrup",Enhedslisten - De Rød-Grønne,50
+Høje,4,Taastrup Kulturcenter,"Ø_Rojda_Kara,_Hedehusene","Rojda Kara, Hedehusene",Enhedslisten - De Rød-Grønne,26
+Høje,4,Taastrup Kulturcenter,"Ø_Halil_Kara,_Hedehusene","Halil Kara, Hedehusene",Enhedslisten - De Rød-Grønne,0
+Høje,4,Taastrup Kulturcenter,"Ø_Preben_Bjørn_Madsen,_Taastrup","Preben Bjørn Madsen, Taastrup",Enhedslisten - De Rød-Grønne,2
+Høje,4,Taastrup Kulturcenter,"Ø_Jørgen_Mortensen,_Taastrup","Jørgen Mortensen, Taastrup",Enhedslisten - De Rød-Grønne,0
+Høje,4,Taastrup Kulturcenter,Å_Listestemmer,Listestemmer,Alternativet,6
+Høje,4,Taastrup Kulturcenter,"Å_Ken_Patrick_Petersson,_Taastrup","Ken Patrick Petersson, Taastrup",Alternativet,7
+Høje,4,Taastrup Kulturcenter,"Å_Irina_Bjørnø,_Sengeløse","Irina Bjørnø, Sengeløse",Alternativet,2
+Høje,4,Taastrup Kulturcenter,"Å_Steffen_S._Koch,_Taastrup","Steffen S. Koch, Taastrup",Alternativet,0
+Høje,6,Rådhuset,A_Listestemmer,Listestemmer,Socialdemokratiet,202
+Høje,6,Rådhuset,"A_Peter_Faarbæk,_Taastrup","Peter Faarbæk, Taastrup",Socialdemokratiet,145
+Høje,6,Rådhuset,"A_Anne_Mette_Bak,_Taastrup","Anne Mette Bak, Taastrup",Socialdemokratiet,44
+Høje,6,Rådhuset,"A_Thomas_Bak,_Taastrup","Thomas Bak, Taastrup",Socialdemokratiet,38
+Høje,6,Rådhuset,"A_Hugo_Hammel,_Sengeløse","Hugo Hammel, Sengeløse",Socialdemokratiet,11
+Høje,6,Rådhuset,"A_Thomas_Stenrød_Paulsen,_Taastrup","Thomas Stenrød Paulsen, Taastrup",Socialdemokratiet,5
+Høje,6,Rådhuset,"A_Nina_Strøm_Tønnes,_Hedehusene","Nina Strøm Tønnes, Hedehusene",Socialdemokratiet,11
+Høje,6,Rådhuset,"A_Malene_Thackrah,_Taastrup","Malene Thackrah, Taastrup",Socialdemokratiet,11
+Høje,6,Rådhuset,"A_Brith_Dorph_Josephsen,_Taastrup","Brith Dorph Josephsen, Taastrup",Socialdemokratiet,19
+Høje,6,Rådhuset,"A_Stefan_Ørsted_Petersen,_Taastrup","Stefan Ørsted Petersen, Taastrup",Socialdemokratiet,5
+Høje,6,Rådhuset,"A_Sabah_Abid,_Taastrup","Sabah Abid, Taastrup",Socialdemokratiet,126
+Høje,6,Rådhuset,"A_Sami_Gökdemir,_Taastrup","Sami Gökdemir, Taastrup",Socialdemokratiet,20
+Høje,6,Rådhuset,"A_Claus_Heje,_Taastrup","Claus Heje, Taastrup",Socialdemokratiet,13
+Høje,6,Rådhuset,"A_Oguzcan_Yüksel,_Taastrup","Oguzcan Yüksel, Taastrup",Socialdemokratiet,42
+Høje,6,Rådhuset,"A_Flemming_Amaro_Kristensen,_Hedehus","Flemming Amaro Kristensen, Hedehus",Socialdemokratiet,6
+Høje,6,Rådhuset,"A_Jacob_Harris,_Hedehusene","Jacob Harris, Hedehusene",Socialdemokratiet,5
+Høje,6,Rådhuset,B_Listestemmer,Listestemmer,Radikale Venstre,29
+Høje,6,Rådhuset,B_Esat_Sentürk,Esat Sentürk,Radikale Venstre,101
+Høje,6,Rådhuset,B_Ilknur_Kekec_Coban,Ilknur Kekec Coban,Radikale Venstre,104
+Høje,6,Rådhuset,B_Ibrahim_El-Khatib,Ibrahim El-Khatib,Radikale Venstre,30
+Høje,6,Rådhuset,B_Jerry_Jensen,Jerry Jensen,Radikale Venstre,2
+Høje,6,Rådhuset,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,102
+Høje,6,Rådhuset,"C_Michael_Ziegler,_Taastrup","Michael Ziegler, Taastrup",Det Konservative Folkeparti,643
+Høje,6,Rådhuset,"C_Merete_Scheelsbeck,_Taastrup","Merete Scheelsbeck, Taastrup",Det Konservative Folkeparti,17
+Høje,6,Rådhuset,"C_Toke_Elling,_Taastrup","Toke Elling, Taastrup",Det Konservative Folkeparti,12
+Høje,6,Rådhuset,"C_Marjan_Ganjjou,_Taastrup","Marjan Ganjjou, Taastrup",Det Konservative Folkeparti,23
+Høje,6,Rådhuset,"C_Jeanette_Ingemann,_Fløng","Jeanette Ingemann, Fløng",Det Konservative Folkeparti,3
+Høje,6,Rådhuset,"C_Turan_Akbulut,_Hedehusene","Turan Akbulut, Hedehusene",Det Konservative Folkeparti,26
+Høje,6,Rådhuset,"C_Steffen_Mølgaard,_Taastrup_Valby","Steffen Mølgaard, Taastrup Valby",Det Konservative Folkeparti,47
+Høje,6,Rådhuset,"C_Henrik_Torning,_Sengeløse","Henrik Torning, Sengeløse",Det Konservative Folkeparti,9
+Høje,6,Rådhuset,"C_Kurt_Scheelsbeck,_Hedehusene","Kurt Scheelsbeck, Hedehusene",Det Konservative Folkeparti,3
+Høje,6,Rådhuset,"C_Simon_Bøtkjær_Nielsen,_Høje_Taastr","Simon Bøtkjær Nielsen, Høje Taastr",Det Konservative Folkeparti,16
+Høje,6,Rådhuset,"C_Maj-Britt_Hartvig,_Torstorp","Maj-Britt Hartvig, Torstorp",Det Konservative Folkeparti,10
+Høje,6,Rådhuset,"C_Rejan_Azad_Ali,_Høje_Taastrup","Rejan Azad Ali, Høje Taastrup",Det Konservative Folkeparti,5
+Høje,6,Rådhuset,"C_Vivi_Holt,_Taastrup","Vivi Holt, Taastrup",Det Konservative Folkeparti,2
+Høje,6,Rådhuset,"C_Mikael_Emanuel,_Taastrup","Mikael Emanuel, Taastrup",Det Konservative Folkeparti,18
+Høje,6,Rådhuset,"C_Allan_Overgaard,_Taastrup","Allan Overgaard, Taastrup",Det Konservative Folkeparti,2
+Høje,6,Rådhuset,"C_Melis_Aydin,_Taastrup","Melis Aydin, Taastrup",Det Konservative Folkeparti,18
+Høje,6,Rådhuset,"C_Finn_Søder,_Sengeløse","Finn Søder, Sengeløse",Det Konservative Folkeparti,0
+Høje,6,Rådhuset,"C_Lone_Simonsen,_Taastrup","Lone Simonsen, Taastrup",Det Konservative Folkeparti,1
+Høje,6,Rådhuset,"C_Torben_Rasmussen,_Hedehusene","Torben Rasmussen, Hedehusene",Det Konservative Folkeparti,0
+Høje,6,Rådhuset,"C_Frede_Vest,_Soderup","Frede Vest, Soderup",Det Konservative Folkeparti,0
+Høje,6,Rådhuset,D_Listestemmer,Listestemmer,Nye Borgerlige,49
+Høje,6,Rådhuset,D_Bo_Ejsing,Bo Ejsing,Nye Borgerlige,42
+Høje,6,Rådhuset,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,37
+Høje,6,Rådhuset,"F_Øzdes_Durukan,_Taastrup","Øzdes Durukan, Taastrup",SF - Socialistisk Folkeparti,122
+Høje,6,Rådhuset,"F_Freja_Lander,_Taastrup","Freja Lander, Taastrup",SF - Socialistisk Folkeparti,24
+Høje,6,Rådhuset,"F_Birger_Juul,_Taastrup","Birger Juul, Taastrup",SF - Socialistisk Folkeparti,2
+Høje,6,Rådhuset,"F_Mette_Gagner,_Hedehusene","Mette Gagner, Hedehusene",SF - Socialistisk Folkeparti,7
+Høje,6,Rådhuset,"F_Kaj_V._Rasmussen,_Høje_Taastrup","Kaj V. Rasmussen, Høje Taastrup",SF - Socialistisk Folkeparti,2
+Høje,6,Rådhuset,I_Listestemmer,Listestemmer,Liberal Alliance,13
+Høje,6,Rådhuset,"I_Danny_Malkowski,_Taastrup","Danny Malkowski, Taastrup",Liberal Alliance,21
+Høje,6,Rådhuset,"I_Liv_K._Olesen,_Hedehusene","Liv K. Olesen, Hedehusene",Liberal Alliance,1
+Høje,6,Rådhuset,"I_Laurits_Dalby,_Taastrup","Laurits Dalby, Taastrup",Liberal Alliance,0
+Høje,6,Rådhuset,"I_Kim_Jensen,_Reerslev","Kim Jensen, Reerslev",Liberal Alliance,2
+Høje,6,Rådhuset,"I_Karsten_Ruuskanen-Strunge,_Taastru","Karsten Ruuskanen-Strunge, Taastru",Liberal Alliance,0
+Høje,6,Rådhuset,"I_Bettina_Stuhr,_Taastrup","Bettina Stuhr, Taastrup",Liberal Alliance,1
+Høje,6,Rådhuset,"I_Henning_K._Kristensen,_Taastrup","Henning K. Kristensen, Taastrup",Liberal Alliance,1
+Høje,6,Rådhuset,"I_Christian_Stender,_Taastrup","Christian Stender, Taastrup",Liberal Alliance,0
+Høje,6,Rådhuset,"I_Nicki_Wassmann_Brøchner,_Nærheden","Nicki Wassmann Brøchner, Nærheden",Liberal Alliance,1
+Høje,6,Rådhuset,O_Listestemmer,Listestemmer,Dansk Folkeparti,32
+Høje,6,Rådhuset,"O_Lars_Prier,_Taastrup","Lars Prier, Taastrup",Dansk Folkeparti,26
+Høje,6,Rådhuset,"O_Flemming_Hansen,_Taastrup","Flemming Hansen, Taastrup",Dansk Folkeparti,4
+Høje,6,Rådhuset,"O_Henrik_Pangel,_Hedehusene","Henrik Pangel, Hedehusene",Dansk Folkeparti,0
+Høje,6,Rådhuset,"O_Else_Stokholm,_Taastrup","Else Stokholm, Taastrup",Dansk Folkeparti,5
+Høje,6,Rådhuset,"O_Allan_Bolvig,_Taastrup","Allan Bolvig, Taastrup",Dansk Folkeparti,0
+Høje,6,Rådhuset,"O_Lene_Breuning,_Taastrup","Lene Breuning, Taastrup",Dansk Folkeparti,5
+Høje,6,Rådhuset,"O_Max_Dupont,_Taastrup","Max Dupont, Taastrup",Dansk Folkeparti,4
+Høje,6,Rådhuset,"O_Jørgen_Nygaard_Lerche,_Taastrup","Jørgen Nygaard Lerche, Taastrup",Dansk Folkeparti,0
+Høje,6,Rådhuset,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",17
+Høje,6,Rådhuset,"V_Lisbeth_Kjærholt,_Fløng","Lisbeth Kjærholt, Fløng","Venstre, Danmarks Liberale Parti",13
+Høje,6,Rådhuset,"V_Lucas_Damsgaard,_Taastrup","Lucas Damsgaard, Taastrup","Venstre, Danmarks Liberale Parti",2
+Høje,6,Rådhuset,"V_Frank_Clausen,_Taastrup","Frank Clausen, Taastrup","Venstre, Danmarks Liberale Parti",3
+Høje,6,Rådhuset,"V_Sophie_Brohus,_Taastrup","Sophie Brohus, Taastrup","Venstre, Danmarks Liberale Parti",2
+Høje,6,Rådhuset,"V_Karsten_Toksvig,_Taastrup","Karsten Toksvig, Taastrup","Venstre, Danmarks Liberale Parti",0
+Høje,6,Rådhuset,"V_Tina_Løyche,_Taastrup","Tina Løyche, Taastrup","Venstre, Danmarks Liberale Parti",1
+Høje,6,Rådhuset,"V_Morten_Hoffmann-Timmol,_Kraghave","Morten Hoffmann-Timmol, Kraghave","Venstre, Danmarks Liberale Parti",2
+Høje,6,Rådhuset,"V_Peder_Helt,_Hedehusene","Peder Helt, Hedehusene","Venstre, Danmarks Liberale Parti",0
+Høje,6,Rådhuset,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,80
+Høje,6,Rådhuset,"Ø_Emil_Viskum,_Taastrup","Emil Viskum, Taastrup",Enhedslisten - De Rød-Grønne,63
+Høje,6,Rådhuset,"Ø_Rojda_Kara,_Hedehusene","Rojda Kara, Hedehusene",Enhedslisten - De Rød-Grønne,35
+Høje,6,Rådhuset,"Ø_Halil_Kara,_Hedehusene","Halil Kara, Hedehusene",Enhedslisten - De Rød-Grønne,5
+Høje,6,Rådhuset,"Ø_Preben_Bjørn_Madsen,_Taastrup","Preben Bjørn Madsen, Taastrup",Enhedslisten - De Rød-Grønne,3
+Høje,6,Rådhuset,"Ø_Jørgen_Mortensen,_Taastrup","Jørgen Mortensen, Taastrup",Enhedslisten - De Rød-Grønne,1
+Høje,6,Rådhuset,Å_Listestemmer,Listestemmer,Alternativet,12
+Høje,6,Rådhuset,"Å_Ken_Patrick_Petersson,_Taastrup","Ken Patrick Petersson, Taastrup",Alternativet,7
+Høje,6,Rådhuset,"Å_Irina_Bjørnø,_Sengeløse","Irina Bjørnø, Sengeløse",Alternativet,8
+Høje,6,Rådhuset,"Å_Steffen_S._Koch,_Taastrup","Steffen S. Koch, Taastrup",Alternativet,1
+Høje,7,Hallen ved Rønnevangsstrøget,A_Listestemmer,Listestemmer,Socialdemokratiet,305
+Høje,7,Hallen ved Rønnevangsstrøget,"A_Peter_Faarbæk,_Taastrup","Peter Faarbæk, Taastrup",Socialdemokratiet,277
+Høje,7,Hallen ved Rønnevangsstrøget,"A_Anne_Mette_Bak,_Taastrup","Anne Mette Bak, Taastrup",Socialdemokratiet,156
+Høje,7,Hallen ved Rønnevangsstrøget,"A_Thomas_Bak,_Taastrup","Thomas Bak, Taastrup",Socialdemokratiet,115
+Høje,7,Hallen ved Rønnevangsstrøget,"A_Hugo_Hammel,_Sengeløse","Hugo Hammel, Sengeløse",Socialdemokratiet,17
+Høje,7,Hallen ved Rønnevangsstrøget,"A_Thomas_Stenrød_Paulsen,_Taastrup","Thomas Stenrød Paulsen, Taastrup",Socialdemokratiet,23
+Høje,7,Hallen ved Rønnevangsstrøget,"A_Nina_Strøm_Tønnes,_Hedehusene","Nina Strøm Tønnes, Hedehusene",Socialdemokratiet,13
+Høje,7,Hallen ved Rønnevangsstrøget,"A_Malene_Thackrah,_Taastrup","Malene Thackrah, Taastrup",Socialdemokratiet,27
+Høje,7,Hallen ved Rønnevangsstrøget,"A_Brith_Dorph_Josephsen,_Taastrup","Brith Dorph Josephsen, Taastrup",Socialdemokratiet,27
+Høje,7,Hallen ved Rønnevangsstrøget,"A_Stefan_Ørsted_Petersen,_Taastrup","Stefan Ørsted Petersen, Taastrup",Socialdemokratiet,4
+Høje,7,Hallen ved Rønnevangsstrøget,"A_Sabah_Abid,_Taastrup","Sabah Abid, Taastrup",Socialdemokratiet,37
+Høje,7,Hallen ved Rønnevangsstrøget,"A_Sami_Gökdemir,_Taastrup","Sami Gökdemir, Taastrup",Socialdemokratiet,26
+Høje,7,Hallen ved Rønnevangsstrøget,"A_Claus_Heje,_Taastrup","Claus Heje, Taastrup",Socialdemokratiet,22
+Høje,7,Hallen ved Rønnevangsstrøget,"A_Oguzcan_Yüksel,_Taastrup","Oguzcan Yüksel, Taastrup",Socialdemokratiet,18
+Høje,7,Hallen ved Rønnevangsstrøget,"A_Flemming_Amaro_Kristensen,_Hedehus","Flemming Amaro Kristensen, Hedehus",Socialdemokratiet,2
+Høje,7,Hallen ved Rønnevangsstrøget,"A_Jacob_Harris,_Hedehusene","Jacob Harris, Hedehusene",Socialdemokratiet,3
+Høje,7,Hallen ved Rønnevangsstrøget,B_Listestemmer,Listestemmer,Radikale Venstre,29
+Høje,7,Hallen ved Rønnevangsstrøget,B_Esat_Sentürk,Esat Sentürk,Radikale Venstre,62
+Høje,7,Hallen ved Rønnevangsstrøget,B_Ilknur_Kekec_Coban,Ilknur Kekec Coban,Radikale Venstre,27
+Høje,7,Hallen ved Rønnevangsstrøget,B_Ibrahim_El-Khatib,Ibrahim El-Khatib,Radikale Venstre,3
+Høje,7,Hallen ved Rønnevangsstrøget,B_Jerry_Jensen,Jerry Jensen,Radikale Venstre,2
+Høje,7,Hallen ved Rønnevangsstrøget,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,169
+Høje,7,Hallen ved Rønnevangsstrøget,"C_Michael_Ziegler,_Taastrup","Michael Ziegler, Taastrup",Det Konservative Folkeparti,1102
+Høje,7,Hallen ved Rønnevangsstrøget,"C_Merete_Scheelsbeck,_Taastrup","Merete Scheelsbeck, Taastrup",Det Konservative Folkeparti,47
+Høje,7,Hallen ved Rønnevangsstrøget,"C_Toke_Elling,_Taastrup","Toke Elling, Taastrup",Det Konservative Folkeparti,81
+Høje,7,Hallen ved Rønnevangsstrøget,"C_Marjan_Ganjjou,_Taastrup","Marjan Ganjjou, Taastrup",Det Konservative Folkeparti,42
+Høje,7,Hallen ved Rønnevangsstrøget,"C_Jeanette_Ingemann,_Fløng","Jeanette Ingemann, Fløng",Det Konservative Folkeparti,3
+Høje,7,Hallen ved Rønnevangsstrøget,"C_Turan_Akbulut,_Hedehusene","Turan Akbulut, Hedehusene",Det Konservative Folkeparti,12
+Høje,7,Hallen ved Rønnevangsstrøget,"C_Steffen_Mølgaard,_Taastrup_Valby","Steffen Mølgaard, Taastrup Valby",Det Konservative Folkeparti,19
+Høje,7,Hallen ved Rønnevangsstrøget,"C_Henrik_Torning,_Sengeløse","Henrik Torning, Sengeløse",Det Konservative Folkeparti,4
+Høje,7,Hallen ved Rønnevangsstrøget,"C_Kurt_Scheelsbeck,_Hedehusene","Kurt Scheelsbeck, Hedehusene",Det Konservative Folkeparti,12
+Høje,7,Hallen ved Rønnevangsstrøget,"C_Simon_Bøtkjær_Nielsen,_Høje_Taastr","Simon Bøtkjær Nielsen, Høje Taastr",Det Konservative Folkeparti,35
+Høje,7,Hallen ved Rønnevangsstrøget,"C_Maj-Britt_Hartvig,_Torstorp","Maj-Britt Hartvig, Torstorp",Det Konservative Folkeparti,22
+Høje,7,Hallen ved Rønnevangsstrøget,"C_Rejan_Azad_Ali,_Høje_Taastrup","Rejan Azad Ali, Høje Taastrup",Det Konservative Folkeparti,1
+Høje,7,Hallen ved Rønnevangsstrøget,"C_Vivi_Holt,_Taastrup","Vivi Holt, Taastrup",Det Konservative Folkeparti,21
+Høje,7,Hallen ved Rønnevangsstrøget,"C_Mikael_Emanuel,_Taastrup","Mikael Emanuel, Taastrup",Det Konservative Folkeparti,40
+Høje,7,Hallen ved Rønnevangsstrøget,"C_Allan_Overgaard,_Taastrup","Allan Overgaard, Taastrup",Det Konservative Folkeparti,4
+Høje,7,Hallen ved Rønnevangsstrøget,"C_Melis_Aydin,_Taastrup","Melis Aydin, Taastrup",Det Konservative Folkeparti,8
+Høje,7,Hallen ved Rønnevangsstrøget,"C_Finn_Søder,_Sengeløse","Finn Søder, Sengeløse",Det Konservative Folkeparti,0
+Høje,7,Hallen ved Rønnevangsstrøget,"C_Lone_Simonsen,_Taastrup","Lone Simonsen, Taastrup",Det Konservative Folkeparti,2
+Høje,7,Hallen ved Rønnevangsstrøget,"C_Torben_Rasmussen,_Hedehusene","Torben Rasmussen, Hedehusene",Det Konservative Folkeparti,1
+Høje,7,Hallen ved Rønnevangsstrøget,"C_Frede_Vest,_Soderup","Frede Vest, Soderup",Det Konservative Folkeparti,1
+Høje,7,Hallen ved Rønnevangsstrøget,D_Listestemmer,Listestemmer,Nye Borgerlige,45
+Høje,7,Hallen ved Rønnevangsstrøget,D_Bo_Ejsing,Bo Ejsing,Nye Borgerlige,48
+Høje,7,Hallen ved Rønnevangsstrøget,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,45
+Høje,7,Hallen ved Rønnevangsstrøget,"F_Øzdes_Durukan,_Taastrup","Øzdes Durukan, Taastrup",SF - Socialistisk Folkeparti,66
+Høje,7,Hallen ved Rønnevangsstrøget,"F_Freja_Lander,_Taastrup","Freja Lander, Taastrup",SF - Socialistisk Folkeparti,36
+Høje,7,Hallen ved Rønnevangsstrøget,"F_Birger_Juul,_Taastrup","Birger Juul, Taastrup",SF - Socialistisk Folkeparti,7
+Høje,7,Hallen ved Rønnevangsstrøget,"F_Mette_Gagner,_Hedehusene","Mette Gagner, Hedehusene",SF - Socialistisk Folkeparti,8
+Høje,7,Hallen ved Rønnevangsstrøget,"F_Kaj_V._Rasmussen,_Høje_Taastrup","Kaj V. Rasmussen, Høje Taastrup",SF - Socialistisk Folkeparti,3
+Høje,7,Hallen ved Rønnevangsstrøget,I_Listestemmer,Listestemmer,Liberal Alliance,7
+Høje,7,Hallen ved Rønnevangsstrøget,"I_Danny_Malkowski,_Taastrup","Danny Malkowski, Taastrup",Liberal Alliance,50
+Høje,7,Hallen ved Rønnevangsstrøget,"I_Liv_K._Olesen,_Hedehusene","Liv K. Olesen, Hedehusene",Liberal Alliance,2
+Høje,7,Hallen ved Rønnevangsstrøget,"I_Laurits_Dalby,_Taastrup","Laurits Dalby, Taastrup",Liberal Alliance,5
+Høje,7,Hallen ved Rønnevangsstrøget,"I_Kim_Jensen,_Reerslev","Kim Jensen, Reerslev",Liberal Alliance,2
+Høje,7,Hallen ved Rønnevangsstrøget,"I_Karsten_Ruuskanen-Strunge,_Taastru","Karsten Ruuskanen-Strunge, Taastru",Liberal Alliance,0
+Høje,7,Hallen ved Rønnevangsstrøget,"I_Bettina_Stuhr,_Taastrup","Bettina Stuhr, Taastrup",Liberal Alliance,1
+Høje,7,Hallen ved Rønnevangsstrøget,"I_Henning_K._Kristensen,_Taastrup","Henning K. Kristensen, Taastrup",Liberal Alliance,0
+Høje,7,Hallen ved Rønnevangsstrøget,"I_Christian_Stender,_Taastrup","Christian Stender, Taastrup",Liberal Alliance,1
+Høje,7,Hallen ved Rønnevangsstrøget,"I_Nicki_Wassmann_Brøchner,_Nærheden","Nicki Wassmann Brøchner, Nærheden",Liberal Alliance,1
+Høje,7,Hallen ved Rønnevangsstrøget,O_Listestemmer,Listestemmer,Dansk Folkeparti,68
+Høje,7,Hallen ved Rønnevangsstrøget,"O_Lars_Prier,_Taastrup","Lars Prier, Taastrup",Dansk Folkeparti,67
+Høje,7,Hallen ved Rønnevangsstrøget,"O_Flemming_Hansen,_Taastrup","Flemming Hansen, Taastrup",Dansk Folkeparti,5
+Høje,7,Hallen ved Rønnevangsstrøget,"O_Henrik_Pangel,_Hedehusene","Henrik Pangel, Hedehusene",Dansk Folkeparti,0
+Høje,7,Hallen ved Rønnevangsstrøget,"O_Else_Stokholm,_Taastrup","Else Stokholm, Taastrup",Dansk Folkeparti,12
+Høje,7,Hallen ved Rønnevangsstrøget,"O_Allan_Bolvig,_Taastrup","Allan Bolvig, Taastrup",Dansk Folkeparti,2
+Høje,7,Hallen ved Rønnevangsstrøget,"O_Lene_Breuning,_Taastrup","Lene Breuning, Taastrup",Dansk Folkeparti,2
+Høje,7,Hallen ved Rønnevangsstrøget,"O_Max_Dupont,_Taastrup","Max Dupont, Taastrup",Dansk Folkeparti,3
+Høje,7,Hallen ved Rønnevangsstrøget,"O_Jørgen_Nygaard_Lerche,_Taastrup","Jørgen Nygaard Lerche, Taastrup",Dansk Folkeparti,1
+Høje,7,Hallen ved Rønnevangsstrøget,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",32
+Høje,7,Hallen ved Rønnevangsstrøget,"V_Lisbeth_Kjærholt,_Fløng","Lisbeth Kjærholt, Fløng","Venstre, Danmarks Liberale Parti",23
+Høje,7,Hallen ved Rønnevangsstrøget,"V_Lucas_Damsgaard,_Taastrup","Lucas Damsgaard, Taastrup","Venstre, Danmarks Liberale Parti",6
+Høje,7,Hallen ved Rønnevangsstrøget,"V_Frank_Clausen,_Taastrup","Frank Clausen, Taastrup","Venstre, Danmarks Liberale Parti",5
+Høje,7,Hallen ved Rønnevangsstrøget,"V_Sophie_Brohus,_Taastrup","Sophie Brohus, Taastrup","Venstre, Danmarks Liberale Parti",6
+Høje,7,Hallen ved Rønnevangsstrøget,"V_Karsten_Toksvig,_Taastrup","Karsten Toksvig, Taastrup","Venstre, Danmarks Liberale Parti",2
+Høje,7,Hallen ved Rønnevangsstrøget,"V_Tina_Løyche,_Taastrup","Tina Løyche, Taastrup","Venstre, Danmarks Liberale Parti",1
+Høje,7,Hallen ved Rønnevangsstrøget,"V_Morten_Hoffmann-Timmol,_Kraghave","Morten Hoffmann-Timmol, Kraghave","Venstre, Danmarks Liberale Parti",0
+Høje,7,Hallen ved Rønnevangsstrøget,"V_Peder_Helt,_Hedehusene","Peder Helt, Hedehusene","Venstre, Danmarks Liberale Parti",3
+Høje,7,Hallen ved Rønnevangsstrøget,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,58
+Høje,7,Hallen ved Rønnevangsstrøget,"Ø_Emil_Viskum,_Taastrup","Emil Viskum, Taastrup",Enhedslisten - De Rød-Grønne,79
+Høje,7,Hallen ved Rønnevangsstrøget,"Ø_Rojda_Kara,_Hedehusene","Rojda Kara, Hedehusene",Enhedslisten - De Rød-Grønne,36
+Høje,7,Hallen ved Rønnevangsstrøget,"Ø_Halil_Kara,_Hedehusene","Halil Kara, Hedehusene",Enhedslisten - De Rød-Grønne,2
+Høje,7,Hallen ved Rønnevangsstrøget,"Ø_Preben_Bjørn_Madsen,_Taastrup","Preben Bjørn Madsen, Taastrup",Enhedslisten - De Rød-Grønne,9
+Høje,7,Hallen ved Rønnevangsstrøget,"Ø_Jørgen_Mortensen,_Taastrup","Jørgen Mortensen, Taastrup",Enhedslisten - De Rød-Grønne,3
+Høje,7,Hallen ved Rønnevangsstrøget,Å_Listestemmer,Listestemmer,Alternativet,12
+Høje,7,Hallen ved Rønnevangsstrøget,"Å_Ken_Patrick_Petersson,_Taastrup","Ken Patrick Petersson, Taastrup",Alternativet,20
+Høje,7,Hallen ved Rønnevangsstrøget,"Å_Irina_Bjørnø,_Sengeløse","Irina Bjørnø, Sengeløse",Alternativet,8
+Høje,7,Hallen ved Rønnevangsstrøget,"Å_Steffen_S._Koch,_Taastrup","Steffen S. Koch, Taastrup",Alternativet,0
+Høje,8,Torstorp Skole,A_Listestemmer,Listestemmer,Socialdemokratiet,183
+Høje,8,Torstorp Skole,"A_Peter_Faarbæk,_Taastrup","Peter Faarbæk, Taastrup",Socialdemokratiet,148
+Høje,8,Torstorp Skole,"A_Anne_Mette_Bak,_Taastrup","Anne Mette Bak, Taastrup",Socialdemokratiet,77
+Høje,8,Torstorp Skole,"A_Thomas_Bak,_Taastrup","Thomas Bak, Taastrup",Socialdemokratiet,66
+Høje,8,Torstorp Skole,"A_Hugo_Hammel,_Sengeløse","Hugo Hammel, Sengeløse",Socialdemokratiet,17
+Høje,8,Torstorp Skole,"A_Thomas_Stenrød_Paulsen,_Taastrup","Thomas Stenrød Paulsen, Taastrup",Socialdemokratiet,11
+Høje,8,Torstorp Skole,"A_Nina_Strøm_Tønnes,_Hedehusene","Nina Strøm Tønnes, Hedehusene",Socialdemokratiet,13
+Høje,8,Torstorp Skole,"A_Malene_Thackrah,_Taastrup","Malene Thackrah, Taastrup",Socialdemokratiet,10
+Høje,8,Torstorp Skole,"A_Brith_Dorph_Josephsen,_Taastrup","Brith Dorph Josephsen, Taastrup",Socialdemokratiet,20
+Høje,8,Torstorp Skole,"A_Stefan_Ørsted_Petersen,_Taastrup","Stefan Ørsted Petersen, Taastrup",Socialdemokratiet,8
+Høje,8,Torstorp Skole,"A_Sabah_Abid,_Taastrup","Sabah Abid, Taastrup",Socialdemokratiet,29
+Høje,8,Torstorp Skole,"A_Sami_Gökdemir,_Taastrup","Sami Gökdemir, Taastrup",Socialdemokratiet,16
+Høje,8,Torstorp Skole,"A_Claus_Heje,_Taastrup","Claus Heje, Taastrup",Socialdemokratiet,4
+Høje,8,Torstorp Skole,"A_Oguzcan_Yüksel,_Taastrup","Oguzcan Yüksel, Taastrup",Socialdemokratiet,26
+Høje,8,Torstorp Skole,"A_Flemming_Amaro_Kristensen,_Hedehus","Flemming Amaro Kristensen, Hedehus",Socialdemokratiet,4
+Høje,8,Torstorp Skole,"A_Jacob_Harris,_Hedehusene","Jacob Harris, Hedehusene",Socialdemokratiet,3
+Høje,8,Torstorp Skole,B_Listestemmer,Listestemmer,Radikale Venstre,24
+Høje,8,Torstorp Skole,B_Esat_Sentürk,Esat Sentürk,Radikale Venstre,50
+Høje,8,Torstorp Skole,B_Ilknur_Kekec_Coban,Ilknur Kekec Coban,Radikale Venstre,36
+Høje,8,Torstorp Skole,B_Ibrahim_El-Khatib,Ibrahim El-Khatib,Radikale Venstre,9
+Høje,8,Torstorp Skole,B_Jerry_Jensen,Jerry Jensen,Radikale Venstre,6
+Høje,8,Torstorp Skole,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,104
+Høje,8,Torstorp Skole,"C_Michael_Ziegler,_Taastrup","Michael Ziegler, Taastrup",Det Konservative Folkeparti,528
+Høje,8,Torstorp Skole,"C_Merete_Scheelsbeck,_Taastrup","Merete Scheelsbeck, Taastrup",Det Konservative Folkeparti,16
+Høje,8,Torstorp Skole,"C_Toke_Elling,_Taastrup","Toke Elling, Taastrup",Det Konservative Folkeparti,16
+Høje,8,Torstorp Skole,"C_Marjan_Ganjjou,_Taastrup","Marjan Ganjjou, Taastrup",Det Konservative Folkeparti,25
+Høje,8,Torstorp Skole,"C_Jeanette_Ingemann,_Fløng","Jeanette Ingemann, Fløng",Det Konservative Folkeparti,0
+Høje,8,Torstorp Skole,"C_Turan_Akbulut,_Hedehusene","Turan Akbulut, Hedehusene",Det Konservative Folkeparti,11
+Høje,8,Torstorp Skole,"C_Steffen_Mølgaard,_Taastrup_Valby","Steffen Mølgaard, Taastrup Valby",Det Konservative Folkeparti,13
+Høje,8,Torstorp Skole,"C_Henrik_Torning,_Sengeløse","Henrik Torning, Sengeløse",Det Konservative Folkeparti,3
+Høje,8,Torstorp Skole,"C_Kurt_Scheelsbeck,_Hedehusene","Kurt Scheelsbeck, Hedehusene",Det Konservative Folkeparti,6
+Høje,8,Torstorp Skole,"C_Simon_Bøtkjær_Nielsen,_Høje_Taastr","Simon Bøtkjær Nielsen, Høje Taastr",Det Konservative Folkeparti,26
+Høje,8,Torstorp Skole,"C_Maj-Britt_Hartvig,_Torstorp","Maj-Britt Hartvig, Torstorp",Det Konservative Folkeparti,29
+Høje,8,Torstorp Skole,"C_Rejan_Azad_Ali,_Høje_Taastrup","Rejan Azad Ali, Høje Taastrup",Det Konservative Folkeparti,2
+Høje,8,Torstorp Skole,"C_Vivi_Holt,_Taastrup","Vivi Holt, Taastrup",Det Konservative Folkeparti,9
+Høje,8,Torstorp Skole,"C_Mikael_Emanuel,_Taastrup","Mikael Emanuel, Taastrup",Det Konservative Folkeparti,16
+Høje,8,Torstorp Skole,"C_Allan_Overgaard,_Taastrup","Allan Overgaard, Taastrup",Det Konservative Folkeparti,1
+Høje,8,Torstorp Skole,"C_Melis_Aydin,_Taastrup","Melis Aydin, Taastrup",Det Konservative Folkeparti,9
+Høje,8,Torstorp Skole,"C_Finn_Søder,_Sengeløse","Finn Søder, Sengeløse",Det Konservative Folkeparti,0
+Høje,8,Torstorp Skole,"C_Lone_Simonsen,_Taastrup","Lone Simonsen, Taastrup",Det Konservative Folkeparti,0
+Høje,8,Torstorp Skole,"C_Torben_Rasmussen,_Hedehusene","Torben Rasmussen, Hedehusene",Det Konservative Folkeparti,0
+Høje,8,Torstorp Skole,"C_Frede_Vest,_Soderup","Frede Vest, Soderup",Det Konservative Folkeparti,0
+Høje,8,Torstorp Skole,D_Listestemmer,Listestemmer,Nye Borgerlige,46
+Høje,8,Torstorp Skole,D_Bo_Ejsing,Bo Ejsing,Nye Borgerlige,37
+Høje,8,Torstorp Skole,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,41
+Høje,8,Torstorp Skole,"F_Øzdes_Durukan,_Taastrup","Øzdes Durukan, Taastrup",SF - Socialistisk Folkeparti,49
+Høje,8,Torstorp Skole,"F_Freja_Lander,_Taastrup","Freja Lander, Taastrup",SF - Socialistisk Folkeparti,19
+Høje,8,Torstorp Skole,"F_Birger_Juul,_Taastrup","Birger Juul, Taastrup",SF - Socialistisk Folkeparti,3
+Høje,8,Torstorp Skole,"F_Mette_Gagner,_Hedehusene","Mette Gagner, Hedehusene",SF - Socialistisk Folkeparti,4
+Høje,8,Torstorp Skole,"F_Kaj_V._Rasmussen,_Høje_Taastrup","Kaj V. Rasmussen, Høje Taastrup",SF - Socialistisk Folkeparti,2
+Høje,8,Torstorp Skole,I_Listestemmer,Listestemmer,Liberal Alliance,16
+Høje,8,Torstorp Skole,"I_Danny_Malkowski,_Taastrup","Danny Malkowski, Taastrup",Liberal Alliance,17
+Høje,8,Torstorp Skole,"I_Liv_K._Olesen,_Hedehusene","Liv K. Olesen, Hedehusene",Liberal Alliance,2
+Høje,8,Torstorp Skole,"I_Laurits_Dalby,_Taastrup","Laurits Dalby, Taastrup",Liberal Alliance,1
+Høje,8,Torstorp Skole,"I_Kim_Jensen,_Reerslev","Kim Jensen, Reerslev",Liberal Alliance,2
+Høje,8,Torstorp Skole,"I_Karsten_Ruuskanen-Strunge,_Taastru","Karsten Ruuskanen-Strunge, Taastru",Liberal Alliance,0
+Høje,8,Torstorp Skole,"I_Bettina_Stuhr,_Taastrup","Bettina Stuhr, Taastrup",Liberal Alliance,2
+Høje,8,Torstorp Skole,"I_Henning_K._Kristensen,_Taastrup","Henning K. Kristensen, Taastrup",Liberal Alliance,0
+Høje,8,Torstorp Skole,"I_Christian_Stender,_Taastrup","Christian Stender, Taastrup",Liberal Alliance,0
+Høje,8,Torstorp Skole,"I_Nicki_Wassmann_Brøchner,_Nærheden","Nicki Wassmann Brøchner, Nærheden",Liberal Alliance,1
+Høje,8,Torstorp Skole,O_Listestemmer,Listestemmer,Dansk Folkeparti,42
+Høje,8,Torstorp Skole,"O_Lars_Prier,_Taastrup","Lars Prier, Taastrup",Dansk Folkeparti,32
+Høje,8,Torstorp Skole,"O_Flemming_Hansen,_Taastrup","Flemming Hansen, Taastrup",Dansk Folkeparti,2
+Høje,8,Torstorp Skole,"O_Henrik_Pangel,_Hedehusene","Henrik Pangel, Hedehusene",Dansk Folkeparti,1
+Høje,8,Torstorp Skole,"O_Else_Stokholm,_Taastrup","Else Stokholm, Taastrup",Dansk Folkeparti,4
+Høje,8,Torstorp Skole,"O_Allan_Bolvig,_Taastrup","Allan Bolvig, Taastrup",Dansk Folkeparti,2
+Høje,8,Torstorp Skole,"O_Lene_Breuning,_Taastrup","Lene Breuning, Taastrup",Dansk Folkeparti,5
+Høje,8,Torstorp Skole,"O_Max_Dupont,_Taastrup","Max Dupont, Taastrup",Dansk Folkeparti,2
+Høje,8,Torstorp Skole,"O_Jørgen_Nygaard_Lerche,_Taastrup","Jørgen Nygaard Lerche, Taastrup",Dansk Folkeparti,0
+Høje,8,Torstorp Skole,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",26
+Høje,8,Torstorp Skole,"V_Lisbeth_Kjærholt,_Fløng","Lisbeth Kjærholt, Fløng","Venstre, Danmarks Liberale Parti",10
+Høje,8,Torstorp Skole,"V_Lucas_Damsgaard,_Taastrup","Lucas Damsgaard, Taastrup","Venstre, Danmarks Liberale Parti",1
+Høje,8,Torstorp Skole,"V_Frank_Clausen,_Taastrup","Frank Clausen, Taastrup","Venstre, Danmarks Liberale Parti",3
+Høje,8,Torstorp Skole,"V_Sophie_Brohus,_Taastrup","Sophie Brohus, Taastrup","Venstre, Danmarks Liberale Parti",1
+Høje,8,Torstorp Skole,"V_Karsten_Toksvig,_Taastrup","Karsten Toksvig, Taastrup","Venstre, Danmarks Liberale Parti",0
+Høje,8,Torstorp Skole,"V_Tina_Løyche,_Taastrup","Tina Løyche, Taastrup","Venstre, Danmarks Liberale Parti",0
+Høje,8,Torstorp Skole,"V_Morten_Hoffmann-Timmol,_Kraghave","Morten Hoffmann-Timmol, Kraghave","Venstre, Danmarks Liberale Parti",0
+Høje,8,Torstorp Skole,"V_Peder_Helt,_Hedehusene","Peder Helt, Hedehusene","Venstre, Danmarks Liberale Parti",4
+Høje,8,Torstorp Skole,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,63
+Høje,8,Torstorp Skole,"Ø_Emil_Viskum,_Taastrup","Emil Viskum, Taastrup",Enhedslisten - De Rød-Grønne,56
+Høje,8,Torstorp Skole,"Ø_Rojda_Kara,_Hedehusene","Rojda Kara, Hedehusene",Enhedslisten - De Rød-Grønne,21
+Høje,8,Torstorp Skole,"Ø_Halil_Kara,_Hedehusene","Halil Kara, Hedehusene",Enhedslisten - De Rød-Grønne,6
+Høje,8,Torstorp Skole,"Ø_Preben_Bjørn_Madsen,_Taastrup","Preben Bjørn Madsen, Taastrup",Enhedslisten - De Rød-Grønne,2
+Høje,8,Torstorp Skole,"Ø_Jørgen_Mortensen,_Taastrup","Jørgen Mortensen, Taastrup",Enhedslisten - De Rød-Grønne,2
+Høje,8,Torstorp Skole,Å_Listestemmer,Listestemmer,Alternativet,6
+Høje,8,Torstorp Skole,"Å_Ken_Patrick_Petersson,_Taastrup","Ken Patrick Petersson, Taastrup",Alternativet,4
+Høje,8,Torstorp Skole,"Å_Irina_Bjørnø,_Sengeløse","Irina Bjørnø, Sengeløse",Alternativet,10
+Høje,8,Torstorp Skole,"Å_Steffen_S._Koch,_Taastrup","Steffen S. Koch, Taastrup",Alternativet,1
+Høje,9,Sengeløse,A_Listestemmer,Listestemmer,Socialdemokratiet,46
+Høje,9,Sengeløse,"A_Peter_Faarbæk,_Taastrup","Peter Faarbæk, Taastrup",Socialdemokratiet,18
+Høje,9,Sengeløse,"A_Anne_Mette_Bak,_Taastrup","Anne Mette Bak, Taastrup",Socialdemokratiet,9
+Høje,9,Sengeløse,"A_Thomas_Bak,_Taastrup","Thomas Bak, Taastrup",Socialdemokratiet,7
+Høje,9,Sengeløse,"A_Hugo_Hammel,_Sengeløse","Hugo Hammel, Sengeløse",Socialdemokratiet,354
+Høje,9,Sengeløse,"A_Thomas_Stenrød_Paulsen,_Taastrup","Thomas Stenrød Paulsen, Taastrup",Socialdemokratiet,3
+Høje,9,Sengeløse,"A_Nina_Strøm_Tønnes,_Hedehusene","Nina Strøm Tønnes, Hedehusene",Socialdemokratiet,8
+Høje,9,Sengeløse,"A_Malene_Thackrah,_Taastrup","Malene Thackrah, Taastrup",Socialdemokratiet,3
+Høje,9,Sengeløse,"A_Brith_Dorph_Josephsen,_Taastrup","Brith Dorph Josephsen, Taastrup",Socialdemokratiet,4
+Høje,9,Sengeløse,"A_Stefan_Ørsted_Petersen,_Taastrup","Stefan Ørsted Petersen, Taastrup",Socialdemokratiet,0
+Høje,9,Sengeløse,"A_Sabah_Abid,_Taastrup","Sabah Abid, Taastrup",Socialdemokratiet,3
+Høje,9,Sengeløse,"A_Sami_Gökdemir,_Taastrup","Sami Gökdemir, Taastrup",Socialdemokratiet,3
+Høje,9,Sengeløse,"A_Claus_Heje,_Taastrup","Claus Heje, Taastrup",Socialdemokratiet,3
+Høje,9,Sengeløse,"A_Oguzcan_Yüksel,_Taastrup","Oguzcan Yüksel, Taastrup",Socialdemokratiet,2
+Høje,9,Sengeløse,"A_Flemming_Amaro_Kristensen,_Hedehus","Flemming Amaro Kristensen, Hedehus",Socialdemokratiet,2
+Høje,9,Sengeløse,"A_Jacob_Harris,_Hedehusene","Jacob Harris, Hedehusene",Socialdemokratiet,7
+Høje,9,Sengeløse,B_Listestemmer,Listestemmer,Radikale Venstre,5
+Høje,9,Sengeløse,B_Esat_Sentürk,Esat Sentürk,Radikale Venstre,5
+Høje,9,Sengeløse,B_Ilknur_Kekec_Coban,Ilknur Kekec Coban,Radikale Venstre,1
+Høje,9,Sengeløse,B_Ibrahim_El-Khatib,Ibrahim El-Khatib,Radikale Venstre,0
+Høje,9,Sengeløse,B_Jerry_Jensen,Jerry Jensen,Radikale Venstre,3
+Høje,9,Sengeløse,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,45
+Høje,9,Sengeløse,"C_Michael_Ziegler,_Taastrup","Michael Ziegler, Taastrup",Det Konservative Folkeparti,296
+Høje,9,Sengeløse,"C_Merete_Scheelsbeck,_Taastrup","Merete Scheelsbeck, Taastrup",Det Konservative Folkeparti,9
+Høje,9,Sengeløse,"C_Toke_Elling,_Taastrup","Toke Elling, Taastrup",Det Konservative Folkeparti,17
+Høje,9,Sengeløse,"C_Marjan_Ganjjou,_Taastrup","Marjan Ganjjou, Taastrup",Det Konservative Folkeparti,5
+Høje,9,Sengeløse,"C_Jeanette_Ingemann,_Fløng","Jeanette Ingemann, Fløng",Det Konservative Folkeparti,2
+Høje,9,Sengeløse,"C_Turan_Akbulut,_Hedehusene","Turan Akbulut, Hedehusene",Det Konservative Folkeparti,0
+Høje,9,Sengeløse,"C_Steffen_Mølgaard,_Taastrup_Valby","Steffen Mølgaard, Taastrup Valby",Det Konservative Folkeparti,9
+Høje,9,Sengeløse,"C_Henrik_Torning,_Sengeløse","Henrik Torning, Sengeløse",Det Konservative Folkeparti,142
+Høje,9,Sengeløse,"C_Kurt_Scheelsbeck,_Hedehusene","Kurt Scheelsbeck, Hedehusene",Det Konservative Folkeparti,4
+Høje,9,Sengeløse,"C_Simon_Bøtkjær_Nielsen,_Høje_Taastr","Simon Bøtkjær Nielsen, Høje Taastr",Det Konservative Folkeparti,2
+Høje,9,Sengeløse,"C_Maj-Britt_Hartvig,_Torstorp","Maj-Britt Hartvig, Torstorp",Det Konservative Folkeparti,9
+Høje,9,Sengeløse,"C_Rejan_Azad_Ali,_Høje_Taastrup","Rejan Azad Ali, Høje Taastrup",Det Konservative Folkeparti,0
+Høje,9,Sengeløse,"C_Vivi_Holt,_Taastrup","Vivi Holt, Taastrup",Det Konservative Folkeparti,1
+Høje,9,Sengeløse,"C_Mikael_Emanuel,_Taastrup","Mikael Emanuel, Taastrup",Det Konservative Folkeparti,4
+Høje,9,Sengeløse,"C_Allan_Overgaard,_Taastrup","Allan Overgaard, Taastrup",Det Konservative Folkeparti,1
+Høje,9,Sengeløse,"C_Melis_Aydin,_Taastrup","Melis Aydin, Taastrup",Det Konservative Folkeparti,1
+Høje,9,Sengeløse,"C_Finn_Søder,_Sengeløse","Finn Søder, Sengeløse",Det Konservative Folkeparti,3
+Høje,9,Sengeløse,"C_Lone_Simonsen,_Taastrup","Lone Simonsen, Taastrup",Det Konservative Folkeparti,0
+Høje,9,Sengeløse,"C_Torben_Rasmussen,_Hedehusene","Torben Rasmussen, Hedehusene",Det Konservative Folkeparti,0
+Høje,9,Sengeløse,"C_Frede_Vest,_Soderup","Frede Vest, Soderup",Det Konservative Folkeparti,2
+Høje,9,Sengeløse,D_Listestemmer,Listestemmer,Nye Borgerlige,23
+Høje,9,Sengeløse,D_Bo_Ejsing,Bo Ejsing,Nye Borgerlige,27
+Høje,9,Sengeløse,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,14
+Høje,9,Sengeløse,"F_Øzdes_Durukan,_Taastrup","Øzdes Durukan, Taastrup",SF - Socialistisk Folkeparti,14
+Høje,9,Sengeløse,"F_Freja_Lander,_Taastrup","Freja Lander, Taastrup",SF - Socialistisk Folkeparti,11
+Høje,9,Sengeløse,"F_Birger_Juul,_Taastrup","Birger Juul, Taastrup",SF - Socialistisk Folkeparti,0
+Høje,9,Sengeløse,"F_Mette_Gagner,_Hedehusene","Mette Gagner, Hedehusene",SF - Socialistisk Folkeparti,3
+Høje,9,Sengeløse,"F_Kaj_V._Rasmussen,_Høje_Taastrup","Kaj V. Rasmussen, Høje Taastrup",SF - Socialistisk Folkeparti,3
+Høje,9,Sengeløse,I_Listestemmer,Listestemmer,Liberal Alliance,2
+Høje,9,Sengeløse,"I_Danny_Malkowski,_Taastrup","Danny Malkowski, Taastrup",Liberal Alliance,14
+Høje,9,Sengeløse,"I_Liv_K._Olesen,_Hedehusene","Liv K. Olesen, Hedehusene",Liberal Alliance,4
+Høje,9,Sengeløse,"I_Laurits_Dalby,_Taastrup","Laurits Dalby, Taastrup",Liberal Alliance,1
+Høje,9,Sengeløse,"I_Kim_Jensen,_Reerslev","Kim Jensen, Reerslev",Liberal Alliance,0
+Høje,9,Sengeløse,"I_Karsten_Ruuskanen-Strunge,_Taastru","Karsten Ruuskanen-Strunge, Taastru",Liberal Alliance,0
+Høje,9,Sengeløse,"I_Bettina_Stuhr,_Taastrup","Bettina Stuhr, Taastrup",Liberal Alliance,0
+Høje,9,Sengeløse,"I_Henning_K._Kristensen,_Taastrup","Henning K. Kristensen, Taastrup",Liberal Alliance,0
+Høje,9,Sengeløse,"I_Christian_Stender,_Taastrup","Christian Stender, Taastrup",Liberal Alliance,1
+Høje,9,Sengeløse,"I_Nicki_Wassmann_Brøchner,_Nærheden","Nicki Wassmann Brøchner, Nærheden",Liberal Alliance,0
+Høje,9,Sengeløse,O_Listestemmer,Listestemmer,Dansk Folkeparti,25
+Høje,9,Sengeløse,"O_Lars_Prier,_Taastrup","Lars Prier, Taastrup",Dansk Folkeparti,25
+Høje,9,Sengeløse,"O_Flemming_Hansen,_Taastrup","Flemming Hansen, Taastrup",Dansk Folkeparti,2
+Høje,9,Sengeløse,"O_Henrik_Pangel,_Hedehusene","Henrik Pangel, Hedehusene",Dansk Folkeparti,0
+Høje,9,Sengeløse,"O_Else_Stokholm,_Taastrup","Else Stokholm, Taastrup",Dansk Folkeparti,7
+Høje,9,Sengeløse,"O_Allan_Bolvig,_Taastrup","Allan Bolvig, Taastrup",Dansk Folkeparti,0
+Høje,9,Sengeløse,"O_Lene_Breuning,_Taastrup","Lene Breuning, Taastrup",Dansk Folkeparti,1
+Høje,9,Sengeløse,"O_Max_Dupont,_Taastrup","Max Dupont, Taastrup",Dansk Folkeparti,0
+Høje,9,Sengeløse,"O_Jørgen_Nygaard_Lerche,_Taastrup","Jørgen Nygaard Lerche, Taastrup",Dansk Folkeparti,0
+Høje,9,Sengeløse,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",17
+Høje,9,Sengeløse,"V_Lisbeth_Kjærholt,_Fløng","Lisbeth Kjærholt, Fløng","Venstre, Danmarks Liberale Parti",37
+Høje,9,Sengeløse,"V_Lucas_Damsgaard,_Taastrup","Lucas Damsgaard, Taastrup","Venstre, Danmarks Liberale Parti",1
+Høje,9,Sengeløse,"V_Frank_Clausen,_Taastrup","Frank Clausen, Taastrup","Venstre, Danmarks Liberale Parti",0
+Høje,9,Sengeløse,"V_Sophie_Brohus,_Taastrup","Sophie Brohus, Taastrup","Venstre, Danmarks Liberale Parti",1
+Høje,9,Sengeløse,"V_Karsten_Toksvig,_Taastrup","Karsten Toksvig, Taastrup","Venstre, Danmarks Liberale Parti",0
+Høje,9,Sengeløse,"V_Tina_Løyche,_Taastrup","Tina Løyche, Taastrup","Venstre, Danmarks Liberale Parti",2
+Høje,9,Sengeløse,"V_Morten_Hoffmann-Timmol,_Kraghave","Morten Hoffmann-Timmol, Kraghave","Venstre, Danmarks Liberale Parti",1
+Høje,9,Sengeløse,"V_Peder_Helt,_Hedehusene","Peder Helt, Hedehusene","Venstre, Danmarks Liberale Parti",1
+Høje,9,Sengeløse,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,28
+Høje,9,Sengeløse,"Ø_Emil_Viskum,_Taastrup","Emil Viskum, Taastrup",Enhedslisten - De Rød-Grønne,38
+Høje,9,Sengeløse,"Ø_Rojda_Kara,_Hedehusene","Rojda Kara, Hedehusene",Enhedslisten - De Rød-Grønne,8
+Høje,9,Sengeløse,"Ø_Halil_Kara,_Hedehusene","Halil Kara, Hedehusene",Enhedslisten - De Rød-Grønne,0
+Høje,9,Sengeløse,"Ø_Preben_Bjørn_Madsen,_Taastrup","Preben Bjørn Madsen, Taastrup",Enhedslisten - De Rød-Grønne,1
+Høje,9,Sengeløse,"Ø_Jørgen_Mortensen,_Taastrup","Jørgen Mortensen, Taastrup",Enhedslisten - De Rød-Grønne,0
+Høje,9,Sengeløse,Å_Listestemmer,Listestemmer,Alternativet,2
+Høje,9,Sengeløse,"Å_Ken_Patrick_Petersson,_Taastrup","Ken Patrick Petersson, Taastrup",Alternativet,1
+Høje,9,Sengeløse,"Å_Irina_Bjørnø,_Sengeløse","Irina Bjørnø, Sengeløse",Alternativet,7
+Høje,9,Sengeløse,"Å_Steffen_S._Koch,_Taastrup","Steffen S. Koch, Taastrup",Alternativet,0
+Høje,10,Charlotteskolen,A_Listestemmer,Listestemmer,Socialdemokratiet,272
+Høje,10,Charlotteskolen,"A_Peter_Faarbæk,_Taastrup","Peter Faarbæk, Taastrup",Socialdemokratiet,191
+Høje,10,Charlotteskolen,"A_Anne_Mette_Bak,_Taastrup","Anne Mette Bak, Taastrup",Socialdemokratiet,44
+Høje,10,Charlotteskolen,"A_Thomas_Bak,_Taastrup","Thomas Bak, Taastrup",Socialdemokratiet,39
+Høje,10,Charlotteskolen,"A_Hugo_Hammel,_Sengeløse","Hugo Hammel, Sengeløse",Socialdemokratiet,16
+Høje,10,Charlotteskolen,"A_Thomas_Stenrød_Paulsen,_Taastrup","Thomas Stenrød Paulsen, Taastrup",Socialdemokratiet,7
+Høje,10,Charlotteskolen,"A_Nina_Strøm_Tønnes,_Hedehusene","Nina Strøm Tønnes, Hedehusene",Socialdemokratiet,132
+Høje,10,Charlotteskolen,"A_Malene_Thackrah,_Taastrup","Malene Thackrah, Taastrup",Socialdemokratiet,24
+Høje,10,Charlotteskolen,"A_Brith_Dorph_Josephsen,_Taastrup","Brith Dorph Josephsen, Taastrup",Socialdemokratiet,9
+Høje,10,Charlotteskolen,"A_Stefan_Ørsted_Petersen,_Taastrup","Stefan Ørsted Petersen, Taastrup",Socialdemokratiet,10
+Høje,10,Charlotteskolen,"A_Sabah_Abid,_Taastrup","Sabah Abid, Taastrup",Socialdemokratiet,27
+Høje,10,Charlotteskolen,"A_Sami_Gökdemir,_Taastrup","Sami Gökdemir, Taastrup",Socialdemokratiet,10
+Høje,10,Charlotteskolen,"A_Claus_Heje,_Taastrup","Claus Heje, Taastrup",Socialdemokratiet,8
+Høje,10,Charlotteskolen,"A_Oguzcan_Yüksel,_Taastrup","Oguzcan Yüksel, Taastrup",Socialdemokratiet,20
+Høje,10,Charlotteskolen,"A_Flemming_Amaro_Kristensen,_Hedehus","Flemming Amaro Kristensen, Hedehus",Socialdemokratiet,23
+Høje,10,Charlotteskolen,"A_Jacob_Harris,_Hedehusene","Jacob Harris, Hedehusene",Socialdemokratiet,40
+Høje,10,Charlotteskolen,B_Listestemmer,Listestemmer,Radikale Venstre,26
+Høje,10,Charlotteskolen,B_Esat_Sentürk,Esat Sentürk,Radikale Venstre,41
+Høje,10,Charlotteskolen,B_Ilknur_Kekec_Coban,Ilknur Kekec Coban,Radikale Venstre,26
+Høje,10,Charlotteskolen,B_Ibrahim_El-Khatib,Ibrahim El-Khatib,Radikale Venstre,12
+Høje,10,Charlotteskolen,B_Jerry_Jensen,Jerry Jensen,Radikale Venstre,3
+Høje,10,Charlotteskolen,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,165
+Høje,10,Charlotteskolen,"C_Michael_Ziegler,_Taastrup","Michael Ziegler, Taastrup",Det Konservative Folkeparti,942
+Høje,10,Charlotteskolen,"C_Merete_Scheelsbeck,_Taastrup","Merete Scheelsbeck, Taastrup",Det Konservative Folkeparti,31
+Høje,10,Charlotteskolen,"C_Toke_Elling,_Taastrup","Toke Elling, Taastrup",Det Konservative Folkeparti,15
+Høje,10,Charlotteskolen,"C_Marjan_Ganjjou,_Taastrup","Marjan Ganjjou, Taastrup",Det Konservative Folkeparti,26
+Høje,10,Charlotteskolen,"C_Jeanette_Ingemann,_Fløng","Jeanette Ingemann, Fløng",Det Konservative Folkeparti,31
+Høje,10,Charlotteskolen,"C_Turan_Akbulut,_Hedehusene","Turan Akbulut, Hedehusene",Det Konservative Folkeparti,179
+Høje,10,Charlotteskolen,"C_Steffen_Mølgaard,_Taastrup_Valby","Steffen Mølgaard, Taastrup Valby",Det Konservative Folkeparti,10
+Høje,10,Charlotteskolen,"C_Henrik_Torning,_Sengeløse","Henrik Torning, Sengeløse",Det Konservative Folkeparti,9
+Høje,10,Charlotteskolen,"C_Kurt_Scheelsbeck,_Hedehusene","Kurt Scheelsbeck, Hedehusene",Det Konservative Folkeparti,173
+Høje,10,Charlotteskolen,"C_Simon_Bøtkjær_Nielsen,_Høje_Taastr","Simon Bøtkjær Nielsen, Høje Taastr",Det Konservative Folkeparti,7
+Høje,10,Charlotteskolen,"C_Maj-Britt_Hartvig,_Torstorp","Maj-Britt Hartvig, Torstorp",Det Konservative Folkeparti,11
+Høje,10,Charlotteskolen,"C_Rejan_Azad_Ali,_Høje_Taastrup","Rejan Azad Ali, Høje Taastrup",Det Konservative Folkeparti,4
+Høje,10,Charlotteskolen,"C_Vivi_Holt,_Taastrup","Vivi Holt, Taastrup",Det Konservative Folkeparti,5
+Høje,10,Charlotteskolen,"C_Mikael_Emanuel,_Taastrup","Mikael Emanuel, Taastrup",Det Konservative Folkeparti,10
+Høje,10,Charlotteskolen,"C_Allan_Overgaard,_Taastrup","Allan Overgaard, Taastrup",Det Konservative Folkeparti,2
+Høje,10,Charlotteskolen,"C_Melis_Aydin,_Taastrup","Melis Aydin, Taastrup",Det Konservative Folkeparti,13
+Høje,10,Charlotteskolen,"C_Finn_Søder,_Sengeløse","Finn Søder, Sengeløse",Det Konservative Folkeparti,0
+Høje,10,Charlotteskolen,"C_Lone_Simonsen,_Taastrup","Lone Simonsen, Taastrup",Det Konservative Folkeparti,0
+Høje,10,Charlotteskolen,"C_Torben_Rasmussen,_Hedehusene","Torben Rasmussen, Hedehusene",Det Konservative Folkeparti,10
+Høje,10,Charlotteskolen,"C_Frede_Vest,_Soderup","Frede Vest, Soderup",Det Konservative Folkeparti,1
+Høje,10,Charlotteskolen,D_Listestemmer,Listestemmer,Nye Borgerlige,44
+Høje,10,Charlotteskolen,D_Bo_Ejsing,Bo Ejsing,Nye Borgerlige,42
+Høje,10,Charlotteskolen,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,61
+Høje,10,Charlotteskolen,"F_Øzdes_Durukan,_Taastrup","Øzdes Durukan, Taastrup",SF - Socialistisk Folkeparti,89
+Høje,10,Charlotteskolen,"F_Freja_Lander,_Taastrup","Freja Lander, Taastrup",SF - Socialistisk Folkeparti,19
+Høje,10,Charlotteskolen,"F_Birger_Juul,_Taastrup","Birger Juul, Taastrup",SF - Socialistisk Folkeparti,2
+Høje,10,Charlotteskolen,"F_Mette_Gagner,_Hedehusene","Mette Gagner, Hedehusene",SF - Socialistisk Folkeparti,41
+Høje,10,Charlotteskolen,"F_Kaj_V._Rasmussen,_Høje_Taastrup","Kaj V. Rasmussen, Høje Taastrup",SF - Socialistisk Folkeparti,3
+Høje,10,Charlotteskolen,I_Listestemmer,Listestemmer,Liberal Alliance,14
+Høje,10,Charlotteskolen,"I_Danny_Malkowski,_Taastrup","Danny Malkowski, Taastrup",Liberal Alliance,29
+Høje,10,Charlotteskolen,"I_Liv_K._Olesen,_Hedehusene","Liv K. Olesen, Hedehusene",Liberal Alliance,11
+Høje,10,Charlotteskolen,"I_Laurits_Dalby,_Taastrup","Laurits Dalby, Taastrup",Liberal Alliance,2
+Høje,10,Charlotteskolen,"I_Kim_Jensen,_Reerslev","Kim Jensen, Reerslev",Liberal Alliance,1
+Høje,10,Charlotteskolen,"I_Karsten_Ruuskanen-Strunge,_Taastru","Karsten Ruuskanen-Strunge, Taastru",Liberal Alliance,0
+Høje,10,Charlotteskolen,"I_Bettina_Stuhr,_Taastrup","Bettina Stuhr, Taastrup",Liberal Alliance,0
+Høje,10,Charlotteskolen,"I_Henning_K._Kristensen,_Taastrup","Henning K. Kristensen, Taastrup",Liberal Alliance,0
+Høje,10,Charlotteskolen,"I_Christian_Stender,_Taastrup","Christian Stender, Taastrup",Liberal Alliance,0
+Høje,10,Charlotteskolen,"I_Nicki_Wassmann_Brøchner,_Nærheden","Nicki Wassmann Brøchner, Nærheden",Liberal Alliance,8
+Høje,10,Charlotteskolen,O_Listestemmer,Listestemmer,Dansk Folkeparti,46
+Høje,10,Charlotteskolen,"O_Lars_Prier,_Taastrup","Lars Prier, Taastrup",Dansk Folkeparti,48
+Høje,10,Charlotteskolen,"O_Flemming_Hansen,_Taastrup","Flemming Hansen, Taastrup",Dansk Folkeparti,5
+Høje,10,Charlotteskolen,"O_Henrik_Pangel,_Hedehusene","Henrik Pangel, Hedehusene",Dansk Folkeparti,15
+Høje,10,Charlotteskolen,"O_Else_Stokholm,_Taastrup","Else Stokholm, Taastrup",Dansk Folkeparti,4
+Høje,10,Charlotteskolen,"O_Allan_Bolvig,_Taastrup","Allan Bolvig, Taastrup",Dansk Folkeparti,0
+Høje,10,Charlotteskolen,"O_Lene_Breuning,_Taastrup","Lene Breuning, Taastrup",Dansk Folkeparti,2
+Høje,10,Charlotteskolen,"O_Max_Dupont,_Taastrup","Max Dupont, Taastrup",Dansk Folkeparti,0
+Høje,10,Charlotteskolen,"O_Jørgen_Nygaard_Lerche,_Taastrup","Jørgen Nygaard Lerche, Taastrup",Dansk Folkeparti,0
+Høje,10,Charlotteskolen,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",36
+Høje,10,Charlotteskolen,"V_Lisbeth_Kjærholt,_Fløng","Lisbeth Kjærholt, Fløng","Venstre, Danmarks Liberale Parti",45
+Høje,10,Charlotteskolen,"V_Lucas_Damsgaard,_Taastrup","Lucas Damsgaard, Taastrup","Venstre, Danmarks Liberale Parti",4
+Høje,10,Charlotteskolen,"V_Frank_Clausen,_Taastrup","Frank Clausen, Taastrup","Venstre, Danmarks Liberale Parti",0
+Høje,10,Charlotteskolen,"V_Sophie_Brohus,_Taastrup","Sophie Brohus, Taastrup","Venstre, Danmarks Liberale Parti",0
+Høje,10,Charlotteskolen,"V_Karsten_Toksvig,_Taastrup","Karsten Toksvig, Taastrup","Venstre, Danmarks Liberale Parti",0
+Høje,10,Charlotteskolen,"V_Tina_Løyche,_Taastrup","Tina Løyche, Taastrup","Venstre, Danmarks Liberale Parti",0
+Høje,10,Charlotteskolen,"V_Morten_Hoffmann-Timmol,_Kraghave","Morten Hoffmann-Timmol, Kraghave","Venstre, Danmarks Liberale Parti",1
+Høje,10,Charlotteskolen,"V_Peder_Helt,_Hedehusene","Peder Helt, Hedehusene","Venstre, Danmarks Liberale Parti",23
+Høje,10,Charlotteskolen,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,88
+Høje,10,Charlotteskolen,"Ø_Emil_Viskum,_Taastrup","Emil Viskum, Taastrup",Enhedslisten - De Rød-Grønne,76
+Høje,10,Charlotteskolen,"Ø_Rojda_Kara,_Hedehusene","Rojda Kara, Hedehusene",Enhedslisten - De Rød-Grønne,40
+Høje,10,Charlotteskolen,"Ø_Halil_Kara,_Hedehusene","Halil Kara, Hedehusene",Enhedslisten - De Rød-Grønne,5
+Høje,10,Charlotteskolen,"Ø_Preben_Bjørn_Madsen,_Taastrup","Preben Bjørn Madsen, Taastrup",Enhedslisten - De Rød-Grønne,5
+Høje,10,Charlotteskolen,"Ø_Jørgen_Mortensen,_Taastrup","Jørgen Mortensen, Taastrup",Enhedslisten - De Rød-Grønne,0
+Høje,10,Charlotteskolen,Å_Listestemmer,Listestemmer,Alternativet,9
+Høje,10,Charlotteskolen,"Å_Ken_Patrick_Petersson,_Taastrup","Ken Patrick Petersson, Taastrup",Alternativet,11
+Høje,10,Charlotteskolen,"Å_Irina_Bjørnø,_Sengeløse","Irina Bjørnø, Sengeløse",Alternativet,13
+Høje,10,Charlotteskolen,"Å_Steffen_S._Koch,_Taastrup","Steffen S. Koch, Taastrup",Alternativet,0
+Høje,12,Fløng Hallen,A_Listestemmer,Listestemmer,Socialdemokratiet,255
+Høje,12,Fløng Hallen,"A_Peter_Faarbæk,_Taastrup","Peter Faarbæk, Taastrup",Socialdemokratiet,167
+Høje,12,Fløng Hallen,"A_Anne_Mette_Bak,_Taastrup","Anne Mette Bak, Taastrup",Socialdemokratiet,39
+Høje,12,Fløng Hallen,"A_Thomas_Bak,_Taastrup","Thomas Bak, Taastrup",Socialdemokratiet,31
+Høje,12,Fløng Hallen,"A_Hugo_Hammel,_Sengeløse","Hugo Hammel, Sengeløse",Socialdemokratiet,15
+Høje,12,Fløng Hallen,"A_Thomas_Stenrød_Paulsen,_Taastrup","Thomas Stenrød Paulsen, Taastrup",Socialdemokratiet,4
+Høje,12,Fløng Hallen,"A_Nina_Strøm_Tønnes,_Hedehusene","Nina Strøm Tønnes, Hedehusene",Socialdemokratiet,101
+Høje,12,Fløng Hallen,"A_Malene_Thackrah,_Taastrup","Malene Thackrah, Taastrup",Socialdemokratiet,10
+Høje,12,Fløng Hallen,"A_Brith_Dorph_Josephsen,_Taastrup","Brith Dorph Josephsen, Taastrup",Socialdemokratiet,13
+Høje,12,Fløng Hallen,"A_Stefan_Ørsted_Petersen,_Taastrup","Stefan Ørsted Petersen, Taastrup",Socialdemokratiet,4
+Høje,12,Fløng Hallen,"A_Sabah_Abid,_Taastrup","Sabah Abid, Taastrup",Socialdemokratiet,16
+Høje,12,Fløng Hallen,"A_Sami_Gökdemir,_Taastrup","Sami Gökdemir, Taastrup",Socialdemokratiet,12
+Høje,12,Fløng Hallen,"A_Claus_Heje,_Taastrup","Claus Heje, Taastrup",Socialdemokratiet,6
+Høje,12,Fløng Hallen,"A_Oguzcan_Yüksel,_Taastrup","Oguzcan Yüksel, Taastrup",Socialdemokratiet,5
+Høje,12,Fløng Hallen,"A_Flemming_Amaro_Kristensen,_Hedehus","Flemming Amaro Kristensen, Hedehus",Socialdemokratiet,17
+Høje,12,Fløng Hallen,"A_Jacob_Harris,_Hedehusene","Jacob Harris, Hedehusene",Socialdemokratiet,32
+Høje,12,Fløng Hallen,B_Listestemmer,Listestemmer,Radikale Venstre,19
+Høje,12,Fløng Hallen,B_Esat_Sentürk,Esat Sentürk,Radikale Venstre,31
+Høje,12,Fløng Hallen,B_Ilknur_Kekec_Coban,Ilknur Kekec Coban,Radikale Venstre,11
+Høje,12,Fløng Hallen,B_Ibrahim_El-Khatib,Ibrahim El-Khatib,Radikale Venstre,1
+Høje,12,Fløng Hallen,B_Jerry_Jensen,Jerry Jensen,Radikale Venstre,1
+Høje,12,Fløng Hallen,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,148
+Høje,12,Fløng Hallen,"C_Michael_Ziegler,_Taastrup","Michael Ziegler, Taastrup",Det Konservative Folkeparti,708
+Høje,12,Fløng Hallen,"C_Merete_Scheelsbeck,_Taastrup","Merete Scheelsbeck, Taastrup",Det Konservative Folkeparti,26
+Høje,12,Fløng Hallen,"C_Toke_Elling,_Taastrup","Toke Elling, Taastrup",Det Konservative Folkeparti,9
+Høje,12,Fløng Hallen,"C_Marjan_Ganjjou,_Taastrup","Marjan Ganjjou, Taastrup",Det Konservative Folkeparti,19
+Høje,12,Fløng Hallen,"C_Jeanette_Ingemann,_Fløng","Jeanette Ingemann, Fløng",Det Konservative Folkeparti,94
+Høje,12,Fløng Hallen,"C_Turan_Akbulut,_Hedehusene","Turan Akbulut, Hedehusene",Det Konservative Folkeparti,17
+Høje,12,Fløng Hallen,"C_Steffen_Mølgaard,_Taastrup_Valby","Steffen Mølgaard, Taastrup Valby",Det Konservative Folkeparti,5
+Høje,12,Fløng Hallen,"C_Henrik_Torning,_Sengeløse","Henrik Torning, Sengeløse",Det Konservative Folkeparti,2
+Høje,12,Fløng Hallen,"C_Kurt_Scheelsbeck,_Hedehusene","Kurt Scheelsbeck, Hedehusene",Det Konservative Folkeparti,238
+Høje,12,Fløng Hallen,"C_Simon_Bøtkjær_Nielsen,_Høje_Taastr","Simon Bøtkjær Nielsen, Høje Taastr",Det Konservative Folkeparti,6
+Høje,12,Fløng Hallen,"C_Maj-Britt_Hartvig,_Torstorp","Maj-Britt Hartvig, Torstorp",Det Konservative Folkeparti,8
+Høje,12,Fløng Hallen,"C_Rejan_Azad_Ali,_Høje_Taastrup","Rejan Azad Ali, Høje Taastrup",Det Konservative Folkeparti,1
+Høje,12,Fløng Hallen,"C_Vivi_Holt,_Taastrup","Vivi Holt, Taastrup",Det Konservative Folkeparti,4
+Høje,12,Fløng Hallen,"C_Mikael_Emanuel,_Taastrup","Mikael Emanuel, Taastrup",Det Konservative Folkeparti,9
+Høje,12,Fløng Hallen,"C_Allan_Overgaard,_Taastrup","Allan Overgaard, Taastrup",Det Konservative Folkeparti,2
+Høje,12,Fløng Hallen,"C_Melis_Aydin,_Taastrup","Melis Aydin, Taastrup",Det Konservative Folkeparti,5
+Høje,12,Fløng Hallen,"C_Finn_Søder,_Sengeløse","Finn Søder, Sengeløse",Det Konservative Folkeparti,0
+Høje,12,Fløng Hallen,"C_Lone_Simonsen,_Taastrup","Lone Simonsen, Taastrup",Det Konservative Folkeparti,1
+Høje,12,Fløng Hallen,"C_Torben_Rasmussen,_Hedehusene","Torben Rasmussen, Hedehusene",Det Konservative Folkeparti,1
+Høje,12,Fløng Hallen,"C_Frede_Vest,_Soderup","Frede Vest, Soderup",Det Konservative Folkeparti,5
+Høje,12,Fløng Hallen,D_Listestemmer,Listestemmer,Nye Borgerlige,47
+Høje,12,Fløng Hallen,D_Bo_Ejsing,Bo Ejsing,Nye Borgerlige,39
+Høje,12,Fløng Hallen,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,69
+Høje,12,Fløng Hallen,"F_Øzdes_Durukan,_Taastrup","Øzdes Durukan, Taastrup",SF - Socialistisk Folkeparti,31
+Høje,12,Fløng Hallen,"F_Freja_Lander,_Taastrup","Freja Lander, Taastrup",SF - Socialistisk Folkeparti,14
+Høje,12,Fløng Hallen,"F_Birger_Juul,_Taastrup","Birger Juul, Taastrup",SF - Socialistisk Folkeparti,3
+Høje,12,Fløng Hallen,"F_Mette_Gagner,_Hedehusene","Mette Gagner, Hedehusene",SF - Socialistisk Folkeparti,13
+Høje,12,Fløng Hallen,"F_Kaj_V._Rasmussen,_Høje_Taastrup","Kaj V. Rasmussen, Høje Taastrup",SF - Socialistisk Folkeparti,4
+Høje,12,Fløng Hallen,I_Listestemmer,Listestemmer,Liberal Alliance,19
+Høje,12,Fløng Hallen,"I_Danny_Malkowski,_Taastrup","Danny Malkowski, Taastrup",Liberal Alliance,52
+Høje,12,Fløng Hallen,"I_Liv_K._Olesen,_Hedehusene","Liv K. Olesen, Hedehusene",Liberal Alliance,2
+Høje,12,Fløng Hallen,"I_Laurits_Dalby,_Taastrup","Laurits Dalby, Taastrup",Liberal Alliance,2
+Høje,12,Fløng Hallen,"I_Kim_Jensen,_Reerslev","Kim Jensen, Reerslev",Liberal Alliance,2
+Høje,12,Fløng Hallen,"I_Karsten_Ruuskanen-Strunge,_Taastru","Karsten Ruuskanen-Strunge, Taastru",Liberal Alliance,0
+Høje,12,Fløng Hallen,"I_Bettina_Stuhr,_Taastrup","Bettina Stuhr, Taastrup",Liberal Alliance,0
+Høje,12,Fløng Hallen,"I_Henning_K._Kristensen,_Taastrup","Henning K. Kristensen, Taastrup",Liberal Alliance,0
+Høje,12,Fløng Hallen,"I_Christian_Stender,_Taastrup","Christian Stender, Taastrup",Liberal Alliance,0
+Høje,12,Fløng Hallen,"I_Nicki_Wassmann_Brøchner,_Nærheden","Nicki Wassmann Brøchner, Nærheden",Liberal Alliance,0
+Høje,12,Fløng Hallen,O_Listestemmer,Listestemmer,Dansk Folkeparti,57
+Høje,12,Fløng Hallen,"O_Lars_Prier,_Taastrup","Lars Prier, Taastrup",Dansk Folkeparti,38
+Høje,12,Fløng Hallen,"O_Flemming_Hansen,_Taastrup","Flemming Hansen, Taastrup",Dansk Folkeparti,5
+Høje,12,Fløng Hallen,"O_Henrik_Pangel,_Hedehusene","Henrik Pangel, Hedehusene",Dansk Folkeparti,13
+Høje,12,Fløng Hallen,"O_Else_Stokholm,_Taastrup","Else Stokholm, Taastrup",Dansk Folkeparti,10
+Høje,12,Fløng Hallen,"O_Allan_Bolvig,_Taastrup","Allan Bolvig, Taastrup",Dansk Folkeparti,0
+Høje,12,Fløng Hallen,"O_Lene_Breuning,_Taastrup","Lene Breuning, Taastrup",Dansk Folkeparti,3
+Høje,12,Fløng Hallen,"O_Max_Dupont,_Taastrup","Max Dupont, Taastrup",Dansk Folkeparti,1
+Høje,12,Fløng Hallen,"O_Jørgen_Nygaard_Lerche,_Taastrup","Jørgen Nygaard Lerche, Taastrup",Dansk Folkeparti,0
+Høje,12,Fløng Hallen,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",37
+Høje,12,Fløng Hallen,"V_Lisbeth_Kjærholt,_Fløng","Lisbeth Kjærholt, Fløng","Venstre, Danmarks Liberale Parti",116
+Høje,12,Fløng Hallen,"V_Lucas_Damsgaard,_Taastrup","Lucas Damsgaard, Taastrup","Venstre, Danmarks Liberale Parti",2
+Høje,12,Fløng Hallen,"V_Frank_Clausen,_Taastrup","Frank Clausen, Taastrup","Venstre, Danmarks Liberale Parti",3
+Høje,12,Fløng Hallen,"V_Sophie_Brohus,_Taastrup","Sophie Brohus, Taastrup","Venstre, Danmarks Liberale Parti",0
+Høje,12,Fløng Hallen,"V_Karsten_Toksvig,_Taastrup","Karsten Toksvig, Taastrup","Venstre, Danmarks Liberale Parti",0
+Høje,12,Fløng Hallen,"V_Tina_Løyche,_Taastrup","Tina Løyche, Taastrup","Venstre, Danmarks Liberale Parti",3
+Høje,12,Fløng Hallen,"V_Morten_Hoffmann-Timmol,_Kraghave","Morten Hoffmann-Timmol, Kraghave","Venstre, Danmarks Liberale Parti",1
+Høje,12,Fløng Hallen,"V_Peder_Helt,_Hedehusene","Peder Helt, Hedehusene","Venstre, Danmarks Liberale Parti",40
+Høje,12,Fløng Hallen,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,56
+Høje,12,Fløng Hallen,"Ø_Emil_Viskum,_Taastrup","Emil Viskum, Taastrup",Enhedslisten - De Rød-Grønne,53
+Høje,12,Fløng Hallen,"Ø_Rojda_Kara,_Hedehusene","Rojda Kara, Hedehusene",Enhedslisten - De Rød-Grønne,38
+Høje,12,Fløng Hallen,"Ø_Halil_Kara,_Hedehusene","Halil Kara, Hedehusene",Enhedslisten - De Rød-Grønne,1
+Høje,12,Fløng Hallen,"Ø_Preben_Bjørn_Madsen,_Taastrup","Preben Bjørn Madsen, Taastrup",Enhedslisten - De Rød-Grønne,3
+Høje,12,Fløng Hallen,"Ø_Jørgen_Mortensen,_Taastrup","Jørgen Mortensen, Taastrup",Enhedslisten - De Rød-Grønne,3
+Høje,12,Fløng Hallen,Å_Listestemmer,Listestemmer,Alternativet,5
+Høje,12,Fløng Hallen,"Å_Ken_Patrick_Petersson,_Taastrup","Ken Patrick Petersson, Taastrup",Alternativet,6
+Høje,12,Fløng Hallen,"Å_Irina_Bjørnø,_Sengeløse","Irina Bjørnø, Sengeløse",Alternativet,10
+Høje,12,Fløng Hallen,"Å_Steffen_S._Koch,_Taastrup","Steffen S. Koch, Taastrup",Alternativet,0
+Høje,13,Reerslev Skole,A_Listestemmer,Listestemmer,Socialdemokratiet,48
+Høje,13,Reerslev Skole,"A_Peter_Faarbæk,_Taastrup","Peter Faarbæk, Taastrup",Socialdemokratiet,28
+Høje,13,Reerslev Skole,"A_Anne_Mette_Bak,_Taastrup","Anne Mette Bak, Taastrup",Socialdemokratiet,5
+Høje,13,Reerslev Skole,"A_Thomas_Bak,_Taastrup","Thomas Bak, Taastrup",Socialdemokratiet,4
+Høje,13,Reerslev Skole,"A_Hugo_Hammel,_Sengeløse","Hugo Hammel, Sengeløse",Socialdemokratiet,12
+Høje,13,Reerslev Skole,"A_Thomas_Stenrød_Paulsen,_Taastrup","Thomas Stenrød Paulsen, Taastrup",Socialdemokratiet,3
+Høje,13,Reerslev Skole,"A_Nina_Strøm_Tønnes,_Hedehusene","Nina Strøm Tønnes, Hedehusene",Socialdemokratiet,6
+Høje,13,Reerslev Skole,"A_Malene_Thackrah,_Taastrup","Malene Thackrah, Taastrup",Socialdemokratiet,1
+Høje,13,Reerslev Skole,"A_Brith_Dorph_Josephsen,_Taastrup","Brith Dorph Josephsen, Taastrup",Socialdemokratiet,3
+Høje,13,Reerslev Skole,"A_Stefan_Ørsted_Petersen,_Taastrup","Stefan Ørsted Petersen, Taastrup",Socialdemokratiet,0
+Høje,13,Reerslev Skole,"A_Sabah_Abid,_Taastrup","Sabah Abid, Taastrup",Socialdemokratiet,3
+Høje,13,Reerslev Skole,"A_Sami_Gökdemir,_Taastrup","Sami Gökdemir, Taastrup",Socialdemokratiet,1
+Høje,13,Reerslev Skole,"A_Claus_Heje,_Taastrup","Claus Heje, Taastrup",Socialdemokratiet,0
+Høje,13,Reerslev Skole,"A_Oguzcan_Yüksel,_Taastrup","Oguzcan Yüksel, Taastrup",Socialdemokratiet,1
+Høje,13,Reerslev Skole,"A_Flemming_Amaro_Kristensen,_Hedehus","Flemming Amaro Kristensen, Hedehus",Socialdemokratiet,5
+Høje,13,Reerslev Skole,"A_Jacob_Harris,_Hedehusene","Jacob Harris, Hedehusene",Socialdemokratiet,0
+Høje,13,Reerslev Skole,B_Listestemmer,Listestemmer,Radikale Venstre,3
+Høje,13,Reerslev Skole,B_Esat_Sentürk,Esat Sentürk,Radikale Venstre,6
+Høje,13,Reerslev Skole,B_Ilknur_Kekec_Coban,Ilknur Kekec Coban,Radikale Venstre,5
+Høje,13,Reerslev Skole,B_Ibrahim_El-Khatib,Ibrahim El-Khatib,Radikale Venstre,0
+Høje,13,Reerslev Skole,B_Jerry_Jensen,Jerry Jensen,Radikale Venstre,0
+Høje,13,Reerslev Skole,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,21
+Høje,13,Reerslev Skole,"C_Michael_Ziegler,_Taastrup","Michael Ziegler, Taastrup",Det Konservative Folkeparti,170
+Høje,13,Reerslev Skole,"C_Merete_Scheelsbeck,_Taastrup","Merete Scheelsbeck, Taastrup",Det Konservative Folkeparti,6
+Høje,13,Reerslev Skole,"C_Toke_Elling,_Taastrup","Toke Elling, Taastrup",Det Konservative Folkeparti,3
+Høje,13,Reerslev Skole,"C_Marjan_Ganjjou,_Taastrup","Marjan Ganjjou, Taastrup",Det Konservative Folkeparti,4
+Høje,13,Reerslev Skole,"C_Jeanette_Ingemann,_Fløng","Jeanette Ingemann, Fløng",Det Konservative Folkeparti,16
+Høje,13,Reerslev Skole,"C_Turan_Akbulut,_Hedehusene","Turan Akbulut, Hedehusene",Det Konservative Folkeparti,0
+Høje,13,Reerslev Skole,"C_Steffen_Mølgaard,_Taastrup_Valby","Steffen Mølgaard, Taastrup Valby",Det Konservative Folkeparti,0
+Høje,13,Reerslev Skole,"C_Henrik_Torning,_Sengeløse","Henrik Torning, Sengeløse",Det Konservative Folkeparti,4
+Høje,13,Reerslev Skole,"C_Kurt_Scheelsbeck,_Hedehusene","Kurt Scheelsbeck, Hedehusene",Det Konservative Folkeparti,6
+Høje,13,Reerslev Skole,"C_Simon_Bøtkjær_Nielsen,_Høje_Taastr","Simon Bøtkjær Nielsen, Høje Taastr",Det Konservative Folkeparti,3
+Høje,13,Reerslev Skole,"C_Maj-Britt_Hartvig,_Torstorp","Maj-Britt Hartvig, Torstorp",Det Konservative Folkeparti,0
+Høje,13,Reerslev Skole,"C_Rejan_Azad_Ali,_Høje_Taastrup","Rejan Azad Ali, Høje Taastrup",Det Konservative Folkeparti,0
+Høje,13,Reerslev Skole,"C_Vivi_Holt,_Taastrup","Vivi Holt, Taastrup",Det Konservative Folkeparti,3
+Høje,13,Reerslev Skole,"C_Mikael_Emanuel,_Taastrup","Mikael Emanuel, Taastrup",Det Konservative Folkeparti,4
+Høje,13,Reerslev Skole,"C_Allan_Overgaard,_Taastrup","Allan Overgaard, Taastrup",Det Konservative Folkeparti,0
+Høje,13,Reerslev Skole,"C_Melis_Aydin,_Taastrup","Melis Aydin, Taastrup",Det Konservative Folkeparti,0
+Høje,13,Reerslev Skole,"C_Finn_Søder,_Sengeløse","Finn Søder, Sengeløse",Det Konservative Folkeparti,0
+Høje,13,Reerslev Skole,"C_Lone_Simonsen,_Taastrup","Lone Simonsen, Taastrup",Det Konservative Folkeparti,0
+Høje,13,Reerslev Skole,"C_Torben_Rasmussen,_Hedehusene","Torben Rasmussen, Hedehusene",Det Konservative Folkeparti,0
+Høje,13,Reerslev Skole,"C_Frede_Vest,_Soderup","Frede Vest, Soderup",Det Konservative Folkeparti,0
+Høje,13,Reerslev Skole,D_Listestemmer,Listestemmer,Nye Borgerlige,12
+Høje,13,Reerslev Skole,D_Bo_Ejsing,Bo Ejsing,Nye Borgerlige,6
+Høje,13,Reerslev Skole,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,10
+Høje,13,Reerslev Skole,"F_Øzdes_Durukan,_Taastrup","Øzdes Durukan, Taastrup",SF - Socialistisk Folkeparti,12
+Høje,13,Reerslev Skole,"F_Freja_Lander,_Taastrup","Freja Lander, Taastrup",SF - Socialistisk Folkeparti,10
+Høje,13,Reerslev Skole,"F_Birger_Juul,_Taastrup","Birger Juul, Taastrup",SF - Socialistisk Folkeparti,3
+Høje,13,Reerslev Skole,"F_Mette_Gagner,_Hedehusene","Mette Gagner, Hedehusene",SF - Socialistisk Folkeparti,1
+Høje,13,Reerslev Skole,"F_Kaj_V._Rasmussen,_Høje_Taastrup","Kaj V. Rasmussen, Høje Taastrup",SF - Socialistisk Folkeparti,0
+Høje,13,Reerslev Skole,I_Listestemmer,Listestemmer,Liberal Alliance,2
+Høje,13,Reerslev Skole,"I_Danny_Malkowski,_Taastrup","Danny Malkowski, Taastrup",Liberal Alliance,13
+Høje,13,Reerslev Skole,"I_Liv_K._Olesen,_Hedehusene","Liv K. Olesen, Hedehusene",Liberal Alliance,0
+Høje,13,Reerslev Skole,"I_Laurits_Dalby,_Taastrup","Laurits Dalby, Taastrup",Liberal Alliance,0
+Høje,13,Reerslev Skole,"I_Kim_Jensen,_Reerslev","Kim Jensen, Reerslev",Liberal Alliance,3
+Høje,13,Reerslev Skole,"I_Karsten_Ruuskanen-Strunge,_Taastru","Karsten Ruuskanen-Strunge, Taastru",Liberal Alliance,0
+Høje,13,Reerslev Skole,"I_Bettina_Stuhr,_Taastrup","Bettina Stuhr, Taastrup",Liberal Alliance,0
+Høje,13,Reerslev Skole,"I_Henning_K._Kristensen,_Taastrup","Henning K. Kristensen, Taastrup",Liberal Alliance,0
+Høje,13,Reerslev Skole,"I_Christian_Stender,_Taastrup","Christian Stender, Taastrup",Liberal Alliance,0
+Høje,13,Reerslev Skole,"I_Nicki_Wassmann_Brøchner,_Nærheden","Nicki Wassmann Brøchner, Nærheden",Liberal Alliance,0
+Høje,13,Reerslev Skole,O_Listestemmer,Listestemmer,Dansk Folkeparti,9
+Høje,13,Reerslev Skole,"O_Lars_Prier,_Taastrup","Lars Prier, Taastrup",Dansk Folkeparti,6
+Høje,13,Reerslev Skole,"O_Flemming_Hansen,_Taastrup","Flemming Hansen, Taastrup",Dansk Folkeparti,2
+Høje,13,Reerslev Skole,"O_Henrik_Pangel,_Hedehusene","Henrik Pangel, Hedehusene",Dansk Folkeparti,2
+Høje,13,Reerslev Skole,"O_Else_Stokholm,_Taastrup","Else Stokholm, Taastrup",Dansk Folkeparti,0
+Høje,13,Reerslev Skole,"O_Allan_Bolvig,_Taastrup","Allan Bolvig, Taastrup",Dansk Folkeparti,0
+Høje,13,Reerslev Skole,"O_Lene_Breuning,_Taastrup","Lene Breuning, Taastrup",Dansk Folkeparti,0
+Høje,13,Reerslev Skole,"O_Max_Dupont,_Taastrup","Max Dupont, Taastrup",Dansk Folkeparti,0
+Høje,13,Reerslev Skole,"O_Jørgen_Nygaard_Lerche,_Taastrup","Jørgen Nygaard Lerche, Taastrup",Dansk Folkeparti,0
+Høje,13,Reerslev Skole,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",10
+Høje,13,Reerslev Skole,"V_Lisbeth_Kjærholt,_Fløng","Lisbeth Kjærholt, Fløng","Venstre, Danmarks Liberale Parti",16
+Høje,13,Reerslev Skole,"V_Lucas_Damsgaard,_Taastrup","Lucas Damsgaard, Taastrup","Venstre, Danmarks Liberale Parti",0
+Høje,13,Reerslev Skole,"V_Frank_Clausen,_Taastrup","Frank Clausen, Taastrup","Venstre, Danmarks Liberale Parti",0
+Høje,13,Reerslev Skole,"V_Sophie_Brohus,_Taastrup","Sophie Brohus, Taastrup","Venstre, Danmarks Liberale Parti",0
+Høje,13,Reerslev Skole,"V_Karsten_Toksvig,_Taastrup","Karsten Toksvig, Taastrup","Venstre, Danmarks Liberale Parti",0
+Høje,13,Reerslev Skole,"V_Tina_Løyche,_Taastrup","Tina Løyche, Taastrup","Venstre, Danmarks Liberale Parti",0
+Høje,13,Reerslev Skole,"V_Morten_Hoffmann-Timmol,_Kraghave","Morten Hoffmann-Timmol, Kraghave","Venstre, Danmarks Liberale Parti",0
+Høje,13,Reerslev Skole,"V_Peder_Helt,_Hedehusene","Peder Helt, Hedehusene","Venstre, Danmarks Liberale Parti",2
+Høje,13,Reerslev Skole,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,9
+Høje,13,Reerslev Skole,"Ø_Emil_Viskum,_Taastrup","Emil Viskum, Taastrup",Enhedslisten - De Rød-Grønne,31
+Høje,13,Reerslev Skole,"Ø_Rojda_Kara,_Hedehusene","Rojda Kara, Hedehusene",Enhedslisten - De Rød-Grønne,9
+Høje,13,Reerslev Skole,"Ø_Halil_Kara,_Hedehusene","Halil Kara, Hedehusene",Enhedslisten - De Rød-Grønne,0
+Høje,13,Reerslev Skole,"Ø_Preben_Bjørn_Madsen,_Taastrup","Preben Bjørn Madsen, Taastrup",Enhedslisten - De Rød-Grønne,3
+Høje,13,Reerslev Skole,"Ø_Jørgen_Mortensen,_Taastrup","Jørgen Mortensen, Taastrup",Enhedslisten - De Rød-Grønne,0
+Høje,13,Reerslev Skole,Å_Listestemmer,Listestemmer,Alternativet,0
+Høje,13,Reerslev Skole,"Å_Ken_Patrick_Petersson,_Taastrup","Ken Patrick Petersson, Taastrup",Alternativet,1
+Høje,13,Reerslev Skole,"Å_Irina_Bjørnø,_Sengeløse","Irina Bjørnø, Sengeløse",Alternativet,2
+Høje,13,Reerslev Skole,"Å_Steffen_S._Koch,_Taastrup","Steffen S. Koch, Taastrup",Alternativet,0

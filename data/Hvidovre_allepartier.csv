@@ -1,0 +1,833 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Hvidovre,1,Holmegårdshallen,A_Listestemmer,Listestemmer,Socialdemokratiet,289
+Hvidovre,1,Holmegårdshallen,A_Helle_Kirstine_Moesgaard_Adelborg,Helle Kirstine Moesgaard Adelborg,Socialdemokratiet,247
+Hvidovre,1,Holmegårdshallen,A_Kenneth_Fendrich_Christensen,Kenneth Fendrich Christensen,Socialdemokratiet,16
+Hvidovre,1,Holmegårdshallen,A_Anders_Liltorp,Anders Liltorp,Socialdemokratiet,15
+Hvidovre,1,Holmegårdshallen,A_Lars_Gundelack_Jensen,Lars Gundelack Jensen,Socialdemokratiet,15
+Hvidovre,1,Holmegårdshallen,A_Maria_Staghøj_Durhuus,Maria Staghøj Durhuus,Socialdemokratiet,37
+Hvidovre,1,Holmegårdshallen,A_Lars_Andersen,Lars Andersen,Socialdemokratiet,8
+Hvidovre,1,Holmegårdshallen,A_Amanda_Irina_Larsen,Amanda Irina Larsen,Socialdemokratiet,22
+Hvidovre,1,Holmegårdshallen,A_Vagn_Majland,Vagn Majland,Socialdemokratiet,7
+Hvidovre,1,Holmegårdshallen,A_Benthe_Viola_Hildeborg_Holm,Benthe Viola Hildeborg Holm,Socialdemokratiet,2
+Hvidovre,1,Holmegårdshallen,A_Yasir_Iqbal,Yasir Iqbal,Socialdemokratiet,34
+Hvidovre,1,Holmegårdshallen,A_Lotte_Stjernholm_Christiansen,Lotte Stjernholm Christiansen,Socialdemokratiet,10
+Hvidovre,1,Holmegårdshallen,A_Jette_Therese_Jørgensen,Jette Therese Jørgensen,Socialdemokratiet,5
+Hvidovre,1,Holmegårdshallen,A_Jakob_Lavlund_Borberg,Jakob Lavlund Borberg,Socialdemokratiet,10
+Hvidovre,1,Holmegårdshallen,A_Stefan_Bruse_thor_Straten,Stefan Bruse thor Straten,Socialdemokratiet,4
+Hvidovre,1,Holmegårdshallen,A_Idris_Murat_Yorulmaz,Idris Murat Yorulmaz,Socialdemokratiet,7
+Hvidovre,1,Holmegårdshallen,A_Kurt_Normark,Kurt Normark,Socialdemokratiet,3
+Hvidovre,1,Holmegårdshallen,A_Robert_Jakobsen,Robert Jakobsen,Socialdemokratiet,2
+Hvidovre,1,Holmegårdshallen,A_Carsten_Jelund,Carsten Jelund,Socialdemokratiet,1
+Hvidovre,1,Holmegårdshallen,A_Mikail_Erman,Mikail Erman,Socialdemokratiet,1
+Hvidovre,1,Holmegårdshallen,A_Mette_Brix_Johansen,Mette Brix Johansen,Socialdemokratiet,3
+Hvidovre,1,Holmegårdshallen,A_Ann-Mari_Lundbæk_Lauritsen,Ann-Mari Lundbæk Lauritsen,Socialdemokratiet,1
+Hvidovre,1,Holmegårdshallen,B_Listestemmer,Listestemmer,Radikale Venstre,71
+Hvidovre,1,Holmegårdshallen,B_Susanne_Wad_Leth,Susanne Wad Leth,Radikale Venstre,25
+Hvidovre,1,Holmegårdshallen,B_Jens_Peter_Andersen,Jens Peter Andersen,Radikale Venstre,5
+Hvidovre,1,Holmegårdshallen,B_Ane_Skjødsholm,Ane Skjødsholm,Radikale Venstre,2
+Hvidovre,1,Holmegårdshallen,B_Flemming_Bryde_Thøgersen,Flemming Bryde Thøgersen,Radikale Venstre,4
+Hvidovre,1,Holmegårdshallen,B_Charlotte_Noer_Helleberg,Charlotte Noer Helleberg,Radikale Venstre,21
+Hvidovre,1,Holmegårdshallen,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,212
+Hvidovre,1,Holmegårdshallen,C_Søren_Friis_Trebbien,Søren Friis Trebbien,Det Konservative Folkeparti,43
+Hvidovre,1,Holmegårdshallen,C_Tina_Cartey_Hansen,Tina Cartey Hansen,Det Konservative Folkeparti,36
+Hvidovre,1,Holmegårdshallen,C_Jimmy_Jensen,Jimmy Jensen,Det Konservative Folkeparti,16
+Hvidovre,1,Holmegårdshallen,C_Silas_Kristen_Overgaard_Fisker,Silas Kristen Overgaard Fisker,Det Konservative Folkeparti,49
+Hvidovre,1,Holmegårdshallen,C_Kenneth_Bak,Kenneth Bak,Det Konservative Folkeparti,15
+Hvidovre,1,Holmegårdshallen,C_Michael_Peter_Sabroe,Michael Peter Sabroe,Det Konservative Folkeparti,7
+Hvidovre,1,Holmegårdshallen,C_Carsten_Nymand_Provstgaard,Carsten Nymand Provstgaard,Det Konservative Folkeparti,57
+Hvidovre,1,Holmegårdshallen,C_Sanne_Ørskov_Rishøj,Sanne Ørskov Rishøj,Det Konservative Folkeparti,5
+Hvidovre,1,Holmegårdshallen,C_Peshtiwan_Zewkaei,Peshtiwan Zewkaei,Det Konservative Folkeparti,10
+Hvidovre,1,Holmegårdshallen,C_Maria_Vistisen,Maria Vistisen,Det Konservative Folkeparti,21
+Hvidovre,1,Holmegårdshallen,C_Johnny_Berg,Johnny Berg,Det Konservative Folkeparti,6
+Hvidovre,1,Holmegårdshallen,C_Ejner_Skræddergaard,Ejner Skræddergaard,Det Konservative Folkeparti,18
+Hvidovre,1,Holmegårdshallen,C_Dorthe_Steen_Rimmer_Hansen,Dorthe Steen Rimmer Hansen,Det Konservative Folkeparti,30
+Hvidovre,1,Holmegårdshallen,C_Stig_Jørgensen,Stig Jørgensen,Det Konservative Folkeparti,5
+Hvidovre,1,Holmegårdshallen,D_Listestemmer,Listestemmer,Nye Borgerlige,46
+Hvidovre,1,Holmegårdshallen,D_Martin_Findahl_Amby,Martin Findahl Amby,Nye Borgerlige,33
+Hvidovre,1,Holmegårdshallen,D_Dan_Petersen,Dan Petersen,Nye Borgerlige,9
+Hvidovre,1,Holmegårdshallen,D_Jan_Bille_Sørensen,Jan Bille Sørensen,Nye Borgerlige,1
+Hvidovre,1,Holmegårdshallen,D_Jeppe_Martin_Weisse,Jeppe Martin Weisse,Nye Borgerlige,2
+Hvidovre,1,Holmegårdshallen,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,171
+Hvidovre,1,Holmegårdshallen,F_Anders_Wolf_Andresen,Anders Wolf Andresen,SF - Socialistisk Folkeparti,91
+Hvidovre,1,Holmegårdshallen,F_Sara_Gry_Benzon_Larsen,Sara Gry Benzon Larsen,SF - Socialistisk Folkeparti,96
+Hvidovre,1,Holmegårdshallen,F_Marie-Louise_Peschardt_Jørgensen,Marie-Louise Peschardt Jørgensen,SF - Socialistisk Folkeparti,55
+Hvidovre,1,Holmegårdshallen,F_Bent_Bjørn_Roldgaard,Bent Bjørn Roldgaard,SF - Socialistisk Folkeparti,13
+Hvidovre,1,Holmegårdshallen,F_Kristine_Amalie_Rigmor_Rostgård,Kristine Amalie Rigmor Rostgård,SF - Socialistisk Folkeparti,38
+Hvidovre,1,Holmegårdshallen,F_Lene_Jensen,Lene Jensen,SF - Socialistisk Folkeparti,9
+Hvidovre,1,Holmegårdshallen,F_Rasmus_Peter_Henriksen,Rasmus Peter Henriksen,SF - Socialistisk Folkeparti,7
+Hvidovre,1,Holmegårdshallen,F_Said_Noor_Nabil,Said Noor Nabil,SF - Socialistisk Folkeparti,3
+Hvidovre,1,Holmegårdshallen,F_Pernille_Blom_Hermansen,Pernille Blom Hermansen,SF - Socialistisk Folkeparti,15
+Hvidovre,1,Holmegårdshallen,F_Maria_Brandt_Avnskjold,Maria Brandt Avnskjold,SF - Socialistisk Folkeparti,7
+Hvidovre,1,Holmegårdshallen,F_Thomas_Møller,Thomas Møller,SF - Socialistisk Folkeparti,8
+Hvidovre,1,Holmegårdshallen,G_Listestemmer,Listestemmer,Veganerpartiet,4
+Hvidovre,1,Holmegårdshallen,G_Jonas_Lynggaard_Krarup,Jonas Lynggaard Krarup,Veganerpartiet,8
+Hvidovre,1,Holmegårdshallen,H_Listestemmer,Listestemmer,Hvidovrelisten,85
+Hvidovre,1,Holmegårdshallen,H_Kristina_Eileen_Young,Kristina Eileen Young,Hvidovrelisten,68
+Hvidovre,1,Holmegårdshallen,H_Arne_Bech,Arne Bech,Hvidovrelisten,22
+Hvidovre,1,Holmegårdshallen,H_Frank_Løber,Frank Løber,Hvidovrelisten,28
+Hvidovre,1,Holmegårdshallen,H_Karoline_Klock_Tjervåg_Cleemann,Karoline Klock Tjervåg Cleemann,Hvidovrelisten,20
+Hvidovre,1,Holmegårdshallen,H_Elin_Palm,Elin Palm,Hvidovrelisten,4
+Hvidovre,1,Holmegårdshallen,H_Kim_Holm,Kim Holm,Hvidovrelisten,12
+Hvidovre,1,Holmegårdshallen,H_Trine_Gregersen_Steensgaard,Trine Gregersen Steensgaard,Hvidovrelisten,12
+Hvidovre,1,Holmegårdshallen,H_Annette_Karina_Læbo,Annette Karina Læbo,Hvidovrelisten,2
+Hvidovre,1,Holmegårdshallen,H_Finn_Blohm,Finn Blohm,Hvidovrelisten,4
+Hvidovre,1,Holmegårdshallen,I_Listestemmer,Listestemmer,Liberal Alliance,18
+Hvidovre,1,Holmegårdshallen,I_Rene_Bathum_Pedersen,Rene Bathum Pedersen,Liberal Alliance,1
+Hvidovre,1,Holmegårdshallen,I_Morten_Kristoffer_Hansen,Morten Kristoffer Hansen,Liberal Alliance,7
+Hvidovre,1,Holmegårdshallen,I_Henrik_Holleufer,Henrik Holleufer,Liberal Alliance,8
+Hvidovre,1,Holmegårdshallen,L_Listestemmer,Listestemmer,Lokallisten 2650,5
+Hvidovre,1,Holmegårdshallen,L_Steen_Ørskov_Larsen,Steen Ørskov Larsen,Lokallisten 2650,30
+Hvidovre,1,Holmegårdshallen,O_Listestemmer,Listestemmer,Dansk Folkeparti,54
+Hvidovre,1,Holmegårdshallen,O_Mikkel_Sjøberg_Hjermind_Dencker,Mikkel Sjøberg Hjermind Dencker,Dansk Folkeparti,87
+Hvidovre,1,Holmegårdshallen,O_Rene_Tommy_Langhorn,Rene Tommy Langhorn,Dansk Folkeparti,8
+Hvidovre,1,Holmegårdshallen,O_Peter_Dencker,Peter Dencker,Dansk Folkeparti,10
+Hvidovre,1,Holmegårdshallen,O_Ivan_Fogtmann,Ivan Fogtmann,Dansk Folkeparti,7
+Hvidovre,1,Holmegårdshallen,R_Listestemmer,Listestemmer,Kommunistisk Liste,4
+Hvidovre,1,Holmegårdshallen,R_Nikolai_Silas_Christoph_Aamand,Nikolai Silas Christoph Aamand,Kommunistisk Liste,6
+Hvidovre,1,Holmegårdshallen,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",69
+Hvidovre,1,Holmegårdshallen,V_Charlotte_Munch,Charlotte Munch,"Venstre, Danmarks Liberale Parti",68
+Hvidovre,1,Holmegårdshallen,V_Torben_Nowicki_Rasmussen,Torben Nowicki Rasmussen,"Venstre, Danmarks Liberale Parti",5
+Hvidovre,1,Holmegårdshallen,V_Lise-Lotte_Rasmussen,Lise-Lotte Rasmussen,"Venstre, Danmarks Liberale Parti",3
+Hvidovre,1,Holmegårdshallen,V_Jens_Erik_Hummelmose,Jens Erik Hummelmose,"Venstre, Danmarks Liberale Parti",2
+Hvidovre,1,Holmegårdshallen,V_Anette_Farnø_Skourup,Anette Farnø Skourup,"Venstre, Danmarks Liberale Parti",3
+Hvidovre,1,Holmegårdshallen,V_Mathias_Rinaldo,Mathias Rinaldo,"Venstre, Danmarks Liberale Parti",2
+Hvidovre,1,Holmegårdshallen,V_Pernille_Dupont,Pernille Dupont,"Venstre, Danmarks Liberale Parti",10
+Hvidovre,1,Holmegårdshallen,V_Leon_Tilgaard,Leon Tilgaard,"Venstre, Danmarks Liberale Parti",0
+Hvidovre,1,Holmegårdshallen,V_Susanne_Nowicki_Rasmussen,Susanne Nowicki Rasmussen,"Venstre, Danmarks Liberale Parti",3
+Hvidovre,1,Holmegårdshallen,V_Pia_Szymanski_Vermundsen,Pia Szymanski Vermundsen,"Venstre, Danmarks Liberale Parti",4
+Hvidovre,1,Holmegårdshallen,V_Henrik_Farnø,Henrik Farnø,"Venstre, Danmarks Liberale Parti",0
+Hvidovre,1,Holmegårdshallen,V_Marcus_Bjerre,Marcus Bjerre,"Venstre, Danmarks Liberale Parti",0
+Hvidovre,1,Holmegårdshallen,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,115
+Hvidovre,1,Holmegårdshallen,Ø_Karin_Lizzy_Kofod,Karin Lizzy Kofod,Enhedslisten - De Rød-Grønne,43
+Hvidovre,1,Holmegårdshallen,Ø_Thomas_Høgsberg_Andersen,Thomas Høgsberg Andersen,Enhedslisten - De Rød-Grønne,12
+Hvidovre,1,Holmegårdshallen,Ø_Gert_Wahl,Gert Wahl,Enhedslisten - De Rød-Grønne,10
+Hvidovre,1,Holmegårdshallen,Ø_Helene_Caprani,Helene Caprani,Enhedslisten - De Rød-Grønne,4
+Hvidovre,1,Holmegårdshallen,Ø_Birthe_Bang_Larsen,Birthe Bang Larsen,Enhedslisten - De Rød-Grønne,6
+Hvidovre,2,Præstemoseskolen,A_Listestemmer,Listestemmer,Socialdemokratiet,205
+Hvidovre,2,Præstemoseskolen,A_Helle_Kirstine_Moesgaard_Adelborg,Helle Kirstine Moesgaard Adelborg,Socialdemokratiet,220
+Hvidovre,2,Præstemoseskolen,A_Kenneth_Fendrich_Christensen,Kenneth Fendrich Christensen,Socialdemokratiet,16
+Hvidovre,2,Præstemoseskolen,A_Anders_Liltorp,Anders Liltorp,Socialdemokratiet,14
+Hvidovre,2,Præstemoseskolen,A_Lars_Gundelack_Jensen,Lars Gundelack Jensen,Socialdemokratiet,23
+Hvidovre,2,Præstemoseskolen,A_Maria_Staghøj_Durhuus,Maria Staghøj Durhuus,Socialdemokratiet,17
+Hvidovre,2,Præstemoseskolen,A_Lars_Andersen,Lars Andersen,Socialdemokratiet,14
+Hvidovre,2,Præstemoseskolen,A_Amanda_Irina_Larsen,Amanda Irina Larsen,Socialdemokratiet,37
+Hvidovre,2,Præstemoseskolen,A_Vagn_Majland,Vagn Majland,Socialdemokratiet,3
+Hvidovre,2,Præstemoseskolen,A_Benthe_Viola_Hildeborg_Holm,Benthe Viola Hildeborg Holm,Socialdemokratiet,6
+Hvidovre,2,Præstemoseskolen,A_Yasir_Iqbal,Yasir Iqbal,Socialdemokratiet,57
+Hvidovre,2,Præstemoseskolen,A_Lotte_Stjernholm_Christiansen,Lotte Stjernholm Christiansen,Socialdemokratiet,11
+Hvidovre,2,Præstemoseskolen,A_Jette_Therese_Jørgensen,Jette Therese Jørgensen,Socialdemokratiet,1
+Hvidovre,2,Præstemoseskolen,A_Jakob_Lavlund_Borberg,Jakob Lavlund Borberg,Socialdemokratiet,8
+Hvidovre,2,Præstemoseskolen,A_Stefan_Bruse_thor_Straten,Stefan Bruse thor Straten,Socialdemokratiet,7
+Hvidovre,2,Præstemoseskolen,A_Idris_Murat_Yorulmaz,Idris Murat Yorulmaz,Socialdemokratiet,4
+Hvidovre,2,Præstemoseskolen,A_Kurt_Normark,Kurt Normark,Socialdemokratiet,8
+Hvidovre,2,Præstemoseskolen,A_Robert_Jakobsen,Robert Jakobsen,Socialdemokratiet,0
+Hvidovre,2,Præstemoseskolen,A_Carsten_Jelund,Carsten Jelund,Socialdemokratiet,0
+Hvidovre,2,Præstemoseskolen,A_Mikail_Erman,Mikail Erman,Socialdemokratiet,0
+Hvidovre,2,Præstemoseskolen,A_Mette_Brix_Johansen,Mette Brix Johansen,Socialdemokratiet,2
+Hvidovre,2,Præstemoseskolen,A_Ann-Mari_Lundbæk_Lauritsen,Ann-Mari Lundbæk Lauritsen,Socialdemokratiet,4
+Hvidovre,2,Præstemoseskolen,B_Listestemmer,Listestemmer,Radikale Venstre,22
+Hvidovre,2,Præstemoseskolen,B_Susanne_Wad_Leth,Susanne Wad Leth,Radikale Venstre,12
+Hvidovre,2,Præstemoseskolen,B_Jens_Peter_Andersen,Jens Peter Andersen,Radikale Venstre,10
+Hvidovre,2,Præstemoseskolen,B_Ane_Skjødsholm,Ane Skjødsholm,Radikale Venstre,2
+Hvidovre,2,Præstemoseskolen,B_Flemming_Bryde_Thøgersen,Flemming Bryde Thøgersen,Radikale Venstre,1
+Hvidovre,2,Præstemoseskolen,B_Charlotte_Noer_Helleberg,Charlotte Noer Helleberg,Radikale Venstre,4
+Hvidovre,2,Præstemoseskolen,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,142
+Hvidovre,2,Præstemoseskolen,C_Søren_Friis_Trebbien,Søren Friis Trebbien,Det Konservative Folkeparti,33
+Hvidovre,2,Præstemoseskolen,C_Tina_Cartey_Hansen,Tina Cartey Hansen,Det Konservative Folkeparti,25
+Hvidovre,2,Præstemoseskolen,C_Jimmy_Jensen,Jimmy Jensen,Det Konservative Folkeparti,20
+Hvidovre,2,Præstemoseskolen,C_Silas_Kristen_Overgaard_Fisker,Silas Kristen Overgaard Fisker,Det Konservative Folkeparti,40
+Hvidovre,2,Præstemoseskolen,C_Kenneth_Bak,Kenneth Bak,Det Konservative Folkeparti,8
+Hvidovre,2,Præstemoseskolen,C_Michael_Peter_Sabroe,Michael Peter Sabroe,Det Konservative Folkeparti,11
+Hvidovre,2,Præstemoseskolen,C_Carsten_Nymand_Provstgaard,Carsten Nymand Provstgaard,Det Konservative Folkeparti,36
+Hvidovre,2,Præstemoseskolen,C_Sanne_Ørskov_Rishøj,Sanne Ørskov Rishøj,Det Konservative Folkeparti,5
+Hvidovre,2,Præstemoseskolen,C_Peshtiwan_Zewkaei,Peshtiwan Zewkaei,Det Konservative Folkeparti,19
+Hvidovre,2,Præstemoseskolen,C_Maria_Vistisen,Maria Vistisen,Det Konservative Folkeparti,9
+Hvidovre,2,Præstemoseskolen,C_Johnny_Berg,Johnny Berg,Det Konservative Folkeparti,9
+Hvidovre,2,Præstemoseskolen,C_Ejner_Skræddergaard,Ejner Skræddergaard,Det Konservative Folkeparti,6
+Hvidovre,2,Præstemoseskolen,C_Dorthe_Steen_Rimmer_Hansen,Dorthe Steen Rimmer Hansen,Det Konservative Folkeparti,11
+Hvidovre,2,Præstemoseskolen,C_Stig_Jørgensen,Stig Jørgensen,Det Konservative Folkeparti,0
+Hvidovre,2,Præstemoseskolen,D_Listestemmer,Listestemmer,Nye Borgerlige,48
+Hvidovre,2,Præstemoseskolen,D_Martin_Findahl_Amby,Martin Findahl Amby,Nye Borgerlige,30
+Hvidovre,2,Præstemoseskolen,D_Dan_Petersen,Dan Petersen,Nye Borgerlige,2
+Hvidovre,2,Præstemoseskolen,D_Jan_Bille_Sørensen,Jan Bille Sørensen,Nye Borgerlige,2
+Hvidovre,2,Præstemoseskolen,D_Jeppe_Martin_Weisse,Jeppe Martin Weisse,Nye Borgerlige,7
+Hvidovre,2,Præstemoseskolen,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,86
+Hvidovre,2,Præstemoseskolen,F_Anders_Wolf_Andresen,Anders Wolf Andresen,SF - Socialistisk Folkeparti,75
+Hvidovre,2,Præstemoseskolen,F_Sara_Gry_Benzon_Larsen,Sara Gry Benzon Larsen,SF - Socialistisk Folkeparti,54
+Hvidovre,2,Præstemoseskolen,F_Marie-Louise_Peschardt_Jørgensen,Marie-Louise Peschardt Jørgensen,SF - Socialistisk Folkeparti,31
+Hvidovre,2,Præstemoseskolen,F_Bent_Bjørn_Roldgaard,Bent Bjørn Roldgaard,SF - Socialistisk Folkeparti,6
+Hvidovre,2,Præstemoseskolen,F_Kristine_Amalie_Rigmor_Rostgård,Kristine Amalie Rigmor Rostgård,SF - Socialistisk Folkeparti,23
+Hvidovre,2,Præstemoseskolen,F_Lene_Jensen,Lene Jensen,SF - Socialistisk Folkeparti,5
+Hvidovre,2,Præstemoseskolen,F_Rasmus_Peter_Henriksen,Rasmus Peter Henriksen,SF - Socialistisk Folkeparti,5
+Hvidovre,2,Præstemoseskolen,F_Said_Noor_Nabil,Said Noor Nabil,SF - Socialistisk Folkeparti,7
+Hvidovre,2,Præstemoseskolen,F_Pernille_Blom_Hermansen,Pernille Blom Hermansen,SF - Socialistisk Folkeparti,7
+Hvidovre,2,Præstemoseskolen,F_Maria_Brandt_Avnskjold,Maria Brandt Avnskjold,SF - Socialistisk Folkeparti,5
+Hvidovre,2,Præstemoseskolen,F_Thomas_Møller,Thomas Møller,SF - Socialistisk Folkeparti,3
+Hvidovre,2,Præstemoseskolen,G_Listestemmer,Listestemmer,Veganerpartiet,2
+Hvidovre,2,Præstemoseskolen,G_Jonas_Lynggaard_Krarup,Jonas Lynggaard Krarup,Veganerpartiet,3
+Hvidovre,2,Præstemoseskolen,H_Listestemmer,Listestemmer,Hvidovrelisten,41
+Hvidovre,2,Præstemoseskolen,H_Kristina_Eileen_Young,Kristina Eileen Young,Hvidovrelisten,28
+Hvidovre,2,Præstemoseskolen,H_Arne_Bech,Arne Bech,Hvidovrelisten,27
+Hvidovre,2,Præstemoseskolen,H_Frank_Løber,Frank Løber,Hvidovrelisten,9
+Hvidovre,2,Præstemoseskolen,H_Karoline_Klock_Tjervåg_Cleemann,Karoline Klock Tjervåg Cleemann,Hvidovrelisten,15
+Hvidovre,2,Præstemoseskolen,H_Elin_Palm,Elin Palm,Hvidovrelisten,8
+Hvidovre,2,Præstemoseskolen,H_Kim_Holm,Kim Holm,Hvidovrelisten,12
+Hvidovre,2,Præstemoseskolen,H_Trine_Gregersen_Steensgaard,Trine Gregersen Steensgaard,Hvidovrelisten,14
+Hvidovre,2,Præstemoseskolen,H_Annette_Karina_Læbo,Annette Karina Læbo,Hvidovrelisten,1
+Hvidovre,2,Præstemoseskolen,H_Finn_Blohm,Finn Blohm,Hvidovrelisten,3
+Hvidovre,2,Præstemoseskolen,I_Listestemmer,Listestemmer,Liberal Alliance,10
+Hvidovre,2,Præstemoseskolen,I_Rene_Bathum_Pedersen,Rene Bathum Pedersen,Liberal Alliance,0
+Hvidovre,2,Præstemoseskolen,I_Morten_Kristoffer_Hansen,Morten Kristoffer Hansen,Liberal Alliance,1
+Hvidovre,2,Præstemoseskolen,I_Henrik_Holleufer,Henrik Holleufer,Liberal Alliance,5
+Hvidovre,2,Præstemoseskolen,L_Listestemmer,Listestemmer,Lokallisten 2650,0
+Hvidovre,2,Præstemoseskolen,L_Steen_Ørskov_Larsen,Steen Ørskov Larsen,Lokallisten 2650,12
+Hvidovre,2,Præstemoseskolen,O_Listestemmer,Listestemmer,Dansk Folkeparti,35
+Hvidovre,2,Præstemoseskolen,O_Mikkel_Sjøberg_Hjermind_Dencker,Mikkel Sjøberg Hjermind Dencker,Dansk Folkeparti,67
+Hvidovre,2,Præstemoseskolen,O_Rene_Tommy_Langhorn,Rene Tommy Langhorn,Dansk Folkeparti,10
+Hvidovre,2,Præstemoseskolen,O_Peter_Dencker,Peter Dencker,Dansk Folkeparti,6
+Hvidovre,2,Præstemoseskolen,O_Ivan_Fogtmann,Ivan Fogtmann,Dansk Folkeparti,5
+Hvidovre,2,Præstemoseskolen,R_Listestemmer,Listestemmer,Kommunistisk Liste,6
+Hvidovre,2,Præstemoseskolen,R_Nikolai_Silas_Christoph_Aamand,Nikolai Silas Christoph Aamand,Kommunistisk Liste,0
+Hvidovre,2,Præstemoseskolen,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",50
+Hvidovre,2,Præstemoseskolen,V_Charlotte_Munch,Charlotte Munch,"Venstre, Danmarks Liberale Parti",40
+Hvidovre,2,Præstemoseskolen,V_Torben_Nowicki_Rasmussen,Torben Nowicki Rasmussen,"Venstre, Danmarks Liberale Parti",4
+Hvidovre,2,Præstemoseskolen,V_Lise-Lotte_Rasmussen,Lise-Lotte Rasmussen,"Venstre, Danmarks Liberale Parti",12
+Hvidovre,2,Præstemoseskolen,V_Jens_Erik_Hummelmose,Jens Erik Hummelmose,"Venstre, Danmarks Liberale Parti",0
+Hvidovre,2,Præstemoseskolen,V_Anette_Farnø_Skourup,Anette Farnø Skourup,"Venstre, Danmarks Liberale Parti",1
+Hvidovre,2,Præstemoseskolen,V_Mathias_Rinaldo,Mathias Rinaldo,"Venstre, Danmarks Liberale Parti",8
+Hvidovre,2,Præstemoseskolen,V_Pernille_Dupont,Pernille Dupont,"Venstre, Danmarks Liberale Parti",7
+Hvidovre,2,Præstemoseskolen,V_Leon_Tilgaard,Leon Tilgaard,"Venstre, Danmarks Liberale Parti",3
+Hvidovre,2,Præstemoseskolen,V_Susanne_Nowicki_Rasmussen,Susanne Nowicki Rasmussen,"Venstre, Danmarks Liberale Parti",3
+Hvidovre,2,Præstemoseskolen,V_Pia_Szymanski_Vermundsen,Pia Szymanski Vermundsen,"Venstre, Danmarks Liberale Parti",0
+Hvidovre,2,Præstemoseskolen,V_Henrik_Farnø,Henrik Farnø,"Venstre, Danmarks Liberale Parti",0
+Hvidovre,2,Præstemoseskolen,V_Marcus_Bjerre,Marcus Bjerre,"Venstre, Danmarks Liberale Parti",0
+Hvidovre,2,Præstemoseskolen,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,59
+Hvidovre,2,Præstemoseskolen,Ø_Karin_Lizzy_Kofod,Karin Lizzy Kofod,Enhedslisten - De Rød-Grønne,21
+Hvidovre,2,Præstemoseskolen,Ø_Thomas_Høgsberg_Andersen,Thomas Høgsberg Andersen,Enhedslisten - De Rød-Grønne,4
+Hvidovre,2,Præstemoseskolen,Ø_Gert_Wahl,Gert Wahl,Enhedslisten - De Rød-Grønne,5
+Hvidovre,2,Præstemoseskolen,Ø_Helene_Caprani,Helene Caprani,Enhedslisten - De Rød-Grønne,8
+Hvidovre,2,Præstemoseskolen,Ø_Birthe_Bang_Larsen,Birthe Bang Larsen,Enhedslisten - De Rød-Grønne,2
+Hvidovre,3,Sønderkærskolen,A_Listestemmer,Listestemmer,Socialdemokratiet,322
+Hvidovre,3,Sønderkærskolen,A_Helle_Kirstine_Moesgaard_Adelborg,Helle Kirstine Moesgaard Adelborg,Socialdemokratiet,385
+Hvidovre,3,Sønderkærskolen,A_Kenneth_Fendrich_Christensen,Kenneth Fendrich Christensen,Socialdemokratiet,32
+Hvidovre,3,Sønderkærskolen,A_Anders_Liltorp,Anders Liltorp,Socialdemokratiet,26
+Hvidovre,3,Sønderkærskolen,A_Lars_Gundelack_Jensen,Lars Gundelack Jensen,Socialdemokratiet,33
+Hvidovre,3,Sønderkærskolen,A_Maria_Staghøj_Durhuus,Maria Staghøj Durhuus,Socialdemokratiet,32
+Hvidovre,3,Sønderkærskolen,A_Lars_Andersen,Lars Andersen,Socialdemokratiet,18
+Hvidovre,3,Sønderkærskolen,A_Amanda_Irina_Larsen,Amanda Irina Larsen,Socialdemokratiet,16
+Hvidovre,3,Sønderkærskolen,A_Vagn_Majland,Vagn Majland,Socialdemokratiet,6
+Hvidovre,3,Sønderkærskolen,A_Benthe_Viola_Hildeborg_Holm,Benthe Viola Hildeborg Holm,Socialdemokratiet,1
+Hvidovre,3,Sønderkærskolen,A_Yasir_Iqbal,Yasir Iqbal,Socialdemokratiet,33
+Hvidovre,3,Sønderkærskolen,A_Lotte_Stjernholm_Christiansen,Lotte Stjernholm Christiansen,Socialdemokratiet,10
+Hvidovre,3,Sønderkærskolen,A_Jette_Therese_Jørgensen,Jette Therese Jørgensen,Socialdemokratiet,0
+Hvidovre,3,Sønderkærskolen,A_Jakob_Lavlund_Borberg,Jakob Lavlund Borberg,Socialdemokratiet,7
+Hvidovre,3,Sønderkærskolen,A_Stefan_Bruse_thor_Straten,Stefan Bruse thor Straten,Socialdemokratiet,17
+Hvidovre,3,Sønderkærskolen,A_Idris_Murat_Yorulmaz,Idris Murat Yorulmaz,Socialdemokratiet,20
+Hvidovre,3,Sønderkærskolen,A_Kurt_Normark,Kurt Normark,Socialdemokratiet,6
+Hvidovre,3,Sønderkærskolen,A_Robert_Jakobsen,Robert Jakobsen,Socialdemokratiet,4
+Hvidovre,3,Sønderkærskolen,A_Carsten_Jelund,Carsten Jelund,Socialdemokratiet,2
+Hvidovre,3,Sønderkærskolen,A_Mikail_Erman,Mikail Erman,Socialdemokratiet,7
+Hvidovre,3,Sønderkærskolen,A_Mette_Brix_Johansen,Mette Brix Johansen,Socialdemokratiet,3
+Hvidovre,3,Sønderkærskolen,A_Ann-Mari_Lundbæk_Lauritsen,Ann-Mari Lundbæk Lauritsen,Socialdemokratiet,4
+Hvidovre,3,Sønderkærskolen,B_Listestemmer,Listestemmer,Radikale Venstre,35
+Hvidovre,3,Sønderkærskolen,B_Susanne_Wad_Leth,Susanne Wad Leth,Radikale Venstre,38
+Hvidovre,3,Sønderkærskolen,B_Jens_Peter_Andersen,Jens Peter Andersen,Radikale Venstre,6
+Hvidovre,3,Sønderkærskolen,B_Ane_Skjødsholm,Ane Skjødsholm,Radikale Venstre,0
+Hvidovre,3,Sønderkærskolen,B_Flemming_Bryde_Thøgersen,Flemming Bryde Thøgersen,Radikale Venstre,0
+Hvidovre,3,Sønderkærskolen,B_Charlotte_Noer_Helleberg,Charlotte Noer Helleberg,Radikale Venstre,9
+Hvidovre,3,Sønderkærskolen,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,170
+Hvidovre,3,Sønderkærskolen,C_Søren_Friis_Trebbien,Søren Friis Trebbien,Det Konservative Folkeparti,35
+Hvidovre,3,Sønderkærskolen,C_Tina_Cartey_Hansen,Tina Cartey Hansen,Det Konservative Folkeparti,28
+Hvidovre,3,Sønderkærskolen,C_Jimmy_Jensen,Jimmy Jensen,Det Konservative Folkeparti,12
+Hvidovre,3,Sønderkærskolen,C_Silas_Kristen_Overgaard_Fisker,Silas Kristen Overgaard Fisker,Det Konservative Folkeparti,31
+Hvidovre,3,Sønderkærskolen,C_Kenneth_Bak,Kenneth Bak,Det Konservative Folkeparti,18
+Hvidovre,3,Sønderkærskolen,C_Michael_Peter_Sabroe,Michael Peter Sabroe,Det Konservative Folkeparti,7
+Hvidovre,3,Sønderkærskolen,C_Carsten_Nymand_Provstgaard,Carsten Nymand Provstgaard,Det Konservative Folkeparti,19
+Hvidovre,3,Sønderkærskolen,C_Sanne_Ørskov_Rishøj,Sanne Ørskov Rishøj,Det Konservative Folkeparti,29
+Hvidovre,3,Sønderkærskolen,C_Peshtiwan_Zewkaei,Peshtiwan Zewkaei,Det Konservative Folkeparti,3
+Hvidovre,3,Sønderkærskolen,C_Maria_Vistisen,Maria Vistisen,Det Konservative Folkeparti,4
+Hvidovre,3,Sønderkærskolen,C_Johnny_Berg,Johnny Berg,Det Konservative Folkeparti,20
+Hvidovre,3,Sønderkærskolen,C_Ejner_Skræddergaard,Ejner Skræddergaard,Det Konservative Folkeparti,1
+Hvidovre,3,Sønderkærskolen,C_Dorthe_Steen_Rimmer_Hansen,Dorthe Steen Rimmer Hansen,Det Konservative Folkeparti,6
+Hvidovre,3,Sønderkærskolen,C_Stig_Jørgensen,Stig Jørgensen,Det Konservative Folkeparti,2
+Hvidovre,3,Sønderkærskolen,D_Listestemmer,Listestemmer,Nye Borgerlige,60
+Hvidovre,3,Sønderkærskolen,D_Martin_Findahl_Amby,Martin Findahl Amby,Nye Borgerlige,35
+Hvidovre,3,Sønderkærskolen,D_Dan_Petersen,Dan Petersen,Nye Borgerlige,8
+Hvidovre,3,Sønderkærskolen,D_Jan_Bille_Sørensen,Jan Bille Sørensen,Nye Borgerlige,3
+Hvidovre,3,Sønderkærskolen,D_Jeppe_Martin_Weisse,Jeppe Martin Weisse,Nye Borgerlige,6
+Hvidovre,3,Sønderkærskolen,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,144
+Hvidovre,3,Sønderkærskolen,F_Anders_Wolf_Andresen,Anders Wolf Andresen,SF - Socialistisk Folkeparti,106
+Hvidovre,3,Sønderkærskolen,F_Sara_Gry_Benzon_Larsen,Sara Gry Benzon Larsen,SF - Socialistisk Folkeparti,50
+Hvidovre,3,Sønderkærskolen,F_Marie-Louise_Peschardt_Jørgensen,Marie-Louise Peschardt Jørgensen,SF - Socialistisk Folkeparti,20
+Hvidovre,3,Sønderkærskolen,F_Bent_Bjørn_Roldgaard,Bent Bjørn Roldgaard,SF - Socialistisk Folkeparti,7
+Hvidovre,3,Sønderkærskolen,F_Kristine_Amalie_Rigmor_Rostgård,Kristine Amalie Rigmor Rostgård,SF - Socialistisk Folkeparti,30
+Hvidovre,3,Sønderkærskolen,F_Lene_Jensen,Lene Jensen,SF - Socialistisk Folkeparti,5
+Hvidovre,3,Sønderkærskolen,F_Rasmus_Peter_Henriksen,Rasmus Peter Henriksen,SF - Socialistisk Folkeparti,1
+Hvidovre,3,Sønderkærskolen,F_Said_Noor_Nabil,Said Noor Nabil,SF - Socialistisk Folkeparti,10
+Hvidovre,3,Sønderkærskolen,F_Pernille_Blom_Hermansen,Pernille Blom Hermansen,SF - Socialistisk Folkeparti,23
+Hvidovre,3,Sønderkærskolen,F_Maria_Brandt_Avnskjold,Maria Brandt Avnskjold,SF - Socialistisk Folkeparti,6
+Hvidovre,3,Sønderkærskolen,F_Thomas_Møller,Thomas Møller,SF - Socialistisk Folkeparti,11
+Hvidovre,3,Sønderkærskolen,G_Listestemmer,Listestemmer,Veganerpartiet,2
+Hvidovre,3,Sønderkærskolen,G_Jonas_Lynggaard_Krarup,Jonas Lynggaard Krarup,Veganerpartiet,10
+Hvidovre,3,Sønderkærskolen,H_Listestemmer,Listestemmer,Hvidovrelisten,44
+Hvidovre,3,Sønderkærskolen,H_Kristina_Eileen_Young,Kristina Eileen Young,Hvidovrelisten,28
+Hvidovre,3,Sønderkærskolen,H_Arne_Bech,Arne Bech,Hvidovrelisten,25
+Hvidovre,3,Sønderkærskolen,H_Frank_Løber,Frank Løber,Hvidovrelisten,6
+Hvidovre,3,Sønderkærskolen,H_Karoline_Klock_Tjervåg_Cleemann,Karoline Klock Tjervåg Cleemann,Hvidovrelisten,17
+Hvidovre,3,Sønderkærskolen,H_Elin_Palm,Elin Palm,Hvidovrelisten,8
+Hvidovre,3,Sønderkærskolen,H_Kim_Holm,Kim Holm,Hvidovrelisten,13
+Hvidovre,3,Sønderkærskolen,H_Trine_Gregersen_Steensgaard,Trine Gregersen Steensgaard,Hvidovrelisten,1
+Hvidovre,3,Sønderkærskolen,H_Annette_Karina_Læbo,Annette Karina Læbo,Hvidovrelisten,1
+Hvidovre,3,Sønderkærskolen,H_Finn_Blohm,Finn Blohm,Hvidovrelisten,1
+Hvidovre,3,Sønderkærskolen,I_Listestemmer,Listestemmer,Liberal Alliance,10
+Hvidovre,3,Sønderkærskolen,I_Rene_Bathum_Pedersen,Rene Bathum Pedersen,Liberal Alliance,8
+Hvidovre,3,Sønderkærskolen,I_Morten_Kristoffer_Hansen,Morten Kristoffer Hansen,Liberal Alliance,6
+Hvidovre,3,Sønderkærskolen,I_Henrik_Holleufer,Henrik Holleufer,Liberal Alliance,3
+Hvidovre,3,Sønderkærskolen,L_Listestemmer,Listestemmer,Lokallisten 2650,6
+Hvidovre,3,Sønderkærskolen,L_Steen_Ørskov_Larsen,Steen Ørskov Larsen,Lokallisten 2650,16
+Hvidovre,3,Sønderkærskolen,O_Listestemmer,Listestemmer,Dansk Folkeparti,52
+Hvidovre,3,Sønderkærskolen,O_Mikkel_Sjøberg_Hjermind_Dencker,Mikkel Sjøberg Hjermind Dencker,Dansk Folkeparti,84
+Hvidovre,3,Sønderkærskolen,O_Rene_Tommy_Langhorn,Rene Tommy Langhorn,Dansk Folkeparti,9
+Hvidovre,3,Sønderkærskolen,O_Peter_Dencker,Peter Dencker,Dansk Folkeparti,5
+Hvidovre,3,Sønderkærskolen,O_Ivan_Fogtmann,Ivan Fogtmann,Dansk Folkeparti,5
+Hvidovre,3,Sønderkærskolen,R_Listestemmer,Listestemmer,Kommunistisk Liste,0
+Hvidovre,3,Sønderkærskolen,R_Nikolai_Silas_Christoph_Aamand,Nikolai Silas Christoph Aamand,Kommunistisk Liste,5
+Hvidovre,3,Sønderkærskolen,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",61
+Hvidovre,3,Sønderkærskolen,V_Charlotte_Munch,Charlotte Munch,"Venstre, Danmarks Liberale Parti",48
+Hvidovre,3,Sønderkærskolen,V_Torben_Nowicki_Rasmussen,Torben Nowicki Rasmussen,"Venstre, Danmarks Liberale Parti",1
+Hvidovre,3,Sønderkærskolen,V_Lise-Lotte_Rasmussen,Lise-Lotte Rasmussen,"Venstre, Danmarks Liberale Parti",7
+Hvidovre,3,Sønderkærskolen,V_Jens_Erik_Hummelmose,Jens Erik Hummelmose,"Venstre, Danmarks Liberale Parti",15
+Hvidovre,3,Sønderkærskolen,V_Anette_Farnø_Skourup,Anette Farnø Skourup,"Venstre, Danmarks Liberale Parti",3
+Hvidovre,3,Sønderkærskolen,V_Mathias_Rinaldo,Mathias Rinaldo,"Venstre, Danmarks Liberale Parti",10
+Hvidovre,3,Sønderkærskolen,V_Pernille_Dupont,Pernille Dupont,"Venstre, Danmarks Liberale Parti",7
+Hvidovre,3,Sønderkærskolen,V_Leon_Tilgaard,Leon Tilgaard,"Venstre, Danmarks Liberale Parti",3
+Hvidovre,3,Sønderkærskolen,V_Susanne_Nowicki_Rasmussen,Susanne Nowicki Rasmussen,"Venstre, Danmarks Liberale Parti",3
+Hvidovre,3,Sønderkærskolen,V_Pia_Szymanski_Vermundsen,Pia Szymanski Vermundsen,"Venstre, Danmarks Liberale Parti",1
+Hvidovre,3,Sønderkærskolen,V_Henrik_Farnø,Henrik Farnø,"Venstre, Danmarks Liberale Parti",1
+Hvidovre,3,Sønderkærskolen,V_Marcus_Bjerre,Marcus Bjerre,"Venstre, Danmarks Liberale Parti",0
+Hvidovre,3,Sønderkærskolen,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,105
+Hvidovre,3,Sønderkærskolen,Ø_Karin_Lizzy_Kofod,Karin Lizzy Kofod,Enhedslisten - De Rød-Grønne,37
+Hvidovre,3,Sønderkærskolen,Ø_Thomas_Høgsberg_Andersen,Thomas Høgsberg Andersen,Enhedslisten - De Rød-Grønne,9
+Hvidovre,3,Sønderkærskolen,Ø_Gert_Wahl,Gert Wahl,Enhedslisten - De Rød-Grønne,9
+Hvidovre,3,Sønderkærskolen,Ø_Helene_Caprani,Helene Caprani,Enhedslisten - De Rød-Grønne,12
+Hvidovre,3,Sønderkærskolen,Ø_Birthe_Bang_Larsen,Birthe Bang Larsen,Enhedslisten - De Rød-Grønne,4
+Hvidovre,4,Kometen,A_Listestemmer,Listestemmer,Socialdemokratiet,307
+Hvidovre,4,Kometen,A_Helle_Kirstine_Moesgaard_Adelborg,Helle Kirstine Moesgaard Adelborg,Socialdemokratiet,460
+Hvidovre,4,Kometen,A_Kenneth_Fendrich_Christensen,Kenneth Fendrich Christensen,Socialdemokratiet,26
+Hvidovre,4,Kometen,A_Anders_Liltorp,Anders Liltorp,Socialdemokratiet,23
+Hvidovre,4,Kometen,A_Lars_Gundelack_Jensen,Lars Gundelack Jensen,Socialdemokratiet,20
+Hvidovre,4,Kometen,A_Maria_Staghøj_Durhuus,Maria Staghøj Durhuus,Socialdemokratiet,77
+Hvidovre,4,Kometen,A_Lars_Andersen,Lars Andersen,Socialdemokratiet,7
+Hvidovre,4,Kometen,A_Amanda_Irina_Larsen,Amanda Irina Larsen,Socialdemokratiet,31
+Hvidovre,4,Kometen,A_Vagn_Majland,Vagn Majland,Socialdemokratiet,9
+Hvidovre,4,Kometen,A_Benthe_Viola_Hildeborg_Holm,Benthe Viola Hildeborg Holm,Socialdemokratiet,5
+Hvidovre,4,Kometen,A_Yasir_Iqbal,Yasir Iqbal,Socialdemokratiet,10
+Hvidovre,4,Kometen,A_Lotte_Stjernholm_Christiansen,Lotte Stjernholm Christiansen,Socialdemokratiet,21
+Hvidovre,4,Kometen,A_Jette_Therese_Jørgensen,Jette Therese Jørgensen,Socialdemokratiet,11
+Hvidovre,4,Kometen,A_Jakob_Lavlund_Borberg,Jakob Lavlund Borberg,Socialdemokratiet,5
+Hvidovre,4,Kometen,A_Stefan_Bruse_thor_Straten,Stefan Bruse thor Straten,Socialdemokratiet,26
+Hvidovre,4,Kometen,A_Idris_Murat_Yorulmaz,Idris Murat Yorulmaz,Socialdemokratiet,12
+Hvidovre,4,Kometen,A_Kurt_Normark,Kurt Normark,Socialdemokratiet,2
+Hvidovre,4,Kometen,A_Robert_Jakobsen,Robert Jakobsen,Socialdemokratiet,3
+Hvidovre,4,Kometen,A_Carsten_Jelund,Carsten Jelund,Socialdemokratiet,4
+Hvidovre,4,Kometen,A_Mikail_Erman,Mikail Erman,Socialdemokratiet,7
+Hvidovre,4,Kometen,A_Mette_Brix_Johansen,Mette Brix Johansen,Socialdemokratiet,3
+Hvidovre,4,Kometen,A_Ann-Mari_Lundbæk_Lauritsen,Ann-Mari Lundbæk Lauritsen,Socialdemokratiet,5
+Hvidovre,4,Kometen,B_Listestemmer,Listestemmer,Radikale Venstre,45
+Hvidovre,4,Kometen,B_Susanne_Wad_Leth,Susanne Wad Leth,Radikale Venstre,29
+Hvidovre,4,Kometen,B_Jens_Peter_Andersen,Jens Peter Andersen,Radikale Venstre,7
+Hvidovre,4,Kometen,B_Ane_Skjødsholm,Ane Skjødsholm,Radikale Venstre,0
+Hvidovre,4,Kometen,B_Flemming_Bryde_Thøgersen,Flemming Bryde Thøgersen,Radikale Venstre,2
+Hvidovre,4,Kometen,B_Charlotte_Noer_Helleberg,Charlotte Noer Helleberg,Radikale Venstre,8
+Hvidovre,4,Kometen,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,170
+Hvidovre,4,Kometen,C_Søren_Friis_Trebbien,Søren Friis Trebbien,Det Konservative Folkeparti,40
+Hvidovre,4,Kometen,C_Tina_Cartey_Hansen,Tina Cartey Hansen,Det Konservative Folkeparti,48
+Hvidovre,4,Kometen,C_Jimmy_Jensen,Jimmy Jensen,Det Konservative Folkeparti,15
+Hvidovre,4,Kometen,C_Silas_Kristen_Overgaard_Fisker,Silas Kristen Overgaard Fisker,Det Konservative Folkeparti,36
+Hvidovre,4,Kometen,C_Kenneth_Bak,Kenneth Bak,Det Konservative Folkeparti,26
+Hvidovre,4,Kometen,C_Michael_Peter_Sabroe,Michael Peter Sabroe,Det Konservative Folkeparti,30
+Hvidovre,4,Kometen,C_Carsten_Nymand_Provstgaard,Carsten Nymand Provstgaard,Det Konservative Folkeparti,30
+Hvidovre,4,Kometen,C_Sanne_Ørskov_Rishøj,Sanne Ørskov Rishøj,Det Konservative Folkeparti,32
+Hvidovre,4,Kometen,C_Peshtiwan_Zewkaei,Peshtiwan Zewkaei,Det Konservative Folkeparti,3
+Hvidovre,4,Kometen,C_Maria_Vistisen,Maria Vistisen,Det Konservative Folkeparti,2
+Hvidovre,4,Kometen,C_Johnny_Berg,Johnny Berg,Det Konservative Folkeparti,12
+Hvidovre,4,Kometen,C_Ejner_Skræddergaard,Ejner Skræddergaard,Det Konservative Folkeparti,3
+Hvidovre,4,Kometen,C_Dorthe_Steen_Rimmer_Hansen,Dorthe Steen Rimmer Hansen,Det Konservative Folkeparti,7
+Hvidovre,4,Kometen,C_Stig_Jørgensen,Stig Jørgensen,Det Konservative Folkeparti,2
+Hvidovre,4,Kometen,D_Listestemmer,Listestemmer,Nye Borgerlige,41
+Hvidovre,4,Kometen,D_Martin_Findahl_Amby,Martin Findahl Amby,Nye Borgerlige,37
+Hvidovre,4,Kometen,D_Dan_Petersen,Dan Petersen,Nye Borgerlige,13
+Hvidovre,4,Kometen,D_Jan_Bille_Sørensen,Jan Bille Sørensen,Nye Borgerlige,4
+Hvidovre,4,Kometen,D_Jeppe_Martin_Weisse,Jeppe Martin Weisse,Nye Borgerlige,4
+Hvidovre,4,Kometen,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,194
+Hvidovre,4,Kometen,F_Anders_Wolf_Andresen,Anders Wolf Andresen,SF - Socialistisk Folkeparti,180
+Hvidovre,4,Kometen,F_Sara_Gry_Benzon_Larsen,Sara Gry Benzon Larsen,SF - Socialistisk Folkeparti,68
+Hvidovre,4,Kometen,F_Marie-Louise_Peschardt_Jørgensen,Marie-Louise Peschardt Jørgensen,SF - Socialistisk Folkeparti,35
+Hvidovre,4,Kometen,F_Bent_Bjørn_Roldgaard,Bent Bjørn Roldgaard,SF - Socialistisk Folkeparti,15
+Hvidovre,4,Kometen,F_Kristine_Amalie_Rigmor_Rostgård,Kristine Amalie Rigmor Rostgård,SF - Socialistisk Folkeparti,42
+Hvidovre,4,Kometen,F_Lene_Jensen,Lene Jensen,SF - Socialistisk Folkeparti,8
+Hvidovre,4,Kometen,F_Rasmus_Peter_Henriksen,Rasmus Peter Henriksen,SF - Socialistisk Folkeparti,4
+Hvidovre,4,Kometen,F_Said_Noor_Nabil,Said Noor Nabil,SF - Socialistisk Folkeparti,15
+Hvidovre,4,Kometen,F_Pernille_Blom_Hermansen,Pernille Blom Hermansen,SF - Socialistisk Folkeparti,18
+Hvidovre,4,Kometen,F_Maria_Brandt_Avnskjold,Maria Brandt Avnskjold,SF - Socialistisk Folkeparti,9
+Hvidovre,4,Kometen,F_Thomas_Møller,Thomas Møller,SF - Socialistisk Folkeparti,7
+Hvidovre,4,Kometen,G_Listestemmer,Listestemmer,Veganerpartiet,0
+Hvidovre,4,Kometen,G_Jonas_Lynggaard_Krarup,Jonas Lynggaard Krarup,Veganerpartiet,11
+Hvidovre,4,Kometen,H_Listestemmer,Listestemmer,Hvidovrelisten,71
+Hvidovre,4,Kometen,H_Kristina_Eileen_Young,Kristina Eileen Young,Hvidovrelisten,53
+Hvidovre,4,Kometen,H_Arne_Bech,Arne Bech,Hvidovrelisten,25
+Hvidovre,4,Kometen,H_Frank_Løber,Frank Løber,Hvidovrelisten,20
+Hvidovre,4,Kometen,H_Karoline_Klock_Tjervåg_Cleemann,Karoline Klock Tjervåg Cleemann,Hvidovrelisten,23
+Hvidovre,4,Kometen,H_Elin_Palm,Elin Palm,Hvidovrelisten,22
+Hvidovre,4,Kometen,H_Kim_Holm,Kim Holm,Hvidovrelisten,14
+Hvidovre,4,Kometen,H_Trine_Gregersen_Steensgaard,Trine Gregersen Steensgaard,Hvidovrelisten,4
+Hvidovre,4,Kometen,H_Annette_Karina_Læbo,Annette Karina Læbo,Hvidovrelisten,0
+Hvidovre,4,Kometen,H_Finn_Blohm,Finn Blohm,Hvidovrelisten,4
+Hvidovre,4,Kometen,I_Listestemmer,Listestemmer,Liberal Alliance,16
+Hvidovre,4,Kometen,I_Rene_Bathum_Pedersen,Rene Bathum Pedersen,Liberal Alliance,13
+Hvidovre,4,Kometen,I_Morten_Kristoffer_Hansen,Morten Kristoffer Hansen,Liberal Alliance,1
+Hvidovre,4,Kometen,I_Henrik_Holleufer,Henrik Holleufer,Liberal Alliance,6
+Hvidovre,4,Kometen,L_Listestemmer,Listestemmer,Lokallisten 2650,5
+Hvidovre,4,Kometen,L_Steen_Ørskov_Larsen,Steen Ørskov Larsen,Lokallisten 2650,20
+Hvidovre,4,Kometen,O_Listestemmer,Listestemmer,Dansk Folkeparti,65
+Hvidovre,4,Kometen,O_Mikkel_Sjøberg_Hjermind_Dencker,Mikkel Sjøberg Hjermind Dencker,Dansk Folkeparti,84
+Hvidovre,4,Kometen,O_Rene_Tommy_Langhorn,Rene Tommy Langhorn,Dansk Folkeparti,19
+Hvidovre,4,Kometen,O_Peter_Dencker,Peter Dencker,Dansk Folkeparti,7
+Hvidovre,4,Kometen,O_Ivan_Fogtmann,Ivan Fogtmann,Dansk Folkeparti,16
+Hvidovre,4,Kometen,R_Listestemmer,Listestemmer,Kommunistisk Liste,1
+Hvidovre,4,Kometen,R_Nikolai_Silas_Christoph_Aamand,Nikolai Silas Christoph Aamand,Kommunistisk Liste,0
+Hvidovre,4,Kometen,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",61
+Hvidovre,4,Kometen,V_Charlotte_Munch,Charlotte Munch,"Venstre, Danmarks Liberale Parti",72
+Hvidovre,4,Kometen,V_Torben_Nowicki_Rasmussen,Torben Nowicki Rasmussen,"Venstre, Danmarks Liberale Parti",1
+Hvidovre,4,Kometen,V_Lise-Lotte_Rasmussen,Lise-Lotte Rasmussen,"Venstre, Danmarks Liberale Parti",10
+Hvidovre,4,Kometen,V_Jens_Erik_Hummelmose,Jens Erik Hummelmose,"Venstre, Danmarks Liberale Parti",5
+Hvidovre,4,Kometen,V_Anette_Farnø_Skourup,Anette Farnø Skourup,"Venstre, Danmarks Liberale Parti",1
+Hvidovre,4,Kometen,V_Mathias_Rinaldo,Mathias Rinaldo,"Venstre, Danmarks Liberale Parti",4
+Hvidovre,4,Kometen,V_Pernille_Dupont,Pernille Dupont,"Venstre, Danmarks Liberale Parti",8
+Hvidovre,4,Kometen,V_Leon_Tilgaard,Leon Tilgaard,"Venstre, Danmarks Liberale Parti",7
+Hvidovre,4,Kometen,V_Susanne_Nowicki_Rasmussen,Susanne Nowicki Rasmussen,"Venstre, Danmarks Liberale Parti",0
+Hvidovre,4,Kometen,V_Pia_Szymanski_Vermundsen,Pia Szymanski Vermundsen,"Venstre, Danmarks Liberale Parti",7
+Hvidovre,4,Kometen,V_Henrik_Farnø,Henrik Farnø,"Venstre, Danmarks Liberale Parti",1
+Hvidovre,4,Kometen,V_Marcus_Bjerre,Marcus Bjerre,"Venstre, Danmarks Liberale Parti",0
+Hvidovre,4,Kometen,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,95
+Hvidovre,4,Kometen,Ø_Karin_Lizzy_Kofod,Karin Lizzy Kofod,Enhedslisten - De Rød-Grønne,33
+Hvidovre,4,Kometen,Ø_Thomas_Høgsberg_Andersen,Thomas Høgsberg Andersen,Enhedslisten - De Rød-Grønne,5
+Hvidovre,4,Kometen,Ø_Gert_Wahl,Gert Wahl,Enhedslisten - De Rød-Grønne,11
+Hvidovre,4,Kometen,Ø_Helene_Caprani,Helene Caprani,Enhedslisten - De Rød-Grønne,15
+Hvidovre,4,Kometen,Ø_Birthe_Bang_Larsen,Birthe Bang Larsen,Enhedslisten - De Rød-Grønne,4
+Hvidovre,5,Dansborghallen,A_Listestemmer,Listestemmer,Socialdemokratiet,293
+Hvidovre,5,Dansborghallen,A_Helle_Kirstine_Moesgaard_Adelborg,Helle Kirstine Moesgaard Adelborg,Socialdemokratiet,422
+Hvidovre,5,Dansborghallen,A_Kenneth_Fendrich_Christensen,Kenneth Fendrich Christensen,Socialdemokratiet,28
+Hvidovre,5,Dansborghallen,A_Anders_Liltorp,Anders Liltorp,Socialdemokratiet,23
+Hvidovre,5,Dansborghallen,A_Lars_Gundelack_Jensen,Lars Gundelack Jensen,Socialdemokratiet,35
+Hvidovre,5,Dansborghallen,A_Maria_Staghøj_Durhuus,Maria Staghøj Durhuus,Socialdemokratiet,37
+Hvidovre,5,Dansborghallen,A_Lars_Andersen,Lars Andersen,Socialdemokratiet,23
+Hvidovre,5,Dansborghallen,A_Amanda_Irina_Larsen,Amanda Irina Larsen,Socialdemokratiet,34
+Hvidovre,5,Dansborghallen,A_Vagn_Majland,Vagn Majland,Socialdemokratiet,6
+Hvidovre,5,Dansborghallen,A_Benthe_Viola_Hildeborg_Holm,Benthe Viola Hildeborg Holm,Socialdemokratiet,3
+Hvidovre,5,Dansborghallen,A_Yasir_Iqbal,Yasir Iqbal,Socialdemokratiet,52
+Hvidovre,5,Dansborghallen,A_Lotte_Stjernholm_Christiansen,Lotte Stjernholm Christiansen,Socialdemokratiet,13
+Hvidovre,5,Dansborghallen,A_Jette_Therese_Jørgensen,Jette Therese Jørgensen,Socialdemokratiet,3
+Hvidovre,5,Dansborghallen,A_Jakob_Lavlund_Borberg,Jakob Lavlund Borberg,Socialdemokratiet,24
+Hvidovre,5,Dansborghallen,A_Stefan_Bruse_thor_Straten,Stefan Bruse thor Straten,Socialdemokratiet,55
+Hvidovre,5,Dansborghallen,A_Idris_Murat_Yorulmaz,Idris Murat Yorulmaz,Socialdemokratiet,12
+Hvidovre,5,Dansborghallen,A_Kurt_Normark,Kurt Normark,Socialdemokratiet,21
+Hvidovre,5,Dansborghallen,A_Robert_Jakobsen,Robert Jakobsen,Socialdemokratiet,1
+Hvidovre,5,Dansborghallen,A_Carsten_Jelund,Carsten Jelund,Socialdemokratiet,4
+Hvidovre,5,Dansborghallen,A_Mikail_Erman,Mikail Erman,Socialdemokratiet,7
+Hvidovre,5,Dansborghallen,A_Mette_Brix_Johansen,Mette Brix Johansen,Socialdemokratiet,2
+Hvidovre,5,Dansborghallen,A_Ann-Mari_Lundbæk_Lauritsen,Ann-Mari Lundbæk Lauritsen,Socialdemokratiet,3
+Hvidovre,5,Dansborghallen,B_Listestemmer,Listestemmer,Radikale Venstre,54
+Hvidovre,5,Dansborghallen,B_Susanne_Wad_Leth,Susanne Wad Leth,Radikale Venstre,32
+Hvidovre,5,Dansborghallen,B_Jens_Peter_Andersen,Jens Peter Andersen,Radikale Venstre,7
+Hvidovre,5,Dansborghallen,B_Ane_Skjødsholm,Ane Skjødsholm,Radikale Venstre,2
+Hvidovre,5,Dansborghallen,B_Flemming_Bryde_Thøgersen,Flemming Bryde Thøgersen,Radikale Venstre,5
+Hvidovre,5,Dansborghallen,B_Charlotte_Noer_Helleberg,Charlotte Noer Helleberg,Radikale Venstre,11
+Hvidovre,5,Dansborghallen,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,242
+Hvidovre,5,Dansborghallen,C_Søren_Friis_Trebbien,Søren Friis Trebbien,Det Konservative Folkeparti,60
+Hvidovre,5,Dansborghallen,C_Tina_Cartey_Hansen,Tina Cartey Hansen,Det Konservative Folkeparti,106
+Hvidovre,5,Dansborghallen,C_Jimmy_Jensen,Jimmy Jensen,Det Konservative Folkeparti,10
+Hvidovre,5,Dansborghallen,C_Silas_Kristen_Overgaard_Fisker,Silas Kristen Overgaard Fisker,Det Konservative Folkeparti,88
+Hvidovre,5,Dansborghallen,C_Kenneth_Bak,Kenneth Bak,Det Konservative Folkeparti,38
+Hvidovre,5,Dansborghallen,C_Michael_Peter_Sabroe,Michael Peter Sabroe,Det Konservative Folkeparti,38
+Hvidovre,5,Dansborghallen,C_Carsten_Nymand_Provstgaard,Carsten Nymand Provstgaard,Det Konservative Folkeparti,31
+Hvidovre,5,Dansborghallen,C_Sanne_Ørskov_Rishøj,Sanne Ørskov Rishøj,Det Konservative Folkeparti,18
+Hvidovre,5,Dansborghallen,C_Peshtiwan_Zewkaei,Peshtiwan Zewkaei,Det Konservative Folkeparti,8
+Hvidovre,5,Dansborghallen,C_Maria_Vistisen,Maria Vistisen,Det Konservative Folkeparti,4
+Hvidovre,5,Dansborghallen,C_Johnny_Berg,Johnny Berg,Det Konservative Folkeparti,8
+Hvidovre,5,Dansborghallen,C_Ejner_Skræddergaard,Ejner Skræddergaard,Det Konservative Folkeparti,3
+Hvidovre,5,Dansborghallen,C_Dorthe_Steen_Rimmer_Hansen,Dorthe Steen Rimmer Hansen,Det Konservative Folkeparti,12
+Hvidovre,5,Dansborghallen,C_Stig_Jørgensen,Stig Jørgensen,Det Konservative Folkeparti,2
+Hvidovre,5,Dansborghallen,D_Listestemmer,Listestemmer,Nye Borgerlige,51
+Hvidovre,5,Dansborghallen,D_Martin_Findahl_Amby,Martin Findahl Amby,Nye Borgerlige,30
+Hvidovre,5,Dansborghallen,D_Dan_Petersen,Dan Petersen,Nye Borgerlige,6
+Hvidovre,5,Dansborghallen,D_Jan_Bille_Sørensen,Jan Bille Sørensen,Nye Borgerlige,4
+Hvidovre,5,Dansborghallen,D_Jeppe_Martin_Weisse,Jeppe Martin Weisse,Nye Borgerlige,4
+Hvidovre,5,Dansborghallen,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,203
+Hvidovre,5,Dansborghallen,F_Anders_Wolf_Andresen,Anders Wolf Andresen,SF - Socialistisk Folkeparti,121
+Hvidovre,5,Dansborghallen,F_Sara_Gry_Benzon_Larsen,Sara Gry Benzon Larsen,SF - Socialistisk Folkeparti,81
+Hvidovre,5,Dansborghallen,F_Marie-Louise_Peschardt_Jørgensen,Marie-Louise Peschardt Jørgensen,SF - Socialistisk Folkeparti,24
+Hvidovre,5,Dansborghallen,F_Bent_Bjørn_Roldgaard,Bent Bjørn Roldgaard,SF - Socialistisk Folkeparti,32
+Hvidovre,5,Dansborghallen,F_Kristine_Amalie_Rigmor_Rostgård,Kristine Amalie Rigmor Rostgård,SF - Socialistisk Folkeparti,65
+Hvidovre,5,Dansborghallen,F_Lene_Jensen,Lene Jensen,SF - Socialistisk Folkeparti,6
+Hvidovre,5,Dansborghallen,F_Rasmus_Peter_Henriksen,Rasmus Peter Henriksen,SF - Socialistisk Folkeparti,4
+Hvidovre,5,Dansborghallen,F_Said_Noor_Nabil,Said Noor Nabil,SF - Socialistisk Folkeparti,4
+Hvidovre,5,Dansborghallen,F_Pernille_Blom_Hermansen,Pernille Blom Hermansen,SF - Socialistisk Folkeparti,10
+Hvidovre,5,Dansborghallen,F_Maria_Brandt_Avnskjold,Maria Brandt Avnskjold,SF - Socialistisk Folkeparti,42
+Hvidovre,5,Dansborghallen,F_Thomas_Møller,Thomas Møller,SF - Socialistisk Folkeparti,12
+Hvidovre,5,Dansborghallen,G_Listestemmer,Listestemmer,Veganerpartiet,3
+Hvidovre,5,Dansborghallen,G_Jonas_Lynggaard_Krarup,Jonas Lynggaard Krarup,Veganerpartiet,6
+Hvidovre,5,Dansborghallen,H_Listestemmer,Listestemmer,Hvidovrelisten,76
+Hvidovre,5,Dansborghallen,H_Kristina_Eileen_Young,Kristina Eileen Young,Hvidovrelisten,64
+Hvidovre,5,Dansborghallen,H_Arne_Bech,Arne Bech,Hvidovrelisten,26
+Hvidovre,5,Dansborghallen,H_Frank_Løber,Frank Løber,Hvidovrelisten,22
+Hvidovre,5,Dansborghallen,H_Karoline_Klock_Tjervåg_Cleemann,Karoline Klock Tjervåg Cleemann,Hvidovrelisten,41
+Hvidovre,5,Dansborghallen,H_Elin_Palm,Elin Palm,Hvidovrelisten,5
+Hvidovre,5,Dansborghallen,H_Kim_Holm,Kim Holm,Hvidovrelisten,8
+Hvidovre,5,Dansborghallen,H_Trine_Gregersen_Steensgaard,Trine Gregersen Steensgaard,Hvidovrelisten,7
+Hvidovre,5,Dansborghallen,H_Annette_Karina_Læbo,Annette Karina Læbo,Hvidovrelisten,1
+Hvidovre,5,Dansborghallen,H_Finn_Blohm,Finn Blohm,Hvidovrelisten,1
+Hvidovre,5,Dansborghallen,I_Listestemmer,Listestemmer,Liberal Alliance,17
+Hvidovre,5,Dansborghallen,I_Rene_Bathum_Pedersen,Rene Bathum Pedersen,Liberal Alliance,9
+Hvidovre,5,Dansborghallen,I_Morten_Kristoffer_Hansen,Morten Kristoffer Hansen,Liberal Alliance,1
+Hvidovre,5,Dansborghallen,I_Henrik_Holleufer,Henrik Holleufer,Liberal Alliance,12
+Hvidovre,5,Dansborghallen,L_Listestemmer,Listestemmer,Lokallisten 2650,4
+Hvidovre,5,Dansborghallen,L_Steen_Ørskov_Larsen,Steen Ørskov Larsen,Lokallisten 2650,30
+Hvidovre,5,Dansborghallen,O_Listestemmer,Listestemmer,Dansk Folkeparti,49
+Hvidovre,5,Dansborghallen,O_Mikkel_Sjøberg_Hjermind_Dencker,Mikkel Sjøberg Hjermind Dencker,Dansk Folkeparti,122
+Hvidovre,5,Dansborghallen,O_Rene_Tommy_Langhorn,Rene Tommy Langhorn,Dansk Folkeparti,18
+Hvidovre,5,Dansborghallen,O_Peter_Dencker,Peter Dencker,Dansk Folkeparti,4
+Hvidovre,5,Dansborghallen,O_Ivan_Fogtmann,Ivan Fogtmann,Dansk Folkeparti,21
+Hvidovre,5,Dansborghallen,R_Listestemmer,Listestemmer,Kommunistisk Liste,1
+Hvidovre,5,Dansborghallen,R_Nikolai_Silas_Christoph_Aamand,Nikolai Silas Christoph Aamand,Kommunistisk Liste,6
+Hvidovre,5,Dansborghallen,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",88
+Hvidovre,5,Dansborghallen,V_Charlotte_Munch,Charlotte Munch,"Venstre, Danmarks Liberale Parti",101
+Hvidovre,5,Dansborghallen,V_Torben_Nowicki_Rasmussen,Torben Nowicki Rasmussen,"Venstre, Danmarks Liberale Parti",7
+Hvidovre,5,Dansborghallen,V_Lise-Lotte_Rasmussen,Lise-Lotte Rasmussen,"Venstre, Danmarks Liberale Parti",12
+Hvidovre,5,Dansborghallen,V_Jens_Erik_Hummelmose,Jens Erik Hummelmose,"Venstre, Danmarks Liberale Parti",6
+Hvidovre,5,Dansborghallen,V_Anette_Farnø_Skourup,Anette Farnø Skourup,"Venstre, Danmarks Liberale Parti",9
+Hvidovre,5,Dansborghallen,V_Mathias_Rinaldo,Mathias Rinaldo,"Venstre, Danmarks Liberale Parti",9
+Hvidovre,5,Dansborghallen,V_Pernille_Dupont,Pernille Dupont,"Venstre, Danmarks Liberale Parti",13
+Hvidovre,5,Dansborghallen,V_Leon_Tilgaard,Leon Tilgaard,"Venstre, Danmarks Liberale Parti",22
+Hvidovre,5,Dansborghallen,V_Susanne_Nowicki_Rasmussen,Susanne Nowicki Rasmussen,"Venstre, Danmarks Liberale Parti",2
+Hvidovre,5,Dansborghallen,V_Pia_Szymanski_Vermundsen,Pia Szymanski Vermundsen,"Venstre, Danmarks Liberale Parti",4
+Hvidovre,5,Dansborghallen,V_Henrik_Farnø,Henrik Farnø,"Venstre, Danmarks Liberale Parti",3
+Hvidovre,5,Dansborghallen,V_Marcus_Bjerre,Marcus Bjerre,"Venstre, Danmarks Liberale Parti",0
+Hvidovre,5,Dansborghallen,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,108
+Hvidovre,5,Dansborghallen,Ø_Karin_Lizzy_Kofod,Karin Lizzy Kofod,Enhedslisten - De Rød-Grønne,43
+Hvidovre,5,Dansborghallen,Ø_Thomas_Høgsberg_Andersen,Thomas Høgsberg Andersen,Enhedslisten - De Rød-Grønne,9
+Hvidovre,5,Dansborghallen,Ø_Gert_Wahl,Gert Wahl,Enhedslisten - De Rød-Grønne,12
+Hvidovre,5,Dansborghallen,Ø_Helene_Caprani,Helene Caprani,Enhedslisten - De Rød-Grønne,9
+Hvidovre,5,Dansborghallen,Ø_Birthe_Bang_Larsen,Birthe Bang Larsen,Enhedslisten - De Rød-Grønne,2
+Hvidovre,6,Frihedens Idrætscenter,A_Listestemmer,Listestemmer,Socialdemokratiet,355
+Hvidovre,6,Frihedens Idrætscenter,A_Helle_Kirstine_Moesgaard_Adelborg,Helle Kirstine Moesgaard Adelborg,Socialdemokratiet,539
+Hvidovre,6,Frihedens Idrætscenter,A_Kenneth_Fendrich_Christensen,Kenneth Fendrich Christensen,Socialdemokratiet,28
+Hvidovre,6,Frihedens Idrætscenter,A_Anders_Liltorp,Anders Liltorp,Socialdemokratiet,19
+Hvidovre,6,Frihedens Idrætscenter,A_Lars_Gundelack_Jensen,Lars Gundelack Jensen,Socialdemokratiet,17
+Hvidovre,6,Frihedens Idrætscenter,A_Maria_Staghøj_Durhuus,Maria Staghøj Durhuus,Socialdemokratiet,56
+Hvidovre,6,Frihedens Idrætscenter,A_Lars_Andersen,Lars Andersen,Socialdemokratiet,33
+Hvidovre,6,Frihedens Idrætscenter,A_Amanda_Irina_Larsen,Amanda Irina Larsen,Socialdemokratiet,30
+Hvidovre,6,Frihedens Idrætscenter,A_Vagn_Majland,Vagn Majland,Socialdemokratiet,4
+Hvidovre,6,Frihedens Idrætscenter,A_Benthe_Viola_Hildeborg_Holm,Benthe Viola Hildeborg Holm,Socialdemokratiet,14
+Hvidovre,6,Frihedens Idrætscenter,A_Yasir_Iqbal,Yasir Iqbal,Socialdemokratiet,41
+Hvidovre,6,Frihedens Idrætscenter,A_Lotte_Stjernholm_Christiansen,Lotte Stjernholm Christiansen,Socialdemokratiet,15
+Hvidovre,6,Frihedens Idrætscenter,A_Jette_Therese_Jørgensen,Jette Therese Jørgensen,Socialdemokratiet,9
+Hvidovre,6,Frihedens Idrætscenter,A_Jakob_Lavlund_Borberg,Jakob Lavlund Borberg,Socialdemokratiet,18
+Hvidovre,6,Frihedens Idrætscenter,A_Stefan_Bruse_thor_Straten,Stefan Bruse thor Straten,Socialdemokratiet,53
+Hvidovre,6,Frihedens Idrætscenter,A_Idris_Murat_Yorulmaz,Idris Murat Yorulmaz,Socialdemokratiet,31
+Hvidovre,6,Frihedens Idrætscenter,A_Kurt_Normark,Kurt Normark,Socialdemokratiet,4
+Hvidovre,6,Frihedens Idrætscenter,A_Robert_Jakobsen,Robert Jakobsen,Socialdemokratiet,2
+Hvidovre,6,Frihedens Idrætscenter,A_Carsten_Jelund,Carsten Jelund,Socialdemokratiet,3
+Hvidovre,6,Frihedens Idrætscenter,A_Mikail_Erman,Mikail Erman,Socialdemokratiet,8
+Hvidovre,6,Frihedens Idrætscenter,A_Mette_Brix_Johansen,Mette Brix Johansen,Socialdemokratiet,0
+Hvidovre,6,Frihedens Idrætscenter,A_Ann-Mari_Lundbæk_Lauritsen,Ann-Mari Lundbæk Lauritsen,Socialdemokratiet,4
+Hvidovre,6,Frihedens Idrætscenter,B_Listestemmer,Listestemmer,Radikale Venstre,31
+Hvidovre,6,Frihedens Idrætscenter,B_Susanne_Wad_Leth,Susanne Wad Leth,Radikale Venstre,29
+Hvidovre,6,Frihedens Idrætscenter,B_Jens_Peter_Andersen,Jens Peter Andersen,Radikale Venstre,1
+Hvidovre,6,Frihedens Idrætscenter,B_Ane_Skjødsholm,Ane Skjødsholm,Radikale Venstre,1
+Hvidovre,6,Frihedens Idrætscenter,B_Flemming_Bryde_Thøgersen,Flemming Bryde Thøgersen,Radikale Venstre,2
+Hvidovre,6,Frihedens Idrætscenter,B_Charlotte_Noer_Helleberg,Charlotte Noer Helleberg,Radikale Venstre,17
+Hvidovre,6,Frihedens Idrætscenter,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,189
+Hvidovre,6,Frihedens Idrætscenter,C_Søren_Friis_Trebbien,Søren Friis Trebbien,Det Konservative Folkeparti,36
+Hvidovre,6,Frihedens Idrætscenter,C_Tina_Cartey_Hansen,Tina Cartey Hansen,Det Konservative Folkeparti,140
+Hvidovre,6,Frihedens Idrætscenter,C_Jimmy_Jensen,Jimmy Jensen,Det Konservative Folkeparti,18
+Hvidovre,6,Frihedens Idrætscenter,C_Silas_Kristen_Overgaard_Fisker,Silas Kristen Overgaard Fisker,Det Konservative Folkeparti,32
+Hvidovre,6,Frihedens Idrætscenter,C_Kenneth_Bak,Kenneth Bak,Det Konservative Folkeparti,36
+Hvidovre,6,Frihedens Idrætscenter,C_Michael_Peter_Sabroe,Michael Peter Sabroe,Det Konservative Folkeparti,78
+Hvidovre,6,Frihedens Idrætscenter,C_Carsten_Nymand_Provstgaard,Carsten Nymand Provstgaard,Det Konservative Folkeparti,11
+Hvidovre,6,Frihedens Idrætscenter,C_Sanne_Ørskov_Rishøj,Sanne Ørskov Rishøj,Det Konservative Folkeparti,12
+Hvidovre,6,Frihedens Idrætscenter,C_Peshtiwan_Zewkaei,Peshtiwan Zewkaei,Det Konservative Folkeparti,5
+Hvidovre,6,Frihedens Idrætscenter,C_Maria_Vistisen,Maria Vistisen,Det Konservative Folkeparti,5
+Hvidovre,6,Frihedens Idrætscenter,C_Johnny_Berg,Johnny Berg,Det Konservative Folkeparti,6
+Hvidovre,6,Frihedens Idrætscenter,C_Ejner_Skræddergaard,Ejner Skræddergaard,Det Konservative Folkeparti,4
+Hvidovre,6,Frihedens Idrætscenter,C_Dorthe_Steen_Rimmer_Hansen,Dorthe Steen Rimmer Hansen,Det Konservative Folkeparti,4
+Hvidovre,6,Frihedens Idrætscenter,C_Stig_Jørgensen,Stig Jørgensen,Det Konservative Folkeparti,1
+Hvidovre,6,Frihedens Idrætscenter,D_Listestemmer,Listestemmer,Nye Borgerlige,75
+Hvidovre,6,Frihedens Idrætscenter,D_Martin_Findahl_Amby,Martin Findahl Amby,Nye Borgerlige,25
+Hvidovre,6,Frihedens Idrætscenter,D_Dan_Petersen,Dan Petersen,Nye Borgerlige,8
+Hvidovre,6,Frihedens Idrætscenter,D_Jan_Bille_Sørensen,Jan Bille Sørensen,Nye Borgerlige,2
+Hvidovre,6,Frihedens Idrætscenter,D_Jeppe_Martin_Weisse,Jeppe Martin Weisse,Nye Borgerlige,4
+Hvidovre,6,Frihedens Idrætscenter,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,167
+Hvidovre,6,Frihedens Idrætscenter,F_Anders_Wolf_Andresen,Anders Wolf Andresen,SF - Socialistisk Folkeparti,99
+Hvidovre,6,Frihedens Idrætscenter,F_Sara_Gry_Benzon_Larsen,Sara Gry Benzon Larsen,SF - Socialistisk Folkeparti,55
+Hvidovre,6,Frihedens Idrætscenter,F_Marie-Louise_Peschardt_Jørgensen,Marie-Louise Peschardt Jørgensen,SF - Socialistisk Folkeparti,28
+Hvidovre,6,Frihedens Idrætscenter,F_Bent_Bjørn_Roldgaard,Bent Bjørn Roldgaard,SF - Socialistisk Folkeparti,51
+Hvidovre,6,Frihedens Idrætscenter,F_Kristine_Amalie_Rigmor_Rostgård,Kristine Amalie Rigmor Rostgård,SF - Socialistisk Folkeparti,39
+Hvidovre,6,Frihedens Idrætscenter,F_Lene_Jensen,Lene Jensen,SF - Socialistisk Folkeparti,6
+Hvidovre,6,Frihedens Idrætscenter,F_Rasmus_Peter_Henriksen,Rasmus Peter Henriksen,SF - Socialistisk Folkeparti,7
+Hvidovre,6,Frihedens Idrætscenter,F_Said_Noor_Nabil,Said Noor Nabil,SF - Socialistisk Folkeparti,4
+Hvidovre,6,Frihedens Idrætscenter,F_Pernille_Blom_Hermansen,Pernille Blom Hermansen,SF - Socialistisk Folkeparti,11
+Hvidovre,6,Frihedens Idrætscenter,F_Maria_Brandt_Avnskjold,Maria Brandt Avnskjold,SF - Socialistisk Folkeparti,121
+Hvidovre,6,Frihedens Idrætscenter,F_Thomas_Møller,Thomas Møller,SF - Socialistisk Folkeparti,5
+Hvidovre,6,Frihedens Idrætscenter,G_Listestemmer,Listestemmer,Veganerpartiet,8
+Hvidovre,6,Frihedens Idrætscenter,G_Jonas_Lynggaard_Krarup,Jonas Lynggaard Krarup,Veganerpartiet,1
+Hvidovre,6,Frihedens Idrætscenter,H_Listestemmer,Listestemmer,Hvidovrelisten,50
+Hvidovre,6,Frihedens Idrætscenter,H_Kristina_Eileen_Young,Kristina Eileen Young,Hvidovrelisten,63
+Hvidovre,6,Frihedens Idrætscenter,H_Arne_Bech,Arne Bech,Hvidovrelisten,29
+Hvidovre,6,Frihedens Idrætscenter,H_Frank_Løber,Frank Løber,Hvidovrelisten,31
+Hvidovre,6,Frihedens Idrætscenter,H_Karoline_Klock_Tjervåg_Cleemann,Karoline Klock Tjervåg Cleemann,Hvidovrelisten,16
+Hvidovre,6,Frihedens Idrætscenter,H_Elin_Palm,Elin Palm,Hvidovrelisten,14
+Hvidovre,6,Frihedens Idrætscenter,H_Kim_Holm,Kim Holm,Hvidovrelisten,14
+Hvidovre,6,Frihedens Idrætscenter,H_Trine_Gregersen_Steensgaard,Trine Gregersen Steensgaard,Hvidovrelisten,10
+Hvidovre,6,Frihedens Idrætscenter,H_Annette_Karina_Læbo,Annette Karina Læbo,Hvidovrelisten,2
+Hvidovre,6,Frihedens Idrætscenter,H_Finn_Blohm,Finn Blohm,Hvidovrelisten,0
+Hvidovre,6,Frihedens Idrætscenter,I_Listestemmer,Listestemmer,Liberal Alliance,16
+Hvidovre,6,Frihedens Idrætscenter,I_Rene_Bathum_Pedersen,Rene Bathum Pedersen,Liberal Alliance,6
+Hvidovre,6,Frihedens Idrætscenter,I_Morten_Kristoffer_Hansen,Morten Kristoffer Hansen,Liberal Alliance,1
+Hvidovre,6,Frihedens Idrætscenter,I_Henrik_Holleufer,Henrik Holleufer,Liberal Alliance,0
+Hvidovre,6,Frihedens Idrætscenter,L_Listestemmer,Listestemmer,Lokallisten 2650,4
+Hvidovre,6,Frihedens Idrætscenter,L_Steen_Ørskov_Larsen,Steen Ørskov Larsen,Lokallisten 2650,32
+Hvidovre,6,Frihedens Idrætscenter,O_Listestemmer,Listestemmer,Dansk Folkeparti,55
+Hvidovre,6,Frihedens Idrætscenter,O_Mikkel_Sjøberg_Hjermind_Dencker,Mikkel Sjøberg Hjermind Dencker,Dansk Folkeparti,89
+Hvidovre,6,Frihedens Idrætscenter,O_Rene_Tommy_Langhorn,Rene Tommy Langhorn,Dansk Folkeparti,21
+Hvidovre,6,Frihedens Idrætscenter,O_Peter_Dencker,Peter Dencker,Dansk Folkeparti,6
+Hvidovre,6,Frihedens Idrætscenter,O_Ivan_Fogtmann,Ivan Fogtmann,Dansk Folkeparti,21
+Hvidovre,6,Frihedens Idrætscenter,R_Listestemmer,Listestemmer,Kommunistisk Liste,4
+Hvidovre,6,Frihedens Idrætscenter,R_Nikolai_Silas_Christoph_Aamand,Nikolai Silas Christoph Aamand,Kommunistisk Liste,2
+Hvidovre,6,Frihedens Idrætscenter,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",74
+Hvidovre,6,Frihedens Idrætscenter,V_Charlotte_Munch,Charlotte Munch,"Venstre, Danmarks Liberale Parti",96
+Hvidovre,6,Frihedens Idrætscenter,V_Torben_Nowicki_Rasmussen,Torben Nowicki Rasmussen,"Venstre, Danmarks Liberale Parti",12
+Hvidovre,6,Frihedens Idrætscenter,V_Lise-Lotte_Rasmussen,Lise-Lotte Rasmussen,"Venstre, Danmarks Liberale Parti",2
+Hvidovre,6,Frihedens Idrætscenter,V_Jens_Erik_Hummelmose,Jens Erik Hummelmose,"Venstre, Danmarks Liberale Parti",1
+Hvidovre,6,Frihedens Idrætscenter,V_Anette_Farnø_Skourup,Anette Farnø Skourup,"Venstre, Danmarks Liberale Parti",2
+Hvidovre,6,Frihedens Idrætscenter,V_Mathias_Rinaldo,Mathias Rinaldo,"Venstre, Danmarks Liberale Parti",4
+Hvidovre,6,Frihedens Idrætscenter,V_Pernille_Dupont,Pernille Dupont,"Venstre, Danmarks Liberale Parti",8
+Hvidovre,6,Frihedens Idrætscenter,V_Leon_Tilgaard,Leon Tilgaard,"Venstre, Danmarks Liberale Parti",3
+Hvidovre,6,Frihedens Idrætscenter,V_Susanne_Nowicki_Rasmussen,Susanne Nowicki Rasmussen,"Venstre, Danmarks Liberale Parti",4
+Hvidovre,6,Frihedens Idrætscenter,V_Pia_Szymanski_Vermundsen,Pia Szymanski Vermundsen,"Venstre, Danmarks Liberale Parti",2
+Hvidovre,6,Frihedens Idrætscenter,V_Henrik_Farnø,Henrik Farnø,"Venstre, Danmarks Liberale Parti",1
+Hvidovre,6,Frihedens Idrætscenter,V_Marcus_Bjerre,Marcus Bjerre,"Venstre, Danmarks Liberale Parti",0
+Hvidovre,6,Frihedens Idrætscenter,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,94
+Hvidovre,6,Frihedens Idrætscenter,Ø_Karin_Lizzy_Kofod,Karin Lizzy Kofod,Enhedslisten - De Rød-Grønne,27
+Hvidovre,6,Frihedens Idrætscenter,Ø_Thomas_Høgsberg_Andersen,Thomas Høgsberg Andersen,Enhedslisten - De Rød-Grønne,11
+Hvidovre,6,Frihedens Idrætscenter,Ø_Gert_Wahl,Gert Wahl,Enhedslisten - De Rød-Grønne,7
+Hvidovre,6,Frihedens Idrætscenter,Ø_Helene_Caprani,Helene Caprani,Enhedslisten - De Rød-Grønne,12
+Hvidovre,6,Frihedens Idrætscenter,Ø_Birthe_Bang_Larsen,Birthe Bang Larsen,Enhedslisten - De Rød-Grønne,6
+Hvidovre,7,Avedøre Skole,A_Listestemmer,Listestemmer,Socialdemokratiet,340
+Hvidovre,7,Avedøre Skole,A_Helle_Kirstine_Moesgaard_Adelborg,Helle Kirstine Moesgaard Adelborg,Socialdemokratiet,493
+Hvidovre,7,Avedøre Skole,A_Kenneth_Fendrich_Christensen,Kenneth Fendrich Christensen,Socialdemokratiet,42
+Hvidovre,7,Avedøre Skole,A_Anders_Liltorp,Anders Liltorp,Socialdemokratiet,65
+Hvidovre,7,Avedøre Skole,A_Lars_Gundelack_Jensen,Lars Gundelack Jensen,Socialdemokratiet,33
+Hvidovre,7,Avedøre Skole,A_Maria_Staghøj_Durhuus,Maria Staghøj Durhuus,Socialdemokratiet,33
+Hvidovre,7,Avedøre Skole,A_Lars_Andersen,Lars Andersen,Socialdemokratiet,12
+Hvidovre,7,Avedøre Skole,A_Amanda_Irina_Larsen,Amanda Irina Larsen,Socialdemokratiet,32
+Hvidovre,7,Avedøre Skole,A_Vagn_Majland,Vagn Majland,Socialdemokratiet,6
+Hvidovre,7,Avedøre Skole,A_Benthe_Viola_Hildeborg_Holm,Benthe Viola Hildeborg Holm,Socialdemokratiet,1
+Hvidovre,7,Avedøre Skole,A_Yasir_Iqbal,Yasir Iqbal,Socialdemokratiet,156
+Hvidovre,7,Avedøre Skole,A_Lotte_Stjernholm_Christiansen,Lotte Stjernholm Christiansen,Socialdemokratiet,42
+Hvidovre,7,Avedøre Skole,A_Jette_Therese_Jørgensen,Jette Therese Jørgensen,Socialdemokratiet,5
+Hvidovre,7,Avedøre Skole,A_Jakob_Lavlund_Borberg,Jakob Lavlund Borberg,Socialdemokratiet,22
+Hvidovre,7,Avedøre Skole,A_Stefan_Bruse_thor_Straten,Stefan Bruse thor Straten,Socialdemokratiet,30
+Hvidovre,7,Avedøre Skole,A_Idris_Murat_Yorulmaz,Idris Murat Yorulmaz,Socialdemokratiet,78
+Hvidovre,7,Avedøre Skole,A_Kurt_Normark,Kurt Normark,Socialdemokratiet,2
+Hvidovre,7,Avedøre Skole,A_Robert_Jakobsen,Robert Jakobsen,Socialdemokratiet,2
+Hvidovre,7,Avedøre Skole,A_Carsten_Jelund,Carsten Jelund,Socialdemokratiet,2
+Hvidovre,7,Avedøre Skole,A_Mikail_Erman,Mikail Erman,Socialdemokratiet,24
+Hvidovre,7,Avedøre Skole,A_Mette_Brix_Johansen,Mette Brix Johansen,Socialdemokratiet,5
+Hvidovre,7,Avedøre Skole,A_Ann-Mari_Lundbæk_Lauritsen,Ann-Mari Lundbæk Lauritsen,Socialdemokratiet,4
+Hvidovre,7,Avedøre Skole,B_Listestemmer,Listestemmer,Radikale Venstre,55
+Hvidovre,7,Avedøre Skole,B_Susanne_Wad_Leth,Susanne Wad Leth,Radikale Venstre,25
+Hvidovre,7,Avedøre Skole,B_Jens_Peter_Andersen,Jens Peter Andersen,Radikale Venstre,9
+Hvidovre,7,Avedøre Skole,B_Ane_Skjødsholm,Ane Skjødsholm,Radikale Venstre,3
+Hvidovre,7,Avedøre Skole,B_Flemming_Bryde_Thøgersen,Flemming Bryde Thøgersen,Radikale Venstre,2
+Hvidovre,7,Avedøre Skole,B_Charlotte_Noer_Helleberg,Charlotte Noer Helleberg,Radikale Venstre,5
+Hvidovre,7,Avedøre Skole,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,233
+Hvidovre,7,Avedøre Skole,C_Søren_Friis_Trebbien,Søren Friis Trebbien,Det Konservative Folkeparti,106
+Hvidovre,7,Avedøre Skole,C_Tina_Cartey_Hansen,Tina Cartey Hansen,Det Konservative Folkeparti,60
+Hvidovre,7,Avedøre Skole,C_Jimmy_Jensen,Jimmy Jensen,Det Konservative Folkeparti,50
+Hvidovre,7,Avedøre Skole,C_Silas_Kristen_Overgaard_Fisker,Silas Kristen Overgaard Fisker,Det Konservative Folkeparti,36
+Hvidovre,7,Avedøre Skole,C_Kenneth_Bak,Kenneth Bak,Det Konservative Folkeparti,99
+Hvidovre,7,Avedøre Skole,C_Michael_Peter_Sabroe,Michael Peter Sabroe,Det Konservative Folkeparti,15
+Hvidovre,7,Avedøre Skole,C_Carsten_Nymand_Provstgaard,Carsten Nymand Provstgaard,Det Konservative Folkeparti,25
+Hvidovre,7,Avedøre Skole,C_Sanne_Ørskov_Rishøj,Sanne Ørskov Rishøj,Det Konservative Folkeparti,13
+Hvidovre,7,Avedøre Skole,C_Peshtiwan_Zewkaei,Peshtiwan Zewkaei,Det Konservative Folkeparti,14
+Hvidovre,7,Avedøre Skole,C_Maria_Vistisen,Maria Vistisen,Det Konservative Folkeparti,0
+Hvidovre,7,Avedøre Skole,C_Johnny_Berg,Johnny Berg,Det Konservative Folkeparti,18
+Hvidovre,7,Avedøre Skole,C_Ejner_Skræddergaard,Ejner Skræddergaard,Det Konservative Folkeparti,1
+Hvidovre,7,Avedøre Skole,C_Dorthe_Steen_Rimmer_Hansen,Dorthe Steen Rimmer Hansen,Det Konservative Folkeparti,7
+Hvidovre,7,Avedøre Skole,C_Stig_Jørgensen,Stig Jørgensen,Det Konservative Folkeparti,0
+Hvidovre,7,Avedøre Skole,D_Listestemmer,Listestemmer,Nye Borgerlige,84
+Hvidovre,7,Avedøre Skole,D_Martin_Findahl_Amby,Martin Findahl Amby,Nye Borgerlige,48
+Hvidovre,7,Avedøre Skole,D_Dan_Petersen,Dan Petersen,Nye Borgerlige,13
+Hvidovre,7,Avedøre Skole,D_Jan_Bille_Sørensen,Jan Bille Sørensen,Nye Borgerlige,8
+Hvidovre,7,Avedøre Skole,D_Jeppe_Martin_Weisse,Jeppe Martin Weisse,Nye Borgerlige,4
+Hvidovre,7,Avedøre Skole,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,122
+Hvidovre,7,Avedøre Skole,F_Anders_Wolf_Andresen,Anders Wolf Andresen,SF - Socialistisk Folkeparti,80
+Hvidovre,7,Avedøre Skole,F_Sara_Gry_Benzon_Larsen,Sara Gry Benzon Larsen,SF - Socialistisk Folkeparti,69
+Hvidovre,7,Avedøre Skole,F_Marie-Louise_Peschardt_Jørgensen,Marie-Louise Peschardt Jørgensen,SF - Socialistisk Folkeparti,25
+Hvidovre,7,Avedøre Skole,F_Bent_Bjørn_Roldgaard,Bent Bjørn Roldgaard,SF - Socialistisk Folkeparti,12
+Hvidovre,7,Avedøre Skole,F_Kristine_Amalie_Rigmor_Rostgård,Kristine Amalie Rigmor Rostgård,SF - Socialistisk Folkeparti,59
+Hvidovre,7,Avedøre Skole,F_Lene_Jensen,Lene Jensen,SF - Socialistisk Folkeparti,12
+Hvidovre,7,Avedøre Skole,F_Rasmus_Peter_Henriksen,Rasmus Peter Henriksen,SF - Socialistisk Folkeparti,4
+Hvidovre,7,Avedøre Skole,F_Said_Noor_Nabil,Said Noor Nabil,SF - Socialistisk Folkeparti,8
+Hvidovre,7,Avedøre Skole,F_Pernille_Blom_Hermansen,Pernille Blom Hermansen,SF - Socialistisk Folkeparti,14
+Hvidovre,7,Avedøre Skole,F_Maria_Brandt_Avnskjold,Maria Brandt Avnskjold,SF - Socialistisk Folkeparti,7
+Hvidovre,7,Avedøre Skole,F_Thomas_Møller,Thomas Møller,SF - Socialistisk Folkeparti,4
+Hvidovre,7,Avedøre Skole,G_Listestemmer,Listestemmer,Veganerpartiet,3
+Hvidovre,7,Avedøre Skole,G_Jonas_Lynggaard_Krarup,Jonas Lynggaard Krarup,Veganerpartiet,2
+Hvidovre,7,Avedøre Skole,H_Listestemmer,Listestemmer,Hvidovrelisten,94
+Hvidovre,7,Avedøre Skole,H_Kristina_Eileen_Young,Kristina Eileen Young,Hvidovrelisten,87
+Hvidovre,7,Avedøre Skole,H_Arne_Bech,Arne Bech,Hvidovrelisten,38
+Hvidovre,7,Avedøre Skole,H_Frank_Løber,Frank Løber,Hvidovrelisten,20
+Hvidovre,7,Avedøre Skole,H_Karoline_Klock_Tjervåg_Cleemann,Karoline Klock Tjervåg Cleemann,Hvidovrelisten,19
+Hvidovre,7,Avedøre Skole,H_Elin_Palm,Elin Palm,Hvidovrelisten,14
+Hvidovre,7,Avedøre Skole,H_Kim_Holm,Kim Holm,Hvidovrelisten,23
+Hvidovre,7,Avedøre Skole,H_Trine_Gregersen_Steensgaard,Trine Gregersen Steensgaard,Hvidovrelisten,8
+Hvidovre,7,Avedøre Skole,H_Annette_Karina_Læbo,Annette Karina Læbo,Hvidovrelisten,3
+Hvidovre,7,Avedøre Skole,H_Finn_Blohm,Finn Blohm,Hvidovrelisten,1
+Hvidovre,7,Avedøre Skole,I_Listestemmer,Listestemmer,Liberal Alliance,17
+Hvidovre,7,Avedøre Skole,I_Rene_Bathum_Pedersen,Rene Bathum Pedersen,Liberal Alliance,5
+Hvidovre,7,Avedøre Skole,I_Morten_Kristoffer_Hansen,Morten Kristoffer Hansen,Liberal Alliance,3
+Hvidovre,7,Avedøre Skole,I_Henrik_Holleufer,Henrik Holleufer,Liberal Alliance,4
+Hvidovre,7,Avedøre Skole,L_Listestemmer,Listestemmer,Lokallisten 2650,9
+Hvidovre,7,Avedøre Skole,L_Steen_Ørskov_Larsen,Steen Ørskov Larsen,Lokallisten 2650,33
+Hvidovre,7,Avedøre Skole,O_Listestemmer,Listestemmer,Dansk Folkeparti,91
+Hvidovre,7,Avedøre Skole,O_Mikkel_Sjøberg_Hjermind_Dencker,Mikkel Sjøberg Hjermind Dencker,Dansk Folkeparti,123
+Hvidovre,7,Avedøre Skole,O_Rene_Tommy_Langhorn,Rene Tommy Langhorn,Dansk Folkeparti,13
+Hvidovre,7,Avedøre Skole,O_Peter_Dencker,Peter Dencker,Dansk Folkeparti,7
+Hvidovre,7,Avedøre Skole,O_Ivan_Fogtmann,Ivan Fogtmann,Dansk Folkeparti,8
+Hvidovre,7,Avedøre Skole,R_Listestemmer,Listestemmer,Kommunistisk Liste,1
+Hvidovre,7,Avedøre Skole,R_Nikolai_Silas_Christoph_Aamand,Nikolai Silas Christoph Aamand,Kommunistisk Liste,1
+Hvidovre,7,Avedøre Skole,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",84
+Hvidovre,7,Avedøre Skole,V_Charlotte_Munch,Charlotte Munch,"Venstre, Danmarks Liberale Parti",101
+Hvidovre,7,Avedøre Skole,V_Torben_Nowicki_Rasmussen,Torben Nowicki Rasmussen,"Venstre, Danmarks Liberale Parti",8
+Hvidovre,7,Avedøre Skole,V_Lise-Lotte_Rasmussen,Lise-Lotte Rasmussen,"Venstre, Danmarks Liberale Parti",3
+Hvidovre,7,Avedøre Skole,V_Jens_Erik_Hummelmose,Jens Erik Hummelmose,"Venstre, Danmarks Liberale Parti",2
+Hvidovre,7,Avedøre Skole,V_Anette_Farnø_Skourup,Anette Farnø Skourup,"Venstre, Danmarks Liberale Parti",14
+Hvidovre,7,Avedøre Skole,V_Mathias_Rinaldo,Mathias Rinaldo,"Venstre, Danmarks Liberale Parti",13
+Hvidovre,7,Avedøre Skole,V_Pernille_Dupont,Pernille Dupont,"Venstre, Danmarks Liberale Parti",6
+Hvidovre,7,Avedøre Skole,V_Leon_Tilgaard,Leon Tilgaard,"Venstre, Danmarks Liberale Parti",2
+Hvidovre,7,Avedøre Skole,V_Susanne_Nowicki_Rasmussen,Susanne Nowicki Rasmussen,"Venstre, Danmarks Liberale Parti",5
+Hvidovre,7,Avedøre Skole,V_Pia_Szymanski_Vermundsen,Pia Szymanski Vermundsen,"Venstre, Danmarks Liberale Parti",3
+Hvidovre,7,Avedøre Skole,V_Henrik_Farnø,Henrik Farnø,"Venstre, Danmarks Liberale Parti",0
+Hvidovre,7,Avedøre Skole,V_Marcus_Bjerre,Marcus Bjerre,"Venstre, Danmarks Liberale Parti",1
+Hvidovre,7,Avedøre Skole,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,104
+Hvidovre,7,Avedøre Skole,Ø_Karin_Lizzy_Kofod,Karin Lizzy Kofod,Enhedslisten - De Rød-Grønne,25
+Hvidovre,7,Avedøre Skole,Ø_Thomas_Høgsberg_Andersen,Thomas Høgsberg Andersen,Enhedslisten - De Rød-Grønne,4
+Hvidovre,7,Avedøre Skole,Ø_Gert_Wahl,Gert Wahl,Enhedslisten - De Rød-Grønne,5
+Hvidovre,7,Avedøre Skole,Ø_Helene_Caprani,Helene Caprani,Enhedslisten - De Rød-Grønne,6
+Hvidovre,7,Avedøre Skole,Ø_Birthe_Bang_Larsen,Birthe Bang Larsen,Enhedslisten - De Rød-Grønne,1
+Hvidovre,8,Avedøre Idrætscenter,A_Listestemmer,Listestemmer,Socialdemokratiet,251
+Hvidovre,8,Avedøre Idrætscenter,A_Helle_Kirstine_Moesgaard_Adelborg,Helle Kirstine Moesgaard Adelborg,Socialdemokratiet,358
+Hvidovre,8,Avedøre Idrætscenter,A_Kenneth_Fendrich_Christensen,Kenneth Fendrich Christensen,Socialdemokratiet,50
+Hvidovre,8,Avedøre Idrætscenter,A_Anders_Liltorp,Anders Liltorp,Socialdemokratiet,19
+Hvidovre,8,Avedøre Idrætscenter,A_Lars_Gundelack_Jensen,Lars Gundelack Jensen,Socialdemokratiet,18
+Hvidovre,8,Avedøre Idrætscenter,A_Maria_Staghøj_Durhuus,Maria Staghøj Durhuus,Socialdemokratiet,26
+Hvidovre,8,Avedøre Idrætscenter,A_Lars_Andersen,Lars Andersen,Socialdemokratiet,6
+Hvidovre,8,Avedøre Idrætscenter,A_Amanda_Irina_Larsen,Amanda Irina Larsen,Socialdemokratiet,24
+Hvidovre,8,Avedøre Idrætscenter,A_Vagn_Majland,Vagn Majland,Socialdemokratiet,4
+Hvidovre,8,Avedøre Idrætscenter,A_Benthe_Viola_Hildeborg_Holm,Benthe Viola Hildeborg Holm,Socialdemokratiet,1
+Hvidovre,8,Avedøre Idrætscenter,A_Yasir_Iqbal,Yasir Iqbal,Socialdemokratiet,73
+Hvidovre,8,Avedøre Idrætscenter,A_Lotte_Stjernholm_Christiansen,Lotte Stjernholm Christiansen,Socialdemokratiet,12
+Hvidovre,8,Avedøre Idrætscenter,A_Jette_Therese_Jørgensen,Jette Therese Jørgensen,Socialdemokratiet,1
+Hvidovre,8,Avedøre Idrætscenter,A_Jakob_Lavlund_Borberg,Jakob Lavlund Borberg,Socialdemokratiet,4
+Hvidovre,8,Avedøre Idrætscenter,A_Stefan_Bruse_thor_Straten,Stefan Bruse thor Straten,Socialdemokratiet,12
+Hvidovre,8,Avedøre Idrætscenter,A_Idris_Murat_Yorulmaz,Idris Murat Yorulmaz,Socialdemokratiet,306
+Hvidovre,8,Avedøre Idrætscenter,A_Kurt_Normark,Kurt Normark,Socialdemokratiet,6
+Hvidovre,8,Avedøre Idrætscenter,A_Robert_Jakobsen,Robert Jakobsen,Socialdemokratiet,5
+Hvidovre,8,Avedøre Idrætscenter,A_Carsten_Jelund,Carsten Jelund,Socialdemokratiet,1
+Hvidovre,8,Avedøre Idrætscenter,A_Mikail_Erman,Mikail Erman,Socialdemokratiet,84
+Hvidovre,8,Avedøre Idrætscenter,A_Mette_Brix_Johansen,Mette Brix Johansen,Socialdemokratiet,5
+Hvidovre,8,Avedøre Idrætscenter,A_Ann-Mari_Lundbæk_Lauritsen,Ann-Mari Lundbæk Lauritsen,Socialdemokratiet,2
+Hvidovre,8,Avedøre Idrætscenter,B_Listestemmer,Listestemmer,Radikale Venstre,47
+Hvidovre,8,Avedøre Idrætscenter,B_Susanne_Wad_Leth,Susanne Wad Leth,Radikale Venstre,11
+Hvidovre,8,Avedøre Idrætscenter,B_Jens_Peter_Andersen,Jens Peter Andersen,Radikale Venstre,4
+Hvidovre,8,Avedøre Idrætscenter,B_Ane_Skjødsholm,Ane Skjødsholm,Radikale Venstre,1
+Hvidovre,8,Avedøre Idrætscenter,B_Flemming_Bryde_Thøgersen,Flemming Bryde Thøgersen,Radikale Venstre,0
+Hvidovre,8,Avedøre Idrætscenter,B_Charlotte_Noer_Helleberg,Charlotte Noer Helleberg,Radikale Venstre,13
+Hvidovre,8,Avedøre Idrætscenter,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,112
+Hvidovre,8,Avedøre Idrætscenter,C_Søren_Friis_Trebbien,Søren Friis Trebbien,Det Konservative Folkeparti,47
+Hvidovre,8,Avedøre Idrætscenter,C_Tina_Cartey_Hansen,Tina Cartey Hansen,Det Konservative Folkeparti,30
+Hvidovre,8,Avedøre Idrætscenter,C_Jimmy_Jensen,Jimmy Jensen,Det Konservative Folkeparti,22
+Hvidovre,8,Avedøre Idrætscenter,C_Silas_Kristen_Overgaard_Fisker,Silas Kristen Overgaard Fisker,Det Konservative Folkeparti,21
+Hvidovre,8,Avedøre Idrætscenter,C_Kenneth_Bak,Kenneth Bak,Det Konservative Folkeparti,29
+Hvidovre,8,Avedøre Idrætscenter,C_Michael_Peter_Sabroe,Michael Peter Sabroe,Det Konservative Folkeparti,7
+Hvidovre,8,Avedøre Idrætscenter,C_Carsten_Nymand_Provstgaard,Carsten Nymand Provstgaard,Det Konservative Folkeparti,23
+Hvidovre,8,Avedøre Idrætscenter,C_Sanne_Ørskov_Rishøj,Sanne Ørskov Rishøj,Det Konservative Folkeparti,6
+Hvidovre,8,Avedøre Idrætscenter,C_Peshtiwan_Zewkaei,Peshtiwan Zewkaei,Det Konservative Folkeparti,20
+Hvidovre,8,Avedøre Idrætscenter,C_Maria_Vistisen,Maria Vistisen,Det Konservative Folkeparti,2
+Hvidovre,8,Avedøre Idrætscenter,C_Johnny_Berg,Johnny Berg,Det Konservative Folkeparti,15
+Hvidovre,8,Avedøre Idrætscenter,C_Ejner_Skræddergaard,Ejner Skræddergaard,Det Konservative Folkeparti,1
+Hvidovre,8,Avedøre Idrætscenter,C_Dorthe_Steen_Rimmer_Hansen,Dorthe Steen Rimmer Hansen,Det Konservative Folkeparti,7
+Hvidovre,8,Avedøre Idrætscenter,C_Stig_Jørgensen,Stig Jørgensen,Det Konservative Folkeparti,1
+Hvidovre,8,Avedøre Idrætscenter,D_Listestemmer,Listestemmer,Nye Borgerlige,60
+Hvidovre,8,Avedøre Idrætscenter,D_Martin_Findahl_Amby,Martin Findahl Amby,Nye Borgerlige,33
+Hvidovre,8,Avedøre Idrætscenter,D_Dan_Petersen,Dan Petersen,Nye Borgerlige,13
+Hvidovre,8,Avedøre Idrætscenter,D_Jan_Bille_Sørensen,Jan Bille Sørensen,Nye Borgerlige,3
+Hvidovre,8,Avedøre Idrætscenter,D_Jeppe_Martin_Weisse,Jeppe Martin Weisse,Nye Borgerlige,0
+Hvidovre,8,Avedøre Idrætscenter,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,129
+Hvidovre,8,Avedøre Idrætscenter,F_Anders_Wolf_Andresen,Anders Wolf Andresen,SF - Socialistisk Folkeparti,52
+Hvidovre,8,Avedøre Idrætscenter,F_Sara_Gry_Benzon_Larsen,Sara Gry Benzon Larsen,SF - Socialistisk Folkeparti,50
+Hvidovre,8,Avedøre Idrætscenter,F_Marie-Louise_Peschardt_Jørgensen,Marie-Louise Peschardt Jørgensen,SF - Socialistisk Folkeparti,9
+Hvidovre,8,Avedøre Idrætscenter,F_Bent_Bjørn_Roldgaard,Bent Bjørn Roldgaard,SF - Socialistisk Folkeparti,8
+Hvidovre,8,Avedøre Idrætscenter,F_Kristine_Amalie_Rigmor_Rostgård,Kristine Amalie Rigmor Rostgård,SF - Socialistisk Folkeparti,55
+Hvidovre,8,Avedøre Idrætscenter,F_Lene_Jensen,Lene Jensen,SF - Socialistisk Folkeparti,23
+Hvidovre,8,Avedøre Idrætscenter,F_Rasmus_Peter_Henriksen,Rasmus Peter Henriksen,SF - Socialistisk Folkeparti,3
+Hvidovre,8,Avedøre Idrætscenter,F_Said_Noor_Nabil,Said Noor Nabil,SF - Socialistisk Folkeparti,3
+Hvidovre,8,Avedøre Idrætscenter,F_Pernille_Blom_Hermansen,Pernille Blom Hermansen,SF - Socialistisk Folkeparti,12
+Hvidovre,8,Avedøre Idrætscenter,F_Maria_Brandt_Avnskjold,Maria Brandt Avnskjold,SF - Socialistisk Folkeparti,8
+Hvidovre,8,Avedøre Idrætscenter,F_Thomas_Møller,Thomas Møller,SF - Socialistisk Folkeparti,7
+Hvidovre,8,Avedøre Idrætscenter,G_Listestemmer,Listestemmer,Veganerpartiet,4
+Hvidovre,8,Avedøre Idrætscenter,G_Jonas_Lynggaard_Krarup,Jonas Lynggaard Krarup,Veganerpartiet,6
+Hvidovre,8,Avedøre Idrætscenter,H_Listestemmer,Listestemmer,Hvidovrelisten,28
+Hvidovre,8,Avedøre Idrætscenter,H_Kristina_Eileen_Young,Kristina Eileen Young,Hvidovrelisten,32
+Hvidovre,8,Avedøre Idrætscenter,H_Arne_Bech,Arne Bech,Hvidovrelisten,17
+Hvidovre,8,Avedøre Idrætscenter,H_Frank_Løber,Frank Løber,Hvidovrelisten,4
+Hvidovre,8,Avedøre Idrætscenter,H_Karoline_Klock_Tjervåg_Cleemann,Karoline Klock Tjervåg Cleemann,Hvidovrelisten,7
+Hvidovre,8,Avedøre Idrætscenter,H_Elin_Palm,Elin Palm,Hvidovrelisten,2
+Hvidovre,8,Avedøre Idrætscenter,H_Kim_Holm,Kim Holm,Hvidovrelisten,7
+Hvidovre,8,Avedøre Idrætscenter,H_Trine_Gregersen_Steensgaard,Trine Gregersen Steensgaard,Hvidovrelisten,6
+Hvidovre,8,Avedøre Idrætscenter,H_Annette_Karina_Læbo,Annette Karina Læbo,Hvidovrelisten,0
+Hvidovre,8,Avedøre Idrætscenter,H_Finn_Blohm,Finn Blohm,Hvidovrelisten,0
+Hvidovre,8,Avedøre Idrætscenter,I_Listestemmer,Listestemmer,Liberal Alliance,5
+Hvidovre,8,Avedøre Idrætscenter,I_Rene_Bathum_Pedersen,Rene Bathum Pedersen,Liberal Alliance,8
+Hvidovre,8,Avedøre Idrætscenter,I_Morten_Kristoffer_Hansen,Morten Kristoffer Hansen,Liberal Alliance,3
+Hvidovre,8,Avedøre Idrætscenter,I_Henrik_Holleufer,Henrik Holleufer,Liberal Alliance,5
+Hvidovre,8,Avedøre Idrætscenter,L_Listestemmer,Listestemmer,Lokallisten 2650,5
+Hvidovre,8,Avedøre Idrætscenter,L_Steen_Ørskov_Larsen,Steen Ørskov Larsen,Lokallisten 2650,68
+Hvidovre,8,Avedøre Idrætscenter,O_Listestemmer,Listestemmer,Dansk Folkeparti,49
+Hvidovre,8,Avedøre Idrætscenter,O_Mikkel_Sjøberg_Hjermind_Dencker,Mikkel Sjøberg Hjermind Dencker,Dansk Folkeparti,102
+Hvidovre,8,Avedøre Idrætscenter,O_Rene_Tommy_Langhorn,Rene Tommy Langhorn,Dansk Folkeparti,8
+Hvidovre,8,Avedøre Idrætscenter,O_Peter_Dencker,Peter Dencker,Dansk Folkeparti,4
+Hvidovre,8,Avedøre Idrætscenter,O_Ivan_Fogtmann,Ivan Fogtmann,Dansk Folkeparti,4
+Hvidovre,8,Avedøre Idrætscenter,R_Listestemmer,Listestemmer,Kommunistisk Liste,2
+Hvidovre,8,Avedøre Idrætscenter,R_Nikolai_Silas_Christoph_Aamand,Nikolai Silas Christoph Aamand,Kommunistisk Liste,10
+Hvidovre,8,Avedøre Idrætscenter,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",31
+Hvidovre,8,Avedøre Idrætscenter,V_Charlotte_Munch,Charlotte Munch,"Venstre, Danmarks Liberale Parti",36
+Hvidovre,8,Avedøre Idrætscenter,V_Torben_Nowicki_Rasmussen,Torben Nowicki Rasmussen,"Venstre, Danmarks Liberale Parti",0
+Hvidovre,8,Avedøre Idrætscenter,V_Lise-Lotte_Rasmussen,Lise-Lotte Rasmussen,"Venstre, Danmarks Liberale Parti",9
+Hvidovre,8,Avedøre Idrætscenter,V_Jens_Erik_Hummelmose,Jens Erik Hummelmose,"Venstre, Danmarks Liberale Parti",2
+Hvidovre,8,Avedøre Idrætscenter,V_Anette_Farnø_Skourup,Anette Farnø Skourup,"Venstre, Danmarks Liberale Parti",4
+Hvidovre,8,Avedøre Idrætscenter,V_Mathias_Rinaldo,Mathias Rinaldo,"Venstre, Danmarks Liberale Parti",16
+Hvidovre,8,Avedøre Idrætscenter,V_Pernille_Dupont,Pernille Dupont,"Venstre, Danmarks Liberale Parti",1
+Hvidovre,8,Avedøre Idrætscenter,V_Leon_Tilgaard,Leon Tilgaard,"Venstre, Danmarks Liberale Parti",5
+Hvidovre,8,Avedøre Idrætscenter,V_Susanne_Nowicki_Rasmussen,Susanne Nowicki Rasmussen,"Venstre, Danmarks Liberale Parti",2
+Hvidovre,8,Avedøre Idrætscenter,V_Pia_Szymanski_Vermundsen,Pia Szymanski Vermundsen,"Venstre, Danmarks Liberale Parti",1
+Hvidovre,8,Avedøre Idrætscenter,V_Henrik_Farnø,Henrik Farnø,"Venstre, Danmarks Liberale Parti",0
+Hvidovre,8,Avedøre Idrætscenter,V_Marcus_Bjerre,Marcus Bjerre,"Venstre, Danmarks Liberale Parti",4
+Hvidovre,8,Avedøre Idrætscenter,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,118
+Hvidovre,8,Avedøre Idrætscenter,Ø_Karin_Lizzy_Kofod,Karin Lizzy Kofod,Enhedslisten - De Rød-Grønne,46
+Hvidovre,8,Avedøre Idrætscenter,Ø_Thomas_Høgsberg_Andersen,Thomas Høgsberg Andersen,Enhedslisten - De Rød-Grønne,9
+Hvidovre,8,Avedøre Idrætscenter,Ø_Gert_Wahl,Gert Wahl,Enhedslisten - De Rød-Grønne,10
+Hvidovre,8,Avedøre Idrætscenter,Ø_Helene_Caprani,Helene Caprani,Enhedslisten - De Rød-Grønne,12
+Hvidovre,8,Avedøre Idrætscenter,Ø_Birthe_Bang_Larsen,Birthe Bang Larsen,Enhedslisten - De Rød-Grønne,2

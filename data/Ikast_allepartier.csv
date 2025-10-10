@@ -1,0 +1,871 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Ikast,1,Ejstrup,A_Listestemmer,Listestemmer,Socialdemokratiet,37
+Ikast,1,Ejstrup,A_Kasper_Pauli_Pedersen,Kasper Pauli Pedersen,Socialdemokratiet,18
+Ikast,1,Ejstrup,A_Søs_Philipsen,Søs Philipsen,Socialdemokratiet,7
+Ikast,1,Ejstrup,A_Birthe_Sørensen,Birthe Sørensen,Socialdemokratiet,3
+Ikast,1,Ejstrup,A_H.C._Jørgensen,H.C. Jørgensen,Socialdemokratiet,4
+Ikast,1,Ejstrup,A_Kirsten_Hoffmann,Kirsten Hoffmann,Socialdemokratiet,132
+Ikast,1,Ejstrup,A_Mustafa_Arslan,Mustafa Arslan,Socialdemokratiet,1
+Ikast,1,Ejstrup,A_Yildiz_Kibar,Yildiz Kibar,Socialdemokratiet,0
+Ikast,1,Ejstrup,A_Joan_Højlund,Joan Højlund,Socialdemokratiet,2
+Ikast,1,Ejstrup,A_Helle_Regine_Drongstrup,Helle Regine Drongstrup,Socialdemokratiet,62
+Ikast,1,Ejstrup,A_Henrik_Christensen,Henrik Christensen,Socialdemokratiet,3
+Ikast,1,Ejstrup,A_Inge_Dinis,Inge Dinis,Socialdemokratiet,2
+Ikast,1,Ejstrup,A_Peter_Bjerregaard,Peter Bjerregaard,Socialdemokratiet,0
+Ikast,1,Ejstrup,A_Eddie_Sørensen,Eddie Sørensen,Socialdemokratiet,0
+Ikast,1,Ejstrup,A_Jacob_Rosen_Madsen,Jacob Rosen Madsen,Socialdemokratiet,14
+Ikast,1,Ejstrup,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,20
+Ikast,1,Ejstrup,C_Annette_Mosegaard,Annette Mosegaard,Det Konservative Folkeparti,50
+Ikast,1,Ejstrup,C_Kirsten_York_Helms,Kirsten York Helms,Det Konservative Folkeparti,3
+Ikast,1,Ejstrup,C_Heinrich_Rune,Heinrich Rune,Det Konservative Folkeparti,1
+Ikast,1,Ejstrup,C_Dina_Raabjerg,Dina Raabjerg,Det Konservative Folkeparti,3
+Ikast,1,Ejstrup,C_Annette_Øgaard,Annette Øgaard,Det Konservative Folkeparti,177
+Ikast,1,Ejstrup,C_Peter_Søgaard,Peter Søgaard,Det Konservative Folkeparti,4
+Ikast,1,Ejstrup,C_Morten_Munk_Østergaard,Morten Munk Østergaard,Det Konservative Folkeparti,0
+Ikast,1,Ejstrup,C_Per_Abildskov,Per Abildskov,Det Konservative Folkeparti,0
+Ikast,1,Ejstrup,C_Siff_Tang_Lassen,Siff Tang Lassen,Det Konservative Folkeparti,8
+Ikast,1,Ejstrup,C_Henrik_Overgaard,Henrik Overgaard,Det Konservative Folkeparti,2
+Ikast,1,Ejstrup,C_Hanne_Bang_Pedersen,Hanne Bang Pedersen,Det Konservative Folkeparti,4
+Ikast,1,Ejstrup,C_Ditte_Mundbjerg_Jørgensen,Ditte Mundbjerg Jørgensen,Det Konservative Folkeparti,1
+Ikast,1,Ejstrup,D_Listestemmer,Listestemmer,Nye Borgerlige,21
+Ikast,1,Ejstrup,D_Bruno_Ostenfeldt_Jensen,Bruno Ostenfeldt Jensen,Nye Borgerlige,34
+Ikast,1,Ejstrup,D_Tommy_Høgh_Vestergaard,Tommy Høgh Vestergaard,Nye Borgerlige,4
+Ikast,1,Ejstrup,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,9
+Ikast,1,Ejstrup,F_Emma_Thorup_Jacobsen,Emma Thorup Jacobsen,SF - Socialistisk Folkeparti,17
+Ikast,1,Ejstrup,F_Karina_Gudmann,Karina Gudmann,SF - Socialistisk Folkeparti,0
+Ikast,1,Ejstrup,K_Listestemmer,Listestemmer,Kristendemokraterne,9
+Ikast,1,Ejstrup,K_Jens_Erik_Skals,Jens Erik Skals,Kristendemokraterne,45
+Ikast,1,Ejstrup,K_Finn_Vestergaard,Finn Vestergaard,Kristendemokraterne,2
+Ikast,1,Ejstrup,K_Willy_Højgård,Willy Højgård,Kristendemokraterne,0
+Ikast,1,Ejstrup,K_Torsteen_Nielsen,Torsteen Nielsen,Kristendemokraterne,1
+Ikast,1,Ejstrup,K_Svend-Erik_Hansen,Svend-Erik Hansen,Kristendemokraterne,0
+Ikast,1,Ejstrup,K_Danny_Bonn_Pedersen,Danny Bonn Pedersen,Kristendemokraterne,2
+Ikast,1,Ejstrup,K_Albert_Poulsen,Albert Poulsen,Kristendemokraterne,0
+Ikast,1,Ejstrup,K_Annet_Mesnickow,Annet Mesnickow,Kristendemokraterne,0
+Ikast,1,Ejstrup,L_Listestemmer,Listestemmer,Fælleslisten,6
+Ikast,1,Ejstrup,L_Morten_Bak,Morten Bak,Fælleslisten,4
+Ikast,1,Ejstrup,L_Lotte_Stoltenborg,Lotte Stoltenborg,Fælleslisten,10
+Ikast,1,Ejstrup,L_Morten_Colbert,Morten Colbert,Fælleslisten,6
+Ikast,1,Ejstrup,L_Rune_Lyager,Rune Lyager,Fælleslisten,2
+Ikast,1,Ejstrup,L_Henrik_Boelsgaard,Henrik Boelsgaard,Fælleslisten,2
+Ikast,1,Ejstrup,L_Allan_Nielsen,Allan Nielsen,Fælleslisten,1
+Ikast,1,Ejstrup,L_Lasse_Haahr,Lasse Haahr,Fælleslisten,0
+Ikast,1,Ejstrup,L_Mads_Hviid,Mads Hviid,Fælleslisten,0
+Ikast,1,Ejstrup,L_Bjørn_Topbjerg,Bjørn Topbjerg,Fælleslisten,1
+Ikast,1,Ejstrup,O_Listestemmer,Listestemmer,Dansk Folkeparti,26
+Ikast,1,Ejstrup,O_Simon_Vanggaard,Simon Vanggaard,Dansk Folkeparti,76
+Ikast,1,Ejstrup,O_Trine_Meldgaard_Kristensen,Trine Meldgaard Kristensen,Dansk Folkeparti,6
+Ikast,1,Ejstrup,O_Bo_Sand_Kristensen,Bo Sand Kristensen,Dansk Folkeparti,4
+Ikast,1,Ejstrup,O_Mikael_Würtz,Mikael Würtz,Dansk Folkeparti,2
+Ikast,1,Ejstrup,O_Tina_Ostersen,Tina Ostersen,Dansk Folkeparti,4
+Ikast,1,Ejstrup,O_Jytte_Graversen,Jytte Graversen,Dansk Folkeparti,22
+Ikast,1,Ejstrup,O_Peder_Fenger,Peder Fenger,Dansk Folkeparti,3
+Ikast,1,Ejstrup,O_H.C._Hansen,H.C. Hansen,Dansk Folkeparti,1
+Ikast,1,Ejstrup,O_Jens_Laursen,Jens Laursen,Dansk Folkeparti,1
+Ikast,1,Ejstrup,O_Finn_Brostrup,Finn Brostrup,Dansk Folkeparti,6
+Ikast,1,Ejstrup,O_Dan_Albrechtsen,Dan Albrechtsen,Dansk Folkeparti,0
+Ikast,1,Ejstrup,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",30
+Ikast,1,Ejstrup,V_Ib_Lauritsen,Ib Lauritsen,"Venstre, Danmarks Liberale Parti",33
+Ikast,1,Ejstrup,V_Jens_Peter_Bak,Jens Peter Bak,"Venstre, Danmarks Liberale Parti",23
+Ikast,1,Ejstrup,V_Katri_Berg,Katri Berg,"Venstre, Danmarks Liberale Parti",1
+Ikast,1,Ejstrup,V_Gert_Bækgaard,Gert Bækgaard,"Venstre, Danmarks Liberale Parti",1
+Ikast,1,Ejstrup,V_Henrik_Christiansen,Henrik Christiansen,"Venstre, Danmarks Liberale Parti",0
+Ikast,1,Ejstrup,V_Stig_Døssing,Stig Døssing,"Venstre, Danmarks Liberale Parti",2
+Ikast,1,Ejstrup,V_Henrik_Engedahl,Henrik Engedahl,"Venstre, Danmarks Liberale Parti",8
+Ikast,1,Ejstrup,V_Palle_Høj,Palle Høj,"Venstre, Danmarks Liberale Parti",5
+Ikast,1,Ejstrup,V_Thyge_Lønne_Jensen,Thyge Lønne Jensen,"Venstre, Danmarks Liberale Parti",2
+Ikast,1,Ejstrup,V_Laila_Leerholm,Laila Leerholm,"Venstre, Danmarks Liberale Parti",1
+Ikast,1,Ejstrup,V_Lars_Lyhne,Lars Lyhne,"Venstre, Danmarks Liberale Parti",2
+Ikast,1,Ejstrup,V_Helle_Mathiasen,Helle Mathiasen,"Venstre, Danmarks Liberale Parti",297
+Ikast,1,Ejstrup,V_Anne-Marie_Kragsig_Pedersen,Anne-Marie Kragsig Pedersen,"Venstre, Danmarks Liberale Parti",1
+Ikast,1,Ejstrup,V_Frank_Thygesen,Frank Thygesen,"Venstre, Danmarks Liberale Parti",2
+Ikast,1,Ejstrup,V_Andreas_Würtz,Andreas Würtz,"Venstre, Danmarks Liberale Parti",9
+Ikast,1,Ejstrup,V_Thomas_Østergaard,Thomas Østergaard,"Venstre, Danmarks Liberale Parti",14
+Ikast,1,Ejstrup,Æ_Listestemmer,Listestemmer,Frihedslisten,1
+Ikast,1,Ejstrup,Æ_Kirsten_Merrild,Kirsten Merrild,Frihedslisten,2
+Ikast,1,Ejstrup,Æ_Elisabeth_Victoria_Muhlig,Elisabeth Victoria Muhlig,Frihedslisten,0
+Ikast,1,Ejstrup,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,9
+Ikast,1,Ejstrup,Ø_Charlotte_Kold,Charlotte Kold,Enhedslisten - De Rød-Grønne,8
+Ikast,2,Gludsted,A_Listestemmer,Listestemmer,Socialdemokratiet,11
+Ikast,2,Gludsted,A_Kasper_Pauli_Pedersen,Kasper Pauli Pedersen,Socialdemokratiet,8
+Ikast,2,Gludsted,A_Søs_Philipsen,Søs Philipsen,Socialdemokratiet,1
+Ikast,2,Gludsted,A_Birthe_Sørensen,Birthe Sørensen,Socialdemokratiet,3
+Ikast,2,Gludsted,A_H.C._Jørgensen,H.C. Jørgensen,Socialdemokratiet,1
+Ikast,2,Gludsted,A_Kirsten_Hoffmann,Kirsten Hoffmann,Socialdemokratiet,100
+Ikast,2,Gludsted,A_Mustafa_Arslan,Mustafa Arslan,Socialdemokratiet,0
+Ikast,2,Gludsted,A_Yildiz_Kibar,Yildiz Kibar,Socialdemokratiet,1
+Ikast,2,Gludsted,A_Joan_Højlund,Joan Højlund,Socialdemokratiet,1
+Ikast,2,Gludsted,A_Helle_Regine_Drongstrup,Helle Regine Drongstrup,Socialdemokratiet,3
+Ikast,2,Gludsted,A_Henrik_Christensen,Henrik Christensen,Socialdemokratiet,0
+Ikast,2,Gludsted,A_Inge_Dinis,Inge Dinis,Socialdemokratiet,3
+Ikast,2,Gludsted,A_Peter_Bjerregaard,Peter Bjerregaard,Socialdemokratiet,0
+Ikast,2,Gludsted,A_Eddie_Sørensen,Eddie Sørensen,Socialdemokratiet,0
+Ikast,2,Gludsted,A_Jacob_Rosen_Madsen,Jacob Rosen Madsen,Socialdemokratiet,34
+Ikast,2,Gludsted,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,14
+Ikast,2,Gludsted,C_Annette_Mosegaard,Annette Mosegaard,Det Konservative Folkeparti,32
+Ikast,2,Gludsted,C_Kirsten_York_Helms,Kirsten York Helms,Det Konservative Folkeparti,3
+Ikast,2,Gludsted,C_Heinrich_Rune,Heinrich Rune,Det Konservative Folkeparti,0
+Ikast,2,Gludsted,C_Dina_Raabjerg,Dina Raabjerg,Det Konservative Folkeparti,2
+Ikast,2,Gludsted,C_Annette_Øgaard,Annette Øgaard,Det Konservative Folkeparti,21
+Ikast,2,Gludsted,C_Peter_Søgaard,Peter Søgaard,Det Konservative Folkeparti,1
+Ikast,2,Gludsted,C_Morten_Munk_Østergaard,Morten Munk Østergaard,Det Konservative Folkeparti,0
+Ikast,2,Gludsted,C_Per_Abildskov,Per Abildskov,Det Konservative Folkeparti,1
+Ikast,2,Gludsted,C_Siff_Tang_Lassen,Siff Tang Lassen,Det Konservative Folkeparti,0
+Ikast,2,Gludsted,C_Henrik_Overgaard,Henrik Overgaard,Det Konservative Folkeparti,4
+Ikast,2,Gludsted,C_Hanne_Bang_Pedersen,Hanne Bang Pedersen,Det Konservative Folkeparti,3
+Ikast,2,Gludsted,C_Ditte_Mundbjerg_Jørgensen,Ditte Mundbjerg Jørgensen,Det Konservative Folkeparti,0
+Ikast,2,Gludsted,D_Listestemmer,Listestemmer,Nye Borgerlige,6
+Ikast,2,Gludsted,D_Bruno_Ostenfeldt_Jensen,Bruno Ostenfeldt Jensen,Nye Borgerlige,18
+Ikast,2,Gludsted,D_Tommy_Høgh_Vestergaard,Tommy Høgh Vestergaard,Nye Borgerlige,6
+Ikast,2,Gludsted,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,0
+Ikast,2,Gludsted,F_Emma_Thorup_Jacobsen,Emma Thorup Jacobsen,SF - Socialistisk Folkeparti,7
+Ikast,2,Gludsted,F_Karina_Gudmann,Karina Gudmann,SF - Socialistisk Folkeparti,0
+Ikast,2,Gludsted,K_Listestemmer,Listestemmer,Kristendemokraterne,5
+Ikast,2,Gludsted,K_Jens_Erik_Skals,Jens Erik Skals,Kristendemokraterne,24
+Ikast,2,Gludsted,K_Finn_Vestergaard,Finn Vestergaard,Kristendemokraterne,0
+Ikast,2,Gludsted,K_Willy_Højgård,Willy Højgård,Kristendemokraterne,0
+Ikast,2,Gludsted,K_Torsteen_Nielsen,Torsteen Nielsen,Kristendemokraterne,1
+Ikast,2,Gludsted,K_Svend-Erik_Hansen,Svend-Erik Hansen,Kristendemokraterne,1
+Ikast,2,Gludsted,K_Danny_Bonn_Pedersen,Danny Bonn Pedersen,Kristendemokraterne,1
+Ikast,2,Gludsted,K_Albert_Poulsen,Albert Poulsen,Kristendemokraterne,0
+Ikast,2,Gludsted,K_Annet_Mesnickow,Annet Mesnickow,Kristendemokraterne,0
+Ikast,2,Gludsted,L_Listestemmer,Listestemmer,Fælleslisten,0
+Ikast,2,Gludsted,L_Morten_Bak,Morten Bak,Fælleslisten,0
+Ikast,2,Gludsted,L_Lotte_Stoltenborg,Lotte Stoltenborg,Fælleslisten,1
+Ikast,2,Gludsted,L_Morten_Colbert,Morten Colbert,Fælleslisten,1
+Ikast,2,Gludsted,L_Rune_Lyager,Rune Lyager,Fælleslisten,2
+Ikast,2,Gludsted,L_Henrik_Boelsgaard,Henrik Boelsgaard,Fælleslisten,4
+Ikast,2,Gludsted,L_Allan_Nielsen,Allan Nielsen,Fælleslisten,0
+Ikast,2,Gludsted,L_Lasse_Haahr,Lasse Haahr,Fælleslisten,0
+Ikast,2,Gludsted,L_Mads_Hviid,Mads Hviid,Fælleslisten,0
+Ikast,2,Gludsted,L_Bjørn_Topbjerg,Bjørn Topbjerg,Fælleslisten,0
+Ikast,2,Gludsted,O_Listestemmer,Listestemmer,Dansk Folkeparti,13
+Ikast,2,Gludsted,O_Simon_Vanggaard,Simon Vanggaard,Dansk Folkeparti,41
+Ikast,2,Gludsted,O_Trine_Meldgaard_Kristensen,Trine Meldgaard Kristensen,Dansk Folkeparti,4
+Ikast,2,Gludsted,O_Bo_Sand_Kristensen,Bo Sand Kristensen,Dansk Folkeparti,1
+Ikast,2,Gludsted,O_Mikael_Würtz,Mikael Würtz,Dansk Folkeparti,0
+Ikast,2,Gludsted,O_Tina_Ostersen,Tina Ostersen,Dansk Folkeparti,1
+Ikast,2,Gludsted,O_Jytte_Graversen,Jytte Graversen,Dansk Folkeparti,4
+Ikast,2,Gludsted,O_Peder_Fenger,Peder Fenger,Dansk Folkeparti,0
+Ikast,2,Gludsted,O_H.C._Hansen,H.C. Hansen,Dansk Folkeparti,0
+Ikast,2,Gludsted,O_Jens_Laursen,Jens Laursen,Dansk Folkeparti,0
+Ikast,2,Gludsted,O_Finn_Brostrup,Finn Brostrup,Dansk Folkeparti,5
+Ikast,2,Gludsted,O_Dan_Albrechtsen,Dan Albrechtsen,Dansk Folkeparti,0
+Ikast,2,Gludsted,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",24
+Ikast,2,Gludsted,V_Ib_Lauritsen,Ib Lauritsen,"Venstre, Danmarks Liberale Parti",17
+Ikast,2,Gludsted,V_Jens_Peter_Bak,Jens Peter Bak,"Venstre, Danmarks Liberale Parti",32
+Ikast,2,Gludsted,V_Katri_Berg,Katri Berg,"Venstre, Danmarks Liberale Parti",1
+Ikast,2,Gludsted,V_Gert_Bækgaard,Gert Bækgaard,"Venstre, Danmarks Liberale Parti",1
+Ikast,2,Gludsted,V_Henrik_Christiansen,Henrik Christiansen,"Venstre, Danmarks Liberale Parti",0
+Ikast,2,Gludsted,V_Stig_Døssing,Stig Døssing,"Venstre, Danmarks Liberale Parti",5
+Ikast,2,Gludsted,V_Henrik_Engedahl,Henrik Engedahl,"Venstre, Danmarks Liberale Parti",2
+Ikast,2,Gludsted,V_Palle_Høj,Palle Høj,"Venstre, Danmarks Liberale Parti",3
+Ikast,2,Gludsted,V_Thyge_Lønne_Jensen,Thyge Lønne Jensen,"Venstre, Danmarks Liberale Parti",2
+Ikast,2,Gludsted,V_Laila_Leerholm,Laila Leerholm,"Venstre, Danmarks Liberale Parti",2
+Ikast,2,Gludsted,V_Lars_Lyhne,Lars Lyhne,"Venstre, Danmarks Liberale Parti",0
+Ikast,2,Gludsted,V_Helle_Mathiasen,Helle Mathiasen,"Venstre, Danmarks Liberale Parti",23
+Ikast,2,Gludsted,V_Anne-Marie_Kragsig_Pedersen,Anne-Marie Kragsig Pedersen,"Venstre, Danmarks Liberale Parti",0
+Ikast,2,Gludsted,V_Frank_Thygesen,Frank Thygesen,"Venstre, Danmarks Liberale Parti",5
+Ikast,2,Gludsted,V_Andreas_Würtz,Andreas Würtz,"Venstre, Danmarks Liberale Parti",1
+Ikast,2,Gludsted,V_Thomas_Østergaard,Thomas Østergaard,"Venstre, Danmarks Liberale Parti",1
+Ikast,2,Gludsted,Æ_Listestemmer,Listestemmer,Frihedslisten,2
+Ikast,2,Gludsted,Æ_Kirsten_Merrild,Kirsten Merrild,Frihedslisten,0
+Ikast,2,Gludsted,Æ_Elisabeth_Victoria_Muhlig,Elisabeth Victoria Muhlig,Frihedslisten,0
+Ikast,2,Gludsted,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,5
+Ikast,2,Gludsted,Ø_Charlotte_Kold,Charlotte Kold,Enhedslisten - De Rød-Grønne,7
+Ikast,3,Nørre Snede,A_Listestemmer,Listestemmer,Socialdemokratiet,107
+Ikast,3,Nørre Snede,A_Kasper_Pauli_Pedersen,Kasper Pauli Pedersen,Socialdemokratiet,34
+Ikast,3,Nørre Snede,A_Søs_Philipsen,Søs Philipsen,Socialdemokratiet,11
+Ikast,3,Nørre Snede,A_Birthe_Sørensen,Birthe Sørensen,Socialdemokratiet,4
+Ikast,3,Nørre Snede,A_H.C._Jørgensen,H.C. Jørgensen,Socialdemokratiet,2
+Ikast,3,Nørre Snede,A_Kirsten_Hoffmann,Kirsten Hoffmann,Socialdemokratiet,76
+Ikast,3,Nørre Snede,A_Mustafa_Arslan,Mustafa Arslan,Socialdemokratiet,3
+Ikast,3,Nørre Snede,A_Yildiz_Kibar,Yildiz Kibar,Socialdemokratiet,1
+Ikast,3,Nørre Snede,A_Joan_Højlund,Joan Højlund,Socialdemokratiet,4
+Ikast,3,Nørre Snede,A_Helle_Regine_Drongstrup,Helle Regine Drongstrup,Socialdemokratiet,26
+Ikast,3,Nørre Snede,A_Henrik_Christensen,Henrik Christensen,Socialdemokratiet,1
+Ikast,3,Nørre Snede,A_Inge_Dinis,Inge Dinis,Socialdemokratiet,5
+Ikast,3,Nørre Snede,A_Peter_Bjerregaard,Peter Bjerregaard,Socialdemokratiet,0
+Ikast,3,Nørre Snede,A_Eddie_Sørensen,Eddie Sørensen,Socialdemokratiet,2
+Ikast,3,Nørre Snede,A_Jacob_Rosen_Madsen,Jacob Rosen Madsen,Socialdemokratiet,12
+Ikast,3,Nørre Snede,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,40
+Ikast,3,Nørre Snede,C_Annette_Mosegaard,Annette Mosegaard,Det Konservative Folkeparti,36
+Ikast,3,Nørre Snede,C_Kirsten_York_Helms,Kirsten York Helms,Det Konservative Folkeparti,10
+Ikast,3,Nørre Snede,C_Heinrich_Rune,Heinrich Rune,Det Konservative Folkeparti,0
+Ikast,3,Nørre Snede,C_Dina_Raabjerg,Dina Raabjerg,Det Konservative Folkeparti,6
+Ikast,3,Nørre Snede,C_Annette_Øgaard,Annette Øgaard,Det Konservative Folkeparti,39
+Ikast,3,Nørre Snede,C_Peter_Søgaard,Peter Søgaard,Det Konservative Folkeparti,1
+Ikast,3,Nørre Snede,C_Morten_Munk_Østergaard,Morten Munk Østergaard,Det Konservative Folkeparti,0
+Ikast,3,Nørre Snede,C_Per_Abildskov,Per Abildskov,Det Konservative Folkeparti,0
+Ikast,3,Nørre Snede,C_Siff_Tang_Lassen,Siff Tang Lassen,Det Konservative Folkeparti,4
+Ikast,3,Nørre Snede,C_Henrik_Overgaard,Henrik Overgaard,Det Konservative Folkeparti,7
+Ikast,3,Nørre Snede,C_Hanne_Bang_Pedersen,Hanne Bang Pedersen,Det Konservative Folkeparti,59
+Ikast,3,Nørre Snede,C_Ditte_Mundbjerg_Jørgensen,Ditte Mundbjerg Jørgensen,Det Konservative Folkeparti,4
+Ikast,3,Nørre Snede,D_Listestemmer,Listestemmer,Nye Borgerlige,20
+Ikast,3,Nørre Snede,D_Bruno_Ostenfeldt_Jensen,Bruno Ostenfeldt Jensen,Nye Borgerlige,25
+Ikast,3,Nørre Snede,D_Tommy_Høgh_Vestergaard,Tommy Høgh Vestergaard,Nye Borgerlige,7
+Ikast,3,Nørre Snede,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,25
+Ikast,3,Nørre Snede,F_Emma_Thorup_Jacobsen,Emma Thorup Jacobsen,SF - Socialistisk Folkeparti,31
+Ikast,3,Nørre Snede,F_Karina_Gudmann,Karina Gudmann,SF - Socialistisk Folkeparti,7
+Ikast,3,Nørre Snede,K_Listestemmer,Listestemmer,Kristendemokraterne,4
+Ikast,3,Nørre Snede,K_Jens_Erik_Skals,Jens Erik Skals,Kristendemokraterne,17
+Ikast,3,Nørre Snede,K_Finn_Vestergaard,Finn Vestergaard,Kristendemokraterne,4
+Ikast,3,Nørre Snede,K_Willy_Højgård,Willy Højgård,Kristendemokraterne,0
+Ikast,3,Nørre Snede,K_Torsteen_Nielsen,Torsteen Nielsen,Kristendemokraterne,0
+Ikast,3,Nørre Snede,K_Svend-Erik_Hansen,Svend-Erik Hansen,Kristendemokraterne,1
+Ikast,3,Nørre Snede,K_Danny_Bonn_Pedersen,Danny Bonn Pedersen,Kristendemokraterne,3
+Ikast,3,Nørre Snede,K_Albert_Poulsen,Albert Poulsen,Kristendemokraterne,1
+Ikast,3,Nørre Snede,K_Annet_Mesnickow,Annet Mesnickow,Kristendemokraterne,0
+Ikast,3,Nørre Snede,L_Listestemmer,Listestemmer,Fælleslisten,1
+Ikast,3,Nørre Snede,L_Morten_Bak,Morten Bak,Fælleslisten,0
+Ikast,3,Nørre Snede,L_Lotte_Stoltenborg,Lotte Stoltenborg,Fælleslisten,3
+Ikast,3,Nørre Snede,L_Morten_Colbert,Morten Colbert,Fælleslisten,3
+Ikast,3,Nørre Snede,L_Rune_Lyager,Rune Lyager,Fælleslisten,0
+Ikast,3,Nørre Snede,L_Henrik_Boelsgaard,Henrik Boelsgaard,Fælleslisten,0
+Ikast,3,Nørre Snede,L_Allan_Nielsen,Allan Nielsen,Fælleslisten,0
+Ikast,3,Nørre Snede,L_Lasse_Haahr,Lasse Haahr,Fælleslisten,0
+Ikast,3,Nørre Snede,L_Mads_Hviid,Mads Hviid,Fælleslisten,0
+Ikast,3,Nørre Snede,L_Bjørn_Topbjerg,Bjørn Topbjerg,Fælleslisten,0
+Ikast,3,Nørre Snede,O_Listestemmer,Listestemmer,Dansk Folkeparti,34
+Ikast,3,Nørre Snede,O_Simon_Vanggaard,Simon Vanggaard,Dansk Folkeparti,61
+Ikast,3,Nørre Snede,O_Trine_Meldgaard_Kristensen,Trine Meldgaard Kristensen,Dansk Folkeparti,9
+Ikast,3,Nørre Snede,O_Bo_Sand_Kristensen,Bo Sand Kristensen,Dansk Folkeparti,3
+Ikast,3,Nørre Snede,O_Mikael_Würtz,Mikael Würtz,Dansk Folkeparti,2
+Ikast,3,Nørre Snede,O_Tina_Ostersen,Tina Ostersen,Dansk Folkeparti,3
+Ikast,3,Nørre Snede,O_Jytte_Graversen,Jytte Graversen,Dansk Folkeparti,17
+Ikast,3,Nørre Snede,O_Peder_Fenger,Peder Fenger,Dansk Folkeparti,0
+Ikast,3,Nørre Snede,O_H.C._Hansen,H.C. Hansen,Dansk Folkeparti,0
+Ikast,3,Nørre Snede,O_Jens_Laursen,Jens Laursen,Dansk Folkeparti,0
+Ikast,3,Nørre Snede,O_Finn_Brostrup,Finn Brostrup,Dansk Folkeparti,111
+Ikast,3,Nørre Snede,O_Dan_Albrechtsen,Dan Albrechtsen,Dansk Folkeparti,0
+Ikast,3,Nørre Snede,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",46
+Ikast,3,Nørre Snede,V_Ib_Lauritsen,Ib Lauritsen,"Venstre, Danmarks Liberale Parti",34
+Ikast,3,Nørre Snede,V_Jens_Peter_Bak,Jens Peter Bak,"Venstre, Danmarks Liberale Parti",11
+Ikast,3,Nørre Snede,V_Katri_Berg,Katri Berg,"Venstre, Danmarks Liberale Parti",1
+Ikast,3,Nørre Snede,V_Gert_Bækgaard,Gert Bækgaard,"Venstre, Danmarks Liberale Parti",0
+Ikast,3,Nørre Snede,V_Henrik_Christiansen,Henrik Christiansen,"Venstre, Danmarks Liberale Parti",7
+Ikast,3,Nørre Snede,V_Stig_Døssing,Stig Døssing,"Venstre, Danmarks Liberale Parti",6
+Ikast,3,Nørre Snede,V_Henrik_Engedahl,Henrik Engedahl,"Venstre, Danmarks Liberale Parti",3
+Ikast,3,Nørre Snede,V_Palle_Høj,Palle Høj,"Venstre, Danmarks Liberale Parti",0
+Ikast,3,Nørre Snede,V_Thyge_Lønne_Jensen,Thyge Lønne Jensen,"Venstre, Danmarks Liberale Parti",1
+Ikast,3,Nørre Snede,V_Laila_Leerholm,Laila Leerholm,"Venstre, Danmarks Liberale Parti",3
+Ikast,3,Nørre Snede,V_Lars_Lyhne,Lars Lyhne,"Venstre, Danmarks Liberale Parti",3
+Ikast,3,Nørre Snede,V_Helle_Mathiasen,Helle Mathiasen,"Venstre, Danmarks Liberale Parti",44
+Ikast,3,Nørre Snede,V_Anne-Marie_Kragsig_Pedersen,Anne-Marie Kragsig Pedersen,"Venstre, Danmarks Liberale Parti",1
+Ikast,3,Nørre Snede,V_Frank_Thygesen,Frank Thygesen,"Venstre, Danmarks Liberale Parti",139
+Ikast,3,Nørre Snede,V_Andreas_Würtz,Andreas Würtz,"Venstre, Danmarks Liberale Parti",4
+Ikast,3,Nørre Snede,V_Thomas_Østergaard,Thomas Østergaard,"Venstre, Danmarks Liberale Parti",3
+Ikast,3,Nørre Snede,Æ_Listestemmer,Listestemmer,Frihedslisten,1
+Ikast,3,Nørre Snede,Æ_Kirsten_Merrild,Kirsten Merrild,Frihedslisten,4
+Ikast,3,Nørre Snede,Æ_Elisabeth_Victoria_Muhlig,Elisabeth Victoria Muhlig,Frihedslisten,3
+Ikast,3,Nørre Snede,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,16
+Ikast,3,Nørre Snede,Ø_Charlotte_Kold,Charlotte Kold,Enhedslisten - De Rød-Grønne,39
+Ikast,4,Klovborg,A_Listestemmer,Listestemmer,Socialdemokratiet,27
+Ikast,4,Klovborg,A_Kasper_Pauli_Pedersen,Kasper Pauli Pedersen,Socialdemokratiet,6
+Ikast,4,Klovborg,A_Søs_Philipsen,Søs Philipsen,Socialdemokratiet,3
+Ikast,4,Klovborg,A_Birthe_Sørensen,Birthe Sørensen,Socialdemokratiet,4
+Ikast,4,Klovborg,A_H.C._Jørgensen,H.C. Jørgensen,Socialdemokratiet,1
+Ikast,4,Klovborg,A_Kirsten_Hoffmann,Kirsten Hoffmann,Socialdemokratiet,15
+Ikast,4,Klovborg,A_Mustafa_Arslan,Mustafa Arslan,Socialdemokratiet,2
+Ikast,4,Klovborg,A_Yildiz_Kibar,Yildiz Kibar,Socialdemokratiet,1
+Ikast,4,Klovborg,A_Joan_Højlund,Joan Højlund,Socialdemokratiet,0
+Ikast,4,Klovborg,A_Helle_Regine_Drongstrup,Helle Regine Drongstrup,Socialdemokratiet,2
+Ikast,4,Klovborg,A_Henrik_Christensen,Henrik Christensen,Socialdemokratiet,0
+Ikast,4,Klovborg,A_Inge_Dinis,Inge Dinis,Socialdemokratiet,1
+Ikast,4,Klovborg,A_Peter_Bjerregaard,Peter Bjerregaard,Socialdemokratiet,0
+Ikast,4,Klovborg,A_Eddie_Sørensen,Eddie Sørensen,Socialdemokratiet,0
+Ikast,4,Klovborg,A_Jacob_Rosen_Madsen,Jacob Rosen Madsen,Socialdemokratiet,8
+Ikast,4,Klovborg,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,9
+Ikast,4,Klovborg,C_Annette_Mosegaard,Annette Mosegaard,Det Konservative Folkeparti,7
+Ikast,4,Klovborg,C_Kirsten_York_Helms,Kirsten York Helms,Det Konservative Folkeparti,1
+Ikast,4,Klovborg,C_Heinrich_Rune,Heinrich Rune,Det Konservative Folkeparti,0
+Ikast,4,Klovborg,C_Dina_Raabjerg,Dina Raabjerg,Det Konservative Folkeparti,0
+Ikast,4,Klovborg,C_Annette_Øgaard,Annette Øgaard,Det Konservative Folkeparti,3
+Ikast,4,Klovborg,C_Peter_Søgaard,Peter Søgaard,Det Konservative Folkeparti,0
+Ikast,4,Klovborg,C_Morten_Munk_Østergaard,Morten Munk Østergaard,Det Konservative Folkeparti,2
+Ikast,4,Klovborg,C_Per_Abildskov,Per Abildskov,Det Konservative Folkeparti,0
+Ikast,4,Klovborg,C_Siff_Tang_Lassen,Siff Tang Lassen,Det Konservative Folkeparti,1
+Ikast,4,Klovborg,C_Henrik_Overgaard,Henrik Overgaard,Det Konservative Folkeparti,0
+Ikast,4,Klovborg,C_Hanne_Bang_Pedersen,Hanne Bang Pedersen,Det Konservative Folkeparti,147
+Ikast,4,Klovborg,C_Ditte_Mundbjerg_Jørgensen,Ditte Mundbjerg Jørgensen,Det Konservative Folkeparti,0
+Ikast,4,Klovborg,D_Listestemmer,Listestemmer,Nye Borgerlige,13
+Ikast,4,Klovborg,D_Bruno_Ostenfeldt_Jensen,Bruno Ostenfeldt Jensen,Nye Borgerlige,22
+Ikast,4,Klovborg,D_Tommy_Høgh_Vestergaard,Tommy Høgh Vestergaard,Nye Borgerlige,1
+Ikast,4,Klovborg,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,8
+Ikast,4,Klovborg,F_Emma_Thorup_Jacobsen,Emma Thorup Jacobsen,SF - Socialistisk Folkeparti,3
+Ikast,4,Klovborg,F_Karina_Gudmann,Karina Gudmann,SF - Socialistisk Folkeparti,2
+Ikast,4,Klovborg,K_Listestemmer,Listestemmer,Kristendemokraterne,2
+Ikast,4,Klovborg,K_Jens_Erik_Skals,Jens Erik Skals,Kristendemokraterne,20
+Ikast,4,Klovborg,K_Finn_Vestergaard,Finn Vestergaard,Kristendemokraterne,1
+Ikast,4,Klovborg,K_Willy_Højgård,Willy Højgård,Kristendemokraterne,3
+Ikast,4,Klovborg,K_Torsteen_Nielsen,Torsteen Nielsen,Kristendemokraterne,0
+Ikast,4,Klovborg,K_Svend-Erik_Hansen,Svend-Erik Hansen,Kristendemokraterne,0
+Ikast,4,Klovborg,K_Danny_Bonn_Pedersen,Danny Bonn Pedersen,Kristendemokraterne,0
+Ikast,4,Klovborg,K_Albert_Poulsen,Albert Poulsen,Kristendemokraterne,0
+Ikast,4,Klovborg,K_Annet_Mesnickow,Annet Mesnickow,Kristendemokraterne,0
+Ikast,4,Klovborg,L_Listestemmer,Listestemmer,Fælleslisten,1
+Ikast,4,Klovborg,L_Morten_Bak,Morten Bak,Fælleslisten,0
+Ikast,4,Klovborg,L_Lotte_Stoltenborg,Lotte Stoltenborg,Fælleslisten,0
+Ikast,4,Klovborg,L_Morten_Colbert,Morten Colbert,Fælleslisten,1
+Ikast,4,Klovborg,L_Rune_Lyager,Rune Lyager,Fælleslisten,1
+Ikast,4,Klovborg,L_Henrik_Boelsgaard,Henrik Boelsgaard,Fælleslisten,0
+Ikast,4,Klovborg,L_Allan_Nielsen,Allan Nielsen,Fælleslisten,0
+Ikast,4,Klovborg,L_Lasse_Haahr,Lasse Haahr,Fælleslisten,0
+Ikast,4,Klovborg,L_Mads_Hviid,Mads Hviid,Fælleslisten,0
+Ikast,4,Klovborg,L_Bjørn_Topbjerg,Bjørn Topbjerg,Fælleslisten,0
+Ikast,4,Klovborg,O_Listestemmer,Listestemmer,Dansk Folkeparti,16
+Ikast,4,Klovborg,O_Simon_Vanggaard,Simon Vanggaard,Dansk Folkeparti,21
+Ikast,4,Klovborg,O_Trine_Meldgaard_Kristensen,Trine Meldgaard Kristensen,Dansk Folkeparti,2
+Ikast,4,Klovborg,O_Bo_Sand_Kristensen,Bo Sand Kristensen,Dansk Folkeparti,2
+Ikast,4,Klovborg,O_Mikael_Würtz,Mikael Würtz,Dansk Folkeparti,0
+Ikast,4,Klovborg,O_Tina_Ostersen,Tina Ostersen,Dansk Folkeparti,2
+Ikast,4,Klovborg,O_Jytte_Graversen,Jytte Graversen,Dansk Folkeparti,2
+Ikast,4,Klovborg,O_Peder_Fenger,Peder Fenger,Dansk Folkeparti,0
+Ikast,4,Klovborg,O_H.C._Hansen,H.C. Hansen,Dansk Folkeparti,0
+Ikast,4,Klovborg,O_Jens_Laursen,Jens Laursen,Dansk Folkeparti,0
+Ikast,4,Klovborg,O_Finn_Brostrup,Finn Brostrup,Dansk Folkeparti,8
+Ikast,4,Klovborg,O_Dan_Albrechtsen,Dan Albrechtsen,Dansk Folkeparti,1
+Ikast,4,Klovborg,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",15
+Ikast,4,Klovborg,V_Ib_Lauritsen,Ib Lauritsen,"Venstre, Danmarks Liberale Parti",8
+Ikast,4,Klovborg,V_Jens_Peter_Bak,Jens Peter Bak,"Venstre, Danmarks Liberale Parti",3
+Ikast,4,Klovborg,V_Katri_Berg,Katri Berg,"Venstre, Danmarks Liberale Parti",1
+Ikast,4,Klovborg,V_Gert_Bækgaard,Gert Bækgaard,"Venstre, Danmarks Liberale Parti",0
+Ikast,4,Klovborg,V_Henrik_Christiansen,Henrik Christiansen,"Venstre, Danmarks Liberale Parti",2
+Ikast,4,Klovborg,V_Stig_Døssing,Stig Døssing,"Venstre, Danmarks Liberale Parti",45
+Ikast,4,Klovborg,V_Henrik_Engedahl,Henrik Engedahl,"Venstre, Danmarks Liberale Parti",1
+Ikast,4,Klovborg,V_Palle_Høj,Palle Høj,"Venstre, Danmarks Liberale Parti",4
+Ikast,4,Klovborg,V_Thyge_Lønne_Jensen,Thyge Lønne Jensen,"Venstre, Danmarks Liberale Parti",2
+Ikast,4,Klovborg,V_Laila_Leerholm,Laila Leerholm,"Venstre, Danmarks Liberale Parti",3
+Ikast,4,Klovborg,V_Lars_Lyhne,Lars Lyhne,"Venstre, Danmarks Liberale Parti",1
+Ikast,4,Klovborg,V_Helle_Mathiasen,Helle Mathiasen,"Venstre, Danmarks Liberale Parti",16
+Ikast,4,Klovborg,V_Anne-Marie_Kragsig_Pedersen,Anne-Marie Kragsig Pedersen,"Venstre, Danmarks Liberale Parti",1
+Ikast,4,Klovborg,V_Frank_Thygesen,Frank Thygesen,"Venstre, Danmarks Liberale Parti",3
+Ikast,4,Klovborg,V_Andreas_Würtz,Andreas Würtz,"Venstre, Danmarks Liberale Parti",2
+Ikast,4,Klovborg,V_Thomas_Østergaard,Thomas Østergaard,"Venstre, Danmarks Liberale Parti",6
+Ikast,4,Klovborg,Æ_Listestemmer,Listestemmer,Frihedslisten,0
+Ikast,4,Klovborg,Æ_Kirsten_Merrild,Kirsten Merrild,Frihedslisten,2
+Ikast,4,Klovborg,Æ_Elisabeth_Victoria_Muhlig,Elisabeth Victoria Muhlig,Frihedslisten,0
+Ikast,4,Klovborg,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,5
+Ikast,4,Klovborg,Ø_Charlotte_Kold,Charlotte Kold,Enhedslisten - De Rød-Grønne,8
+Ikast,5,Brande,A_Listestemmer,Listestemmer,Socialdemokratiet,136
+Ikast,5,Brande,A_Kasper_Pauli_Pedersen,Kasper Pauli Pedersen,Socialdemokratiet,73
+Ikast,5,Brande,A_Søs_Philipsen,Søs Philipsen,Socialdemokratiet,21
+Ikast,5,Brande,A_Birthe_Sørensen,Birthe Sørensen,Socialdemokratiet,23
+Ikast,5,Brande,A_H.C._Jørgensen,H.C. Jørgensen,Socialdemokratiet,2
+Ikast,5,Brande,A_Kirsten_Hoffmann,Kirsten Hoffmann,Socialdemokratiet,11
+Ikast,5,Brande,A_Mustafa_Arslan,Mustafa Arslan,Socialdemokratiet,23
+Ikast,5,Brande,A_Yildiz_Kibar,Yildiz Kibar,Socialdemokratiet,2
+Ikast,5,Brande,A_Joan_Højlund,Joan Højlund,Socialdemokratiet,1
+Ikast,5,Brande,A_Helle_Regine_Drongstrup,Helle Regine Drongstrup,Socialdemokratiet,5
+Ikast,5,Brande,A_Henrik_Christensen,Henrik Christensen,Socialdemokratiet,180
+Ikast,5,Brande,A_Inge_Dinis,Inge Dinis,Socialdemokratiet,9
+Ikast,5,Brande,A_Peter_Bjerregaard,Peter Bjerregaard,Socialdemokratiet,1
+Ikast,5,Brande,A_Eddie_Sørensen,Eddie Sørensen,Socialdemokratiet,1
+Ikast,5,Brande,A_Jacob_Rosen_Madsen,Jacob Rosen Madsen,Socialdemokratiet,3
+Ikast,5,Brande,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,84
+Ikast,5,Brande,C_Annette_Mosegaard,Annette Mosegaard,Det Konservative Folkeparti,175
+Ikast,5,Brande,C_Kirsten_York_Helms,Kirsten York Helms,Det Konservative Folkeparti,223
+Ikast,5,Brande,C_Heinrich_Rune,Heinrich Rune,Det Konservative Folkeparti,2
+Ikast,5,Brande,C_Dina_Raabjerg,Dina Raabjerg,Det Konservative Folkeparti,12
+Ikast,5,Brande,C_Annette_Øgaard,Annette Øgaard,Det Konservative Folkeparti,6
+Ikast,5,Brande,C_Peter_Søgaard,Peter Søgaard,Det Konservative Folkeparti,9
+Ikast,5,Brande,C_Morten_Munk_Østergaard,Morten Munk Østergaard,Det Konservative Folkeparti,27
+Ikast,5,Brande,C_Per_Abildskov,Per Abildskov,Det Konservative Folkeparti,1
+Ikast,5,Brande,C_Siff_Tang_Lassen,Siff Tang Lassen,Det Konservative Folkeparti,18
+Ikast,5,Brande,C_Henrik_Overgaard,Henrik Overgaard,Det Konservative Folkeparti,391
+Ikast,5,Brande,C_Hanne_Bang_Pedersen,Hanne Bang Pedersen,Det Konservative Folkeparti,0
+Ikast,5,Brande,C_Ditte_Mundbjerg_Jørgensen,Ditte Mundbjerg Jørgensen,Det Konservative Folkeparti,2
+Ikast,5,Brande,D_Listestemmer,Listestemmer,Nye Borgerlige,45
+Ikast,5,Brande,D_Bruno_Ostenfeldt_Jensen,Bruno Ostenfeldt Jensen,Nye Borgerlige,36
+Ikast,5,Brande,D_Tommy_Høgh_Vestergaard,Tommy Høgh Vestergaard,Nye Borgerlige,16
+Ikast,5,Brande,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,17
+Ikast,5,Brande,F_Emma_Thorup_Jacobsen,Emma Thorup Jacobsen,SF - Socialistisk Folkeparti,22
+Ikast,5,Brande,F_Karina_Gudmann,Karina Gudmann,SF - Socialistisk Folkeparti,19
+Ikast,5,Brande,K_Listestemmer,Listestemmer,Kristendemokraterne,18
+Ikast,5,Brande,K_Jens_Erik_Skals,Jens Erik Skals,Kristendemokraterne,22
+Ikast,5,Brande,K_Finn_Vestergaard,Finn Vestergaard,Kristendemokraterne,5
+Ikast,5,Brande,K_Willy_Højgård,Willy Højgård,Kristendemokraterne,13
+Ikast,5,Brande,K_Torsteen_Nielsen,Torsteen Nielsen,Kristendemokraterne,2
+Ikast,5,Brande,K_Svend-Erik_Hansen,Svend-Erik Hansen,Kristendemokraterne,2
+Ikast,5,Brande,K_Danny_Bonn_Pedersen,Danny Bonn Pedersen,Kristendemokraterne,1
+Ikast,5,Brande,K_Albert_Poulsen,Albert Poulsen,Kristendemokraterne,1
+Ikast,5,Brande,K_Annet_Mesnickow,Annet Mesnickow,Kristendemokraterne,7
+Ikast,5,Brande,L_Listestemmer,Listestemmer,Fælleslisten,162
+Ikast,5,Brande,L_Morten_Bak,Morten Bak,Fælleslisten,141
+Ikast,5,Brande,L_Lotte_Stoltenborg,Lotte Stoltenborg,Fælleslisten,500
+Ikast,5,Brande,L_Morten_Colbert,Morten Colbert,Fælleslisten,130
+Ikast,5,Brande,L_Rune_Lyager,Rune Lyager,Fælleslisten,170
+Ikast,5,Brande,L_Henrik_Boelsgaard,Henrik Boelsgaard,Fælleslisten,34
+Ikast,5,Brande,L_Allan_Nielsen,Allan Nielsen,Fælleslisten,29
+Ikast,5,Brande,L_Lasse_Haahr,Lasse Haahr,Fælleslisten,18
+Ikast,5,Brande,L_Mads_Hviid,Mads Hviid,Fælleslisten,13
+Ikast,5,Brande,L_Bjørn_Topbjerg,Bjørn Topbjerg,Fælleslisten,12
+Ikast,5,Brande,O_Listestemmer,Listestemmer,Dansk Folkeparti,47
+Ikast,5,Brande,O_Simon_Vanggaard,Simon Vanggaard,Dansk Folkeparti,29
+Ikast,5,Brande,O_Trine_Meldgaard_Kristensen,Trine Meldgaard Kristensen,Dansk Folkeparti,7
+Ikast,5,Brande,O_Bo_Sand_Kristensen,Bo Sand Kristensen,Dansk Folkeparti,141
+Ikast,5,Brande,O_Mikael_Würtz,Mikael Würtz,Dansk Folkeparti,0
+Ikast,5,Brande,O_Tina_Ostersen,Tina Ostersen,Dansk Folkeparti,87
+Ikast,5,Brande,O_Jytte_Graversen,Jytte Graversen,Dansk Folkeparti,2
+Ikast,5,Brande,O_Peder_Fenger,Peder Fenger,Dansk Folkeparti,3
+Ikast,5,Brande,O_H.C._Hansen,H.C. Hansen,Dansk Folkeparti,0
+Ikast,5,Brande,O_Jens_Laursen,Jens Laursen,Dansk Folkeparti,22
+Ikast,5,Brande,O_Finn_Brostrup,Finn Brostrup,Dansk Folkeparti,4
+Ikast,5,Brande,O_Dan_Albrechtsen,Dan Albrechtsen,Dansk Folkeparti,0
+Ikast,5,Brande,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",112
+Ikast,5,Brande,V_Ib_Lauritsen,Ib Lauritsen,"Venstre, Danmarks Liberale Parti",75
+Ikast,5,Brande,V_Jens_Peter_Bak,Jens Peter Bak,"Venstre, Danmarks Liberale Parti",8
+Ikast,5,Brande,V_Katri_Berg,Katri Berg,"Venstre, Danmarks Liberale Parti",3
+Ikast,5,Brande,V_Gert_Bækgaard,Gert Bækgaard,"Venstre, Danmarks Liberale Parti",3
+Ikast,5,Brande,V_Henrik_Christiansen,Henrik Christiansen,"Venstre, Danmarks Liberale Parti",52
+Ikast,5,Brande,V_Stig_Døssing,Stig Døssing,"Venstre, Danmarks Liberale Parti",1
+Ikast,5,Brande,V_Henrik_Engedahl,Henrik Engedahl,"Venstre, Danmarks Liberale Parti",14
+Ikast,5,Brande,V_Palle_Høj,Palle Høj,"Venstre, Danmarks Liberale Parti",2
+Ikast,5,Brande,V_Thyge_Lønne_Jensen,Thyge Lønne Jensen,"Venstre, Danmarks Liberale Parti",8
+Ikast,5,Brande,V_Laila_Leerholm,Laila Leerholm,"Venstre, Danmarks Liberale Parti",4
+Ikast,5,Brande,V_Lars_Lyhne,Lars Lyhne,"Venstre, Danmarks Liberale Parti",505
+Ikast,5,Brande,V_Helle_Mathiasen,Helle Mathiasen,"Venstre, Danmarks Liberale Parti",32
+Ikast,5,Brande,V_Anne-Marie_Kragsig_Pedersen,Anne-Marie Kragsig Pedersen,"Venstre, Danmarks Liberale Parti",114
+Ikast,5,Brande,V_Frank_Thygesen,Frank Thygesen,"Venstre, Danmarks Liberale Parti",4
+Ikast,5,Brande,V_Andreas_Würtz,Andreas Würtz,"Venstre, Danmarks Liberale Parti",7
+Ikast,5,Brande,V_Thomas_Østergaard,Thomas Østergaard,"Venstre, Danmarks Liberale Parti",29
+Ikast,5,Brande,Æ_Listestemmer,Listestemmer,Frihedslisten,2
+Ikast,5,Brande,Æ_Kirsten_Merrild,Kirsten Merrild,Frihedslisten,2
+Ikast,5,Brande,Æ_Elisabeth_Victoria_Muhlig,Elisabeth Victoria Muhlig,Frihedslisten,12
+Ikast,5,Brande,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,13
+Ikast,5,Brande,Ø_Charlotte_Kold,Charlotte Kold,Enhedslisten - De Rød-Grønne,33
+Ikast,6,Blåhøj,A_Listestemmer,Listestemmer,Socialdemokratiet,8
+Ikast,6,Blåhøj,A_Kasper_Pauli_Pedersen,Kasper Pauli Pedersen,Socialdemokratiet,4
+Ikast,6,Blåhøj,A_Søs_Philipsen,Søs Philipsen,Socialdemokratiet,1
+Ikast,6,Blåhøj,A_Birthe_Sørensen,Birthe Sørensen,Socialdemokratiet,0
+Ikast,6,Blåhøj,A_H.C._Jørgensen,H.C. Jørgensen,Socialdemokratiet,0
+Ikast,6,Blåhøj,A_Kirsten_Hoffmann,Kirsten Hoffmann,Socialdemokratiet,0
+Ikast,6,Blåhøj,A_Mustafa_Arslan,Mustafa Arslan,Socialdemokratiet,2
+Ikast,6,Blåhøj,A_Yildiz_Kibar,Yildiz Kibar,Socialdemokratiet,0
+Ikast,6,Blåhøj,A_Joan_Højlund,Joan Højlund,Socialdemokratiet,0
+Ikast,6,Blåhøj,A_Helle_Regine_Drongstrup,Helle Regine Drongstrup,Socialdemokratiet,0
+Ikast,6,Blåhøj,A_Henrik_Christensen,Henrik Christensen,Socialdemokratiet,11
+Ikast,6,Blåhøj,A_Inge_Dinis,Inge Dinis,Socialdemokratiet,0
+Ikast,6,Blåhøj,A_Peter_Bjerregaard,Peter Bjerregaard,Socialdemokratiet,0
+Ikast,6,Blåhøj,A_Eddie_Sørensen,Eddie Sørensen,Socialdemokratiet,2
+Ikast,6,Blåhøj,A_Jacob_Rosen_Madsen,Jacob Rosen Madsen,Socialdemokratiet,0
+Ikast,6,Blåhøj,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,8
+Ikast,6,Blåhøj,C_Annette_Mosegaard,Annette Mosegaard,Det Konservative Folkeparti,19
+Ikast,6,Blåhøj,C_Kirsten_York_Helms,Kirsten York Helms,Det Konservative Folkeparti,66
+Ikast,6,Blåhøj,C_Heinrich_Rune,Heinrich Rune,Det Konservative Folkeparti,1
+Ikast,6,Blåhøj,C_Dina_Raabjerg,Dina Raabjerg,Det Konservative Folkeparti,0
+Ikast,6,Blåhøj,C_Annette_Øgaard,Annette Øgaard,Det Konservative Folkeparti,1
+Ikast,6,Blåhøj,C_Peter_Søgaard,Peter Søgaard,Det Konservative Folkeparti,0
+Ikast,6,Blåhøj,C_Morten_Munk_Østergaard,Morten Munk Østergaard,Det Konservative Folkeparti,4
+Ikast,6,Blåhøj,C_Per_Abildskov,Per Abildskov,Det Konservative Folkeparti,1
+Ikast,6,Blåhøj,C_Siff_Tang_Lassen,Siff Tang Lassen,Det Konservative Folkeparti,1
+Ikast,6,Blåhøj,C_Henrik_Overgaard,Henrik Overgaard,Det Konservative Folkeparti,31
+Ikast,6,Blåhøj,C_Hanne_Bang_Pedersen,Hanne Bang Pedersen,Det Konservative Folkeparti,0
+Ikast,6,Blåhøj,C_Ditte_Mundbjerg_Jørgensen,Ditte Mundbjerg Jørgensen,Det Konservative Folkeparti,0
+Ikast,6,Blåhøj,D_Listestemmer,Listestemmer,Nye Borgerlige,5
+Ikast,6,Blåhøj,D_Bruno_Ostenfeldt_Jensen,Bruno Ostenfeldt Jensen,Nye Borgerlige,9
+Ikast,6,Blåhøj,D_Tommy_Høgh_Vestergaard,Tommy Høgh Vestergaard,Nye Borgerlige,4
+Ikast,6,Blåhøj,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,1
+Ikast,6,Blåhøj,F_Emma_Thorup_Jacobsen,Emma Thorup Jacobsen,SF - Socialistisk Folkeparti,1
+Ikast,6,Blåhøj,F_Karina_Gudmann,Karina Gudmann,SF - Socialistisk Folkeparti,1
+Ikast,6,Blåhøj,K_Listestemmer,Listestemmer,Kristendemokraterne,1
+Ikast,6,Blåhøj,K_Jens_Erik_Skals,Jens Erik Skals,Kristendemokraterne,1
+Ikast,6,Blåhøj,K_Finn_Vestergaard,Finn Vestergaard,Kristendemokraterne,2
+Ikast,6,Blåhøj,K_Willy_Højgård,Willy Højgård,Kristendemokraterne,10
+Ikast,6,Blåhøj,K_Torsteen_Nielsen,Torsteen Nielsen,Kristendemokraterne,0
+Ikast,6,Blåhøj,K_Svend-Erik_Hansen,Svend-Erik Hansen,Kristendemokraterne,0
+Ikast,6,Blåhøj,K_Danny_Bonn_Pedersen,Danny Bonn Pedersen,Kristendemokraterne,0
+Ikast,6,Blåhøj,K_Albert_Poulsen,Albert Poulsen,Kristendemokraterne,0
+Ikast,6,Blåhøj,K_Annet_Mesnickow,Annet Mesnickow,Kristendemokraterne,0
+Ikast,6,Blåhøj,L_Listestemmer,Listestemmer,Fælleslisten,12
+Ikast,6,Blåhøj,L_Morten_Bak,Morten Bak,Fælleslisten,4
+Ikast,6,Blåhøj,L_Lotte_Stoltenborg,Lotte Stoltenborg,Fælleslisten,113
+Ikast,6,Blåhøj,L_Morten_Colbert,Morten Colbert,Fælleslisten,5
+Ikast,6,Blåhøj,L_Rune_Lyager,Rune Lyager,Fælleslisten,1
+Ikast,6,Blåhøj,L_Henrik_Boelsgaard,Henrik Boelsgaard,Fælleslisten,82
+Ikast,6,Blåhøj,L_Allan_Nielsen,Allan Nielsen,Fælleslisten,1
+Ikast,6,Blåhøj,L_Lasse_Haahr,Lasse Haahr,Fælleslisten,0
+Ikast,6,Blåhøj,L_Mads_Hviid,Mads Hviid,Fælleslisten,6
+Ikast,6,Blåhøj,L_Bjørn_Topbjerg,Bjørn Topbjerg,Fælleslisten,1
+Ikast,6,Blåhøj,O_Listestemmer,Listestemmer,Dansk Folkeparti,6
+Ikast,6,Blåhøj,O_Simon_Vanggaard,Simon Vanggaard,Dansk Folkeparti,0
+Ikast,6,Blåhøj,O_Trine_Meldgaard_Kristensen,Trine Meldgaard Kristensen,Dansk Folkeparti,3
+Ikast,6,Blåhøj,O_Bo_Sand_Kristensen,Bo Sand Kristensen,Dansk Folkeparti,7
+Ikast,6,Blåhøj,O_Mikael_Würtz,Mikael Würtz,Dansk Folkeparti,0
+Ikast,6,Blåhøj,O_Tina_Ostersen,Tina Ostersen,Dansk Folkeparti,14
+Ikast,6,Blåhøj,O_Jytte_Graversen,Jytte Graversen,Dansk Folkeparti,1
+Ikast,6,Blåhøj,O_Peder_Fenger,Peder Fenger,Dansk Folkeparti,0
+Ikast,6,Blåhøj,O_H.C._Hansen,H.C. Hansen,Dansk Folkeparti,0
+Ikast,6,Blåhøj,O_Jens_Laursen,Jens Laursen,Dansk Folkeparti,0
+Ikast,6,Blåhøj,O_Finn_Brostrup,Finn Brostrup,Dansk Folkeparti,0
+Ikast,6,Blåhøj,O_Dan_Albrechtsen,Dan Albrechtsen,Dansk Folkeparti,0
+Ikast,6,Blåhøj,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",7
+Ikast,6,Blåhøj,V_Ib_Lauritsen,Ib Lauritsen,"Venstre, Danmarks Liberale Parti",12
+Ikast,6,Blåhøj,V_Jens_Peter_Bak,Jens Peter Bak,"Venstre, Danmarks Liberale Parti",2
+Ikast,6,Blåhøj,V_Katri_Berg,Katri Berg,"Venstre, Danmarks Liberale Parti",1
+Ikast,6,Blåhøj,V_Gert_Bækgaard,Gert Bækgaard,"Venstre, Danmarks Liberale Parti",0
+Ikast,6,Blåhøj,V_Henrik_Christiansen,Henrik Christiansen,"Venstre, Danmarks Liberale Parti",3
+Ikast,6,Blåhøj,V_Stig_Døssing,Stig Døssing,"Venstre, Danmarks Liberale Parti",0
+Ikast,6,Blåhøj,V_Henrik_Engedahl,Henrik Engedahl,"Venstre, Danmarks Liberale Parti",1
+Ikast,6,Blåhøj,V_Palle_Høj,Palle Høj,"Venstre, Danmarks Liberale Parti",1
+Ikast,6,Blåhøj,V_Thyge_Lønne_Jensen,Thyge Lønne Jensen,"Venstre, Danmarks Liberale Parti",0
+Ikast,6,Blåhøj,V_Laila_Leerholm,Laila Leerholm,"Venstre, Danmarks Liberale Parti",0
+Ikast,6,Blåhøj,V_Lars_Lyhne,Lars Lyhne,"Venstre, Danmarks Liberale Parti",12
+Ikast,6,Blåhøj,V_Helle_Mathiasen,Helle Mathiasen,"Venstre, Danmarks Liberale Parti",2
+Ikast,6,Blåhøj,V_Anne-Marie_Kragsig_Pedersen,Anne-Marie Kragsig Pedersen,"Venstre, Danmarks Liberale Parti",17
+Ikast,6,Blåhøj,V_Frank_Thygesen,Frank Thygesen,"Venstre, Danmarks Liberale Parti",0
+Ikast,6,Blåhøj,V_Andreas_Würtz,Andreas Würtz,"Venstre, Danmarks Liberale Parti",0
+Ikast,6,Blåhøj,V_Thomas_Østergaard,Thomas Østergaard,"Venstre, Danmarks Liberale Parti",1
+Ikast,6,Blåhøj,Æ_Listestemmer,Listestemmer,Frihedslisten,1
+Ikast,6,Blåhøj,Æ_Kirsten_Merrild,Kirsten Merrild,Frihedslisten,0
+Ikast,6,Blåhøj,Æ_Elisabeth_Victoria_Muhlig,Elisabeth Victoria Muhlig,Frihedslisten,0
+Ikast,6,Blåhøj,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,0
+Ikast,6,Blåhøj,Ø_Charlotte_Kold,Charlotte Kold,Enhedslisten - De Rød-Grønne,1
+Ikast,7,Ikast,A_Listestemmer,Listestemmer,Socialdemokratiet,370
+Ikast,7,Ikast,A_Kasper_Pauli_Pedersen,Kasper Pauli Pedersen,Socialdemokratiet,513
+Ikast,7,Ikast,A_Søs_Philipsen,Søs Philipsen,Socialdemokratiet,366
+Ikast,7,Ikast,A_Birthe_Sørensen,Birthe Sørensen,Socialdemokratiet,413
+Ikast,7,Ikast,A_H.C._Jørgensen,H.C. Jørgensen,Socialdemokratiet,29
+Ikast,7,Ikast,A_Kirsten_Hoffmann,Kirsten Hoffmann,Socialdemokratiet,10
+Ikast,7,Ikast,A_Mustafa_Arslan,Mustafa Arslan,Socialdemokratiet,316
+Ikast,7,Ikast,A_Yildiz_Kibar,Yildiz Kibar,Socialdemokratiet,179
+Ikast,7,Ikast,A_Joan_Højlund,Joan Højlund,Socialdemokratiet,16
+Ikast,7,Ikast,A_Helle_Regine_Drongstrup,Helle Regine Drongstrup,Socialdemokratiet,13
+Ikast,7,Ikast,A_Henrik_Christensen,Henrik Christensen,Socialdemokratiet,2
+Ikast,7,Ikast,A_Inge_Dinis,Inge Dinis,Socialdemokratiet,175
+Ikast,7,Ikast,A_Peter_Bjerregaard,Peter Bjerregaard,Socialdemokratiet,19
+Ikast,7,Ikast,A_Eddie_Sørensen,Eddie Sørensen,Socialdemokratiet,30
+Ikast,7,Ikast,A_Jacob_Rosen_Madsen,Jacob Rosen Madsen,Socialdemokratiet,18
+Ikast,7,Ikast,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,237
+Ikast,7,Ikast,C_Annette_Mosegaard,Annette Mosegaard,Det Konservative Folkeparti,880
+Ikast,7,Ikast,C_Kirsten_York_Helms,Kirsten York Helms,Det Konservative Folkeparti,27
+Ikast,7,Ikast,C_Heinrich_Rune,Heinrich Rune,Det Konservative Folkeparti,110
+Ikast,7,Ikast,C_Dina_Raabjerg,Dina Raabjerg,Det Konservative Folkeparti,264
+Ikast,7,Ikast,C_Annette_Øgaard,Annette Øgaard,Det Konservative Folkeparti,18
+Ikast,7,Ikast,C_Peter_Søgaard,Peter Søgaard,Det Konservative Folkeparti,176
+Ikast,7,Ikast,C_Morten_Munk_Østergaard,Morten Munk Østergaard,Det Konservative Folkeparti,13
+Ikast,7,Ikast,C_Per_Abildskov,Per Abildskov,Det Konservative Folkeparti,2
+Ikast,7,Ikast,C_Siff_Tang_Lassen,Siff Tang Lassen,Det Konservative Folkeparti,104
+Ikast,7,Ikast,C_Henrik_Overgaard,Henrik Overgaard,Det Konservative Folkeparti,25
+Ikast,7,Ikast,C_Hanne_Bang_Pedersen,Hanne Bang Pedersen,Det Konservative Folkeparti,5
+Ikast,7,Ikast,C_Ditte_Mundbjerg_Jørgensen,Ditte Mundbjerg Jørgensen,Det Konservative Folkeparti,15
+Ikast,7,Ikast,D_Listestemmer,Listestemmer,Nye Borgerlige,130
+Ikast,7,Ikast,D_Bruno_Ostenfeldt_Jensen,Bruno Ostenfeldt Jensen,Nye Borgerlige,35
+Ikast,7,Ikast,D_Tommy_Høgh_Vestergaard,Tommy Høgh Vestergaard,Nye Borgerlige,100
+Ikast,7,Ikast,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,55
+Ikast,7,Ikast,F_Emma_Thorup_Jacobsen,Emma Thorup Jacobsen,SF - Socialistisk Folkeparti,88
+Ikast,7,Ikast,F_Karina_Gudmann,Karina Gudmann,SF - Socialistisk Folkeparti,5
+Ikast,7,Ikast,K_Listestemmer,Listestemmer,Kristendemokraterne,39
+Ikast,7,Ikast,K_Jens_Erik_Skals,Jens Erik Skals,Kristendemokraterne,78
+Ikast,7,Ikast,K_Finn_Vestergaard,Finn Vestergaard,Kristendemokraterne,91
+Ikast,7,Ikast,K_Willy_Højgård,Willy Højgård,Kristendemokraterne,1
+Ikast,7,Ikast,K_Torsteen_Nielsen,Torsteen Nielsen,Kristendemokraterne,9
+Ikast,7,Ikast,K_Svend-Erik_Hansen,Svend-Erik Hansen,Kristendemokraterne,14
+Ikast,7,Ikast,K_Danny_Bonn_Pedersen,Danny Bonn Pedersen,Kristendemokraterne,2
+Ikast,7,Ikast,K_Albert_Poulsen,Albert Poulsen,Kristendemokraterne,10
+Ikast,7,Ikast,K_Annet_Mesnickow,Annet Mesnickow,Kristendemokraterne,1
+Ikast,7,Ikast,L_Listestemmer,Listestemmer,Fælleslisten,5
+Ikast,7,Ikast,L_Morten_Bak,Morten Bak,Fælleslisten,2
+Ikast,7,Ikast,L_Lotte_Stoltenborg,Lotte Stoltenborg,Fælleslisten,16
+Ikast,7,Ikast,L_Morten_Colbert,Morten Colbert,Fælleslisten,5
+Ikast,7,Ikast,L_Rune_Lyager,Rune Lyager,Fælleslisten,7
+Ikast,7,Ikast,L_Henrik_Boelsgaard,Henrik Boelsgaard,Fælleslisten,1
+Ikast,7,Ikast,L_Allan_Nielsen,Allan Nielsen,Fælleslisten,0
+Ikast,7,Ikast,L_Lasse_Haahr,Lasse Haahr,Fælleslisten,2
+Ikast,7,Ikast,L_Mads_Hviid,Mads Hviid,Fælleslisten,1
+Ikast,7,Ikast,L_Bjørn_Topbjerg,Bjørn Topbjerg,Fælleslisten,1
+Ikast,7,Ikast,O_Listestemmer,Listestemmer,Dansk Folkeparti,131
+Ikast,7,Ikast,O_Simon_Vanggaard,Simon Vanggaard,Dansk Folkeparti,233
+Ikast,7,Ikast,O_Trine_Meldgaard_Kristensen,Trine Meldgaard Kristensen,Dansk Folkeparti,154
+Ikast,7,Ikast,O_Bo_Sand_Kristensen,Bo Sand Kristensen,Dansk Folkeparti,13
+Ikast,7,Ikast,O_Mikael_Würtz,Mikael Würtz,Dansk Folkeparti,9
+Ikast,7,Ikast,O_Tina_Ostersen,Tina Ostersen,Dansk Folkeparti,9
+Ikast,7,Ikast,O_Jytte_Graversen,Jytte Graversen,Dansk Folkeparti,0
+Ikast,7,Ikast,O_Peder_Fenger,Peder Fenger,Dansk Folkeparti,54
+Ikast,7,Ikast,O_H.C._Hansen,H.C. Hansen,Dansk Folkeparti,5
+Ikast,7,Ikast,O_Jens_Laursen,Jens Laursen,Dansk Folkeparti,5
+Ikast,7,Ikast,O_Finn_Brostrup,Finn Brostrup,Dansk Folkeparti,1
+Ikast,7,Ikast,O_Dan_Albrechtsen,Dan Albrechtsen,Dansk Folkeparti,16
+Ikast,7,Ikast,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",362
+Ikast,7,Ikast,V_Ib_Lauritsen,Ib Lauritsen,"Venstre, Danmarks Liberale Parti",919
+Ikast,7,Ikast,V_Jens_Peter_Bak,Jens Peter Bak,"Venstre, Danmarks Liberale Parti",21
+Ikast,7,Ikast,V_Katri_Berg,Katri Berg,"Venstre, Danmarks Liberale Parti",27
+Ikast,7,Ikast,V_Gert_Bækgaard,Gert Bækgaard,"Venstre, Danmarks Liberale Parti",38
+Ikast,7,Ikast,V_Henrik_Christiansen,Henrik Christiansen,"Venstre, Danmarks Liberale Parti",8
+Ikast,7,Ikast,V_Stig_Døssing,Stig Døssing,"Venstre, Danmarks Liberale Parti",3
+Ikast,7,Ikast,V_Henrik_Engedahl,Henrik Engedahl,"Venstre, Danmarks Liberale Parti",80
+Ikast,7,Ikast,V_Palle_Høj,Palle Høj,"Venstre, Danmarks Liberale Parti",545
+Ikast,7,Ikast,V_Thyge_Lønne_Jensen,Thyge Lønne Jensen,"Venstre, Danmarks Liberale Parti",97
+Ikast,7,Ikast,V_Laila_Leerholm,Laila Leerholm,"Venstre, Danmarks Liberale Parti",108
+Ikast,7,Ikast,V_Lars_Lyhne,Lars Lyhne,"Venstre, Danmarks Liberale Parti",32
+Ikast,7,Ikast,V_Helle_Mathiasen,Helle Mathiasen,"Venstre, Danmarks Liberale Parti",10
+Ikast,7,Ikast,V_Anne-Marie_Kragsig_Pedersen,Anne-Marie Kragsig Pedersen,"Venstre, Danmarks Liberale Parti",13
+Ikast,7,Ikast,V_Frank_Thygesen,Frank Thygesen,"Venstre, Danmarks Liberale Parti",2
+Ikast,7,Ikast,V_Andreas_Würtz,Andreas Würtz,"Venstre, Danmarks Liberale Parti",376
+Ikast,7,Ikast,V_Thomas_Østergaard,Thomas Østergaard,"Venstre, Danmarks Liberale Parti",281
+Ikast,7,Ikast,Æ_Listestemmer,Listestemmer,Frihedslisten,4
+Ikast,7,Ikast,Æ_Kirsten_Merrild,Kirsten Merrild,Frihedslisten,9
+Ikast,7,Ikast,Æ_Elisabeth_Victoria_Muhlig,Elisabeth Victoria Muhlig,Frihedslisten,4
+Ikast,7,Ikast,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,38
+Ikast,7,Ikast,Ø_Charlotte_Kold,Charlotte Kold,Enhedslisten - De Rød-Grønne,68
+Ikast,8,Isenvad,A_Listestemmer,Listestemmer,Socialdemokratiet,10
+Ikast,8,Isenvad,A_Kasper_Pauli_Pedersen,Kasper Pauli Pedersen,Socialdemokratiet,16
+Ikast,8,Isenvad,A_Søs_Philipsen,Søs Philipsen,Socialdemokratiet,12
+Ikast,8,Isenvad,A_Birthe_Sørensen,Birthe Sørensen,Socialdemokratiet,3
+Ikast,8,Isenvad,A_H.C._Jørgensen,H.C. Jørgensen,Socialdemokratiet,0
+Ikast,8,Isenvad,A_Kirsten_Hoffmann,Kirsten Hoffmann,Socialdemokratiet,4
+Ikast,8,Isenvad,A_Mustafa_Arslan,Mustafa Arslan,Socialdemokratiet,3
+Ikast,8,Isenvad,A_Yildiz_Kibar,Yildiz Kibar,Socialdemokratiet,1
+Ikast,8,Isenvad,A_Joan_Højlund,Joan Højlund,Socialdemokratiet,0
+Ikast,8,Isenvad,A_Helle_Regine_Drongstrup,Helle Regine Drongstrup,Socialdemokratiet,1
+Ikast,8,Isenvad,A_Henrik_Christensen,Henrik Christensen,Socialdemokratiet,0
+Ikast,8,Isenvad,A_Inge_Dinis,Inge Dinis,Socialdemokratiet,5
+Ikast,8,Isenvad,A_Peter_Bjerregaard,Peter Bjerregaard,Socialdemokratiet,2
+Ikast,8,Isenvad,A_Eddie_Sørensen,Eddie Sørensen,Socialdemokratiet,1
+Ikast,8,Isenvad,A_Jacob_Rosen_Madsen,Jacob Rosen Madsen,Socialdemokratiet,1
+Ikast,8,Isenvad,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,10
+Ikast,8,Isenvad,C_Annette_Mosegaard,Annette Mosegaard,Det Konservative Folkeparti,107
+Ikast,8,Isenvad,C_Kirsten_York_Helms,Kirsten York Helms,Det Konservative Folkeparti,4
+Ikast,8,Isenvad,C_Heinrich_Rune,Heinrich Rune,Det Konservative Folkeparti,0
+Ikast,8,Isenvad,C_Dina_Raabjerg,Dina Raabjerg,Det Konservative Folkeparti,5
+Ikast,8,Isenvad,C_Annette_Øgaard,Annette Øgaard,Det Konservative Folkeparti,2
+Ikast,8,Isenvad,C_Peter_Søgaard,Peter Søgaard,Det Konservative Folkeparti,5
+Ikast,8,Isenvad,C_Morten_Munk_Østergaard,Morten Munk Østergaard,Det Konservative Folkeparti,0
+Ikast,8,Isenvad,C_Per_Abildskov,Per Abildskov,Det Konservative Folkeparti,0
+Ikast,8,Isenvad,C_Siff_Tang_Lassen,Siff Tang Lassen,Det Konservative Folkeparti,3
+Ikast,8,Isenvad,C_Henrik_Overgaard,Henrik Overgaard,Det Konservative Folkeparti,0
+Ikast,8,Isenvad,C_Hanne_Bang_Pedersen,Hanne Bang Pedersen,Det Konservative Folkeparti,1
+Ikast,8,Isenvad,C_Ditte_Mundbjerg_Jørgensen,Ditte Mundbjerg Jørgensen,Det Konservative Folkeparti,1
+Ikast,8,Isenvad,D_Listestemmer,Listestemmer,Nye Borgerlige,10
+Ikast,8,Isenvad,D_Bruno_Ostenfeldt_Jensen,Bruno Ostenfeldt Jensen,Nye Borgerlige,2
+Ikast,8,Isenvad,D_Tommy_Høgh_Vestergaard,Tommy Høgh Vestergaard,Nye Borgerlige,9
+Ikast,8,Isenvad,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,2
+Ikast,8,Isenvad,F_Emma_Thorup_Jacobsen,Emma Thorup Jacobsen,SF - Socialistisk Folkeparti,4
+Ikast,8,Isenvad,F_Karina_Gudmann,Karina Gudmann,SF - Socialistisk Folkeparti,1
+Ikast,8,Isenvad,K_Listestemmer,Listestemmer,Kristendemokraterne,4
+Ikast,8,Isenvad,K_Jens_Erik_Skals,Jens Erik Skals,Kristendemokraterne,3
+Ikast,8,Isenvad,K_Finn_Vestergaard,Finn Vestergaard,Kristendemokraterne,1
+Ikast,8,Isenvad,K_Willy_Højgård,Willy Højgård,Kristendemokraterne,1
+Ikast,8,Isenvad,K_Torsteen_Nielsen,Torsteen Nielsen,Kristendemokraterne,1
+Ikast,8,Isenvad,K_Svend-Erik_Hansen,Svend-Erik Hansen,Kristendemokraterne,8
+Ikast,8,Isenvad,K_Danny_Bonn_Pedersen,Danny Bonn Pedersen,Kristendemokraterne,0
+Ikast,8,Isenvad,K_Albert_Poulsen,Albert Poulsen,Kristendemokraterne,0
+Ikast,8,Isenvad,K_Annet_Mesnickow,Annet Mesnickow,Kristendemokraterne,0
+Ikast,8,Isenvad,L_Listestemmer,Listestemmer,Fælleslisten,0
+Ikast,8,Isenvad,L_Morten_Bak,Morten Bak,Fælleslisten,0
+Ikast,8,Isenvad,L_Lotte_Stoltenborg,Lotte Stoltenborg,Fælleslisten,0
+Ikast,8,Isenvad,L_Morten_Colbert,Morten Colbert,Fælleslisten,0
+Ikast,8,Isenvad,L_Rune_Lyager,Rune Lyager,Fælleslisten,2
+Ikast,8,Isenvad,L_Henrik_Boelsgaard,Henrik Boelsgaard,Fælleslisten,2
+Ikast,8,Isenvad,L_Allan_Nielsen,Allan Nielsen,Fælleslisten,0
+Ikast,8,Isenvad,L_Lasse_Haahr,Lasse Haahr,Fælleslisten,0
+Ikast,8,Isenvad,L_Mads_Hviid,Mads Hviid,Fælleslisten,0
+Ikast,8,Isenvad,L_Bjørn_Topbjerg,Bjørn Topbjerg,Fælleslisten,0
+Ikast,8,Isenvad,O_Listestemmer,Listestemmer,Dansk Folkeparti,9
+Ikast,8,Isenvad,O_Simon_Vanggaard,Simon Vanggaard,Dansk Folkeparti,11
+Ikast,8,Isenvad,O_Trine_Meldgaard_Kristensen,Trine Meldgaard Kristensen,Dansk Folkeparti,11
+Ikast,8,Isenvad,O_Bo_Sand_Kristensen,Bo Sand Kristensen,Dansk Folkeparti,1
+Ikast,8,Isenvad,O_Mikael_Würtz,Mikael Würtz,Dansk Folkeparti,2
+Ikast,8,Isenvad,O_Tina_Ostersen,Tina Ostersen,Dansk Folkeparti,2
+Ikast,8,Isenvad,O_Jytte_Graversen,Jytte Graversen,Dansk Folkeparti,0
+Ikast,8,Isenvad,O_Peder_Fenger,Peder Fenger,Dansk Folkeparti,1
+Ikast,8,Isenvad,O_H.C._Hansen,H.C. Hansen,Dansk Folkeparti,0
+Ikast,8,Isenvad,O_Jens_Laursen,Jens Laursen,Dansk Folkeparti,0
+Ikast,8,Isenvad,O_Finn_Brostrup,Finn Brostrup,Dansk Folkeparti,0
+Ikast,8,Isenvad,O_Dan_Albrechtsen,Dan Albrechtsen,Dansk Folkeparti,3
+Ikast,8,Isenvad,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",13
+Ikast,8,Isenvad,V_Ib_Lauritsen,Ib Lauritsen,"Venstre, Danmarks Liberale Parti",34
+Ikast,8,Isenvad,V_Jens_Peter_Bak,Jens Peter Bak,"Venstre, Danmarks Liberale Parti",3
+Ikast,8,Isenvad,V_Katri_Berg,Katri Berg,"Venstre, Danmarks Liberale Parti",3
+Ikast,8,Isenvad,V_Gert_Bækgaard,Gert Bækgaard,"Venstre, Danmarks Liberale Parti",239
+Ikast,8,Isenvad,V_Henrik_Christiansen,Henrik Christiansen,"Venstre, Danmarks Liberale Parti",0
+Ikast,8,Isenvad,V_Stig_Døssing,Stig Døssing,"Venstre, Danmarks Liberale Parti",0
+Ikast,8,Isenvad,V_Henrik_Engedahl,Henrik Engedahl,"Venstre, Danmarks Liberale Parti",1
+Ikast,8,Isenvad,V_Palle_Høj,Palle Høj,"Venstre, Danmarks Liberale Parti",4
+Ikast,8,Isenvad,V_Thyge_Lønne_Jensen,Thyge Lønne Jensen,"Venstre, Danmarks Liberale Parti",1
+Ikast,8,Isenvad,V_Laila_Leerholm,Laila Leerholm,"Venstre, Danmarks Liberale Parti",5
+Ikast,8,Isenvad,V_Lars_Lyhne,Lars Lyhne,"Venstre, Danmarks Liberale Parti",1
+Ikast,8,Isenvad,V_Helle_Mathiasen,Helle Mathiasen,"Venstre, Danmarks Liberale Parti",1
+Ikast,8,Isenvad,V_Anne-Marie_Kragsig_Pedersen,Anne-Marie Kragsig Pedersen,"Venstre, Danmarks Liberale Parti",0
+Ikast,8,Isenvad,V_Frank_Thygesen,Frank Thygesen,"Venstre, Danmarks Liberale Parti",0
+Ikast,8,Isenvad,V_Andreas_Würtz,Andreas Würtz,"Venstre, Danmarks Liberale Parti",6
+Ikast,8,Isenvad,V_Thomas_Østergaard,Thomas Østergaard,"Venstre, Danmarks Liberale Parti",8
+Ikast,8,Isenvad,Æ_Listestemmer,Listestemmer,Frihedslisten,0
+Ikast,8,Isenvad,Æ_Kirsten_Merrild,Kirsten Merrild,Frihedslisten,0
+Ikast,8,Isenvad,Æ_Elisabeth_Victoria_Muhlig,Elisabeth Victoria Muhlig,Frihedslisten,0
+Ikast,8,Isenvad,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,1
+Ikast,8,Isenvad,Ø_Charlotte_Kold,Charlotte Kold,Enhedslisten - De Rød-Grønne,4
+Ikast,9,Bording,A_Listestemmer,Listestemmer,Socialdemokratiet,75
+Ikast,9,Bording,A_Kasper_Pauli_Pedersen,Kasper Pauli Pedersen,Socialdemokratiet,38
+Ikast,9,Bording,A_Søs_Philipsen,Søs Philipsen,Socialdemokratiet,31
+Ikast,9,Bording,A_Birthe_Sørensen,Birthe Sørensen,Socialdemokratiet,18
+Ikast,9,Bording,A_H.C._Jørgensen,H.C. Jørgensen,Socialdemokratiet,38
+Ikast,9,Bording,A_Kirsten_Hoffmann,Kirsten Hoffmann,Socialdemokratiet,7
+Ikast,9,Bording,A_Mustafa_Arslan,Mustafa Arslan,Socialdemokratiet,8
+Ikast,9,Bording,A_Yildiz_Kibar,Yildiz Kibar,Socialdemokratiet,9
+Ikast,9,Bording,A_Joan_Højlund,Joan Højlund,Socialdemokratiet,3
+Ikast,9,Bording,A_Helle_Regine_Drongstrup,Helle Regine Drongstrup,Socialdemokratiet,2
+Ikast,9,Bording,A_Henrik_Christensen,Henrik Christensen,Socialdemokratiet,2
+Ikast,9,Bording,A_Inge_Dinis,Inge Dinis,Socialdemokratiet,202
+Ikast,9,Bording,A_Peter_Bjerregaard,Peter Bjerregaard,Socialdemokratiet,2
+Ikast,9,Bording,A_Eddie_Sørensen,Eddie Sørensen,Socialdemokratiet,22
+Ikast,9,Bording,A_Jacob_Rosen_Madsen,Jacob Rosen Madsen,Socialdemokratiet,0
+Ikast,9,Bording,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,21
+Ikast,9,Bording,C_Annette_Mosegaard,Annette Mosegaard,Det Konservative Folkeparti,111
+Ikast,9,Bording,C_Kirsten_York_Helms,Kirsten York Helms,Det Konservative Folkeparti,5
+Ikast,9,Bording,C_Heinrich_Rune,Heinrich Rune,Det Konservative Folkeparti,1
+Ikast,9,Bording,C_Dina_Raabjerg,Dina Raabjerg,Det Konservative Folkeparti,17
+Ikast,9,Bording,C_Annette_Øgaard,Annette Øgaard,Det Konservative Folkeparti,4
+Ikast,9,Bording,C_Peter_Søgaard,Peter Søgaard,Det Konservative Folkeparti,6
+Ikast,9,Bording,C_Morten_Munk_Østergaard,Morten Munk Østergaard,Det Konservative Folkeparti,1
+Ikast,9,Bording,C_Per_Abildskov,Per Abildskov,Det Konservative Folkeparti,7
+Ikast,9,Bording,C_Siff_Tang_Lassen,Siff Tang Lassen,Det Konservative Folkeparti,7
+Ikast,9,Bording,C_Henrik_Overgaard,Henrik Overgaard,Det Konservative Folkeparti,6
+Ikast,9,Bording,C_Hanne_Bang_Pedersen,Hanne Bang Pedersen,Det Konservative Folkeparti,0
+Ikast,9,Bording,C_Ditte_Mundbjerg_Jørgensen,Ditte Mundbjerg Jørgensen,Det Konservative Folkeparti,21
+Ikast,9,Bording,D_Listestemmer,Listestemmer,Nye Borgerlige,36
+Ikast,9,Bording,D_Bruno_Ostenfeldt_Jensen,Bruno Ostenfeldt Jensen,Nye Borgerlige,11
+Ikast,9,Bording,D_Tommy_Høgh_Vestergaard,Tommy Høgh Vestergaard,Nye Borgerlige,27
+Ikast,9,Bording,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,4
+Ikast,9,Bording,F_Emma_Thorup_Jacobsen,Emma Thorup Jacobsen,SF - Socialistisk Folkeparti,8
+Ikast,9,Bording,F_Karina_Gudmann,Karina Gudmann,SF - Socialistisk Folkeparti,3
+Ikast,9,Bording,K_Listestemmer,Listestemmer,Kristendemokraterne,8
+Ikast,9,Bording,K_Jens_Erik_Skals,Jens Erik Skals,Kristendemokraterne,5
+Ikast,9,Bording,K_Finn_Vestergaard,Finn Vestergaard,Kristendemokraterne,20
+Ikast,9,Bording,K_Willy_Højgård,Willy Højgård,Kristendemokraterne,0
+Ikast,9,Bording,K_Torsteen_Nielsen,Torsteen Nielsen,Kristendemokraterne,9
+Ikast,9,Bording,K_Svend-Erik_Hansen,Svend-Erik Hansen,Kristendemokraterne,1
+Ikast,9,Bording,K_Danny_Bonn_Pedersen,Danny Bonn Pedersen,Kristendemokraterne,0
+Ikast,9,Bording,K_Albert_Poulsen,Albert Poulsen,Kristendemokraterne,0
+Ikast,9,Bording,K_Annet_Mesnickow,Annet Mesnickow,Kristendemokraterne,0
+Ikast,9,Bording,L_Listestemmer,Listestemmer,Fælleslisten,0
+Ikast,9,Bording,L_Morten_Bak,Morten Bak,Fælleslisten,1
+Ikast,9,Bording,L_Lotte_Stoltenborg,Lotte Stoltenborg,Fælleslisten,0
+Ikast,9,Bording,L_Morten_Colbert,Morten Colbert,Fælleslisten,1
+Ikast,9,Bording,L_Rune_Lyager,Rune Lyager,Fælleslisten,1
+Ikast,9,Bording,L_Henrik_Boelsgaard,Henrik Boelsgaard,Fælleslisten,2
+Ikast,9,Bording,L_Allan_Nielsen,Allan Nielsen,Fælleslisten,0
+Ikast,9,Bording,L_Lasse_Haahr,Lasse Haahr,Fælleslisten,0
+Ikast,9,Bording,L_Mads_Hviid,Mads Hviid,Fælleslisten,0
+Ikast,9,Bording,L_Bjørn_Topbjerg,Bjørn Topbjerg,Fælleslisten,0
+Ikast,9,Bording,O_Listestemmer,Listestemmer,Dansk Folkeparti,20
+Ikast,9,Bording,O_Simon_Vanggaard,Simon Vanggaard,Dansk Folkeparti,25
+Ikast,9,Bording,O_Trine_Meldgaard_Kristensen,Trine Meldgaard Kristensen,Dansk Folkeparti,30
+Ikast,9,Bording,O_Bo_Sand_Kristensen,Bo Sand Kristensen,Dansk Folkeparti,7
+Ikast,9,Bording,O_Mikael_Würtz,Mikael Würtz,Dansk Folkeparti,17
+Ikast,9,Bording,O_Tina_Ostersen,Tina Ostersen,Dansk Folkeparti,3
+Ikast,9,Bording,O_Jytte_Graversen,Jytte Graversen,Dansk Folkeparti,0
+Ikast,9,Bording,O_Peder_Fenger,Peder Fenger,Dansk Folkeparti,9
+Ikast,9,Bording,O_H.C._Hansen,H.C. Hansen,Dansk Folkeparti,13
+Ikast,9,Bording,O_Jens_Laursen,Jens Laursen,Dansk Folkeparti,0
+Ikast,9,Bording,O_Finn_Brostrup,Finn Brostrup,Dansk Folkeparti,0
+Ikast,9,Bording,O_Dan_Albrechtsen,Dan Albrechtsen,Dansk Folkeparti,2
+Ikast,9,Bording,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",50
+Ikast,9,Bording,V_Ib_Lauritsen,Ib Lauritsen,"Venstre, Danmarks Liberale Parti",412
+Ikast,9,Bording,V_Jens_Peter_Bak,Jens Peter Bak,"Venstre, Danmarks Liberale Parti",8
+Ikast,9,Bording,V_Katri_Berg,Katri Berg,"Venstre, Danmarks Liberale Parti",18
+Ikast,9,Bording,V_Gert_Bækgaard,Gert Bækgaard,"Venstre, Danmarks Liberale Parti",2
+Ikast,9,Bording,V_Henrik_Christiansen,Henrik Christiansen,"Venstre, Danmarks Liberale Parti",3
+Ikast,9,Bording,V_Stig_Døssing,Stig Døssing,"Venstre, Danmarks Liberale Parti",0
+Ikast,9,Bording,V_Henrik_Engedahl,Henrik Engedahl,"Venstre, Danmarks Liberale Parti",330
+Ikast,9,Bording,V_Palle_Høj,Palle Høj,"Venstre, Danmarks Liberale Parti",13
+Ikast,9,Bording,V_Thyge_Lønne_Jensen,Thyge Lønne Jensen,"Venstre, Danmarks Liberale Parti",6
+Ikast,9,Bording,V_Laila_Leerholm,Laila Leerholm,"Venstre, Danmarks Liberale Parti",6
+Ikast,9,Bording,V_Lars_Lyhne,Lars Lyhne,"Venstre, Danmarks Liberale Parti",2
+Ikast,9,Bording,V_Helle_Mathiasen,Helle Mathiasen,"Venstre, Danmarks Liberale Parti",2
+Ikast,9,Bording,V_Anne-Marie_Kragsig_Pedersen,Anne-Marie Kragsig Pedersen,"Venstre, Danmarks Liberale Parti",1
+Ikast,9,Bording,V_Frank_Thygesen,Frank Thygesen,"Venstre, Danmarks Liberale Parti",0
+Ikast,9,Bording,V_Andreas_Würtz,Andreas Würtz,"Venstre, Danmarks Liberale Parti",8
+Ikast,9,Bording,V_Thomas_Østergaard,Thomas Østergaard,"Venstre, Danmarks Liberale Parti",148
+Ikast,9,Bording,Æ_Listestemmer,Listestemmer,Frihedslisten,3
+Ikast,9,Bording,Æ_Kirsten_Merrild,Kirsten Merrild,Frihedslisten,0
+Ikast,9,Bording,Æ_Elisabeth_Victoria_Muhlig,Elisabeth Victoria Muhlig,Frihedslisten,1
+Ikast,9,Bording,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,17
+Ikast,9,Bording,Ø_Charlotte_Kold,Charlotte Kold,Enhedslisten - De Rød-Grønne,6
+Ikast,10,Engesvang,A_Listestemmer,Listestemmer,Socialdemokratiet,34
+Ikast,10,Engesvang,A_Kasper_Pauli_Pedersen,Kasper Pauli Pedersen,Socialdemokratiet,33
+Ikast,10,Engesvang,A_Søs_Philipsen,Søs Philipsen,Socialdemokratiet,3
+Ikast,10,Engesvang,A_Birthe_Sørensen,Birthe Sørensen,Socialdemokratiet,4
+Ikast,10,Engesvang,A_H.C._Jørgensen,H.C. Jørgensen,Socialdemokratiet,423
+Ikast,10,Engesvang,A_Kirsten_Hoffmann,Kirsten Hoffmann,Socialdemokratiet,2
+Ikast,10,Engesvang,A_Mustafa_Arslan,Mustafa Arslan,Socialdemokratiet,2
+Ikast,10,Engesvang,A_Yildiz_Kibar,Yildiz Kibar,Socialdemokratiet,2
+Ikast,10,Engesvang,A_Joan_Højlund,Joan Højlund,Socialdemokratiet,54
+Ikast,10,Engesvang,A_Helle_Regine_Drongstrup,Helle Regine Drongstrup,Socialdemokratiet,7
+Ikast,10,Engesvang,A_Henrik_Christensen,Henrik Christensen,Socialdemokratiet,0
+Ikast,10,Engesvang,A_Inge_Dinis,Inge Dinis,Socialdemokratiet,17
+Ikast,10,Engesvang,A_Peter_Bjerregaard,Peter Bjerregaard,Socialdemokratiet,0
+Ikast,10,Engesvang,A_Eddie_Sørensen,Eddie Sørensen,Socialdemokratiet,9
+Ikast,10,Engesvang,A_Jacob_Rosen_Madsen,Jacob Rosen Madsen,Socialdemokratiet,2
+Ikast,10,Engesvang,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,27
+Ikast,10,Engesvang,C_Annette_Mosegaard,Annette Mosegaard,Det Konservative Folkeparti,27
+Ikast,10,Engesvang,C_Kirsten_York_Helms,Kirsten York Helms,Det Konservative Folkeparti,0
+Ikast,10,Engesvang,C_Heinrich_Rune,Heinrich Rune,Det Konservative Folkeparti,3
+Ikast,10,Engesvang,C_Dina_Raabjerg,Dina Raabjerg,Det Konservative Folkeparti,4
+Ikast,10,Engesvang,C_Annette_Øgaard,Annette Øgaard,Det Konservative Folkeparti,1
+Ikast,10,Engesvang,C_Peter_Søgaard,Peter Søgaard,Det Konservative Folkeparti,4
+Ikast,10,Engesvang,C_Morten_Munk_Østergaard,Morten Munk Østergaard,Det Konservative Folkeparti,1
+Ikast,10,Engesvang,C_Per_Abildskov,Per Abildskov,Det Konservative Folkeparti,69
+Ikast,10,Engesvang,C_Siff_Tang_Lassen,Siff Tang Lassen,Det Konservative Folkeparti,9
+Ikast,10,Engesvang,C_Henrik_Overgaard,Henrik Overgaard,Det Konservative Folkeparti,1
+Ikast,10,Engesvang,C_Hanne_Bang_Pedersen,Hanne Bang Pedersen,Det Konservative Folkeparti,0
+Ikast,10,Engesvang,C_Ditte_Mundbjerg_Jørgensen,Ditte Mundbjerg Jørgensen,Det Konservative Folkeparti,7
+Ikast,10,Engesvang,D_Listestemmer,Listestemmer,Nye Borgerlige,26
+Ikast,10,Engesvang,D_Bruno_Ostenfeldt_Jensen,Bruno Ostenfeldt Jensen,Nye Borgerlige,4
+Ikast,10,Engesvang,D_Tommy_Høgh_Vestergaard,Tommy Høgh Vestergaard,Nye Borgerlige,10
+Ikast,10,Engesvang,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,13
+Ikast,10,Engesvang,F_Emma_Thorup_Jacobsen,Emma Thorup Jacobsen,SF - Socialistisk Folkeparti,18
+Ikast,10,Engesvang,F_Karina_Gudmann,Karina Gudmann,SF - Socialistisk Folkeparti,0
+Ikast,10,Engesvang,K_Listestemmer,Listestemmer,Kristendemokraterne,8
+Ikast,10,Engesvang,K_Jens_Erik_Skals,Jens Erik Skals,Kristendemokraterne,7
+Ikast,10,Engesvang,K_Finn_Vestergaard,Finn Vestergaard,Kristendemokraterne,6
+Ikast,10,Engesvang,K_Willy_Højgård,Willy Højgård,Kristendemokraterne,0
+Ikast,10,Engesvang,K_Torsteen_Nielsen,Torsteen Nielsen,Kristendemokraterne,13
+Ikast,10,Engesvang,K_Svend-Erik_Hansen,Svend-Erik Hansen,Kristendemokraterne,2
+Ikast,10,Engesvang,K_Danny_Bonn_Pedersen,Danny Bonn Pedersen,Kristendemokraterne,0
+Ikast,10,Engesvang,K_Albert_Poulsen,Albert Poulsen,Kristendemokraterne,1
+Ikast,10,Engesvang,K_Annet_Mesnickow,Annet Mesnickow,Kristendemokraterne,1
+Ikast,10,Engesvang,L_Listestemmer,Listestemmer,Fælleslisten,0
+Ikast,10,Engesvang,L_Morten_Bak,Morten Bak,Fælleslisten,1
+Ikast,10,Engesvang,L_Lotte_Stoltenborg,Lotte Stoltenborg,Fælleslisten,2
+Ikast,10,Engesvang,L_Morten_Colbert,Morten Colbert,Fælleslisten,0
+Ikast,10,Engesvang,L_Rune_Lyager,Rune Lyager,Fælleslisten,0
+Ikast,10,Engesvang,L_Henrik_Boelsgaard,Henrik Boelsgaard,Fælleslisten,0
+Ikast,10,Engesvang,L_Allan_Nielsen,Allan Nielsen,Fælleslisten,0
+Ikast,10,Engesvang,L_Lasse_Haahr,Lasse Haahr,Fælleslisten,0
+Ikast,10,Engesvang,L_Mads_Hviid,Mads Hviid,Fælleslisten,0
+Ikast,10,Engesvang,L_Bjørn_Topbjerg,Bjørn Topbjerg,Fælleslisten,0
+Ikast,10,Engesvang,O_Listestemmer,Listestemmer,Dansk Folkeparti,17
+Ikast,10,Engesvang,O_Simon_Vanggaard,Simon Vanggaard,Dansk Folkeparti,11
+Ikast,10,Engesvang,O_Trine_Meldgaard_Kristensen,Trine Meldgaard Kristensen,Dansk Folkeparti,4
+Ikast,10,Engesvang,O_Bo_Sand_Kristensen,Bo Sand Kristensen,Dansk Folkeparti,0
+Ikast,10,Engesvang,O_Mikael_Würtz,Mikael Würtz,Dansk Folkeparti,294
+Ikast,10,Engesvang,O_Tina_Ostersen,Tina Ostersen,Dansk Folkeparti,1
+Ikast,10,Engesvang,O_Jytte_Graversen,Jytte Graversen,Dansk Folkeparti,0
+Ikast,10,Engesvang,O_Peder_Fenger,Peder Fenger,Dansk Folkeparti,2
+Ikast,10,Engesvang,O_H.C._Hansen,H.C. Hansen,Dansk Folkeparti,2
+Ikast,10,Engesvang,O_Jens_Laursen,Jens Laursen,Dansk Folkeparti,0
+Ikast,10,Engesvang,O_Finn_Brostrup,Finn Brostrup,Dansk Folkeparti,0
+Ikast,10,Engesvang,O_Dan_Albrechtsen,Dan Albrechtsen,Dansk Folkeparti,1
+Ikast,10,Engesvang,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",29
+Ikast,10,Engesvang,V_Ib_Lauritsen,Ib Lauritsen,"Venstre, Danmarks Liberale Parti",81
+Ikast,10,Engesvang,V_Jens_Peter_Bak,Jens Peter Bak,"Venstre, Danmarks Liberale Parti",0
+Ikast,10,Engesvang,V_Katri_Berg,Katri Berg,"Venstre, Danmarks Liberale Parti",199
+Ikast,10,Engesvang,V_Gert_Bækgaard,Gert Bækgaard,"Venstre, Danmarks Liberale Parti",1
+Ikast,10,Engesvang,V_Henrik_Christiansen,Henrik Christiansen,"Venstre, Danmarks Liberale Parti",0
+Ikast,10,Engesvang,V_Stig_Døssing,Stig Døssing,"Venstre, Danmarks Liberale Parti",0
+Ikast,10,Engesvang,V_Henrik_Engedahl,Henrik Engedahl,"Venstre, Danmarks Liberale Parti",21
+Ikast,10,Engesvang,V_Palle_Høj,Palle Høj,"Venstre, Danmarks Liberale Parti",4
+Ikast,10,Engesvang,V_Thyge_Lønne_Jensen,Thyge Lønne Jensen,"Venstre, Danmarks Liberale Parti",1
+Ikast,10,Engesvang,V_Laila_Leerholm,Laila Leerholm,"Venstre, Danmarks Liberale Parti",3
+Ikast,10,Engesvang,V_Lars_Lyhne,Lars Lyhne,"Venstre, Danmarks Liberale Parti",3
+Ikast,10,Engesvang,V_Helle_Mathiasen,Helle Mathiasen,"Venstre, Danmarks Liberale Parti",0
+Ikast,10,Engesvang,V_Anne-Marie_Kragsig_Pedersen,Anne-Marie Kragsig Pedersen,"Venstre, Danmarks Liberale Parti",0
+Ikast,10,Engesvang,V_Frank_Thygesen,Frank Thygesen,"Venstre, Danmarks Liberale Parti",0
+Ikast,10,Engesvang,V_Andreas_Würtz,Andreas Würtz,"Venstre, Danmarks Liberale Parti",0
+Ikast,10,Engesvang,V_Thomas_Østergaard,Thomas Østergaard,"Venstre, Danmarks Liberale Parti",27
+Ikast,10,Engesvang,Æ_Listestemmer,Listestemmer,Frihedslisten,0
+Ikast,10,Engesvang,Æ_Kirsten_Merrild,Kirsten Merrild,Frihedslisten,2
+Ikast,10,Engesvang,Æ_Elisabeth_Victoria_Muhlig,Elisabeth Victoria Muhlig,Frihedslisten,0
+Ikast,10,Engesvang,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,8
+Ikast,10,Engesvang,Ø_Charlotte_Kold,Charlotte Kold,Enhedslisten - De Rød-Grønne,89

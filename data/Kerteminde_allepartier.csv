@@ -1,0 +1,571 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Kerteminde,1,Mesinge,A_Listestemmer,Listestemmer,Socialdemokratiet,57
+Kerteminde,1,Mesinge,"A_Kasper_Ejsing_Olesen,_Langeskov","Kasper Ejsing Olesen, Langeskov",Socialdemokratiet,104
+Kerteminde,1,Mesinge,"A_Malene_Hansen,_Kerteminde","Malene Hansen, Kerteminde",Socialdemokratiet,24
+Kerteminde,1,Mesinge,"A_Karen_Dalsgaard_Ibsen,_Munkebo","Karen Dalsgaard Ibsen, Munkebo",Socialdemokratiet,7
+Kerteminde,1,Mesinge,"A_Britt_Pedersen,_Martofte","Britt Pedersen, Martofte",Socialdemokratiet,36
+Kerteminde,1,Mesinge,"A_Jan_Johansen,_Munkebo","Jan Johansen, Munkebo",Socialdemokratiet,47
+Kerteminde,1,Mesinge,"A_Jens-Arne_Hansen,_Mesinge","Jens-Arne Hansen, Mesinge",Socialdemokratiet,50
+Kerteminde,1,Mesinge,"A_Michael_Gammelgaard,_Rynkeby","Michael Gammelgaard, Rynkeby",Socialdemokratiet,2
+Kerteminde,1,Mesinge,"A_Kristian_Hald,_Marslev","Kristian Hald, Marslev",Socialdemokratiet,12
+Kerteminde,1,Mesinge,"A_Puiu_Iulian_Mãcincã,_Nonnebo","Puiu Iulian Mãcincã, Nonnebo",Socialdemokratiet,1
+Kerteminde,1,Mesinge,"A_Kim_Nielsen,_Munkebo","Kim Nielsen, Munkebo",Socialdemokratiet,2
+Kerteminde,1,Mesinge,"A_Sebastian_Nielsen,_Munkebo","Sebastian Nielsen, Munkebo",Socialdemokratiet,7
+Kerteminde,1,Mesinge,"A_Mogens_Jørgensen,_Rynkeby","Mogens Jørgensen, Rynkeby",Socialdemokratiet,1
+Kerteminde,1,Mesinge,"A_Claus_Maimann,_Kerteminde","Claus Maimann, Kerteminde",Socialdemokratiet,2
+Kerteminde,1,Mesinge,"A_Jan_Hansen,_Munkebo","Jan Hansen, Munkebo",Socialdemokratiet,4
+Kerteminde,1,Mesinge,"A_John_Eriksen,_Munkebo","John Eriksen, Munkebo",Socialdemokratiet,1
+Kerteminde,1,Mesinge,"A_Henrik_Nørgaard_Nielsen,Kerteminde","Henrik Nørgaard Nielsen,Kerteminde",Socialdemokratiet,1
+Kerteminde,1,Mesinge,"A_Lars_Hansborg-Sørensen,_Munkebo","Lars Hansborg-Sørensen, Munkebo",Socialdemokratiet,4
+Kerteminde,1,Mesinge,"A_Glenn_Røndrup_Hansen,_Rynkeby","Glenn Røndrup Hansen, Rynkeby",Socialdemokratiet,0
+Kerteminde,1,Mesinge,"A_Peter_Bromark,_Kerteminde","Peter Bromark, Kerteminde",Socialdemokratiet,12
+Kerteminde,1,Mesinge,B_Listestemmer,Listestemmer,Radikale Venstre,9
+Kerteminde,1,Mesinge,"B_Lena_Bækholm,_Langeskov","Lena Bækholm, Langeskov",Radikale Venstre,2
+Kerteminde,1,Mesinge,"B_Toke_Halskov_Kristensen,_Viby","Toke Halskov Kristensen, Viby",Radikale Venstre,29
+Kerteminde,1,Mesinge,"B_Thinne_Nielsen-Tjørnfelt,Langeskov","Thinne Nielsen-Tjørnfelt,Langeskov",Radikale Venstre,1
+Kerteminde,1,Mesinge,"B_Allan_Damsgaard,_Langeskov","Allan Damsgaard, Langeskov",Radikale Venstre,0
+Kerteminde,1,Mesinge,"B_Kim_Beck_Danielsen,_Kerteminde","Kim Beck Danielsen, Kerteminde",Radikale Venstre,0
+Kerteminde,1,Mesinge,"B_Karin_Meisl,_Kerteminde","Karin Meisl, Kerteminde",Radikale Venstre,9
+Kerteminde,1,Mesinge,"B_Ulrik_Wehner,_Munkebo","Ulrik Wehner, Munkebo",Radikale Venstre,1
+Kerteminde,1,Mesinge,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,34
+Kerteminde,1,Mesinge,C_Klavs_Norup_Lauridsen,Klavs Norup Lauridsen,Det Konservative Folkeparti,100
+Kerteminde,1,Mesinge,C_Jesper_Schmidt-Nielsen,Jesper Schmidt-Nielsen,Det Konservative Folkeparti,23
+Kerteminde,1,Mesinge,C_Henrik_Madsen,Henrik Madsen,Det Konservative Folkeparti,5
+Kerteminde,1,Mesinge,C_Lars_Ole_Valsøe,Lars Ole Valsøe,Det Konservative Folkeparti,1
+Kerteminde,1,Mesinge,C_Michael_Nielsen,Michael Nielsen,Det Konservative Folkeparti,4
+Kerteminde,1,Mesinge,C_Kent_Valsøe,Kent Valsøe,Det Konservative Folkeparti,14
+Kerteminde,1,Mesinge,C_Anne_Fiber,Anne Fiber,Det Konservative Folkeparti,2
+Kerteminde,1,Mesinge,C_Allan_Thomsen,Allan Thomsen,Det Konservative Folkeparti,5
+Kerteminde,1,Mesinge,C_Bibi_Foged_Rasmussen,Bibi Foged Rasmussen,Det Konservative Folkeparti,121
+Kerteminde,1,Mesinge,C_Jesper_Hauritz_Sørensen,Jesper Hauritz Sørensen,Det Konservative Folkeparti,0
+Kerteminde,1,Mesinge,C_William_Qvick-Godthaab,William Qvick-Godthaab,Det Konservative Folkeparti,0
+Kerteminde,1,Mesinge,C_Dorte_Sams,Dorte Sams,Det Konservative Folkeparti,1
+Kerteminde,1,Mesinge,C_Tina_Hansen,Tina Hansen,Det Konservative Folkeparti,19
+Kerteminde,1,Mesinge,C_Oliver_Boll_Larsen,Oliver Boll Larsen,Det Konservative Folkeparti,0
+Kerteminde,1,Mesinge,C_Jan_Nautrup_Nielsen,Jan Nautrup Nielsen,Det Konservative Folkeparti,0
+Kerteminde,1,Mesinge,D_Listestemmer,Listestemmer,Nye Borgerlige,12
+Kerteminde,1,Mesinge,D_Jan_O._Pedersen,Jan O. Pedersen,Nye Borgerlige,11
+Kerteminde,1,Mesinge,D_Kristian_Juul_Nielsen,Kristian Juul Nielsen,Nye Borgerlige,6
+Kerteminde,1,Mesinge,D_Martin_Ludvigsen,Martin Ludvigsen,Nye Borgerlige,2
+Kerteminde,1,Mesinge,D_Malte_Jäger,Malte Jäger,Nye Borgerlige,10
+Kerteminde,1,Mesinge,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,21
+Kerteminde,1,Mesinge,F_Jesper_Hempler,Jesper Hempler,SF - Socialistisk Folkeparti,38
+Kerteminde,1,Mesinge,F_Alex_Haurand,Alex Haurand,SF - Socialistisk Folkeparti,27
+Kerteminde,1,Mesinge,F_Kim_Jørstad,Kim Jørstad,SF - Socialistisk Folkeparti,6
+Kerteminde,1,Mesinge,F_Mohamed_Sukar,Mohamed Sukar,SF - Socialistisk Folkeparti,0
+Kerteminde,1,Mesinge,F_Lilly_Haunstrup,Lilly Haunstrup,SF - Socialistisk Folkeparti,3
+Kerteminde,1,Mesinge,F_Ghariba_T._Ebrahim,Ghariba T. Ebrahim,SF - Socialistisk Folkeparti,4
+Kerteminde,1,Mesinge,F_Louise_Villemoes_Pedersen,Louise Villemoes Pedersen,SF - Socialistisk Folkeparti,2
+Kerteminde,1,Mesinge,F_Karl_Munkholm,Karl Munkholm,SF - Socialistisk Folkeparti,1
+Kerteminde,1,Mesinge,K_Listestemmer,Listestemmer,Kristendemokraterne,1
+Kerteminde,1,Mesinge,"K_Margit_Lund-Cramer,_Munkebo","Margit Lund-Cramer, Munkebo",Kristendemokraterne,5
+Kerteminde,1,Mesinge,"K_Rise_Eskildsen,_Munkebo","Rise Eskildsen, Munkebo",Kristendemokraterne,1
+Kerteminde,1,Mesinge,"K_Chr._Emil_Szilas-Hansen,Hundslev","Chr. Emil Szilas-Hansen,Hundslev",Kristendemokraterne,0
+Kerteminde,1,Mesinge,L_Listestemmer,Listestemmer,Frie Lokale,1
+Kerteminde,1,Mesinge,"L_Lars_Bo_Jensen,_Kerteminde","Lars Bo Jensen, Kerteminde",Frie Lokale,6
+Kerteminde,1,Mesinge,"L_Ole_Svenning,_Revninge","Ole Svenning, Revninge",Frie Lokale,0
+Kerteminde,1,Mesinge,O_Listestemmer,Listestemmer,Dansk Folkeparti,9
+Kerteminde,1,Mesinge,"O_Terje_Pedersen,_Dalby","Terje Pedersen, Dalby",Dansk Folkeparti,113
+Kerteminde,1,Mesinge,"O_Lone_Kiilerich,_Munkebo","Lone Kiilerich, Munkebo",Dansk Folkeparti,5
+Kerteminde,1,Mesinge,"O_Randi_Jørgensen,_Birkende","Randi Jørgensen, Birkende",Dansk Folkeparti,2
+Kerteminde,1,Mesinge,"O_Trine_Kryger_Jørgensen,_Langeskov","Trine Kryger Jørgensen, Langeskov",Dansk Folkeparti,3
+Kerteminde,1,Mesinge,"O_Jan-Erik_Hansen,_Hersnap","Jan-Erik Hansen, Hersnap",Dansk Folkeparti,5
+Kerteminde,1,Mesinge,"O_Valdemar_Thygesen,_Martofte","Valdemar Thygesen, Martofte",Dansk Folkeparti,2
+Kerteminde,1,Mesinge,"O_Kent_Dybdahl,_Munkebo","Kent Dybdahl, Munkebo",Dansk Folkeparti,0
+Kerteminde,1,Mesinge,"O_Bjarne_Friis_Helsinghof,_Måle","Bjarne Friis Helsinghof, Måle",Dansk Folkeparti,2
+Kerteminde,1,Mesinge,"O_Uffe_Birkerod_Larsen,_Snave","Uffe Birkerod Larsen, Snave",Dansk Folkeparti,1
+Kerteminde,1,Mesinge,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",29
+Kerteminde,1,Mesinge,V_Jens_Gantriis,Jens Gantriis,"Venstre, Danmarks Liberale Parti",35
+Kerteminde,1,Mesinge,V_Bettina_Eriksen,Bettina Eriksen,"Venstre, Danmarks Liberale Parti",15
+Kerteminde,1,Mesinge,V_Bo_Sandberg,Bo Sandberg,"Venstre, Danmarks Liberale Parti",6
+Kerteminde,1,Mesinge,V_Henrik_Hadberg,Henrik Hadberg,"Venstre, Danmarks Liberale Parti",0
+Kerteminde,1,Mesinge,V_Ken_Jespersen,Ken Jespersen,"Venstre, Danmarks Liberale Parti",4
+Kerteminde,1,Mesinge,V_Harris_Sander_Brandt,Harris Sander Brandt,"Venstre, Danmarks Liberale Parti",0
+Kerteminde,1,Mesinge,V_Jenet_Helvig,Jenet Helvig,"Venstre, Danmarks Liberale Parti",0
+Kerteminde,1,Mesinge,V_Anita_Ebbesen,Anita Ebbesen,"Venstre, Danmarks Liberale Parti",0
+Kerteminde,1,Mesinge,V_Jørgen_Larsen,Jørgen Larsen,"Venstre, Danmarks Liberale Parti",4
+Kerteminde,1,Mesinge,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,40
+Kerteminde,1,Mesinge,Ø_Heino_Salling,Heino Salling,Enhedslisten - De Rød-Grønne,28
+Kerteminde,1,Mesinge,Ø_Jørgen_Andkær_Jensen,Jørgen Andkær Jensen,Enhedslisten - De Rød-Grønne,3
+Kerteminde,1,Mesinge,Ø_Georgette_Al-Araj,Georgette Al-Araj,Enhedslisten - De Rød-Grønne,4
+Kerteminde,1,Mesinge,Ø_Jesper_Andersen,Jesper Andersen,Enhedslisten - De Rød-Grønne,0
+Kerteminde,1,Mesinge,Ø_Hans_Jakob_Kirk,Hans Jakob Kirk,Enhedslisten - De Rød-Grønne,8
+Kerteminde,1,Mesinge,Ø_Rita_Mikkelsen,Rita Mikkelsen,Enhedslisten - De Rød-Grønne,6
+Kerteminde,1,Mesinge,Ø_Asger_Bondo,Asger Bondo,Enhedslisten - De Rød-Grønne,3
+Kerteminde,1,Mesinge,Ø_Basem_Al_Sayed,Basem Al Sayed,Enhedslisten - De Rød-Grønne,1
+Kerteminde,1,Mesinge,Ø_Jesper_Østergaard,Jesper Østergaard,Enhedslisten - De Rød-Grønne,0
+Kerteminde,2,Kerteminde 1,A_Listestemmer,Listestemmer,Socialdemokratiet,299
+Kerteminde,2,Kerteminde 1,"A_Kasper_Ejsing_Olesen,_Langeskov","Kasper Ejsing Olesen, Langeskov",Socialdemokratiet,423
+Kerteminde,2,Kerteminde 1,"A_Malene_Hansen,_Kerteminde","Malene Hansen, Kerteminde",Socialdemokratiet,132
+Kerteminde,2,Kerteminde 1,"A_Karen_Dalsgaard_Ibsen,_Munkebo","Karen Dalsgaard Ibsen, Munkebo",Socialdemokratiet,22
+Kerteminde,2,Kerteminde 1,"A_Britt_Pedersen,_Martofte","Britt Pedersen, Martofte",Socialdemokratiet,43
+Kerteminde,2,Kerteminde 1,"A_Jan_Johansen,_Munkebo","Jan Johansen, Munkebo",Socialdemokratiet,159
+Kerteminde,2,Kerteminde 1,"A_Jens-Arne_Hansen,_Mesinge","Jens-Arne Hansen, Mesinge",Socialdemokratiet,23
+Kerteminde,2,Kerteminde 1,"A_Michael_Gammelgaard,_Rynkeby","Michael Gammelgaard, Rynkeby",Socialdemokratiet,8
+Kerteminde,2,Kerteminde 1,"A_Kristian_Hald,_Marslev","Kristian Hald, Marslev",Socialdemokratiet,45
+Kerteminde,2,Kerteminde 1,"A_Puiu_Iulian_Mãcincã,_Nonnebo","Puiu Iulian Mãcincã, Nonnebo",Socialdemokratiet,0
+Kerteminde,2,Kerteminde 1,"A_Kim_Nielsen,_Munkebo","Kim Nielsen, Munkebo",Socialdemokratiet,6
+Kerteminde,2,Kerteminde 1,"A_Sebastian_Nielsen,_Munkebo","Sebastian Nielsen, Munkebo",Socialdemokratiet,9
+Kerteminde,2,Kerteminde 1,"A_Mogens_Jørgensen,_Rynkeby","Mogens Jørgensen, Rynkeby",Socialdemokratiet,12
+Kerteminde,2,Kerteminde 1,"A_Claus_Maimann,_Kerteminde","Claus Maimann, Kerteminde",Socialdemokratiet,51
+Kerteminde,2,Kerteminde 1,"A_Jan_Hansen,_Munkebo","Jan Hansen, Munkebo",Socialdemokratiet,14
+Kerteminde,2,Kerteminde 1,"A_John_Eriksen,_Munkebo","John Eriksen, Munkebo",Socialdemokratiet,14
+Kerteminde,2,Kerteminde 1,"A_Henrik_Nørgaard_Nielsen,Kerteminde","Henrik Nørgaard Nielsen,Kerteminde",Socialdemokratiet,16
+Kerteminde,2,Kerteminde 1,"A_Lars_Hansborg-Sørensen,_Munkebo","Lars Hansborg-Sørensen, Munkebo",Socialdemokratiet,4
+Kerteminde,2,Kerteminde 1,"A_Glenn_Røndrup_Hansen,_Rynkeby","Glenn Røndrup Hansen, Rynkeby",Socialdemokratiet,14
+Kerteminde,2,Kerteminde 1,"A_Peter_Bromark,_Kerteminde","Peter Bromark, Kerteminde",Socialdemokratiet,50
+Kerteminde,2,Kerteminde 1,B_Listestemmer,Listestemmer,Radikale Venstre,17
+Kerteminde,2,Kerteminde 1,"B_Lena_Bækholm,_Langeskov","Lena Bækholm, Langeskov",Radikale Venstre,13
+Kerteminde,2,Kerteminde 1,"B_Toke_Halskov_Kristensen,_Viby","Toke Halskov Kristensen, Viby",Radikale Venstre,47
+Kerteminde,2,Kerteminde 1,"B_Thinne_Nielsen-Tjørnfelt,Langeskov","Thinne Nielsen-Tjørnfelt,Langeskov",Radikale Venstre,8
+Kerteminde,2,Kerteminde 1,"B_Allan_Damsgaard,_Langeskov","Allan Damsgaard, Langeskov",Radikale Venstre,2
+Kerteminde,2,Kerteminde 1,"B_Kim_Beck_Danielsen,_Kerteminde","Kim Beck Danielsen, Kerteminde",Radikale Venstre,34
+Kerteminde,2,Kerteminde 1,"B_Karin_Meisl,_Kerteminde","Karin Meisl, Kerteminde",Radikale Venstre,35
+Kerteminde,2,Kerteminde 1,"B_Ulrik_Wehner,_Munkebo","Ulrik Wehner, Munkebo",Radikale Venstre,3
+Kerteminde,2,Kerteminde 1,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,206
+Kerteminde,2,Kerteminde 1,C_Klavs_Norup_Lauridsen,Klavs Norup Lauridsen,Det Konservative Folkeparti,616
+Kerteminde,2,Kerteminde 1,C_Jesper_Schmidt-Nielsen,Jesper Schmidt-Nielsen,Det Konservative Folkeparti,269
+Kerteminde,2,Kerteminde 1,C_Henrik_Madsen,Henrik Madsen,Det Konservative Folkeparti,21
+Kerteminde,2,Kerteminde 1,C_Lars_Ole_Valsøe,Lars Ole Valsøe,Det Konservative Folkeparti,63
+Kerteminde,2,Kerteminde 1,C_Michael_Nielsen,Michael Nielsen,Det Konservative Folkeparti,11
+Kerteminde,2,Kerteminde 1,C_Kent_Valsøe,Kent Valsøe,Det Konservative Folkeparti,228
+Kerteminde,2,Kerteminde 1,C_Anne_Fiber,Anne Fiber,Det Konservative Folkeparti,35
+Kerteminde,2,Kerteminde 1,C_Allan_Thomsen,Allan Thomsen,Det Konservative Folkeparti,7
+Kerteminde,2,Kerteminde 1,C_Bibi_Foged_Rasmussen,Bibi Foged Rasmussen,Det Konservative Folkeparti,46
+Kerteminde,2,Kerteminde 1,C_Jesper_Hauritz_Sørensen,Jesper Hauritz Sørensen,Det Konservative Folkeparti,1
+Kerteminde,2,Kerteminde 1,C_William_Qvick-Godthaab,William Qvick-Godthaab,Det Konservative Folkeparti,12
+Kerteminde,2,Kerteminde 1,C_Dorte_Sams,Dorte Sams,Det Konservative Folkeparti,5
+Kerteminde,2,Kerteminde 1,C_Tina_Hansen,Tina Hansen,Det Konservative Folkeparti,5
+Kerteminde,2,Kerteminde 1,C_Oliver_Boll_Larsen,Oliver Boll Larsen,Det Konservative Folkeparti,11
+Kerteminde,2,Kerteminde 1,C_Jan_Nautrup_Nielsen,Jan Nautrup Nielsen,Det Konservative Folkeparti,3
+Kerteminde,2,Kerteminde 1,D_Listestemmer,Listestemmer,Nye Borgerlige,35
+Kerteminde,2,Kerteminde 1,D_Jan_O._Pedersen,Jan O. Pedersen,Nye Borgerlige,30
+Kerteminde,2,Kerteminde 1,D_Kristian_Juul_Nielsen,Kristian Juul Nielsen,Nye Borgerlige,18
+Kerteminde,2,Kerteminde 1,D_Martin_Ludvigsen,Martin Ludvigsen,Nye Borgerlige,11
+Kerteminde,2,Kerteminde 1,D_Malte_Jäger,Malte Jäger,Nye Borgerlige,86
+Kerteminde,2,Kerteminde 1,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,72
+Kerteminde,2,Kerteminde 1,F_Jesper_Hempler,Jesper Hempler,SF - Socialistisk Folkeparti,97
+Kerteminde,2,Kerteminde 1,F_Alex_Haurand,Alex Haurand,SF - Socialistisk Folkeparti,46
+Kerteminde,2,Kerteminde 1,F_Kim_Jørstad,Kim Jørstad,SF - Socialistisk Folkeparti,42
+Kerteminde,2,Kerteminde 1,F_Mohamed_Sukar,Mohamed Sukar,SF - Socialistisk Folkeparti,5
+Kerteminde,2,Kerteminde 1,F_Lilly_Haunstrup,Lilly Haunstrup,SF - Socialistisk Folkeparti,7
+Kerteminde,2,Kerteminde 1,F_Ghariba_T._Ebrahim,Ghariba T. Ebrahim,SF - Socialistisk Folkeparti,6
+Kerteminde,2,Kerteminde 1,F_Louise_Villemoes_Pedersen,Louise Villemoes Pedersen,SF - Socialistisk Folkeparti,2
+Kerteminde,2,Kerteminde 1,F_Karl_Munkholm,Karl Munkholm,SF - Socialistisk Folkeparti,2
+Kerteminde,2,Kerteminde 1,K_Listestemmer,Listestemmer,Kristendemokraterne,6
+Kerteminde,2,Kerteminde 1,"K_Margit_Lund-Cramer,_Munkebo","Margit Lund-Cramer, Munkebo",Kristendemokraterne,7
+Kerteminde,2,Kerteminde 1,"K_Rise_Eskildsen,_Munkebo","Rise Eskildsen, Munkebo",Kristendemokraterne,6
+Kerteminde,2,Kerteminde 1,"K_Chr._Emil_Szilas-Hansen,Hundslev","Chr. Emil Szilas-Hansen,Hundslev",Kristendemokraterne,0
+Kerteminde,2,Kerteminde 1,L_Listestemmer,Listestemmer,Frie Lokale,16
+Kerteminde,2,Kerteminde 1,"L_Lars_Bo_Jensen,_Kerteminde","Lars Bo Jensen, Kerteminde",Frie Lokale,69
+Kerteminde,2,Kerteminde 1,"L_Ole_Svenning,_Revninge","Ole Svenning, Revninge",Frie Lokale,5
+Kerteminde,2,Kerteminde 1,O_Listestemmer,Listestemmer,Dansk Folkeparti,53
+Kerteminde,2,Kerteminde 1,"O_Terje_Pedersen,_Dalby","Terje Pedersen, Dalby",Dansk Folkeparti,65
+Kerteminde,2,Kerteminde 1,"O_Lone_Kiilerich,_Munkebo","Lone Kiilerich, Munkebo",Dansk Folkeparti,6
+Kerteminde,2,Kerteminde 1,"O_Randi_Jørgensen,_Birkende","Randi Jørgensen, Birkende",Dansk Folkeparti,6
+Kerteminde,2,Kerteminde 1,"O_Trine_Kryger_Jørgensen,_Langeskov","Trine Kryger Jørgensen, Langeskov",Dansk Folkeparti,3
+Kerteminde,2,Kerteminde 1,"O_Jan-Erik_Hansen,_Hersnap","Jan-Erik Hansen, Hersnap",Dansk Folkeparti,8
+Kerteminde,2,Kerteminde 1,"O_Valdemar_Thygesen,_Martofte","Valdemar Thygesen, Martofte",Dansk Folkeparti,4
+Kerteminde,2,Kerteminde 1,"O_Kent_Dybdahl,_Munkebo","Kent Dybdahl, Munkebo",Dansk Folkeparti,3
+Kerteminde,2,Kerteminde 1,"O_Bjarne_Friis_Helsinghof,_Måle","Bjarne Friis Helsinghof, Måle",Dansk Folkeparti,1
+Kerteminde,2,Kerteminde 1,"O_Uffe_Birkerod_Larsen,_Snave","Uffe Birkerod Larsen, Snave",Dansk Folkeparti,0
+Kerteminde,2,Kerteminde 1,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",84
+Kerteminde,2,Kerteminde 1,V_Jens_Gantriis,Jens Gantriis,"Venstre, Danmarks Liberale Parti",153
+Kerteminde,2,Kerteminde 1,V_Bettina_Eriksen,Bettina Eriksen,"Venstre, Danmarks Liberale Parti",57
+Kerteminde,2,Kerteminde 1,V_Bo_Sandberg,Bo Sandberg,"Venstre, Danmarks Liberale Parti",10
+Kerteminde,2,Kerteminde 1,V_Henrik_Hadberg,Henrik Hadberg,"Venstre, Danmarks Liberale Parti",2
+Kerteminde,2,Kerteminde 1,V_Ken_Jespersen,Ken Jespersen,"Venstre, Danmarks Liberale Parti",9
+Kerteminde,2,Kerteminde 1,V_Harris_Sander_Brandt,Harris Sander Brandt,"Venstre, Danmarks Liberale Parti",11
+Kerteminde,2,Kerteminde 1,V_Jenet_Helvig,Jenet Helvig,"Venstre, Danmarks Liberale Parti",3
+Kerteminde,2,Kerteminde 1,V_Anita_Ebbesen,Anita Ebbesen,"Venstre, Danmarks Liberale Parti",1
+Kerteminde,2,Kerteminde 1,V_Jørgen_Larsen,Jørgen Larsen,"Venstre, Danmarks Liberale Parti",19
+Kerteminde,2,Kerteminde 1,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,76
+Kerteminde,2,Kerteminde 1,Ø_Heino_Salling,Heino Salling,Enhedslisten - De Rød-Grønne,54
+Kerteminde,2,Kerteminde 1,Ø_Jørgen_Andkær_Jensen,Jørgen Andkær Jensen,Enhedslisten - De Rød-Grønne,14
+Kerteminde,2,Kerteminde 1,Ø_Georgette_Al-Araj,Georgette Al-Araj,Enhedslisten - De Rød-Grønne,24
+Kerteminde,2,Kerteminde 1,Ø_Jesper_Andersen,Jesper Andersen,Enhedslisten - De Rød-Grønne,3
+Kerteminde,2,Kerteminde 1,Ø_Hans_Jakob_Kirk,Hans Jakob Kirk,Enhedslisten - De Rød-Grønne,9
+Kerteminde,2,Kerteminde 1,Ø_Rita_Mikkelsen,Rita Mikkelsen,Enhedslisten - De Rød-Grønne,10
+Kerteminde,2,Kerteminde 1,Ø_Asger_Bondo,Asger Bondo,Enhedslisten - De Rød-Grønne,13
+Kerteminde,2,Kerteminde 1,Ø_Basem_Al_Sayed,Basem Al Sayed,Enhedslisten - De Rød-Grønne,1
+Kerteminde,2,Kerteminde 1,Ø_Jesper_Østergaard,Jesper Østergaard,Enhedslisten - De Rød-Grønne,1
+Kerteminde,4,Nymarken,A_Listestemmer,Listestemmer,Socialdemokratiet,83
+Kerteminde,4,Nymarken,"A_Kasper_Ejsing_Olesen,_Langeskov","Kasper Ejsing Olesen, Langeskov",Socialdemokratiet,117
+Kerteminde,4,Nymarken,"A_Malene_Hansen,_Kerteminde","Malene Hansen, Kerteminde",Socialdemokratiet,70
+Kerteminde,4,Nymarken,"A_Karen_Dalsgaard_Ibsen,_Munkebo","Karen Dalsgaard Ibsen, Munkebo",Socialdemokratiet,11
+Kerteminde,4,Nymarken,"A_Britt_Pedersen,_Martofte","Britt Pedersen, Martofte",Socialdemokratiet,6
+Kerteminde,4,Nymarken,"A_Jan_Johansen,_Munkebo","Jan Johansen, Munkebo",Socialdemokratiet,28
+Kerteminde,4,Nymarken,"A_Jens-Arne_Hansen,_Mesinge","Jens-Arne Hansen, Mesinge",Socialdemokratiet,3
+Kerteminde,4,Nymarken,"A_Michael_Gammelgaard,_Rynkeby","Michael Gammelgaard, Rynkeby",Socialdemokratiet,16
+Kerteminde,4,Nymarken,"A_Kristian_Hald,_Marslev","Kristian Hald, Marslev",Socialdemokratiet,21
+Kerteminde,4,Nymarken,"A_Puiu_Iulian_Mãcincã,_Nonnebo","Puiu Iulian Mãcincã, Nonnebo",Socialdemokratiet,1
+Kerteminde,4,Nymarken,"A_Kim_Nielsen,_Munkebo","Kim Nielsen, Munkebo",Socialdemokratiet,2
+Kerteminde,4,Nymarken,"A_Sebastian_Nielsen,_Munkebo","Sebastian Nielsen, Munkebo",Socialdemokratiet,2
+Kerteminde,4,Nymarken,"A_Mogens_Jørgensen,_Rynkeby","Mogens Jørgensen, Rynkeby",Socialdemokratiet,74
+Kerteminde,4,Nymarken,"A_Claus_Maimann,_Kerteminde","Claus Maimann, Kerteminde",Socialdemokratiet,3
+Kerteminde,4,Nymarken,"A_Jan_Hansen,_Munkebo","Jan Hansen, Munkebo",Socialdemokratiet,4
+Kerteminde,4,Nymarken,"A_John_Eriksen,_Munkebo","John Eriksen, Munkebo",Socialdemokratiet,3
+Kerteminde,4,Nymarken,"A_Henrik_Nørgaard_Nielsen,Kerteminde","Henrik Nørgaard Nielsen,Kerteminde",Socialdemokratiet,2
+Kerteminde,4,Nymarken,"A_Lars_Hansborg-Sørensen,_Munkebo","Lars Hansborg-Sørensen, Munkebo",Socialdemokratiet,2
+Kerteminde,4,Nymarken,"A_Glenn_Røndrup_Hansen,_Rynkeby","Glenn Røndrup Hansen, Rynkeby",Socialdemokratiet,9
+Kerteminde,4,Nymarken,"A_Peter_Bromark,_Kerteminde","Peter Bromark, Kerteminde",Socialdemokratiet,1
+Kerteminde,4,Nymarken,B_Listestemmer,Listestemmer,Radikale Venstre,12
+Kerteminde,4,Nymarken,"B_Lena_Bækholm,_Langeskov","Lena Bækholm, Langeskov",Radikale Venstre,5
+Kerteminde,4,Nymarken,"B_Toke_Halskov_Kristensen,_Viby","Toke Halskov Kristensen, Viby",Radikale Venstre,13
+Kerteminde,4,Nymarken,"B_Thinne_Nielsen-Tjørnfelt,Langeskov","Thinne Nielsen-Tjørnfelt,Langeskov",Radikale Venstre,1
+Kerteminde,4,Nymarken,"B_Allan_Damsgaard,_Langeskov","Allan Damsgaard, Langeskov",Radikale Venstre,1
+Kerteminde,4,Nymarken,"B_Kim_Beck_Danielsen,_Kerteminde","Kim Beck Danielsen, Kerteminde",Radikale Venstre,1
+Kerteminde,4,Nymarken,"B_Karin_Meisl,_Kerteminde","Karin Meisl, Kerteminde",Radikale Venstre,2
+Kerteminde,4,Nymarken,"B_Ulrik_Wehner,_Munkebo","Ulrik Wehner, Munkebo",Radikale Venstre,0
+Kerteminde,4,Nymarken,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,64
+Kerteminde,4,Nymarken,C_Klavs_Norup_Lauridsen,Klavs Norup Lauridsen,Det Konservative Folkeparti,142
+Kerteminde,4,Nymarken,C_Jesper_Schmidt-Nielsen,Jesper Schmidt-Nielsen,Det Konservative Folkeparti,28
+Kerteminde,4,Nymarken,C_Henrik_Madsen,Henrik Madsen,Det Konservative Folkeparti,5
+Kerteminde,4,Nymarken,C_Lars_Ole_Valsøe,Lars Ole Valsøe,Det Konservative Folkeparti,4
+Kerteminde,4,Nymarken,C_Michael_Nielsen,Michael Nielsen,Det Konservative Folkeparti,13
+Kerteminde,4,Nymarken,C_Kent_Valsøe,Kent Valsøe,Det Konservative Folkeparti,23
+Kerteminde,4,Nymarken,C_Anne_Fiber,Anne Fiber,Det Konservative Folkeparti,23
+Kerteminde,4,Nymarken,C_Allan_Thomsen,Allan Thomsen,Det Konservative Folkeparti,11
+Kerteminde,4,Nymarken,C_Bibi_Foged_Rasmussen,Bibi Foged Rasmussen,Det Konservative Folkeparti,22
+Kerteminde,4,Nymarken,C_Jesper_Hauritz_Sørensen,Jesper Hauritz Sørensen,Det Konservative Folkeparti,2
+Kerteminde,4,Nymarken,C_William_Qvick-Godthaab,William Qvick-Godthaab,Det Konservative Folkeparti,6
+Kerteminde,4,Nymarken,C_Dorte_Sams,Dorte Sams,Det Konservative Folkeparti,2
+Kerteminde,4,Nymarken,C_Tina_Hansen,Tina Hansen,Det Konservative Folkeparti,2
+Kerteminde,4,Nymarken,C_Oliver_Boll_Larsen,Oliver Boll Larsen,Det Konservative Folkeparti,2
+Kerteminde,4,Nymarken,C_Jan_Nautrup_Nielsen,Jan Nautrup Nielsen,Det Konservative Folkeparti,0
+Kerteminde,4,Nymarken,D_Listestemmer,Listestemmer,Nye Borgerlige,25
+Kerteminde,4,Nymarken,D_Jan_O._Pedersen,Jan O. Pedersen,Nye Borgerlige,25
+Kerteminde,4,Nymarken,D_Kristian_Juul_Nielsen,Kristian Juul Nielsen,Nye Borgerlige,4
+Kerteminde,4,Nymarken,D_Martin_Ludvigsen,Martin Ludvigsen,Nye Borgerlige,5
+Kerteminde,4,Nymarken,D_Malte_Jäger,Malte Jäger,Nye Borgerlige,26
+Kerteminde,4,Nymarken,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,13
+Kerteminde,4,Nymarken,F_Jesper_Hempler,Jesper Hempler,SF - Socialistisk Folkeparti,26
+Kerteminde,4,Nymarken,F_Alex_Haurand,Alex Haurand,SF - Socialistisk Folkeparti,27
+Kerteminde,4,Nymarken,F_Kim_Jørstad,Kim Jørstad,SF - Socialistisk Folkeparti,5
+Kerteminde,4,Nymarken,F_Mohamed_Sukar,Mohamed Sukar,SF - Socialistisk Folkeparti,0
+Kerteminde,4,Nymarken,F_Lilly_Haunstrup,Lilly Haunstrup,SF - Socialistisk Folkeparti,0
+Kerteminde,4,Nymarken,F_Ghariba_T._Ebrahim,Ghariba T. Ebrahim,SF - Socialistisk Folkeparti,0
+Kerteminde,4,Nymarken,F_Louise_Villemoes_Pedersen,Louise Villemoes Pedersen,SF - Socialistisk Folkeparti,1
+Kerteminde,4,Nymarken,F_Karl_Munkholm,Karl Munkholm,SF - Socialistisk Folkeparti,0
+Kerteminde,4,Nymarken,K_Listestemmer,Listestemmer,Kristendemokraterne,2
+Kerteminde,4,Nymarken,"K_Margit_Lund-Cramer,_Munkebo","Margit Lund-Cramer, Munkebo",Kristendemokraterne,4
+Kerteminde,4,Nymarken,"K_Rise_Eskildsen,_Munkebo","Rise Eskildsen, Munkebo",Kristendemokraterne,1
+Kerteminde,4,Nymarken,"K_Chr._Emil_Szilas-Hansen,Hundslev","Chr. Emil Szilas-Hansen,Hundslev",Kristendemokraterne,7
+Kerteminde,4,Nymarken,L_Listestemmer,Listestemmer,Frie Lokale,4
+Kerteminde,4,Nymarken,"L_Lars_Bo_Jensen,_Kerteminde","Lars Bo Jensen, Kerteminde",Frie Lokale,18
+Kerteminde,4,Nymarken,"L_Ole_Svenning,_Revninge","Ole Svenning, Revninge",Frie Lokale,4
+Kerteminde,4,Nymarken,O_Listestemmer,Listestemmer,Dansk Folkeparti,21
+Kerteminde,4,Nymarken,"O_Terje_Pedersen,_Dalby","Terje Pedersen, Dalby",Dansk Folkeparti,28
+Kerteminde,4,Nymarken,"O_Lone_Kiilerich,_Munkebo","Lone Kiilerich, Munkebo",Dansk Folkeparti,23
+Kerteminde,4,Nymarken,"O_Randi_Jørgensen,_Birkende","Randi Jørgensen, Birkende",Dansk Folkeparti,27
+Kerteminde,4,Nymarken,"O_Trine_Kryger_Jørgensen,_Langeskov","Trine Kryger Jørgensen, Langeskov",Dansk Folkeparti,2
+Kerteminde,4,Nymarken,"O_Jan-Erik_Hansen,_Hersnap","Jan-Erik Hansen, Hersnap",Dansk Folkeparti,2
+Kerteminde,4,Nymarken,"O_Valdemar_Thygesen,_Martofte","Valdemar Thygesen, Martofte",Dansk Folkeparti,0
+Kerteminde,4,Nymarken,"O_Kent_Dybdahl,_Munkebo","Kent Dybdahl, Munkebo",Dansk Folkeparti,1
+Kerteminde,4,Nymarken,"O_Bjarne_Friis_Helsinghof,_Måle","Bjarne Friis Helsinghof, Måle",Dansk Folkeparti,0
+Kerteminde,4,Nymarken,"O_Uffe_Birkerod_Larsen,_Snave","Uffe Birkerod Larsen, Snave",Dansk Folkeparti,1
+Kerteminde,4,Nymarken,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",44
+Kerteminde,4,Nymarken,V_Jens_Gantriis,Jens Gantriis,"Venstre, Danmarks Liberale Parti",41
+Kerteminde,4,Nymarken,V_Bettina_Eriksen,Bettina Eriksen,"Venstre, Danmarks Liberale Parti",13
+Kerteminde,4,Nymarken,V_Bo_Sandberg,Bo Sandberg,"Venstre, Danmarks Liberale Parti",7
+Kerteminde,4,Nymarken,V_Henrik_Hadberg,Henrik Hadberg,"Venstre, Danmarks Liberale Parti",0
+Kerteminde,4,Nymarken,V_Ken_Jespersen,Ken Jespersen,"Venstre, Danmarks Liberale Parti",17
+Kerteminde,4,Nymarken,V_Harris_Sander_Brandt,Harris Sander Brandt,"Venstre, Danmarks Liberale Parti",0
+Kerteminde,4,Nymarken,V_Jenet_Helvig,Jenet Helvig,"Venstre, Danmarks Liberale Parti",1
+Kerteminde,4,Nymarken,V_Anita_Ebbesen,Anita Ebbesen,"Venstre, Danmarks Liberale Parti",0
+Kerteminde,4,Nymarken,V_Jørgen_Larsen,Jørgen Larsen,"Venstre, Danmarks Liberale Parti",4
+Kerteminde,4,Nymarken,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,34
+Kerteminde,4,Nymarken,Ø_Heino_Salling,Heino Salling,Enhedslisten - De Rød-Grønne,26
+Kerteminde,4,Nymarken,Ø_Jørgen_Andkær_Jensen,Jørgen Andkær Jensen,Enhedslisten - De Rød-Grønne,17
+Kerteminde,4,Nymarken,Ø_Georgette_Al-Araj,Georgette Al-Araj,Enhedslisten - De Rød-Grønne,2
+Kerteminde,4,Nymarken,Ø_Jesper_Andersen,Jesper Andersen,Enhedslisten - De Rød-Grønne,1
+Kerteminde,4,Nymarken,Ø_Hans_Jakob_Kirk,Hans Jakob Kirk,Enhedslisten - De Rød-Grønne,7
+Kerteminde,4,Nymarken,Ø_Rita_Mikkelsen,Rita Mikkelsen,Enhedslisten - De Rød-Grønne,5
+Kerteminde,4,Nymarken,Ø_Asger_Bondo,Asger Bondo,Enhedslisten - De Rød-Grønne,3
+Kerteminde,4,Nymarken,Ø_Basem_Al_Sayed,Basem Al Sayed,Enhedslisten - De Rød-Grønne,1
+Kerteminde,4,Nymarken,Ø_Jesper_Østergaard,Jesper Østergaard,Enhedslisten - De Rød-Grønne,1
+Kerteminde,5,Marslev,A_Listestemmer,Listestemmer,Socialdemokratiet,72
+Kerteminde,5,Marslev,"A_Kasper_Ejsing_Olesen,_Langeskov","Kasper Ejsing Olesen, Langeskov",Socialdemokratiet,117
+Kerteminde,5,Marslev,"A_Malene_Hansen,_Kerteminde","Malene Hansen, Kerteminde",Socialdemokratiet,25
+Kerteminde,5,Marslev,"A_Karen_Dalsgaard_Ibsen,_Munkebo","Karen Dalsgaard Ibsen, Munkebo",Socialdemokratiet,13
+Kerteminde,5,Marslev,"A_Britt_Pedersen,_Martofte","Britt Pedersen, Martofte",Socialdemokratiet,3
+Kerteminde,5,Marslev,"A_Jan_Johansen,_Munkebo","Jan Johansen, Munkebo",Socialdemokratiet,38
+Kerteminde,5,Marslev,"A_Jens-Arne_Hansen,_Mesinge","Jens-Arne Hansen, Mesinge",Socialdemokratiet,1
+Kerteminde,5,Marslev,"A_Michael_Gammelgaard,_Rynkeby","Michael Gammelgaard, Rynkeby",Socialdemokratiet,2
+Kerteminde,5,Marslev,"A_Kristian_Hald,_Marslev","Kristian Hald, Marslev",Socialdemokratiet,174
+Kerteminde,5,Marslev,"A_Puiu_Iulian_Mãcincã,_Nonnebo","Puiu Iulian Mãcincã, Nonnebo",Socialdemokratiet,1
+Kerteminde,5,Marslev,"A_Kim_Nielsen,_Munkebo","Kim Nielsen, Munkebo",Socialdemokratiet,0
+Kerteminde,5,Marslev,"A_Sebastian_Nielsen,_Munkebo","Sebastian Nielsen, Munkebo",Socialdemokratiet,5
+Kerteminde,5,Marslev,"A_Mogens_Jørgensen,_Rynkeby","Mogens Jørgensen, Rynkeby",Socialdemokratiet,0
+Kerteminde,5,Marslev,"A_Claus_Maimann,_Kerteminde","Claus Maimann, Kerteminde",Socialdemokratiet,3
+Kerteminde,5,Marslev,"A_Jan_Hansen,_Munkebo","Jan Hansen, Munkebo",Socialdemokratiet,1
+Kerteminde,5,Marslev,"A_John_Eriksen,_Munkebo","John Eriksen, Munkebo",Socialdemokratiet,2
+Kerteminde,5,Marslev,"A_Henrik_Nørgaard_Nielsen,Kerteminde","Henrik Nørgaard Nielsen,Kerteminde",Socialdemokratiet,0
+Kerteminde,5,Marslev,"A_Lars_Hansborg-Sørensen,_Munkebo","Lars Hansborg-Sørensen, Munkebo",Socialdemokratiet,0
+Kerteminde,5,Marslev,"A_Glenn_Røndrup_Hansen,_Rynkeby","Glenn Røndrup Hansen, Rynkeby",Socialdemokratiet,3
+Kerteminde,5,Marslev,"A_Peter_Bromark,_Kerteminde","Peter Bromark, Kerteminde",Socialdemokratiet,1
+Kerteminde,5,Marslev,B_Listestemmer,Listestemmer,Radikale Venstre,6
+Kerteminde,5,Marslev,"B_Lena_Bækholm,_Langeskov","Lena Bækholm, Langeskov",Radikale Venstre,10
+Kerteminde,5,Marslev,"B_Toke_Halskov_Kristensen,_Viby","Toke Halskov Kristensen, Viby",Radikale Venstre,7
+Kerteminde,5,Marslev,"B_Thinne_Nielsen-Tjørnfelt,Langeskov","Thinne Nielsen-Tjørnfelt,Langeskov",Radikale Venstre,2
+Kerteminde,5,Marslev,"B_Allan_Damsgaard,_Langeskov","Allan Damsgaard, Langeskov",Radikale Venstre,1
+Kerteminde,5,Marslev,"B_Kim_Beck_Danielsen,_Kerteminde","Kim Beck Danielsen, Kerteminde",Radikale Venstre,1
+Kerteminde,5,Marslev,"B_Karin_Meisl,_Kerteminde","Karin Meisl, Kerteminde",Radikale Venstre,3
+Kerteminde,5,Marslev,"B_Ulrik_Wehner,_Munkebo","Ulrik Wehner, Munkebo",Radikale Venstre,0
+Kerteminde,5,Marslev,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,68
+Kerteminde,5,Marslev,C_Klavs_Norup_Lauridsen,Klavs Norup Lauridsen,Det Konservative Folkeparti,154
+Kerteminde,5,Marslev,C_Jesper_Schmidt-Nielsen,Jesper Schmidt-Nielsen,Det Konservative Folkeparti,5
+Kerteminde,5,Marslev,C_Henrik_Madsen,Henrik Madsen,Det Konservative Folkeparti,6
+Kerteminde,5,Marslev,C_Lars_Ole_Valsøe,Lars Ole Valsøe,Det Konservative Folkeparti,2
+Kerteminde,5,Marslev,C_Michael_Nielsen,Michael Nielsen,Det Konservative Folkeparti,46
+Kerteminde,5,Marslev,C_Kent_Valsøe,Kent Valsøe,Det Konservative Folkeparti,9
+Kerteminde,5,Marslev,C_Anne_Fiber,Anne Fiber,Det Konservative Folkeparti,27
+Kerteminde,5,Marslev,C_Allan_Thomsen,Allan Thomsen,Det Konservative Folkeparti,29
+Kerteminde,5,Marslev,C_Bibi_Foged_Rasmussen,Bibi Foged Rasmussen,Det Konservative Folkeparti,14
+Kerteminde,5,Marslev,C_Jesper_Hauritz_Sørensen,Jesper Hauritz Sørensen,Det Konservative Folkeparti,1
+Kerteminde,5,Marslev,C_William_Qvick-Godthaab,William Qvick-Godthaab,Det Konservative Folkeparti,6
+Kerteminde,5,Marslev,C_Dorte_Sams,Dorte Sams,Det Konservative Folkeparti,1
+Kerteminde,5,Marslev,C_Tina_Hansen,Tina Hansen,Det Konservative Folkeparti,2
+Kerteminde,5,Marslev,C_Oliver_Boll_Larsen,Oliver Boll Larsen,Det Konservative Folkeparti,0
+Kerteminde,5,Marslev,C_Jan_Nautrup_Nielsen,Jan Nautrup Nielsen,Det Konservative Folkeparti,0
+Kerteminde,5,Marslev,D_Listestemmer,Listestemmer,Nye Borgerlige,25
+Kerteminde,5,Marslev,D_Jan_O._Pedersen,Jan O. Pedersen,Nye Borgerlige,16
+Kerteminde,5,Marslev,D_Kristian_Juul_Nielsen,Kristian Juul Nielsen,Nye Borgerlige,4
+Kerteminde,5,Marslev,D_Martin_Ludvigsen,Martin Ludvigsen,Nye Borgerlige,9
+Kerteminde,5,Marslev,D_Malte_Jäger,Malte Jäger,Nye Borgerlige,17
+Kerteminde,5,Marslev,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,22
+Kerteminde,5,Marslev,F_Jesper_Hempler,Jesper Hempler,SF - Socialistisk Folkeparti,20
+Kerteminde,5,Marslev,F_Alex_Haurand,Alex Haurand,SF - Socialistisk Folkeparti,13
+Kerteminde,5,Marslev,F_Kim_Jørstad,Kim Jørstad,SF - Socialistisk Folkeparti,7
+Kerteminde,5,Marslev,F_Mohamed_Sukar,Mohamed Sukar,SF - Socialistisk Folkeparti,1
+Kerteminde,5,Marslev,F_Lilly_Haunstrup,Lilly Haunstrup,SF - Socialistisk Folkeparti,3
+Kerteminde,5,Marslev,F_Ghariba_T._Ebrahim,Ghariba T. Ebrahim,SF - Socialistisk Folkeparti,0
+Kerteminde,5,Marslev,F_Louise_Villemoes_Pedersen,Louise Villemoes Pedersen,SF - Socialistisk Folkeparti,0
+Kerteminde,5,Marslev,F_Karl_Munkholm,Karl Munkholm,SF - Socialistisk Folkeparti,0
+Kerteminde,5,Marslev,K_Listestemmer,Listestemmer,Kristendemokraterne,4
+Kerteminde,5,Marslev,"K_Margit_Lund-Cramer,_Munkebo","Margit Lund-Cramer, Munkebo",Kristendemokraterne,5
+Kerteminde,5,Marslev,"K_Rise_Eskildsen,_Munkebo","Rise Eskildsen, Munkebo",Kristendemokraterne,2
+Kerteminde,5,Marslev,"K_Chr._Emil_Szilas-Hansen,Hundslev","Chr. Emil Szilas-Hansen,Hundslev",Kristendemokraterne,4
+Kerteminde,5,Marslev,L_Listestemmer,Listestemmer,Frie Lokale,1
+Kerteminde,5,Marslev,"L_Lars_Bo_Jensen,_Kerteminde","Lars Bo Jensen, Kerteminde",Frie Lokale,7
+Kerteminde,5,Marslev,"L_Ole_Svenning,_Revninge","Ole Svenning, Revninge",Frie Lokale,3
+Kerteminde,5,Marslev,O_Listestemmer,Listestemmer,Dansk Folkeparti,22
+Kerteminde,5,Marslev,"O_Terje_Pedersen,_Dalby","Terje Pedersen, Dalby",Dansk Folkeparti,14
+Kerteminde,5,Marslev,"O_Lone_Kiilerich,_Munkebo","Lone Kiilerich, Munkebo",Dansk Folkeparti,0
+Kerteminde,5,Marslev,"O_Randi_Jørgensen,_Birkende","Randi Jørgensen, Birkende",Dansk Folkeparti,24
+Kerteminde,5,Marslev,"O_Trine_Kryger_Jørgensen,_Langeskov","Trine Kryger Jørgensen, Langeskov",Dansk Folkeparti,5
+Kerteminde,5,Marslev,"O_Jan-Erik_Hansen,_Hersnap","Jan-Erik Hansen, Hersnap",Dansk Folkeparti,0
+Kerteminde,5,Marslev,"O_Valdemar_Thygesen,_Martofte","Valdemar Thygesen, Martofte",Dansk Folkeparti,1
+Kerteminde,5,Marslev,"O_Kent_Dybdahl,_Munkebo","Kent Dybdahl, Munkebo",Dansk Folkeparti,2
+Kerteminde,5,Marslev,"O_Bjarne_Friis_Helsinghof,_Måle","Bjarne Friis Helsinghof, Måle",Dansk Folkeparti,0
+Kerteminde,5,Marslev,"O_Uffe_Birkerod_Larsen,_Snave","Uffe Birkerod Larsen, Snave",Dansk Folkeparti,0
+Kerteminde,5,Marslev,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",33
+Kerteminde,5,Marslev,V_Jens_Gantriis,Jens Gantriis,"Venstre, Danmarks Liberale Parti",22
+Kerteminde,5,Marslev,V_Bettina_Eriksen,Bettina Eriksen,"Venstre, Danmarks Liberale Parti",8
+Kerteminde,5,Marslev,V_Bo_Sandberg,Bo Sandberg,"Venstre, Danmarks Liberale Parti",2
+Kerteminde,5,Marslev,V_Henrik_Hadberg,Henrik Hadberg,"Venstre, Danmarks Liberale Parti",2
+Kerteminde,5,Marslev,V_Ken_Jespersen,Ken Jespersen,"Venstre, Danmarks Liberale Parti",7
+Kerteminde,5,Marslev,V_Harris_Sander_Brandt,Harris Sander Brandt,"Venstre, Danmarks Liberale Parti",0
+Kerteminde,5,Marslev,V_Jenet_Helvig,Jenet Helvig,"Venstre, Danmarks Liberale Parti",2
+Kerteminde,5,Marslev,V_Anita_Ebbesen,Anita Ebbesen,"Venstre, Danmarks Liberale Parti",2
+Kerteminde,5,Marslev,V_Jørgen_Larsen,Jørgen Larsen,"Venstre, Danmarks Liberale Parti",0
+Kerteminde,5,Marslev,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,13
+Kerteminde,5,Marslev,Ø_Heino_Salling,Heino Salling,Enhedslisten - De Rød-Grønne,3
+Kerteminde,5,Marslev,Ø_Jørgen_Andkær_Jensen,Jørgen Andkær Jensen,Enhedslisten - De Rød-Grønne,4
+Kerteminde,5,Marslev,Ø_Georgette_Al-Araj,Georgette Al-Araj,Enhedslisten - De Rød-Grønne,2
+Kerteminde,5,Marslev,Ø_Jesper_Andersen,Jesper Andersen,Enhedslisten - De Rød-Grønne,1
+Kerteminde,5,Marslev,Ø_Hans_Jakob_Kirk,Hans Jakob Kirk,Enhedslisten - De Rød-Grønne,0
+Kerteminde,5,Marslev,Ø_Rita_Mikkelsen,Rita Mikkelsen,Enhedslisten - De Rød-Grønne,0
+Kerteminde,5,Marslev,Ø_Asger_Bondo,Asger Bondo,Enhedslisten - De Rød-Grønne,1
+Kerteminde,5,Marslev,Ø_Basem_Al_Sayed,Basem Al Sayed,Enhedslisten - De Rød-Grønne,0
+Kerteminde,5,Marslev,Ø_Jesper_Østergaard,Jesper Østergaard,Enhedslisten - De Rød-Grønne,2
+Kerteminde,6,Langeskov,A_Listestemmer,Listestemmer,Socialdemokratiet,153
+Kerteminde,6,Langeskov,"A_Kasper_Ejsing_Olesen,_Langeskov","Kasper Ejsing Olesen, Langeskov",Socialdemokratiet,587
+Kerteminde,6,Langeskov,"A_Malene_Hansen,_Kerteminde","Malene Hansen, Kerteminde",Socialdemokratiet,31
+Kerteminde,6,Langeskov,"A_Karen_Dalsgaard_Ibsen,_Munkebo","Karen Dalsgaard Ibsen, Munkebo",Socialdemokratiet,13
+Kerteminde,6,Langeskov,"A_Britt_Pedersen,_Martofte","Britt Pedersen, Martofte",Socialdemokratiet,8
+Kerteminde,6,Langeskov,"A_Jan_Johansen,_Munkebo","Jan Johansen, Munkebo",Socialdemokratiet,75
+Kerteminde,6,Langeskov,"A_Jens-Arne_Hansen,_Mesinge","Jens-Arne Hansen, Mesinge",Socialdemokratiet,11
+Kerteminde,6,Langeskov,"A_Michael_Gammelgaard,_Rynkeby","Michael Gammelgaard, Rynkeby",Socialdemokratiet,6
+Kerteminde,6,Langeskov,"A_Kristian_Hald,_Marslev","Kristian Hald, Marslev",Socialdemokratiet,30
+Kerteminde,6,Langeskov,"A_Puiu_Iulian_Mãcincã,_Nonnebo","Puiu Iulian Mãcincã, Nonnebo",Socialdemokratiet,2
+Kerteminde,6,Langeskov,"A_Kim_Nielsen,_Munkebo","Kim Nielsen, Munkebo",Socialdemokratiet,2
+Kerteminde,6,Langeskov,"A_Sebastian_Nielsen,_Munkebo","Sebastian Nielsen, Munkebo",Socialdemokratiet,5
+Kerteminde,6,Langeskov,"A_Mogens_Jørgensen,_Rynkeby","Mogens Jørgensen, Rynkeby",Socialdemokratiet,5
+Kerteminde,6,Langeskov,"A_Claus_Maimann,_Kerteminde","Claus Maimann, Kerteminde",Socialdemokratiet,6
+Kerteminde,6,Langeskov,"A_Jan_Hansen,_Munkebo","Jan Hansen, Munkebo",Socialdemokratiet,12
+Kerteminde,6,Langeskov,"A_John_Eriksen,_Munkebo","John Eriksen, Munkebo",Socialdemokratiet,0
+Kerteminde,6,Langeskov,"A_Henrik_Nørgaard_Nielsen,Kerteminde","Henrik Nørgaard Nielsen,Kerteminde",Socialdemokratiet,4
+Kerteminde,6,Langeskov,"A_Lars_Hansborg-Sørensen,_Munkebo","Lars Hansborg-Sørensen, Munkebo",Socialdemokratiet,2
+Kerteminde,6,Langeskov,"A_Glenn_Røndrup_Hansen,_Rynkeby","Glenn Røndrup Hansen, Rynkeby",Socialdemokratiet,3
+Kerteminde,6,Langeskov,"A_Peter_Bromark,_Kerteminde","Peter Bromark, Kerteminde",Socialdemokratiet,3
+Kerteminde,6,Langeskov,B_Listestemmer,Listestemmer,Radikale Venstre,10
+Kerteminde,6,Langeskov,"B_Lena_Bækholm,_Langeskov","Lena Bækholm, Langeskov",Radikale Venstre,29
+Kerteminde,6,Langeskov,"B_Toke_Halskov_Kristensen,_Viby","Toke Halskov Kristensen, Viby",Radikale Venstre,6
+Kerteminde,6,Langeskov,"B_Thinne_Nielsen-Tjørnfelt,Langeskov","Thinne Nielsen-Tjørnfelt,Langeskov",Radikale Venstre,3
+Kerteminde,6,Langeskov,"B_Allan_Damsgaard,_Langeskov","Allan Damsgaard, Langeskov",Radikale Venstre,4
+Kerteminde,6,Langeskov,"B_Kim_Beck_Danielsen,_Kerteminde","Kim Beck Danielsen, Kerteminde",Radikale Venstre,0
+Kerteminde,6,Langeskov,"B_Karin_Meisl,_Kerteminde","Karin Meisl, Kerteminde",Radikale Venstre,1
+Kerteminde,6,Langeskov,"B_Ulrik_Wehner,_Munkebo","Ulrik Wehner, Munkebo",Radikale Venstre,0
+Kerteminde,6,Langeskov,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,127
+Kerteminde,6,Langeskov,C_Klavs_Norup_Lauridsen,Klavs Norup Lauridsen,Det Konservative Folkeparti,387
+Kerteminde,6,Langeskov,C_Jesper_Schmidt-Nielsen,Jesper Schmidt-Nielsen,Det Konservative Folkeparti,9
+Kerteminde,6,Langeskov,C_Henrik_Madsen,Henrik Madsen,Det Konservative Folkeparti,97
+Kerteminde,6,Langeskov,C_Lars_Ole_Valsøe,Lars Ole Valsøe,Det Konservative Folkeparti,5
+Kerteminde,6,Langeskov,C_Michael_Nielsen,Michael Nielsen,Det Konservative Folkeparti,226
+Kerteminde,6,Langeskov,C_Kent_Valsøe,Kent Valsøe,Det Konservative Folkeparti,5
+Kerteminde,6,Langeskov,C_Anne_Fiber,Anne Fiber,Det Konservative Folkeparti,113
+Kerteminde,6,Langeskov,C_Allan_Thomsen,Allan Thomsen,Det Konservative Folkeparti,132
+Kerteminde,6,Langeskov,C_Bibi_Foged_Rasmussen,Bibi Foged Rasmussen,Det Konservative Folkeparti,11
+Kerteminde,6,Langeskov,C_Jesper_Hauritz_Sørensen,Jesper Hauritz Sørensen,Det Konservative Folkeparti,24
+Kerteminde,6,Langeskov,C_William_Qvick-Godthaab,William Qvick-Godthaab,Det Konservative Folkeparti,4
+Kerteminde,6,Langeskov,C_Dorte_Sams,Dorte Sams,Det Konservative Folkeparti,2
+Kerteminde,6,Langeskov,C_Tina_Hansen,Tina Hansen,Det Konservative Folkeparti,0
+Kerteminde,6,Langeskov,C_Oliver_Boll_Larsen,Oliver Boll Larsen,Det Konservative Folkeparti,0
+Kerteminde,6,Langeskov,C_Jan_Nautrup_Nielsen,Jan Nautrup Nielsen,Det Konservative Folkeparti,1
+Kerteminde,6,Langeskov,D_Listestemmer,Listestemmer,Nye Borgerlige,30
+Kerteminde,6,Langeskov,D_Jan_O._Pedersen,Jan O. Pedersen,Nye Borgerlige,15
+Kerteminde,6,Langeskov,D_Kristian_Juul_Nielsen,Kristian Juul Nielsen,Nye Borgerlige,5
+Kerteminde,6,Langeskov,D_Martin_Ludvigsen,Martin Ludvigsen,Nye Borgerlige,20
+Kerteminde,6,Langeskov,D_Malte_Jäger,Malte Jäger,Nye Borgerlige,16
+Kerteminde,6,Langeskov,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,31
+Kerteminde,6,Langeskov,F_Jesper_Hempler,Jesper Hempler,SF - Socialistisk Folkeparti,24
+Kerteminde,6,Langeskov,F_Alex_Haurand,Alex Haurand,SF - Socialistisk Folkeparti,12
+Kerteminde,6,Langeskov,F_Kim_Jørstad,Kim Jørstad,SF - Socialistisk Folkeparti,3
+Kerteminde,6,Langeskov,F_Mohamed_Sukar,Mohamed Sukar,SF - Socialistisk Folkeparti,2
+Kerteminde,6,Langeskov,F_Lilly_Haunstrup,Lilly Haunstrup,SF - Socialistisk Folkeparti,3
+Kerteminde,6,Langeskov,F_Ghariba_T._Ebrahim,Ghariba T. Ebrahim,SF - Socialistisk Folkeparti,2
+Kerteminde,6,Langeskov,F_Louise_Villemoes_Pedersen,Louise Villemoes Pedersen,SF - Socialistisk Folkeparti,3
+Kerteminde,6,Langeskov,F_Karl_Munkholm,Karl Munkholm,SF - Socialistisk Folkeparti,1
+Kerteminde,6,Langeskov,K_Listestemmer,Listestemmer,Kristendemokraterne,4
+Kerteminde,6,Langeskov,"K_Margit_Lund-Cramer,_Munkebo","Margit Lund-Cramer, Munkebo",Kristendemokraterne,7
+Kerteminde,6,Langeskov,"K_Rise_Eskildsen,_Munkebo","Rise Eskildsen, Munkebo",Kristendemokraterne,3
+Kerteminde,6,Langeskov,"K_Chr._Emil_Szilas-Hansen,Hundslev","Chr. Emil Szilas-Hansen,Hundslev",Kristendemokraterne,0
+Kerteminde,6,Langeskov,L_Listestemmer,Listestemmer,Frie Lokale,1
+Kerteminde,6,Langeskov,"L_Lars_Bo_Jensen,_Kerteminde","Lars Bo Jensen, Kerteminde",Frie Lokale,1
+Kerteminde,6,Langeskov,"L_Ole_Svenning,_Revninge","Ole Svenning, Revninge",Frie Lokale,0
+Kerteminde,6,Langeskov,O_Listestemmer,Listestemmer,Dansk Folkeparti,27
+Kerteminde,6,Langeskov,"O_Terje_Pedersen,_Dalby","Terje Pedersen, Dalby",Dansk Folkeparti,12
+Kerteminde,6,Langeskov,"O_Lone_Kiilerich,_Munkebo","Lone Kiilerich, Munkebo",Dansk Folkeparti,8
+Kerteminde,6,Langeskov,"O_Randi_Jørgensen,_Birkende","Randi Jørgensen, Birkende",Dansk Folkeparti,5
+Kerteminde,6,Langeskov,"O_Trine_Kryger_Jørgensen,_Langeskov","Trine Kryger Jørgensen, Langeskov",Dansk Folkeparti,7
+Kerteminde,6,Langeskov,"O_Jan-Erik_Hansen,_Hersnap","Jan-Erik Hansen, Hersnap",Dansk Folkeparti,2
+Kerteminde,6,Langeskov,"O_Valdemar_Thygesen,_Martofte","Valdemar Thygesen, Martofte",Dansk Folkeparti,0
+Kerteminde,6,Langeskov,"O_Kent_Dybdahl,_Munkebo","Kent Dybdahl, Munkebo",Dansk Folkeparti,2
+Kerteminde,6,Langeskov,"O_Bjarne_Friis_Helsinghof,_Måle","Bjarne Friis Helsinghof, Måle",Dansk Folkeparti,1
+Kerteminde,6,Langeskov,"O_Uffe_Birkerod_Larsen,_Snave","Uffe Birkerod Larsen, Snave",Dansk Folkeparti,0
+Kerteminde,6,Langeskov,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",46
+Kerteminde,6,Langeskov,V_Jens_Gantriis,Jens Gantriis,"Venstre, Danmarks Liberale Parti",54
+Kerteminde,6,Langeskov,V_Bettina_Eriksen,Bettina Eriksen,"Venstre, Danmarks Liberale Parti",7
+Kerteminde,6,Langeskov,V_Bo_Sandberg,Bo Sandberg,"Venstre, Danmarks Liberale Parti",7
+Kerteminde,6,Langeskov,V_Henrik_Hadberg,Henrik Hadberg,"Venstre, Danmarks Liberale Parti",4
+Kerteminde,6,Langeskov,V_Ken_Jespersen,Ken Jespersen,"Venstre, Danmarks Liberale Parti",18
+Kerteminde,6,Langeskov,V_Harris_Sander_Brandt,Harris Sander Brandt,"Venstre, Danmarks Liberale Parti",2
+Kerteminde,6,Langeskov,V_Jenet_Helvig,Jenet Helvig,"Venstre, Danmarks Liberale Parti",2
+Kerteminde,6,Langeskov,V_Anita_Ebbesen,Anita Ebbesen,"Venstre, Danmarks Liberale Parti",1
+Kerteminde,6,Langeskov,V_Jørgen_Larsen,Jørgen Larsen,"Venstre, Danmarks Liberale Parti",0
+Kerteminde,6,Langeskov,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,28
+Kerteminde,6,Langeskov,Ø_Heino_Salling,Heino Salling,Enhedslisten - De Rød-Grønne,9
+Kerteminde,6,Langeskov,Ø_Jørgen_Andkær_Jensen,Jørgen Andkær Jensen,Enhedslisten - De Rød-Grønne,1
+Kerteminde,6,Langeskov,Ø_Georgette_Al-Araj,Georgette Al-Araj,Enhedslisten - De Rød-Grønne,7
+Kerteminde,6,Langeskov,Ø_Jesper_Andersen,Jesper Andersen,Enhedslisten - De Rød-Grønne,0
+Kerteminde,6,Langeskov,Ø_Hans_Jakob_Kirk,Hans Jakob Kirk,Enhedslisten - De Rød-Grønne,2
+Kerteminde,6,Langeskov,Ø_Rita_Mikkelsen,Rita Mikkelsen,Enhedslisten - De Rød-Grønne,0
+Kerteminde,6,Langeskov,Ø_Asger_Bondo,Asger Bondo,Enhedslisten - De Rød-Grønne,0
+Kerteminde,6,Langeskov,Ø_Basem_Al_Sayed,Basem Al Sayed,Enhedslisten - De Rød-Grønne,0
+Kerteminde,6,Langeskov,Ø_Jesper_Østergaard,Jesper Østergaard,Enhedslisten - De Rød-Grønne,0
+Kerteminde,7,Munkebo,A_Listestemmer,Listestemmer,Socialdemokratiet,231
+Kerteminde,7,Munkebo,"A_Kasper_Ejsing_Olesen,_Langeskov","Kasper Ejsing Olesen, Langeskov",Socialdemokratiet,195
+Kerteminde,7,Munkebo,"A_Malene_Hansen,_Kerteminde","Malene Hansen, Kerteminde",Socialdemokratiet,43
+Kerteminde,7,Munkebo,"A_Karen_Dalsgaard_Ibsen,_Munkebo","Karen Dalsgaard Ibsen, Munkebo",Socialdemokratiet,173
+Kerteminde,7,Munkebo,"A_Britt_Pedersen,_Martofte","Britt Pedersen, Martofte",Socialdemokratiet,29
+Kerteminde,7,Munkebo,"A_Jan_Johansen,_Munkebo","Jan Johansen, Munkebo",Socialdemokratiet,407
+Kerteminde,7,Munkebo,"A_Jens-Arne_Hansen,_Mesinge","Jens-Arne Hansen, Mesinge",Socialdemokratiet,10
+Kerteminde,7,Munkebo,"A_Michael_Gammelgaard,_Rynkeby","Michael Gammelgaard, Rynkeby",Socialdemokratiet,1
+Kerteminde,7,Munkebo,"A_Kristian_Hald,_Marslev","Kristian Hald, Marslev",Socialdemokratiet,22
+Kerteminde,7,Munkebo,"A_Puiu_Iulian_Mãcincã,_Nonnebo","Puiu Iulian Mãcincã, Nonnebo",Socialdemokratiet,0
+Kerteminde,7,Munkebo,"A_Kim_Nielsen,_Munkebo","Kim Nielsen, Munkebo",Socialdemokratiet,53
+Kerteminde,7,Munkebo,"A_Sebastian_Nielsen,_Munkebo","Sebastian Nielsen, Munkebo",Socialdemokratiet,76
+Kerteminde,7,Munkebo,"A_Mogens_Jørgensen,_Rynkeby","Mogens Jørgensen, Rynkeby",Socialdemokratiet,4
+Kerteminde,7,Munkebo,"A_Claus_Maimann,_Kerteminde","Claus Maimann, Kerteminde",Socialdemokratiet,6
+Kerteminde,7,Munkebo,"A_Jan_Hansen,_Munkebo","Jan Hansen, Munkebo",Socialdemokratiet,87
+Kerteminde,7,Munkebo,"A_John_Eriksen,_Munkebo","John Eriksen, Munkebo",Socialdemokratiet,57
+Kerteminde,7,Munkebo,"A_Henrik_Nørgaard_Nielsen,Kerteminde","Henrik Nørgaard Nielsen,Kerteminde",Socialdemokratiet,3
+Kerteminde,7,Munkebo,"A_Lars_Hansborg-Sørensen,_Munkebo","Lars Hansborg-Sørensen, Munkebo",Socialdemokratiet,71
+Kerteminde,7,Munkebo,"A_Glenn_Røndrup_Hansen,_Rynkeby","Glenn Røndrup Hansen, Rynkeby",Socialdemokratiet,3
+Kerteminde,7,Munkebo,"A_Peter_Bromark,_Kerteminde","Peter Bromark, Kerteminde",Socialdemokratiet,9
+Kerteminde,7,Munkebo,B_Listestemmer,Listestemmer,Radikale Venstre,13
+Kerteminde,7,Munkebo,"B_Lena_Bækholm,_Langeskov","Lena Bækholm, Langeskov",Radikale Venstre,7
+Kerteminde,7,Munkebo,"B_Toke_Halskov_Kristensen,_Viby","Toke Halskov Kristensen, Viby",Radikale Venstre,16
+Kerteminde,7,Munkebo,"B_Thinne_Nielsen-Tjørnfelt,Langeskov","Thinne Nielsen-Tjørnfelt,Langeskov",Radikale Venstre,2
+Kerteminde,7,Munkebo,"B_Allan_Damsgaard,_Langeskov","Allan Damsgaard, Langeskov",Radikale Venstre,2
+Kerteminde,7,Munkebo,"B_Kim_Beck_Danielsen,_Kerteminde","Kim Beck Danielsen, Kerteminde",Radikale Venstre,1
+Kerteminde,7,Munkebo,"B_Karin_Meisl,_Kerteminde","Karin Meisl, Kerteminde",Radikale Venstre,3
+Kerteminde,7,Munkebo,"B_Ulrik_Wehner,_Munkebo","Ulrik Wehner, Munkebo",Radikale Venstre,10
+Kerteminde,7,Munkebo,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,103
+Kerteminde,7,Munkebo,C_Klavs_Norup_Lauridsen,Klavs Norup Lauridsen,Det Konservative Folkeparti,665
+Kerteminde,7,Munkebo,C_Jesper_Schmidt-Nielsen,Jesper Schmidt-Nielsen,Det Konservative Folkeparti,15
+Kerteminde,7,Munkebo,C_Henrik_Madsen,Henrik Madsen,Det Konservative Folkeparti,10
+Kerteminde,7,Munkebo,C_Lars_Ole_Valsøe,Lars Ole Valsøe,Det Konservative Folkeparti,2
+Kerteminde,7,Munkebo,C_Michael_Nielsen,Michael Nielsen,Det Konservative Folkeparti,11
+Kerteminde,7,Munkebo,C_Kent_Valsøe,Kent Valsøe,Det Konservative Folkeparti,19
+Kerteminde,7,Munkebo,C_Anne_Fiber,Anne Fiber,Det Konservative Folkeparti,12
+Kerteminde,7,Munkebo,C_Allan_Thomsen,Allan Thomsen,Det Konservative Folkeparti,3
+Kerteminde,7,Munkebo,C_Bibi_Foged_Rasmussen,Bibi Foged Rasmussen,Det Konservative Folkeparti,21
+Kerteminde,7,Munkebo,C_Jesper_Hauritz_Sørensen,Jesper Hauritz Sørensen,Det Konservative Folkeparti,1
+Kerteminde,7,Munkebo,C_William_Qvick-Godthaab,William Qvick-Godthaab,Det Konservative Folkeparti,8
+Kerteminde,7,Munkebo,C_Dorte_Sams,Dorte Sams,Det Konservative Folkeparti,13
+Kerteminde,7,Munkebo,C_Tina_Hansen,Tina Hansen,Det Konservative Folkeparti,0
+Kerteminde,7,Munkebo,C_Oliver_Boll_Larsen,Oliver Boll Larsen,Det Konservative Folkeparti,1
+Kerteminde,7,Munkebo,C_Jan_Nautrup_Nielsen,Jan Nautrup Nielsen,Det Konservative Folkeparti,2
+Kerteminde,7,Munkebo,D_Listestemmer,Listestemmer,Nye Borgerlige,51
+Kerteminde,7,Munkebo,D_Jan_O._Pedersen,Jan O. Pedersen,Nye Borgerlige,25
+Kerteminde,7,Munkebo,D_Kristian_Juul_Nielsen,Kristian Juul Nielsen,Nye Borgerlige,17
+Kerteminde,7,Munkebo,D_Martin_Ludvigsen,Martin Ludvigsen,Nye Borgerlige,7
+Kerteminde,7,Munkebo,D_Malte_Jäger,Malte Jäger,Nye Borgerlige,30
+Kerteminde,7,Munkebo,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,43
+Kerteminde,7,Munkebo,F_Jesper_Hempler,Jesper Hempler,SF - Socialistisk Folkeparti,64
+Kerteminde,7,Munkebo,F_Alex_Haurand,Alex Haurand,SF - Socialistisk Folkeparti,29
+Kerteminde,7,Munkebo,F_Kim_Jørstad,Kim Jørstad,SF - Socialistisk Folkeparti,12
+Kerteminde,7,Munkebo,F_Mohamed_Sukar,Mohamed Sukar,SF - Socialistisk Folkeparti,5
+Kerteminde,7,Munkebo,F_Lilly_Haunstrup,Lilly Haunstrup,SF - Socialistisk Folkeparti,4
+Kerteminde,7,Munkebo,F_Ghariba_T._Ebrahim,Ghariba T. Ebrahim,SF - Socialistisk Folkeparti,5
+Kerteminde,7,Munkebo,F_Louise_Villemoes_Pedersen,Louise Villemoes Pedersen,SF - Socialistisk Folkeparti,1
+Kerteminde,7,Munkebo,F_Karl_Munkholm,Karl Munkholm,SF - Socialistisk Folkeparti,0
+Kerteminde,7,Munkebo,K_Listestemmer,Listestemmer,Kristendemokraterne,1
+Kerteminde,7,Munkebo,"K_Margit_Lund-Cramer,_Munkebo","Margit Lund-Cramer, Munkebo",Kristendemokraterne,12
+Kerteminde,7,Munkebo,"K_Rise_Eskildsen,_Munkebo","Rise Eskildsen, Munkebo",Kristendemokraterne,12
+Kerteminde,7,Munkebo,"K_Chr._Emil_Szilas-Hansen,Hundslev","Chr. Emil Szilas-Hansen,Hundslev",Kristendemokraterne,5
+Kerteminde,7,Munkebo,L_Listestemmer,Listestemmer,Frie Lokale,2
+Kerteminde,7,Munkebo,"L_Lars_Bo_Jensen,_Kerteminde","Lars Bo Jensen, Kerteminde",Frie Lokale,5
+Kerteminde,7,Munkebo,"L_Ole_Svenning,_Revninge","Ole Svenning, Revninge",Frie Lokale,3
+Kerteminde,7,Munkebo,O_Listestemmer,Listestemmer,Dansk Folkeparti,30
+Kerteminde,7,Munkebo,"O_Terje_Pedersen,_Dalby","Terje Pedersen, Dalby",Dansk Folkeparti,21
+Kerteminde,7,Munkebo,"O_Lone_Kiilerich,_Munkebo","Lone Kiilerich, Munkebo",Dansk Folkeparti,36
+Kerteminde,7,Munkebo,"O_Randi_Jørgensen,_Birkende","Randi Jørgensen, Birkende",Dansk Folkeparti,6
+Kerteminde,7,Munkebo,"O_Trine_Kryger_Jørgensen,_Langeskov","Trine Kryger Jørgensen, Langeskov",Dansk Folkeparti,2
+Kerteminde,7,Munkebo,"O_Jan-Erik_Hansen,_Hersnap","Jan-Erik Hansen, Hersnap",Dansk Folkeparti,1
+Kerteminde,7,Munkebo,"O_Valdemar_Thygesen,_Martofte","Valdemar Thygesen, Martofte",Dansk Folkeparti,0
+Kerteminde,7,Munkebo,"O_Kent_Dybdahl,_Munkebo","Kent Dybdahl, Munkebo",Dansk Folkeparti,15
+Kerteminde,7,Munkebo,"O_Bjarne_Friis_Helsinghof,_Måle","Bjarne Friis Helsinghof, Måle",Dansk Folkeparti,0
+Kerteminde,7,Munkebo,"O_Uffe_Birkerod_Larsen,_Snave","Uffe Birkerod Larsen, Snave",Dansk Folkeparti,0
+Kerteminde,7,Munkebo,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",58
+Kerteminde,7,Munkebo,V_Jens_Gantriis,Jens Gantriis,"Venstre, Danmarks Liberale Parti",26
+Kerteminde,7,Munkebo,V_Bettina_Eriksen,Bettina Eriksen,"Venstre, Danmarks Liberale Parti",16
+Kerteminde,7,Munkebo,V_Bo_Sandberg,Bo Sandberg,"Venstre, Danmarks Liberale Parti",37
+Kerteminde,7,Munkebo,V_Henrik_Hadberg,Henrik Hadberg,"Venstre, Danmarks Liberale Parti",17
+Kerteminde,7,Munkebo,V_Ken_Jespersen,Ken Jespersen,"Venstre, Danmarks Liberale Parti",4
+Kerteminde,7,Munkebo,V_Harris_Sander_Brandt,Harris Sander Brandt,"Venstre, Danmarks Liberale Parti",0
+Kerteminde,7,Munkebo,V_Jenet_Helvig,Jenet Helvig,"Venstre, Danmarks Liberale Parti",9
+Kerteminde,7,Munkebo,V_Anita_Ebbesen,Anita Ebbesen,"Venstre, Danmarks Liberale Parti",12
+Kerteminde,7,Munkebo,V_Jørgen_Larsen,Jørgen Larsen,"Venstre, Danmarks Liberale Parti",4
+Kerteminde,7,Munkebo,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,63
+Kerteminde,7,Munkebo,Ø_Heino_Salling,Heino Salling,Enhedslisten - De Rød-Grønne,24
+Kerteminde,7,Munkebo,Ø_Jørgen_Andkær_Jensen,Jørgen Andkær Jensen,Enhedslisten - De Rød-Grønne,1
+Kerteminde,7,Munkebo,Ø_Georgette_Al-Araj,Georgette Al-Araj,Enhedslisten - De Rød-Grønne,11
+Kerteminde,7,Munkebo,Ø_Jesper_Andersen,Jesper Andersen,Enhedslisten - De Rød-Grønne,3
+Kerteminde,7,Munkebo,Ø_Hans_Jakob_Kirk,Hans Jakob Kirk,Enhedslisten - De Rød-Grønne,2
+Kerteminde,7,Munkebo,Ø_Rita_Mikkelsen,Rita Mikkelsen,Enhedslisten - De Rød-Grønne,6
+Kerteminde,7,Munkebo,Ø_Asger_Bondo,Asger Bondo,Enhedslisten - De Rød-Grønne,2
+Kerteminde,7,Munkebo,Ø_Basem_Al_Sayed,Basem Al Sayed,Enhedslisten - De Rød-Grønne,12
+Kerteminde,7,Munkebo,Ø_Jesper_Østergaard,Jesper Østergaard,Enhedslisten - De Rød-Grønne,3

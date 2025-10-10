@@ -1,0 +1,1415 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Hillerød,1,Royal Stage,A_Listestemmer,Listestemmer,Socialdemokratiet,333
+Hillerød,1,Royal Stage,A_Kirsten_Jensen,Kirsten Jensen,Socialdemokratiet,543
+Hillerød,1,Royal Stage,A_Thomas_Brücker,Thomas Brücker,Socialdemokratiet,36
+Hillerød,1,Royal Stage,A_Louise_Colding,Louise Colding,Socialdemokratiet,32
+Hillerød,1,Royal Stage,A_Susanne_Due_Kristensen,Susanne Due Kristensen,Socialdemokratiet,42
+Hillerød,1,Royal Stage,A_Jamil_Cheheibar,Jamil Cheheibar,Socialdemokratiet,18
+Hillerød,1,Royal Stage,A_Mie_Lausten,Mie Lausten,Socialdemokratiet,94
+Hillerød,1,Royal Stage,A_Vivi_Wøldike,Vivi Wøldike,Socialdemokratiet,26
+Hillerød,1,Royal Stage,A_Mathilde_Clauson-Kaas,Mathilde Clauson-Kaas,Socialdemokratiet,68
+Hillerød,1,Royal Stage,A_Mustafa_Adham,Mustafa Adham,Socialdemokratiet,9
+Hillerød,1,Royal Stage,A_Niels_Nedergaard,Niels Nedergaard,Socialdemokratiet,12
+Hillerød,1,Royal Stage,A_Jens_Græsted,Jens Græsted,Socialdemokratiet,12
+Hillerød,1,Royal Stage,A_Emil_Colding_Sørensen,Emil Colding Sørensen,Socialdemokratiet,20
+Hillerød,1,Royal Stage,A_Ingo_Hvid,Ingo Hvid,Socialdemokratiet,13
+Hillerød,1,Royal Stage,A_Heidi_Liljedahl,Heidi Liljedahl,Socialdemokratiet,3
+Hillerød,1,Royal Stage,A_Kenneth_Østed,Kenneth Østed,Socialdemokratiet,4
+Hillerød,1,Royal Stage,A_Nanna_Kjær,Nanna Kjær,Socialdemokratiet,27
+Hillerød,1,Royal Stage,A_Peder_Bisgaard,Peder Bisgaard,Socialdemokratiet,35
+Hillerød,1,Royal Stage,B_Listestemmer,Listestemmer,Radikale Venstre,116
+Hillerød,1,Royal Stage,"B_Christina_Thorholm,_Nødebo","Christina Thorholm, Nødebo",Radikale Venstre,93
+Hillerød,1,Royal Stage,"B_Jørgen_Suhr,_Hillerød_Vest","Jørgen Suhr, Hillerød Vest",Radikale Venstre,64
+Hillerød,1,Royal Stage,"B_Charlotte_Kaufmanas,_Hillerød_Øst","Charlotte Kaufmanas, Hillerød Øst",Radikale Venstre,10
+Hillerød,1,Royal Stage,"B_Mette_Grønvaldt,_Hillerød_Øst","Mette Grønvaldt, Hillerød Øst",Radikale Venstre,22
+Hillerød,1,Royal Stage,"B_Anne_Lintrup,_Hillerød_C","Anne Lintrup, Hillerød C",Radikale Venstre,34
+Hillerød,1,Royal Stage,"B_Lasse_K._Rasmussen,_Bendstrup","Lasse K. Rasmussen, Bendstrup",Radikale Venstre,1
+Hillerød,1,Royal Stage,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,328
+Hillerød,1,Royal Stage,C_Peter_Ingemann_Bentsen,Peter Ingemann Bentsen,Det Konservative Folkeparti,90
+Hillerød,1,Royal Stage,C_Nikolaj_Frederiksen,Nikolaj Frederiksen,Det Konservative Folkeparti,55
+Hillerød,1,Royal Stage,C_Stine_Østlund,Stine Østlund,Det Konservative Folkeparti,51
+Hillerød,1,Royal Stage,C_Christoffer_Lorenzen,Christoffer Lorenzen,Det Konservative Folkeparti,199
+Hillerød,1,Royal Stage,C_Kate_Horsbøl,Kate Horsbøl,Det Konservative Folkeparti,46
+Hillerød,1,Royal Stage,C_Jonas_Lyberg_Kofod,Jonas Lyberg Kofod,Det Konservative Folkeparti,28
+Hillerød,1,Royal Stage,C_Lars_Bennetzen,Lars Bennetzen,Det Konservative Folkeparti,8
+Hillerød,1,Royal Stage,C_Jannick_Holm,Jannick Holm,Det Konservative Folkeparti,10
+Hillerød,1,Royal Stage,C_Lars_W._Hansen,Lars W. Hansen,Det Konservative Folkeparti,15
+Hillerød,1,Royal Stage,C_Brian_Nedergaard,Brian Nedergaard,Det Konservative Folkeparti,12
+Hillerød,1,Royal Stage,C_Anders_Theisen,Anders Theisen,Det Konservative Folkeparti,17
+Hillerød,1,Royal Stage,C_Manuel_Vigilius,Manuel Vigilius,Det Konservative Folkeparti,16
+Hillerød,1,Royal Stage,C_Niels_Bang-Ebbestrup,Niels Bang-Ebbestrup,Det Konservative Folkeparti,6
+Hillerød,1,Royal Stage,C_Henrik_Taankvist,Henrik Taankvist,Det Konservative Folkeparti,0
+Hillerød,1,Royal Stage,C_Anni_Nielsen,Anni Nielsen,Det Konservative Folkeparti,0
+Hillerød,1,Royal Stage,C_Poul_Rohlin_Nielsen,Poul Rohlin Nielsen,Det Konservative Folkeparti,2
+Hillerød,1,Royal Stage,D_Listestemmer,Listestemmer,Nye Borgerlige,91
+Hillerød,1,Royal Stage,D_Morten_Bille,Morten Bille,Nye Borgerlige,90
+Hillerød,1,Royal Stage,D_John_S._Falch,John S. Falch,Nye Borgerlige,1
+Hillerød,1,Royal Stage,D_Martin_Vinther,Martin Vinther,Nye Borgerlige,21
+Hillerød,1,Royal Stage,D_Kenn_Hadberg,Kenn Hadberg,Nye Borgerlige,3
+Hillerød,1,Royal Stage,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,191
+Hillerød,1,Royal Stage,F_Lars_Elbrandt,Lars Elbrandt,SF - Socialistisk Folkeparti,117
+Hillerød,1,Royal Stage,F_Janne_Lunding_Olsen,Janne Lunding Olsen,SF - Socialistisk Folkeparti,73
+Hillerød,1,Royal Stage,F_Mads_Munk_Hansen,Mads Munk Hansen,SF - Socialistisk Folkeparti,80
+Hillerød,1,Royal Stage,F_Rasmus_Alexander_Meyer,Rasmus Alexander Meyer,SF - Socialistisk Folkeparti,12
+Hillerød,1,Royal Stage,F_Flemming_Thornæs,Flemming Thornæs,SF - Socialistisk Folkeparti,19
+Hillerød,1,Royal Stage,F_Rikke_Macholm,Rikke Macholm,SF - Socialistisk Folkeparti,40
+Hillerød,1,Royal Stage,F_Michael_Liesk,Michael Liesk,SF - Socialistisk Folkeparti,41
+Hillerød,1,Royal Stage,F_Silje_Brynildsen,Silje Brynildsen,SF - Socialistisk Folkeparti,3
+Hillerød,1,Royal Stage,F_Søren_Lerche,Søren Lerche,SF - Socialistisk Folkeparti,173
+Hillerød,1,Royal Stage,F_Laila_Dall,Laila Dall,SF - Socialistisk Folkeparti,11
+Hillerød,1,Royal Stage,F_Peter_Langer,Peter Langer,SF - Socialistisk Folkeparti,59
+Hillerød,1,Royal Stage,I_Listestemmer,Listestemmer,Liberal Alliance,38
+Hillerød,1,Royal Stage,I_Elisabeth_Stieper_Tofte,Elisabeth Stieper Tofte,Liberal Alliance,54
+Hillerød,1,Royal Stage,I_Ulrik_Ringgaard_Mathorne,Ulrik Ringgaard Mathorne,Liberal Alliance,4
+Hillerød,1,Royal Stage,I_Martin_Plambæk,Martin Plambæk,Liberal Alliance,5
+Hillerød,1,Royal Stage,K_Listestemmer,Listestemmer,Kristendemokraterne,12
+Hillerød,1,Royal Stage,K_Henrik_Forsberg,Henrik Forsberg,Kristendemokraterne,16
+Hillerød,1,Royal Stage,O_Listestemmer,Listestemmer,Dansk Folkeparti,47
+Hillerød,1,Royal Stage,O_Lars_Ole_Skovgaard_Larsen,Lars Ole Skovgaard Larsen,Dansk Folkeparti,47
+Hillerød,1,Royal Stage,O_Jette_Juul,Jette Juul,Dansk Folkeparti,37
+Hillerød,1,Royal Stage,O_Henning_Westermann,Henning Westermann,Dansk Folkeparti,6
+Hillerød,1,Royal Stage,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",224
+Hillerød,1,Royal Stage,"V_Klaus_Markussen,_Hillerød","Klaus Markussen, Hillerød","Venstre, Danmarks Liberale Parti",239
+Hillerød,1,Royal Stage,"V_Dan_Riise,_Skævinge","Dan Riise, Skævinge","Venstre, Danmarks Liberale Parti",55
+Hillerød,1,Royal Stage,"V_Peter_Frederiksen,_Uvelse","Peter Frederiksen, Uvelse","Venstre, Danmarks Liberale Parti",4
+Hillerød,1,Royal Stage,"V_Annette_Rieva,_Alsønderup","Annette Rieva, Alsønderup","Venstre, Danmarks Liberale Parti",42
+Hillerød,1,Royal Stage,"V_Øzgen_Yücel,_Hillerød","Øzgen Yücel, Hillerød","Venstre, Danmarks Liberale Parti",47
+Hillerød,1,Royal Stage,"V_Hanne_Kirkegaard,_Hillerød","Hanne Kirkegaard, Hillerød","Venstre, Danmarks Liberale Parti",38
+Hillerød,1,Royal Stage,"V_Thomas_Elong,_Hillerød","Thomas Elong, Hillerød","Venstre, Danmarks Liberale Parti",134
+Hillerød,1,Royal Stage,"V_Ole_Roed_Jakobsen,_Meløse","Ole Roed Jakobsen, Meløse","Venstre, Danmarks Liberale Parti",8
+Hillerød,1,Royal Stage,"V_Louise_Diamant,_Hillerød","Louise Diamant, Hillerød","Venstre, Danmarks Liberale Parti",4
+Hillerød,1,Royal Stage,"V_Dragan_Popovic,_Hillerød","Dragan Popovic, Hillerød","Venstre, Danmarks Liberale Parti",113
+Hillerød,1,Royal Stage,"V_Pernille_Svarre,_Alsønderup","Pernille Svarre, Alsønderup","Venstre, Danmarks Liberale Parti",37
+Hillerød,1,Royal Stage,"V_Frederik_Bang,_Hillerød","Frederik Bang, Hillerød","Venstre, Danmarks Liberale Parti",11
+Hillerød,1,Royal Stage,"V_Peter_Lennø,_Hillerød","Peter Lennø, Hillerød","Venstre, Danmarks Liberale Parti",4
+Hillerød,1,Royal Stage,"V_Mathias_Skarby,_Nørre_Herlev","Mathias Skarby, Nørre Herlev","Venstre, Danmarks Liberale Parti",4
+Hillerød,1,Royal Stage,"V_Camilla_Kerlauge,_Hillerød","Camilla Kerlauge, Hillerød","Venstre, Danmarks Liberale Parti",14
+Hillerød,1,Royal Stage,"V_Ole_Stark,_Harløse","Ole Stark, Harløse","Venstre, Danmarks Liberale Parti",6
+Hillerød,1,Royal Stage,"V_Thomas_Petersen,_Hillerød","Thomas Petersen, Hillerød","Venstre, Danmarks Liberale Parti",8
+Hillerød,1,Royal Stage,"V_René_Hamberg,_Hillerød","René Hamberg, Hillerød","Venstre, Danmarks Liberale Parti",2
+Hillerød,1,Royal Stage,"V_Jens_Estrup,_Ullerød","Jens Estrup, Ullerød","Venstre, Danmarks Liberale Parti",5
+Hillerød,1,Royal Stage,"V_René_Christensen,_Hillerød","René Christensen, Hillerød","Venstre, Danmarks Liberale Parti",3
+Hillerød,1,Royal Stage,"V_Lorna_Birgitte_Rudd,_Nødebo","Lorna Birgitte Rudd, Nødebo","Venstre, Danmarks Liberale Parti",4
+Hillerød,1,Royal Stage,"V_Sven_Lynge,_St._Lyngby","Sven Lynge, St. Lyngby","Venstre, Danmarks Liberale Parti",0
+Hillerød,1,Royal Stage,"V_Torben_Rønne_Petersen,_Gørløse","Torben Rønne Petersen, Gørløse","Venstre, Danmarks Liberale Parti",0
+Hillerød,1,Royal Stage,Æ_Listestemmer,Listestemmer,Frihedslisten,7
+Hillerød,1,Royal Stage,Æ_Bjarne_Holm,Bjarne Holm,Frihedslisten,9
+Hillerød,1,Royal Stage,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,155
+Hillerød,1,Royal Stage,Ø_Tue_Tortzen,Tue Tortzen,Enhedslisten - De Rød-Grønne,140
+Hillerød,1,Royal Stage,Ø_Sabri_Yilmaz,Sabri Yilmaz,Enhedslisten - De Rød-Grønne,26
+Hillerød,1,Royal Stage,Ø_Anne_Mette_Isabel_Nielsen,Anne Mette Isabel Nielsen,Enhedslisten - De Rød-Grønne,49
+Hillerød,1,Royal Stage,Ø_Hildur_Johnson,Hildur Johnson,Enhedslisten - De Rød-Grønne,37
+Hillerød,1,Royal Stage,Ø_Karl_Erik_Rasmussen,Karl Erik Rasmussen,Enhedslisten - De Rød-Grønne,7
+Hillerød,2,Hillerødsholmsskolen,A_Listestemmer,Listestemmer,Socialdemokratiet,281
+Hillerød,2,Hillerødsholmsskolen,A_Kirsten_Jensen,Kirsten Jensen,Socialdemokratiet,476
+Hillerød,2,Hillerødsholmsskolen,A_Thomas_Brücker,Thomas Brücker,Socialdemokratiet,25
+Hillerød,2,Hillerødsholmsskolen,A_Louise_Colding,Louise Colding,Socialdemokratiet,34
+Hillerød,2,Hillerødsholmsskolen,A_Susanne_Due_Kristensen,Susanne Due Kristensen,Socialdemokratiet,30
+Hillerød,2,Hillerødsholmsskolen,A_Jamil_Cheheibar,Jamil Cheheibar,Socialdemokratiet,17
+Hillerød,2,Hillerødsholmsskolen,A_Mie_Lausten,Mie Lausten,Socialdemokratiet,15
+Hillerød,2,Hillerødsholmsskolen,A_Vivi_Wøldike,Vivi Wøldike,Socialdemokratiet,15
+Hillerød,2,Hillerødsholmsskolen,A_Mathilde_Clauson-Kaas,Mathilde Clauson-Kaas,Socialdemokratiet,39
+Hillerød,2,Hillerødsholmsskolen,A_Mustafa_Adham,Mustafa Adham,Socialdemokratiet,8
+Hillerød,2,Hillerødsholmsskolen,A_Niels_Nedergaard,Niels Nedergaard,Socialdemokratiet,1
+Hillerød,2,Hillerødsholmsskolen,A_Jens_Græsted,Jens Græsted,Socialdemokratiet,5
+Hillerød,2,Hillerødsholmsskolen,A_Emil_Colding_Sørensen,Emil Colding Sørensen,Socialdemokratiet,13
+Hillerød,2,Hillerødsholmsskolen,A_Ingo_Hvid,Ingo Hvid,Socialdemokratiet,32
+Hillerød,2,Hillerødsholmsskolen,A_Heidi_Liljedahl,Heidi Liljedahl,Socialdemokratiet,5
+Hillerød,2,Hillerødsholmsskolen,A_Kenneth_Østed,Kenneth Østed,Socialdemokratiet,0
+Hillerød,2,Hillerødsholmsskolen,A_Nanna_Kjær,Nanna Kjær,Socialdemokratiet,12
+Hillerød,2,Hillerødsholmsskolen,A_Peder_Bisgaard,Peder Bisgaard,Socialdemokratiet,24
+Hillerød,2,Hillerødsholmsskolen,B_Listestemmer,Listestemmer,Radikale Venstre,77
+Hillerød,2,Hillerødsholmsskolen,"B_Christina_Thorholm,_Nødebo","Christina Thorholm, Nødebo",Radikale Venstre,86
+Hillerød,2,Hillerødsholmsskolen,"B_Jørgen_Suhr,_Hillerød_Vest","Jørgen Suhr, Hillerød Vest",Radikale Venstre,71
+Hillerød,2,Hillerødsholmsskolen,"B_Charlotte_Kaufmanas,_Hillerød_Øst","Charlotte Kaufmanas, Hillerød Øst",Radikale Venstre,5
+Hillerød,2,Hillerødsholmsskolen,"B_Mette_Grønvaldt,_Hillerød_Øst","Mette Grønvaldt, Hillerød Øst",Radikale Venstre,17
+Hillerød,2,Hillerødsholmsskolen,"B_Anne_Lintrup,_Hillerød_C","Anne Lintrup, Hillerød C",Radikale Venstre,19
+Hillerød,2,Hillerødsholmsskolen,"B_Lasse_K._Rasmussen,_Bendstrup","Lasse K. Rasmussen, Bendstrup",Radikale Venstre,4
+Hillerød,2,Hillerødsholmsskolen,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,223
+Hillerød,2,Hillerødsholmsskolen,C_Peter_Ingemann_Bentsen,Peter Ingemann Bentsen,Det Konservative Folkeparti,89
+Hillerød,2,Hillerødsholmsskolen,C_Nikolaj_Frederiksen,Nikolaj Frederiksen,Det Konservative Folkeparti,42
+Hillerød,2,Hillerødsholmsskolen,C_Stine_Østlund,Stine Østlund,Det Konservative Folkeparti,21
+Hillerød,2,Hillerødsholmsskolen,C_Christoffer_Lorenzen,Christoffer Lorenzen,Det Konservative Folkeparti,108
+Hillerød,2,Hillerødsholmsskolen,C_Kate_Horsbøl,Kate Horsbøl,Det Konservative Folkeparti,21
+Hillerød,2,Hillerødsholmsskolen,C_Jonas_Lyberg_Kofod,Jonas Lyberg Kofod,Det Konservative Folkeparti,20
+Hillerød,2,Hillerødsholmsskolen,C_Lars_Bennetzen,Lars Bennetzen,Det Konservative Folkeparti,8
+Hillerød,2,Hillerødsholmsskolen,C_Jannick_Holm,Jannick Holm,Det Konservative Folkeparti,5
+Hillerød,2,Hillerødsholmsskolen,C_Lars_W._Hansen,Lars W. Hansen,Det Konservative Folkeparti,10
+Hillerød,2,Hillerødsholmsskolen,C_Brian_Nedergaard,Brian Nedergaard,Det Konservative Folkeparti,11
+Hillerød,2,Hillerødsholmsskolen,C_Anders_Theisen,Anders Theisen,Det Konservative Folkeparti,5
+Hillerød,2,Hillerødsholmsskolen,C_Manuel_Vigilius,Manuel Vigilius,Det Konservative Folkeparti,30
+Hillerød,2,Hillerødsholmsskolen,C_Niels_Bang-Ebbestrup,Niels Bang-Ebbestrup,Det Konservative Folkeparti,5
+Hillerød,2,Hillerødsholmsskolen,C_Henrik_Taankvist,Henrik Taankvist,Det Konservative Folkeparti,1
+Hillerød,2,Hillerødsholmsskolen,C_Anni_Nielsen,Anni Nielsen,Det Konservative Folkeparti,2
+Hillerød,2,Hillerødsholmsskolen,C_Poul_Rohlin_Nielsen,Poul Rohlin Nielsen,Det Konservative Folkeparti,2
+Hillerød,2,Hillerødsholmsskolen,D_Listestemmer,Listestemmer,Nye Borgerlige,65
+Hillerød,2,Hillerødsholmsskolen,D_Morten_Bille,Morten Bille,Nye Borgerlige,85
+Hillerød,2,Hillerødsholmsskolen,D_John_S._Falch,John S. Falch,Nye Borgerlige,2
+Hillerød,2,Hillerødsholmsskolen,D_Martin_Vinther,Martin Vinther,Nye Borgerlige,11
+Hillerød,2,Hillerødsholmsskolen,D_Kenn_Hadberg,Kenn Hadberg,Nye Borgerlige,3
+Hillerød,2,Hillerødsholmsskolen,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,116
+Hillerød,2,Hillerødsholmsskolen,F_Lars_Elbrandt,Lars Elbrandt,SF - Socialistisk Folkeparti,57
+Hillerød,2,Hillerødsholmsskolen,F_Janne_Lunding_Olsen,Janne Lunding Olsen,SF - Socialistisk Folkeparti,34
+Hillerød,2,Hillerødsholmsskolen,F_Mads_Munk_Hansen,Mads Munk Hansen,SF - Socialistisk Folkeparti,54
+Hillerød,2,Hillerødsholmsskolen,F_Rasmus_Alexander_Meyer,Rasmus Alexander Meyer,SF - Socialistisk Folkeparti,13
+Hillerød,2,Hillerødsholmsskolen,F_Flemming_Thornæs,Flemming Thornæs,SF - Socialistisk Folkeparti,9
+Hillerød,2,Hillerødsholmsskolen,F_Rikke_Macholm,Rikke Macholm,SF - Socialistisk Folkeparti,69
+Hillerød,2,Hillerødsholmsskolen,F_Michael_Liesk,Michael Liesk,SF - Socialistisk Folkeparti,21
+Hillerød,2,Hillerødsholmsskolen,F_Silje_Brynildsen,Silje Brynildsen,SF - Socialistisk Folkeparti,4
+Hillerød,2,Hillerødsholmsskolen,F_Søren_Lerche,Søren Lerche,SF - Socialistisk Folkeparti,165
+Hillerød,2,Hillerødsholmsskolen,F_Laila_Dall,Laila Dall,SF - Socialistisk Folkeparti,10
+Hillerød,2,Hillerødsholmsskolen,F_Peter_Langer,Peter Langer,SF - Socialistisk Folkeparti,35
+Hillerød,2,Hillerødsholmsskolen,I_Listestemmer,Listestemmer,Liberal Alliance,25
+Hillerød,2,Hillerødsholmsskolen,I_Elisabeth_Stieper_Tofte,Elisabeth Stieper Tofte,Liberal Alliance,21
+Hillerød,2,Hillerødsholmsskolen,I_Ulrik_Ringgaard_Mathorne,Ulrik Ringgaard Mathorne,Liberal Alliance,2
+Hillerød,2,Hillerødsholmsskolen,I_Martin_Plambæk,Martin Plambæk,Liberal Alliance,4
+Hillerød,2,Hillerødsholmsskolen,K_Listestemmer,Listestemmer,Kristendemokraterne,13
+Hillerød,2,Hillerødsholmsskolen,K_Henrik_Forsberg,Henrik Forsberg,Kristendemokraterne,17
+Hillerød,2,Hillerødsholmsskolen,O_Listestemmer,Listestemmer,Dansk Folkeparti,36
+Hillerød,2,Hillerødsholmsskolen,O_Lars_Ole_Skovgaard_Larsen,Lars Ole Skovgaard Larsen,Dansk Folkeparti,50
+Hillerød,2,Hillerødsholmsskolen,O_Jette_Juul,Jette Juul,Dansk Folkeparti,37
+Hillerød,2,Hillerødsholmsskolen,O_Henning_Westermann,Henning Westermann,Dansk Folkeparti,7
+Hillerød,2,Hillerødsholmsskolen,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",176
+Hillerød,2,Hillerødsholmsskolen,"V_Klaus_Markussen,_Hillerød","Klaus Markussen, Hillerød","Venstre, Danmarks Liberale Parti",171
+Hillerød,2,Hillerødsholmsskolen,"V_Dan_Riise,_Skævinge","Dan Riise, Skævinge","Venstre, Danmarks Liberale Parti",32
+Hillerød,2,Hillerødsholmsskolen,"V_Peter_Frederiksen,_Uvelse","Peter Frederiksen, Uvelse","Venstre, Danmarks Liberale Parti",10
+Hillerød,2,Hillerødsholmsskolen,"V_Annette_Rieva,_Alsønderup","Annette Rieva, Alsønderup","Venstre, Danmarks Liberale Parti",32
+Hillerød,2,Hillerødsholmsskolen,"V_Øzgen_Yücel,_Hillerød","Øzgen Yücel, Hillerød","Venstre, Danmarks Liberale Parti",26
+Hillerød,2,Hillerødsholmsskolen,"V_Hanne_Kirkegaard,_Hillerød","Hanne Kirkegaard, Hillerød","Venstre, Danmarks Liberale Parti",51
+Hillerød,2,Hillerødsholmsskolen,"V_Thomas_Elong,_Hillerød","Thomas Elong, Hillerød","Venstre, Danmarks Liberale Parti",98
+Hillerød,2,Hillerødsholmsskolen,"V_Ole_Roed_Jakobsen,_Meløse","Ole Roed Jakobsen, Meløse","Venstre, Danmarks Liberale Parti",4
+Hillerød,2,Hillerødsholmsskolen,"V_Louise_Diamant,_Hillerød","Louise Diamant, Hillerød","Venstre, Danmarks Liberale Parti",1
+Hillerød,2,Hillerødsholmsskolen,"V_Dragan_Popovic,_Hillerød","Dragan Popovic, Hillerød","Venstre, Danmarks Liberale Parti",93
+Hillerød,2,Hillerødsholmsskolen,"V_Pernille_Svarre,_Alsønderup","Pernille Svarre, Alsønderup","Venstre, Danmarks Liberale Parti",18
+Hillerød,2,Hillerødsholmsskolen,"V_Frederik_Bang,_Hillerød","Frederik Bang, Hillerød","Venstre, Danmarks Liberale Parti",8
+Hillerød,2,Hillerødsholmsskolen,"V_Peter_Lennø,_Hillerød","Peter Lennø, Hillerød","Venstre, Danmarks Liberale Parti",1
+Hillerød,2,Hillerødsholmsskolen,"V_Mathias_Skarby,_Nørre_Herlev","Mathias Skarby, Nørre Herlev","Venstre, Danmarks Liberale Parti",5
+Hillerød,2,Hillerødsholmsskolen,"V_Camilla_Kerlauge,_Hillerød","Camilla Kerlauge, Hillerød","Venstre, Danmarks Liberale Parti",7
+Hillerød,2,Hillerødsholmsskolen,"V_Ole_Stark,_Harløse","Ole Stark, Harløse","Venstre, Danmarks Liberale Parti",8
+Hillerød,2,Hillerødsholmsskolen,"V_Thomas_Petersen,_Hillerød","Thomas Petersen, Hillerød","Venstre, Danmarks Liberale Parti",2
+Hillerød,2,Hillerødsholmsskolen,"V_René_Hamberg,_Hillerød","René Hamberg, Hillerød","Venstre, Danmarks Liberale Parti",1
+Hillerød,2,Hillerødsholmsskolen,"V_Jens_Estrup,_Ullerød","Jens Estrup, Ullerød","Venstre, Danmarks Liberale Parti",13
+Hillerød,2,Hillerødsholmsskolen,"V_René_Christensen,_Hillerød","René Christensen, Hillerød","Venstre, Danmarks Liberale Parti",7
+Hillerød,2,Hillerødsholmsskolen,"V_Lorna_Birgitte_Rudd,_Nødebo","Lorna Birgitte Rudd, Nødebo","Venstre, Danmarks Liberale Parti",0
+Hillerød,2,Hillerødsholmsskolen,"V_Sven_Lynge,_St._Lyngby","Sven Lynge, St. Lyngby","Venstre, Danmarks Liberale Parti",3
+Hillerød,2,Hillerødsholmsskolen,"V_Torben_Rønne_Petersen,_Gørløse","Torben Rønne Petersen, Gørløse","Venstre, Danmarks Liberale Parti",0
+Hillerød,2,Hillerødsholmsskolen,Æ_Listestemmer,Listestemmer,Frihedslisten,5
+Hillerød,2,Hillerødsholmsskolen,Æ_Bjarne_Holm,Bjarne Holm,Frihedslisten,6
+Hillerød,2,Hillerødsholmsskolen,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,77
+Hillerød,2,Hillerødsholmsskolen,Ø_Tue_Tortzen,Tue Tortzen,Enhedslisten - De Rød-Grønne,85
+Hillerød,2,Hillerødsholmsskolen,Ø_Sabri_Yilmaz,Sabri Yilmaz,Enhedslisten - De Rød-Grønne,24
+Hillerød,2,Hillerødsholmsskolen,Ø_Anne_Mette_Isabel_Nielsen,Anne Mette Isabel Nielsen,Enhedslisten - De Rød-Grønne,26
+Hillerød,2,Hillerødsholmsskolen,Ø_Hildur_Johnson,Hildur Johnson,Enhedslisten - De Rød-Grønne,15
+Hillerød,2,Hillerødsholmsskolen,Ø_Karl_Erik_Rasmussen,Karl Erik Rasmussen,Enhedslisten - De Rød-Grønne,6
+Hillerød,3,Brødeskov,A_Listestemmer,Listestemmer,Socialdemokratiet,32
+Hillerød,3,Brødeskov,A_Kirsten_Jensen,Kirsten Jensen,Socialdemokratiet,43
+Hillerød,3,Brødeskov,A_Thomas_Brücker,Thomas Brücker,Socialdemokratiet,1
+Hillerød,3,Brødeskov,A_Louise_Colding,Louise Colding,Socialdemokratiet,0
+Hillerød,3,Brødeskov,A_Susanne_Due_Kristensen,Susanne Due Kristensen,Socialdemokratiet,2
+Hillerød,3,Brødeskov,A_Jamil_Cheheibar,Jamil Cheheibar,Socialdemokratiet,1
+Hillerød,3,Brødeskov,A_Mie_Lausten,Mie Lausten,Socialdemokratiet,5
+Hillerød,3,Brødeskov,A_Vivi_Wøldike,Vivi Wøldike,Socialdemokratiet,1
+Hillerød,3,Brødeskov,A_Mathilde_Clauson-Kaas,Mathilde Clauson-Kaas,Socialdemokratiet,2
+Hillerød,3,Brødeskov,A_Mustafa_Adham,Mustafa Adham,Socialdemokratiet,3
+Hillerød,3,Brødeskov,A_Niels_Nedergaard,Niels Nedergaard,Socialdemokratiet,3
+Hillerød,3,Brødeskov,A_Jens_Græsted,Jens Græsted,Socialdemokratiet,0
+Hillerød,3,Brødeskov,A_Emil_Colding_Sørensen,Emil Colding Sørensen,Socialdemokratiet,0
+Hillerød,3,Brødeskov,A_Ingo_Hvid,Ingo Hvid,Socialdemokratiet,0
+Hillerød,3,Brødeskov,A_Heidi_Liljedahl,Heidi Liljedahl,Socialdemokratiet,0
+Hillerød,3,Brødeskov,A_Kenneth_Østed,Kenneth Østed,Socialdemokratiet,0
+Hillerød,3,Brødeskov,A_Nanna_Kjær,Nanna Kjær,Socialdemokratiet,1
+Hillerød,3,Brødeskov,A_Peder_Bisgaard,Peder Bisgaard,Socialdemokratiet,1
+Hillerød,3,Brødeskov,B_Listestemmer,Listestemmer,Radikale Venstre,9
+Hillerød,3,Brødeskov,"B_Christina_Thorholm,_Nødebo","Christina Thorholm, Nødebo",Radikale Venstre,11
+Hillerød,3,Brødeskov,"B_Jørgen_Suhr,_Hillerød_Vest","Jørgen Suhr, Hillerød Vest",Radikale Venstre,7
+Hillerød,3,Brødeskov,"B_Charlotte_Kaufmanas,_Hillerød_Øst","Charlotte Kaufmanas, Hillerød Øst",Radikale Venstre,1
+Hillerød,3,Brødeskov,"B_Mette_Grønvaldt,_Hillerød_Øst","Mette Grønvaldt, Hillerød Øst",Radikale Venstre,5
+Hillerød,3,Brødeskov,"B_Anne_Lintrup,_Hillerød_C","Anne Lintrup, Hillerød C",Radikale Venstre,0
+Hillerød,3,Brødeskov,"B_Lasse_K._Rasmussen,_Bendstrup","Lasse K. Rasmussen, Bendstrup",Radikale Venstre,0
+Hillerød,3,Brødeskov,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,30
+Hillerød,3,Brødeskov,C_Peter_Ingemann_Bentsen,Peter Ingemann Bentsen,Det Konservative Folkeparti,6
+Hillerød,3,Brødeskov,C_Nikolaj_Frederiksen,Nikolaj Frederiksen,Det Konservative Folkeparti,0
+Hillerød,3,Brødeskov,C_Stine_Østlund,Stine Østlund,Det Konservative Folkeparti,1
+Hillerød,3,Brødeskov,C_Christoffer_Lorenzen,Christoffer Lorenzen,Det Konservative Folkeparti,11
+Hillerød,3,Brødeskov,C_Kate_Horsbøl,Kate Horsbøl,Det Konservative Folkeparti,0
+Hillerød,3,Brødeskov,C_Jonas_Lyberg_Kofod,Jonas Lyberg Kofod,Det Konservative Folkeparti,5
+Hillerød,3,Brødeskov,C_Lars_Bennetzen,Lars Bennetzen,Det Konservative Folkeparti,1
+Hillerød,3,Brødeskov,C_Jannick_Holm,Jannick Holm,Det Konservative Folkeparti,0
+Hillerød,3,Brødeskov,C_Lars_W._Hansen,Lars W. Hansen,Det Konservative Folkeparti,0
+Hillerød,3,Brødeskov,C_Brian_Nedergaard,Brian Nedergaard,Det Konservative Folkeparti,3
+Hillerød,3,Brødeskov,C_Anders_Theisen,Anders Theisen,Det Konservative Folkeparti,4
+Hillerød,3,Brødeskov,C_Manuel_Vigilius,Manuel Vigilius,Det Konservative Folkeparti,0
+Hillerød,3,Brødeskov,C_Niels_Bang-Ebbestrup,Niels Bang-Ebbestrup,Det Konservative Folkeparti,0
+Hillerød,3,Brødeskov,C_Henrik_Taankvist,Henrik Taankvist,Det Konservative Folkeparti,1
+Hillerød,3,Brødeskov,C_Anni_Nielsen,Anni Nielsen,Det Konservative Folkeparti,2
+Hillerød,3,Brødeskov,C_Poul_Rohlin_Nielsen,Poul Rohlin Nielsen,Det Konservative Folkeparti,0
+Hillerød,3,Brødeskov,D_Listestemmer,Listestemmer,Nye Borgerlige,12
+Hillerød,3,Brødeskov,D_Morten_Bille,Morten Bille,Nye Borgerlige,14
+Hillerød,3,Brødeskov,D_John_S._Falch,John S. Falch,Nye Borgerlige,4
+Hillerød,3,Brødeskov,D_Martin_Vinther,Martin Vinther,Nye Borgerlige,7
+Hillerød,3,Brødeskov,D_Kenn_Hadberg,Kenn Hadberg,Nye Borgerlige,0
+Hillerød,3,Brødeskov,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,10
+Hillerød,3,Brødeskov,F_Lars_Elbrandt,Lars Elbrandt,SF - Socialistisk Folkeparti,3
+Hillerød,3,Brødeskov,F_Janne_Lunding_Olsen,Janne Lunding Olsen,SF - Socialistisk Folkeparti,4
+Hillerød,3,Brødeskov,F_Mads_Munk_Hansen,Mads Munk Hansen,SF - Socialistisk Folkeparti,12
+Hillerød,3,Brødeskov,F_Rasmus_Alexander_Meyer,Rasmus Alexander Meyer,SF - Socialistisk Folkeparti,0
+Hillerød,3,Brødeskov,F_Flemming_Thornæs,Flemming Thornæs,SF - Socialistisk Folkeparti,0
+Hillerød,3,Brødeskov,F_Rikke_Macholm,Rikke Macholm,SF - Socialistisk Folkeparti,2
+Hillerød,3,Brødeskov,F_Michael_Liesk,Michael Liesk,SF - Socialistisk Folkeparti,2
+Hillerød,3,Brødeskov,F_Silje_Brynildsen,Silje Brynildsen,SF - Socialistisk Folkeparti,0
+Hillerød,3,Brødeskov,F_Søren_Lerche,Søren Lerche,SF - Socialistisk Folkeparti,9
+Hillerød,3,Brødeskov,F_Laila_Dall,Laila Dall,SF - Socialistisk Folkeparti,3
+Hillerød,3,Brødeskov,F_Peter_Langer,Peter Langer,SF - Socialistisk Folkeparti,5
+Hillerød,3,Brødeskov,I_Listestemmer,Listestemmer,Liberal Alliance,5
+Hillerød,3,Brødeskov,I_Elisabeth_Stieper_Tofte,Elisabeth Stieper Tofte,Liberal Alliance,3
+Hillerød,3,Brødeskov,I_Ulrik_Ringgaard_Mathorne,Ulrik Ringgaard Mathorne,Liberal Alliance,0
+Hillerød,3,Brødeskov,I_Martin_Plambæk,Martin Plambæk,Liberal Alliance,1
+Hillerød,3,Brødeskov,K_Listestemmer,Listestemmer,Kristendemokraterne,0
+Hillerød,3,Brødeskov,K_Henrik_Forsberg,Henrik Forsberg,Kristendemokraterne,1
+Hillerød,3,Brødeskov,O_Listestemmer,Listestemmer,Dansk Folkeparti,8
+Hillerød,3,Brødeskov,O_Lars_Ole_Skovgaard_Larsen,Lars Ole Skovgaard Larsen,Dansk Folkeparti,9
+Hillerød,3,Brødeskov,O_Jette_Juul,Jette Juul,Dansk Folkeparti,4
+Hillerød,3,Brødeskov,O_Henning_Westermann,Henning Westermann,Dansk Folkeparti,1
+Hillerød,3,Brødeskov,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",19
+Hillerød,3,Brødeskov,"V_Klaus_Markussen,_Hillerød","Klaus Markussen, Hillerød","Venstre, Danmarks Liberale Parti",15
+Hillerød,3,Brødeskov,"V_Dan_Riise,_Skævinge","Dan Riise, Skævinge","Venstre, Danmarks Liberale Parti",6
+Hillerød,3,Brødeskov,"V_Peter_Frederiksen,_Uvelse","Peter Frederiksen, Uvelse","Venstre, Danmarks Liberale Parti",10
+Hillerød,3,Brødeskov,"V_Annette_Rieva,_Alsønderup","Annette Rieva, Alsønderup","Venstre, Danmarks Liberale Parti",9
+Hillerød,3,Brødeskov,"V_Øzgen_Yücel,_Hillerød","Øzgen Yücel, Hillerød","Venstre, Danmarks Liberale Parti",2
+Hillerød,3,Brødeskov,"V_Hanne_Kirkegaard,_Hillerød","Hanne Kirkegaard, Hillerød","Venstre, Danmarks Liberale Parti",4
+Hillerød,3,Brødeskov,"V_Thomas_Elong,_Hillerød","Thomas Elong, Hillerød","Venstre, Danmarks Liberale Parti",3
+Hillerød,3,Brødeskov,"V_Ole_Roed_Jakobsen,_Meløse","Ole Roed Jakobsen, Meløse","Venstre, Danmarks Liberale Parti",0
+Hillerød,3,Brødeskov,"V_Louise_Diamant,_Hillerød","Louise Diamant, Hillerød","Venstre, Danmarks Liberale Parti",0
+Hillerød,3,Brødeskov,"V_Dragan_Popovic,_Hillerød","Dragan Popovic, Hillerød","Venstre, Danmarks Liberale Parti",2
+Hillerød,3,Brødeskov,"V_Pernille_Svarre,_Alsønderup","Pernille Svarre, Alsønderup","Venstre, Danmarks Liberale Parti",4
+Hillerød,3,Brødeskov,"V_Frederik_Bang,_Hillerød","Frederik Bang, Hillerød","Venstre, Danmarks Liberale Parti",1
+Hillerød,3,Brødeskov,"V_Peter_Lennø,_Hillerød","Peter Lennø, Hillerød","Venstre, Danmarks Liberale Parti",0
+Hillerød,3,Brødeskov,"V_Mathias_Skarby,_Nørre_Herlev","Mathias Skarby, Nørre Herlev","Venstre, Danmarks Liberale Parti",88
+Hillerød,3,Brødeskov,"V_Camilla_Kerlauge,_Hillerød","Camilla Kerlauge, Hillerød","Venstre, Danmarks Liberale Parti",0
+Hillerød,3,Brødeskov,"V_Ole_Stark,_Harløse","Ole Stark, Harløse","Venstre, Danmarks Liberale Parti",1
+Hillerød,3,Brødeskov,"V_Thomas_Petersen,_Hillerød","Thomas Petersen, Hillerød","Venstre, Danmarks Liberale Parti",0
+Hillerød,3,Brødeskov,"V_René_Hamberg,_Hillerød","René Hamberg, Hillerød","Venstre, Danmarks Liberale Parti",0
+Hillerød,3,Brødeskov,"V_Jens_Estrup,_Ullerød","Jens Estrup, Ullerød","Venstre, Danmarks Liberale Parti",0
+Hillerød,3,Brødeskov,"V_René_Christensen,_Hillerød","René Christensen, Hillerød","Venstre, Danmarks Liberale Parti",0
+Hillerød,3,Brødeskov,"V_Lorna_Birgitte_Rudd,_Nødebo","Lorna Birgitte Rudd, Nødebo","Venstre, Danmarks Liberale Parti",0
+Hillerød,3,Brødeskov,"V_Sven_Lynge,_St._Lyngby","Sven Lynge, St. Lyngby","Venstre, Danmarks Liberale Parti",0
+Hillerød,3,Brødeskov,"V_Torben_Rønne_Petersen,_Gørløse","Torben Rønne Petersen, Gørløse","Venstre, Danmarks Liberale Parti",0
+Hillerød,3,Brødeskov,Æ_Listestemmer,Listestemmer,Frihedslisten,0
+Hillerød,3,Brødeskov,Æ_Bjarne_Holm,Bjarne Holm,Frihedslisten,0
+Hillerød,3,Brødeskov,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,16
+Hillerød,3,Brødeskov,Ø_Tue_Tortzen,Tue Tortzen,Enhedslisten - De Rød-Grønne,10
+Hillerød,3,Brødeskov,Ø_Sabri_Yilmaz,Sabri Yilmaz,Enhedslisten - De Rød-Grønne,1
+Hillerød,3,Brødeskov,Ø_Anne_Mette_Isabel_Nielsen,Anne Mette Isabel Nielsen,Enhedslisten - De Rød-Grønne,3
+Hillerød,3,Brødeskov,Ø_Hildur_Johnson,Hildur Johnson,Enhedslisten - De Rød-Grønne,1
+Hillerød,3,Brødeskov,Ø_Karl_Erik_Rasmussen,Karl Erik Rasmussen,Enhedslisten - De Rød-Grønne,0
+Hillerød,4,Hammersholt,A_Listestemmer,Listestemmer,Socialdemokratiet,59
+Hillerød,4,Hammersholt,A_Kirsten_Jensen,Kirsten Jensen,Socialdemokratiet,93
+Hillerød,4,Hammersholt,A_Thomas_Brücker,Thomas Brücker,Socialdemokratiet,7
+Hillerød,4,Hammersholt,A_Louise_Colding,Louise Colding,Socialdemokratiet,17
+Hillerød,4,Hammersholt,A_Susanne_Due_Kristensen,Susanne Due Kristensen,Socialdemokratiet,10
+Hillerød,4,Hammersholt,A_Jamil_Cheheibar,Jamil Cheheibar,Socialdemokratiet,1
+Hillerød,4,Hammersholt,A_Mie_Lausten,Mie Lausten,Socialdemokratiet,21
+Hillerød,4,Hammersholt,A_Vivi_Wøldike,Vivi Wøldike,Socialdemokratiet,6
+Hillerød,4,Hammersholt,A_Mathilde_Clauson-Kaas,Mathilde Clauson-Kaas,Socialdemokratiet,5
+Hillerød,4,Hammersholt,A_Mustafa_Adham,Mustafa Adham,Socialdemokratiet,1
+Hillerød,4,Hammersholt,A_Niels_Nedergaard,Niels Nedergaard,Socialdemokratiet,30
+Hillerød,4,Hammersholt,A_Jens_Græsted,Jens Græsted,Socialdemokratiet,0
+Hillerød,4,Hammersholt,A_Emil_Colding_Sørensen,Emil Colding Sørensen,Socialdemokratiet,4
+Hillerød,4,Hammersholt,A_Ingo_Hvid,Ingo Hvid,Socialdemokratiet,2
+Hillerød,4,Hammersholt,A_Heidi_Liljedahl,Heidi Liljedahl,Socialdemokratiet,0
+Hillerød,4,Hammersholt,A_Kenneth_Østed,Kenneth Østed,Socialdemokratiet,6
+Hillerød,4,Hammersholt,A_Nanna_Kjær,Nanna Kjær,Socialdemokratiet,5
+Hillerød,4,Hammersholt,A_Peder_Bisgaard,Peder Bisgaard,Socialdemokratiet,1
+Hillerød,4,Hammersholt,B_Listestemmer,Listestemmer,Radikale Venstre,28
+Hillerød,4,Hammersholt,"B_Christina_Thorholm,_Nødebo","Christina Thorholm, Nødebo",Radikale Venstre,26
+Hillerød,4,Hammersholt,"B_Jørgen_Suhr,_Hillerød_Vest","Jørgen Suhr, Hillerød Vest",Radikale Venstre,6
+Hillerød,4,Hammersholt,"B_Charlotte_Kaufmanas,_Hillerød_Øst","Charlotte Kaufmanas, Hillerød Øst",Radikale Venstre,5
+Hillerød,4,Hammersholt,"B_Mette_Grønvaldt,_Hillerød_Øst","Mette Grønvaldt, Hillerød Øst",Radikale Venstre,3
+Hillerød,4,Hammersholt,"B_Anne_Lintrup,_Hillerød_C","Anne Lintrup, Hillerød C",Radikale Venstre,3
+Hillerød,4,Hammersholt,"B_Lasse_K._Rasmussen,_Bendstrup","Lasse K. Rasmussen, Bendstrup",Radikale Venstre,0
+Hillerød,4,Hammersholt,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,51
+Hillerød,4,Hammersholt,C_Peter_Ingemann_Bentsen,Peter Ingemann Bentsen,Det Konservative Folkeparti,10
+Hillerød,4,Hammersholt,C_Nikolaj_Frederiksen,Nikolaj Frederiksen,Det Konservative Folkeparti,13
+Hillerød,4,Hammersholt,C_Stine_Østlund,Stine Østlund,Det Konservative Folkeparti,3
+Hillerød,4,Hammersholt,C_Christoffer_Lorenzen,Christoffer Lorenzen,Det Konservative Folkeparti,13
+Hillerød,4,Hammersholt,C_Kate_Horsbøl,Kate Horsbøl,Det Konservative Folkeparti,3
+Hillerød,4,Hammersholt,C_Jonas_Lyberg_Kofod,Jonas Lyberg Kofod,Det Konservative Folkeparti,3
+Hillerød,4,Hammersholt,C_Lars_Bennetzen,Lars Bennetzen,Det Konservative Folkeparti,0
+Hillerød,4,Hammersholt,C_Jannick_Holm,Jannick Holm,Det Konservative Folkeparti,0
+Hillerød,4,Hammersholt,C_Lars_W._Hansen,Lars W. Hansen,Det Konservative Folkeparti,2
+Hillerød,4,Hammersholt,C_Brian_Nedergaard,Brian Nedergaard,Det Konservative Folkeparti,4
+Hillerød,4,Hammersholt,C_Anders_Theisen,Anders Theisen,Det Konservative Folkeparti,0
+Hillerød,4,Hammersholt,C_Manuel_Vigilius,Manuel Vigilius,Det Konservative Folkeparti,3
+Hillerød,4,Hammersholt,C_Niels_Bang-Ebbestrup,Niels Bang-Ebbestrup,Det Konservative Folkeparti,0
+Hillerød,4,Hammersholt,C_Henrik_Taankvist,Henrik Taankvist,Det Konservative Folkeparti,0
+Hillerød,4,Hammersholt,C_Anni_Nielsen,Anni Nielsen,Det Konservative Folkeparti,0
+Hillerød,4,Hammersholt,C_Poul_Rohlin_Nielsen,Poul Rohlin Nielsen,Det Konservative Folkeparti,0
+Hillerød,4,Hammersholt,D_Listestemmer,Listestemmer,Nye Borgerlige,18
+Hillerød,4,Hammersholt,D_Morten_Bille,Morten Bille,Nye Borgerlige,10
+Hillerød,4,Hammersholt,D_John_S._Falch,John S. Falch,Nye Borgerlige,0
+Hillerød,4,Hammersholt,D_Martin_Vinther,Martin Vinther,Nye Borgerlige,2
+Hillerød,4,Hammersholt,D_Kenn_Hadberg,Kenn Hadberg,Nye Borgerlige,1
+Hillerød,4,Hammersholt,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,45
+Hillerød,4,Hammersholt,F_Lars_Elbrandt,Lars Elbrandt,SF - Socialistisk Folkeparti,24
+Hillerød,4,Hammersholt,F_Janne_Lunding_Olsen,Janne Lunding Olsen,SF - Socialistisk Folkeparti,38
+Hillerød,4,Hammersholt,F_Mads_Munk_Hansen,Mads Munk Hansen,SF - Socialistisk Folkeparti,18
+Hillerød,4,Hammersholt,F_Rasmus_Alexander_Meyer,Rasmus Alexander Meyer,SF - Socialistisk Folkeparti,4
+Hillerød,4,Hammersholt,F_Flemming_Thornæs,Flemming Thornæs,SF - Socialistisk Folkeparti,1
+Hillerød,4,Hammersholt,F_Rikke_Macholm,Rikke Macholm,SF - Socialistisk Folkeparti,16
+Hillerød,4,Hammersholt,F_Michael_Liesk,Michael Liesk,SF - Socialistisk Folkeparti,14
+Hillerød,4,Hammersholt,F_Silje_Brynildsen,Silje Brynildsen,SF - Socialistisk Folkeparti,4
+Hillerød,4,Hammersholt,F_Søren_Lerche,Søren Lerche,SF - Socialistisk Folkeparti,27
+Hillerød,4,Hammersholt,F_Laila_Dall,Laila Dall,SF - Socialistisk Folkeparti,6
+Hillerød,4,Hammersholt,F_Peter_Langer,Peter Langer,SF - Socialistisk Folkeparti,10
+Hillerød,4,Hammersholt,I_Listestemmer,Listestemmer,Liberal Alliance,5
+Hillerød,4,Hammersholt,I_Elisabeth_Stieper_Tofte,Elisabeth Stieper Tofte,Liberal Alliance,6
+Hillerød,4,Hammersholt,I_Ulrik_Ringgaard_Mathorne,Ulrik Ringgaard Mathorne,Liberal Alliance,0
+Hillerød,4,Hammersholt,I_Martin_Plambæk,Martin Plambæk,Liberal Alliance,3
+Hillerød,4,Hammersholt,K_Listestemmer,Listestemmer,Kristendemokraterne,3
+Hillerød,4,Hammersholt,K_Henrik_Forsberg,Henrik Forsberg,Kristendemokraterne,2
+Hillerød,4,Hammersholt,O_Listestemmer,Listestemmer,Dansk Folkeparti,6
+Hillerød,4,Hammersholt,O_Lars_Ole_Skovgaard_Larsen,Lars Ole Skovgaard Larsen,Dansk Folkeparti,5
+Hillerød,4,Hammersholt,O_Jette_Juul,Jette Juul,Dansk Folkeparti,12
+Hillerød,4,Hammersholt,O_Henning_Westermann,Henning Westermann,Dansk Folkeparti,0
+Hillerød,4,Hammersholt,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",40
+Hillerød,4,Hammersholt,"V_Klaus_Markussen,_Hillerød","Klaus Markussen, Hillerød","Venstre, Danmarks Liberale Parti",37
+Hillerød,4,Hammersholt,"V_Dan_Riise,_Skævinge","Dan Riise, Skævinge","Venstre, Danmarks Liberale Parti",8
+Hillerød,4,Hammersholt,"V_Peter_Frederiksen,_Uvelse","Peter Frederiksen, Uvelse","Venstre, Danmarks Liberale Parti",4
+Hillerød,4,Hammersholt,"V_Annette_Rieva,_Alsønderup","Annette Rieva, Alsønderup","Venstre, Danmarks Liberale Parti",6
+Hillerød,4,Hammersholt,"V_Øzgen_Yücel,_Hillerød","Øzgen Yücel, Hillerød","Venstre, Danmarks Liberale Parti",1
+Hillerød,4,Hammersholt,"V_Hanne_Kirkegaard,_Hillerød","Hanne Kirkegaard, Hillerød","Venstre, Danmarks Liberale Parti",4
+Hillerød,4,Hammersholt,"V_Thomas_Elong,_Hillerød","Thomas Elong, Hillerød","Venstre, Danmarks Liberale Parti",9
+Hillerød,4,Hammersholt,"V_Ole_Roed_Jakobsen,_Meløse","Ole Roed Jakobsen, Meløse","Venstre, Danmarks Liberale Parti",0
+Hillerød,4,Hammersholt,"V_Louise_Diamant,_Hillerød","Louise Diamant, Hillerød","Venstre, Danmarks Liberale Parti",0
+Hillerød,4,Hammersholt,"V_Dragan_Popovic,_Hillerød","Dragan Popovic, Hillerød","Venstre, Danmarks Liberale Parti",1
+Hillerød,4,Hammersholt,"V_Pernille_Svarre,_Alsønderup","Pernille Svarre, Alsønderup","Venstre, Danmarks Liberale Parti",5
+Hillerød,4,Hammersholt,"V_Frederik_Bang,_Hillerød","Frederik Bang, Hillerød","Venstre, Danmarks Liberale Parti",0
+Hillerød,4,Hammersholt,"V_Peter_Lennø,_Hillerød","Peter Lennø, Hillerød","Venstre, Danmarks Liberale Parti",0
+Hillerød,4,Hammersholt,"V_Mathias_Skarby,_Nørre_Herlev","Mathias Skarby, Nørre Herlev","Venstre, Danmarks Liberale Parti",40
+Hillerød,4,Hammersholt,"V_Camilla_Kerlauge,_Hillerød","Camilla Kerlauge, Hillerød","Venstre, Danmarks Liberale Parti",1
+Hillerød,4,Hammersholt,"V_Ole_Stark,_Harløse","Ole Stark, Harløse","Venstre, Danmarks Liberale Parti",2
+Hillerød,4,Hammersholt,"V_Thomas_Petersen,_Hillerød","Thomas Petersen, Hillerød","Venstre, Danmarks Liberale Parti",1
+Hillerød,4,Hammersholt,"V_René_Hamberg,_Hillerød","René Hamberg, Hillerød","Venstre, Danmarks Liberale Parti",0
+Hillerød,4,Hammersholt,"V_Jens_Estrup,_Ullerød","Jens Estrup, Ullerød","Venstre, Danmarks Liberale Parti",0
+Hillerød,4,Hammersholt,"V_René_Christensen,_Hillerød","René Christensen, Hillerød","Venstre, Danmarks Liberale Parti",0
+Hillerød,4,Hammersholt,"V_Lorna_Birgitte_Rudd,_Nødebo","Lorna Birgitte Rudd, Nødebo","Venstre, Danmarks Liberale Parti",4
+Hillerød,4,Hammersholt,"V_Sven_Lynge,_St._Lyngby","Sven Lynge, St. Lyngby","Venstre, Danmarks Liberale Parti",0
+Hillerød,4,Hammersholt,"V_Torben_Rønne_Petersen,_Gørløse","Torben Rønne Petersen, Gørløse","Venstre, Danmarks Liberale Parti",0
+Hillerød,4,Hammersholt,Æ_Listestemmer,Listestemmer,Frihedslisten,0
+Hillerød,4,Hammersholt,Æ_Bjarne_Holm,Bjarne Holm,Frihedslisten,1
+Hillerød,4,Hammersholt,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,25
+Hillerød,4,Hammersholt,Ø_Tue_Tortzen,Tue Tortzen,Enhedslisten - De Rød-Grønne,64
+Hillerød,4,Hammersholt,Ø_Sabri_Yilmaz,Sabri Yilmaz,Enhedslisten - De Rød-Grønne,3
+Hillerød,4,Hammersholt,Ø_Anne_Mette_Isabel_Nielsen,Anne Mette Isabel Nielsen,Enhedslisten - De Rød-Grønne,7
+Hillerød,4,Hammersholt,Ø_Hildur_Johnson,Hildur Johnson,Enhedslisten - De Rød-Grønne,11
+Hillerød,4,Hammersholt,Ø_Karl_Erik_Rasmussen,Karl Erik Rasmussen,Enhedslisten - De Rød-Grønne,1
+Hillerød,5,Alsønderup,A_Listestemmer,Listestemmer,Socialdemokratiet,68
+Hillerød,5,Alsønderup,A_Kirsten_Jensen,Kirsten Jensen,Socialdemokratiet,99
+Hillerød,5,Alsønderup,A_Thomas_Brücker,Thomas Brücker,Socialdemokratiet,4
+Hillerød,5,Alsønderup,A_Louise_Colding,Louise Colding,Socialdemokratiet,6
+Hillerød,5,Alsønderup,A_Susanne_Due_Kristensen,Susanne Due Kristensen,Socialdemokratiet,6
+Hillerød,5,Alsønderup,A_Jamil_Cheheibar,Jamil Cheheibar,Socialdemokratiet,3
+Hillerød,5,Alsønderup,A_Mie_Lausten,Mie Lausten,Socialdemokratiet,10
+Hillerød,5,Alsønderup,A_Vivi_Wøldike,Vivi Wøldike,Socialdemokratiet,4
+Hillerød,5,Alsønderup,A_Mathilde_Clauson-Kaas,Mathilde Clauson-Kaas,Socialdemokratiet,9
+Hillerød,5,Alsønderup,A_Mustafa_Adham,Mustafa Adham,Socialdemokratiet,2
+Hillerød,5,Alsønderup,A_Niels_Nedergaard,Niels Nedergaard,Socialdemokratiet,0
+Hillerød,5,Alsønderup,A_Jens_Græsted,Jens Græsted,Socialdemokratiet,2
+Hillerød,5,Alsønderup,A_Emil_Colding_Sørensen,Emil Colding Sørensen,Socialdemokratiet,6
+Hillerød,5,Alsønderup,A_Ingo_Hvid,Ingo Hvid,Socialdemokratiet,2
+Hillerød,5,Alsønderup,A_Heidi_Liljedahl,Heidi Liljedahl,Socialdemokratiet,3
+Hillerød,5,Alsønderup,A_Kenneth_Østed,Kenneth Østed,Socialdemokratiet,1
+Hillerød,5,Alsønderup,A_Nanna_Kjær,Nanna Kjær,Socialdemokratiet,4
+Hillerød,5,Alsønderup,A_Peder_Bisgaard,Peder Bisgaard,Socialdemokratiet,5
+Hillerød,5,Alsønderup,B_Listestemmer,Listestemmer,Radikale Venstre,11
+Hillerød,5,Alsønderup,"B_Christina_Thorholm,_Nødebo","Christina Thorholm, Nødebo",Radikale Venstre,11
+Hillerød,5,Alsønderup,"B_Jørgen_Suhr,_Hillerød_Vest","Jørgen Suhr, Hillerød Vest",Radikale Venstre,14
+Hillerød,5,Alsønderup,"B_Charlotte_Kaufmanas,_Hillerød_Øst","Charlotte Kaufmanas, Hillerød Øst",Radikale Venstre,3
+Hillerød,5,Alsønderup,"B_Mette_Grønvaldt,_Hillerød_Øst","Mette Grønvaldt, Hillerød Øst",Radikale Venstre,6
+Hillerød,5,Alsønderup,"B_Anne_Lintrup,_Hillerød_C","Anne Lintrup, Hillerød C",Radikale Venstre,4
+Hillerød,5,Alsønderup,"B_Lasse_K._Rasmussen,_Bendstrup","Lasse K. Rasmussen, Bendstrup",Radikale Venstre,8
+Hillerød,5,Alsønderup,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,96
+Hillerød,5,Alsønderup,C_Peter_Ingemann_Bentsen,Peter Ingemann Bentsen,Det Konservative Folkeparti,20
+Hillerød,5,Alsønderup,C_Nikolaj_Frederiksen,Nikolaj Frederiksen,Det Konservative Folkeparti,16
+Hillerød,5,Alsønderup,C_Stine_Østlund,Stine Østlund,Det Konservative Folkeparti,6
+Hillerød,5,Alsønderup,C_Christoffer_Lorenzen,Christoffer Lorenzen,Det Konservative Folkeparti,36
+Hillerød,5,Alsønderup,C_Kate_Horsbøl,Kate Horsbøl,Det Konservative Folkeparti,22
+Hillerød,5,Alsønderup,C_Jonas_Lyberg_Kofod,Jonas Lyberg Kofod,Det Konservative Folkeparti,8
+Hillerød,5,Alsønderup,C_Lars_Bennetzen,Lars Bennetzen,Det Konservative Folkeparti,2
+Hillerød,5,Alsønderup,C_Jannick_Holm,Jannick Holm,Det Konservative Folkeparti,3
+Hillerød,5,Alsønderup,C_Lars_W._Hansen,Lars W. Hansen,Det Konservative Folkeparti,2
+Hillerød,5,Alsønderup,C_Brian_Nedergaard,Brian Nedergaard,Det Konservative Folkeparti,15
+Hillerød,5,Alsønderup,C_Anders_Theisen,Anders Theisen,Det Konservative Folkeparti,2
+Hillerød,5,Alsønderup,C_Manuel_Vigilius,Manuel Vigilius,Det Konservative Folkeparti,0
+Hillerød,5,Alsønderup,C_Niels_Bang-Ebbestrup,Niels Bang-Ebbestrup,Det Konservative Folkeparti,2
+Hillerød,5,Alsønderup,C_Henrik_Taankvist,Henrik Taankvist,Det Konservative Folkeparti,0
+Hillerød,5,Alsønderup,C_Anni_Nielsen,Anni Nielsen,Det Konservative Folkeparti,0
+Hillerød,5,Alsønderup,C_Poul_Rohlin_Nielsen,Poul Rohlin Nielsen,Det Konservative Folkeparti,5
+Hillerød,5,Alsønderup,D_Listestemmer,Listestemmer,Nye Borgerlige,50
+Hillerød,5,Alsønderup,D_Morten_Bille,Morten Bille,Nye Borgerlige,36
+Hillerød,5,Alsønderup,D_John_S._Falch,John S. Falch,Nye Borgerlige,0
+Hillerød,5,Alsønderup,D_Martin_Vinther,Martin Vinther,Nye Borgerlige,2
+Hillerød,5,Alsønderup,D_Kenn_Hadberg,Kenn Hadberg,Nye Borgerlige,1
+Hillerød,5,Alsønderup,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,24
+Hillerød,5,Alsønderup,F_Lars_Elbrandt,Lars Elbrandt,SF - Socialistisk Folkeparti,11
+Hillerød,5,Alsønderup,F_Janne_Lunding_Olsen,Janne Lunding Olsen,SF - Socialistisk Folkeparti,6
+Hillerød,5,Alsønderup,F_Mads_Munk_Hansen,Mads Munk Hansen,SF - Socialistisk Folkeparti,17
+Hillerød,5,Alsønderup,F_Rasmus_Alexander_Meyer,Rasmus Alexander Meyer,SF - Socialistisk Folkeparti,4
+Hillerød,5,Alsønderup,F_Flemming_Thornæs,Flemming Thornæs,SF - Socialistisk Folkeparti,2
+Hillerød,5,Alsønderup,F_Rikke_Macholm,Rikke Macholm,SF - Socialistisk Folkeparti,9
+Hillerød,5,Alsønderup,F_Michael_Liesk,Michael Liesk,SF - Socialistisk Folkeparti,3
+Hillerød,5,Alsønderup,F_Silje_Brynildsen,Silje Brynildsen,SF - Socialistisk Folkeparti,2
+Hillerød,5,Alsønderup,F_Søren_Lerche,Søren Lerche,SF - Socialistisk Folkeparti,159
+Hillerød,5,Alsønderup,F_Laila_Dall,Laila Dall,SF - Socialistisk Folkeparti,2
+Hillerød,5,Alsønderup,F_Peter_Langer,Peter Langer,SF - Socialistisk Folkeparti,3
+Hillerød,5,Alsønderup,I_Listestemmer,Listestemmer,Liberal Alliance,10
+Hillerød,5,Alsønderup,I_Elisabeth_Stieper_Tofte,Elisabeth Stieper Tofte,Liberal Alliance,4
+Hillerød,5,Alsønderup,I_Ulrik_Ringgaard_Mathorne,Ulrik Ringgaard Mathorne,Liberal Alliance,0
+Hillerød,5,Alsønderup,I_Martin_Plambæk,Martin Plambæk,Liberal Alliance,0
+Hillerød,5,Alsønderup,K_Listestemmer,Listestemmer,Kristendemokraterne,4
+Hillerød,5,Alsønderup,K_Henrik_Forsberg,Henrik Forsberg,Kristendemokraterne,3
+Hillerød,5,Alsønderup,O_Listestemmer,Listestemmer,Dansk Folkeparti,23
+Hillerød,5,Alsønderup,O_Lars_Ole_Skovgaard_Larsen,Lars Ole Skovgaard Larsen,Dansk Folkeparti,30
+Hillerød,5,Alsønderup,O_Jette_Juul,Jette Juul,Dansk Folkeparti,18
+Hillerød,5,Alsønderup,O_Henning_Westermann,Henning Westermann,Dansk Folkeparti,0
+Hillerød,5,Alsønderup,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",49
+Hillerød,5,Alsønderup,"V_Klaus_Markussen,_Hillerød","Klaus Markussen, Hillerød","Venstre, Danmarks Liberale Parti",99
+Hillerød,5,Alsønderup,"V_Dan_Riise,_Skævinge","Dan Riise, Skævinge","Venstre, Danmarks Liberale Parti",12
+Hillerød,5,Alsønderup,"V_Peter_Frederiksen,_Uvelse","Peter Frederiksen, Uvelse","Venstre, Danmarks Liberale Parti",3
+Hillerød,5,Alsønderup,"V_Annette_Rieva,_Alsønderup","Annette Rieva, Alsønderup","Venstre, Danmarks Liberale Parti",133
+Hillerød,5,Alsønderup,"V_Øzgen_Yücel,_Hillerød","Øzgen Yücel, Hillerød","Venstre, Danmarks Liberale Parti",6
+Hillerød,5,Alsønderup,"V_Hanne_Kirkegaard,_Hillerød","Hanne Kirkegaard, Hillerød","Venstre, Danmarks Liberale Parti",9
+Hillerød,5,Alsønderup,"V_Thomas_Elong,_Hillerød","Thomas Elong, Hillerød","Venstre, Danmarks Liberale Parti",25
+Hillerød,5,Alsønderup,"V_Ole_Roed_Jakobsen,_Meløse","Ole Roed Jakobsen, Meløse","Venstre, Danmarks Liberale Parti",4
+Hillerød,5,Alsønderup,"V_Louise_Diamant,_Hillerød","Louise Diamant, Hillerød","Venstre, Danmarks Liberale Parti",1
+Hillerød,5,Alsønderup,"V_Dragan_Popovic,_Hillerød","Dragan Popovic, Hillerød","Venstre, Danmarks Liberale Parti",6
+Hillerød,5,Alsønderup,"V_Pernille_Svarre,_Alsønderup","Pernille Svarre, Alsønderup","Venstre, Danmarks Liberale Parti",8
+Hillerød,5,Alsønderup,"V_Frederik_Bang,_Hillerød","Frederik Bang, Hillerød","Venstre, Danmarks Liberale Parti",1
+Hillerød,5,Alsønderup,"V_Peter_Lennø,_Hillerød","Peter Lennø, Hillerød","Venstre, Danmarks Liberale Parti",0
+Hillerød,5,Alsønderup,"V_Mathias_Skarby,_Nørre_Herlev","Mathias Skarby, Nørre Herlev","Venstre, Danmarks Liberale Parti",0
+Hillerød,5,Alsønderup,"V_Camilla_Kerlauge,_Hillerød","Camilla Kerlauge, Hillerød","Venstre, Danmarks Liberale Parti",2
+Hillerød,5,Alsønderup,"V_Ole_Stark,_Harløse","Ole Stark, Harløse","Venstre, Danmarks Liberale Parti",6
+Hillerød,5,Alsønderup,"V_Thomas_Petersen,_Hillerød","Thomas Petersen, Hillerød","Venstre, Danmarks Liberale Parti",0
+Hillerød,5,Alsønderup,"V_René_Hamberg,_Hillerød","René Hamberg, Hillerød","Venstre, Danmarks Liberale Parti",0
+Hillerød,5,Alsønderup,"V_Jens_Estrup,_Ullerød","Jens Estrup, Ullerød","Venstre, Danmarks Liberale Parti",2
+Hillerød,5,Alsønderup,"V_René_Christensen,_Hillerød","René Christensen, Hillerød","Venstre, Danmarks Liberale Parti",0
+Hillerød,5,Alsønderup,"V_Lorna_Birgitte_Rudd,_Nødebo","Lorna Birgitte Rudd, Nødebo","Venstre, Danmarks Liberale Parti",3
+Hillerød,5,Alsønderup,"V_Sven_Lynge,_St._Lyngby","Sven Lynge, St. Lyngby","Venstre, Danmarks Liberale Parti",0
+Hillerød,5,Alsønderup,"V_Torben_Rønne_Petersen,_Gørløse","Torben Rønne Petersen, Gørløse","Venstre, Danmarks Liberale Parti",0
+Hillerød,5,Alsønderup,Æ_Listestemmer,Listestemmer,Frihedslisten,2
+Hillerød,5,Alsønderup,Æ_Bjarne_Holm,Bjarne Holm,Frihedslisten,2
+Hillerød,5,Alsønderup,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,13
+Hillerød,5,Alsønderup,Ø_Tue_Tortzen,Tue Tortzen,Enhedslisten - De Rød-Grønne,24
+Hillerød,5,Alsønderup,Ø_Sabri_Yilmaz,Sabri Yilmaz,Enhedslisten - De Rød-Grønne,4
+Hillerød,5,Alsønderup,Ø_Anne_Mette_Isabel_Nielsen,Anne Mette Isabel Nielsen,Enhedslisten - De Rød-Grønne,8
+Hillerød,5,Alsønderup,Ø_Hildur_Johnson,Hildur Johnson,Enhedslisten - De Rød-Grønne,3
+Hillerød,5,Alsønderup,Ø_Karl_Erik_Rasmussen,Karl Erik Rasmussen,Enhedslisten - De Rød-Grønne,1
+Hillerød,6,Ullerød,A_Listestemmer,Listestemmer,Socialdemokratiet,243
+Hillerød,6,Ullerød,A_Kirsten_Jensen,Kirsten Jensen,Socialdemokratiet,321
+Hillerød,6,Ullerød,A_Thomas_Brücker,Thomas Brücker,Socialdemokratiet,50
+Hillerød,6,Ullerød,A_Louise_Colding,Louise Colding,Socialdemokratiet,24
+Hillerød,6,Ullerød,A_Susanne_Due_Kristensen,Susanne Due Kristensen,Socialdemokratiet,25
+Hillerød,6,Ullerød,A_Jamil_Cheheibar,Jamil Cheheibar,Socialdemokratiet,4
+Hillerød,6,Ullerød,A_Mie_Lausten,Mie Lausten,Socialdemokratiet,40
+Hillerød,6,Ullerød,A_Vivi_Wøldike,Vivi Wøldike,Socialdemokratiet,28
+Hillerød,6,Ullerød,A_Mathilde_Clauson-Kaas,Mathilde Clauson-Kaas,Socialdemokratiet,45
+Hillerød,6,Ullerød,A_Mustafa_Adham,Mustafa Adham,Socialdemokratiet,23
+Hillerød,6,Ullerød,A_Niels_Nedergaard,Niels Nedergaard,Socialdemokratiet,1
+Hillerød,6,Ullerød,A_Jens_Græsted,Jens Græsted,Socialdemokratiet,1
+Hillerød,6,Ullerød,A_Emil_Colding_Sørensen,Emil Colding Sørensen,Socialdemokratiet,14
+Hillerød,6,Ullerød,A_Ingo_Hvid,Ingo Hvid,Socialdemokratiet,20
+Hillerød,6,Ullerød,A_Heidi_Liljedahl,Heidi Liljedahl,Socialdemokratiet,4
+Hillerød,6,Ullerød,A_Kenneth_Østed,Kenneth Østed,Socialdemokratiet,5
+Hillerød,6,Ullerød,A_Nanna_Kjær,Nanna Kjær,Socialdemokratiet,6
+Hillerød,6,Ullerød,A_Peder_Bisgaard,Peder Bisgaard,Socialdemokratiet,21
+Hillerød,6,Ullerød,B_Listestemmer,Listestemmer,Radikale Venstre,51
+Hillerød,6,Ullerød,"B_Christina_Thorholm,_Nødebo","Christina Thorholm, Nødebo",Radikale Venstre,54
+Hillerød,6,Ullerød,"B_Jørgen_Suhr,_Hillerød_Vest","Jørgen Suhr, Hillerød Vest",Radikale Venstre,54
+Hillerød,6,Ullerød,"B_Charlotte_Kaufmanas,_Hillerød_Øst","Charlotte Kaufmanas, Hillerød Øst",Radikale Venstre,5
+Hillerød,6,Ullerød,"B_Mette_Grønvaldt,_Hillerød_Øst","Mette Grønvaldt, Hillerød Øst",Radikale Venstre,8
+Hillerød,6,Ullerød,"B_Anne_Lintrup,_Hillerød_C","Anne Lintrup, Hillerød C",Radikale Venstre,9
+Hillerød,6,Ullerød,"B_Lasse_K._Rasmussen,_Bendstrup","Lasse K. Rasmussen, Bendstrup",Radikale Venstre,1
+Hillerød,6,Ullerød,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,215
+Hillerød,6,Ullerød,C_Peter_Ingemann_Bentsen,Peter Ingemann Bentsen,Det Konservative Folkeparti,59
+Hillerød,6,Ullerød,C_Nikolaj_Frederiksen,Nikolaj Frederiksen,Det Konservative Folkeparti,41
+Hillerød,6,Ullerød,C_Stine_Østlund,Stine Østlund,Det Konservative Folkeparti,30
+Hillerød,6,Ullerød,C_Christoffer_Lorenzen,Christoffer Lorenzen,Det Konservative Folkeparti,127
+Hillerød,6,Ullerød,C_Kate_Horsbøl,Kate Horsbøl,Det Konservative Folkeparti,23
+Hillerød,6,Ullerød,C_Jonas_Lyberg_Kofod,Jonas Lyberg Kofod,Det Konservative Folkeparti,23
+Hillerød,6,Ullerød,C_Lars_Bennetzen,Lars Bennetzen,Det Konservative Folkeparti,8
+Hillerød,6,Ullerød,C_Jannick_Holm,Jannick Holm,Det Konservative Folkeparti,1
+Hillerød,6,Ullerød,C_Lars_W._Hansen,Lars W. Hansen,Det Konservative Folkeparti,7
+Hillerød,6,Ullerød,C_Brian_Nedergaard,Brian Nedergaard,Det Konservative Folkeparti,11
+Hillerød,6,Ullerød,C_Anders_Theisen,Anders Theisen,Det Konservative Folkeparti,4
+Hillerød,6,Ullerød,C_Manuel_Vigilius,Manuel Vigilius,Det Konservative Folkeparti,34
+Hillerød,6,Ullerød,C_Niels_Bang-Ebbestrup,Niels Bang-Ebbestrup,Det Konservative Folkeparti,4
+Hillerød,6,Ullerød,C_Henrik_Taankvist,Henrik Taankvist,Det Konservative Folkeparti,0
+Hillerød,6,Ullerød,C_Anni_Nielsen,Anni Nielsen,Det Konservative Folkeparti,3
+Hillerød,6,Ullerød,C_Poul_Rohlin_Nielsen,Poul Rohlin Nielsen,Det Konservative Folkeparti,2
+Hillerød,6,Ullerød,D_Listestemmer,Listestemmer,Nye Borgerlige,52
+Hillerød,6,Ullerød,D_Morten_Bille,Morten Bille,Nye Borgerlige,91
+Hillerød,6,Ullerød,D_John_S._Falch,John S. Falch,Nye Borgerlige,3
+Hillerød,6,Ullerød,D_Martin_Vinther,Martin Vinther,Nye Borgerlige,15
+Hillerød,6,Ullerød,D_Kenn_Hadberg,Kenn Hadberg,Nye Borgerlige,3
+Hillerød,6,Ullerød,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,74
+Hillerød,6,Ullerød,F_Lars_Elbrandt,Lars Elbrandt,SF - Socialistisk Folkeparti,47
+Hillerød,6,Ullerød,F_Janne_Lunding_Olsen,Janne Lunding Olsen,SF - Socialistisk Folkeparti,22
+Hillerød,6,Ullerød,F_Mads_Munk_Hansen,Mads Munk Hansen,SF - Socialistisk Folkeparti,34
+Hillerød,6,Ullerød,F_Rasmus_Alexander_Meyer,Rasmus Alexander Meyer,SF - Socialistisk Folkeparti,6
+Hillerød,6,Ullerød,F_Flemming_Thornæs,Flemming Thornæs,SF - Socialistisk Folkeparti,1
+Hillerød,6,Ullerød,F_Rikke_Macholm,Rikke Macholm,SF - Socialistisk Folkeparti,21
+Hillerød,6,Ullerød,F_Michael_Liesk,Michael Liesk,SF - Socialistisk Folkeparti,14
+Hillerød,6,Ullerød,F_Silje_Brynildsen,Silje Brynildsen,SF - Socialistisk Folkeparti,6
+Hillerød,6,Ullerød,F_Søren_Lerche,Søren Lerche,SF - Socialistisk Folkeparti,182
+Hillerød,6,Ullerød,F_Laila_Dall,Laila Dall,SF - Socialistisk Folkeparti,15
+Hillerød,6,Ullerød,F_Peter_Langer,Peter Langer,SF - Socialistisk Folkeparti,15
+Hillerød,6,Ullerød,I_Listestemmer,Listestemmer,Liberal Alliance,22
+Hillerød,6,Ullerød,I_Elisabeth_Stieper_Tofte,Elisabeth Stieper Tofte,Liberal Alliance,26
+Hillerød,6,Ullerød,I_Ulrik_Ringgaard_Mathorne,Ulrik Ringgaard Mathorne,Liberal Alliance,1
+Hillerød,6,Ullerød,I_Martin_Plambæk,Martin Plambæk,Liberal Alliance,4
+Hillerød,6,Ullerød,K_Listestemmer,Listestemmer,Kristendemokraterne,6
+Hillerød,6,Ullerød,K_Henrik_Forsberg,Henrik Forsberg,Kristendemokraterne,14
+Hillerød,6,Ullerød,O_Listestemmer,Listestemmer,Dansk Folkeparti,39
+Hillerød,6,Ullerød,O_Lars_Ole_Skovgaard_Larsen,Lars Ole Skovgaard Larsen,Dansk Folkeparti,27
+Hillerød,6,Ullerød,O_Jette_Juul,Jette Juul,Dansk Folkeparti,46
+Hillerød,6,Ullerød,O_Henning_Westermann,Henning Westermann,Dansk Folkeparti,1
+Hillerød,6,Ullerød,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",153
+Hillerød,6,Ullerød,"V_Klaus_Markussen,_Hillerød","Klaus Markussen, Hillerød","Venstre, Danmarks Liberale Parti",196
+Hillerød,6,Ullerød,"V_Dan_Riise,_Skævinge","Dan Riise, Skævinge","Venstre, Danmarks Liberale Parti",35
+Hillerød,6,Ullerød,"V_Peter_Frederiksen,_Uvelse","Peter Frederiksen, Uvelse","Venstre, Danmarks Liberale Parti",5
+Hillerød,6,Ullerød,"V_Annette_Rieva,_Alsønderup","Annette Rieva, Alsønderup","Venstre, Danmarks Liberale Parti",56
+Hillerød,6,Ullerød,"V_Øzgen_Yücel,_Hillerød","Øzgen Yücel, Hillerød","Venstre, Danmarks Liberale Parti",52
+Hillerød,6,Ullerød,"V_Hanne_Kirkegaard,_Hillerød","Hanne Kirkegaard, Hillerød","Venstre, Danmarks Liberale Parti",33
+Hillerød,6,Ullerød,"V_Thomas_Elong,_Hillerød","Thomas Elong, Hillerød","Venstre, Danmarks Liberale Parti",74
+Hillerød,6,Ullerød,"V_Ole_Roed_Jakobsen,_Meløse","Ole Roed Jakobsen, Meløse","Venstre, Danmarks Liberale Parti",6
+Hillerød,6,Ullerød,"V_Louise_Diamant,_Hillerød","Louise Diamant, Hillerød","Venstre, Danmarks Liberale Parti",2
+Hillerød,6,Ullerød,"V_Dragan_Popovic,_Hillerød","Dragan Popovic, Hillerød","Venstre, Danmarks Liberale Parti",49
+Hillerød,6,Ullerød,"V_Pernille_Svarre,_Alsønderup","Pernille Svarre, Alsønderup","Venstre, Danmarks Liberale Parti",27
+Hillerød,6,Ullerød,"V_Frederik_Bang,_Hillerød","Frederik Bang, Hillerød","Venstre, Danmarks Liberale Parti",4
+Hillerød,6,Ullerød,"V_Peter_Lennø,_Hillerød","Peter Lennø, Hillerød","Venstre, Danmarks Liberale Parti",0
+Hillerød,6,Ullerød,"V_Mathias_Skarby,_Nørre_Herlev","Mathias Skarby, Nørre Herlev","Venstre, Danmarks Liberale Parti",2
+Hillerød,6,Ullerød,"V_Camilla_Kerlauge,_Hillerød","Camilla Kerlauge, Hillerød","Venstre, Danmarks Liberale Parti",2
+Hillerød,6,Ullerød,"V_Ole_Stark,_Harløse","Ole Stark, Harløse","Venstre, Danmarks Liberale Parti",4
+Hillerød,6,Ullerød,"V_Thomas_Petersen,_Hillerød","Thomas Petersen, Hillerød","Venstre, Danmarks Liberale Parti",0
+Hillerød,6,Ullerød,"V_René_Hamberg,_Hillerød","René Hamberg, Hillerød","Venstre, Danmarks Liberale Parti",1
+Hillerød,6,Ullerød,"V_Jens_Estrup,_Ullerød","Jens Estrup, Ullerød","Venstre, Danmarks Liberale Parti",81
+Hillerød,6,Ullerød,"V_René_Christensen,_Hillerød","René Christensen, Hillerød","Venstre, Danmarks Liberale Parti",0
+Hillerød,6,Ullerød,"V_Lorna_Birgitte_Rudd,_Nødebo","Lorna Birgitte Rudd, Nødebo","Venstre, Danmarks Liberale Parti",0
+Hillerød,6,Ullerød,"V_Sven_Lynge,_St._Lyngby","Sven Lynge, St. Lyngby","Venstre, Danmarks Liberale Parti",7
+Hillerød,6,Ullerød,"V_Torben_Rønne_Petersen,_Gørløse","Torben Rønne Petersen, Gørløse","Venstre, Danmarks Liberale Parti",0
+Hillerød,6,Ullerød,Æ_Listestemmer,Listestemmer,Frihedslisten,5
+Hillerød,6,Ullerød,Æ_Bjarne_Holm,Bjarne Holm,Frihedslisten,6
+Hillerød,6,Ullerød,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,88
+Hillerød,6,Ullerød,Ø_Tue_Tortzen,Tue Tortzen,Enhedslisten - De Rød-Grønne,47
+Hillerød,6,Ullerød,Ø_Sabri_Yilmaz,Sabri Yilmaz,Enhedslisten - De Rød-Grønne,29
+Hillerød,6,Ullerød,Ø_Anne_Mette_Isabel_Nielsen,Anne Mette Isabel Nielsen,Enhedslisten - De Rød-Grønne,21
+Hillerød,6,Ullerød,Ø_Hildur_Johnson,Hildur Johnson,Enhedslisten - De Rød-Grønne,18
+Hillerød,6,Ullerød,Ø_Karl_Erik_Rasmussen,Karl Erik Rasmussen,Enhedslisten - De Rød-Grønne,4
+Hillerød,7,Nødebo,A_Listestemmer,Listestemmer,Socialdemokratiet,65
+Hillerød,7,Nødebo,A_Kirsten_Jensen,Kirsten Jensen,Socialdemokratiet,121
+Hillerød,7,Nødebo,A_Thomas_Brücker,Thomas Brücker,Socialdemokratiet,6
+Hillerød,7,Nødebo,A_Louise_Colding,Louise Colding,Socialdemokratiet,13
+Hillerød,7,Nødebo,A_Susanne_Due_Kristensen,Susanne Due Kristensen,Socialdemokratiet,6
+Hillerød,7,Nødebo,A_Jamil_Cheheibar,Jamil Cheheibar,Socialdemokratiet,3
+Hillerød,7,Nødebo,A_Mie_Lausten,Mie Lausten,Socialdemokratiet,6
+Hillerød,7,Nødebo,A_Vivi_Wøldike,Vivi Wøldike,Socialdemokratiet,2
+Hillerød,7,Nødebo,A_Mathilde_Clauson-Kaas,Mathilde Clauson-Kaas,Socialdemokratiet,4
+Hillerød,7,Nødebo,A_Mustafa_Adham,Mustafa Adham,Socialdemokratiet,2
+Hillerød,7,Nødebo,A_Niels_Nedergaard,Niels Nedergaard,Socialdemokratiet,3
+Hillerød,7,Nødebo,A_Jens_Græsted,Jens Græsted,Socialdemokratiet,3
+Hillerød,7,Nødebo,A_Emil_Colding_Sørensen,Emil Colding Sørensen,Socialdemokratiet,3
+Hillerød,7,Nødebo,A_Ingo_Hvid,Ingo Hvid,Socialdemokratiet,0
+Hillerød,7,Nødebo,A_Heidi_Liljedahl,Heidi Liljedahl,Socialdemokratiet,2
+Hillerød,7,Nødebo,A_Kenneth_Østed,Kenneth Østed,Socialdemokratiet,1
+Hillerød,7,Nødebo,A_Nanna_Kjær,Nanna Kjær,Socialdemokratiet,4
+Hillerød,7,Nødebo,A_Peder_Bisgaard,Peder Bisgaard,Socialdemokratiet,7
+Hillerød,7,Nødebo,B_Listestemmer,Listestemmer,Radikale Venstre,24
+Hillerød,7,Nødebo,"B_Christina_Thorholm,_Nødebo","Christina Thorholm, Nødebo",Radikale Venstre,153
+Hillerød,7,Nødebo,"B_Jørgen_Suhr,_Hillerød_Vest","Jørgen Suhr, Hillerød Vest",Radikale Venstre,14
+Hillerød,7,Nødebo,"B_Charlotte_Kaufmanas,_Hillerød_Øst","Charlotte Kaufmanas, Hillerød Øst",Radikale Venstre,0
+Hillerød,7,Nødebo,"B_Mette_Grønvaldt,_Hillerød_Øst","Mette Grønvaldt, Hillerød Øst",Radikale Venstre,4
+Hillerød,7,Nødebo,"B_Anne_Lintrup,_Hillerød_C","Anne Lintrup, Hillerød C",Radikale Venstre,2
+Hillerød,7,Nødebo,"B_Lasse_K._Rasmussen,_Bendstrup","Lasse K. Rasmussen, Bendstrup",Radikale Venstre,0
+Hillerød,7,Nødebo,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,71
+Hillerød,7,Nødebo,C_Peter_Ingemann_Bentsen,Peter Ingemann Bentsen,Det Konservative Folkeparti,18
+Hillerød,7,Nødebo,C_Nikolaj_Frederiksen,Nikolaj Frederiksen,Det Konservative Folkeparti,16
+Hillerød,7,Nødebo,C_Stine_Østlund,Stine Østlund,Det Konservative Folkeparti,45
+Hillerød,7,Nødebo,C_Christoffer_Lorenzen,Christoffer Lorenzen,Det Konservative Folkeparti,28
+Hillerød,7,Nødebo,C_Kate_Horsbøl,Kate Horsbøl,Det Konservative Folkeparti,3
+Hillerød,7,Nødebo,C_Jonas_Lyberg_Kofod,Jonas Lyberg Kofod,Det Konservative Folkeparti,6
+Hillerød,7,Nødebo,C_Lars_Bennetzen,Lars Bennetzen,Det Konservative Folkeparti,0
+Hillerød,7,Nødebo,C_Jannick_Holm,Jannick Holm,Det Konservative Folkeparti,1
+Hillerød,7,Nødebo,C_Lars_W._Hansen,Lars W. Hansen,Det Konservative Folkeparti,1
+Hillerød,7,Nødebo,C_Brian_Nedergaard,Brian Nedergaard,Det Konservative Folkeparti,5
+Hillerød,7,Nødebo,C_Anders_Theisen,Anders Theisen,Det Konservative Folkeparti,2
+Hillerød,7,Nødebo,C_Manuel_Vigilius,Manuel Vigilius,Det Konservative Folkeparti,3
+Hillerød,7,Nødebo,C_Niels_Bang-Ebbestrup,Niels Bang-Ebbestrup,Det Konservative Folkeparti,1
+Hillerød,7,Nødebo,C_Henrik_Taankvist,Henrik Taankvist,Det Konservative Folkeparti,0
+Hillerød,7,Nødebo,C_Anni_Nielsen,Anni Nielsen,Det Konservative Folkeparti,0
+Hillerød,7,Nødebo,C_Poul_Rohlin_Nielsen,Poul Rohlin Nielsen,Det Konservative Folkeparti,12
+Hillerød,7,Nødebo,D_Listestemmer,Listestemmer,Nye Borgerlige,15
+Hillerød,7,Nødebo,D_Morten_Bille,Morten Bille,Nye Borgerlige,22
+Hillerød,7,Nødebo,D_John_S._Falch,John S. Falch,Nye Borgerlige,1
+Hillerød,7,Nødebo,D_Martin_Vinther,Martin Vinther,Nye Borgerlige,2
+Hillerød,7,Nødebo,D_Kenn_Hadberg,Kenn Hadberg,Nye Borgerlige,3
+Hillerød,7,Nødebo,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,31
+Hillerød,7,Nødebo,F_Lars_Elbrandt,Lars Elbrandt,SF - Socialistisk Folkeparti,10
+Hillerød,7,Nødebo,F_Janne_Lunding_Olsen,Janne Lunding Olsen,SF - Socialistisk Folkeparti,19
+Hillerød,7,Nødebo,F_Mads_Munk_Hansen,Mads Munk Hansen,SF - Socialistisk Folkeparti,11
+Hillerød,7,Nødebo,F_Rasmus_Alexander_Meyer,Rasmus Alexander Meyer,SF - Socialistisk Folkeparti,7
+Hillerød,7,Nødebo,F_Flemming_Thornæs,Flemming Thornæs,SF - Socialistisk Folkeparti,1
+Hillerød,7,Nødebo,F_Rikke_Macholm,Rikke Macholm,SF - Socialistisk Folkeparti,15
+Hillerød,7,Nødebo,F_Michael_Liesk,Michael Liesk,SF - Socialistisk Folkeparti,0
+Hillerød,7,Nødebo,F_Silje_Brynildsen,Silje Brynildsen,SF - Socialistisk Folkeparti,0
+Hillerød,7,Nødebo,F_Søren_Lerche,Søren Lerche,SF - Socialistisk Folkeparti,22
+Hillerød,7,Nødebo,F_Laila_Dall,Laila Dall,SF - Socialistisk Folkeparti,6
+Hillerød,7,Nødebo,F_Peter_Langer,Peter Langer,SF - Socialistisk Folkeparti,4
+Hillerød,7,Nødebo,I_Listestemmer,Listestemmer,Liberal Alliance,6
+Hillerød,7,Nødebo,I_Elisabeth_Stieper_Tofte,Elisabeth Stieper Tofte,Liberal Alliance,14
+Hillerød,7,Nødebo,I_Ulrik_Ringgaard_Mathorne,Ulrik Ringgaard Mathorne,Liberal Alliance,1
+Hillerød,7,Nødebo,I_Martin_Plambæk,Martin Plambæk,Liberal Alliance,0
+Hillerød,7,Nødebo,K_Listestemmer,Listestemmer,Kristendemokraterne,2
+Hillerød,7,Nødebo,K_Henrik_Forsberg,Henrik Forsberg,Kristendemokraterne,8
+Hillerød,7,Nødebo,O_Listestemmer,Listestemmer,Dansk Folkeparti,8
+Hillerød,7,Nødebo,O_Lars_Ole_Skovgaard_Larsen,Lars Ole Skovgaard Larsen,Dansk Folkeparti,5
+Hillerød,7,Nødebo,O_Jette_Juul,Jette Juul,Dansk Folkeparti,9
+Hillerød,7,Nødebo,O_Henning_Westermann,Henning Westermann,Dansk Folkeparti,2
+Hillerød,7,Nødebo,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",58
+Hillerød,7,Nødebo,"V_Klaus_Markussen,_Hillerød","Klaus Markussen, Hillerød","Venstre, Danmarks Liberale Parti",43
+Hillerød,7,Nødebo,"V_Dan_Riise,_Skævinge","Dan Riise, Skævinge","Venstre, Danmarks Liberale Parti",6
+Hillerød,7,Nødebo,"V_Peter_Frederiksen,_Uvelse","Peter Frederiksen, Uvelse","Venstre, Danmarks Liberale Parti",3
+Hillerød,7,Nødebo,"V_Annette_Rieva,_Alsønderup","Annette Rieva, Alsønderup","Venstre, Danmarks Liberale Parti",6
+Hillerød,7,Nødebo,"V_Øzgen_Yücel,_Hillerød","Øzgen Yücel, Hillerød","Venstre, Danmarks Liberale Parti",1
+Hillerød,7,Nødebo,"V_Hanne_Kirkegaard,_Hillerød","Hanne Kirkegaard, Hillerød","Venstre, Danmarks Liberale Parti",8
+Hillerød,7,Nødebo,"V_Thomas_Elong,_Hillerød","Thomas Elong, Hillerød","Venstre, Danmarks Liberale Parti",12
+Hillerød,7,Nødebo,"V_Ole_Roed_Jakobsen,_Meløse","Ole Roed Jakobsen, Meløse","Venstre, Danmarks Liberale Parti",0
+Hillerød,7,Nødebo,"V_Louise_Diamant,_Hillerød","Louise Diamant, Hillerød","Venstre, Danmarks Liberale Parti",0
+Hillerød,7,Nødebo,"V_Dragan_Popovic,_Hillerød","Dragan Popovic, Hillerød","Venstre, Danmarks Liberale Parti",4
+Hillerød,7,Nødebo,"V_Pernille_Svarre,_Alsønderup","Pernille Svarre, Alsønderup","Venstre, Danmarks Liberale Parti",5
+Hillerød,7,Nødebo,"V_Frederik_Bang,_Hillerød","Frederik Bang, Hillerød","Venstre, Danmarks Liberale Parti",0
+Hillerød,7,Nødebo,"V_Peter_Lennø,_Hillerød","Peter Lennø, Hillerød","Venstre, Danmarks Liberale Parti",0
+Hillerød,7,Nødebo,"V_Mathias_Skarby,_Nørre_Herlev","Mathias Skarby, Nørre Herlev","Venstre, Danmarks Liberale Parti",6
+Hillerød,7,Nødebo,"V_Camilla_Kerlauge,_Hillerød","Camilla Kerlauge, Hillerød","Venstre, Danmarks Liberale Parti",2
+Hillerød,7,Nødebo,"V_Ole_Stark,_Harløse","Ole Stark, Harløse","Venstre, Danmarks Liberale Parti",1
+Hillerød,7,Nødebo,"V_Thomas_Petersen,_Hillerød","Thomas Petersen, Hillerød","Venstre, Danmarks Liberale Parti",0
+Hillerød,7,Nødebo,"V_René_Hamberg,_Hillerød","René Hamberg, Hillerød","Venstre, Danmarks Liberale Parti",2
+Hillerød,7,Nødebo,"V_Jens_Estrup,_Ullerød","Jens Estrup, Ullerød","Venstre, Danmarks Liberale Parti",3
+Hillerød,7,Nødebo,"V_René_Christensen,_Hillerød","René Christensen, Hillerød","Venstre, Danmarks Liberale Parti",0
+Hillerød,7,Nødebo,"V_Lorna_Birgitte_Rudd,_Nødebo","Lorna Birgitte Rudd, Nødebo","Venstre, Danmarks Liberale Parti",94
+Hillerød,7,Nødebo,"V_Sven_Lynge,_St._Lyngby","Sven Lynge, St. Lyngby","Venstre, Danmarks Liberale Parti",0
+Hillerød,7,Nødebo,"V_Torben_Rønne_Petersen,_Gørløse","Torben Rønne Petersen, Gørløse","Venstre, Danmarks Liberale Parti",0
+Hillerød,7,Nødebo,Æ_Listestemmer,Listestemmer,Frihedslisten,2
+Hillerød,7,Nødebo,Æ_Bjarne_Holm,Bjarne Holm,Frihedslisten,5
+Hillerød,7,Nødebo,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,22
+Hillerød,7,Nødebo,Ø_Tue_Tortzen,Tue Tortzen,Enhedslisten - De Rød-Grønne,32
+Hillerød,7,Nødebo,Ø_Sabri_Yilmaz,Sabri Yilmaz,Enhedslisten - De Rød-Grønne,4
+Hillerød,7,Nødebo,Ø_Anne_Mette_Isabel_Nielsen,Anne Mette Isabel Nielsen,Enhedslisten - De Rød-Grønne,5
+Hillerød,7,Nødebo,Ø_Hildur_Johnson,Hildur Johnson,Enhedslisten - De Rød-Grønne,2
+Hillerød,7,Nødebo,Ø_Karl_Erik_Rasmussen,Karl Erik Rasmussen,Enhedslisten - De Rød-Grønne,1
+Hillerød,8,Gadevang,A_Listestemmer,Listestemmer,Socialdemokratiet,24
+Hillerød,8,Gadevang,A_Kirsten_Jensen,Kirsten Jensen,Socialdemokratiet,58
+Hillerød,8,Gadevang,A_Thomas_Brücker,Thomas Brücker,Socialdemokratiet,1
+Hillerød,8,Gadevang,A_Louise_Colding,Louise Colding,Socialdemokratiet,7
+Hillerød,8,Gadevang,A_Susanne_Due_Kristensen,Susanne Due Kristensen,Socialdemokratiet,4
+Hillerød,8,Gadevang,A_Jamil_Cheheibar,Jamil Cheheibar,Socialdemokratiet,25
+Hillerød,8,Gadevang,A_Mie_Lausten,Mie Lausten,Socialdemokratiet,5
+Hillerød,8,Gadevang,A_Vivi_Wøldike,Vivi Wøldike,Socialdemokratiet,3
+Hillerød,8,Gadevang,A_Mathilde_Clauson-Kaas,Mathilde Clauson-Kaas,Socialdemokratiet,5
+Hillerød,8,Gadevang,A_Mustafa_Adham,Mustafa Adham,Socialdemokratiet,0
+Hillerød,8,Gadevang,A_Niels_Nedergaard,Niels Nedergaard,Socialdemokratiet,2
+Hillerød,8,Gadevang,A_Jens_Græsted,Jens Græsted,Socialdemokratiet,0
+Hillerød,8,Gadevang,A_Emil_Colding_Sørensen,Emil Colding Sørensen,Socialdemokratiet,3
+Hillerød,8,Gadevang,A_Ingo_Hvid,Ingo Hvid,Socialdemokratiet,3
+Hillerød,8,Gadevang,A_Heidi_Liljedahl,Heidi Liljedahl,Socialdemokratiet,0
+Hillerød,8,Gadevang,A_Kenneth_Østed,Kenneth Østed,Socialdemokratiet,0
+Hillerød,8,Gadevang,A_Nanna_Kjær,Nanna Kjær,Socialdemokratiet,0
+Hillerød,8,Gadevang,A_Peder_Bisgaard,Peder Bisgaard,Socialdemokratiet,2
+Hillerød,8,Gadevang,B_Listestemmer,Listestemmer,Radikale Venstre,22
+Hillerød,8,Gadevang,"B_Christina_Thorholm,_Nødebo","Christina Thorholm, Nødebo",Radikale Venstre,44
+Hillerød,8,Gadevang,"B_Jørgen_Suhr,_Hillerød_Vest","Jørgen Suhr, Hillerød Vest",Radikale Venstre,22
+Hillerød,8,Gadevang,"B_Charlotte_Kaufmanas,_Hillerød_Øst","Charlotte Kaufmanas, Hillerød Øst",Radikale Venstre,2
+Hillerød,8,Gadevang,"B_Mette_Grønvaldt,_Hillerød_Øst","Mette Grønvaldt, Hillerød Øst",Radikale Venstre,3
+Hillerød,8,Gadevang,"B_Anne_Lintrup,_Hillerød_C","Anne Lintrup, Hillerød C",Radikale Venstre,4
+Hillerød,8,Gadevang,"B_Lasse_K._Rasmussen,_Bendstrup","Lasse K. Rasmussen, Bendstrup",Radikale Venstre,0
+Hillerød,8,Gadevang,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,66
+Hillerød,8,Gadevang,C_Peter_Ingemann_Bentsen,Peter Ingemann Bentsen,Det Konservative Folkeparti,15
+Hillerød,8,Gadevang,C_Nikolaj_Frederiksen,Nikolaj Frederiksen,Det Konservative Folkeparti,11
+Hillerød,8,Gadevang,C_Stine_Østlund,Stine Østlund,Det Konservative Folkeparti,10
+Hillerød,8,Gadevang,C_Christoffer_Lorenzen,Christoffer Lorenzen,Det Konservative Folkeparti,27
+Hillerød,8,Gadevang,C_Kate_Horsbøl,Kate Horsbøl,Det Konservative Folkeparti,4
+Hillerød,8,Gadevang,C_Jonas_Lyberg_Kofod,Jonas Lyberg Kofod,Det Konservative Folkeparti,6
+Hillerød,8,Gadevang,C_Lars_Bennetzen,Lars Bennetzen,Det Konservative Folkeparti,0
+Hillerød,8,Gadevang,C_Jannick_Holm,Jannick Holm,Det Konservative Folkeparti,1
+Hillerød,8,Gadevang,C_Lars_W._Hansen,Lars W. Hansen,Det Konservative Folkeparti,0
+Hillerød,8,Gadevang,C_Brian_Nedergaard,Brian Nedergaard,Det Konservative Folkeparti,4
+Hillerød,8,Gadevang,C_Anders_Theisen,Anders Theisen,Det Konservative Folkeparti,2
+Hillerød,8,Gadevang,C_Manuel_Vigilius,Manuel Vigilius,Det Konservative Folkeparti,3
+Hillerød,8,Gadevang,C_Niels_Bang-Ebbestrup,Niels Bang-Ebbestrup,Det Konservative Folkeparti,0
+Hillerød,8,Gadevang,C_Henrik_Taankvist,Henrik Taankvist,Det Konservative Folkeparti,1
+Hillerød,8,Gadevang,C_Anni_Nielsen,Anni Nielsen,Det Konservative Folkeparti,0
+Hillerød,8,Gadevang,C_Poul_Rohlin_Nielsen,Poul Rohlin Nielsen,Det Konservative Folkeparti,1
+Hillerød,8,Gadevang,D_Listestemmer,Listestemmer,Nye Borgerlige,9
+Hillerød,8,Gadevang,D_Morten_Bille,Morten Bille,Nye Borgerlige,14
+Hillerød,8,Gadevang,D_John_S._Falch,John S. Falch,Nye Borgerlige,2
+Hillerød,8,Gadevang,D_Martin_Vinther,Martin Vinther,Nye Borgerlige,3
+Hillerød,8,Gadevang,D_Kenn_Hadberg,Kenn Hadberg,Nye Borgerlige,1
+Hillerød,8,Gadevang,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,26
+Hillerød,8,Gadevang,F_Lars_Elbrandt,Lars Elbrandt,SF - Socialistisk Folkeparti,7
+Hillerød,8,Gadevang,F_Janne_Lunding_Olsen,Janne Lunding Olsen,SF - Socialistisk Folkeparti,6
+Hillerød,8,Gadevang,F_Mads_Munk_Hansen,Mads Munk Hansen,SF - Socialistisk Folkeparti,5
+Hillerød,8,Gadevang,F_Rasmus_Alexander_Meyer,Rasmus Alexander Meyer,SF - Socialistisk Folkeparti,3
+Hillerød,8,Gadevang,F_Flemming_Thornæs,Flemming Thornæs,SF - Socialistisk Folkeparti,15
+Hillerød,8,Gadevang,F_Rikke_Macholm,Rikke Macholm,SF - Socialistisk Folkeparti,16
+Hillerød,8,Gadevang,F_Michael_Liesk,Michael Liesk,SF - Socialistisk Folkeparti,8
+Hillerød,8,Gadevang,F_Silje_Brynildsen,Silje Brynildsen,SF - Socialistisk Folkeparti,1
+Hillerød,8,Gadevang,F_Søren_Lerche,Søren Lerche,SF - Socialistisk Folkeparti,17
+Hillerød,8,Gadevang,F_Laila_Dall,Laila Dall,SF - Socialistisk Folkeparti,1
+Hillerød,8,Gadevang,F_Peter_Langer,Peter Langer,SF - Socialistisk Folkeparti,6
+Hillerød,8,Gadevang,I_Listestemmer,Listestemmer,Liberal Alliance,9
+Hillerød,8,Gadevang,I_Elisabeth_Stieper_Tofte,Elisabeth Stieper Tofte,Liberal Alliance,5
+Hillerød,8,Gadevang,I_Ulrik_Ringgaard_Mathorne,Ulrik Ringgaard Mathorne,Liberal Alliance,0
+Hillerød,8,Gadevang,I_Martin_Plambæk,Martin Plambæk,Liberal Alliance,0
+Hillerød,8,Gadevang,K_Listestemmer,Listestemmer,Kristendemokraterne,3
+Hillerød,8,Gadevang,K_Henrik_Forsberg,Henrik Forsberg,Kristendemokraterne,3
+Hillerød,8,Gadevang,O_Listestemmer,Listestemmer,Dansk Folkeparti,2
+Hillerød,8,Gadevang,O_Lars_Ole_Skovgaard_Larsen,Lars Ole Skovgaard Larsen,Dansk Folkeparti,2
+Hillerød,8,Gadevang,O_Jette_Juul,Jette Juul,Dansk Folkeparti,5
+Hillerød,8,Gadevang,O_Henning_Westermann,Henning Westermann,Dansk Folkeparti,1
+Hillerød,8,Gadevang,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",25
+Hillerød,8,Gadevang,"V_Klaus_Markussen,_Hillerød","Klaus Markussen, Hillerød","Venstre, Danmarks Liberale Parti",25
+Hillerød,8,Gadevang,"V_Dan_Riise,_Skævinge","Dan Riise, Skævinge","Venstre, Danmarks Liberale Parti",4
+Hillerød,8,Gadevang,"V_Peter_Frederiksen,_Uvelse","Peter Frederiksen, Uvelse","Venstre, Danmarks Liberale Parti",1
+Hillerød,8,Gadevang,"V_Annette_Rieva,_Alsønderup","Annette Rieva, Alsønderup","Venstre, Danmarks Liberale Parti",9
+Hillerød,8,Gadevang,"V_Øzgen_Yücel,_Hillerød","Øzgen Yücel, Hillerød","Venstre, Danmarks Liberale Parti",1
+Hillerød,8,Gadevang,"V_Hanne_Kirkegaard,_Hillerød","Hanne Kirkegaard, Hillerød","Venstre, Danmarks Liberale Parti",3
+Hillerød,8,Gadevang,"V_Thomas_Elong,_Hillerød","Thomas Elong, Hillerød","Venstre, Danmarks Liberale Parti",16
+Hillerød,8,Gadevang,"V_Ole_Roed_Jakobsen,_Meløse","Ole Roed Jakobsen, Meløse","Venstre, Danmarks Liberale Parti",1
+Hillerød,8,Gadevang,"V_Louise_Diamant,_Hillerød","Louise Diamant, Hillerød","Venstre, Danmarks Liberale Parti",2
+Hillerød,8,Gadevang,"V_Dragan_Popovic,_Hillerød","Dragan Popovic, Hillerød","Venstre, Danmarks Liberale Parti",3
+Hillerød,8,Gadevang,"V_Pernille_Svarre,_Alsønderup","Pernille Svarre, Alsønderup","Venstre, Danmarks Liberale Parti",3
+Hillerød,8,Gadevang,"V_Frederik_Bang,_Hillerød","Frederik Bang, Hillerød","Venstre, Danmarks Liberale Parti",0
+Hillerød,8,Gadevang,"V_Peter_Lennø,_Hillerød","Peter Lennø, Hillerød","Venstre, Danmarks Liberale Parti",0
+Hillerød,8,Gadevang,"V_Mathias_Skarby,_Nørre_Herlev","Mathias Skarby, Nørre Herlev","Venstre, Danmarks Liberale Parti",0
+Hillerød,8,Gadevang,"V_Camilla_Kerlauge,_Hillerød","Camilla Kerlauge, Hillerød","Venstre, Danmarks Liberale Parti",0
+Hillerød,8,Gadevang,"V_Ole_Stark,_Harløse","Ole Stark, Harløse","Venstre, Danmarks Liberale Parti",1
+Hillerød,8,Gadevang,"V_Thomas_Petersen,_Hillerød","Thomas Petersen, Hillerød","Venstre, Danmarks Liberale Parti",0
+Hillerød,8,Gadevang,"V_René_Hamberg,_Hillerød","René Hamberg, Hillerød","Venstre, Danmarks Liberale Parti",0
+Hillerød,8,Gadevang,"V_Jens_Estrup,_Ullerød","Jens Estrup, Ullerød","Venstre, Danmarks Liberale Parti",4
+Hillerød,8,Gadevang,"V_René_Christensen,_Hillerød","René Christensen, Hillerød","Venstre, Danmarks Liberale Parti",0
+Hillerød,8,Gadevang,"V_Lorna_Birgitte_Rudd,_Nødebo","Lorna Birgitte Rudd, Nødebo","Venstre, Danmarks Liberale Parti",1
+Hillerød,8,Gadevang,"V_Sven_Lynge,_St._Lyngby","Sven Lynge, St. Lyngby","Venstre, Danmarks Liberale Parti",0
+Hillerød,8,Gadevang,"V_Torben_Rønne_Petersen,_Gørløse","Torben Rønne Petersen, Gørløse","Venstre, Danmarks Liberale Parti",0
+Hillerød,8,Gadevang,Æ_Listestemmer,Listestemmer,Frihedslisten,0
+Hillerød,8,Gadevang,Æ_Bjarne_Holm,Bjarne Holm,Frihedslisten,2
+Hillerød,8,Gadevang,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,17
+Hillerød,8,Gadevang,Ø_Tue_Tortzen,Tue Tortzen,Enhedslisten - De Rød-Grønne,23
+Hillerød,8,Gadevang,Ø_Sabri_Yilmaz,Sabri Yilmaz,Enhedslisten - De Rød-Grønne,2
+Hillerød,8,Gadevang,Ø_Anne_Mette_Isabel_Nielsen,Anne Mette Isabel Nielsen,Enhedslisten - De Rød-Grønne,7
+Hillerød,8,Gadevang,Ø_Hildur_Johnson,Hildur Johnson,Enhedslisten - De Rød-Grønne,7
+Hillerød,8,Gadevang,Ø_Karl_Erik_Rasmussen,Karl Erik Rasmussen,Enhedslisten - De Rød-Grønne,3
+Hillerød,9,"Grønnevang Skole, Jespervej",A_Listestemmer,Listestemmer,Socialdemokratiet,176
+Hillerød,9,"Grønnevang Skole, Jespervej",A_Kirsten_Jensen,Kirsten Jensen,Socialdemokratiet,276
+Hillerød,9,"Grønnevang Skole, Jespervej",A_Thomas_Brücker,Thomas Brücker,Socialdemokratiet,19
+Hillerød,9,"Grønnevang Skole, Jespervej",A_Louise_Colding,Louise Colding,Socialdemokratiet,27
+Hillerød,9,"Grønnevang Skole, Jespervej",A_Susanne_Due_Kristensen,Susanne Due Kristensen,Socialdemokratiet,19
+Hillerød,9,"Grønnevang Skole, Jespervej",A_Jamil_Cheheibar,Jamil Cheheibar,Socialdemokratiet,6
+Hillerød,9,"Grønnevang Skole, Jespervej",A_Mie_Lausten,Mie Lausten,Socialdemokratiet,23
+Hillerød,9,"Grønnevang Skole, Jespervej",A_Vivi_Wøldike,Vivi Wøldike,Socialdemokratiet,14
+Hillerød,9,"Grønnevang Skole, Jespervej",A_Mathilde_Clauson-Kaas,Mathilde Clauson-Kaas,Socialdemokratiet,23
+Hillerød,9,"Grønnevang Skole, Jespervej",A_Mustafa_Adham,Mustafa Adham,Socialdemokratiet,1
+Hillerød,9,"Grønnevang Skole, Jespervej",A_Niels_Nedergaard,Niels Nedergaard,Socialdemokratiet,3
+Hillerød,9,"Grønnevang Skole, Jespervej",A_Jens_Græsted,Jens Græsted,Socialdemokratiet,4
+Hillerød,9,"Grønnevang Skole, Jespervej",A_Emil_Colding_Sørensen,Emil Colding Sørensen,Socialdemokratiet,6
+Hillerød,9,"Grønnevang Skole, Jespervej",A_Ingo_Hvid,Ingo Hvid,Socialdemokratiet,8
+Hillerød,9,"Grønnevang Skole, Jespervej",A_Heidi_Liljedahl,Heidi Liljedahl,Socialdemokratiet,1
+Hillerød,9,"Grønnevang Skole, Jespervej",A_Kenneth_Østed,Kenneth Østed,Socialdemokratiet,1
+Hillerød,9,"Grønnevang Skole, Jespervej",A_Nanna_Kjær,Nanna Kjær,Socialdemokratiet,3
+Hillerød,9,"Grønnevang Skole, Jespervej",A_Peder_Bisgaard,Peder Bisgaard,Socialdemokratiet,21
+Hillerød,9,"Grønnevang Skole, Jespervej",B_Listestemmer,Listestemmer,Radikale Venstre,56
+Hillerød,9,"Grønnevang Skole, Jespervej","B_Christina_Thorholm,_Nødebo","Christina Thorholm, Nødebo",Radikale Venstre,45
+Hillerød,9,"Grønnevang Skole, Jespervej","B_Jørgen_Suhr,_Hillerød_Vest","Jørgen Suhr, Hillerød Vest",Radikale Venstre,20
+Hillerød,9,"Grønnevang Skole, Jespervej","B_Charlotte_Kaufmanas,_Hillerød_Øst","Charlotte Kaufmanas, Hillerød Øst",Radikale Venstre,10
+Hillerød,9,"Grønnevang Skole, Jespervej","B_Mette_Grønvaldt,_Hillerød_Øst","Mette Grønvaldt, Hillerød Øst",Radikale Venstre,17
+Hillerød,9,"Grønnevang Skole, Jespervej","B_Anne_Lintrup,_Hillerød_C","Anne Lintrup, Hillerød C",Radikale Venstre,8
+Hillerød,9,"Grønnevang Skole, Jespervej","B_Lasse_K._Rasmussen,_Bendstrup","Lasse K. Rasmussen, Bendstrup",Radikale Venstre,0
+Hillerød,9,"Grønnevang Skole, Jespervej",C_Listestemmer,Listestemmer,Det Konservative Folkeparti,145
+Hillerød,9,"Grønnevang Skole, Jespervej",C_Peter_Ingemann_Bentsen,Peter Ingemann Bentsen,Det Konservative Folkeparti,77
+Hillerød,9,"Grønnevang Skole, Jespervej",C_Nikolaj_Frederiksen,Nikolaj Frederiksen,Det Konservative Folkeparti,28
+Hillerød,9,"Grønnevang Skole, Jespervej",C_Stine_Østlund,Stine Østlund,Det Konservative Folkeparti,39
+Hillerød,9,"Grønnevang Skole, Jespervej",C_Christoffer_Lorenzen,Christoffer Lorenzen,Det Konservative Folkeparti,88
+Hillerød,9,"Grønnevang Skole, Jespervej",C_Kate_Horsbøl,Kate Horsbøl,Det Konservative Folkeparti,18
+Hillerød,9,"Grønnevang Skole, Jespervej",C_Jonas_Lyberg_Kofod,Jonas Lyberg Kofod,Det Konservative Folkeparti,22
+Hillerød,9,"Grønnevang Skole, Jespervej",C_Lars_Bennetzen,Lars Bennetzen,Det Konservative Folkeparti,3
+Hillerød,9,"Grønnevang Skole, Jespervej",C_Jannick_Holm,Jannick Holm,Det Konservative Folkeparti,1
+Hillerød,9,"Grønnevang Skole, Jespervej",C_Lars_W._Hansen,Lars W. Hansen,Det Konservative Folkeparti,9
+Hillerød,9,"Grønnevang Skole, Jespervej",C_Brian_Nedergaard,Brian Nedergaard,Det Konservative Folkeparti,1
+Hillerød,9,"Grønnevang Skole, Jespervej",C_Anders_Theisen,Anders Theisen,Det Konservative Folkeparti,2
+Hillerød,9,"Grønnevang Skole, Jespervej",C_Manuel_Vigilius,Manuel Vigilius,Det Konservative Folkeparti,24
+Hillerød,9,"Grønnevang Skole, Jespervej",C_Niels_Bang-Ebbestrup,Niels Bang-Ebbestrup,Det Konservative Folkeparti,3
+Hillerød,9,"Grønnevang Skole, Jespervej",C_Henrik_Taankvist,Henrik Taankvist,Det Konservative Folkeparti,1
+Hillerød,9,"Grønnevang Skole, Jespervej",C_Anni_Nielsen,Anni Nielsen,Det Konservative Folkeparti,0
+Hillerød,9,"Grønnevang Skole, Jespervej",C_Poul_Rohlin_Nielsen,Poul Rohlin Nielsen,Det Konservative Folkeparti,1
+Hillerød,9,"Grønnevang Skole, Jespervej",D_Listestemmer,Listestemmer,Nye Borgerlige,41
+Hillerød,9,"Grønnevang Skole, Jespervej",D_Morten_Bille,Morten Bille,Nye Borgerlige,51
+Hillerød,9,"Grønnevang Skole, Jespervej",D_John_S._Falch,John S. Falch,Nye Borgerlige,2
+Hillerød,9,"Grønnevang Skole, Jespervej",D_Martin_Vinther,Martin Vinther,Nye Borgerlige,6
+Hillerød,9,"Grønnevang Skole, Jespervej",D_Kenn_Hadberg,Kenn Hadberg,Nye Borgerlige,1
+Hillerød,9,"Grønnevang Skole, Jespervej",F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,93
+Hillerød,9,"Grønnevang Skole, Jespervej",F_Lars_Elbrandt,Lars Elbrandt,SF - Socialistisk Folkeparti,52
+Hillerød,9,"Grønnevang Skole, Jespervej",F_Janne_Lunding_Olsen,Janne Lunding Olsen,SF - Socialistisk Folkeparti,42
+Hillerød,9,"Grønnevang Skole, Jespervej",F_Mads_Munk_Hansen,Mads Munk Hansen,SF - Socialistisk Folkeparti,24
+Hillerød,9,"Grønnevang Skole, Jespervej",F_Rasmus_Alexander_Meyer,Rasmus Alexander Meyer,SF - Socialistisk Folkeparti,16
+Hillerød,9,"Grønnevang Skole, Jespervej",F_Flemming_Thornæs,Flemming Thornæs,SF - Socialistisk Folkeparti,7
+Hillerød,9,"Grønnevang Skole, Jespervej",F_Rikke_Macholm,Rikke Macholm,SF - Socialistisk Folkeparti,20
+Hillerød,9,"Grønnevang Skole, Jespervej",F_Michael_Liesk,Michael Liesk,SF - Socialistisk Folkeparti,18
+Hillerød,9,"Grønnevang Skole, Jespervej",F_Silje_Brynildsen,Silje Brynildsen,SF - Socialistisk Folkeparti,2
+Hillerød,9,"Grønnevang Skole, Jespervej",F_Søren_Lerche,Søren Lerche,SF - Socialistisk Folkeparti,82
+Hillerød,9,"Grønnevang Skole, Jespervej",F_Laila_Dall,Laila Dall,SF - Socialistisk Folkeparti,6
+Hillerød,9,"Grønnevang Skole, Jespervej",F_Peter_Langer,Peter Langer,SF - Socialistisk Folkeparti,24
+Hillerød,9,"Grønnevang Skole, Jespervej",I_Listestemmer,Listestemmer,Liberal Alliance,12
+Hillerød,9,"Grønnevang Skole, Jespervej",I_Elisabeth_Stieper_Tofte,Elisabeth Stieper Tofte,Liberal Alliance,28
+Hillerød,9,"Grønnevang Skole, Jespervej",I_Ulrik_Ringgaard_Mathorne,Ulrik Ringgaard Mathorne,Liberal Alliance,3
+Hillerød,9,"Grønnevang Skole, Jespervej",I_Martin_Plambæk,Martin Plambæk,Liberal Alliance,1
+Hillerød,9,"Grønnevang Skole, Jespervej",K_Listestemmer,Listestemmer,Kristendemokraterne,6
+Hillerød,9,"Grønnevang Skole, Jespervej",K_Henrik_Forsberg,Henrik Forsberg,Kristendemokraterne,13
+Hillerød,9,"Grønnevang Skole, Jespervej",O_Listestemmer,Listestemmer,Dansk Folkeparti,28
+Hillerød,9,"Grønnevang Skole, Jespervej",O_Lars_Ole_Skovgaard_Larsen,Lars Ole Skovgaard Larsen,Dansk Folkeparti,27
+Hillerød,9,"Grønnevang Skole, Jespervej",O_Jette_Juul,Jette Juul,Dansk Folkeparti,19
+Hillerød,9,"Grønnevang Skole, Jespervej",O_Henning_Westermann,Henning Westermann,Dansk Folkeparti,3
+Hillerød,9,"Grønnevang Skole, Jespervej",V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",107
+Hillerød,9,"Grønnevang Skole, Jespervej","V_Klaus_Markussen,_Hillerød","Klaus Markussen, Hillerød","Venstre, Danmarks Liberale Parti",106
+Hillerød,9,"Grønnevang Skole, Jespervej","V_Dan_Riise,_Skævinge","Dan Riise, Skævinge","Venstre, Danmarks Liberale Parti",15
+Hillerød,9,"Grønnevang Skole, Jespervej","V_Peter_Frederiksen,_Uvelse","Peter Frederiksen, Uvelse","Venstre, Danmarks Liberale Parti",7
+Hillerød,9,"Grønnevang Skole, Jespervej","V_Annette_Rieva,_Alsønderup","Annette Rieva, Alsønderup","Venstre, Danmarks Liberale Parti",17
+Hillerød,9,"Grønnevang Skole, Jespervej","V_Øzgen_Yücel,_Hillerød","Øzgen Yücel, Hillerød","Venstre, Danmarks Liberale Parti",75
+Hillerød,9,"Grønnevang Skole, Jespervej","V_Hanne_Kirkegaard,_Hillerød","Hanne Kirkegaard, Hillerød","Venstre, Danmarks Liberale Parti",16
+Hillerød,9,"Grønnevang Skole, Jespervej","V_Thomas_Elong,_Hillerød","Thomas Elong, Hillerød","Venstre, Danmarks Liberale Parti",53
+Hillerød,9,"Grønnevang Skole, Jespervej","V_Ole_Roed_Jakobsen,_Meløse","Ole Roed Jakobsen, Meløse","Venstre, Danmarks Liberale Parti",2
+Hillerød,9,"Grønnevang Skole, Jespervej","V_Louise_Diamant,_Hillerød","Louise Diamant, Hillerød","Venstre, Danmarks Liberale Parti",0
+Hillerød,9,"Grønnevang Skole, Jespervej","V_Dragan_Popovic,_Hillerød","Dragan Popovic, Hillerød","Venstre, Danmarks Liberale Parti",27
+Hillerød,9,"Grønnevang Skole, Jespervej","V_Pernille_Svarre,_Alsønderup","Pernille Svarre, Alsønderup","Venstre, Danmarks Liberale Parti",18
+Hillerød,9,"Grønnevang Skole, Jespervej","V_Frederik_Bang,_Hillerød","Frederik Bang, Hillerød","Venstre, Danmarks Liberale Parti",4
+Hillerød,9,"Grønnevang Skole, Jespervej","V_Peter_Lennø,_Hillerød","Peter Lennø, Hillerød","Venstre, Danmarks Liberale Parti",1
+Hillerød,9,"Grønnevang Skole, Jespervej","V_Mathias_Skarby,_Nørre_Herlev","Mathias Skarby, Nørre Herlev","Venstre, Danmarks Liberale Parti",1
+Hillerød,9,"Grønnevang Skole, Jespervej","V_Camilla_Kerlauge,_Hillerød","Camilla Kerlauge, Hillerød","Venstre, Danmarks Liberale Parti",1
+Hillerød,9,"Grønnevang Skole, Jespervej","V_Ole_Stark,_Harløse","Ole Stark, Harløse","Venstre, Danmarks Liberale Parti",3
+Hillerød,9,"Grønnevang Skole, Jespervej","V_Thomas_Petersen,_Hillerød","Thomas Petersen, Hillerød","Venstre, Danmarks Liberale Parti",2
+Hillerød,9,"Grønnevang Skole, Jespervej","V_René_Hamberg,_Hillerød","René Hamberg, Hillerød","Venstre, Danmarks Liberale Parti",1
+Hillerød,9,"Grønnevang Skole, Jespervej","V_Jens_Estrup,_Ullerød","Jens Estrup, Ullerød","Venstre, Danmarks Liberale Parti",7
+Hillerød,9,"Grønnevang Skole, Jespervej","V_René_Christensen,_Hillerød","René Christensen, Hillerød","Venstre, Danmarks Liberale Parti",1
+Hillerød,9,"Grønnevang Skole, Jespervej","V_Lorna_Birgitte_Rudd,_Nødebo","Lorna Birgitte Rudd, Nødebo","Venstre, Danmarks Liberale Parti",0
+Hillerød,9,"Grønnevang Skole, Jespervej","V_Sven_Lynge,_St._Lyngby","Sven Lynge, St. Lyngby","Venstre, Danmarks Liberale Parti",0
+Hillerød,9,"Grønnevang Skole, Jespervej","V_Torben_Rønne_Petersen,_Gørløse","Torben Rønne Petersen, Gørløse","Venstre, Danmarks Liberale Parti",0
+Hillerød,9,"Grønnevang Skole, Jespervej",Æ_Listestemmer,Listestemmer,Frihedslisten,11
+Hillerød,9,"Grønnevang Skole, Jespervej",Æ_Bjarne_Holm,Bjarne Holm,Frihedslisten,2
+Hillerød,9,"Grønnevang Skole, Jespervej",Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,50
+Hillerød,9,"Grønnevang Skole, Jespervej",Ø_Tue_Tortzen,Tue Tortzen,Enhedslisten - De Rød-Grønne,66
+Hillerød,9,"Grønnevang Skole, Jespervej",Ø_Sabri_Yilmaz,Sabri Yilmaz,Enhedslisten - De Rød-Grønne,16
+Hillerød,9,"Grønnevang Skole, Jespervej",Ø_Anne_Mette_Isabel_Nielsen,Anne Mette Isabel Nielsen,Enhedslisten - De Rød-Grønne,24
+Hillerød,9,"Grønnevang Skole, Jespervej",Ø_Hildur_Johnson,Hildur Johnson,Enhedslisten - De Rød-Grønne,18
+Hillerød,9,"Grønnevang Skole, Jespervej",Ø_Karl_Erik_Rasmussen,Karl Erik Rasmussen,Enhedslisten - De Rød-Grønne,7
+Hillerød,10,"Grønnevang Skole, Østervang",A_Listestemmer,Listestemmer,Socialdemokratiet,269
+Hillerød,10,"Grønnevang Skole, Østervang",A_Kirsten_Jensen,Kirsten Jensen,Socialdemokratiet,394
+Hillerød,10,"Grønnevang Skole, Østervang",A_Thomas_Brücker,Thomas Brücker,Socialdemokratiet,36
+Hillerød,10,"Grønnevang Skole, Østervang",A_Louise_Colding,Louise Colding,Socialdemokratiet,28
+Hillerød,10,"Grønnevang Skole, Østervang",A_Susanne_Due_Kristensen,Susanne Due Kristensen,Socialdemokratiet,25
+Hillerød,10,"Grønnevang Skole, Østervang",A_Jamil_Cheheibar,Jamil Cheheibar,Socialdemokratiet,63
+Hillerød,10,"Grønnevang Skole, Østervang",A_Mie_Lausten,Mie Lausten,Socialdemokratiet,36
+Hillerød,10,"Grønnevang Skole, Østervang",A_Vivi_Wøldike,Vivi Wøldike,Socialdemokratiet,24
+Hillerød,10,"Grønnevang Skole, Østervang",A_Mathilde_Clauson-Kaas,Mathilde Clauson-Kaas,Socialdemokratiet,27
+Hillerød,10,"Grønnevang Skole, Østervang",A_Mustafa_Adham,Mustafa Adham,Socialdemokratiet,24
+Hillerød,10,"Grønnevang Skole, Østervang",A_Niels_Nedergaard,Niels Nedergaard,Socialdemokratiet,5
+Hillerød,10,"Grønnevang Skole, Østervang",A_Jens_Græsted,Jens Græsted,Socialdemokratiet,1
+Hillerød,10,"Grønnevang Skole, Østervang",A_Emil_Colding_Sørensen,Emil Colding Sørensen,Socialdemokratiet,8
+Hillerød,10,"Grønnevang Skole, Østervang",A_Ingo_Hvid,Ingo Hvid,Socialdemokratiet,10
+Hillerød,10,"Grønnevang Skole, Østervang",A_Heidi_Liljedahl,Heidi Liljedahl,Socialdemokratiet,2
+Hillerød,10,"Grønnevang Skole, Østervang",A_Kenneth_Østed,Kenneth Østed,Socialdemokratiet,3
+Hillerød,10,"Grønnevang Skole, Østervang",A_Nanna_Kjær,Nanna Kjær,Socialdemokratiet,17
+Hillerød,10,"Grønnevang Skole, Østervang",A_Peder_Bisgaard,Peder Bisgaard,Socialdemokratiet,23
+Hillerød,10,"Grønnevang Skole, Østervang",B_Listestemmer,Listestemmer,Radikale Venstre,57
+Hillerød,10,"Grønnevang Skole, Østervang","B_Christina_Thorholm,_Nødebo","Christina Thorholm, Nødebo",Radikale Venstre,65
+Hillerød,10,"Grønnevang Skole, Østervang","B_Jørgen_Suhr,_Hillerød_Vest","Jørgen Suhr, Hillerød Vest",Radikale Venstre,36
+Hillerød,10,"Grønnevang Skole, Østervang","B_Charlotte_Kaufmanas,_Hillerød_Øst","Charlotte Kaufmanas, Hillerød Øst",Radikale Venstre,8
+Hillerød,10,"Grønnevang Skole, Østervang","B_Mette_Grønvaldt,_Hillerød_Øst","Mette Grønvaldt, Hillerød Øst",Radikale Venstre,26
+Hillerød,10,"Grønnevang Skole, Østervang","B_Anne_Lintrup,_Hillerød_C","Anne Lintrup, Hillerød C",Radikale Venstre,8
+Hillerød,10,"Grønnevang Skole, Østervang","B_Lasse_K._Rasmussen,_Bendstrup","Lasse K. Rasmussen, Bendstrup",Radikale Venstre,0
+Hillerød,10,"Grønnevang Skole, Østervang",C_Listestemmer,Listestemmer,Det Konservative Folkeparti,194
+Hillerød,10,"Grønnevang Skole, Østervang",C_Peter_Ingemann_Bentsen,Peter Ingemann Bentsen,Det Konservative Folkeparti,50
+Hillerød,10,"Grønnevang Skole, Østervang",C_Nikolaj_Frederiksen,Nikolaj Frederiksen,Det Konservative Folkeparti,57
+Hillerød,10,"Grønnevang Skole, Østervang",C_Stine_Østlund,Stine Østlund,Det Konservative Folkeparti,57
+Hillerød,10,"Grønnevang Skole, Østervang",C_Christoffer_Lorenzen,Christoffer Lorenzen,Det Konservative Folkeparti,74
+Hillerød,10,"Grønnevang Skole, Østervang",C_Kate_Horsbøl,Kate Horsbøl,Det Konservative Folkeparti,27
+Hillerød,10,"Grønnevang Skole, Østervang",C_Jonas_Lyberg_Kofod,Jonas Lyberg Kofod,Det Konservative Folkeparti,22
+Hillerød,10,"Grønnevang Skole, Østervang",C_Lars_Bennetzen,Lars Bennetzen,Det Konservative Folkeparti,4
+Hillerød,10,"Grønnevang Skole, Østervang",C_Jannick_Holm,Jannick Holm,Det Konservative Folkeparti,14
+Hillerød,10,"Grønnevang Skole, Østervang",C_Lars_W._Hansen,Lars W. Hansen,Det Konservative Folkeparti,4
+Hillerød,10,"Grønnevang Skole, Østervang",C_Brian_Nedergaard,Brian Nedergaard,Det Konservative Folkeparti,3
+Hillerød,10,"Grønnevang Skole, Østervang",C_Anders_Theisen,Anders Theisen,Det Konservative Folkeparti,3
+Hillerød,10,"Grønnevang Skole, Østervang",C_Manuel_Vigilius,Manuel Vigilius,Det Konservative Folkeparti,17
+Hillerød,10,"Grønnevang Skole, Østervang",C_Niels_Bang-Ebbestrup,Niels Bang-Ebbestrup,Det Konservative Folkeparti,1
+Hillerød,10,"Grønnevang Skole, Østervang",C_Henrik_Taankvist,Henrik Taankvist,Det Konservative Folkeparti,5
+Hillerød,10,"Grønnevang Skole, Østervang",C_Anni_Nielsen,Anni Nielsen,Det Konservative Folkeparti,1
+Hillerød,10,"Grønnevang Skole, Østervang",C_Poul_Rohlin_Nielsen,Poul Rohlin Nielsen,Det Konservative Folkeparti,1
+Hillerød,10,"Grønnevang Skole, Østervang",D_Listestemmer,Listestemmer,Nye Borgerlige,73
+Hillerød,10,"Grønnevang Skole, Østervang",D_Morten_Bille,Morten Bille,Nye Borgerlige,64
+Hillerød,10,"Grønnevang Skole, Østervang",D_John_S._Falch,John S. Falch,Nye Borgerlige,3
+Hillerød,10,"Grønnevang Skole, Østervang",D_Martin_Vinther,Martin Vinther,Nye Borgerlige,8
+Hillerød,10,"Grønnevang Skole, Østervang",D_Kenn_Hadberg,Kenn Hadberg,Nye Borgerlige,4
+Hillerød,10,"Grønnevang Skole, Østervang",F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,128
+Hillerød,10,"Grønnevang Skole, Østervang",F_Lars_Elbrandt,Lars Elbrandt,SF - Socialistisk Folkeparti,67
+Hillerød,10,"Grønnevang Skole, Østervang",F_Janne_Lunding_Olsen,Janne Lunding Olsen,SF - Socialistisk Folkeparti,70
+Hillerød,10,"Grønnevang Skole, Østervang",F_Mads_Munk_Hansen,Mads Munk Hansen,SF - Socialistisk Folkeparti,26
+Hillerød,10,"Grønnevang Skole, Østervang",F_Rasmus_Alexander_Meyer,Rasmus Alexander Meyer,SF - Socialistisk Folkeparti,15
+Hillerød,10,"Grønnevang Skole, Østervang",F_Flemming_Thornæs,Flemming Thornæs,SF - Socialistisk Folkeparti,7
+Hillerød,10,"Grønnevang Skole, Østervang",F_Rikke_Macholm,Rikke Macholm,SF - Socialistisk Folkeparti,32
+Hillerød,10,"Grønnevang Skole, Østervang",F_Michael_Liesk,Michael Liesk,SF - Socialistisk Folkeparti,12
+Hillerød,10,"Grønnevang Skole, Østervang",F_Silje_Brynildsen,Silje Brynildsen,SF - Socialistisk Folkeparti,7
+Hillerød,10,"Grønnevang Skole, Østervang",F_Søren_Lerche,Søren Lerche,SF - Socialistisk Folkeparti,87
+Hillerød,10,"Grønnevang Skole, Østervang",F_Laila_Dall,Laila Dall,SF - Socialistisk Folkeparti,11
+Hillerød,10,"Grønnevang Skole, Østervang",F_Peter_Langer,Peter Langer,SF - Socialistisk Folkeparti,20
+Hillerød,10,"Grønnevang Skole, Østervang",I_Listestemmer,Listestemmer,Liberal Alliance,10
+Hillerød,10,"Grønnevang Skole, Østervang",I_Elisabeth_Stieper_Tofte,Elisabeth Stieper Tofte,Liberal Alliance,19
+Hillerød,10,"Grønnevang Skole, Østervang",I_Ulrik_Ringgaard_Mathorne,Ulrik Ringgaard Mathorne,Liberal Alliance,0
+Hillerød,10,"Grønnevang Skole, Østervang",I_Martin_Plambæk,Martin Plambæk,Liberal Alliance,3
+Hillerød,10,"Grønnevang Skole, Østervang",K_Listestemmer,Listestemmer,Kristendemokraterne,12
+Hillerød,10,"Grønnevang Skole, Østervang",K_Henrik_Forsberg,Henrik Forsberg,Kristendemokraterne,19
+Hillerød,10,"Grønnevang Skole, Østervang",O_Listestemmer,Listestemmer,Dansk Folkeparti,56
+Hillerød,10,"Grønnevang Skole, Østervang",O_Lars_Ole_Skovgaard_Larsen,Lars Ole Skovgaard Larsen,Dansk Folkeparti,49
+Hillerød,10,"Grønnevang Skole, Østervang",O_Jette_Juul,Jette Juul,Dansk Folkeparti,58
+Hillerød,10,"Grønnevang Skole, Østervang",O_Henning_Westermann,Henning Westermann,Dansk Folkeparti,6
+Hillerød,10,"Grønnevang Skole, Østervang",V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",130
+Hillerød,10,"Grønnevang Skole, Østervang","V_Klaus_Markussen,_Hillerød","Klaus Markussen, Hillerød","Venstre, Danmarks Liberale Parti",144
+Hillerød,10,"Grønnevang Skole, Østervang","V_Dan_Riise,_Skævinge","Dan Riise, Skævinge","Venstre, Danmarks Liberale Parti",30
+Hillerød,10,"Grønnevang Skole, Østervang","V_Peter_Frederiksen,_Uvelse","Peter Frederiksen, Uvelse","Venstre, Danmarks Liberale Parti",9
+Hillerød,10,"Grønnevang Skole, Østervang","V_Annette_Rieva,_Alsønderup","Annette Rieva, Alsønderup","Venstre, Danmarks Liberale Parti",22
+Hillerød,10,"Grønnevang Skole, Østervang","V_Øzgen_Yücel,_Hillerød","Øzgen Yücel, Hillerød","Venstre, Danmarks Liberale Parti",122
+Hillerød,10,"Grønnevang Skole, Østervang","V_Hanne_Kirkegaard,_Hillerød","Hanne Kirkegaard, Hillerød","Venstre, Danmarks Liberale Parti",19
+Hillerød,10,"Grønnevang Skole, Østervang","V_Thomas_Elong,_Hillerød","Thomas Elong, Hillerød","Venstre, Danmarks Liberale Parti",49
+Hillerød,10,"Grønnevang Skole, Østervang","V_Ole_Roed_Jakobsen,_Meløse","Ole Roed Jakobsen, Meløse","Venstre, Danmarks Liberale Parti",2
+Hillerød,10,"Grønnevang Skole, Østervang","V_Louise_Diamant,_Hillerød","Louise Diamant, Hillerød","Venstre, Danmarks Liberale Parti",7
+Hillerød,10,"Grønnevang Skole, Østervang","V_Dragan_Popovic,_Hillerød","Dragan Popovic, Hillerød","Venstre, Danmarks Liberale Parti",73
+Hillerød,10,"Grønnevang Skole, Østervang","V_Pernille_Svarre,_Alsønderup","Pernille Svarre, Alsønderup","Venstre, Danmarks Liberale Parti",20
+Hillerød,10,"Grønnevang Skole, Østervang","V_Frederik_Bang,_Hillerød","Frederik Bang, Hillerød","Venstre, Danmarks Liberale Parti",3
+Hillerød,10,"Grønnevang Skole, Østervang","V_Peter_Lennø,_Hillerød","Peter Lennø, Hillerød","Venstre, Danmarks Liberale Parti",3
+Hillerød,10,"Grønnevang Skole, Østervang","V_Mathias_Skarby,_Nørre_Herlev","Mathias Skarby, Nørre Herlev","Venstre, Danmarks Liberale Parti",0
+Hillerød,10,"Grønnevang Skole, Østervang","V_Camilla_Kerlauge,_Hillerød","Camilla Kerlauge, Hillerød","Venstre, Danmarks Liberale Parti",2
+Hillerød,10,"Grønnevang Skole, Østervang","V_Ole_Stark,_Harløse","Ole Stark, Harløse","Venstre, Danmarks Liberale Parti",3
+Hillerød,10,"Grønnevang Skole, Østervang","V_Thomas_Petersen,_Hillerød","Thomas Petersen, Hillerød","Venstre, Danmarks Liberale Parti",1
+Hillerød,10,"Grønnevang Skole, Østervang","V_René_Hamberg,_Hillerød","René Hamberg, Hillerød","Venstre, Danmarks Liberale Parti",1
+Hillerød,10,"Grønnevang Skole, Østervang","V_Jens_Estrup,_Ullerød","Jens Estrup, Ullerød","Venstre, Danmarks Liberale Parti",6
+Hillerød,10,"Grønnevang Skole, Østervang","V_René_Christensen,_Hillerød","René Christensen, Hillerød","Venstre, Danmarks Liberale Parti",5
+Hillerød,10,"Grønnevang Skole, Østervang","V_Lorna_Birgitte_Rudd,_Nødebo","Lorna Birgitte Rudd, Nødebo","Venstre, Danmarks Liberale Parti",1
+Hillerød,10,"Grønnevang Skole, Østervang","V_Sven_Lynge,_St._Lyngby","Sven Lynge, St. Lyngby","Venstre, Danmarks Liberale Parti",0
+Hillerød,10,"Grønnevang Skole, Østervang","V_Torben_Rønne_Petersen,_Gørløse","Torben Rønne Petersen, Gørløse","Venstre, Danmarks Liberale Parti",1
+Hillerød,10,"Grønnevang Skole, Østervang",Æ_Listestemmer,Listestemmer,Frihedslisten,10
+Hillerød,10,"Grønnevang Skole, Østervang",Æ_Bjarne_Holm,Bjarne Holm,Frihedslisten,11
+Hillerød,10,"Grønnevang Skole, Østervang",Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,111
+Hillerød,10,"Grønnevang Skole, Østervang",Ø_Tue_Tortzen,Tue Tortzen,Enhedslisten - De Rød-Grønne,73
+Hillerød,10,"Grønnevang Skole, Østervang",Ø_Sabri_Yilmaz,Sabri Yilmaz,Enhedslisten - De Rød-Grønne,61
+Hillerød,10,"Grønnevang Skole, Østervang",Ø_Anne_Mette_Isabel_Nielsen,Anne Mette Isabel Nielsen,Enhedslisten - De Rød-Grønne,26
+Hillerød,10,"Grønnevang Skole, Østervang",Ø_Hildur_Johnson,Hildur Johnson,Enhedslisten - De Rød-Grønne,22
+Hillerød,10,"Grønnevang Skole, Østervang",Ø_Karl_Erik_Rasmussen,Karl Erik Rasmussen,Enhedslisten - De Rød-Grønne,6
+Hillerød,11,Lille Lyngby,A_Listestemmer,Listestemmer,Socialdemokratiet,56
+Hillerød,11,Lille Lyngby,A_Kirsten_Jensen,Kirsten Jensen,Socialdemokratiet,88
+Hillerød,11,Lille Lyngby,A_Thomas_Brücker,Thomas Brücker,Socialdemokratiet,7
+Hillerød,11,Lille Lyngby,A_Louise_Colding,Louise Colding,Socialdemokratiet,38
+Hillerød,11,Lille Lyngby,A_Susanne_Due_Kristensen,Susanne Due Kristensen,Socialdemokratiet,9
+Hillerød,11,Lille Lyngby,A_Jamil_Cheheibar,Jamil Cheheibar,Socialdemokratiet,1
+Hillerød,11,Lille Lyngby,A_Mie_Lausten,Mie Lausten,Socialdemokratiet,8
+Hillerød,11,Lille Lyngby,A_Vivi_Wøldike,Vivi Wøldike,Socialdemokratiet,4
+Hillerød,11,Lille Lyngby,A_Mathilde_Clauson-Kaas,Mathilde Clauson-Kaas,Socialdemokratiet,2
+Hillerød,11,Lille Lyngby,A_Mustafa_Adham,Mustafa Adham,Socialdemokratiet,2
+Hillerød,11,Lille Lyngby,A_Niels_Nedergaard,Niels Nedergaard,Socialdemokratiet,0
+Hillerød,11,Lille Lyngby,A_Jens_Græsted,Jens Græsted,Socialdemokratiet,3
+Hillerød,11,Lille Lyngby,A_Emil_Colding_Sørensen,Emil Colding Sørensen,Socialdemokratiet,2
+Hillerød,11,Lille Lyngby,A_Ingo_Hvid,Ingo Hvid,Socialdemokratiet,2
+Hillerød,11,Lille Lyngby,A_Heidi_Liljedahl,Heidi Liljedahl,Socialdemokratiet,0
+Hillerød,11,Lille Lyngby,A_Kenneth_Østed,Kenneth Østed,Socialdemokratiet,2
+Hillerød,11,Lille Lyngby,A_Nanna_Kjær,Nanna Kjær,Socialdemokratiet,2
+Hillerød,11,Lille Lyngby,A_Peder_Bisgaard,Peder Bisgaard,Socialdemokratiet,1
+Hillerød,11,Lille Lyngby,B_Listestemmer,Listestemmer,Radikale Venstre,15
+Hillerød,11,Lille Lyngby,"B_Christina_Thorholm,_Nødebo","Christina Thorholm, Nødebo",Radikale Venstre,12
+Hillerød,11,Lille Lyngby,"B_Jørgen_Suhr,_Hillerød_Vest","Jørgen Suhr, Hillerød Vest",Radikale Venstre,3
+Hillerød,11,Lille Lyngby,"B_Charlotte_Kaufmanas,_Hillerød_Øst","Charlotte Kaufmanas, Hillerød Øst",Radikale Venstre,2
+Hillerød,11,Lille Lyngby,"B_Mette_Grønvaldt,_Hillerød_Øst","Mette Grønvaldt, Hillerød Øst",Radikale Venstre,3
+Hillerød,11,Lille Lyngby,"B_Anne_Lintrup,_Hillerød_C","Anne Lintrup, Hillerød C",Radikale Venstre,2
+Hillerød,11,Lille Lyngby,"B_Lasse_K._Rasmussen,_Bendstrup","Lasse K. Rasmussen, Bendstrup",Radikale Venstre,0
+Hillerød,11,Lille Lyngby,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,44
+Hillerød,11,Lille Lyngby,C_Peter_Ingemann_Bentsen,Peter Ingemann Bentsen,Det Konservative Folkeparti,5
+Hillerød,11,Lille Lyngby,C_Nikolaj_Frederiksen,Nikolaj Frederiksen,Det Konservative Folkeparti,10
+Hillerød,11,Lille Lyngby,C_Stine_Østlund,Stine Østlund,Det Konservative Folkeparti,8
+Hillerød,11,Lille Lyngby,C_Christoffer_Lorenzen,Christoffer Lorenzen,Det Konservative Folkeparti,38
+Hillerød,11,Lille Lyngby,C_Kate_Horsbøl,Kate Horsbøl,Det Konservative Folkeparti,4
+Hillerød,11,Lille Lyngby,C_Jonas_Lyberg_Kofod,Jonas Lyberg Kofod,Det Konservative Folkeparti,8
+Hillerød,11,Lille Lyngby,C_Lars_Bennetzen,Lars Bennetzen,Det Konservative Folkeparti,3
+Hillerød,11,Lille Lyngby,C_Jannick_Holm,Jannick Holm,Det Konservative Folkeparti,1
+Hillerød,11,Lille Lyngby,C_Lars_W._Hansen,Lars W. Hansen,Det Konservative Folkeparti,1
+Hillerød,11,Lille Lyngby,C_Brian_Nedergaard,Brian Nedergaard,Det Konservative Folkeparti,2
+Hillerød,11,Lille Lyngby,C_Anders_Theisen,Anders Theisen,Det Konservative Folkeparti,7
+Hillerød,11,Lille Lyngby,C_Manuel_Vigilius,Manuel Vigilius,Det Konservative Folkeparti,6
+Hillerød,11,Lille Lyngby,C_Niels_Bang-Ebbestrup,Niels Bang-Ebbestrup,Det Konservative Folkeparti,1
+Hillerød,11,Lille Lyngby,C_Henrik_Taankvist,Henrik Taankvist,Det Konservative Folkeparti,1
+Hillerød,11,Lille Lyngby,C_Anni_Nielsen,Anni Nielsen,Det Konservative Folkeparti,1
+Hillerød,11,Lille Lyngby,C_Poul_Rohlin_Nielsen,Poul Rohlin Nielsen,Det Konservative Folkeparti,1
+Hillerød,11,Lille Lyngby,D_Listestemmer,Listestemmer,Nye Borgerlige,39
+Hillerød,11,Lille Lyngby,D_Morten_Bille,Morten Bille,Nye Borgerlige,33
+Hillerød,11,Lille Lyngby,D_John_S._Falch,John S. Falch,Nye Borgerlige,2
+Hillerød,11,Lille Lyngby,D_Martin_Vinther,Martin Vinther,Nye Borgerlige,18
+Hillerød,11,Lille Lyngby,D_Kenn_Hadberg,Kenn Hadberg,Nye Borgerlige,1
+Hillerød,11,Lille Lyngby,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,22
+Hillerød,11,Lille Lyngby,F_Lars_Elbrandt,Lars Elbrandt,SF - Socialistisk Folkeparti,13
+Hillerød,11,Lille Lyngby,F_Janne_Lunding_Olsen,Janne Lunding Olsen,SF - Socialistisk Folkeparti,11
+Hillerød,11,Lille Lyngby,F_Mads_Munk_Hansen,Mads Munk Hansen,SF - Socialistisk Folkeparti,3
+Hillerød,11,Lille Lyngby,F_Rasmus_Alexander_Meyer,Rasmus Alexander Meyer,SF - Socialistisk Folkeparti,1
+Hillerød,11,Lille Lyngby,F_Flemming_Thornæs,Flemming Thornæs,SF - Socialistisk Folkeparti,0
+Hillerød,11,Lille Lyngby,F_Rikke_Macholm,Rikke Macholm,SF - Socialistisk Folkeparti,6
+Hillerød,11,Lille Lyngby,F_Michael_Liesk,Michael Liesk,SF - Socialistisk Folkeparti,7
+Hillerød,11,Lille Lyngby,F_Silje_Brynildsen,Silje Brynildsen,SF - Socialistisk Folkeparti,1
+Hillerød,11,Lille Lyngby,F_Søren_Lerche,Søren Lerche,SF - Socialistisk Folkeparti,12
+Hillerød,11,Lille Lyngby,F_Laila_Dall,Laila Dall,SF - Socialistisk Folkeparti,2
+Hillerød,11,Lille Lyngby,F_Peter_Langer,Peter Langer,SF - Socialistisk Folkeparti,0
+Hillerød,11,Lille Lyngby,I_Listestemmer,Listestemmer,Liberal Alliance,4
+Hillerød,11,Lille Lyngby,I_Elisabeth_Stieper_Tofte,Elisabeth Stieper Tofte,Liberal Alliance,6
+Hillerød,11,Lille Lyngby,I_Ulrik_Ringgaard_Mathorne,Ulrik Ringgaard Mathorne,Liberal Alliance,0
+Hillerød,11,Lille Lyngby,I_Martin_Plambæk,Martin Plambæk,Liberal Alliance,1
+Hillerød,11,Lille Lyngby,K_Listestemmer,Listestemmer,Kristendemokraterne,1
+Hillerød,11,Lille Lyngby,K_Henrik_Forsberg,Henrik Forsberg,Kristendemokraterne,3
+Hillerød,11,Lille Lyngby,O_Listestemmer,Listestemmer,Dansk Folkeparti,12
+Hillerød,11,Lille Lyngby,O_Lars_Ole_Skovgaard_Larsen,Lars Ole Skovgaard Larsen,Dansk Folkeparti,32
+Hillerød,11,Lille Lyngby,O_Jette_Juul,Jette Juul,Dansk Folkeparti,5
+Hillerød,11,Lille Lyngby,O_Henning_Westermann,Henning Westermann,Dansk Folkeparti,1
+Hillerød,11,Lille Lyngby,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",54
+Hillerød,11,Lille Lyngby,"V_Klaus_Markussen,_Hillerød","Klaus Markussen, Hillerød","Venstre, Danmarks Liberale Parti",52
+Hillerød,11,Lille Lyngby,"V_Dan_Riise,_Skævinge","Dan Riise, Skævinge","Venstre, Danmarks Liberale Parti",33
+Hillerød,11,Lille Lyngby,"V_Peter_Frederiksen,_Uvelse","Peter Frederiksen, Uvelse","Venstre, Danmarks Liberale Parti",0
+Hillerød,11,Lille Lyngby,"V_Annette_Rieva,_Alsønderup","Annette Rieva, Alsønderup","Venstre, Danmarks Liberale Parti",19
+Hillerød,11,Lille Lyngby,"V_Øzgen_Yücel,_Hillerød","Øzgen Yücel, Hillerød","Venstre, Danmarks Liberale Parti",4
+Hillerød,11,Lille Lyngby,"V_Hanne_Kirkegaard,_Hillerød","Hanne Kirkegaard, Hillerød","Venstre, Danmarks Liberale Parti",55
+Hillerød,11,Lille Lyngby,"V_Thomas_Elong,_Hillerød","Thomas Elong, Hillerød","Venstre, Danmarks Liberale Parti",15
+Hillerød,11,Lille Lyngby,"V_Ole_Roed_Jakobsen,_Meløse","Ole Roed Jakobsen, Meløse","Venstre, Danmarks Liberale Parti",83
+Hillerød,11,Lille Lyngby,"V_Louise_Diamant,_Hillerød","Louise Diamant, Hillerød","Venstre, Danmarks Liberale Parti",1
+Hillerød,11,Lille Lyngby,"V_Dragan_Popovic,_Hillerød","Dragan Popovic, Hillerød","Venstre, Danmarks Liberale Parti",16
+Hillerød,11,Lille Lyngby,"V_Pernille_Svarre,_Alsønderup","Pernille Svarre, Alsønderup","Venstre, Danmarks Liberale Parti",6
+Hillerød,11,Lille Lyngby,"V_Frederik_Bang,_Hillerød","Frederik Bang, Hillerød","Venstre, Danmarks Liberale Parti",4
+Hillerød,11,Lille Lyngby,"V_Peter_Lennø,_Hillerød","Peter Lennø, Hillerød","Venstre, Danmarks Liberale Parti",0
+Hillerød,11,Lille Lyngby,"V_Mathias_Skarby,_Nørre_Herlev","Mathias Skarby, Nørre Herlev","Venstre, Danmarks Liberale Parti",1
+Hillerød,11,Lille Lyngby,"V_Camilla_Kerlauge,_Hillerød","Camilla Kerlauge, Hillerød","Venstre, Danmarks Liberale Parti",0
+Hillerød,11,Lille Lyngby,"V_Ole_Stark,_Harløse","Ole Stark, Harløse","Venstre, Danmarks Liberale Parti",4
+Hillerød,11,Lille Lyngby,"V_Thomas_Petersen,_Hillerød","Thomas Petersen, Hillerød","Venstre, Danmarks Liberale Parti",1
+Hillerød,11,Lille Lyngby,"V_René_Hamberg,_Hillerød","René Hamberg, Hillerød","Venstre, Danmarks Liberale Parti",0
+Hillerød,11,Lille Lyngby,"V_Jens_Estrup,_Ullerød","Jens Estrup, Ullerød","Venstre, Danmarks Liberale Parti",1
+Hillerød,11,Lille Lyngby,"V_René_Christensen,_Hillerød","René Christensen, Hillerød","Venstre, Danmarks Liberale Parti",0
+Hillerød,11,Lille Lyngby,"V_Lorna_Birgitte_Rudd,_Nødebo","Lorna Birgitte Rudd, Nødebo","Venstre, Danmarks Liberale Parti",0
+Hillerød,11,Lille Lyngby,"V_Sven_Lynge,_St._Lyngby","Sven Lynge, St. Lyngby","Venstre, Danmarks Liberale Parti",11
+Hillerød,11,Lille Lyngby,"V_Torben_Rønne_Petersen,_Gørløse","Torben Rønne Petersen, Gørløse","Venstre, Danmarks Liberale Parti",0
+Hillerød,11,Lille Lyngby,Æ_Listestemmer,Listestemmer,Frihedslisten,0
+Hillerød,11,Lille Lyngby,Æ_Bjarne_Holm,Bjarne Holm,Frihedslisten,4
+Hillerød,11,Lille Lyngby,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,16
+Hillerød,11,Lille Lyngby,Ø_Tue_Tortzen,Tue Tortzen,Enhedslisten - De Rød-Grønne,16
+Hillerød,11,Lille Lyngby,Ø_Sabri_Yilmaz,Sabri Yilmaz,Enhedslisten - De Rød-Grønne,2
+Hillerød,11,Lille Lyngby,Ø_Anne_Mette_Isabel_Nielsen,Anne Mette Isabel Nielsen,Enhedslisten - De Rød-Grønne,7
+Hillerød,11,Lille Lyngby,Ø_Hildur_Johnson,Hildur Johnson,Enhedslisten - De Rød-Grønne,2
+Hillerød,11,Lille Lyngby,Ø_Karl_Erik_Rasmussen,Karl Erik Rasmussen,Enhedslisten - De Rød-Grønne,0
+Hillerød,12,"Skævinge, Harløse, Strø",A_Listestemmer,Listestemmer,Socialdemokratiet,124
+Hillerød,12,"Skævinge, Harløse, Strø",A_Kirsten_Jensen,Kirsten Jensen,Socialdemokratiet,176
+Hillerød,12,"Skævinge, Harløse, Strø",A_Thomas_Brücker,Thomas Brücker,Socialdemokratiet,13
+Hillerød,12,"Skævinge, Harløse, Strø",A_Louise_Colding,Louise Colding,Socialdemokratiet,54
+Hillerød,12,"Skævinge, Harløse, Strø",A_Susanne_Due_Kristensen,Susanne Due Kristensen,Socialdemokratiet,13
+Hillerød,12,"Skævinge, Harløse, Strø",A_Jamil_Cheheibar,Jamil Cheheibar,Socialdemokratiet,2
+Hillerød,12,"Skævinge, Harløse, Strø",A_Mie_Lausten,Mie Lausten,Socialdemokratiet,14
+Hillerød,12,"Skævinge, Harløse, Strø",A_Vivi_Wøldike,Vivi Wøldike,Socialdemokratiet,11
+Hillerød,12,"Skævinge, Harløse, Strø",A_Mathilde_Clauson-Kaas,Mathilde Clauson-Kaas,Socialdemokratiet,14
+Hillerød,12,"Skævinge, Harløse, Strø",A_Mustafa_Adham,Mustafa Adham,Socialdemokratiet,3
+Hillerød,12,"Skævinge, Harløse, Strø",A_Niels_Nedergaard,Niels Nedergaard,Socialdemokratiet,1
+Hillerød,12,"Skævinge, Harløse, Strø",A_Jens_Græsted,Jens Græsted,Socialdemokratiet,4
+Hillerød,12,"Skævinge, Harløse, Strø",A_Emil_Colding_Sørensen,Emil Colding Sørensen,Socialdemokratiet,3
+Hillerød,12,"Skævinge, Harløse, Strø",A_Ingo_Hvid,Ingo Hvid,Socialdemokratiet,4
+Hillerød,12,"Skævinge, Harløse, Strø",A_Heidi_Liljedahl,Heidi Liljedahl,Socialdemokratiet,2
+Hillerød,12,"Skævinge, Harløse, Strø",A_Kenneth_Østed,Kenneth Østed,Socialdemokratiet,0
+Hillerød,12,"Skævinge, Harløse, Strø",A_Nanna_Kjær,Nanna Kjær,Socialdemokratiet,4
+Hillerød,12,"Skævinge, Harløse, Strø",A_Peder_Bisgaard,Peder Bisgaard,Socialdemokratiet,7
+Hillerød,12,"Skævinge, Harløse, Strø",B_Listestemmer,Listestemmer,Radikale Venstre,23
+Hillerød,12,"Skævinge, Harløse, Strø","B_Christina_Thorholm,_Nødebo","Christina Thorholm, Nødebo",Radikale Venstre,27
+Hillerød,12,"Skævinge, Harløse, Strø","B_Jørgen_Suhr,_Hillerød_Vest","Jørgen Suhr, Hillerød Vest",Radikale Venstre,17
+Hillerød,12,"Skævinge, Harløse, Strø","B_Charlotte_Kaufmanas,_Hillerød_Øst","Charlotte Kaufmanas, Hillerød Øst",Radikale Venstre,3
+Hillerød,12,"Skævinge, Harløse, Strø","B_Mette_Grønvaldt,_Hillerød_Øst","Mette Grønvaldt, Hillerød Øst",Radikale Venstre,5
+Hillerød,12,"Skævinge, Harløse, Strø","B_Anne_Lintrup,_Hillerød_C","Anne Lintrup, Hillerød C",Radikale Venstre,0
+Hillerød,12,"Skævinge, Harløse, Strø","B_Lasse_K._Rasmussen,_Bendstrup","Lasse K. Rasmussen, Bendstrup",Radikale Venstre,1
+Hillerød,12,"Skævinge, Harløse, Strø",C_Listestemmer,Listestemmer,Det Konservative Folkeparti,149
+Hillerød,12,"Skævinge, Harløse, Strø",C_Peter_Ingemann_Bentsen,Peter Ingemann Bentsen,Det Konservative Folkeparti,20
+Hillerød,12,"Skævinge, Harløse, Strø",C_Nikolaj_Frederiksen,Nikolaj Frederiksen,Det Konservative Folkeparti,23
+Hillerød,12,"Skævinge, Harløse, Strø",C_Stine_Østlund,Stine Østlund,Det Konservative Folkeparti,26
+Hillerød,12,"Skævinge, Harløse, Strø",C_Christoffer_Lorenzen,Christoffer Lorenzen,Det Konservative Folkeparti,57
+Hillerød,12,"Skævinge, Harløse, Strø",C_Kate_Horsbøl,Kate Horsbøl,Det Konservative Folkeparti,9
+Hillerød,12,"Skævinge, Harløse, Strø",C_Jonas_Lyberg_Kofod,Jonas Lyberg Kofod,Det Konservative Folkeparti,26
+Hillerød,12,"Skævinge, Harløse, Strø",C_Lars_Bennetzen,Lars Bennetzen,Det Konservative Folkeparti,2
+Hillerød,12,"Skævinge, Harløse, Strø",C_Jannick_Holm,Jannick Holm,Det Konservative Folkeparti,1
+Hillerød,12,"Skævinge, Harløse, Strø",C_Lars_W._Hansen,Lars W. Hansen,Det Konservative Folkeparti,6
+Hillerød,12,"Skævinge, Harløse, Strø",C_Brian_Nedergaard,Brian Nedergaard,Det Konservative Folkeparti,7
+Hillerød,12,"Skævinge, Harløse, Strø",C_Anders_Theisen,Anders Theisen,Det Konservative Folkeparti,12
+Hillerød,12,"Skævinge, Harløse, Strø",C_Manuel_Vigilius,Manuel Vigilius,Det Konservative Folkeparti,4
+Hillerød,12,"Skævinge, Harløse, Strø",C_Niels_Bang-Ebbestrup,Niels Bang-Ebbestrup,Det Konservative Folkeparti,2
+Hillerød,12,"Skævinge, Harløse, Strø",C_Henrik_Taankvist,Henrik Taankvist,Det Konservative Folkeparti,16
+Hillerød,12,"Skævinge, Harløse, Strø",C_Anni_Nielsen,Anni Nielsen,Det Konservative Folkeparti,2
+Hillerød,12,"Skævinge, Harløse, Strø",C_Poul_Rohlin_Nielsen,Poul Rohlin Nielsen,Det Konservative Folkeparti,0
+Hillerød,12,"Skævinge, Harløse, Strø",D_Listestemmer,Listestemmer,Nye Borgerlige,82
+Hillerød,12,"Skævinge, Harløse, Strø",D_Morten_Bille,Morten Bille,Nye Borgerlige,53
+Hillerød,12,"Skævinge, Harløse, Strø",D_John_S._Falch,John S. Falch,Nye Borgerlige,0
+Hillerød,12,"Skævinge, Harløse, Strø",D_Martin_Vinther,Martin Vinther,Nye Borgerlige,14
+Hillerød,12,"Skævinge, Harløse, Strø",D_Kenn_Hadberg,Kenn Hadberg,Nye Borgerlige,6
+Hillerød,12,"Skævinge, Harløse, Strø",F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,60
+Hillerød,12,"Skævinge, Harløse, Strø",F_Lars_Elbrandt,Lars Elbrandt,SF - Socialistisk Folkeparti,34
+Hillerød,12,"Skævinge, Harløse, Strø",F_Janne_Lunding_Olsen,Janne Lunding Olsen,SF - Socialistisk Folkeparti,12
+Hillerød,12,"Skævinge, Harløse, Strø",F_Mads_Munk_Hansen,Mads Munk Hansen,SF - Socialistisk Folkeparti,10
+Hillerød,12,"Skævinge, Harløse, Strø",F_Rasmus_Alexander_Meyer,Rasmus Alexander Meyer,SF - Socialistisk Folkeparti,3
+Hillerød,12,"Skævinge, Harløse, Strø",F_Flemming_Thornæs,Flemming Thornæs,SF - Socialistisk Folkeparti,0
+Hillerød,12,"Skævinge, Harløse, Strø",F_Rikke_Macholm,Rikke Macholm,SF - Socialistisk Folkeparti,9
+Hillerød,12,"Skævinge, Harløse, Strø",F_Michael_Liesk,Michael Liesk,SF - Socialistisk Folkeparti,7
+Hillerød,12,"Skævinge, Harløse, Strø",F_Silje_Brynildsen,Silje Brynildsen,SF - Socialistisk Folkeparti,2
+Hillerød,12,"Skævinge, Harløse, Strø",F_Søren_Lerche,Søren Lerche,SF - Socialistisk Folkeparti,27
+Hillerød,12,"Skævinge, Harløse, Strø",F_Laila_Dall,Laila Dall,SF - Socialistisk Folkeparti,2
+Hillerød,12,"Skævinge, Harløse, Strø",F_Peter_Langer,Peter Langer,SF - Socialistisk Folkeparti,4
+Hillerød,12,"Skævinge, Harløse, Strø",I_Listestemmer,Listestemmer,Liberal Alliance,15
+Hillerød,12,"Skævinge, Harløse, Strø",I_Elisabeth_Stieper_Tofte,Elisabeth Stieper Tofte,Liberal Alliance,11
+Hillerød,12,"Skævinge, Harløse, Strø",I_Ulrik_Ringgaard_Mathorne,Ulrik Ringgaard Mathorne,Liberal Alliance,0
+Hillerød,12,"Skævinge, Harløse, Strø",I_Martin_Plambæk,Martin Plambæk,Liberal Alliance,3
+Hillerød,12,"Skævinge, Harløse, Strø",K_Listestemmer,Listestemmer,Kristendemokraterne,5
+Hillerød,12,"Skævinge, Harløse, Strø",K_Henrik_Forsberg,Henrik Forsberg,Kristendemokraterne,4
+Hillerød,12,"Skævinge, Harløse, Strø",O_Listestemmer,Listestemmer,Dansk Folkeparti,13
+Hillerød,12,"Skævinge, Harløse, Strø",O_Lars_Ole_Skovgaard_Larsen,Lars Ole Skovgaard Larsen,Dansk Folkeparti,76
+Hillerød,12,"Skævinge, Harløse, Strø",O_Jette_Juul,Jette Juul,Dansk Folkeparti,30
+Hillerød,12,"Skævinge, Harløse, Strø",O_Henning_Westermann,Henning Westermann,Dansk Folkeparti,0
+Hillerød,12,"Skævinge, Harløse, Strø",V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",99
+Hillerød,12,"Skævinge, Harløse, Strø","V_Klaus_Markussen,_Hillerød","Klaus Markussen, Hillerød","Venstre, Danmarks Liberale Parti",80
+Hillerød,12,"Skævinge, Harløse, Strø","V_Dan_Riise,_Skævinge","Dan Riise, Skævinge","Venstre, Danmarks Liberale Parti",193
+Hillerød,12,"Skævinge, Harløse, Strø","V_Peter_Frederiksen,_Uvelse","Peter Frederiksen, Uvelse","Venstre, Danmarks Liberale Parti",5
+Hillerød,12,"Skævinge, Harløse, Strø","V_Annette_Rieva,_Alsønderup","Annette Rieva, Alsønderup","Venstre, Danmarks Liberale Parti",19
+Hillerød,12,"Skævinge, Harløse, Strø","V_Øzgen_Yücel,_Hillerød","Øzgen Yücel, Hillerød","Venstre, Danmarks Liberale Parti",17
+Hillerød,12,"Skævinge, Harløse, Strø","V_Hanne_Kirkegaard,_Hillerød","Hanne Kirkegaard, Hillerød","Venstre, Danmarks Liberale Parti",94
+Hillerød,12,"Skævinge, Harløse, Strø","V_Thomas_Elong,_Hillerød","Thomas Elong, Hillerød","Venstre, Danmarks Liberale Parti",41
+Hillerød,12,"Skævinge, Harløse, Strø","V_Ole_Roed_Jakobsen,_Meløse","Ole Roed Jakobsen, Meløse","Venstre, Danmarks Liberale Parti",61
+Hillerød,12,"Skævinge, Harløse, Strø","V_Louise_Diamant,_Hillerød","Louise Diamant, Hillerød","Venstre, Danmarks Liberale Parti",1
+Hillerød,12,"Skævinge, Harløse, Strø","V_Dragan_Popovic,_Hillerød","Dragan Popovic, Hillerød","Venstre, Danmarks Liberale Parti",12
+Hillerød,12,"Skævinge, Harløse, Strø","V_Pernille_Svarre,_Alsønderup","Pernille Svarre, Alsønderup","Venstre, Danmarks Liberale Parti",14
+Hillerød,12,"Skævinge, Harløse, Strø","V_Frederik_Bang,_Hillerød","Frederik Bang, Hillerød","Venstre, Danmarks Liberale Parti",8
+Hillerød,12,"Skævinge, Harløse, Strø","V_Peter_Lennø,_Hillerød","Peter Lennø, Hillerød","Venstre, Danmarks Liberale Parti",0
+Hillerød,12,"Skævinge, Harløse, Strø","V_Mathias_Skarby,_Nørre_Herlev","Mathias Skarby, Nørre Herlev","Venstre, Danmarks Liberale Parti",2
+Hillerød,12,"Skævinge, Harløse, Strø","V_Camilla_Kerlauge,_Hillerød","Camilla Kerlauge, Hillerød","Venstre, Danmarks Liberale Parti",1
+Hillerød,12,"Skævinge, Harløse, Strø","V_Ole_Stark,_Harløse","Ole Stark, Harløse","Venstre, Danmarks Liberale Parti",25
+Hillerød,12,"Skævinge, Harløse, Strø","V_Thomas_Petersen,_Hillerød","Thomas Petersen, Hillerød","Venstre, Danmarks Liberale Parti",2
+Hillerød,12,"Skævinge, Harløse, Strø","V_René_Hamberg,_Hillerød","René Hamberg, Hillerød","Venstre, Danmarks Liberale Parti",0
+Hillerød,12,"Skævinge, Harløse, Strø","V_Jens_Estrup,_Ullerød","Jens Estrup, Ullerød","Venstre, Danmarks Liberale Parti",2
+Hillerød,12,"Skævinge, Harløse, Strø","V_René_Christensen,_Hillerød","René Christensen, Hillerød","Venstre, Danmarks Liberale Parti",1
+Hillerød,12,"Skævinge, Harløse, Strø","V_Lorna_Birgitte_Rudd,_Nødebo","Lorna Birgitte Rudd, Nødebo","Venstre, Danmarks Liberale Parti",1
+Hillerød,12,"Skævinge, Harløse, Strø","V_Sven_Lynge,_St._Lyngby","Sven Lynge, St. Lyngby","Venstre, Danmarks Liberale Parti",0
+Hillerød,12,"Skævinge, Harløse, Strø","V_Torben_Rønne_Petersen,_Gørløse","Torben Rønne Petersen, Gørløse","Venstre, Danmarks Liberale Parti",0
+Hillerød,12,"Skævinge, Harløse, Strø",Æ_Listestemmer,Listestemmer,Frihedslisten,0
+Hillerød,12,"Skævinge, Harløse, Strø",Æ_Bjarne_Holm,Bjarne Holm,Frihedslisten,3
+Hillerød,12,"Skævinge, Harløse, Strø",Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,34
+Hillerød,12,"Skævinge, Harløse, Strø",Ø_Tue_Tortzen,Tue Tortzen,Enhedslisten - De Rød-Grønne,29
+Hillerød,12,"Skævinge, Harløse, Strø",Ø_Sabri_Yilmaz,Sabri Yilmaz,Enhedslisten - De Rød-Grønne,14
+Hillerød,12,"Skævinge, Harløse, Strø",Ø_Anne_Mette_Isabel_Nielsen,Anne Mette Isabel Nielsen,Enhedslisten - De Rød-Grønne,7
+Hillerød,12,"Skævinge, Harløse, Strø",Ø_Hildur_Johnson,Hildur Johnson,Enhedslisten - De Rød-Grønne,1
+Hillerød,12,"Skævinge, Harløse, Strø",Ø_Karl_Erik_Rasmussen,Karl Erik Rasmussen,Enhedslisten - De Rød-Grønne,1
+Hillerød,13,Gørløse,A_Listestemmer,Listestemmer,Socialdemokratiet,57
+Hillerød,13,Gørløse,A_Kirsten_Jensen,Kirsten Jensen,Socialdemokratiet,82
+Hillerød,13,Gørløse,A_Thomas_Brücker,Thomas Brücker,Socialdemokratiet,1
+Hillerød,13,Gørløse,A_Louise_Colding,Louise Colding,Socialdemokratiet,6
+Hillerød,13,Gørløse,A_Susanne_Due_Kristensen,Susanne Due Kristensen,Socialdemokratiet,10
+Hillerød,13,Gørløse,A_Jamil_Cheheibar,Jamil Cheheibar,Socialdemokratiet,1
+Hillerød,13,Gørløse,A_Mie_Lausten,Mie Lausten,Socialdemokratiet,11
+Hillerød,13,Gørløse,A_Vivi_Wøldike,Vivi Wøldike,Socialdemokratiet,2
+Hillerød,13,Gørløse,A_Mathilde_Clauson-Kaas,Mathilde Clauson-Kaas,Socialdemokratiet,4
+Hillerød,13,Gørløse,A_Mustafa_Adham,Mustafa Adham,Socialdemokratiet,1
+Hillerød,13,Gørløse,A_Niels_Nedergaard,Niels Nedergaard,Socialdemokratiet,0
+Hillerød,13,Gørløse,A_Jens_Græsted,Jens Græsted,Socialdemokratiet,2
+Hillerød,13,Gørløse,A_Emil_Colding_Sørensen,Emil Colding Sørensen,Socialdemokratiet,0
+Hillerød,13,Gørløse,A_Ingo_Hvid,Ingo Hvid,Socialdemokratiet,0
+Hillerød,13,Gørløse,A_Heidi_Liljedahl,Heidi Liljedahl,Socialdemokratiet,0
+Hillerød,13,Gørløse,A_Kenneth_Østed,Kenneth Østed,Socialdemokratiet,0
+Hillerød,13,Gørløse,A_Nanna_Kjær,Nanna Kjær,Socialdemokratiet,3
+Hillerød,13,Gørløse,A_Peder_Bisgaard,Peder Bisgaard,Socialdemokratiet,3
+Hillerød,13,Gørløse,B_Listestemmer,Listestemmer,Radikale Venstre,5
+Hillerød,13,Gørløse,"B_Christina_Thorholm,_Nødebo","Christina Thorholm, Nødebo",Radikale Venstre,8
+Hillerød,13,Gørløse,"B_Jørgen_Suhr,_Hillerød_Vest","Jørgen Suhr, Hillerød Vest",Radikale Venstre,4
+Hillerød,13,Gørløse,"B_Charlotte_Kaufmanas,_Hillerød_Øst","Charlotte Kaufmanas, Hillerød Øst",Radikale Venstre,4
+Hillerød,13,Gørløse,"B_Mette_Grønvaldt,_Hillerød_Øst","Mette Grønvaldt, Hillerød Øst",Radikale Venstre,2
+Hillerød,13,Gørløse,"B_Anne_Lintrup,_Hillerød_C","Anne Lintrup, Hillerød C",Radikale Venstre,0
+Hillerød,13,Gørløse,"B_Lasse_K._Rasmussen,_Bendstrup","Lasse K. Rasmussen, Bendstrup",Radikale Venstre,0
+Hillerød,13,Gørløse,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,39
+Hillerød,13,Gørløse,C_Peter_Ingemann_Bentsen,Peter Ingemann Bentsen,Det Konservative Folkeparti,9
+Hillerød,13,Gørløse,C_Nikolaj_Frederiksen,Nikolaj Frederiksen,Det Konservative Folkeparti,6
+Hillerød,13,Gørløse,C_Stine_Østlund,Stine Østlund,Det Konservative Folkeparti,11
+Hillerød,13,Gørløse,C_Christoffer_Lorenzen,Christoffer Lorenzen,Det Konservative Folkeparti,14
+Hillerød,13,Gørløse,C_Kate_Horsbøl,Kate Horsbøl,Det Konservative Folkeparti,2
+Hillerød,13,Gørløse,C_Jonas_Lyberg_Kofod,Jonas Lyberg Kofod,Det Konservative Folkeparti,4
+Hillerød,13,Gørløse,C_Lars_Bennetzen,Lars Bennetzen,Det Konservative Folkeparti,2
+Hillerød,13,Gørløse,C_Jannick_Holm,Jannick Holm,Det Konservative Folkeparti,0
+Hillerød,13,Gørløse,C_Lars_W._Hansen,Lars W. Hansen,Det Konservative Folkeparti,0
+Hillerød,13,Gørløse,C_Brian_Nedergaard,Brian Nedergaard,Det Konservative Folkeparti,4
+Hillerød,13,Gørløse,C_Anders_Theisen,Anders Theisen,Det Konservative Folkeparti,3
+Hillerød,13,Gørløse,C_Manuel_Vigilius,Manuel Vigilius,Det Konservative Folkeparti,3
+Hillerød,13,Gørløse,C_Niels_Bang-Ebbestrup,Niels Bang-Ebbestrup,Det Konservative Folkeparti,0
+Hillerød,13,Gørløse,C_Henrik_Taankvist,Henrik Taankvist,Det Konservative Folkeparti,1
+Hillerød,13,Gørløse,C_Anni_Nielsen,Anni Nielsen,Det Konservative Folkeparti,0
+Hillerød,13,Gørløse,C_Poul_Rohlin_Nielsen,Poul Rohlin Nielsen,Det Konservative Folkeparti,0
+Hillerød,13,Gørløse,D_Listestemmer,Listestemmer,Nye Borgerlige,17
+Hillerød,13,Gørløse,D_Morten_Bille,Morten Bille,Nye Borgerlige,11
+Hillerød,13,Gørløse,D_John_S._Falch,John S. Falch,Nye Borgerlige,0
+Hillerød,13,Gørløse,D_Martin_Vinther,Martin Vinther,Nye Borgerlige,1
+Hillerød,13,Gørløse,D_Kenn_Hadberg,Kenn Hadberg,Nye Borgerlige,2
+Hillerød,13,Gørløse,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,16
+Hillerød,13,Gørløse,F_Lars_Elbrandt,Lars Elbrandt,SF - Socialistisk Folkeparti,3
+Hillerød,13,Gørløse,F_Janne_Lunding_Olsen,Janne Lunding Olsen,SF - Socialistisk Folkeparti,5
+Hillerød,13,Gørløse,F_Mads_Munk_Hansen,Mads Munk Hansen,SF - Socialistisk Folkeparti,9
+Hillerød,13,Gørløse,F_Rasmus_Alexander_Meyer,Rasmus Alexander Meyer,SF - Socialistisk Folkeparti,1
+Hillerød,13,Gørløse,F_Flemming_Thornæs,Flemming Thornæs,SF - Socialistisk Folkeparti,0
+Hillerød,13,Gørløse,F_Rikke_Macholm,Rikke Macholm,SF - Socialistisk Folkeparti,0
+Hillerød,13,Gørløse,F_Michael_Liesk,Michael Liesk,SF - Socialistisk Folkeparti,1
+Hillerød,13,Gørløse,F_Silje_Brynildsen,Silje Brynildsen,SF - Socialistisk Folkeparti,2
+Hillerød,13,Gørløse,F_Søren_Lerche,Søren Lerche,SF - Socialistisk Folkeparti,7
+Hillerød,13,Gørløse,F_Laila_Dall,Laila Dall,SF - Socialistisk Folkeparti,0
+Hillerød,13,Gørløse,F_Peter_Langer,Peter Langer,SF - Socialistisk Folkeparti,1
+Hillerød,13,Gørløse,I_Listestemmer,Listestemmer,Liberal Alliance,9
+Hillerød,13,Gørløse,I_Elisabeth_Stieper_Tofte,Elisabeth Stieper Tofte,Liberal Alliance,11
+Hillerød,13,Gørløse,I_Ulrik_Ringgaard_Mathorne,Ulrik Ringgaard Mathorne,Liberal Alliance,1
+Hillerød,13,Gørløse,I_Martin_Plambæk,Martin Plambæk,Liberal Alliance,1
+Hillerød,13,Gørløse,K_Listestemmer,Listestemmer,Kristendemokraterne,0
+Hillerød,13,Gørløse,K_Henrik_Forsberg,Henrik Forsberg,Kristendemokraterne,2
+Hillerød,13,Gørløse,O_Listestemmer,Listestemmer,Dansk Folkeparti,13
+Hillerød,13,Gørløse,O_Lars_Ole_Skovgaard_Larsen,Lars Ole Skovgaard Larsen,Dansk Folkeparti,240
+Hillerød,13,Gørløse,O_Jette_Juul,Jette Juul,Dansk Folkeparti,7
+Hillerød,13,Gørløse,O_Henning_Westermann,Henning Westermann,Dansk Folkeparti,0
+Hillerød,13,Gørløse,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",33
+Hillerød,13,Gørløse,"V_Klaus_Markussen,_Hillerød","Klaus Markussen, Hillerød","Venstre, Danmarks Liberale Parti",14
+Hillerød,13,Gørløse,"V_Dan_Riise,_Skævinge","Dan Riise, Skævinge","Venstre, Danmarks Liberale Parti",8
+Hillerød,13,Gørløse,"V_Peter_Frederiksen,_Uvelse","Peter Frederiksen, Uvelse","Venstre, Danmarks Liberale Parti",8
+Hillerød,13,Gørløse,"V_Annette_Rieva,_Alsønderup","Annette Rieva, Alsønderup","Venstre, Danmarks Liberale Parti",3
+Hillerød,13,Gørløse,"V_Øzgen_Yücel,_Hillerød","Øzgen Yücel, Hillerød","Venstre, Danmarks Liberale Parti",1
+Hillerød,13,Gørløse,"V_Hanne_Kirkegaard,_Hillerød","Hanne Kirkegaard, Hillerød","Venstre, Danmarks Liberale Parti",11
+Hillerød,13,Gørløse,"V_Thomas_Elong,_Hillerød","Thomas Elong, Hillerød","Venstre, Danmarks Liberale Parti",3
+Hillerød,13,Gørløse,"V_Ole_Roed_Jakobsen,_Meløse","Ole Roed Jakobsen, Meløse","Venstre, Danmarks Liberale Parti",6
+Hillerød,13,Gørløse,"V_Louise_Diamant,_Hillerød","Louise Diamant, Hillerød","Venstre, Danmarks Liberale Parti",0
+Hillerød,13,Gørløse,"V_Dragan_Popovic,_Hillerød","Dragan Popovic, Hillerød","Venstre, Danmarks Liberale Parti",4
+Hillerød,13,Gørløse,"V_Pernille_Svarre,_Alsønderup","Pernille Svarre, Alsønderup","Venstre, Danmarks Liberale Parti",4
+Hillerød,13,Gørløse,"V_Frederik_Bang,_Hillerød","Frederik Bang, Hillerød","Venstre, Danmarks Liberale Parti",0
+Hillerød,13,Gørløse,"V_Peter_Lennø,_Hillerød","Peter Lennø, Hillerød","Venstre, Danmarks Liberale Parti",1
+Hillerød,13,Gørløse,"V_Mathias_Skarby,_Nørre_Herlev","Mathias Skarby, Nørre Herlev","Venstre, Danmarks Liberale Parti",5
+Hillerød,13,Gørløse,"V_Camilla_Kerlauge,_Hillerød","Camilla Kerlauge, Hillerød","Venstre, Danmarks Liberale Parti",0
+Hillerød,13,Gørløse,"V_Ole_Stark,_Harløse","Ole Stark, Harløse","Venstre, Danmarks Liberale Parti",1
+Hillerød,13,Gørløse,"V_Thomas_Petersen,_Hillerød","Thomas Petersen, Hillerød","Venstre, Danmarks Liberale Parti",0
+Hillerød,13,Gørløse,"V_René_Hamberg,_Hillerød","René Hamberg, Hillerød","Venstre, Danmarks Liberale Parti",3
+Hillerød,13,Gørløse,"V_Jens_Estrup,_Ullerød","Jens Estrup, Ullerød","Venstre, Danmarks Liberale Parti",0
+Hillerød,13,Gørløse,"V_René_Christensen,_Hillerød","René Christensen, Hillerød","Venstre, Danmarks Liberale Parti",0
+Hillerød,13,Gørløse,"V_Lorna_Birgitte_Rudd,_Nødebo","Lorna Birgitte Rudd, Nødebo","Venstre, Danmarks Liberale Parti",0
+Hillerød,13,Gørløse,"V_Sven_Lynge,_St._Lyngby","Sven Lynge, St. Lyngby","Venstre, Danmarks Liberale Parti",0
+Hillerød,13,Gørløse,"V_Torben_Rønne_Petersen,_Gørløse","Torben Rønne Petersen, Gørløse","Venstre, Danmarks Liberale Parti",5
+Hillerød,13,Gørløse,Æ_Listestemmer,Listestemmer,Frihedslisten,3
+Hillerød,13,Gørløse,Æ_Bjarne_Holm,Bjarne Holm,Frihedslisten,0
+Hillerød,13,Gørløse,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,9
+Hillerød,13,Gørløse,Ø_Tue_Tortzen,Tue Tortzen,Enhedslisten - De Rød-Grønne,1
+Hillerød,13,Gørløse,Ø_Sabri_Yilmaz,Sabri Yilmaz,Enhedslisten - De Rød-Grønne,28
+Hillerød,13,Gørløse,Ø_Anne_Mette_Isabel_Nielsen,Anne Mette Isabel Nielsen,Enhedslisten - De Rød-Grønne,5
+Hillerød,13,Gørløse,Ø_Hildur_Johnson,Hildur Johnson,Enhedslisten - De Rød-Grønne,4
+Hillerød,13,Gørløse,Ø_Karl_Erik_Rasmussen,Karl Erik Rasmussen,Enhedslisten - De Rød-Grønne,0
+Hillerød,14,Uvelse,A_Listestemmer,Listestemmer,Socialdemokratiet,49
+Hillerød,14,Uvelse,A_Kirsten_Jensen,Kirsten Jensen,Socialdemokratiet,41
+Hillerød,14,Uvelse,A_Thomas_Brücker,Thomas Brücker,Socialdemokratiet,4
+Hillerød,14,Uvelse,A_Louise_Colding,Louise Colding,Socialdemokratiet,4
+Hillerød,14,Uvelse,A_Susanne_Due_Kristensen,Susanne Due Kristensen,Socialdemokratiet,155
+Hillerød,14,Uvelse,A_Jamil_Cheheibar,Jamil Cheheibar,Socialdemokratiet,0
+Hillerød,14,Uvelse,A_Mie_Lausten,Mie Lausten,Socialdemokratiet,4
+Hillerød,14,Uvelse,A_Vivi_Wøldike,Vivi Wøldike,Socialdemokratiet,0
+Hillerød,14,Uvelse,A_Mathilde_Clauson-Kaas,Mathilde Clauson-Kaas,Socialdemokratiet,4
+Hillerød,14,Uvelse,A_Mustafa_Adham,Mustafa Adham,Socialdemokratiet,3
+Hillerød,14,Uvelse,A_Niels_Nedergaard,Niels Nedergaard,Socialdemokratiet,2
+Hillerød,14,Uvelse,A_Jens_Græsted,Jens Græsted,Socialdemokratiet,0
+Hillerød,14,Uvelse,A_Emil_Colding_Sørensen,Emil Colding Sørensen,Socialdemokratiet,2
+Hillerød,14,Uvelse,A_Ingo_Hvid,Ingo Hvid,Socialdemokratiet,0
+Hillerød,14,Uvelse,A_Heidi_Liljedahl,Heidi Liljedahl,Socialdemokratiet,0
+Hillerød,14,Uvelse,A_Kenneth_Østed,Kenneth Østed,Socialdemokratiet,0
+Hillerød,14,Uvelse,A_Nanna_Kjær,Nanna Kjær,Socialdemokratiet,1
+Hillerød,14,Uvelse,A_Peder_Bisgaard,Peder Bisgaard,Socialdemokratiet,3
+Hillerød,14,Uvelse,B_Listestemmer,Listestemmer,Radikale Venstre,9
+Hillerød,14,Uvelse,"B_Christina_Thorholm,_Nødebo","Christina Thorholm, Nødebo",Radikale Venstre,5
+Hillerød,14,Uvelse,"B_Jørgen_Suhr,_Hillerød_Vest","Jørgen Suhr, Hillerød Vest",Radikale Venstre,2
+Hillerød,14,Uvelse,"B_Charlotte_Kaufmanas,_Hillerød_Øst","Charlotte Kaufmanas, Hillerød Øst",Radikale Venstre,0
+Hillerød,14,Uvelse,"B_Mette_Grønvaldt,_Hillerød_Øst","Mette Grønvaldt, Hillerød Øst",Radikale Venstre,1
+Hillerød,14,Uvelse,"B_Anne_Lintrup,_Hillerød_C","Anne Lintrup, Hillerød C",Radikale Venstre,3
+Hillerød,14,Uvelse,"B_Lasse_K._Rasmussen,_Bendstrup","Lasse K. Rasmussen, Bendstrup",Radikale Venstre,0
+Hillerød,14,Uvelse,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,25
+Hillerød,14,Uvelse,C_Peter_Ingemann_Bentsen,Peter Ingemann Bentsen,Det Konservative Folkeparti,4
+Hillerød,14,Uvelse,C_Nikolaj_Frederiksen,Nikolaj Frederiksen,Det Konservative Folkeparti,5
+Hillerød,14,Uvelse,C_Stine_Østlund,Stine Østlund,Det Konservative Folkeparti,5
+Hillerød,14,Uvelse,C_Christoffer_Lorenzen,Christoffer Lorenzen,Det Konservative Folkeparti,11
+Hillerød,14,Uvelse,C_Kate_Horsbøl,Kate Horsbøl,Det Konservative Folkeparti,4
+Hillerød,14,Uvelse,C_Jonas_Lyberg_Kofod,Jonas Lyberg Kofod,Det Konservative Folkeparti,2
+Hillerød,14,Uvelse,C_Lars_Bennetzen,Lars Bennetzen,Det Konservative Folkeparti,2
+Hillerød,14,Uvelse,C_Jannick_Holm,Jannick Holm,Det Konservative Folkeparti,0
+Hillerød,14,Uvelse,C_Lars_W._Hansen,Lars W. Hansen,Det Konservative Folkeparti,0
+Hillerød,14,Uvelse,C_Brian_Nedergaard,Brian Nedergaard,Det Konservative Folkeparti,0
+Hillerød,14,Uvelse,C_Anders_Theisen,Anders Theisen,Det Konservative Folkeparti,1
+Hillerød,14,Uvelse,C_Manuel_Vigilius,Manuel Vigilius,Det Konservative Folkeparti,0
+Hillerød,14,Uvelse,C_Niels_Bang-Ebbestrup,Niels Bang-Ebbestrup,Det Konservative Folkeparti,1
+Hillerød,14,Uvelse,C_Henrik_Taankvist,Henrik Taankvist,Det Konservative Folkeparti,0
+Hillerød,14,Uvelse,C_Anni_Nielsen,Anni Nielsen,Det Konservative Folkeparti,1
+Hillerød,14,Uvelse,C_Poul_Rohlin_Nielsen,Poul Rohlin Nielsen,Det Konservative Folkeparti,0
+Hillerød,14,Uvelse,D_Listestemmer,Listestemmer,Nye Borgerlige,25
+Hillerød,14,Uvelse,D_Morten_Bille,Morten Bille,Nye Borgerlige,13
+Hillerød,14,Uvelse,D_John_S._Falch,John S. Falch,Nye Borgerlige,1
+Hillerød,14,Uvelse,D_Martin_Vinther,Martin Vinther,Nye Borgerlige,7
+Hillerød,14,Uvelse,D_Kenn_Hadberg,Kenn Hadberg,Nye Borgerlige,2
+Hillerød,14,Uvelse,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,11
+Hillerød,14,Uvelse,F_Lars_Elbrandt,Lars Elbrandt,SF - Socialistisk Folkeparti,7
+Hillerød,14,Uvelse,F_Janne_Lunding_Olsen,Janne Lunding Olsen,SF - Socialistisk Folkeparti,7
+Hillerød,14,Uvelse,F_Mads_Munk_Hansen,Mads Munk Hansen,SF - Socialistisk Folkeparti,4
+Hillerød,14,Uvelse,F_Rasmus_Alexander_Meyer,Rasmus Alexander Meyer,SF - Socialistisk Folkeparti,1
+Hillerød,14,Uvelse,F_Flemming_Thornæs,Flemming Thornæs,SF - Socialistisk Folkeparti,0
+Hillerød,14,Uvelse,F_Rikke_Macholm,Rikke Macholm,SF - Socialistisk Folkeparti,5
+Hillerød,14,Uvelse,F_Michael_Liesk,Michael Liesk,SF - Socialistisk Folkeparti,1
+Hillerød,14,Uvelse,F_Silje_Brynildsen,Silje Brynildsen,SF - Socialistisk Folkeparti,1
+Hillerød,14,Uvelse,F_Søren_Lerche,Søren Lerche,SF - Socialistisk Folkeparti,7
+Hillerød,14,Uvelse,F_Laila_Dall,Laila Dall,SF - Socialistisk Folkeparti,1
+Hillerød,14,Uvelse,F_Peter_Langer,Peter Langer,SF - Socialistisk Folkeparti,4
+Hillerød,14,Uvelse,I_Listestemmer,Listestemmer,Liberal Alliance,5
+Hillerød,14,Uvelse,I_Elisabeth_Stieper_Tofte,Elisabeth Stieper Tofte,Liberal Alliance,22
+Hillerød,14,Uvelse,I_Ulrik_Ringgaard_Mathorne,Ulrik Ringgaard Mathorne,Liberal Alliance,0
+Hillerød,14,Uvelse,I_Martin_Plambæk,Martin Plambæk,Liberal Alliance,0
+Hillerød,14,Uvelse,K_Listestemmer,Listestemmer,Kristendemokraterne,1
+Hillerød,14,Uvelse,K_Henrik_Forsberg,Henrik Forsberg,Kristendemokraterne,1
+Hillerød,14,Uvelse,O_Listestemmer,Listestemmer,Dansk Folkeparti,13
+Hillerød,14,Uvelse,O_Lars_Ole_Skovgaard_Larsen,Lars Ole Skovgaard Larsen,Dansk Folkeparti,11
+Hillerød,14,Uvelse,O_Jette_Juul,Jette Juul,Dansk Folkeparti,6
+Hillerød,14,Uvelse,O_Henning_Westermann,Henning Westermann,Dansk Folkeparti,2
+Hillerød,14,Uvelse,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",25
+Hillerød,14,Uvelse,"V_Klaus_Markussen,_Hillerød","Klaus Markussen, Hillerød","Venstre, Danmarks Liberale Parti",12
+Hillerød,14,Uvelse,"V_Dan_Riise,_Skævinge","Dan Riise, Skævinge","Venstre, Danmarks Liberale Parti",1
+Hillerød,14,Uvelse,"V_Peter_Frederiksen,_Uvelse","Peter Frederiksen, Uvelse","Venstre, Danmarks Liberale Parti",186
+Hillerød,14,Uvelse,"V_Annette_Rieva,_Alsønderup","Annette Rieva, Alsønderup","Venstre, Danmarks Liberale Parti",5
+Hillerød,14,Uvelse,"V_Øzgen_Yücel,_Hillerød","Øzgen Yücel, Hillerød","Venstre, Danmarks Liberale Parti",1
+Hillerød,14,Uvelse,"V_Hanne_Kirkegaard,_Hillerød","Hanne Kirkegaard, Hillerød","Venstre, Danmarks Liberale Parti",2
+Hillerød,14,Uvelse,"V_Thomas_Elong,_Hillerød","Thomas Elong, Hillerød","Venstre, Danmarks Liberale Parti",6
+Hillerød,14,Uvelse,"V_Ole_Roed_Jakobsen,_Meløse","Ole Roed Jakobsen, Meløse","Venstre, Danmarks Liberale Parti",0
+Hillerød,14,Uvelse,"V_Louise_Diamant,_Hillerød","Louise Diamant, Hillerød","Venstre, Danmarks Liberale Parti",0
+Hillerød,14,Uvelse,"V_Dragan_Popovic,_Hillerød","Dragan Popovic, Hillerød","Venstre, Danmarks Liberale Parti",0
+Hillerød,14,Uvelse,"V_Pernille_Svarre,_Alsønderup","Pernille Svarre, Alsønderup","Venstre, Danmarks Liberale Parti",2
+Hillerød,14,Uvelse,"V_Frederik_Bang,_Hillerød","Frederik Bang, Hillerød","Venstre, Danmarks Liberale Parti",0
+Hillerød,14,Uvelse,"V_Peter_Lennø,_Hillerød","Peter Lennø, Hillerød","Venstre, Danmarks Liberale Parti",0
+Hillerød,14,Uvelse,"V_Mathias_Skarby,_Nørre_Herlev","Mathias Skarby, Nørre Herlev","Venstre, Danmarks Liberale Parti",2
+Hillerød,14,Uvelse,"V_Camilla_Kerlauge,_Hillerød","Camilla Kerlauge, Hillerød","Venstre, Danmarks Liberale Parti",0
+Hillerød,14,Uvelse,"V_Ole_Stark,_Harløse","Ole Stark, Harløse","Venstre, Danmarks Liberale Parti",0
+Hillerød,14,Uvelse,"V_Thomas_Petersen,_Hillerød","Thomas Petersen, Hillerød","Venstre, Danmarks Liberale Parti",0
+Hillerød,14,Uvelse,"V_René_Hamberg,_Hillerød","René Hamberg, Hillerød","Venstre, Danmarks Liberale Parti",0
+Hillerød,14,Uvelse,"V_Jens_Estrup,_Ullerød","Jens Estrup, Ullerød","Venstre, Danmarks Liberale Parti",0
+Hillerød,14,Uvelse,"V_René_Christensen,_Hillerød","René Christensen, Hillerød","Venstre, Danmarks Liberale Parti",0
+Hillerød,14,Uvelse,"V_Lorna_Birgitte_Rudd,_Nødebo","Lorna Birgitte Rudd, Nødebo","Venstre, Danmarks Liberale Parti",0
+Hillerød,14,Uvelse,"V_Sven_Lynge,_St._Lyngby","Sven Lynge, St. Lyngby","Venstre, Danmarks Liberale Parti",0
+Hillerød,14,Uvelse,"V_Torben_Rønne_Petersen,_Gørløse","Torben Rønne Petersen, Gørløse","Venstre, Danmarks Liberale Parti",0
+Hillerød,14,Uvelse,Æ_Listestemmer,Listestemmer,Frihedslisten,1
+Hillerød,14,Uvelse,Æ_Bjarne_Holm,Bjarne Holm,Frihedslisten,1
+Hillerød,14,Uvelse,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,4
+Hillerød,14,Uvelse,Ø_Tue_Tortzen,Tue Tortzen,Enhedslisten - De Rød-Grønne,12
+Hillerød,14,Uvelse,Ø_Sabri_Yilmaz,Sabri Yilmaz,Enhedslisten - De Rød-Grønne,6
+Hillerød,14,Uvelse,Ø_Anne_Mette_Isabel_Nielsen,Anne Mette Isabel Nielsen,Enhedslisten - De Rød-Grønne,8
+Hillerød,14,Uvelse,Ø_Hildur_Johnson,Hildur Johnson,Enhedslisten - De Rød-Grønne,5
+Hillerød,14,Uvelse,Ø_Karl_Erik_Rasmussen,Karl Erik Rasmussen,Enhedslisten - De Rød-Grønne,0

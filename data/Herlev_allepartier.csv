@@ -1,0 +1,265 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Herlev,1,Herlev Medborgerhus,A_Listestemmer,Listestemmer,Socialdemokratiet,444
+Herlev,1,Herlev Medborgerhus,A_Thomas_Gyldal_Petersen,Thomas Gyldal Petersen,Socialdemokratiet,1140
+Herlev,1,Herlev Medborgerhus,A_Lars_Mann_Pedersen,Lars Mann Pedersen,Socialdemokratiet,33
+Herlev,1,Herlev Medborgerhus,A_Gitte_Friberg_Bomholdt,Gitte Friberg Bomholdt,Socialdemokratiet,67
+Herlev,1,Herlev Medborgerhus,A_Marco_Anders_Damgaard,Marco Anders Damgaard,Socialdemokratiet,59
+Herlev,1,Herlev Medborgerhus,A_Michele_Møller_Amundsen,Michele Møller Amundsen,Socialdemokratiet,78
+Herlev,1,Herlev Medborgerhus,A_Bo_Carle_Zabel,Bo Carle Zabel,Socialdemokratiet,61
+Herlev,1,Herlev Medborgerhus,A_André_Lyhne_Nørager,André Lyhne Nørager,Socialdemokratiet,12
+Herlev,1,Herlev Medborgerhus,A_Maria_Irene_Mankov,Maria Irene Mankov,Socialdemokratiet,51
+Herlev,1,Herlev Medborgerhus,A_Stefan_Bruun_Rasmussen,Stefan Bruun Rasmussen,Socialdemokratiet,15
+Herlev,1,Herlev Medborgerhus,A_Hanne_Brusgaard_Holst,Hanne Brusgaard Holst,Socialdemokratiet,16
+Herlev,1,Herlev Medborgerhus,A_René_John_Brohammer_Hansen,René John Brohammer Hansen,Socialdemokratiet,23
+Herlev,1,Herlev Medborgerhus,A_Vibs_Løsekrug_Hansen,Vibs Løsekrug Hansen,Socialdemokratiet,9
+Herlev,1,Herlev Medborgerhus,A_Jan_Mogensen,Jan Mogensen,Socialdemokratiet,12
+Herlev,1,Herlev Medborgerhus,A_Henrik_Sundstrup,Henrik Sundstrup,Socialdemokratiet,39
+Herlev,1,Herlev Medborgerhus,A_Connie_Irene_Mankov,Connie Irene Mankov,Socialdemokratiet,28
+Herlev,1,Herlev Medborgerhus,A_Conni_Rosendahl,Conni Rosendahl,Socialdemokratiet,23
+Herlev,1,Herlev Medborgerhus,A_Søren_Homann_Nielsen,Søren Homann Nielsen,Socialdemokratiet,15
+Herlev,1,Herlev Medborgerhus,B_Listestemmer,Listestemmer,Radikale Venstre,56
+Herlev,1,Herlev Medborgerhus,B_Deniz_Kücükavci,Deniz Kücükavci,Radikale Venstre,57
+Herlev,1,Herlev Medborgerhus,B_Jens_Frost,Jens Frost,Radikale Venstre,60
+Herlev,1,Herlev Medborgerhus,B_Agha_Abbas_Razvi,Agha Abbas Razvi,Radikale Venstre,28
+Herlev,1,Herlev Medborgerhus,B_Kaloua_Digbeu_-_Larsen,Kaloua Digbeu - Larsen,Radikale Venstre,8
+Herlev,1,Herlev Medborgerhus,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,246
+Herlev,1,Herlev Medborgerhus,C_Henrik_Hilleberg,Henrik Hilleberg,Det Konservative Folkeparti,241
+Herlev,1,Herlev Medborgerhus,C_Hanne_Bonderup_Bjørn-Klausen,Hanne Bonderup Bjørn-Klausen,Det Konservative Folkeparti,86
+Herlev,1,Herlev Medborgerhus,C_Jacob_Aagesen,Jacob Aagesen,Det Konservative Folkeparti,35
+Herlev,1,Herlev Medborgerhus,C_Ivan_Skafte-Bundgaard,Ivan Skafte-Bundgaard,Det Konservative Folkeparti,10
+Herlev,1,Herlev Medborgerhus,C_Ole_René_D_B_Pedersen,Ole René D B Pedersen,Det Konservative Folkeparti,6
+Herlev,1,Herlev Medborgerhus,C_Chresten_Valdemar_Heide-Anderson,Chresten Valdemar Heide-Anderson,Det Konservative Folkeparti,7
+Herlev,1,Herlev Medborgerhus,C_Dorte_Vilhelmsen,Dorte Vilhelmsen,Det Konservative Folkeparti,63
+Herlev,1,Herlev Medborgerhus,C_Morten_Brørup,Morten Brørup,Det Konservative Folkeparti,9
+Herlev,1,Herlev Medborgerhus,C_Carsten_Sonne_Pedersen,Carsten Sonne Pedersen,Det Konservative Folkeparti,3
+Herlev,1,Herlev Medborgerhus,C_Jeannet_Lauenborg,Jeannet Lauenborg,Det Konservative Folkeparti,20
+Herlev,1,Herlev Medborgerhus,C_Henrik_Laursen,Henrik Laursen,Det Konservative Folkeparti,25
+Herlev,1,Herlev Medborgerhus,D_Listestemmer,Listestemmer,Nye Borgerlige,58
+Herlev,1,Herlev Medborgerhus,D_Ditte_Landin,Ditte Landin,Nye Borgerlige,25
+Herlev,1,Herlev Medborgerhus,D_Morten_Mølkær_Larsen,Morten Mølkær Larsen,Nye Borgerlige,7
+Herlev,1,Herlev Medborgerhus,D_Jihmmy_Peter_Bach-Friis,Jihmmy Peter Bach-Friis,Nye Borgerlige,16
+Herlev,1,Herlev Medborgerhus,D_Bjarne_Rostad_Olsen,Bjarne Rostad Olsen,Nye Borgerlige,1
+Herlev,1,Herlev Medborgerhus,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,105
+Herlev,1,Herlev Medborgerhus,F_Betina_Skovby,Betina Skovby,SF - Socialistisk Folkeparti,240
+Herlev,1,Herlev Medborgerhus,F_Arly_John_Eskildsen,Arly John Eskildsen,SF - Socialistisk Folkeparti,124
+Herlev,1,Herlev Medborgerhus,F_Samira_Akbari,Samira Akbari,SF - Socialistisk Folkeparti,32
+Herlev,1,Herlev Medborgerhus,F_Anja_Henriksen,Anja Henriksen,SF - Socialistisk Folkeparti,27
+Herlev,1,Herlev Medborgerhus,F_Jacob_Møller_Rasmussen,Jacob Møller Rasmussen,SF - Socialistisk Folkeparti,15
+Herlev,1,Herlev Medborgerhus,F_Malou_Granskov_Skovby,Malou Granskov Skovby,SF - Socialistisk Folkeparti,10
+Herlev,1,Herlev Medborgerhus,F_Lasse_Juul_Kristensen,Lasse Juul Kristensen,SF - Socialistisk Folkeparti,0
+Herlev,1,Herlev Medborgerhus,F_Peter_Bugge_Schlæger,Peter Bugge Schlæger,SF - Socialistisk Folkeparti,0
+Herlev,1,Herlev Medborgerhus,F_Trine_Louise_Stougaard_Madsen,Trine Louise Stougaard Madsen,SF - Socialistisk Folkeparti,4
+Herlev,1,Herlev Medborgerhus,F_Preben_Jacobsen,Preben Jacobsen,SF - Socialistisk Folkeparti,8
+Herlev,1,Herlev Medborgerhus,H_Listestemmer,Listestemmer,Herlev Listen,12
+Herlev,1,Herlev Medborgerhus,H_Kim_Kurt_Kristensen,Kim Kurt Kristensen,Herlev Listen,18
+Herlev,1,Herlev Medborgerhus,H_Ole_Irving_Juul_Cronqvist,Ole Irving Juul Cronqvist,Herlev Listen,1
+Herlev,1,Herlev Medborgerhus,H_Charlotte_Hartung_Kristensen,Charlotte Hartung Kristensen,Herlev Listen,5
+Herlev,1,Herlev Medborgerhus,H_Jens_Due,Jens Due,Herlev Listen,1
+Herlev,1,Herlev Medborgerhus,H_Pia_Mai_Jensen,Pia Mai Jensen,Herlev Listen,0
+Herlev,1,Herlev Medborgerhus,H_Leif_Ravn_Jensen,Leif Ravn Jensen,Herlev Listen,0
+Herlev,1,Herlev Medborgerhus,I_Listestemmer,Listestemmer,Liberal Alliance,16
+Herlev,1,Herlev Medborgerhus,I_Carl_Andersen,Carl Andersen,Liberal Alliance,40
+Herlev,1,Herlev Medborgerhus,I_Hans_Henrik_Guldal_Stefansen,Hans Henrik Guldal Stefansen,Liberal Alliance,3
+Herlev,1,Herlev Medborgerhus,K_Listestemmer,Listestemmer,Kristendemokraterne,6
+Herlev,1,Herlev Medborgerhus,K_Kurt_West_Rønne,Kurt West Rønne,Kristendemokraterne,17
+Herlev,1,Herlev Medborgerhus,K_Merete_Facius,Merete Facius,Kristendemokraterne,4
+Herlev,1,Herlev Medborgerhus,O_Listestemmer,Listestemmer,Dansk Folkeparti,75
+Herlev,1,Herlev Medborgerhus,O_Mette_Qwinten,Mette Qwinten,Dansk Folkeparti,84
+Herlev,1,Herlev Medborgerhus,O_Gitte_Sitting_Vestergaard,Gitte Sitting Vestergaard,Dansk Folkeparti,3
+Herlev,1,Herlev Medborgerhus,O_Sami_Mitri_Emil_Kjær_Rebeiz,Sami Mitri Emil Kjær Rebeiz,Dansk Folkeparti,1
+Herlev,1,Herlev Medborgerhus,O_Jannie_Larsen,Jannie Larsen,Dansk Folkeparti,3
+Herlev,1,Herlev Medborgerhus,O_Birgit_Kruse,Birgit Kruse,Dansk Folkeparti,2
+Herlev,1,Herlev Medborgerhus,O_Jimmy_Sitting_Vestergaard,Jimmy Sitting Vestergaard,Dansk Folkeparti,3
+Herlev,1,Herlev Medborgerhus,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",63
+Herlev,1,Herlev Medborgerhus,V_Gert_Biilmann,Gert Biilmann,"Venstre, Danmarks Liberale Parti",43
+Herlev,1,Herlev Medborgerhus,V_Bill_Bjørklund,Bill Bjørklund,"Venstre, Danmarks Liberale Parti",12
+Herlev,1,Herlev Medborgerhus,V_Stine_Camilla_Kaup_Andersen,Stine Camilla Kaup Andersen,"Venstre, Danmarks Liberale Parti",8
+Herlev,1,Herlev Medborgerhus,V_Ali_Capkan,Ali Capkan,"Venstre, Danmarks Liberale Parti",4
+Herlev,1,Herlev Medborgerhus,V_Anna_Mette_Jacobsen,Anna Mette Jacobsen,"Venstre, Danmarks Liberale Parti",4
+Herlev,1,Herlev Medborgerhus,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,150
+Herlev,1,Herlev Medborgerhus,Ø_Marianne_Dithmer,Marianne Dithmer,Enhedslisten - De Rød-Grønne,79
+Herlev,1,Herlev Medborgerhus,Ø_Ibrahim_Benli,Ibrahim Benli,Enhedslisten - De Rød-Grønne,116
+Herlev,1,Herlev Medborgerhus,Ø_Didde_Marie_Fabricius_M_Jacobsen,Didde Marie Fabricius M Jacobsen,Enhedslisten - De Rød-Grønne,17
+Herlev,1,Herlev Medborgerhus,Ø_Stefan_Regner_Rundstrøm,Stefan Regner Rundstrøm,Enhedslisten - De Rød-Grønne,31
+Herlev,1,Herlev Medborgerhus,Ø_Bjarke_Friborg,Bjarke Friborg,Enhedslisten - De Rød-Grønne,6
+Herlev,1,Herlev Medborgerhus,Ø_Ida_Laura_Heldam_Jensen,Ida Laura Heldam Jensen,Enhedslisten - De Rød-Grønne,37
+Herlev,1,Herlev Medborgerhus,Ø_Willi_Runar_Bjerregaard,Willi Runar Bjerregaard,Enhedslisten - De Rød-Grønne,3
+Herlev,1,Herlev Medborgerhus,Ø_Diana_Mette_Prim_Jensen,Diana Mette Prim Jensen,Enhedslisten - De Rød-Grønne,0
+Herlev,1,Herlev Medborgerhus,Ø_Simon_Knokgaard_Halskov,Simon Knokgaard Halskov,Enhedslisten - De Rød-Grønne,6
+Herlev,1,Herlev Medborgerhus,Ø_Annemette_Knokgaard_Halskov,Annemette Knokgaard Halskov,Enhedslisten - De Rød-Grønne,0
+Herlev,2,Herlev Hallerne,A_Listestemmer,Listestemmer,Socialdemokratiet,407
+Herlev,2,Herlev Hallerne,A_Thomas_Gyldal_Petersen,Thomas Gyldal Petersen,Socialdemokratiet,1186
+Herlev,2,Herlev Hallerne,A_Lars_Mann_Pedersen,Lars Mann Pedersen,Socialdemokratiet,38
+Herlev,2,Herlev Hallerne,A_Gitte_Friberg_Bomholdt,Gitte Friberg Bomholdt,Socialdemokratiet,75
+Herlev,2,Herlev Hallerne,A_Marco_Anders_Damgaard,Marco Anders Damgaard,Socialdemokratiet,169
+Herlev,2,Herlev Hallerne,A_Michele_Møller_Amundsen,Michele Møller Amundsen,Socialdemokratiet,72
+Herlev,2,Herlev Hallerne,A_Bo_Carle_Zabel,Bo Carle Zabel,Socialdemokratiet,41
+Herlev,2,Herlev Hallerne,A_André_Lyhne_Nørager,André Lyhne Nørager,Socialdemokratiet,5
+Herlev,2,Herlev Hallerne,A_Maria_Irene_Mankov,Maria Irene Mankov,Socialdemokratiet,73
+Herlev,2,Herlev Hallerne,A_Stefan_Bruun_Rasmussen,Stefan Bruun Rasmussen,Socialdemokratiet,43
+Herlev,2,Herlev Hallerne,A_Hanne_Brusgaard_Holst,Hanne Brusgaard Holst,Socialdemokratiet,21
+Herlev,2,Herlev Hallerne,A_René_John_Brohammer_Hansen,René John Brohammer Hansen,Socialdemokratiet,77
+Herlev,2,Herlev Hallerne,A_Vibs_Løsekrug_Hansen,Vibs Løsekrug Hansen,Socialdemokratiet,10
+Herlev,2,Herlev Hallerne,A_Jan_Mogensen,Jan Mogensen,Socialdemokratiet,4
+Herlev,2,Herlev Hallerne,A_Henrik_Sundstrup,Henrik Sundstrup,Socialdemokratiet,74
+Herlev,2,Herlev Hallerne,A_Connie_Irene_Mankov,Connie Irene Mankov,Socialdemokratiet,25
+Herlev,2,Herlev Hallerne,A_Conni_Rosendahl,Conni Rosendahl,Socialdemokratiet,19
+Herlev,2,Herlev Hallerne,A_Søren_Homann_Nielsen,Søren Homann Nielsen,Socialdemokratiet,8
+Herlev,2,Herlev Hallerne,B_Listestemmer,Listestemmer,Radikale Venstre,40
+Herlev,2,Herlev Hallerne,B_Deniz_Kücükavci,Deniz Kücükavci,Radikale Venstre,28
+Herlev,2,Herlev Hallerne,B_Jens_Frost,Jens Frost,Radikale Venstre,61
+Herlev,2,Herlev Hallerne,B_Agha_Abbas_Razvi,Agha Abbas Razvi,Radikale Venstre,14
+Herlev,2,Herlev Hallerne,B_Kaloua_Digbeu_-_Larsen,Kaloua Digbeu - Larsen,Radikale Venstre,3
+Herlev,2,Herlev Hallerne,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,318
+Herlev,2,Herlev Hallerne,C_Henrik_Hilleberg,Henrik Hilleberg,Det Konservative Folkeparti,451
+Herlev,2,Herlev Hallerne,C_Hanne_Bonderup_Bjørn-Klausen,Hanne Bonderup Bjørn-Klausen,Det Konservative Folkeparti,173
+Herlev,2,Herlev Hallerne,C_Jacob_Aagesen,Jacob Aagesen,Det Konservative Folkeparti,51
+Herlev,2,Herlev Hallerne,C_Ivan_Skafte-Bundgaard,Ivan Skafte-Bundgaard,Det Konservative Folkeparti,28
+Herlev,2,Herlev Hallerne,C_Ole_René_D_B_Pedersen,Ole René D B Pedersen,Det Konservative Folkeparti,1
+Herlev,2,Herlev Hallerne,C_Chresten_Valdemar_Heide-Anderson,Chresten Valdemar Heide-Anderson,Det Konservative Folkeparti,4
+Herlev,2,Herlev Hallerne,C_Dorte_Vilhelmsen,Dorte Vilhelmsen,Det Konservative Folkeparti,50
+Herlev,2,Herlev Hallerne,C_Morten_Brørup,Morten Brørup,Det Konservative Folkeparti,14
+Herlev,2,Herlev Hallerne,C_Carsten_Sonne_Pedersen,Carsten Sonne Pedersen,Det Konservative Folkeparti,0
+Herlev,2,Herlev Hallerne,C_Jeannet_Lauenborg,Jeannet Lauenborg,Det Konservative Folkeparti,41
+Herlev,2,Herlev Hallerne,C_Henrik_Laursen,Henrik Laursen,Det Konservative Folkeparti,12
+Herlev,2,Herlev Hallerne,D_Listestemmer,Listestemmer,Nye Borgerlige,72
+Herlev,2,Herlev Hallerne,D_Ditte_Landin,Ditte Landin,Nye Borgerlige,22
+Herlev,2,Herlev Hallerne,D_Morten_Mølkær_Larsen,Morten Mølkær Larsen,Nye Borgerlige,2
+Herlev,2,Herlev Hallerne,D_Jihmmy_Peter_Bach-Friis,Jihmmy Peter Bach-Friis,Nye Borgerlige,11
+Herlev,2,Herlev Hallerne,D_Bjarne_Rostad_Olsen,Bjarne Rostad Olsen,Nye Borgerlige,2
+Herlev,2,Herlev Hallerne,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,114
+Herlev,2,Herlev Hallerne,F_Betina_Skovby,Betina Skovby,SF - Socialistisk Folkeparti,136
+Herlev,2,Herlev Hallerne,F_Arly_John_Eskildsen,Arly John Eskildsen,SF - Socialistisk Folkeparti,104
+Herlev,2,Herlev Hallerne,F_Samira_Akbari,Samira Akbari,SF - Socialistisk Folkeparti,17
+Herlev,2,Herlev Hallerne,F_Anja_Henriksen,Anja Henriksen,SF - Socialistisk Folkeparti,25
+Herlev,2,Herlev Hallerne,F_Jacob_Møller_Rasmussen,Jacob Møller Rasmussen,SF - Socialistisk Folkeparti,8
+Herlev,2,Herlev Hallerne,F_Malou_Granskov_Skovby,Malou Granskov Skovby,SF - Socialistisk Folkeparti,0
+Herlev,2,Herlev Hallerne,F_Lasse_Juul_Kristensen,Lasse Juul Kristensen,SF - Socialistisk Folkeparti,3
+Herlev,2,Herlev Hallerne,F_Peter_Bugge_Schlæger,Peter Bugge Schlæger,SF - Socialistisk Folkeparti,6
+Herlev,2,Herlev Hallerne,F_Trine_Louise_Stougaard_Madsen,Trine Louise Stougaard Madsen,SF - Socialistisk Folkeparti,9
+Herlev,2,Herlev Hallerne,F_Preben_Jacobsen,Preben Jacobsen,SF - Socialistisk Folkeparti,1
+Herlev,2,Herlev Hallerne,H_Listestemmer,Listestemmer,Herlev Listen,5
+Herlev,2,Herlev Hallerne,H_Kim_Kurt_Kristensen,Kim Kurt Kristensen,Herlev Listen,9
+Herlev,2,Herlev Hallerne,H_Ole_Irving_Juul_Cronqvist,Ole Irving Juul Cronqvist,Herlev Listen,0
+Herlev,2,Herlev Hallerne,H_Charlotte_Hartung_Kristensen,Charlotte Hartung Kristensen,Herlev Listen,1
+Herlev,2,Herlev Hallerne,H_Jens_Due,Jens Due,Herlev Listen,2
+Herlev,2,Herlev Hallerne,H_Pia_Mai_Jensen,Pia Mai Jensen,Herlev Listen,0
+Herlev,2,Herlev Hallerne,H_Leif_Ravn_Jensen,Leif Ravn Jensen,Herlev Listen,0
+Herlev,2,Herlev Hallerne,I_Listestemmer,Listestemmer,Liberal Alliance,7
+Herlev,2,Herlev Hallerne,I_Carl_Andersen,Carl Andersen,Liberal Alliance,34
+Herlev,2,Herlev Hallerne,I_Hans_Henrik_Guldal_Stefansen,Hans Henrik Guldal Stefansen,Liberal Alliance,2
+Herlev,2,Herlev Hallerne,K_Listestemmer,Listestemmer,Kristendemokraterne,7
+Herlev,2,Herlev Hallerne,K_Kurt_West_Rønne,Kurt West Rønne,Kristendemokraterne,27
+Herlev,2,Herlev Hallerne,K_Merete_Facius,Merete Facius,Kristendemokraterne,1
+Herlev,2,Herlev Hallerne,O_Listestemmer,Listestemmer,Dansk Folkeparti,48
+Herlev,2,Herlev Hallerne,O_Mette_Qwinten,Mette Qwinten,Dansk Folkeparti,52
+Herlev,2,Herlev Hallerne,O_Gitte_Sitting_Vestergaard,Gitte Sitting Vestergaard,Dansk Folkeparti,9
+Herlev,2,Herlev Hallerne,O_Sami_Mitri_Emil_Kjær_Rebeiz,Sami Mitri Emil Kjær Rebeiz,Dansk Folkeparti,4
+Herlev,2,Herlev Hallerne,O_Jannie_Larsen,Jannie Larsen,Dansk Folkeparti,1
+Herlev,2,Herlev Hallerne,O_Birgit_Kruse,Birgit Kruse,Dansk Folkeparti,1
+Herlev,2,Herlev Hallerne,O_Jimmy_Sitting_Vestergaard,Jimmy Sitting Vestergaard,Dansk Folkeparti,1
+Herlev,2,Herlev Hallerne,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",63
+Herlev,2,Herlev Hallerne,V_Gert_Biilmann,Gert Biilmann,"Venstre, Danmarks Liberale Parti",36
+Herlev,2,Herlev Hallerne,V_Bill_Bjørklund,Bill Bjørklund,"Venstre, Danmarks Liberale Parti",23
+Herlev,2,Herlev Hallerne,V_Stine_Camilla_Kaup_Andersen,Stine Camilla Kaup Andersen,"Venstre, Danmarks Liberale Parti",7
+Herlev,2,Herlev Hallerne,V_Ali_Capkan,Ali Capkan,"Venstre, Danmarks Liberale Parti",5
+Herlev,2,Herlev Hallerne,V_Anna_Mette_Jacobsen,Anna Mette Jacobsen,"Venstre, Danmarks Liberale Parti",8
+Herlev,2,Herlev Hallerne,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,127
+Herlev,2,Herlev Hallerne,Ø_Marianne_Dithmer,Marianne Dithmer,Enhedslisten - De Rød-Grønne,104
+Herlev,2,Herlev Hallerne,Ø_Ibrahim_Benli,Ibrahim Benli,Enhedslisten - De Rød-Grønne,68
+Herlev,2,Herlev Hallerne,Ø_Didde_Marie_Fabricius_M_Jacobsen,Didde Marie Fabricius M Jacobsen,Enhedslisten - De Rød-Grønne,15
+Herlev,2,Herlev Hallerne,Ø_Stefan_Regner_Rundstrøm,Stefan Regner Rundstrøm,Enhedslisten - De Rød-Grønne,33
+Herlev,2,Herlev Hallerne,Ø_Bjarke_Friborg,Bjarke Friborg,Enhedslisten - De Rød-Grønne,5
+Herlev,2,Herlev Hallerne,Ø_Ida_Laura_Heldam_Jensen,Ida Laura Heldam Jensen,Enhedslisten - De Rød-Grønne,29
+Herlev,2,Herlev Hallerne,Ø_Willi_Runar_Bjerregaard,Willi Runar Bjerregaard,Enhedslisten - De Rød-Grønne,4
+Herlev,2,Herlev Hallerne,Ø_Diana_Mette_Prim_Jensen,Diana Mette Prim Jensen,Enhedslisten - De Rød-Grønne,1
+Herlev,2,Herlev Hallerne,Ø_Simon_Knokgaard_Halskov,Simon Knokgaard Halskov,Enhedslisten - De Rød-Grønne,7
+Herlev,2,Herlev Hallerne,Ø_Annemette_Knokgaard_Halskov,Annemette Knokgaard Halskov,Enhedslisten - De Rød-Grønne,1
+Herlev,3,Kildegårdhallen,A_Listestemmer,Listestemmer,Socialdemokratiet,376
+Herlev,3,Kildegårdhallen,A_Thomas_Gyldal_Petersen,Thomas Gyldal Petersen,Socialdemokratiet,985
+Herlev,3,Kildegårdhallen,A_Lars_Mann_Pedersen,Lars Mann Pedersen,Socialdemokratiet,22
+Herlev,3,Kildegårdhallen,A_Gitte_Friberg_Bomholdt,Gitte Friberg Bomholdt,Socialdemokratiet,45
+Herlev,3,Kildegårdhallen,A_Marco_Anders_Damgaard,Marco Anders Damgaard,Socialdemokratiet,79
+Herlev,3,Kildegårdhallen,A_Michele_Møller_Amundsen,Michele Møller Amundsen,Socialdemokratiet,37
+Herlev,3,Kildegårdhallen,A_Bo_Carle_Zabel,Bo Carle Zabel,Socialdemokratiet,18
+Herlev,3,Kildegårdhallen,A_André_Lyhne_Nørager,André Lyhne Nørager,Socialdemokratiet,19
+Herlev,3,Kildegårdhallen,A_Maria_Irene_Mankov,Maria Irene Mankov,Socialdemokratiet,53
+Herlev,3,Kildegårdhallen,A_Stefan_Bruun_Rasmussen,Stefan Bruun Rasmussen,Socialdemokratiet,12
+Herlev,3,Kildegårdhallen,A_Hanne_Brusgaard_Holst,Hanne Brusgaard Holst,Socialdemokratiet,14
+Herlev,3,Kildegårdhallen,A_René_John_Brohammer_Hansen,René John Brohammer Hansen,Socialdemokratiet,24
+Herlev,3,Kildegårdhallen,A_Vibs_Løsekrug_Hansen,Vibs Løsekrug Hansen,Socialdemokratiet,9
+Herlev,3,Kildegårdhallen,A_Jan_Mogensen,Jan Mogensen,Socialdemokratiet,4
+Herlev,3,Kildegårdhallen,A_Henrik_Sundstrup,Henrik Sundstrup,Socialdemokratiet,15
+Herlev,3,Kildegårdhallen,A_Connie_Irene_Mankov,Connie Irene Mankov,Socialdemokratiet,48
+Herlev,3,Kildegårdhallen,A_Conni_Rosendahl,Conni Rosendahl,Socialdemokratiet,68
+Herlev,3,Kildegårdhallen,A_Søren_Homann_Nielsen,Søren Homann Nielsen,Socialdemokratiet,55
+Herlev,3,Kildegårdhallen,B_Listestemmer,Listestemmer,Radikale Venstre,35
+Herlev,3,Kildegårdhallen,B_Deniz_Kücükavci,Deniz Kücükavci,Radikale Venstre,90
+Herlev,3,Kildegårdhallen,B_Jens_Frost,Jens Frost,Radikale Venstre,50
+Herlev,3,Kildegårdhallen,B_Agha_Abbas_Razvi,Agha Abbas Razvi,Radikale Venstre,3
+Herlev,3,Kildegårdhallen,B_Kaloua_Digbeu_-_Larsen,Kaloua Digbeu - Larsen,Radikale Venstre,3
+Herlev,3,Kildegårdhallen,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,241
+Herlev,3,Kildegårdhallen,C_Henrik_Hilleberg,Henrik Hilleberg,Det Konservative Folkeparti,241
+Herlev,3,Kildegårdhallen,C_Hanne_Bonderup_Bjørn-Klausen,Hanne Bonderup Bjørn-Klausen,Det Konservative Folkeparti,125
+Herlev,3,Kildegårdhallen,C_Jacob_Aagesen,Jacob Aagesen,Det Konservative Folkeparti,34
+Herlev,3,Kildegårdhallen,C_Ivan_Skafte-Bundgaard,Ivan Skafte-Bundgaard,Det Konservative Folkeparti,14
+Herlev,3,Kildegårdhallen,C_Ole_René_D_B_Pedersen,Ole René D B Pedersen,Det Konservative Folkeparti,14
+Herlev,3,Kildegårdhallen,C_Chresten_Valdemar_Heide-Anderson,Chresten Valdemar Heide-Anderson,Det Konservative Folkeparti,2
+Herlev,3,Kildegårdhallen,C_Dorte_Vilhelmsen,Dorte Vilhelmsen,Det Konservative Folkeparti,44
+Herlev,3,Kildegårdhallen,C_Morten_Brørup,Morten Brørup,Det Konservative Folkeparti,14
+Herlev,3,Kildegårdhallen,C_Carsten_Sonne_Pedersen,Carsten Sonne Pedersen,Det Konservative Folkeparti,1
+Herlev,3,Kildegårdhallen,C_Jeannet_Lauenborg,Jeannet Lauenborg,Det Konservative Folkeparti,24
+Herlev,3,Kildegårdhallen,C_Henrik_Laursen,Henrik Laursen,Det Konservative Folkeparti,7
+Herlev,3,Kildegårdhallen,D_Listestemmer,Listestemmer,Nye Borgerlige,78
+Herlev,3,Kildegårdhallen,D_Ditte_Landin,Ditte Landin,Nye Borgerlige,30
+Herlev,3,Kildegårdhallen,D_Morten_Mølkær_Larsen,Morten Mølkær Larsen,Nye Borgerlige,5
+Herlev,3,Kildegårdhallen,D_Jihmmy_Peter_Bach-Friis,Jihmmy Peter Bach-Friis,Nye Borgerlige,16
+Herlev,3,Kildegårdhallen,D_Bjarne_Rostad_Olsen,Bjarne Rostad Olsen,Nye Borgerlige,4
+Herlev,3,Kildegårdhallen,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,103
+Herlev,3,Kildegårdhallen,F_Betina_Skovby,Betina Skovby,SF - Socialistisk Folkeparti,121
+Herlev,3,Kildegårdhallen,F_Arly_John_Eskildsen,Arly John Eskildsen,SF - Socialistisk Folkeparti,128
+Herlev,3,Kildegårdhallen,F_Samira_Akbari,Samira Akbari,SF - Socialistisk Folkeparti,12
+Herlev,3,Kildegårdhallen,F_Anja_Henriksen,Anja Henriksen,SF - Socialistisk Folkeparti,18
+Herlev,3,Kildegårdhallen,F_Jacob_Møller_Rasmussen,Jacob Møller Rasmussen,SF - Socialistisk Folkeparti,14
+Herlev,3,Kildegårdhallen,F_Malou_Granskov_Skovby,Malou Granskov Skovby,SF - Socialistisk Folkeparti,4
+Herlev,3,Kildegårdhallen,F_Lasse_Juul_Kristensen,Lasse Juul Kristensen,SF - Socialistisk Folkeparti,1
+Herlev,3,Kildegårdhallen,F_Peter_Bugge_Schlæger,Peter Bugge Schlæger,SF - Socialistisk Folkeparti,1
+Herlev,3,Kildegårdhallen,F_Trine_Louise_Stougaard_Madsen,Trine Louise Stougaard Madsen,SF - Socialistisk Folkeparti,5
+Herlev,3,Kildegårdhallen,F_Preben_Jacobsen,Preben Jacobsen,SF - Socialistisk Folkeparti,1
+Herlev,3,Kildegårdhallen,H_Listestemmer,Listestemmer,Herlev Listen,11
+Herlev,3,Kildegårdhallen,H_Kim_Kurt_Kristensen,Kim Kurt Kristensen,Herlev Listen,26
+Herlev,3,Kildegårdhallen,H_Ole_Irving_Juul_Cronqvist,Ole Irving Juul Cronqvist,Herlev Listen,3
+Herlev,3,Kildegårdhallen,H_Charlotte_Hartung_Kristensen,Charlotte Hartung Kristensen,Herlev Listen,11
+Herlev,3,Kildegårdhallen,H_Jens_Due,Jens Due,Herlev Listen,4
+Herlev,3,Kildegårdhallen,H_Pia_Mai_Jensen,Pia Mai Jensen,Herlev Listen,0
+Herlev,3,Kildegårdhallen,H_Leif_Ravn_Jensen,Leif Ravn Jensen,Herlev Listen,0
+Herlev,3,Kildegårdhallen,I_Listestemmer,Listestemmer,Liberal Alliance,12
+Herlev,3,Kildegårdhallen,I_Carl_Andersen,Carl Andersen,Liberal Alliance,18
+Herlev,3,Kildegårdhallen,I_Hans_Henrik_Guldal_Stefansen,Hans Henrik Guldal Stefansen,Liberal Alliance,2
+Herlev,3,Kildegårdhallen,K_Listestemmer,Listestemmer,Kristendemokraterne,8
+Herlev,3,Kildegårdhallen,K_Kurt_West_Rønne,Kurt West Rønne,Kristendemokraterne,10
+Herlev,3,Kildegårdhallen,K_Merete_Facius,Merete Facius,Kristendemokraterne,4
+Herlev,3,Kildegårdhallen,O_Listestemmer,Listestemmer,Dansk Folkeparti,59
+Herlev,3,Kildegårdhallen,O_Mette_Qwinten,Mette Qwinten,Dansk Folkeparti,40
+Herlev,3,Kildegårdhallen,O_Gitte_Sitting_Vestergaard,Gitte Sitting Vestergaard,Dansk Folkeparti,8
+Herlev,3,Kildegårdhallen,O_Sami_Mitri_Emil_Kjær_Rebeiz,Sami Mitri Emil Kjær Rebeiz,Dansk Folkeparti,7
+Herlev,3,Kildegårdhallen,O_Jannie_Larsen,Jannie Larsen,Dansk Folkeparti,4
+Herlev,3,Kildegårdhallen,O_Birgit_Kruse,Birgit Kruse,Dansk Folkeparti,3
+Herlev,3,Kildegårdhallen,O_Jimmy_Sitting_Vestergaard,Jimmy Sitting Vestergaard,Dansk Folkeparti,4
+Herlev,3,Kildegårdhallen,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",74
+Herlev,3,Kildegårdhallen,V_Gert_Biilmann,Gert Biilmann,"Venstre, Danmarks Liberale Parti",43
+Herlev,3,Kildegårdhallen,V_Bill_Bjørklund,Bill Bjørklund,"Venstre, Danmarks Liberale Parti",13
+Herlev,3,Kildegårdhallen,V_Stine_Camilla_Kaup_Andersen,Stine Camilla Kaup Andersen,"Venstre, Danmarks Liberale Parti",10
+Herlev,3,Kildegårdhallen,V_Ali_Capkan,Ali Capkan,"Venstre, Danmarks Liberale Parti",1
+Herlev,3,Kildegårdhallen,V_Anna_Mette_Jacobsen,Anna Mette Jacobsen,"Venstre, Danmarks Liberale Parti",5
+Herlev,3,Kildegårdhallen,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,154
+Herlev,3,Kildegårdhallen,Ø_Marianne_Dithmer,Marianne Dithmer,Enhedslisten - De Rød-Grønne,114
+Herlev,3,Kildegårdhallen,Ø_Ibrahim_Benli,Ibrahim Benli,Enhedslisten - De Rød-Grønne,171
+Herlev,3,Kildegårdhallen,Ø_Didde_Marie_Fabricius_M_Jacobsen,Didde Marie Fabricius M Jacobsen,Enhedslisten - De Rød-Grønne,29
+Herlev,3,Kildegårdhallen,Ø_Stefan_Regner_Rundstrøm,Stefan Regner Rundstrøm,Enhedslisten - De Rød-Grønne,33
+Herlev,3,Kildegårdhallen,Ø_Bjarke_Friborg,Bjarke Friborg,Enhedslisten - De Rød-Grønne,2
+Herlev,3,Kildegårdhallen,Ø_Ida_Laura_Heldam_Jensen,Ida Laura Heldam Jensen,Enhedslisten - De Rød-Grønne,41
+Herlev,3,Kildegårdhallen,Ø_Willi_Runar_Bjerregaard,Willi Runar Bjerregaard,Enhedslisten - De Rød-Grønne,3
+Herlev,3,Kildegårdhallen,Ø_Diana_Mette_Prim_Jensen,Diana Mette Prim Jensen,Enhedslisten - De Rød-Grønne,8
+Herlev,3,Kildegårdhallen,Ø_Simon_Knokgaard_Halskov,Simon Knokgaard Halskov,Enhedslisten - De Rød-Grønne,10
+Herlev,3,Kildegårdhallen,Ø_Annemette_Knokgaard_Halskov,Annemette Knokgaard Halskov,Enhedslisten - De Rød-Grønne,3

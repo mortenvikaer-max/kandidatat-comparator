@@ -1,0 +1,431 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Hørsholm,1,Hørsholm,A_Listestemmer,Listestemmer,Socialdemokratiet,141
+Hørsholm,1,Hørsholm,A_Svend_Erik_Christiansen,Svend Erik Christiansen,Socialdemokratiet,52
+Hørsholm,1,Hørsholm,A_Dickte_Noël_Toft,Dickte Noël Toft,Socialdemokratiet,56
+Hørsholm,1,Hørsholm,A_Marcus_Guldager,Marcus Guldager,Socialdemokratiet,107
+Hørsholm,1,Hørsholm,A_Stine_Pagh,Stine Pagh,Socialdemokratiet,38
+Hørsholm,1,Hørsholm,A_Caroline_Victoria_Christensen,Caroline Victoria Christensen,Socialdemokratiet,68
+Hørsholm,1,Hørsholm,A_Bo_Bilde,Bo Bilde,Socialdemokratiet,6
+Hørsholm,1,Hørsholm,B_Listestemmer,Listestemmer,Radikale Venstre,56
+Hørsholm,1,Hørsholm,B_Henrik_Klitgaard,Henrik Klitgaard,Radikale Venstre,43
+Hørsholm,1,Hørsholm,B_Hans_Laugesen,Hans Laugesen,Radikale Venstre,6
+Hørsholm,1,Hørsholm,B_Emilie_Andersen-Ranberg,Emilie Andersen-Ranberg,Radikale Venstre,62
+Hørsholm,1,Hørsholm,B_Katja_Elberg,Katja Elberg,Radikale Venstre,9
+Hørsholm,1,Hørsholm,B_Lone_Heyde,Lone Heyde,Radikale Venstre,3
+Hørsholm,1,Hørsholm,B_Peer_Tidemand-Petersson,Peer Tidemand-Petersson,Radikale Venstre,2
+Hørsholm,1,Hørsholm,B_Birgitte_Finnemann_Bruun,Birgitte Finnemann Bruun,Radikale Venstre,19
+Hørsholm,1,Hørsholm,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,293
+Hørsholm,1,Hørsholm,C_Morten_Slotved,Morten Slotved,Det Konservative Folkeparti,429
+Hørsholm,1,Hørsholm,C_Maj_Allin_Thorup,Maj Allin Thorup,Det Konservative Folkeparti,80
+Hørsholm,1,Hørsholm,C_Bent_Fabricius,Bent Fabricius,Det Konservative Folkeparti,40
+Hørsholm,1,Hørsholm,C_Charlotte_Kirchheiner,Charlotte Kirchheiner,Det Konservative Folkeparti,247
+Hørsholm,1,Hørsholm,C_Jan_H._Klit,Jan H. Klit,Det Konservative Folkeparti,28
+Hørsholm,1,Hørsholm,C_Annette_Wiencken,Annette Wiencken,Det Konservative Folkeparti,76
+Hørsholm,1,Hørsholm,C_Esben_Dyekjær,Esben Dyekjær,Det Konservative Folkeparti,47
+Hørsholm,1,Hørsholm,C_Eva_Bryld,Eva Bryld,Det Konservative Folkeparti,8
+Hørsholm,1,Hørsholm,C_John_M._Jensen,John M. Jensen,Det Konservative Folkeparti,3
+Hørsholm,1,Hørsholm,C_Ole_Wessung,Ole Wessung,Det Konservative Folkeparti,40
+Hørsholm,1,Hørsholm,C_Otto_B._Christiansen,Otto B. Christiansen,Det Konservative Folkeparti,16
+Hørsholm,1,Hørsholm,C_Per_Balser,Per Balser,Det Konservative Folkeparti,6
+Hørsholm,1,Hørsholm,C_Peter_Agger,Peter Agger,Det Konservative Folkeparti,9
+Hørsholm,1,Hørsholm,C_Renata_Frolova,Renata Frolova,Det Konservative Folkeparti,7
+Hørsholm,1,Hørsholm,C_Steffen_Brygger_Lund,Steffen Brygger Lund,Det Konservative Folkeparti,14
+Hørsholm,1,Hørsholm,C_Knud_Düring,Knud Düring,Det Konservative Folkeparti,4
+Hørsholm,1,Hørsholm,C_Inga_Nielsen,Inga Nielsen,Det Konservative Folkeparti,10
+Hørsholm,1,Hørsholm,C_Tomas_Dyrbye,Tomas Dyrbye,Det Konservative Folkeparti,19
+Hørsholm,1,Hørsholm,D_Listestemmer,Listestemmer,Nye Borgerlige,41
+Hørsholm,1,Hørsholm,D_Erik_Rosenkrantz_Fuglsang,Erik Rosenkrantz Fuglsang,Nye Borgerlige,36
+Hørsholm,1,Hørsholm,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,40
+Hørsholm,1,Hørsholm,F_Louise_Zabel,Louise Zabel,SF - Socialistisk Folkeparti,94
+Hørsholm,1,Hørsholm,F_Ib_Tune_Olsen,Ib Tune Olsen,SF - Socialistisk Folkeparti,11
+Hørsholm,1,Hørsholm,I_Listestemmer,Listestemmer,Liberal Alliance,30
+Hørsholm,1,Hørsholm,I_Stine_Darmer,Stine Darmer,Liberal Alliance,54
+Hørsholm,1,Hørsholm,I_Jes_Holm,Jes Holm,Liberal Alliance,10
+Hørsholm,1,Hørsholm,I_Ronni_Joensen,Ronni Joensen,Liberal Alliance,9
+Hørsholm,1,Hørsholm,I_Niels_Hammer-Jespersen,Niels Hammer-Jespersen,Liberal Alliance,4
+Hørsholm,1,Hørsholm,K_Listestemmer,Listestemmer,Kristendemokraterne,5
+Hørsholm,1,Hørsholm,K_Stig_Grenov,Stig Grenov,Kristendemokraterne,7
+Hørsholm,1,Hørsholm,O_Listestemmer,Listestemmer,Dansk Folkeparti,25
+Hørsholm,1,Hørsholm,O_Glen_Madsen,Glen Madsen,Dansk Folkeparti,71
+Hørsholm,1,Hørsholm,O_Søren_Kibsgaard,Søren Kibsgaard,Dansk Folkeparti,2
+Hørsholm,1,Hørsholm,O_Olena_Duus,Olena Duus,Dansk Folkeparti,9
+Hørsholm,1,Hørsholm,O_Nina_Weber,Nina Weber,Dansk Folkeparti,1
+Hørsholm,1,Hørsholm,O_Dorte_Greulich,Dorte Greulich,Dansk Folkeparti,1
+Hørsholm,1,Hørsholm,O_Stella_Lund,Stella Lund,Dansk Folkeparti,0
+Hørsholm,1,Hørsholm,O_Nicolas_Lund,Nicolas Lund,Dansk Folkeparti,0
+Hørsholm,1,Hørsholm,O_Lena_Nordstrøm,Lena Nordstrøm,Dansk Folkeparti,0
+Hørsholm,1,Hørsholm,Q_Listestemmer,Listestemmer,SocialKonservative,21
+Hørsholm,1,Hørsholm,Q_Thorkild_Gruelund,Thorkild Gruelund,SocialKonservative,157
+Hørsholm,1,Hørsholm,Q_René_Nisse_Christensen,René Nisse Christensen,SocialKonservative,7
+Hørsholm,1,Hørsholm,Q_Josefine_Sanne,Josefine Sanne,SocialKonservative,5
+Hørsholm,1,Hørsholm,Q_Christoffer_Henriksen,Christoffer Henriksen,SocialKonservative,2
+Hørsholm,1,Hørsholm,Q_Verner_Knudsen,Verner Knudsen,SocialKonservative,16
+Hørsholm,1,Hørsholm,Q_Vibeke_Hindsberg,Vibeke Hindsberg,SocialKonservative,1
+Hørsholm,1,Hørsholm,Q_Gitte_Sornn-Friese,Gitte Sornn-Friese,SocialKonservative,4
+Hørsholm,1,Hørsholm,Q_Thomas_Kent_Larsen,Thomas Kent Larsen,SocialKonservative,3
+Hørsholm,1,Hørsholm,Q_Anders_Kinnerup,Anders Kinnerup,SocialKonservative,0
+Hørsholm,1,Hørsholm,Q_Kjeld_Flemming_Nielsen,Kjeld Flemming Nielsen,SocialKonservative,1
+Hørsholm,1,Hørsholm,Q_Ella_Andersen,Ella Andersen,SocialKonservative,2
+Hørsholm,1,Hørsholm,Q_Ib_Lunde,Ib Lunde,SocialKonservative,5
+Hørsholm,1,Hørsholm,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",203
+Hørsholm,1,Hørsholm,V_Ann_Lindhardt,Ann Lindhardt,"Venstre, Danmarks Liberale Parti",346
+Hørsholm,1,Hørsholm,V_Anne_Ehrenreich,Anne Ehrenreich,"Venstre, Danmarks Liberale Parti",101
+Hørsholm,1,Hørsholm,V_Christian_Wikström,Christian Wikström,"Venstre, Danmarks Liberale Parti",18
+Hørsholm,1,Hørsholm,V_Janus_Engelund,Janus Engelund,"Venstre, Danmarks Liberale Parti",29
+Hørsholm,1,Hørsholm,V_Birger_Bøgeblad,Birger Bøgeblad,"Venstre, Danmarks Liberale Parti",33
+Hørsholm,1,Hørsholm,V_Thomas_Madsen,Thomas Madsen,"Venstre, Danmarks Liberale Parti",15
+Hørsholm,1,Hørsholm,V_Preben_Carøe,Preben Carøe,"Venstre, Danmarks Liberale Parti",3
+Hørsholm,1,Hørsholm,V_Jesper_Sperling,Jesper Sperling,"Venstre, Danmarks Liberale Parti",28
+Hørsholm,1,Hørsholm,V_Lars_Frederik_Thalbitzer,Lars Frederik Thalbitzer,"Venstre, Danmarks Liberale Parti",36
+Hørsholm,1,Hørsholm,V_Dorthe_Bajon,Dorthe Bajon,"Venstre, Danmarks Liberale Parti",24
+Hørsholm,1,Hørsholm,V_Birgitte_Dyreborg,Birgitte Dyreborg,"Venstre, Danmarks Liberale Parti",19
+Hørsholm,1,Hørsholm,V_Jacob_Schulze,Jacob Schulze,"Venstre, Danmarks Liberale Parti",21
+Hørsholm,1,Hørsholm,V_Fie_Smith,Fie Smith,"Venstre, Danmarks Liberale Parti",22
+Hørsholm,1,Hørsholm,V_Lone_Sønderbo,Lone Sønderbo,"Venstre, Danmarks Liberale Parti",1
+Hørsholm,1,Hørsholm,V_Karsten_Eckert,Karsten Eckert,"Venstre, Danmarks Liberale Parti",4
+Hørsholm,1,Hørsholm,V_Kenny_Neuchs,Kenny Neuchs,"Venstre, Danmarks Liberale Parti",0
+Hørsholm,1,Hørsholm,V_Erik_Wetche,Erik Wetche,"Venstre, Danmarks Liberale Parti",5
+Hørsholm,2,Usserød,A_Listestemmer,Listestemmer,Socialdemokratiet,143
+Hørsholm,2,Usserød,A_Svend_Erik_Christiansen,Svend Erik Christiansen,Socialdemokratiet,58
+Hørsholm,2,Usserød,A_Dickte_Noël_Toft,Dickte Noël Toft,Socialdemokratiet,90
+Hørsholm,2,Usserød,A_Marcus_Guldager,Marcus Guldager,Socialdemokratiet,130
+Hørsholm,2,Usserød,A_Stine_Pagh,Stine Pagh,Socialdemokratiet,34
+Hørsholm,2,Usserød,A_Caroline_Victoria_Christensen,Caroline Victoria Christensen,Socialdemokratiet,72
+Hørsholm,2,Usserød,A_Bo_Bilde,Bo Bilde,Socialdemokratiet,5
+Hørsholm,2,Usserød,B_Listestemmer,Listestemmer,Radikale Venstre,52
+Hørsholm,2,Usserød,B_Henrik_Klitgaard,Henrik Klitgaard,Radikale Venstre,62
+Hørsholm,2,Usserød,B_Hans_Laugesen,Hans Laugesen,Radikale Venstre,7
+Hørsholm,2,Usserød,B_Emilie_Andersen-Ranberg,Emilie Andersen-Ranberg,Radikale Venstre,83
+Hørsholm,2,Usserød,B_Katja_Elberg,Katja Elberg,Radikale Venstre,7
+Hørsholm,2,Usserød,B_Lone_Heyde,Lone Heyde,Radikale Venstre,8
+Hørsholm,2,Usserød,B_Peer_Tidemand-Petersson,Peer Tidemand-Petersson,Radikale Venstre,1
+Hørsholm,2,Usserød,B_Birgitte_Finnemann_Bruun,Birgitte Finnemann Bruun,Radikale Venstre,10
+Hørsholm,2,Usserød,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,243
+Hørsholm,2,Usserød,C_Morten_Slotved,Morten Slotved,Det Konservative Folkeparti,472
+Hørsholm,2,Usserød,C_Maj_Allin_Thorup,Maj Allin Thorup,Det Konservative Folkeparti,155
+Hørsholm,2,Usserød,C_Bent_Fabricius,Bent Fabricius,Det Konservative Folkeparti,59
+Hørsholm,2,Usserød,C_Charlotte_Kirchheiner,Charlotte Kirchheiner,Det Konservative Folkeparti,100
+Hørsholm,2,Usserød,C_Jan_H._Klit,Jan H. Klit,Det Konservative Folkeparti,44
+Hørsholm,2,Usserød,C_Annette_Wiencken,Annette Wiencken,Det Konservative Folkeparti,40
+Hørsholm,2,Usserød,C_Esben_Dyekjær,Esben Dyekjær,Det Konservative Folkeparti,39
+Hørsholm,2,Usserød,C_Eva_Bryld,Eva Bryld,Det Konservative Folkeparti,19
+Hørsholm,2,Usserød,C_John_M._Jensen,John M. Jensen,Det Konservative Folkeparti,6
+Hørsholm,2,Usserød,C_Ole_Wessung,Ole Wessung,Det Konservative Folkeparti,60
+Hørsholm,2,Usserød,C_Otto_B._Christiansen,Otto B. Christiansen,Det Konservative Folkeparti,11
+Hørsholm,2,Usserød,C_Per_Balser,Per Balser,Det Konservative Folkeparti,5
+Hørsholm,2,Usserød,C_Peter_Agger,Peter Agger,Det Konservative Folkeparti,5
+Hørsholm,2,Usserød,C_Renata_Frolova,Renata Frolova,Det Konservative Folkeparti,2
+Hørsholm,2,Usserød,C_Steffen_Brygger_Lund,Steffen Brygger Lund,Det Konservative Folkeparti,8
+Hørsholm,2,Usserød,C_Knud_Düring,Knud Düring,Det Konservative Folkeparti,4
+Hørsholm,2,Usserød,C_Inga_Nielsen,Inga Nielsen,Det Konservative Folkeparti,1
+Hørsholm,2,Usserød,C_Tomas_Dyrbye,Tomas Dyrbye,Det Konservative Folkeparti,7
+Hørsholm,2,Usserød,D_Listestemmer,Listestemmer,Nye Borgerlige,47
+Hørsholm,2,Usserød,D_Erik_Rosenkrantz_Fuglsang,Erik Rosenkrantz Fuglsang,Nye Borgerlige,50
+Hørsholm,2,Usserød,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,58
+Hørsholm,2,Usserød,F_Louise_Zabel,Louise Zabel,SF - Socialistisk Folkeparti,131
+Hørsholm,2,Usserød,F_Ib_Tune_Olsen,Ib Tune Olsen,SF - Socialistisk Folkeparti,17
+Hørsholm,2,Usserød,I_Listestemmer,Listestemmer,Liberal Alliance,34
+Hørsholm,2,Usserød,I_Stine_Darmer,Stine Darmer,Liberal Alliance,47
+Hørsholm,2,Usserød,I_Jes_Holm,Jes Holm,Liberal Alliance,10
+Hørsholm,2,Usserød,I_Ronni_Joensen,Ronni Joensen,Liberal Alliance,7
+Hørsholm,2,Usserød,I_Niels_Hammer-Jespersen,Niels Hammer-Jespersen,Liberal Alliance,1
+Hørsholm,2,Usserød,K_Listestemmer,Listestemmer,Kristendemokraterne,2
+Hørsholm,2,Usserød,K_Stig_Grenov,Stig Grenov,Kristendemokraterne,13
+Hørsholm,2,Usserød,O_Listestemmer,Listestemmer,Dansk Folkeparti,37
+Hørsholm,2,Usserød,O_Glen_Madsen,Glen Madsen,Dansk Folkeparti,85
+Hørsholm,2,Usserød,O_Søren_Kibsgaard,Søren Kibsgaard,Dansk Folkeparti,4
+Hørsholm,2,Usserød,O_Olena_Duus,Olena Duus,Dansk Folkeparti,3
+Hørsholm,2,Usserød,O_Nina_Weber,Nina Weber,Dansk Folkeparti,5
+Hørsholm,2,Usserød,O_Dorte_Greulich,Dorte Greulich,Dansk Folkeparti,0
+Hørsholm,2,Usserød,O_Stella_Lund,Stella Lund,Dansk Folkeparti,0
+Hørsholm,2,Usserød,O_Nicolas_Lund,Nicolas Lund,Dansk Folkeparti,0
+Hørsholm,2,Usserød,O_Lena_Nordstrøm,Lena Nordstrøm,Dansk Folkeparti,0
+Hørsholm,2,Usserød,Q_Listestemmer,Listestemmer,SocialKonservative,34
+Hørsholm,2,Usserød,Q_Thorkild_Gruelund,Thorkild Gruelund,SocialKonservative,192
+Hørsholm,2,Usserød,Q_René_Nisse_Christensen,René Nisse Christensen,SocialKonservative,21
+Hørsholm,2,Usserød,Q_Josefine_Sanne,Josefine Sanne,SocialKonservative,7
+Hørsholm,2,Usserød,Q_Christoffer_Henriksen,Christoffer Henriksen,SocialKonservative,6
+Hørsholm,2,Usserød,Q_Verner_Knudsen,Verner Knudsen,SocialKonservative,9
+Hørsholm,2,Usserød,Q_Vibeke_Hindsberg,Vibeke Hindsberg,SocialKonservative,6
+Hørsholm,2,Usserød,Q_Gitte_Sornn-Friese,Gitte Sornn-Friese,SocialKonservative,12
+Hørsholm,2,Usserød,Q_Thomas_Kent_Larsen,Thomas Kent Larsen,SocialKonservative,4
+Hørsholm,2,Usserød,Q_Anders_Kinnerup,Anders Kinnerup,SocialKonservative,0
+Hørsholm,2,Usserød,Q_Kjeld_Flemming_Nielsen,Kjeld Flemming Nielsen,SocialKonservative,0
+Hørsholm,2,Usserød,Q_Ella_Andersen,Ella Andersen,SocialKonservative,2
+Hørsholm,2,Usserød,Q_Ib_Lunde,Ib Lunde,SocialKonservative,7
+Hørsholm,2,Usserød,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",201
+Hørsholm,2,Usserød,V_Ann_Lindhardt,Ann Lindhardt,"Venstre, Danmarks Liberale Parti",398
+Hørsholm,2,Usserød,V_Anne_Ehrenreich,Anne Ehrenreich,"Venstre, Danmarks Liberale Parti",103
+Hørsholm,2,Usserød,V_Christian_Wikström,Christian Wikström,"Venstre, Danmarks Liberale Parti",13
+Hørsholm,2,Usserød,V_Janus_Engelund,Janus Engelund,"Venstre, Danmarks Liberale Parti",12
+Hørsholm,2,Usserød,V_Birger_Bøgeblad,Birger Bøgeblad,"Venstre, Danmarks Liberale Parti",23
+Hørsholm,2,Usserød,V_Thomas_Madsen,Thomas Madsen,"Venstre, Danmarks Liberale Parti",26
+Hørsholm,2,Usserød,V_Preben_Carøe,Preben Carøe,"Venstre, Danmarks Liberale Parti",37
+Hørsholm,2,Usserød,V_Jesper_Sperling,Jesper Sperling,"Venstre, Danmarks Liberale Parti",28
+Hørsholm,2,Usserød,V_Lars_Frederik_Thalbitzer,Lars Frederik Thalbitzer,"Venstre, Danmarks Liberale Parti",8
+Hørsholm,2,Usserød,V_Dorthe_Bajon,Dorthe Bajon,"Venstre, Danmarks Liberale Parti",10
+Hørsholm,2,Usserød,V_Birgitte_Dyreborg,Birgitte Dyreborg,"Venstre, Danmarks Liberale Parti",13
+Hørsholm,2,Usserød,V_Jacob_Schulze,Jacob Schulze,"Venstre, Danmarks Liberale Parti",37
+Hørsholm,2,Usserød,V_Fie_Smith,Fie Smith,"Venstre, Danmarks Liberale Parti",5
+Hørsholm,2,Usserød,V_Lone_Sønderbo,Lone Sønderbo,"Venstre, Danmarks Liberale Parti",1
+Hørsholm,2,Usserød,V_Karsten_Eckert,Karsten Eckert,"Venstre, Danmarks Liberale Parti",4
+Hørsholm,2,Usserød,V_Kenny_Neuchs,Kenny Neuchs,"Venstre, Danmarks Liberale Parti",2
+Hørsholm,2,Usserød,V_Erik_Wetche,Erik Wetche,"Venstre, Danmarks Liberale Parti",1
+Hørsholm,3,Rungsted,A_Listestemmer,Listestemmer,Socialdemokratiet,52
+Hørsholm,3,Rungsted,A_Svend_Erik_Christiansen,Svend Erik Christiansen,Socialdemokratiet,20
+Hørsholm,3,Rungsted,A_Dickte_Noël_Toft,Dickte Noël Toft,Socialdemokratiet,22
+Hørsholm,3,Rungsted,A_Marcus_Guldager,Marcus Guldager,Socialdemokratiet,21
+Hørsholm,3,Rungsted,A_Stine_Pagh,Stine Pagh,Socialdemokratiet,16
+Hørsholm,3,Rungsted,A_Caroline_Victoria_Christensen,Caroline Victoria Christensen,Socialdemokratiet,21
+Hørsholm,3,Rungsted,A_Bo_Bilde,Bo Bilde,Socialdemokratiet,2
+Hørsholm,3,Rungsted,B_Listestemmer,Listestemmer,Radikale Venstre,55
+Hørsholm,3,Rungsted,B_Henrik_Klitgaard,Henrik Klitgaard,Radikale Venstre,31
+Hørsholm,3,Rungsted,B_Hans_Laugesen,Hans Laugesen,Radikale Venstre,2
+Hørsholm,3,Rungsted,B_Emilie_Andersen-Ranberg,Emilie Andersen-Ranberg,Radikale Venstre,62
+Hørsholm,3,Rungsted,B_Katja_Elberg,Katja Elberg,Radikale Venstre,8
+Hørsholm,3,Rungsted,B_Lone_Heyde,Lone Heyde,Radikale Venstre,3
+Hørsholm,3,Rungsted,B_Peer_Tidemand-Petersson,Peer Tidemand-Petersson,Radikale Venstre,1
+Hørsholm,3,Rungsted,B_Birgitte_Finnemann_Bruun,Birgitte Finnemann Bruun,Radikale Venstre,17
+Hørsholm,3,Rungsted,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,254
+Hørsholm,3,Rungsted,C_Morten_Slotved,Morten Slotved,Det Konservative Folkeparti,327
+Hørsholm,3,Rungsted,C_Maj_Allin_Thorup,Maj Allin Thorup,Det Konservative Folkeparti,56
+Hørsholm,3,Rungsted,C_Bent_Fabricius,Bent Fabricius,Det Konservative Folkeparti,20
+Hørsholm,3,Rungsted,C_Charlotte_Kirchheiner,Charlotte Kirchheiner,Det Konservative Folkeparti,170
+Hørsholm,3,Rungsted,C_Jan_H._Klit,Jan H. Klit,Det Konservative Folkeparti,59
+Hørsholm,3,Rungsted,C_Annette_Wiencken,Annette Wiencken,Det Konservative Folkeparti,92
+Hørsholm,3,Rungsted,C_Esben_Dyekjær,Esben Dyekjær,Det Konservative Folkeparti,19
+Hørsholm,3,Rungsted,C_Eva_Bryld,Eva Bryld,Det Konservative Folkeparti,6
+Hørsholm,3,Rungsted,C_John_M._Jensen,John M. Jensen,Det Konservative Folkeparti,3
+Hørsholm,3,Rungsted,C_Ole_Wessung,Ole Wessung,Det Konservative Folkeparti,83
+Hørsholm,3,Rungsted,C_Otto_B._Christiansen,Otto B. Christiansen,Det Konservative Folkeparti,36
+Hørsholm,3,Rungsted,C_Per_Balser,Per Balser,Det Konservative Folkeparti,3
+Hørsholm,3,Rungsted,C_Peter_Agger,Peter Agger,Det Konservative Folkeparti,15
+Hørsholm,3,Rungsted,C_Renata_Frolova,Renata Frolova,Det Konservative Folkeparti,4
+Hørsholm,3,Rungsted,C_Steffen_Brygger_Lund,Steffen Brygger Lund,Det Konservative Folkeparti,21
+Hørsholm,3,Rungsted,C_Knud_Düring,Knud Düring,Det Konservative Folkeparti,3
+Hørsholm,3,Rungsted,C_Inga_Nielsen,Inga Nielsen,Det Konservative Folkeparti,6
+Hørsholm,3,Rungsted,C_Tomas_Dyrbye,Tomas Dyrbye,Det Konservative Folkeparti,34
+Hørsholm,3,Rungsted,D_Listestemmer,Listestemmer,Nye Borgerlige,46
+Hørsholm,3,Rungsted,D_Erik_Rosenkrantz_Fuglsang,Erik Rosenkrantz Fuglsang,Nye Borgerlige,54
+Hørsholm,3,Rungsted,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,24
+Hørsholm,3,Rungsted,F_Louise_Zabel,Louise Zabel,SF - Socialistisk Folkeparti,34
+Hørsholm,3,Rungsted,F_Ib_Tune_Olsen,Ib Tune Olsen,SF - Socialistisk Folkeparti,14
+Hørsholm,3,Rungsted,I_Listestemmer,Listestemmer,Liberal Alliance,65
+Hørsholm,3,Rungsted,I_Stine_Darmer,Stine Darmer,Liberal Alliance,69
+Hørsholm,3,Rungsted,I_Jes_Holm,Jes Holm,Liberal Alliance,8
+Hørsholm,3,Rungsted,I_Ronni_Joensen,Ronni Joensen,Liberal Alliance,8
+Hørsholm,3,Rungsted,I_Niels_Hammer-Jespersen,Niels Hammer-Jespersen,Liberal Alliance,2
+Hørsholm,3,Rungsted,K_Listestemmer,Listestemmer,Kristendemokraterne,1
+Hørsholm,3,Rungsted,K_Stig_Grenov,Stig Grenov,Kristendemokraterne,2
+Hørsholm,3,Rungsted,O_Listestemmer,Listestemmer,Dansk Folkeparti,4
+Hørsholm,3,Rungsted,O_Glen_Madsen,Glen Madsen,Dansk Folkeparti,13
+Hørsholm,3,Rungsted,O_Søren_Kibsgaard,Søren Kibsgaard,Dansk Folkeparti,1
+Hørsholm,3,Rungsted,O_Olena_Duus,Olena Duus,Dansk Folkeparti,6
+Hørsholm,3,Rungsted,O_Nina_Weber,Nina Weber,Dansk Folkeparti,0
+Hørsholm,3,Rungsted,O_Dorte_Greulich,Dorte Greulich,Dansk Folkeparti,0
+Hørsholm,3,Rungsted,O_Stella_Lund,Stella Lund,Dansk Folkeparti,0
+Hørsholm,3,Rungsted,O_Nicolas_Lund,Nicolas Lund,Dansk Folkeparti,0
+Hørsholm,3,Rungsted,O_Lena_Nordstrøm,Lena Nordstrøm,Dansk Folkeparti,0
+Hørsholm,3,Rungsted,Q_Listestemmer,Listestemmer,SocialKonservative,8
+Hørsholm,3,Rungsted,Q_Thorkild_Gruelund,Thorkild Gruelund,SocialKonservative,36
+Hørsholm,3,Rungsted,Q_René_Nisse_Christensen,René Nisse Christensen,SocialKonservative,3
+Hørsholm,3,Rungsted,Q_Josefine_Sanne,Josefine Sanne,SocialKonservative,6
+Hørsholm,3,Rungsted,Q_Christoffer_Henriksen,Christoffer Henriksen,SocialKonservative,0
+Hørsholm,3,Rungsted,Q_Verner_Knudsen,Verner Knudsen,SocialKonservative,0
+Hørsholm,3,Rungsted,Q_Vibeke_Hindsberg,Vibeke Hindsberg,SocialKonservative,3
+Hørsholm,3,Rungsted,Q_Gitte_Sornn-Friese,Gitte Sornn-Friese,SocialKonservative,4
+Hørsholm,3,Rungsted,Q_Thomas_Kent_Larsen,Thomas Kent Larsen,SocialKonservative,1
+Hørsholm,3,Rungsted,Q_Anders_Kinnerup,Anders Kinnerup,SocialKonservative,0
+Hørsholm,3,Rungsted,Q_Kjeld_Flemming_Nielsen,Kjeld Flemming Nielsen,SocialKonservative,0
+Hørsholm,3,Rungsted,Q_Ella_Andersen,Ella Andersen,SocialKonservative,3
+Hørsholm,3,Rungsted,Q_Ib_Lunde,Ib Lunde,SocialKonservative,3
+Hørsholm,3,Rungsted,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",186
+Hørsholm,3,Rungsted,V_Ann_Lindhardt,Ann Lindhardt,"Venstre, Danmarks Liberale Parti",371
+Hørsholm,3,Rungsted,V_Anne_Ehrenreich,Anne Ehrenreich,"Venstre, Danmarks Liberale Parti",191
+Hørsholm,3,Rungsted,V_Christian_Wikström,Christian Wikström,"Venstre, Danmarks Liberale Parti",22
+Hørsholm,3,Rungsted,V_Janus_Engelund,Janus Engelund,"Venstre, Danmarks Liberale Parti",18
+Hørsholm,3,Rungsted,V_Birger_Bøgeblad,Birger Bøgeblad,"Venstre, Danmarks Liberale Parti",28
+Hørsholm,3,Rungsted,V_Thomas_Madsen,Thomas Madsen,"Venstre, Danmarks Liberale Parti",10
+Hørsholm,3,Rungsted,V_Preben_Carøe,Preben Carøe,"Venstre, Danmarks Liberale Parti",2
+Hørsholm,3,Rungsted,V_Jesper_Sperling,Jesper Sperling,"Venstre, Danmarks Liberale Parti",40
+Hørsholm,3,Rungsted,V_Lars_Frederik_Thalbitzer,Lars Frederik Thalbitzer,"Venstre, Danmarks Liberale Parti",9
+Hørsholm,3,Rungsted,V_Dorthe_Bajon,Dorthe Bajon,"Venstre, Danmarks Liberale Parti",3
+Hørsholm,3,Rungsted,V_Birgitte_Dyreborg,Birgitte Dyreborg,"Venstre, Danmarks Liberale Parti",27
+Hørsholm,3,Rungsted,V_Jacob_Schulze,Jacob Schulze,"Venstre, Danmarks Liberale Parti",6
+Hørsholm,3,Rungsted,V_Fie_Smith,Fie Smith,"Venstre, Danmarks Liberale Parti",24
+Hørsholm,3,Rungsted,V_Lone_Sønderbo,Lone Sønderbo,"Venstre, Danmarks Liberale Parti",5
+Hørsholm,3,Rungsted,V_Karsten_Eckert,Karsten Eckert,"Venstre, Danmarks Liberale Parti",2
+Hørsholm,3,Rungsted,V_Kenny_Neuchs,Kenny Neuchs,"Venstre, Danmarks Liberale Parti",0
+Hørsholm,3,Rungsted,V_Erik_Wetche,Erik Wetche,"Venstre, Danmarks Liberale Parti",0
+Hørsholm,4,Grønnegade,A_Listestemmer,Listestemmer,Socialdemokratiet,3
+Hørsholm,4,Grønnegade,A_Svend_Erik_Christiansen,Svend Erik Christiansen,Socialdemokratiet,1
+Hørsholm,4,Grønnegade,A_Dickte_Noël_Toft,Dickte Noël Toft,Socialdemokratiet,0
+Hørsholm,4,Grønnegade,A_Marcus_Guldager,Marcus Guldager,Socialdemokratiet,4
+Hørsholm,4,Grønnegade,A_Stine_Pagh,Stine Pagh,Socialdemokratiet,2
+Hørsholm,4,Grønnegade,A_Caroline_Victoria_Christensen,Caroline Victoria Christensen,Socialdemokratiet,3
+Hørsholm,4,Grønnegade,A_Bo_Bilde,Bo Bilde,Socialdemokratiet,0
+Hørsholm,4,Grønnegade,B_Listestemmer,Listestemmer,Radikale Venstre,3
+Hørsholm,4,Grønnegade,B_Henrik_Klitgaard,Henrik Klitgaard,Radikale Venstre,4
+Hørsholm,4,Grønnegade,B_Hans_Laugesen,Hans Laugesen,Radikale Venstre,1
+Hørsholm,4,Grønnegade,B_Emilie_Andersen-Ranberg,Emilie Andersen-Ranberg,Radikale Venstre,13
+Hørsholm,4,Grønnegade,B_Katja_Elberg,Katja Elberg,Radikale Venstre,0
+Hørsholm,4,Grønnegade,B_Lone_Heyde,Lone Heyde,Radikale Venstre,0
+Hørsholm,4,Grønnegade,B_Peer_Tidemand-Petersson,Peer Tidemand-Petersson,Radikale Venstre,0
+Hørsholm,4,Grønnegade,B_Birgitte_Finnemann_Bruun,Birgitte Finnemann Bruun,Radikale Venstre,2
+Hørsholm,4,Grønnegade,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,16
+Hørsholm,4,Grønnegade,C_Morten_Slotved,Morten Slotved,Det Konservative Folkeparti,44
+Hørsholm,4,Grønnegade,C_Maj_Allin_Thorup,Maj Allin Thorup,Det Konservative Folkeparti,5
+Hørsholm,4,Grønnegade,C_Bent_Fabricius,Bent Fabricius,Det Konservative Folkeparti,0
+Hørsholm,4,Grønnegade,C_Charlotte_Kirchheiner,Charlotte Kirchheiner,Det Konservative Folkeparti,5
+Hørsholm,4,Grønnegade,C_Jan_H._Klit,Jan H. Klit,Det Konservative Folkeparti,2
+Hørsholm,4,Grønnegade,C_Annette_Wiencken,Annette Wiencken,Det Konservative Folkeparti,6
+Hørsholm,4,Grønnegade,C_Esben_Dyekjær,Esben Dyekjær,Det Konservative Folkeparti,2
+Hørsholm,4,Grønnegade,C_Eva_Bryld,Eva Bryld,Det Konservative Folkeparti,1
+Hørsholm,4,Grønnegade,C_John_M._Jensen,John M. Jensen,Det Konservative Folkeparti,0
+Hørsholm,4,Grønnegade,C_Ole_Wessung,Ole Wessung,Det Konservative Folkeparti,4
+Hørsholm,4,Grønnegade,C_Otto_B._Christiansen,Otto B. Christiansen,Det Konservative Folkeparti,0
+Hørsholm,4,Grønnegade,C_Per_Balser,Per Balser,Det Konservative Folkeparti,0
+Hørsholm,4,Grønnegade,C_Peter_Agger,Peter Agger,Det Konservative Folkeparti,1
+Hørsholm,4,Grønnegade,C_Renata_Frolova,Renata Frolova,Det Konservative Folkeparti,0
+Hørsholm,4,Grønnegade,C_Steffen_Brygger_Lund,Steffen Brygger Lund,Det Konservative Folkeparti,1
+Hørsholm,4,Grønnegade,C_Knud_Düring,Knud Düring,Det Konservative Folkeparti,0
+Hørsholm,4,Grønnegade,C_Inga_Nielsen,Inga Nielsen,Det Konservative Folkeparti,0
+Hørsholm,4,Grønnegade,C_Tomas_Dyrbye,Tomas Dyrbye,Det Konservative Folkeparti,4
+Hørsholm,4,Grønnegade,D_Listestemmer,Listestemmer,Nye Borgerlige,11
+Hørsholm,4,Grønnegade,D_Erik_Rosenkrantz_Fuglsang,Erik Rosenkrantz Fuglsang,Nye Borgerlige,6
+Hørsholm,4,Grønnegade,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,4
+Hørsholm,4,Grønnegade,F_Louise_Zabel,Louise Zabel,SF - Socialistisk Folkeparti,6
+Hørsholm,4,Grønnegade,F_Ib_Tune_Olsen,Ib Tune Olsen,SF - Socialistisk Folkeparti,0
+Hørsholm,4,Grønnegade,I_Listestemmer,Listestemmer,Liberal Alliance,2
+Hørsholm,4,Grønnegade,I_Stine_Darmer,Stine Darmer,Liberal Alliance,1
+Hørsholm,4,Grønnegade,I_Jes_Holm,Jes Holm,Liberal Alliance,0
+Hørsholm,4,Grønnegade,I_Ronni_Joensen,Ronni Joensen,Liberal Alliance,1
+Hørsholm,4,Grønnegade,I_Niels_Hammer-Jespersen,Niels Hammer-Jespersen,Liberal Alliance,0
+Hørsholm,4,Grønnegade,K_Listestemmer,Listestemmer,Kristendemokraterne,0
+Hørsholm,4,Grønnegade,K_Stig_Grenov,Stig Grenov,Kristendemokraterne,3
+Hørsholm,4,Grønnegade,O_Listestemmer,Listestemmer,Dansk Folkeparti,1
+Hørsholm,4,Grønnegade,O_Glen_Madsen,Glen Madsen,Dansk Folkeparti,2
+Hørsholm,4,Grønnegade,O_Søren_Kibsgaard,Søren Kibsgaard,Dansk Folkeparti,1
+Hørsholm,4,Grønnegade,O_Olena_Duus,Olena Duus,Dansk Folkeparti,0
+Hørsholm,4,Grønnegade,O_Nina_Weber,Nina Weber,Dansk Folkeparti,0
+Hørsholm,4,Grønnegade,O_Dorte_Greulich,Dorte Greulich,Dansk Folkeparti,0
+Hørsholm,4,Grønnegade,O_Stella_Lund,Stella Lund,Dansk Folkeparti,0
+Hørsholm,4,Grønnegade,O_Nicolas_Lund,Nicolas Lund,Dansk Folkeparti,0
+Hørsholm,4,Grønnegade,O_Lena_Nordstrøm,Lena Nordstrøm,Dansk Folkeparti,0
+Hørsholm,4,Grønnegade,Q_Listestemmer,Listestemmer,SocialKonservative,1
+Hørsholm,4,Grønnegade,Q_Thorkild_Gruelund,Thorkild Gruelund,SocialKonservative,11
+Hørsholm,4,Grønnegade,Q_René_Nisse_Christensen,René Nisse Christensen,SocialKonservative,0
+Hørsholm,4,Grønnegade,Q_Josefine_Sanne,Josefine Sanne,SocialKonservative,0
+Hørsholm,4,Grønnegade,Q_Christoffer_Henriksen,Christoffer Henriksen,SocialKonservative,0
+Hørsholm,4,Grønnegade,Q_Verner_Knudsen,Verner Knudsen,SocialKonservative,2
+Hørsholm,4,Grønnegade,Q_Vibeke_Hindsberg,Vibeke Hindsberg,SocialKonservative,0
+Hørsholm,4,Grønnegade,Q_Gitte_Sornn-Friese,Gitte Sornn-Friese,SocialKonservative,0
+Hørsholm,4,Grønnegade,Q_Thomas_Kent_Larsen,Thomas Kent Larsen,SocialKonservative,1
+Hørsholm,4,Grønnegade,Q_Anders_Kinnerup,Anders Kinnerup,SocialKonservative,0
+Hørsholm,4,Grønnegade,Q_Kjeld_Flemming_Nielsen,Kjeld Flemming Nielsen,SocialKonservative,0
+Hørsholm,4,Grønnegade,Q_Ella_Andersen,Ella Andersen,SocialKonservative,0
+Hørsholm,4,Grønnegade,Q_Ib_Lunde,Ib Lunde,SocialKonservative,0
+Hørsholm,4,Grønnegade,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",17
+Hørsholm,4,Grønnegade,V_Ann_Lindhardt,Ann Lindhardt,"Venstre, Danmarks Liberale Parti",44
+Hørsholm,4,Grønnegade,V_Anne_Ehrenreich,Anne Ehrenreich,"Venstre, Danmarks Liberale Parti",8
+Hørsholm,4,Grønnegade,V_Christian_Wikström,Christian Wikström,"Venstre, Danmarks Liberale Parti",0
+Hørsholm,4,Grønnegade,V_Janus_Engelund,Janus Engelund,"Venstre, Danmarks Liberale Parti",3
+Hørsholm,4,Grønnegade,V_Birger_Bøgeblad,Birger Bøgeblad,"Venstre, Danmarks Liberale Parti",0
+Hørsholm,4,Grønnegade,V_Thomas_Madsen,Thomas Madsen,"Venstre, Danmarks Liberale Parti",3
+Hørsholm,4,Grønnegade,V_Preben_Carøe,Preben Carøe,"Venstre, Danmarks Liberale Parti",0
+Hørsholm,4,Grønnegade,V_Jesper_Sperling,Jesper Sperling,"Venstre, Danmarks Liberale Parti",1
+Hørsholm,4,Grønnegade,V_Lars_Frederik_Thalbitzer,Lars Frederik Thalbitzer,"Venstre, Danmarks Liberale Parti",0
+Hørsholm,4,Grønnegade,V_Dorthe_Bajon,Dorthe Bajon,"Venstre, Danmarks Liberale Parti",0
+Hørsholm,4,Grønnegade,V_Birgitte_Dyreborg,Birgitte Dyreborg,"Venstre, Danmarks Liberale Parti",1
+Hørsholm,4,Grønnegade,V_Jacob_Schulze,Jacob Schulze,"Venstre, Danmarks Liberale Parti",6
+Hørsholm,4,Grønnegade,V_Fie_Smith,Fie Smith,"Venstre, Danmarks Liberale Parti",0
+Hørsholm,4,Grønnegade,V_Lone_Sønderbo,Lone Sønderbo,"Venstre, Danmarks Liberale Parti",0
+Hørsholm,4,Grønnegade,V_Karsten_Eckert,Karsten Eckert,"Venstre, Danmarks Liberale Parti",0
+Hørsholm,4,Grønnegade,V_Kenny_Neuchs,Kenny Neuchs,"Venstre, Danmarks Liberale Parti",0
+Hørsholm,4,Grønnegade,V_Erik_Wetche,Erik Wetche,"Venstre, Danmarks Liberale Parti",0
+Hørsholm,5,Vallerød,A_Listestemmer,Listestemmer,Socialdemokratiet,155
+Hørsholm,5,Vallerød,A_Svend_Erik_Christiansen,Svend Erik Christiansen,Socialdemokratiet,52
+Hørsholm,5,Vallerød,A_Dickte_Noël_Toft,Dickte Noël Toft,Socialdemokratiet,39
+Hørsholm,5,Vallerød,A_Marcus_Guldager,Marcus Guldager,Socialdemokratiet,107
+Hørsholm,5,Vallerød,A_Stine_Pagh,Stine Pagh,Socialdemokratiet,40
+Hørsholm,5,Vallerød,A_Caroline_Victoria_Christensen,Caroline Victoria Christensen,Socialdemokratiet,69
+Hørsholm,5,Vallerød,A_Bo_Bilde,Bo Bilde,Socialdemokratiet,9
+Hørsholm,5,Vallerød,B_Listestemmer,Listestemmer,Radikale Venstre,65
+Hørsholm,5,Vallerød,B_Henrik_Klitgaard,Henrik Klitgaard,Radikale Venstre,65
+Hørsholm,5,Vallerød,B_Hans_Laugesen,Hans Laugesen,Radikale Venstre,7
+Hørsholm,5,Vallerød,B_Emilie_Andersen-Ranberg,Emilie Andersen-Ranberg,Radikale Venstre,64
+Hørsholm,5,Vallerød,B_Katja_Elberg,Katja Elberg,Radikale Venstre,22
+Hørsholm,5,Vallerød,B_Lone_Heyde,Lone Heyde,Radikale Venstre,6
+Hørsholm,5,Vallerød,B_Peer_Tidemand-Petersson,Peer Tidemand-Petersson,Radikale Venstre,2
+Hørsholm,5,Vallerød,B_Birgitte_Finnemann_Bruun,Birgitte Finnemann Bruun,Radikale Venstre,14
+Hørsholm,5,Vallerød,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,292
+Hørsholm,5,Vallerød,C_Morten_Slotved,Morten Slotved,Det Konservative Folkeparti,399
+Hørsholm,5,Vallerød,C_Maj_Allin_Thorup,Maj Allin Thorup,Det Konservative Folkeparti,119
+Hørsholm,5,Vallerød,C_Bent_Fabricius,Bent Fabricius,Det Konservative Folkeparti,29
+Hørsholm,5,Vallerød,C_Charlotte_Kirchheiner,Charlotte Kirchheiner,Det Konservative Folkeparti,160
+Hørsholm,5,Vallerød,C_Jan_H._Klit,Jan H. Klit,Det Konservative Folkeparti,41
+Hørsholm,5,Vallerød,C_Annette_Wiencken,Annette Wiencken,Det Konservative Folkeparti,89
+Hørsholm,5,Vallerød,C_Esben_Dyekjær,Esben Dyekjær,Det Konservative Folkeparti,26
+Hørsholm,5,Vallerød,C_Eva_Bryld,Eva Bryld,Det Konservative Folkeparti,39
+Hørsholm,5,Vallerød,C_John_M._Jensen,John M. Jensen,Det Konservative Folkeparti,12
+Hørsholm,5,Vallerød,C_Ole_Wessung,Ole Wessung,Det Konservative Folkeparti,66
+Hørsholm,5,Vallerød,C_Otto_B._Christiansen,Otto B. Christiansen,Det Konservative Folkeparti,33
+Hørsholm,5,Vallerød,C_Per_Balser,Per Balser,Det Konservative Folkeparti,2
+Hørsholm,5,Vallerød,C_Peter_Agger,Peter Agger,Det Konservative Folkeparti,23
+Hørsholm,5,Vallerød,C_Renata_Frolova,Renata Frolova,Det Konservative Folkeparti,9
+Hørsholm,5,Vallerød,C_Steffen_Brygger_Lund,Steffen Brygger Lund,Det Konservative Folkeparti,15
+Hørsholm,5,Vallerød,C_Knud_Düring,Knud Düring,Det Konservative Folkeparti,4
+Hørsholm,5,Vallerød,C_Inga_Nielsen,Inga Nielsen,Det Konservative Folkeparti,6
+Hørsholm,5,Vallerød,C_Tomas_Dyrbye,Tomas Dyrbye,Det Konservative Folkeparti,35
+Hørsholm,5,Vallerød,D_Listestemmer,Listestemmer,Nye Borgerlige,58
+Hørsholm,5,Vallerød,D_Erik_Rosenkrantz_Fuglsang,Erik Rosenkrantz Fuglsang,Nye Borgerlige,64
+Hørsholm,5,Vallerød,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,50
+Hørsholm,5,Vallerød,F_Louise_Zabel,Louise Zabel,SF - Socialistisk Folkeparti,115
+Hørsholm,5,Vallerød,F_Ib_Tune_Olsen,Ib Tune Olsen,SF - Socialistisk Folkeparti,19
+Hørsholm,5,Vallerød,I_Listestemmer,Listestemmer,Liberal Alliance,36
+Hørsholm,5,Vallerød,I_Stine_Darmer,Stine Darmer,Liberal Alliance,50
+Hørsholm,5,Vallerød,I_Jes_Holm,Jes Holm,Liberal Alliance,5
+Hørsholm,5,Vallerød,I_Ronni_Joensen,Ronni Joensen,Liberal Alliance,7
+Hørsholm,5,Vallerød,I_Niels_Hammer-Jespersen,Niels Hammer-Jespersen,Liberal Alliance,1
+Hørsholm,5,Vallerød,K_Listestemmer,Listestemmer,Kristendemokraterne,2
+Hørsholm,5,Vallerød,K_Stig_Grenov,Stig Grenov,Kristendemokraterne,16
+Hørsholm,5,Vallerød,O_Listestemmer,Listestemmer,Dansk Folkeparti,34
+Hørsholm,5,Vallerød,O_Glen_Madsen,Glen Madsen,Dansk Folkeparti,110
+Hørsholm,5,Vallerød,O_Søren_Kibsgaard,Søren Kibsgaard,Dansk Folkeparti,2
+Hørsholm,5,Vallerød,O_Olena_Duus,Olena Duus,Dansk Folkeparti,0
+Hørsholm,5,Vallerød,O_Nina_Weber,Nina Weber,Dansk Folkeparti,2
+Hørsholm,5,Vallerød,O_Dorte_Greulich,Dorte Greulich,Dansk Folkeparti,0
+Hørsholm,5,Vallerød,O_Stella_Lund,Stella Lund,Dansk Folkeparti,2
+Hørsholm,5,Vallerød,O_Nicolas_Lund,Nicolas Lund,Dansk Folkeparti,1
+Hørsholm,5,Vallerød,O_Lena_Nordstrøm,Lena Nordstrøm,Dansk Folkeparti,1
+Hørsholm,5,Vallerød,Q_Listestemmer,Listestemmer,SocialKonservative,30
+Hørsholm,5,Vallerød,Q_Thorkild_Gruelund,Thorkild Gruelund,SocialKonservative,143
+Hørsholm,5,Vallerød,Q_René_Nisse_Christensen,René Nisse Christensen,SocialKonservative,8
+Hørsholm,5,Vallerød,Q_Josefine_Sanne,Josefine Sanne,SocialKonservative,11
+Hørsholm,5,Vallerød,Q_Christoffer_Henriksen,Christoffer Henriksen,SocialKonservative,7
+Hørsholm,5,Vallerød,Q_Verner_Knudsen,Verner Knudsen,SocialKonservative,7
+Hørsholm,5,Vallerød,Q_Vibeke_Hindsberg,Vibeke Hindsberg,SocialKonservative,5
+Hørsholm,5,Vallerød,Q_Gitte_Sornn-Friese,Gitte Sornn-Friese,SocialKonservative,7
+Hørsholm,5,Vallerød,Q_Thomas_Kent_Larsen,Thomas Kent Larsen,SocialKonservative,5
+Hørsholm,5,Vallerød,Q_Anders_Kinnerup,Anders Kinnerup,SocialKonservative,1
+Hørsholm,5,Vallerød,Q_Kjeld_Flemming_Nielsen,Kjeld Flemming Nielsen,SocialKonservative,0
+Hørsholm,5,Vallerød,Q_Ella_Andersen,Ella Andersen,SocialKonservative,2
+Hørsholm,5,Vallerød,Q_Ib_Lunde,Ib Lunde,SocialKonservative,6
+Hørsholm,5,Vallerød,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",221
+Hørsholm,5,Vallerød,V_Ann_Lindhardt,Ann Lindhardt,"Venstre, Danmarks Liberale Parti",380
+Hørsholm,5,Vallerød,V_Anne_Ehrenreich,Anne Ehrenreich,"Venstre, Danmarks Liberale Parti",134
+Hørsholm,5,Vallerød,V_Christian_Wikström,Christian Wikström,"Venstre, Danmarks Liberale Parti",22
+Hørsholm,5,Vallerød,V_Janus_Engelund,Janus Engelund,"Venstre, Danmarks Liberale Parti",9
+Hørsholm,5,Vallerød,V_Birger_Bøgeblad,Birger Bøgeblad,"Venstre, Danmarks Liberale Parti",18
+Hørsholm,5,Vallerød,V_Thomas_Madsen,Thomas Madsen,"Venstre, Danmarks Liberale Parti",59
+Hørsholm,5,Vallerød,V_Preben_Carøe,Preben Carøe,"Venstre, Danmarks Liberale Parti",11
+Hørsholm,5,Vallerød,V_Jesper_Sperling,Jesper Sperling,"Venstre, Danmarks Liberale Parti",38
+Hørsholm,5,Vallerød,V_Lars_Frederik_Thalbitzer,Lars Frederik Thalbitzer,"Venstre, Danmarks Liberale Parti",20
+Hørsholm,5,Vallerød,V_Dorthe_Bajon,Dorthe Bajon,"Venstre, Danmarks Liberale Parti",15
+Hørsholm,5,Vallerød,V_Birgitte_Dyreborg,Birgitte Dyreborg,"Venstre, Danmarks Liberale Parti",12
+Hørsholm,5,Vallerød,V_Jacob_Schulze,Jacob Schulze,"Venstre, Danmarks Liberale Parti",14
+Hørsholm,5,Vallerød,V_Fie_Smith,Fie Smith,"Venstre, Danmarks Liberale Parti",16
+Hørsholm,5,Vallerød,V_Lone_Sønderbo,Lone Sønderbo,"Venstre, Danmarks Liberale Parti",2
+Hørsholm,5,Vallerød,V_Karsten_Eckert,Karsten Eckert,"Venstre, Danmarks Liberale Parti",13
+Hørsholm,5,Vallerød,V_Kenny_Neuchs,Kenny Neuchs,"Venstre, Danmarks Liberale Parti",5
+Hørsholm,5,Vallerød,V_Erik_Wetche,Erik Wetche,"Venstre, Danmarks Liberale Parti",0
