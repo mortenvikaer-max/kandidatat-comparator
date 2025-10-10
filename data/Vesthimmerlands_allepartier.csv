@@ -1,0 +1,1233 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Vesthimmerlands,1,Aalestrup,A_Listestemmer,Listestemmer,Socialdemokratiet,69
+Vesthimmerlands,1,Aalestrup,A_Asger_Andersen,Asger Andersen,Socialdemokratiet,24
+Vesthimmerlands,1,Aalestrup,A_Anders_Kjær_Kristensen,Anders Kjær Kristensen,Socialdemokratiet,3
+Vesthimmerlands,1,Aalestrup,A_Erik_Stagsted,Erik Stagsted,Socialdemokratiet,1
+Vesthimmerlands,1,Aalestrup,A_Kenneth_Nyholm,Kenneth Nyholm,Socialdemokratiet,2
+Vesthimmerlands,1,Aalestrup,A_Mikael_Toft,Mikael Toft,Socialdemokratiet,3
+Vesthimmerlands,1,Aalestrup,A_Henrik_Harris_Sloth,Henrik Harris Sloth,Socialdemokratiet,8
+Vesthimmerlands,1,Aalestrup,A_Doris_Lauritzen,Doris Lauritzen,Socialdemokratiet,21
+Vesthimmerlands,1,Aalestrup,A_Rasmus_Vetter,Rasmus Vetter,Socialdemokratiet,200
+Vesthimmerlands,1,Aalestrup,A_Andreea_Buza,Andreea Buza,Socialdemokratiet,6
+Vesthimmerlands,1,Aalestrup,A_Jens_Chr._Pedersen,Jens Chr. Pedersen,Socialdemokratiet,4
+Vesthimmerlands,1,Aalestrup,A_Morten_Lindblad,Morten Lindblad,Socialdemokratiet,9
+Vesthimmerlands,1,Aalestrup,A_Kirsten_Marie_Olsen,Kirsten Marie Olsen,Socialdemokratiet,17
+Vesthimmerlands,1,Aalestrup,B_Listestemmer,Listestemmer,Radikale Venstre,6
+Vesthimmerlands,1,Aalestrup,"B_Gitte_Lopdrup,_Aars","Gitte Lopdrup, Aars",Radikale Venstre,6
+Vesthimmerlands,1,Aalestrup,"B_Jannie_Valentin_Dexter_Jakobsen,Fa","Jannie Valentin Dexter Jakobsen,Fa",Radikale Venstre,2
+Vesthimmerlands,1,Aalestrup,"B_Kristine_Bloch_Steendahl,_Farsø","Kristine Bloch Steendahl, Farsø",Radikale Venstre,8
+Vesthimmerlands,1,Aalestrup,"B_Karsten_Kjærgaard,_Livø","Karsten Kjærgaard, Livø",Radikale Venstre,0
+Vesthimmerlands,1,Aalestrup,"B_Søren_Dolmer,_Aars","Søren Dolmer, Aars",Radikale Venstre,2
+Vesthimmerlands,1,Aalestrup,"B_Hans_Grishauge,_Gatten","Hans Grishauge, Gatten",Radikale Venstre,1
+Vesthimmerlands,1,Aalestrup,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,35
+Vesthimmerlands,1,Aalestrup,"C_Signe_Nøhr,_Hornum","Signe Nøhr, Hornum",Det Konservative Folkeparti,68
+Vesthimmerlands,1,Aalestrup,"C_Svend_Jørgensen,_Aars","Svend Jørgensen, Aars",Det Konservative Folkeparti,12
+Vesthimmerlands,1,Aalestrup,"C_Henrik_Dalgaard,_Aars","Henrik Dalgaard, Aars",Det Konservative Folkeparti,7
+Vesthimmerlands,1,Aalestrup,"C_Jeppe_Korreborg_Pedersen,Aalestrup","Jeppe Korreborg Pedersen,Aalestrup",Det Konservative Folkeparti,450
+Vesthimmerlands,1,Aalestrup,"C_Allan_Ritter,_Løgstør","Allan Ritter, Løgstør",Det Konservative Folkeparti,1
+Vesthimmerlands,1,Aalestrup,"C_Niels_Krebs,_Farsø","Niels Krebs, Farsø",Det Konservative Folkeparti,3
+Vesthimmerlands,1,Aalestrup,"C_Per_Nyborg,_Aars","Per Nyborg, Aars",Det Konservative Folkeparti,5
+Vesthimmerlands,1,Aalestrup,"C_Johan_Gammelholm-Hagstrup,_Ranum","Johan Gammelholm-Hagstrup, Ranum",Det Konservative Folkeparti,2
+Vesthimmerlands,1,Aalestrup,"C_Steffen_Lønsmann,_Vester_Hornum","Steffen Lønsmann, Vester Hornum",Det Konservative Folkeparti,11
+Vesthimmerlands,1,Aalestrup,"C_Ulla_Skov,_Aalestrup","Ulla Skov, Aalestrup",Det Konservative Folkeparti,35
+Vesthimmerlands,1,Aalestrup,"C_Vittus_Bernlow,_Gunderup","Vittus Bernlow, Gunderup",Det Konservative Folkeparti,0
+Vesthimmerlands,1,Aalestrup,"C_Bettina_Haldrup_Nielsen,_Løgstør","Bettina Haldrup Nielsen, Løgstør",Det Konservative Folkeparti,1
+Vesthimmerlands,1,Aalestrup,"C_Ulrik_Mark_Jensen,_Gundersted","Ulrik Mark Jensen, Gundersted",Det Konservative Folkeparti,3
+Vesthimmerlands,1,Aalestrup,"C_Willy_Møller,_Farsø","Willy Møller, Farsø",Det Konservative Folkeparti,1
+Vesthimmerlands,1,Aalestrup,D_Listestemmer,Listestemmer,Nye Borgerlige,23
+Vesthimmerlands,1,Aalestrup,"D_Lars_Rem,_Hvalpsund","Lars Rem, Hvalpsund",Nye Borgerlige,17
+Vesthimmerlands,1,Aalestrup,"D_Stefan_Larsen,_Thorup","Stefan Larsen, Thorup",Nye Borgerlige,24
+Vesthimmerlands,1,Aalestrup,"D_Frank_Krogstrup,_Vegger","Frank Krogstrup, Vegger",Nye Borgerlige,0
+Vesthimmerlands,1,Aalestrup,"D_Martin_Riisgaard-Jensen,_Løgstør","Martin Riisgaard-Jensen, Løgstør",Nye Borgerlige,5
+Vesthimmerlands,1,Aalestrup,"D_René_Nielsen,_Ranum","René Nielsen, Ranum",Nye Borgerlige,0
+Vesthimmerlands,1,Aalestrup,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,17
+Vesthimmerlands,1,Aalestrup,"F_Theresa_Berg_Andersen,_Vilsted","Theresa Berg Andersen, Vilsted",SF - Socialistisk Folkeparti,67
+Vesthimmerlands,1,Aalestrup,"F_Karen_Clausager,_Aars","Karen Clausager, Aars",SF - Socialistisk Folkeparti,4
+Vesthimmerlands,1,Aalestrup,"F_AnnaGrethe_Sperling,_Farsø","AnnaGrethe Sperling, Farsø",SF - Socialistisk Folkeparti,1
+Vesthimmerlands,1,Aalestrup,"F_Erik_Bernth_Nielsen,_Ranum","Erik Bernth Nielsen, Ranum",SF - Socialistisk Folkeparti,3
+Vesthimmerlands,1,Aalestrup,"F_David_Rathkjen,_Gedsted","David Rathkjen, Gedsted",SF - Socialistisk Folkeparti,1
+Vesthimmerlands,1,Aalestrup,"F_Henning_Josefsen,_Løgstør","Henning Josefsen, Løgstør",SF - Socialistisk Folkeparti,0
+Vesthimmerlands,1,Aalestrup,"F_Leif_Larsen,_Løgstør","Leif Larsen, Løgstør",SF - Socialistisk Folkeparti,0
+Vesthimmerlands,1,Aalestrup,"F_Jane_Bonnerup,_Gedsted","Jane Bonnerup, Gedsted",SF - Socialistisk Folkeparti,6
+Vesthimmerlands,1,Aalestrup,K_Listestemmer,Listestemmer,Kristendemokraterne,0
+Vesthimmerlands,1,Aalestrup,"K_Anne-Marie_Jørgensen,_Vilsted","Anne-Marie Jørgensen, Vilsted",Kristendemokraterne,6
+Vesthimmerlands,1,Aalestrup,"K_Baruti_Mkuninwa,_Aars","Baruti Mkuninwa, Aars",Kristendemokraterne,1
+Vesthimmerlands,1,Aalestrup,"K_Helle_Madsen,_Ranum","Helle Madsen, Ranum",Kristendemokraterne,1
+Vesthimmerlands,1,Aalestrup,L_Listestemmer,Listestemmer,VesthimmerlandsListen,1
+Vesthimmerlands,1,Aalestrup,"L_Kirsten_Moesgaard,_Farsø","Kirsten Moesgaard, Farsø",VesthimmerlandsListen,9
+Vesthimmerlands,1,Aalestrup,"L_Thomas_Jensen,_Aars","Thomas Jensen, Aars",VesthimmerlandsListen,2
+Vesthimmerlands,1,Aalestrup,"L_Jens_Erik_Laustsen,_Løgstør","Jens Erik Laustsen, Løgstør",VesthimmerlandsListen,0
+Vesthimmerlands,1,Aalestrup,"L_Søren_Virenfeldt,_Farsø","Søren Virenfeldt, Farsø",VesthimmerlandsListen,4
+Vesthimmerlands,1,Aalestrup,"L_Sofie_Bærentzen_Krogholm,_Farsø","Sofie Bærentzen Krogholm, Farsø",VesthimmerlandsListen,1
+Vesthimmerlands,1,Aalestrup,O_Listestemmer,Listestemmer,Dansk Folkeparti,19
+Vesthimmerlands,1,Aalestrup,O_Liselotte_Lynge_Jensen,Liselotte Lynge Jensen,Dansk Folkeparti,30
+Vesthimmerlands,1,Aalestrup,O_Helene_Eleonora_Nordman,Helene Eleonora Nordman,Dansk Folkeparti,2
+Vesthimmerlands,1,Aalestrup,O_Peter_Hougaard,Peter Hougaard,Dansk Folkeparti,2
+Vesthimmerlands,1,Aalestrup,O_Mette_Møller,Mette Møller,Dansk Folkeparti,1
+Vesthimmerlands,1,Aalestrup,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",34
+Vesthimmerlands,1,Aalestrup,V_Per_Bach_Laursen,Per Bach Laursen,"Venstre, Danmarks Liberale Parti",153
+Vesthimmerlands,1,Aalestrup,V_Katrine_Høfner,Katrine Høfner,"Venstre, Danmarks Liberale Parti",3
+Vesthimmerlands,1,Aalestrup,V_Inger_Nielsen,Inger Nielsen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,1,Aalestrup,V_Jimmy_Støttrup_Jensen,Jimmy Støttrup Jensen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,1,Aalestrup,V_Kurt_Friis,Kurt Friis,"Venstre, Danmarks Liberale Parti",13
+Vesthimmerlands,1,Aalestrup,V_Per_Bisgaard,Per Bisgaard,"Venstre, Danmarks Liberale Parti",352
+Vesthimmerlands,1,Aalestrup,V_Jakob_Vium_Dyrman,Jakob Vium Dyrman,"Venstre, Danmarks Liberale Parti",4
+Vesthimmerlands,1,Aalestrup,V_Benny_Hansen,Benny Hansen,"Venstre, Danmarks Liberale Parti",1
+Vesthimmerlands,1,Aalestrup,V_Lars_Andresen,Lars Andresen,"Venstre, Danmarks Liberale Parti",3
+Vesthimmerlands,1,Aalestrup,V_Lene_Mikkelsen,Lene Mikkelsen,"Venstre, Danmarks Liberale Parti",68
+Vesthimmerlands,1,Aalestrup,V_Jakob_Ræbild_Nørgaard,Jakob Ræbild Nørgaard,"Venstre, Danmarks Liberale Parti",1
+Vesthimmerlands,1,Aalestrup,V_Jens_Lauritzen,Jens Lauritzen,"Venstre, Danmarks Liberale Parti",1
+Vesthimmerlands,1,Aalestrup,V_Ole_Wisti_Lassen,Ole Wisti Lassen,"Venstre, Danmarks Liberale Parti",2
+Vesthimmerlands,1,Aalestrup,V_Thorkil_Christensen,Thorkil Christensen,"Venstre, Danmarks Liberale Parti",2
+Vesthimmerlands,1,Aalestrup,V_Ole_B._Sørensen,Ole B. Sørensen,"Venstre, Danmarks Liberale Parti",8
+Vesthimmerlands,1,Aalestrup,V_Mads_Krarup_Nielsen,Mads Krarup Nielsen,"Venstre, Danmarks Liberale Parti",1
+Vesthimmerlands,1,Aalestrup,V_Birgitte_Sørensen,Birgitte Sørensen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,1,Aalestrup,V_Morten_Mejdahl,Morten Mejdahl,"Venstre, Danmarks Liberale Parti",9
+Vesthimmerlands,1,Aalestrup,Z_Listestemmer,Listestemmer,Fremskridtspartiet,1
+Vesthimmerlands,1,Aalestrup,Z_Niels_M._Christensen,Niels M. Christensen,Fremskridtspartiet,8
+Vesthimmerlands,1,Aalestrup,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,2
+Vesthimmerlands,1,Aalestrup,"Ø_Annemette_Bach,_Ranum","Annemette Bach, Ranum",Enhedslisten - De Rød-Grønne,3
+Vesthimmerlands,2,Farsø,A_Listestemmer,Listestemmer,Socialdemokratiet,80
+Vesthimmerlands,2,Farsø,A_Asger_Andersen,Asger Andersen,Socialdemokratiet,65
+Vesthimmerlands,2,Farsø,A_Anders_Kjær_Kristensen,Anders Kjær Kristensen,Socialdemokratiet,25
+Vesthimmerlands,2,Farsø,A_Erik_Stagsted,Erik Stagsted,Socialdemokratiet,13
+Vesthimmerlands,2,Farsø,A_Kenneth_Nyholm,Kenneth Nyholm,Socialdemokratiet,15
+Vesthimmerlands,2,Farsø,A_Mikael_Toft,Mikael Toft,Socialdemokratiet,11
+Vesthimmerlands,2,Farsø,A_Henrik_Harris_Sloth,Henrik Harris Sloth,Socialdemokratiet,3
+Vesthimmerlands,2,Farsø,A_Doris_Lauritzen,Doris Lauritzen,Socialdemokratiet,14
+Vesthimmerlands,2,Farsø,A_Rasmus_Vetter,Rasmus Vetter,Socialdemokratiet,0
+Vesthimmerlands,2,Farsø,A_Andreea_Buza,Andreea Buza,Socialdemokratiet,7
+Vesthimmerlands,2,Farsø,A_Jens_Chr._Pedersen,Jens Chr. Pedersen,Socialdemokratiet,114
+Vesthimmerlands,2,Farsø,A_Morten_Lindblad,Morten Lindblad,Socialdemokratiet,11
+Vesthimmerlands,2,Farsø,A_Kirsten_Marie_Olsen,Kirsten Marie Olsen,Socialdemokratiet,15
+Vesthimmerlands,2,Farsø,B_Listestemmer,Listestemmer,Radikale Venstre,12
+Vesthimmerlands,2,Farsø,"B_Gitte_Lopdrup,_Aars","Gitte Lopdrup, Aars",Radikale Venstre,7
+Vesthimmerlands,2,Farsø,"B_Jannie_Valentin_Dexter_Jakobsen,Fa","Jannie Valentin Dexter Jakobsen,Fa",Radikale Venstre,5
+Vesthimmerlands,2,Farsø,"B_Kristine_Bloch_Steendahl,_Farsø","Kristine Bloch Steendahl, Farsø",Radikale Venstre,37
+Vesthimmerlands,2,Farsø,"B_Karsten_Kjærgaard,_Livø","Karsten Kjærgaard, Livø",Radikale Venstre,3
+Vesthimmerlands,2,Farsø,"B_Søren_Dolmer,_Aars","Søren Dolmer, Aars",Radikale Venstre,1
+Vesthimmerlands,2,Farsø,"B_Hans_Grishauge,_Gatten","Hans Grishauge, Gatten",Radikale Venstre,2
+Vesthimmerlands,2,Farsø,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,46
+Vesthimmerlands,2,Farsø,"C_Signe_Nøhr,_Hornum","Signe Nøhr, Hornum",Det Konservative Folkeparti,200
+Vesthimmerlands,2,Farsø,"C_Svend_Jørgensen,_Aars","Svend Jørgensen, Aars",Det Konservative Folkeparti,14
+Vesthimmerlands,2,Farsø,"C_Henrik_Dalgaard,_Aars","Henrik Dalgaard, Aars",Det Konservative Folkeparti,10
+Vesthimmerlands,2,Farsø,"C_Jeppe_Korreborg_Pedersen,Aalestrup","Jeppe Korreborg Pedersen,Aalestrup",Det Konservative Folkeparti,10
+Vesthimmerlands,2,Farsø,"C_Allan_Ritter,_Løgstør","Allan Ritter, Løgstør",Det Konservative Folkeparti,3
+Vesthimmerlands,2,Farsø,"C_Niels_Krebs,_Farsø","Niels Krebs, Farsø",Det Konservative Folkeparti,200
+Vesthimmerlands,2,Farsø,"C_Per_Nyborg,_Aars","Per Nyborg, Aars",Det Konservative Folkeparti,12
+Vesthimmerlands,2,Farsø,"C_Johan_Gammelholm-Hagstrup,_Ranum","Johan Gammelholm-Hagstrup, Ranum",Det Konservative Folkeparti,4
+Vesthimmerlands,2,Farsø,"C_Steffen_Lønsmann,_Vester_Hornum","Steffen Lønsmann, Vester Hornum",Det Konservative Folkeparti,19
+Vesthimmerlands,2,Farsø,"C_Ulla_Skov,_Aalestrup","Ulla Skov, Aalestrup",Det Konservative Folkeparti,1
+Vesthimmerlands,2,Farsø,"C_Vittus_Bernlow,_Gunderup","Vittus Bernlow, Gunderup",Det Konservative Folkeparti,1
+Vesthimmerlands,2,Farsø,"C_Bettina_Haldrup_Nielsen,_Løgstør","Bettina Haldrup Nielsen, Løgstør",Det Konservative Folkeparti,7
+Vesthimmerlands,2,Farsø,"C_Ulrik_Mark_Jensen,_Gundersted","Ulrik Mark Jensen, Gundersted",Det Konservative Folkeparti,1
+Vesthimmerlands,2,Farsø,"C_Willy_Møller,_Farsø","Willy Møller, Farsø",Det Konservative Folkeparti,22
+Vesthimmerlands,2,Farsø,D_Listestemmer,Listestemmer,Nye Borgerlige,45
+Vesthimmerlands,2,Farsø,"D_Lars_Rem,_Hvalpsund","Lars Rem, Hvalpsund",Nye Borgerlige,34
+Vesthimmerlands,2,Farsø,"D_Stefan_Larsen,_Thorup","Stefan Larsen, Thorup",Nye Borgerlige,6
+Vesthimmerlands,2,Farsø,"D_Frank_Krogstrup,_Vegger","Frank Krogstrup, Vegger",Nye Borgerlige,2
+Vesthimmerlands,2,Farsø,"D_Martin_Riisgaard-Jensen,_Løgstør","Martin Riisgaard-Jensen, Løgstør",Nye Borgerlige,3
+Vesthimmerlands,2,Farsø,"D_René_Nielsen,_Ranum","René Nielsen, Ranum",Nye Borgerlige,1
+Vesthimmerlands,2,Farsø,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,19
+Vesthimmerlands,2,Farsø,"F_Theresa_Berg_Andersen,_Vilsted","Theresa Berg Andersen, Vilsted",SF - Socialistisk Folkeparti,193
+Vesthimmerlands,2,Farsø,"F_Karen_Clausager,_Aars","Karen Clausager, Aars",SF - Socialistisk Folkeparti,13
+Vesthimmerlands,2,Farsø,"F_AnnaGrethe_Sperling,_Farsø","AnnaGrethe Sperling, Farsø",SF - Socialistisk Folkeparti,13
+Vesthimmerlands,2,Farsø,"F_Erik_Bernth_Nielsen,_Ranum","Erik Bernth Nielsen, Ranum",SF - Socialistisk Folkeparti,1
+Vesthimmerlands,2,Farsø,"F_David_Rathkjen,_Gedsted","David Rathkjen, Gedsted",SF - Socialistisk Folkeparti,2
+Vesthimmerlands,2,Farsø,"F_Henning_Josefsen,_Løgstør","Henning Josefsen, Løgstør",SF - Socialistisk Folkeparti,2
+Vesthimmerlands,2,Farsø,"F_Leif_Larsen,_Løgstør","Leif Larsen, Løgstør",SF - Socialistisk Folkeparti,0
+Vesthimmerlands,2,Farsø,"F_Jane_Bonnerup,_Gedsted","Jane Bonnerup, Gedsted",SF - Socialistisk Folkeparti,2
+Vesthimmerlands,2,Farsø,K_Listestemmer,Listestemmer,Kristendemokraterne,0
+Vesthimmerlands,2,Farsø,"K_Anne-Marie_Jørgensen,_Vilsted","Anne-Marie Jørgensen, Vilsted",Kristendemokraterne,17
+Vesthimmerlands,2,Farsø,"K_Baruti_Mkuninwa,_Aars","Baruti Mkuninwa, Aars",Kristendemokraterne,1
+Vesthimmerlands,2,Farsø,"K_Helle_Madsen,_Ranum","Helle Madsen, Ranum",Kristendemokraterne,0
+Vesthimmerlands,2,Farsø,L_Listestemmer,Listestemmer,VesthimmerlandsListen,13
+Vesthimmerlands,2,Farsø,"L_Kirsten_Moesgaard,_Farsø","Kirsten Moesgaard, Farsø",VesthimmerlandsListen,182
+Vesthimmerlands,2,Farsø,"L_Thomas_Jensen,_Aars","Thomas Jensen, Aars",VesthimmerlandsListen,3
+Vesthimmerlands,2,Farsø,"L_Jens_Erik_Laustsen,_Løgstør","Jens Erik Laustsen, Løgstør",VesthimmerlandsListen,0
+Vesthimmerlands,2,Farsø,"L_Søren_Virenfeldt,_Farsø","Søren Virenfeldt, Farsø",VesthimmerlandsListen,71
+Vesthimmerlands,2,Farsø,"L_Sofie_Bærentzen_Krogholm,_Farsø","Sofie Bærentzen Krogholm, Farsø",VesthimmerlandsListen,25
+Vesthimmerlands,2,Farsø,O_Listestemmer,Listestemmer,Dansk Folkeparti,31
+Vesthimmerlands,2,Farsø,O_Liselotte_Lynge_Jensen,Liselotte Lynge Jensen,Dansk Folkeparti,42
+Vesthimmerlands,2,Farsø,O_Helene_Eleonora_Nordman,Helene Eleonora Nordman,Dansk Folkeparti,4
+Vesthimmerlands,2,Farsø,O_Peter_Hougaard,Peter Hougaard,Dansk Folkeparti,3
+Vesthimmerlands,2,Farsø,O_Mette_Møller,Mette Møller,Dansk Folkeparti,1
+Vesthimmerlands,2,Farsø,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",47
+Vesthimmerlands,2,Farsø,V_Per_Bach_Laursen,Per Bach Laursen,"Venstre, Danmarks Liberale Parti",449
+Vesthimmerlands,2,Farsø,V_Katrine_Høfner,Katrine Høfner,"Venstre, Danmarks Liberale Parti",10
+Vesthimmerlands,2,Farsø,V_Inger_Nielsen,Inger Nielsen,"Venstre, Danmarks Liberale Parti",12
+Vesthimmerlands,2,Farsø,V_Jimmy_Støttrup_Jensen,Jimmy Støttrup Jensen,"Venstre, Danmarks Liberale Parti",10
+Vesthimmerlands,2,Farsø,V_Kurt_Friis,Kurt Friis,"Venstre, Danmarks Liberale Parti",83
+Vesthimmerlands,2,Farsø,V_Per_Bisgaard,Per Bisgaard,"Venstre, Danmarks Liberale Parti",6
+Vesthimmerlands,2,Farsø,V_Jakob_Vium_Dyrman,Jakob Vium Dyrman,"Venstre, Danmarks Liberale Parti",5
+Vesthimmerlands,2,Farsø,V_Benny_Hansen,Benny Hansen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,2,Farsø,V_Lars_Andresen,Lars Andresen,"Venstre, Danmarks Liberale Parti",74
+Vesthimmerlands,2,Farsø,V_Lene_Mikkelsen,Lene Mikkelsen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,2,Farsø,V_Jakob_Ræbild_Nørgaard,Jakob Ræbild Nørgaard,"Venstre, Danmarks Liberale Parti",8
+Vesthimmerlands,2,Farsø,V_Jens_Lauritzen,Jens Lauritzen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,2,Farsø,V_Ole_Wisti_Lassen,Ole Wisti Lassen,"Venstre, Danmarks Liberale Parti",13
+Vesthimmerlands,2,Farsø,V_Thorkil_Christensen,Thorkil Christensen,"Venstre, Danmarks Liberale Parti",1
+Vesthimmerlands,2,Farsø,V_Ole_B._Sørensen,Ole B. Sørensen,"Venstre, Danmarks Liberale Parti",1
+Vesthimmerlands,2,Farsø,V_Mads_Krarup_Nielsen,Mads Krarup Nielsen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,2,Farsø,V_Birgitte_Sørensen,Birgitte Sørensen,"Venstre, Danmarks Liberale Parti",3
+Vesthimmerlands,2,Farsø,V_Morten_Mejdahl,Morten Mejdahl,"Venstre, Danmarks Liberale Parti",21
+Vesthimmerlands,2,Farsø,Z_Listestemmer,Listestemmer,Fremskridtspartiet,4
+Vesthimmerlands,2,Farsø,Z_Niels_M._Christensen,Niels M. Christensen,Fremskridtspartiet,11
+Vesthimmerlands,2,Farsø,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,9
+Vesthimmerlands,2,Farsø,"Ø_Annemette_Bach,_Ranum","Annemette Bach, Ranum",Enhedslisten - De Rød-Grønne,22
+Vesthimmerlands,3,Strandby,A_Listestemmer,Listestemmer,Socialdemokratiet,19
+Vesthimmerlands,3,Strandby,A_Asger_Andersen,Asger Andersen,Socialdemokratiet,8
+Vesthimmerlands,3,Strandby,A_Anders_Kjær_Kristensen,Anders Kjær Kristensen,Socialdemokratiet,5
+Vesthimmerlands,3,Strandby,A_Erik_Stagsted,Erik Stagsted,Socialdemokratiet,4
+Vesthimmerlands,3,Strandby,A_Kenneth_Nyholm,Kenneth Nyholm,Socialdemokratiet,0
+Vesthimmerlands,3,Strandby,A_Mikael_Toft,Mikael Toft,Socialdemokratiet,0
+Vesthimmerlands,3,Strandby,A_Henrik_Harris_Sloth,Henrik Harris Sloth,Socialdemokratiet,4
+Vesthimmerlands,3,Strandby,A_Doris_Lauritzen,Doris Lauritzen,Socialdemokratiet,0
+Vesthimmerlands,3,Strandby,A_Rasmus_Vetter,Rasmus Vetter,Socialdemokratiet,0
+Vesthimmerlands,3,Strandby,A_Andreea_Buza,Andreea Buza,Socialdemokratiet,0
+Vesthimmerlands,3,Strandby,A_Jens_Chr._Pedersen,Jens Chr. Pedersen,Socialdemokratiet,17
+Vesthimmerlands,3,Strandby,A_Morten_Lindblad,Morten Lindblad,Socialdemokratiet,1
+Vesthimmerlands,3,Strandby,A_Kirsten_Marie_Olsen,Kirsten Marie Olsen,Socialdemokratiet,2
+Vesthimmerlands,3,Strandby,B_Listestemmer,Listestemmer,Radikale Venstre,1
+Vesthimmerlands,3,Strandby,"B_Gitte_Lopdrup,_Aars","Gitte Lopdrup, Aars",Radikale Venstre,6
+Vesthimmerlands,3,Strandby,"B_Jannie_Valentin_Dexter_Jakobsen,Fa","Jannie Valentin Dexter Jakobsen,Fa",Radikale Venstre,1
+Vesthimmerlands,3,Strandby,"B_Kristine_Bloch_Steendahl,_Farsø","Kristine Bloch Steendahl, Farsø",Radikale Venstre,10
+Vesthimmerlands,3,Strandby,"B_Karsten_Kjærgaard,_Livø","Karsten Kjærgaard, Livø",Radikale Venstre,3
+Vesthimmerlands,3,Strandby,"B_Søren_Dolmer,_Aars","Søren Dolmer, Aars",Radikale Venstre,1
+Vesthimmerlands,3,Strandby,"B_Hans_Grishauge,_Gatten","Hans Grishauge, Gatten",Radikale Venstre,1
+Vesthimmerlands,3,Strandby,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,11
+Vesthimmerlands,3,Strandby,"C_Signe_Nøhr,_Hornum","Signe Nøhr, Hornum",Det Konservative Folkeparti,40
+Vesthimmerlands,3,Strandby,"C_Svend_Jørgensen,_Aars","Svend Jørgensen, Aars",Det Konservative Folkeparti,2
+Vesthimmerlands,3,Strandby,"C_Henrik_Dalgaard,_Aars","Henrik Dalgaard, Aars",Det Konservative Folkeparti,0
+Vesthimmerlands,3,Strandby,"C_Jeppe_Korreborg_Pedersen,Aalestrup","Jeppe Korreborg Pedersen,Aalestrup",Det Konservative Folkeparti,3
+Vesthimmerlands,3,Strandby,"C_Allan_Ritter,_Løgstør","Allan Ritter, Løgstør",Det Konservative Folkeparti,3
+Vesthimmerlands,3,Strandby,"C_Niels_Krebs,_Farsø","Niels Krebs, Farsø",Det Konservative Folkeparti,11
+Vesthimmerlands,3,Strandby,"C_Per_Nyborg,_Aars","Per Nyborg, Aars",Det Konservative Folkeparti,5
+Vesthimmerlands,3,Strandby,"C_Johan_Gammelholm-Hagstrup,_Ranum","Johan Gammelholm-Hagstrup, Ranum",Det Konservative Folkeparti,0
+Vesthimmerlands,3,Strandby,"C_Steffen_Lønsmann,_Vester_Hornum","Steffen Lønsmann, Vester Hornum",Det Konservative Folkeparti,0
+Vesthimmerlands,3,Strandby,"C_Ulla_Skov,_Aalestrup","Ulla Skov, Aalestrup",Det Konservative Folkeparti,0
+Vesthimmerlands,3,Strandby,"C_Vittus_Bernlow,_Gunderup","Vittus Bernlow, Gunderup",Det Konservative Folkeparti,5
+Vesthimmerlands,3,Strandby,"C_Bettina_Haldrup_Nielsen,_Løgstør","Bettina Haldrup Nielsen, Løgstør",Det Konservative Folkeparti,2
+Vesthimmerlands,3,Strandby,"C_Ulrik_Mark_Jensen,_Gundersted","Ulrik Mark Jensen, Gundersted",Det Konservative Folkeparti,0
+Vesthimmerlands,3,Strandby,"C_Willy_Møller,_Farsø","Willy Møller, Farsø",Det Konservative Folkeparti,0
+Vesthimmerlands,3,Strandby,D_Listestemmer,Listestemmer,Nye Borgerlige,13
+Vesthimmerlands,3,Strandby,"D_Lars_Rem,_Hvalpsund","Lars Rem, Hvalpsund",Nye Borgerlige,6
+Vesthimmerlands,3,Strandby,"D_Stefan_Larsen,_Thorup","Stefan Larsen, Thorup",Nye Borgerlige,3
+Vesthimmerlands,3,Strandby,"D_Frank_Krogstrup,_Vegger","Frank Krogstrup, Vegger",Nye Borgerlige,0
+Vesthimmerlands,3,Strandby,"D_Martin_Riisgaard-Jensen,_Løgstør","Martin Riisgaard-Jensen, Løgstør",Nye Borgerlige,1
+Vesthimmerlands,3,Strandby,"D_René_Nielsen,_Ranum","René Nielsen, Ranum",Nye Borgerlige,2
+Vesthimmerlands,3,Strandby,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,2
+Vesthimmerlands,3,Strandby,"F_Theresa_Berg_Andersen,_Vilsted","Theresa Berg Andersen, Vilsted",SF - Socialistisk Folkeparti,35
+Vesthimmerlands,3,Strandby,"F_Karen_Clausager,_Aars","Karen Clausager, Aars",SF - Socialistisk Folkeparti,5
+Vesthimmerlands,3,Strandby,"F_AnnaGrethe_Sperling,_Farsø","AnnaGrethe Sperling, Farsø",SF - Socialistisk Folkeparti,2
+Vesthimmerlands,3,Strandby,"F_Erik_Bernth_Nielsen,_Ranum","Erik Bernth Nielsen, Ranum",SF - Socialistisk Folkeparti,0
+Vesthimmerlands,3,Strandby,"F_David_Rathkjen,_Gedsted","David Rathkjen, Gedsted",SF - Socialistisk Folkeparti,0
+Vesthimmerlands,3,Strandby,"F_Henning_Josefsen,_Løgstør","Henning Josefsen, Løgstør",SF - Socialistisk Folkeparti,1
+Vesthimmerlands,3,Strandby,"F_Leif_Larsen,_Løgstør","Leif Larsen, Løgstør",SF - Socialistisk Folkeparti,0
+Vesthimmerlands,3,Strandby,"F_Jane_Bonnerup,_Gedsted","Jane Bonnerup, Gedsted",SF - Socialistisk Folkeparti,0
+Vesthimmerlands,3,Strandby,K_Listestemmer,Listestemmer,Kristendemokraterne,1
+Vesthimmerlands,3,Strandby,"K_Anne-Marie_Jørgensen,_Vilsted","Anne-Marie Jørgensen, Vilsted",Kristendemokraterne,1
+Vesthimmerlands,3,Strandby,"K_Baruti_Mkuninwa,_Aars","Baruti Mkuninwa, Aars",Kristendemokraterne,1
+Vesthimmerlands,3,Strandby,"K_Helle_Madsen,_Ranum","Helle Madsen, Ranum",Kristendemokraterne,0
+Vesthimmerlands,3,Strandby,L_Listestemmer,Listestemmer,VesthimmerlandsListen,4
+Vesthimmerlands,3,Strandby,"L_Kirsten_Moesgaard,_Farsø","Kirsten Moesgaard, Farsø",VesthimmerlandsListen,26
+Vesthimmerlands,3,Strandby,"L_Thomas_Jensen,_Aars","Thomas Jensen, Aars",VesthimmerlandsListen,0
+Vesthimmerlands,3,Strandby,"L_Jens_Erik_Laustsen,_Løgstør","Jens Erik Laustsen, Løgstør",VesthimmerlandsListen,1
+Vesthimmerlands,3,Strandby,"L_Søren_Virenfeldt,_Farsø","Søren Virenfeldt, Farsø",VesthimmerlandsListen,9
+Vesthimmerlands,3,Strandby,"L_Sofie_Bærentzen_Krogholm,_Farsø","Sofie Bærentzen Krogholm, Farsø",VesthimmerlandsListen,1
+Vesthimmerlands,3,Strandby,O_Listestemmer,Listestemmer,Dansk Folkeparti,9
+Vesthimmerlands,3,Strandby,O_Liselotte_Lynge_Jensen,Liselotte Lynge Jensen,Dansk Folkeparti,10
+Vesthimmerlands,3,Strandby,O_Helene_Eleonora_Nordman,Helene Eleonora Nordman,Dansk Folkeparti,0
+Vesthimmerlands,3,Strandby,O_Peter_Hougaard,Peter Hougaard,Dansk Folkeparti,3
+Vesthimmerlands,3,Strandby,O_Mette_Møller,Mette Møller,Dansk Folkeparti,0
+Vesthimmerlands,3,Strandby,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",10
+Vesthimmerlands,3,Strandby,V_Per_Bach_Laursen,Per Bach Laursen,"Venstre, Danmarks Liberale Parti",90
+Vesthimmerlands,3,Strandby,V_Katrine_Høfner,Katrine Høfner,"Venstre, Danmarks Liberale Parti",2
+Vesthimmerlands,3,Strandby,V_Inger_Nielsen,Inger Nielsen,"Venstre, Danmarks Liberale Parti",1
+Vesthimmerlands,3,Strandby,V_Jimmy_Støttrup_Jensen,Jimmy Støttrup Jensen,"Venstre, Danmarks Liberale Parti",1
+Vesthimmerlands,3,Strandby,V_Kurt_Friis,Kurt Friis,"Venstre, Danmarks Liberale Parti",13
+Vesthimmerlands,3,Strandby,V_Per_Bisgaard,Per Bisgaard,"Venstre, Danmarks Liberale Parti",1
+Vesthimmerlands,3,Strandby,V_Jakob_Vium_Dyrman,Jakob Vium Dyrman,"Venstre, Danmarks Liberale Parti",3
+Vesthimmerlands,3,Strandby,V_Benny_Hansen,Benny Hansen,"Venstre, Danmarks Liberale Parti",1
+Vesthimmerlands,3,Strandby,V_Lars_Andresen,Lars Andresen,"Venstre, Danmarks Liberale Parti",7
+Vesthimmerlands,3,Strandby,V_Lene_Mikkelsen,Lene Mikkelsen,"Venstre, Danmarks Liberale Parti",1
+Vesthimmerlands,3,Strandby,V_Jakob_Ræbild_Nørgaard,Jakob Ræbild Nørgaard,"Venstre, Danmarks Liberale Parti",1
+Vesthimmerlands,3,Strandby,V_Jens_Lauritzen,Jens Lauritzen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,3,Strandby,V_Ole_Wisti_Lassen,Ole Wisti Lassen,"Venstre, Danmarks Liberale Parti",1
+Vesthimmerlands,3,Strandby,V_Thorkil_Christensen,Thorkil Christensen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,3,Strandby,V_Ole_B._Sørensen,Ole B. Sørensen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,3,Strandby,V_Mads_Krarup_Nielsen,Mads Krarup Nielsen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,3,Strandby,V_Birgitte_Sørensen,Birgitte Sørensen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,3,Strandby,V_Morten_Mejdahl,Morten Mejdahl,"Venstre, Danmarks Liberale Parti",2
+Vesthimmerlands,3,Strandby,Z_Listestemmer,Listestemmer,Fremskridtspartiet,0
+Vesthimmerlands,3,Strandby,Z_Niels_M._Christensen,Niels M. Christensen,Fremskridtspartiet,2
+Vesthimmerlands,3,Strandby,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,4
+Vesthimmerlands,3,Strandby,"Ø_Annemette_Bach,_Ranum","Annemette Bach, Ranum",Enhedslisten - De Rød-Grønne,5
+Vesthimmerlands,4,Aars,A_Listestemmer,Listestemmer,Socialdemokratiet,204
+Vesthimmerlands,4,Aars,A_Asger_Andersen,Asger Andersen,Socialdemokratiet,282
+Vesthimmerlands,4,Aars,A_Anders_Kjær_Kristensen,Anders Kjær Kristensen,Socialdemokratiet,62
+Vesthimmerlands,4,Aars,A_Erik_Stagsted,Erik Stagsted,Socialdemokratiet,14
+Vesthimmerlands,4,Aars,A_Kenneth_Nyholm,Kenneth Nyholm,Socialdemokratiet,145
+Vesthimmerlands,4,Aars,A_Mikael_Toft,Mikael Toft,Socialdemokratiet,133
+Vesthimmerlands,4,Aars,A_Henrik_Harris_Sloth,Henrik Harris Sloth,Socialdemokratiet,13
+Vesthimmerlands,4,Aars,A_Doris_Lauritzen,Doris Lauritzen,Socialdemokratiet,17
+Vesthimmerlands,4,Aars,A_Rasmus_Vetter,Rasmus Vetter,Socialdemokratiet,8
+Vesthimmerlands,4,Aars,A_Andreea_Buza,Andreea Buza,Socialdemokratiet,3
+Vesthimmerlands,4,Aars,A_Jens_Chr._Pedersen,Jens Chr. Pedersen,Socialdemokratiet,11
+Vesthimmerlands,4,Aars,A_Morten_Lindblad,Morten Lindblad,Socialdemokratiet,49
+Vesthimmerlands,4,Aars,A_Kirsten_Marie_Olsen,Kirsten Marie Olsen,Socialdemokratiet,27
+Vesthimmerlands,4,Aars,B_Listestemmer,Listestemmer,Radikale Venstre,15
+Vesthimmerlands,4,Aars,"B_Gitte_Lopdrup,_Aars","Gitte Lopdrup, Aars",Radikale Venstre,68
+Vesthimmerlands,4,Aars,"B_Jannie_Valentin_Dexter_Jakobsen,Fa","Jannie Valentin Dexter Jakobsen,Fa",Radikale Venstre,5
+Vesthimmerlands,4,Aars,"B_Kristine_Bloch_Steendahl,_Farsø","Kristine Bloch Steendahl, Farsø",Radikale Venstre,28
+Vesthimmerlands,4,Aars,"B_Karsten_Kjærgaard,_Livø","Karsten Kjærgaard, Livø",Radikale Venstre,2
+Vesthimmerlands,4,Aars,"B_Søren_Dolmer,_Aars","Søren Dolmer, Aars",Radikale Venstre,7
+Vesthimmerlands,4,Aars,"B_Hans_Grishauge,_Gatten","Hans Grishauge, Gatten",Radikale Venstre,2
+Vesthimmerlands,4,Aars,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,145
+Vesthimmerlands,4,Aars,"C_Signe_Nøhr,_Hornum","Signe Nøhr, Hornum",Det Konservative Folkeparti,482
+Vesthimmerlands,4,Aars,"C_Svend_Jørgensen,_Aars","Svend Jørgensen, Aars",Det Konservative Folkeparti,376
+Vesthimmerlands,4,Aars,"C_Henrik_Dalgaard,_Aars","Henrik Dalgaard, Aars",Det Konservative Folkeparti,164
+Vesthimmerlands,4,Aars,"C_Jeppe_Korreborg_Pedersen,Aalestrup","Jeppe Korreborg Pedersen,Aalestrup",Det Konservative Folkeparti,36
+Vesthimmerlands,4,Aars,"C_Allan_Ritter,_Løgstør","Allan Ritter, Løgstør",Det Konservative Folkeparti,12
+Vesthimmerlands,4,Aars,"C_Niels_Krebs,_Farsø","Niels Krebs, Farsø",Det Konservative Folkeparti,7
+Vesthimmerlands,4,Aars,"C_Per_Nyborg,_Aars","Per Nyborg, Aars",Det Konservative Folkeparti,531
+Vesthimmerlands,4,Aars,"C_Johan_Gammelholm-Hagstrup,_Ranum","Johan Gammelholm-Hagstrup, Ranum",Det Konservative Folkeparti,9
+Vesthimmerlands,4,Aars,"C_Steffen_Lønsmann,_Vester_Hornum","Steffen Lønsmann, Vester Hornum",Det Konservative Folkeparti,13
+Vesthimmerlands,4,Aars,"C_Ulla_Skov,_Aalestrup","Ulla Skov, Aalestrup",Det Konservative Folkeparti,3
+Vesthimmerlands,4,Aars,"C_Vittus_Bernlow,_Gunderup","Vittus Bernlow, Gunderup",Det Konservative Folkeparti,9
+Vesthimmerlands,4,Aars,"C_Bettina_Haldrup_Nielsen,_Løgstør","Bettina Haldrup Nielsen, Løgstør",Det Konservative Folkeparti,11
+Vesthimmerlands,4,Aars,"C_Ulrik_Mark_Jensen,_Gundersted","Ulrik Mark Jensen, Gundersted",Det Konservative Folkeparti,12
+Vesthimmerlands,4,Aars,"C_Willy_Møller,_Farsø","Willy Møller, Farsø",Det Konservative Folkeparti,6
+Vesthimmerlands,4,Aars,D_Listestemmer,Listestemmer,Nye Borgerlige,64
+Vesthimmerlands,4,Aars,"D_Lars_Rem,_Hvalpsund","Lars Rem, Hvalpsund",Nye Borgerlige,40
+Vesthimmerlands,4,Aars,"D_Stefan_Larsen,_Thorup","Stefan Larsen, Thorup",Nye Borgerlige,5
+Vesthimmerlands,4,Aars,"D_Frank_Krogstrup,_Vegger","Frank Krogstrup, Vegger",Nye Borgerlige,10
+Vesthimmerlands,4,Aars,"D_Martin_Riisgaard-Jensen,_Løgstør","Martin Riisgaard-Jensen, Løgstør",Nye Borgerlige,12
+Vesthimmerlands,4,Aars,"D_René_Nielsen,_Ranum","René Nielsen, Ranum",Nye Borgerlige,0
+Vesthimmerlands,4,Aars,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,34
+Vesthimmerlands,4,Aars,"F_Theresa_Berg_Andersen,_Vilsted","Theresa Berg Andersen, Vilsted",SF - Socialistisk Folkeparti,396
+Vesthimmerlands,4,Aars,"F_Karen_Clausager,_Aars","Karen Clausager, Aars",SF - Socialistisk Folkeparti,30
+Vesthimmerlands,4,Aars,"F_AnnaGrethe_Sperling,_Farsø","AnnaGrethe Sperling, Farsø",SF - Socialistisk Folkeparti,9
+Vesthimmerlands,4,Aars,"F_Erik_Bernth_Nielsen,_Ranum","Erik Bernth Nielsen, Ranum",SF - Socialistisk Folkeparti,1
+Vesthimmerlands,4,Aars,"F_David_Rathkjen,_Gedsted","David Rathkjen, Gedsted",SF - Socialistisk Folkeparti,4
+Vesthimmerlands,4,Aars,"F_Henning_Josefsen,_Løgstør","Henning Josefsen, Løgstør",SF - Socialistisk Folkeparti,1
+Vesthimmerlands,4,Aars,"F_Leif_Larsen,_Løgstør","Leif Larsen, Løgstør",SF - Socialistisk Folkeparti,1
+Vesthimmerlands,4,Aars,"F_Jane_Bonnerup,_Gedsted","Jane Bonnerup, Gedsted",SF - Socialistisk Folkeparti,6
+Vesthimmerlands,4,Aars,K_Listestemmer,Listestemmer,Kristendemokraterne,3
+Vesthimmerlands,4,Aars,"K_Anne-Marie_Jørgensen,_Vilsted","Anne-Marie Jørgensen, Vilsted",Kristendemokraterne,15
+Vesthimmerlands,4,Aars,"K_Baruti_Mkuninwa,_Aars","Baruti Mkuninwa, Aars",Kristendemokraterne,4
+Vesthimmerlands,4,Aars,"K_Helle_Madsen,_Ranum","Helle Madsen, Ranum",Kristendemokraterne,1
+Vesthimmerlands,4,Aars,L_Listestemmer,Listestemmer,VesthimmerlandsListen,5
+Vesthimmerlands,4,Aars,"L_Kirsten_Moesgaard,_Farsø","Kirsten Moesgaard, Farsø",VesthimmerlandsListen,8
+Vesthimmerlands,4,Aars,"L_Thomas_Jensen,_Aars","Thomas Jensen, Aars",VesthimmerlandsListen,96
+Vesthimmerlands,4,Aars,"L_Jens_Erik_Laustsen,_Løgstør","Jens Erik Laustsen, Løgstør",VesthimmerlandsListen,1
+Vesthimmerlands,4,Aars,"L_Søren_Virenfeldt,_Farsø","Søren Virenfeldt, Farsø",VesthimmerlandsListen,12
+Vesthimmerlands,4,Aars,"L_Sofie_Bærentzen_Krogholm,_Farsø","Sofie Bærentzen Krogholm, Farsø",VesthimmerlandsListen,9
+Vesthimmerlands,4,Aars,O_Listestemmer,Listestemmer,Dansk Folkeparti,37
+Vesthimmerlands,4,Aars,O_Liselotte_Lynge_Jensen,Liselotte Lynge Jensen,Dansk Folkeparti,65
+Vesthimmerlands,4,Aars,O_Helene_Eleonora_Nordman,Helene Eleonora Nordman,Dansk Folkeparti,4
+Vesthimmerlands,4,Aars,O_Peter_Hougaard,Peter Hougaard,Dansk Folkeparti,7
+Vesthimmerlands,4,Aars,O_Mette_Møller,Mette Møller,Dansk Folkeparti,6
+Vesthimmerlands,4,Aars,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",92
+Vesthimmerlands,4,Aars,V_Per_Bach_Laursen,Per Bach Laursen,"Venstre, Danmarks Liberale Parti",687
+Vesthimmerlands,4,Aars,V_Katrine_Høfner,Katrine Høfner,"Venstre, Danmarks Liberale Parti",18
+Vesthimmerlands,4,Aars,V_Inger_Nielsen,Inger Nielsen,"Venstre, Danmarks Liberale Parti",220
+Vesthimmerlands,4,Aars,V_Jimmy_Støttrup_Jensen,Jimmy Støttrup Jensen,"Venstre, Danmarks Liberale Parti",3
+Vesthimmerlands,4,Aars,V_Kurt_Friis,Kurt Friis,"Venstre, Danmarks Liberale Parti",2
+Vesthimmerlands,4,Aars,V_Per_Bisgaard,Per Bisgaard,"Venstre, Danmarks Liberale Parti",8
+Vesthimmerlands,4,Aars,V_Jakob_Vium_Dyrman,Jakob Vium Dyrman,"Venstre, Danmarks Liberale Parti",158
+Vesthimmerlands,4,Aars,V_Benny_Hansen,Benny Hansen,"Venstre, Danmarks Liberale Parti",4
+Vesthimmerlands,4,Aars,V_Lars_Andresen,Lars Andresen,"Venstre, Danmarks Liberale Parti",5
+Vesthimmerlands,4,Aars,V_Lene_Mikkelsen,Lene Mikkelsen,"Venstre, Danmarks Liberale Parti",1
+Vesthimmerlands,4,Aars,V_Jakob_Ræbild_Nørgaard,Jakob Ræbild Nørgaard,"Venstre, Danmarks Liberale Parti",29
+Vesthimmerlands,4,Aars,V_Jens_Lauritzen,Jens Lauritzen,"Venstre, Danmarks Liberale Parti",5
+Vesthimmerlands,4,Aars,V_Ole_Wisti_Lassen,Ole Wisti Lassen,"Venstre, Danmarks Liberale Parti",4
+Vesthimmerlands,4,Aars,V_Thorkil_Christensen,Thorkil Christensen,"Venstre, Danmarks Liberale Parti",38
+Vesthimmerlands,4,Aars,V_Ole_B._Sørensen,Ole B. Sørensen,"Venstre, Danmarks Liberale Parti",1
+Vesthimmerlands,4,Aars,V_Mads_Krarup_Nielsen,Mads Krarup Nielsen,"Venstre, Danmarks Liberale Parti",3
+Vesthimmerlands,4,Aars,V_Birgitte_Sørensen,Birgitte Sørensen,"Venstre, Danmarks Liberale Parti",13
+Vesthimmerlands,4,Aars,V_Morten_Mejdahl,Morten Mejdahl,"Venstre, Danmarks Liberale Parti",20
+Vesthimmerlands,4,Aars,Z_Listestemmer,Listestemmer,Fremskridtspartiet,5
+Vesthimmerlands,4,Aars,Z_Niels_M._Christensen,Niels M. Christensen,Fremskridtspartiet,11
+Vesthimmerlands,4,Aars,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,13
+Vesthimmerlands,4,Aars,"Ø_Annemette_Bach,_Ranum","Annemette Bach, Ranum",Enhedslisten - De Rød-Grønne,24
+Vesthimmerlands,5,Hvalpsund,A_Listestemmer,Listestemmer,Socialdemokratiet,53
+Vesthimmerlands,5,Hvalpsund,A_Asger_Andersen,Asger Andersen,Socialdemokratiet,25
+Vesthimmerlands,5,Hvalpsund,A_Anders_Kjær_Kristensen,Anders Kjær Kristensen,Socialdemokratiet,6
+Vesthimmerlands,5,Hvalpsund,A_Erik_Stagsted,Erik Stagsted,Socialdemokratiet,4
+Vesthimmerlands,5,Hvalpsund,A_Kenneth_Nyholm,Kenneth Nyholm,Socialdemokratiet,3
+Vesthimmerlands,5,Hvalpsund,A_Mikael_Toft,Mikael Toft,Socialdemokratiet,1
+Vesthimmerlands,5,Hvalpsund,A_Henrik_Harris_Sloth,Henrik Harris Sloth,Socialdemokratiet,3
+Vesthimmerlands,5,Hvalpsund,A_Doris_Lauritzen,Doris Lauritzen,Socialdemokratiet,5
+Vesthimmerlands,5,Hvalpsund,A_Rasmus_Vetter,Rasmus Vetter,Socialdemokratiet,2
+Vesthimmerlands,5,Hvalpsund,A_Andreea_Buza,Andreea Buza,Socialdemokratiet,0
+Vesthimmerlands,5,Hvalpsund,A_Jens_Chr._Pedersen,Jens Chr. Pedersen,Socialdemokratiet,28
+Vesthimmerlands,5,Hvalpsund,A_Morten_Lindblad,Morten Lindblad,Socialdemokratiet,5
+Vesthimmerlands,5,Hvalpsund,A_Kirsten_Marie_Olsen,Kirsten Marie Olsen,Socialdemokratiet,4
+Vesthimmerlands,5,Hvalpsund,B_Listestemmer,Listestemmer,Radikale Venstre,1
+Vesthimmerlands,5,Hvalpsund,"B_Gitte_Lopdrup,_Aars","Gitte Lopdrup, Aars",Radikale Venstre,1
+Vesthimmerlands,5,Hvalpsund,"B_Jannie_Valentin_Dexter_Jakobsen,Fa","Jannie Valentin Dexter Jakobsen,Fa",Radikale Venstre,5
+Vesthimmerlands,5,Hvalpsund,"B_Kristine_Bloch_Steendahl,_Farsø","Kristine Bloch Steendahl, Farsø",Radikale Venstre,7
+Vesthimmerlands,5,Hvalpsund,"B_Karsten_Kjærgaard,_Livø","Karsten Kjærgaard, Livø",Radikale Venstre,1
+Vesthimmerlands,5,Hvalpsund,"B_Søren_Dolmer,_Aars","Søren Dolmer, Aars",Radikale Venstre,2
+Vesthimmerlands,5,Hvalpsund,"B_Hans_Grishauge,_Gatten","Hans Grishauge, Gatten",Radikale Venstre,0
+Vesthimmerlands,5,Hvalpsund,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,20
+Vesthimmerlands,5,Hvalpsund,"C_Signe_Nøhr,_Hornum","Signe Nøhr, Hornum",Det Konservative Folkeparti,46
+Vesthimmerlands,5,Hvalpsund,"C_Svend_Jørgensen,_Aars","Svend Jørgensen, Aars",Det Konservative Folkeparti,6
+Vesthimmerlands,5,Hvalpsund,"C_Henrik_Dalgaard,_Aars","Henrik Dalgaard, Aars",Det Konservative Folkeparti,2
+Vesthimmerlands,5,Hvalpsund,"C_Jeppe_Korreborg_Pedersen,Aalestrup","Jeppe Korreborg Pedersen,Aalestrup",Det Konservative Folkeparti,3
+Vesthimmerlands,5,Hvalpsund,"C_Allan_Ritter,_Løgstør","Allan Ritter, Løgstør",Det Konservative Folkeparti,3
+Vesthimmerlands,5,Hvalpsund,"C_Niels_Krebs,_Farsø","Niels Krebs, Farsø",Det Konservative Folkeparti,10
+Vesthimmerlands,5,Hvalpsund,"C_Per_Nyborg,_Aars","Per Nyborg, Aars",Det Konservative Folkeparti,5
+Vesthimmerlands,5,Hvalpsund,"C_Johan_Gammelholm-Hagstrup,_Ranum","Johan Gammelholm-Hagstrup, Ranum",Det Konservative Folkeparti,0
+Vesthimmerlands,5,Hvalpsund,"C_Steffen_Lønsmann,_Vester_Hornum","Steffen Lønsmann, Vester Hornum",Det Konservative Folkeparti,3
+Vesthimmerlands,5,Hvalpsund,"C_Ulla_Skov,_Aalestrup","Ulla Skov, Aalestrup",Det Konservative Folkeparti,3
+Vesthimmerlands,5,Hvalpsund,"C_Vittus_Bernlow,_Gunderup","Vittus Bernlow, Gunderup",Det Konservative Folkeparti,0
+Vesthimmerlands,5,Hvalpsund,"C_Bettina_Haldrup_Nielsen,_Løgstør","Bettina Haldrup Nielsen, Løgstør",Det Konservative Folkeparti,2
+Vesthimmerlands,5,Hvalpsund,"C_Ulrik_Mark_Jensen,_Gundersted","Ulrik Mark Jensen, Gundersted",Det Konservative Folkeparti,0
+Vesthimmerlands,5,Hvalpsund,"C_Willy_Møller,_Farsø","Willy Møller, Farsø",Det Konservative Folkeparti,0
+Vesthimmerlands,5,Hvalpsund,D_Listestemmer,Listestemmer,Nye Borgerlige,14
+Vesthimmerlands,5,Hvalpsund,"D_Lars_Rem,_Hvalpsund","Lars Rem, Hvalpsund",Nye Borgerlige,30
+Vesthimmerlands,5,Hvalpsund,"D_Stefan_Larsen,_Thorup","Stefan Larsen, Thorup",Nye Borgerlige,0
+Vesthimmerlands,5,Hvalpsund,"D_Frank_Krogstrup,_Vegger","Frank Krogstrup, Vegger",Nye Borgerlige,1
+Vesthimmerlands,5,Hvalpsund,"D_Martin_Riisgaard-Jensen,_Løgstør","Martin Riisgaard-Jensen, Løgstør",Nye Borgerlige,1
+Vesthimmerlands,5,Hvalpsund,"D_René_Nielsen,_Ranum","René Nielsen, Ranum",Nye Borgerlige,0
+Vesthimmerlands,5,Hvalpsund,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,23
+Vesthimmerlands,5,Hvalpsund,"F_Theresa_Berg_Andersen,_Vilsted","Theresa Berg Andersen, Vilsted",SF - Socialistisk Folkeparti,51
+Vesthimmerlands,5,Hvalpsund,"F_Karen_Clausager,_Aars","Karen Clausager, Aars",SF - Socialistisk Folkeparti,2
+Vesthimmerlands,5,Hvalpsund,"F_AnnaGrethe_Sperling,_Farsø","AnnaGrethe Sperling, Farsø",SF - Socialistisk Folkeparti,3
+Vesthimmerlands,5,Hvalpsund,"F_Erik_Bernth_Nielsen,_Ranum","Erik Bernth Nielsen, Ranum",SF - Socialistisk Folkeparti,0
+Vesthimmerlands,5,Hvalpsund,"F_David_Rathkjen,_Gedsted","David Rathkjen, Gedsted",SF - Socialistisk Folkeparti,1
+Vesthimmerlands,5,Hvalpsund,"F_Henning_Josefsen,_Løgstør","Henning Josefsen, Løgstør",SF - Socialistisk Folkeparti,2
+Vesthimmerlands,5,Hvalpsund,"F_Leif_Larsen,_Løgstør","Leif Larsen, Løgstør",SF - Socialistisk Folkeparti,0
+Vesthimmerlands,5,Hvalpsund,"F_Jane_Bonnerup,_Gedsted","Jane Bonnerup, Gedsted",SF - Socialistisk Folkeparti,6
+Vesthimmerlands,5,Hvalpsund,K_Listestemmer,Listestemmer,Kristendemokraterne,3
+Vesthimmerlands,5,Hvalpsund,"K_Anne-Marie_Jørgensen,_Vilsted","Anne-Marie Jørgensen, Vilsted",Kristendemokraterne,4
+Vesthimmerlands,5,Hvalpsund,"K_Baruti_Mkuninwa,_Aars","Baruti Mkuninwa, Aars",Kristendemokraterne,0
+Vesthimmerlands,5,Hvalpsund,"K_Helle_Madsen,_Ranum","Helle Madsen, Ranum",Kristendemokraterne,0
+Vesthimmerlands,5,Hvalpsund,L_Listestemmer,Listestemmer,VesthimmerlandsListen,6
+Vesthimmerlands,5,Hvalpsund,"L_Kirsten_Moesgaard,_Farsø","Kirsten Moesgaard, Farsø",VesthimmerlandsListen,29
+Vesthimmerlands,5,Hvalpsund,"L_Thomas_Jensen,_Aars","Thomas Jensen, Aars",VesthimmerlandsListen,1
+Vesthimmerlands,5,Hvalpsund,"L_Jens_Erik_Laustsen,_Løgstør","Jens Erik Laustsen, Løgstør",VesthimmerlandsListen,0
+Vesthimmerlands,5,Hvalpsund,"L_Søren_Virenfeldt,_Farsø","Søren Virenfeldt, Farsø",VesthimmerlandsListen,5
+Vesthimmerlands,5,Hvalpsund,"L_Sofie_Bærentzen_Krogholm,_Farsø","Sofie Bærentzen Krogholm, Farsø",VesthimmerlandsListen,11
+Vesthimmerlands,5,Hvalpsund,O_Listestemmer,Listestemmer,Dansk Folkeparti,6
+Vesthimmerlands,5,Hvalpsund,O_Liselotte_Lynge_Jensen,Liselotte Lynge Jensen,Dansk Folkeparti,13
+Vesthimmerlands,5,Hvalpsund,O_Helene_Eleonora_Nordman,Helene Eleonora Nordman,Dansk Folkeparti,0
+Vesthimmerlands,5,Hvalpsund,O_Peter_Hougaard,Peter Hougaard,Dansk Folkeparti,0
+Vesthimmerlands,5,Hvalpsund,O_Mette_Møller,Mette Møller,Dansk Folkeparti,0
+Vesthimmerlands,5,Hvalpsund,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",11
+Vesthimmerlands,5,Hvalpsund,V_Per_Bach_Laursen,Per Bach Laursen,"Venstre, Danmarks Liberale Parti",86
+Vesthimmerlands,5,Hvalpsund,V_Katrine_Høfner,Katrine Høfner,"Venstre, Danmarks Liberale Parti",2
+Vesthimmerlands,5,Hvalpsund,V_Inger_Nielsen,Inger Nielsen,"Venstre, Danmarks Liberale Parti",2
+Vesthimmerlands,5,Hvalpsund,V_Jimmy_Støttrup_Jensen,Jimmy Støttrup Jensen,"Venstre, Danmarks Liberale Parti",4
+Vesthimmerlands,5,Hvalpsund,V_Kurt_Friis,Kurt Friis,"Venstre, Danmarks Liberale Parti",73
+Vesthimmerlands,5,Hvalpsund,V_Per_Bisgaard,Per Bisgaard,"Venstre, Danmarks Liberale Parti",3
+Vesthimmerlands,5,Hvalpsund,V_Jakob_Vium_Dyrman,Jakob Vium Dyrman,"Venstre, Danmarks Liberale Parti",1
+Vesthimmerlands,5,Hvalpsund,V_Benny_Hansen,Benny Hansen,"Venstre, Danmarks Liberale Parti",1
+Vesthimmerlands,5,Hvalpsund,V_Lars_Andresen,Lars Andresen,"Venstre, Danmarks Liberale Parti",197
+Vesthimmerlands,5,Hvalpsund,V_Lene_Mikkelsen,Lene Mikkelsen,"Venstre, Danmarks Liberale Parti",1
+Vesthimmerlands,5,Hvalpsund,V_Jakob_Ræbild_Nørgaard,Jakob Ræbild Nørgaard,"Venstre, Danmarks Liberale Parti",5
+Vesthimmerlands,5,Hvalpsund,V_Jens_Lauritzen,Jens Lauritzen,"Venstre, Danmarks Liberale Parti",1
+Vesthimmerlands,5,Hvalpsund,V_Ole_Wisti_Lassen,Ole Wisti Lassen,"Venstre, Danmarks Liberale Parti",5
+Vesthimmerlands,5,Hvalpsund,V_Thorkil_Christensen,Thorkil Christensen,"Venstre, Danmarks Liberale Parti",1
+Vesthimmerlands,5,Hvalpsund,V_Ole_B._Sørensen,Ole B. Sørensen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,5,Hvalpsund,V_Mads_Krarup_Nielsen,Mads Krarup Nielsen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,5,Hvalpsund,V_Birgitte_Sørensen,Birgitte Sørensen,"Venstre, Danmarks Liberale Parti",1
+Vesthimmerlands,5,Hvalpsund,V_Morten_Mejdahl,Morten Mejdahl,"Venstre, Danmarks Liberale Parti",7
+Vesthimmerlands,5,Hvalpsund,Z_Listestemmer,Listestemmer,Fremskridtspartiet,1
+Vesthimmerlands,5,Hvalpsund,Z_Niels_M._Christensen,Niels M. Christensen,Fremskridtspartiet,1
+Vesthimmerlands,5,Hvalpsund,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,8
+Vesthimmerlands,5,Hvalpsund,"Ø_Annemette_Bach,_Ranum","Annemette Bach, Ranum",Enhedslisten - De Rød-Grønne,18
+Vesthimmerlands,6,Gislum-Vognsild,A_Listestemmer,Listestemmer,Socialdemokratiet,11
+Vesthimmerlands,6,Gislum-Vognsild,A_Asger_Andersen,Asger Andersen,Socialdemokratiet,11
+Vesthimmerlands,6,Gislum-Vognsild,A_Anders_Kjær_Kristensen,Anders Kjær Kristensen,Socialdemokratiet,113
+Vesthimmerlands,6,Gislum-Vognsild,A_Erik_Stagsted,Erik Stagsted,Socialdemokratiet,1
+Vesthimmerlands,6,Gislum-Vognsild,A_Kenneth_Nyholm,Kenneth Nyholm,Socialdemokratiet,2
+Vesthimmerlands,6,Gislum-Vognsild,A_Mikael_Toft,Mikael Toft,Socialdemokratiet,10
+Vesthimmerlands,6,Gislum-Vognsild,A_Henrik_Harris_Sloth,Henrik Harris Sloth,Socialdemokratiet,0
+Vesthimmerlands,6,Gislum-Vognsild,A_Doris_Lauritzen,Doris Lauritzen,Socialdemokratiet,1
+Vesthimmerlands,6,Gislum-Vognsild,A_Rasmus_Vetter,Rasmus Vetter,Socialdemokratiet,0
+Vesthimmerlands,6,Gislum-Vognsild,A_Andreea_Buza,Andreea Buza,Socialdemokratiet,0
+Vesthimmerlands,6,Gislum-Vognsild,A_Jens_Chr._Pedersen,Jens Chr. Pedersen,Socialdemokratiet,1
+Vesthimmerlands,6,Gislum-Vognsild,A_Morten_Lindblad,Morten Lindblad,Socialdemokratiet,1
+Vesthimmerlands,6,Gislum-Vognsild,A_Kirsten_Marie_Olsen,Kirsten Marie Olsen,Socialdemokratiet,16
+Vesthimmerlands,6,Gislum-Vognsild,B_Listestemmer,Listestemmer,Radikale Venstre,2
+Vesthimmerlands,6,Gislum-Vognsild,"B_Gitte_Lopdrup,_Aars","Gitte Lopdrup, Aars",Radikale Venstre,3
+Vesthimmerlands,6,Gislum-Vognsild,"B_Jannie_Valentin_Dexter_Jakobsen,Fa","Jannie Valentin Dexter Jakobsen,Fa",Radikale Venstre,0
+Vesthimmerlands,6,Gislum-Vognsild,"B_Kristine_Bloch_Steendahl,_Farsø","Kristine Bloch Steendahl, Farsø",Radikale Venstre,4
+Vesthimmerlands,6,Gislum-Vognsild,"B_Karsten_Kjærgaard,_Livø","Karsten Kjærgaard, Livø",Radikale Venstre,0
+Vesthimmerlands,6,Gislum-Vognsild,"B_Søren_Dolmer,_Aars","Søren Dolmer, Aars",Radikale Venstre,1
+Vesthimmerlands,6,Gislum-Vognsild,"B_Hans_Grishauge,_Gatten","Hans Grishauge, Gatten",Radikale Venstre,0
+Vesthimmerlands,6,Gislum-Vognsild,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,13
+Vesthimmerlands,6,Gislum-Vognsild,"C_Signe_Nøhr,_Hornum","Signe Nøhr, Hornum",Det Konservative Folkeparti,55
+Vesthimmerlands,6,Gislum-Vognsild,"C_Svend_Jørgensen,_Aars","Svend Jørgensen, Aars",Det Konservative Folkeparti,13
+Vesthimmerlands,6,Gislum-Vognsild,"C_Henrik_Dalgaard,_Aars","Henrik Dalgaard, Aars",Det Konservative Folkeparti,6
+Vesthimmerlands,6,Gislum-Vognsild,"C_Jeppe_Korreborg_Pedersen,Aalestrup","Jeppe Korreborg Pedersen,Aalestrup",Det Konservative Folkeparti,7
+Vesthimmerlands,6,Gislum-Vognsild,"C_Allan_Ritter,_Løgstør","Allan Ritter, Løgstør",Det Konservative Folkeparti,2
+Vesthimmerlands,6,Gislum-Vognsild,"C_Niels_Krebs,_Farsø","Niels Krebs, Farsø",Det Konservative Folkeparti,5
+Vesthimmerlands,6,Gislum-Vognsild,"C_Per_Nyborg,_Aars","Per Nyborg, Aars",Det Konservative Folkeparti,13
+Vesthimmerlands,6,Gislum-Vognsild,"C_Johan_Gammelholm-Hagstrup,_Ranum","Johan Gammelholm-Hagstrup, Ranum",Det Konservative Folkeparti,1
+Vesthimmerlands,6,Gislum-Vognsild,"C_Steffen_Lønsmann,_Vester_Hornum","Steffen Lønsmann, Vester Hornum",Det Konservative Folkeparti,1
+Vesthimmerlands,6,Gislum-Vognsild,"C_Ulla_Skov,_Aalestrup","Ulla Skov, Aalestrup",Det Konservative Folkeparti,0
+Vesthimmerlands,6,Gislum-Vognsild,"C_Vittus_Bernlow,_Gunderup","Vittus Bernlow, Gunderup",Det Konservative Folkeparti,0
+Vesthimmerlands,6,Gislum-Vognsild,"C_Bettina_Haldrup_Nielsen,_Løgstør","Bettina Haldrup Nielsen, Løgstør",Det Konservative Folkeparti,1
+Vesthimmerlands,6,Gislum-Vognsild,"C_Ulrik_Mark_Jensen,_Gundersted","Ulrik Mark Jensen, Gundersted",Det Konservative Folkeparti,0
+Vesthimmerlands,6,Gislum-Vognsild,"C_Willy_Møller,_Farsø","Willy Møller, Farsø",Det Konservative Folkeparti,0
+Vesthimmerlands,6,Gislum-Vognsild,D_Listestemmer,Listestemmer,Nye Borgerlige,8
+Vesthimmerlands,6,Gislum-Vognsild,"D_Lars_Rem,_Hvalpsund","Lars Rem, Hvalpsund",Nye Borgerlige,2
+Vesthimmerlands,6,Gislum-Vognsild,"D_Stefan_Larsen,_Thorup","Stefan Larsen, Thorup",Nye Borgerlige,0
+Vesthimmerlands,6,Gislum-Vognsild,"D_Frank_Krogstrup,_Vegger","Frank Krogstrup, Vegger",Nye Borgerlige,4
+Vesthimmerlands,6,Gislum-Vognsild,"D_Martin_Riisgaard-Jensen,_Løgstør","Martin Riisgaard-Jensen, Løgstør",Nye Borgerlige,0
+Vesthimmerlands,6,Gislum-Vognsild,"D_René_Nielsen,_Ranum","René Nielsen, Ranum",Nye Borgerlige,0
+Vesthimmerlands,6,Gislum-Vognsild,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,5
+Vesthimmerlands,6,Gislum-Vognsild,"F_Theresa_Berg_Andersen,_Vilsted","Theresa Berg Andersen, Vilsted",SF - Socialistisk Folkeparti,37
+Vesthimmerlands,6,Gislum-Vognsild,"F_Karen_Clausager,_Aars","Karen Clausager, Aars",SF - Socialistisk Folkeparti,1
+Vesthimmerlands,6,Gislum-Vognsild,"F_AnnaGrethe_Sperling,_Farsø","AnnaGrethe Sperling, Farsø",SF - Socialistisk Folkeparti,0
+Vesthimmerlands,6,Gislum-Vognsild,"F_Erik_Bernth_Nielsen,_Ranum","Erik Bernth Nielsen, Ranum",SF - Socialistisk Folkeparti,0
+Vesthimmerlands,6,Gislum-Vognsild,"F_David_Rathkjen,_Gedsted","David Rathkjen, Gedsted",SF - Socialistisk Folkeparti,1
+Vesthimmerlands,6,Gislum-Vognsild,"F_Henning_Josefsen,_Løgstør","Henning Josefsen, Løgstør",SF - Socialistisk Folkeparti,0
+Vesthimmerlands,6,Gislum-Vognsild,"F_Leif_Larsen,_Løgstør","Leif Larsen, Løgstør",SF - Socialistisk Folkeparti,1
+Vesthimmerlands,6,Gislum-Vognsild,"F_Jane_Bonnerup,_Gedsted","Jane Bonnerup, Gedsted",SF - Socialistisk Folkeparti,0
+Vesthimmerlands,6,Gislum-Vognsild,K_Listestemmer,Listestemmer,Kristendemokraterne,1
+Vesthimmerlands,6,Gislum-Vognsild,"K_Anne-Marie_Jørgensen,_Vilsted","Anne-Marie Jørgensen, Vilsted",Kristendemokraterne,2
+Vesthimmerlands,6,Gislum-Vognsild,"K_Baruti_Mkuninwa,_Aars","Baruti Mkuninwa, Aars",Kristendemokraterne,0
+Vesthimmerlands,6,Gislum-Vognsild,"K_Helle_Madsen,_Ranum","Helle Madsen, Ranum",Kristendemokraterne,0
+Vesthimmerlands,6,Gislum-Vognsild,L_Listestemmer,Listestemmer,VesthimmerlandsListen,1
+Vesthimmerlands,6,Gislum-Vognsild,"L_Kirsten_Moesgaard,_Farsø","Kirsten Moesgaard, Farsø",VesthimmerlandsListen,7
+Vesthimmerlands,6,Gislum-Vognsild,"L_Thomas_Jensen,_Aars","Thomas Jensen, Aars",VesthimmerlandsListen,1
+Vesthimmerlands,6,Gislum-Vognsild,"L_Jens_Erik_Laustsen,_Løgstør","Jens Erik Laustsen, Løgstør",VesthimmerlandsListen,0
+Vesthimmerlands,6,Gislum-Vognsild,"L_Søren_Virenfeldt,_Farsø","Søren Virenfeldt, Farsø",VesthimmerlandsListen,1
+Vesthimmerlands,6,Gislum-Vognsild,"L_Sofie_Bærentzen_Krogholm,_Farsø","Sofie Bærentzen Krogholm, Farsø",VesthimmerlandsListen,2
+Vesthimmerlands,6,Gislum-Vognsild,O_Listestemmer,Listestemmer,Dansk Folkeparti,4
+Vesthimmerlands,6,Gislum-Vognsild,O_Liselotte_Lynge_Jensen,Liselotte Lynge Jensen,Dansk Folkeparti,9
+Vesthimmerlands,6,Gislum-Vognsild,O_Helene_Eleonora_Nordman,Helene Eleonora Nordman,Dansk Folkeparti,1
+Vesthimmerlands,6,Gislum-Vognsild,O_Peter_Hougaard,Peter Hougaard,Dansk Folkeparti,2
+Vesthimmerlands,6,Gislum-Vognsild,O_Mette_Møller,Mette Møller,Dansk Folkeparti,1
+Vesthimmerlands,6,Gislum-Vognsild,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",5
+Vesthimmerlands,6,Gislum-Vognsild,V_Per_Bach_Laursen,Per Bach Laursen,"Venstre, Danmarks Liberale Parti",52
+Vesthimmerlands,6,Gislum-Vognsild,V_Katrine_Høfner,Katrine Høfner,"Venstre, Danmarks Liberale Parti",1
+Vesthimmerlands,6,Gislum-Vognsild,V_Inger_Nielsen,Inger Nielsen,"Venstre, Danmarks Liberale Parti",4
+Vesthimmerlands,6,Gislum-Vognsild,V_Jimmy_Støttrup_Jensen,Jimmy Støttrup Jensen,"Venstre, Danmarks Liberale Parti",1
+Vesthimmerlands,6,Gislum-Vognsild,V_Kurt_Friis,Kurt Friis,"Venstre, Danmarks Liberale Parti",1
+Vesthimmerlands,6,Gislum-Vognsild,V_Per_Bisgaard,Per Bisgaard,"Venstre, Danmarks Liberale Parti",5
+Vesthimmerlands,6,Gislum-Vognsild,V_Jakob_Vium_Dyrman,Jakob Vium Dyrman,"Venstre, Danmarks Liberale Parti",5
+Vesthimmerlands,6,Gislum-Vognsild,V_Benny_Hansen,Benny Hansen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,6,Gislum-Vognsild,V_Lars_Andresen,Lars Andresen,"Venstre, Danmarks Liberale Parti",1
+Vesthimmerlands,6,Gislum-Vognsild,V_Lene_Mikkelsen,Lene Mikkelsen,"Venstre, Danmarks Liberale Parti",3
+Vesthimmerlands,6,Gislum-Vognsild,V_Jakob_Ræbild_Nørgaard,Jakob Ræbild Nørgaard,"Venstre, Danmarks Liberale Parti",96
+Vesthimmerlands,6,Gislum-Vognsild,V_Jens_Lauritzen,Jens Lauritzen,"Venstre, Danmarks Liberale Parti",2
+Vesthimmerlands,6,Gislum-Vognsild,V_Ole_Wisti_Lassen,Ole Wisti Lassen,"Venstre, Danmarks Liberale Parti",1
+Vesthimmerlands,6,Gislum-Vognsild,V_Thorkil_Christensen,Thorkil Christensen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,6,Gislum-Vognsild,V_Ole_B._Sørensen,Ole B. Sørensen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,6,Gislum-Vognsild,V_Mads_Krarup_Nielsen,Mads Krarup Nielsen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,6,Gislum-Vognsild,V_Birgitte_Sørensen,Birgitte Sørensen,"Venstre, Danmarks Liberale Parti",1
+Vesthimmerlands,6,Gislum-Vognsild,V_Morten_Mejdahl,Morten Mejdahl,"Venstre, Danmarks Liberale Parti",2
+Vesthimmerlands,6,Gislum-Vognsild,Z_Listestemmer,Listestemmer,Fremskridtspartiet,1
+Vesthimmerlands,6,Gislum-Vognsild,Z_Niels_M._Christensen,Niels M. Christensen,Fremskridtspartiet,3
+Vesthimmerlands,6,Gislum-Vognsild,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,3
+Vesthimmerlands,6,Gislum-Vognsild,"Ø_Annemette_Bach,_Ranum","Annemette Bach, Ranum",Enhedslisten - De Rød-Grønne,3
+Vesthimmerlands,7,Gedsted,A_Listestemmer,Listestemmer,Socialdemokratiet,31
+Vesthimmerlands,7,Gedsted,A_Asger_Andersen,Asger Andersen,Socialdemokratiet,9
+Vesthimmerlands,7,Gedsted,A_Anders_Kjær_Kristensen,Anders Kjær Kristensen,Socialdemokratiet,5
+Vesthimmerlands,7,Gedsted,A_Erik_Stagsted,Erik Stagsted,Socialdemokratiet,0
+Vesthimmerlands,7,Gedsted,A_Kenneth_Nyholm,Kenneth Nyholm,Socialdemokratiet,2
+Vesthimmerlands,7,Gedsted,A_Mikael_Toft,Mikael Toft,Socialdemokratiet,1
+Vesthimmerlands,7,Gedsted,A_Henrik_Harris_Sloth,Henrik Harris Sloth,Socialdemokratiet,3
+Vesthimmerlands,7,Gedsted,A_Doris_Lauritzen,Doris Lauritzen,Socialdemokratiet,230
+Vesthimmerlands,7,Gedsted,A_Rasmus_Vetter,Rasmus Vetter,Socialdemokratiet,10
+Vesthimmerlands,7,Gedsted,A_Andreea_Buza,Andreea Buza,Socialdemokratiet,0
+Vesthimmerlands,7,Gedsted,A_Jens_Chr._Pedersen,Jens Chr. Pedersen,Socialdemokratiet,1
+Vesthimmerlands,7,Gedsted,A_Morten_Lindblad,Morten Lindblad,Socialdemokratiet,1
+Vesthimmerlands,7,Gedsted,A_Kirsten_Marie_Olsen,Kirsten Marie Olsen,Socialdemokratiet,3
+Vesthimmerlands,7,Gedsted,B_Listestemmer,Listestemmer,Radikale Venstre,4
+Vesthimmerlands,7,Gedsted,"B_Gitte_Lopdrup,_Aars","Gitte Lopdrup, Aars",Radikale Venstre,0
+Vesthimmerlands,7,Gedsted,"B_Jannie_Valentin_Dexter_Jakobsen,Fa","Jannie Valentin Dexter Jakobsen,Fa",Radikale Venstre,2
+Vesthimmerlands,7,Gedsted,"B_Kristine_Bloch_Steendahl,_Farsø","Kristine Bloch Steendahl, Farsø",Radikale Venstre,6
+Vesthimmerlands,7,Gedsted,"B_Karsten_Kjærgaard,_Livø","Karsten Kjærgaard, Livø",Radikale Venstre,0
+Vesthimmerlands,7,Gedsted,"B_Søren_Dolmer,_Aars","Søren Dolmer, Aars",Radikale Venstre,0
+Vesthimmerlands,7,Gedsted,"B_Hans_Grishauge,_Gatten","Hans Grishauge, Gatten",Radikale Venstre,0
+Vesthimmerlands,7,Gedsted,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,17
+Vesthimmerlands,7,Gedsted,"C_Signe_Nøhr,_Hornum","Signe Nøhr, Hornum",Det Konservative Folkeparti,40
+Vesthimmerlands,7,Gedsted,"C_Svend_Jørgensen,_Aars","Svend Jørgensen, Aars",Det Konservative Folkeparti,2
+Vesthimmerlands,7,Gedsted,"C_Henrik_Dalgaard,_Aars","Henrik Dalgaard, Aars",Det Konservative Folkeparti,1
+Vesthimmerlands,7,Gedsted,"C_Jeppe_Korreborg_Pedersen,Aalestrup","Jeppe Korreborg Pedersen,Aalestrup",Det Konservative Folkeparti,50
+Vesthimmerlands,7,Gedsted,"C_Allan_Ritter,_Løgstør","Allan Ritter, Løgstør",Det Konservative Folkeparti,3
+Vesthimmerlands,7,Gedsted,"C_Niels_Krebs,_Farsø","Niels Krebs, Farsø",Det Konservative Folkeparti,4
+Vesthimmerlands,7,Gedsted,"C_Per_Nyborg,_Aars","Per Nyborg, Aars",Det Konservative Folkeparti,0
+Vesthimmerlands,7,Gedsted,"C_Johan_Gammelholm-Hagstrup,_Ranum","Johan Gammelholm-Hagstrup, Ranum",Det Konservative Folkeparti,6
+Vesthimmerlands,7,Gedsted,"C_Steffen_Lønsmann,_Vester_Hornum","Steffen Lønsmann, Vester Hornum",Det Konservative Folkeparti,4
+Vesthimmerlands,7,Gedsted,"C_Ulla_Skov,_Aalestrup","Ulla Skov, Aalestrup",Det Konservative Folkeparti,13
+Vesthimmerlands,7,Gedsted,"C_Vittus_Bernlow,_Gunderup","Vittus Bernlow, Gunderup",Det Konservative Folkeparti,0
+Vesthimmerlands,7,Gedsted,"C_Bettina_Haldrup_Nielsen,_Løgstør","Bettina Haldrup Nielsen, Løgstør",Det Konservative Folkeparti,3
+Vesthimmerlands,7,Gedsted,"C_Ulrik_Mark_Jensen,_Gundersted","Ulrik Mark Jensen, Gundersted",Det Konservative Folkeparti,0
+Vesthimmerlands,7,Gedsted,"C_Willy_Møller,_Farsø","Willy Møller, Farsø",Det Konservative Folkeparti,0
+Vesthimmerlands,7,Gedsted,D_Listestemmer,Listestemmer,Nye Borgerlige,24
+Vesthimmerlands,7,Gedsted,"D_Lars_Rem,_Hvalpsund","Lars Rem, Hvalpsund",Nye Borgerlige,12
+Vesthimmerlands,7,Gedsted,"D_Stefan_Larsen,_Thorup","Stefan Larsen, Thorup",Nye Borgerlige,7
+Vesthimmerlands,7,Gedsted,"D_Frank_Krogstrup,_Vegger","Frank Krogstrup, Vegger",Nye Borgerlige,1
+Vesthimmerlands,7,Gedsted,"D_Martin_Riisgaard-Jensen,_Løgstør","Martin Riisgaard-Jensen, Løgstør",Nye Borgerlige,1
+Vesthimmerlands,7,Gedsted,"D_René_Nielsen,_Ranum","René Nielsen, Ranum",Nye Borgerlige,1
+Vesthimmerlands,7,Gedsted,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,12
+Vesthimmerlands,7,Gedsted,"F_Theresa_Berg_Andersen,_Vilsted","Theresa Berg Andersen, Vilsted",SF - Socialistisk Folkeparti,38
+Vesthimmerlands,7,Gedsted,"F_Karen_Clausager,_Aars","Karen Clausager, Aars",SF - Socialistisk Folkeparti,2
+Vesthimmerlands,7,Gedsted,"F_AnnaGrethe_Sperling,_Farsø","AnnaGrethe Sperling, Farsø",SF - Socialistisk Folkeparti,2
+Vesthimmerlands,7,Gedsted,"F_Erik_Bernth_Nielsen,_Ranum","Erik Bernth Nielsen, Ranum",SF - Socialistisk Folkeparti,0
+Vesthimmerlands,7,Gedsted,"F_David_Rathkjen,_Gedsted","David Rathkjen, Gedsted",SF - Socialistisk Folkeparti,14
+Vesthimmerlands,7,Gedsted,"F_Henning_Josefsen,_Løgstør","Henning Josefsen, Løgstør",SF - Socialistisk Folkeparti,0
+Vesthimmerlands,7,Gedsted,"F_Leif_Larsen,_Løgstør","Leif Larsen, Løgstør",SF - Socialistisk Folkeparti,0
+Vesthimmerlands,7,Gedsted,"F_Jane_Bonnerup,_Gedsted","Jane Bonnerup, Gedsted",SF - Socialistisk Folkeparti,13
+Vesthimmerlands,7,Gedsted,K_Listestemmer,Listestemmer,Kristendemokraterne,0
+Vesthimmerlands,7,Gedsted,"K_Anne-Marie_Jørgensen,_Vilsted","Anne-Marie Jørgensen, Vilsted",Kristendemokraterne,3
+Vesthimmerlands,7,Gedsted,"K_Baruti_Mkuninwa,_Aars","Baruti Mkuninwa, Aars",Kristendemokraterne,0
+Vesthimmerlands,7,Gedsted,"K_Helle_Madsen,_Ranum","Helle Madsen, Ranum",Kristendemokraterne,0
+Vesthimmerlands,7,Gedsted,L_Listestemmer,Listestemmer,VesthimmerlandsListen,2
+Vesthimmerlands,7,Gedsted,"L_Kirsten_Moesgaard,_Farsø","Kirsten Moesgaard, Farsø",VesthimmerlandsListen,5
+Vesthimmerlands,7,Gedsted,"L_Thomas_Jensen,_Aars","Thomas Jensen, Aars",VesthimmerlandsListen,0
+Vesthimmerlands,7,Gedsted,"L_Jens_Erik_Laustsen,_Løgstør","Jens Erik Laustsen, Løgstør",VesthimmerlandsListen,0
+Vesthimmerlands,7,Gedsted,"L_Søren_Virenfeldt,_Farsø","Søren Virenfeldt, Farsø",VesthimmerlandsListen,4
+Vesthimmerlands,7,Gedsted,"L_Sofie_Bærentzen_Krogholm,_Farsø","Sofie Bærentzen Krogholm, Farsø",VesthimmerlandsListen,1
+Vesthimmerlands,7,Gedsted,O_Listestemmer,Listestemmer,Dansk Folkeparti,22
+Vesthimmerlands,7,Gedsted,O_Liselotte_Lynge_Jensen,Liselotte Lynge Jensen,Dansk Folkeparti,19
+Vesthimmerlands,7,Gedsted,O_Helene_Eleonora_Nordman,Helene Eleonora Nordman,Dansk Folkeparti,2
+Vesthimmerlands,7,Gedsted,O_Peter_Hougaard,Peter Hougaard,Dansk Folkeparti,2
+Vesthimmerlands,7,Gedsted,O_Mette_Møller,Mette Møller,Dansk Folkeparti,1
+Vesthimmerlands,7,Gedsted,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",17
+Vesthimmerlands,7,Gedsted,V_Per_Bach_Laursen,Per Bach Laursen,"Venstre, Danmarks Liberale Parti",99
+Vesthimmerlands,7,Gedsted,V_Katrine_Høfner,Katrine Høfner,"Venstre, Danmarks Liberale Parti",3
+Vesthimmerlands,7,Gedsted,V_Inger_Nielsen,Inger Nielsen,"Venstre, Danmarks Liberale Parti",5
+Vesthimmerlands,7,Gedsted,V_Jimmy_Støttrup_Jensen,Jimmy Støttrup Jensen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,7,Gedsted,V_Kurt_Friis,Kurt Friis,"Venstre, Danmarks Liberale Parti",20
+Vesthimmerlands,7,Gedsted,V_Per_Bisgaard,Per Bisgaard,"Venstre, Danmarks Liberale Parti",53
+Vesthimmerlands,7,Gedsted,V_Jakob_Vium_Dyrman,Jakob Vium Dyrman,"Venstre, Danmarks Liberale Parti",1
+Vesthimmerlands,7,Gedsted,V_Benny_Hansen,Benny Hansen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,7,Gedsted,V_Lars_Andresen,Lars Andresen,"Venstre, Danmarks Liberale Parti",5
+Vesthimmerlands,7,Gedsted,V_Lene_Mikkelsen,Lene Mikkelsen,"Venstre, Danmarks Liberale Parti",21
+Vesthimmerlands,7,Gedsted,V_Jakob_Ræbild_Nørgaard,Jakob Ræbild Nørgaard,"Venstre, Danmarks Liberale Parti",3
+Vesthimmerlands,7,Gedsted,V_Jens_Lauritzen,Jens Lauritzen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,7,Gedsted,V_Ole_Wisti_Lassen,Ole Wisti Lassen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,7,Gedsted,V_Thorkil_Christensen,Thorkil Christensen,"Venstre, Danmarks Liberale Parti",1
+Vesthimmerlands,7,Gedsted,V_Ole_B._Sørensen,Ole B. Sørensen,"Venstre, Danmarks Liberale Parti",35
+Vesthimmerlands,7,Gedsted,V_Mads_Krarup_Nielsen,Mads Krarup Nielsen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,7,Gedsted,V_Birgitte_Sørensen,Birgitte Sørensen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,7,Gedsted,V_Morten_Mejdahl,Morten Mejdahl,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,7,Gedsted,Z_Listestemmer,Listestemmer,Fremskridtspartiet,0
+Vesthimmerlands,7,Gedsted,Z_Niels_M._Christensen,Niels M. Christensen,Fremskridtspartiet,1
+Vesthimmerlands,7,Gedsted,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,12
+Vesthimmerlands,7,Gedsted,"Ø_Annemette_Bach,_Ranum","Annemette Bach, Ranum",Enhedslisten - De Rød-Grønne,7
+Vesthimmerlands,8,Hornum-Ulstrup,A_Listestemmer,Listestemmer,Socialdemokratiet,23
+Vesthimmerlands,8,Hornum-Ulstrup,A_Asger_Andersen,Asger Andersen,Socialdemokratiet,47
+Vesthimmerlands,8,Hornum-Ulstrup,A_Anders_Kjær_Kristensen,Anders Kjær Kristensen,Socialdemokratiet,7
+Vesthimmerlands,8,Hornum-Ulstrup,A_Erik_Stagsted,Erik Stagsted,Socialdemokratiet,3
+Vesthimmerlands,8,Hornum-Ulstrup,A_Kenneth_Nyholm,Kenneth Nyholm,Socialdemokratiet,4
+Vesthimmerlands,8,Hornum-Ulstrup,A_Mikael_Toft,Mikael Toft,Socialdemokratiet,3
+Vesthimmerlands,8,Hornum-Ulstrup,A_Henrik_Harris_Sloth,Henrik Harris Sloth,Socialdemokratiet,1
+Vesthimmerlands,8,Hornum-Ulstrup,A_Doris_Lauritzen,Doris Lauritzen,Socialdemokratiet,2
+Vesthimmerlands,8,Hornum-Ulstrup,A_Rasmus_Vetter,Rasmus Vetter,Socialdemokratiet,2
+Vesthimmerlands,8,Hornum-Ulstrup,A_Andreea_Buza,Andreea Buza,Socialdemokratiet,3
+Vesthimmerlands,8,Hornum-Ulstrup,A_Jens_Chr._Pedersen,Jens Chr. Pedersen,Socialdemokratiet,2
+Vesthimmerlands,8,Hornum-Ulstrup,A_Morten_Lindblad,Morten Lindblad,Socialdemokratiet,12
+Vesthimmerlands,8,Hornum-Ulstrup,A_Kirsten_Marie_Olsen,Kirsten Marie Olsen,Socialdemokratiet,7
+Vesthimmerlands,8,Hornum-Ulstrup,B_Listestemmer,Listestemmer,Radikale Venstre,2
+Vesthimmerlands,8,Hornum-Ulstrup,"B_Gitte_Lopdrup,_Aars","Gitte Lopdrup, Aars",Radikale Venstre,5
+Vesthimmerlands,8,Hornum-Ulstrup,"B_Jannie_Valentin_Dexter_Jakobsen,Fa","Jannie Valentin Dexter Jakobsen,Fa",Radikale Venstre,0
+Vesthimmerlands,8,Hornum-Ulstrup,"B_Kristine_Bloch_Steendahl,_Farsø","Kristine Bloch Steendahl, Farsø",Radikale Venstre,2
+Vesthimmerlands,8,Hornum-Ulstrup,"B_Karsten_Kjærgaard,_Livø","Karsten Kjærgaard, Livø",Radikale Venstre,0
+Vesthimmerlands,8,Hornum-Ulstrup,"B_Søren_Dolmer,_Aars","Søren Dolmer, Aars",Radikale Venstre,0
+Vesthimmerlands,8,Hornum-Ulstrup,"B_Hans_Grishauge,_Gatten","Hans Grishauge, Gatten",Radikale Venstre,4
+Vesthimmerlands,8,Hornum-Ulstrup,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,21
+Vesthimmerlands,8,Hornum-Ulstrup,"C_Signe_Nøhr,_Hornum","Signe Nøhr, Hornum",Det Konservative Folkeparti,266
+Vesthimmerlands,8,Hornum-Ulstrup,"C_Svend_Jørgensen,_Aars","Svend Jørgensen, Aars",Det Konservative Folkeparti,9
+Vesthimmerlands,8,Hornum-Ulstrup,"C_Henrik_Dalgaard,_Aars","Henrik Dalgaard, Aars",Det Konservative Folkeparti,8
+Vesthimmerlands,8,Hornum-Ulstrup,"C_Jeppe_Korreborg_Pedersen,Aalestrup","Jeppe Korreborg Pedersen,Aalestrup",Det Konservative Folkeparti,4
+Vesthimmerlands,8,Hornum-Ulstrup,"C_Allan_Ritter,_Løgstør","Allan Ritter, Løgstør",Det Konservative Folkeparti,1
+Vesthimmerlands,8,Hornum-Ulstrup,"C_Niels_Krebs,_Farsø","Niels Krebs, Farsø",Det Konservative Folkeparti,0
+Vesthimmerlands,8,Hornum-Ulstrup,"C_Per_Nyborg,_Aars","Per Nyborg, Aars",Det Konservative Folkeparti,12
+Vesthimmerlands,8,Hornum-Ulstrup,"C_Johan_Gammelholm-Hagstrup,_Ranum","Johan Gammelholm-Hagstrup, Ranum",Det Konservative Folkeparti,0
+Vesthimmerlands,8,Hornum-Ulstrup,"C_Steffen_Lønsmann,_Vester_Hornum","Steffen Lønsmann, Vester Hornum",Det Konservative Folkeparti,10
+Vesthimmerlands,8,Hornum-Ulstrup,"C_Ulla_Skov,_Aalestrup","Ulla Skov, Aalestrup",Det Konservative Folkeparti,0
+Vesthimmerlands,8,Hornum-Ulstrup,"C_Vittus_Bernlow,_Gunderup","Vittus Bernlow, Gunderup",Det Konservative Folkeparti,1
+Vesthimmerlands,8,Hornum-Ulstrup,"C_Bettina_Haldrup_Nielsen,_Løgstør","Bettina Haldrup Nielsen, Løgstør",Det Konservative Folkeparti,2
+Vesthimmerlands,8,Hornum-Ulstrup,"C_Ulrik_Mark_Jensen,_Gundersted","Ulrik Mark Jensen, Gundersted",Det Konservative Folkeparti,26
+Vesthimmerlands,8,Hornum-Ulstrup,"C_Willy_Møller,_Farsø","Willy Møller, Farsø",Det Konservative Folkeparti,0
+Vesthimmerlands,8,Hornum-Ulstrup,D_Listestemmer,Listestemmer,Nye Borgerlige,17
+Vesthimmerlands,8,Hornum-Ulstrup,"D_Lars_Rem,_Hvalpsund","Lars Rem, Hvalpsund",Nye Borgerlige,10
+Vesthimmerlands,8,Hornum-Ulstrup,"D_Stefan_Larsen,_Thorup","Stefan Larsen, Thorup",Nye Borgerlige,0
+Vesthimmerlands,8,Hornum-Ulstrup,"D_Frank_Krogstrup,_Vegger","Frank Krogstrup, Vegger",Nye Borgerlige,5
+Vesthimmerlands,8,Hornum-Ulstrup,"D_Martin_Riisgaard-Jensen,_Løgstør","Martin Riisgaard-Jensen, Løgstør",Nye Borgerlige,2
+Vesthimmerlands,8,Hornum-Ulstrup,"D_René_Nielsen,_Ranum","René Nielsen, Ranum",Nye Borgerlige,1
+Vesthimmerlands,8,Hornum-Ulstrup,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,6
+Vesthimmerlands,8,Hornum-Ulstrup,"F_Theresa_Berg_Andersen,_Vilsted","Theresa Berg Andersen, Vilsted",SF - Socialistisk Folkeparti,81
+Vesthimmerlands,8,Hornum-Ulstrup,"F_Karen_Clausager,_Aars","Karen Clausager, Aars",SF - Socialistisk Folkeparti,2
+Vesthimmerlands,8,Hornum-Ulstrup,"F_AnnaGrethe_Sperling,_Farsø","AnnaGrethe Sperling, Farsø",SF - Socialistisk Folkeparti,1
+Vesthimmerlands,8,Hornum-Ulstrup,"F_Erik_Bernth_Nielsen,_Ranum","Erik Bernth Nielsen, Ranum",SF - Socialistisk Folkeparti,0
+Vesthimmerlands,8,Hornum-Ulstrup,"F_David_Rathkjen,_Gedsted","David Rathkjen, Gedsted",SF - Socialistisk Folkeparti,1
+Vesthimmerlands,8,Hornum-Ulstrup,"F_Henning_Josefsen,_Løgstør","Henning Josefsen, Løgstør",SF - Socialistisk Folkeparti,0
+Vesthimmerlands,8,Hornum-Ulstrup,"F_Leif_Larsen,_Løgstør","Leif Larsen, Løgstør",SF - Socialistisk Folkeparti,0
+Vesthimmerlands,8,Hornum-Ulstrup,"F_Jane_Bonnerup,_Gedsted","Jane Bonnerup, Gedsted",SF - Socialistisk Folkeparti,1
+Vesthimmerlands,8,Hornum-Ulstrup,K_Listestemmer,Listestemmer,Kristendemokraterne,1
+Vesthimmerlands,8,Hornum-Ulstrup,"K_Anne-Marie_Jørgensen,_Vilsted","Anne-Marie Jørgensen, Vilsted",Kristendemokraterne,2
+Vesthimmerlands,8,Hornum-Ulstrup,"K_Baruti_Mkuninwa,_Aars","Baruti Mkuninwa, Aars",Kristendemokraterne,0
+Vesthimmerlands,8,Hornum-Ulstrup,"K_Helle_Madsen,_Ranum","Helle Madsen, Ranum",Kristendemokraterne,0
+Vesthimmerlands,8,Hornum-Ulstrup,L_Listestemmer,Listestemmer,VesthimmerlandsListen,2
+Vesthimmerlands,8,Hornum-Ulstrup,"L_Kirsten_Moesgaard,_Farsø","Kirsten Moesgaard, Farsø",VesthimmerlandsListen,2
+Vesthimmerlands,8,Hornum-Ulstrup,"L_Thomas_Jensen,_Aars","Thomas Jensen, Aars",VesthimmerlandsListen,2
+Vesthimmerlands,8,Hornum-Ulstrup,"L_Jens_Erik_Laustsen,_Løgstør","Jens Erik Laustsen, Løgstør",VesthimmerlandsListen,0
+Vesthimmerlands,8,Hornum-Ulstrup,"L_Søren_Virenfeldt,_Farsø","Søren Virenfeldt, Farsø",VesthimmerlandsListen,2
+Vesthimmerlands,8,Hornum-Ulstrup,"L_Sofie_Bærentzen_Krogholm,_Farsø","Sofie Bærentzen Krogholm, Farsø",VesthimmerlandsListen,0
+Vesthimmerlands,8,Hornum-Ulstrup,O_Listestemmer,Listestemmer,Dansk Folkeparti,20
+Vesthimmerlands,8,Hornum-Ulstrup,O_Liselotte_Lynge_Jensen,Liselotte Lynge Jensen,Dansk Folkeparti,20
+Vesthimmerlands,8,Hornum-Ulstrup,O_Helene_Eleonora_Nordman,Helene Eleonora Nordman,Dansk Folkeparti,1
+Vesthimmerlands,8,Hornum-Ulstrup,O_Peter_Hougaard,Peter Hougaard,Dansk Folkeparti,0
+Vesthimmerlands,8,Hornum-Ulstrup,O_Mette_Møller,Mette Møller,Dansk Folkeparti,2
+Vesthimmerlands,8,Hornum-Ulstrup,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",15
+Vesthimmerlands,8,Hornum-Ulstrup,V_Per_Bach_Laursen,Per Bach Laursen,"Venstre, Danmarks Liberale Parti",120
+Vesthimmerlands,8,Hornum-Ulstrup,V_Katrine_Høfner,Katrine Høfner,"Venstre, Danmarks Liberale Parti",21
+Vesthimmerlands,8,Hornum-Ulstrup,V_Inger_Nielsen,Inger Nielsen,"Venstre, Danmarks Liberale Parti",28
+Vesthimmerlands,8,Hornum-Ulstrup,V_Jimmy_Støttrup_Jensen,Jimmy Støttrup Jensen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,8,Hornum-Ulstrup,V_Kurt_Friis,Kurt Friis,"Venstre, Danmarks Liberale Parti",1
+Vesthimmerlands,8,Hornum-Ulstrup,V_Per_Bisgaard,Per Bisgaard,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,8,Hornum-Ulstrup,V_Jakob_Vium_Dyrman,Jakob Vium Dyrman,"Venstre, Danmarks Liberale Parti",17
+Vesthimmerlands,8,Hornum-Ulstrup,V_Benny_Hansen,Benny Hansen,"Venstre, Danmarks Liberale Parti",3
+Vesthimmerlands,8,Hornum-Ulstrup,V_Lars_Andresen,Lars Andresen,"Venstre, Danmarks Liberale Parti",1
+Vesthimmerlands,8,Hornum-Ulstrup,V_Lene_Mikkelsen,Lene Mikkelsen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,8,Hornum-Ulstrup,V_Jakob_Ræbild_Nørgaard,Jakob Ræbild Nørgaard,"Venstre, Danmarks Liberale Parti",2
+Vesthimmerlands,8,Hornum-Ulstrup,V_Jens_Lauritzen,Jens Lauritzen,"Venstre, Danmarks Liberale Parti",1
+Vesthimmerlands,8,Hornum-Ulstrup,V_Ole_Wisti_Lassen,Ole Wisti Lassen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,8,Hornum-Ulstrup,V_Thorkil_Christensen,Thorkil Christensen,"Venstre, Danmarks Liberale Parti",1
+Vesthimmerlands,8,Hornum-Ulstrup,V_Ole_B._Sørensen,Ole B. Sørensen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,8,Hornum-Ulstrup,V_Mads_Krarup_Nielsen,Mads Krarup Nielsen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,8,Hornum-Ulstrup,V_Birgitte_Sørensen,Birgitte Sørensen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,8,Hornum-Ulstrup,V_Morten_Mejdahl,Morten Mejdahl,"Venstre, Danmarks Liberale Parti",9
+Vesthimmerlands,8,Hornum-Ulstrup,Z_Listestemmer,Listestemmer,Fremskridtspartiet,1
+Vesthimmerlands,8,Hornum-Ulstrup,Z_Niels_M._Christensen,Niels M. Christensen,Fremskridtspartiet,8
+Vesthimmerlands,8,Hornum-Ulstrup,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,6
+Vesthimmerlands,8,Hornum-Ulstrup,"Ø_Annemette_Bach,_Ranum","Annemette Bach, Ranum",Enhedslisten - De Rød-Grønne,5
+Vesthimmerlands,9,Vester Hornum,A_Listestemmer,Listestemmer,Socialdemokratiet,16
+Vesthimmerlands,9,Vester Hornum,A_Asger_Andersen,Asger Andersen,Socialdemokratiet,22
+Vesthimmerlands,9,Vester Hornum,A_Anders_Kjær_Kristensen,Anders Kjær Kristensen,Socialdemokratiet,3
+Vesthimmerlands,9,Vester Hornum,A_Erik_Stagsted,Erik Stagsted,Socialdemokratiet,4
+Vesthimmerlands,9,Vester Hornum,A_Kenneth_Nyholm,Kenneth Nyholm,Socialdemokratiet,0
+Vesthimmerlands,9,Vester Hornum,A_Mikael_Toft,Mikael Toft,Socialdemokratiet,2
+Vesthimmerlands,9,Vester Hornum,A_Henrik_Harris_Sloth,Henrik Harris Sloth,Socialdemokratiet,7
+Vesthimmerlands,9,Vester Hornum,A_Doris_Lauritzen,Doris Lauritzen,Socialdemokratiet,1
+Vesthimmerlands,9,Vester Hornum,A_Rasmus_Vetter,Rasmus Vetter,Socialdemokratiet,0
+Vesthimmerlands,9,Vester Hornum,A_Andreea_Buza,Andreea Buza,Socialdemokratiet,3
+Vesthimmerlands,9,Vester Hornum,A_Jens_Chr._Pedersen,Jens Chr. Pedersen,Socialdemokratiet,7
+Vesthimmerlands,9,Vester Hornum,A_Morten_Lindblad,Morten Lindblad,Socialdemokratiet,4
+Vesthimmerlands,9,Vester Hornum,A_Kirsten_Marie_Olsen,Kirsten Marie Olsen,Socialdemokratiet,0
+Vesthimmerlands,9,Vester Hornum,B_Listestemmer,Listestemmer,Radikale Venstre,3
+Vesthimmerlands,9,Vester Hornum,"B_Gitte_Lopdrup,_Aars","Gitte Lopdrup, Aars",Radikale Venstre,2
+Vesthimmerlands,9,Vester Hornum,"B_Jannie_Valentin_Dexter_Jakobsen,Fa","Jannie Valentin Dexter Jakobsen,Fa",Radikale Venstre,0
+Vesthimmerlands,9,Vester Hornum,"B_Kristine_Bloch_Steendahl,_Farsø","Kristine Bloch Steendahl, Farsø",Radikale Venstre,4
+Vesthimmerlands,9,Vester Hornum,"B_Karsten_Kjærgaard,_Livø","Karsten Kjærgaard, Livø",Radikale Venstre,0
+Vesthimmerlands,9,Vester Hornum,"B_Søren_Dolmer,_Aars","Søren Dolmer, Aars",Radikale Venstre,0
+Vesthimmerlands,9,Vester Hornum,"B_Hans_Grishauge,_Gatten","Hans Grishauge, Gatten",Radikale Venstre,1
+Vesthimmerlands,9,Vester Hornum,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,9
+Vesthimmerlands,9,Vester Hornum,"C_Signe_Nøhr,_Hornum","Signe Nøhr, Hornum",Det Konservative Folkeparti,54
+Vesthimmerlands,9,Vester Hornum,"C_Svend_Jørgensen,_Aars","Svend Jørgensen, Aars",Det Konservative Folkeparti,3
+Vesthimmerlands,9,Vester Hornum,"C_Henrik_Dalgaard,_Aars","Henrik Dalgaard, Aars",Det Konservative Folkeparti,9
+Vesthimmerlands,9,Vester Hornum,"C_Jeppe_Korreborg_Pedersen,Aalestrup","Jeppe Korreborg Pedersen,Aalestrup",Det Konservative Folkeparti,2
+Vesthimmerlands,9,Vester Hornum,"C_Allan_Ritter,_Løgstør","Allan Ritter, Løgstør",Det Konservative Folkeparti,1
+Vesthimmerlands,9,Vester Hornum,"C_Niels_Krebs,_Farsø","Niels Krebs, Farsø",Det Konservative Folkeparti,9
+Vesthimmerlands,9,Vester Hornum,"C_Per_Nyborg,_Aars","Per Nyborg, Aars",Det Konservative Folkeparti,7
+Vesthimmerlands,9,Vester Hornum,"C_Johan_Gammelholm-Hagstrup,_Ranum","Johan Gammelholm-Hagstrup, Ranum",Det Konservative Folkeparti,0
+Vesthimmerlands,9,Vester Hornum,"C_Steffen_Lønsmann,_Vester_Hornum","Steffen Lønsmann, Vester Hornum",Det Konservative Folkeparti,54
+Vesthimmerlands,9,Vester Hornum,"C_Ulla_Skov,_Aalestrup","Ulla Skov, Aalestrup",Det Konservative Folkeparti,0
+Vesthimmerlands,9,Vester Hornum,"C_Vittus_Bernlow,_Gunderup","Vittus Bernlow, Gunderup",Det Konservative Folkeparti,0
+Vesthimmerlands,9,Vester Hornum,"C_Bettina_Haldrup_Nielsen,_Løgstør","Bettina Haldrup Nielsen, Løgstør",Det Konservative Folkeparti,0
+Vesthimmerlands,9,Vester Hornum,"C_Ulrik_Mark_Jensen,_Gundersted","Ulrik Mark Jensen, Gundersted",Det Konservative Folkeparti,1
+Vesthimmerlands,9,Vester Hornum,"C_Willy_Møller,_Farsø","Willy Møller, Farsø",Det Konservative Folkeparti,1
+Vesthimmerlands,9,Vester Hornum,D_Listestemmer,Listestemmer,Nye Borgerlige,8
+Vesthimmerlands,9,Vester Hornum,"D_Lars_Rem,_Hvalpsund","Lars Rem, Hvalpsund",Nye Borgerlige,7
+Vesthimmerlands,9,Vester Hornum,"D_Stefan_Larsen,_Thorup","Stefan Larsen, Thorup",Nye Borgerlige,2
+Vesthimmerlands,9,Vester Hornum,"D_Frank_Krogstrup,_Vegger","Frank Krogstrup, Vegger",Nye Borgerlige,0
+Vesthimmerlands,9,Vester Hornum,"D_Martin_Riisgaard-Jensen,_Løgstør","Martin Riisgaard-Jensen, Løgstør",Nye Borgerlige,1
+Vesthimmerlands,9,Vester Hornum,"D_René_Nielsen,_Ranum","René Nielsen, Ranum",Nye Borgerlige,1
+Vesthimmerlands,9,Vester Hornum,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,2
+Vesthimmerlands,9,Vester Hornum,"F_Theresa_Berg_Andersen,_Vilsted","Theresa Berg Andersen, Vilsted",SF - Socialistisk Folkeparti,47
+Vesthimmerlands,9,Vester Hornum,"F_Karen_Clausager,_Aars","Karen Clausager, Aars",SF - Socialistisk Folkeparti,0
+Vesthimmerlands,9,Vester Hornum,"F_AnnaGrethe_Sperling,_Farsø","AnnaGrethe Sperling, Farsø",SF - Socialistisk Folkeparti,1
+Vesthimmerlands,9,Vester Hornum,"F_Erik_Bernth_Nielsen,_Ranum","Erik Bernth Nielsen, Ranum",SF - Socialistisk Folkeparti,0
+Vesthimmerlands,9,Vester Hornum,"F_David_Rathkjen,_Gedsted","David Rathkjen, Gedsted",SF - Socialistisk Folkeparti,0
+Vesthimmerlands,9,Vester Hornum,"F_Henning_Josefsen,_Løgstør","Henning Josefsen, Løgstør",SF - Socialistisk Folkeparti,1
+Vesthimmerlands,9,Vester Hornum,"F_Leif_Larsen,_Løgstør","Leif Larsen, Løgstør",SF - Socialistisk Folkeparti,2
+Vesthimmerlands,9,Vester Hornum,"F_Jane_Bonnerup,_Gedsted","Jane Bonnerup, Gedsted",SF - Socialistisk Folkeparti,2
+Vesthimmerlands,9,Vester Hornum,K_Listestemmer,Listestemmer,Kristendemokraterne,2
+Vesthimmerlands,9,Vester Hornum,"K_Anne-Marie_Jørgensen,_Vilsted","Anne-Marie Jørgensen, Vilsted",Kristendemokraterne,5
+Vesthimmerlands,9,Vester Hornum,"K_Baruti_Mkuninwa,_Aars","Baruti Mkuninwa, Aars",Kristendemokraterne,0
+Vesthimmerlands,9,Vester Hornum,"K_Helle_Madsen,_Ranum","Helle Madsen, Ranum",Kristendemokraterne,0
+Vesthimmerlands,9,Vester Hornum,L_Listestemmer,Listestemmer,VesthimmerlandsListen,2
+Vesthimmerlands,9,Vester Hornum,"L_Kirsten_Moesgaard,_Farsø","Kirsten Moesgaard, Farsø",VesthimmerlandsListen,10
+Vesthimmerlands,9,Vester Hornum,"L_Thomas_Jensen,_Aars","Thomas Jensen, Aars",VesthimmerlandsListen,2
+Vesthimmerlands,9,Vester Hornum,"L_Jens_Erik_Laustsen,_Løgstør","Jens Erik Laustsen, Løgstør",VesthimmerlandsListen,0
+Vesthimmerlands,9,Vester Hornum,"L_Søren_Virenfeldt,_Farsø","Søren Virenfeldt, Farsø",VesthimmerlandsListen,1
+Vesthimmerlands,9,Vester Hornum,"L_Sofie_Bærentzen_Krogholm,_Farsø","Sofie Bærentzen Krogholm, Farsø",VesthimmerlandsListen,1
+Vesthimmerlands,9,Vester Hornum,O_Listestemmer,Listestemmer,Dansk Folkeparti,13
+Vesthimmerlands,9,Vester Hornum,O_Liselotte_Lynge_Jensen,Liselotte Lynge Jensen,Dansk Folkeparti,12
+Vesthimmerlands,9,Vester Hornum,O_Helene_Eleonora_Nordman,Helene Eleonora Nordman,Dansk Folkeparti,1
+Vesthimmerlands,9,Vester Hornum,O_Peter_Hougaard,Peter Hougaard,Dansk Folkeparti,0
+Vesthimmerlands,9,Vester Hornum,O_Mette_Møller,Mette Møller,Dansk Folkeparti,0
+Vesthimmerlands,9,Vester Hornum,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",5
+Vesthimmerlands,9,Vester Hornum,V_Per_Bach_Laursen,Per Bach Laursen,"Venstre, Danmarks Liberale Parti",114
+Vesthimmerlands,9,Vester Hornum,V_Katrine_Høfner,Katrine Høfner,"Venstre, Danmarks Liberale Parti",1
+Vesthimmerlands,9,Vester Hornum,V_Inger_Nielsen,Inger Nielsen,"Venstre, Danmarks Liberale Parti",8
+Vesthimmerlands,9,Vester Hornum,V_Jimmy_Støttrup_Jensen,Jimmy Støttrup Jensen,"Venstre, Danmarks Liberale Parti",4
+Vesthimmerlands,9,Vester Hornum,V_Kurt_Friis,Kurt Friis,"Venstre, Danmarks Liberale Parti",3
+Vesthimmerlands,9,Vester Hornum,V_Per_Bisgaard,Per Bisgaard,"Venstre, Danmarks Liberale Parti",3
+Vesthimmerlands,9,Vester Hornum,V_Jakob_Vium_Dyrman,Jakob Vium Dyrman,"Venstre, Danmarks Liberale Parti",4
+Vesthimmerlands,9,Vester Hornum,V_Benny_Hansen,Benny Hansen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,9,Vester Hornum,V_Lars_Andresen,Lars Andresen,"Venstre, Danmarks Liberale Parti",2
+Vesthimmerlands,9,Vester Hornum,V_Lene_Mikkelsen,Lene Mikkelsen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,9,Vester Hornum,V_Jakob_Ræbild_Nørgaard,Jakob Ræbild Nørgaard,"Venstre, Danmarks Liberale Parti",1
+Vesthimmerlands,9,Vester Hornum,V_Jens_Lauritzen,Jens Lauritzen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,9,Vester Hornum,V_Ole_Wisti_Lassen,Ole Wisti Lassen,"Venstre, Danmarks Liberale Parti",51
+Vesthimmerlands,9,Vester Hornum,V_Thorkil_Christensen,Thorkil Christensen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,9,Vester Hornum,V_Ole_B._Sørensen,Ole B. Sørensen,"Venstre, Danmarks Liberale Parti",1
+Vesthimmerlands,9,Vester Hornum,V_Mads_Krarup_Nielsen,Mads Krarup Nielsen,"Venstre, Danmarks Liberale Parti",1
+Vesthimmerlands,9,Vester Hornum,V_Birgitte_Sørensen,Birgitte Sørensen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,9,Vester Hornum,V_Morten_Mejdahl,Morten Mejdahl,"Venstre, Danmarks Liberale Parti",8
+Vesthimmerlands,9,Vester Hornum,Z_Listestemmer,Listestemmer,Fremskridtspartiet,2
+Vesthimmerlands,9,Vester Hornum,Z_Niels_M._Christensen,Niels M. Christensen,Fremskridtspartiet,5
+Vesthimmerlands,9,Vester Hornum,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,5
+Vesthimmerlands,9,Vester Hornum,"Ø_Annemette_Bach,_Ranum","Annemette Bach, Ranum",Enhedslisten - De Rød-Grønne,4
+Vesthimmerlands,10,Løgstør,A_Listestemmer,Listestemmer,Socialdemokratiet,113
+Vesthimmerlands,10,Løgstør,A_Asger_Andersen,Asger Andersen,Socialdemokratiet,93
+Vesthimmerlands,10,Løgstør,A_Anders_Kjær_Kristensen,Anders Kjær Kristensen,Socialdemokratiet,11
+Vesthimmerlands,10,Løgstør,A_Erik_Stagsted,Erik Stagsted,Socialdemokratiet,142
+Vesthimmerlands,10,Løgstør,A_Kenneth_Nyholm,Kenneth Nyholm,Socialdemokratiet,6
+Vesthimmerlands,10,Løgstør,A_Mikael_Toft,Mikael Toft,Socialdemokratiet,2
+Vesthimmerlands,10,Løgstør,A_Henrik_Harris_Sloth,Henrik Harris Sloth,Socialdemokratiet,88
+Vesthimmerlands,10,Løgstør,A_Doris_Lauritzen,Doris Lauritzen,Socialdemokratiet,7
+Vesthimmerlands,10,Løgstør,A_Rasmus_Vetter,Rasmus Vetter,Socialdemokratiet,1
+Vesthimmerlands,10,Løgstør,A_Andreea_Buza,Andreea Buza,Socialdemokratiet,0
+Vesthimmerlands,10,Løgstør,A_Jens_Chr._Pedersen,Jens Chr. Pedersen,Socialdemokratiet,0
+Vesthimmerlands,10,Løgstør,A_Morten_Lindblad,Morten Lindblad,Socialdemokratiet,10
+Vesthimmerlands,10,Løgstør,A_Kirsten_Marie_Olsen,Kirsten Marie Olsen,Socialdemokratiet,5
+Vesthimmerlands,10,Løgstør,B_Listestemmer,Listestemmer,Radikale Venstre,17
+Vesthimmerlands,10,Løgstør,"B_Gitte_Lopdrup,_Aars","Gitte Lopdrup, Aars",Radikale Venstre,9
+Vesthimmerlands,10,Løgstør,"B_Jannie_Valentin_Dexter_Jakobsen,Fa","Jannie Valentin Dexter Jakobsen,Fa",Radikale Venstre,2
+Vesthimmerlands,10,Løgstør,"B_Kristine_Bloch_Steendahl,_Farsø","Kristine Bloch Steendahl, Farsø",Radikale Venstre,8
+Vesthimmerlands,10,Løgstør,"B_Karsten_Kjærgaard,_Livø","Karsten Kjærgaard, Livø",Radikale Venstre,4
+Vesthimmerlands,10,Løgstør,"B_Søren_Dolmer,_Aars","Søren Dolmer, Aars",Radikale Venstre,0
+Vesthimmerlands,10,Løgstør,"B_Hans_Grishauge,_Gatten","Hans Grishauge, Gatten",Radikale Venstre,1
+Vesthimmerlands,10,Løgstør,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,31
+Vesthimmerlands,10,Løgstør,"C_Signe_Nøhr,_Hornum","Signe Nøhr, Hornum",Det Konservative Folkeparti,48
+Vesthimmerlands,10,Løgstør,"C_Svend_Jørgensen,_Aars","Svend Jørgensen, Aars",Det Konservative Folkeparti,4
+Vesthimmerlands,10,Løgstør,"C_Henrik_Dalgaard,_Aars","Henrik Dalgaard, Aars",Det Konservative Folkeparti,3
+Vesthimmerlands,10,Løgstør,"C_Jeppe_Korreborg_Pedersen,Aalestrup","Jeppe Korreborg Pedersen,Aalestrup",Det Konservative Folkeparti,1
+Vesthimmerlands,10,Løgstør,"C_Allan_Ritter,_Løgstør","Allan Ritter, Løgstør",Det Konservative Folkeparti,210
+Vesthimmerlands,10,Løgstør,"C_Niels_Krebs,_Farsø","Niels Krebs, Farsø",Det Konservative Folkeparti,4
+Vesthimmerlands,10,Løgstør,"C_Per_Nyborg,_Aars","Per Nyborg, Aars",Det Konservative Folkeparti,3
+Vesthimmerlands,10,Løgstør,"C_Johan_Gammelholm-Hagstrup,_Ranum","Johan Gammelholm-Hagstrup, Ranum",Det Konservative Folkeparti,17
+Vesthimmerlands,10,Løgstør,"C_Steffen_Lønsmann,_Vester_Hornum","Steffen Lønsmann, Vester Hornum",Det Konservative Folkeparti,1
+Vesthimmerlands,10,Løgstør,"C_Ulla_Skov,_Aalestrup","Ulla Skov, Aalestrup",Det Konservative Folkeparti,1
+Vesthimmerlands,10,Løgstør,"C_Vittus_Bernlow,_Gunderup","Vittus Bernlow, Gunderup",Det Konservative Folkeparti,0
+Vesthimmerlands,10,Løgstør,"C_Bettina_Haldrup_Nielsen,_Løgstør","Bettina Haldrup Nielsen, Løgstør",Det Konservative Folkeparti,6
+Vesthimmerlands,10,Løgstør,"C_Ulrik_Mark_Jensen,_Gundersted","Ulrik Mark Jensen, Gundersted",Det Konservative Folkeparti,1
+Vesthimmerlands,10,Løgstør,"C_Willy_Møller,_Farsø","Willy Møller, Farsø",Det Konservative Folkeparti,2
+Vesthimmerlands,10,Løgstør,D_Listestemmer,Listestemmer,Nye Borgerlige,28
+Vesthimmerlands,10,Løgstør,"D_Lars_Rem,_Hvalpsund","Lars Rem, Hvalpsund",Nye Borgerlige,13
+Vesthimmerlands,10,Løgstør,"D_Stefan_Larsen,_Thorup","Stefan Larsen, Thorup",Nye Borgerlige,7
+Vesthimmerlands,10,Løgstør,"D_Frank_Krogstrup,_Vegger","Frank Krogstrup, Vegger",Nye Borgerlige,1
+Vesthimmerlands,10,Løgstør,"D_Martin_Riisgaard-Jensen,_Løgstør","Martin Riisgaard-Jensen, Løgstør",Nye Borgerlige,23
+Vesthimmerlands,10,Løgstør,"D_René_Nielsen,_Ranum","René Nielsen, Ranum",Nye Borgerlige,2
+Vesthimmerlands,10,Løgstør,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,31
+Vesthimmerlands,10,Løgstør,"F_Theresa_Berg_Andersen,_Vilsted","Theresa Berg Andersen, Vilsted",SF - Socialistisk Folkeparti,490
+Vesthimmerlands,10,Løgstør,"F_Karen_Clausager,_Aars","Karen Clausager, Aars",SF - Socialistisk Folkeparti,4
+Vesthimmerlands,10,Løgstør,"F_AnnaGrethe_Sperling,_Farsø","AnnaGrethe Sperling, Farsø",SF - Socialistisk Folkeparti,0
+Vesthimmerlands,10,Løgstør,"F_Erik_Bernth_Nielsen,_Ranum","Erik Bernth Nielsen, Ranum",SF - Socialistisk Folkeparti,2
+Vesthimmerlands,10,Løgstør,"F_David_Rathkjen,_Gedsted","David Rathkjen, Gedsted",SF - Socialistisk Folkeparti,2
+Vesthimmerlands,10,Løgstør,"F_Henning_Josefsen,_Løgstør","Henning Josefsen, Løgstør",SF - Socialistisk Folkeparti,6
+Vesthimmerlands,10,Løgstør,"F_Leif_Larsen,_Løgstør","Leif Larsen, Løgstør",SF - Socialistisk Folkeparti,7
+Vesthimmerlands,10,Løgstør,"F_Jane_Bonnerup,_Gedsted","Jane Bonnerup, Gedsted",SF - Socialistisk Folkeparti,2
+Vesthimmerlands,10,Løgstør,K_Listestemmer,Listestemmer,Kristendemokraterne,0
+Vesthimmerlands,10,Løgstør,"K_Anne-Marie_Jørgensen,_Vilsted","Anne-Marie Jørgensen, Vilsted",Kristendemokraterne,8
+Vesthimmerlands,10,Løgstør,"K_Baruti_Mkuninwa,_Aars","Baruti Mkuninwa, Aars",Kristendemokraterne,0
+Vesthimmerlands,10,Løgstør,"K_Helle_Madsen,_Ranum","Helle Madsen, Ranum",Kristendemokraterne,1
+Vesthimmerlands,10,Løgstør,L_Listestemmer,Listestemmer,VesthimmerlandsListen,2
+Vesthimmerlands,10,Løgstør,"L_Kirsten_Moesgaard,_Farsø","Kirsten Moesgaard, Farsø",VesthimmerlandsListen,4
+Vesthimmerlands,10,Løgstør,"L_Thomas_Jensen,_Aars","Thomas Jensen, Aars",VesthimmerlandsListen,1
+Vesthimmerlands,10,Løgstør,"L_Jens_Erik_Laustsen,_Løgstør","Jens Erik Laustsen, Løgstør",VesthimmerlandsListen,22
+Vesthimmerlands,10,Løgstør,"L_Søren_Virenfeldt,_Farsø","Søren Virenfeldt, Farsø",VesthimmerlandsListen,2
+Vesthimmerlands,10,Løgstør,"L_Sofie_Bærentzen_Krogholm,_Farsø","Sofie Bærentzen Krogholm, Farsø",VesthimmerlandsListen,1
+Vesthimmerlands,10,Løgstør,O_Listestemmer,Listestemmer,Dansk Folkeparti,27
+Vesthimmerlands,10,Løgstør,O_Liselotte_Lynge_Jensen,Liselotte Lynge Jensen,Dansk Folkeparti,101
+Vesthimmerlands,10,Løgstør,O_Helene_Eleonora_Nordman,Helene Eleonora Nordman,Dansk Folkeparti,2
+Vesthimmerlands,10,Løgstør,O_Peter_Hougaard,Peter Hougaard,Dansk Folkeparti,1
+Vesthimmerlands,10,Løgstør,O_Mette_Møller,Mette Møller,Dansk Folkeparti,12
+Vesthimmerlands,10,Løgstør,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",45
+Vesthimmerlands,10,Løgstør,V_Per_Bach_Laursen,Per Bach Laursen,"Venstre, Danmarks Liberale Parti",478
+Vesthimmerlands,10,Løgstør,V_Katrine_Høfner,Katrine Høfner,"Venstre, Danmarks Liberale Parti",3
+Vesthimmerlands,10,Løgstør,V_Inger_Nielsen,Inger Nielsen,"Venstre, Danmarks Liberale Parti",5
+Vesthimmerlands,10,Løgstør,V_Jimmy_Støttrup_Jensen,Jimmy Støttrup Jensen,"Venstre, Danmarks Liberale Parti",166
+Vesthimmerlands,10,Løgstør,V_Kurt_Friis,Kurt Friis,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,10,Løgstør,V_Per_Bisgaard,Per Bisgaard,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,10,Løgstør,V_Jakob_Vium_Dyrman,Jakob Vium Dyrman,"Venstre, Danmarks Liberale Parti",1
+Vesthimmerlands,10,Løgstør,V_Benny_Hansen,Benny Hansen,"Venstre, Danmarks Liberale Parti",132
+Vesthimmerlands,10,Løgstør,V_Lars_Andresen,Lars Andresen,"Venstre, Danmarks Liberale Parti",2
+Vesthimmerlands,10,Løgstør,V_Lene_Mikkelsen,Lene Mikkelsen,"Venstre, Danmarks Liberale Parti",1
+Vesthimmerlands,10,Løgstør,V_Jakob_Ræbild_Nørgaard,Jakob Ræbild Nørgaard,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,10,Løgstør,V_Jens_Lauritzen,Jens Lauritzen,"Venstre, Danmarks Liberale Parti",86
+Vesthimmerlands,10,Løgstør,V_Ole_Wisti_Lassen,Ole Wisti Lassen,"Venstre, Danmarks Liberale Parti",4
+Vesthimmerlands,10,Løgstør,V_Thorkil_Christensen,Thorkil Christensen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,10,Løgstør,V_Ole_B._Sørensen,Ole B. Sørensen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,10,Løgstør,V_Mads_Krarup_Nielsen,Mads Krarup Nielsen,"Venstre, Danmarks Liberale Parti",81
+Vesthimmerlands,10,Løgstør,V_Birgitte_Sørensen,Birgitte Sørensen,"Venstre, Danmarks Liberale Parti",1
+Vesthimmerlands,10,Løgstør,V_Morten_Mejdahl,Morten Mejdahl,"Venstre, Danmarks Liberale Parti",26
+Vesthimmerlands,10,Løgstør,Z_Listestemmer,Listestemmer,Fremskridtspartiet,3
+Vesthimmerlands,10,Løgstør,Z_Niels_M._Christensen,Niels M. Christensen,Fremskridtspartiet,3
+Vesthimmerlands,10,Løgstør,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,7
+Vesthimmerlands,10,Løgstør,"Ø_Annemette_Bach,_Ranum","Annemette Bach, Ranum",Enhedslisten - De Rød-Grønne,19
+Vesthimmerlands,11,Ranum,A_Listestemmer,Listestemmer,Socialdemokratiet,33
+Vesthimmerlands,11,Ranum,A_Asger_Andersen,Asger Andersen,Socialdemokratiet,21
+Vesthimmerlands,11,Ranum,A_Anders_Kjær_Kristensen,Anders Kjær Kristensen,Socialdemokratiet,7
+Vesthimmerlands,11,Ranum,A_Erik_Stagsted,Erik Stagsted,Socialdemokratiet,17
+Vesthimmerlands,11,Ranum,A_Kenneth_Nyholm,Kenneth Nyholm,Socialdemokratiet,0
+Vesthimmerlands,11,Ranum,A_Mikael_Toft,Mikael Toft,Socialdemokratiet,0
+Vesthimmerlands,11,Ranum,A_Henrik_Harris_Sloth,Henrik Harris Sloth,Socialdemokratiet,22
+Vesthimmerlands,11,Ranum,A_Doris_Lauritzen,Doris Lauritzen,Socialdemokratiet,1
+Vesthimmerlands,11,Ranum,A_Rasmus_Vetter,Rasmus Vetter,Socialdemokratiet,0
+Vesthimmerlands,11,Ranum,A_Andreea_Buza,Andreea Buza,Socialdemokratiet,1
+Vesthimmerlands,11,Ranum,A_Jens_Chr._Pedersen,Jens Chr. Pedersen,Socialdemokratiet,1
+Vesthimmerlands,11,Ranum,A_Morten_Lindblad,Morten Lindblad,Socialdemokratiet,5
+Vesthimmerlands,11,Ranum,A_Kirsten_Marie_Olsen,Kirsten Marie Olsen,Socialdemokratiet,0
+Vesthimmerlands,11,Ranum,B_Listestemmer,Listestemmer,Radikale Venstre,6
+Vesthimmerlands,11,Ranum,"B_Gitte_Lopdrup,_Aars","Gitte Lopdrup, Aars",Radikale Venstre,3
+Vesthimmerlands,11,Ranum,"B_Jannie_Valentin_Dexter_Jakobsen,Fa","Jannie Valentin Dexter Jakobsen,Fa",Radikale Venstre,1
+Vesthimmerlands,11,Ranum,"B_Kristine_Bloch_Steendahl,_Farsø","Kristine Bloch Steendahl, Farsø",Radikale Venstre,7
+Vesthimmerlands,11,Ranum,"B_Karsten_Kjærgaard,_Livø","Karsten Kjærgaard, Livø",Radikale Venstre,6
+Vesthimmerlands,11,Ranum,"B_Søren_Dolmer,_Aars","Søren Dolmer, Aars",Radikale Venstre,0
+Vesthimmerlands,11,Ranum,"B_Hans_Grishauge,_Gatten","Hans Grishauge, Gatten",Radikale Venstre,0
+Vesthimmerlands,11,Ranum,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,10
+Vesthimmerlands,11,Ranum,"C_Signe_Nøhr,_Hornum","Signe Nøhr, Hornum",Det Konservative Folkeparti,29
+Vesthimmerlands,11,Ranum,"C_Svend_Jørgensen,_Aars","Svend Jørgensen, Aars",Det Konservative Folkeparti,3
+Vesthimmerlands,11,Ranum,"C_Henrik_Dalgaard,_Aars","Henrik Dalgaard, Aars",Det Konservative Folkeparti,4
+Vesthimmerlands,11,Ranum,"C_Jeppe_Korreborg_Pedersen,Aalestrup","Jeppe Korreborg Pedersen,Aalestrup",Det Konservative Folkeparti,0
+Vesthimmerlands,11,Ranum,"C_Allan_Ritter,_Løgstør","Allan Ritter, Løgstør",Det Konservative Folkeparti,30
+Vesthimmerlands,11,Ranum,"C_Niels_Krebs,_Farsø","Niels Krebs, Farsø",Det Konservative Folkeparti,0
+Vesthimmerlands,11,Ranum,"C_Per_Nyborg,_Aars","Per Nyborg, Aars",Det Konservative Folkeparti,1
+Vesthimmerlands,11,Ranum,"C_Johan_Gammelholm-Hagstrup,_Ranum","Johan Gammelholm-Hagstrup, Ranum",Det Konservative Folkeparti,11
+Vesthimmerlands,11,Ranum,"C_Steffen_Lønsmann,_Vester_Hornum","Steffen Lønsmann, Vester Hornum",Det Konservative Folkeparti,1
+Vesthimmerlands,11,Ranum,"C_Ulla_Skov,_Aalestrup","Ulla Skov, Aalestrup",Det Konservative Folkeparti,1
+Vesthimmerlands,11,Ranum,"C_Vittus_Bernlow,_Gunderup","Vittus Bernlow, Gunderup",Det Konservative Folkeparti,0
+Vesthimmerlands,11,Ranum,"C_Bettina_Haldrup_Nielsen,_Løgstør","Bettina Haldrup Nielsen, Løgstør",Det Konservative Folkeparti,8
+Vesthimmerlands,11,Ranum,"C_Ulrik_Mark_Jensen,_Gundersted","Ulrik Mark Jensen, Gundersted",Det Konservative Folkeparti,0
+Vesthimmerlands,11,Ranum,"C_Willy_Møller,_Farsø","Willy Møller, Farsø",Det Konservative Folkeparti,0
+Vesthimmerlands,11,Ranum,D_Listestemmer,Listestemmer,Nye Borgerlige,7
+Vesthimmerlands,11,Ranum,"D_Lars_Rem,_Hvalpsund","Lars Rem, Hvalpsund",Nye Borgerlige,7
+Vesthimmerlands,11,Ranum,"D_Stefan_Larsen,_Thorup","Stefan Larsen, Thorup",Nye Borgerlige,0
+Vesthimmerlands,11,Ranum,"D_Frank_Krogstrup,_Vegger","Frank Krogstrup, Vegger",Nye Borgerlige,0
+Vesthimmerlands,11,Ranum,"D_Martin_Riisgaard-Jensen,_Løgstør","Martin Riisgaard-Jensen, Løgstør",Nye Borgerlige,11
+Vesthimmerlands,11,Ranum,"D_René_Nielsen,_Ranum","René Nielsen, Ranum",Nye Borgerlige,5
+Vesthimmerlands,11,Ranum,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,19
+Vesthimmerlands,11,Ranum,"F_Theresa_Berg_Andersen,_Vilsted","Theresa Berg Andersen, Vilsted",SF - Socialistisk Folkeparti,236
+Vesthimmerlands,11,Ranum,"F_Karen_Clausager,_Aars","Karen Clausager, Aars",SF - Socialistisk Folkeparti,2
+Vesthimmerlands,11,Ranum,"F_AnnaGrethe_Sperling,_Farsø","AnnaGrethe Sperling, Farsø",SF - Socialistisk Folkeparti,1
+Vesthimmerlands,11,Ranum,"F_Erik_Bernth_Nielsen,_Ranum","Erik Bernth Nielsen, Ranum",SF - Socialistisk Folkeparti,11
+Vesthimmerlands,11,Ranum,"F_David_Rathkjen,_Gedsted","David Rathkjen, Gedsted",SF - Socialistisk Folkeparti,1
+Vesthimmerlands,11,Ranum,"F_Henning_Josefsen,_Løgstør","Henning Josefsen, Løgstør",SF - Socialistisk Folkeparti,4
+Vesthimmerlands,11,Ranum,"F_Leif_Larsen,_Løgstør","Leif Larsen, Løgstør",SF - Socialistisk Folkeparti,2
+Vesthimmerlands,11,Ranum,"F_Jane_Bonnerup,_Gedsted","Jane Bonnerup, Gedsted",SF - Socialistisk Folkeparti,2
+Vesthimmerlands,11,Ranum,K_Listestemmer,Listestemmer,Kristendemokraterne,0
+Vesthimmerlands,11,Ranum,"K_Anne-Marie_Jørgensen,_Vilsted","Anne-Marie Jørgensen, Vilsted",Kristendemokraterne,12
+Vesthimmerlands,11,Ranum,"K_Baruti_Mkuninwa,_Aars","Baruti Mkuninwa, Aars",Kristendemokraterne,0
+Vesthimmerlands,11,Ranum,"K_Helle_Madsen,_Ranum","Helle Madsen, Ranum",Kristendemokraterne,2
+Vesthimmerlands,11,Ranum,L_Listestemmer,Listestemmer,VesthimmerlandsListen,0
+Vesthimmerlands,11,Ranum,"L_Kirsten_Moesgaard,_Farsø","Kirsten Moesgaard, Farsø",VesthimmerlandsListen,8
+Vesthimmerlands,11,Ranum,"L_Thomas_Jensen,_Aars","Thomas Jensen, Aars",VesthimmerlandsListen,0
+Vesthimmerlands,11,Ranum,"L_Jens_Erik_Laustsen,_Løgstør","Jens Erik Laustsen, Løgstør",VesthimmerlandsListen,3
+Vesthimmerlands,11,Ranum,"L_Søren_Virenfeldt,_Farsø","Søren Virenfeldt, Farsø",VesthimmerlandsListen,2
+Vesthimmerlands,11,Ranum,"L_Sofie_Bærentzen_Krogholm,_Farsø","Sofie Bærentzen Krogholm, Farsø",VesthimmerlandsListen,0
+Vesthimmerlands,11,Ranum,O_Listestemmer,Listestemmer,Dansk Folkeparti,3
+Vesthimmerlands,11,Ranum,O_Liselotte_Lynge_Jensen,Liselotte Lynge Jensen,Dansk Folkeparti,29
+Vesthimmerlands,11,Ranum,O_Helene_Eleonora_Nordman,Helene Eleonora Nordman,Dansk Folkeparti,1
+Vesthimmerlands,11,Ranum,O_Peter_Hougaard,Peter Hougaard,Dansk Folkeparti,0
+Vesthimmerlands,11,Ranum,O_Mette_Møller,Mette Møller,Dansk Folkeparti,3
+Vesthimmerlands,11,Ranum,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",17
+Vesthimmerlands,11,Ranum,V_Per_Bach_Laursen,Per Bach Laursen,"Venstre, Danmarks Liberale Parti",188
+Vesthimmerlands,11,Ranum,V_Katrine_Høfner,Katrine Høfner,"Venstre, Danmarks Liberale Parti",1
+Vesthimmerlands,11,Ranum,V_Inger_Nielsen,Inger Nielsen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,11,Ranum,V_Jimmy_Støttrup_Jensen,Jimmy Støttrup Jensen,"Venstre, Danmarks Liberale Parti",7
+Vesthimmerlands,11,Ranum,V_Kurt_Friis,Kurt Friis,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,11,Ranum,V_Per_Bisgaard,Per Bisgaard,"Venstre, Danmarks Liberale Parti",1
+Vesthimmerlands,11,Ranum,V_Jakob_Vium_Dyrman,Jakob Vium Dyrman,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,11,Ranum,V_Benny_Hansen,Benny Hansen,"Venstre, Danmarks Liberale Parti",28
+Vesthimmerlands,11,Ranum,V_Lars_Andresen,Lars Andresen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,11,Ranum,V_Lene_Mikkelsen,Lene Mikkelsen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,11,Ranum,V_Jakob_Ræbild_Nørgaard,Jakob Ræbild Nørgaard,"Venstre, Danmarks Liberale Parti",1
+Vesthimmerlands,11,Ranum,V_Jens_Lauritzen,Jens Lauritzen,"Venstre, Danmarks Liberale Parti",8
+Vesthimmerlands,11,Ranum,V_Ole_Wisti_Lassen,Ole Wisti Lassen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,11,Ranum,V_Thorkil_Christensen,Thorkil Christensen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,11,Ranum,V_Ole_B._Sørensen,Ole B. Sørensen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,11,Ranum,V_Mads_Krarup_Nielsen,Mads Krarup Nielsen,"Venstre, Danmarks Liberale Parti",2
+Vesthimmerlands,11,Ranum,V_Birgitte_Sørensen,Birgitte Sørensen,"Venstre, Danmarks Liberale Parti",1
+Vesthimmerlands,11,Ranum,V_Morten_Mejdahl,Morten Mejdahl,"Venstre, Danmarks Liberale Parti",15
+Vesthimmerlands,11,Ranum,Z_Listestemmer,Listestemmer,Fremskridtspartiet,2
+Vesthimmerlands,11,Ranum,Z_Niels_M._Christensen,Niels M. Christensen,Fremskridtspartiet,4
+Vesthimmerlands,11,Ranum,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,6
+Vesthimmerlands,11,Ranum,"Ø_Annemette_Bach,_Ranum","Annemette Bach, Ranum",Enhedslisten - De Rød-Grønne,43
+Vesthimmerlands,12,Salling,A_Listestemmer,Listestemmer,Socialdemokratiet,30
+Vesthimmerlands,12,Salling,A_Asger_Andersen,Asger Andersen,Socialdemokratiet,19
+Vesthimmerlands,12,Salling,A_Anders_Kjær_Kristensen,Anders Kjær Kristensen,Socialdemokratiet,5
+Vesthimmerlands,12,Salling,A_Erik_Stagsted,Erik Stagsted,Socialdemokratiet,10
+Vesthimmerlands,12,Salling,A_Kenneth_Nyholm,Kenneth Nyholm,Socialdemokratiet,2
+Vesthimmerlands,12,Salling,A_Mikael_Toft,Mikael Toft,Socialdemokratiet,0
+Vesthimmerlands,12,Salling,A_Henrik_Harris_Sloth,Henrik Harris Sloth,Socialdemokratiet,13
+Vesthimmerlands,12,Salling,A_Doris_Lauritzen,Doris Lauritzen,Socialdemokratiet,2
+Vesthimmerlands,12,Salling,A_Rasmus_Vetter,Rasmus Vetter,Socialdemokratiet,0
+Vesthimmerlands,12,Salling,A_Andreea_Buza,Andreea Buza,Socialdemokratiet,1
+Vesthimmerlands,12,Salling,A_Jens_Chr._Pedersen,Jens Chr. Pedersen,Socialdemokratiet,0
+Vesthimmerlands,12,Salling,A_Morten_Lindblad,Morten Lindblad,Socialdemokratiet,5
+Vesthimmerlands,12,Salling,A_Kirsten_Marie_Olsen,Kirsten Marie Olsen,Socialdemokratiet,1
+Vesthimmerlands,12,Salling,B_Listestemmer,Listestemmer,Radikale Venstre,0
+Vesthimmerlands,12,Salling,"B_Gitte_Lopdrup,_Aars","Gitte Lopdrup, Aars",Radikale Venstre,2
+Vesthimmerlands,12,Salling,"B_Jannie_Valentin_Dexter_Jakobsen,Fa","Jannie Valentin Dexter Jakobsen,Fa",Radikale Venstre,1
+Vesthimmerlands,12,Salling,"B_Kristine_Bloch_Steendahl,_Farsø","Kristine Bloch Steendahl, Farsø",Radikale Venstre,1
+Vesthimmerlands,12,Salling,"B_Karsten_Kjærgaard,_Livø","Karsten Kjærgaard, Livø",Radikale Venstre,0
+Vesthimmerlands,12,Salling,"B_Søren_Dolmer,_Aars","Søren Dolmer, Aars",Radikale Venstre,0
+Vesthimmerlands,12,Salling,"B_Hans_Grishauge,_Gatten","Hans Grishauge, Gatten",Radikale Venstre,0
+Vesthimmerlands,12,Salling,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,5
+Vesthimmerlands,12,Salling,"C_Signe_Nøhr,_Hornum","Signe Nøhr, Hornum",Det Konservative Folkeparti,37
+Vesthimmerlands,12,Salling,"C_Svend_Jørgensen,_Aars","Svend Jørgensen, Aars",Det Konservative Folkeparti,0
+Vesthimmerlands,12,Salling,"C_Henrik_Dalgaard,_Aars","Henrik Dalgaard, Aars",Det Konservative Folkeparti,1
+Vesthimmerlands,12,Salling,"C_Jeppe_Korreborg_Pedersen,Aalestrup","Jeppe Korreborg Pedersen,Aalestrup",Det Konservative Folkeparti,2
+Vesthimmerlands,12,Salling,"C_Allan_Ritter,_Løgstør","Allan Ritter, Løgstør",Det Konservative Folkeparti,26
+Vesthimmerlands,12,Salling,"C_Niels_Krebs,_Farsø","Niels Krebs, Farsø",Det Konservative Folkeparti,2
+Vesthimmerlands,12,Salling,"C_Per_Nyborg,_Aars","Per Nyborg, Aars",Det Konservative Folkeparti,0
+Vesthimmerlands,12,Salling,"C_Johan_Gammelholm-Hagstrup,_Ranum","Johan Gammelholm-Hagstrup, Ranum",Det Konservative Folkeparti,0
+Vesthimmerlands,12,Salling,"C_Steffen_Lønsmann,_Vester_Hornum","Steffen Lønsmann, Vester Hornum",Det Konservative Folkeparti,4
+Vesthimmerlands,12,Salling,"C_Ulla_Skov,_Aalestrup","Ulla Skov, Aalestrup",Det Konservative Folkeparti,0
+Vesthimmerlands,12,Salling,"C_Vittus_Bernlow,_Gunderup","Vittus Bernlow, Gunderup",Det Konservative Folkeparti,0
+Vesthimmerlands,12,Salling,"C_Bettina_Haldrup_Nielsen,_Løgstør","Bettina Haldrup Nielsen, Løgstør",Det Konservative Folkeparti,5
+Vesthimmerlands,12,Salling,"C_Ulrik_Mark_Jensen,_Gundersted","Ulrik Mark Jensen, Gundersted",Det Konservative Folkeparti,3
+Vesthimmerlands,12,Salling,"C_Willy_Møller,_Farsø","Willy Møller, Farsø",Det Konservative Folkeparti,1
+Vesthimmerlands,12,Salling,D_Listestemmer,Listestemmer,Nye Borgerlige,11
+Vesthimmerlands,12,Salling,"D_Lars_Rem,_Hvalpsund","Lars Rem, Hvalpsund",Nye Borgerlige,8
+Vesthimmerlands,12,Salling,"D_Stefan_Larsen,_Thorup","Stefan Larsen, Thorup",Nye Borgerlige,2
+Vesthimmerlands,12,Salling,"D_Frank_Krogstrup,_Vegger","Frank Krogstrup, Vegger",Nye Borgerlige,0
+Vesthimmerlands,12,Salling,"D_Martin_Riisgaard-Jensen,_Løgstør","Martin Riisgaard-Jensen, Løgstør",Nye Borgerlige,9
+Vesthimmerlands,12,Salling,"D_René_Nielsen,_Ranum","René Nielsen, Ranum",Nye Borgerlige,1
+Vesthimmerlands,12,Salling,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,3
+Vesthimmerlands,12,Salling,"F_Theresa_Berg_Andersen,_Vilsted","Theresa Berg Andersen, Vilsted",SF - Socialistisk Folkeparti,108
+Vesthimmerlands,12,Salling,"F_Karen_Clausager,_Aars","Karen Clausager, Aars",SF - Socialistisk Folkeparti,2
+Vesthimmerlands,12,Salling,"F_AnnaGrethe_Sperling,_Farsø","AnnaGrethe Sperling, Farsø",SF - Socialistisk Folkeparti,0
+Vesthimmerlands,12,Salling,"F_Erik_Bernth_Nielsen,_Ranum","Erik Bernth Nielsen, Ranum",SF - Socialistisk Folkeparti,0
+Vesthimmerlands,12,Salling,"F_David_Rathkjen,_Gedsted","David Rathkjen, Gedsted",SF - Socialistisk Folkeparti,1
+Vesthimmerlands,12,Salling,"F_Henning_Josefsen,_Løgstør","Henning Josefsen, Løgstør",SF - Socialistisk Folkeparti,0
+Vesthimmerlands,12,Salling,"F_Leif_Larsen,_Løgstør","Leif Larsen, Løgstør",SF - Socialistisk Folkeparti,7
+Vesthimmerlands,12,Salling,"F_Jane_Bonnerup,_Gedsted","Jane Bonnerup, Gedsted",SF - Socialistisk Folkeparti,1
+Vesthimmerlands,12,Salling,K_Listestemmer,Listestemmer,Kristendemokraterne,0
+Vesthimmerlands,12,Salling,"K_Anne-Marie_Jørgensen,_Vilsted","Anne-Marie Jørgensen, Vilsted",Kristendemokraterne,5
+Vesthimmerlands,12,Salling,"K_Baruti_Mkuninwa,_Aars","Baruti Mkuninwa, Aars",Kristendemokraterne,0
+Vesthimmerlands,12,Salling,"K_Helle_Madsen,_Ranum","Helle Madsen, Ranum",Kristendemokraterne,0
+Vesthimmerlands,12,Salling,L_Listestemmer,Listestemmer,VesthimmerlandsListen,0
+Vesthimmerlands,12,Salling,"L_Kirsten_Moesgaard,_Farsø","Kirsten Moesgaard, Farsø",VesthimmerlandsListen,6
+Vesthimmerlands,12,Salling,"L_Thomas_Jensen,_Aars","Thomas Jensen, Aars",VesthimmerlandsListen,1
+Vesthimmerlands,12,Salling,"L_Jens_Erik_Laustsen,_Løgstør","Jens Erik Laustsen, Løgstør",VesthimmerlandsListen,1
+Vesthimmerlands,12,Salling,"L_Søren_Virenfeldt,_Farsø","Søren Virenfeldt, Farsø",VesthimmerlandsListen,0
+Vesthimmerlands,12,Salling,"L_Sofie_Bærentzen_Krogholm,_Farsø","Sofie Bærentzen Krogholm, Farsø",VesthimmerlandsListen,0
+Vesthimmerlands,12,Salling,O_Listestemmer,Listestemmer,Dansk Folkeparti,11
+Vesthimmerlands,12,Salling,O_Liselotte_Lynge_Jensen,Liselotte Lynge Jensen,Dansk Folkeparti,23
+Vesthimmerlands,12,Salling,O_Helene_Eleonora_Nordman,Helene Eleonora Nordman,Dansk Folkeparti,0
+Vesthimmerlands,12,Salling,O_Peter_Hougaard,Peter Hougaard,Dansk Folkeparti,1
+Vesthimmerlands,12,Salling,O_Mette_Møller,Mette Møller,Dansk Folkeparti,0
+Vesthimmerlands,12,Salling,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",22
+Vesthimmerlands,12,Salling,V_Per_Bach_Laursen,Per Bach Laursen,"Venstre, Danmarks Liberale Parti",116
+Vesthimmerlands,12,Salling,V_Katrine_Høfner,Katrine Høfner,"Venstre, Danmarks Liberale Parti",2
+Vesthimmerlands,12,Salling,V_Inger_Nielsen,Inger Nielsen,"Venstre, Danmarks Liberale Parti",3
+Vesthimmerlands,12,Salling,V_Jimmy_Støttrup_Jensen,Jimmy Støttrup Jensen,"Venstre, Danmarks Liberale Parti",10
+Vesthimmerlands,12,Salling,V_Kurt_Friis,Kurt Friis,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,12,Salling,V_Per_Bisgaard,Per Bisgaard,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,12,Salling,V_Jakob_Vium_Dyrman,Jakob Vium Dyrman,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,12,Salling,V_Benny_Hansen,Benny Hansen,"Venstre, Danmarks Liberale Parti",12
+Vesthimmerlands,12,Salling,V_Lars_Andresen,Lars Andresen,"Venstre, Danmarks Liberale Parti",1
+Vesthimmerlands,12,Salling,V_Lene_Mikkelsen,Lene Mikkelsen,"Venstre, Danmarks Liberale Parti",1
+Vesthimmerlands,12,Salling,V_Jakob_Ræbild_Nørgaard,Jakob Ræbild Nørgaard,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,12,Salling,V_Jens_Lauritzen,Jens Lauritzen,"Venstre, Danmarks Liberale Parti",36
+Vesthimmerlands,12,Salling,V_Ole_Wisti_Lassen,Ole Wisti Lassen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,12,Salling,V_Thorkil_Christensen,Thorkil Christensen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,12,Salling,V_Ole_B._Sørensen,Ole B. Sørensen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,12,Salling,V_Mads_Krarup_Nielsen,Mads Krarup Nielsen,"Venstre, Danmarks Liberale Parti",3
+Vesthimmerlands,12,Salling,V_Birgitte_Sørensen,Birgitte Sørensen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,12,Salling,V_Morten_Mejdahl,Morten Mejdahl,"Venstre, Danmarks Liberale Parti",59
+Vesthimmerlands,12,Salling,Z_Listestemmer,Listestemmer,Fremskridtspartiet,1
+Vesthimmerlands,12,Salling,Z_Niels_M._Christensen,Niels M. Christensen,Fremskridtspartiet,3
+Vesthimmerlands,12,Salling,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,5
+Vesthimmerlands,12,Salling,"Ø_Annemette_Bach,_Ranum","Annemette Bach, Ranum",Enhedslisten - De Rød-Grønne,4
+Vesthimmerlands,13,Overlade,A_Listestemmer,Listestemmer,Socialdemokratiet,14
+Vesthimmerlands,13,Overlade,A_Asger_Andersen,Asger Andersen,Socialdemokratiet,9
+Vesthimmerlands,13,Overlade,A_Anders_Kjær_Kristensen,Anders Kjær Kristensen,Socialdemokratiet,3
+Vesthimmerlands,13,Overlade,A_Erik_Stagsted,Erik Stagsted,Socialdemokratiet,5
+Vesthimmerlands,13,Overlade,A_Kenneth_Nyholm,Kenneth Nyholm,Socialdemokratiet,2
+Vesthimmerlands,13,Overlade,A_Mikael_Toft,Mikael Toft,Socialdemokratiet,3
+Vesthimmerlands,13,Overlade,A_Henrik_Harris_Sloth,Henrik Harris Sloth,Socialdemokratiet,12
+Vesthimmerlands,13,Overlade,A_Doris_Lauritzen,Doris Lauritzen,Socialdemokratiet,0
+Vesthimmerlands,13,Overlade,A_Rasmus_Vetter,Rasmus Vetter,Socialdemokratiet,0
+Vesthimmerlands,13,Overlade,A_Andreea_Buza,Andreea Buza,Socialdemokratiet,0
+Vesthimmerlands,13,Overlade,A_Jens_Chr._Pedersen,Jens Chr. Pedersen,Socialdemokratiet,0
+Vesthimmerlands,13,Overlade,A_Morten_Lindblad,Morten Lindblad,Socialdemokratiet,2
+Vesthimmerlands,13,Overlade,A_Kirsten_Marie_Olsen,Kirsten Marie Olsen,Socialdemokratiet,2
+Vesthimmerlands,13,Overlade,B_Listestemmer,Listestemmer,Radikale Venstre,2
+Vesthimmerlands,13,Overlade,"B_Gitte_Lopdrup,_Aars","Gitte Lopdrup, Aars",Radikale Venstre,1
+Vesthimmerlands,13,Overlade,"B_Jannie_Valentin_Dexter_Jakobsen,Fa","Jannie Valentin Dexter Jakobsen,Fa",Radikale Venstre,1
+Vesthimmerlands,13,Overlade,"B_Kristine_Bloch_Steendahl,_Farsø","Kristine Bloch Steendahl, Farsø",Radikale Venstre,2
+Vesthimmerlands,13,Overlade,"B_Karsten_Kjærgaard,_Livø","Karsten Kjærgaard, Livø",Radikale Venstre,0
+Vesthimmerlands,13,Overlade,"B_Søren_Dolmer,_Aars","Søren Dolmer, Aars",Radikale Venstre,0
+Vesthimmerlands,13,Overlade,"B_Hans_Grishauge,_Gatten","Hans Grishauge, Gatten",Radikale Venstre,0
+Vesthimmerlands,13,Overlade,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,4
+Vesthimmerlands,13,Overlade,"C_Signe_Nøhr,_Hornum","Signe Nøhr, Hornum",Det Konservative Folkeparti,20
+Vesthimmerlands,13,Overlade,"C_Svend_Jørgensen,_Aars","Svend Jørgensen, Aars",Det Konservative Folkeparti,0
+Vesthimmerlands,13,Overlade,"C_Henrik_Dalgaard,_Aars","Henrik Dalgaard, Aars",Det Konservative Folkeparti,2
+Vesthimmerlands,13,Overlade,"C_Jeppe_Korreborg_Pedersen,Aalestrup","Jeppe Korreborg Pedersen,Aalestrup",Det Konservative Folkeparti,0
+Vesthimmerlands,13,Overlade,"C_Allan_Ritter,_Løgstør","Allan Ritter, Løgstør",Det Konservative Folkeparti,2
+Vesthimmerlands,13,Overlade,"C_Niels_Krebs,_Farsø","Niels Krebs, Farsø",Det Konservative Folkeparti,1
+Vesthimmerlands,13,Overlade,"C_Per_Nyborg,_Aars","Per Nyborg, Aars",Det Konservative Folkeparti,0
+Vesthimmerlands,13,Overlade,"C_Johan_Gammelholm-Hagstrup,_Ranum","Johan Gammelholm-Hagstrup, Ranum",Det Konservative Folkeparti,0
+Vesthimmerlands,13,Overlade,"C_Steffen_Lønsmann,_Vester_Hornum","Steffen Lønsmann, Vester Hornum",Det Konservative Folkeparti,2
+Vesthimmerlands,13,Overlade,"C_Ulla_Skov,_Aalestrup","Ulla Skov, Aalestrup",Det Konservative Folkeparti,1
+Vesthimmerlands,13,Overlade,"C_Vittus_Bernlow,_Gunderup","Vittus Bernlow, Gunderup",Det Konservative Folkeparti,0
+Vesthimmerlands,13,Overlade,"C_Bettina_Haldrup_Nielsen,_Løgstør","Bettina Haldrup Nielsen, Løgstør",Det Konservative Folkeparti,6
+Vesthimmerlands,13,Overlade,"C_Ulrik_Mark_Jensen,_Gundersted","Ulrik Mark Jensen, Gundersted",Det Konservative Folkeparti,0
+Vesthimmerlands,13,Overlade,"C_Willy_Møller,_Farsø","Willy Møller, Farsø",Det Konservative Folkeparti,0
+Vesthimmerlands,13,Overlade,D_Listestemmer,Listestemmer,Nye Borgerlige,7
+Vesthimmerlands,13,Overlade,"D_Lars_Rem,_Hvalpsund","Lars Rem, Hvalpsund",Nye Borgerlige,5
+Vesthimmerlands,13,Overlade,"D_Stefan_Larsen,_Thorup","Stefan Larsen, Thorup",Nye Borgerlige,1
+Vesthimmerlands,13,Overlade,"D_Frank_Krogstrup,_Vegger","Frank Krogstrup, Vegger",Nye Borgerlige,0
+Vesthimmerlands,13,Overlade,"D_Martin_Riisgaard-Jensen,_Løgstør","Martin Riisgaard-Jensen, Løgstør",Nye Borgerlige,3
+Vesthimmerlands,13,Overlade,"D_René_Nielsen,_Ranum","René Nielsen, Ranum",Nye Borgerlige,0
+Vesthimmerlands,13,Overlade,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,5
+Vesthimmerlands,13,Overlade,"F_Theresa_Berg_Andersen,_Vilsted","Theresa Berg Andersen, Vilsted",SF - Socialistisk Folkeparti,60
+Vesthimmerlands,13,Overlade,"F_Karen_Clausager,_Aars","Karen Clausager, Aars",SF - Socialistisk Folkeparti,1
+Vesthimmerlands,13,Overlade,"F_AnnaGrethe_Sperling,_Farsø","AnnaGrethe Sperling, Farsø",SF - Socialistisk Folkeparti,0
+Vesthimmerlands,13,Overlade,"F_Erik_Bernth_Nielsen,_Ranum","Erik Bernth Nielsen, Ranum",SF - Socialistisk Folkeparti,0
+Vesthimmerlands,13,Overlade,"F_David_Rathkjen,_Gedsted","David Rathkjen, Gedsted",SF - Socialistisk Folkeparti,5
+Vesthimmerlands,13,Overlade,"F_Henning_Josefsen,_Løgstør","Henning Josefsen, Løgstør",SF - Socialistisk Folkeparti,4
+Vesthimmerlands,13,Overlade,"F_Leif_Larsen,_Løgstør","Leif Larsen, Løgstør",SF - Socialistisk Folkeparti,0
+Vesthimmerlands,13,Overlade,"F_Jane_Bonnerup,_Gedsted","Jane Bonnerup, Gedsted",SF - Socialistisk Folkeparti,0
+Vesthimmerlands,13,Overlade,K_Listestemmer,Listestemmer,Kristendemokraterne,1
+Vesthimmerlands,13,Overlade,"K_Anne-Marie_Jørgensen,_Vilsted","Anne-Marie Jørgensen, Vilsted",Kristendemokraterne,1
+Vesthimmerlands,13,Overlade,"K_Baruti_Mkuninwa,_Aars","Baruti Mkuninwa, Aars",Kristendemokraterne,0
+Vesthimmerlands,13,Overlade,"K_Helle_Madsen,_Ranum","Helle Madsen, Ranum",Kristendemokraterne,0
+Vesthimmerlands,13,Overlade,L_Listestemmer,Listestemmer,VesthimmerlandsListen,1
+Vesthimmerlands,13,Overlade,"L_Kirsten_Moesgaard,_Farsø","Kirsten Moesgaard, Farsø",VesthimmerlandsListen,7
+Vesthimmerlands,13,Overlade,"L_Thomas_Jensen,_Aars","Thomas Jensen, Aars",VesthimmerlandsListen,1
+Vesthimmerlands,13,Overlade,"L_Jens_Erik_Laustsen,_Løgstør","Jens Erik Laustsen, Løgstør",VesthimmerlandsListen,1
+Vesthimmerlands,13,Overlade,"L_Søren_Virenfeldt,_Farsø","Søren Virenfeldt, Farsø",VesthimmerlandsListen,1
+Vesthimmerlands,13,Overlade,"L_Sofie_Bærentzen_Krogholm,_Farsø","Sofie Bærentzen Krogholm, Farsø",VesthimmerlandsListen,1
+Vesthimmerlands,13,Overlade,O_Listestemmer,Listestemmer,Dansk Folkeparti,2
+Vesthimmerlands,13,Overlade,O_Liselotte_Lynge_Jensen,Liselotte Lynge Jensen,Dansk Folkeparti,9
+Vesthimmerlands,13,Overlade,O_Helene_Eleonora_Nordman,Helene Eleonora Nordman,Dansk Folkeparti,0
+Vesthimmerlands,13,Overlade,O_Peter_Hougaard,Peter Hougaard,Dansk Folkeparti,1
+Vesthimmerlands,13,Overlade,O_Mette_Møller,Mette Møller,Dansk Folkeparti,1
+Vesthimmerlands,13,Overlade,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",10
+Vesthimmerlands,13,Overlade,V_Per_Bach_Laursen,Per Bach Laursen,"Venstre, Danmarks Liberale Parti",267
+Vesthimmerlands,13,Overlade,V_Katrine_Høfner,Katrine Høfner,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,13,Overlade,V_Inger_Nielsen,Inger Nielsen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,13,Overlade,V_Jimmy_Støttrup_Jensen,Jimmy Støttrup Jensen,"Venstre, Danmarks Liberale Parti",6
+Vesthimmerlands,13,Overlade,V_Kurt_Friis,Kurt Friis,"Venstre, Danmarks Liberale Parti",2
+Vesthimmerlands,13,Overlade,V_Per_Bisgaard,Per Bisgaard,"Venstre, Danmarks Liberale Parti",1
+Vesthimmerlands,13,Overlade,V_Jakob_Vium_Dyrman,Jakob Vium Dyrman,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,13,Overlade,V_Benny_Hansen,Benny Hansen,"Venstre, Danmarks Liberale Parti",3
+Vesthimmerlands,13,Overlade,V_Lars_Andresen,Lars Andresen,"Venstre, Danmarks Liberale Parti",1
+Vesthimmerlands,13,Overlade,V_Lene_Mikkelsen,Lene Mikkelsen,"Venstre, Danmarks Liberale Parti",1
+Vesthimmerlands,13,Overlade,V_Jakob_Ræbild_Nørgaard,Jakob Ræbild Nørgaard,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,13,Overlade,V_Jens_Lauritzen,Jens Lauritzen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,13,Overlade,V_Ole_Wisti_Lassen,Ole Wisti Lassen,"Venstre, Danmarks Liberale Parti",3
+Vesthimmerlands,13,Overlade,V_Thorkil_Christensen,Thorkil Christensen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,13,Overlade,V_Ole_B._Sørensen,Ole B. Sørensen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,13,Overlade,V_Mads_Krarup_Nielsen,Mads Krarup Nielsen,"Venstre, Danmarks Liberale Parti",2
+Vesthimmerlands,13,Overlade,V_Birgitte_Sørensen,Birgitte Sørensen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,13,Overlade,V_Morten_Mejdahl,Morten Mejdahl,"Venstre, Danmarks Liberale Parti",4
+Vesthimmerlands,13,Overlade,Z_Listestemmer,Listestemmer,Fremskridtspartiet,2
+Vesthimmerlands,13,Overlade,Z_Niels_M._Christensen,Niels M. Christensen,Fremskridtspartiet,2
+Vesthimmerlands,13,Overlade,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,0
+Vesthimmerlands,13,Overlade,"Ø_Annemette_Bach,_Ranum","Annemette Bach, Ranum",Enhedslisten - De Rød-Grønne,2
+Vesthimmerlands,14,Skivum-Giver,A_Listestemmer,Listestemmer,Socialdemokratiet,13
+Vesthimmerlands,14,Skivum-Giver,A_Asger_Andersen,Asger Andersen,Socialdemokratiet,130
+Vesthimmerlands,14,Skivum-Giver,A_Anders_Kjær_Kristensen,Anders Kjær Kristensen,Socialdemokratiet,0
+Vesthimmerlands,14,Skivum-Giver,A_Erik_Stagsted,Erik Stagsted,Socialdemokratiet,0
+Vesthimmerlands,14,Skivum-Giver,A_Kenneth_Nyholm,Kenneth Nyholm,Socialdemokratiet,2
+Vesthimmerlands,14,Skivum-Giver,A_Mikael_Toft,Mikael Toft,Socialdemokratiet,2
+Vesthimmerlands,14,Skivum-Giver,A_Henrik_Harris_Sloth,Henrik Harris Sloth,Socialdemokratiet,0
+Vesthimmerlands,14,Skivum-Giver,A_Doris_Lauritzen,Doris Lauritzen,Socialdemokratiet,2
+Vesthimmerlands,14,Skivum-Giver,A_Rasmus_Vetter,Rasmus Vetter,Socialdemokratiet,1
+Vesthimmerlands,14,Skivum-Giver,A_Andreea_Buza,Andreea Buza,Socialdemokratiet,1
+Vesthimmerlands,14,Skivum-Giver,A_Jens_Chr._Pedersen,Jens Chr. Pedersen,Socialdemokratiet,2
+Vesthimmerlands,14,Skivum-Giver,A_Morten_Lindblad,Morten Lindblad,Socialdemokratiet,4
+Vesthimmerlands,14,Skivum-Giver,A_Kirsten_Marie_Olsen,Kirsten Marie Olsen,Socialdemokratiet,1
+Vesthimmerlands,14,Skivum-Giver,B_Listestemmer,Listestemmer,Radikale Venstre,4
+Vesthimmerlands,14,Skivum-Giver,"B_Gitte_Lopdrup,_Aars","Gitte Lopdrup, Aars",Radikale Venstre,3
+Vesthimmerlands,14,Skivum-Giver,"B_Jannie_Valentin_Dexter_Jakobsen,Fa","Jannie Valentin Dexter Jakobsen,Fa",Radikale Venstre,0
+Vesthimmerlands,14,Skivum-Giver,"B_Kristine_Bloch_Steendahl,_Farsø","Kristine Bloch Steendahl, Farsø",Radikale Venstre,2
+Vesthimmerlands,14,Skivum-Giver,"B_Karsten_Kjærgaard,_Livø","Karsten Kjærgaard, Livø",Radikale Venstre,0
+Vesthimmerlands,14,Skivum-Giver,"B_Søren_Dolmer,_Aars","Søren Dolmer, Aars",Radikale Venstre,1
+Vesthimmerlands,14,Skivum-Giver,"B_Hans_Grishauge,_Gatten","Hans Grishauge, Gatten",Radikale Venstre,0
+Vesthimmerlands,14,Skivum-Giver,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,8
+Vesthimmerlands,14,Skivum-Giver,"C_Signe_Nøhr,_Hornum","Signe Nøhr, Hornum",Det Konservative Folkeparti,45
+Vesthimmerlands,14,Skivum-Giver,"C_Svend_Jørgensen,_Aars","Svend Jørgensen, Aars",Det Konservative Folkeparti,4
+Vesthimmerlands,14,Skivum-Giver,"C_Henrik_Dalgaard,_Aars","Henrik Dalgaard, Aars",Det Konservative Folkeparti,7
+Vesthimmerlands,14,Skivum-Giver,"C_Jeppe_Korreborg_Pedersen,Aalestrup","Jeppe Korreborg Pedersen,Aalestrup",Det Konservative Folkeparti,0
+Vesthimmerlands,14,Skivum-Giver,"C_Allan_Ritter,_Løgstør","Allan Ritter, Løgstør",Det Konservative Folkeparti,0
+Vesthimmerlands,14,Skivum-Giver,"C_Niels_Krebs,_Farsø","Niels Krebs, Farsø",Det Konservative Folkeparti,1
+Vesthimmerlands,14,Skivum-Giver,"C_Per_Nyborg,_Aars","Per Nyborg, Aars",Det Konservative Folkeparti,6
+Vesthimmerlands,14,Skivum-Giver,"C_Johan_Gammelholm-Hagstrup,_Ranum","Johan Gammelholm-Hagstrup, Ranum",Det Konservative Folkeparti,0
+Vesthimmerlands,14,Skivum-Giver,"C_Steffen_Lønsmann,_Vester_Hornum","Steffen Lønsmann, Vester Hornum",Det Konservative Folkeparti,0
+Vesthimmerlands,14,Skivum-Giver,"C_Ulla_Skov,_Aalestrup","Ulla Skov, Aalestrup",Det Konservative Folkeparti,0
+Vesthimmerlands,14,Skivum-Giver,"C_Vittus_Bernlow,_Gunderup","Vittus Bernlow, Gunderup",Det Konservative Folkeparti,0
+Vesthimmerlands,14,Skivum-Giver,"C_Bettina_Haldrup_Nielsen,_Løgstør","Bettina Haldrup Nielsen, Løgstør",Det Konservative Folkeparti,1
+Vesthimmerlands,14,Skivum-Giver,"C_Ulrik_Mark_Jensen,_Gundersted","Ulrik Mark Jensen, Gundersted",Det Konservative Folkeparti,2
+Vesthimmerlands,14,Skivum-Giver,"C_Willy_Møller,_Farsø","Willy Møller, Farsø",Det Konservative Folkeparti,2
+Vesthimmerlands,14,Skivum-Giver,D_Listestemmer,Listestemmer,Nye Borgerlige,9
+Vesthimmerlands,14,Skivum-Giver,"D_Lars_Rem,_Hvalpsund","Lars Rem, Hvalpsund",Nye Borgerlige,5
+Vesthimmerlands,14,Skivum-Giver,"D_Stefan_Larsen,_Thorup","Stefan Larsen, Thorup",Nye Borgerlige,3
+Vesthimmerlands,14,Skivum-Giver,"D_Frank_Krogstrup,_Vegger","Frank Krogstrup, Vegger",Nye Borgerlige,4
+Vesthimmerlands,14,Skivum-Giver,"D_Martin_Riisgaard-Jensen,_Løgstør","Martin Riisgaard-Jensen, Løgstør",Nye Borgerlige,2
+Vesthimmerlands,14,Skivum-Giver,"D_René_Nielsen,_Ranum","René Nielsen, Ranum",Nye Borgerlige,1
+Vesthimmerlands,14,Skivum-Giver,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,9
+Vesthimmerlands,14,Skivum-Giver,"F_Theresa_Berg_Andersen,_Vilsted","Theresa Berg Andersen, Vilsted",SF - Socialistisk Folkeparti,22
+Vesthimmerlands,14,Skivum-Giver,"F_Karen_Clausager,_Aars","Karen Clausager, Aars",SF - Socialistisk Folkeparti,2
+Vesthimmerlands,14,Skivum-Giver,"F_AnnaGrethe_Sperling,_Farsø","AnnaGrethe Sperling, Farsø",SF - Socialistisk Folkeparti,1
+Vesthimmerlands,14,Skivum-Giver,"F_Erik_Bernth_Nielsen,_Ranum","Erik Bernth Nielsen, Ranum",SF - Socialistisk Folkeparti,0
+Vesthimmerlands,14,Skivum-Giver,"F_David_Rathkjen,_Gedsted","David Rathkjen, Gedsted",SF - Socialistisk Folkeparti,1
+Vesthimmerlands,14,Skivum-Giver,"F_Henning_Josefsen,_Løgstør","Henning Josefsen, Løgstør",SF - Socialistisk Folkeparti,0
+Vesthimmerlands,14,Skivum-Giver,"F_Leif_Larsen,_Løgstør","Leif Larsen, Løgstør",SF - Socialistisk Folkeparti,0
+Vesthimmerlands,14,Skivum-Giver,"F_Jane_Bonnerup,_Gedsted","Jane Bonnerup, Gedsted",SF - Socialistisk Folkeparti,2
+Vesthimmerlands,14,Skivum-Giver,K_Listestemmer,Listestemmer,Kristendemokraterne,1
+Vesthimmerlands,14,Skivum-Giver,"K_Anne-Marie_Jørgensen,_Vilsted","Anne-Marie Jørgensen, Vilsted",Kristendemokraterne,4
+Vesthimmerlands,14,Skivum-Giver,"K_Baruti_Mkuninwa,_Aars","Baruti Mkuninwa, Aars",Kristendemokraterne,1
+Vesthimmerlands,14,Skivum-Giver,"K_Helle_Madsen,_Ranum","Helle Madsen, Ranum",Kristendemokraterne,0
+Vesthimmerlands,14,Skivum-Giver,L_Listestemmer,Listestemmer,VesthimmerlandsListen,1
+Vesthimmerlands,14,Skivum-Giver,"L_Kirsten_Moesgaard,_Farsø","Kirsten Moesgaard, Farsø",VesthimmerlandsListen,1
+Vesthimmerlands,14,Skivum-Giver,"L_Thomas_Jensen,_Aars","Thomas Jensen, Aars",VesthimmerlandsListen,3
+Vesthimmerlands,14,Skivum-Giver,"L_Jens_Erik_Laustsen,_Løgstør","Jens Erik Laustsen, Løgstør",VesthimmerlandsListen,0
+Vesthimmerlands,14,Skivum-Giver,"L_Søren_Virenfeldt,_Farsø","Søren Virenfeldt, Farsø",VesthimmerlandsListen,0
+Vesthimmerlands,14,Skivum-Giver,"L_Sofie_Bærentzen_Krogholm,_Farsø","Sofie Bærentzen Krogholm, Farsø",VesthimmerlandsListen,0
+Vesthimmerlands,14,Skivum-Giver,O_Listestemmer,Listestemmer,Dansk Folkeparti,5
+Vesthimmerlands,14,Skivum-Giver,O_Liselotte_Lynge_Jensen,Liselotte Lynge Jensen,Dansk Folkeparti,4
+Vesthimmerlands,14,Skivum-Giver,O_Helene_Eleonora_Nordman,Helene Eleonora Nordman,Dansk Folkeparti,0
+Vesthimmerlands,14,Skivum-Giver,O_Peter_Hougaard,Peter Hougaard,Dansk Folkeparti,0
+Vesthimmerlands,14,Skivum-Giver,O_Mette_Møller,Mette Møller,Dansk Folkeparti,1
+Vesthimmerlands,14,Skivum-Giver,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",8
+Vesthimmerlands,14,Skivum-Giver,V_Per_Bach_Laursen,Per Bach Laursen,"Venstre, Danmarks Liberale Parti",66
+Vesthimmerlands,14,Skivum-Giver,V_Katrine_Høfner,Katrine Høfner,"Venstre, Danmarks Liberale Parti",4
+Vesthimmerlands,14,Skivum-Giver,V_Inger_Nielsen,Inger Nielsen,"Venstre, Danmarks Liberale Parti",40
+Vesthimmerlands,14,Skivum-Giver,V_Jimmy_Støttrup_Jensen,Jimmy Støttrup Jensen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,14,Skivum-Giver,V_Kurt_Friis,Kurt Friis,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,14,Skivum-Giver,V_Per_Bisgaard,Per Bisgaard,"Venstre, Danmarks Liberale Parti",2
+Vesthimmerlands,14,Skivum-Giver,V_Jakob_Vium_Dyrman,Jakob Vium Dyrman,"Venstre, Danmarks Liberale Parti",2
+Vesthimmerlands,14,Skivum-Giver,V_Benny_Hansen,Benny Hansen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,14,Skivum-Giver,V_Lars_Andresen,Lars Andresen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,14,Skivum-Giver,V_Lene_Mikkelsen,Lene Mikkelsen,"Venstre, Danmarks Liberale Parti",2
+Vesthimmerlands,14,Skivum-Giver,V_Jakob_Ræbild_Nørgaard,Jakob Ræbild Nørgaard,"Venstre, Danmarks Liberale Parti",2
+Vesthimmerlands,14,Skivum-Giver,V_Jens_Lauritzen,Jens Lauritzen,"Venstre, Danmarks Liberale Parti",1
+Vesthimmerlands,14,Skivum-Giver,V_Ole_Wisti_Lassen,Ole Wisti Lassen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,14,Skivum-Giver,V_Thorkil_Christensen,Thorkil Christensen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,14,Skivum-Giver,V_Ole_B._Sørensen,Ole B. Sørensen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,14,Skivum-Giver,V_Mads_Krarup_Nielsen,Mads Krarup Nielsen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,14,Skivum-Giver,V_Birgitte_Sørensen,Birgitte Sørensen,"Venstre, Danmarks Liberale Parti",0
+Vesthimmerlands,14,Skivum-Giver,V_Morten_Mejdahl,Morten Mejdahl,"Venstre, Danmarks Liberale Parti",1
+Vesthimmerlands,14,Skivum-Giver,Z_Listestemmer,Listestemmer,Fremskridtspartiet,0
+Vesthimmerlands,14,Skivum-Giver,Z_Niels_M._Christensen,Niels M. Christensen,Fremskridtspartiet,3
+Vesthimmerlands,14,Skivum-Giver,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,1
+Vesthimmerlands,14,Skivum-Giver,"Ø_Annemette_Bach,_Ranum","Annemette Bach, Ranum",Enhedslisten - De Rød-Grønne,4

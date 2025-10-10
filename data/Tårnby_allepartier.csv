@@ -1,0 +1,565 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Tårnby,1,Vestamager,A_Listestemmer,Listestemmer,Socialdemokratiet,303
+Tårnby,1,Vestamager,A_Allan_Andersen,Allan Andersen,Socialdemokratiet,652
+Tårnby,1,Vestamager,A_Lars_Hein,Lars Hein,Socialdemokratiet,20
+Tårnby,1,Vestamager,A_Einer_Lyduch,Einer Lyduch,Socialdemokratiet,11
+Tårnby,1,Vestamager,A_Mads_Vinterby,Mads Vinterby,Socialdemokratiet,33
+Tårnby,1,Vestamager,A_Klaus_Bach,Klaus Bach,Socialdemokratiet,60
+Tårnby,1,Vestamager,A_Vibeke_Rasmussen,Vibeke Rasmussen,Socialdemokratiet,29
+Tårnby,1,Vestamager,A_Annette_Betak,Annette Betak,Socialdemokratiet,10
+Tårnby,1,Vestamager,A_Peter_Damgaard,Peter Damgaard,Socialdemokratiet,4
+Tårnby,1,Vestamager,A_Simon_Bauer,Simon Bauer,Socialdemokratiet,7
+Tårnby,1,Vestamager,A_Heidi_Berthelsen,Heidi Berthelsen,Socialdemokratiet,7
+Tårnby,1,Vestamager,A_Allan_Ivan_Kristensen,Allan Ivan Kristensen,Socialdemokratiet,1
+Tårnby,1,Vestamager,A_Jette_Bjørnelund,Jette Bjørnelund,Socialdemokratiet,6
+Tårnby,1,Vestamager,A_Thomas_Holbech,Thomas Holbech,Socialdemokratiet,2
+Tårnby,1,Vestamager,A_Peter_Hoffmann_Nielsen,Peter Hoffmann Nielsen,Socialdemokratiet,8
+Tårnby,1,Vestamager,A_Narine_Pedersen,Narine Pedersen,Socialdemokratiet,3
+Tårnby,1,Vestamager,A_Leif_Haak,Leif Haak,Socialdemokratiet,14
+Tårnby,1,Vestamager,A_Marianne_Kold,Marianne Kold,Socialdemokratiet,5
+Tårnby,1,Vestamager,A_Thomas_Arentoft_Hinsby,Thomas Arentoft Hinsby,Socialdemokratiet,26
+Tårnby,1,Vestamager,A_Georg_Metzon,Georg Metzon,Socialdemokratiet,4
+Tårnby,1,Vestamager,B_Listestemmer,Listestemmer,Radikale Venstre,37
+Tårnby,1,Vestamager,B_Ingelise_Andersen,Ingelise Andersen,Radikale Venstre,20
+Tårnby,1,Vestamager,B_Bjørn_Bjerrehøj,Bjørn Bjerrehøj,Radikale Venstre,10
+Tårnby,1,Vestamager,B_Thomas_Simone_Maare,Thomas Simone Maare,Radikale Venstre,16
+Tårnby,1,Vestamager,B_Sebastian_Winslow,Sebastian Winslow,Radikale Venstre,1
+Tårnby,1,Vestamager,B_Morten_Jensen,Morten Jensen,Radikale Venstre,3
+Tårnby,1,Vestamager,B_Nikolaj_Kofod_Rasmussen,Nikolaj Kofod Rasmussen,Radikale Venstre,3
+Tårnby,1,Vestamager,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,155
+Tårnby,1,Vestamager,C_Carsten_Fuhr,Carsten Fuhr,Det Konservative Folkeparti,62
+Tårnby,1,Vestamager,C_Patrick_Lehto,Patrick Lehto,Det Konservative Folkeparti,38
+Tårnby,1,Vestamager,C_Monika_Karpinska_Dollerup,Monika Karpinska Dollerup,Det Konservative Folkeparti,40
+Tårnby,1,Vestamager,C_Peter_Edward_Aubert-Hentze,Peter Edward Aubert-Hentze,Det Konservative Folkeparti,13
+Tårnby,1,Vestamager,C_Peter_Holm,Peter Holm,Det Konservative Folkeparti,9
+Tårnby,1,Vestamager,C_Peder_Langvad,Peder Langvad,Det Konservative Folkeparti,22
+Tårnby,1,Vestamager,C_Kurt_Wriedt,Kurt Wriedt,Det Konservative Folkeparti,1
+Tårnby,1,Vestamager,C_Poul-Henning_Gottorp,Poul-Henning Gottorp,Det Konservative Folkeparti,11
+Tårnby,1,Vestamager,C_Claus_Skaalum_Lyder,Claus Skaalum Lyder,Det Konservative Folkeparti,11
+Tårnby,1,Vestamager,D_Listestemmer,Listestemmer,Nye Borgerlige,61
+Tårnby,1,Vestamager,D_Benny_Bindslev,Benny Bindslev,Nye Borgerlige,58
+Tårnby,1,Vestamager,D_Erik_Ebert,Erik Ebert,Nye Borgerlige,4
+Tårnby,1,Vestamager,D_Alexander_Kvist_Hansen,Alexander Kvist Hansen,Nye Borgerlige,21
+Tårnby,1,Vestamager,D_Preben_Bjønager_Nielsen,Preben Bjønager Nielsen,Nye Borgerlige,9
+Tårnby,1,Vestamager,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,66
+Tårnby,1,Vestamager,F_Winnie_Sørensen,Winnie Sørensen,SF - Socialistisk Folkeparti,43
+Tårnby,1,Vestamager,F_Jan_Bakmand_Nørgaard,Jan Bakmand Nørgaard,SF - Socialistisk Folkeparti,36
+Tårnby,1,Vestamager,F_Phillip_Bergenhammer_Østergaard,Phillip Bergenhammer Østergaard,SF - Socialistisk Folkeparti,20
+Tårnby,1,Vestamager,F_Mikkel_Freiber,Mikkel Freiber,SF - Socialistisk Folkeparti,8
+Tårnby,1,Vestamager,I_Listestemmer,Listestemmer,Liberal Alliance,14
+Tårnby,1,Vestamager,"I_Charlotte_Nellemann,_Kastrup","Charlotte Nellemann, Kastrup",Liberal Alliance,9
+Tårnby,1,Vestamager,"I_Eddie_Blix,_Tårnby","Eddie Blix, Tårnby",Liberal Alliance,4
+Tårnby,1,Vestamager,O_Listestemmer,Listestemmer,Dansk Folkeparti,62
+Tårnby,1,Vestamager,O_Paw_Karslund,Paw Karslund,Dansk Folkeparti,205
+Tårnby,1,Vestamager,O_Marlene_Nyberg,Marlene Nyberg,Dansk Folkeparti,24
+Tårnby,1,Vestamager,O_Brian_Borglund_Bruun,Brian Borglund Bruun,Dansk Folkeparti,30
+Tårnby,1,Vestamager,O_Freja_Karslund,Freja Karslund,Dansk Folkeparti,11
+Tårnby,1,Vestamager,O_Ejvind_Mehlsen,Ejvind Mehlsen,Dansk Folkeparti,1
+Tårnby,1,Vestamager,T_Listestemmer,Listestemmer,Tårnby Listen,48
+Tårnby,1,Vestamager,T_Liv_Gam,Liv Gam,Tårnby Listen,50
+Tårnby,1,Vestamager,T_Maria_Cederstrøm_Jensen,Maria Cederstrøm Jensen,Tårnby Listen,14
+Tårnby,1,Vestamager,T_Maja_Christensen,Maja Christensen,Tårnby Listen,4
+Tårnby,1,Vestamager,T_Thea_Veidiksen,Thea Veidiksen,Tårnby Listen,6
+Tårnby,1,Vestamager,T_Kim_Soelberg,Kim Soelberg,Tårnby Listen,11
+Tårnby,1,Vestamager,T_Mette_Søe,Mette Søe,Tårnby Listen,21
+Tårnby,1,Vestamager,T_Michael_O._Jørgensen,Michael O. Jørgensen,Tårnby Listen,2
+Tårnby,1,Vestamager,T_Stella_Gissel,Stella Gissel,Tårnby Listen,15
+Tårnby,1,Vestamager,T_Michael_C._Maigaard,Michael C. Maigaard,Tårnby Listen,2
+Tårnby,1,Vestamager,T_Anne_Lübcke_Berthou,Anne Lübcke Berthou,Tårnby Listen,0
+Tårnby,1,Vestamager,T_Kim_Fredsbo,Kim Fredsbo,Tårnby Listen,1
+Tårnby,1,Vestamager,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",132
+Tårnby,1,Vestamager,V_Dennis_W._Clausen,Dennis W. Clausen,"Venstre, Danmarks Liberale Parti",69
+Tårnby,1,Vestamager,V_Mia_Barklund,Mia Barklund,"Venstre, Danmarks Liberale Parti",83
+Tårnby,1,Vestamager,V_Githa_Westen,Githa Westen,"Venstre, Danmarks Liberale Parti",23
+Tårnby,1,Vestamager,V_Ali_Qais,Ali Qais,"Venstre, Danmarks Liberale Parti",81
+Tårnby,1,Vestamager,V_Thomas_Krag,Thomas Krag,"Venstre, Danmarks Liberale Parti",8
+Tårnby,1,Vestamager,V_Sarah_Crone,Sarah Crone,"Venstre, Danmarks Liberale Parti",42
+Tårnby,1,Vestamager,V_Jens_Graff,Jens Graff,"Venstre, Danmarks Liberale Parti",4
+Tårnby,1,Vestamager,V_Linda_Pickersgill,Linda Pickersgill,"Venstre, Danmarks Liberale Parti",5
+Tårnby,1,Vestamager,V_Stefan_Cantagallo,Stefan Cantagallo,"Venstre, Danmarks Liberale Parti",2
+Tårnby,1,Vestamager,V_Per_Sørensen,Per Sørensen,"Venstre, Danmarks Liberale Parti",0
+Tårnby,1,Vestamager,V_Mie_Krag,Mie Krag,"Venstre, Danmarks Liberale Parti",7
+Tårnby,1,Vestamager,V_Mette_Byrdal,Mette Byrdal,"Venstre, Danmarks Liberale Parti",8
+Tårnby,1,Vestamager,V_Birger_Thomsen,Birger Thomsen,"Venstre, Danmarks Liberale Parti",1
+Tårnby,1,Vestamager,V_Brian_Ekstrøm,Brian Ekstrøm,"Venstre, Danmarks Liberale Parti",0
+Tårnby,1,Vestamager,V_Pernille_Meinertz,Pernille Meinertz,"Venstre, Danmarks Liberale Parti",6
+Tårnby,1,Vestamager,V_Carsten_Jørgensen,Carsten Jørgensen,"Venstre, Danmarks Liberale Parti",7
+Tårnby,1,Vestamager,V_Frants_Nielsen,Frants Nielsen,"Venstre, Danmarks Liberale Parti",1
+Tårnby,1,Vestamager,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,78
+Tårnby,1,Vestamager,Ø_Dorthe_Hecht,Dorthe Hecht,Enhedslisten - De Rød-Grønne,17
+Tårnby,1,Vestamager,Ø_Simon_Glaser_Abramowitz,Simon Glaser Abramowitz,Enhedslisten - De Rød-Grønne,14
+Tårnby,1,Vestamager,Ø_Filip_Breson,Filip Breson,Enhedslisten - De Rød-Grønne,14
+Tårnby,1,Vestamager,Ø_Ole_Juhl,Ole Juhl,Enhedslisten - De Rød-Grønne,21
+Tårnby,1,Vestamager,Ø_Jytte_Rasmussen,Jytte Rasmussen,Enhedslisten - De Rød-Grønne,2
+Tårnby,1,Vestamager,Ø_Jan_Hendriksen,Jan Hendriksen,Enhedslisten - De Rød-Grønne,6
+Tårnby,1,Vestamager,Ø_Faiza_Karim,Faiza Karim,Enhedslisten - De Rød-Grønne,8
+Tårnby,2,Pilegården,A_Listestemmer,Listestemmer,Socialdemokratiet,399
+Tårnby,2,Pilegården,A_Allan_Andersen,Allan Andersen,Socialdemokratiet,647
+Tårnby,2,Pilegården,A_Lars_Hein,Lars Hein,Socialdemokratiet,28
+Tårnby,2,Pilegården,A_Einer_Lyduch,Einer Lyduch,Socialdemokratiet,12
+Tårnby,2,Pilegården,A_Mads_Vinterby,Mads Vinterby,Socialdemokratiet,21
+Tårnby,2,Pilegården,A_Klaus_Bach,Klaus Bach,Socialdemokratiet,22
+Tårnby,2,Pilegården,A_Vibeke_Rasmussen,Vibeke Rasmussen,Socialdemokratiet,44
+Tårnby,2,Pilegården,A_Annette_Betak,Annette Betak,Socialdemokratiet,15
+Tårnby,2,Pilegården,A_Peter_Damgaard,Peter Damgaard,Socialdemokratiet,7
+Tårnby,2,Pilegården,A_Simon_Bauer,Simon Bauer,Socialdemokratiet,9
+Tårnby,2,Pilegården,A_Heidi_Berthelsen,Heidi Berthelsen,Socialdemokratiet,19
+Tårnby,2,Pilegården,A_Allan_Ivan_Kristensen,Allan Ivan Kristensen,Socialdemokratiet,1
+Tårnby,2,Pilegården,A_Jette_Bjørnelund,Jette Bjørnelund,Socialdemokratiet,4
+Tårnby,2,Pilegården,A_Thomas_Holbech,Thomas Holbech,Socialdemokratiet,4
+Tårnby,2,Pilegården,A_Peter_Hoffmann_Nielsen,Peter Hoffmann Nielsen,Socialdemokratiet,21
+Tårnby,2,Pilegården,A_Narine_Pedersen,Narine Pedersen,Socialdemokratiet,4
+Tårnby,2,Pilegården,A_Leif_Haak,Leif Haak,Socialdemokratiet,5
+Tårnby,2,Pilegården,A_Marianne_Kold,Marianne Kold,Socialdemokratiet,20
+Tårnby,2,Pilegården,A_Thomas_Arentoft_Hinsby,Thomas Arentoft Hinsby,Socialdemokratiet,3
+Tårnby,2,Pilegården,A_Georg_Metzon,Georg Metzon,Socialdemokratiet,17
+Tårnby,2,Pilegården,B_Listestemmer,Listestemmer,Radikale Venstre,65
+Tårnby,2,Pilegården,B_Ingelise_Andersen,Ingelise Andersen,Radikale Venstre,45
+Tårnby,2,Pilegården,B_Bjørn_Bjerrehøj,Bjørn Bjerrehøj,Radikale Venstre,12
+Tårnby,2,Pilegården,B_Thomas_Simone_Maare,Thomas Simone Maare,Radikale Venstre,19
+Tårnby,2,Pilegården,B_Sebastian_Winslow,Sebastian Winslow,Radikale Venstre,3
+Tårnby,2,Pilegården,B_Morten_Jensen,Morten Jensen,Radikale Venstre,0
+Tårnby,2,Pilegården,B_Nikolaj_Kofod_Rasmussen,Nikolaj Kofod Rasmussen,Radikale Venstre,4
+Tårnby,2,Pilegården,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,174
+Tårnby,2,Pilegården,C_Carsten_Fuhr,Carsten Fuhr,Det Konservative Folkeparti,98
+Tårnby,2,Pilegården,C_Patrick_Lehto,Patrick Lehto,Det Konservative Folkeparti,64
+Tårnby,2,Pilegården,C_Monika_Karpinska_Dollerup,Monika Karpinska Dollerup,Det Konservative Folkeparti,59
+Tårnby,2,Pilegården,C_Peter_Edward_Aubert-Hentze,Peter Edward Aubert-Hentze,Det Konservative Folkeparti,7
+Tårnby,2,Pilegården,C_Peter_Holm,Peter Holm,Det Konservative Folkeparti,5
+Tårnby,2,Pilegården,C_Peder_Langvad,Peder Langvad,Det Konservative Folkeparti,7
+Tårnby,2,Pilegården,C_Kurt_Wriedt,Kurt Wriedt,Det Konservative Folkeparti,4
+Tårnby,2,Pilegården,C_Poul-Henning_Gottorp,Poul-Henning Gottorp,Det Konservative Folkeparti,9
+Tårnby,2,Pilegården,C_Claus_Skaalum_Lyder,Claus Skaalum Lyder,Det Konservative Folkeparti,6
+Tårnby,2,Pilegården,D_Listestemmer,Listestemmer,Nye Borgerlige,72
+Tårnby,2,Pilegården,D_Benny_Bindslev,Benny Bindslev,Nye Borgerlige,49
+Tårnby,2,Pilegården,D_Erik_Ebert,Erik Ebert,Nye Borgerlige,2
+Tårnby,2,Pilegården,D_Alexander_Kvist_Hansen,Alexander Kvist Hansen,Nye Borgerlige,14
+Tårnby,2,Pilegården,D_Preben_Bjønager_Nielsen,Preben Bjønager Nielsen,Nye Borgerlige,10
+Tårnby,2,Pilegården,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,55
+Tårnby,2,Pilegården,F_Winnie_Sørensen,Winnie Sørensen,SF - Socialistisk Folkeparti,75
+Tårnby,2,Pilegården,F_Jan_Bakmand_Nørgaard,Jan Bakmand Nørgaard,SF - Socialistisk Folkeparti,45
+Tårnby,2,Pilegården,F_Phillip_Bergenhammer_Østergaard,Phillip Bergenhammer Østergaard,SF - Socialistisk Folkeparti,7
+Tårnby,2,Pilegården,F_Mikkel_Freiber,Mikkel Freiber,SF - Socialistisk Folkeparti,6
+Tårnby,2,Pilegården,I_Listestemmer,Listestemmer,Liberal Alliance,10
+Tårnby,2,Pilegården,"I_Charlotte_Nellemann,_Kastrup","Charlotte Nellemann, Kastrup",Liberal Alliance,20
+Tårnby,2,Pilegården,"I_Eddie_Blix,_Tårnby","Eddie Blix, Tårnby",Liberal Alliance,6
+Tårnby,2,Pilegården,O_Listestemmer,Listestemmer,Dansk Folkeparti,57
+Tårnby,2,Pilegården,O_Paw_Karslund,Paw Karslund,Dansk Folkeparti,121
+Tårnby,2,Pilegården,O_Marlene_Nyberg,Marlene Nyberg,Dansk Folkeparti,32
+Tårnby,2,Pilegården,O_Brian_Borglund_Bruun,Brian Borglund Bruun,Dansk Folkeparti,8
+Tårnby,2,Pilegården,O_Freja_Karslund,Freja Karslund,Dansk Folkeparti,2
+Tårnby,2,Pilegården,O_Ejvind_Mehlsen,Ejvind Mehlsen,Dansk Folkeparti,5
+Tårnby,2,Pilegården,T_Listestemmer,Listestemmer,Tårnby Listen,61
+Tårnby,2,Pilegården,T_Liv_Gam,Liv Gam,Tårnby Listen,64
+Tårnby,2,Pilegården,T_Maria_Cederstrøm_Jensen,Maria Cederstrøm Jensen,Tårnby Listen,17
+Tårnby,2,Pilegården,T_Maja_Christensen,Maja Christensen,Tårnby Listen,10
+Tårnby,2,Pilegården,T_Thea_Veidiksen,Thea Veidiksen,Tårnby Listen,9
+Tårnby,2,Pilegården,T_Kim_Soelberg,Kim Soelberg,Tårnby Listen,6
+Tårnby,2,Pilegården,T_Mette_Søe,Mette Søe,Tårnby Listen,31
+Tårnby,2,Pilegården,T_Michael_O._Jørgensen,Michael O. Jørgensen,Tårnby Listen,2
+Tårnby,2,Pilegården,T_Stella_Gissel,Stella Gissel,Tårnby Listen,11
+Tårnby,2,Pilegården,T_Michael_C._Maigaard,Michael C. Maigaard,Tårnby Listen,1
+Tårnby,2,Pilegården,T_Anne_Lübcke_Berthou,Anne Lübcke Berthou,Tårnby Listen,2
+Tårnby,2,Pilegården,T_Kim_Fredsbo,Kim Fredsbo,Tårnby Listen,2
+Tårnby,2,Pilegården,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",152
+Tårnby,2,Pilegården,V_Dennis_W._Clausen,Dennis W. Clausen,"Venstre, Danmarks Liberale Parti",71
+Tårnby,2,Pilegården,V_Mia_Barklund,Mia Barklund,"Venstre, Danmarks Liberale Parti",142
+Tårnby,2,Pilegården,V_Githa_Westen,Githa Westen,"Venstre, Danmarks Liberale Parti",43
+Tårnby,2,Pilegården,V_Ali_Qais,Ali Qais,"Venstre, Danmarks Liberale Parti",193
+Tårnby,2,Pilegården,V_Thomas_Krag,Thomas Krag,"Venstre, Danmarks Liberale Parti",15
+Tårnby,2,Pilegården,V_Sarah_Crone,Sarah Crone,"Venstre, Danmarks Liberale Parti",68
+Tårnby,2,Pilegården,V_Jens_Graff,Jens Graff,"Venstre, Danmarks Liberale Parti",22
+Tårnby,2,Pilegården,V_Linda_Pickersgill,Linda Pickersgill,"Venstre, Danmarks Liberale Parti",6
+Tårnby,2,Pilegården,V_Stefan_Cantagallo,Stefan Cantagallo,"Venstre, Danmarks Liberale Parti",5
+Tårnby,2,Pilegården,V_Per_Sørensen,Per Sørensen,"Venstre, Danmarks Liberale Parti",1
+Tårnby,2,Pilegården,V_Mie_Krag,Mie Krag,"Venstre, Danmarks Liberale Parti",13
+Tårnby,2,Pilegården,V_Mette_Byrdal,Mette Byrdal,"Venstre, Danmarks Liberale Parti",1
+Tårnby,2,Pilegården,V_Birger_Thomsen,Birger Thomsen,"Venstre, Danmarks Liberale Parti",0
+Tårnby,2,Pilegården,V_Brian_Ekstrøm,Brian Ekstrøm,"Venstre, Danmarks Liberale Parti",2
+Tårnby,2,Pilegården,V_Pernille_Meinertz,Pernille Meinertz,"Venstre, Danmarks Liberale Parti",20
+Tårnby,2,Pilegården,V_Carsten_Jørgensen,Carsten Jørgensen,"Venstre, Danmarks Liberale Parti",6
+Tårnby,2,Pilegården,V_Frants_Nielsen,Frants Nielsen,"Venstre, Danmarks Liberale Parti",14
+Tårnby,2,Pilegården,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,152
+Tårnby,2,Pilegården,Ø_Dorthe_Hecht,Dorthe Hecht,Enhedslisten - De Rød-Grønne,27
+Tårnby,2,Pilegården,Ø_Simon_Glaser_Abramowitz,Simon Glaser Abramowitz,Enhedslisten - De Rød-Grønne,23
+Tårnby,2,Pilegården,Ø_Filip_Breson,Filip Breson,Enhedslisten - De Rød-Grønne,44
+Tårnby,2,Pilegården,Ø_Ole_Juhl,Ole Juhl,Enhedslisten - De Rød-Grønne,29
+Tårnby,2,Pilegården,Ø_Jytte_Rasmussen,Jytte Rasmussen,Enhedslisten - De Rød-Grønne,4
+Tårnby,2,Pilegården,Ø_Jan_Hendriksen,Jan Hendriksen,Enhedslisten - De Rød-Grønne,13
+Tårnby,2,Pilegården,Ø_Faiza_Karim,Faiza Karim,Enhedslisten - De Rød-Grønne,14
+Tårnby,3,Tårnby,A_Listestemmer,Listestemmer,Socialdemokratiet,371
+Tårnby,3,Tårnby,A_Allan_Andersen,Allan Andersen,Socialdemokratiet,681
+Tårnby,3,Tårnby,A_Lars_Hein,Lars Hein,Socialdemokratiet,37
+Tårnby,3,Tårnby,A_Einer_Lyduch,Einer Lyduch,Socialdemokratiet,21
+Tårnby,3,Tårnby,A_Mads_Vinterby,Mads Vinterby,Socialdemokratiet,25
+Tårnby,3,Tårnby,A_Klaus_Bach,Klaus Bach,Socialdemokratiet,13
+Tårnby,3,Tårnby,A_Vibeke_Rasmussen,Vibeke Rasmussen,Socialdemokratiet,32
+Tårnby,3,Tårnby,A_Annette_Betak,Annette Betak,Socialdemokratiet,32
+Tårnby,3,Tårnby,A_Peter_Damgaard,Peter Damgaard,Socialdemokratiet,23
+Tårnby,3,Tårnby,A_Simon_Bauer,Simon Bauer,Socialdemokratiet,5
+Tårnby,3,Tårnby,A_Heidi_Berthelsen,Heidi Berthelsen,Socialdemokratiet,13
+Tårnby,3,Tårnby,A_Allan_Ivan_Kristensen,Allan Ivan Kristensen,Socialdemokratiet,3
+Tårnby,3,Tårnby,A_Jette_Bjørnelund,Jette Bjørnelund,Socialdemokratiet,7
+Tårnby,3,Tårnby,A_Thomas_Holbech,Thomas Holbech,Socialdemokratiet,2
+Tårnby,3,Tårnby,A_Peter_Hoffmann_Nielsen,Peter Hoffmann Nielsen,Socialdemokratiet,13
+Tårnby,3,Tårnby,A_Narine_Pedersen,Narine Pedersen,Socialdemokratiet,6
+Tårnby,3,Tårnby,A_Leif_Haak,Leif Haak,Socialdemokratiet,7
+Tårnby,3,Tårnby,A_Marianne_Kold,Marianne Kold,Socialdemokratiet,12
+Tårnby,3,Tårnby,A_Thomas_Arentoft_Hinsby,Thomas Arentoft Hinsby,Socialdemokratiet,1
+Tårnby,3,Tårnby,A_Georg_Metzon,Georg Metzon,Socialdemokratiet,3
+Tårnby,3,Tårnby,B_Listestemmer,Listestemmer,Radikale Venstre,39
+Tårnby,3,Tårnby,B_Ingelise_Andersen,Ingelise Andersen,Radikale Venstre,42
+Tårnby,3,Tårnby,B_Bjørn_Bjerrehøj,Bjørn Bjerrehøj,Radikale Venstre,26
+Tårnby,3,Tårnby,B_Thomas_Simone_Maare,Thomas Simone Maare,Radikale Venstre,18
+Tårnby,3,Tårnby,B_Sebastian_Winslow,Sebastian Winslow,Radikale Venstre,4
+Tårnby,3,Tårnby,B_Morten_Jensen,Morten Jensen,Radikale Venstre,2
+Tårnby,3,Tårnby,B_Nikolaj_Kofod_Rasmussen,Nikolaj Kofod Rasmussen,Radikale Venstre,1
+Tårnby,3,Tårnby,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,114
+Tårnby,3,Tårnby,C_Carsten_Fuhr,Carsten Fuhr,Det Konservative Folkeparti,65
+Tårnby,3,Tårnby,C_Patrick_Lehto,Patrick Lehto,Det Konservative Folkeparti,26
+Tårnby,3,Tårnby,C_Monika_Karpinska_Dollerup,Monika Karpinska Dollerup,Det Konservative Folkeparti,30
+Tårnby,3,Tårnby,C_Peter_Edward_Aubert-Hentze,Peter Edward Aubert-Hentze,Det Konservative Folkeparti,3
+Tårnby,3,Tårnby,C_Peter_Holm,Peter Holm,Det Konservative Folkeparti,3
+Tårnby,3,Tårnby,C_Peder_Langvad,Peder Langvad,Det Konservative Folkeparti,2
+Tårnby,3,Tårnby,C_Kurt_Wriedt,Kurt Wriedt,Det Konservative Folkeparti,6
+Tårnby,3,Tårnby,C_Poul-Henning_Gottorp,Poul-Henning Gottorp,Det Konservative Folkeparti,1
+Tårnby,3,Tårnby,C_Claus_Skaalum_Lyder,Claus Skaalum Lyder,Det Konservative Folkeparti,7
+Tårnby,3,Tårnby,D_Listestemmer,Listestemmer,Nye Borgerlige,64
+Tårnby,3,Tårnby,D_Benny_Bindslev,Benny Bindslev,Nye Borgerlige,43
+Tårnby,3,Tårnby,D_Erik_Ebert,Erik Ebert,Nye Borgerlige,1
+Tårnby,3,Tårnby,D_Alexander_Kvist_Hansen,Alexander Kvist Hansen,Nye Borgerlige,15
+Tårnby,3,Tårnby,D_Preben_Bjønager_Nielsen,Preben Bjønager Nielsen,Nye Borgerlige,8
+Tårnby,3,Tårnby,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,75
+Tårnby,3,Tårnby,F_Winnie_Sørensen,Winnie Sørensen,SF - Socialistisk Folkeparti,59
+Tårnby,3,Tårnby,F_Jan_Bakmand_Nørgaard,Jan Bakmand Nørgaard,SF - Socialistisk Folkeparti,17
+Tårnby,3,Tårnby,F_Phillip_Bergenhammer_Østergaard,Phillip Bergenhammer Østergaard,SF - Socialistisk Folkeparti,5
+Tårnby,3,Tårnby,F_Mikkel_Freiber,Mikkel Freiber,SF - Socialistisk Folkeparti,7
+Tårnby,3,Tårnby,I_Listestemmer,Listestemmer,Liberal Alliance,10
+Tårnby,3,Tårnby,"I_Charlotte_Nellemann,_Kastrup","Charlotte Nellemann, Kastrup",Liberal Alliance,7
+Tårnby,3,Tårnby,"I_Eddie_Blix,_Tårnby","Eddie Blix, Tårnby",Liberal Alliance,2
+Tårnby,3,Tårnby,O_Listestemmer,Listestemmer,Dansk Folkeparti,69
+Tårnby,3,Tårnby,O_Paw_Karslund,Paw Karslund,Dansk Folkeparti,125
+Tårnby,3,Tårnby,O_Marlene_Nyberg,Marlene Nyberg,Dansk Folkeparti,31
+Tårnby,3,Tårnby,O_Brian_Borglund_Bruun,Brian Borglund Bruun,Dansk Folkeparti,19
+Tårnby,3,Tårnby,O_Freja_Karslund,Freja Karslund,Dansk Folkeparti,3
+Tårnby,3,Tårnby,O_Ejvind_Mehlsen,Ejvind Mehlsen,Dansk Folkeparti,2
+Tårnby,3,Tårnby,T_Listestemmer,Listestemmer,Tårnby Listen,66
+Tårnby,3,Tårnby,T_Liv_Gam,Liv Gam,Tårnby Listen,62
+Tårnby,3,Tårnby,T_Maria_Cederstrøm_Jensen,Maria Cederstrøm Jensen,Tårnby Listen,18
+Tårnby,3,Tårnby,T_Maja_Christensen,Maja Christensen,Tårnby Listen,6
+Tårnby,3,Tårnby,T_Thea_Veidiksen,Thea Veidiksen,Tårnby Listen,9
+Tårnby,3,Tårnby,T_Kim_Soelberg,Kim Soelberg,Tårnby Listen,2
+Tårnby,3,Tårnby,T_Mette_Søe,Mette Søe,Tårnby Listen,26
+Tårnby,3,Tårnby,T_Michael_O._Jørgensen,Michael O. Jørgensen,Tårnby Listen,3
+Tårnby,3,Tårnby,T_Stella_Gissel,Stella Gissel,Tårnby Listen,18
+Tårnby,3,Tårnby,T_Michael_C._Maigaard,Michael C. Maigaard,Tårnby Listen,1
+Tårnby,3,Tårnby,T_Anne_Lübcke_Berthou,Anne Lübcke Berthou,Tårnby Listen,1
+Tårnby,3,Tårnby,T_Kim_Fredsbo,Kim Fredsbo,Tårnby Listen,3
+Tårnby,3,Tårnby,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",97
+Tårnby,3,Tårnby,V_Dennis_W._Clausen,Dennis W. Clausen,"Venstre, Danmarks Liberale Parti",59
+Tårnby,3,Tårnby,V_Mia_Barklund,Mia Barklund,"Venstre, Danmarks Liberale Parti",45
+Tårnby,3,Tårnby,V_Githa_Westen,Githa Westen,"Venstre, Danmarks Liberale Parti",4
+Tårnby,3,Tårnby,V_Ali_Qais,Ali Qais,"Venstre, Danmarks Liberale Parti",116
+Tårnby,3,Tårnby,V_Thomas_Krag,Thomas Krag,"Venstre, Danmarks Liberale Parti",7
+Tårnby,3,Tårnby,V_Sarah_Crone,Sarah Crone,"Venstre, Danmarks Liberale Parti",21
+Tårnby,3,Tårnby,V_Jens_Graff,Jens Graff,"Venstre, Danmarks Liberale Parti",6
+Tårnby,3,Tårnby,V_Linda_Pickersgill,Linda Pickersgill,"Venstre, Danmarks Liberale Parti",2
+Tårnby,3,Tårnby,V_Stefan_Cantagallo,Stefan Cantagallo,"Venstre, Danmarks Liberale Parti",3
+Tårnby,3,Tårnby,V_Per_Sørensen,Per Sørensen,"Venstre, Danmarks Liberale Parti",0
+Tårnby,3,Tårnby,V_Mie_Krag,Mie Krag,"Venstre, Danmarks Liberale Parti",8
+Tårnby,3,Tårnby,V_Mette_Byrdal,Mette Byrdal,"Venstre, Danmarks Liberale Parti",1
+Tårnby,3,Tårnby,V_Birger_Thomsen,Birger Thomsen,"Venstre, Danmarks Liberale Parti",1
+Tårnby,3,Tårnby,V_Brian_Ekstrøm,Brian Ekstrøm,"Venstre, Danmarks Liberale Parti",1
+Tårnby,3,Tårnby,V_Pernille_Meinertz,Pernille Meinertz,"Venstre, Danmarks Liberale Parti",9
+Tårnby,3,Tårnby,V_Carsten_Jørgensen,Carsten Jørgensen,"Venstre, Danmarks Liberale Parti",6
+Tårnby,3,Tårnby,V_Frants_Nielsen,Frants Nielsen,"Venstre, Danmarks Liberale Parti",1
+Tårnby,3,Tårnby,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,121
+Tårnby,3,Tårnby,Ø_Dorthe_Hecht,Dorthe Hecht,Enhedslisten - De Rød-Grønne,42
+Tårnby,3,Tårnby,Ø_Simon_Glaser_Abramowitz,Simon Glaser Abramowitz,Enhedslisten - De Rød-Grønne,18
+Tårnby,3,Tårnby,Ø_Filip_Breson,Filip Breson,Enhedslisten - De Rød-Grønne,28
+Tårnby,3,Tårnby,Ø_Ole_Juhl,Ole Juhl,Enhedslisten - De Rød-Grønne,32
+Tårnby,3,Tårnby,Ø_Jytte_Rasmussen,Jytte Rasmussen,Enhedslisten - De Rød-Grønne,3
+Tårnby,3,Tårnby,Ø_Jan_Hendriksen,Jan Hendriksen,Enhedslisten - De Rød-Grønne,5
+Tårnby,3,Tårnby,Ø_Faiza_Karim,Faiza Karim,Enhedslisten - De Rød-Grønne,21
+Tårnby,4,Korsvejen,A_Listestemmer,Listestemmer,Socialdemokratiet,325
+Tårnby,4,Korsvejen,A_Allan_Andersen,Allan Andersen,Socialdemokratiet,504
+Tårnby,4,Korsvejen,A_Lars_Hein,Lars Hein,Socialdemokratiet,37
+Tårnby,4,Korsvejen,A_Einer_Lyduch,Einer Lyduch,Socialdemokratiet,44
+Tårnby,4,Korsvejen,A_Mads_Vinterby,Mads Vinterby,Socialdemokratiet,36
+Tårnby,4,Korsvejen,A_Klaus_Bach,Klaus Bach,Socialdemokratiet,21
+Tårnby,4,Korsvejen,A_Vibeke_Rasmussen,Vibeke Rasmussen,Socialdemokratiet,31
+Tårnby,4,Korsvejen,A_Annette_Betak,Annette Betak,Socialdemokratiet,24
+Tårnby,4,Korsvejen,A_Peter_Damgaard,Peter Damgaard,Socialdemokratiet,6
+Tårnby,4,Korsvejen,A_Simon_Bauer,Simon Bauer,Socialdemokratiet,50
+Tårnby,4,Korsvejen,A_Heidi_Berthelsen,Heidi Berthelsen,Socialdemokratiet,13
+Tårnby,4,Korsvejen,A_Allan_Ivan_Kristensen,Allan Ivan Kristensen,Socialdemokratiet,2
+Tårnby,4,Korsvejen,A_Jette_Bjørnelund,Jette Bjørnelund,Socialdemokratiet,7
+Tårnby,4,Korsvejen,A_Thomas_Holbech,Thomas Holbech,Socialdemokratiet,2
+Tårnby,4,Korsvejen,A_Peter_Hoffmann_Nielsen,Peter Hoffmann Nielsen,Socialdemokratiet,14
+Tårnby,4,Korsvejen,A_Narine_Pedersen,Narine Pedersen,Socialdemokratiet,1
+Tårnby,4,Korsvejen,A_Leif_Haak,Leif Haak,Socialdemokratiet,9
+Tårnby,4,Korsvejen,A_Marianne_Kold,Marianne Kold,Socialdemokratiet,6
+Tårnby,4,Korsvejen,A_Thomas_Arentoft_Hinsby,Thomas Arentoft Hinsby,Socialdemokratiet,1
+Tårnby,4,Korsvejen,A_Georg_Metzon,Georg Metzon,Socialdemokratiet,1
+Tårnby,4,Korsvejen,B_Listestemmer,Listestemmer,Radikale Venstre,50
+Tårnby,4,Korsvejen,B_Ingelise_Andersen,Ingelise Andersen,Radikale Venstre,25
+Tårnby,4,Korsvejen,B_Bjørn_Bjerrehøj,Bjørn Bjerrehøj,Radikale Venstre,21
+Tårnby,4,Korsvejen,B_Thomas_Simone_Maare,Thomas Simone Maare,Radikale Venstre,22
+Tårnby,4,Korsvejen,B_Sebastian_Winslow,Sebastian Winslow,Radikale Venstre,2
+Tårnby,4,Korsvejen,B_Morten_Jensen,Morten Jensen,Radikale Venstre,4
+Tårnby,4,Korsvejen,B_Nikolaj_Kofod_Rasmussen,Nikolaj Kofod Rasmussen,Radikale Venstre,4
+Tårnby,4,Korsvejen,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,114
+Tårnby,4,Korsvejen,C_Carsten_Fuhr,Carsten Fuhr,Det Konservative Folkeparti,44
+Tårnby,4,Korsvejen,C_Patrick_Lehto,Patrick Lehto,Det Konservative Folkeparti,37
+Tårnby,4,Korsvejen,C_Monika_Karpinska_Dollerup,Monika Karpinska Dollerup,Det Konservative Folkeparti,19
+Tårnby,4,Korsvejen,C_Peter_Edward_Aubert-Hentze,Peter Edward Aubert-Hentze,Det Konservative Folkeparti,6
+Tårnby,4,Korsvejen,C_Peter_Holm,Peter Holm,Det Konservative Folkeparti,5
+Tårnby,4,Korsvejen,C_Peder_Langvad,Peder Langvad,Det Konservative Folkeparti,5
+Tårnby,4,Korsvejen,C_Kurt_Wriedt,Kurt Wriedt,Det Konservative Folkeparti,2
+Tårnby,4,Korsvejen,C_Poul-Henning_Gottorp,Poul-Henning Gottorp,Det Konservative Folkeparti,5
+Tårnby,4,Korsvejen,C_Claus_Skaalum_Lyder,Claus Skaalum Lyder,Det Konservative Folkeparti,5
+Tårnby,4,Korsvejen,D_Listestemmer,Listestemmer,Nye Borgerlige,62
+Tårnby,4,Korsvejen,D_Benny_Bindslev,Benny Bindslev,Nye Borgerlige,38
+Tårnby,4,Korsvejen,D_Erik_Ebert,Erik Ebert,Nye Borgerlige,6
+Tårnby,4,Korsvejen,D_Alexander_Kvist_Hansen,Alexander Kvist Hansen,Nye Borgerlige,16
+Tårnby,4,Korsvejen,D_Preben_Bjønager_Nielsen,Preben Bjønager Nielsen,Nye Borgerlige,11
+Tårnby,4,Korsvejen,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,72
+Tårnby,4,Korsvejen,F_Winnie_Sørensen,Winnie Sørensen,SF - Socialistisk Folkeparti,37
+Tårnby,4,Korsvejen,F_Jan_Bakmand_Nørgaard,Jan Bakmand Nørgaard,SF - Socialistisk Folkeparti,32
+Tårnby,4,Korsvejen,F_Phillip_Bergenhammer_Østergaard,Phillip Bergenhammer Østergaard,SF - Socialistisk Folkeparti,3
+Tårnby,4,Korsvejen,F_Mikkel_Freiber,Mikkel Freiber,SF - Socialistisk Folkeparti,12
+Tårnby,4,Korsvejen,I_Listestemmer,Listestemmer,Liberal Alliance,9
+Tårnby,4,Korsvejen,"I_Charlotte_Nellemann,_Kastrup","Charlotte Nellemann, Kastrup",Liberal Alliance,7
+Tårnby,4,Korsvejen,"I_Eddie_Blix,_Tårnby","Eddie Blix, Tårnby",Liberal Alliance,4
+Tårnby,4,Korsvejen,O_Listestemmer,Listestemmer,Dansk Folkeparti,38
+Tårnby,4,Korsvejen,O_Paw_Karslund,Paw Karslund,Dansk Folkeparti,84
+Tårnby,4,Korsvejen,O_Marlene_Nyberg,Marlene Nyberg,Dansk Folkeparti,12
+Tårnby,4,Korsvejen,O_Brian_Borglund_Bruun,Brian Borglund Bruun,Dansk Folkeparti,7
+Tårnby,4,Korsvejen,O_Freja_Karslund,Freja Karslund,Dansk Folkeparti,2
+Tårnby,4,Korsvejen,O_Ejvind_Mehlsen,Ejvind Mehlsen,Dansk Folkeparti,1
+Tårnby,4,Korsvejen,T_Listestemmer,Listestemmer,Tårnby Listen,52
+Tårnby,4,Korsvejen,T_Liv_Gam,Liv Gam,Tårnby Listen,52
+Tårnby,4,Korsvejen,T_Maria_Cederstrøm_Jensen,Maria Cederstrøm Jensen,Tårnby Listen,11
+Tårnby,4,Korsvejen,T_Maja_Christensen,Maja Christensen,Tårnby Listen,3
+Tårnby,4,Korsvejen,T_Thea_Veidiksen,Thea Veidiksen,Tårnby Listen,7
+Tårnby,4,Korsvejen,T_Kim_Soelberg,Kim Soelberg,Tårnby Listen,3
+Tårnby,4,Korsvejen,T_Mette_Søe,Mette Søe,Tårnby Listen,23
+Tårnby,4,Korsvejen,T_Michael_O._Jørgensen,Michael O. Jørgensen,Tårnby Listen,14
+Tårnby,4,Korsvejen,T_Stella_Gissel,Stella Gissel,Tårnby Listen,8
+Tårnby,4,Korsvejen,T_Michael_C._Maigaard,Michael C. Maigaard,Tårnby Listen,1
+Tårnby,4,Korsvejen,T_Anne_Lübcke_Berthou,Anne Lübcke Berthou,Tårnby Listen,0
+Tårnby,4,Korsvejen,T_Kim_Fredsbo,Kim Fredsbo,Tårnby Listen,2
+Tårnby,4,Korsvejen,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",109
+Tårnby,4,Korsvejen,V_Dennis_W._Clausen,Dennis W. Clausen,"Venstre, Danmarks Liberale Parti",53
+Tårnby,4,Korsvejen,V_Mia_Barklund,Mia Barklund,"Venstre, Danmarks Liberale Parti",46
+Tårnby,4,Korsvejen,V_Githa_Westen,Githa Westen,"Venstre, Danmarks Liberale Parti",9
+Tårnby,4,Korsvejen,V_Ali_Qais,Ali Qais,"Venstre, Danmarks Liberale Parti",53
+Tårnby,4,Korsvejen,V_Thomas_Krag,Thomas Krag,"Venstre, Danmarks Liberale Parti",3
+Tårnby,4,Korsvejen,V_Sarah_Crone,Sarah Crone,"Venstre, Danmarks Liberale Parti",28
+Tårnby,4,Korsvejen,V_Jens_Graff,Jens Graff,"Venstre, Danmarks Liberale Parti",0
+Tårnby,4,Korsvejen,V_Linda_Pickersgill,Linda Pickersgill,"Venstre, Danmarks Liberale Parti",2
+Tårnby,4,Korsvejen,V_Stefan_Cantagallo,Stefan Cantagallo,"Venstre, Danmarks Liberale Parti",1
+Tårnby,4,Korsvejen,V_Per_Sørensen,Per Sørensen,"Venstre, Danmarks Liberale Parti",0
+Tårnby,4,Korsvejen,V_Mie_Krag,Mie Krag,"Venstre, Danmarks Liberale Parti",6
+Tårnby,4,Korsvejen,V_Mette_Byrdal,Mette Byrdal,"Venstre, Danmarks Liberale Parti",2
+Tårnby,4,Korsvejen,V_Birger_Thomsen,Birger Thomsen,"Venstre, Danmarks Liberale Parti",1
+Tårnby,4,Korsvejen,V_Brian_Ekstrøm,Brian Ekstrøm,"Venstre, Danmarks Liberale Parti",1
+Tårnby,4,Korsvejen,V_Pernille_Meinertz,Pernille Meinertz,"Venstre, Danmarks Liberale Parti",5
+Tårnby,4,Korsvejen,V_Carsten_Jørgensen,Carsten Jørgensen,"Venstre, Danmarks Liberale Parti",3
+Tårnby,4,Korsvejen,V_Frants_Nielsen,Frants Nielsen,"Venstre, Danmarks Liberale Parti",3
+Tårnby,4,Korsvejen,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,122
+Tårnby,4,Korsvejen,Ø_Dorthe_Hecht,Dorthe Hecht,Enhedslisten - De Rød-Grønne,34
+Tårnby,4,Korsvejen,Ø_Simon_Glaser_Abramowitz,Simon Glaser Abramowitz,Enhedslisten - De Rød-Grønne,23
+Tårnby,4,Korsvejen,Ø_Filip_Breson,Filip Breson,Enhedslisten - De Rød-Grønne,43
+Tårnby,4,Korsvejen,Ø_Ole_Juhl,Ole Juhl,Enhedslisten - De Rød-Grønne,25
+Tårnby,4,Korsvejen,Ø_Jytte_Rasmussen,Jytte Rasmussen,Enhedslisten - De Rød-Grønne,4
+Tårnby,4,Korsvejen,Ø_Jan_Hendriksen,Jan Hendriksen,Enhedslisten - De Rød-Grønne,6
+Tårnby,4,Korsvejen,Ø_Faiza_Karim,Faiza Karim,Enhedslisten - De Rød-Grønne,20
+Tårnby,5,Løjtegården,A_Listestemmer,Listestemmer,Socialdemokratiet,266
+Tårnby,5,Løjtegården,A_Allan_Andersen,Allan Andersen,Socialdemokratiet,427
+Tårnby,5,Løjtegården,A_Lars_Hein,Lars Hein,Socialdemokratiet,37
+Tårnby,5,Løjtegården,A_Einer_Lyduch,Einer Lyduch,Socialdemokratiet,17
+Tårnby,5,Løjtegården,A_Mads_Vinterby,Mads Vinterby,Socialdemokratiet,15
+Tårnby,5,Løjtegården,A_Klaus_Bach,Klaus Bach,Socialdemokratiet,26
+Tårnby,5,Løjtegården,A_Vibeke_Rasmussen,Vibeke Rasmussen,Socialdemokratiet,24
+Tårnby,5,Løjtegården,A_Annette_Betak,Annette Betak,Socialdemokratiet,21
+Tårnby,5,Løjtegården,A_Peter_Damgaard,Peter Damgaard,Socialdemokratiet,6
+Tårnby,5,Løjtegården,A_Simon_Bauer,Simon Bauer,Socialdemokratiet,16
+Tårnby,5,Løjtegården,A_Heidi_Berthelsen,Heidi Berthelsen,Socialdemokratiet,13
+Tårnby,5,Løjtegården,A_Allan_Ivan_Kristensen,Allan Ivan Kristensen,Socialdemokratiet,3
+Tårnby,5,Løjtegården,A_Jette_Bjørnelund,Jette Bjørnelund,Socialdemokratiet,7
+Tårnby,5,Løjtegården,A_Thomas_Holbech,Thomas Holbech,Socialdemokratiet,20
+Tårnby,5,Løjtegården,A_Peter_Hoffmann_Nielsen,Peter Hoffmann Nielsen,Socialdemokratiet,5
+Tårnby,5,Løjtegården,A_Narine_Pedersen,Narine Pedersen,Socialdemokratiet,10
+Tårnby,5,Løjtegården,A_Leif_Haak,Leif Haak,Socialdemokratiet,5
+Tårnby,5,Løjtegården,A_Marianne_Kold,Marianne Kold,Socialdemokratiet,5
+Tårnby,5,Løjtegården,A_Thomas_Arentoft_Hinsby,Thomas Arentoft Hinsby,Socialdemokratiet,9
+Tårnby,5,Løjtegården,A_Georg_Metzon,Georg Metzon,Socialdemokratiet,4
+Tårnby,5,Løjtegården,B_Listestemmer,Listestemmer,Radikale Venstre,38
+Tårnby,5,Løjtegården,B_Ingelise_Andersen,Ingelise Andersen,Radikale Venstre,19
+Tårnby,5,Løjtegården,B_Bjørn_Bjerrehøj,Bjørn Bjerrehøj,Radikale Venstre,20
+Tårnby,5,Løjtegården,B_Thomas_Simone_Maare,Thomas Simone Maare,Radikale Venstre,29
+Tårnby,5,Løjtegården,B_Sebastian_Winslow,Sebastian Winslow,Radikale Venstre,3
+Tårnby,5,Løjtegården,B_Morten_Jensen,Morten Jensen,Radikale Venstre,1
+Tårnby,5,Løjtegården,B_Nikolaj_Kofod_Rasmussen,Nikolaj Kofod Rasmussen,Radikale Venstre,3
+Tårnby,5,Løjtegården,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,84
+Tårnby,5,Løjtegården,C_Carsten_Fuhr,Carsten Fuhr,Det Konservative Folkeparti,57
+Tårnby,5,Løjtegården,C_Patrick_Lehto,Patrick Lehto,Det Konservative Folkeparti,38
+Tårnby,5,Løjtegården,C_Monika_Karpinska_Dollerup,Monika Karpinska Dollerup,Det Konservative Folkeparti,31
+Tårnby,5,Løjtegården,C_Peter_Edward_Aubert-Hentze,Peter Edward Aubert-Hentze,Det Konservative Folkeparti,14
+Tårnby,5,Løjtegården,C_Peter_Holm,Peter Holm,Det Konservative Folkeparti,8
+Tårnby,5,Løjtegården,C_Peder_Langvad,Peder Langvad,Det Konservative Folkeparti,7
+Tårnby,5,Løjtegården,C_Kurt_Wriedt,Kurt Wriedt,Det Konservative Folkeparti,2
+Tårnby,5,Løjtegården,C_Poul-Henning_Gottorp,Poul-Henning Gottorp,Det Konservative Folkeparti,2
+Tårnby,5,Løjtegården,C_Claus_Skaalum_Lyder,Claus Skaalum Lyder,Det Konservative Folkeparti,6
+Tårnby,5,Løjtegården,D_Listestemmer,Listestemmer,Nye Borgerlige,38
+Tårnby,5,Løjtegården,D_Benny_Bindslev,Benny Bindslev,Nye Borgerlige,36
+Tårnby,5,Løjtegården,D_Erik_Ebert,Erik Ebert,Nye Borgerlige,1
+Tårnby,5,Løjtegården,D_Alexander_Kvist_Hansen,Alexander Kvist Hansen,Nye Borgerlige,22
+Tårnby,5,Løjtegården,D_Preben_Bjønager_Nielsen,Preben Bjønager Nielsen,Nye Borgerlige,3
+Tårnby,5,Løjtegården,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,64
+Tårnby,5,Løjtegården,F_Winnie_Sørensen,Winnie Sørensen,SF - Socialistisk Folkeparti,34
+Tårnby,5,Løjtegården,F_Jan_Bakmand_Nørgaard,Jan Bakmand Nørgaard,SF - Socialistisk Folkeparti,9
+Tårnby,5,Løjtegården,F_Phillip_Bergenhammer_Østergaard,Phillip Bergenhammer Østergaard,SF - Socialistisk Folkeparti,12
+Tårnby,5,Løjtegården,F_Mikkel_Freiber,Mikkel Freiber,SF - Socialistisk Folkeparti,5
+Tårnby,5,Løjtegården,I_Listestemmer,Listestemmer,Liberal Alliance,5
+Tårnby,5,Løjtegården,"I_Charlotte_Nellemann,_Kastrup","Charlotte Nellemann, Kastrup",Liberal Alliance,7
+Tårnby,5,Løjtegården,"I_Eddie_Blix,_Tårnby","Eddie Blix, Tårnby",Liberal Alliance,3
+Tårnby,5,Løjtegården,O_Listestemmer,Listestemmer,Dansk Folkeparti,33
+Tårnby,5,Løjtegården,O_Paw_Karslund,Paw Karslund,Dansk Folkeparti,92
+Tårnby,5,Løjtegården,O_Marlene_Nyberg,Marlene Nyberg,Dansk Folkeparti,19
+Tårnby,5,Løjtegården,O_Brian_Borglund_Bruun,Brian Borglund Bruun,Dansk Folkeparti,2
+Tårnby,5,Løjtegården,O_Freja_Karslund,Freja Karslund,Dansk Folkeparti,3
+Tårnby,5,Løjtegården,O_Ejvind_Mehlsen,Ejvind Mehlsen,Dansk Folkeparti,0
+Tårnby,5,Løjtegården,T_Listestemmer,Listestemmer,Tårnby Listen,43
+Tårnby,5,Løjtegården,T_Liv_Gam,Liv Gam,Tårnby Listen,39
+Tårnby,5,Løjtegården,T_Maria_Cederstrøm_Jensen,Maria Cederstrøm Jensen,Tårnby Listen,4
+Tårnby,5,Løjtegården,T_Maja_Christensen,Maja Christensen,Tårnby Listen,7
+Tårnby,5,Løjtegården,T_Thea_Veidiksen,Thea Veidiksen,Tårnby Listen,5
+Tårnby,5,Løjtegården,T_Kim_Soelberg,Kim Soelberg,Tårnby Listen,4
+Tårnby,5,Løjtegården,T_Mette_Søe,Mette Søe,Tårnby Listen,23
+Tårnby,5,Løjtegården,T_Michael_O._Jørgensen,Michael O. Jørgensen,Tårnby Listen,2
+Tårnby,5,Løjtegården,T_Stella_Gissel,Stella Gissel,Tårnby Listen,9
+Tårnby,5,Løjtegården,T_Michael_C._Maigaard,Michael C. Maigaard,Tårnby Listen,10
+Tårnby,5,Løjtegården,T_Anne_Lübcke_Berthou,Anne Lübcke Berthou,Tårnby Listen,0
+Tårnby,5,Løjtegården,T_Kim_Fredsbo,Kim Fredsbo,Tårnby Listen,0
+Tårnby,5,Løjtegården,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",101
+Tårnby,5,Løjtegården,V_Dennis_W._Clausen,Dennis W. Clausen,"Venstre, Danmarks Liberale Parti",57
+Tårnby,5,Løjtegården,V_Mia_Barklund,Mia Barklund,"Venstre, Danmarks Liberale Parti",46
+Tårnby,5,Løjtegården,V_Githa_Westen,Githa Westen,"Venstre, Danmarks Liberale Parti",11
+Tårnby,5,Løjtegården,V_Ali_Qais,Ali Qais,"Venstre, Danmarks Liberale Parti",200
+Tårnby,5,Løjtegården,V_Thomas_Krag,Thomas Krag,"Venstre, Danmarks Liberale Parti",3
+Tårnby,5,Løjtegården,V_Sarah_Crone,Sarah Crone,"Venstre, Danmarks Liberale Parti",38
+Tårnby,5,Løjtegården,V_Jens_Graff,Jens Graff,"Venstre, Danmarks Liberale Parti",3
+Tårnby,5,Løjtegården,V_Linda_Pickersgill,Linda Pickersgill,"Venstre, Danmarks Liberale Parti",4
+Tårnby,5,Løjtegården,V_Stefan_Cantagallo,Stefan Cantagallo,"Venstre, Danmarks Liberale Parti",0
+Tårnby,5,Løjtegården,V_Per_Sørensen,Per Sørensen,"Venstre, Danmarks Liberale Parti",1
+Tårnby,5,Løjtegården,V_Mie_Krag,Mie Krag,"Venstre, Danmarks Liberale Parti",2
+Tårnby,5,Løjtegården,V_Mette_Byrdal,Mette Byrdal,"Venstre, Danmarks Liberale Parti",0
+Tårnby,5,Løjtegården,V_Birger_Thomsen,Birger Thomsen,"Venstre, Danmarks Liberale Parti",0
+Tårnby,5,Løjtegården,V_Brian_Ekstrøm,Brian Ekstrøm,"Venstre, Danmarks Liberale Parti",0
+Tårnby,5,Løjtegården,V_Pernille_Meinertz,Pernille Meinertz,"Venstre, Danmarks Liberale Parti",5
+Tårnby,5,Løjtegården,V_Carsten_Jørgensen,Carsten Jørgensen,"Venstre, Danmarks Liberale Parti",7
+Tårnby,5,Løjtegården,V_Frants_Nielsen,Frants Nielsen,"Venstre, Danmarks Liberale Parti",3
+Tårnby,5,Løjtegården,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,87
+Tårnby,5,Løjtegården,Ø_Dorthe_Hecht,Dorthe Hecht,Enhedslisten - De Rød-Grønne,25
+Tårnby,5,Løjtegården,Ø_Simon_Glaser_Abramowitz,Simon Glaser Abramowitz,Enhedslisten - De Rød-Grønne,21
+Tårnby,5,Løjtegården,Ø_Filip_Breson,Filip Breson,Enhedslisten - De Rød-Grønne,34
+Tårnby,5,Løjtegården,Ø_Ole_Juhl,Ole Juhl,Enhedslisten - De Rød-Grønne,69
+Tårnby,5,Løjtegården,Ø_Jytte_Rasmussen,Jytte Rasmussen,Enhedslisten - De Rød-Grønne,0
+Tårnby,5,Løjtegården,Ø_Jan_Hendriksen,Jan Hendriksen,Enhedslisten - De Rød-Grønne,11
+Tårnby,5,Løjtegården,Ø_Faiza_Karim,Faiza Karim,Enhedslisten - De Rød-Grønne,13
+Tårnby,6,Kastrup,A_Listestemmer,Listestemmer,Socialdemokratiet,608
+Tårnby,6,Kastrup,A_Allan_Andersen,Allan Andersen,Socialdemokratiet,1158
+Tårnby,6,Kastrup,A_Lars_Hein,Lars Hein,Socialdemokratiet,108
+Tårnby,6,Kastrup,A_Einer_Lyduch,Einer Lyduch,Socialdemokratiet,60
+Tårnby,6,Kastrup,A_Mads_Vinterby,Mads Vinterby,Socialdemokratiet,33
+Tårnby,6,Kastrup,A_Klaus_Bach,Klaus Bach,Socialdemokratiet,35
+Tårnby,6,Kastrup,A_Vibeke_Rasmussen,Vibeke Rasmussen,Socialdemokratiet,65
+Tårnby,6,Kastrup,A_Annette_Betak,Annette Betak,Socialdemokratiet,63
+Tårnby,6,Kastrup,A_Peter_Damgaard,Peter Damgaard,Socialdemokratiet,12
+Tårnby,6,Kastrup,A_Simon_Bauer,Simon Bauer,Socialdemokratiet,16
+Tårnby,6,Kastrup,A_Heidi_Berthelsen,Heidi Berthelsen,Socialdemokratiet,7
+Tårnby,6,Kastrup,A_Allan_Ivan_Kristensen,Allan Ivan Kristensen,Socialdemokratiet,12
+Tårnby,6,Kastrup,A_Jette_Bjørnelund,Jette Bjørnelund,Socialdemokratiet,9
+Tårnby,6,Kastrup,A_Thomas_Holbech,Thomas Holbech,Socialdemokratiet,5
+Tårnby,6,Kastrup,A_Peter_Hoffmann_Nielsen,Peter Hoffmann Nielsen,Socialdemokratiet,21
+Tårnby,6,Kastrup,A_Narine_Pedersen,Narine Pedersen,Socialdemokratiet,7
+Tårnby,6,Kastrup,A_Leif_Haak,Leif Haak,Socialdemokratiet,20
+Tårnby,6,Kastrup,A_Marianne_Kold,Marianne Kold,Socialdemokratiet,7
+Tårnby,6,Kastrup,A_Thomas_Arentoft_Hinsby,Thomas Arentoft Hinsby,Socialdemokratiet,2
+Tårnby,6,Kastrup,A_Georg_Metzon,Georg Metzon,Socialdemokratiet,6
+Tårnby,6,Kastrup,B_Listestemmer,Listestemmer,Radikale Venstre,58
+Tårnby,6,Kastrup,B_Ingelise_Andersen,Ingelise Andersen,Radikale Venstre,27
+Tårnby,6,Kastrup,B_Bjørn_Bjerrehøj,Bjørn Bjerrehøj,Radikale Venstre,21
+Tårnby,6,Kastrup,B_Thomas_Simone_Maare,Thomas Simone Maare,Radikale Venstre,35
+Tårnby,6,Kastrup,B_Sebastian_Winslow,Sebastian Winslow,Radikale Venstre,1
+Tårnby,6,Kastrup,B_Morten_Jensen,Morten Jensen,Radikale Venstre,15
+Tårnby,6,Kastrup,B_Nikolaj_Kofod_Rasmussen,Nikolaj Kofod Rasmussen,Radikale Venstre,8
+Tårnby,6,Kastrup,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,176
+Tårnby,6,Kastrup,C_Carsten_Fuhr,Carsten Fuhr,Det Konservative Folkeparti,85
+Tårnby,6,Kastrup,C_Patrick_Lehto,Patrick Lehto,Det Konservative Folkeparti,41
+Tårnby,6,Kastrup,C_Monika_Karpinska_Dollerup,Monika Karpinska Dollerup,Det Konservative Folkeparti,35
+Tårnby,6,Kastrup,C_Peter_Edward_Aubert-Hentze,Peter Edward Aubert-Hentze,Det Konservative Folkeparti,15
+Tårnby,6,Kastrup,C_Peter_Holm,Peter Holm,Det Konservative Folkeparti,26
+Tårnby,6,Kastrup,C_Peder_Langvad,Peder Langvad,Det Konservative Folkeparti,9
+Tårnby,6,Kastrup,C_Kurt_Wriedt,Kurt Wriedt,Det Konservative Folkeparti,1
+Tårnby,6,Kastrup,C_Poul-Henning_Gottorp,Poul-Henning Gottorp,Det Konservative Folkeparti,8
+Tårnby,6,Kastrup,C_Claus_Skaalum_Lyder,Claus Skaalum Lyder,Det Konservative Folkeparti,3
+Tårnby,6,Kastrup,D_Listestemmer,Listestemmer,Nye Borgerlige,113
+Tårnby,6,Kastrup,D_Benny_Bindslev,Benny Bindslev,Nye Borgerlige,126
+Tårnby,6,Kastrup,D_Erik_Ebert,Erik Ebert,Nye Borgerlige,17
+Tårnby,6,Kastrup,D_Alexander_Kvist_Hansen,Alexander Kvist Hansen,Nye Borgerlige,15
+Tårnby,6,Kastrup,D_Preben_Bjønager_Nielsen,Preben Bjønager Nielsen,Nye Borgerlige,8
+Tårnby,6,Kastrup,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,101
+Tårnby,6,Kastrup,F_Winnie_Sørensen,Winnie Sørensen,SF - Socialistisk Folkeparti,95
+Tårnby,6,Kastrup,F_Jan_Bakmand_Nørgaard,Jan Bakmand Nørgaard,SF - Socialistisk Folkeparti,27
+Tårnby,6,Kastrup,F_Phillip_Bergenhammer_Østergaard,Phillip Bergenhammer Østergaard,SF - Socialistisk Folkeparti,15
+Tårnby,6,Kastrup,F_Mikkel_Freiber,Mikkel Freiber,SF - Socialistisk Folkeparti,15
+Tårnby,6,Kastrup,I_Listestemmer,Listestemmer,Liberal Alliance,19
+Tårnby,6,Kastrup,"I_Charlotte_Nellemann,_Kastrup","Charlotte Nellemann, Kastrup",Liberal Alliance,23
+Tårnby,6,Kastrup,"I_Eddie_Blix,_Tårnby","Eddie Blix, Tårnby",Liberal Alliance,12
+Tårnby,6,Kastrup,O_Listestemmer,Listestemmer,Dansk Folkeparti,101
+Tårnby,6,Kastrup,O_Paw_Karslund,Paw Karslund,Dansk Folkeparti,194
+Tårnby,6,Kastrup,O_Marlene_Nyberg,Marlene Nyberg,Dansk Folkeparti,76
+Tårnby,6,Kastrup,O_Brian_Borglund_Bruun,Brian Borglund Bruun,Dansk Folkeparti,32
+Tårnby,6,Kastrup,O_Freja_Karslund,Freja Karslund,Dansk Folkeparti,4
+Tårnby,6,Kastrup,O_Ejvind_Mehlsen,Ejvind Mehlsen,Dansk Folkeparti,3
+Tårnby,6,Kastrup,T_Listestemmer,Listestemmer,Tårnby Listen,95
+Tårnby,6,Kastrup,T_Liv_Gam,Liv Gam,Tårnby Listen,126
+Tårnby,6,Kastrup,T_Maria_Cederstrøm_Jensen,Maria Cederstrøm Jensen,Tårnby Listen,14
+Tårnby,6,Kastrup,T_Maja_Christensen,Maja Christensen,Tårnby Listen,22
+Tårnby,6,Kastrup,T_Thea_Veidiksen,Thea Veidiksen,Tårnby Listen,20
+Tårnby,6,Kastrup,T_Kim_Soelberg,Kim Soelberg,Tårnby Listen,4
+Tårnby,6,Kastrup,T_Mette_Søe,Mette Søe,Tårnby Listen,54
+Tårnby,6,Kastrup,T_Michael_O._Jørgensen,Michael O. Jørgensen,Tårnby Listen,3
+Tårnby,6,Kastrup,T_Stella_Gissel,Stella Gissel,Tårnby Listen,22
+Tårnby,6,Kastrup,T_Michael_C._Maigaard,Michael C. Maigaard,Tårnby Listen,0
+Tårnby,6,Kastrup,T_Anne_Lübcke_Berthou,Anne Lübcke Berthou,Tårnby Listen,1
+Tårnby,6,Kastrup,T_Kim_Fredsbo,Kim Fredsbo,Tårnby Listen,2
+Tårnby,6,Kastrup,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",127
+Tårnby,6,Kastrup,V_Dennis_W._Clausen,Dennis W. Clausen,"Venstre, Danmarks Liberale Parti",99
+Tårnby,6,Kastrup,V_Mia_Barklund,Mia Barklund,"Venstre, Danmarks Liberale Parti",48
+Tårnby,6,Kastrup,V_Githa_Westen,Githa Westen,"Venstre, Danmarks Liberale Parti",17
+Tårnby,6,Kastrup,V_Ali_Qais,Ali Qais,"Venstre, Danmarks Liberale Parti",55
+Tårnby,6,Kastrup,V_Thomas_Krag,Thomas Krag,"Venstre, Danmarks Liberale Parti",11
+Tårnby,6,Kastrup,V_Sarah_Crone,Sarah Crone,"Venstre, Danmarks Liberale Parti",37
+Tårnby,6,Kastrup,V_Jens_Graff,Jens Graff,"Venstre, Danmarks Liberale Parti",5
+Tårnby,6,Kastrup,V_Linda_Pickersgill,Linda Pickersgill,"Venstre, Danmarks Liberale Parti",3
+Tårnby,6,Kastrup,V_Stefan_Cantagallo,Stefan Cantagallo,"Venstre, Danmarks Liberale Parti",11
+Tårnby,6,Kastrup,V_Per_Sørensen,Per Sørensen,"Venstre, Danmarks Liberale Parti",1
+Tårnby,6,Kastrup,V_Mie_Krag,Mie Krag,"Venstre, Danmarks Liberale Parti",14
+Tårnby,6,Kastrup,V_Mette_Byrdal,Mette Byrdal,"Venstre, Danmarks Liberale Parti",0
+Tårnby,6,Kastrup,V_Birger_Thomsen,Birger Thomsen,"Venstre, Danmarks Liberale Parti",0
+Tårnby,6,Kastrup,V_Brian_Ekstrøm,Brian Ekstrøm,"Venstre, Danmarks Liberale Parti",2
+Tårnby,6,Kastrup,V_Pernille_Meinertz,Pernille Meinertz,"Venstre, Danmarks Liberale Parti",10
+Tårnby,6,Kastrup,V_Carsten_Jørgensen,Carsten Jørgensen,"Venstre, Danmarks Liberale Parti",6
+Tårnby,6,Kastrup,V_Frants_Nielsen,Frants Nielsen,"Venstre, Danmarks Liberale Parti",2
+Tårnby,6,Kastrup,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,251
+Tårnby,6,Kastrup,Ø_Dorthe_Hecht,Dorthe Hecht,Enhedslisten - De Rød-Grønne,67
+Tårnby,6,Kastrup,Ø_Simon_Glaser_Abramowitz,Simon Glaser Abramowitz,Enhedslisten - De Rød-Grønne,35
+Tårnby,6,Kastrup,Ø_Filip_Breson,Filip Breson,Enhedslisten - De Rød-Grønne,48
+Tårnby,6,Kastrup,Ø_Ole_Juhl,Ole Juhl,Enhedslisten - De Rød-Grønne,37
+Tårnby,6,Kastrup,Ø_Jytte_Rasmussen,Jytte Rasmussen,Enhedslisten - De Rød-Grønne,13
+Tårnby,6,Kastrup,Ø_Jan_Hendriksen,Jan Hendriksen,Enhedslisten - De Rød-Grønne,20
+Tårnby,6,Kastrup,Ø_Faiza_Karim,Faiza Karim,Enhedslisten - De Rød-Grønne,47

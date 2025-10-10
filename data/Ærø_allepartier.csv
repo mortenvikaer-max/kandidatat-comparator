@@ -1,0 +1,175 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Ærø,1,Marstal,A_Listestemmer,Listestemmer,Socialdemokratiet,51
+Ærø,1,Marstal,A_Peter_Hansted,Peter Hansted,Socialdemokratiet,105
+Ærø,1,Marstal,A_Karin_Thumilaire,Karin Thumilaire,Socialdemokratiet,17
+Ærø,1,Marstal,A_Hans_Peter_Rønn_Bolding,Hans Peter Rønn Bolding,Socialdemokratiet,32
+Ærø,1,Marstal,A_Johannes_Renneberg,Johannes Renneberg,Socialdemokratiet,24
+Ærø,1,Marstal,A_Jørgen_Roos,Jørgen Roos,Socialdemokratiet,4
+Ærø,1,Marstal,A_Leslie_Rabuchin,Leslie Rabuchin,Socialdemokratiet,1
+Ærø,1,Marstal,A_Ole_Wej_Petersen,Ole Wej Petersen,Socialdemokratiet,20
+Ærø,1,Marstal,B_Listestemmer,Listestemmer,Radikale Venstre,8
+Ærø,1,Marstal,"B_Morten_Brixtofte_Petersen,_Søby","Morten Brixtofte Petersen, Søby",Radikale Venstre,21
+Ærø,1,Marstal,"B_Michael_Brande,_Skovby","Michael Brande, Skovby",Radikale Venstre,4
+Ærø,1,Marstal,"B_Anne_Balslev,_Ærøskøbing","Anne Balslev, Ærøskøbing",Radikale Venstre,1
+Ærø,1,Marstal,"B_Erik_Jørs,_Marstal","Erik Jørs, Marstal",Radikale Venstre,4
+Ærø,1,Marstal,"B_Lars_Rimfalk_Jensen,_Marstal","Lars Rimfalk Jensen, Marstal",Radikale Venstre,2
+Ærø,1,Marstal,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,30
+Ærø,1,Marstal,C_Mads_Boeberg_Hansen,Mads Boeberg Hansen,Det Konservative Folkeparti,164
+Ærø,1,Marstal,C_Søren_Laxy,Søren Laxy,Det Konservative Folkeparti,107
+Ærø,1,Marstal,C_Leo_Holm,Leo Holm,Det Konservative Folkeparti,37
+Ærø,1,Marstal,C_Charlotte_Aabye,Charlotte Aabye,Det Konservative Folkeparti,11
+Ærø,1,Marstal,C_Frank_Thorsted,Frank Thorsted,Det Konservative Folkeparti,14
+Ærø,1,Marstal,C_Thomas_Wang_Larsen,Thomas Wang Larsen,Det Konservative Folkeparti,3
+Ærø,1,Marstal,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,24
+Ærø,1,Marstal,"F_Minna_Henriksen,_Bregninge","Minna Henriksen, Bregninge",SF - Socialistisk Folkeparti,24
+Ærø,1,Marstal,"F_Jette_Roust_Iversen,_Ærøskøbing","Jette Roust Iversen, Ærøskøbing",SF - Socialistisk Folkeparti,7
+Ærø,1,Marstal,"F_Line_Strandgaard,_Ærøskøbing","Line Strandgaard, Ærøskøbing",SF - Socialistisk Folkeparti,5
+Ærø,1,Marstal,"F_Heidi_Priebe_Beck,_Søby","Heidi Priebe Beck, Søby",SF - Socialistisk Folkeparti,0
+Ærø,1,Marstal,M_Listestemmer,Listestemmer,Ærø i Centrum,15
+Ærø,1,Marstal,M_Jens_Weiss,Jens Weiss,Ærø i Centrum,131
+Ærø,1,Marstal,M_Paul_Erik_Düring_Pedersen,Paul Erik Düring Pedersen,Ærø i Centrum,3
+Ærø,1,Marstal,M_Preben_T._Jørgensen,Preben T. Jørgensen,Ærø i Centrum,0
+Ærø,1,Marstal,M_Frank_Varsnæs,Frank Varsnæs,Ærø i Centrum,0
+Ærø,1,Marstal,M_Gorm_Truelsen,Gorm Truelsen,Ærø i Centrum,0
+Ærø,1,Marstal,M_Gitte_Bott,Gitte Bott,Ærø i Centrum,4
+Ærø,1,Marstal,O_Listestemmer,Listestemmer,Dansk Folkeparti,23
+Ærø,1,Marstal,O_Flemming_Boye,Flemming Boye,Dansk Folkeparti,100
+Ærø,1,Marstal,O_Bente_Friis_Andersen,Bente Friis Andersen,Dansk Folkeparti,104
+Ærø,1,Marstal,O_Inger_M._Ziegler,Inger M. Ziegler,Dansk Folkeparti,17
+Ærø,1,Marstal,O_Anette_Kristensen,Anette Kristensen,Dansk Folkeparti,12
+Ærø,1,Marstal,P_Listestemmer,Listestemmer,ÆrøPlus,30
+Ærø,1,Marstal,P_Inga_Blom_Thomas,Inga Blom Thomas,ÆrøPlus,361
+Ærø,1,Marstal,P_Carl_Jørgen_Heide,Carl Jørgen Heide,ÆrøPlus,78
+Ærø,1,Marstal,P_Knud_Borck,Knud Borck,ÆrøPlus,36
+Ærø,1,Marstal,P_Susanne_Brøndum,Susanne Brøndum,ÆrøPlus,11
+Ærø,1,Marstal,P_Klaus_Fynsk_Norup,Klaus Fynsk Norup,ÆrøPlus,9
+Ærø,1,Marstal,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",9
+Ærø,1,Marstal,V_Lennart_L._Mogensen,Lennart L. Mogensen,"Venstre, Danmarks Liberale Parti",17
+Ærø,1,Marstal,V_Iza_Alfredsen,Iza Alfredsen,"Venstre, Danmarks Liberale Parti",58
+Ærø,1,Marstal,V_Peter_Noltenius,Peter Noltenius,"Venstre, Danmarks Liberale Parti",3
+Ærø,1,Marstal,V_Bjarne_Nissen,Bjarne Nissen,"Venstre, Danmarks Liberale Parti",1
+Ærø,1,Marstal,V_Lisbeth_Lumby_Rasmussen,Lisbeth Lumby Rasmussen,"Venstre, Danmarks Liberale Parti",2
+Ærø,1,Marstal,V_Bente_Christensen,Bente Christensen,"Venstre, Danmarks Liberale Parti",2
+Ærø,1,Marstal,Æ_Listestemmer,Listestemmer,Ærøs Fremtid,5
+Ærø,1,Marstal,"Æ_Bent_Juul_Sørensen,_Dunkær","Bent Juul Sørensen, Dunkær",Ærøs Fremtid,46
+Ærø,1,Marstal,"Æ_Inger-Marie_Albertsen,_Ærøskøbing","Inger-Marie Albertsen, Ærøskøbing",Ærøs Fremtid,3
+Ærø,1,Marstal,"Æ_Morten_Aunsborg,_Dunkærmark","Morten Aunsborg, Dunkærmark",Ærøs Fremtid,8
+Ærø,1,Marstal,"Æ_Ole_Gilberg,_Marstal","Ole Gilberg, Marstal",Ærøs Fremtid,12
+Ærø,1,Marstal,"Æ_Birger_Dovald_Petersen,_Søby","Birger Dovald Petersen, Søby",Ærøs Fremtid,1
+Ærø,1,Marstal,"Æ_Lasse_Kjærgaard_Larsen,_Marstal","Lasse Kjærgaard Larsen, Marstal",Ærøs Fremtid,8
+Ærø,2,Ærøskøbing,A_Listestemmer,Listestemmer,Socialdemokratiet,42
+Ærø,2,Ærøskøbing,A_Peter_Hansted,Peter Hansted,Socialdemokratiet,222
+Ærø,2,Ærøskøbing,A_Karin_Thumilaire,Karin Thumilaire,Socialdemokratiet,23
+Ærø,2,Ærøskøbing,A_Hans_Peter_Rønn_Bolding,Hans Peter Rønn Bolding,Socialdemokratiet,112
+Ærø,2,Ærøskøbing,A_Johannes_Renneberg,Johannes Renneberg,Socialdemokratiet,11
+Ærø,2,Ærøskøbing,A_Jørgen_Roos,Jørgen Roos,Socialdemokratiet,6
+Ærø,2,Ærøskøbing,A_Leslie_Rabuchin,Leslie Rabuchin,Socialdemokratiet,2
+Ærø,2,Ærøskøbing,A_Ole_Wej_Petersen,Ole Wej Petersen,Socialdemokratiet,20
+Ærø,2,Ærøskøbing,B_Listestemmer,Listestemmer,Radikale Venstre,8
+Ærø,2,Ærøskøbing,"B_Morten_Brixtofte_Petersen,_Søby","Morten Brixtofte Petersen, Søby",Radikale Venstre,23
+Ærø,2,Ærøskøbing,"B_Michael_Brande,_Skovby","Michael Brande, Skovby",Radikale Venstre,9
+Ærø,2,Ærøskøbing,"B_Anne_Balslev,_Ærøskøbing","Anne Balslev, Ærøskøbing",Radikale Venstre,4
+Ærø,2,Ærøskøbing,"B_Erik_Jørs,_Marstal","Erik Jørs, Marstal",Radikale Venstre,3
+Ærø,2,Ærøskøbing,"B_Lars_Rimfalk_Jensen,_Marstal","Lars Rimfalk Jensen, Marstal",Radikale Venstre,0
+Ærø,2,Ærøskøbing,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,16
+Ærø,2,Ærøskøbing,C_Mads_Boeberg_Hansen,Mads Boeberg Hansen,Det Konservative Folkeparti,65
+Ærø,2,Ærøskøbing,C_Søren_Laxy,Søren Laxy,Det Konservative Folkeparti,19
+Ærø,2,Ærøskøbing,C_Leo_Holm,Leo Holm,Det Konservative Folkeparti,18
+Ærø,2,Ærøskøbing,C_Charlotte_Aabye,Charlotte Aabye,Det Konservative Folkeparti,2
+Ærø,2,Ærøskøbing,C_Frank_Thorsted,Frank Thorsted,Det Konservative Folkeparti,5
+Ærø,2,Ærøskøbing,C_Thomas_Wang_Larsen,Thomas Wang Larsen,Det Konservative Folkeparti,0
+Ærø,2,Ærøskøbing,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,15
+Ærø,2,Ærøskøbing,"F_Minna_Henriksen,_Bregninge","Minna Henriksen, Bregninge",SF - Socialistisk Folkeparti,60
+Ærø,2,Ærøskøbing,"F_Jette_Roust_Iversen,_Ærøskøbing","Jette Roust Iversen, Ærøskøbing",SF - Socialistisk Folkeparti,18
+Ærø,2,Ærøskøbing,"F_Line_Strandgaard,_Ærøskøbing","Line Strandgaard, Ærøskøbing",SF - Socialistisk Folkeparti,24
+Ærø,2,Ærøskøbing,"F_Heidi_Priebe_Beck,_Søby","Heidi Priebe Beck, Søby",SF - Socialistisk Folkeparti,2
+Ærø,2,Ærøskøbing,M_Listestemmer,Listestemmer,Ærø i Centrum,2
+Ærø,2,Ærøskøbing,M_Jens_Weiss,Jens Weiss,Ærø i Centrum,33
+Ærø,2,Ærøskøbing,M_Paul_Erik_Düring_Pedersen,Paul Erik Düring Pedersen,Ærø i Centrum,10
+Ærø,2,Ærøskøbing,M_Preben_T._Jørgensen,Preben T. Jørgensen,Ærø i Centrum,0
+Ærø,2,Ærøskøbing,M_Frank_Varsnæs,Frank Varsnæs,Ærø i Centrum,0
+Ærø,2,Ærøskøbing,M_Gorm_Truelsen,Gorm Truelsen,Ærø i Centrum,2
+Ærø,2,Ærøskøbing,M_Gitte_Bott,Gitte Bott,Ærø i Centrum,0
+Ærø,2,Ærøskøbing,O_Listestemmer,Listestemmer,Dansk Folkeparti,13
+Ærø,2,Ærøskøbing,O_Flemming_Boye,Flemming Boye,Dansk Folkeparti,7
+Ærø,2,Ærøskøbing,O_Bente_Friis_Andersen,Bente Friis Andersen,Dansk Folkeparti,1
+Ærø,2,Ærøskøbing,O_Inger_M._Ziegler,Inger M. Ziegler,Dansk Folkeparti,1
+Ærø,2,Ærøskøbing,O_Anette_Kristensen,Anette Kristensen,Dansk Folkeparti,0
+Ærø,2,Ærøskøbing,P_Listestemmer,Listestemmer,ÆrøPlus,14
+Ærø,2,Ærøskøbing,P_Inga_Blom_Thomas,Inga Blom Thomas,ÆrøPlus,132
+Ærø,2,Ærøskøbing,P_Carl_Jørgen_Heide,Carl Jørgen Heide,ÆrøPlus,21
+Ærø,2,Ærøskøbing,P_Knud_Borck,Knud Borck,ÆrøPlus,5
+Ærø,2,Ærøskøbing,P_Susanne_Brøndum,Susanne Brøndum,ÆrøPlus,3
+Ærø,2,Ærøskøbing,P_Klaus_Fynsk_Norup,Klaus Fynsk Norup,ÆrøPlus,8
+Ærø,2,Ærøskøbing,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",30
+Ærø,2,Ærøskøbing,V_Lennart_L._Mogensen,Lennart L. Mogensen,"Venstre, Danmarks Liberale Parti",65
+Ærø,2,Ærøskøbing,V_Iza_Alfredsen,Iza Alfredsen,"Venstre, Danmarks Liberale Parti",52
+Ærø,2,Ærøskøbing,V_Peter_Noltenius,Peter Noltenius,"Venstre, Danmarks Liberale Parti",24
+Ærø,2,Ærøskøbing,V_Bjarne_Nissen,Bjarne Nissen,"Venstre, Danmarks Liberale Parti",6
+Ærø,2,Ærøskøbing,V_Lisbeth_Lumby_Rasmussen,Lisbeth Lumby Rasmussen,"Venstre, Danmarks Liberale Parti",8
+Ærø,2,Ærøskøbing,V_Bente_Christensen,Bente Christensen,"Venstre, Danmarks Liberale Parti",0
+Ærø,2,Ærøskøbing,Æ_Listestemmer,Listestemmer,Ærøs Fremtid,13
+Ærø,2,Ærøskøbing,"Æ_Bent_Juul_Sørensen,_Dunkær","Bent Juul Sørensen, Dunkær",Ærøs Fremtid,216
+Ærø,2,Ærøskøbing,"Æ_Inger-Marie_Albertsen,_Ærøskøbing","Inger-Marie Albertsen, Ærøskøbing",Ærøs Fremtid,38
+Ærø,2,Ærøskøbing,"Æ_Morten_Aunsborg,_Dunkærmark","Morten Aunsborg, Dunkærmark",Ærøs Fremtid,8
+Ærø,2,Ærøskøbing,"Æ_Ole_Gilberg,_Marstal","Ole Gilberg, Marstal",Ærøs Fremtid,2
+Ærø,2,Ærøskøbing,"Æ_Birger_Dovald_Petersen,_Søby","Birger Dovald Petersen, Søby",Ærøs Fremtid,0
+Ærø,2,Ærøskøbing,"Æ_Lasse_Kjærgaard_Larsen,_Marstal","Lasse Kjærgaard Larsen, Marstal",Ærøs Fremtid,2
+Ærø,3,Søby,A_Listestemmer,Listestemmer,Socialdemokratiet,13
+Ærø,3,Søby,A_Peter_Hansted,Peter Hansted,Socialdemokratiet,99
+Ærø,3,Søby,A_Karin_Thumilaire,Karin Thumilaire,Socialdemokratiet,15
+Ærø,3,Søby,A_Hans_Peter_Rønn_Bolding,Hans Peter Rønn Bolding,Socialdemokratiet,14
+Ærø,3,Søby,A_Johannes_Renneberg,Johannes Renneberg,Socialdemokratiet,13
+Ærø,3,Søby,A_Jørgen_Roos,Jørgen Roos,Socialdemokratiet,2
+Ærø,3,Søby,A_Leslie_Rabuchin,Leslie Rabuchin,Socialdemokratiet,1
+Ærø,3,Søby,A_Ole_Wej_Petersen,Ole Wej Petersen,Socialdemokratiet,4
+Ærø,3,Søby,B_Listestemmer,Listestemmer,Radikale Venstre,3
+Ærø,3,Søby,"B_Morten_Brixtofte_Petersen,_Søby","Morten Brixtofte Petersen, Søby",Radikale Venstre,20
+Ærø,3,Søby,"B_Michael_Brande,_Skovby","Michael Brande, Skovby",Radikale Venstre,6
+Ærø,3,Søby,"B_Anne_Balslev,_Ærøskøbing","Anne Balslev, Ærøskøbing",Radikale Venstre,1
+Ærø,3,Søby,"B_Erik_Jørs,_Marstal","Erik Jørs, Marstal",Radikale Venstre,1
+Ærø,3,Søby,"B_Lars_Rimfalk_Jensen,_Marstal","Lars Rimfalk Jensen, Marstal",Radikale Venstre,0
+Ærø,3,Søby,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,2
+Ærø,3,Søby,C_Mads_Boeberg_Hansen,Mads Boeberg Hansen,Det Konservative Folkeparti,26
+Ærø,3,Søby,C_Søren_Laxy,Søren Laxy,Det Konservative Folkeparti,13
+Ærø,3,Søby,C_Leo_Holm,Leo Holm,Det Konservative Folkeparti,6
+Ærø,3,Søby,C_Charlotte_Aabye,Charlotte Aabye,Det Konservative Folkeparti,1
+Ærø,3,Søby,C_Frank_Thorsted,Frank Thorsted,Det Konservative Folkeparti,1
+Ærø,3,Søby,C_Thomas_Wang_Larsen,Thomas Wang Larsen,Det Konservative Folkeparti,10
+Ærø,3,Søby,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,7
+Ærø,3,Søby,"F_Minna_Henriksen,_Bregninge","Minna Henriksen, Bregninge",SF - Socialistisk Folkeparti,45
+Ærø,3,Søby,"F_Jette_Roust_Iversen,_Ærøskøbing","Jette Roust Iversen, Ærøskøbing",SF - Socialistisk Folkeparti,1
+Ærø,3,Søby,"F_Line_Strandgaard,_Ærøskøbing","Line Strandgaard, Ærøskøbing",SF - Socialistisk Folkeparti,8
+Ærø,3,Søby,"F_Heidi_Priebe_Beck,_Søby","Heidi Priebe Beck, Søby",SF - Socialistisk Folkeparti,4
+Ærø,3,Søby,M_Listestemmer,Listestemmer,Ærø i Centrum,2
+Ærø,3,Søby,M_Jens_Weiss,Jens Weiss,Ærø i Centrum,75
+Ærø,3,Søby,M_Paul_Erik_Düring_Pedersen,Paul Erik Düring Pedersen,Ærø i Centrum,2
+Ærø,3,Søby,M_Preben_T._Jørgensen,Preben T. Jørgensen,Ærø i Centrum,0
+Ærø,3,Søby,M_Frank_Varsnæs,Frank Varsnæs,Ærø i Centrum,0
+Ærø,3,Søby,M_Gorm_Truelsen,Gorm Truelsen,Ærø i Centrum,0
+Ærø,3,Søby,M_Gitte_Bott,Gitte Bott,Ærø i Centrum,0
+Ærø,3,Søby,O_Listestemmer,Listestemmer,Dansk Folkeparti,3
+Ærø,3,Søby,O_Flemming_Boye,Flemming Boye,Dansk Folkeparti,2
+Ærø,3,Søby,O_Bente_Friis_Andersen,Bente Friis Andersen,Dansk Folkeparti,1
+Ærø,3,Søby,O_Inger_M._Ziegler,Inger M. Ziegler,Dansk Folkeparti,3
+Ærø,3,Søby,O_Anette_Kristensen,Anette Kristensen,Dansk Folkeparti,1
+Ærø,3,Søby,P_Listestemmer,Listestemmer,ÆrøPlus,6
+Ærø,3,Søby,P_Inga_Blom_Thomas,Inga Blom Thomas,ÆrøPlus,107
+Ærø,3,Søby,P_Carl_Jørgen_Heide,Carl Jørgen Heide,ÆrøPlus,11
+Ærø,3,Søby,P_Knud_Borck,Knud Borck,ÆrøPlus,0
+Ærø,3,Søby,P_Susanne_Brøndum,Susanne Brøndum,ÆrøPlus,1
+Ærø,3,Søby,P_Klaus_Fynsk_Norup,Klaus Fynsk Norup,ÆrøPlus,3
+Ærø,3,Søby,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",8
+Ærø,3,Søby,V_Lennart_L._Mogensen,Lennart L. Mogensen,"Venstre, Danmarks Liberale Parti",27
+Ærø,3,Søby,V_Iza_Alfredsen,Iza Alfredsen,"Venstre, Danmarks Liberale Parti",24
+Ærø,3,Søby,V_Peter_Noltenius,Peter Noltenius,"Venstre, Danmarks Liberale Parti",1
+Ærø,3,Søby,V_Bjarne_Nissen,Bjarne Nissen,"Venstre, Danmarks Liberale Parti",37
+Ærø,3,Søby,V_Lisbeth_Lumby_Rasmussen,Lisbeth Lumby Rasmussen,"Venstre, Danmarks Liberale Parti",0
+Ærø,3,Søby,V_Bente_Christensen,Bente Christensen,"Venstre, Danmarks Liberale Parti",4
+Ærø,3,Søby,Æ_Listestemmer,Listestemmer,Ærøs Fremtid,5
+Ærø,3,Søby,"Æ_Bent_Juul_Sørensen,_Dunkær","Bent Juul Sørensen, Dunkær",Ærøs Fremtid,57
+Ærø,3,Søby,"Æ_Inger-Marie_Albertsen,_Ærøskøbing","Inger-Marie Albertsen, Ærøskøbing",Ærøs Fremtid,6
+Ærø,3,Søby,"Æ_Morten_Aunsborg,_Dunkærmark","Morten Aunsborg, Dunkærmark",Ærøs Fremtid,0
+Ærø,3,Søby,"Æ_Ole_Gilberg,_Marstal","Ole Gilberg, Marstal",Ærøs Fremtid,1
+Ærø,3,Søby,"Æ_Birger_Dovald_Petersen,_Søby","Birger Dovald Petersen, Søby",Ærøs Fremtid,3
+Ærø,3,Søby,"Æ_Lasse_Kjærgaard_Larsen,_Marstal","Lasse Kjærgaard Larsen, Marstal",Ærøs Fremtid,1

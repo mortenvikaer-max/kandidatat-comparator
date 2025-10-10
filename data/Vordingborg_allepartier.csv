@@ -1,0 +1,1667 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Vordingborg,1,Vordingborg,A_Listestemmer,Listestemmer,Socialdemokratiet,210
+Vordingborg,1,Vordingborg,A_Mikael_Smed,Mikael Smed,Socialdemokratiet,400
+Vordingborg,1,Vordingborg,A_Brit_Skovgaard,Brit Skovgaard,Socialdemokratiet,18
+Vordingborg,1,Vordingborg,A_Anders_J._Andersen,Anders J. Andersen,Socialdemokratiet,52
+Vordingborg,1,Vordingborg,A_Mette_Høgh_Christiansen,Mette Høgh Christiansen,Socialdemokratiet,36
+Vordingborg,1,Vordingborg,A_Nikolaj_W._Reichel,Nikolaj W. Reichel,Socialdemokratiet,13
+Vordingborg,1,Vordingborg,A_Kenneth_Andersen,Kenneth Andersen,Socialdemokratiet,8
+Vordingborg,1,Vordingborg,A_Poul_A._Larsen,Poul A. Larsen,Socialdemokratiet,61
+Vordingborg,1,Vordingborg,A_Tine_Bagger_Hansen,Tine Bagger Hansen,Socialdemokratiet,10
+Vordingborg,1,Vordingborg,A_Kurt_Johansen,Kurt Johansen,Socialdemokratiet,0
+Vordingborg,1,Vordingborg,A_Henriette_Fentz_Leithoff,Henriette Fentz Leithoff,Socialdemokratiet,12
+Vordingborg,1,Vordingborg,A_Louise_Herløv,Louise Herløv,Socialdemokratiet,12
+Vordingborg,1,Vordingborg,A_Rasmus_Oxfeldt_Larsen,Rasmus Oxfeldt Larsen,Socialdemokratiet,5
+Vordingborg,1,Vordingborg,A_Lis_Jespersen,Lis Jespersen,Socialdemokratiet,4
+Vordingborg,1,Vordingborg,A_Line_Dahl_Abildgaard,Line Dahl Abildgaard,Socialdemokratiet,15
+Vordingborg,1,Vordingborg,A_Michael_Larsen,Michael Larsen,Socialdemokratiet,128
+Vordingborg,1,Vordingborg,A_Jacob_Kamper,Jacob Kamper,Socialdemokratiet,24
+Vordingborg,1,Vordingborg,A_Susanne_Littau,Susanne Littau,Socialdemokratiet,2
+Vordingborg,1,Vordingborg,A_Jens-Peter_Hansen,Jens-Peter Hansen,Socialdemokratiet,17
+Vordingborg,1,Vordingborg,A_Jens_Ravn,Jens Ravn,Socialdemokratiet,6
+Vordingborg,1,Vordingborg,A_Carsten_Olsen,Carsten Olsen,Socialdemokratiet,19
+Vordingborg,1,Vordingborg,A_Flemming_Mortensen,Flemming Mortensen,Socialdemokratiet,21
+Vordingborg,1,Vordingborg,A_Emil_Roest,Emil Roest,Socialdemokratiet,15
+Vordingborg,1,Vordingborg,A_Bigman_A._Nkunkununu,Bigman A. Nkunkununu,Socialdemokratiet,9
+Vordingborg,1,Vordingborg,A_Jens_Larsen,Jens Larsen,Socialdemokratiet,1
+Vordingborg,1,Vordingborg,A_Shadie_Louk,Shadie Louk,Socialdemokratiet,5
+Vordingborg,1,Vordingborg,B_Listestemmer,Listestemmer,Radikale Venstre,20
+Vordingborg,1,Vordingborg,"B_Michael_Larsen,_Stege","Michael Larsen, Stege",Radikale Venstre,17
+Vordingborg,1,Vordingborg,"B_Kathrine_Olldag,_Vordingborg","Kathrine Olldag, Vordingborg",Radikale Venstre,27
+Vordingborg,1,Vordingborg,"B_Patrick_Mathias_Rasmussen,_Vording","Patrick Mathias Rasmussen, Vording",Radikale Venstre,19
+Vordingborg,1,Vordingborg,"B_Patricia_Rabjerg,_Stege","Patricia Rabjerg, Stege",Radikale Venstre,2
+Vordingborg,1,Vordingborg,"B_Lars_Bakke_Olsen,_Askeby","Lars Bakke Olsen, Askeby",Radikale Venstre,3
+Vordingborg,1,Vordingborg,"B_Carsten_Nøhr_Larsen,_Kalvehave","Carsten Nøhr Larsen, Kalvehave",Radikale Venstre,0
+Vordingborg,1,Vordingborg,"B_Vibeke_Grønbæk,_Vordingborg","Vibeke Grønbæk, Vordingborg",Radikale Venstre,7
+Vordingborg,1,Vordingborg,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,86
+Vordingborg,1,Vordingborg,"C_Jesper_Adler,_Vordingborg","Jesper Adler, Vordingborg",Det Konservative Folkeparti,155
+Vordingborg,1,Vordingborg,"C_Daniel_Irvold,_Lundby","Daniel Irvold, Lundby",Det Konservative Folkeparti,10
+Vordingborg,1,Vordingborg,"C_Lis_Due_Rasmussen,_Stege","Lis Due Rasmussen, Stege",Det Konservative Folkeparti,2
+Vordingborg,1,Vordingborg,"C_Pia_Viltoft_Wamberg,_Vordingborg","Pia Viltoft Wamberg, Vordingborg",Det Konservative Folkeparti,53
+Vordingborg,1,Vordingborg,"C_Jens_Christian_Børsmose,_Vordingbo","Jens Christian Børsmose, Vordingbo",Det Konservative Folkeparti,24
+Vordingborg,1,Vordingborg,"C_Carsten_Geert_Rasmussen,_Vordingbo","Carsten Geert Rasmussen, Vordingbo",Det Konservative Folkeparti,46
+Vordingborg,1,Vordingborg,"C_Jens-Christian_Brandt_Jørgensen,_N","Jens-Christian Brandt Jørgensen, N",Det Konservative Folkeparti,8
+Vordingborg,1,Vordingborg,"C_Lars_Skov_Andersen,_Fanefjord","Lars Skov Andersen, Fanefjord",Det Konservative Folkeparti,2
+Vordingborg,1,Vordingborg,"C_Karsten_Sevel,_Bogø","Karsten Sevel, Bogø",Det Konservative Folkeparti,2
+Vordingborg,1,Vordingborg,"C_Per_Damkjær_Juhl,_Vordingborg","Per Damkjær Juhl, Vordingborg",Det Konservative Folkeparti,4
+Vordingborg,1,Vordingborg,"C_Jesper_Bergiel_Nielsen,_Øster_Eges","Jesper Bergiel Nielsen, Øster Eges",Det Konservative Folkeparti,4
+Vordingborg,1,Vordingborg,D_Listestemmer,Listestemmer,Nye Borgerlige,27
+Vordingborg,1,Vordingborg,D_Heino_Hahn,Heino Hahn,Nye Borgerlige,15
+Vordingborg,1,Vordingborg,D_Glenn_Hansen,Glenn Hansen,Nye Borgerlige,11
+Vordingborg,1,Vordingborg,D_John_Pawlik,John Pawlik,Nye Borgerlige,3
+Vordingborg,1,Vordingborg,D_Jørn_Rasmussen,Jørn Rasmussen,Nye Borgerlige,7
+Vordingborg,1,Vordingborg,D_Michael_Andersen,Michael Andersen,Nye Borgerlige,7
+Vordingborg,1,Vordingborg,D_Tom_Nielsen,Tom Nielsen,Nye Borgerlige,4
+Vordingborg,1,Vordingborg,D_Kasper_Christiansen,Kasper Christiansen,Nye Borgerlige,2
+Vordingborg,1,Vordingborg,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,49
+Vordingborg,1,Vordingborg,F_Else-Marie_Langballe_Sørensen,Else-Marie Langballe Sørensen,SF - Socialistisk Folkeparti,178
+Vordingborg,1,Vordingborg,F_Michael_Ryberg_Juliussen,Michael Ryberg Juliussen,SF - Socialistisk Folkeparti,13
+Vordingborg,1,Vordingborg,F_Marie_Lenstrup,Marie Lenstrup,SF - Socialistisk Folkeparti,10
+Vordingborg,1,Vordingborg,F_Jesper_K._Feldballe_Hansen,Jesper K. Feldballe Hansen,SF - Socialistisk Folkeparti,14
+Vordingborg,1,Vordingborg,F_Gitte_Corell,Gitte Corell,SF - Socialistisk Folkeparti,39
+Vordingborg,1,Vordingborg,F_Lena_Schroll,Lena Schroll,SF - Socialistisk Folkeparti,21
+Vordingborg,1,Vordingborg,F_Henrik_Ægidius,Henrik Ægidius,SF - Socialistisk Folkeparti,2
+Vordingborg,1,Vordingborg,F_Karin_O._Jørgensen,Karin O. Jørgensen,SF - Socialistisk Folkeparti,4
+Vordingborg,1,Vordingborg,O_Listestemmer,Listestemmer,Dansk Folkeparti,30
+Vordingborg,1,Vordingborg,O_Søren_Hansen,Søren Hansen,Dansk Folkeparti,16
+Vordingborg,1,Vordingborg,O_Per_Stig_Sørensen,Per Stig Sørensen,Dansk Folkeparti,7
+Vordingborg,1,Vordingborg,O_Helle_Jørgensen,Helle Jørgensen,Dansk Folkeparti,3
+Vordingborg,1,Vordingborg,O_Marie_Hansen,Marie Hansen,Dansk Folkeparti,7
+Vordingborg,1,Vordingborg,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",71
+Vordingborg,1,Vordingborg,"V_Karina_Fromberg,_Præstø","Karina Fromberg, Præstø","Venstre, Danmarks Liberale Parti",82
+Vordingborg,1,Vordingborg,"V_Michael_Seiding_Larsen,Vordingborg","Michael Seiding Larsen,Vordingborg","Venstre, Danmarks Liberale Parti",281
+Vordingborg,1,Vordingborg,"V_Eva_Sommer-Madsen,_Vordingborg","Eva Sommer-Madsen, Vordingborg","Venstre, Danmarks Liberale Parti",52
+Vordingborg,1,Vordingborg,"V_Peter_Ole_Sørensen,_Præstø","Peter Ole Sørensen, Præstø","Venstre, Danmarks Liberale Parti",3
+Vordingborg,1,Vordingborg,"V_Karina_Foss,_Møn","Karina Foss, Møn","Venstre, Danmarks Liberale Parti",13
+Vordingborg,1,Vordingborg,"V_Bo_Manderup,_Præstø","Bo Manderup, Præstø","Venstre, Danmarks Liberale Parti",9
+Vordingborg,1,Vordingborg,"V_Ole_Hansen,_Møn","Ole Hansen, Møn","Venstre, Danmarks Liberale Parti",2
+Vordingborg,1,Vordingborg,"V_Anne-Marie_Jacobsen,_Stensved","Anne-Marie Jacobsen, Stensved","Venstre, Danmarks Liberale Parti",8
+Vordingborg,1,Vordingborg,"V_Ronni_Lykkehus,_Vordingborg","Ronni Lykkehus, Vordingborg","Venstre, Danmarks Liberale Parti",37
+Vordingborg,1,Vordingborg,"V_Kristina_Themsen,_Bårse","Kristina Themsen, Bårse","Venstre, Danmarks Liberale Parti",7
+Vordingborg,1,Vordingborg,"V_Babette_Bjørklund,_Vordingborg","Babette Bjørklund, Vordingborg","Venstre, Danmarks Liberale Parti",3
+Vordingborg,1,Vordingborg,"V_Gert_Tonny_Larsen,_Nyråd","Gert Tonny Larsen, Nyråd","Venstre, Danmarks Liberale Parti",3
+Vordingborg,1,Vordingborg,"V_Jonna_Henriksen,_Mern","Jonna Henriksen, Mern","Venstre, Danmarks Liberale Parti",0
+Vordingborg,1,Vordingborg,"V_Arne_Rasmussen,_Lundby","Arne Rasmussen, Lundby","Venstre, Danmarks Liberale Parti",2
+Vordingborg,1,Vordingborg,Æ_Listestemmer,Listestemmer,Fælleslisten,6
+Vordingborg,1,Vordingborg,Æ_Charlotte_Bagge_Hansen,Charlotte Bagge Hansen,Fælleslisten,15
+Vordingborg,1,Vordingborg,Æ_Torben_Folke_Månsson,Torben Folke Månsson,Fælleslisten,8
+Vordingborg,1,Vordingborg,Æ_Else-Marie_Theisen,Else-Marie Theisen,Fælleslisten,2
+Vordingborg,1,Vordingborg,Æ_Laura_Folke_Månsson,Laura Folke Månsson,Fælleslisten,5
+Vordingborg,1,Vordingborg,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,46
+Vordingborg,1,Vordingborg,"Ø_Mette_Gerdøe,_Nyråd","Mette Gerdøe, Nyråd",Enhedslisten - De Rød-Grønne,29
+Vordingborg,1,Vordingborg,"Ø_Martin_Graff_Jørgensen,_Bogø_By","Martin Graff Jørgensen, Bogø By",Enhedslisten - De Rød-Grønne,31
+Vordingborg,1,Vordingborg,"Ø_Tage_Vestergaard,_Vordingborg","Tage Vestergaard, Vordingborg",Enhedslisten - De Rød-Grønne,8
+Vordingborg,1,Vordingborg,"Ø_Morten_Pihl,_Stege_Møn","Morten Pihl, Stege Møn",Enhedslisten - De Rød-Grønne,0
+Vordingborg,1,Vordingborg,"Ø_Palle_Eghjort,_Vordingborg","Palle Eghjort, Vordingborg",Enhedslisten - De Rød-Grønne,0
+Vordingborg,1,Vordingborg,"Ø_Jan_Simon,_Hårbølle_Havn_Møn","Jan Simon, Hårbølle Havn Møn",Enhedslisten - De Rød-Grønne,4
+Vordingborg,1,Vordingborg,Å_Listestemmer,Listestemmer,Alternativet,9
+Vordingborg,1,Vordingborg,"Å_Annabianca_C._Milter,_Møn","Annabianca C. Milter, Møn",Alternativet,17
+Vordingborg,1,Vordingborg,"Å_Lene_Ezzaaf,_Bårse","Lene Ezzaaf, Bårse",Alternativet,0
+Vordingborg,2,Masnedsund,A_Listestemmer,Listestemmer,Socialdemokratiet,201
+Vordingborg,2,Masnedsund,A_Mikael_Smed,Mikael Smed,Socialdemokratiet,344
+Vordingborg,2,Masnedsund,A_Brit_Skovgaard,Brit Skovgaard,Socialdemokratiet,14
+Vordingborg,2,Masnedsund,A_Anders_J._Andersen,Anders J. Andersen,Socialdemokratiet,35
+Vordingborg,2,Masnedsund,A_Mette_Høgh_Christiansen,Mette Høgh Christiansen,Socialdemokratiet,32
+Vordingborg,2,Masnedsund,A_Nikolaj_W._Reichel,Nikolaj W. Reichel,Socialdemokratiet,6
+Vordingborg,2,Masnedsund,A_Kenneth_Andersen,Kenneth Andersen,Socialdemokratiet,5
+Vordingborg,2,Masnedsund,A_Poul_A._Larsen,Poul A. Larsen,Socialdemokratiet,27
+Vordingborg,2,Masnedsund,A_Tine_Bagger_Hansen,Tine Bagger Hansen,Socialdemokratiet,10
+Vordingborg,2,Masnedsund,A_Kurt_Johansen,Kurt Johansen,Socialdemokratiet,2
+Vordingborg,2,Masnedsund,A_Henriette_Fentz_Leithoff,Henriette Fentz Leithoff,Socialdemokratiet,11
+Vordingborg,2,Masnedsund,A_Louise_Herløv,Louise Herløv,Socialdemokratiet,8
+Vordingborg,2,Masnedsund,A_Rasmus_Oxfeldt_Larsen,Rasmus Oxfeldt Larsen,Socialdemokratiet,2
+Vordingborg,2,Masnedsund,A_Lis_Jespersen,Lis Jespersen,Socialdemokratiet,1
+Vordingborg,2,Masnedsund,A_Line_Dahl_Abildgaard,Line Dahl Abildgaard,Socialdemokratiet,10
+Vordingborg,2,Masnedsund,A_Michael_Larsen,Michael Larsen,Socialdemokratiet,55
+Vordingborg,2,Masnedsund,A_Jacob_Kamper,Jacob Kamper,Socialdemokratiet,10
+Vordingborg,2,Masnedsund,A_Susanne_Littau,Susanne Littau,Socialdemokratiet,2
+Vordingborg,2,Masnedsund,A_Jens-Peter_Hansen,Jens-Peter Hansen,Socialdemokratiet,36
+Vordingborg,2,Masnedsund,A_Jens_Ravn,Jens Ravn,Socialdemokratiet,7
+Vordingborg,2,Masnedsund,A_Carsten_Olsen,Carsten Olsen,Socialdemokratiet,20
+Vordingborg,2,Masnedsund,A_Flemming_Mortensen,Flemming Mortensen,Socialdemokratiet,13
+Vordingborg,2,Masnedsund,A_Emil_Roest,Emil Roest,Socialdemokratiet,15
+Vordingborg,2,Masnedsund,A_Bigman_A._Nkunkununu,Bigman A. Nkunkununu,Socialdemokratiet,7
+Vordingborg,2,Masnedsund,A_Jens_Larsen,Jens Larsen,Socialdemokratiet,1
+Vordingborg,2,Masnedsund,A_Shadie_Louk,Shadie Louk,Socialdemokratiet,1
+Vordingborg,2,Masnedsund,B_Listestemmer,Listestemmer,Radikale Venstre,12
+Vordingborg,2,Masnedsund,"B_Michael_Larsen,_Stege","Michael Larsen, Stege",Radikale Venstre,9
+Vordingborg,2,Masnedsund,"B_Kathrine_Olldag,_Vordingborg","Kathrine Olldag, Vordingborg",Radikale Venstre,44
+Vordingborg,2,Masnedsund,"B_Patrick_Mathias_Rasmussen,_Vording","Patrick Mathias Rasmussen, Vording",Radikale Venstre,16
+Vordingborg,2,Masnedsund,"B_Patricia_Rabjerg,_Stege","Patricia Rabjerg, Stege",Radikale Venstre,4
+Vordingborg,2,Masnedsund,"B_Lars_Bakke_Olsen,_Askeby","Lars Bakke Olsen, Askeby",Radikale Venstre,2
+Vordingborg,2,Masnedsund,"B_Carsten_Nøhr_Larsen,_Kalvehave","Carsten Nøhr Larsen, Kalvehave",Radikale Venstre,1
+Vordingborg,2,Masnedsund,"B_Vibeke_Grønbæk,_Vordingborg","Vibeke Grønbæk, Vordingborg",Radikale Venstre,1
+Vordingborg,2,Masnedsund,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,63
+Vordingborg,2,Masnedsund,"C_Jesper_Adler,_Vordingborg","Jesper Adler, Vordingborg",Det Konservative Folkeparti,113
+Vordingborg,2,Masnedsund,"C_Daniel_Irvold,_Lundby","Daniel Irvold, Lundby",Det Konservative Folkeparti,6
+Vordingborg,2,Masnedsund,"C_Lis_Due_Rasmussen,_Stege","Lis Due Rasmussen, Stege",Det Konservative Folkeparti,4
+Vordingborg,2,Masnedsund,"C_Pia_Viltoft_Wamberg,_Vordingborg","Pia Viltoft Wamberg, Vordingborg",Det Konservative Folkeparti,22
+Vordingborg,2,Masnedsund,"C_Jens_Christian_Børsmose,_Vordingbo","Jens Christian Børsmose, Vordingbo",Det Konservative Folkeparti,11
+Vordingborg,2,Masnedsund,"C_Carsten_Geert_Rasmussen,_Vordingbo","Carsten Geert Rasmussen, Vordingbo",Det Konservative Folkeparti,55
+Vordingborg,2,Masnedsund,"C_Jens-Christian_Brandt_Jørgensen,_N","Jens-Christian Brandt Jørgensen, N",Det Konservative Folkeparti,1
+Vordingborg,2,Masnedsund,"C_Lars_Skov_Andersen,_Fanefjord","Lars Skov Andersen, Fanefjord",Det Konservative Folkeparti,1
+Vordingborg,2,Masnedsund,"C_Karsten_Sevel,_Bogø","Karsten Sevel, Bogø",Det Konservative Folkeparti,4
+Vordingborg,2,Masnedsund,"C_Per_Damkjær_Juhl,_Vordingborg","Per Damkjær Juhl, Vordingborg",Det Konservative Folkeparti,0
+Vordingborg,2,Masnedsund,"C_Jesper_Bergiel_Nielsen,_Øster_Eges","Jesper Bergiel Nielsen, Øster Eges",Det Konservative Folkeparti,4
+Vordingborg,2,Masnedsund,D_Listestemmer,Listestemmer,Nye Borgerlige,31
+Vordingborg,2,Masnedsund,D_Heino_Hahn,Heino Hahn,Nye Borgerlige,10
+Vordingborg,2,Masnedsund,D_Glenn_Hansen,Glenn Hansen,Nye Borgerlige,11
+Vordingborg,2,Masnedsund,D_John_Pawlik,John Pawlik,Nye Borgerlige,2
+Vordingborg,2,Masnedsund,D_Jørn_Rasmussen,Jørn Rasmussen,Nye Borgerlige,11
+Vordingborg,2,Masnedsund,D_Michael_Andersen,Michael Andersen,Nye Borgerlige,4
+Vordingborg,2,Masnedsund,D_Tom_Nielsen,Tom Nielsen,Nye Borgerlige,11
+Vordingborg,2,Masnedsund,D_Kasper_Christiansen,Kasper Christiansen,Nye Borgerlige,1
+Vordingborg,2,Masnedsund,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,48
+Vordingborg,2,Masnedsund,F_Else-Marie_Langballe_Sørensen,Else-Marie Langballe Sørensen,SF - Socialistisk Folkeparti,132
+Vordingborg,2,Masnedsund,F_Michael_Ryberg_Juliussen,Michael Ryberg Juliussen,SF - Socialistisk Folkeparti,8
+Vordingborg,2,Masnedsund,F_Marie_Lenstrup,Marie Lenstrup,SF - Socialistisk Folkeparti,9
+Vordingborg,2,Masnedsund,F_Jesper_K._Feldballe_Hansen,Jesper K. Feldballe Hansen,SF - Socialistisk Folkeparti,7
+Vordingborg,2,Masnedsund,F_Gitte_Corell,Gitte Corell,SF - Socialistisk Folkeparti,21
+Vordingborg,2,Masnedsund,F_Lena_Schroll,Lena Schroll,SF - Socialistisk Folkeparti,17
+Vordingborg,2,Masnedsund,F_Henrik_Ægidius,Henrik Ægidius,SF - Socialistisk Folkeparti,0
+Vordingborg,2,Masnedsund,F_Karin_O._Jørgensen,Karin O. Jørgensen,SF - Socialistisk Folkeparti,2
+Vordingborg,2,Masnedsund,O_Listestemmer,Listestemmer,Dansk Folkeparti,42
+Vordingborg,2,Masnedsund,O_Søren_Hansen,Søren Hansen,Dansk Folkeparti,26
+Vordingborg,2,Masnedsund,O_Per_Stig_Sørensen,Per Stig Sørensen,Dansk Folkeparti,9
+Vordingborg,2,Masnedsund,O_Helle_Jørgensen,Helle Jørgensen,Dansk Folkeparti,8
+Vordingborg,2,Masnedsund,O_Marie_Hansen,Marie Hansen,Dansk Folkeparti,9
+Vordingborg,2,Masnedsund,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",72
+Vordingborg,2,Masnedsund,"V_Karina_Fromberg,_Præstø","Karina Fromberg, Præstø","Venstre, Danmarks Liberale Parti",83
+Vordingborg,2,Masnedsund,"V_Michael_Seiding_Larsen,Vordingborg","Michael Seiding Larsen,Vordingborg","Venstre, Danmarks Liberale Parti",220
+Vordingborg,2,Masnedsund,"V_Eva_Sommer-Madsen,_Vordingborg","Eva Sommer-Madsen, Vordingborg","Venstre, Danmarks Liberale Parti",37
+Vordingborg,2,Masnedsund,"V_Peter_Ole_Sørensen,_Præstø","Peter Ole Sørensen, Præstø","Venstre, Danmarks Liberale Parti",4
+Vordingborg,2,Masnedsund,"V_Karina_Foss,_Møn","Karina Foss, Møn","Venstre, Danmarks Liberale Parti",4
+Vordingborg,2,Masnedsund,"V_Bo_Manderup,_Præstø","Bo Manderup, Præstø","Venstre, Danmarks Liberale Parti",1
+Vordingborg,2,Masnedsund,"V_Ole_Hansen,_Møn","Ole Hansen, Møn","Venstre, Danmarks Liberale Parti",1
+Vordingborg,2,Masnedsund,"V_Anne-Marie_Jacobsen,_Stensved","Anne-Marie Jacobsen, Stensved","Venstre, Danmarks Liberale Parti",3
+Vordingborg,2,Masnedsund,"V_Ronni_Lykkehus,_Vordingborg","Ronni Lykkehus, Vordingborg","Venstre, Danmarks Liberale Parti",31
+Vordingborg,2,Masnedsund,"V_Kristina_Themsen,_Bårse","Kristina Themsen, Bårse","Venstre, Danmarks Liberale Parti",2
+Vordingborg,2,Masnedsund,"V_Babette_Bjørklund,_Vordingborg","Babette Bjørklund, Vordingborg","Venstre, Danmarks Liberale Parti",2
+Vordingborg,2,Masnedsund,"V_Gert_Tonny_Larsen,_Nyråd","Gert Tonny Larsen, Nyråd","Venstre, Danmarks Liberale Parti",1
+Vordingborg,2,Masnedsund,"V_Jonna_Henriksen,_Mern","Jonna Henriksen, Mern","Venstre, Danmarks Liberale Parti",2
+Vordingborg,2,Masnedsund,"V_Arne_Rasmussen,_Lundby","Arne Rasmussen, Lundby","Venstre, Danmarks Liberale Parti",0
+Vordingborg,2,Masnedsund,Æ_Listestemmer,Listestemmer,Fælleslisten,5
+Vordingborg,2,Masnedsund,Æ_Charlotte_Bagge_Hansen,Charlotte Bagge Hansen,Fælleslisten,10
+Vordingborg,2,Masnedsund,Æ_Torben_Folke_Månsson,Torben Folke Månsson,Fælleslisten,9
+Vordingborg,2,Masnedsund,Æ_Else-Marie_Theisen,Else-Marie Theisen,Fælleslisten,0
+Vordingborg,2,Masnedsund,Æ_Laura_Folke_Månsson,Laura Folke Månsson,Fælleslisten,3
+Vordingborg,2,Masnedsund,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,41
+Vordingborg,2,Masnedsund,"Ø_Mette_Gerdøe,_Nyråd","Mette Gerdøe, Nyråd",Enhedslisten - De Rød-Grønne,28
+Vordingborg,2,Masnedsund,"Ø_Martin_Graff_Jørgensen,_Bogø_By","Martin Graff Jørgensen, Bogø By",Enhedslisten - De Rød-Grønne,20
+Vordingborg,2,Masnedsund,"Ø_Tage_Vestergaard,_Vordingborg","Tage Vestergaard, Vordingborg",Enhedslisten - De Rød-Grønne,11
+Vordingborg,2,Masnedsund,"Ø_Morten_Pihl,_Stege_Møn","Morten Pihl, Stege Møn",Enhedslisten - De Rød-Grønne,2
+Vordingborg,2,Masnedsund,"Ø_Palle_Eghjort,_Vordingborg","Palle Eghjort, Vordingborg",Enhedslisten - De Rød-Grønne,1
+Vordingborg,2,Masnedsund,"Ø_Jan_Simon,_Hårbølle_Havn_Møn","Jan Simon, Hårbølle Havn Møn",Enhedslisten - De Rød-Grønne,2
+Vordingborg,2,Masnedsund,Å_Listestemmer,Listestemmer,Alternativet,7
+Vordingborg,2,Masnedsund,"Å_Annabianca_C._Milter,_Møn","Annabianca C. Milter, Møn",Alternativet,3
+Vordingborg,2,Masnedsund,"Å_Lene_Ezzaaf,_Bårse","Lene Ezzaaf, Bårse",Alternativet,4
+Vordingborg,3,Nyråd,A_Listestemmer,Listestemmer,Socialdemokratiet,134
+Vordingborg,3,Nyråd,A_Mikael_Smed,Mikael Smed,Socialdemokratiet,218
+Vordingborg,3,Nyråd,A_Brit_Skovgaard,Brit Skovgaard,Socialdemokratiet,12
+Vordingborg,3,Nyråd,A_Anders_J._Andersen,Anders J. Andersen,Socialdemokratiet,9
+Vordingborg,3,Nyråd,A_Mette_Høgh_Christiansen,Mette Høgh Christiansen,Socialdemokratiet,50
+Vordingborg,3,Nyråd,A_Nikolaj_W._Reichel,Nikolaj W. Reichel,Socialdemokratiet,6
+Vordingborg,3,Nyråd,A_Kenneth_Andersen,Kenneth Andersen,Socialdemokratiet,9
+Vordingborg,3,Nyråd,A_Poul_A._Larsen,Poul A. Larsen,Socialdemokratiet,6
+Vordingborg,3,Nyråd,A_Tine_Bagger_Hansen,Tine Bagger Hansen,Socialdemokratiet,2
+Vordingborg,3,Nyråd,A_Kurt_Johansen,Kurt Johansen,Socialdemokratiet,2
+Vordingborg,3,Nyråd,A_Henriette_Fentz_Leithoff,Henriette Fentz Leithoff,Socialdemokratiet,4
+Vordingborg,3,Nyråd,A_Louise_Herløv,Louise Herløv,Socialdemokratiet,3
+Vordingborg,3,Nyråd,A_Rasmus_Oxfeldt_Larsen,Rasmus Oxfeldt Larsen,Socialdemokratiet,1
+Vordingborg,3,Nyråd,A_Lis_Jespersen,Lis Jespersen,Socialdemokratiet,2
+Vordingborg,3,Nyråd,A_Line_Dahl_Abildgaard,Line Dahl Abildgaard,Socialdemokratiet,4
+Vordingborg,3,Nyråd,A_Michael_Larsen,Michael Larsen,Socialdemokratiet,14
+Vordingborg,3,Nyråd,A_Jacob_Kamper,Jacob Kamper,Socialdemokratiet,63
+Vordingborg,3,Nyråd,A_Susanne_Littau,Susanne Littau,Socialdemokratiet,1
+Vordingborg,3,Nyråd,A_Jens-Peter_Hansen,Jens-Peter Hansen,Socialdemokratiet,10
+Vordingborg,3,Nyråd,A_Jens_Ravn,Jens Ravn,Socialdemokratiet,4
+Vordingborg,3,Nyråd,A_Carsten_Olsen,Carsten Olsen,Socialdemokratiet,3
+Vordingborg,3,Nyråd,A_Flemming_Mortensen,Flemming Mortensen,Socialdemokratiet,12
+Vordingborg,3,Nyråd,A_Emil_Roest,Emil Roest,Socialdemokratiet,3
+Vordingborg,3,Nyråd,A_Bigman_A._Nkunkununu,Bigman A. Nkunkununu,Socialdemokratiet,3
+Vordingborg,3,Nyråd,A_Jens_Larsen,Jens Larsen,Socialdemokratiet,0
+Vordingborg,3,Nyråd,A_Shadie_Louk,Shadie Louk,Socialdemokratiet,1
+Vordingborg,3,Nyråd,B_Listestemmer,Listestemmer,Radikale Venstre,16
+Vordingborg,3,Nyråd,"B_Michael_Larsen,_Stege","Michael Larsen, Stege",Radikale Venstre,10
+Vordingborg,3,Nyråd,"B_Kathrine_Olldag,_Vordingborg","Kathrine Olldag, Vordingborg",Radikale Venstre,34
+Vordingborg,3,Nyråd,"B_Patrick_Mathias_Rasmussen,_Vording","Patrick Mathias Rasmussen, Vording",Radikale Venstre,1
+Vordingborg,3,Nyråd,"B_Patricia_Rabjerg,_Stege","Patricia Rabjerg, Stege",Radikale Venstre,0
+Vordingborg,3,Nyråd,"B_Lars_Bakke_Olsen,_Askeby","Lars Bakke Olsen, Askeby",Radikale Venstre,2
+Vordingborg,3,Nyråd,"B_Carsten_Nøhr_Larsen,_Kalvehave","Carsten Nøhr Larsen, Kalvehave",Radikale Venstre,0
+Vordingborg,3,Nyråd,"B_Vibeke_Grønbæk,_Vordingborg","Vibeke Grønbæk, Vordingborg",Radikale Venstre,16
+Vordingborg,3,Nyråd,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,60
+Vordingborg,3,Nyråd,"C_Jesper_Adler,_Vordingborg","Jesper Adler, Vordingborg",Det Konservative Folkeparti,109
+Vordingborg,3,Nyråd,"C_Daniel_Irvold,_Lundby","Daniel Irvold, Lundby",Det Konservative Folkeparti,7
+Vordingborg,3,Nyråd,"C_Lis_Due_Rasmussen,_Stege","Lis Due Rasmussen, Stege",Det Konservative Folkeparti,19
+Vordingborg,3,Nyråd,"C_Pia_Viltoft_Wamberg,_Vordingborg","Pia Viltoft Wamberg, Vordingborg",Det Konservative Folkeparti,32
+Vordingborg,3,Nyråd,"C_Jens_Christian_Børsmose,_Vordingbo","Jens Christian Børsmose, Vordingbo",Det Konservative Folkeparti,6
+Vordingborg,3,Nyråd,"C_Carsten_Geert_Rasmussen,_Vordingbo","Carsten Geert Rasmussen, Vordingbo",Det Konservative Folkeparti,22
+Vordingborg,3,Nyråd,"C_Jens-Christian_Brandt_Jørgensen,_N","Jens-Christian Brandt Jørgensen, N",Det Konservative Folkeparti,21
+Vordingborg,3,Nyråd,"C_Lars_Skov_Andersen,_Fanefjord","Lars Skov Andersen, Fanefjord",Det Konservative Folkeparti,1
+Vordingborg,3,Nyråd,"C_Karsten_Sevel,_Bogø","Karsten Sevel, Bogø",Det Konservative Folkeparti,3
+Vordingborg,3,Nyråd,"C_Per_Damkjær_Juhl,_Vordingborg","Per Damkjær Juhl, Vordingborg",Det Konservative Folkeparti,2
+Vordingborg,3,Nyråd,"C_Jesper_Bergiel_Nielsen,_Øster_Eges","Jesper Bergiel Nielsen, Øster Eges",Det Konservative Folkeparti,2
+Vordingborg,3,Nyråd,D_Listestemmer,Listestemmer,Nye Borgerlige,19
+Vordingborg,3,Nyråd,D_Heino_Hahn,Heino Hahn,Nye Borgerlige,8
+Vordingborg,3,Nyråd,D_Glenn_Hansen,Glenn Hansen,Nye Borgerlige,8
+Vordingborg,3,Nyråd,D_John_Pawlik,John Pawlik,Nye Borgerlige,1
+Vordingborg,3,Nyråd,D_Jørn_Rasmussen,Jørn Rasmussen,Nye Borgerlige,7
+Vordingborg,3,Nyråd,D_Michael_Andersen,Michael Andersen,Nye Borgerlige,1
+Vordingborg,3,Nyråd,D_Tom_Nielsen,Tom Nielsen,Nye Borgerlige,3
+Vordingborg,3,Nyråd,D_Kasper_Christiansen,Kasper Christiansen,Nye Borgerlige,0
+Vordingborg,3,Nyråd,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,30
+Vordingborg,3,Nyråd,F_Else-Marie_Langballe_Sørensen,Else-Marie Langballe Sørensen,SF - Socialistisk Folkeparti,87
+Vordingborg,3,Nyråd,F_Michael_Ryberg_Juliussen,Michael Ryberg Juliussen,SF - Socialistisk Folkeparti,23
+Vordingborg,3,Nyråd,F_Marie_Lenstrup,Marie Lenstrup,SF - Socialistisk Folkeparti,7
+Vordingborg,3,Nyråd,F_Jesper_K._Feldballe_Hansen,Jesper K. Feldballe Hansen,SF - Socialistisk Folkeparti,5
+Vordingborg,3,Nyråd,F_Gitte_Corell,Gitte Corell,SF - Socialistisk Folkeparti,22
+Vordingborg,3,Nyråd,F_Lena_Schroll,Lena Schroll,SF - Socialistisk Folkeparti,6
+Vordingborg,3,Nyråd,F_Henrik_Ægidius,Henrik Ægidius,SF - Socialistisk Folkeparti,1
+Vordingborg,3,Nyråd,F_Karin_O._Jørgensen,Karin O. Jørgensen,SF - Socialistisk Folkeparti,3
+Vordingborg,3,Nyråd,O_Listestemmer,Listestemmer,Dansk Folkeparti,23
+Vordingborg,3,Nyråd,O_Søren_Hansen,Søren Hansen,Dansk Folkeparti,10
+Vordingborg,3,Nyråd,O_Per_Stig_Sørensen,Per Stig Sørensen,Dansk Folkeparti,3
+Vordingborg,3,Nyråd,O_Helle_Jørgensen,Helle Jørgensen,Dansk Folkeparti,2
+Vordingborg,3,Nyråd,O_Marie_Hansen,Marie Hansen,Dansk Folkeparti,9
+Vordingborg,3,Nyråd,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",53
+Vordingborg,3,Nyråd,"V_Karina_Fromberg,_Præstø","Karina Fromberg, Præstø","Venstre, Danmarks Liberale Parti",64
+Vordingborg,3,Nyråd,"V_Michael_Seiding_Larsen,Vordingborg","Michael Seiding Larsen,Vordingborg","Venstre, Danmarks Liberale Parti",209
+Vordingborg,3,Nyråd,"V_Eva_Sommer-Madsen,_Vordingborg","Eva Sommer-Madsen, Vordingborg","Venstre, Danmarks Liberale Parti",42
+Vordingborg,3,Nyråd,"V_Peter_Ole_Sørensen,_Præstø","Peter Ole Sørensen, Præstø","Venstre, Danmarks Liberale Parti",6
+Vordingborg,3,Nyråd,"V_Karina_Foss,_Møn","Karina Foss, Møn","Venstre, Danmarks Liberale Parti",9
+Vordingborg,3,Nyråd,"V_Bo_Manderup,_Præstø","Bo Manderup, Præstø","Venstre, Danmarks Liberale Parti",4
+Vordingborg,3,Nyråd,"V_Ole_Hansen,_Møn","Ole Hansen, Møn","Venstre, Danmarks Liberale Parti",1
+Vordingborg,3,Nyråd,"V_Anne-Marie_Jacobsen,_Stensved","Anne-Marie Jacobsen, Stensved","Venstre, Danmarks Liberale Parti",16
+Vordingborg,3,Nyråd,"V_Ronni_Lykkehus,_Vordingborg","Ronni Lykkehus, Vordingborg","Venstre, Danmarks Liberale Parti",22
+Vordingborg,3,Nyråd,"V_Kristina_Themsen,_Bårse","Kristina Themsen, Bårse","Venstre, Danmarks Liberale Parti",4
+Vordingborg,3,Nyråd,"V_Babette_Bjørklund,_Vordingborg","Babette Bjørklund, Vordingborg","Venstre, Danmarks Liberale Parti",1
+Vordingborg,3,Nyråd,"V_Gert_Tonny_Larsen,_Nyråd","Gert Tonny Larsen, Nyråd","Venstre, Danmarks Liberale Parti",10
+Vordingborg,3,Nyråd,"V_Jonna_Henriksen,_Mern","Jonna Henriksen, Mern","Venstre, Danmarks Liberale Parti",0
+Vordingborg,3,Nyråd,"V_Arne_Rasmussen,_Lundby","Arne Rasmussen, Lundby","Venstre, Danmarks Liberale Parti",0
+Vordingborg,3,Nyråd,Æ_Listestemmer,Listestemmer,Fælleslisten,1
+Vordingborg,3,Nyråd,Æ_Charlotte_Bagge_Hansen,Charlotte Bagge Hansen,Fælleslisten,9
+Vordingborg,3,Nyråd,Æ_Torben_Folke_Månsson,Torben Folke Månsson,Fælleslisten,6
+Vordingborg,3,Nyråd,Æ_Else-Marie_Theisen,Else-Marie Theisen,Fælleslisten,0
+Vordingborg,3,Nyråd,Æ_Laura_Folke_Månsson,Laura Folke Månsson,Fælleslisten,6
+Vordingborg,3,Nyråd,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,24
+Vordingborg,3,Nyråd,"Ø_Mette_Gerdøe,_Nyråd","Mette Gerdøe, Nyråd",Enhedslisten - De Rød-Grønne,40
+Vordingborg,3,Nyråd,"Ø_Martin_Graff_Jørgensen,_Bogø_By","Martin Graff Jørgensen, Bogø By",Enhedslisten - De Rød-Grønne,26
+Vordingborg,3,Nyråd,"Ø_Tage_Vestergaard,_Vordingborg","Tage Vestergaard, Vordingborg",Enhedslisten - De Rød-Grønne,4
+Vordingborg,3,Nyråd,"Ø_Morten_Pihl,_Stege_Møn","Morten Pihl, Stege Møn",Enhedslisten - De Rød-Grønne,1
+Vordingborg,3,Nyråd,"Ø_Palle_Eghjort,_Vordingborg","Palle Eghjort, Vordingborg",Enhedslisten - De Rød-Grønne,2
+Vordingborg,3,Nyråd,"Ø_Jan_Simon,_Hårbølle_Havn_Møn","Jan Simon, Hårbølle Havn Møn",Enhedslisten - De Rød-Grønne,2
+Vordingborg,3,Nyråd,Å_Listestemmer,Listestemmer,Alternativet,1
+Vordingborg,3,Nyråd,"Å_Annabianca_C._Milter,_Møn","Annabianca C. Milter, Møn",Alternativet,9
+Vordingborg,3,Nyråd,"Å_Lene_Ezzaaf,_Bårse","Lene Ezzaaf, Bårse",Alternativet,1
+Vordingborg,4,Kastrup,A_Listestemmer,Listestemmer,Socialdemokratiet,111
+Vordingborg,4,Kastrup,A_Mikael_Smed,Mikael Smed,Socialdemokratiet,172
+Vordingborg,4,Kastrup,A_Brit_Skovgaard,Brit Skovgaard,Socialdemokratiet,9
+Vordingborg,4,Kastrup,A_Anders_J._Andersen,Anders J. Andersen,Socialdemokratiet,6
+Vordingborg,4,Kastrup,A_Mette_Høgh_Christiansen,Mette Høgh Christiansen,Socialdemokratiet,18
+Vordingborg,4,Kastrup,A_Nikolaj_W._Reichel,Nikolaj W. Reichel,Socialdemokratiet,3
+Vordingborg,4,Kastrup,A_Kenneth_Andersen,Kenneth Andersen,Socialdemokratiet,3
+Vordingborg,4,Kastrup,A_Poul_A._Larsen,Poul A. Larsen,Socialdemokratiet,11
+Vordingborg,4,Kastrup,A_Tine_Bagger_Hansen,Tine Bagger Hansen,Socialdemokratiet,5
+Vordingborg,4,Kastrup,A_Kurt_Johansen,Kurt Johansen,Socialdemokratiet,3
+Vordingborg,4,Kastrup,A_Henriette_Fentz_Leithoff,Henriette Fentz Leithoff,Socialdemokratiet,3
+Vordingborg,4,Kastrup,A_Louise_Herløv,Louise Herløv,Socialdemokratiet,6
+Vordingborg,4,Kastrup,A_Rasmus_Oxfeldt_Larsen,Rasmus Oxfeldt Larsen,Socialdemokratiet,4
+Vordingborg,4,Kastrup,A_Lis_Jespersen,Lis Jespersen,Socialdemokratiet,3
+Vordingborg,4,Kastrup,A_Line_Dahl_Abildgaard,Line Dahl Abildgaard,Socialdemokratiet,3
+Vordingborg,4,Kastrup,A_Michael_Larsen,Michael Larsen,Socialdemokratiet,26
+Vordingborg,4,Kastrup,A_Jacob_Kamper,Jacob Kamper,Socialdemokratiet,9
+Vordingborg,4,Kastrup,A_Susanne_Littau,Susanne Littau,Socialdemokratiet,2
+Vordingborg,4,Kastrup,A_Jens-Peter_Hansen,Jens-Peter Hansen,Socialdemokratiet,30
+Vordingborg,4,Kastrup,A_Jens_Ravn,Jens Ravn,Socialdemokratiet,2
+Vordingborg,4,Kastrup,A_Carsten_Olsen,Carsten Olsen,Socialdemokratiet,59
+Vordingborg,4,Kastrup,A_Flemming_Mortensen,Flemming Mortensen,Socialdemokratiet,4
+Vordingborg,4,Kastrup,A_Emil_Roest,Emil Roest,Socialdemokratiet,2
+Vordingborg,4,Kastrup,A_Bigman_A._Nkunkununu,Bigman A. Nkunkununu,Socialdemokratiet,11
+Vordingborg,4,Kastrup,A_Jens_Larsen,Jens Larsen,Socialdemokratiet,2
+Vordingborg,4,Kastrup,A_Shadie_Louk,Shadie Louk,Socialdemokratiet,1
+Vordingborg,4,Kastrup,B_Listestemmer,Listestemmer,Radikale Venstre,8
+Vordingborg,4,Kastrup,"B_Michael_Larsen,_Stege","Michael Larsen, Stege",Radikale Venstre,4
+Vordingborg,4,Kastrup,"B_Kathrine_Olldag,_Vordingborg","Kathrine Olldag, Vordingborg",Radikale Venstre,10
+Vordingborg,4,Kastrup,"B_Patrick_Mathias_Rasmussen,_Vording","Patrick Mathias Rasmussen, Vording",Radikale Venstre,7
+Vordingborg,4,Kastrup,"B_Patricia_Rabjerg,_Stege","Patricia Rabjerg, Stege",Radikale Venstre,2
+Vordingborg,4,Kastrup,"B_Lars_Bakke_Olsen,_Askeby","Lars Bakke Olsen, Askeby",Radikale Venstre,0
+Vordingborg,4,Kastrup,"B_Carsten_Nøhr_Larsen,_Kalvehave","Carsten Nøhr Larsen, Kalvehave",Radikale Venstre,0
+Vordingborg,4,Kastrup,"B_Vibeke_Grønbæk,_Vordingborg","Vibeke Grønbæk, Vordingborg",Radikale Venstre,8
+Vordingborg,4,Kastrup,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,45
+Vordingborg,4,Kastrup,"C_Jesper_Adler,_Vordingborg","Jesper Adler, Vordingborg",Det Konservative Folkeparti,107
+Vordingborg,4,Kastrup,"C_Daniel_Irvold,_Lundby","Daniel Irvold, Lundby",Det Konservative Folkeparti,12
+Vordingborg,4,Kastrup,"C_Lis_Due_Rasmussen,_Stege","Lis Due Rasmussen, Stege",Det Konservative Folkeparti,1
+Vordingborg,4,Kastrup,"C_Pia_Viltoft_Wamberg,_Vordingborg","Pia Viltoft Wamberg, Vordingborg",Det Konservative Folkeparti,8
+Vordingborg,4,Kastrup,"C_Jens_Christian_Børsmose,_Vordingbo","Jens Christian Børsmose, Vordingbo",Det Konservative Folkeparti,2
+Vordingborg,4,Kastrup,"C_Carsten_Geert_Rasmussen,_Vordingbo","Carsten Geert Rasmussen, Vordingbo",Det Konservative Folkeparti,16
+Vordingborg,4,Kastrup,"C_Jens-Christian_Brandt_Jørgensen,_N","Jens-Christian Brandt Jørgensen, N",Det Konservative Folkeparti,0
+Vordingborg,4,Kastrup,"C_Lars_Skov_Andersen,_Fanefjord","Lars Skov Andersen, Fanefjord",Det Konservative Folkeparti,0
+Vordingborg,4,Kastrup,"C_Karsten_Sevel,_Bogø","Karsten Sevel, Bogø",Det Konservative Folkeparti,3
+Vordingborg,4,Kastrup,"C_Per_Damkjær_Juhl,_Vordingborg","Per Damkjær Juhl, Vordingborg",Det Konservative Folkeparti,2
+Vordingborg,4,Kastrup,"C_Jesper_Bergiel_Nielsen,_Øster_Eges","Jesper Bergiel Nielsen, Øster Eges",Det Konservative Folkeparti,1
+Vordingborg,4,Kastrup,D_Listestemmer,Listestemmer,Nye Borgerlige,22
+Vordingborg,4,Kastrup,D_Heino_Hahn,Heino Hahn,Nye Borgerlige,5
+Vordingborg,4,Kastrup,D_Glenn_Hansen,Glenn Hansen,Nye Borgerlige,7
+Vordingborg,4,Kastrup,D_John_Pawlik,John Pawlik,Nye Borgerlige,1
+Vordingborg,4,Kastrup,D_Jørn_Rasmussen,Jørn Rasmussen,Nye Borgerlige,10
+Vordingborg,4,Kastrup,D_Michael_Andersen,Michael Andersen,Nye Borgerlige,3
+Vordingborg,4,Kastrup,D_Tom_Nielsen,Tom Nielsen,Nye Borgerlige,4
+Vordingborg,4,Kastrup,D_Kasper_Christiansen,Kasper Christiansen,Nye Borgerlige,2
+Vordingborg,4,Kastrup,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,26
+Vordingborg,4,Kastrup,F_Else-Marie_Langballe_Sørensen,Else-Marie Langballe Sørensen,SF - Socialistisk Folkeparti,76
+Vordingborg,4,Kastrup,F_Michael_Ryberg_Juliussen,Michael Ryberg Juliussen,SF - Socialistisk Folkeparti,9
+Vordingborg,4,Kastrup,F_Marie_Lenstrup,Marie Lenstrup,SF - Socialistisk Folkeparti,0
+Vordingborg,4,Kastrup,F_Jesper_K._Feldballe_Hansen,Jesper K. Feldballe Hansen,SF - Socialistisk Folkeparti,8
+Vordingborg,4,Kastrup,F_Gitte_Corell,Gitte Corell,SF - Socialistisk Folkeparti,17
+Vordingborg,4,Kastrup,F_Lena_Schroll,Lena Schroll,SF - Socialistisk Folkeparti,4
+Vordingborg,4,Kastrup,F_Henrik_Ægidius,Henrik Ægidius,SF - Socialistisk Folkeparti,0
+Vordingborg,4,Kastrup,F_Karin_O._Jørgensen,Karin O. Jørgensen,SF - Socialistisk Folkeparti,0
+Vordingborg,4,Kastrup,O_Listestemmer,Listestemmer,Dansk Folkeparti,25
+Vordingborg,4,Kastrup,O_Søren_Hansen,Søren Hansen,Dansk Folkeparti,14
+Vordingborg,4,Kastrup,O_Per_Stig_Sørensen,Per Stig Sørensen,Dansk Folkeparti,5
+Vordingborg,4,Kastrup,O_Helle_Jørgensen,Helle Jørgensen,Dansk Folkeparti,7
+Vordingborg,4,Kastrup,O_Marie_Hansen,Marie Hansen,Dansk Folkeparti,7
+Vordingborg,4,Kastrup,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",49
+Vordingborg,4,Kastrup,"V_Karina_Fromberg,_Præstø","Karina Fromberg, Præstø","Venstre, Danmarks Liberale Parti",41
+Vordingborg,4,Kastrup,"V_Michael_Seiding_Larsen,Vordingborg","Michael Seiding Larsen,Vordingborg","Venstre, Danmarks Liberale Parti",99
+Vordingborg,4,Kastrup,"V_Eva_Sommer-Madsen,_Vordingborg","Eva Sommer-Madsen, Vordingborg","Venstre, Danmarks Liberale Parti",61
+Vordingborg,4,Kastrup,"V_Peter_Ole_Sørensen,_Præstø","Peter Ole Sørensen, Præstø","Venstre, Danmarks Liberale Parti",2
+Vordingborg,4,Kastrup,"V_Karina_Foss,_Møn","Karina Foss, Møn","Venstre, Danmarks Liberale Parti",7
+Vordingborg,4,Kastrup,"V_Bo_Manderup,_Præstø","Bo Manderup, Præstø","Venstre, Danmarks Liberale Parti",1
+Vordingborg,4,Kastrup,"V_Ole_Hansen,_Møn","Ole Hansen, Møn","Venstre, Danmarks Liberale Parti",0
+Vordingborg,4,Kastrup,"V_Anne-Marie_Jacobsen,_Stensved","Anne-Marie Jacobsen, Stensved","Venstre, Danmarks Liberale Parti",4
+Vordingborg,4,Kastrup,"V_Ronni_Lykkehus,_Vordingborg","Ronni Lykkehus, Vordingborg","Venstre, Danmarks Liberale Parti",9
+Vordingborg,4,Kastrup,"V_Kristina_Themsen,_Bårse","Kristina Themsen, Bårse","Venstre, Danmarks Liberale Parti",7
+Vordingborg,4,Kastrup,"V_Babette_Bjørklund,_Vordingborg","Babette Bjørklund, Vordingborg","Venstre, Danmarks Liberale Parti",0
+Vordingborg,4,Kastrup,"V_Gert_Tonny_Larsen,_Nyråd","Gert Tonny Larsen, Nyråd","Venstre, Danmarks Liberale Parti",0
+Vordingborg,4,Kastrup,"V_Jonna_Henriksen,_Mern","Jonna Henriksen, Mern","Venstre, Danmarks Liberale Parti",1
+Vordingborg,4,Kastrup,"V_Arne_Rasmussen,_Lundby","Arne Rasmussen, Lundby","Venstre, Danmarks Liberale Parti",0
+Vordingborg,4,Kastrup,Æ_Listestemmer,Listestemmer,Fælleslisten,3
+Vordingborg,4,Kastrup,Æ_Charlotte_Bagge_Hansen,Charlotte Bagge Hansen,Fælleslisten,4
+Vordingborg,4,Kastrup,Æ_Torben_Folke_Månsson,Torben Folke Månsson,Fælleslisten,3
+Vordingborg,4,Kastrup,Æ_Else-Marie_Theisen,Else-Marie Theisen,Fælleslisten,0
+Vordingborg,4,Kastrup,Æ_Laura_Folke_Månsson,Laura Folke Månsson,Fælleslisten,3
+Vordingborg,4,Kastrup,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,34
+Vordingborg,4,Kastrup,"Ø_Mette_Gerdøe,_Nyråd","Mette Gerdøe, Nyråd",Enhedslisten - De Rød-Grønne,15
+Vordingborg,4,Kastrup,"Ø_Martin_Graff_Jørgensen,_Bogø_By","Martin Graff Jørgensen, Bogø By",Enhedslisten - De Rød-Grønne,15
+Vordingborg,4,Kastrup,"Ø_Tage_Vestergaard,_Vordingborg","Tage Vestergaard, Vordingborg",Enhedslisten - De Rød-Grønne,3
+Vordingborg,4,Kastrup,"Ø_Morten_Pihl,_Stege_Møn","Morten Pihl, Stege Møn",Enhedslisten - De Rød-Grønne,1
+Vordingborg,4,Kastrup,"Ø_Palle_Eghjort,_Vordingborg","Palle Eghjort, Vordingborg",Enhedslisten - De Rød-Grønne,5
+Vordingborg,4,Kastrup,"Ø_Jan_Simon,_Hårbølle_Havn_Møn","Jan Simon, Hårbølle Havn Møn",Enhedslisten - De Rød-Grønne,3
+Vordingborg,4,Kastrup,Å_Listestemmer,Listestemmer,Alternativet,2
+Vordingborg,4,Kastrup,"Å_Annabianca_C._Milter,_Møn","Annabianca C. Milter, Møn",Alternativet,8
+Vordingborg,4,Kastrup,"Å_Lene_Ezzaaf,_Bårse","Lene Ezzaaf, Bårse",Alternativet,1
+Vordingborg,5,Bårse,A_Listestemmer,Listestemmer,Socialdemokratiet,45
+Vordingborg,5,Bårse,A_Mikael_Smed,Mikael Smed,Socialdemokratiet,60
+Vordingborg,5,Bårse,A_Brit_Skovgaard,Brit Skovgaard,Socialdemokratiet,4
+Vordingborg,5,Bårse,A_Anders_J._Andersen,Anders J. Andersen,Socialdemokratiet,2
+Vordingborg,5,Bårse,A_Mette_Høgh_Christiansen,Mette Høgh Christiansen,Socialdemokratiet,3
+Vordingborg,5,Bårse,A_Nikolaj_W._Reichel,Nikolaj W. Reichel,Socialdemokratiet,30
+Vordingborg,5,Bårse,A_Kenneth_Andersen,Kenneth Andersen,Socialdemokratiet,2
+Vordingborg,5,Bårse,A_Poul_A._Larsen,Poul A. Larsen,Socialdemokratiet,1
+Vordingborg,5,Bårse,A_Tine_Bagger_Hansen,Tine Bagger Hansen,Socialdemokratiet,1
+Vordingborg,5,Bårse,A_Kurt_Johansen,Kurt Johansen,Socialdemokratiet,18
+Vordingborg,5,Bårse,A_Henriette_Fentz_Leithoff,Henriette Fentz Leithoff,Socialdemokratiet,2
+Vordingborg,5,Bårse,A_Louise_Herløv,Louise Herløv,Socialdemokratiet,1
+Vordingborg,5,Bårse,A_Rasmus_Oxfeldt_Larsen,Rasmus Oxfeldt Larsen,Socialdemokratiet,0
+Vordingborg,5,Bårse,A_Lis_Jespersen,Lis Jespersen,Socialdemokratiet,3
+Vordingborg,5,Bårse,A_Line_Dahl_Abildgaard,Line Dahl Abildgaard,Socialdemokratiet,2
+Vordingborg,5,Bårse,A_Michael_Larsen,Michael Larsen,Socialdemokratiet,0
+Vordingborg,5,Bårse,A_Jacob_Kamper,Jacob Kamper,Socialdemokratiet,1
+Vordingborg,5,Bårse,A_Susanne_Littau,Susanne Littau,Socialdemokratiet,1
+Vordingborg,5,Bårse,A_Jens-Peter_Hansen,Jens-Peter Hansen,Socialdemokratiet,0
+Vordingborg,5,Bårse,A_Jens_Ravn,Jens Ravn,Socialdemokratiet,0
+Vordingborg,5,Bårse,A_Carsten_Olsen,Carsten Olsen,Socialdemokratiet,0
+Vordingborg,5,Bårse,A_Flemming_Mortensen,Flemming Mortensen,Socialdemokratiet,4
+Vordingborg,5,Bårse,A_Emil_Roest,Emil Roest,Socialdemokratiet,0
+Vordingborg,5,Bårse,A_Bigman_A._Nkunkununu,Bigman A. Nkunkununu,Socialdemokratiet,0
+Vordingborg,5,Bårse,A_Jens_Larsen,Jens Larsen,Socialdemokratiet,0
+Vordingborg,5,Bårse,A_Shadie_Louk,Shadie Louk,Socialdemokratiet,0
+Vordingborg,5,Bårse,B_Listestemmer,Listestemmer,Radikale Venstre,2
+Vordingborg,5,Bårse,"B_Michael_Larsen,_Stege","Michael Larsen, Stege",Radikale Venstre,4
+Vordingborg,5,Bårse,"B_Kathrine_Olldag,_Vordingborg","Kathrine Olldag, Vordingborg",Radikale Venstre,2
+Vordingborg,5,Bårse,"B_Patrick_Mathias_Rasmussen,_Vording","Patrick Mathias Rasmussen, Vording",Radikale Venstre,7
+Vordingborg,5,Bårse,"B_Patricia_Rabjerg,_Stege","Patricia Rabjerg, Stege",Radikale Venstre,1
+Vordingborg,5,Bårse,"B_Lars_Bakke_Olsen,_Askeby","Lars Bakke Olsen, Askeby",Radikale Venstre,0
+Vordingborg,5,Bårse,"B_Carsten_Nøhr_Larsen,_Kalvehave","Carsten Nøhr Larsen, Kalvehave",Radikale Venstre,0
+Vordingborg,5,Bårse,"B_Vibeke_Grønbæk,_Vordingborg","Vibeke Grønbæk, Vordingborg",Radikale Venstre,1
+Vordingborg,5,Bårse,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,13
+Vordingborg,5,Bårse,"C_Jesper_Adler,_Vordingborg","Jesper Adler, Vordingborg",Det Konservative Folkeparti,8
+Vordingborg,5,Bårse,"C_Daniel_Irvold,_Lundby","Daniel Irvold, Lundby",Det Konservative Folkeparti,9
+Vordingborg,5,Bårse,"C_Lis_Due_Rasmussen,_Stege","Lis Due Rasmussen, Stege",Det Konservative Folkeparti,4
+Vordingborg,5,Bårse,"C_Pia_Viltoft_Wamberg,_Vordingborg","Pia Viltoft Wamberg, Vordingborg",Det Konservative Folkeparti,1
+Vordingborg,5,Bårse,"C_Jens_Christian_Børsmose,_Vordingbo","Jens Christian Børsmose, Vordingbo",Det Konservative Folkeparti,0
+Vordingborg,5,Bårse,"C_Carsten_Geert_Rasmussen,_Vordingbo","Carsten Geert Rasmussen, Vordingbo",Det Konservative Folkeparti,1
+Vordingborg,5,Bårse,"C_Jens-Christian_Brandt_Jørgensen,_N","Jens-Christian Brandt Jørgensen, N",Det Konservative Folkeparti,1
+Vordingborg,5,Bårse,"C_Lars_Skov_Andersen,_Fanefjord","Lars Skov Andersen, Fanefjord",Det Konservative Folkeparti,0
+Vordingborg,5,Bårse,"C_Karsten_Sevel,_Bogø","Karsten Sevel, Bogø",Det Konservative Folkeparti,1
+Vordingborg,5,Bårse,"C_Per_Damkjær_Juhl,_Vordingborg","Per Damkjær Juhl, Vordingborg",Det Konservative Folkeparti,0
+Vordingborg,5,Bårse,"C_Jesper_Bergiel_Nielsen,_Øster_Eges","Jesper Bergiel Nielsen, Øster Eges",Det Konservative Folkeparti,1
+Vordingborg,5,Bårse,D_Listestemmer,Listestemmer,Nye Borgerlige,13
+Vordingborg,5,Bårse,D_Heino_Hahn,Heino Hahn,Nye Borgerlige,9
+Vordingborg,5,Bårse,D_Glenn_Hansen,Glenn Hansen,Nye Borgerlige,7
+Vordingborg,5,Bårse,D_John_Pawlik,John Pawlik,Nye Borgerlige,0
+Vordingborg,5,Bårse,D_Jørn_Rasmussen,Jørn Rasmussen,Nye Borgerlige,1
+Vordingborg,5,Bårse,D_Michael_Andersen,Michael Andersen,Nye Borgerlige,0
+Vordingborg,5,Bårse,D_Tom_Nielsen,Tom Nielsen,Nye Borgerlige,1
+Vordingborg,5,Bårse,D_Kasper_Christiansen,Kasper Christiansen,Nye Borgerlige,0
+Vordingborg,5,Bårse,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,9
+Vordingborg,5,Bårse,F_Else-Marie_Langballe_Sørensen,Else-Marie Langballe Sørensen,SF - Socialistisk Folkeparti,3
+Vordingborg,5,Bårse,F_Michael_Ryberg_Juliussen,Michael Ryberg Juliussen,SF - Socialistisk Folkeparti,0
+Vordingborg,5,Bårse,F_Marie_Lenstrup,Marie Lenstrup,SF - Socialistisk Folkeparti,1
+Vordingborg,5,Bårse,F_Jesper_K._Feldballe_Hansen,Jesper K. Feldballe Hansen,SF - Socialistisk Folkeparti,2
+Vordingborg,5,Bårse,F_Gitte_Corell,Gitte Corell,SF - Socialistisk Folkeparti,2
+Vordingborg,5,Bårse,F_Lena_Schroll,Lena Schroll,SF - Socialistisk Folkeparti,0
+Vordingborg,5,Bårse,F_Henrik_Ægidius,Henrik Ægidius,SF - Socialistisk Folkeparti,0
+Vordingborg,5,Bårse,F_Karin_O._Jørgensen,Karin O. Jørgensen,SF - Socialistisk Folkeparti,2
+Vordingborg,5,Bårse,O_Listestemmer,Listestemmer,Dansk Folkeparti,20
+Vordingborg,5,Bårse,O_Søren_Hansen,Søren Hansen,Dansk Folkeparti,7
+Vordingborg,5,Bårse,O_Per_Stig_Sørensen,Per Stig Sørensen,Dansk Folkeparti,4
+Vordingborg,5,Bårse,O_Helle_Jørgensen,Helle Jørgensen,Dansk Folkeparti,4
+Vordingborg,5,Bårse,O_Marie_Hansen,Marie Hansen,Dansk Folkeparti,3
+Vordingborg,5,Bårse,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",20
+Vordingborg,5,Bårse,"V_Karina_Fromberg,_Præstø","Karina Fromberg, Præstø","Venstre, Danmarks Liberale Parti",100
+Vordingborg,5,Bårse,"V_Michael_Seiding_Larsen,Vordingborg","Michael Seiding Larsen,Vordingborg","Venstre, Danmarks Liberale Parti",19
+Vordingborg,5,Bårse,"V_Eva_Sommer-Madsen,_Vordingborg","Eva Sommer-Madsen, Vordingborg","Venstre, Danmarks Liberale Parti",17
+Vordingborg,5,Bårse,"V_Peter_Ole_Sørensen,_Præstø","Peter Ole Sørensen, Præstø","Venstre, Danmarks Liberale Parti",10
+Vordingborg,5,Bårse,"V_Karina_Foss,_Møn","Karina Foss, Møn","Venstre, Danmarks Liberale Parti",1
+Vordingborg,5,Bårse,"V_Bo_Manderup,_Præstø","Bo Manderup, Præstø","Venstre, Danmarks Liberale Parti",7
+Vordingborg,5,Bårse,"V_Ole_Hansen,_Møn","Ole Hansen, Møn","Venstre, Danmarks Liberale Parti",0
+Vordingborg,5,Bårse,"V_Anne-Marie_Jacobsen,_Stensved","Anne-Marie Jacobsen, Stensved","Venstre, Danmarks Liberale Parti",0
+Vordingborg,5,Bårse,"V_Ronni_Lykkehus,_Vordingborg","Ronni Lykkehus, Vordingborg","Venstre, Danmarks Liberale Parti",1
+Vordingborg,5,Bårse,"V_Kristina_Themsen,_Bårse","Kristina Themsen, Bårse","Venstre, Danmarks Liberale Parti",98
+Vordingborg,5,Bårse,"V_Babette_Bjørklund,_Vordingborg","Babette Bjørklund, Vordingborg","Venstre, Danmarks Liberale Parti",0
+Vordingborg,5,Bårse,"V_Gert_Tonny_Larsen,_Nyråd","Gert Tonny Larsen, Nyråd","Venstre, Danmarks Liberale Parti",1
+Vordingborg,5,Bårse,"V_Jonna_Henriksen,_Mern","Jonna Henriksen, Mern","Venstre, Danmarks Liberale Parti",0
+Vordingborg,5,Bårse,"V_Arne_Rasmussen,_Lundby","Arne Rasmussen, Lundby","Venstre, Danmarks Liberale Parti",0
+Vordingborg,5,Bårse,Æ_Listestemmer,Listestemmer,Fælleslisten,0
+Vordingborg,5,Bårse,Æ_Charlotte_Bagge_Hansen,Charlotte Bagge Hansen,Fælleslisten,0
+Vordingborg,5,Bårse,Æ_Torben_Folke_Månsson,Torben Folke Månsson,Fælleslisten,1
+Vordingborg,5,Bårse,Æ_Else-Marie_Theisen,Else-Marie Theisen,Fælleslisten,0
+Vordingborg,5,Bårse,Æ_Laura_Folke_Månsson,Laura Folke Månsson,Fælleslisten,2
+Vordingborg,5,Bårse,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,24
+Vordingborg,5,Bårse,"Ø_Mette_Gerdøe,_Nyråd","Mette Gerdøe, Nyråd",Enhedslisten - De Rød-Grønne,13
+Vordingborg,5,Bårse,"Ø_Martin_Graff_Jørgensen,_Bogø_By","Martin Graff Jørgensen, Bogø By",Enhedslisten - De Rød-Grønne,12
+Vordingborg,5,Bårse,"Ø_Tage_Vestergaard,_Vordingborg","Tage Vestergaard, Vordingborg",Enhedslisten - De Rød-Grønne,3
+Vordingborg,5,Bårse,"Ø_Morten_Pihl,_Stege_Møn","Morten Pihl, Stege Møn",Enhedslisten - De Rød-Grønne,1
+Vordingborg,5,Bårse,"Ø_Palle_Eghjort,_Vordingborg","Palle Eghjort, Vordingborg",Enhedslisten - De Rød-Grønne,0
+Vordingborg,5,Bårse,"Ø_Jan_Simon,_Hårbølle_Havn_Møn","Jan Simon, Hårbølle Havn Møn",Enhedslisten - De Rød-Grønne,0
+Vordingborg,5,Bårse,Å_Listestemmer,Listestemmer,Alternativet,2
+Vordingborg,5,Bårse,"Å_Annabianca_C._Milter,_Møn","Annabianca C. Milter, Møn",Alternativet,7
+Vordingborg,5,Bårse,"Å_Lene_Ezzaaf,_Bårse","Lene Ezzaaf, Bårse",Alternativet,4
+Vordingborg,6,Lundby,A_Listestemmer,Listestemmer,Socialdemokratiet,138
+Vordingborg,6,Lundby,A_Mikael_Smed,Mikael Smed,Socialdemokratiet,209
+Vordingborg,6,Lundby,A_Brit_Skovgaard,Brit Skovgaard,Socialdemokratiet,17
+Vordingborg,6,Lundby,A_Anders_J._Andersen,Anders J. Andersen,Socialdemokratiet,8
+Vordingborg,6,Lundby,A_Mette_Høgh_Christiansen,Mette Høgh Christiansen,Socialdemokratiet,13
+Vordingborg,6,Lundby,A_Nikolaj_W._Reichel,Nikolaj W. Reichel,Socialdemokratiet,19
+Vordingborg,6,Lundby,A_Kenneth_Andersen,Kenneth Andersen,Socialdemokratiet,3
+Vordingborg,6,Lundby,A_Poul_A._Larsen,Poul A. Larsen,Socialdemokratiet,6
+Vordingborg,6,Lundby,A_Tine_Bagger_Hansen,Tine Bagger Hansen,Socialdemokratiet,1
+Vordingborg,6,Lundby,A_Kurt_Johansen,Kurt Johansen,Socialdemokratiet,3
+Vordingborg,6,Lundby,A_Henriette_Fentz_Leithoff,Henriette Fentz Leithoff,Socialdemokratiet,7
+Vordingborg,6,Lundby,A_Louise_Herløv,Louise Herløv,Socialdemokratiet,6
+Vordingborg,6,Lundby,A_Rasmus_Oxfeldt_Larsen,Rasmus Oxfeldt Larsen,Socialdemokratiet,3
+Vordingborg,6,Lundby,A_Lis_Jespersen,Lis Jespersen,Socialdemokratiet,5
+Vordingborg,6,Lundby,A_Line_Dahl_Abildgaard,Line Dahl Abildgaard,Socialdemokratiet,22
+Vordingborg,6,Lundby,A_Michael_Larsen,Michael Larsen,Socialdemokratiet,21
+Vordingborg,6,Lundby,A_Jacob_Kamper,Jacob Kamper,Socialdemokratiet,5
+Vordingborg,6,Lundby,A_Susanne_Littau,Susanne Littau,Socialdemokratiet,10
+Vordingborg,6,Lundby,A_Jens-Peter_Hansen,Jens-Peter Hansen,Socialdemokratiet,9
+Vordingborg,6,Lundby,A_Jens_Ravn,Jens Ravn,Socialdemokratiet,2
+Vordingborg,6,Lundby,A_Carsten_Olsen,Carsten Olsen,Socialdemokratiet,1
+Vordingborg,6,Lundby,A_Flemming_Mortensen,Flemming Mortensen,Socialdemokratiet,2
+Vordingborg,6,Lundby,A_Emil_Roest,Emil Roest,Socialdemokratiet,7
+Vordingborg,6,Lundby,A_Bigman_A._Nkunkununu,Bigman A. Nkunkununu,Socialdemokratiet,5
+Vordingborg,6,Lundby,A_Jens_Larsen,Jens Larsen,Socialdemokratiet,12
+Vordingborg,6,Lundby,A_Shadie_Louk,Shadie Louk,Socialdemokratiet,0
+Vordingborg,6,Lundby,B_Listestemmer,Listestemmer,Radikale Venstre,16
+Vordingborg,6,Lundby,"B_Michael_Larsen,_Stege","Michael Larsen, Stege",Radikale Venstre,4
+Vordingborg,6,Lundby,"B_Kathrine_Olldag,_Vordingborg","Kathrine Olldag, Vordingborg",Radikale Venstre,13
+Vordingborg,6,Lundby,"B_Patrick_Mathias_Rasmussen,_Vording","Patrick Mathias Rasmussen, Vording",Radikale Venstre,5
+Vordingborg,6,Lundby,"B_Patricia_Rabjerg,_Stege","Patricia Rabjerg, Stege",Radikale Venstre,1
+Vordingborg,6,Lundby,"B_Lars_Bakke_Olsen,_Askeby","Lars Bakke Olsen, Askeby",Radikale Venstre,0
+Vordingborg,6,Lundby,"B_Carsten_Nøhr_Larsen,_Kalvehave","Carsten Nøhr Larsen, Kalvehave",Radikale Venstre,0
+Vordingborg,6,Lundby,"B_Vibeke_Grønbæk,_Vordingborg","Vibeke Grønbæk, Vordingborg",Radikale Venstre,2
+Vordingborg,6,Lundby,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,49
+Vordingborg,6,Lundby,"C_Jesper_Adler,_Vordingborg","Jesper Adler, Vordingborg",Det Konservative Folkeparti,45
+Vordingborg,6,Lundby,"C_Daniel_Irvold,_Lundby","Daniel Irvold, Lundby",Det Konservative Folkeparti,243
+Vordingborg,6,Lundby,"C_Lis_Due_Rasmussen,_Stege","Lis Due Rasmussen, Stege",Det Konservative Folkeparti,5
+Vordingborg,6,Lundby,"C_Pia_Viltoft_Wamberg,_Vordingborg","Pia Viltoft Wamberg, Vordingborg",Det Konservative Folkeparti,10
+Vordingborg,6,Lundby,"C_Jens_Christian_Børsmose,_Vordingbo","Jens Christian Børsmose, Vordingbo",Det Konservative Folkeparti,0
+Vordingborg,6,Lundby,"C_Carsten_Geert_Rasmussen,_Vordingbo","Carsten Geert Rasmussen, Vordingbo",Det Konservative Folkeparti,10
+Vordingborg,6,Lundby,"C_Jens-Christian_Brandt_Jørgensen,_N","Jens-Christian Brandt Jørgensen, N",Det Konservative Folkeparti,4
+Vordingborg,6,Lundby,"C_Lars_Skov_Andersen,_Fanefjord","Lars Skov Andersen, Fanefjord",Det Konservative Folkeparti,0
+Vordingborg,6,Lundby,"C_Karsten_Sevel,_Bogø","Karsten Sevel, Bogø",Det Konservative Folkeparti,2
+Vordingborg,6,Lundby,"C_Per_Damkjær_Juhl,_Vordingborg","Per Damkjær Juhl, Vordingborg",Det Konservative Folkeparti,1
+Vordingborg,6,Lundby,"C_Jesper_Bergiel_Nielsen,_Øster_Eges","Jesper Bergiel Nielsen, Øster Eges",Det Konservative Folkeparti,2
+Vordingborg,6,Lundby,D_Listestemmer,Listestemmer,Nye Borgerlige,61
+Vordingborg,6,Lundby,D_Heino_Hahn,Heino Hahn,Nye Borgerlige,23
+Vordingborg,6,Lundby,D_Glenn_Hansen,Glenn Hansen,Nye Borgerlige,16
+Vordingborg,6,Lundby,D_John_Pawlik,John Pawlik,Nye Borgerlige,6
+Vordingborg,6,Lundby,D_Jørn_Rasmussen,Jørn Rasmussen,Nye Borgerlige,21
+Vordingborg,6,Lundby,D_Michael_Andersen,Michael Andersen,Nye Borgerlige,0
+Vordingborg,6,Lundby,D_Tom_Nielsen,Tom Nielsen,Nye Borgerlige,7
+Vordingborg,6,Lundby,D_Kasper_Christiansen,Kasper Christiansen,Nye Borgerlige,3
+Vordingborg,6,Lundby,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,44
+Vordingborg,6,Lundby,F_Else-Marie_Langballe_Sørensen,Else-Marie Langballe Sørensen,SF - Socialistisk Folkeparti,46
+Vordingborg,6,Lundby,F_Michael_Ryberg_Juliussen,Michael Ryberg Juliussen,SF - Socialistisk Folkeparti,1
+Vordingborg,6,Lundby,F_Marie_Lenstrup,Marie Lenstrup,SF - Socialistisk Folkeparti,9
+Vordingborg,6,Lundby,F_Jesper_K._Feldballe_Hansen,Jesper K. Feldballe Hansen,SF - Socialistisk Folkeparti,19
+Vordingborg,6,Lundby,F_Gitte_Corell,Gitte Corell,SF - Socialistisk Folkeparti,13
+Vordingborg,6,Lundby,F_Lena_Schroll,Lena Schroll,SF - Socialistisk Folkeparti,5
+Vordingborg,6,Lundby,F_Henrik_Ægidius,Henrik Ægidius,SF - Socialistisk Folkeparti,0
+Vordingborg,6,Lundby,F_Karin_O._Jørgensen,Karin O. Jørgensen,SF - Socialistisk Folkeparti,2
+Vordingborg,6,Lundby,O_Listestemmer,Listestemmer,Dansk Folkeparti,51
+Vordingborg,6,Lundby,O_Søren_Hansen,Søren Hansen,Dansk Folkeparti,18
+Vordingborg,6,Lundby,O_Per_Stig_Sørensen,Per Stig Sørensen,Dansk Folkeparti,21
+Vordingborg,6,Lundby,O_Helle_Jørgensen,Helle Jørgensen,Dansk Folkeparti,16
+Vordingborg,6,Lundby,O_Marie_Hansen,Marie Hansen,Dansk Folkeparti,40
+Vordingborg,6,Lundby,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",68
+Vordingborg,6,Lundby,"V_Karina_Fromberg,_Præstø","Karina Fromberg, Præstø","Venstre, Danmarks Liberale Parti",79
+Vordingborg,6,Lundby,"V_Michael_Seiding_Larsen,Vordingborg","Michael Seiding Larsen,Vordingborg","Venstre, Danmarks Liberale Parti",82
+Vordingborg,6,Lundby,"V_Eva_Sommer-Madsen,_Vordingborg","Eva Sommer-Madsen, Vordingborg","Venstre, Danmarks Liberale Parti",67
+Vordingborg,6,Lundby,"V_Peter_Ole_Sørensen,_Præstø","Peter Ole Sørensen, Præstø","Venstre, Danmarks Liberale Parti",11
+Vordingborg,6,Lundby,"V_Karina_Foss,_Møn","Karina Foss, Møn","Venstre, Danmarks Liberale Parti",3
+Vordingborg,6,Lundby,"V_Bo_Manderup,_Præstø","Bo Manderup, Præstø","Venstre, Danmarks Liberale Parti",3
+Vordingborg,6,Lundby,"V_Ole_Hansen,_Møn","Ole Hansen, Møn","Venstre, Danmarks Liberale Parti",0
+Vordingborg,6,Lundby,"V_Anne-Marie_Jacobsen,_Stensved","Anne-Marie Jacobsen, Stensved","Venstre, Danmarks Liberale Parti",4
+Vordingborg,6,Lundby,"V_Ronni_Lykkehus,_Vordingborg","Ronni Lykkehus, Vordingborg","Venstre, Danmarks Liberale Parti",10
+Vordingborg,6,Lundby,"V_Kristina_Themsen,_Bårse","Kristina Themsen, Bårse","Venstre, Danmarks Liberale Parti",38
+Vordingborg,6,Lundby,"V_Babette_Bjørklund,_Vordingborg","Babette Bjørklund, Vordingborg","Venstre, Danmarks Liberale Parti",1
+Vordingborg,6,Lundby,"V_Gert_Tonny_Larsen,_Nyråd","Gert Tonny Larsen, Nyråd","Venstre, Danmarks Liberale Parti",4
+Vordingborg,6,Lundby,"V_Jonna_Henriksen,_Mern","Jonna Henriksen, Mern","Venstre, Danmarks Liberale Parti",0
+Vordingborg,6,Lundby,"V_Arne_Rasmussen,_Lundby","Arne Rasmussen, Lundby","Venstre, Danmarks Liberale Parti",14
+Vordingborg,6,Lundby,Æ_Listestemmer,Listestemmer,Fælleslisten,2
+Vordingborg,6,Lundby,Æ_Charlotte_Bagge_Hansen,Charlotte Bagge Hansen,Fælleslisten,7
+Vordingborg,6,Lundby,Æ_Torben_Folke_Månsson,Torben Folke Månsson,Fælleslisten,4
+Vordingborg,6,Lundby,Æ_Else-Marie_Theisen,Else-Marie Theisen,Fælleslisten,0
+Vordingborg,6,Lundby,Æ_Laura_Folke_Månsson,Laura Folke Månsson,Fælleslisten,4
+Vordingborg,6,Lundby,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,47
+Vordingborg,6,Lundby,"Ø_Mette_Gerdøe,_Nyråd","Mette Gerdøe, Nyråd",Enhedslisten - De Rød-Grønne,18
+Vordingborg,6,Lundby,"Ø_Martin_Graff_Jørgensen,_Bogø_By","Martin Graff Jørgensen, Bogø By",Enhedslisten - De Rød-Grønne,12
+Vordingborg,6,Lundby,"Ø_Tage_Vestergaard,_Vordingborg","Tage Vestergaard, Vordingborg",Enhedslisten - De Rød-Grønne,7
+Vordingborg,6,Lundby,"Ø_Morten_Pihl,_Stege_Møn","Morten Pihl, Stege Møn",Enhedslisten - De Rød-Grønne,0
+Vordingborg,6,Lundby,"Ø_Palle_Eghjort,_Vordingborg","Palle Eghjort, Vordingborg",Enhedslisten - De Rød-Grønne,1
+Vordingborg,6,Lundby,"Ø_Jan_Simon,_Hårbølle_Havn_Møn","Jan Simon, Hårbølle Havn Møn",Enhedslisten - De Rød-Grønne,1
+Vordingborg,6,Lundby,Å_Listestemmer,Listestemmer,Alternativet,3
+Vordingborg,6,Lundby,"Å_Annabianca_C._Milter,_Møn","Annabianca C. Milter, Møn",Alternativet,6
+Vordingborg,6,Lundby,"Å_Lene_Ezzaaf,_Bårse","Lene Ezzaaf, Bårse",Alternativet,2
+Vordingborg,7,Ørslev,A_Listestemmer,Listestemmer,Socialdemokratiet,102
+Vordingborg,7,Ørslev,A_Mikael_Smed,Mikael Smed,Socialdemokratiet,156
+Vordingborg,7,Ørslev,A_Brit_Skovgaard,Brit Skovgaard,Socialdemokratiet,4
+Vordingborg,7,Ørslev,A_Anders_J._Andersen,Anders J. Andersen,Socialdemokratiet,7
+Vordingborg,7,Ørslev,A_Mette_Høgh_Christiansen,Mette Høgh Christiansen,Socialdemokratiet,12
+Vordingborg,7,Ørslev,A_Nikolaj_W._Reichel,Nikolaj W. Reichel,Socialdemokratiet,4
+Vordingborg,7,Ørslev,A_Kenneth_Andersen,Kenneth Andersen,Socialdemokratiet,0
+Vordingborg,7,Ørslev,A_Poul_A._Larsen,Poul A. Larsen,Socialdemokratiet,16
+Vordingborg,7,Ørslev,A_Tine_Bagger_Hansen,Tine Bagger Hansen,Socialdemokratiet,6
+Vordingborg,7,Ørslev,A_Kurt_Johansen,Kurt Johansen,Socialdemokratiet,5
+Vordingborg,7,Ørslev,A_Henriette_Fentz_Leithoff,Henriette Fentz Leithoff,Socialdemokratiet,2
+Vordingborg,7,Ørslev,A_Louise_Herløv,Louise Herløv,Socialdemokratiet,3
+Vordingborg,7,Ørslev,A_Rasmus_Oxfeldt_Larsen,Rasmus Oxfeldt Larsen,Socialdemokratiet,0
+Vordingborg,7,Ørslev,A_Lis_Jespersen,Lis Jespersen,Socialdemokratiet,2
+Vordingborg,7,Ørslev,A_Line_Dahl_Abildgaard,Line Dahl Abildgaard,Socialdemokratiet,0
+Vordingborg,7,Ørslev,A_Michael_Larsen,Michael Larsen,Socialdemokratiet,29
+Vordingborg,7,Ørslev,A_Jacob_Kamper,Jacob Kamper,Socialdemokratiet,5
+Vordingborg,7,Ørslev,A_Susanne_Littau,Susanne Littau,Socialdemokratiet,4
+Vordingborg,7,Ørslev,A_Jens-Peter_Hansen,Jens-Peter Hansen,Socialdemokratiet,11
+Vordingborg,7,Ørslev,A_Jens_Ravn,Jens Ravn,Socialdemokratiet,1
+Vordingborg,7,Ørslev,A_Carsten_Olsen,Carsten Olsen,Socialdemokratiet,0
+Vordingborg,7,Ørslev,A_Flemming_Mortensen,Flemming Mortensen,Socialdemokratiet,5
+Vordingborg,7,Ørslev,A_Emil_Roest,Emil Roest,Socialdemokratiet,9
+Vordingborg,7,Ørslev,A_Bigman_A._Nkunkununu,Bigman A. Nkunkununu,Socialdemokratiet,3
+Vordingborg,7,Ørslev,A_Jens_Larsen,Jens Larsen,Socialdemokratiet,0
+Vordingborg,7,Ørslev,A_Shadie_Louk,Shadie Louk,Socialdemokratiet,1
+Vordingborg,7,Ørslev,B_Listestemmer,Listestemmer,Radikale Venstre,5
+Vordingborg,7,Ørslev,"B_Michael_Larsen,_Stege","Michael Larsen, Stege",Radikale Venstre,5
+Vordingborg,7,Ørslev,"B_Kathrine_Olldag,_Vordingborg","Kathrine Olldag, Vordingborg",Radikale Venstre,4
+Vordingborg,7,Ørslev,"B_Patrick_Mathias_Rasmussen,_Vording","Patrick Mathias Rasmussen, Vording",Radikale Venstre,4
+Vordingborg,7,Ørslev,"B_Patricia_Rabjerg,_Stege","Patricia Rabjerg, Stege",Radikale Venstre,0
+Vordingborg,7,Ørslev,"B_Lars_Bakke_Olsen,_Askeby","Lars Bakke Olsen, Askeby",Radikale Venstre,0
+Vordingborg,7,Ørslev,"B_Carsten_Nøhr_Larsen,_Kalvehave","Carsten Nøhr Larsen, Kalvehave",Radikale Venstre,0
+Vordingborg,7,Ørslev,"B_Vibeke_Grønbæk,_Vordingborg","Vibeke Grønbæk, Vordingborg",Radikale Venstre,0
+Vordingborg,7,Ørslev,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,35
+Vordingborg,7,Ørslev,"C_Jesper_Adler,_Vordingborg","Jesper Adler, Vordingborg",Det Konservative Folkeparti,37
+Vordingborg,7,Ørslev,"C_Daniel_Irvold,_Lundby","Daniel Irvold, Lundby",Det Konservative Folkeparti,10
+Vordingborg,7,Ørslev,"C_Lis_Due_Rasmussen,_Stege","Lis Due Rasmussen, Stege",Det Konservative Folkeparti,3
+Vordingborg,7,Ørslev,"C_Pia_Viltoft_Wamberg,_Vordingborg","Pia Viltoft Wamberg, Vordingborg",Det Konservative Folkeparti,8
+Vordingborg,7,Ørslev,"C_Jens_Christian_Børsmose,_Vordingbo","Jens Christian Børsmose, Vordingbo",Det Konservative Folkeparti,0
+Vordingborg,7,Ørslev,"C_Carsten_Geert_Rasmussen,_Vordingbo","Carsten Geert Rasmussen, Vordingbo",Det Konservative Folkeparti,16
+Vordingborg,7,Ørslev,"C_Jens-Christian_Brandt_Jørgensen,_N","Jens-Christian Brandt Jørgensen, N",Det Konservative Folkeparti,0
+Vordingborg,7,Ørslev,"C_Lars_Skov_Andersen,_Fanefjord","Lars Skov Andersen, Fanefjord",Det Konservative Folkeparti,1
+Vordingborg,7,Ørslev,"C_Karsten_Sevel,_Bogø","Karsten Sevel, Bogø",Det Konservative Folkeparti,0
+Vordingborg,7,Ørslev,"C_Per_Damkjær_Juhl,_Vordingborg","Per Damkjær Juhl, Vordingborg",Det Konservative Folkeparti,0
+Vordingborg,7,Ørslev,"C_Jesper_Bergiel_Nielsen,_Øster_Eges","Jesper Bergiel Nielsen, Øster Eges",Det Konservative Folkeparti,2
+Vordingborg,7,Ørslev,D_Listestemmer,Listestemmer,Nye Borgerlige,25
+Vordingborg,7,Ørslev,D_Heino_Hahn,Heino Hahn,Nye Borgerlige,4
+Vordingborg,7,Ørslev,D_Glenn_Hansen,Glenn Hansen,Nye Borgerlige,4
+Vordingborg,7,Ørslev,D_John_Pawlik,John Pawlik,Nye Borgerlige,2
+Vordingborg,7,Ørslev,D_Jørn_Rasmussen,Jørn Rasmussen,Nye Borgerlige,3
+Vordingborg,7,Ørslev,D_Michael_Andersen,Michael Andersen,Nye Borgerlige,2
+Vordingborg,7,Ørslev,D_Tom_Nielsen,Tom Nielsen,Nye Borgerlige,4
+Vordingborg,7,Ørslev,D_Kasper_Christiansen,Kasper Christiansen,Nye Borgerlige,1
+Vordingborg,7,Ørslev,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,14
+Vordingborg,7,Ørslev,F_Else-Marie_Langballe_Sørensen,Else-Marie Langballe Sørensen,SF - Socialistisk Folkeparti,26
+Vordingborg,7,Ørslev,F_Michael_Ryberg_Juliussen,Michael Ryberg Juliussen,SF - Socialistisk Folkeparti,1
+Vordingborg,7,Ørslev,F_Marie_Lenstrup,Marie Lenstrup,SF - Socialistisk Folkeparti,2
+Vordingborg,7,Ørslev,F_Jesper_K._Feldballe_Hansen,Jesper K. Feldballe Hansen,SF - Socialistisk Folkeparti,48
+Vordingborg,7,Ørslev,F_Gitte_Corell,Gitte Corell,SF - Socialistisk Folkeparti,3
+Vordingborg,7,Ørslev,F_Lena_Schroll,Lena Schroll,SF - Socialistisk Folkeparti,3
+Vordingborg,7,Ørslev,F_Henrik_Ægidius,Henrik Ægidius,SF - Socialistisk Folkeparti,0
+Vordingborg,7,Ørslev,F_Karin_O._Jørgensen,Karin O. Jørgensen,SF - Socialistisk Folkeparti,13
+Vordingborg,7,Ørslev,O_Listestemmer,Listestemmer,Dansk Folkeparti,20
+Vordingborg,7,Ørslev,O_Søren_Hansen,Søren Hansen,Dansk Folkeparti,67
+Vordingborg,7,Ørslev,O_Per_Stig_Sørensen,Per Stig Sørensen,Dansk Folkeparti,8
+Vordingborg,7,Ørslev,O_Helle_Jørgensen,Helle Jørgensen,Dansk Folkeparti,8
+Vordingborg,7,Ørslev,O_Marie_Hansen,Marie Hansen,Dansk Folkeparti,4
+Vordingborg,7,Ørslev,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",44
+Vordingborg,7,Ørslev,"V_Karina_Fromberg,_Præstø","Karina Fromberg, Præstø","Venstre, Danmarks Liberale Parti",61
+Vordingborg,7,Ørslev,"V_Michael_Seiding_Larsen,Vordingborg","Michael Seiding Larsen,Vordingborg","Venstre, Danmarks Liberale Parti",79
+Vordingborg,7,Ørslev,"V_Eva_Sommer-Madsen,_Vordingborg","Eva Sommer-Madsen, Vordingborg","Venstre, Danmarks Liberale Parti",41
+Vordingborg,7,Ørslev,"V_Peter_Ole_Sørensen,_Præstø","Peter Ole Sørensen, Præstø","Venstre, Danmarks Liberale Parti",8
+Vordingborg,7,Ørslev,"V_Karina_Foss,_Møn","Karina Foss, Møn","Venstre, Danmarks Liberale Parti",3
+Vordingborg,7,Ørslev,"V_Bo_Manderup,_Præstø","Bo Manderup, Præstø","Venstre, Danmarks Liberale Parti",1
+Vordingborg,7,Ørslev,"V_Ole_Hansen,_Møn","Ole Hansen, Møn","Venstre, Danmarks Liberale Parti",0
+Vordingborg,7,Ørslev,"V_Anne-Marie_Jacobsen,_Stensved","Anne-Marie Jacobsen, Stensved","Venstre, Danmarks Liberale Parti",6
+Vordingborg,7,Ørslev,"V_Ronni_Lykkehus,_Vordingborg","Ronni Lykkehus, Vordingborg","Venstre, Danmarks Liberale Parti",12
+Vordingborg,7,Ørslev,"V_Kristina_Themsen,_Bårse","Kristina Themsen, Bårse","Venstre, Danmarks Liberale Parti",2
+Vordingborg,7,Ørslev,"V_Babette_Bjørklund,_Vordingborg","Babette Bjørklund, Vordingborg","Venstre, Danmarks Liberale Parti",1
+Vordingborg,7,Ørslev,"V_Gert_Tonny_Larsen,_Nyråd","Gert Tonny Larsen, Nyråd","Venstre, Danmarks Liberale Parti",0
+Vordingborg,7,Ørslev,"V_Jonna_Henriksen,_Mern","Jonna Henriksen, Mern","Venstre, Danmarks Liberale Parti",1
+Vordingborg,7,Ørslev,"V_Arne_Rasmussen,_Lundby","Arne Rasmussen, Lundby","Venstre, Danmarks Liberale Parti",2
+Vordingborg,7,Ørslev,Æ_Listestemmer,Listestemmer,Fælleslisten,4
+Vordingborg,7,Ørslev,Æ_Charlotte_Bagge_Hansen,Charlotte Bagge Hansen,Fælleslisten,5
+Vordingborg,7,Ørslev,Æ_Torben_Folke_Månsson,Torben Folke Månsson,Fælleslisten,9
+Vordingborg,7,Ørslev,Æ_Else-Marie_Theisen,Else-Marie Theisen,Fælleslisten,2
+Vordingborg,7,Ørslev,Æ_Laura_Folke_Månsson,Laura Folke Månsson,Fælleslisten,4
+Vordingborg,7,Ørslev,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,18
+Vordingborg,7,Ørslev,"Ø_Mette_Gerdøe,_Nyråd","Mette Gerdøe, Nyråd",Enhedslisten - De Rød-Grønne,8
+Vordingborg,7,Ørslev,"Ø_Martin_Graff_Jørgensen,_Bogø_By","Martin Graff Jørgensen, Bogø By",Enhedslisten - De Rød-Grønne,1
+Vordingborg,7,Ørslev,"Ø_Tage_Vestergaard,_Vordingborg","Tage Vestergaard, Vordingborg",Enhedslisten - De Rød-Grønne,3
+Vordingborg,7,Ørslev,"Ø_Morten_Pihl,_Stege_Møn","Morten Pihl, Stege Møn",Enhedslisten - De Rød-Grønne,0
+Vordingborg,7,Ørslev,"Ø_Palle_Eghjort,_Vordingborg","Palle Eghjort, Vordingborg",Enhedslisten - De Rød-Grønne,0
+Vordingborg,7,Ørslev,"Ø_Jan_Simon,_Hårbølle_Havn_Møn","Jan Simon, Hårbølle Havn Møn",Enhedslisten - De Rød-Grønne,0
+Vordingborg,7,Ørslev,Å_Listestemmer,Listestemmer,Alternativet,2
+Vordingborg,7,Ørslev,"Å_Annabianca_C._Milter,_Møn","Annabianca C. Milter, Møn",Alternativet,4
+Vordingborg,7,Ørslev,"Å_Lene_Ezzaaf,_Bårse","Lene Ezzaaf, Bårse",Alternativet,0
+Vordingborg,8,Stege,A_Listestemmer,Listestemmer,Socialdemokratiet,192
+Vordingborg,8,Stege,A_Mikael_Smed,Mikael Smed,Socialdemokratiet,499
+Vordingborg,8,Stege,A_Brit_Skovgaard,Brit Skovgaard,Socialdemokratiet,128
+Vordingborg,8,Stege,A_Anders_J._Andersen,Anders J. Andersen,Socialdemokratiet,20
+Vordingborg,8,Stege,A_Mette_Høgh_Christiansen,Mette Høgh Christiansen,Socialdemokratiet,9
+Vordingborg,8,Stege,A_Nikolaj_W._Reichel,Nikolaj W. Reichel,Socialdemokratiet,11
+Vordingborg,8,Stege,A_Kenneth_Andersen,Kenneth Andersen,Socialdemokratiet,98
+Vordingborg,8,Stege,A_Poul_A._Larsen,Poul A. Larsen,Socialdemokratiet,0
+Vordingborg,8,Stege,A_Tine_Bagger_Hansen,Tine Bagger Hansen,Socialdemokratiet,53
+Vordingborg,8,Stege,A_Kurt_Johansen,Kurt Johansen,Socialdemokratiet,6
+Vordingborg,8,Stege,A_Henriette_Fentz_Leithoff,Henriette Fentz Leithoff,Socialdemokratiet,2
+Vordingborg,8,Stege,A_Louise_Herløv,Louise Herløv,Socialdemokratiet,1
+Vordingborg,8,Stege,A_Rasmus_Oxfeldt_Larsen,Rasmus Oxfeldt Larsen,Socialdemokratiet,31
+Vordingborg,8,Stege,A_Lis_Jespersen,Lis Jespersen,Socialdemokratiet,1
+Vordingborg,8,Stege,A_Line_Dahl_Abildgaard,Line Dahl Abildgaard,Socialdemokratiet,2
+Vordingborg,8,Stege,A_Michael_Larsen,Michael Larsen,Socialdemokratiet,10
+Vordingborg,8,Stege,A_Jacob_Kamper,Jacob Kamper,Socialdemokratiet,2
+Vordingborg,8,Stege,A_Susanne_Littau,Susanne Littau,Socialdemokratiet,2
+Vordingborg,8,Stege,A_Jens-Peter_Hansen,Jens-Peter Hansen,Socialdemokratiet,2
+Vordingborg,8,Stege,A_Jens_Ravn,Jens Ravn,Socialdemokratiet,8
+Vordingborg,8,Stege,A_Carsten_Olsen,Carsten Olsen,Socialdemokratiet,1
+Vordingborg,8,Stege,A_Flemming_Mortensen,Flemming Mortensen,Socialdemokratiet,0
+Vordingborg,8,Stege,A_Emil_Roest,Emil Roest,Socialdemokratiet,3
+Vordingborg,8,Stege,A_Bigman_A._Nkunkununu,Bigman A. Nkunkununu,Socialdemokratiet,6
+Vordingborg,8,Stege,A_Jens_Larsen,Jens Larsen,Socialdemokratiet,1
+Vordingborg,8,Stege,A_Shadie_Louk,Shadie Louk,Socialdemokratiet,0
+Vordingborg,8,Stege,B_Listestemmer,Listestemmer,Radikale Venstre,16
+Vordingborg,8,Stege,"B_Michael_Larsen,_Stege","Michael Larsen, Stege",Radikale Venstre,78
+Vordingborg,8,Stege,"B_Kathrine_Olldag,_Vordingborg","Kathrine Olldag, Vordingborg",Radikale Venstre,14
+Vordingborg,8,Stege,"B_Patrick_Mathias_Rasmussen,_Vording","Patrick Mathias Rasmussen, Vording",Radikale Venstre,7
+Vordingborg,8,Stege,"B_Patricia_Rabjerg,_Stege","Patricia Rabjerg, Stege",Radikale Venstre,15
+Vordingborg,8,Stege,"B_Lars_Bakke_Olsen,_Askeby","Lars Bakke Olsen, Askeby",Radikale Venstre,5
+Vordingborg,8,Stege,"B_Carsten_Nøhr_Larsen,_Kalvehave","Carsten Nøhr Larsen, Kalvehave",Radikale Venstre,2
+Vordingborg,8,Stege,"B_Vibeke_Grønbæk,_Vordingborg","Vibeke Grønbæk, Vordingborg",Radikale Venstre,0
+Vordingborg,8,Stege,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,60
+Vordingborg,8,Stege,"C_Jesper_Adler,_Vordingborg","Jesper Adler, Vordingborg",Det Konservative Folkeparti,47
+Vordingborg,8,Stege,"C_Daniel_Irvold,_Lundby","Daniel Irvold, Lundby",Det Konservative Folkeparti,3
+Vordingborg,8,Stege,"C_Lis_Due_Rasmussen,_Stege","Lis Due Rasmussen, Stege",Det Konservative Folkeparti,55
+Vordingborg,8,Stege,"C_Pia_Viltoft_Wamberg,_Vordingborg","Pia Viltoft Wamberg, Vordingborg",Det Konservative Folkeparti,7
+Vordingborg,8,Stege,"C_Jens_Christian_Børsmose,_Vordingbo","Jens Christian Børsmose, Vordingbo",Det Konservative Folkeparti,2
+Vordingborg,8,Stege,"C_Carsten_Geert_Rasmussen,_Vordingbo","Carsten Geert Rasmussen, Vordingbo",Det Konservative Folkeparti,6
+Vordingborg,8,Stege,"C_Jens-Christian_Brandt_Jørgensen,_N","Jens-Christian Brandt Jørgensen, N",Det Konservative Folkeparti,0
+Vordingborg,8,Stege,"C_Lars_Skov_Andersen,_Fanefjord","Lars Skov Andersen, Fanefjord",Det Konservative Folkeparti,6
+Vordingborg,8,Stege,"C_Karsten_Sevel,_Bogø","Karsten Sevel, Bogø",Det Konservative Folkeparti,4
+Vordingborg,8,Stege,"C_Per_Damkjær_Juhl,_Vordingborg","Per Damkjær Juhl, Vordingborg",Det Konservative Folkeparti,0
+Vordingborg,8,Stege,"C_Jesper_Bergiel_Nielsen,_Øster_Eges","Jesper Bergiel Nielsen, Øster Eges",Det Konservative Folkeparti,0
+Vordingborg,8,Stege,D_Listestemmer,Listestemmer,Nye Borgerlige,46
+Vordingborg,8,Stege,D_Heino_Hahn,Heino Hahn,Nye Borgerlige,18
+Vordingborg,8,Stege,D_Glenn_Hansen,Glenn Hansen,Nye Borgerlige,4
+Vordingborg,8,Stege,D_John_Pawlik,John Pawlik,Nye Borgerlige,0
+Vordingborg,8,Stege,D_Jørn_Rasmussen,Jørn Rasmussen,Nye Borgerlige,6
+Vordingborg,8,Stege,D_Michael_Andersen,Michael Andersen,Nye Borgerlige,1
+Vordingborg,8,Stege,D_Tom_Nielsen,Tom Nielsen,Nye Borgerlige,32
+Vordingborg,8,Stege,D_Kasper_Christiansen,Kasper Christiansen,Nye Borgerlige,2
+Vordingborg,8,Stege,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,36
+Vordingborg,8,Stege,F_Else-Marie_Langballe_Sørensen,Else-Marie Langballe Sørensen,SF - Socialistisk Folkeparti,54
+Vordingborg,8,Stege,F_Michael_Ryberg_Juliussen,Michael Ryberg Juliussen,SF - Socialistisk Folkeparti,4
+Vordingborg,8,Stege,F_Marie_Lenstrup,Marie Lenstrup,SF - Socialistisk Folkeparti,10
+Vordingborg,8,Stege,F_Jesper_K._Feldballe_Hansen,Jesper K. Feldballe Hansen,SF - Socialistisk Folkeparti,4
+Vordingborg,8,Stege,F_Gitte_Corell,Gitte Corell,SF - Socialistisk Folkeparti,11
+Vordingborg,8,Stege,F_Lena_Schroll,Lena Schroll,SF - Socialistisk Folkeparti,7
+Vordingborg,8,Stege,F_Henrik_Ægidius,Henrik Ægidius,SF - Socialistisk Folkeparti,13
+Vordingborg,8,Stege,F_Karin_O._Jørgensen,Karin O. Jørgensen,SF - Socialistisk Folkeparti,1
+Vordingborg,8,Stege,O_Listestemmer,Listestemmer,Dansk Folkeparti,36
+Vordingborg,8,Stege,O_Søren_Hansen,Søren Hansen,Dansk Folkeparti,19
+Vordingborg,8,Stege,O_Per_Stig_Sørensen,Per Stig Sørensen,Dansk Folkeparti,15
+Vordingborg,8,Stege,O_Helle_Jørgensen,Helle Jørgensen,Dansk Folkeparti,11
+Vordingborg,8,Stege,O_Marie_Hansen,Marie Hansen,Dansk Folkeparti,12
+Vordingborg,8,Stege,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",84
+Vordingborg,8,Stege,"V_Karina_Fromberg,_Præstø","Karina Fromberg, Præstø","Venstre, Danmarks Liberale Parti",90
+Vordingborg,8,Stege,"V_Michael_Seiding_Larsen,Vordingborg","Michael Seiding Larsen,Vordingborg","Venstre, Danmarks Liberale Parti",102
+Vordingborg,8,Stege,"V_Eva_Sommer-Madsen,_Vordingborg","Eva Sommer-Madsen, Vordingborg","Venstre, Danmarks Liberale Parti",21
+Vordingborg,8,Stege,"V_Peter_Ole_Sørensen,_Præstø","Peter Ole Sørensen, Præstø","Venstre, Danmarks Liberale Parti",8
+Vordingborg,8,Stege,"V_Karina_Foss,_Møn","Karina Foss, Møn","Venstre, Danmarks Liberale Parti",334
+Vordingborg,8,Stege,"V_Bo_Manderup,_Præstø","Bo Manderup, Præstø","Venstre, Danmarks Liberale Parti",3
+Vordingborg,8,Stege,"V_Ole_Hansen,_Møn","Ole Hansen, Møn","Venstre, Danmarks Liberale Parti",38
+Vordingborg,8,Stege,"V_Anne-Marie_Jacobsen,_Stensved","Anne-Marie Jacobsen, Stensved","Venstre, Danmarks Liberale Parti",4
+Vordingborg,8,Stege,"V_Ronni_Lykkehus,_Vordingborg","Ronni Lykkehus, Vordingborg","Venstre, Danmarks Liberale Parti",129
+Vordingborg,8,Stege,"V_Kristina_Themsen,_Bårse","Kristina Themsen, Bårse","Venstre, Danmarks Liberale Parti",2
+Vordingborg,8,Stege,"V_Babette_Bjørklund,_Vordingborg","Babette Bjørklund, Vordingborg","Venstre, Danmarks Liberale Parti",0
+Vordingborg,8,Stege,"V_Gert_Tonny_Larsen,_Nyråd","Gert Tonny Larsen, Nyråd","Venstre, Danmarks Liberale Parti",1
+Vordingborg,8,Stege,"V_Jonna_Henriksen,_Mern","Jonna Henriksen, Mern","Venstre, Danmarks Liberale Parti",0
+Vordingborg,8,Stege,"V_Arne_Rasmussen,_Lundby","Arne Rasmussen, Lundby","Venstre, Danmarks Liberale Parti",5
+Vordingborg,8,Stege,Æ_Listestemmer,Listestemmer,Fælleslisten,31
+Vordingborg,8,Stege,Æ_Charlotte_Bagge_Hansen,Charlotte Bagge Hansen,Fælleslisten,240
+Vordingborg,8,Stege,Æ_Torben_Folke_Månsson,Torben Folke Månsson,Fælleslisten,10
+Vordingborg,8,Stege,Æ_Else-Marie_Theisen,Else-Marie Theisen,Fælleslisten,5
+Vordingborg,8,Stege,Æ_Laura_Folke_Månsson,Laura Folke Månsson,Fælleslisten,8
+Vordingborg,8,Stege,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,111
+Vordingborg,8,Stege,"Ø_Mette_Gerdøe,_Nyråd","Mette Gerdøe, Nyråd",Enhedslisten - De Rød-Grønne,51
+Vordingborg,8,Stege,"Ø_Martin_Graff_Jørgensen,_Bogø_By","Martin Graff Jørgensen, Bogø By",Enhedslisten - De Rød-Grønne,39
+Vordingborg,8,Stege,"Ø_Tage_Vestergaard,_Vordingborg","Tage Vestergaard, Vordingborg",Enhedslisten - De Rød-Grønne,7
+Vordingborg,8,Stege,"Ø_Morten_Pihl,_Stege_Møn","Morten Pihl, Stege Møn",Enhedslisten - De Rød-Grønne,66
+Vordingborg,8,Stege,"Ø_Palle_Eghjort,_Vordingborg","Palle Eghjort, Vordingborg",Enhedslisten - De Rød-Grønne,2
+Vordingborg,8,Stege,"Ø_Jan_Simon,_Hårbølle_Havn_Møn","Jan Simon, Hårbølle Havn Møn",Enhedslisten - De Rød-Grønne,14
+Vordingborg,8,Stege,Å_Listestemmer,Listestemmer,Alternativet,4
+Vordingborg,8,Stege,"Å_Annabianca_C._Milter,_Møn","Annabianca C. Milter, Møn",Alternativet,25
+Vordingborg,8,Stege,"Å_Lene_Ezzaaf,_Bårse","Lene Ezzaaf, Bårse",Alternativet,1
+Vordingborg,9,Østmøn,A_Listestemmer,Listestemmer,Socialdemokratiet,36
+Vordingborg,9,Østmøn,A_Mikael_Smed,Mikael Smed,Socialdemokratiet,86
+Vordingborg,9,Østmøn,A_Brit_Skovgaard,Brit Skovgaard,Socialdemokratiet,41
+Vordingborg,9,Østmøn,A_Anders_J._Andersen,Anders J. Andersen,Socialdemokratiet,4
+Vordingborg,9,Østmøn,A_Mette_Høgh_Christiansen,Mette Høgh Christiansen,Socialdemokratiet,7
+Vordingborg,9,Østmøn,A_Nikolaj_W._Reichel,Nikolaj W. Reichel,Socialdemokratiet,1
+Vordingborg,9,Østmøn,A_Kenneth_Andersen,Kenneth Andersen,Socialdemokratiet,28
+Vordingborg,9,Østmøn,A_Poul_A._Larsen,Poul A. Larsen,Socialdemokratiet,0
+Vordingborg,9,Østmøn,A_Tine_Bagger_Hansen,Tine Bagger Hansen,Socialdemokratiet,7
+Vordingborg,9,Østmøn,A_Kurt_Johansen,Kurt Johansen,Socialdemokratiet,0
+Vordingborg,9,Østmøn,A_Henriette_Fentz_Leithoff,Henriette Fentz Leithoff,Socialdemokratiet,0
+Vordingborg,9,Østmøn,A_Louise_Herløv,Louise Herløv,Socialdemokratiet,1
+Vordingborg,9,Østmøn,A_Rasmus_Oxfeldt_Larsen,Rasmus Oxfeldt Larsen,Socialdemokratiet,1
+Vordingborg,9,Østmøn,A_Lis_Jespersen,Lis Jespersen,Socialdemokratiet,2
+Vordingborg,9,Østmøn,A_Line_Dahl_Abildgaard,Line Dahl Abildgaard,Socialdemokratiet,0
+Vordingborg,9,Østmøn,A_Michael_Larsen,Michael Larsen,Socialdemokratiet,5
+Vordingborg,9,Østmøn,A_Jacob_Kamper,Jacob Kamper,Socialdemokratiet,0
+Vordingborg,9,Østmøn,A_Susanne_Littau,Susanne Littau,Socialdemokratiet,1
+Vordingborg,9,Østmøn,A_Jens-Peter_Hansen,Jens-Peter Hansen,Socialdemokratiet,0
+Vordingborg,9,Østmøn,A_Jens_Ravn,Jens Ravn,Socialdemokratiet,3
+Vordingborg,9,Østmøn,A_Carsten_Olsen,Carsten Olsen,Socialdemokratiet,0
+Vordingborg,9,Østmøn,A_Flemming_Mortensen,Flemming Mortensen,Socialdemokratiet,0
+Vordingborg,9,Østmøn,A_Emil_Roest,Emil Roest,Socialdemokratiet,0
+Vordingborg,9,Østmøn,A_Bigman_A._Nkunkununu,Bigman A. Nkunkununu,Socialdemokratiet,1
+Vordingborg,9,Østmøn,A_Jens_Larsen,Jens Larsen,Socialdemokratiet,0
+Vordingborg,9,Østmøn,A_Shadie_Louk,Shadie Louk,Socialdemokratiet,1
+Vordingborg,9,Østmøn,B_Listestemmer,Listestemmer,Radikale Venstre,2
+Vordingborg,9,Østmøn,"B_Michael_Larsen,_Stege","Michael Larsen, Stege",Radikale Venstre,16
+Vordingborg,9,Østmøn,"B_Kathrine_Olldag,_Vordingborg","Kathrine Olldag, Vordingborg",Radikale Venstre,5
+Vordingborg,9,Østmøn,"B_Patrick_Mathias_Rasmussen,_Vording","Patrick Mathias Rasmussen, Vording",Radikale Venstre,2
+Vordingborg,9,Østmøn,"B_Patricia_Rabjerg,_Stege","Patricia Rabjerg, Stege",Radikale Venstre,6
+Vordingborg,9,Østmøn,"B_Lars_Bakke_Olsen,_Askeby","Lars Bakke Olsen, Askeby",Radikale Venstre,0
+Vordingborg,9,Østmøn,"B_Carsten_Nøhr_Larsen,_Kalvehave","Carsten Nøhr Larsen, Kalvehave",Radikale Venstre,0
+Vordingborg,9,Østmøn,"B_Vibeke_Grønbæk,_Vordingborg","Vibeke Grønbæk, Vordingborg",Radikale Venstre,0
+Vordingborg,9,Østmøn,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,18
+Vordingborg,9,Østmøn,"C_Jesper_Adler,_Vordingborg","Jesper Adler, Vordingborg",Det Konservative Folkeparti,10
+Vordingborg,9,Østmøn,"C_Daniel_Irvold,_Lundby","Daniel Irvold, Lundby",Det Konservative Folkeparti,0
+Vordingborg,9,Østmøn,"C_Lis_Due_Rasmussen,_Stege","Lis Due Rasmussen, Stege",Det Konservative Folkeparti,17
+Vordingborg,9,Østmøn,"C_Pia_Viltoft_Wamberg,_Vordingborg","Pia Viltoft Wamberg, Vordingborg",Det Konservative Folkeparti,3
+Vordingborg,9,Østmøn,"C_Jens_Christian_Børsmose,_Vordingbo","Jens Christian Børsmose, Vordingbo",Det Konservative Folkeparti,3
+Vordingborg,9,Østmøn,"C_Carsten_Geert_Rasmussen,_Vordingbo","Carsten Geert Rasmussen, Vordingbo",Det Konservative Folkeparti,3
+Vordingborg,9,Østmøn,"C_Jens-Christian_Brandt_Jørgensen,_N","Jens-Christian Brandt Jørgensen, N",Det Konservative Folkeparti,0
+Vordingborg,9,Østmøn,"C_Lars_Skov_Andersen,_Fanefjord","Lars Skov Andersen, Fanefjord",Det Konservative Folkeparti,1
+Vordingborg,9,Østmøn,"C_Karsten_Sevel,_Bogø","Karsten Sevel, Bogø",Det Konservative Folkeparti,0
+Vordingborg,9,Østmøn,"C_Per_Damkjær_Juhl,_Vordingborg","Per Damkjær Juhl, Vordingborg",Det Konservative Folkeparti,0
+Vordingborg,9,Østmøn,"C_Jesper_Bergiel_Nielsen,_Øster_Eges","Jesper Bergiel Nielsen, Øster Eges",Det Konservative Folkeparti,0
+Vordingborg,9,Østmøn,D_Listestemmer,Listestemmer,Nye Borgerlige,21
+Vordingborg,9,Østmøn,D_Heino_Hahn,Heino Hahn,Nye Borgerlige,3
+Vordingborg,9,Østmøn,D_Glenn_Hansen,Glenn Hansen,Nye Borgerlige,3
+Vordingborg,9,Østmøn,D_John_Pawlik,John Pawlik,Nye Borgerlige,1
+Vordingborg,9,Østmøn,D_Jørn_Rasmussen,Jørn Rasmussen,Nye Borgerlige,3
+Vordingborg,9,Østmøn,D_Michael_Andersen,Michael Andersen,Nye Borgerlige,1
+Vordingborg,9,Østmøn,D_Tom_Nielsen,Tom Nielsen,Nye Borgerlige,4
+Vordingborg,9,Østmøn,D_Kasper_Christiansen,Kasper Christiansen,Nye Borgerlige,2
+Vordingborg,9,Østmøn,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,13
+Vordingborg,9,Østmøn,F_Else-Marie_Langballe_Sørensen,Else-Marie Langballe Sørensen,SF - Socialistisk Folkeparti,14
+Vordingborg,9,Østmøn,F_Michael_Ryberg_Juliussen,Michael Ryberg Juliussen,SF - Socialistisk Folkeparti,0
+Vordingborg,9,Østmøn,F_Marie_Lenstrup,Marie Lenstrup,SF - Socialistisk Folkeparti,2
+Vordingborg,9,Østmøn,F_Jesper_K._Feldballe_Hansen,Jesper K. Feldballe Hansen,SF - Socialistisk Folkeparti,2
+Vordingborg,9,Østmøn,F_Gitte_Corell,Gitte Corell,SF - Socialistisk Folkeparti,11
+Vordingborg,9,Østmøn,F_Lena_Schroll,Lena Schroll,SF - Socialistisk Folkeparti,0
+Vordingborg,9,Østmøn,F_Henrik_Ægidius,Henrik Ægidius,SF - Socialistisk Folkeparti,5
+Vordingborg,9,Østmøn,F_Karin_O._Jørgensen,Karin O. Jørgensen,SF - Socialistisk Folkeparti,1
+Vordingborg,9,Østmøn,O_Listestemmer,Listestemmer,Dansk Folkeparti,12
+Vordingborg,9,Østmøn,O_Søren_Hansen,Søren Hansen,Dansk Folkeparti,13
+Vordingborg,9,Østmøn,O_Per_Stig_Sørensen,Per Stig Sørensen,Dansk Folkeparti,6
+Vordingborg,9,Østmøn,O_Helle_Jørgensen,Helle Jørgensen,Dansk Folkeparti,2
+Vordingborg,9,Østmøn,O_Marie_Hansen,Marie Hansen,Dansk Folkeparti,13
+Vordingborg,9,Østmøn,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",40
+Vordingborg,9,Østmøn,"V_Karina_Fromberg,_Præstø","Karina Fromberg, Præstø","Venstre, Danmarks Liberale Parti",29
+Vordingborg,9,Østmøn,"V_Michael_Seiding_Larsen,Vordingborg","Michael Seiding Larsen,Vordingborg","Venstre, Danmarks Liberale Parti",24
+Vordingborg,9,Østmøn,"V_Eva_Sommer-Madsen,_Vordingborg","Eva Sommer-Madsen, Vordingborg","Venstre, Danmarks Liberale Parti",8
+Vordingborg,9,Østmøn,"V_Peter_Ole_Sørensen,_Præstø","Peter Ole Sørensen, Præstø","Venstre, Danmarks Liberale Parti",3
+Vordingborg,9,Østmøn,"V_Karina_Foss,_Møn","Karina Foss, Møn","Venstre, Danmarks Liberale Parti",47
+Vordingborg,9,Østmøn,"V_Bo_Manderup,_Præstø","Bo Manderup, Præstø","Venstre, Danmarks Liberale Parti",1
+Vordingborg,9,Østmøn,"V_Ole_Hansen,_Møn","Ole Hansen, Møn","Venstre, Danmarks Liberale Parti",19
+Vordingborg,9,Østmøn,"V_Anne-Marie_Jacobsen,_Stensved","Anne-Marie Jacobsen, Stensved","Venstre, Danmarks Liberale Parti",1
+Vordingborg,9,Østmøn,"V_Ronni_Lykkehus,_Vordingborg","Ronni Lykkehus, Vordingborg","Venstre, Danmarks Liberale Parti",52
+Vordingborg,9,Østmøn,"V_Kristina_Themsen,_Bårse","Kristina Themsen, Bårse","Venstre, Danmarks Liberale Parti",2
+Vordingborg,9,Østmøn,"V_Babette_Bjørklund,_Vordingborg","Babette Bjørklund, Vordingborg","Venstre, Danmarks Liberale Parti",0
+Vordingborg,9,Østmøn,"V_Gert_Tonny_Larsen,_Nyråd","Gert Tonny Larsen, Nyråd","Venstre, Danmarks Liberale Parti",0
+Vordingborg,9,Østmøn,"V_Jonna_Henriksen,_Mern","Jonna Henriksen, Mern","Venstre, Danmarks Liberale Parti",1
+Vordingborg,9,Østmøn,"V_Arne_Rasmussen,_Lundby","Arne Rasmussen, Lundby","Venstre, Danmarks Liberale Parti",0
+Vordingborg,9,Østmøn,Æ_Listestemmer,Listestemmer,Fælleslisten,12
+Vordingborg,9,Østmøn,Æ_Charlotte_Bagge_Hansen,Charlotte Bagge Hansen,Fælleslisten,44
+Vordingborg,9,Østmøn,Æ_Torben_Folke_Månsson,Torben Folke Månsson,Fælleslisten,3
+Vordingborg,9,Østmøn,Æ_Else-Marie_Theisen,Else-Marie Theisen,Fælleslisten,1
+Vordingborg,9,Østmøn,Æ_Laura_Folke_Månsson,Laura Folke Månsson,Fælleslisten,3
+Vordingborg,9,Østmøn,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,51
+Vordingborg,9,Østmøn,"Ø_Mette_Gerdøe,_Nyråd","Mette Gerdøe, Nyråd",Enhedslisten - De Rød-Grønne,18
+Vordingborg,9,Østmøn,"Ø_Martin_Graff_Jørgensen,_Bogø_By","Martin Graff Jørgensen, Bogø By",Enhedslisten - De Rød-Grønne,10
+Vordingborg,9,Østmøn,"Ø_Tage_Vestergaard,_Vordingborg","Tage Vestergaard, Vordingborg",Enhedslisten - De Rød-Grønne,0
+Vordingborg,9,Østmøn,"Ø_Morten_Pihl,_Stege_Møn","Morten Pihl, Stege Møn",Enhedslisten - De Rød-Grønne,34
+Vordingborg,9,Østmøn,"Ø_Palle_Eghjort,_Vordingborg","Palle Eghjort, Vordingborg",Enhedslisten - De Rød-Grønne,0
+Vordingborg,9,Østmøn,"Ø_Jan_Simon,_Hårbølle_Havn_Møn","Jan Simon, Hårbølle Havn Møn",Enhedslisten - De Rød-Grønne,15
+Vordingborg,9,Østmøn,Å_Listestemmer,Listestemmer,Alternativet,4
+Vordingborg,9,Østmøn,"Å_Annabianca_C._Milter,_Møn","Annabianca C. Milter, Møn",Alternativet,13
+Vordingborg,9,Østmøn,"Å_Lene_Ezzaaf,_Bårse","Lene Ezzaaf, Bårse",Alternativet,1
+Vordingborg,10,Vestmøn,A_Listestemmer,Listestemmer,Socialdemokratiet,71
+Vordingborg,10,Vestmøn,A_Mikael_Smed,Mikael Smed,Socialdemokratiet,134
+Vordingborg,10,Vestmøn,A_Brit_Skovgaard,Brit Skovgaard,Socialdemokratiet,26
+Vordingborg,10,Vestmøn,A_Anders_J._Andersen,Anders J. Andersen,Socialdemokratiet,17
+Vordingborg,10,Vestmøn,A_Mette_Høgh_Christiansen,Mette Høgh Christiansen,Socialdemokratiet,5
+Vordingborg,10,Vestmøn,A_Nikolaj_W._Reichel,Nikolaj W. Reichel,Socialdemokratiet,2
+Vordingborg,10,Vestmøn,A_Kenneth_Andersen,Kenneth Andersen,Socialdemokratiet,12
+Vordingborg,10,Vestmøn,A_Poul_A._Larsen,Poul A. Larsen,Socialdemokratiet,1
+Vordingborg,10,Vestmøn,A_Tine_Bagger_Hansen,Tine Bagger Hansen,Socialdemokratiet,12
+Vordingborg,10,Vestmøn,A_Kurt_Johansen,Kurt Johansen,Socialdemokratiet,1
+Vordingborg,10,Vestmøn,A_Henriette_Fentz_Leithoff,Henriette Fentz Leithoff,Socialdemokratiet,1
+Vordingborg,10,Vestmøn,A_Louise_Herløv,Louise Herløv,Socialdemokratiet,0
+Vordingborg,10,Vestmøn,A_Rasmus_Oxfeldt_Larsen,Rasmus Oxfeldt Larsen,Socialdemokratiet,14
+Vordingborg,10,Vestmøn,A_Lis_Jespersen,Lis Jespersen,Socialdemokratiet,6
+Vordingborg,10,Vestmøn,A_Line_Dahl_Abildgaard,Line Dahl Abildgaard,Socialdemokratiet,0
+Vordingborg,10,Vestmøn,A_Michael_Larsen,Michael Larsen,Socialdemokratiet,6
+Vordingborg,10,Vestmøn,A_Jacob_Kamper,Jacob Kamper,Socialdemokratiet,3
+Vordingborg,10,Vestmøn,A_Susanne_Littau,Susanne Littau,Socialdemokratiet,3
+Vordingborg,10,Vestmøn,A_Jens-Peter_Hansen,Jens-Peter Hansen,Socialdemokratiet,1
+Vordingborg,10,Vestmøn,A_Jens_Ravn,Jens Ravn,Socialdemokratiet,2
+Vordingborg,10,Vestmøn,A_Carsten_Olsen,Carsten Olsen,Socialdemokratiet,1
+Vordingborg,10,Vestmøn,A_Flemming_Mortensen,Flemming Mortensen,Socialdemokratiet,1
+Vordingborg,10,Vestmøn,A_Emil_Roest,Emil Roest,Socialdemokratiet,1
+Vordingborg,10,Vestmøn,A_Bigman_A._Nkunkununu,Bigman A. Nkunkununu,Socialdemokratiet,2
+Vordingborg,10,Vestmøn,A_Jens_Larsen,Jens Larsen,Socialdemokratiet,0
+Vordingborg,10,Vestmøn,A_Shadie_Louk,Shadie Louk,Socialdemokratiet,1
+Vordingborg,10,Vestmøn,B_Listestemmer,Listestemmer,Radikale Venstre,8
+Vordingborg,10,Vestmøn,"B_Michael_Larsen,_Stege","Michael Larsen, Stege",Radikale Venstre,20
+Vordingborg,10,Vestmøn,"B_Kathrine_Olldag,_Vordingborg","Kathrine Olldag, Vordingborg",Radikale Venstre,11
+Vordingborg,10,Vestmøn,"B_Patrick_Mathias_Rasmussen,_Vording","Patrick Mathias Rasmussen, Vording",Radikale Venstre,2
+Vordingborg,10,Vestmøn,"B_Patricia_Rabjerg,_Stege","Patricia Rabjerg, Stege",Radikale Venstre,4
+Vordingborg,10,Vestmøn,"B_Lars_Bakke_Olsen,_Askeby","Lars Bakke Olsen, Askeby",Radikale Venstre,5
+Vordingborg,10,Vestmøn,"B_Carsten_Nøhr_Larsen,_Kalvehave","Carsten Nøhr Larsen, Kalvehave",Radikale Venstre,0
+Vordingborg,10,Vestmøn,"B_Vibeke_Grønbæk,_Vordingborg","Vibeke Grønbæk, Vordingborg",Radikale Venstre,2
+Vordingborg,10,Vestmøn,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,12
+Vordingborg,10,Vestmøn,"C_Jesper_Adler,_Vordingborg","Jesper Adler, Vordingborg",Det Konservative Folkeparti,17
+Vordingborg,10,Vestmøn,"C_Daniel_Irvold,_Lundby","Daniel Irvold, Lundby",Det Konservative Folkeparti,0
+Vordingborg,10,Vestmøn,"C_Lis_Due_Rasmussen,_Stege","Lis Due Rasmussen, Stege",Det Konservative Folkeparti,12
+Vordingborg,10,Vestmøn,"C_Pia_Viltoft_Wamberg,_Vordingborg","Pia Viltoft Wamberg, Vordingborg",Det Konservative Folkeparti,3
+Vordingborg,10,Vestmøn,"C_Jens_Christian_Børsmose,_Vordingbo","Jens Christian Børsmose, Vordingbo",Det Konservative Folkeparti,1
+Vordingborg,10,Vestmøn,"C_Carsten_Geert_Rasmussen,_Vordingbo","Carsten Geert Rasmussen, Vordingbo",Det Konservative Folkeparti,2
+Vordingborg,10,Vestmøn,"C_Jens-Christian_Brandt_Jørgensen,_N","Jens-Christian Brandt Jørgensen, N",Det Konservative Folkeparti,0
+Vordingborg,10,Vestmøn,"C_Lars_Skov_Andersen,_Fanefjord","Lars Skov Andersen, Fanefjord",Det Konservative Folkeparti,29
+Vordingborg,10,Vestmøn,"C_Karsten_Sevel,_Bogø","Karsten Sevel, Bogø",Det Konservative Folkeparti,0
+Vordingborg,10,Vestmøn,"C_Per_Damkjær_Juhl,_Vordingborg","Per Damkjær Juhl, Vordingborg",Det Konservative Folkeparti,0
+Vordingborg,10,Vestmøn,"C_Jesper_Bergiel_Nielsen,_Øster_Eges","Jesper Bergiel Nielsen, Øster Eges",Det Konservative Folkeparti,1
+Vordingborg,10,Vestmøn,D_Listestemmer,Listestemmer,Nye Borgerlige,31
+Vordingborg,10,Vestmøn,D_Heino_Hahn,Heino Hahn,Nye Borgerlige,16
+Vordingborg,10,Vestmøn,D_Glenn_Hansen,Glenn Hansen,Nye Borgerlige,2
+Vordingborg,10,Vestmøn,D_John_Pawlik,John Pawlik,Nye Borgerlige,1
+Vordingborg,10,Vestmøn,D_Jørn_Rasmussen,Jørn Rasmussen,Nye Borgerlige,2
+Vordingborg,10,Vestmøn,D_Michael_Andersen,Michael Andersen,Nye Borgerlige,0
+Vordingborg,10,Vestmøn,D_Tom_Nielsen,Tom Nielsen,Nye Borgerlige,9
+Vordingborg,10,Vestmøn,D_Kasper_Christiansen,Kasper Christiansen,Nye Borgerlige,0
+Vordingborg,10,Vestmøn,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,18
+Vordingborg,10,Vestmøn,F_Else-Marie_Langballe_Sørensen,Else-Marie Langballe Sørensen,SF - Socialistisk Folkeparti,29
+Vordingborg,10,Vestmøn,F_Michael_Ryberg_Juliussen,Michael Ryberg Juliussen,SF - Socialistisk Folkeparti,0
+Vordingborg,10,Vestmøn,F_Marie_Lenstrup,Marie Lenstrup,SF - Socialistisk Folkeparti,4
+Vordingborg,10,Vestmøn,F_Jesper_K._Feldballe_Hansen,Jesper K. Feldballe Hansen,SF - Socialistisk Folkeparti,0
+Vordingborg,10,Vestmøn,F_Gitte_Corell,Gitte Corell,SF - Socialistisk Folkeparti,15
+Vordingborg,10,Vestmøn,F_Lena_Schroll,Lena Schroll,SF - Socialistisk Folkeparti,2
+Vordingborg,10,Vestmøn,F_Henrik_Ægidius,Henrik Ægidius,SF - Socialistisk Folkeparti,5
+Vordingborg,10,Vestmøn,F_Karin_O._Jørgensen,Karin O. Jørgensen,SF - Socialistisk Folkeparti,0
+Vordingborg,10,Vestmøn,O_Listestemmer,Listestemmer,Dansk Folkeparti,24
+Vordingborg,10,Vestmøn,O_Søren_Hansen,Søren Hansen,Dansk Folkeparti,16
+Vordingborg,10,Vestmøn,O_Per_Stig_Sørensen,Per Stig Sørensen,Dansk Folkeparti,5
+Vordingborg,10,Vestmøn,O_Helle_Jørgensen,Helle Jørgensen,Dansk Folkeparti,6
+Vordingborg,10,Vestmøn,O_Marie_Hansen,Marie Hansen,Dansk Folkeparti,2
+Vordingborg,10,Vestmøn,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",39
+Vordingborg,10,Vestmøn,"V_Karina_Fromberg,_Præstø","Karina Fromberg, Præstø","Venstre, Danmarks Liberale Parti",42
+Vordingborg,10,Vestmøn,"V_Michael_Seiding_Larsen,Vordingborg","Michael Seiding Larsen,Vordingborg","Venstre, Danmarks Liberale Parti",48
+Vordingborg,10,Vestmøn,"V_Eva_Sommer-Madsen,_Vordingborg","Eva Sommer-Madsen, Vordingborg","Venstre, Danmarks Liberale Parti",14
+Vordingborg,10,Vestmøn,"V_Peter_Ole_Sørensen,_Præstø","Peter Ole Sørensen, Præstø","Venstre, Danmarks Liberale Parti",8
+Vordingborg,10,Vestmøn,"V_Karina_Foss,_Møn","Karina Foss, Møn","Venstre, Danmarks Liberale Parti",85
+Vordingborg,10,Vestmøn,"V_Bo_Manderup,_Præstø","Bo Manderup, Præstø","Venstre, Danmarks Liberale Parti",2
+Vordingborg,10,Vestmøn,"V_Ole_Hansen,_Møn","Ole Hansen, Møn","Venstre, Danmarks Liberale Parti",13
+Vordingborg,10,Vestmøn,"V_Anne-Marie_Jacobsen,_Stensved","Anne-Marie Jacobsen, Stensved","Venstre, Danmarks Liberale Parti",0
+Vordingborg,10,Vestmøn,"V_Ronni_Lykkehus,_Vordingborg","Ronni Lykkehus, Vordingborg","Venstre, Danmarks Liberale Parti",38
+Vordingborg,10,Vestmøn,"V_Kristina_Themsen,_Bårse","Kristina Themsen, Bårse","Venstre, Danmarks Liberale Parti",2
+Vordingborg,10,Vestmøn,"V_Babette_Bjørklund,_Vordingborg","Babette Bjørklund, Vordingborg","Venstre, Danmarks Liberale Parti",0
+Vordingborg,10,Vestmøn,"V_Gert_Tonny_Larsen,_Nyråd","Gert Tonny Larsen, Nyråd","Venstre, Danmarks Liberale Parti",0
+Vordingborg,10,Vestmøn,"V_Jonna_Henriksen,_Mern","Jonna Henriksen, Mern","Venstre, Danmarks Liberale Parti",0
+Vordingborg,10,Vestmøn,"V_Arne_Rasmussen,_Lundby","Arne Rasmussen, Lundby","Venstre, Danmarks Liberale Parti",5
+Vordingborg,10,Vestmøn,Æ_Listestemmer,Listestemmer,Fælleslisten,13
+Vordingborg,10,Vestmøn,Æ_Charlotte_Bagge_Hansen,Charlotte Bagge Hansen,Fælleslisten,65
+Vordingborg,10,Vestmøn,Æ_Torben_Folke_Månsson,Torben Folke Månsson,Fælleslisten,4
+Vordingborg,10,Vestmøn,Æ_Else-Marie_Theisen,Else-Marie Theisen,Fælleslisten,2
+Vordingborg,10,Vestmøn,Æ_Laura_Folke_Månsson,Laura Folke Månsson,Fælleslisten,1
+Vordingborg,10,Vestmøn,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,108
+Vordingborg,10,Vestmøn,"Ø_Mette_Gerdøe,_Nyråd","Mette Gerdøe, Nyråd",Enhedslisten - De Rød-Grønne,45
+Vordingborg,10,Vestmøn,"Ø_Martin_Graff_Jørgensen,_Bogø_By","Martin Graff Jørgensen, Bogø By",Enhedslisten - De Rød-Grønne,57
+Vordingborg,10,Vestmøn,"Ø_Tage_Vestergaard,_Vordingborg","Tage Vestergaard, Vordingborg",Enhedslisten - De Rød-Grønne,10
+Vordingborg,10,Vestmøn,"Ø_Morten_Pihl,_Stege_Møn","Morten Pihl, Stege Møn",Enhedslisten - De Rød-Grønne,48
+Vordingborg,10,Vestmøn,"Ø_Palle_Eghjort,_Vordingborg","Palle Eghjort, Vordingborg",Enhedslisten - De Rød-Grønne,4
+Vordingborg,10,Vestmøn,"Ø_Jan_Simon,_Hårbølle_Havn_Møn","Jan Simon, Hårbølle Havn Møn",Enhedslisten - De Rød-Grønne,24
+Vordingborg,10,Vestmøn,Å_Listestemmer,Listestemmer,Alternativet,4
+Vordingborg,10,Vestmøn,"Å_Annabianca_C._Milter,_Møn","Annabianca C. Milter, Møn",Alternativet,22
+Vordingborg,10,Vestmøn,"Å_Lene_Ezzaaf,_Bårse","Lene Ezzaaf, Bårse",Alternativet,4
+Vordingborg,11,Bogø,A_Listestemmer,Listestemmer,Socialdemokratiet,55
+Vordingborg,11,Bogø,A_Mikael_Smed,Mikael Smed,Socialdemokratiet,113
+Vordingborg,11,Bogø,A_Brit_Skovgaard,Brit Skovgaard,Socialdemokratiet,11
+Vordingborg,11,Bogø,A_Anders_J._Andersen,Anders J. Andersen,Socialdemokratiet,2
+Vordingborg,11,Bogø,A_Mette_Høgh_Christiansen,Mette Høgh Christiansen,Socialdemokratiet,3
+Vordingborg,11,Bogø,A_Nikolaj_W._Reichel,Nikolaj W. Reichel,Socialdemokratiet,0
+Vordingborg,11,Bogø,A_Kenneth_Andersen,Kenneth Andersen,Socialdemokratiet,0
+Vordingborg,11,Bogø,A_Poul_A._Larsen,Poul A. Larsen,Socialdemokratiet,3
+Vordingborg,11,Bogø,A_Tine_Bagger_Hansen,Tine Bagger Hansen,Socialdemokratiet,3
+Vordingborg,11,Bogø,A_Kurt_Johansen,Kurt Johansen,Socialdemokratiet,0
+Vordingborg,11,Bogø,A_Henriette_Fentz_Leithoff,Henriette Fentz Leithoff,Socialdemokratiet,1
+Vordingborg,11,Bogø,A_Louise_Herløv,Louise Herløv,Socialdemokratiet,3
+Vordingborg,11,Bogø,A_Rasmus_Oxfeldt_Larsen,Rasmus Oxfeldt Larsen,Socialdemokratiet,0
+Vordingborg,11,Bogø,A_Lis_Jespersen,Lis Jespersen,Socialdemokratiet,0
+Vordingborg,11,Bogø,A_Line_Dahl_Abildgaard,Line Dahl Abildgaard,Socialdemokratiet,0
+Vordingborg,11,Bogø,A_Michael_Larsen,Michael Larsen,Socialdemokratiet,1
+Vordingborg,11,Bogø,A_Jacob_Kamper,Jacob Kamper,Socialdemokratiet,4
+Vordingborg,11,Bogø,A_Susanne_Littau,Susanne Littau,Socialdemokratiet,3
+Vordingborg,11,Bogø,A_Jens-Peter_Hansen,Jens-Peter Hansen,Socialdemokratiet,0
+Vordingborg,11,Bogø,A_Jens_Ravn,Jens Ravn,Socialdemokratiet,3
+Vordingborg,11,Bogø,A_Carsten_Olsen,Carsten Olsen,Socialdemokratiet,0
+Vordingborg,11,Bogø,A_Flemming_Mortensen,Flemming Mortensen,Socialdemokratiet,2
+Vordingborg,11,Bogø,A_Emil_Roest,Emil Roest,Socialdemokratiet,2
+Vordingborg,11,Bogø,A_Bigman_A._Nkunkununu,Bigman A. Nkunkununu,Socialdemokratiet,2
+Vordingborg,11,Bogø,A_Jens_Larsen,Jens Larsen,Socialdemokratiet,0
+Vordingborg,11,Bogø,A_Shadie_Louk,Shadie Louk,Socialdemokratiet,0
+Vordingborg,11,Bogø,B_Listestemmer,Listestemmer,Radikale Venstre,2
+Vordingborg,11,Bogø,"B_Michael_Larsen,_Stege","Michael Larsen, Stege",Radikale Venstre,5
+Vordingborg,11,Bogø,"B_Kathrine_Olldag,_Vordingborg","Kathrine Olldag, Vordingborg",Radikale Venstre,8
+Vordingborg,11,Bogø,"B_Patrick_Mathias_Rasmussen,_Vording","Patrick Mathias Rasmussen, Vording",Radikale Venstre,2
+Vordingborg,11,Bogø,"B_Patricia_Rabjerg,_Stege","Patricia Rabjerg, Stege",Radikale Venstre,0
+Vordingborg,11,Bogø,"B_Lars_Bakke_Olsen,_Askeby","Lars Bakke Olsen, Askeby",Radikale Venstre,2
+Vordingborg,11,Bogø,"B_Carsten_Nøhr_Larsen,_Kalvehave","Carsten Nøhr Larsen, Kalvehave",Radikale Venstre,1
+Vordingborg,11,Bogø,"B_Vibeke_Grønbæk,_Vordingborg","Vibeke Grønbæk, Vordingborg",Radikale Venstre,0
+Vordingborg,11,Bogø,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,32
+Vordingborg,11,Bogø,"C_Jesper_Adler,_Vordingborg","Jesper Adler, Vordingborg",Det Konservative Folkeparti,16
+Vordingborg,11,Bogø,"C_Daniel_Irvold,_Lundby","Daniel Irvold, Lundby",Det Konservative Folkeparti,5
+Vordingborg,11,Bogø,"C_Lis_Due_Rasmussen,_Stege","Lis Due Rasmussen, Stege",Det Konservative Folkeparti,3
+Vordingborg,11,Bogø,"C_Pia_Viltoft_Wamberg,_Vordingborg","Pia Viltoft Wamberg, Vordingborg",Det Konservative Folkeparti,5
+Vordingborg,11,Bogø,"C_Jens_Christian_Børsmose,_Vordingbo","Jens Christian Børsmose, Vordingbo",Det Konservative Folkeparti,0
+Vordingborg,11,Bogø,"C_Carsten_Geert_Rasmussen,_Vordingbo","Carsten Geert Rasmussen, Vordingbo",Det Konservative Folkeparti,2
+Vordingborg,11,Bogø,"C_Jens-Christian_Brandt_Jørgensen,_N","Jens-Christian Brandt Jørgensen, N",Det Konservative Folkeparti,0
+Vordingborg,11,Bogø,"C_Lars_Skov_Andersen,_Fanefjord","Lars Skov Andersen, Fanefjord",Det Konservative Folkeparti,3
+Vordingborg,11,Bogø,"C_Karsten_Sevel,_Bogø","Karsten Sevel, Bogø",Det Konservative Folkeparti,19
+Vordingborg,11,Bogø,"C_Per_Damkjær_Juhl,_Vordingborg","Per Damkjær Juhl, Vordingborg",Det Konservative Folkeparti,0
+Vordingborg,11,Bogø,"C_Jesper_Bergiel_Nielsen,_Øster_Eges","Jesper Bergiel Nielsen, Øster Eges",Det Konservative Folkeparti,2
+Vordingborg,11,Bogø,D_Listestemmer,Listestemmer,Nye Borgerlige,12
+Vordingborg,11,Bogø,D_Heino_Hahn,Heino Hahn,Nye Borgerlige,4
+Vordingborg,11,Bogø,D_Glenn_Hansen,Glenn Hansen,Nye Borgerlige,0
+Vordingborg,11,Bogø,D_John_Pawlik,John Pawlik,Nye Borgerlige,1
+Vordingborg,11,Bogø,D_Jørn_Rasmussen,Jørn Rasmussen,Nye Borgerlige,5
+Vordingborg,11,Bogø,D_Michael_Andersen,Michael Andersen,Nye Borgerlige,0
+Vordingborg,11,Bogø,D_Tom_Nielsen,Tom Nielsen,Nye Borgerlige,9
+Vordingborg,11,Bogø,D_Kasper_Christiansen,Kasper Christiansen,Nye Borgerlige,0
+Vordingborg,11,Bogø,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,18
+Vordingborg,11,Bogø,F_Else-Marie_Langballe_Sørensen,Else-Marie Langballe Sørensen,SF - Socialistisk Folkeparti,18
+Vordingborg,11,Bogø,F_Michael_Ryberg_Juliussen,Michael Ryberg Juliussen,SF - Socialistisk Folkeparti,3
+Vordingborg,11,Bogø,F_Marie_Lenstrup,Marie Lenstrup,SF - Socialistisk Folkeparti,3
+Vordingborg,11,Bogø,F_Jesper_K._Feldballe_Hansen,Jesper K. Feldballe Hansen,SF - Socialistisk Folkeparti,3
+Vordingborg,11,Bogø,F_Gitte_Corell,Gitte Corell,SF - Socialistisk Folkeparti,3
+Vordingborg,11,Bogø,F_Lena_Schroll,Lena Schroll,SF - Socialistisk Folkeparti,2
+Vordingborg,11,Bogø,F_Henrik_Ægidius,Henrik Ægidius,SF - Socialistisk Folkeparti,1
+Vordingborg,11,Bogø,F_Karin_O._Jørgensen,Karin O. Jørgensen,SF - Socialistisk Folkeparti,0
+Vordingborg,11,Bogø,O_Listestemmer,Listestemmer,Dansk Folkeparti,7
+Vordingborg,11,Bogø,O_Søren_Hansen,Søren Hansen,Dansk Folkeparti,4
+Vordingborg,11,Bogø,O_Per_Stig_Sørensen,Per Stig Sørensen,Dansk Folkeparti,0
+Vordingborg,11,Bogø,O_Helle_Jørgensen,Helle Jørgensen,Dansk Folkeparti,6
+Vordingborg,11,Bogø,O_Marie_Hansen,Marie Hansen,Dansk Folkeparti,5
+Vordingborg,11,Bogø,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",18
+Vordingborg,11,Bogø,"V_Karina_Fromberg,_Præstø","Karina Fromberg, Præstø","Venstre, Danmarks Liberale Parti",27
+Vordingborg,11,Bogø,"V_Michael_Seiding_Larsen,Vordingborg","Michael Seiding Larsen,Vordingborg","Venstre, Danmarks Liberale Parti",38
+Vordingborg,11,Bogø,"V_Eva_Sommer-Madsen,_Vordingborg","Eva Sommer-Madsen, Vordingborg","Venstre, Danmarks Liberale Parti",7
+Vordingborg,11,Bogø,"V_Peter_Ole_Sørensen,_Præstø","Peter Ole Sørensen, Præstø","Venstre, Danmarks Liberale Parti",1
+Vordingborg,11,Bogø,"V_Karina_Foss,_Møn","Karina Foss, Møn","Venstre, Danmarks Liberale Parti",20
+Vordingborg,11,Bogø,"V_Bo_Manderup,_Præstø","Bo Manderup, Præstø","Venstre, Danmarks Liberale Parti",0
+Vordingborg,11,Bogø,"V_Ole_Hansen,_Møn","Ole Hansen, Møn","Venstre, Danmarks Liberale Parti",0
+Vordingborg,11,Bogø,"V_Anne-Marie_Jacobsen,_Stensved","Anne-Marie Jacobsen, Stensved","Venstre, Danmarks Liberale Parti",3
+Vordingborg,11,Bogø,"V_Ronni_Lykkehus,_Vordingborg","Ronni Lykkehus, Vordingborg","Venstre, Danmarks Liberale Parti",5
+Vordingborg,11,Bogø,"V_Kristina_Themsen,_Bårse","Kristina Themsen, Bårse","Venstre, Danmarks Liberale Parti",5
+Vordingborg,11,Bogø,"V_Babette_Bjørklund,_Vordingborg","Babette Bjørklund, Vordingborg","Venstre, Danmarks Liberale Parti",0
+Vordingborg,11,Bogø,"V_Gert_Tonny_Larsen,_Nyråd","Gert Tonny Larsen, Nyråd","Venstre, Danmarks Liberale Parti",0
+Vordingborg,11,Bogø,"V_Jonna_Henriksen,_Mern","Jonna Henriksen, Mern","Venstre, Danmarks Liberale Parti",0
+Vordingborg,11,Bogø,"V_Arne_Rasmussen,_Lundby","Arne Rasmussen, Lundby","Venstre, Danmarks Liberale Parti",2
+Vordingborg,11,Bogø,Æ_Listestemmer,Listestemmer,Fælleslisten,3
+Vordingborg,11,Bogø,Æ_Charlotte_Bagge_Hansen,Charlotte Bagge Hansen,Fælleslisten,8
+Vordingborg,11,Bogø,Æ_Torben_Folke_Månsson,Torben Folke Månsson,Fælleslisten,0
+Vordingborg,11,Bogø,Æ_Else-Marie_Theisen,Else-Marie Theisen,Fælleslisten,0
+Vordingborg,11,Bogø,Æ_Laura_Folke_Månsson,Laura Folke Månsson,Fælleslisten,0
+Vordingborg,11,Bogø,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,16
+Vordingborg,11,Bogø,"Ø_Mette_Gerdøe,_Nyråd","Mette Gerdøe, Nyråd",Enhedslisten - De Rød-Grønne,9
+Vordingborg,11,Bogø,"Ø_Martin_Graff_Jørgensen,_Bogø_By","Martin Graff Jørgensen, Bogø By",Enhedslisten - De Rød-Grønne,144
+Vordingborg,11,Bogø,"Ø_Tage_Vestergaard,_Vordingborg","Tage Vestergaard, Vordingborg",Enhedslisten - De Rød-Grønne,1
+Vordingborg,11,Bogø,"Ø_Morten_Pihl,_Stege_Møn","Morten Pihl, Stege Møn",Enhedslisten - De Rød-Grønne,1
+Vordingborg,11,Bogø,"Ø_Palle_Eghjort,_Vordingborg","Palle Eghjort, Vordingborg",Enhedslisten - De Rød-Grønne,0
+Vordingborg,11,Bogø,"Ø_Jan_Simon,_Hårbølle_Havn_Møn","Jan Simon, Hårbølle Havn Møn",Enhedslisten - De Rød-Grønne,0
+Vordingborg,11,Bogø,Å_Listestemmer,Listestemmer,Alternativet,1
+Vordingborg,11,Bogø,"Å_Annabianca_C._Milter,_Møn","Annabianca C. Milter, Møn",Alternativet,3
+Vordingborg,11,Bogø,"Å_Lene_Ezzaaf,_Bårse","Lene Ezzaaf, Bårse",Alternativet,0
+Vordingborg,12,Præstø,A_Listestemmer,Listestemmer,Socialdemokratiet,161
+Vordingborg,12,Præstø,A_Mikael_Smed,Mikael Smed,Socialdemokratiet,292
+Vordingborg,12,Præstø,A_Brit_Skovgaard,Brit Skovgaard,Socialdemokratiet,9
+Vordingborg,12,Præstø,A_Anders_J._Andersen,Anders J. Andersen,Socialdemokratiet,2
+Vordingborg,12,Præstø,A_Mette_Høgh_Christiansen,Mette Høgh Christiansen,Socialdemokratiet,4
+Vordingborg,12,Præstø,A_Nikolaj_W._Reichel,Nikolaj W. Reichel,Socialdemokratiet,363
+Vordingborg,12,Præstø,A_Kenneth_Andersen,Kenneth Andersen,Socialdemokratiet,0
+Vordingborg,12,Præstø,A_Poul_A._Larsen,Poul A. Larsen,Socialdemokratiet,4
+Vordingborg,12,Præstø,A_Tine_Bagger_Hansen,Tine Bagger Hansen,Socialdemokratiet,19
+Vordingborg,12,Præstø,A_Kurt_Johansen,Kurt Johansen,Socialdemokratiet,211
+Vordingborg,12,Præstø,A_Henriette_Fentz_Leithoff,Henriette Fentz Leithoff,Socialdemokratiet,40
+Vordingborg,12,Præstø,A_Louise_Herløv,Louise Herløv,Socialdemokratiet,5
+Vordingborg,12,Præstø,A_Rasmus_Oxfeldt_Larsen,Rasmus Oxfeldt Larsen,Socialdemokratiet,3
+Vordingborg,12,Præstø,A_Lis_Jespersen,Lis Jespersen,Socialdemokratiet,24
+Vordingborg,12,Præstø,A_Line_Dahl_Abildgaard,Line Dahl Abildgaard,Socialdemokratiet,1
+Vordingborg,12,Præstø,A_Michael_Larsen,Michael Larsen,Socialdemokratiet,6
+Vordingborg,12,Præstø,A_Jacob_Kamper,Jacob Kamper,Socialdemokratiet,6
+Vordingborg,12,Præstø,A_Susanne_Littau,Susanne Littau,Socialdemokratiet,31
+Vordingborg,12,Præstø,A_Jens-Peter_Hansen,Jens-Peter Hansen,Socialdemokratiet,5
+Vordingborg,12,Præstø,A_Jens_Ravn,Jens Ravn,Socialdemokratiet,0
+Vordingborg,12,Præstø,A_Carsten_Olsen,Carsten Olsen,Socialdemokratiet,5
+Vordingborg,12,Præstø,A_Flemming_Mortensen,Flemming Mortensen,Socialdemokratiet,1
+Vordingborg,12,Præstø,A_Emil_Roest,Emil Roest,Socialdemokratiet,2
+Vordingborg,12,Præstø,A_Bigman_A._Nkunkununu,Bigman A. Nkunkununu,Socialdemokratiet,1
+Vordingborg,12,Præstø,A_Jens_Larsen,Jens Larsen,Socialdemokratiet,0
+Vordingborg,12,Præstø,A_Shadie_Louk,Shadie Louk,Socialdemokratiet,0
+Vordingborg,12,Præstø,B_Listestemmer,Listestemmer,Radikale Venstre,10
+Vordingborg,12,Præstø,"B_Michael_Larsen,_Stege","Michael Larsen, Stege",Radikale Venstre,5
+Vordingborg,12,Præstø,"B_Kathrine_Olldag,_Vordingborg","Kathrine Olldag, Vordingborg",Radikale Venstre,26
+Vordingborg,12,Præstø,"B_Patrick_Mathias_Rasmussen,_Vording","Patrick Mathias Rasmussen, Vording",Radikale Venstre,7
+Vordingborg,12,Præstø,"B_Patricia_Rabjerg,_Stege","Patricia Rabjerg, Stege",Radikale Venstre,7
+Vordingborg,12,Præstø,"B_Lars_Bakke_Olsen,_Askeby","Lars Bakke Olsen, Askeby",Radikale Venstre,1
+Vordingborg,12,Præstø,"B_Carsten_Nøhr_Larsen,_Kalvehave","Carsten Nøhr Larsen, Kalvehave",Radikale Venstre,1
+Vordingborg,12,Præstø,"B_Vibeke_Grønbæk,_Vordingborg","Vibeke Grønbæk, Vordingborg",Radikale Venstre,2
+Vordingborg,12,Præstø,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,79
+Vordingborg,12,Præstø,"C_Jesper_Adler,_Vordingborg","Jesper Adler, Vordingborg",Det Konservative Folkeparti,47
+Vordingborg,12,Præstø,"C_Daniel_Irvold,_Lundby","Daniel Irvold, Lundby",Det Konservative Folkeparti,19
+Vordingborg,12,Præstø,"C_Lis_Due_Rasmussen,_Stege","Lis Due Rasmussen, Stege",Det Konservative Folkeparti,7
+Vordingborg,12,Præstø,"C_Pia_Viltoft_Wamberg,_Vordingborg","Pia Viltoft Wamberg, Vordingborg",Det Konservative Folkeparti,14
+Vordingborg,12,Præstø,"C_Jens_Christian_Børsmose,_Vordingbo","Jens Christian Børsmose, Vordingbo",Det Konservative Folkeparti,2
+Vordingborg,12,Præstø,"C_Carsten_Geert_Rasmussen,_Vordingbo","Carsten Geert Rasmussen, Vordingbo",Det Konservative Folkeparti,1
+Vordingborg,12,Præstø,"C_Jens-Christian_Brandt_Jørgensen,_N","Jens-Christian Brandt Jørgensen, N",Det Konservative Folkeparti,1
+Vordingborg,12,Præstø,"C_Lars_Skov_Andersen,_Fanefjord","Lars Skov Andersen, Fanefjord",Det Konservative Folkeparti,3
+Vordingborg,12,Præstø,"C_Karsten_Sevel,_Bogø","Karsten Sevel, Bogø",Det Konservative Folkeparti,0
+Vordingborg,12,Præstø,"C_Per_Damkjær_Juhl,_Vordingborg","Per Damkjær Juhl, Vordingborg",Det Konservative Folkeparti,1
+Vordingborg,12,Præstø,"C_Jesper_Bergiel_Nielsen,_Øster_Eges","Jesper Bergiel Nielsen, Øster Eges",Det Konservative Folkeparti,3
+Vordingborg,12,Præstø,D_Listestemmer,Listestemmer,Nye Borgerlige,35
+Vordingborg,12,Præstø,D_Heino_Hahn,Heino Hahn,Nye Borgerlige,19
+Vordingborg,12,Præstø,D_Glenn_Hansen,Glenn Hansen,Nye Borgerlige,23
+Vordingborg,12,Præstø,D_John_Pawlik,John Pawlik,Nye Borgerlige,1
+Vordingborg,12,Præstø,D_Jørn_Rasmussen,Jørn Rasmussen,Nye Borgerlige,11
+Vordingborg,12,Præstø,D_Michael_Andersen,Michael Andersen,Nye Borgerlige,3
+Vordingborg,12,Præstø,D_Tom_Nielsen,Tom Nielsen,Nye Borgerlige,1
+Vordingborg,12,Præstø,D_Kasper_Christiansen,Kasper Christiansen,Nye Borgerlige,4
+Vordingborg,12,Præstø,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,48
+Vordingborg,12,Præstø,F_Else-Marie_Langballe_Sørensen,Else-Marie Langballe Sørensen,SF - Socialistisk Folkeparti,50
+Vordingborg,12,Præstø,F_Michael_Ryberg_Juliussen,Michael Ryberg Juliussen,SF - Socialistisk Folkeparti,6
+Vordingborg,12,Præstø,F_Marie_Lenstrup,Marie Lenstrup,SF - Socialistisk Folkeparti,20
+Vordingborg,12,Præstø,F_Jesper_K._Feldballe_Hansen,Jesper K. Feldballe Hansen,SF - Socialistisk Folkeparti,2
+Vordingborg,12,Præstø,F_Gitte_Corell,Gitte Corell,SF - Socialistisk Folkeparti,14
+Vordingborg,12,Præstø,F_Lena_Schroll,Lena Schroll,SF - Socialistisk Folkeparti,6
+Vordingborg,12,Præstø,F_Henrik_Ægidius,Henrik Ægidius,SF - Socialistisk Folkeparti,1
+Vordingborg,12,Præstø,F_Karin_O._Jørgensen,Karin O. Jørgensen,SF - Socialistisk Folkeparti,3
+Vordingborg,12,Præstø,O_Listestemmer,Listestemmer,Dansk Folkeparti,50
+Vordingborg,12,Præstø,O_Søren_Hansen,Søren Hansen,Dansk Folkeparti,24
+Vordingborg,12,Præstø,O_Per_Stig_Sørensen,Per Stig Sørensen,Dansk Folkeparti,9
+Vordingborg,12,Præstø,O_Helle_Jørgensen,Helle Jørgensen,Dansk Folkeparti,14
+Vordingborg,12,Præstø,O_Marie_Hansen,Marie Hansen,Dansk Folkeparti,8
+Vordingborg,12,Præstø,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",76
+Vordingborg,12,Præstø,"V_Karina_Fromberg,_Præstø","Karina Fromberg, Præstø","Venstre, Danmarks Liberale Parti",190
+Vordingborg,12,Præstø,"V_Michael_Seiding_Larsen,Vordingborg","Michael Seiding Larsen,Vordingborg","Venstre, Danmarks Liberale Parti",43
+Vordingborg,12,Præstø,"V_Eva_Sommer-Madsen,_Vordingborg","Eva Sommer-Madsen, Vordingborg","Venstre, Danmarks Liberale Parti",23
+Vordingborg,12,Præstø,"V_Peter_Ole_Sørensen,_Præstø","Peter Ole Sørensen, Præstø","Venstre, Danmarks Liberale Parti",132
+Vordingborg,12,Præstø,"V_Karina_Foss,_Møn","Karina Foss, Møn","Venstre, Danmarks Liberale Parti",5
+Vordingborg,12,Præstø,"V_Bo_Manderup,_Præstø","Bo Manderup, Præstø","Venstre, Danmarks Liberale Parti",45
+Vordingborg,12,Præstø,"V_Ole_Hansen,_Møn","Ole Hansen, Møn","Venstre, Danmarks Liberale Parti",1
+Vordingborg,12,Præstø,"V_Anne-Marie_Jacobsen,_Stensved","Anne-Marie Jacobsen, Stensved","Venstre, Danmarks Liberale Parti",2
+Vordingborg,12,Præstø,"V_Ronni_Lykkehus,_Vordingborg","Ronni Lykkehus, Vordingborg","Venstre, Danmarks Liberale Parti",10
+Vordingborg,12,Præstø,"V_Kristina_Themsen,_Bårse","Kristina Themsen, Bårse","Venstre, Danmarks Liberale Parti",13
+Vordingborg,12,Præstø,"V_Babette_Bjørklund,_Vordingborg","Babette Bjørklund, Vordingborg","Venstre, Danmarks Liberale Parti",2
+Vordingborg,12,Præstø,"V_Gert_Tonny_Larsen,_Nyråd","Gert Tonny Larsen, Nyråd","Venstre, Danmarks Liberale Parti",0
+Vordingborg,12,Præstø,"V_Jonna_Henriksen,_Mern","Jonna Henriksen, Mern","Venstre, Danmarks Liberale Parti",0
+Vordingborg,12,Præstø,"V_Arne_Rasmussen,_Lundby","Arne Rasmussen, Lundby","Venstre, Danmarks Liberale Parti",2
+Vordingborg,12,Præstø,Æ_Listestemmer,Listestemmer,Fælleslisten,3
+Vordingborg,12,Præstø,Æ_Charlotte_Bagge_Hansen,Charlotte Bagge Hansen,Fælleslisten,12
+Vordingborg,12,Præstø,Æ_Torben_Folke_Månsson,Torben Folke Månsson,Fælleslisten,3
+Vordingborg,12,Præstø,Æ_Else-Marie_Theisen,Else-Marie Theisen,Fælleslisten,0
+Vordingborg,12,Præstø,Æ_Laura_Folke_Månsson,Laura Folke Månsson,Fælleslisten,0
+Vordingborg,12,Præstø,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,65
+Vordingborg,12,Præstø,"Ø_Mette_Gerdøe,_Nyråd","Mette Gerdøe, Nyråd",Enhedslisten - De Rød-Grønne,24
+Vordingborg,12,Præstø,"Ø_Martin_Graff_Jørgensen,_Bogø_By","Martin Graff Jørgensen, Bogø By",Enhedslisten - De Rød-Grønne,27
+Vordingborg,12,Præstø,"Ø_Tage_Vestergaard,_Vordingborg","Tage Vestergaard, Vordingborg",Enhedslisten - De Rød-Grønne,6
+Vordingborg,12,Præstø,"Ø_Morten_Pihl,_Stege_Møn","Morten Pihl, Stege Møn",Enhedslisten - De Rød-Grønne,1
+Vordingborg,12,Præstø,"Ø_Palle_Eghjort,_Vordingborg","Palle Eghjort, Vordingborg",Enhedslisten - De Rød-Grønne,2
+Vordingborg,12,Præstø,"Ø_Jan_Simon,_Hårbølle_Havn_Møn","Jan Simon, Hårbølle Havn Møn",Enhedslisten - De Rød-Grønne,2
+Vordingborg,12,Præstø,Å_Listestemmer,Listestemmer,Alternativet,2
+Vordingborg,12,Præstø,"Å_Annabianca_C._Milter,_Møn","Annabianca C. Milter, Møn",Alternativet,8
+Vordingborg,12,Præstø,"Å_Lene_Ezzaaf,_Bårse","Lene Ezzaaf, Bårse",Alternativet,5
+Vordingborg,13,Allerslev,A_Listestemmer,Listestemmer,Socialdemokratiet,31
+Vordingborg,13,Allerslev,A_Mikael_Smed,Mikael Smed,Socialdemokratiet,92
+Vordingborg,13,Allerslev,A_Brit_Skovgaard,Brit Skovgaard,Socialdemokratiet,1
+Vordingborg,13,Allerslev,A_Anders_J._Andersen,Anders J. Andersen,Socialdemokratiet,1
+Vordingborg,13,Allerslev,A_Mette_Høgh_Christiansen,Mette Høgh Christiansen,Socialdemokratiet,4
+Vordingborg,13,Allerslev,A_Nikolaj_W._Reichel,Nikolaj W. Reichel,Socialdemokratiet,55
+Vordingborg,13,Allerslev,A_Kenneth_Andersen,Kenneth Andersen,Socialdemokratiet,0
+Vordingborg,13,Allerslev,A_Poul_A._Larsen,Poul A. Larsen,Socialdemokratiet,1
+Vordingborg,13,Allerslev,A_Tine_Bagger_Hansen,Tine Bagger Hansen,Socialdemokratiet,2
+Vordingborg,13,Allerslev,A_Kurt_Johansen,Kurt Johansen,Socialdemokratiet,19
+Vordingborg,13,Allerslev,A_Henriette_Fentz_Leithoff,Henriette Fentz Leithoff,Socialdemokratiet,11
+Vordingborg,13,Allerslev,A_Louise_Herløv,Louise Herløv,Socialdemokratiet,2
+Vordingborg,13,Allerslev,A_Rasmus_Oxfeldt_Larsen,Rasmus Oxfeldt Larsen,Socialdemokratiet,0
+Vordingborg,13,Allerslev,A_Lis_Jespersen,Lis Jespersen,Socialdemokratiet,6
+Vordingborg,13,Allerslev,A_Line_Dahl_Abildgaard,Line Dahl Abildgaard,Socialdemokratiet,1
+Vordingborg,13,Allerslev,A_Michael_Larsen,Michael Larsen,Socialdemokratiet,2
+Vordingborg,13,Allerslev,A_Jacob_Kamper,Jacob Kamper,Socialdemokratiet,2
+Vordingborg,13,Allerslev,A_Susanne_Littau,Susanne Littau,Socialdemokratiet,8
+Vordingborg,13,Allerslev,A_Jens-Peter_Hansen,Jens-Peter Hansen,Socialdemokratiet,0
+Vordingborg,13,Allerslev,A_Jens_Ravn,Jens Ravn,Socialdemokratiet,0
+Vordingborg,13,Allerslev,A_Carsten_Olsen,Carsten Olsen,Socialdemokratiet,0
+Vordingborg,13,Allerslev,A_Flemming_Mortensen,Flemming Mortensen,Socialdemokratiet,0
+Vordingborg,13,Allerslev,A_Emil_Roest,Emil Roest,Socialdemokratiet,1
+Vordingborg,13,Allerslev,A_Bigman_A._Nkunkununu,Bigman A. Nkunkununu,Socialdemokratiet,1
+Vordingborg,13,Allerslev,A_Jens_Larsen,Jens Larsen,Socialdemokratiet,1
+Vordingborg,13,Allerslev,A_Shadie_Louk,Shadie Louk,Socialdemokratiet,0
+Vordingborg,13,Allerslev,B_Listestemmer,Listestemmer,Radikale Venstre,8
+Vordingborg,13,Allerslev,"B_Michael_Larsen,_Stege","Michael Larsen, Stege",Radikale Venstre,2
+Vordingborg,13,Allerslev,"B_Kathrine_Olldag,_Vordingborg","Kathrine Olldag, Vordingborg",Radikale Venstre,5
+Vordingborg,13,Allerslev,"B_Patrick_Mathias_Rasmussen,_Vording","Patrick Mathias Rasmussen, Vording",Radikale Venstre,0
+Vordingborg,13,Allerslev,"B_Patricia_Rabjerg,_Stege","Patricia Rabjerg, Stege",Radikale Venstre,1
+Vordingborg,13,Allerslev,"B_Lars_Bakke_Olsen,_Askeby","Lars Bakke Olsen, Askeby",Radikale Venstre,0
+Vordingborg,13,Allerslev,"B_Carsten_Nøhr_Larsen,_Kalvehave","Carsten Nøhr Larsen, Kalvehave",Radikale Venstre,3
+Vordingborg,13,Allerslev,"B_Vibeke_Grønbæk,_Vordingborg","Vibeke Grønbæk, Vordingborg",Radikale Venstre,0
+Vordingborg,13,Allerslev,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,16
+Vordingborg,13,Allerslev,"C_Jesper_Adler,_Vordingborg","Jesper Adler, Vordingborg",Det Konservative Folkeparti,10
+Vordingborg,13,Allerslev,"C_Daniel_Irvold,_Lundby","Daniel Irvold, Lundby",Det Konservative Folkeparti,6
+Vordingborg,13,Allerslev,"C_Lis_Due_Rasmussen,_Stege","Lis Due Rasmussen, Stege",Det Konservative Folkeparti,2
+Vordingborg,13,Allerslev,"C_Pia_Viltoft_Wamberg,_Vordingborg","Pia Viltoft Wamberg, Vordingborg",Det Konservative Folkeparti,11
+Vordingborg,13,Allerslev,"C_Jens_Christian_Børsmose,_Vordingbo","Jens Christian Børsmose, Vordingbo",Det Konservative Folkeparti,3
+Vordingborg,13,Allerslev,"C_Carsten_Geert_Rasmussen,_Vordingbo","Carsten Geert Rasmussen, Vordingbo",Det Konservative Folkeparti,0
+Vordingborg,13,Allerslev,"C_Jens-Christian_Brandt_Jørgensen,_N","Jens-Christian Brandt Jørgensen, N",Det Konservative Folkeparti,0
+Vordingborg,13,Allerslev,"C_Lars_Skov_Andersen,_Fanefjord","Lars Skov Andersen, Fanefjord",Det Konservative Folkeparti,0
+Vordingborg,13,Allerslev,"C_Karsten_Sevel,_Bogø","Karsten Sevel, Bogø",Det Konservative Folkeparti,0
+Vordingborg,13,Allerslev,"C_Per_Damkjær_Juhl,_Vordingborg","Per Damkjær Juhl, Vordingborg",Det Konservative Folkeparti,0
+Vordingborg,13,Allerslev,"C_Jesper_Bergiel_Nielsen,_Øster_Eges","Jesper Bergiel Nielsen, Øster Eges",Det Konservative Folkeparti,0
+Vordingborg,13,Allerslev,D_Listestemmer,Listestemmer,Nye Borgerlige,18
+Vordingborg,13,Allerslev,D_Heino_Hahn,Heino Hahn,Nye Borgerlige,5
+Vordingborg,13,Allerslev,D_Glenn_Hansen,Glenn Hansen,Nye Borgerlige,10
+Vordingborg,13,Allerslev,D_John_Pawlik,John Pawlik,Nye Borgerlige,0
+Vordingborg,13,Allerslev,D_Jørn_Rasmussen,Jørn Rasmussen,Nye Borgerlige,2
+Vordingborg,13,Allerslev,D_Michael_Andersen,Michael Andersen,Nye Borgerlige,0
+Vordingborg,13,Allerslev,D_Tom_Nielsen,Tom Nielsen,Nye Borgerlige,1
+Vordingborg,13,Allerslev,D_Kasper_Christiansen,Kasper Christiansen,Nye Borgerlige,1
+Vordingborg,13,Allerslev,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,12
+Vordingborg,13,Allerslev,F_Else-Marie_Langballe_Sørensen,Else-Marie Langballe Sørensen,SF - Socialistisk Folkeparti,20
+Vordingborg,13,Allerslev,F_Michael_Ryberg_Juliussen,Michael Ryberg Juliussen,SF - Socialistisk Folkeparti,0
+Vordingborg,13,Allerslev,F_Marie_Lenstrup,Marie Lenstrup,SF - Socialistisk Folkeparti,1
+Vordingborg,13,Allerslev,F_Jesper_K._Feldballe_Hansen,Jesper K. Feldballe Hansen,SF - Socialistisk Folkeparti,0
+Vordingborg,13,Allerslev,F_Gitte_Corell,Gitte Corell,SF - Socialistisk Folkeparti,8
+Vordingborg,13,Allerslev,F_Lena_Schroll,Lena Schroll,SF - Socialistisk Folkeparti,2
+Vordingborg,13,Allerslev,F_Henrik_Ægidius,Henrik Ægidius,SF - Socialistisk Folkeparti,1
+Vordingborg,13,Allerslev,F_Karin_O._Jørgensen,Karin O. Jørgensen,SF - Socialistisk Folkeparti,1
+Vordingborg,13,Allerslev,O_Listestemmer,Listestemmer,Dansk Folkeparti,8
+Vordingborg,13,Allerslev,O_Søren_Hansen,Søren Hansen,Dansk Folkeparti,9
+Vordingborg,13,Allerslev,O_Per_Stig_Sørensen,Per Stig Sørensen,Dansk Folkeparti,2
+Vordingborg,13,Allerslev,O_Helle_Jørgensen,Helle Jørgensen,Dansk Folkeparti,2
+Vordingborg,13,Allerslev,O_Marie_Hansen,Marie Hansen,Dansk Folkeparti,5
+Vordingborg,13,Allerslev,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",17
+Vordingborg,13,Allerslev,"V_Karina_Fromberg,_Præstø","Karina Fromberg, Præstø","Venstre, Danmarks Liberale Parti",46
+Vordingborg,13,Allerslev,"V_Michael_Seiding_Larsen,Vordingborg","Michael Seiding Larsen,Vordingborg","Venstre, Danmarks Liberale Parti",18
+Vordingborg,13,Allerslev,"V_Eva_Sommer-Madsen,_Vordingborg","Eva Sommer-Madsen, Vordingborg","Venstre, Danmarks Liberale Parti",10
+Vordingborg,13,Allerslev,"V_Peter_Ole_Sørensen,_Præstø","Peter Ole Sørensen, Præstø","Venstre, Danmarks Liberale Parti",78
+Vordingborg,13,Allerslev,"V_Karina_Foss,_Møn","Karina Foss, Møn","Venstre, Danmarks Liberale Parti",2
+Vordingborg,13,Allerslev,"V_Bo_Manderup,_Præstø","Bo Manderup, Præstø","Venstre, Danmarks Liberale Parti",8
+Vordingborg,13,Allerslev,"V_Ole_Hansen,_Møn","Ole Hansen, Møn","Venstre, Danmarks Liberale Parti",4
+Vordingborg,13,Allerslev,"V_Anne-Marie_Jacobsen,_Stensved","Anne-Marie Jacobsen, Stensved","Venstre, Danmarks Liberale Parti",1
+Vordingborg,13,Allerslev,"V_Ronni_Lykkehus,_Vordingborg","Ronni Lykkehus, Vordingborg","Venstre, Danmarks Liberale Parti",4
+Vordingborg,13,Allerslev,"V_Kristina_Themsen,_Bårse","Kristina Themsen, Bårse","Venstre, Danmarks Liberale Parti",6
+Vordingborg,13,Allerslev,"V_Babette_Bjørklund,_Vordingborg","Babette Bjørklund, Vordingborg","Venstre, Danmarks Liberale Parti",0
+Vordingborg,13,Allerslev,"V_Gert_Tonny_Larsen,_Nyråd","Gert Tonny Larsen, Nyråd","Venstre, Danmarks Liberale Parti",0
+Vordingborg,13,Allerslev,"V_Jonna_Henriksen,_Mern","Jonna Henriksen, Mern","Venstre, Danmarks Liberale Parti",0
+Vordingborg,13,Allerslev,"V_Arne_Rasmussen,_Lundby","Arne Rasmussen, Lundby","Venstre, Danmarks Liberale Parti",0
+Vordingborg,13,Allerslev,Æ_Listestemmer,Listestemmer,Fælleslisten,3
+Vordingborg,13,Allerslev,Æ_Charlotte_Bagge_Hansen,Charlotte Bagge Hansen,Fælleslisten,3
+Vordingborg,13,Allerslev,Æ_Torben_Folke_Månsson,Torben Folke Månsson,Fælleslisten,3
+Vordingborg,13,Allerslev,Æ_Else-Marie_Theisen,Else-Marie Theisen,Fælleslisten,1
+Vordingborg,13,Allerslev,Æ_Laura_Folke_Månsson,Laura Folke Månsson,Fælleslisten,1
+Vordingborg,13,Allerslev,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,16
+Vordingborg,13,Allerslev,"Ø_Mette_Gerdøe,_Nyråd","Mette Gerdøe, Nyråd",Enhedslisten - De Rød-Grønne,17
+Vordingborg,13,Allerslev,"Ø_Martin_Graff_Jørgensen,_Bogø_By","Martin Graff Jørgensen, Bogø By",Enhedslisten - De Rød-Grønne,7
+Vordingborg,13,Allerslev,"Ø_Tage_Vestergaard,_Vordingborg","Tage Vestergaard, Vordingborg",Enhedslisten - De Rød-Grønne,2
+Vordingborg,13,Allerslev,"Ø_Morten_Pihl,_Stege_Møn","Morten Pihl, Stege Møn",Enhedslisten - De Rød-Grønne,0
+Vordingborg,13,Allerslev,"Ø_Palle_Eghjort,_Vordingborg","Palle Eghjort, Vordingborg",Enhedslisten - De Rød-Grønne,0
+Vordingborg,13,Allerslev,"Ø_Jan_Simon,_Hårbølle_Havn_Møn","Jan Simon, Hårbølle Havn Møn",Enhedslisten - De Rød-Grønne,0
+Vordingborg,13,Allerslev,Å_Listestemmer,Listestemmer,Alternativet,2
+Vordingborg,13,Allerslev,"Å_Annabianca_C._Milter,_Møn","Annabianca C. Milter, Møn",Alternativet,6
+Vordingborg,13,Allerslev,"Å_Lene_Ezzaaf,_Bårse","Lene Ezzaaf, Bårse",Alternativet,1
+Vordingborg,14,Jungshoved,A_Listestemmer,Listestemmer,Socialdemokratiet,22
+Vordingborg,14,Jungshoved,A_Mikael_Smed,Mikael Smed,Socialdemokratiet,70
+Vordingborg,14,Jungshoved,A_Brit_Skovgaard,Brit Skovgaard,Socialdemokratiet,3
+Vordingborg,14,Jungshoved,A_Anders_J._Andersen,Anders J. Andersen,Socialdemokratiet,0
+Vordingborg,14,Jungshoved,A_Mette_Høgh_Christiansen,Mette Høgh Christiansen,Socialdemokratiet,1
+Vordingborg,14,Jungshoved,A_Nikolaj_W._Reichel,Nikolaj W. Reichel,Socialdemokratiet,30
+Vordingborg,14,Jungshoved,A_Kenneth_Andersen,Kenneth Andersen,Socialdemokratiet,1
+Vordingborg,14,Jungshoved,A_Poul_A._Larsen,Poul A. Larsen,Socialdemokratiet,1
+Vordingborg,14,Jungshoved,A_Tine_Bagger_Hansen,Tine Bagger Hansen,Socialdemokratiet,1
+Vordingborg,14,Jungshoved,A_Kurt_Johansen,Kurt Johansen,Socialdemokratiet,9
+Vordingborg,14,Jungshoved,A_Henriette_Fentz_Leithoff,Henriette Fentz Leithoff,Socialdemokratiet,10
+Vordingborg,14,Jungshoved,A_Louise_Herløv,Louise Herløv,Socialdemokratiet,0
+Vordingborg,14,Jungshoved,A_Rasmus_Oxfeldt_Larsen,Rasmus Oxfeldt Larsen,Socialdemokratiet,0
+Vordingborg,14,Jungshoved,A_Lis_Jespersen,Lis Jespersen,Socialdemokratiet,54
+Vordingborg,14,Jungshoved,A_Line_Dahl_Abildgaard,Line Dahl Abildgaard,Socialdemokratiet,0
+Vordingborg,14,Jungshoved,A_Michael_Larsen,Michael Larsen,Socialdemokratiet,2
+Vordingborg,14,Jungshoved,A_Jacob_Kamper,Jacob Kamper,Socialdemokratiet,1
+Vordingborg,14,Jungshoved,A_Susanne_Littau,Susanne Littau,Socialdemokratiet,1
+Vordingborg,14,Jungshoved,A_Jens-Peter_Hansen,Jens-Peter Hansen,Socialdemokratiet,0
+Vordingborg,14,Jungshoved,A_Jens_Ravn,Jens Ravn,Socialdemokratiet,0
+Vordingborg,14,Jungshoved,A_Carsten_Olsen,Carsten Olsen,Socialdemokratiet,0
+Vordingborg,14,Jungshoved,A_Flemming_Mortensen,Flemming Mortensen,Socialdemokratiet,0
+Vordingborg,14,Jungshoved,A_Emil_Roest,Emil Roest,Socialdemokratiet,0
+Vordingborg,14,Jungshoved,A_Bigman_A._Nkunkununu,Bigman A. Nkunkununu,Socialdemokratiet,2
+Vordingborg,14,Jungshoved,A_Jens_Larsen,Jens Larsen,Socialdemokratiet,0
+Vordingborg,14,Jungshoved,A_Shadie_Louk,Shadie Louk,Socialdemokratiet,0
+Vordingborg,14,Jungshoved,B_Listestemmer,Listestemmer,Radikale Venstre,3
+Vordingborg,14,Jungshoved,"B_Michael_Larsen,_Stege","Michael Larsen, Stege",Radikale Venstre,3
+Vordingborg,14,Jungshoved,"B_Kathrine_Olldag,_Vordingborg","Kathrine Olldag, Vordingborg",Radikale Venstre,9
+Vordingborg,14,Jungshoved,"B_Patrick_Mathias_Rasmussen,_Vording","Patrick Mathias Rasmussen, Vording",Radikale Venstre,3
+Vordingborg,14,Jungshoved,"B_Patricia_Rabjerg,_Stege","Patricia Rabjerg, Stege",Radikale Venstre,0
+Vordingborg,14,Jungshoved,"B_Lars_Bakke_Olsen,_Askeby","Lars Bakke Olsen, Askeby",Radikale Venstre,1
+Vordingborg,14,Jungshoved,"B_Carsten_Nøhr_Larsen,_Kalvehave","Carsten Nøhr Larsen, Kalvehave",Radikale Venstre,0
+Vordingborg,14,Jungshoved,"B_Vibeke_Grønbæk,_Vordingborg","Vibeke Grønbæk, Vordingborg",Radikale Venstre,1
+Vordingborg,14,Jungshoved,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,17
+Vordingborg,14,Jungshoved,"C_Jesper_Adler,_Vordingborg","Jesper Adler, Vordingborg",Det Konservative Folkeparti,8
+Vordingborg,14,Jungshoved,"C_Daniel_Irvold,_Lundby","Daniel Irvold, Lundby",Det Konservative Folkeparti,3
+Vordingborg,14,Jungshoved,"C_Lis_Due_Rasmussen,_Stege","Lis Due Rasmussen, Stege",Det Konservative Folkeparti,0
+Vordingborg,14,Jungshoved,"C_Pia_Viltoft_Wamberg,_Vordingborg","Pia Viltoft Wamberg, Vordingborg",Det Konservative Folkeparti,6
+Vordingborg,14,Jungshoved,"C_Jens_Christian_Børsmose,_Vordingbo","Jens Christian Børsmose, Vordingbo",Det Konservative Folkeparti,0
+Vordingborg,14,Jungshoved,"C_Carsten_Geert_Rasmussen,_Vordingbo","Carsten Geert Rasmussen, Vordingbo",Det Konservative Folkeparti,1
+Vordingborg,14,Jungshoved,"C_Jens-Christian_Brandt_Jørgensen,_N","Jens-Christian Brandt Jørgensen, N",Det Konservative Folkeparti,1
+Vordingborg,14,Jungshoved,"C_Lars_Skov_Andersen,_Fanefjord","Lars Skov Andersen, Fanefjord",Det Konservative Folkeparti,0
+Vordingborg,14,Jungshoved,"C_Karsten_Sevel,_Bogø","Karsten Sevel, Bogø",Det Konservative Folkeparti,0
+Vordingborg,14,Jungshoved,"C_Per_Damkjær_Juhl,_Vordingborg","Per Damkjær Juhl, Vordingborg",Det Konservative Folkeparti,0
+Vordingborg,14,Jungshoved,"C_Jesper_Bergiel_Nielsen,_Øster_Eges","Jesper Bergiel Nielsen, Øster Eges",Det Konservative Folkeparti,0
+Vordingborg,14,Jungshoved,D_Listestemmer,Listestemmer,Nye Borgerlige,13
+Vordingborg,14,Jungshoved,D_Heino_Hahn,Heino Hahn,Nye Borgerlige,5
+Vordingborg,14,Jungshoved,D_Glenn_Hansen,Glenn Hansen,Nye Borgerlige,2
+Vordingborg,14,Jungshoved,D_John_Pawlik,John Pawlik,Nye Borgerlige,1
+Vordingborg,14,Jungshoved,D_Jørn_Rasmussen,Jørn Rasmussen,Nye Borgerlige,2
+Vordingborg,14,Jungshoved,D_Michael_Andersen,Michael Andersen,Nye Borgerlige,0
+Vordingborg,14,Jungshoved,D_Tom_Nielsen,Tom Nielsen,Nye Borgerlige,0
+Vordingborg,14,Jungshoved,D_Kasper_Christiansen,Kasper Christiansen,Nye Borgerlige,0
+Vordingborg,14,Jungshoved,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,12
+Vordingborg,14,Jungshoved,F_Else-Marie_Langballe_Sørensen,Else-Marie Langballe Sørensen,SF - Socialistisk Folkeparti,23
+Vordingborg,14,Jungshoved,F_Michael_Ryberg_Juliussen,Michael Ryberg Juliussen,SF - Socialistisk Folkeparti,0
+Vordingborg,14,Jungshoved,F_Marie_Lenstrup,Marie Lenstrup,SF - Socialistisk Folkeparti,2
+Vordingborg,14,Jungshoved,F_Jesper_K._Feldballe_Hansen,Jesper K. Feldballe Hansen,SF - Socialistisk Folkeparti,0
+Vordingborg,14,Jungshoved,F_Gitte_Corell,Gitte Corell,SF - Socialistisk Folkeparti,3
+Vordingborg,14,Jungshoved,F_Lena_Schroll,Lena Schroll,SF - Socialistisk Folkeparti,2
+Vordingborg,14,Jungshoved,F_Henrik_Ægidius,Henrik Ægidius,SF - Socialistisk Folkeparti,1
+Vordingborg,14,Jungshoved,F_Karin_O._Jørgensen,Karin O. Jørgensen,SF - Socialistisk Folkeparti,0
+Vordingborg,14,Jungshoved,O_Listestemmer,Listestemmer,Dansk Folkeparti,5
+Vordingborg,14,Jungshoved,O_Søren_Hansen,Søren Hansen,Dansk Folkeparti,5
+Vordingborg,14,Jungshoved,O_Per_Stig_Sørensen,Per Stig Sørensen,Dansk Folkeparti,3
+Vordingborg,14,Jungshoved,O_Helle_Jørgensen,Helle Jørgensen,Dansk Folkeparti,2
+Vordingborg,14,Jungshoved,O_Marie_Hansen,Marie Hansen,Dansk Folkeparti,3
+Vordingborg,14,Jungshoved,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",16
+Vordingborg,14,Jungshoved,"V_Karina_Fromberg,_Præstø","Karina Fromberg, Præstø","Venstre, Danmarks Liberale Parti",29
+Vordingborg,14,Jungshoved,"V_Michael_Seiding_Larsen,Vordingborg","Michael Seiding Larsen,Vordingborg","Venstre, Danmarks Liberale Parti",2
+Vordingborg,14,Jungshoved,"V_Eva_Sommer-Madsen,_Vordingborg","Eva Sommer-Madsen, Vordingborg","Venstre, Danmarks Liberale Parti",2
+Vordingborg,14,Jungshoved,"V_Peter_Ole_Sørensen,_Præstø","Peter Ole Sørensen, Præstø","Venstre, Danmarks Liberale Parti",15
+Vordingborg,14,Jungshoved,"V_Karina_Foss,_Møn","Karina Foss, Møn","Venstre, Danmarks Liberale Parti",0
+Vordingborg,14,Jungshoved,"V_Bo_Manderup,_Præstø","Bo Manderup, Præstø","Venstre, Danmarks Liberale Parti",2
+Vordingborg,14,Jungshoved,"V_Ole_Hansen,_Møn","Ole Hansen, Møn","Venstre, Danmarks Liberale Parti",1
+Vordingborg,14,Jungshoved,"V_Anne-Marie_Jacobsen,_Stensved","Anne-Marie Jacobsen, Stensved","Venstre, Danmarks Liberale Parti",0
+Vordingborg,14,Jungshoved,"V_Ronni_Lykkehus,_Vordingborg","Ronni Lykkehus, Vordingborg","Venstre, Danmarks Liberale Parti",1
+Vordingborg,14,Jungshoved,"V_Kristina_Themsen,_Bårse","Kristina Themsen, Bårse","Venstre, Danmarks Liberale Parti",1
+Vordingborg,14,Jungshoved,"V_Babette_Bjørklund,_Vordingborg","Babette Bjørklund, Vordingborg","Venstre, Danmarks Liberale Parti",0
+Vordingborg,14,Jungshoved,"V_Gert_Tonny_Larsen,_Nyråd","Gert Tonny Larsen, Nyråd","Venstre, Danmarks Liberale Parti",1
+Vordingborg,14,Jungshoved,"V_Jonna_Henriksen,_Mern","Jonna Henriksen, Mern","Venstre, Danmarks Liberale Parti",0
+Vordingborg,14,Jungshoved,"V_Arne_Rasmussen,_Lundby","Arne Rasmussen, Lundby","Venstre, Danmarks Liberale Parti",0
+Vordingborg,14,Jungshoved,Æ_Listestemmer,Listestemmer,Fælleslisten,4
+Vordingborg,14,Jungshoved,Æ_Charlotte_Bagge_Hansen,Charlotte Bagge Hansen,Fælleslisten,2
+Vordingborg,14,Jungshoved,Æ_Torben_Folke_Månsson,Torben Folke Månsson,Fælleslisten,1
+Vordingborg,14,Jungshoved,Æ_Else-Marie_Theisen,Else-Marie Theisen,Fælleslisten,1
+Vordingborg,14,Jungshoved,Æ_Laura_Folke_Månsson,Laura Folke Månsson,Fælleslisten,1
+Vordingborg,14,Jungshoved,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,11
+Vordingborg,14,Jungshoved,"Ø_Mette_Gerdøe,_Nyråd","Mette Gerdøe, Nyråd",Enhedslisten - De Rød-Grønne,8
+Vordingborg,14,Jungshoved,"Ø_Martin_Graff_Jørgensen,_Bogø_By","Martin Graff Jørgensen, Bogø By",Enhedslisten - De Rød-Grønne,2
+Vordingborg,14,Jungshoved,"Ø_Tage_Vestergaard,_Vordingborg","Tage Vestergaard, Vordingborg",Enhedslisten - De Rød-Grønne,3
+Vordingborg,14,Jungshoved,"Ø_Morten_Pihl,_Stege_Møn","Morten Pihl, Stege Møn",Enhedslisten - De Rød-Grønne,1
+Vordingborg,14,Jungshoved,"Ø_Palle_Eghjort,_Vordingborg","Palle Eghjort, Vordingborg",Enhedslisten - De Rød-Grønne,0
+Vordingborg,14,Jungshoved,"Ø_Jan_Simon,_Hårbølle_Havn_Møn","Jan Simon, Hårbølle Havn Møn",Enhedslisten - De Rød-Grønne,1
+Vordingborg,14,Jungshoved,Å_Listestemmer,Listestemmer,Alternativet,0
+Vordingborg,14,Jungshoved,"Å_Annabianca_C._Milter,_Møn","Annabianca C. Milter, Møn",Alternativet,6
+Vordingborg,14,Jungshoved,"Å_Lene_Ezzaaf,_Bårse","Lene Ezzaaf, Bårse",Alternativet,3
+Vordingborg,15,Mern,A_Listestemmer,Listestemmer,Socialdemokratiet,87
+Vordingborg,15,Mern,A_Mikael_Smed,Mikael Smed,Socialdemokratiet,145
+Vordingborg,15,Mern,A_Brit_Skovgaard,Brit Skovgaard,Socialdemokratiet,2
+Vordingborg,15,Mern,A_Anders_J._Andersen,Anders J. Andersen,Socialdemokratiet,4
+Vordingborg,15,Mern,A_Mette_Høgh_Christiansen,Mette Høgh Christiansen,Socialdemokratiet,7
+Vordingborg,15,Mern,A_Nikolaj_W._Reichel,Nikolaj W. Reichel,Socialdemokratiet,6
+Vordingborg,15,Mern,A_Kenneth_Andersen,Kenneth Andersen,Socialdemokratiet,0
+Vordingborg,15,Mern,A_Poul_A._Larsen,Poul A. Larsen,Socialdemokratiet,1
+Vordingborg,15,Mern,A_Tine_Bagger_Hansen,Tine Bagger Hansen,Socialdemokratiet,5
+Vordingborg,15,Mern,A_Kurt_Johansen,Kurt Johansen,Socialdemokratiet,3
+Vordingborg,15,Mern,A_Henriette_Fentz_Leithoff,Henriette Fentz Leithoff,Socialdemokratiet,18
+Vordingborg,15,Mern,A_Louise_Herløv,Louise Herløv,Socialdemokratiet,22
+Vordingborg,15,Mern,A_Rasmus_Oxfeldt_Larsen,Rasmus Oxfeldt Larsen,Socialdemokratiet,10
+Vordingborg,15,Mern,A_Lis_Jespersen,Lis Jespersen,Socialdemokratiet,6
+Vordingborg,15,Mern,A_Line_Dahl_Abildgaard,Line Dahl Abildgaard,Socialdemokratiet,1
+Vordingborg,15,Mern,A_Michael_Larsen,Michael Larsen,Socialdemokratiet,6
+Vordingborg,15,Mern,A_Jacob_Kamper,Jacob Kamper,Socialdemokratiet,3
+Vordingborg,15,Mern,A_Susanne_Littau,Susanne Littau,Socialdemokratiet,5
+Vordingborg,15,Mern,A_Jens-Peter_Hansen,Jens-Peter Hansen,Socialdemokratiet,1
+Vordingborg,15,Mern,A_Jens_Ravn,Jens Ravn,Socialdemokratiet,1
+Vordingborg,15,Mern,A_Carsten_Olsen,Carsten Olsen,Socialdemokratiet,1
+Vordingborg,15,Mern,A_Flemming_Mortensen,Flemming Mortensen,Socialdemokratiet,2
+Vordingborg,15,Mern,A_Emil_Roest,Emil Roest,Socialdemokratiet,2
+Vordingborg,15,Mern,A_Bigman_A._Nkunkununu,Bigman A. Nkunkununu,Socialdemokratiet,2
+Vordingborg,15,Mern,A_Jens_Larsen,Jens Larsen,Socialdemokratiet,0
+Vordingborg,15,Mern,A_Shadie_Louk,Shadie Louk,Socialdemokratiet,0
+Vordingborg,15,Mern,B_Listestemmer,Listestemmer,Radikale Venstre,4
+Vordingborg,15,Mern,"B_Michael_Larsen,_Stege","Michael Larsen, Stege",Radikale Venstre,5
+Vordingborg,15,Mern,"B_Kathrine_Olldag,_Vordingborg","Kathrine Olldag, Vordingborg",Radikale Venstre,7
+Vordingborg,15,Mern,"B_Patrick_Mathias_Rasmussen,_Vording","Patrick Mathias Rasmussen, Vording",Radikale Venstre,2
+Vordingborg,15,Mern,"B_Patricia_Rabjerg,_Stege","Patricia Rabjerg, Stege",Radikale Venstre,1
+Vordingborg,15,Mern,"B_Lars_Bakke_Olsen,_Askeby","Lars Bakke Olsen, Askeby",Radikale Venstre,0
+Vordingborg,15,Mern,"B_Carsten_Nøhr_Larsen,_Kalvehave","Carsten Nøhr Larsen, Kalvehave",Radikale Venstre,1
+Vordingborg,15,Mern,"B_Vibeke_Grønbæk,_Vordingborg","Vibeke Grønbæk, Vordingborg",Radikale Venstre,0
+Vordingborg,15,Mern,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,20
+Vordingborg,15,Mern,"C_Jesper_Adler,_Vordingborg","Jesper Adler, Vordingborg",Det Konservative Folkeparti,32
+Vordingborg,15,Mern,"C_Daniel_Irvold,_Lundby","Daniel Irvold, Lundby",Det Konservative Folkeparti,3
+Vordingborg,15,Mern,"C_Lis_Due_Rasmussen,_Stege","Lis Due Rasmussen, Stege",Det Konservative Folkeparti,0
+Vordingborg,15,Mern,"C_Pia_Viltoft_Wamberg,_Vordingborg","Pia Viltoft Wamberg, Vordingborg",Det Konservative Folkeparti,11
+Vordingborg,15,Mern,"C_Jens_Christian_Børsmose,_Vordingbo","Jens Christian Børsmose, Vordingbo",Det Konservative Folkeparti,1
+Vordingborg,15,Mern,"C_Carsten_Geert_Rasmussen,_Vordingbo","Carsten Geert Rasmussen, Vordingbo",Det Konservative Folkeparti,3
+Vordingborg,15,Mern,"C_Jens-Christian_Brandt_Jørgensen,_N","Jens-Christian Brandt Jørgensen, N",Det Konservative Folkeparti,0
+Vordingborg,15,Mern,"C_Lars_Skov_Andersen,_Fanefjord","Lars Skov Andersen, Fanefjord",Det Konservative Folkeparti,0
+Vordingborg,15,Mern,"C_Karsten_Sevel,_Bogø","Karsten Sevel, Bogø",Det Konservative Folkeparti,0
+Vordingborg,15,Mern,"C_Per_Damkjær_Juhl,_Vordingborg","Per Damkjær Juhl, Vordingborg",Det Konservative Folkeparti,0
+Vordingborg,15,Mern,"C_Jesper_Bergiel_Nielsen,_Øster_Eges","Jesper Bergiel Nielsen, Øster Eges",Det Konservative Folkeparti,80
+Vordingborg,15,Mern,D_Listestemmer,Listestemmer,Nye Borgerlige,25
+Vordingborg,15,Mern,D_Heino_Hahn,Heino Hahn,Nye Borgerlige,13
+Vordingborg,15,Mern,D_Glenn_Hansen,Glenn Hansen,Nye Borgerlige,9
+Vordingborg,15,Mern,D_John_Pawlik,John Pawlik,Nye Borgerlige,1
+Vordingborg,15,Mern,D_Jørn_Rasmussen,Jørn Rasmussen,Nye Borgerlige,7
+Vordingborg,15,Mern,D_Michael_Andersen,Michael Andersen,Nye Borgerlige,0
+Vordingborg,15,Mern,D_Tom_Nielsen,Tom Nielsen,Nye Borgerlige,1
+Vordingborg,15,Mern,D_Kasper_Christiansen,Kasper Christiansen,Nye Borgerlige,1
+Vordingborg,15,Mern,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,15
+Vordingborg,15,Mern,F_Else-Marie_Langballe_Sørensen,Else-Marie Langballe Sørensen,SF - Socialistisk Folkeparti,27
+Vordingborg,15,Mern,F_Michael_Ryberg_Juliussen,Michael Ryberg Juliussen,SF - Socialistisk Folkeparti,6
+Vordingborg,15,Mern,F_Marie_Lenstrup,Marie Lenstrup,SF - Socialistisk Folkeparti,5
+Vordingborg,15,Mern,F_Jesper_K._Feldballe_Hansen,Jesper K. Feldballe Hansen,SF - Socialistisk Folkeparti,11
+Vordingborg,15,Mern,F_Gitte_Corell,Gitte Corell,SF - Socialistisk Folkeparti,11
+Vordingborg,15,Mern,F_Lena_Schroll,Lena Schroll,SF - Socialistisk Folkeparti,0
+Vordingborg,15,Mern,F_Henrik_Ægidius,Henrik Ægidius,SF - Socialistisk Folkeparti,0
+Vordingborg,15,Mern,F_Karin_O._Jørgensen,Karin O. Jørgensen,SF - Socialistisk Folkeparti,0
+Vordingborg,15,Mern,O_Listestemmer,Listestemmer,Dansk Folkeparti,26
+Vordingborg,15,Mern,O_Søren_Hansen,Søren Hansen,Dansk Folkeparti,15
+Vordingborg,15,Mern,O_Per_Stig_Sørensen,Per Stig Sørensen,Dansk Folkeparti,1
+Vordingborg,15,Mern,O_Helle_Jørgensen,Helle Jørgensen,Dansk Folkeparti,6
+Vordingborg,15,Mern,O_Marie_Hansen,Marie Hansen,Dansk Folkeparti,3
+Vordingborg,15,Mern,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",39
+Vordingborg,15,Mern,"V_Karina_Fromberg,_Præstø","Karina Fromberg, Præstø","Venstre, Danmarks Liberale Parti",52
+Vordingborg,15,Mern,"V_Michael_Seiding_Larsen,Vordingborg","Michael Seiding Larsen,Vordingborg","Venstre, Danmarks Liberale Parti",49
+Vordingborg,15,Mern,"V_Eva_Sommer-Madsen,_Vordingborg","Eva Sommer-Madsen, Vordingborg","Venstre, Danmarks Liberale Parti",37
+Vordingborg,15,Mern,"V_Peter_Ole_Sørensen,_Præstø","Peter Ole Sørensen, Præstø","Venstre, Danmarks Liberale Parti",11
+Vordingborg,15,Mern,"V_Karina_Foss,_Møn","Karina Foss, Møn","Venstre, Danmarks Liberale Parti",4
+Vordingborg,15,Mern,"V_Bo_Manderup,_Præstø","Bo Manderup, Præstø","Venstre, Danmarks Liberale Parti",3
+Vordingborg,15,Mern,"V_Ole_Hansen,_Møn","Ole Hansen, Møn","Venstre, Danmarks Liberale Parti",2
+Vordingborg,15,Mern,"V_Anne-Marie_Jacobsen,_Stensved","Anne-Marie Jacobsen, Stensved","Venstre, Danmarks Liberale Parti",28
+Vordingborg,15,Mern,"V_Ronni_Lykkehus,_Vordingborg","Ronni Lykkehus, Vordingborg","Venstre, Danmarks Liberale Parti",9
+Vordingborg,15,Mern,"V_Kristina_Themsen,_Bårse","Kristina Themsen, Bårse","Venstre, Danmarks Liberale Parti",3
+Vordingborg,15,Mern,"V_Babette_Bjørklund,_Vordingborg","Babette Bjørklund, Vordingborg","Venstre, Danmarks Liberale Parti",2
+Vordingborg,15,Mern,"V_Gert_Tonny_Larsen,_Nyråd","Gert Tonny Larsen, Nyråd","Venstre, Danmarks Liberale Parti",0
+Vordingborg,15,Mern,"V_Jonna_Henriksen,_Mern","Jonna Henriksen, Mern","Venstre, Danmarks Liberale Parti",9
+Vordingborg,15,Mern,"V_Arne_Rasmussen,_Lundby","Arne Rasmussen, Lundby","Venstre, Danmarks Liberale Parti",0
+Vordingborg,15,Mern,Æ_Listestemmer,Listestemmer,Fælleslisten,3
+Vordingborg,15,Mern,Æ_Charlotte_Bagge_Hansen,Charlotte Bagge Hansen,Fælleslisten,3
+Vordingborg,15,Mern,Æ_Torben_Folke_Månsson,Torben Folke Månsson,Fælleslisten,5
+Vordingborg,15,Mern,Æ_Else-Marie_Theisen,Else-Marie Theisen,Fælleslisten,0
+Vordingborg,15,Mern,Æ_Laura_Folke_Månsson,Laura Folke Månsson,Fælleslisten,5
+Vordingborg,15,Mern,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,38
+Vordingborg,15,Mern,"Ø_Mette_Gerdøe,_Nyråd","Mette Gerdøe, Nyråd",Enhedslisten - De Rød-Grønne,11
+Vordingborg,15,Mern,"Ø_Martin_Graff_Jørgensen,_Bogø_By","Martin Graff Jørgensen, Bogø By",Enhedslisten - De Rød-Grønne,8
+Vordingborg,15,Mern,"Ø_Tage_Vestergaard,_Vordingborg","Tage Vestergaard, Vordingborg",Enhedslisten - De Rød-Grønne,0
+Vordingborg,15,Mern,"Ø_Morten_Pihl,_Stege_Møn","Morten Pihl, Stege Møn",Enhedslisten - De Rød-Grønne,3
+Vordingborg,15,Mern,"Ø_Palle_Eghjort,_Vordingborg","Palle Eghjort, Vordingborg",Enhedslisten - De Rød-Grønne,0
+Vordingborg,15,Mern,"Ø_Jan_Simon,_Hårbølle_Havn_Møn","Jan Simon, Hårbølle Havn Møn",Enhedslisten - De Rød-Grønne,1
+Vordingborg,15,Mern,Å_Listestemmer,Listestemmer,Alternativet,6
+Vordingborg,15,Mern,"Å_Annabianca_C._Milter,_Møn","Annabianca C. Milter, Møn",Alternativet,5
+Vordingborg,15,Mern,"Å_Lene_Ezzaaf,_Bårse","Lene Ezzaaf, Bårse",Alternativet,1
+Vordingborg,16,Kalvehave,A_Listestemmer,Listestemmer,Socialdemokratiet,90
+Vordingborg,16,Kalvehave,A_Mikael_Smed,Mikael Smed,Socialdemokratiet,234
+Vordingborg,16,Kalvehave,A_Brit_Skovgaard,Brit Skovgaard,Socialdemokratiet,18
+Vordingborg,16,Kalvehave,A_Anders_J._Andersen,Anders J. Andersen,Socialdemokratiet,10
+Vordingborg,16,Kalvehave,A_Mette_Høgh_Christiansen,Mette Høgh Christiansen,Socialdemokratiet,12
+Vordingborg,16,Kalvehave,A_Nikolaj_W._Reichel,Nikolaj W. Reichel,Socialdemokratiet,4
+Vordingborg,16,Kalvehave,A_Kenneth_Andersen,Kenneth Andersen,Socialdemokratiet,5
+Vordingborg,16,Kalvehave,A_Poul_A._Larsen,Poul A. Larsen,Socialdemokratiet,4
+Vordingborg,16,Kalvehave,A_Tine_Bagger_Hansen,Tine Bagger Hansen,Socialdemokratiet,5
+Vordingborg,16,Kalvehave,A_Kurt_Johansen,Kurt Johansen,Socialdemokratiet,3
+Vordingborg,16,Kalvehave,A_Henriette_Fentz_Leithoff,Henriette Fentz Leithoff,Socialdemokratiet,7
+Vordingborg,16,Kalvehave,A_Louise_Herløv,Louise Herløv,Socialdemokratiet,15
+Vordingborg,16,Kalvehave,A_Rasmus_Oxfeldt_Larsen,Rasmus Oxfeldt Larsen,Socialdemokratiet,56
+Vordingborg,16,Kalvehave,A_Lis_Jespersen,Lis Jespersen,Socialdemokratiet,1
+Vordingborg,16,Kalvehave,A_Line_Dahl_Abildgaard,Line Dahl Abildgaard,Socialdemokratiet,2
+Vordingborg,16,Kalvehave,A_Michael_Larsen,Michael Larsen,Socialdemokratiet,10
+Vordingborg,16,Kalvehave,A_Jacob_Kamper,Jacob Kamper,Socialdemokratiet,3
+Vordingborg,16,Kalvehave,A_Susanne_Littau,Susanne Littau,Socialdemokratiet,2
+Vordingborg,16,Kalvehave,A_Jens-Peter_Hansen,Jens-Peter Hansen,Socialdemokratiet,0
+Vordingborg,16,Kalvehave,A_Jens_Ravn,Jens Ravn,Socialdemokratiet,0
+Vordingborg,16,Kalvehave,A_Carsten_Olsen,Carsten Olsen,Socialdemokratiet,1
+Vordingborg,16,Kalvehave,A_Flemming_Mortensen,Flemming Mortensen,Socialdemokratiet,0
+Vordingborg,16,Kalvehave,A_Emil_Roest,Emil Roest,Socialdemokratiet,0
+Vordingborg,16,Kalvehave,A_Bigman_A._Nkunkununu,Bigman A. Nkunkununu,Socialdemokratiet,3
+Vordingborg,16,Kalvehave,A_Jens_Larsen,Jens Larsen,Socialdemokratiet,1
+Vordingborg,16,Kalvehave,A_Shadie_Louk,Shadie Louk,Socialdemokratiet,1
+Vordingborg,16,Kalvehave,B_Listestemmer,Listestemmer,Radikale Venstre,6
+Vordingborg,16,Kalvehave,"B_Michael_Larsen,_Stege","Michael Larsen, Stege",Radikale Venstre,14
+Vordingborg,16,Kalvehave,"B_Kathrine_Olldag,_Vordingborg","Kathrine Olldag, Vordingborg",Radikale Venstre,10
+Vordingborg,16,Kalvehave,"B_Patrick_Mathias_Rasmussen,_Vording","Patrick Mathias Rasmussen, Vording",Radikale Venstre,3
+Vordingborg,16,Kalvehave,"B_Patricia_Rabjerg,_Stege","Patricia Rabjerg, Stege",Radikale Venstre,5
+Vordingborg,16,Kalvehave,"B_Lars_Bakke_Olsen,_Askeby","Lars Bakke Olsen, Askeby",Radikale Venstre,1
+Vordingborg,16,Kalvehave,"B_Carsten_Nøhr_Larsen,_Kalvehave","Carsten Nøhr Larsen, Kalvehave",Radikale Venstre,8
+Vordingborg,16,Kalvehave,"B_Vibeke_Grønbæk,_Vordingborg","Vibeke Grønbæk, Vordingborg",Radikale Venstre,1
+Vordingborg,16,Kalvehave,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,41
+Vordingborg,16,Kalvehave,"C_Jesper_Adler,_Vordingborg","Jesper Adler, Vordingborg",Det Konservative Folkeparti,49
+Vordingborg,16,Kalvehave,"C_Daniel_Irvold,_Lundby","Daniel Irvold, Lundby",Det Konservative Folkeparti,4
+Vordingborg,16,Kalvehave,"C_Lis_Due_Rasmussen,_Stege","Lis Due Rasmussen, Stege",Det Konservative Folkeparti,4
+Vordingborg,16,Kalvehave,"C_Pia_Viltoft_Wamberg,_Vordingborg","Pia Viltoft Wamberg, Vordingborg",Det Konservative Folkeparti,41
+Vordingborg,16,Kalvehave,"C_Jens_Christian_Børsmose,_Vordingbo","Jens Christian Børsmose, Vordingbo",Det Konservative Folkeparti,2
+Vordingborg,16,Kalvehave,"C_Carsten_Geert_Rasmussen,_Vordingbo","Carsten Geert Rasmussen, Vordingbo",Det Konservative Folkeparti,2
+Vordingborg,16,Kalvehave,"C_Jens-Christian_Brandt_Jørgensen,_N","Jens-Christian Brandt Jørgensen, N",Det Konservative Folkeparti,0
+Vordingborg,16,Kalvehave,"C_Lars_Skov_Andersen,_Fanefjord","Lars Skov Andersen, Fanefjord",Det Konservative Folkeparti,1
+Vordingborg,16,Kalvehave,"C_Karsten_Sevel,_Bogø","Karsten Sevel, Bogø",Det Konservative Folkeparti,0
+Vordingborg,16,Kalvehave,"C_Per_Damkjær_Juhl,_Vordingborg","Per Damkjær Juhl, Vordingborg",Det Konservative Folkeparti,0
+Vordingborg,16,Kalvehave,"C_Jesper_Bergiel_Nielsen,_Øster_Eges","Jesper Bergiel Nielsen, Øster Eges",Det Konservative Folkeparti,6
+Vordingborg,16,Kalvehave,D_Listestemmer,Listestemmer,Nye Borgerlige,24
+Vordingborg,16,Kalvehave,D_Heino_Hahn,Heino Hahn,Nye Borgerlige,23
+Vordingborg,16,Kalvehave,D_Glenn_Hansen,Glenn Hansen,Nye Borgerlige,15
+Vordingborg,16,Kalvehave,D_John_Pawlik,John Pawlik,Nye Borgerlige,0
+Vordingborg,16,Kalvehave,D_Jørn_Rasmussen,Jørn Rasmussen,Nye Borgerlige,1
+Vordingborg,16,Kalvehave,D_Michael_Andersen,Michael Andersen,Nye Borgerlige,5
+Vordingborg,16,Kalvehave,D_Tom_Nielsen,Tom Nielsen,Nye Borgerlige,5
+Vordingborg,16,Kalvehave,D_Kasper_Christiansen,Kasper Christiansen,Nye Borgerlige,4
+Vordingborg,16,Kalvehave,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,32
+Vordingborg,16,Kalvehave,F_Else-Marie_Langballe_Sørensen,Else-Marie Langballe Sørensen,SF - Socialistisk Folkeparti,47
+Vordingborg,16,Kalvehave,F_Michael_Ryberg_Juliussen,Michael Ryberg Juliussen,SF - Socialistisk Folkeparti,4
+Vordingborg,16,Kalvehave,F_Marie_Lenstrup,Marie Lenstrup,SF - Socialistisk Folkeparti,7
+Vordingborg,16,Kalvehave,F_Jesper_K._Feldballe_Hansen,Jesper K. Feldballe Hansen,SF - Socialistisk Folkeparti,3
+Vordingborg,16,Kalvehave,F_Gitte_Corell,Gitte Corell,SF - Socialistisk Folkeparti,3
+Vordingborg,16,Kalvehave,F_Lena_Schroll,Lena Schroll,SF - Socialistisk Folkeparti,3
+Vordingborg,16,Kalvehave,F_Henrik_Ægidius,Henrik Ægidius,SF - Socialistisk Folkeparti,3
+Vordingborg,16,Kalvehave,F_Karin_O._Jørgensen,Karin O. Jørgensen,SF - Socialistisk Folkeparti,0
+Vordingborg,16,Kalvehave,O_Listestemmer,Listestemmer,Dansk Folkeparti,15
+Vordingborg,16,Kalvehave,O_Søren_Hansen,Søren Hansen,Dansk Folkeparti,13
+Vordingborg,16,Kalvehave,O_Per_Stig_Sørensen,Per Stig Sørensen,Dansk Folkeparti,5
+Vordingborg,16,Kalvehave,O_Helle_Jørgensen,Helle Jørgensen,Dansk Folkeparti,7
+Vordingborg,16,Kalvehave,O_Marie_Hansen,Marie Hansen,Dansk Folkeparti,4
+Vordingborg,16,Kalvehave,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",44
+Vordingborg,16,Kalvehave,"V_Karina_Fromberg,_Præstø","Karina Fromberg, Præstø","Venstre, Danmarks Liberale Parti",52
+Vordingborg,16,Kalvehave,"V_Michael_Seiding_Larsen,Vordingborg","Michael Seiding Larsen,Vordingborg","Venstre, Danmarks Liberale Parti",65
+Vordingborg,16,Kalvehave,"V_Eva_Sommer-Madsen,_Vordingborg","Eva Sommer-Madsen, Vordingborg","Venstre, Danmarks Liberale Parti",12
+Vordingborg,16,Kalvehave,"V_Peter_Ole_Sørensen,_Præstø","Peter Ole Sørensen, Præstø","Venstre, Danmarks Liberale Parti",8
+Vordingborg,16,Kalvehave,"V_Karina_Foss,_Møn","Karina Foss, Møn","Venstre, Danmarks Liberale Parti",17
+Vordingborg,16,Kalvehave,"V_Bo_Manderup,_Præstø","Bo Manderup, Præstø","Venstre, Danmarks Liberale Parti",2
+Vordingborg,16,Kalvehave,"V_Ole_Hansen,_Møn","Ole Hansen, Møn","Venstre, Danmarks Liberale Parti",2
+Vordingborg,16,Kalvehave,"V_Anne-Marie_Jacobsen,_Stensved","Anne-Marie Jacobsen, Stensved","Venstre, Danmarks Liberale Parti",5
+Vordingborg,16,Kalvehave,"V_Ronni_Lykkehus,_Vordingborg","Ronni Lykkehus, Vordingborg","Venstre, Danmarks Liberale Parti",12
+Vordingborg,16,Kalvehave,"V_Kristina_Themsen,_Bårse","Kristina Themsen, Bårse","Venstre, Danmarks Liberale Parti",3
+Vordingborg,16,Kalvehave,"V_Babette_Bjørklund,_Vordingborg","Babette Bjørklund, Vordingborg","Venstre, Danmarks Liberale Parti",0
+Vordingborg,16,Kalvehave,"V_Gert_Tonny_Larsen,_Nyråd","Gert Tonny Larsen, Nyråd","Venstre, Danmarks Liberale Parti",2
+Vordingborg,16,Kalvehave,"V_Jonna_Henriksen,_Mern","Jonna Henriksen, Mern","Venstre, Danmarks Liberale Parti",0
+Vordingborg,16,Kalvehave,"V_Arne_Rasmussen,_Lundby","Arne Rasmussen, Lundby","Venstre, Danmarks Liberale Parti",1
+Vordingborg,16,Kalvehave,Æ_Listestemmer,Listestemmer,Fælleslisten,8
+Vordingborg,16,Kalvehave,Æ_Charlotte_Bagge_Hansen,Charlotte Bagge Hansen,Fælleslisten,16
+Vordingborg,16,Kalvehave,Æ_Torben_Folke_Månsson,Torben Folke Månsson,Fælleslisten,19
+Vordingborg,16,Kalvehave,Æ_Else-Marie_Theisen,Else-Marie Theisen,Fælleslisten,2
+Vordingborg,16,Kalvehave,Æ_Laura_Folke_Månsson,Laura Folke Månsson,Fælleslisten,6
+Vordingborg,16,Kalvehave,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,34
+Vordingborg,16,Kalvehave,"Ø_Mette_Gerdøe,_Nyråd","Mette Gerdøe, Nyråd",Enhedslisten - De Rød-Grønne,22
+Vordingborg,16,Kalvehave,"Ø_Martin_Graff_Jørgensen,_Bogø_By","Martin Graff Jørgensen, Bogø By",Enhedslisten - De Rød-Grønne,13
+Vordingborg,16,Kalvehave,"Ø_Tage_Vestergaard,_Vordingborg","Tage Vestergaard, Vordingborg",Enhedslisten - De Rød-Grønne,5
+Vordingborg,16,Kalvehave,"Ø_Morten_Pihl,_Stege_Møn","Morten Pihl, Stege Møn",Enhedslisten - De Rød-Grønne,1
+Vordingborg,16,Kalvehave,"Ø_Palle_Eghjort,_Vordingborg","Palle Eghjort, Vordingborg",Enhedslisten - De Rød-Grønne,1
+Vordingborg,16,Kalvehave,"Ø_Jan_Simon,_Hårbølle_Havn_Møn","Jan Simon, Hårbølle Havn Møn",Enhedslisten - De Rød-Grønne,2
+Vordingborg,16,Kalvehave,Å_Listestemmer,Listestemmer,Alternativet,0
+Vordingborg,16,Kalvehave,"Å_Annabianca_C._Milter,_Møn","Annabianca C. Milter, Møn",Alternativet,7
+Vordingborg,16,Kalvehave,"Å_Lene_Ezzaaf,_Bårse","Lene Ezzaaf, Bårse",Alternativet,3
+Vordingborg,17,Stensved,A_Listestemmer,Listestemmer,Socialdemokratiet,83
+Vordingborg,17,Stensved,A_Mikael_Smed,Mikael Smed,Socialdemokratiet,196
+Vordingborg,17,Stensved,A_Brit_Skovgaard,Brit Skovgaard,Socialdemokratiet,13
+Vordingborg,17,Stensved,A_Anders_J._Andersen,Anders J. Andersen,Socialdemokratiet,12
+Vordingborg,17,Stensved,A_Mette_Høgh_Christiansen,Mette Høgh Christiansen,Socialdemokratiet,16
+Vordingborg,17,Stensved,A_Nikolaj_W._Reichel,Nikolaj W. Reichel,Socialdemokratiet,5
+Vordingborg,17,Stensved,A_Kenneth_Andersen,Kenneth Andersen,Socialdemokratiet,3
+Vordingborg,17,Stensved,A_Poul_A._Larsen,Poul A. Larsen,Socialdemokratiet,7
+Vordingborg,17,Stensved,A_Tine_Bagger_Hansen,Tine Bagger Hansen,Socialdemokratiet,4
+Vordingborg,17,Stensved,A_Kurt_Johansen,Kurt Johansen,Socialdemokratiet,4
+Vordingborg,17,Stensved,A_Henriette_Fentz_Leithoff,Henriette Fentz Leithoff,Socialdemokratiet,6
+Vordingborg,17,Stensved,A_Louise_Herløv,Louise Herløv,Socialdemokratiet,55
+Vordingborg,17,Stensved,A_Rasmus_Oxfeldt_Larsen,Rasmus Oxfeldt Larsen,Socialdemokratiet,1
+Vordingborg,17,Stensved,A_Lis_Jespersen,Lis Jespersen,Socialdemokratiet,0
+Vordingborg,17,Stensved,A_Line_Dahl_Abildgaard,Line Dahl Abildgaard,Socialdemokratiet,2
+Vordingborg,17,Stensved,A_Michael_Larsen,Michael Larsen,Socialdemokratiet,7
+Vordingborg,17,Stensved,A_Jacob_Kamper,Jacob Kamper,Socialdemokratiet,7
+Vordingborg,17,Stensved,A_Susanne_Littau,Susanne Littau,Socialdemokratiet,2
+Vordingborg,17,Stensved,A_Jens-Peter_Hansen,Jens-Peter Hansen,Socialdemokratiet,4
+Vordingborg,17,Stensved,A_Jens_Ravn,Jens Ravn,Socialdemokratiet,2
+Vordingborg,17,Stensved,A_Carsten_Olsen,Carsten Olsen,Socialdemokratiet,2
+Vordingborg,17,Stensved,A_Flemming_Mortensen,Flemming Mortensen,Socialdemokratiet,3
+Vordingborg,17,Stensved,A_Emil_Roest,Emil Roest,Socialdemokratiet,1
+Vordingborg,17,Stensved,A_Bigman_A._Nkunkununu,Bigman A. Nkunkununu,Socialdemokratiet,2
+Vordingborg,17,Stensved,A_Jens_Larsen,Jens Larsen,Socialdemokratiet,3
+Vordingborg,17,Stensved,A_Shadie_Louk,Shadie Louk,Socialdemokratiet,0
+Vordingborg,17,Stensved,B_Listestemmer,Listestemmer,Radikale Venstre,6
+Vordingborg,17,Stensved,"B_Michael_Larsen,_Stege","Michael Larsen, Stege",Radikale Venstre,4
+Vordingborg,17,Stensved,"B_Kathrine_Olldag,_Vordingborg","Kathrine Olldag, Vordingborg",Radikale Venstre,6
+Vordingborg,17,Stensved,"B_Patrick_Mathias_Rasmussen,_Vording","Patrick Mathias Rasmussen, Vording",Radikale Venstre,5
+Vordingborg,17,Stensved,"B_Patricia_Rabjerg,_Stege","Patricia Rabjerg, Stege",Radikale Venstre,0
+Vordingborg,17,Stensved,"B_Lars_Bakke_Olsen,_Askeby","Lars Bakke Olsen, Askeby",Radikale Venstre,1
+Vordingborg,17,Stensved,"B_Carsten_Nøhr_Larsen,_Kalvehave","Carsten Nøhr Larsen, Kalvehave",Radikale Venstre,0
+Vordingborg,17,Stensved,"B_Vibeke_Grønbæk,_Vordingborg","Vibeke Grønbæk, Vordingborg",Radikale Venstre,0
+Vordingborg,17,Stensved,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,46
+Vordingborg,17,Stensved,"C_Jesper_Adler,_Vordingborg","Jesper Adler, Vordingborg",Det Konservative Folkeparti,54
+Vordingborg,17,Stensved,"C_Daniel_Irvold,_Lundby","Daniel Irvold, Lundby",Det Konservative Folkeparti,3
+Vordingborg,17,Stensved,"C_Lis_Due_Rasmussen,_Stege","Lis Due Rasmussen, Stege",Det Konservative Folkeparti,5
+Vordingborg,17,Stensved,"C_Pia_Viltoft_Wamberg,_Vordingborg","Pia Viltoft Wamberg, Vordingborg",Det Konservative Folkeparti,20
+Vordingborg,17,Stensved,"C_Jens_Christian_Børsmose,_Vordingbo","Jens Christian Børsmose, Vordingbo",Det Konservative Folkeparti,0
+Vordingborg,17,Stensved,"C_Carsten_Geert_Rasmussen,_Vordingbo","Carsten Geert Rasmussen, Vordingbo",Det Konservative Folkeparti,3
+Vordingborg,17,Stensved,"C_Jens-Christian_Brandt_Jørgensen,_N","Jens-Christian Brandt Jørgensen, N",Det Konservative Folkeparti,0
+Vordingborg,17,Stensved,"C_Lars_Skov_Andersen,_Fanefjord","Lars Skov Andersen, Fanefjord",Det Konservative Folkeparti,0
+Vordingborg,17,Stensved,"C_Karsten_Sevel,_Bogø","Karsten Sevel, Bogø",Det Konservative Folkeparti,1
+Vordingborg,17,Stensved,"C_Per_Damkjær_Juhl,_Vordingborg","Per Damkjær Juhl, Vordingborg",Det Konservative Folkeparti,0
+Vordingborg,17,Stensved,"C_Jesper_Bergiel_Nielsen,_Øster_Eges","Jesper Bergiel Nielsen, Øster Eges",Det Konservative Folkeparti,5
+Vordingborg,17,Stensved,D_Listestemmer,Listestemmer,Nye Borgerlige,29
+Vordingborg,17,Stensved,D_Heino_Hahn,Heino Hahn,Nye Borgerlige,19
+Vordingborg,17,Stensved,D_Glenn_Hansen,Glenn Hansen,Nye Borgerlige,5
+Vordingborg,17,Stensved,D_John_Pawlik,John Pawlik,Nye Borgerlige,3
+Vordingborg,17,Stensved,D_Jørn_Rasmussen,Jørn Rasmussen,Nye Borgerlige,0
+Vordingborg,17,Stensved,D_Michael_Andersen,Michael Andersen,Nye Borgerlige,0
+Vordingborg,17,Stensved,D_Tom_Nielsen,Tom Nielsen,Nye Borgerlige,5
+Vordingborg,17,Stensved,D_Kasper_Christiansen,Kasper Christiansen,Nye Borgerlige,2
+Vordingborg,17,Stensved,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,23
+Vordingborg,17,Stensved,F_Else-Marie_Langballe_Sørensen,Else-Marie Langballe Sørensen,SF - Socialistisk Folkeparti,36
+Vordingborg,17,Stensved,F_Michael_Ryberg_Juliussen,Michael Ryberg Juliussen,SF - Socialistisk Folkeparti,1
+Vordingborg,17,Stensved,F_Marie_Lenstrup,Marie Lenstrup,SF - Socialistisk Folkeparti,3
+Vordingborg,17,Stensved,F_Jesper_K._Feldballe_Hansen,Jesper K. Feldballe Hansen,SF - Socialistisk Folkeparti,1
+Vordingborg,17,Stensved,F_Gitte_Corell,Gitte Corell,SF - Socialistisk Folkeparti,3
+Vordingborg,17,Stensved,F_Lena_Schroll,Lena Schroll,SF - Socialistisk Folkeparti,1
+Vordingborg,17,Stensved,F_Henrik_Ægidius,Henrik Ægidius,SF - Socialistisk Folkeparti,1
+Vordingborg,17,Stensved,F_Karin_O._Jørgensen,Karin O. Jørgensen,SF - Socialistisk Folkeparti,0
+Vordingborg,17,Stensved,O_Listestemmer,Listestemmer,Dansk Folkeparti,15
+Vordingborg,17,Stensved,O_Søren_Hansen,Søren Hansen,Dansk Folkeparti,12
+Vordingborg,17,Stensved,O_Per_Stig_Sørensen,Per Stig Sørensen,Dansk Folkeparti,5
+Vordingborg,17,Stensved,O_Helle_Jørgensen,Helle Jørgensen,Dansk Folkeparti,16
+Vordingborg,17,Stensved,O_Marie_Hansen,Marie Hansen,Dansk Folkeparti,3
+Vordingborg,17,Stensved,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",56
+Vordingborg,17,Stensved,"V_Karina_Fromberg,_Præstø","Karina Fromberg, Præstø","Venstre, Danmarks Liberale Parti",61
+Vordingborg,17,Stensved,"V_Michael_Seiding_Larsen,Vordingborg","Michael Seiding Larsen,Vordingborg","Venstre, Danmarks Liberale Parti",82
+Vordingborg,17,Stensved,"V_Eva_Sommer-Madsen,_Vordingborg","Eva Sommer-Madsen, Vordingborg","Venstre, Danmarks Liberale Parti",24
+Vordingborg,17,Stensved,"V_Peter_Ole_Sørensen,_Præstø","Peter Ole Sørensen, Præstø","Venstre, Danmarks Liberale Parti",4
+Vordingborg,17,Stensved,"V_Karina_Foss,_Møn","Karina Foss, Møn","Venstre, Danmarks Liberale Parti",3
+Vordingborg,17,Stensved,"V_Bo_Manderup,_Præstø","Bo Manderup, Præstø","Venstre, Danmarks Liberale Parti",2
+Vordingborg,17,Stensved,"V_Ole_Hansen,_Møn","Ole Hansen, Møn","Venstre, Danmarks Liberale Parti",3
+Vordingborg,17,Stensved,"V_Anne-Marie_Jacobsen,_Stensved","Anne-Marie Jacobsen, Stensved","Venstre, Danmarks Liberale Parti",9
+Vordingborg,17,Stensved,"V_Ronni_Lykkehus,_Vordingborg","Ronni Lykkehus, Vordingborg","Venstre, Danmarks Liberale Parti",19
+Vordingborg,17,Stensved,"V_Kristina_Themsen,_Bårse","Kristina Themsen, Bårse","Venstre, Danmarks Liberale Parti",2
+Vordingborg,17,Stensved,"V_Babette_Bjørklund,_Vordingborg","Babette Bjørklund, Vordingborg","Venstre, Danmarks Liberale Parti",1
+Vordingborg,17,Stensved,"V_Gert_Tonny_Larsen,_Nyråd","Gert Tonny Larsen, Nyråd","Venstre, Danmarks Liberale Parti",0
+Vordingborg,17,Stensved,"V_Jonna_Henriksen,_Mern","Jonna Henriksen, Mern","Venstre, Danmarks Liberale Parti",0
+Vordingborg,17,Stensved,"V_Arne_Rasmussen,_Lundby","Arne Rasmussen, Lundby","Venstre, Danmarks Liberale Parti",1
+Vordingborg,17,Stensved,Æ_Listestemmer,Listestemmer,Fælleslisten,7
+Vordingborg,17,Stensved,Æ_Charlotte_Bagge_Hansen,Charlotte Bagge Hansen,Fælleslisten,5
+Vordingborg,17,Stensved,Æ_Torben_Folke_Månsson,Torben Folke Månsson,Fælleslisten,6
+Vordingborg,17,Stensved,Æ_Else-Marie_Theisen,Else-Marie Theisen,Fælleslisten,0
+Vordingborg,17,Stensved,Æ_Laura_Folke_Månsson,Laura Folke Månsson,Fælleslisten,1
+Vordingborg,17,Stensved,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,17
+Vordingborg,17,Stensved,"Ø_Mette_Gerdøe,_Nyråd","Mette Gerdøe, Nyråd",Enhedslisten - De Rød-Grønne,17
+Vordingborg,17,Stensved,"Ø_Martin_Graff_Jørgensen,_Bogø_By","Martin Graff Jørgensen, Bogø By",Enhedslisten - De Rød-Grønne,3
+Vordingborg,17,Stensved,"Ø_Tage_Vestergaard,_Vordingborg","Tage Vestergaard, Vordingborg",Enhedslisten - De Rød-Grønne,3
+Vordingborg,17,Stensved,"Ø_Morten_Pihl,_Stege_Møn","Morten Pihl, Stege Møn",Enhedslisten - De Rød-Grønne,2
+Vordingborg,17,Stensved,"Ø_Palle_Eghjort,_Vordingborg","Palle Eghjort, Vordingborg",Enhedslisten - De Rød-Grønne,0
+Vordingborg,17,Stensved,"Ø_Jan_Simon,_Hårbølle_Havn_Møn","Jan Simon, Hårbølle Havn Møn",Enhedslisten - De Rød-Grønne,0
+Vordingborg,17,Stensved,Å_Listestemmer,Listestemmer,Alternativet,0
+Vordingborg,17,Stensved,"Å_Annabianca_C._Milter,_Møn","Annabianca C. Milter, Møn",Alternativet,11
+Vordingborg,17,Stensved,"Å_Lene_Ezzaaf,_Bårse","Lene Ezzaaf, Bårse",Alternativet,0

@@ -1,0 +1,2160 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Viborg,1,Frederiks,A_Listestemmer,Listestemmer,Socialdemokratiet,44
+Viborg,1,Frederiks,"A_Mads_Panny,_Viborg","Mads Panny, Viborg",Socialdemokratiet,43
+Viborg,1,Frederiks,"A_Anders_Bertel,_Frederiks","Anders Bertel, Frederiks",Socialdemokratiet,519
+Viborg,1,Frederiks,"A_Bent_Mikkelsen,_Viborg","Bent Mikkelsen, Viborg",Socialdemokratiet,4
+Viborg,1,Frederiks,"A_Birgith_B._Langballe,_Stoholm","Birgith B. Langballe, Stoholm",Socialdemokratiet,2
+Viborg,1,Frederiks,"A_Birthe_Harritz,_Ørum","Birthe Harritz, Ørum",Socialdemokratiet,2
+Viborg,1,Frederiks,"A_Bjarne_Andersen,_Fly","Bjarne Andersen, Fly",Socialdemokratiet,0
+Viborg,1,Frederiks,"A_Eva_Pinnerup,_Viborg","Eva Pinnerup, Viborg",Socialdemokratiet,3
+Viborg,1,Frederiks,"A_Lars_Greve,_Viborg","Lars Greve, Viborg",Socialdemokratiet,0
+Viborg,1,Frederiks,"A_Marianne_Aaris_Andersen,_Viborg","Marianne Aaris Andersen, Viborg",Socialdemokratiet,7
+Viborg,1,Frederiks,"A_Martin_Sanderhoff,_Bjerringbro","Martin Sanderhoff, Bjerringbro",Socialdemokratiet,1
+Viborg,1,Frederiks,"A_Mette_Nielsen,_Klejtrup","Mette Nielsen, Klejtrup",Socialdemokratiet,5
+Viborg,1,Frederiks,"A_Michael_Philip_Poulsen,Bjerringbro","Michael Philip Poulsen,Bjerringbro",Socialdemokratiet,5
+Viborg,1,Frederiks,"A_Niels_Dueholm,_Bjerringbro","Niels Dueholm, Bjerringbro",Socialdemokratiet,1
+Viborg,1,Frederiks,"A_Steen_Nysom,_Viborg","Steen Nysom, Viborg",Socialdemokratiet,1
+Viborg,1,Frederiks,"A_Winnie_Nielsen,_Karup","Winnie Nielsen, Karup",Socialdemokratiet,18
+Viborg,1,Frederiks,B_Listestemmer,Listestemmer,Radikale Venstre,8
+Viborg,1,Frederiks,B_Lasse_Christiansen,Lasse Christiansen,Radikale Venstre,3
+Viborg,1,Frederiks,B_Michael_Flarup,Michael Flarup,Radikale Venstre,0
+Viborg,1,Frederiks,B_Jan_Rønne,Jan Rønne,Radikale Venstre,2
+Viborg,1,Frederiks,B_Marianne_Tøttrup,Marianne Tøttrup,Radikale Venstre,1
+Viborg,1,Frederiks,B_Signe_Driefer,Signe Driefer,Radikale Venstre,4
+Viborg,1,Frederiks,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,36
+Viborg,1,Frederiks,C_Torsten_Nielsen,Torsten Nielsen,Det Konservative Folkeparti,110
+Viborg,1,Frederiks,C_Stine_Damborg,Stine Damborg,Det Konservative Folkeparti,31
+Viborg,1,Frederiks,C_Nikolai_Norup,Nikolai Norup,Det Konservative Folkeparti,5
+Viborg,1,Frederiks,C_Jakob_Valdemar_Ekberg,Jakob Valdemar Ekberg,Det Konservative Folkeparti,0
+Viborg,1,Frederiks,C_Peter_Juhl,Peter Juhl,Det Konservative Folkeparti,4
+Viborg,1,Frederiks,C_Simon_Højer,Simon Højer,Det Konservative Folkeparti,0
+Viborg,1,Frederiks,C_Claus_Nielsen,Claus Nielsen,Det Konservative Folkeparti,4
+Viborg,1,Frederiks,C_Steen_A._Stephansen,Steen A. Stephansen,Det Konservative Folkeparti,0
+Viborg,1,Frederiks,C_Lise_Bertelsen,Lise Bertelsen,Det Konservative Folkeparti,8
+Viborg,1,Frederiks,C_Asbjørn_Sennels,Asbjørn Sennels,Det Konservative Folkeparti,7
+Viborg,1,Frederiks,C_Kenny_Schødt,Kenny Schødt,Det Konservative Folkeparti,1
+Viborg,1,Frederiks,C_Kirsten_Holmgaard,Kirsten Holmgaard,Det Konservative Folkeparti,3
+Viborg,1,Frederiks,C_Steffen_Drejer,Steffen Drejer,Det Konservative Folkeparti,1
+Viborg,1,Frederiks,C_Sofie_Ringgaard_Schøning,Sofie Ringgaard Schøning,Det Konservative Folkeparti,6
+Viborg,1,Frederiks,C_Malena_Møller_Mortensen,Malena Møller Mortensen,Det Konservative Folkeparti,1
+Viborg,1,Frederiks,C_Trine_Dige,Trine Dige,Det Konservative Folkeparti,2
+Viborg,1,Frederiks,C_Peter_Ruby,Peter Ruby,Det Konservative Folkeparti,2
+Viborg,1,Frederiks,C_Christian_Kapper,Christian Kapper,Det Konservative Folkeparti,1
+Viborg,1,Frederiks,C_Lars_Bøche_Jensen,Lars Bøche Jensen,Det Konservative Folkeparti,0
+Viborg,1,Frederiks,C_Ulrik_Praastrup,Ulrik Praastrup,Det Konservative Folkeparti,0
+Viborg,1,Frederiks,C_Ida_Gottenborg_Jacobsen,Ida Gottenborg Jacobsen,Det Konservative Folkeparti,3
+Viborg,1,Frederiks,C_Nicklas_Verne_Jensen,Nicklas Verne Jensen,Det Konservative Folkeparti,0
+Viborg,1,Frederiks,C_Morten_Christensen,Morten Christensen,Det Konservative Folkeparti,0
+Viborg,1,Frederiks,C_Poul-Erik_Chortsen,Poul-Erik Chortsen,Det Konservative Folkeparti,0
+Viborg,1,Frederiks,C_Lotte_Frandsen,Lotte Frandsen,Det Konservative Folkeparti,1
+Viborg,1,Frederiks,C_Allan_Clifford_Christensen,Allan Clifford Christensen,Det Konservative Folkeparti,27
+Viborg,1,Frederiks,D_Listestemmer,Listestemmer,Nye Borgerlige,30
+Viborg,1,Frederiks,"D_Leo_Nørgaard,_Viborg","Leo Nørgaard, Viborg",Nye Borgerlige,10
+Viborg,1,Frederiks,"D_Thomas_Borup_Laursen,_Viborg","Thomas Borup Laursen, Viborg",Nye Borgerlige,6
+Viborg,1,Frederiks,"D_Jakob_Svendsen,Vorning","Jakob Svendsen,Vorning",Nye Borgerlige,0
+Viborg,1,Frederiks,"D_Mads_C._Prytz,_Rødkærsbro","Mads C. Prytz, Rødkærsbro",Nye Borgerlige,6
+Viborg,1,Frederiks,"D_Laust_Nørskov,_Hvam_St.","Laust Nørskov, Hvam St.",Nye Borgerlige,4
+Viborg,1,Frederiks,"D_Johan_Emil_Gjermandsen,_Viborg","Johan Emil Gjermandsen, Viborg",Nye Borgerlige,1
+Viborg,1,Frederiks,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,11
+Viborg,1,Frederiks,"F_Elo_Nielsen,_Skals","Elo Nielsen, Skals",SF - Socialistisk Folkeparti,11
+Viborg,1,Frederiks,"F_Mikael_Løvschall,_Kjeldbjerg","Mikael Løvschall, Kjeldbjerg",SF - Socialistisk Folkeparti,10
+Viborg,1,Frederiks,"F_Marianne_Gaardsdal,_Viborg","Marianne Gaardsdal, Viborg",SF - Socialistisk Folkeparti,6
+Viborg,1,Frederiks,"F_Mads_Georgi,_Viborg","Mads Georgi, Viborg",SF - Socialistisk Folkeparti,2
+Viborg,1,Frederiks,"F_Kirsten_Winther_Almind,Bjerringbro","Kirsten Winther Almind,Bjerringbro",SF - Socialistisk Folkeparti,3
+Viborg,1,Frederiks,"F_Kasper_Ivanhoe_Terkelsen,_Viborg","Kasper Ivanhoe Terkelsen, Viborg",SF - Socialistisk Folkeparti,1
+Viborg,1,Frederiks,"F_Martin_Mølholt,_Viborg","Martin Mølholt, Viborg",SF - Socialistisk Folkeparti,0
+Viborg,1,Frederiks,I_Listestemmer,Listestemmer,Liberal Alliance,2
+Viborg,1,Frederiks,I_Frederik_Gottenborg_Jacobsen,Frederik Gottenborg Jacobsen,Liberal Alliance,1
+Viborg,1,Frederiks,I_Lene_Foged,Lene Foged,Liberal Alliance,6
+Viborg,1,Frederiks,I_Bo_Wieck-Hansen,Bo Wieck-Hansen,Liberal Alliance,0
+Viborg,1,Frederiks,K_Listestemmer,Listestemmer,Kristendemokraterne,8
+Viborg,1,Frederiks,"K_Eva_Kornum,_Skelhøje","Eva Kornum, Skelhøje",Kristendemokraterne,10
+Viborg,1,Frederiks,"K_Ghirmai_Berhane,_Rødkærsbro","Ghirmai Berhane, Rødkærsbro",Kristendemokraterne,0
+Viborg,1,Frederiks,"K_Hanne_Ellemann_Rytter,_Finderup","Hanne Ellemann Rytter, Finderup",Kristendemokraterne,5
+Viborg,1,Frederiks,"K_Ingrid_Bak,_Bjerringbro","Ingrid Bak, Bjerringbro",Kristendemokraterne,0
+Viborg,1,Frederiks,"K_Knud_Gaarn-Larsen,_Frederiks","Knud Gaarn-Larsen, Frederiks",Kristendemokraterne,29
+Viborg,1,Frederiks,L_Listestemmer,Listestemmer,Lokallisten - Viborg,0
+Viborg,1,Frederiks,L_Johnny_F._Andresen,Johnny F. Andresen,Lokallisten - Viborg,3
+Viborg,1,Frederiks,O_Listestemmer,Listestemmer,Dansk Folkeparti,22
+Viborg,1,Frederiks,"O_Lone_Langballe,_Tjele","Lone Langballe, Tjele",Dansk Folkeparti,32
+Viborg,1,Frederiks,"O_Kirsten_Hørdum,_Tjele","Kirsten Hørdum, Tjele",Dansk Folkeparti,0
+Viborg,1,Frederiks,"O_Morten_Thaarup,_Viborg","Morten Thaarup, Viborg",Dansk Folkeparti,4
+Viborg,1,Frederiks,"O_Anders_Risom,_Tjele","Anders Risom, Tjele",Dansk Folkeparti,0
+Viborg,1,Frederiks,"O_Kim_Poulsen,_Tjele","Kim Poulsen, Tjele",Dansk Folkeparti,0
+Viborg,1,Frederiks,"O_Jess_Mikkelsen,_Viborg","Jess Mikkelsen, Viborg",Dansk Folkeparti,1
+Viborg,1,Frederiks,T_Listestemmer,Listestemmer,Hvad kan gå galt,0
+Viborg,1,Frederiks,T_Theis_Bach_Nielsen,Theis Bach Nielsen,Hvad kan gå galt,9
+Viborg,1,Frederiks,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",29
+Viborg,1,Frederiks,"V_Ulrik_Wilbek,_Viborg","Ulrik Wilbek, Viborg","Venstre, Danmarks Liberale Parti",173
+Viborg,1,Frederiks,"V_Frederik_Houmann_Thuesen,_Overlund","Frederik Houmann Thuesen, Overlund","Venstre, Danmarks Liberale Parti",7
+Viborg,1,Frederiks,"V_Jakob_Harritz,_Viborg","Jakob Harritz, Viborg","Venstre, Danmarks Liberale Parti",0
+Viborg,1,Frederiks,"V_Anders_Jensen,_Løgstrup","Anders Jensen, Løgstrup","Venstre, Danmarks Liberale Parti",2
+Viborg,1,Frederiks,"V_Lars_Mogensen,_Tjele","Lars Mogensen, Tjele","Venstre, Danmarks Liberale Parti",9
+Viborg,1,Frederiks,"V_Kim_Dongsgaard,_Rødkærsbro","Kim Dongsgaard, Rødkærsbro","Venstre, Danmarks Liberale Parti",1
+Viborg,1,Frederiks,"V_Kurt_Mosgaard,_Mønsted","Kurt Mosgaard, Mønsted","Venstre, Danmarks Liberale Parti",2
+Viborg,1,Frederiks,"V_Lone_Kastberg,_Møldrup","Lone Kastberg, Møldrup","Venstre, Danmarks Liberale Parti",0
+Viborg,1,Frederiks,"V_Kurt_Johansen,_Ulbjerg","Kurt Johansen, Ulbjerg","Venstre, Danmarks Liberale Parti",2
+Viborg,1,Frederiks,"V_Pia_Viller_Arendt,_Frederiks","Pia Viller Arendt, Frederiks","Venstre, Danmarks Liberale Parti",311
+Viborg,1,Frederiks,"V_Claus_Clausen,_Vroue","Claus Clausen, Vroue","Venstre, Danmarks Liberale Parti",1
+Viborg,1,Frederiks,"V_Åse_Kubel_Høeg,_Viborg","Åse Kubel Høeg, Viborg","Venstre, Danmarks Liberale Parti",5
+Viborg,1,Frederiks,"V_Majbrit_Nørgaard,_Ravnstrup","Majbrit Nørgaard, Ravnstrup","Venstre, Danmarks Liberale Parti",3
+Viborg,1,Frederiks,"V_Johannes_F._Vesterby,_Løvel","Johannes F. Vesterby, Løvel","Venstre, Danmarks Liberale Parti",2
+Viborg,1,Frederiks,"V_Niels_Jørgen_Ottesen,_Bjerringbro","Niels Jørgen Ottesen, Bjerringbro","Venstre, Danmarks Liberale Parti",0
+Viborg,1,Frederiks,"V_Sinna_Maagaard,_Sparkær","Sinna Maagaard, Sparkær","Venstre, Danmarks Liberale Parti",0
+Viborg,1,Frederiks,"V_Michael_Nøhr,_Klejtrup","Michael Nøhr, Klejtrup","Venstre, Danmarks Liberale Parti",0
+Viborg,1,Frederiks,"V_Ole_Kristensen,_Karup","Ole Kristensen, Karup","Venstre, Danmarks Liberale Parti",12
+Viborg,1,Frederiks,"V_Britta_Jarly,_Viborg","Britta Jarly, Viborg","Venstre, Danmarks Liberale Parti",0
+Viborg,1,Frederiks,"V_Katrine_Fusager_Rohde,_Viborg","Katrine Fusager Rohde, Viborg","Venstre, Danmarks Liberale Parti",4
+Viborg,1,Frederiks,"V_Esben_Tøttrup,_Bjerringbro","Esben Tøttrup, Bjerringbro","Venstre, Danmarks Liberale Parti",0
+Viborg,1,Frederiks,Æ_Listestemmer,Listestemmer,Frihedslisten,1
+Viborg,1,Frederiks,"Æ_Jesper_Nørgaard,_Viborg","Jesper Nørgaard, Viborg",Frihedslisten,4
+Viborg,1,Frederiks,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,14
+Viborg,1,Frederiks,Ø_Aksel_Rosager_Johansen,Aksel Rosager Johansen,Enhedslisten - De Rød-Grønne,9
+Viborg,1,Frederiks,Ø_Zahra_Mohamud_Ali,Zahra Mohamud Ali,Enhedslisten - De Rød-Grønne,3
+Viborg,1,Frederiks,Ø_Frederik_Berg_Overgaard,Frederik Berg Overgaard,Enhedslisten - De Rød-Grønne,1
+Viborg,1,Frederiks,Ø_Alfred_Berg_Overgaard,Alfred Berg Overgaard,Enhedslisten - De Rød-Grønne,2
+Viborg,1,Frederiks,Ø_Liz_Dueholm,Liz Dueholm,Enhedslisten - De Rød-Grønne,3
+Viborg,1,Frederiks,Ø_Pernille_Diemar,Pernille Diemar,Enhedslisten - De Rød-Grønne,1
+Viborg,1,Frederiks,Å_Listestemmer,Listestemmer,Alternativet,1
+Viborg,1,Frederiks,"Å_Stine_Isaksen,_Viborg","Stine Isaksen, Viborg",Alternativet,9
+Viborg,1,Frederiks,"Å_Didde_Krabbe_Johannesen,Viborg","Didde Krabbe Johannesen,Viborg",Alternativet,0
+Viborg,1,Frederiks,"Å_Jeppe_Ottow,_Viborg","Jeppe Ottow, Viborg",Alternativet,0
+Viborg,1,Frederiks,"Å_Kirsten_Hindbo,_Viborg","Kirsten Hindbo, Viborg",Alternativet,3
+Viborg,1,Frederiks,"Å_Signe_Sofie_Larsen,_Viborg","Signe Sofie Larsen, Viborg",Alternativet,1
+Viborg,1,Frederiks,"Å_Jens_Boll,_Bjerringbro","Jens Boll, Bjerringbro",Alternativet,0
+Viborg,1,Frederiks,"Å_Børge_H._Jensen,_Viborg","Børge H. Jensen, Viborg",Alternativet,0
+Viborg,1,Frederiks,"Å_Peter_Owen,_Bjerringbro","Peter Owen, Bjerringbro",Alternativet,0
+Viborg,1,Frederiks,"Å_Ole_Utoft,_Hjarbæk","Ole Utoft, Hjarbæk",Alternativet,0
+Viborg,1,Frederiks,"Å_Hayley_Newman,_Viborg","Hayley Newman, Viborg",Alternativet,0
+Viborg,2,Hald Ege,A_Listestemmer,Listestemmer,Socialdemokratiet,71
+Viborg,2,Hald Ege,"A_Mads_Panny,_Viborg","Mads Panny, Viborg",Socialdemokratiet,306
+Viborg,2,Hald Ege,"A_Anders_Bertel,_Frederiks","Anders Bertel, Frederiks",Socialdemokratiet,22
+Viborg,2,Hald Ege,"A_Bent_Mikkelsen,_Viborg","Bent Mikkelsen, Viborg",Socialdemokratiet,15
+Viborg,2,Hald Ege,"A_Birgith_B._Langballe,_Stoholm","Birgith B. Langballe, Stoholm",Socialdemokratiet,7
+Viborg,2,Hald Ege,"A_Birthe_Harritz,_Ørum","Birthe Harritz, Ørum",Socialdemokratiet,3
+Viborg,2,Hald Ege,"A_Bjarne_Andersen,_Fly","Bjarne Andersen, Fly",Socialdemokratiet,0
+Viborg,2,Hald Ege,"A_Eva_Pinnerup,_Viborg","Eva Pinnerup, Viborg",Socialdemokratiet,35
+Viborg,2,Hald Ege,"A_Lars_Greve,_Viborg","Lars Greve, Viborg",Socialdemokratiet,4
+Viborg,2,Hald Ege,"A_Marianne_Aaris_Andersen,_Viborg","Marianne Aaris Andersen, Viborg",Socialdemokratiet,7
+Viborg,2,Hald Ege,"A_Martin_Sanderhoff,_Bjerringbro","Martin Sanderhoff, Bjerringbro",Socialdemokratiet,0
+Viborg,2,Hald Ege,"A_Mette_Nielsen,_Klejtrup","Mette Nielsen, Klejtrup",Socialdemokratiet,17
+Viborg,2,Hald Ege,"A_Michael_Philip_Poulsen,Bjerringbro","Michael Philip Poulsen,Bjerringbro",Socialdemokratiet,9
+Viborg,2,Hald Ege,"A_Niels_Dueholm,_Bjerringbro","Niels Dueholm, Bjerringbro",Socialdemokratiet,2
+Viborg,2,Hald Ege,"A_Steen_Nysom,_Viborg","Steen Nysom, Viborg",Socialdemokratiet,6
+Viborg,2,Hald Ege,"A_Winnie_Nielsen,_Karup","Winnie Nielsen, Karup",Socialdemokratiet,3
+Viborg,2,Hald Ege,B_Listestemmer,Listestemmer,Radikale Venstre,10
+Viborg,2,Hald Ege,B_Lasse_Christiansen,Lasse Christiansen,Radikale Venstre,7
+Viborg,2,Hald Ege,B_Michael_Flarup,Michael Flarup,Radikale Venstre,11
+Viborg,2,Hald Ege,B_Jan_Rønne,Jan Rønne,Radikale Venstre,10
+Viborg,2,Hald Ege,B_Marianne_Tøttrup,Marianne Tøttrup,Radikale Venstre,6
+Viborg,2,Hald Ege,B_Signe_Driefer,Signe Driefer,Radikale Venstre,6
+Viborg,2,Hald Ege,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,51
+Viborg,2,Hald Ege,C_Torsten_Nielsen,Torsten Nielsen,Det Konservative Folkeparti,133
+Viborg,2,Hald Ege,C_Stine_Damborg,Stine Damborg,Det Konservative Folkeparti,59
+Viborg,2,Hald Ege,C_Nikolai_Norup,Nikolai Norup,Det Konservative Folkeparti,6
+Viborg,2,Hald Ege,C_Jakob_Valdemar_Ekberg,Jakob Valdemar Ekberg,Det Konservative Folkeparti,0
+Viborg,2,Hald Ege,C_Peter_Juhl,Peter Juhl,Det Konservative Folkeparti,4
+Viborg,2,Hald Ege,C_Simon_Højer,Simon Højer,Det Konservative Folkeparti,4
+Viborg,2,Hald Ege,C_Claus_Nielsen,Claus Nielsen,Det Konservative Folkeparti,1
+Viborg,2,Hald Ege,C_Steen_A._Stephansen,Steen A. Stephansen,Det Konservative Folkeparti,0
+Viborg,2,Hald Ege,C_Lise_Bertelsen,Lise Bertelsen,Det Konservative Folkeparti,23
+Viborg,2,Hald Ege,C_Asbjørn_Sennels,Asbjørn Sennels,Det Konservative Folkeparti,7
+Viborg,2,Hald Ege,C_Kenny_Schødt,Kenny Schødt,Det Konservative Folkeparti,2
+Viborg,2,Hald Ege,C_Kirsten_Holmgaard,Kirsten Holmgaard,Det Konservative Folkeparti,5
+Viborg,2,Hald Ege,C_Steffen_Drejer,Steffen Drejer,Det Konservative Folkeparti,3
+Viborg,2,Hald Ege,C_Sofie_Ringgaard_Schøning,Sofie Ringgaard Schøning,Det Konservative Folkeparti,17
+Viborg,2,Hald Ege,C_Malena_Møller_Mortensen,Malena Møller Mortensen,Det Konservative Folkeparti,6
+Viborg,2,Hald Ege,C_Trine_Dige,Trine Dige,Det Konservative Folkeparti,6
+Viborg,2,Hald Ege,C_Peter_Ruby,Peter Ruby,Det Konservative Folkeparti,1
+Viborg,2,Hald Ege,C_Christian_Kapper,Christian Kapper,Det Konservative Folkeparti,6
+Viborg,2,Hald Ege,C_Lars_Bøche_Jensen,Lars Bøche Jensen,Det Konservative Folkeparti,0
+Viborg,2,Hald Ege,C_Ulrik_Praastrup,Ulrik Praastrup,Det Konservative Folkeparti,2
+Viborg,2,Hald Ege,C_Ida_Gottenborg_Jacobsen,Ida Gottenborg Jacobsen,Det Konservative Folkeparti,4
+Viborg,2,Hald Ege,C_Nicklas_Verne_Jensen,Nicklas Verne Jensen,Det Konservative Folkeparti,0
+Viborg,2,Hald Ege,C_Morten_Christensen,Morten Christensen,Det Konservative Folkeparti,0
+Viborg,2,Hald Ege,C_Poul-Erik_Chortsen,Poul-Erik Chortsen,Det Konservative Folkeparti,0
+Viborg,2,Hald Ege,C_Lotte_Frandsen,Lotte Frandsen,Det Konservative Folkeparti,3
+Viborg,2,Hald Ege,C_Allan_Clifford_Christensen,Allan Clifford Christensen,Det Konservative Folkeparti,5
+Viborg,2,Hald Ege,D_Listestemmer,Listestemmer,Nye Borgerlige,16
+Viborg,2,Hald Ege,"D_Leo_Nørgaard,_Viborg","Leo Nørgaard, Viborg",Nye Borgerlige,4
+Viborg,2,Hald Ege,"D_Thomas_Borup_Laursen,_Viborg","Thomas Borup Laursen, Viborg",Nye Borgerlige,5
+Viborg,2,Hald Ege,"D_Jakob_Svendsen,Vorning","Jakob Svendsen,Vorning",Nye Borgerlige,3
+Viborg,2,Hald Ege,"D_Mads_C._Prytz,_Rødkærsbro","Mads C. Prytz, Rødkærsbro",Nye Borgerlige,3
+Viborg,2,Hald Ege,"D_Laust_Nørskov,_Hvam_St.","Laust Nørskov, Hvam St.",Nye Borgerlige,0
+Viborg,2,Hald Ege,"D_Johan_Emil_Gjermandsen,_Viborg","Johan Emil Gjermandsen, Viborg",Nye Borgerlige,0
+Viborg,2,Hald Ege,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,45
+Viborg,2,Hald Ege,"F_Elo_Nielsen,_Skals","Elo Nielsen, Skals",SF - Socialistisk Folkeparti,31
+Viborg,2,Hald Ege,"F_Mikael_Løvschall,_Kjeldbjerg","Mikael Løvschall, Kjeldbjerg",SF - Socialistisk Folkeparti,7
+Viborg,2,Hald Ege,"F_Marianne_Gaardsdal,_Viborg","Marianne Gaardsdal, Viborg",SF - Socialistisk Folkeparti,47
+Viborg,2,Hald Ege,"F_Mads_Georgi,_Viborg","Mads Georgi, Viborg",SF - Socialistisk Folkeparti,14
+Viborg,2,Hald Ege,"F_Kirsten_Winther_Almind,Bjerringbro","Kirsten Winther Almind,Bjerringbro",SF - Socialistisk Folkeparti,2
+Viborg,2,Hald Ege,"F_Kasper_Ivanhoe_Terkelsen,_Viborg","Kasper Ivanhoe Terkelsen, Viborg",SF - Socialistisk Folkeparti,4
+Viborg,2,Hald Ege,"F_Martin_Mølholt,_Viborg","Martin Mølholt, Viborg",SF - Socialistisk Folkeparti,2
+Viborg,2,Hald Ege,I_Listestemmer,Listestemmer,Liberal Alliance,3
+Viborg,2,Hald Ege,I_Frederik_Gottenborg_Jacobsen,Frederik Gottenborg Jacobsen,Liberal Alliance,9
+Viborg,2,Hald Ege,I_Lene_Foged,Lene Foged,Liberal Alliance,3
+Viborg,2,Hald Ege,I_Bo_Wieck-Hansen,Bo Wieck-Hansen,Liberal Alliance,0
+Viborg,2,Hald Ege,K_Listestemmer,Listestemmer,Kristendemokraterne,1
+Viborg,2,Hald Ege,"K_Eva_Kornum,_Skelhøje","Eva Kornum, Skelhøje",Kristendemokraterne,0
+Viborg,2,Hald Ege,"K_Ghirmai_Berhane,_Rødkærsbro","Ghirmai Berhane, Rødkærsbro",Kristendemokraterne,0
+Viborg,2,Hald Ege,"K_Hanne_Ellemann_Rytter,_Finderup","Hanne Ellemann Rytter, Finderup",Kristendemokraterne,11
+Viborg,2,Hald Ege,"K_Ingrid_Bak,_Bjerringbro","Ingrid Bak, Bjerringbro",Kristendemokraterne,1
+Viborg,2,Hald Ege,"K_Knud_Gaarn-Larsen,_Frederiks","Knud Gaarn-Larsen, Frederiks",Kristendemokraterne,9
+Viborg,2,Hald Ege,L_Listestemmer,Listestemmer,Lokallisten - Viborg,0
+Viborg,2,Hald Ege,L_Johnny_F._Andresen,Johnny F. Andresen,Lokallisten - Viborg,1
+Viborg,2,Hald Ege,O_Listestemmer,Listestemmer,Dansk Folkeparti,13
+Viborg,2,Hald Ege,"O_Lone_Langballe,_Tjele","Lone Langballe, Tjele",Dansk Folkeparti,18
+Viborg,2,Hald Ege,"O_Kirsten_Hørdum,_Tjele","Kirsten Hørdum, Tjele",Dansk Folkeparti,0
+Viborg,2,Hald Ege,"O_Morten_Thaarup,_Viborg","Morten Thaarup, Viborg",Dansk Folkeparti,6
+Viborg,2,Hald Ege,"O_Anders_Risom,_Tjele","Anders Risom, Tjele",Dansk Folkeparti,0
+Viborg,2,Hald Ege,"O_Kim_Poulsen,_Tjele","Kim Poulsen, Tjele",Dansk Folkeparti,0
+Viborg,2,Hald Ege,"O_Jess_Mikkelsen,_Viborg","Jess Mikkelsen, Viborg",Dansk Folkeparti,0
+Viborg,2,Hald Ege,T_Listestemmer,Listestemmer,Hvad kan gå galt,6
+Viborg,2,Hald Ege,T_Theis_Bach_Nielsen,Theis Bach Nielsen,Hvad kan gå galt,35
+Viborg,2,Hald Ege,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",44
+Viborg,2,Hald Ege,"V_Ulrik_Wilbek,_Viborg","Ulrik Wilbek, Viborg","Venstre, Danmarks Liberale Parti",303
+Viborg,2,Hald Ege,"V_Frederik_Houmann_Thuesen,_Overlund","Frederik Houmann Thuesen, Overlund","Venstre, Danmarks Liberale Parti",21
+Viborg,2,Hald Ege,"V_Jakob_Harritz,_Viborg","Jakob Harritz, Viborg","Venstre, Danmarks Liberale Parti",13
+Viborg,2,Hald Ege,"V_Anders_Jensen,_Løgstrup","Anders Jensen, Løgstrup","Venstre, Danmarks Liberale Parti",13
+Viborg,2,Hald Ege,"V_Lars_Mogensen,_Tjele","Lars Mogensen, Tjele","Venstre, Danmarks Liberale Parti",9
+Viborg,2,Hald Ege,"V_Kim_Dongsgaard,_Rødkærsbro","Kim Dongsgaard, Rødkærsbro","Venstre, Danmarks Liberale Parti",0
+Viborg,2,Hald Ege,"V_Kurt_Mosgaard,_Mønsted","Kurt Mosgaard, Mønsted","Venstre, Danmarks Liberale Parti",3
+Viborg,2,Hald Ege,"V_Lone_Kastberg,_Møldrup","Lone Kastberg, Møldrup","Venstre, Danmarks Liberale Parti",1
+Viborg,2,Hald Ege,"V_Kurt_Johansen,_Ulbjerg","Kurt Johansen, Ulbjerg","Venstre, Danmarks Liberale Parti",0
+Viborg,2,Hald Ege,"V_Pia_Viller_Arendt,_Frederiks","Pia Viller Arendt, Frederiks","Venstre, Danmarks Liberale Parti",11
+Viborg,2,Hald Ege,"V_Claus_Clausen,_Vroue","Claus Clausen, Vroue","Venstre, Danmarks Liberale Parti",1
+Viborg,2,Hald Ege,"V_Åse_Kubel_Høeg,_Viborg","Åse Kubel Høeg, Viborg","Venstre, Danmarks Liberale Parti",105
+Viborg,2,Hald Ege,"V_Majbrit_Nørgaard,_Ravnstrup","Majbrit Nørgaard, Ravnstrup","Venstre, Danmarks Liberale Parti",71
+Viborg,2,Hald Ege,"V_Johannes_F._Vesterby,_Løvel","Johannes F. Vesterby, Løvel","Venstre, Danmarks Liberale Parti",7
+Viborg,2,Hald Ege,"V_Niels_Jørgen_Ottesen,_Bjerringbro","Niels Jørgen Ottesen, Bjerringbro","Venstre, Danmarks Liberale Parti",0
+Viborg,2,Hald Ege,"V_Sinna_Maagaard,_Sparkær","Sinna Maagaard, Sparkær","Venstre, Danmarks Liberale Parti",2
+Viborg,2,Hald Ege,"V_Michael_Nøhr,_Klejtrup","Michael Nøhr, Klejtrup","Venstre, Danmarks Liberale Parti",0
+Viborg,2,Hald Ege,"V_Ole_Kristensen,_Karup","Ole Kristensen, Karup","Venstre, Danmarks Liberale Parti",2
+Viborg,2,Hald Ege,"V_Britta_Jarly,_Viborg","Britta Jarly, Viborg","Venstre, Danmarks Liberale Parti",2
+Viborg,2,Hald Ege,"V_Katrine_Fusager_Rohde,_Viborg","Katrine Fusager Rohde, Viborg","Venstre, Danmarks Liberale Parti",21
+Viborg,2,Hald Ege,"V_Esben_Tøttrup,_Bjerringbro","Esben Tøttrup, Bjerringbro","Venstre, Danmarks Liberale Parti",3
+Viborg,2,Hald Ege,Æ_Listestemmer,Listestemmer,Frihedslisten,0
+Viborg,2,Hald Ege,"Æ_Jesper_Nørgaard,_Viborg","Jesper Nørgaard, Viborg",Frihedslisten,6
+Viborg,2,Hald Ege,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,40
+Viborg,2,Hald Ege,Ø_Aksel_Rosager_Johansen,Aksel Rosager Johansen,Enhedslisten - De Rød-Grønne,53
+Viborg,2,Hald Ege,Ø_Zahra_Mohamud_Ali,Zahra Mohamud Ali,Enhedslisten - De Rød-Grønne,9
+Viborg,2,Hald Ege,Ø_Frederik_Berg_Overgaard,Frederik Berg Overgaard,Enhedslisten - De Rød-Grønne,1
+Viborg,2,Hald Ege,Ø_Alfred_Berg_Overgaard,Alfred Berg Overgaard,Enhedslisten - De Rød-Grønne,7
+Viborg,2,Hald Ege,Ø_Liz_Dueholm,Liz Dueholm,Enhedslisten - De Rød-Grønne,4
+Viborg,2,Hald Ege,Ø_Pernille_Diemar,Pernille Diemar,Enhedslisten - De Rød-Grønne,3
+Viborg,2,Hald Ege,Å_Listestemmer,Listestemmer,Alternativet,10
+Viborg,2,Hald Ege,"Å_Stine_Isaksen,_Viborg","Stine Isaksen, Viborg",Alternativet,65
+Viborg,2,Hald Ege,"Å_Didde_Krabbe_Johannesen,Viborg","Didde Krabbe Johannesen,Viborg",Alternativet,4
+Viborg,2,Hald Ege,"Å_Jeppe_Ottow,_Viborg","Jeppe Ottow, Viborg",Alternativet,2
+Viborg,2,Hald Ege,"Å_Kirsten_Hindbo,_Viborg","Kirsten Hindbo, Viborg",Alternativet,2
+Viborg,2,Hald Ege,"Å_Signe_Sofie_Larsen,_Viborg","Signe Sofie Larsen, Viborg",Alternativet,1
+Viborg,2,Hald Ege,"Å_Jens_Boll,_Bjerringbro","Jens Boll, Bjerringbro",Alternativet,2
+Viborg,2,Hald Ege,"Å_Børge_H._Jensen,_Viborg","Børge H. Jensen, Viborg",Alternativet,0
+Viborg,2,Hald Ege,"Å_Peter_Owen,_Bjerringbro","Peter Owen, Bjerringbro",Alternativet,0
+Viborg,2,Hald Ege,"Å_Ole_Utoft,_Hjarbæk","Ole Utoft, Hjarbæk",Alternativet,0
+Viborg,2,Hald Ege,"Å_Hayley_Newman,_Viborg","Hayley Newman, Viborg",Alternativet,0
+Viborg,3,Karup,A_Listestemmer,Listestemmer,Socialdemokratiet,82
+Viborg,3,Karup,"A_Mads_Panny,_Viborg","Mads Panny, Viborg",Socialdemokratiet,36
+Viborg,3,Karup,"A_Anders_Bertel,_Frederiks","Anders Bertel, Frederiks",Socialdemokratiet,204
+Viborg,3,Karup,"A_Bent_Mikkelsen,_Viborg","Bent Mikkelsen, Viborg",Socialdemokratiet,3
+Viborg,3,Karup,"A_Birgith_B._Langballe,_Stoholm","Birgith B. Langballe, Stoholm",Socialdemokratiet,0
+Viborg,3,Karup,"A_Birthe_Harritz,_Ørum","Birthe Harritz, Ørum",Socialdemokratiet,0
+Viborg,3,Karup,"A_Bjarne_Andersen,_Fly","Bjarne Andersen, Fly",Socialdemokratiet,0
+Viborg,3,Karup,"A_Eva_Pinnerup,_Viborg","Eva Pinnerup, Viborg",Socialdemokratiet,10
+Viborg,3,Karup,"A_Lars_Greve,_Viborg","Lars Greve, Viborg",Socialdemokratiet,2
+Viborg,3,Karup,"A_Marianne_Aaris_Andersen,_Viborg","Marianne Aaris Andersen, Viborg",Socialdemokratiet,1
+Viborg,3,Karup,"A_Martin_Sanderhoff,_Bjerringbro","Martin Sanderhoff, Bjerringbro",Socialdemokratiet,0
+Viborg,3,Karup,"A_Mette_Nielsen,_Klejtrup","Mette Nielsen, Klejtrup",Socialdemokratiet,9
+Viborg,3,Karup,"A_Michael_Philip_Poulsen,Bjerringbro","Michael Philip Poulsen,Bjerringbro",Socialdemokratiet,3
+Viborg,3,Karup,"A_Niels_Dueholm,_Bjerringbro","Niels Dueholm, Bjerringbro",Socialdemokratiet,1
+Viborg,3,Karup,"A_Steen_Nysom,_Viborg","Steen Nysom, Viborg",Socialdemokratiet,0
+Viborg,3,Karup,"A_Winnie_Nielsen,_Karup","Winnie Nielsen, Karup",Socialdemokratiet,257
+Viborg,3,Karup,B_Listestemmer,Listestemmer,Radikale Venstre,3
+Viborg,3,Karup,B_Lasse_Christiansen,Lasse Christiansen,Radikale Venstre,1
+Viborg,3,Karup,B_Michael_Flarup,Michael Flarup,Radikale Venstre,2
+Viborg,3,Karup,B_Jan_Rønne,Jan Rønne,Radikale Venstre,4
+Viborg,3,Karup,B_Marianne_Tøttrup,Marianne Tøttrup,Radikale Venstre,4
+Viborg,3,Karup,B_Signe_Driefer,Signe Driefer,Radikale Venstre,1
+Viborg,3,Karup,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,48
+Viborg,3,Karup,C_Torsten_Nielsen,Torsten Nielsen,Det Konservative Folkeparti,111
+Viborg,3,Karup,C_Stine_Damborg,Stine Damborg,Det Konservative Folkeparti,24
+Viborg,3,Karup,C_Nikolai_Norup,Nikolai Norup,Det Konservative Folkeparti,3
+Viborg,3,Karup,C_Jakob_Valdemar_Ekberg,Jakob Valdemar Ekberg,Det Konservative Folkeparti,0
+Viborg,3,Karup,C_Peter_Juhl,Peter Juhl,Det Konservative Folkeparti,1
+Viborg,3,Karup,C_Simon_Højer,Simon Højer,Det Konservative Folkeparti,2
+Viborg,3,Karup,C_Claus_Nielsen,Claus Nielsen,Det Konservative Folkeparti,1
+Viborg,3,Karup,C_Steen_A._Stephansen,Steen A. Stephansen,Det Konservative Folkeparti,2
+Viborg,3,Karup,C_Lise_Bertelsen,Lise Bertelsen,Det Konservative Folkeparti,4
+Viborg,3,Karup,C_Asbjørn_Sennels,Asbjørn Sennels,Det Konservative Folkeparti,2
+Viborg,3,Karup,C_Kenny_Schødt,Kenny Schødt,Det Konservative Folkeparti,3
+Viborg,3,Karup,C_Kirsten_Holmgaard,Kirsten Holmgaard,Det Konservative Folkeparti,0
+Viborg,3,Karup,C_Steffen_Drejer,Steffen Drejer,Det Konservative Folkeparti,0
+Viborg,3,Karup,C_Sofie_Ringgaard_Schøning,Sofie Ringgaard Schøning,Det Konservative Folkeparti,3
+Viborg,3,Karup,C_Malena_Møller_Mortensen,Malena Møller Mortensen,Det Konservative Folkeparti,4
+Viborg,3,Karup,C_Trine_Dige,Trine Dige,Det Konservative Folkeparti,2
+Viborg,3,Karup,C_Peter_Ruby,Peter Ruby,Det Konservative Folkeparti,0
+Viborg,3,Karup,C_Christian_Kapper,Christian Kapper,Det Konservative Folkeparti,2
+Viborg,3,Karup,C_Lars_Bøche_Jensen,Lars Bøche Jensen,Det Konservative Folkeparti,0
+Viborg,3,Karup,C_Ulrik_Praastrup,Ulrik Praastrup,Det Konservative Folkeparti,0
+Viborg,3,Karup,C_Ida_Gottenborg_Jacobsen,Ida Gottenborg Jacobsen,Det Konservative Folkeparti,3
+Viborg,3,Karup,C_Nicklas_Verne_Jensen,Nicklas Verne Jensen,Det Konservative Folkeparti,0
+Viborg,3,Karup,C_Morten_Christensen,Morten Christensen,Det Konservative Folkeparti,1
+Viborg,3,Karup,C_Poul-Erik_Chortsen,Poul-Erik Chortsen,Det Konservative Folkeparti,0
+Viborg,3,Karup,C_Lotte_Frandsen,Lotte Frandsen,Det Konservative Folkeparti,5
+Viborg,3,Karup,C_Allan_Clifford_Christensen,Allan Clifford Christensen,Det Konservative Folkeparti,128
+Viborg,3,Karup,D_Listestemmer,Listestemmer,Nye Borgerlige,43
+Viborg,3,Karup,"D_Leo_Nørgaard,_Viborg","Leo Nørgaard, Viborg",Nye Borgerlige,10
+Viborg,3,Karup,"D_Thomas_Borup_Laursen,_Viborg","Thomas Borup Laursen, Viborg",Nye Borgerlige,1
+Viborg,3,Karup,"D_Jakob_Svendsen,Vorning","Jakob Svendsen,Vorning",Nye Borgerlige,3
+Viborg,3,Karup,"D_Mads_C._Prytz,_Rødkærsbro","Mads C. Prytz, Rødkærsbro",Nye Borgerlige,4
+Viborg,3,Karup,"D_Laust_Nørskov,_Hvam_St.","Laust Nørskov, Hvam St.",Nye Borgerlige,3
+Viborg,3,Karup,"D_Johan_Emil_Gjermandsen,_Viborg","Johan Emil Gjermandsen, Viborg",Nye Borgerlige,1
+Viborg,3,Karup,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,16
+Viborg,3,Karup,"F_Elo_Nielsen,_Skals","Elo Nielsen, Skals",SF - Socialistisk Folkeparti,4
+Viborg,3,Karup,"F_Mikael_Løvschall,_Kjeldbjerg","Mikael Løvschall, Kjeldbjerg",SF - Socialistisk Folkeparti,3
+Viborg,3,Karup,"F_Marianne_Gaardsdal,_Viborg","Marianne Gaardsdal, Viborg",SF - Socialistisk Folkeparti,7
+Viborg,3,Karup,"F_Mads_Georgi,_Viborg","Mads Georgi, Viborg",SF - Socialistisk Folkeparti,4
+Viborg,3,Karup,"F_Kirsten_Winther_Almind,Bjerringbro","Kirsten Winther Almind,Bjerringbro",SF - Socialistisk Folkeparti,2
+Viborg,3,Karup,"F_Kasper_Ivanhoe_Terkelsen,_Viborg","Kasper Ivanhoe Terkelsen, Viborg",SF - Socialistisk Folkeparti,6
+Viborg,3,Karup,"F_Martin_Mølholt,_Viborg","Martin Mølholt, Viborg",SF - Socialistisk Folkeparti,0
+Viborg,3,Karup,I_Listestemmer,Listestemmer,Liberal Alliance,2
+Viborg,3,Karup,I_Frederik_Gottenborg_Jacobsen,Frederik Gottenborg Jacobsen,Liberal Alliance,0
+Viborg,3,Karup,I_Lene_Foged,Lene Foged,Liberal Alliance,2
+Viborg,3,Karup,I_Bo_Wieck-Hansen,Bo Wieck-Hansen,Liberal Alliance,2
+Viborg,3,Karup,K_Listestemmer,Listestemmer,Kristendemokraterne,2
+Viborg,3,Karup,"K_Eva_Kornum,_Skelhøje","Eva Kornum, Skelhøje",Kristendemokraterne,2
+Viborg,3,Karup,"K_Ghirmai_Berhane,_Rødkærsbro","Ghirmai Berhane, Rødkærsbro",Kristendemokraterne,1
+Viborg,3,Karup,"K_Hanne_Ellemann_Rytter,_Finderup","Hanne Ellemann Rytter, Finderup",Kristendemokraterne,0
+Viborg,3,Karup,"K_Ingrid_Bak,_Bjerringbro","Ingrid Bak, Bjerringbro",Kristendemokraterne,1
+Viborg,3,Karup,"K_Knud_Gaarn-Larsen,_Frederiks","Knud Gaarn-Larsen, Frederiks",Kristendemokraterne,8
+Viborg,3,Karup,L_Listestemmer,Listestemmer,Lokallisten - Viborg,4
+Viborg,3,Karup,L_Johnny_F._Andresen,Johnny F. Andresen,Lokallisten - Viborg,16
+Viborg,3,Karup,O_Listestemmer,Listestemmer,Dansk Folkeparti,26
+Viborg,3,Karup,"O_Lone_Langballe,_Tjele","Lone Langballe, Tjele",Dansk Folkeparti,21
+Viborg,3,Karup,"O_Kirsten_Hørdum,_Tjele","Kirsten Hørdum, Tjele",Dansk Folkeparti,0
+Viborg,3,Karup,"O_Morten_Thaarup,_Viborg","Morten Thaarup, Viborg",Dansk Folkeparti,11
+Viborg,3,Karup,"O_Anders_Risom,_Tjele","Anders Risom, Tjele",Dansk Folkeparti,3
+Viborg,3,Karup,"O_Kim_Poulsen,_Tjele","Kim Poulsen, Tjele",Dansk Folkeparti,0
+Viborg,3,Karup,"O_Jess_Mikkelsen,_Viborg","Jess Mikkelsen, Viborg",Dansk Folkeparti,2
+Viborg,3,Karup,T_Listestemmer,Listestemmer,Hvad kan gå galt,0
+Viborg,3,Karup,T_Theis_Bach_Nielsen,Theis Bach Nielsen,Hvad kan gå galt,2
+Viborg,3,Karup,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",45
+Viborg,3,Karup,"V_Ulrik_Wilbek,_Viborg","Ulrik Wilbek, Viborg","Venstre, Danmarks Liberale Parti",181
+Viborg,3,Karup,"V_Frederik_Houmann_Thuesen,_Overlund","Frederik Houmann Thuesen, Overlund","Venstre, Danmarks Liberale Parti",2
+Viborg,3,Karup,"V_Jakob_Harritz,_Viborg","Jakob Harritz, Viborg","Venstre, Danmarks Liberale Parti",3
+Viborg,3,Karup,"V_Anders_Jensen,_Løgstrup","Anders Jensen, Løgstrup","Venstre, Danmarks Liberale Parti",0
+Viborg,3,Karup,"V_Lars_Mogensen,_Tjele","Lars Mogensen, Tjele","Venstre, Danmarks Liberale Parti",1
+Viborg,3,Karup,"V_Kim_Dongsgaard,_Rødkærsbro","Kim Dongsgaard, Rødkærsbro","Venstre, Danmarks Liberale Parti",1
+Viborg,3,Karup,"V_Kurt_Mosgaard,_Mønsted","Kurt Mosgaard, Mønsted","Venstre, Danmarks Liberale Parti",6
+Viborg,3,Karup,"V_Lone_Kastberg,_Møldrup","Lone Kastberg, Møldrup","Venstre, Danmarks Liberale Parti",1
+Viborg,3,Karup,"V_Kurt_Johansen,_Ulbjerg","Kurt Johansen, Ulbjerg","Venstre, Danmarks Liberale Parti",0
+Viborg,3,Karup,"V_Pia_Viller_Arendt,_Frederiks","Pia Viller Arendt, Frederiks","Venstre, Danmarks Liberale Parti",31
+Viborg,3,Karup,"V_Claus_Clausen,_Vroue","Claus Clausen, Vroue","Venstre, Danmarks Liberale Parti",3
+Viborg,3,Karup,"V_Åse_Kubel_Høeg,_Viborg","Åse Kubel Høeg, Viborg","Venstre, Danmarks Liberale Parti",3
+Viborg,3,Karup,"V_Majbrit_Nørgaard,_Ravnstrup","Majbrit Nørgaard, Ravnstrup","Venstre, Danmarks Liberale Parti",2
+Viborg,3,Karup,"V_Johannes_F._Vesterby,_Løvel","Johannes F. Vesterby, Løvel","Venstre, Danmarks Liberale Parti",1
+Viborg,3,Karup,"V_Niels_Jørgen_Ottesen,_Bjerringbro","Niels Jørgen Ottesen, Bjerringbro","Venstre, Danmarks Liberale Parti",1
+Viborg,3,Karup,"V_Sinna_Maagaard,_Sparkær","Sinna Maagaard, Sparkær","Venstre, Danmarks Liberale Parti",3
+Viborg,3,Karup,"V_Michael_Nøhr,_Klejtrup","Michael Nøhr, Klejtrup","Venstre, Danmarks Liberale Parti",0
+Viborg,3,Karup,"V_Ole_Kristensen,_Karup","Ole Kristensen, Karup","Venstre, Danmarks Liberale Parti",245
+Viborg,3,Karup,"V_Britta_Jarly,_Viborg","Britta Jarly, Viborg","Venstre, Danmarks Liberale Parti",0
+Viborg,3,Karup,"V_Katrine_Fusager_Rohde,_Viborg","Katrine Fusager Rohde, Viborg","Venstre, Danmarks Liberale Parti",2
+Viborg,3,Karup,"V_Esben_Tøttrup,_Bjerringbro","Esben Tøttrup, Bjerringbro","Venstre, Danmarks Liberale Parti",0
+Viborg,3,Karup,Æ_Listestemmer,Listestemmer,Frihedslisten,1
+Viborg,3,Karup,"Æ_Jesper_Nørgaard,_Viborg","Jesper Nørgaard, Viborg",Frihedslisten,0
+Viborg,3,Karup,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,16
+Viborg,3,Karup,Ø_Aksel_Rosager_Johansen,Aksel Rosager Johansen,Enhedslisten - De Rød-Grønne,4
+Viborg,3,Karup,Ø_Zahra_Mohamud_Ali,Zahra Mohamud Ali,Enhedslisten - De Rød-Grønne,5
+Viborg,3,Karup,Ø_Frederik_Berg_Overgaard,Frederik Berg Overgaard,Enhedslisten - De Rød-Grønne,0
+Viborg,3,Karup,Ø_Alfred_Berg_Overgaard,Alfred Berg Overgaard,Enhedslisten - De Rød-Grønne,0
+Viborg,3,Karup,Ø_Liz_Dueholm,Liz Dueholm,Enhedslisten - De Rød-Grønne,1
+Viborg,3,Karup,Ø_Pernille_Diemar,Pernille Diemar,Enhedslisten - De Rød-Grønne,2
+Viborg,3,Karup,Å_Listestemmer,Listestemmer,Alternativet,2
+Viborg,3,Karup,"Å_Stine_Isaksen,_Viborg","Stine Isaksen, Viborg",Alternativet,4
+Viborg,3,Karup,"Å_Didde_Krabbe_Johannesen,Viborg","Didde Krabbe Johannesen,Viborg",Alternativet,0
+Viborg,3,Karup,"Å_Jeppe_Ottow,_Viborg","Jeppe Ottow, Viborg",Alternativet,0
+Viborg,3,Karup,"Å_Kirsten_Hindbo,_Viborg","Kirsten Hindbo, Viborg",Alternativet,2
+Viborg,3,Karup,"Å_Signe_Sofie_Larsen,_Viborg","Signe Sofie Larsen, Viborg",Alternativet,0
+Viborg,3,Karup,"Å_Jens_Boll,_Bjerringbro","Jens Boll, Bjerringbro",Alternativet,0
+Viborg,3,Karup,"Å_Børge_H._Jensen,_Viborg","Børge H. Jensen, Viborg",Alternativet,0
+Viborg,3,Karup,"Å_Peter_Owen,_Bjerringbro","Peter Owen, Bjerringbro",Alternativet,0
+Viborg,3,Karup,"Å_Ole_Utoft,_Hjarbæk","Ole Utoft, Hjarbæk",Alternativet,0
+Viborg,3,Karup,"Å_Hayley_Newman,_Viborg","Hayley Newman, Viborg",Alternativet,1
+Viborg,4,Løgstrup,A_Listestemmer,Listestemmer,Socialdemokratiet,85
+Viborg,4,Løgstrup,"A_Mads_Panny,_Viborg","Mads Panny, Viborg",Socialdemokratiet,126
+Viborg,4,Løgstrup,"A_Anders_Bertel,_Frederiks","Anders Bertel, Frederiks",Socialdemokratiet,3
+Viborg,4,Løgstrup,"A_Bent_Mikkelsen,_Viborg","Bent Mikkelsen, Viborg",Socialdemokratiet,4
+Viborg,4,Løgstrup,"A_Birgith_B._Langballe,_Stoholm","Birgith B. Langballe, Stoholm",Socialdemokratiet,4
+Viborg,4,Løgstrup,"A_Birthe_Harritz,_Ørum","Birthe Harritz, Ørum",Socialdemokratiet,2
+Viborg,4,Løgstrup,"A_Bjarne_Andersen,_Fly","Bjarne Andersen, Fly",Socialdemokratiet,1
+Viborg,4,Løgstrup,"A_Eva_Pinnerup,_Viborg","Eva Pinnerup, Viborg",Socialdemokratiet,22
+Viborg,4,Løgstrup,"A_Lars_Greve,_Viborg","Lars Greve, Viborg",Socialdemokratiet,29
+Viborg,4,Løgstrup,"A_Marianne_Aaris_Andersen,_Viborg","Marianne Aaris Andersen, Viborg",Socialdemokratiet,8
+Viborg,4,Løgstrup,"A_Martin_Sanderhoff,_Bjerringbro","Martin Sanderhoff, Bjerringbro",Socialdemokratiet,1
+Viborg,4,Løgstrup,"A_Mette_Nielsen,_Klejtrup","Mette Nielsen, Klejtrup",Socialdemokratiet,18
+Viborg,4,Løgstrup,"A_Michael_Philip_Poulsen,Bjerringbro","Michael Philip Poulsen,Bjerringbro",Socialdemokratiet,2
+Viborg,4,Løgstrup,"A_Niels_Dueholm,_Bjerringbro","Niels Dueholm, Bjerringbro",Socialdemokratiet,1
+Viborg,4,Løgstrup,"A_Steen_Nysom,_Viborg","Steen Nysom, Viborg",Socialdemokratiet,15
+Viborg,4,Løgstrup,"A_Winnie_Nielsen,_Karup","Winnie Nielsen, Karup",Socialdemokratiet,0
+Viborg,4,Løgstrup,B_Listestemmer,Listestemmer,Radikale Venstre,5
+Viborg,4,Løgstrup,B_Lasse_Christiansen,Lasse Christiansen,Radikale Venstre,6
+Viborg,4,Løgstrup,B_Michael_Flarup,Michael Flarup,Radikale Venstre,4
+Viborg,4,Løgstrup,B_Jan_Rønne,Jan Rønne,Radikale Venstre,1
+Viborg,4,Løgstrup,B_Marianne_Tøttrup,Marianne Tøttrup,Radikale Venstre,6
+Viborg,4,Løgstrup,B_Signe_Driefer,Signe Driefer,Radikale Venstre,2
+Viborg,4,Løgstrup,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,56
+Viborg,4,Løgstrup,C_Torsten_Nielsen,Torsten Nielsen,Det Konservative Folkeparti,148
+Viborg,4,Løgstrup,C_Stine_Damborg,Stine Damborg,Det Konservative Folkeparti,43
+Viborg,4,Løgstrup,C_Nikolai_Norup,Nikolai Norup,Det Konservative Folkeparti,5
+Viborg,4,Løgstrup,C_Jakob_Valdemar_Ekberg,Jakob Valdemar Ekberg,Det Konservative Folkeparti,0
+Viborg,4,Løgstrup,C_Peter_Juhl,Peter Juhl,Det Konservative Folkeparti,7
+Viborg,4,Løgstrup,C_Simon_Højer,Simon Højer,Det Konservative Folkeparti,6
+Viborg,4,Løgstrup,C_Claus_Nielsen,Claus Nielsen,Det Konservative Folkeparti,4
+Viborg,4,Løgstrup,C_Steen_A._Stephansen,Steen A. Stephansen,Det Konservative Folkeparti,2
+Viborg,4,Løgstrup,C_Lise_Bertelsen,Lise Bertelsen,Det Konservative Folkeparti,19
+Viborg,4,Løgstrup,C_Asbjørn_Sennels,Asbjørn Sennels,Det Konservative Folkeparti,10
+Viborg,4,Løgstrup,C_Kenny_Schødt,Kenny Schødt,Det Konservative Folkeparti,1
+Viborg,4,Løgstrup,C_Kirsten_Holmgaard,Kirsten Holmgaard,Det Konservative Folkeparti,3
+Viborg,4,Løgstrup,C_Steffen_Drejer,Steffen Drejer,Det Konservative Folkeparti,3
+Viborg,4,Løgstrup,C_Sofie_Ringgaard_Schøning,Sofie Ringgaard Schøning,Det Konservative Folkeparti,400
+Viborg,4,Løgstrup,C_Malena_Møller_Mortensen,Malena Møller Mortensen,Det Konservative Folkeparti,5
+Viborg,4,Løgstrup,C_Trine_Dige,Trine Dige,Det Konservative Folkeparti,5
+Viborg,4,Løgstrup,C_Peter_Ruby,Peter Ruby,Det Konservative Folkeparti,1
+Viborg,4,Løgstrup,C_Christian_Kapper,Christian Kapper,Det Konservative Folkeparti,5
+Viborg,4,Løgstrup,C_Lars_Bøche_Jensen,Lars Bøche Jensen,Det Konservative Folkeparti,1
+Viborg,4,Løgstrup,C_Ulrik_Praastrup,Ulrik Praastrup,Det Konservative Folkeparti,1
+Viborg,4,Løgstrup,C_Ida_Gottenborg_Jacobsen,Ida Gottenborg Jacobsen,Det Konservative Folkeparti,0
+Viborg,4,Løgstrup,C_Nicklas_Verne_Jensen,Nicklas Verne Jensen,Det Konservative Folkeparti,0
+Viborg,4,Løgstrup,C_Morten_Christensen,Morten Christensen,Det Konservative Folkeparti,0
+Viborg,4,Løgstrup,C_Poul-Erik_Chortsen,Poul-Erik Chortsen,Det Konservative Folkeparti,0
+Viborg,4,Løgstrup,C_Lotte_Frandsen,Lotte Frandsen,Det Konservative Folkeparti,0
+Viborg,4,Løgstrup,C_Allan_Clifford_Christensen,Allan Clifford Christensen,Det Konservative Folkeparti,1
+Viborg,4,Løgstrup,D_Listestemmer,Listestemmer,Nye Borgerlige,16
+Viborg,4,Løgstrup,"D_Leo_Nørgaard,_Viborg","Leo Nørgaard, Viborg",Nye Borgerlige,6
+Viborg,4,Løgstrup,"D_Thomas_Borup_Laursen,_Viborg","Thomas Borup Laursen, Viborg",Nye Borgerlige,6
+Viborg,4,Løgstrup,"D_Jakob_Svendsen,Vorning","Jakob Svendsen,Vorning",Nye Borgerlige,5
+Viborg,4,Løgstrup,"D_Mads_C._Prytz,_Rødkærsbro","Mads C. Prytz, Rødkærsbro",Nye Borgerlige,7
+Viborg,4,Løgstrup,"D_Laust_Nørskov,_Hvam_St.","Laust Nørskov, Hvam St.",Nye Borgerlige,0
+Viborg,4,Løgstrup,"D_Johan_Emil_Gjermandsen,_Viborg","Johan Emil Gjermandsen, Viborg",Nye Borgerlige,0
+Viborg,4,Løgstrup,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,23
+Viborg,4,Løgstrup,"F_Elo_Nielsen,_Skals","Elo Nielsen, Skals",SF - Socialistisk Folkeparti,17
+Viborg,4,Løgstrup,"F_Mikael_Løvschall,_Kjeldbjerg","Mikael Løvschall, Kjeldbjerg",SF - Socialistisk Folkeparti,7
+Viborg,4,Løgstrup,"F_Marianne_Gaardsdal,_Viborg","Marianne Gaardsdal, Viborg",SF - Socialistisk Folkeparti,23
+Viborg,4,Løgstrup,"F_Mads_Georgi,_Viborg","Mads Georgi, Viborg",SF - Socialistisk Folkeparti,8
+Viborg,4,Løgstrup,"F_Kirsten_Winther_Almind,Bjerringbro","Kirsten Winther Almind,Bjerringbro",SF - Socialistisk Folkeparti,2
+Viborg,4,Løgstrup,"F_Kasper_Ivanhoe_Terkelsen,_Viborg","Kasper Ivanhoe Terkelsen, Viborg",SF - Socialistisk Folkeparti,3
+Viborg,4,Løgstrup,"F_Martin_Mølholt,_Viborg","Martin Mølholt, Viborg",SF - Socialistisk Folkeparti,1
+Viborg,4,Løgstrup,I_Listestemmer,Listestemmer,Liberal Alliance,5
+Viborg,4,Løgstrup,I_Frederik_Gottenborg_Jacobsen,Frederik Gottenborg Jacobsen,Liberal Alliance,10
+Viborg,4,Løgstrup,I_Lene_Foged,Lene Foged,Liberal Alliance,6
+Viborg,4,Løgstrup,I_Bo_Wieck-Hansen,Bo Wieck-Hansen,Liberal Alliance,2
+Viborg,4,Løgstrup,K_Listestemmer,Listestemmer,Kristendemokraterne,2
+Viborg,4,Løgstrup,"K_Eva_Kornum,_Skelhøje","Eva Kornum, Skelhøje",Kristendemokraterne,1
+Viborg,4,Løgstrup,"K_Ghirmai_Berhane,_Rødkærsbro","Ghirmai Berhane, Rødkærsbro",Kristendemokraterne,0
+Viborg,4,Løgstrup,"K_Hanne_Ellemann_Rytter,_Finderup","Hanne Ellemann Rytter, Finderup",Kristendemokraterne,0
+Viborg,4,Løgstrup,"K_Ingrid_Bak,_Bjerringbro","Ingrid Bak, Bjerringbro",Kristendemokraterne,2
+Viborg,4,Løgstrup,"K_Knud_Gaarn-Larsen,_Frederiks","Knud Gaarn-Larsen, Frederiks",Kristendemokraterne,2
+Viborg,4,Løgstrup,L_Listestemmer,Listestemmer,Lokallisten - Viborg,1
+Viborg,4,Løgstrup,L_Johnny_F._Andresen,Johnny F. Andresen,Lokallisten - Viborg,0
+Viborg,4,Løgstrup,O_Listestemmer,Listestemmer,Dansk Folkeparti,21
+Viborg,4,Løgstrup,"O_Lone_Langballe,_Tjele","Lone Langballe, Tjele",Dansk Folkeparti,18
+Viborg,4,Løgstrup,"O_Kirsten_Hørdum,_Tjele","Kirsten Hørdum, Tjele",Dansk Folkeparti,1
+Viborg,4,Løgstrup,"O_Morten_Thaarup,_Viborg","Morten Thaarup, Viborg",Dansk Folkeparti,8
+Viborg,4,Løgstrup,"O_Anders_Risom,_Tjele","Anders Risom, Tjele",Dansk Folkeparti,2
+Viborg,4,Løgstrup,"O_Kim_Poulsen,_Tjele","Kim Poulsen, Tjele",Dansk Folkeparti,4
+Viborg,4,Løgstrup,"O_Jess_Mikkelsen,_Viborg","Jess Mikkelsen, Viborg",Dansk Folkeparti,3
+Viborg,4,Løgstrup,T_Listestemmer,Listestemmer,Hvad kan gå galt,2
+Viborg,4,Løgstrup,T_Theis_Bach_Nielsen,Theis Bach Nielsen,Hvad kan gå galt,10
+Viborg,4,Løgstrup,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",43
+Viborg,4,Løgstrup,"V_Ulrik_Wilbek,_Viborg","Ulrik Wilbek, Viborg","Venstre, Danmarks Liberale Parti",297
+Viborg,4,Løgstrup,"V_Frederik_Houmann_Thuesen,_Overlund","Frederik Houmann Thuesen, Overlund","Venstre, Danmarks Liberale Parti",8
+Viborg,4,Løgstrup,"V_Jakob_Harritz,_Viborg","Jakob Harritz, Viborg","Venstre, Danmarks Liberale Parti",9
+Viborg,4,Løgstrup,"V_Anders_Jensen,_Løgstrup","Anders Jensen, Løgstrup","Venstre, Danmarks Liberale Parti",318
+Viborg,4,Løgstrup,"V_Lars_Mogensen,_Tjele","Lars Mogensen, Tjele","Venstre, Danmarks Liberale Parti",20
+Viborg,4,Løgstrup,"V_Kim_Dongsgaard,_Rødkærsbro","Kim Dongsgaard, Rødkærsbro","Venstre, Danmarks Liberale Parti",4
+Viborg,4,Løgstrup,"V_Kurt_Mosgaard,_Mønsted","Kurt Mosgaard, Mønsted","Venstre, Danmarks Liberale Parti",2
+Viborg,4,Løgstrup,"V_Lone_Kastberg,_Møldrup","Lone Kastberg, Møldrup","Venstre, Danmarks Liberale Parti",3
+Viborg,4,Løgstrup,"V_Kurt_Johansen,_Ulbjerg","Kurt Johansen, Ulbjerg","Venstre, Danmarks Liberale Parti",3
+Viborg,4,Løgstrup,"V_Pia_Viller_Arendt,_Frederiks","Pia Viller Arendt, Frederiks","Venstre, Danmarks Liberale Parti",3
+Viborg,4,Løgstrup,"V_Claus_Clausen,_Vroue","Claus Clausen, Vroue","Venstre, Danmarks Liberale Parti",2
+Viborg,4,Løgstrup,"V_Åse_Kubel_Høeg,_Viborg","Åse Kubel Høeg, Viborg","Venstre, Danmarks Liberale Parti",22
+Viborg,4,Løgstrup,"V_Majbrit_Nørgaard,_Ravnstrup","Majbrit Nørgaard, Ravnstrup","Venstre, Danmarks Liberale Parti",9
+Viborg,4,Løgstrup,"V_Johannes_F._Vesterby,_Løvel","Johannes F. Vesterby, Løvel","Venstre, Danmarks Liberale Parti",8
+Viborg,4,Løgstrup,"V_Niels_Jørgen_Ottesen,_Bjerringbro","Niels Jørgen Ottesen, Bjerringbro","Venstre, Danmarks Liberale Parti",2
+Viborg,4,Løgstrup,"V_Sinna_Maagaard,_Sparkær","Sinna Maagaard, Sparkær","Venstre, Danmarks Liberale Parti",4
+Viborg,4,Løgstrup,"V_Michael_Nøhr,_Klejtrup","Michael Nøhr, Klejtrup","Venstre, Danmarks Liberale Parti",1
+Viborg,4,Løgstrup,"V_Ole_Kristensen,_Karup","Ole Kristensen, Karup","Venstre, Danmarks Liberale Parti",0
+Viborg,4,Løgstrup,"V_Britta_Jarly,_Viborg","Britta Jarly, Viborg","Venstre, Danmarks Liberale Parti",2
+Viborg,4,Løgstrup,"V_Katrine_Fusager_Rohde,_Viborg","Katrine Fusager Rohde, Viborg","Venstre, Danmarks Liberale Parti",15
+Viborg,4,Løgstrup,"V_Esben_Tøttrup,_Bjerringbro","Esben Tøttrup, Bjerringbro","Venstre, Danmarks Liberale Parti",0
+Viborg,4,Løgstrup,Æ_Listestemmer,Listestemmer,Frihedslisten,2
+Viborg,4,Løgstrup,"Æ_Jesper_Nørgaard,_Viborg","Jesper Nørgaard, Viborg",Frihedslisten,8
+Viborg,4,Løgstrup,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,24
+Viborg,4,Løgstrup,Ø_Aksel_Rosager_Johansen,Aksel Rosager Johansen,Enhedslisten - De Rød-Grønne,15
+Viborg,4,Løgstrup,Ø_Zahra_Mohamud_Ali,Zahra Mohamud Ali,Enhedslisten - De Rød-Grønne,4
+Viborg,4,Løgstrup,Ø_Frederik_Berg_Overgaard,Frederik Berg Overgaard,Enhedslisten - De Rød-Grønne,2
+Viborg,4,Løgstrup,Ø_Alfred_Berg_Overgaard,Alfred Berg Overgaard,Enhedslisten - De Rød-Grønne,2
+Viborg,4,Løgstrup,Ø_Liz_Dueholm,Liz Dueholm,Enhedslisten - De Rød-Grønne,6
+Viborg,4,Løgstrup,Ø_Pernille_Diemar,Pernille Diemar,Enhedslisten - De Rød-Grønne,2
+Viborg,4,Løgstrup,Å_Listestemmer,Listestemmer,Alternativet,2
+Viborg,4,Løgstrup,"Å_Stine_Isaksen,_Viborg","Stine Isaksen, Viborg",Alternativet,28
+Viborg,4,Løgstrup,"Å_Didde_Krabbe_Johannesen,Viborg","Didde Krabbe Johannesen,Viborg",Alternativet,4
+Viborg,4,Løgstrup,"Å_Jeppe_Ottow,_Viborg","Jeppe Ottow, Viborg",Alternativet,1
+Viborg,4,Løgstrup,"Å_Kirsten_Hindbo,_Viborg","Kirsten Hindbo, Viborg",Alternativet,1
+Viborg,4,Løgstrup,"Å_Signe_Sofie_Larsen,_Viborg","Signe Sofie Larsen, Viborg",Alternativet,0
+Viborg,4,Løgstrup,"Å_Jens_Boll,_Bjerringbro","Jens Boll, Bjerringbro",Alternativet,1
+Viborg,4,Løgstrup,"Å_Børge_H._Jensen,_Viborg","Børge H. Jensen, Viborg",Alternativet,0
+Viborg,4,Løgstrup,"Å_Peter_Owen,_Bjerringbro","Peter Owen, Bjerringbro",Alternativet,0
+Viborg,4,Løgstrup,"Å_Ole_Utoft,_Hjarbæk","Ole Utoft, Hjarbæk",Alternativet,1
+Viborg,4,Løgstrup,"Å_Hayley_Newman,_Viborg","Hayley Newman, Viborg",Alternativet,0
+Viborg,5,Mønsted,A_Listestemmer,Listestemmer,Socialdemokratiet,48
+Viborg,5,Mønsted,"A_Mads_Panny,_Viborg","Mads Panny, Viborg",Socialdemokratiet,63
+Viborg,5,Mønsted,"A_Anders_Bertel,_Frederiks","Anders Bertel, Frederiks",Socialdemokratiet,0
+Viborg,5,Mønsted,"A_Bent_Mikkelsen,_Viborg","Bent Mikkelsen, Viborg",Socialdemokratiet,2
+Viborg,5,Mønsted,"A_Birgith_B._Langballe,_Stoholm","Birgith B. Langballe, Stoholm",Socialdemokratiet,37
+Viborg,5,Mønsted,"A_Birthe_Harritz,_Ørum","Birthe Harritz, Ørum",Socialdemokratiet,0
+Viborg,5,Mønsted,"A_Bjarne_Andersen,_Fly","Bjarne Andersen, Fly",Socialdemokratiet,2
+Viborg,5,Mønsted,"A_Eva_Pinnerup,_Viborg","Eva Pinnerup, Viborg",Socialdemokratiet,7
+Viborg,5,Mønsted,"A_Lars_Greve,_Viborg","Lars Greve, Viborg",Socialdemokratiet,2
+Viborg,5,Mønsted,"A_Marianne_Aaris_Andersen,_Viborg","Marianne Aaris Andersen, Viborg",Socialdemokratiet,5
+Viborg,5,Mønsted,"A_Martin_Sanderhoff,_Bjerringbro","Martin Sanderhoff, Bjerringbro",Socialdemokratiet,1
+Viborg,5,Mønsted,"A_Mette_Nielsen,_Klejtrup","Mette Nielsen, Klejtrup",Socialdemokratiet,7
+Viborg,5,Mønsted,"A_Michael_Philip_Poulsen,Bjerringbro","Michael Philip Poulsen,Bjerringbro",Socialdemokratiet,0
+Viborg,5,Mønsted,"A_Niels_Dueholm,_Bjerringbro","Niels Dueholm, Bjerringbro",Socialdemokratiet,1
+Viborg,5,Mønsted,"A_Steen_Nysom,_Viborg","Steen Nysom, Viborg",Socialdemokratiet,1
+Viborg,5,Mønsted,"A_Winnie_Nielsen,_Karup","Winnie Nielsen, Karup",Socialdemokratiet,3
+Viborg,5,Mønsted,B_Listestemmer,Listestemmer,Radikale Venstre,7
+Viborg,5,Mønsted,B_Lasse_Christiansen,Lasse Christiansen,Radikale Venstre,3
+Viborg,5,Mønsted,B_Michael_Flarup,Michael Flarup,Radikale Venstre,0
+Viborg,5,Mønsted,B_Jan_Rønne,Jan Rønne,Radikale Venstre,0
+Viborg,5,Mønsted,B_Marianne_Tøttrup,Marianne Tøttrup,Radikale Venstre,1
+Viborg,5,Mønsted,B_Signe_Driefer,Signe Driefer,Radikale Venstre,0
+Viborg,5,Mønsted,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,34
+Viborg,5,Mønsted,C_Torsten_Nielsen,Torsten Nielsen,Det Konservative Folkeparti,341
+Viborg,5,Mønsted,C_Stine_Damborg,Stine Damborg,Det Konservative Folkeparti,17
+Viborg,5,Mønsted,C_Nikolai_Norup,Nikolai Norup,Det Konservative Folkeparti,0
+Viborg,5,Mønsted,C_Jakob_Valdemar_Ekberg,Jakob Valdemar Ekberg,Det Konservative Folkeparti,1
+Viborg,5,Mønsted,C_Peter_Juhl,Peter Juhl,Det Konservative Folkeparti,1
+Viborg,5,Mønsted,C_Simon_Højer,Simon Højer,Det Konservative Folkeparti,12
+Viborg,5,Mønsted,C_Claus_Nielsen,Claus Nielsen,Det Konservative Folkeparti,3
+Viborg,5,Mønsted,C_Steen_A._Stephansen,Steen A. Stephansen,Det Konservative Folkeparti,2
+Viborg,5,Mønsted,C_Lise_Bertelsen,Lise Bertelsen,Det Konservative Folkeparti,4
+Viborg,5,Mønsted,C_Asbjørn_Sennels,Asbjørn Sennels,Det Konservative Folkeparti,0
+Viborg,5,Mønsted,C_Kenny_Schødt,Kenny Schødt,Det Konservative Folkeparti,0
+Viborg,5,Mønsted,C_Kirsten_Holmgaard,Kirsten Holmgaard,Det Konservative Folkeparti,1
+Viborg,5,Mønsted,C_Steffen_Drejer,Steffen Drejer,Det Konservative Folkeparti,2
+Viborg,5,Mønsted,C_Sofie_Ringgaard_Schøning,Sofie Ringgaard Schøning,Det Konservative Folkeparti,6
+Viborg,5,Mønsted,C_Malena_Møller_Mortensen,Malena Møller Mortensen,Det Konservative Folkeparti,1
+Viborg,5,Mønsted,C_Trine_Dige,Trine Dige,Det Konservative Folkeparti,0
+Viborg,5,Mønsted,C_Peter_Ruby,Peter Ruby,Det Konservative Folkeparti,0
+Viborg,5,Mønsted,C_Christian_Kapper,Christian Kapper,Det Konservative Folkeparti,0
+Viborg,5,Mønsted,C_Lars_Bøche_Jensen,Lars Bøche Jensen,Det Konservative Folkeparti,0
+Viborg,5,Mønsted,C_Ulrik_Praastrup,Ulrik Praastrup,Det Konservative Folkeparti,0
+Viborg,5,Mønsted,C_Ida_Gottenborg_Jacobsen,Ida Gottenborg Jacobsen,Det Konservative Folkeparti,0
+Viborg,5,Mønsted,C_Nicklas_Verne_Jensen,Nicklas Verne Jensen,Det Konservative Folkeparti,0
+Viborg,5,Mønsted,C_Morten_Christensen,Morten Christensen,Det Konservative Folkeparti,1
+Viborg,5,Mønsted,C_Poul-Erik_Chortsen,Poul-Erik Chortsen,Det Konservative Folkeparti,0
+Viborg,5,Mønsted,C_Lotte_Frandsen,Lotte Frandsen,Det Konservative Folkeparti,2
+Viborg,5,Mønsted,C_Allan_Clifford_Christensen,Allan Clifford Christensen,Det Konservative Folkeparti,1
+Viborg,5,Mønsted,D_Listestemmer,Listestemmer,Nye Borgerlige,16
+Viborg,5,Mønsted,"D_Leo_Nørgaard,_Viborg","Leo Nørgaard, Viborg",Nye Borgerlige,4
+Viborg,5,Mønsted,"D_Thomas_Borup_Laursen,_Viborg","Thomas Borup Laursen, Viborg",Nye Borgerlige,1
+Viborg,5,Mønsted,"D_Jakob_Svendsen,Vorning","Jakob Svendsen,Vorning",Nye Borgerlige,2
+Viborg,5,Mønsted,"D_Mads_C._Prytz,_Rødkærsbro","Mads C. Prytz, Rødkærsbro",Nye Borgerlige,3
+Viborg,5,Mønsted,"D_Laust_Nørskov,_Hvam_St.","Laust Nørskov, Hvam St.",Nye Borgerlige,2
+Viborg,5,Mønsted,"D_Johan_Emil_Gjermandsen,_Viborg","Johan Emil Gjermandsen, Viborg",Nye Borgerlige,1
+Viborg,5,Mønsted,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,12
+Viborg,5,Mønsted,"F_Elo_Nielsen,_Skals","Elo Nielsen, Skals",SF - Socialistisk Folkeparti,6
+Viborg,5,Mønsted,"F_Mikael_Løvschall,_Kjeldbjerg","Mikael Løvschall, Kjeldbjerg",SF - Socialistisk Folkeparti,15
+Viborg,5,Mønsted,"F_Marianne_Gaardsdal,_Viborg","Marianne Gaardsdal, Viborg",SF - Socialistisk Folkeparti,11
+Viborg,5,Mønsted,"F_Mads_Georgi,_Viborg","Mads Georgi, Viborg",SF - Socialistisk Folkeparti,2
+Viborg,5,Mønsted,"F_Kirsten_Winther_Almind,Bjerringbro","Kirsten Winther Almind,Bjerringbro",SF - Socialistisk Folkeparti,0
+Viborg,5,Mønsted,"F_Kasper_Ivanhoe_Terkelsen,_Viborg","Kasper Ivanhoe Terkelsen, Viborg",SF - Socialistisk Folkeparti,2
+Viborg,5,Mønsted,"F_Martin_Mølholt,_Viborg","Martin Mølholt, Viborg",SF - Socialistisk Folkeparti,1
+Viborg,5,Mønsted,I_Listestemmer,Listestemmer,Liberal Alliance,5
+Viborg,5,Mønsted,I_Frederik_Gottenborg_Jacobsen,Frederik Gottenborg Jacobsen,Liberal Alliance,1
+Viborg,5,Mønsted,I_Lene_Foged,Lene Foged,Liberal Alliance,6
+Viborg,5,Mønsted,I_Bo_Wieck-Hansen,Bo Wieck-Hansen,Liberal Alliance,0
+Viborg,5,Mønsted,K_Listestemmer,Listestemmer,Kristendemokraterne,6
+Viborg,5,Mønsted,"K_Eva_Kornum,_Skelhøje","Eva Kornum, Skelhøje",Kristendemokraterne,1
+Viborg,5,Mønsted,"K_Ghirmai_Berhane,_Rødkærsbro","Ghirmai Berhane, Rødkærsbro",Kristendemokraterne,0
+Viborg,5,Mønsted,"K_Hanne_Ellemann_Rytter,_Finderup","Hanne Ellemann Rytter, Finderup",Kristendemokraterne,0
+Viborg,5,Mønsted,"K_Ingrid_Bak,_Bjerringbro","Ingrid Bak, Bjerringbro",Kristendemokraterne,0
+Viborg,5,Mønsted,"K_Knud_Gaarn-Larsen,_Frederiks","Knud Gaarn-Larsen, Frederiks",Kristendemokraterne,2
+Viborg,5,Mønsted,L_Listestemmer,Listestemmer,Lokallisten - Viborg,0
+Viborg,5,Mønsted,L_Johnny_F._Andresen,Johnny F. Andresen,Lokallisten - Viborg,0
+Viborg,5,Mønsted,O_Listestemmer,Listestemmer,Dansk Folkeparti,13
+Viborg,5,Mønsted,"O_Lone_Langballe,_Tjele","Lone Langballe, Tjele",Dansk Folkeparti,11
+Viborg,5,Mønsted,"O_Kirsten_Hørdum,_Tjele","Kirsten Hørdum, Tjele",Dansk Folkeparti,0
+Viborg,5,Mønsted,"O_Morten_Thaarup,_Viborg","Morten Thaarup, Viborg",Dansk Folkeparti,6
+Viborg,5,Mønsted,"O_Anders_Risom,_Tjele","Anders Risom, Tjele",Dansk Folkeparti,1
+Viborg,5,Mønsted,"O_Kim_Poulsen,_Tjele","Kim Poulsen, Tjele",Dansk Folkeparti,0
+Viborg,5,Mønsted,"O_Jess_Mikkelsen,_Viborg","Jess Mikkelsen, Viborg",Dansk Folkeparti,0
+Viborg,5,Mønsted,T_Listestemmer,Listestemmer,Hvad kan gå galt,0
+Viborg,5,Mønsted,T_Theis_Bach_Nielsen,Theis Bach Nielsen,Hvad kan gå galt,12
+Viborg,5,Mønsted,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",29
+Viborg,5,Mønsted,"V_Ulrik_Wilbek,_Viborg","Ulrik Wilbek, Viborg","Venstre, Danmarks Liberale Parti",100
+Viborg,5,Mønsted,"V_Frederik_Houmann_Thuesen,_Overlund","Frederik Houmann Thuesen, Overlund","Venstre, Danmarks Liberale Parti",3
+Viborg,5,Mønsted,"V_Jakob_Harritz,_Viborg","Jakob Harritz, Viborg","Venstre, Danmarks Liberale Parti",5
+Viborg,5,Mønsted,"V_Anders_Jensen,_Løgstrup","Anders Jensen, Løgstrup","Venstre, Danmarks Liberale Parti",0
+Viborg,5,Mønsted,"V_Lars_Mogensen,_Tjele","Lars Mogensen, Tjele","Venstre, Danmarks Liberale Parti",5
+Viborg,5,Mønsted,"V_Kim_Dongsgaard,_Rødkærsbro","Kim Dongsgaard, Rødkærsbro","Venstre, Danmarks Liberale Parti",1
+Viborg,5,Mønsted,"V_Kurt_Mosgaard,_Mønsted","Kurt Mosgaard, Mønsted","Venstre, Danmarks Liberale Parti",263
+Viborg,5,Mønsted,"V_Lone_Kastberg,_Møldrup","Lone Kastberg, Møldrup","Venstre, Danmarks Liberale Parti",1
+Viborg,5,Mønsted,"V_Kurt_Johansen,_Ulbjerg","Kurt Johansen, Ulbjerg","Venstre, Danmarks Liberale Parti",2
+Viborg,5,Mønsted,"V_Pia_Viller_Arendt,_Frederiks","Pia Viller Arendt, Frederiks","Venstre, Danmarks Liberale Parti",4
+Viborg,5,Mønsted,"V_Claus_Clausen,_Vroue","Claus Clausen, Vroue","Venstre, Danmarks Liberale Parti",9
+Viborg,5,Mønsted,"V_Åse_Kubel_Høeg,_Viborg","Åse Kubel Høeg, Viborg","Venstre, Danmarks Liberale Parti",4
+Viborg,5,Mønsted,"V_Majbrit_Nørgaard,_Ravnstrup","Majbrit Nørgaard, Ravnstrup","Venstre, Danmarks Liberale Parti",4
+Viborg,5,Mønsted,"V_Johannes_F._Vesterby,_Løvel","Johannes F. Vesterby, Løvel","Venstre, Danmarks Liberale Parti",0
+Viborg,5,Mønsted,"V_Niels_Jørgen_Ottesen,_Bjerringbro","Niels Jørgen Ottesen, Bjerringbro","Venstre, Danmarks Liberale Parti",0
+Viborg,5,Mønsted,"V_Sinna_Maagaard,_Sparkær","Sinna Maagaard, Sparkær","Venstre, Danmarks Liberale Parti",53
+Viborg,5,Mønsted,"V_Michael_Nøhr,_Klejtrup","Michael Nøhr, Klejtrup","Venstre, Danmarks Liberale Parti",0
+Viborg,5,Mønsted,"V_Ole_Kristensen,_Karup","Ole Kristensen, Karup","Venstre, Danmarks Liberale Parti",4
+Viborg,5,Mønsted,"V_Britta_Jarly,_Viborg","Britta Jarly, Viborg","Venstre, Danmarks Liberale Parti",0
+Viborg,5,Mønsted,"V_Katrine_Fusager_Rohde,_Viborg","Katrine Fusager Rohde, Viborg","Venstre, Danmarks Liberale Parti",9
+Viborg,5,Mønsted,"V_Esben_Tøttrup,_Bjerringbro","Esben Tøttrup, Bjerringbro","Venstre, Danmarks Liberale Parti",1
+Viborg,5,Mønsted,Æ_Listestemmer,Listestemmer,Frihedslisten,0
+Viborg,5,Mønsted,"Æ_Jesper_Nørgaard,_Viborg","Jesper Nørgaard, Viborg",Frihedslisten,0
+Viborg,5,Mønsted,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,11
+Viborg,5,Mønsted,Ø_Aksel_Rosager_Johansen,Aksel Rosager Johansen,Enhedslisten - De Rød-Grønne,7
+Viborg,5,Mønsted,Ø_Zahra_Mohamud_Ali,Zahra Mohamud Ali,Enhedslisten - De Rød-Grønne,2
+Viborg,5,Mønsted,Ø_Frederik_Berg_Overgaard,Frederik Berg Overgaard,Enhedslisten - De Rød-Grønne,0
+Viborg,5,Mønsted,Ø_Alfred_Berg_Overgaard,Alfred Berg Overgaard,Enhedslisten - De Rød-Grønne,2
+Viborg,5,Mønsted,Ø_Liz_Dueholm,Liz Dueholm,Enhedslisten - De Rød-Grønne,1
+Viborg,5,Mønsted,Ø_Pernille_Diemar,Pernille Diemar,Enhedslisten - De Rød-Grønne,0
+Viborg,5,Mønsted,Å_Listestemmer,Listestemmer,Alternativet,1
+Viborg,5,Mønsted,"Å_Stine_Isaksen,_Viborg","Stine Isaksen, Viborg",Alternativet,3
+Viborg,5,Mønsted,"Å_Didde_Krabbe_Johannesen,Viborg","Didde Krabbe Johannesen,Viborg",Alternativet,0
+Viborg,5,Mønsted,"Å_Jeppe_Ottow,_Viborg","Jeppe Ottow, Viborg",Alternativet,1
+Viborg,5,Mønsted,"Å_Kirsten_Hindbo,_Viborg","Kirsten Hindbo, Viborg",Alternativet,2
+Viborg,5,Mønsted,"Å_Signe_Sofie_Larsen,_Viborg","Signe Sofie Larsen, Viborg",Alternativet,0
+Viborg,5,Mønsted,"Å_Jens_Boll,_Bjerringbro","Jens Boll, Bjerringbro",Alternativet,0
+Viborg,5,Mønsted,"Å_Børge_H._Jensen,_Viborg","Børge H. Jensen, Viborg",Alternativet,0
+Viborg,5,Mønsted,"Å_Peter_Owen,_Bjerringbro","Peter Owen, Bjerringbro",Alternativet,0
+Viborg,5,Mønsted,"Å_Ole_Utoft,_Hjarbæk","Ole Utoft, Hjarbæk",Alternativet,0
+Viborg,5,Mønsted,"Å_Hayley_Newman,_Viborg","Hayley Newman, Viborg",Alternativet,0
+Viborg,6,Stoholm,A_Listestemmer,Listestemmer,Socialdemokratiet,68
+Viborg,6,Stoholm,"A_Mads_Panny,_Viborg","Mads Panny, Viborg",Socialdemokratiet,53
+Viborg,6,Stoholm,"A_Anders_Bertel,_Frederiks","Anders Bertel, Frederiks",Socialdemokratiet,2
+Viborg,6,Stoholm,"A_Bent_Mikkelsen,_Viborg","Bent Mikkelsen, Viborg",Socialdemokratiet,0
+Viborg,6,Stoholm,"A_Birgith_B._Langballe,_Stoholm","Birgith B. Langballe, Stoholm",Socialdemokratiet,233
+Viborg,6,Stoholm,"A_Birthe_Harritz,_Ørum","Birthe Harritz, Ørum",Socialdemokratiet,5
+Viborg,6,Stoholm,"A_Bjarne_Andersen,_Fly","Bjarne Andersen, Fly",Socialdemokratiet,7
+Viborg,6,Stoholm,"A_Eva_Pinnerup,_Viborg","Eva Pinnerup, Viborg",Socialdemokratiet,11
+Viborg,6,Stoholm,"A_Lars_Greve,_Viborg","Lars Greve, Viborg",Socialdemokratiet,2
+Viborg,6,Stoholm,"A_Marianne_Aaris_Andersen,_Viborg","Marianne Aaris Andersen, Viborg",Socialdemokratiet,3
+Viborg,6,Stoholm,"A_Martin_Sanderhoff,_Bjerringbro","Martin Sanderhoff, Bjerringbro",Socialdemokratiet,0
+Viborg,6,Stoholm,"A_Mette_Nielsen,_Klejtrup","Mette Nielsen, Klejtrup",Socialdemokratiet,3
+Viborg,6,Stoholm,"A_Michael_Philip_Poulsen,Bjerringbro","Michael Philip Poulsen,Bjerringbro",Socialdemokratiet,3
+Viborg,6,Stoholm,"A_Niels_Dueholm,_Bjerringbro","Niels Dueholm, Bjerringbro",Socialdemokratiet,1
+Viborg,6,Stoholm,"A_Steen_Nysom,_Viborg","Steen Nysom, Viborg",Socialdemokratiet,7
+Viborg,6,Stoholm,"A_Winnie_Nielsen,_Karup","Winnie Nielsen, Karup",Socialdemokratiet,2
+Viborg,6,Stoholm,B_Listestemmer,Listestemmer,Radikale Venstre,4
+Viborg,6,Stoholm,B_Lasse_Christiansen,Lasse Christiansen,Radikale Venstre,1
+Viborg,6,Stoholm,B_Michael_Flarup,Michael Flarup,Radikale Venstre,0
+Viborg,6,Stoholm,B_Jan_Rønne,Jan Rønne,Radikale Venstre,0
+Viborg,6,Stoholm,B_Marianne_Tøttrup,Marianne Tøttrup,Radikale Venstre,8
+Viborg,6,Stoholm,B_Signe_Driefer,Signe Driefer,Radikale Venstre,3
+Viborg,6,Stoholm,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,54
+Viborg,6,Stoholm,C_Torsten_Nielsen,Torsten Nielsen,Det Konservative Folkeparti,469
+Viborg,6,Stoholm,C_Stine_Damborg,Stine Damborg,Det Konservative Folkeparti,18
+Viborg,6,Stoholm,C_Nikolai_Norup,Nikolai Norup,Det Konservative Folkeparti,4
+Viborg,6,Stoholm,C_Jakob_Valdemar_Ekberg,Jakob Valdemar Ekberg,Det Konservative Folkeparti,0
+Viborg,6,Stoholm,C_Peter_Juhl,Peter Juhl,Det Konservative Folkeparti,1
+Viborg,6,Stoholm,C_Simon_Højer,Simon Højer,Det Konservative Folkeparti,137
+Viborg,6,Stoholm,C_Claus_Nielsen,Claus Nielsen,Det Konservative Folkeparti,0
+Viborg,6,Stoholm,C_Steen_A._Stephansen,Steen A. Stephansen,Det Konservative Folkeparti,0
+Viborg,6,Stoholm,C_Lise_Bertelsen,Lise Bertelsen,Det Konservative Folkeparti,7
+Viborg,6,Stoholm,C_Asbjørn_Sennels,Asbjørn Sennels,Det Konservative Folkeparti,2
+Viborg,6,Stoholm,C_Kenny_Schødt,Kenny Schødt,Det Konservative Folkeparti,1
+Viborg,6,Stoholm,C_Kirsten_Holmgaard,Kirsten Holmgaard,Det Konservative Folkeparti,3
+Viborg,6,Stoholm,C_Steffen_Drejer,Steffen Drejer,Det Konservative Folkeparti,3
+Viborg,6,Stoholm,C_Sofie_Ringgaard_Schøning,Sofie Ringgaard Schøning,Det Konservative Folkeparti,9
+Viborg,6,Stoholm,C_Malena_Møller_Mortensen,Malena Møller Mortensen,Det Konservative Folkeparti,5
+Viborg,6,Stoholm,C_Trine_Dige,Trine Dige,Det Konservative Folkeparti,0
+Viborg,6,Stoholm,C_Peter_Ruby,Peter Ruby,Det Konservative Folkeparti,1
+Viborg,6,Stoholm,C_Christian_Kapper,Christian Kapper,Det Konservative Folkeparti,0
+Viborg,6,Stoholm,C_Lars_Bøche_Jensen,Lars Bøche Jensen,Det Konservative Folkeparti,0
+Viborg,6,Stoholm,C_Ulrik_Praastrup,Ulrik Praastrup,Det Konservative Folkeparti,0
+Viborg,6,Stoholm,C_Ida_Gottenborg_Jacobsen,Ida Gottenborg Jacobsen,Det Konservative Folkeparti,0
+Viborg,6,Stoholm,C_Nicklas_Verne_Jensen,Nicklas Verne Jensen,Det Konservative Folkeparti,0
+Viborg,6,Stoholm,C_Morten_Christensen,Morten Christensen,Det Konservative Folkeparti,1
+Viborg,6,Stoholm,C_Poul-Erik_Chortsen,Poul-Erik Chortsen,Det Konservative Folkeparti,0
+Viborg,6,Stoholm,C_Lotte_Frandsen,Lotte Frandsen,Det Konservative Folkeparti,1
+Viborg,6,Stoholm,C_Allan_Clifford_Christensen,Allan Clifford Christensen,Det Konservative Folkeparti,0
+Viborg,6,Stoholm,D_Listestemmer,Listestemmer,Nye Borgerlige,28
+Viborg,6,Stoholm,"D_Leo_Nørgaard,_Viborg","Leo Nørgaard, Viborg",Nye Borgerlige,5
+Viborg,6,Stoholm,"D_Thomas_Borup_Laursen,_Viborg","Thomas Borup Laursen, Viborg",Nye Borgerlige,1
+Viborg,6,Stoholm,"D_Jakob_Svendsen,Vorning","Jakob Svendsen,Vorning",Nye Borgerlige,1
+Viborg,6,Stoholm,"D_Mads_C._Prytz,_Rødkærsbro","Mads C. Prytz, Rødkærsbro",Nye Borgerlige,0
+Viborg,6,Stoholm,"D_Laust_Nørskov,_Hvam_St.","Laust Nørskov, Hvam St.",Nye Borgerlige,0
+Viborg,6,Stoholm,"D_Johan_Emil_Gjermandsen,_Viborg","Johan Emil Gjermandsen, Viborg",Nye Borgerlige,0
+Viborg,6,Stoholm,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,12
+Viborg,6,Stoholm,"F_Elo_Nielsen,_Skals","Elo Nielsen, Skals",SF - Socialistisk Folkeparti,4
+Viborg,6,Stoholm,"F_Mikael_Løvschall,_Kjeldbjerg","Mikael Løvschall, Kjeldbjerg",SF - Socialistisk Folkeparti,38
+Viborg,6,Stoholm,"F_Marianne_Gaardsdal,_Viborg","Marianne Gaardsdal, Viborg",SF - Socialistisk Folkeparti,8
+Viborg,6,Stoholm,"F_Mads_Georgi,_Viborg","Mads Georgi, Viborg",SF - Socialistisk Folkeparti,2
+Viborg,6,Stoholm,"F_Kirsten_Winther_Almind,Bjerringbro","Kirsten Winther Almind,Bjerringbro",SF - Socialistisk Folkeparti,0
+Viborg,6,Stoholm,"F_Kasper_Ivanhoe_Terkelsen,_Viborg","Kasper Ivanhoe Terkelsen, Viborg",SF - Socialistisk Folkeparti,4
+Viborg,6,Stoholm,"F_Martin_Mølholt,_Viborg","Martin Mølholt, Viborg",SF - Socialistisk Folkeparti,3
+Viborg,6,Stoholm,I_Listestemmer,Listestemmer,Liberal Alliance,5
+Viborg,6,Stoholm,I_Frederik_Gottenborg_Jacobsen,Frederik Gottenborg Jacobsen,Liberal Alliance,3
+Viborg,6,Stoholm,I_Lene_Foged,Lene Foged,Liberal Alliance,11
+Viborg,6,Stoholm,I_Bo_Wieck-Hansen,Bo Wieck-Hansen,Liberal Alliance,0
+Viborg,6,Stoholm,K_Listestemmer,Listestemmer,Kristendemokraterne,3
+Viborg,6,Stoholm,"K_Eva_Kornum,_Skelhøje","Eva Kornum, Skelhøje",Kristendemokraterne,0
+Viborg,6,Stoholm,"K_Ghirmai_Berhane,_Rødkærsbro","Ghirmai Berhane, Rødkærsbro",Kristendemokraterne,0
+Viborg,6,Stoholm,"K_Hanne_Ellemann_Rytter,_Finderup","Hanne Ellemann Rytter, Finderup",Kristendemokraterne,1
+Viborg,6,Stoholm,"K_Ingrid_Bak,_Bjerringbro","Ingrid Bak, Bjerringbro",Kristendemokraterne,2
+Viborg,6,Stoholm,"K_Knud_Gaarn-Larsen,_Frederiks","Knud Gaarn-Larsen, Frederiks",Kristendemokraterne,1
+Viborg,6,Stoholm,L_Listestemmer,Listestemmer,Lokallisten - Viborg,0
+Viborg,6,Stoholm,L_Johnny_F._Andresen,Johnny F. Andresen,Lokallisten - Viborg,0
+Viborg,6,Stoholm,O_Listestemmer,Listestemmer,Dansk Folkeparti,15
+Viborg,6,Stoholm,"O_Lone_Langballe,_Tjele","Lone Langballe, Tjele",Dansk Folkeparti,13
+Viborg,6,Stoholm,"O_Kirsten_Hørdum,_Tjele","Kirsten Hørdum, Tjele",Dansk Folkeparti,0
+Viborg,6,Stoholm,"O_Morten_Thaarup,_Viborg","Morten Thaarup, Viborg",Dansk Folkeparti,1
+Viborg,6,Stoholm,"O_Anders_Risom,_Tjele","Anders Risom, Tjele",Dansk Folkeparti,5
+Viborg,6,Stoholm,"O_Kim_Poulsen,_Tjele","Kim Poulsen, Tjele",Dansk Folkeparti,1
+Viborg,6,Stoholm,"O_Jess_Mikkelsen,_Viborg","Jess Mikkelsen, Viborg",Dansk Folkeparti,0
+Viborg,6,Stoholm,T_Listestemmer,Listestemmer,Hvad kan gå galt,0
+Viborg,6,Stoholm,T_Theis_Bach_Nielsen,Theis Bach Nielsen,Hvad kan gå galt,5
+Viborg,6,Stoholm,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",44
+Viborg,6,Stoholm,"V_Ulrik_Wilbek,_Viborg","Ulrik Wilbek, Viborg","Venstre, Danmarks Liberale Parti",166
+Viborg,6,Stoholm,"V_Frederik_Houmann_Thuesen,_Overlund","Frederik Houmann Thuesen, Overlund","Venstre, Danmarks Liberale Parti",1
+Viborg,6,Stoholm,"V_Jakob_Harritz,_Viborg","Jakob Harritz, Viborg","Venstre, Danmarks Liberale Parti",6
+Viborg,6,Stoholm,"V_Anders_Jensen,_Løgstrup","Anders Jensen, Løgstrup","Venstre, Danmarks Liberale Parti",3
+Viborg,6,Stoholm,"V_Lars_Mogensen,_Tjele","Lars Mogensen, Tjele","Venstre, Danmarks Liberale Parti",5
+Viborg,6,Stoholm,"V_Kim_Dongsgaard,_Rødkærsbro","Kim Dongsgaard, Rødkærsbro","Venstre, Danmarks Liberale Parti",0
+Viborg,6,Stoholm,"V_Kurt_Mosgaard,_Mønsted","Kurt Mosgaard, Mønsted","Venstre, Danmarks Liberale Parti",54
+Viborg,6,Stoholm,"V_Lone_Kastberg,_Møldrup","Lone Kastberg, Møldrup","Venstre, Danmarks Liberale Parti",4
+Viborg,6,Stoholm,"V_Kurt_Johansen,_Ulbjerg","Kurt Johansen, Ulbjerg","Venstre, Danmarks Liberale Parti",1
+Viborg,6,Stoholm,"V_Pia_Viller_Arendt,_Frederiks","Pia Viller Arendt, Frederiks","Venstre, Danmarks Liberale Parti",0
+Viborg,6,Stoholm,"V_Claus_Clausen,_Vroue","Claus Clausen, Vroue","Venstre, Danmarks Liberale Parti",46
+Viborg,6,Stoholm,"V_Åse_Kubel_Høeg,_Viborg","Åse Kubel Høeg, Viborg","Venstre, Danmarks Liberale Parti",2
+Viborg,6,Stoholm,"V_Majbrit_Nørgaard,_Ravnstrup","Majbrit Nørgaard, Ravnstrup","Venstre, Danmarks Liberale Parti",3
+Viborg,6,Stoholm,"V_Johannes_F._Vesterby,_Løvel","Johannes F. Vesterby, Løvel","Venstre, Danmarks Liberale Parti",0
+Viborg,6,Stoholm,"V_Niels_Jørgen_Ottesen,_Bjerringbro","Niels Jørgen Ottesen, Bjerringbro","Venstre, Danmarks Liberale Parti",0
+Viborg,6,Stoholm,"V_Sinna_Maagaard,_Sparkær","Sinna Maagaard, Sparkær","Venstre, Danmarks Liberale Parti",121
+Viborg,6,Stoholm,"V_Michael_Nøhr,_Klejtrup","Michael Nøhr, Klejtrup","Venstre, Danmarks Liberale Parti",1
+Viborg,6,Stoholm,"V_Ole_Kristensen,_Karup","Ole Kristensen, Karup","Venstre, Danmarks Liberale Parti",0
+Viborg,6,Stoholm,"V_Britta_Jarly,_Viborg","Britta Jarly, Viborg","Venstre, Danmarks Liberale Parti",1
+Viborg,6,Stoholm,"V_Katrine_Fusager_Rohde,_Viborg","Katrine Fusager Rohde, Viborg","Venstre, Danmarks Liberale Parti",5
+Viborg,6,Stoholm,"V_Esben_Tøttrup,_Bjerringbro","Esben Tøttrup, Bjerringbro","Venstre, Danmarks Liberale Parti",3
+Viborg,6,Stoholm,Æ_Listestemmer,Listestemmer,Frihedslisten,1
+Viborg,6,Stoholm,"Æ_Jesper_Nørgaard,_Viborg","Jesper Nørgaard, Viborg",Frihedslisten,0
+Viborg,6,Stoholm,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,14
+Viborg,6,Stoholm,Ø_Aksel_Rosager_Johansen,Aksel Rosager Johansen,Enhedslisten - De Rød-Grønne,9
+Viborg,6,Stoholm,Ø_Zahra_Mohamud_Ali,Zahra Mohamud Ali,Enhedslisten - De Rød-Grønne,6
+Viborg,6,Stoholm,Ø_Frederik_Berg_Overgaard,Frederik Berg Overgaard,Enhedslisten - De Rød-Grønne,1
+Viborg,6,Stoholm,Ø_Alfred_Berg_Overgaard,Alfred Berg Overgaard,Enhedslisten - De Rød-Grønne,3
+Viborg,6,Stoholm,Ø_Liz_Dueholm,Liz Dueholm,Enhedslisten - De Rød-Grønne,1
+Viborg,6,Stoholm,Ø_Pernille_Diemar,Pernille Diemar,Enhedslisten - De Rød-Grønne,2
+Viborg,6,Stoholm,Å_Listestemmer,Listestemmer,Alternativet,2
+Viborg,6,Stoholm,"Å_Stine_Isaksen,_Viborg","Stine Isaksen, Viborg",Alternativet,5
+Viborg,6,Stoholm,"Å_Didde_Krabbe_Johannesen,Viborg","Didde Krabbe Johannesen,Viborg",Alternativet,0
+Viborg,6,Stoholm,"Å_Jeppe_Ottow,_Viborg","Jeppe Ottow, Viborg",Alternativet,0
+Viborg,6,Stoholm,"Å_Kirsten_Hindbo,_Viborg","Kirsten Hindbo, Viborg",Alternativet,0
+Viborg,6,Stoholm,"Å_Signe_Sofie_Larsen,_Viborg","Signe Sofie Larsen, Viborg",Alternativet,1
+Viborg,6,Stoholm,"Å_Jens_Boll,_Bjerringbro","Jens Boll, Bjerringbro",Alternativet,1
+Viborg,6,Stoholm,"Å_Børge_H._Jensen,_Viborg","Børge H. Jensen, Viborg",Alternativet,0
+Viborg,6,Stoholm,"Å_Peter_Owen,_Bjerringbro","Peter Owen, Bjerringbro",Alternativet,0
+Viborg,6,Stoholm,"Å_Ole_Utoft,_Hjarbæk","Ole Utoft, Hjarbæk",Alternativet,0
+Viborg,6,Stoholm,"Å_Hayley_Newman,_Viborg","Hayley Newman, Viborg",Alternativet,0
+Viborg,7,Vridsted,A_Listestemmer,Listestemmer,Socialdemokratiet,38
+Viborg,7,Vridsted,"A_Mads_Panny,_Viborg","Mads Panny, Viborg",Socialdemokratiet,19
+Viborg,7,Vridsted,"A_Anders_Bertel,_Frederiks","Anders Bertel, Frederiks",Socialdemokratiet,7
+Viborg,7,Vridsted,"A_Bent_Mikkelsen,_Viborg","Bent Mikkelsen, Viborg",Socialdemokratiet,2
+Viborg,7,Vridsted,"A_Birgith_B._Langballe,_Stoholm","Birgith B. Langballe, Stoholm",Socialdemokratiet,43
+Viborg,7,Vridsted,"A_Birthe_Harritz,_Ørum","Birthe Harritz, Ørum",Socialdemokratiet,0
+Viborg,7,Vridsted,"A_Bjarne_Andersen,_Fly","Bjarne Andersen, Fly",Socialdemokratiet,45
+Viborg,7,Vridsted,"A_Eva_Pinnerup,_Viborg","Eva Pinnerup, Viborg",Socialdemokratiet,6
+Viborg,7,Vridsted,"A_Lars_Greve,_Viborg","Lars Greve, Viborg",Socialdemokratiet,0
+Viborg,7,Vridsted,"A_Marianne_Aaris_Andersen,_Viborg","Marianne Aaris Andersen, Viborg",Socialdemokratiet,5
+Viborg,7,Vridsted,"A_Martin_Sanderhoff,_Bjerringbro","Martin Sanderhoff, Bjerringbro",Socialdemokratiet,0
+Viborg,7,Vridsted,"A_Mette_Nielsen,_Klejtrup","Mette Nielsen, Klejtrup",Socialdemokratiet,3
+Viborg,7,Vridsted,"A_Michael_Philip_Poulsen,Bjerringbro","Michael Philip Poulsen,Bjerringbro",Socialdemokratiet,4
+Viborg,7,Vridsted,"A_Niels_Dueholm,_Bjerringbro","Niels Dueholm, Bjerringbro",Socialdemokratiet,1
+Viborg,7,Vridsted,"A_Steen_Nysom,_Viborg","Steen Nysom, Viborg",Socialdemokratiet,1
+Viborg,7,Vridsted,"A_Winnie_Nielsen,_Karup","Winnie Nielsen, Karup",Socialdemokratiet,4
+Viborg,7,Vridsted,B_Listestemmer,Listestemmer,Radikale Venstre,4
+Viborg,7,Vridsted,B_Lasse_Christiansen,Lasse Christiansen,Radikale Venstre,4
+Viborg,7,Vridsted,B_Michael_Flarup,Michael Flarup,Radikale Venstre,0
+Viborg,7,Vridsted,B_Jan_Rønne,Jan Rønne,Radikale Venstre,0
+Viborg,7,Vridsted,B_Marianne_Tøttrup,Marianne Tøttrup,Radikale Venstre,1
+Viborg,7,Vridsted,B_Signe_Driefer,Signe Driefer,Radikale Venstre,1
+Viborg,7,Vridsted,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,25
+Viborg,7,Vridsted,C_Torsten_Nielsen,Torsten Nielsen,Det Konservative Folkeparti,211
+Viborg,7,Vridsted,C_Stine_Damborg,Stine Damborg,Det Konservative Folkeparti,14
+Viborg,7,Vridsted,C_Nikolai_Norup,Nikolai Norup,Det Konservative Folkeparti,1
+Viborg,7,Vridsted,C_Jakob_Valdemar_Ekberg,Jakob Valdemar Ekberg,Det Konservative Folkeparti,1
+Viborg,7,Vridsted,C_Peter_Juhl,Peter Juhl,Det Konservative Folkeparti,4
+Viborg,7,Vridsted,C_Simon_Højer,Simon Højer,Det Konservative Folkeparti,10
+Viborg,7,Vridsted,C_Claus_Nielsen,Claus Nielsen,Det Konservative Folkeparti,0
+Viborg,7,Vridsted,C_Steen_A._Stephansen,Steen A. Stephansen,Det Konservative Folkeparti,0
+Viborg,7,Vridsted,C_Lise_Bertelsen,Lise Bertelsen,Det Konservative Folkeparti,3
+Viborg,7,Vridsted,C_Asbjørn_Sennels,Asbjørn Sennels,Det Konservative Folkeparti,1
+Viborg,7,Vridsted,C_Kenny_Schødt,Kenny Schødt,Det Konservative Folkeparti,1
+Viborg,7,Vridsted,C_Kirsten_Holmgaard,Kirsten Holmgaard,Det Konservative Folkeparti,0
+Viborg,7,Vridsted,C_Steffen_Drejer,Steffen Drejer,Det Konservative Folkeparti,0
+Viborg,7,Vridsted,C_Sofie_Ringgaard_Schøning,Sofie Ringgaard Schøning,Det Konservative Folkeparti,6
+Viborg,7,Vridsted,C_Malena_Møller_Mortensen,Malena Møller Mortensen,Det Konservative Folkeparti,0
+Viborg,7,Vridsted,C_Trine_Dige,Trine Dige,Det Konservative Folkeparti,0
+Viborg,7,Vridsted,C_Peter_Ruby,Peter Ruby,Det Konservative Folkeparti,1
+Viborg,7,Vridsted,C_Christian_Kapper,Christian Kapper,Det Konservative Folkeparti,2
+Viborg,7,Vridsted,C_Lars_Bøche_Jensen,Lars Bøche Jensen,Det Konservative Folkeparti,2
+Viborg,7,Vridsted,C_Ulrik_Praastrup,Ulrik Praastrup,Det Konservative Folkeparti,1
+Viborg,7,Vridsted,C_Ida_Gottenborg_Jacobsen,Ida Gottenborg Jacobsen,Det Konservative Folkeparti,1
+Viborg,7,Vridsted,C_Nicklas_Verne_Jensen,Nicklas Verne Jensen,Det Konservative Folkeparti,0
+Viborg,7,Vridsted,C_Morten_Christensen,Morten Christensen,Det Konservative Folkeparti,1
+Viborg,7,Vridsted,C_Poul-Erik_Chortsen,Poul-Erik Chortsen,Det Konservative Folkeparti,0
+Viborg,7,Vridsted,C_Lotte_Frandsen,Lotte Frandsen,Det Konservative Folkeparti,1
+Viborg,7,Vridsted,C_Allan_Clifford_Christensen,Allan Clifford Christensen,Det Konservative Folkeparti,3
+Viborg,7,Vridsted,D_Listestemmer,Listestemmer,Nye Borgerlige,28
+Viborg,7,Vridsted,"D_Leo_Nørgaard,_Viborg","Leo Nørgaard, Viborg",Nye Borgerlige,6
+Viborg,7,Vridsted,"D_Thomas_Borup_Laursen,_Viborg","Thomas Borup Laursen, Viborg",Nye Borgerlige,6
+Viborg,7,Vridsted,"D_Jakob_Svendsen,Vorning","Jakob Svendsen,Vorning",Nye Borgerlige,8
+Viborg,7,Vridsted,"D_Mads_C._Prytz,_Rødkærsbro","Mads C. Prytz, Rødkærsbro",Nye Borgerlige,3
+Viborg,7,Vridsted,"D_Laust_Nørskov,_Hvam_St.","Laust Nørskov, Hvam St.",Nye Borgerlige,2
+Viborg,7,Vridsted,"D_Johan_Emil_Gjermandsen,_Viborg","Johan Emil Gjermandsen, Viborg",Nye Borgerlige,2
+Viborg,7,Vridsted,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,5
+Viborg,7,Vridsted,"F_Elo_Nielsen,_Skals","Elo Nielsen, Skals",SF - Socialistisk Folkeparti,1
+Viborg,7,Vridsted,"F_Mikael_Løvschall,_Kjeldbjerg","Mikael Løvschall, Kjeldbjerg",SF - Socialistisk Folkeparti,152
+Viborg,7,Vridsted,"F_Marianne_Gaardsdal,_Viborg","Marianne Gaardsdal, Viborg",SF - Socialistisk Folkeparti,1
+Viborg,7,Vridsted,"F_Mads_Georgi,_Viborg","Mads Georgi, Viborg",SF - Socialistisk Folkeparti,3
+Viborg,7,Vridsted,"F_Kirsten_Winther_Almind,Bjerringbro","Kirsten Winther Almind,Bjerringbro",SF - Socialistisk Folkeparti,0
+Viborg,7,Vridsted,"F_Kasper_Ivanhoe_Terkelsen,_Viborg","Kasper Ivanhoe Terkelsen, Viborg",SF - Socialistisk Folkeparti,5
+Viborg,7,Vridsted,"F_Martin_Mølholt,_Viborg","Martin Mølholt, Viborg",SF - Socialistisk Folkeparti,0
+Viborg,7,Vridsted,I_Listestemmer,Listestemmer,Liberal Alliance,0
+Viborg,7,Vridsted,I_Frederik_Gottenborg_Jacobsen,Frederik Gottenborg Jacobsen,Liberal Alliance,3
+Viborg,7,Vridsted,I_Lene_Foged,Lene Foged,Liberal Alliance,12
+Viborg,7,Vridsted,I_Bo_Wieck-Hansen,Bo Wieck-Hansen,Liberal Alliance,0
+Viborg,7,Vridsted,K_Listestemmer,Listestemmer,Kristendemokraterne,1
+Viborg,7,Vridsted,"K_Eva_Kornum,_Skelhøje","Eva Kornum, Skelhøje",Kristendemokraterne,1
+Viborg,7,Vridsted,"K_Ghirmai_Berhane,_Rødkærsbro","Ghirmai Berhane, Rødkærsbro",Kristendemokraterne,0
+Viborg,7,Vridsted,"K_Hanne_Ellemann_Rytter,_Finderup","Hanne Ellemann Rytter, Finderup",Kristendemokraterne,0
+Viborg,7,Vridsted,"K_Ingrid_Bak,_Bjerringbro","Ingrid Bak, Bjerringbro",Kristendemokraterne,0
+Viborg,7,Vridsted,"K_Knud_Gaarn-Larsen,_Frederiks","Knud Gaarn-Larsen, Frederiks",Kristendemokraterne,1
+Viborg,7,Vridsted,L_Listestemmer,Listestemmer,Lokallisten - Viborg,0
+Viborg,7,Vridsted,L_Johnny_F._Andresen,Johnny F. Andresen,Lokallisten - Viborg,1
+Viborg,7,Vridsted,O_Listestemmer,Listestemmer,Dansk Folkeparti,13
+Viborg,7,Vridsted,"O_Lone_Langballe,_Tjele","Lone Langballe, Tjele",Dansk Folkeparti,14
+Viborg,7,Vridsted,"O_Kirsten_Hørdum,_Tjele","Kirsten Hørdum, Tjele",Dansk Folkeparti,0
+Viborg,7,Vridsted,"O_Morten_Thaarup,_Viborg","Morten Thaarup, Viborg",Dansk Folkeparti,6
+Viborg,7,Vridsted,"O_Anders_Risom,_Tjele","Anders Risom, Tjele",Dansk Folkeparti,4
+Viborg,7,Vridsted,"O_Kim_Poulsen,_Tjele","Kim Poulsen, Tjele",Dansk Folkeparti,0
+Viborg,7,Vridsted,"O_Jess_Mikkelsen,_Viborg","Jess Mikkelsen, Viborg",Dansk Folkeparti,1
+Viborg,7,Vridsted,T_Listestemmer,Listestemmer,Hvad kan gå galt,0
+Viborg,7,Vridsted,T_Theis_Bach_Nielsen,Theis Bach Nielsen,Hvad kan gå galt,0
+Viborg,7,Vridsted,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",33
+Viborg,7,Vridsted,"V_Ulrik_Wilbek,_Viborg","Ulrik Wilbek, Viborg","Venstre, Danmarks Liberale Parti",97
+Viborg,7,Vridsted,"V_Frederik_Houmann_Thuesen,_Overlund","Frederik Houmann Thuesen, Overlund","Venstre, Danmarks Liberale Parti",2
+Viborg,7,Vridsted,"V_Jakob_Harritz,_Viborg","Jakob Harritz, Viborg","Venstre, Danmarks Liberale Parti",1
+Viborg,7,Vridsted,"V_Anders_Jensen,_Løgstrup","Anders Jensen, Løgstrup","Venstre, Danmarks Liberale Parti",3
+Viborg,7,Vridsted,"V_Lars_Mogensen,_Tjele","Lars Mogensen, Tjele","Venstre, Danmarks Liberale Parti",7
+Viborg,7,Vridsted,"V_Kim_Dongsgaard,_Rødkærsbro","Kim Dongsgaard, Rødkærsbro","Venstre, Danmarks Liberale Parti",0
+Viborg,7,Vridsted,"V_Kurt_Mosgaard,_Mønsted","Kurt Mosgaard, Mønsted","Venstre, Danmarks Liberale Parti",30
+Viborg,7,Vridsted,"V_Lone_Kastberg,_Møldrup","Lone Kastberg, Møldrup","Venstre, Danmarks Liberale Parti",1
+Viborg,7,Vridsted,"V_Kurt_Johansen,_Ulbjerg","Kurt Johansen, Ulbjerg","Venstre, Danmarks Liberale Parti",0
+Viborg,7,Vridsted,"V_Pia_Viller_Arendt,_Frederiks","Pia Viller Arendt, Frederiks","Venstre, Danmarks Liberale Parti",1
+Viborg,7,Vridsted,"V_Claus_Clausen,_Vroue","Claus Clausen, Vroue","Venstre, Danmarks Liberale Parti",243
+Viborg,7,Vridsted,"V_Åse_Kubel_Høeg,_Viborg","Åse Kubel Høeg, Viborg","Venstre, Danmarks Liberale Parti",1
+Viborg,7,Vridsted,"V_Majbrit_Nørgaard,_Ravnstrup","Majbrit Nørgaard, Ravnstrup","Venstre, Danmarks Liberale Parti",3
+Viborg,7,Vridsted,"V_Johannes_F._Vesterby,_Løvel","Johannes F. Vesterby, Løvel","Venstre, Danmarks Liberale Parti",1
+Viborg,7,Vridsted,"V_Niels_Jørgen_Ottesen,_Bjerringbro","Niels Jørgen Ottesen, Bjerringbro","Venstre, Danmarks Liberale Parti",0
+Viborg,7,Vridsted,"V_Sinna_Maagaard,_Sparkær","Sinna Maagaard, Sparkær","Venstre, Danmarks Liberale Parti",25
+Viborg,7,Vridsted,"V_Michael_Nøhr,_Klejtrup","Michael Nøhr, Klejtrup","Venstre, Danmarks Liberale Parti",0
+Viborg,7,Vridsted,"V_Ole_Kristensen,_Karup","Ole Kristensen, Karup","Venstre, Danmarks Liberale Parti",2
+Viborg,7,Vridsted,"V_Britta_Jarly,_Viborg","Britta Jarly, Viborg","Venstre, Danmarks Liberale Parti",1
+Viborg,7,Vridsted,"V_Katrine_Fusager_Rohde,_Viborg","Katrine Fusager Rohde, Viborg","Venstre, Danmarks Liberale Parti",6
+Viborg,7,Vridsted,"V_Esben_Tøttrup,_Bjerringbro","Esben Tøttrup, Bjerringbro","Venstre, Danmarks Liberale Parti",0
+Viborg,7,Vridsted,Æ_Listestemmer,Listestemmer,Frihedslisten,1
+Viborg,7,Vridsted,"Æ_Jesper_Nørgaard,_Viborg","Jesper Nørgaard, Viborg",Frihedslisten,0
+Viborg,7,Vridsted,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,6
+Viborg,7,Vridsted,Ø_Aksel_Rosager_Johansen,Aksel Rosager Johansen,Enhedslisten - De Rød-Grønne,5
+Viborg,7,Vridsted,Ø_Zahra_Mohamud_Ali,Zahra Mohamud Ali,Enhedslisten - De Rød-Grønne,1
+Viborg,7,Vridsted,Ø_Frederik_Berg_Overgaard,Frederik Berg Overgaard,Enhedslisten - De Rød-Grønne,0
+Viborg,7,Vridsted,Ø_Alfred_Berg_Overgaard,Alfred Berg Overgaard,Enhedslisten - De Rød-Grønne,0
+Viborg,7,Vridsted,Ø_Liz_Dueholm,Liz Dueholm,Enhedslisten - De Rød-Grønne,4
+Viborg,7,Vridsted,Ø_Pernille_Diemar,Pernille Diemar,Enhedslisten - De Rød-Grønne,0
+Viborg,7,Vridsted,Å_Listestemmer,Listestemmer,Alternativet,1
+Viborg,7,Vridsted,"Å_Stine_Isaksen,_Viborg","Stine Isaksen, Viborg",Alternativet,2
+Viborg,7,Vridsted,"Å_Didde_Krabbe_Johannesen,Viborg","Didde Krabbe Johannesen,Viborg",Alternativet,1
+Viborg,7,Vridsted,"Å_Jeppe_Ottow,_Viborg","Jeppe Ottow, Viborg",Alternativet,1
+Viborg,7,Vridsted,"Å_Kirsten_Hindbo,_Viborg","Kirsten Hindbo, Viborg",Alternativet,0
+Viborg,7,Vridsted,"Å_Signe_Sofie_Larsen,_Viborg","Signe Sofie Larsen, Viborg",Alternativet,0
+Viborg,7,Vridsted,"Å_Jens_Boll,_Bjerringbro","Jens Boll, Bjerringbro",Alternativet,0
+Viborg,7,Vridsted,"Å_Børge_H._Jensen,_Viborg","Børge H. Jensen, Viborg",Alternativet,0
+Viborg,7,Vridsted,"Å_Peter_Owen,_Bjerringbro","Peter Owen, Bjerringbro",Alternativet,0
+Viborg,7,Vridsted,"Å_Ole_Utoft,_Hjarbæk","Ole Utoft, Hjarbæk",Alternativet,0
+Viborg,7,Vridsted,"Å_Hayley_Newman,_Viborg","Hayley Newman, Viborg",Alternativet,0
+Viborg,8,Viborg,A_Listestemmer,Listestemmer,Socialdemokratiet,876
+Viborg,8,Viborg,"A_Mads_Panny,_Viborg","Mads Panny, Viborg",Socialdemokratiet,1666
+Viborg,8,Viborg,"A_Anders_Bertel,_Frederiks","Anders Bertel, Frederiks",Socialdemokratiet,70
+Viborg,8,Viborg,"A_Bent_Mikkelsen,_Viborg","Bent Mikkelsen, Viborg",Socialdemokratiet,69
+Viborg,8,Viborg,"A_Birgith_B._Langballe,_Stoholm","Birgith B. Langballe, Stoholm",Socialdemokratiet,41
+Viborg,8,Viborg,"A_Birthe_Harritz,_Ørum","Birthe Harritz, Ørum",Socialdemokratiet,39
+Viborg,8,Viborg,"A_Bjarne_Andersen,_Fly","Bjarne Andersen, Fly",Socialdemokratiet,4
+Viborg,8,Viborg,"A_Eva_Pinnerup,_Viborg","Eva Pinnerup, Viborg",Socialdemokratiet,446
+Viborg,8,Viborg,"A_Lars_Greve,_Viborg","Lars Greve, Viborg",Socialdemokratiet,162
+Viborg,8,Viborg,"A_Marianne_Aaris_Andersen,_Viborg","Marianne Aaris Andersen, Viborg",Socialdemokratiet,153
+Viborg,8,Viborg,"A_Martin_Sanderhoff,_Bjerringbro","Martin Sanderhoff, Bjerringbro",Socialdemokratiet,9
+Viborg,8,Viborg,"A_Mette_Nielsen,_Klejtrup","Mette Nielsen, Klejtrup",Socialdemokratiet,167
+Viborg,8,Viborg,"A_Michael_Philip_Poulsen,Bjerringbro","Michael Philip Poulsen,Bjerringbro",Socialdemokratiet,39
+Viborg,8,Viborg,"A_Niels_Dueholm,_Bjerringbro","Niels Dueholm, Bjerringbro",Socialdemokratiet,54
+Viborg,8,Viborg,"A_Steen_Nysom,_Viborg","Steen Nysom, Viborg",Socialdemokratiet,92
+Viborg,8,Viborg,"A_Winnie_Nielsen,_Karup","Winnie Nielsen, Karup",Socialdemokratiet,7
+Viborg,8,Viborg,B_Listestemmer,Listestemmer,Radikale Venstre,114
+Viborg,8,Viborg,B_Lasse_Christiansen,Lasse Christiansen,Radikale Venstre,72
+Viborg,8,Viborg,B_Michael_Flarup,Michael Flarup,Radikale Venstre,42
+Viborg,8,Viborg,B_Jan_Rønne,Jan Rønne,Radikale Venstre,25
+Viborg,8,Viborg,B_Marianne_Tøttrup,Marianne Tøttrup,Radikale Venstre,35
+Viborg,8,Viborg,B_Signe_Driefer,Signe Driefer,Radikale Venstre,34
+Viborg,8,Viborg,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,515
+Viborg,8,Viborg,C_Torsten_Nielsen,Torsten Nielsen,Det Konservative Folkeparti,1027
+Viborg,8,Viborg,C_Stine_Damborg,Stine Damborg,Det Konservative Folkeparti,382
+Viborg,8,Viborg,C_Nikolai_Norup,Nikolai Norup,Det Konservative Folkeparti,152
+Viborg,8,Viborg,C_Jakob_Valdemar_Ekberg,Jakob Valdemar Ekberg,Det Konservative Folkeparti,14
+Viborg,8,Viborg,C_Peter_Juhl,Peter Juhl,Det Konservative Folkeparti,72
+Viborg,8,Viborg,C_Simon_Højer,Simon Højer,Det Konservative Folkeparti,32
+Viborg,8,Viborg,C_Claus_Nielsen,Claus Nielsen,Det Konservative Folkeparti,97
+Viborg,8,Viborg,C_Steen_A._Stephansen,Steen A. Stephansen,Det Konservative Folkeparti,6
+Viborg,8,Viborg,C_Lise_Bertelsen,Lise Bertelsen,Det Konservative Folkeparti,211
+Viborg,8,Viborg,C_Asbjørn_Sennels,Asbjørn Sennels,Det Konservative Folkeparti,146
+Viborg,8,Viborg,C_Kenny_Schødt,Kenny Schødt,Det Konservative Folkeparti,12
+Viborg,8,Viborg,C_Kirsten_Holmgaard,Kirsten Holmgaard,Det Konservative Folkeparti,114
+Viborg,8,Viborg,C_Steffen_Drejer,Steffen Drejer,Det Konservative Folkeparti,18
+Viborg,8,Viborg,C_Sofie_Ringgaard_Schøning,Sofie Ringgaard Schøning,Det Konservative Folkeparti,119
+Viborg,8,Viborg,C_Malena_Møller_Mortensen,Malena Møller Mortensen,Det Konservative Folkeparti,87
+Viborg,8,Viborg,C_Trine_Dige,Trine Dige,Det Konservative Folkeparti,26
+Viborg,8,Viborg,C_Peter_Ruby,Peter Ruby,Det Konservative Folkeparti,12
+Viborg,8,Viborg,C_Christian_Kapper,Christian Kapper,Det Konservative Folkeparti,31
+Viborg,8,Viborg,C_Lars_Bøche_Jensen,Lars Bøche Jensen,Det Konservative Folkeparti,7
+Viborg,8,Viborg,C_Ulrik_Praastrup,Ulrik Praastrup,Det Konservative Folkeparti,16
+Viborg,8,Viborg,C_Ida_Gottenborg_Jacobsen,Ida Gottenborg Jacobsen,Det Konservative Folkeparti,9
+Viborg,8,Viborg,C_Nicklas_Verne_Jensen,Nicklas Verne Jensen,Det Konservative Folkeparti,1
+Viborg,8,Viborg,C_Morten_Christensen,Morten Christensen,Det Konservative Folkeparti,3
+Viborg,8,Viborg,C_Poul-Erik_Chortsen,Poul-Erik Chortsen,Det Konservative Folkeparti,5
+Viborg,8,Viborg,C_Lotte_Frandsen,Lotte Frandsen,Det Konservative Folkeparti,28
+Viborg,8,Viborg,C_Allan_Clifford_Christensen,Allan Clifford Christensen,Det Konservative Folkeparti,8
+Viborg,8,Viborg,D_Listestemmer,Listestemmer,Nye Borgerlige,122
+Viborg,8,Viborg,"D_Leo_Nørgaard,_Viborg","Leo Nørgaard, Viborg",Nye Borgerlige,47
+Viborg,8,Viborg,"D_Thomas_Borup_Laursen,_Viborg","Thomas Borup Laursen, Viborg",Nye Borgerlige,32
+Viborg,8,Viborg,"D_Jakob_Svendsen,Vorning","Jakob Svendsen,Vorning",Nye Borgerlige,15
+Viborg,8,Viborg,"D_Mads_C._Prytz,_Rødkærsbro","Mads C. Prytz, Rødkærsbro",Nye Borgerlige,27
+Viborg,8,Viborg,"D_Laust_Nørskov,_Hvam_St.","Laust Nørskov, Hvam St.",Nye Borgerlige,7
+Viborg,8,Viborg,"D_Johan_Emil_Gjermandsen,_Viborg","Johan Emil Gjermandsen, Viborg",Nye Borgerlige,8
+Viborg,8,Viborg,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,224
+Viborg,8,Viborg,"F_Elo_Nielsen,_Skals","Elo Nielsen, Skals",SF - Socialistisk Folkeparti,117
+Viborg,8,Viborg,"F_Mikael_Løvschall,_Kjeldbjerg","Mikael Løvschall, Kjeldbjerg",SF - Socialistisk Folkeparti,25
+Viborg,8,Viborg,"F_Marianne_Gaardsdal,_Viborg","Marianne Gaardsdal, Viborg",SF - Socialistisk Folkeparti,401
+Viborg,8,Viborg,"F_Mads_Georgi,_Viborg","Mads Georgi, Viborg",SF - Socialistisk Folkeparti,77
+Viborg,8,Viborg,"F_Kirsten_Winther_Almind,Bjerringbro","Kirsten Winther Almind,Bjerringbro",SF - Socialistisk Folkeparti,12
+Viborg,8,Viborg,"F_Kasper_Ivanhoe_Terkelsen,_Viborg","Kasper Ivanhoe Terkelsen, Viborg",SF - Socialistisk Folkeparti,39
+Viborg,8,Viborg,"F_Martin_Mølholt,_Viborg","Martin Mølholt, Viborg",SF - Socialistisk Folkeparti,30
+Viborg,8,Viborg,I_Listestemmer,Listestemmer,Liberal Alliance,55
+Viborg,8,Viborg,I_Frederik_Gottenborg_Jacobsen,Frederik Gottenborg Jacobsen,Liberal Alliance,62
+Viborg,8,Viborg,I_Lene_Foged,Lene Foged,Liberal Alliance,40
+Viborg,8,Viborg,I_Bo_Wieck-Hansen,Bo Wieck-Hansen,Liberal Alliance,2
+Viborg,8,Viborg,K_Listestemmer,Listestemmer,Kristendemokraterne,30
+Viborg,8,Viborg,"K_Eva_Kornum,_Skelhøje","Eva Kornum, Skelhøje",Kristendemokraterne,6
+Viborg,8,Viborg,"K_Ghirmai_Berhane,_Rødkærsbro","Ghirmai Berhane, Rødkærsbro",Kristendemokraterne,12
+Viborg,8,Viborg,"K_Hanne_Ellemann_Rytter,_Finderup","Hanne Ellemann Rytter, Finderup",Kristendemokraterne,5
+Viborg,8,Viborg,"K_Ingrid_Bak,_Bjerringbro","Ingrid Bak, Bjerringbro",Kristendemokraterne,7
+Viborg,8,Viborg,"K_Knud_Gaarn-Larsen,_Frederiks","Knud Gaarn-Larsen, Frederiks",Kristendemokraterne,14
+Viborg,8,Viborg,L_Listestemmer,Listestemmer,Lokallisten - Viborg,3
+Viborg,8,Viborg,L_Johnny_F._Andresen,Johnny F. Andresen,Lokallisten - Viborg,7
+Viborg,8,Viborg,O_Listestemmer,Listestemmer,Dansk Folkeparti,75
+Viborg,8,Viborg,"O_Lone_Langballe,_Tjele","Lone Langballe, Tjele",Dansk Folkeparti,146
+Viborg,8,Viborg,"O_Kirsten_Hørdum,_Tjele","Kirsten Hørdum, Tjele",Dansk Folkeparti,4
+Viborg,8,Viborg,"O_Morten_Thaarup,_Viborg","Morten Thaarup, Viborg",Dansk Folkeparti,53
+Viborg,8,Viborg,"O_Anders_Risom,_Tjele","Anders Risom, Tjele",Dansk Folkeparti,4
+Viborg,8,Viborg,"O_Kim_Poulsen,_Tjele","Kim Poulsen, Tjele",Dansk Folkeparti,10
+Viborg,8,Viborg,"O_Jess_Mikkelsen,_Viborg","Jess Mikkelsen, Viborg",Dansk Folkeparti,28
+Viborg,8,Viborg,T_Listestemmer,Listestemmer,Hvad kan gå galt,47
+Viborg,8,Viborg,T_Theis_Bach_Nielsen,Theis Bach Nielsen,Hvad kan gå galt,263
+Viborg,8,Viborg,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",369
+Viborg,8,Viborg,"V_Ulrik_Wilbek,_Viborg","Ulrik Wilbek, Viborg","Venstre, Danmarks Liberale Parti",3265
+Viborg,8,Viborg,"V_Frederik_Houmann_Thuesen,_Overlund","Frederik Houmann Thuesen, Overlund","Venstre, Danmarks Liberale Parti",156
+Viborg,8,Viborg,"V_Jakob_Harritz,_Viborg","Jakob Harritz, Viborg","Venstre, Danmarks Liberale Parti",101
+Viborg,8,Viborg,"V_Anders_Jensen,_Løgstrup","Anders Jensen, Løgstrup","Venstre, Danmarks Liberale Parti",24
+Viborg,8,Viborg,"V_Lars_Mogensen,_Tjele","Lars Mogensen, Tjele","Venstre, Danmarks Liberale Parti",31
+Viborg,8,Viborg,"V_Kim_Dongsgaard,_Rødkærsbro","Kim Dongsgaard, Rødkærsbro","Venstre, Danmarks Liberale Parti",25
+Viborg,8,Viborg,"V_Kurt_Mosgaard,_Mønsted","Kurt Mosgaard, Mønsted","Venstre, Danmarks Liberale Parti",36
+Viborg,8,Viborg,"V_Lone_Kastberg,_Møldrup","Lone Kastberg, Møldrup","Venstre, Danmarks Liberale Parti",21
+Viborg,8,Viborg,"V_Kurt_Johansen,_Ulbjerg","Kurt Johansen, Ulbjerg","Venstre, Danmarks Liberale Parti",19
+Viborg,8,Viborg,"V_Pia_Viller_Arendt,_Frederiks","Pia Viller Arendt, Frederiks","Venstre, Danmarks Liberale Parti",32
+Viborg,8,Viborg,"V_Claus_Clausen,_Vroue","Claus Clausen, Vroue","Venstre, Danmarks Liberale Parti",12
+Viborg,8,Viborg,"V_Åse_Kubel_Høeg,_Viborg","Åse Kubel Høeg, Viborg","Venstre, Danmarks Liberale Parti",125
+Viborg,8,Viborg,"V_Majbrit_Nørgaard,_Ravnstrup","Majbrit Nørgaard, Ravnstrup","Venstre, Danmarks Liberale Parti",170
+Viborg,8,Viborg,"V_Johannes_F._Vesterby,_Løvel","Johannes F. Vesterby, Løvel","Venstre, Danmarks Liberale Parti",53
+Viborg,8,Viborg,"V_Niels_Jørgen_Ottesen,_Bjerringbro","Niels Jørgen Ottesen, Bjerringbro","Venstre, Danmarks Liberale Parti",3
+Viborg,8,Viborg,"V_Sinna_Maagaard,_Sparkær","Sinna Maagaard, Sparkær","Venstre, Danmarks Liberale Parti",12
+Viborg,8,Viborg,"V_Michael_Nøhr,_Klejtrup","Michael Nøhr, Klejtrup","Venstre, Danmarks Liberale Parti",12
+Viborg,8,Viborg,"V_Ole_Kristensen,_Karup","Ole Kristensen, Karup","Venstre, Danmarks Liberale Parti",16
+Viborg,8,Viborg,"V_Britta_Jarly,_Viborg","Britta Jarly, Viborg","Venstre, Danmarks Liberale Parti",23
+Viborg,8,Viborg,"V_Katrine_Fusager_Rohde,_Viborg","Katrine Fusager Rohde, Viborg","Venstre, Danmarks Liberale Parti",426
+Viborg,8,Viborg,"V_Esben_Tøttrup,_Bjerringbro","Esben Tøttrup, Bjerringbro","Venstre, Danmarks Liberale Parti",10
+Viborg,8,Viborg,Æ_Listestemmer,Listestemmer,Frihedslisten,14
+Viborg,8,Viborg,"Æ_Jesper_Nørgaard,_Viborg","Jesper Nørgaard, Viborg",Frihedslisten,70
+Viborg,8,Viborg,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,252
+Viborg,8,Viborg,Ø_Aksel_Rosager_Johansen,Aksel Rosager Johansen,Enhedslisten - De Rød-Grønne,161
+Viborg,8,Viborg,Ø_Zahra_Mohamud_Ali,Zahra Mohamud Ali,Enhedslisten - De Rød-Grønne,134
+Viborg,8,Viborg,Ø_Frederik_Berg_Overgaard,Frederik Berg Overgaard,Enhedslisten - De Rød-Grønne,13
+Viborg,8,Viborg,Ø_Alfred_Berg_Overgaard,Alfred Berg Overgaard,Enhedslisten - De Rød-Grønne,20
+Viborg,8,Viborg,Ø_Liz_Dueholm,Liz Dueholm,Enhedslisten - De Rød-Grønne,41
+Viborg,8,Viborg,Ø_Pernille_Diemar,Pernille Diemar,Enhedslisten - De Rød-Grønne,33
+Viborg,8,Viborg,Å_Listestemmer,Listestemmer,Alternativet,90
+Viborg,8,Viborg,"Å_Stine_Isaksen,_Viborg","Stine Isaksen, Viborg",Alternativet,224
+Viborg,8,Viborg,"Å_Didde_Krabbe_Johannesen,Viborg","Didde Krabbe Johannesen,Viborg",Alternativet,19
+Viborg,8,Viborg,"Å_Jeppe_Ottow,_Viborg","Jeppe Ottow, Viborg",Alternativet,13
+Viborg,8,Viborg,"Å_Kirsten_Hindbo,_Viborg","Kirsten Hindbo, Viborg",Alternativet,18
+Viborg,8,Viborg,"Å_Signe_Sofie_Larsen,_Viborg","Signe Sofie Larsen, Viborg",Alternativet,11
+Viborg,8,Viborg,"Å_Jens_Boll,_Bjerringbro","Jens Boll, Bjerringbro",Alternativet,5
+Viborg,8,Viborg,"Å_Børge_H._Jensen,_Viborg","Børge H. Jensen, Viborg",Alternativet,10
+Viborg,8,Viborg,"Å_Peter_Owen,_Bjerringbro","Peter Owen, Bjerringbro",Alternativet,1
+Viborg,8,Viborg,"Å_Ole_Utoft,_Hjarbæk","Ole Utoft, Hjarbæk",Alternativet,1
+Viborg,8,Viborg,"Å_Hayley_Newman,_Viborg","Hayley Newman, Viborg",Alternativet,12
+Viborg,9,Bjerringbro Nord,A_Listestemmer,Listestemmer,Socialdemokratiet,165
+Viborg,9,Bjerringbro Nord,"A_Mads_Panny,_Viborg","Mads Panny, Viborg",Socialdemokratiet,79
+Viborg,9,Bjerringbro Nord,"A_Anders_Bertel,_Frederiks","Anders Bertel, Frederiks",Socialdemokratiet,5
+Viborg,9,Bjerringbro Nord,"A_Bent_Mikkelsen,_Viborg","Bent Mikkelsen, Viborg",Socialdemokratiet,3
+Viborg,9,Bjerringbro Nord,"A_Birgith_B._Langballe,_Stoholm","Birgith B. Langballe, Stoholm",Socialdemokratiet,5
+Viborg,9,Bjerringbro Nord,"A_Birthe_Harritz,_Ørum","Birthe Harritz, Ørum",Socialdemokratiet,4
+Viborg,9,Bjerringbro Nord,"A_Bjarne_Andersen,_Fly","Bjarne Andersen, Fly",Socialdemokratiet,0
+Viborg,9,Bjerringbro Nord,"A_Eva_Pinnerup,_Viborg","Eva Pinnerup, Viborg",Socialdemokratiet,24
+Viborg,9,Bjerringbro Nord,"A_Lars_Greve,_Viborg","Lars Greve, Viborg",Socialdemokratiet,4
+Viborg,9,Bjerringbro Nord,"A_Marianne_Aaris_Andersen,_Viborg","Marianne Aaris Andersen, Viborg",Socialdemokratiet,10
+Viborg,9,Bjerringbro Nord,"A_Martin_Sanderhoff,_Bjerringbro","Martin Sanderhoff, Bjerringbro",Socialdemokratiet,235
+Viborg,9,Bjerringbro Nord,"A_Mette_Nielsen,_Klejtrup","Mette Nielsen, Klejtrup",Socialdemokratiet,13
+Viborg,9,Bjerringbro Nord,"A_Michael_Philip_Poulsen,Bjerringbro","Michael Philip Poulsen,Bjerringbro",Socialdemokratiet,163
+Viborg,9,Bjerringbro Nord,"A_Niels_Dueholm,_Bjerringbro","Niels Dueholm, Bjerringbro",Socialdemokratiet,219
+Viborg,9,Bjerringbro Nord,"A_Steen_Nysom,_Viborg","Steen Nysom, Viborg",Socialdemokratiet,4
+Viborg,9,Bjerringbro Nord,"A_Winnie_Nielsen,_Karup","Winnie Nielsen, Karup",Socialdemokratiet,3
+Viborg,9,Bjerringbro Nord,B_Listestemmer,Listestemmer,Radikale Venstre,15
+Viborg,9,Bjerringbro Nord,B_Lasse_Christiansen,Lasse Christiansen,Radikale Venstre,9
+Viborg,9,Bjerringbro Nord,B_Michael_Flarup,Michael Flarup,Radikale Venstre,4
+Viborg,9,Bjerringbro Nord,B_Jan_Rønne,Jan Rønne,Radikale Venstre,0
+Viborg,9,Bjerringbro Nord,B_Marianne_Tøttrup,Marianne Tøttrup,Radikale Venstre,10
+Viborg,9,Bjerringbro Nord,B_Signe_Driefer,Signe Driefer,Radikale Venstre,25
+Viborg,9,Bjerringbro Nord,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,147
+Viborg,9,Bjerringbro Nord,C_Torsten_Nielsen,Torsten Nielsen,Det Konservative Folkeparti,81
+Viborg,9,Bjerringbro Nord,C_Stine_Damborg,Stine Damborg,Det Konservative Folkeparti,38
+Viborg,9,Bjerringbro Nord,C_Nikolai_Norup,Nikolai Norup,Det Konservative Folkeparti,6
+Viborg,9,Bjerringbro Nord,C_Jakob_Valdemar_Ekberg,Jakob Valdemar Ekberg,Det Konservative Folkeparti,121
+Viborg,9,Bjerringbro Nord,C_Peter_Juhl,Peter Juhl,Det Konservative Folkeparti,4
+Viborg,9,Bjerringbro Nord,C_Simon_Højer,Simon Højer,Det Konservative Folkeparti,3
+Viborg,9,Bjerringbro Nord,C_Claus_Nielsen,Claus Nielsen,Det Konservative Folkeparti,2
+Viborg,9,Bjerringbro Nord,C_Steen_A._Stephansen,Steen A. Stephansen,Det Konservative Folkeparti,79
+Viborg,9,Bjerringbro Nord,C_Lise_Bertelsen,Lise Bertelsen,Det Konservative Folkeparti,6
+Viborg,9,Bjerringbro Nord,C_Asbjørn_Sennels,Asbjørn Sennels,Det Konservative Folkeparti,6
+Viborg,9,Bjerringbro Nord,C_Kenny_Schødt,Kenny Schødt,Det Konservative Folkeparti,1
+Viborg,9,Bjerringbro Nord,C_Kirsten_Holmgaard,Kirsten Holmgaard,Det Konservative Folkeparti,5
+Viborg,9,Bjerringbro Nord,C_Steffen_Drejer,Steffen Drejer,Det Konservative Folkeparti,693
+Viborg,9,Bjerringbro Nord,C_Sofie_Ringgaard_Schøning,Sofie Ringgaard Schøning,Det Konservative Folkeparti,13
+Viborg,9,Bjerringbro Nord,C_Malena_Møller_Mortensen,Malena Møller Mortensen,Det Konservative Folkeparti,60
+Viborg,9,Bjerringbro Nord,C_Trine_Dige,Trine Dige,Det Konservative Folkeparti,4
+Viborg,9,Bjerringbro Nord,C_Peter_Ruby,Peter Ruby,Det Konservative Folkeparti,2
+Viborg,9,Bjerringbro Nord,C_Christian_Kapper,Christian Kapper,Det Konservative Folkeparti,2
+Viborg,9,Bjerringbro Nord,C_Lars_Bøche_Jensen,Lars Bøche Jensen,Det Konservative Folkeparti,0
+Viborg,9,Bjerringbro Nord,C_Ulrik_Praastrup,Ulrik Praastrup,Det Konservative Folkeparti,2
+Viborg,9,Bjerringbro Nord,C_Ida_Gottenborg_Jacobsen,Ida Gottenborg Jacobsen,Det Konservative Folkeparti,4
+Viborg,9,Bjerringbro Nord,C_Nicklas_Verne_Jensen,Nicklas Verne Jensen,Det Konservative Folkeparti,5
+Viborg,9,Bjerringbro Nord,C_Morten_Christensen,Morten Christensen,Det Konservative Folkeparti,2
+Viborg,9,Bjerringbro Nord,C_Poul-Erik_Chortsen,Poul-Erik Chortsen,Det Konservative Folkeparti,0
+Viborg,9,Bjerringbro Nord,C_Lotte_Frandsen,Lotte Frandsen,Det Konservative Folkeparti,3
+Viborg,9,Bjerringbro Nord,C_Allan_Clifford_Christensen,Allan Clifford Christensen,Det Konservative Folkeparti,1
+Viborg,9,Bjerringbro Nord,D_Listestemmer,Listestemmer,Nye Borgerlige,48
+Viborg,9,Bjerringbro Nord,"D_Leo_Nørgaard,_Viborg","Leo Nørgaard, Viborg",Nye Borgerlige,8
+Viborg,9,Bjerringbro Nord,"D_Thomas_Borup_Laursen,_Viborg","Thomas Borup Laursen, Viborg",Nye Borgerlige,4
+Viborg,9,Bjerringbro Nord,"D_Jakob_Svendsen,Vorning","Jakob Svendsen,Vorning",Nye Borgerlige,17
+Viborg,9,Bjerringbro Nord,"D_Mads_C._Prytz,_Rødkærsbro","Mads C. Prytz, Rødkærsbro",Nye Borgerlige,17
+Viborg,9,Bjerringbro Nord,"D_Laust_Nørskov,_Hvam_St.","Laust Nørskov, Hvam St.",Nye Borgerlige,1
+Viborg,9,Bjerringbro Nord,"D_Johan_Emil_Gjermandsen,_Viborg","Johan Emil Gjermandsen, Viborg",Nye Borgerlige,1
+Viborg,9,Bjerringbro Nord,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,23
+Viborg,9,Bjerringbro Nord,"F_Elo_Nielsen,_Skals","Elo Nielsen, Skals",SF - Socialistisk Folkeparti,5
+Viborg,9,Bjerringbro Nord,"F_Mikael_Løvschall,_Kjeldbjerg","Mikael Løvschall, Kjeldbjerg",SF - Socialistisk Folkeparti,5
+Viborg,9,Bjerringbro Nord,"F_Marianne_Gaardsdal,_Viborg","Marianne Gaardsdal, Viborg",SF - Socialistisk Folkeparti,23
+Viborg,9,Bjerringbro Nord,"F_Mads_Georgi,_Viborg","Mads Georgi, Viborg",SF - Socialistisk Folkeparti,7
+Viborg,9,Bjerringbro Nord,"F_Kirsten_Winther_Almind,Bjerringbro","Kirsten Winther Almind,Bjerringbro",SF - Socialistisk Folkeparti,77
+Viborg,9,Bjerringbro Nord,"F_Kasper_Ivanhoe_Terkelsen,_Viborg","Kasper Ivanhoe Terkelsen, Viborg",SF - Socialistisk Folkeparti,3
+Viborg,9,Bjerringbro Nord,"F_Martin_Mølholt,_Viborg","Martin Mølholt, Viborg",SF - Socialistisk Folkeparti,1
+Viborg,9,Bjerringbro Nord,I_Listestemmer,Listestemmer,Liberal Alliance,8
+Viborg,9,Bjerringbro Nord,I_Frederik_Gottenborg_Jacobsen,Frederik Gottenborg Jacobsen,Liberal Alliance,9
+Viborg,9,Bjerringbro Nord,I_Lene_Foged,Lene Foged,Liberal Alliance,9
+Viborg,9,Bjerringbro Nord,I_Bo_Wieck-Hansen,Bo Wieck-Hansen,Liberal Alliance,2
+Viborg,9,Bjerringbro Nord,K_Listestemmer,Listestemmer,Kristendemokraterne,13
+Viborg,9,Bjerringbro Nord,"K_Eva_Kornum,_Skelhøje","Eva Kornum, Skelhøje",Kristendemokraterne,5
+Viborg,9,Bjerringbro Nord,"K_Ghirmai_Berhane,_Rødkærsbro","Ghirmai Berhane, Rødkærsbro",Kristendemokraterne,7
+Viborg,9,Bjerringbro Nord,"K_Hanne_Ellemann_Rytter,_Finderup","Hanne Ellemann Rytter, Finderup",Kristendemokraterne,1
+Viborg,9,Bjerringbro Nord,"K_Ingrid_Bak,_Bjerringbro","Ingrid Bak, Bjerringbro",Kristendemokraterne,40
+Viborg,9,Bjerringbro Nord,"K_Knud_Gaarn-Larsen,_Frederiks","Knud Gaarn-Larsen, Frederiks",Kristendemokraterne,2
+Viborg,9,Bjerringbro Nord,L_Listestemmer,Listestemmer,Lokallisten - Viborg,1
+Viborg,9,Bjerringbro Nord,L_Johnny_F._Andresen,Johnny F. Andresen,Lokallisten - Viborg,2
+Viborg,9,Bjerringbro Nord,O_Listestemmer,Listestemmer,Dansk Folkeparti,25
+Viborg,9,Bjerringbro Nord,"O_Lone_Langballe,_Tjele","Lone Langballe, Tjele",Dansk Folkeparti,41
+Viborg,9,Bjerringbro Nord,"O_Kirsten_Hørdum,_Tjele","Kirsten Hørdum, Tjele",Dansk Folkeparti,2
+Viborg,9,Bjerringbro Nord,"O_Morten_Thaarup,_Viborg","Morten Thaarup, Viborg",Dansk Folkeparti,10
+Viborg,9,Bjerringbro Nord,"O_Anders_Risom,_Tjele","Anders Risom, Tjele",Dansk Folkeparti,3
+Viborg,9,Bjerringbro Nord,"O_Kim_Poulsen,_Tjele","Kim Poulsen, Tjele",Dansk Folkeparti,3
+Viborg,9,Bjerringbro Nord,"O_Jess_Mikkelsen,_Viborg","Jess Mikkelsen, Viborg",Dansk Folkeparti,2
+Viborg,9,Bjerringbro Nord,T_Listestemmer,Listestemmer,Hvad kan gå galt,0
+Viborg,9,Bjerringbro Nord,T_Theis_Bach_Nielsen,Theis Bach Nielsen,Hvad kan gå galt,14
+Viborg,9,Bjerringbro Nord,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",78
+Viborg,9,Bjerringbro Nord,"V_Ulrik_Wilbek,_Viborg","Ulrik Wilbek, Viborg","Venstre, Danmarks Liberale Parti",429
+Viborg,9,Bjerringbro Nord,"V_Frederik_Houmann_Thuesen,_Overlund","Frederik Houmann Thuesen, Overlund","Venstre, Danmarks Liberale Parti",8
+Viborg,9,Bjerringbro Nord,"V_Jakob_Harritz,_Viborg","Jakob Harritz, Viborg","Venstre, Danmarks Liberale Parti",6
+Viborg,9,Bjerringbro Nord,"V_Anders_Jensen,_Løgstrup","Anders Jensen, Løgstrup","Venstre, Danmarks Liberale Parti",3
+Viborg,9,Bjerringbro Nord,"V_Lars_Mogensen,_Tjele","Lars Mogensen, Tjele","Venstre, Danmarks Liberale Parti",10
+Viborg,9,Bjerringbro Nord,"V_Kim_Dongsgaard,_Rødkærsbro","Kim Dongsgaard, Rødkærsbro","Venstre, Danmarks Liberale Parti",42
+Viborg,9,Bjerringbro Nord,"V_Kurt_Mosgaard,_Mønsted","Kurt Mosgaard, Mønsted","Venstre, Danmarks Liberale Parti",2
+Viborg,9,Bjerringbro Nord,"V_Lone_Kastberg,_Møldrup","Lone Kastberg, Møldrup","Venstre, Danmarks Liberale Parti",6
+Viborg,9,Bjerringbro Nord,"V_Kurt_Johansen,_Ulbjerg","Kurt Johansen, Ulbjerg","Venstre, Danmarks Liberale Parti",1
+Viborg,9,Bjerringbro Nord,"V_Pia_Viller_Arendt,_Frederiks","Pia Viller Arendt, Frederiks","Venstre, Danmarks Liberale Parti",3
+Viborg,9,Bjerringbro Nord,"V_Claus_Clausen,_Vroue","Claus Clausen, Vroue","Venstre, Danmarks Liberale Parti",2
+Viborg,9,Bjerringbro Nord,"V_Åse_Kubel_Høeg,_Viborg","Åse Kubel Høeg, Viborg","Venstre, Danmarks Liberale Parti",3
+Viborg,9,Bjerringbro Nord,"V_Majbrit_Nørgaard,_Ravnstrup","Majbrit Nørgaard, Ravnstrup","Venstre, Danmarks Liberale Parti",4
+Viborg,9,Bjerringbro Nord,"V_Johannes_F._Vesterby,_Løvel","Johannes F. Vesterby, Løvel","Venstre, Danmarks Liberale Parti",6
+Viborg,9,Bjerringbro Nord,"V_Niels_Jørgen_Ottesen,_Bjerringbro","Niels Jørgen Ottesen, Bjerringbro","Venstre, Danmarks Liberale Parti",414
+Viborg,9,Bjerringbro Nord,"V_Sinna_Maagaard,_Sparkær","Sinna Maagaard, Sparkær","Venstre, Danmarks Liberale Parti",1
+Viborg,9,Bjerringbro Nord,"V_Michael_Nøhr,_Klejtrup","Michael Nøhr, Klejtrup","Venstre, Danmarks Liberale Parti",0
+Viborg,9,Bjerringbro Nord,"V_Ole_Kristensen,_Karup","Ole Kristensen, Karup","Venstre, Danmarks Liberale Parti",0
+Viborg,9,Bjerringbro Nord,"V_Britta_Jarly,_Viborg","Britta Jarly, Viborg","Venstre, Danmarks Liberale Parti",1
+Viborg,9,Bjerringbro Nord,"V_Katrine_Fusager_Rohde,_Viborg","Katrine Fusager Rohde, Viborg","Venstre, Danmarks Liberale Parti",10
+Viborg,9,Bjerringbro Nord,"V_Esben_Tøttrup,_Bjerringbro","Esben Tøttrup, Bjerringbro","Venstre, Danmarks Liberale Parti",77
+Viborg,9,Bjerringbro Nord,Æ_Listestemmer,Listestemmer,Frihedslisten,1
+Viborg,9,Bjerringbro Nord,"Æ_Jesper_Nørgaard,_Viborg","Jesper Nørgaard, Viborg",Frihedslisten,16
+Viborg,9,Bjerringbro Nord,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,34
+Viborg,9,Bjerringbro Nord,Ø_Aksel_Rosager_Johansen,Aksel Rosager Johansen,Enhedslisten - De Rød-Grønne,12
+Viborg,9,Bjerringbro Nord,Ø_Zahra_Mohamud_Ali,Zahra Mohamud Ali,Enhedslisten - De Rød-Grønne,14
+Viborg,9,Bjerringbro Nord,Ø_Frederik_Berg_Overgaard,Frederik Berg Overgaard,Enhedslisten - De Rød-Grønne,1
+Viborg,9,Bjerringbro Nord,Ø_Alfred_Berg_Overgaard,Alfred Berg Overgaard,Enhedslisten - De Rød-Grønne,3
+Viborg,9,Bjerringbro Nord,Ø_Liz_Dueholm,Liz Dueholm,Enhedslisten - De Rød-Grønne,3
+Viborg,9,Bjerringbro Nord,Ø_Pernille_Diemar,Pernille Diemar,Enhedslisten - De Rød-Grønne,6
+Viborg,9,Bjerringbro Nord,Å_Listestemmer,Listestemmer,Alternativet,4
+Viborg,9,Bjerringbro Nord,"Å_Stine_Isaksen,_Viborg","Stine Isaksen, Viborg",Alternativet,29
+Viborg,9,Bjerringbro Nord,"Å_Didde_Krabbe_Johannesen,Viborg","Didde Krabbe Johannesen,Viborg",Alternativet,4
+Viborg,9,Bjerringbro Nord,"Å_Jeppe_Ottow,_Viborg","Jeppe Ottow, Viborg",Alternativet,1
+Viborg,9,Bjerringbro Nord,"Å_Kirsten_Hindbo,_Viborg","Kirsten Hindbo, Viborg",Alternativet,0
+Viborg,9,Bjerringbro Nord,"Å_Signe_Sofie_Larsen,_Viborg","Signe Sofie Larsen, Viborg",Alternativet,0
+Viborg,9,Bjerringbro Nord,"Å_Jens_Boll,_Bjerringbro","Jens Boll, Bjerringbro",Alternativet,5
+Viborg,9,Bjerringbro Nord,"Å_Børge_H._Jensen,_Viborg","Børge H. Jensen, Viborg",Alternativet,0
+Viborg,9,Bjerringbro Nord,"Å_Peter_Owen,_Bjerringbro","Peter Owen, Bjerringbro",Alternativet,0
+Viborg,9,Bjerringbro Nord,"Å_Ole_Utoft,_Hjarbæk","Ole Utoft, Hjarbæk",Alternativet,0
+Viborg,9,Bjerringbro Nord,"Å_Hayley_Newman,_Viborg","Hayley Newman, Viborg",Alternativet,0
+Viborg,10,Bjerringbro Syd,A_Listestemmer,Listestemmer,Socialdemokratiet,60
+Viborg,10,Bjerringbro Syd,"A_Mads_Panny,_Viborg","Mads Panny, Viborg",Socialdemokratiet,14
+Viborg,10,Bjerringbro Syd,"A_Anders_Bertel,_Frederiks","Anders Bertel, Frederiks",Socialdemokratiet,0
+Viborg,10,Bjerringbro Syd,"A_Bent_Mikkelsen,_Viborg","Bent Mikkelsen, Viborg",Socialdemokratiet,1
+Viborg,10,Bjerringbro Syd,"A_Birgith_B._Langballe,_Stoholm","Birgith B. Langballe, Stoholm",Socialdemokratiet,1
+Viborg,10,Bjerringbro Syd,"A_Birthe_Harritz,_Ørum","Birthe Harritz, Ørum",Socialdemokratiet,0
+Viborg,10,Bjerringbro Syd,"A_Bjarne_Andersen,_Fly","Bjarne Andersen, Fly",Socialdemokratiet,1
+Viborg,10,Bjerringbro Syd,"A_Eva_Pinnerup,_Viborg","Eva Pinnerup, Viborg",Socialdemokratiet,11
+Viborg,10,Bjerringbro Syd,"A_Lars_Greve,_Viborg","Lars Greve, Viborg",Socialdemokratiet,1
+Viborg,10,Bjerringbro Syd,"A_Marianne_Aaris_Andersen,_Viborg","Marianne Aaris Andersen, Viborg",Socialdemokratiet,4
+Viborg,10,Bjerringbro Syd,"A_Martin_Sanderhoff,_Bjerringbro","Martin Sanderhoff, Bjerringbro",Socialdemokratiet,114
+Viborg,10,Bjerringbro Syd,"A_Mette_Nielsen,_Klejtrup","Mette Nielsen, Klejtrup",Socialdemokratiet,4
+Viborg,10,Bjerringbro Syd,"A_Michael_Philip_Poulsen,Bjerringbro","Michael Philip Poulsen,Bjerringbro",Socialdemokratiet,86
+Viborg,10,Bjerringbro Syd,"A_Niels_Dueholm,_Bjerringbro","Niels Dueholm, Bjerringbro",Socialdemokratiet,59
+Viborg,10,Bjerringbro Syd,"A_Steen_Nysom,_Viborg","Steen Nysom, Viborg",Socialdemokratiet,0
+Viborg,10,Bjerringbro Syd,"A_Winnie_Nielsen,_Karup","Winnie Nielsen, Karup",Socialdemokratiet,2
+Viborg,10,Bjerringbro Syd,B_Listestemmer,Listestemmer,Radikale Venstre,5
+Viborg,10,Bjerringbro Syd,B_Lasse_Christiansen,Lasse Christiansen,Radikale Venstre,0
+Viborg,10,Bjerringbro Syd,B_Michael_Flarup,Michael Flarup,Radikale Venstre,3
+Viborg,10,Bjerringbro Syd,B_Jan_Rønne,Jan Rønne,Radikale Venstre,0
+Viborg,10,Bjerringbro Syd,B_Marianne_Tøttrup,Marianne Tøttrup,Radikale Venstre,2
+Viborg,10,Bjerringbro Syd,B_Signe_Driefer,Signe Driefer,Radikale Venstre,10
+Viborg,10,Bjerringbro Syd,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,51
+Viborg,10,Bjerringbro Syd,C_Torsten_Nielsen,Torsten Nielsen,Det Konservative Folkeparti,47
+Viborg,10,Bjerringbro Syd,C_Stine_Damborg,Stine Damborg,Det Konservative Folkeparti,21
+Viborg,10,Bjerringbro Syd,C_Nikolai_Norup,Nikolai Norup,Det Konservative Folkeparti,0
+Viborg,10,Bjerringbro Syd,C_Jakob_Valdemar_Ekberg,Jakob Valdemar Ekberg,Det Konservative Folkeparti,50
+Viborg,10,Bjerringbro Syd,C_Peter_Juhl,Peter Juhl,Det Konservative Folkeparti,0
+Viborg,10,Bjerringbro Syd,C_Simon_Højer,Simon Højer,Det Konservative Folkeparti,5
+Viborg,10,Bjerringbro Syd,C_Claus_Nielsen,Claus Nielsen,Det Konservative Folkeparti,0
+Viborg,10,Bjerringbro Syd,C_Steen_A._Stephansen,Steen A. Stephansen,Det Konservative Folkeparti,25
+Viborg,10,Bjerringbro Syd,C_Lise_Bertelsen,Lise Bertelsen,Det Konservative Folkeparti,3
+Viborg,10,Bjerringbro Syd,C_Asbjørn_Sennels,Asbjørn Sennels,Det Konservative Folkeparti,1
+Viborg,10,Bjerringbro Syd,C_Kenny_Schødt,Kenny Schødt,Det Konservative Folkeparti,2
+Viborg,10,Bjerringbro Syd,C_Kirsten_Holmgaard,Kirsten Holmgaard,Det Konservative Folkeparti,2
+Viborg,10,Bjerringbro Syd,C_Steffen_Drejer,Steffen Drejer,Det Konservative Folkeparti,256
+Viborg,10,Bjerringbro Syd,C_Sofie_Ringgaard_Schøning,Sofie Ringgaard Schøning,Det Konservative Folkeparti,4
+Viborg,10,Bjerringbro Syd,C_Malena_Møller_Mortensen,Malena Møller Mortensen,Det Konservative Folkeparti,42
+Viborg,10,Bjerringbro Syd,C_Trine_Dige,Trine Dige,Det Konservative Folkeparti,2
+Viborg,10,Bjerringbro Syd,C_Peter_Ruby,Peter Ruby,Det Konservative Folkeparti,0
+Viborg,10,Bjerringbro Syd,C_Christian_Kapper,Christian Kapper,Det Konservative Folkeparti,2
+Viborg,10,Bjerringbro Syd,C_Lars_Bøche_Jensen,Lars Bøche Jensen,Det Konservative Folkeparti,0
+Viborg,10,Bjerringbro Syd,C_Ulrik_Praastrup,Ulrik Praastrup,Det Konservative Folkeparti,0
+Viborg,10,Bjerringbro Syd,C_Ida_Gottenborg_Jacobsen,Ida Gottenborg Jacobsen,Det Konservative Folkeparti,0
+Viborg,10,Bjerringbro Syd,C_Nicklas_Verne_Jensen,Nicklas Verne Jensen,Det Konservative Folkeparti,0
+Viborg,10,Bjerringbro Syd,C_Morten_Christensen,Morten Christensen,Det Konservative Folkeparti,1
+Viborg,10,Bjerringbro Syd,C_Poul-Erik_Chortsen,Poul-Erik Chortsen,Det Konservative Folkeparti,1
+Viborg,10,Bjerringbro Syd,C_Lotte_Frandsen,Lotte Frandsen,Det Konservative Folkeparti,0
+Viborg,10,Bjerringbro Syd,C_Allan_Clifford_Christensen,Allan Clifford Christensen,Det Konservative Folkeparti,1
+Viborg,10,Bjerringbro Syd,D_Listestemmer,Listestemmer,Nye Borgerlige,11
+Viborg,10,Bjerringbro Syd,"D_Leo_Nørgaard,_Viborg","Leo Nørgaard, Viborg",Nye Borgerlige,2
+Viborg,10,Bjerringbro Syd,"D_Thomas_Borup_Laursen,_Viborg","Thomas Borup Laursen, Viborg",Nye Borgerlige,1
+Viborg,10,Bjerringbro Syd,"D_Jakob_Svendsen,Vorning","Jakob Svendsen,Vorning",Nye Borgerlige,2
+Viborg,10,Bjerringbro Syd,"D_Mads_C._Prytz,_Rødkærsbro","Mads C. Prytz, Rødkærsbro",Nye Borgerlige,9
+Viborg,10,Bjerringbro Syd,"D_Laust_Nørskov,_Hvam_St.","Laust Nørskov, Hvam St.",Nye Borgerlige,1
+Viborg,10,Bjerringbro Syd,"D_Johan_Emil_Gjermandsen,_Viborg","Johan Emil Gjermandsen, Viborg",Nye Borgerlige,1
+Viborg,10,Bjerringbro Syd,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,7
+Viborg,10,Bjerringbro Syd,"F_Elo_Nielsen,_Skals","Elo Nielsen, Skals",SF - Socialistisk Folkeparti,2
+Viborg,10,Bjerringbro Syd,"F_Mikael_Løvschall,_Kjeldbjerg","Mikael Løvschall, Kjeldbjerg",SF - Socialistisk Folkeparti,3
+Viborg,10,Bjerringbro Syd,"F_Marianne_Gaardsdal,_Viborg","Marianne Gaardsdal, Viborg",SF - Socialistisk Folkeparti,3
+Viborg,10,Bjerringbro Syd,"F_Mads_Georgi,_Viborg","Mads Georgi, Viborg",SF - Socialistisk Folkeparti,1
+Viborg,10,Bjerringbro Syd,"F_Kirsten_Winther_Almind,Bjerringbro","Kirsten Winther Almind,Bjerringbro",SF - Socialistisk Folkeparti,25
+Viborg,10,Bjerringbro Syd,"F_Kasper_Ivanhoe_Terkelsen,_Viborg","Kasper Ivanhoe Terkelsen, Viborg",SF - Socialistisk Folkeparti,3
+Viborg,10,Bjerringbro Syd,"F_Martin_Mølholt,_Viborg","Martin Mølholt, Viborg",SF - Socialistisk Folkeparti,3
+Viborg,10,Bjerringbro Syd,I_Listestemmer,Listestemmer,Liberal Alliance,2
+Viborg,10,Bjerringbro Syd,I_Frederik_Gottenborg_Jacobsen,Frederik Gottenborg Jacobsen,Liberal Alliance,2
+Viborg,10,Bjerringbro Syd,I_Lene_Foged,Lene Foged,Liberal Alliance,5
+Viborg,10,Bjerringbro Syd,I_Bo_Wieck-Hansen,Bo Wieck-Hansen,Liberal Alliance,0
+Viborg,10,Bjerringbro Syd,K_Listestemmer,Listestemmer,Kristendemokraterne,3
+Viborg,10,Bjerringbro Syd,"K_Eva_Kornum,_Skelhøje","Eva Kornum, Skelhøje",Kristendemokraterne,0
+Viborg,10,Bjerringbro Syd,"K_Ghirmai_Berhane,_Rødkærsbro","Ghirmai Berhane, Rødkærsbro",Kristendemokraterne,3
+Viborg,10,Bjerringbro Syd,"K_Hanne_Ellemann_Rytter,_Finderup","Hanne Ellemann Rytter, Finderup",Kristendemokraterne,0
+Viborg,10,Bjerringbro Syd,"K_Ingrid_Bak,_Bjerringbro","Ingrid Bak, Bjerringbro",Kristendemokraterne,8
+Viborg,10,Bjerringbro Syd,"K_Knud_Gaarn-Larsen,_Frederiks","Knud Gaarn-Larsen, Frederiks",Kristendemokraterne,2
+Viborg,10,Bjerringbro Syd,L_Listestemmer,Listestemmer,Lokallisten - Viborg,0
+Viborg,10,Bjerringbro Syd,L_Johnny_F._Andresen,Johnny F. Andresen,Lokallisten - Viborg,1
+Viborg,10,Bjerringbro Syd,O_Listestemmer,Listestemmer,Dansk Folkeparti,20
+Viborg,10,Bjerringbro Syd,"O_Lone_Langballe,_Tjele","Lone Langballe, Tjele",Dansk Folkeparti,13
+Viborg,10,Bjerringbro Syd,"O_Kirsten_Hørdum,_Tjele","Kirsten Hørdum, Tjele",Dansk Folkeparti,0
+Viborg,10,Bjerringbro Syd,"O_Morten_Thaarup,_Viborg","Morten Thaarup, Viborg",Dansk Folkeparti,10
+Viborg,10,Bjerringbro Syd,"O_Anders_Risom,_Tjele","Anders Risom, Tjele",Dansk Folkeparti,1
+Viborg,10,Bjerringbro Syd,"O_Kim_Poulsen,_Tjele","Kim Poulsen, Tjele",Dansk Folkeparti,0
+Viborg,10,Bjerringbro Syd,"O_Jess_Mikkelsen,_Viborg","Jess Mikkelsen, Viborg",Dansk Folkeparti,2
+Viborg,10,Bjerringbro Syd,T_Listestemmer,Listestemmer,Hvad kan gå galt,0
+Viborg,10,Bjerringbro Syd,T_Theis_Bach_Nielsen,Theis Bach Nielsen,Hvad kan gå galt,8
+Viborg,10,Bjerringbro Syd,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",30
+Viborg,10,Bjerringbro Syd,"V_Ulrik_Wilbek,_Viborg","Ulrik Wilbek, Viborg","Venstre, Danmarks Liberale Parti",200
+Viborg,10,Bjerringbro Syd,"V_Frederik_Houmann_Thuesen,_Overlund","Frederik Houmann Thuesen, Overlund","Venstre, Danmarks Liberale Parti",0
+Viborg,10,Bjerringbro Syd,"V_Jakob_Harritz,_Viborg","Jakob Harritz, Viborg","Venstre, Danmarks Liberale Parti",0
+Viborg,10,Bjerringbro Syd,"V_Anders_Jensen,_Løgstrup","Anders Jensen, Løgstrup","Venstre, Danmarks Liberale Parti",1
+Viborg,10,Bjerringbro Syd,"V_Lars_Mogensen,_Tjele","Lars Mogensen, Tjele","Venstre, Danmarks Liberale Parti",2
+Viborg,10,Bjerringbro Syd,"V_Kim_Dongsgaard,_Rødkærsbro","Kim Dongsgaard, Rødkærsbro","Venstre, Danmarks Liberale Parti",16
+Viborg,10,Bjerringbro Syd,"V_Kurt_Mosgaard,_Mønsted","Kurt Mosgaard, Mønsted","Venstre, Danmarks Liberale Parti",0
+Viborg,10,Bjerringbro Syd,"V_Lone_Kastberg,_Møldrup","Lone Kastberg, Møldrup","Venstre, Danmarks Liberale Parti",1
+Viborg,10,Bjerringbro Syd,"V_Kurt_Johansen,_Ulbjerg","Kurt Johansen, Ulbjerg","Venstre, Danmarks Liberale Parti",0
+Viborg,10,Bjerringbro Syd,"V_Pia_Viller_Arendt,_Frederiks","Pia Viller Arendt, Frederiks","Venstre, Danmarks Liberale Parti",2
+Viborg,10,Bjerringbro Syd,"V_Claus_Clausen,_Vroue","Claus Clausen, Vroue","Venstre, Danmarks Liberale Parti",1
+Viborg,10,Bjerringbro Syd,"V_Åse_Kubel_Høeg,_Viborg","Åse Kubel Høeg, Viborg","Venstre, Danmarks Liberale Parti",1
+Viborg,10,Bjerringbro Syd,"V_Majbrit_Nørgaard,_Ravnstrup","Majbrit Nørgaard, Ravnstrup","Venstre, Danmarks Liberale Parti",1
+Viborg,10,Bjerringbro Syd,"V_Johannes_F._Vesterby,_Løvel","Johannes F. Vesterby, Løvel","Venstre, Danmarks Liberale Parti",1
+Viborg,10,Bjerringbro Syd,"V_Niels_Jørgen_Ottesen,_Bjerringbro","Niels Jørgen Ottesen, Bjerringbro","Venstre, Danmarks Liberale Parti",140
+Viborg,10,Bjerringbro Syd,"V_Sinna_Maagaard,_Sparkær","Sinna Maagaard, Sparkær","Venstre, Danmarks Liberale Parti",3
+Viborg,10,Bjerringbro Syd,"V_Michael_Nøhr,_Klejtrup","Michael Nøhr, Klejtrup","Venstre, Danmarks Liberale Parti",0
+Viborg,10,Bjerringbro Syd,"V_Ole_Kristensen,_Karup","Ole Kristensen, Karup","Venstre, Danmarks Liberale Parti",0
+Viborg,10,Bjerringbro Syd,"V_Britta_Jarly,_Viborg","Britta Jarly, Viborg","Venstre, Danmarks Liberale Parti",1
+Viborg,10,Bjerringbro Syd,"V_Katrine_Fusager_Rohde,_Viborg","Katrine Fusager Rohde, Viborg","Venstre, Danmarks Liberale Parti",3
+Viborg,10,Bjerringbro Syd,"V_Esben_Tøttrup,_Bjerringbro","Esben Tøttrup, Bjerringbro","Venstre, Danmarks Liberale Parti",27
+Viborg,10,Bjerringbro Syd,Æ_Listestemmer,Listestemmer,Frihedslisten,1
+Viborg,10,Bjerringbro Syd,"Æ_Jesper_Nørgaard,_Viborg","Jesper Nørgaard, Viborg",Frihedslisten,1
+Viborg,10,Bjerringbro Syd,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,6
+Viborg,10,Bjerringbro Syd,Ø_Aksel_Rosager_Johansen,Aksel Rosager Johansen,Enhedslisten - De Rød-Grønne,11
+Viborg,10,Bjerringbro Syd,Ø_Zahra_Mohamud_Ali,Zahra Mohamud Ali,Enhedslisten - De Rød-Grønne,3
+Viborg,10,Bjerringbro Syd,Ø_Frederik_Berg_Overgaard,Frederik Berg Overgaard,Enhedslisten - De Rød-Grønne,0
+Viborg,10,Bjerringbro Syd,Ø_Alfred_Berg_Overgaard,Alfred Berg Overgaard,Enhedslisten - De Rød-Grønne,0
+Viborg,10,Bjerringbro Syd,Ø_Liz_Dueholm,Liz Dueholm,Enhedslisten - De Rød-Grønne,1
+Viborg,10,Bjerringbro Syd,Ø_Pernille_Diemar,Pernille Diemar,Enhedslisten - De Rød-Grønne,2
+Viborg,10,Bjerringbro Syd,Å_Listestemmer,Listestemmer,Alternativet,0
+Viborg,10,Bjerringbro Syd,"Å_Stine_Isaksen,_Viborg","Stine Isaksen, Viborg",Alternativet,6
+Viborg,10,Bjerringbro Syd,"Å_Didde_Krabbe_Johannesen,Viborg","Didde Krabbe Johannesen,Viborg",Alternativet,0
+Viborg,10,Bjerringbro Syd,"Å_Jeppe_Ottow,_Viborg","Jeppe Ottow, Viborg",Alternativet,0
+Viborg,10,Bjerringbro Syd,"Å_Kirsten_Hindbo,_Viborg","Kirsten Hindbo, Viborg",Alternativet,0
+Viborg,10,Bjerringbro Syd,"Å_Signe_Sofie_Larsen,_Viborg","Signe Sofie Larsen, Viborg",Alternativet,1
+Viborg,10,Bjerringbro Syd,"Å_Jens_Boll,_Bjerringbro","Jens Boll, Bjerringbro",Alternativet,6
+Viborg,10,Bjerringbro Syd,"Å_Børge_H._Jensen,_Viborg","Børge H. Jensen, Viborg",Alternativet,0
+Viborg,10,Bjerringbro Syd,"Å_Peter_Owen,_Bjerringbro","Peter Owen, Bjerringbro",Alternativet,0
+Viborg,10,Bjerringbro Syd,"Å_Ole_Utoft,_Hjarbæk","Ole Utoft, Hjarbæk",Alternativet,0
+Viborg,10,Bjerringbro Syd,"Å_Hayley_Newman,_Viborg","Hayley Newman, Viborg",Alternativet,0
+Viborg,11,Hammershøj,A_Listestemmer,Listestemmer,Socialdemokratiet,64
+Viborg,11,Hammershøj,"A_Mads_Panny,_Viborg","Mads Panny, Viborg",Socialdemokratiet,35
+Viborg,11,Hammershøj,"A_Anders_Bertel,_Frederiks","Anders Bertel, Frederiks",Socialdemokratiet,2
+Viborg,11,Hammershøj,"A_Bent_Mikkelsen,_Viborg","Bent Mikkelsen, Viborg",Socialdemokratiet,2
+Viborg,11,Hammershøj,"A_Birgith_B._Langballe,_Stoholm","Birgith B. Langballe, Stoholm",Socialdemokratiet,2
+Viborg,11,Hammershøj,"A_Birthe_Harritz,_Ørum","Birthe Harritz, Ørum",Socialdemokratiet,62
+Viborg,11,Hammershøj,"A_Bjarne_Andersen,_Fly","Bjarne Andersen, Fly",Socialdemokratiet,0
+Viborg,11,Hammershøj,"A_Eva_Pinnerup,_Viborg","Eva Pinnerup, Viborg",Socialdemokratiet,10
+Viborg,11,Hammershøj,"A_Lars_Greve,_Viborg","Lars Greve, Viborg",Socialdemokratiet,2
+Viborg,11,Hammershøj,"A_Marianne_Aaris_Andersen,_Viborg","Marianne Aaris Andersen, Viborg",Socialdemokratiet,4
+Viborg,11,Hammershøj,"A_Martin_Sanderhoff,_Bjerringbro","Martin Sanderhoff, Bjerringbro",Socialdemokratiet,20
+Viborg,11,Hammershøj,"A_Mette_Nielsen,_Klejtrup","Mette Nielsen, Klejtrup",Socialdemokratiet,22
+Viborg,11,Hammershøj,"A_Michael_Philip_Poulsen,Bjerringbro","Michael Philip Poulsen,Bjerringbro",Socialdemokratiet,2
+Viborg,11,Hammershøj,"A_Niels_Dueholm,_Bjerringbro","Niels Dueholm, Bjerringbro",Socialdemokratiet,2
+Viborg,11,Hammershøj,"A_Steen_Nysom,_Viborg","Steen Nysom, Viborg",Socialdemokratiet,3
+Viborg,11,Hammershøj,"A_Winnie_Nielsen,_Karup","Winnie Nielsen, Karup",Socialdemokratiet,2
+Viborg,11,Hammershøj,B_Listestemmer,Listestemmer,Radikale Venstre,4
+Viborg,11,Hammershøj,B_Lasse_Christiansen,Lasse Christiansen,Radikale Venstre,5
+Viborg,11,Hammershøj,B_Michael_Flarup,Michael Flarup,Radikale Venstre,4
+Viborg,11,Hammershøj,B_Jan_Rønne,Jan Rønne,Radikale Venstre,1
+Viborg,11,Hammershøj,B_Marianne_Tøttrup,Marianne Tøttrup,Radikale Venstre,3
+Viborg,11,Hammershøj,B_Signe_Driefer,Signe Driefer,Radikale Venstre,3
+Viborg,11,Hammershøj,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,37
+Viborg,11,Hammershøj,C_Torsten_Nielsen,Torsten Nielsen,Det Konservative Folkeparti,84
+Viborg,11,Hammershøj,C_Stine_Damborg,Stine Damborg,Det Konservative Folkeparti,24
+Viborg,11,Hammershøj,C_Nikolai_Norup,Nikolai Norup,Det Konservative Folkeparti,1
+Viborg,11,Hammershøj,C_Jakob_Valdemar_Ekberg,Jakob Valdemar Ekberg,Det Konservative Folkeparti,7
+Viborg,11,Hammershøj,C_Peter_Juhl,Peter Juhl,Det Konservative Folkeparti,4
+Viborg,11,Hammershøj,C_Simon_Højer,Simon Højer,Det Konservative Folkeparti,3
+Viborg,11,Hammershøj,C_Claus_Nielsen,Claus Nielsen,Det Konservative Folkeparti,0
+Viborg,11,Hammershøj,C_Steen_A._Stephansen,Steen A. Stephansen,Det Konservative Folkeparti,1
+Viborg,11,Hammershøj,C_Lise_Bertelsen,Lise Bertelsen,Det Konservative Folkeparti,7
+Viborg,11,Hammershøj,C_Asbjørn_Sennels,Asbjørn Sennels,Det Konservative Folkeparti,0
+Viborg,11,Hammershøj,C_Kenny_Schødt,Kenny Schødt,Det Konservative Folkeparti,0
+Viborg,11,Hammershøj,C_Kirsten_Holmgaard,Kirsten Holmgaard,Det Konservative Folkeparti,8
+Viborg,11,Hammershøj,C_Steffen_Drejer,Steffen Drejer,Det Konservative Folkeparti,16
+Viborg,11,Hammershøj,C_Sofie_Ringgaard_Schøning,Sofie Ringgaard Schøning,Det Konservative Folkeparti,9
+Viborg,11,Hammershøj,C_Malena_Møller_Mortensen,Malena Møller Mortensen,Det Konservative Folkeparti,4
+Viborg,11,Hammershøj,C_Trine_Dige,Trine Dige,Det Konservative Folkeparti,0
+Viborg,11,Hammershøj,C_Peter_Ruby,Peter Ruby,Det Konservative Folkeparti,1
+Viborg,11,Hammershøj,C_Christian_Kapper,Christian Kapper,Det Konservative Folkeparti,0
+Viborg,11,Hammershøj,C_Lars_Bøche_Jensen,Lars Bøche Jensen,Det Konservative Folkeparti,0
+Viborg,11,Hammershøj,C_Ulrik_Praastrup,Ulrik Praastrup,Det Konservative Folkeparti,1
+Viborg,11,Hammershøj,C_Ida_Gottenborg_Jacobsen,Ida Gottenborg Jacobsen,Det Konservative Folkeparti,0
+Viborg,11,Hammershøj,C_Nicklas_Verne_Jensen,Nicklas Verne Jensen,Det Konservative Folkeparti,0
+Viborg,11,Hammershøj,C_Morten_Christensen,Morten Christensen,Det Konservative Folkeparti,31
+Viborg,11,Hammershøj,C_Poul-Erik_Chortsen,Poul-Erik Chortsen,Det Konservative Folkeparti,0
+Viborg,11,Hammershøj,C_Lotte_Frandsen,Lotte Frandsen,Det Konservative Folkeparti,2
+Viborg,11,Hammershøj,C_Allan_Clifford_Christensen,Allan Clifford Christensen,Det Konservative Folkeparti,0
+Viborg,11,Hammershøj,D_Listestemmer,Listestemmer,Nye Borgerlige,35
+Viborg,11,Hammershøj,"D_Leo_Nørgaard,_Viborg","Leo Nørgaard, Viborg",Nye Borgerlige,2
+Viborg,11,Hammershøj,"D_Thomas_Borup_Laursen,_Viborg","Thomas Borup Laursen, Viborg",Nye Borgerlige,1
+Viborg,11,Hammershøj,"D_Jakob_Svendsen,Vorning","Jakob Svendsen,Vorning",Nye Borgerlige,93
+Viborg,11,Hammershøj,"D_Mads_C._Prytz,_Rødkærsbro","Mads C. Prytz, Rødkærsbro",Nye Borgerlige,4
+Viborg,11,Hammershøj,"D_Laust_Nørskov,_Hvam_St.","Laust Nørskov, Hvam St.",Nye Borgerlige,1
+Viborg,11,Hammershøj,"D_Johan_Emil_Gjermandsen,_Viborg","Johan Emil Gjermandsen, Viborg",Nye Borgerlige,2
+Viborg,11,Hammershøj,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,24
+Viborg,11,Hammershøj,"F_Elo_Nielsen,_Skals","Elo Nielsen, Skals",SF - Socialistisk Folkeparti,6
+Viborg,11,Hammershøj,"F_Mikael_Løvschall,_Kjeldbjerg","Mikael Løvschall, Kjeldbjerg",SF - Socialistisk Folkeparti,3
+Viborg,11,Hammershøj,"F_Marianne_Gaardsdal,_Viborg","Marianne Gaardsdal, Viborg",SF - Socialistisk Folkeparti,6
+Viborg,11,Hammershøj,"F_Mads_Georgi,_Viborg","Mads Georgi, Viborg",SF - Socialistisk Folkeparti,1
+Viborg,11,Hammershøj,"F_Kirsten_Winther_Almind,Bjerringbro","Kirsten Winther Almind,Bjerringbro",SF - Socialistisk Folkeparti,3
+Viborg,11,Hammershøj,"F_Kasper_Ivanhoe_Terkelsen,_Viborg","Kasper Ivanhoe Terkelsen, Viborg",SF - Socialistisk Folkeparti,1
+Viborg,11,Hammershøj,"F_Martin_Mølholt,_Viborg","Martin Mølholt, Viborg",SF - Socialistisk Folkeparti,0
+Viborg,11,Hammershøj,I_Listestemmer,Listestemmer,Liberal Alliance,0
+Viborg,11,Hammershøj,I_Frederik_Gottenborg_Jacobsen,Frederik Gottenborg Jacobsen,Liberal Alliance,2
+Viborg,11,Hammershøj,I_Lene_Foged,Lene Foged,Liberal Alliance,1
+Viborg,11,Hammershøj,I_Bo_Wieck-Hansen,Bo Wieck-Hansen,Liberal Alliance,13
+Viborg,11,Hammershøj,K_Listestemmer,Listestemmer,Kristendemokraterne,2
+Viborg,11,Hammershøj,"K_Eva_Kornum,_Skelhøje","Eva Kornum, Skelhøje",Kristendemokraterne,1
+Viborg,11,Hammershøj,"K_Ghirmai_Berhane,_Rødkærsbro","Ghirmai Berhane, Rødkærsbro",Kristendemokraterne,0
+Viborg,11,Hammershøj,"K_Hanne_Ellemann_Rytter,_Finderup","Hanne Ellemann Rytter, Finderup",Kristendemokraterne,2
+Viborg,11,Hammershøj,"K_Ingrid_Bak,_Bjerringbro","Ingrid Bak, Bjerringbro",Kristendemokraterne,0
+Viborg,11,Hammershøj,"K_Knud_Gaarn-Larsen,_Frederiks","Knud Gaarn-Larsen, Frederiks",Kristendemokraterne,2
+Viborg,11,Hammershøj,L_Listestemmer,Listestemmer,Lokallisten - Viborg,0
+Viborg,11,Hammershøj,L_Johnny_F._Andresen,Johnny F. Andresen,Lokallisten - Viborg,0
+Viborg,11,Hammershøj,O_Listestemmer,Listestemmer,Dansk Folkeparti,20
+Viborg,11,Hammershøj,"O_Lone_Langballe,_Tjele","Lone Langballe, Tjele",Dansk Folkeparti,29
+Viborg,11,Hammershøj,"O_Kirsten_Hørdum,_Tjele","Kirsten Hørdum, Tjele",Dansk Folkeparti,1
+Viborg,11,Hammershøj,"O_Morten_Thaarup,_Viborg","Morten Thaarup, Viborg",Dansk Folkeparti,1
+Viborg,11,Hammershøj,"O_Anders_Risom,_Tjele","Anders Risom, Tjele",Dansk Folkeparti,4
+Viborg,11,Hammershøj,"O_Kim_Poulsen,_Tjele","Kim Poulsen, Tjele",Dansk Folkeparti,6
+Viborg,11,Hammershøj,"O_Jess_Mikkelsen,_Viborg","Jess Mikkelsen, Viborg",Dansk Folkeparti,0
+Viborg,11,Hammershøj,T_Listestemmer,Listestemmer,Hvad kan gå galt,1
+Viborg,11,Hammershøj,T_Theis_Bach_Nielsen,Theis Bach Nielsen,Hvad kan gå galt,3
+Viborg,11,Hammershøj,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",38
+Viborg,11,Hammershøj,"V_Ulrik_Wilbek,_Viborg","Ulrik Wilbek, Viborg","Venstre, Danmarks Liberale Parti",184
+Viborg,11,Hammershøj,"V_Frederik_Houmann_Thuesen,_Overlund","Frederik Houmann Thuesen, Overlund","Venstre, Danmarks Liberale Parti",4
+Viborg,11,Hammershøj,"V_Jakob_Harritz,_Viborg","Jakob Harritz, Viborg","Venstre, Danmarks Liberale Parti",6
+Viborg,11,Hammershøj,"V_Anders_Jensen,_Løgstrup","Anders Jensen, Løgstrup","Venstre, Danmarks Liberale Parti",1
+Viborg,11,Hammershøj,"V_Lars_Mogensen,_Tjele","Lars Mogensen, Tjele","Venstre, Danmarks Liberale Parti",87
+Viborg,11,Hammershøj,"V_Kim_Dongsgaard,_Rødkærsbro","Kim Dongsgaard, Rødkærsbro","Venstre, Danmarks Liberale Parti",3
+Viborg,11,Hammershøj,"V_Kurt_Mosgaard,_Mønsted","Kurt Mosgaard, Mønsted","Venstre, Danmarks Liberale Parti",3
+Viborg,11,Hammershøj,"V_Lone_Kastberg,_Møldrup","Lone Kastberg, Møldrup","Venstre, Danmarks Liberale Parti",12
+Viborg,11,Hammershøj,"V_Kurt_Johansen,_Ulbjerg","Kurt Johansen, Ulbjerg","Venstre, Danmarks Liberale Parti",0
+Viborg,11,Hammershøj,"V_Pia_Viller_Arendt,_Frederiks","Pia Viller Arendt, Frederiks","Venstre, Danmarks Liberale Parti",1
+Viborg,11,Hammershøj,"V_Claus_Clausen,_Vroue","Claus Clausen, Vroue","Venstre, Danmarks Liberale Parti",2
+Viborg,11,Hammershøj,"V_Åse_Kubel_Høeg,_Viborg","Åse Kubel Høeg, Viborg","Venstre, Danmarks Liberale Parti",4
+Viborg,11,Hammershøj,"V_Majbrit_Nørgaard,_Ravnstrup","Majbrit Nørgaard, Ravnstrup","Venstre, Danmarks Liberale Parti",4
+Viborg,11,Hammershøj,"V_Johannes_F._Vesterby,_Løvel","Johannes F. Vesterby, Løvel","Venstre, Danmarks Liberale Parti",65
+Viborg,11,Hammershøj,"V_Niels_Jørgen_Ottesen,_Bjerringbro","Niels Jørgen Ottesen, Bjerringbro","Venstre, Danmarks Liberale Parti",1
+Viborg,11,Hammershøj,"V_Sinna_Maagaard,_Sparkær","Sinna Maagaard, Sparkær","Venstre, Danmarks Liberale Parti",0
+Viborg,11,Hammershøj,"V_Michael_Nøhr,_Klejtrup","Michael Nøhr, Klejtrup","Venstre, Danmarks Liberale Parti",2
+Viborg,11,Hammershøj,"V_Ole_Kristensen,_Karup","Ole Kristensen, Karup","Venstre, Danmarks Liberale Parti",0
+Viborg,11,Hammershøj,"V_Britta_Jarly,_Viborg","Britta Jarly, Viborg","Venstre, Danmarks Liberale Parti",0
+Viborg,11,Hammershøj,"V_Katrine_Fusager_Rohde,_Viborg","Katrine Fusager Rohde, Viborg","Venstre, Danmarks Liberale Parti",5
+Viborg,11,Hammershøj,"V_Esben_Tøttrup,_Bjerringbro","Esben Tøttrup, Bjerringbro","Venstre, Danmarks Liberale Parti",7
+Viborg,11,Hammershøj,Æ_Listestemmer,Listestemmer,Frihedslisten,0
+Viborg,11,Hammershøj,"Æ_Jesper_Nørgaard,_Viborg","Jesper Nørgaard, Viborg",Frihedslisten,4
+Viborg,11,Hammershøj,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,15
+Viborg,11,Hammershøj,Ø_Aksel_Rosager_Johansen,Aksel Rosager Johansen,Enhedslisten - De Rød-Grønne,6
+Viborg,11,Hammershøj,Ø_Zahra_Mohamud_Ali,Zahra Mohamud Ali,Enhedslisten - De Rød-Grønne,3
+Viborg,11,Hammershøj,Ø_Frederik_Berg_Overgaard,Frederik Berg Overgaard,Enhedslisten - De Rød-Grønne,1
+Viborg,11,Hammershøj,Ø_Alfred_Berg_Overgaard,Alfred Berg Overgaard,Enhedslisten - De Rød-Grønne,2
+Viborg,11,Hammershøj,Ø_Liz_Dueholm,Liz Dueholm,Enhedslisten - De Rød-Grønne,0
+Viborg,11,Hammershøj,Ø_Pernille_Diemar,Pernille Diemar,Enhedslisten - De Rød-Grønne,3
+Viborg,11,Hammershøj,Å_Listestemmer,Listestemmer,Alternativet,0
+Viborg,11,Hammershøj,"Å_Stine_Isaksen,_Viborg","Stine Isaksen, Viborg",Alternativet,9
+Viborg,11,Hammershøj,"Å_Didde_Krabbe_Johannesen,Viborg","Didde Krabbe Johannesen,Viborg",Alternativet,2
+Viborg,11,Hammershøj,"Å_Jeppe_Ottow,_Viborg","Jeppe Ottow, Viborg",Alternativet,0
+Viborg,11,Hammershøj,"Å_Kirsten_Hindbo,_Viborg","Kirsten Hindbo, Viborg",Alternativet,1
+Viborg,11,Hammershøj,"Å_Signe_Sofie_Larsen,_Viborg","Signe Sofie Larsen, Viborg",Alternativet,0
+Viborg,11,Hammershøj,"Å_Jens_Boll,_Bjerringbro","Jens Boll, Bjerringbro",Alternativet,0
+Viborg,11,Hammershøj,"Å_Børge_H._Jensen,_Viborg","Børge H. Jensen, Viborg",Alternativet,0
+Viborg,11,Hammershøj,"Å_Peter_Owen,_Bjerringbro","Peter Owen, Bjerringbro",Alternativet,0
+Viborg,11,Hammershøj,"Å_Ole_Utoft,_Hjarbæk","Ole Utoft, Hjarbæk",Alternativet,0
+Viborg,11,Hammershøj,"Å_Hayley_Newman,_Viborg","Hayley Newman, Viborg",Alternativet,0
+Viborg,12,Møldrup,A_Listestemmer,Listestemmer,Socialdemokratiet,74
+Viborg,12,Møldrup,"A_Mads_Panny,_Viborg","Mads Panny, Viborg",Socialdemokratiet,48
+Viborg,12,Møldrup,"A_Anders_Bertel,_Frederiks","Anders Bertel, Frederiks",Socialdemokratiet,1
+Viborg,12,Møldrup,"A_Bent_Mikkelsen,_Viborg","Bent Mikkelsen, Viborg",Socialdemokratiet,4
+Viborg,12,Møldrup,"A_Birgith_B._Langballe,_Stoholm","Birgith B. Langballe, Stoholm",Socialdemokratiet,3
+Viborg,12,Møldrup,"A_Birthe_Harritz,_Ørum","Birthe Harritz, Ørum",Socialdemokratiet,2
+Viborg,12,Møldrup,"A_Bjarne_Andersen,_Fly","Bjarne Andersen, Fly",Socialdemokratiet,0
+Viborg,12,Møldrup,"A_Eva_Pinnerup,_Viborg","Eva Pinnerup, Viborg",Socialdemokratiet,5
+Viborg,12,Møldrup,"A_Lars_Greve,_Viborg","Lars Greve, Viborg",Socialdemokratiet,4
+Viborg,12,Møldrup,"A_Marianne_Aaris_Andersen,_Viborg","Marianne Aaris Andersen, Viborg",Socialdemokratiet,3
+Viborg,12,Møldrup,"A_Martin_Sanderhoff,_Bjerringbro","Martin Sanderhoff, Bjerringbro",Socialdemokratiet,0
+Viborg,12,Møldrup,"A_Mette_Nielsen,_Klejtrup","Mette Nielsen, Klejtrup",Socialdemokratiet,382
+Viborg,12,Møldrup,"A_Michael_Philip_Poulsen,Bjerringbro","Michael Philip Poulsen,Bjerringbro",Socialdemokratiet,7
+Viborg,12,Møldrup,"A_Niels_Dueholm,_Bjerringbro","Niels Dueholm, Bjerringbro",Socialdemokratiet,0
+Viborg,12,Møldrup,"A_Steen_Nysom,_Viborg","Steen Nysom, Viborg",Socialdemokratiet,1
+Viborg,12,Møldrup,"A_Winnie_Nielsen,_Karup","Winnie Nielsen, Karup",Socialdemokratiet,1
+Viborg,12,Møldrup,B_Listestemmer,Listestemmer,Radikale Venstre,10
+Viborg,12,Møldrup,B_Lasse_Christiansen,Lasse Christiansen,Radikale Venstre,5
+Viborg,12,Møldrup,B_Michael_Flarup,Michael Flarup,Radikale Venstre,14
+Viborg,12,Møldrup,B_Jan_Rønne,Jan Rønne,Radikale Venstre,2
+Viborg,12,Møldrup,B_Marianne_Tøttrup,Marianne Tøttrup,Radikale Venstre,3
+Viborg,12,Møldrup,B_Signe_Driefer,Signe Driefer,Radikale Venstre,7
+Viborg,12,Møldrup,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,60
+Viborg,12,Møldrup,C_Torsten_Nielsen,Torsten Nielsen,Det Konservative Folkeparti,118
+Viborg,12,Møldrup,C_Stine_Damborg,Stine Damborg,Det Konservative Folkeparti,39
+Viborg,12,Møldrup,C_Nikolai_Norup,Nikolai Norup,Det Konservative Folkeparti,4
+Viborg,12,Møldrup,C_Jakob_Valdemar_Ekberg,Jakob Valdemar Ekberg,Det Konservative Folkeparti,1
+Viborg,12,Møldrup,C_Peter_Juhl,Peter Juhl,Det Konservative Folkeparti,5
+Viborg,12,Møldrup,C_Simon_Højer,Simon Højer,Det Konservative Folkeparti,2
+Viborg,12,Møldrup,C_Claus_Nielsen,Claus Nielsen,Det Konservative Folkeparti,0
+Viborg,12,Møldrup,C_Steen_A._Stephansen,Steen A. Stephansen,Det Konservative Folkeparti,0
+Viborg,12,Møldrup,C_Lise_Bertelsen,Lise Bertelsen,Det Konservative Folkeparti,11
+Viborg,12,Møldrup,C_Asbjørn_Sennels,Asbjørn Sennels,Det Konservative Folkeparti,3
+Viborg,12,Møldrup,C_Kenny_Schødt,Kenny Schødt,Det Konservative Folkeparti,45
+Viborg,12,Møldrup,C_Kirsten_Holmgaard,Kirsten Holmgaard,Det Konservative Folkeparti,5
+Viborg,12,Møldrup,C_Steffen_Drejer,Steffen Drejer,Det Konservative Folkeparti,2
+Viborg,12,Møldrup,C_Sofie_Ringgaard_Schøning,Sofie Ringgaard Schøning,Det Konservative Folkeparti,7
+Viborg,12,Møldrup,C_Malena_Møller_Mortensen,Malena Møller Mortensen,Det Konservative Folkeparti,3
+Viborg,12,Møldrup,C_Trine_Dige,Trine Dige,Det Konservative Folkeparti,2
+Viborg,12,Møldrup,C_Peter_Ruby,Peter Ruby,Det Konservative Folkeparti,1
+Viborg,12,Møldrup,C_Christian_Kapper,Christian Kapper,Det Konservative Folkeparti,1
+Viborg,12,Møldrup,C_Lars_Bøche_Jensen,Lars Bøche Jensen,Det Konservative Folkeparti,2
+Viborg,12,Møldrup,C_Ulrik_Praastrup,Ulrik Praastrup,Det Konservative Folkeparti,1
+Viborg,12,Møldrup,C_Ida_Gottenborg_Jacobsen,Ida Gottenborg Jacobsen,Det Konservative Folkeparti,0
+Viborg,12,Møldrup,C_Nicklas_Verne_Jensen,Nicklas Verne Jensen,Det Konservative Folkeparti,0
+Viborg,12,Møldrup,C_Morten_Christensen,Morten Christensen,Det Konservative Folkeparti,0
+Viborg,12,Møldrup,C_Poul-Erik_Chortsen,Poul-Erik Chortsen,Det Konservative Folkeparti,0
+Viborg,12,Møldrup,C_Lotte_Frandsen,Lotte Frandsen,Det Konservative Folkeparti,4
+Viborg,12,Møldrup,C_Allan_Clifford_Christensen,Allan Clifford Christensen,Det Konservative Folkeparti,3
+Viborg,12,Møldrup,D_Listestemmer,Listestemmer,Nye Borgerlige,44
+Viborg,12,Møldrup,"D_Leo_Nørgaard,_Viborg","Leo Nørgaard, Viborg",Nye Borgerlige,8
+Viborg,12,Møldrup,"D_Thomas_Borup_Laursen,_Viborg","Thomas Borup Laursen, Viborg",Nye Borgerlige,3
+Viborg,12,Møldrup,"D_Jakob_Svendsen,Vorning","Jakob Svendsen,Vorning",Nye Borgerlige,5
+Viborg,12,Møldrup,"D_Mads_C._Prytz,_Rødkærsbro","Mads C. Prytz, Rødkærsbro",Nye Borgerlige,2
+Viborg,12,Møldrup,"D_Laust_Nørskov,_Hvam_St.","Laust Nørskov, Hvam St.",Nye Borgerlige,24
+Viborg,12,Møldrup,"D_Johan_Emil_Gjermandsen,_Viborg","Johan Emil Gjermandsen, Viborg",Nye Borgerlige,0
+Viborg,12,Møldrup,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,18
+Viborg,12,Møldrup,"F_Elo_Nielsen,_Skals","Elo Nielsen, Skals",SF - Socialistisk Folkeparti,18
+Viborg,12,Møldrup,"F_Mikael_Løvschall,_Kjeldbjerg","Mikael Løvschall, Kjeldbjerg",SF - Socialistisk Folkeparti,2
+Viborg,12,Møldrup,"F_Marianne_Gaardsdal,_Viborg","Marianne Gaardsdal, Viborg",SF - Socialistisk Folkeparti,16
+Viborg,12,Møldrup,"F_Mads_Georgi,_Viborg","Mads Georgi, Viborg",SF - Socialistisk Folkeparti,2
+Viborg,12,Møldrup,"F_Kirsten_Winther_Almind,Bjerringbro","Kirsten Winther Almind,Bjerringbro",SF - Socialistisk Folkeparti,2
+Viborg,12,Møldrup,"F_Kasper_Ivanhoe_Terkelsen,_Viborg","Kasper Ivanhoe Terkelsen, Viborg",SF - Socialistisk Folkeparti,6
+Viborg,12,Møldrup,"F_Martin_Mølholt,_Viborg","Martin Mølholt, Viborg",SF - Socialistisk Folkeparti,0
+Viborg,12,Møldrup,I_Listestemmer,Listestemmer,Liberal Alliance,4
+Viborg,12,Møldrup,I_Frederik_Gottenborg_Jacobsen,Frederik Gottenborg Jacobsen,Liberal Alliance,3
+Viborg,12,Møldrup,I_Lene_Foged,Lene Foged,Liberal Alliance,3
+Viborg,12,Møldrup,I_Bo_Wieck-Hansen,Bo Wieck-Hansen,Liberal Alliance,1
+Viborg,12,Møldrup,K_Listestemmer,Listestemmer,Kristendemokraterne,4
+Viborg,12,Møldrup,"K_Eva_Kornum,_Skelhøje","Eva Kornum, Skelhøje",Kristendemokraterne,2
+Viborg,12,Møldrup,"K_Ghirmai_Berhane,_Rødkærsbro","Ghirmai Berhane, Rødkærsbro",Kristendemokraterne,2
+Viborg,12,Møldrup,"K_Hanne_Ellemann_Rytter,_Finderup","Hanne Ellemann Rytter, Finderup",Kristendemokraterne,2
+Viborg,12,Møldrup,"K_Ingrid_Bak,_Bjerringbro","Ingrid Bak, Bjerringbro",Kristendemokraterne,2
+Viborg,12,Møldrup,"K_Knud_Gaarn-Larsen,_Frederiks","Knud Gaarn-Larsen, Frederiks",Kristendemokraterne,2
+Viborg,12,Møldrup,L_Listestemmer,Listestemmer,Lokallisten - Viborg,0
+Viborg,12,Møldrup,L_Johnny_F._Andresen,Johnny F. Andresen,Lokallisten - Viborg,0
+Viborg,12,Møldrup,O_Listestemmer,Listestemmer,Dansk Folkeparti,23
+Viborg,12,Møldrup,"O_Lone_Langballe,_Tjele","Lone Langballe, Tjele",Dansk Folkeparti,36
+Viborg,12,Møldrup,"O_Kirsten_Hørdum,_Tjele","Kirsten Hørdum, Tjele",Dansk Folkeparti,2
+Viborg,12,Møldrup,"O_Morten_Thaarup,_Viborg","Morten Thaarup, Viborg",Dansk Folkeparti,23
+Viborg,12,Møldrup,"O_Anders_Risom,_Tjele","Anders Risom, Tjele",Dansk Folkeparti,2
+Viborg,12,Møldrup,"O_Kim_Poulsen,_Tjele","Kim Poulsen, Tjele",Dansk Folkeparti,0
+Viborg,12,Møldrup,"O_Jess_Mikkelsen,_Viborg","Jess Mikkelsen, Viborg",Dansk Folkeparti,4
+Viborg,12,Møldrup,T_Listestemmer,Listestemmer,Hvad kan gå galt,1
+Viborg,12,Møldrup,T_Theis_Bach_Nielsen,Theis Bach Nielsen,Hvad kan gå galt,10
+Viborg,12,Møldrup,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",59
+Viborg,12,Møldrup,"V_Ulrik_Wilbek,_Viborg","Ulrik Wilbek, Viborg","Venstre, Danmarks Liberale Parti",204
+Viborg,12,Møldrup,"V_Frederik_Houmann_Thuesen,_Overlund","Frederik Houmann Thuesen, Overlund","Venstre, Danmarks Liberale Parti",8
+Viborg,12,Møldrup,"V_Jakob_Harritz,_Viborg","Jakob Harritz, Viborg","Venstre, Danmarks Liberale Parti",3
+Viborg,12,Møldrup,"V_Anders_Jensen,_Løgstrup","Anders Jensen, Løgstrup","Venstre, Danmarks Liberale Parti",0
+Viborg,12,Møldrup,"V_Lars_Mogensen,_Tjele","Lars Mogensen, Tjele","Venstre, Danmarks Liberale Parti",37
+Viborg,12,Møldrup,"V_Kim_Dongsgaard,_Rødkærsbro","Kim Dongsgaard, Rødkærsbro","Venstre, Danmarks Liberale Parti",4
+Viborg,12,Møldrup,"V_Kurt_Mosgaard,_Mønsted","Kurt Mosgaard, Mønsted","Venstre, Danmarks Liberale Parti",4
+Viborg,12,Møldrup,"V_Lone_Kastberg,_Møldrup","Lone Kastberg, Møldrup","Venstre, Danmarks Liberale Parti",536
+Viborg,12,Møldrup,"V_Kurt_Johansen,_Ulbjerg","Kurt Johansen, Ulbjerg","Venstre, Danmarks Liberale Parti",11
+Viborg,12,Møldrup,"V_Pia_Viller_Arendt,_Frederiks","Pia Viller Arendt, Frederiks","Venstre, Danmarks Liberale Parti",2
+Viborg,12,Møldrup,"V_Claus_Clausen,_Vroue","Claus Clausen, Vroue","Venstre, Danmarks Liberale Parti",1
+Viborg,12,Møldrup,"V_Åse_Kubel_Høeg,_Viborg","Åse Kubel Høeg, Viborg","Venstre, Danmarks Liberale Parti",4
+Viborg,12,Møldrup,"V_Majbrit_Nørgaard,_Ravnstrup","Majbrit Nørgaard, Ravnstrup","Venstre, Danmarks Liberale Parti",3
+Viborg,12,Møldrup,"V_Johannes_F._Vesterby,_Løvel","Johannes F. Vesterby, Løvel","Venstre, Danmarks Liberale Parti",19
+Viborg,12,Møldrup,"V_Niels_Jørgen_Ottesen,_Bjerringbro","Niels Jørgen Ottesen, Bjerringbro","Venstre, Danmarks Liberale Parti",0
+Viborg,12,Møldrup,"V_Sinna_Maagaard,_Sparkær","Sinna Maagaard, Sparkær","Venstre, Danmarks Liberale Parti",1
+Viborg,12,Møldrup,"V_Michael_Nøhr,_Klejtrup","Michael Nøhr, Klejtrup","Venstre, Danmarks Liberale Parti",369
+Viborg,12,Møldrup,"V_Ole_Kristensen,_Karup","Ole Kristensen, Karup","Venstre, Danmarks Liberale Parti",1
+Viborg,12,Møldrup,"V_Britta_Jarly,_Viborg","Britta Jarly, Viborg","Venstre, Danmarks Liberale Parti",1
+Viborg,12,Møldrup,"V_Katrine_Fusager_Rohde,_Viborg","Katrine Fusager Rohde, Viborg","Venstre, Danmarks Liberale Parti",5
+Viborg,12,Møldrup,"V_Esben_Tøttrup,_Bjerringbro","Esben Tøttrup, Bjerringbro","Venstre, Danmarks Liberale Parti",0
+Viborg,12,Møldrup,Æ_Listestemmer,Listestemmer,Frihedslisten,1
+Viborg,12,Møldrup,"Æ_Jesper_Nørgaard,_Viborg","Jesper Nørgaard, Viborg",Frihedslisten,7
+Viborg,12,Møldrup,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,14
+Viborg,12,Møldrup,Ø_Aksel_Rosager_Johansen,Aksel Rosager Johansen,Enhedslisten - De Rød-Grønne,12
+Viborg,12,Møldrup,Ø_Zahra_Mohamud_Ali,Zahra Mohamud Ali,Enhedslisten - De Rød-Grønne,6
+Viborg,12,Møldrup,Ø_Frederik_Berg_Overgaard,Frederik Berg Overgaard,Enhedslisten - De Rød-Grønne,1
+Viborg,12,Møldrup,Ø_Alfred_Berg_Overgaard,Alfred Berg Overgaard,Enhedslisten - De Rød-Grønne,2
+Viborg,12,Møldrup,Ø_Liz_Dueholm,Liz Dueholm,Enhedslisten - De Rød-Grønne,2
+Viborg,12,Møldrup,Ø_Pernille_Diemar,Pernille Diemar,Enhedslisten - De Rød-Grønne,0
+Viborg,12,Møldrup,Å_Listestemmer,Listestemmer,Alternativet,3
+Viborg,12,Møldrup,"Å_Stine_Isaksen,_Viborg","Stine Isaksen, Viborg",Alternativet,10
+Viborg,12,Møldrup,"Å_Didde_Krabbe_Johannesen,Viborg","Didde Krabbe Johannesen,Viborg",Alternativet,0
+Viborg,12,Møldrup,"Å_Jeppe_Ottow,_Viborg","Jeppe Ottow, Viborg",Alternativet,1
+Viborg,12,Møldrup,"Å_Kirsten_Hindbo,_Viborg","Kirsten Hindbo, Viborg",Alternativet,0
+Viborg,12,Møldrup,"Å_Signe_Sofie_Larsen,_Viborg","Signe Sofie Larsen, Viborg",Alternativet,0
+Viborg,12,Møldrup,"Å_Jens_Boll,_Bjerringbro","Jens Boll, Bjerringbro",Alternativet,1
+Viborg,12,Møldrup,"Å_Børge_H._Jensen,_Viborg","Børge H. Jensen, Viborg",Alternativet,0
+Viborg,12,Møldrup,"Å_Peter_Owen,_Bjerringbro","Peter Owen, Bjerringbro",Alternativet,0
+Viborg,12,Møldrup,"Å_Ole_Utoft,_Hjarbæk","Ole Utoft, Hjarbæk",Alternativet,0
+Viborg,12,Møldrup,"Å_Hayley_Newman,_Viborg","Hayley Newman, Viborg",Alternativet,0
+Viborg,13,Overlund,A_Listestemmer,Listestemmer,Socialdemokratiet,404
+Viborg,13,Overlund,"A_Mads_Panny,_Viborg","Mads Panny, Viborg",Socialdemokratiet,718
+Viborg,13,Overlund,"A_Anders_Bertel,_Frederiks","Anders Bertel, Frederiks",Socialdemokratiet,13
+Viborg,13,Overlund,"A_Bent_Mikkelsen,_Viborg","Bent Mikkelsen, Viborg",Socialdemokratiet,81
+Viborg,13,Overlund,"A_Birgith_B._Langballe,_Stoholm","Birgith B. Langballe, Stoholm",Socialdemokratiet,16
+Viborg,13,Overlund,"A_Birthe_Harritz,_Ørum","Birthe Harritz, Ørum",Socialdemokratiet,19
+Viborg,13,Overlund,"A_Bjarne_Andersen,_Fly","Bjarne Andersen, Fly",Socialdemokratiet,1
+Viborg,13,Overlund,"A_Eva_Pinnerup,_Viborg","Eva Pinnerup, Viborg",Socialdemokratiet,263
+Viborg,13,Overlund,"A_Lars_Greve,_Viborg","Lars Greve, Viborg",Socialdemokratiet,38
+Viborg,13,Overlund,"A_Marianne_Aaris_Andersen,_Viborg","Marianne Aaris Andersen, Viborg",Socialdemokratiet,168
+Viborg,13,Overlund,"A_Martin_Sanderhoff,_Bjerringbro","Martin Sanderhoff, Bjerringbro",Socialdemokratiet,5
+Viborg,13,Overlund,"A_Mette_Nielsen,_Klejtrup","Mette Nielsen, Klejtrup",Socialdemokratiet,78
+Viborg,13,Overlund,"A_Michael_Philip_Poulsen,Bjerringbro","Michael Philip Poulsen,Bjerringbro",Socialdemokratiet,20
+Viborg,13,Overlund,"A_Niels_Dueholm,_Bjerringbro","Niels Dueholm, Bjerringbro",Socialdemokratiet,23
+Viborg,13,Overlund,"A_Steen_Nysom,_Viborg","Steen Nysom, Viborg",Socialdemokratiet,20
+Viborg,13,Overlund,"A_Winnie_Nielsen,_Karup","Winnie Nielsen, Karup",Socialdemokratiet,9
+Viborg,13,Overlund,B_Listestemmer,Listestemmer,Radikale Venstre,49
+Viborg,13,Overlund,B_Lasse_Christiansen,Lasse Christiansen,Radikale Venstre,36
+Viborg,13,Overlund,B_Michael_Flarup,Michael Flarup,Radikale Venstre,30
+Viborg,13,Overlund,B_Jan_Rønne,Jan Rønne,Radikale Venstre,14
+Viborg,13,Overlund,B_Marianne_Tøttrup,Marianne Tøttrup,Radikale Venstre,27
+Viborg,13,Overlund,B_Signe_Driefer,Signe Driefer,Radikale Venstre,13
+Viborg,13,Overlund,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,249
+Viborg,13,Overlund,C_Torsten_Nielsen,Torsten Nielsen,Det Konservative Folkeparti,542
+Viborg,13,Overlund,C_Stine_Damborg,Stine Damborg,Det Konservative Folkeparti,200
+Viborg,13,Overlund,C_Nikolai_Norup,Nikolai Norup,Det Konservative Folkeparti,56
+Viborg,13,Overlund,C_Jakob_Valdemar_Ekberg,Jakob Valdemar Ekberg,Det Konservative Folkeparti,4
+Viborg,13,Overlund,C_Peter_Juhl,Peter Juhl,Det Konservative Folkeparti,38
+Viborg,13,Overlund,C_Simon_Højer,Simon Højer,Det Konservative Folkeparti,42
+Viborg,13,Overlund,C_Claus_Nielsen,Claus Nielsen,Det Konservative Folkeparti,17
+Viborg,13,Overlund,C_Steen_A._Stephansen,Steen A. Stephansen,Det Konservative Folkeparti,4
+Viborg,13,Overlund,C_Lise_Bertelsen,Lise Bertelsen,Det Konservative Folkeparti,174
+Viborg,13,Overlund,C_Asbjørn_Sennels,Asbjørn Sennels,Det Konservative Folkeparti,45
+Viborg,13,Overlund,C_Kenny_Schødt,Kenny Schødt,Det Konservative Folkeparti,7
+Viborg,13,Overlund,C_Kirsten_Holmgaard,Kirsten Holmgaard,Det Konservative Folkeparti,97
+Viborg,13,Overlund,C_Steffen_Drejer,Steffen Drejer,Det Konservative Folkeparti,4
+Viborg,13,Overlund,C_Sofie_Ringgaard_Schøning,Sofie Ringgaard Schøning,Det Konservative Folkeparti,62
+Viborg,13,Overlund,C_Malena_Møller_Mortensen,Malena Møller Mortensen,Det Konservative Folkeparti,39
+Viborg,13,Overlund,C_Trine_Dige,Trine Dige,Det Konservative Folkeparti,17
+Viborg,13,Overlund,C_Peter_Ruby,Peter Ruby,Det Konservative Folkeparti,8
+Viborg,13,Overlund,C_Christian_Kapper,Christian Kapper,Det Konservative Folkeparti,19
+Viborg,13,Overlund,C_Lars_Bøche_Jensen,Lars Bøche Jensen,Det Konservative Folkeparti,3
+Viborg,13,Overlund,C_Ulrik_Praastrup,Ulrik Praastrup,Det Konservative Folkeparti,9
+Viborg,13,Overlund,C_Ida_Gottenborg_Jacobsen,Ida Gottenborg Jacobsen,Det Konservative Folkeparti,1
+Viborg,13,Overlund,C_Nicklas_Verne_Jensen,Nicklas Verne Jensen,Det Konservative Folkeparti,0
+Viborg,13,Overlund,C_Morten_Christensen,Morten Christensen,Det Konservative Folkeparti,2
+Viborg,13,Overlund,C_Poul-Erik_Chortsen,Poul-Erik Chortsen,Det Konservative Folkeparti,3
+Viborg,13,Overlund,C_Lotte_Frandsen,Lotte Frandsen,Det Konservative Folkeparti,7
+Viborg,13,Overlund,C_Allan_Clifford_Christensen,Allan Clifford Christensen,Det Konservative Folkeparti,1
+Viborg,13,Overlund,D_Listestemmer,Listestemmer,Nye Borgerlige,41
+Viborg,13,Overlund,"D_Leo_Nørgaard,_Viborg","Leo Nørgaard, Viborg",Nye Borgerlige,12
+Viborg,13,Overlund,"D_Thomas_Borup_Laursen,_Viborg","Thomas Borup Laursen, Viborg",Nye Borgerlige,16
+Viborg,13,Overlund,"D_Jakob_Svendsen,Vorning","Jakob Svendsen,Vorning",Nye Borgerlige,7
+Viborg,13,Overlund,"D_Mads_C._Prytz,_Rødkærsbro","Mads C. Prytz, Rødkærsbro",Nye Borgerlige,11
+Viborg,13,Overlund,"D_Laust_Nørskov,_Hvam_St.","Laust Nørskov, Hvam St.",Nye Borgerlige,1
+Viborg,13,Overlund,"D_Johan_Emil_Gjermandsen,_Viborg","Johan Emil Gjermandsen, Viborg",Nye Borgerlige,3
+Viborg,13,Overlund,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,130
+Viborg,13,Overlund,"F_Elo_Nielsen,_Skals","Elo Nielsen, Skals",SF - Socialistisk Folkeparti,49
+Viborg,13,Overlund,"F_Mikael_Løvschall,_Kjeldbjerg","Mikael Løvschall, Kjeldbjerg",SF - Socialistisk Folkeparti,7
+Viborg,13,Overlund,"F_Marianne_Gaardsdal,_Viborg","Marianne Gaardsdal, Viborg",SF - Socialistisk Folkeparti,157
+Viborg,13,Overlund,"F_Mads_Georgi,_Viborg","Mads Georgi, Viborg",SF - Socialistisk Folkeparti,39
+Viborg,13,Overlund,"F_Kirsten_Winther_Almind,Bjerringbro","Kirsten Winther Almind,Bjerringbro",SF - Socialistisk Folkeparti,11
+Viborg,13,Overlund,"F_Kasper_Ivanhoe_Terkelsen,_Viborg","Kasper Ivanhoe Terkelsen, Viborg",SF - Socialistisk Folkeparti,13
+Viborg,13,Overlund,"F_Martin_Mølholt,_Viborg","Martin Mølholt, Viborg",SF - Socialistisk Folkeparti,7
+Viborg,13,Overlund,I_Listestemmer,Listestemmer,Liberal Alliance,14
+Viborg,13,Overlund,I_Frederik_Gottenborg_Jacobsen,Frederik Gottenborg Jacobsen,Liberal Alliance,25
+Viborg,13,Overlund,I_Lene_Foged,Lene Foged,Liberal Alliance,16
+Viborg,13,Overlund,I_Bo_Wieck-Hansen,Bo Wieck-Hansen,Liberal Alliance,1
+Viborg,13,Overlund,K_Listestemmer,Listestemmer,Kristendemokraterne,6
+Viborg,13,Overlund,"K_Eva_Kornum,_Skelhøje","Eva Kornum, Skelhøje",Kristendemokraterne,3
+Viborg,13,Overlund,"K_Ghirmai_Berhane,_Rødkærsbro","Ghirmai Berhane, Rødkærsbro",Kristendemokraterne,0
+Viborg,13,Overlund,"K_Hanne_Ellemann_Rytter,_Finderup","Hanne Ellemann Rytter, Finderup",Kristendemokraterne,5
+Viborg,13,Overlund,"K_Ingrid_Bak,_Bjerringbro","Ingrid Bak, Bjerringbro",Kristendemokraterne,7
+Viborg,13,Overlund,"K_Knud_Gaarn-Larsen,_Frederiks","Knud Gaarn-Larsen, Frederiks",Kristendemokraterne,9
+Viborg,13,Overlund,L_Listestemmer,Listestemmer,Lokallisten - Viborg,3
+Viborg,13,Overlund,L_Johnny_F._Andresen,Johnny F. Andresen,Lokallisten - Viborg,4
+Viborg,13,Overlund,O_Listestemmer,Listestemmer,Dansk Folkeparti,39
+Viborg,13,Overlund,"O_Lone_Langballe,_Tjele","Lone Langballe, Tjele",Dansk Folkeparti,82
+Viborg,13,Overlund,"O_Kirsten_Hørdum,_Tjele","Kirsten Hørdum, Tjele",Dansk Folkeparti,4
+Viborg,13,Overlund,"O_Morten_Thaarup,_Viborg","Morten Thaarup, Viborg",Dansk Folkeparti,25
+Viborg,13,Overlund,"O_Anders_Risom,_Tjele","Anders Risom, Tjele",Dansk Folkeparti,3
+Viborg,13,Overlund,"O_Kim_Poulsen,_Tjele","Kim Poulsen, Tjele",Dansk Folkeparti,1
+Viborg,13,Overlund,"O_Jess_Mikkelsen,_Viborg","Jess Mikkelsen, Viborg",Dansk Folkeparti,9
+Viborg,13,Overlund,T_Listestemmer,Listestemmer,Hvad kan gå galt,4
+Viborg,13,Overlund,T_Theis_Bach_Nielsen,Theis Bach Nielsen,Hvad kan gå galt,75
+Viborg,13,Overlund,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",171
+Viborg,13,Overlund,"V_Ulrik_Wilbek,_Viborg","Ulrik Wilbek, Viborg","Venstre, Danmarks Liberale Parti",1781
+Viborg,13,Overlund,"V_Frederik_Houmann_Thuesen,_Overlund","Frederik Houmann Thuesen, Overlund","Venstre, Danmarks Liberale Parti",215
+Viborg,13,Overlund,"V_Jakob_Harritz,_Viborg","Jakob Harritz, Viborg","Venstre, Danmarks Liberale Parti",138
+Viborg,13,Overlund,"V_Anders_Jensen,_Løgstrup","Anders Jensen, Løgstrup","Venstre, Danmarks Liberale Parti",20
+Viborg,13,Overlund,"V_Lars_Mogensen,_Tjele","Lars Mogensen, Tjele","Venstre, Danmarks Liberale Parti",23
+Viborg,13,Overlund,"V_Kim_Dongsgaard,_Rødkærsbro","Kim Dongsgaard, Rødkærsbro","Venstre, Danmarks Liberale Parti",12
+Viborg,13,Overlund,"V_Kurt_Mosgaard,_Mønsted","Kurt Mosgaard, Mønsted","Venstre, Danmarks Liberale Parti",27
+Viborg,13,Overlund,"V_Lone_Kastberg,_Møldrup","Lone Kastberg, Møldrup","Venstre, Danmarks Liberale Parti",9
+Viborg,13,Overlund,"V_Kurt_Johansen,_Ulbjerg","Kurt Johansen, Ulbjerg","Venstre, Danmarks Liberale Parti",5
+Viborg,13,Overlund,"V_Pia_Viller_Arendt,_Frederiks","Pia Viller Arendt, Frederiks","Venstre, Danmarks Liberale Parti",12
+Viborg,13,Overlund,"V_Claus_Clausen,_Vroue","Claus Clausen, Vroue","Venstre, Danmarks Liberale Parti",8
+Viborg,13,Overlund,"V_Åse_Kubel_Høeg,_Viborg","Åse Kubel Høeg, Viborg","Venstre, Danmarks Liberale Parti",78
+Viborg,13,Overlund,"V_Majbrit_Nørgaard,_Ravnstrup","Majbrit Nørgaard, Ravnstrup","Venstre, Danmarks Liberale Parti",28
+Viborg,13,Overlund,"V_Johannes_F._Vesterby,_Løvel","Johannes F. Vesterby, Løvel","Venstre, Danmarks Liberale Parti",38
+Viborg,13,Overlund,"V_Niels_Jørgen_Ottesen,_Bjerringbro","Niels Jørgen Ottesen, Bjerringbro","Venstre, Danmarks Liberale Parti",1
+Viborg,13,Overlund,"V_Sinna_Maagaard,_Sparkær","Sinna Maagaard, Sparkær","Venstre, Danmarks Liberale Parti",5
+Viborg,13,Overlund,"V_Michael_Nøhr,_Klejtrup","Michael Nøhr, Klejtrup","Venstre, Danmarks Liberale Parti",3
+Viborg,13,Overlund,"V_Ole_Kristensen,_Karup","Ole Kristensen, Karup","Venstre, Danmarks Liberale Parti",1
+Viborg,13,Overlund,"V_Britta_Jarly,_Viborg","Britta Jarly, Viborg","Venstre, Danmarks Liberale Parti",11
+Viborg,13,Overlund,"V_Katrine_Fusager_Rohde,_Viborg","Katrine Fusager Rohde, Viborg","Venstre, Danmarks Liberale Parti",193
+Viborg,13,Overlund,"V_Esben_Tøttrup,_Bjerringbro","Esben Tøttrup, Bjerringbro","Venstre, Danmarks Liberale Parti",4
+Viborg,13,Overlund,Æ_Listestemmer,Listestemmer,Frihedslisten,8
+Viborg,13,Overlund,"Æ_Jesper_Nørgaard,_Viborg","Jesper Nørgaard, Viborg",Frihedslisten,35
+Viborg,13,Overlund,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,91
+Viborg,13,Overlund,Ø_Aksel_Rosager_Johansen,Aksel Rosager Johansen,Enhedslisten - De Rød-Grønne,116
+Viborg,13,Overlund,Ø_Zahra_Mohamud_Ali,Zahra Mohamud Ali,Enhedslisten - De Rød-Grønne,33
+Viborg,13,Overlund,Ø_Frederik_Berg_Overgaard,Frederik Berg Overgaard,Enhedslisten - De Rød-Grønne,4
+Viborg,13,Overlund,Ø_Alfred_Berg_Overgaard,Alfred Berg Overgaard,Enhedslisten - De Rød-Grønne,13
+Viborg,13,Overlund,Ø_Liz_Dueholm,Liz Dueholm,Enhedslisten - De Rød-Grønne,15
+Viborg,13,Overlund,Ø_Pernille_Diemar,Pernille Diemar,Enhedslisten - De Rød-Grønne,7
+Viborg,13,Overlund,Å_Listestemmer,Listestemmer,Alternativet,19
+Viborg,13,Overlund,"Å_Stine_Isaksen,_Viborg","Stine Isaksen, Viborg",Alternativet,109
+Viborg,13,Overlund,"Å_Didde_Krabbe_Johannesen,Viborg","Didde Krabbe Johannesen,Viborg",Alternativet,16
+Viborg,13,Overlund,"Å_Jeppe_Ottow,_Viborg","Jeppe Ottow, Viborg",Alternativet,2
+Viborg,13,Overlund,"Å_Kirsten_Hindbo,_Viborg","Kirsten Hindbo, Viborg",Alternativet,9
+Viborg,13,Overlund,"Å_Signe_Sofie_Larsen,_Viborg","Signe Sofie Larsen, Viborg",Alternativet,3
+Viborg,13,Overlund,"Å_Jens_Boll,_Bjerringbro","Jens Boll, Bjerringbro",Alternativet,0
+Viborg,13,Overlund,"Å_Børge_H._Jensen,_Viborg","Børge H. Jensen, Viborg",Alternativet,2
+Viborg,13,Overlund,"Å_Peter_Owen,_Bjerringbro","Peter Owen, Bjerringbro",Alternativet,0
+Viborg,13,Overlund,"Å_Ole_Utoft,_Hjarbæk","Ole Utoft, Hjarbæk",Alternativet,0
+Viborg,13,Overlund,"Å_Hayley_Newman,_Viborg","Hayley Newman, Viborg",Alternativet,4
+Viborg,14,Rødding,A_Listestemmer,Listestemmer,Socialdemokratiet,88
+Viborg,14,Rødding,"A_Mads_Panny,_Viborg","Mads Panny, Viborg",Socialdemokratiet,104
+Viborg,14,Rødding,"A_Anders_Bertel,_Frederiks","Anders Bertel, Frederiks",Socialdemokratiet,3
+Viborg,14,Rødding,"A_Bent_Mikkelsen,_Viborg","Bent Mikkelsen, Viborg",Socialdemokratiet,0
+Viborg,14,Rødding,"A_Birgith_B._Langballe,_Stoholm","Birgith B. Langballe, Stoholm",Socialdemokratiet,7
+Viborg,14,Rødding,"A_Birthe_Harritz,_Ørum","Birthe Harritz, Ørum",Socialdemokratiet,40
+Viborg,14,Rødding,"A_Bjarne_Andersen,_Fly","Bjarne Andersen, Fly",Socialdemokratiet,0
+Viborg,14,Rødding,"A_Eva_Pinnerup,_Viborg","Eva Pinnerup, Viborg",Socialdemokratiet,23
+Viborg,14,Rødding,"A_Lars_Greve,_Viborg","Lars Greve, Viborg",Socialdemokratiet,3
+Viborg,14,Rødding,"A_Marianne_Aaris_Andersen,_Viborg","Marianne Aaris Andersen, Viborg",Socialdemokratiet,12
+Viborg,14,Rødding,"A_Martin_Sanderhoff,_Bjerringbro","Martin Sanderhoff, Bjerringbro",Socialdemokratiet,2
+Viborg,14,Rødding,"A_Mette_Nielsen,_Klejtrup","Mette Nielsen, Klejtrup",Socialdemokratiet,79
+Viborg,14,Rødding,"A_Michael_Philip_Poulsen,Bjerringbro","Michael Philip Poulsen,Bjerringbro",Socialdemokratiet,7
+Viborg,14,Rødding,"A_Niels_Dueholm,_Bjerringbro","Niels Dueholm, Bjerringbro",Socialdemokratiet,5
+Viborg,14,Rødding,"A_Steen_Nysom,_Viborg","Steen Nysom, Viborg",Socialdemokratiet,4
+Viborg,14,Rødding,"A_Winnie_Nielsen,_Karup","Winnie Nielsen, Karup",Socialdemokratiet,1
+Viborg,14,Rødding,B_Listestemmer,Listestemmer,Radikale Venstre,8
+Viborg,14,Rødding,B_Lasse_Christiansen,Lasse Christiansen,Radikale Venstre,7
+Viborg,14,Rødding,B_Michael_Flarup,Michael Flarup,Radikale Venstre,0
+Viborg,14,Rødding,B_Jan_Rønne,Jan Rønne,Radikale Venstre,3
+Viborg,14,Rødding,B_Marianne_Tøttrup,Marianne Tøttrup,Radikale Venstre,6
+Viborg,14,Rødding,B_Signe_Driefer,Signe Driefer,Radikale Venstre,2
+Viborg,14,Rødding,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,61
+Viborg,14,Rødding,C_Torsten_Nielsen,Torsten Nielsen,Det Konservative Folkeparti,108
+Viborg,14,Rødding,C_Stine_Damborg,Stine Damborg,Det Konservative Folkeparti,47
+Viborg,14,Rødding,C_Nikolai_Norup,Nikolai Norup,Det Konservative Folkeparti,9
+Viborg,14,Rødding,C_Jakob_Valdemar_Ekberg,Jakob Valdemar Ekberg,Det Konservative Folkeparti,0
+Viborg,14,Rødding,C_Peter_Juhl,Peter Juhl,Det Konservative Folkeparti,142
+Viborg,14,Rødding,C_Simon_Højer,Simon Højer,Det Konservative Folkeparti,9
+Viborg,14,Rødding,C_Claus_Nielsen,Claus Nielsen,Det Konservative Folkeparti,2
+Viborg,14,Rødding,C_Steen_A._Stephansen,Steen A. Stephansen,Det Konservative Folkeparti,2
+Viborg,14,Rødding,C_Lise_Bertelsen,Lise Bertelsen,Det Konservative Folkeparti,17
+Viborg,14,Rødding,C_Asbjørn_Sennels,Asbjørn Sennels,Det Konservative Folkeparti,5
+Viborg,14,Rødding,C_Kenny_Schødt,Kenny Schødt,Det Konservative Folkeparti,2
+Viborg,14,Rødding,C_Kirsten_Holmgaard,Kirsten Holmgaard,Det Konservative Folkeparti,10
+Viborg,14,Rødding,C_Steffen_Drejer,Steffen Drejer,Det Konservative Folkeparti,1
+Viborg,14,Rødding,C_Sofie_Ringgaard_Schøning,Sofie Ringgaard Schøning,Det Konservative Folkeparti,9
+Viborg,14,Rødding,C_Malena_Møller_Mortensen,Malena Møller Mortensen,Det Konservative Folkeparti,6
+Viborg,14,Rødding,C_Trine_Dige,Trine Dige,Det Konservative Folkeparti,2
+Viborg,14,Rødding,C_Peter_Ruby,Peter Ruby,Det Konservative Folkeparti,3
+Viborg,14,Rødding,C_Christian_Kapper,Christian Kapper,Det Konservative Folkeparti,1
+Viborg,14,Rødding,C_Lars_Bøche_Jensen,Lars Bøche Jensen,Det Konservative Folkeparti,0
+Viborg,14,Rødding,C_Ulrik_Praastrup,Ulrik Praastrup,Det Konservative Folkeparti,0
+Viborg,14,Rødding,C_Ida_Gottenborg_Jacobsen,Ida Gottenborg Jacobsen,Det Konservative Folkeparti,1
+Viborg,14,Rødding,C_Nicklas_Verne_Jensen,Nicklas Verne Jensen,Det Konservative Folkeparti,0
+Viborg,14,Rødding,C_Morten_Christensen,Morten Christensen,Det Konservative Folkeparti,1
+Viborg,14,Rødding,C_Poul-Erik_Chortsen,Poul-Erik Chortsen,Det Konservative Folkeparti,0
+Viborg,14,Rødding,C_Lotte_Frandsen,Lotte Frandsen,Det Konservative Folkeparti,2
+Viborg,14,Rødding,C_Allan_Clifford_Christensen,Allan Clifford Christensen,Det Konservative Folkeparti,0
+Viborg,14,Rødding,D_Listestemmer,Listestemmer,Nye Borgerlige,29
+Viborg,14,Rødding,"D_Leo_Nørgaard,_Viborg","Leo Nørgaard, Viborg",Nye Borgerlige,6
+Viborg,14,Rødding,"D_Thomas_Borup_Laursen,_Viborg","Thomas Borup Laursen, Viborg",Nye Borgerlige,2
+Viborg,14,Rødding,"D_Jakob_Svendsen,Vorning","Jakob Svendsen,Vorning",Nye Borgerlige,10
+Viborg,14,Rødding,"D_Mads_C._Prytz,_Rødkærsbro","Mads C. Prytz, Rødkærsbro",Nye Borgerlige,3
+Viborg,14,Rødding,"D_Laust_Nørskov,_Hvam_St.","Laust Nørskov, Hvam St.",Nye Borgerlige,0
+Viborg,14,Rødding,"D_Johan_Emil_Gjermandsen,_Viborg","Johan Emil Gjermandsen, Viborg",Nye Borgerlige,2
+Viborg,14,Rødding,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,23
+Viborg,14,Rødding,"F_Elo_Nielsen,_Skals","Elo Nielsen, Skals",SF - Socialistisk Folkeparti,25
+Viborg,14,Rødding,"F_Mikael_Løvschall,_Kjeldbjerg","Mikael Løvschall, Kjeldbjerg",SF - Socialistisk Folkeparti,5
+Viborg,14,Rødding,"F_Marianne_Gaardsdal,_Viborg","Marianne Gaardsdal, Viborg",SF - Socialistisk Folkeparti,32
+Viborg,14,Rødding,"F_Mads_Georgi,_Viborg","Mads Georgi, Viborg",SF - Socialistisk Folkeparti,6
+Viborg,14,Rødding,"F_Kirsten_Winther_Almind,Bjerringbro","Kirsten Winther Almind,Bjerringbro",SF - Socialistisk Folkeparti,4
+Viborg,14,Rødding,"F_Kasper_Ivanhoe_Terkelsen,_Viborg","Kasper Ivanhoe Terkelsen, Viborg",SF - Socialistisk Folkeparti,6
+Viborg,14,Rødding,"F_Martin_Mølholt,_Viborg","Martin Mølholt, Viborg",SF - Socialistisk Folkeparti,1
+Viborg,14,Rødding,I_Listestemmer,Listestemmer,Liberal Alliance,3
+Viborg,14,Rødding,I_Frederik_Gottenborg_Jacobsen,Frederik Gottenborg Jacobsen,Liberal Alliance,3
+Viborg,14,Rødding,I_Lene_Foged,Lene Foged,Liberal Alliance,14
+Viborg,14,Rødding,I_Bo_Wieck-Hansen,Bo Wieck-Hansen,Liberal Alliance,1
+Viborg,14,Rødding,K_Listestemmer,Listestemmer,Kristendemokraterne,5
+Viborg,14,Rødding,"K_Eva_Kornum,_Skelhøje","Eva Kornum, Skelhøje",Kristendemokraterne,1
+Viborg,14,Rødding,"K_Ghirmai_Berhane,_Rødkærsbro","Ghirmai Berhane, Rødkærsbro",Kristendemokraterne,1
+Viborg,14,Rødding,"K_Hanne_Ellemann_Rytter,_Finderup","Hanne Ellemann Rytter, Finderup",Kristendemokraterne,2
+Viborg,14,Rødding,"K_Ingrid_Bak,_Bjerringbro","Ingrid Bak, Bjerringbro",Kristendemokraterne,1
+Viborg,14,Rødding,"K_Knud_Gaarn-Larsen,_Frederiks","Knud Gaarn-Larsen, Frederiks",Kristendemokraterne,2
+Viborg,14,Rødding,L_Listestemmer,Listestemmer,Lokallisten - Viborg,0
+Viborg,14,Rødding,L_Johnny_F._Andresen,Johnny F. Andresen,Lokallisten - Viborg,2
+Viborg,14,Rødding,O_Listestemmer,Listestemmer,Dansk Folkeparti,19
+Viborg,14,Rødding,"O_Lone_Langballe,_Tjele","Lone Langballe, Tjele",Dansk Folkeparti,32
+Viborg,14,Rødding,"O_Kirsten_Hørdum,_Tjele","Kirsten Hørdum, Tjele",Dansk Folkeparti,4
+Viborg,14,Rødding,"O_Morten_Thaarup,_Viborg","Morten Thaarup, Viborg",Dansk Folkeparti,6
+Viborg,14,Rødding,"O_Anders_Risom,_Tjele","Anders Risom, Tjele",Dansk Folkeparti,2
+Viborg,14,Rødding,"O_Kim_Poulsen,_Tjele","Kim Poulsen, Tjele",Dansk Folkeparti,3
+Viborg,14,Rødding,"O_Jess_Mikkelsen,_Viborg","Jess Mikkelsen, Viborg",Dansk Folkeparti,4
+Viborg,14,Rødding,T_Listestemmer,Listestemmer,Hvad kan gå galt,1
+Viborg,14,Rødding,T_Theis_Bach_Nielsen,Theis Bach Nielsen,Hvad kan gå galt,12
+Viborg,14,Rødding,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",37
+Viborg,14,Rødding,"V_Ulrik_Wilbek,_Viborg","Ulrik Wilbek, Viborg","Venstre, Danmarks Liberale Parti",213
+Viborg,14,Rødding,"V_Frederik_Houmann_Thuesen,_Overlund","Frederik Houmann Thuesen, Overlund","Venstre, Danmarks Liberale Parti",12
+Viborg,14,Rødding,"V_Jakob_Harritz,_Viborg","Jakob Harritz, Viborg","Venstre, Danmarks Liberale Parti",5
+Viborg,14,Rødding,"V_Anders_Jensen,_Løgstrup","Anders Jensen, Løgstrup","Venstre, Danmarks Liberale Parti",6
+Viborg,14,Rødding,"V_Lars_Mogensen,_Tjele","Lars Mogensen, Tjele","Venstre, Danmarks Liberale Parti",170
+Viborg,14,Rødding,"V_Kim_Dongsgaard,_Rødkærsbro","Kim Dongsgaard, Rødkærsbro","Venstre, Danmarks Liberale Parti",2
+Viborg,14,Rødding,"V_Kurt_Mosgaard,_Mønsted","Kurt Mosgaard, Mønsted","Venstre, Danmarks Liberale Parti",2
+Viborg,14,Rødding,"V_Lone_Kastberg,_Møldrup","Lone Kastberg, Møldrup","Venstre, Danmarks Liberale Parti",4
+Viborg,14,Rødding,"V_Kurt_Johansen,_Ulbjerg","Kurt Johansen, Ulbjerg","Venstre, Danmarks Liberale Parti",4
+Viborg,14,Rødding,"V_Pia_Viller_Arendt,_Frederiks","Pia Viller Arendt, Frederiks","Venstre, Danmarks Liberale Parti",0
+Viborg,14,Rødding,"V_Claus_Clausen,_Vroue","Claus Clausen, Vroue","Venstre, Danmarks Liberale Parti",0
+Viborg,14,Rødding,"V_Åse_Kubel_Høeg,_Viborg","Åse Kubel Høeg, Viborg","Venstre, Danmarks Liberale Parti",6
+Viborg,14,Rødding,"V_Majbrit_Nørgaard,_Ravnstrup","Majbrit Nørgaard, Ravnstrup","Venstre, Danmarks Liberale Parti",5
+Viborg,14,Rødding,"V_Johannes_F._Vesterby,_Løvel","Johannes F. Vesterby, Løvel","Venstre, Danmarks Liberale Parti",288
+Viborg,14,Rødding,"V_Niels_Jørgen_Ottesen,_Bjerringbro","Niels Jørgen Ottesen, Bjerringbro","Venstre, Danmarks Liberale Parti",1
+Viborg,14,Rødding,"V_Sinna_Maagaard,_Sparkær","Sinna Maagaard, Sparkær","Venstre, Danmarks Liberale Parti",1
+Viborg,14,Rødding,"V_Michael_Nøhr,_Klejtrup","Michael Nøhr, Klejtrup","Venstre, Danmarks Liberale Parti",4
+Viborg,14,Rødding,"V_Ole_Kristensen,_Karup","Ole Kristensen, Karup","Venstre, Danmarks Liberale Parti",0
+Viborg,14,Rødding,"V_Britta_Jarly,_Viborg","Britta Jarly, Viborg","Venstre, Danmarks Liberale Parti",3
+Viborg,14,Rødding,"V_Katrine_Fusager_Rohde,_Viborg","Katrine Fusager Rohde, Viborg","Venstre, Danmarks Liberale Parti",21
+Viborg,14,Rødding,"V_Esben_Tøttrup,_Bjerringbro","Esben Tøttrup, Bjerringbro","Venstre, Danmarks Liberale Parti",0
+Viborg,14,Rødding,Æ_Listestemmer,Listestemmer,Frihedslisten,2
+Viborg,14,Rødding,"Æ_Jesper_Nørgaard,_Viborg","Jesper Nørgaard, Viborg",Frihedslisten,3
+Viborg,14,Rødding,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,21
+Viborg,14,Rødding,Ø_Aksel_Rosager_Johansen,Aksel Rosager Johansen,Enhedslisten - De Rød-Grønne,18
+Viborg,14,Rødding,Ø_Zahra_Mohamud_Ali,Zahra Mohamud Ali,Enhedslisten - De Rød-Grønne,5
+Viborg,14,Rødding,Ø_Frederik_Berg_Overgaard,Frederik Berg Overgaard,Enhedslisten - De Rød-Grønne,6
+Viborg,14,Rødding,Ø_Alfred_Berg_Overgaard,Alfred Berg Overgaard,Enhedslisten - De Rød-Grønne,5
+Viborg,14,Rødding,Ø_Liz_Dueholm,Liz Dueholm,Enhedslisten - De Rød-Grønne,1
+Viborg,14,Rødding,Ø_Pernille_Diemar,Pernille Diemar,Enhedslisten - De Rød-Grønne,3
+Viborg,14,Rødding,Å_Listestemmer,Listestemmer,Alternativet,6
+Viborg,14,Rødding,"Å_Stine_Isaksen,_Viborg","Stine Isaksen, Viborg",Alternativet,33
+Viborg,14,Rødding,"Å_Didde_Krabbe_Johannesen,Viborg","Didde Krabbe Johannesen,Viborg",Alternativet,4
+Viborg,14,Rødding,"Å_Jeppe_Ottow,_Viborg","Jeppe Ottow, Viborg",Alternativet,0
+Viborg,14,Rødding,"Å_Kirsten_Hindbo,_Viborg","Kirsten Hindbo, Viborg",Alternativet,2
+Viborg,14,Rødding,"Å_Signe_Sofie_Larsen,_Viborg","Signe Sofie Larsen, Viborg",Alternativet,1
+Viborg,14,Rødding,"Å_Jens_Boll,_Bjerringbro","Jens Boll, Bjerringbro",Alternativet,0
+Viborg,14,Rødding,"Å_Børge_H._Jensen,_Viborg","Børge H. Jensen, Viborg",Alternativet,0
+Viborg,14,Rødding,"Å_Peter_Owen,_Bjerringbro","Peter Owen, Bjerringbro",Alternativet,0
+Viborg,14,Rødding,"Å_Ole_Utoft,_Hjarbæk","Ole Utoft, Hjarbæk",Alternativet,0
+Viborg,14,Rødding,"Å_Hayley_Newman,_Viborg","Hayley Newman, Viborg",Alternativet,1
+Viborg,15,Rødkærsbro,A_Listestemmer,Listestemmer,Socialdemokratiet,75
+Viborg,15,Rødkærsbro,"A_Mads_Panny,_Viborg","Mads Panny, Viborg",Socialdemokratiet,54
+Viborg,15,Rødkærsbro,"A_Anders_Bertel,_Frederiks","Anders Bertel, Frederiks",Socialdemokratiet,1
+Viborg,15,Rødkærsbro,"A_Bent_Mikkelsen,_Viborg","Bent Mikkelsen, Viborg",Socialdemokratiet,6
+Viborg,15,Rødkærsbro,"A_Birgith_B._Langballe,_Stoholm","Birgith B. Langballe, Stoholm",Socialdemokratiet,5
+Viborg,15,Rødkærsbro,"A_Birthe_Harritz,_Ørum","Birthe Harritz, Ørum",Socialdemokratiet,2
+Viborg,15,Rødkærsbro,"A_Bjarne_Andersen,_Fly","Bjarne Andersen, Fly",Socialdemokratiet,1
+Viborg,15,Rødkærsbro,"A_Eva_Pinnerup,_Viborg","Eva Pinnerup, Viborg",Socialdemokratiet,11
+Viborg,15,Rødkærsbro,"A_Lars_Greve,_Viborg","Lars Greve, Viborg",Socialdemokratiet,5
+Viborg,15,Rødkærsbro,"A_Marianne_Aaris_Andersen,_Viborg","Marianne Aaris Andersen, Viborg",Socialdemokratiet,13
+Viborg,15,Rødkærsbro,"A_Martin_Sanderhoff,_Bjerringbro","Martin Sanderhoff, Bjerringbro",Socialdemokratiet,61
+Viborg,15,Rødkærsbro,"A_Mette_Nielsen,_Klejtrup","Mette Nielsen, Klejtrup",Socialdemokratiet,6
+Viborg,15,Rødkærsbro,"A_Michael_Philip_Poulsen,Bjerringbro","Michael Philip Poulsen,Bjerringbro",Socialdemokratiet,21
+Viborg,15,Rødkærsbro,"A_Niels_Dueholm,_Bjerringbro","Niels Dueholm, Bjerringbro",Socialdemokratiet,38
+Viborg,15,Rødkærsbro,"A_Steen_Nysom,_Viborg","Steen Nysom, Viborg",Socialdemokratiet,1
+Viborg,15,Rødkærsbro,"A_Winnie_Nielsen,_Karup","Winnie Nielsen, Karup",Socialdemokratiet,2
+Viborg,15,Rødkærsbro,B_Listestemmer,Listestemmer,Radikale Venstre,6
+Viborg,15,Rødkærsbro,B_Lasse_Christiansen,Lasse Christiansen,Radikale Venstre,2
+Viborg,15,Rødkærsbro,B_Michael_Flarup,Michael Flarup,Radikale Venstre,4
+Viborg,15,Rødkærsbro,B_Jan_Rønne,Jan Rønne,Radikale Venstre,2
+Viborg,15,Rødkærsbro,B_Marianne_Tøttrup,Marianne Tøttrup,Radikale Venstre,1
+Viborg,15,Rødkærsbro,B_Signe_Driefer,Signe Driefer,Radikale Venstre,2
+Viborg,15,Rødkærsbro,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,42
+Viborg,15,Rødkærsbro,C_Torsten_Nielsen,Torsten Nielsen,Det Konservative Folkeparti,96
+Viborg,15,Rødkærsbro,C_Stine_Damborg,Stine Damborg,Det Konservative Folkeparti,28
+Viborg,15,Rødkærsbro,C_Nikolai_Norup,Nikolai Norup,Det Konservative Folkeparti,3
+Viborg,15,Rødkærsbro,C_Jakob_Valdemar_Ekberg,Jakob Valdemar Ekberg,Det Konservative Folkeparti,6
+Viborg,15,Rødkærsbro,C_Peter_Juhl,Peter Juhl,Det Konservative Folkeparti,3
+Viborg,15,Rødkærsbro,C_Simon_Højer,Simon Højer,Det Konservative Folkeparti,7
+Viborg,15,Rødkærsbro,C_Claus_Nielsen,Claus Nielsen,Det Konservative Folkeparti,0
+Viborg,15,Rødkærsbro,C_Steen_A._Stephansen,Steen A. Stephansen,Det Konservative Folkeparti,6
+Viborg,15,Rødkærsbro,C_Lise_Bertelsen,Lise Bertelsen,Det Konservative Folkeparti,8
+Viborg,15,Rødkærsbro,C_Asbjørn_Sennels,Asbjørn Sennels,Det Konservative Folkeparti,4
+Viborg,15,Rødkærsbro,C_Kenny_Schødt,Kenny Schødt,Det Konservative Folkeparti,0
+Viborg,15,Rødkærsbro,C_Kirsten_Holmgaard,Kirsten Holmgaard,Det Konservative Folkeparti,3
+Viborg,15,Rødkærsbro,C_Steffen_Drejer,Steffen Drejer,Det Konservative Folkeparti,45
+Viborg,15,Rødkærsbro,C_Sofie_Ringgaard_Schøning,Sofie Ringgaard Schøning,Det Konservative Folkeparti,1
+Viborg,15,Rødkærsbro,C_Malena_Møller_Mortensen,Malena Møller Mortensen,Det Konservative Folkeparti,24
+Viborg,15,Rødkærsbro,C_Trine_Dige,Trine Dige,Det Konservative Folkeparti,0
+Viborg,15,Rødkærsbro,C_Peter_Ruby,Peter Ruby,Det Konservative Folkeparti,0
+Viborg,15,Rødkærsbro,C_Christian_Kapper,Christian Kapper,Det Konservative Folkeparti,1
+Viborg,15,Rødkærsbro,C_Lars_Bøche_Jensen,Lars Bøche Jensen,Det Konservative Folkeparti,0
+Viborg,15,Rødkærsbro,C_Ulrik_Praastrup,Ulrik Praastrup,Det Konservative Folkeparti,0
+Viborg,15,Rødkærsbro,C_Ida_Gottenborg_Jacobsen,Ida Gottenborg Jacobsen,Det Konservative Folkeparti,1
+Viborg,15,Rødkærsbro,C_Nicklas_Verne_Jensen,Nicklas Verne Jensen,Det Konservative Folkeparti,0
+Viborg,15,Rødkærsbro,C_Morten_Christensen,Morten Christensen,Det Konservative Folkeparti,0
+Viborg,15,Rødkærsbro,C_Poul-Erik_Chortsen,Poul-Erik Chortsen,Det Konservative Folkeparti,0
+Viborg,15,Rødkærsbro,C_Lotte_Frandsen,Lotte Frandsen,Det Konservative Folkeparti,3
+Viborg,15,Rødkærsbro,C_Allan_Clifford_Christensen,Allan Clifford Christensen,Det Konservative Folkeparti,0
+Viborg,15,Rødkærsbro,D_Listestemmer,Listestemmer,Nye Borgerlige,28
+Viborg,15,Rødkærsbro,"D_Leo_Nørgaard,_Viborg","Leo Nørgaard, Viborg",Nye Borgerlige,5
+Viborg,15,Rødkærsbro,"D_Thomas_Borup_Laursen,_Viborg","Thomas Borup Laursen, Viborg",Nye Borgerlige,4
+Viborg,15,Rødkærsbro,"D_Jakob_Svendsen,Vorning","Jakob Svendsen,Vorning",Nye Borgerlige,3
+Viborg,15,Rødkærsbro,"D_Mads_C._Prytz,_Rødkærsbro","Mads C. Prytz, Rødkærsbro",Nye Borgerlige,43
+Viborg,15,Rødkærsbro,"D_Laust_Nørskov,_Hvam_St.","Laust Nørskov, Hvam St.",Nye Borgerlige,1
+Viborg,15,Rødkærsbro,"D_Johan_Emil_Gjermandsen,_Viborg","Johan Emil Gjermandsen, Viborg",Nye Borgerlige,0
+Viborg,15,Rødkærsbro,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,20
+Viborg,15,Rødkærsbro,"F_Elo_Nielsen,_Skals","Elo Nielsen, Skals",SF - Socialistisk Folkeparti,6
+Viborg,15,Rødkærsbro,"F_Mikael_Løvschall,_Kjeldbjerg","Mikael Løvschall, Kjeldbjerg",SF - Socialistisk Folkeparti,1
+Viborg,15,Rødkærsbro,"F_Marianne_Gaardsdal,_Viborg","Marianne Gaardsdal, Viborg",SF - Socialistisk Folkeparti,14
+Viborg,15,Rødkærsbro,"F_Mads_Georgi,_Viborg","Mads Georgi, Viborg",SF - Socialistisk Folkeparti,11
+Viborg,15,Rødkærsbro,"F_Kirsten_Winther_Almind,Bjerringbro","Kirsten Winther Almind,Bjerringbro",SF - Socialistisk Folkeparti,9
+Viborg,15,Rødkærsbro,"F_Kasper_Ivanhoe_Terkelsen,_Viborg","Kasper Ivanhoe Terkelsen, Viborg",SF - Socialistisk Folkeparti,2
+Viborg,15,Rødkærsbro,"F_Martin_Mølholt,_Viborg","Martin Mølholt, Viborg",SF - Socialistisk Folkeparti,1
+Viborg,15,Rødkærsbro,I_Listestemmer,Listestemmer,Liberal Alliance,5
+Viborg,15,Rødkærsbro,I_Frederik_Gottenborg_Jacobsen,Frederik Gottenborg Jacobsen,Liberal Alliance,2
+Viborg,15,Rødkærsbro,I_Lene_Foged,Lene Foged,Liberal Alliance,3
+Viborg,15,Rødkærsbro,I_Bo_Wieck-Hansen,Bo Wieck-Hansen,Liberal Alliance,0
+Viborg,15,Rødkærsbro,K_Listestemmer,Listestemmer,Kristendemokraterne,13
+Viborg,15,Rødkærsbro,"K_Eva_Kornum,_Skelhøje","Eva Kornum, Skelhøje",Kristendemokraterne,2
+Viborg,15,Rødkærsbro,"K_Ghirmai_Berhane,_Rødkærsbro","Ghirmai Berhane, Rødkærsbro",Kristendemokraterne,21
+Viborg,15,Rødkærsbro,"K_Hanne_Ellemann_Rytter,_Finderup","Hanne Ellemann Rytter, Finderup",Kristendemokraterne,0
+Viborg,15,Rødkærsbro,"K_Ingrid_Bak,_Bjerringbro","Ingrid Bak, Bjerringbro",Kristendemokraterne,17
+Viborg,15,Rødkærsbro,"K_Knud_Gaarn-Larsen,_Frederiks","Knud Gaarn-Larsen, Frederiks",Kristendemokraterne,4
+Viborg,15,Rødkærsbro,L_Listestemmer,Listestemmer,Lokallisten - Viborg,0
+Viborg,15,Rødkærsbro,L_Johnny_F._Andresen,Johnny F. Andresen,Lokallisten - Viborg,0
+Viborg,15,Rødkærsbro,O_Listestemmer,Listestemmer,Dansk Folkeparti,21
+Viborg,15,Rødkærsbro,"O_Lone_Langballe,_Tjele","Lone Langballe, Tjele",Dansk Folkeparti,27
+Viborg,15,Rødkærsbro,"O_Kirsten_Hørdum,_Tjele","Kirsten Hørdum, Tjele",Dansk Folkeparti,3
+Viborg,15,Rødkærsbro,"O_Morten_Thaarup,_Viborg","Morten Thaarup, Viborg",Dansk Folkeparti,5
+Viborg,15,Rødkærsbro,"O_Anders_Risom,_Tjele","Anders Risom, Tjele",Dansk Folkeparti,3
+Viborg,15,Rødkærsbro,"O_Kim_Poulsen,_Tjele","Kim Poulsen, Tjele",Dansk Folkeparti,0
+Viborg,15,Rødkærsbro,"O_Jess_Mikkelsen,_Viborg","Jess Mikkelsen, Viborg",Dansk Folkeparti,3
+Viborg,15,Rødkærsbro,T_Listestemmer,Listestemmer,Hvad kan gå galt,1
+Viborg,15,Rødkærsbro,T_Theis_Bach_Nielsen,Theis Bach Nielsen,Hvad kan gå galt,12
+Viborg,15,Rødkærsbro,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",20
+Viborg,15,Rødkærsbro,"V_Ulrik_Wilbek,_Viborg","Ulrik Wilbek, Viborg","Venstre, Danmarks Liberale Parti",179
+Viborg,15,Rødkærsbro,"V_Frederik_Houmann_Thuesen,_Overlund","Frederik Houmann Thuesen, Overlund","Venstre, Danmarks Liberale Parti",3
+Viborg,15,Rødkærsbro,"V_Jakob_Harritz,_Viborg","Jakob Harritz, Viborg","Venstre, Danmarks Liberale Parti",2
+Viborg,15,Rødkærsbro,"V_Anders_Jensen,_Løgstrup","Anders Jensen, Løgstrup","Venstre, Danmarks Liberale Parti",0
+Viborg,15,Rødkærsbro,"V_Lars_Mogensen,_Tjele","Lars Mogensen, Tjele","Venstre, Danmarks Liberale Parti",4
+Viborg,15,Rødkærsbro,"V_Kim_Dongsgaard,_Rødkærsbro","Kim Dongsgaard, Rødkærsbro","Venstre, Danmarks Liberale Parti",569
+Viborg,15,Rødkærsbro,"V_Kurt_Mosgaard,_Mønsted","Kurt Mosgaard, Mønsted","Venstre, Danmarks Liberale Parti",0
+Viborg,15,Rødkærsbro,"V_Lone_Kastberg,_Møldrup","Lone Kastberg, Møldrup","Venstre, Danmarks Liberale Parti",3
+Viborg,15,Rødkærsbro,"V_Kurt_Johansen,_Ulbjerg","Kurt Johansen, Ulbjerg","Venstre, Danmarks Liberale Parti",0
+Viborg,15,Rødkærsbro,"V_Pia_Viller_Arendt,_Frederiks","Pia Viller Arendt, Frederiks","Venstre, Danmarks Liberale Parti",1
+Viborg,15,Rødkærsbro,"V_Claus_Clausen,_Vroue","Claus Clausen, Vroue","Venstre, Danmarks Liberale Parti",1
+Viborg,15,Rødkærsbro,"V_Åse_Kubel_Høeg,_Viborg","Åse Kubel Høeg, Viborg","Venstre, Danmarks Liberale Parti",3
+Viborg,15,Rødkærsbro,"V_Majbrit_Nørgaard,_Ravnstrup","Majbrit Nørgaard, Ravnstrup","Venstre, Danmarks Liberale Parti",0
+Viborg,15,Rødkærsbro,"V_Johannes_F._Vesterby,_Løvel","Johannes F. Vesterby, Løvel","Venstre, Danmarks Liberale Parti",6
+Viborg,15,Rødkærsbro,"V_Niels_Jørgen_Ottesen,_Bjerringbro","Niels Jørgen Ottesen, Bjerringbro","Venstre, Danmarks Liberale Parti",26
+Viborg,15,Rødkærsbro,"V_Sinna_Maagaard,_Sparkær","Sinna Maagaard, Sparkær","Venstre, Danmarks Liberale Parti",1
+Viborg,15,Rødkærsbro,"V_Michael_Nøhr,_Klejtrup","Michael Nøhr, Klejtrup","Venstre, Danmarks Liberale Parti",0
+Viborg,15,Rødkærsbro,"V_Ole_Kristensen,_Karup","Ole Kristensen, Karup","Venstre, Danmarks Liberale Parti",0
+Viborg,15,Rødkærsbro,"V_Britta_Jarly,_Viborg","Britta Jarly, Viborg","Venstre, Danmarks Liberale Parti",1
+Viborg,15,Rødkærsbro,"V_Katrine_Fusager_Rohde,_Viborg","Katrine Fusager Rohde, Viborg","Venstre, Danmarks Liberale Parti",5
+Viborg,15,Rødkærsbro,"V_Esben_Tøttrup,_Bjerringbro","Esben Tøttrup, Bjerringbro","Venstre, Danmarks Liberale Parti",16
+Viborg,15,Rødkærsbro,Æ_Listestemmer,Listestemmer,Frihedslisten,2
+Viborg,15,Rødkærsbro,"Æ_Jesper_Nørgaard,_Viborg","Jesper Nørgaard, Viborg",Frihedslisten,5
+Viborg,15,Rødkærsbro,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,22
+Viborg,15,Rødkærsbro,Ø_Aksel_Rosager_Johansen,Aksel Rosager Johansen,Enhedslisten - De Rød-Grønne,8
+Viborg,15,Rødkærsbro,Ø_Zahra_Mohamud_Ali,Zahra Mohamud Ali,Enhedslisten - De Rød-Grønne,5
+Viborg,15,Rødkærsbro,Ø_Frederik_Berg_Overgaard,Frederik Berg Overgaard,Enhedslisten - De Rød-Grønne,1
+Viborg,15,Rødkærsbro,Ø_Alfred_Berg_Overgaard,Alfred Berg Overgaard,Enhedslisten - De Rød-Grønne,0
+Viborg,15,Rødkærsbro,Ø_Liz_Dueholm,Liz Dueholm,Enhedslisten - De Rød-Grønne,4
+Viborg,15,Rødkærsbro,Ø_Pernille_Diemar,Pernille Diemar,Enhedslisten - De Rød-Grønne,1
+Viborg,15,Rødkærsbro,Å_Listestemmer,Listestemmer,Alternativet,4
+Viborg,15,Rødkærsbro,"Å_Stine_Isaksen,_Viborg","Stine Isaksen, Viborg",Alternativet,17
+Viborg,15,Rødkærsbro,"Å_Didde_Krabbe_Johannesen,Viborg","Didde Krabbe Johannesen,Viborg",Alternativet,1
+Viborg,15,Rødkærsbro,"Å_Jeppe_Ottow,_Viborg","Jeppe Ottow, Viborg",Alternativet,1
+Viborg,15,Rødkærsbro,"Å_Kirsten_Hindbo,_Viborg","Kirsten Hindbo, Viborg",Alternativet,0
+Viborg,15,Rødkærsbro,"Å_Signe_Sofie_Larsen,_Viborg","Signe Sofie Larsen, Viborg",Alternativet,1
+Viborg,15,Rødkærsbro,"Å_Jens_Boll,_Bjerringbro","Jens Boll, Bjerringbro",Alternativet,2
+Viborg,15,Rødkærsbro,"Å_Børge_H._Jensen,_Viborg","Børge H. Jensen, Viborg",Alternativet,0
+Viborg,15,Rødkærsbro,"Å_Peter_Owen,_Bjerringbro","Peter Owen, Bjerringbro",Alternativet,1
+Viborg,15,Rødkærsbro,"Å_Ole_Utoft,_Hjarbæk","Ole Utoft, Hjarbæk",Alternativet,0
+Viborg,15,Rødkærsbro,"Å_Hayley_Newman,_Viborg","Hayley Newman, Viborg",Alternativet,1
+Viborg,16,Skals,A_Listestemmer,Listestemmer,Socialdemokratiet,61
+Viborg,16,Skals,"A_Mads_Panny,_Viborg","Mads Panny, Viborg",Socialdemokratiet,63
+Viborg,16,Skals,"A_Anders_Bertel,_Frederiks","Anders Bertel, Frederiks",Socialdemokratiet,3
+Viborg,16,Skals,"A_Bent_Mikkelsen,_Viborg","Bent Mikkelsen, Viborg",Socialdemokratiet,4
+Viborg,16,Skals,"A_Birgith_B._Langballe,_Stoholm","Birgith B. Langballe, Stoholm",Socialdemokratiet,3
+Viborg,16,Skals,"A_Birthe_Harritz,_Ørum","Birthe Harritz, Ørum",Socialdemokratiet,4
+Viborg,16,Skals,"A_Bjarne_Andersen,_Fly","Bjarne Andersen, Fly",Socialdemokratiet,0
+Viborg,16,Skals,"A_Eva_Pinnerup,_Viborg","Eva Pinnerup, Viborg",Socialdemokratiet,16
+Viborg,16,Skals,"A_Lars_Greve,_Viborg","Lars Greve, Viborg",Socialdemokratiet,7
+Viborg,16,Skals,"A_Marianne_Aaris_Andersen,_Viborg","Marianne Aaris Andersen, Viborg",Socialdemokratiet,7
+Viborg,16,Skals,"A_Martin_Sanderhoff,_Bjerringbro","Martin Sanderhoff, Bjerringbro",Socialdemokratiet,1
+Viborg,16,Skals,"A_Mette_Nielsen,_Klejtrup","Mette Nielsen, Klejtrup",Socialdemokratiet,213
+Viborg,16,Skals,"A_Michael_Philip_Poulsen,Bjerringbro","Michael Philip Poulsen,Bjerringbro",Socialdemokratiet,7
+Viborg,16,Skals,"A_Niels_Dueholm,_Bjerringbro","Niels Dueholm, Bjerringbro",Socialdemokratiet,0
+Viborg,16,Skals,"A_Steen_Nysom,_Viborg","Steen Nysom, Viborg",Socialdemokratiet,0
+Viborg,16,Skals,"A_Winnie_Nielsen,_Karup","Winnie Nielsen, Karup",Socialdemokratiet,0
+Viborg,16,Skals,B_Listestemmer,Listestemmer,Radikale Venstre,2
+Viborg,16,Skals,B_Lasse_Christiansen,Lasse Christiansen,Radikale Venstre,6
+Viborg,16,Skals,B_Michael_Flarup,Michael Flarup,Radikale Venstre,1
+Viborg,16,Skals,B_Jan_Rønne,Jan Rønne,Radikale Venstre,2
+Viborg,16,Skals,B_Marianne_Tøttrup,Marianne Tøttrup,Radikale Venstre,1
+Viborg,16,Skals,B_Signe_Driefer,Signe Driefer,Radikale Venstre,4
+Viborg,16,Skals,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,58
+Viborg,16,Skals,C_Torsten_Nielsen,Torsten Nielsen,Det Konservative Folkeparti,125
+Viborg,16,Skals,C_Stine_Damborg,Stine Damborg,Det Konservative Folkeparti,72
+Viborg,16,Skals,C_Nikolai_Norup,Nikolai Norup,Det Konservative Folkeparti,9
+Viborg,16,Skals,C_Jakob_Valdemar_Ekberg,Jakob Valdemar Ekberg,Det Konservative Folkeparti,1
+Viborg,16,Skals,C_Peter_Juhl,Peter Juhl,Det Konservative Folkeparti,12
+Viborg,16,Skals,C_Simon_Højer,Simon Højer,Det Konservative Folkeparti,2
+Viborg,16,Skals,C_Claus_Nielsen,Claus Nielsen,Det Konservative Folkeparti,2
+Viborg,16,Skals,C_Steen_A._Stephansen,Steen A. Stephansen,Det Konservative Folkeparti,1
+Viborg,16,Skals,C_Lise_Bertelsen,Lise Bertelsen,Det Konservative Folkeparti,8
+Viborg,16,Skals,C_Asbjørn_Sennels,Asbjørn Sennels,Det Konservative Folkeparti,8
+Viborg,16,Skals,C_Kenny_Schødt,Kenny Schødt,Det Konservative Folkeparti,78
+Viborg,16,Skals,C_Kirsten_Holmgaard,Kirsten Holmgaard,Det Konservative Folkeparti,8
+Viborg,16,Skals,C_Steffen_Drejer,Steffen Drejer,Det Konservative Folkeparti,3
+Viborg,16,Skals,C_Sofie_Ringgaard_Schøning,Sofie Ringgaard Schøning,Det Konservative Folkeparti,13
+Viborg,16,Skals,C_Malena_Møller_Mortensen,Malena Møller Mortensen,Det Konservative Folkeparti,8
+Viborg,16,Skals,C_Trine_Dige,Trine Dige,Det Konservative Folkeparti,1
+Viborg,16,Skals,C_Peter_Ruby,Peter Ruby,Det Konservative Folkeparti,0
+Viborg,16,Skals,C_Christian_Kapper,Christian Kapper,Det Konservative Folkeparti,5
+Viborg,16,Skals,C_Lars_Bøche_Jensen,Lars Bøche Jensen,Det Konservative Folkeparti,0
+Viborg,16,Skals,C_Ulrik_Praastrup,Ulrik Praastrup,Det Konservative Folkeparti,0
+Viborg,16,Skals,C_Ida_Gottenborg_Jacobsen,Ida Gottenborg Jacobsen,Det Konservative Folkeparti,0
+Viborg,16,Skals,C_Nicklas_Verne_Jensen,Nicklas Verne Jensen,Det Konservative Folkeparti,0
+Viborg,16,Skals,C_Morten_Christensen,Morten Christensen,Det Konservative Folkeparti,0
+Viborg,16,Skals,C_Poul-Erik_Chortsen,Poul-Erik Chortsen,Det Konservative Folkeparti,0
+Viborg,16,Skals,C_Lotte_Frandsen,Lotte Frandsen,Det Konservative Folkeparti,3
+Viborg,16,Skals,C_Allan_Clifford_Christensen,Allan Clifford Christensen,Det Konservative Folkeparti,0
+Viborg,16,Skals,D_Listestemmer,Listestemmer,Nye Borgerlige,18
+Viborg,16,Skals,"D_Leo_Nørgaard,_Viborg","Leo Nørgaard, Viborg",Nye Borgerlige,12
+Viborg,16,Skals,"D_Thomas_Borup_Laursen,_Viborg","Thomas Borup Laursen, Viborg",Nye Borgerlige,4
+Viborg,16,Skals,"D_Jakob_Svendsen,Vorning","Jakob Svendsen,Vorning",Nye Borgerlige,0
+Viborg,16,Skals,"D_Mads_C._Prytz,_Rødkærsbro","Mads C. Prytz, Rødkærsbro",Nye Borgerlige,3
+Viborg,16,Skals,"D_Laust_Nørskov,_Hvam_St.","Laust Nørskov, Hvam St.",Nye Borgerlige,6
+Viborg,16,Skals,"D_Johan_Emil_Gjermandsen,_Viborg","Johan Emil Gjermandsen, Viborg",Nye Borgerlige,0
+Viborg,16,Skals,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,10
+Viborg,16,Skals,"F_Elo_Nielsen,_Skals","Elo Nielsen, Skals",SF - Socialistisk Folkeparti,196
+Viborg,16,Skals,"F_Mikael_Løvschall,_Kjeldbjerg","Mikael Løvschall, Kjeldbjerg",SF - Socialistisk Folkeparti,4
+Viborg,16,Skals,"F_Marianne_Gaardsdal,_Viborg","Marianne Gaardsdal, Viborg",SF - Socialistisk Folkeparti,11
+Viborg,16,Skals,"F_Mads_Georgi,_Viborg","Mads Georgi, Viborg",SF - Socialistisk Folkeparti,1
+Viborg,16,Skals,"F_Kirsten_Winther_Almind,Bjerringbro","Kirsten Winther Almind,Bjerringbro",SF - Socialistisk Folkeparti,0
+Viborg,16,Skals,"F_Kasper_Ivanhoe_Terkelsen,_Viborg","Kasper Ivanhoe Terkelsen, Viborg",SF - Socialistisk Folkeparti,1
+Viborg,16,Skals,"F_Martin_Mølholt,_Viborg","Martin Mølholt, Viborg",SF - Socialistisk Folkeparti,0
+Viborg,16,Skals,I_Listestemmer,Listestemmer,Liberal Alliance,6
+Viborg,16,Skals,I_Frederik_Gottenborg_Jacobsen,Frederik Gottenborg Jacobsen,Liberal Alliance,6
+Viborg,16,Skals,I_Lene_Foged,Lene Foged,Liberal Alliance,4
+Viborg,16,Skals,I_Bo_Wieck-Hansen,Bo Wieck-Hansen,Liberal Alliance,1
+Viborg,16,Skals,K_Listestemmer,Listestemmer,Kristendemokraterne,6
+Viborg,16,Skals,"K_Eva_Kornum,_Skelhøje","Eva Kornum, Skelhøje",Kristendemokraterne,4
+Viborg,16,Skals,"K_Ghirmai_Berhane,_Rødkærsbro","Ghirmai Berhane, Rødkærsbro",Kristendemokraterne,0
+Viborg,16,Skals,"K_Hanne_Ellemann_Rytter,_Finderup","Hanne Ellemann Rytter, Finderup",Kristendemokraterne,1
+Viborg,16,Skals,"K_Ingrid_Bak,_Bjerringbro","Ingrid Bak, Bjerringbro",Kristendemokraterne,1
+Viborg,16,Skals,"K_Knud_Gaarn-Larsen,_Frederiks","Knud Gaarn-Larsen, Frederiks",Kristendemokraterne,3
+Viborg,16,Skals,L_Listestemmer,Listestemmer,Lokallisten - Viborg,1
+Viborg,16,Skals,L_Johnny_F._Andresen,Johnny F. Andresen,Lokallisten - Viborg,1
+Viborg,16,Skals,O_Listestemmer,Listestemmer,Dansk Folkeparti,16
+Viborg,16,Skals,"O_Lone_Langballe,_Tjele","Lone Langballe, Tjele",Dansk Folkeparti,25
+Viborg,16,Skals,"O_Kirsten_Hørdum,_Tjele","Kirsten Hørdum, Tjele",Dansk Folkeparti,1
+Viborg,16,Skals,"O_Morten_Thaarup,_Viborg","Morten Thaarup, Viborg",Dansk Folkeparti,12
+Viborg,16,Skals,"O_Anders_Risom,_Tjele","Anders Risom, Tjele",Dansk Folkeparti,2
+Viborg,16,Skals,"O_Kim_Poulsen,_Tjele","Kim Poulsen, Tjele",Dansk Folkeparti,1
+Viborg,16,Skals,"O_Jess_Mikkelsen,_Viborg","Jess Mikkelsen, Viborg",Dansk Folkeparti,3
+Viborg,16,Skals,T_Listestemmer,Listestemmer,Hvad kan gå galt,1
+Viborg,16,Skals,T_Theis_Bach_Nielsen,Theis Bach Nielsen,Hvad kan gå galt,8
+Viborg,16,Skals,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",44
+Viborg,16,Skals,"V_Ulrik_Wilbek,_Viborg","Ulrik Wilbek, Viborg","Venstre, Danmarks Liberale Parti",259
+Viborg,16,Skals,"V_Frederik_Houmann_Thuesen,_Overlund","Frederik Houmann Thuesen, Overlund","Venstre, Danmarks Liberale Parti",13
+Viborg,16,Skals,"V_Jakob_Harritz,_Viborg","Jakob Harritz, Viborg","Venstre, Danmarks Liberale Parti",10
+Viborg,16,Skals,"V_Anders_Jensen,_Løgstrup","Anders Jensen, Løgstrup","Venstre, Danmarks Liberale Parti",13
+Viborg,16,Skals,"V_Lars_Mogensen,_Tjele","Lars Mogensen, Tjele","Venstre, Danmarks Liberale Parti",10
+Viborg,16,Skals,"V_Kim_Dongsgaard,_Rødkærsbro","Kim Dongsgaard, Rødkærsbro","Venstre, Danmarks Liberale Parti",1
+Viborg,16,Skals,"V_Kurt_Mosgaard,_Mønsted","Kurt Mosgaard, Mønsted","Venstre, Danmarks Liberale Parti",3
+Viborg,16,Skals,"V_Lone_Kastberg,_Møldrup","Lone Kastberg, Møldrup","Venstre, Danmarks Liberale Parti",33
+Viborg,16,Skals,"V_Kurt_Johansen,_Ulbjerg","Kurt Johansen, Ulbjerg","Venstre, Danmarks Liberale Parti",397
+Viborg,16,Skals,"V_Pia_Viller_Arendt,_Frederiks","Pia Viller Arendt, Frederiks","Venstre, Danmarks Liberale Parti",3
+Viborg,16,Skals,"V_Claus_Clausen,_Vroue","Claus Clausen, Vroue","Venstre, Danmarks Liberale Parti",1
+Viborg,16,Skals,"V_Åse_Kubel_Høeg,_Viborg","Åse Kubel Høeg, Viborg","Venstre, Danmarks Liberale Parti",13
+Viborg,16,Skals,"V_Majbrit_Nørgaard,_Ravnstrup","Majbrit Nørgaard, Ravnstrup","Venstre, Danmarks Liberale Parti",3
+Viborg,16,Skals,"V_Johannes_F._Vesterby,_Løvel","Johannes F. Vesterby, Løvel","Venstre, Danmarks Liberale Parti",21
+Viborg,16,Skals,"V_Niels_Jørgen_Ottesen,_Bjerringbro","Niels Jørgen Ottesen, Bjerringbro","Venstre, Danmarks Liberale Parti",0
+Viborg,16,Skals,"V_Sinna_Maagaard,_Sparkær","Sinna Maagaard, Sparkær","Venstre, Danmarks Liberale Parti",1
+Viborg,16,Skals,"V_Michael_Nøhr,_Klejtrup","Michael Nøhr, Klejtrup","Venstre, Danmarks Liberale Parti",5
+Viborg,16,Skals,"V_Ole_Kristensen,_Karup","Ole Kristensen, Karup","Venstre, Danmarks Liberale Parti",1
+Viborg,16,Skals,"V_Britta_Jarly,_Viborg","Britta Jarly, Viborg","Venstre, Danmarks Liberale Parti",1
+Viborg,16,Skals,"V_Katrine_Fusager_Rohde,_Viborg","Katrine Fusager Rohde, Viborg","Venstre, Danmarks Liberale Parti",10
+Viborg,16,Skals,"V_Esben_Tøttrup,_Bjerringbro","Esben Tøttrup, Bjerringbro","Venstre, Danmarks Liberale Parti",0
+Viborg,16,Skals,Æ_Listestemmer,Listestemmer,Frihedslisten,0
+Viborg,16,Skals,"Æ_Jesper_Nørgaard,_Viborg","Jesper Nørgaard, Viborg",Frihedslisten,8
+Viborg,16,Skals,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,9
+Viborg,16,Skals,Ø_Aksel_Rosager_Johansen,Aksel Rosager Johansen,Enhedslisten - De Rød-Grønne,10
+Viborg,16,Skals,Ø_Zahra_Mohamud_Ali,Zahra Mohamud Ali,Enhedslisten - De Rød-Grønne,9
+Viborg,16,Skals,Ø_Frederik_Berg_Overgaard,Frederik Berg Overgaard,Enhedslisten - De Rød-Grønne,5
+Viborg,16,Skals,Ø_Alfred_Berg_Overgaard,Alfred Berg Overgaard,Enhedslisten - De Rød-Grønne,0
+Viborg,16,Skals,Ø_Liz_Dueholm,Liz Dueholm,Enhedslisten - De Rød-Grønne,1
+Viborg,16,Skals,Ø_Pernille_Diemar,Pernille Diemar,Enhedslisten - De Rød-Grønne,1
+Viborg,16,Skals,Å_Listestemmer,Listestemmer,Alternativet,2
+Viborg,16,Skals,"Å_Stine_Isaksen,_Viborg","Stine Isaksen, Viborg",Alternativet,19
+Viborg,16,Skals,"Å_Didde_Krabbe_Johannesen,Viborg","Didde Krabbe Johannesen,Viborg",Alternativet,4
+Viborg,16,Skals,"Å_Jeppe_Ottow,_Viborg","Jeppe Ottow, Viborg",Alternativet,1
+Viborg,16,Skals,"Å_Kirsten_Hindbo,_Viborg","Kirsten Hindbo, Viborg",Alternativet,0
+Viborg,16,Skals,"Å_Signe_Sofie_Larsen,_Viborg","Signe Sofie Larsen, Viborg",Alternativet,0
+Viborg,16,Skals,"Å_Jens_Boll,_Bjerringbro","Jens Boll, Bjerringbro",Alternativet,0
+Viborg,16,Skals,"Å_Børge_H._Jensen,_Viborg","Børge H. Jensen, Viborg",Alternativet,0
+Viborg,16,Skals,"Å_Peter_Owen,_Bjerringbro","Peter Owen, Bjerringbro",Alternativet,0
+Viborg,16,Skals,"Å_Ole_Utoft,_Hjarbæk","Ole Utoft, Hjarbæk",Alternativet,0
+Viborg,16,Skals,"Å_Hayley_Newman,_Viborg","Hayley Newman, Viborg",Alternativet,2
+Viborg,17,Ørum,A_Listestemmer,Listestemmer,Socialdemokratiet,70
+Viborg,17,Ørum,"A_Mads_Panny,_Viborg","Mads Panny, Viborg",Socialdemokratiet,70
+Viborg,17,Ørum,"A_Anders_Bertel,_Frederiks","Anders Bertel, Frederiks",Socialdemokratiet,2
+Viborg,17,Ørum,"A_Bent_Mikkelsen,_Viborg","Bent Mikkelsen, Viborg",Socialdemokratiet,7
+Viborg,17,Ørum,"A_Birgith_B._Langballe,_Stoholm","Birgith B. Langballe, Stoholm",Socialdemokratiet,5
+Viborg,17,Ørum,"A_Birthe_Harritz,_Ørum","Birthe Harritz, Ørum",Socialdemokratiet,244
+Viborg,17,Ørum,"A_Bjarne_Andersen,_Fly","Bjarne Andersen, Fly",Socialdemokratiet,1
+Viborg,17,Ørum,"A_Eva_Pinnerup,_Viborg","Eva Pinnerup, Viborg",Socialdemokratiet,13
+Viborg,17,Ørum,"A_Lars_Greve,_Viborg","Lars Greve, Viborg",Socialdemokratiet,7
+Viborg,17,Ørum,"A_Marianne_Aaris_Andersen,_Viborg","Marianne Aaris Andersen, Viborg",Socialdemokratiet,8
+Viborg,17,Ørum,"A_Martin_Sanderhoff,_Bjerringbro","Martin Sanderhoff, Bjerringbro",Socialdemokratiet,3
+Viborg,17,Ørum,"A_Mette_Nielsen,_Klejtrup","Mette Nielsen, Klejtrup",Socialdemokratiet,18
+Viborg,17,Ørum,"A_Michael_Philip_Poulsen,Bjerringbro","Michael Philip Poulsen,Bjerringbro",Socialdemokratiet,4
+Viborg,17,Ørum,"A_Niels_Dueholm,_Bjerringbro","Niels Dueholm, Bjerringbro",Socialdemokratiet,5
+Viborg,17,Ørum,"A_Steen_Nysom,_Viborg","Steen Nysom, Viborg",Socialdemokratiet,3
+Viborg,17,Ørum,"A_Winnie_Nielsen,_Karup","Winnie Nielsen, Karup",Socialdemokratiet,0
+Viborg,17,Ørum,B_Listestemmer,Listestemmer,Radikale Venstre,6
+Viborg,17,Ørum,B_Lasse_Christiansen,Lasse Christiansen,Radikale Venstre,4
+Viborg,17,Ørum,B_Michael_Flarup,Michael Flarup,Radikale Venstre,4
+Viborg,17,Ørum,B_Jan_Rønne,Jan Rønne,Radikale Venstre,2
+Viborg,17,Ørum,B_Marianne_Tøttrup,Marianne Tøttrup,Radikale Venstre,5
+Viborg,17,Ørum,B_Signe_Driefer,Signe Driefer,Radikale Venstre,9
+Viborg,17,Ørum,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,68
+Viborg,17,Ørum,C_Torsten_Nielsen,Torsten Nielsen,Det Konservative Folkeparti,133
+Viborg,17,Ørum,C_Stine_Damborg,Stine Damborg,Det Konservative Folkeparti,58
+Viborg,17,Ørum,C_Nikolai_Norup,Nikolai Norup,Det Konservative Folkeparti,5
+Viborg,17,Ørum,C_Jakob_Valdemar_Ekberg,Jakob Valdemar Ekberg,Det Konservative Folkeparti,1
+Viborg,17,Ørum,C_Peter_Juhl,Peter Juhl,Det Konservative Folkeparti,13
+Viborg,17,Ørum,C_Simon_Højer,Simon Højer,Det Konservative Folkeparti,10
+Viborg,17,Ørum,C_Claus_Nielsen,Claus Nielsen,Det Konservative Folkeparti,3
+Viborg,17,Ørum,C_Steen_A._Stephansen,Steen A. Stephansen,Det Konservative Folkeparti,2
+Viborg,17,Ørum,C_Lise_Bertelsen,Lise Bertelsen,Det Konservative Folkeparti,11
+Viborg,17,Ørum,C_Asbjørn_Sennels,Asbjørn Sennels,Det Konservative Folkeparti,7
+Viborg,17,Ørum,C_Kenny_Schødt,Kenny Schødt,Det Konservative Folkeparti,2
+Viborg,17,Ørum,C_Kirsten_Holmgaard,Kirsten Holmgaard,Det Konservative Folkeparti,7
+Viborg,17,Ørum,C_Steffen_Drejer,Steffen Drejer,Det Konservative Folkeparti,3
+Viborg,17,Ørum,C_Sofie_Ringgaard_Schøning,Sofie Ringgaard Schøning,Det Konservative Folkeparti,14
+Viborg,17,Ørum,C_Malena_Møller_Mortensen,Malena Møller Mortensen,Det Konservative Folkeparti,1
+Viborg,17,Ørum,C_Trine_Dige,Trine Dige,Det Konservative Folkeparti,0
+Viborg,17,Ørum,C_Peter_Ruby,Peter Ruby,Det Konservative Folkeparti,2
+Viborg,17,Ørum,C_Christian_Kapper,Christian Kapper,Det Konservative Folkeparti,4
+Viborg,17,Ørum,C_Lars_Bøche_Jensen,Lars Bøche Jensen,Det Konservative Folkeparti,0
+Viborg,17,Ørum,C_Ulrik_Praastrup,Ulrik Praastrup,Det Konservative Folkeparti,0
+Viborg,17,Ørum,C_Ida_Gottenborg_Jacobsen,Ida Gottenborg Jacobsen,Det Konservative Folkeparti,0
+Viborg,17,Ørum,C_Nicklas_Verne_Jensen,Nicklas Verne Jensen,Det Konservative Folkeparti,0
+Viborg,17,Ørum,C_Morten_Christensen,Morten Christensen,Det Konservative Folkeparti,3
+Viborg,17,Ørum,C_Poul-Erik_Chortsen,Poul-Erik Chortsen,Det Konservative Folkeparti,0
+Viborg,17,Ørum,C_Lotte_Frandsen,Lotte Frandsen,Det Konservative Folkeparti,2
+Viborg,17,Ørum,C_Allan_Clifford_Christensen,Allan Clifford Christensen,Det Konservative Folkeparti,1
+Viborg,17,Ørum,D_Listestemmer,Listestemmer,Nye Borgerlige,26
+Viborg,17,Ørum,"D_Leo_Nørgaard,_Viborg","Leo Nørgaard, Viborg",Nye Borgerlige,11
+Viborg,17,Ørum,"D_Thomas_Borup_Laursen,_Viborg","Thomas Borup Laursen, Viborg",Nye Borgerlige,1
+Viborg,17,Ørum,"D_Jakob_Svendsen,Vorning","Jakob Svendsen,Vorning",Nye Borgerlige,19
+Viborg,17,Ørum,"D_Mads_C._Prytz,_Rødkærsbro","Mads C. Prytz, Rødkærsbro",Nye Borgerlige,6
+Viborg,17,Ørum,"D_Laust_Nørskov,_Hvam_St.","Laust Nørskov, Hvam St.",Nye Borgerlige,1
+Viborg,17,Ørum,"D_Johan_Emil_Gjermandsen,_Viborg","Johan Emil Gjermandsen, Viborg",Nye Borgerlige,1
+Viborg,17,Ørum,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,24
+Viborg,17,Ørum,"F_Elo_Nielsen,_Skals","Elo Nielsen, Skals",SF - Socialistisk Folkeparti,8
+Viborg,17,Ørum,"F_Mikael_Løvschall,_Kjeldbjerg","Mikael Løvschall, Kjeldbjerg",SF - Socialistisk Folkeparti,6
+Viborg,17,Ørum,"F_Marianne_Gaardsdal,_Viborg","Marianne Gaardsdal, Viborg",SF - Socialistisk Folkeparti,29
+Viborg,17,Ørum,"F_Mads_Georgi,_Viborg","Mads Georgi, Viborg",SF - Socialistisk Folkeparti,3
+Viborg,17,Ørum,"F_Kirsten_Winther_Almind,Bjerringbro","Kirsten Winther Almind,Bjerringbro",SF - Socialistisk Folkeparti,2
+Viborg,17,Ørum,"F_Kasper_Ivanhoe_Terkelsen,_Viborg","Kasper Ivanhoe Terkelsen, Viborg",SF - Socialistisk Folkeparti,2
+Viborg,17,Ørum,"F_Martin_Mølholt,_Viborg","Martin Mølholt, Viborg",SF - Socialistisk Folkeparti,0
+Viborg,17,Ørum,I_Listestemmer,Listestemmer,Liberal Alliance,5
+Viborg,17,Ørum,I_Frederik_Gottenborg_Jacobsen,Frederik Gottenborg Jacobsen,Liberal Alliance,4
+Viborg,17,Ørum,I_Lene_Foged,Lene Foged,Liberal Alliance,10
+Viborg,17,Ørum,I_Bo_Wieck-Hansen,Bo Wieck-Hansen,Liberal Alliance,11
+Viborg,17,Ørum,K_Listestemmer,Listestemmer,Kristendemokraterne,8
+Viborg,17,Ørum,"K_Eva_Kornum,_Skelhøje","Eva Kornum, Skelhøje",Kristendemokraterne,1
+Viborg,17,Ørum,"K_Ghirmai_Berhane,_Rødkærsbro","Ghirmai Berhane, Rødkærsbro",Kristendemokraterne,2
+Viborg,17,Ørum,"K_Hanne_Ellemann_Rytter,_Finderup","Hanne Ellemann Rytter, Finderup",Kristendemokraterne,1
+Viborg,17,Ørum,"K_Ingrid_Bak,_Bjerringbro","Ingrid Bak, Bjerringbro",Kristendemokraterne,4
+Viborg,17,Ørum,"K_Knud_Gaarn-Larsen,_Frederiks","Knud Gaarn-Larsen, Frederiks",Kristendemokraterne,2
+Viborg,17,Ørum,L_Listestemmer,Listestemmer,Lokallisten - Viborg,1
+Viborg,17,Ørum,L_Johnny_F._Andresen,Johnny F. Andresen,Lokallisten - Viborg,2
+Viborg,17,Ørum,O_Listestemmer,Listestemmer,Dansk Folkeparti,13
+Viborg,17,Ørum,"O_Lone_Langballe,_Tjele","Lone Langballe, Tjele",Dansk Folkeparti,77
+Viborg,17,Ørum,"O_Kirsten_Hørdum,_Tjele","Kirsten Hørdum, Tjele",Dansk Folkeparti,3
+Viborg,17,Ørum,"O_Morten_Thaarup,_Viborg","Morten Thaarup, Viborg",Dansk Folkeparti,8
+Viborg,17,Ørum,"O_Anders_Risom,_Tjele","Anders Risom, Tjele",Dansk Folkeparti,14
+Viborg,17,Ørum,"O_Kim_Poulsen,_Tjele","Kim Poulsen, Tjele",Dansk Folkeparti,5
+Viborg,17,Ørum,"O_Jess_Mikkelsen,_Viborg","Jess Mikkelsen, Viborg",Dansk Folkeparti,1
+Viborg,17,Ørum,T_Listestemmer,Listestemmer,Hvad kan gå galt,0
+Viborg,17,Ørum,T_Theis_Bach_Nielsen,Theis Bach Nielsen,Hvad kan gå galt,8
+Viborg,17,Ørum,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",63
+Viborg,17,Ørum,"V_Ulrik_Wilbek,_Viborg","Ulrik Wilbek, Viborg","Venstre, Danmarks Liberale Parti",266
+Viborg,17,Ørum,"V_Frederik_Houmann_Thuesen,_Overlund","Frederik Houmann Thuesen, Overlund","Venstre, Danmarks Liberale Parti",16
+Viborg,17,Ørum,"V_Jakob_Harritz,_Viborg","Jakob Harritz, Viborg","Venstre, Danmarks Liberale Parti",45
+Viborg,17,Ørum,"V_Anders_Jensen,_Løgstrup","Anders Jensen, Løgstrup","Venstre, Danmarks Liberale Parti",3
+Viborg,17,Ørum,"V_Lars_Mogensen,_Tjele","Lars Mogensen, Tjele","Venstre, Danmarks Liberale Parti",80
+Viborg,17,Ørum,"V_Kim_Dongsgaard,_Rødkærsbro","Kim Dongsgaard, Rødkærsbro","Venstre, Danmarks Liberale Parti",4
+Viborg,17,Ørum,"V_Kurt_Mosgaard,_Mønsted","Kurt Mosgaard, Mønsted","Venstre, Danmarks Liberale Parti",1
+Viborg,17,Ørum,"V_Lone_Kastberg,_Møldrup","Lone Kastberg, Møldrup","Venstre, Danmarks Liberale Parti",1
+Viborg,17,Ørum,"V_Kurt_Johansen,_Ulbjerg","Kurt Johansen, Ulbjerg","Venstre, Danmarks Liberale Parti",0
+Viborg,17,Ørum,"V_Pia_Viller_Arendt,_Frederiks","Pia Viller Arendt, Frederiks","Venstre, Danmarks Liberale Parti",3
+Viborg,17,Ørum,"V_Claus_Clausen,_Vroue","Claus Clausen, Vroue","Venstre, Danmarks Liberale Parti",4
+Viborg,17,Ørum,"V_Åse_Kubel_Høeg,_Viborg","Åse Kubel Høeg, Viborg","Venstre, Danmarks Liberale Parti",6
+Viborg,17,Ørum,"V_Majbrit_Nørgaard,_Ravnstrup","Majbrit Nørgaard, Ravnstrup","Venstre, Danmarks Liberale Parti",1
+Viborg,17,Ørum,"V_Johannes_F._Vesterby,_Løvel","Johannes F. Vesterby, Løvel","Venstre, Danmarks Liberale Parti",61
+Viborg,17,Ørum,"V_Niels_Jørgen_Ottesen,_Bjerringbro","Niels Jørgen Ottesen, Bjerringbro","Venstre, Danmarks Liberale Parti",0
+Viborg,17,Ørum,"V_Sinna_Maagaard,_Sparkær","Sinna Maagaard, Sparkær","Venstre, Danmarks Liberale Parti",1
+Viborg,17,Ørum,"V_Michael_Nøhr,_Klejtrup","Michael Nøhr, Klejtrup","Venstre, Danmarks Liberale Parti",1
+Viborg,17,Ørum,"V_Ole_Kristensen,_Karup","Ole Kristensen, Karup","Venstre, Danmarks Liberale Parti",0
+Viborg,17,Ørum,"V_Britta_Jarly,_Viborg","Britta Jarly, Viborg","Venstre, Danmarks Liberale Parti",2
+Viborg,17,Ørum,"V_Katrine_Fusager_Rohde,_Viborg","Katrine Fusager Rohde, Viborg","Venstre, Danmarks Liberale Parti",22
+Viborg,17,Ørum,"V_Esben_Tøttrup,_Bjerringbro","Esben Tøttrup, Bjerringbro","Venstre, Danmarks Liberale Parti",0
+Viborg,17,Ørum,Æ_Listestemmer,Listestemmer,Frihedslisten,2
+Viborg,17,Ørum,"Æ_Jesper_Nørgaard,_Viborg","Jesper Nørgaard, Viborg",Frihedslisten,7
+Viborg,17,Ørum,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,13
+Viborg,17,Ørum,Ø_Aksel_Rosager_Johansen,Aksel Rosager Johansen,Enhedslisten - De Rød-Grønne,11
+Viborg,17,Ørum,Ø_Zahra_Mohamud_Ali,Zahra Mohamud Ali,Enhedslisten - De Rød-Grønne,3
+Viborg,17,Ørum,Ø_Frederik_Berg_Overgaard,Frederik Berg Overgaard,Enhedslisten - De Rød-Grønne,1
+Viborg,17,Ørum,Ø_Alfred_Berg_Overgaard,Alfred Berg Overgaard,Enhedslisten - De Rød-Grønne,1
+Viborg,17,Ørum,Ø_Liz_Dueholm,Liz Dueholm,Enhedslisten - De Rød-Grønne,1
+Viborg,17,Ørum,Ø_Pernille_Diemar,Pernille Diemar,Enhedslisten - De Rød-Grønne,4
+Viborg,17,Ørum,Å_Listestemmer,Listestemmer,Alternativet,1
+Viborg,17,Ørum,"Å_Stine_Isaksen,_Viborg","Stine Isaksen, Viborg",Alternativet,12
+Viborg,17,Ørum,"Å_Didde_Krabbe_Johannesen,Viborg","Didde Krabbe Johannesen,Viborg",Alternativet,1
+Viborg,17,Ørum,"Å_Jeppe_Ottow,_Viborg","Jeppe Ottow, Viborg",Alternativet,0
+Viborg,17,Ørum,"Å_Kirsten_Hindbo,_Viborg","Kirsten Hindbo, Viborg",Alternativet,3
+Viborg,17,Ørum,"Å_Signe_Sofie_Larsen,_Viborg","Signe Sofie Larsen, Viborg",Alternativet,0
+Viborg,17,Ørum,"Å_Jens_Boll,_Bjerringbro","Jens Boll, Bjerringbro",Alternativet,0
+Viborg,17,Ørum,"Å_Børge_H._Jensen,_Viborg","Børge H. Jensen, Viborg",Alternativet,0
+Viborg,17,Ørum,"Å_Peter_Owen,_Bjerringbro","Peter Owen, Bjerringbro",Alternativet,0
+Viborg,17,Ørum,"Å_Ole_Utoft,_Hjarbæk","Ole Utoft, Hjarbæk",Alternativet,0
+Viborg,17,Ørum,"Å_Hayley_Newman,_Viborg","Hayley Newman, Viborg",Alternativet,0
