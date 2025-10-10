@@ -3,9 +3,9 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Kandidat-Comparator – Kommunalvalg</title>
+  <title>KV – Kandidater & partier</title>
 
-  <!-- Tailwind CSS -->
+  <!-- Tailwind CSS (CDN) -->
   <script src="https://cdn.tailwindcss.com"></script>
   <!-- PapaParse -->
   <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
@@ -15,66 +15,59 @@
   <style>
     .chip { @apply inline-flex items-center gap-2 px-3 py-1 rounded-2xl border text-sm cursor-pointer select-none; }
     .chip.active { @apply bg-gray-900 text-white border-gray-900; }
-    .table-sticky thead th:first-child, .table-sticky tbody td:first-child { position: sticky; left: 0; background: white; }
-    .btn { @apply inline-flex items-center gap-2 rounded-xl border px-3 py-2; }
+    .card { @apply bg-white rounded-2xl shadow-sm border; }
+    .btn  { @apply inline-flex items-center gap-2 rounded-xl border px-3 py-2; }
     .btn:disabled { @apply opacity-50 cursor-not-allowed; }
+    .table-sticky thead th:first-child, .table-sticky tbody td:first-child { position: sticky; left: 0; background: white; }
   </style>
 </head>
 
 <body class="bg-gray-50 text-gray-900">
-  <div class="mx-auto max-w-6xl p-4 space-y-4">
-    <header class="flex items-center justify-between gap-4">
-      <div>
-        <h1 class="text-2xl font-semibold tracking-tight">Kandidat-Comparator</h1>
-        <p class="text-sm text-gray-600">
-          Vælg <strong>region</strong> → <strong>kommune</strong> → tilføj kandidater (fra ét eller flere partier) til sammenligning.
-          Der vises stemmer på <span class="font-medium">alle valgsteder i kommunen</span>.
-          Data hentes fra <code>/data/&lt;Kommune&gt;_allepartier.csv</code> (eller <code>/data/&lt;Kommune&gt;.csv</code>).
-        </p>
-      </div>
-      <button id="btn-help" class="chip">Skema & hjælp</button>
-    </header>
+  <!-- HERO -->
+  <section class="bg-gradient-to-b from-gray-900 to-gray-800 text-white">
+    <div class="mx-auto max-w-6xl px-4 py-10">
+      <div class="text-3xl md:text-4xl font-extrabold tracking-tight">Valgresultater – Kommunalvalg 2021</div>
+      <div class="mt-2 text-white/80">Vælg en kommune og få overblik over partier, kandidater og stemmer.</div>
 
-    <!-- 1) Region & kommune -->
-    <section class="bg-white rounded-2xl shadow-sm border p-4 space-y-3">
-      <h2 class="font-medium">Vælg region og kommune</h2>
-      <div class="grid grid-cols-1 md:grid-cols-2 gap-3">
+      <!-- Kommunevælger i hero -->
+      <div class="mt-6 grid grid-cols-1 md:grid-cols-3 gap-3">
         <div>
-          <label class="text-sm font-medium">Region</label>
-          <select id="regionSelect" class="w-full mt-1 rounded-xl border p-2"></select>
+          <label class="text-sm text-white/80">Region</label>
+          <select id="regionSelect" class="w-full mt-1 rounded-xl border p-2 text-gray-900"></select>
         </div>
-        <div>
-          <label class="text-sm font-medium">Kommune</label>
-          <select id="kommuneSelect" class="w-full mt-1 rounded-xl border p-2" disabled></select>
+        <div class="md:col-span-2">
+          <label class="text-sm text-white/80">Kommune</label>
+          <select id="kommuneSelect" class="w-full mt-1 rounded-xl border p-2 text-gray-900" disabled></select>
         </div>
       </div>
-      <span id="error" class="text-sm text-red-600"></span>
+
+      <div id="error" class="mt-3 text-sm text-red-200"></div>
+    </div>
+  </section>
+
+  <!-- HOVEDINDHOLD -->
+  <main class="mx-auto max-w-6xl p-4 space-y-6">
+
+    <!-- PARTI-OVERSIGT (Lovable-stil kort/akkordeon) -->
+    <section class="space-y-3">
+      <div class="flex items-center justify-between">
+        <h2 class="text-xl font-semibold">Partier og kandidater</h2>
+        <div id="kommunetitel" class="text-gray-500"></div>
+      </div>
+
+      <div id="partyList" class="space-y-3">
+        <!-- Parti-kort indsættes her -->
+      </div>
     </section>
 
-    <!-- 2) Tilføj kandidater til sammenligning (på tværs af partier) -->
-    <section class="bg-white rounded-2xl shadow-sm border p-4 space-y-4">
-      <h2 class="font-medium">Tilføj kandidat til sammenligning</h2>
-      <div class="flex flex-wrap items-end gap-3">
-        <div>
-          <label class="text-sm font-medium">Parti</label>
-          <select id="cmpParti" class="w-56 rounded-xl border p-2" disabled></select>
-        </div>
-        <div>
-          <label class="text-sm font-medium">Kandidat</label>
-          <select id="cmpKandidat" class="w-72 rounded-xl border p-2" disabled>
-            <option value="">Vælg kandidat…</option>
-          </select>
-        </div>
-        <button id="btn-add" class="btn" disabled>Tilføj</button>
-        <button id="btn-clear" class="btn">Nulstil valg</button>
-      </div>
-
-      <!-- Valgte kandidater som chips -->
+    <!-- VALGTE KANDIDATER (chips) -->
+    <section class="card p-4 space-y-3">
+      <h2 class="font-medium">Kandidat-sammenligning</h2>
       <div id="selectedChips" class="flex flex-wrap gap-2"></div>
     </section>
 
-    <!-- 3) Opsummering – samlede stemmer pr. kandidat -->
-    <section class="bg-white rounded-2xl shadow-sm border p-4 space-y-3">
+    <!-- OPSUMMERING -->
+    <section class="card p-4 space-y-3">
       <h2 class="font-medium">Opsummering (samlede stemmer)</h2>
       <div class="overflow-auto">
         <table class="w-full text-sm" id="summaryTable">
@@ -91,15 +84,14 @@
       </div>
     </section>
 
-    <!-- 4) Tabel/diagram pr. valgsted -->
+    <!-- TABS: Tabel / Diagram pr. valgsted -->
     <section class="space-y-3">
       <div class="flex gap-2">
         <button class="chip active" data-tab="valgsted-tabel">Tabel pr. valgsted</button>
         <button class="chip" data-tab="valgsted-diagram">Diagram pr. valgsted</button>
       </div>
 
-      <!-- Tabel pr. valgsted -->
-      <div id="tab-valgsted-tabel" class="bg-white rounded-2xl shadow-sm border p-4">
+      <div id="tab-valgsted-tabel" class="card p-4">
         <h2 class="font-medium mb-2">Sammenligning pr. valgsted</h2>
         <div class="overflow-auto">
           <table class="table-sticky w-full text-sm min-w-[640px]" id="psTable">
@@ -111,8 +103,7 @@
         <p class="text-xs text-gray-500 mt-2">Tip: Scroll vandret for at se alle kandidater, hvis der vælges mange.</p>
       </div>
 
-      <!-- Diagram pr. valgsted -->
-      <div id="tab-valgsted-diagram" class="bg-white rounded-2xl shadow-sm border p-4 hidden">
+      <div id="tab-valgsted-diagram" class="card p-4 hidden">
         <h2 class="font-medium mb-2">Diagram – stemmer pr. valgsted</h2>
         <div style="height: 420px"><canvas id="chart"></canvas></div>
       </div>
@@ -121,16 +112,16 @@
     <footer class="pt-2 text-xs text-gray-500">
       Kører 100% i browseren. Dine data forlader ikke din maskine.
     </footer>
-  </div>
+  </main>
 
   <script>
-    // ---- Hjælpende fejlvisning ----
+    // ————— Hjælpende fejlvisning —————
     window.addEventListener('error', (e) => {
       const box = document.getElementById('error');
       if (box) box.textContent = 'Fejl i JavaScript: ' + e.message;
     });
 
-    // ---- Regioner & kommuner ----
+    // ————— Regioner & kommuner —————
     const REGIONS = {
       "Region Hovedstaden": ["Albertslund","Allerød","Ballerup","Bornholm","Brøndby","Dragør","Egedal","Fredensborg","Frederiksberg","Frederikssund","Furesø","Gentofte","Gladsaxe","Glostrup","Gribskov","Halsnæs","Herlev","Hillerød","Hvidovre","Høje-Taastrup","Hørsholm","Ishøj","København","Lyngby-Taarbæk","Rudersdal","Rødovre","Tårnby","Vallensbæk"],
       "Region Sjælland": ["Faxe","Greve","Guldborgsund","Holbæk","Kalundborg","Køge","Lejre","Lolland","Næstved","Odsherred","Ringsted","Roskilde","Slagelse","Solrød","Sorø","Stevns","Vordingborg"],
@@ -139,35 +130,36 @@
       "Region Nordjylland": ["Brønderslev","Frederikshavn","Hjørring","Jammerbugt","Læsø","Mariagerfjord","Morsø","Rebild","Thisted","Vesthimmerlands","Aalborg"]
     };
 
-    // ---- STATE ----
+    // ————— STATE —————
     const state = {
-      rows: [],              // alle rækker for valgt kommune
-      region: "",
-      kommune: "",
-      selected: new Map(),   // kandidat_id -> { kandidat_id, kandidat_navn, parti }
+      rows: [],
+      region: "", kommune: "",
+      selected: new Map(), // kandidat_id -> {kandidat_id, kandidat_navn, parti}
       chart: null
     };
 
-    // ---- Helpers ----
+    // ————— Helpers —————
     const el = (id) => document.getElementById(id);
-    const canonical = (s) => (s || "").toString().trim();
     const fmt = (n) => new Intl.NumberFormat("da-DK").format(n);
+    const canon = (s) => (s||"").toString().trim();
     const escapeHtml = (s) => (s||"").replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-    const isListestemmer = (name) => canonical(name).toLowerCase() === "listestemmer";
-    const sortCandidates = (a, b) => { // "Listestemmer" sidst
-      const aIs = isListestemmer(a.kandidat_navn), bIs = isListestemmer(b.kandidat_navn);
-      if (aIs && !bIs) return 1;
-      if (!aIs && bIs) return -1;
+    const isListestemmer = (name) => canon(name).toLowerCase() === "listestemmer";
+    const sortKandidater = (a,b) => {
+      const al = isListestemmer(a.kandidat_navn), bl = isListestemmer(b.kandidat_navn);
+      if (al && !bl) return 1;
+      if (!al && bl) return -1;
       return a.kandidat_navn.localeCompare(b.kandidat_navn, "da");
     };
+    const partiLetter = (kid) => {
+      const p = (kid||"").split("_")[0];
+      return (p && p.length<=3) ? p : "•";
+    };
 
-    // ---- INIT ----
+    // ————— INIT —————
     window.addEventListener("DOMContentLoaded", () => {
       initRegionDropdown();
       initTabs();
-      bindUI();
 
-      // URL-params (valgfrit)
       const p = new URLSearchParams(location.search);
       const r = p.get("region");
       const k = p.get("kommune");
@@ -181,148 +173,179 @@
       }
     });
 
-    // ---- Region/kommune dropdowns ----
-    function initRegionDropdown() {
+    // ————— Dropdowns —————
+    function initRegionDropdown(){
       const rsel = el("regionSelect");
       rsel.innerHTML = `<option value="">Vælg region…</option>` +
-        Object.keys(REGIONS).map(r => `<option value="${r}">${r}</option>`).join("");
-      rsel.onchange = () => {
+        Object.keys(REGIONS).map(r=>`<option value="${r}">${r}</option>`).join("");
+      rsel.onchange = ()=>{
         const r = rsel.value;
-        state.region = r; state.kommune = "";
-        el("kommuneSelect").innerHTML = `<option value="">Vælg region først</option>`;
+        state.region = r; state.kommune="";
         el("kommuneSelect").disabled = !r;
-        state.selected.clear(); renderAll();
+        el("kommuneSelect").innerHTML = `<option value="">Vælg kommune…</option>`;
         if (r) populateKommuner(r);
+        clearAll();
       };
       el("kommuneSelect").disabled = true;
     }
-
-    function populateKommuner(region) {
+    function populateKommuner(region){
       const ksel = el("kommuneSelect");
-      const kommuner = REGIONS[region] || [];
-      ksel.innerHTML = `<option value="">Vælg kommune…</option>` +
-        kommuner.map(k => `<option value="${k}">${k}</option>`).join("");
-      ksel.onchange = () => {
+      const kommuner = REGIONS[region]||[];
+      ksel.innerHTML = `<option value="">Vælg kommune…</option>`+
+        kommuner.map(k=>`<option value="${k}">${k}</option>`).join("");
+      ksel.onchange = ()=>{
         const k = ksel.value;
         state.kommune = k;
-        state.selected.clear(); renderAll();
-        if (k) {
-          const url = new URL(window.location.href);
-          url.searchParams.set("region", state.region);
-          url.searchParams.set("kommune", k);
-          history.replaceState({}, "", url);
+        clearAll();
+        if (k){
+          const u = new URL(location.href); u.searchParams.set("region", state.region); u.searchParams.set("kommune", k);
+          history.replaceState({}, "", u);
           loadKommuneData(k);
-        } else {
-          state.rows = [];
-          renderAll();
         }
       };
     }
 
-    // ---- UI bind ----
-    function bindUI() {
-      el("btn-help").onclick = () => alert(
-        "CSV-skema:\nkommune, valgsted_id, valgsted_navn, kandidat_id, kandidat_navn, parti, stemmer\n\n"+
-        "Filnavn: data/<Kommune>_allepartier.csv (eller data/<Kommune>.csv).\n"+
-        "Flow: Region → Kommune → Tilføj kandidater (på tværs af partier).\n"+
-        "Bemærk: 'Listestemmer' vises altid sidst."
-      );
-      el("cmpParti").onchange = populateCompareCandidates;
-      el("btn-add").onclick = () => {
-        const kid = el("cmpKandidat").value;
-        if (!kid) return;
-        const k = allCandidates().find(x => x.kandidat_id === kid);
-        if (k) state.selected.set(k.kandidat_id, k);
-        renderAll();
-      };
-      el("btn-clear").onclick = () => { state.selected.clear(); renderAll(); };
+    function clearAll(){
+      state.rows = []; state.selected.clear();
+      el("partyList").innerHTML = "";
+      el("kommunetitel").textContent = "";
+      renderSelected(); renderSummary(); renderPsTable([], []); resetChart();
     }
 
-    function enableCompareControls() {
-      el("cmpParti").disabled = false;
-      el("cmpKandidat").disabled = false;
-      el("btn-add").disabled = false;
-    }
-    function disableCompareControls() {
-      el("cmpParti").disabled = true; el("cmpParti").innerHTML = "";
-      el("cmpKandidat").disabled = true; el("cmpKandidat").innerHTML = `<option value="">Vælg kandidat…</option>`;
-      el("btn-add").disabled = true;
-    }
-
-    // ---- Dataindlæsning ----
-    async function loadKommuneData(kommune) {
+    // ————— Data —————
+    async function loadKommuneData(k){
       el("error").textContent = "";
-      const safe = encodeURIComponent(kommune); // HÅNDTER æ/ø/å i filnavne
-      const candidates = [
-        `data/${safe}_allepartier.csv`,
-        `data/${safe}.csv`,
-      ];
-      for (const url of candidates) {
-        try {
-          const r = await fetch(url, { cache: "no-store" });
-          if (!r.ok) throw new Error("HTTP " + r.status);
+      el("kommunetitel").textContent = k ? `(${k})` : "";
+      const safe = encodeURIComponent(k);
+      const candidates = [`data/${safe}_allepartier.csv`, `data/${safe}.csv`];
+      for (const url of candidates){
+        try{
+          const r = await fetch(url, {cache:"no-store"});
+          if (!r.ok) throw new Error("HTTP "+r.status);
           const text = await r.text();
           parseCsv(text);
           afterDataLoaded();
           return;
-        } catch (err) { /* prøv næste */ }
+        }catch(e){}
       }
-      el("error").textContent = `Kunne ikke finde data for ${kommune}. Forventede fx /data/${kommune}_allepartier.csv`;
+      el("error").textContent = `Kunne ikke finde data for ${k}. Forventede fx /data/${k}_allepartier.csv`;
     }
-
-    function parseCsv(text) {
-      const res = Papa.parse(text, { header: true, skipEmptyLines: true, transformHeader: h => canonical(h.toLowerCase()) });
-      state.rows = res.data.map(r => ({
-        kommune: canonical(r.kommune),
-        valgsted_id: canonical(r.valgsted_id),
-        valgsted_navn: canonical(r.valgsted_navn),
-        kandidat_id: canonical(r.kandidat_id || r.kandidat_navn),
-        kandidat_navn: canonical(r.kandidat_navn),
-        parti: canonical(r.parti),
-        stemmer: Number(r.stemmer || 0) || 0,
+    function parseCsv(text){
+      const res = Papa.parse(text, {header:true, skipEmptyLines:true, transformHeader:h=>canon(h.toLowerCase())});
+      state.rows = res.data.map(r=>({
+        kommune: canon(r.kommune),
+        valgsted_id: canon(r.valgsted_id),
+        valgsted_navn: canon(r.valgsted_navn),
+        kandidat_id: canon(r.kandidat_id || r.kandidat_navn),
+        kandidat_navn: canon(r.kandidat_navn),
+        parti: canon(r.parti),
+        stemmer: Number(r.stemmer||0)||0
       }));
     }
-
-    function afterDataLoaded() {
-      populateCompareParties();
-      populateCompareCandidates();
-      enableCompareControls();
-      renderAll();
-    }
-
-    // ---- Afledte datasæt ----
-    function allCandidates() {
-      const seen = new Set(), list = [];
-      for (const r of state.rows) {
-        if (seen.has(r.kandidat_id)) continue;
-        seen.add(r.kandidat_id);
-        list.push({ kandidat_id: r.kandidat_id, kandidat_navn: r.kandidat_navn, parti: r.parti });
-      }
-      return list.sort(sortCandidates);
-    }
-
-    // Compare controls: udfyldning
-    function populateCompareParties() {
-      const partier = Array.from(new Set(state.rows.map(r => r.parti))).sort();
-      el("cmpParti").innerHTML = partier.map(p => `<option value="${p}">${p}</option>`).join("");
-    }
-    function populateCompareCandidates() {
-      const parti = el("cmpParti").value;
-      const list = allCandidates().filter(k => !parti || k.parti === parti);
-      el("cmpKandidat").innerHTML =
-        `<option value="">Vælg kandidat…</option>` +
-        list.map(k => `<option value="${k.kandidat_id}">${escapeHtml(k.kandidat_navn)} (${escapeHtml(k.parti)})</option>`).join("");
-    }
-
-    // ---- Rendering ----
-    function renderAll() {
-      renderSelectedChips();
+    function afterDataLoaded(){
+      renderPartyOverview();
+      renderSelected();
       renderSummary();
       renderPsTable(getPollingStations(), getSelectedOrdered());
       renderChart();
     }
 
-    function renderSelectedChips() {
+    // ————— Parti-oversigt (Lovable-stil) —————
+    function getPartyStats(){
+      // group pr parti
+      const byParti = new Map();
+      for (const r of state.rows){
+        if (!byParti.has(r.parti)) byParti.set(r.parti, []);
+        byParti.get(r.parti).push(r);
+      }
+      const res = [];
+      for (const [parti, rows] of byParti.entries()){
+        // kandidater og totals
+        const candMap = new Map();
+        let partyTotal = 0, personalTotal = 0;
+        for (const r of rows){
+          partyTotal += r.stemmer;
+          if (!candMap.has(r.kandidat_id)){
+            candMap.set(r.kandidat_id, {kandidat_id:r.kandidat_id, kandidat_navn:r.kandidat_navn, parti:r.parti, total:0});
+          }
+          candMap.get(r.kandidat_id).total += r.stemmer;
+        }
+        const kandidater = Array.from(candMap.values()).sort(sortKandidater);
+        for (const k of kandidater){ if (!isListestemmer(k.kandidat_navn)) personalTotal += k.total; }
+        res.push({
+          parti,
+          letter: partiLetter(kandidater[0]?.kandidat_id || ""),
+          kandidatAntal: kandidater.filter(k=>!isListestemmer(k.kandidat_navn)).length,
+          personalTotal,
+          partyTotal,
+          kandidater
+        });
+      }
+      // sortér partier efter samlet partistemmer (desc)
+      res.sort((a,b)=> b.partyTotal - a.partyTotal);
+      return res;
+    }
+
+    function renderPartyOverview(){
+      const host = el("partyList");
+      host.innerHTML = "";
+      const stats = getPartyStats();
+      if (!stats.length){
+        host.innerHTML = `<div class="text-sm text-gray-500">Vælg en kommune for at se partier.</div>`;
+        return;
+      }
+      for (const p of stats){
+        const card = document.createElement("details");
+        card.className = "card";
+        // header-linje (summary)
+        card.innerHTML = `
+          <summary class="list-none">
+            <div class="flex items-center justify-between gap-3 p-4 cursor-pointer">
+              <div class="flex items-center gap-3">
+                <div class="h-9 w-9 rounded-full bg-gray-100 border flex items-center justify-center font-semibold">${escapeHtml(p.letter)}</div>
+                <div>
+                  <div class="font-medium">${escapeHtml(p.parti)}</div>
+                  <div class="text-sm text-gray-500">
+                    ${p.kandidatAntal} kandidater · ${fmt(p.personalTotal)} personlige stemmer · ${fmt(p.partyTotal)} stemmer på partiet i alt
+                  </div>
+                </div>
+              </div>
+              <div class="text-gray-400">▾</div>
+            </div>
+          </summary>
+          <div class="border-t p-3">
+            <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-2" id="cand-${cssId(p.parti)}"></div>
+          </div>
+        `;
+        host.appendChild(card);
+
+        // kandidatliste i kortet
+        const root = card.querySelector(`#cand-${cssId(p.parti)}`);
+        for (const k of p.kandidater){
+          const disabled = isListestemmer(k.kandidat_navn) ? "opacity-60" : "";
+          const btnDis   = isListestemmer(k.kandidat_navn) ? "disabled" : "";
+          const row = document.createElement("div");
+          row.className = `flex items-center justify-between rounded-xl border px-3 py-2 ${disabled}`;
+          row.innerHTML = `
+            <div>
+              <div class="font-medium">${escapeHtml(k.kandidat_navn)}</div>
+              <div class="text-xs text-gray-500">${escapeHtml(k.parti)} · ${fmt(k.total)} personlige stemmer</div>
+            </div>
+            <button class="btn" ${btnDis} data-add="${k.kandidat_id}">Tilføj</button>
+          `;
+          row.querySelector("button[data-add]")?.addEventListener("click", ()=>{
+            state.selected.set(k.kandidat_id, {kandidat_id:k.kandidat_id, kandidat_navn:k.kandidat_navn, parti:k.parti});
+            renderSelected(); renderSummary(); renderPsTable(getPollingStations(), getSelectedOrdered()); renderChart();
+          });
+          root.appendChild(row);
+        }
+      }
+    }
+
+    function cssId(s){ return (s||"").replace(/\s+/g,"-").replace(/[^a-z0-9\-]/gi,""); }
+
+    // ————— Valgte kandidater (chips) —————
+    function renderSelected(){
       const root = el("selectedChips");
       const sel = getSelectedOrdered();
       root.innerHTML = sel.map(k => `
@@ -332,109 +355,91 @@
         </span>
       `).join("") || `<span class="text-sm text-gray-500">Ingen kandidater valgt endnu.</span>`;
     }
-    window.removeCandidate = (kid) => { state.selected.delete(kid); renderAll(); };
-
+    window.removeCandidate = (kid)=>{ state.selected.delete(kid); renderSelected(); renderSummary(); renderPsTable(getPollingStations(), getSelectedOrdered()); renderChart(); };
     function getSelected(){ return Array.from(state.selected.values()); }
-    function getSelectedOrdered(){ const s = getSelected().slice(); s.sort(sortCandidates); return s; }
+    function getSelectedOrdered(){ const s = getSelected().slice(); s.sort(sortKandidater); return s; }
 
-    function computeTotalsByCandidate() {
+    // ————— Opsummering (totale pr. kandidat) —————
+    function computeTotalsByCandidate(){
       const totals = new Map();
-      for (const r of state.rows) totals.set(r.kandidat_id, (totals.get(r.kandidat_id) || 0) + r.stemmer);
+      for (const r of state.rows) totals.set(r.kandidat_id, (totals.get(r.kandidat_id)||0) + r.stemmer);
       return totals;
     }
-
-    // Opsummering (samlede stemmer)
-    function renderSummary() {
+    function renderSummary(){
       const totals = computeTotalsByCandidate();
       const tbody = document.querySelector("#summaryTable tbody");
-      const selectedList = getSelectedOrdered().map(k => ({ ...k, total: totals.get(k.kandidat_id) || 0 }));
+      const selected = getSelectedOrdered().map(k => ({...k, total: totals.get(k.kandidat_id)||0}));
       tbody.innerHTML =
-        selectedList.map(s => `<tr class="border-b last:border-0">
-          <td class="py-2 pr-2">${escapeHtml(s.kandidat_navn)}</td>
-          <td class="py-2 pr-2">${escapeHtml(s.parti)}</td>
-          <td class="py-2 pr-2 tabular-nums">${fmt(s.total)}</td>
-          <td class="py-2 pr-2"><button class="btn" onclick="removeCandidate('${s.kandidat_id}')">Fjern</button></td>
-        </tr>`).join("") ||
-        `<tr><td colspan="4" class="py-6 text-center text-gray-500">Vælg kandidater ovenfor.</td></tr>`;
+        selected.map(s=>`
+          <tr class="border-b last:border-0">
+            <td class="py-2 pr-2">${escapeHtml(s.kandidat_navn)}</td>
+            <td class="py-2 pr-2">${escapeHtml(s.parti)}</td>
+            <td class="py-2 pr-2 tabular-nums">${fmt(s.total)}</td>
+            <td class="py-2 pr-2"><button class="btn" onclick="removeCandidate('${s.kandidat_id}')">Fjern</button></td>
+          </tr>
+        `).join("") || `<tr><td colspan="4" class="py-6 text-center text-gray-500">Vælg kandidater ovenfor.</td></tr>`;
     }
 
-    // Valgsteder
-    function getPollingStations() {
-      const m = new Map(); // id -> {id, navn, [kandidat_id]:stemmer}
-      for (const r of state.rows) {
-        if (!m.has(r.valgsted_id)) m.set(r.valgsted_id, { id: r.valgsted_id, navn: r.valgsted_navn });
+    // ————— Valgstedstabel og diagram —————
+    function getPollingStations(){
+      const m = new Map();
+      for (const r of state.rows){
+        if (!m.has(r.valgsted_id)) m.set(r.valgsted_id, { id:r.valgsted_id, navn:r.valgsted_navn });
         const ps = m.get(r.valgsted_id);
-        ps[r.kandidat_id] = (ps[r.kandidat_id] || 0) + r.stemmer;
+        ps[r.kandidat_id] = (ps[r.kandidat_id]||0) + r.stemmer;
       }
       return Array.from(m.values()).sort((a,b)=> a.navn.localeCompare(b.navn,"da"));
     }
-
-    // Tabel pr. valgsted (nu MED kommunetotal nederst – ingen “Total”-kolonne pr. valgsted)
-    function renderPsTable(psList, sel) {
-      const thead = el("psThead");
-      const tbody = el("psTbody");
-      const tfoot = el("psTFoot");
-
-      if (!sel.length) {
+    function renderPsTable(psList, sel){
+      const thead = el("psThead"), tbody = el("psTbody"), tfoot = el("psTFoot");
+      if (!sel.length){
         thead.innerHTML = `<tr><th class="text-left py-2 pr-3">Valgsted</th></tr>`;
         tbody.innerHTML = `<tr><td class="py-4 text-center text-gray-500" colspan="1">Vælg mindst én kandidat.</td></tr>`;
-        tfoot.innerHTML = "";
-        return;
+        tfoot.innerHTML = ""; return;
       }
-
-      // Header
-      thead.innerHTML =
-        `<tr class="text-left border-b">
-           <th class="py-2 pr-3 bg-white">Valgsted</th>
-           ${sel.map(s => `<th class="py-2 pr-3">${escapeHtml(s.kandidat_navn)} (${escapeHtml(s.parti)})</th>`).join("")}
-         </tr>`;
-
-      // Rows: et per valgsted
-      tbody.innerHTML = psList.map(ps => {
-        const cells = sel.map(s => ps[s.kandidat_id] || 0);
+      thead.innerHTML = `
+        <tr class="text-left border-b">
+          <th class="py-2 pr-3 bg-white">Valgsted</th>
+          ${sel.map(s=>`<th class="py-2 pr-3">${escapeHtml(s.kandidat_navn)} (${escapeHtml(s.parti)})</th>`).join("")}
+        </tr>`;
+      tbody.innerHTML = psList.map(ps=>{
+        const cells = sel.map(s=> ps[s.kandidat_id]||0 );
         return `<tr class="border-b last:border-0">
-                  <td class="py-2 pr-3 font-medium bg-white">${escapeHtml(ps.navn)}</td>
-                  ${cells.map(v => `<td class="py-2 pr-3 tabular-nums">${fmt(v)}</td>`).join("")}
-                </tr>`;
+          <td class="py-2 pr-3 font-medium bg-white">${escapeHtml(ps.navn)}</td>
+          ${cells.map(v=>`<td class="py-2 pr-3 tabular-nums">${fmt(v)}</td>`).join("")}
+        </tr>`;
       }).join("");
-
-      // Footer: Kommunetotal pr. kandidat
+      // kommunetotal pr. kandidat
       const totals = computeTotalsByCandidate();
-      const totalsCells = sel.map(s => `<td class="py-2 pr-3 tabular-nums font-medium">${fmt(totals.get(s.kandidat_id) || 0)}</td>`).join("");
-      tfoot.innerHTML = `<tr class="border-t">
-        <th class="py-2 pr-3 text-left bg-white">Kommunetotal</th>${totalsCells}
-      </tr>`;
+      const foot = sel.map(s=> `<td class="py-2 pr-3 tabular-nums font-medium">${fmt(totals.get(s.kandidat_id)||0)}</td>`).join("");
+      tfoot.innerHTML = `<tr class="border-t"><th class="py-2 pr-3 text-left bg-white">Kommunetotal</th>${foot}</tr>`;
     }
 
-    // Diagram pr. valgsted
-    function renderChart() {
+    function renderChart(){
       const canvas = document.getElementById("chart");
       const sel = getSelectedOrdered();
-      if (!sel.length) { resetChart(); return; }
+      if (!sel.length){ resetChart(); return; }
       const ps = getPollingStations();
-      const labels = ps.map(x => x.navn);
-      const datasets = sel.map(k => ({
-        label: `${k.kandidat_navn} (${k.parti})`,
-        data: ps.map(x => x[k.kandidat_id] || 0)
-      }));
+      const labels = ps.map(x=>x.navn);
+      const datasets = sel.map(k=>({ label:`${k.kandidat_navn} (${k.parti})`, data: ps.map(x=> x[k.kandidat_id]||0) }));
       if (state.chart) state.chart.destroy();
       state.chart = new Chart(canvas, {
-        type: "bar",
-        data: { labels, datasets },
-        options: { responsive: true, maintainAspectRatio: false, scales: { y: { beginAtZero: true, ticks: { precision: 0 } } } }
+        type:"bar",
+        data:{ labels, datasets },
+        options:{ responsive:true, maintainAspectRatio:false, scales:{ y:{ beginAtZero:true, ticks:{ precision:0 } } } }
       });
     }
-    function resetChart(){ if (state.chart) { state.chart.destroy(); state.chart = null; } }
+    function resetChart(){ if (state.chart){ state.chart.destroy(); state.chart=null; } }
 
-    // Tabs
-    function initTabs() {
-      for (const b of document.querySelectorAll("[data-tab]")) {
-        b.onclick = () => {
+    // ————— Tabs —————
+    function initTabs(){
+      for (const b of document.querySelectorAll("[data-tab]")){
+        b.onclick = ()=>{
           document.querySelectorAll("[data-tab]").forEach(x=>x.classList.remove("active"));
           b.classList.add("active");
           const t = b.getAttribute("data-tab");
-          document.getElementById("tab-valgsted-tabel").classList.toggle("hidden", t !== "valgsted-tabel");
-          document.getElementById("tab-valgsted-diagram").classList.toggle("hidden", t !== "valgsted-diagram");
+          document.getElementById("tab-valgsted-tabel").classList.toggle("hidden", t!=="valgsted-tabel");
+          document.getElementById("tab-valgsted-diagram").classList.toggle("hidden", t!=="valgsted-diagram");
         };
       }
     }
