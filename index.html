@@ -57,9 +57,7 @@
 
       <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
         <!-- Venstre panel: partier -->
-        <aside class="space-y-2 md:col-span-1" id="partyList">
-          <!-- Parti-liste indsættes her -->
-        </aside>
+        <aside class="space-y-2 md:col-span-1" id="partyList"></aside>
 
         <!-- Højre panel: kandidater for valgt parti -->
         <section class="md:col-span-2 card p-4 space-y-3" id="partyDetail">
@@ -139,13 +137,35 @@
       "Region Nordjylland": ["Brønderslev","Frederikshavn","Hjørring","Jammerbugt","Læsø","Mariagerfjord","Morsø","Rebild","Thisted","Vesthimmerlands","Aalborg"]
     };
 
+    // ——— PARTIFARVER (efter bogstav) ———
+    const PARTY_COLORS = {
+      // Landsdækkende
+      "A": "#e03a3e", // Socialdemokratiet
+      "B": "#712082", // Radikale Venstre (mørk lilla)
+      "C": "#2e7d32", // Konservative
+      "D": "#0f766e", // Nye Borgerlige (teal-ish)
+      "F": "#e5003d", // SF
+      "I": "#00a0e3", // Liberal Alliance
+      "O": "#0044aa", // Dansk Folkeparti
+      "V": "#1b5eaa", // Venstre
+      "Ø": "#c8102e", // Enhedslisten
+      "Å": "#3aaa35", // Alternativet
+      "Q": "#ff4fa3", // Feministisk Initiativ
+      "K": "#ff9800", // KD (fallback)
+      "Æ": "#666666"  // evt. brugt af lokale – neutral mørk
+      // Ukendte/lokallister -> default nedenfor
+    };
+    const DEFAULT_BADGE_BG = "#e5e7eb"; // Tailwind gray-200
+    const DEFAULT_BADGE_FG = "#111827"; // gray-900
+
     // ——— STATE ———
     const state = {
       rows: [],
       region: "", kommune: "",
-      activeParty: "",       // valgt parti i venstre panel
-      selected: new Map(),   // kandidat_id -> {kandidat_id, kandidat_navn, parti}
-      chart: null
+      activeParty: "",
+      selected: new Map(),
+      chart: null,
+      showAll: {}
     };
 
     // ——— Helpers ———
@@ -154,17 +174,23 @@
     const canon = (s) => (s||"").toString().trim();
     const escapeHtml = (s) => (s||"").replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
     const isListestemmer = (name) => canon(name).toLowerCase() === "listestemmer";
-    const sortKandidater = (a,b) => {
+    const sortKandidaterAlpha = (a,b) => {
       const al = isListestemmer(a.kandidat_navn), bl = isListestemmer(b.kandidat_navn);
-      if (al && !bl) return 1;
+      if (al && !bl) return 1;        // Listestemmer til sidst
       if (!al && bl) return -1;
       return a.kandidat_navn.localeCompare(b.kandidat_navn, "da");
     };
     const partiLetter = (kid) => {
       const p = (kid||"").split("_")[0];
-      return (p && p.length<=3) ? p : "•";
+      return p ? p.toUpperCase() : "•";
     };
-    const cssId = (s) => (s||"").replace(/\s+/g,"-").replace(/[^a-z0-9\-]/gi,"");
+    function badgeStyleForLetter(letter){
+      const bg = PARTY_COLORS[letter] || DEFAULT_BADGE_BG;
+      const isDefault = !(letter in PARTY_COLORS);
+      // enkel kontrastregel: mørk tekst ved default lys baggrund, ellers hvid
+      const fg = isDefault ? DEFAULT_BADGE_FG : "#ffffff";
+      return `background-color:${bg}; color:${fg}; border-color:${bg}`;
+    }
 
     // ——— INIT ———
     window.addEventListener("DOMContentLoaded", () => {
@@ -281,7 +307,7 @@
           }
           candMap.get(r.kandidat_id).total += r.stemmer;
         }
-        const kandidater = Array.from(candMap.values()).sort(sortKandidater);
+        const kandidater = Array.from(candMap.values()).sort(sortKandidaterAlpha);
         for (const k of kandidater){ if (!isListestemmer(k.kandidat_navn)) personalTotal += k.total; }
         res.push({
           parti,
@@ -292,7 +318,8 @@
           kandidater
         });
       }
-      res.sort((a,b)=> b.partyTotal - a.partyTotal);
+      // ★ Sortér alfabetisk efter bogstav (da-DK, så Æ/Ø/Å lander korrekt)
+      res.sort((a,b)=> a.letter.localeCompare(b.letter, "da"));
       return res;
     }
 
@@ -306,12 +333,15 @@
       }
       for (const p of stats){
         const div = document.createElement("div");
+        const style = badgeStyleForLetter(p.letter);
         div.className = `flex items-center justify-between rounded-xl border px-3 py-2 cursor-pointer hover:bg-gray-100 transition ${
           state.activeParty === p.parti ? "bg-gray-100 border-gray-400" : "border-gray-200"
         }`;
         div.innerHTML = `
           <div class="flex items-center gap-3">
-            <div class="h-9 w-9 rounded-full bg-gray-100 border flex items-center justify-center font-semibold">${escapeHtml(p.letter)}</div>
+            <div class="h-9 w-9 rounded-full border flex items-center justify-center font-semibold" style="${style}">
+              ${escapeHtml(p.letter)}
+            </div>
             <div>
               <div class="font-medium">${escapeHtml(p.parti)}</div>
               <div class="text-xs text-gray-500">${p.kandidatAntal} kandidater · ${fmt(p.personalTotal)} personlige · ${fmt(p.partyTotal)} i alt</div>
@@ -319,12 +349,11 @@
           </div>`;
         div.addEventListener("click", ()=>{
           state.activeParty = p.parti;
-          renderPartyOverview();        // highlight aktivt parti
-          renderPartyDetail(p.parti);   // vis kandidater i højre panel
+          renderPartyOverview();
+          renderPartyDetail(p.parti);
         });
         host.appendChild(div);
       }
-      // auto-vælg første parti hvis ingen valgt
       if (!state.activeParty && stats.length){
         state.activeParty = stats[0].parti;
         renderPartyOverview();
@@ -332,7 +361,7 @@
       }
     }
 
-    // ——— Højre panel: kandidater for valgt parti ———
+    // ——— Højre panel: kandidater for valgt parti (alfabetisk, Listestemmer sidst) ———
     function renderPartyDetail(parti){
       const header = el("partyDetailHeader");
       const list = el("candidateList");
@@ -343,14 +372,11 @@
       }
       header.textContent = parti;
 
-      const kandidater = getPartyStats().find(x => x.parti === parti)?.kandidater || [];
-      // Top-5 + “Vis alle”
-      const SHOW_TOP = 6;
-      const sorted = kandidater.slice().sort((a,b)=> b.total - a.total);
-      const showingAll = !!state.showAll?.[parti];
-      const visible = showingAll ? sorted : sorted.slice(0, SHOW_TOP);
+      const kandidaterAll = getPartyStats().find(x => x.parti === parti)?.kandidater || [];
+      // ★ Altid alfabetisk (med Listestemmer til sidst)
+      const sorted = kandidaterAll.slice().sort(sortKandidaterAlpha);
 
-      for (const k of visible){
+      for (const k of sorted){
         const disabled = isListestemmer(k.kandidat_navn) ? "opacity-60" : "";
         const btnDis   = isListestemmer(k.kandidat_navn) ? "disabled" : "";
         const row = document.createElement("div");
@@ -368,15 +394,6 @@
         });
         list.appendChild(row);
       }
-
-      if (sorted.length > SHOW_TOP){
-        state.showAll = state.showAll || {};
-        const btn = document.createElement("button");
-        btn.className = "btn";
-        btn.textContent = showingAll ? "Vis færre" : `Vis alle (${sorted.length})`;
-        btn.onclick = ()=> { state.showAll[parti] = !showingAll; renderPartyDetail(parti); };
-        list.appendChild(btn);
-      }
     }
 
     // ——— Valgte kandidater (chips) ———
@@ -392,7 +409,7 @@
     }
     window.removeCandidate = (kid)=>{ state.selected.delete(kid); renderSelected(); renderSummary(); renderPsTable(getPollingStations(), getSelectedOrdered()); renderChart(); };
     function getSelected(){ return Array.from(state.selected.values()); }
-    function getSelectedOrdered(){ const s = getSelected().slice(); s.sort(sortKandidater); return s; }
+    function getSelectedOrdered(){ const s = getSelected().slice(); s.sort(sortKandidaterAlpha); return s; }
 
     // ——— Opsummering (totale pr. kandidat) ———
     function computeTotalsByCandidate(){
@@ -412,7 +429,8 @@
             <td class="py-2 pr-2 tabular-nums">${fmt(s.total)}</td>
             <td class="py-2 pr-2"><button class="btn" onclick="removeCandidate('${s.kandidat_id}')">Fjern</button></td>
           </tr>
-        `).join("") || `<tr><td colspan="4" class="py-6 text-center text-gray-500">Vælg kandidater ovenfor.</td></tr>`;
+        `).join("") ||
+        `<tr><td colspan="4" class="py-6 text-center text-gray-500">Vælg kandidater ovenfor.</td></tr>`;
     }
 
     // ——— Valgstedstabel og diagram ———
@@ -444,7 +462,6 @@
           ${cells.map(v=>`<td class="py-2 pr-3 tabular-nums">${fmt(v)}</td>`).join("")}
         </tr>`;
       }).join("");
-      // kommunetotal pr. kandidat
       const totals = computeTotalsByCandidate();
       const foot = sel.map(s=> `<td class="py-2 pr-3 tabular-nums font-medium">${fmt(totals.get(s.kandidat_id)||0)}</td>`).join("");
       tfoot.innerHTML = `<tr class="border-t"><th class="py-2 pr-3 text-left bg-white">Kommunetotal</th>${foot}</tr>`;
