@@ -27,7 +27,7 @@
   <section class="bg-gradient-to-b from-gray-900 to-gray-800 text-white">
     <div class="mx-auto max-w-6xl px-4 py-10">
       <div class="text-3xl md:text-4xl font-extrabold tracking-tight">Valgresultater – Kommunalvalg 2021</div>
-      <div class="mt-2 text-white/80">Vælg en kommune og få overblik over partier, kandidater og stemmer.</div>
+      <div class="mt-2 text-white/80">Vælg en kommune og få overblik over partier og kandidater.</div>
 
       <!-- Kommunevælger i hero -->
       <div class="mt-6 grid grid-cols-1 md:grid-cols-3 gap-3">
@@ -67,14 +67,14 @@
       </div>
     </section>
 
-    <!-- VALGTE KANDIDATER (chips) -->
-    <section class="card p-4 space-y-3">
+    <!-- VALGTE KANDIDATER (chips) — skjules indtil der er valgt nogen -->
+    <section id="compareSection" class="card p-4 space-y-3 hidden">
       <h2 class="font-medium">Kandidat-sammenligning</h2>
       <div id="selectedChips" class="flex flex-wrap gap-2"></div>
     </section>
 
-    <!-- OPSUMMERING -->
-    <section class="card p-4 space-y-3">
+    <!-- OPSUMMERING — skjules indtil der er valgt nogen -->
+    <section id="summarySection" class="card p-4 space-y-3 hidden">
       <h2 class="font-medium">Opsummering (samlede stemmer)</h2>
       <div class="overflow-auto">
         <table class="w-full text-sm" id="summaryTable">
@@ -91,15 +91,14 @@
       </div>
     </section>
 
-    <!-- TABS: Tabel / Diagram pr. valgsted -->
-    <section class="space-y-3">
+    <!-- TAB-KORT (tabel+diagram) — skjules indtil der er valgt nogen -->
+    <section id="tabsCard" class="card p-4 space-y-4 hidden">
       <div class="flex gap-2">
         <button class="chip active" data-tab="valgsted-tabel">Tabel pr. valgsted</button>
         <button class="chip" data-tab="valgsted-diagram">Diagram pr. valgsted</button>
       </div>
 
-      <div id="tab-valgsted-tabel" class="card p-4">
-        <h2 class="font-medium mb-2">Sammenligning pr. valgsted</h2>
+      <div id="tab-valgsted-tabel">
         <div class="overflow-auto">
           <table class="table-sticky w-full text-sm min-w-[640px]" id="psTable">
             <thead id="psThead"></thead>
@@ -107,18 +106,12 @@
             <tfoot id="psTFoot"></tfoot>
           </table>
         </div>
-        <p class="text-xs text-gray-500 mt-2">Tip: Scroll vandret for at se alle kandidater, hvis der vælges mange.</p>
       </div>
 
-      <div id="tab-valgsted-diagram" class="card p-4 hidden">
-        <h2 class="font-medium mb-2">Diagram – stemmer pr. valgsted</h2>
+      <div id="tab-valgsted-diagram" class="hidden">
         <div style="height: 420px"><canvas id="chart"></canvas></div>
       </div>
     </section>
-
-    <footer class="pt-2 text-xs text-gray-500">
-      Kører 100% i browseren. Dine data forlader ikke din maskine.
-    </footer>
   </main>
 
   <script>
@@ -139,23 +132,11 @@
 
     // ——— PARTIFARVER (efter bogstav) ———
     const PARTY_COLORS = {
-      // Landsdækkende
-      "A": "#e03a3e", // Socialdemokratiet
-      "B": "#712082", // Radikale Venstre (mørk lilla)
-      "C": "#2e7d32", // Konservative
-      "D": "#0f766e", // Nye Borgerlige (teal-ish)
-      "F": "#e5003d", // SF
-      "I": "#00a0e3", // Liberal Alliance
-      "O": "#0044aa", // Dansk Folkeparti
-      "V": "#1b5eaa", // Venstre
-      "Ø": "#c8102e", // Enhedslisten
-      "Å": "#3aaa35", // Alternativet
-      "Q": "#ff4fa3", // Feministisk Initiativ
-      "K": "#ff9800", // KD (fallback)
-      "Æ": "#666666"  // evt. brugt af lokale – neutral mørk
-      // Ukendte/lokallister -> default nedenfor
+      "A": "#e03a3e","B": "#712082","C": "#2e7d32","D": "#0f766e","F": "#e5003d",
+      "I": "#00a0e3","O": "#0044aa","V": "#1b5eaa","Ø": "#c8102e","Å": "#3aaa35",
+      "Q": "#ff4fa3","K": "#ff9800","Æ": "#666666"
     };
-    const DEFAULT_BADGE_BG = "#e5e7eb"; // Tailwind gray-200
+    const DEFAULT_BADGE_BG = "#e5e7eb"; // gray-200
     const DEFAULT_BADGE_FG = "#111827"; // gray-900
 
     // ——— STATE ———
@@ -164,8 +145,7 @@
       region: "", kommune: "",
       activeParty: "",
       selected: new Map(),
-      chart: null,
-      showAll: {}
+      chart: null
     };
 
     // ——— Helpers ———
@@ -176,7 +156,7 @@
     const isListestemmer = (name) => canon(name).toLowerCase() === "listestemmer";
     const sortKandidaterAlpha = (a,b) => {
       const al = isListestemmer(a.kandidat_navn), bl = isListestemmer(b.kandidat_navn);
-      if (al && !bl) return 1;        // Listestemmer til sidst
+      if (al && !bl) return 1;
       if (!al && bl) return -1;
       return a.kandidat_navn.localeCompare(b.kandidat_navn, "da");
     };
@@ -187,7 +167,6 @@
     function badgeStyleForLetter(letter){
       const bg = PARTY_COLORS[letter] || DEFAULT_BADGE_BG;
       const isDefault = !(letter in PARTY_COLORS);
-      // enkel kontrastregel: mørk tekst ved default lys baggrund, ellers hvid
       const fg = isDefault ? DEFAULT_BADGE_FG : "#ffffff";
       return `background-color:${bg}; color:${fg}; border-color:${bg}`;
     }
@@ -248,7 +227,7 @@
       el("partyDetailHeader").textContent = "Vælg et parti i venstre panel for at se kandidater.";
       el("candidateList").innerHTML = "";
       el("kommunetitel").textContent = "";
-      renderSelected(); renderSummary(); renderPsTable([], []); resetChart();
+      renderAll();
     }
 
     // ——— Data ———
@@ -283,10 +262,7 @@
     }
     function afterDataLoaded(){
       renderPartyOverview();
-      renderSelected();
-      renderSummary();
-      renderPsTable(getPollingStations(), getSelectedOrdered());
-      renderChart();
+      renderAll();
     }
 
     // ——— Parti-oversigt (venstre panel) ———
@@ -299,7 +275,7 @@
       const res = [];
       for (const [parti, rows] of byParti.entries()){
         const candMap = new Map();
-        let partyTotal = 0, personalTotal = 0;
+        let partyTotal = 0;
         for (const r of rows){
           partyTotal += r.stemmer;
           if (!candMap.has(r.kandidat_id)){
@@ -308,17 +284,14 @@
           candMap.get(r.kandidat_id).total += r.stemmer;
         }
         const kandidater = Array.from(candMap.values()).sort(sortKandidaterAlpha);
-        for (const k of kandidater){ if (!isListestemmer(k.kandidat_navn)) personalTotal += k.total; }
         res.push({
           parti,
           letter: partiLetter(kandidater[0]?.kandidat_id || ""),
           kandidatAntal: kandidater.filter(k=>!isListestemmer(k.kandidat_navn)).length,
-          personalTotal,
-          partyTotal,
           kandidater
         });
       }
-      // ★ Sortér alfabetisk efter bogstav (da-DK, så Æ/Ø/Å lander korrekt)
+      // Alfabetisk efter bogstav
       res.sort((a,b)=> a.letter.localeCompare(b.letter, "da"));
       return res;
     }
@@ -344,7 +317,7 @@
             </div>
             <div>
               <div class="font-medium">${escapeHtml(p.parti)}</div>
-              <div class="text-xs text-gray-500">${p.kandidatAntal} kandidater · ${fmt(p.personalTotal)} personlige · ${fmt(p.partyTotal)} i alt</div>
+              <div class="text-xs text-gray-500">${p.kandidatAntal} kandidater</div>
             </div>
           </div>`;
         div.addEventListener("click", ()=>{
@@ -361,7 +334,7 @@
       }
     }
 
-    // ——— Højre panel: kandidater for valgt parti (alfabetisk, Listestemmer sidst) ———
+    // ——— Højre panel: kandidater (alfabetisk, Listestemmer sidst) ———
     function renderPartyDetail(parti){
       const header = el("partyDetailHeader");
       const list = el("candidateList");
@@ -373,27 +346,36 @@
       header.textContent = parti;
 
       const kandidaterAll = getPartyStats().find(x => x.parti === parti)?.kandidater || [];
-      // ★ Altid alfabetisk (med Listestemmer til sidst)
       const sorted = kandidaterAll.slice().sort(sortKandidaterAlpha);
 
       for (const k of sorted){
-        const disabled = isListestemmer(k.kandidat_navn) ? "opacity-60" : "";
-        const btnDis   = isListestemmer(k.kandidat_navn) ? "disabled" : "";
         const row = document.createElement("div");
-        row.className = `flex items-center justify-between rounded-xl border px-3 py-2 ${disabled}`;
+        row.className = `flex items-center justify-between rounded-xl border px-3 py-2`;
         row.innerHTML = `
           <div>
             <div class="font-medium">${escapeHtml(k.kandidat_navn)}</div>
-            <div class="text-xs text-gray-500">${escapeHtml(k.parti)} · ${fmt(k.total)} personlige stemmer</div>
+            <div class="text-xs text-gray-500">${escapeHtml(k.parti)}</div>
           </div>
-          <button class="btn" ${btnDis} data-add="${k.kandidat_id}">Tilføj</button>
+          <button class="btn" data-add="${k.kandidat_id}">Tilføj</button>
         `;
-        row.querySelector("button[data-add]")?.addEventListener("click", ()=>{
+        row.querySelector("button[data-add]").addEventListener("click", ()=>{
           state.selected.set(k.kandidat_id, {kandidat_id:k.kandidat_id, kandidat_navn:k.kandidat_navn, parti:k.parti});
-          renderSelected(); renderSummary(); renderPsTable(getPollingStations(), getSelectedOrdered()); renderChart();
+          renderAll();
         });
         list.appendChild(row);
       }
+    }
+
+    // ——— Synlighed + render samlet ———
+    function renderAll(){
+      renderSelected();
+      renderSummary();
+      renderPsTable(getPollingStations(), getSelectedOrdered());
+      renderChart();
+      const hasSel = getSelected().length > 0;
+      el("compareSection").classList.toggle("hidden", !hasSel);
+      el("summarySection").classList.toggle("hidden", !hasSel);
+      el("tabsCard").classList.toggle("hidden", !hasSel);
     }
 
     // ——— Valgte kandidater (chips) ———
@@ -407,7 +389,7 @@
         </span>
       `).join("") || `<span class="text-sm text-gray-500">Ingen kandidater valgt endnu.</span>`;
     }
-    window.removeCandidate = (kid)=>{ state.selected.delete(kid); renderSelected(); renderSummary(); renderPsTable(getPollingStations(), getSelectedOrdered()); renderChart(); };
+    window.removeCandidate = (kid)=>{ state.selected.delete(kid); renderAll(); };
     function getSelected(){ return Array.from(state.selected.values()); }
     function getSelectedOrdered(){ const s = getSelected().slice(); s.sort(sortKandidaterAlpha); return s; }
 
@@ -447,8 +429,7 @@
       const thead = el("psThead"), tbody = el("psTbody"), tfoot = el("psTFoot");
       if (!sel.length){
         thead.innerHTML = `<tr><th class="text-left py-2 pr-3">Valgsted</th></tr>`;
-        tbody.innerHTML = `<tr><td class="py-4 text-center text-gray-500" colspan="1">Vælg mindst én kandidat.</td></tr>`;
-        tfoot.innerHTML = ""; return;
+        tbody.innerHTML = ``; tfoot.innerHTML = ``; return;
       }
       thead.innerHTML = `
         <tr class="text-left border-b">
