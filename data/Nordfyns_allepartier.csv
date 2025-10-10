@@ -1,0 +1,976 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Nordfyns,1,Bogense,A_Listestemmer,Listestemmer,Socialdemokratiet,198
+Nordfyns,1,Bogense,A_Helle_Waagner,Helle Waagner,Socialdemokratiet,254
+Nordfyns,1,Bogense,A_Kasper_Solberg,Kasper Solberg,Socialdemokratiet,49
+Nordfyns,1,Bogense,A_Bernt_Nicolaysen,Bernt Nicolaysen,Socialdemokratiet,4
+Nordfyns,1,Bogense,A_Anette_Lykke_Jensen,Anette Lykke Jensen,Socialdemokratiet,13
+Nordfyns,1,Bogense,A_Dorte_Schmidt,Dorte Schmidt,Socialdemokratiet,14
+Nordfyns,1,Bogense,A_Brian_Lebæk,Brian Lebæk,Socialdemokratiet,5
+Nordfyns,1,Bogense,A_Gert_Block_Hættlein_Rasmussen,Gert Block Hættlein Rasmussen,Socialdemokratiet,10
+Nordfyns,1,Bogense,A_Heidi_Valentin,Heidi Valentin,Socialdemokratiet,9
+Nordfyns,1,Bogense,A_Johnny_Kristensen,Johnny Kristensen,Socialdemokratiet,101
+Nordfyns,1,Bogense,A_Idrees_Haider,Idrees Haider,Socialdemokratiet,17
+Nordfyns,1,Bogense,A_Sigridur_Thorvaldsdottir,Sigridur Thorvaldsdottir,Socialdemokratiet,45
+Nordfyns,1,Bogense,A_Jane_Lydia_Gulbæk,Jane Lydia Gulbæk,Socialdemokratiet,11
+Nordfyns,1,Bogense,A_Thomas_Mrzyglod,Thomas Mrzyglod,Socialdemokratiet,1
+Nordfyns,1,Bogense,A_Arne_Erlund,Arne Erlund,Socialdemokratiet,4
+Nordfyns,1,Bogense,A_Svenn_Kopp_Pedersen,Svenn Kopp Pedersen,Socialdemokratiet,5
+Nordfyns,1,Bogense,B_Listestemmer,Listestemmer,Radikale Venstre,8
+Nordfyns,1,Bogense,B_Bo_Jakobsen,Bo Jakobsen,Radikale Venstre,130
+Nordfyns,1,Bogense,B_Mette_Hjorth,Mette Hjorth,Radikale Venstre,6
+Nordfyns,1,Bogense,B_John_Arnshof,John Arnshof,Radikale Venstre,4
+Nordfyns,1,Bogense,B_Jacob-Steen_Madsen,Jacob-Steen Madsen,Radikale Venstre,5
+Nordfyns,1,Bogense,B_Rasmus_Festerling_Sørensen,Rasmus Festerling Sørensen,Radikale Venstre,0
+Nordfyns,1,Bogense,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,27
+Nordfyns,1,Bogense,C_Anders_Thingholm,Anders Thingholm,Det Konservative Folkeparti,59
+Nordfyns,1,Bogense,C_Marie_Louise_Pedersen,Marie Louise Pedersen,Det Konservative Folkeparti,28
+Nordfyns,1,Bogense,C_Christina_Flyman,Christina Flyman,Det Konservative Folkeparti,9
+Nordfyns,1,Bogense,C_Carsten_Jäger,Carsten Jäger,Det Konservative Folkeparti,1
+Nordfyns,1,Bogense,C_Jeff_Duckett,Jeff Duckett,Det Konservative Folkeparti,3
+Nordfyns,1,Bogense,D_Listestemmer,Listestemmer,Nye Borgerlige,21
+Nordfyns,1,Bogense,"D_Bill_Malmgren,_Otterup","Bill Malmgren, Otterup",Nye Borgerlige,13
+Nordfyns,1,Bogense,"D_Bjarne_Knudsen,_Søndersø","Bjarne Knudsen, Søndersø",Nye Borgerlige,5
+Nordfyns,1,Bogense,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,27
+Nordfyns,1,Bogense,F_Anne-Lise_Sievers,Anne-Lise Sievers,SF - Socialistisk Folkeparti,45
+Nordfyns,1,Bogense,F_Bent_Olsen,Bent Olsen,SF - Socialistisk Folkeparti,14
+Nordfyns,1,Bogense,F_Pia_Longet,Pia Longet,SF - Socialistisk Folkeparti,3
+Nordfyns,1,Bogense,F_Lene_Granløkke,Lene Granløkke,SF - Socialistisk Folkeparti,7
+Nordfyns,1,Bogense,F_Bine_Mathiasen,Bine Mathiasen,SF - Socialistisk Folkeparti,24
+Nordfyns,1,Bogense,O_Listestemmer,Listestemmer,Dansk Folkeparti,30
+Nordfyns,1,Bogense,"O_Jane_Yndgaard,_Klintebjerg","Jane Yndgaard, Klintebjerg",Dansk Folkeparti,21
+Nordfyns,1,Bogense,"O_Eva_Jørgensen,_Bogense","Eva Jørgensen, Bogense",Dansk Folkeparti,27
+Nordfyns,1,Bogense,"O_Henrik_Damborg_Sørensen,_Hårslev","Henrik Damborg Sørensen, Hårslev",Dansk Folkeparti,4
+Nordfyns,1,Bogense,"O_Christian_Højkilde_Hansen,_Nørreby","Christian Højkilde Hansen, Nørreby",Dansk Folkeparti,3
+Nordfyns,1,Bogense,"O_Nick_Vennerstrøm_Jørgensen,Bogense","Nick Vennerstrøm Jørgensen,Bogense",Dansk Folkeparti,2
+Nordfyns,1,Bogense,"O_Poul_Svane_Madsen,_Bogense","Poul Svane Madsen, Bogense",Dansk Folkeparti,10
+Nordfyns,1,Bogense,"O_Niels_Christian_Holst_Hansen,Hårsl","Niels Christian Holst Hansen,Hårsl",Dansk Folkeparti,4
+Nordfyns,1,Bogense,"O_Sonja_Skøtt,_Bogense","Sonja Skøtt, Bogense",Dansk Folkeparti,8
+Nordfyns,1,Bogense,"O_Per_Christensen,_Uggerslev","Per Christensen, Uggerslev",Dansk Folkeparti,1
+Nordfyns,1,Bogense,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",83
+Nordfyns,1,Bogense,V_Morten_Andersen,Morten Andersen,"Venstre, Danmarks Liberale Parti",699
+Nordfyns,1,Bogense,V_Mette_Landtved-Holm,Mette Landtved-Holm,"Venstre, Danmarks Liberale Parti",15
+Nordfyns,1,Bogense,V_Palle_Yndgaard,Palle Yndgaard,"Venstre, Danmarks Liberale Parti",23
+Nordfyns,1,Bogense,V_Kenneth_Clasen,Kenneth Clasen,"Venstre, Danmarks Liberale Parti",112
+Nordfyns,1,Bogense,V_Annette_Allesø,Annette Allesø,"Venstre, Danmarks Liberale Parti",0
+Nordfyns,1,Bogense,V_Mogens_Christensen,Mogens Christensen,"Venstre, Danmarks Liberale Parti",9
+Nordfyns,1,Bogense,V_Marie_Holmgaard_Søvsø,Marie Holmgaard Søvsø,"Venstre, Danmarks Liberale Parti",1
+Nordfyns,1,Bogense,V_Anja_Lund,Anja Lund,"Venstre, Danmarks Liberale Parti",60
+Nordfyns,1,Bogense,V_Ole_Taustrup_Hansen,Ole Taustrup Hansen,"Venstre, Danmarks Liberale Parti",1
+Nordfyns,1,Bogense,V_Helle_Brunse,Helle Brunse,"Venstre, Danmarks Liberale Parti",19
+Nordfyns,1,Bogense,V_Claus_Halsgaard_Pedersen,Claus Halsgaard Pedersen,"Venstre, Danmarks Liberale Parti",10
+Nordfyns,1,Bogense,V_Bettina_Møller-Hansen,Bettina Møller-Hansen,"Venstre, Danmarks Liberale Parti",0
+Nordfyns,1,Bogense,V_Lasse_Mogensen,Lasse Mogensen,"Venstre, Danmarks Liberale Parti",51
+Nordfyns,1,Bogense,V_Nikolaj_Vang,Nikolaj Vang,"Venstre, Danmarks Liberale Parti",29
+Nordfyns,1,Bogense,V_Dennis_Christensen,Dennis Christensen,"Venstre, Danmarks Liberale Parti",2
+Nordfyns,1,Bogense,V_Henriette_Liedicke,Henriette Liedicke,"Venstre, Danmarks Liberale Parti",21
+Nordfyns,1,Bogense,V_Maria_Dahl_Hedegaard,Maria Dahl Hedegaard,"Venstre, Danmarks Liberale Parti",2
+Nordfyns,1,Bogense,V_Brian_Korsgaard,Brian Korsgaard,"Venstre, Danmarks Liberale Parti",0
+Nordfyns,1,Bogense,V_Robin_Birch,Robin Birch,"Venstre, Danmarks Liberale Parti",1
+Nordfyns,1,Bogense,V_Franz_Rohde,Franz Rohde,"Venstre, Danmarks Liberale Parti",0
+Nordfyns,1,Bogense,V_Lars_Ladegaard,Lars Ladegaard,"Venstre, Danmarks Liberale Parti",16
+Nordfyns,1,Bogense,V_Gitte_Kristiansen,Gitte Kristiansen,"Venstre, Danmarks Liberale Parti",3
+Nordfyns,1,Bogense,V_Jesper_Vestergaard,Jesper Vestergaard,"Venstre, Danmarks Liberale Parti",4
+Nordfyns,1,Bogense,V_Jørgen_Kjeldsen,Jørgen Kjeldsen,"Venstre, Danmarks Liberale Parti",15
+Nordfyns,1,Bogense,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,17
+Nordfyns,1,Bogense,Ø_Niels_Bjarne_Lund,Niels Bjarne Lund,Enhedslisten - De Rød-Grønne,13
+Nordfyns,1,Bogense,Ø_Dirk_Müller,Dirk Müller,Enhedslisten - De Rød-Grønne,4
+Nordfyns,2,Klinte,A_Listestemmer,Listestemmer,Socialdemokratiet,30
+Nordfyns,2,Klinte,A_Helle_Waagner,Helle Waagner,Socialdemokratiet,35
+Nordfyns,2,Klinte,A_Kasper_Solberg,Kasper Solberg,Socialdemokratiet,8
+Nordfyns,2,Klinte,A_Bernt_Nicolaysen,Bernt Nicolaysen,Socialdemokratiet,0
+Nordfyns,2,Klinte,A_Anette_Lykke_Jensen,Anette Lykke Jensen,Socialdemokratiet,5
+Nordfyns,2,Klinte,A_Dorte_Schmidt,Dorte Schmidt,Socialdemokratiet,1
+Nordfyns,2,Klinte,A_Brian_Lebæk,Brian Lebæk,Socialdemokratiet,3
+Nordfyns,2,Klinte,A_Gert_Block_Hættlein_Rasmussen,Gert Block Hættlein Rasmussen,Socialdemokratiet,1
+Nordfyns,2,Klinte,A_Heidi_Valentin,Heidi Valentin,Socialdemokratiet,1
+Nordfyns,2,Klinte,A_Johnny_Kristensen,Johnny Kristensen,Socialdemokratiet,4
+Nordfyns,2,Klinte,A_Idrees_Haider,Idrees Haider,Socialdemokratiet,2
+Nordfyns,2,Klinte,A_Sigridur_Thorvaldsdottir,Sigridur Thorvaldsdottir,Socialdemokratiet,11
+Nordfyns,2,Klinte,A_Jane_Lydia_Gulbæk,Jane Lydia Gulbæk,Socialdemokratiet,3
+Nordfyns,2,Klinte,A_Thomas_Mrzyglod,Thomas Mrzyglod,Socialdemokratiet,0
+Nordfyns,2,Klinte,A_Arne_Erlund,Arne Erlund,Socialdemokratiet,0
+Nordfyns,2,Klinte,A_Svenn_Kopp_Pedersen,Svenn Kopp Pedersen,Socialdemokratiet,0
+Nordfyns,2,Klinte,B_Listestemmer,Listestemmer,Radikale Venstre,1
+Nordfyns,2,Klinte,B_Bo_Jakobsen,Bo Jakobsen,Radikale Venstre,16
+Nordfyns,2,Klinte,B_Mette_Hjorth,Mette Hjorth,Radikale Venstre,0
+Nordfyns,2,Klinte,B_John_Arnshof,John Arnshof,Radikale Venstre,0
+Nordfyns,2,Klinte,B_Jacob-Steen_Madsen,Jacob-Steen Madsen,Radikale Venstre,8
+Nordfyns,2,Klinte,B_Rasmus_Festerling_Sørensen,Rasmus Festerling Sørensen,Radikale Venstre,0
+Nordfyns,2,Klinte,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,9
+Nordfyns,2,Klinte,C_Anders_Thingholm,Anders Thingholm,Det Konservative Folkeparti,8
+Nordfyns,2,Klinte,C_Marie_Louise_Pedersen,Marie Louise Pedersen,Det Konservative Folkeparti,9
+Nordfyns,2,Klinte,C_Christina_Flyman,Christina Flyman,Det Konservative Folkeparti,0
+Nordfyns,2,Klinte,C_Carsten_Jäger,Carsten Jäger,Det Konservative Folkeparti,1
+Nordfyns,2,Klinte,C_Jeff_Duckett,Jeff Duckett,Det Konservative Folkeparti,1
+Nordfyns,2,Klinte,D_Listestemmer,Listestemmer,Nye Borgerlige,9
+Nordfyns,2,Klinte,"D_Bill_Malmgren,_Otterup","Bill Malmgren, Otterup",Nye Borgerlige,4
+Nordfyns,2,Klinte,"D_Bjarne_Knudsen,_Søndersø","Bjarne Knudsen, Søndersø",Nye Borgerlige,6
+Nordfyns,2,Klinte,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,7
+Nordfyns,2,Klinte,F_Anne-Lise_Sievers,Anne-Lise Sievers,SF - Socialistisk Folkeparti,13
+Nordfyns,2,Klinte,F_Bent_Olsen,Bent Olsen,SF - Socialistisk Folkeparti,0
+Nordfyns,2,Klinte,F_Pia_Longet,Pia Longet,SF - Socialistisk Folkeparti,1
+Nordfyns,2,Klinte,F_Lene_Granløkke,Lene Granløkke,SF - Socialistisk Folkeparti,6
+Nordfyns,2,Klinte,F_Bine_Mathiasen,Bine Mathiasen,SF - Socialistisk Folkeparti,5
+Nordfyns,2,Klinte,O_Listestemmer,Listestemmer,Dansk Folkeparti,9
+Nordfyns,2,Klinte,"O_Jane_Yndgaard,_Klintebjerg","Jane Yndgaard, Klintebjerg",Dansk Folkeparti,10
+Nordfyns,2,Klinte,"O_Eva_Jørgensen,_Bogense","Eva Jørgensen, Bogense",Dansk Folkeparti,6
+Nordfyns,2,Klinte,"O_Henrik_Damborg_Sørensen,_Hårslev","Henrik Damborg Sørensen, Hårslev",Dansk Folkeparti,1
+Nordfyns,2,Klinte,"O_Christian_Højkilde_Hansen,_Nørreby","Christian Højkilde Hansen, Nørreby",Dansk Folkeparti,5
+Nordfyns,2,Klinte,"O_Nick_Vennerstrøm_Jørgensen,Bogense","Nick Vennerstrøm Jørgensen,Bogense",Dansk Folkeparti,0
+Nordfyns,2,Klinte,"O_Poul_Svane_Madsen,_Bogense","Poul Svane Madsen, Bogense",Dansk Folkeparti,1
+Nordfyns,2,Klinte,"O_Niels_Christian_Holst_Hansen,Hårsl","Niels Christian Holst Hansen,Hårsl",Dansk Folkeparti,2
+Nordfyns,2,Klinte,"O_Sonja_Skøtt,_Bogense","Sonja Skøtt, Bogense",Dansk Folkeparti,2
+Nordfyns,2,Klinte,"O_Per_Christensen,_Uggerslev","Per Christensen, Uggerslev",Dansk Folkeparti,2
+Nordfyns,2,Klinte,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",16
+Nordfyns,2,Klinte,V_Morten_Andersen,Morten Andersen,"Venstre, Danmarks Liberale Parti",94
+Nordfyns,2,Klinte,V_Mette_Landtved-Holm,Mette Landtved-Holm,"Venstre, Danmarks Liberale Parti",5
+Nordfyns,2,Klinte,V_Palle_Yndgaard,Palle Yndgaard,"Venstre, Danmarks Liberale Parti",3
+Nordfyns,2,Klinte,V_Kenneth_Clasen,Kenneth Clasen,"Venstre, Danmarks Liberale Parti",3
+Nordfyns,2,Klinte,V_Annette_Allesø,Annette Allesø,"Venstre, Danmarks Liberale Parti",1
+Nordfyns,2,Klinte,V_Mogens_Christensen,Mogens Christensen,"Venstre, Danmarks Liberale Parti",1
+Nordfyns,2,Klinte,V_Marie_Holmgaard_Søvsø,Marie Holmgaard Søvsø,"Venstre, Danmarks Liberale Parti",1
+Nordfyns,2,Klinte,V_Anja_Lund,Anja Lund,"Venstre, Danmarks Liberale Parti",8
+Nordfyns,2,Klinte,V_Ole_Taustrup_Hansen,Ole Taustrup Hansen,"Venstre, Danmarks Liberale Parti",2
+Nordfyns,2,Klinte,V_Helle_Brunse,Helle Brunse,"Venstre, Danmarks Liberale Parti",4
+Nordfyns,2,Klinte,V_Claus_Halsgaard_Pedersen,Claus Halsgaard Pedersen,"Venstre, Danmarks Liberale Parti",83
+Nordfyns,2,Klinte,V_Bettina_Møller-Hansen,Bettina Møller-Hansen,"Venstre, Danmarks Liberale Parti",1
+Nordfyns,2,Klinte,V_Lasse_Mogensen,Lasse Mogensen,"Venstre, Danmarks Liberale Parti",3
+Nordfyns,2,Klinte,V_Nikolaj_Vang,Nikolaj Vang,"Venstre, Danmarks Liberale Parti",5
+Nordfyns,2,Klinte,V_Dennis_Christensen,Dennis Christensen,"Venstre, Danmarks Liberale Parti",0
+Nordfyns,2,Klinte,V_Henriette_Liedicke,Henriette Liedicke,"Venstre, Danmarks Liberale Parti",1
+Nordfyns,2,Klinte,V_Maria_Dahl_Hedegaard,Maria Dahl Hedegaard,"Venstre, Danmarks Liberale Parti",0
+Nordfyns,2,Klinte,V_Brian_Korsgaard,Brian Korsgaard,"Venstre, Danmarks Liberale Parti",1
+Nordfyns,2,Klinte,V_Robin_Birch,Robin Birch,"Venstre, Danmarks Liberale Parti",0
+Nordfyns,2,Klinte,V_Franz_Rohde,Franz Rohde,"Venstre, Danmarks Liberale Parti",0
+Nordfyns,2,Klinte,V_Lars_Ladegaard,Lars Ladegaard,"Venstre, Danmarks Liberale Parti",3
+Nordfyns,2,Klinte,V_Gitte_Kristiansen,Gitte Kristiansen,"Venstre, Danmarks Liberale Parti",3
+Nordfyns,2,Klinte,V_Jesper_Vestergaard,Jesper Vestergaard,"Venstre, Danmarks Liberale Parti",0
+Nordfyns,2,Klinte,V_Jørgen_Kjeldsen,Jørgen Kjeldsen,"Venstre, Danmarks Liberale Parti",0
+Nordfyns,2,Klinte,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,3
+Nordfyns,2,Klinte,Ø_Niels_Bjarne_Lund,Niels Bjarne Lund,Enhedslisten - De Rød-Grønne,5
+Nordfyns,2,Klinte,Ø_Dirk_Müller,Dirk Müller,Enhedslisten - De Rød-Grønne,0
+Nordfyns,3,Kongslund,A_Listestemmer,Listestemmer,Socialdemokratiet,70
+Nordfyns,3,Kongslund,A_Helle_Waagner,Helle Waagner,Socialdemokratiet,56
+Nordfyns,3,Kongslund,A_Kasper_Solberg,Kasper Solberg,Socialdemokratiet,10
+Nordfyns,3,Kongslund,A_Bernt_Nicolaysen,Bernt Nicolaysen,Socialdemokratiet,1
+Nordfyns,3,Kongslund,A_Anette_Lykke_Jensen,Anette Lykke Jensen,Socialdemokratiet,8
+Nordfyns,3,Kongslund,A_Dorte_Schmidt,Dorte Schmidt,Socialdemokratiet,6
+Nordfyns,3,Kongslund,A_Brian_Lebæk,Brian Lebæk,Socialdemokratiet,3
+Nordfyns,3,Kongslund,A_Gert_Block_Hættlein_Rasmussen,Gert Block Hættlein Rasmussen,Socialdemokratiet,1
+Nordfyns,3,Kongslund,A_Heidi_Valentin,Heidi Valentin,Socialdemokratiet,1
+Nordfyns,3,Kongslund,A_Johnny_Kristensen,Johnny Kristensen,Socialdemokratiet,15
+Nordfyns,3,Kongslund,A_Idrees_Haider,Idrees Haider,Socialdemokratiet,1
+Nordfyns,3,Kongslund,A_Sigridur_Thorvaldsdottir,Sigridur Thorvaldsdottir,Socialdemokratiet,15
+Nordfyns,3,Kongslund,A_Jane_Lydia_Gulbæk,Jane Lydia Gulbæk,Socialdemokratiet,0
+Nordfyns,3,Kongslund,A_Thomas_Mrzyglod,Thomas Mrzyglod,Socialdemokratiet,1
+Nordfyns,3,Kongslund,A_Arne_Erlund,Arne Erlund,Socialdemokratiet,0
+Nordfyns,3,Kongslund,A_Svenn_Kopp_Pedersen,Svenn Kopp Pedersen,Socialdemokratiet,1
+Nordfyns,3,Kongslund,B_Listestemmer,Listestemmer,Radikale Venstre,7
+Nordfyns,3,Kongslund,B_Bo_Jakobsen,Bo Jakobsen,Radikale Venstre,34
+Nordfyns,3,Kongslund,B_Mette_Hjorth,Mette Hjorth,Radikale Venstre,4
+Nordfyns,3,Kongslund,B_John_Arnshof,John Arnshof,Radikale Venstre,0
+Nordfyns,3,Kongslund,B_Jacob-Steen_Madsen,Jacob-Steen Madsen,Radikale Venstre,2
+Nordfyns,3,Kongslund,B_Rasmus_Festerling_Sørensen,Rasmus Festerling Sørensen,Radikale Venstre,0
+Nordfyns,3,Kongslund,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,14
+Nordfyns,3,Kongslund,C_Anders_Thingholm,Anders Thingholm,Det Konservative Folkeparti,13
+Nordfyns,3,Kongslund,C_Marie_Louise_Pedersen,Marie Louise Pedersen,Det Konservative Folkeparti,9
+Nordfyns,3,Kongslund,C_Christina_Flyman,Christina Flyman,Det Konservative Folkeparti,7
+Nordfyns,3,Kongslund,C_Carsten_Jäger,Carsten Jäger,Det Konservative Folkeparti,1
+Nordfyns,3,Kongslund,C_Jeff_Duckett,Jeff Duckett,Det Konservative Folkeparti,2
+Nordfyns,3,Kongslund,D_Listestemmer,Listestemmer,Nye Borgerlige,13
+Nordfyns,3,Kongslund,"D_Bill_Malmgren,_Otterup","Bill Malmgren, Otterup",Nye Borgerlige,10
+Nordfyns,3,Kongslund,"D_Bjarne_Knudsen,_Søndersø","Bjarne Knudsen, Søndersø",Nye Borgerlige,6
+Nordfyns,3,Kongslund,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,17
+Nordfyns,3,Kongslund,F_Anne-Lise_Sievers,Anne-Lise Sievers,SF - Socialistisk Folkeparti,17
+Nordfyns,3,Kongslund,F_Bent_Olsen,Bent Olsen,SF - Socialistisk Folkeparti,5
+Nordfyns,3,Kongslund,F_Pia_Longet,Pia Longet,SF - Socialistisk Folkeparti,1
+Nordfyns,3,Kongslund,F_Lene_Granløkke,Lene Granløkke,SF - Socialistisk Folkeparti,2
+Nordfyns,3,Kongslund,F_Bine_Mathiasen,Bine Mathiasen,SF - Socialistisk Folkeparti,15
+Nordfyns,3,Kongslund,O_Listestemmer,Listestemmer,Dansk Folkeparti,17
+Nordfyns,3,Kongslund,"O_Jane_Yndgaard,_Klintebjerg","Jane Yndgaard, Klintebjerg",Dansk Folkeparti,8
+Nordfyns,3,Kongslund,"O_Eva_Jørgensen,_Bogense","Eva Jørgensen, Bogense",Dansk Folkeparti,8
+Nordfyns,3,Kongslund,"O_Henrik_Damborg_Sørensen,_Hårslev","Henrik Damborg Sørensen, Hårslev",Dansk Folkeparti,5
+Nordfyns,3,Kongslund,"O_Christian_Højkilde_Hansen,_Nørreby","Christian Højkilde Hansen, Nørreby",Dansk Folkeparti,2
+Nordfyns,3,Kongslund,"O_Nick_Vennerstrøm_Jørgensen,Bogense","Nick Vennerstrøm Jørgensen,Bogense",Dansk Folkeparti,0
+Nordfyns,3,Kongslund,"O_Poul_Svane_Madsen,_Bogense","Poul Svane Madsen, Bogense",Dansk Folkeparti,0
+Nordfyns,3,Kongslund,"O_Niels_Christian_Holst_Hansen,Hårsl","Niels Christian Holst Hansen,Hårsl",Dansk Folkeparti,2
+Nordfyns,3,Kongslund,"O_Sonja_Skøtt,_Bogense","Sonja Skøtt, Bogense",Dansk Folkeparti,4
+Nordfyns,3,Kongslund,"O_Per_Christensen,_Uggerslev","Per Christensen, Uggerslev",Dansk Folkeparti,1
+Nordfyns,3,Kongslund,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",28
+Nordfyns,3,Kongslund,V_Morten_Andersen,Morten Andersen,"Venstre, Danmarks Liberale Parti",202
+Nordfyns,3,Kongslund,V_Mette_Landtved-Holm,Mette Landtved-Holm,"Venstre, Danmarks Liberale Parti",3
+Nordfyns,3,Kongslund,V_Palle_Yndgaard,Palle Yndgaard,"Venstre, Danmarks Liberale Parti",7
+Nordfyns,3,Kongslund,V_Kenneth_Clasen,Kenneth Clasen,"Venstre, Danmarks Liberale Parti",18
+Nordfyns,3,Kongslund,V_Annette_Allesø,Annette Allesø,"Venstre, Danmarks Liberale Parti",1
+Nordfyns,3,Kongslund,V_Mogens_Christensen,Mogens Christensen,"Venstre, Danmarks Liberale Parti",3
+Nordfyns,3,Kongslund,V_Marie_Holmgaard_Søvsø,Marie Holmgaard Søvsø,"Venstre, Danmarks Liberale Parti",2
+Nordfyns,3,Kongslund,V_Anja_Lund,Anja Lund,"Venstre, Danmarks Liberale Parti",18
+Nordfyns,3,Kongslund,V_Ole_Taustrup_Hansen,Ole Taustrup Hansen,"Venstre, Danmarks Liberale Parti",1
+Nordfyns,3,Kongslund,V_Helle_Brunse,Helle Brunse,"Venstre, Danmarks Liberale Parti",3
+Nordfyns,3,Kongslund,V_Claus_Halsgaard_Pedersen,Claus Halsgaard Pedersen,"Venstre, Danmarks Liberale Parti",5
+Nordfyns,3,Kongslund,V_Bettina_Møller-Hansen,Bettina Møller-Hansen,"Venstre, Danmarks Liberale Parti",0
+Nordfyns,3,Kongslund,V_Lasse_Mogensen,Lasse Mogensen,"Venstre, Danmarks Liberale Parti",17
+Nordfyns,3,Kongslund,V_Nikolaj_Vang,Nikolaj Vang,"Venstre, Danmarks Liberale Parti",142
+Nordfyns,3,Kongslund,V_Dennis_Christensen,Dennis Christensen,"Venstre, Danmarks Liberale Parti",0
+Nordfyns,3,Kongslund,V_Henriette_Liedicke,Henriette Liedicke,"Venstre, Danmarks Liberale Parti",3
+Nordfyns,3,Kongslund,V_Maria_Dahl_Hedegaard,Maria Dahl Hedegaard,"Venstre, Danmarks Liberale Parti",3
+Nordfyns,3,Kongslund,V_Brian_Korsgaard,Brian Korsgaard,"Venstre, Danmarks Liberale Parti",2
+Nordfyns,3,Kongslund,V_Robin_Birch,Robin Birch,"Venstre, Danmarks Liberale Parti",2
+Nordfyns,3,Kongslund,V_Franz_Rohde,Franz Rohde,"Venstre, Danmarks Liberale Parti",1
+Nordfyns,3,Kongslund,V_Lars_Ladegaard,Lars Ladegaard,"Venstre, Danmarks Liberale Parti",0
+Nordfyns,3,Kongslund,V_Gitte_Kristiansen,Gitte Kristiansen,"Venstre, Danmarks Liberale Parti",2
+Nordfyns,3,Kongslund,V_Jesper_Vestergaard,Jesper Vestergaard,"Venstre, Danmarks Liberale Parti",1
+Nordfyns,3,Kongslund,V_Jørgen_Kjeldsen,Jørgen Kjeldsen,"Venstre, Danmarks Liberale Parti",4
+Nordfyns,3,Kongslund,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,11
+Nordfyns,3,Kongslund,Ø_Niels_Bjarne_Lund,Niels Bjarne Lund,Enhedslisten - De Rød-Grønne,6
+Nordfyns,3,Kongslund,Ø_Dirk_Müller,Dirk Müller,Enhedslisten - De Rød-Grønne,1
+Nordfyns,4,Horsebæk,A_Listestemmer,Listestemmer,Socialdemokratiet,58
+Nordfyns,4,Horsebæk,A_Helle_Waagner,Helle Waagner,Socialdemokratiet,36
+Nordfyns,4,Horsebæk,A_Kasper_Solberg,Kasper Solberg,Socialdemokratiet,24
+Nordfyns,4,Horsebæk,A_Bernt_Nicolaysen,Bernt Nicolaysen,Socialdemokratiet,6
+Nordfyns,4,Horsebæk,A_Anette_Lykke_Jensen,Anette Lykke Jensen,Socialdemokratiet,4
+Nordfyns,4,Horsebæk,A_Dorte_Schmidt,Dorte Schmidt,Socialdemokratiet,17
+Nordfyns,4,Horsebæk,A_Brian_Lebæk,Brian Lebæk,Socialdemokratiet,4
+Nordfyns,4,Horsebæk,A_Gert_Block_Hættlein_Rasmussen,Gert Block Hættlein Rasmussen,Socialdemokratiet,1
+Nordfyns,4,Horsebæk,A_Heidi_Valentin,Heidi Valentin,Socialdemokratiet,2
+Nordfyns,4,Horsebæk,A_Johnny_Kristensen,Johnny Kristensen,Socialdemokratiet,1
+Nordfyns,4,Horsebæk,A_Idrees_Haider,Idrees Haider,Socialdemokratiet,2
+Nordfyns,4,Horsebæk,A_Sigridur_Thorvaldsdottir,Sigridur Thorvaldsdottir,Socialdemokratiet,2
+Nordfyns,4,Horsebæk,A_Jane_Lydia_Gulbæk,Jane Lydia Gulbæk,Socialdemokratiet,11
+Nordfyns,4,Horsebæk,A_Thomas_Mrzyglod,Thomas Mrzyglod,Socialdemokratiet,0
+Nordfyns,4,Horsebæk,A_Arne_Erlund,Arne Erlund,Socialdemokratiet,13
+Nordfyns,4,Horsebæk,A_Svenn_Kopp_Pedersen,Svenn Kopp Pedersen,Socialdemokratiet,1
+Nordfyns,4,Horsebæk,B_Listestemmer,Listestemmer,Radikale Venstre,2
+Nordfyns,4,Horsebæk,B_Bo_Jakobsen,Bo Jakobsen,Radikale Venstre,2
+Nordfyns,4,Horsebæk,B_Mette_Hjorth,Mette Hjorth,Radikale Venstre,3
+Nordfyns,4,Horsebæk,B_John_Arnshof,John Arnshof,Radikale Venstre,0
+Nordfyns,4,Horsebæk,B_Jacob-Steen_Madsen,Jacob-Steen Madsen,Radikale Venstre,0
+Nordfyns,4,Horsebæk,B_Rasmus_Festerling_Sørensen,Rasmus Festerling Sørensen,Radikale Venstre,0
+Nordfyns,4,Horsebæk,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,13
+Nordfyns,4,Horsebæk,C_Anders_Thingholm,Anders Thingholm,Det Konservative Folkeparti,10
+Nordfyns,4,Horsebæk,C_Marie_Louise_Pedersen,Marie Louise Pedersen,Det Konservative Folkeparti,1
+Nordfyns,4,Horsebæk,C_Christina_Flyman,Christina Flyman,Det Konservative Folkeparti,3
+Nordfyns,4,Horsebæk,C_Carsten_Jäger,Carsten Jäger,Det Konservative Folkeparti,3
+Nordfyns,4,Horsebæk,C_Jeff_Duckett,Jeff Duckett,Det Konservative Folkeparti,2
+Nordfyns,4,Horsebæk,D_Listestemmer,Listestemmer,Nye Borgerlige,21
+Nordfyns,4,Horsebæk,"D_Bill_Malmgren,_Otterup","Bill Malmgren, Otterup",Nye Borgerlige,12
+Nordfyns,4,Horsebæk,"D_Bjarne_Knudsen,_Søndersø","Bjarne Knudsen, Søndersø",Nye Borgerlige,3
+Nordfyns,4,Horsebæk,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,8
+Nordfyns,4,Horsebæk,F_Anne-Lise_Sievers,Anne-Lise Sievers,SF - Socialistisk Folkeparti,3
+Nordfyns,4,Horsebæk,F_Bent_Olsen,Bent Olsen,SF - Socialistisk Folkeparti,3
+Nordfyns,4,Horsebæk,F_Pia_Longet,Pia Longet,SF - Socialistisk Folkeparti,4
+Nordfyns,4,Horsebæk,F_Lene_Granløkke,Lene Granløkke,SF - Socialistisk Folkeparti,9
+Nordfyns,4,Horsebæk,F_Bine_Mathiasen,Bine Mathiasen,SF - Socialistisk Folkeparti,10
+Nordfyns,4,Horsebæk,O_Listestemmer,Listestemmer,Dansk Folkeparti,13
+Nordfyns,4,Horsebæk,"O_Jane_Yndgaard,_Klintebjerg","Jane Yndgaard, Klintebjerg",Dansk Folkeparti,25
+Nordfyns,4,Horsebæk,"O_Eva_Jørgensen,_Bogense","Eva Jørgensen, Bogense",Dansk Folkeparti,2
+Nordfyns,4,Horsebæk,"O_Henrik_Damborg_Sørensen,_Hårslev","Henrik Damborg Sørensen, Hårslev",Dansk Folkeparti,0
+Nordfyns,4,Horsebæk,"O_Christian_Højkilde_Hansen,_Nørreby","Christian Højkilde Hansen, Nørreby",Dansk Folkeparti,1
+Nordfyns,4,Horsebæk,"O_Nick_Vennerstrøm_Jørgensen,Bogense","Nick Vennerstrøm Jørgensen,Bogense",Dansk Folkeparti,0
+Nordfyns,4,Horsebæk,"O_Poul_Svane_Madsen,_Bogense","Poul Svane Madsen, Bogense",Dansk Folkeparti,1
+Nordfyns,4,Horsebæk,"O_Niels_Christian_Holst_Hansen,Hårsl","Niels Christian Holst Hansen,Hårsl",Dansk Folkeparti,0
+Nordfyns,4,Horsebæk,"O_Sonja_Skøtt,_Bogense","Sonja Skøtt, Bogense",Dansk Folkeparti,1
+Nordfyns,4,Horsebæk,"O_Per_Christensen,_Uggerslev","Per Christensen, Uggerslev",Dansk Folkeparti,7
+Nordfyns,4,Horsebæk,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",38
+Nordfyns,4,Horsebæk,V_Morten_Andersen,Morten Andersen,"Venstre, Danmarks Liberale Parti",74
+Nordfyns,4,Horsebæk,V_Mette_Landtved-Holm,Mette Landtved-Holm,"Venstre, Danmarks Liberale Parti",52
+Nordfyns,4,Horsebæk,V_Palle_Yndgaard,Palle Yndgaard,"Venstre, Danmarks Liberale Parti",5
+Nordfyns,4,Horsebæk,V_Kenneth_Clasen,Kenneth Clasen,"Venstre, Danmarks Liberale Parti",0
+Nordfyns,4,Horsebæk,V_Annette_Allesø,Annette Allesø,"Venstre, Danmarks Liberale Parti",5
+Nordfyns,4,Horsebæk,V_Mogens_Christensen,Mogens Christensen,"Venstre, Danmarks Liberale Parti",1
+Nordfyns,4,Horsebæk,V_Marie_Holmgaard_Søvsø,Marie Holmgaard Søvsø,"Venstre, Danmarks Liberale Parti",2
+Nordfyns,4,Horsebæk,V_Anja_Lund,Anja Lund,"Venstre, Danmarks Liberale Parti",13
+Nordfyns,4,Horsebæk,V_Ole_Taustrup_Hansen,Ole Taustrup Hansen,"Venstre, Danmarks Liberale Parti",48
+Nordfyns,4,Horsebæk,V_Helle_Brunse,Helle Brunse,"Venstre, Danmarks Liberale Parti",1
+Nordfyns,4,Horsebæk,V_Claus_Halsgaard_Pedersen,Claus Halsgaard Pedersen,"Venstre, Danmarks Liberale Parti",0
+Nordfyns,4,Horsebæk,V_Bettina_Møller-Hansen,Bettina Møller-Hansen,"Venstre, Danmarks Liberale Parti",0
+Nordfyns,4,Horsebæk,V_Lasse_Mogensen,Lasse Mogensen,"Venstre, Danmarks Liberale Parti",0
+Nordfyns,4,Horsebæk,V_Nikolaj_Vang,Nikolaj Vang,"Venstre, Danmarks Liberale Parti",3
+Nordfyns,4,Horsebæk,V_Dennis_Christensen,Dennis Christensen,"Venstre, Danmarks Liberale Parti",30
+Nordfyns,4,Horsebæk,V_Henriette_Liedicke,Henriette Liedicke,"Venstre, Danmarks Liberale Parti",0
+Nordfyns,4,Horsebæk,V_Maria_Dahl_Hedegaard,Maria Dahl Hedegaard,"Venstre, Danmarks Liberale Parti",3
+Nordfyns,4,Horsebæk,V_Brian_Korsgaard,Brian Korsgaard,"Venstre, Danmarks Liberale Parti",1
+Nordfyns,4,Horsebæk,V_Robin_Birch,Robin Birch,"Venstre, Danmarks Liberale Parti",0
+Nordfyns,4,Horsebæk,V_Franz_Rohde,Franz Rohde,"Venstre, Danmarks Liberale Parti",6
+Nordfyns,4,Horsebæk,V_Lars_Ladegaard,Lars Ladegaard,"Venstre, Danmarks Liberale Parti",0
+Nordfyns,4,Horsebæk,V_Gitte_Kristiansen,Gitte Kristiansen,"Venstre, Danmarks Liberale Parti",2
+Nordfyns,4,Horsebæk,V_Jesper_Vestergaard,Jesper Vestergaard,"Venstre, Danmarks Liberale Parti",0
+Nordfyns,4,Horsebæk,V_Jørgen_Kjeldsen,Jørgen Kjeldsen,"Venstre, Danmarks Liberale Parti",1
+Nordfyns,4,Horsebæk,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,9
+Nordfyns,4,Horsebæk,Ø_Niels_Bjarne_Lund,Niels Bjarne Lund,Enhedslisten - De Rød-Grønne,1
+Nordfyns,4,Horsebæk,Ø_Dirk_Müller,Dirk Müller,Enhedslisten - De Rød-Grønne,1
+Nordfyns,5,Krogsbølle,A_Listestemmer,Listestemmer,Socialdemokratiet,77
+Nordfyns,5,Krogsbølle,A_Helle_Waagner,Helle Waagner,Socialdemokratiet,66
+Nordfyns,5,Krogsbølle,A_Kasper_Solberg,Kasper Solberg,Socialdemokratiet,165
+Nordfyns,5,Krogsbølle,A_Bernt_Nicolaysen,Bernt Nicolaysen,Socialdemokratiet,9
+Nordfyns,5,Krogsbølle,A_Anette_Lykke_Jensen,Anette Lykke Jensen,Socialdemokratiet,2
+Nordfyns,5,Krogsbølle,A_Dorte_Schmidt,Dorte Schmidt,Socialdemokratiet,43
+Nordfyns,5,Krogsbølle,A_Brian_Lebæk,Brian Lebæk,Socialdemokratiet,7
+Nordfyns,5,Krogsbølle,A_Gert_Block_Hættlein_Rasmussen,Gert Block Hættlein Rasmussen,Socialdemokratiet,0
+Nordfyns,5,Krogsbølle,A_Heidi_Valentin,Heidi Valentin,Socialdemokratiet,0
+Nordfyns,5,Krogsbølle,A_Johnny_Kristensen,Johnny Kristensen,Socialdemokratiet,2
+Nordfyns,5,Krogsbølle,A_Idrees_Haider,Idrees Haider,Socialdemokratiet,3
+Nordfyns,5,Krogsbølle,A_Sigridur_Thorvaldsdottir,Sigridur Thorvaldsdottir,Socialdemokratiet,4
+Nordfyns,5,Krogsbølle,A_Jane_Lydia_Gulbæk,Jane Lydia Gulbæk,Socialdemokratiet,3
+Nordfyns,5,Krogsbølle,A_Thomas_Mrzyglod,Thomas Mrzyglod,Socialdemokratiet,3
+Nordfyns,5,Krogsbølle,A_Arne_Erlund,Arne Erlund,Socialdemokratiet,4
+Nordfyns,5,Krogsbølle,A_Svenn_Kopp_Pedersen,Svenn Kopp Pedersen,Socialdemokratiet,0
+Nordfyns,5,Krogsbølle,B_Listestemmer,Listestemmer,Radikale Venstre,4
+Nordfyns,5,Krogsbølle,B_Bo_Jakobsen,Bo Jakobsen,Radikale Venstre,13
+Nordfyns,5,Krogsbølle,B_Mette_Hjorth,Mette Hjorth,Radikale Venstre,1
+Nordfyns,5,Krogsbølle,B_John_Arnshof,John Arnshof,Radikale Venstre,0
+Nordfyns,5,Krogsbølle,B_Jacob-Steen_Madsen,Jacob-Steen Madsen,Radikale Venstre,0
+Nordfyns,5,Krogsbølle,B_Rasmus_Festerling_Sørensen,Rasmus Festerling Sørensen,Radikale Venstre,0
+Nordfyns,5,Krogsbølle,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,17
+Nordfyns,5,Krogsbølle,C_Anders_Thingholm,Anders Thingholm,Det Konservative Folkeparti,28
+Nordfyns,5,Krogsbølle,C_Marie_Louise_Pedersen,Marie Louise Pedersen,Det Konservative Folkeparti,10
+Nordfyns,5,Krogsbølle,C_Christina_Flyman,Christina Flyman,Det Konservative Folkeparti,1
+Nordfyns,5,Krogsbølle,C_Carsten_Jäger,Carsten Jäger,Det Konservative Folkeparti,2
+Nordfyns,5,Krogsbølle,C_Jeff_Duckett,Jeff Duckett,Det Konservative Folkeparti,0
+Nordfyns,5,Krogsbølle,D_Listestemmer,Listestemmer,Nye Borgerlige,20
+Nordfyns,5,Krogsbølle,"D_Bill_Malmgren,_Otterup","Bill Malmgren, Otterup",Nye Borgerlige,29
+Nordfyns,5,Krogsbølle,"D_Bjarne_Knudsen,_Søndersø","Bjarne Knudsen, Søndersø",Nye Borgerlige,7
+Nordfyns,5,Krogsbølle,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,14
+Nordfyns,5,Krogsbølle,F_Anne-Lise_Sievers,Anne-Lise Sievers,SF - Socialistisk Folkeparti,13
+Nordfyns,5,Krogsbølle,F_Bent_Olsen,Bent Olsen,SF - Socialistisk Folkeparti,3
+Nordfyns,5,Krogsbølle,F_Pia_Longet,Pia Longet,SF - Socialistisk Folkeparti,7
+Nordfyns,5,Krogsbølle,F_Lene_Granløkke,Lene Granløkke,SF - Socialistisk Folkeparti,3
+Nordfyns,5,Krogsbølle,F_Bine_Mathiasen,Bine Mathiasen,SF - Socialistisk Folkeparti,18
+Nordfyns,5,Krogsbølle,O_Listestemmer,Listestemmer,Dansk Folkeparti,22
+Nordfyns,5,Krogsbølle,"O_Jane_Yndgaard,_Klintebjerg","Jane Yndgaard, Klintebjerg",Dansk Folkeparti,34
+Nordfyns,5,Krogsbølle,"O_Eva_Jørgensen,_Bogense","Eva Jørgensen, Bogense",Dansk Folkeparti,2
+Nordfyns,5,Krogsbølle,"O_Henrik_Damborg_Sørensen,_Hårslev","Henrik Damborg Sørensen, Hårslev",Dansk Folkeparti,4
+Nordfyns,5,Krogsbølle,"O_Christian_Højkilde_Hansen,_Nørreby","Christian Højkilde Hansen, Nørreby",Dansk Folkeparti,2
+Nordfyns,5,Krogsbølle,"O_Nick_Vennerstrøm_Jørgensen,Bogense","Nick Vennerstrøm Jørgensen,Bogense",Dansk Folkeparti,0
+Nordfyns,5,Krogsbølle,"O_Poul_Svane_Madsen,_Bogense","Poul Svane Madsen, Bogense",Dansk Folkeparti,5
+Nordfyns,5,Krogsbølle,"O_Niels_Christian_Holst_Hansen,Hårsl","Niels Christian Holst Hansen,Hårsl",Dansk Folkeparti,2
+Nordfyns,5,Krogsbølle,"O_Sonja_Skøtt,_Bogense","Sonja Skøtt, Bogense",Dansk Folkeparti,3
+Nordfyns,5,Krogsbølle,"O_Per_Christensen,_Uggerslev","Per Christensen, Uggerslev",Dansk Folkeparti,8
+Nordfyns,5,Krogsbølle,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",40
+Nordfyns,5,Krogsbølle,V_Morten_Andersen,Morten Andersen,"Venstre, Danmarks Liberale Parti",164
+Nordfyns,5,Krogsbølle,V_Mette_Landtved-Holm,Mette Landtved-Holm,"Venstre, Danmarks Liberale Parti",135
+Nordfyns,5,Krogsbølle,V_Palle_Yndgaard,Palle Yndgaard,"Venstre, Danmarks Liberale Parti",3
+Nordfyns,5,Krogsbølle,V_Kenneth_Clasen,Kenneth Clasen,"Venstre, Danmarks Liberale Parti",1
+Nordfyns,5,Krogsbølle,V_Annette_Allesø,Annette Allesø,"Venstre, Danmarks Liberale Parti",25
+Nordfyns,5,Krogsbølle,V_Mogens_Christensen,Mogens Christensen,"Venstre, Danmarks Liberale Parti",3
+Nordfyns,5,Krogsbølle,V_Marie_Holmgaard_Søvsø,Marie Holmgaard Søvsø,"Venstre, Danmarks Liberale Parti",1
+Nordfyns,5,Krogsbølle,V_Anja_Lund,Anja Lund,"Venstre, Danmarks Liberale Parti",14
+Nordfyns,5,Krogsbølle,V_Ole_Taustrup_Hansen,Ole Taustrup Hansen,"Venstre, Danmarks Liberale Parti",34
+Nordfyns,5,Krogsbølle,V_Helle_Brunse,Helle Brunse,"Venstre, Danmarks Liberale Parti",11
+Nordfyns,5,Krogsbølle,V_Claus_Halsgaard_Pedersen,Claus Halsgaard Pedersen,"Venstre, Danmarks Liberale Parti",2
+Nordfyns,5,Krogsbølle,V_Bettina_Møller-Hansen,Bettina Møller-Hansen,"Venstre, Danmarks Liberale Parti",5
+Nordfyns,5,Krogsbølle,V_Lasse_Mogensen,Lasse Mogensen,"Venstre, Danmarks Liberale Parti",0
+Nordfyns,5,Krogsbølle,V_Nikolaj_Vang,Nikolaj Vang,"Venstre, Danmarks Liberale Parti",0
+Nordfyns,5,Krogsbølle,V_Dennis_Christensen,Dennis Christensen,"Venstre, Danmarks Liberale Parti",10
+Nordfyns,5,Krogsbølle,V_Henriette_Liedicke,Henriette Liedicke,"Venstre, Danmarks Liberale Parti",2
+Nordfyns,5,Krogsbølle,V_Maria_Dahl_Hedegaard,Maria Dahl Hedegaard,"Venstre, Danmarks Liberale Parti",3
+Nordfyns,5,Krogsbølle,V_Brian_Korsgaard,Brian Korsgaard,"Venstre, Danmarks Liberale Parti",1
+Nordfyns,5,Krogsbølle,V_Robin_Birch,Robin Birch,"Venstre, Danmarks Liberale Parti",1
+Nordfyns,5,Krogsbølle,V_Franz_Rohde,Franz Rohde,"Venstre, Danmarks Liberale Parti",7
+Nordfyns,5,Krogsbølle,V_Lars_Ladegaard,Lars Ladegaard,"Venstre, Danmarks Liberale Parti",0
+Nordfyns,5,Krogsbølle,V_Gitte_Kristiansen,Gitte Kristiansen,"Venstre, Danmarks Liberale Parti",4
+Nordfyns,5,Krogsbølle,V_Jesper_Vestergaard,Jesper Vestergaard,"Venstre, Danmarks Liberale Parti",1
+Nordfyns,5,Krogsbølle,V_Jørgen_Kjeldsen,Jørgen Kjeldsen,"Venstre, Danmarks Liberale Parti",0
+Nordfyns,5,Krogsbølle,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,17
+Nordfyns,5,Krogsbølle,Ø_Niels_Bjarne_Lund,Niels Bjarne Lund,Enhedslisten - De Rød-Grønne,5
+Nordfyns,5,Krogsbølle,Ø_Dirk_Müller,Dirk Müller,Enhedslisten - De Rød-Grønne,2
+Nordfyns,6,Otterup,A_Listestemmer,Listestemmer,Socialdemokratiet,274
+Nordfyns,6,Otterup,A_Helle_Waagner,Helle Waagner,Socialdemokratiet,199
+Nordfyns,6,Otterup,A_Kasper_Solberg,Kasper Solberg,Socialdemokratiet,110
+Nordfyns,6,Otterup,A_Bernt_Nicolaysen,Bernt Nicolaysen,Socialdemokratiet,61
+Nordfyns,6,Otterup,A_Anette_Lykke_Jensen,Anette Lykke Jensen,Socialdemokratiet,10
+Nordfyns,6,Otterup,A_Dorte_Schmidt,Dorte Schmidt,Socialdemokratiet,104
+Nordfyns,6,Otterup,A_Brian_Lebæk,Brian Lebæk,Socialdemokratiet,100
+Nordfyns,6,Otterup,A_Gert_Block_Hættlein_Rasmussen,Gert Block Hættlein Rasmussen,Socialdemokratiet,4
+Nordfyns,6,Otterup,A_Heidi_Valentin,Heidi Valentin,Socialdemokratiet,4
+Nordfyns,6,Otterup,A_Johnny_Kristensen,Johnny Kristensen,Socialdemokratiet,0
+Nordfyns,6,Otterup,A_Idrees_Haider,Idrees Haider,Socialdemokratiet,30
+Nordfyns,6,Otterup,A_Sigridur_Thorvaldsdottir,Sigridur Thorvaldsdottir,Socialdemokratiet,5
+Nordfyns,6,Otterup,A_Jane_Lydia_Gulbæk,Jane Lydia Gulbæk,Socialdemokratiet,42
+Nordfyns,6,Otterup,A_Thomas_Mrzyglod,Thomas Mrzyglod,Socialdemokratiet,2
+Nordfyns,6,Otterup,A_Arne_Erlund,Arne Erlund,Socialdemokratiet,16
+Nordfyns,6,Otterup,A_Svenn_Kopp_Pedersen,Svenn Kopp Pedersen,Socialdemokratiet,0
+Nordfyns,6,Otterup,B_Listestemmer,Listestemmer,Radikale Venstre,8
+Nordfyns,6,Otterup,B_Bo_Jakobsen,Bo Jakobsen,Radikale Venstre,15
+Nordfyns,6,Otterup,B_Mette_Hjorth,Mette Hjorth,Radikale Venstre,12
+Nordfyns,6,Otterup,B_John_Arnshof,John Arnshof,Radikale Venstre,0
+Nordfyns,6,Otterup,B_Jacob-Steen_Madsen,Jacob-Steen Madsen,Radikale Venstre,1
+Nordfyns,6,Otterup,B_Rasmus_Festerling_Sørensen,Rasmus Festerling Sørensen,Radikale Venstre,0
+Nordfyns,6,Otterup,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,45
+Nordfyns,6,Otterup,C_Anders_Thingholm,Anders Thingholm,Det Konservative Folkeparti,70
+Nordfyns,6,Otterup,C_Marie_Louise_Pedersen,Marie Louise Pedersen,Det Konservative Folkeparti,16
+Nordfyns,6,Otterup,C_Christina_Flyman,Christina Flyman,Det Konservative Folkeparti,6
+Nordfyns,6,Otterup,C_Carsten_Jäger,Carsten Jäger,Det Konservative Folkeparti,7
+Nordfyns,6,Otterup,C_Jeff_Duckett,Jeff Duckett,Det Konservative Folkeparti,4
+Nordfyns,6,Otterup,D_Listestemmer,Listestemmer,Nye Borgerlige,34
+Nordfyns,6,Otterup,"D_Bill_Malmgren,_Otterup","Bill Malmgren, Otterup",Nye Borgerlige,29
+Nordfyns,6,Otterup,"D_Bjarne_Knudsen,_Søndersø","Bjarne Knudsen, Søndersø",Nye Borgerlige,5
+Nordfyns,6,Otterup,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,46
+Nordfyns,6,Otterup,F_Anne-Lise_Sievers,Anne-Lise Sievers,SF - Socialistisk Folkeparti,39
+Nordfyns,6,Otterup,F_Bent_Olsen,Bent Olsen,SF - Socialistisk Folkeparti,8
+Nordfyns,6,Otterup,F_Pia_Longet,Pia Longet,SF - Socialistisk Folkeparti,48
+Nordfyns,6,Otterup,F_Lene_Granløkke,Lene Granløkke,SF - Socialistisk Folkeparti,13
+Nordfyns,6,Otterup,F_Bine_Mathiasen,Bine Mathiasen,SF - Socialistisk Folkeparti,28
+Nordfyns,6,Otterup,O_Listestemmer,Listestemmer,Dansk Folkeparti,57
+Nordfyns,6,Otterup,"O_Jane_Yndgaard,_Klintebjerg","Jane Yndgaard, Klintebjerg",Dansk Folkeparti,108
+Nordfyns,6,Otterup,"O_Eva_Jørgensen,_Bogense","Eva Jørgensen, Bogense",Dansk Folkeparti,11
+Nordfyns,6,Otterup,"O_Henrik_Damborg_Sørensen,_Hårslev","Henrik Damborg Sørensen, Hårslev",Dansk Folkeparti,2
+Nordfyns,6,Otterup,"O_Christian_Højkilde_Hansen,_Nørreby","Christian Højkilde Hansen, Nørreby",Dansk Folkeparti,5
+Nordfyns,6,Otterup,"O_Nick_Vennerstrøm_Jørgensen,Bogense","Nick Vennerstrøm Jørgensen,Bogense",Dansk Folkeparti,1
+Nordfyns,6,Otterup,"O_Poul_Svane_Madsen,_Bogense","Poul Svane Madsen, Bogense",Dansk Folkeparti,2
+Nordfyns,6,Otterup,"O_Niels_Christian_Holst_Hansen,Hårsl","Niels Christian Holst Hansen,Hårsl",Dansk Folkeparti,0
+Nordfyns,6,Otterup,"O_Sonja_Skøtt,_Bogense","Sonja Skøtt, Bogense",Dansk Folkeparti,2
+Nordfyns,6,Otterup,"O_Per_Christensen,_Uggerslev","Per Christensen, Uggerslev",Dansk Folkeparti,20
+Nordfyns,6,Otterup,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",135
+Nordfyns,6,Otterup,V_Morten_Andersen,Morten Andersen,"Venstre, Danmarks Liberale Parti",411
+Nordfyns,6,Otterup,V_Mette_Landtved-Holm,Mette Landtved-Holm,"Venstre, Danmarks Liberale Parti",182
+Nordfyns,6,Otterup,V_Palle_Yndgaard,Palle Yndgaard,"Venstre, Danmarks Liberale Parti",14
+Nordfyns,6,Otterup,V_Kenneth_Clasen,Kenneth Clasen,"Venstre, Danmarks Liberale Parti",2
+Nordfyns,6,Otterup,V_Annette_Allesø,Annette Allesø,"Venstre, Danmarks Liberale Parti",100
+Nordfyns,6,Otterup,V_Mogens_Christensen,Mogens Christensen,"Venstre, Danmarks Liberale Parti",1
+Nordfyns,6,Otterup,V_Marie_Holmgaard_Søvsø,Marie Holmgaard Søvsø,"Venstre, Danmarks Liberale Parti",4
+Nordfyns,6,Otterup,V_Anja_Lund,Anja Lund,"Venstre, Danmarks Liberale Parti",44
+Nordfyns,6,Otterup,V_Ole_Taustrup_Hansen,Ole Taustrup Hansen,"Venstre, Danmarks Liberale Parti",56
+Nordfyns,6,Otterup,V_Helle_Brunse,Helle Brunse,"Venstre, Danmarks Liberale Parti",7
+Nordfyns,6,Otterup,V_Claus_Halsgaard_Pedersen,Claus Halsgaard Pedersen,"Venstre, Danmarks Liberale Parti",2
+Nordfyns,6,Otterup,V_Bettina_Møller-Hansen,Bettina Møller-Hansen,"Venstre, Danmarks Liberale Parti",4
+Nordfyns,6,Otterup,V_Lasse_Mogensen,Lasse Mogensen,"Venstre, Danmarks Liberale Parti",3
+Nordfyns,6,Otterup,V_Nikolaj_Vang,Nikolaj Vang,"Venstre, Danmarks Liberale Parti",3
+Nordfyns,6,Otterup,V_Dennis_Christensen,Dennis Christensen,"Venstre, Danmarks Liberale Parti",43
+Nordfyns,6,Otterup,V_Henriette_Liedicke,Henriette Liedicke,"Venstre, Danmarks Liberale Parti",3
+Nordfyns,6,Otterup,V_Maria_Dahl_Hedegaard,Maria Dahl Hedegaard,"Venstre, Danmarks Liberale Parti",7
+Nordfyns,6,Otterup,V_Brian_Korsgaard,Brian Korsgaard,"Venstre, Danmarks Liberale Parti",1
+Nordfyns,6,Otterup,V_Robin_Birch,Robin Birch,"Venstre, Danmarks Liberale Parti",1
+Nordfyns,6,Otterup,V_Franz_Rohde,Franz Rohde,"Venstre, Danmarks Liberale Parti",81
+Nordfyns,6,Otterup,V_Lars_Ladegaard,Lars Ladegaard,"Venstre, Danmarks Liberale Parti",6
+Nordfyns,6,Otterup,V_Gitte_Kristiansen,Gitte Kristiansen,"Venstre, Danmarks Liberale Parti",5
+Nordfyns,6,Otterup,V_Jesper_Vestergaard,Jesper Vestergaard,"Venstre, Danmarks Liberale Parti",3
+Nordfyns,6,Otterup,V_Jørgen_Kjeldsen,Jørgen Kjeldsen,"Venstre, Danmarks Liberale Parti",1
+Nordfyns,6,Otterup,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,33
+Nordfyns,6,Otterup,Ø_Niels_Bjarne_Lund,Niels Bjarne Lund,Enhedslisten - De Rød-Grønne,11
+Nordfyns,6,Otterup,Ø_Dirk_Müller,Dirk Müller,Enhedslisten - De Rød-Grønne,3
+Nordfyns,7,Løkkemark,A_Listestemmer,Listestemmer,Socialdemokratiet,45
+Nordfyns,7,Løkkemark,A_Helle_Waagner,Helle Waagner,Socialdemokratiet,40
+Nordfyns,7,Løkkemark,A_Kasper_Solberg,Kasper Solberg,Socialdemokratiet,43
+Nordfyns,7,Løkkemark,A_Bernt_Nicolaysen,Bernt Nicolaysen,Socialdemokratiet,6
+Nordfyns,7,Løkkemark,A_Anette_Lykke_Jensen,Anette Lykke Jensen,Socialdemokratiet,5
+Nordfyns,7,Løkkemark,A_Dorte_Schmidt,Dorte Schmidt,Socialdemokratiet,16
+Nordfyns,7,Løkkemark,A_Brian_Lebæk,Brian Lebæk,Socialdemokratiet,4
+Nordfyns,7,Løkkemark,A_Gert_Block_Hættlein_Rasmussen,Gert Block Hættlein Rasmussen,Socialdemokratiet,0
+Nordfyns,7,Løkkemark,A_Heidi_Valentin,Heidi Valentin,Socialdemokratiet,3
+Nordfyns,7,Løkkemark,A_Johnny_Kristensen,Johnny Kristensen,Socialdemokratiet,0
+Nordfyns,7,Løkkemark,A_Idrees_Haider,Idrees Haider,Socialdemokratiet,2
+Nordfyns,7,Løkkemark,A_Sigridur_Thorvaldsdottir,Sigridur Thorvaldsdottir,Socialdemokratiet,1
+Nordfyns,7,Løkkemark,A_Jane_Lydia_Gulbæk,Jane Lydia Gulbæk,Socialdemokratiet,3
+Nordfyns,7,Løkkemark,A_Thomas_Mrzyglod,Thomas Mrzyglod,Socialdemokratiet,0
+Nordfyns,7,Løkkemark,A_Arne_Erlund,Arne Erlund,Socialdemokratiet,2
+Nordfyns,7,Løkkemark,A_Svenn_Kopp_Pedersen,Svenn Kopp Pedersen,Socialdemokratiet,0
+Nordfyns,7,Løkkemark,B_Listestemmer,Listestemmer,Radikale Venstre,0
+Nordfyns,7,Løkkemark,B_Bo_Jakobsen,Bo Jakobsen,Radikale Venstre,3
+Nordfyns,7,Løkkemark,B_Mette_Hjorth,Mette Hjorth,Radikale Venstre,4
+Nordfyns,7,Løkkemark,B_John_Arnshof,John Arnshof,Radikale Venstre,0
+Nordfyns,7,Løkkemark,B_Jacob-Steen_Madsen,Jacob-Steen Madsen,Radikale Venstre,0
+Nordfyns,7,Løkkemark,B_Rasmus_Festerling_Sørensen,Rasmus Festerling Sørensen,Radikale Venstre,0
+Nordfyns,7,Løkkemark,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,8
+Nordfyns,7,Løkkemark,C_Anders_Thingholm,Anders Thingholm,Det Konservative Folkeparti,11
+Nordfyns,7,Løkkemark,C_Marie_Louise_Pedersen,Marie Louise Pedersen,Det Konservative Folkeparti,6
+Nordfyns,7,Løkkemark,C_Christina_Flyman,Christina Flyman,Det Konservative Folkeparti,0
+Nordfyns,7,Løkkemark,C_Carsten_Jäger,Carsten Jäger,Det Konservative Folkeparti,2
+Nordfyns,7,Løkkemark,C_Jeff_Duckett,Jeff Duckett,Det Konservative Folkeparti,0
+Nordfyns,7,Løkkemark,D_Listestemmer,Listestemmer,Nye Borgerlige,18
+Nordfyns,7,Løkkemark,"D_Bill_Malmgren,_Otterup","Bill Malmgren, Otterup",Nye Borgerlige,12
+Nordfyns,7,Løkkemark,"D_Bjarne_Knudsen,_Søndersø","Bjarne Knudsen, Søndersø",Nye Borgerlige,8
+Nordfyns,7,Løkkemark,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,5
+Nordfyns,7,Løkkemark,F_Anne-Lise_Sievers,Anne-Lise Sievers,SF - Socialistisk Folkeparti,6
+Nordfyns,7,Løkkemark,F_Bent_Olsen,Bent Olsen,SF - Socialistisk Folkeparti,3
+Nordfyns,7,Løkkemark,F_Pia_Longet,Pia Longet,SF - Socialistisk Folkeparti,4
+Nordfyns,7,Løkkemark,F_Lene_Granløkke,Lene Granløkke,SF - Socialistisk Folkeparti,2
+Nordfyns,7,Løkkemark,F_Bine_Mathiasen,Bine Mathiasen,SF - Socialistisk Folkeparti,11
+Nordfyns,7,Løkkemark,O_Listestemmer,Listestemmer,Dansk Folkeparti,25
+Nordfyns,7,Løkkemark,"O_Jane_Yndgaard,_Klintebjerg","Jane Yndgaard, Klintebjerg",Dansk Folkeparti,16
+Nordfyns,7,Løkkemark,"O_Eva_Jørgensen,_Bogense","Eva Jørgensen, Bogense",Dansk Folkeparti,8
+Nordfyns,7,Løkkemark,"O_Henrik_Damborg_Sørensen,_Hårslev","Henrik Damborg Sørensen, Hårslev",Dansk Folkeparti,4
+Nordfyns,7,Løkkemark,"O_Christian_Højkilde_Hansen,_Nørreby","Christian Højkilde Hansen, Nørreby",Dansk Folkeparti,5
+Nordfyns,7,Løkkemark,"O_Nick_Vennerstrøm_Jørgensen,Bogense","Nick Vennerstrøm Jørgensen,Bogense",Dansk Folkeparti,0
+Nordfyns,7,Løkkemark,"O_Poul_Svane_Madsen,_Bogense","Poul Svane Madsen, Bogense",Dansk Folkeparti,0
+Nordfyns,7,Løkkemark,"O_Niels_Christian_Holst_Hansen,Hårsl","Niels Christian Holst Hansen,Hårsl",Dansk Folkeparti,0
+Nordfyns,7,Løkkemark,"O_Sonja_Skøtt,_Bogense","Sonja Skøtt, Bogense",Dansk Folkeparti,4
+Nordfyns,7,Løkkemark,"O_Per_Christensen,_Uggerslev","Per Christensen, Uggerslev",Dansk Folkeparti,15
+Nordfyns,7,Løkkemark,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",26
+Nordfyns,7,Løkkemark,V_Morten_Andersen,Morten Andersen,"Venstre, Danmarks Liberale Parti",89
+Nordfyns,7,Løkkemark,V_Mette_Landtved-Holm,Mette Landtved-Holm,"Venstre, Danmarks Liberale Parti",52
+Nordfyns,7,Løkkemark,V_Palle_Yndgaard,Palle Yndgaard,"Venstre, Danmarks Liberale Parti",10
+Nordfyns,7,Løkkemark,V_Kenneth_Clasen,Kenneth Clasen,"Venstre, Danmarks Liberale Parti",2
+Nordfyns,7,Løkkemark,V_Annette_Allesø,Annette Allesø,"Venstre, Danmarks Liberale Parti",0
+Nordfyns,7,Løkkemark,V_Mogens_Christensen,Mogens Christensen,"Venstre, Danmarks Liberale Parti",2
+Nordfyns,7,Løkkemark,V_Marie_Holmgaard_Søvsø,Marie Holmgaard Søvsø,"Venstre, Danmarks Liberale Parti",0
+Nordfyns,7,Løkkemark,V_Anja_Lund,Anja Lund,"Venstre, Danmarks Liberale Parti",16
+Nordfyns,7,Løkkemark,V_Ole_Taustrup_Hansen,Ole Taustrup Hansen,"Venstre, Danmarks Liberale Parti",25
+Nordfyns,7,Løkkemark,V_Helle_Brunse,Helle Brunse,"Venstre, Danmarks Liberale Parti",7
+Nordfyns,7,Løkkemark,V_Claus_Halsgaard_Pedersen,Claus Halsgaard Pedersen,"Venstre, Danmarks Liberale Parti",4
+Nordfyns,7,Løkkemark,V_Bettina_Møller-Hansen,Bettina Møller-Hansen,"Venstre, Danmarks Liberale Parti",42
+Nordfyns,7,Løkkemark,V_Lasse_Mogensen,Lasse Mogensen,"Venstre, Danmarks Liberale Parti",1
+Nordfyns,7,Løkkemark,V_Nikolaj_Vang,Nikolaj Vang,"Venstre, Danmarks Liberale Parti",1
+Nordfyns,7,Løkkemark,V_Dennis_Christensen,Dennis Christensen,"Venstre, Danmarks Liberale Parti",15
+Nordfyns,7,Løkkemark,V_Henriette_Liedicke,Henriette Liedicke,"Venstre, Danmarks Liberale Parti",3
+Nordfyns,7,Løkkemark,V_Maria_Dahl_Hedegaard,Maria Dahl Hedegaard,"Venstre, Danmarks Liberale Parti",1
+Nordfyns,7,Løkkemark,V_Brian_Korsgaard,Brian Korsgaard,"Venstre, Danmarks Liberale Parti",2
+Nordfyns,7,Løkkemark,V_Robin_Birch,Robin Birch,"Venstre, Danmarks Liberale Parti",1
+Nordfyns,7,Løkkemark,V_Franz_Rohde,Franz Rohde,"Venstre, Danmarks Liberale Parti",3
+Nordfyns,7,Løkkemark,V_Lars_Ladegaard,Lars Ladegaard,"Venstre, Danmarks Liberale Parti",1
+Nordfyns,7,Løkkemark,V_Gitte_Kristiansen,Gitte Kristiansen,"Venstre, Danmarks Liberale Parti",3
+Nordfyns,7,Løkkemark,V_Jesper_Vestergaard,Jesper Vestergaard,"Venstre, Danmarks Liberale Parti",4
+Nordfyns,7,Løkkemark,V_Jørgen_Kjeldsen,Jørgen Kjeldsen,"Venstre, Danmarks Liberale Parti",0
+Nordfyns,7,Løkkemark,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,9
+Nordfyns,7,Løkkemark,Ø_Niels_Bjarne_Lund,Niels Bjarne Lund,Enhedslisten - De Rød-Grønne,7
+Nordfyns,7,Løkkemark,Ø_Dirk_Müller,Dirk Müller,Enhedslisten - De Rød-Grønne,0
+Nordfyns,8,Skovløkke,A_Listestemmer,Listestemmer,Socialdemokratiet,61
+Nordfyns,8,Skovløkke,A_Helle_Waagner,Helle Waagner,Socialdemokratiet,27
+Nordfyns,8,Skovløkke,A_Kasper_Solberg,Kasper Solberg,Socialdemokratiet,66
+Nordfyns,8,Skovløkke,A_Bernt_Nicolaysen,Bernt Nicolaysen,Socialdemokratiet,22
+Nordfyns,8,Skovløkke,A_Anette_Lykke_Jensen,Anette Lykke Jensen,Socialdemokratiet,1
+Nordfyns,8,Skovløkke,A_Dorte_Schmidt,Dorte Schmidt,Socialdemokratiet,31
+Nordfyns,8,Skovløkke,A_Brian_Lebæk,Brian Lebæk,Socialdemokratiet,10
+Nordfyns,8,Skovløkke,A_Gert_Block_Hættlein_Rasmussen,Gert Block Hættlein Rasmussen,Socialdemokratiet,0
+Nordfyns,8,Skovløkke,A_Heidi_Valentin,Heidi Valentin,Socialdemokratiet,1
+Nordfyns,8,Skovløkke,A_Johnny_Kristensen,Johnny Kristensen,Socialdemokratiet,1
+Nordfyns,8,Skovløkke,A_Idrees_Haider,Idrees Haider,Socialdemokratiet,1
+Nordfyns,8,Skovløkke,A_Sigridur_Thorvaldsdottir,Sigridur Thorvaldsdottir,Socialdemokratiet,4
+Nordfyns,8,Skovløkke,A_Jane_Lydia_Gulbæk,Jane Lydia Gulbæk,Socialdemokratiet,2
+Nordfyns,8,Skovløkke,A_Thomas_Mrzyglod,Thomas Mrzyglod,Socialdemokratiet,1
+Nordfyns,8,Skovløkke,A_Arne_Erlund,Arne Erlund,Socialdemokratiet,2
+Nordfyns,8,Skovløkke,A_Svenn_Kopp_Pedersen,Svenn Kopp Pedersen,Socialdemokratiet,0
+Nordfyns,8,Skovløkke,B_Listestemmer,Listestemmer,Radikale Venstre,2
+Nordfyns,8,Skovløkke,B_Bo_Jakobsen,Bo Jakobsen,Radikale Venstre,9
+Nordfyns,8,Skovløkke,B_Mette_Hjorth,Mette Hjorth,Radikale Venstre,2
+Nordfyns,8,Skovløkke,B_John_Arnshof,John Arnshof,Radikale Venstre,0
+Nordfyns,8,Skovløkke,B_Jacob-Steen_Madsen,Jacob-Steen Madsen,Radikale Venstre,2
+Nordfyns,8,Skovløkke,B_Rasmus_Festerling_Sørensen,Rasmus Festerling Sørensen,Radikale Venstre,0
+Nordfyns,8,Skovløkke,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,10
+Nordfyns,8,Skovløkke,C_Anders_Thingholm,Anders Thingholm,Det Konservative Folkeparti,12
+Nordfyns,8,Skovløkke,C_Marie_Louise_Pedersen,Marie Louise Pedersen,Det Konservative Folkeparti,1
+Nordfyns,8,Skovløkke,C_Christina_Flyman,Christina Flyman,Det Konservative Folkeparti,3
+Nordfyns,8,Skovløkke,C_Carsten_Jäger,Carsten Jäger,Det Konservative Folkeparti,0
+Nordfyns,8,Skovløkke,C_Jeff_Duckett,Jeff Duckett,Det Konservative Folkeparti,0
+Nordfyns,8,Skovløkke,D_Listestemmer,Listestemmer,Nye Borgerlige,10
+Nordfyns,8,Skovløkke,"D_Bill_Malmgren,_Otterup","Bill Malmgren, Otterup",Nye Borgerlige,13
+Nordfyns,8,Skovløkke,"D_Bjarne_Knudsen,_Søndersø","Bjarne Knudsen, Søndersø",Nye Borgerlige,1
+Nordfyns,8,Skovløkke,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,8
+Nordfyns,8,Skovløkke,F_Anne-Lise_Sievers,Anne-Lise Sievers,SF - Socialistisk Folkeparti,15
+Nordfyns,8,Skovløkke,F_Bent_Olsen,Bent Olsen,SF - Socialistisk Folkeparti,5
+Nordfyns,8,Skovløkke,F_Pia_Longet,Pia Longet,SF - Socialistisk Folkeparti,18
+Nordfyns,8,Skovløkke,F_Lene_Granløkke,Lene Granløkke,SF - Socialistisk Folkeparti,2
+Nordfyns,8,Skovløkke,F_Bine_Mathiasen,Bine Mathiasen,SF - Socialistisk Folkeparti,14
+Nordfyns,8,Skovløkke,O_Listestemmer,Listestemmer,Dansk Folkeparti,8
+Nordfyns,8,Skovløkke,"O_Jane_Yndgaard,_Klintebjerg","Jane Yndgaard, Klintebjerg",Dansk Folkeparti,105
+Nordfyns,8,Skovløkke,"O_Eva_Jørgensen,_Bogense","Eva Jørgensen, Bogense",Dansk Folkeparti,2
+Nordfyns,8,Skovløkke,"O_Henrik_Damborg_Sørensen,_Hårslev","Henrik Damborg Sørensen, Hårslev",Dansk Folkeparti,1
+Nordfyns,8,Skovløkke,"O_Christian_Højkilde_Hansen,_Nørreby","Christian Højkilde Hansen, Nørreby",Dansk Folkeparti,0
+Nordfyns,8,Skovløkke,"O_Nick_Vennerstrøm_Jørgensen,Bogense","Nick Vennerstrøm Jørgensen,Bogense",Dansk Folkeparti,0
+Nordfyns,8,Skovløkke,"O_Poul_Svane_Madsen,_Bogense","Poul Svane Madsen, Bogense",Dansk Folkeparti,0
+Nordfyns,8,Skovløkke,"O_Niels_Christian_Holst_Hansen,Hårsl","Niels Christian Holst Hansen,Hårsl",Dansk Folkeparti,0
+Nordfyns,8,Skovløkke,"O_Sonja_Skøtt,_Bogense","Sonja Skøtt, Bogense",Dansk Folkeparti,0
+Nordfyns,8,Skovløkke,"O_Per_Christensen,_Uggerslev","Per Christensen, Uggerslev",Dansk Folkeparti,1
+Nordfyns,8,Skovløkke,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",37
+Nordfyns,8,Skovløkke,V_Morten_Andersen,Morten Andersen,"Venstre, Danmarks Liberale Parti",72
+Nordfyns,8,Skovløkke,V_Mette_Landtved-Holm,Mette Landtved-Holm,"Venstre, Danmarks Liberale Parti",29
+Nordfyns,8,Skovløkke,V_Palle_Yndgaard,Palle Yndgaard,"Venstre, Danmarks Liberale Parti",1
+Nordfyns,8,Skovløkke,V_Kenneth_Clasen,Kenneth Clasen,"Venstre, Danmarks Liberale Parti",1
+Nordfyns,8,Skovløkke,V_Annette_Allesø,Annette Allesø,"Venstre, Danmarks Liberale Parti",25
+Nordfyns,8,Skovløkke,V_Mogens_Christensen,Mogens Christensen,"Venstre, Danmarks Liberale Parti",0
+Nordfyns,8,Skovløkke,V_Marie_Holmgaard_Søvsø,Marie Holmgaard Søvsø,"Venstre, Danmarks Liberale Parti",0
+Nordfyns,8,Skovløkke,V_Anja_Lund,Anja Lund,"Venstre, Danmarks Liberale Parti",8
+Nordfyns,8,Skovløkke,V_Ole_Taustrup_Hansen,Ole Taustrup Hansen,"Venstre, Danmarks Liberale Parti",4
+Nordfyns,8,Skovløkke,V_Helle_Brunse,Helle Brunse,"Venstre, Danmarks Liberale Parti",2
+Nordfyns,8,Skovløkke,V_Claus_Halsgaard_Pedersen,Claus Halsgaard Pedersen,"Venstre, Danmarks Liberale Parti",0
+Nordfyns,8,Skovløkke,V_Bettina_Møller-Hansen,Bettina Møller-Hansen,"Venstre, Danmarks Liberale Parti",0
+Nordfyns,8,Skovløkke,V_Lasse_Mogensen,Lasse Mogensen,"Venstre, Danmarks Liberale Parti",0
+Nordfyns,8,Skovløkke,V_Nikolaj_Vang,Nikolaj Vang,"Venstre, Danmarks Liberale Parti",2
+Nordfyns,8,Skovløkke,V_Dennis_Christensen,Dennis Christensen,"Venstre, Danmarks Liberale Parti",13
+Nordfyns,8,Skovløkke,V_Henriette_Liedicke,Henriette Liedicke,"Venstre, Danmarks Liberale Parti",2
+Nordfyns,8,Skovløkke,V_Maria_Dahl_Hedegaard,Maria Dahl Hedegaard,"Venstre, Danmarks Liberale Parti",5
+Nordfyns,8,Skovløkke,V_Brian_Korsgaard,Brian Korsgaard,"Venstre, Danmarks Liberale Parti",0
+Nordfyns,8,Skovløkke,V_Robin_Birch,Robin Birch,"Venstre, Danmarks Liberale Parti",0
+Nordfyns,8,Skovløkke,V_Franz_Rohde,Franz Rohde,"Venstre, Danmarks Liberale Parti",3
+Nordfyns,8,Skovløkke,V_Lars_Ladegaard,Lars Ladegaard,"Venstre, Danmarks Liberale Parti",0
+Nordfyns,8,Skovløkke,V_Gitte_Kristiansen,Gitte Kristiansen,"Venstre, Danmarks Liberale Parti",1
+Nordfyns,8,Skovløkke,V_Jesper_Vestergaard,Jesper Vestergaard,"Venstre, Danmarks Liberale Parti",2
+Nordfyns,8,Skovløkke,V_Jørgen_Kjeldsen,Jørgen Kjeldsen,"Venstre, Danmarks Liberale Parti",1
+Nordfyns,8,Skovløkke,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,13
+Nordfyns,8,Skovløkke,Ø_Niels_Bjarne_Lund,Niels Bjarne Lund,Enhedslisten - De Rød-Grønne,6
+Nordfyns,8,Skovløkke,Ø_Dirk_Müller,Dirk Müller,Enhedslisten - De Rød-Grønne,1
+Nordfyns,9,Veflinge,A_Listestemmer,Listestemmer,Socialdemokratiet,45
+Nordfyns,9,Veflinge,A_Helle_Waagner,Helle Waagner,Socialdemokratiet,34
+Nordfyns,9,Veflinge,A_Kasper_Solberg,Kasper Solberg,Socialdemokratiet,8
+Nordfyns,9,Veflinge,A_Bernt_Nicolaysen,Bernt Nicolaysen,Socialdemokratiet,4
+Nordfyns,9,Veflinge,A_Anette_Lykke_Jensen,Anette Lykke Jensen,Socialdemokratiet,4
+Nordfyns,9,Veflinge,A_Dorte_Schmidt,Dorte Schmidt,Socialdemokratiet,7
+Nordfyns,9,Veflinge,A_Brian_Lebæk,Brian Lebæk,Socialdemokratiet,4
+Nordfyns,9,Veflinge,A_Gert_Block_Hættlein_Rasmussen,Gert Block Hættlein Rasmussen,Socialdemokratiet,96
+Nordfyns,9,Veflinge,A_Heidi_Valentin,Heidi Valentin,Socialdemokratiet,8
+Nordfyns,9,Veflinge,A_Johnny_Kristensen,Johnny Kristensen,Socialdemokratiet,1
+Nordfyns,9,Veflinge,A_Idrees_Haider,Idrees Haider,Socialdemokratiet,9
+Nordfyns,9,Veflinge,A_Sigridur_Thorvaldsdottir,Sigridur Thorvaldsdottir,Socialdemokratiet,3
+Nordfyns,9,Veflinge,A_Jane_Lydia_Gulbæk,Jane Lydia Gulbæk,Socialdemokratiet,5
+Nordfyns,9,Veflinge,A_Thomas_Mrzyglod,Thomas Mrzyglod,Socialdemokratiet,9
+Nordfyns,9,Veflinge,A_Arne_Erlund,Arne Erlund,Socialdemokratiet,1
+Nordfyns,9,Veflinge,A_Svenn_Kopp_Pedersen,Svenn Kopp Pedersen,Socialdemokratiet,3
+Nordfyns,9,Veflinge,B_Listestemmer,Listestemmer,Radikale Venstre,4
+Nordfyns,9,Veflinge,B_Bo_Jakobsen,Bo Jakobsen,Radikale Venstre,8
+Nordfyns,9,Veflinge,B_Mette_Hjorth,Mette Hjorth,Radikale Venstre,6
+Nordfyns,9,Veflinge,B_John_Arnshof,John Arnshof,Radikale Venstre,2
+Nordfyns,9,Veflinge,B_Jacob-Steen_Madsen,Jacob-Steen Madsen,Radikale Venstre,0
+Nordfyns,9,Veflinge,B_Rasmus_Festerling_Sørensen,Rasmus Festerling Sørensen,Radikale Venstre,1
+Nordfyns,9,Veflinge,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,11
+Nordfyns,9,Veflinge,C_Anders_Thingholm,Anders Thingholm,Det Konservative Folkeparti,57
+Nordfyns,9,Veflinge,C_Marie_Louise_Pedersen,Marie Louise Pedersen,Det Konservative Folkeparti,8
+Nordfyns,9,Veflinge,C_Christina_Flyman,Christina Flyman,Det Konservative Folkeparti,5
+Nordfyns,9,Veflinge,C_Carsten_Jäger,Carsten Jäger,Det Konservative Folkeparti,1
+Nordfyns,9,Veflinge,C_Jeff_Duckett,Jeff Duckett,Det Konservative Folkeparti,0
+Nordfyns,9,Veflinge,D_Listestemmer,Listestemmer,Nye Borgerlige,12
+Nordfyns,9,Veflinge,"D_Bill_Malmgren,_Otterup","Bill Malmgren, Otterup",Nye Borgerlige,7
+Nordfyns,9,Veflinge,"D_Bjarne_Knudsen,_Søndersø","Bjarne Knudsen, Søndersø",Nye Borgerlige,9
+Nordfyns,9,Veflinge,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,8
+Nordfyns,9,Veflinge,F_Anne-Lise_Sievers,Anne-Lise Sievers,SF - Socialistisk Folkeparti,22
+Nordfyns,9,Veflinge,F_Bent_Olsen,Bent Olsen,SF - Socialistisk Folkeparti,26
+Nordfyns,9,Veflinge,F_Pia_Longet,Pia Longet,SF - Socialistisk Folkeparti,2
+Nordfyns,9,Veflinge,F_Lene_Granløkke,Lene Granløkke,SF - Socialistisk Folkeparti,2
+Nordfyns,9,Veflinge,F_Bine_Mathiasen,Bine Mathiasen,SF - Socialistisk Folkeparti,11
+Nordfyns,9,Veflinge,O_Listestemmer,Listestemmer,Dansk Folkeparti,24
+Nordfyns,9,Veflinge,"O_Jane_Yndgaard,_Klintebjerg","Jane Yndgaard, Klintebjerg",Dansk Folkeparti,9
+Nordfyns,9,Veflinge,"O_Eva_Jørgensen,_Bogense","Eva Jørgensen, Bogense",Dansk Folkeparti,3
+Nordfyns,9,Veflinge,"O_Henrik_Damborg_Sørensen,_Hårslev","Henrik Damborg Sørensen, Hårslev",Dansk Folkeparti,5
+Nordfyns,9,Veflinge,"O_Christian_Højkilde_Hansen,_Nørreby","Christian Højkilde Hansen, Nørreby",Dansk Folkeparti,4
+Nordfyns,9,Veflinge,"O_Nick_Vennerstrøm_Jørgensen,Bogense","Nick Vennerstrøm Jørgensen,Bogense",Dansk Folkeparti,1
+Nordfyns,9,Veflinge,"O_Poul_Svane_Madsen,_Bogense","Poul Svane Madsen, Bogense",Dansk Folkeparti,0
+Nordfyns,9,Veflinge,"O_Niels_Christian_Holst_Hansen,Hårsl","Niels Christian Holst Hansen,Hårsl",Dansk Folkeparti,4
+Nordfyns,9,Veflinge,"O_Sonja_Skøtt,_Bogense","Sonja Skøtt, Bogense",Dansk Folkeparti,0
+Nordfyns,9,Veflinge,"O_Per_Christensen,_Uggerslev","Per Christensen, Uggerslev",Dansk Folkeparti,2
+Nordfyns,9,Veflinge,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",30
+Nordfyns,9,Veflinge,V_Morten_Andersen,Morten Andersen,"Venstre, Danmarks Liberale Parti",108
+Nordfyns,9,Veflinge,V_Mette_Landtved-Holm,Mette Landtved-Holm,"Venstre, Danmarks Liberale Parti",5
+Nordfyns,9,Veflinge,V_Palle_Yndgaard,Palle Yndgaard,"Venstre, Danmarks Liberale Parti",6
+Nordfyns,9,Veflinge,V_Kenneth_Clasen,Kenneth Clasen,"Venstre, Danmarks Liberale Parti",1
+Nordfyns,9,Veflinge,V_Annette_Allesø,Annette Allesø,"Venstre, Danmarks Liberale Parti",0
+Nordfyns,9,Veflinge,V_Mogens_Christensen,Mogens Christensen,"Venstre, Danmarks Liberale Parti",5
+Nordfyns,9,Veflinge,V_Marie_Holmgaard_Søvsø,Marie Holmgaard Søvsø,"Venstre, Danmarks Liberale Parti",19
+Nordfyns,9,Veflinge,V_Anja_Lund,Anja Lund,"Venstre, Danmarks Liberale Parti",64
+Nordfyns,9,Veflinge,V_Ole_Taustrup_Hansen,Ole Taustrup Hansen,"Venstre, Danmarks Liberale Parti",1
+Nordfyns,9,Veflinge,V_Helle_Brunse,Helle Brunse,"Venstre, Danmarks Liberale Parti",12
+Nordfyns,9,Veflinge,V_Claus_Halsgaard_Pedersen,Claus Halsgaard Pedersen,"Venstre, Danmarks Liberale Parti",1
+Nordfyns,9,Veflinge,V_Bettina_Møller-Hansen,Bettina Møller-Hansen,"Venstre, Danmarks Liberale Parti",0
+Nordfyns,9,Veflinge,V_Lasse_Mogensen,Lasse Mogensen,"Venstre, Danmarks Liberale Parti",10
+Nordfyns,9,Veflinge,V_Nikolaj_Vang,Nikolaj Vang,"Venstre, Danmarks Liberale Parti",1
+Nordfyns,9,Veflinge,V_Dennis_Christensen,Dennis Christensen,"Venstre, Danmarks Liberale Parti",2
+Nordfyns,9,Veflinge,V_Henriette_Liedicke,Henriette Liedicke,"Venstre, Danmarks Liberale Parti",0
+Nordfyns,9,Veflinge,V_Maria_Dahl_Hedegaard,Maria Dahl Hedegaard,"Venstre, Danmarks Liberale Parti",1
+Nordfyns,9,Veflinge,V_Brian_Korsgaard,Brian Korsgaard,"Venstre, Danmarks Liberale Parti",1
+Nordfyns,9,Veflinge,V_Robin_Birch,Robin Birch,"Venstre, Danmarks Liberale Parti",0
+Nordfyns,9,Veflinge,V_Franz_Rohde,Franz Rohde,"Venstre, Danmarks Liberale Parti",1
+Nordfyns,9,Veflinge,V_Lars_Ladegaard,Lars Ladegaard,"Venstre, Danmarks Liberale Parti",1
+Nordfyns,9,Veflinge,V_Gitte_Kristiansen,Gitte Kristiansen,"Venstre, Danmarks Liberale Parti",4
+Nordfyns,9,Veflinge,V_Jesper_Vestergaard,Jesper Vestergaard,"Venstre, Danmarks Liberale Parti",0
+Nordfyns,9,Veflinge,V_Jørgen_Kjeldsen,Jørgen Kjeldsen,"Venstre, Danmarks Liberale Parti",0
+Nordfyns,9,Veflinge,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,13
+Nordfyns,9,Veflinge,Ø_Niels_Bjarne_Lund,Niels Bjarne Lund,Enhedslisten - De Rød-Grønne,8
+Nordfyns,9,Veflinge,Ø_Dirk_Müller,Dirk Müller,Enhedslisten - De Rød-Grønne,0
+Nordfyns,10,Hårslev,A_Listestemmer,Listestemmer,Socialdemokratiet,51
+Nordfyns,10,Hårslev,A_Helle_Waagner,Helle Waagner,Socialdemokratiet,48
+Nordfyns,10,Hårslev,A_Kasper_Solberg,Kasper Solberg,Socialdemokratiet,3
+Nordfyns,10,Hårslev,A_Bernt_Nicolaysen,Bernt Nicolaysen,Socialdemokratiet,0
+Nordfyns,10,Hårslev,A_Anette_Lykke_Jensen,Anette Lykke Jensen,Socialdemokratiet,8
+Nordfyns,10,Hårslev,A_Dorte_Schmidt,Dorte Schmidt,Socialdemokratiet,5
+Nordfyns,10,Hårslev,A_Brian_Lebæk,Brian Lebæk,Socialdemokratiet,3
+Nordfyns,10,Hårslev,A_Gert_Block_Hættlein_Rasmussen,Gert Block Hættlein Rasmussen,Socialdemokratiet,5
+Nordfyns,10,Hårslev,A_Heidi_Valentin,Heidi Valentin,Socialdemokratiet,0
+Nordfyns,10,Hårslev,A_Johnny_Kristensen,Johnny Kristensen,Socialdemokratiet,4
+Nordfyns,10,Hårslev,A_Idrees_Haider,Idrees Haider,Socialdemokratiet,1
+Nordfyns,10,Hårslev,A_Sigridur_Thorvaldsdottir,Sigridur Thorvaldsdottir,Socialdemokratiet,7
+Nordfyns,10,Hårslev,A_Jane_Lydia_Gulbæk,Jane Lydia Gulbæk,Socialdemokratiet,2
+Nordfyns,10,Hårslev,A_Thomas_Mrzyglod,Thomas Mrzyglod,Socialdemokratiet,0
+Nordfyns,10,Hårslev,A_Arne_Erlund,Arne Erlund,Socialdemokratiet,0
+Nordfyns,10,Hårslev,A_Svenn_Kopp_Pedersen,Svenn Kopp Pedersen,Socialdemokratiet,1
+Nordfyns,10,Hårslev,B_Listestemmer,Listestemmer,Radikale Venstre,4
+Nordfyns,10,Hårslev,B_Bo_Jakobsen,Bo Jakobsen,Radikale Venstre,15
+Nordfyns,10,Hårslev,B_Mette_Hjorth,Mette Hjorth,Radikale Venstre,4
+Nordfyns,10,Hårslev,B_John_Arnshof,John Arnshof,Radikale Venstre,6
+Nordfyns,10,Hårslev,B_Jacob-Steen_Madsen,Jacob-Steen Madsen,Radikale Venstre,0
+Nordfyns,10,Hårslev,B_Rasmus_Festerling_Sørensen,Rasmus Festerling Sørensen,Radikale Venstre,0
+Nordfyns,10,Hårslev,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,5
+Nordfyns,10,Hårslev,C_Anders_Thingholm,Anders Thingholm,Det Konservative Folkeparti,8
+Nordfyns,10,Hårslev,C_Marie_Louise_Pedersen,Marie Louise Pedersen,Det Konservative Folkeparti,14
+Nordfyns,10,Hårslev,C_Christina_Flyman,Christina Flyman,Det Konservative Folkeparti,5
+Nordfyns,10,Hårslev,C_Carsten_Jäger,Carsten Jäger,Det Konservative Folkeparti,4
+Nordfyns,10,Hårslev,C_Jeff_Duckett,Jeff Duckett,Det Konservative Folkeparti,1
+Nordfyns,10,Hårslev,D_Listestemmer,Listestemmer,Nye Borgerlige,12
+Nordfyns,10,Hårslev,"D_Bill_Malmgren,_Otterup","Bill Malmgren, Otterup",Nye Borgerlige,12
+Nordfyns,10,Hårslev,"D_Bjarne_Knudsen,_Søndersø","Bjarne Knudsen, Søndersø",Nye Borgerlige,12
+Nordfyns,10,Hårslev,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,14
+Nordfyns,10,Hårslev,F_Anne-Lise_Sievers,Anne-Lise Sievers,SF - Socialistisk Folkeparti,13
+Nordfyns,10,Hårslev,F_Bent_Olsen,Bent Olsen,SF - Socialistisk Folkeparti,9
+Nordfyns,10,Hårslev,F_Pia_Longet,Pia Longet,SF - Socialistisk Folkeparti,2
+Nordfyns,10,Hårslev,F_Lene_Granløkke,Lene Granløkke,SF - Socialistisk Folkeparti,1
+Nordfyns,10,Hårslev,F_Bine_Mathiasen,Bine Mathiasen,SF - Socialistisk Folkeparti,9
+Nordfyns,10,Hårslev,O_Listestemmer,Listestemmer,Dansk Folkeparti,12
+Nordfyns,10,Hårslev,"O_Jane_Yndgaard,_Klintebjerg","Jane Yndgaard, Klintebjerg",Dansk Folkeparti,7
+Nordfyns,10,Hårslev,"O_Eva_Jørgensen,_Bogense","Eva Jørgensen, Bogense",Dansk Folkeparti,8
+Nordfyns,10,Hårslev,"O_Henrik_Damborg_Sørensen,_Hårslev","Henrik Damborg Sørensen, Hårslev",Dansk Folkeparti,32
+Nordfyns,10,Hårslev,"O_Christian_Højkilde_Hansen,_Nørreby","Christian Højkilde Hansen, Nørreby",Dansk Folkeparti,2
+Nordfyns,10,Hårslev,"O_Nick_Vennerstrøm_Jørgensen,Bogense","Nick Vennerstrøm Jørgensen,Bogense",Dansk Folkeparti,0
+Nordfyns,10,Hårslev,"O_Poul_Svane_Madsen,_Bogense","Poul Svane Madsen, Bogense",Dansk Folkeparti,1
+Nordfyns,10,Hårslev,"O_Niels_Christian_Holst_Hansen,Hårsl","Niels Christian Holst Hansen,Hårsl",Dansk Folkeparti,9
+Nordfyns,10,Hårslev,"O_Sonja_Skøtt,_Bogense","Sonja Skøtt, Bogense",Dansk Folkeparti,2
+Nordfyns,10,Hårslev,"O_Per_Christensen,_Uggerslev","Per Christensen, Uggerslev",Dansk Folkeparti,0
+Nordfyns,10,Hårslev,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",35
+Nordfyns,10,Hårslev,V_Morten_Andersen,Morten Andersen,"Venstre, Danmarks Liberale Parti",103
+Nordfyns,10,Hårslev,V_Mette_Landtved-Holm,Mette Landtved-Holm,"Venstre, Danmarks Liberale Parti",1
+Nordfyns,10,Hårslev,V_Palle_Yndgaard,Palle Yndgaard,"Venstre, Danmarks Liberale Parti",10
+Nordfyns,10,Hårslev,V_Kenneth_Clasen,Kenneth Clasen,"Venstre, Danmarks Liberale Parti",3
+Nordfyns,10,Hårslev,V_Annette_Allesø,Annette Allesø,"Venstre, Danmarks Liberale Parti",1
+Nordfyns,10,Hårslev,V_Mogens_Christensen,Mogens Christensen,"Venstre, Danmarks Liberale Parti",29
+Nordfyns,10,Hårslev,V_Marie_Holmgaard_Søvsø,Marie Holmgaard Søvsø,"Venstre, Danmarks Liberale Parti",3
+Nordfyns,10,Hårslev,V_Anja_Lund,Anja Lund,"Venstre, Danmarks Liberale Parti",23
+Nordfyns,10,Hårslev,V_Ole_Taustrup_Hansen,Ole Taustrup Hansen,"Venstre, Danmarks Liberale Parti",2
+Nordfyns,10,Hårslev,V_Helle_Brunse,Helle Brunse,"Venstre, Danmarks Liberale Parti",3
+Nordfyns,10,Hårslev,V_Claus_Halsgaard_Pedersen,Claus Halsgaard Pedersen,"Venstre, Danmarks Liberale Parti",2
+Nordfyns,10,Hårslev,V_Bettina_Møller-Hansen,Bettina Møller-Hansen,"Venstre, Danmarks Liberale Parti",0
+Nordfyns,10,Hårslev,V_Lasse_Mogensen,Lasse Mogensen,"Venstre, Danmarks Liberale Parti",78
+Nordfyns,10,Hårslev,V_Nikolaj_Vang,Nikolaj Vang,"Venstre, Danmarks Liberale Parti",5
+Nordfyns,10,Hårslev,V_Dennis_Christensen,Dennis Christensen,"Venstre, Danmarks Liberale Parti",1
+Nordfyns,10,Hårslev,V_Henriette_Liedicke,Henriette Liedicke,"Venstre, Danmarks Liberale Parti",1
+Nordfyns,10,Hårslev,V_Maria_Dahl_Hedegaard,Maria Dahl Hedegaard,"Venstre, Danmarks Liberale Parti",1
+Nordfyns,10,Hårslev,V_Brian_Korsgaard,Brian Korsgaard,"Venstre, Danmarks Liberale Parti",0
+Nordfyns,10,Hårslev,V_Robin_Birch,Robin Birch,"Venstre, Danmarks Liberale Parti",0
+Nordfyns,10,Hårslev,V_Franz_Rohde,Franz Rohde,"Venstre, Danmarks Liberale Parti",0
+Nordfyns,10,Hårslev,V_Lars_Ladegaard,Lars Ladegaard,"Venstre, Danmarks Liberale Parti",1
+Nordfyns,10,Hårslev,V_Gitte_Kristiansen,Gitte Kristiansen,"Venstre, Danmarks Liberale Parti",2
+Nordfyns,10,Hårslev,V_Jesper_Vestergaard,Jesper Vestergaard,"Venstre, Danmarks Liberale Parti",0
+Nordfyns,10,Hårslev,V_Jørgen_Kjeldsen,Jørgen Kjeldsen,"Venstre, Danmarks Liberale Parti",0
+Nordfyns,10,Hårslev,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,7
+Nordfyns,10,Hårslev,Ø_Niels_Bjarne_Lund,Niels Bjarne Lund,Enhedslisten - De Rød-Grønne,5
+Nordfyns,10,Hårslev,Ø_Dirk_Müller,Dirk Müller,Enhedslisten - De Rød-Grønne,2
+Nordfyns,11,Morud,A_Listestemmer,Listestemmer,Socialdemokratiet,86
+Nordfyns,11,Morud,A_Helle_Waagner,Helle Waagner,Socialdemokratiet,72
+Nordfyns,11,Morud,A_Kasper_Solberg,Kasper Solberg,Socialdemokratiet,15
+Nordfyns,11,Morud,A_Bernt_Nicolaysen,Bernt Nicolaysen,Socialdemokratiet,2
+Nordfyns,11,Morud,A_Anette_Lykke_Jensen,Anette Lykke Jensen,Socialdemokratiet,3
+Nordfyns,11,Morud,A_Dorte_Schmidt,Dorte Schmidt,Socialdemokratiet,13
+Nordfyns,11,Morud,A_Brian_Lebæk,Brian Lebæk,Socialdemokratiet,1
+Nordfyns,11,Morud,A_Gert_Block_Hættlein_Rasmussen,Gert Block Hættlein Rasmussen,Socialdemokratiet,33
+Nordfyns,11,Morud,A_Heidi_Valentin,Heidi Valentin,Socialdemokratiet,5
+Nordfyns,11,Morud,A_Johnny_Kristensen,Johnny Kristensen,Socialdemokratiet,0
+Nordfyns,11,Morud,A_Idrees_Haider,Idrees Haider,Socialdemokratiet,2
+Nordfyns,11,Morud,A_Sigridur_Thorvaldsdottir,Sigridur Thorvaldsdottir,Socialdemokratiet,11
+Nordfyns,11,Morud,A_Jane_Lydia_Gulbæk,Jane Lydia Gulbæk,Socialdemokratiet,9
+Nordfyns,11,Morud,A_Thomas_Mrzyglod,Thomas Mrzyglod,Socialdemokratiet,74
+Nordfyns,11,Morud,A_Arne_Erlund,Arne Erlund,Socialdemokratiet,3
+Nordfyns,11,Morud,A_Svenn_Kopp_Pedersen,Svenn Kopp Pedersen,Socialdemokratiet,0
+Nordfyns,11,Morud,B_Listestemmer,Listestemmer,Radikale Venstre,12
+Nordfyns,11,Morud,B_Bo_Jakobsen,Bo Jakobsen,Radikale Venstre,13
+Nordfyns,11,Morud,B_Mette_Hjorth,Mette Hjorth,Radikale Venstre,28
+Nordfyns,11,Morud,B_John_Arnshof,John Arnshof,Radikale Venstre,1
+Nordfyns,11,Morud,B_Jacob-Steen_Madsen,Jacob-Steen Madsen,Radikale Venstre,1
+Nordfyns,11,Morud,B_Rasmus_Festerling_Sørensen,Rasmus Festerling Sørensen,Radikale Venstre,0
+Nordfyns,11,Morud,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,31
+Nordfyns,11,Morud,C_Anders_Thingholm,Anders Thingholm,Det Konservative Folkeparti,397
+Nordfyns,11,Morud,C_Marie_Louise_Pedersen,Marie Louise Pedersen,Det Konservative Folkeparti,11
+Nordfyns,11,Morud,C_Christina_Flyman,Christina Flyman,Det Konservative Folkeparti,6
+Nordfyns,11,Morud,C_Carsten_Jäger,Carsten Jäger,Det Konservative Folkeparti,2
+Nordfyns,11,Morud,C_Jeff_Duckett,Jeff Duckett,Det Konservative Folkeparti,10
+Nordfyns,11,Morud,D_Listestemmer,Listestemmer,Nye Borgerlige,17
+Nordfyns,11,Morud,"D_Bill_Malmgren,_Otterup","Bill Malmgren, Otterup",Nye Borgerlige,11
+Nordfyns,11,Morud,"D_Bjarne_Knudsen,_Søndersø","Bjarne Knudsen, Søndersø",Nye Borgerlige,6
+Nordfyns,11,Morud,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,30
+Nordfyns,11,Morud,F_Anne-Lise_Sievers,Anne-Lise Sievers,SF - Socialistisk Folkeparti,80
+Nordfyns,11,Morud,F_Bent_Olsen,Bent Olsen,SF - Socialistisk Folkeparti,9
+Nordfyns,11,Morud,F_Pia_Longet,Pia Longet,SF - Socialistisk Folkeparti,3
+Nordfyns,11,Morud,F_Lene_Granløkke,Lene Granløkke,SF - Socialistisk Folkeparti,3
+Nordfyns,11,Morud,F_Bine_Mathiasen,Bine Mathiasen,SF - Socialistisk Folkeparti,20
+Nordfyns,11,Morud,O_Listestemmer,Listestemmer,Dansk Folkeparti,15
+Nordfyns,11,Morud,"O_Jane_Yndgaard,_Klintebjerg","Jane Yndgaard, Klintebjerg",Dansk Folkeparti,11
+Nordfyns,11,Morud,"O_Eva_Jørgensen,_Bogense","Eva Jørgensen, Bogense",Dansk Folkeparti,6
+Nordfyns,11,Morud,"O_Henrik_Damborg_Sørensen,_Hårslev","Henrik Damborg Sørensen, Hårslev",Dansk Folkeparti,0
+Nordfyns,11,Morud,"O_Christian_Højkilde_Hansen,_Nørreby","Christian Højkilde Hansen, Nørreby",Dansk Folkeparti,1
+Nordfyns,11,Morud,"O_Nick_Vennerstrøm_Jørgensen,Bogense","Nick Vennerstrøm Jørgensen,Bogense",Dansk Folkeparti,2
+Nordfyns,11,Morud,"O_Poul_Svane_Madsen,_Bogense","Poul Svane Madsen, Bogense",Dansk Folkeparti,1
+Nordfyns,11,Morud,"O_Niels_Christian_Holst_Hansen,Hårsl","Niels Christian Holst Hansen,Hårsl",Dansk Folkeparti,1
+Nordfyns,11,Morud,"O_Sonja_Skøtt,_Bogense","Sonja Skøtt, Bogense",Dansk Folkeparti,1
+Nordfyns,11,Morud,"O_Per_Christensen,_Uggerslev","Per Christensen, Uggerslev",Dansk Folkeparti,0
+Nordfyns,11,Morud,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",75
+Nordfyns,11,Morud,V_Morten_Andersen,Morten Andersen,"Venstre, Danmarks Liberale Parti",168
+Nordfyns,11,Morud,V_Mette_Landtved-Holm,Mette Landtved-Holm,"Venstre, Danmarks Liberale Parti",5
+Nordfyns,11,Morud,V_Palle_Yndgaard,Palle Yndgaard,"Venstre, Danmarks Liberale Parti",6
+Nordfyns,11,Morud,V_Kenneth_Clasen,Kenneth Clasen,"Venstre, Danmarks Liberale Parti",3
+Nordfyns,11,Morud,V_Annette_Allesø,Annette Allesø,"Venstre, Danmarks Liberale Parti",3
+Nordfyns,11,Morud,V_Mogens_Christensen,Mogens Christensen,"Venstre, Danmarks Liberale Parti",5
+Nordfyns,11,Morud,V_Marie_Holmgaard_Søvsø,Marie Holmgaard Søvsø,"Venstre, Danmarks Liberale Parti",150
+Nordfyns,11,Morud,V_Anja_Lund,Anja Lund,"Venstre, Danmarks Liberale Parti",116
+Nordfyns,11,Morud,V_Ole_Taustrup_Hansen,Ole Taustrup Hansen,"Venstre, Danmarks Liberale Parti",0
+Nordfyns,11,Morud,V_Helle_Brunse,Helle Brunse,"Venstre, Danmarks Liberale Parti",21
+Nordfyns,11,Morud,V_Claus_Halsgaard_Pedersen,Claus Halsgaard Pedersen,"Venstre, Danmarks Liberale Parti",2
+Nordfyns,11,Morud,V_Bettina_Møller-Hansen,Bettina Møller-Hansen,"Venstre, Danmarks Liberale Parti",1
+Nordfyns,11,Morud,V_Lasse_Mogensen,Lasse Mogensen,"Venstre, Danmarks Liberale Parti",5
+Nordfyns,11,Morud,V_Nikolaj_Vang,Nikolaj Vang,"Venstre, Danmarks Liberale Parti",2
+Nordfyns,11,Morud,V_Dennis_Christensen,Dennis Christensen,"Venstre, Danmarks Liberale Parti",2
+Nordfyns,11,Morud,V_Henriette_Liedicke,Henriette Liedicke,"Venstre, Danmarks Liberale Parti",1
+Nordfyns,11,Morud,V_Maria_Dahl_Hedegaard,Maria Dahl Hedegaard,"Venstre, Danmarks Liberale Parti",3
+Nordfyns,11,Morud,V_Brian_Korsgaard,Brian Korsgaard,"Venstre, Danmarks Liberale Parti",3
+Nordfyns,11,Morud,V_Robin_Birch,Robin Birch,"Venstre, Danmarks Liberale Parti",0
+Nordfyns,11,Morud,V_Franz_Rohde,Franz Rohde,"Venstre, Danmarks Liberale Parti",6
+Nordfyns,11,Morud,V_Lars_Ladegaard,Lars Ladegaard,"Venstre, Danmarks Liberale Parti",0
+Nordfyns,11,Morud,V_Gitte_Kristiansen,Gitte Kristiansen,"Venstre, Danmarks Liberale Parti",11
+Nordfyns,11,Morud,V_Jesper_Vestergaard,Jesper Vestergaard,"Venstre, Danmarks Liberale Parti",1
+Nordfyns,11,Morud,V_Jørgen_Kjeldsen,Jørgen Kjeldsen,"Venstre, Danmarks Liberale Parti",2
+Nordfyns,11,Morud,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,17
+Nordfyns,11,Morud,Ø_Niels_Bjarne_Lund,Niels Bjarne Lund,Enhedslisten - De Rød-Grønne,9
+Nordfyns,11,Morud,Ø_Dirk_Müller,Dirk Müller,Enhedslisten - De Rød-Grønne,6
+Nordfyns,12,Særslev,A_Listestemmer,Listestemmer,Socialdemokratiet,67
+Nordfyns,12,Særslev,A_Helle_Waagner,Helle Waagner,Socialdemokratiet,46
+Nordfyns,12,Særslev,A_Kasper_Solberg,Kasper Solberg,Socialdemokratiet,12
+Nordfyns,12,Særslev,A_Bernt_Nicolaysen,Bernt Nicolaysen,Socialdemokratiet,2
+Nordfyns,12,Særslev,A_Anette_Lykke_Jensen,Anette Lykke Jensen,Socialdemokratiet,28
+Nordfyns,12,Særslev,A_Dorte_Schmidt,Dorte Schmidt,Socialdemokratiet,4
+Nordfyns,12,Særslev,A_Brian_Lebæk,Brian Lebæk,Socialdemokratiet,7
+Nordfyns,12,Særslev,A_Gert_Block_Hættlein_Rasmussen,Gert Block Hættlein Rasmussen,Socialdemokratiet,3
+Nordfyns,12,Særslev,A_Heidi_Valentin,Heidi Valentin,Socialdemokratiet,1
+Nordfyns,12,Særslev,A_Johnny_Kristensen,Johnny Kristensen,Socialdemokratiet,11
+Nordfyns,12,Særslev,A_Idrees_Haider,Idrees Haider,Socialdemokratiet,5
+Nordfyns,12,Særslev,A_Sigridur_Thorvaldsdottir,Sigridur Thorvaldsdottir,Socialdemokratiet,3
+Nordfyns,12,Særslev,A_Jane_Lydia_Gulbæk,Jane Lydia Gulbæk,Socialdemokratiet,7
+Nordfyns,12,Særslev,A_Thomas_Mrzyglod,Thomas Mrzyglod,Socialdemokratiet,0
+Nordfyns,12,Særslev,A_Arne_Erlund,Arne Erlund,Socialdemokratiet,2
+Nordfyns,12,Særslev,A_Svenn_Kopp_Pedersen,Svenn Kopp Pedersen,Socialdemokratiet,0
+Nordfyns,12,Særslev,B_Listestemmer,Listestemmer,Radikale Venstre,7
+Nordfyns,12,Særslev,B_Bo_Jakobsen,Bo Jakobsen,Radikale Venstre,16
+Nordfyns,12,Særslev,B_Mette_Hjorth,Mette Hjorth,Radikale Venstre,1
+Nordfyns,12,Særslev,B_John_Arnshof,John Arnshof,Radikale Venstre,1
+Nordfyns,12,Særslev,B_Jacob-Steen_Madsen,Jacob-Steen Madsen,Radikale Venstre,1
+Nordfyns,12,Særslev,B_Rasmus_Festerling_Sørensen,Rasmus Festerling Sørensen,Radikale Venstre,0
+Nordfyns,12,Særslev,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,11
+Nordfyns,12,Særslev,C_Anders_Thingholm,Anders Thingholm,Det Konservative Folkeparti,12
+Nordfyns,12,Særslev,C_Marie_Louise_Pedersen,Marie Louise Pedersen,Det Konservative Folkeparti,6
+Nordfyns,12,Særslev,C_Christina_Flyman,Christina Flyman,Det Konservative Folkeparti,9
+Nordfyns,12,Særslev,C_Carsten_Jäger,Carsten Jäger,Det Konservative Folkeparti,0
+Nordfyns,12,Særslev,C_Jeff_Duckett,Jeff Duckett,Det Konservative Folkeparti,0
+Nordfyns,12,Særslev,D_Listestemmer,Listestemmer,Nye Borgerlige,13
+Nordfyns,12,Særslev,"D_Bill_Malmgren,_Otterup","Bill Malmgren, Otterup",Nye Borgerlige,11
+Nordfyns,12,Særslev,"D_Bjarne_Knudsen,_Søndersø","Bjarne Knudsen, Søndersø",Nye Borgerlige,14
+Nordfyns,12,Særslev,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,15
+Nordfyns,12,Særslev,F_Anne-Lise_Sievers,Anne-Lise Sievers,SF - Socialistisk Folkeparti,20
+Nordfyns,12,Særslev,F_Bent_Olsen,Bent Olsen,SF - Socialistisk Folkeparti,10
+Nordfyns,12,Særslev,F_Pia_Longet,Pia Longet,SF - Socialistisk Folkeparti,2
+Nordfyns,12,Særslev,F_Lene_Granløkke,Lene Granløkke,SF - Socialistisk Folkeparti,0
+Nordfyns,12,Særslev,F_Bine_Mathiasen,Bine Mathiasen,SF - Socialistisk Folkeparti,35
+Nordfyns,12,Særslev,O_Listestemmer,Listestemmer,Dansk Folkeparti,8
+Nordfyns,12,Særslev,"O_Jane_Yndgaard,_Klintebjerg","Jane Yndgaard, Klintebjerg",Dansk Folkeparti,12
+Nordfyns,12,Særslev,"O_Eva_Jørgensen,_Bogense","Eva Jørgensen, Bogense",Dansk Folkeparti,6
+Nordfyns,12,Særslev,"O_Henrik_Damborg_Sørensen,_Hårslev","Henrik Damborg Sørensen, Hårslev",Dansk Folkeparti,5
+Nordfyns,12,Særslev,"O_Christian_Højkilde_Hansen,_Nørreby","Christian Højkilde Hansen, Nørreby",Dansk Folkeparti,4
+Nordfyns,12,Særslev,"O_Nick_Vennerstrøm_Jørgensen,Bogense","Nick Vennerstrøm Jørgensen,Bogense",Dansk Folkeparti,2
+Nordfyns,12,Særslev,"O_Poul_Svane_Madsen,_Bogense","Poul Svane Madsen, Bogense",Dansk Folkeparti,3
+Nordfyns,12,Særslev,"O_Niels_Christian_Holst_Hansen,Hårsl","Niels Christian Holst Hansen,Hårsl",Dansk Folkeparti,3
+Nordfyns,12,Særslev,"O_Sonja_Skøtt,_Bogense","Sonja Skøtt, Bogense",Dansk Folkeparti,1
+Nordfyns,12,Særslev,"O_Per_Christensen,_Uggerslev","Per Christensen, Uggerslev",Dansk Folkeparti,0
+Nordfyns,12,Særslev,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",23
+Nordfyns,12,Særslev,V_Morten_Andersen,Morten Andersen,"Venstre, Danmarks Liberale Parti",143
+Nordfyns,12,Særslev,V_Mette_Landtved-Holm,Mette Landtved-Holm,"Venstre, Danmarks Liberale Parti",2
+Nordfyns,12,Særslev,V_Palle_Yndgaard,Palle Yndgaard,"Venstre, Danmarks Liberale Parti",54
+Nordfyns,12,Særslev,V_Kenneth_Clasen,Kenneth Clasen,"Venstre, Danmarks Liberale Parti",1
+Nordfyns,12,Særslev,V_Annette_Allesø,Annette Allesø,"Venstre, Danmarks Liberale Parti",2
+Nordfyns,12,Særslev,V_Mogens_Christensen,Mogens Christensen,"Venstre, Danmarks Liberale Parti",15
+Nordfyns,12,Særslev,V_Marie_Holmgaard_Søvsø,Marie Holmgaard Søvsø,"Venstre, Danmarks Liberale Parti",2
+Nordfyns,12,Særslev,V_Anja_Lund,Anja Lund,"Venstre, Danmarks Liberale Parti",45
+Nordfyns,12,Særslev,V_Ole_Taustrup_Hansen,Ole Taustrup Hansen,"Venstre, Danmarks Liberale Parti",1
+Nordfyns,12,Særslev,V_Helle_Brunse,Helle Brunse,"Venstre, Danmarks Liberale Parti",16
+Nordfyns,12,Særslev,V_Claus_Halsgaard_Pedersen,Claus Halsgaard Pedersen,"Venstre, Danmarks Liberale Parti",1
+Nordfyns,12,Særslev,V_Bettina_Møller-Hansen,Bettina Møller-Hansen,"Venstre, Danmarks Liberale Parti",3
+Nordfyns,12,Særslev,V_Lasse_Mogensen,Lasse Mogensen,"Venstre, Danmarks Liberale Parti",13
+Nordfyns,12,Særslev,V_Nikolaj_Vang,Nikolaj Vang,"Venstre, Danmarks Liberale Parti",5
+Nordfyns,12,Særslev,V_Dennis_Christensen,Dennis Christensen,"Venstre, Danmarks Liberale Parti",4
+Nordfyns,12,Særslev,V_Henriette_Liedicke,Henriette Liedicke,"Venstre, Danmarks Liberale Parti",3
+Nordfyns,12,Særslev,V_Maria_Dahl_Hedegaard,Maria Dahl Hedegaard,"Venstre, Danmarks Liberale Parti",4
+Nordfyns,12,Særslev,V_Brian_Korsgaard,Brian Korsgaard,"Venstre, Danmarks Liberale Parti",3
+Nordfyns,12,Særslev,V_Robin_Birch,Robin Birch,"Venstre, Danmarks Liberale Parti",6
+Nordfyns,12,Særslev,V_Franz_Rohde,Franz Rohde,"Venstre, Danmarks Liberale Parti",3
+Nordfyns,12,Særslev,V_Lars_Ladegaard,Lars Ladegaard,"Venstre, Danmarks Liberale Parti",2
+Nordfyns,12,Særslev,V_Gitte_Kristiansen,Gitte Kristiansen,"Venstre, Danmarks Liberale Parti",4
+Nordfyns,12,Særslev,V_Jesper_Vestergaard,Jesper Vestergaard,"Venstre, Danmarks Liberale Parti",0
+Nordfyns,12,Særslev,V_Jørgen_Kjeldsen,Jørgen Kjeldsen,"Venstre, Danmarks Liberale Parti",0
+Nordfyns,12,Særslev,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,8
+Nordfyns,12,Særslev,Ø_Niels_Bjarne_Lund,Niels Bjarne Lund,Enhedslisten - De Rød-Grønne,2
+Nordfyns,12,Særslev,Ø_Dirk_Müller,Dirk Müller,Enhedslisten - De Rød-Grønne,4
+Nordfyns,13,Søndersø,A_Listestemmer,Listestemmer,Socialdemokratiet,224
+Nordfyns,13,Søndersø,A_Helle_Waagner,Helle Waagner,Socialdemokratiet,175
+Nordfyns,13,Søndersø,A_Kasper_Solberg,Kasper Solberg,Socialdemokratiet,46
+Nordfyns,13,Søndersø,A_Bernt_Nicolaysen,Bernt Nicolaysen,Socialdemokratiet,12
+Nordfyns,13,Søndersø,A_Anette_Lykke_Jensen,Anette Lykke Jensen,Socialdemokratiet,13
+Nordfyns,13,Søndersø,A_Dorte_Schmidt,Dorte Schmidt,Socialdemokratiet,33
+Nordfyns,13,Søndersø,A_Brian_Lebæk,Brian Lebæk,Socialdemokratiet,3
+Nordfyns,13,Søndersø,A_Gert_Block_Hættlein_Rasmussen,Gert Block Hættlein Rasmussen,Socialdemokratiet,17
+Nordfyns,13,Søndersø,A_Heidi_Valentin,Heidi Valentin,Socialdemokratiet,9
+Nordfyns,13,Søndersø,A_Johnny_Kristensen,Johnny Kristensen,Socialdemokratiet,1
+Nordfyns,13,Søndersø,A_Idrees_Haider,Idrees Haider,Socialdemokratiet,71
+Nordfyns,13,Søndersø,A_Sigridur_Thorvaldsdottir,Sigridur Thorvaldsdottir,Socialdemokratiet,11
+Nordfyns,13,Søndersø,A_Jane_Lydia_Gulbæk,Jane Lydia Gulbæk,Socialdemokratiet,26
+Nordfyns,13,Søndersø,A_Thomas_Mrzyglod,Thomas Mrzyglod,Socialdemokratiet,3
+Nordfyns,13,Søndersø,A_Arne_Erlund,Arne Erlund,Socialdemokratiet,5
+Nordfyns,13,Søndersø,A_Svenn_Kopp_Pedersen,Svenn Kopp Pedersen,Socialdemokratiet,1
+Nordfyns,13,Søndersø,B_Listestemmer,Listestemmer,Radikale Venstre,18
+Nordfyns,13,Søndersø,B_Bo_Jakobsen,Bo Jakobsen,Radikale Venstre,21
+Nordfyns,13,Søndersø,B_Mette_Hjorth,Mette Hjorth,Radikale Venstre,7
+Nordfyns,13,Søndersø,B_John_Arnshof,John Arnshof,Radikale Venstre,1
+Nordfyns,13,Søndersø,B_Jacob-Steen_Madsen,Jacob-Steen Madsen,Radikale Venstre,3
+Nordfyns,13,Søndersø,B_Rasmus_Festerling_Sørensen,Rasmus Festerling Sørensen,Radikale Venstre,2
+Nordfyns,13,Søndersø,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,49
+Nordfyns,13,Søndersø,C_Anders_Thingholm,Anders Thingholm,Det Konservative Folkeparti,86
+Nordfyns,13,Søndersø,C_Marie_Louise_Pedersen,Marie Louise Pedersen,Det Konservative Folkeparti,10
+Nordfyns,13,Søndersø,C_Christina_Flyman,Christina Flyman,Det Konservative Folkeparti,21
+Nordfyns,13,Søndersø,C_Carsten_Jäger,Carsten Jäger,Det Konservative Folkeparti,6
+Nordfyns,13,Søndersø,C_Jeff_Duckett,Jeff Duckett,Det Konservative Folkeparti,11
+Nordfyns,13,Søndersø,D_Listestemmer,Listestemmer,Nye Borgerlige,32
+Nordfyns,13,Søndersø,"D_Bill_Malmgren,_Otterup","Bill Malmgren, Otterup",Nye Borgerlige,14
+Nordfyns,13,Søndersø,"D_Bjarne_Knudsen,_Søndersø","Bjarne Knudsen, Søndersø",Nye Borgerlige,16
+Nordfyns,13,Søndersø,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,29
+Nordfyns,13,Søndersø,F_Anne-Lise_Sievers,Anne-Lise Sievers,SF - Socialistisk Folkeparti,51
+Nordfyns,13,Søndersø,F_Bent_Olsen,Bent Olsen,SF - Socialistisk Folkeparti,9
+Nordfyns,13,Søndersø,F_Pia_Longet,Pia Longet,SF - Socialistisk Folkeparti,11
+Nordfyns,13,Søndersø,F_Lene_Granløkke,Lene Granløkke,SF - Socialistisk Folkeparti,8
+Nordfyns,13,Søndersø,F_Bine_Mathiasen,Bine Mathiasen,SF - Socialistisk Folkeparti,85
+Nordfyns,13,Søndersø,O_Listestemmer,Listestemmer,Dansk Folkeparti,45
+Nordfyns,13,Søndersø,"O_Jane_Yndgaard,_Klintebjerg","Jane Yndgaard, Klintebjerg",Dansk Folkeparti,24
+Nordfyns,13,Søndersø,"O_Eva_Jørgensen,_Bogense","Eva Jørgensen, Bogense",Dansk Folkeparti,12
+Nordfyns,13,Søndersø,"O_Henrik_Damborg_Sørensen,_Hårslev","Henrik Damborg Sørensen, Hårslev",Dansk Folkeparti,7
+Nordfyns,13,Søndersø,"O_Christian_Højkilde_Hansen,_Nørreby","Christian Højkilde Hansen, Nørreby",Dansk Folkeparti,3
+Nordfyns,13,Søndersø,"O_Nick_Vennerstrøm_Jørgensen,Bogense","Nick Vennerstrøm Jørgensen,Bogense",Dansk Folkeparti,4
+Nordfyns,13,Søndersø,"O_Poul_Svane_Madsen,_Bogense","Poul Svane Madsen, Bogense",Dansk Folkeparti,0
+Nordfyns,13,Søndersø,"O_Niels_Christian_Holst_Hansen,Hårsl","Niels Christian Holst Hansen,Hårsl",Dansk Folkeparti,1
+Nordfyns,13,Søndersø,"O_Sonja_Skøtt,_Bogense","Sonja Skøtt, Bogense",Dansk Folkeparti,1
+Nordfyns,13,Søndersø,"O_Per_Christensen,_Uggerslev","Per Christensen, Uggerslev",Dansk Folkeparti,4
+Nordfyns,13,Søndersø,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",94
+Nordfyns,13,Søndersø,V_Morten_Andersen,Morten Andersen,"Venstre, Danmarks Liberale Parti",355
+Nordfyns,13,Søndersø,V_Mette_Landtved-Holm,Mette Landtved-Holm,"Venstre, Danmarks Liberale Parti",15
+Nordfyns,13,Søndersø,V_Palle_Yndgaard,Palle Yndgaard,"Venstre, Danmarks Liberale Parti",21
+Nordfyns,13,Søndersø,V_Kenneth_Clasen,Kenneth Clasen,"Venstre, Danmarks Liberale Parti",4
+Nordfyns,13,Søndersø,V_Annette_Allesø,Annette Allesø,"Venstre, Danmarks Liberale Parti",4
+Nordfyns,13,Søndersø,V_Mogens_Christensen,Mogens Christensen,"Venstre, Danmarks Liberale Parti",13
+Nordfyns,13,Søndersø,V_Marie_Holmgaard_Søvsø,Marie Holmgaard Søvsø,"Venstre, Danmarks Liberale Parti",4
+Nordfyns,13,Søndersø,V_Anja_Lund,Anja Lund,"Venstre, Danmarks Liberale Parti",94
+Nordfyns,13,Søndersø,V_Ole_Taustrup_Hansen,Ole Taustrup Hansen,"Venstre, Danmarks Liberale Parti",8
+Nordfyns,13,Søndersø,V_Helle_Brunse,Helle Brunse,"Venstre, Danmarks Liberale Parti",190
+Nordfyns,13,Søndersø,V_Claus_Halsgaard_Pedersen,Claus Halsgaard Pedersen,"Venstre, Danmarks Liberale Parti",3
+Nordfyns,13,Søndersø,V_Bettina_Møller-Hansen,Bettina Møller-Hansen,"Venstre, Danmarks Liberale Parti",6
+Nordfyns,13,Søndersø,V_Lasse_Mogensen,Lasse Mogensen,"Venstre, Danmarks Liberale Parti",4
+Nordfyns,13,Søndersø,V_Nikolaj_Vang,Nikolaj Vang,"Venstre, Danmarks Liberale Parti",2
+Nordfyns,13,Søndersø,V_Dennis_Christensen,Dennis Christensen,"Venstre, Danmarks Liberale Parti",12
+Nordfyns,13,Søndersø,V_Henriette_Liedicke,Henriette Liedicke,"Venstre, Danmarks Liberale Parti",7
+Nordfyns,13,Søndersø,V_Maria_Dahl_Hedegaard,Maria Dahl Hedegaard,"Venstre, Danmarks Liberale Parti",2
+Nordfyns,13,Søndersø,V_Brian_Korsgaard,Brian Korsgaard,"Venstre, Danmarks Liberale Parti",165
+Nordfyns,13,Søndersø,V_Robin_Birch,Robin Birch,"Venstre, Danmarks Liberale Parti",24
+Nordfyns,13,Søndersø,V_Franz_Rohde,Franz Rohde,"Venstre, Danmarks Liberale Parti",3
+Nordfyns,13,Søndersø,V_Lars_Ladegaard,Lars Ladegaard,"Venstre, Danmarks Liberale Parti",0
+Nordfyns,13,Søndersø,V_Gitte_Kristiansen,Gitte Kristiansen,"Venstre, Danmarks Liberale Parti",32
+Nordfyns,13,Søndersø,V_Jesper_Vestergaard,Jesper Vestergaard,"Venstre, Danmarks Liberale Parti",0
+Nordfyns,13,Søndersø,V_Jørgen_Kjeldsen,Jørgen Kjeldsen,"Venstre, Danmarks Liberale Parti",2
+Nordfyns,13,Søndersø,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,17
+Nordfyns,13,Søndersø,Ø_Niels_Bjarne_Lund,Niels Bjarne Lund,Enhedslisten - De Rød-Grønne,7
+Nordfyns,13,Søndersø,Ø_Dirk_Müller,Dirk Müller,Enhedslisten - De Rød-Grønne,4

@@ -1,0 +1,1315 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Morsø,1,Sejerslev,A_Listestemmer,Listestemmer,Socialdemokratiet,18
+Morsø,1,Sejerslev,A_Tore_Müller,Tore Müller,Socialdemokratiet,22
+Morsø,1,Sejerslev,A_John_Christiansen,John Christiansen,Socialdemokratiet,2
+Morsø,1,Sejerslev,A_Jens_Dahlgaard,Jens Dahlgaard,Socialdemokratiet,7
+Morsø,1,Sejerslev,A_Svend_Erik_Jørgensen,Svend Erik Jørgensen,Socialdemokratiet,2
+Morsø,1,Sejerslev,A_Vagn_Kidmose,Vagn Kidmose,Socialdemokratiet,22
+Morsø,1,Sejerslev,A_Poul_Kristensen,Poul Kristensen,Socialdemokratiet,0
+Morsø,1,Sejerslev,A_Lisbeth_Svane_Kusk,Lisbeth Svane Kusk,Socialdemokratiet,1
+Morsø,1,Sejerslev,A_Max_Madsen,Max Madsen,Socialdemokratiet,4
+Morsø,1,Sejerslev,A_Lene_Leth_Poulsen,Lene Leth Poulsen,Socialdemokratiet,2
+Morsø,1,Sejerslev,A_Pia_Storm,Pia Storm,Socialdemokratiet,14
+Morsø,1,Sejerslev,A_Florina_Elena_Temes,Florina Elena Temes,Socialdemokratiet,0
+Morsø,1,Sejerslev,A_Karin_Villadsen,Karin Villadsen,Socialdemokratiet,1
+Morsø,1,Sejerslev,A_Niels_Kristian_Østergaard,Niels Kristian Østergaard,Socialdemokratiet,13
+Morsø,1,Sejerslev,B_Listestemmer,Listestemmer,Radikale Venstre,1
+Morsø,1,Sejerslev,B_Jette_Jepsen,Jette Jepsen,Radikale Venstre,7
+Morsø,1,Sejerslev,B_Lars_Bo_Majgaard,Lars Bo Majgaard,Radikale Venstre,1
+Morsø,1,Sejerslev,B_Gyrithe_Stilling,Gyrithe Stilling,Radikale Venstre,2
+Morsø,1,Sejerslev,B_Bo_Fink,Bo Fink,Radikale Venstre,1
+Morsø,1,Sejerslev,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,2
+Morsø,1,Sejerslev,C_Thomas_Jensen,Thomas Jensen,Det Konservative Folkeparti,32
+Morsø,1,Sejerslev,C_Henrik_Markmøller_Bro,Henrik Markmøller Bro,Det Konservative Folkeparti,1
+Morsø,1,Sejerslev,C_Poul_Erik_Futtrup,Poul Erik Futtrup,Det Konservative Folkeparti,0
+Morsø,1,Sejerslev,C_Jens_Peter_Zacho,Jens Peter Zacho,Det Konservative Folkeparti,0
+Morsø,1,Sejerslev,C_Claus_S._Andersen,Claus S. Andersen,Det Konservative Folkeparti,0
+Morsø,1,Sejerslev,C_Poul_Roesen,Poul Roesen,Det Konservative Folkeparti,66
+Morsø,1,Sejerslev,D_Listestemmer,Listestemmer,Nye Borgerlige,2
+Morsø,1,Sejerslev,"D_Annfinn_Halsagard,_Sejerslev","Annfinn Halsagard, Sejerslev",Nye Borgerlige,22
+Morsø,1,Sejerslev,"D_Jens_Chr._Pedersen,_Sejerslev","Jens Chr. Pedersen, Sejerslev",Nye Borgerlige,1
+Morsø,1,Sejerslev,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,1
+Morsø,1,Sejerslev,"F_Viggo_Vangsgaard,_Tødsø","Viggo Vangsgaard, Tødsø",SF - Socialistisk Folkeparti,1
+Morsø,1,Sejerslev,"F_Signe_L._Mølgaard,_Nykøbing","Signe L. Mølgaard, Nykøbing",SF - Socialistisk Folkeparti,1
+Morsø,1,Sejerslev,"F_Jens_Peter_Madsen,_Nr._Solbjerg","Jens Peter Madsen, Nr. Solbjerg",SF - Socialistisk Folkeparti,0
+Morsø,1,Sejerslev,"F_Vibeke_D._Rasmussen,_Nr._Solbjerg","Vibeke D. Rasmussen, Nr. Solbjerg",SF - Socialistisk Folkeparti,0
+Morsø,1,Sejerslev,"F_Eva_Haidarz_Weiling,_Mollerup","Eva Haidarz Weiling, Mollerup",SF - Socialistisk Folkeparti,0
+Morsø,1,Sejerslev,M_Listestemmer,Listestemmer,Demokratisk Balance,0
+Morsø,1,Sejerslev,M_Ellen_Philipsen_Dahl,Ellen Philipsen Dahl,Demokratisk Balance,3
+Morsø,1,Sejerslev,M_Jens_Hvid_Skouboe,Jens Hvid Skouboe,Demokratisk Balance,0
+Morsø,1,Sejerslev,M_Anette_Jensen,Anette Jensen,Demokratisk Balance,2
+Morsø,1,Sejerslev,O_Listestemmer,Listestemmer,Dansk Folkeparti,2
+Morsø,1,Sejerslev,"O_Meiner_Nørgaard,_Emb","Meiner Nørgaard, Emb",Dansk Folkeparti,9
+Morsø,1,Sejerslev,"O_Anette_Svindborg,_Ø._Jølby","Anette Svindborg, Ø. Jølby",Dansk Folkeparti,3
+Morsø,1,Sejerslev,"O_Lars_Brian_Hovmøller,_Ørndrup","Lars Brian Hovmøller, Ørndrup",Dansk Folkeparti,0
+Morsø,1,Sejerslev,"O_Palle_Odgaard,_Sejerslev","Palle Odgaard, Sejerslev",Dansk Folkeparti,14
+Morsø,1,Sejerslev,"O_Kjeld_Jensen,_Nykøbing","Kjeld Jensen, Nykøbing",Dansk Folkeparti,0
+Morsø,1,Sejerslev,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",4
+Morsø,1,Sejerslev,V_Hans_Ejner_Bertelsen,Hans Ejner Bertelsen,"Venstre, Danmarks Liberale Parti",46
+Morsø,1,Sejerslev,V_Charlotte_Amalie_Holm,Charlotte Amalie Holm,"Venstre, Danmarks Liberale Parti",1
+Morsø,1,Sejerslev,V_Henning_Sørensen,Henning Sørensen,"Venstre, Danmarks Liberale Parti",3
+Morsø,1,Sejerslev,V_Klaus_Hvidtfeldt_Larsen,Klaus Hvidtfeldt Larsen,"Venstre, Danmarks Liberale Parti",0
+Morsø,1,Sejerslev,V_Jesper_Balle_Kristensen,Jesper Balle Kristensen,"Venstre, Danmarks Liberale Parti",7
+Morsø,1,Sejerslev,V_Ansgar_Nygaard,Ansgar Nygaard,"Venstre, Danmarks Liberale Parti",0
+Morsø,1,Sejerslev,V_Peter_Therkildsen,Peter Therkildsen,"Venstre, Danmarks Liberale Parti",4
+Morsø,1,Sejerslev,V_Tage_Andersen,Tage Andersen,"Venstre, Danmarks Liberale Parti",121
+Morsø,1,Sejerslev,V_Peter_Lillebæk,Peter Lillebæk,"Venstre, Danmarks Liberale Parti",1
+Morsø,1,Sejerslev,V_Anja_Birch_Alsøer,Anja Birch Alsøer,"Venstre, Danmarks Liberale Parti",0
+Morsø,1,Sejerslev,V_Hans_Henrik_Stordal_Ebbesen,Hans Henrik Stordal Ebbesen,"Venstre, Danmarks Liberale Parti",0
+Morsø,1,Sejerslev,V_Henrik_Kristensen,Henrik Kristensen,"Venstre, Danmarks Liberale Parti",0
+Morsø,1,Sejerslev,V_Jytte_Foldberg,Jytte Foldberg,"Venstre, Danmarks Liberale Parti",1
+Morsø,1,Sejerslev,V_Chris_Dahl,Chris Dahl,"Venstre, Danmarks Liberale Parti",1
+Morsø,1,Sejerslev,V_Mette_Kærgaard_Iversen,Mette Kærgaard Iversen,"Venstre, Danmarks Liberale Parti",2
+Morsø,1,Sejerslev,V_Allan_Sørensen,Allan Sørensen,"Venstre, Danmarks Liberale Parti",0
+Morsø,1,Sejerslev,V_Thomas_Dahlgaard,Thomas Dahlgaard,"Venstre, Danmarks Liberale Parti",1
+Morsø,1,Sejerslev,V_Rasmus_Christensen,Rasmus Christensen,"Venstre, Danmarks Liberale Parti",0
+Morsø,1,Sejerslev,V_Søren_Goul,Søren Goul,"Venstre, Danmarks Liberale Parti",0
+Morsø,1,Sejerslev,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,3
+Morsø,1,Sejerslev,Ø_Pia_Thorsen,Pia Thorsen,Enhedslisten - De Rød-Grønne,5
+Morsø,1,Sejerslev,Ø_Poul_Sørensen,Poul Sørensen,Enhedslisten - De Rød-Grønne,4
+Morsø,1,Sejerslev,Ø_Ingerliva_Friiø,Ingerliva Friiø,Enhedslisten - De Rød-Grønne,1
+Morsø,1,Sejerslev,Ø_Ole_Lajgaard,Ole Lajgaard,Enhedslisten - De Rød-Grønne,0
+Morsø,1,Sejerslev,Ø_Steen_Klærke,Steen Klærke,Enhedslisten - De Rød-Grønne,0
+Morsø,1,Sejerslev,Ø_Kjeld_Bøcker,Kjeld Bøcker,Enhedslisten - De Rød-Grønne,0
+Morsø,1,Sejerslev,Ø_Charlotte_Pedersen,Charlotte Pedersen,Enhedslisten - De Rød-Grønne,0
+Morsø,2,Flade,A_Listestemmer,Listestemmer,Socialdemokratiet,15
+Morsø,2,Flade,A_Tore_Müller,Tore Müller,Socialdemokratiet,13
+Morsø,2,Flade,A_John_Christiansen,John Christiansen,Socialdemokratiet,4
+Morsø,2,Flade,A_Jens_Dahlgaard,Jens Dahlgaard,Socialdemokratiet,2
+Morsø,2,Flade,A_Svend_Erik_Jørgensen,Svend Erik Jørgensen,Socialdemokratiet,4
+Morsø,2,Flade,A_Vagn_Kidmose,Vagn Kidmose,Socialdemokratiet,7
+Morsø,2,Flade,A_Poul_Kristensen,Poul Kristensen,Socialdemokratiet,2
+Morsø,2,Flade,A_Lisbeth_Svane_Kusk,Lisbeth Svane Kusk,Socialdemokratiet,1
+Morsø,2,Flade,A_Max_Madsen,Max Madsen,Socialdemokratiet,1
+Morsø,2,Flade,A_Lene_Leth_Poulsen,Lene Leth Poulsen,Socialdemokratiet,1
+Morsø,2,Flade,A_Pia_Storm,Pia Storm,Socialdemokratiet,4
+Morsø,2,Flade,A_Florina_Elena_Temes,Florina Elena Temes,Socialdemokratiet,5
+Morsø,2,Flade,A_Karin_Villadsen,Karin Villadsen,Socialdemokratiet,7
+Morsø,2,Flade,A_Niels_Kristian_Østergaard,Niels Kristian Østergaard,Socialdemokratiet,41
+Morsø,2,Flade,B_Listestemmer,Listestemmer,Radikale Venstre,2
+Morsø,2,Flade,B_Jette_Jepsen,Jette Jepsen,Radikale Venstre,8
+Morsø,2,Flade,B_Lars_Bo_Majgaard,Lars Bo Majgaard,Radikale Venstre,1
+Morsø,2,Flade,B_Gyrithe_Stilling,Gyrithe Stilling,Radikale Venstre,0
+Morsø,2,Flade,B_Bo_Fink,Bo Fink,Radikale Venstre,2
+Morsø,2,Flade,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,0
+Morsø,2,Flade,C_Thomas_Jensen,Thomas Jensen,Det Konservative Folkeparti,10
+Morsø,2,Flade,C_Henrik_Markmøller_Bro,Henrik Markmøller Bro,Det Konservative Folkeparti,0
+Morsø,2,Flade,C_Poul_Erik_Futtrup,Poul Erik Futtrup,Det Konservative Folkeparti,0
+Morsø,2,Flade,C_Jens_Peter_Zacho,Jens Peter Zacho,Det Konservative Folkeparti,11
+Morsø,2,Flade,C_Claus_S._Andersen,Claus S. Andersen,Det Konservative Folkeparti,0
+Morsø,2,Flade,C_Poul_Roesen,Poul Roesen,Det Konservative Folkeparti,9
+Morsø,2,Flade,D_Listestemmer,Listestemmer,Nye Borgerlige,3
+Morsø,2,Flade,"D_Annfinn_Halsagard,_Sejerslev","Annfinn Halsagard, Sejerslev",Nye Borgerlige,0
+Morsø,2,Flade,"D_Jens_Chr._Pedersen,_Sejerslev","Jens Chr. Pedersen, Sejerslev",Nye Borgerlige,1
+Morsø,2,Flade,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,4
+Morsø,2,Flade,"F_Viggo_Vangsgaard,_Tødsø","Viggo Vangsgaard, Tødsø",SF - Socialistisk Folkeparti,3
+Morsø,2,Flade,"F_Signe_L._Mølgaard,_Nykøbing","Signe L. Mølgaard, Nykøbing",SF - Socialistisk Folkeparti,1
+Morsø,2,Flade,"F_Jens_Peter_Madsen,_Nr._Solbjerg","Jens Peter Madsen, Nr. Solbjerg",SF - Socialistisk Folkeparti,0
+Morsø,2,Flade,"F_Vibeke_D._Rasmussen,_Nr._Solbjerg","Vibeke D. Rasmussen, Nr. Solbjerg",SF - Socialistisk Folkeparti,0
+Morsø,2,Flade,"F_Eva_Haidarz_Weiling,_Mollerup","Eva Haidarz Weiling, Mollerup",SF - Socialistisk Folkeparti,0
+Morsø,2,Flade,M_Listestemmer,Listestemmer,Demokratisk Balance,3
+Morsø,2,Flade,M_Ellen_Philipsen_Dahl,Ellen Philipsen Dahl,Demokratisk Balance,10
+Morsø,2,Flade,M_Jens_Hvid_Skouboe,Jens Hvid Skouboe,Demokratisk Balance,0
+Morsø,2,Flade,M_Anette_Jensen,Anette Jensen,Demokratisk Balance,20
+Morsø,2,Flade,O_Listestemmer,Listestemmer,Dansk Folkeparti,1
+Morsø,2,Flade,"O_Meiner_Nørgaard,_Emb","Meiner Nørgaard, Emb",Dansk Folkeparti,13
+Morsø,2,Flade,"O_Anette_Svindborg,_Ø._Jølby","Anette Svindborg, Ø. Jølby",Dansk Folkeparti,3
+Morsø,2,Flade,"O_Lars_Brian_Hovmøller,_Ørndrup","Lars Brian Hovmøller, Ørndrup",Dansk Folkeparti,0
+Morsø,2,Flade,"O_Palle_Odgaard,_Sejerslev","Palle Odgaard, Sejerslev",Dansk Folkeparti,2
+Morsø,2,Flade,"O_Kjeld_Jensen,_Nykøbing","Kjeld Jensen, Nykøbing",Dansk Folkeparti,0
+Morsø,2,Flade,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",7
+Morsø,2,Flade,V_Hans_Ejner_Bertelsen,Hans Ejner Bertelsen,"Venstre, Danmarks Liberale Parti",68
+Morsø,2,Flade,V_Charlotte_Amalie_Holm,Charlotte Amalie Holm,"Venstre, Danmarks Liberale Parti",7
+Morsø,2,Flade,V_Henning_Sørensen,Henning Sørensen,"Venstre, Danmarks Liberale Parti",6
+Morsø,2,Flade,V_Klaus_Hvidtfeldt_Larsen,Klaus Hvidtfeldt Larsen,"Venstre, Danmarks Liberale Parti",0
+Morsø,2,Flade,V_Jesper_Balle_Kristensen,Jesper Balle Kristensen,"Venstre, Danmarks Liberale Parti",15
+Morsø,2,Flade,V_Ansgar_Nygaard,Ansgar Nygaard,"Venstre, Danmarks Liberale Parti",0
+Morsø,2,Flade,V_Peter_Therkildsen,Peter Therkildsen,"Venstre, Danmarks Liberale Parti",5
+Morsø,2,Flade,V_Tage_Andersen,Tage Andersen,"Venstre, Danmarks Liberale Parti",11
+Morsø,2,Flade,V_Peter_Lillebæk,Peter Lillebæk,"Venstre, Danmarks Liberale Parti",1
+Morsø,2,Flade,V_Anja_Birch_Alsøer,Anja Birch Alsøer,"Venstre, Danmarks Liberale Parti",3
+Morsø,2,Flade,V_Hans_Henrik_Stordal_Ebbesen,Hans Henrik Stordal Ebbesen,"Venstre, Danmarks Liberale Parti",3
+Morsø,2,Flade,V_Henrik_Kristensen,Henrik Kristensen,"Venstre, Danmarks Liberale Parti",0
+Morsø,2,Flade,V_Jytte_Foldberg,Jytte Foldberg,"Venstre, Danmarks Liberale Parti",0
+Morsø,2,Flade,V_Chris_Dahl,Chris Dahl,"Venstre, Danmarks Liberale Parti",1
+Morsø,2,Flade,V_Mette_Kærgaard_Iversen,Mette Kærgaard Iversen,"Venstre, Danmarks Liberale Parti",2
+Morsø,2,Flade,V_Allan_Sørensen,Allan Sørensen,"Venstre, Danmarks Liberale Parti",0
+Morsø,2,Flade,V_Thomas_Dahlgaard,Thomas Dahlgaard,"Venstre, Danmarks Liberale Parti",0
+Morsø,2,Flade,V_Rasmus_Christensen,Rasmus Christensen,"Venstre, Danmarks Liberale Parti",0
+Morsø,2,Flade,V_Søren_Goul,Søren Goul,"Venstre, Danmarks Liberale Parti",1
+Morsø,2,Flade,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,10
+Morsø,2,Flade,Ø_Pia_Thorsen,Pia Thorsen,Enhedslisten - De Rød-Grønne,4
+Morsø,2,Flade,Ø_Poul_Sørensen,Poul Sørensen,Enhedslisten - De Rød-Grønne,1
+Morsø,2,Flade,Ø_Ingerliva_Friiø,Ingerliva Friiø,Enhedslisten - De Rød-Grønne,0
+Morsø,2,Flade,Ø_Ole_Lajgaard,Ole Lajgaard,Enhedslisten - De Rød-Grønne,0
+Morsø,2,Flade,Ø_Steen_Klærke,Steen Klærke,Enhedslisten - De Rød-Grønne,1
+Morsø,2,Flade,Ø_Kjeld_Bøcker,Kjeld Bøcker,Enhedslisten - De Rød-Grønne,0
+Morsø,2,Flade,Ø_Charlotte_Pedersen,Charlotte Pedersen,Enhedslisten - De Rød-Grønne,0
+Morsø,3,Bjergby,A_Listestemmer,Listestemmer,Socialdemokratiet,5
+Morsø,3,Bjergby,A_Tore_Müller,Tore Müller,Socialdemokratiet,16
+Morsø,3,Bjergby,A_John_Christiansen,John Christiansen,Socialdemokratiet,4
+Morsø,3,Bjergby,A_Jens_Dahlgaard,Jens Dahlgaard,Socialdemokratiet,2
+Morsø,3,Bjergby,A_Svend_Erik_Jørgensen,Svend Erik Jørgensen,Socialdemokratiet,1
+Morsø,3,Bjergby,A_Vagn_Kidmose,Vagn Kidmose,Socialdemokratiet,3
+Morsø,3,Bjergby,A_Poul_Kristensen,Poul Kristensen,Socialdemokratiet,7
+Morsø,3,Bjergby,A_Lisbeth_Svane_Kusk,Lisbeth Svane Kusk,Socialdemokratiet,1
+Morsø,3,Bjergby,A_Max_Madsen,Max Madsen,Socialdemokratiet,4
+Morsø,3,Bjergby,A_Lene_Leth_Poulsen,Lene Leth Poulsen,Socialdemokratiet,1
+Morsø,3,Bjergby,A_Pia_Storm,Pia Storm,Socialdemokratiet,7
+Morsø,3,Bjergby,A_Florina_Elena_Temes,Florina Elena Temes,Socialdemokratiet,0
+Morsø,3,Bjergby,A_Karin_Villadsen,Karin Villadsen,Socialdemokratiet,5
+Morsø,3,Bjergby,A_Niels_Kristian_Østergaard,Niels Kristian Østergaard,Socialdemokratiet,3
+Morsø,3,Bjergby,B_Listestemmer,Listestemmer,Radikale Venstre,1
+Morsø,3,Bjergby,B_Jette_Jepsen,Jette Jepsen,Radikale Venstre,8
+Morsø,3,Bjergby,B_Lars_Bo_Majgaard,Lars Bo Majgaard,Radikale Venstre,0
+Morsø,3,Bjergby,B_Gyrithe_Stilling,Gyrithe Stilling,Radikale Venstre,0
+Morsø,3,Bjergby,B_Bo_Fink,Bo Fink,Radikale Venstre,0
+Morsø,3,Bjergby,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,3
+Morsø,3,Bjergby,C_Thomas_Jensen,Thomas Jensen,Det Konservative Folkeparti,9
+Morsø,3,Bjergby,C_Henrik_Markmøller_Bro,Henrik Markmøller Bro,Det Konservative Folkeparti,0
+Morsø,3,Bjergby,C_Poul_Erik_Futtrup,Poul Erik Futtrup,Det Konservative Folkeparti,2
+Morsø,3,Bjergby,C_Jens_Peter_Zacho,Jens Peter Zacho,Det Konservative Folkeparti,1
+Morsø,3,Bjergby,C_Claus_S._Andersen,Claus S. Andersen,Det Konservative Folkeparti,0
+Morsø,3,Bjergby,C_Poul_Roesen,Poul Roesen,Det Konservative Folkeparti,8
+Morsø,3,Bjergby,D_Listestemmer,Listestemmer,Nye Borgerlige,2
+Morsø,3,Bjergby,"D_Annfinn_Halsagard,_Sejerslev","Annfinn Halsagard, Sejerslev",Nye Borgerlige,2
+Morsø,3,Bjergby,"D_Jens_Chr._Pedersen,_Sejerslev","Jens Chr. Pedersen, Sejerslev",Nye Borgerlige,0
+Morsø,3,Bjergby,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,1
+Morsø,3,Bjergby,"F_Viggo_Vangsgaard,_Tødsø","Viggo Vangsgaard, Tødsø",SF - Socialistisk Folkeparti,3
+Morsø,3,Bjergby,"F_Signe_L._Mølgaard,_Nykøbing","Signe L. Mølgaard, Nykøbing",SF - Socialistisk Folkeparti,0
+Morsø,3,Bjergby,"F_Jens_Peter_Madsen,_Nr._Solbjerg","Jens Peter Madsen, Nr. Solbjerg",SF - Socialistisk Folkeparti,1
+Morsø,3,Bjergby,"F_Vibeke_D._Rasmussen,_Nr._Solbjerg","Vibeke D. Rasmussen, Nr. Solbjerg",SF - Socialistisk Folkeparti,0
+Morsø,3,Bjergby,"F_Eva_Haidarz_Weiling,_Mollerup","Eva Haidarz Weiling, Mollerup",SF - Socialistisk Folkeparti,0
+Morsø,3,Bjergby,M_Listestemmer,Listestemmer,Demokratisk Balance,1
+Morsø,3,Bjergby,M_Ellen_Philipsen_Dahl,Ellen Philipsen Dahl,Demokratisk Balance,4
+Morsø,3,Bjergby,M_Jens_Hvid_Skouboe,Jens Hvid Skouboe,Demokratisk Balance,9
+Morsø,3,Bjergby,M_Anette_Jensen,Anette Jensen,Demokratisk Balance,1
+Morsø,3,Bjergby,O_Listestemmer,Listestemmer,Dansk Folkeparti,3
+Morsø,3,Bjergby,"O_Meiner_Nørgaard,_Emb","Meiner Nørgaard, Emb",Dansk Folkeparti,7
+Morsø,3,Bjergby,"O_Anette_Svindborg,_Ø._Jølby","Anette Svindborg, Ø. Jølby",Dansk Folkeparti,0
+Morsø,3,Bjergby,"O_Lars_Brian_Hovmøller,_Ørndrup","Lars Brian Hovmøller, Ørndrup",Dansk Folkeparti,1
+Morsø,3,Bjergby,"O_Palle_Odgaard,_Sejerslev","Palle Odgaard, Sejerslev",Dansk Folkeparti,0
+Morsø,3,Bjergby,"O_Kjeld_Jensen,_Nykøbing","Kjeld Jensen, Nykøbing",Dansk Folkeparti,0
+Morsø,3,Bjergby,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",2
+Morsø,3,Bjergby,V_Hans_Ejner_Bertelsen,Hans Ejner Bertelsen,"Venstre, Danmarks Liberale Parti",52
+Morsø,3,Bjergby,V_Charlotte_Amalie_Holm,Charlotte Amalie Holm,"Venstre, Danmarks Liberale Parti",5
+Morsø,3,Bjergby,V_Henning_Sørensen,Henning Sørensen,"Venstre, Danmarks Liberale Parti",6
+Morsø,3,Bjergby,V_Klaus_Hvidtfeldt_Larsen,Klaus Hvidtfeldt Larsen,"Venstre, Danmarks Liberale Parti",0
+Morsø,3,Bjergby,V_Jesper_Balle_Kristensen,Jesper Balle Kristensen,"Venstre, Danmarks Liberale Parti",5
+Morsø,3,Bjergby,V_Ansgar_Nygaard,Ansgar Nygaard,"Venstre, Danmarks Liberale Parti",2
+Morsø,3,Bjergby,V_Peter_Therkildsen,Peter Therkildsen,"Venstre, Danmarks Liberale Parti",5
+Morsø,3,Bjergby,V_Tage_Andersen,Tage Andersen,"Venstre, Danmarks Liberale Parti",5
+Morsø,3,Bjergby,V_Peter_Lillebæk,Peter Lillebæk,"Venstre, Danmarks Liberale Parti",0
+Morsø,3,Bjergby,V_Anja_Birch_Alsøer,Anja Birch Alsøer,"Venstre, Danmarks Liberale Parti",2
+Morsø,3,Bjergby,V_Hans_Henrik_Stordal_Ebbesen,Hans Henrik Stordal Ebbesen,"Venstre, Danmarks Liberale Parti",11
+Morsø,3,Bjergby,V_Henrik_Kristensen,Henrik Kristensen,"Venstre, Danmarks Liberale Parti",5
+Morsø,3,Bjergby,V_Jytte_Foldberg,Jytte Foldberg,"Venstre, Danmarks Liberale Parti",3
+Morsø,3,Bjergby,V_Chris_Dahl,Chris Dahl,"Venstre, Danmarks Liberale Parti",2
+Morsø,3,Bjergby,V_Mette_Kærgaard_Iversen,Mette Kærgaard Iversen,"Venstre, Danmarks Liberale Parti",8
+Morsø,3,Bjergby,V_Allan_Sørensen,Allan Sørensen,"Venstre, Danmarks Liberale Parti",0
+Morsø,3,Bjergby,V_Thomas_Dahlgaard,Thomas Dahlgaard,"Venstre, Danmarks Liberale Parti",2
+Morsø,3,Bjergby,V_Rasmus_Christensen,Rasmus Christensen,"Venstre, Danmarks Liberale Parti",1
+Morsø,3,Bjergby,V_Søren_Goul,Søren Goul,"Venstre, Danmarks Liberale Parti",4
+Morsø,3,Bjergby,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,3
+Morsø,3,Bjergby,Ø_Pia_Thorsen,Pia Thorsen,Enhedslisten - De Rød-Grønne,1
+Morsø,3,Bjergby,Ø_Poul_Sørensen,Poul Sørensen,Enhedslisten - De Rød-Grønne,0
+Morsø,3,Bjergby,Ø_Ingerliva_Friiø,Ingerliva Friiø,Enhedslisten - De Rød-Grønne,1
+Morsø,3,Bjergby,Ø_Ole_Lajgaard,Ole Lajgaard,Enhedslisten - De Rød-Grønne,0
+Morsø,3,Bjergby,Ø_Steen_Klærke,Steen Klærke,Enhedslisten - De Rød-Grønne,2
+Morsø,3,Bjergby,Ø_Kjeld_Bøcker,Kjeld Bøcker,Enhedslisten - De Rød-Grønne,0
+Morsø,3,Bjergby,Ø_Charlotte_Pedersen,Charlotte Pedersen,Enhedslisten - De Rød-Grønne,0
+Morsø,4,Sundby,A_Listestemmer,Listestemmer,Socialdemokratiet,24
+Morsø,4,Sundby,A_Tore_Müller,Tore Müller,Socialdemokratiet,37
+Morsø,4,Sundby,A_John_Christiansen,John Christiansen,Socialdemokratiet,4
+Morsø,4,Sundby,A_Jens_Dahlgaard,Jens Dahlgaard,Socialdemokratiet,4
+Morsø,4,Sundby,A_Svend_Erik_Jørgensen,Svend Erik Jørgensen,Socialdemokratiet,2
+Morsø,4,Sundby,A_Vagn_Kidmose,Vagn Kidmose,Socialdemokratiet,3
+Morsø,4,Sundby,A_Poul_Kristensen,Poul Kristensen,Socialdemokratiet,6
+Morsø,4,Sundby,A_Lisbeth_Svane_Kusk,Lisbeth Svane Kusk,Socialdemokratiet,0
+Morsø,4,Sundby,A_Max_Madsen,Max Madsen,Socialdemokratiet,2
+Morsø,4,Sundby,A_Lene_Leth_Poulsen,Lene Leth Poulsen,Socialdemokratiet,3
+Morsø,4,Sundby,A_Pia_Storm,Pia Storm,Socialdemokratiet,7
+Morsø,4,Sundby,A_Florina_Elena_Temes,Florina Elena Temes,Socialdemokratiet,0
+Morsø,4,Sundby,A_Karin_Villadsen,Karin Villadsen,Socialdemokratiet,4
+Morsø,4,Sundby,A_Niels_Kristian_Østergaard,Niels Kristian Østergaard,Socialdemokratiet,3
+Morsø,4,Sundby,B_Listestemmer,Listestemmer,Radikale Venstre,2
+Morsø,4,Sundby,B_Jette_Jepsen,Jette Jepsen,Radikale Venstre,16
+Morsø,4,Sundby,B_Lars_Bo_Majgaard,Lars Bo Majgaard,Radikale Venstre,5
+Morsø,4,Sundby,B_Gyrithe_Stilling,Gyrithe Stilling,Radikale Venstre,0
+Morsø,4,Sundby,B_Bo_Fink,Bo Fink,Radikale Venstre,10
+Morsø,4,Sundby,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,3
+Morsø,4,Sundby,C_Thomas_Jensen,Thomas Jensen,Det Konservative Folkeparti,3
+Morsø,4,Sundby,C_Henrik_Markmøller_Bro,Henrik Markmøller Bro,Det Konservative Folkeparti,1
+Morsø,4,Sundby,C_Poul_Erik_Futtrup,Poul Erik Futtrup,Det Konservative Folkeparti,0
+Morsø,4,Sundby,C_Jens_Peter_Zacho,Jens Peter Zacho,Det Konservative Folkeparti,1
+Morsø,4,Sundby,C_Claus_S._Andersen,Claus S. Andersen,Det Konservative Folkeparti,0
+Morsø,4,Sundby,C_Poul_Roesen,Poul Roesen,Det Konservative Folkeparti,4
+Morsø,4,Sundby,D_Listestemmer,Listestemmer,Nye Borgerlige,3
+Morsø,4,Sundby,"D_Annfinn_Halsagard,_Sejerslev","Annfinn Halsagard, Sejerslev",Nye Borgerlige,2
+Morsø,4,Sundby,"D_Jens_Chr._Pedersen,_Sejerslev","Jens Chr. Pedersen, Sejerslev",Nye Borgerlige,1
+Morsø,4,Sundby,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,4
+Morsø,4,Sundby,"F_Viggo_Vangsgaard,_Tødsø","Viggo Vangsgaard, Tødsø",SF - Socialistisk Folkeparti,1
+Morsø,4,Sundby,"F_Signe_L._Mølgaard,_Nykøbing","Signe L. Mølgaard, Nykøbing",SF - Socialistisk Folkeparti,0
+Morsø,4,Sundby,"F_Jens_Peter_Madsen,_Nr._Solbjerg","Jens Peter Madsen, Nr. Solbjerg",SF - Socialistisk Folkeparti,0
+Morsø,4,Sundby,"F_Vibeke_D._Rasmussen,_Nr._Solbjerg","Vibeke D. Rasmussen, Nr. Solbjerg",SF - Socialistisk Folkeparti,0
+Morsø,4,Sundby,"F_Eva_Haidarz_Weiling,_Mollerup","Eva Haidarz Weiling, Mollerup",SF - Socialistisk Folkeparti,1
+Morsø,4,Sundby,M_Listestemmer,Listestemmer,Demokratisk Balance,0
+Morsø,4,Sundby,M_Ellen_Philipsen_Dahl,Ellen Philipsen Dahl,Demokratisk Balance,3
+Morsø,4,Sundby,M_Jens_Hvid_Skouboe,Jens Hvid Skouboe,Demokratisk Balance,3
+Morsø,4,Sundby,M_Anette_Jensen,Anette Jensen,Demokratisk Balance,2
+Morsø,4,Sundby,O_Listestemmer,Listestemmer,Dansk Folkeparti,3
+Morsø,4,Sundby,"O_Meiner_Nørgaard,_Emb","Meiner Nørgaard, Emb",Dansk Folkeparti,15
+Morsø,4,Sundby,"O_Anette_Svindborg,_Ø._Jølby","Anette Svindborg, Ø. Jølby",Dansk Folkeparti,7
+Morsø,4,Sundby,"O_Lars_Brian_Hovmøller,_Ørndrup","Lars Brian Hovmøller, Ørndrup",Dansk Folkeparti,0
+Morsø,4,Sundby,"O_Palle_Odgaard,_Sejerslev","Palle Odgaard, Sejerslev",Dansk Folkeparti,0
+Morsø,4,Sundby,"O_Kjeld_Jensen,_Nykøbing","Kjeld Jensen, Nykøbing",Dansk Folkeparti,0
+Morsø,4,Sundby,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",7
+Morsø,4,Sundby,V_Hans_Ejner_Bertelsen,Hans Ejner Bertelsen,"Venstre, Danmarks Liberale Parti",44
+Morsø,4,Sundby,V_Charlotte_Amalie_Holm,Charlotte Amalie Holm,"Venstre, Danmarks Liberale Parti",2
+Morsø,4,Sundby,V_Henning_Sørensen,Henning Sørensen,"Venstre, Danmarks Liberale Parti",3
+Morsø,4,Sundby,V_Klaus_Hvidtfeldt_Larsen,Klaus Hvidtfeldt Larsen,"Venstre, Danmarks Liberale Parti",1
+Morsø,4,Sundby,V_Jesper_Balle_Kristensen,Jesper Balle Kristensen,"Venstre, Danmarks Liberale Parti",6
+Morsø,4,Sundby,V_Ansgar_Nygaard,Ansgar Nygaard,"Venstre, Danmarks Liberale Parti",0
+Morsø,4,Sundby,V_Peter_Therkildsen,Peter Therkildsen,"Venstre, Danmarks Liberale Parti",4
+Morsø,4,Sundby,V_Tage_Andersen,Tage Andersen,"Venstre, Danmarks Liberale Parti",4
+Morsø,4,Sundby,V_Peter_Lillebæk,Peter Lillebæk,"Venstre, Danmarks Liberale Parti",1
+Morsø,4,Sundby,V_Anja_Birch_Alsøer,Anja Birch Alsøer,"Venstre, Danmarks Liberale Parti",0
+Morsø,4,Sundby,V_Hans_Henrik_Stordal_Ebbesen,Hans Henrik Stordal Ebbesen,"Venstre, Danmarks Liberale Parti",0
+Morsø,4,Sundby,V_Henrik_Kristensen,Henrik Kristensen,"Venstre, Danmarks Liberale Parti",0
+Morsø,4,Sundby,V_Jytte_Foldberg,Jytte Foldberg,"Venstre, Danmarks Liberale Parti",1
+Morsø,4,Sundby,V_Chris_Dahl,Chris Dahl,"Venstre, Danmarks Liberale Parti",5
+Morsø,4,Sundby,V_Mette_Kærgaard_Iversen,Mette Kærgaard Iversen,"Venstre, Danmarks Liberale Parti",4
+Morsø,4,Sundby,V_Allan_Sørensen,Allan Sørensen,"Venstre, Danmarks Liberale Parti",0
+Morsø,4,Sundby,V_Thomas_Dahlgaard,Thomas Dahlgaard,"Venstre, Danmarks Liberale Parti",1
+Morsø,4,Sundby,V_Rasmus_Christensen,Rasmus Christensen,"Venstre, Danmarks Liberale Parti",3
+Morsø,4,Sundby,V_Søren_Goul,Søren Goul,"Venstre, Danmarks Liberale Parti",108
+Morsø,4,Sundby,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,5
+Morsø,4,Sundby,Ø_Pia_Thorsen,Pia Thorsen,Enhedslisten - De Rød-Grønne,1
+Morsø,4,Sundby,Ø_Poul_Sørensen,Poul Sørensen,Enhedslisten - De Rød-Grønne,0
+Morsø,4,Sundby,Ø_Ingerliva_Friiø,Ingerliva Friiø,Enhedslisten - De Rød-Grønne,1
+Morsø,4,Sundby,Ø_Ole_Lajgaard,Ole Lajgaard,Enhedslisten - De Rød-Grønne,0
+Morsø,4,Sundby,Ø_Steen_Klærke,Steen Klærke,Enhedslisten - De Rød-Grønne,0
+Morsø,4,Sundby,Ø_Kjeld_Bøcker,Kjeld Bøcker,Enhedslisten - De Rød-Grønne,0
+Morsø,4,Sundby,Ø_Charlotte_Pedersen,Charlotte Pedersen,Enhedslisten - De Rød-Grønne,2
+Morsø,5,Solbjerg,A_Listestemmer,Listestemmer,Socialdemokratiet,3
+Morsø,5,Solbjerg,A_Tore_Müller,Tore Müller,Socialdemokratiet,18
+Morsø,5,Solbjerg,A_John_Christiansen,John Christiansen,Socialdemokratiet,2
+Morsø,5,Solbjerg,A_Jens_Dahlgaard,Jens Dahlgaard,Socialdemokratiet,3
+Morsø,5,Solbjerg,A_Svend_Erik_Jørgensen,Svend Erik Jørgensen,Socialdemokratiet,1
+Morsø,5,Solbjerg,A_Vagn_Kidmose,Vagn Kidmose,Socialdemokratiet,3
+Morsø,5,Solbjerg,A_Poul_Kristensen,Poul Kristensen,Socialdemokratiet,4
+Morsø,5,Solbjerg,A_Lisbeth_Svane_Kusk,Lisbeth Svane Kusk,Socialdemokratiet,0
+Morsø,5,Solbjerg,A_Max_Madsen,Max Madsen,Socialdemokratiet,1
+Morsø,5,Solbjerg,A_Lene_Leth_Poulsen,Lene Leth Poulsen,Socialdemokratiet,0
+Morsø,5,Solbjerg,A_Pia_Storm,Pia Storm,Socialdemokratiet,5
+Morsø,5,Solbjerg,A_Florina_Elena_Temes,Florina Elena Temes,Socialdemokratiet,0
+Morsø,5,Solbjerg,A_Karin_Villadsen,Karin Villadsen,Socialdemokratiet,2
+Morsø,5,Solbjerg,A_Niels_Kristian_Østergaard,Niels Kristian Østergaard,Socialdemokratiet,4
+Morsø,5,Solbjerg,B_Listestemmer,Listestemmer,Radikale Venstre,0
+Morsø,5,Solbjerg,B_Jette_Jepsen,Jette Jepsen,Radikale Venstre,7
+Morsø,5,Solbjerg,B_Lars_Bo_Majgaard,Lars Bo Majgaard,Radikale Venstre,1
+Morsø,5,Solbjerg,B_Gyrithe_Stilling,Gyrithe Stilling,Radikale Venstre,0
+Morsø,5,Solbjerg,B_Bo_Fink,Bo Fink,Radikale Venstre,0
+Morsø,5,Solbjerg,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,1
+Morsø,5,Solbjerg,C_Thomas_Jensen,Thomas Jensen,Det Konservative Folkeparti,2
+Morsø,5,Solbjerg,C_Henrik_Markmøller_Bro,Henrik Markmøller Bro,Det Konservative Folkeparti,2
+Morsø,5,Solbjerg,C_Poul_Erik_Futtrup,Poul Erik Futtrup,Det Konservative Folkeparti,2
+Morsø,5,Solbjerg,C_Jens_Peter_Zacho,Jens Peter Zacho,Det Konservative Folkeparti,0
+Morsø,5,Solbjerg,C_Claus_S._Andersen,Claus S. Andersen,Det Konservative Folkeparti,0
+Morsø,5,Solbjerg,C_Poul_Roesen,Poul Roesen,Det Konservative Folkeparti,5
+Morsø,5,Solbjerg,D_Listestemmer,Listestemmer,Nye Borgerlige,1
+Morsø,5,Solbjerg,"D_Annfinn_Halsagard,_Sejerslev","Annfinn Halsagard, Sejerslev",Nye Borgerlige,2
+Morsø,5,Solbjerg,"D_Jens_Chr._Pedersen,_Sejerslev","Jens Chr. Pedersen, Sejerslev",Nye Borgerlige,1
+Morsø,5,Solbjerg,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,1
+Morsø,5,Solbjerg,"F_Viggo_Vangsgaard,_Tødsø","Viggo Vangsgaard, Tødsø",SF - Socialistisk Folkeparti,5
+Morsø,5,Solbjerg,"F_Signe_L._Mølgaard,_Nykøbing","Signe L. Mølgaard, Nykøbing",SF - Socialistisk Folkeparti,1
+Morsø,5,Solbjerg,"F_Jens_Peter_Madsen,_Nr._Solbjerg","Jens Peter Madsen, Nr. Solbjerg",SF - Socialistisk Folkeparti,2
+Morsø,5,Solbjerg,"F_Vibeke_D._Rasmussen,_Nr._Solbjerg","Vibeke D. Rasmussen, Nr. Solbjerg",SF - Socialistisk Folkeparti,4
+Morsø,5,Solbjerg,"F_Eva_Haidarz_Weiling,_Mollerup","Eva Haidarz Weiling, Mollerup",SF - Socialistisk Folkeparti,0
+Morsø,5,Solbjerg,M_Listestemmer,Listestemmer,Demokratisk Balance,0
+Morsø,5,Solbjerg,M_Ellen_Philipsen_Dahl,Ellen Philipsen Dahl,Demokratisk Balance,1
+Morsø,5,Solbjerg,M_Jens_Hvid_Skouboe,Jens Hvid Skouboe,Demokratisk Balance,6
+Morsø,5,Solbjerg,M_Anette_Jensen,Anette Jensen,Demokratisk Balance,1
+Morsø,5,Solbjerg,O_Listestemmer,Listestemmer,Dansk Folkeparti,5
+Morsø,5,Solbjerg,"O_Meiner_Nørgaard,_Emb","Meiner Nørgaard, Emb",Dansk Folkeparti,7
+Morsø,5,Solbjerg,"O_Anette_Svindborg,_Ø._Jølby","Anette Svindborg, Ø. Jølby",Dansk Folkeparti,9
+Morsø,5,Solbjerg,"O_Lars_Brian_Hovmøller,_Ørndrup","Lars Brian Hovmøller, Ørndrup",Dansk Folkeparti,1
+Morsø,5,Solbjerg,"O_Palle_Odgaard,_Sejerslev","Palle Odgaard, Sejerslev",Dansk Folkeparti,0
+Morsø,5,Solbjerg,"O_Kjeld_Jensen,_Nykøbing","Kjeld Jensen, Nykøbing",Dansk Folkeparti,0
+Morsø,5,Solbjerg,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",4
+Morsø,5,Solbjerg,V_Hans_Ejner_Bertelsen,Hans Ejner Bertelsen,"Venstre, Danmarks Liberale Parti",54
+Morsø,5,Solbjerg,V_Charlotte_Amalie_Holm,Charlotte Amalie Holm,"Venstre, Danmarks Liberale Parti",3
+Morsø,5,Solbjerg,V_Henning_Sørensen,Henning Sørensen,"Venstre, Danmarks Liberale Parti",5
+Morsø,5,Solbjerg,V_Klaus_Hvidtfeldt_Larsen,Klaus Hvidtfeldt Larsen,"Venstre, Danmarks Liberale Parti",1
+Morsø,5,Solbjerg,V_Jesper_Balle_Kristensen,Jesper Balle Kristensen,"Venstre, Danmarks Liberale Parti",5
+Morsø,5,Solbjerg,V_Ansgar_Nygaard,Ansgar Nygaard,"Venstre, Danmarks Liberale Parti",1
+Morsø,5,Solbjerg,V_Peter_Therkildsen,Peter Therkildsen,"Venstre, Danmarks Liberale Parti",2
+Morsø,5,Solbjerg,V_Tage_Andersen,Tage Andersen,"Venstre, Danmarks Liberale Parti",1
+Morsø,5,Solbjerg,V_Peter_Lillebæk,Peter Lillebæk,"Venstre, Danmarks Liberale Parti",0
+Morsø,5,Solbjerg,V_Anja_Birch_Alsøer,Anja Birch Alsøer,"Venstre, Danmarks Liberale Parti",0
+Morsø,5,Solbjerg,V_Hans_Henrik_Stordal_Ebbesen,Hans Henrik Stordal Ebbesen,"Venstre, Danmarks Liberale Parti",3
+Morsø,5,Solbjerg,V_Henrik_Kristensen,Henrik Kristensen,"Venstre, Danmarks Liberale Parti",2
+Morsø,5,Solbjerg,V_Jytte_Foldberg,Jytte Foldberg,"Venstre, Danmarks Liberale Parti",2
+Morsø,5,Solbjerg,V_Chris_Dahl,Chris Dahl,"Venstre, Danmarks Liberale Parti",2
+Morsø,5,Solbjerg,V_Mette_Kærgaard_Iversen,Mette Kærgaard Iversen,"Venstre, Danmarks Liberale Parti",8
+Morsø,5,Solbjerg,V_Allan_Sørensen,Allan Sørensen,"Venstre, Danmarks Liberale Parti",0
+Morsø,5,Solbjerg,V_Thomas_Dahlgaard,Thomas Dahlgaard,"Venstre, Danmarks Liberale Parti",2
+Morsø,5,Solbjerg,V_Rasmus_Christensen,Rasmus Christensen,"Venstre, Danmarks Liberale Parti",0
+Morsø,5,Solbjerg,V_Søren_Goul,Søren Goul,"Venstre, Danmarks Liberale Parti",14
+Morsø,5,Solbjerg,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,1
+Morsø,5,Solbjerg,Ø_Pia_Thorsen,Pia Thorsen,Enhedslisten - De Rød-Grønne,1
+Morsø,5,Solbjerg,Ø_Poul_Sørensen,Poul Sørensen,Enhedslisten - De Rød-Grønne,4
+Morsø,5,Solbjerg,Ø_Ingerliva_Friiø,Ingerliva Friiø,Enhedslisten - De Rød-Grønne,1
+Morsø,5,Solbjerg,Ø_Ole_Lajgaard,Ole Lajgaard,Enhedslisten - De Rød-Grønne,0
+Morsø,5,Solbjerg,Ø_Steen_Klærke,Steen Klærke,Enhedslisten - De Rød-Grønne,0
+Morsø,5,Solbjerg,Ø_Kjeld_Bøcker,Kjeld Bøcker,Enhedslisten - De Rød-Grønne,0
+Morsø,5,Solbjerg,Ø_Charlotte_Pedersen,Charlotte Pedersen,Enhedslisten - De Rød-Grønne,0
+Morsø,6,Thorup,A_Listestemmer,Listestemmer,Socialdemokratiet,9
+Morsø,6,Thorup,A_Tore_Müller,Tore Müller,Socialdemokratiet,19
+Morsø,6,Thorup,A_John_Christiansen,John Christiansen,Socialdemokratiet,1
+Morsø,6,Thorup,A_Jens_Dahlgaard,Jens Dahlgaard,Socialdemokratiet,5
+Morsø,6,Thorup,A_Svend_Erik_Jørgensen,Svend Erik Jørgensen,Socialdemokratiet,2
+Morsø,6,Thorup,A_Vagn_Kidmose,Vagn Kidmose,Socialdemokratiet,2
+Morsø,6,Thorup,A_Poul_Kristensen,Poul Kristensen,Socialdemokratiet,1
+Morsø,6,Thorup,A_Lisbeth_Svane_Kusk,Lisbeth Svane Kusk,Socialdemokratiet,0
+Morsø,6,Thorup,A_Max_Madsen,Max Madsen,Socialdemokratiet,3
+Morsø,6,Thorup,A_Lene_Leth_Poulsen,Lene Leth Poulsen,Socialdemokratiet,1
+Morsø,6,Thorup,A_Pia_Storm,Pia Storm,Socialdemokratiet,2
+Morsø,6,Thorup,A_Florina_Elena_Temes,Florina Elena Temes,Socialdemokratiet,0
+Morsø,6,Thorup,A_Karin_Villadsen,Karin Villadsen,Socialdemokratiet,3
+Morsø,6,Thorup,A_Niels_Kristian_Østergaard,Niels Kristian Østergaard,Socialdemokratiet,0
+Morsø,6,Thorup,B_Listestemmer,Listestemmer,Radikale Venstre,0
+Morsø,6,Thorup,B_Jette_Jepsen,Jette Jepsen,Radikale Venstre,5
+Morsø,6,Thorup,B_Lars_Bo_Majgaard,Lars Bo Majgaard,Radikale Venstre,0
+Morsø,6,Thorup,B_Gyrithe_Stilling,Gyrithe Stilling,Radikale Venstre,1
+Morsø,6,Thorup,B_Bo_Fink,Bo Fink,Radikale Venstre,0
+Morsø,6,Thorup,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,1
+Morsø,6,Thorup,C_Thomas_Jensen,Thomas Jensen,Det Konservative Folkeparti,5
+Morsø,6,Thorup,C_Henrik_Markmøller_Bro,Henrik Markmøller Bro,Det Konservative Folkeparti,0
+Morsø,6,Thorup,C_Poul_Erik_Futtrup,Poul Erik Futtrup,Det Konservative Folkeparti,0
+Morsø,6,Thorup,C_Jens_Peter_Zacho,Jens Peter Zacho,Det Konservative Folkeparti,0
+Morsø,6,Thorup,C_Claus_S._Andersen,Claus S. Andersen,Det Konservative Folkeparti,0
+Morsø,6,Thorup,C_Poul_Roesen,Poul Roesen,Det Konservative Folkeparti,4
+Morsø,6,Thorup,D_Listestemmer,Listestemmer,Nye Borgerlige,3
+Morsø,6,Thorup,"D_Annfinn_Halsagard,_Sejerslev","Annfinn Halsagard, Sejerslev",Nye Borgerlige,0
+Morsø,6,Thorup,"D_Jens_Chr._Pedersen,_Sejerslev","Jens Chr. Pedersen, Sejerslev",Nye Borgerlige,1
+Morsø,6,Thorup,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,3
+Morsø,6,Thorup,"F_Viggo_Vangsgaard,_Tødsø","Viggo Vangsgaard, Tødsø",SF - Socialistisk Folkeparti,2
+Morsø,6,Thorup,"F_Signe_L._Mølgaard,_Nykøbing","Signe L. Mølgaard, Nykøbing",SF - Socialistisk Folkeparti,1
+Morsø,6,Thorup,"F_Jens_Peter_Madsen,_Nr._Solbjerg","Jens Peter Madsen, Nr. Solbjerg",SF - Socialistisk Folkeparti,2
+Morsø,6,Thorup,"F_Vibeke_D._Rasmussen,_Nr._Solbjerg","Vibeke D. Rasmussen, Nr. Solbjerg",SF - Socialistisk Folkeparti,0
+Morsø,6,Thorup,"F_Eva_Haidarz_Weiling,_Mollerup","Eva Haidarz Weiling, Mollerup",SF - Socialistisk Folkeparti,0
+Morsø,6,Thorup,M_Listestemmer,Listestemmer,Demokratisk Balance,2
+Morsø,6,Thorup,M_Ellen_Philipsen_Dahl,Ellen Philipsen Dahl,Demokratisk Balance,2
+Morsø,6,Thorup,M_Jens_Hvid_Skouboe,Jens Hvid Skouboe,Demokratisk Balance,3
+Morsø,6,Thorup,M_Anette_Jensen,Anette Jensen,Demokratisk Balance,0
+Morsø,6,Thorup,O_Listestemmer,Listestemmer,Dansk Folkeparti,0
+Morsø,6,Thorup,"O_Meiner_Nørgaard,_Emb","Meiner Nørgaard, Emb",Dansk Folkeparti,6
+Morsø,6,Thorup,"O_Anette_Svindborg,_Ø._Jølby","Anette Svindborg, Ø. Jølby",Dansk Folkeparti,3
+Morsø,6,Thorup,"O_Lars_Brian_Hovmøller,_Ørndrup","Lars Brian Hovmøller, Ørndrup",Dansk Folkeparti,4
+Morsø,6,Thorup,"O_Palle_Odgaard,_Sejerslev","Palle Odgaard, Sejerslev",Dansk Folkeparti,0
+Morsø,6,Thorup,"O_Kjeld_Jensen,_Nykøbing","Kjeld Jensen, Nykøbing",Dansk Folkeparti,0
+Morsø,6,Thorup,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",9
+Morsø,6,Thorup,V_Hans_Ejner_Bertelsen,Hans Ejner Bertelsen,"Venstre, Danmarks Liberale Parti",54
+Morsø,6,Thorup,V_Charlotte_Amalie_Holm,Charlotte Amalie Holm,"Venstre, Danmarks Liberale Parti",6
+Morsø,6,Thorup,V_Henning_Sørensen,Henning Sørensen,"Venstre, Danmarks Liberale Parti",1
+Morsø,6,Thorup,V_Klaus_Hvidtfeldt_Larsen,Klaus Hvidtfeldt Larsen,"Venstre, Danmarks Liberale Parti",1
+Morsø,6,Thorup,V_Jesper_Balle_Kristensen,Jesper Balle Kristensen,"Venstre, Danmarks Liberale Parti",15
+Morsø,6,Thorup,V_Ansgar_Nygaard,Ansgar Nygaard,"Venstre, Danmarks Liberale Parti",2
+Morsø,6,Thorup,V_Peter_Therkildsen,Peter Therkildsen,"Venstre, Danmarks Liberale Parti",4
+Morsø,6,Thorup,V_Tage_Andersen,Tage Andersen,"Venstre, Danmarks Liberale Parti",4
+Morsø,6,Thorup,V_Peter_Lillebæk,Peter Lillebæk,"Venstre, Danmarks Liberale Parti",1
+Morsø,6,Thorup,V_Anja_Birch_Alsøer,Anja Birch Alsøer,"Venstre, Danmarks Liberale Parti",0
+Morsø,6,Thorup,V_Hans_Henrik_Stordal_Ebbesen,Hans Henrik Stordal Ebbesen,"Venstre, Danmarks Liberale Parti",0
+Morsø,6,Thorup,V_Henrik_Kristensen,Henrik Kristensen,"Venstre, Danmarks Liberale Parti",1
+Morsø,6,Thorup,V_Jytte_Foldberg,Jytte Foldberg,"Venstre, Danmarks Liberale Parti",1
+Morsø,6,Thorup,V_Chris_Dahl,Chris Dahl,"Venstre, Danmarks Liberale Parti",0
+Morsø,6,Thorup,V_Mette_Kærgaard_Iversen,Mette Kærgaard Iversen,"Venstre, Danmarks Liberale Parti",26
+Morsø,6,Thorup,V_Allan_Sørensen,Allan Sørensen,"Venstre, Danmarks Liberale Parti",0
+Morsø,6,Thorup,V_Thomas_Dahlgaard,Thomas Dahlgaard,"Venstre, Danmarks Liberale Parti",19
+Morsø,6,Thorup,V_Rasmus_Christensen,Rasmus Christensen,"Venstre, Danmarks Liberale Parti",0
+Morsø,6,Thorup,V_Søren_Goul,Søren Goul,"Venstre, Danmarks Liberale Parti",1
+Morsø,6,Thorup,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,4
+Morsø,6,Thorup,Ø_Pia_Thorsen,Pia Thorsen,Enhedslisten - De Rød-Grønne,7
+Morsø,6,Thorup,Ø_Poul_Sørensen,Poul Sørensen,Enhedslisten - De Rød-Grønne,4
+Morsø,6,Thorup,Ø_Ingerliva_Friiø,Ingerliva Friiø,Enhedslisten - De Rød-Grønne,1
+Morsø,6,Thorup,Ø_Ole_Lajgaard,Ole Lajgaard,Enhedslisten - De Rød-Grønne,0
+Morsø,6,Thorup,Ø_Steen_Klærke,Steen Klærke,Enhedslisten - De Rød-Grønne,1
+Morsø,6,Thorup,Ø_Kjeld_Bøcker,Kjeld Bøcker,Enhedslisten - De Rød-Grønne,0
+Morsø,6,Thorup,Ø_Charlotte_Pedersen,Charlotte Pedersen,Enhedslisten - De Rød-Grønne,0
+Morsø,7,Ø. Jølby,A_Listestemmer,Listestemmer,Socialdemokratiet,19
+Morsø,7,Ø. Jølby,A_Tore_Müller,Tore Müller,Socialdemokratiet,46
+Morsø,7,Ø. Jølby,A_John_Christiansen,John Christiansen,Socialdemokratiet,8
+Morsø,7,Ø. Jølby,A_Jens_Dahlgaard,Jens Dahlgaard,Socialdemokratiet,7
+Morsø,7,Ø. Jølby,A_Svend_Erik_Jørgensen,Svend Erik Jørgensen,Socialdemokratiet,0
+Morsø,7,Ø. Jølby,A_Vagn_Kidmose,Vagn Kidmose,Socialdemokratiet,7
+Morsø,7,Ø. Jølby,A_Poul_Kristensen,Poul Kristensen,Socialdemokratiet,3
+Morsø,7,Ø. Jølby,A_Lisbeth_Svane_Kusk,Lisbeth Svane Kusk,Socialdemokratiet,1
+Morsø,7,Ø. Jølby,A_Max_Madsen,Max Madsen,Socialdemokratiet,5
+Morsø,7,Ø. Jølby,A_Lene_Leth_Poulsen,Lene Leth Poulsen,Socialdemokratiet,1
+Morsø,7,Ø. Jølby,A_Pia_Storm,Pia Storm,Socialdemokratiet,6
+Morsø,7,Ø. Jølby,A_Florina_Elena_Temes,Florina Elena Temes,Socialdemokratiet,0
+Morsø,7,Ø. Jølby,A_Karin_Villadsen,Karin Villadsen,Socialdemokratiet,9
+Morsø,7,Ø. Jølby,A_Niels_Kristian_Østergaard,Niels Kristian Østergaard,Socialdemokratiet,6
+Morsø,7,Ø. Jølby,B_Listestemmer,Listestemmer,Radikale Venstre,0
+Morsø,7,Ø. Jølby,B_Jette_Jepsen,Jette Jepsen,Radikale Venstre,6
+Morsø,7,Ø. Jølby,B_Lars_Bo_Majgaard,Lars Bo Majgaard,Radikale Venstre,2
+Morsø,7,Ø. Jølby,B_Gyrithe_Stilling,Gyrithe Stilling,Radikale Venstre,1
+Morsø,7,Ø. Jølby,B_Bo_Fink,Bo Fink,Radikale Venstre,0
+Morsø,7,Ø. Jølby,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,2
+Morsø,7,Ø. Jølby,C_Thomas_Jensen,Thomas Jensen,Det Konservative Folkeparti,8
+Morsø,7,Ø. Jølby,C_Henrik_Markmøller_Bro,Henrik Markmøller Bro,Det Konservative Folkeparti,2
+Morsø,7,Ø. Jølby,C_Poul_Erik_Futtrup,Poul Erik Futtrup,Det Konservative Folkeparti,0
+Morsø,7,Ø. Jølby,C_Jens_Peter_Zacho,Jens Peter Zacho,Det Konservative Folkeparti,1
+Morsø,7,Ø. Jølby,C_Claus_S._Andersen,Claus S. Andersen,Det Konservative Folkeparti,0
+Morsø,7,Ø. Jølby,C_Poul_Roesen,Poul Roesen,Det Konservative Folkeparti,9
+Morsø,7,Ø. Jølby,D_Listestemmer,Listestemmer,Nye Borgerlige,3
+Morsø,7,Ø. Jølby,"D_Annfinn_Halsagard,_Sejerslev","Annfinn Halsagard, Sejerslev",Nye Borgerlige,0
+Morsø,7,Ø. Jølby,"D_Jens_Chr._Pedersen,_Sejerslev","Jens Chr. Pedersen, Sejerslev",Nye Borgerlige,0
+Morsø,7,Ø. Jølby,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,0
+Morsø,7,Ø. Jølby,"F_Viggo_Vangsgaard,_Tødsø","Viggo Vangsgaard, Tødsø",SF - Socialistisk Folkeparti,5
+Morsø,7,Ø. Jølby,"F_Signe_L._Mølgaard,_Nykøbing","Signe L. Mølgaard, Nykøbing",SF - Socialistisk Folkeparti,1
+Morsø,7,Ø. Jølby,"F_Jens_Peter_Madsen,_Nr._Solbjerg","Jens Peter Madsen, Nr. Solbjerg",SF - Socialistisk Folkeparti,1
+Morsø,7,Ø. Jølby,"F_Vibeke_D._Rasmussen,_Nr._Solbjerg","Vibeke D. Rasmussen, Nr. Solbjerg",SF - Socialistisk Folkeparti,1
+Morsø,7,Ø. Jølby,"F_Eva_Haidarz_Weiling,_Mollerup","Eva Haidarz Weiling, Mollerup",SF - Socialistisk Folkeparti,0
+Morsø,7,Ø. Jølby,M_Listestemmer,Listestemmer,Demokratisk Balance,0
+Morsø,7,Ø. Jølby,M_Ellen_Philipsen_Dahl,Ellen Philipsen Dahl,Demokratisk Balance,4
+Morsø,7,Ø. Jølby,M_Jens_Hvid_Skouboe,Jens Hvid Skouboe,Demokratisk Balance,29
+Morsø,7,Ø. Jølby,M_Anette_Jensen,Anette Jensen,Demokratisk Balance,2
+Morsø,7,Ø. Jølby,O_Listestemmer,Listestemmer,Dansk Folkeparti,2
+Morsø,7,Ø. Jølby,"O_Meiner_Nørgaard,_Emb","Meiner Nørgaard, Emb",Dansk Folkeparti,18
+Morsø,7,Ø. Jølby,"O_Anette_Svindborg,_Ø._Jølby","Anette Svindborg, Ø. Jølby",Dansk Folkeparti,11
+Morsø,7,Ø. Jølby,"O_Lars_Brian_Hovmøller,_Ørndrup","Lars Brian Hovmøller, Ørndrup",Dansk Folkeparti,1
+Morsø,7,Ø. Jølby,"O_Palle_Odgaard,_Sejerslev","Palle Odgaard, Sejerslev",Dansk Folkeparti,0
+Morsø,7,Ø. Jølby,"O_Kjeld_Jensen,_Nykøbing","Kjeld Jensen, Nykøbing",Dansk Folkeparti,0
+Morsø,7,Ø. Jølby,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",13
+Morsø,7,Ø. Jølby,V_Hans_Ejner_Bertelsen,Hans Ejner Bertelsen,"Venstre, Danmarks Liberale Parti",139
+Morsø,7,Ø. Jølby,V_Charlotte_Amalie_Holm,Charlotte Amalie Holm,"Venstre, Danmarks Liberale Parti",5
+Morsø,7,Ø. Jølby,V_Henning_Sørensen,Henning Sørensen,"Venstre, Danmarks Liberale Parti",15
+Morsø,7,Ø. Jølby,V_Klaus_Hvidtfeldt_Larsen,Klaus Hvidtfeldt Larsen,"Venstre, Danmarks Liberale Parti",0
+Morsø,7,Ø. Jølby,V_Jesper_Balle_Kristensen,Jesper Balle Kristensen,"Venstre, Danmarks Liberale Parti",14
+Morsø,7,Ø. Jølby,V_Ansgar_Nygaard,Ansgar Nygaard,"Venstre, Danmarks Liberale Parti",4
+Morsø,7,Ø. Jølby,V_Peter_Therkildsen,Peter Therkildsen,"Venstre, Danmarks Liberale Parti",26
+Morsø,7,Ø. Jølby,V_Tage_Andersen,Tage Andersen,"Venstre, Danmarks Liberale Parti",7
+Morsø,7,Ø. Jølby,V_Peter_Lillebæk,Peter Lillebæk,"Venstre, Danmarks Liberale Parti",2
+Morsø,7,Ø. Jølby,V_Anja_Birch_Alsøer,Anja Birch Alsøer,"Venstre, Danmarks Liberale Parti",2
+Morsø,7,Ø. Jølby,V_Hans_Henrik_Stordal_Ebbesen,Hans Henrik Stordal Ebbesen,"Venstre, Danmarks Liberale Parti",5
+Morsø,7,Ø. Jølby,V_Henrik_Kristensen,Henrik Kristensen,"Venstre, Danmarks Liberale Parti",8
+Morsø,7,Ø. Jølby,V_Jytte_Foldberg,Jytte Foldberg,"Venstre, Danmarks Liberale Parti",3
+Morsø,7,Ø. Jølby,V_Chris_Dahl,Chris Dahl,"Venstre, Danmarks Liberale Parti",6
+Morsø,7,Ø. Jølby,V_Mette_Kærgaard_Iversen,Mette Kærgaard Iversen,"Venstre, Danmarks Liberale Parti",18
+Morsø,7,Ø. Jølby,V_Allan_Sørensen,Allan Sørensen,"Venstre, Danmarks Liberale Parti",0
+Morsø,7,Ø. Jølby,V_Thomas_Dahlgaard,Thomas Dahlgaard,"Venstre, Danmarks Liberale Parti",8
+Morsø,7,Ø. Jølby,V_Rasmus_Christensen,Rasmus Christensen,"Venstre, Danmarks Liberale Parti",4
+Morsø,7,Ø. Jølby,V_Søren_Goul,Søren Goul,"Venstre, Danmarks Liberale Parti",7
+Morsø,7,Ø. Jølby,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,1
+Morsø,7,Ø. Jølby,Ø_Pia_Thorsen,Pia Thorsen,Enhedslisten - De Rød-Grønne,6
+Morsø,7,Ø. Jølby,Ø_Poul_Sørensen,Poul Sørensen,Enhedslisten - De Rød-Grønne,1
+Morsø,7,Ø. Jølby,Ø_Ingerliva_Friiø,Ingerliva Friiø,Enhedslisten - De Rød-Grønne,2
+Morsø,7,Ø. Jølby,Ø_Ole_Lajgaard,Ole Lajgaard,Enhedslisten - De Rød-Grønne,0
+Morsø,7,Ø. Jølby,Ø_Steen_Klærke,Steen Klærke,Enhedslisten - De Rød-Grønne,0
+Morsø,7,Ø. Jølby,Ø_Kjeld_Bøcker,Kjeld Bøcker,Enhedslisten - De Rød-Grønne,0
+Morsø,7,Ø. Jølby,Ø_Charlotte_Pedersen,Charlotte Pedersen,Enhedslisten - De Rød-Grønne,0
+Morsø,8,Erslev,A_Listestemmer,Listestemmer,Socialdemokratiet,11
+Morsø,8,Erslev,A_Tore_Müller,Tore Müller,Socialdemokratiet,20
+Morsø,8,Erslev,A_John_Christiansen,John Christiansen,Socialdemokratiet,10
+Morsø,8,Erslev,A_Jens_Dahlgaard,Jens Dahlgaard,Socialdemokratiet,11
+Morsø,8,Erslev,A_Svend_Erik_Jørgensen,Svend Erik Jørgensen,Socialdemokratiet,3
+Morsø,8,Erslev,A_Vagn_Kidmose,Vagn Kidmose,Socialdemokratiet,7
+Morsø,8,Erslev,A_Poul_Kristensen,Poul Kristensen,Socialdemokratiet,4
+Morsø,8,Erslev,A_Lisbeth_Svane_Kusk,Lisbeth Svane Kusk,Socialdemokratiet,3
+Morsø,8,Erslev,A_Max_Madsen,Max Madsen,Socialdemokratiet,6
+Morsø,8,Erslev,A_Lene_Leth_Poulsen,Lene Leth Poulsen,Socialdemokratiet,9
+Morsø,8,Erslev,A_Pia_Storm,Pia Storm,Socialdemokratiet,6
+Morsø,8,Erslev,A_Florina_Elena_Temes,Florina Elena Temes,Socialdemokratiet,0
+Morsø,8,Erslev,A_Karin_Villadsen,Karin Villadsen,Socialdemokratiet,6
+Morsø,8,Erslev,A_Niels_Kristian_Østergaard,Niels Kristian Østergaard,Socialdemokratiet,6
+Morsø,8,Erslev,B_Listestemmer,Listestemmer,Radikale Venstre,0
+Morsø,8,Erslev,B_Jette_Jepsen,Jette Jepsen,Radikale Venstre,3
+Morsø,8,Erslev,B_Lars_Bo_Majgaard,Lars Bo Majgaard,Radikale Venstre,0
+Morsø,8,Erslev,B_Gyrithe_Stilling,Gyrithe Stilling,Radikale Venstre,0
+Morsø,8,Erslev,B_Bo_Fink,Bo Fink,Radikale Venstre,1
+Morsø,8,Erslev,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,3
+Morsø,8,Erslev,C_Thomas_Jensen,Thomas Jensen,Det Konservative Folkeparti,7
+Morsø,8,Erslev,C_Henrik_Markmøller_Bro,Henrik Markmøller Bro,Det Konservative Folkeparti,1
+Morsø,8,Erslev,C_Poul_Erik_Futtrup,Poul Erik Futtrup,Det Konservative Folkeparti,1
+Morsø,8,Erslev,C_Jens_Peter_Zacho,Jens Peter Zacho,Det Konservative Folkeparti,0
+Morsø,8,Erslev,C_Claus_S._Andersen,Claus S. Andersen,Det Konservative Folkeparti,0
+Morsø,8,Erslev,C_Poul_Roesen,Poul Roesen,Det Konservative Folkeparti,8
+Morsø,8,Erslev,D_Listestemmer,Listestemmer,Nye Borgerlige,1
+Morsø,8,Erslev,"D_Annfinn_Halsagard,_Sejerslev","Annfinn Halsagard, Sejerslev",Nye Borgerlige,3
+Morsø,8,Erslev,"D_Jens_Chr._Pedersen,_Sejerslev","Jens Chr. Pedersen, Sejerslev",Nye Borgerlige,1
+Morsø,8,Erslev,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,0
+Morsø,8,Erslev,"F_Viggo_Vangsgaard,_Tødsø","Viggo Vangsgaard, Tødsø",SF - Socialistisk Folkeparti,10
+Morsø,8,Erslev,"F_Signe_L._Mølgaard,_Nykøbing","Signe L. Mølgaard, Nykøbing",SF - Socialistisk Folkeparti,0
+Morsø,8,Erslev,"F_Jens_Peter_Madsen,_Nr._Solbjerg","Jens Peter Madsen, Nr. Solbjerg",SF - Socialistisk Folkeparti,0
+Morsø,8,Erslev,"F_Vibeke_D._Rasmussen,_Nr._Solbjerg","Vibeke D. Rasmussen, Nr. Solbjerg",SF - Socialistisk Folkeparti,0
+Morsø,8,Erslev,"F_Eva_Haidarz_Weiling,_Mollerup","Eva Haidarz Weiling, Mollerup",SF - Socialistisk Folkeparti,0
+Morsø,8,Erslev,M_Listestemmer,Listestemmer,Demokratisk Balance,0
+Morsø,8,Erslev,M_Ellen_Philipsen_Dahl,Ellen Philipsen Dahl,Demokratisk Balance,4
+Morsø,8,Erslev,M_Jens_Hvid_Skouboe,Jens Hvid Skouboe,Demokratisk Balance,9
+Morsø,8,Erslev,M_Anette_Jensen,Anette Jensen,Demokratisk Balance,0
+Morsø,8,Erslev,O_Listestemmer,Listestemmer,Dansk Folkeparti,2
+Morsø,8,Erslev,"O_Meiner_Nørgaard,_Emb","Meiner Nørgaard, Emb",Dansk Folkeparti,19
+Morsø,8,Erslev,"O_Anette_Svindborg,_Ø._Jølby","Anette Svindborg, Ø. Jølby",Dansk Folkeparti,9
+Morsø,8,Erslev,"O_Lars_Brian_Hovmøller,_Ørndrup","Lars Brian Hovmøller, Ørndrup",Dansk Folkeparti,2
+Morsø,8,Erslev,"O_Palle_Odgaard,_Sejerslev","Palle Odgaard, Sejerslev",Dansk Folkeparti,1
+Morsø,8,Erslev,"O_Kjeld_Jensen,_Nykøbing","Kjeld Jensen, Nykøbing",Dansk Folkeparti,0
+Morsø,8,Erslev,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",11
+Morsø,8,Erslev,V_Hans_Ejner_Bertelsen,Hans Ejner Bertelsen,"Venstre, Danmarks Liberale Parti",84
+Morsø,8,Erslev,V_Charlotte_Amalie_Holm,Charlotte Amalie Holm,"Venstre, Danmarks Liberale Parti",5
+Morsø,8,Erslev,V_Henning_Sørensen,Henning Sørensen,"Venstre, Danmarks Liberale Parti",7
+Morsø,8,Erslev,V_Klaus_Hvidtfeldt_Larsen,Klaus Hvidtfeldt Larsen,"Venstre, Danmarks Liberale Parti",0
+Morsø,8,Erslev,V_Jesper_Balle_Kristensen,Jesper Balle Kristensen,"Venstre, Danmarks Liberale Parti",12
+Morsø,8,Erslev,V_Ansgar_Nygaard,Ansgar Nygaard,"Venstre, Danmarks Liberale Parti",1
+Morsø,8,Erslev,V_Peter_Therkildsen,Peter Therkildsen,"Venstre, Danmarks Liberale Parti",41
+Morsø,8,Erslev,V_Tage_Andersen,Tage Andersen,"Venstre, Danmarks Liberale Parti",2
+Morsø,8,Erslev,V_Peter_Lillebæk,Peter Lillebæk,"Venstre, Danmarks Liberale Parti",2
+Morsø,8,Erslev,V_Anja_Birch_Alsøer,Anja Birch Alsøer,"Venstre, Danmarks Liberale Parti",7
+Morsø,8,Erslev,V_Hans_Henrik_Stordal_Ebbesen,Hans Henrik Stordal Ebbesen,"Venstre, Danmarks Liberale Parti",0
+Morsø,8,Erslev,V_Henrik_Kristensen,Henrik Kristensen,"Venstre, Danmarks Liberale Parti",9
+Morsø,8,Erslev,V_Jytte_Foldberg,Jytte Foldberg,"Venstre, Danmarks Liberale Parti",1
+Morsø,8,Erslev,V_Chris_Dahl,Chris Dahl,"Venstre, Danmarks Liberale Parti",8
+Morsø,8,Erslev,V_Mette_Kærgaard_Iversen,Mette Kærgaard Iversen,"Venstre, Danmarks Liberale Parti",4
+Morsø,8,Erslev,V_Allan_Sørensen,Allan Sørensen,"Venstre, Danmarks Liberale Parti",0
+Morsø,8,Erslev,V_Thomas_Dahlgaard,Thomas Dahlgaard,"Venstre, Danmarks Liberale Parti",2
+Morsø,8,Erslev,V_Rasmus_Christensen,Rasmus Christensen,"Venstre, Danmarks Liberale Parti",3
+Morsø,8,Erslev,V_Søren_Goul,Søren Goul,"Venstre, Danmarks Liberale Parti",3
+Morsø,8,Erslev,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,0
+Morsø,8,Erslev,Ø_Pia_Thorsen,Pia Thorsen,Enhedslisten - De Rød-Grønne,0
+Morsø,8,Erslev,Ø_Poul_Sørensen,Poul Sørensen,Enhedslisten - De Rød-Grønne,0
+Morsø,8,Erslev,Ø_Ingerliva_Friiø,Ingerliva Friiø,Enhedslisten - De Rød-Grønne,0
+Morsø,8,Erslev,Ø_Ole_Lajgaard,Ole Lajgaard,Enhedslisten - De Rød-Grønne,0
+Morsø,8,Erslev,Ø_Steen_Klærke,Steen Klærke,Enhedslisten - De Rød-Grønne,0
+Morsø,8,Erslev,Ø_Kjeld_Bøcker,Kjeld Bøcker,Enhedslisten - De Rød-Grønne,0
+Morsø,8,Erslev,Ø_Charlotte_Pedersen,Charlotte Pedersen,Enhedslisten - De Rød-Grønne,0
+Morsø,9,Tødsø,A_Listestemmer,Listestemmer,Socialdemokratiet,18
+Morsø,9,Tødsø,A_Tore_Müller,Tore Müller,Socialdemokratiet,43
+Morsø,9,Tødsø,A_John_Christiansen,John Christiansen,Socialdemokratiet,9
+Morsø,9,Tødsø,A_Jens_Dahlgaard,Jens Dahlgaard,Socialdemokratiet,7
+Morsø,9,Tødsø,A_Svend_Erik_Jørgensen,Svend Erik Jørgensen,Socialdemokratiet,2
+Morsø,9,Tødsø,A_Vagn_Kidmose,Vagn Kidmose,Socialdemokratiet,8
+Morsø,9,Tødsø,A_Poul_Kristensen,Poul Kristensen,Socialdemokratiet,1
+Morsø,9,Tødsø,A_Lisbeth_Svane_Kusk,Lisbeth Svane Kusk,Socialdemokratiet,2
+Morsø,9,Tødsø,A_Max_Madsen,Max Madsen,Socialdemokratiet,6
+Morsø,9,Tødsø,A_Lene_Leth_Poulsen,Lene Leth Poulsen,Socialdemokratiet,3
+Morsø,9,Tødsø,A_Pia_Storm,Pia Storm,Socialdemokratiet,35
+Morsø,9,Tødsø,A_Florina_Elena_Temes,Florina Elena Temes,Socialdemokratiet,2
+Morsø,9,Tødsø,A_Karin_Villadsen,Karin Villadsen,Socialdemokratiet,8
+Morsø,9,Tødsø,A_Niels_Kristian_Østergaard,Niels Kristian Østergaard,Socialdemokratiet,4
+Morsø,9,Tødsø,B_Listestemmer,Listestemmer,Radikale Venstre,1
+Morsø,9,Tødsø,B_Jette_Jepsen,Jette Jepsen,Radikale Venstre,6
+Morsø,9,Tødsø,B_Lars_Bo_Majgaard,Lars Bo Majgaard,Radikale Venstre,1
+Morsø,9,Tødsø,B_Gyrithe_Stilling,Gyrithe Stilling,Radikale Venstre,0
+Morsø,9,Tødsø,B_Bo_Fink,Bo Fink,Radikale Venstre,1
+Morsø,9,Tødsø,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,4
+Morsø,9,Tødsø,C_Thomas_Jensen,Thomas Jensen,Det Konservative Folkeparti,10
+Morsø,9,Tødsø,C_Henrik_Markmøller_Bro,Henrik Markmøller Bro,Det Konservative Folkeparti,2
+Morsø,9,Tødsø,C_Poul_Erik_Futtrup,Poul Erik Futtrup,Det Konservative Folkeparti,0
+Morsø,9,Tødsø,C_Jens_Peter_Zacho,Jens Peter Zacho,Det Konservative Folkeparti,1
+Morsø,9,Tødsø,C_Claus_S._Andersen,Claus S. Andersen,Det Konservative Folkeparti,0
+Morsø,9,Tødsø,C_Poul_Roesen,Poul Roesen,Det Konservative Folkeparti,7
+Morsø,9,Tødsø,D_Listestemmer,Listestemmer,Nye Borgerlige,2
+Morsø,9,Tødsø,"D_Annfinn_Halsagard,_Sejerslev","Annfinn Halsagard, Sejerslev",Nye Borgerlige,5
+Morsø,9,Tødsø,"D_Jens_Chr._Pedersen,_Sejerslev","Jens Chr. Pedersen, Sejerslev",Nye Borgerlige,3
+Morsø,9,Tødsø,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,1
+Morsø,9,Tødsø,"F_Viggo_Vangsgaard,_Tødsø","Viggo Vangsgaard, Tødsø",SF - Socialistisk Folkeparti,13
+Morsø,9,Tødsø,"F_Signe_L._Mølgaard,_Nykøbing","Signe L. Mølgaard, Nykøbing",SF - Socialistisk Folkeparti,2
+Morsø,9,Tødsø,"F_Jens_Peter_Madsen,_Nr._Solbjerg","Jens Peter Madsen, Nr. Solbjerg",SF - Socialistisk Folkeparti,3
+Morsø,9,Tødsø,"F_Vibeke_D._Rasmussen,_Nr._Solbjerg","Vibeke D. Rasmussen, Nr. Solbjerg",SF - Socialistisk Folkeparti,1
+Morsø,9,Tødsø,"F_Eva_Haidarz_Weiling,_Mollerup","Eva Haidarz Weiling, Mollerup",SF - Socialistisk Folkeparti,1
+Morsø,9,Tødsø,M_Listestemmer,Listestemmer,Demokratisk Balance,1
+Morsø,9,Tødsø,M_Ellen_Philipsen_Dahl,Ellen Philipsen Dahl,Demokratisk Balance,11
+Morsø,9,Tødsø,M_Jens_Hvid_Skouboe,Jens Hvid Skouboe,Demokratisk Balance,1
+Morsø,9,Tødsø,M_Anette_Jensen,Anette Jensen,Demokratisk Balance,0
+Morsø,9,Tødsø,O_Listestemmer,Listestemmer,Dansk Folkeparti,3
+Morsø,9,Tødsø,"O_Meiner_Nørgaard,_Emb","Meiner Nørgaard, Emb",Dansk Folkeparti,11
+Morsø,9,Tødsø,"O_Anette_Svindborg,_Ø._Jølby","Anette Svindborg, Ø. Jølby",Dansk Folkeparti,2
+Morsø,9,Tødsø,"O_Lars_Brian_Hovmøller,_Ørndrup","Lars Brian Hovmøller, Ørndrup",Dansk Folkeparti,0
+Morsø,9,Tødsø,"O_Palle_Odgaard,_Sejerslev","Palle Odgaard, Sejerslev",Dansk Folkeparti,5
+Morsø,9,Tødsø,"O_Kjeld_Jensen,_Nykøbing","Kjeld Jensen, Nykøbing",Dansk Folkeparti,3
+Morsø,9,Tødsø,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",13
+Morsø,9,Tødsø,V_Hans_Ejner_Bertelsen,Hans Ejner Bertelsen,"Venstre, Danmarks Liberale Parti",117
+Morsø,9,Tødsø,V_Charlotte_Amalie_Holm,Charlotte Amalie Holm,"Venstre, Danmarks Liberale Parti",15
+Morsø,9,Tødsø,V_Henning_Sørensen,Henning Sørensen,"Venstre, Danmarks Liberale Parti",38
+Morsø,9,Tødsø,V_Klaus_Hvidtfeldt_Larsen,Klaus Hvidtfeldt Larsen,"Venstre, Danmarks Liberale Parti",5
+Morsø,9,Tødsø,V_Jesper_Balle_Kristensen,Jesper Balle Kristensen,"Venstre, Danmarks Liberale Parti",13
+Morsø,9,Tødsø,V_Ansgar_Nygaard,Ansgar Nygaard,"Venstre, Danmarks Liberale Parti",3
+Morsø,9,Tødsø,V_Peter_Therkildsen,Peter Therkildsen,"Venstre, Danmarks Liberale Parti",4
+Morsø,9,Tødsø,V_Tage_Andersen,Tage Andersen,"Venstre, Danmarks Liberale Parti",4
+Morsø,9,Tødsø,V_Peter_Lillebæk,Peter Lillebæk,"Venstre, Danmarks Liberale Parti",2
+Morsø,9,Tødsø,V_Anja_Birch_Alsøer,Anja Birch Alsøer,"Venstre, Danmarks Liberale Parti",5
+Morsø,9,Tødsø,V_Hans_Henrik_Stordal_Ebbesen,Hans Henrik Stordal Ebbesen,"Venstre, Danmarks Liberale Parti",2
+Morsø,9,Tødsø,V_Henrik_Kristensen,Henrik Kristensen,"Venstre, Danmarks Liberale Parti",4
+Morsø,9,Tødsø,V_Jytte_Foldberg,Jytte Foldberg,"Venstre, Danmarks Liberale Parti",5
+Morsø,9,Tødsø,V_Chris_Dahl,Chris Dahl,"Venstre, Danmarks Liberale Parti",6
+Morsø,9,Tødsø,V_Mette_Kærgaard_Iversen,Mette Kærgaard Iversen,"Venstre, Danmarks Liberale Parti",6
+Morsø,9,Tødsø,V_Allan_Sørensen,Allan Sørensen,"Venstre, Danmarks Liberale Parti",0
+Morsø,9,Tødsø,V_Thomas_Dahlgaard,Thomas Dahlgaard,"Venstre, Danmarks Liberale Parti",0
+Morsø,9,Tødsø,V_Rasmus_Christensen,Rasmus Christensen,"Venstre, Danmarks Liberale Parti",3
+Morsø,9,Tødsø,V_Søren_Goul,Søren Goul,"Venstre, Danmarks Liberale Parti",0
+Morsø,9,Tødsø,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,2
+Morsø,9,Tødsø,Ø_Pia_Thorsen,Pia Thorsen,Enhedslisten - De Rød-Grønne,6
+Morsø,9,Tødsø,Ø_Poul_Sørensen,Poul Sørensen,Enhedslisten - De Rød-Grønne,0
+Morsø,9,Tødsø,Ø_Ingerliva_Friiø,Ingerliva Friiø,Enhedslisten - De Rød-Grønne,0
+Morsø,9,Tødsø,Ø_Ole_Lajgaard,Ole Lajgaard,Enhedslisten - De Rød-Grønne,0
+Morsø,9,Tødsø,Ø_Steen_Klærke,Steen Klærke,Enhedslisten - De Rød-Grønne,0
+Morsø,9,Tødsø,Ø_Kjeld_Bøcker,Kjeld Bøcker,Enhedslisten - De Rød-Grønne,0
+Morsø,9,Tødsø,Ø_Charlotte_Pedersen,Charlotte Pedersen,Enhedslisten - De Rød-Grønne,0
+Morsø,10,Frøslev,A_Listestemmer,Listestemmer,Socialdemokratiet,8
+Morsø,10,Frøslev,A_Tore_Müller,Tore Müller,Socialdemokratiet,18
+Morsø,10,Frøslev,A_John_Christiansen,John Christiansen,Socialdemokratiet,7
+Morsø,10,Frøslev,A_Jens_Dahlgaard,Jens Dahlgaard,Socialdemokratiet,0
+Morsø,10,Frøslev,A_Svend_Erik_Jørgensen,Svend Erik Jørgensen,Socialdemokratiet,0
+Morsø,10,Frøslev,A_Vagn_Kidmose,Vagn Kidmose,Socialdemokratiet,3
+Morsø,10,Frøslev,A_Poul_Kristensen,Poul Kristensen,Socialdemokratiet,39
+Morsø,10,Frøslev,A_Lisbeth_Svane_Kusk,Lisbeth Svane Kusk,Socialdemokratiet,2
+Morsø,10,Frøslev,A_Max_Madsen,Max Madsen,Socialdemokratiet,5
+Morsø,10,Frøslev,A_Lene_Leth_Poulsen,Lene Leth Poulsen,Socialdemokratiet,1
+Morsø,10,Frøslev,A_Pia_Storm,Pia Storm,Socialdemokratiet,3
+Morsø,10,Frøslev,A_Florina_Elena_Temes,Florina Elena Temes,Socialdemokratiet,0
+Morsø,10,Frøslev,A_Karin_Villadsen,Karin Villadsen,Socialdemokratiet,9
+Morsø,10,Frøslev,A_Niels_Kristian_Østergaard,Niels Kristian Østergaard,Socialdemokratiet,5
+Morsø,10,Frøslev,B_Listestemmer,Listestemmer,Radikale Venstre,0
+Morsø,10,Frøslev,B_Jette_Jepsen,Jette Jepsen,Radikale Venstre,4
+Morsø,10,Frøslev,B_Lars_Bo_Majgaard,Lars Bo Majgaard,Radikale Venstre,0
+Morsø,10,Frøslev,B_Gyrithe_Stilling,Gyrithe Stilling,Radikale Venstre,0
+Morsø,10,Frøslev,B_Bo_Fink,Bo Fink,Radikale Venstre,1
+Morsø,10,Frøslev,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,0
+Morsø,10,Frøslev,C_Thomas_Jensen,Thomas Jensen,Det Konservative Folkeparti,3
+Morsø,10,Frøslev,C_Henrik_Markmøller_Bro,Henrik Markmøller Bro,Det Konservative Folkeparti,3
+Morsø,10,Frøslev,C_Poul_Erik_Futtrup,Poul Erik Futtrup,Det Konservative Folkeparti,1
+Morsø,10,Frøslev,C_Jens_Peter_Zacho,Jens Peter Zacho,Det Konservative Folkeparti,0
+Morsø,10,Frøslev,C_Claus_S._Andersen,Claus S. Andersen,Det Konservative Folkeparti,0
+Morsø,10,Frøslev,C_Poul_Roesen,Poul Roesen,Det Konservative Folkeparti,4
+Morsø,10,Frøslev,D_Listestemmer,Listestemmer,Nye Borgerlige,1
+Morsø,10,Frøslev,"D_Annfinn_Halsagard,_Sejerslev","Annfinn Halsagard, Sejerslev",Nye Borgerlige,5
+Morsø,10,Frøslev,"D_Jens_Chr._Pedersen,_Sejerslev","Jens Chr. Pedersen, Sejerslev",Nye Borgerlige,0
+Morsø,10,Frøslev,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,1
+Morsø,10,Frøslev,"F_Viggo_Vangsgaard,_Tødsø","Viggo Vangsgaard, Tødsø",SF - Socialistisk Folkeparti,2
+Morsø,10,Frøslev,"F_Signe_L._Mølgaard,_Nykøbing","Signe L. Mølgaard, Nykøbing",SF - Socialistisk Folkeparti,1
+Morsø,10,Frøslev,"F_Jens_Peter_Madsen,_Nr._Solbjerg","Jens Peter Madsen, Nr. Solbjerg",SF - Socialistisk Folkeparti,0
+Morsø,10,Frøslev,"F_Vibeke_D._Rasmussen,_Nr._Solbjerg","Vibeke D. Rasmussen, Nr. Solbjerg",SF - Socialistisk Folkeparti,0
+Morsø,10,Frøslev,"F_Eva_Haidarz_Weiling,_Mollerup","Eva Haidarz Weiling, Mollerup",SF - Socialistisk Folkeparti,2
+Morsø,10,Frøslev,M_Listestemmer,Listestemmer,Demokratisk Balance,0
+Morsø,10,Frøslev,M_Ellen_Philipsen_Dahl,Ellen Philipsen Dahl,Demokratisk Balance,0
+Morsø,10,Frøslev,M_Jens_Hvid_Skouboe,Jens Hvid Skouboe,Demokratisk Balance,0
+Morsø,10,Frøslev,M_Anette_Jensen,Anette Jensen,Demokratisk Balance,0
+Morsø,10,Frøslev,O_Listestemmer,Listestemmer,Dansk Folkeparti,2
+Morsø,10,Frøslev,"O_Meiner_Nørgaard,_Emb","Meiner Nørgaard, Emb",Dansk Folkeparti,10
+Morsø,10,Frøslev,"O_Anette_Svindborg,_Ø._Jølby","Anette Svindborg, Ø. Jølby",Dansk Folkeparti,1
+Morsø,10,Frøslev,"O_Lars_Brian_Hovmøller,_Ørndrup","Lars Brian Hovmøller, Ørndrup",Dansk Folkeparti,3
+Morsø,10,Frøslev,"O_Palle_Odgaard,_Sejerslev","Palle Odgaard, Sejerslev",Dansk Folkeparti,1
+Morsø,10,Frøslev,"O_Kjeld_Jensen,_Nykøbing","Kjeld Jensen, Nykøbing",Dansk Folkeparti,0
+Morsø,10,Frøslev,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",5
+Morsø,10,Frøslev,V_Hans_Ejner_Bertelsen,Hans Ejner Bertelsen,"Venstre, Danmarks Liberale Parti",70
+Morsø,10,Frøslev,V_Charlotte_Amalie_Holm,Charlotte Amalie Holm,"Venstre, Danmarks Liberale Parti",6
+Morsø,10,Frøslev,V_Henning_Sørensen,Henning Sørensen,"Venstre, Danmarks Liberale Parti",3
+Morsø,10,Frøslev,V_Klaus_Hvidtfeldt_Larsen,Klaus Hvidtfeldt Larsen,"Venstre, Danmarks Liberale Parti",0
+Morsø,10,Frøslev,V_Jesper_Balle_Kristensen,Jesper Balle Kristensen,"Venstre, Danmarks Liberale Parti",18
+Morsø,10,Frøslev,V_Ansgar_Nygaard,Ansgar Nygaard,"Venstre, Danmarks Liberale Parti",1
+Morsø,10,Frøslev,V_Peter_Therkildsen,Peter Therkildsen,"Venstre, Danmarks Liberale Parti",5
+Morsø,10,Frøslev,V_Tage_Andersen,Tage Andersen,"Venstre, Danmarks Liberale Parti",2
+Morsø,10,Frøslev,V_Peter_Lillebæk,Peter Lillebæk,"Venstre, Danmarks Liberale Parti",0
+Morsø,10,Frøslev,V_Anja_Birch_Alsøer,Anja Birch Alsøer,"Venstre, Danmarks Liberale Parti",1
+Morsø,10,Frøslev,V_Hans_Henrik_Stordal_Ebbesen,Hans Henrik Stordal Ebbesen,"Venstre, Danmarks Liberale Parti",1
+Morsø,10,Frøslev,V_Henrik_Kristensen,Henrik Kristensen,"Venstre, Danmarks Liberale Parti",4
+Morsø,10,Frøslev,V_Jytte_Foldberg,Jytte Foldberg,"Venstre, Danmarks Liberale Parti",1
+Morsø,10,Frøslev,V_Chris_Dahl,Chris Dahl,"Venstre, Danmarks Liberale Parti",50
+Morsø,10,Frøslev,V_Mette_Kærgaard_Iversen,Mette Kærgaard Iversen,"Venstre, Danmarks Liberale Parti",5
+Morsø,10,Frøslev,V_Allan_Sørensen,Allan Sørensen,"Venstre, Danmarks Liberale Parti",0
+Morsø,10,Frøslev,V_Thomas_Dahlgaard,Thomas Dahlgaard,"Venstre, Danmarks Liberale Parti",1
+Morsø,10,Frøslev,V_Rasmus_Christensen,Rasmus Christensen,"Venstre, Danmarks Liberale Parti",2
+Morsø,10,Frøslev,V_Søren_Goul,Søren Goul,"Venstre, Danmarks Liberale Parti",2
+Morsø,10,Frøslev,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,2
+Morsø,10,Frøslev,Ø_Pia_Thorsen,Pia Thorsen,Enhedslisten - De Rød-Grønne,4
+Morsø,10,Frøslev,Ø_Poul_Sørensen,Poul Sørensen,Enhedslisten - De Rød-Grønne,0
+Morsø,10,Frøslev,Ø_Ingerliva_Friiø,Ingerliva Friiø,Enhedslisten - De Rød-Grønne,0
+Morsø,10,Frøslev,Ø_Ole_Lajgaard,Ole Lajgaard,Enhedslisten - De Rød-Grønne,0
+Morsø,10,Frøslev,Ø_Steen_Klærke,Steen Klærke,Enhedslisten - De Rød-Grønne,0
+Morsø,10,Frøslev,Ø_Kjeld_Bøcker,Kjeld Bøcker,Enhedslisten - De Rød-Grønne,0
+Morsø,10,Frøslev,Ø_Charlotte_Pedersen,Charlotte Pedersen,Enhedslisten - De Rød-Grønne,0
+Morsø,11,Tæbring,A_Listestemmer,Listestemmer,Socialdemokratiet,4
+Morsø,11,Tæbring,A_Tore_Müller,Tore Müller,Socialdemokratiet,21
+Morsø,11,Tæbring,A_John_Christiansen,John Christiansen,Socialdemokratiet,4
+Morsø,11,Tæbring,A_Jens_Dahlgaard,Jens Dahlgaard,Socialdemokratiet,0
+Morsø,11,Tæbring,A_Svend_Erik_Jørgensen,Svend Erik Jørgensen,Socialdemokratiet,1
+Morsø,11,Tæbring,A_Vagn_Kidmose,Vagn Kidmose,Socialdemokratiet,4
+Morsø,11,Tæbring,A_Poul_Kristensen,Poul Kristensen,Socialdemokratiet,9
+Morsø,11,Tæbring,A_Lisbeth_Svane_Kusk,Lisbeth Svane Kusk,Socialdemokratiet,1
+Morsø,11,Tæbring,A_Max_Madsen,Max Madsen,Socialdemokratiet,11
+Morsø,11,Tæbring,A_Lene_Leth_Poulsen,Lene Leth Poulsen,Socialdemokratiet,0
+Morsø,11,Tæbring,A_Pia_Storm,Pia Storm,Socialdemokratiet,6
+Morsø,11,Tæbring,A_Florina_Elena_Temes,Florina Elena Temes,Socialdemokratiet,0
+Morsø,11,Tæbring,A_Karin_Villadsen,Karin Villadsen,Socialdemokratiet,6
+Morsø,11,Tæbring,A_Niels_Kristian_Østergaard,Niels Kristian Østergaard,Socialdemokratiet,0
+Morsø,11,Tæbring,B_Listestemmer,Listestemmer,Radikale Venstre,1
+Morsø,11,Tæbring,B_Jette_Jepsen,Jette Jepsen,Radikale Venstre,24
+Morsø,11,Tæbring,B_Lars_Bo_Majgaard,Lars Bo Majgaard,Radikale Venstre,2
+Morsø,11,Tæbring,B_Gyrithe_Stilling,Gyrithe Stilling,Radikale Venstre,0
+Morsø,11,Tæbring,B_Bo_Fink,Bo Fink,Radikale Venstre,1
+Morsø,11,Tæbring,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,1
+Morsø,11,Tæbring,C_Thomas_Jensen,Thomas Jensen,Det Konservative Folkeparti,1
+Morsø,11,Tæbring,C_Henrik_Markmøller_Bro,Henrik Markmøller Bro,Det Konservative Folkeparti,1
+Morsø,11,Tæbring,C_Poul_Erik_Futtrup,Poul Erik Futtrup,Det Konservative Folkeparti,0
+Morsø,11,Tæbring,C_Jens_Peter_Zacho,Jens Peter Zacho,Det Konservative Folkeparti,0
+Morsø,11,Tæbring,C_Claus_S._Andersen,Claus S. Andersen,Det Konservative Folkeparti,0
+Morsø,11,Tæbring,C_Poul_Roesen,Poul Roesen,Det Konservative Folkeparti,2
+Morsø,11,Tæbring,D_Listestemmer,Listestemmer,Nye Borgerlige,2
+Morsø,11,Tæbring,"D_Annfinn_Halsagard,_Sejerslev","Annfinn Halsagard, Sejerslev",Nye Borgerlige,2
+Morsø,11,Tæbring,"D_Jens_Chr._Pedersen,_Sejerslev","Jens Chr. Pedersen, Sejerslev",Nye Borgerlige,4
+Morsø,11,Tæbring,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,0
+Morsø,11,Tæbring,"F_Viggo_Vangsgaard,_Tødsø","Viggo Vangsgaard, Tødsø",SF - Socialistisk Folkeparti,5
+Morsø,11,Tæbring,"F_Signe_L._Mølgaard,_Nykøbing","Signe L. Mølgaard, Nykøbing",SF - Socialistisk Folkeparti,1
+Morsø,11,Tæbring,"F_Jens_Peter_Madsen,_Nr._Solbjerg","Jens Peter Madsen, Nr. Solbjerg",SF - Socialistisk Folkeparti,0
+Morsø,11,Tæbring,"F_Vibeke_D._Rasmussen,_Nr._Solbjerg","Vibeke D. Rasmussen, Nr. Solbjerg",SF - Socialistisk Folkeparti,0
+Morsø,11,Tæbring,"F_Eva_Haidarz_Weiling,_Mollerup","Eva Haidarz Weiling, Mollerup",SF - Socialistisk Folkeparti,0
+Morsø,11,Tæbring,M_Listestemmer,Listestemmer,Demokratisk Balance,0
+Morsø,11,Tæbring,M_Ellen_Philipsen_Dahl,Ellen Philipsen Dahl,Demokratisk Balance,3
+Morsø,11,Tæbring,M_Jens_Hvid_Skouboe,Jens Hvid Skouboe,Demokratisk Balance,0
+Morsø,11,Tæbring,M_Anette_Jensen,Anette Jensen,Demokratisk Balance,0
+Morsø,11,Tæbring,O_Listestemmer,Listestemmer,Dansk Folkeparti,2
+Morsø,11,Tæbring,"O_Meiner_Nørgaard,_Emb","Meiner Nørgaard, Emb",Dansk Folkeparti,7
+Morsø,11,Tæbring,"O_Anette_Svindborg,_Ø._Jølby","Anette Svindborg, Ø. Jølby",Dansk Folkeparti,5
+Morsø,11,Tæbring,"O_Lars_Brian_Hovmøller,_Ørndrup","Lars Brian Hovmøller, Ørndrup",Dansk Folkeparti,8
+Morsø,11,Tæbring,"O_Palle_Odgaard,_Sejerslev","Palle Odgaard, Sejerslev",Dansk Folkeparti,0
+Morsø,11,Tæbring,"O_Kjeld_Jensen,_Nykøbing","Kjeld Jensen, Nykøbing",Dansk Folkeparti,0
+Morsø,11,Tæbring,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",5
+Morsø,11,Tæbring,V_Hans_Ejner_Bertelsen,Hans Ejner Bertelsen,"Venstre, Danmarks Liberale Parti",98
+Morsø,11,Tæbring,V_Charlotte_Amalie_Holm,Charlotte Amalie Holm,"Venstre, Danmarks Liberale Parti",4
+Morsø,11,Tæbring,V_Henning_Sørensen,Henning Sørensen,"Venstre, Danmarks Liberale Parti",9
+Morsø,11,Tæbring,V_Klaus_Hvidtfeldt_Larsen,Klaus Hvidtfeldt Larsen,"Venstre, Danmarks Liberale Parti",0
+Morsø,11,Tæbring,V_Jesper_Balle_Kristensen,Jesper Balle Kristensen,"Venstre, Danmarks Liberale Parti",14
+Morsø,11,Tæbring,V_Ansgar_Nygaard,Ansgar Nygaard,"Venstre, Danmarks Liberale Parti",5
+Morsø,11,Tæbring,V_Peter_Therkildsen,Peter Therkildsen,"Venstre, Danmarks Liberale Parti",1
+Morsø,11,Tæbring,V_Tage_Andersen,Tage Andersen,"Venstre, Danmarks Liberale Parti",0
+Morsø,11,Tæbring,V_Peter_Lillebæk,Peter Lillebæk,"Venstre, Danmarks Liberale Parti",0
+Morsø,11,Tæbring,V_Anja_Birch_Alsøer,Anja Birch Alsøer,"Venstre, Danmarks Liberale Parti",1
+Morsø,11,Tæbring,V_Hans_Henrik_Stordal_Ebbesen,Hans Henrik Stordal Ebbesen,"Venstre, Danmarks Liberale Parti",1
+Morsø,11,Tæbring,V_Henrik_Kristensen,Henrik Kristensen,"Venstre, Danmarks Liberale Parti",28
+Morsø,11,Tæbring,V_Jytte_Foldberg,Jytte Foldberg,"Venstre, Danmarks Liberale Parti",1
+Morsø,11,Tæbring,V_Chris_Dahl,Chris Dahl,"Venstre, Danmarks Liberale Parti",2
+Morsø,11,Tæbring,V_Mette_Kærgaard_Iversen,Mette Kærgaard Iversen,"Venstre, Danmarks Liberale Parti",9
+Morsø,11,Tæbring,V_Allan_Sørensen,Allan Sørensen,"Venstre, Danmarks Liberale Parti",0
+Morsø,11,Tæbring,V_Thomas_Dahlgaard,Thomas Dahlgaard,"Venstre, Danmarks Liberale Parti",9
+Morsø,11,Tæbring,V_Rasmus_Christensen,Rasmus Christensen,"Venstre, Danmarks Liberale Parti",14
+Morsø,11,Tæbring,V_Søren_Goul,Søren Goul,"Venstre, Danmarks Liberale Parti",2
+Morsø,11,Tæbring,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,2
+Morsø,11,Tæbring,Ø_Pia_Thorsen,Pia Thorsen,Enhedslisten - De Rød-Grønne,0
+Morsø,11,Tæbring,Ø_Poul_Sørensen,Poul Sørensen,Enhedslisten - De Rød-Grønne,0
+Morsø,11,Tæbring,Ø_Ingerliva_Friiø,Ingerliva Friiø,Enhedslisten - De Rød-Grønne,0
+Morsø,11,Tæbring,Ø_Ole_Lajgaard,Ole Lajgaard,Enhedslisten - De Rød-Grønne,0
+Morsø,11,Tæbring,Ø_Steen_Klærke,Steen Klærke,Enhedslisten - De Rød-Grønne,0
+Morsø,11,Tæbring,Ø_Kjeld_Bøcker,Kjeld Bøcker,Enhedslisten - De Rød-Grønne,0
+Morsø,11,Tæbring,Ø_Charlotte_Pedersen,Charlotte Pedersen,Enhedslisten - De Rød-Grønne,0
+Morsø,12,Fredsø,A_Listestemmer,Listestemmer,Socialdemokratiet,16
+Morsø,12,Fredsø,A_Tore_Müller,Tore Müller,Socialdemokratiet,31
+Morsø,12,Fredsø,A_John_Christiansen,John Christiansen,Socialdemokratiet,7
+Morsø,12,Fredsø,A_Jens_Dahlgaard,Jens Dahlgaard,Socialdemokratiet,12
+Morsø,12,Fredsø,A_Svend_Erik_Jørgensen,Svend Erik Jørgensen,Socialdemokratiet,4
+Morsø,12,Fredsø,A_Vagn_Kidmose,Vagn Kidmose,Socialdemokratiet,2
+Morsø,12,Fredsø,A_Poul_Kristensen,Poul Kristensen,Socialdemokratiet,12
+Morsø,12,Fredsø,A_Lisbeth_Svane_Kusk,Lisbeth Svane Kusk,Socialdemokratiet,3
+Morsø,12,Fredsø,A_Max_Madsen,Max Madsen,Socialdemokratiet,5
+Morsø,12,Fredsø,A_Lene_Leth_Poulsen,Lene Leth Poulsen,Socialdemokratiet,2
+Morsø,12,Fredsø,A_Pia_Storm,Pia Storm,Socialdemokratiet,5
+Morsø,12,Fredsø,A_Florina_Elena_Temes,Florina Elena Temes,Socialdemokratiet,0
+Morsø,12,Fredsø,A_Karin_Villadsen,Karin Villadsen,Socialdemokratiet,5
+Morsø,12,Fredsø,A_Niels_Kristian_Østergaard,Niels Kristian Østergaard,Socialdemokratiet,5
+Morsø,12,Fredsø,B_Listestemmer,Listestemmer,Radikale Venstre,2
+Morsø,12,Fredsø,B_Jette_Jepsen,Jette Jepsen,Radikale Venstre,12
+Morsø,12,Fredsø,B_Lars_Bo_Majgaard,Lars Bo Majgaard,Radikale Venstre,1
+Morsø,12,Fredsø,B_Gyrithe_Stilling,Gyrithe Stilling,Radikale Venstre,0
+Morsø,12,Fredsø,B_Bo_Fink,Bo Fink,Radikale Venstre,1
+Morsø,12,Fredsø,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,1
+Morsø,12,Fredsø,C_Thomas_Jensen,Thomas Jensen,Det Konservative Folkeparti,9
+Morsø,12,Fredsø,C_Henrik_Markmøller_Bro,Henrik Markmøller Bro,Det Konservative Folkeparti,2
+Morsø,12,Fredsø,C_Poul_Erik_Futtrup,Poul Erik Futtrup,Det Konservative Folkeparti,0
+Morsø,12,Fredsø,C_Jens_Peter_Zacho,Jens Peter Zacho,Det Konservative Folkeparti,0
+Morsø,12,Fredsø,C_Claus_S._Andersen,Claus S. Andersen,Det Konservative Folkeparti,2
+Morsø,12,Fredsø,C_Poul_Roesen,Poul Roesen,Det Konservative Folkeparti,10
+Morsø,12,Fredsø,D_Listestemmer,Listestemmer,Nye Borgerlige,1
+Morsø,12,Fredsø,"D_Annfinn_Halsagard,_Sejerslev","Annfinn Halsagard, Sejerslev",Nye Borgerlige,5
+Morsø,12,Fredsø,"D_Jens_Chr._Pedersen,_Sejerslev","Jens Chr. Pedersen, Sejerslev",Nye Borgerlige,1
+Morsø,12,Fredsø,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,0
+Morsø,12,Fredsø,"F_Viggo_Vangsgaard,_Tødsø","Viggo Vangsgaard, Tødsø",SF - Socialistisk Folkeparti,5
+Morsø,12,Fredsø,"F_Signe_L._Mølgaard,_Nykøbing","Signe L. Mølgaard, Nykøbing",SF - Socialistisk Folkeparti,1
+Morsø,12,Fredsø,"F_Jens_Peter_Madsen,_Nr._Solbjerg","Jens Peter Madsen, Nr. Solbjerg",SF - Socialistisk Folkeparti,0
+Morsø,12,Fredsø,"F_Vibeke_D._Rasmussen,_Nr._Solbjerg","Vibeke D. Rasmussen, Nr. Solbjerg",SF - Socialistisk Folkeparti,1
+Morsø,12,Fredsø,"F_Eva_Haidarz_Weiling,_Mollerup","Eva Haidarz Weiling, Mollerup",SF - Socialistisk Folkeparti,1
+Morsø,12,Fredsø,M_Listestemmer,Listestemmer,Demokratisk Balance,0
+Morsø,12,Fredsø,M_Ellen_Philipsen_Dahl,Ellen Philipsen Dahl,Demokratisk Balance,8
+Morsø,12,Fredsø,M_Jens_Hvid_Skouboe,Jens Hvid Skouboe,Demokratisk Balance,1
+Morsø,12,Fredsø,M_Anette_Jensen,Anette Jensen,Demokratisk Balance,0
+Morsø,12,Fredsø,O_Listestemmer,Listestemmer,Dansk Folkeparti,4
+Morsø,12,Fredsø,"O_Meiner_Nørgaard,_Emb","Meiner Nørgaard, Emb",Dansk Folkeparti,18
+Morsø,12,Fredsø,"O_Anette_Svindborg,_Ø._Jølby","Anette Svindborg, Ø. Jølby",Dansk Folkeparti,4
+Morsø,12,Fredsø,"O_Lars_Brian_Hovmøller,_Ørndrup","Lars Brian Hovmøller, Ørndrup",Dansk Folkeparti,2
+Morsø,12,Fredsø,"O_Palle_Odgaard,_Sejerslev","Palle Odgaard, Sejerslev",Dansk Folkeparti,0
+Morsø,12,Fredsø,"O_Kjeld_Jensen,_Nykøbing","Kjeld Jensen, Nykøbing",Dansk Folkeparti,0
+Morsø,12,Fredsø,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",17
+Morsø,12,Fredsø,V_Hans_Ejner_Bertelsen,Hans Ejner Bertelsen,"Venstre, Danmarks Liberale Parti",141
+Morsø,12,Fredsø,V_Charlotte_Amalie_Holm,Charlotte Amalie Holm,"Venstre, Danmarks Liberale Parti",3
+Morsø,12,Fredsø,V_Henning_Sørensen,Henning Sørensen,"Venstre, Danmarks Liberale Parti",13
+Morsø,12,Fredsø,V_Klaus_Hvidtfeldt_Larsen,Klaus Hvidtfeldt Larsen,"Venstre, Danmarks Liberale Parti",2
+Morsø,12,Fredsø,V_Jesper_Balle_Kristensen,Jesper Balle Kristensen,"Venstre, Danmarks Liberale Parti",32
+Morsø,12,Fredsø,V_Ansgar_Nygaard,Ansgar Nygaard,"Venstre, Danmarks Liberale Parti",8
+Morsø,12,Fredsø,V_Peter_Therkildsen,Peter Therkildsen,"Venstre, Danmarks Liberale Parti",7
+Morsø,12,Fredsø,V_Tage_Andersen,Tage Andersen,"Venstre, Danmarks Liberale Parti",3
+Morsø,12,Fredsø,V_Peter_Lillebæk,Peter Lillebæk,"Venstre, Danmarks Liberale Parti",4
+Morsø,12,Fredsø,V_Anja_Birch_Alsøer,Anja Birch Alsøer,"Venstre, Danmarks Liberale Parti",2
+Morsø,12,Fredsø,V_Hans_Henrik_Stordal_Ebbesen,Hans Henrik Stordal Ebbesen,"Venstre, Danmarks Liberale Parti",1
+Morsø,12,Fredsø,V_Henrik_Kristensen,Henrik Kristensen,"Venstre, Danmarks Liberale Parti",8
+Morsø,12,Fredsø,V_Jytte_Foldberg,Jytte Foldberg,"Venstre, Danmarks Liberale Parti",4
+Morsø,12,Fredsø,V_Chris_Dahl,Chris Dahl,"Venstre, Danmarks Liberale Parti",8
+Morsø,12,Fredsø,V_Mette_Kærgaard_Iversen,Mette Kærgaard Iversen,"Venstre, Danmarks Liberale Parti",6
+Morsø,12,Fredsø,V_Allan_Sørensen,Allan Sørensen,"Venstre, Danmarks Liberale Parti",0
+Morsø,12,Fredsø,V_Thomas_Dahlgaard,Thomas Dahlgaard,"Venstre, Danmarks Liberale Parti",2
+Morsø,12,Fredsø,V_Rasmus_Christensen,Rasmus Christensen,"Venstre, Danmarks Liberale Parti",3
+Morsø,12,Fredsø,V_Søren_Goul,Søren Goul,"Venstre, Danmarks Liberale Parti",1
+Morsø,12,Fredsø,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,2
+Morsø,12,Fredsø,Ø_Pia_Thorsen,Pia Thorsen,Enhedslisten - De Rød-Grønne,3
+Morsø,12,Fredsø,Ø_Poul_Sørensen,Poul Sørensen,Enhedslisten - De Rød-Grønne,0
+Morsø,12,Fredsø,Ø_Ingerliva_Friiø,Ingerliva Friiø,Enhedslisten - De Rød-Grønne,1
+Morsø,12,Fredsø,Ø_Ole_Lajgaard,Ole Lajgaard,Enhedslisten - De Rød-Grønne,0
+Morsø,12,Fredsø,Ø_Steen_Klærke,Steen Klærke,Enhedslisten - De Rød-Grønne,0
+Morsø,12,Fredsø,Ø_Kjeld_Bøcker,Kjeld Bøcker,Enhedslisten - De Rød-Grønne,0
+Morsø,12,Fredsø,Ø_Charlotte_Pedersen,Charlotte Pedersen,Enhedslisten - De Rød-Grønne,0
+Morsø,13,Vils,A_Listestemmer,Listestemmer,Socialdemokratiet,15
+Morsø,13,Vils,A_Tore_Müller,Tore Müller,Socialdemokratiet,17
+Morsø,13,Vils,A_John_Christiansen,John Christiansen,Socialdemokratiet,1
+Morsø,13,Vils,A_Jens_Dahlgaard,Jens Dahlgaard,Socialdemokratiet,4
+Morsø,13,Vils,A_Svend_Erik_Jørgensen,Svend Erik Jørgensen,Socialdemokratiet,1
+Morsø,13,Vils,A_Vagn_Kidmose,Vagn Kidmose,Socialdemokratiet,1
+Morsø,13,Vils,A_Poul_Kristensen,Poul Kristensen,Socialdemokratiet,11
+Morsø,13,Vils,A_Lisbeth_Svane_Kusk,Lisbeth Svane Kusk,Socialdemokratiet,5
+Morsø,13,Vils,A_Max_Madsen,Max Madsen,Socialdemokratiet,4
+Morsø,13,Vils,A_Lene_Leth_Poulsen,Lene Leth Poulsen,Socialdemokratiet,0
+Morsø,13,Vils,A_Pia_Storm,Pia Storm,Socialdemokratiet,11
+Morsø,13,Vils,A_Florina_Elena_Temes,Florina Elena Temes,Socialdemokratiet,3
+Morsø,13,Vils,A_Karin_Villadsen,Karin Villadsen,Socialdemokratiet,4
+Morsø,13,Vils,A_Niels_Kristian_Østergaard,Niels Kristian Østergaard,Socialdemokratiet,8
+Morsø,13,Vils,B_Listestemmer,Listestemmer,Radikale Venstre,1
+Morsø,13,Vils,B_Jette_Jepsen,Jette Jepsen,Radikale Venstre,10
+Morsø,13,Vils,B_Lars_Bo_Majgaard,Lars Bo Majgaard,Radikale Venstre,2
+Morsø,13,Vils,B_Gyrithe_Stilling,Gyrithe Stilling,Radikale Venstre,0
+Morsø,13,Vils,B_Bo_Fink,Bo Fink,Radikale Venstre,1
+Morsø,13,Vils,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,2
+Morsø,13,Vils,C_Thomas_Jensen,Thomas Jensen,Det Konservative Folkeparti,5
+Morsø,13,Vils,C_Henrik_Markmøller_Bro,Henrik Markmøller Bro,Det Konservative Folkeparti,0
+Morsø,13,Vils,C_Poul_Erik_Futtrup,Poul Erik Futtrup,Det Konservative Folkeparti,0
+Morsø,13,Vils,C_Jens_Peter_Zacho,Jens Peter Zacho,Det Konservative Folkeparti,0
+Morsø,13,Vils,C_Claus_S._Andersen,Claus S. Andersen,Det Konservative Folkeparti,0
+Morsø,13,Vils,C_Poul_Roesen,Poul Roesen,Det Konservative Folkeparti,7
+Morsø,13,Vils,D_Listestemmer,Listestemmer,Nye Borgerlige,1
+Morsø,13,Vils,"D_Annfinn_Halsagard,_Sejerslev","Annfinn Halsagard, Sejerslev",Nye Borgerlige,0
+Morsø,13,Vils,"D_Jens_Chr._Pedersen,_Sejerslev","Jens Chr. Pedersen, Sejerslev",Nye Borgerlige,0
+Morsø,13,Vils,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,1
+Morsø,13,Vils,"F_Viggo_Vangsgaard,_Tødsø","Viggo Vangsgaard, Tødsø",SF - Socialistisk Folkeparti,2
+Morsø,13,Vils,"F_Signe_L._Mølgaard,_Nykøbing","Signe L. Mølgaard, Nykøbing",SF - Socialistisk Folkeparti,0
+Morsø,13,Vils,"F_Jens_Peter_Madsen,_Nr._Solbjerg","Jens Peter Madsen, Nr. Solbjerg",SF - Socialistisk Folkeparti,0
+Morsø,13,Vils,"F_Vibeke_D._Rasmussen,_Nr._Solbjerg","Vibeke D. Rasmussen, Nr. Solbjerg",SF - Socialistisk Folkeparti,0
+Morsø,13,Vils,"F_Eva_Haidarz_Weiling,_Mollerup","Eva Haidarz Weiling, Mollerup",SF - Socialistisk Folkeparti,0
+Morsø,13,Vils,M_Listestemmer,Listestemmer,Demokratisk Balance,1
+Morsø,13,Vils,M_Ellen_Philipsen_Dahl,Ellen Philipsen Dahl,Demokratisk Balance,1
+Morsø,13,Vils,M_Jens_Hvid_Skouboe,Jens Hvid Skouboe,Demokratisk Balance,3
+Morsø,13,Vils,M_Anette_Jensen,Anette Jensen,Demokratisk Balance,0
+Morsø,13,Vils,O_Listestemmer,Listestemmer,Dansk Folkeparti,3
+Morsø,13,Vils,"O_Meiner_Nørgaard,_Emb","Meiner Nørgaard, Emb",Dansk Folkeparti,91
+Morsø,13,Vils,"O_Anette_Svindborg,_Ø._Jølby","Anette Svindborg, Ø. Jølby",Dansk Folkeparti,3
+Morsø,13,Vils,"O_Lars_Brian_Hovmøller,_Ørndrup","Lars Brian Hovmøller, Ørndrup",Dansk Folkeparti,2
+Morsø,13,Vils,"O_Palle_Odgaard,_Sejerslev","Palle Odgaard, Sejerslev",Dansk Folkeparti,0
+Morsø,13,Vils,"O_Kjeld_Jensen,_Nykøbing","Kjeld Jensen, Nykøbing",Dansk Folkeparti,1
+Morsø,13,Vils,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",7
+Morsø,13,Vils,V_Hans_Ejner_Bertelsen,Hans Ejner Bertelsen,"Venstre, Danmarks Liberale Parti",116
+Morsø,13,Vils,V_Charlotte_Amalie_Holm,Charlotte Amalie Holm,"Venstre, Danmarks Liberale Parti",3
+Morsø,13,Vils,V_Henning_Sørensen,Henning Sørensen,"Venstre, Danmarks Liberale Parti",4
+Morsø,13,Vils,V_Klaus_Hvidtfeldt_Larsen,Klaus Hvidtfeldt Larsen,"Venstre, Danmarks Liberale Parti",3
+Morsø,13,Vils,V_Jesper_Balle_Kristensen,Jesper Balle Kristensen,"Venstre, Danmarks Liberale Parti",79
+Morsø,13,Vils,V_Ansgar_Nygaard,Ansgar Nygaard,"Venstre, Danmarks Liberale Parti",1
+Morsø,13,Vils,V_Peter_Therkildsen,Peter Therkildsen,"Venstre, Danmarks Liberale Parti",4
+Morsø,13,Vils,V_Tage_Andersen,Tage Andersen,"Venstre, Danmarks Liberale Parti",1
+Morsø,13,Vils,V_Peter_Lillebæk,Peter Lillebæk,"Venstre, Danmarks Liberale Parti",2
+Morsø,13,Vils,V_Anja_Birch_Alsøer,Anja Birch Alsøer,"Venstre, Danmarks Liberale Parti",1
+Morsø,13,Vils,V_Hans_Henrik_Stordal_Ebbesen,Hans Henrik Stordal Ebbesen,"Venstre, Danmarks Liberale Parti",0
+Morsø,13,Vils,V_Henrik_Kristensen,Henrik Kristensen,"Venstre, Danmarks Liberale Parti",6
+Morsø,13,Vils,V_Jytte_Foldberg,Jytte Foldberg,"Venstre, Danmarks Liberale Parti",2
+Morsø,13,Vils,V_Chris_Dahl,Chris Dahl,"Venstre, Danmarks Liberale Parti",3
+Morsø,13,Vils,V_Mette_Kærgaard_Iversen,Mette Kærgaard Iversen,"Venstre, Danmarks Liberale Parti",3
+Morsø,13,Vils,V_Allan_Sørensen,Allan Sørensen,"Venstre, Danmarks Liberale Parti",0
+Morsø,13,Vils,V_Thomas_Dahlgaard,Thomas Dahlgaard,"Venstre, Danmarks Liberale Parti",2
+Morsø,13,Vils,V_Rasmus_Christensen,Rasmus Christensen,"Venstre, Danmarks Liberale Parti",3
+Morsø,13,Vils,V_Søren_Goul,Søren Goul,"Venstre, Danmarks Liberale Parti",2
+Morsø,13,Vils,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,1
+Morsø,13,Vils,Ø_Pia_Thorsen,Pia Thorsen,Enhedslisten - De Rød-Grønne,4
+Morsø,13,Vils,Ø_Poul_Sørensen,Poul Sørensen,Enhedslisten - De Rød-Grønne,1
+Morsø,13,Vils,Ø_Ingerliva_Friiø,Ingerliva Friiø,Enhedslisten - De Rød-Grønne,0
+Morsø,13,Vils,Ø_Ole_Lajgaard,Ole Lajgaard,Enhedslisten - De Rød-Grønne,0
+Morsø,13,Vils,Ø_Steen_Klærke,Steen Klærke,Enhedslisten - De Rød-Grønne,1
+Morsø,13,Vils,Ø_Kjeld_Bøcker,Kjeld Bøcker,Enhedslisten - De Rød-Grønne,0
+Morsø,13,Vils,Ø_Charlotte_Pedersen,Charlotte Pedersen,Enhedslisten - De Rød-Grønne,0
+Morsø,14,Karby,A_Listestemmer,Listestemmer,Socialdemokratiet,14
+Morsø,14,Karby,A_Tore_Müller,Tore Müller,Socialdemokratiet,15
+Morsø,14,Karby,A_John_Christiansen,John Christiansen,Socialdemokratiet,1
+Morsø,14,Karby,A_Jens_Dahlgaard,Jens Dahlgaard,Socialdemokratiet,0
+Morsø,14,Karby,A_Svend_Erik_Jørgensen,Svend Erik Jørgensen,Socialdemokratiet,0
+Morsø,14,Karby,A_Vagn_Kidmose,Vagn Kidmose,Socialdemokratiet,2
+Morsø,14,Karby,A_Poul_Kristensen,Poul Kristensen,Socialdemokratiet,8
+Morsø,14,Karby,A_Lisbeth_Svane_Kusk,Lisbeth Svane Kusk,Socialdemokratiet,2
+Morsø,14,Karby,A_Max_Madsen,Max Madsen,Socialdemokratiet,2
+Morsø,14,Karby,A_Lene_Leth_Poulsen,Lene Leth Poulsen,Socialdemokratiet,0
+Morsø,14,Karby,A_Pia_Storm,Pia Storm,Socialdemokratiet,2
+Morsø,14,Karby,A_Florina_Elena_Temes,Florina Elena Temes,Socialdemokratiet,19
+Morsø,14,Karby,A_Karin_Villadsen,Karin Villadsen,Socialdemokratiet,2
+Morsø,14,Karby,A_Niels_Kristian_Østergaard,Niels Kristian Østergaard,Socialdemokratiet,2
+Morsø,14,Karby,B_Listestemmer,Listestemmer,Radikale Venstre,0
+Morsø,14,Karby,B_Jette_Jepsen,Jette Jepsen,Radikale Venstre,87
+Morsø,14,Karby,B_Lars_Bo_Majgaard,Lars Bo Majgaard,Radikale Venstre,1
+Morsø,14,Karby,B_Gyrithe_Stilling,Gyrithe Stilling,Radikale Venstre,0
+Morsø,14,Karby,B_Bo_Fink,Bo Fink,Radikale Venstre,1
+Morsø,14,Karby,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,1
+Morsø,14,Karby,C_Thomas_Jensen,Thomas Jensen,Det Konservative Folkeparti,2
+Morsø,14,Karby,C_Henrik_Markmøller_Bro,Henrik Markmøller Bro,Det Konservative Folkeparti,2
+Morsø,14,Karby,C_Poul_Erik_Futtrup,Poul Erik Futtrup,Det Konservative Folkeparti,1
+Morsø,14,Karby,C_Jens_Peter_Zacho,Jens Peter Zacho,Det Konservative Folkeparti,1
+Morsø,14,Karby,C_Claus_S._Andersen,Claus S. Andersen,Det Konservative Folkeparti,0
+Morsø,14,Karby,C_Poul_Roesen,Poul Roesen,Det Konservative Folkeparti,5
+Morsø,14,Karby,D_Listestemmer,Listestemmer,Nye Borgerlige,2
+Morsø,14,Karby,"D_Annfinn_Halsagard,_Sejerslev","Annfinn Halsagard, Sejerslev",Nye Borgerlige,4
+Morsø,14,Karby,"D_Jens_Chr._Pedersen,_Sejerslev","Jens Chr. Pedersen, Sejerslev",Nye Borgerlige,1
+Morsø,14,Karby,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,5
+Morsø,14,Karby,"F_Viggo_Vangsgaard,_Tødsø","Viggo Vangsgaard, Tødsø",SF - Socialistisk Folkeparti,4
+Morsø,14,Karby,"F_Signe_L._Mølgaard,_Nykøbing","Signe L. Mølgaard, Nykøbing",SF - Socialistisk Folkeparti,1
+Morsø,14,Karby,"F_Jens_Peter_Madsen,_Nr._Solbjerg","Jens Peter Madsen, Nr. Solbjerg",SF - Socialistisk Folkeparti,0
+Morsø,14,Karby,"F_Vibeke_D._Rasmussen,_Nr._Solbjerg","Vibeke D. Rasmussen, Nr. Solbjerg",SF - Socialistisk Folkeparti,0
+Morsø,14,Karby,"F_Eva_Haidarz_Weiling,_Mollerup","Eva Haidarz Weiling, Mollerup",SF - Socialistisk Folkeparti,0
+Morsø,14,Karby,M_Listestemmer,Listestemmer,Demokratisk Balance,0
+Morsø,14,Karby,M_Ellen_Philipsen_Dahl,Ellen Philipsen Dahl,Demokratisk Balance,3
+Morsø,14,Karby,M_Jens_Hvid_Skouboe,Jens Hvid Skouboe,Demokratisk Balance,0
+Morsø,14,Karby,M_Anette_Jensen,Anette Jensen,Demokratisk Balance,0
+Morsø,14,Karby,O_Listestemmer,Listestemmer,Dansk Folkeparti,2
+Morsø,14,Karby,"O_Meiner_Nørgaard,_Emb","Meiner Nørgaard, Emb",Dansk Folkeparti,9
+Morsø,14,Karby,"O_Anette_Svindborg,_Ø._Jølby","Anette Svindborg, Ø. Jølby",Dansk Folkeparti,9
+Morsø,14,Karby,"O_Lars_Brian_Hovmøller,_Ørndrup","Lars Brian Hovmøller, Ørndrup",Dansk Folkeparti,8
+Morsø,14,Karby,"O_Palle_Odgaard,_Sejerslev","Palle Odgaard, Sejerslev",Dansk Folkeparti,0
+Morsø,14,Karby,"O_Kjeld_Jensen,_Nykøbing","Kjeld Jensen, Nykøbing",Dansk Folkeparti,0
+Morsø,14,Karby,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",9
+Morsø,14,Karby,V_Hans_Ejner_Bertelsen,Hans Ejner Bertelsen,"Venstre, Danmarks Liberale Parti",78
+Morsø,14,Karby,V_Charlotte_Amalie_Holm,Charlotte Amalie Holm,"Venstre, Danmarks Liberale Parti",2
+Morsø,14,Karby,V_Henning_Sørensen,Henning Sørensen,"Venstre, Danmarks Liberale Parti",3
+Morsø,14,Karby,V_Klaus_Hvidtfeldt_Larsen,Klaus Hvidtfeldt Larsen,"Venstre, Danmarks Liberale Parti",0
+Morsø,14,Karby,V_Jesper_Balle_Kristensen,Jesper Balle Kristensen,"Venstre, Danmarks Liberale Parti",26
+Morsø,14,Karby,V_Ansgar_Nygaard,Ansgar Nygaard,"Venstre, Danmarks Liberale Parti",3
+Morsø,14,Karby,V_Peter_Therkildsen,Peter Therkildsen,"Venstre, Danmarks Liberale Parti",6
+Morsø,14,Karby,V_Tage_Andersen,Tage Andersen,"Venstre, Danmarks Liberale Parti",1
+Morsø,14,Karby,V_Peter_Lillebæk,Peter Lillebæk,"Venstre, Danmarks Liberale Parti",1
+Morsø,14,Karby,V_Anja_Birch_Alsøer,Anja Birch Alsøer,"Venstre, Danmarks Liberale Parti",1
+Morsø,14,Karby,V_Hans_Henrik_Stordal_Ebbesen,Hans Henrik Stordal Ebbesen,"Venstre, Danmarks Liberale Parti",0
+Morsø,14,Karby,V_Henrik_Kristensen,Henrik Kristensen,"Venstre, Danmarks Liberale Parti",37
+Morsø,14,Karby,V_Jytte_Foldberg,Jytte Foldberg,"Venstre, Danmarks Liberale Parti",1
+Morsø,14,Karby,V_Chris_Dahl,Chris Dahl,"Venstre, Danmarks Liberale Parti",0
+Morsø,14,Karby,V_Mette_Kærgaard_Iversen,Mette Kærgaard Iversen,"Venstre, Danmarks Liberale Parti",8
+Morsø,14,Karby,V_Allan_Sørensen,Allan Sørensen,"Venstre, Danmarks Liberale Parti",0
+Morsø,14,Karby,V_Thomas_Dahlgaard,Thomas Dahlgaard,"Venstre, Danmarks Liberale Parti",4
+Morsø,14,Karby,V_Rasmus_Christensen,Rasmus Christensen,"Venstre, Danmarks Liberale Parti",82
+Morsø,14,Karby,V_Søren_Goul,Søren Goul,"Venstre, Danmarks Liberale Parti",7
+Morsø,14,Karby,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,2
+Morsø,14,Karby,Ø_Pia_Thorsen,Pia Thorsen,Enhedslisten - De Rød-Grønne,6
+Morsø,14,Karby,Ø_Poul_Sørensen,Poul Sørensen,Enhedslisten - De Rød-Grønne,0
+Morsø,14,Karby,Ø_Ingerliva_Friiø,Ingerliva Friiø,Enhedslisten - De Rød-Grønne,0
+Morsø,14,Karby,Ø_Ole_Lajgaard,Ole Lajgaard,Enhedslisten - De Rød-Grønne,0
+Morsø,14,Karby,Ø_Steen_Klærke,Steen Klærke,Enhedslisten - De Rød-Grønne,0
+Morsø,14,Karby,Ø_Kjeld_Bøcker,Kjeld Bøcker,Enhedslisten - De Rød-Grønne,0
+Morsø,14,Karby,Ø_Charlotte_Pedersen,Charlotte Pedersen,Enhedslisten - De Rød-Grønne,0
+Morsø,15,Redsted,A_Listestemmer,Listestemmer,Socialdemokratiet,12
+Morsø,15,Redsted,A_Tore_Müller,Tore Müller,Socialdemokratiet,15
+Morsø,15,Redsted,A_John_Christiansen,John Christiansen,Socialdemokratiet,4
+Morsø,15,Redsted,A_Jens_Dahlgaard,Jens Dahlgaard,Socialdemokratiet,8
+Morsø,15,Redsted,A_Svend_Erik_Jørgensen,Svend Erik Jørgensen,Socialdemokratiet,3
+Morsø,15,Redsted,A_Vagn_Kidmose,Vagn Kidmose,Socialdemokratiet,1
+Morsø,15,Redsted,A_Poul_Kristensen,Poul Kristensen,Socialdemokratiet,13
+Morsø,15,Redsted,A_Lisbeth_Svane_Kusk,Lisbeth Svane Kusk,Socialdemokratiet,3
+Morsø,15,Redsted,A_Max_Madsen,Max Madsen,Socialdemokratiet,2
+Morsø,15,Redsted,A_Lene_Leth_Poulsen,Lene Leth Poulsen,Socialdemokratiet,1
+Morsø,15,Redsted,A_Pia_Storm,Pia Storm,Socialdemokratiet,8
+Morsø,15,Redsted,A_Florina_Elena_Temes,Florina Elena Temes,Socialdemokratiet,5
+Morsø,15,Redsted,A_Karin_Villadsen,Karin Villadsen,Socialdemokratiet,0
+Morsø,15,Redsted,A_Niels_Kristian_Østergaard,Niels Kristian Østergaard,Socialdemokratiet,5
+Morsø,15,Redsted,B_Listestemmer,Listestemmer,Radikale Venstre,2
+Morsø,15,Redsted,B_Jette_Jepsen,Jette Jepsen,Radikale Venstre,25
+Morsø,15,Redsted,B_Lars_Bo_Majgaard,Lars Bo Majgaard,Radikale Venstre,0
+Morsø,15,Redsted,B_Gyrithe_Stilling,Gyrithe Stilling,Radikale Venstre,0
+Morsø,15,Redsted,B_Bo_Fink,Bo Fink,Radikale Venstre,0
+Morsø,15,Redsted,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,1
+Morsø,15,Redsted,C_Thomas_Jensen,Thomas Jensen,Det Konservative Folkeparti,1
+Morsø,15,Redsted,C_Henrik_Markmøller_Bro,Henrik Markmøller Bro,Det Konservative Folkeparti,1
+Morsø,15,Redsted,C_Poul_Erik_Futtrup,Poul Erik Futtrup,Det Konservative Folkeparti,0
+Morsø,15,Redsted,C_Jens_Peter_Zacho,Jens Peter Zacho,Det Konservative Folkeparti,2
+Morsø,15,Redsted,C_Claus_S._Andersen,Claus S. Andersen,Det Konservative Folkeparti,0
+Morsø,15,Redsted,C_Poul_Roesen,Poul Roesen,Det Konservative Folkeparti,2
+Morsø,15,Redsted,D_Listestemmer,Listestemmer,Nye Borgerlige,1
+Morsø,15,Redsted,"D_Annfinn_Halsagard,_Sejerslev","Annfinn Halsagard, Sejerslev",Nye Borgerlige,1
+Morsø,15,Redsted,"D_Jens_Chr._Pedersen,_Sejerslev","Jens Chr. Pedersen, Sejerslev",Nye Borgerlige,1
+Morsø,15,Redsted,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,2
+Morsø,15,Redsted,"F_Viggo_Vangsgaard,_Tødsø","Viggo Vangsgaard, Tødsø",SF - Socialistisk Folkeparti,3
+Morsø,15,Redsted,"F_Signe_L._Mølgaard,_Nykøbing","Signe L. Mølgaard, Nykøbing",SF - Socialistisk Folkeparti,1
+Morsø,15,Redsted,"F_Jens_Peter_Madsen,_Nr._Solbjerg","Jens Peter Madsen, Nr. Solbjerg",SF - Socialistisk Folkeparti,0
+Morsø,15,Redsted,"F_Vibeke_D._Rasmussen,_Nr._Solbjerg","Vibeke D. Rasmussen, Nr. Solbjerg",SF - Socialistisk Folkeparti,0
+Morsø,15,Redsted,"F_Eva_Haidarz_Weiling,_Mollerup","Eva Haidarz Weiling, Mollerup",SF - Socialistisk Folkeparti,0
+Morsø,15,Redsted,M_Listestemmer,Listestemmer,Demokratisk Balance,1
+Morsø,15,Redsted,M_Ellen_Philipsen_Dahl,Ellen Philipsen Dahl,Demokratisk Balance,2
+Morsø,15,Redsted,M_Jens_Hvid_Skouboe,Jens Hvid Skouboe,Demokratisk Balance,3
+Morsø,15,Redsted,M_Anette_Jensen,Anette Jensen,Demokratisk Balance,2
+Morsø,15,Redsted,O_Listestemmer,Listestemmer,Dansk Folkeparti,4
+Morsø,15,Redsted,"O_Meiner_Nørgaard,_Emb","Meiner Nørgaard, Emb",Dansk Folkeparti,14
+Morsø,15,Redsted,"O_Anette_Svindborg,_Ø._Jølby","Anette Svindborg, Ø. Jølby",Dansk Folkeparti,5
+Morsø,15,Redsted,"O_Lars_Brian_Hovmøller,_Ørndrup","Lars Brian Hovmøller, Ørndrup",Dansk Folkeparti,3
+Morsø,15,Redsted,"O_Palle_Odgaard,_Sejerslev","Palle Odgaard, Sejerslev",Dansk Folkeparti,1
+Morsø,15,Redsted,"O_Kjeld_Jensen,_Nykøbing","Kjeld Jensen, Nykøbing",Dansk Folkeparti,0
+Morsø,15,Redsted,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",9
+Morsø,15,Redsted,V_Hans_Ejner_Bertelsen,Hans Ejner Bertelsen,"Venstre, Danmarks Liberale Parti",98
+Morsø,15,Redsted,V_Charlotte_Amalie_Holm,Charlotte Amalie Holm,"Venstre, Danmarks Liberale Parti",0
+Morsø,15,Redsted,V_Henning_Sørensen,Henning Sørensen,"Venstre, Danmarks Liberale Parti",1
+Morsø,15,Redsted,V_Klaus_Hvidtfeldt_Larsen,Klaus Hvidtfeldt Larsen,"Venstre, Danmarks Liberale Parti",0
+Morsø,15,Redsted,V_Jesper_Balle_Kristensen,Jesper Balle Kristensen,"Venstre, Danmarks Liberale Parti",23
+Morsø,15,Redsted,V_Ansgar_Nygaard,Ansgar Nygaard,"Venstre, Danmarks Liberale Parti",8
+Morsø,15,Redsted,V_Peter_Therkildsen,Peter Therkildsen,"Venstre, Danmarks Liberale Parti",2
+Morsø,15,Redsted,V_Tage_Andersen,Tage Andersen,"Venstre, Danmarks Liberale Parti",0
+Morsø,15,Redsted,V_Peter_Lillebæk,Peter Lillebæk,"Venstre, Danmarks Liberale Parti",0
+Morsø,15,Redsted,V_Anja_Birch_Alsøer,Anja Birch Alsøer,"Venstre, Danmarks Liberale Parti",1
+Morsø,15,Redsted,V_Hans_Henrik_Stordal_Ebbesen,Hans Henrik Stordal Ebbesen,"Venstre, Danmarks Liberale Parti",0
+Morsø,15,Redsted,V_Henrik_Kristensen,Henrik Kristensen,"Venstre, Danmarks Liberale Parti",26
+Morsø,15,Redsted,V_Jytte_Foldberg,Jytte Foldberg,"Venstre, Danmarks Liberale Parti",4
+Morsø,15,Redsted,V_Chris_Dahl,Chris Dahl,"Venstre, Danmarks Liberale Parti",2
+Morsø,15,Redsted,V_Mette_Kærgaard_Iversen,Mette Kærgaard Iversen,"Venstre, Danmarks Liberale Parti",3
+Morsø,15,Redsted,V_Allan_Sørensen,Allan Sørensen,"Venstre, Danmarks Liberale Parti",0
+Morsø,15,Redsted,V_Thomas_Dahlgaard,Thomas Dahlgaard,"Venstre, Danmarks Liberale Parti",3
+Morsø,15,Redsted,V_Rasmus_Christensen,Rasmus Christensen,"Venstre, Danmarks Liberale Parti",15
+Morsø,15,Redsted,V_Søren_Goul,Søren Goul,"Venstre, Danmarks Liberale Parti",1
+Morsø,15,Redsted,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,2
+Morsø,15,Redsted,Ø_Pia_Thorsen,Pia Thorsen,Enhedslisten - De Rød-Grønne,0
+Morsø,15,Redsted,Ø_Poul_Sørensen,Poul Sørensen,Enhedslisten - De Rød-Grønne,0
+Morsø,15,Redsted,Ø_Ingerliva_Friiø,Ingerliva Friiø,Enhedslisten - De Rød-Grønne,0
+Morsø,15,Redsted,Ø_Ole_Lajgaard,Ole Lajgaard,Enhedslisten - De Rød-Grønne,0
+Morsø,15,Redsted,Ø_Steen_Klærke,Steen Klærke,Enhedslisten - De Rød-Grønne,2
+Morsø,15,Redsted,Ø_Kjeld_Bøcker,Kjeld Bøcker,Enhedslisten - De Rød-Grønne,0
+Morsø,15,Redsted,Ø_Charlotte_Pedersen,Charlotte Pedersen,Enhedslisten - De Rød-Grønne,0
+Morsø,16,Ørding,A_Listestemmer,Listestemmer,Socialdemokratiet,11
+Morsø,16,Ørding,A_Tore_Müller,Tore Müller,Socialdemokratiet,20
+Morsø,16,Ørding,A_John_Christiansen,John Christiansen,Socialdemokratiet,0
+Morsø,16,Ørding,A_Jens_Dahlgaard,Jens Dahlgaard,Socialdemokratiet,3
+Morsø,16,Ørding,A_Svend_Erik_Jørgensen,Svend Erik Jørgensen,Socialdemokratiet,3
+Morsø,16,Ørding,A_Vagn_Kidmose,Vagn Kidmose,Socialdemokratiet,7
+Morsø,16,Ørding,A_Poul_Kristensen,Poul Kristensen,Socialdemokratiet,2
+Morsø,16,Ørding,A_Lisbeth_Svane_Kusk,Lisbeth Svane Kusk,Socialdemokratiet,14
+Morsø,16,Ørding,A_Max_Madsen,Max Madsen,Socialdemokratiet,1
+Morsø,16,Ørding,A_Lene_Leth_Poulsen,Lene Leth Poulsen,Socialdemokratiet,0
+Morsø,16,Ørding,A_Pia_Storm,Pia Storm,Socialdemokratiet,1
+Morsø,16,Ørding,A_Florina_Elena_Temes,Florina Elena Temes,Socialdemokratiet,1
+Morsø,16,Ørding,A_Karin_Villadsen,Karin Villadsen,Socialdemokratiet,2
+Morsø,16,Ørding,A_Niels_Kristian_Østergaard,Niels Kristian Østergaard,Socialdemokratiet,4
+Morsø,16,Ørding,B_Listestemmer,Listestemmer,Radikale Venstre,0
+Morsø,16,Ørding,B_Jette_Jepsen,Jette Jepsen,Radikale Venstre,15
+Morsø,16,Ørding,B_Lars_Bo_Majgaard,Lars Bo Majgaard,Radikale Venstre,0
+Morsø,16,Ørding,B_Gyrithe_Stilling,Gyrithe Stilling,Radikale Venstre,0
+Morsø,16,Ørding,B_Bo_Fink,Bo Fink,Radikale Venstre,1
+Morsø,16,Ørding,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,1
+Morsø,16,Ørding,C_Thomas_Jensen,Thomas Jensen,Det Konservative Folkeparti,5
+Morsø,16,Ørding,C_Henrik_Markmøller_Bro,Henrik Markmøller Bro,Det Konservative Folkeparti,3
+Morsø,16,Ørding,C_Poul_Erik_Futtrup,Poul Erik Futtrup,Det Konservative Folkeparti,0
+Morsø,16,Ørding,C_Jens_Peter_Zacho,Jens Peter Zacho,Det Konservative Folkeparti,0
+Morsø,16,Ørding,C_Claus_S._Andersen,Claus S. Andersen,Det Konservative Folkeparti,0
+Morsø,16,Ørding,C_Poul_Roesen,Poul Roesen,Det Konservative Folkeparti,7
+Morsø,16,Ørding,D_Listestemmer,Listestemmer,Nye Borgerlige,0
+Morsø,16,Ørding,"D_Annfinn_Halsagard,_Sejerslev","Annfinn Halsagard, Sejerslev",Nye Borgerlige,1
+Morsø,16,Ørding,"D_Jens_Chr._Pedersen,_Sejerslev","Jens Chr. Pedersen, Sejerslev",Nye Borgerlige,2
+Morsø,16,Ørding,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,4
+Morsø,16,Ørding,"F_Viggo_Vangsgaard,_Tødsø","Viggo Vangsgaard, Tødsø",SF - Socialistisk Folkeparti,2
+Morsø,16,Ørding,"F_Signe_L._Mølgaard,_Nykøbing","Signe L. Mølgaard, Nykøbing",SF - Socialistisk Folkeparti,0
+Morsø,16,Ørding,"F_Jens_Peter_Madsen,_Nr._Solbjerg","Jens Peter Madsen, Nr. Solbjerg",SF - Socialistisk Folkeparti,0
+Morsø,16,Ørding,"F_Vibeke_D._Rasmussen,_Nr._Solbjerg","Vibeke D. Rasmussen, Nr. Solbjerg",SF - Socialistisk Folkeparti,0
+Morsø,16,Ørding,"F_Eva_Haidarz_Weiling,_Mollerup","Eva Haidarz Weiling, Mollerup",SF - Socialistisk Folkeparti,0
+Morsø,16,Ørding,M_Listestemmer,Listestemmer,Demokratisk Balance,0
+Morsø,16,Ørding,M_Ellen_Philipsen_Dahl,Ellen Philipsen Dahl,Demokratisk Balance,2
+Morsø,16,Ørding,M_Jens_Hvid_Skouboe,Jens Hvid Skouboe,Demokratisk Balance,0
+Morsø,16,Ørding,M_Anette_Jensen,Anette Jensen,Demokratisk Balance,0
+Morsø,16,Ørding,O_Listestemmer,Listestemmer,Dansk Folkeparti,0
+Morsø,16,Ørding,"O_Meiner_Nørgaard,_Emb","Meiner Nørgaard, Emb",Dansk Folkeparti,18
+Morsø,16,Ørding,"O_Anette_Svindborg,_Ø._Jølby","Anette Svindborg, Ø. Jølby",Dansk Folkeparti,3
+Morsø,16,Ørding,"O_Lars_Brian_Hovmøller,_Ørndrup","Lars Brian Hovmøller, Ørndrup",Dansk Folkeparti,2
+Morsø,16,Ørding,"O_Palle_Odgaard,_Sejerslev","Palle Odgaard, Sejerslev",Dansk Folkeparti,0
+Morsø,16,Ørding,"O_Kjeld_Jensen,_Nykøbing","Kjeld Jensen, Nykøbing",Dansk Folkeparti,1
+Morsø,16,Ørding,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",8
+Morsø,16,Ørding,V_Hans_Ejner_Bertelsen,Hans Ejner Bertelsen,"Venstre, Danmarks Liberale Parti",42
+Morsø,16,Ørding,V_Charlotte_Amalie_Holm,Charlotte Amalie Holm,"Venstre, Danmarks Liberale Parti",8
+Morsø,16,Ørding,V_Henning_Sørensen,Henning Sørensen,"Venstre, Danmarks Liberale Parti",4
+Morsø,16,Ørding,V_Klaus_Hvidtfeldt_Larsen,Klaus Hvidtfeldt Larsen,"Venstre, Danmarks Liberale Parti",3
+Morsø,16,Ørding,V_Jesper_Balle_Kristensen,Jesper Balle Kristensen,"Venstre, Danmarks Liberale Parti",37
+Morsø,16,Ørding,V_Ansgar_Nygaard,Ansgar Nygaard,"Venstre, Danmarks Liberale Parti",102
+Morsø,16,Ørding,V_Peter_Therkildsen,Peter Therkildsen,"Venstre, Danmarks Liberale Parti",3
+Morsø,16,Ørding,V_Tage_Andersen,Tage Andersen,"Venstre, Danmarks Liberale Parti",0
+Morsø,16,Ørding,V_Peter_Lillebæk,Peter Lillebæk,"Venstre, Danmarks Liberale Parti",0
+Morsø,16,Ørding,V_Anja_Birch_Alsøer,Anja Birch Alsøer,"Venstre, Danmarks Liberale Parti",4
+Morsø,16,Ørding,V_Hans_Henrik_Stordal_Ebbesen,Hans Henrik Stordal Ebbesen,"Venstre, Danmarks Liberale Parti",0
+Morsø,16,Ørding,V_Henrik_Kristensen,Henrik Kristensen,"Venstre, Danmarks Liberale Parti",1
+Morsø,16,Ørding,V_Jytte_Foldberg,Jytte Foldberg,"Venstre, Danmarks Liberale Parti",3
+Morsø,16,Ørding,V_Chris_Dahl,Chris Dahl,"Venstre, Danmarks Liberale Parti",2
+Morsø,16,Ørding,V_Mette_Kærgaard_Iversen,Mette Kærgaard Iversen,"Venstre, Danmarks Liberale Parti",0
+Morsø,16,Ørding,V_Allan_Sørensen,Allan Sørensen,"Venstre, Danmarks Liberale Parti",0
+Morsø,16,Ørding,V_Thomas_Dahlgaard,Thomas Dahlgaard,"Venstre, Danmarks Liberale Parti",1
+Morsø,16,Ørding,V_Rasmus_Christensen,Rasmus Christensen,"Venstre, Danmarks Liberale Parti",7
+Morsø,16,Ørding,V_Søren_Goul,Søren Goul,"Venstre, Danmarks Liberale Parti",1
+Morsø,16,Ørding,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,3
+Morsø,16,Ørding,Ø_Pia_Thorsen,Pia Thorsen,Enhedslisten - De Rød-Grønne,1
+Morsø,16,Ørding,Ø_Poul_Sørensen,Poul Sørensen,Enhedslisten - De Rød-Grønne,0
+Morsø,16,Ørding,Ø_Ingerliva_Friiø,Ingerliva Friiø,Enhedslisten - De Rød-Grønne,1
+Morsø,16,Ørding,Ø_Ole_Lajgaard,Ole Lajgaard,Enhedslisten - De Rød-Grønne,0
+Morsø,16,Ørding,Ø_Steen_Klærke,Steen Klærke,Enhedslisten - De Rød-Grønne,2
+Morsø,16,Ørding,Ø_Kjeld_Bøcker,Kjeld Bøcker,Enhedslisten - De Rød-Grønne,0
+Morsø,16,Ørding,Ø_Charlotte_Pedersen,Charlotte Pedersen,Enhedslisten - De Rød-Grønne,0
+Morsø,17,Ø. Assels,A_Listestemmer,Listestemmer,Socialdemokratiet,15
+Morsø,17,Ø. Assels,A_Tore_Müller,Tore Müller,Socialdemokratiet,13
+Morsø,17,Ø. Assels,A_John_Christiansen,John Christiansen,Socialdemokratiet,5
+Morsø,17,Ø. Assels,A_Jens_Dahlgaard,Jens Dahlgaard,Socialdemokratiet,9
+Morsø,17,Ø. Assels,A_Svend_Erik_Jørgensen,Svend Erik Jørgensen,Socialdemokratiet,6
+Morsø,17,Ø. Assels,A_Vagn_Kidmose,Vagn Kidmose,Socialdemokratiet,5
+Morsø,17,Ø. Assels,A_Poul_Kristensen,Poul Kristensen,Socialdemokratiet,9
+Morsø,17,Ø. Assels,A_Lisbeth_Svane_Kusk,Lisbeth Svane Kusk,Socialdemokratiet,8
+Morsø,17,Ø. Assels,A_Max_Madsen,Max Madsen,Socialdemokratiet,7
+Morsø,17,Ø. Assels,A_Lene_Leth_Poulsen,Lene Leth Poulsen,Socialdemokratiet,1
+Morsø,17,Ø. Assels,A_Pia_Storm,Pia Storm,Socialdemokratiet,10
+Morsø,17,Ø. Assels,A_Florina_Elena_Temes,Florina Elena Temes,Socialdemokratiet,1
+Morsø,17,Ø. Assels,A_Karin_Villadsen,Karin Villadsen,Socialdemokratiet,2
+Morsø,17,Ø. Assels,A_Niels_Kristian_Østergaard,Niels Kristian Østergaard,Socialdemokratiet,5
+Morsø,17,Ø. Assels,B_Listestemmer,Listestemmer,Radikale Venstre,0
+Morsø,17,Ø. Assels,B_Jette_Jepsen,Jette Jepsen,Radikale Venstre,9
+Morsø,17,Ø. Assels,B_Lars_Bo_Majgaard,Lars Bo Majgaard,Radikale Venstre,0
+Morsø,17,Ø. Assels,B_Gyrithe_Stilling,Gyrithe Stilling,Radikale Venstre,0
+Morsø,17,Ø. Assels,B_Bo_Fink,Bo Fink,Radikale Venstre,1
+Morsø,17,Ø. Assels,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,2
+Morsø,17,Ø. Assels,C_Thomas_Jensen,Thomas Jensen,Det Konservative Folkeparti,2
+Morsø,17,Ø. Assels,C_Henrik_Markmøller_Bro,Henrik Markmøller Bro,Det Konservative Folkeparti,1
+Morsø,17,Ø. Assels,C_Poul_Erik_Futtrup,Poul Erik Futtrup,Det Konservative Folkeparti,0
+Morsø,17,Ø. Assels,C_Jens_Peter_Zacho,Jens Peter Zacho,Det Konservative Folkeparti,0
+Morsø,17,Ø. Assels,C_Claus_S._Andersen,Claus S. Andersen,Det Konservative Folkeparti,0
+Morsø,17,Ø. Assels,C_Poul_Roesen,Poul Roesen,Det Konservative Folkeparti,4
+Morsø,17,Ø. Assels,D_Listestemmer,Listestemmer,Nye Borgerlige,4
+Morsø,17,Ø. Assels,"D_Annfinn_Halsagard,_Sejerslev","Annfinn Halsagard, Sejerslev",Nye Borgerlige,7
+Morsø,17,Ø. Assels,"D_Jens_Chr._Pedersen,_Sejerslev","Jens Chr. Pedersen, Sejerslev",Nye Borgerlige,0
+Morsø,17,Ø. Assels,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,1
+Morsø,17,Ø. Assels,"F_Viggo_Vangsgaard,_Tødsø","Viggo Vangsgaard, Tødsø",SF - Socialistisk Folkeparti,6
+Morsø,17,Ø. Assels,"F_Signe_L._Mølgaard,_Nykøbing","Signe L. Mølgaard, Nykøbing",SF - Socialistisk Folkeparti,3
+Morsø,17,Ø. Assels,"F_Jens_Peter_Madsen,_Nr._Solbjerg","Jens Peter Madsen, Nr. Solbjerg",SF - Socialistisk Folkeparti,0
+Morsø,17,Ø. Assels,"F_Vibeke_D._Rasmussen,_Nr._Solbjerg","Vibeke D. Rasmussen, Nr. Solbjerg",SF - Socialistisk Folkeparti,0
+Morsø,17,Ø. Assels,"F_Eva_Haidarz_Weiling,_Mollerup","Eva Haidarz Weiling, Mollerup",SF - Socialistisk Folkeparti,0
+Morsø,17,Ø. Assels,M_Listestemmer,Listestemmer,Demokratisk Balance,0
+Morsø,17,Ø. Assels,M_Ellen_Philipsen_Dahl,Ellen Philipsen Dahl,Demokratisk Balance,3
+Morsø,17,Ø. Assels,M_Jens_Hvid_Skouboe,Jens Hvid Skouboe,Demokratisk Balance,0
+Morsø,17,Ø. Assels,M_Anette_Jensen,Anette Jensen,Demokratisk Balance,0
+Morsø,17,Ø. Assels,O_Listestemmer,Listestemmer,Dansk Folkeparti,3
+Morsø,17,Ø. Assels,"O_Meiner_Nørgaard,_Emb","Meiner Nørgaard, Emb",Dansk Folkeparti,34
+Morsø,17,Ø. Assels,"O_Anette_Svindborg,_Ø._Jølby","Anette Svindborg, Ø. Jølby",Dansk Folkeparti,8
+Morsø,17,Ø. Assels,"O_Lars_Brian_Hovmøller,_Ørndrup","Lars Brian Hovmøller, Ørndrup",Dansk Folkeparti,3
+Morsø,17,Ø. Assels,"O_Palle_Odgaard,_Sejerslev","Palle Odgaard, Sejerslev",Dansk Folkeparti,0
+Morsø,17,Ø. Assels,"O_Kjeld_Jensen,_Nykøbing","Kjeld Jensen, Nykøbing",Dansk Folkeparti,0
+Morsø,17,Ø. Assels,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",2
+Morsø,17,Ø. Assels,V_Hans_Ejner_Bertelsen,Hans Ejner Bertelsen,"Venstre, Danmarks Liberale Parti",65
+Morsø,17,Ø. Assels,V_Charlotte_Amalie_Holm,Charlotte Amalie Holm,"Venstre, Danmarks Liberale Parti",9
+Morsø,17,Ø. Assels,V_Henning_Sørensen,Henning Sørensen,"Venstre, Danmarks Liberale Parti",2
+Morsø,17,Ø. Assels,V_Klaus_Hvidtfeldt_Larsen,Klaus Hvidtfeldt Larsen,"Venstre, Danmarks Liberale Parti",0
+Morsø,17,Ø. Assels,V_Jesper_Balle_Kristensen,Jesper Balle Kristensen,"Venstre, Danmarks Liberale Parti",55
+Morsø,17,Ø. Assels,V_Ansgar_Nygaard,Ansgar Nygaard,"Venstre, Danmarks Liberale Parti",11
+Morsø,17,Ø. Assels,V_Peter_Therkildsen,Peter Therkildsen,"Venstre, Danmarks Liberale Parti",0
+Morsø,17,Ø. Assels,V_Tage_Andersen,Tage Andersen,"Venstre, Danmarks Liberale Parti",0
+Morsø,17,Ø. Assels,V_Peter_Lillebæk,Peter Lillebæk,"Venstre, Danmarks Liberale Parti",0
+Morsø,17,Ø. Assels,V_Anja_Birch_Alsøer,Anja Birch Alsøer,"Venstre, Danmarks Liberale Parti",0
+Morsø,17,Ø. Assels,V_Hans_Henrik_Stordal_Ebbesen,Hans Henrik Stordal Ebbesen,"Venstre, Danmarks Liberale Parti",2
+Morsø,17,Ø. Assels,V_Henrik_Kristensen,Henrik Kristensen,"Venstre, Danmarks Liberale Parti",2
+Morsø,17,Ø. Assels,V_Jytte_Foldberg,Jytte Foldberg,"Venstre, Danmarks Liberale Parti",0
+Morsø,17,Ø. Assels,V_Chris_Dahl,Chris Dahl,"Venstre, Danmarks Liberale Parti",0
+Morsø,17,Ø. Assels,V_Mette_Kærgaard_Iversen,Mette Kærgaard Iversen,"Venstre, Danmarks Liberale Parti",3
+Morsø,17,Ø. Assels,V_Allan_Sørensen,Allan Sørensen,"Venstre, Danmarks Liberale Parti",0
+Morsø,17,Ø. Assels,V_Thomas_Dahlgaard,Thomas Dahlgaard,"Venstre, Danmarks Liberale Parti",2
+Morsø,17,Ø. Assels,V_Rasmus_Christensen,Rasmus Christensen,"Venstre, Danmarks Liberale Parti",0
+Morsø,17,Ø. Assels,V_Søren_Goul,Søren Goul,"Venstre, Danmarks Liberale Parti",1
+Morsø,17,Ø. Assels,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,3
+Morsø,17,Ø. Assels,Ø_Pia_Thorsen,Pia Thorsen,Enhedslisten - De Rød-Grønne,0
+Morsø,17,Ø. Assels,Ø_Poul_Sørensen,Poul Sørensen,Enhedslisten - De Rød-Grønne,1
+Morsø,17,Ø. Assels,Ø_Ingerliva_Friiø,Ingerliva Friiø,Enhedslisten - De Rød-Grønne,0
+Morsø,17,Ø. Assels,Ø_Ole_Lajgaard,Ole Lajgaard,Enhedslisten - De Rød-Grønne,0
+Morsø,17,Ø. Assels,Ø_Steen_Klærke,Steen Klærke,Enhedslisten - De Rød-Grønne,7
+Morsø,17,Ø. Assels,Ø_Kjeld_Bøcker,Kjeld Bøcker,Enhedslisten - De Rød-Grønne,0
+Morsø,17,Ø. Assels,Ø_Charlotte_Pedersen,Charlotte Pedersen,Enhedslisten - De Rød-Grønne,0
+Morsø,18,Nykøbing,A_Listestemmer,Listestemmer,Socialdemokratiet,326
+Morsø,18,Nykøbing,A_Tore_Müller,Tore Müller,Socialdemokratiet,590
+Morsø,18,Nykøbing,A_John_Christiansen,John Christiansen,Socialdemokratiet,217
+Morsø,18,Nykøbing,A_Jens_Dahlgaard,Jens Dahlgaard,Socialdemokratiet,252
+Morsø,18,Nykøbing,A_Svend_Erik_Jørgensen,Svend Erik Jørgensen,Socialdemokratiet,85
+Morsø,18,Nykøbing,A_Vagn_Kidmose,Vagn Kidmose,Socialdemokratiet,40
+Morsø,18,Nykøbing,A_Poul_Kristensen,Poul Kristensen,Socialdemokratiet,48
+Morsø,18,Nykøbing,A_Lisbeth_Svane_Kusk,Lisbeth Svane Kusk,Socialdemokratiet,44
+Morsø,18,Nykøbing,A_Max_Madsen,Max Madsen,Socialdemokratiet,65
+Morsø,18,Nykøbing,A_Lene_Leth_Poulsen,Lene Leth Poulsen,Socialdemokratiet,38
+Morsø,18,Nykøbing,A_Pia_Storm,Pia Storm,Socialdemokratiet,163
+Morsø,18,Nykøbing,A_Florina_Elena_Temes,Florina Elena Temes,Socialdemokratiet,15
+Morsø,18,Nykøbing,A_Karin_Villadsen,Karin Villadsen,Socialdemokratiet,37
+Morsø,18,Nykøbing,A_Niels_Kristian_Østergaard,Niels Kristian Østergaard,Socialdemokratiet,43
+Morsø,18,Nykøbing,B_Listestemmer,Listestemmer,Radikale Venstre,16
+Morsø,18,Nykøbing,B_Jette_Jepsen,Jette Jepsen,Radikale Venstre,81
+Morsø,18,Nykøbing,B_Lars_Bo_Majgaard,Lars Bo Majgaard,Radikale Venstre,20
+Morsø,18,Nykøbing,B_Gyrithe_Stilling,Gyrithe Stilling,Radikale Venstre,3
+Morsø,18,Nykøbing,B_Bo_Fink,Bo Fink,Radikale Venstre,5
+Morsø,18,Nykøbing,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,61
+Morsø,18,Nykøbing,C_Thomas_Jensen,Thomas Jensen,Det Konservative Folkeparti,67
+Morsø,18,Nykøbing,C_Henrik_Markmøller_Bro,Henrik Markmøller Bro,Det Konservative Folkeparti,63
+Morsø,18,Nykøbing,C_Poul_Erik_Futtrup,Poul Erik Futtrup,Det Konservative Folkeparti,2
+Morsø,18,Nykøbing,C_Jens_Peter_Zacho,Jens Peter Zacho,Det Konservative Folkeparti,12
+Morsø,18,Nykøbing,C_Claus_S._Andersen,Claus S. Andersen,Det Konservative Folkeparti,3
+Morsø,18,Nykøbing,C_Poul_Roesen,Poul Roesen,Det Konservative Folkeparti,66
+Morsø,18,Nykøbing,D_Listestemmer,Listestemmer,Nye Borgerlige,34
+Morsø,18,Nykøbing,"D_Annfinn_Halsagard,_Sejerslev","Annfinn Halsagard, Sejerslev",Nye Borgerlige,16
+Morsø,18,Nykøbing,"D_Jens_Chr._Pedersen,_Sejerslev","Jens Chr. Pedersen, Sejerslev",Nye Borgerlige,7
+Morsø,18,Nykøbing,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,23
+Morsø,18,Nykøbing,"F_Viggo_Vangsgaard,_Tødsø","Viggo Vangsgaard, Tødsø",SF - Socialistisk Folkeparti,40
+Morsø,18,Nykøbing,"F_Signe_L._Mølgaard,_Nykøbing","Signe L. Mølgaard, Nykøbing",SF - Socialistisk Folkeparti,40
+Morsø,18,Nykøbing,"F_Jens_Peter_Madsen,_Nr._Solbjerg","Jens Peter Madsen, Nr. Solbjerg",SF - Socialistisk Folkeparti,3
+Morsø,18,Nykøbing,"F_Vibeke_D._Rasmussen,_Nr._Solbjerg","Vibeke D. Rasmussen, Nr. Solbjerg",SF - Socialistisk Folkeparti,2
+Morsø,18,Nykøbing,"F_Eva_Haidarz_Weiling,_Mollerup","Eva Haidarz Weiling, Mollerup",SF - Socialistisk Folkeparti,2
+Morsø,18,Nykøbing,M_Listestemmer,Listestemmer,Demokratisk Balance,13
+Morsø,18,Nykøbing,M_Ellen_Philipsen_Dahl,Ellen Philipsen Dahl,Demokratisk Balance,152
+Morsø,18,Nykøbing,M_Jens_Hvid_Skouboe,Jens Hvid Skouboe,Demokratisk Balance,39
+Morsø,18,Nykøbing,M_Anette_Jensen,Anette Jensen,Demokratisk Balance,6
+Morsø,18,Nykøbing,O_Listestemmer,Listestemmer,Dansk Folkeparti,39
+Morsø,18,Nykøbing,"O_Meiner_Nørgaard,_Emb","Meiner Nørgaard, Emb",Dansk Folkeparti,114
+Morsø,18,Nykøbing,"O_Anette_Svindborg,_Ø._Jølby","Anette Svindborg, Ø. Jølby",Dansk Folkeparti,40
+Morsø,18,Nykøbing,"O_Lars_Brian_Hovmøller,_Ørndrup","Lars Brian Hovmøller, Ørndrup",Dansk Folkeparti,11
+Morsø,18,Nykøbing,"O_Palle_Odgaard,_Sejerslev","Palle Odgaard, Sejerslev",Dansk Folkeparti,8
+Morsø,18,Nykøbing,"O_Kjeld_Jensen,_Nykøbing","Kjeld Jensen, Nykøbing",Dansk Folkeparti,7
+Morsø,18,Nykøbing,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",119
+Morsø,18,Nykøbing,V_Hans_Ejner_Bertelsen,Hans Ejner Bertelsen,"Venstre, Danmarks Liberale Parti",1061
+Morsø,18,Nykøbing,V_Charlotte_Amalie_Holm,Charlotte Amalie Holm,"Venstre, Danmarks Liberale Parti",125
+Morsø,18,Nykøbing,V_Henning_Sørensen,Henning Sørensen,"Venstre, Danmarks Liberale Parti",154
+Morsø,18,Nykøbing,V_Klaus_Hvidtfeldt_Larsen,Klaus Hvidtfeldt Larsen,"Venstre, Danmarks Liberale Parti",66
+Morsø,18,Nykøbing,V_Jesper_Balle_Kristensen,Jesper Balle Kristensen,"Venstre, Danmarks Liberale Parti",68
+Morsø,18,Nykøbing,V_Ansgar_Nygaard,Ansgar Nygaard,"Venstre, Danmarks Liberale Parti",25
+Morsø,18,Nykøbing,V_Peter_Therkildsen,Peter Therkildsen,"Venstre, Danmarks Liberale Parti",47
+Morsø,18,Nykøbing,V_Tage_Andersen,Tage Andersen,"Venstre, Danmarks Liberale Parti",17
+Morsø,18,Nykøbing,V_Peter_Lillebæk,Peter Lillebæk,"Venstre, Danmarks Liberale Parti",138
+Morsø,18,Nykøbing,V_Anja_Birch_Alsøer,Anja Birch Alsøer,"Venstre, Danmarks Liberale Parti",44
+Morsø,18,Nykøbing,V_Hans_Henrik_Stordal_Ebbesen,Hans Henrik Stordal Ebbesen,"Venstre, Danmarks Liberale Parti",35
+Morsø,18,Nykøbing,V_Henrik_Kristensen,Henrik Kristensen,"Venstre, Danmarks Liberale Parti",40
+Morsø,18,Nykøbing,V_Jytte_Foldberg,Jytte Foldberg,"Venstre, Danmarks Liberale Parti",42
+Morsø,18,Nykøbing,V_Chris_Dahl,Chris Dahl,"Venstre, Danmarks Liberale Parti",25
+Morsø,18,Nykøbing,V_Mette_Kærgaard_Iversen,Mette Kærgaard Iversen,"Venstre, Danmarks Liberale Parti",26
+Morsø,18,Nykøbing,V_Allan_Sørensen,Allan Sørensen,"Venstre, Danmarks Liberale Parti",2
+Morsø,18,Nykøbing,V_Thomas_Dahlgaard,Thomas Dahlgaard,"Venstre, Danmarks Liberale Parti",9
+Morsø,18,Nykøbing,V_Rasmus_Christensen,Rasmus Christensen,"Venstre, Danmarks Liberale Parti",13
+Morsø,18,Nykøbing,V_Søren_Goul,Søren Goul,"Venstre, Danmarks Liberale Parti",12
+Morsø,18,Nykøbing,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,58
+Morsø,18,Nykøbing,Ø_Pia_Thorsen,Pia Thorsen,Enhedslisten - De Rød-Grønne,78
+Morsø,18,Nykøbing,Ø_Poul_Sørensen,Poul Sørensen,Enhedslisten - De Rød-Grønne,9
+Morsø,18,Nykøbing,Ø_Ingerliva_Friiø,Ingerliva Friiø,Enhedslisten - De Rød-Grønne,2
+Morsø,18,Nykøbing,Ø_Ole_Lajgaard,Ole Lajgaard,Enhedslisten - De Rød-Grønne,3
+Morsø,18,Nykøbing,Ø_Steen_Klærke,Steen Klærke,Enhedslisten - De Rød-Grønne,7
+Morsø,18,Nykøbing,Ø_Kjeld_Bøcker,Kjeld Bøcker,Enhedslisten - De Rød-Grønne,1
+Morsø,18,Nykøbing,Ø_Charlotte_Pedersen,Charlotte Pedersen,Enhedslisten - De Rød-Grønne,1

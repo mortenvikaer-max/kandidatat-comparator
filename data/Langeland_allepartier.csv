@@ -1,0 +1,441 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Langeland,1,Bagenkop,A_Listestemmer,Listestemmer,Socialdemokratiet,13
+Langeland,1,Bagenkop,A_René_Larsen,René Larsen,Socialdemokratiet,13
+Langeland,1,Bagenkop,A_Joan_Kate_Pedersen,Joan Kate Pedersen,Socialdemokratiet,5
+Langeland,1,Bagenkop,A_Ole_Sørensen,Ole Sørensen,Socialdemokratiet,18
+Langeland,1,Bagenkop,A_Lisa_Pihl_Jensen,Lisa Pihl Jensen,Socialdemokratiet,9
+Langeland,1,Bagenkop,A_Tina_Juul_Pedersen,Tina Juul Pedersen,Socialdemokratiet,2
+Langeland,1,Bagenkop,A_Britt_Norre,Britt Norre,Socialdemokratiet,1
+Langeland,1,Bagenkop,A_Preben_Jørgensen,Preben Jørgensen,Socialdemokratiet,0
+Langeland,1,Bagenkop,A_Arno_Kruse,Arno Kruse,Socialdemokratiet,4
+Langeland,1,Bagenkop,B_Listestemmer,Listestemmer,Radikale Venstre,2
+Langeland,1,Bagenkop,"B_Søren_Ramsing,_Lohals","Søren Ramsing, Lohals",Radikale Venstre,9
+Langeland,1,Bagenkop,"B_Agnete_Fog,_Strandby","Agnete Fog, Strandby",Radikale Venstre,6
+Langeland,1,Bagenkop,"B_Per_Kjær,_Bagenkop","Per Kjær, Bagenkop",Radikale Venstre,5
+Langeland,1,Bagenkop,"B_Anne_Mette_Wandsøe,_Rudkøbing","Anne Mette Wandsøe, Rudkøbing",Radikale Venstre,1
+Langeland,1,Bagenkop,"B_HC_Rasmussen,_Ennebølle","HC Rasmussen, Ennebølle",Radikale Venstre,0
+Langeland,1,Bagenkop,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,2
+Langeland,1,Bagenkop,"C_Jørgen_Nielsen,_Rudkøbing","Jørgen Nielsen, Rudkøbing",Det Konservative Folkeparti,23
+Langeland,1,Bagenkop,"C_Bo_C._Nissen,_Tranekær","Bo C. Nissen, Tranekær",Det Konservative Folkeparti,4
+Langeland,1,Bagenkop,"C_Steen_Have_Otterstrøm,_Bagenkop","Steen Have Otterstrøm, Bagenkop",Det Konservative Folkeparti,10
+Langeland,1,Bagenkop,"C_Christian_Stenberg,_Tullebølle","Christian Stenberg, Tullebølle",Det Konservative Folkeparti,0
+Langeland,1,Bagenkop,"C_Casper_Fink,_Rudkøbing","Casper Fink, Rudkøbing",Det Konservative Folkeparti,3
+Langeland,1,Bagenkop,D_Listestemmer,Listestemmer,Nye Borgerlige,2
+Langeland,1,Bagenkop,"D_Lisbeth_Kold,_Skrøbelev","Lisbeth Kold, Skrøbelev",Nye Borgerlige,8
+Langeland,1,Bagenkop,"D_Karsten_Thomsen,_Bøstrup","Karsten Thomsen, Bøstrup",Nye Borgerlige,1
+Langeland,1,Bagenkop,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,14
+Langeland,1,Bagenkop,"F_Tonni_Hansen,_Rudkøbing","Tonni Hansen, Rudkøbing",SF - Socialistisk Folkeparti,121
+Langeland,1,Bagenkop,"F_Winni_Kielstrup_Hansen,_Rudkøbing","Winni Kielstrup Hansen, Rudkøbing",SF - Socialistisk Folkeparti,7
+Langeland,1,Bagenkop,"F_Nynne_Printz,_Tullebølle","Nynne Printz, Tullebølle",SF - Socialistisk Folkeparti,1
+Langeland,1,Bagenkop,"F_Flemming_Neperus,_Rudkøbing","Flemming Neperus, Rudkøbing",SF - Socialistisk Folkeparti,2
+Langeland,1,Bagenkop,"F_Gert_Rosing,_Tranekær","Gert Rosing, Tranekær",SF - Socialistisk Folkeparti,0
+Langeland,1,Bagenkop,"F_Freddy_Knecht,_Humble","Freddy Knecht, Humble",SF - Socialistisk Folkeparti,2
+Langeland,1,Bagenkop,"F_Erik_Hye_Jørgensen,_Peløkke","Erik Hye Jørgensen, Peløkke",SF - Socialistisk Folkeparti,5
+Langeland,1,Bagenkop,"F_Tonny_Gjersen,_Nordenbro","Tonny Gjersen, Nordenbro",SF - Socialistisk Folkeparti,2
+Langeland,1,Bagenkop,"F_Ulrik_Pihl,_Magleby","Ulrik Pihl, Magleby",SF - Socialistisk Folkeparti,14
+Langeland,1,Bagenkop,O_Listestemmer,Listestemmer,Dansk Folkeparti,6
+Langeland,1,Bagenkop,O_Kim_Brammer_Welcher,Kim Brammer Welcher,Dansk Folkeparti,6
+Langeland,1,Bagenkop,O_Lars_Sørensen,Lars Sørensen,Dansk Folkeparti,4
+Langeland,1,Bagenkop,O_Sandra_Schmidt,Sandra Schmidt,Dansk Folkeparti,7
+Langeland,1,Bagenkop,O_Poul_Poulsen,Poul Poulsen,Dansk Folkeparti,2
+Langeland,1,Bagenkop,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",11
+Langeland,1,Bagenkop,"V_Peder_Hansen,_Snøde","Peder Hansen, Snøde","Venstre, Danmarks Liberale Parti",29
+Langeland,1,Bagenkop,"V_Karina_Jørgensen,_Rudkøbing","Karina Jørgensen, Rudkøbing","Venstre, Danmarks Liberale Parti",5
+Langeland,1,Bagenkop,"V_Brian_Dalsgaard,_Humble","Brian Dalsgaard, Humble","Venstre, Danmarks Liberale Parti",17
+Langeland,1,Bagenkop,"V_Leif_Nørgaard,_Rudkøbing","Leif Nørgaard, Rudkøbing","Venstre, Danmarks Liberale Parti",0
+Langeland,1,Bagenkop,"V_Henrik_Pertl,_Helletofte","Henrik Pertl, Helletofte","Venstre, Danmarks Liberale Parti",1
+Langeland,1,Bagenkop,"V_Britta_Andersen,_Tryggelev","Britta Andersen, Tryggelev","Venstre, Danmarks Liberale Parti",21
+Langeland,1,Bagenkop,"V_Jan_Ole_Jakobsen,_Tullebølle","Jan Ole Jakobsen, Tullebølle","Venstre, Danmarks Liberale Parti",1
+Langeland,1,Bagenkop,"V_Ulrik_Kølle_Hansen,_Bagenkop","Ulrik Kølle Hansen, Bagenkop","Venstre, Danmarks Liberale Parti",138
+Langeland,1,Bagenkop,"V_Jesper_Skovhus,_Rudkøbing","Jesper Skovhus, Rudkøbing","Venstre, Danmarks Liberale Parti",20
+Langeland,1,Bagenkop,"V_Palle_Lindegaard,_Lejbølle","Palle Lindegaard, Lejbølle","Venstre, Danmarks Liberale Parti",0
+Langeland,1,Bagenkop,"V_Niels_Grønnegaard,_Stengade","Niels Grønnegaard, Stengade","Venstre, Danmarks Liberale Parti",1
+Langeland,1,Bagenkop,"V_Lars_Christian_Prytz,_Tranekær","Lars Christian Prytz, Tranekær","Venstre, Danmarks Liberale Parti",1
+Langeland,1,Bagenkop,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,5
+Langeland,1,Bagenkop,"Ø_Tommy_Bredal_Storgaard,_Rudkøbing","Tommy Bredal Storgaard, Rudkøbing",Enhedslisten - De Rød-Grønne,4
+Langeland,1,Bagenkop,"Ø_Michael_Martin_Jensen,_Tranekær","Michael Martin Jensen, Tranekær",Enhedslisten - De Rød-Grønne,1
+Langeland,2,Humble,A_Listestemmer,Listestemmer,Socialdemokratiet,31
+Langeland,2,Humble,A_René_Larsen,René Larsen,Socialdemokratiet,20
+Langeland,2,Humble,A_Joan_Kate_Pedersen,Joan Kate Pedersen,Socialdemokratiet,14
+Langeland,2,Humble,A_Ole_Sørensen,Ole Sørensen,Socialdemokratiet,34
+Langeland,2,Humble,A_Lisa_Pihl_Jensen,Lisa Pihl Jensen,Socialdemokratiet,24
+Langeland,2,Humble,A_Tina_Juul_Pedersen,Tina Juul Pedersen,Socialdemokratiet,3
+Langeland,2,Humble,A_Britt_Norre,Britt Norre,Socialdemokratiet,5
+Langeland,2,Humble,A_Preben_Jørgensen,Preben Jørgensen,Socialdemokratiet,0
+Langeland,2,Humble,A_Arno_Kruse,Arno Kruse,Socialdemokratiet,3
+Langeland,2,Humble,B_Listestemmer,Listestemmer,Radikale Venstre,4
+Langeland,2,Humble,"B_Søren_Ramsing,_Lohals","Søren Ramsing, Lohals",Radikale Venstre,21
+Langeland,2,Humble,"B_Agnete_Fog,_Strandby","Agnete Fog, Strandby",Radikale Venstre,0
+Langeland,2,Humble,"B_Per_Kjær,_Bagenkop","Per Kjær, Bagenkop",Radikale Venstre,5
+Langeland,2,Humble,"B_Anne_Mette_Wandsøe,_Rudkøbing","Anne Mette Wandsøe, Rudkøbing",Radikale Venstre,0
+Langeland,2,Humble,"B_HC_Rasmussen,_Ennebølle","HC Rasmussen, Ennebølle",Radikale Venstre,0
+Langeland,2,Humble,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,17
+Langeland,2,Humble,"C_Jørgen_Nielsen,_Rudkøbing","Jørgen Nielsen, Rudkøbing",Det Konservative Folkeparti,48
+Langeland,2,Humble,"C_Bo_C._Nissen,_Tranekær","Bo C. Nissen, Tranekær",Det Konservative Folkeparti,6
+Langeland,2,Humble,"C_Steen_Have_Otterstrøm,_Bagenkop","Steen Have Otterstrøm, Bagenkop",Det Konservative Folkeparti,3
+Langeland,2,Humble,"C_Christian_Stenberg,_Tullebølle","Christian Stenberg, Tullebølle",Det Konservative Folkeparti,4
+Langeland,2,Humble,"C_Casper_Fink,_Rudkøbing","Casper Fink, Rudkøbing",Det Konservative Folkeparti,2
+Langeland,2,Humble,D_Listestemmer,Listestemmer,Nye Borgerlige,6
+Langeland,2,Humble,"D_Lisbeth_Kold,_Skrøbelev","Lisbeth Kold, Skrøbelev",Nye Borgerlige,23
+Langeland,2,Humble,"D_Karsten_Thomsen,_Bøstrup","Karsten Thomsen, Bøstrup",Nye Borgerlige,1
+Langeland,2,Humble,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,29
+Langeland,2,Humble,"F_Tonni_Hansen,_Rudkøbing","Tonni Hansen, Rudkøbing",SF - Socialistisk Folkeparti,194
+Langeland,2,Humble,"F_Winni_Kielstrup_Hansen,_Rudkøbing","Winni Kielstrup Hansen, Rudkøbing",SF - Socialistisk Folkeparti,15
+Langeland,2,Humble,"F_Nynne_Printz,_Tullebølle","Nynne Printz, Tullebølle",SF - Socialistisk Folkeparti,9
+Langeland,2,Humble,"F_Flemming_Neperus,_Rudkøbing","Flemming Neperus, Rudkøbing",SF - Socialistisk Folkeparti,2
+Langeland,2,Humble,"F_Gert_Rosing,_Tranekær","Gert Rosing, Tranekær",SF - Socialistisk Folkeparti,2
+Langeland,2,Humble,"F_Freddy_Knecht,_Humble","Freddy Knecht, Humble",SF - Socialistisk Folkeparti,10
+Langeland,2,Humble,"F_Erik_Hye_Jørgensen,_Peløkke","Erik Hye Jørgensen, Peløkke",SF - Socialistisk Folkeparti,4
+Langeland,2,Humble,"F_Tonny_Gjersen,_Nordenbro","Tonny Gjersen, Nordenbro",SF - Socialistisk Folkeparti,7
+Langeland,2,Humble,"F_Ulrik_Pihl,_Magleby","Ulrik Pihl, Magleby",SF - Socialistisk Folkeparti,18
+Langeland,2,Humble,O_Listestemmer,Listestemmer,Dansk Folkeparti,14
+Langeland,2,Humble,O_Kim_Brammer_Welcher,Kim Brammer Welcher,Dansk Folkeparti,17
+Langeland,2,Humble,O_Lars_Sørensen,Lars Sørensen,Dansk Folkeparti,1
+Langeland,2,Humble,O_Sandra_Schmidt,Sandra Schmidt,Dansk Folkeparti,19
+Langeland,2,Humble,O_Poul_Poulsen,Poul Poulsen,Dansk Folkeparti,6
+Langeland,2,Humble,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",28
+Langeland,2,Humble,"V_Peder_Hansen,_Snøde","Peder Hansen, Snøde","Venstre, Danmarks Liberale Parti",61
+Langeland,2,Humble,"V_Karina_Jørgensen,_Rudkøbing","Karina Jørgensen, Rudkøbing","Venstre, Danmarks Liberale Parti",12
+Langeland,2,Humble,"V_Brian_Dalsgaard,_Humble","Brian Dalsgaard, Humble","Venstre, Danmarks Liberale Parti",86
+Langeland,2,Humble,"V_Leif_Nørgaard,_Rudkøbing","Leif Nørgaard, Rudkøbing","Venstre, Danmarks Liberale Parti",4
+Langeland,2,Humble,"V_Henrik_Pertl,_Helletofte","Henrik Pertl, Helletofte","Venstre, Danmarks Liberale Parti",2
+Langeland,2,Humble,"V_Britta_Andersen,_Tryggelev","Britta Andersen, Tryggelev","Venstre, Danmarks Liberale Parti",53
+Langeland,2,Humble,"V_Jan_Ole_Jakobsen,_Tullebølle","Jan Ole Jakobsen, Tullebølle","Venstre, Danmarks Liberale Parti",1
+Langeland,2,Humble,"V_Ulrik_Kølle_Hansen,_Bagenkop","Ulrik Kølle Hansen, Bagenkop","Venstre, Danmarks Liberale Parti",62
+Langeland,2,Humble,"V_Jesper_Skovhus,_Rudkøbing","Jesper Skovhus, Rudkøbing","Venstre, Danmarks Liberale Parti",21
+Langeland,2,Humble,"V_Palle_Lindegaard,_Lejbølle","Palle Lindegaard, Lejbølle","Venstre, Danmarks Liberale Parti",0
+Langeland,2,Humble,"V_Niels_Grønnegaard,_Stengade","Niels Grønnegaard, Stengade","Venstre, Danmarks Liberale Parti",2
+Langeland,2,Humble,"V_Lars_Christian_Prytz,_Tranekær","Lars Christian Prytz, Tranekær","Venstre, Danmarks Liberale Parti",4
+Langeland,2,Humble,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,6
+Langeland,2,Humble,"Ø_Tommy_Bredal_Storgaard,_Rudkøbing","Tommy Bredal Storgaard, Rudkøbing",Enhedslisten - De Rød-Grønne,7
+Langeland,2,Humble,"Ø_Michael_Martin_Jensen,_Tranekær","Michael Martin Jensen, Tranekær",Enhedslisten - De Rød-Grønne,2
+Langeland,3,Lindelse,A_Listestemmer,Listestemmer,Socialdemokratiet,16
+Langeland,3,Lindelse,A_René_Larsen,René Larsen,Socialdemokratiet,16
+Langeland,3,Lindelse,A_Joan_Kate_Pedersen,Joan Kate Pedersen,Socialdemokratiet,11
+Langeland,3,Lindelse,A_Ole_Sørensen,Ole Sørensen,Socialdemokratiet,26
+Langeland,3,Lindelse,A_Lisa_Pihl_Jensen,Lisa Pihl Jensen,Socialdemokratiet,20
+Langeland,3,Lindelse,A_Tina_Juul_Pedersen,Tina Juul Pedersen,Socialdemokratiet,2
+Langeland,3,Lindelse,A_Britt_Norre,Britt Norre,Socialdemokratiet,1
+Langeland,3,Lindelse,A_Preben_Jørgensen,Preben Jørgensen,Socialdemokratiet,4
+Langeland,3,Lindelse,A_Arno_Kruse,Arno Kruse,Socialdemokratiet,4
+Langeland,3,Lindelse,B_Listestemmer,Listestemmer,Radikale Venstre,3
+Langeland,3,Lindelse,"B_Søren_Ramsing,_Lohals","Søren Ramsing, Lohals",Radikale Venstre,14
+Langeland,3,Lindelse,"B_Agnete_Fog,_Strandby","Agnete Fog, Strandby",Radikale Venstre,4
+Langeland,3,Lindelse,"B_Per_Kjær,_Bagenkop","Per Kjær, Bagenkop",Radikale Venstre,1
+Langeland,3,Lindelse,"B_Anne_Mette_Wandsøe,_Rudkøbing","Anne Mette Wandsøe, Rudkøbing",Radikale Venstre,1
+Langeland,3,Lindelse,"B_HC_Rasmussen,_Ennebølle","HC Rasmussen, Ennebølle",Radikale Venstre,3
+Langeland,3,Lindelse,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,5
+Langeland,3,Lindelse,"C_Jørgen_Nielsen,_Rudkøbing","Jørgen Nielsen, Rudkøbing",Det Konservative Folkeparti,33
+Langeland,3,Lindelse,"C_Bo_C._Nissen,_Tranekær","Bo C. Nissen, Tranekær",Det Konservative Folkeparti,12
+Langeland,3,Lindelse,"C_Steen_Have_Otterstrøm,_Bagenkop","Steen Have Otterstrøm, Bagenkop",Det Konservative Folkeparti,0
+Langeland,3,Lindelse,"C_Christian_Stenberg,_Tullebølle","Christian Stenberg, Tullebølle",Det Konservative Folkeparti,1
+Langeland,3,Lindelse,"C_Casper_Fink,_Rudkøbing","Casper Fink, Rudkøbing",Det Konservative Folkeparti,2
+Langeland,3,Lindelse,D_Listestemmer,Listestemmer,Nye Borgerlige,2
+Langeland,3,Lindelse,"D_Lisbeth_Kold,_Skrøbelev","Lisbeth Kold, Skrøbelev",Nye Borgerlige,15
+Langeland,3,Lindelse,"D_Karsten_Thomsen,_Bøstrup","Karsten Thomsen, Bøstrup",Nye Borgerlige,2
+Langeland,3,Lindelse,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,9
+Langeland,3,Lindelse,"F_Tonni_Hansen,_Rudkøbing","Tonni Hansen, Rudkøbing",SF - Socialistisk Folkeparti,141
+Langeland,3,Lindelse,"F_Winni_Kielstrup_Hansen,_Rudkøbing","Winni Kielstrup Hansen, Rudkøbing",SF - Socialistisk Folkeparti,7
+Langeland,3,Lindelse,"F_Nynne_Printz,_Tullebølle","Nynne Printz, Tullebølle",SF - Socialistisk Folkeparti,5
+Langeland,3,Lindelse,"F_Flemming_Neperus,_Rudkøbing","Flemming Neperus, Rudkøbing",SF - Socialistisk Folkeparti,4
+Langeland,3,Lindelse,"F_Gert_Rosing,_Tranekær","Gert Rosing, Tranekær",SF - Socialistisk Folkeparti,0
+Langeland,3,Lindelse,"F_Freddy_Knecht,_Humble","Freddy Knecht, Humble",SF - Socialistisk Folkeparti,1
+Langeland,3,Lindelse,"F_Erik_Hye_Jørgensen,_Peløkke","Erik Hye Jørgensen, Peløkke",SF - Socialistisk Folkeparti,4
+Langeland,3,Lindelse,"F_Tonny_Gjersen,_Nordenbro","Tonny Gjersen, Nordenbro",SF - Socialistisk Folkeparti,0
+Langeland,3,Lindelse,"F_Ulrik_Pihl,_Magleby","Ulrik Pihl, Magleby",SF - Socialistisk Folkeparti,8
+Langeland,3,Lindelse,O_Listestemmer,Listestemmer,Dansk Folkeparti,6
+Langeland,3,Lindelse,O_Kim_Brammer_Welcher,Kim Brammer Welcher,Dansk Folkeparti,8
+Langeland,3,Lindelse,O_Lars_Sørensen,Lars Sørensen,Dansk Folkeparti,0
+Langeland,3,Lindelse,O_Sandra_Schmidt,Sandra Schmidt,Dansk Folkeparti,10
+Langeland,3,Lindelse,O_Poul_Poulsen,Poul Poulsen,Dansk Folkeparti,0
+Langeland,3,Lindelse,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",27
+Langeland,3,Lindelse,"V_Peder_Hansen,_Snøde","Peder Hansen, Snøde","Venstre, Danmarks Liberale Parti",62
+Langeland,3,Lindelse,"V_Karina_Jørgensen,_Rudkøbing","Karina Jørgensen, Rudkøbing","Venstre, Danmarks Liberale Parti",20
+Langeland,3,Lindelse,"V_Brian_Dalsgaard,_Humble","Brian Dalsgaard, Humble","Venstre, Danmarks Liberale Parti",21
+Langeland,3,Lindelse,"V_Leif_Nørgaard,_Rudkøbing","Leif Nørgaard, Rudkøbing","Venstre, Danmarks Liberale Parti",3
+Langeland,3,Lindelse,"V_Henrik_Pertl,_Helletofte","Henrik Pertl, Helletofte","Venstre, Danmarks Liberale Parti",3
+Langeland,3,Lindelse,"V_Britta_Andersen,_Tryggelev","Britta Andersen, Tryggelev","Venstre, Danmarks Liberale Parti",12
+Langeland,3,Lindelse,"V_Jan_Ole_Jakobsen,_Tullebølle","Jan Ole Jakobsen, Tullebølle","Venstre, Danmarks Liberale Parti",2
+Langeland,3,Lindelse,"V_Ulrik_Kølle_Hansen,_Bagenkop","Ulrik Kølle Hansen, Bagenkop","Venstre, Danmarks Liberale Parti",36
+Langeland,3,Lindelse,"V_Jesper_Skovhus,_Rudkøbing","Jesper Skovhus, Rudkøbing","Venstre, Danmarks Liberale Parti",29
+Langeland,3,Lindelse,"V_Palle_Lindegaard,_Lejbølle","Palle Lindegaard, Lejbølle","Venstre, Danmarks Liberale Parti",0
+Langeland,3,Lindelse,"V_Niels_Grønnegaard,_Stengade","Niels Grønnegaard, Stengade","Venstre, Danmarks Liberale Parti",3
+Langeland,3,Lindelse,"V_Lars_Christian_Prytz,_Tranekær","Lars Christian Prytz, Tranekær","Venstre, Danmarks Liberale Parti",8
+Langeland,3,Lindelse,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,7
+Langeland,3,Lindelse,"Ø_Tommy_Bredal_Storgaard,_Rudkøbing","Tommy Bredal Storgaard, Rudkøbing",Enhedslisten - De Rød-Grønne,6
+Langeland,3,Lindelse,"Ø_Michael_Martin_Jensen,_Tranekær","Michael Martin Jensen, Tranekær",Enhedslisten - De Rød-Grønne,0
+Langeland,5,Rudkøbing,A_Listestemmer,Listestemmer,Socialdemokratiet,74
+Langeland,5,Rudkøbing,A_René_Larsen,René Larsen,Socialdemokratiet,132
+Langeland,5,Rudkøbing,A_Joan_Kate_Pedersen,Joan Kate Pedersen,Socialdemokratiet,75
+Langeland,5,Rudkøbing,A_Ole_Sørensen,Ole Sørensen,Socialdemokratiet,81
+Langeland,5,Rudkøbing,A_Lisa_Pihl_Jensen,Lisa Pihl Jensen,Socialdemokratiet,34
+Langeland,5,Rudkøbing,A_Tina_Juul_Pedersen,Tina Juul Pedersen,Socialdemokratiet,31
+Langeland,5,Rudkøbing,A_Britt_Norre,Britt Norre,Socialdemokratiet,1
+Langeland,5,Rudkøbing,A_Preben_Jørgensen,Preben Jørgensen,Socialdemokratiet,10
+Langeland,5,Rudkøbing,A_Arno_Kruse,Arno Kruse,Socialdemokratiet,20
+Langeland,5,Rudkøbing,B_Listestemmer,Listestemmer,Radikale Venstre,14
+Langeland,5,Rudkøbing,"B_Søren_Ramsing,_Lohals","Søren Ramsing, Lohals",Radikale Venstre,69
+Langeland,5,Rudkøbing,"B_Agnete_Fog,_Strandby","Agnete Fog, Strandby",Radikale Venstre,15
+Langeland,5,Rudkøbing,"B_Per_Kjær,_Bagenkop","Per Kjær, Bagenkop",Radikale Venstre,4
+Langeland,5,Rudkøbing,"B_Anne_Mette_Wandsøe,_Rudkøbing","Anne Mette Wandsøe, Rudkøbing",Radikale Venstre,7
+Langeland,5,Rudkøbing,"B_HC_Rasmussen,_Ennebølle","HC Rasmussen, Ennebølle",Radikale Venstre,8
+Langeland,5,Rudkøbing,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,31
+Langeland,5,Rudkøbing,"C_Jørgen_Nielsen,_Rudkøbing","Jørgen Nielsen, Rudkøbing",Det Konservative Folkeparti,254
+Langeland,5,Rudkøbing,"C_Bo_C._Nissen,_Tranekær","Bo C. Nissen, Tranekær",Det Konservative Folkeparti,35
+Langeland,5,Rudkøbing,"C_Steen_Have_Otterstrøm,_Bagenkop","Steen Have Otterstrøm, Bagenkop",Det Konservative Folkeparti,4
+Langeland,5,Rudkøbing,"C_Christian_Stenberg,_Tullebølle","Christian Stenberg, Tullebølle",Det Konservative Folkeparti,7
+Langeland,5,Rudkøbing,"C_Casper_Fink,_Rudkøbing","Casper Fink, Rudkøbing",Det Konservative Folkeparti,4
+Langeland,5,Rudkøbing,D_Listestemmer,Listestemmer,Nye Borgerlige,12
+Langeland,5,Rudkøbing,"D_Lisbeth_Kold,_Skrøbelev","Lisbeth Kold, Skrøbelev",Nye Borgerlige,56
+Langeland,5,Rudkøbing,"D_Karsten_Thomsen,_Bøstrup","Karsten Thomsen, Bøstrup",Nye Borgerlige,5
+Langeland,5,Rudkøbing,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,80
+Langeland,5,Rudkøbing,"F_Tonni_Hansen,_Rudkøbing","Tonni Hansen, Rudkøbing",SF - Socialistisk Folkeparti,901
+Langeland,5,Rudkøbing,"F_Winni_Kielstrup_Hansen,_Rudkøbing","Winni Kielstrup Hansen, Rudkøbing",SF - Socialistisk Folkeparti,98
+Langeland,5,Rudkøbing,"F_Nynne_Printz,_Tullebølle","Nynne Printz, Tullebølle",SF - Socialistisk Folkeparti,11
+Langeland,5,Rudkøbing,"F_Flemming_Neperus,_Rudkøbing","Flemming Neperus, Rudkøbing",SF - Socialistisk Folkeparti,28
+Langeland,5,Rudkøbing,"F_Gert_Rosing,_Tranekær","Gert Rosing, Tranekær",SF - Socialistisk Folkeparti,5
+Langeland,5,Rudkøbing,"F_Freddy_Knecht,_Humble","Freddy Knecht, Humble",SF - Socialistisk Folkeparti,9
+Langeland,5,Rudkøbing,"F_Erik_Hye_Jørgensen,_Peløkke","Erik Hye Jørgensen, Peløkke",SF - Socialistisk Folkeparti,54
+Langeland,5,Rudkøbing,"F_Tonny_Gjersen,_Nordenbro","Tonny Gjersen, Nordenbro",SF - Socialistisk Folkeparti,3
+Langeland,5,Rudkøbing,"F_Ulrik_Pihl,_Magleby","Ulrik Pihl, Magleby",SF - Socialistisk Folkeparti,21
+Langeland,5,Rudkøbing,O_Listestemmer,Listestemmer,Dansk Folkeparti,26
+Langeland,5,Rudkøbing,O_Kim_Brammer_Welcher,Kim Brammer Welcher,Dansk Folkeparti,23
+Langeland,5,Rudkøbing,O_Lars_Sørensen,Lars Sørensen,Dansk Folkeparti,7
+Langeland,5,Rudkøbing,O_Sandra_Schmidt,Sandra Schmidt,Dansk Folkeparti,20
+Langeland,5,Rudkøbing,O_Poul_Poulsen,Poul Poulsen,Dansk Folkeparti,3
+Langeland,5,Rudkøbing,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",58
+Langeland,5,Rudkøbing,"V_Peder_Hansen,_Snøde","Peder Hansen, Snøde","Venstre, Danmarks Liberale Parti",261
+Langeland,5,Rudkøbing,"V_Karina_Jørgensen,_Rudkøbing","Karina Jørgensen, Rudkøbing","Venstre, Danmarks Liberale Parti",94
+Langeland,5,Rudkøbing,"V_Brian_Dalsgaard,_Humble","Brian Dalsgaard, Humble","Venstre, Danmarks Liberale Parti",23
+Langeland,5,Rudkøbing,"V_Leif_Nørgaard,_Rudkøbing","Leif Nørgaard, Rudkøbing","Venstre, Danmarks Liberale Parti",66
+Langeland,5,Rudkøbing,"V_Henrik_Pertl,_Helletofte","Henrik Pertl, Helletofte","Venstre, Danmarks Liberale Parti",24
+Langeland,5,Rudkøbing,"V_Britta_Andersen,_Tryggelev","Britta Andersen, Tryggelev","Venstre, Danmarks Liberale Parti",12
+Langeland,5,Rudkøbing,"V_Jan_Ole_Jakobsen,_Tullebølle","Jan Ole Jakobsen, Tullebølle","Venstre, Danmarks Liberale Parti",16
+Langeland,5,Rudkøbing,"V_Ulrik_Kølle_Hansen,_Bagenkop","Ulrik Kølle Hansen, Bagenkop","Venstre, Danmarks Liberale Parti",136
+Langeland,5,Rudkøbing,"V_Jesper_Skovhus,_Rudkøbing","Jesper Skovhus, Rudkøbing","Venstre, Danmarks Liberale Parti",68
+Langeland,5,Rudkøbing,"V_Palle_Lindegaard,_Lejbølle","Palle Lindegaard, Lejbølle","Venstre, Danmarks Liberale Parti",0
+Langeland,5,Rudkøbing,"V_Niels_Grønnegaard,_Stengade","Niels Grønnegaard, Stengade","Venstre, Danmarks Liberale Parti",6
+Langeland,5,Rudkøbing,"V_Lars_Christian_Prytz,_Tranekær","Lars Christian Prytz, Tranekær","Venstre, Danmarks Liberale Parti",8
+Langeland,5,Rudkøbing,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,27
+Langeland,5,Rudkøbing,"Ø_Tommy_Bredal_Storgaard,_Rudkøbing","Tommy Bredal Storgaard, Rudkøbing",Enhedslisten - De Rød-Grønne,37
+Langeland,5,Rudkøbing,"Ø_Michael_Martin_Jensen,_Tranekær","Michael Martin Jensen, Tranekær",Enhedslisten - De Rød-Grønne,8
+Langeland,6,Strynø,A_Listestemmer,Listestemmer,Socialdemokratiet,3
+Langeland,6,Strynø,A_René_Larsen,René Larsen,Socialdemokratiet,15
+Langeland,6,Strynø,A_Joan_Kate_Pedersen,Joan Kate Pedersen,Socialdemokratiet,2
+Langeland,6,Strynø,A_Ole_Sørensen,Ole Sørensen,Socialdemokratiet,2
+Langeland,6,Strynø,A_Lisa_Pihl_Jensen,Lisa Pihl Jensen,Socialdemokratiet,1
+Langeland,6,Strynø,A_Tina_Juul_Pedersen,Tina Juul Pedersen,Socialdemokratiet,1
+Langeland,6,Strynø,A_Britt_Norre,Britt Norre,Socialdemokratiet,0
+Langeland,6,Strynø,A_Preben_Jørgensen,Preben Jørgensen,Socialdemokratiet,0
+Langeland,6,Strynø,A_Arno_Kruse,Arno Kruse,Socialdemokratiet,1
+Langeland,6,Strynø,B_Listestemmer,Listestemmer,Radikale Venstre,0
+Langeland,6,Strynø,"B_Søren_Ramsing,_Lohals","Søren Ramsing, Lohals",Radikale Venstre,2
+Langeland,6,Strynø,"B_Agnete_Fog,_Strandby","Agnete Fog, Strandby",Radikale Venstre,2
+Langeland,6,Strynø,"B_Per_Kjær,_Bagenkop","Per Kjær, Bagenkop",Radikale Venstre,0
+Langeland,6,Strynø,"B_Anne_Mette_Wandsøe,_Rudkøbing","Anne Mette Wandsøe, Rudkøbing",Radikale Venstre,0
+Langeland,6,Strynø,"B_HC_Rasmussen,_Ennebølle","HC Rasmussen, Ennebølle",Radikale Venstre,1
+Langeland,6,Strynø,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,3
+Langeland,6,Strynø,"C_Jørgen_Nielsen,_Rudkøbing","Jørgen Nielsen, Rudkøbing",Det Konservative Folkeparti,3
+Langeland,6,Strynø,"C_Bo_C._Nissen,_Tranekær","Bo C. Nissen, Tranekær",Det Konservative Folkeparti,4
+Langeland,6,Strynø,"C_Steen_Have_Otterstrøm,_Bagenkop","Steen Have Otterstrøm, Bagenkop",Det Konservative Folkeparti,1
+Langeland,6,Strynø,"C_Christian_Stenberg,_Tullebølle","Christian Stenberg, Tullebølle",Det Konservative Folkeparti,0
+Langeland,6,Strynø,"C_Casper_Fink,_Rudkøbing","Casper Fink, Rudkøbing",Det Konservative Folkeparti,2
+Langeland,6,Strynø,D_Listestemmer,Listestemmer,Nye Borgerlige,0
+Langeland,6,Strynø,"D_Lisbeth_Kold,_Skrøbelev","Lisbeth Kold, Skrøbelev",Nye Borgerlige,2
+Langeland,6,Strynø,"D_Karsten_Thomsen,_Bøstrup","Karsten Thomsen, Bøstrup",Nye Borgerlige,0
+Langeland,6,Strynø,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,19
+Langeland,6,Strynø,"F_Tonni_Hansen,_Rudkøbing","Tonni Hansen, Rudkøbing",SF - Socialistisk Folkeparti,30
+Langeland,6,Strynø,"F_Winni_Kielstrup_Hansen,_Rudkøbing","Winni Kielstrup Hansen, Rudkøbing",SF - Socialistisk Folkeparti,1
+Langeland,6,Strynø,"F_Nynne_Printz,_Tullebølle","Nynne Printz, Tullebølle",SF - Socialistisk Folkeparti,2
+Langeland,6,Strynø,"F_Flemming_Neperus,_Rudkøbing","Flemming Neperus, Rudkøbing",SF - Socialistisk Folkeparti,0
+Langeland,6,Strynø,"F_Gert_Rosing,_Tranekær","Gert Rosing, Tranekær",SF - Socialistisk Folkeparti,0
+Langeland,6,Strynø,"F_Freddy_Knecht,_Humble","Freddy Knecht, Humble",SF - Socialistisk Folkeparti,0
+Langeland,6,Strynø,"F_Erik_Hye_Jørgensen,_Peløkke","Erik Hye Jørgensen, Peløkke",SF - Socialistisk Folkeparti,0
+Langeland,6,Strynø,"F_Tonny_Gjersen,_Nordenbro","Tonny Gjersen, Nordenbro",SF - Socialistisk Folkeparti,0
+Langeland,6,Strynø,"F_Ulrik_Pihl,_Magleby","Ulrik Pihl, Magleby",SF - Socialistisk Folkeparti,12
+Langeland,6,Strynø,O_Listestemmer,Listestemmer,Dansk Folkeparti,1
+Langeland,6,Strynø,O_Kim_Brammer_Welcher,Kim Brammer Welcher,Dansk Folkeparti,1
+Langeland,6,Strynø,O_Lars_Sørensen,Lars Sørensen,Dansk Folkeparti,0
+Langeland,6,Strynø,O_Sandra_Schmidt,Sandra Schmidt,Dansk Folkeparti,1
+Langeland,6,Strynø,O_Poul_Poulsen,Poul Poulsen,Dansk Folkeparti,0
+Langeland,6,Strynø,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",2
+Langeland,6,Strynø,"V_Peder_Hansen,_Snøde","Peder Hansen, Snøde","Venstre, Danmarks Liberale Parti",5
+Langeland,6,Strynø,"V_Karina_Jørgensen,_Rudkøbing","Karina Jørgensen, Rudkøbing","Venstre, Danmarks Liberale Parti",2
+Langeland,6,Strynø,"V_Brian_Dalsgaard,_Humble","Brian Dalsgaard, Humble","Venstre, Danmarks Liberale Parti",1
+Langeland,6,Strynø,"V_Leif_Nørgaard,_Rudkøbing","Leif Nørgaard, Rudkøbing","Venstre, Danmarks Liberale Parti",2
+Langeland,6,Strynø,"V_Henrik_Pertl,_Helletofte","Henrik Pertl, Helletofte","Venstre, Danmarks Liberale Parti",0
+Langeland,6,Strynø,"V_Britta_Andersen,_Tryggelev","Britta Andersen, Tryggelev","Venstre, Danmarks Liberale Parti",2
+Langeland,6,Strynø,"V_Jan_Ole_Jakobsen,_Tullebølle","Jan Ole Jakobsen, Tullebølle","Venstre, Danmarks Liberale Parti",1
+Langeland,6,Strynø,"V_Ulrik_Kølle_Hansen,_Bagenkop","Ulrik Kølle Hansen, Bagenkop","Venstre, Danmarks Liberale Parti",0
+Langeland,6,Strynø,"V_Jesper_Skovhus,_Rudkøbing","Jesper Skovhus, Rudkøbing","Venstre, Danmarks Liberale Parti",0
+Langeland,6,Strynø,"V_Palle_Lindegaard,_Lejbølle","Palle Lindegaard, Lejbølle","Venstre, Danmarks Liberale Parti",0
+Langeland,6,Strynø,"V_Niels_Grønnegaard,_Stengade","Niels Grønnegaard, Stengade","Venstre, Danmarks Liberale Parti",0
+Langeland,6,Strynø,"V_Lars_Christian_Prytz,_Tranekær","Lars Christian Prytz, Tranekær","Venstre, Danmarks Liberale Parti",1
+Langeland,6,Strynø,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,4
+Langeland,6,Strynø,"Ø_Tommy_Bredal_Storgaard,_Rudkøbing","Tommy Bredal Storgaard, Rudkøbing",Enhedslisten - De Rød-Grønne,5
+Langeland,6,Strynø,"Ø_Michael_Martin_Jensen,_Tranekær","Michael Martin Jensen, Tranekær",Enhedslisten - De Rød-Grønne,1
+Langeland,7,Tullebølle,A_Listestemmer,Listestemmer,Socialdemokratiet,35
+Langeland,7,Tullebølle,A_René_Larsen,René Larsen,Socialdemokratiet,45
+Langeland,7,Tullebølle,A_Joan_Kate_Pedersen,Joan Kate Pedersen,Socialdemokratiet,13
+Langeland,7,Tullebølle,A_Ole_Sørensen,Ole Sørensen,Socialdemokratiet,27
+Langeland,7,Tullebølle,A_Lisa_Pihl_Jensen,Lisa Pihl Jensen,Socialdemokratiet,11
+Langeland,7,Tullebølle,A_Tina_Juul_Pedersen,Tina Juul Pedersen,Socialdemokratiet,3
+Langeland,7,Tullebølle,A_Britt_Norre,Britt Norre,Socialdemokratiet,4
+Langeland,7,Tullebølle,A_Preben_Jørgensen,Preben Jørgensen,Socialdemokratiet,5
+Langeland,7,Tullebølle,A_Arno_Kruse,Arno Kruse,Socialdemokratiet,7
+Langeland,7,Tullebølle,B_Listestemmer,Listestemmer,Radikale Venstre,5
+Langeland,7,Tullebølle,"B_Søren_Ramsing,_Lohals","Søren Ramsing, Lohals",Radikale Venstre,25
+Langeland,7,Tullebølle,"B_Agnete_Fog,_Strandby","Agnete Fog, Strandby",Radikale Venstre,8
+Langeland,7,Tullebølle,"B_Per_Kjær,_Bagenkop","Per Kjær, Bagenkop",Radikale Venstre,1
+Langeland,7,Tullebølle,"B_Anne_Mette_Wandsøe,_Rudkøbing","Anne Mette Wandsøe, Rudkøbing",Radikale Venstre,5
+Langeland,7,Tullebølle,"B_HC_Rasmussen,_Ennebølle","HC Rasmussen, Ennebølle",Radikale Venstre,2
+Langeland,7,Tullebølle,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,11
+Langeland,7,Tullebølle,"C_Jørgen_Nielsen,_Rudkøbing","Jørgen Nielsen, Rudkøbing",Det Konservative Folkeparti,68
+Langeland,7,Tullebølle,"C_Bo_C._Nissen,_Tranekær","Bo C. Nissen, Tranekær",Det Konservative Folkeparti,30
+Langeland,7,Tullebølle,"C_Steen_Have_Otterstrøm,_Bagenkop","Steen Have Otterstrøm, Bagenkop",Det Konservative Folkeparti,0
+Langeland,7,Tullebølle,"C_Christian_Stenberg,_Tullebølle","Christian Stenberg, Tullebølle",Det Konservative Folkeparti,16
+Langeland,7,Tullebølle,"C_Casper_Fink,_Rudkøbing","Casper Fink, Rudkøbing",Det Konservative Folkeparti,0
+Langeland,7,Tullebølle,D_Listestemmer,Listestemmer,Nye Borgerlige,8
+Langeland,7,Tullebølle,"D_Lisbeth_Kold,_Skrøbelev","Lisbeth Kold, Skrøbelev",Nye Borgerlige,27
+Langeland,7,Tullebølle,"D_Karsten_Thomsen,_Bøstrup","Karsten Thomsen, Bøstrup",Nye Borgerlige,2
+Langeland,7,Tullebølle,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,22
+Langeland,7,Tullebølle,"F_Tonni_Hansen,_Rudkøbing","Tonni Hansen, Rudkøbing",SF - Socialistisk Folkeparti,256
+Langeland,7,Tullebølle,"F_Winni_Kielstrup_Hansen,_Rudkøbing","Winni Kielstrup Hansen, Rudkøbing",SF - Socialistisk Folkeparti,12
+Langeland,7,Tullebølle,"F_Nynne_Printz,_Tullebølle","Nynne Printz, Tullebølle",SF - Socialistisk Folkeparti,8
+Langeland,7,Tullebølle,"F_Flemming_Neperus,_Rudkøbing","Flemming Neperus, Rudkøbing",SF - Socialistisk Folkeparti,3
+Langeland,7,Tullebølle,"F_Gert_Rosing,_Tranekær","Gert Rosing, Tranekær",SF - Socialistisk Folkeparti,3
+Langeland,7,Tullebølle,"F_Freddy_Knecht,_Humble","Freddy Knecht, Humble",SF - Socialistisk Folkeparti,5
+Langeland,7,Tullebølle,"F_Erik_Hye_Jørgensen,_Peløkke","Erik Hye Jørgensen, Peløkke",SF - Socialistisk Folkeparti,10
+Langeland,7,Tullebølle,"F_Tonny_Gjersen,_Nordenbro","Tonny Gjersen, Nordenbro",SF - Socialistisk Folkeparti,2
+Langeland,7,Tullebølle,"F_Ulrik_Pihl,_Magleby","Ulrik Pihl, Magleby",SF - Socialistisk Folkeparti,6
+Langeland,7,Tullebølle,O_Listestemmer,Listestemmer,Dansk Folkeparti,6
+Langeland,7,Tullebølle,O_Kim_Brammer_Welcher,Kim Brammer Welcher,Dansk Folkeparti,3
+Langeland,7,Tullebølle,O_Lars_Sørensen,Lars Sørensen,Dansk Folkeparti,14
+Langeland,7,Tullebølle,O_Sandra_Schmidt,Sandra Schmidt,Dansk Folkeparti,15
+Langeland,7,Tullebølle,O_Poul_Poulsen,Poul Poulsen,Dansk Folkeparti,4
+Langeland,7,Tullebølle,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",38
+Langeland,7,Tullebølle,"V_Peder_Hansen,_Snøde","Peder Hansen, Snøde","Venstre, Danmarks Liberale Parti",90
+Langeland,7,Tullebølle,"V_Karina_Jørgensen,_Rudkøbing","Karina Jørgensen, Rudkøbing","Venstre, Danmarks Liberale Parti",24
+Langeland,7,Tullebølle,"V_Brian_Dalsgaard,_Humble","Brian Dalsgaard, Humble","Venstre, Danmarks Liberale Parti",3
+Langeland,7,Tullebølle,"V_Leif_Nørgaard,_Rudkøbing","Leif Nørgaard, Rudkøbing","Venstre, Danmarks Liberale Parti",4
+Langeland,7,Tullebølle,"V_Henrik_Pertl,_Helletofte","Henrik Pertl, Helletofte","Venstre, Danmarks Liberale Parti",11
+Langeland,7,Tullebølle,"V_Britta_Andersen,_Tryggelev","Britta Andersen, Tryggelev","Venstre, Danmarks Liberale Parti",6
+Langeland,7,Tullebølle,"V_Jan_Ole_Jakobsen,_Tullebølle","Jan Ole Jakobsen, Tullebølle","Venstre, Danmarks Liberale Parti",47
+Langeland,7,Tullebølle,"V_Ulrik_Kølle_Hansen,_Bagenkop","Ulrik Kølle Hansen, Bagenkop","Venstre, Danmarks Liberale Parti",31
+Langeland,7,Tullebølle,"V_Jesper_Skovhus,_Rudkøbing","Jesper Skovhus, Rudkøbing","Venstre, Danmarks Liberale Parti",19
+Langeland,7,Tullebølle,"V_Palle_Lindegaard,_Lejbølle","Palle Lindegaard, Lejbølle","Venstre, Danmarks Liberale Parti",0
+Langeland,7,Tullebølle,"V_Niels_Grønnegaard,_Stengade","Niels Grønnegaard, Stengade","Venstre, Danmarks Liberale Parti",26
+Langeland,7,Tullebølle,"V_Lars_Christian_Prytz,_Tranekær","Lars Christian Prytz, Tranekær","Venstre, Danmarks Liberale Parti",14
+Langeland,7,Tullebølle,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,12
+Langeland,7,Tullebølle,"Ø_Tommy_Bredal_Storgaard,_Rudkøbing","Tommy Bredal Storgaard, Rudkøbing",Enhedslisten - De Rød-Grønne,3
+Langeland,7,Tullebølle,"Ø_Michael_Martin_Jensen,_Tranekær","Michael Martin Jensen, Tranekær",Enhedslisten - De Rød-Grønne,4
+Langeland,8,Lejbølle,A_Listestemmer,Listestemmer,Socialdemokratiet,11
+Langeland,8,Lejbølle,A_René_Larsen,René Larsen,Socialdemokratiet,13
+Langeland,8,Lejbølle,A_Joan_Kate_Pedersen,Joan Kate Pedersen,Socialdemokratiet,1
+Langeland,8,Lejbølle,A_Ole_Sørensen,Ole Sørensen,Socialdemokratiet,18
+Langeland,8,Lejbølle,A_Lisa_Pihl_Jensen,Lisa Pihl Jensen,Socialdemokratiet,2
+Langeland,8,Lejbølle,A_Tina_Juul_Pedersen,Tina Juul Pedersen,Socialdemokratiet,0
+Langeland,8,Lejbølle,A_Britt_Norre,Britt Norre,Socialdemokratiet,0
+Langeland,8,Lejbølle,A_Preben_Jørgensen,Preben Jørgensen,Socialdemokratiet,0
+Langeland,8,Lejbølle,A_Arno_Kruse,Arno Kruse,Socialdemokratiet,4
+Langeland,8,Lejbølle,B_Listestemmer,Listestemmer,Radikale Venstre,0
+Langeland,8,Lejbølle,"B_Søren_Ramsing,_Lohals","Søren Ramsing, Lohals",Radikale Venstre,15
+Langeland,8,Lejbølle,"B_Agnete_Fog,_Strandby","Agnete Fog, Strandby",Radikale Venstre,9
+Langeland,8,Lejbølle,"B_Per_Kjær,_Bagenkop","Per Kjær, Bagenkop",Radikale Venstre,2
+Langeland,8,Lejbølle,"B_Anne_Mette_Wandsøe,_Rudkøbing","Anne Mette Wandsøe, Rudkøbing",Radikale Venstre,0
+Langeland,8,Lejbølle,"B_HC_Rasmussen,_Ennebølle","HC Rasmussen, Ennebølle",Radikale Venstre,0
+Langeland,8,Lejbølle,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,4
+Langeland,8,Lejbølle,"C_Jørgen_Nielsen,_Rudkøbing","Jørgen Nielsen, Rudkøbing",Det Konservative Folkeparti,16
+Langeland,8,Lejbølle,"C_Bo_C._Nissen,_Tranekær","Bo C. Nissen, Tranekær",Det Konservative Folkeparti,32
+Langeland,8,Lejbølle,"C_Steen_Have_Otterstrøm,_Bagenkop","Steen Have Otterstrøm, Bagenkop",Det Konservative Folkeparti,0
+Langeland,8,Lejbølle,"C_Christian_Stenberg,_Tullebølle","Christian Stenberg, Tullebølle",Det Konservative Folkeparti,4
+Langeland,8,Lejbølle,"C_Casper_Fink,_Rudkøbing","Casper Fink, Rudkøbing",Det Konservative Folkeparti,0
+Langeland,8,Lejbølle,D_Listestemmer,Listestemmer,Nye Borgerlige,4
+Langeland,8,Lejbølle,"D_Lisbeth_Kold,_Skrøbelev","Lisbeth Kold, Skrøbelev",Nye Borgerlige,14
+Langeland,8,Lejbølle,"D_Karsten_Thomsen,_Bøstrup","Karsten Thomsen, Bøstrup",Nye Borgerlige,1
+Langeland,8,Lejbølle,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,12
+Langeland,8,Lejbølle,"F_Tonni_Hansen,_Rudkøbing","Tonni Hansen, Rudkøbing",SF - Socialistisk Folkeparti,88
+Langeland,8,Lejbølle,"F_Winni_Kielstrup_Hansen,_Rudkøbing","Winni Kielstrup Hansen, Rudkøbing",SF - Socialistisk Folkeparti,4
+Langeland,8,Lejbølle,"F_Nynne_Printz,_Tullebølle","Nynne Printz, Tullebølle",SF - Socialistisk Folkeparti,7
+Langeland,8,Lejbølle,"F_Flemming_Neperus,_Rudkøbing","Flemming Neperus, Rudkøbing",SF - Socialistisk Folkeparti,0
+Langeland,8,Lejbølle,"F_Gert_Rosing,_Tranekær","Gert Rosing, Tranekær",SF - Socialistisk Folkeparti,6
+Langeland,8,Lejbølle,"F_Freddy_Knecht,_Humble","Freddy Knecht, Humble",SF - Socialistisk Folkeparti,2
+Langeland,8,Lejbølle,"F_Erik_Hye_Jørgensen,_Peløkke","Erik Hye Jørgensen, Peløkke",SF - Socialistisk Folkeparti,1
+Langeland,8,Lejbølle,"F_Tonny_Gjersen,_Nordenbro","Tonny Gjersen, Nordenbro",SF - Socialistisk Folkeparti,0
+Langeland,8,Lejbølle,"F_Ulrik_Pihl,_Magleby","Ulrik Pihl, Magleby",SF - Socialistisk Folkeparti,1
+Langeland,8,Lejbølle,O_Listestemmer,Listestemmer,Dansk Folkeparti,5
+Langeland,8,Lejbølle,O_Kim_Brammer_Welcher,Kim Brammer Welcher,Dansk Folkeparti,1
+Langeland,8,Lejbølle,O_Lars_Sørensen,Lars Sørensen,Dansk Folkeparti,0
+Langeland,8,Lejbølle,O_Sandra_Schmidt,Sandra Schmidt,Dansk Folkeparti,2
+Langeland,8,Lejbølle,O_Poul_Poulsen,Poul Poulsen,Dansk Folkeparti,0
+Langeland,8,Lejbølle,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",9
+Langeland,8,Lejbølle,"V_Peder_Hansen,_Snøde","Peder Hansen, Snøde","Venstre, Danmarks Liberale Parti",36
+Langeland,8,Lejbølle,"V_Karina_Jørgensen,_Rudkøbing","Karina Jørgensen, Rudkøbing","Venstre, Danmarks Liberale Parti",3
+Langeland,8,Lejbølle,"V_Brian_Dalsgaard,_Humble","Brian Dalsgaard, Humble","Venstre, Danmarks Liberale Parti",0
+Langeland,8,Lejbølle,"V_Leif_Nørgaard,_Rudkøbing","Leif Nørgaard, Rudkøbing","Venstre, Danmarks Liberale Parti",0
+Langeland,8,Lejbølle,"V_Henrik_Pertl,_Helletofte","Henrik Pertl, Helletofte","Venstre, Danmarks Liberale Parti",20
+Langeland,8,Lejbølle,"V_Britta_Andersen,_Tryggelev","Britta Andersen, Tryggelev","Venstre, Danmarks Liberale Parti",0
+Langeland,8,Lejbølle,"V_Jan_Ole_Jakobsen,_Tullebølle","Jan Ole Jakobsen, Tullebølle","Venstre, Danmarks Liberale Parti",4
+Langeland,8,Lejbølle,"V_Ulrik_Kølle_Hansen,_Bagenkop","Ulrik Kølle Hansen, Bagenkop","Venstre, Danmarks Liberale Parti",5
+Langeland,8,Lejbølle,"V_Jesper_Skovhus,_Rudkøbing","Jesper Skovhus, Rudkøbing","Venstre, Danmarks Liberale Parti",5
+Langeland,8,Lejbølle,"V_Palle_Lindegaard,_Lejbølle","Palle Lindegaard, Lejbølle","Venstre, Danmarks Liberale Parti",4
+Langeland,8,Lejbølle,"V_Niels_Grønnegaard,_Stengade","Niels Grønnegaard, Stengade","Venstre, Danmarks Liberale Parti",5
+Langeland,8,Lejbølle,"V_Lars_Christian_Prytz,_Tranekær","Lars Christian Prytz, Tranekær","Venstre, Danmarks Liberale Parti",9
+Langeland,8,Lejbølle,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,4
+Langeland,8,Lejbølle,"Ø_Tommy_Bredal_Storgaard,_Rudkøbing","Tommy Bredal Storgaard, Rudkøbing",Enhedslisten - De Rød-Grønne,5
+Langeland,8,Lejbølle,"Ø_Michael_Martin_Jensen,_Tranekær","Michael Martin Jensen, Tranekær",Enhedslisten - De Rød-Grønne,4
+Langeland,10,Hou,A_Listestemmer,Listestemmer,Socialdemokratiet,17
+Langeland,10,Hou,A_René_Larsen,René Larsen,Socialdemokratiet,9
+Langeland,10,Hou,A_Joan_Kate_Pedersen,Joan Kate Pedersen,Socialdemokratiet,4
+Langeland,10,Hou,A_Ole_Sørensen,Ole Sørensen,Socialdemokratiet,24
+Langeland,10,Hou,A_Lisa_Pihl_Jensen,Lisa Pihl Jensen,Socialdemokratiet,3
+Langeland,10,Hou,A_Tina_Juul_Pedersen,Tina Juul Pedersen,Socialdemokratiet,3
+Langeland,10,Hou,A_Britt_Norre,Britt Norre,Socialdemokratiet,0
+Langeland,10,Hou,A_Preben_Jørgensen,Preben Jørgensen,Socialdemokratiet,0
+Langeland,10,Hou,A_Arno_Kruse,Arno Kruse,Socialdemokratiet,2
+Langeland,10,Hou,B_Listestemmer,Listestemmer,Radikale Venstre,3
+Langeland,10,Hou,"B_Søren_Ramsing,_Lohals","Søren Ramsing, Lohals",Radikale Venstre,65
+Langeland,10,Hou,"B_Agnete_Fog,_Strandby","Agnete Fog, Strandby",Radikale Venstre,5
+Langeland,10,Hou,"B_Per_Kjær,_Bagenkop","Per Kjær, Bagenkop",Radikale Venstre,3
+Langeland,10,Hou,"B_Anne_Mette_Wandsøe,_Rudkøbing","Anne Mette Wandsøe, Rudkøbing",Radikale Venstre,0
+Langeland,10,Hou,"B_HC_Rasmussen,_Ennebølle","HC Rasmussen, Ennebølle",Radikale Venstre,8
+Langeland,10,Hou,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,6
+Langeland,10,Hou,"C_Jørgen_Nielsen,_Rudkøbing","Jørgen Nielsen, Rudkøbing",Det Konservative Folkeparti,36
+Langeland,10,Hou,"C_Bo_C._Nissen,_Tranekær","Bo C. Nissen, Tranekær",Det Konservative Folkeparti,14
+Langeland,10,Hou,"C_Steen_Have_Otterstrøm,_Bagenkop","Steen Have Otterstrøm, Bagenkop",Det Konservative Folkeparti,4
+Langeland,10,Hou,"C_Christian_Stenberg,_Tullebølle","Christian Stenberg, Tullebølle",Det Konservative Folkeparti,3
+Langeland,10,Hou,"C_Casper_Fink,_Rudkøbing","Casper Fink, Rudkøbing",Det Konservative Folkeparti,1
+Langeland,10,Hou,D_Listestemmer,Listestemmer,Nye Borgerlige,5
+Langeland,10,Hou,"D_Lisbeth_Kold,_Skrøbelev","Lisbeth Kold, Skrøbelev",Nye Borgerlige,13
+Langeland,10,Hou,"D_Karsten_Thomsen,_Bøstrup","Karsten Thomsen, Bøstrup",Nye Borgerlige,3
+Langeland,10,Hou,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,12
+Langeland,10,Hou,"F_Tonni_Hansen,_Rudkøbing","Tonni Hansen, Rudkøbing",SF - Socialistisk Folkeparti,200
+Langeland,10,Hou,"F_Winni_Kielstrup_Hansen,_Rudkøbing","Winni Kielstrup Hansen, Rudkøbing",SF - Socialistisk Folkeparti,6
+Langeland,10,Hou,"F_Nynne_Printz,_Tullebølle","Nynne Printz, Tullebølle",SF - Socialistisk Folkeparti,15
+Langeland,10,Hou,"F_Flemming_Neperus,_Rudkøbing","Flemming Neperus, Rudkøbing",SF - Socialistisk Folkeparti,0
+Langeland,10,Hou,"F_Gert_Rosing,_Tranekær","Gert Rosing, Tranekær",SF - Socialistisk Folkeparti,10
+Langeland,10,Hou,"F_Freddy_Knecht,_Humble","Freddy Knecht, Humble",SF - Socialistisk Folkeparti,2
+Langeland,10,Hou,"F_Erik_Hye_Jørgensen,_Peløkke","Erik Hye Jørgensen, Peløkke",SF - Socialistisk Folkeparti,1
+Langeland,10,Hou,"F_Tonny_Gjersen,_Nordenbro","Tonny Gjersen, Nordenbro",SF - Socialistisk Folkeparti,1
+Langeland,10,Hou,"F_Ulrik_Pihl,_Magleby","Ulrik Pihl, Magleby",SF - Socialistisk Folkeparti,6
+Langeland,10,Hou,O_Listestemmer,Listestemmer,Dansk Folkeparti,7
+Langeland,10,Hou,O_Kim_Brammer_Welcher,Kim Brammer Welcher,Dansk Folkeparti,13
+Langeland,10,Hou,O_Lars_Sørensen,Lars Sørensen,Dansk Folkeparti,5
+Langeland,10,Hou,O_Sandra_Schmidt,Sandra Schmidt,Dansk Folkeparti,8
+Langeland,10,Hou,O_Poul_Poulsen,Poul Poulsen,Dansk Folkeparti,3
+Langeland,10,Hou,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",11
+Langeland,10,Hou,"V_Peder_Hansen,_Snøde","Peder Hansen, Snøde","Venstre, Danmarks Liberale Parti",125
+Langeland,10,Hou,"V_Karina_Jørgensen,_Rudkøbing","Karina Jørgensen, Rudkøbing","Venstre, Danmarks Liberale Parti",0
+Langeland,10,Hou,"V_Brian_Dalsgaard,_Humble","Brian Dalsgaard, Humble","Venstre, Danmarks Liberale Parti",3
+Langeland,10,Hou,"V_Leif_Nørgaard,_Rudkøbing","Leif Nørgaard, Rudkøbing","Venstre, Danmarks Liberale Parti",1
+Langeland,10,Hou,"V_Henrik_Pertl,_Helletofte","Henrik Pertl, Helletofte","Venstre, Danmarks Liberale Parti",8
+Langeland,10,Hou,"V_Britta_Andersen,_Tryggelev","Britta Andersen, Tryggelev","Venstre, Danmarks Liberale Parti",0
+Langeland,10,Hou,"V_Jan_Ole_Jakobsen,_Tullebølle","Jan Ole Jakobsen, Tullebølle","Venstre, Danmarks Liberale Parti",4
+Langeland,10,Hou,"V_Ulrik_Kølle_Hansen,_Bagenkop","Ulrik Kølle Hansen, Bagenkop","Venstre, Danmarks Liberale Parti",19
+Langeland,10,Hou,"V_Jesper_Skovhus,_Rudkøbing","Jesper Skovhus, Rudkøbing","Venstre, Danmarks Liberale Parti",8
+Langeland,10,Hou,"V_Palle_Lindegaard,_Lejbølle","Palle Lindegaard, Lejbølle","Venstre, Danmarks Liberale Parti",0
+Langeland,10,Hou,"V_Niels_Grønnegaard,_Stengade","Niels Grønnegaard, Stengade","Venstre, Danmarks Liberale Parti",0
+Langeland,10,Hou,"V_Lars_Christian_Prytz,_Tranekær","Lars Christian Prytz, Tranekær","Venstre, Danmarks Liberale Parti",4
+Langeland,10,Hou,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,6
+Langeland,10,Hou,"Ø_Tommy_Bredal_Storgaard,_Rudkøbing","Tommy Bredal Storgaard, Rudkøbing",Enhedslisten - De Rød-Grønne,6
+Langeland,10,Hou,"Ø_Michael_Martin_Jensen,_Tranekær","Michael Martin Jensen, Tranekær",Enhedslisten - De Rød-Grønne,2

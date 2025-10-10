@@ -1,0 +1,545 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Lemvig,1,Lemvig,A_Listestemmer,Listestemmer,Socialdemokratiet,154
+Lemvig,1,Lemvig,A_Lone_Pilgaard_Sørensen,Lone Pilgaard Sørensen,Socialdemokratiet,426
+Lemvig,1,Lemvig,A_Bent_Wolder_Mortensen,Bent Wolder Mortensen,Socialdemokratiet,18
+Lemvig,1,Lemvig,A_Tina_Mortensen,Tina Mortensen,Socialdemokratiet,93
+Lemvig,1,Lemvig,A_Peter_Borup_Sørensen,Peter Borup Sørensen,Socialdemokratiet,80
+Lemvig,1,Lemvig,A_Ole_Skovsgaard_Daniel,Ole Skovsgaard Daniel,Socialdemokratiet,32
+Lemvig,1,Lemvig,A_Steen_Madsen,Steen Madsen,Socialdemokratiet,205
+Lemvig,1,Lemvig,A_Allan_Mose_Jakobsen,Allan Mose Jakobsen,Socialdemokratiet,18
+Lemvig,1,Lemvig,A_Bjarne_Jensen,Bjarne Jensen,Socialdemokratiet,17
+Lemvig,1,Lemvig,B_Listestemmer,Listestemmer,Radikale Venstre,15
+Lemvig,1,Lemvig,B_Gitte_Winther_Jeppesen,Gitte Winther Jeppesen,Radikale Venstre,96
+Lemvig,1,Lemvig,B_Ole_Margon,Ole Margon,Radikale Venstre,41
+Lemvig,1,Lemvig,B_Keld_Marstrand_Wang,Keld Marstrand Wang,Radikale Venstre,8
+Lemvig,1,Lemvig,B_Sjønne_Kallesøe,Sjønne Kallesøe,Radikale Venstre,7
+Lemvig,1,Lemvig,B_Henrik_Hvas-Busk,Henrik Hvas-Busk,Radikale Venstre,3
+Lemvig,1,Lemvig,B_Anna_Maria_Hoornenborg,Anna Maria Hoornenborg,Radikale Venstre,8
+Lemvig,1,Lemvig,B_Azad_Palmqvist,Azad Palmqvist,Radikale Venstre,21
+Lemvig,1,Lemvig,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,37
+Lemvig,1,Lemvig,C_Jens_Lønberg,Jens Lønberg,Det Konservative Folkeparti,206
+Lemvig,1,Lemvig,C_Benedicte_Hjerl_Carstensen,Benedicte Hjerl Carstensen,Det Konservative Folkeparti,107
+Lemvig,1,Lemvig,C_Alex_Augustinus_Gregersen,Alex Augustinus Gregersen,Det Konservative Folkeparti,4
+Lemvig,1,Lemvig,C_Mikael_Matthesen,Mikael Matthesen,Det Konservative Folkeparti,55
+Lemvig,1,Lemvig,C_Claus_Ø._Mosekjær,Claus Ø. Mosekjær,Det Konservative Folkeparti,12
+Lemvig,1,Lemvig,C_Jens_Jørn_Porup,Jens Jørn Porup,Det Konservative Folkeparti,17
+Lemvig,1,Lemvig,C_Rasmus_Porup,Rasmus Porup,Det Konservative Folkeparti,134
+Lemvig,1,Lemvig,C_Lars_Snejbjerg,Lars Snejbjerg,Det Konservative Folkeparti,59
+Lemvig,1,Lemvig,D_Listestemmer,Listestemmer,Nye Borgerlige,37
+Lemvig,1,Lemvig,D_Allan_Berg,Allan Berg,Nye Borgerlige,78
+Lemvig,1,Lemvig,D_Bent_Løkke,Bent Løkke,Nye Borgerlige,9
+Lemvig,1,Lemvig,D_Tina_Berg,Tina Berg,Nye Borgerlige,5
+Lemvig,1,Lemvig,D_Nick_Janus_Larsen,Nick Janus Larsen,Nye Borgerlige,0
+Lemvig,1,Lemvig,D_Bodil_Reinau,Bodil Reinau,Nye Borgerlige,0
+Lemvig,1,Lemvig,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,47
+Lemvig,1,Lemvig,F_Arne_Noe,Arne Noe,SF - Socialistisk Folkeparti,184
+Lemvig,1,Lemvig,F_Dorete_Kallesøe,Dorete Kallesøe,SF - Socialistisk Folkeparti,93
+Lemvig,1,Lemvig,F_Jacob_Hansen_Rye,Jacob Hansen Rye,SF - Socialistisk Folkeparti,14
+Lemvig,1,Lemvig,F_Ditte_Wittrup,Ditte Wittrup,SF - Socialistisk Folkeparti,16
+Lemvig,1,Lemvig,F_Jørn_Nielsen,Jørn Nielsen,SF - Socialistisk Folkeparti,5
+Lemvig,1,Lemvig,F_Britta_G._Kubstrup,Britta G. Kubstrup,SF - Socialistisk Folkeparti,9
+Lemvig,1,Lemvig,F_Brian_Lehm_Nielsen,Brian Lehm Nielsen,SF - Socialistisk Folkeparti,0
+Lemvig,1,Lemvig,F_Janet_Jensen,Janet Jensen,SF - Socialistisk Folkeparti,1
+Lemvig,1,Lemvig,F_Pia_Ellesøe_Gasseholm,Pia Ellesøe Gasseholm,SF - Socialistisk Folkeparti,1
+Lemvig,1,Lemvig,F_Søren_Christensen,Søren Christensen,SF - Socialistisk Folkeparti,0
+Lemvig,1,Lemvig,I_Listestemmer,Listestemmer,Liberal Alliance,13
+Lemvig,1,Lemvig,I_Stefan_Agger,Stefan Agger,Liberal Alliance,38
+Lemvig,1,Lemvig,I_Daniel_Vestfjörd_Óskarsson,Daniel Vestfjörd Óskarsson,Liberal Alliance,7
+Lemvig,1,Lemvig,O_Listestemmer,Listestemmer,Dansk Folkeparti,22
+Lemvig,1,Lemvig,O_Karl_Balleby,Karl Balleby,Dansk Folkeparti,51
+Lemvig,1,Lemvig,O_Henning_Juhl_Christensen,Henning Juhl Christensen,Dansk Folkeparti,21
+Lemvig,1,Lemvig,O_Kirsten_Nielsen,Kirsten Nielsen,Dansk Folkeparti,10
+Lemvig,1,Lemvig,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",104
+Lemvig,1,Lemvig,V_Erik_Flyvholm,Erik Flyvholm,"Venstre, Danmarks Liberale Parti",470
+Lemvig,1,Lemvig,V_Mikael_Bertelsen,Mikael Bertelsen,"Venstre, Danmarks Liberale Parti",3
+Lemvig,1,Lemvig,V_Karsten_Bjerg,Karsten Bjerg,"Venstre, Danmarks Liberale Parti",14
+Lemvig,1,Lemvig,V_Steffen_Damsgaard,Steffen Damsgaard,"Venstre, Danmarks Liberale Parti",132
+Lemvig,1,Lemvig,V_Bent_B._Graversen,Bent B. Graversen,"Venstre, Danmarks Liberale Parti",102
+Lemvig,1,Lemvig,V_Asger_Gyldenkærne,Asger Gyldenkærne,"Venstre, Danmarks Liberale Parti",1
+Lemvig,1,Lemvig,V_Christina_Serup_Hove,Christina Serup Hove,"Venstre, Danmarks Liberale Parti",40
+Lemvig,1,Lemvig,V_Tina_Boel_van_Ingen,Tina Boel van Ingen,"Venstre, Danmarks Liberale Parti",12
+Lemvig,1,Lemvig,V_Kurt_Anker_Jensen,Kurt Anker Jensen,"Venstre, Danmarks Liberale Parti",6
+Lemvig,1,Lemvig,V_Søren_V._Jensen,Søren V. Jensen,"Venstre, Danmarks Liberale Parti",135
+Lemvig,1,Lemvig,V_Gunnar_Lisby_Kjær,Gunnar Lisby Kjær,"Venstre, Danmarks Liberale Parti",140
+Lemvig,1,Lemvig,V_Albert_Vinther_Krogh,Albert Vinther Krogh,"Venstre, Danmarks Liberale Parti",8
+Lemvig,1,Lemvig,V_Ellen_Mejdahl,Ellen Mejdahl,"Venstre, Danmarks Liberale Parti",23
+Lemvig,1,Lemvig,V_Chris_Olesen,Chris Olesen,"Venstre, Danmarks Liberale Parti",41
+Lemvig,1,Lemvig,V_Susanne_Pallestoft,Susanne Pallestoft,"Venstre, Danmarks Liberale Parti",131
+Lemvig,1,Lemvig,V_Michelle_Welle_Tange,Michelle Welle Tange,"Venstre, Danmarks Liberale Parti",7
+Lemvig,1,Lemvig,V_Henrik_Thygesen,Henrik Thygesen,"Venstre, Danmarks Liberale Parti",88
+Lemvig,2,Nørre Nissum,A_Listestemmer,Listestemmer,Socialdemokratiet,69
+Lemvig,2,Nørre Nissum,A_Lone_Pilgaard_Sørensen,Lone Pilgaard Sørensen,Socialdemokratiet,105
+Lemvig,2,Nørre Nissum,A_Bent_Wolder_Mortensen,Bent Wolder Mortensen,Socialdemokratiet,6
+Lemvig,2,Nørre Nissum,A_Tina_Mortensen,Tina Mortensen,Socialdemokratiet,27
+Lemvig,2,Nørre Nissum,A_Peter_Borup_Sørensen,Peter Borup Sørensen,Socialdemokratiet,21
+Lemvig,2,Nørre Nissum,A_Ole_Skovsgaard_Daniel,Ole Skovsgaard Daniel,Socialdemokratiet,5
+Lemvig,2,Nørre Nissum,A_Steen_Madsen,Steen Madsen,Socialdemokratiet,21
+Lemvig,2,Nørre Nissum,A_Allan_Mose_Jakobsen,Allan Mose Jakobsen,Socialdemokratiet,2
+Lemvig,2,Nørre Nissum,A_Bjarne_Jensen,Bjarne Jensen,Socialdemokratiet,5
+Lemvig,2,Nørre Nissum,B_Listestemmer,Listestemmer,Radikale Venstre,14
+Lemvig,2,Nørre Nissum,B_Gitte_Winther_Jeppesen,Gitte Winther Jeppesen,Radikale Venstre,24
+Lemvig,2,Nørre Nissum,B_Ole_Margon,Ole Margon,Radikale Venstre,21
+Lemvig,2,Nørre Nissum,B_Keld_Marstrand_Wang,Keld Marstrand Wang,Radikale Venstre,4
+Lemvig,2,Nørre Nissum,B_Sjønne_Kallesøe,Sjønne Kallesøe,Radikale Venstre,3
+Lemvig,2,Nørre Nissum,B_Henrik_Hvas-Busk,Henrik Hvas-Busk,Radikale Venstre,1
+Lemvig,2,Nørre Nissum,B_Anna_Maria_Hoornenborg,Anna Maria Hoornenborg,Radikale Venstre,3
+Lemvig,2,Nørre Nissum,B_Azad_Palmqvist,Azad Palmqvist,Radikale Venstre,1
+Lemvig,2,Nørre Nissum,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,20
+Lemvig,2,Nørre Nissum,C_Jens_Lønberg,Jens Lønberg,Det Konservative Folkeparti,53
+Lemvig,2,Nørre Nissum,C_Benedicte_Hjerl_Carstensen,Benedicte Hjerl Carstensen,Det Konservative Folkeparti,17
+Lemvig,2,Nørre Nissum,C_Alex_Augustinus_Gregersen,Alex Augustinus Gregersen,Det Konservative Folkeparti,2
+Lemvig,2,Nørre Nissum,C_Mikael_Matthesen,Mikael Matthesen,Det Konservative Folkeparti,6
+Lemvig,2,Nørre Nissum,C_Claus_Ø._Mosekjær,Claus Ø. Mosekjær,Det Konservative Folkeparti,96
+Lemvig,2,Nørre Nissum,C_Jens_Jørn_Porup,Jens Jørn Porup,Det Konservative Folkeparti,36
+Lemvig,2,Nørre Nissum,C_Rasmus_Porup,Rasmus Porup,Det Konservative Folkeparti,61
+Lemvig,2,Nørre Nissum,C_Lars_Snejbjerg,Lars Snejbjerg,Det Konservative Folkeparti,11
+Lemvig,2,Nørre Nissum,D_Listestemmer,Listestemmer,Nye Borgerlige,19
+Lemvig,2,Nørre Nissum,D_Allan_Berg,Allan Berg,Nye Borgerlige,27
+Lemvig,2,Nørre Nissum,D_Bent_Løkke,Bent Løkke,Nye Borgerlige,7
+Lemvig,2,Nørre Nissum,D_Tina_Berg,Tina Berg,Nye Borgerlige,4
+Lemvig,2,Nørre Nissum,D_Nick_Janus_Larsen,Nick Janus Larsen,Nye Borgerlige,3
+Lemvig,2,Nørre Nissum,D_Bodil_Reinau,Bodil Reinau,Nye Borgerlige,0
+Lemvig,2,Nørre Nissum,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,33
+Lemvig,2,Nørre Nissum,F_Arne_Noe,Arne Noe,SF - Socialistisk Folkeparti,74
+Lemvig,2,Nørre Nissum,F_Dorete_Kallesøe,Dorete Kallesøe,SF - Socialistisk Folkeparti,57
+Lemvig,2,Nørre Nissum,F_Jacob_Hansen_Rye,Jacob Hansen Rye,SF - Socialistisk Folkeparti,4
+Lemvig,2,Nørre Nissum,F_Ditte_Wittrup,Ditte Wittrup,SF - Socialistisk Folkeparti,3
+Lemvig,2,Nørre Nissum,F_Jørn_Nielsen,Jørn Nielsen,SF - Socialistisk Folkeparti,0
+Lemvig,2,Nørre Nissum,F_Britta_G._Kubstrup,Britta G. Kubstrup,SF - Socialistisk Folkeparti,10
+Lemvig,2,Nørre Nissum,F_Brian_Lehm_Nielsen,Brian Lehm Nielsen,SF - Socialistisk Folkeparti,1
+Lemvig,2,Nørre Nissum,F_Janet_Jensen,Janet Jensen,SF - Socialistisk Folkeparti,2
+Lemvig,2,Nørre Nissum,F_Pia_Ellesøe_Gasseholm,Pia Ellesøe Gasseholm,SF - Socialistisk Folkeparti,0
+Lemvig,2,Nørre Nissum,F_Søren_Christensen,Søren Christensen,SF - Socialistisk Folkeparti,0
+Lemvig,2,Nørre Nissum,I_Listestemmer,Listestemmer,Liberal Alliance,1
+Lemvig,2,Nørre Nissum,I_Stefan_Agger,Stefan Agger,Liberal Alliance,3
+Lemvig,2,Nørre Nissum,I_Daniel_Vestfjörd_Óskarsson,Daniel Vestfjörd Óskarsson,Liberal Alliance,1
+Lemvig,2,Nørre Nissum,O_Listestemmer,Listestemmer,Dansk Folkeparti,11
+Lemvig,2,Nørre Nissum,O_Karl_Balleby,Karl Balleby,Dansk Folkeparti,21
+Lemvig,2,Nørre Nissum,O_Henning_Juhl_Christensen,Henning Juhl Christensen,Dansk Folkeparti,5
+Lemvig,2,Nørre Nissum,O_Kirsten_Nielsen,Kirsten Nielsen,Dansk Folkeparti,2
+Lemvig,2,Nørre Nissum,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",38
+Lemvig,2,Nørre Nissum,V_Erik_Flyvholm,Erik Flyvholm,"Venstre, Danmarks Liberale Parti",87
+Lemvig,2,Nørre Nissum,V_Mikael_Bertelsen,Mikael Bertelsen,"Venstre, Danmarks Liberale Parti",18
+Lemvig,2,Nørre Nissum,V_Karsten_Bjerg,Karsten Bjerg,"Venstre, Danmarks Liberale Parti",2
+Lemvig,2,Nørre Nissum,V_Steffen_Damsgaard,Steffen Damsgaard,"Venstre, Danmarks Liberale Parti",27
+Lemvig,2,Nørre Nissum,V_Bent_B._Graversen,Bent B. Graversen,"Venstre, Danmarks Liberale Parti",135
+Lemvig,2,Nørre Nissum,V_Asger_Gyldenkærne,Asger Gyldenkærne,"Venstre, Danmarks Liberale Parti",3
+Lemvig,2,Nørre Nissum,V_Christina_Serup_Hove,Christina Serup Hove,"Venstre, Danmarks Liberale Parti",17
+Lemvig,2,Nørre Nissum,V_Tina_Boel_van_Ingen,Tina Boel van Ingen,"Venstre, Danmarks Liberale Parti",4
+Lemvig,2,Nørre Nissum,V_Kurt_Anker_Jensen,Kurt Anker Jensen,"Venstre, Danmarks Liberale Parti",2
+Lemvig,2,Nørre Nissum,V_Søren_V._Jensen,Søren V. Jensen,"Venstre, Danmarks Liberale Parti",65
+Lemvig,2,Nørre Nissum,V_Gunnar_Lisby_Kjær,Gunnar Lisby Kjær,"Venstre, Danmarks Liberale Parti",20
+Lemvig,2,Nørre Nissum,V_Albert_Vinther_Krogh,Albert Vinther Krogh,"Venstre, Danmarks Liberale Parti",2
+Lemvig,2,Nørre Nissum,V_Ellen_Mejdahl,Ellen Mejdahl,"Venstre, Danmarks Liberale Parti",16
+Lemvig,2,Nørre Nissum,V_Chris_Olesen,Chris Olesen,"Venstre, Danmarks Liberale Parti",4
+Lemvig,2,Nørre Nissum,V_Susanne_Pallestoft,Susanne Pallestoft,"Venstre, Danmarks Liberale Parti",21
+Lemvig,2,Nørre Nissum,V_Michelle_Welle_Tange,Michelle Welle Tange,"Venstre, Danmarks Liberale Parti",1
+Lemvig,2,Nørre Nissum,V_Henrik_Thygesen,Henrik Thygesen,"Venstre, Danmarks Liberale Parti",30
+Lemvig,3,Klinkby,A_Listestemmer,Listestemmer,Socialdemokratiet,48
+Lemvig,3,Klinkby,A_Lone_Pilgaard_Sørensen,Lone Pilgaard Sørensen,Socialdemokratiet,114
+Lemvig,3,Klinkby,A_Bent_Wolder_Mortensen,Bent Wolder Mortensen,Socialdemokratiet,6
+Lemvig,3,Klinkby,A_Tina_Mortensen,Tina Mortensen,Socialdemokratiet,18
+Lemvig,3,Klinkby,A_Peter_Borup_Sørensen,Peter Borup Sørensen,Socialdemokratiet,13
+Lemvig,3,Klinkby,A_Ole_Skovsgaard_Daniel,Ole Skovsgaard Daniel,Socialdemokratiet,5
+Lemvig,3,Klinkby,A_Steen_Madsen,Steen Madsen,Socialdemokratiet,38
+Lemvig,3,Klinkby,A_Allan_Mose_Jakobsen,Allan Mose Jakobsen,Socialdemokratiet,4
+Lemvig,3,Klinkby,A_Bjarne_Jensen,Bjarne Jensen,Socialdemokratiet,10
+Lemvig,3,Klinkby,B_Listestemmer,Listestemmer,Radikale Venstre,3
+Lemvig,3,Klinkby,B_Gitte_Winther_Jeppesen,Gitte Winther Jeppesen,Radikale Venstre,44
+Lemvig,3,Klinkby,B_Ole_Margon,Ole Margon,Radikale Venstre,7
+Lemvig,3,Klinkby,B_Keld_Marstrand_Wang,Keld Marstrand Wang,Radikale Venstre,2
+Lemvig,3,Klinkby,B_Sjønne_Kallesøe,Sjønne Kallesøe,Radikale Venstre,1
+Lemvig,3,Klinkby,B_Henrik_Hvas-Busk,Henrik Hvas-Busk,Radikale Venstre,0
+Lemvig,3,Klinkby,B_Anna_Maria_Hoornenborg,Anna Maria Hoornenborg,Radikale Venstre,2
+Lemvig,3,Klinkby,B_Azad_Palmqvist,Azad Palmqvist,Radikale Venstre,0
+Lemvig,3,Klinkby,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,11
+Lemvig,3,Klinkby,C_Jens_Lønberg,Jens Lønberg,Det Konservative Folkeparti,58
+Lemvig,3,Klinkby,C_Benedicte_Hjerl_Carstensen,Benedicte Hjerl Carstensen,Det Konservative Folkeparti,18
+Lemvig,3,Klinkby,C_Alex_Augustinus_Gregersen,Alex Augustinus Gregersen,Det Konservative Folkeparti,0
+Lemvig,3,Klinkby,C_Mikael_Matthesen,Mikael Matthesen,Det Konservative Folkeparti,1
+Lemvig,3,Klinkby,C_Claus_Ø._Mosekjær,Claus Ø. Mosekjær,Det Konservative Folkeparti,4
+Lemvig,3,Klinkby,C_Jens_Jørn_Porup,Jens Jørn Porup,Det Konservative Folkeparti,0
+Lemvig,3,Klinkby,C_Rasmus_Porup,Rasmus Porup,Det Konservative Folkeparti,27
+Lemvig,3,Klinkby,C_Lars_Snejbjerg,Lars Snejbjerg,Det Konservative Folkeparti,27
+Lemvig,3,Klinkby,D_Listestemmer,Listestemmer,Nye Borgerlige,12
+Lemvig,3,Klinkby,D_Allan_Berg,Allan Berg,Nye Borgerlige,23
+Lemvig,3,Klinkby,D_Bent_Løkke,Bent Løkke,Nye Borgerlige,5
+Lemvig,3,Klinkby,D_Tina_Berg,Tina Berg,Nye Borgerlige,3
+Lemvig,3,Klinkby,D_Nick_Janus_Larsen,Nick Janus Larsen,Nye Borgerlige,1
+Lemvig,3,Klinkby,D_Bodil_Reinau,Bodil Reinau,Nye Borgerlige,0
+Lemvig,3,Klinkby,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,16
+Lemvig,3,Klinkby,F_Arne_Noe,Arne Noe,SF - Socialistisk Folkeparti,112
+Lemvig,3,Klinkby,F_Dorete_Kallesøe,Dorete Kallesøe,SF - Socialistisk Folkeparti,34
+Lemvig,3,Klinkby,F_Jacob_Hansen_Rye,Jacob Hansen Rye,SF - Socialistisk Folkeparti,3
+Lemvig,3,Klinkby,F_Ditte_Wittrup,Ditte Wittrup,SF - Socialistisk Folkeparti,2
+Lemvig,3,Klinkby,F_Jørn_Nielsen,Jørn Nielsen,SF - Socialistisk Folkeparti,0
+Lemvig,3,Klinkby,F_Britta_G._Kubstrup,Britta G. Kubstrup,SF - Socialistisk Folkeparti,0
+Lemvig,3,Klinkby,F_Brian_Lehm_Nielsen,Brian Lehm Nielsen,SF - Socialistisk Folkeparti,0
+Lemvig,3,Klinkby,F_Janet_Jensen,Janet Jensen,SF - Socialistisk Folkeparti,2
+Lemvig,3,Klinkby,F_Pia_Ellesøe_Gasseholm,Pia Ellesøe Gasseholm,SF - Socialistisk Folkeparti,6
+Lemvig,3,Klinkby,F_Søren_Christensen,Søren Christensen,SF - Socialistisk Folkeparti,1
+Lemvig,3,Klinkby,I_Listestemmer,Listestemmer,Liberal Alliance,1
+Lemvig,3,Klinkby,I_Stefan_Agger,Stefan Agger,Liberal Alliance,6
+Lemvig,3,Klinkby,I_Daniel_Vestfjörd_Óskarsson,Daniel Vestfjörd Óskarsson,Liberal Alliance,4
+Lemvig,3,Klinkby,O_Listestemmer,Listestemmer,Dansk Folkeparti,5
+Lemvig,3,Klinkby,O_Karl_Balleby,Karl Balleby,Dansk Folkeparti,18
+Lemvig,3,Klinkby,O_Henning_Juhl_Christensen,Henning Juhl Christensen,Dansk Folkeparti,31
+Lemvig,3,Klinkby,O_Kirsten_Nielsen,Kirsten Nielsen,Dansk Folkeparti,5
+Lemvig,3,Klinkby,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",41
+Lemvig,3,Klinkby,V_Erik_Flyvholm,Erik Flyvholm,"Venstre, Danmarks Liberale Parti",127
+Lemvig,3,Klinkby,V_Mikael_Bertelsen,Mikael Bertelsen,"Venstre, Danmarks Liberale Parti",0
+Lemvig,3,Klinkby,V_Karsten_Bjerg,Karsten Bjerg,"Venstre, Danmarks Liberale Parti",14
+Lemvig,3,Klinkby,V_Steffen_Damsgaard,Steffen Damsgaard,"Venstre, Danmarks Liberale Parti",111
+Lemvig,3,Klinkby,V_Bent_B._Graversen,Bent B. Graversen,"Venstre, Danmarks Liberale Parti",29
+Lemvig,3,Klinkby,V_Asger_Gyldenkærne,Asger Gyldenkærne,"Venstre, Danmarks Liberale Parti",1
+Lemvig,3,Klinkby,V_Christina_Serup_Hove,Christina Serup Hove,"Venstre, Danmarks Liberale Parti",14
+Lemvig,3,Klinkby,V_Tina_Boel_van_Ingen,Tina Boel van Ingen,"Venstre, Danmarks Liberale Parti",4
+Lemvig,3,Klinkby,V_Kurt_Anker_Jensen,Kurt Anker Jensen,"Venstre, Danmarks Liberale Parti",4
+Lemvig,3,Klinkby,V_Søren_V._Jensen,Søren V. Jensen,"Venstre, Danmarks Liberale Parti",47
+Lemvig,3,Klinkby,V_Gunnar_Lisby_Kjær,Gunnar Lisby Kjær,"Venstre, Danmarks Liberale Parti",42
+Lemvig,3,Klinkby,V_Albert_Vinther_Krogh,Albert Vinther Krogh,"Venstre, Danmarks Liberale Parti",3
+Lemvig,3,Klinkby,V_Ellen_Mejdahl,Ellen Mejdahl,"Venstre, Danmarks Liberale Parti",95
+Lemvig,3,Klinkby,V_Chris_Olesen,Chris Olesen,"Venstre, Danmarks Liberale Parti",9
+Lemvig,3,Klinkby,V_Susanne_Pallestoft,Susanne Pallestoft,"Venstre, Danmarks Liberale Parti",19
+Lemvig,3,Klinkby,V_Michelle_Welle_Tange,Michelle Welle Tange,"Venstre, Danmarks Liberale Parti",3
+Lemvig,3,Klinkby,V_Henrik_Thygesen,Henrik Thygesen,"Venstre, Danmarks Liberale Parti",11
+Lemvig,4,Ramme,A_Listestemmer,Listestemmer,Socialdemokratiet,32
+Lemvig,4,Ramme,A_Lone_Pilgaard_Sørensen,Lone Pilgaard Sørensen,Socialdemokratiet,78
+Lemvig,4,Ramme,A_Bent_Wolder_Mortensen,Bent Wolder Mortensen,Socialdemokratiet,127
+Lemvig,4,Ramme,A_Tina_Mortensen,Tina Mortensen,Socialdemokratiet,11
+Lemvig,4,Ramme,A_Peter_Borup_Sørensen,Peter Borup Sørensen,Socialdemokratiet,10
+Lemvig,4,Ramme,A_Ole_Skovsgaard_Daniel,Ole Skovsgaard Daniel,Socialdemokratiet,3
+Lemvig,4,Ramme,A_Steen_Madsen,Steen Madsen,Socialdemokratiet,10
+Lemvig,4,Ramme,A_Allan_Mose_Jakobsen,Allan Mose Jakobsen,Socialdemokratiet,3
+Lemvig,4,Ramme,A_Bjarne_Jensen,Bjarne Jensen,Socialdemokratiet,0
+Lemvig,4,Ramme,B_Listestemmer,Listestemmer,Radikale Venstre,3
+Lemvig,4,Ramme,B_Gitte_Winther_Jeppesen,Gitte Winther Jeppesen,Radikale Venstre,17
+Lemvig,4,Ramme,B_Ole_Margon,Ole Margon,Radikale Venstre,4
+Lemvig,4,Ramme,B_Keld_Marstrand_Wang,Keld Marstrand Wang,Radikale Venstre,2
+Lemvig,4,Ramme,B_Sjønne_Kallesøe,Sjønne Kallesøe,Radikale Venstre,1
+Lemvig,4,Ramme,B_Henrik_Hvas-Busk,Henrik Hvas-Busk,Radikale Venstre,0
+Lemvig,4,Ramme,B_Anna_Maria_Hoornenborg,Anna Maria Hoornenborg,Radikale Venstre,7
+Lemvig,4,Ramme,B_Azad_Palmqvist,Azad Palmqvist,Radikale Venstre,0
+Lemvig,4,Ramme,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,12
+Lemvig,4,Ramme,C_Jens_Lønberg,Jens Lønberg,Det Konservative Folkeparti,42
+Lemvig,4,Ramme,C_Benedicte_Hjerl_Carstensen,Benedicte Hjerl Carstensen,Det Konservative Folkeparti,12
+Lemvig,4,Ramme,C_Alex_Augustinus_Gregersen,Alex Augustinus Gregersen,Det Konservative Folkeparti,0
+Lemvig,4,Ramme,C_Mikael_Matthesen,Mikael Matthesen,Det Konservative Folkeparti,2
+Lemvig,4,Ramme,C_Claus_Ø._Mosekjær,Claus Ø. Mosekjær,Det Konservative Folkeparti,6
+Lemvig,4,Ramme,C_Jens_Jørn_Porup,Jens Jørn Porup,Det Konservative Folkeparti,2
+Lemvig,4,Ramme,C_Rasmus_Porup,Rasmus Porup,Det Konservative Folkeparti,26
+Lemvig,4,Ramme,C_Lars_Snejbjerg,Lars Snejbjerg,Det Konservative Folkeparti,6
+Lemvig,4,Ramme,D_Listestemmer,Listestemmer,Nye Borgerlige,10
+Lemvig,4,Ramme,D_Allan_Berg,Allan Berg,Nye Borgerlige,29
+Lemvig,4,Ramme,D_Bent_Løkke,Bent Løkke,Nye Borgerlige,10
+Lemvig,4,Ramme,D_Tina_Berg,Tina Berg,Nye Borgerlige,5
+Lemvig,4,Ramme,D_Nick_Janus_Larsen,Nick Janus Larsen,Nye Borgerlige,0
+Lemvig,4,Ramme,D_Bodil_Reinau,Bodil Reinau,Nye Borgerlige,1
+Lemvig,4,Ramme,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,17
+Lemvig,4,Ramme,F_Arne_Noe,Arne Noe,SF - Socialistisk Folkeparti,101
+Lemvig,4,Ramme,F_Dorete_Kallesøe,Dorete Kallesøe,SF - Socialistisk Folkeparti,41
+Lemvig,4,Ramme,F_Jacob_Hansen_Rye,Jacob Hansen Rye,SF - Socialistisk Folkeparti,3
+Lemvig,4,Ramme,F_Ditte_Wittrup,Ditte Wittrup,SF - Socialistisk Folkeparti,4
+Lemvig,4,Ramme,F_Jørn_Nielsen,Jørn Nielsen,SF - Socialistisk Folkeparti,8
+Lemvig,4,Ramme,F_Britta_G._Kubstrup,Britta G. Kubstrup,SF - Socialistisk Folkeparti,7
+Lemvig,4,Ramme,F_Brian_Lehm_Nielsen,Brian Lehm Nielsen,SF - Socialistisk Folkeparti,0
+Lemvig,4,Ramme,F_Janet_Jensen,Janet Jensen,SF - Socialistisk Folkeparti,0
+Lemvig,4,Ramme,F_Pia_Ellesøe_Gasseholm,Pia Ellesøe Gasseholm,SF - Socialistisk Folkeparti,4
+Lemvig,4,Ramme,F_Søren_Christensen,Søren Christensen,SF - Socialistisk Folkeparti,2
+Lemvig,4,Ramme,I_Listestemmer,Listestemmer,Liberal Alliance,0
+Lemvig,4,Ramme,I_Stefan_Agger,Stefan Agger,Liberal Alliance,5
+Lemvig,4,Ramme,I_Daniel_Vestfjörd_Óskarsson,Daniel Vestfjörd Óskarsson,Liberal Alliance,3
+Lemvig,4,Ramme,O_Listestemmer,Listestemmer,Dansk Folkeparti,4
+Lemvig,4,Ramme,O_Karl_Balleby,Karl Balleby,Dansk Folkeparti,43
+Lemvig,4,Ramme,O_Henning_Juhl_Christensen,Henning Juhl Christensen,Dansk Folkeparti,9
+Lemvig,4,Ramme,O_Kirsten_Nielsen,Kirsten Nielsen,Dansk Folkeparti,4
+Lemvig,4,Ramme,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",28
+Lemvig,4,Ramme,V_Erik_Flyvholm,Erik Flyvholm,"Venstre, Danmarks Liberale Parti",83
+Lemvig,4,Ramme,V_Mikael_Bertelsen,Mikael Bertelsen,"Venstre, Danmarks Liberale Parti",1
+Lemvig,4,Ramme,V_Karsten_Bjerg,Karsten Bjerg,"Venstre, Danmarks Liberale Parti",34
+Lemvig,4,Ramme,V_Steffen_Damsgaard,Steffen Damsgaard,"Venstre, Danmarks Liberale Parti",68
+Lemvig,4,Ramme,V_Bent_B._Graversen,Bent B. Graversen,"Venstre, Danmarks Liberale Parti",24
+Lemvig,4,Ramme,V_Asger_Gyldenkærne,Asger Gyldenkærne,"Venstre, Danmarks Liberale Parti",4
+Lemvig,4,Ramme,V_Christina_Serup_Hove,Christina Serup Hove,"Venstre, Danmarks Liberale Parti",14
+Lemvig,4,Ramme,V_Tina_Boel_van_Ingen,Tina Boel van Ingen,"Venstre, Danmarks Liberale Parti",7
+Lemvig,4,Ramme,V_Kurt_Anker_Jensen,Kurt Anker Jensen,"Venstre, Danmarks Liberale Parti",10
+Lemvig,4,Ramme,V_Søren_V._Jensen,Søren V. Jensen,"Venstre, Danmarks Liberale Parti",28
+Lemvig,4,Ramme,V_Gunnar_Lisby_Kjær,Gunnar Lisby Kjær,"Venstre, Danmarks Liberale Parti",45
+Lemvig,4,Ramme,V_Albert_Vinther_Krogh,Albert Vinther Krogh,"Venstre, Danmarks Liberale Parti",0
+Lemvig,4,Ramme,V_Ellen_Mejdahl,Ellen Mejdahl,"Venstre, Danmarks Liberale Parti",10
+Lemvig,4,Ramme,V_Chris_Olesen,Chris Olesen,"Venstre, Danmarks Liberale Parti",8
+Lemvig,4,Ramme,V_Susanne_Pallestoft,Susanne Pallestoft,"Venstre, Danmarks Liberale Parti",14
+Lemvig,4,Ramme,V_Michelle_Welle_Tange,Michelle Welle Tange,"Venstre, Danmarks Liberale Parti",4
+Lemvig,4,Ramme,V_Henrik_Thygesen,Henrik Thygesen,"Venstre, Danmarks Liberale Parti",10
+Lemvig,5,Bøvling,A_Listestemmer,Listestemmer,Socialdemokratiet,21
+Lemvig,5,Bøvling,A_Lone_Pilgaard_Sørensen,Lone Pilgaard Sørensen,Socialdemokratiet,26
+Lemvig,5,Bøvling,A_Bent_Wolder_Mortensen,Bent Wolder Mortensen,Socialdemokratiet,3
+Lemvig,5,Bøvling,A_Tina_Mortensen,Tina Mortensen,Socialdemokratiet,6
+Lemvig,5,Bøvling,A_Peter_Borup_Sørensen,Peter Borup Sørensen,Socialdemokratiet,19
+Lemvig,5,Bøvling,A_Ole_Skovsgaard_Daniel,Ole Skovsgaard Daniel,Socialdemokratiet,2
+Lemvig,5,Bøvling,A_Steen_Madsen,Steen Madsen,Socialdemokratiet,4
+Lemvig,5,Bøvling,A_Allan_Mose_Jakobsen,Allan Mose Jakobsen,Socialdemokratiet,0
+Lemvig,5,Bøvling,A_Bjarne_Jensen,Bjarne Jensen,Socialdemokratiet,1
+Lemvig,5,Bøvling,B_Listestemmer,Listestemmer,Radikale Venstre,2
+Lemvig,5,Bøvling,B_Gitte_Winther_Jeppesen,Gitte Winther Jeppesen,Radikale Venstre,5
+Lemvig,5,Bøvling,B_Ole_Margon,Ole Margon,Radikale Venstre,5
+Lemvig,5,Bøvling,B_Keld_Marstrand_Wang,Keld Marstrand Wang,Radikale Venstre,1
+Lemvig,5,Bøvling,B_Sjønne_Kallesøe,Sjønne Kallesøe,Radikale Venstre,0
+Lemvig,5,Bøvling,B_Henrik_Hvas-Busk,Henrik Hvas-Busk,Radikale Venstre,0
+Lemvig,5,Bøvling,B_Anna_Maria_Hoornenborg,Anna Maria Hoornenborg,Radikale Venstre,0
+Lemvig,5,Bøvling,B_Azad_Palmqvist,Azad Palmqvist,Radikale Venstre,0
+Lemvig,5,Bøvling,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,9
+Lemvig,5,Bøvling,C_Jens_Lønberg,Jens Lønberg,Det Konservative Folkeparti,34
+Lemvig,5,Bøvling,C_Benedicte_Hjerl_Carstensen,Benedicte Hjerl Carstensen,Det Konservative Folkeparti,9
+Lemvig,5,Bøvling,C_Alex_Augustinus_Gregersen,Alex Augustinus Gregersen,Det Konservative Folkeparti,0
+Lemvig,5,Bøvling,C_Mikael_Matthesen,Mikael Matthesen,Det Konservative Folkeparti,1
+Lemvig,5,Bøvling,C_Claus_Ø._Mosekjær,Claus Ø. Mosekjær,Det Konservative Folkeparti,1
+Lemvig,5,Bøvling,C_Jens_Jørn_Porup,Jens Jørn Porup,Det Konservative Folkeparti,0
+Lemvig,5,Bøvling,C_Rasmus_Porup,Rasmus Porup,Det Konservative Folkeparti,7
+Lemvig,5,Bøvling,C_Lars_Snejbjerg,Lars Snejbjerg,Det Konservative Folkeparti,3
+Lemvig,5,Bøvling,D_Listestemmer,Listestemmer,Nye Borgerlige,7
+Lemvig,5,Bøvling,D_Allan_Berg,Allan Berg,Nye Borgerlige,16
+Lemvig,5,Bøvling,D_Bent_Løkke,Bent Løkke,Nye Borgerlige,15
+Lemvig,5,Bøvling,D_Tina_Berg,Tina Berg,Nye Borgerlige,3
+Lemvig,5,Bøvling,D_Nick_Janus_Larsen,Nick Janus Larsen,Nye Borgerlige,1
+Lemvig,5,Bøvling,D_Bodil_Reinau,Bodil Reinau,Nye Borgerlige,0
+Lemvig,5,Bøvling,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,11
+Lemvig,5,Bøvling,F_Arne_Noe,Arne Noe,SF - Socialistisk Folkeparti,18
+Lemvig,5,Bøvling,F_Dorete_Kallesøe,Dorete Kallesøe,SF - Socialistisk Folkeparti,12
+Lemvig,5,Bøvling,F_Jacob_Hansen_Rye,Jacob Hansen Rye,SF - Socialistisk Folkeparti,0
+Lemvig,5,Bøvling,F_Ditte_Wittrup,Ditte Wittrup,SF - Socialistisk Folkeparti,2
+Lemvig,5,Bøvling,F_Jørn_Nielsen,Jørn Nielsen,SF - Socialistisk Folkeparti,45
+Lemvig,5,Bøvling,F_Britta_G._Kubstrup,Britta G. Kubstrup,SF - Socialistisk Folkeparti,3
+Lemvig,5,Bøvling,F_Brian_Lehm_Nielsen,Brian Lehm Nielsen,SF - Socialistisk Folkeparti,0
+Lemvig,5,Bøvling,F_Janet_Jensen,Janet Jensen,SF - Socialistisk Folkeparti,3
+Lemvig,5,Bøvling,F_Pia_Ellesøe_Gasseholm,Pia Ellesøe Gasseholm,SF - Socialistisk Folkeparti,1
+Lemvig,5,Bøvling,F_Søren_Christensen,Søren Christensen,SF - Socialistisk Folkeparti,0
+Lemvig,5,Bøvling,I_Listestemmer,Listestemmer,Liberal Alliance,1
+Lemvig,5,Bøvling,I_Stefan_Agger,Stefan Agger,Liberal Alliance,7
+Lemvig,5,Bøvling,I_Daniel_Vestfjörd_Óskarsson,Daniel Vestfjörd Óskarsson,Liberal Alliance,0
+Lemvig,5,Bøvling,O_Listestemmer,Listestemmer,Dansk Folkeparti,5
+Lemvig,5,Bøvling,O_Karl_Balleby,Karl Balleby,Dansk Folkeparti,14
+Lemvig,5,Bøvling,O_Henning_Juhl_Christensen,Henning Juhl Christensen,Dansk Folkeparti,3
+Lemvig,5,Bøvling,O_Kirsten_Nielsen,Kirsten Nielsen,Dansk Folkeparti,2
+Lemvig,5,Bøvling,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",23
+Lemvig,5,Bøvling,V_Erik_Flyvholm,Erik Flyvholm,"Venstre, Danmarks Liberale Parti",65
+Lemvig,5,Bøvling,V_Mikael_Bertelsen,Mikael Bertelsen,"Venstre, Danmarks Liberale Parti",1
+Lemvig,5,Bøvling,V_Karsten_Bjerg,Karsten Bjerg,"Venstre, Danmarks Liberale Parti",7
+Lemvig,5,Bøvling,V_Steffen_Damsgaard,Steffen Damsgaard,"Venstre, Danmarks Liberale Parti",21
+Lemvig,5,Bøvling,V_Bent_B._Graversen,Bent B. Graversen,"Venstre, Danmarks Liberale Parti",21
+Lemvig,5,Bøvling,V_Asger_Gyldenkærne,Asger Gyldenkærne,"Venstre, Danmarks Liberale Parti",143
+Lemvig,5,Bøvling,V_Christina_Serup_Hove,Christina Serup Hove,"Venstre, Danmarks Liberale Parti",40
+Lemvig,5,Bøvling,V_Tina_Boel_van_Ingen,Tina Boel van Ingen,"Venstre, Danmarks Liberale Parti",18
+Lemvig,5,Bøvling,V_Kurt_Anker_Jensen,Kurt Anker Jensen,"Venstre, Danmarks Liberale Parti",3
+Lemvig,5,Bøvling,V_Søren_V._Jensen,Søren V. Jensen,"Venstre, Danmarks Liberale Parti",8
+Lemvig,5,Bøvling,V_Gunnar_Lisby_Kjær,Gunnar Lisby Kjær,"Venstre, Danmarks Liberale Parti",25
+Lemvig,5,Bøvling,V_Albert_Vinther_Krogh,Albert Vinther Krogh,"Venstre, Danmarks Liberale Parti",0
+Lemvig,5,Bøvling,V_Ellen_Mejdahl,Ellen Mejdahl,"Venstre, Danmarks Liberale Parti",2
+Lemvig,5,Bøvling,V_Chris_Olesen,Chris Olesen,"Venstre, Danmarks Liberale Parti",0
+Lemvig,5,Bøvling,V_Susanne_Pallestoft,Susanne Pallestoft,"Venstre, Danmarks Liberale Parti",5
+Lemvig,5,Bøvling,V_Michelle_Welle_Tange,Michelle Welle Tange,"Venstre, Danmarks Liberale Parti",0
+Lemvig,5,Bøvling,V_Henrik_Thygesen,Henrik Thygesen,"Venstre, Danmarks Liberale Parti",7
+Lemvig,6,Flynder,A_Listestemmer,Listestemmer,Socialdemokratiet,16
+Lemvig,6,Flynder,A_Lone_Pilgaard_Sørensen,Lone Pilgaard Sørensen,Socialdemokratiet,36
+Lemvig,6,Flynder,A_Bent_Wolder_Mortensen,Bent Wolder Mortensen,Socialdemokratiet,9
+Lemvig,6,Flynder,A_Tina_Mortensen,Tina Mortensen,Socialdemokratiet,8
+Lemvig,6,Flynder,A_Peter_Borup_Sørensen,Peter Borup Sørensen,Socialdemokratiet,6
+Lemvig,6,Flynder,A_Ole_Skovsgaard_Daniel,Ole Skovsgaard Daniel,Socialdemokratiet,3
+Lemvig,6,Flynder,A_Steen_Madsen,Steen Madsen,Socialdemokratiet,6
+Lemvig,6,Flynder,A_Allan_Mose_Jakobsen,Allan Mose Jakobsen,Socialdemokratiet,2
+Lemvig,6,Flynder,A_Bjarne_Jensen,Bjarne Jensen,Socialdemokratiet,4
+Lemvig,6,Flynder,B_Listestemmer,Listestemmer,Radikale Venstre,1
+Lemvig,6,Flynder,B_Gitte_Winther_Jeppesen,Gitte Winther Jeppesen,Radikale Venstre,1
+Lemvig,6,Flynder,B_Ole_Margon,Ole Margon,Radikale Venstre,1
+Lemvig,6,Flynder,B_Keld_Marstrand_Wang,Keld Marstrand Wang,Radikale Venstre,0
+Lemvig,6,Flynder,B_Sjønne_Kallesøe,Sjønne Kallesøe,Radikale Venstre,0
+Lemvig,6,Flynder,B_Henrik_Hvas-Busk,Henrik Hvas-Busk,Radikale Venstre,0
+Lemvig,6,Flynder,B_Anna_Maria_Hoornenborg,Anna Maria Hoornenborg,Radikale Venstre,0
+Lemvig,6,Flynder,B_Azad_Palmqvist,Azad Palmqvist,Radikale Venstre,0
+Lemvig,6,Flynder,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,5
+Lemvig,6,Flynder,C_Jens_Lønberg,Jens Lønberg,Det Konservative Folkeparti,115
+Lemvig,6,Flynder,C_Benedicte_Hjerl_Carstensen,Benedicte Hjerl Carstensen,Det Konservative Folkeparti,1
+Lemvig,6,Flynder,C_Alex_Augustinus_Gregersen,Alex Augustinus Gregersen,Det Konservative Folkeparti,0
+Lemvig,6,Flynder,C_Mikael_Matthesen,Mikael Matthesen,Det Konservative Folkeparti,1
+Lemvig,6,Flynder,C_Claus_Ø._Mosekjær,Claus Ø. Mosekjær,Det Konservative Folkeparti,5
+Lemvig,6,Flynder,C_Jens_Jørn_Porup,Jens Jørn Porup,Det Konservative Folkeparti,1
+Lemvig,6,Flynder,C_Rasmus_Porup,Rasmus Porup,Det Konservative Folkeparti,17
+Lemvig,6,Flynder,C_Lars_Snejbjerg,Lars Snejbjerg,Det Konservative Folkeparti,5
+Lemvig,6,Flynder,D_Listestemmer,Listestemmer,Nye Borgerlige,13
+Lemvig,6,Flynder,D_Allan_Berg,Allan Berg,Nye Borgerlige,12
+Lemvig,6,Flynder,D_Bent_Løkke,Bent Løkke,Nye Borgerlige,23
+Lemvig,6,Flynder,D_Tina_Berg,Tina Berg,Nye Borgerlige,5
+Lemvig,6,Flynder,D_Nick_Janus_Larsen,Nick Janus Larsen,Nye Borgerlige,0
+Lemvig,6,Flynder,D_Bodil_Reinau,Bodil Reinau,Nye Borgerlige,1
+Lemvig,6,Flynder,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,16
+Lemvig,6,Flynder,F_Arne_Noe,Arne Noe,SF - Socialistisk Folkeparti,23
+Lemvig,6,Flynder,F_Dorete_Kallesøe,Dorete Kallesøe,SF - Socialistisk Folkeparti,15
+Lemvig,6,Flynder,F_Jacob_Hansen_Rye,Jacob Hansen Rye,SF - Socialistisk Folkeparti,2
+Lemvig,6,Flynder,F_Ditte_Wittrup,Ditte Wittrup,SF - Socialistisk Folkeparti,0
+Lemvig,6,Flynder,F_Jørn_Nielsen,Jørn Nielsen,SF - Socialistisk Folkeparti,3
+Lemvig,6,Flynder,F_Britta_G._Kubstrup,Britta G. Kubstrup,SF - Socialistisk Folkeparti,0
+Lemvig,6,Flynder,F_Brian_Lehm_Nielsen,Brian Lehm Nielsen,SF - Socialistisk Folkeparti,0
+Lemvig,6,Flynder,F_Janet_Jensen,Janet Jensen,SF - Socialistisk Folkeparti,0
+Lemvig,6,Flynder,F_Pia_Ellesøe_Gasseholm,Pia Ellesøe Gasseholm,SF - Socialistisk Folkeparti,0
+Lemvig,6,Flynder,F_Søren_Christensen,Søren Christensen,SF - Socialistisk Folkeparti,0
+Lemvig,6,Flynder,I_Listestemmer,Listestemmer,Liberal Alliance,2
+Lemvig,6,Flynder,I_Stefan_Agger,Stefan Agger,Liberal Alliance,3
+Lemvig,6,Flynder,I_Daniel_Vestfjörd_Óskarsson,Daniel Vestfjörd Óskarsson,Liberal Alliance,1
+Lemvig,6,Flynder,O_Listestemmer,Listestemmer,Dansk Folkeparti,5
+Lemvig,6,Flynder,O_Karl_Balleby,Karl Balleby,Dansk Folkeparti,13
+Lemvig,6,Flynder,O_Henning_Juhl_Christensen,Henning Juhl Christensen,Dansk Folkeparti,5
+Lemvig,6,Flynder,O_Kirsten_Nielsen,Kirsten Nielsen,Dansk Folkeparti,4
+Lemvig,6,Flynder,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",23
+Lemvig,6,Flynder,V_Erik_Flyvholm,Erik Flyvholm,"Venstre, Danmarks Liberale Parti",44
+Lemvig,6,Flynder,V_Mikael_Bertelsen,Mikael Bertelsen,"Venstre, Danmarks Liberale Parti",1
+Lemvig,6,Flynder,V_Karsten_Bjerg,Karsten Bjerg,"Venstre, Danmarks Liberale Parti",2
+Lemvig,6,Flynder,V_Steffen_Damsgaard,Steffen Damsgaard,"Venstre, Danmarks Liberale Parti",15
+Lemvig,6,Flynder,V_Bent_B._Graversen,Bent B. Graversen,"Venstre, Danmarks Liberale Parti",12
+Lemvig,6,Flynder,V_Asger_Gyldenkærne,Asger Gyldenkærne,"Venstre, Danmarks Liberale Parti",2
+Lemvig,6,Flynder,V_Christina_Serup_Hove,Christina Serup Hove,"Venstre, Danmarks Liberale Parti",166
+Lemvig,6,Flynder,V_Tina_Boel_van_Ingen,Tina Boel van Ingen,"Venstre, Danmarks Liberale Parti",110
+Lemvig,6,Flynder,V_Kurt_Anker_Jensen,Kurt Anker Jensen,"Venstre, Danmarks Liberale Parti",2
+Lemvig,6,Flynder,V_Søren_V._Jensen,Søren V. Jensen,"Venstre, Danmarks Liberale Parti",22
+Lemvig,6,Flynder,V_Gunnar_Lisby_Kjær,Gunnar Lisby Kjær,"Venstre, Danmarks Liberale Parti",14
+Lemvig,6,Flynder,V_Albert_Vinther_Krogh,Albert Vinther Krogh,"Venstre, Danmarks Liberale Parti",0
+Lemvig,6,Flynder,V_Ellen_Mejdahl,Ellen Mejdahl,"Venstre, Danmarks Liberale Parti",5
+Lemvig,6,Flynder,V_Chris_Olesen,Chris Olesen,"Venstre, Danmarks Liberale Parti",3
+Lemvig,6,Flynder,V_Susanne_Pallestoft,Susanne Pallestoft,"Venstre, Danmarks Liberale Parti",2
+Lemvig,6,Flynder,V_Michelle_Welle_Tange,Michelle Welle Tange,"Venstre, Danmarks Liberale Parti",0
+Lemvig,6,Flynder,V_Henrik_Thygesen,Henrik Thygesen,"Venstre, Danmarks Liberale Parti",2
+Lemvig,7,Thyborøn,A_Listestemmer,Listestemmer,Socialdemokratiet,33
+Lemvig,7,Thyborøn,A_Lone_Pilgaard_Sørensen,Lone Pilgaard Sørensen,Socialdemokratiet,69
+Lemvig,7,Thyborøn,A_Bent_Wolder_Mortensen,Bent Wolder Mortensen,Socialdemokratiet,2
+Lemvig,7,Thyborøn,A_Tina_Mortensen,Tina Mortensen,Socialdemokratiet,2
+Lemvig,7,Thyborøn,A_Peter_Borup_Sørensen,Peter Borup Sørensen,Socialdemokratiet,14
+Lemvig,7,Thyborøn,A_Ole_Skovsgaard_Daniel,Ole Skovsgaard Daniel,Socialdemokratiet,0
+Lemvig,7,Thyborøn,A_Steen_Madsen,Steen Madsen,Socialdemokratiet,4
+Lemvig,7,Thyborøn,A_Allan_Mose_Jakobsen,Allan Mose Jakobsen,Socialdemokratiet,0
+Lemvig,7,Thyborøn,A_Bjarne_Jensen,Bjarne Jensen,Socialdemokratiet,1
+Lemvig,7,Thyborøn,B_Listestemmer,Listestemmer,Radikale Venstre,1
+Lemvig,7,Thyborøn,B_Gitte_Winther_Jeppesen,Gitte Winther Jeppesen,Radikale Venstre,2
+Lemvig,7,Thyborøn,B_Ole_Margon,Ole Margon,Radikale Venstre,0
+Lemvig,7,Thyborøn,B_Keld_Marstrand_Wang,Keld Marstrand Wang,Radikale Venstre,1
+Lemvig,7,Thyborøn,B_Sjønne_Kallesøe,Sjønne Kallesøe,Radikale Venstre,0
+Lemvig,7,Thyborøn,B_Henrik_Hvas-Busk,Henrik Hvas-Busk,Radikale Venstre,1
+Lemvig,7,Thyborøn,B_Anna_Maria_Hoornenborg,Anna Maria Hoornenborg,Radikale Venstre,0
+Lemvig,7,Thyborøn,B_Azad_Palmqvist,Azad Palmqvist,Radikale Venstre,1
+Lemvig,7,Thyborøn,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,4
+Lemvig,7,Thyborøn,C_Jens_Lønberg,Jens Lønberg,Det Konservative Folkeparti,9
+Lemvig,7,Thyborøn,C_Benedicte_Hjerl_Carstensen,Benedicte Hjerl Carstensen,Det Konservative Folkeparti,2
+Lemvig,7,Thyborøn,C_Alex_Augustinus_Gregersen,Alex Augustinus Gregersen,Det Konservative Folkeparti,0
+Lemvig,7,Thyborøn,C_Mikael_Matthesen,Mikael Matthesen,Det Konservative Folkeparti,0
+Lemvig,7,Thyborøn,C_Claus_Ø._Mosekjær,Claus Ø. Mosekjær,Det Konservative Folkeparti,1
+Lemvig,7,Thyborøn,C_Jens_Jørn_Porup,Jens Jørn Porup,Det Konservative Folkeparti,2
+Lemvig,7,Thyborøn,C_Rasmus_Porup,Rasmus Porup,Det Konservative Folkeparti,0
+Lemvig,7,Thyborøn,C_Lars_Snejbjerg,Lars Snejbjerg,Det Konservative Folkeparti,5
+Lemvig,7,Thyborøn,D_Listestemmer,Listestemmer,Nye Borgerlige,10
+Lemvig,7,Thyborøn,D_Allan_Berg,Allan Berg,Nye Borgerlige,21
+Lemvig,7,Thyborøn,D_Bent_Løkke,Bent Løkke,Nye Borgerlige,0
+Lemvig,7,Thyborøn,D_Tina_Berg,Tina Berg,Nye Borgerlige,0
+Lemvig,7,Thyborøn,D_Nick_Janus_Larsen,Nick Janus Larsen,Nye Borgerlige,2
+Lemvig,7,Thyborøn,D_Bodil_Reinau,Bodil Reinau,Nye Borgerlige,0
+Lemvig,7,Thyborøn,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,10
+Lemvig,7,Thyborøn,F_Arne_Noe,Arne Noe,SF - Socialistisk Folkeparti,8
+Lemvig,7,Thyborøn,F_Dorete_Kallesøe,Dorete Kallesøe,SF - Socialistisk Folkeparti,8
+Lemvig,7,Thyborøn,F_Jacob_Hansen_Rye,Jacob Hansen Rye,SF - Socialistisk Folkeparti,1
+Lemvig,7,Thyborøn,F_Ditte_Wittrup,Ditte Wittrup,SF - Socialistisk Folkeparti,1
+Lemvig,7,Thyborøn,F_Jørn_Nielsen,Jørn Nielsen,SF - Socialistisk Folkeparti,0
+Lemvig,7,Thyborøn,F_Britta_G._Kubstrup,Britta G. Kubstrup,SF - Socialistisk Folkeparti,0
+Lemvig,7,Thyborøn,F_Brian_Lehm_Nielsen,Brian Lehm Nielsen,SF - Socialistisk Folkeparti,0
+Lemvig,7,Thyborøn,F_Janet_Jensen,Janet Jensen,SF - Socialistisk Folkeparti,0
+Lemvig,7,Thyborøn,F_Pia_Ellesøe_Gasseholm,Pia Ellesøe Gasseholm,SF - Socialistisk Folkeparti,0
+Lemvig,7,Thyborøn,F_Søren_Christensen,Søren Christensen,SF - Socialistisk Folkeparti,0
+Lemvig,7,Thyborøn,I_Listestemmer,Listestemmer,Liberal Alliance,0
+Lemvig,7,Thyborøn,I_Stefan_Agger,Stefan Agger,Liberal Alliance,5
+Lemvig,7,Thyborøn,I_Daniel_Vestfjörd_Óskarsson,Daniel Vestfjörd Óskarsson,Liberal Alliance,0
+Lemvig,7,Thyborøn,O_Listestemmer,Listestemmer,Dansk Folkeparti,5
+Lemvig,7,Thyborøn,O_Karl_Balleby,Karl Balleby,Dansk Folkeparti,9
+Lemvig,7,Thyborøn,O_Henning_Juhl_Christensen,Henning Juhl Christensen,Dansk Folkeparti,1
+Lemvig,7,Thyborøn,O_Kirsten_Nielsen,Kirsten Nielsen,Dansk Folkeparti,0
+Lemvig,7,Thyborøn,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",13
+Lemvig,7,Thyborøn,V_Erik_Flyvholm,Erik Flyvholm,"Venstre, Danmarks Liberale Parti",95
+Lemvig,7,Thyborøn,V_Mikael_Bertelsen,Mikael Bertelsen,"Venstre, Danmarks Liberale Parti",1
+Lemvig,7,Thyborøn,V_Karsten_Bjerg,Karsten Bjerg,"Venstre, Danmarks Liberale Parti",0
+Lemvig,7,Thyborøn,V_Steffen_Damsgaard,Steffen Damsgaard,"Venstre, Danmarks Liberale Parti",4
+Lemvig,7,Thyborøn,V_Bent_B._Graversen,Bent B. Graversen,"Venstre, Danmarks Liberale Parti",1
+Lemvig,7,Thyborøn,V_Asger_Gyldenkærne,Asger Gyldenkærne,"Venstre, Danmarks Liberale Parti",0
+Lemvig,7,Thyborøn,V_Christina_Serup_Hove,Christina Serup Hove,"Venstre, Danmarks Liberale Parti",1
+Lemvig,7,Thyborøn,V_Tina_Boel_van_Ingen,Tina Boel van Ingen,"Venstre, Danmarks Liberale Parti",0
+Lemvig,7,Thyborøn,V_Kurt_Anker_Jensen,Kurt Anker Jensen,"Venstre, Danmarks Liberale Parti",0
+Lemvig,7,Thyborøn,V_Søren_V._Jensen,Søren V. Jensen,"Venstre, Danmarks Liberale Parti",3
+Lemvig,7,Thyborøn,V_Gunnar_Lisby_Kjær,Gunnar Lisby Kjær,"Venstre, Danmarks Liberale Parti",2
+Lemvig,7,Thyborøn,V_Albert_Vinther_Krogh,Albert Vinther Krogh,"Venstre, Danmarks Liberale Parti",153
+Lemvig,7,Thyborøn,V_Ellen_Mejdahl,Ellen Mejdahl,"Venstre, Danmarks Liberale Parti",1
+Lemvig,7,Thyborøn,V_Chris_Olesen,Chris Olesen,"Venstre, Danmarks Liberale Parti",416
+Lemvig,7,Thyborøn,V_Susanne_Pallestoft,Susanne Pallestoft,"Venstre, Danmarks Liberale Parti",4
+Lemvig,7,Thyborøn,V_Michelle_Welle_Tange,Michelle Welle Tange,"Venstre, Danmarks Liberale Parti",127
+Lemvig,7,Thyborøn,V_Henrik_Thygesen,Henrik Thygesen,"Venstre, Danmarks Liberale Parti",0
+Lemvig,8,Harboøre,A_Listestemmer,Listestemmer,Socialdemokratiet,23
+Lemvig,8,Harboøre,A_Lone_Pilgaard_Sørensen,Lone Pilgaard Sørensen,Socialdemokratiet,85
+Lemvig,8,Harboøre,A_Bent_Wolder_Mortensen,Bent Wolder Mortensen,Socialdemokratiet,0
+Lemvig,8,Harboøre,A_Tina_Mortensen,Tina Mortensen,Socialdemokratiet,7
+Lemvig,8,Harboøre,A_Peter_Borup_Sørensen,Peter Borup Sørensen,Socialdemokratiet,15
+Lemvig,8,Harboøre,A_Ole_Skovsgaard_Daniel,Ole Skovsgaard Daniel,Socialdemokratiet,1
+Lemvig,8,Harboøre,A_Steen_Madsen,Steen Madsen,Socialdemokratiet,17
+Lemvig,8,Harboøre,A_Allan_Mose_Jakobsen,Allan Mose Jakobsen,Socialdemokratiet,2
+Lemvig,8,Harboøre,A_Bjarne_Jensen,Bjarne Jensen,Socialdemokratiet,1
+Lemvig,8,Harboøre,B_Listestemmer,Listestemmer,Radikale Venstre,0
+Lemvig,8,Harboøre,B_Gitte_Winther_Jeppesen,Gitte Winther Jeppesen,Radikale Venstre,6
+Lemvig,8,Harboøre,B_Ole_Margon,Ole Margon,Radikale Venstre,2
+Lemvig,8,Harboøre,B_Keld_Marstrand_Wang,Keld Marstrand Wang,Radikale Venstre,2
+Lemvig,8,Harboøre,B_Sjønne_Kallesøe,Sjønne Kallesøe,Radikale Venstre,0
+Lemvig,8,Harboøre,B_Henrik_Hvas-Busk,Henrik Hvas-Busk,Radikale Venstre,1
+Lemvig,8,Harboøre,B_Anna_Maria_Hoornenborg,Anna Maria Hoornenborg,Radikale Venstre,2
+Lemvig,8,Harboøre,B_Azad_Palmqvist,Azad Palmqvist,Radikale Venstre,0
+Lemvig,8,Harboøre,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,10
+Lemvig,8,Harboøre,C_Jens_Lønberg,Jens Lønberg,Det Konservative Folkeparti,17
+Lemvig,8,Harboøre,C_Benedicte_Hjerl_Carstensen,Benedicte Hjerl Carstensen,Det Konservative Folkeparti,6
+Lemvig,8,Harboøre,C_Alex_Augustinus_Gregersen,Alex Augustinus Gregersen,Det Konservative Folkeparti,2
+Lemvig,8,Harboøre,C_Mikael_Matthesen,Mikael Matthesen,Det Konservative Folkeparti,0
+Lemvig,8,Harboøre,C_Claus_Ø._Mosekjær,Claus Ø. Mosekjær,Det Konservative Folkeparti,0
+Lemvig,8,Harboøre,C_Jens_Jørn_Porup,Jens Jørn Porup,Det Konservative Folkeparti,1
+Lemvig,8,Harboøre,C_Rasmus_Porup,Rasmus Porup,Det Konservative Folkeparti,5
+Lemvig,8,Harboøre,C_Lars_Snejbjerg,Lars Snejbjerg,Det Konservative Folkeparti,84
+Lemvig,8,Harboøre,D_Listestemmer,Listestemmer,Nye Borgerlige,9
+Lemvig,8,Harboøre,D_Allan_Berg,Allan Berg,Nye Borgerlige,17
+Lemvig,8,Harboøre,D_Bent_Løkke,Bent Løkke,Nye Borgerlige,3
+Lemvig,8,Harboøre,D_Tina_Berg,Tina Berg,Nye Borgerlige,1
+Lemvig,8,Harboøre,D_Nick_Janus_Larsen,Nick Janus Larsen,Nye Borgerlige,0
+Lemvig,8,Harboøre,D_Bodil_Reinau,Bodil Reinau,Nye Borgerlige,0
+Lemvig,8,Harboøre,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,6
+Lemvig,8,Harboøre,F_Arne_Noe,Arne Noe,SF - Socialistisk Folkeparti,17
+Lemvig,8,Harboøre,F_Dorete_Kallesøe,Dorete Kallesøe,SF - Socialistisk Folkeparti,8
+Lemvig,8,Harboøre,F_Jacob_Hansen_Rye,Jacob Hansen Rye,SF - Socialistisk Folkeparti,1
+Lemvig,8,Harboøre,F_Ditte_Wittrup,Ditte Wittrup,SF - Socialistisk Folkeparti,0
+Lemvig,8,Harboøre,F_Jørn_Nielsen,Jørn Nielsen,SF - Socialistisk Folkeparti,0
+Lemvig,8,Harboøre,F_Britta_G._Kubstrup,Britta G. Kubstrup,SF - Socialistisk Folkeparti,2
+Lemvig,8,Harboøre,F_Brian_Lehm_Nielsen,Brian Lehm Nielsen,SF - Socialistisk Folkeparti,0
+Lemvig,8,Harboøre,F_Janet_Jensen,Janet Jensen,SF - Socialistisk Folkeparti,0
+Lemvig,8,Harboøre,F_Pia_Ellesøe_Gasseholm,Pia Ellesøe Gasseholm,SF - Socialistisk Folkeparti,0
+Lemvig,8,Harboøre,F_Søren_Christensen,Søren Christensen,SF - Socialistisk Folkeparti,0
+Lemvig,8,Harboøre,I_Listestemmer,Listestemmer,Liberal Alliance,2
+Lemvig,8,Harboøre,I_Stefan_Agger,Stefan Agger,Liberal Alliance,1
+Lemvig,8,Harboøre,I_Daniel_Vestfjörd_Óskarsson,Daniel Vestfjörd Óskarsson,Liberal Alliance,2
+Lemvig,8,Harboøre,O_Listestemmer,Listestemmer,Dansk Folkeparti,9
+Lemvig,8,Harboøre,O_Karl_Balleby,Karl Balleby,Dansk Folkeparti,5
+Lemvig,8,Harboøre,O_Henning_Juhl_Christensen,Henning Juhl Christensen,Dansk Folkeparti,4
+Lemvig,8,Harboøre,O_Kirsten_Nielsen,Kirsten Nielsen,Dansk Folkeparti,2
+Lemvig,8,Harboøre,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",20
+Lemvig,8,Harboøre,V_Erik_Flyvholm,Erik Flyvholm,"Venstre, Danmarks Liberale Parti",521
+Lemvig,8,Harboøre,V_Mikael_Bertelsen,Mikael Bertelsen,"Venstre, Danmarks Liberale Parti",1
+Lemvig,8,Harboøre,V_Karsten_Bjerg,Karsten Bjerg,"Venstre, Danmarks Liberale Parti",0
+Lemvig,8,Harboøre,V_Steffen_Damsgaard,Steffen Damsgaard,"Venstre, Danmarks Liberale Parti",16
+Lemvig,8,Harboøre,V_Bent_B._Graversen,Bent B. Graversen,"Venstre, Danmarks Liberale Parti",5
+Lemvig,8,Harboøre,V_Asger_Gyldenkærne,Asger Gyldenkærne,"Venstre, Danmarks Liberale Parti",0
+Lemvig,8,Harboøre,V_Christina_Serup_Hove,Christina Serup Hove,"Venstre, Danmarks Liberale Parti",2
+Lemvig,8,Harboøre,V_Tina_Boel_van_Ingen,Tina Boel van Ingen,"Venstre, Danmarks Liberale Parti",2
+Lemvig,8,Harboøre,V_Kurt_Anker_Jensen,Kurt Anker Jensen,"Venstre, Danmarks Liberale Parti",0
+Lemvig,8,Harboøre,V_Søren_V._Jensen,Søren V. Jensen,"Venstre, Danmarks Liberale Parti",7
+Lemvig,8,Harboøre,V_Gunnar_Lisby_Kjær,Gunnar Lisby Kjær,"Venstre, Danmarks Liberale Parti",6
+Lemvig,8,Harboøre,V_Albert_Vinther_Krogh,Albert Vinther Krogh,"Venstre, Danmarks Liberale Parti",21
+Lemvig,8,Harboøre,V_Ellen_Mejdahl,Ellen Mejdahl,"Venstre, Danmarks Liberale Parti",9
+Lemvig,8,Harboøre,V_Chris_Olesen,Chris Olesen,"Venstre, Danmarks Liberale Parti",27
+Lemvig,8,Harboøre,V_Susanne_Pallestoft,Susanne Pallestoft,"Venstre, Danmarks Liberale Parti",17
+Lemvig,8,Harboøre,V_Michelle_Welle_Tange,Michelle Welle Tange,"Venstre, Danmarks Liberale Parti",11
+Lemvig,8,Harboøre,V_Henrik_Thygesen,Henrik Thygesen,"Venstre, Danmarks Liberale Parti",7

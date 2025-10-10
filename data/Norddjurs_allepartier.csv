@@ -1,0 +1,891 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Norddjurs,1,Kulturhuset Pavillonen,A_Listestemmer,Listestemmer,Socialdemokratiet,250
+Norddjurs,1,Kulturhuset Pavillonen,"A_Jan_Petersen,_Sangstrup","Jan Petersen, Sangstrup",Socialdemokratiet,546
+Norddjurs,1,Kulturhuset Pavillonen,"A_Lars_Møller,_Grenaa","Lars Møller, Grenaa",Socialdemokratiet,208
+Norddjurs,1,Kulturhuset Pavillonen,"A_Allan_Gjersbøl_Jørgensen,_Grenaa","Allan Gjersbøl Jørgensen, Grenaa",Socialdemokratiet,234
+Norddjurs,1,Kulturhuset Pavillonen,"A_Bente_Hedegaard,_Auning","Bente Hedegaard, Auning",Socialdemokratiet,9
+Norddjurs,1,Kulturhuset Pavillonen,"A_Karoline_Bergkvist_Søgaard,_Rimsø","Karoline Bergkvist Søgaard, Rimsø",Socialdemokratiet,68
+Norddjurs,1,Kulturhuset Pavillonen,"A_Anette_Ruby_Liebe,_Grenaa","Anette Ruby Liebe, Grenaa",Socialdemokratiet,127
+Norddjurs,1,Kulturhuset Pavillonen,"A_Fritz_Birk_Sørensen,_Allingåbro","Fritz Birk Sørensen, Allingåbro",Socialdemokratiet,5
+Norddjurs,1,Kulturhuset Pavillonen,"A_Anders_Stenumgaard_Lind,_Grenaa","Anders Stenumgaard Lind, Grenaa",Socialdemokratiet,87
+Norddjurs,1,Kulturhuset Pavillonen,"A_Niels_Basballe,_Grenaa","Niels Basballe, Grenaa",Socialdemokratiet,78
+Norddjurs,1,Kulturhuset Pavillonen,"A_Hans_Fisker_Jensen,_Bønnerup","Hans Fisker Jensen, Bønnerup",Socialdemokratiet,14
+Norddjurs,1,Kulturhuset Pavillonen,"A_Tom_Bytoft,_Auning","Tom Bytoft, Auning",Socialdemokratiet,11
+Norddjurs,1,Kulturhuset Pavillonen,"A_Carsten_Hering_Nielsen,_Trustrup","Carsten Hering Nielsen, Trustrup",Socialdemokratiet,8
+Norddjurs,1,Kulturhuset Pavillonen,"A_Lars_Pedersen,_Udbyhøj","Lars Pedersen, Udbyhøj",Socialdemokratiet,11
+Norddjurs,1,Kulturhuset Pavillonen,"A_Carl-Eric_Würtz_Pallesen,_Grenaa","Carl-Eric Würtz Pallesen, Grenaa",Socialdemokratiet,50
+Norddjurs,1,Kulturhuset Pavillonen,"A_Carsten_Pleman,_Holbæk","Carsten Pleman, Holbæk",Socialdemokratiet,0
+Norddjurs,1,Kulturhuset Pavillonen,"A_Jacob_Gosvig_Haaber,_Stenvad","Jacob Gosvig Haaber, Stenvad",Socialdemokratiet,5
+Norddjurs,1,Kulturhuset Pavillonen,"A_Heidi_Hass_Madsen,_Glatved","Heidi Hass Madsen, Glatved",Socialdemokratiet,47
+Norddjurs,1,Kulturhuset Pavillonen,B_Listestemmer,Listestemmer,Radikale Venstre,33
+Norddjurs,1,Kulturhuset Pavillonen,"B_Ole_Svit,_Glesborg","Ole Svit, Glesborg",Radikale Venstre,77
+Norddjurs,1,Kulturhuset Pavillonen,"B_Else_Brask,_Grenaa","Else Brask, Grenaa",Radikale Venstre,12
+Norddjurs,1,Kulturhuset Pavillonen,"B_Jørn_Juul_Sørensen,_Grenaa","Jørn Juul Sørensen, Grenaa",Radikale Venstre,14
+Norddjurs,1,Kulturhuset Pavillonen,"B_Malene_Kristiansen,_Grenaa","Malene Kristiansen, Grenaa",Radikale Venstre,16
+Norddjurs,1,Kulturhuset Pavillonen,"B_Allan_Andersen,_Grenaa","Allan Andersen, Grenaa",Radikale Venstre,11
+Norddjurs,1,Kulturhuset Pavillonen,"B_Jacob_Hørlyk,_Grenaa","Jacob Hørlyk, Grenaa",Radikale Venstre,15
+Norddjurs,1,Kulturhuset Pavillonen,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,92
+Norddjurs,1,Kulturhuset Pavillonen,"C_Benny_Hammer,_Glesborg","Benny Hammer, Glesborg",Det Konservative Folkeparti,444
+Norddjurs,1,Kulturhuset Pavillonen,"C_Mads_Jensen,_Grenaa","Mads Jensen, Grenaa",Det Konservative Folkeparti,110
+Norddjurs,1,Kulturhuset Pavillonen,"C_Grethe_Hansen,_Bønnerup","Grethe Hansen, Bønnerup",Det Konservative Folkeparti,47
+Norddjurs,1,Kulturhuset Pavillonen,"C_Mads_Bjerregaard,_Auning","Mads Bjerregaard, Auning",Det Konservative Folkeparti,1
+Norddjurs,1,Kulturhuset Pavillonen,"C_Martin_Raghner,_Grenaa","Martin Raghner, Grenaa",Det Konservative Folkeparti,146
+Norddjurs,1,Kulturhuset Pavillonen,"C_Sarah_Reenberg,_Auning","Sarah Reenberg, Auning",Det Konservative Folkeparti,0
+Norddjurs,1,Kulturhuset Pavillonen,"C_Niels_Skov_Pedersen,_Ørum_Djurs","Niels Skov Pedersen, Ørum Djurs",Det Konservative Folkeparti,12
+Norddjurs,1,Kulturhuset Pavillonen,"C_Alice_Holst_Brask,_Grenaa","Alice Holst Brask, Grenaa",Det Konservative Folkeparti,11
+Norddjurs,1,Kulturhuset Pavillonen,"C_Ole_Olesen,_Grenaa","Ole Olesen, Grenaa",Det Konservative Folkeparti,1
+Norddjurs,1,Kulturhuset Pavillonen,"C_Søren_Peter_Hansen,_Glesborg","Søren Peter Hansen, Glesborg",Det Konservative Folkeparti,15
+Norddjurs,1,Kulturhuset Pavillonen,D_Listestemmer,Listestemmer,Nye Borgerlige,77
+Norddjurs,1,Kulturhuset Pavillonen,"D_Jens_Kannegaard_Lundager,_Veggersl","Jens Kannegaard Lundager, Veggersl",Nye Borgerlige,142
+Norddjurs,1,Kulturhuset Pavillonen,"D_Martin_Hansen,_Ørsted","Martin Hansen, Ørsted",Nye Borgerlige,5
+Norddjurs,1,Kulturhuset Pavillonen,"D_Peter_Husum,_Grenaa","Peter Husum, Grenaa",Nye Borgerlige,68
+Norddjurs,1,Kulturhuset Pavillonen,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,58
+Norddjurs,1,Kulturhuset Pavillonen,"F_Aleksander_Myrhøj,_Fjellerup","Aleksander Myrhøj, Fjellerup",SF - Socialistisk Folkeparti,226
+Norddjurs,1,Kulturhuset Pavillonen,"F_Jytte_Schmidt,_Vivild","Jytte Schmidt, Vivild",SF - Socialistisk Folkeparti,15
+Norddjurs,1,Kulturhuset Pavillonen,"F_Kasper_Vindbjerg,_Grenaa","Kasper Vindbjerg, Grenaa",SF - Socialistisk Folkeparti,113
+Norddjurs,1,Kulturhuset Pavillonen,"F_Morten_W._B._Pedersen,_Voer","Morten W. B. Pedersen, Voer",SF - Socialistisk Folkeparti,1
+Norddjurs,1,Kulturhuset Pavillonen,"F_Birgitte_Dahl_Jeppesen,_Anholt","Birgitte Dahl Jeppesen, Anholt",SF - Socialistisk Folkeparti,12
+Norddjurs,1,Kulturhuset Pavillonen,"F_Jytte_Dalgaard,_Lyngby","Jytte Dalgaard, Lyngby",SF - Socialistisk Folkeparti,10
+Norddjurs,1,Kulturhuset Pavillonen,"F_Jytte_Faurholt_Jacobsen,_Hemmed","Jytte Faurholt Jacobsen, Hemmed",SF - Socialistisk Folkeparti,4
+Norddjurs,1,Kulturhuset Pavillonen,"F_Erik_Knudsen,_Grenaa","Erik Knudsen, Grenaa",SF - Socialistisk Folkeparti,1
+Norddjurs,1,Kulturhuset Pavillonen,I_Listestemmer,Listestemmer,Liberal Alliance,19
+Norddjurs,1,Kulturhuset Pavillonen,"I_Jens_Meilvang,_Auning","Jens Meilvang, Auning",Liberal Alliance,99
+Norddjurs,1,Kulturhuset Pavillonen,"I_Sebastian_Grauert,_Grenaa","Sebastian Grauert, Grenaa",Liberal Alliance,23
+Norddjurs,1,Kulturhuset Pavillonen,"I_Stinne_Thorsen_Kvorning,_Auning","Stinne Thorsen Kvorning, Auning",Liberal Alliance,10
+Norddjurs,1,Kulturhuset Pavillonen,"I_Nadja_Grauert,_Grenaa","Nadja Grauert, Grenaa",Liberal Alliance,2
+Norddjurs,1,Kulturhuset Pavillonen,J_Listestemmer,Listestemmer,Frie Danske,0
+Norddjurs,1,Kulturhuset Pavillonen,J_René_Paw_Christensen,René Paw Christensen,Frie Danske,1
+Norddjurs,1,Kulturhuset Pavillonen,O_Listestemmer,Listestemmer,Dansk Folkeparti,46
+Norddjurs,1,Kulturhuset Pavillonen,"O_Diana_Therese_Mikkelsen,_Grenaa","Diana Therese Mikkelsen, Grenaa",Dansk Folkeparti,70
+Norddjurs,1,Kulturhuset Pavillonen,"O_Steen_Jensen,_Grenaa","Steen Jensen, Grenaa",Dansk Folkeparti,39
+Norddjurs,1,Kulturhuset Pavillonen,"O_Pia_Bjerregaard,_Grenaa","Pia Bjerregaard, Grenaa",Dansk Folkeparti,43
+Norddjurs,1,Kulturhuset Pavillonen,"O_Helle_Ringberg,_Veggerslev","Helle Ringberg, Veggerslev",Dansk Folkeparti,20
+Norddjurs,1,Kulturhuset Pavillonen,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",165
+Norddjurs,1,Kulturhuset Pavillonen,"V_Kasper_Bjerregaard,_Lyngby","Kasper Bjerregaard, Lyngby","Venstre, Danmarks Liberale Parti",337
+Norddjurs,1,Kulturhuset Pavillonen,"V_Cay_Wulff_Sørensen,_Kristiansminde","Cay Wulff Sørensen, Kristiansminde","Venstre, Danmarks Liberale Parti",100
+Norddjurs,1,Kulturhuset Pavillonen,"V_Niels_Ole_Birk,_Vivild","Niels Ole Birk, Vivild","Venstre, Danmarks Liberale Parti",7
+Norddjurs,1,Kulturhuset Pavillonen,"V_Lars_Østergaard,_Grenaa","Lars Østergaard, Grenaa","Venstre, Danmarks Liberale Parti",124
+Norddjurs,1,Kulturhuset Pavillonen,"V_Rikke_Albæk_Jørgensen,_Glesborg","Rikke Albæk Jørgensen, Glesborg","Venstre, Danmarks Liberale Parti",47
+Norddjurs,1,Kulturhuset Pavillonen,"V_Lars_Sørensen,_Auning","Lars Sørensen, Auning","Venstre, Danmarks Liberale Parti",1
+Norddjurs,1,Kulturhuset Pavillonen,"V_Kate_Barner,_Grenaa","Kate Barner, Grenaa","Venstre, Danmarks Liberale Parti",34
+Norddjurs,1,Kulturhuset Pavillonen,"V_Benno_Blæsild,_Allingåbro","Benno Blæsild, Allingåbro","Venstre, Danmarks Liberale Parti",4
+Norddjurs,1,Kulturhuset Pavillonen,"V_Morten_Friis_Heidemann,_Ålsrode","Morten Friis Heidemann, Ålsrode","Venstre, Danmarks Liberale Parti",116
+Norddjurs,1,Kulturhuset Pavillonen,"V_Bettina_Grønbjerg,_Grenaa","Bettina Grønbjerg, Grenaa","Venstre, Danmarks Liberale Parti",48
+Norddjurs,1,Kulturhuset Pavillonen,"V_Søren_Holck,_Grenaa","Søren Holck, Grenaa","Venstre, Danmarks Liberale Parti",9
+Norddjurs,1,Kulturhuset Pavillonen,"V_Kai_Hansen,_Grenaa","Kai Hansen, Grenaa","Venstre, Danmarks Liberale Parti",20
+Norddjurs,1,Kulturhuset Pavillonen,"V_Ilka_Daniel,_Kristiansminde","Ilka Daniel, Kristiansminde","Venstre, Danmarks Liberale Parti",19
+Norddjurs,1,Kulturhuset Pavillonen,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,47
+Norddjurs,1,Kulturhuset Pavillonen,"Ø_Ulf_Harbo,_Glesborg_Kær","Ulf Harbo, Glesborg Kær",Enhedslisten - De Rød-Grønne,98
+Norddjurs,1,Kulturhuset Pavillonen,"Ø_Marlene_Gryesten,_Ørsted","Marlene Gryesten, Ørsted",Enhedslisten - De Rød-Grønne,1
+Norddjurs,1,Kulturhuset Pavillonen,"Ø_Marianne_Abell,_Grenaa","Marianne Abell, Grenaa",Enhedslisten - De Rød-Grønne,27
+Norddjurs,1,Kulturhuset Pavillonen,"Ø_Simon_Kroner,_Gjerrild","Simon Kroner, Gjerrild",Enhedslisten - De Rød-Grønne,2
+Norddjurs,1,Kulturhuset Pavillonen,"Ø_Birgitte_Poulsen,_St._Sjørup","Birgitte Poulsen, St. Sjørup",Enhedslisten - De Rød-Grønne,0
+Norddjurs,1,Kulturhuset Pavillonen,"Ø_Laila_Charlotte_Jensen,_Grenaa","Laila Charlotte Jensen, Grenaa",Enhedslisten - De Rød-Grønne,29
+Norddjurs,1,Kulturhuset Pavillonen,"Ø_Inky_Remy,_Karlby","Inky Remy, Karlby",Enhedslisten - De Rød-Grønne,6
+Norddjurs,1,Kulturhuset Pavillonen,"Ø_Elsemarie_Brøndum,_Glesborg","Elsemarie Brøndum, Glesborg",Enhedslisten - De Rød-Grønne,0
+Norddjurs,1,Kulturhuset Pavillonen,"Ø_Kis_Bøggild_Nielsen,_Hemmed","Kis Bøggild Nielsen, Hemmed",Enhedslisten - De Rød-Grønne,0
+Norddjurs,1,Kulturhuset Pavillonen,"Ø_Gitte_Andersen,_Anholt","Gitte Andersen, Anholt",Enhedslisten - De Rød-Grønne,4
+Norddjurs,1,Kulturhuset Pavillonen,"Ø_Lise_Brøndum,_Bønnerup_Strand","Lise Brøndum, Bønnerup Strand",Enhedslisten - De Rød-Grønne,1
+Norddjurs,1,Kulturhuset Pavillonen,"Ø_Georg_Hansen,_Grenaa","Georg Hansen, Grenaa",Enhedslisten - De Rød-Grønne,0
+Norddjurs,1,Kulturhuset Pavillonen,"Ø_Lone_Bording_Jensen,_Gjerrild","Lone Bording Jensen, Gjerrild",Enhedslisten - De Rød-Grønne,0
+Norddjurs,2,Anholt Skole,A_Listestemmer,Listestemmer,Socialdemokratiet,5
+Norddjurs,2,Anholt Skole,"A_Jan_Petersen,_Sangstrup","Jan Petersen, Sangstrup",Socialdemokratiet,19
+Norddjurs,2,Anholt Skole,"A_Lars_Møller,_Grenaa","Lars Møller, Grenaa",Socialdemokratiet,0
+Norddjurs,2,Anholt Skole,"A_Allan_Gjersbøl_Jørgensen,_Grenaa","Allan Gjersbøl Jørgensen, Grenaa",Socialdemokratiet,0
+Norddjurs,2,Anholt Skole,"A_Bente_Hedegaard,_Auning","Bente Hedegaard, Auning",Socialdemokratiet,0
+Norddjurs,2,Anholt Skole,"A_Karoline_Bergkvist_Søgaard,_Rimsø","Karoline Bergkvist Søgaard, Rimsø",Socialdemokratiet,0
+Norddjurs,2,Anholt Skole,"A_Anette_Ruby_Liebe,_Grenaa","Anette Ruby Liebe, Grenaa",Socialdemokratiet,1
+Norddjurs,2,Anholt Skole,"A_Fritz_Birk_Sørensen,_Allingåbro","Fritz Birk Sørensen, Allingåbro",Socialdemokratiet,0
+Norddjurs,2,Anholt Skole,"A_Anders_Stenumgaard_Lind,_Grenaa","Anders Stenumgaard Lind, Grenaa",Socialdemokratiet,0
+Norddjurs,2,Anholt Skole,"A_Niels_Basballe,_Grenaa","Niels Basballe, Grenaa",Socialdemokratiet,2
+Norddjurs,2,Anholt Skole,"A_Hans_Fisker_Jensen,_Bønnerup","Hans Fisker Jensen, Bønnerup",Socialdemokratiet,0
+Norddjurs,2,Anholt Skole,"A_Tom_Bytoft,_Auning","Tom Bytoft, Auning",Socialdemokratiet,0
+Norddjurs,2,Anholt Skole,"A_Carsten_Hering_Nielsen,_Trustrup","Carsten Hering Nielsen, Trustrup",Socialdemokratiet,0
+Norddjurs,2,Anholt Skole,"A_Lars_Pedersen,_Udbyhøj","Lars Pedersen, Udbyhøj",Socialdemokratiet,0
+Norddjurs,2,Anholt Skole,"A_Carl-Eric_Würtz_Pallesen,_Grenaa","Carl-Eric Würtz Pallesen, Grenaa",Socialdemokratiet,0
+Norddjurs,2,Anholt Skole,"A_Carsten_Pleman,_Holbæk","Carsten Pleman, Holbæk",Socialdemokratiet,0
+Norddjurs,2,Anholt Skole,"A_Jacob_Gosvig_Haaber,_Stenvad","Jacob Gosvig Haaber, Stenvad",Socialdemokratiet,0
+Norddjurs,2,Anholt Skole,"A_Heidi_Hass_Madsen,_Glatved","Heidi Hass Madsen, Glatved",Socialdemokratiet,0
+Norddjurs,2,Anholt Skole,B_Listestemmer,Listestemmer,Radikale Venstre,1
+Norddjurs,2,Anholt Skole,"B_Ole_Svit,_Glesborg","Ole Svit, Glesborg",Radikale Venstre,0
+Norddjurs,2,Anholt Skole,"B_Else_Brask,_Grenaa","Else Brask, Grenaa",Radikale Venstre,0
+Norddjurs,2,Anholt Skole,"B_Jørn_Juul_Sørensen,_Grenaa","Jørn Juul Sørensen, Grenaa",Radikale Venstre,0
+Norddjurs,2,Anholt Skole,"B_Malene_Kristiansen,_Grenaa","Malene Kristiansen, Grenaa",Radikale Venstre,0
+Norddjurs,2,Anholt Skole,"B_Allan_Andersen,_Grenaa","Allan Andersen, Grenaa",Radikale Venstre,0
+Norddjurs,2,Anholt Skole,"B_Jacob_Hørlyk,_Grenaa","Jacob Hørlyk, Grenaa",Radikale Venstre,1
+Norddjurs,2,Anholt Skole,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,7
+Norddjurs,2,Anholt Skole,"C_Benny_Hammer,_Glesborg","Benny Hammer, Glesborg",Det Konservative Folkeparti,5
+Norddjurs,2,Anholt Skole,"C_Mads_Jensen,_Grenaa","Mads Jensen, Grenaa",Det Konservative Folkeparti,0
+Norddjurs,2,Anholt Skole,"C_Grethe_Hansen,_Bønnerup","Grethe Hansen, Bønnerup",Det Konservative Folkeparti,0
+Norddjurs,2,Anholt Skole,"C_Mads_Bjerregaard,_Auning","Mads Bjerregaard, Auning",Det Konservative Folkeparti,0
+Norddjurs,2,Anholt Skole,"C_Martin_Raghner,_Grenaa","Martin Raghner, Grenaa",Det Konservative Folkeparti,1
+Norddjurs,2,Anholt Skole,"C_Sarah_Reenberg,_Auning","Sarah Reenberg, Auning",Det Konservative Folkeparti,0
+Norddjurs,2,Anholt Skole,"C_Niels_Skov_Pedersen,_Ørum_Djurs","Niels Skov Pedersen, Ørum Djurs",Det Konservative Folkeparti,0
+Norddjurs,2,Anholt Skole,"C_Alice_Holst_Brask,_Grenaa","Alice Holst Brask, Grenaa",Det Konservative Folkeparti,0
+Norddjurs,2,Anholt Skole,"C_Ole_Olesen,_Grenaa","Ole Olesen, Grenaa",Det Konservative Folkeparti,0
+Norddjurs,2,Anholt Skole,"C_Søren_Peter_Hansen,_Glesborg","Søren Peter Hansen, Glesborg",Det Konservative Folkeparti,0
+Norddjurs,2,Anholt Skole,D_Listestemmer,Listestemmer,Nye Borgerlige,2
+Norddjurs,2,Anholt Skole,"D_Jens_Kannegaard_Lundager,_Veggersl","Jens Kannegaard Lundager, Veggersl",Nye Borgerlige,0
+Norddjurs,2,Anholt Skole,"D_Martin_Hansen,_Ørsted","Martin Hansen, Ørsted",Nye Borgerlige,0
+Norddjurs,2,Anholt Skole,"D_Peter_Husum,_Grenaa","Peter Husum, Grenaa",Nye Borgerlige,2
+Norddjurs,2,Anholt Skole,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,3
+Norddjurs,2,Anholt Skole,"F_Aleksander_Myrhøj,_Fjellerup","Aleksander Myrhøj, Fjellerup",SF - Socialistisk Folkeparti,0
+Norddjurs,2,Anholt Skole,"F_Jytte_Schmidt,_Vivild","Jytte Schmidt, Vivild",SF - Socialistisk Folkeparti,2
+Norddjurs,2,Anholt Skole,"F_Kasper_Vindbjerg,_Grenaa","Kasper Vindbjerg, Grenaa",SF - Socialistisk Folkeparti,0
+Norddjurs,2,Anholt Skole,"F_Morten_W._B._Pedersen,_Voer","Morten W. B. Pedersen, Voer",SF - Socialistisk Folkeparti,0
+Norddjurs,2,Anholt Skole,"F_Birgitte_Dahl_Jeppesen,_Anholt","Birgitte Dahl Jeppesen, Anholt",SF - Socialistisk Folkeparti,11
+Norddjurs,2,Anholt Skole,"F_Jytte_Dalgaard,_Lyngby","Jytte Dalgaard, Lyngby",SF - Socialistisk Folkeparti,0
+Norddjurs,2,Anholt Skole,"F_Jytte_Faurholt_Jacobsen,_Hemmed","Jytte Faurholt Jacobsen, Hemmed",SF - Socialistisk Folkeparti,0
+Norddjurs,2,Anholt Skole,"F_Erik_Knudsen,_Grenaa","Erik Knudsen, Grenaa",SF - Socialistisk Folkeparti,0
+Norddjurs,2,Anholt Skole,I_Listestemmer,Listestemmer,Liberal Alliance,0
+Norddjurs,2,Anholt Skole,"I_Jens_Meilvang,_Auning","Jens Meilvang, Auning",Liberal Alliance,0
+Norddjurs,2,Anholt Skole,"I_Sebastian_Grauert,_Grenaa","Sebastian Grauert, Grenaa",Liberal Alliance,0
+Norddjurs,2,Anholt Skole,"I_Stinne_Thorsen_Kvorning,_Auning","Stinne Thorsen Kvorning, Auning",Liberal Alliance,0
+Norddjurs,2,Anholt Skole,"I_Nadja_Grauert,_Grenaa","Nadja Grauert, Grenaa",Liberal Alliance,0
+Norddjurs,2,Anholt Skole,J_Listestemmer,Listestemmer,Frie Danske,0
+Norddjurs,2,Anholt Skole,J_René_Paw_Christensen,René Paw Christensen,Frie Danske,0
+Norddjurs,2,Anholt Skole,O_Listestemmer,Listestemmer,Dansk Folkeparti,1
+Norddjurs,2,Anholt Skole,"O_Diana_Therese_Mikkelsen,_Grenaa","Diana Therese Mikkelsen, Grenaa",Dansk Folkeparti,2
+Norddjurs,2,Anholt Skole,"O_Steen_Jensen,_Grenaa","Steen Jensen, Grenaa",Dansk Folkeparti,0
+Norddjurs,2,Anholt Skole,"O_Pia_Bjerregaard,_Grenaa","Pia Bjerregaard, Grenaa",Dansk Folkeparti,0
+Norddjurs,2,Anholt Skole,"O_Helle_Ringberg,_Veggerslev","Helle Ringberg, Veggerslev",Dansk Folkeparti,0
+Norddjurs,2,Anholt Skole,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",0
+Norddjurs,2,Anholt Skole,"V_Kasper_Bjerregaard,_Lyngby","Kasper Bjerregaard, Lyngby","Venstre, Danmarks Liberale Parti",2
+Norddjurs,2,Anholt Skole,"V_Cay_Wulff_Sørensen,_Kristiansminde","Cay Wulff Sørensen, Kristiansminde","Venstre, Danmarks Liberale Parti",0
+Norddjurs,2,Anholt Skole,"V_Niels_Ole_Birk,_Vivild","Niels Ole Birk, Vivild","Venstre, Danmarks Liberale Parti",0
+Norddjurs,2,Anholt Skole,"V_Lars_Østergaard,_Grenaa","Lars Østergaard, Grenaa","Venstre, Danmarks Liberale Parti",0
+Norddjurs,2,Anholt Skole,"V_Rikke_Albæk_Jørgensen,_Glesborg","Rikke Albæk Jørgensen, Glesborg","Venstre, Danmarks Liberale Parti",0
+Norddjurs,2,Anholt Skole,"V_Lars_Sørensen,_Auning","Lars Sørensen, Auning","Venstre, Danmarks Liberale Parti",0
+Norddjurs,2,Anholt Skole,"V_Kate_Barner,_Grenaa","Kate Barner, Grenaa","Venstre, Danmarks Liberale Parti",0
+Norddjurs,2,Anholt Skole,"V_Benno_Blæsild,_Allingåbro","Benno Blæsild, Allingåbro","Venstre, Danmarks Liberale Parti",0
+Norddjurs,2,Anholt Skole,"V_Morten_Friis_Heidemann,_Ålsrode","Morten Friis Heidemann, Ålsrode","Venstre, Danmarks Liberale Parti",1
+Norddjurs,2,Anholt Skole,"V_Bettina_Grønbjerg,_Grenaa","Bettina Grønbjerg, Grenaa","Venstre, Danmarks Liberale Parti",0
+Norddjurs,2,Anholt Skole,"V_Søren_Holck,_Grenaa","Søren Holck, Grenaa","Venstre, Danmarks Liberale Parti",0
+Norddjurs,2,Anholt Skole,"V_Kai_Hansen,_Grenaa","Kai Hansen, Grenaa","Venstre, Danmarks Liberale Parti",0
+Norddjurs,2,Anholt Skole,"V_Ilka_Daniel,_Kristiansminde","Ilka Daniel, Kristiansminde","Venstre, Danmarks Liberale Parti",2
+Norddjurs,2,Anholt Skole,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,1
+Norddjurs,2,Anholt Skole,"Ø_Ulf_Harbo,_Glesborg_Kær","Ulf Harbo, Glesborg Kær",Enhedslisten - De Rød-Grønne,2
+Norddjurs,2,Anholt Skole,"Ø_Marlene_Gryesten,_Ørsted","Marlene Gryesten, Ørsted",Enhedslisten - De Rød-Grønne,0
+Norddjurs,2,Anholt Skole,"Ø_Marianne_Abell,_Grenaa","Marianne Abell, Grenaa",Enhedslisten - De Rød-Grønne,0
+Norddjurs,2,Anholt Skole,"Ø_Simon_Kroner,_Gjerrild","Simon Kroner, Gjerrild",Enhedslisten - De Rød-Grønne,0
+Norddjurs,2,Anholt Skole,"Ø_Birgitte_Poulsen,_St._Sjørup","Birgitte Poulsen, St. Sjørup",Enhedslisten - De Rød-Grønne,0
+Norddjurs,2,Anholt Skole,"Ø_Laila_Charlotte_Jensen,_Grenaa","Laila Charlotte Jensen, Grenaa",Enhedslisten - De Rød-Grønne,0
+Norddjurs,2,Anholt Skole,"Ø_Inky_Remy,_Karlby","Inky Remy, Karlby",Enhedslisten - De Rød-Grønne,0
+Norddjurs,2,Anholt Skole,"Ø_Elsemarie_Brøndum,_Glesborg","Elsemarie Brøndum, Glesborg",Enhedslisten - De Rød-Grønne,0
+Norddjurs,2,Anholt Skole,"Ø_Kis_Bøggild_Nielsen,_Hemmed","Kis Bøggild Nielsen, Hemmed",Enhedslisten - De Rød-Grønne,0
+Norddjurs,2,Anholt Skole,"Ø_Gitte_Andersen,_Anholt","Gitte Andersen, Anholt",Enhedslisten - De Rød-Grønne,21
+Norddjurs,2,Anholt Skole,"Ø_Lise_Brøndum,_Bønnerup_Strand","Lise Brøndum, Bønnerup Strand",Enhedslisten - De Rød-Grønne,0
+Norddjurs,2,Anholt Skole,"Ø_Georg_Hansen,_Grenaa","Georg Hansen, Grenaa",Enhedslisten - De Rød-Grønne,0
+Norddjurs,2,Anholt Skole,"Ø_Lone_Bording_Jensen,_Gjerrild","Lone Bording Jensen, Gjerrild",Enhedslisten - De Rød-Grønne,0
+Norddjurs,3,Kulturhuset Stationen,A_Listestemmer,Listestemmer,Socialdemokratiet,64
+Norddjurs,3,Kulturhuset Stationen,"A_Jan_Petersen,_Sangstrup","Jan Petersen, Sangstrup",Socialdemokratiet,87
+Norddjurs,3,Kulturhuset Stationen,"A_Lars_Møller,_Grenaa","Lars Møller, Grenaa",Socialdemokratiet,16
+Norddjurs,3,Kulturhuset Stationen,"A_Allan_Gjersbøl_Jørgensen,_Grenaa","Allan Gjersbøl Jørgensen, Grenaa",Socialdemokratiet,10
+Norddjurs,3,Kulturhuset Stationen,"A_Bente_Hedegaard,_Auning","Bente Hedegaard, Auning",Socialdemokratiet,3
+Norddjurs,3,Kulturhuset Stationen,"A_Karoline_Bergkvist_Søgaard,_Rimsø","Karoline Bergkvist Søgaard, Rimsø",Socialdemokratiet,9
+Norddjurs,3,Kulturhuset Stationen,"A_Anette_Ruby_Liebe,_Grenaa","Anette Ruby Liebe, Grenaa",Socialdemokratiet,8
+Norddjurs,3,Kulturhuset Stationen,"A_Fritz_Birk_Sørensen,_Allingåbro","Fritz Birk Sørensen, Allingåbro",Socialdemokratiet,1
+Norddjurs,3,Kulturhuset Stationen,"A_Anders_Stenumgaard_Lind,_Grenaa","Anders Stenumgaard Lind, Grenaa",Socialdemokratiet,4
+Norddjurs,3,Kulturhuset Stationen,"A_Niels_Basballe,_Grenaa","Niels Basballe, Grenaa",Socialdemokratiet,127
+Norddjurs,3,Kulturhuset Stationen,"A_Hans_Fisker_Jensen,_Bønnerup","Hans Fisker Jensen, Bønnerup",Socialdemokratiet,0
+Norddjurs,3,Kulturhuset Stationen,"A_Tom_Bytoft,_Auning","Tom Bytoft, Auning",Socialdemokratiet,4
+Norddjurs,3,Kulturhuset Stationen,"A_Carsten_Hering_Nielsen,_Trustrup","Carsten Hering Nielsen, Trustrup",Socialdemokratiet,82
+Norddjurs,3,Kulturhuset Stationen,"A_Lars_Pedersen,_Udbyhøj","Lars Pedersen, Udbyhøj",Socialdemokratiet,2
+Norddjurs,3,Kulturhuset Stationen,"A_Carl-Eric_Würtz_Pallesen,_Grenaa","Carl-Eric Würtz Pallesen, Grenaa",Socialdemokratiet,6
+Norddjurs,3,Kulturhuset Stationen,"A_Carsten_Pleman,_Holbæk","Carsten Pleman, Holbæk",Socialdemokratiet,1
+Norddjurs,3,Kulturhuset Stationen,"A_Jacob_Gosvig_Haaber,_Stenvad","Jacob Gosvig Haaber, Stenvad",Socialdemokratiet,3
+Norddjurs,3,Kulturhuset Stationen,"A_Heidi_Hass_Madsen,_Glatved","Heidi Hass Madsen, Glatved",Socialdemokratiet,20
+Norddjurs,3,Kulturhuset Stationen,B_Listestemmer,Listestemmer,Radikale Venstre,8
+Norddjurs,3,Kulturhuset Stationen,"B_Ole_Svit,_Glesborg","Ole Svit, Glesborg",Radikale Venstre,23
+Norddjurs,3,Kulturhuset Stationen,"B_Else_Brask,_Grenaa","Else Brask, Grenaa",Radikale Venstre,1
+Norddjurs,3,Kulturhuset Stationen,"B_Jørn_Juul_Sørensen,_Grenaa","Jørn Juul Sørensen, Grenaa",Radikale Venstre,2
+Norddjurs,3,Kulturhuset Stationen,"B_Malene_Kristiansen,_Grenaa","Malene Kristiansen, Grenaa",Radikale Venstre,1
+Norddjurs,3,Kulturhuset Stationen,"B_Allan_Andersen,_Grenaa","Allan Andersen, Grenaa",Radikale Venstre,0
+Norddjurs,3,Kulturhuset Stationen,"B_Jacob_Hørlyk,_Grenaa","Jacob Hørlyk, Grenaa",Radikale Venstre,1
+Norddjurs,3,Kulturhuset Stationen,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,31
+Norddjurs,3,Kulturhuset Stationen,"C_Benny_Hammer,_Glesborg","Benny Hammer, Glesborg",Det Konservative Folkeparti,94
+Norddjurs,3,Kulturhuset Stationen,"C_Mads_Jensen,_Grenaa","Mads Jensen, Grenaa",Det Konservative Folkeparti,7
+Norddjurs,3,Kulturhuset Stationen,"C_Grethe_Hansen,_Bønnerup","Grethe Hansen, Bønnerup",Det Konservative Folkeparti,9
+Norddjurs,3,Kulturhuset Stationen,"C_Mads_Bjerregaard,_Auning","Mads Bjerregaard, Auning",Det Konservative Folkeparti,1
+Norddjurs,3,Kulturhuset Stationen,"C_Martin_Raghner,_Grenaa","Martin Raghner, Grenaa",Det Konservative Folkeparti,17
+Norddjurs,3,Kulturhuset Stationen,"C_Sarah_Reenberg,_Auning","Sarah Reenberg, Auning",Det Konservative Folkeparti,0
+Norddjurs,3,Kulturhuset Stationen,"C_Niels_Skov_Pedersen,_Ørum_Djurs","Niels Skov Pedersen, Ørum Djurs",Det Konservative Folkeparti,11
+Norddjurs,3,Kulturhuset Stationen,"C_Alice_Holst_Brask,_Grenaa","Alice Holst Brask, Grenaa",Det Konservative Folkeparti,3
+Norddjurs,3,Kulturhuset Stationen,"C_Ole_Olesen,_Grenaa","Ole Olesen, Grenaa",Det Konservative Folkeparti,1
+Norddjurs,3,Kulturhuset Stationen,"C_Søren_Peter_Hansen,_Glesborg","Søren Peter Hansen, Glesborg",Det Konservative Folkeparti,1
+Norddjurs,3,Kulturhuset Stationen,D_Listestemmer,Listestemmer,Nye Borgerlige,37
+Norddjurs,3,Kulturhuset Stationen,"D_Jens_Kannegaard_Lundager,_Veggersl","Jens Kannegaard Lundager, Veggersl",Nye Borgerlige,42
+Norddjurs,3,Kulturhuset Stationen,"D_Martin_Hansen,_Ørsted","Martin Hansen, Ørsted",Nye Borgerlige,2
+Norddjurs,3,Kulturhuset Stationen,"D_Peter_Husum,_Grenaa","Peter Husum, Grenaa",Nye Borgerlige,14
+Norddjurs,3,Kulturhuset Stationen,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,13
+Norddjurs,3,Kulturhuset Stationen,"F_Aleksander_Myrhøj,_Fjellerup","Aleksander Myrhøj, Fjellerup",SF - Socialistisk Folkeparti,32
+Norddjurs,3,Kulturhuset Stationen,"F_Jytte_Schmidt,_Vivild","Jytte Schmidt, Vivild",SF - Socialistisk Folkeparti,2
+Norddjurs,3,Kulturhuset Stationen,"F_Kasper_Vindbjerg,_Grenaa","Kasper Vindbjerg, Grenaa",SF - Socialistisk Folkeparti,16
+Norddjurs,3,Kulturhuset Stationen,"F_Morten_W._B._Pedersen,_Voer","Morten W. B. Pedersen, Voer",SF - Socialistisk Folkeparti,1
+Norddjurs,3,Kulturhuset Stationen,"F_Birgitte_Dahl_Jeppesen,_Anholt","Birgitte Dahl Jeppesen, Anholt",SF - Socialistisk Folkeparti,1
+Norddjurs,3,Kulturhuset Stationen,"F_Jytte_Dalgaard,_Lyngby","Jytte Dalgaard, Lyngby",SF - Socialistisk Folkeparti,16
+Norddjurs,3,Kulturhuset Stationen,"F_Jytte_Faurholt_Jacobsen,_Hemmed","Jytte Faurholt Jacobsen, Hemmed",SF - Socialistisk Folkeparti,0
+Norddjurs,3,Kulturhuset Stationen,"F_Erik_Knudsen,_Grenaa","Erik Knudsen, Grenaa",SF - Socialistisk Folkeparti,1
+Norddjurs,3,Kulturhuset Stationen,I_Listestemmer,Listestemmer,Liberal Alliance,7
+Norddjurs,3,Kulturhuset Stationen,"I_Jens_Meilvang,_Auning","Jens Meilvang, Auning",Liberal Alliance,16
+Norddjurs,3,Kulturhuset Stationen,"I_Sebastian_Grauert,_Grenaa","Sebastian Grauert, Grenaa",Liberal Alliance,9
+Norddjurs,3,Kulturhuset Stationen,"I_Stinne_Thorsen_Kvorning,_Auning","Stinne Thorsen Kvorning, Auning",Liberal Alliance,3
+Norddjurs,3,Kulturhuset Stationen,"I_Nadja_Grauert,_Grenaa","Nadja Grauert, Grenaa",Liberal Alliance,1
+Norddjurs,3,Kulturhuset Stationen,J_Listestemmer,Listestemmer,Frie Danske,1
+Norddjurs,3,Kulturhuset Stationen,J_René_Paw_Christensen,René Paw Christensen,Frie Danske,0
+Norddjurs,3,Kulturhuset Stationen,O_Listestemmer,Listestemmer,Dansk Folkeparti,34
+Norddjurs,3,Kulturhuset Stationen,"O_Diana_Therese_Mikkelsen,_Grenaa","Diana Therese Mikkelsen, Grenaa",Dansk Folkeparti,36
+Norddjurs,3,Kulturhuset Stationen,"O_Steen_Jensen,_Grenaa","Steen Jensen, Grenaa",Dansk Folkeparti,16
+Norddjurs,3,Kulturhuset Stationen,"O_Pia_Bjerregaard,_Grenaa","Pia Bjerregaard, Grenaa",Dansk Folkeparti,22
+Norddjurs,3,Kulturhuset Stationen,"O_Helle_Ringberg,_Veggerslev","Helle Ringberg, Veggerslev",Dansk Folkeparti,4
+Norddjurs,3,Kulturhuset Stationen,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",29
+Norddjurs,3,Kulturhuset Stationen,"V_Kasper_Bjerregaard,_Lyngby","Kasper Bjerregaard, Lyngby","Venstre, Danmarks Liberale Parti",120
+Norddjurs,3,Kulturhuset Stationen,"V_Cay_Wulff_Sørensen,_Kristiansminde","Cay Wulff Sørensen, Kristiansminde","Venstre, Danmarks Liberale Parti",21
+Norddjurs,3,Kulturhuset Stationen,"V_Niels_Ole_Birk,_Vivild","Niels Ole Birk, Vivild","Venstre, Danmarks Liberale Parti",8
+Norddjurs,3,Kulturhuset Stationen,"V_Lars_Østergaard,_Grenaa","Lars Østergaard, Grenaa","Venstre, Danmarks Liberale Parti",8
+Norddjurs,3,Kulturhuset Stationen,"V_Rikke_Albæk_Jørgensen,_Glesborg","Rikke Albæk Jørgensen, Glesborg","Venstre, Danmarks Liberale Parti",6
+Norddjurs,3,Kulturhuset Stationen,"V_Lars_Sørensen,_Auning","Lars Sørensen, Auning","Venstre, Danmarks Liberale Parti",1
+Norddjurs,3,Kulturhuset Stationen,"V_Kate_Barner,_Grenaa","Kate Barner, Grenaa","Venstre, Danmarks Liberale Parti",2
+Norddjurs,3,Kulturhuset Stationen,"V_Benno_Blæsild,_Allingåbro","Benno Blæsild, Allingåbro","Venstre, Danmarks Liberale Parti",4
+Norddjurs,3,Kulturhuset Stationen,"V_Morten_Friis_Heidemann,_Ålsrode","Morten Friis Heidemann, Ålsrode","Venstre, Danmarks Liberale Parti",72
+Norddjurs,3,Kulturhuset Stationen,"V_Bettina_Grønbjerg,_Grenaa","Bettina Grønbjerg, Grenaa","Venstre, Danmarks Liberale Parti",10
+Norddjurs,3,Kulturhuset Stationen,"V_Søren_Holck,_Grenaa","Søren Holck, Grenaa","Venstre, Danmarks Liberale Parti",3
+Norddjurs,3,Kulturhuset Stationen,"V_Kai_Hansen,_Grenaa","Kai Hansen, Grenaa","Venstre, Danmarks Liberale Parti",5
+Norddjurs,3,Kulturhuset Stationen,"V_Ilka_Daniel,_Kristiansminde","Ilka Daniel, Kristiansminde","Venstre, Danmarks Liberale Parti",9
+Norddjurs,3,Kulturhuset Stationen,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,28
+Norddjurs,3,Kulturhuset Stationen,"Ø_Ulf_Harbo,_Glesborg_Kær","Ulf Harbo, Glesborg Kær",Enhedslisten - De Rød-Grønne,37
+Norddjurs,3,Kulturhuset Stationen,"Ø_Marlene_Gryesten,_Ørsted","Marlene Gryesten, Ørsted",Enhedslisten - De Rød-Grønne,3
+Norddjurs,3,Kulturhuset Stationen,"Ø_Marianne_Abell,_Grenaa","Marianne Abell, Grenaa",Enhedslisten - De Rød-Grønne,2
+Norddjurs,3,Kulturhuset Stationen,"Ø_Simon_Kroner,_Gjerrild","Simon Kroner, Gjerrild",Enhedslisten - De Rød-Grønne,0
+Norddjurs,3,Kulturhuset Stationen,"Ø_Birgitte_Poulsen,_St._Sjørup","Birgitte Poulsen, St. Sjørup",Enhedslisten - De Rød-Grønne,0
+Norddjurs,3,Kulturhuset Stationen,"Ø_Laila_Charlotte_Jensen,_Grenaa","Laila Charlotte Jensen, Grenaa",Enhedslisten - De Rød-Grønne,5
+Norddjurs,3,Kulturhuset Stationen,"Ø_Inky_Remy,_Karlby","Inky Remy, Karlby",Enhedslisten - De Rød-Grønne,0
+Norddjurs,3,Kulturhuset Stationen,"Ø_Elsemarie_Brøndum,_Glesborg","Elsemarie Brøndum, Glesborg",Enhedslisten - De Rød-Grønne,0
+Norddjurs,3,Kulturhuset Stationen,"Ø_Kis_Bøggild_Nielsen,_Hemmed","Kis Bøggild Nielsen, Hemmed",Enhedslisten - De Rød-Grønne,0
+Norddjurs,3,Kulturhuset Stationen,"Ø_Gitte_Andersen,_Anholt","Gitte Andersen, Anholt",Enhedslisten - De Rød-Grønne,1
+Norddjurs,3,Kulturhuset Stationen,"Ø_Lise_Brøndum,_Bønnerup_Strand","Lise Brøndum, Bønnerup Strand",Enhedslisten - De Rød-Grønne,1
+Norddjurs,3,Kulturhuset Stationen,"Ø_Georg_Hansen,_Grenaa","Georg Hansen, Grenaa",Enhedslisten - De Rød-Grønne,0
+Norddjurs,3,Kulturhuset Stationen,"Ø_Lone_Bording_Jensen,_Gjerrild","Lone Bording Jensen, Gjerrild",Enhedslisten - De Rød-Grønne,0
+Norddjurs,4,Grenaa Idrætscenter,A_Listestemmer,Listestemmer,Socialdemokratiet,252
+Norddjurs,4,Grenaa Idrætscenter,"A_Jan_Petersen,_Sangstrup","Jan Petersen, Sangstrup",Socialdemokratiet,425
+Norddjurs,4,Grenaa Idrætscenter,"A_Lars_Møller,_Grenaa","Lars Møller, Grenaa",Socialdemokratiet,126
+Norddjurs,4,Grenaa Idrætscenter,"A_Allan_Gjersbøl_Jørgensen,_Grenaa","Allan Gjersbøl Jørgensen, Grenaa",Socialdemokratiet,127
+Norddjurs,4,Grenaa Idrætscenter,"A_Bente_Hedegaard,_Auning","Bente Hedegaard, Auning",Socialdemokratiet,8
+Norddjurs,4,Grenaa Idrætscenter,"A_Karoline_Bergkvist_Søgaard,_Rimsø","Karoline Bergkvist Søgaard, Rimsø",Socialdemokratiet,44
+Norddjurs,4,Grenaa Idrætscenter,"A_Anette_Ruby_Liebe,_Grenaa","Anette Ruby Liebe, Grenaa",Socialdemokratiet,125
+Norddjurs,4,Grenaa Idrætscenter,"A_Fritz_Birk_Sørensen,_Allingåbro","Fritz Birk Sørensen, Allingåbro",Socialdemokratiet,2
+Norddjurs,4,Grenaa Idrætscenter,"A_Anders_Stenumgaard_Lind,_Grenaa","Anders Stenumgaard Lind, Grenaa",Socialdemokratiet,67
+Norddjurs,4,Grenaa Idrætscenter,"A_Niels_Basballe,_Grenaa","Niels Basballe, Grenaa",Socialdemokratiet,67
+Norddjurs,4,Grenaa Idrætscenter,"A_Hans_Fisker_Jensen,_Bønnerup","Hans Fisker Jensen, Bønnerup",Socialdemokratiet,7
+Norddjurs,4,Grenaa Idrætscenter,"A_Tom_Bytoft,_Auning","Tom Bytoft, Auning",Socialdemokratiet,4
+Norddjurs,4,Grenaa Idrætscenter,"A_Carsten_Hering_Nielsen,_Trustrup","Carsten Hering Nielsen, Trustrup",Socialdemokratiet,13
+Norddjurs,4,Grenaa Idrætscenter,"A_Lars_Pedersen,_Udbyhøj","Lars Pedersen, Udbyhøj",Socialdemokratiet,1
+Norddjurs,4,Grenaa Idrætscenter,"A_Carl-Eric_Würtz_Pallesen,_Grenaa","Carl-Eric Würtz Pallesen, Grenaa",Socialdemokratiet,47
+Norddjurs,4,Grenaa Idrætscenter,"A_Carsten_Pleman,_Holbæk","Carsten Pleman, Holbæk",Socialdemokratiet,2
+Norddjurs,4,Grenaa Idrætscenter,"A_Jacob_Gosvig_Haaber,_Stenvad","Jacob Gosvig Haaber, Stenvad",Socialdemokratiet,4
+Norddjurs,4,Grenaa Idrætscenter,"A_Heidi_Hass_Madsen,_Glatved","Heidi Hass Madsen, Glatved",Socialdemokratiet,41
+Norddjurs,4,Grenaa Idrætscenter,B_Listestemmer,Listestemmer,Radikale Venstre,26
+Norddjurs,4,Grenaa Idrætscenter,"B_Ole_Svit,_Glesborg","Ole Svit, Glesborg",Radikale Venstre,54
+Norddjurs,4,Grenaa Idrætscenter,"B_Else_Brask,_Grenaa","Else Brask, Grenaa",Radikale Venstre,5
+Norddjurs,4,Grenaa Idrætscenter,"B_Jørn_Juul_Sørensen,_Grenaa","Jørn Juul Sørensen, Grenaa",Radikale Venstre,8
+Norddjurs,4,Grenaa Idrætscenter,"B_Malene_Kristiansen,_Grenaa","Malene Kristiansen, Grenaa",Radikale Venstre,7
+Norddjurs,4,Grenaa Idrætscenter,"B_Allan_Andersen,_Grenaa","Allan Andersen, Grenaa",Radikale Venstre,4
+Norddjurs,4,Grenaa Idrætscenter,"B_Jacob_Hørlyk,_Grenaa","Jacob Hørlyk, Grenaa",Radikale Venstre,17
+Norddjurs,4,Grenaa Idrætscenter,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,65
+Norddjurs,4,Grenaa Idrætscenter,"C_Benny_Hammer,_Glesborg","Benny Hammer, Glesborg",Det Konservative Folkeparti,240
+Norddjurs,4,Grenaa Idrætscenter,"C_Mads_Jensen,_Grenaa","Mads Jensen, Grenaa",Det Konservative Folkeparti,90
+Norddjurs,4,Grenaa Idrætscenter,"C_Grethe_Hansen,_Bønnerup","Grethe Hansen, Bønnerup",Det Konservative Folkeparti,55
+Norddjurs,4,Grenaa Idrætscenter,"C_Mads_Bjerregaard,_Auning","Mads Bjerregaard, Auning",Det Konservative Folkeparti,5
+Norddjurs,4,Grenaa Idrætscenter,"C_Martin_Raghner,_Grenaa","Martin Raghner, Grenaa",Det Konservative Folkeparti,48
+Norddjurs,4,Grenaa Idrætscenter,"C_Sarah_Reenberg,_Auning","Sarah Reenberg, Auning",Det Konservative Folkeparti,0
+Norddjurs,4,Grenaa Idrætscenter,"C_Niels_Skov_Pedersen,_Ørum_Djurs","Niels Skov Pedersen, Ørum Djurs",Det Konservative Folkeparti,4
+Norddjurs,4,Grenaa Idrætscenter,"C_Alice_Holst_Brask,_Grenaa","Alice Holst Brask, Grenaa",Det Konservative Folkeparti,9
+Norddjurs,4,Grenaa Idrætscenter,"C_Ole_Olesen,_Grenaa","Ole Olesen, Grenaa",Det Konservative Folkeparti,3
+Norddjurs,4,Grenaa Idrætscenter,"C_Søren_Peter_Hansen,_Glesborg","Søren Peter Hansen, Glesborg",Det Konservative Folkeparti,4
+Norddjurs,4,Grenaa Idrætscenter,D_Listestemmer,Listestemmer,Nye Borgerlige,56
+Norddjurs,4,Grenaa Idrætscenter,"D_Jens_Kannegaard_Lundager,_Veggersl","Jens Kannegaard Lundager, Veggersl",Nye Borgerlige,108
+Norddjurs,4,Grenaa Idrætscenter,"D_Martin_Hansen,_Ørsted","Martin Hansen, Ørsted",Nye Borgerlige,5
+Norddjurs,4,Grenaa Idrætscenter,"D_Peter_Husum,_Grenaa","Peter Husum, Grenaa",Nye Borgerlige,35
+Norddjurs,4,Grenaa Idrætscenter,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,38
+Norddjurs,4,Grenaa Idrætscenter,"F_Aleksander_Myrhøj,_Fjellerup","Aleksander Myrhøj, Fjellerup",SF - Socialistisk Folkeparti,138
+Norddjurs,4,Grenaa Idrætscenter,"F_Jytte_Schmidt,_Vivild","Jytte Schmidt, Vivild",SF - Socialistisk Folkeparti,17
+Norddjurs,4,Grenaa Idrætscenter,"F_Kasper_Vindbjerg,_Grenaa","Kasper Vindbjerg, Grenaa",SF - Socialistisk Folkeparti,51
+Norddjurs,4,Grenaa Idrætscenter,"F_Morten_W._B._Pedersen,_Voer","Morten W. B. Pedersen, Voer",SF - Socialistisk Folkeparti,1
+Norddjurs,4,Grenaa Idrætscenter,"F_Birgitte_Dahl_Jeppesen,_Anholt","Birgitte Dahl Jeppesen, Anholt",SF - Socialistisk Folkeparti,13
+Norddjurs,4,Grenaa Idrætscenter,"F_Jytte_Dalgaard,_Lyngby","Jytte Dalgaard, Lyngby",SF - Socialistisk Folkeparti,4
+Norddjurs,4,Grenaa Idrætscenter,"F_Jytte_Faurholt_Jacobsen,_Hemmed","Jytte Faurholt Jacobsen, Hemmed",SF - Socialistisk Folkeparti,2
+Norddjurs,4,Grenaa Idrætscenter,"F_Erik_Knudsen,_Grenaa","Erik Knudsen, Grenaa",SF - Socialistisk Folkeparti,1
+Norddjurs,4,Grenaa Idrætscenter,I_Listestemmer,Listestemmer,Liberal Alliance,14
+Norddjurs,4,Grenaa Idrætscenter,"I_Jens_Meilvang,_Auning","Jens Meilvang, Auning",Liberal Alliance,52
+Norddjurs,4,Grenaa Idrætscenter,"I_Sebastian_Grauert,_Grenaa","Sebastian Grauert, Grenaa",Liberal Alliance,23
+Norddjurs,4,Grenaa Idrætscenter,"I_Stinne_Thorsen_Kvorning,_Auning","Stinne Thorsen Kvorning, Auning",Liberal Alliance,9
+Norddjurs,4,Grenaa Idrætscenter,"I_Nadja_Grauert,_Grenaa","Nadja Grauert, Grenaa",Liberal Alliance,3
+Norddjurs,4,Grenaa Idrætscenter,J_Listestemmer,Listestemmer,Frie Danske,3
+Norddjurs,4,Grenaa Idrætscenter,J_René_Paw_Christensen,René Paw Christensen,Frie Danske,2
+Norddjurs,4,Grenaa Idrætscenter,O_Listestemmer,Listestemmer,Dansk Folkeparti,44
+Norddjurs,4,Grenaa Idrætscenter,"O_Diana_Therese_Mikkelsen,_Grenaa","Diana Therese Mikkelsen, Grenaa",Dansk Folkeparti,59
+Norddjurs,4,Grenaa Idrætscenter,"O_Steen_Jensen,_Grenaa","Steen Jensen, Grenaa",Dansk Folkeparti,32
+Norddjurs,4,Grenaa Idrætscenter,"O_Pia_Bjerregaard,_Grenaa","Pia Bjerregaard, Grenaa",Dansk Folkeparti,48
+Norddjurs,4,Grenaa Idrætscenter,"O_Helle_Ringberg,_Veggerslev","Helle Ringberg, Veggerslev",Dansk Folkeparti,11
+Norddjurs,4,Grenaa Idrætscenter,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",102
+Norddjurs,4,Grenaa Idrætscenter,"V_Kasper_Bjerregaard,_Lyngby","Kasper Bjerregaard, Lyngby","Venstre, Danmarks Liberale Parti",207
+Norddjurs,4,Grenaa Idrætscenter,"V_Cay_Wulff_Sørensen,_Kristiansminde","Cay Wulff Sørensen, Kristiansminde","Venstre, Danmarks Liberale Parti",14
+Norddjurs,4,Grenaa Idrætscenter,"V_Niels_Ole_Birk,_Vivild","Niels Ole Birk, Vivild","Venstre, Danmarks Liberale Parti",6
+Norddjurs,4,Grenaa Idrætscenter,"V_Lars_Østergaard,_Grenaa","Lars Østergaard, Grenaa","Venstre, Danmarks Liberale Parti",63
+Norddjurs,4,Grenaa Idrætscenter,"V_Rikke_Albæk_Jørgensen,_Glesborg","Rikke Albæk Jørgensen, Glesborg","Venstre, Danmarks Liberale Parti",17
+Norddjurs,4,Grenaa Idrætscenter,"V_Lars_Sørensen,_Auning","Lars Sørensen, Auning","Venstre, Danmarks Liberale Parti",2
+Norddjurs,4,Grenaa Idrætscenter,"V_Kate_Barner,_Grenaa","Kate Barner, Grenaa","Venstre, Danmarks Liberale Parti",24
+Norddjurs,4,Grenaa Idrætscenter,"V_Benno_Blæsild,_Allingåbro","Benno Blæsild, Allingåbro","Venstre, Danmarks Liberale Parti",8
+Norddjurs,4,Grenaa Idrætscenter,"V_Morten_Friis_Heidemann,_Ålsrode","Morten Friis Heidemann, Ålsrode","Venstre, Danmarks Liberale Parti",78
+Norddjurs,4,Grenaa Idrætscenter,"V_Bettina_Grønbjerg,_Grenaa","Bettina Grønbjerg, Grenaa","Venstre, Danmarks Liberale Parti",30
+Norddjurs,4,Grenaa Idrætscenter,"V_Søren_Holck,_Grenaa","Søren Holck, Grenaa","Venstre, Danmarks Liberale Parti",3
+Norddjurs,4,Grenaa Idrætscenter,"V_Kai_Hansen,_Grenaa","Kai Hansen, Grenaa","Venstre, Danmarks Liberale Parti",16
+Norddjurs,4,Grenaa Idrætscenter,"V_Ilka_Daniel,_Kristiansminde","Ilka Daniel, Kristiansminde","Venstre, Danmarks Liberale Parti",14
+Norddjurs,4,Grenaa Idrætscenter,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,47
+Norddjurs,4,Grenaa Idrætscenter,"Ø_Ulf_Harbo,_Glesborg_Kær","Ulf Harbo, Glesborg Kær",Enhedslisten - De Rød-Grønne,57
+Norddjurs,4,Grenaa Idrætscenter,"Ø_Marlene_Gryesten,_Ørsted","Marlene Gryesten, Ørsted",Enhedslisten - De Rød-Grønne,1
+Norddjurs,4,Grenaa Idrætscenter,"Ø_Marianne_Abell,_Grenaa","Marianne Abell, Grenaa",Enhedslisten - De Rød-Grønne,26
+Norddjurs,4,Grenaa Idrætscenter,"Ø_Simon_Kroner,_Gjerrild","Simon Kroner, Gjerrild",Enhedslisten - De Rød-Grønne,1
+Norddjurs,4,Grenaa Idrætscenter,"Ø_Birgitte_Poulsen,_St._Sjørup","Birgitte Poulsen, St. Sjørup",Enhedslisten - De Rød-Grønne,1
+Norddjurs,4,Grenaa Idrætscenter,"Ø_Laila_Charlotte_Jensen,_Grenaa","Laila Charlotte Jensen, Grenaa",Enhedslisten - De Rød-Grønne,54
+Norddjurs,4,Grenaa Idrætscenter,"Ø_Inky_Remy,_Karlby","Inky Remy, Karlby",Enhedslisten - De Rød-Grønne,1
+Norddjurs,4,Grenaa Idrætscenter,"Ø_Elsemarie_Brøndum,_Glesborg","Elsemarie Brøndum, Glesborg",Enhedslisten - De Rød-Grønne,1
+Norddjurs,4,Grenaa Idrætscenter,"Ø_Kis_Bøggild_Nielsen,_Hemmed","Kis Bøggild Nielsen, Hemmed",Enhedslisten - De Rød-Grønne,0
+Norddjurs,4,Grenaa Idrætscenter,"Ø_Gitte_Andersen,_Anholt","Gitte Andersen, Anholt",Enhedslisten - De Rød-Grønne,0
+Norddjurs,4,Grenaa Idrætscenter,"Ø_Lise_Brøndum,_Bønnerup_Strand","Lise Brøndum, Bønnerup Strand",Enhedslisten - De Rød-Grønne,0
+Norddjurs,4,Grenaa Idrætscenter,"Ø_Georg_Hansen,_Grenaa","Georg Hansen, Grenaa",Enhedslisten - De Rød-Grønne,4
+Norddjurs,4,Grenaa Idrætscenter,"Ø_Lone_Bording_Jensen,_Gjerrild","Lone Bording Jensen, Gjerrild",Enhedslisten - De Rød-Grønne,1
+Norddjurs,5,Glesborg,A_Listestemmer,Listestemmer,Socialdemokratiet,90
+Norddjurs,5,Glesborg,"A_Jan_Petersen,_Sangstrup","Jan Petersen, Sangstrup",Socialdemokratiet,225
+Norddjurs,5,Glesborg,"A_Lars_Møller,_Grenaa","Lars Møller, Grenaa",Socialdemokratiet,16
+Norddjurs,5,Glesborg,"A_Allan_Gjersbøl_Jørgensen,_Grenaa","Allan Gjersbøl Jørgensen, Grenaa",Socialdemokratiet,15
+Norddjurs,5,Glesborg,"A_Bente_Hedegaard,_Auning","Bente Hedegaard, Auning",Socialdemokratiet,9
+Norddjurs,5,Glesborg,"A_Karoline_Bergkvist_Søgaard,_Rimsø","Karoline Bergkvist Søgaard, Rimsø",Socialdemokratiet,70
+Norddjurs,5,Glesborg,"A_Anette_Ruby_Liebe,_Grenaa","Anette Ruby Liebe, Grenaa",Socialdemokratiet,8
+Norddjurs,5,Glesborg,"A_Fritz_Birk_Sørensen,_Allingåbro","Fritz Birk Sørensen, Allingåbro",Socialdemokratiet,0
+Norddjurs,5,Glesborg,"A_Anders_Stenumgaard_Lind,_Grenaa","Anders Stenumgaard Lind, Grenaa",Socialdemokratiet,9
+Norddjurs,5,Glesborg,"A_Niels_Basballe,_Grenaa","Niels Basballe, Grenaa",Socialdemokratiet,5
+Norddjurs,5,Glesborg,"A_Hans_Fisker_Jensen,_Bønnerup","Hans Fisker Jensen, Bønnerup",Socialdemokratiet,143
+Norddjurs,5,Glesborg,"A_Tom_Bytoft,_Auning","Tom Bytoft, Auning",Socialdemokratiet,4
+Norddjurs,5,Glesborg,"A_Carsten_Hering_Nielsen,_Trustrup","Carsten Hering Nielsen, Trustrup",Socialdemokratiet,1
+Norddjurs,5,Glesborg,"A_Lars_Pedersen,_Udbyhøj","Lars Pedersen, Udbyhøj",Socialdemokratiet,2
+Norddjurs,5,Glesborg,"A_Carl-Eric_Würtz_Pallesen,_Grenaa","Carl-Eric Würtz Pallesen, Grenaa",Socialdemokratiet,2
+Norddjurs,5,Glesborg,"A_Carsten_Pleman,_Holbæk","Carsten Pleman, Holbæk",Socialdemokratiet,1
+Norddjurs,5,Glesborg,"A_Jacob_Gosvig_Haaber,_Stenvad","Jacob Gosvig Haaber, Stenvad",Socialdemokratiet,17
+Norddjurs,5,Glesborg,"A_Heidi_Hass_Madsen,_Glatved","Heidi Hass Madsen, Glatved",Socialdemokratiet,8
+Norddjurs,5,Glesborg,B_Listestemmer,Listestemmer,Radikale Venstre,14
+Norddjurs,5,Glesborg,"B_Ole_Svit,_Glesborg","Ole Svit, Glesborg",Radikale Venstre,57
+Norddjurs,5,Glesborg,"B_Else_Brask,_Grenaa","Else Brask, Grenaa",Radikale Venstre,5
+Norddjurs,5,Glesborg,"B_Jørn_Juul_Sørensen,_Grenaa","Jørn Juul Sørensen, Grenaa",Radikale Venstre,5
+Norddjurs,5,Glesborg,"B_Malene_Kristiansen,_Grenaa","Malene Kristiansen, Grenaa",Radikale Venstre,0
+Norddjurs,5,Glesborg,"B_Allan_Andersen,_Grenaa","Allan Andersen, Grenaa",Radikale Venstre,1
+Norddjurs,5,Glesborg,"B_Jacob_Hørlyk,_Grenaa","Jacob Hørlyk, Grenaa",Radikale Venstre,0
+Norddjurs,5,Glesborg,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,39
+Norddjurs,5,Glesborg,"C_Benny_Hammer,_Glesborg","Benny Hammer, Glesborg",Det Konservative Folkeparti,263
+Norddjurs,5,Glesborg,"C_Mads_Jensen,_Grenaa","Mads Jensen, Grenaa",Det Konservative Folkeparti,12
+Norddjurs,5,Glesborg,"C_Grethe_Hansen,_Bønnerup","Grethe Hansen, Bønnerup",Det Konservative Folkeparti,63
+Norddjurs,5,Glesborg,"C_Mads_Bjerregaard,_Auning","Mads Bjerregaard, Auning",Det Konservative Folkeparti,3
+Norddjurs,5,Glesborg,"C_Martin_Raghner,_Grenaa","Martin Raghner, Grenaa",Det Konservative Folkeparti,9
+Norddjurs,5,Glesborg,"C_Sarah_Reenberg,_Auning","Sarah Reenberg, Auning",Det Konservative Folkeparti,0
+Norddjurs,5,Glesborg,"C_Niels_Skov_Pedersen,_Ørum_Djurs","Niels Skov Pedersen, Ørum Djurs",Det Konservative Folkeparti,18
+Norddjurs,5,Glesborg,"C_Alice_Holst_Brask,_Grenaa","Alice Holst Brask, Grenaa",Det Konservative Folkeparti,0
+Norddjurs,5,Glesborg,"C_Ole_Olesen,_Grenaa","Ole Olesen, Grenaa",Det Konservative Folkeparti,0
+Norddjurs,5,Glesborg,"C_Søren_Peter_Hansen,_Glesborg","Søren Peter Hansen, Glesborg",Det Konservative Folkeparti,10
+Norddjurs,5,Glesborg,D_Listestemmer,Listestemmer,Nye Borgerlige,21
+Norddjurs,5,Glesborg,"D_Jens_Kannegaard_Lundager,_Veggersl","Jens Kannegaard Lundager, Veggersl",Nye Borgerlige,48
+Norddjurs,5,Glesborg,"D_Martin_Hansen,_Ørsted","Martin Hansen, Ørsted",Nye Borgerlige,5
+Norddjurs,5,Glesborg,"D_Peter_Husum,_Grenaa","Peter Husum, Grenaa",Nye Borgerlige,13
+Norddjurs,5,Glesborg,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,23
+Norddjurs,5,Glesborg,"F_Aleksander_Myrhøj,_Fjellerup","Aleksander Myrhøj, Fjellerup",SF - Socialistisk Folkeparti,168
+Norddjurs,5,Glesborg,"F_Jytte_Schmidt,_Vivild","Jytte Schmidt, Vivild",SF - Socialistisk Folkeparti,22
+Norddjurs,5,Glesborg,"F_Kasper_Vindbjerg,_Grenaa","Kasper Vindbjerg, Grenaa",SF - Socialistisk Folkeparti,14
+Norddjurs,5,Glesborg,"F_Morten_W._B._Pedersen,_Voer","Morten W. B. Pedersen, Voer",SF - Socialistisk Folkeparti,0
+Norddjurs,5,Glesborg,"F_Birgitte_Dahl_Jeppesen,_Anholt","Birgitte Dahl Jeppesen, Anholt",SF - Socialistisk Folkeparti,7
+Norddjurs,5,Glesborg,"F_Jytte_Dalgaard,_Lyngby","Jytte Dalgaard, Lyngby",SF - Socialistisk Folkeparti,1
+Norddjurs,5,Glesborg,"F_Jytte_Faurholt_Jacobsen,_Hemmed","Jytte Faurholt Jacobsen, Hemmed",SF - Socialistisk Folkeparti,19
+Norddjurs,5,Glesborg,"F_Erik_Knudsen,_Grenaa","Erik Knudsen, Grenaa",SF - Socialistisk Folkeparti,0
+Norddjurs,5,Glesborg,I_Listestemmer,Listestemmer,Liberal Alliance,5
+Norddjurs,5,Glesborg,"I_Jens_Meilvang,_Auning","Jens Meilvang, Auning",Liberal Alliance,52
+Norddjurs,5,Glesborg,"I_Sebastian_Grauert,_Grenaa","Sebastian Grauert, Grenaa",Liberal Alliance,15
+Norddjurs,5,Glesborg,"I_Stinne_Thorsen_Kvorning,_Auning","Stinne Thorsen Kvorning, Auning",Liberal Alliance,3
+Norddjurs,5,Glesborg,"I_Nadja_Grauert,_Grenaa","Nadja Grauert, Grenaa",Liberal Alliance,0
+Norddjurs,5,Glesborg,J_Listestemmer,Listestemmer,Frie Danske,1
+Norddjurs,5,Glesborg,J_René_Paw_Christensen,René Paw Christensen,Frie Danske,4
+Norddjurs,5,Glesborg,O_Listestemmer,Listestemmer,Dansk Folkeparti,32
+Norddjurs,5,Glesborg,"O_Diana_Therese_Mikkelsen,_Grenaa","Diana Therese Mikkelsen, Grenaa",Dansk Folkeparti,23
+Norddjurs,5,Glesborg,"O_Steen_Jensen,_Grenaa","Steen Jensen, Grenaa",Dansk Folkeparti,11
+Norddjurs,5,Glesborg,"O_Pia_Bjerregaard,_Grenaa","Pia Bjerregaard, Grenaa",Dansk Folkeparti,9
+Norddjurs,5,Glesborg,"O_Helle_Ringberg,_Veggerslev","Helle Ringberg, Veggerslev",Dansk Folkeparti,6
+Norddjurs,5,Glesborg,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",70
+Norddjurs,5,Glesborg,"V_Kasper_Bjerregaard,_Lyngby","Kasper Bjerregaard, Lyngby","Venstre, Danmarks Liberale Parti",85
+Norddjurs,5,Glesborg,"V_Cay_Wulff_Sørensen,_Kristiansminde","Cay Wulff Sørensen, Kristiansminde","Venstre, Danmarks Liberale Parti",30
+Norddjurs,5,Glesborg,"V_Niels_Ole_Birk,_Vivild","Niels Ole Birk, Vivild","Venstre, Danmarks Liberale Parti",15
+Norddjurs,5,Glesborg,"V_Lars_Østergaard,_Grenaa","Lars Østergaard, Grenaa","Venstre, Danmarks Liberale Parti",2
+Norddjurs,5,Glesborg,"V_Rikke_Albæk_Jørgensen,_Glesborg","Rikke Albæk Jørgensen, Glesborg","Venstre, Danmarks Liberale Parti",204
+Norddjurs,5,Glesborg,"V_Lars_Sørensen,_Auning","Lars Sørensen, Auning","Venstre, Danmarks Liberale Parti",4
+Norddjurs,5,Glesborg,"V_Kate_Barner,_Grenaa","Kate Barner, Grenaa","Venstre, Danmarks Liberale Parti",1
+Norddjurs,5,Glesborg,"V_Benno_Blæsild,_Allingåbro","Benno Blæsild, Allingåbro","Venstre, Danmarks Liberale Parti",14
+Norddjurs,5,Glesborg,"V_Morten_Friis_Heidemann,_Ålsrode","Morten Friis Heidemann, Ålsrode","Venstre, Danmarks Liberale Parti",9
+Norddjurs,5,Glesborg,"V_Bettina_Grønbjerg,_Grenaa","Bettina Grønbjerg, Grenaa","Venstre, Danmarks Liberale Parti",3
+Norddjurs,5,Glesborg,"V_Søren_Holck,_Grenaa","Søren Holck, Grenaa","Venstre, Danmarks Liberale Parti",0
+Norddjurs,5,Glesborg,"V_Kai_Hansen,_Grenaa","Kai Hansen, Grenaa","Venstre, Danmarks Liberale Parti",1
+Norddjurs,5,Glesborg,"V_Ilka_Daniel,_Kristiansminde","Ilka Daniel, Kristiansminde","Venstre, Danmarks Liberale Parti",8
+Norddjurs,5,Glesborg,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,48
+Norddjurs,5,Glesborg,"Ø_Ulf_Harbo,_Glesborg_Kær","Ulf Harbo, Glesborg Kær",Enhedslisten - De Rød-Grønne,105
+Norddjurs,5,Glesborg,"Ø_Marlene_Gryesten,_Ørsted","Marlene Gryesten, Ørsted",Enhedslisten - De Rød-Grønne,10
+Norddjurs,5,Glesborg,"Ø_Marianne_Abell,_Grenaa","Marianne Abell, Grenaa",Enhedslisten - De Rød-Grønne,9
+Norddjurs,5,Glesborg,"Ø_Simon_Kroner,_Gjerrild","Simon Kroner, Gjerrild",Enhedslisten - De Rød-Grønne,0
+Norddjurs,5,Glesborg,"Ø_Birgitte_Poulsen,_St._Sjørup","Birgitte Poulsen, St. Sjørup",Enhedslisten - De Rød-Grønne,3
+Norddjurs,5,Glesborg,"Ø_Laila_Charlotte_Jensen,_Grenaa","Laila Charlotte Jensen, Grenaa",Enhedslisten - De Rød-Grønne,14
+Norddjurs,5,Glesborg,"Ø_Inky_Remy,_Karlby","Inky Remy, Karlby",Enhedslisten - De Rød-Grønne,2
+Norddjurs,5,Glesborg,"Ø_Elsemarie_Brøndum,_Glesborg","Elsemarie Brøndum, Glesborg",Enhedslisten - De Rød-Grønne,3
+Norddjurs,5,Glesborg,"Ø_Kis_Bøggild_Nielsen,_Hemmed","Kis Bøggild Nielsen, Hemmed",Enhedslisten - De Rød-Grønne,1
+Norddjurs,5,Glesborg,"Ø_Gitte_Andersen,_Anholt","Gitte Andersen, Anholt",Enhedslisten - De Rød-Grønne,2
+Norddjurs,5,Glesborg,"Ø_Lise_Brøndum,_Bønnerup_Strand","Lise Brøndum, Bønnerup Strand",Enhedslisten - De Rød-Grønne,1
+Norddjurs,5,Glesborg,"Ø_Georg_Hansen,_Grenaa","Georg Hansen, Grenaa",Enhedslisten - De Rød-Grønne,0
+Norddjurs,5,Glesborg,"Ø_Lone_Bording_Jensen,_Gjerrild","Lone Bording Jensen, Gjerrild",Enhedslisten - De Rød-Grønne,2
+Norddjurs,6,Ørum,A_Listestemmer,Listestemmer,Socialdemokratiet,53
+Norddjurs,6,Ørum,"A_Jan_Petersen,_Sangstrup","Jan Petersen, Sangstrup",Socialdemokratiet,85
+Norddjurs,6,Ørum,"A_Lars_Møller,_Grenaa","Lars Møller, Grenaa",Socialdemokratiet,9
+Norddjurs,6,Ørum,"A_Allan_Gjersbøl_Jørgensen,_Grenaa","Allan Gjersbøl Jørgensen, Grenaa",Socialdemokratiet,6
+Norddjurs,6,Ørum,"A_Bente_Hedegaard,_Auning","Bente Hedegaard, Auning",Socialdemokratiet,4
+Norddjurs,6,Ørum,"A_Karoline_Bergkvist_Søgaard,_Rimsø","Karoline Bergkvist Søgaard, Rimsø",Socialdemokratiet,25
+Norddjurs,6,Ørum,"A_Anette_Ruby_Liebe,_Grenaa","Anette Ruby Liebe, Grenaa",Socialdemokratiet,6
+Norddjurs,6,Ørum,"A_Fritz_Birk_Sørensen,_Allingåbro","Fritz Birk Sørensen, Allingåbro",Socialdemokratiet,1
+Norddjurs,6,Ørum,"A_Anders_Stenumgaard_Lind,_Grenaa","Anders Stenumgaard Lind, Grenaa",Socialdemokratiet,5
+Norddjurs,6,Ørum,"A_Niels_Basballe,_Grenaa","Niels Basballe, Grenaa",Socialdemokratiet,1
+Norddjurs,6,Ørum,"A_Hans_Fisker_Jensen,_Bønnerup","Hans Fisker Jensen, Bønnerup",Socialdemokratiet,8
+Norddjurs,6,Ørum,"A_Tom_Bytoft,_Auning","Tom Bytoft, Auning",Socialdemokratiet,3
+Norddjurs,6,Ørum,"A_Carsten_Hering_Nielsen,_Trustrup","Carsten Hering Nielsen, Trustrup",Socialdemokratiet,0
+Norddjurs,6,Ørum,"A_Lars_Pedersen,_Udbyhøj","Lars Pedersen, Udbyhøj",Socialdemokratiet,1
+Norddjurs,6,Ørum,"A_Carl-Eric_Würtz_Pallesen,_Grenaa","Carl-Eric Würtz Pallesen, Grenaa",Socialdemokratiet,1
+Norddjurs,6,Ørum,"A_Carsten_Pleman,_Holbæk","Carsten Pleman, Holbæk",Socialdemokratiet,1
+Norddjurs,6,Ørum,"A_Jacob_Gosvig_Haaber,_Stenvad","Jacob Gosvig Haaber, Stenvad",Socialdemokratiet,37
+Norddjurs,6,Ørum,"A_Heidi_Hass_Madsen,_Glatved","Heidi Hass Madsen, Glatved",Socialdemokratiet,6
+Norddjurs,6,Ørum,B_Listestemmer,Listestemmer,Radikale Venstre,2
+Norddjurs,6,Ørum,"B_Ole_Svit,_Glesborg","Ole Svit, Glesborg",Radikale Venstre,31
+Norddjurs,6,Ørum,"B_Else_Brask,_Grenaa","Else Brask, Grenaa",Radikale Venstre,1
+Norddjurs,6,Ørum,"B_Jørn_Juul_Sørensen,_Grenaa","Jørn Juul Sørensen, Grenaa",Radikale Venstre,1
+Norddjurs,6,Ørum,"B_Malene_Kristiansen,_Grenaa","Malene Kristiansen, Grenaa",Radikale Venstre,2
+Norddjurs,6,Ørum,"B_Allan_Andersen,_Grenaa","Allan Andersen, Grenaa",Radikale Venstre,1
+Norddjurs,6,Ørum,"B_Jacob_Hørlyk,_Grenaa","Jacob Hørlyk, Grenaa",Radikale Venstre,1
+Norddjurs,6,Ørum,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,27
+Norddjurs,6,Ørum,"C_Benny_Hammer,_Glesborg","Benny Hammer, Glesborg",Det Konservative Folkeparti,148
+Norddjurs,6,Ørum,"C_Mads_Jensen,_Grenaa","Mads Jensen, Grenaa",Det Konservative Folkeparti,3
+Norddjurs,6,Ørum,"C_Grethe_Hansen,_Bønnerup","Grethe Hansen, Bønnerup",Det Konservative Folkeparti,7
+Norddjurs,6,Ørum,"C_Mads_Bjerregaard,_Auning","Mads Bjerregaard, Auning",Det Konservative Folkeparti,1
+Norddjurs,6,Ørum,"C_Martin_Raghner,_Grenaa","Martin Raghner, Grenaa",Det Konservative Folkeparti,12
+Norddjurs,6,Ørum,"C_Sarah_Reenberg,_Auning","Sarah Reenberg, Auning",Det Konservative Folkeparti,1
+Norddjurs,6,Ørum,"C_Niels_Skov_Pedersen,_Ørum_Djurs","Niels Skov Pedersen, Ørum Djurs",Det Konservative Folkeparti,143
+Norddjurs,6,Ørum,"C_Alice_Holst_Brask,_Grenaa","Alice Holst Brask, Grenaa",Det Konservative Folkeparti,2
+Norddjurs,6,Ørum,"C_Ole_Olesen,_Grenaa","Ole Olesen, Grenaa",Det Konservative Folkeparti,0
+Norddjurs,6,Ørum,"C_Søren_Peter_Hansen,_Glesborg","Søren Peter Hansen, Glesborg",Det Konservative Folkeparti,1
+Norddjurs,6,Ørum,D_Listestemmer,Listestemmer,Nye Borgerlige,19
+Norddjurs,6,Ørum,"D_Jens_Kannegaard_Lundager,_Veggersl","Jens Kannegaard Lundager, Veggersl",Nye Borgerlige,25
+Norddjurs,6,Ørum,"D_Martin_Hansen,_Ørsted","Martin Hansen, Ørsted",Nye Borgerlige,4
+Norddjurs,6,Ørum,"D_Peter_Husum,_Grenaa","Peter Husum, Grenaa",Nye Borgerlige,10
+Norddjurs,6,Ørum,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,12
+Norddjurs,6,Ørum,"F_Aleksander_Myrhøj,_Fjellerup","Aleksander Myrhøj, Fjellerup",SF - Socialistisk Folkeparti,49
+Norddjurs,6,Ørum,"F_Jytte_Schmidt,_Vivild","Jytte Schmidt, Vivild",SF - Socialistisk Folkeparti,8
+Norddjurs,6,Ørum,"F_Kasper_Vindbjerg,_Grenaa","Kasper Vindbjerg, Grenaa",SF - Socialistisk Folkeparti,12
+Norddjurs,6,Ørum,"F_Morten_W._B._Pedersen,_Voer","Morten W. B. Pedersen, Voer",SF - Socialistisk Folkeparti,0
+Norddjurs,6,Ørum,"F_Birgitte_Dahl_Jeppesen,_Anholt","Birgitte Dahl Jeppesen, Anholt",SF - Socialistisk Folkeparti,2
+Norddjurs,6,Ørum,"F_Jytte_Dalgaard,_Lyngby","Jytte Dalgaard, Lyngby",SF - Socialistisk Folkeparti,5
+Norddjurs,6,Ørum,"F_Jytte_Faurholt_Jacobsen,_Hemmed","Jytte Faurholt Jacobsen, Hemmed",SF - Socialistisk Folkeparti,4
+Norddjurs,6,Ørum,"F_Erik_Knudsen,_Grenaa","Erik Knudsen, Grenaa",SF - Socialistisk Folkeparti,0
+Norddjurs,6,Ørum,I_Listestemmer,Listestemmer,Liberal Alliance,4
+Norddjurs,6,Ørum,"I_Jens_Meilvang,_Auning","Jens Meilvang, Auning",Liberal Alliance,43
+Norddjurs,6,Ørum,"I_Sebastian_Grauert,_Grenaa","Sebastian Grauert, Grenaa",Liberal Alliance,4
+Norddjurs,6,Ørum,"I_Stinne_Thorsen_Kvorning,_Auning","Stinne Thorsen Kvorning, Auning",Liberal Alliance,1
+Norddjurs,6,Ørum,"I_Nadja_Grauert,_Grenaa","Nadja Grauert, Grenaa",Liberal Alliance,0
+Norddjurs,6,Ørum,J_Listestemmer,Listestemmer,Frie Danske,0
+Norddjurs,6,Ørum,J_René_Paw_Christensen,René Paw Christensen,Frie Danske,1
+Norddjurs,6,Ørum,O_Listestemmer,Listestemmer,Dansk Folkeparti,18
+Norddjurs,6,Ørum,"O_Diana_Therese_Mikkelsen,_Grenaa","Diana Therese Mikkelsen, Grenaa",Dansk Folkeparti,15
+Norddjurs,6,Ørum,"O_Steen_Jensen,_Grenaa","Steen Jensen, Grenaa",Dansk Folkeparti,3
+Norddjurs,6,Ørum,"O_Pia_Bjerregaard,_Grenaa","Pia Bjerregaard, Grenaa",Dansk Folkeparti,8
+Norddjurs,6,Ørum,"O_Helle_Ringberg,_Veggerslev","Helle Ringberg, Veggerslev",Dansk Folkeparti,4
+Norddjurs,6,Ørum,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",42
+Norddjurs,6,Ørum,"V_Kasper_Bjerregaard,_Lyngby","Kasper Bjerregaard, Lyngby","Venstre, Danmarks Liberale Parti",41
+Norddjurs,6,Ørum,"V_Cay_Wulff_Sørensen,_Kristiansminde","Cay Wulff Sørensen, Kristiansminde","Venstre, Danmarks Liberale Parti",52
+Norddjurs,6,Ørum,"V_Niels_Ole_Birk,_Vivild","Niels Ole Birk, Vivild","Venstre, Danmarks Liberale Parti",8
+Norddjurs,6,Ørum,"V_Lars_Østergaard,_Grenaa","Lars Østergaard, Grenaa","Venstre, Danmarks Liberale Parti",2
+Norddjurs,6,Ørum,"V_Rikke_Albæk_Jørgensen,_Glesborg","Rikke Albæk Jørgensen, Glesborg","Venstre, Danmarks Liberale Parti",47
+Norddjurs,6,Ørum,"V_Lars_Sørensen,_Auning","Lars Sørensen, Auning","Venstre, Danmarks Liberale Parti",1
+Norddjurs,6,Ørum,"V_Kate_Barner,_Grenaa","Kate Barner, Grenaa","Venstre, Danmarks Liberale Parti",8
+Norddjurs,6,Ørum,"V_Benno_Blæsild,_Allingåbro","Benno Blæsild, Allingåbro","Venstre, Danmarks Liberale Parti",9
+Norddjurs,6,Ørum,"V_Morten_Friis_Heidemann,_Ålsrode","Morten Friis Heidemann, Ålsrode","Venstre, Danmarks Liberale Parti",5
+Norddjurs,6,Ørum,"V_Bettina_Grønbjerg,_Grenaa","Bettina Grønbjerg, Grenaa","Venstre, Danmarks Liberale Parti",3
+Norddjurs,6,Ørum,"V_Søren_Holck,_Grenaa","Søren Holck, Grenaa","Venstre, Danmarks Liberale Parti",2
+Norddjurs,6,Ørum,"V_Kai_Hansen,_Grenaa","Kai Hansen, Grenaa","Venstre, Danmarks Liberale Parti",1
+Norddjurs,6,Ørum,"V_Ilka_Daniel,_Kristiansminde","Ilka Daniel, Kristiansminde","Venstre, Danmarks Liberale Parti",5
+Norddjurs,6,Ørum,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,12
+Norddjurs,6,Ørum,"Ø_Ulf_Harbo,_Glesborg_Kær","Ulf Harbo, Glesborg Kær",Enhedslisten - De Rød-Grønne,34
+Norddjurs,6,Ørum,"Ø_Marlene_Gryesten,_Ørsted","Marlene Gryesten, Ørsted",Enhedslisten - De Rød-Grønne,6
+Norddjurs,6,Ørum,"Ø_Marianne_Abell,_Grenaa","Marianne Abell, Grenaa",Enhedslisten - De Rød-Grønne,1
+Norddjurs,6,Ørum,"Ø_Simon_Kroner,_Gjerrild","Simon Kroner, Gjerrild",Enhedslisten - De Rød-Grønne,1
+Norddjurs,6,Ørum,"Ø_Birgitte_Poulsen,_St._Sjørup","Birgitte Poulsen, St. Sjørup",Enhedslisten - De Rød-Grønne,0
+Norddjurs,6,Ørum,"Ø_Laila_Charlotte_Jensen,_Grenaa","Laila Charlotte Jensen, Grenaa",Enhedslisten - De Rød-Grønne,2
+Norddjurs,6,Ørum,"Ø_Inky_Remy,_Karlby","Inky Remy, Karlby",Enhedslisten - De Rød-Grønne,0
+Norddjurs,6,Ørum,"Ø_Elsemarie_Brøndum,_Glesborg","Elsemarie Brøndum, Glesborg",Enhedslisten - De Rød-Grønne,1
+Norddjurs,6,Ørum,"Ø_Kis_Bøggild_Nielsen,_Hemmed","Kis Bøggild Nielsen, Hemmed",Enhedslisten - De Rød-Grønne,0
+Norddjurs,6,Ørum,"Ø_Gitte_Andersen,_Anholt","Gitte Andersen, Anholt",Enhedslisten - De Rød-Grønne,0
+Norddjurs,6,Ørum,"Ø_Lise_Brøndum,_Bønnerup_Strand","Lise Brøndum, Bønnerup Strand",Enhedslisten - De Rød-Grønne,1
+Norddjurs,6,Ørum,"Ø_Georg_Hansen,_Grenaa","Georg Hansen, Grenaa",Enhedslisten - De Rød-Grønne,1
+Norddjurs,6,Ørum,"Ø_Lone_Bording_Jensen,_Gjerrild","Lone Bording Jensen, Gjerrild",Enhedslisten - De Rød-Grønne,1
+Norddjurs,7,Ørsted,A_Listestemmer,Listestemmer,Socialdemokratiet,101
+Norddjurs,7,Ørsted,"A_Jan_Petersen,_Sangstrup","Jan Petersen, Sangstrup",Socialdemokratiet,49
+Norddjurs,7,Ørsted,"A_Lars_Møller,_Grenaa","Lars Møller, Grenaa",Socialdemokratiet,5
+Norddjurs,7,Ørsted,"A_Allan_Gjersbøl_Jørgensen,_Grenaa","Allan Gjersbøl Jørgensen, Grenaa",Socialdemokratiet,0
+Norddjurs,7,Ørsted,"A_Bente_Hedegaard,_Auning","Bente Hedegaard, Auning",Socialdemokratiet,38
+Norddjurs,7,Ørsted,"A_Karoline_Bergkvist_Søgaard,_Rimsø","Karoline Bergkvist Søgaard, Rimsø",Socialdemokratiet,17
+Norddjurs,7,Ørsted,"A_Anette_Ruby_Liebe,_Grenaa","Anette Ruby Liebe, Grenaa",Socialdemokratiet,5
+Norddjurs,7,Ørsted,"A_Fritz_Birk_Sørensen,_Allingåbro","Fritz Birk Sørensen, Allingåbro",Socialdemokratiet,24
+Norddjurs,7,Ørsted,"A_Anders_Stenumgaard_Lind,_Grenaa","Anders Stenumgaard Lind, Grenaa",Socialdemokratiet,0
+Norddjurs,7,Ørsted,"A_Niels_Basballe,_Grenaa","Niels Basballe, Grenaa",Socialdemokratiet,1
+Norddjurs,7,Ørsted,"A_Hans_Fisker_Jensen,_Bønnerup","Hans Fisker Jensen, Bønnerup",Socialdemokratiet,0
+Norddjurs,7,Ørsted,"A_Tom_Bytoft,_Auning","Tom Bytoft, Auning",Socialdemokratiet,31
+Norddjurs,7,Ørsted,"A_Carsten_Hering_Nielsen,_Trustrup","Carsten Hering Nielsen, Trustrup",Socialdemokratiet,2
+Norddjurs,7,Ørsted,"A_Lars_Pedersen,_Udbyhøj","Lars Pedersen, Udbyhøj",Socialdemokratiet,161
+Norddjurs,7,Ørsted,"A_Carl-Eric_Würtz_Pallesen,_Grenaa","Carl-Eric Würtz Pallesen, Grenaa",Socialdemokratiet,0
+Norddjurs,7,Ørsted,"A_Carsten_Pleman,_Holbæk","Carsten Pleman, Holbæk",Socialdemokratiet,11
+Norddjurs,7,Ørsted,"A_Jacob_Gosvig_Haaber,_Stenvad","Jacob Gosvig Haaber, Stenvad",Socialdemokratiet,0
+Norddjurs,7,Ørsted,"A_Heidi_Hass_Madsen,_Glatved","Heidi Hass Madsen, Glatved",Socialdemokratiet,7
+Norddjurs,7,Ørsted,B_Listestemmer,Listestemmer,Radikale Venstre,7
+Norddjurs,7,Ørsted,"B_Ole_Svit,_Glesborg","Ole Svit, Glesborg",Radikale Venstre,8
+Norddjurs,7,Ørsted,"B_Else_Brask,_Grenaa","Else Brask, Grenaa",Radikale Venstre,2
+Norddjurs,7,Ørsted,"B_Jørn_Juul_Sørensen,_Grenaa","Jørn Juul Sørensen, Grenaa",Radikale Venstre,1
+Norddjurs,7,Ørsted,"B_Malene_Kristiansen,_Grenaa","Malene Kristiansen, Grenaa",Radikale Venstre,1
+Norddjurs,7,Ørsted,"B_Allan_Andersen,_Grenaa","Allan Andersen, Grenaa",Radikale Venstre,0
+Norddjurs,7,Ørsted,"B_Jacob_Hørlyk,_Grenaa","Jacob Hørlyk, Grenaa",Radikale Venstre,0
+Norddjurs,7,Ørsted,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,32
+Norddjurs,7,Ørsted,"C_Benny_Hammer,_Glesborg","Benny Hammer, Glesborg",Det Konservative Folkeparti,53
+Norddjurs,7,Ørsted,"C_Mads_Jensen,_Grenaa","Mads Jensen, Grenaa",Det Konservative Folkeparti,4
+Norddjurs,7,Ørsted,"C_Grethe_Hansen,_Bønnerup","Grethe Hansen, Bønnerup",Det Konservative Folkeparti,2
+Norddjurs,7,Ørsted,"C_Mads_Bjerregaard,_Auning","Mads Bjerregaard, Auning",Det Konservative Folkeparti,5
+Norddjurs,7,Ørsted,"C_Martin_Raghner,_Grenaa","Martin Raghner, Grenaa",Det Konservative Folkeparti,0
+Norddjurs,7,Ørsted,"C_Sarah_Reenberg,_Auning","Sarah Reenberg, Auning",Det Konservative Folkeparti,8
+Norddjurs,7,Ørsted,"C_Niels_Skov_Pedersen,_Ørum_Djurs","Niels Skov Pedersen, Ørum Djurs",Det Konservative Folkeparti,5
+Norddjurs,7,Ørsted,"C_Alice_Holst_Brask,_Grenaa","Alice Holst Brask, Grenaa",Det Konservative Folkeparti,1
+Norddjurs,7,Ørsted,"C_Ole_Olesen,_Grenaa","Ole Olesen, Grenaa",Det Konservative Folkeparti,1
+Norddjurs,7,Ørsted,"C_Søren_Peter_Hansen,_Glesborg","Søren Peter Hansen, Glesborg",Det Konservative Folkeparti,1
+Norddjurs,7,Ørsted,D_Listestemmer,Listestemmer,Nye Borgerlige,24
+Norddjurs,7,Ørsted,"D_Jens_Kannegaard_Lundager,_Veggersl","Jens Kannegaard Lundager, Veggersl",Nye Borgerlige,26
+Norddjurs,7,Ørsted,"D_Martin_Hansen,_Ørsted","Martin Hansen, Ørsted",Nye Borgerlige,50
+Norddjurs,7,Ørsted,"D_Peter_Husum,_Grenaa","Peter Husum, Grenaa",Nye Borgerlige,0
+Norddjurs,7,Ørsted,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,30
+Norddjurs,7,Ørsted,"F_Aleksander_Myrhøj,_Fjellerup","Aleksander Myrhøj, Fjellerup",SF - Socialistisk Folkeparti,24
+Norddjurs,7,Ørsted,"F_Jytte_Schmidt,_Vivild","Jytte Schmidt, Vivild",SF - Socialistisk Folkeparti,48
+Norddjurs,7,Ørsted,"F_Kasper_Vindbjerg,_Grenaa","Kasper Vindbjerg, Grenaa",SF - Socialistisk Folkeparti,2
+Norddjurs,7,Ørsted,"F_Morten_W._B._Pedersen,_Voer","Morten W. B. Pedersen, Voer",SF - Socialistisk Folkeparti,15
+Norddjurs,7,Ørsted,"F_Birgitte_Dahl_Jeppesen,_Anholt","Birgitte Dahl Jeppesen, Anholt",SF - Socialistisk Folkeparti,0
+Norddjurs,7,Ørsted,"F_Jytte_Dalgaard,_Lyngby","Jytte Dalgaard, Lyngby",SF - Socialistisk Folkeparti,1
+Norddjurs,7,Ørsted,"F_Jytte_Faurholt_Jacobsen,_Hemmed","Jytte Faurholt Jacobsen, Hemmed",SF - Socialistisk Folkeparti,0
+Norddjurs,7,Ørsted,"F_Erik_Knudsen,_Grenaa","Erik Knudsen, Grenaa",SF - Socialistisk Folkeparti,1
+Norddjurs,7,Ørsted,I_Listestemmer,Listestemmer,Liberal Alliance,7
+Norddjurs,7,Ørsted,"I_Jens_Meilvang,_Auning","Jens Meilvang, Auning",Liberal Alliance,217
+Norddjurs,7,Ørsted,"I_Sebastian_Grauert,_Grenaa","Sebastian Grauert, Grenaa",Liberal Alliance,2
+Norddjurs,7,Ørsted,"I_Stinne_Thorsen_Kvorning,_Auning","Stinne Thorsen Kvorning, Auning",Liberal Alliance,14
+Norddjurs,7,Ørsted,"I_Nadja_Grauert,_Grenaa","Nadja Grauert, Grenaa",Liberal Alliance,0
+Norddjurs,7,Ørsted,J_Listestemmer,Listestemmer,Frie Danske,2
+Norddjurs,7,Ørsted,J_René_Paw_Christensen,René Paw Christensen,Frie Danske,0
+Norddjurs,7,Ørsted,O_Listestemmer,Listestemmer,Dansk Folkeparti,31
+Norddjurs,7,Ørsted,"O_Diana_Therese_Mikkelsen,_Grenaa","Diana Therese Mikkelsen, Grenaa",Dansk Folkeparti,11
+Norddjurs,7,Ørsted,"O_Steen_Jensen,_Grenaa","Steen Jensen, Grenaa",Dansk Folkeparti,7
+Norddjurs,7,Ørsted,"O_Pia_Bjerregaard,_Grenaa","Pia Bjerregaard, Grenaa",Dansk Folkeparti,1
+Norddjurs,7,Ørsted,"O_Helle_Ringberg,_Veggerslev","Helle Ringberg, Veggerslev",Dansk Folkeparti,4
+Norddjurs,7,Ørsted,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",63
+Norddjurs,7,Ørsted,"V_Kasper_Bjerregaard,_Lyngby","Kasper Bjerregaard, Lyngby","Venstre, Danmarks Liberale Parti",22
+Norddjurs,7,Ørsted,"V_Cay_Wulff_Sørensen,_Kristiansminde","Cay Wulff Sørensen, Kristiansminde","Venstre, Danmarks Liberale Parti",7
+Norddjurs,7,Ørsted,"V_Niels_Ole_Birk,_Vivild","Niels Ole Birk, Vivild","Venstre, Danmarks Liberale Parti",137
+Norddjurs,7,Ørsted,"V_Lars_Østergaard,_Grenaa","Lars Østergaard, Grenaa","Venstre, Danmarks Liberale Parti",2
+Norddjurs,7,Ørsted,"V_Rikke_Albæk_Jørgensen,_Glesborg","Rikke Albæk Jørgensen, Glesborg","Venstre, Danmarks Liberale Parti",8
+Norddjurs,7,Ørsted,"V_Lars_Sørensen,_Auning","Lars Sørensen, Auning","Venstre, Danmarks Liberale Parti",26
+Norddjurs,7,Ørsted,"V_Kate_Barner,_Grenaa","Kate Barner, Grenaa","Venstre, Danmarks Liberale Parti",1
+Norddjurs,7,Ørsted,"V_Benno_Blæsild,_Allingåbro","Benno Blæsild, Allingåbro","Venstre, Danmarks Liberale Parti",76
+Norddjurs,7,Ørsted,"V_Morten_Friis_Heidemann,_Ålsrode","Morten Friis Heidemann, Ålsrode","Venstre, Danmarks Liberale Parti",1
+Norddjurs,7,Ørsted,"V_Bettina_Grønbjerg,_Grenaa","Bettina Grønbjerg, Grenaa","Venstre, Danmarks Liberale Parti",3
+Norddjurs,7,Ørsted,"V_Søren_Holck,_Grenaa","Søren Holck, Grenaa","Venstre, Danmarks Liberale Parti",0
+Norddjurs,7,Ørsted,"V_Kai_Hansen,_Grenaa","Kai Hansen, Grenaa","Venstre, Danmarks Liberale Parti",0
+Norddjurs,7,Ørsted,"V_Ilka_Daniel,_Kristiansminde","Ilka Daniel, Kristiansminde","Venstre, Danmarks Liberale Parti",3
+Norddjurs,7,Ørsted,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,25
+Norddjurs,7,Ørsted,"Ø_Ulf_Harbo,_Glesborg_Kær","Ulf Harbo, Glesborg Kær",Enhedslisten - De Rød-Grønne,60
+Norddjurs,7,Ørsted,"Ø_Marlene_Gryesten,_Ørsted","Marlene Gryesten, Ørsted",Enhedslisten - De Rød-Grønne,28
+Norddjurs,7,Ørsted,"Ø_Marianne_Abell,_Grenaa","Marianne Abell, Grenaa",Enhedslisten - De Rød-Grønne,2
+Norddjurs,7,Ørsted,"Ø_Simon_Kroner,_Gjerrild","Simon Kroner, Gjerrild",Enhedslisten - De Rød-Grønne,1
+Norddjurs,7,Ørsted,"Ø_Birgitte_Poulsen,_St._Sjørup","Birgitte Poulsen, St. Sjørup",Enhedslisten - De Rød-Grønne,14
+Norddjurs,7,Ørsted,"Ø_Laila_Charlotte_Jensen,_Grenaa","Laila Charlotte Jensen, Grenaa",Enhedslisten - De Rød-Grønne,0
+Norddjurs,7,Ørsted,"Ø_Inky_Remy,_Karlby","Inky Remy, Karlby",Enhedslisten - De Rød-Grønne,0
+Norddjurs,7,Ørsted,"Ø_Elsemarie_Brøndum,_Glesborg","Elsemarie Brøndum, Glesborg",Enhedslisten - De Rød-Grønne,0
+Norddjurs,7,Ørsted,"Ø_Kis_Bøggild_Nielsen,_Hemmed","Kis Bøggild Nielsen, Hemmed",Enhedslisten - De Rød-Grønne,0
+Norddjurs,7,Ørsted,"Ø_Gitte_Andersen,_Anholt","Gitte Andersen, Anholt",Enhedslisten - De Rød-Grønne,0
+Norddjurs,7,Ørsted,"Ø_Lise_Brøndum,_Bønnerup_Strand","Lise Brøndum, Bønnerup Strand",Enhedslisten - De Rød-Grønne,0
+Norddjurs,7,Ørsted,"Ø_Georg_Hansen,_Grenaa","Georg Hansen, Grenaa",Enhedslisten - De Rød-Grønne,1
+Norddjurs,7,Ørsted,"Ø_Lone_Bording_Jensen,_Gjerrild","Lone Bording Jensen, Gjerrild",Enhedslisten - De Rød-Grønne,0
+Norddjurs,8,Allingåbro,A_Listestemmer,Listestemmer,Socialdemokratiet,77
+Norddjurs,8,Allingåbro,"A_Jan_Petersen,_Sangstrup","Jan Petersen, Sangstrup",Socialdemokratiet,62
+Norddjurs,8,Allingåbro,"A_Lars_Møller,_Grenaa","Lars Møller, Grenaa",Socialdemokratiet,2
+Norddjurs,8,Allingåbro,"A_Allan_Gjersbøl_Jørgensen,_Grenaa","Allan Gjersbøl Jørgensen, Grenaa",Socialdemokratiet,1
+Norddjurs,8,Allingåbro,"A_Bente_Hedegaard,_Auning","Bente Hedegaard, Auning",Socialdemokratiet,37
+Norddjurs,8,Allingåbro,"A_Karoline_Bergkvist_Søgaard,_Rimsø","Karoline Bergkvist Søgaard, Rimsø",Socialdemokratiet,6
+Norddjurs,8,Allingåbro,"A_Anette_Ruby_Liebe,_Grenaa","Anette Ruby Liebe, Grenaa",Socialdemokratiet,3
+Norddjurs,8,Allingåbro,"A_Fritz_Birk_Sørensen,_Allingåbro","Fritz Birk Sørensen, Allingåbro",Socialdemokratiet,206
+Norddjurs,8,Allingåbro,"A_Anders_Stenumgaard_Lind,_Grenaa","Anders Stenumgaard Lind, Grenaa",Socialdemokratiet,3
+Norddjurs,8,Allingåbro,"A_Niels_Basballe,_Grenaa","Niels Basballe, Grenaa",Socialdemokratiet,0
+Norddjurs,8,Allingåbro,"A_Hans_Fisker_Jensen,_Bønnerup","Hans Fisker Jensen, Bønnerup",Socialdemokratiet,2
+Norddjurs,8,Allingåbro,"A_Tom_Bytoft,_Auning","Tom Bytoft, Auning",Socialdemokratiet,26
+Norddjurs,8,Allingåbro,"A_Carsten_Hering_Nielsen,_Trustrup","Carsten Hering Nielsen, Trustrup",Socialdemokratiet,2
+Norddjurs,8,Allingåbro,"A_Lars_Pedersen,_Udbyhøj","Lars Pedersen, Udbyhøj",Socialdemokratiet,24
+Norddjurs,8,Allingåbro,"A_Carl-Eric_Würtz_Pallesen,_Grenaa","Carl-Eric Würtz Pallesen, Grenaa",Socialdemokratiet,1
+Norddjurs,8,Allingåbro,"A_Carsten_Pleman,_Holbæk","Carsten Pleman, Holbæk",Socialdemokratiet,1
+Norddjurs,8,Allingåbro,"A_Jacob_Gosvig_Haaber,_Stenvad","Jacob Gosvig Haaber, Stenvad",Socialdemokratiet,1
+Norddjurs,8,Allingåbro,"A_Heidi_Hass_Madsen,_Glatved","Heidi Hass Madsen, Glatved",Socialdemokratiet,9
+Norddjurs,8,Allingåbro,B_Listestemmer,Listestemmer,Radikale Venstre,5
+Norddjurs,8,Allingåbro,"B_Ole_Svit,_Glesborg","Ole Svit, Glesborg",Radikale Venstre,3
+Norddjurs,8,Allingåbro,"B_Else_Brask,_Grenaa","Else Brask, Grenaa",Radikale Venstre,0
+Norddjurs,8,Allingåbro,"B_Jørn_Juul_Sørensen,_Grenaa","Jørn Juul Sørensen, Grenaa",Radikale Venstre,1
+Norddjurs,8,Allingåbro,"B_Malene_Kristiansen,_Grenaa","Malene Kristiansen, Grenaa",Radikale Venstre,1
+Norddjurs,8,Allingåbro,"B_Allan_Andersen,_Grenaa","Allan Andersen, Grenaa",Radikale Venstre,2
+Norddjurs,8,Allingåbro,"B_Jacob_Hørlyk,_Grenaa","Jacob Hørlyk, Grenaa",Radikale Venstre,2
+Norddjurs,8,Allingåbro,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,29
+Norddjurs,8,Allingåbro,"C_Benny_Hammer,_Glesborg","Benny Hammer, Glesborg",Det Konservative Folkeparti,46
+Norddjurs,8,Allingåbro,"C_Mads_Jensen,_Grenaa","Mads Jensen, Grenaa",Det Konservative Folkeparti,2
+Norddjurs,8,Allingåbro,"C_Grethe_Hansen,_Bønnerup","Grethe Hansen, Bønnerup",Det Konservative Folkeparti,1
+Norddjurs,8,Allingåbro,"C_Mads_Bjerregaard,_Auning","Mads Bjerregaard, Auning",Det Konservative Folkeparti,9
+Norddjurs,8,Allingåbro,"C_Martin_Raghner,_Grenaa","Martin Raghner, Grenaa",Det Konservative Folkeparti,1
+Norddjurs,8,Allingåbro,"C_Sarah_Reenberg,_Auning","Sarah Reenberg, Auning",Det Konservative Folkeparti,2
+Norddjurs,8,Allingåbro,"C_Niels_Skov_Pedersen,_Ørum_Djurs","Niels Skov Pedersen, Ørum Djurs",Det Konservative Folkeparti,3
+Norddjurs,8,Allingåbro,"C_Alice_Holst_Brask,_Grenaa","Alice Holst Brask, Grenaa",Det Konservative Folkeparti,3
+Norddjurs,8,Allingåbro,"C_Ole_Olesen,_Grenaa","Ole Olesen, Grenaa",Det Konservative Folkeparti,0
+Norddjurs,8,Allingåbro,"C_Søren_Peter_Hansen,_Glesborg","Søren Peter Hansen, Glesborg",Det Konservative Folkeparti,2
+Norddjurs,8,Allingåbro,D_Listestemmer,Listestemmer,Nye Borgerlige,21
+Norddjurs,8,Allingåbro,"D_Jens_Kannegaard_Lundager,_Veggersl","Jens Kannegaard Lundager, Veggersl",Nye Borgerlige,17
+Norddjurs,8,Allingåbro,"D_Martin_Hansen,_Ørsted","Martin Hansen, Ørsted",Nye Borgerlige,29
+Norddjurs,8,Allingåbro,"D_Peter_Husum,_Grenaa","Peter Husum, Grenaa",Nye Borgerlige,3
+Norddjurs,8,Allingåbro,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,18
+Norddjurs,8,Allingåbro,"F_Aleksander_Myrhøj,_Fjellerup","Aleksander Myrhøj, Fjellerup",SF - Socialistisk Folkeparti,30
+Norddjurs,8,Allingåbro,"F_Jytte_Schmidt,_Vivild","Jytte Schmidt, Vivild",SF - Socialistisk Folkeparti,49
+Norddjurs,8,Allingåbro,"F_Kasper_Vindbjerg,_Grenaa","Kasper Vindbjerg, Grenaa",SF - Socialistisk Folkeparti,1
+Norddjurs,8,Allingåbro,"F_Morten_W._B._Pedersen,_Voer","Morten W. B. Pedersen, Voer",SF - Socialistisk Folkeparti,1
+Norddjurs,8,Allingåbro,"F_Birgitte_Dahl_Jeppesen,_Anholt","Birgitte Dahl Jeppesen, Anholt",SF - Socialistisk Folkeparti,0
+Norddjurs,8,Allingåbro,"F_Jytte_Dalgaard,_Lyngby","Jytte Dalgaard, Lyngby",SF - Socialistisk Folkeparti,1
+Norddjurs,8,Allingåbro,"F_Jytte_Faurholt_Jacobsen,_Hemmed","Jytte Faurholt Jacobsen, Hemmed",SF - Socialistisk Folkeparti,0
+Norddjurs,8,Allingåbro,"F_Erik_Knudsen,_Grenaa","Erik Knudsen, Grenaa",SF - Socialistisk Folkeparti,0
+Norddjurs,8,Allingåbro,I_Listestemmer,Listestemmer,Liberal Alliance,5
+Norddjurs,8,Allingåbro,"I_Jens_Meilvang,_Auning","Jens Meilvang, Auning",Liberal Alliance,233
+Norddjurs,8,Allingåbro,"I_Sebastian_Grauert,_Grenaa","Sebastian Grauert, Grenaa",Liberal Alliance,0
+Norddjurs,8,Allingåbro,"I_Stinne_Thorsen_Kvorning,_Auning","Stinne Thorsen Kvorning, Auning",Liberal Alliance,17
+Norddjurs,8,Allingåbro,"I_Nadja_Grauert,_Grenaa","Nadja Grauert, Grenaa",Liberal Alliance,0
+Norddjurs,8,Allingåbro,J_Listestemmer,Listestemmer,Frie Danske,0
+Norddjurs,8,Allingåbro,J_René_Paw_Christensen,René Paw Christensen,Frie Danske,0
+Norddjurs,8,Allingåbro,O_Listestemmer,Listestemmer,Dansk Folkeparti,17
+Norddjurs,8,Allingåbro,"O_Diana_Therese_Mikkelsen,_Grenaa","Diana Therese Mikkelsen, Grenaa",Dansk Folkeparti,11
+Norddjurs,8,Allingåbro,"O_Steen_Jensen,_Grenaa","Steen Jensen, Grenaa",Dansk Folkeparti,4
+Norddjurs,8,Allingåbro,"O_Pia_Bjerregaard,_Grenaa","Pia Bjerregaard, Grenaa",Dansk Folkeparti,6
+Norddjurs,8,Allingåbro,"O_Helle_Ringberg,_Veggerslev","Helle Ringberg, Veggerslev",Dansk Folkeparti,8
+Norddjurs,8,Allingåbro,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",21
+Norddjurs,8,Allingåbro,"V_Kasper_Bjerregaard,_Lyngby","Kasper Bjerregaard, Lyngby","Venstre, Danmarks Liberale Parti",9
+Norddjurs,8,Allingåbro,"V_Cay_Wulff_Sørensen,_Kristiansminde","Cay Wulff Sørensen, Kristiansminde","Venstre, Danmarks Liberale Parti",1
+Norddjurs,8,Allingåbro,"V_Niels_Ole_Birk,_Vivild","Niels Ole Birk, Vivild","Venstre, Danmarks Liberale Parti",93
+Norddjurs,8,Allingåbro,"V_Lars_Østergaard,_Grenaa","Lars Østergaard, Grenaa","Venstre, Danmarks Liberale Parti",0
+Norddjurs,8,Allingåbro,"V_Rikke_Albæk_Jørgensen,_Glesborg","Rikke Albæk Jørgensen, Glesborg","Venstre, Danmarks Liberale Parti",5
+Norddjurs,8,Allingåbro,"V_Lars_Sørensen,_Auning","Lars Sørensen, Auning","Venstre, Danmarks Liberale Parti",7
+Norddjurs,8,Allingåbro,"V_Kate_Barner,_Grenaa","Kate Barner, Grenaa","Venstre, Danmarks Liberale Parti",2
+Norddjurs,8,Allingåbro,"V_Benno_Blæsild,_Allingåbro","Benno Blæsild, Allingåbro","Venstre, Danmarks Liberale Parti",110
+Norddjurs,8,Allingåbro,"V_Morten_Friis_Heidemann,_Ålsrode","Morten Friis Heidemann, Ålsrode","Venstre, Danmarks Liberale Parti",2
+Norddjurs,8,Allingåbro,"V_Bettina_Grønbjerg,_Grenaa","Bettina Grønbjerg, Grenaa","Venstre, Danmarks Liberale Parti",1
+Norddjurs,8,Allingåbro,"V_Søren_Holck,_Grenaa","Søren Holck, Grenaa","Venstre, Danmarks Liberale Parti",0
+Norddjurs,8,Allingåbro,"V_Kai_Hansen,_Grenaa","Kai Hansen, Grenaa","Venstre, Danmarks Liberale Parti",0
+Norddjurs,8,Allingåbro,"V_Ilka_Daniel,_Kristiansminde","Ilka Daniel, Kristiansminde","Venstre, Danmarks Liberale Parti",0
+Norddjurs,8,Allingåbro,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,10
+Norddjurs,8,Allingåbro,"Ø_Ulf_Harbo,_Glesborg_Kær","Ulf Harbo, Glesborg Kær",Enhedslisten - De Rød-Grønne,29
+Norddjurs,8,Allingåbro,"Ø_Marlene_Gryesten,_Ørsted","Marlene Gryesten, Ørsted",Enhedslisten - De Rød-Grønne,9
+Norddjurs,8,Allingåbro,"Ø_Marianne_Abell,_Grenaa","Marianne Abell, Grenaa",Enhedslisten - De Rød-Grønne,0
+Norddjurs,8,Allingåbro,"Ø_Simon_Kroner,_Gjerrild","Simon Kroner, Gjerrild",Enhedslisten - De Rød-Grønne,1
+Norddjurs,8,Allingåbro,"Ø_Birgitte_Poulsen,_St._Sjørup","Birgitte Poulsen, St. Sjørup",Enhedslisten - De Rød-Grønne,1
+Norddjurs,8,Allingåbro,"Ø_Laila_Charlotte_Jensen,_Grenaa","Laila Charlotte Jensen, Grenaa",Enhedslisten - De Rød-Grønne,0
+Norddjurs,8,Allingåbro,"Ø_Inky_Remy,_Karlby","Inky Remy, Karlby",Enhedslisten - De Rød-Grønne,0
+Norddjurs,8,Allingåbro,"Ø_Elsemarie_Brøndum,_Glesborg","Elsemarie Brøndum, Glesborg",Enhedslisten - De Rød-Grønne,0
+Norddjurs,8,Allingåbro,"Ø_Kis_Bøggild_Nielsen,_Hemmed","Kis Bøggild Nielsen, Hemmed",Enhedslisten - De Rød-Grønne,0
+Norddjurs,8,Allingåbro,"Ø_Gitte_Andersen,_Anholt","Gitte Andersen, Anholt",Enhedslisten - De Rød-Grønne,0
+Norddjurs,8,Allingåbro,"Ø_Lise_Brøndum,_Bønnerup_Strand","Lise Brøndum, Bønnerup Strand",Enhedslisten - De Rød-Grønne,0
+Norddjurs,8,Allingåbro,"Ø_Georg_Hansen,_Grenaa","Georg Hansen, Grenaa",Enhedslisten - De Rød-Grønne,0
+Norddjurs,8,Allingåbro,"Ø_Lone_Bording_Jensen,_Gjerrild","Lone Bording Jensen, Gjerrild",Enhedslisten - De Rød-Grønne,0
+Norddjurs,9,Auning,A_Listestemmer,Listestemmer,Socialdemokratiet,118
+Norddjurs,9,Auning,"A_Jan_Petersen,_Sangstrup","Jan Petersen, Sangstrup",Socialdemokratiet,70
+Norddjurs,9,Auning,"A_Lars_Møller,_Grenaa","Lars Møller, Grenaa",Socialdemokratiet,11
+Norddjurs,9,Auning,"A_Allan_Gjersbøl_Jørgensen,_Grenaa","Allan Gjersbøl Jørgensen, Grenaa",Socialdemokratiet,3
+Norddjurs,9,Auning,"A_Bente_Hedegaard,_Auning","Bente Hedegaard, Auning",Socialdemokratiet,165
+Norddjurs,9,Auning,"A_Karoline_Bergkvist_Søgaard,_Rimsø","Karoline Bergkvist Søgaard, Rimsø",Socialdemokratiet,10
+Norddjurs,9,Auning,"A_Anette_Ruby_Liebe,_Grenaa","Anette Ruby Liebe, Grenaa",Socialdemokratiet,1
+Norddjurs,9,Auning,"A_Fritz_Birk_Sørensen,_Allingåbro","Fritz Birk Sørensen, Allingåbro",Socialdemokratiet,17
+Norddjurs,9,Auning,"A_Anders_Stenumgaard_Lind,_Grenaa","Anders Stenumgaard Lind, Grenaa",Socialdemokratiet,1
+Norddjurs,9,Auning,"A_Niels_Basballe,_Grenaa","Niels Basballe, Grenaa",Socialdemokratiet,0
+Norddjurs,9,Auning,"A_Hans_Fisker_Jensen,_Bønnerup","Hans Fisker Jensen, Bønnerup",Socialdemokratiet,0
+Norddjurs,9,Auning,"A_Tom_Bytoft,_Auning","Tom Bytoft, Auning",Socialdemokratiet,213
+Norddjurs,9,Auning,"A_Carsten_Hering_Nielsen,_Trustrup","Carsten Hering Nielsen, Trustrup",Socialdemokratiet,0
+Norddjurs,9,Auning,"A_Lars_Pedersen,_Udbyhøj","Lars Pedersen, Udbyhøj",Socialdemokratiet,5
+Norddjurs,9,Auning,"A_Carl-Eric_Würtz_Pallesen,_Grenaa","Carl-Eric Würtz Pallesen, Grenaa",Socialdemokratiet,0
+Norddjurs,9,Auning,"A_Carsten_Pleman,_Holbæk","Carsten Pleman, Holbæk",Socialdemokratiet,1
+Norddjurs,9,Auning,"A_Jacob_Gosvig_Haaber,_Stenvad","Jacob Gosvig Haaber, Stenvad",Socialdemokratiet,0
+Norddjurs,9,Auning,"A_Heidi_Hass_Madsen,_Glatved","Heidi Hass Madsen, Glatved",Socialdemokratiet,15
+Norddjurs,9,Auning,B_Listestemmer,Listestemmer,Radikale Venstre,8
+Norddjurs,9,Auning,"B_Ole_Svit,_Glesborg","Ole Svit, Glesborg",Radikale Venstre,7
+Norddjurs,9,Auning,"B_Else_Brask,_Grenaa","Else Brask, Grenaa",Radikale Venstre,3
+Norddjurs,9,Auning,"B_Jørn_Juul_Sørensen,_Grenaa","Jørn Juul Sørensen, Grenaa",Radikale Venstre,0
+Norddjurs,9,Auning,"B_Malene_Kristiansen,_Grenaa","Malene Kristiansen, Grenaa",Radikale Venstre,7
+Norddjurs,9,Auning,"B_Allan_Andersen,_Grenaa","Allan Andersen, Grenaa",Radikale Venstre,1
+Norddjurs,9,Auning,"B_Jacob_Hørlyk,_Grenaa","Jacob Hørlyk, Grenaa",Radikale Venstre,0
+Norddjurs,9,Auning,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,34
+Norddjurs,9,Auning,"C_Benny_Hammer,_Glesborg","Benny Hammer, Glesborg",Det Konservative Folkeparti,55
+Norddjurs,9,Auning,"C_Mads_Jensen,_Grenaa","Mads Jensen, Grenaa",Det Konservative Folkeparti,2
+Norddjurs,9,Auning,"C_Grethe_Hansen,_Bønnerup","Grethe Hansen, Bønnerup",Det Konservative Folkeparti,2
+Norddjurs,9,Auning,"C_Mads_Bjerregaard,_Auning","Mads Bjerregaard, Auning",Det Konservative Folkeparti,15
+Norddjurs,9,Auning,"C_Martin_Raghner,_Grenaa","Martin Raghner, Grenaa",Det Konservative Folkeparti,6
+Norddjurs,9,Auning,"C_Sarah_Reenberg,_Auning","Sarah Reenberg, Auning",Det Konservative Folkeparti,11
+Norddjurs,9,Auning,"C_Niels_Skov_Pedersen,_Ørum_Djurs","Niels Skov Pedersen, Ørum Djurs",Det Konservative Folkeparti,8
+Norddjurs,9,Auning,"C_Alice_Holst_Brask,_Grenaa","Alice Holst Brask, Grenaa",Det Konservative Folkeparti,0
+Norddjurs,9,Auning,"C_Ole_Olesen,_Grenaa","Ole Olesen, Grenaa",Det Konservative Folkeparti,0
+Norddjurs,9,Auning,"C_Søren_Peter_Hansen,_Glesborg","Søren Peter Hansen, Glesborg",Det Konservative Folkeparti,5
+Norddjurs,9,Auning,D_Listestemmer,Listestemmer,Nye Borgerlige,34
+Norddjurs,9,Auning,"D_Jens_Kannegaard_Lundager,_Veggersl","Jens Kannegaard Lundager, Veggersl",Nye Borgerlige,34
+Norddjurs,9,Auning,"D_Martin_Hansen,_Ørsted","Martin Hansen, Ørsted",Nye Borgerlige,11
+Norddjurs,9,Auning,"D_Peter_Husum,_Grenaa","Peter Husum, Grenaa",Nye Borgerlige,3
+Norddjurs,9,Auning,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,31
+Norddjurs,9,Auning,"F_Aleksander_Myrhøj,_Fjellerup","Aleksander Myrhøj, Fjellerup",SF - Socialistisk Folkeparti,59
+Norddjurs,9,Auning,"F_Jytte_Schmidt,_Vivild","Jytte Schmidt, Vivild",SF - Socialistisk Folkeparti,21
+Norddjurs,9,Auning,"F_Kasper_Vindbjerg,_Grenaa","Kasper Vindbjerg, Grenaa",SF - Socialistisk Folkeparti,6
+Norddjurs,9,Auning,"F_Morten_W._B._Pedersen,_Voer","Morten W. B. Pedersen, Voer",SF - Socialistisk Folkeparti,1
+Norddjurs,9,Auning,"F_Birgitte_Dahl_Jeppesen,_Anholt","Birgitte Dahl Jeppesen, Anholt",SF - Socialistisk Folkeparti,4
+Norddjurs,9,Auning,"F_Jytte_Dalgaard,_Lyngby","Jytte Dalgaard, Lyngby",SF - Socialistisk Folkeparti,0
+Norddjurs,9,Auning,"F_Jytte_Faurholt_Jacobsen,_Hemmed","Jytte Faurholt Jacobsen, Hemmed",SF - Socialistisk Folkeparti,0
+Norddjurs,9,Auning,"F_Erik_Knudsen,_Grenaa","Erik Knudsen, Grenaa",SF - Socialistisk Folkeparti,0
+Norddjurs,9,Auning,I_Listestemmer,Listestemmer,Liberal Alliance,15
+Norddjurs,9,Auning,"I_Jens_Meilvang,_Auning","Jens Meilvang, Auning",Liberal Alliance,685
+Norddjurs,9,Auning,"I_Sebastian_Grauert,_Grenaa","Sebastian Grauert, Grenaa",Liberal Alliance,3
+Norddjurs,9,Auning,"I_Stinne_Thorsen_Kvorning,_Auning","Stinne Thorsen Kvorning, Auning",Liberal Alliance,115
+Norddjurs,9,Auning,"I_Nadja_Grauert,_Grenaa","Nadja Grauert, Grenaa",Liberal Alliance,0
+Norddjurs,9,Auning,J_Listestemmer,Listestemmer,Frie Danske,1
+Norddjurs,9,Auning,J_René_Paw_Christensen,René Paw Christensen,Frie Danske,4
+Norddjurs,9,Auning,O_Listestemmer,Listestemmer,Dansk Folkeparti,31
+Norddjurs,9,Auning,"O_Diana_Therese_Mikkelsen,_Grenaa","Diana Therese Mikkelsen, Grenaa",Dansk Folkeparti,12
+Norddjurs,9,Auning,"O_Steen_Jensen,_Grenaa","Steen Jensen, Grenaa",Dansk Folkeparti,5
+Norddjurs,9,Auning,"O_Pia_Bjerregaard,_Grenaa","Pia Bjerregaard, Grenaa",Dansk Folkeparti,1
+Norddjurs,9,Auning,"O_Helle_Ringberg,_Veggerslev","Helle Ringberg, Veggerslev",Dansk Folkeparti,9
+Norddjurs,9,Auning,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",67
+Norddjurs,9,Auning,"V_Kasper_Bjerregaard,_Lyngby","Kasper Bjerregaard, Lyngby","Venstre, Danmarks Liberale Parti",22
+Norddjurs,9,Auning,"V_Cay_Wulff_Sørensen,_Kristiansminde","Cay Wulff Sørensen, Kristiansminde","Venstre, Danmarks Liberale Parti",2
+Norddjurs,9,Auning,"V_Niels_Ole_Birk,_Vivild","Niels Ole Birk, Vivild","Venstre, Danmarks Liberale Parti",54
+Norddjurs,9,Auning,"V_Lars_Østergaard,_Grenaa","Lars Østergaard, Grenaa","Venstre, Danmarks Liberale Parti",3
+Norddjurs,9,Auning,"V_Rikke_Albæk_Jørgensen,_Glesborg","Rikke Albæk Jørgensen, Glesborg","Venstre, Danmarks Liberale Parti",10
+Norddjurs,9,Auning,"V_Lars_Sørensen,_Auning","Lars Sørensen, Auning","Venstre, Danmarks Liberale Parti",153
+Norddjurs,9,Auning,"V_Kate_Barner,_Grenaa","Kate Barner, Grenaa","Venstre, Danmarks Liberale Parti",0
+Norddjurs,9,Auning,"V_Benno_Blæsild,_Allingåbro","Benno Blæsild, Allingåbro","Venstre, Danmarks Liberale Parti",28
+Norddjurs,9,Auning,"V_Morten_Friis_Heidemann,_Ålsrode","Morten Friis Heidemann, Ålsrode","Venstre, Danmarks Liberale Parti",5
+Norddjurs,9,Auning,"V_Bettina_Grønbjerg,_Grenaa","Bettina Grønbjerg, Grenaa","Venstre, Danmarks Liberale Parti",0
+Norddjurs,9,Auning,"V_Søren_Holck,_Grenaa","Søren Holck, Grenaa","Venstre, Danmarks Liberale Parti",1
+Norddjurs,9,Auning,"V_Kai_Hansen,_Grenaa","Kai Hansen, Grenaa","Venstre, Danmarks Liberale Parti",0
+Norddjurs,9,Auning,"V_Ilka_Daniel,_Kristiansminde","Ilka Daniel, Kristiansminde","Venstre, Danmarks Liberale Parti",2
+Norddjurs,9,Auning,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,28
+Norddjurs,9,Auning,"Ø_Ulf_Harbo,_Glesborg_Kær","Ulf Harbo, Glesborg Kær",Enhedslisten - De Rød-Grønne,20
+Norddjurs,9,Auning,"Ø_Marlene_Gryesten,_Ørsted","Marlene Gryesten, Ørsted",Enhedslisten - De Rød-Grønne,8
+Norddjurs,9,Auning,"Ø_Marianne_Abell,_Grenaa","Marianne Abell, Grenaa",Enhedslisten - De Rød-Grønne,1
+Norddjurs,9,Auning,"Ø_Simon_Kroner,_Gjerrild","Simon Kroner, Gjerrild",Enhedslisten - De Rød-Grønne,0
+Norddjurs,9,Auning,"Ø_Birgitte_Poulsen,_St._Sjørup","Birgitte Poulsen, St. Sjørup",Enhedslisten - De Rød-Grønne,2
+Norddjurs,9,Auning,"Ø_Laila_Charlotte_Jensen,_Grenaa","Laila Charlotte Jensen, Grenaa",Enhedslisten - De Rød-Grønne,5
+Norddjurs,9,Auning,"Ø_Inky_Remy,_Karlby","Inky Remy, Karlby",Enhedslisten - De Rød-Grønne,0
+Norddjurs,9,Auning,"Ø_Elsemarie_Brøndum,_Glesborg","Elsemarie Brøndum, Glesborg",Enhedslisten - De Rød-Grønne,0
+Norddjurs,9,Auning,"Ø_Kis_Bøggild_Nielsen,_Hemmed","Kis Bøggild Nielsen, Hemmed",Enhedslisten - De Rød-Grønne,0
+Norddjurs,9,Auning,"Ø_Gitte_Andersen,_Anholt","Gitte Andersen, Anholt",Enhedslisten - De Rød-Grønne,0
+Norddjurs,9,Auning,"Ø_Lise_Brøndum,_Bønnerup_Strand","Lise Brøndum, Bønnerup Strand",Enhedslisten - De Rød-Grønne,0
+Norddjurs,9,Auning,"Ø_Georg_Hansen,_Grenaa","Georg Hansen, Grenaa",Enhedslisten - De Rød-Grønne,0
+Norddjurs,9,Auning,"Ø_Lone_Bording_Jensen,_Gjerrild","Lone Bording Jensen, Gjerrild",Enhedslisten - De Rød-Grønne,0
+Norddjurs,10,Vivild,A_Listestemmer,Listestemmer,Socialdemokratiet,33
+Norddjurs,10,Vivild,"A_Jan_Petersen,_Sangstrup","Jan Petersen, Sangstrup",Socialdemokratiet,51
+Norddjurs,10,Vivild,"A_Lars_Møller,_Grenaa","Lars Møller, Grenaa",Socialdemokratiet,2
+Norddjurs,10,Vivild,"A_Allan_Gjersbøl_Jørgensen,_Grenaa","Allan Gjersbøl Jørgensen, Grenaa",Socialdemokratiet,1
+Norddjurs,10,Vivild,"A_Bente_Hedegaard,_Auning","Bente Hedegaard, Auning",Socialdemokratiet,53
+Norddjurs,10,Vivild,"A_Karoline_Bergkvist_Søgaard,_Rimsø","Karoline Bergkvist Søgaard, Rimsø",Socialdemokratiet,5
+Norddjurs,10,Vivild,"A_Anette_Ruby_Liebe,_Grenaa","Anette Ruby Liebe, Grenaa",Socialdemokratiet,0
+Norddjurs,10,Vivild,"A_Fritz_Birk_Sørensen,_Allingåbro","Fritz Birk Sørensen, Allingåbro",Socialdemokratiet,21
+Norddjurs,10,Vivild,"A_Anders_Stenumgaard_Lind,_Grenaa","Anders Stenumgaard Lind, Grenaa",Socialdemokratiet,1
+Norddjurs,10,Vivild,"A_Niels_Basballe,_Grenaa","Niels Basballe, Grenaa",Socialdemokratiet,0
+Norddjurs,10,Vivild,"A_Hans_Fisker_Jensen,_Bønnerup","Hans Fisker Jensen, Bønnerup",Socialdemokratiet,5
+Norddjurs,10,Vivild,"A_Tom_Bytoft,_Auning","Tom Bytoft, Auning",Socialdemokratiet,35
+Norddjurs,10,Vivild,"A_Carsten_Hering_Nielsen,_Trustrup","Carsten Hering Nielsen, Trustrup",Socialdemokratiet,0
+Norddjurs,10,Vivild,"A_Lars_Pedersen,_Udbyhøj","Lars Pedersen, Udbyhøj",Socialdemokratiet,10
+Norddjurs,10,Vivild,"A_Carl-Eric_Würtz_Pallesen,_Grenaa","Carl-Eric Würtz Pallesen, Grenaa",Socialdemokratiet,0
+Norddjurs,10,Vivild,"A_Carsten_Pleman,_Holbæk","Carsten Pleman, Holbæk",Socialdemokratiet,1
+Norddjurs,10,Vivild,"A_Jacob_Gosvig_Haaber,_Stenvad","Jacob Gosvig Haaber, Stenvad",Socialdemokratiet,0
+Norddjurs,10,Vivild,"A_Heidi_Hass_Madsen,_Glatved","Heidi Hass Madsen, Glatved",Socialdemokratiet,6
+Norddjurs,10,Vivild,B_Listestemmer,Listestemmer,Radikale Venstre,3
+Norddjurs,10,Vivild,"B_Ole_Svit,_Glesborg","Ole Svit, Glesborg",Radikale Venstre,4
+Norddjurs,10,Vivild,"B_Else_Brask,_Grenaa","Else Brask, Grenaa",Radikale Venstre,0
+Norddjurs,10,Vivild,"B_Jørn_Juul_Sørensen,_Grenaa","Jørn Juul Sørensen, Grenaa",Radikale Venstre,0
+Norddjurs,10,Vivild,"B_Malene_Kristiansen,_Grenaa","Malene Kristiansen, Grenaa",Radikale Venstre,1
+Norddjurs,10,Vivild,"B_Allan_Andersen,_Grenaa","Allan Andersen, Grenaa",Radikale Venstre,3
+Norddjurs,10,Vivild,"B_Jacob_Hørlyk,_Grenaa","Jacob Hørlyk, Grenaa",Radikale Venstre,0
+Norddjurs,10,Vivild,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,14
+Norddjurs,10,Vivild,"C_Benny_Hammer,_Glesborg","Benny Hammer, Glesborg",Det Konservative Folkeparti,38
+Norddjurs,10,Vivild,"C_Mads_Jensen,_Grenaa","Mads Jensen, Grenaa",Det Konservative Folkeparti,2
+Norddjurs,10,Vivild,"C_Grethe_Hansen,_Bønnerup","Grethe Hansen, Bønnerup",Det Konservative Folkeparti,2
+Norddjurs,10,Vivild,"C_Mads_Bjerregaard,_Auning","Mads Bjerregaard, Auning",Det Konservative Folkeparti,0
+Norddjurs,10,Vivild,"C_Martin_Raghner,_Grenaa","Martin Raghner, Grenaa",Det Konservative Folkeparti,1
+Norddjurs,10,Vivild,"C_Sarah_Reenberg,_Auning","Sarah Reenberg, Auning",Det Konservative Folkeparti,0
+Norddjurs,10,Vivild,"C_Niels_Skov_Pedersen,_Ørum_Djurs","Niels Skov Pedersen, Ørum Djurs",Det Konservative Folkeparti,4
+Norddjurs,10,Vivild,"C_Alice_Holst_Brask,_Grenaa","Alice Holst Brask, Grenaa",Det Konservative Folkeparti,1
+Norddjurs,10,Vivild,"C_Ole_Olesen,_Grenaa","Ole Olesen, Grenaa",Det Konservative Folkeparti,1
+Norddjurs,10,Vivild,"C_Søren_Peter_Hansen,_Glesborg","Søren Peter Hansen, Glesborg",Det Konservative Folkeparti,3
+Norddjurs,10,Vivild,D_Listestemmer,Listestemmer,Nye Borgerlige,17
+Norddjurs,10,Vivild,"D_Jens_Kannegaard_Lundager,_Veggersl","Jens Kannegaard Lundager, Veggersl",Nye Borgerlige,18
+Norddjurs,10,Vivild,"D_Martin_Hansen,_Ørsted","Martin Hansen, Ørsted",Nye Borgerlige,5
+Norddjurs,10,Vivild,"D_Peter_Husum,_Grenaa","Peter Husum, Grenaa",Nye Borgerlige,2
+Norddjurs,10,Vivild,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,12
+Norddjurs,10,Vivild,"F_Aleksander_Myrhøj,_Fjellerup","Aleksander Myrhøj, Fjellerup",SF - Socialistisk Folkeparti,36
+Norddjurs,10,Vivild,"F_Jytte_Schmidt,_Vivild","Jytte Schmidt, Vivild",SF - Socialistisk Folkeparti,110
+Norddjurs,10,Vivild,"F_Kasper_Vindbjerg,_Grenaa","Kasper Vindbjerg, Grenaa",SF - Socialistisk Folkeparti,3
+Norddjurs,10,Vivild,"F_Morten_W._B._Pedersen,_Voer","Morten W. B. Pedersen, Voer",SF - Socialistisk Folkeparti,1
+Norddjurs,10,Vivild,"F_Birgitte_Dahl_Jeppesen,_Anholt","Birgitte Dahl Jeppesen, Anholt",SF - Socialistisk Folkeparti,1
+Norddjurs,10,Vivild,"F_Jytte_Dalgaard,_Lyngby","Jytte Dalgaard, Lyngby",SF - Socialistisk Folkeparti,4
+Norddjurs,10,Vivild,"F_Jytte_Faurholt_Jacobsen,_Hemmed","Jytte Faurholt Jacobsen, Hemmed",SF - Socialistisk Folkeparti,0
+Norddjurs,10,Vivild,"F_Erik_Knudsen,_Grenaa","Erik Knudsen, Grenaa",SF - Socialistisk Folkeparti,0
+Norddjurs,10,Vivild,I_Listestemmer,Listestemmer,Liberal Alliance,4
+Norddjurs,10,Vivild,"I_Jens_Meilvang,_Auning","Jens Meilvang, Auning",Liberal Alliance,88
+Norddjurs,10,Vivild,"I_Sebastian_Grauert,_Grenaa","Sebastian Grauert, Grenaa",Liberal Alliance,1
+Norddjurs,10,Vivild,"I_Stinne_Thorsen_Kvorning,_Auning","Stinne Thorsen Kvorning, Auning",Liberal Alliance,5
+Norddjurs,10,Vivild,"I_Nadja_Grauert,_Grenaa","Nadja Grauert, Grenaa",Liberal Alliance,1
+Norddjurs,10,Vivild,J_Listestemmer,Listestemmer,Frie Danske,0
+Norddjurs,10,Vivild,J_René_Paw_Christensen,René Paw Christensen,Frie Danske,0
+Norddjurs,10,Vivild,O_Listestemmer,Listestemmer,Dansk Folkeparti,9
+Norddjurs,10,Vivild,"O_Diana_Therese_Mikkelsen,_Grenaa","Diana Therese Mikkelsen, Grenaa",Dansk Folkeparti,6
+Norddjurs,10,Vivild,"O_Steen_Jensen,_Grenaa","Steen Jensen, Grenaa",Dansk Folkeparti,2
+Norddjurs,10,Vivild,"O_Pia_Bjerregaard,_Grenaa","Pia Bjerregaard, Grenaa",Dansk Folkeparti,2
+Norddjurs,10,Vivild,"O_Helle_Ringberg,_Veggerslev","Helle Ringberg, Veggerslev",Dansk Folkeparti,2
+Norddjurs,10,Vivild,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",24
+Norddjurs,10,Vivild,"V_Kasper_Bjerregaard,_Lyngby","Kasper Bjerregaard, Lyngby","Venstre, Danmarks Liberale Parti",7
+Norddjurs,10,Vivild,"V_Cay_Wulff_Sørensen,_Kristiansminde","Cay Wulff Sørensen, Kristiansminde","Venstre, Danmarks Liberale Parti",0
+Norddjurs,10,Vivild,"V_Niels_Ole_Birk,_Vivild","Niels Ole Birk, Vivild","Venstre, Danmarks Liberale Parti",284
+Norddjurs,10,Vivild,"V_Lars_Østergaard,_Grenaa","Lars Østergaard, Grenaa","Venstre, Danmarks Liberale Parti",1
+Norddjurs,10,Vivild,"V_Rikke_Albæk_Jørgensen,_Glesborg","Rikke Albæk Jørgensen, Glesborg","Venstre, Danmarks Liberale Parti",4
+Norddjurs,10,Vivild,"V_Lars_Sørensen,_Auning","Lars Sørensen, Auning","Venstre, Danmarks Liberale Parti",6
+Norddjurs,10,Vivild,"V_Kate_Barner,_Grenaa","Kate Barner, Grenaa","Venstre, Danmarks Liberale Parti",2
+Norddjurs,10,Vivild,"V_Benno_Blæsild,_Allingåbro","Benno Blæsild, Allingåbro","Venstre, Danmarks Liberale Parti",12
+Norddjurs,10,Vivild,"V_Morten_Friis_Heidemann,_Ålsrode","Morten Friis Heidemann, Ålsrode","Venstre, Danmarks Liberale Parti",2
+Norddjurs,10,Vivild,"V_Bettina_Grønbjerg,_Grenaa","Bettina Grønbjerg, Grenaa","Venstre, Danmarks Liberale Parti",0
+Norddjurs,10,Vivild,"V_Søren_Holck,_Grenaa","Søren Holck, Grenaa","Venstre, Danmarks Liberale Parti",0
+Norddjurs,10,Vivild,"V_Kai_Hansen,_Grenaa","Kai Hansen, Grenaa","Venstre, Danmarks Liberale Parti",0
+Norddjurs,10,Vivild,"V_Ilka_Daniel,_Kristiansminde","Ilka Daniel, Kristiansminde","Venstre, Danmarks Liberale Parti",1
+Norddjurs,10,Vivild,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,15
+Norddjurs,10,Vivild,"Ø_Ulf_Harbo,_Glesborg_Kær","Ulf Harbo, Glesborg Kær",Enhedslisten - De Rød-Grønne,24
+Norddjurs,10,Vivild,"Ø_Marlene_Gryesten,_Ørsted","Marlene Gryesten, Ørsted",Enhedslisten - De Rød-Grønne,14
+Norddjurs,10,Vivild,"Ø_Marianne_Abell,_Grenaa","Marianne Abell, Grenaa",Enhedslisten - De Rød-Grønne,4
+Norddjurs,10,Vivild,"Ø_Simon_Kroner,_Gjerrild","Simon Kroner, Gjerrild",Enhedslisten - De Rød-Grønne,0
+Norddjurs,10,Vivild,"Ø_Birgitte_Poulsen,_St._Sjørup","Birgitte Poulsen, St. Sjørup",Enhedslisten - De Rød-Grønne,3
+Norddjurs,10,Vivild,"Ø_Laila_Charlotte_Jensen,_Grenaa","Laila Charlotte Jensen, Grenaa",Enhedslisten - De Rød-Grønne,1
+Norddjurs,10,Vivild,"Ø_Inky_Remy,_Karlby","Inky Remy, Karlby",Enhedslisten - De Rød-Grønne,0
+Norddjurs,10,Vivild,"Ø_Elsemarie_Brøndum,_Glesborg","Elsemarie Brøndum, Glesborg",Enhedslisten - De Rød-Grønne,0
+Norddjurs,10,Vivild,"Ø_Kis_Bøggild_Nielsen,_Hemmed","Kis Bøggild Nielsen, Hemmed",Enhedslisten - De Rød-Grønne,0
+Norddjurs,10,Vivild,"Ø_Gitte_Andersen,_Anholt","Gitte Andersen, Anholt",Enhedslisten - De Rød-Grønne,0
+Norddjurs,10,Vivild,"Ø_Lise_Brøndum,_Bønnerup_Strand","Lise Brøndum, Bønnerup Strand",Enhedslisten - De Rød-Grønne,0
+Norddjurs,10,Vivild,"Ø_Georg_Hansen,_Grenaa","Georg Hansen, Grenaa",Enhedslisten - De Rød-Grønne,0
+Norddjurs,10,Vivild,"Ø_Lone_Bording_Jensen,_Gjerrild","Lone Bording Jensen, Gjerrild",Enhedslisten - De Rød-Grønne,1

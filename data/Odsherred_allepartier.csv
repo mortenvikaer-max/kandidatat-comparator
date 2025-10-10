@@ -1,0 +1,1345 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Odsherred,1,Asnæs,A_Listestemmer,Listestemmer,Socialdemokratiet,181
+Odsherred,1,Asnæs,A_Thomas_Strecker_Lerbak_Adelskov,Thomas Strecker Lerbak Adelskov,Socialdemokratiet,546
+Odsherred,1,Asnæs,A_Allan_Andersen,Allan Andersen,Socialdemokratiet,11
+Odsherred,1,Asnæs,A_Anna_Louise_Hestbek_Attermann,Anna Louise Hestbek Attermann,Socialdemokratiet,17
+Odsherred,1,Asnæs,A_Lis_Ingemann_Christensen,Lis Ingemann Christensen,Socialdemokratiet,9
+Odsherred,1,Asnæs,A_Søren_With,Søren With,Socialdemokratiet,37
+Odsherred,1,Asnæs,A_Michael_Kjeldgaard,Michael Kjeldgaard,Socialdemokratiet,11
+Odsherred,1,Asnæs,A_Felex_Birger_Pedersen,Felex Birger Pedersen,Socialdemokratiet,38
+Odsherred,1,Asnæs,A_Per_Kragh,Per Kragh,Socialdemokratiet,1
+Odsherred,1,Asnæs,A_Jette_Sloth_Nielsen,Jette Sloth Nielsen,Socialdemokratiet,50
+Odsherred,1,Asnæs,A_Thomas_Klint_Martinsen,Thomas Klint Martinsen,Socialdemokratiet,26
+Odsherred,1,Asnæs,A_Martin_Lynggaard,Martin Lynggaard,Socialdemokratiet,4
+Odsherred,1,Asnæs,A_Kristian_Petersen,Kristian Petersen,Socialdemokratiet,39
+Odsherred,1,Asnæs,A_Bo_Bøge_Jensen,Bo Bøge Jensen,Socialdemokratiet,14
+Odsherred,1,Asnæs,A_Dogan_Yurdakul,Dogan Yurdakul,Socialdemokratiet,1
+Odsherred,1,Asnæs,A_Nichlas_René_van_Weezel,Nichlas René van Weezel,Socialdemokratiet,0
+Odsherred,1,Asnæs,A_Leif_Palle_Egholm,Leif Palle Egholm,Socialdemokratiet,3
+Odsherred,1,Asnæs,A_Helena_Mosskov_Starcke,Helena Mosskov Starcke,Socialdemokratiet,2
+Odsherred,1,Asnæs,B_Listestemmer,Listestemmer,Radikale Venstre,24
+Odsherred,1,Asnæs,B_Thomas_Skovgaard_Nicolaisen,Thomas Skovgaard Nicolaisen,Radikale Venstre,35
+Odsherred,1,Asnæs,B_Søren_Myrup_Pedersen,Søren Myrup Pedersen,Radikale Venstre,43
+Odsherred,1,Asnæs,B_Anne_Marie_Revsbech_Møller,Anne Marie Revsbech Møller,Radikale Venstre,9
+Odsherred,1,Asnæs,B_Anders_Holst,Anders Holst,Radikale Venstre,0
+Odsherred,1,Asnæs,B_Christian_Scheel_Vandel,Christian Scheel Vandel,Radikale Venstre,2
+Odsherred,1,Asnæs,B_Dorthe_E_Luccat-Christophersen,Dorthe E Luccat-Christophersen,Radikale Venstre,2
+Odsherred,1,Asnæs,B_Thomas_Martin_Elkjær_Smedebøl,Thomas Martin Elkjær Smedebøl,Radikale Venstre,0
+Odsherred,1,Asnæs,B_Mie_Marie_Hyldegård_Jensen,Mie Marie Hyldegård Jensen,Radikale Venstre,0
+Odsherred,1,Asnæs,B_Marianne_Fritzen,Marianne Fritzen,Radikale Venstre,2
+Odsherred,1,Asnæs,B_Allan_Haslund,Allan Haslund,Radikale Venstre,13
+Odsherred,1,Asnæs,B_Kate_Dyring_Jensen,Kate Dyring Jensen,Radikale Venstre,1
+Odsherred,1,Asnæs,B_Jørgen_Kurt_Gylling,Jørgen Kurt Gylling,Radikale Venstre,0
+Odsherred,1,Asnæs,B_Marianne_Østergaard,Marianne Østergaard,Radikale Venstre,2
+Odsherred,1,Asnæs,B_Poul_Erik_Pedersen,Poul Erik Pedersen,Radikale Venstre,0
+Odsherred,1,Asnæs,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,54
+Odsherred,1,Asnæs,C_Claus_Kenneth_Starup,Claus Kenneth Starup,Det Konservative Folkeparti,26
+Odsherred,1,Asnæs,C_Ulla_Margrethe_Hansen,Ulla Margrethe Hansen,Det Konservative Folkeparti,18
+Odsherred,1,Asnæs,C_Peter_Michel_Horsted_Hansen,Peter Michel Horsted Hansen,Det Konservative Folkeparti,2
+Odsherred,1,Asnæs,C_Kenneth_Bakke,Kenneth Bakke,Det Konservative Folkeparti,11
+Odsherred,1,Asnæs,C_J_Steen_Dirch_Poulsen,J Steen Dirch Poulsen,Det Konservative Folkeparti,1
+Odsherred,1,Asnæs,C_Karen_Marianne_Poulsen,Karen Marianne Poulsen,Det Konservative Folkeparti,1
+Odsherred,1,Asnæs,C_Mogens_Eddy_Møllegaard,Mogens Eddy Møllegaard,Det Konservative Folkeparti,2
+Odsherred,1,Asnæs,D_Listestemmer,Listestemmer,Nye Borgerlige,46
+Odsherred,1,Asnæs,D_Maria_Liv_Holck,Maria Liv Holck,Nye Borgerlige,35
+Odsherred,1,Asnæs,D_Jesper_Høgedal,Jesper Høgedal,Nye Borgerlige,13
+Odsherred,1,Asnæs,D_Iina_Nete_Sølvssøe,Iina Nete Sølvssøe,Nye Borgerlige,1
+Odsherred,1,Asnæs,D_Henrik_Jørgen_Pohl,Henrik Jørgen Pohl,Nye Borgerlige,1
+Odsherred,1,Asnæs,D_Anders_Feldt_Lindh,Anders Feldt Lindh,Nye Borgerlige,11
+Odsherred,1,Asnæs,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,39
+Odsherred,1,Asnæs,F_Mette_Scharbau_Feenstra,Mette Scharbau Feenstra,SF - Socialistisk Folkeparti,57
+Odsherred,1,Asnæs,F_Torben_Kjeldsen,Torben Kjeldsen,SF - Socialistisk Folkeparti,9
+Odsherred,1,Asnæs,F_Arne_Nygaard_Mikkelsen,Arne Nygaard Mikkelsen,SF - Socialistisk Folkeparti,2
+Odsherred,1,Asnæs,F_Mogens_Stig_Møller,Mogens Stig Møller,SF - Socialistisk Folkeparti,3
+Odsherred,1,Asnæs,F_Frank_Buch,Frank Buch,SF - Socialistisk Folkeparti,0
+Odsherred,1,Asnæs,F_Gitte_Terp_Henriksen,Gitte Terp Henriksen,SF - Socialistisk Folkeparti,0
+Odsherred,1,Asnæs,F_Ulla_Feldthusen,Ulla Feldthusen,SF - Socialistisk Folkeparti,1
+Odsherred,1,Asnæs,F_Pia_Lone_Skydsgaard,Pia Lone Skydsgaard,SF - Socialistisk Folkeparti,0
+Odsherred,1,Asnæs,G_Listestemmer,Listestemmer,Veganerpartiet,2
+Odsherred,1,Asnæs,G_Jonas_Nikolaj_Dalmose,Jonas Nikolaj Dalmose,Veganerpartiet,2
+Odsherred,1,Asnæs,G_Tryggvi_Gudmundsson,Tryggvi Gudmundsson,Veganerpartiet,2
+Odsherred,1,Asnæs,I_Listestemmer,Listestemmer,Liberal Alliance,2
+Odsherred,1,Asnæs,I_Martin_Mosfeldt,Martin Mosfeldt,Liberal Alliance,4
+Odsherred,1,Asnæs,N_Listestemmer,Listestemmer,Nyt Odsherred,65
+Odsherred,1,Asnæs,N_Karina_Vincentz_Andersen,Karina Vincentz Andersen,Nyt Odsherred,89
+Odsherred,1,Asnæs,N_Mikkel_Engly_Henriksen,Mikkel Engly Henriksen,Nyt Odsherred,31
+Odsherred,1,Asnæs,N_Hanne_Hyldedahl_Caldron,Hanne Hyldedahl Caldron,Nyt Odsherred,8
+Odsherred,1,Asnæs,N_Anders_Munch_Søndergaard,Anders Munch Søndergaard,Nyt Odsherred,0
+Odsherred,1,Asnæs,N_Erik_Herskind_Dam_Winther,Erik Herskind Dam Winther,Nyt Odsherred,8
+Odsherred,1,Asnæs,N_Ebbe_Mondrup,Ebbe Mondrup,Nyt Odsherred,0
+Odsherred,1,Asnæs,N_Karsten_Ammann_Mikkelsen,Karsten Ammann Mikkelsen,Nyt Odsherred,1
+Odsherred,1,Asnæs,N_Jesper_Kruuse_Jacobsen,Jesper Kruuse Jacobsen,Nyt Odsherred,9
+Odsherred,1,Asnæs,N_Henrik_Riise_Graff_Søborg,Henrik Riise Graff Søborg,Nyt Odsherred,12
+Odsherred,1,Asnæs,N_Johnny_Edvard_Kristensen,Johnny Edvard Kristensen,Nyt Odsherred,1
+Odsherred,1,Asnæs,N_Dorte_Holm_Hansen,Dorte Holm Hansen,Nyt Odsherred,5
+Odsherred,1,Asnæs,N_Søren_Frank_Martin_Jakobsen,Søren Frank Martin Jakobsen,Nyt Odsherred,8
+Odsherred,1,Asnæs,N_Niels_Helmer_Askholm,Niels Helmer Askholm,Nyt Odsherred,0
+Odsherred,1,Asnæs,N_Allan_Thorgny_Gehlsen,Allan Thorgny Gehlsen,Nyt Odsherred,1
+Odsherred,1,Asnæs,N_Haider_Abdelrahman_Jammou,Haider Abdelrahman Jammou,Nyt Odsherred,0
+Odsherred,1,Asnæs,O_Listestemmer,Listestemmer,Dansk Folkeparti,60
+Odsherred,1,Asnæs,O_Julie_Larsen_Jacobsen,Julie Larsen Jacobsen,Dansk Folkeparti,72
+Odsherred,1,Asnæs,O_Kim_Buurskov,Kim Buurskov,Dansk Folkeparti,11
+Odsherred,1,Asnæs,O_Paw_Pedersen,Paw Pedersen,Dansk Folkeparti,5
+Odsherred,1,Asnæs,O_Bernt_Nielsen,Bernt Nielsen,Dansk Folkeparti,2
+Odsherred,1,Asnæs,O_Steen_Trøjmer,Steen Trøjmer,Dansk Folkeparti,8
+Odsherred,1,Asnæs,O_Louise_Løvkvist_Kanstrup,Louise Løvkvist Kanstrup,Dansk Folkeparti,1
+Odsherred,1,Asnæs,O_Sarah_Liv_Weinreich_Demuth-Iversen,Sarah Liv Weinreich Demuth-Iversen,Dansk Folkeparti,0
+Odsherred,1,Asnæs,O_Kasper_Egelund_Ravn,Kasper Egelund Ravn,Dansk Folkeparti,5
+Odsherred,1,Asnæs,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",109
+Odsherred,1,Asnæs,V_Hanne_Grethe_Pigonska_Hansen,Hanne Grethe Pigonska Hansen,"Venstre, Danmarks Liberale Parti",67
+Odsherred,1,Asnæs,V_Niels_Skovgaard_Nicolaisen,Niels Skovgaard Nicolaisen,"Venstre, Danmarks Liberale Parti",14
+Odsherred,1,Asnæs,V_Mathias_K_Mousten_Hansen,Mathias K Mousten Hansen,"Venstre, Danmarks Liberale Parti",36
+Odsherred,1,Asnæs,V_Lene_Rosendal_Mortensen,Lene Rosendal Mortensen,"Venstre, Danmarks Liberale Parti",8
+Odsherred,1,Asnæs,V_Annette_Schjermer_Voss_Møller,Annette Schjermer Voss Møller,"Venstre, Danmarks Liberale Parti",83
+Odsherred,1,Asnæs,V_Pia_Gade,Pia Gade,"Venstre, Danmarks Liberale Parti",7
+Odsherred,1,Asnæs,V_Finn_Hallberg,Finn Hallberg,"Venstre, Danmarks Liberale Parti",20
+Odsherred,1,Asnæs,V_Per_Skou_Larsen,Per Skou Larsen,"Venstre, Danmarks Liberale Parti",19
+Odsherred,1,Asnæs,V_Asger_Dirch_Poulsen,Asger Dirch Poulsen,"Venstre, Danmarks Liberale Parti",0
+Odsherred,1,Asnæs,V_Marina_Guldberg_Eggers-Krag,Marina Guldberg Eggers-Krag,"Venstre, Danmarks Liberale Parti",9
+Odsherred,1,Asnæs,V_Henrik_Bøje_Nielsen,Henrik Bøje Nielsen,"Venstre, Danmarks Liberale Parti",2
+Odsherred,1,Asnæs,V_Christian_Baadsgaard_Jentzsch,Christian Baadsgaard Jentzsch,"Venstre, Danmarks Liberale Parti",0
+Odsherred,1,Asnæs,V_Annelise_Hansen,Annelise Hansen,"Venstre, Danmarks Liberale Parti",4
+Odsherred,1,Asnæs,V_Lucas_S_Ellegaard-Hansen_Baquero,Lucas S Ellegaard-Hansen Baquero,"Venstre, Danmarks Liberale Parti",5
+Odsherred,1,Asnæs,V_Gunnar_Erik_Frandsen,Gunnar Erik Frandsen,"Venstre, Danmarks Liberale Parti",2
+Odsherred,1,Asnæs,V_Finn_Clausen_Kjær,Finn Clausen Kjær,"Venstre, Danmarks Liberale Parti",0
+Odsherred,1,Asnæs,V_Palle_Henrik_August_A_Schjerning,Palle Henrik August A Schjerning,"Venstre, Danmarks Liberale Parti",0
+Odsherred,1,Asnæs,V_Ketty_Viola_Rasmine_Hansen,Ketty Viola Rasmine Hansen,"Venstre, Danmarks Liberale Parti",2
+Odsherred,1,Asnæs,Æ_Listestemmer,Listestemmer,Frihedslisten,0
+Odsherred,1,Asnæs,Æ_Lisa_Sofia_Larsson,Lisa Sofia Larsson,Frihedslisten,6
+Odsherred,1,Asnæs,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,50
+Odsherred,1,Asnæs,Ø_Amalie_Petersen,Amalie Petersen,Enhedslisten - De Rød-Grønne,30
+Odsherred,1,Asnæs,Ø_Jeppe_Lynge_Ravn,Jeppe Lynge Ravn,Enhedslisten - De Rød-Grønne,7
+Odsherred,1,Asnæs,Ø_Kim_R_Mariegaard,Kim R Mariegaard,Enhedslisten - De Rød-Grønne,4
+Odsherred,1,Asnæs,Ø_Sara_Sofie_Paninguak_Lynge_Ravn,Sara Sofie Paninguak Lynge Ravn,Enhedslisten - De Rød-Grønne,8
+Odsherred,2,Fårevejle,A_Listestemmer,Listestemmer,Socialdemokratiet,139
+Odsherred,2,Fårevejle,A_Thomas_Strecker_Lerbak_Adelskov,Thomas Strecker Lerbak Adelskov,Socialdemokratiet,431
+Odsherred,2,Fårevejle,A_Allan_Andersen,Allan Andersen,Socialdemokratiet,14
+Odsherred,2,Fårevejle,A_Anna_Louise_Hestbek_Attermann,Anna Louise Hestbek Attermann,Socialdemokratiet,8
+Odsherred,2,Fårevejle,A_Lis_Ingemann_Christensen,Lis Ingemann Christensen,Socialdemokratiet,4
+Odsherred,2,Fårevejle,A_Søren_With,Søren With,Socialdemokratiet,27
+Odsherred,2,Fårevejle,A_Michael_Kjeldgaard,Michael Kjeldgaard,Socialdemokratiet,10
+Odsherred,2,Fårevejle,A_Felex_Birger_Pedersen,Felex Birger Pedersen,Socialdemokratiet,54
+Odsherred,2,Fårevejle,A_Per_Kragh,Per Kragh,Socialdemokratiet,6
+Odsherred,2,Fårevejle,A_Jette_Sloth_Nielsen,Jette Sloth Nielsen,Socialdemokratiet,18
+Odsherred,2,Fårevejle,A_Thomas_Klint_Martinsen,Thomas Klint Martinsen,Socialdemokratiet,18
+Odsherred,2,Fårevejle,A_Martin_Lynggaard,Martin Lynggaard,Socialdemokratiet,6
+Odsherred,2,Fårevejle,A_Kristian_Petersen,Kristian Petersen,Socialdemokratiet,14
+Odsherred,2,Fårevejle,A_Bo_Bøge_Jensen,Bo Bøge Jensen,Socialdemokratiet,12
+Odsherred,2,Fårevejle,A_Dogan_Yurdakul,Dogan Yurdakul,Socialdemokratiet,0
+Odsherred,2,Fårevejle,A_Nichlas_René_van_Weezel,Nichlas René van Weezel,Socialdemokratiet,2
+Odsherred,2,Fårevejle,A_Leif_Palle_Egholm,Leif Palle Egholm,Socialdemokratiet,3
+Odsherred,2,Fårevejle,A_Helena_Mosskov_Starcke,Helena Mosskov Starcke,Socialdemokratiet,4
+Odsherred,2,Fårevejle,B_Listestemmer,Listestemmer,Radikale Venstre,26
+Odsherred,2,Fårevejle,B_Thomas_Skovgaard_Nicolaisen,Thomas Skovgaard Nicolaisen,Radikale Venstre,15
+Odsherred,2,Fårevejle,B_Søren_Myrup_Pedersen,Søren Myrup Pedersen,Radikale Venstre,9
+Odsherred,2,Fårevejle,B_Anne_Marie_Revsbech_Møller,Anne Marie Revsbech Møller,Radikale Venstre,2
+Odsherred,2,Fårevejle,B_Anders_Holst,Anders Holst,Radikale Venstre,0
+Odsherred,2,Fårevejle,B_Christian_Scheel_Vandel,Christian Scheel Vandel,Radikale Venstre,2
+Odsherred,2,Fårevejle,B_Dorthe_E_Luccat-Christophersen,Dorthe E Luccat-Christophersen,Radikale Venstre,5
+Odsherred,2,Fårevejle,B_Thomas_Martin_Elkjær_Smedebøl,Thomas Martin Elkjær Smedebøl,Radikale Venstre,3
+Odsherred,2,Fårevejle,B_Mie_Marie_Hyldegård_Jensen,Mie Marie Hyldegård Jensen,Radikale Venstre,2
+Odsherred,2,Fårevejle,B_Marianne_Fritzen,Marianne Fritzen,Radikale Venstre,4
+Odsherred,2,Fårevejle,B_Allan_Haslund,Allan Haslund,Radikale Venstre,3
+Odsherred,2,Fårevejle,B_Kate_Dyring_Jensen,Kate Dyring Jensen,Radikale Venstre,1
+Odsherred,2,Fårevejle,B_Jørgen_Kurt_Gylling,Jørgen Kurt Gylling,Radikale Venstre,0
+Odsherred,2,Fårevejle,B_Marianne_Østergaard,Marianne Østergaard,Radikale Venstre,1
+Odsherred,2,Fårevejle,B_Poul_Erik_Pedersen,Poul Erik Pedersen,Radikale Venstre,1
+Odsherred,2,Fårevejle,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,35
+Odsherred,2,Fårevejle,C_Claus_Kenneth_Starup,Claus Kenneth Starup,Det Konservative Folkeparti,16
+Odsherred,2,Fårevejle,C_Ulla_Margrethe_Hansen,Ulla Margrethe Hansen,Det Konservative Folkeparti,27
+Odsherred,2,Fårevejle,C_Peter_Michel_Horsted_Hansen,Peter Michel Horsted Hansen,Det Konservative Folkeparti,6
+Odsherred,2,Fårevejle,C_Kenneth_Bakke,Kenneth Bakke,Det Konservative Folkeparti,5
+Odsherred,2,Fårevejle,C_J_Steen_Dirch_Poulsen,J Steen Dirch Poulsen,Det Konservative Folkeparti,0
+Odsherred,2,Fårevejle,C_Karen_Marianne_Poulsen,Karen Marianne Poulsen,Det Konservative Folkeparti,1
+Odsherred,2,Fårevejle,C_Mogens_Eddy_Møllegaard,Mogens Eddy Møllegaard,Det Konservative Folkeparti,1
+Odsherred,2,Fårevejle,D_Listestemmer,Listestemmer,Nye Borgerlige,59
+Odsherred,2,Fårevejle,D_Maria_Liv_Holck,Maria Liv Holck,Nye Borgerlige,42
+Odsherred,2,Fårevejle,D_Jesper_Høgedal,Jesper Høgedal,Nye Borgerlige,20
+Odsherred,2,Fårevejle,D_Iina_Nete_Sølvssøe,Iina Nete Sølvssøe,Nye Borgerlige,1
+Odsherred,2,Fårevejle,D_Henrik_Jørgen_Pohl,Henrik Jørgen Pohl,Nye Borgerlige,1
+Odsherred,2,Fårevejle,D_Anders_Feldt_Lindh,Anders Feldt Lindh,Nye Borgerlige,4
+Odsherred,2,Fårevejle,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,32
+Odsherred,2,Fårevejle,F_Mette_Scharbau_Feenstra,Mette Scharbau Feenstra,SF - Socialistisk Folkeparti,38
+Odsherred,2,Fårevejle,F_Torben_Kjeldsen,Torben Kjeldsen,SF - Socialistisk Folkeparti,12
+Odsherred,2,Fårevejle,F_Arne_Nygaard_Mikkelsen,Arne Nygaard Mikkelsen,SF - Socialistisk Folkeparti,4
+Odsherred,2,Fårevejle,F_Mogens_Stig_Møller,Mogens Stig Møller,SF - Socialistisk Folkeparti,6
+Odsherred,2,Fårevejle,F_Frank_Buch,Frank Buch,SF - Socialistisk Folkeparti,0
+Odsherred,2,Fårevejle,F_Gitte_Terp_Henriksen,Gitte Terp Henriksen,SF - Socialistisk Folkeparti,4
+Odsherred,2,Fårevejle,F_Ulla_Feldthusen,Ulla Feldthusen,SF - Socialistisk Folkeparti,5
+Odsherred,2,Fårevejle,F_Pia_Lone_Skydsgaard,Pia Lone Skydsgaard,SF - Socialistisk Folkeparti,1
+Odsherred,2,Fårevejle,G_Listestemmer,Listestemmer,Veganerpartiet,3
+Odsherred,2,Fårevejle,G_Jonas_Nikolaj_Dalmose,Jonas Nikolaj Dalmose,Veganerpartiet,1
+Odsherred,2,Fårevejle,G_Tryggvi_Gudmundsson,Tryggvi Gudmundsson,Veganerpartiet,1
+Odsherred,2,Fårevejle,I_Listestemmer,Listestemmer,Liberal Alliance,4
+Odsherred,2,Fårevejle,I_Martin_Mosfeldt,Martin Mosfeldt,Liberal Alliance,4
+Odsherred,2,Fårevejle,N_Listestemmer,Listestemmer,Nyt Odsherred,50
+Odsherred,2,Fårevejle,N_Karina_Vincentz_Andersen,Karina Vincentz Andersen,Nyt Odsherred,82
+Odsherred,2,Fårevejle,N_Mikkel_Engly_Henriksen,Mikkel Engly Henriksen,Nyt Odsherred,12
+Odsherred,2,Fårevejle,N_Hanne_Hyldedahl_Caldron,Hanne Hyldedahl Caldron,Nyt Odsherred,5
+Odsherred,2,Fårevejle,N_Anders_Munch_Søndergaard,Anders Munch Søndergaard,Nyt Odsherred,3
+Odsherred,2,Fårevejle,N_Erik_Herskind_Dam_Winther,Erik Herskind Dam Winther,Nyt Odsherred,109
+Odsherred,2,Fårevejle,N_Ebbe_Mondrup,Ebbe Mondrup,Nyt Odsherred,0
+Odsherred,2,Fårevejle,N_Karsten_Ammann_Mikkelsen,Karsten Ammann Mikkelsen,Nyt Odsherred,1
+Odsherred,2,Fårevejle,N_Jesper_Kruuse_Jacobsen,Jesper Kruuse Jacobsen,Nyt Odsherred,10
+Odsherred,2,Fårevejle,N_Henrik_Riise_Graff_Søborg,Henrik Riise Graff Søborg,Nyt Odsherred,0
+Odsherred,2,Fårevejle,N_Johnny_Edvard_Kristensen,Johnny Edvard Kristensen,Nyt Odsherred,2
+Odsherred,2,Fårevejle,N_Dorte_Holm_Hansen,Dorte Holm Hansen,Nyt Odsherred,16
+Odsherred,2,Fårevejle,N_Søren_Frank_Martin_Jakobsen,Søren Frank Martin Jakobsen,Nyt Odsherred,7
+Odsherred,2,Fårevejle,N_Niels_Helmer_Askholm,Niels Helmer Askholm,Nyt Odsherred,1
+Odsherred,2,Fårevejle,N_Allan_Thorgny_Gehlsen,Allan Thorgny Gehlsen,Nyt Odsherred,0
+Odsherred,2,Fårevejle,N_Haider_Abdelrahman_Jammou,Haider Abdelrahman Jammou,Nyt Odsherred,0
+Odsherred,2,Fårevejle,O_Listestemmer,Listestemmer,Dansk Folkeparti,63
+Odsherred,2,Fårevejle,O_Julie_Larsen_Jacobsen,Julie Larsen Jacobsen,Dansk Folkeparti,43
+Odsherred,2,Fårevejle,O_Kim_Buurskov,Kim Buurskov,Dansk Folkeparti,19
+Odsherred,2,Fårevejle,O_Paw_Pedersen,Paw Pedersen,Dansk Folkeparti,4
+Odsherred,2,Fårevejle,O_Bernt_Nielsen,Bernt Nielsen,Dansk Folkeparti,0
+Odsherred,2,Fårevejle,O_Steen_Trøjmer,Steen Trøjmer,Dansk Folkeparti,56
+Odsherred,2,Fårevejle,O_Louise_Løvkvist_Kanstrup,Louise Løvkvist Kanstrup,Dansk Folkeparti,1
+Odsherred,2,Fårevejle,O_Sarah_Liv_Weinreich_Demuth-Iversen,Sarah Liv Weinreich Demuth-Iversen,Dansk Folkeparti,3
+Odsherred,2,Fårevejle,O_Kasper_Egelund_Ravn,Kasper Egelund Ravn,Dansk Folkeparti,2
+Odsherred,2,Fårevejle,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",102
+Odsherred,2,Fårevejle,V_Hanne_Grethe_Pigonska_Hansen,Hanne Grethe Pigonska Hansen,"Venstre, Danmarks Liberale Parti",68
+Odsherred,2,Fårevejle,V_Niels_Skovgaard_Nicolaisen,Niels Skovgaard Nicolaisen,"Venstre, Danmarks Liberale Parti",8
+Odsherred,2,Fårevejle,V_Mathias_K_Mousten_Hansen,Mathias K Mousten Hansen,"Venstre, Danmarks Liberale Parti",20
+Odsherred,2,Fårevejle,V_Lene_Rosendal_Mortensen,Lene Rosendal Mortensen,"Venstre, Danmarks Liberale Parti",6
+Odsherred,2,Fårevejle,V_Annette_Schjermer_Voss_Møller,Annette Schjermer Voss Møller,"Venstre, Danmarks Liberale Parti",34
+Odsherred,2,Fårevejle,V_Pia_Gade,Pia Gade,"Venstre, Danmarks Liberale Parti",4
+Odsherred,2,Fårevejle,V_Finn_Hallberg,Finn Hallberg,"Venstre, Danmarks Liberale Parti",11
+Odsherred,2,Fårevejle,V_Per_Skou_Larsen,Per Skou Larsen,"Venstre, Danmarks Liberale Parti",19
+Odsherred,2,Fårevejle,V_Asger_Dirch_Poulsen,Asger Dirch Poulsen,"Venstre, Danmarks Liberale Parti",1
+Odsherred,2,Fårevejle,V_Marina_Guldberg_Eggers-Krag,Marina Guldberg Eggers-Krag,"Venstre, Danmarks Liberale Parti",4
+Odsherred,2,Fårevejle,V_Henrik_Bøje_Nielsen,Henrik Bøje Nielsen,"Venstre, Danmarks Liberale Parti",7
+Odsherred,2,Fårevejle,V_Christian_Baadsgaard_Jentzsch,Christian Baadsgaard Jentzsch,"Venstre, Danmarks Liberale Parti",1
+Odsherred,2,Fårevejle,V_Annelise_Hansen,Annelise Hansen,"Venstre, Danmarks Liberale Parti",3
+Odsherred,2,Fårevejle,V_Lucas_S_Ellegaard-Hansen_Baquero,Lucas S Ellegaard-Hansen Baquero,"Venstre, Danmarks Liberale Parti",4
+Odsherred,2,Fårevejle,V_Gunnar_Erik_Frandsen,Gunnar Erik Frandsen,"Venstre, Danmarks Liberale Parti",0
+Odsherred,2,Fårevejle,V_Finn_Clausen_Kjær,Finn Clausen Kjær,"Venstre, Danmarks Liberale Parti",1
+Odsherred,2,Fårevejle,V_Palle_Henrik_August_A_Schjerning,Palle Henrik August A Schjerning,"Venstre, Danmarks Liberale Parti",0
+Odsherred,2,Fårevejle,V_Ketty_Viola_Rasmine_Hansen,Ketty Viola Rasmine Hansen,"Venstre, Danmarks Liberale Parti",0
+Odsherred,2,Fårevejle,Æ_Listestemmer,Listestemmer,Frihedslisten,3
+Odsherred,2,Fårevejle,Æ_Lisa_Sofia_Larsson,Lisa Sofia Larsson,Frihedslisten,2
+Odsherred,2,Fårevejle,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,36
+Odsherred,2,Fårevejle,Ø_Amalie_Petersen,Amalie Petersen,Enhedslisten - De Rød-Grønne,32
+Odsherred,2,Fårevejle,Ø_Jeppe_Lynge_Ravn,Jeppe Lynge Ravn,Enhedslisten - De Rød-Grønne,7
+Odsherred,2,Fårevejle,Ø_Kim_R_Mariegaard,Kim R Mariegaard,Enhedslisten - De Rød-Grønne,3
+Odsherred,2,Fårevejle,Ø_Sara_Sofie_Paninguak_Lynge_Ravn,Sara Sofie Paninguak Lynge Ravn,Enhedslisten - De Rød-Grønne,14
+Odsherred,3,Grevinge,A_Listestemmer,Listestemmer,Socialdemokratiet,104
+Odsherred,3,Grevinge,A_Thomas_Strecker_Lerbak_Adelskov,Thomas Strecker Lerbak Adelskov,Socialdemokratiet,239
+Odsherred,3,Grevinge,A_Allan_Andersen,Allan Andersen,Socialdemokratiet,5
+Odsherred,3,Grevinge,A_Anna_Louise_Hestbek_Attermann,Anna Louise Hestbek Attermann,Socialdemokratiet,16
+Odsherred,3,Grevinge,A_Lis_Ingemann_Christensen,Lis Ingemann Christensen,Socialdemokratiet,9
+Odsherred,3,Grevinge,A_Søren_With,Søren With,Socialdemokratiet,13
+Odsherred,3,Grevinge,A_Michael_Kjeldgaard,Michael Kjeldgaard,Socialdemokratiet,3
+Odsherred,3,Grevinge,A_Felex_Birger_Pedersen,Felex Birger Pedersen,Socialdemokratiet,79
+Odsherred,3,Grevinge,A_Per_Kragh,Per Kragh,Socialdemokratiet,2
+Odsherred,3,Grevinge,A_Jette_Sloth_Nielsen,Jette Sloth Nielsen,Socialdemokratiet,9
+Odsherred,3,Grevinge,A_Thomas_Klint_Martinsen,Thomas Klint Martinsen,Socialdemokratiet,6
+Odsherred,3,Grevinge,A_Martin_Lynggaard,Martin Lynggaard,Socialdemokratiet,2
+Odsherred,3,Grevinge,A_Kristian_Petersen,Kristian Petersen,Socialdemokratiet,6
+Odsherred,3,Grevinge,A_Bo_Bøge_Jensen,Bo Bøge Jensen,Socialdemokratiet,2
+Odsherred,3,Grevinge,A_Dogan_Yurdakul,Dogan Yurdakul,Socialdemokratiet,0
+Odsherred,3,Grevinge,A_Nichlas_René_van_Weezel,Nichlas René van Weezel,Socialdemokratiet,0
+Odsherred,3,Grevinge,A_Leif_Palle_Egholm,Leif Palle Egholm,Socialdemokratiet,0
+Odsherred,3,Grevinge,A_Helena_Mosskov_Starcke,Helena Mosskov Starcke,Socialdemokratiet,3
+Odsherred,3,Grevinge,B_Listestemmer,Listestemmer,Radikale Venstre,17
+Odsherred,3,Grevinge,B_Thomas_Skovgaard_Nicolaisen,Thomas Skovgaard Nicolaisen,Radikale Venstre,15
+Odsherred,3,Grevinge,B_Søren_Myrup_Pedersen,Søren Myrup Pedersen,Radikale Venstre,6
+Odsherred,3,Grevinge,B_Anne_Marie_Revsbech_Møller,Anne Marie Revsbech Møller,Radikale Venstre,4
+Odsherred,3,Grevinge,B_Anders_Holst,Anders Holst,Radikale Venstre,0
+Odsherred,3,Grevinge,B_Christian_Scheel_Vandel,Christian Scheel Vandel,Radikale Venstre,2
+Odsherred,3,Grevinge,B_Dorthe_E_Luccat-Christophersen,Dorthe E Luccat-Christophersen,Radikale Venstre,2
+Odsherred,3,Grevinge,B_Thomas_Martin_Elkjær_Smedebøl,Thomas Martin Elkjær Smedebøl,Radikale Venstre,2
+Odsherred,3,Grevinge,B_Mie_Marie_Hyldegård_Jensen,Mie Marie Hyldegård Jensen,Radikale Venstre,1
+Odsherred,3,Grevinge,B_Marianne_Fritzen,Marianne Fritzen,Radikale Venstre,5
+Odsherred,3,Grevinge,B_Allan_Haslund,Allan Haslund,Radikale Venstre,1
+Odsherred,3,Grevinge,B_Kate_Dyring_Jensen,Kate Dyring Jensen,Radikale Venstre,2
+Odsherred,3,Grevinge,B_Jørgen_Kurt_Gylling,Jørgen Kurt Gylling,Radikale Venstre,0
+Odsherred,3,Grevinge,B_Marianne_Østergaard,Marianne Østergaard,Radikale Venstre,0
+Odsherred,3,Grevinge,B_Poul_Erik_Pedersen,Poul Erik Pedersen,Radikale Venstre,0
+Odsherred,3,Grevinge,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,31
+Odsherred,3,Grevinge,C_Claus_Kenneth_Starup,Claus Kenneth Starup,Det Konservative Folkeparti,10
+Odsherred,3,Grevinge,C_Ulla_Margrethe_Hansen,Ulla Margrethe Hansen,Det Konservative Folkeparti,7
+Odsherred,3,Grevinge,C_Peter_Michel_Horsted_Hansen,Peter Michel Horsted Hansen,Det Konservative Folkeparti,3
+Odsherred,3,Grevinge,C_Kenneth_Bakke,Kenneth Bakke,Det Konservative Folkeparti,5
+Odsherred,3,Grevinge,C_J_Steen_Dirch_Poulsen,J Steen Dirch Poulsen,Det Konservative Folkeparti,0
+Odsherred,3,Grevinge,C_Karen_Marianne_Poulsen,Karen Marianne Poulsen,Det Konservative Folkeparti,0
+Odsherred,3,Grevinge,C_Mogens_Eddy_Møllegaard,Mogens Eddy Møllegaard,Det Konservative Folkeparti,0
+Odsherred,3,Grevinge,D_Listestemmer,Listestemmer,Nye Borgerlige,35
+Odsherred,3,Grevinge,D_Maria_Liv_Holck,Maria Liv Holck,Nye Borgerlige,40
+Odsherred,3,Grevinge,D_Jesper_Høgedal,Jesper Høgedal,Nye Borgerlige,10
+Odsherred,3,Grevinge,D_Iina_Nete_Sølvssøe,Iina Nete Sølvssøe,Nye Borgerlige,0
+Odsherred,3,Grevinge,D_Henrik_Jørgen_Pohl,Henrik Jørgen Pohl,Nye Borgerlige,1
+Odsherred,3,Grevinge,D_Anders_Feldt_Lindh,Anders Feldt Lindh,Nye Borgerlige,3
+Odsherred,3,Grevinge,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,23
+Odsherred,3,Grevinge,F_Mette_Scharbau_Feenstra,Mette Scharbau Feenstra,SF - Socialistisk Folkeparti,23
+Odsherred,3,Grevinge,F_Torben_Kjeldsen,Torben Kjeldsen,SF - Socialistisk Folkeparti,10
+Odsherred,3,Grevinge,F_Arne_Nygaard_Mikkelsen,Arne Nygaard Mikkelsen,SF - Socialistisk Folkeparti,7
+Odsherred,3,Grevinge,F_Mogens_Stig_Møller,Mogens Stig Møller,SF - Socialistisk Folkeparti,2
+Odsherred,3,Grevinge,F_Frank_Buch,Frank Buch,SF - Socialistisk Folkeparti,1
+Odsherred,3,Grevinge,F_Gitte_Terp_Henriksen,Gitte Terp Henriksen,SF - Socialistisk Folkeparti,1
+Odsherred,3,Grevinge,F_Ulla_Feldthusen,Ulla Feldthusen,SF - Socialistisk Folkeparti,0
+Odsherred,3,Grevinge,F_Pia_Lone_Skydsgaard,Pia Lone Skydsgaard,SF - Socialistisk Folkeparti,0
+Odsherred,3,Grevinge,G_Listestemmer,Listestemmer,Veganerpartiet,2
+Odsherred,3,Grevinge,G_Jonas_Nikolaj_Dalmose,Jonas Nikolaj Dalmose,Veganerpartiet,1
+Odsherred,3,Grevinge,G_Tryggvi_Gudmundsson,Tryggvi Gudmundsson,Veganerpartiet,2
+Odsherred,3,Grevinge,I_Listestemmer,Listestemmer,Liberal Alliance,3
+Odsherred,3,Grevinge,I_Martin_Mosfeldt,Martin Mosfeldt,Liberal Alliance,4
+Odsherred,3,Grevinge,N_Listestemmer,Listestemmer,Nyt Odsherred,32
+Odsherred,3,Grevinge,N_Karina_Vincentz_Andersen,Karina Vincentz Andersen,Nyt Odsherred,45
+Odsherred,3,Grevinge,N_Mikkel_Engly_Henriksen,Mikkel Engly Henriksen,Nyt Odsherred,10
+Odsherred,3,Grevinge,N_Hanne_Hyldedahl_Caldron,Hanne Hyldedahl Caldron,Nyt Odsherred,5
+Odsherred,3,Grevinge,N_Anders_Munch_Søndergaard,Anders Munch Søndergaard,Nyt Odsherred,1
+Odsherred,3,Grevinge,N_Erik_Herskind_Dam_Winther,Erik Herskind Dam Winther,Nyt Odsherred,0
+Odsherred,3,Grevinge,N_Ebbe_Mondrup,Ebbe Mondrup,Nyt Odsherred,1
+Odsherred,3,Grevinge,N_Karsten_Ammann_Mikkelsen,Karsten Ammann Mikkelsen,Nyt Odsherred,4
+Odsherred,3,Grevinge,N_Jesper_Kruuse_Jacobsen,Jesper Kruuse Jacobsen,Nyt Odsherred,3
+Odsherred,3,Grevinge,N_Henrik_Riise_Graff_Søborg,Henrik Riise Graff Søborg,Nyt Odsherred,46
+Odsherred,3,Grevinge,N_Johnny_Edvard_Kristensen,Johnny Edvard Kristensen,Nyt Odsherred,18
+Odsherred,3,Grevinge,N_Dorte_Holm_Hansen,Dorte Holm Hansen,Nyt Odsherred,2
+Odsherred,3,Grevinge,N_Søren_Frank_Martin_Jakobsen,Søren Frank Martin Jakobsen,Nyt Odsherred,2
+Odsherred,3,Grevinge,N_Niels_Helmer_Askholm,Niels Helmer Askholm,Nyt Odsherred,1
+Odsherred,3,Grevinge,N_Allan_Thorgny_Gehlsen,Allan Thorgny Gehlsen,Nyt Odsherred,0
+Odsherred,3,Grevinge,N_Haider_Abdelrahman_Jammou,Haider Abdelrahman Jammou,Nyt Odsherred,0
+Odsherred,3,Grevinge,O_Listestemmer,Listestemmer,Dansk Folkeparti,57
+Odsherred,3,Grevinge,O_Julie_Larsen_Jacobsen,Julie Larsen Jacobsen,Dansk Folkeparti,26
+Odsherred,3,Grevinge,O_Kim_Buurskov,Kim Buurskov,Dansk Folkeparti,6
+Odsherred,3,Grevinge,O_Paw_Pedersen,Paw Pedersen,Dansk Folkeparti,6
+Odsherred,3,Grevinge,O_Bernt_Nielsen,Bernt Nielsen,Dansk Folkeparti,0
+Odsherred,3,Grevinge,O_Steen_Trøjmer,Steen Trøjmer,Dansk Folkeparti,1
+Odsherred,3,Grevinge,O_Louise_Løvkvist_Kanstrup,Louise Løvkvist Kanstrup,Dansk Folkeparti,1
+Odsherred,3,Grevinge,O_Sarah_Liv_Weinreich_Demuth-Iversen,Sarah Liv Weinreich Demuth-Iversen,Dansk Folkeparti,0
+Odsherred,3,Grevinge,O_Kasper_Egelund_Ravn,Kasper Egelund Ravn,Dansk Folkeparti,4
+Odsherred,3,Grevinge,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",46
+Odsherred,3,Grevinge,V_Hanne_Grethe_Pigonska_Hansen,Hanne Grethe Pigonska Hansen,"Venstre, Danmarks Liberale Parti",31
+Odsherred,3,Grevinge,V_Niels_Skovgaard_Nicolaisen,Niels Skovgaard Nicolaisen,"Venstre, Danmarks Liberale Parti",13
+Odsherred,3,Grevinge,V_Mathias_K_Mousten_Hansen,Mathias K Mousten Hansen,"Venstre, Danmarks Liberale Parti",22
+Odsherred,3,Grevinge,V_Lene_Rosendal_Mortensen,Lene Rosendal Mortensen,"Venstre, Danmarks Liberale Parti",5
+Odsherred,3,Grevinge,V_Annette_Schjermer_Voss_Møller,Annette Schjermer Voss Møller,"Venstre, Danmarks Liberale Parti",19
+Odsherred,3,Grevinge,V_Pia_Gade,Pia Gade,"Venstre, Danmarks Liberale Parti",10
+Odsherred,3,Grevinge,V_Finn_Hallberg,Finn Hallberg,"Venstre, Danmarks Liberale Parti",17
+Odsherred,3,Grevinge,V_Per_Skou_Larsen,Per Skou Larsen,"Venstre, Danmarks Liberale Parti",2
+Odsherred,3,Grevinge,V_Asger_Dirch_Poulsen,Asger Dirch Poulsen,"Venstre, Danmarks Liberale Parti",2
+Odsherred,3,Grevinge,V_Marina_Guldberg_Eggers-Krag,Marina Guldberg Eggers-Krag,"Venstre, Danmarks Liberale Parti",20
+Odsherred,3,Grevinge,V_Henrik_Bøje_Nielsen,Henrik Bøje Nielsen,"Venstre, Danmarks Liberale Parti",3
+Odsherred,3,Grevinge,V_Christian_Baadsgaard_Jentzsch,Christian Baadsgaard Jentzsch,"Venstre, Danmarks Liberale Parti",1
+Odsherred,3,Grevinge,V_Annelise_Hansen,Annelise Hansen,"Venstre, Danmarks Liberale Parti",2
+Odsherred,3,Grevinge,V_Lucas_S_Ellegaard-Hansen_Baquero,Lucas S Ellegaard-Hansen Baquero,"Venstre, Danmarks Liberale Parti",1
+Odsherred,3,Grevinge,V_Gunnar_Erik_Frandsen,Gunnar Erik Frandsen,"Venstre, Danmarks Liberale Parti",0
+Odsherred,3,Grevinge,V_Finn_Clausen_Kjær,Finn Clausen Kjær,"Venstre, Danmarks Liberale Parti",3
+Odsherred,3,Grevinge,V_Palle_Henrik_August_A_Schjerning,Palle Henrik August A Schjerning,"Venstre, Danmarks Liberale Parti",2
+Odsherred,3,Grevinge,V_Ketty_Viola_Rasmine_Hansen,Ketty Viola Rasmine Hansen,"Venstre, Danmarks Liberale Parti",0
+Odsherred,3,Grevinge,Æ_Listestemmer,Listestemmer,Frihedslisten,4
+Odsherred,3,Grevinge,Æ_Lisa_Sofia_Larsson,Lisa Sofia Larsson,Frihedslisten,4
+Odsherred,3,Grevinge,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,27
+Odsherred,3,Grevinge,Ø_Amalie_Petersen,Amalie Petersen,Enhedslisten - De Rød-Grønne,19
+Odsherred,3,Grevinge,Ø_Jeppe_Lynge_Ravn,Jeppe Lynge Ravn,Enhedslisten - De Rød-Grønne,3
+Odsherred,3,Grevinge,Ø_Kim_R_Mariegaard,Kim R Mariegaard,Enhedslisten - De Rød-Grønne,0
+Odsherred,3,Grevinge,Ø_Sara_Sofie_Paninguak_Lynge_Ravn,Sara Sofie Paninguak Lynge Ravn,Enhedslisten - De Rød-Grønne,7
+Odsherred,4,Hørve,A_Listestemmer,Listestemmer,Socialdemokratiet,126
+Odsherred,4,Hørve,A_Thomas_Strecker_Lerbak_Adelskov,Thomas Strecker Lerbak Adelskov,Socialdemokratiet,277
+Odsherred,4,Hørve,A_Allan_Andersen,Allan Andersen,Socialdemokratiet,6
+Odsherred,4,Hørve,A_Anna_Louise_Hestbek_Attermann,Anna Louise Hestbek Attermann,Socialdemokratiet,14
+Odsherred,4,Hørve,A_Lis_Ingemann_Christensen,Lis Ingemann Christensen,Socialdemokratiet,5
+Odsherred,4,Hørve,A_Søren_With,Søren With,Socialdemokratiet,95
+Odsherred,4,Hørve,A_Michael_Kjeldgaard,Michael Kjeldgaard,Socialdemokratiet,8
+Odsherred,4,Hørve,A_Felex_Birger_Pedersen,Felex Birger Pedersen,Socialdemokratiet,23
+Odsherred,4,Hørve,A_Per_Kragh,Per Kragh,Socialdemokratiet,2
+Odsherred,4,Hørve,A_Jette_Sloth_Nielsen,Jette Sloth Nielsen,Socialdemokratiet,10
+Odsherred,4,Hørve,A_Thomas_Klint_Martinsen,Thomas Klint Martinsen,Socialdemokratiet,8
+Odsherred,4,Hørve,A_Martin_Lynggaard,Martin Lynggaard,Socialdemokratiet,1
+Odsherred,4,Hørve,A_Kristian_Petersen,Kristian Petersen,Socialdemokratiet,7
+Odsherred,4,Hørve,A_Bo_Bøge_Jensen,Bo Bøge Jensen,Socialdemokratiet,3
+Odsherred,4,Hørve,A_Dogan_Yurdakul,Dogan Yurdakul,Socialdemokratiet,2
+Odsherred,4,Hørve,A_Nichlas_René_van_Weezel,Nichlas René van Weezel,Socialdemokratiet,0
+Odsherred,4,Hørve,A_Leif_Palle_Egholm,Leif Palle Egholm,Socialdemokratiet,2
+Odsherred,4,Hørve,A_Helena_Mosskov_Starcke,Helena Mosskov Starcke,Socialdemokratiet,1
+Odsherred,4,Hørve,B_Listestemmer,Listestemmer,Radikale Venstre,24
+Odsherred,4,Hørve,B_Thomas_Skovgaard_Nicolaisen,Thomas Skovgaard Nicolaisen,Radikale Venstre,18
+Odsherred,4,Hørve,B_Søren_Myrup_Pedersen,Søren Myrup Pedersen,Radikale Venstre,7
+Odsherred,4,Hørve,B_Anne_Marie_Revsbech_Møller,Anne Marie Revsbech Møller,Radikale Venstre,4
+Odsherred,4,Hørve,B_Anders_Holst,Anders Holst,Radikale Venstre,0
+Odsherred,4,Hørve,B_Christian_Scheel_Vandel,Christian Scheel Vandel,Radikale Venstre,1
+Odsherred,4,Hørve,B_Dorthe_E_Luccat-Christophersen,Dorthe E Luccat-Christophersen,Radikale Venstre,4
+Odsherred,4,Hørve,B_Thomas_Martin_Elkjær_Smedebøl,Thomas Martin Elkjær Smedebøl,Radikale Venstre,0
+Odsherred,4,Hørve,B_Mie_Marie_Hyldegård_Jensen,Mie Marie Hyldegård Jensen,Radikale Venstre,0
+Odsherred,4,Hørve,B_Marianne_Fritzen,Marianne Fritzen,Radikale Venstre,2
+Odsherred,4,Hørve,B_Allan_Haslund,Allan Haslund,Radikale Venstre,1
+Odsherred,4,Hørve,B_Kate_Dyring_Jensen,Kate Dyring Jensen,Radikale Venstre,1
+Odsherred,4,Hørve,B_Jørgen_Kurt_Gylling,Jørgen Kurt Gylling,Radikale Venstre,0
+Odsherred,4,Hørve,B_Marianne_Østergaard,Marianne Østergaard,Radikale Venstre,6
+Odsherred,4,Hørve,B_Poul_Erik_Pedersen,Poul Erik Pedersen,Radikale Venstre,0
+Odsherred,4,Hørve,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,21
+Odsherred,4,Hørve,C_Claus_Kenneth_Starup,Claus Kenneth Starup,Det Konservative Folkeparti,16
+Odsherred,4,Hørve,C_Ulla_Margrethe_Hansen,Ulla Margrethe Hansen,Det Konservative Folkeparti,91
+Odsherred,4,Hørve,C_Peter_Michel_Horsted_Hansen,Peter Michel Horsted Hansen,Det Konservative Folkeparti,2
+Odsherred,4,Hørve,C_Kenneth_Bakke,Kenneth Bakke,Det Konservative Folkeparti,4
+Odsherred,4,Hørve,C_J_Steen_Dirch_Poulsen,J Steen Dirch Poulsen,Det Konservative Folkeparti,0
+Odsherred,4,Hørve,C_Karen_Marianne_Poulsen,Karen Marianne Poulsen,Det Konservative Folkeparti,0
+Odsherred,4,Hørve,C_Mogens_Eddy_Møllegaard,Mogens Eddy Møllegaard,Det Konservative Folkeparti,1
+Odsherred,4,Hørve,D_Listestemmer,Listestemmer,Nye Borgerlige,44
+Odsherred,4,Hørve,D_Maria_Liv_Holck,Maria Liv Holck,Nye Borgerlige,50
+Odsherred,4,Hørve,D_Jesper_Høgedal,Jesper Høgedal,Nye Borgerlige,17
+Odsherred,4,Hørve,D_Iina_Nete_Sølvssøe,Iina Nete Sølvssøe,Nye Borgerlige,3
+Odsherred,4,Hørve,D_Henrik_Jørgen_Pohl,Henrik Jørgen Pohl,Nye Borgerlige,2
+Odsherred,4,Hørve,D_Anders_Feldt_Lindh,Anders Feldt Lindh,Nye Borgerlige,3
+Odsherred,4,Hørve,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,24
+Odsherred,4,Hørve,F_Mette_Scharbau_Feenstra,Mette Scharbau Feenstra,SF - Socialistisk Folkeparti,37
+Odsherred,4,Hørve,F_Torben_Kjeldsen,Torben Kjeldsen,SF - Socialistisk Folkeparti,11
+Odsherred,4,Hørve,F_Arne_Nygaard_Mikkelsen,Arne Nygaard Mikkelsen,SF - Socialistisk Folkeparti,1
+Odsherred,4,Hørve,F_Mogens_Stig_Møller,Mogens Stig Møller,SF - Socialistisk Folkeparti,1
+Odsherred,4,Hørve,F_Frank_Buch,Frank Buch,SF - Socialistisk Folkeparti,4
+Odsherred,4,Hørve,F_Gitte_Terp_Henriksen,Gitte Terp Henriksen,SF - Socialistisk Folkeparti,6
+Odsherred,4,Hørve,F_Ulla_Feldthusen,Ulla Feldthusen,SF - Socialistisk Folkeparti,1
+Odsherred,4,Hørve,F_Pia_Lone_Skydsgaard,Pia Lone Skydsgaard,SF - Socialistisk Folkeparti,0
+Odsherred,4,Hørve,G_Listestemmer,Listestemmer,Veganerpartiet,1
+Odsherred,4,Hørve,G_Jonas_Nikolaj_Dalmose,Jonas Nikolaj Dalmose,Veganerpartiet,0
+Odsherred,4,Hørve,G_Tryggvi_Gudmundsson,Tryggvi Gudmundsson,Veganerpartiet,2
+Odsherred,4,Hørve,I_Listestemmer,Listestemmer,Liberal Alliance,2
+Odsherred,4,Hørve,I_Martin_Mosfeldt,Martin Mosfeldt,Liberal Alliance,3
+Odsherred,4,Hørve,N_Listestemmer,Listestemmer,Nyt Odsherred,50
+Odsherred,4,Hørve,N_Karina_Vincentz_Andersen,Karina Vincentz Andersen,Nyt Odsherred,81
+Odsherred,4,Hørve,N_Mikkel_Engly_Henriksen,Mikkel Engly Henriksen,Nyt Odsherred,6
+Odsherred,4,Hørve,N_Hanne_Hyldedahl_Caldron,Hanne Hyldedahl Caldron,Nyt Odsherred,4
+Odsherred,4,Hørve,N_Anders_Munch_Søndergaard,Anders Munch Søndergaard,Nyt Odsherred,0
+Odsherred,4,Hørve,N_Erik_Herskind_Dam_Winther,Erik Herskind Dam Winther,Nyt Odsherred,24
+Odsherred,4,Hørve,N_Ebbe_Mondrup,Ebbe Mondrup,Nyt Odsherred,6
+Odsherred,4,Hørve,N_Karsten_Ammann_Mikkelsen,Karsten Ammann Mikkelsen,Nyt Odsherred,6
+Odsherred,4,Hørve,N_Jesper_Kruuse_Jacobsen,Jesper Kruuse Jacobsen,Nyt Odsherred,2
+Odsherred,4,Hørve,N_Henrik_Riise_Graff_Søborg,Henrik Riise Graff Søborg,Nyt Odsherred,1
+Odsherred,4,Hørve,N_Johnny_Edvard_Kristensen,Johnny Edvard Kristensen,Nyt Odsherred,4
+Odsherred,4,Hørve,N_Dorte_Holm_Hansen,Dorte Holm Hansen,Nyt Odsherred,7
+Odsherred,4,Hørve,N_Søren_Frank_Martin_Jakobsen,Søren Frank Martin Jakobsen,Nyt Odsherred,2
+Odsherred,4,Hørve,N_Niels_Helmer_Askholm,Niels Helmer Askholm,Nyt Odsherred,0
+Odsherred,4,Hørve,N_Allan_Thorgny_Gehlsen,Allan Thorgny Gehlsen,Nyt Odsherred,0
+Odsherred,4,Hørve,N_Haider_Abdelrahman_Jammou,Haider Abdelrahman Jammou,Nyt Odsherred,0
+Odsherred,4,Hørve,O_Listestemmer,Listestemmer,Dansk Folkeparti,54
+Odsherred,4,Hørve,O_Julie_Larsen_Jacobsen,Julie Larsen Jacobsen,Dansk Folkeparti,39
+Odsherred,4,Hørve,O_Kim_Buurskov,Kim Buurskov,Dansk Folkeparti,81
+Odsherred,4,Hørve,O_Paw_Pedersen,Paw Pedersen,Dansk Folkeparti,3
+Odsherred,4,Hørve,O_Bernt_Nielsen,Bernt Nielsen,Dansk Folkeparti,0
+Odsherred,4,Hørve,O_Steen_Trøjmer,Steen Trøjmer,Dansk Folkeparti,2
+Odsherred,4,Hørve,O_Louise_Løvkvist_Kanstrup,Louise Løvkvist Kanstrup,Dansk Folkeparti,2
+Odsherred,4,Hørve,O_Sarah_Liv_Weinreich_Demuth-Iversen,Sarah Liv Weinreich Demuth-Iversen,Dansk Folkeparti,0
+Odsherred,4,Hørve,O_Kasper_Egelund_Ravn,Kasper Egelund Ravn,Dansk Folkeparti,0
+Odsherred,4,Hørve,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",78
+Odsherred,4,Hørve,V_Hanne_Grethe_Pigonska_Hansen,Hanne Grethe Pigonska Hansen,"Venstre, Danmarks Liberale Parti",28
+Odsherred,4,Hørve,V_Niels_Skovgaard_Nicolaisen,Niels Skovgaard Nicolaisen,"Venstre, Danmarks Liberale Parti",12
+Odsherred,4,Hørve,V_Mathias_K_Mousten_Hansen,Mathias K Mousten Hansen,"Venstre, Danmarks Liberale Parti",17
+Odsherred,4,Hørve,V_Lene_Rosendal_Mortensen,Lene Rosendal Mortensen,"Venstre, Danmarks Liberale Parti",10
+Odsherred,4,Hørve,V_Annette_Schjermer_Voss_Møller,Annette Schjermer Voss Møller,"Venstre, Danmarks Liberale Parti",10
+Odsherred,4,Hørve,V_Pia_Gade,Pia Gade,"Venstre, Danmarks Liberale Parti",8
+Odsherred,4,Hørve,V_Finn_Hallberg,Finn Hallberg,"Venstre, Danmarks Liberale Parti",4
+Odsherred,4,Hørve,V_Per_Skou_Larsen,Per Skou Larsen,"Venstre, Danmarks Liberale Parti",92
+Odsherred,4,Hørve,V_Asger_Dirch_Poulsen,Asger Dirch Poulsen,"Venstre, Danmarks Liberale Parti",3
+Odsherred,4,Hørve,V_Marina_Guldberg_Eggers-Krag,Marina Guldberg Eggers-Krag,"Venstre, Danmarks Liberale Parti",4
+Odsherred,4,Hørve,V_Henrik_Bøje_Nielsen,Henrik Bøje Nielsen,"Venstre, Danmarks Liberale Parti",2
+Odsherred,4,Hørve,V_Christian_Baadsgaard_Jentzsch,Christian Baadsgaard Jentzsch,"Venstre, Danmarks Liberale Parti",0
+Odsherred,4,Hørve,V_Annelise_Hansen,Annelise Hansen,"Venstre, Danmarks Liberale Parti",1
+Odsherred,4,Hørve,V_Lucas_S_Ellegaard-Hansen_Baquero,Lucas S Ellegaard-Hansen Baquero,"Venstre, Danmarks Liberale Parti",2
+Odsherred,4,Hørve,V_Gunnar_Erik_Frandsen,Gunnar Erik Frandsen,"Venstre, Danmarks Liberale Parti",0
+Odsherred,4,Hørve,V_Finn_Clausen_Kjær,Finn Clausen Kjær,"Venstre, Danmarks Liberale Parti",0
+Odsherred,4,Hørve,V_Palle_Henrik_August_A_Schjerning,Palle Henrik August A Schjerning,"Venstre, Danmarks Liberale Parti",0
+Odsherred,4,Hørve,V_Ketty_Viola_Rasmine_Hansen,Ketty Viola Rasmine Hansen,"Venstre, Danmarks Liberale Parti",1
+Odsherred,4,Hørve,Æ_Listestemmer,Listestemmer,Frihedslisten,3
+Odsherred,4,Hørve,Æ_Lisa_Sofia_Larsson,Lisa Sofia Larsson,Frihedslisten,3
+Odsherred,4,Hørve,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,36
+Odsherred,4,Hørve,Ø_Amalie_Petersen,Amalie Petersen,Enhedslisten - De Rød-Grønne,21
+Odsherred,4,Hørve,Ø_Jeppe_Lynge_Ravn,Jeppe Lynge Ravn,Enhedslisten - De Rød-Grønne,3
+Odsherred,4,Hørve,Ø_Kim_R_Mariegaard,Kim R Mariegaard,Enhedslisten - De Rød-Grønne,9
+Odsherred,4,Hørve,Ø_Sara_Sofie_Paninguak_Lynge_Ravn,Sara Sofie Paninguak Lynge Ravn,Enhedslisten - De Rød-Grønne,11
+Odsherred,5,Odden,A_Listestemmer,Listestemmer,Socialdemokratiet,56
+Odsherred,5,Odden,A_Thomas_Strecker_Lerbak_Adelskov,Thomas Strecker Lerbak Adelskov,Socialdemokratiet,151
+Odsherred,5,Odden,A_Allan_Andersen,Allan Andersen,Socialdemokratiet,2
+Odsherred,5,Odden,A_Anna_Louise_Hestbek_Attermann,Anna Louise Hestbek Attermann,Socialdemokratiet,11
+Odsherred,5,Odden,A_Lis_Ingemann_Christensen,Lis Ingemann Christensen,Socialdemokratiet,6
+Odsherred,5,Odden,A_Søren_With,Søren With,Socialdemokratiet,2
+Odsherred,5,Odden,A_Michael_Kjeldgaard,Michael Kjeldgaard,Socialdemokratiet,3
+Odsherred,5,Odden,A_Felex_Birger_Pedersen,Felex Birger Pedersen,Socialdemokratiet,6
+Odsherred,5,Odden,A_Per_Kragh,Per Kragh,Socialdemokratiet,4
+Odsherred,5,Odden,A_Jette_Sloth_Nielsen,Jette Sloth Nielsen,Socialdemokratiet,2
+Odsherred,5,Odden,A_Thomas_Klint_Martinsen,Thomas Klint Martinsen,Socialdemokratiet,1
+Odsherred,5,Odden,A_Martin_Lynggaard,Martin Lynggaard,Socialdemokratiet,0
+Odsherred,5,Odden,A_Kristian_Petersen,Kristian Petersen,Socialdemokratiet,0
+Odsherred,5,Odden,A_Bo_Bøge_Jensen,Bo Bøge Jensen,Socialdemokratiet,0
+Odsherred,5,Odden,A_Dogan_Yurdakul,Dogan Yurdakul,Socialdemokratiet,3
+Odsherred,5,Odden,A_Nichlas_René_van_Weezel,Nichlas René van Weezel,Socialdemokratiet,0
+Odsherred,5,Odden,A_Leif_Palle_Egholm,Leif Palle Egholm,Socialdemokratiet,0
+Odsherred,5,Odden,A_Helena_Mosskov_Starcke,Helena Mosskov Starcke,Socialdemokratiet,0
+Odsherred,5,Odden,B_Listestemmer,Listestemmer,Radikale Venstre,3
+Odsherred,5,Odden,B_Thomas_Skovgaard_Nicolaisen,Thomas Skovgaard Nicolaisen,Radikale Venstre,5
+Odsherred,5,Odden,B_Søren_Myrup_Pedersen,Søren Myrup Pedersen,Radikale Venstre,2
+Odsherred,5,Odden,B_Anne_Marie_Revsbech_Møller,Anne Marie Revsbech Møller,Radikale Venstre,11
+Odsherred,5,Odden,B_Anders_Holst,Anders Holst,Radikale Venstre,0
+Odsherred,5,Odden,B_Christian_Scheel_Vandel,Christian Scheel Vandel,Radikale Venstre,1
+Odsherred,5,Odden,B_Dorthe_E_Luccat-Christophersen,Dorthe E Luccat-Christophersen,Radikale Venstre,2
+Odsherred,5,Odden,B_Thomas_Martin_Elkjær_Smedebøl,Thomas Martin Elkjær Smedebøl,Radikale Venstre,0
+Odsherred,5,Odden,B_Mie_Marie_Hyldegård_Jensen,Mie Marie Hyldegård Jensen,Radikale Venstre,7
+Odsherred,5,Odden,B_Marianne_Fritzen,Marianne Fritzen,Radikale Venstre,0
+Odsherred,5,Odden,B_Allan_Haslund,Allan Haslund,Radikale Venstre,0
+Odsherred,5,Odden,B_Kate_Dyring_Jensen,Kate Dyring Jensen,Radikale Venstre,0
+Odsherred,5,Odden,B_Jørgen_Kurt_Gylling,Jørgen Kurt Gylling,Radikale Venstre,2
+Odsherred,5,Odden,B_Marianne_Østergaard,Marianne Østergaard,Radikale Venstre,0
+Odsherred,5,Odden,B_Poul_Erik_Pedersen,Poul Erik Pedersen,Radikale Venstre,0
+Odsherred,5,Odden,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,16
+Odsherred,5,Odden,C_Claus_Kenneth_Starup,Claus Kenneth Starup,Det Konservative Folkeparti,6
+Odsherred,5,Odden,C_Ulla_Margrethe_Hansen,Ulla Margrethe Hansen,Det Konservative Folkeparti,2
+Odsherred,5,Odden,C_Peter_Michel_Horsted_Hansen,Peter Michel Horsted Hansen,Det Konservative Folkeparti,3
+Odsherred,5,Odden,C_Kenneth_Bakke,Kenneth Bakke,Det Konservative Folkeparti,2
+Odsherred,5,Odden,C_J_Steen_Dirch_Poulsen,J Steen Dirch Poulsen,Det Konservative Folkeparti,0
+Odsherred,5,Odden,C_Karen_Marianne_Poulsen,Karen Marianne Poulsen,Det Konservative Folkeparti,0
+Odsherred,5,Odden,C_Mogens_Eddy_Møllegaard,Mogens Eddy Møllegaard,Det Konservative Folkeparti,1
+Odsherred,5,Odden,D_Listestemmer,Listestemmer,Nye Borgerlige,14
+Odsherred,5,Odden,D_Maria_Liv_Holck,Maria Liv Holck,Nye Borgerlige,8
+Odsherred,5,Odden,D_Jesper_Høgedal,Jesper Høgedal,Nye Borgerlige,2
+Odsherred,5,Odden,D_Iina_Nete_Sølvssøe,Iina Nete Sølvssøe,Nye Borgerlige,0
+Odsherred,5,Odden,D_Henrik_Jørgen_Pohl,Henrik Jørgen Pohl,Nye Borgerlige,1
+Odsherred,5,Odden,D_Anders_Feldt_Lindh,Anders Feldt Lindh,Nye Borgerlige,0
+Odsherred,5,Odden,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,8
+Odsherred,5,Odden,F_Mette_Scharbau_Feenstra,Mette Scharbau Feenstra,SF - Socialistisk Folkeparti,7
+Odsherred,5,Odden,F_Torben_Kjeldsen,Torben Kjeldsen,SF - Socialistisk Folkeparti,7
+Odsherred,5,Odden,F_Arne_Nygaard_Mikkelsen,Arne Nygaard Mikkelsen,SF - Socialistisk Folkeparti,1
+Odsherred,5,Odden,F_Mogens_Stig_Møller,Mogens Stig Møller,SF - Socialistisk Folkeparti,2
+Odsherred,5,Odden,F_Frank_Buch,Frank Buch,SF - Socialistisk Folkeparti,0
+Odsherred,5,Odden,F_Gitte_Terp_Henriksen,Gitte Terp Henriksen,SF - Socialistisk Folkeparti,0
+Odsherred,5,Odden,F_Ulla_Feldthusen,Ulla Feldthusen,SF - Socialistisk Folkeparti,0
+Odsherred,5,Odden,F_Pia_Lone_Skydsgaard,Pia Lone Skydsgaard,SF - Socialistisk Folkeparti,0
+Odsherred,5,Odden,G_Listestemmer,Listestemmer,Veganerpartiet,0
+Odsherred,5,Odden,G_Jonas_Nikolaj_Dalmose,Jonas Nikolaj Dalmose,Veganerpartiet,2
+Odsherred,5,Odden,G_Tryggvi_Gudmundsson,Tryggvi Gudmundsson,Veganerpartiet,0
+Odsherred,5,Odden,I_Listestemmer,Listestemmer,Liberal Alliance,1
+Odsherred,5,Odden,I_Martin_Mosfeldt,Martin Mosfeldt,Liberal Alliance,0
+Odsherred,5,Odden,N_Listestemmer,Listestemmer,Nyt Odsherred,13
+Odsherred,5,Odden,N_Karina_Vincentz_Andersen,Karina Vincentz Andersen,Nyt Odsherred,14
+Odsherred,5,Odden,N_Mikkel_Engly_Henriksen,Mikkel Engly Henriksen,Nyt Odsherred,13
+Odsherred,5,Odden,N_Hanne_Hyldedahl_Caldron,Hanne Hyldedahl Caldron,Nyt Odsherred,181
+Odsherred,5,Odden,N_Anders_Munch_Søndergaard,Anders Munch Søndergaard,Nyt Odsherred,0
+Odsherred,5,Odden,N_Erik_Herskind_Dam_Winther,Erik Herskind Dam Winther,Nyt Odsherred,0
+Odsherred,5,Odden,N_Ebbe_Mondrup,Ebbe Mondrup,Nyt Odsherred,1
+Odsherred,5,Odden,N_Karsten_Ammann_Mikkelsen,Karsten Ammann Mikkelsen,Nyt Odsherred,0
+Odsherred,5,Odden,N_Jesper_Kruuse_Jacobsen,Jesper Kruuse Jacobsen,Nyt Odsherred,1
+Odsherred,5,Odden,N_Henrik_Riise_Graff_Søborg,Henrik Riise Graff Søborg,Nyt Odsherred,1
+Odsherred,5,Odden,N_Johnny_Edvard_Kristensen,Johnny Edvard Kristensen,Nyt Odsherred,0
+Odsherred,5,Odden,N_Dorte_Holm_Hansen,Dorte Holm Hansen,Nyt Odsherred,0
+Odsherred,5,Odden,N_Søren_Frank_Martin_Jakobsen,Søren Frank Martin Jakobsen,Nyt Odsherred,2
+Odsherred,5,Odden,N_Niels_Helmer_Askholm,Niels Helmer Askholm,Nyt Odsherred,16
+Odsherred,5,Odden,N_Allan_Thorgny_Gehlsen,Allan Thorgny Gehlsen,Nyt Odsherred,0
+Odsherred,5,Odden,N_Haider_Abdelrahman_Jammou,Haider Abdelrahman Jammou,Nyt Odsherred,0
+Odsherred,5,Odden,O_Listestemmer,Listestemmer,Dansk Folkeparti,12
+Odsherred,5,Odden,O_Julie_Larsen_Jacobsen,Julie Larsen Jacobsen,Dansk Folkeparti,16
+Odsherred,5,Odden,O_Kim_Buurskov,Kim Buurskov,Dansk Folkeparti,3
+Odsherred,5,Odden,O_Paw_Pedersen,Paw Pedersen,Dansk Folkeparti,8
+Odsherred,5,Odden,O_Bernt_Nielsen,Bernt Nielsen,Dansk Folkeparti,0
+Odsherred,5,Odden,O_Steen_Trøjmer,Steen Trøjmer,Dansk Folkeparti,1
+Odsherred,5,Odden,O_Louise_Løvkvist_Kanstrup,Louise Løvkvist Kanstrup,Dansk Folkeparti,1
+Odsherred,5,Odden,O_Sarah_Liv_Weinreich_Demuth-Iversen,Sarah Liv Weinreich Demuth-Iversen,Dansk Folkeparti,0
+Odsherred,5,Odden,O_Kasper_Egelund_Ravn,Kasper Egelund Ravn,Dansk Folkeparti,0
+Odsherred,5,Odden,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",12
+Odsherred,5,Odden,V_Hanne_Grethe_Pigonska_Hansen,Hanne Grethe Pigonska Hansen,"Venstre, Danmarks Liberale Parti",17
+Odsherred,5,Odden,V_Niels_Skovgaard_Nicolaisen,Niels Skovgaard Nicolaisen,"Venstre, Danmarks Liberale Parti",6
+Odsherred,5,Odden,V_Mathias_K_Mousten_Hansen,Mathias K Mousten Hansen,"Venstre, Danmarks Liberale Parti",5
+Odsherred,5,Odden,V_Lene_Rosendal_Mortensen,Lene Rosendal Mortensen,"Venstre, Danmarks Liberale Parti",0
+Odsherred,5,Odden,V_Annette_Schjermer_Voss_Møller,Annette Schjermer Voss Møller,"Venstre, Danmarks Liberale Parti",1
+Odsherred,5,Odden,V_Pia_Gade,Pia Gade,"Venstre, Danmarks Liberale Parti",5
+Odsherred,5,Odden,V_Finn_Hallberg,Finn Hallberg,"Venstre, Danmarks Liberale Parti",1
+Odsherred,5,Odden,V_Per_Skou_Larsen,Per Skou Larsen,"Venstre, Danmarks Liberale Parti",1
+Odsherred,5,Odden,V_Asger_Dirch_Poulsen,Asger Dirch Poulsen,"Venstre, Danmarks Liberale Parti",0
+Odsherred,5,Odden,V_Marina_Guldberg_Eggers-Krag,Marina Guldberg Eggers-Krag,"Venstre, Danmarks Liberale Parti",7
+Odsherred,5,Odden,V_Henrik_Bøje_Nielsen,Henrik Bøje Nielsen,"Venstre, Danmarks Liberale Parti",1
+Odsherred,5,Odden,V_Christian_Baadsgaard_Jentzsch,Christian Baadsgaard Jentzsch,"Venstre, Danmarks Liberale Parti",0
+Odsherred,5,Odden,V_Annelise_Hansen,Annelise Hansen,"Venstre, Danmarks Liberale Parti",0
+Odsherred,5,Odden,V_Lucas_S_Ellegaard-Hansen_Baquero,Lucas S Ellegaard-Hansen Baquero,"Venstre, Danmarks Liberale Parti",1
+Odsherred,5,Odden,V_Gunnar_Erik_Frandsen,Gunnar Erik Frandsen,"Venstre, Danmarks Liberale Parti",0
+Odsherred,5,Odden,V_Finn_Clausen_Kjær,Finn Clausen Kjær,"Venstre, Danmarks Liberale Parti",0
+Odsherred,5,Odden,V_Palle_Henrik_August_A_Schjerning,Palle Henrik August A Schjerning,"Venstre, Danmarks Liberale Parti",1
+Odsherred,5,Odden,V_Ketty_Viola_Rasmine_Hansen,Ketty Viola Rasmine Hansen,"Venstre, Danmarks Liberale Parti",0
+Odsherred,5,Odden,Æ_Listestemmer,Listestemmer,Frihedslisten,1
+Odsherred,5,Odden,Æ_Lisa_Sofia_Larsson,Lisa Sofia Larsson,Frihedslisten,2
+Odsherred,5,Odden,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,22
+Odsherred,5,Odden,Ø_Amalie_Petersen,Amalie Petersen,Enhedslisten - De Rød-Grønne,11
+Odsherred,5,Odden,Ø_Jeppe_Lynge_Ravn,Jeppe Lynge Ravn,Enhedslisten - De Rød-Grønne,1
+Odsherred,5,Odden,Ø_Kim_R_Mariegaard,Kim R Mariegaard,Enhedslisten - De Rød-Grønne,1
+Odsherred,5,Odden,Ø_Sara_Sofie_Paninguak_Lynge_Ravn,Sara Sofie Paninguak Lynge Ravn,Enhedslisten - De Rød-Grønne,5
+Odsherred,6,Vig,A_Listestemmer,Listestemmer,Socialdemokratiet,92
+Odsherred,6,Vig,A_Thomas_Strecker_Lerbak_Adelskov,Thomas Strecker Lerbak Adelskov,Socialdemokratiet,235
+Odsherred,6,Vig,A_Allan_Andersen,Allan Andersen,Socialdemokratiet,14
+Odsherred,6,Vig,A_Anna_Louise_Hestbek_Attermann,Anna Louise Hestbek Attermann,Socialdemokratiet,13
+Odsherred,6,Vig,A_Lis_Ingemann_Christensen,Lis Ingemann Christensen,Socialdemokratiet,3
+Odsherred,6,Vig,A_Søren_With,Søren With,Socialdemokratiet,17
+Odsherred,6,Vig,A_Michael_Kjeldgaard,Michael Kjeldgaard,Socialdemokratiet,5
+Odsherred,6,Vig,A_Felex_Birger_Pedersen,Felex Birger Pedersen,Socialdemokratiet,12
+Odsherred,6,Vig,A_Per_Kragh,Per Kragh,Socialdemokratiet,3
+Odsherred,6,Vig,A_Jette_Sloth_Nielsen,Jette Sloth Nielsen,Socialdemokratiet,11
+Odsherred,6,Vig,A_Thomas_Klint_Martinsen,Thomas Klint Martinsen,Socialdemokratiet,7
+Odsherred,6,Vig,A_Martin_Lynggaard,Martin Lynggaard,Socialdemokratiet,4
+Odsherred,6,Vig,A_Kristian_Petersen,Kristian Petersen,Socialdemokratiet,5
+Odsherred,6,Vig,A_Bo_Bøge_Jensen,Bo Bøge Jensen,Socialdemokratiet,3
+Odsherred,6,Vig,A_Dogan_Yurdakul,Dogan Yurdakul,Socialdemokratiet,9
+Odsherred,6,Vig,A_Nichlas_René_van_Weezel,Nichlas René van Weezel,Socialdemokratiet,1
+Odsherred,6,Vig,A_Leif_Palle_Egholm,Leif Palle Egholm,Socialdemokratiet,6
+Odsherred,6,Vig,A_Helena_Mosskov_Starcke,Helena Mosskov Starcke,Socialdemokratiet,4
+Odsherred,6,Vig,B_Listestemmer,Listestemmer,Radikale Venstre,33
+Odsherred,6,Vig,B_Thomas_Skovgaard_Nicolaisen,Thomas Skovgaard Nicolaisen,Radikale Venstre,121
+Odsherred,6,Vig,B_Søren_Myrup_Pedersen,Søren Myrup Pedersen,Radikale Venstre,2
+Odsherred,6,Vig,B_Anne_Marie_Revsbech_Møller,Anne Marie Revsbech Møller,Radikale Venstre,7
+Odsherred,6,Vig,B_Anders_Holst,Anders Holst,Radikale Venstre,0
+Odsherred,6,Vig,B_Christian_Scheel_Vandel,Christian Scheel Vandel,Radikale Venstre,2
+Odsherred,6,Vig,B_Dorthe_E_Luccat-Christophersen,Dorthe E Luccat-Christophersen,Radikale Venstre,2
+Odsherred,6,Vig,B_Thomas_Martin_Elkjær_Smedebøl,Thomas Martin Elkjær Smedebøl,Radikale Venstre,0
+Odsherred,6,Vig,B_Mie_Marie_Hyldegård_Jensen,Mie Marie Hyldegård Jensen,Radikale Venstre,1
+Odsherred,6,Vig,B_Marianne_Fritzen,Marianne Fritzen,Radikale Venstre,18
+Odsherred,6,Vig,B_Allan_Haslund,Allan Haslund,Radikale Venstre,0
+Odsherred,6,Vig,B_Kate_Dyring_Jensen,Kate Dyring Jensen,Radikale Venstre,1
+Odsherred,6,Vig,B_Jørgen_Kurt_Gylling,Jørgen Kurt Gylling,Radikale Venstre,0
+Odsherred,6,Vig,B_Marianne_Østergaard,Marianne Østergaard,Radikale Venstre,1
+Odsherred,6,Vig,B_Poul_Erik_Pedersen,Poul Erik Pedersen,Radikale Venstre,6
+Odsherred,6,Vig,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,32
+Odsherred,6,Vig,C_Claus_Kenneth_Starup,Claus Kenneth Starup,Det Konservative Folkeparti,7
+Odsherred,6,Vig,C_Ulla_Margrethe_Hansen,Ulla Margrethe Hansen,Det Konservative Folkeparti,8
+Odsherred,6,Vig,C_Peter_Michel_Horsted_Hansen,Peter Michel Horsted Hansen,Det Konservative Folkeparti,0
+Odsherred,6,Vig,C_Kenneth_Bakke,Kenneth Bakke,Det Konservative Folkeparti,95
+Odsherred,6,Vig,C_J_Steen_Dirch_Poulsen,J Steen Dirch Poulsen,Det Konservative Folkeparti,0
+Odsherred,6,Vig,C_Karen_Marianne_Poulsen,Karen Marianne Poulsen,Det Konservative Folkeparti,0
+Odsherred,6,Vig,C_Mogens_Eddy_Møllegaard,Mogens Eddy Møllegaard,Det Konservative Folkeparti,7
+Odsherred,6,Vig,D_Listestemmer,Listestemmer,Nye Borgerlige,42
+Odsherred,6,Vig,D_Maria_Liv_Holck,Maria Liv Holck,Nye Borgerlige,57
+Odsherred,6,Vig,D_Jesper_Høgedal,Jesper Høgedal,Nye Borgerlige,17
+Odsherred,6,Vig,D_Iina_Nete_Sølvssøe,Iina Nete Sølvssøe,Nye Borgerlige,5
+Odsherred,6,Vig,D_Henrik_Jørgen_Pohl,Henrik Jørgen Pohl,Nye Borgerlige,0
+Odsherred,6,Vig,D_Anders_Feldt_Lindh,Anders Feldt Lindh,Nye Borgerlige,5
+Odsherred,6,Vig,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,34
+Odsherred,6,Vig,F_Mette_Scharbau_Feenstra,Mette Scharbau Feenstra,SF - Socialistisk Folkeparti,25
+Odsherred,6,Vig,F_Torben_Kjeldsen,Torben Kjeldsen,SF - Socialistisk Folkeparti,7
+Odsherred,6,Vig,F_Arne_Nygaard_Mikkelsen,Arne Nygaard Mikkelsen,SF - Socialistisk Folkeparti,7
+Odsherred,6,Vig,F_Mogens_Stig_Møller,Mogens Stig Møller,SF - Socialistisk Folkeparti,8
+Odsherred,6,Vig,F_Frank_Buch,Frank Buch,SF - Socialistisk Folkeparti,1
+Odsherred,6,Vig,F_Gitte_Terp_Henriksen,Gitte Terp Henriksen,SF - Socialistisk Folkeparti,1
+Odsherred,6,Vig,F_Ulla_Feldthusen,Ulla Feldthusen,SF - Socialistisk Folkeparti,0
+Odsherred,6,Vig,F_Pia_Lone_Skydsgaard,Pia Lone Skydsgaard,SF - Socialistisk Folkeparti,0
+Odsherred,6,Vig,G_Listestemmer,Listestemmer,Veganerpartiet,3
+Odsherred,6,Vig,G_Jonas_Nikolaj_Dalmose,Jonas Nikolaj Dalmose,Veganerpartiet,4
+Odsherred,6,Vig,G_Tryggvi_Gudmundsson,Tryggvi Gudmundsson,Veganerpartiet,4
+Odsherred,6,Vig,I_Listestemmer,Listestemmer,Liberal Alliance,5
+Odsherred,6,Vig,I_Martin_Mosfeldt,Martin Mosfeldt,Liberal Alliance,11
+Odsherred,6,Vig,N_Listestemmer,Listestemmer,Nyt Odsherred,55
+Odsherred,6,Vig,N_Karina_Vincentz_Andersen,Karina Vincentz Andersen,Nyt Odsherred,61
+Odsherred,6,Vig,N_Mikkel_Engly_Henriksen,Mikkel Engly Henriksen,Nyt Odsherred,24
+Odsherred,6,Vig,N_Hanne_Hyldedahl_Caldron,Hanne Hyldedahl Caldron,Nyt Odsherred,11
+Odsherred,6,Vig,N_Anders_Munch_Søndergaard,Anders Munch Søndergaard,Nyt Odsherred,1
+Odsherred,6,Vig,N_Erik_Herskind_Dam_Winther,Erik Herskind Dam Winther,Nyt Odsherred,0
+Odsherred,6,Vig,N_Ebbe_Mondrup,Ebbe Mondrup,Nyt Odsherred,0
+Odsherred,6,Vig,N_Karsten_Ammann_Mikkelsen,Karsten Ammann Mikkelsen,Nyt Odsherred,10
+Odsherred,6,Vig,N_Jesper_Kruuse_Jacobsen,Jesper Kruuse Jacobsen,Nyt Odsherred,52
+Odsherred,6,Vig,N_Henrik_Riise_Graff_Søborg,Henrik Riise Graff Søborg,Nyt Odsherred,2
+Odsherred,6,Vig,N_Johnny_Edvard_Kristensen,Johnny Edvard Kristensen,Nyt Odsherred,4
+Odsherred,6,Vig,N_Dorte_Holm_Hansen,Dorte Holm Hansen,Nyt Odsherred,3
+Odsherred,6,Vig,N_Søren_Frank_Martin_Jakobsen,Søren Frank Martin Jakobsen,Nyt Odsherred,7
+Odsherred,6,Vig,N_Niels_Helmer_Askholm,Niels Helmer Askholm,Nyt Odsherred,0
+Odsherred,6,Vig,N_Allan_Thorgny_Gehlsen,Allan Thorgny Gehlsen,Nyt Odsherred,0
+Odsherred,6,Vig,N_Haider_Abdelrahman_Jammou,Haider Abdelrahman Jammou,Nyt Odsherred,0
+Odsherred,6,Vig,O_Listestemmer,Listestemmer,Dansk Folkeparti,50
+Odsherred,6,Vig,O_Julie_Larsen_Jacobsen,Julie Larsen Jacobsen,Dansk Folkeparti,108
+Odsherred,6,Vig,O_Kim_Buurskov,Kim Buurskov,Dansk Folkeparti,12
+Odsherred,6,Vig,O_Paw_Pedersen,Paw Pedersen,Dansk Folkeparti,9
+Odsherred,6,Vig,O_Bernt_Nielsen,Bernt Nielsen,Dansk Folkeparti,2
+Odsherred,6,Vig,O_Steen_Trøjmer,Steen Trøjmer,Dansk Folkeparti,1
+Odsherred,6,Vig,O_Louise_Løvkvist_Kanstrup,Louise Løvkvist Kanstrup,Dansk Folkeparti,6
+Odsherred,6,Vig,O_Sarah_Liv_Weinreich_Demuth-Iversen,Sarah Liv Weinreich Demuth-Iversen,Dansk Folkeparti,3
+Odsherred,6,Vig,O_Kasper_Egelund_Ravn,Kasper Egelund Ravn,Dansk Folkeparti,6
+Odsherred,6,Vig,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",60
+Odsherred,6,Vig,V_Hanne_Grethe_Pigonska_Hansen,Hanne Grethe Pigonska Hansen,"Venstre, Danmarks Liberale Parti",51
+Odsherred,6,Vig,V_Niels_Skovgaard_Nicolaisen,Niels Skovgaard Nicolaisen,"Venstre, Danmarks Liberale Parti",16
+Odsherred,6,Vig,V_Mathias_K_Mousten_Hansen,Mathias K Mousten Hansen,"Venstre, Danmarks Liberale Parti",56
+Odsherred,6,Vig,V_Lene_Rosendal_Mortensen,Lene Rosendal Mortensen,"Venstre, Danmarks Liberale Parti",40
+Odsherred,6,Vig,V_Annette_Schjermer_Voss_Møller,Annette Schjermer Voss Møller,"Venstre, Danmarks Liberale Parti",11
+Odsherred,6,Vig,V_Pia_Gade,Pia Gade,"Venstre, Danmarks Liberale Parti",10
+Odsherred,6,Vig,V_Finn_Hallberg,Finn Hallberg,"Venstre, Danmarks Liberale Parti",41
+Odsherred,6,Vig,V_Per_Skou_Larsen,Per Skou Larsen,"Venstre, Danmarks Liberale Parti",4
+Odsherred,6,Vig,V_Asger_Dirch_Poulsen,Asger Dirch Poulsen,"Venstre, Danmarks Liberale Parti",0
+Odsherred,6,Vig,V_Marina_Guldberg_Eggers-Krag,Marina Guldberg Eggers-Krag,"Venstre, Danmarks Liberale Parti",7
+Odsherred,6,Vig,V_Henrik_Bøje_Nielsen,Henrik Bøje Nielsen,"Venstre, Danmarks Liberale Parti",3
+Odsherred,6,Vig,V_Christian_Baadsgaard_Jentzsch,Christian Baadsgaard Jentzsch,"Venstre, Danmarks Liberale Parti",0
+Odsherred,6,Vig,V_Annelise_Hansen,Annelise Hansen,"Venstre, Danmarks Liberale Parti",1
+Odsherred,6,Vig,V_Lucas_S_Ellegaard-Hansen_Baquero,Lucas S Ellegaard-Hansen Baquero,"Venstre, Danmarks Liberale Parti",6
+Odsherred,6,Vig,V_Gunnar_Erik_Frandsen,Gunnar Erik Frandsen,"Venstre, Danmarks Liberale Parti",0
+Odsherred,6,Vig,V_Finn_Clausen_Kjær,Finn Clausen Kjær,"Venstre, Danmarks Liberale Parti",2
+Odsherred,6,Vig,V_Palle_Henrik_August_A_Schjerning,Palle Henrik August A Schjerning,"Venstre, Danmarks Liberale Parti",0
+Odsherred,6,Vig,V_Ketty_Viola_Rasmine_Hansen,Ketty Viola Rasmine Hansen,"Venstre, Danmarks Liberale Parti",2
+Odsherred,6,Vig,Æ_Listestemmer,Listestemmer,Frihedslisten,0
+Odsherred,6,Vig,Æ_Lisa_Sofia_Larsson,Lisa Sofia Larsson,Frihedslisten,6
+Odsherred,6,Vig,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,27
+Odsherred,6,Vig,Ø_Amalie_Petersen,Amalie Petersen,Enhedslisten - De Rød-Grønne,23
+Odsherred,6,Vig,Ø_Jeppe_Lynge_Ravn,Jeppe Lynge Ravn,Enhedslisten - De Rød-Grønne,10
+Odsherred,6,Vig,Ø_Kim_R_Mariegaard,Kim R Mariegaard,Enhedslisten - De Rød-Grønne,3
+Odsherred,6,Vig,Ø_Sara_Sofie_Paninguak_Lynge_Ravn,Sara Sofie Paninguak Lynge Ravn,Enhedslisten - De Rød-Grønne,17
+Odsherred,7,Nykøbing,A_Listestemmer,Listestemmer,Socialdemokratiet,236
+Odsherred,7,Nykøbing,A_Thomas_Strecker_Lerbak_Adelskov,Thomas Strecker Lerbak Adelskov,Socialdemokratiet,937
+Odsherred,7,Nykøbing,A_Allan_Andersen,Allan Andersen,Socialdemokratiet,92
+Odsherred,7,Nykøbing,A_Anna_Louise_Hestbek_Attermann,Anna Louise Hestbek Attermann,Socialdemokratiet,39
+Odsherred,7,Nykøbing,A_Lis_Ingemann_Christensen,Lis Ingemann Christensen,Socialdemokratiet,25
+Odsherred,7,Nykøbing,A_Søren_With,Søren With,Socialdemokratiet,8
+Odsherred,7,Nykøbing,A_Michael_Kjeldgaard,Michael Kjeldgaard,Socialdemokratiet,41
+Odsherred,7,Nykøbing,A_Felex_Birger_Pedersen,Felex Birger Pedersen,Socialdemokratiet,23
+Odsherred,7,Nykøbing,A_Per_Kragh,Per Kragh,Socialdemokratiet,17
+Odsherred,7,Nykøbing,A_Jette_Sloth_Nielsen,Jette Sloth Nielsen,Socialdemokratiet,11
+Odsherred,7,Nykøbing,A_Thomas_Klint_Martinsen,Thomas Klint Martinsen,Socialdemokratiet,8
+Odsherred,7,Nykøbing,A_Martin_Lynggaard,Martin Lynggaard,Socialdemokratiet,20
+Odsherred,7,Nykøbing,A_Kristian_Petersen,Kristian Petersen,Socialdemokratiet,3
+Odsherred,7,Nykøbing,A_Bo_Bøge_Jensen,Bo Bøge Jensen,Socialdemokratiet,6
+Odsherred,7,Nykøbing,A_Dogan_Yurdakul,Dogan Yurdakul,Socialdemokratiet,106
+Odsherred,7,Nykøbing,A_Nichlas_René_van_Weezel,Nichlas René van Weezel,Socialdemokratiet,3
+Odsherred,7,Nykøbing,A_Leif_Palle_Egholm,Leif Palle Egholm,Socialdemokratiet,10
+Odsherred,7,Nykøbing,A_Helena_Mosskov_Starcke,Helena Mosskov Starcke,Socialdemokratiet,3
+Odsherred,7,Nykøbing,B_Listestemmer,Listestemmer,Radikale Venstre,39
+Odsherred,7,Nykøbing,B_Thomas_Skovgaard_Nicolaisen,Thomas Skovgaard Nicolaisen,Radikale Venstre,58
+Odsherred,7,Nykøbing,B_Søren_Myrup_Pedersen,Søren Myrup Pedersen,Radikale Venstre,15
+Odsherred,7,Nykøbing,B_Anne_Marie_Revsbech_Møller,Anne Marie Revsbech Møller,Radikale Venstre,6
+Odsherred,7,Nykøbing,B_Anders_Holst,Anders Holst,Radikale Venstre,7
+Odsherred,7,Nykøbing,B_Christian_Scheel_Vandel,Christian Scheel Vandel,Radikale Venstre,8
+Odsherred,7,Nykøbing,B_Dorthe_E_Luccat-Christophersen,Dorthe E Luccat-Christophersen,Radikale Venstre,6
+Odsherred,7,Nykøbing,B_Thomas_Martin_Elkjær_Smedebøl,Thomas Martin Elkjær Smedebøl,Radikale Venstre,20
+Odsherred,7,Nykøbing,B_Mie_Marie_Hyldegård_Jensen,Mie Marie Hyldegård Jensen,Radikale Venstre,0
+Odsherred,7,Nykøbing,B_Marianne_Fritzen,Marianne Fritzen,Radikale Venstre,3
+Odsherred,7,Nykøbing,B_Allan_Haslund,Allan Haslund,Radikale Venstre,1
+Odsherred,7,Nykøbing,B_Kate_Dyring_Jensen,Kate Dyring Jensen,Radikale Venstre,3
+Odsherred,7,Nykøbing,B_Jørgen_Kurt_Gylling,Jørgen Kurt Gylling,Radikale Venstre,5
+Odsherred,7,Nykøbing,B_Marianne_Østergaard,Marianne Østergaard,Radikale Venstre,0
+Odsherred,7,Nykøbing,B_Poul_Erik_Pedersen,Poul Erik Pedersen,Radikale Venstre,3
+Odsherred,7,Nykøbing,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,52
+Odsherred,7,Nykøbing,C_Claus_Kenneth_Starup,Claus Kenneth Starup,Det Konservative Folkeparti,52
+Odsherred,7,Nykøbing,C_Ulla_Margrethe_Hansen,Ulla Margrethe Hansen,Det Konservative Folkeparti,10
+Odsherred,7,Nykøbing,C_Peter_Michel_Horsted_Hansen,Peter Michel Horsted Hansen,Det Konservative Folkeparti,15
+Odsherred,7,Nykøbing,C_Kenneth_Bakke,Kenneth Bakke,Det Konservative Folkeparti,4
+Odsherred,7,Nykøbing,C_J_Steen_Dirch_Poulsen,J Steen Dirch Poulsen,Det Konservative Folkeparti,6
+Odsherred,7,Nykøbing,C_Karen_Marianne_Poulsen,Karen Marianne Poulsen,Det Konservative Folkeparti,8
+Odsherred,7,Nykøbing,C_Mogens_Eddy_Møllegaard,Mogens Eddy Møllegaard,Det Konservative Folkeparti,0
+Odsherred,7,Nykøbing,D_Listestemmer,Listestemmer,Nye Borgerlige,61
+Odsherred,7,Nykøbing,D_Maria_Liv_Holck,Maria Liv Holck,Nye Borgerlige,66
+Odsherred,7,Nykøbing,D_Jesper_Høgedal,Jesper Høgedal,Nye Borgerlige,38
+Odsherred,7,Nykøbing,D_Iina_Nete_Sølvssøe,Iina Nete Sølvssøe,Nye Borgerlige,2
+Odsherred,7,Nykøbing,D_Henrik_Jørgen_Pohl,Henrik Jørgen Pohl,Nye Borgerlige,3
+Odsherred,7,Nykøbing,D_Anders_Feldt_Lindh,Anders Feldt Lindh,Nye Borgerlige,40
+Odsherred,7,Nykøbing,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,52
+Odsherred,7,Nykøbing,F_Mette_Scharbau_Feenstra,Mette Scharbau Feenstra,SF - Socialistisk Folkeparti,106
+Odsherred,7,Nykøbing,F_Torben_Kjeldsen,Torben Kjeldsen,SF - Socialistisk Folkeparti,47
+Odsherred,7,Nykøbing,F_Arne_Nygaard_Mikkelsen,Arne Nygaard Mikkelsen,SF - Socialistisk Folkeparti,34
+Odsherred,7,Nykøbing,F_Mogens_Stig_Møller,Mogens Stig Møller,SF - Socialistisk Folkeparti,4
+Odsherred,7,Nykøbing,F_Frank_Buch,Frank Buch,SF - Socialistisk Folkeparti,0
+Odsherred,7,Nykøbing,F_Gitte_Terp_Henriksen,Gitte Terp Henriksen,SF - Socialistisk Folkeparti,4
+Odsherred,7,Nykøbing,F_Ulla_Feldthusen,Ulla Feldthusen,SF - Socialistisk Folkeparti,1
+Odsherred,7,Nykøbing,F_Pia_Lone_Skydsgaard,Pia Lone Skydsgaard,SF - Socialistisk Folkeparti,1
+Odsherred,7,Nykøbing,G_Listestemmer,Listestemmer,Veganerpartiet,10
+Odsherred,7,Nykøbing,G_Jonas_Nikolaj_Dalmose,Jonas Nikolaj Dalmose,Veganerpartiet,7
+Odsherred,7,Nykøbing,G_Tryggvi_Gudmundsson,Tryggvi Gudmundsson,Veganerpartiet,5
+Odsherred,7,Nykøbing,I_Listestemmer,Listestemmer,Liberal Alliance,5
+Odsherred,7,Nykøbing,I_Martin_Mosfeldt,Martin Mosfeldt,Liberal Alliance,4
+Odsherred,7,Nykøbing,N_Listestemmer,Listestemmer,Nyt Odsherred,91
+Odsherred,7,Nykøbing,N_Karina_Vincentz_Andersen,Karina Vincentz Andersen,Nyt Odsherred,227
+Odsherred,7,Nykøbing,N_Mikkel_Engly_Henriksen,Mikkel Engly Henriksen,Nyt Odsherred,80
+Odsherred,7,Nykøbing,N_Hanne_Hyldedahl_Caldron,Hanne Hyldedahl Caldron,Nyt Odsherred,33
+Odsherred,7,Nykøbing,N_Anders_Munch_Søndergaard,Anders Munch Søndergaard,Nyt Odsherred,4
+Odsherred,7,Nykøbing,N_Erik_Herskind_Dam_Winther,Erik Herskind Dam Winther,Nyt Odsherred,2
+Odsherred,7,Nykøbing,N_Ebbe_Mondrup,Ebbe Mondrup,Nyt Odsherred,3
+Odsherred,7,Nykøbing,N_Karsten_Ammann_Mikkelsen,Karsten Ammann Mikkelsen,Nyt Odsherred,11
+Odsherred,7,Nykøbing,N_Jesper_Kruuse_Jacobsen,Jesper Kruuse Jacobsen,Nyt Odsherred,8
+Odsherred,7,Nykøbing,N_Henrik_Riise_Graff_Søborg,Henrik Riise Graff Søborg,Nyt Odsherred,2
+Odsherred,7,Nykøbing,N_Johnny_Edvard_Kristensen,Johnny Edvard Kristensen,Nyt Odsherred,1
+Odsherred,7,Nykøbing,N_Dorte_Holm_Hansen,Dorte Holm Hansen,Nyt Odsherred,2
+Odsherred,7,Nykøbing,N_Søren_Frank_Martin_Jakobsen,Søren Frank Martin Jakobsen,Nyt Odsherred,0
+Odsherred,7,Nykøbing,N_Niels_Helmer_Askholm,Niels Helmer Askholm,Nyt Odsherred,0
+Odsherred,7,Nykøbing,N_Allan_Thorgny_Gehlsen,Allan Thorgny Gehlsen,Nyt Odsherred,0
+Odsherred,7,Nykøbing,N_Haider_Abdelrahman_Jammou,Haider Abdelrahman Jammou,Nyt Odsherred,8
+Odsherred,7,Nykøbing,O_Listestemmer,Listestemmer,Dansk Folkeparti,56
+Odsherred,7,Nykøbing,O_Julie_Larsen_Jacobsen,Julie Larsen Jacobsen,Dansk Folkeparti,75
+Odsherred,7,Nykøbing,O_Kim_Buurskov,Kim Buurskov,Dansk Folkeparti,9
+Odsherred,7,Nykøbing,O_Paw_Pedersen,Paw Pedersen,Dansk Folkeparti,30
+Odsherred,7,Nykøbing,O_Bernt_Nielsen,Bernt Nielsen,Dansk Folkeparti,1
+Odsherred,7,Nykøbing,O_Steen_Trøjmer,Steen Trøjmer,Dansk Folkeparti,3
+Odsherred,7,Nykøbing,O_Louise_Løvkvist_Kanstrup,Louise Løvkvist Kanstrup,Dansk Folkeparti,9
+Odsherred,7,Nykøbing,O_Sarah_Liv_Weinreich_Demuth-Iversen,Sarah Liv Weinreich Demuth-Iversen,Dansk Folkeparti,2
+Odsherred,7,Nykøbing,O_Kasper_Egelund_Ravn,Kasper Egelund Ravn,Dansk Folkeparti,7
+Odsherred,7,Nykøbing,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",68
+Odsherred,7,Nykøbing,V_Hanne_Grethe_Pigonska_Hansen,Hanne Grethe Pigonska Hansen,"Venstre, Danmarks Liberale Parti",112
+Odsherred,7,Nykøbing,V_Niels_Skovgaard_Nicolaisen,Niels Skovgaard Nicolaisen,"Venstre, Danmarks Liberale Parti",40
+Odsherred,7,Nykøbing,V_Mathias_K_Mousten_Hansen,Mathias K Mousten Hansen,"Venstre, Danmarks Liberale Parti",17
+Odsherred,7,Nykøbing,V_Lene_Rosendal_Mortensen,Lene Rosendal Mortensen,"Venstre, Danmarks Liberale Parti",6
+Odsherred,7,Nykøbing,V_Annette_Schjermer_Voss_Møller,Annette Schjermer Voss Møller,"Venstre, Danmarks Liberale Parti",8
+Odsherred,7,Nykøbing,V_Pia_Gade,Pia Gade,"Venstre, Danmarks Liberale Parti",27
+Odsherred,7,Nykøbing,V_Finn_Hallberg,Finn Hallberg,"Venstre, Danmarks Liberale Parti",12
+Odsherred,7,Nykøbing,V_Per_Skou_Larsen,Per Skou Larsen,"Venstre, Danmarks Liberale Parti",4
+Odsherred,7,Nykøbing,V_Asger_Dirch_Poulsen,Asger Dirch Poulsen,"Venstre, Danmarks Liberale Parti",3
+Odsherred,7,Nykøbing,V_Marina_Guldberg_Eggers-Krag,Marina Guldberg Eggers-Krag,"Venstre, Danmarks Liberale Parti",6
+Odsherred,7,Nykøbing,V_Henrik_Bøje_Nielsen,Henrik Bøje Nielsen,"Venstre, Danmarks Liberale Parti",6
+Odsherred,7,Nykøbing,V_Christian_Baadsgaard_Jentzsch,Christian Baadsgaard Jentzsch,"Venstre, Danmarks Liberale Parti",1
+Odsherred,7,Nykøbing,V_Annelise_Hansen,Annelise Hansen,"Venstre, Danmarks Liberale Parti",4
+Odsherred,7,Nykøbing,V_Lucas_S_Ellegaard-Hansen_Baquero,Lucas S Ellegaard-Hansen Baquero,"Venstre, Danmarks Liberale Parti",8
+Odsherred,7,Nykøbing,V_Gunnar_Erik_Frandsen,Gunnar Erik Frandsen,"Venstre, Danmarks Liberale Parti",0
+Odsherred,7,Nykøbing,V_Finn_Clausen_Kjær,Finn Clausen Kjær,"Venstre, Danmarks Liberale Parti",0
+Odsherred,7,Nykøbing,V_Palle_Henrik_August_A_Schjerning,Palle Henrik August A Schjerning,"Venstre, Danmarks Liberale Parti",7
+Odsherred,7,Nykøbing,V_Ketty_Viola_Rasmine_Hansen,Ketty Viola Rasmine Hansen,"Venstre, Danmarks Liberale Parti",0
+Odsherred,7,Nykøbing,Æ_Listestemmer,Listestemmer,Frihedslisten,4
+Odsherred,7,Nykøbing,Æ_Lisa_Sofia_Larsson,Lisa Sofia Larsson,Frihedslisten,13
+Odsherred,7,Nykøbing,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,59
+Odsherred,7,Nykøbing,Ø_Amalie_Petersen,Amalie Petersen,Enhedslisten - De Rød-Grønne,48
+Odsherred,7,Nykøbing,Ø_Jeppe_Lynge_Ravn,Jeppe Lynge Ravn,Enhedslisten - De Rød-Grønne,7
+Odsherred,7,Nykøbing,Ø_Kim_R_Mariegaard,Kim R Mariegaard,Enhedslisten - De Rød-Grønne,16
+Odsherred,7,Nykøbing,Ø_Sara_Sofie_Paninguak_Lynge_Ravn,Sara Sofie Paninguak Lynge Ravn,Enhedslisten - De Rød-Grønne,11
+Odsherred,8,Rørvig,A_Listestemmer,Listestemmer,Socialdemokratiet,61
+Odsherred,8,Rørvig,A_Thomas_Strecker_Lerbak_Adelskov,Thomas Strecker Lerbak Adelskov,Socialdemokratiet,179
+Odsherred,8,Rørvig,A_Allan_Andersen,Allan Andersen,Socialdemokratiet,8
+Odsherred,8,Rørvig,A_Anna_Louise_Hestbek_Attermann,Anna Louise Hestbek Attermann,Socialdemokratiet,11
+Odsherred,8,Rørvig,A_Lis_Ingemann_Christensen,Lis Ingemann Christensen,Socialdemokratiet,47
+Odsherred,8,Rørvig,A_Søren_With,Søren With,Socialdemokratiet,3
+Odsherred,8,Rørvig,A_Michael_Kjeldgaard,Michael Kjeldgaard,Socialdemokratiet,7
+Odsherred,8,Rørvig,A_Felex_Birger_Pedersen,Felex Birger Pedersen,Socialdemokratiet,5
+Odsherred,8,Rørvig,A_Per_Kragh,Per Kragh,Socialdemokratiet,3
+Odsherred,8,Rørvig,A_Jette_Sloth_Nielsen,Jette Sloth Nielsen,Socialdemokratiet,3
+Odsherred,8,Rørvig,A_Thomas_Klint_Martinsen,Thomas Klint Martinsen,Socialdemokratiet,0
+Odsherred,8,Rørvig,A_Martin_Lynggaard,Martin Lynggaard,Socialdemokratiet,11
+Odsherred,8,Rørvig,A_Kristian_Petersen,Kristian Petersen,Socialdemokratiet,1
+Odsherred,8,Rørvig,A_Bo_Bøge_Jensen,Bo Bøge Jensen,Socialdemokratiet,1
+Odsherred,8,Rørvig,A_Dogan_Yurdakul,Dogan Yurdakul,Socialdemokratiet,4
+Odsherred,8,Rørvig,A_Nichlas_René_van_Weezel,Nichlas René van Weezel,Socialdemokratiet,0
+Odsherred,8,Rørvig,A_Leif_Palle_Egholm,Leif Palle Egholm,Socialdemokratiet,5
+Odsherred,8,Rørvig,A_Helena_Mosskov_Starcke,Helena Mosskov Starcke,Socialdemokratiet,0
+Odsherred,8,Rørvig,B_Listestemmer,Listestemmer,Radikale Venstre,8
+Odsherred,8,Rørvig,B_Thomas_Skovgaard_Nicolaisen,Thomas Skovgaard Nicolaisen,Radikale Venstre,19
+Odsherred,8,Rørvig,B_Søren_Myrup_Pedersen,Søren Myrup Pedersen,Radikale Venstre,1
+Odsherred,8,Rørvig,B_Anne_Marie_Revsbech_Møller,Anne Marie Revsbech Møller,Radikale Venstre,1
+Odsherred,8,Rørvig,B_Anders_Holst,Anders Holst,Radikale Venstre,18
+Odsherred,8,Rørvig,B_Christian_Scheel_Vandel,Christian Scheel Vandel,Radikale Venstre,1
+Odsherred,8,Rørvig,B_Dorthe_E_Luccat-Christophersen,Dorthe E Luccat-Christophersen,Radikale Venstre,2
+Odsherred,8,Rørvig,B_Thomas_Martin_Elkjær_Smedebøl,Thomas Martin Elkjær Smedebøl,Radikale Venstre,0
+Odsherred,8,Rørvig,B_Mie_Marie_Hyldegård_Jensen,Mie Marie Hyldegård Jensen,Radikale Venstre,1
+Odsherred,8,Rørvig,B_Marianne_Fritzen,Marianne Fritzen,Radikale Venstre,1
+Odsherred,8,Rørvig,B_Allan_Haslund,Allan Haslund,Radikale Venstre,0
+Odsherred,8,Rørvig,B_Kate_Dyring_Jensen,Kate Dyring Jensen,Radikale Venstre,0
+Odsherred,8,Rørvig,B_Jørgen_Kurt_Gylling,Jørgen Kurt Gylling,Radikale Venstre,0
+Odsherred,8,Rørvig,B_Marianne_Østergaard,Marianne Østergaard,Radikale Venstre,0
+Odsherred,8,Rørvig,B_Poul_Erik_Pedersen,Poul Erik Pedersen,Radikale Venstre,0
+Odsherred,8,Rørvig,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,25
+Odsherred,8,Rørvig,C_Claus_Kenneth_Starup,Claus Kenneth Starup,Det Konservative Folkeparti,19
+Odsherred,8,Rørvig,C_Ulla_Margrethe_Hansen,Ulla Margrethe Hansen,Det Konservative Folkeparti,4
+Odsherred,8,Rørvig,C_Peter_Michel_Horsted_Hansen,Peter Michel Horsted Hansen,Det Konservative Folkeparti,1
+Odsherred,8,Rørvig,C_Kenneth_Bakke,Kenneth Bakke,Det Konservative Folkeparti,1
+Odsherred,8,Rørvig,C_J_Steen_Dirch_Poulsen,J Steen Dirch Poulsen,Det Konservative Folkeparti,2
+Odsherred,8,Rørvig,C_Karen_Marianne_Poulsen,Karen Marianne Poulsen,Det Konservative Folkeparti,22
+Odsherred,8,Rørvig,C_Mogens_Eddy_Møllegaard,Mogens Eddy Møllegaard,Det Konservative Folkeparti,0
+Odsherred,8,Rørvig,D_Listestemmer,Listestemmer,Nye Borgerlige,7
+Odsherred,8,Rørvig,D_Maria_Liv_Holck,Maria Liv Holck,Nye Borgerlige,13
+Odsherred,8,Rørvig,D_Jesper_Høgedal,Jesper Høgedal,Nye Borgerlige,7
+Odsherred,8,Rørvig,D_Iina_Nete_Sølvssøe,Iina Nete Sølvssøe,Nye Borgerlige,1
+Odsherred,8,Rørvig,D_Henrik_Jørgen_Pohl,Henrik Jørgen Pohl,Nye Borgerlige,1
+Odsherred,8,Rørvig,D_Anders_Feldt_Lindh,Anders Feldt Lindh,Nye Borgerlige,2
+Odsherred,8,Rørvig,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,25
+Odsherred,8,Rørvig,F_Mette_Scharbau_Feenstra,Mette Scharbau Feenstra,SF - Socialistisk Folkeparti,37
+Odsherred,8,Rørvig,F_Torben_Kjeldsen,Torben Kjeldsen,SF - Socialistisk Folkeparti,18
+Odsherred,8,Rørvig,F_Arne_Nygaard_Mikkelsen,Arne Nygaard Mikkelsen,SF - Socialistisk Folkeparti,6
+Odsherred,8,Rørvig,F_Mogens_Stig_Møller,Mogens Stig Møller,SF - Socialistisk Folkeparti,0
+Odsherred,8,Rørvig,F_Frank_Buch,Frank Buch,SF - Socialistisk Folkeparti,0
+Odsherred,8,Rørvig,F_Gitte_Terp_Henriksen,Gitte Terp Henriksen,SF - Socialistisk Folkeparti,1
+Odsherred,8,Rørvig,F_Ulla_Feldthusen,Ulla Feldthusen,SF - Socialistisk Folkeparti,0
+Odsherred,8,Rørvig,F_Pia_Lone_Skydsgaard,Pia Lone Skydsgaard,SF - Socialistisk Folkeparti,3
+Odsherred,8,Rørvig,G_Listestemmer,Listestemmer,Veganerpartiet,3
+Odsherred,8,Rørvig,G_Jonas_Nikolaj_Dalmose,Jonas Nikolaj Dalmose,Veganerpartiet,5
+Odsherred,8,Rørvig,G_Tryggvi_Gudmundsson,Tryggvi Gudmundsson,Veganerpartiet,0
+Odsherred,8,Rørvig,I_Listestemmer,Listestemmer,Liberal Alliance,2
+Odsherred,8,Rørvig,I_Martin_Mosfeldt,Martin Mosfeldt,Liberal Alliance,1
+Odsherred,8,Rørvig,N_Listestemmer,Listestemmer,Nyt Odsherred,24
+Odsherred,8,Rørvig,N_Karina_Vincentz_Andersen,Karina Vincentz Andersen,Nyt Odsherred,68
+Odsherred,8,Rørvig,N_Mikkel_Engly_Henriksen,Mikkel Engly Henriksen,Nyt Odsherred,35
+Odsherred,8,Rørvig,N_Hanne_Hyldedahl_Caldron,Hanne Hyldedahl Caldron,Nyt Odsherred,9
+Odsherred,8,Rørvig,N_Anders_Munch_Søndergaard,Anders Munch Søndergaard,Nyt Odsherred,0
+Odsherred,8,Rørvig,N_Erik_Herskind_Dam_Winther,Erik Herskind Dam Winther,Nyt Odsherred,0
+Odsherred,8,Rørvig,N_Ebbe_Mondrup,Ebbe Mondrup,Nyt Odsherred,0
+Odsherred,8,Rørvig,N_Karsten_Ammann_Mikkelsen,Karsten Ammann Mikkelsen,Nyt Odsherred,1
+Odsherred,8,Rørvig,N_Jesper_Kruuse_Jacobsen,Jesper Kruuse Jacobsen,Nyt Odsherred,4
+Odsherred,8,Rørvig,N_Henrik_Riise_Graff_Søborg,Henrik Riise Graff Søborg,Nyt Odsherred,0
+Odsherred,8,Rørvig,N_Johnny_Edvard_Kristensen,Johnny Edvard Kristensen,Nyt Odsherred,1
+Odsherred,8,Rørvig,N_Dorte_Holm_Hansen,Dorte Holm Hansen,Nyt Odsherred,0
+Odsherred,8,Rørvig,N_Søren_Frank_Martin_Jakobsen,Søren Frank Martin Jakobsen,Nyt Odsherred,2
+Odsherred,8,Rørvig,N_Niels_Helmer_Askholm,Niels Helmer Askholm,Nyt Odsherred,0
+Odsherred,8,Rørvig,N_Allan_Thorgny_Gehlsen,Allan Thorgny Gehlsen,Nyt Odsherred,1
+Odsherred,8,Rørvig,N_Haider_Abdelrahman_Jammou,Haider Abdelrahman Jammou,Nyt Odsherred,0
+Odsherred,8,Rørvig,O_Listestemmer,Listestemmer,Dansk Folkeparti,13
+Odsherred,8,Rørvig,O_Julie_Larsen_Jacobsen,Julie Larsen Jacobsen,Dansk Folkeparti,12
+Odsherred,8,Rørvig,O_Kim_Buurskov,Kim Buurskov,Dansk Folkeparti,2
+Odsherred,8,Rørvig,O_Paw_Pedersen,Paw Pedersen,Dansk Folkeparti,9
+Odsherred,8,Rørvig,O_Bernt_Nielsen,Bernt Nielsen,Dansk Folkeparti,0
+Odsherred,8,Rørvig,O_Steen_Trøjmer,Steen Trøjmer,Dansk Folkeparti,0
+Odsherred,8,Rørvig,O_Louise_Løvkvist_Kanstrup,Louise Løvkvist Kanstrup,Dansk Folkeparti,2
+Odsherred,8,Rørvig,O_Sarah_Liv_Weinreich_Demuth-Iversen,Sarah Liv Weinreich Demuth-Iversen,Dansk Folkeparti,0
+Odsherred,8,Rørvig,O_Kasper_Egelund_Ravn,Kasper Egelund Ravn,Dansk Folkeparti,0
+Odsherred,8,Rørvig,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",28
+Odsherred,8,Rørvig,V_Hanne_Grethe_Pigonska_Hansen,Hanne Grethe Pigonska Hansen,"Venstre, Danmarks Liberale Parti",55
+Odsherred,8,Rørvig,V_Niels_Skovgaard_Nicolaisen,Niels Skovgaard Nicolaisen,"Venstre, Danmarks Liberale Parti",20
+Odsherred,8,Rørvig,V_Mathias_K_Mousten_Hansen,Mathias K Mousten Hansen,"Venstre, Danmarks Liberale Parti",6
+Odsherred,8,Rørvig,V_Lene_Rosendal_Mortensen,Lene Rosendal Mortensen,"Venstre, Danmarks Liberale Parti",2
+Odsherred,8,Rørvig,V_Annette_Schjermer_Voss_Møller,Annette Schjermer Voss Møller,"Venstre, Danmarks Liberale Parti",2
+Odsherred,8,Rørvig,V_Pia_Gade,Pia Gade,"Venstre, Danmarks Liberale Parti",26
+Odsherred,8,Rørvig,V_Finn_Hallberg,Finn Hallberg,"Venstre, Danmarks Liberale Parti",4
+Odsherred,8,Rørvig,V_Per_Skou_Larsen,Per Skou Larsen,"Venstre, Danmarks Liberale Parti",1
+Odsherred,8,Rørvig,V_Asger_Dirch_Poulsen,Asger Dirch Poulsen,"Venstre, Danmarks Liberale Parti",1
+Odsherred,8,Rørvig,V_Marina_Guldberg_Eggers-Krag,Marina Guldberg Eggers-Krag,"Venstre, Danmarks Liberale Parti",2
+Odsherred,8,Rørvig,V_Henrik_Bøje_Nielsen,Henrik Bøje Nielsen,"Venstre, Danmarks Liberale Parti",3
+Odsherred,8,Rørvig,V_Christian_Baadsgaard_Jentzsch,Christian Baadsgaard Jentzsch,"Venstre, Danmarks Liberale Parti",0
+Odsherred,8,Rørvig,V_Annelise_Hansen,Annelise Hansen,"Venstre, Danmarks Liberale Parti",1
+Odsherred,8,Rørvig,V_Lucas_S_Ellegaard-Hansen_Baquero,Lucas S Ellegaard-Hansen Baquero,"Venstre, Danmarks Liberale Parti",2
+Odsherred,8,Rørvig,V_Gunnar_Erik_Frandsen,Gunnar Erik Frandsen,"Venstre, Danmarks Liberale Parti",0
+Odsherred,8,Rørvig,V_Finn_Clausen_Kjær,Finn Clausen Kjær,"Venstre, Danmarks Liberale Parti",0
+Odsherred,8,Rørvig,V_Palle_Henrik_August_A_Schjerning,Palle Henrik August A Schjerning,"Venstre, Danmarks Liberale Parti",0
+Odsherred,8,Rørvig,V_Ketty_Viola_Rasmine_Hansen,Ketty Viola Rasmine Hansen,"Venstre, Danmarks Liberale Parti",1
+Odsherred,8,Rørvig,Æ_Listestemmer,Listestemmer,Frihedslisten,0
+Odsherred,8,Rørvig,Æ_Lisa_Sofia_Larsson,Lisa Sofia Larsson,Frihedslisten,0
+Odsherred,8,Rørvig,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,31
+Odsherred,8,Rørvig,Ø_Amalie_Petersen,Amalie Petersen,Enhedslisten - De Rød-Grønne,30
+Odsherred,8,Rørvig,Ø_Jeppe_Lynge_Ravn,Jeppe Lynge Ravn,Enhedslisten - De Rød-Grønne,0
+Odsherred,8,Rørvig,Ø_Kim_R_Mariegaard,Kim R Mariegaard,Enhedslisten - De Rød-Grønne,5
+Odsherred,8,Rørvig,Ø_Sara_Sofie_Paninguak_Lynge_Ravn,Sara Sofie Paninguak Lynge Ravn,Enhedslisten - De Rød-Grønne,7
+Odsherred,10,Egebjerg,A_Listestemmer,Listestemmer,Socialdemokratiet,44
+Odsherred,10,Egebjerg,A_Thomas_Strecker_Lerbak_Adelskov,Thomas Strecker Lerbak Adelskov,Socialdemokratiet,105
+Odsherred,10,Egebjerg,A_Allan_Andersen,Allan Andersen,Socialdemokratiet,8
+Odsherred,10,Egebjerg,A_Anna_Louise_Hestbek_Attermann,Anna Louise Hestbek Attermann,Socialdemokratiet,5
+Odsherred,10,Egebjerg,A_Lis_Ingemann_Christensen,Lis Ingemann Christensen,Socialdemokratiet,8
+Odsherred,10,Egebjerg,A_Søren_With,Søren With,Socialdemokratiet,4
+Odsherred,10,Egebjerg,A_Michael_Kjeldgaard,Michael Kjeldgaard,Socialdemokratiet,2
+Odsherred,10,Egebjerg,A_Felex_Birger_Pedersen,Felex Birger Pedersen,Socialdemokratiet,5
+Odsherred,10,Egebjerg,A_Per_Kragh,Per Kragh,Socialdemokratiet,31
+Odsherred,10,Egebjerg,A_Jette_Sloth_Nielsen,Jette Sloth Nielsen,Socialdemokratiet,3
+Odsherred,10,Egebjerg,A_Thomas_Klint_Martinsen,Thomas Klint Martinsen,Socialdemokratiet,4
+Odsherred,10,Egebjerg,A_Martin_Lynggaard,Martin Lynggaard,Socialdemokratiet,2
+Odsherred,10,Egebjerg,A_Kristian_Petersen,Kristian Petersen,Socialdemokratiet,0
+Odsherred,10,Egebjerg,A_Bo_Bøge_Jensen,Bo Bøge Jensen,Socialdemokratiet,3
+Odsherred,10,Egebjerg,A_Dogan_Yurdakul,Dogan Yurdakul,Socialdemokratiet,2
+Odsherred,10,Egebjerg,A_Nichlas_René_van_Weezel,Nichlas René van Weezel,Socialdemokratiet,5
+Odsherred,10,Egebjerg,A_Leif_Palle_Egholm,Leif Palle Egholm,Socialdemokratiet,4
+Odsherred,10,Egebjerg,A_Helena_Mosskov_Starcke,Helena Mosskov Starcke,Socialdemokratiet,2
+Odsherred,10,Egebjerg,B_Listestemmer,Listestemmer,Radikale Venstre,6
+Odsherred,10,Egebjerg,B_Thomas_Skovgaard_Nicolaisen,Thomas Skovgaard Nicolaisen,Radikale Venstre,28
+Odsherred,10,Egebjerg,B_Søren_Myrup_Pedersen,Søren Myrup Pedersen,Radikale Venstre,5
+Odsherred,10,Egebjerg,B_Anne_Marie_Revsbech_Møller,Anne Marie Revsbech Møller,Radikale Venstre,4
+Odsherred,10,Egebjerg,B_Anders_Holst,Anders Holst,Radikale Venstre,1
+Odsherred,10,Egebjerg,B_Christian_Scheel_Vandel,Christian Scheel Vandel,Radikale Venstre,2
+Odsherred,10,Egebjerg,B_Dorthe_E_Luccat-Christophersen,Dorthe E Luccat-Christophersen,Radikale Venstre,1
+Odsherred,10,Egebjerg,B_Thomas_Martin_Elkjær_Smedebøl,Thomas Martin Elkjær Smedebøl,Radikale Venstre,2
+Odsherred,10,Egebjerg,B_Mie_Marie_Hyldegård_Jensen,Mie Marie Hyldegård Jensen,Radikale Venstre,1
+Odsherred,10,Egebjerg,B_Marianne_Fritzen,Marianne Fritzen,Radikale Venstre,3
+Odsherred,10,Egebjerg,B_Allan_Haslund,Allan Haslund,Radikale Venstre,0
+Odsherred,10,Egebjerg,B_Kate_Dyring_Jensen,Kate Dyring Jensen,Radikale Venstre,1
+Odsherred,10,Egebjerg,B_Jørgen_Kurt_Gylling,Jørgen Kurt Gylling,Radikale Venstre,0
+Odsherred,10,Egebjerg,B_Marianne_Østergaard,Marianne Østergaard,Radikale Venstre,1
+Odsherred,10,Egebjerg,B_Poul_Erik_Pedersen,Poul Erik Pedersen,Radikale Venstre,0
+Odsherred,10,Egebjerg,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,17
+Odsherred,10,Egebjerg,C_Claus_Kenneth_Starup,Claus Kenneth Starup,Det Konservative Folkeparti,5
+Odsherred,10,Egebjerg,C_Ulla_Margrethe_Hansen,Ulla Margrethe Hansen,Det Konservative Folkeparti,6
+Odsherred,10,Egebjerg,C_Peter_Michel_Horsted_Hansen,Peter Michel Horsted Hansen,Det Konservative Folkeparti,1
+Odsherred,10,Egebjerg,C_Kenneth_Bakke,Kenneth Bakke,Det Konservative Folkeparti,2
+Odsherred,10,Egebjerg,C_J_Steen_Dirch_Poulsen,J Steen Dirch Poulsen,Det Konservative Folkeparti,0
+Odsherred,10,Egebjerg,C_Karen_Marianne_Poulsen,Karen Marianne Poulsen,Det Konservative Folkeparti,0
+Odsherred,10,Egebjerg,C_Mogens_Eddy_Møllegaard,Mogens Eddy Møllegaard,Det Konservative Folkeparti,1
+Odsherred,10,Egebjerg,D_Listestemmer,Listestemmer,Nye Borgerlige,19
+Odsherred,10,Egebjerg,D_Maria_Liv_Holck,Maria Liv Holck,Nye Borgerlige,29
+Odsherred,10,Egebjerg,D_Jesper_Høgedal,Jesper Høgedal,Nye Borgerlige,8
+Odsherred,10,Egebjerg,D_Iina_Nete_Sølvssøe,Iina Nete Sølvssøe,Nye Borgerlige,1
+Odsherred,10,Egebjerg,D_Henrik_Jørgen_Pohl,Henrik Jørgen Pohl,Nye Borgerlige,2
+Odsherred,10,Egebjerg,D_Anders_Feldt_Lindh,Anders Feldt Lindh,Nye Borgerlige,2
+Odsherred,10,Egebjerg,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,11
+Odsherred,10,Egebjerg,F_Mette_Scharbau_Feenstra,Mette Scharbau Feenstra,SF - Socialistisk Folkeparti,32
+Odsherred,10,Egebjerg,F_Torben_Kjeldsen,Torben Kjeldsen,SF - Socialistisk Folkeparti,12
+Odsherred,10,Egebjerg,F_Arne_Nygaard_Mikkelsen,Arne Nygaard Mikkelsen,SF - Socialistisk Folkeparti,9
+Odsherred,10,Egebjerg,F_Mogens_Stig_Møller,Mogens Stig Møller,SF - Socialistisk Folkeparti,2
+Odsherred,10,Egebjerg,F_Frank_Buch,Frank Buch,SF - Socialistisk Folkeparti,0
+Odsherred,10,Egebjerg,F_Gitte_Terp_Henriksen,Gitte Terp Henriksen,SF - Socialistisk Folkeparti,1
+Odsherred,10,Egebjerg,F_Ulla_Feldthusen,Ulla Feldthusen,SF - Socialistisk Folkeparti,0
+Odsherred,10,Egebjerg,F_Pia_Lone_Skydsgaard,Pia Lone Skydsgaard,SF - Socialistisk Folkeparti,5
+Odsherred,10,Egebjerg,G_Listestemmer,Listestemmer,Veganerpartiet,3
+Odsherred,10,Egebjerg,G_Jonas_Nikolaj_Dalmose,Jonas Nikolaj Dalmose,Veganerpartiet,4
+Odsherred,10,Egebjerg,G_Tryggvi_Gudmundsson,Tryggvi Gudmundsson,Veganerpartiet,2
+Odsherred,10,Egebjerg,I_Listestemmer,Listestemmer,Liberal Alliance,0
+Odsherred,10,Egebjerg,I_Martin_Mosfeldt,Martin Mosfeldt,Liberal Alliance,6
+Odsherred,10,Egebjerg,N_Listestemmer,Listestemmer,Nyt Odsherred,18
+Odsherred,10,Egebjerg,N_Karina_Vincentz_Andersen,Karina Vincentz Andersen,Nyt Odsherred,28
+Odsherred,10,Egebjerg,N_Mikkel_Engly_Henriksen,Mikkel Engly Henriksen,Nyt Odsherred,14
+Odsherred,10,Egebjerg,N_Hanne_Hyldedahl_Caldron,Hanne Hyldedahl Caldron,Nyt Odsherred,3
+Odsherred,10,Egebjerg,N_Anders_Munch_Søndergaard,Anders Munch Søndergaard,Nyt Odsherred,0
+Odsherred,10,Egebjerg,N_Erik_Herskind_Dam_Winther,Erik Herskind Dam Winther,Nyt Odsherred,0
+Odsherred,10,Egebjerg,N_Ebbe_Mondrup,Ebbe Mondrup,Nyt Odsherred,0
+Odsherred,10,Egebjerg,N_Karsten_Ammann_Mikkelsen,Karsten Ammann Mikkelsen,Nyt Odsherred,1
+Odsherred,10,Egebjerg,N_Jesper_Kruuse_Jacobsen,Jesper Kruuse Jacobsen,Nyt Odsherred,2
+Odsherred,10,Egebjerg,N_Henrik_Riise_Graff_Søborg,Henrik Riise Graff Søborg,Nyt Odsherred,1
+Odsherred,10,Egebjerg,N_Johnny_Edvard_Kristensen,Johnny Edvard Kristensen,Nyt Odsherred,1
+Odsherred,10,Egebjerg,N_Dorte_Holm_Hansen,Dorte Holm Hansen,Nyt Odsherred,0
+Odsherred,10,Egebjerg,N_Søren_Frank_Martin_Jakobsen,Søren Frank Martin Jakobsen,Nyt Odsherred,2
+Odsherred,10,Egebjerg,N_Niels_Helmer_Askholm,Niels Helmer Askholm,Nyt Odsherred,0
+Odsherred,10,Egebjerg,N_Allan_Thorgny_Gehlsen,Allan Thorgny Gehlsen,Nyt Odsherred,0
+Odsherred,10,Egebjerg,N_Haider_Abdelrahman_Jammou,Haider Abdelrahman Jammou,Nyt Odsherred,1
+Odsherred,10,Egebjerg,O_Listestemmer,Listestemmer,Dansk Folkeparti,17
+Odsherred,10,Egebjerg,O_Julie_Larsen_Jacobsen,Julie Larsen Jacobsen,Dansk Folkeparti,15
+Odsherred,10,Egebjerg,O_Kim_Buurskov,Kim Buurskov,Dansk Folkeparti,4
+Odsherred,10,Egebjerg,O_Paw_Pedersen,Paw Pedersen,Dansk Folkeparti,4
+Odsherred,10,Egebjerg,O_Bernt_Nielsen,Bernt Nielsen,Dansk Folkeparti,0
+Odsherred,10,Egebjerg,O_Steen_Trøjmer,Steen Trøjmer,Dansk Folkeparti,1
+Odsherred,10,Egebjerg,O_Louise_Løvkvist_Kanstrup,Louise Løvkvist Kanstrup,Dansk Folkeparti,2
+Odsherred,10,Egebjerg,O_Sarah_Liv_Weinreich_Demuth-Iversen,Sarah Liv Weinreich Demuth-Iversen,Dansk Folkeparti,3
+Odsherred,10,Egebjerg,O_Kasper_Egelund_Ravn,Kasper Egelund Ravn,Dansk Folkeparti,3
+Odsherred,10,Egebjerg,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",28
+Odsherred,10,Egebjerg,V_Hanne_Grethe_Pigonska_Hansen,Hanne Grethe Pigonska Hansen,"Venstre, Danmarks Liberale Parti",11
+Odsherred,10,Egebjerg,V_Niels_Skovgaard_Nicolaisen,Niels Skovgaard Nicolaisen,"Venstre, Danmarks Liberale Parti",6
+Odsherred,10,Egebjerg,V_Mathias_K_Mousten_Hansen,Mathias K Mousten Hansen,"Venstre, Danmarks Liberale Parti",72
+Odsherred,10,Egebjerg,V_Lene_Rosendal_Mortensen,Lene Rosendal Mortensen,"Venstre, Danmarks Liberale Parti",6
+Odsherred,10,Egebjerg,V_Annette_Schjermer_Voss_Møller,Annette Schjermer Voss Møller,"Venstre, Danmarks Liberale Parti",2
+Odsherred,10,Egebjerg,V_Pia_Gade,Pia Gade,"Venstre, Danmarks Liberale Parti",2
+Odsherred,10,Egebjerg,V_Finn_Hallberg,Finn Hallberg,"Venstre, Danmarks Liberale Parti",5
+Odsherred,10,Egebjerg,V_Per_Skou_Larsen,Per Skou Larsen,"Venstre, Danmarks Liberale Parti",1
+Odsherred,10,Egebjerg,V_Asger_Dirch_Poulsen,Asger Dirch Poulsen,"Venstre, Danmarks Liberale Parti",0
+Odsherred,10,Egebjerg,V_Marina_Guldberg_Eggers-Krag,Marina Guldberg Eggers-Krag,"Venstre, Danmarks Liberale Parti",5
+Odsherred,10,Egebjerg,V_Henrik_Bøje_Nielsen,Henrik Bøje Nielsen,"Venstre, Danmarks Liberale Parti",7
+Odsherred,10,Egebjerg,V_Christian_Baadsgaard_Jentzsch,Christian Baadsgaard Jentzsch,"Venstre, Danmarks Liberale Parti",5
+Odsherred,10,Egebjerg,V_Annelise_Hansen,Annelise Hansen,"Venstre, Danmarks Liberale Parti",0
+Odsherred,10,Egebjerg,V_Lucas_S_Ellegaard-Hansen_Baquero,Lucas S Ellegaard-Hansen Baquero,"Venstre, Danmarks Liberale Parti",2
+Odsherred,10,Egebjerg,V_Gunnar_Erik_Frandsen,Gunnar Erik Frandsen,"Venstre, Danmarks Liberale Parti",0
+Odsherred,10,Egebjerg,V_Finn_Clausen_Kjær,Finn Clausen Kjær,"Venstre, Danmarks Liberale Parti",0
+Odsherred,10,Egebjerg,V_Palle_Henrik_August_A_Schjerning,Palle Henrik August A Schjerning,"Venstre, Danmarks Liberale Parti",0
+Odsherred,10,Egebjerg,V_Ketty_Viola_Rasmine_Hansen,Ketty Viola Rasmine Hansen,"Venstre, Danmarks Liberale Parti",0
+Odsherred,10,Egebjerg,Æ_Listestemmer,Listestemmer,Frihedslisten,2
+Odsherred,10,Egebjerg,Æ_Lisa_Sofia_Larsson,Lisa Sofia Larsson,Frihedslisten,6
+Odsherred,10,Egebjerg,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,36
+Odsherred,10,Egebjerg,Ø_Amalie_Petersen,Amalie Petersen,Enhedslisten - De Rød-Grønne,49
+Odsherred,10,Egebjerg,Ø_Jeppe_Lynge_Ravn,Jeppe Lynge Ravn,Enhedslisten - De Rød-Grønne,6
+Odsherred,10,Egebjerg,Ø_Kim_R_Mariegaard,Kim R Mariegaard,Enhedslisten - De Rød-Grønne,5
+Odsherred,10,Egebjerg,Ø_Sara_Sofie_Paninguak_Lynge_Ravn,Sara Sofie Paninguak Lynge Ravn,Enhedslisten - De Rød-Grønne,12
+Odsherred,11,Højby,A_Listestemmer,Listestemmer,Socialdemokratiet,131
+Odsherred,11,Højby,A_Thomas_Strecker_Lerbak_Adelskov,Thomas Strecker Lerbak Adelskov,Socialdemokratiet,402
+Odsherred,11,Højby,A_Allan_Andersen,Allan Andersen,Socialdemokratiet,18
+Odsherred,11,Højby,A_Anna_Louise_Hestbek_Attermann,Anna Louise Hestbek Attermann,Socialdemokratiet,27
+Odsherred,11,Højby,A_Lis_Ingemann_Christensen,Lis Ingemann Christensen,Socialdemokratiet,10
+Odsherred,11,Højby,A_Søren_With,Søren With,Socialdemokratiet,18
+Odsherred,11,Højby,A_Michael_Kjeldgaard,Michael Kjeldgaard,Socialdemokratiet,9
+Odsherred,11,Højby,A_Felex_Birger_Pedersen,Felex Birger Pedersen,Socialdemokratiet,19
+Odsherred,11,Højby,A_Per_Kragh,Per Kragh,Socialdemokratiet,3
+Odsherred,11,Højby,A_Jette_Sloth_Nielsen,Jette Sloth Nielsen,Socialdemokratiet,14
+Odsherred,11,Højby,A_Thomas_Klint_Martinsen,Thomas Klint Martinsen,Socialdemokratiet,9
+Odsherred,11,Højby,A_Martin_Lynggaard,Martin Lynggaard,Socialdemokratiet,3
+Odsherred,11,Højby,A_Kristian_Petersen,Kristian Petersen,Socialdemokratiet,3
+Odsherred,11,Højby,A_Bo_Bøge_Jensen,Bo Bøge Jensen,Socialdemokratiet,3
+Odsherred,11,Højby,A_Dogan_Yurdakul,Dogan Yurdakul,Socialdemokratiet,12
+Odsherred,11,Højby,A_Nichlas_René_van_Weezel,Nichlas René van Weezel,Socialdemokratiet,0
+Odsherred,11,Højby,A_Leif_Palle_Egholm,Leif Palle Egholm,Socialdemokratiet,10
+Odsherred,11,Højby,A_Helena_Mosskov_Starcke,Helena Mosskov Starcke,Socialdemokratiet,3
+Odsherred,11,Højby,B_Listestemmer,Listestemmer,Radikale Venstre,21
+Odsherred,11,Højby,B_Thomas_Skovgaard_Nicolaisen,Thomas Skovgaard Nicolaisen,Radikale Venstre,191
+Odsherred,11,Højby,B_Søren_Myrup_Pedersen,Søren Myrup Pedersen,Radikale Venstre,4
+Odsherred,11,Højby,B_Anne_Marie_Revsbech_Møller,Anne Marie Revsbech Møller,Radikale Venstre,5
+Odsherred,11,Højby,B_Anders_Holst,Anders Holst,Radikale Venstre,0
+Odsherred,11,Højby,B_Christian_Scheel_Vandel,Christian Scheel Vandel,Radikale Venstre,2
+Odsherred,11,Højby,B_Dorthe_E_Luccat-Christophersen,Dorthe E Luccat-Christophersen,Radikale Venstre,7
+Odsherred,11,Højby,B_Thomas_Martin_Elkjær_Smedebøl,Thomas Martin Elkjær Smedebøl,Radikale Venstre,2
+Odsherred,11,Højby,B_Mie_Marie_Hyldegård_Jensen,Mie Marie Hyldegård Jensen,Radikale Venstre,2
+Odsherred,11,Højby,B_Marianne_Fritzen,Marianne Fritzen,Radikale Venstre,1
+Odsherred,11,Højby,B_Allan_Haslund,Allan Haslund,Radikale Venstre,0
+Odsherred,11,Højby,B_Kate_Dyring_Jensen,Kate Dyring Jensen,Radikale Venstre,2
+Odsherred,11,Højby,B_Jørgen_Kurt_Gylling,Jørgen Kurt Gylling,Radikale Venstre,2
+Odsherred,11,Højby,B_Marianne_Østergaard,Marianne Østergaard,Radikale Venstre,0
+Odsherred,11,Højby,B_Poul_Erik_Pedersen,Poul Erik Pedersen,Radikale Venstre,0
+Odsherred,11,Højby,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,49
+Odsherred,11,Højby,C_Claus_Kenneth_Starup,Claus Kenneth Starup,Det Konservative Folkeparti,24
+Odsherred,11,Højby,C_Ulla_Margrethe_Hansen,Ulla Margrethe Hansen,Det Konservative Folkeparti,7
+Odsherred,11,Højby,C_Peter_Michel_Horsted_Hansen,Peter Michel Horsted Hansen,Det Konservative Folkeparti,11
+Odsherred,11,Højby,C_Kenneth_Bakke,Kenneth Bakke,Det Konservative Folkeparti,8
+Odsherred,11,Højby,C_J_Steen_Dirch_Poulsen,J Steen Dirch Poulsen,Det Konservative Folkeparti,0
+Odsherred,11,Højby,C_Karen_Marianne_Poulsen,Karen Marianne Poulsen,Det Konservative Folkeparti,0
+Odsherred,11,Højby,C_Mogens_Eddy_Møllegaard,Mogens Eddy Møllegaard,Det Konservative Folkeparti,1
+Odsherred,11,Højby,D_Listestemmer,Listestemmer,Nye Borgerlige,31
+Odsherred,11,Højby,D_Maria_Liv_Holck,Maria Liv Holck,Nye Borgerlige,41
+Odsherred,11,Højby,D_Jesper_Høgedal,Jesper Høgedal,Nye Borgerlige,16
+Odsherred,11,Højby,D_Iina_Nete_Sølvssøe,Iina Nete Sølvssøe,Nye Borgerlige,1
+Odsherred,11,Højby,D_Henrik_Jørgen_Pohl,Henrik Jørgen Pohl,Nye Borgerlige,0
+Odsherred,11,Højby,D_Anders_Feldt_Lindh,Anders Feldt Lindh,Nye Borgerlige,3
+Odsherred,11,Højby,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,23
+Odsherred,11,Højby,F_Mette_Scharbau_Feenstra,Mette Scharbau Feenstra,SF - Socialistisk Folkeparti,53
+Odsherred,11,Højby,F_Torben_Kjeldsen,Torben Kjeldsen,SF - Socialistisk Folkeparti,11
+Odsherred,11,Højby,F_Arne_Nygaard_Mikkelsen,Arne Nygaard Mikkelsen,SF - Socialistisk Folkeparti,2
+Odsherred,11,Højby,F_Mogens_Stig_Møller,Mogens Stig Møller,SF - Socialistisk Folkeparti,4
+Odsherred,11,Højby,F_Frank_Buch,Frank Buch,SF - Socialistisk Folkeparti,2
+Odsherred,11,Højby,F_Gitte_Terp_Henriksen,Gitte Terp Henriksen,SF - Socialistisk Folkeparti,2
+Odsherred,11,Højby,F_Ulla_Feldthusen,Ulla Feldthusen,SF - Socialistisk Folkeparti,0
+Odsherred,11,Højby,F_Pia_Lone_Skydsgaard,Pia Lone Skydsgaard,SF - Socialistisk Folkeparti,1
+Odsherred,11,Højby,G_Listestemmer,Listestemmer,Veganerpartiet,7
+Odsherred,11,Højby,G_Jonas_Nikolaj_Dalmose,Jonas Nikolaj Dalmose,Veganerpartiet,13
+Odsherred,11,Højby,G_Tryggvi_Gudmundsson,Tryggvi Gudmundsson,Veganerpartiet,16
+Odsherred,11,Højby,I_Listestemmer,Listestemmer,Liberal Alliance,6
+Odsherred,11,Højby,I_Martin_Mosfeldt,Martin Mosfeldt,Liberal Alliance,3
+Odsherred,11,Højby,N_Listestemmer,Listestemmer,Nyt Odsherred,43
+Odsherred,11,Højby,N_Karina_Vincentz_Andersen,Karina Vincentz Andersen,Nyt Odsherred,87
+Odsherred,11,Højby,N_Mikkel_Engly_Henriksen,Mikkel Engly Henriksen,Nyt Odsherred,13
+Odsherred,11,Højby,N_Hanne_Hyldedahl_Caldron,Hanne Hyldedahl Caldron,Nyt Odsherred,16
+Odsherred,11,Højby,N_Anders_Munch_Søndergaard,Anders Munch Søndergaard,Nyt Odsherred,2
+Odsherred,11,Højby,N_Erik_Herskind_Dam_Winther,Erik Herskind Dam Winther,Nyt Odsherred,5
+Odsherred,11,Højby,N_Ebbe_Mondrup,Ebbe Mondrup,Nyt Odsherred,0
+Odsherred,11,Højby,N_Karsten_Ammann_Mikkelsen,Karsten Ammann Mikkelsen,Nyt Odsherred,5
+Odsherred,11,Højby,N_Jesper_Kruuse_Jacobsen,Jesper Kruuse Jacobsen,Nyt Odsherred,5
+Odsherred,11,Højby,N_Henrik_Riise_Graff_Søborg,Henrik Riise Graff Søborg,Nyt Odsherred,1
+Odsherred,11,Højby,N_Johnny_Edvard_Kristensen,Johnny Edvard Kristensen,Nyt Odsherred,1
+Odsherred,11,Højby,N_Dorte_Holm_Hansen,Dorte Holm Hansen,Nyt Odsherred,3
+Odsherred,11,Højby,N_Søren_Frank_Martin_Jakobsen,Søren Frank Martin Jakobsen,Nyt Odsherred,4
+Odsherred,11,Højby,N_Niels_Helmer_Askholm,Niels Helmer Askholm,Nyt Odsherred,1
+Odsherred,11,Højby,N_Allan_Thorgny_Gehlsen,Allan Thorgny Gehlsen,Nyt Odsherred,0
+Odsherred,11,Højby,N_Haider_Abdelrahman_Jammou,Haider Abdelrahman Jammou,Nyt Odsherred,0
+Odsherred,11,Højby,O_Listestemmer,Listestemmer,Dansk Folkeparti,43
+Odsherred,11,Højby,O_Julie_Larsen_Jacobsen,Julie Larsen Jacobsen,Dansk Folkeparti,68
+Odsherred,11,Højby,O_Kim_Buurskov,Kim Buurskov,Dansk Folkeparti,2
+Odsherred,11,Højby,O_Paw_Pedersen,Paw Pedersen,Dansk Folkeparti,7
+Odsherred,11,Højby,O_Bernt_Nielsen,Bernt Nielsen,Dansk Folkeparti,1
+Odsherred,11,Højby,O_Steen_Trøjmer,Steen Trøjmer,Dansk Folkeparti,1
+Odsherred,11,Højby,O_Louise_Løvkvist_Kanstrup,Louise Løvkvist Kanstrup,Dansk Folkeparti,4
+Odsherred,11,Højby,O_Sarah_Liv_Weinreich_Demuth-Iversen,Sarah Liv Weinreich Demuth-Iversen,Dansk Folkeparti,9
+Odsherred,11,Højby,O_Kasper_Egelund_Ravn,Kasper Egelund Ravn,Dansk Folkeparti,4
+Odsherred,11,Højby,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",70
+Odsherred,11,Højby,V_Hanne_Grethe_Pigonska_Hansen,Hanne Grethe Pigonska Hansen,"Venstre, Danmarks Liberale Parti",49
+Odsherred,11,Højby,V_Niels_Skovgaard_Nicolaisen,Niels Skovgaard Nicolaisen,"Venstre, Danmarks Liberale Parti",86
+Odsherred,11,Højby,V_Mathias_K_Mousten_Hansen,Mathias K Mousten Hansen,"Venstre, Danmarks Liberale Parti",11
+Odsherred,11,Højby,V_Lene_Rosendal_Mortensen,Lene Rosendal Mortensen,"Venstre, Danmarks Liberale Parti",6
+Odsherred,11,Højby,V_Annette_Schjermer_Voss_Møller,Annette Schjermer Voss Møller,"Venstre, Danmarks Liberale Parti",5
+Odsherred,11,Højby,V_Pia_Gade,Pia Gade,"Venstre, Danmarks Liberale Parti",17
+Odsherred,11,Højby,V_Finn_Hallberg,Finn Hallberg,"Venstre, Danmarks Liberale Parti",6
+Odsherred,11,Højby,V_Per_Skou_Larsen,Per Skou Larsen,"Venstre, Danmarks Liberale Parti",3
+Odsherred,11,Højby,V_Asger_Dirch_Poulsen,Asger Dirch Poulsen,"Venstre, Danmarks Liberale Parti",1
+Odsherred,11,Højby,V_Marina_Guldberg_Eggers-Krag,Marina Guldberg Eggers-Krag,"Venstre, Danmarks Liberale Parti",2
+Odsherred,11,Højby,V_Henrik_Bøje_Nielsen,Henrik Bøje Nielsen,"Venstre, Danmarks Liberale Parti",14
+Odsherred,11,Højby,V_Christian_Baadsgaard_Jentzsch,Christian Baadsgaard Jentzsch,"Venstre, Danmarks Liberale Parti",1
+Odsherred,11,Højby,V_Annelise_Hansen,Annelise Hansen,"Venstre, Danmarks Liberale Parti",0
+Odsherred,11,Højby,V_Lucas_S_Ellegaard-Hansen_Baquero,Lucas S Ellegaard-Hansen Baquero,"Venstre, Danmarks Liberale Parti",3
+Odsherred,11,Højby,V_Gunnar_Erik_Frandsen,Gunnar Erik Frandsen,"Venstre, Danmarks Liberale Parti",0
+Odsherred,11,Højby,V_Finn_Clausen_Kjær,Finn Clausen Kjær,"Venstre, Danmarks Liberale Parti",3
+Odsherred,11,Højby,V_Palle_Henrik_August_A_Schjerning,Palle Henrik August A Schjerning,"Venstre, Danmarks Liberale Parti",3
+Odsherred,11,Højby,V_Ketty_Viola_Rasmine_Hansen,Ketty Viola Rasmine Hansen,"Venstre, Danmarks Liberale Parti",0
+Odsherred,11,Højby,Æ_Listestemmer,Listestemmer,Frihedslisten,1
+Odsherred,11,Højby,Æ_Lisa_Sofia_Larsson,Lisa Sofia Larsson,Frihedslisten,13
+Odsherred,11,Højby,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,47
+Odsherred,11,Højby,Ø_Amalie_Petersen,Amalie Petersen,Enhedslisten - De Rød-Grønne,23
+Odsherred,11,Højby,Ø_Jeppe_Lynge_Ravn,Jeppe Lynge Ravn,Enhedslisten - De Rød-Grønne,5
+Odsherred,11,Højby,Ø_Kim_R_Mariegaard,Kim R Mariegaard,Enhedslisten - De Rød-Grønne,11
+Odsherred,11,Højby,Ø_Sara_Sofie_Paninguak_Lynge_Ravn,Sara Sofie Paninguak Lynge Ravn,Enhedslisten - De Rød-Grønne,11
+Odsherred,12,Lumsås,A_Listestemmer,Listestemmer,Socialdemokratiet,26
+Odsherred,12,Lumsås,A_Thomas_Strecker_Lerbak_Adelskov,Thomas Strecker Lerbak Adelskov,Socialdemokratiet,94
+Odsherred,12,Lumsås,A_Allan_Andersen,Allan Andersen,Socialdemokratiet,2
+Odsherred,12,Lumsås,A_Anna_Louise_Hestbek_Attermann,Anna Louise Hestbek Attermann,Socialdemokratiet,5
+Odsherred,12,Lumsås,A_Lis_Ingemann_Christensen,Lis Ingemann Christensen,Socialdemokratiet,2
+Odsherred,12,Lumsås,A_Søren_With,Søren With,Socialdemokratiet,2
+Odsherred,12,Lumsås,A_Michael_Kjeldgaard,Michael Kjeldgaard,Socialdemokratiet,2
+Odsherred,12,Lumsås,A_Felex_Birger_Pedersen,Felex Birger Pedersen,Socialdemokratiet,2
+Odsherred,12,Lumsås,A_Per_Kragh,Per Kragh,Socialdemokratiet,1
+Odsherred,12,Lumsås,A_Jette_Sloth_Nielsen,Jette Sloth Nielsen,Socialdemokratiet,5
+Odsherred,12,Lumsås,A_Thomas_Klint_Martinsen,Thomas Klint Martinsen,Socialdemokratiet,1
+Odsherred,12,Lumsås,A_Martin_Lynggaard,Martin Lynggaard,Socialdemokratiet,1
+Odsherred,12,Lumsås,A_Kristian_Petersen,Kristian Petersen,Socialdemokratiet,2
+Odsherred,12,Lumsås,A_Bo_Bøge_Jensen,Bo Bøge Jensen,Socialdemokratiet,2
+Odsherred,12,Lumsås,A_Dogan_Yurdakul,Dogan Yurdakul,Socialdemokratiet,0
+Odsherred,12,Lumsås,A_Nichlas_René_van_Weezel,Nichlas René van Weezel,Socialdemokratiet,0
+Odsherred,12,Lumsås,A_Leif_Palle_Egholm,Leif Palle Egholm,Socialdemokratiet,2
+Odsherred,12,Lumsås,A_Helena_Mosskov_Starcke,Helena Mosskov Starcke,Socialdemokratiet,1
+Odsherred,12,Lumsås,B_Listestemmer,Listestemmer,Radikale Venstre,2
+Odsherred,12,Lumsås,B_Thomas_Skovgaard_Nicolaisen,Thomas Skovgaard Nicolaisen,Radikale Venstre,32
+Odsherred,12,Lumsås,B_Søren_Myrup_Pedersen,Søren Myrup Pedersen,Radikale Venstre,1
+Odsherred,12,Lumsås,B_Anne_Marie_Revsbech_Møller,Anne Marie Revsbech Møller,Radikale Venstre,3
+Odsherred,12,Lumsås,B_Anders_Holst,Anders Holst,Radikale Venstre,0
+Odsherred,12,Lumsås,B_Christian_Scheel_Vandel,Christian Scheel Vandel,Radikale Venstre,1
+Odsherred,12,Lumsås,B_Dorthe_E_Luccat-Christophersen,Dorthe E Luccat-Christophersen,Radikale Venstre,2
+Odsherred,12,Lumsås,B_Thomas_Martin_Elkjær_Smedebøl,Thomas Martin Elkjær Smedebøl,Radikale Venstre,0
+Odsherred,12,Lumsås,B_Mie_Marie_Hyldegård_Jensen,Mie Marie Hyldegård Jensen,Radikale Venstre,1
+Odsherred,12,Lumsås,B_Marianne_Fritzen,Marianne Fritzen,Radikale Venstre,0
+Odsherred,12,Lumsås,B_Allan_Haslund,Allan Haslund,Radikale Venstre,0
+Odsherred,12,Lumsås,B_Kate_Dyring_Jensen,Kate Dyring Jensen,Radikale Venstre,1
+Odsherred,12,Lumsås,B_Jørgen_Kurt_Gylling,Jørgen Kurt Gylling,Radikale Venstre,0
+Odsherred,12,Lumsås,B_Marianne_Østergaard,Marianne Østergaard,Radikale Venstre,0
+Odsherred,12,Lumsås,B_Poul_Erik_Pedersen,Poul Erik Pedersen,Radikale Venstre,0
+Odsherred,12,Lumsås,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,9
+Odsherred,12,Lumsås,C_Claus_Kenneth_Starup,Claus Kenneth Starup,Det Konservative Folkeparti,4
+Odsherred,12,Lumsås,C_Ulla_Margrethe_Hansen,Ulla Margrethe Hansen,Det Konservative Folkeparti,2
+Odsherred,12,Lumsås,C_Peter_Michel_Horsted_Hansen,Peter Michel Horsted Hansen,Det Konservative Folkeparti,1
+Odsherred,12,Lumsås,C_Kenneth_Bakke,Kenneth Bakke,Det Konservative Folkeparti,0
+Odsherred,12,Lumsås,C_J_Steen_Dirch_Poulsen,J Steen Dirch Poulsen,Det Konservative Folkeparti,0
+Odsherred,12,Lumsås,C_Karen_Marianne_Poulsen,Karen Marianne Poulsen,Det Konservative Folkeparti,1
+Odsherred,12,Lumsås,C_Mogens_Eddy_Møllegaard,Mogens Eddy Møllegaard,Det Konservative Folkeparti,0
+Odsherred,12,Lumsås,D_Listestemmer,Listestemmer,Nye Borgerlige,7
+Odsherred,12,Lumsås,D_Maria_Liv_Holck,Maria Liv Holck,Nye Borgerlige,12
+Odsherred,12,Lumsås,D_Jesper_Høgedal,Jesper Høgedal,Nye Borgerlige,0
+Odsherred,12,Lumsås,D_Iina_Nete_Sølvssøe,Iina Nete Sølvssøe,Nye Borgerlige,0
+Odsherred,12,Lumsås,D_Henrik_Jørgen_Pohl,Henrik Jørgen Pohl,Nye Borgerlige,0
+Odsherred,12,Lumsås,D_Anders_Feldt_Lindh,Anders Feldt Lindh,Nye Borgerlige,1
+Odsherred,12,Lumsås,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,11
+Odsherred,12,Lumsås,F_Mette_Scharbau_Feenstra,Mette Scharbau Feenstra,SF - Socialistisk Folkeparti,9
+Odsherred,12,Lumsås,F_Torben_Kjeldsen,Torben Kjeldsen,SF - Socialistisk Folkeparti,3
+Odsherred,12,Lumsås,F_Arne_Nygaard_Mikkelsen,Arne Nygaard Mikkelsen,SF - Socialistisk Folkeparti,2
+Odsherred,12,Lumsås,F_Mogens_Stig_Møller,Mogens Stig Møller,SF - Socialistisk Folkeparti,0
+Odsherred,12,Lumsås,F_Frank_Buch,Frank Buch,SF - Socialistisk Folkeparti,1
+Odsherred,12,Lumsås,F_Gitte_Terp_Henriksen,Gitte Terp Henriksen,SF - Socialistisk Folkeparti,1
+Odsherred,12,Lumsås,F_Ulla_Feldthusen,Ulla Feldthusen,SF - Socialistisk Folkeparti,0
+Odsherred,12,Lumsås,F_Pia_Lone_Skydsgaard,Pia Lone Skydsgaard,SF - Socialistisk Folkeparti,1
+Odsherred,12,Lumsås,G_Listestemmer,Listestemmer,Veganerpartiet,1
+Odsherred,12,Lumsås,G_Jonas_Nikolaj_Dalmose,Jonas Nikolaj Dalmose,Veganerpartiet,0
+Odsherred,12,Lumsås,G_Tryggvi_Gudmundsson,Tryggvi Gudmundsson,Veganerpartiet,1
+Odsherred,12,Lumsås,I_Listestemmer,Listestemmer,Liberal Alliance,0
+Odsherred,12,Lumsås,I_Martin_Mosfeldt,Martin Mosfeldt,Liberal Alliance,3
+Odsherred,12,Lumsås,N_Listestemmer,Listestemmer,Nyt Odsherred,10
+Odsherred,12,Lumsås,N_Karina_Vincentz_Andersen,Karina Vincentz Andersen,Nyt Odsherred,13
+Odsherred,12,Lumsås,N_Mikkel_Engly_Henriksen,Mikkel Engly Henriksen,Nyt Odsherred,5
+Odsherred,12,Lumsås,N_Hanne_Hyldedahl_Caldron,Hanne Hyldedahl Caldron,Nyt Odsherred,10
+Odsherred,12,Lumsås,N_Anders_Munch_Søndergaard,Anders Munch Søndergaard,Nyt Odsherred,0
+Odsherred,12,Lumsås,N_Erik_Herskind_Dam_Winther,Erik Herskind Dam Winther,Nyt Odsherred,0
+Odsherred,12,Lumsås,N_Ebbe_Mondrup,Ebbe Mondrup,Nyt Odsherred,0
+Odsherred,12,Lumsås,N_Karsten_Ammann_Mikkelsen,Karsten Ammann Mikkelsen,Nyt Odsherred,0
+Odsherred,12,Lumsås,N_Jesper_Kruuse_Jacobsen,Jesper Kruuse Jacobsen,Nyt Odsherred,3
+Odsherred,12,Lumsås,N_Henrik_Riise_Graff_Søborg,Henrik Riise Graff Søborg,Nyt Odsherred,1
+Odsherred,12,Lumsås,N_Johnny_Edvard_Kristensen,Johnny Edvard Kristensen,Nyt Odsherred,0
+Odsherred,12,Lumsås,N_Dorte_Holm_Hansen,Dorte Holm Hansen,Nyt Odsherred,0
+Odsherred,12,Lumsås,N_Søren_Frank_Martin_Jakobsen,Søren Frank Martin Jakobsen,Nyt Odsherred,0
+Odsherred,12,Lumsås,N_Niels_Helmer_Askholm,Niels Helmer Askholm,Nyt Odsherred,0
+Odsherred,12,Lumsås,N_Allan_Thorgny_Gehlsen,Allan Thorgny Gehlsen,Nyt Odsherred,0
+Odsherred,12,Lumsås,N_Haider_Abdelrahman_Jammou,Haider Abdelrahman Jammou,Nyt Odsherred,1
+Odsherred,12,Lumsås,O_Listestemmer,Listestemmer,Dansk Folkeparti,6
+Odsherred,12,Lumsås,O_Julie_Larsen_Jacobsen,Julie Larsen Jacobsen,Dansk Folkeparti,8
+Odsherred,12,Lumsås,O_Kim_Buurskov,Kim Buurskov,Dansk Folkeparti,1
+Odsherred,12,Lumsås,O_Paw_Pedersen,Paw Pedersen,Dansk Folkeparti,0
+Odsherred,12,Lumsås,O_Bernt_Nielsen,Bernt Nielsen,Dansk Folkeparti,0
+Odsherred,12,Lumsås,O_Steen_Trøjmer,Steen Trøjmer,Dansk Folkeparti,0
+Odsherred,12,Lumsås,O_Louise_Løvkvist_Kanstrup,Louise Løvkvist Kanstrup,Dansk Folkeparti,2
+Odsherred,12,Lumsås,O_Sarah_Liv_Weinreich_Demuth-Iversen,Sarah Liv Weinreich Demuth-Iversen,Dansk Folkeparti,0
+Odsherred,12,Lumsås,O_Kasper_Egelund_Ravn,Kasper Egelund Ravn,Dansk Folkeparti,0
+Odsherred,12,Lumsås,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",10
+Odsherred,12,Lumsås,V_Hanne_Grethe_Pigonska_Hansen,Hanne Grethe Pigonska Hansen,"Venstre, Danmarks Liberale Parti",5
+Odsherred,12,Lumsås,V_Niels_Skovgaard_Nicolaisen,Niels Skovgaard Nicolaisen,"Venstre, Danmarks Liberale Parti",16
+Odsherred,12,Lumsås,V_Mathias_K_Mousten_Hansen,Mathias K Mousten Hansen,"Venstre, Danmarks Liberale Parti",5
+Odsherred,12,Lumsås,V_Lene_Rosendal_Mortensen,Lene Rosendal Mortensen,"Venstre, Danmarks Liberale Parti",2
+Odsherred,12,Lumsås,V_Annette_Schjermer_Voss_Møller,Annette Schjermer Voss Møller,"Venstre, Danmarks Liberale Parti",1
+Odsherred,12,Lumsås,V_Pia_Gade,Pia Gade,"Venstre, Danmarks Liberale Parti",1
+Odsherred,12,Lumsås,V_Finn_Hallberg,Finn Hallberg,"Venstre, Danmarks Liberale Parti",7
+Odsherred,12,Lumsås,V_Per_Skou_Larsen,Per Skou Larsen,"Venstre, Danmarks Liberale Parti",0
+Odsherred,12,Lumsås,V_Asger_Dirch_Poulsen,Asger Dirch Poulsen,"Venstre, Danmarks Liberale Parti",0
+Odsherred,12,Lumsås,V_Marina_Guldberg_Eggers-Krag,Marina Guldberg Eggers-Krag,"Venstre, Danmarks Liberale Parti",3
+Odsherred,12,Lumsås,V_Henrik_Bøje_Nielsen,Henrik Bøje Nielsen,"Venstre, Danmarks Liberale Parti",1
+Odsherred,12,Lumsås,V_Christian_Baadsgaard_Jentzsch,Christian Baadsgaard Jentzsch,"Venstre, Danmarks Liberale Parti",0
+Odsherred,12,Lumsås,V_Annelise_Hansen,Annelise Hansen,"Venstre, Danmarks Liberale Parti",2
+Odsherred,12,Lumsås,V_Lucas_S_Ellegaard-Hansen_Baquero,Lucas S Ellegaard-Hansen Baquero,"Venstre, Danmarks Liberale Parti",1
+Odsherred,12,Lumsås,V_Gunnar_Erik_Frandsen,Gunnar Erik Frandsen,"Venstre, Danmarks Liberale Parti",0
+Odsherred,12,Lumsås,V_Finn_Clausen_Kjær,Finn Clausen Kjær,"Venstre, Danmarks Liberale Parti",0
+Odsherred,12,Lumsås,V_Palle_Henrik_August_A_Schjerning,Palle Henrik August A Schjerning,"Venstre, Danmarks Liberale Parti",0
+Odsherred,12,Lumsås,V_Ketty_Viola_Rasmine_Hansen,Ketty Viola Rasmine Hansen,"Venstre, Danmarks Liberale Parti",1
+Odsherred,12,Lumsås,Æ_Listestemmer,Listestemmer,Frihedslisten,0
+Odsherred,12,Lumsås,Æ_Lisa_Sofia_Larsson,Lisa Sofia Larsson,Frihedslisten,4
+Odsherred,12,Lumsås,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,11
+Odsherred,12,Lumsås,Ø_Amalie_Petersen,Amalie Petersen,Enhedslisten - De Rød-Grønne,12
+Odsherred,12,Lumsås,Ø_Jeppe_Lynge_Ravn,Jeppe Lynge Ravn,Enhedslisten - De Rød-Grønne,0
+Odsherred,12,Lumsås,Ø_Kim_R_Mariegaard,Kim R Mariegaard,Enhedslisten - De Rød-Grønne,4
+Odsherred,12,Lumsås,Ø_Sara_Sofie_Paninguak_Lynge_Ravn,Sara Sofie Paninguak Lynge Ravn,Enhedslisten - De Rød-Grønne,4
+Odsherred,13,Nr. Asmindrup,A_Listestemmer,Listestemmer,Socialdemokratiet,30
+Odsherred,13,Nr. Asmindrup,A_Thomas_Strecker_Lerbak_Adelskov,Thomas Strecker Lerbak Adelskov,Socialdemokratiet,111
+Odsherred,13,Nr. Asmindrup,A_Allan_Andersen,Allan Andersen,Socialdemokratiet,7
+Odsherred,13,Nr. Asmindrup,A_Anna_Louise_Hestbek_Attermann,Anna Louise Hestbek Attermann,Socialdemokratiet,4
+Odsherred,13,Nr. Asmindrup,A_Lis_Ingemann_Christensen,Lis Ingemann Christensen,Socialdemokratiet,2
+Odsherred,13,Nr. Asmindrup,A_Søren_With,Søren With,Socialdemokratiet,7
+Odsherred,13,Nr. Asmindrup,A_Michael_Kjeldgaard,Michael Kjeldgaard,Socialdemokratiet,2
+Odsherred,13,Nr. Asmindrup,A_Felex_Birger_Pedersen,Felex Birger Pedersen,Socialdemokratiet,6
+Odsherred,13,Nr. Asmindrup,A_Per_Kragh,Per Kragh,Socialdemokratiet,1
+Odsherred,13,Nr. Asmindrup,A_Jette_Sloth_Nielsen,Jette Sloth Nielsen,Socialdemokratiet,2
+Odsherred,13,Nr. Asmindrup,A_Thomas_Klint_Martinsen,Thomas Klint Martinsen,Socialdemokratiet,2
+Odsherred,13,Nr. Asmindrup,A_Martin_Lynggaard,Martin Lynggaard,Socialdemokratiet,6
+Odsherred,13,Nr. Asmindrup,A_Kristian_Petersen,Kristian Petersen,Socialdemokratiet,0
+Odsherred,13,Nr. Asmindrup,A_Bo_Bøge_Jensen,Bo Bøge Jensen,Socialdemokratiet,1
+Odsherred,13,Nr. Asmindrup,A_Dogan_Yurdakul,Dogan Yurdakul,Socialdemokratiet,0
+Odsherred,13,Nr. Asmindrup,A_Nichlas_René_van_Weezel,Nichlas René van Weezel,Socialdemokratiet,0
+Odsherred,13,Nr. Asmindrup,A_Leif_Palle_Egholm,Leif Palle Egholm,Socialdemokratiet,5
+Odsherred,13,Nr. Asmindrup,A_Helena_Mosskov_Starcke,Helena Mosskov Starcke,Socialdemokratiet,0
+Odsherred,13,Nr. Asmindrup,B_Listestemmer,Listestemmer,Radikale Venstre,6
+Odsherred,13,Nr. Asmindrup,B_Thomas_Skovgaard_Nicolaisen,Thomas Skovgaard Nicolaisen,Radikale Venstre,28
+Odsherred,13,Nr. Asmindrup,B_Søren_Myrup_Pedersen,Søren Myrup Pedersen,Radikale Venstre,0
+Odsherred,13,Nr. Asmindrup,B_Anne_Marie_Revsbech_Møller,Anne Marie Revsbech Møller,Radikale Venstre,0
+Odsherred,13,Nr. Asmindrup,B_Anders_Holst,Anders Holst,Radikale Venstre,0
+Odsherred,13,Nr. Asmindrup,B_Christian_Scheel_Vandel,Christian Scheel Vandel,Radikale Venstre,0
+Odsherred,13,Nr. Asmindrup,B_Dorthe_E_Luccat-Christophersen,Dorthe E Luccat-Christophersen,Radikale Venstre,0
+Odsherred,13,Nr. Asmindrup,B_Thomas_Martin_Elkjær_Smedebøl,Thomas Martin Elkjær Smedebøl,Radikale Venstre,0
+Odsherred,13,Nr. Asmindrup,B_Mie_Marie_Hyldegård_Jensen,Mie Marie Hyldegård Jensen,Radikale Venstre,1
+Odsherred,13,Nr. Asmindrup,B_Marianne_Fritzen,Marianne Fritzen,Radikale Venstre,3
+Odsherred,13,Nr. Asmindrup,B_Allan_Haslund,Allan Haslund,Radikale Venstre,0
+Odsherred,13,Nr. Asmindrup,B_Kate_Dyring_Jensen,Kate Dyring Jensen,Radikale Venstre,1
+Odsherred,13,Nr. Asmindrup,B_Jørgen_Kurt_Gylling,Jørgen Kurt Gylling,Radikale Venstre,1
+Odsherred,13,Nr. Asmindrup,B_Marianne_Østergaard,Marianne Østergaard,Radikale Venstre,0
+Odsherred,13,Nr. Asmindrup,B_Poul_Erik_Pedersen,Poul Erik Pedersen,Radikale Venstre,1
+Odsherred,13,Nr. Asmindrup,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,7
+Odsherred,13,Nr. Asmindrup,C_Claus_Kenneth_Starup,Claus Kenneth Starup,Det Konservative Folkeparti,9
+Odsherred,13,Nr. Asmindrup,C_Ulla_Margrethe_Hansen,Ulla Margrethe Hansen,Det Konservative Folkeparti,8
+Odsherred,13,Nr. Asmindrup,C_Peter_Michel_Horsted_Hansen,Peter Michel Horsted Hansen,Det Konservative Folkeparti,2
+Odsherred,13,Nr. Asmindrup,C_Kenneth_Bakke,Kenneth Bakke,Det Konservative Folkeparti,4
+Odsherred,13,Nr. Asmindrup,C_J_Steen_Dirch_Poulsen,J Steen Dirch Poulsen,Det Konservative Folkeparti,1
+Odsherred,13,Nr. Asmindrup,C_Karen_Marianne_Poulsen,Karen Marianne Poulsen,Det Konservative Folkeparti,3
+Odsherred,13,Nr. Asmindrup,C_Mogens_Eddy_Møllegaard,Mogens Eddy Møllegaard,Det Konservative Folkeparti,1
+Odsherred,13,Nr. Asmindrup,D_Listestemmer,Listestemmer,Nye Borgerlige,8
+Odsherred,13,Nr. Asmindrup,D_Maria_Liv_Holck,Maria Liv Holck,Nye Borgerlige,15
+Odsherred,13,Nr. Asmindrup,D_Jesper_Høgedal,Jesper Høgedal,Nye Borgerlige,2
+Odsherred,13,Nr. Asmindrup,D_Iina_Nete_Sølvssøe,Iina Nete Sølvssøe,Nye Borgerlige,0
+Odsherred,13,Nr. Asmindrup,D_Henrik_Jørgen_Pohl,Henrik Jørgen Pohl,Nye Borgerlige,0
+Odsherred,13,Nr. Asmindrup,D_Anders_Feldt_Lindh,Anders Feldt Lindh,Nye Borgerlige,3
+Odsherred,13,Nr. Asmindrup,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,6
+Odsherred,13,Nr. Asmindrup,F_Mette_Scharbau_Feenstra,Mette Scharbau Feenstra,SF - Socialistisk Folkeparti,12
+Odsherred,13,Nr. Asmindrup,F_Torben_Kjeldsen,Torben Kjeldsen,SF - Socialistisk Folkeparti,3
+Odsherred,13,Nr. Asmindrup,F_Arne_Nygaard_Mikkelsen,Arne Nygaard Mikkelsen,SF - Socialistisk Folkeparti,1
+Odsherred,13,Nr. Asmindrup,F_Mogens_Stig_Møller,Mogens Stig Møller,SF - Socialistisk Folkeparti,0
+Odsherred,13,Nr. Asmindrup,F_Frank_Buch,Frank Buch,SF - Socialistisk Folkeparti,0
+Odsherred,13,Nr. Asmindrup,F_Gitte_Terp_Henriksen,Gitte Terp Henriksen,SF - Socialistisk Folkeparti,1
+Odsherred,13,Nr. Asmindrup,F_Ulla_Feldthusen,Ulla Feldthusen,SF - Socialistisk Folkeparti,0
+Odsherred,13,Nr. Asmindrup,F_Pia_Lone_Skydsgaard,Pia Lone Skydsgaard,SF - Socialistisk Folkeparti,0
+Odsherred,13,Nr. Asmindrup,G_Listestemmer,Listestemmer,Veganerpartiet,2
+Odsherred,13,Nr. Asmindrup,G_Jonas_Nikolaj_Dalmose,Jonas Nikolaj Dalmose,Veganerpartiet,1
+Odsherred,13,Nr. Asmindrup,G_Tryggvi_Gudmundsson,Tryggvi Gudmundsson,Veganerpartiet,1
+Odsherred,13,Nr. Asmindrup,I_Listestemmer,Listestemmer,Liberal Alliance,2
+Odsherred,13,Nr. Asmindrup,I_Martin_Mosfeldt,Martin Mosfeldt,Liberal Alliance,3
+Odsherred,13,Nr. Asmindrup,N_Listestemmer,Listestemmer,Nyt Odsherred,11
+Odsherred,13,Nr. Asmindrup,N_Karina_Vincentz_Andersen,Karina Vincentz Andersen,Nyt Odsherred,33
+Odsherred,13,Nr. Asmindrup,N_Mikkel_Engly_Henriksen,Mikkel Engly Henriksen,Nyt Odsherred,4
+Odsherred,13,Nr. Asmindrup,N_Hanne_Hyldedahl_Caldron,Hanne Hyldedahl Caldron,Nyt Odsherred,2
+Odsherred,13,Nr. Asmindrup,N_Anders_Munch_Søndergaard,Anders Munch Søndergaard,Nyt Odsherred,1
+Odsherred,13,Nr. Asmindrup,N_Erik_Herskind_Dam_Winther,Erik Herskind Dam Winther,Nyt Odsherred,0
+Odsherred,13,Nr. Asmindrup,N_Ebbe_Mondrup,Ebbe Mondrup,Nyt Odsherred,0
+Odsherred,13,Nr. Asmindrup,N_Karsten_Ammann_Mikkelsen,Karsten Ammann Mikkelsen,Nyt Odsherred,0
+Odsherred,13,Nr. Asmindrup,N_Jesper_Kruuse_Jacobsen,Jesper Kruuse Jacobsen,Nyt Odsherred,3
+Odsherred,13,Nr. Asmindrup,N_Henrik_Riise_Graff_Søborg,Henrik Riise Graff Søborg,Nyt Odsherred,0
+Odsherred,13,Nr. Asmindrup,N_Johnny_Edvard_Kristensen,Johnny Edvard Kristensen,Nyt Odsherred,4
+Odsherred,13,Nr. Asmindrup,N_Dorte_Holm_Hansen,Dorte Holm Hansen,Nyt Odsherred,0
+Odsherred,13,Nr. Asmindrup,N_Søren_Frank_Martin_Jakobsen,Søren Frank Martin Jakobsen,Nyt Odsherred,2
+Odsherred,13,Nr. Asmindrup,N_Niels_Helmer_Askholm,Niels Helmer Askholm,Nyt Odsherred,0
+Odsherred,13,Nr. Asmindrup,N_Allan_Thorgny_Gehlsen,Allan Thorgny Gehlsen,Nyt Odsherred,0
+Odsherred,13,Nr. Asmindrup,N_Haider_Abdelrahman_Jammou,Haider Abdelrahman Jammou,Nyt Odsherred,0
+Odsherred,13,Nr. Asmindrup,O_Listestemmer,Listestemmer,Dansk Folkeparti,15
+Odsherred,13,Nr. Asmindrup,O_Julie_Larsen_Jacobsen,Julie Larsen Jacobsen,Dansk Folkeparti,24
+Odsherred,13,Nr. Asmindrup,O_Kim_Buurskov,Kim Buurskov,Dansk Folkeparti,3
+Odsherred,13,Nr. Asmindrup,O_Paw_Pedersen,Paw Pedersen,Dansk Folkeparti,4
+Odsherred,13,Nr. Asmindrup,O_Bernt_Nielsen,Bernt Nielsen,Dansk Folkeparti,0
+Odsherred,13,Nr. Asmindrup,O_Steen_Trøjmer,Steen Trøjmer,Dansk Folkeparti,0
+Odsherred,13,Nr. Asmindrup,O_Louise_Løvkvist_Kanstrup,Louise Løvkvist Kanstrup,Dansk Folkeparti,0
+Odsherred,13,Nr. Asmindrup,O_Sarah_Liv_Weinreich_Demuth-Iversen,Sarah Liv Weinreich Demuth-Iversen,Dansk Folkeparti,0
+Odsherred,13,Nr. Asmindrup,O_Kasper_Egelund_Ravn,Kasper Egelund Ravn,Dansk Folkeparti,4
+Odsherred,13,Nr. Asmindrup,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",23
+Odsherred,13,Nr. Asmindrup,V_Hanne_Grethe_Pigonska_Hansen,Hanne Grethe Pigonska Hansen,"Venstre, Danmarks Liberale Parti",13
+Odsherred,13,Nr. Asmindrup,V_Niels_Skovgaard_Nicolaisen,Niels Skovgaard Nicolaisen,"Venstre, Danmarks Liberale Parti",4
+Odsherred,13,Nr. Asmindrup,V_Mathias_K_Mousten_Hansen,Mathias K Mousten Hansen,"Venstre, Danmarks Liberale Parti",7
+Odsherred,13,Nr. Asmindrup,V_Lene_Rosendal_Mortensen,Lene Rosendal Mortensen,"Venstre, Danmarks Liberale Parti",0
+Odsherred,13,Nr. Asmindrup,V_Annette_Schjermer_Voss_Møller,Annette Schjermer Voss Møller,"Venstre, Danmarks Liberale Parti",2
+Odsherred,13,Nr. Asmindrup,V_Pia_Gade,Pia Gade,"Venstre, Danmarks Liberale Parti",1
+Odsherred,13,Nr. Asmindrup,V_Finn_Hallberg,Finn Hallberg,"Venstre, Danmarks Liberale Parti",4
+Odsherred,13,Nr. Asmindrup,V_Per_Skou_Larsen,Per Skou Larsen,"Venstre, Danmarks Liberale Parti",0
+Odsherred,13,Nr. Asmindrup,V_Asger_Dirch_Poulsen,Asger Dirch Poulsen,"Venstre, Danmarks Liberale Parti",0
+Odsherred,13,Nr. Asmindrup,V_Marina_Guldberg_Eggers-Krag,Marina Guldberg Eggers-Krag,"Venstre, Danmarks Liberale Parti",3
+Odsherred,13,Nr. Asmindrup,V_Henrik_Bøje_Nielsen,Henrik Bøje Nielsen,"Venstre, Danmarks Liberale Parti",23
+Odsherred,13,Nr. Asmindrup,V_Christian_Baadsgaard_Jentzsch,Christian Baadsgaard Jentzsch,"Venstre, Danmarks Liberale Parti",0
+Odsherred,13,Nr. Asmindrup,V_Annelise_Hansen,Annelise Hansen,"Venstre, Danmarks Liberale Parti",0
+Odsherred,13,Nr. Asmindrup,V_Lucas_S_Ellegaard-Hansen_Baquero,Lucas S Ellegaard-Hansen Baquero,"Venstre, Danmarks Liberale Parti",1
+Odsherred,13,Nr. Asmindrup,V_Gunnar_Erik_Frandsen,Gunnar Erik Frandsen,"Venstre, Danmarks Liberale Parti",0
+Odsherred,13,Nr. Asmindrup,V_Finn_Clausen_Kjær,Finn Clausen Kjær,"Venstre, Danmarks Liberale Parti",0
+Odsherred,13,Nr. Asmindrup,V_Palle_Henrik_August_A_Schjerning,Palle Henrik August A Schjerning,"Venstre, Danmarks Liberale Parti",0
+Odsherred,13,Nr. Asmindrup,V_Ketty_Viola_Rasmine_Hansen,Ketty Viola Rasmine Hansen,"Venstre, Danmarks Liberale Parti",0
+Odsherred,13,Nr. Asmindrup,Æ_Listestemmer,Listestemmer,Frihedslisten,1
+Odsherred,13,Nr. Asmindrup,Æ_Lisa_Sofia_Larsson,Lisa Sofia Larsson,Frihedslisten,1
+Odsherred,13,Nr. Asmindrup,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,14
+Odsherred,13,Nr. Asmindrup,Ø_Amalie_Petersen,Amalie Petersen,Enhedslisten - De Rød-Grønne,18
+Odsherred,13,Nr. Asmindrup,Ø_Jeppe_Lynge_Ravn,Jeppe Lynge Ravn,Enhedslisten - De Rød-Grønne,3
+Odsherred,13,Nr. Asmindrup,Ø_Kim_R_Mariegaard,Kim R Mariegaard,Enhedslisten - De Rød-Grønne,1
+Odsherred,13,Nr. Asmindrup,Ø_Sara_Sofie_Paninguak_Lynge_Ravn,Sara Sofie Paninguak Lynge Ravn,Enhedslisten - De Rød-Grønne,10

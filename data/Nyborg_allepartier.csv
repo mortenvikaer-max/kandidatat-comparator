@@ -1,0 +1,1431 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Nyborg,1,Aunslevhallen,A_Listestemmer,Listestemmer,Socialdemokratiet,54
+Nyborg,1,Aunslevhallen,A_Sonja_Marie_Jensen,Sonja Marie Jensen,Socialdemokratiet,78
+Nyborg,1,Aunslevhallen,A_Jesper_Nielsen,Jesper Nielsen,Socialdemokratiet,17
+Nyborg,1,Aunslevhallen,A_Martin_Stenmann,Martin Stenmann,Socialdemokratiet,1
+Nyborg,1,Aunslevhallen,A_Barbara_Bendahl_Schultz,Barbara Bendahl Schultz,Socialdemokratiet,5
+Nyborg,1,Aunslevhallen,A_Per_Chrone_Jespersen,Per Chrone Jespersen,Socialdemokratiet,1
+Nyborg,1,Aunslevhallen,A_Poul_Erik_Knudsen,Poul Erik Knudsen,Socialdemokratiet,8
+Nyborg,1,Aunslevhallen,A_Vibeke_Franziska_L_Ejlertsen,Vibeke Franziska L Ejlertsen,Socialdemokratiet,6
+Nyborg,1,Aunslevhallen,A_Heidi_Anker_Leen,Heidi Anker Leen,Socialdemokratiet,5
+Nyborg,1,Aunslevhallen,A_Claus_Johanson,Claus Johanson,Socialdemokratiet,4
+Nyborg,1,Aunslevhallen,A_Lene_Ingemann_Skyggelund,Lene Ingemann Skyggelund,Socialdemokratiet,3
+Nyborg,1,Aunslevhallen,A_Janni_Møller_Sørensen,Janni Møller Sørensen,Socialdemokratiet,1
+Nyborg,1,Aunslevhallen,A_Rameesh_Thirugnanasambanther,Rameesh Thirugnanasambanther,Socialdemokratiet,3
+Nyborg,1,Aunslevhallen,A_Henrik_Hauge_Vestergaard,Henrik Hauge Vestergaard,Socialdemokratiet,5
+Nyborg,1,Aunslevhallen,A_Steen_Ole_Steensen_Christensen,Steen Ole Steensen Christensen,Socialdemokratiet,7
+Nyborg,1,Aunslevhallen,A_Merete_Østergaard_Bang,Merete Østergaard Bang,Socialdemokratiet,0
+Nyborg,1,Aunslevhallen,A_Kirstine_Sofie_Ingemann_Skyggelund,Kirstine Sofie Ingemann Skyggelund,Socialdemokratiet,1
+Nyborg,1,Aunslevhallen,A_Allan_Lindholm,Allan Lindholm,Socialdemokratiet,5
+Nyborg,1,Aunslevhallen,A_Sabrina_Baltser_Verner,Sabrina Baltser Verner,Socialdemokratiet,6
+Nyborg,1,Aunslevhallen,A_Brian_Kristiansen,Brian Kristiansen,Socialdemokratiet,3
+Nyborg,1,Aunslevhallen,A_Carsten_Sahl_Rasmussen,Carsten Sahl Rasmussen,Socialdemokratiet,2
+Nyborg,1,Aunslevhallen,A_Casey_Lasse_Høybye_Pedersen,Casey Lasse Høybye Pedersen,Socialdemokratiet,0
+Nyborg,1,Aunslevhallen,A_Lone_Smidt,Lone Smidt,Socialdemokratiet,11
+Nyborg,1,Aunslevhallen,B_Listestemmer,Listestemmer,Radikale Venstre,6
+Nyborg,1,Aunslevhallen,B_Emilie_Halbye_Haaning,Emilie Halbye Haaning,Radikale Venstre,3
+Nyborg,1,Aunslevhallen,B_Hjalmar_Christiansen,Hjalmar Christiansen,Radikale Venstre,1
+Nyborg,1,Aunslevhallen,B_Ludvig_Eduard_Dittmann,Ludvig Eduard Dittmann,Radikale Venstre,1
+Nyborg,1,Aunslevhallen,B_Karen_Moritz_Hansen,Karen Moritz Hansen,Radikale Venstre,8
+Nyborg,1,Aunslevhallen,B_Dorit_Myltoft,Dorit Myltoft,Radikale Venstre,0
+Nyborg,1,Aunslevhallen,B_Jesper_Trampedach,Jesper Trampedach,Radikale Venstre,1
+Nyborg,1,Aunslevhallen,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,16
+Nyborg,1,Aunslevhallen,C_Jan_Michael_Gertsen,Jan Michael Gertsen,Det Konservative Folkeparti,8
+Nyborg,1,Aunslevhallen,C_Thomas_Bo_Fibiger_Rydahl,Thomas Bo Fibiger Rydahl,Det Konservative Folkeparti,5
+Nyborg,1,Aunslevhallen,C_Tjalfe_Nørregaard_Schmidt,Tjalfe Nørregaard Schmidt,Det Konservative Folkeparti,2
+Nyborg,1,Aunslevhallen,C_Thomas_Egelund_Krum,Thomas Egelund Krum,Det Konservative Folkeparti,0
+Nyborg,1,Aunslevhallen,C_Niels_Lundshøj_Regnarsen,Niels Lundshøj Regnarsen,Det Konservative Folkeparti,2
+Nyborg,1,Aunslevhallen,C_Anne_Conradsen,Anne Conradsen,Det Konservative Folkeparti,0
+Nyborg,1,Aunslevhallen,C_Oscar_Ibsen,Oscar Ibsen,Det Konservative Folkeparti,2
+Nyborg,1,Aunslevhallen,C_Henrik_Boeriths,Henrik Boeriths,Det Konservative Folkeparti,3
+Nyborg,1,Aunslevhallen,C_Per_Kurt_Olsen,Per Kurt Olsen,Det Konservative Folkeparti,0
+Nyborg,1,Aunslevhallen,C_Jessika_Hanna_Marie_J_Harboe,Jessika Hanna Marie J Harboe,Det Konservative Folkeparti,0
+Nyborg,1,Aunslevhallen,C_Thomas_Bach_Piekut,Thomas Bach Piekut,Det Konservative Folkeparti,0
+Nyborg,1,Aunslevhallen,D_Listestemmer,Listestemmer,Nye Borgerlige,10
+Nyborg,1,Aunslevhallen,D_Kasper_Mejlhede,Kasper Mejlhede,Nye Borgerlige,22
+Nyborg,1,Aunslevhallen,D_Henrik_Aaen,Henrik Aaen,Nye Borgerlige,7
+Nyborg,1,Aunslevhallen,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,15
+Nyborg,1,Aunslevhallen,F_Suzette_Frovin,Suzette Frovin,SF - Socialistisk Folkeparti,36
+Nyborg,1,Aunslevhallen,F_Ole_Tyrsted_Jørgensen,Ole Tyrsted Jørgensen,SF - Socialistisk Folkeparti,13
+Nyborg,1,Aunslevhallen,F_Anja_Sika_de_Thurah,Anja Sika de Thurah,SF - Socialistisk Folkeparti,6
+Nyborg,1,Aunslevhallen,F_Jens_Høj_Justesen,Jens Høj Justesen,SF - Socialistisk Folkeparti,1
+Nyborg,1,Aunslevhallen,F_Frans_Jakobsen,Frans Jakobsen,SF - Socialistisk Folkeparti,3
+Nyborg,1,Aunslevhallen,F_Gøye_Thorn_Svendsen,Gøye Thorn Svendsen,SF - Socialistisk Folkeparti,1
+Nyborg,1,Aunslevhallen,F_Jette_Iben_Bohr,Jette Iben Bohr,SF - Socialistisk Folkeparti,1
+Nyborg,1,Aunslevhallen,F_Hans_Biering,Hans Biering,SF - Socialistisk Folkeparti,0
+Nyborg,1,Aunslevhallen,I_Listestemmer,Listestemmer,Liberal Alliance,1
+Nyborg,1,Aunslevhallen,I_Lars_Ole_Petersen,Lars Ole Petersen,Liberal Alliance,4
+Nyborg,1,Aunslevhallen,M_Listestemmer,Listestemmer,Vi Lokale Demokrater,2
+Nyborg,1,Aunslevhallen,M_Carsten_Kudsk,Carsten Kudsk,Vi Lokale Demokrater,4
+Nyborg,1,Aunslevhallen,M_Knud_Skov_Ahrnkiel,Knud Skov Ahrnkiel,Vi Lokale Demokrater,0
+Nyborg,1,Aunslevhallen,M_Lars-Aage_Schjoldager,Lars-Aage Schjoldager,Vi Lokale Demokrater,0
+Nyborg,1,Aunslevhallen,M_Lisa_Ralph_Ravn,Lisa Ralph Ravn,Vi Lokale Demokrater,0
+Nyborg,1,Aunslevhallen,M_Kent_Høiberg_Larsen,Kent Høiberg Larsen,Vi Lokale Demokrater,3
+Nyborg,1,Aunslevhallen,M_Henning_Faurby_Pedersen,Henning Faurby Pedersen,Vi Lokale Demokrater,0
+Nyborg,1,Aunslevhallen,M_Ib_Jørgen_Kristensen,Ib Jørgen Kristensen,Vi Lokale Demokrater,0
+Nyborg,1,Aunslevhallen,M_Jan_Thornfeldt,Jan Thornfeldt,Vi Lokale Demokrater,0
+Nyborg,1,Aunslevhallen,O_Listestemmer,Listestemmer,Dansk Folkeparti,9
+Nyborg,1,Aunslevhallen,O_Anne_Marie_Palm-Johansen,Anne Marie Palm-Johansen,Dansk Folkeparti,11
+Nyborg,1,Aunslevhallen,O_Frank_Sørensen,Frank Sørensen,Dansk Folkeparti,3
+Nyborg,1,Aunslevhallen,O_Allan_Møller_Lau,Allan Møller Lau,Dansk Folkeparti,1
+Nyborg,1,Aunslevhallen,O_Eva_Thind_Høiberg,Eva Thind Høiberg,Dansk Folkeparti,1
+Nyborg,1,Aunslevhallen,O_Rudy_Lyngvig,Rudy Lyngvig,Dansk Folkeparti,0
+Nyborg,1,Aunslevhallen,O_Bent_Larsen,Bent Larsen,Dansk Folkeparti,0
+Nyborg,1,Aunslevhallen,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",46
+Nyborg,1,Aunslevhallen,V_Kenneth_Lundager_Muhs,Kenneth Lundager Muhs,"Venstre, Danmarks Liberale Parti",355
+Nyborg,1,Aunslevhallen,V_Kaj_Jacobsen_Refslund,Kaj Jacobsen Refslund,"Venstre, Danmarks Liberale Parti",5
+Nyborg,1,Aunslevhallen,V_Søren_Ejnar_Svendsen,Søren Ejnar Svendsen,"Venstre, Danmarks Liberale Parti",2
+Nyborg,1,Aunslevhallen,V_Jørgen_Jørgensen,Jørgen Jørgensen,"Venstre, Danmarks Liberale Parti",4
+Nyborg,1,Aunslevhallen,V_Anja_Lærke_Kongsdal,Anja Lærke Kongsdal,"Venstre, Danmarks Liberale Parti",69
+Nyborg,1,Aunslevhallen,V_Jacob_Nilsson,Jacob Nilsson,"Venstre, Danmarks Liberale Parti",0
+Nyborg,1,Aunslevhallen,V_Puk_Colette_Lundemann_Løndahl,Puk Colette Lundemann Løndahl,"Venstre, Danmarks Liberale Parti",2
+Nyborg,1,Aunslevhallen,V_Søren_Nielsen,Søren Nielsen,"Venstre, Danmarks Liberale Parti",24
+Nyborg,1,Aunslevhallen,V_Peter_Wagner_Mollerup,Peter Wagner Mollerup,"Venstre, Danmarks Liberale Parti",7
+Nyborg,1,Aunslevhallen,V_Martin_Huus,Martin Huus,"Venstre, Danmarks Liberale Parti",5
+Nyborg,1,Aunslevhallen,V_Niels_Ørsted,Niels Ørsted,"Venstre, Danmarks Liberale Parti",0
+Nyborg,1,Aunslevhallen,V_Jan_Reimer_Christiansen,Jan Reimer Christiansen,"Venstre, Danmarks Liberale Parti",1
+Nyborg,1,Aunslevhallen,V_Kenneth_Taanquist,Kenneth Taanquist,"Venstre, Danmarks Liberale Parti",1
+Nyborg,1,Aunslevhallen,V_Flemming_Kjærulf_Rasmussen,Flemming Kjærulf Rasmussen,"Venstre, Danmarks Liberale Parti",0
+Nyborg,1,Aunslevhallen,V_Jørn_Terndrup,Jørn Terndrup,"Venstre, Danmarks Liberale Parti",7
+Nyborg,1,Aunslevhallen,V_Anne_Dyrhøj,Anne Dyrhøj,"Venstre, Danmarks Liberale Parti",4
+Nyborg,1,Aunslevhallen,V_Pia_Kondrup_Juul-Nielsen,Pia Kondrup Juul-Nielsen,"Venstre, Danmarks Liberale Parti",2
+Nyborg,1,Aunslevhallen,V_Jørn_Gammeltoft_Gustavsen,Jørn Gammeltoft Gustavsen,"Venstre, Danmarks Liberale Parti",12
+Nyborg,1,Aunslevhallen,V_John_Normann_Burke-Hansen,John Normann Burke-Hansen,"Venstre, Danmarks Liberale Parti",3
+Nyborg,1,Aunslevhallen,V_Keld_Cramer_Hjort,Keld Cramer Hjort,"Venstre, Danmarks Liberale Parti",4
+Nyborg,1,Aunslevhallen,V_Anja_Diana_Kjær_Sohne,Anja Diana Kjær Sohne,"Venstre, Danmarks Liberale Parti",13
+Nyborg,1,Aunslevhallen,V_Rune_Christensen,Rune Christensen,"Venstre, Danmarks Liberale Parti",9
+Nyborg,1,Aunslevhallen,V_Per_Sønder,Per Sønder,"Venstre, Danmarks Liberale Parti",0
+Nyborg,1,Aunslevhallen,V_Birol_Kalem,Birol Kalem,"Venstre, Danmarks Liberale Parti",0
+Nyborg,1,Aunslevhallen,V_Nanna_Elm_Bille_Adamsen,Nanna Elm Bille Adamsen,"Venstre, Danmarks Liberale Parti",1
+Nyborg,1,Aunslevhallen,V_Claus_Roed_Nielsen,Claus Roed Nielsen,"Venstre, Danmarks Liberale Parti",0
+Nyborg,1,Aunslevhallen,V_Davíð_Hrafnsson_Holst_Nielsen,Davíð Hrafnsson Holst Nielsen,"Venstre, Danmarks Liberale Parti",1
+Nyborg,1,Aunslevhallen,V_Kirsten_Lissi_Press,Kirsten Lissi Press,"Venstre, Danmarks Liberale Parti",0
+Nyborg,1,Aunslevhallen,V_Carsten_Karner_Hansen,Carsten Karner Hansen,"Venstre, Danmarks Liberale Parti",0
+Nyborg,1,Aunslevhallen,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,19
+Nyborg,1,Aunslevhallen,Ø_Melissa_Meulengracht,Melissa Meulengracht,Enhedslisten - De Rød-Grønne,4
+Nyborg,1,Aunslevhallen,Ø_Anders_Kirkebæk-Jensen,Anders Kirkebæk-Jensen,Enhedslisten - De Rød-Grønne,1
+Nyborg,1,Aunslevhallen,Ø_Ane-Louise_Kobbermose_Stampe,Ane-Louise Kobbermose Stampe,Enhedslisten - De Rød-Grønne,2
+Nyborg,1,Aunslevhallen,Ø_Sanja_Kirk_Hansen,Sanja Kirk Hansen,Enhedslisten - De Rød-Grønne,0
+Nyborg,1,Aunslevhallen,Ø_Lars_Michael_Christian_J_Bennedbæk,Lars Michael Christian J Bennedbæk,Enhedslisten - De Rød-Grønne,0
+Nyborg,1,Aunslevhallen,Ø_Preben_Jørgensen,Preben Jørgensen,Enhedslisten - De Rød-Grønne,0
+Nyborg,1,Aunslevhallen,Ø_Benny_Lammert_Pieszak,Benny Lammert Pieszak,Enhedslisten - De Rød-Grønne,13
+Nyborg,2,Nyborghallen,A_Listestemmer,Listestemmer,Socialdemokratiet,342
+Nyborg,2,Nyborghallen,A_Sonja_Marie_Jensen,Sonja Marie Jensen,Socialdemokratiet,564
+Nyborg,2,Nyborghallen,A_Jesper_Nielsen,Jesper Nielsen,Socialdemokratiet,57
+Nyborg,2,Nyborghallen,A_Martin_Stenmann,Martin Stenmann,Socialdemokratiet,101
+Nyborg,2,Nyborghallen,A_Barbara_Bendahl_Schultz,Barbara Bendahl Schultz,Socialdemokratiet,41
+Nyborg,2,Nyborghallen,A_Per_Chrone_Jespersen,Per Chrone Jespersen,Socialdemokratiet,51
+Nyborg,2,Nyborghallen,A_Poul_Erik_Knudsen,Poul Erik Knudsen,Socialdemokratiet,74
+Nyborg,2,Nyborghallen,A_Vibeke_Franziska_L_Ejlertsen,Vibeke Franziska L Ejlertsen,Socialdemokratiet,37
+Nyborg,2,Nyborghallen,A_Heidi_Anker_Leen,Heidi Anker Leen,Socialdemokratiet,34
+Nyborg,2,Nyborghallen,A_Claus_Johanson,Claus Johanson,Socialdemokratiet,60
+Nyborg,2,Nyborghallen,A_Lene_Ingemann_Skyggelund,Lene Ingemann Skyggelund,Socialdemokratiet,14
+Nyborg,2,Nyborghallen,A_Janni_Møller_Sørensen,Janni Møller Sørensen,Socialdemokratiet,10
+Nyborg,2,Nyborghallen,A_Rameesh_Thirugnanasambanther,Rameesh Thirugnanasambanther,Socialdemokratiet,116
+Nyborg,2,Nyborghallen,A_Henrik_Hauge_Vestergaard,Henrik Hauge Vestergaard,Socialdemokratiet,2
+Nyborg,2,Nyborghallen,A_Steen_Ole_Steensen_Christensen,Steen Ole Steensen Christensen,Socialdemokratiet,45
+Nyborg,2,Nyborghallen,A_Merete_Østergaard_Bang,Merete Østergaard Bang,Socialdemokratiet,6
+Nyborg,2,Nyborghallen,A_Kirstine_Sofie_Ingemann_Skyggelund,Kirstine Sofie Ingemann Skyggelund,Socialdemokratiet,9
+Nyborg,2,Nyborghallen,A_Allan_Lindholm,Allan Lindholm,Socialdemokratiet,9
+Nyborg,2,Nyborghallen,A_Sabrina_Baltser_Verner,Sabrina Baltser Verner,Socialdemokratiet,6
+Nyborg,2,Nyborghallen,A_Brian_Kristiansen,Brian Kristiansen,Socialdemokratiet,16
+Nyborg,2,Nyborghallen,A_Carsten_Sahl_Rasmussen,Carsten Sahl Rasmussen,Socialdemokratiet,1
+Nyborg,2,Nyborghallen,A_Casey_Lasse_Høybye_Pedersen,Casey Lasse Høybye Pedersen,Socialdemokratiet,11
+Nyborg,2,Nyborghallen,A_Lone_Smidt,Lone Smidt,Socialdemokratiet,81
+Nyborg,2,Nyborghallen,B_Listestemmer,Listestemmer,Radikale Venstre,19
+Nyborg,2,Nyborghallen,B_Emilie_Halbye_Haaning,Emilie Halbye Haaning,Radikale Venstre,14
+Nyborg,2,Nyborghallen,B_Hjalmar_Christiansen,Hjalmar Christiansen,Radikale Venstre,4
+Nyborg,2,Nyborghallen,B_Ludvig_Eduard_Dittmann,Ludvig Eduard Dittmann,Radikale Venstre,4
+Nyborg,2,Nyborghallen,B_Karen_Moritz_Hansen,Karen Moritz Hansen,Radikale Venstre,42
+Nyborg,2,Nyborghallen,B_Dorit_Myltoft,Dorit Myltoft,Radikale Venstre,5
+Nyborg,2,Nyborghallen,B_Jesper_Trampedach,Jesper Trampedach,Radikale Venstre,3
+Nyborg,2,Nyborghallen,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,59
+Nyborg,2,Nyborghallen,C_Jan_Michael_Gertsen,Jan Michael Gertsen,Det Konservative Folkeparti,31
+Nyborg,2,Nyborghallen,C_Thomas_Bo_Fibiger_Rydahl,Thomas Bo Fibiger Rydahl,Det Konservative Folkeparti,35
+Nyborg,2,Nyborghallen,C_Tjalfe_Nørregaard_Schmidt,Tjalfe Nørregaard Schmidt,Det Konservative Folkeparti,2
+Nyborg,2,Nyborghallen,C_Thomas_Egelund_Krum,Thomas Egelund Krum,Det Konservative Folkeparti,1
+Nyborg,2,Nyborghallen,C_Niels_Lundshøj_Regnarsen,Niels Lundshøj Regnarsen,Det Konservative Folkeparti,3
+Nyborg,2,Nyborghallen,C_Anne_Conradsen,Anne Conradsen,Det Konservative Folkeparti,11
+Nyborg,2,Nyborghallen,C_Oscar_Ibsen,Oscar Ibsen,Det Konservative Folkeparti,3
+Nyborg,2,Nyborghallen,C_Henrik_Boeriths,Henrik Boeriths,Det Konservative Folkeparti,6
+Nyborg,2,Nyborghallen,C_Per_Kurt_Olsen,Per Kurt Olsen,Det Konservative Folkeparti,0
+Nyborg,2,Nyborghallen,C_Jessika_Hanna_Marie_J_Harboe,Jessika Hanna Marie J Harboe,Det Konservative Folkeparti,4
+Nyborg,2,Nyborghallen,C_Thomas_Bach_Piekut,Thomas Bach Piekut,Det Konservative Folkeparti,1
+Nyborg,2,Nyborghallen,D_Listestemmer,Listestemmer,Nye Borgerlige,47
+Nyborg,2,Nyborghallen,D_Kasper_Mejlhede,Kasper Mejlhede,Nye Borgerlige,27
+Nyborg,2,Nyborghallen,D_Henrik_Aaen,Henrik Aaen,Nye Borgerlige,14
+Nyborg,2,Nyborghallen,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,97
+Nyborg,2,Nyborghallen,F_Suzette_Frovin,Suzette Frovin,SF - Socialistisk Folkeparti,222
+Nyborg,2,Nyborghallen,F_Ole_Tyrsted_Jørgensen,Ole Tyrsted Jørgensen,SF - Socialistisk Folkeparti,37
+Nyborg,2,Nyborghallen,F_Anja_Sika_de_Thurah,Anja Sika de Thurah,SF - Socialistisk Folkeparti,23
+Nyborg,2,Nyborghallen,F_Jens_Høj_Justesen,Jens Høj Justesen,SF - Socialistisk Folkeparti,5
+Nyborg,2,Nyborghallen,F_Frans_Jakobsen,Frans Jakobsen,SF - Socialistisk Folkeparti,5
+Nyborg,2,Nyborghallen,F_Gøye_Thorn_Svendsen,Gøye Thorn Svendsen,SF - Socialistisk Folkeparti,5
+Nyborg,2,Nyborghallen,F_Jette_Iben_Bohr,Jette Iben Bohr,SF - Socialistisk Folkeparti,5
+Nyborg,2,Nyborghallen,F_Hans_Biering,Hans Biering,SF - Socialistisk Folkeparti,2
+Nyborg,2,Nyborghallen,I_Listestemmer,Listestemmer,Liberal Alliance,7
+Nyborg,2,Nyborghallen,I_Lars_Ole_Petersen,Lars Ole Petersen,Liberal Alliance,14
+Nyborg,2,Nyborghallen,M_Listestemmer,Listestemmer,Vi Lokale Demokrater,1
+Nyborg,2,Nyborghallen,M_Carsten_Kudsk,Carsten Kudsk,Vi Lokale Demokrater,18
+Nyborg,2,Nyborghallen,M_Knud_Skov_Ahrnkiel,Knud Skov Ahrnkiel,Vi Lokale Demokrater,4
+Nyborg,2,Nyborghallen,M_Lars-Aage_Schjoldager,Lars-Aage Schjoldager,Vi Lokale Demokrater,5
+Nyborg,2,Nyborghallen,M_Lisa_Ralph_Ravn,Lisa Ralph Ravn,Vi Lokale Demokrater,2
+Nyborg,2,Nyborghallen,M_Kent_Høiberg_Larsen,Kent Høiberg Larsen,Vi Lokale Demokrater,1
+Nyborg,2,Nyborghallen,M_Henning_Faurby_Pedersen,Henning Faurby Pedersen,Vi Lokale Demokrater,1
+Nyborg,2,Nyborghallen,M_Ib_Jørgen_Kristensen,Ib Jørgen Kristensen,Vi Lokale Demokrater,0
+Nyborg,2,Nyborghallen,M_Jan_Thornfeldt,Jan Thornfeldt,Vi Lokale Demokrater,0
+Nyborg,2,Nyborghallen,O_Listestemmer,Listestemmer,Dansk Folkeparti,32
+Nyborg,2,Nyborghallen,O_Anne_Marie_Palm-Johansen,Anne Marie Palm-Johansen,Dansk Folkeparti,43
+Nyborg,2,Nyborghallen,O_Frank_Sørensen,Frank Sørensen,Dansk Folkeparti,11
+Nyborg,2,Nyborghallen,O_Allan_Møller_Lau,Allan Møller Lau,Dansk Folkeparti,5
+Nyborg,2,Nyborghallen,O_Eva_Thind_Høiberg,Eva Thind Høiberg,Dansk Folkeparti,5
+Nyborg,2,Nyborghallen,O_Rudy_Lyngvig,Rudy Lyngvig,Dansk Folkeparti,0
+Nyborg,2,Nyborghallen,O_Bent_Larsen,Bent Larsen,Dansk Folkeparti,3
+Nyborg,2,Nyborghallen,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",209
+Nyborg,2,Nyborghallen,V_Kenneth_Lundager_Muhs,Kenneth Lundager Muhs,"Venstre, Danmarks Liberale Parti",1837
+Nyborg,2,Nyborghallen,V_Kaj_Jacobsen_Refslund,Kaj Jacobsen Refslund,"Venstre, Danmarks Liberale Parti",12
+Nyborg,2,Nyborghallen,V_Søren_Ejnar_Svendsen,Søren Ejnar Svendsen,"Venstre, Danmarks Liberale Parti",14
+Nyborg,2,Nyborghallen,V_Jørgen_Jørgensen,Jørgen Jørgensen,"Venstre, Danmarks Liberale Parti",48
+Nyborg,2,Nyborghallen,V_Anja_Lærke_Kongsdal,Anja Lærke Kongsdal,"Venstre, Danmarks Liberale Parti",18
+Nyborg,2,Nyborghallen,V_Jacob_Nilsson,Jacob Nilsson,"Venstre, Danmarks Liberale Parti",11
+Nyborg,2,Nyborghallen,V_Puk_Colette_Lundemann_Løndahl,Puk Colette Lundemann Løndahl,"Venstre, Danmarks Liberale Parti",31
+Nyborg,2,Nyborghallen,V_Søren_Nielsen,Søren Nielsen,"Venstre, Danmarks Liberale Parti",22
+Nyborg,2,Nyborghallen,V_Peter_Wagner_Mollerup,Peter Wagner Mollerup,"Venstre, Danmarks Liberale Parti",19
+Nyborg,2,Nyborghallen,V_Martin_Huus,Martin Huus,"Venstre, Danmarks Liberale Parti",46
+Nyborg,2,Nyborghallen,V_Niels_Ørsted,Niels Ørsted,"Venstre, Danmarks Liberale Parti",4
+Nyborg,2,Nyborghallen,V_Jan_Reimer_Christiansen,Jan Reimer Christiansen,"Venstre, Danmarks Liberale Parti",4
+Nyborg,2,Nyborghallen,V_Kenneth_Taanquist,Kenneth Taanquist,"Venstre, Danmarks Liberale Parti",9
+Nyborg,2,Nyborghallen,V_Flemming_Kjærulf_Rasmussen,Flemming Kjærulf Rasmussen,"Venstre, Danmarks Liberale Parti",16
+Nyborg,2,Nyborghallen,V_Jørn_Terndrup,Jørn Terndrup,"Venstre, Danmarks Liberale Parti",69
+Nyborg,2,Nyborghallen,V_Anne_Dyrhøj,Anne Dyrhøj,"Venstre, Danmarks Liberale Parti",37
+Nyborg,2,Nyborghallen,V_Pia_Kondrup_Juul-Nielsen,Pia Kondrup Juul-Nielsen,"Venstre, Danmarks Liberale Parti",34
+Nyborg,2,Nyborghallen,V_Jørn_Gammeltoft_Gustavsen,Jørn Gammeltoft Gustavsen,"Venstre, Danmarks Liberale Parti",65
+Nyborg,2,Nyborghallen,V_John_Normann_Burke-Hansen,John Normann Burke-Hansen,"Venstre, Danmarks Liberale Parti",4
+Nyborg,2,Nyborghallen,V_Keld_Cramer_Hjort,Keld Cramer Hjort,"Venstre, Danmarks Liberale Parti",10
+Nyborg,2,Nyborghallen,V_Anja_Diana_Kjær_Sohne,Anja Diana Kjær Sohne,"Venstre, Danmarks Liberale Parti",6
+Nyborg,2,Nyborghallen,V_Rune_Christensen,Rune Christensen,"Venstre, Danmarks Liberale Parti",9
+Nyborg,2,Nyborghallen,V_Per_Sønder,Per Sønder,"Venstre, Danmarks Liberale Parti",1
+Nyborg,2,Nyborghallen,V_Birol_Kalem,Birol Kalem,"Venstre, Danmarks Liberale Parti",75
+Nyborg,2,Nyborghallen,V_Nanna_Elm_Bille_Adamsen,Nanna Elm Bille Adamsen,"Venstre, Danmarks Liberale Parti",10
+Nyborg,2,Nyborghallen,V_Claus_Roed_Nielsen,Claus Roed Nielsen,"Venstre, Danmarks Liberale Parti",7
+Nyborg,2,Nyborghallen,V_Davíð_Hrafnsson_Holst_Nielsen,Davíð Hrafnsson Holst Nielsen,"Venstre, Danmarks Liberale Parti",5
+Nyborg,2,Nyborghallen,V_Kirsten_Lissi_Press,Kirsten Lissi Press,"Venstre, Danmarks Liberale Parti",3
+Nyborg,2,Nyborghallen,V_Carsten_Karner_Hansen,Carsten Karner Hansen,"Venstre, Danmarks Liberale Parti",0
+Nyborg,2,Nyborghallen,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,110
+Nyborg,2,Nyborghallen,Ø_Melissa_Meulengracht,Melissa Meulengracht,Enhedslisten - De Rød-Grønne,46
+Nyborg,2,Nyborghallen,Ø_Anders_Kirkebæk-Jensen,Anders Kirkebæk-Jensen,Enhedslisten - De Rød-Grønne,21
+Nyborg,2,Nyborghallen,Ø_Ane-Louise_Kobbermose_Stampe,Ane-Louise Kobbermose Stampe,Enhedslisten - De Rød-Grønne,6
+Nyborg,2,Nyborghallen,Ø_Sanja_Kirk_Hansen,Sanja Kirk Hansen,Enhedslisten - De Rød-Grønne,6
+Nyborg,2,Nyborghallen,Ø_Lars_Michael_Christian_J_Bennedbæk,Lars Michael Christian J Bennedbæk,Enhedslisten - De Rød-Grønne,6
+Nyborg,2,Nyborghallen,Ø_Preben_Jørgensen,Preben Jørgensen,Enhedslisten - De Rød-Grønne,11
+Nyborg,2,Nyborghallen,Ø_Benny_Lammert_Pieszak,Benny Lammert Pieszak,Enhedslisten - De Rød-Grønne,5
+Nyborg,3,Bastionen,A_Listestemmer,Listestemmer,Socialdemokratiet,229
+Nyborg,3,Bastionen,A_Sonja_Marie_Jensen,Sonja Marie Jensen,Socialdemokratiet,419
+Nyborg,3,Bastionen,A_Jesper_Nielsen,Jesper Nielsen,Socialdemokratiet,68
+Nyborg,3,Bastionen,A_Martin_Stenmann,Martin Stenmann,Socialdemokratiet,60
+Nyborg,3,Bastionen,A_Barbara_Bendahl_Schultz,Barbara Bendahl Schultz,Socialdemokratiet,17
+Nyborg,3,Bastionen,A_Per_Chrone_Jespersen,Per Chrone Jespersen,Socialdemokratiet,26
+Nyborg,3,Bastionen,A_Poul_Erik_Knudsen,Poul Erik Knudsen,Socialdemokratiet,21
+Nyborg,3,Bastionen,A_Vibeke_Franziska_L_Ejlertsen,Vibeke Franziska L Ejlertsen,Socialdemokratiet,47
+Nyborg,3,Bastionen,A_Heidi_Anker_Leen,Heidi Anker Leen,Socialdemokratiet,9
+Nyborg,3,Bastionen,A_Claus_Johanson,Claus Johanson,Socialdemokratiet,28
+Nyborg,3,Bastionen,A_Lene_Ingemann_Skyggelund,Lene Ingemann Skyggelund,Socialdemokratiet,11
+Nyborg,3,Bastionen,A_Janni_Møller_Sørensen,Janni Møller Sørensen,Socialdemokratiet,9
+Nyborg,3,Bastionen,A_Rameesh_Thirugnanasambanther,Rameesh Thirugnanasambanther,Socialdemokratiet,28
+Nyborg,3,Bastionen,A_Henrik_Hauge_Vestergaard,Henrik Hauge Vestergaard,Socialdemokratiet,4
+Nyborg,3,Bastionen,A_Steen_Ole_Steensen_Christensen,Steen Ole Steensen Christensen,Socialdemokratiet,21
+Nyborg,3,Bastionen,A_Merete_Østergaard_Bang,Merete Østergaard Bang,Socialdemokratiet,1
+Nyborg,3,Bastionen,A_Kirstine_Sofie_Ingemann_Skyggelund,Kirstine Sofie Ingemann Skyggelund,Socialdemokratiet,6
+Nyborg,3,Bastionen,A_Allan_Lindholm,Allan Lindholm,Socialdemokratiet,2
+Nyborg,3,Bastionen,A_Sabrina_Baltser_Verner,Sabrina Baltser Verner,Socialdemokratiet,2
+Nyborg,3,Bastionen,A_Brian_Kristiansen,Brian Kristiansen,Socialdemokratiet,12
+Nyborg,3,Bastionen,A_Carsten_Sahl_Rasmussen,Carsten Sahl Rasmussen,Socialdemokratiet,2
+Nyborg,3,Bastionen,A_Casey_Lasse_Høybye_Pedersen,Casey Lasse Høybye Pedersen,Socialdemokratiet,7
+Nyborg,3,Bastionen,A_Lone_Smidt,Lone Smidt,Socialdemokratiet,63
+Nyborg,3,Bastionen,B_Listestemmer,Listestemmer,Radikale Venstre,20
+Nyborg,3,Bastionen,B_Emilie_Halbye_Haaning,Emilie Halbye Haaning,Radikale Venstre,15
+Nyborg,3,Bastionen,B_Hjalmar_Christiansen,Hjalmar Christiansen,Radikale Venstre,4
+Nyborg,3,Bastionen,B_Ludvig_Eduard_Dittmann,Ludvig Eduard Dittmann,Radikale Venstre,2
+Nyborg,3,Bastionen,B_Karen_Moritz_Hansen,Karen Moritz Hansen,Radikale Venstre,47
+Nyborg,3,Bastionen,B_Dorit_Myltoft,Dorit Myltoft,Radikale Venstre,6
+Nyborg,3,Bastionen,B_Jesper_Trampedach,Jesper Trampedach,Radikale Venstre,3
+Nyborg,3,Bastionen,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,61
+Nyborg,3,Bastionen,C_Jan_Michael_Gertsen,Jan Michael Gertsen,Det Konservative Folkeparti,25
+Nyborg,3,Bastionen,C_Thomas_Bo_Fibiger_Rydahl,Thomas Bo Fibiger Rydahl,Det Konservative Folkeparti,55
+Nyborg,3,Bastionen,C_Tjalfe_Nørregaard_Schmidt,Tjalfe Nørregaard Schmidt,Det Konservative Folkeparti,4
+Nyborg,3,Bastionen,C_Thomas_Egelund_Krum,Thomas Egelund Krum,Det Konservative Folkeparti,0
+Nyborg,3,Bastionen,C_Niels_Lundshøj_Regnarsen,Niels Lundshøj Regnarsen,Det Konservative Folkeparti,3
+Nyborg,3,Bastionen,C_Anne_Conradsen,Anne Conradsen,Det Konservative Folkeparti,14
+Nyborg,3,Bastionen,C_Oscar_Ibsen,Oscar Ibsen,Det Konservative Folkeparti,4
+Nyborg,3,Bastionen,C_Henrik_Boeriths,Henrik Boeriths,Det Konservative Folkeparti,2
+Nyborg,3,Bastionen,C_Per_Kurt_Olsen,Per Kurt Olsen,Det Konservative Folkeparti,3
+Nyborg,3,Bastionen,C_Jessika_Hanna_Marie_J_Harboe,Jessika Hanna Marie J Harboe,Det Konservative Folkeparti,2
+Nyborg,3,Bastionen,C_Thomas_Bach_Piekut,Thomas Bach Piekut,Det Konservative Folkeparti,0
+Nyborg,3,Bastionen,D_Listestemmer,Listestemmer,Nye Borgerlige,25
+Nyborg,3,Bastionen,D_Kasper_Mejlhede,Kasper Mejlhede,Nye Borgerlige,15
+Nyborg,3,Bastionen,D_Henrik_Aaen,Henrik Aaen,Nye Borgerlige,12
+Nyborg,3,Bastionen,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,75
+Nyborg,3,Bastionen,F_Suzette_Frovin,Suzette Frovin,SF - Socialistisk Folkeparti,250
+Nyborg,3,Bastionen,F_Ole_Tyrsted_Jørgensen,Ole Tyrsted Jørgensen,SF - Socialistisk Folkeparti,36
+Nyborg,3,Bastionen,F_Anja_Sika_de_Thurah,Anja Sika de Thurah,SF - Socialistisk Folkeparti,16
+Nyborg,3,Bastionen,F_Jens_Høj_Justesen,Jens Høj Justesen,SF - Socialistisk Folkeparti,10
+Nyborg,3,Bastionen,F_Frans_Jakobsen,Frans Jakobsen,SF - Socialistisk Folkeparti,9
+Nyborg,3,Bastionen,F_Gøye_Thorn_Svendsen,Gøye Thorn Svendsen,SF - Socialistisk Folkeparti,2
+Nyborg,3,Bastionen,F_Jette_Iben_Bohr,Jette Iben Bohr,SF - Socialistisk Folkeparti,6
+Nyborg,3,Bastionen,F_Hans_Biering,Hans Biering,SF - Socialistisk Folkeparti,4
+Nyborg,3,Bastionen,I_Listestemmer,Listestemmer,Liberal Alliance,9
+Nyborg,3,Bastionen,I_Lars_Ole_Petersen,Lars Ole Petersen,Liberal Alliance,14
+Nyborg,3,Bastionen,M_Listestemmer,Listestemmer,Vi Lokale Demokrater,1
+Nyborg,3,Bastionen,M_Carsten_Kudsk,Carsten Kudsk,Vi Lokale Demokrater,19
+Nyborg,3,Bastionen,M_Knud_Skov_Ahrnkiel,Knud Skov Ahrnkiel,Vi Lokale Demokrater,8
+Nyborg,3,Bastionen,M_Lars-Aage_Schjoldager,Lars-Aage Schjoldager,Vi Lokale Demokrater,0
+Nyborg,3,Bastionen,M_Lisa_Ralph_Ravn,Lisa Ralph Ravn,Vi Lokale Demokrater,2
+Nyborg,3,Bastionen,M_Kent_Høiberg_Larsen,Kent Høiberg Larsen,Vi Lokale Demokrater,2
+Nyborg,3,Bastionen,M_Henning_Faurby_Pedersen,Henning Faurby Pedersen,Vi Lokale Demokrater,1
+Nyborg,3,Bastionen,M_Ib_Jørgen_Kristensen,Ib Jørgen Kristensen,Vi Lokale Demokrater,0
+Nyborg,3,Bastionen,M_Jan_Thornfeldt,Jan Thornfeldt,Vi Lokale Demokrater,2
+Nyborg,3,Bastionen,O_Listestemmer,Listestemmer,Dansk Folkeparti,24
+Nyborg,3,Bastionen,O_Anne_Marie_Palm-Johansen,Anne Marie Palm-Johansen,Dansk Folkeparti,17
+Nyborg,3,Bastionen,O_Frank_Sørensen,Frank Sørensen,Dansk Folkeparti,7
+Nyborg,3,Bastionen,O_Allan_Møller_Lau,Allan Møller Lau,Dansk Folkeparti,1
+Nyborg,3,Bastionen,O_Eva_Thind_Høiberg,Eva Thind Høiberg,Dansk Folkeparti,2
+Nyborg,3,Bastionen,O_Rudy_Lyngvig,Rudy Lyngvig,Dansk Folkeparti,0
+Nyborg,3,Bastionen,O_Bent_Larsen,Bent Larsen,Dansk Folkeparti,1
+Nyborg,3,Bastionen,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",153
+Nyborg,3,Bastionen,V_Kenneth_Lundager_Muhs,Kenneth Lundager Muhs,"Venstre, Danmarks Liberale Parti",1450
+Nyborg,3,Bastionen,V_Kaj_Jacobsen_Refslund,Kaj Jacobsen Refslund,"Venstre, Danmarks Liberale Parti",3
+Nyborg,3,Bastionen,V_Søren_Ejnar_Svendsen,Søren Ejnar Svendsen,"Venstre, Danmarks Liberale Parti",7
+Nyborg,3,Bastionen,V_Jørgen_Jørgensen,Jørgen Jørgensen,"Venstre, Danmarks Liberale Parti",47
+Nyborg,3,Bastionen,V_Anja_Lærke_Kongsdal,Anja Lærke Kongsdal,"Venstre, Danmarks Liberale Parti",29
+Nyborg,3,Bastionen,V_Jacob_Nilsson,Jacob Nilsson,"Venstre, Danmarks Liberale Parti",6
+Nyborg,3,Bastionen,V_Puk_Colette_Lundemann_Løndahl,Puk Colette Lundemann Løndahl,"Venstre, Danmarks Liberale Parti",35
+Nyborg,3,Bastionen,V_Søren_Nielsen,Søren Nielsen,"Venstre, Danmarks Liberale Parti",13
+Nyborg,3,Bastionen,V_Peter_Wagner_Mollerup,Peter Wagner Mollerup,"Venstre, Danmarks Liberale Parti",21
+Nyborg,3,Bastionen,V_Martin_Huus,Martin Huus,"Venstre, Danmarks Liberale Parti",38
+Nyborg,3,Bastionen,V_Niels_Ørsted,Niels Ørsted,"Venstre, Danmarks Liberale Parti",1
+Nyborg,3,Bastionen,V_Jan_Reimer_Christiansen,Jan Reimer Christiansen,"Venstre, Danmarks Liberale Parti",5
+Nyborg,3,Bastionen,V_Kenneth_Taanquist,Kenneth Taanquist,"Venstre, Danmarks Liberale Parti",2
+Nyborg,3,Bastionen,V_Flemming_Kjærulf_Rasmussen,Flemming Kjærulf Rasmussen,"Venstre, Danmarks Liberale Parti",32
+Nyborg,3,Bastionen,V_Jørn_Terndrup,Jørn Terndrup,"Venstre, Danmarks Liberale Parti",80
+Nyborg,3,Bastionen,V_Anne_Dyrhøj,Anne Dyrhøj,"Venstre, Danmarks Liberale Parti",45
+Nyborg,3,Bastionen,V_Pia_Kondrup_Juul-Nielsen,Pia Kondrup Juul-Nielsen,"Venstre, Danmarks Liberale Parti",25
+Nyborg,3,Bastionen,V_Jørn_Gammeltoft_Gustavsen,Jørn Gammeltoft Gustavsen,"Venstre, Danmarks Liberale Parti",35
+Nyborg,3,Bastionen,V_John_Normann_Burke-Hansen,John Normann Burke-Hansen,"Venstre, Danmarks Liberale Parti",2
+Nyborg,3,Bastionen,V_Keld_Cramer_Hjort,Keld Cramer Hjort,"Venstre, Danmarks Liberale Parti",3
+Nyborg,3,Bastionen,V_Anja_Diana_Kjær_Sohne,Anja Diana Kjær Sohne,"Venstre, Danmarks Liberale Parti",8
+Nyborg,3,Bastionen,V_Rune_Christensen,Rune Christensen,"Venstre, Danmarks Liberale Parti",8
+Nyborg,3,Bastionen,V_Per_Sønder,Per Sønder,"Venstre, Danmarks Liberale Parti",2
+Nyborg,3,Bastionen,V_Birol_Kalem,Birol Kalem,"Venstre, Danmarks Liberale Parti",13
+Nyborg,3,Bastionen,V_Nanna_Elm_Bille_Adamsen,Nanna Elm Bille Adamsen,"Venstre, Danmarks Liberale Parti",10
+Nyborg,3,Bastionen,V_Claus_Roed_Nielsen,Claus Roed Nielsen,"Venstre, Danmarks Liberale Parti",6
+Nyborg,3,Bastionen,V_Davíð_Hrafnsson_Holst_Nielsen,Davíð Hrafnsson Holst Nielsen,"Venstre, Danmarks Liberale Parti",9
+Nyborg,3,Bastionen,V_Kirsten_Lissi_Press,Kirsten Lissi Press,"Venstre, Danmarks Liberale Parti",3
+Nyborg,3,Bastionen,V_Carsten_Karner_Hansen,Carsten Karner Hansen,"Venstre, Danmarks Liberale Parti",2
+Nyborg,3,Bastionen,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,79
+Nyborg,3,Bastionen,Ø_Melissa_Meulengracht,Melissa Meulengracht,Enhedslisten - De Rød-Grønne,27
+Nyborg,3,Bastionen,Ø_Anders_Kirkebæk-Jensen,Anders Kirkebæk-Jensen,Enhedslisten - De Rød-Grønne,13
+Nyborg,3,Bastionen,Ø_Ane-Louise_Kobbermose_Stampe,Ane-Louise Kobbermose Stampe,Enhedslisten - De Rød-Grønne,7
+Nyborg,3,Bastionen,Ø_Sanja_Kirk_Hansen,Sanja Kirk Hansen,Enhedslisten - De Rød-Grønne,1
+Nyborg,3,Bastionen,Ø_Lars_Michael_Christian_J_Bennedbæk,Lars Michael Christian J Bennedbæk,Enhedslisten - De Rød-Grønne,1
+Nyborg,3,Bastionen,Ø_Preben_Jørgensen,Preben Jørgensen,Enhedslisten - De Rød-Grønne,7
+Nyborg,3,Bastionen,Ø_Benny_Lammert_Pieszak,Benny Lammert Pieszak,Enhedslisten - De Rød-Grønne,2
+Nyborg,4,Vindinge Forsamlingshus,A_Listestemmer,Listestemmer,Socialdemokratiet,99
+Nyborg,4,Vindinge Forsamlingshus,A_Sonja_Marie_Jensen,Sonja Marie Jensen,Socialdemokratiet,132
+Nyborg,4,Vindinge Forsamlingshus,A_Jesper_Nielsen,Jesper Nielsen,Socialdemokratiet,14
+Nyborg,4,Vindinge Forsamlingshus,A_Martin_Stenmann,Martin Stenmann,Socialdemokratiet,14
+Nyborg,4,Vindinge Forsamlingshus,A_Barbara_Bendahl_Schultz,Barbara Bendahl Schultz,Socialdemokratiet,4
+Nyborg,4,Vindinge Forsamlingshus,A_Per_Chrone_Jespersen,Per Chrone Jespersen,Socialdemokratiet,6
+Nyborg,4,Vindinge Forsamlingshus,A_Poul_Erik_Knudsen,Poul Erik Knudsen,Socialdemokratiet,4
+Nyborg,4,Vindinge Forsamlingshus,A_Vibeke_Franziska_L_Ejlertsen,Vibeke Franziska L Ejlertsen,Socialdemokratiet,9
+Nyborg,4,Vindinge Forsamlingshus,A_Heidi_Anker_Leen,Heidi Anker Leen,Socialdemokratiet,19
+Nyborg,4,Vindinge Forsamlingshus,A_Claus_Johanson,Claus Johanson,Socialdemokratiet,6
+Nyborg,4,Vindinge Forsamlingshus,A_Lene_Ingemann_Skyggelund,Lene Ingemann Skyggelund,Socialdemokratiet,2
+Nyborg,4,Vindinge Forsamlingshus,A_Janni_Møller_Sørensen,Janni Møller Sørensen,Socialdemokratiet,3
+Nyborg,4,Vindinge Forsamlingshus,A_Rameesh_Thirugnanasambanther,Rameesh Thirugnanasambanther,Socialdemokratiet,27
+Nyborg,4,Vindinge Forsamlingshus,A_Henrik_Hauge_Vestergaard,Henrik Hauge Vestergaard,Socialdemokratiet,0
+Nyborg,4,Vindinge Forsamlingshus,A_Steen_Ole_Steensen_Christensen,Steen Ole Steensen Christensen,Socialdemokratiet,6
+Nyborg,4,Vindinge Forsamlingshus,A_Merete_Østergaard_Bang,Merete Østergaard Bang,Socialdemokratiet,2
+Nyborg,4,Vindinge Forsamlingshus,A_Kirstine_Sofie_Ingemann_Skyggelund,Kirstine Sofie Ingemann Skyggelund,Socialdemokratiet,6
+Nyborg,4,Vindinge Forsamlingshus,A_Allan_Lindholm,Allan Lindholm,Socialdemokratiet,0
+Nyborg,4,Vindinge Forsamlingshus,A_Sabrina_Baltser_Verner,Sabrina Baltser Verner,Socialdemokratiet,0
+Nyborg,4,Vindinge Forsamlingshus,A_Brian_Kristiansen,Brian Kristiansen,Socialdemokratiet,0
+Nyborg,4,Vindinge Forsamlingshus,A_Carsten_Sahl_Rasmussen,Carsten Sahl Rasmussen,Socialdemokratiet,1
+Nyborg,4,Vindinge Forsamlingshus,A_Casey_Lasse_Høybye_Pedersen,Casey Lasse Høybye Pedersen,Socialdemokratiet,1
+Nyborg,4,Vindinge Forsamlingshus,A_Lone_Smidt,Lone Smidt,Socialdemokratiet,23
+Nyborg,4,Vindinge Forsamlingshus,B_Listestemmer,Listestemmer,Radikale Venstre,6
+Nyborg,4,Vindinge Forsamlingshus,B_Emilie_Halbye_Haaning,Emilie Halbye Haaning,Radikale Venstre,3
+Nyborg,4,Vindinge Forsamlingshus,B_Hjalmar_Christiansen,Hjalmar Christiansen,Radikale Venstre,0
+Nyborg,4,Vindinge Forsamlingshus,B_Ludvig_Eduard_Dittmann,Ludvig Eduard Dittmann,Radikale Venstre,0
+Nyborg,4,Vindinge Forsamlingshus,B_Karen_Moritz_Hansen,Karen Moritz Hansen,Radikale Venstre,14
+Nyborg,4,Vindinge Forsamlingshus,B_Dorit_Myltoft,Dorit Myltoft,Radikale Venstre,1
+Nyborg,4,Vindinge Forsamlingshus,B_Jesper_Trampedach,Jesper Trampedach,Radikale Venstre,0
+Nyborg,4,Vindinge Forsamlingshus,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,15
+Nyborg,4,Vindinge Forsamlingshus,C_Jan_Michael_Gertsen,Jan Michael Gertsen,Det Konservative Folkeparti,10
+Nyborg,4,Vindinge Forsamlingshus,C_Thomas_Bo_Fibiger_Rydahl,Thomas Bo Fibiger Rydahl,Det Konservative Folkeparti,13
+Nyborg,4,Vindinge Forsamlingshus,C_Tjalfe_Nørregaard_Schmidt,Tjalfe Nørregaard Schmidt,Det Konservative Folkeparti,1
+Nyborg,4,Vindinge Forsamlingshus,C_Thomas_Egelund_Krum,Thomas Egelund Krum,Det Konservative Folkeparti,1
+Nyborg,4,Vindinge Forsamlingshus,C_Niels_Lundshøj_Regnarsen,Niels Lundshøj Regnarsen,Det Konservative Folkeparti,1
+Nyborg,4,Vindinge Forsamlingshus,C_Anne_Conradsen,Anne Conradsen,Det Konservative Folkeparti,3
+Nyborg,4,Vindinge Forsamlingshus,C_Oscar_Ibsen,Oscar Ibsen,Det Konservative Folkeparti,1
+Nyborg,4,Vindinge Forsamlingshus,C_Henrik_Boeriths,Henrik Boeriths,Det Konservative Folkeparti,0
+Nyborg,4,Vindinge Forsamlingshus,C_Per_Kurt_Olsen,Per Kurt Olsen,Det Konservative Folkeparti,0
+Nyborg,4,Vindinge Forsamlingshus,C_Jessika_Hanna_Marie_J_Harboe,Jessika Hanna Marie J Harboe,Det Konservative Folkeparti,0
+Nyborg,4,Vindinge Forsamlingshus,C_Thomas_Bach_Piekut,Thomas Bach Piekut,Det Konservative Folkeparti,0
+Nyborg,4,Vindinge Forsamlingshus,D_Listestemmer,Listestemmer,Nye Borgerlige,4
+Nyborg,4,Vindinge Forsamlingshus,D_Kasper_Mejlhede,Kasper Mejlhede,Nye Borgerlige,5
+Nyborg,4,Vindinge Forsamlingshus,D_Henrik_Aaen,Henrik Aaen,Nye Borgerlige,6
+Nyborg,4,Vindinge Forsamlingshus,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,30
+Nyborg,4,Vindinge Forsamlingshus,F_Suzette_Frovin,Suzette Frovin,SF - Socialistisk Folkeparti,53
+Nyborg,4,Vindinge Forsamlingshus,F_Ole_Tyrsted_Jørgensen,Ole Tyrsted Jørgensen,SF - Socialistisk Folkeparti,10
+Nyborg,4,Vindinge Forsamlingshus,F_Anja_Sika_de_Thurah,Anja Sika de Thurah,SF - Socialistisk Folkeparti,7
+Nyborg,4,Vindinge Forsamlingshus,F_Jens_Høj_Justesen,Jens Høj Justesen,SF - Socialistisk Folkeparti,1
+Nyborg,4,Vindinge Forsamlingshus,F_Frans_Jakobsen,Frans Jakobsen,SF - Socialistisk Folkeparti,1
+Nyborg,4,Vindinge Forsamlingshus,F_Gøye_Thorn_Svendsen,Gøye Thorn Svendsen,SF - Socialistisk Folkeparti,1
+Nyborg,4,Vindinge Forsamlingshus,F_Jette_Iben_Bohr,Jette Iben Bohr,SF - Socialistisk Folkeparti,2
+Nyborg,4,Vindinge Forsamlingshus,F_Hans_Biering,Hans Biering,SF - Socialistisk Folkeparti,3
+Nyborg,4,Vindinge Forsamlingshus,I_Listestemmer,Listestemmer,Liberal Alliance,2
+Nyborg,4,Vindinge Forsamlingshus,I_Lars_Ole_Petersen,Lars Ole Petersen,Liberal Alliance,7
+Nyborg,4,Vindinge Forsamlingshus,M_Listestemmer,Listestemmer,Vi Lokale Demokrater,1
+Nyborg,4,Vindinge Forsamlingshus,M_Carsten_Kudsk,Carsten Kudsk,Vi Lokale Demokrater,4
+Nyborg,4,Vindinge Forsamlingshus,M_Knud_Skov_Ahrnkiel,Knud Skov Ahrnkiel,Vi Lokale Demokrater,2
+Nyborg,4,Vindinge Forsamlingshus,M_Lars-Aage_Schjoldager,Lars-Aage Schjoldager,Vi Lokale Demokrater,2
+Nyborg,4,Vindinge Forsamlingshus,M_Lisa_Ralph_Ravn,Lisa Ralph Ravn,Vi Lokale Demokrater,0
+Nyborg,4,Vindinge Forsamlingshus,M_Kent_Høiberg_Larsen,Kent Høiberg Larsen,Vi Lokale Demokrater,0
+Nyborg,4,Vindinge Forsamlingshus,M_Henning_Faurby_Pedersen,Henning Faurby Pedersen,Vi Lokale Demokrater,0
+Nyborg,4,Vindinge Forsamlingshus,M_Ib_Jørgen_Kristensen,Ib Jørgen Kristensen,Vi Lokale Demokrater,0
+Nyborg,4,Vindinge Forsamlingshus,M_Jan_Thornfeldt,Jan Thornfeldt,Vi Lokale Demokrater,0
+Nyborg,4,Vindinge Forsamlingshus,O_Listestemmer,Listestemmer,Dansk Folkeparti,10
+Nyborg,4,Vindinge Forsamlingshus,O_Anne_Marie_Palm-Johansen,Anne Marie Palm-Johansen,Dansk Folkeparti,11
+Nyborg,4,Vindinge Forsamlingshus,O_Frank_Sørensen,Frank Sørensen,Dansk Folkeparti,4
+Nyborg,4,Vindinge Forsamlingshus,O_Allan_Møller_Lau,Allan Møller Lau,Dansk Folkeparti,0
+Nyborg,4,Vindinge Forsamlingshus,O_Eva_Thind_Høiberg,Eva Thind Høiberg,Dansk Folkeparti,1
+Nyborg,4,Vindinge Forsamlingshus,O_Rudy_Lyngvig,Rudy Lyngvig,Dansk Folkeparti,0
+Nyborg,4,Vindinge Forsamlingshus,O_Bent_Larsen,Bent Larsen,Dansk Folkeparti,0
+Nyborg,4,Vindinge Forsamlingshus,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",54
+Nyborg,4,Vindinge Forsamlingshus,V_Kenneth_Lundager_Muhs,Kenneth Lundager Muhs,"Venstre, Danmarks Liberale Parti",504
+Nyborg,4,Vindinge Forsamlingshus,V_Kaj_Jacobsen_Refslund,Kaj Jacobsen Refslund,"Venstre, Danmarks Liberale Parti",8
+Nyborg,4,Vindinge Forsamlingshus,V_Søren_Ejnar_Svendsen,Søren Ejnar Svendsen,"Venstre, Danmarks Liberale Parti",3
+Nyborg,4,Vindinge Forsamlingshus,V_Jørgen_Jørgensen,Jørgen Jørgensen,"Venstre, Danmarks Liberale Parti",6
+Nyborg,4,Vindinge Forsamlingshus,V_Anja_Lærke_Kongsdal,Anja Lærke Kongsdal,"Venstre, Danmarks Liberale Parti",9
+Nyborg,4,Vindinge Forsamlingshus,V_Jacob_Nilsson,Jacob Nilsson,"Venstre, Danmarks Liberale Parti",2
+Nyborg,4,Vindinge Forsamlingshus,V_Puk_Colette_Lundemann_Løndahl,Puk Colette Lundemann Løndahl,"Venstre, Danmarks Liberale Parti",3
+Nyborg,4,Vindinge Forsamlingshus,V_Søren_Nielsen,Søren Nielsen,"Venstre, Danmarks Liberale Parti",6
+Nyborg,4,Vindinge Forsamlingshus,V_Peter_Wagner_Mollerup,Peter Wagner Mollerup,"Venstre, Danmarks Liberale Parti",2
+Nyborg,4,Vindinge Forsamlingshus,V_Martin_Huus,Martin Huus,"Venstre, Danmarks Liberale Parti",25
+Nyborg,4,Vindinge Forsamlingshus,V_Niels_Ørsted,Niels Ørsted,"Venstre, Danmarks Liberale Parti",0
+Nyborg,4,Vindinge Forsamlingshus,V_Jan_Reimer_Christiansen,Jan Reimer Christiansen,"Venstre, Danmarks Liberale Parti",2
+Nyborg,4,Vindinge Forsamlingshus,V_Kenneth_Taanquist,Kenneth Taanquist,"Venstre, Danmarks Liberale Parti",5
+Nyborg,4,Vindinge Forsamlingshus,V_Flemming_Kjærulf_Rasmussen,Flemming Kjærulf Rasmussen,"Venstre, Danmarks Liberale Parti",3
+Nyborg,4,Vindinge Forsamlingshus,V_Jørn_Terndrup,Jørn Terndrup,"Venstre, Danmarks Liberale Parti",12
+Nyborg,4,Vindinge Forsamlingshus,V_Anne_Dyrhøj,Anne Dyrhøj,"Venstre, Danmarks Liberale Parti",23
+Nyborg,4,Vindinge Forsamlingshus,V_Pia_Kondrup_Juul-Nielsen,Pia Kondrup Juul-Nielsen,"Venstre, Danmarks Liberale Parti",22
+Nyborg,4,Vindinge Forsamlingshus,V_Jørn_Gammeltoft_Gustavsen,Jørn Gammeltoft Gustavsen,"Venstre, Danmarks Liberale Parti",19
+Nyborg,4,Vindinge Forsamlingshus,V_John_Normann_Burke-Hansen,John Normann Burke-Hansen,"Venstre, Danmarks Liberale Parti",1
+Nyborg,4,Vindinge Forsamlingshus,V_Keld_Cramer_Hjort,Keld Cramer Hjort,"Venstre, Danmarks Liberale Parti",0
+Nyborg,4,Vindinge Forsamlingshus,V_Anja_Diana_Kjær_Sohne,Anja Diana Kjær Sohne,"Venstre, Danmarks Liberale Parti",1
+Nyborg,4,Vindinge Forsamlingshus,V_Rune_Christensen,Rune Christensen,"Venstre, Danmarks Liberale Parti",2
+Nyborg,4,Vindinge Forsamlingshus,V_Per_Sønder,Per Sønder,"Venstre, Danmarks Liberale Parti",0
+Nyborg,4,Vindinge Forsamlingshus,V_Birol_Kalem,Birol Kalem,"Venstre, Danmarks Liberale Parti",1
+Nyborg,4,Vindinge Forsamlingshus,V_Nanna_Elm_Bille_Adamsen,Nanna Elm Bille Adamsen,"Venstre, Danmarks Liberale Parti",5
+Nyborg,4,Vindinge Forsamlingshus,V_Claus_Roed_Nielsen,Claus Roed Nielsen,"Venstre, Danmarks Liberale Parti",0
+Nyborg,4,Vindinge Forsamlingshus,V_Davíð_Hrafnsson_Holst_Nielsen,Davíð Hrafnsson Holst Nielsen,"Venstre, Danmarks Liberale Parti",0
+Nyborg,4,Vindinge Forsamlingshus,V_Kirsten_Lissi_Press,Kirsten Lissi Press,"Venstre, Danmarks Liberale Parti",2
+Nyborg,4,Vindinge Forsamlingshus,V_Carsten_Karner_Hansen,Carsten Karner Hansen,"Venstre, Danmarks Liberale Parti",0
+Nyborg,4,Vindinge Forsamlingshus,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,32
+Nyborg,4,Vindinge Forsamlingshus,Ø_Melissa_Meulengracht,Melissa Meulengracht,Enhedslisten - De Rød-Grønne,7
+Nyborg,4,Vindinge Forsamlingshus,Ø_Anders_Kirkebæk-Jensen,Anders Kirkebæk-Jensen,Enhedslisten - De Rød-Grønne,7
+Nyborg,4,Vindinge Forsamlingshus,Ø_Ane-Louise_Kobbermose_Stampe,Ane-Louise Kobbermose Stampe,Enhedslisten - De Rød-Grønne,0
+Nyborg,4,Vindinge Forsamlingshus,Ø_Sanja_Kirk_Hansen,Sanja Kirk Hansen,Enhedslisten - De Rød-Grønne,1
+Nyborg,4,Vindinge Forsamlingshus,Ø_Lars_Michael_Christian_J_Bennedbæk,Lars Michael Christian J Bennedbæk,Enhedslisten - De Rød-Grønne,1
+Nyborg,4,Vindinge Forsamlingshus,Ø_Preben_Jørgensen,Preben Jørgensen,Enhedslisten - De Rød-Grønne,3
+Nyborg,4,Vindinge Forsamlingshus,Ø_Benny_Lammert_Pieszak,Benny Lammert Pieszak,Enhedslisten - De Rød-Grønne,1
+Nyborg,5,"Langå, Svindinge Og Øksendrup",A_Listestemmer,Listestemmer,Socialdemokratiet,31
+Nyborg,5,"Langå, Svindinge Og Øksendrup",A_Sonja_Marie_Jensen,Sonja Marie Jensen,Socialdemokratiet,35
+Nyborg,5,"Langå, Svindinge Og Øksendrup",A_Jesper_Nielsen,Jesper Nielsen,Socialdemokratiet,2
+Nyborg,5,"Langå, Svindinge Og Øksendrup",A_Martin_Stenmann,Martin Stenmann,Socialdemokratiet,16
+Nyborg,5,"Langå, Svindinge Og Øksendrup",A_Barbara_Bendahl_Schultz,Barbara Bendahl Schultz,Socialdemokratiet,0
+Nyborg,5,"Langå, Svindinge Og Øksendrup",A_Per_Chrone_Jespersen,Per Chrone Jespersen,Socialdemokratiet,5
+Nyborg,5,"Langå, Svindinge Og Øksendrup",A_Poul_Erik_Knudsen,Poul Erik Knudsen,Socialdemokratiet,0
+Nyborg,5,"Langå, Svindinge Og Øksendrup",A_Vibeke_Franziska_L_Ejlertsen,Vibeke Franziska L Ejlertsen,Socialdemokratiet,0
+Nyborg,5,"Langå, Svindinge Og Øksendrup",A_Heidi_Anker_Leen,Heidi Anker Leen,Socialdemokratiet,3
+Nyborg,5,"Langå, Svindinge Og Øksendrup",A_Claus_Johanson,Claus Johanson,Socialdemokratiet,1
+Nyborg,5,"Langå, Svindinge Og Øksendrup",A_Lene_Ingemann_Skyggelund,Lene Ingemann Skyggelund,Socialdemokratiet,0
+Nyborg,5,"Langå, Svindinge Og Øksendrup",A_Janni_Møller_Sørensen,Janni Møller Sørensen,Socialdemokratiet,2
+Nyborg,5,"Langå, Svindinge Og Øksendrup",A_Rameesh_Thirugnanasambanther,Rameesh Thirugnanasambanther,Socialdemokratiet,3
+Nyborg,5,"Langå, Svindinge Og Øksendrup",A_Henrik_Hauge_Vestergaard,Henrik Hauge Vestergaard,Socialdemokratiet,0
+Nyborg,5,"Langå, Svindinge Og Øksendrup",A_Steen_Ole_Steensen_Christensen,Steen Ole Steensen Christensen,Socialdemokratiet,2
+Nyborg,5,"Langå, Svindinge Og Øksendrup",A_Merete_Østergaard_Bang,Merete Østergaard Bang,Socialdemokratiet,3
+Nyborg,5,"Langå, Svindinge Og Øksendrup",A_Kirstine_Sofie_Ingemann_Skyggelund,Kirstine Sofie Ingemann Skyggelund,Socialdemokratiet,2
+Nyborg,5,"Langå, Svindinge Og Øksendrup",A_Allan_Lindholm,Allan Lindholm,Socialdemokratiet,2
+Nyborg,5,"Langå, Svindinge Og Øksendrup",A_Sabrina_Baltser_Verner,Sabrina Baltser Verner,Socialdemokratiet,3
+Nyborg,5,"Langå, Svindinge Og Øksendrup",A_Brian_Kristiansen,Brian Kristiansen,Socialdemokratiet,0
+Nyborg,5,"Langå, Svindinge Og Øksendrup",A_Carsten_Sahl_Rasmussen,Carsten Sahl Rasmussen,Socialdemokratiet,0
+Nyborg,5,"Langå, Svindinge Og Øksendrup",A_Casey_Lasse_Høybye_Pedersen,Casey Lasse Høybye Pedersen,Socialdemokratiet,0
+Nyborg,5,"Langå, Svindinge Og Øksendrup",A_Lone_Smidt,Lone Smidt,Socialdemokratiet,5
+Nyborg,5,"Langå, Svindinge Og Øksendrup",B_Listestemmer,Listestemmer,Radikale Venstre,4
+Nyborg,5,"Langå, Svindinge Og Øksendrup",B_Emilie_Halbye_Haaning,Emilie Halbye Haaning,Radikale Venstre,7
+Nyborg,5,"Langå, Svindinge Og Øksendrup",B_Hjalmar_Christiansen,Hjalmar Christiansen,Radikale Venstre,0
+Nyborg,5,"Langå, Svindinge Og Øksendrup",B_Ludvig_Eduard_Dittmann,Ludvig Eduard Dittmann,Radikale Venstre,1
+Nyborg,5,"Langå, Svindinge Og Øksendrup",B_Karen_Moritz_Hansen,Karen Moritz Hansen,Radikale Venstre,3
+Nyborg,5,"Langå, Svindinge Og Øksendrup",B_Dorit_Myltoft,Dorit Myltoft,Radikale Venstre,0
+Nyborg,5,"Langå, Svindinge Og Øksendrup",B_Jesper_Trampedach,Jesper Trampedach,Radikale Venstre,0
+Nyborg,5,"Langå, Svindinge Og Øksendrup",C_Listestemmer,Listestemmer,Det Konservative Folkeparti,11
+Nyborg,5,"Langå, Svindinge Og Øksendrup",C_Jan_Michael_Gertsen,Jan Michael Gertsen,Det Konservative Folkeparti,9
+Nyborg,5,"Langå, Svindinge Og Øksendrup",C_Thomas_Bo_Fibiger_Rydahl,Thomas Bo Fibiger Rydahl,Det Konservative Folkeparti,0
+Nyborg,5,"Langå, Svindinge Og Øksendrup",C_Tjalfe_Nørregaard_Schmidt,Tjalfe Nørregaard Schmidt,Det Konservative Folkeparti,0
+Nyborg,5,"Langå, Svindinge Og Øksendrup",C_Thomas_Egelund_Krum,Thomas Egelund Krum,Det Konservative Folkeparti,0
+Nyborg,5,"Langå, Svindinge Og Øksendrup",C_Niels_Lundshøj_Regnarsen,Niels Lundshøj Regnarsen,Det Konservative Folkeparti,0
+Nyborg,5,"Langå, Svindinge Og Øksendrup",C_Anne_Conradsen,Anne Conradsen,Det Konservative Folkeparti,2
+Nyborg,5,"Langå, Svindinge Og Øksendrup",C_Oscar_Ibsen,Oscar Ibsen,Det Konservative Folkeparti,0
+Nyborg,5,"Langå, Svindinge Og Øksendrup",C_Henrik_Boeriths,Henrik Boeriths,Det Konservative Folkeparti,3
+Nyborg,5,"Langå, Svindinge Og Øksendrup",C_Per_Kurt_Olsen,Per Kurt Olsen,Det Konservative Folkeparti,0
+Nyborg,5,"Langå, Svindinge Og Øksendrup",C_Jessika_Hanna_Marie_J_Harboe,Jessika Hanna Marie J Harboe,Det Konservative Folkeparti,0
+Nyborg,5,"Langå, Svindinge Og Øksendrup",C_Thomas_Bach_Piekut,Thomas Bach Piekut,Det Konservative Folkeparti,0
+Nyborg,5,"Langå, Svindinge Og Øksendrup",D_Listestemmer,Listestemmer,Nye Borgerlige,5
+Nyborg,5,"Langå, Svindinge Og Øksendrup",D_Kasper_Mejlhede,Kasper Mejlhede,Nye Borgerlige,9
+Nyborg,5,"Langå, Svindinge Og Øksendrup",D_Henrik_Aaen,Henrik Aaen,Nye Borgerlige,1
+Nyborg,5,"Langå, Svindinge Og Øksendrup",F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,10
+Nyborg,5,"Langå, Svindinge Og Øksendrup",F_Suzette_Frovin,Suzette Frovin,SF - Socialistisk Folkeparti,29
+Nyborg,5,"Langå, Svindinge Og Øksendrup",F_Ole_Tyrsted_Jørgensen,Ole Tyrsted Jørgensen,SF - Socialistisk Folkeparti,6
+Nyborg,5,"Langå, Svindinge Og Øksendrup",F_Anja_Sika_de_Thurah,Anja Sika de Thurah,SF - Socialistisk Folkeparti,5
+Nyborg,5,"Langå, Svindinge Og Øksendrup",F_Jens_Høj_Justesen,Jens Høj Justesen,SF - Socialistisk Folkeparti,0
+Nyborg,5,"Langå, Svindinge Og Øksendrup",F_Frans_Jakobsen,Frans Jakobsen,SF - Socialistisk Folkeparti,0
+Nyborg,5,"Langå, Svindinge Og Øksendrup",F_Gøye_Thorn_Svendsen,Gøye Thorn Svendsen,SF - Socialistisk Folkeparti,0
+Nyborg,5,"Langå, Svindinge Og Øksendrup",F_Jette_Iben_Bohr,Jette Iben Bohr,SF - Socialistisk Folkeparti,1
+Nyborg,5,"Langå, Svindinge Og Øksendrup",F_Hans_Biering,Hans Biering,SF - Socialistisk Folkeparti,0
+Nyborg,5,"Langå, Svindinge Og Øksendrup",I_Listestemmer,Listestemmer,Liberal Alliance,0
+Nyborg,5,"Langå, Svindinge Og Øksendrup",I_Lars_Ole_Petersen,Lars Ole Petersen,Liberal Alliance,1
+Nyborg,5,"Langå, Svindinge Og Øksendrup",M_Listestemmer,Listestemmer,Vi Lokale Demokrater,1
+Nyborg,5,"Langå, Svindinge Og Øksendrup",M_Carsten_Kudsk,Carsten Kudsk,Vi Lokale Demokrater,10
+Nyborg,5,"Langå, Svindinge Og Øksendrup",M_Knud_Skov_Ahrnkiel,Knud Skov Ahrnkiel,Vi Lokale Demokrater,1
+Nyborg,5,"Langå, Svindinge Og Øksendrup",M_Lars-Aage_Schjoldager,Lars-Aage Schjoldager,Vi Lokale Demokrater,0
+Nyborg,5,"Langå, Svindinge Og Øksendrup",M_Lisa_Ralph_Ravn,Lisa Ralph Ravn,Vi Lokale Demokrater,0
+Nyborg,5,"Langå, Svindinge Og Øksendrup",M_Kent_Høiberg_Larsen,Kent Høiberg Larsen,Vi Lokale Demokrater,0
+Nyborg,5,"Langå, Svindinge Og Øksendrup",M_Henning_Faurby_Pedersen,Henning Faurby Pedersen,Vi Lokale Demokrater,0
+Nyborg,5,"Langå, Svindinge Og Øksendrup",M_Ib_Jørgen_Kristensen,Ib Jørgen Kristensen,Vi Lokale Demokrater,0
+Nyborg,5,"Langå, Svindinge Og Øksendrup",M_Jan_Thornfeldt,Jan Thornfeldt,Vi Lokale Demokrater,0
+Nyborg,5,"Langå, Svindinge Og Øksendrup",O_Listestemmer,Listestemmer,Dansk Folkeparti,10
+Nyborg,5,"Langå, Svindinge Og Øksendrup",O_Anne_Marie_Palm-Johansen,Anne Marie Palm-Johansen,Dansk Folkeparti,11
+Nyborg,5,"Langå, Svindinge Og Øksendrup",O_Frank_Sørensen,Frank Sørensen,Dansk Folkeparti,0
+Nyborg,5,"Langå, Svindinge Og Øksendrup",O_Allan_Møller_Lau,Allan Møller Lau,Dansk Folkeparti,0
+Nyborg,5,"Langå, Svindinge Og Øksendrup",O_Eva_Thind_Høiberg,Eva Thind Høiberg,Dansk Folkeparti,0
+Nyborg,5,"Langå, Svindinge Og Øksendrup",O_Rudy_Lyngvig,Rudy Lyngvig,Dansk Folkeparti,1
+Nyborg,5,"Langå, Svindinge Og Øksendrup",O_Bent_Larsen,Bent Larsen,Dansk Folkeparti,1
+Nyborg,5,"Langå, Svindinge Og Øksendrup",V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",24
+Nyborg,5,"Langå, Svindinge Og Øksendrup",V_Kenneth_Lundager_Muhs,Kenneth Lundager Muhs,"Venstre, Danmarks Liberale Parti",228
+Nyborg,5,"Langå, Svindinge Og Øksendrup",V_Kaj_Jacobsen_Refslund,Kaj Jacobsen Refslund,"Venstre, Danmarks Liberale Parti",4
+Nyborg,5,"Langå, Svindinge Og Øksendrup",V_Søren_Ejnar_Svendsen,Søren Ejnar Svendsen,"Venstre, Danmarks Liberale Parti",9
+Nyborg,5,"Langå, Svindinge Og Øksendrup",V_Jørgen_Jørgensen,Jørgen Jørgensen,"Venstre, Danmarks Liberale Parti",1
+Nyborg,5,"Langå, Svindinge Og Øksendrup",V_Anja_Lærke_Kongsdal,Anja Lærke Kongsdal,"Venstre, Danmarks Liberale Parti",2
+Nyborg,5,"Langå, Svindinge Og Øksendrup",V_Jacob_Nilsson,Jacob Nilsson,"Venstre, Danmarks Liberale Parti",20
+Nyborg,5,"Langå, Svindinge Og Øksendrup",V_Puk_Colette_Lundemann_Løndahl,Puk Colette Lundemann Løndahl,"Venstre, Danmarks Liberale Parti",2
+Nyborg,5,"Langå, Svindinge Og Øksendrup",V_Søren_Nielsen,Søren Nielsen,"Venstre, Danmarks Liberale Parti",0
+Nyborg,5,"Langå, Svindinge Og Øksendrup",V_Peter_Wagner_Mollerup,Peter Wagner Mollerup,"Venstre, Danmarks Liberale Parti",1
+Nyborg,5,"Langå, Svindinge Og Øksendrup",V_Martin_Huus,Martin Huus,"Venstre, Danmarks Liberale Parti",6
+Nyborg,5,"Langå, Svindinge Og Øksendrup",V_Niels_Ørsted,Niels Ørsted,"Venstre, Danmarks Liberale Parti",0
+Nyborg,5,"Langå, Svindinge Og Øksendrup",V_Jan_Reimer_Christiansen,Jan Reimer Christiansen,"Venstre, Danmarks Liberale Parti",0
+Nyborg,5,"Langå, Svindinge Og Øksendrup",V_Kenneth_Taanquist,Kenneth Taanquist,"Venstre, Danmarks Liberale Parti",5
+Nyborg,5,"Langå, Svindinge Og Øksendrup",V_Flemming_Kjærulf_Rasmussen,Flemming Kjærulf Rasmussen,"Venstre, Danmarks Liberale Parti",0
+Nyborg,5,"Langå, Svindinge Og Øksendrup",V_Jørn_Terndrup,Jørn Terndrup,"Venstre, Danmarks Liberale Parti",1
+Nyborg,5,"Langå, Svindinge Og Øksendrup",V_Anne_Dyrhøj,Anne Dyrhøj,"Venstre, Danmarks Liberale Parti",0
+Nyborg,5,"Langå, Svindinge Og Øksendrup",V_Pia_Kondrup_Juul-Nielsen,Pia Kondrup Juul-Nielsen,"Venstre, Danmarks Liberale Parti",0
+Nyborg,5,"Langå, Svindinge Og Øksendrup",V_Jørn_Gammeltoft_Gustavsen,Jørn Gammeltoft Gustavsen,"Venstre, Danmarks Liberale Parti",0
+Nyborg,5,"Langå, Svindinge Og Øksendrup",V_John_Normann_Burke-Hansen,John Normann Burke-Hansen,"Venstre, Danmarks Liberale Parti",0
+Nyborg,5,"Langå, Svindinge Og Øksendrup",V_Keld_Cramer_Hjort,Keld Cramer Hjort,"Venstre, Danmarks Liberale Parti",0
+Nyborg,5,"Langå, Svindinge Og Øksendrup",V_Anja_Diana_Kjær_Sohne,Anja Diana Kjær Sohne,"Venstre, Danmarks Liberale Parti",3
+Nyborg,5,"Langå, Svindinge Og Øksendrup",V_Rune_Christensen,Rune Christensen,"Venstre, Danmarks Liberale Parti",0
+Nyborg,5,"Langå, Svindinge Og Øksendrup",V_Per_Sønder,Per Sønder,"Venstre, Danmarks Liberale Parti",0
+Nyborg,5,"Langå, Svindinge Og Øksendrup",V_Birol_Kalem,Birol Kalem,"Venstre, Danmarks Liberale Parti",0
+Nyborg,5,"Langå, Svindinge Og Øksendrup",V_Nanna_Elm_Bille_Adamsen,Nanna Elm Bille Adamsen,"Venstre, Danmarks Liberale Parti",1
+Nyborg,5,"Langå, Svindinge Og Øksendrup",V_Claus_Roed_Nielsen,Claus Roed Nielsen,"Venstre, Danmarks Liberale Parti",0
+Nyborg,5,"Langå, Svindinge Og Øksendrup",V_Davíð_Hrafnsson_Holst_Nielsen,Davíð Hrafnsson Holst Nielsen,"Venstre, Danmarks Liberale Parti",0
+Nyborg,5,"Langå, Svindinge Og Øksendrup",V_Kirsten_Lissi_Press,Kirsten Lissi Press,"Venstre, Danmarks Liberale Parti",3
+Nyborg,5,"Langå, Svindinge Og Øksendrup",V_Carsten_Karner_Hansen,Carsten Karner Hansen,"Venstre, Danmarks Liberale Parti",0
+Nyborg,5,"Langå, Svindinge Og Øksendrup",Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,24
+Nyborg,5,"Langå, Svindinge Og Øksendrup",Ø_Melissa_Meulengracht,Melissa Meulengracht,Enhedslisten - De Rød-Grønne,6
+Nyborg,5,"Langå, Svindinge Og Øksendrup",Ø_Anders_Kirkebæk-Jensen,Anders Kirkebæk-Jensen,Enhedslisten - De Rød-Grønne,3
+Nyborg,5,"Langå, Svindinge Og Øksendrup",Ø_Ane-Louise_Kobbermose_Stampe,Ane-Louise Kobbermose Stampe,Enhedslisten - De Rød-Grønne,1
+Nyborg,5,"Langå, Svindinge Og Øksendrup",Ø_Sanja_Kirk_Hansen,Sanja Kirk Hansen,Enhedslisten - De Rød-Grønne,0
+Nyborg,5,"Langå, Svindinge Og Øksendrup",Ø_Lars_Michael_Christian_J_Bennedbæk,Lars Michael Christian J Bennedbæk,Enhedslisten - De Rød-Grønne,0
+Nyborg,5,"Langå, Svindinge Og Øksendrup",Ø_Preben_Jørgensen,Preben Jørgensen,Enhedslisten - De Rød-Grønne,1
+Nyborg,5,"Langå, Svindinge Og Øksendrup",Ø_Benny_Lammert_Pieszak,Benny Lammert Pieszak,Enhedslisten - De Rød-Grønne,2
+Nyborg,6,Ullerslev,A_Listestemmer,Listestemmer,Socialdemokratiet,118
+Nyborg,6,Ullerslev,A_Sonja_Marie_Jensen,Sonja Marie Jensen,Socialdemokratiet,227
+Nyborg,6,Ullerslev,A_Jesper_Nielsen,Jesper Nielsen,Socialdemokratiet,13
+Nyborg,6,Ullerslev,A_Martin_Stenmann,Martin Stenmann,Socialdemokratiet,7
+Nyborg,6,Ullerslev,A_Barbara_Bendahl_Schultz,Barbara Bendahl Schultz,Socialdemokratiet,5
+Nyborg,6,Ullerslev,A_Per_Chrone_Jespersen,Per Chrone Jespersen,Socialdemokratiet,6
+Nyborg,6,Ullerslev,A_Poul_Erik_Knudsen,Poul Erik Knudsen,Socialdemokratiet,0
+Nyborg,6,Ullerslev,A_Vibeke_Franziska_L_Ejlertsen,Vibeke Franziska L Ejlertsen,Socialdemokratiet,9
+Nyborg,6,Ullerslev,A_Heidi_Anker_Leen,Heidi Anker Leen,Socialdemokratiet,1
+Nyborg,6,Ullerslev,A_Claus_Johanson,Claus Johanson,Socialdemokratiet,0
+Nyborg,6,Ullerslev,A_Lene_Ingemann_Skyggelund,Lene Ingemann Skyggelund,Socialdemokratiet,1
+Nyborg,6,Ullerslev,A_Janni_Møller_Sørensen,Janni Møller Sørensen,Socialdemokratiet,9
+Nyborg,6,Ullerslev,A_Rameesh_Thirugnanasambanther,Rameesh Thirugnanasambanther,Socialdemokratiet,9
+Nyborg,6,Ullerslev,A_Henrik_Hauge_Vestergaard,Henrik Hauge Vestergaard,Socialdemokratiet,150
+Nyborg,6,Ullerslev,A_Steen_Ole_Steensen_Christensen,Steen Ole Steensen Christensen,Socialdemokratiet,2
+Nyborg,6,Ullerslev,A_Merete_Østergaard_Bang,Merete Østergaard Bang,Socialdemokratiet,2
+Nyborg,6,Ullerslev,A_Kirstine_Sofie_Ingemann_Skyggelund,Kirstine Sofie Ingemann Skyggelund,Socialdemokratiet,2
+Nyborg,6,Ullerslev,A_Allan_Lindholm,Allan Lindholm,Socialdemokratiet,4
+Nyborg,6,Ullerslev,A_Sabrina_Baltser_Verner,Sabrina Baltser Verner,Socialdemokratiet,3
+Nyborg,6,Ullerslev,A_Brian_Kristiansen,Brian Kristiansen,Socialdemokratiet,1
+Nyborg,6,Ullerslev,A_Carsten_Sahl_Rasmussen,Carsten Sahl Rasmussen,Socialdemokratiet,1
+Nyborg,6,Ullerslev,A_Casey_Lasse_Høybye_Pedersen,Casey Lasse Høybye Pedersen,Socialdemokratiet,0
+Nyborg,6,Ullerslev,A_Lone_Smidt,Lone Smidt,Socialdemokratiet,17
+Nyborg,6,Ullerslev,B_Listestemmer,Listestemmer,Radikale Venstre,4
+Nyborg,6,Ullerslev,B_Emilie_Halbye_Haaning,Emilie Halbye Haaning,Radikale Venstre,1
+Nyborg,6,Ullerslev,B_Hjalmar_Christiansen,Hjalmar Christiansen,Radikale Venstre,0
+Nyborg,6,Ullerslev,B_Ludvig_Eduard_Dittmann,Ludvig Eduard Dittmann,Radikale Venstre,3
+Nyborg,6,Ullerslev,B_Karen_Moritz_Hansen,Karen Moritz Hansen,Radikale Venstre,6
+Nyborg,6,Ullerslev,B_Dorit_Myltoft,Dorit Myltoft,Radikale Venstre,2
+Nyborg,6,Ullerslev,B_Jesper_Trampedach,Jesper Trampedach,Radikale Venstre,0
+Nyborg,6,Ullerslev,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,20
+Nyborg,6,Ullerslev,C_Jan_Michael_Gertsen,Jan Michael Gertsen,Det Konservative Folkeparti,7
+Nyborg,6,Ullerslev,C_Thomas_Bo_Fibiger_Rydahl,Thomas Bo Fibiger Rydahl,Det Konservative Folkeparti,3
+Nyborg,6,Ullerslev,C_Tjalfe_Nørregaard_Schmidt,Tjalfe Nørregaard Schmidt,Det Konservative Folkeparti,7
+Nyborg,6,Ullerslev,C_Thomas_Egelund_Krum,Thomas Egelund Krum,Det Konservative Folkeparti,2
+Nyborg,6,Ullerslev,C_Niels_Lundshøj_Regnarsen,Niels Lundshøj Regnarsen,Det Konservative Folkeparti,1
+Nyborg,6,Ullerslev,C_Anne_Conradsen,Anne Conradsen,Det Konservative Folkeparti,2
+Nyborg,6,Ullerslev,C_Oscar_Ibsen,Oscar Ibsen,Det Konservative Folkeparti,1
+Nyborg,6,Ullerslev,C_Henrik_Boeriths,Henrik Boeriths,Det Konservative Folkeparti,1
+Nyborg,6,Ullerslev,C_Per_Kurt_Olsen,Per Kurt Olsen,Det Konservative Folkeparti,0
+Nyborg,6,Ullerslev,C_Jessika_Hanna_Marie_J_Harboe,Jessika Hanna Marie J Harboe,Det Konservative Folkeparti,1
+Nyborg,6,Ullerslev,C_Thomas_Bach_Piekut,Thomas Bach Piekut,Det Konservative Folkeparti,0
+Nyborg,6,Ullerslev,D_Listestemmer,Listestemmer,Nye Borgerlige,17
+Nyborg,6,Ullerslev,D_Kasper_Mejlhede,Kasper Mejlhede,Nye Borgerlige,15
+Nyborg,6,Ullerslev,D_Henrik_Aaen,Henrik Aaen,Nye Borgerlige,6
+Nyborg,6,Ullerslev,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,23
+Nyborg,6,Ullerslev,F_Suzette_Frovin,Suzette Frovin,SF - Socialistisk Folkeparti,40
+Nyborg,6,Ullerslev,F_Ole_Tyrsted_Jørgensen,Ole Tyrsted Jørgensen,SF - Socialistisk Folkeparti,8
+Nyborg,6,Ullerslev,F_Anja_Sika_de_Thurah,Anja Sika de Thurah,SF - Socialistisk Folkeparti,4
+Nyborg,6,Ullerslev,F_Jens_Høj_Justesen,Jens Høj Justesen,SF - Socialistisk Folkeparti,0
+Nyborg,6,Ullerslev,F_Frans_Jakobsen,Frans Jakobsen,SF - Socialistisk Folkeparti,5
+Nyborg,6,Ullerslev,F_Gøye_Thorn_Svendsen,Gøye Thorn Svendsen,SF - Socialistisk Folkeparti,0
+Nyborg,6,Ullerslev,F_Jette_Iben_Bohr,Jette Iben Bohr,SF - Socialistisk Folkeparti,1
+Nyborg,6,Ullerslev,F_Hans_Biering,Hans Biering,SF - Socialistisk Folkeparti,1
+Nyborg,6,Ullerslev,I_Listestemmer,Listestemmer,Liberal Alliance,3
+Nyborg,6,Ullerslev,I_Lars_Ole_Petersen,Lars Ole Petersen,Liberal Alliance,8
+Nyborg,6,Ullerslev,M_Listestemmer,Listestemmer,Vi Lokale Demokrater,0
+Nyborg,6,Ullerslev,M_Carsten_Kudsk,Carsten Kudsk,Vi Lokale Demokrater,6
+Nyborg,6,Ullerslev,M_Knud_Skov_Ahrnkiel,Knud Skov Ahrnkiel,Vi Lokale Demokrater,1
+Nyborg,6,Ullerslev,M_Lars-Aage_Schjoldager,Lars-Aage Schjoldager,Vi Lokale Demokrater,0
+Nyborg,6,Ullerslev,M_Lisa_Ralph_Ravn,Lisa Ralph Ravn,Vi Lokale Demokrater,5
+Nyborg,6,Ullerslev,M_Kent_Høiberg_Larsen,Kent Høiberg Larsen,Vi Lokale Demokrater,4
+Nyborg,6,Ullerslev,M_Henning_Faurby_Pedersen,Henning Faurby Pedersen,Vi Lokale Demokrater,0
+Nyborg,6,Ullerslev,M_Ib_Jørgen_Kristensen,Ib Jørgen Kristensen,Vi Lokale Demokrater,0
+Nyborg,6,Ullerslev,M_Jan_Thornfeldt,Jan Thornfeldt,Vi Lokale Demokrater,0
+Nyborg,6,Ullerslev,O_Listestemmer,Listestemmer,Dansk Folkeparti,22
+Nyborg,6,Ullerslev,O_Anne_Marie_Palm-Johansen,Anne Marie Palm-Johansen,Dansk Folkeparti,13
+Nyborg,6,Ullerslev,O_Frank_Sørensen,Frank Sørensen,Dansk Folkeparti,2
+Nyborg,6,Ullerslev,O_Allan_Møller_Lau,Allan Møller Lau,Dansk Folkeparti,6
+Nyborg,6,Ullerslev,O_Eva_Thind_Høiberg,Eva Thind Høiberg,Dansk Folkeparti,1
+Nyborg,6,Ullerslev,O_Rudy_Lyngvig,Rudy Lyngvig,Dansk Folkeparti,0
+Nyborg,6,Ullerslev,O_Bent_Larsen,Bent Larsen,Dansk Folkeparti,1
+Nyborg,6,Ullerslev,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",65
+Nyborg,6,Ullerslev,V_Kenneth_Lundager_Muhs,Kenneth Lundager Muhs,"Venstre, Danmarks Liberale Parti",380
+Nyborg,6,Ullerslev,V_Kaj_Jacobsen_Refslund,Kaj Jacobsen Refslund,"Venstre, Danmarks Liberale Parti",3
+Nyborg,6,Ullerslev,V_Søren_Ejnar_Svendsen,Søren Ejnar Svendsen,"Venstre, Danmarks Liberale Parti",4
+Nyborg,6,Ullerslev,V_Jørgen_Jørgensen,Jørgen Jørgensen,"Venstre, Danmarks Liberale Parti",0
+Nyborg,6,Ullerslev,V_Anja_Lærke_Kongsdal,Anja Lærke Kongsdal,"Venstre, Danmarks Liberale Parti",6
+Nyborg,6,Ullerslev,V_Jacob_Nilsson,Jacob Nilsson,"Venstre, Danmarks Liberale Parti",1
+Nyborg,6,Ullerslev,V_Puk_Colette_Lundemann_Løndahl,Puk Colette Lundemann Løndahl,"Venstre, Danmarks Liberale Parti",2
+Nyborg,6,Ullerslev,V_Søren_Nielsen,Søren Nielsen,"Venstre, Danmarks Liberale Parti",2
+Nyborg,6,Ullerslev,V_Peter_Wagner_Mollerup,Peter Wagner Mollerup,"Venstre, Danmarks Liberale Parti",27
+Nyborg,6,Ullerslev,V_Martin_Huus,Martin Huus,"Venstre, Danmarks Liberale Parti",3
+Nyborg,6,Ullerslev,V_Niels_Ørsted,Niels Ørsted,"Venstre, Danmarks Liberale Parti",25
+Nyborg,6,Ullerslev,V_Jan_Reimer_Christiansen,Jan Reimer Christiansen,"Venstre, Danmarks Liberale Parti",1
+Nyborg,6,Ullerslev,V_Kenneth_Taanquist,Kenneth Taanquist,"Venstre, Danmarks Liberale Parti",0
+Nyborg,6,Ullerslev,V_Flemming_Kjærulf_Rasmussen,Flemming Kjærulf Rasmussen,"Venstre, Danmarks Liberale Parti",1
+Nyborg,6,Ullerslev,V_Jørn_Terndrup,Jørn Terndrup,"Venstre, Danmarks Liberale Parti",3
+Nyborg,6,Ullerslev,V_Anne_Dyrhøj,Anne Dyrhøj,"Venstre, Danmarks Liberale Parti",2
+Nyborg,6,Ullerslev,V_Pia_Kondrup_Juul-Nielsen,Pia Kondrup Juul-Nielsen,"Venstre, Danmarks Liberale Parti",4
+Nyborg,6,Ullerslev,V_Jørn_Gammeltoft_Gustavsen,Jørn Gammeltoft Gustavsen,"Venstre, Danmarks Liberale Parti",5
+Nyborg,6,Ullerslev,V_John_Normann_Burke-Hansen,John Normann Burke-Hansen,"Venstre, Danmarks Liberale Parti",2
+Nyborg,6,Ullerslev,V_Keld_Cramer_Hjort,Keld Cramer Hjort,"Venstre, Danmarks Liberale Parti",3
+Nyborg,6,Ullerslev,V_Anja_Diana_Kjær_Sohne,Anja Diana Kjær Sohne,"Venstre, Danmarks Liberale Parti",0
+Nyborg,6,Ullerslev,V_Rune_Christensen,Rune Christensen,"Venstre, Danmarks Liberale Parti",230
+Nyborg,6,Ullerslev,V_Per_Sønder,Per Sønder,"Venstre, Danmarks Liberale Parti",36
+Nyborg,6,Ullerslev,V_Birol_Kalem,Birol Kalem,"Venstre, Danmarks Liberale Parti",2
+Nyborg,6,Ullerslev,V_Nanna_Elm_Bille_Adamsen,Nanna Elm Bille Adamsen,"Venstre, Danmarks Liberale Parti",1
+Nyborg,6,Ullerslev,V_Claus_Roed_Nielsen,Claus Roed Nielsen,"Venstre, Danmarks Liberale Parti",1
+Nyborg,6,Ullerslev,V_Davíð_Hrafnsson_Holst_Nielsen,Davíð Hrafnsson Holst Nielsen,"Venstre, Danmarks Liberale Parti",1
+Nyborg,6,Ullerslev,V_Kirsten_Lissi_Press,Kirsten Lissi Press,"Venstre, Danmarks Liberale Parti",0
+Nyborg,6,Ullerslev,V_Carsten_Karner_Hansen,Carsten Karner Hansen,"Venstre, Danmarks Liberale Parti",0
+Nyborg,6,Ullerslev,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,22
+Nyborg,6,Ullerslev,Ø_Melissa_Meulengracht,Melissa Meulengracht,Enhedslisten - De Rød-Grønne,3
+Nyborg,6,Ullerslev,Ø_Anders_Kirkebæk-Jensen,Anders Kirkebæk-Jensen,Enhedslisten - De Rød-Grønne,0
+Nyborg,6,Ullerslev,Ø_Ane-Louise_Kobbermose_Stampe,Ane-Louise Kobbermose Stampe,Enhedslisten - De Rød-Grønne,1
+Nyborg,6,Ullerslev,Ø_Sanja_Kirk_Hansen,Sanja Kirk Hansen,Enhedslisten - De Rød-Grønne,0
+Nyborg,6,Ullerslev,Ø_Lars_Michael_Christian_J_Bennedbæk,Lars Michael Christian J Bennedbæk,Enhedslisten - De Rød-Grønne,0
+Nyborg,6,Ullerslev,Ø_Preben_Jørgensen,Preben Jørgensen,Enhedslisten - De Rød-Grønne,0
+Nyborg,6,Ullerslev,Ø_Benny_Lammert_Pieszak,Benny Lammert Pieszak,Enhedslisten - De Rød-Grønne,3
+Nyborg,7,Ellinge,A_Listestemmer,Listestemmer,Socialdemokratiet,13
+Nyborg,7,Ellinge,A_Sonja_Marie_Jensen,Sonja Marie Jensen,Socialdemokratiet,15
+Nyborg,7,Ellinge,A_Jesper_Nielsen,Jesper Nielsen,Socialdemokratiet,0
+Nyborg,7,Ellinge,A_Martin_Stenmann,Martin Stenmann,Socialdemokratiet,3
+Nyborg,7,Ellinge,A_Barbara_Bendahl_Schultz,Barbara Bendahl Schultz,Socialdemokratiet,2
+Nyborg,7,Ellinge,A_Per_Chrone_Jespersen,Per Chrone Jespersen,Socialdemokratiet,0
+Nyborg,7,Ellinge,A_Poul_Erik_Knudsen,Poul Erik Knudsen,Socialdemokratiet,2
+Nyborg,7,Ellinge,A_Vibeke_Franziska_L_Ejlertsen,Vibeke Franziska L Ejlertsen,Socialdemokratiet,0
+Nyborg,7,Ellinge,A_Heidi_Anker_Leen,Heidi Anker Leen,Socialdemokratiet,0
+Nyborg,7,Ellinge,A_Claus_Johanson,Claus Johanson,Socialdemokratiet,0
+Nyborg,7,Ellinge,A_Lene_Ingemann_Skyggelund,Lene Ingemann Skyggelund,Socialdemokratiet,0
+Nyborg,7,Ellinge,A_Janni_Møller_Sørensen,Janni Møller Sørensen,Socialdemokratiet,0
+Nyborg,7,Ellinge,A_Rameesh_Thirugnanasambanther,Rameesh Thirugnanasambanther,Socialdemokratiet,3
+Nyborg,7,Ellinge,A_Henrik_Hauge_Vestergaard,Henrik Hauge Vestergaard,Socialdemokratiet,2
+Nyborg,7,Ellinge,A_Steen_Ole_Steensen_Christensen,Steen Ole Steensen Christensen,Socialdemokratiet,0
+Nyborg,7,Ellinge,A_Merete_Østergaard_Bang,Merete Østergaard Bang,Socialdemokratiet,0
+Nyborg,7,Ellinge,A_Kirstine_Sofie_Ingemann_Skyggelund,Kirstine Sofie Ingemann Skyggelund,Socialdemokratiet,2
+Nyborg,7,Ellinge,A_Allan_Lindholm,Allan Lindholm,Socialdemokratiet,0
+Nyborg,7,Ellinge,A_Sabrina_Baltser_Verner,Sabrina Baltser Verner,Socialdemokratiet,24
+Nyborg,7,Ellinge,A_Brian_Kristiansen,Brian Kristiansen,Socialdemokratiet,1
+Nyborg,7,Ellinge,A_Carsten_Sahl_Rasmussen,Carsten Sahl Rasmussen,Socialdemokratiet,0
+Nyborg,7,Ellinge,A_Casey_Lasse_Høybye_Pedersen,Casey Lasse Høybye Pedersen,Socialdemokratiet,0
+Nyborg,7,Ellinge,A_Lone_Smidt,Lone Smidt,Socialdemokratiet,2
+Nyborg,7,Ellinge,B_Listestemmer,Listestemmer,Radikale Venstre,2
+Nyborg,7,Ellinge,B_Emilie_Halbye_Haaning,Emilie Halbye Haaning,Radikale Venstre,2
+Nyborg,7,Ellinge,B_Hjalmar_Christiansen,Hjalmar Christiansen,Radikale Venstre,0
+Nyborg,7,Ellinge,B_Ludvig_Eduard_Dittmann,Ludvig Eduard Dittmann,Radikale Venstre,0
+Nyborg,7,Ellinge,B_Karen_Moritz_Hansen,Karen Moritz Hansen,Radikale Venstre,3
+Nyborg,7,Ellinge,B_Dorit_Myltoft,Dorit Myltoft,Radikale Venstre,0
+Nyborg,7,Ellinge,B_Jesper_Trampedach,Jesper Trampedach,Radikale Venstre,0
+Nyborg,7,Ellinge,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,5
+Nyborg,7,Ellinge,C_Jan_Michael_Gertsen,Jan Michael Gertsen,Det Konservative Folkeparti,5
+Nyborg,7,Ellinge,C_Thomas_Bo_Fibiger_Rydahl,Thomas Bo Fibiger Rydahl,Det Konservative Folkeparti,1
+Nyborg,7,Ellinge,C_Tjalfe_Nørregaard_Schmidt,Tjalfe Nørregaard Schmidt,Det Konservative Folkeparti,1
+Nyborg,7,Ellinge,C_Thomas_Egelund_Krum,Thomas Egelund Krum,Det Konservative Folkeparti,1
+Nyborg,7,Ellinge,C_Niels_Lundshøj_Regnarsen,Niels Lundshøj Regnarsen,Det Konservative Folkeparti,0
+Nyborg,7,Ellinge,C_Anne_Conradsen,Anne Conradsen,Det Konservative Folkeparti,1
+Nyborg,7,Ellinge,C_Oscar_Ibsen,Oscar Ibsen,Det Konservative Folkeparti,1
+Nyborg,7,Ellinge,C_Henrik_Boeriths,Henrik Boeriths,Det Konservative Folkeparti,0
+Nyborg,7,Ellinge,C_Per_Kurt_Olsen,Per Kurt Olsen,Det Konservative Folkeparti,0
+Nyborg,7,Ellinge,C_Jessika_Hanna_Marie_J_Harboe,Jessika Hanna Marie J Harboe,Det Konservative Folkeparti,0
+Nyborg,7,Ellinge,C_Thomas_Bach_Piekut,Thomas Bach Piekut,Det Konservative Folkeparti,0
+Nyborg,7,Ellinge,D_Listestemmer,Listestemmer,Nye Borgerlige,5
+Nyborg,7,Ellinge,D_Kasper_Mejlhede,Kasper Mejlhede,Nye Borgerlige,6
+Nyborg,7,Ellinge,D_Henrik_Aaen,Henrik Aaen,Nye Borgerlige,5
+Nyborg,7,Ellinge,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,4
+Nyborg,7,Ellinge,F_Suzette_Frovin,Suzette Frovin,SF - Socialistisk Folkeparti,0
+Nyborg,7,Ellinge,F_Ole_Tyrsted_Jørgensen,Ole Tyrsted Jørgensen,SF - Socialistisk Folkeparti,0
+Nyborg,7,Ellinge,F_Anja_Sika_de_Thurah,Anja Sika de Thurah,SF - Socialistisk Folkeparti,0
+Nyborg,7,Ellinge,F_Jens_Høj_Justesen,Jens Høj Justesen,SF - Socialistisk Folkeparti,0
+Nyborg,7,Ellinge,F_Frans_Jakobsen,Frans Jakobsen,SF - Socialistisk Folkeparti,1
+Nyborg,7,Ellinge,F_Gøye_Thorn_Svendsen,Gøye Thorn Svendsen,SF - Socialistisk Folkeparti,0
+Nyborg,7,Ellinge,F_Jette_Iben_Bohr,Jette Iben Bohr,SF - Socialistisk Folkeparti,0
+Nyborg,7,Ellinge,F_Hans_Biering,Hans Biering,SF - Socialistisk Folkeparti,0
+Nyborg,7,Ellinge,I_Listestemmer,Listestemmer,Liberal Alliance,0
+Nyborg,7,Ellinge,I_Lars_Ole_Petersen,Lars Ole Petersen,Liberal Alliance,2
+Nyborg,7,Ellinge,M_Listestemmer,Listestemmer,Vi Lokale Demokrater,0
+Nyborg,7,Ellinge,M_Carsten_Kudsk,Carsten Kudsk,Vi Lokale Demokrater,0
+Nyborg,7,Ellinge,M_Knud_Skov_Ahrnkiel,Knud Skov Ahrnkiel,Vi Lokale Demokrater,2
+Nyborg,7,Ellinge,M_Lars-Aage_Schjoldager,Lars-Aage Schjoldager,Vi Lokale Demokrater,0
+Nyborg,7,Ellinge,M_Lisa_Ralph_Ravn,Lisa Ralph Ravn,Vi Lokale Demokrater,1
+Nyborg,7,Ellinge,M_Kent_Høiberg_Larsen,Kent Høiberg Larsen,Vi Lokale Demokrater,0
+Nyborg,7,Ellinge,M_Henning_Faurby_Pedersen,Henning Faurby Pedersen,Vi Lokale Demokrater,0
+Nyborg,7,Ellinge,M_Ib_Jørgen_Kristensen,Ib Jørgen Kristensen,Vi Lokale Demokrater,0
+Nyborg,7,Ellinge,M_Jan_Thornfeldt,Jan Thornfeldt,Vi Lokale Demokrater,0
+Nyborg,7,Ellinge,O_Listestemmer,Listestemmer,Dansk Folkeparti,3
+Nyborg,7,Ellinge,O_Anne_Marie_Palm-Johansen,Anne Marie Palm-Johansen,Dansk Folkeparti,3
+Nyborg,7,Ellinge,O_Frank_Sørensen,Frank Sørensen,Dansk Folkeparti,3
+Nyborg,7,Ellinge,O_Allan_Møller_Lau,Allan Møller Lau,Dansk Folkeparti,1
+Nyborg,7,Ellinge,O_Eva_Thind_Høiberg,Eva Thind Høiberg,Dansk Folkeparti,0
+Nyborg,7,Ellinge,O_Rudy_Lyngvig,Rudy Lyngvig,Dansk Folkeparti,0
+Nyborg,7,Ellinge,O_Bent_Larsen,Bent Larsen,Dansk Folkeparti,0
+Nyborg,7,Ellinge,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",18
+Nyborg,7,Ellinge,V_Kenneth_Lundager_Muhs,Kenneth Lundager Muhs,"Venstre, Danmarks Liberale Parti",100
+Nyborg,7,Ellinge,V_Kaj_Jacobsen_Refslund,Kaj Jacobsen Refslund,"Venstre, Danmarks Liberale Parti",3
+Nyborg,7,Ellinge,V_Søren_Ejnar_Svendsen,Søren Ejnar Svendsen,"Venstre, Danmarks Liberale Parti",3
+Nyborg,7,Ellinge,V_Jørgen_Jørgensen,Jørgen Jørgensen,"Venstre, Danmarks Liberale Parti",0
+Nyborg,7,Ellinge,V_Anja_Lærke_Kongsdal,Anja Lærke Kongsdal,"Venstre, Danmarks Liberale Parti",6
+Nyborg,7,Ellinge,V_Jacob_Nilsson,Jacob Nilsson,"Venstre, Danmarks Liberale Parti",1
+Nyborg,7,Ellinge,V_Puk_Colette_Lundemann_Løndahl,Puk Colette Lundemann Løndahl,"Venstre, Danmarks Liberale Parti",2
+Nyborg,7,Ellinge,V_Søren_Nielsen,Søren Nielsen,"Venstre, Danmarks Liberale Parti",0
+Nyborg,7,Ellinge,V_Peter_Wagner_Mollerup,Peter Wagner Mollerup,"Venstre, Danmarks Liberale Parti",1
+Nyborg,7,Ellinge,V_Martin_Huus,Martin Huus,"Venstre, Danmarks Liberale Parti",2
+Nyborg,7,Ellinge,V_Niels_Ørsted,Niels Ørsted,"Venstre, Danmarks Liberale Parti",1
+Nyborg,7,Ellinge,V_Jan_Reimer_Christiansen,Jan Reimer Christiansen,"Venstre, Danmarks Liberale Parti",1
+Nyborg,7,Ellinge,V_Kenneth_Taanquist,Kenneth Taanquist,"Venstre, Danmarks Liberale Parti",0
+Nyborg,7,Ellinge,V_Flemming_Kjærulf_Rasmussen,Flemming Kjærulf Rasmussen,"Venstre, Danmarks Liberale Parti",0
+Nyborg,7,Ellinge,V_Jørn_Terndrup,Jørn Terndrup,"Venstre, Danmarks Liberale Parti",0
+Nyborg,7,Ellinge,V_Anne_Dyrhøj,Anne Dyrhøj,"Venstre, Danmarks Liberale Parti",0
+Nyborg,7,Ellinge,V_Pia_Kondrup_Juul-Nielsen,Pia Kondrup Juul-Nielsen,"Venstre, Danmarks Liberale Parti",1
+Nyborg,7,Ellinge,V_Jørn_Gammeltoft_Gustavsen,Jørn Gammeltoft Gustavsen,"Venstre, Danmarks Liberale Parti",1
+Nyborg,7,Ellinge,V_John_Normann_Burke-Hansen,John Normann Burke-Hansen,"Venstre, Danmarks Liberale Parti",0
+Nyborg,7,Ellinge,V_Keld_Cramer_Hjort,Keld Cramer Hjort,"Venstre, Danmarks Liberale Parti",0
+Nyborg,7,Ellinge,V_Anja_Diana_Kjær_Sohne,Anja Diana Kjær Sohne,"Venstre, Danmarks Liberale Parti",0
+Nyborg,7,Ellinge,V_Rune_Christensen,Rune Christensen,"Venstre, Danmarks Liberale Parti",5
+Nyborg,7,Ellinge,V_Per_Sønder,Per Sønder,"Venstre, Danmarks Liberale Parti",1
+Nyborg,7,Ellinge,V_Birol_Kalem,Birol Kalem,"Venstre, Danmarks Liberale Parti",1
+Nyborg,7,Ellinge,V_Nanna_Elm_Bille_Adamsen,Nanna Elm Bille Adamsen,"Venstre, Danmarks Liberale Parti",0
+Nyborg,7,Ellinge,V_Claus_Roed_Nielsen,Claus Roed Nielsen,"Venstre, Danmarks Liberale Parti",0
+Nyborg,7,Ellinge,V_Davíð_Hrafnsson_Holst_Nielsen,Davíð Hrafnsson Holst Nielsen,"Venstre, Danmarks Liberale Parti",1
+Nyborg,7,Ellinge,V_Kirsten_Lissi_Press,Kirsten Lissi Press,"Venstre, Danmarks Liberale Parti",0
+Nyborg,7,Ellinge,V_Carsten_Karner_Hansen,Carsten Karner Hansen,"Venstre, Danmarks Liberale Parti",0
+Nyborg,7,Ellinge,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,6
+Nyborg,7,Ellinge,Ø_Melissa_Meulengracht,Melissa Meulengracht,Enhedslisten - De Rød-Grønne,1
+Nyborg,7,Ellinge,Ø_Anders_Kirkebæk-Jensen,Anders Kirkebæk-Jensen,Enhedslisten - De Rød-Grønne,1
+Nyborg,7,Ellinge,Ø_Ane-Louise_Kobbermose_Stampe,Ane-Louise Kobbermose Stampe,Enhedslisten - De Rød-Grønne,0
+Nyborg,7,Ellinge,Ø_Sanja_Kirk_Hansen,Sanja Kirk Hansen,Enhedslisten - De Rød-Grønne,0
+Nyborg,7,Ellinge,Ø_Lars_Michael_Christian_J_Bennedbæk,Lars Michael Christian J Bennedbæk,Enhedslisten - De Rød-Grønne,1
+Nyborg,7,Ellinge,Ø_Preben_Jørgensen,Preben Jørgensen,Enhedslisten - De Rød-Grønne,0
+Nyborg,7,Ellinge,Ø_Benny_Lammert_Pieszak,Benny Lammert Pieszak,Enhedslisten - De Rød-Grønne,1
+Nyborg,8,Skellerup,A_Listestemmer,Listestemmer,Socialdemokratiet,31
+Nyborg,8,Skellerup,A_Sonja_Marie_Jensen,Sonja Marie Jensen,Socialdemokratiet,55
+Nyborg,8,Skellerup,A_Jesper_Nielsen,Jesper Nielsen,Socialdemokratiet,3
+Nyborg,8,Skellerup,A_Martin_Stenmann,Martin Stenmann,Socialdemokratiet,4
+Nyborg,8,Skellerup,A_Barbara_Bendahl_Schultz,Barbara Bendahl Schultz,Socialdemokratiet,5
+Nyborg,8,Skellerup,A_Per_Chrone_Jespersen,Per Chrone Jespersen,Socialdemokratiet,1
+Nyborg,8,Skellerup,A_Poul_Erik_Knudsen,Poul Erik Knudsen,Socialdemokratiet,3
+Nyborg,8,Skellerup,A_Vibeke_Franziska_L_Ejlertsen,Vibeke Franziska L Ejlertsen,Socialdemokratiet,1
+Nyborg,8,Skellerup,A_Heidi_Anker_Leen,Heidi Anker Leen,Socialdemokratiet,0
+Nyborg,8,Skellerup,A_Claus_Johanson,Claus Johanson,Socialdemokratiet,1
+Nyborg,8,Skellerup,A_Lene_Ingemann_Skyggelund,Lene Ingemann Skyggelund,Socialdemokratiet,0
+Nyborg,8,Skellerup,A_Janni_Møller_Sørensen,Janni Møller Sørensen,Socialdemokratiet,1
+Nyborg,8,Skellerup,A_Rameesh_Thirugnanasambanther,Rameesh Thirugnanasambanther,Socialdemokratiet,2
+Nyborg,8,Skellerup,A_Henrik_Hauge_Vestergaard,Henrik Hauge Vestergaard,Socialdemokratiet,12
+Nyborg,8,Skellerup,A_Steen_Ole_Steensen_Christensen,Steen Ole Steensen Christensen,Socialdemokratiet,1
+Nyborg,8,Skellerup,A_Merete_Østergaard_Bang,Merete Østergaard Bang,Socialdemokratiet,0
+Nyborg,8,Skellerup,A_Kirstine_Sofie_Ingemann_Skyggelund,Kirstine Sofie Ingemann Skyggelund,Socialdemokratiet,2
+Nyborg,8,Skellerup,A_Allan_Lindholm,Allan Lindholm,Socialdemokratiet,0
+Nyborg,8,Skellerup,A_Sabrina_Baltser_Verner,Sabrina Baltser Verner,Socialdemokratiet,2
+Nyborg,8,Skellerup,A_Brian_Kristiansen,Brian Kristiansen,Socialdemokratiet,0
+Nyborg,8,Skellerup,A_Carsten_Sahl_Rasmussen,Carsten Sahl Rasmussen,Socialdemokratiet,0
+Nyborg,8,Skellerup,A_Casey_Lasse_Høybye_Pedersen,Casey Lasse Høybye Pedersen,Socialdemokratiet,0
+Nyborg,8,Skellerup,A_Lone_Smidt,Lone Smidt,Socialdemokratiet,6
+Nyborg,8,Skellerup,B_Listestemmer,Listestemmer,Radikale Venstre,5
+Nyborg,8,Skellerup,B_Emilie_Halbye_Haaning,Emilie Halbye Haaning,Radikale Venstre,0
+Nyborg,8,Skellerup,B_Hjalmar_Christiansen,Hjalmar Christiansen,Radikale Venstre,0
+Nyborg,8,Skellerup,B_Ludvig_Eduard_Dittmann,Ludvig Eduard Dittmann,Radikale Venstre,0
+Nyborg,8,Skellerup,B_Karen_Moritz_Hansen,Karen Moritz Hansen,Radikale Venstre,2
+Nyborg,8,Skellerup,B_Dorit_Myltoft,Dorit Myltoft,Radikale Venstre,0
+Nyborg,8,Skellerup,B_Jesper_Trampedach,Jesper Trampedach,Radikale Venstre,0
+Nyborg,8,Skellerup,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,5
+Nyborg,8,Skellerup,C_Jan_Michael_Gertsen,Jan Michael Gertsen,Det Konservative Folkeparti,0
+Nyborg,8,Skellerup,C_Thomas_Bo_Fibiger_Rydahl,Thomas Bo Fibiger Rydahl,Det Konservative Folkeparti,2
+Nyborg,8,Skellerup,C_Tjalfe_Nørregaard_Schmidt,Tjalfe Nørregaard Schmidt,Det Konservative Folkeparti,2
+Nyborg,8,Skellerup,C_Thomas_Egelund_Krum,Thomas Egelund Krum,Det Konservative Folkeparti,0
+Nyborg,8,Skellerup,C_Niels_Lundshøj_Regnarsen,Niels Lundshøj Regnarsen,Det Konservative Folkeparti,2
+Nyborg,8,Skellerup,C_Anne_Conradsen,Anne Conradsen,Det Konservative Folkeparti,0
+Nyborg,8,Skellerup,C_Oscar_Ibsen,Oscar Ibsen,Det Konservative Folkeparti,0
+Nyborg,8,Skellerup,C_Henrik_Boeriths,Henrik Boeriths,Det Konservative Folkeparti,0
+Nyborg,8,Skellerup,C_Per_Kurt_Olsen,Per Kurt Olsen,Det Konservative Folkeparti,1
+Nyborg,8,Skellerup,C_Jessika_Hanna_Marie_J_Harboe,Jessika Hanna Marie J Harboe,Det Konservative Folkeparti,0
+Nyborg,8,Skellerup,C_Thomas_Bach_Piekut,Thomas Bach Piekut,Det Konservative Folkeparti,0
+Nyborg,8,Skellerup,D_Listestemmer,Listestemmer,Nye Borgerlige,8
+Nyborg,8,Skellerup,D_Kasper_Mejlhede,Kasper Mejlhede,Nye Borgerlige,3
+Nyborg,8,Skellerup,D_Henrik_Aaen,Henrik Aaen,Nye Borgerlige,1
+Nyborg,8,Skellerup,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,1
+Nyborg,8,Skellerup,F_Suzette_Frovin,Suzette Frovin,SF - Socialistisk Folkeparti,8
+Nyborg,8,Skellerup,F_Ole_Tyrsted_Jørgensen,Ole Tyrsted Jørgensen,SF - Socialistisk Folkeparti,1
+Nyborg,8,Skellerup,F_Anja_Sika_de_Thurah,Anja Sika de Thurah,SF - Socialistisk Folkeparti,1
+Nyborg,8,Skellerup,F_Jens_Høj_Justesen,Jens Høj Justesen,SF - Socialistisk Folkeparti,0
+Nyborg,8,Skellerup,F_Frans_Jakobsen,Frans Jakobsen,SF - Socialistisk Folkeparti,0
+Nyborg,8,Skellerup,F_Gøye_Thorn_Svendsen,Gøye Thorn Svendsen,SF - Socialistisk Folkeparti,0
+Nyborg,8,Skellerup,F_Jette_Iben_Bohr,Jette Iben Bohr,SF - Socialistisk Folkeparti,0
+Nyborg,8,Skellerup,F_Hans_Biering,Hans Biering,SF - Socialistisk Folkeparti,0
+Nyborg,8,Skellerup,I_Listestemmer,Listestemmer,Liberal Alliance,1
+Nyborg,8,Skellerup,I_Lars_Ole_Petersen,Lars Ole Petersen,Liberal Alliance,0
+Nyborg,8,Skellerup,M_Listestemmer,Listestemmer,Vi Lokale Demokrater,1
+Nyborg,8,Skellerup,M_Carsten_Kudsk,Carsten Kudsk,Vi Lokale Demokrater,1
+Nyborg,8,Skellerup,M_Knud_Skov_Ahrnkiel,Knud Skov Ahrnkiel,Vi Lokale Demokrater,0
+Nyborg,8,Skellerup,M_Lars-Aage_Schjoldager,Lars-Aage Schjoldager,Vi Lokale Demokrater,0
+Nyborg,8,Skellerup,M_Lisa_Ralph_Ravn,Lisa Ralph Ravn,Vi Lokale Demokrater,2
+Nyborg,8,Skellerup,M_Kent_Høiberg_Larsen,Kent Høiberg Larsen,Vi Lokale Demokrater,0
+Nyborg,8,Skellerup,M_Henning_Faurby_Pedersen,Henning Faurby Pedersen,Vi Lokale Demokrater,0
+Nyborg,8,Skellerup,M_Ib_Jørgen_Kristensen,Ib Jørgen Kristensen,Vi Lokale Demokrater,0
+Nyborg,8,Skellerup,M_Jan_Thornfeldt,Jan Thornfeldt,Vi Lokale Demokrater,0
+Nyborg,8,Skellerup,O_Listestemmer,Listestemmer,Dansk Folkeparti,9
+Nyborg,8,Skellerup,O_Anne_Marie_Palm-Johansen,Anne Marie Palm-Johansen,Dansk Folkeparti,3
+Nyborg,8,Skellerup,O_Frank_Sørensen,Frank Sørensen,Dansk Folkeparti,1
+Nyborg,8,Skellerup,O_Allan_Møller_Lau,Allan Møller Lau,Dansk Folkeparti,1
+Nyborg,8,Skellerup,O_Eva_Thind_Høiberg,Eva Thind Høiberg,Dansk Folkeparti,0
+Nyborg,8,Skellerup,O_Rudy_Lyngvig,Rudy Lyngvig,Dansk Folkeparti,0
+Nyborg,8,Skellerup,O_Bent_Larsen,Bent Larsen,Dansk Folkeparti,0
+Nyborg,8,Skellerup,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",17
+Nyborg,8,Skellerup,V_Kenneth_Lundager_Muhs,Kenneth Lundager Muhs,"Venstre, Danmarks Liberale Parti",88
+Nyborg,8,Skellerup,V_Kaj_Jacobsen_Refslund,Kaj Jacobsen Refslund,"Venstre, Danmarks Liberale Parti",3
+Nyborg,8,Skellerup,V_Søren_Ejnar_Svendsen,Søren Ejnar Svendsen,"Venstre, Danmarks Liberale Parti",1
+Nyborg,8,Skellerup,V_Jørgen_Jørgensen,Jørgen Jørgensen,"Venstre, Danmarks Liberale Parti",0
+Nyborg,8,Skellerup,V_Anja_Lærke_Kongsdal,Anja Lærke Kongsdal,"Venstre, Danmarks Liberale Parti",4
+Nyborg,8,Skellerup,V_Jacob_Nilsson,Jacob Nilsson,"Venstre, Danmarks Liberale Parti",0
+Nyborg,8,Skellerup,V_Puk_Colette_Lundemann_Løndahl,Puk Colette Lundemann Løndahl,"Venstre, Danmarks Liberale Parti",0
+Nyborg,8,Skellerup,V_Søren_Nielsen,Søren Nielsen,"Venstre, Danmarks Liberale Parti",1
+Nyborg,8,Skellerup,V_Peter_Wagner_Mollerup,Peter Wagner Mollerup,"Venstre, Danmarks Liberale Parti",2
+Nyborg,8,Skellerup,V_Martin_Huus,Martin Huus,"Venstre, Danmarks Liberale Parti",2
+Nyborg,8,Skellerup,V_Niels_Ørsted,Niels Ørsted,"Venstre, Danmarks Liberale Parti",4
+Nyborg,8,Skellerup,V_Jan_Reimer_Christiansen,Jan Reimer Christiansen,"Venstre, Danmarks Liberale Parti",1
+Nyborg,8,Skellerup,V_Kenneth_Taanquist,Kenneth Taanquist,"Venstre, Danmarks Liberale Parti",0
+Nyborg,8,Skellerup,V_Flemming_Kjærulf_Rasmussen,Flemming Kjærulf Rasmussen,"Venstre, Danmarks Liberale Parti",1
+Nyborg,8,Skellerup,V_Jørn_Terndrup,Jørn Terndrup,"Venstre, Danmarks Liberale Parti",1
+Nyborg,8,Skellerup,V_Anne_Dyrhøj,Anne Dyrhøj,"Venstre, Danmarks Liberale Parti",0
+Nyborg,8,Skellerup,V_Pia_Kondrup_Juul-Nielsen,Pia Kondrup Juul-Nielsen,"Venstre, Danmarks Liberale Parti",4
+Nyborg,8,Skellerup,V_Jørn_Gammeltoft_Gustavsen,Jørn Gammeltoft Gustavsen,"Venstre, Danmarks Liberale Parti",0
+Nyborg,8,Skellerup,V_John_Normann_Burke-Hansen,John Normann Burke-Hansen,"Venstre, Danmarks Liberale Parti",1
+Nyborg,8,Skellerup,V_Keld_Cramer_Hjort,Keld Cramer Hjort,"Venstre, Danmarks Liberale Parti",13
+Nyborg,8,Skellerup,V_Anja_Diana_Kjær_Sohne,Anja Diana Kjær Sohne,"Venstre, Danmarks Liberale Parti",0
+Nyborg,8,Skellerup,V_Rune_Christensen,Rune Christensen,"Venstre, Danmarks Liberale Parti",17
+Nyborg,8,Skellerup,V_Per_Sønder,Per Sønder,"Venstre, Danmarks Liberale Parti",1
+Nyborg,8,Skellerup,V_Birol_Kalem,Birol Kalem,"Venstre, Danmarks Liberale Parti",0
+Nyborg,8,Skellerup,V_Nanna_Elm_Bille_Adamsen,Nanna Elm Bille Adamsen,"Venstre, Danmarks Liberale Parti",2
+Nyborg,8,Skellerup,V_Claus_Roed_Nielsen,Claus Roed Nielsen,"Venstre, Danmarks Liberale Parti",0
+Nyborg,8,Skellerup,V_Davíð_Hrafnsson_Holst_Nielsen,Davíð Hrafnsson Holst Nielsen,"Venstre, Danmarks Liberale Parti",0
+Nyborg,8,Skellerup,V_Kirsten_Lissi_Press,Kirsten Lissi Press,"Venstre, Danmarks Liberale Parti",0
+Nyborg,8,Skellerup,V_Carsten_Karner_Hansen,Carsten Karner Hansen,"Venstre, Danmarks Liberale Parti",0
+Nyborg,8,Skellerup,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,2
+Nyborg,8,Skellerup,Ø_Melissa_Meulengracht,Melissa Meulengracht,Enhedslisten - De Rød-Grønne,0
+Nyborg,8,Skellerup,Ø_Anders_Kirkebæk-Jensen,Anders Kirkebæk-Jensen,Enhedslisten - De Rød-Grønne,0
+Nyborg,8,Skellerup,Ø_Ane-Louise_Kobbermose_Stampe,Ane-Louise Kobbermose Stampe,Enhedslisten - De Rød-Grønne,0
+Nyborg,8,Skellerup,Ø_Sanja_Kirk_Hansen,Sanja Kirk Hansen,Enhedslisten - De Rød-Grønne,0
+Nyborg,8,Skellerup,Ø_Lars_Michael_Christian_J_Bennedbæk,Lars Michael Christian J Bennedbæk,Enhedslisten - De Rød-Grønne,0
+Nyborg,8,Skellerup,Ø_Preben_Jørgensen,Preben Jørgensen,Enhedslisten - De Rød-Grønne,0
+Nyborg,8,Skellerup,Ø_Benny_Lammert_Pieszak,Benny Lammert Pieszak,Enhedslisten - De Rød-Grønne,1
+Nyborg,9,Langtved,A_Listestemmer,Listestemmer,Socialdemokratiet,36
+Nyborg,9,Langtved,A_Sonja_Marie_Jensen,Sonja Marie Jensen,Socialdemokratiet,52
+Nyborg,9,Langtved,A_Jesper_Nielsen,Jesper Nielsen,Socialdemokratiet,6
+Nyborg,9,Langtved,A_Martin_Stenmann,Martin Stenmann,Socialdemokratiet,3
+Nyborg,9,Langtved,A_Barbara_Bendahl_Schultz,Barbara Bendahl Schultz,Socialdemokratiet,1
+Nyborg,9,Langtved,A_Per_Chrone_Jespersen,Per Chrone Jespersen,Socialdemokratiet,3
+Nyborg,9,Langtved,A_Poul_Erik_Knudsen,Poul Erik Knudsen,Socialdemokratiet,0
+Nyborg,9,Langtved,A_Vibeke_Franziska_L_Ejlertsen,Vibeke Franziska L Ejlertsen,Socialdemokratiet,0
+Nyborg,9,Langtved,A_Heidi_Anker_Leen,Heidi Anker Leen,Socialdemokratiet,2
+Nyborg,9,Langtved,A_Claus_Johanson,Claus Johanson,Socialdemokratiet,1
+Nyborg,9,Langtved,A_Lene_Ingemann_Skyggelund,Lene Ingemann Skyggelund,Socialdemokratiet,0
+Nyborg,9,Langtved,A_Janni_Møller_Sørensen,Janni Møller Sørensen,Socialdemokratiet,2
+Nyborg,9,Langtved,A_Rameesh_Thirugnanasambanther,Rameesh Thirugnanasambanther,Socialdemokratiet,8
+Nyborg,9,Langtved,A_Henrik_Hauge_Vestergaard,Henrik Hauge Vestergaard,Socialdemokratiet,4
+Nyborg,9,Langtved,A_Steen_Ole_Steensen_Christensen,Steen Ole Steensen Christensen,Socialdemokratiet,2
+Nyborg,9,Langtved,A_Merete_Østergaard_Bang,Merete Østergaard Bang,Socialdemokratiet,0
+Nyborg,9,Langtved,A_Kirstine_Sofie_Ingemann_Skyggelund,Kirstine Sofie Ingemann Skyggelund,Socialdemokratiet,0
+Nyborg,9,Langtved,A_Allan_Lindholm,Allan Lindholm,Socialdemokratiet,1
+Nyborg,9,Langtved,A_Sabrina_Baltser_Verner,Sabrina Baltser Verner,Socialdemokratiet,1
+Nyborg,9,Langtved,A_Brian_Kristiansen,Brian Kristiansen,Socialdemokratiet,0
+Nyborg,9,Langtved,A_Carsten_Sahl_Rasmussen,Carsten Sahl Rasmussen,Socialdemokratiet,0
+Nyborg,9,Langtved,A_Casey_Lasse_Høybye_Pedersen,Casey Lasse Høybye Pedersen,Socialdemokratiet,0
+Nyborg,9,Langtved,A_Lone_Smidt,Lone Smidt,Socialdemokratiet,7
+Nyborg,9,Langtved,B_Listestemmer,Listestemmer,Radikale Venstre,3
+Nyborg,9,Langtved,B_Emilie_Halbye_Haaning,Emilie Halbye Haaning,Radikale Venstre,3
+Nyborg,9,Langtved,B_Hjalmar_Christiansen,Hjalmar Christiansen,Radikale Venstre,0
+Nyborg,9,Langtved,B_Ludvig_Eduard_Dittmann,Ludvig Eduard Dittmann,Radikale Venstre,1
+Nyborg,9,Langtved,B_Karen_Moritz_Hansen,Karen Moritz Hansen,Radikale Venstre,1
+Nyborg,9,Langtved,B_Dorit_Myltoft,Dorit Myltoft,Radikale Venstre,0
+Nyborg,9,Langtved,B_Jesper_Trampedach,Jesper Trampedach,Radikale Venstre,0
+Nyborg,9,Langtved,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,7
+Nyborg,9,Langtved,C_Jan_Michael_Gertsen,Jan Michael Gertsen,Det Konservative Folkeparti,2
+Nyborg,9,Langtved,C_Thomas_Bo_Fibiger_Rydahl,Thomas Bo Fibiger Rydahl,Det Konservative Folkeparti,2
+Nyborg,9,Langtved,C_Tjalfe_Nørregaard_Schmidt,Tjalfe Nørregaard Schmidt,Det Konservative Folkeparti,0
+Nyborg,9,Langtved,C_Thomas_Egelund_Krum,Thomas Egelund Krum,Det Konservative Folkeparti,0
+Nyborg,9,Langtved,C_Niels_Lundshøj_Regnarsen,Niels Lundshøj Regnarsen,Det Konservative Folkeparti,1
+Nyborg,9,Langtved,C_Anne_Conradsen,Anne Conradsen,Det Konservative Folkeparti,2
+Nyborg,9,Langtved,C_Oscar_Ibsen,Oscar Ibsen,Det Konservative Folkeparti,0
+Nyborg,9,Langtved,C_Henrik_Boeriths,Henrik Boeriths,Det Konservative Folkeparti,0
+Nyborg,9,Langtved,C_Per_Kurt_Olsen,Per Kurt Olsen,Det Konservative Folkeparti,0
+Nyborg,9,Langtved,C_Jessika_Hanna_Marie_J_Harboe,Jessika Hanna Marie J Harboe,Det Konservative Folkeparti,0
+Nyborg,9,Langtved,C_Thomas_Bach_Piekut,Thomas Bach Piekut,Det Konservative Folkeparti,0
+Nyborg,9,Langtved,D_Listestemmer,Listestemmer,Nye Borgerlige,11
+Nyborg,9,Langtved,D_Kasper_Mejlhede,Kasper Mejlhede,Nye Borgerlige,7
+Nyborg,9,Langtved,D_Henrik_Aaen,Henrik Aaen,Nye Borgerlige,2
+Nyborg,9,Langtved,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,10
+Nyborg,9,Langtved,F_Suzette_Frovin,Suzette Frovin,SF - Socialistisk Folkeparti,17
+Nyborg,9,Langtved,F_Ole_Tyrsted_Jørgensen,Ole Tyrsted Jørgensen,SF - Socialistisk Folkeparti,2
+Nyborg,9,Langtved,F_Anja_Sika_de_Thurah,Anja Sika de Thurah,SF - Socialistisk Folkeparti,1
+Nyborg,9,Langtved,F_Jens_Høj_Justesen,Jens Høj Justesen,SF - Socialistisk Folkeparti,0
+Nyborg,9,Langtved,F_Frans_Jakobsen,Frans Jakobsen,SF - Socialistisk Folkeparti,0
+Nyborg,9,Langtved,F_Gøye_Thorn_Svendsen,Gøye Thorn Svendsen,SF - Socialistisk Folkeparti,0
+Nyborg,9,Langtved,F_Jette_Iben_Bohr,Jette Iben Bohr,SF - Socialistisk Folkeparti,1
+Nyborg,9,Langtved,F_Hans_Biering,Hans Biering,SF - Socialistisk Folkeparti,0
+Nyborg,9,Langtved,I_Listestemmer,Listestemmer,Liberal Alliance,0
+Nyborg,9,Langtved,I_Lars_Ole_Petersen,Lars Ole Petersen,Liberal Alliance,1
+Nyborg,9,Langtved,M_Listestemmer,Listestemmer,Vi Lokale Demokrater,0
+Nyborg,9,Langtved,M_Carsten_Kudsk,Carsten Kudsk,Vi Lokale Demokrater,0
+Nyborg,9,Langtved,M_Knud_Skov_Ahrnkiel,Knud Skov Ahrnkiel,Vi Lokale Demokrater,0
+Nyborg,9,Langtved,M_Lars-Aage_Schjoldager,Lars-Aage Schjoldager,Vi Lokale Demokrater,0
+Nyborg,9,Langtved,M_Lisa_Ralph_Ravn,Lisa Ralph Ravn,Vi Lokale Demokrater,0
+Nyborg,9,Langtved,M_Kent_Høiberg_Larsen,Kent Høiberg Larsen,Vi Lokale Demokrater,1
+Nyborg,9,Langtved,M_Henning_Faurby_Pedersen,Henning Faurby Pedersen,Vi Lokale Demokrater,0
+Nyborg,9,Langtved,M_Ib_Jørgen_Kristensen,Ib Jørgen Kristensen,Vi Lokale Demokrater,0
+Nyborg,9,Langtved,M_Jan_Thornfeldt,Jan Thornfeldt,Vi Lokale Demokrater,1
+Nyborg,9,Langtved,O_Listestemmer,Listestemmer,Dansk Folkeparti,6
+Nyborg,9,Langtved,O_Anne_Marie_Palm-Johansen,Anne Marie Palm-Johansen,Dansk Folkeparti,7
+Nyborg,9,Langtved,O_Frank_Sørensen,Frank Sørensen,Dansk Folkeparti,2
+Nyborg,9,Langtved,O_Allan_Møller_Lau,Allan Møller Lau,Dansk Folkeparti,1
+Nyborg,9,Langtved,O_Eva_Thind_Høiberg,Eva Thind Høiberg,Dansk Folkeparti,0
+Nyborg,9,Langtved,O_Rudy_Lyngvig,Rudy Lyngvig,Dansk Folkeparti,0
+Nyborg,9,Langtved,O_Bent_Larsen,Bent Larsen,Dansk Folkeparti,0
+Nyborg,9,Langtved,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",24
+Nyborg,9,Langtved,V_Kenneth_Lundager_Muhs,Kenneth Lundager Muhs,"Venstre, Danmarks Liberale Parti",108
+Nyborg,9,Langtved,V_Kaj_Jacobsen_Refslund,Kaj Jacobsen Refslund,"Venstre, Danmarks Liberale Parti",0
+Nyborg,9,Langtved,V_Søren_Ejnar_Svendsen,Søren Ejnar Svendsen,"Venstre, Danmarks Liberale Parti",3
+Nyborg,9,Langtved,V_Jørgen_Jørgensen,Jørgen Jørgensen,"Venstre, Danmarks Liberale Parti",1
+Nyborg,9,Langtved,V_Anja_Lærke_Kongsdal,Anja Lærke Kongsdal,"Venstre, Danmarks Liberale Parti",4
+Nyborg,9,Langtved,V_Jacob_Nilsson,Jacob Nilsson,"Venstre, Danmarks Liberale Parti",0
+Nyborg,9,Langtved,V_Puk_Colette_Lundemann_Løndahl,Puk Colette Lundemann Løndahl,"Venstre, Danmarks Liberale Parti",0
+Nyborg,9,Langtved,V_Søren_Nielsen,Søren Nielsen,"Venstre, Danmarks Liberale Parti",0
+Nyborg,9,Langtved,V_Peter_Wagner_Mollerup,Peter Wagner Mollerup,"Venstre, Danmarks Liberale Parti",108
+Nyborg,9,Langtved,V_Martin_Huus,Martin Huus,"Venstre, Danmarks Liberale Parti",2
+Nyborg,9,Langtved,V_Niels_Ørsted,Niels Ørsted,"Venstre, Danmarks Liberale Parti",2
+Nyborg,9,Langtved,V_Jan_Reimer_Christiansen,Jan Reimer Christiansen,"Venstre, Danmarks Liberale Parti",1
+Nyborg,9,Langtved,V_Kenneth_Taanquist,Kenneth Taanquist,"Venstre, Danmarks Liberale Parti",1
+Nyborg,9,Langtved,V_Flemming_Kjærulf_Rasmussen,Flemming Kjærulf Rasmussen,"Venstre, Danmarks Liberale Parti",0
+Nyborg,9,Langtved,V_Jørn_Terndrup,Jørn Terndrup,"Venstre, Danmarks Liberale Parti",0
+Nyborg,9,Langtved,V_Anne_Dyrhøj,Anne Dyrhøj,"Venstre, Danmarks Liberale Parti",0
+Nyborg,9,Langtved,V_Pia_Kondrup_Juul-Nielsen,Pia Kondrup Juul-Nielsen,"Venstre, Danmarks Liberale Parti",3
+Nyborg,9,Langtved,V_Jørn_Gammeltoft_Gustavsen,Jørn Gammeltoft Gustavsen,"Venstre, Danmarks Liberale Parti",2
+Nyborg,9,Langtved,V_John_Normann_Burke-Hansen,John Normann Burke-Hansen,"Venstre, Danmarks Liberale Parti",24
+Nyborg,9,Langtved,V_Keld_Cramer_Hjort,Keld Cramer Hjort,"Venstre, Danmarks Liberale Parti",1
+Nyborg,9,Langtved,V_Anja_Diana_Kjær_Sohne,Anja Diana Kjær Sohne,"Venstre, Danmarks Liberale Parti",2
+Nyborg,9,Langtved,V_Rune_Christensen,Rune Christensen,"Venstre, Danmarks Liberale Parti",9
+Nyborg,9,Langtved,V_Per_Sønder,Per Sønder,"Venstre, Danmarks Liberale Parti",1
+Nyborg,9,Langtved,V_Birol_Kalem,Birol Kalem,"Venstre, Danmarks Liberale Parti",0
+Nyborg,9,Langtved,V_Nanna_Elm_Bille_Adamsen,Nanna Elm Bille Adamsen,"Venstre, Danmarks Liberale Parti",0
+Nyborg,9,Langtved,V_Claus_Roed_Nielsen,Claus Roed Nielsen,"Venstre, Danmarks Liberale Parti",0
+Nyborg,9,Langtved,V_Davíð_Hrafnsson_Holst_Nielsen,Davíð Hrafnsson Holst Nielsen,"Venstre, Danmarks Liberale Parti",0
+Nyborg,9,Langtved,V_Kirsten_Lissi_Press,Kirsten Lissi Press,"Venstre, Danmarks Liberale Parti",0
+Nyborg,9,Langtved,V_Carsten_Karner_Hansen,Carsten Karner Hansen,"Venstre, Danmarks Liberale Parti",0
+Nyborg,9,Langtved,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,9
+Nyborg,9,Langtved,Ø_Melissa_Meulengracht,Melissa Meulengracht,Enhedslisten - De Rød-Grønne,2
+Nyborg,9,Langtved,Ø_Anders_Kirkebæk-Jensen,Anders Kirkebæk-Jensen,Enhedslisten - De Rød-Grønne,1
+Nyborg,9,Langtved,Ø_Ane-Louise_Kobbermose_Stampe,Ane-Louise Kobbermose Stampe,Enhedslisten - De Rød-Grønne,1
+Nyborg,9,Langtved,Ø_Sanja_Kirk_Hansen,Sanja Kirk Hansen,Enhedslisten - De Rød-Grønne,1
+Nyborg,9,Langtved,Ø_Lars_Michael_Christian_J_Bennedbæk,Lars Michael Christian J Bennedbæk,Enhedslisten - De Rød-Grønne,0
+Nyborg,9,Langtved,Ø_Preben_Jørgensen,Preben Jørgensen,Enhedslisten - De Rød-Grønne,0
+Nyborg,9,Langtved,Ø_Benny_Lammert_Pieszak,Benny Lammert Pieszak,Enhedslisten - De Rød-Grønne,1
+Nyborg,10,Ørbæk,A_Listestemmer,Listestemmer,Socialdemokratiet,43
+Nyborg,10,Ørbæk,A_Sonja_Marie_Jensen,Sonja Marie Jensen,Socialdemokratiet,74
+Nyborg,10,Ørbæk,A_Jesper_Nielsen,Jesper Nielsen,Socialdemokratiet,7
+Nyborg,10,Ørbæk,A_Martin_Stenmann,Martin Stenmann,Socialdemokratiet,3
+Nyborg,10,Ørbæk,A_Barbara_Bendahl_Schultz,Barbara Bendahl Schultz,Socialdemokratiet,6
+Nyborg,10,Ørbæk,A_Per_Chrone_Jespersen,Per Chrone Jespersen,Socialdemokratiet,18
+Nyborg,10,Ørbæk,A_Poul_Erik_Knudsen,Poul Erik Knudsen,Socialdemokratiet,0
+Nyborg,10,Ørbæk,A_Vibeke_Franziska_L_Ejlertsen,Vibeke Franziska L Ejlertsen,Socialdemokratiet,1
+Nyborg,10,Ørbæk,A_Heidi_Anker_Leen,Heidi Anker Leen,Socialdemokratiet,1
+Nyborg,10,Ørbæk,A_Claus_Johanson,Claus Johanson,Socialdemokratiet,1
+Nyborg,10,Ørbæk,A_Lene_Ingemann_Skyggelund,Lene Ingemann Skyggelund,Socialdemokratiet,0
+Nyborg,10,Ørbæk,A_Janni_Møller_Sørensen,Janni Møller Sørensen,Socialdemokratiet,1
+Nyborg,10,Ørbæk,A_Rameesh_Thirugnanasambanther,Rameesh Thirugnanasambanther,Socialdemokratiet,11
+Nyborg,10,Ørbæk,A_Henrik_Hauge_Vestergaard,Henrik Hauge Vestergaard,Socialdemokratiet,0
+Nyborg,10,Ørbæk,A_Steen_Ole_Steensen_Christensen,Steen Ole Steensen Christensen,Socialdemokratiet,0
+Nyborg,10,Ørbæk,A_Merete_Østergaard_Bang,Merete Østergaard Bang,Socialdemokratiet,6
+Nyborg,10,Ørbæk,A_Kirstine_Sofie_Ingemann_Skyggelund,Kirstine Sofie Ingemann Skyggelund,Socialdemokratiet,0
+Nyborg,10,Ørbæk,A_Allan_Lindholm,Allan Lindholm,Socialdemokratiet,0
+Nyborg,10,Ørbæk,A_Sabrina_Baltser_Verner,Sabrina Baltser Verner,Socialdemokratiet,12
+Nyborg,10,Ørbæk,A_Brian_Kristiansen,Brian Kristiansen,Socialdemokratiet,1
+Nyborg,10,Ørbæk,A_Carsten_Sahl_Rasmussen,Carsten Sahl Rasmussen,Socialdemokratiet,0
+Nyborg,10,Ørbæk,A_Casey_Lasse_Høybye_Pedersen,Casey Lasse Høybye Pedersen,Socialdemokratiet,0
+Nyborg,10,Ørbæk,A_Lone_Smidt,Lone Smidt,Socialdemokratiet,5
+Nyborg,10,Ørbæk,B_Listestemmer,Listestemmer,Radikale Venstre,2
+Nyborg,10,Ørbæk,B_Emilie_Halbye_Haaning,Emilie Halbye Haaning,Radikale Venstre,9
+Nyborg,10,Ørbæk,B_Hjalmar_Christiansen,Hjalmar Christiansen,Radikale Venstre,0
+Nyborg,10,Ørbæk,B_Ludvig_Eduard_Dittmann,Ludvig Eduard Dittmann,Radikale Venstre,1
+Nyborg,10,Ørbæk,B_Karen_Moritz_Hansen,Karen Moritz Hansen,Radikale Venstre,1
+Nyborg,10,Ørbæk,B_Dorit_Myltoft,Dorit Myltoft,Radikale Venstre,0
+Nyborg,10,Ørbæk,B_Jesper_Trampedach,Jesper Trampedach,Radikale Venstre,0
+Nyborg,10,Ørbæk,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,6
+Nyborg,10,Ørbæk,C_Jan_Michael_Gertsen,Jan Michael Gertsen,Det Konservative Folkeparti,3
+Nyborg,10,Ørbæk,C_Thomas_Bo_Fibiger_Rydahl,Thomas Bo Fibiger Rydahl,Det Konservative Folkeparti,1
+Nyborg,10,Ørbæk,C_Tjalfe_Nørregaard_Schmidt,Tjalfe Nørregaard Schmidt,Det Konservative Folkeparti,0
+Nyborg,10,Ørbæk,C_Thomas_Egelund_Krum,Thomas Egelund Krum,Det Konservative Folkeparti,7
+Nyborg,10,Ørbæk,C_Niels_Lundshøj_Regnarsen,Niels Lundshøj Regnarsen,Det Konservative Folkeparti,0
+Nyborg,10,Ørbæk,C_Anne_Conradsen,Anne Conradsen,Det Konservative Folkeparti,1
+Nyborg,10,Ørbæk,C_Oscar_Ibsen,Oscar Ibsen,Det Konservative Folkeparti,0
+Nyborg,10,Ørbæk,C_Henrik_Boeriths,Henrik Boeriths,Det Konservative Folkeparti,0
+Nyborg,10,Ørbæk,C_Per_Kurt_Olsen,Per Kurt Olsen,Det Konservative Folkeparti,0
+Nyborg,10,Ørbæk,C_Jessika_Hanna_Marie_J_Harboe,Jessika Hanna Marie J Harboe,Det Konservative Folkeparti,0
+Nyborg,10,Ørbæk,C_Thomas_Bach_Piekut,Thomas Bach Piekut,Det Konservative Folkeparti,0
+Nyborg,10,Ørbæk,D_Listestemmer,Listestemmer,Nye Borgerlige,12
+Nyborg,10,Ørbæk,D_Kasper_Mejlhede,Kasper Mejlhede,Nye Borgerlige,9
+Nyborg,10,Ørbæk,D_Henrik_Aaen,Henrik Aaen,Nye Borgerlige,6
+Nyborg,10,Ørbæk,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,8
+Nyborg,10,Ørbæk,F_Suzette_Frovin,Suzette Frovin,SF - Socialistisk Folkeparti,17
+Nyborg,10,Ørbæk,F_Ole_Tyrsted_Jørgensen,Ole Tyrsted Jørgensen,SF - Socialistisk Folkeparti,7
+Nyborg,10,Ørbæk,F_Anja_Sika_de_Thurah,Anja Sika de Thurah,SF - Socialistisk Folkeparti,2
+Nyborg,10,Ørbæk,F_Jens_Høj_Justesen,Jens Høj Justesen,SF - Socialistisk Folkeparti,1
+Nyborg,10,Ørbæk,F_Frans_Jakobsen,Frans Jakobsen,SF - Socialistisk Folkeparti,0
+Nyborg,10,Ørbæk,F_Gøye_Thorn_Svendsen,Gøye Thorn Svendsen,SF - Socialistisk Folkeparti,1
+Nyborg,10,Ørbæk,F_Jette_Iben_Bohr,Jette Iben Bohr,SF - Socialistisk Folkeparti,0
+Nyborg,10,Ørbæk,F_Hans_Biering,Hans Biering,SF - Socialistisk Folkeparti,0
+Nyborg,10,Ørbæk,I_Listestemmer,Listestemmer,Liberal Alliance,3
+Nyborg,10,Ørbæk,I_Lars_Ole_Petersen,Lars Ole Petersen,Liberal Alliance,0
+Nyborg,10,Ørbæk,M_Listestemmer,Listestemmer,Vi Lokale Demokrater,1
+Nyborg,10,Ørbæk,M_Carsten_Kudsk,Carsten Kudsk,Vi Lokale Demokrater,1
+Nyborg,10,Ørbæk,M_Knud_Skov_Ahrnkiel,Knud Skov Ahrnkiel,Vi Lokale Demokrater,0
+Nyborg,10,Ørbæk,M_Lars-Aage_Schjoldager,Lars-Aage Schjoldager,Vi Lokale Demokrater,0
+Nyborg,10,Ørbæk,M_Lisa_Ralph_Ravn,Lisa Ralph Ravn,Vi Lokale Demokrater,0
+Nyborg,10,Ørbæk,M_Kent_Høiberg_Larsen,Kent Høiberg Larsen,Vi Lokale Demokrater,0
+Nyborg,10,Ørbæk,M_Henning_Faurby_Pedersen,Henning Faurby Pedersen,Vi Lokale Demokrater,0
+Nyborg,10,Ørbæk,M_Ib_Jørgen_Kristensen,Ib Jørgen Kristensen,Vi Lokale Demokrater,0
+Nyborg,10,Ørbæk,M_Jan_Thornfeldt,Jan Thornfeldt,Vi Lokale Demokrater,0
+Nyborg,10,Ørbæk,O_Listestemmer,Listestemmer,Dansk Folkeparti,10
+Nyborg,10,Ørbæk,O_Anne_Marie_Palm-Johansen,Anne Marie Palm-Johansen,Dansk Folkeparti,15
+Nyborg,10,Ørbæk,O_Frank_Sørensen,Frank Sørensen,Dansk Folkeparti,3
+Nyborg,10,Ørbæk,O_Allan_Møller_Lau,Allan Møller Lau,Dansk Folkeparti,0
+Nyborg,10,Ørbæk,O_Eva_Thind_Høiberg,Eva Thind Høiberg,Dansk Folkeparti,2
+Nyborg,10,Ørbæk,O_Rudy_Lyngvig,Rudy Lyngvig,Dansk Folkeparti,0
+Nyborg,10,Ørbæk,O_Bent_Larsen,Bent Larsen,Dansk Folkeparti,0
+Nyborg,10,Ørbæk,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",38
+Nyborg,10,Ørbæk,V_Kenneth_Lundager_Muhs,Kenneth Lundager Muhs,"Venstre, Danmarks Liberale Parti",509
+Nyborg,10,Ørbæk,V_Kaj_Jacobsen_Refslund,Kaj Jacobsen Refslund,"Venstre, Danmarks Liberale Parti",8
+Nyborg,10,Ørbæk,V_Søren_Ejnar_Svendsen,Søren Ejnar Svendsen,"Venstre, Danmarks Liberale Parti",48
+Nyborg,10,Ørbæk,V_Jørgen_Jørgensen,Jørgen Jørgensen,"Venstre, Danmarks Liberale Parti",1
+Nyborg,10,Ørbæk,V_Anja_Lærke_Kongsdal,Anja Lærke Kongsdal,"Venstre, Danmarks Liberale Parti",3
+Nyborg,10,Ørbæk,V_Jacob_Nilsson,Jacob Nilsson,"Venstre, Danmarks Liberale Parti",30
+Nyborg,10,Ørbæk,V_Puk_Colette_Lundemann_Løndahl,Puk Colette Lundemann Løndahl,"Venstre, Danmarks Liberale Parti",2
+Nyborg,10,Ørbæk,V_Søren_Nielsen,Søren Nielsen,"Venstre, Danmarks Liberale Parti",0
+Nyborg,10,Ørbæk,V_Peter_Wagner_Mollerup,Peter Wagner Mollerup,"Venstre, Danmarks Liberale Parti",0
+Nyborg,10,Ørbæk,V_Martin_Huus,Martin Huus,"Venstre, Danmarks Liberale Parti",5
+Nyborg,10,Ørbæk,V_Niels_Ørsted,Niels Ørsted,"Venstre, Danmarks Liberale Parti",1
+Nyborg,10,Ørbæk,V_Jan_Reimer_Christiansen,Jan Reimer Christiansen,"Venstre, Danmarks Liberale Parti",15
+Nyborg,10,Ørbæk,V_Kenneth_Taanquist,Kenneth Taanquist,"Venstre, Danmarks Liberale Parti",74
+Nyborg,10,Ørbæk,V_Flemming_Kjærulf_Rasmussen,Flemming Kjærulf Rasmussen,"Venstre, Danmarks Liberale Parti",2
+Nyborg,10,Ørbæk,V_Jørn_Terndrup,Jørn Terndrup,"Venstre, Danmarks Liberale Parti",0
+Nyborg,10,Ørbæk,V_Anne_Dyrhøj,Anne Dyrhøj,"Venstre, Danmarks Liberale Parti",3
+Nyborg,10,Ørbæk,V_Pia_Kondrup_Juul-Nielsen,Pia Kondrup Juul-Nielsen,"Venstre, Danmarks Liberale Parti",4
+Nyborg,10,Ørbæk,V_Jørn_Gammeltoft_Gustavsen,Jørn Gammeltoft Gustavsen,"Venstre, Danmarks Liberale Parti",0
+Nyborg,10,Ørbæk,V_John_Normann_Burke-Hansen,John Normann Burke-Hansen,"Venstre, Danmarks Liberale Parti",0
+Nyborg,10,Ørbæk,V_Keld_Cramer_Hjort,Keld Cramer Hjort,"Venstre, Danmarks Liberale Parti",0
+Nyborg,10,Ørbæk,V_Anja_Diana_Kjær_Sohne,Anja Diana Kjær Sohne,"Venstre, Danmarks Liberale Parti",2
+Nyborg,10,Ørbæk,V_Rune_Christensen,Rune Christensen,"Venstre, Danmarks Liberale Parti",0
+Nyborg,10,Ørbæk,V_Per_Sønder,Per Sønder,"Venstre, Danmarks Liberale Parti",2
+Nyborg,10,Ørbæk,V_Birol_Kalem,Birol Kalem,"Venstre, Danmarks Liberale Parti",0
+Nyborg,10,Ørbæk,V_Nanna_Elm_Bille_Adamsen,Nanna Elm Bille Adamsen,"Venstre, Danmarks Liberale Parti",3
+Nyborg,10,Ørbæk,V_Claus_Roed_Nielsen,Claus Roed Nielsen,"Venstre, Danmarks Liberale Parti",0
+Nyborg,10,Ørbæk,V_Davíð_Hrafnsson_Holst_Nielsen,Davíð Hrafnsson Holst Nielsen,"Venstre, Danmarks Liberale Parti",1
+Nyborg,10,Ørbæk,V_Kirsten_Lissi_Press,Kirsten Lissi Press,"Venstre, Danmarks Liberale Parti",0
+Nyborg,10,Ørbæk,V_Carsten_Karner_Hansen,Carsten Karner Hansen,"Venstre, Danmarks Liberale Parti",1
+Nyborg,10,Ørbæk,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,8
+Nyborg,10,Ørbæk,Ø_Melissa_Meulengracht,Melissa Meulengracht,Enhedslisten - De Rød-Grønne,4
+Nyborg,10,Ørbæk,Ø_Anders_Kirkebæk-Jensen,Anders Kirkebæk-Jensen,Enhedslisten - De Rød-Grønne,1
+Nyborg,10,Ørbæk,Ø_Ane-Louise_Kobbermose_Stampe,Ane-Louise Kobbermose Stampe,Enhedslisten - De Rød-Grønne,0
+Nyborg,10,Ørbæk,Ø_Sanja_Kirk_Hansen,Sanja Kirk Hansen,Enhedslisten - De Rød-Grønne,0
+Nyborg,10,Ørbæk,Ø_Lars_Michael_Christian_J_Bennedbæk,Lars Michael Christian J Bennedbæk,Enhedslisten - De Rød-Grønne,0
+Nyborg,10,Ørbæk,Ø_Preben_Jørgensen,Preben Jørgensen,Enhedslisten - De Rød-Grønne,0
+Nyborg,10,Ørbæk,Ø_Benny_Lammert_Pieszak,Benny Lammert Pieszak,Enhedslisten - De Rød-Grønne,0
+Nyborg,11,Frørup Og Tårup,A_Listestemmer,Listestemmer,Socialdemokratiet,47
+Nyborg,11,Frørup Og Tårup,A_Sonja_Marie_Jensen,Sonja Marie Jensen,Socialdemokratiet,86
+Nyborg,11,Frørup Og Tårup,A_Jesper_Nielsen,Jesper Nielsen,Socialdemokratiet,2
+Nyborg,11,Frørup Og Tårup,A_Martin_Stenmann,Martin Stenmann,Socialdemokratiet,8
+Nyborg,11,Frørup Og Tårup,A_Barbara_Bendahl_Schultz,Barbara Bendahl Schultz,Socialdemokratiet,3
+Nyborg,11,Frørup Og Tårup,A_Per_Chrone_Jespersen,Per Chrone Jespersen,Socialdemokratiet,64
+Nyborg,11,Frørup Og Tårup,A_Poul_Erik_Knudsen,Poul Erik Knudsen,Socialdemokratiet,2
+Nyborg,11,Frørup Og Tårup,A_Vibeke_Franziska_L_Ejlertsen,Vibeke Franziska L Ejlertsen,Socialdemokratiet,1
+Nyborg,11,Frørup Og Tårup,A_Heidi_Anker_Leen,Heidi Anker Leen,Socialdemokratiet,3
+Nyborg,11,Frørup Og Tårup,A_Claus_Johanson,Claus Johanson,Socialdemokratiet,3
+Nyborg,11,Frørup Og Tårup,A_Lene_Ingemann_Skyggelund,Lene Ingemann Skyggelund,Socialdemokratiet,0
+Nyborg,11,Frørup Og Tårup,A_Janni_Møller_Sørensen,Janni Møller Sørensen,Socialdemokratiet,0
+Nyborg,11,Frørup Og Tårup,A_Rameesh_Thirugnanasambanther,Rameesh Thirugnanasambanther,Socialdemokratiet,6
+Nyborg,11,Frørup Og Tårup,A_Henrik_Hauge_Vestergaard,Henrik Hauge Vestergaard,Socialdemokratiet,0
+Nyborg,11,Frørup Og Tårup,A_Steen_Ole_Steensen_Christensen,Steen Ole Steensen Christensen,Socialdemokratiet,1
+Nyborg,11,Frørup Og Tårup,A_Merete_Østergaard_Bang,Merete Østergaard Bang,Socialdemokratiet,1
+Nyborg,11,Frørup Og Tårup,A_Kirstine_Sofie_Ingemann_Skyggelund,Kirstine Sofie Ingemann Skyggelund,Socialdemokratiet,0
+Nyborg,11,Frørup Og Tårup,A_Allan_Lindholm,Allan Lindholm,Socialdemokratiet,0
+Nyborg,11,Frørup Og Tårup,A_Sabrina_Baltser_Verner,Sabrina Baltser Verner,Socialdemokratiet,4
+Nyborg,11,Frørup Og Tårup,A_Brian_Kristiansen,Brian Kristiansen,Socialdemokratiet,0
+Nyborg,11,Frørup Og Tårup,A_Carsten_Sahl_Rasmussen,Carsten Sahl Rasmussen,Socialdemokratiet,0
+Nyborg,11,Frørup Og Tårup,A_Casey_Lasse_Høybye_Pedersen,Casey Lasse Høybye Pedersen,Socialdemokratiet,0
+Nyborg,11,Frørup Og Tårup,A_Lone_Smidt,Lone Smidt,Socialdemokratiet,7
+Nyborg,11,Frørup Og Tårup,B_Listestemmer,Listestemmer,Radikale Venstre,5
+Nyborg,11,Frørup Og Tårup,B_Emilie_Halbye_Haaning,Emilie Halbye Haaning,Radikale Venstre,2
+Nyborg,11,Frørup Og Tårup,B_Hjalmar_Christiansen,Hjalmar Christiansen,Radikale Venstre,0
+Nyborg,11,Frørup Og Tårup,B_Ludvig_Eduard_Dittmann,Ludvig Eduard Dittmann,Radikale Venstre,3
+Nyborg,11,Frørup Og Tårup,B_Karen_Moritz_Hansen,Karen Moritz Hansen,Radikale Venstre,4
+Nyborg,11,Frørup Og Tårup,B_Dorit_Myltoft,Dorit Myltoft,Radikale Venstre,0
+Nyborg,11,Frørup Og Tårup,B_Jesper_Trampedach,Jesper Trampedach,Radikale Venstre,1
+Nyborg,11,Frørup Og Tårup,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,9
+Nyborg,11,Frørup Og Tårup,C_Jan_Michael_Gertsen,Jan Michael Gertsen,Det Konservative Folkeparti,16
+Nyborg,11,Frørup Og Tårup,C_Thomas_Bo_Fibiger_Rydahl,Thomas Bo Fibiger Rydahl,Det Konservative Folkeparti,3
+Nyborg,11,Frørup Og Tårup,C_Tjalfe_Nørregaard_Schmidt,Tjalfe Nørregaard Schmidt,Det Konservative Folkeparti,0
+Nyborg,11,Frørup Og Tårup,C_Thomas_Egelund_Krum,Thomas Egelund Krum,Det Konservative Folkeparti,1
+Nyborg,11,Frørup Og Tårup,C_Niels_Lundshøj_Regnarsen,Niels Lundshøj Regnarsen,Det Konservative Folkeparti,1
+Nyborg,11,Frørup Og Tårup,C_Anne_Conradsen,Anne Conradsen,Det Konservative Folkeparti,0
+Nyborg,11,Frørup Og Tårup,C_Oscar_Ibsen,Oscar Ibsen,Det Konservative Folkeparti,0
+Nyborg,11,Frørup Og Tårup,C_Henrik_Boeriths,Henrik Boeriths,Det Konservative Folkeparti,3
+Nyborg,11,Frørup Og Tårup,C_Per_Kurt_Olsen,Per Kurt Olsen,Det Konservative Folkeparti,0
+Nyborg,11,Frørup Og Tårup,C_Jessika_Hanna_Marie_J_Harboe,Jessika Hanna Marie J Harboe,Det Konservative Folkeparti,0
+Nyborg,11,Frørup Og Tårup,C_Thomas_Bach_Piekut,Thomas Bach Piekut,Det Konservative Folkeparti,0
+Nyborg,11,Frørup Og Tårup,D_Listestemmer,Listestemmer,Nye Borgerlige,10
+Nyborg,11,Frørup Og Tårup,D_Kasper_Mejlhede,Kasper Mejlhede,Nye Borgerlige,11
+Nyborg,11,Frørup Og Tårup,D_Henrik_Aaen,Henrik Aaen,Nye Borgerlige,2
+Nyborg,11,Frørup Og Tårup,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,11
+Nyborg,11,Frørup Og Tårup,F_Suzette_Frovin,Suzette Frovin,SF - Socialistisk Folkeparti,32
+Nyborg,11,Frørup Og Tårup,F_Ole_Tyrsted_Jørgensen,Ole Tyrsted Jørgensen,SF - Socialistisk Folkeparti,4
+Nyborg,11,Frørup Og Tårup,F_Anja_Sika_de_Thurah,Anja Sika de Thurah,SF - Socialistisk Folkeparti,3
+Nyborg,11,Frørup Og Tårup,F_Jens_Høj_Justesen,Jens Høj Justesen,SF - Socialistisk Folkeparti,0
+Nyborg,11,Frørup Og Tårup,F_Frans_Jakobsen,Frans Jakobsen,SF - Socialistisk Folkeparti,0
+Nyborg,11,Frørup Og Tårup,F_Gøye_Thorn_Svendsen,Gøye Thorn Svendsen,SF - Socialistisk Folkeparti,0
+Nyborg,11,Frørup Og Tårup,F_Jette_Iben_Bohr,Jette Iben Bohr,SF - Socialistisk Folkeparti,0
+Nyborg,11,Frørup Og Tårup,F_Hans_Biering,Hans Biering,SF - Socialistisk Folkeparti,0
+Nyborg,11,Frørup Og Tårup,I_Listestemmer,Listestemmer,Liberal Alliance,0
+Nyborg,11,Frørup Og Tårup,I_Lars_Ole_Petersen,Lars Ole Petersen,Liberal Alliance,0
+Nyborg,11,Frørup Og Tårup,M_Listestemmer,Listestemmer,Vi Lokale Demokrater,0
+Nyborg,11,Frørup Og Tårup,M_Carsten_Kudsk,Carsten Kudsk,Vi Lokale Demokrater,3
+Nyborg,11,Frørup Og Tårup,M_Knud_Skov_Ahrnkiel,Knud Skov Ahrnkiel,Vi Lokale Demokrater,0
+Nyborg,11,Frørup Og Tårup,M_Lars-Aage_Schjoldager,Lars-Aage Schjoldager,Vi Lokale Demokrater,0
+Nyborg,11,Frørup Og Tårup,M_Lisa_Ralph_Ravn,Lisa Ralph Ravn,Vi Lokale Demokrater,0
+Nyborg,11,Frørup Og Tårup,M_Kent_Høiberg_Larsen,Kent Høiberg Larsen,Vi Lokale Demokrater,0
+Nyborg,11,Frørup Og Tårup,M_Henning_Faurby_Pedersen,Henning Faurby Pedersen,Vi Lokale Demokrater,0
+Nyborg,11,Frørup Og Tårup,M_Ib_Jørgen_Kristensen,Ib Jørgen Kristensen,Vi Lokale Demokrater,0
+Nyborg,11,Frørup Og Tårup,M_Jan_Thornfeldt,Jan Thornfeldt,Vi Lokale Demokrater,0
+Nyborg,11,Frørup Og Tårup,O_Listestemmer,Listestemmer,Dansk Folkeparti,5
+Nyborg,11,Frørup Og Tårup,O_Anne_Marie_Palm-Johansen,Anne Marie Palm-Johansen,Dansk Folkeparti,7
+Nyborg,11,Frørup Og Tårup,O_Frank_Sørensen,Frank Sørensen,Dansk Folkeparti,1
+Nyborg,11,Frørup Og Tårup,O_Allan_Møller_Lau,Allan Møller Lau,Dansk Folkeparti,0
+Nyborg,11,Frørup Og Tårup,O_Eva_Thind_Høiberg,Eva Thind Høiberg,Dansk Folkeparti,0
+Nyborg,11,Frørup Og Tårup,O_Rudy_Lyngvig,Rudy Lyngvig,Dansk Folkeparti,0
+Nyborg,11,Frørup Og Tårup,O_Bent_Larsen,Bent Larsen,Dansk Folkeparti,2
+Nyborg,11,Frørup Og Tårup,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",39
+Nyborg,11,Frørup Og Tårup,V_Kenneth_Lundager_Muhs,Kenneth Lundager Muhs,"Venstre, Danmarks Liberale Parti",259
+Nyborg,11,Frørup Og Tårup,V_Kaj_Jacobsen_Refslund,Kaj Jacobsen Refslund,"Venstre, Danmarks Liberale Parti",6
+Nyborg,11,Frørup Og Tårup,V_Søren_Ejnar_Svendsen,Søren Ejnar Svendsen,"Venstre, Danmarks Liberale Parti",17
+Nyborg,11,Frørup Og Tårup,V_Jørgen_Jørgensen,Jørgen Jørgensen,"Venstre, Danmarks Liberale Parti",2
+Nyborg,11,Frørup Og Tårup,V_Anja_Lærke_Kongsdal,Anja Lærke Kongsdal,"Venstre, Danmarks Liberale Parti",9
+Nyborg,11,Frørup Og Tårup,V_Jacob_Nilsson,Jacob Nilsson,"Venstre, Danmarks Liberale Parti",28
+Nyborg,11,Frørup Og Tårup,V_Puk_Colette_Lundemann_Løndahl,Puk Colette Lundemann Løndahl,"Venstre, Danmarks Liberale Parti",0
+Nyborg,11,Frørup Og Tårup,V_Søren_Nielsen,Søren Nielsen,"Venstre, Danmarks Liberale Parti",1
+Nyborg,11,Frørup Og Tårup,V_Peter_Wagner_Mollerup,Peter Wagner Mollerup,"Venstre, Danmarks Liberale Parti",2
+Nyborg,11,Frørup Og Tårup,V_Martin_Huus,Martin Huus,"Venstre, Danmarks Liberale Parti",41
+Nyborg,11,Frørup Og Tårup,V_Niels_Ørsted,Niels Ørsted,"Venstre, Danmarks Liberale Parti",0
+Nyborg,11,Frørup Og Tårup,V_Jan_Reimer_Christiansen,Jan Reimer Christiansen,"Venstre, Danmarks Liberale Parti",3
+Nyborg,11,Frørup Og Tårup,V_Kenneth_Taanquist,Kenneth Taanquist,"Venstre, Danmarks Liberale Parti",4
+Nyborg,11,Frørup Og Tårup,V_Flemming_Kjærulf_Rasmussen,Flemming Kjærulf Rasmussen,"Venstre, Danmarks Liberale Parti",2
+Nyborg,11,Frørup Og Tårup,V_Jørn_Terndrup,Jørn Terndrup,"Venstre, Danmarks Liberale Parti",2
+Nyborg,11,Frørup Og Tårup,V_Anne_Dyrhøj,Anne Dyrhøj,"Venstre, Danmarks Liberale Parti",8
+Nyborg,11,Frørup Og Tårup,V_Pia_Kondrup_Juul-Nielsen,Pia Kondrup Juul-Nielsen,"Venstre, Danmarks Liberale Parti",1
+Nyborg,11,Frørup Og Tårup,V_Jørn_Gammeltoft_Gustavsen,Jørn Gammeltoft Gustavsen,"Venstre, Danmarks Liberale Parti",6
+Nyborg,11,Frørup Og Tårup,V_John_Normann_Burke-Hansen,John Normann Burke-Hansen,"Venstre, Danmarks Liberale Parti",0
+Nyborg,11,Frørup Og Tårup,V_Keld_Cramer_Hjort,Keld Cramer Hjort,"Venstre, Danmarks Liberale Parti",0
+Nyborg,11,Frørup Og Tårup,V_Anja_Diana_Kjær_Sohne,Anja Diana Kjær Sohne,"Venstre, Danmarks Liberale Parti",3
+Nyborg,11,Frørup Og Tårup,V_Rune_Christensen,Rune Christensen,"Venstre, Danmarks Liberale Parti",0
+Nyborg,11,Frørup Og Tårup,V_Per_Sønder,Per Sønder,"Venstre, Danmarks Liberale Parti",0
+Nyborg,11,Frørup Og Tårup,V_Birol_Kalem,Birol Kalem,"Venstre, Danmarks Liberale Parti",1
+Nyborg,11,Frørup Og Tårup,V_Nanna_Elm_Bille_Adamsen,Nanna Elm Bille Adamsen,"Venstre, Danmarks Liberale Parti",2
+Nyborg,11,Frørup Og Tårup,V_Claus_Roed_Nielsen,Claus Roed Nielsen,"Venstre, Danmarks Liberale Parti",0
+Nyborg,11,Frørup Og Tårup,V_Davíð_Hrafnsson_Holst_Nielsen,Davíð Hrafnsson Holst Nielsen,"Venstre, Danmarks Liberale Parti",0
+Nyborg,11,Frørup Og Tårup,V_Kirsten_Lissi_Press,Kirsten Lissi Press,"Venstre, Danmarks Liberale Parti",3
+Nyborg,11,Frørup Og Tårup,V_Carsten_Karner_Hansen,Carsten Karner Hansen,"Venstre, Danmarks Liberale Parti",0
+Nyborg,11,Frørup Og Tårup,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,12
+Nyborg,11,Frørup Og Tårup,Ø_Melissa_Meulengracht,Melissa Meulengracht,Enhedslisten - De Rød-Grønne,5
+Nyborg,11,Frørup Og Tårup,Ø_Anders_Kirkebæk-Jensen,Anders Kirkebæk-Jensen,Enhedslisten - De Rød-Grønne,4
+Nyborg,11,Frørup Og Tårup,Ø_Ane-Louise_Kobbermose_Stampe,Ane-Louise Kobbermose Stampe,Enhedslisten - De Rød-Grønne,2
+Nyborg,11,Frørup Og Tårup,Ø_Sanja_Kirk_Hansen,Sanja Kirk Hansen,Enhedslisten - De Rød-Grønne,0
+Nyborg,11,Frørup Og Tårup,Ø_Lars_Michael_Christian_J_Bennedbæk,Lars Michael Christian J Bennedbæk,Enhedslisten - De Rød-Grønne,0
+Nyborg,11,Frørup Og Tårup,Ø_Preben_Jørgensen,Preben Jørgensen,Enhedslisten - De Rød-Grønne,0
+Nyborg,11,Frørup Og Tårup,Ø_Benny_Lammert_Pieszak,Benny Lammert Pieszak,Enhedslisten - De Rød-Grønne,0
+Nyborg,12,Ellested Og Herrested,A_Listestemmer,Listestemmer,Socialdemokratiet,37
+Nyborg,12,Ellested Og Herrested,A_Sonja_Marie_Jensen,Sonja Marie Jensen,Socialdemokratiet,57
+Nyborg,12,Ellested Og Herrested,A_Jesper_Nielsen,Jesper Nielsen,Socialdemokratiet,1
+Nyborg,12,Ellested Og Herrested,A_Martin_Stenmann,Martin Stenmann,Socialdemokratiet,5
+Nyborg,12,Ellested Og Herrested,A_Barbara_Bendahl_Schultz,Barbara Bendahl Schultz,Socialdemokratiet,0
+Nyborg,12,Ellested Og Herrested,A_Per_Chrone_Jespersen,Per Chrone Jespersen,Socialdemokratiet,2
+Nyborg,12,Ellested Og Herrested,A_Poul_Erik_Knudsen,Poul Erik Knudsen,Socialdemokratiet,0
+Nyborg,12,Ellested Og Herrested,A_Vibeke_Franziska_L_Ejlertsen,Vibeke Franziska L Ejlertsen,Socialdemokratiet,1
+Nyborg,12,Ellested Og Herrested,A_Heidi_Anker_Leen,Heidi Anker Leen,Socialdemokratiet,1
+Nyborg,12,Ellested Og Herrested,A_Claus_Johanson,Claus Johanson,Socialdemokratiet,2
+Nyborg,12,Ellested Og Herrested,A_Lene_Ingemann_Skyggelund,Lene Ingemann Skyggelund,Socialdemokratiet,1
+Nyborg,12,Ellested Og Herrested,A_Janni_Møller_Sørensen,Janni Møller Sørensen,Socialdemokratiet,1
+Nyborg,12,Ellested Og Herrested,A_Rameesh_Thirugnanasambanther,Rameesh Thirugnanasambanther,Socialdemokratiet,3
+Nyborg,12,Ellested Og Herrested,A_Henrik_Hauge_Vestergaard,Henrik Hauge Vestergaard,Socialdemokratiet,0
+Nyborg,12,Ellested Og Herrested,A_Steen_Ole_Steensen_Christensen,Steen Ole Steensen Christensen,Socialdemokratiet,0
+Nyborg,12,Ellested Og Herrested,A_Merete_Østergaard_Bang,Merete Østergaard Bang,Socialdemokratiet,3
+Nyborg,12,Ellested Og Herrested,A_Kirstine_Sofie_Ingemann_Skyggelund,Kirstine Sofie Ingemann Skyggelund,Socialdemokratiet,1
+Nyborg,12,Ellested Og Herrested,A_Allan_Lindholm,Allan Lindholm,Socialdemokratiet,0
+Nyborg,12,Ellested Og Herrested,A_Sabrina_Baltser_Verner,Sabrina Baltser Verner,Socialdemokratiet,4
+Nyborg,12,Ellested Og Herrested,A_Brian_Kristiansen,Brian Kristiansen,Socialdemokratiet,1
+Nyborg,12,Ellested Og Herrested,A_Carsten_Sahl_Rasmussen,Carsten Sahl Rasmussen,Socialdemokratiet,26
+Nyborg,12,Ellested Og Herrested,A_Casey_Lasse_Høybye_Pedersen,Casey Lasse Høybye Pedersen,Socialdemokratiet,0
+Nyborg,12,Ellested Og Herrested,A_Lone_Smidt,Lone Smidt,Socialdemokratiet,4
+Nyborg,12,Ellested Og Herrested,B_Listestemmer,Listestemmer,Radikale Venstre,1
+Nyborg,12,Ellested Og Herrested,B_Emilie_Halbye_Haaning,Emilie Halbye Haaning,Radikale Venstre,7
+Nyborg,12,Ellested Og Herrested,B_Hjalmar_Christiansen,Hjalmar Christiansen,Radikale Venstre,0
+Nyborg,12,Ellested Og Herrested,B_Ludvig_Eduard_Dittmann,Ludvig Eduard Dittmann,Radikale Venstre,0
+Nyborg,12,Ellested Og Herrested,B_Karen_Moritz_Hansen,Karen Moritz Hansen,Radikale Venstre,2
+Nyborg,12,Ellested Og Herrested,B_Dorit_Myltoft,Dorit Myltoft,Radikale Venstre,1
+Nyborg,12,Ellested Og Herrested,B_Jesper_Trampedach,Jesper Trampedach,Radikale Venstre,0
+Nyborg,12,Ellested Og Herrested,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,9
+Nyborg,12,Ellested Og Herrested,C_Jan_Michael_Gertsen,Jan Michael Gertsen,Det Konservative Folkeparti,12
+Nyborg,12,Ellested Og Herrested,C_Thomas_Bo_Fibiger_Rydahl,Thomas Bo Fibiger Rydahl,Det Konservative Folkeparti,0
+Nyborg,12,Ellested Og Herrested,C_Tjalfe_Nørregaard_Schmidt,Tjalfe Nørregaard Schmidt,Det Konservative Folkeparti,2
+Nyborg,12,Ellested Og Herrested,C_Thomas_Egelund_Krum,Thomas Egelund Krum,Det Konservative Folkeparti,1
+Nyborg,12,Ellested Og Herrested,C_Niels_Lundshøj_Regnarsen,Niels Lundshøj Regnarsen,Det Konservative Folkeparti,1
+Nyborg,12,Ellested Og Herrested,C_Anne_Conradsen,Anne Conradsen,Det Konservative Folkeparti,1
+Nyborg,12,Ellested Og Herrested,C_Oscar_Ibsen,Oscar Ibsen,Det Konservative Folkeparti,0
+Nyborg,12,Ellested Og Herrested,C_Henrik_Boeriths,Henrik Boeriths,Det Konservative Folkeparti,2
+Nyborg,12,Ellested Og Herrested,C_Per_Kurt_Olsen,Per Kurt Olsen,Det Konservative Folkeparti,0
+Nyborg,12,Ellested Og Herrested,C_Jessika_Hanna_Marie_J_Harboe,Jessika Hanna Marie J Harboe,Det Konservative Folkeparti,1
+Nyborg,12,Ellested Og Herrested,C_Thomas_Bach_Piekut,Thomas Bach Piekut,Det Konservative Folkeparti,0
+Nyborg,12,Ellested Og Herrested,D_Listestemmer,Listestemmer,Nye Borgerlige,8
+Nyborg,12,Ellested Og Herrested,D_Kasper_Mejlhede,Kasper Mejlhede,Nye Borgerlige,8
+Nyborg,12,Ellested Og Herrested,D_Henrik_Aaen,Henrik Aaen,Nye Borgerlige,4
+Nyborg,12,Ellested Og Herrested,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,12
+Nyborg,12,Ellested Og Herrested,F_Suzette_Frovin,Suzette Frovin,SF - Socialistisk Folkeparti,9
+Nyborg,12,Ellested Og Herrested,F_Ole_Tyrsted_Jørgensen,Ole Tyrsted Jørgensen,SF - Socialistisk Folkeparti,3
+Nyborg,12,Ellested Og Herrested,F_Anja_Sika_de_Thurah,Anja Sika de Thurah,SF - Socialistisk Folkeparti,1
+Nyborg,12,Ellested Og Herrested,F_Jens_Høj_Justesen,Jens Høj Justesen,SF - Socialistisk Folkeparti,0
+Nyborg,12,Ellested Og Herrested,F_Frans_Jakobsen,Frans Jakobsen,SF - Socialistisk Folkeparti,0
+Nyborg,12,Ellested Og Herrested,F_Gøye_Thorn_Svendsen,Gøye Thorn Svendsen,SF - Socialistisk Folkeparti,0
+Nyborg,12,Ellested Og Herrested,F_Jette_Iben_Bohr,Jette Iben Bohr,SF - Socialistisk Folkeparti,1
+Nyborg,12,Ellested Og Herrested,F_Hans_Biering,Hans Biering,SF - Socialistisk Folkeparti,0
+Nyborg,12,Ellested Og Herrested,I_Listestemmer,Listestemmer,Liberal Alliance,3
+Nyborg,12,Ellested Og Herrested,I_Lars_Ole_Petersen,Lars Ole Petersen,Liberal Alliance,2
+Nyborg,12,Ellested Og Herrested,M_Listestemmer,Listestemmer,Vi Lokale Demokrater,0
+Nyborg,12,Ellested Og Herrested,M_Carsten_Kudsk,Carsten Kudsk,Vi Lokale Demokrater,2
+Nyborg,12,Ellested Og Herrested,M_Knud_Skov_Ahrnkiel,Knud Skov Ahrnkiel,Vi Lokale Demokrater,0
+Nyborg,12,Ellested Og Herrested,M_Lars-Aage_Schjoldager,Lars-Aage Schjoldager,Vi Lokale Demokrater,0
+Nyborg,12,Ellested Og Herrested,M_Lisa_Ralph_Ravn,Lisa Ralph Ravn,Vi Lokale Demokrater,3
+Nyborg,12,Ellested Og Herrested,M_Kent_Høiberg_Larsen,Kent Høiberg Larsen,Vi Lokale Demokrater,0
+Nyborg,12,Ellested Og Herrested,M_Henning_Faurby_Pedersen,Henning Faurby Pedersen,Vi Lokale Demokrater,0
+Nyborg,12,Ellested Og Herrested,M_Ib_Jørgen_Kristensen,Ib Jørgen Kristensen,Vi Lokale Demokrater,0
+Nyborg,12,Ellested Og Herrested,M_Jan_Thornfeldt,Jan Thornfeldt,Vi Lokale Demokrater,0
+Nyborg,12,Ellested Og Herrested,O_Listestemmer,Listestemmer,Dansk Folkeparti,4
+Nyborg,12,Ellested Og Herrested,O_Anne_Marie_Palm-Johansen,Anne Marie Palm-Johansen,Dansk Folkeparti,4
+Nyborg,12,Ellested Og Herrested,O_Frank_Sørensen,Frank Sørensen,Dansk Folkeparti,3
+Nyborg,12,Ellested Og Herrested,O_Allan_Møller_Lau,Allan Møller Lau,Dansk Folkeparti,0
+Nyborg,12,Ellested Og Herrested,O_Eva_Thind_Høiberg,Eva Thind Høiberg,Dansk Folkeparti,0
+Nyborg,12,Ellested Og Herrested,O_Rudy_Lyngvig,Rudy Lyngvig,Dansk Folkeparti,0
+Nyborg,12,Ellested Og Herrested,O_Bent_Larsen,Bent Larsen,Dansk Folkeparti,0
+Nyborg,12,Ellested Og Herrested,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",30
+Nyborg,12,Ellested Og Herrested,V_Kenneth_Lundager_Muhs,Kenneth Lundager Muhs,"Venstre, Danmarks Liberale Parti",250
+Nyborg,12,Ellested Og Herrested,V_Kaj_Jacobsen_Refslund,Kaj Jacobsen Refslund,"Venstre, Danmarks Liberale Parti",2
+Nyborg,12,Ellested Og Herrested,V_Søren_Ejnar_Svendsen,Søren Ejnar Svendsen,"Venstre, Danmarks Liberale Parti",10
+Nyborg,12,Ellested Og Herrested,V_Jørgen_Jørgensen,Jørgen Jørgensen,"Venstre, Danmarks Liberale Parti",2
+Nyborg,12,Ellested Og Herrested,V_Anja_Lærke_Kongsdal,Anja Lærke Kongsdal,"Venstre, Danmarks Liberale Parti",3
+Nyborg,12,Ellested Og Herrested,V_Jacob_Nilsson,Jacob Nilsson,"Venstre, Danmarks Liberale Parti",0
+Nyborg,12,Ellested Og Herrested,V_Puk_Colette_Lundemann_Løndahl,Puk Colette Lundemann Løndahl,"Venstre, Danmarks Liberale Parti",0
+Nyborg,12,Ellested Og Herrested,V_Søren_Nielsen,Søren Nielsen,"Venstre, Danmarks Liberale Parti",0
+Nyborg,12,Ellested Og Herrested,V_Peter_Wagner_Mollerup,Peter Wagner Mollerup,"Venstre, Danmarks Liberale Parti",1
+Nyborg,12,Ellested Og Herrested,V_Martin_Huus,Martin Huus,"Venstre, Danmarks Liberale Parti",2
+Nyborg,12,Ellested Og Herrested,V_Niels_Ørsted,Niels Ørsted,"Venstre, Danmarks Liberale Parti",0
+Nyborg,12,Ellested Og Herrested,V_Jan_Reimer_Christiansen,Jan Reimer Christiansen,"Venstre, Danmarks Liberale Parti",95
+Nyborg,12,Ellested Og Herrested,V_Kenneth_Taanquist,Kenneth Taanquist,"Venstre, Danmarks Liberale Parti",3
+Nyborg,12,Ellested Og Herrested,V_Flemming_Kjærulf_Rasmussen,Flemming Kjærulf Rasmussen,"Venstre, Danmarks Liberale Parti",1
+Nyborg,12,Ellested Og Herrested,V_Jørn_Terndrup,Jørn Terndrup,"Venstre, Danmarks Liberale Parti",1
+Nyborg,12,Ellested Og Herrested,V_Anne_Dyrhøj,Anne Dyrhøj,"Venstre, Danmarks Liberale Parti",1
+Nyborg,12,Ellested Og Herrested,V_Pia_Kondrup_Juul-Nielsen,Pia Kondrup Juul-Nielsen,"Venstre, Danmarks Liberale Parti",2
+Nyborg,12,Ellested Og Herrested,V_Jørn_Gammeltoft_Gustavsen,Jørn Gammeltoft Gustavsen,"Venstre, Danmarks Liberale Parti",1
+Nyborg,12,Ellested Og Herrested,V_John_Normann_Burke-Hansen,John Normann Burke-Hansen,"Venstre, Danmarks Liberale Parti",2
+Nyborg,12,Ellested Og Herrested,V_Keld_Cramer_Hjort,Keld Cramer Hjort,"Venstre, Danmarks Liberale Parti",0
+Nyborg,12,Ellested Og Herrested,V_Anja_Diana_Kjær_Sohne,Anja Diana Kjær Sohne,"Venstre, Danmarks Liberale Parti",0
+Nyborg,12,Ellested Og Herrested,V_Rune_Christensen,Rune Christensen,"Venstre, Danmarks Liberale Parti",0
+Nyborg,12,Ellested Og Herrested,V_Per_Sønder,Per Sønder,"Venstre, Danmarks Liberale Parti",0
+Nyborg,12,Ellested Og Herrested,V_Birol_Kalem,Birol Kalem,"Venstre, Danmarks Liberale Parti",0
+Nyborg,12,Ellested Og Herrested,V_Nanna_Elm_Bille_Adamsen,Nanna Elm Bille Adamsen,"Venstre, Danmarks Liberale Parti",1
+Nyborg,12,Ellested Og Herrested,V_Claus_Roed_Nielsen,Claus Roed Nielsen,"Venstre, Danmarks Liberale Parti",0
+Nyborg,12,Ellested Og Herrested,V_Davíð_Hrafnsson_Holst_Nielsen,Davíð Hrafnsson Holst Nielsen,"Venstre, Danmarks Liberale Parti",0
+Nyborg,12,Ellested Og Herrested,V_Kirsten_Lissi_Press,Kirsten Lissi Press,"Venstre, Danmarks Liberale Parti",0
+Nyborg,12,Ellested Og Herrested,V_Carsten_Karner_Hansen,Carsten Karner Hansen,"Venstre, Danmarks Liberale Parti",1
+Nyborg,12,Ellested Og Herrested,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,9
+Nyborg,12,Ellested Og Herrested,Ø_Melissa_Meulengracht,Melissa Meulengracht,Enhedslisten - De Rød-Grønne,3
+Nyborg,12,Ellested Og Herrested,Ø_Anders_Kirkebæk-Jensen,Anders Kirkebæk-Jensen,Enhedslisten - De Rød-Grønne,5
+Nyborg,12,Ellested Og Herrested,Ø_Ane-Louise_Kobbermose_Stampe,Ane-Louise Kobbermose Stampe,Enhedslisten - De Rød-Grønne,0
+Nyborg,12,Ellested Og Herrested,Ø_Sanja_Kirk_Hansen,Sanja Kirk Hansen,Enhedslisten - De Rød-Grønne,0
+Nyborg,12,Ellested Og Herrested,Ø_Lars_Michael_Christian_J_Bennedbæk,Lars Michael Christian J Bennedbæk,Enhedslisten - De Rød-Grønne,0
+Nyborg,12,Ellested Og Herrested,Ø_Preben_Jørgensen,Preben Jørgensen,Enhedslisten - De Rød-Grønne,0
+Nyborg,12,Ellested Og Herrested,Ø_Benny_Lammert_Pieszak,Benny Lammert Pieszak,Enhedslisten - De Rød-Grønne,0
+Nyborg,13,Kullerup Og Refsvindinge,A_Listestemmer,Listestemmer,Socialdemokratiet,37
+Nyborg,13,Kullerup Og Refsvindinge,A_Sonja_Marie_Jensen,Sonja Marie Jensen,Socialdemokratiet,65
+Nyborg,13,Kullerup Og Refsvindinge,A_Jesper_Nielsen,Jesper Nielsen,Socialdemokratiet,6
+Nyborg,13,Kullerup Og Refsvindinge,A_Martin_Stenmann,Martin Stenmann,Socialdemokratiet,12
+Nyborg,13,Kullerup Og Refsvindinge,A_Barbara_Bendahl_Schultz,Barbara Bendahl Schultz,Socialdemokratiet,7
+Nyborg,13,Kullerup Og Refsvindinge,A_Per_Chrone_Jespersen,Per Chrone Jespersen,Socialdemokratiet,4
+Nyborg,13,Kullerup Og Refsvindinge,A_Poul_Erik_Knudsen,Poul Erik Knudsen,Socialdemokratiet,3
+Nyborg,13,Kullerup Og Refsvindinge,A_Vibeke_Franziska_L_Ejlertsen,Vibeke Franziska L Ejlertsen,Socialdemokratiet,2
+Nyborg,13,Kullerup Og Refsvindinge,A_Heidi_Anker_Leen,Heidi Anker Leen,Socialdemokratiet,0
+Nyborg,13,Kullerup Og Refsvindinge,A_Claus_Johanson,Claus Johanson,Socialdemokratiet,0
+Nyborg,13,Kullerup Og Refsvindinge,A_Lene_Ingemann_Skyggelund,Lene Ingemann Skyggelund,Socialdemokratiet,0
+Nyborg,13,Kullerup Og Refsvindinge,A_Janni_Møller_Sørensen,Janni Møller Sørensen,Socialdemokratiet,7
+Nyborg,13,Kullerup Og Refsvindinge,A_Rameesh_Thirugnanasambanther,Rameesh Thirugnanasambanther,Socialdemokratiet,0
+Nyborg,13,Kullerup Og Refsvindinge,A_Henrik_Hauge_Vestergaard,Henrik Hauge Vestergaard,Socialdemokratiet,0
+Nyborg,13,Kullerup Og Refsvindinge,A_Steen_Ole_Steensen_Christensen,Steen Ole Steensen Christensen,Socialdemokratiet,0
+Nyborg,13,Kullerup Og Refsvindinge,A_Merete_Østergaard_Bang,Merete Østergaard Bang,Socialdemokratiet,0
+Nyborg,13,Kullerup Og Refsvindinge,A_Kirstine_Sofie_Ingemann_Skyggelund,Kirstine Sofie Ingemann Skyggelund,Socialdemokratiet,0
+Nyborg,13,Kullerup Og Refsvindinge,A_Allan_Lindholm,Allan Lindholm,Socialdemokratiet,2
+Nyborg,13,Kullerup Og Refsvindinge,A_Sabrina_Baltser_Verner,Sabrina Baltser Verner,Socialdemokratiet,8
+Nyborg,13,Kullerup Og Refsvindinge,A_Brian_Kristiansen,Brian Kristiansen,Socialdemokratiet,0
+Nyborg,13,Kullerup Og Refsvindinge,A_Carsten_Sahl_Rasmussen,Carsten Sahl Rasmussen,Socialdemokratiet,1
+Nyborg,13,Kullerup Og Refsvindinge,A_Casey_Lasse_Høybye_Pedersen,Casey Lasse Høybye Pedersen,Socialdemokratiet,0
+Nyborg,13,Kullerup Og Refsvindinge,A_Lone_Smidt,Lone Smidt,Socialdemokratiet,12
+Nyborg,13,Kullerup Og Refsvindinge,B_Listestemmer,Listestemmer,Radikale Venstre,4
+Nyborg,13,Kullerup Og Refsvindinge,B_Emilie_Halbye_Haaning,Emilie Halbye Haaning,Radikale Venstre,1
+Nyborg,13,Kullerup Og Refsvindinge,B_Hjalmar_Christiansen,Hjalmar Christiansen,Radikale Venstre,0
+Nyborg,13,Kullerup Og Refsvindinge,B_Ludvig_Eduard_Dittmann,Ludvig Eduard Dittmann,Radikale Venstre,3
+Nyborg,13,Kullerup Og Refsvindinge,B_Karen_Moritz_Hansen,Karen Moritz Hansen,Radikale Venstre,3
+Nyborg,13,Kullerup Og Refsvindinge,B_Dorit_Myltoft,Dorit Myltoft,Radikale Venstre,0
+Nyborg,13,Kullerup Og Refsvindinge,B_Jesper_Trampedach,Jesper Trampedach,Radikale Venstre,0
+Nyborg,13,Kullerup Og Refsvindinge,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,4
+Nyborg,13,Kullerup Og Refsvindinge,C_Jan_Michael_Gertsen,Jan Michael Gertsen,Det Konservative Folkeparti,11
+Nyborg,13,Kullerup Og Refsvindinge,C_Thomas_Bo_Fibiger_Rydahl,Thomas Bo Fibiger Rydahl,Det Konservative Folkeparti,4
+Nyborg,13,Kullerup Og Refsvindinge,C_Tjalfe_Nørregaard_Schmidt,Tjalfe Nørregaard Schmidt,Det Konservative Folkeparti,1
+Nyborg,13,Kullerup Og Refsvindinge,C_Thomas_Egelund_Krum,Thomas Egelund Krum,Det Konservative Folkeparti,1
+Nyborg,13,Kullerup Og Refsvindinge,C_Niels_Lundshøj_Regnarsen,Niels Lundshøj Regnarsen,Det Konservative Folkeparti,0
+Nyborg,13,Kullerup Og Refsvindinge,C_Anne_Conradsen,Anne Conradsen,Det Konservative Folkeparti,2
+Nyborg,13,Kullerup Og Refsvindinge,C_Oscar_Ibsen,Oscar Ibsen,Det Konservative Folkeparti,1
+Nyborg,13,Kullerup Og Refsvindinge,C_Henrik_Boeriths,Henrik Boeriths,Det Konservative Folkeparti,0
+Nyborg,13,Kullerup Og Refsvindinge,C_Per_Kurt_Olsen,Per Kurt Olsen,Det Konservative Folkeparti,0
+Nyborg,13,Kullerup Og Refsvindinge,C_Jessika_Hanna_Marie_J_Harboe,Jessika Hanna Marie J Harboe,Det Konservative Folkeparti,0
+Nyborg,13,Kullerup Og Refsvindinge,C_Thomas_Bach_Piekut,Thomas Bach Piekut,Det Konservative Folkeparti,0
+Nyborg,13,Kullerup Og Refsvindinge,D_Listestemmer,Listestemmer,Nye Borgerlige,11
+Nyborg,13,Kullerup Og Refsvindinge,D_Kasper_Mejlhede,Kasper Mejlhede,Nye Borgerlige,3
+Nyborg,13,Kullerup Og Refsvindinge,D_Henrik_Aaen,Henrik Aaen,Nye Borgerlige,4
+Nyborg,13,Kullerup Og Refsvindinge,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,10
+Nyborg,13,Kullerup Og Refsvindinge,F_Suzette_Frovin,Suzette Frovin,SF - Socialistisk Folkeparti,11
+Nyborg,13,Kullerup Og Refsvindinge,F_Ole_Tyrsted_Jørgensen,Ole Tyrsted Jørgensen,SF - Socialistisk Folkeparti,5
+Nyborg,13,Kullerup Og Refsvindinge,F_Anja_Sika_de_Thurah,Anja Sika de Thurah,SF - Socialistisk Folkeparti,3
+Nyborg,13,Kullerup Og Refsvindinge,F_Jens_Høj_Justesen,Jens Høj Justesen,SF - Socialistisk Folkeparti,1
+Nyborg,13,Kullerup Og Refsvindinge,F_Frans_Jakobsen,Frans Jakobsen,SF - Socialistisk Folkeparti,1
+Nyborg,13,Kullerup Og Refsvindinge,F_Gøye_Thorn_Svendsen,Gøye Thorn Svendsen,SF - Socialistisk Folkeparti,0
+Nyborg,13,Kullerup Og Refsvindinge,F_Jette_Iben_Bohr,Jette Iben Bohr,SF - Socialistisk Folkeparti,1
+Nyborg,13,Kullerup Og Refsvindinge,F_Hans_Biering,Hans Biering,SF - Socialistisk Folkeparti,0
+Nyborg,13,Kullerup Og Refsvindinge,I_Listestemmer,Listestemmer,Liberal Alliance,1
+Nyborg,13,Kullerup Og Refsvindinge,I_Lars_Ole_Petersen,Lars Ole Petersen,Liberal Alliance,0
+Nyborg,13,Kullerup Og Refsvindinge,M_Listestemmer,Listestemmer,Vi Lokale Demokrater,0
+Nyborg,13,Kullerup Og Refsvindinge,M_Carsten_Kudsk,Carsten Kudsk,Vi Lokale Demokrater,2
+Nyborg,13,Kullerup Og Refsvindinge,M_Knud_Skov_Ahrnkiel,Knud Skov Ahrnkiel,Vi Lokale Demokrater,0
+Nyborg,13,Kullerup Og Refsvindinge,M_Lars-Aage_Schjoldager,Lars-Aage Schjoldager,Vi Lokale Demokrater,0
+Nyborg,13,Kullerup Og Refsvindinge,M_Lisa_Ralph_Ravn,Lisa Ralph Ravn,Vi Lokale Demokrater,0
+Nyborg,13,Kullerup Og Refsvindinge,M_Kent_Høiberg_Larsen,Kent Høiberg Larsen,Vi Lokale Demokrater,1
+Nyborg,13,Kullerup Og Refsvindinge,M_Henning_Faurby_Pedersen,Henning Faurby Pedersen,Vi Lokale Demokrater,0
+Nyborg,13,Kullerup Og Refsvindinge,M_Ib_Jørgen_Kristensen,Ib Jørgen Kristensen,Vi Lokale Demokrater,0
+Nyborg,13,Kullerup Og Refsvindinge,M_Jan_Thornfeldt,Jan Thornfeldt,Vi Lokale Demokrater,0
+Nyborg,13,Kullerup Og Refsvindinge,O_Listestemmer,Listestemmer,Dansk Folkeparti,6
+Nyborg,13,Kullerup Og Refsvindinge,O_Anne_Marie_Palm-Johansen,Anne Marie Palm-Johansen,Dansk Folkeparti,7
+Nyborg,13,Kullerup Og Refsvindinge,O_Frank_Sørensen,Frank Sørensen,Dansk Folkeparti,0
+Nyborg,13,Kullerup Og Refsvindinge,O_Allan_Møller_Lau,Allan Møller Lau,Dansk Folkeparti,1
+Nyborg,13,Kullerup Og Refsvindinge,O_Eva_Thind_Høiberg,Eva Thind Høiberg,Dansk Folkeparti,0
+Nyborg,13,Kullerup Og Refsvindinge,O_Rudy_Lyngvig,Rudy Lyngvig,Dansk Folkeparti,0
+Nyborg,13,Kullerup Og Refsvindinge,O_Bent_Larsen,Bent Larsen,Dansk Folkeparti,0
+Nyborg,13,Kullerup Og Refsvindinge,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",39
+Nyborg,13,Kullerup Og Refsvindinge,V_Kenneth_Lundager_Muhs,Kenneth Lundager Muhs,"Venstre, Danmarks Liberale Parti",250
+Nyborg,13,Kullerup Og Refsvindinge,V_Kaj_Jacobsen_Refslund,Kaj Jacobsen Refslund,"Venstre, Danmarks Liberale Parti",51
+Nyborg,13,Kullerup Og Refsvindinge,V_Søren_Ejnar_Svendsen,Søren Ejnar Svendsen,"Venstre, Danmarks Liberale Parti",20
+Nyborg,13,Kullerup Og Refsvindinge,V_Jørgen_Jørgensen,Jørgen Jørgensen,"Venstre, Danmarks Liberale Parti",1
+Nyborg,13,Kullerup Og Refsvindinge,V_Anja_Lærke_Kongsdal,Anja Lærke Kongsdal,"Venstre, Danmarks Liberale Parti",10
+Nyborg,13,Kullerup Og Refsvindinge,V_Jacob_Nilsson,Jacob Nilsson,"Venstre, Danmarks Liberale Parti",6
+Nyborg,13,Kullerup Og Refsvindinge,V_Puk_Colette_Lundemann_Løndahl,Puk Colette Lundemann Løndahl,"Venstre, Danmarks Liberale Parti",0
+Nyborg,13,Kullerup Og Refsvindinge,V_Søren_Nielsen,Søren Nielsen,"Venstre, Danmarks Liberale Parti",0
+Nyborg,13,Kullerup Og Refsvindinge,V_Peter_Wagner_Mollerup,Peter Wagner Mollerup,"Venstre, Danmarks Liberale Parti",1
+Nyborg,13,Kullerup Og Refsvindinge,V_Martin_Huus,Martin Huus,"Venstre, Danmarks Liberale Parti",8
+Nyborg,13,Kullerup Og Refsvindinge,V_Niels_Ørsted,Niels Ørsted,"Venstre, Danmarks Liberale Parti",3
+Nyborg,13,Kullerup Og Refsvindinge,V_Jan_Reimer_Christiansen,Jan Reimer Christiansen,"Venstre, Danmarks Liberale Parti",8
+Nyborg,13,Kullerup Og Refsvindinge,V_Kenneth_Taanquist,Kenneth Taanquist,"Venstre, Danmarks Liberale Parti",3
+Nyborg,13,Kullerup Og Refsvindinge,V_Flemming_Kjærulf_Rasmussen,Flemming Kjærulf Rasmussen,"Venstre, Danmarks Liberale Parti",2
+Nyborg,13,Kullerup Og Refsvindinge,V_Jørn_Terndrup,Jørn Terndrup,"Venstre, Danmarks Liberale Parti",0
+Nyborg,13,Kullerup Og Refsvindinge,V_Anne_Dyrhøj,Anne Dyrhøj,"Venstre, Danmarks Liberale Parti",2
+Nyborg,13,Kullerup Og Refsvindinge,V_Pia_Kondrup_Juul-Nielsen,Pia Kondrup Juul-Nielsen,"Venstre, Danmarks Liberale Parti",6
+Nyborg,13,Kullerup Og Refsvindinge,V_Jørn_Gammeltoft_Gustavsen,Jørn Gammeltoft Gustavsen,"Venstre, Danmarks Liberale Parti",2
+Nyborg,13,Kullerup Og Refsvindinge,V_John_Normann_Burke-Hansen,John Normann Burke-Hansen,"Venstre, Danmarks Liberale Parti",3
+Nyborg,13,Kullerup Og Refsvindinge,V_Keld_Cramer_Hjort,Keld Cramer Hjort,"Venstre, Danmarks Liberale Parti",2
+Nyborg,13,Kullerup Og Refsvindinge,V_Anja_Diana_Kjær_Sohne,Anja Diana Kjær Sohne,"Venstre, Danmarks Liberale Parti",0
+Nyborg,13,Kullerup Og Refsvindinge,V_Rune_Christensen,Rune Christensen,"Venstre, Danmarks Liberale Parti",5
+Nyborg,13,Kullerup Og Refsvindinge,V_Per_Sønder,Per Sønder,"Venstre, Danmarks Liberale Parti",1
+Nyborg,13,Kullerup Og Refsvindinge,V_Birol_Kalem,Birol Kalem,"Venstre, Danmarks Liberale Parti",1
+Nyborg,13,Kullerup Og Refsvindinge,V_Nanna_Elm_Bille_Adamsen,Nanna Elm Bille Adamsen,"Venstre, Danmarks Liberale Parti",0
+Nyborg,13,Kullerup Og Refsvindinge,V_Claus_Roed_Nielsen,Claus Roed Nielsen,"Venstre, Danmarks Liberale Parti",1
+Nyborg,13,Kullerup Og Refsvindinge,V_Davíð_Hrafnsson_Holst_Nielsen,Davíð Hrafnsson Holst Nielsen,"Venstre, Danmarks Liberale Parti",0
+Nyborg,13,Kullerup Og Refsvindinge,V_Kirsten_Lissi_Press,Kirsten Lissi Press,"Venstre, Danmarks Liberale Parti",0
+Nyborg,13,Kullerup Og Refsvindinge,V_Carsten_Karner_Hansen,Carsten Karner Hansen,"Venstre, Danmarks Liberale Parti",0
+Nyborg,13,Kullerup Og Refsvindinge,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,13
+Nyborg,13,Kullerup Og Refsvindinge,Ø_Melissa_Meulengracht,Melissa Meulengracht,Enhedslisten - De Rød-Grønne,1
+Nyborg,13,Kullerup Og Refsvindinge,Ø_Anders_Kirkebæk-Jensen,Anders Kirkebæk-Jensen,Enhedslisten - De Rød-Grønne,2
+Nyborg,13,Kullerup Og Refsvindinge,Ø_Ane-Louise_Kobbermose_Stampe,Ane-Louise Kobbermose Stampe,Enhedslisten - De Rød-Grønne,2
+Nyborg,13,Kullerup Og Refsvindinge,Ø_Sanja_Kirk_Hansen,Sanja Kirk Hansen,Enhedslisten - De Rød-Grønne,0
+Nyborg,13,Kullerup Og Refsvindinge,Ø_Lars_Michael_Christian_J_Bennedbæk,Lars Michael Christian J Bennedbæk,Enhedslisten - De Rød-Grønne,0
+Nyborg,13,Kullerup Og Refsvindinge,Ø_Preben_Jørgensen,Preben Jørgensen,Enhedslisten - De Rød-Grønne,0
+Nyborg,13,Kullerup Og Refsvindinge,Ø_Benny_Lammert_Pieszak,Benny Lammert Pieszak,Enhedslisten - De Rød-Grønne,0

@@ -1,0 +1,681 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Odder,1,Odder,A_Listestemmer,Listestemmer,Socialdemokratiet,469
+Odder,1,Odder,A_Lone_Jakobi,Lone Jakobi,Socialdemokratiet,623
+Odder,1,Odder,A_Linda_Ann_Wienand,Linda Ann Wienand,Socialdemokratiet,58
+Odder,1,Odder,A_Lars_Bluhme,Lars Bluhme,Socialdemokratiet,325
+Odder,1,Odder,A_Claes_Jensen,Claes Jensen,Socialdemokratiet,117
+Odder,1,Odder,A_Jacob_Petersen,Jacob Petersen,Socialdemokratiet,91
+Odder,1,Odder,A_Eva_Lagerberg,Eva Lagerberg,Socialdemokratiet,70
+Odder,1,Odder,A_Jan_Kjærsgaard,Jan Kjærsgaard,Socialdemokratiet,27
+Odder,1,Odder,A_Rie_Ramsdal,Rie Ramsdal,Socialdemokratiet,21
+Odder,1,Odder,A_Torben_Madsen,Torben Madsen,Socialdemokratiet,166
+Odder,1,Odder,A_Palle_Holsting,Palle Holsting,Socialdemokratiet,38
+Odder,1,Odder,A_Peter_Skov_Sørensen,Peter Skov Sørensen,Socialdemokratiet,6
+Odder,1,Odder,A_Nicolai_Ramsdal,Nicolai Ramsdal,Socialdemokratiet,24
+Odder,1,Odder,B_Listestemmer,Listestemmer,Radikale Venstre,86
+Odder,1,Odder,"B_Kresten_Bjerre,_Odder","Kresten Bjerre, Odder",Radikale Venstre,228
+Odder,1,Odder,"B_Katja_Ivesøe,_Gylling","Katja Ivesøe, Gylling",Radikale Venstre,139
+Odder,1,Odder,"B_Tine_Mynster,_Alrø","Tine Mynster, Alrø",Radikale Venstre,103
+Odder,1,Odder,"B_Henrik_Skovgaard,_Odder","Henrik Skovgaard, Odder",Radikale Venstre,14
+Odder,1,Odder,"B_Michael_Jessen,_Odder","Michael Jessen, Odder",Radikale Venstre,3
+Odder,1,Odder,"B_Anna_Birte_Sparvath,_Hou","Anna Birte Sparvath, Hou",Radikale Venstre,8
+Odder,1,Odder,"B_Jeppe_Frederiksen,_Odder","Jeppe Frederiksen, Odder",Radikale Venstre,21
+Odder,1,Odder,"B_Ingmar_Grootveld,_Randlev","Ingmar Grootveld, Randlev",Radikale Venstre,4
+Odder,1,Odder,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,155
+Odder,1,Odder,C_Martin_Mikkelsen,Martin Mikkelsen,Det Konservative Folkeparti,478
+Odder,1,Odder,C_Klaus_Rafael_Jensen,Klaus Rafael Jensen,Det Konservative Folkeparti,124
+Odder,1,Odder,C_Henriette_Toftegaard,Henriette Toftegaard,Det Konservative Folkeparti,53
+Odder,1,Odder,C_René_Krongaard,René Krongaard,Det Konservative Folkeparti,46
+Odder,1,Odder,C_Nikolaj_Enggård_Fogh,Nikolaj Enggård Fogh,Det Konservative Folkeparti,81
+Odder,1,Odder,C_Regnar_Arboe,Regnar Arboe,Det Konservative Folkeparti,46
+Odder,1,Odder,C_Morten_Ottosen,Morten Ottosen,Det Konservative Folkeparti,16
+Odder,1,Odder,C_Kim_Gottschalck_Jensen,Kim Gottschalck Jensen,Det Konservative Folkeparti,16
+Odder,1,Odder,D_Listestemmer,Listestemmer,Nye Borgerlige,79
+Odder,1,Odder,D_Brian_Vestergaard,Brian Vestergaard,Nye Borgerlige,72
+Odder,1,Odder,D_Keld_Lynge,Keld Lynge,Nye Borgerlige,6
+Odder,1,Odder,D_Claus_Steffensen,Claus Steffensen,Nye Borgerlige,31
+Odder,1,Odder,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,103
+Odder,1,Odder,"F_Marianne_Hundebøll,_Odder","Marianne Hundebøll, Odder",SF - Socialistisk Folkeparti,231
+Odder,1,Odder,"F_Helle_Jensen_Møller,_Saksild","Helle Jensen Møller, Saksild",SF - Socialistisk Folkeparti,50
+Odder,1,Odder,"F_Frank_Kronbo,_Odder","Frank Kronbo, Odder",SF - Socialistisk Folkeparti,28
+Odder,1,Odder,"F_Mogens_Bedsted,_Torrild","Mogens Bedsted, Torrild",SF - Socialistisk Folkeparti,7
+Odder,1,Odder,O_Listestemmer,Listestemmer,Dansk Folkeparti,56
+Odder,1,Odder,O_Jan_Jørgensen,Jan Jørgensen,Dansk Folkeparti,45
+Odder,1,Odder,O_Keld_Nyholm,Keld Nyholm,Dansk Folkeparti,4
+Odder,1,Odder,T_Listestemmer,Listestemmer,Verdensmål med Vilje,15
+Odder,1,Odder,T_Heidi_Gautschi,Heidi Gautschi,Verdensmål med Vilje,0
+Odder,1,Odder,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",263
+Odder,1,Odder,"V_Uffe_Jensen,_Odder","Uffe Jensen, Odder","Venstre, Danmarks Liberale Parti",1534
+Odder,1,Odder,"V_Finn_Thranum,_Hou","Finn Thranum, Hou","Venstre, Danmarks Liberale Parti",79
+Odder,1,Odder,"V_Tim_Grønbech,_Tunø","Tim Grønbech, Tunø","Venstre, Danmarks Liberale Parti",27
+Odder,1,Odder,"V_Anne_Wiese,_Hølken","Anne Wiese, Hølken","Venstre, Danmarks Liberale Parti",27
+Odder,1,Odder,"V_Hans_Hammann,_Torrild","Hans Hammann, Torrild","Venstre, Danmarks Liberale Parti",50
+Odder,1,Odder,"V_Lene_Midtgaard,_Hundslund","Lene Midtgaard, Hundslund","Venstre, Danmarks Liberale Parti",15
+Odder,1,Odder,"V_Jan_Gade,_Bjerager","Jan Gade, Bjerager","Venstre, Danmarks Liberale Parti",17
+Odder,1,Odder,"V_Ole_Lyngby_Pedersen,_Fillerup","Ole Lyngby Pedersen, Fillerup","Venstre, Danmarks Liberale Parti",101
+Odder,1,Odder,"V_Lene_Aagaard,_Ørting","Lene Aagaard, Ørting","Venstre, Danmarks Liberale Parti",52
+Odder,1,Odder,"V_Allan_Werk,_Sondrup","Allan Werk, Sondrup","Venstre, Danmarks Liberale Parti",48
+Odder,1,Odder,"V_Parvaneh_Abdoulmaleki,_Odder","Parvaneh Abdoulmaleki, Odder","Venstre, Danmarks Liberale Parti",15
+Odder,1,Odder,"V_Daniel_Dalhoff,_Odder","Daniel Dalhoff, Odder","Venstre, Danmarks Liberale Parti",39
+Odder,1,Odder,"V_Louise_Kreutzfeldt,_Odder","Louise Kreutzfeldt, Odder","Venstre, Danmarks Liberale Parti",64
+Odder,1,Odder,"V_Jørgen_Johannsen,_Odder","Jørgen Johannsen, Odder","Venstre, Danmarks Liberale Parti",7
+Odder,1,Odder,"V_Suzette_Pedersen,_Odder","Suzette Pedersen, Odder","Venstre, Danmarks Liberale Parti",46
+Odder,1,Odder,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,206
+Odder,1,Odder,"Ø_Ditte-Marie_Thejsen,_Odder","Ditte-Marie Thejsen, Odder",Enhedslisten - De Rød-Grønne,387
+Odder,1,Odder,"Ø_Leif_Gjørtz_Christensen,_Norsminde","Leif Gjørtz Christensen, Norsminde",Enhedslisten - De Rød-Grønne,50
+Odder,1,Odder,"Ø_Mariann_Winther,_Odder","Mariann Winther, Odder",Enhedslisten - De Rød-Grønne,110
+Odder,1,Odder,"Ø_Lys_Klitgård_Boman,_Ørting","Lys Klitgård Boman, Ørting",Enhedslisten - De Rød-Grønne,72
+Odder,1,Odder,"Ø_Henrik_Opstrup,_Hou","Henrik Opstrup, Hou",Enhedslisten - De Rød-Grønne,2
+Odder,1,Odder,"Ø_Iris_Mejnecke,_Assedrup","Iris Mejnecke, Assedrup",Enhedslisten - De Rød-Grønne,3
+Odder,2,Torrild,A_Listestemmer,Listestemmer,Socialdemokratiet,11
+Odder,2,Torrild,A_Lone_Jakobi,Lone Jakobi,Socialdemokratiet,22
+Odder,2,Torrild,A_Linda_Ann_Wienand,Linda Ann Wienand,Socialdemokratiet,0
+Odder,2,Torrild,A_Lars_Bluhme,Lars Bluhme,Socialdemokratiet,4
+Odder,2,Torrild,A_Claes_Jensen,Claes Jensen,Socialdemokratiet,0
+Odder,2,Torrild,A_Jacob_Petersen,Jacob Petersen,Socialdemokratiet,3
+Odder,2,Torrild,A_Eva_Lagerberg,Eva Lagerberg,Socialdemokratiet,0
+Odder,2,Torrild,A_Jan_Kjærsgaard,Jan Kjærsgaard,Socialdemokratiet,0
+Odder,2,Torrild,A_Rie_Ramsdal,Rie Ramsdal,Socialdemokratiet,1
+Odder,2,Torrild,A_Torben_Madsen,Torben Madsen,Socialdemokratiet,6
+Odder,2,Torrild,A_Palle_Holsting,Palle Holsting,Socialdemokratiet,0
+Odder,2,Torrild,A_Peter_Skov_Sørensen,Peter Skov Sørensen,Socialdemokratiet,0
+Odder,2,Torrild,A_Nicolai_Ramsdal,Nicolai Ramsdal,Socialdemokratiet,3
+Odder,2,Torrild,B_Listestemmer,Listestemmer,Radikale Venstre,4
+Odder,2,Torrild,"B_Kresten_Bjerre,_Odder","Kresten Bjerre, Odder",Radikale Venstre,4
+Odder,2,Torrild,"B_Katja_Ivesøe,_Gylling","Katja Ivesøe, Gylling",Radikale Venstre,7
+Odder,2,Torrild,"B_Tine_Mynster,_Alrø","Tine Mynster, Alrø",Radikale Venstre,2
+Odder,2,Torrild,"B_Henrik_Skovgaard,_Odder","Henrik Skovgaard, Odder",Radikale Venstre,0
+Odder,2,Torrild,"B_Michael_Jessen,_Odder","Michael Jessen, Odder",Radikale Venstre,0
+Odder,2,Torrild,"B_Anna_Birte_Sparvath,_Hou","Anna Birte Sparvath, Hou",Radikale Venstre,0
+Odder,2,Torrild,"B_Jeppe_Frederiksen,_Odder","Jeppe Frederiksen, Odder",Radikale Venstre,2
+Odder,2,Torrild,"B_Ingmar_Grootveld,_Randlev","Ingmar Grootveld, Randlev",Radikale Venstre,0
+Odder,2,Torrild,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,7
+Odder,2,Torrild,C_Martin_Mikkelsen,Martin Mikkelsen,Det Konservative Folkeparti,12
+Odder,2,Torrild,C_Klaus_Rafael_Jensen,Klaus Rafael Jensen,Det Konservative Folkeparti,5
+Odder,2,Torrild,C_Henriette_Toftegaard,Henriette Toftegaard,Det Konservative Folkeparti,19
+Odder,2,Torrild,C_René_Krongaard,René Krongaard,Det Konservative Folkeparti,1
+Odder,2,Torrild,C_Nikolaj_Enggård_Fogh,Nikolaj Enggård Fogh,Det Konservative Folkeparti,0
+Odder,2,Torrild,C_Regnar_Arboe,Regnar Arboe,Det Konservative Folkeparti,0
+Odder,2,Torrild,C_Morten_Ottosen,Morten Ottosen,Det Konservative Folkeparti,0
+Odder,2,Torrild,C_Kim_Gottschalck_Jensen,Kim Gottschalck Jensen,Det Konservative Folkeparti,0
+Odder,2,Torrild,D_Listestemmer,Listestemmer,Nye Borgerlige,8
+Odder,2,Torrild,D_Brian_Vestergaard,Brian Vestergaard,Nye Borgerlige,0
+Odder,2,Torrild,D_Keld_Lynge,Keld Lynge,Nye Borgerlige,0
+Odder,2,Torrild,D_Claus_Steffensen,Claus Steffensen,Nye Borgerlige,0
+Odder,2,Torrild,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,1
+Odder,2,Torrild,"F_Marianne_Hundebøll,_Odder","Marianne Hundebøll, Odder",SF - Socialistisk Folkeparti,5
+Odder,2,Torrild,"F_Helle_Jensen_Møller,_Saksild","Helle Jensen Møller, Saksild",SF - Socialistisk Folkeparti,1
+Odder,2,Torrild,"F_Frank_Kronbo,_Odder","Frank Kronbo, Odder",SF - Socialistisk Folkeparti,1
+Odder,2,Torrild,"F_Mogens_Bedsted,_Torrild","Mogens Bedsted, Torrild",SF - Socialistisk Folkeparti,9
+Odder,2,Torrild,O_Listestemmer,Listestemmer,Dansk Folkeparti,2
+Odder,2,Torrild,O_Jan_Jørgensen,Jan Jørgensen,Dansk Folkeparti,2
+Odder,2,Torrild,O_Keld_Nyholm,Keld Nyholm,Dansk Folkeparti,0
+Odder,2,Torrild,T_Listestemmer,Listestemmer,Verdensmål med Vilje,0
+Odder,2,Torrild,T_Heidi_Gautschi,Heidi Gautschi,Verdensmål med Vilje,0
+Odder,2,Torrild,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",3
+Odder,2,Torrild,"V_Uffe_Jensen,_Odder","Uffe Jensen, Odder","Venstre, Danmarks Liberale Parti",15
+Odder,2,Torrild,"V_Finn_Thranum,_Hou","Finn Thranum, Hou","Venstre, Danmarks Liberale Parti",3
+Odder,2,Torrild,"V_Tim_Grønbech,_Tunø","Tim Grønbech, Tunø","Venstre, Danmarks Liberale Parti",0
+Odder,2,Torrild,"V_Anne_Wiese,_Hølken","Anne Wiese, Hølken","Venstre, Danmarks Liberale Parti",2
+Odder,2,Torrild,"V_Hans_Hammann,_Torrild","Hans Hammann, Torrild","Venstre, Danmarks Liberale Parti",98
+Odder,2,Torrild,"V_Lene_Midtgaard,_Hundslund","Lene Midtgaard, Hundslund","Venstre, Danmarks Liberale Parti",0
+Odder,2,Torrild,"V_Jan_Gade,_Bjerager","Jan Gade, Bjerager","Venstre, Danmarks Liberale Parti",0
+Odder,2,Torrild,"V_Ole_Lyngby_Pedersen,_Fillerup","Ole Lyngby Pedersen, Fillerup","Venstre, Danmarks Liberale Parti",10
+Odder,2,Torrild,"V_Lene_Aagaard,_Ørting","Lene Aagaard, Ørting","Venstre, Danmarks Liberale Parti",1
+Odder,2,Torrild,"V_Allan_Werk,_Sondrup","Allan Werk, Sondrup","Venstre, Danmarks Liberale Parti",1
+Odder,2,Torrild,"V_Parvaneh_Abdoulmaleki,_Odder","Parvaneh Abdoulmaleki, Odder","Venstre, Danmarks Liberale Parti",0
+Odder,2,Torrild,"V_Daniel_Dalhoff,_Odder","Daniel Dalhoff, Odder","Venstre, Danmarks Liberale Parti",0
+Odder,2,Torrild,"V_Louise_Kreutzfeldt,_Odder","Louise Kreutzfeldt, Odder","Venstre, Danmarks Liberale Parti",2
+Odder,2,Torrild,"V_Jørgen_Johannsen,_Odder","Jørgen Johannsen, Odder","Venstre, Danmarks Liberale Parti",0
+Odder,2,Torrild,"V_Suzette_Pedersen,_Odder","Suzette Pedersen, Odder","Venstre, Danmarks Liberale Parti",2
+Odder,2,Torrild,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,6
+Odder,2,Torrild,"Ø_Ditte-Marie_Thejsen,_Odder","Ditte-Marie Thejsen, Odder",Enhedslisten - De Rød-Grønne,9
+Odder,2,Torrild,"Ø_Leif_Gjørtz_Christensen,_Norsminde","Leif Gjørtz Christensen, Norsminde",Enhedslisten - De Rød-Grønne,1
+Odder,2,Torrild,"Ø_Mariann_Winther,_Odder","Mariann Winther, Odder",Enhedslisten - De Rød-Grønne,5
+Odder,2,Torrild,"Ø_Lys_Klitgård_Boman,_Ørting","Lys Klitgård Boman, Ørting",Enhedslisten - De Rød-Grønne,0
+Odder,2,Torrild,"Ø_Henrik_Opstrup,_Hou","Henrik Opstrup, Hou",Enhedslisten - De Rød-Grønne,0
+Odder,2,Torrild,"Ø_Iris_Mejnecke,_Assedrup","Iris Mejnecke, Assedrup",Enhedslisten - De Rød-Grønne,0
+Odder,3,Saksild - Nølev,A_Listestemmer,Listestemmer,Socialdemokratiet,42
+Odder,3,Saksild - Nølev,A_Lone_Jakobi,Lone Jakobi,Socialdemokratiet,96
+Odder,3,Saksild - Nølev,A_Linda_Ann_Wienand,Linda Ann Wienand,Socialdemokratiet,3
+Odder,3,Saksild - Nølev,A_Lars_Bluhme,Lars Bluhme,Socialdemokratiet,45
+Odder,3,Saksild - Nølev,A_Claes_Jensen,Claes Jensen,Socialdemokratiet,5
+Odder,3,Saksild - Nølev,A_Jacob_Petersen,Jacob Petersen,Socialdemokratiet,15
+Odder,3,Saksild - Nølev,A_Eva_Lagerberg,Eva Lagerberg,Socialdemokratiet,9
+Odder,3,Saksild - Nølev,A_Jan_Kjærsgaard,Jan Kjærsgaard,Socialdemokratiet,1
+Odder,3,Saksild - Nølev,A_Rie_Ramsdal,Rie Ramsdal,Socialdemokratiet,3
+Odder,3,Saksild - Nølev,A_Torben_Madsen,Torben Madsen,Socialdemokratiet,6
+Odder,3,Saksild - Nølev,A_Palle_Holsting,Palle Holsting,Socialdemokratiet,5
+Odder,3,Saksild - Nølev,A_Peter_Skov_Sørensen,Peter Skov Sørensen,Socialdemokratiet,0
+Odder,3,Saksild - Nølev,A_Nicolai_Ramsdal,Nicolai Ramsdal,Socialdemokratiet,4
+Odder,3,Saksild - Nølev,B_Listestemmer,Listestemmer,Radikale Venstre,16
+Odder,3,Saksild - Nølev,"B_Kresten_Bjerre,_Odder","Kresten Bjerre, Odder",Radikale Venstre,78
+Odder,3,Saksild - Nølev,"B_Katja_Ivesøe,_Gylling","Katja Ivesøe, Gylling",Radikale Venstre,13
+Odder,3,Saksild - Nølev,"B_Tine_Mynster,_Alrø","Tine Mynster, Alrø",Radikale Venstre,19
+Odder,3,Saksild - Nølev,"B_Henrik_Skovgaard,_Odder","Henrik Skovgaard, Odder",Radikale Venstre,3
+Odder,3,Saksild - Nølev,"B_Michael_Jessen,_Odder","Michael Jessen, Odder",Radikale Venstre,0
+Odder,3,Saksild - Nølev,"B_Anna_Birte_Sparvath,_Hou","Anna Birte Sparvath, Hou",Radikale Venstre,8
+Odder,3,Saksild - Nølev,"B_Jeppe_Frederiksen,_Odder","Jeppe Frederiksen, Odder",Radikale Venstre,1
+Odder,3,Saksild - Nølev,"B_Ingmar_Grootveld,_Randlev","Ingmar Grootveld, Randlev",Radikale Venstre,1
+Odder,3,Saksild - Nølev,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,25
+Odder,3,Saksild - Nølev,C_Martin_Mikkelsen,Martin Mikkelsen,Det Konservative Folkeparti,60
+Odder,3,Saksild - Nølev,C_Klaus_Rafael_Jensen,Klaus Rafael Jensen,Det Konservative Folkeparti,22
+Odder,3,Saksild - Nølev,C_Henriette_Toftegaard,Henriette Toftegaard,Det Konservative Folkeparti,7
+Odder,3,Saksild - Nølev,C_René_Krongaard,René Krongaard,Det Konservative Folkeparti,3
+Odder,3,Saksild - Nølev,C_Nikolaj_Enggård_Fogh,Nikolaj Enggård Fogh,Det Konservative Folkeparti,9
+Odder,3,Saksild - Nølev,C_Regnar_Arboe,Regnar Arboe,Det Konservative Folkeparti,5
+Odder,3,Saksild - Nølev,C_Morten_Ottosen,Morten Ottosen,Det Konservative Folkeparti,3
+Odder,3,Saksild - Nølev,C_Kim_Gottschalck_Jensen,Kim Gottschalck Jensen,Det Konservative Folkeparti,5
+Odder,3,Saksild - Nølev,D_Listestemmer,Listestemmer,Nye Borgerlige,13
+Odder,3,Saksild - Nølev,D_Brian_Vestergaard,Brian Vestergaard,Nye Borgerlige,15
+Odder,3,Saksild - Nølev,D_Keld_Lynge,Keld Lynge,Nye Borgerlige,0
+Odder,3,Saksild - Nølev,D_Claus_Steffensen,Claus Steffensen,Nye Borgerlige,6
+Odder,3,Saksild - Nølev,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,23
+Odder,3,Saksild - Nølev,"F_Marianne_Hundebøll,_Odder","Marianne Hundebøll, Odder",SF - Socialistisk Folkeparti,47
+Odder,3,Saksild - Nølev,"F_Helle_Jensen_Møller,_Saksild","Helle Jensen Møller, Saksild",SF - Socialistisk Folkeparti,32
+Odder,3,Saksild - Nølev,"F_Frank_Kronbo,_Odder","Frank Kronbo, Odder",SF - Socialistisk Folkeparti,2
+Odder,3,Saksild - Nølev,"F_Mogens_Bedsted,_Torrild","Mogens Bedsted, Torrild",SF - Socialistisk Folkeparti,1
+Odder,3,Saksild - Nølev,O_Listestemmer,Listestemmer,Dansk Folkeparti,5
+Odder,3,Saksild - Nølev,O_Jan_Jørgensen,Jan Jørgensen,Dansk Folkeparti,7
+Odder,3,Saksild - Nølev,O_Keld_Nyholm,Keld Nyholm,Dansk Folkeparti,1
+Odder,3,Saksild - Nølev,T_Listestemmer,Listestemmer,Verdensmål med Vilje,2
+Odder,3,Saksild - Nølev,T_Heidi_Gautschi,Heidi Gautschi,Verdensmål med Vilje,1
+Odder,3,Saksild - Nølev,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",26
+Odder,3,Saksild - Nølev,"V_Uffe_Jensen,_Odder","Uffe Jensen, Odder","Venstre, Danmarks Liberale Parti",159
+Odder,3,Saksild - Nølev,"V_Finn_Thranum,_Hou","Finn Thranum, Hou","Venstre, Danmarks Liberale Parti",16
+Odder,3,Saksild - Nølev,"V_Tim_Grønbech,_Tunø","Tim Grønbech, Tunø","Venstre, Danmarks Liberale Parti",5
+Odder,3,Saksild - Nølev,"V_Anne_Wiese,_Hølken","Anne Wiese, Hølken","Venstre, Danmarks Liberale Parti",14
+Odder,3,Saksild - Nølev,"V_Hans_Hammann,_Torrild","Hans Hammann, Torrild","Venstre, Danmarks Liberale Parti",0
+Odder,3,Saksild - Nølev,"V_Lene_Midtgaard,_Hundslund","Lene Midtgaard, Hundslund","Venstre, Danmarks Liberale Parti",2
+Odder,3,Saksild - Nølev,"V_Jan_Gade,_Bjerager","Jan Gade, Bjerager","Venstre, Danmarks Liberale Parti",5
+Odder,3,Saksild - Nølev,"V_Ole_Lyngby_Pedersen,_Fillerup","Ole Lyngby Pedersen, Fillerup","Venstre, Danmarks Liberale Parti",23
+Odder,3,Saksild - Nølev,"V_Lene_Aagaard,_Ørting","Lene Aagaard, Ørting","Venstre, Danmarks Liberale Parti",12
+Odder,3,Saksild - Nølev,"V_Allan_Werk,_Sondrup","Allan Werk, Sondrup","Venstre, Danmarks Liberale Parti",10
+Odder,3,Saksild - Nølev,"V_Parvaneh_Abdoulmaleki,_Odder","Parvaneh Abdoulmaleki, Odder","Venstre, Danmarks Liberale Parti",1
+Odder,3,Saksild - Nølev,"V_Daniel_Dalhoff,_Odder","Daniel Dalhoff, Odder","Venstre, Danmarks Liberale Parti",3
+Odder,3,Saksild - Nølev,"V_Louise_Kreutzfeldt,_Odder","Louise Kreutzfeldt, Odder","Venstre, Danmarks Liberale Parti",15
+Odder,3,Saksild - Nølev,"V_Jørgen_Johannsen,_Odder","Jørgen Johannsen, Odder","Venstre, Danmarks Liberale Parti",0
+Odder,3,Saksild - Nølev,"V_Suzette_Pedersen,_Odder","Suzette Pedersen, Odder","Venstre, Danmarks Liberale Parti",5
+Odder,3,Saksild - Nølev,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,26
+Odder,3,Saksild - Nølev,"Ø_Ditte-Marie_Thejsen,_Odder","Ditte-Marie Thejsen, Odder",Enhedslisten - De Rød-Grønne,77
+Odder,3,Saksild - Nølev,"Ø_Leif_Gjørtz_Christensen,_Norsminde","Leif Gjørtz Christensen, Norsminde",Enhedslisten - De Rød-Grønne,23
+Odder,3,Saksild - Nølev,"Ø_Mariann_Winther,_Odder","Mariann Winther, Odder",Enhedslisten - De Rød-Grønne,14
+Odder,3,Saksild - Nølev,"Ø_Lys_Klitgård_Boman,_Ørting","Lys Klitgård Boman, Ørting",Enhedslisten - De Rød-Grønne,7
+Odder,3,Saksild - Nølev,"Ø_Henrik_Opstrup,_Hou","Henrik Opstrup, Hou",Enhedslisten - De Rød-Grønne,1
+Odder,3,Saksild - Nølev,"Ø_Iris_Mejnecke,_Assedrup","Iris Mejnecke, Assedrup",Enhedslisten - De Rød-Grønne,7
+Odder,4,Randlev - Bjerager,A_Listestemmer,Listestemmer,Socialdemokratiet,41
+Odder,4,Randlev - Bjerager,A_Lone_Jakobi,Lone Jakobi,Socialdemokratiet,103
+Odder,4,Randlev - Bjerager,A_Linda_Ann_Wienand,Linda Ann Wienand,Socialdemokratiet,3
+Odder,4,Randlev - Bjerager,A_Lars_Bluhme,Lars Bluhme,Socialdemokratiet,19
+Odder,4,Randlev - Bjerager,A_Claes_Jensen,Claes Jensen,Socialdemokratiet,5
+Odder,4,Randlev - Bjerager,A_Jacob_Petersen,Jacob Petersen,Socialdemokratiet,5
+Odder,4,Randlev - Bjerager,A_Eva_Lagerberg,Eva Lagerberg,Socialdemokratiet,2
+Odder,4,Randlev - Bjerager,A_Jan_Kjærsgaard,Jan Kjærsgaard,Socialdemokratiet,3
+Odder,4,Randlev - Bjerager,A_Rie_Ramsdal,Rie Ramsdal,Socialdemokratiet,0
+Odder,4,Randlev - Bjerager,A_Torben_Madsen,Torben Madsen,Socialdemokratiet,3
+Odder,4,Randlev - Bjerager,A_Palle_Holsting,Palle Holsting,Socialdemokratiet,11
+Odder,4,Randlev - Bjerager,A_Peter_Skov_Sørensen,Peter Skov Sørensen,Socialdemokratiet,0
+Odder,4,Randlev - Bjerager,A_Nicolai_Ramsdal,Nicolai Ramsdal,Socialdemokratiet,2
+Odder,4,Randlev - Bjerager,B_Listestemmer,Listestemmer,Radikale Venstre,19
+Odder,4,Randlev - Bjerager,"B_Kresten_Bjerre,_Odder","Kresten Bjerre, Odder",Radikale Venstre,74
+Odder,4,Randlev - Bjerager,"B_Katja_Ivesøe,_Gylling","Katja Ivesøe, Gylling",Radikale Venstre,9
+Odder,4,Randlev - Bjerager,"B_Tine_Mynster,_Alrø","Tine Mynster, Alrø",Radikale Venstre,4
+Odder,4,Randlev - Bjerager,"B_Henrik_Skovgaard,_Odder","Henrik Skovgaard, Odder",Radikale Venstre,0
+Odder,4,Randlev - Bjerager,"B_Michael_Jessen,_Odder","Michael Jessen, Odder",Radikale Venstre,0
+Odder,4,Randlev - Bjerager,"B_Anna_Birte_Sparvath,_Hou","Anna Birte Sparvath, Hou",Radikale Venstre,1
+Odder,4,Randlev - Bjerager,"B_Jeppe_Frederiksen,_Odder","Jeppe Frederiksen, Odder",Radikale Venstre,5
+Odder,4,Randlev - Bjerager,"B_Ingmar_Grootveld,_Randlev","Ingmar Grootveld, Randlev",Radikale Venstre,3
+Odder,4,Randlev - Bjerager,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,8
+Odder,4,Randlev - Bjerager,C_Martin_Mikkelsen,Martin Mikkelsen,Det Konservative Folkeparti,42
+Odder,4,Randlev - Bjerager,C_Klaus_Rafael_Jensen,Klaus Rafael Jensen,Det Konservative Folkeparti,13
+Odder,4,Randlev - Bjerager,C_Henriette_Toftegaard,Henriette Toftegaard,Det Konservative Folkeparti,11
+Odder,4,Randlev - Bjerager,C_René_Krongaard,René Krongaard,Det Konservative Folkeparti,4
+Odder,4,Randlev - Bjerager,C_Nikolaj_Enggård_Fogh,Nikolaj Enggård Fogh,Det Konservative Folkeparti,0
+Odder,4,Randlev - Bjerager,C_Regnar_Arboe,Regnar Arboe,Det Konservative Folkeparti,5
+Odder,4,Randlev - Bjerager,C_Morten_Ottosen,Morten Ottosen,Det Konservative Folkeparti,2
+Odder,4,Randlev - Bjerager,C_Kim_Gottschalck_Jensen,Kim Gottschalck Jensen,Det Konservative Folkeparti,2
+Odder,4,Randlev - Bjerager,D_Listestemmer,Listestemmer,Nye Borgerlige,12
+Odder,4,Randlev - Bjerager,D_Brian_Vestergaard,Brian Vestergaard,Nye Borgerlige,4
+Odder,4,Randlev - Bjerager,D_Keld_Lynge,Keld Lynge,Nye Borgerlige,0
+Odder,4,Randlev - Bjerager,D_Claus_Steffensen,Claus Steffensen,Nye Borgerlige,3
+Odder,4,Randlev - Bjerager,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,6
+Odder,4,Randlev - Bjerager,"F_Marianne_Hundebøll,_Odder","Marianne Hundebøll, Odder",SF - Socialistisk Folkeparti,39
+Odder,4,Randlev - Bjerager,"F_Helle_Jensen_Møller,_Saksild","Helle Jensen Møller, Saksild",SF - Socialistisk Folkeparti,12
+Odder,4,Randlev - Bjerager,"F_Frank_Kronbo,_Odder","Frank Kronbo, Odder",SF - Socialistisk Folkeparti,2
+Odder,4,Randlev - Bjerager,"F_Mogens_Bedsted,_Torrild","Mogens Bedsted, Torrild",SF - Socialistisk Folkeparti,1
+Odder,4,Randlev - Bjerager,O_Listestemmer,Listestemmer,Dansk Folkeparti,4
+Odder,4,Randlev - Bjerager,O_Jan_Jørgensen,Jan Jørgensen,Dansk Folkeparti,4
+Odder,4,Randlev - Bjerager,O_Keld_Nyholm,Keld Nyholm,Dansk Folkeparti,1
+Odder,4,Randlev - Bjerager,T_Listestemmer,Listestemmer,Verdensmål med Vilje,0
+Odder,4,Randlev - Bjerager,T_Heidi_Gautschi,Heidi Gautschi,Verdensmål med Vilje,2
+Odder,4,Randlev - Bjerager,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",26
+Odder,4,Randlev - Bjerager,"V_Uffe_Jensen,_Odder","Uffe Jensen, Odder","Venstre, Danmarks Liberale Parti",109
+Odder,4,Randlev - Bjerager,"V_Finn_Thranum,_Hou","Finn Thranum, Hou","Venstre, Danmarks Liberale Parti",8
+Odder,4,Randlev - Bjerager,"V_Tim_Grønbech,_Tunø","Tim Grønbech, Tunø","Venstre, Danmarks Liberale Parti",6
+Odder,4,Randlev - Bjerager,"V_Anne_Wiese,_Hølken","Anne Wiese, Hølken","Venstre, Danmarks Liberale Parti",6
+Odder,4,Randlev - Bjerager,"V_Hans_Hammann,_Torrild","Hans Hammann, Torrild","Venstre, Danmarks Liberale Parti",5
+Odder,4,Randlev - Bjerager,"V_Lene_Midtgaard,_Hundslund","Lene Midtgaard, Hundslund","Venstre, Danmarks Liberale Parti",1
+Odder,4,Randlev - Bjerager,"V_Jan_Gade,_Bjerager","Jan Gade, Bjerager","Venstre, Danmarks Liberale Parti",19
+Odder,4,Randlev - Bjerager,"V_Ole_Lyngby_Pedersen,_Fillerup","Ole Lyngby Pedersen, Fillerup","Venstre, Danmarks Liberale Parti",9
+Odder,4,Randlev - Bjerager,"V_Lene_Aagaard,_Ørting","Lene Aagaard, Ørting","Venstre, Danmarks Liberale Parti",2
+Odder,4,Randlev - Bjerager,"V_Allan_Werk,_Sondrup","Allan Werk, Sondrup","Venstre, Danmarks Liberale Parti",6
+Odder,4,Randlev - Bjerager,"V_Parvaneh_Abdoulmaleki,_Odder","Parvaneh Abdoulmaleki, Odder","Venstre, Danmarks Liberale Parti",0
+Odder,4,Randlev - Bjerager,"V_Daniel_Dalhoff,_Odder","Daniel Dalhoff, Odder","Venstre, Danmarks Liberale Parti",1
+Odder,4,Randlev - Bjerager,"V_Louise_Kreutzfeldt,_Odder","Louise Kreutzfeldt, Odder","Venstre, Danmarks Liberale Parti",6
+Odder,4,Randlev - Bjerager,"V_Jørgen_Johannsen,_Odder","Jørgen Johannsen, Odder","Venstre, Danmarks Liberale Parti",0
+Odder,4,Randlev - Bjerager,"V_Suzette_Pedersen,_Odder","Suzette Pedersen, Odder","Venstre, Danmarks Liberale Parti",4
+Odder,4,Randlev - Bjerager,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,22
+Odder,4,Randlev - Bjerager,"Ø_Ditte-Marie_Thejsen,_Odder","Ditte-Marie Thejsen, Odder",Enhedslisten - De Rød-Grønne,71
+Odder,4,Randlev - Bjerager,"Ø_Leif_Gjørtz_Christensen,_Norsminde","Leif Gjørtz Christensen, Norsminde",Enhedslisten - De Rød-Grønne,10
+Odder,4,Randlev - Bjerager,"Ø_Mariann_Winther,_Odder","Mariann Winther, Odder",Enhedslisten - De Rød-Grønne,10
+Odder,4,Randlev - Bjerager,"Ø_Lys_Klitgård_Boman,_Ørting","Lys Klitgård Boman, Ørting",Enhedslisten - De Rød-Grønne,8
+Odder,4,Randlev - Bjerager,"Ø_Henrik_Opstrup,_Hou","Henrik Opstrup, Hou",Enhedslisten - De Rød-Grønne,1
+Odder,4,Randlev - Bjerager,"Ø_Iris_Mejnecke,_Assedrup","Iris Mejnecke, Assedrup",Enhedslisten - De Rød-Grønne,0
+Odder,5,"Hou, Gosmer - Halling",A_Listestemmer,Listestemmer,Socialdemokratiet,72
+Odder,5,"Hou, Gosmer - Halling",A_Lone_Jakobi,Lone Jakobi,Socialdemokratiet,77
+Odder,5,"Hou, Gosmer - Halling",A_Linda_Ann_Wienand,Linda Ann Wienand,Socialdemokratiet,5
+Odder,5,"Hou, Gosmer - Halling",A_Lars_Bluhme,Lars Bluhme,Socialdemokratiet,23
+Odder,5,"Hou, Gosmer - Halling",A_Claes_Jensen,Claes Jensen,Socialdemokratiet,4
+Odder,5,"Hou, Gosmer - Halling",A_Jacob_Petersen,Jacob Petersen,Socialdemokratiet,11
+Odder,5,"Hou, Gosmer - Halling",A_Eva_Lagerberg,Eva Lagerberg,Socialdemokratiet,5
+Odder,5,"Hou, Gosmer - Halling",A_Jan_Kjærsgaard,Jan Kjærsgaard,Socialdemokratiet,5
+Odder,5,"Hou, Gosmer - Halling",A_Rie_Ramsdal,Rie Ramsdal,Socialdemokratiet,27
+Odder,5,"Hou, Gosmer - Halling",A_Torben_Madsen,Torben Madsen,Socialdemokratiet,2
+Odder,5,"Hou, Gosmer - Halling",A_Palle_Holsting,Palle Holsting,Socialdemokratiet,107
+Odder,5,"Hou, Gosmer - Halling",A_Peter_Skov_Sørensen,Peter Skov Sørensen,Socialdemokratiet,2
+Odder,5,"Hou, Gosmer - Halling",A_Nicolai_Ramsdal,Nicolai Ramsdal,Socialdemokratiet,19
+Odder,5,"Hou, Gosmer - Halling",B_Listestemmer,Listestemmer,Radikale Venstre,10
+Odder,5,"Hou, Gosmer - Halling","B_Kresten_Bjerre,_Odder","Kresten Bjerre, Odder",Radikale Venstre,46
+Odder,5,"Hou, Gosmer - Halling","B_Katja_Ivesøe,_Gylling","Katja Ivesøe, Gylling",Radikale Venstre,14
+Odder,5,"Hou, Gosmer - Halling","B_Tine_Mynster,_Alrø","Tine Mynster, Alrø",Radikale Venstre,15
+Odder,5,"Hou, Gosmer - Halling","B_Henrik_Skovgaard,_Odder","Henrik Skovgaard, Odder",Radikale Venstre,1
+Odder,5,"Hou, Gosmer - Halling","B_Michael_Jessen,_Odder","Michael Jessen, Odder",Radikale Venstre,1
+Odder,5,"Hou, Gosmer - Halling","B_Anna_Birte_Sparvath,_Hou","Anna Birte Sparvath, Hou",Radikale Venstre,5
+Odder,5,"Hou, Gosmer - Halling","B_Jeppe_Frederiksen,_Odder","Jeppe Frederiksen, Odder",Radikale Venstre,2
+Odder,5,"Hou, Gosmer - Halling","B_Ingmar_Grootveld,_Randlev","Ingmar Grootveld, Randlev",Radikale Venstre,0
+Odder,5,"Hou, Gosmer - Halling",C_Listestemmer,Listestemmer,Det Konservative Folkeparti,19
+Odder,5,"Hou, Gosmer - Halling",C_Martin_Mikkelsen,Martin Mikkelsen,Det Konservative Folkeparti,87
+Odder,5,"Hou, Gosmer - Halling",C_Klaus_Rafael_Jensen,Klaus Rafael Jensen,Det Konservative Folkeparti,28
+Odder,5,"Hou, Gosmer - Halling",C_Henriette_Toftegaard,Henriette Toftegaard,Det Konservative Folkeparti,10
+Odder,5,"Hou, Gosmer - Halling",C_René_Krongaard,René Krongaard,Det Konservative Folkeparti,3
+Odder,5,"Hou, Gosmer - Halling",C_Nikolaj_Enggård_Fogh,Nikolaj Enggård Fogh,Det Konservative Folkeparti,1
+Odder,5,"Hou, Gosmer - Halling",C_Regnar_Arboe,Regnar Arboe,Det Konservative Folkeparti,6
+Odder,5,"Hou, Gosmer - Halling",C_Morten_Ottosen,Morten Ottosen,Det Konservative Folkeparti,3
+Odder,5,"Hou, Gosmer - Halling",C_Kim_Gottschalck_Jensen,Kim Gottschalck Jensen,Det Konservative Folkeparti,3
+Odder,5,"Hou, Gosmer - Halling",D_Listestemmer,Listestemmer,Nye Borgerlige,17
+Odder,5,"Hou, Gosmer - Halling",D_Brian_Vestergaard,Brian Vestergaard,Nye Borgerlige,11
+Odder,5,"Hou, Gosmer - Halling",D_Keld_Lynge,Keld Lynge,Nye Borgerlige,0
+Odder,5,"Hou, Gosmer - Halling",D_Claus_Steffensen,Claus Steffensen,Nye Borgerlige,3
+Odder,5,"Hou, Gosmer - Halling",F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,22
+Odder,5,"Hou, Gosmer - Halling","F_Marianne_Hundebøll,_Odder","Marianne Hundebøll, Odder",SF - Socialistisk Folkeparti,36
+Odder,5,"Hou, Gosmer - Halling","F_Helle_Jensen_Møller,_Saksild","Helle Jensen Møller, Saksild",SF - Socialistisk Folkeparti,9
+Odder,5,"Hou, Gosmer - Halling","F_Frank_Kronbo,_Odder","Frank Kronbo, Odder",SF - Socialistisk Folkeparti,4
+Odder,5,"Hou, Gosmer - Halling","F_Mogens_Bedsted,_Torrild","Mogens Bedsted, Torrild",SF - Socialistisk Folkeparti,1
+Odder,5,"Hou, Gosmer - Halling",O_Listestemmer,Listestemmer,Dansk Folkeparti,12
+Odder,5,"Hou, Gosmer - Halling",O_Jan_Jørgensen,Jan Jørgensen,Dansk Folkeparti,6
+Odder,5,"Hou, Gosmer - Halling",O_Keld_Nyholm,Keld Nyholm,Dansk Folkeparti,0
+Odder,5,"Hou, Gosmer - Halling",T_Listestemmer,Listestemmer,Verdensmål med Vilje,0
+Odder,5,"Hou, Gosmer - Halling",T_Heidi_Gautschi,Heidi Gautschi,Verdensmål med Vilje,0
+Odder,5,"Hou, Gosmer - Halling",V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",46
+Odder,5,"Hou, Gosmer - Halling","V_Uffe_Jensen,_Odder","Uffe Jensen, Odder","Venstre, Danmarks Liberale Parti",187
+Odder,5,"Hou, Gosmer - Halling","V_Finn_Thranum,_Hou","Finn Thranum, Hou","Venstre, Danmarks Liberale Parti",120
+Odder,5,"Hou, Gosmer - Halling","V_Tim_Grønbech,_Tunø","Tim Grønbech, Tunø","Venstre, Danmarks Liberale Parti",13
+Odder,5,"Hou, Gosmer - Halling","V_Anne_Wiese,_Hølken","Anne Wiese, Hølken","Venstre, Danmarks Liberale Parti",4
+Odder,5,"Hou, Gosmer - Halling","V_Hans_Hammann,_Torrild","Hans Hammann, Torrild","Venstre, Danmarks Liberale Parti",4
+Odder,5,"Hou, Gosmer - Halling","V_Lene_Midtgaard,_Hundslund","Lene Midtgaard, Hundslund","Venstre, Danmarks Liberale Parti",1
+Odder,5,"Hou, Gosmer - Halling","V_Jan_Gade,_Bjerager","Jan Gade, Bjerager","Venstre, Danmarks Liberale Parti",9
+Odder,5,"Hou, Gosmer - Halling","V_Ole_Lyngby_Pedersen,_Fillerup","Ole Lyngby Pedersen, Fillerup","Venstre, Danmarks Liberale Parti",17
+Odder,5,"Hou, Gosmer - Halling","V_Lene_Aagaard,_Ørting","Lene Aagaard, Ørting","Venstre, Danmarks Liberale Parti",13
+Odder,5,"Hou, Gosmer - Halling","V_Allan_Werk,_Sondrup","Allan Werk, Sondrup","Venstre, Danmarks Liberale Parti",7
+Odder,5,"Hou, Gosmer - Halling","V_Parvaneh_Abdoulmaleki,_Odder","Parvaneh Abdoulmaleki, Odder","Venstre, Danmarks Liberale Parti",4
+Odder,5,"Hou, Gosmer - Halling","V_Daniel_Dalhoff,_Odder","Daniel Dalhoff, Odder","Venstre, Danmarks Liberale Parti",2
+Odder,5,"Hou, Gosmer - Halling","V_Louise_Kreutzfeldt,_Odder","Louise Kreutzfeldt, Odder","Venstre, Danmarks Liberale Parti",12
+Odder,5,"Hou, Gosmer - Halling","V_Jørgen_Johannsen,_Odder","Jørgen Johannsen, Odder","Venstre, Danmarks Liberale Parti",0
+Odder,5,"Hou, Gosmer - Halling","V_Suzette_Pedersen,_Odder","Suzette Pedersen, Odder","Venstre, Danmarks Liberale Parti",18
+Odder,5,"Hou, Gosmer - Halling",Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,34
+Odder,5,"Hou, Gosmer - Halling","Ø_Ditte-Marie_Thejsen,_Odder","Ditte-Marie Thejsen, Odder",Enhedslisten - De Rød-Grønne,84
+Odder,5,"Hou, Gosmer - Halling","Ø_Leif_Gjørtz_Christensen,_Norsminde","Leif Gjørtz Christensen, Norsminde",Enhedslisten - De Rød-Grønne,20
+Odder,5,"Hou, Gosmer - Halling","Ø_Mariann_Winther,_Odder","Mariann Winther, Odder",Enhedslisten - De Rød-Grønne,26
+Odder,5,"Hou, Gosmer - Halling","Ø_Lys_Klitgård_Boman,_Ørting","Lys Klitgård Boman, Ørting",Enhedslisten - De Rød-Grønne,11
+Odder,5,"Hou, Gosmer - Halling","Ø_Henrik_Opstrup,_Hou","Henrik Opstrup, Hou",Enhedslisten - De Rød-Grønne,4
+Odder,5,"Hou, Gosmer - Halling","Ø_Iris_Mejnecke,_Assedrup","Iris Mejnecke, Assedrup",Enhedslisten - De Rød-Grønne,0
+Odder,6,Gylling,A_Listestemmer,Listestemmer,Socialdemokratiet,29
+Odder,6,Gylling,A_Lone_Jakobi,Lone Jakobi,Socialdemokratiet,34
+Odder,6,Gylling,A_Linda_Ann_Wienand,Linda Ann Wienand,Socialdemokratiet,3
+Odder,6,Gylling,A_Lars_Bluhme,Lars Bluhme,Socialdemokratiet,7
+Odder,6,Gylling,A_Claes_Jensen,Claes Jensen,Socialdemokratiet,9
+Odder,6,Gylling,A_Jacob_Petersen,Jacob Petersen,Socialdemokratiet,0
+Odder,6,Gylling,A_Eva_Lagerberg,Eva Lagerberg,Socialdemokratiet,2
+Odder,6,Gylling,A_Jan_Kjærsgaard,Jan Kjærsgaard,Socialdemokratiet,10
+Odder,6,Gylling,A_Rie_Ramsdal,Rie Ramsdal,Socialdemokratiet,2
+Odder,6,Gylling,A_Torben_Madsen,Torben Madsen,Socialdemokratiet,4
+Odder,6,Gylling,A_Palle_Holsting,Palle Holsting,Socialdemokratiet,1
+Odder,6,Gylling,A_Peter_Skov_Sørensen,Peter Skov Sørensen,Socialdemokratiet,11
+Odder,6,Gylling,A_Nicolai_Ramsdal,Nicolai Ramsdal,Socialdemokratiet,0
+Odder,6,Gylling,B_Listestemmer,Listestemmer,Radikale Venstre,3
+Odder,6,Gylling,"B_Kresten_Bjerre,_Odder","Kresten Bjerre, Odder",Radikale Venstre,24
+Odder,6,Gylling,"B_Katja_Ivesøe,_Gylling","Katja Ivesøe, Gylling",Radikale Venstre,50
+Odder,6,Gylling,"B_Tine_Mynster,_Alrø","Tine Mynster, Alrø",Radikale Venstre,3
+Odder,6,Gylling,"B_Henrik_Skovgaard,_Odder","Henrik Skovgaard, Odder",Radikale Venstre,1
+Odder,6,Gylling,"B_Michael_Jessen,_Odder","Michael Jessen, Odder",Radikale Venstre,0
+Odder,6,Gylling,"B_Anna_Birte_Sparvath,_Hou","Anna Birte Sparvath, Hou",Radikale Venstre,1
+Odder,6,Gylling,"B_Jeppe_Frederiksen,_Odder","Jeppe Frederiksen, Odder",Radikale Venstre,0
+Odder,6,Gylling,"B_Ingmar_Grootveld,_Randlev","Ingmar Grootveld, Randlev",Radikale Venstre,1
+Odder,6,Gylling,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,16
+Odder,6,Gylling,C_Martin_Mikkelsen,Martin Mikkelsen,Det Konservative Folkeparti,54
+Odder,6,Gylling,C_Klaus_Rafael_Jensen,Klaus Rafael Jensen,Det Konservative Folkeparti,30
+Odder,6,Gylling,C_Henriette_Toftegaard,Henriette Toftegaard,Det Konservative Folkeparti,5
+Odder,6,Gylling,C_René_Krongaard,René Krongaard,Det Konservative Folkeparti,4
+Odder,6,Gylling,C_Nikolaj_Enggård_Fogh,Nikolaj Enggård Fogh,Det Konservative Folkeparti,11
+Odder,6,Gylling,C_Regnar_Arboe,Regnar Arboe,Det Konservative Folkeparti,7
+Odder,6,Gylling,C_Morten_Ottosen,Morten Ottosen,Det Konservative Folkeparti,25
+Odder,6,Gylling,C_Kim_Gottschalck_Jensen,Kim Gottschalck Jensen,Det Konservative Folkeparti,0
+Odder,6,Gylling,D_Listestemmer,Listestemmer,Nye Borgerlige,15
+Odder,6,Gylling,D_Brian_Vestergaard,Brian Vestergaard,Nye Borgerlige,10
+Odder,6,Gylling,D_Keld_Lynge,Keld Lynge,Nye Borgerlige,1
+Odder,6,Gylling,D_Claus_Steffensen,Claus Steffensen,Nye Borgerlige,3
+Odder,6,Gylling,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,11
+Odder,6,Gylling,"F_Marianne_Hundebøll,_Odder","Marianne Hundebøll, Odder",SF - Socialistisk Folkeparti,14
+Odder,6,Gylling,"F_Helle_Jensen_Møller,_Saksild","Helle Jensen Møller, Saksild",SF - Socialistisk Folkeparti,4
+Odder,6,Gylling,"F_Frank_Kronbo,_Odder","Frank Kronbo, Odder",SF - Socialistisk Folkeparti,0
+Odder,6,Gylling,"F_Mogens_Bedsted,_Torrild","Mogens Bedsted, Torrild",SF - Socialistisk Folkeparti,0
+Odder,6,Gylling,O_Listestemmer,Listestemmer,Dansk Folkeparti,4
+Odder,6,Gylling,O_Jan_Jørgensen,Jan Jørgensen,Dansk Folkeparti,5
+Odder,6,Gylling,O_Keld_Nyholm,Keld Nyholm,Dansk Folkeparti,0
+Odder,6,Gylling,T_Listestemmer,Listestemmer,Verdensmål med Vilje,1
+Odder,6,Gylling,T_Heidi_Gautschi,Heidi Gautschi,Verdensmål med Vilje,3
+Odder,6,Gylling,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",11
+Odder,6,Gylling,"V_Uffe_Jensen,_Odder","Uffe Jensen, Odder","Venstre, Danmarks Liberale Parti",51
+Odder,6,Gylling,"V_Finn_Thranum,_Hou","Finn Thranum, Hou","Venstre, Danmarks Liberale Parti",7
+Odder,6,Gylling,"V_Tim_Grønbech,_Tunø","Tim Grønbech, Tunø","Venstre, Danmarks Liberale Parti",1
+Odder,6,Gylling,"V_Anne_Wiese,_Hølken","Anne Wiese, Hølken","Venstre, Danmarks Liberale Parti",4
+Odder,6,Gylling,"V_Hans_Hammann,_Torrild","Hans Hammann, Torrild","Venstre, Danmarks Liberale Parti",11
+Odder,6,Gylling,"V_Lene_Midtgaard,_Hundslund","Lene Midtgaard, Hundslund","Venstre, Danmarks Liberale Parti",3
+Odder,6,Gylling,"V_Jan_Gade,_Bjerager","Jan Gade, Bjerager","Venstre, Danmarks Liberale Parti",4
+Odder,6,Gylling,"V_Ole_Lyngby_Pedersen,_Fillerup","Ole Lyngby Pedersen, Fillerup","Venstre, Danmarks Liberale Parti",19
+Odder,6,Gylling,"V_Lene_Aagaard,_Ørting","Lene Aagaard, Ørting","Venstre, Danmarks Liberale Parti",5
+Odder,6,Gylling,"V_Allan_Werk,_Sondrup","Allan Werk, Sondrup","Venstre, Danmarks Liberale Parti",0
+Odder,6,Gylling,"V_Parvaneh_Abdoulmaleki,_Odder","Parvaneh Abdoulmaleki, Odder","Venstre, Danmarks Liberale Parti",0
+Odder,6,Gylling,"V_Daniel_Dalhoff,_Odder","Daniel Dalhoff, Odder","Venstre, Danmarks Liberale Parti",2
+Odder,6,Gylling,"V_Louise_Kreutzfeldt,_Odder","Louise Kreutzfeldt, Odder","Venstre, Danmarks Liberale Parti",19
+Odder,6,Gylling,"V_Jørgen_Johannsen,_Odder","Jørgen Johannsen, Odder","Venstre, Danmarks Liberale Parti",0
+Odder,6,Gylling,"V_Suzette_Pedersen,_Odder","Suzette Pedersen, Odder","Venstre, Danmarks Liberale Parti",2
+Odder,6,Gylling,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,19
+Odder,6,Gylling,"Ø_Ditte-Marie_Thejsen,_Odder","Ditte-Marie Thejsen, Odder",Enhedslisten - De Rød-Grønne,27
+Odder,6,Gylling,"Ø_Leif_Gjørtz_Christensen,_Norsminde","Leif Gjørtz Christensen, Norsminde",Enhedslisten - De Rød-Grønne,3
+Odder,6,Gylling,"Ø_Mariann_Winther,_Odder","Mariann Winther, Odder",Enhedslisten - De Rød-Grønne,3
+Odder,6,Gylling,"Ø_Lys_Klitgård_Boman,_Ørting","Lys Klitgård Boman, Ørting",Enhedslisten - De Rød-Grønne,4
+Odder,6,Gylling,"Ø_Henrik_Opstrup,_Hou","Henrik Opstrup, Hou",Enhedslisten - De Rød-Grønne,1
+Odder,6,Gylling,"Ø_Iris_Mejnecke,_Assedrup","Iris Mejnecke, Assedrup",Enhedslisten - De Rød-Grønne,0
+Odder,7,Ørting-Falling,A_Listestemmer,Listestemmer,Socialdemokratiet,43
+Odder,7,Ørting-Falling,A_Lone_Jakobi,Lone Jakobi,Socialdemokratiet,42
+Odder,7,Ørting-Falling,A_Linda_Ann_Wienand,Linda Ann Wienand,Socialdemokratiet,6
+Odder,7,Ørting-Falling,A_Lars_Bluhme,Lars Bluhme,Socialdemokratiet,11
+Odder,7,Ørting-Falling,A_Claes_Jensen,Claes Jensen,Socialdemokratiet,11
+Odder,7,Ørting-Falling,A_Jacob_Petersen,Jacob Petersen,Socialdemokratiet,3
+Odder,7,Ørting-Falling,A_Eva_Lagerberg,Eva Lagerberg,Socialdemokratiet,3
+Odder,7,Ørting-Falling,A_Jan_Kjærsgaard,Jan Kjærsgaard,Socialdemokratiet,83
+Odder,7,Ørting-Falling,A_Rie_Ramsdal,Rie Ramsdal,Socialdemokratiet,1
+Odder,7,Ørting-Falling,A_Torben_Madsen,Torben Madsen,Socialdemokratiet,16
+Odder,7,Ørting-Falling,A_Palle_Holsting,Palle Holsting,Socialdemokratiet,1
+Odder,7,Ørting-Falling,A_Peter_Skov_Sørensen,Peter Skov Sørensen,Socialdemokratiet,2
+Odder,7,Ørting-Falling,A_Nicolai_Ramsdal,Nicolai Ramsdal,Socialdemokratiet,3
+Odder,7,Ørting-Falling,B_Listestemmer,Listestemmer,Radikale Venstre,6
+Odder,7,Ørting-Falling,"B_Kresten_Bjerre,_Odder","Kresten Bjerre, Odder",Radikale Venstre,12
+Odder,7,Ørting-Falling,"B_Katja_Ivesøe,_Gylling","Katja Ivesøe, Gylling",Radikale Venstre,12
+Odder,7,Ørting-Falling,"B_Tine_Mynster,_Alrø","Tine Mynster, Alrø",Radikale Venstre,7
+Odder,7,Ørting-Falling,"B_Henrik_Skovgaard,_Odder","Henrik Skovgaard, Odder",Radikale Venstre,1
+Odder,7,Ørting-Falling,"B_Michael_Jessen,_Odder","Michael Jessen, Odder",Radikale Venstre,1
+Odder,7,Ørting-Falling,"B_Anna_Birte_Sparvath,_Hou","Anna Birte Sparvath, Hou",Radikale Venstre,0
+Odder,7,Ørting-Falling,"B_Jeppe_Frederiksen,_Odder","Jeppe Frederiksen, Odder",Radikale Venstre,2
+Odder,7,Ørting-Falling,"B_Ingmar_Grootveld,_Randlev","Ingmar Grootveld, Randlev",Radikale Venstre,1
+Odder,7,Ørting-Falling,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,14
+Odder,7,Ørting-Falling,C_Martin_Mikkelsen,Martin Mikkelsen,Det Konservative Folkeparti,26
+Odder,7,Ørting-Falling,C_Klaus_Rafael_Jensen,Klaus Rafael Jensen,Det Konservative Folkeparti,54
+Odder,7,Ørting-Falling,C_Henriette_Toftegaard,Henriette Toftegaard,Det Konservative Folkeparti,4
+Odder,7,Ørting-Falling,C_René_Krongaard,René Krongaard,Det Konservative Folkeparti,6
+Odder,7,Ørting-Falling,C_Nikolaj_Enggård_Fogh,Nikolaj Enggård Fogh,Det Konservative Folkeparti,5
+Odder,7,Ørting-Falling,C_Regnar_Arboe,Regnar Arboe,Det Konservative Folkeparti,5
+Odder,7,Ørting-Falling,C_Morten_Ottosen,Morten Ottosen,Det Konservative Folkeparti,4
+Odder,7,Ørting-Falling,C_Kim_Gottschalck_Jensen,Kim Gottschalck Jensen,Det Konservative Folkeparti,3
+Odder,7,Ørting-Falling,D_Listestemmer,Listestemmer,Nye Borgerlige,19
+Odder,7,Ørting-Falling,D_Brian_Vestergaard,Brian Vestergaard,Nye Borgerlige,8
+Odder,7,Ørting-Falling,D_Keld_Lynge,Keld Lynge,Nye Borgerlige,0
+Odder,7,Ørting-Falling,D_Claus_Steffensen,Claus Steffensen,Nye Borgerlige,4
+Odder,7,Ørting-Falling,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,10
+Odder,7,Ørting-Falling,"F_Marianne_Hundebøll,_Odder","Marianne Hundebøll, Odder",SF - Socialistisk Folkeparti,24
+Odder,7,Ørting-Falling,"F_Helle_Jensen_Møller,_Saksild","Helle Jensen Møller, Saksild",SF - Socialistisk Folkeparti,7
+Odder,7,Ørting-Falling,"F_Frank_Kronbo,_Odder","Frank Kronbo, Odder",SF - Socialistisk Folkeparti,0
+Odder,7,Ørting-Falling,"F_Mogens_Bedsted,_Torrild","Mogens Bedsted, Torrild",SF - Socialistisk Folkeparti,3
+Odder,7,Ørting-Falling,O_Listestemmer,Listestemmer,Dansk Folkeparti,4
+Odder,7,Ørting-Falling,O_Jan_Jørgensen,Jan Jørgensen,Dansk Folkeparti,2
+Odder,7,Ørting-Falling,O_Keld_Nyholm,Keld Nyholm,Dansk Folkeparti,3
+Odder,7,Ørting-Falling,T_Listestemmer,Listestemmer,Verdensmål med Vilje,2
+Odder,7,Ørting-Falling,T_Heidi_Gautschi,Heidi Gautschi,Verdensmål med Vilje,1
+Odder,7,Ørting-Falling,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",27
+Odder,7,Ørting-Falling,"V_Uffe_Jensen,_Odder","Uffe Jensen, Odder","Venstre, Danmarks Liberale Parti",106
+Odder,7,Ørting-Falling,"V_Finn_Thranum,_Hou","Finn Thranum, Hou","Venstre, Danmarks Liberale Parti",2
+Odder,7,Ørting-Falling,"V_Tim_Grønbech,_Tunø","Tim Grønbech, Tunø","Venstre, Danmarks Liberale Parti",6
+Odder,7,Ørting-Falling,"V_Anne_Wiese,_Hølken","Anne Wiese, Hølken","Venstre, Danmarks Liberale Parti",1
+Odder,7,Ørting-Falling,"V_Hans_Hammann,_Torrild","Hans Hammann, Torrild","Venstre, Danmarks Liberale Parti",1
+Odder,7,Ørting-Falling,"V_Lene_Midtgaard,_Hundslund","Lene Midtgaard, Hundslund","Venstre, Danmarks Liberale Parti",10
+Odder,7,Ørting-Falling,"V_Jan_Gade,_Bjerager","Jan Gade, Bjerager","Venstre, Danmarks Liberale Parti",3
+Odder,7,Ørting-Falling,"V_Ole_Lyngby_Pedersen,_Fillerup","Ole Lyngby Pedersen, Fillerup","Venstre, Danmarks Liberale Parti",7
+Odder,7,Ørting-Falling,"V_Lene_Aagaard,_Ørting","Lene Aagaard, Ørting","Venstre, Danmarks Liberale Parti",36
+Odder,7,Ørting-Falling,"V_Allan_Werk,_Sondrup","Allan Werk, Sondrup","Venstre, Danmarks Liberale Parti",6
+Odder,7,Ørting-Falling,"V_Parvaneh_Abdoulmaleki,_Odder","Parvaneh Abdoulmaleki, Odder","Venstre, Danmarks Liberale Parti",0
+Odder,7,Ørting-Falling,"V_Daniel_Dalhoff,_Odder","Daniel Dalhoff, Odder","Venstre, Danmarks Liberale Parti",0
+Odder,7,Ørting-Falling,"V_Louise_Kreutzfeldt,_Odder","Louise Kreutzfeldt, Odder","Venstre, Danmarks Liberale Parti",19
+Odder,7,Ørting-Falling,"V_Jørgen_Johannsen,_Odder","Jørgen Johannsen, Odder","Venstre, Danmarks Liberale Parti",0
+Odder,7,Ørting-Falling,"V_Suzette_Pedersen,_Odder","Suzette Pedersen, Odder","Venstre, Danmarks Liberale Parti",4
+Odder,7,Ørting-Falling,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,26
+Odder,7,Ørting-Falling,"Ø_Ditte-Marie_Thejsen,_Odder","Ditte-Marie Thejsen, Odder",Enhedslisten - De Rød-Grønne,25
+Odder,7,Ørting-Falling,"Ø_Leif_Gjørtz_Christensen,_Norsminde","Leif Gjørtz Christensen, Norsminde",Enhedslisten - De Rød-Grønne,7
+Odder,7,Ørting-Falling,"Ø_Mariann_Winther,_Odder","Mariann Winther, Odder",Enhedslisten - De Rød-Grønne,7
+Odder,7,Ørting-Falling,"Ø_Lys_Klitgård_Boman,_Ørting","Lys Klitgård Boman, Ørting",Enhedslisten - De Rød-Grønne,15
+Odder,7,Ørting-Falling,"Ø_Henrik_Opstrup,_Hou","Henrik Opstrup, Hou",Enhedslisten - De Rød-Grønne,0
+Odder,7,Ørting-Falling,"Ø_Iris_Mejnecke,_Assedrup","Iris Mejnecke, Assedrup",Enhedslisten - De Rød-Grønne,0
+Odder,8,Hundslund,A_Listestemmer,Listestemmer,Socialdemokratiet,41
+Odder,8,Hundslund,A_Lone_Jakobi,Lone Jakobi,Socialdemokratiet,40
+Odder,8,Hundslund,A_Linda_Ann_Wienand,Linda Ann Wienand,Socialdemokratiet,29
+Odder,8,Hundslund,A_Lars_Bluhme,Lars Bluhme,Socialdemokratiet,12
+Odder,8,Hundslund,A_Claes_Jensen,Claes Jensen,Socialdemokratiet,5
+Odder,8,Hundslund,A_Jacob_Petersen,Jacob Petersen,Socialdemokratiet,4
+Odder,8,Hundslund,A_Eva_Lagerberg,Eva Lagerberg,Socialdemokratiet,5
+Odder,8,Hundslund,A_Jan_Kjærsgaard,Jan Kjærsgaard,Socialdemokratiet,16
+Odder,8,Hundslund,A_Rie_Ramsdal,Rie Ramsdal,Socialdemokratiet,6
+Odder,8,Hundslund,A_Torben_Madsen,Torben Madsen,Socialdemokratiet,1
+Odder,8,Hundslund,A_Palle_Holsting,Palle Holsting,Socialdemokratiet,3
+Odder,8,Hundslund,A_Peter_Skov_Sørensen,Peter Skov Sørensen,Socialdemokratiet,0
+Odder,8,Hundslund,A_Nicolai_Ramsdal,Nicolai Ramsdal,Socialdemokratiet,1
+Odder,8,Hundslund,B_Listestemmer,Listestemmer,Radikale Venstre,8
+Odder,8,Hundslund,"B_Kresten_Bjerre,_Odder","Kresten Bjerre, Odder",Radikale Venstre,25
+Odder,8,Hundslund,"B_Katja_Ivesøe,_Gylling","Katja Ivesøe, Gylling",Radikale Venstre,8
+Odder,8,Hundslund,"B_Tine_Mynster,_Alrø","Tine Mynster, Alrø",Radikale Venstre,9
+Odder,8,Hundslund,"B_Henrik_Skovgaard,_Odder","Henrik Skovgaard, Odder",Radikale Venstre,0
+Odder,8,Hundslund,"B_Michael_Jessen,_Odder","Michael Jessen, Odder",Radikale Venstre,0
+Odder,8,Hundslund,"B_Anna_Birte_Sparvath,_Hou","Anna Birte Sparvath, Hou",Radikale Venstre,1
+Odder,8,Hundslund,"B_Jeppe_Frederiksen,_Odder","Jeppe Frederiksen, Odder",Radikale Venstre,0
+Odder,8,Hundslund,"B_Ingmar_Grootveld,_Randlev","Ingmar Grootveld, Randlev",Radikale Venstre,0
+Odder,8,Hundslund,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,14
+Odder,8,Hundslund,C_Martin_Mikkelsen,Martin Mikkelsen,Det Konservative Folkeparti,27
+Odder,8,Hundslund,C_Klaus_Rafael_Jensen,Klaus Rafael Jensen,Det Konservative Folkeparti,17
+Odder,8,Hundslund,C_Henriette_Toftegaard,Henriette Toftegaard,Det Konservative Folkeparti,7
+Odder,8,Hundslund,C_René_Krongaard,René Krongaard,Det Konservative Folkeparti,2
+Odder,8,Hundslund,C_Nikolaj_Enggård_Fogh,Nikolaj Enggård Fogh,Det Konservative Folkeparti,5
+Odder,8,Hundslund,C_Regnar_Arboe,Regnar Arboe,Det Konservative Folkeparti,1
+Odder,8,Hundslund,C_Morten_Ottosen,Morten Ottosen,Det Konservative Folkeparti,1
+Odder,8,Hundslund,C_Kim_Gottschalck_Jensen,Kim Gottschalck Jensen,Det Konservative Folkeparti,4
+Odder,8,Hundslund,D_Listestemmer,Listestemmer,Nye Borgerlige,11
+Odder,8,Hundslund,D_Brian_Vestergaard,Brian Vestergaard,Nye Borgerlige,8
+Odder,8,Hundslund,D_Keld_Lynge,Keld Lynge,Nye Borgerlige,1
+Odder,8,Hundslund,D_Claus_Steffensen,Claus Steffensen,Nye Borgerlige,1
+Odder,8,Hundslund,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,5
+Odder,8,Hundslund,"F_Marianne_Hundebøll,_Odder","Marianne Hundebøll, Odder",SF - Socialistisk Folkeparti,19
+Odder,8,Hundslund,"F_Helle_Jensen_Møller,_Saksild","Helle Jensen Møller, Saksild",SF - Socialistisk Folkeparti,4
+Odder,8,Hundslund,"F_Frank_Kronbo,_Odder","Frank Kronbo, Odder",SF - Socialistisk Folkeparti,2
+Odder,8,Hundslund,"F_Mogens_Bedsted,_Torrild","Mogens Bedsted, Torrild",SF - Socialistisk Folkeparti,0
+Odder,8,Hundslund,O_Listestemmer,Listestemmer,Dansk Folkeparti,3
+Odder,8,Hundslund,O_Jan_Jørgensen,Jan Jørgensen,Dansk Folkeparti,3
+Odder,8,Hundslund,O_Keld_Nyholm,Keld Nyholm,Dansk Folkeparti,5
+Odder,8,Hundslund,T_Listestemmer,Listestemmer,Verdensmål med Vilje,4
+Odder,8,Hundslund,T_Heidi_Gautschi,Heidi Gautschi,Verdensmål med Vilje,15
+Odder,8,Hundslund,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",27
+Odder,8,Hundslund,"V_Uffe_Jensen,_Odder","Uffe Jensen, Odder","Venstre, Danmarks Liberale Parti",78
+Odder,8,Hundslund,"V_Finn_Thranum,_Hou","Finn Thranum, Hou","Venstre, Danmarks Liberale Parti",3
+Odder,8,Hundslund,"V_Tim_Grønbech,_Tunø","Tim Grønbech, Tunø","Venstre, Danmarks Liberale Parti",2
+Odder,8,Hundslund,"V_Anne_Wiese,_Hølken","Anne Wiese, Hølken","Venstre, Danmarks Liberale Parti",2
+Odder,8,Hundslund,"V_Hans_Hammann,_Torrild","Hans Hammann, Torrild","Venstre, Danmarks Liberale Parti",2
+Odder,8,Hundslund,"V_Lene_Midtgaard,_Hundslund","Lene Midtgaard, Hundslund","Venstre, Danmarks Liberale Parti",65
+Odder,8,Hundslund,"V_Jan_Gade,_Bjerager","Jan Gade, Bjerager","Venstre, Danmarks Liberale Parti",0
+Odder,8,Hundslund,"V_Ole_Lyngby_Pedersen,_Fillerup","Ole Lyngby Pedersen, Fillerup","Venstre, Danmarks Liberale Parti",15
+Odder,8,Hundslund,"V_Lene_Aagaard,_Ørting","Lene Aagaard, Ørting","Venstre, Danmarks Liberale Parti",5
+Odder,8,Hundslund,"V_Allan_Werk,_Sondrup","Allan Werk, Sondrup","Venstre, Danmarks Liberale Parti",71
+Odder,8,Hundslund,"V_Parvaneh_Abdoulmaleki,_Odder","Parvaneh Abdoulmaleki, Odder","Venstre, Danmarks Liberale Parti",0
+Odder,8,Hundslund,"V_Daniel_Dalhoff,_Odder","Daniel Dalhoff, Odder","Venstre, Danmarks Liberale Parti",0
+Odder,8,Hundslund,"V_Louise_Kreutzfeldt,_Odder","Louise Kreutzfeldt, Odder","Venstre, Danmarks Liberale Parti",3
+Odder,8,Hundslund,"V_Jørgen_Johannsen,_Odder","Jørgen Johannsen, Odder","Venstre, Danmarks Liberale Parti",0
+Odder,8,Hundslund,"V_Suzette_Pedersen,_Odder","Suzette Pedersen, Odder","Venstre, Danmarks Liberale Parti",2
+Odder,8,Hundslund,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,22
+Odder,8,Hundslund,"Ø_Ditte-Marie_Thejsen,_Odder","Ditte-Marie Thejsen, Odder",Enhedslisten - De Rød-Grønne,43
+Odder,8,Hundslund,"Ø_Leif_Gjørtz_Christensen,_Norsminde","Leif Gjørtz Christensen, Norsminde",Enhedslisten - De Rød-Grønne,5
+Odder,8,Hundslund,"Ø_Mariann_Winther,_Odder","Mariann Winther, Odder",Enhedslisten - De Rød-Grønne,12
+Odder,8,Hundslund,"Ø_Lys_Klitgård_Boman,_Ørting","Lys Klitgård Boman, Ørting",Enhedslisten - De Rød-Grønne,12
+Odder,8,Hundslund,"Ø_Henrik_Opstrup,_Hou","Henrik Opstrup, Hou",Enhedslisten - De Rød-Grønne,1
+Odder,8,Hundslund,"Ø_Iris_Mejnecke,_Assedrup","Iris Mejnecke, Assedrup",Enhedslisten - De Rød-Grønne,0
+Odder,9,Alrø,A_Listestemmer,Listestemmer,Socialdemokratiet,7
+Odder,9,Alrø,A_Lone_Jakobi,Lone Jakobi,Socialdemokratiet,7
+Odder,9,Alrø,A_Linda_Ann_Wienand,Linda Ann Wienand,Socialdemokratiet,2
+Odder,9,Alrø,A_Lars_Bluhme,Lars Bluhme,Socialdemokratiet,0
+Odder,9,Alrø,A_Claes_Jensen,Claes Jensen,Socialdemokratiet,0
+Odder,9,Alrø,A_Jacob_Petersen,Jacob Petersen,Socialdemokratiet,0
+Odder,9,Alrø,A_Eva_Lagerberg,Eva Lagerberg,Socialdemokratiet,0
+Odder,9,Alrø,A_Jan_Kjærsgaard,Jan Kjærsgaard,Socialdemokratiet,2
+Odder,9,Alrø,A_Rie_Ramsdal,Rie Ramsdal,Socialdemokratiet,0
+Odder,9,Alrø,A_Torben_Madsen,Torben Madsen,Socialdemokratiet,0
+Odder,9,Alrø,A_Palle_Holsting,Palle Holsting,Socialdemokratiet,1
+Odder,9,Alrø,A_Peter_Skov_Sørensen,Peter Skov Sørensen,Socialdemokratiet,0
+Odder,9,Alrø,A_Nicolai_Ramsdal,Nicolai Ramsdal,Socialdemokratiet,1
+Odder,9,Alrø,B_Listestemmer,Listestemmer,Radikale Venstre,0
+Odder,9,Alrø,"B_Kresten_Bjerre,_Odder","Kresten Bjerre, Odder",Radikale Venstre,0
+Odder,9,Alrø,"B_Katja_Ivesøe,_Gylling","Katja Ivesøe, Gylling",Radikale Venstre,0
+Odder,9,Alrø,"B_Tine_Mynster,_Alrø","Tine Mynster, Alrø",Radikale Venstre,7
+Odder,9,Alrø,"B_Henrik_Skovgaard,_Odder","Henrik Skovgaard, Odder",Radikale Venstre,0
+Odder,9,Alrø,"B_Michael_Jessen,_Odder","Michael Jessen, Odder",Radikale Venstre,0
+Odder,9,Alrø,"B_Anna_Birte_Sparvath,_Hou","Anna Birte Sparvath, Hou",Radikale Venstre,0
+Odder,9,Alrø,"B_Jeppe_Frederiksen,_Odder","Jeppe Frederiksen, Odder",Radikale Venstre,0
+Odder,9,Alrø,"B_Ingmar_Grootveld,_Randlev","Ingmar Grootveld, Randlev",Radikale Venstre,0
+Odder,9,Alrø,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,7
+Odder,9,Alrø,C_Martin_Mikkelsen,Martin Mikkelsen,Det Konservative Folkeparti,3
+Odder,9,Alrø,C_Klaus_Rafael_Jensen,Klaus Rafael Jensen,Det Konservative Folkeparti,6
+Odder,9,Alrø,C_Henriette_Toftegaard,Henriette Toftegaard,Det Konservative Folkeparti,0
+Odder,9,Alrø,C_René_Krongaard,René Krongaard,Det Konservative Folkeparti,2
+Odder,9,Alrø,C_Nikolaj_Enggård_Fogh,Nikolaj Enggård Fogh,Det Konservative Folkeparti,9
+Odder,9,Alrø,C_Regnar_Arboe,Regnar Arboe,Det Konservative Folkeparti,0
+Odder,9,Alrø,C_Morten_Ottosen,Morten Ottosen,Det Konservative Folkeparti,1
+Odder,9,Alrø,C_Kim_Gottschalck_Jensen,Kim Gottschalck Jensen,Det Konservative Folkeparti,0
+Odder,9,Alrø,D_Listestemmer,Listestemmer,Nye Borgerlige,2
+Odder,9,Alrø,D_Brian_Vestergaard,Brian Vestergaard,Nye Borgerlige,0
+Odder,9,Alrø,D_Keld_Lynge,Keld Lynge,Nye Borgerlige,0
+Odder,9,Alrø,D_Claus_Steffensen,Claus Steffensen,Nye Borgerlige,0
+Odder,9,Alrø,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,0
+Odder,9,Alrø,"F_Marianne_Hundebøll,_Odder","Marianne Hundebøll, Odder",SF - Socialistisk Folkeparti,4
+Odder,9,Alrø,"F_Helle_Jensen_Møller,_Saksild","Helle Jensen Møller, Saksild",SF - Socialistisk Folkeparti,1
+Odder,9,Alrø,"F_Frank_Kronbo,_Odder","Frank Kronbo, Odder",SF - Socialistisk Folkeparti,0
+Odder,9,Alrø,"F_Mogens_Bedsted,_Torrild","Mogens Bedsted, Torrild",SF - Socialistisk Folkeparti,0
+Odder,9,Alrø,O_Listestemmer,Listestemmer,Dansk Folkeparti,0
+Odder,9,Alrø,O_Jan_Jørgensen,Jan Jørgensen,Dansk Folkeparti,1
+Odder,9,Alrø,O_Keld_Nyholm,Keld Nyholm,Dansk Folkeparti,0
+Odder,9,Alrø,T_Listestemmer,Listestemmer,Verdensmål med Vilje,0
+Odder,9,Alrø,T_Heidi_Gautschi,Heidi Gautschi,Verdensmål med Vilje,0
+Odder,9,Alrø,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",4
+Odder,9,Alrø,"V_Uffe_Jensen,_Odder","Uffe Jensen, Odder","Venstre, Danmarks Liberale Parti",25
+Odder,9,Alrø,"V_Finn_Thranum,_Hou","Finn Thranum, Hou","Venstre, Danmarks Liberale Parti",4
+Odder,9,Alrø,"V_Tim_Grønbech,_Tunø","Tim Grønbech, Tunø","Venstre, Danmarks Liberale Parti",0
+Odder,9,Alrø,"V_Anne_Wiese,_Hølken","Anne Wiese, Hølken","Venstre, Danmarks Liberale Parti",0
+Odder,9,Alrø,"V_Hans_Hammann,_Torrild","Hans Hammann, Torrild","Venstre, Danmarks Liberale Parti",0
+Odder,9,Alrø,"V_Lene_Midtgaard,_Hundslund","Lene Midtgaard, Hundslund","Venstre, Danmarks Liberale Parti",1
+Odder,9,Alrø,"V_Jan_Gade,_Bjerager","Jan Gade, Bjerager","Venstre, Danmarks Liberale Parti",0
+Odder,9,Alrø,"V_Ole_Lyngby_Pedersen,_Fillerup","Ole Lyngby Pedersen, Fillerup","Venstre, Danmarks Liberale Parti",4
+Odder,9,Alrø,"V_Lene_Aagaard,_Ørting","Lene Aagaard, Ørting","Venstre, Danmarks Liberale Parti",0
+Odder,9,Alrø,"V_Allan_Werk,_Sondrup","Allan Werk, Sondrup","Venstre, Danmarks Liberale Parti",0
+Odder,9,Alrø,"V_Parvaneh_Abdoulmaleki,_Odder","Parvaneh Abdoulmaleki, Odder","Venstre, Danmarks Liberale Parti",0
+Odder,9,Alrø,"V_Daniel_Dalhoff,_Odder","Daniel Dalhoff, Odder","Venstre, Danmarks Liberale Parti",0
+Odder,9,Alrø,"V_Louise_Kreutzfeldt,_Odder","Louise Kreutzfeldt, Odder","Venstre, Danmarks Liberale Parti",5
+Odder,9,Alrø,"V_Jørgen_Johannsen,_Odder","Jørgen Johannsen, Odder","Venstre, Danmarks Liberale Parti",0
+Odder,9,Alrø,"V_Suzette_Pedersen,_Odder","Suzette Pedersen, Odder","Venstre, Danmarks Liberale Parti",1
+Odder,9,Alrø,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,2
+Odder,9,Alrø,"Ø_Ditte-Marie_Thejsen,_Odder","Ditte-Marie Thejsen, Odder",Enhedslisten - De Rød-Grønne,5
+Odder,9,Alrø,"Ø_Leif_Gjørtz_Christensen,_Norsminde","Leif Gjørtz Christensen, Norsminde",Enhedslisten - De Rød-Grønne,0
+Odder,9,Alrø,"Ø_Mariann_Winther,_Odder","Mariann Winther, Odder",Enhedslisten - De Rød-Grønne,2
+Odder,9,Alrø,"Ø_Lys_Klitgård_Boman,_Ørting","Lys Klitgård Boman, Ørting",Enhedslisten - De Rød-Grønne,1
+Odder,9,Alrø,"Ø_Henrik_Opstrup,_Hou","Henrik Opstrup, Hou",Enhedslisten - De Rød-Grønne,0
+Odder,9,Alrø,"Ø_Iris_Mejnecke,_Assedrup","Iris Mejnecke, Assedrup",Enhedslisten - De Rød-Grønne,0
+Odder,10,Tunø,A_Listestemmer,Listestemmer,Socialdemokratiet,3
+Odder,10,Tunø,A_Lone_Jakobi,Lone Jakobi,Socialdemokratiet,2
+Odder,10,Tunø,A_Linda_Ann_Wienand,Linda Ann Wienand,Socialdemokratiet,1
+Odder,10,Tunø,A_Lars_Bluhme,Lars Bluhme,Socialdemokratiet,0
+Odder,10,Tunø,A_Claes_Jensen,Claes Jensen,Socialdemokratiet,0
+Odder,10,Tunø,A_Jacob_Petersen,Jacob Petersen,Socialdemokratiet,1
+Odder,10,Tunø,A_Eva_Lagerberg,Eva Lagerberg,Socialdemokratiet,0
+Odder,10,Tunø,A_Jan_Kjærsgaard,Jan Kjærsgaard,Socialdemokratiet,0
+Odder,10,Tunø,A_Rie_Ramsdal,Rie Ramsdal,Socialdemokratiet,0
+Odder,10,Tunø,A_Torben_Madsen,Torben Madsen,Socialdemokratiet,0
+Odder,10,Tunø,A_Palle_Holsting,Palle Holsting,Socialdemokratiet,0
+Odder,10,Tunø,A_Peter_Skov_Sørensen,Peter Skov Sørensen,Socialdemokratiet,0
+Odder,10,Tunø,A_Nicolai_Ramsdal,Nicolai Ramsdal,Socialdemokratiet,0
+Odder,10,Tunø,B_Listestemmer,Listestemmer,Radikale Venstre,0
+Odder,10,Tunø,"B_Kresten_Bjerre,_Odder","Kresten Bjerre, Odder",Radikale Venstre,0
+Odder,10,Tunø,"B_Katja_Ivesøe,_Gylling","Katja Ivesøe, Gylling",Radikale Venstre,0
+Odder,10,Tunø,"B_Tine_Mynster,_Alrø","Tine Mynster, Alrø",Radikale Venstre,0
+Odder,10,Tunø,"B_Henrik_Skovgaard,_Odder","Henrik Skovgaard, Odder",Radikale Venstre,0
+Odder,10,Tunø,"B_Michael_Jessen,_Odder","Michael Jessen, Odder",Radikale Venstre,0
+Odder,10,Tunø,"B_Anna_Birte_Sparvath,_Hou","Anna Birte Sparvath, Hou",Radikale Venstre,0
+Odder,10,Tunø,"B_Jeppe_Frederiksen,_Odder","Jeppe Frederiksen, Odder",Radikale Venstre,0
+Odder,10,Tunø,"B_Ingmar_Grootveld,_Randlev","Ingmar Grootveld, Randlev",Radikale Venstre,0
+Odder,10,Tunø,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,0
+Odder,10,Tunø,C_Martin_Mikkelsen,Martin Mikkelsen,Det Konservative Folkeparti,1
+Odder,10,Tunø,C_Klaus_Rafael_Jensen,Klaus Rafael Jensen,Det Konservative Folkeparti,0
+Odder,10,Tunø,C_Henriette_Toftegaard,Henriette Toftegaard,Det Konservative Folkeparti,0
+Odder,10,Tunø,C_René_Krongaard,René Krongaard,Det Konservative Folkeparti,0
+Odder,10,Tunø,C_Nikolaj_Enggård_Fogh,Nikolaj Enggård Fogh,Det Konservative Folkeparti,0
+Odder,10,Tunø,C_Regnar_Arboe,Regnar Arboe,Det Konservative Folkeparti,0
+Odder,10,Tunø,C_Morten_Ottosen,Morten Ottosen,Det Konservative Folkeparti,0
+Odder,10,Tunø,C_Kim_Gottschalck_Jensen,Kim Gottschalck Jensen,Det Konservative Folkeparti,0
+Odder,10,Tunø,D_Listestemmer,Listestemmer,Nye Borgerlige,1
+Odder,10,Tunø,D_Brian_Vestergaard,Brian Vestergaard,Nye Borgerlige,0
+Odder,10,Tunø,D_Keld_Lynge,Keld Lynge,Nye Borgerlige,0
+Odder,10,Tunø,D_Claus_Steffensen,Claus Steffensen,Nye Borgerlige,0
+Odder,10,Tunø,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,0
+Odder,10,Tunø,"F_Marianne_Hundebøll,_Odder","Marianne Hundebøll, Odder",SF - Socialistisk Folkeparti,3
+Odder,10,Tunø,"F_Helle_Jensen_Møller,_Saksild","Helle Jensen Møller, Saksild",SF - Socialistisk Folkeparti,0
+Odder,10,Tunø,"F_Frank_Kronbo,_Odder","Frank Kronbo, Odder",SF - Socialistisk Folkeparti,0
+Odder,10,Tunø,"F_Mogens_Bedsted,_Torrild","Mogens Bedsted, Torrild",SF - Socialistisk Folkeparti,0
+Odder,10,Tunø,O_Listestemmer,Listestemmer,Dansk Folkeparti,0
+Odder,10,Tunø,O_Jan_Jørgensen,Jan Jørgensen,Dansk Folkeparti,1
+Odder,10,Tunø,O_Keld_Nyholm,Keld Nyholm,Dansk Folkeparti,0
+Odder,10,Tunø,T_Listestemmer,Listestemmer,Verdensmål med Vilje,0
+Odder,10,Tunø,T_Heidi_Gautschi,Heidi Gautschi,Verdensmål med Vilje,1
+Odder,10,Tunø,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",2
+Odder,10,Tunø,"V_Uffe_Jensen,_Odder","Uffe Jensen, Odder","Venstre, Danmarks Liberale Parti",1
+Odder,10,Tunø,"V_Finn_Thranum,_Hou","Finn Thranum, Hou","Venstre, Danmarks Liberale Parti",4
+Odder,10,Tunø,"V_Tim_Grønbech,_Tunø","Tim Grønbech, Tunø","Venstre, Danmarks Liberale Parti",28
+Odder,10,Tunø,"V_Anne_Wiese,_Hølken","Anne Wiese, Hølken","Venstre, Danmarks Liberale Parti",0
+Odder,10,Tunø,"V_Hans_Hammann,_Torrild","Hans Hammann, Torrild","Venstre, Danmarks Liberale Parti",1
+Odder,10,Tunø,"V_Lene_Midtgaard,_Hundslund","Lene Midtgaard, Hundslund","Venstre, Danmarks Liberale Parti",0
+Odder,10,Tunø,"V_Jan_Gade,_Bjerager","Jan Gade, Bjerager","Venstre, Danmarks Liberale Parti",0
+Odder,10,Tunø,"V_Ole_Lyngby_Pedersen,_Fillerup","Ole Lyngby Pedersen, Fillerup","Venstre, Danmarks Liberale Parti",0
+Odder,10,Tunø,"V_Lene_Aagaard,_Ørting","Lene Aagaard, Ørting","Venstre, Danmarks Liberale Parti",0
+Odder,10,Tunø,"V_Allan_Werk,_Sondrup","Allan Werk, Sondrup","Venstre, Danmarks Liberale Parti",0
+Odder,10,Tunø,"V_Parvaneh_Abdoulmaleki,_Odder","Parvaneh Abdoulmaleki, Odder","Venstre, Danmarks Liberale Parti",0
+Odder,10,Tunø,"V_Daniel_Dalhoff,_Odder","Daniel Dalhoff, Odder","Venstre, Danmarks Liberale Parti",0
+Odder,10,Tunø,"V_Louise_Kreutzfeldt,_Odder","Louise Kreutzfeldt, Odder","Venstre, Danmarks Liberale Parti",0
+Odder,10,Tunø,"V_Jørgen_Johannsen,_Odder","Jørgen Johannsen, Odder","Venstre, Danmarks Liberale Parti",0
+Odder,10,Tunø,"V_Suzette_Pedersen,_Odder","Suzette Pedersen, Odder","Venstre, Danmarks Liberale Parti",0
+Odder,10,Tunø,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,1
+Odder,10,Tunø,"Ø_Ditte-Marie_Thejsen,_Odder","Ditte-Marie Thejsen, Odder",Enhedslisten - De Rød-Grønne,8
+Odder,10,Tunø,"Ø_Leif_Gjørtz_Christensen,_Norsminde","Leif Gjørtz Christensen, Norsminde",Enhedslisten - De Rød-Grønne,0
+Odder,10,Tunø,"Ø_Mariann_Winther,_Odder","Mariann Winther, Odder",Enhedslisten - De Rød-Grønne,1
+Odder,10,Tunø,"Ø_Lys_Klitgård_Boman,_Ørting","Lys Klitgård Boman, Ørting",Enhedslisten - De Rød-Grønne,1
+Odder,10,Tunø,"Ø_Henrik_Opstrup,_Hou","Henrik Opstrup, Hou",Enhedslisten - De Rød-Grønne,0
+Odder,10,Tunø,"Ø_Iris_Mejnecke,_Assedrup","Iris Mejnecke, Assedrup",Enhedslisten - De Rød-Grønne,0

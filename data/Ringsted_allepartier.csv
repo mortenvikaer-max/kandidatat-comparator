@@ -1,0 +1,1301 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Ringsted,1,Ringsted Nørretorv,A_Listestemmer,Listestemmer,Socialdemokratiet,342
+Ringsted,1,Ringsted Nørretorv,"A_Per_Flor,_Ringsted","Per Flor, Ringsted",Socialdemokratiet,278
+Ringsted,1,Ringsted Nørretorv,"A_Mette_Ahm-Petersen,_Ringsted","Mette Ahm-Petersen, Ringsted",Socialdemokratiet,157
+Ringsted,1,Ringsted Nørretorv,"A_Sadik_Zeki_Topcu,_Ringsted","Sadik Zeki Topcu, Ringsted",Socialdemokratiet,88
+Ringsted,1,Ringsted Nørretorv,"A_Sine_Reffstrup,_Ringsted","Sine Reffstrup, Ringsted",Socialdemokratiet,142
+Ringsted,1,Ringsted Nørretorv,"A_Benny_Christensen,_Ringsted","Benny Christensen, Ringsted",Socialdemokratiet,98
+Ringsted,1,Ringsted Nørretorv,"A_Mette_Lundgaard_Hansen,_Ringsted","Mette Lundgaard Hansen, Ringsted",Socialdemokratiet,62
+Ringsted,1,Ringsted Nørretorv,"A_Lisbeth_K._Andersen,_Ringsted","Lisbeth K. Andersen, Ringsted",Socialdemokratiet,52
+Ringsted,1,Ringsted Nørretorv,"A_Svend-Erik_Jakobsen,_Ringsted","Svend-Erik Jakobsen, Ringsted",Socialdemokratiet,31
+Ringsted,1,Ringsted Nørretorv,"A_Steffan_Rasmussen,_Ringsted","Steffan Rasmussen, Ringsted",Socialdemokratiet,7
+Ringsted,1,Ringsted Nørretorv,"A_Valentin_Andersen,_Ørslev","Valentin Andersen, Ørslev",Socialdemokratiet,14
+Ringsted,1,Ringsted Nørretorv,"A_Jens_Michael_Hansen,_Benløse","Jens Michael Hansen, Benløse",Socialdemokratiet,13
+Ringsted,1,Ringsted Nørretorv,"A_Flemming_Skærbæk,_Ringsted","Flemming Skærbæk, Ringsted",Socialdemokratiet,7
+Ringsted,1,Ringsted Nørretorv,"A_Kristian_Doose,_Høm","Kristian Doose, Høm",Socialdemokratiet,2
+Ringsted,1,Ringsted Nørretorv,B_Listestemmer,Listestemmer,Radikale Venstre,59
+Ringsted,1,Ringsted Nørretorv,B_Torben_Lollike,Torben Lollike,Radikale Venstre,118
+Ringsted,1,Ringsted Nørretorv,B_Jeanet_Suadicani,Jeanet Suadicani,Radikale Venstre,15
+Ringsted,1,Ringsted Nørretorv,B_Martin_Bork,Martin Bork,Radikale Venstre,7
+Ringsted,1,Ringsted Nørretorv,B_Helen_Schmidt,Helen Schmidt,Radikale Venstre,29
+Ringsted,1,Ringsted Nørretorv,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,263
+Ringsted,1,Ringsted Nørretorv,C_Andreas_Karlsen,Andreas Karlsen,Det Konservative Folkeparti,770
+Ringsted,1,Ringsted Nørretorv,C_Tina-Mia_Eriksen,Tina-Mia Eriksen,Det Konservative Folkeparti,115
+Ringsted,1,Ringsted Nørretorv,C_René_Lund_Sørensen,René Lund Sørensen,Det Konservative Folkeparti,41
+Ringsted,1,Ringsted Nørretorv,C_Susanne_Cornelius,Susanne Cornelius,Det Konservative Folkeparti,61
+Ringsted,1,Ringsted Nørretorv,C_Thomas_Vangsaa,Thomas Vangsaa,Det Konservative Folkeparti,37
+Ringsted,1,Ringsted Nørretorv,C_Pia_Thøgersen,Pia Thøgersen,Det Konservative Folkeparti,38
+Ringsted,1,Ringsted Nørretorv,C_Benjamin_Pedersen,Benjamin Pedersen,Det Konservative Folkeparti,220
+Ringsted,1,Ringsted Nørretorv,C_Mette_Sjøblom_Skals,Mette Sjøblom Skals,Det Konservative Folkeparti,12
+Ringsted,1,Ringsted Nørretorv,C_Ole_Keinicke_Christensen,Ole Keinicke Christensen,Det Konservative Folkeparti,0
+Ringsted,1,Ringsted Nørretorv,C_Karin_Egeberg,Karin Egeberg,Det Konservative Folkeparti,5
+Ringsted,1,Ringsted Nørretorv,C_Peter_Fisker,Peter Fisker,Det Konservative Folkeparti,7
+Ringsted,1,Ringsted Nørretorv,C_Lotte_Holmqvist,Lotte Holmqvist,Det Konservative Folkeparti,8
+Ringsted,1,Ringsted Nørretorv,C_Jørgen_Sparring,Jørgen Sparring,Det Konservative Folkeparti,9
+Ringsted,1,Ringsted Nørretorv,C_Mette_K._Millard,Mette K. Millard,Det Konservative Folkeparti,4
+Ringsted,1,Ringsted Nørretorv,C_Jan_M._Johansen,Jan M. Johansen,Det Konservative Folkeparti,9
+Ringsted,1,Ringsted Nørretorv,C_Lene_Wøhlk,Lene Wøhlk,Det Konservative Folkeparti,8
+Ringsted,1,Ringsted Nørretorv,C_Jonatan_Nielsen,Jonatan Nielsen,Det Konservative Folkeparti,2
+Ringsted,1,Ringsted Nørretorv,C_Benedikte_B._Rolighed,Benedikte B. Rolighed,Det Konservative Folkeparti,10
+Ringsted,1,Ringsted Nørretorv,D_Listestemmer,Listestemmer,Nye Borgerlige,82
+Ringsted,1,Ringsted Nørretorv,"D_Claus_Bedemann,_Ringsted","Claus Bedemann, Ringsted",Nye Borgerlige,84
+Ringsted,1,Ringsted Nørretorv,"D_K.J._Nordman,_Benløse","K.J. Nordman, Benløse",Nye Borgerlige,3
+Ringsted,1,Ringsted Nørretorv,"D_Kenneth_Nielsen,_Tåstrup","Kenneth Nielsen, Tåstrup",Nye Borgerlige,7
+Ringsted,1,Ringsted Nørretorv,"D_Jan_Gammelgaard,_Benløse","Jan Gammelgaard, Benløse",Nye Borgerlige,2
+Ringsted,1,Ringsted Nørretorv,"D_Thurid_Joensen,_Sneslev","Thurid Joensen, Sneslev",Nye Borgerlige,2
+Ringsted,1,Ringsted Nørretorv,"D_Leif_Nebbelunde,_Benløse","Leif Nebbelunde, Benløse",Nye Borgerlige,6
+Ringsted,1,Ringsted Nørretorv,"D_Charlotte_Lorenzen,_Ringsted","Charlotte Lorenzen, Ringsted",Nye Borgerlige,14
+Ringsted,1,Ringsted Nørretorv,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,119
+Ringsted,1,Ringsted Nørretorv,F_Britta_Nielsen,Britta Nielsen,SF - Socialistisk Folkeparti,98
+Ringsted,1,Ringsted Nørretorv,F_Lene_Reffstrup,Lene Reffstrup,SF - Socialistisk Folkeparti,50
+Ringsted,1,Ringsted Nørretorv,F_Peter_Helmersen,Peter Helmersen,SF - Socialistisk Folkeparti,29
+Ringsted,1,Ringsted Nørretorv,F_Anne_Marie_Østergaard,Anne Marie Østergaard,SF - Socialistisk Folkeparti,25
+Ringsted,1,Ringsted Nørretorv,F_Charlie_Saglicak,Charlie Saglicak,SF - Socialistisk Folkeparti,42
+Ringsted,1,Ringsted Nørretorv,F_Erling_Jacobsen,Erling Jacobsen,SF - Socialistisk Folkeparti,10
+Ringsted,1,Ringsted Nørretorv,F_Birgit_Lindqvist,Birgit Lindqvist,SF - Socialistisk Folkeparti,8
+Ringsted,1,Ringsted Nørretorv,F_Birgitte_Ottosen,Birgitte Ottosen,SF - Socialistisk Folkeparti,6
+Ringsted,1,Ringsted Nørretorv,I_Listestemmer,Listestemmer,Liberal Alliance,15
+Ringsted,1,Ringsted Nørretorv,I_Henrik_Thomsen,Henrik Thomsen,Liberal Alliance,12
+Ringsted,1,Ringsted Nørretorv,I_Lotte_Hansen,Lotte Hansen,Liberal Alliance,2
+Ringsted,1,Ringsted Nørretorv,I_Birthe_Mogensen,Birthe Mogensen,Liberal Alliance,2
+Ringsted,1,Ringsted Nørretorv,K_Listestemmer,Listestemmer,Kristendemokraterne,7
+Ringsted,1,Ringsted Nørretorv,"K_Finn_Andersen,_Kværkeby","Finn Andersen, Kværkeby",Kristendemokraterne,59
+Ringsted,1,Ringsted Nørretorv,"K_Roland_Capion,_Jystrup","Roland Capion, Jystrup",Kristendemokraterne,0
+Ringsted,1,Ringsted Nørretorv,"K_Mia_Laibjørn,_Ringsted","Mia Laibjørn, Ringsted",Kristendemokraterne,3
+Ringsted,1,Ringsted Nørretorv,"K_Børge_Albøg,_Ringsted","Børge Albøg, Ringsted",Kristendemokraterne,1
+Ringsted,1,Ringsted Nørretorv,"K_Preben_Andersen,_Fjellebro","Preben Andersen, Fjellebro",Kristendemokraterne,1
+Ringsted,1,Ringsted Nørretorv,"K_Holger_Nielsen,_Nordrup","Holger Nielsen, Nordrup",Kristendemokraterne,0
+Ringsted,1,Ringsted Nørretorv,"K_Lauritz_Rasmussen,_Ringsted","Lauritz Rasmussen, Ringsted",Kristendemokraterne,2
+Ringsted,1,Ringsted Nørretorv,O_Listestemmer,Listestemmer,Dansk Folkeparti,77
+Ringsted,1,Ringsted Nørretorv,O_Lotte_Birkestrøm,Lotte Birkestrøm,Dansk Folkeparti,48
+Ringsted,1,Ringsted Nørretorv,O_Ulrik_Riis,Ulrik Riis,Dansk Folkeparti,20
+Ringsted,1,Ringsted Nørretorv,O_Anders_Weber,Anders Weber,Dansk Folkeparti,13
+Ringsted,1,Ringsted Nørretorv,O_Victor_Elmeskov,Victor Elmeskov,Dansk Folkeparti,4
+Ringsted,1,Ringsted Nørretorv,O_Anne_Fussing,Anne Fussing,Dansk Folkeparti,5
+Ringsted,1,Ringsted Nørretorv,O_Sara_Maria_Greis_Jørgensen,Sara Maria Greis Jørgensen,Dansk Folkeparti,6
+Ringsted,1,Ringsted Nørretorv,O_Jill_Elmeskov,Jill Elmeskov,Dansk Folkeparti,0
+Ringsted,1,Ringsted Nørretorv,O_Søren_Magnussen,Søren Magnussen,Dansk Folkeparti,0
+Ringsted,1,Ringsted Nørretorv,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",177
+Ringsted,1,Ringsted Nørretorv,V_Henrik_Hvidesten,Henrik Hvidesten,"Venstre, Danmarks Liberale Parti",1049
+Ringsted,1,Ringsted Nørretorv,V_Klaus_Hansen,Klaus Hansen,"Venstre, Danmarks Liberale Parti",38
+Ringsted,1,Ringsted Nørretorv,V_Johnny_B._L._Dahlgaard,Johnny B. L. Dahlgaard,"Venstre, Danmarks Liberale Parti",35
+Ringsted,1,Ringsted Nørretorv,V_Mazlum_Øz,Mazlum Øz,"Venstre, Danmarks Liberale Parti",74
+Ringsted,1,Ringsted Nørretorv,V_Timo_Jensen,Timo Jensen,"Venstre, Danmarks Liberale Parti",47
+Ringsted,1,Ringsted Nørretorv,V_Lasse_Tobias_Mølholt,Lasse Tobias Mølholt,"Venstre, Danmarks Liberale Parti",18
+Ringsted,1,Ringsted Nørretorv,V_Jette_Nygaard,Jette Nygaard,"Venstre, Danmarks Liberale Parti",33
+Ringsted,1,Ringsted Nørretorv,V_Mathias_Niemann,Mathias Niemann,"Venstre, Danmarks Liberale Parti",11
+Ringsted,1,Ringsted Nørretorv,V_Sune_Harild,Sune Harild,"Venstre, Danmarks Liberale Parti",12
+Ringsted,1,Ringsted Nørretorv,V_Lars_Olsen,Lars Olsen,"Venstre, Danmarks Liberale Parti",3
+Ringsted,1,Ringsted Nørretorv,V_Isabel_Nielsen,Isabel Nielsen,"Venstre, Danmarks Liberale Parti",5
+Ringsted,1,Ringsted Nørretorv,Æ_Listestemmer,Listestemmer,Frihedslisten,5
+Ringsted,1,Ringsted Nørretorv,"Æ_Kent_Nielsen,_Ringsted","Kent Nielsen, Ringsted",Frihedslisten,14
+Ringsted,1,Ringsted Nørretorv,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,99
+Ringsted,1,Ringsted Nørretorv,"Ø_Henrik_Kjær,_Ringsted","Henrik Kjær, Ringsted",Enhedslisten - De Rød-Grønne,31
+Ringsted,1,Ringsted Nørretorv,"Ø_Mona_Musse,_Ringsted","Mona Musse, Ringsted",Enhedslisten - De Rød-Grønne,58
+Ringsted,1,Ringsted Nørretorv,"Ø_Carli_Hækkerup,_Ringsted","Carli Hækkerup, Ringsted",Enhedslisten - De Rød-Grønne,25
+Ringsted,1,Ringsted Nørretorv,"Ø_Jonas_Palm,_Ringsted","Jonas Palm, Ringsted",Enhedslisten - De Rød-Grønne,5
+Ringsted,1,Ringsted Nørretorv,"Ø_Solveig_Jensen,_Ringsted","Solveig Jensen, Ringsted",Enhedslisten - De Rød-Grønne,15
+Ringsted,1,Ringsted Nørretorv,"Ø_Tommy_Johannessen,_Jystrup","Tommy Johannessen, Jystrup",Enhedslisten - De Rød-Grønne,3
+Ringsted,1,Ringsted Nørretorv,"Ø_Camilla_Nielsen-Englyst,_Hallinge","Camilla Nielsen-Englyst, Hallinge",Enhedslisten - De Rød-Grønne,6
+Ringsted,1,Ringsted Nørretorv,"Ø_Berit_Bruun,_Ringsted","Berit Bruun, Ringsted",Enhedslisten - De Rød-Grønne,10
+Ringsted,1,Ringsted Nørretorv,"Ø_Jan_Jakobsen,_Ringsted_Syd","Jan Jakobsen, Ringsted Syd",Enhedslisten - De Rød-Grønne,2
+Ringsted,2,Bringstrup,A_Listestemmer,Listestemmer,Socialdemokratiet,26
+Ringsted,2,Bringstrup,"A_Per_Flor,_Ringsted","Per Flor, Ringsted",Socialdemokratiet,14
+Ringsted,2,Bringstrup,"A_Mette_Ahm-Petersen,_Ringsted","Mette Ahm-Petersen, Ringsted",Socialdemokratiet,15
+Ringsted,2,Bringstrup,"A_Sadik_Zeki_Topcu,_Ringsted","Sadik Zeki Topcu, Ringsted",Socialdemokratiet,2
+Ringsted,2,Bringstrup,"A_Sine_Reffstrup,_Ringsted","Sine Reffstrup, Ringsted",Socialdemokratiet,5
+Ringsted,2,Bringstrup,"A_Benny_Christensen,_Ringsted","Benny Christensen, Ringsted",Socialdemokratiet,1
+Ringsted,2,Bringstrup,"A_Mette_Lundgaard_Hansen,_Ringsted","Mette Lundgaard Hansen, Ringsted",Socialdemokratiet,2
+Ringsted,2,Bringstrup,"A_Lisbeth_K._Andersen,_Ringsted","Lisbeth K. Andersen, Ringsted",Socialdemokratiet,5
+Ringsted,2,Bringstrup,"A_Svend-Erik_Jakobsen,_Ringsted","Svend-Erik Jakobsen, Ringsted",Socialdemokratiet,1
+Ringsted,2,Bringstrup,"A_Steffan_Rasmussen,_Ringsted","Steffan Rasmussen, Ringsted",Socialdemokratiet,1
+Ringsted,2,Bringstrup,"A_Valentin_Andersen,_Ørslev","Valentin Andersen, Ørslev",Socialdemokratiet,1
+Ringsted,2,Bringstrup,"A_Jens_Michael_Hansen,_Benløse","Jens Michael Hansen, Benløse",Socialdemokratiet,2
+Ringsted,2,Bringstrup,"A_Flemming_Skærbæk,_Ringsted","Flemming Skærbæk, Ringsted",Socialdemokratiet,0
+Ringsted,2,Bringstrup,"A_Kristian_Doose,_Høm","Kristian Doose, Høm",Socialdemokratiet,1
+Ringsted,2,Bringstrup,B_Listestemmer,Listestemmer,Radikale Venstre,6
+Ringsted,2,Bringstrup,B_Torben_Lollike,Torben Lollike,Radikale Venstre,3
+Ringsted,2,Bringstrup,B_Jeanet_Suadicani,Jeanet Suadicani,Radikale Venstre,2
+Ringsted,2,Bringstrup,B_Martin_Bork,Martin Bork,Radikale Venstre,0
+Ringsted,2,Bringstrup,B_Helen_Schmidt,Helen Schmidt,Radikale Venstre,3
+Ringsted,2,Bringstrup,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,12
+Ringsted,2,Bringstrup,C_Andreas_Karlsen,Andreas Karlsen,Det Konservative Folkeparti,58
+Ringsted,2,Bringstrup,C_Tina-Mia_Eriksen,Tina-Mia Eriksen,Det Konservative Folkeparti,4
+Ringsted,2,Bringstrup,C_René_Lund_Sørensen,René Lund Sørensen,Det Konservative Folkeparti,2
+Ringsted,2,Bringstrup,C_Susanne_Cornelius,Susanne Cornelius,Det Konservative Folkeparti,5
+Ringsted,2,Bringstrup,C_Thomas_Vangsaa,Thomas Vangsaa,Det Konservative Folkeparti,2
+Ringsted,2,Bringstrup,C_Pia_Thøgersen,Pia Thøgersen,Det Konservative Folkeparti,2
+Ringsted,2,Bringstrup,C_Benjamin_Pedersen,Benjamin Pedersen,Det Konservative Folkeparti,4
+Ringsted,2,Bringstrup,C_Mette_Sjøblom_Skals,Mette Sjøblom Skals,Det Konservative Folkeparti,1
+Ringsted,2,Bringstrup,C_Ole_Keinicke_Christensen,Ole Keinicke Christensen,Det Konservative Folkeparti,0
+Ringsted,2,Bringstrup,C_Karin_Egeberg,Karin Egeberg,Det Konservative Folkeparti,1
+Ringsted,2,Bringstrup,C_Peter_Fisker,Peter Fisker,Det Konservative Folkeparti,1
+Ringsted,2,Bringstrup,C_Lotte_Holmqvist,Lotte Holmqvist,Det Konservative Folkeparti,0
+Ringsted,2,Bringstrup,C_Jørgen_Sparring,Jørgen Sparring,Det Konservative Folkeparti,0
+Ringsted,2,Bringstrup,C_Mette_K._Millard,Mette K. Millard,Det Konservative Folkeparti,0
+Ringsted,2,Bringstrup,C_Jan_M._Johansen,Jan M. Johansen,Det Konservative Folkeparti,0
+Ringsted,2,Bringstrup,C_Lene_Wøhlk,Lene Wøhlk,Det Konservative Folkeparti,0
+Ringsted,2,Bringstrup,C_Jonatan_Nielsen,Jonatan Nielsen,Det Konservative Folkeparti,0
+Ringsted,2,Bringstrup,C_Benedikte_B._Rolighed,Benedikte B. Rolighed,Det Konservative Folkeparti,0
+Ringsted,2,Bringstrup,D_Listestemmer,Listestemmer,Nye Borgerlige,9
+Ringsted,2,Bringstrup,"D_Claus_Bedemann,_Ringsted","Claus Bedemann, Ringsted",Nye Borgerlige,8
+Ringsted,2,Bringstrup,"D_K.J._Nordman,_Benløse","K.J. Nordman, Benløse",Nye Borgerlige,0
+Ringsted,2,Bringstrup,"D_Kenneth_Nielsen,_Tåstrup","Kenneth Nielsen, Tåstrup",Nye Borgerlige,1
+Ringsted,2,Bringstrup,"D_Jan_Gammelgaard,_Benløse","Jan Gammelgaard, Benløse",Nye Borgerlige,0
+Ringsted,2,Bringstrup,"D_Thurid_Joensen,_Sneslev","Thurid Joensen, Sneslev",Nye Borgerlige,1
+Ringsted,2,Bringstrup,"D_Leif_Nebbelunde,_Benløse","Leif Nebbelunde, Benløse",Nye Borgerlige,3
+Ringsted,2,Bringstrup,"D_Charlotte_Lorenzen,_Ringsted","Charlotte Lorenzen, Ringsted",Nye Borgerlige,2
+Ringsted,2,Bringstrup,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,9
+Ringsted,2,Bringstrup,F_Britta_Nielsen,Britta Nielsen,SF - Socialistisk Folkeparti,21
+Ringsted,2,Bringstrup,F_Lene_Reffstrup,Lene Reffstrup,SF - Socialistisk Folkeparti,2
+Ringsted,2,Bringstrup,F_Peter_Helmersen,Peter Helmersen,SF - Socialistisk Folkeparti,1
+Ringsted,2,Bringstrup,F_Anne_Marie_Østergaard,Anne Marie Østergaard,SF - Socialistisk Folkeparti,4
+Ringsted,2,Bringstrup,F_Charlie_Saglicak,Charlie Saglicak,SF - Socialistisk Folkeparti,0
+Ringsted,2,Bringstrup,F_Erling_Jacobsen,Erling Jacobsen,SF - Socialistisk Folkeparti,0
+Ringsted,2,Bringstrup,F_Birgit_Lindqvist,Birgit Lindqvist,SF - Socialistisk Folkeparti,0
+Ringsted,2,Bringstrup,F_Birgitte_Ottosen,Birgitte Ottosen,SF - Socialistisk Folkeparti,1
+Ringsted,2,Bringstrup,I_Listestemmer,Listestemmer,Liberal Alliance,2
+Ringsted,2,Bringstrup,I_Henrik_Thomsen,Henrik Thomsen,Liberal Alliance,1
+Ringsted,2,Bringstrup,I_Lotte_Hansen,Lotte Hansen,Liberal Alliance,0
+Ringsted,2,Bringstrup,I_Birthe_Mogensen,Birthe Mogensen,Liberal Alliance,0
+Ringsted,2,Bringstrup,K_Listestemmer,Listestemmer,Kristendemokraterne,2
+Ringsted,2,Bringstrup,"K_Finn_Andersen,_Kværkeby","Finn Andersen, Kværkeby",Kristendemokraterne,7
+Ringsted,2,Bringstrup,"K_Roland_Capion,_Jystrup","Roland Capion, Jystrup",Kristendemokraterne,0
+Ringsted,2,Bringstrup,"K_Mia_Laibjørn,_Ringsted","Mia Laibjørn, Ringsted",Kristendemokraterne,1
+Ringsted,2,Bringstrup,"K_Børge_Albøg,_Ringsted","Børge Albøg, Ringsted",Kristendemokraterne,1
+Ringsted,2,Bringstrup,"K_Preben_Andersen,_Fjellebro","Preben Andersen, Fjellebro",Kristendemokraterne,0
+Ringsted,2,Bringstrup,"K_Holger_Nielsen,_Nordrup","Holger Nielsen, Nordrup",Kristendemokraterne,0
+Ringsted,2,Bringstrup,"K_Lauritz_Rasmussen,_Ringsted","Lauritz Rasmussen, Ringsted",Kristendemokraterne,0
+Ringsted,2,Bringstrup,O_Listestemmer,Listestemmer,Dansk Folkeparti,11
+Ringsted,2,Bringstrup,O_Lotte_Birkestrøm,Lotte Birkestrøm,Dansk Folkeparti,2
+Ringsted,2,Bringstrup,O_Ulrik_Riis,Ulrik Riis,Dansk Folkeparti,1
+Ringsted,2,Bringstrup,O_Anders_Weber,Anders Weber,Dansk Folkeparti,1
+Ringsted,2,Bringstrup,O_Victor_Elmeskov,Victor Elmeskov,Dansk Folkeparti,0
+Ringsted,2,Bringstrup,O_Anne_Fussing,Anne Fussing,Dansk Folkeparti,2
+Ringsted,2,Bringstrup,O_Sara_Maria_Greis_Jørgensen,Sara Maria Greis Jørgensen,Dansk Folkeparti,1
+Ringsted,2,Bringstrup,O_Jill_Elmeskov,Jill Elmeskov,Dansk Folkeparti,0
+Ringsted,2,Bringstrup,O_Søren_Magnussen,Søren Magnussen,Dansk Folkeparti,0
+Ringsted,2,Bringstrup,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",12
+Ringsted,2,Bringstrup,V_Henrik_Hvidesten,Henrik Hvidesten,"Venstre, Danmarks Liberale Parti",63
+Ringsted,2,Bringstrup,V_Klaus_Hansen,Klaus Hansen,"Venstre, Danmarks Liberale Parti",76
+Ringsted,2,Bringstrup,V_Johnny_B._L._Dahlgaard,Johnny B. L. Dahlgaard,"Venstre, Danmarks Liberale Parti",3
+Ringsted,2,Bringstrup,V_Mazlum_Øz,Mazlum Øz,"Venstre, Danmarks Liberale Parti",1
+Ringsted,2,Bringstrup,V_Timo_Jensen,Timo Jensen,"Venstre, Danmarks Liberale Parti",0
+Ringsted,2,Bringstrup,V_Lasse_Tobias_Mølholt,Lasse Tobias Mølholt,"Venstre, Danmarks Liberale Parti",1
+Ringsted,2,Bringstrup,V_Jette_Nygaard,Jette Nygaard,"Venstre, Danmarks Liberale Parti",4
+Ringsted,2,Bringstrup,V_Mathias_Niemann,Mathias Niemann,"Venstre, Danmarks Liberale Parti",2
+Ringsted,2,Bringstrup,V_Sune_Harild,Sune Harild,"Venstre, Danmarks Liberale Parti",1
+Ringsted,2,Bringstrup,V_Lars_Olsen,Lars Olsen,"Venstre, Danmarks Liberale Parti",0
+Ringsted,2,Bringstrup,V_Isabel_Nielsen,Isabel Nielsen,"Venstre, Danmarks Liberale Parti",0
+Ringsted,2,Bringstrup,Æ_Listestemmer,Listestemmer,Frihedslisten,1
+Ringsted,2,Bringstrup,"Æ_Kent_Nielsen,_Ringsted","Kent Nielsen, Ringsted",Frihedslisten,1
+Ringsted,2,Bringstrup,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,12
+Ringsted,2,Bringstrup,"Ø_Henrik_Kjær,_Ringsted","Henrik Kjær, Ringsted",Enhedslisten - De Rød-Grønne,3
+Ringsted,2,Bringstrup,"Ø_Mona_Musse,_Ringsted","Mona Musse, Ringsted",Enhedslisten - De Rød-Grønne,5
+Ringsted,2,Bringstrup,"Ø_Carli_Hækkerup,_Ringsted","Carli Hækkerup, Ringsted",Enhedslisten - De Rød-Grønne,2
+Ringsted,2,Bringstrup,"Ø_Jonas_Palm,_Ringsted","Jonas Palm, Ringsted",Enhedslisten - De Rød-Grønne,2
+Ringsted,2,Bringstrup,"Ø_Solveig_Jensen,_Ringsted","Solveig Jensen, Ringsted",Enhedslisten - De Rød-Grønne,1
+Ringsted,2,Bringstrup,"Ø_Tommy_Johannessen,_Jystrup","Tommy Johannessen, Jystrup",Enhedslisten - De Rød-Grønne,1
+Ringsted,2,Bringstrup,"Ø_Camilla_Nielsen-Englyst,_Hallinge","Camilla Nielsen-Englyst, Hallinge",Enhedslisten - De Rød-Grønne,0
+Ringsted,2,Bringstrup,"Ø_Berit_Bruun,_Ringsted","Berit Bruun, Ringsted",Enhedslisten - De Rød-Grønne,0
+Ringsted,2,Bringstrup,"Ø_Jan_Jakobsen,_Ringsted_Syd","Jan Jakobsen, Ringsted Syd",Enhedslisten - De Rød-Grønne,0
+Ringsted,3,Gyrstinge,A_Listestemmer,Listestemmer,Socialdemokratiet,26
+Ringsted,3,Gyrstinge,"A_Per_Flor,_Ringsted","Per Flor, Ringsted",Socialdemokratiet,19
+Ringsted,3,Gyrstinge,"A_Mette_Ahm-Petersen,_Ringsted","Mette Ahm-Petersen, Ringsted",Socialdemokratiet,25
+Ringsted,3,Gyrstinge,"A_Sadik_Zeki_Topcu,_Ringsted","Sadik Zeki Topcu, Ringsted",Socialdemokratiet,0
+Ringsted,3,Gyrstinge,"A_Sine_Reffstrup,_Ringsted","Sine Reffstrup, Ringsted",Socialdemokratiet,9
+Ringsted,3,Gyrstinge,"A_Benny_Christensen,_Ringsted","Benny Christensen, Ringsted",Socialdemokratiet,3
+Ringsted,3,Gyrstinge,"A_Mette_Lundgaard_Hansen,_Ringsted","Mette Lundgaard Hansen, Ringsted",Socialdemokratiet,6
+Ringsted,3,Gyrstinge,"A_Lisbeth_K._Andersen,_Ringsted","Lisbeth K. Andersen, Ringsted",Socialdemokratiet,2
+Ringsted,3,Gyrstinge,"A_Svend-Erik_Jakobsen,_Ringsted","Svend-Erik Jakobsen, Ringsted",Socialdemokratiet,1
+Ringsted,3,Gyrstinge,"A_Steffan_Rasmussen,_Ringsted","Steffan Rasmussen, Ringsted",Socialdemokratiet,1
+Ringsted,3,Gyrstinge,"A_Valentin_Andersen,_Ørslev","Valentin Andersen, Ørslev",Socialdemokratiet,0
+Ringsted,3,Gyrstinge,"A_Jens_Michael_Hansen,_Benløse","Jens Michael Hansen, Benløse",Socialdemokratiet,1
+Ringsted,3,Gyrstinge,"A_Flemming_Skærbæk,_Ringsted","Flemming Skærbæk, Ringsted",Socialdemokratiet,1
+Ringsted,3,Gyrstinge,"A_Kristian_Doose,_Høm","Kristian Doose, Høm",Socialdemokratiet,1
+Ringsted,3,Gyrstinge,B_Listestemmer,Listestemmer,Radikale Venstre,1
+Ringsted,3,Gyrstinge,B_Torben_Lollike,Torben Lollike,Radikale Venstre,7
+Ringsted,3,Gyrstinge,B_Jeanet_Suadicani,Jeanet Suadicani,Radikale Venstre,1
+Ringsted,3,Gyrstinge,B_Martin_Bork,Martin Bork,Radikale Venstre,0
+Ringsted,3,Gyrstinge,B_Helen_Schmidt,Helen Schmidt,Radikale Venstre,2
+Ringsted,3,Gyrstinge,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,19
+Ringsted,3,Gyrstinge,C_Andreas_Karlsen,Andreas Karlsen,Det Konservative Folkeparti,51
+Ringsted,3,Gyrstinge,C_Tina-Mia_Eriksen,Tina-Mia Eriksen,Det Konservative Folkeparti,6
+Ringsted,3,Gyrstinge,C_René_Lund_Sørensen,René Lund Sørensen,Det Konservative Folkeparti,2
+Ringsted,3,Gyrstinge,C_Susanne_Cornelius,Susanne Cornelius,Det Konservative Folkeparti,2
+Ringsted,3,Gyrstinge,C_Thomas_Vangsaa,Thomas Vangsaa,Det Konservative Folkeparti,5
+Ringsted,3,Gyrstinge,C_Pia_Thøgersen,Pia Thøgersen,Det Konservative Folkeparti,2
+Ringsted,3,Gyrstinge,C_Benjamin_Pedersen,Benjamin Pedersen,Det Konservative Folkeparti,12
+Ringsted,3,Gyrstinge,C_Mette_Sjøblom_Skals,Mette Sjøblom Skals,Det Konservative Folkeparti,1
+Ringsted,3,Gyrstinge,C_Ole_Keinicke_Christensen,Ole Keinicke Christensen,Det Konservative Folkeparti,0
+Ringsted,3,Gyrstinge,C_Karin_Egeberg,Karin Egeberg,Det Konservative Folkeparti,1
+Ringsted,3,Gyrstinge,C_Peter_Fisker,Peter Fisker,Det Konservative Folkeparti,0
+Ringsted,3,Gyrstinge,C_Lotte_Holmqvist,Lotte Holmqvist,Det Konservative Folkeparti,0
+Ringsted,3,Gyrstinge,C_Jørgen_Sparring,Jørgen Sparring,Det Konservative Folkeparti,0
+Ringsted,3,Gyrstinge,C_Mette_K._Millard,Mette K. Millard,Det Konservative Folkeparti,0
+Ringsted,3,Gyrstinge,C_Jan_M._Johansen,Jan M. Johansen,Det Konservative Folkeparti,0
+Ringsted,3,Gyrstinge,C_Lene_Wøhlk,Lene Wøhlk,Det Konservative Folkeparti,1
+Ringsted,3,Gyrstinge,C_Jonatan_Nielsen,Jonatan Nielsen,Det Konservative Folkeparti,1
+Ringsted,3,Gyrstinge,C_Benedikte_B._Rolighed,Benedikte B. Rolighed,Det Konservative Folkeparti,0
+Ringsted,3,Gyrstinge,D_Listestemmer,Listestemmer,Nye Borgerlige,10
+Ringsted,3,Gyrstinge,"D_Claus_Bedemann,_Ringsted","Claus Bedemann, Ringsted",Nye Borgerlige,19
+Ringsted,3,Gyrstinge,"D_K.J._Nordman,_Benløse","K.J. Nordman, Benløse",Nye Borgerlige,2
+Ringsted,3,Gyrstinge,"D_Kenneth_Nielsen,_Tåstrup","Kenneth Nielsen, Tåstrup",Nye Borgerlige,0
+Ringsted,3,Gyrstinge,"D_Jan_Gammelgaard,_Benløse","Jan Gammelgaard, Benløse",Nye Borgerlige,0
+Ringsted,3,Gyrstinge,"D_Thurid_Joensen,_Sneslev","Thurid Joensen, Sneslev",Nye Borgerlige,0
+Ringsted,3,Gyrstinge,"D_Leif_Nebbelunde,_Benløse","Leif Nebbelunde, Benløse",Nye Borgerlige,3
+Ringsted,3,Gyrstinge,"D_Charlotte_Lorenzen,_Ringsted","Charlotte Lorenzen, Ringsted",Nye Borgerlige,4
+Ringsted,3,Gyrstinge,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,10
+Ringsted,3,Gyrstinge,F_Britta_Nielsen,Britta Nielsen,SF - Socialistisk Folkeparti,8
+Ringsted,3,Gyrstinge,F_Lene_Reffstrup,Lene Reffstrup,SF - Socialistisk Folkeparti,1
+Ringsted,3,Gyrstinge,F_Peter_Helmersen,Peter Helmersen,SF - Socialistisk Folkeparti,1
+Ringsted,3,Gyrstinge,F_Anne_Marie_Østergaard,Anne Marie Østergaard,SF - Socialistisk Folkeparti,1
+Ringsted,3,Gyrstinge,F_Charlie_Saglicak,Charlie Saglicak,SF - Socialistisk Folkeparti,0
+Ringsted,3,Gyrstinge,F_Erling_Jacobsen,Erling Jacobsen,SF - Socialistisk Folkeparti,1
+Ringsted,3,Gyrstinge,F_Birgit_Lindqvist,Birgit Lindqvist,SF - Socialistisk Folkeparti,0
+Ringsted,3,Gyrstinge,F_Birgitte_Ottosen,Birgitte Ottosen,SF - Socialistisk Folkeparti,0
+Ringsted,3,Gyrstinge,I_Listestemmer,Listestemmer,Liberal Alliance,3
+Ringsted,3,Gyrstinge,I_Henrik_Thomsen,Henrik Thomsen,Liberal Alliance,3
+Ringsted,3,Gyrstinge,I_Lotte_Hansen,Lotte Hansen,Liberal Alliance,0
+Ringsted,3,Gyrstinge,I_Birthe_Mogensen,Birthe Mogensen,Liberal Alliance,0
+Ringsted,3,Gyrstinge,K_Listestemmer,Listestemmer,Kristendemokraterne,2
+Ringsted,3,Gyrstinge,"K_Finn_Andersen,_Kværkeby","Finn Andersen, Kværkeby",Kristendemokraterne,9
+Ringsted,3,Gyrstinge,"K_Roland_Capion,_Jystrup","Roland Capion, Jystrup",Kristendemokraterne,0
+Ringsted,3,Gyrstinge,"K_Mia_Laibjørn,_Ringsted","Mia Laibjørn, Ringsted",Kristendemokraterne,0
+Ringsted,3,Gyrstinge,"K_Børge_Albøg,_Ringsted","Børge Albøg, Ringsted",Kristendemokraterne,0
+Ringsted,3,Gyrstinge,"K_Preben_Andersen,_Fjellebro","Preben Andersen, Fjellebro",Kristendemokraterne,0
+Ringsted,3,Gyrstinge,"K_Holger_Nielsen,_Nordrup","Holger Nielsen, Nordrup",Kristendemokraterne,0
+Ringsted,3,Gyrstinge,"K_Lauritz_Rasmussen,_Ringsted","Lauritz Rasmussen, Ringsted",Kristendemokraterne,0
+Ringsted,3,Gyrstinge,O_Listestemmer,Listestemmer,Dansk Folkeparti,9
+Ringsted,3,Gyrstinge,O_Lotte_Birkestrøm,Lotte Birkestrøm,Dansk Folkeparti,3
+Ringsted,3,Gyrstinge,O_Ulrik_Riis,Ulrik Riis,Dansk Folkeparti,2
+Ringsted,3,Gyrstinge,O_Anders_Weber,Anders Weber,Dansk Folkeparti,0
+Ringsted,3,Gyrstinge,O_Victor_Elmeskov,Victor Elmeskov,Dansk Folkeparti,1
+Ringsted,3,Gyrstinge,O_Anne_Fussing,Anne Fussing,Dansk Folkeparti,3
+Ringsted,3,Gyrstinge,O_Sara_Maria_Greis_Jørgensen,Sara Maria Greis Jørgensen,Dansk Folkeparti,1
+Ringsted,3,Gyrstinge,O_Jill_Elmeskov,Jill Elmeskov,Dansk Folkeparti,0
+Ringsted,3,Gyrstinge,O_Søren_Magnussen,Søren Magnussen,Dansk Folkeparti,2
+Ringsted,3,Gyrstinge,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",19
+Ringsted,3,Gyrstinge,V_Henrik_Hvidesten,Henrik Hvidesten,"Venstre, Danmarks Liberale Parti",70
+Ringsted,3,Gyrstinge,V_Klaus_Hansen,Klaus Hansen,"Venstre, Danmarks Liberale Parti",10
+Ringsted,3,Gyrstinge,V_Johnny_B._L._Dahlgaard,Johnny B. L. Dahlgaard,"Venstre, Danmarks Liberale Parti",2
+Ringsted,3,Gyrstinge,V_Mazlum_Øz,Mazlum Øz,"Venstre, Danmarks Liberale Parti",0
+Ringsted,3,Gyrstinge,V_Timo_Jensen,Timo Jensen,"Venstre, Danmarks Liberale Parti",0
+Ringsted,3,Gyrstinge,V_Lasse_Tobias_Mølholt,Lasse Tobias Mølholt,"Venstre, Danmarks Liberale Parti",1
+Ringsted,3,Gyrstinge,V_Jette_Nygaard,Jette Nygaard,"Venstre, Danmarks Liberale Parti",4
+Ringsted,3,Gyrstinge,V_Mathias_Niemann,Mathias Niemann,"Venstre, Danmarks Liberale Parti",26
+Ringsted,3,Gyrstinge,V_Sune_Harild,Sune Harild,"Venstre, Danmarks Liberale Parti",0
+Ringsted,3,Gyrstinge,V_Lars_Olsen,Lars Olsen,"Venstre, Danmarks Liberale Parti",0
+Ringsted,3,Gyrstinge,V_Isabel_Nielsen,Isabel Nielsen,"Venstre, Danmarks Liberale Parti",0
+Ringsted,3,Gyrstinge,Æ_Listestemmer,Listestemmer,Frihedslisten,1
+Ringsted,3,Gyrstinge,"Æ_Kent_Nielsen,_Ringsted","Kent Nielsen, Ringsted",Frihedslisten,0
+Ringsted,3,Gyrstinge,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,18
+Ringsted,3,Gyrstinge,"Ø_Henrik_Kjær,_Ringsted","Henrik Kjær, Ringsted",Enhedslisten - De Rød-Grønne,7
+Ringsted,3,Gyrstinge,"Ø_Mona_Musse,_Ringsted","Mona Musse, Ringsted",Enhedslisten - De Rød-Grønne,7
+Ringsted,3,Gyrstinge,"Ø_Carli_Hækkerup,_Ringsted","Carli Hækkerup, Ringsted",Enhedslisten - De Rød-Grønne,2
+Ringsted,3,Gyrstinge,"Ø_Jonas_Palm,_Ringsted","Jonas Palm, Ringsted",Enhedslisten - De Rød-Grønne,0
+Ringsted,3,Gyrstinge,"Ø_Solveig_Jensen,_Ringsted","Solveig Jensen, Ringsted",Enhedslisten - De Rød-Grønne,0
+Ringsted,3,Gyrstinge,"Ø_Tommy_Johannessen,_Jystrup","Tommy Johannessen, Jystrup",Enhedslisten - De Rød-Grønne,1
+Ringsted,3,Gyrstinge,"Ø_Camilla_Nielsen-Englyst,_Hallinge","Camilla Nielsen-Englyst, Hallinge",Enhedslisten - De Rød-Grønne,0
+Ringsted,3,Gyrstinge,"Ø_Berit_Bruun,_Ringsted","Berit Bruun, Ringsted",Enhedslisten - De Rød-Grønne,0
+Ringsted,3,Gyrstinge,"Ø_Jan_Jakobsen,_Ringsted_Syd","Jan Jakobsen, Ringsted Syd",Enhedslisten - De Rød-Grønne,0
+Ringsted,4,Benløse,A_Listestemmer,Listestemmer,Socialdemokratiet,187
+Ringsted,4,Benløse,"A_Per_Flor,_Ringsted","Per Flor, Ringsted",Socialdemokratiet,113
+Ringsted,4,Benløse,"A_Mette_Ahm-Petersen,_Ringsted","Mette Ahm-Petersen, Ringsted",Socialdemokratiet,139
+Ringsted,4,Benløse,"A_Sadik_Zeki_Topcu,_Ringsted","Sadik Zeki Topcu, Ringsted",Socialdemokratiet,39
+Ringsted,4,Benløse,"A_Sine_Reffstrup,_Ringsted","Sine Reffstrup, Ringsted",Socialdemokratiet,30
+Ringsted,4,Benløse,"A_Benny_Christensen,_Ringsted","Benny Christensen, Ringsted",Socialdemokratiet,25
+Ringsted,4,Benløse,"A_Mette_Lundgaard_Hansen,_Ringsted","Mette Lundgaard Hansen, Ringsted",Socialdemokratiet,26
+Ringsted,4,Benløse,"A_Lisbeth_K._Andersen,_Ringsted","Lisbeth K. Andersen, Ringsted",Socialdemokratiet,45
+Ringsted,4,Benløse,"A_Svend-Erik_Jakobsen,_Ringsted","Svend-Erik Jakobsen, Ringsted",Socialdemokratiet,18
+Ringsted,4,Benløse,"A_Steffan_Rasmussen,_Ringsted","Steffan Rasmussen, Ringsted",Socialdemokratiet,2
+Ringsted,4,Benløse,"A_Valentin_Andersen,_Ørslev","Valentin Andersen, Ørslev",Socialdemokratiet,6
+Ringsted,4,Benløse,"A_Jens_Michael_Hansen,_Benløse","Jens Michael Hansen, Benløse",Socialdemokratiet,5
+Ringsted,4,Benløse,"A_Flemming_Skærbæk,_Ringsted","Flemming Skærbæk, Ringsted",Socialdemokratiet,6
+Ringsted,4,Benløse,"A_Kristian_Doose,_Høm","Kristian Doose, Høm",Socialdemokratiet,3
+Ringsted,4,Benløse,B_Listestemmer,Listestemmer,Radikale Venstre,25
+Ringsted,4,Benløse,B_Torben_Lollike,Torben Lollike,Radikale Venstre,22
+Ringsted,4,Benløse,B_Jeanet_Suadicani,Jeanet Suadicani,Radikale Venstre,5
+Ringsted,4,Benløse,B_Martin_Bork,Martin Bork,Radikale Venstre,0
+Ringsted,4,Benløse,B_Helen_Schmidt,Helen Schmidt,Radikale Venstre,13
+Ringsted,4,Benløse,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,148
+Ringsted,4,Benløse,C_Andreas_Karlsen,Andreas Karlsen,Det Konservative Folkeparti,391
+Ringsted,4,Benløse,C_Tina-Mia_Eriksen,Tina-Mia Eriksen,Det Konservative Folkeparti,62
+Ringsted,4,Benløse,C_René_Lund_Sørensen,René Lund Sørensen,Det Konservative Folkeparti,10
+Ringsted,4,Benløse,C_Susanne_Cornelius,Susanne Cornelius,Det Konservative Folkeparti,18
+Ringsted,4,Benløse,C_Thomas_Vangsaa,Thomas Vangsaa,Det Konservative Folkeparti,9
+Ringsted,4,Benløse,C_Pia_Thøgersen,Pia Thøgersen,Det Konservative Folkeparti,7
+Ringsted,4,Benløse,C_Benjamin_Pedersen,Benjamin Pedersen,Det Konservative Folkeparti,58
+Ringsted,4,Benløse,C_Mette_Sjøblom_Skals,Mette Sjøblom Skals,Det Konservative Folkeparti,17
+Ringsted,4,Benløse,C_Ole_Keinicke_Christensen,Ole Keinicke Christensen,Det Konservative Folkeparti,0
+Ringsted,4,Benløse,C_Karin_Egeberg,Karin Egeberg,Det Konservative Folkeparti,2
+Ringsted,4,Benløse,C_Peter_Fisker,Peter Fisker,Det Konservative Folkeparti,7
+Ringsted,4,Benløse,C_Lotte_Holmqvist,Lotte Holmqvist,Det Konservative Folkeparti,1
+Ringsted,4,Benløse,C_Jørgen_Sparring,Jørgen Sparring,Det Konservative Folkeparti,5
+Ringsted,4,Benløse,C_Mette_K._Millard,Mette K. Millard,Det Konservative Folkeparti,5
+Ringsted,4,Benløse,C_Jan_M._Johansen,Jan M. Johansen,Det Konservative Folkeparti,6
+Ringsted,4,Benløse,C_Lene_Wøhlk,Lene Wøhlk,Det Konservative Folkeparti,11
+Ringsted,4,Benløse,C_Jonatan_Nielsen,Jonatan Nielsen,Det Konservative Folkeparti,3
+Ringsted,4,Benløse,C_Benedikte_B._Rolighed,Benedikte B. Rolighed,Det Konservative Folkeparti,3
+Ringsted,4,Benløse,D_Listestemmer,Listestemmer,Nye Borgerlige,44
+Ringsted,4,Benløse,"D_Claus_Bedemann,_Ringsted","Claus Bedemann, Ringsted",Nye Borgerlige,45
+Ringsted,4,Benløse,"D_K.J._Nordman,_Benløse","K.J. Nordman, Benløse",Nye Borgerlige,11
+Ringsted,4,Benløse,"D_Kenneth_Nielsen,_Tåstrup","Kenneth Nielsen, Tåstrup",Nye Borgerlige,0
+Ringsted,4,Benløse,"D_Jan_Gammelgaard,_Benløse","Jan Gammelgaard, Benløse",Nye Borgerlige,10
+Ringsted,4,Benløse,"D_Thurid_Joensen,_Sneslev","Thurid Joensen, Sneslev",Nye Borgerlige,0
+Ringsted,4,Benløse,"D_Leif_Nebbelunde,_Benløse","Leif Nebbelunde, Benløse",Nye Borgerlige,3
+Ringsted,4,Benløse,"D_Charlotte_Lorenzen,_Ringsted","Charlotte Lorenzen, Ringsted",Nye Borgerlige,1
+Ringsted,4,Benløse,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,55
+Ringsted,4,Benløse,F_Britta_Nielsen,Britta Nielsen,SF - Socialistisk Folkeparti,37
+Ringsted,4,Benløse,F_Lene_Reffstrup,Lene Reffstrup,SF - Socialistisk Folkeparti,17
+Ringsted,4,Benløse,F_Peter_Helmersen,Peter Helmersen,SF - Socialistisk Folkeparti,2
+Ringsted,4,Benløse,F_Anne_Marie_Østergaard,Anne Marie Østergaard,SF - Socialistisk Folkeparti,18
+Ringsted,4,Benløse,F_Charlie_Saglicak,Charlie Saglicak,SF - Socialistisk Folkeparti,15
+Ringsted,4,Benløse,F_Erling_Jacobsen,Erling Jacobsen,SF - Socialistisk Folkeparti,11
+Ringsted,4,Benløse,F_Birgit_Lindqvist,Birgit Lindqvist,SF - Socialistisk Folkeparti,3
+Ringsted,4,Benløse,F_Birgitte_Ottosen,Birgitte Ottosen,SF - Socialistisk Folkeparti,2
+Ringsted,4,Benløse,I_Listestemmer,Listestemmer,Liberal Alliance,13
+Ringsted,4,Benløse,I_Henrik_Thomsen,Henrik Thomsen,Liberal Alliance,12
+Ringsted,4,Benløse,I_Lotte_Hansen,Lotte Hansen,Liberal Alliance,1
+Ringsted,4,Benløse,I_Birthe_Mogensen,Birthe Mogensen,Liberal Alliance,2
+Ringsted,4,Benløse,K_Listestemmer,Listestemmer,Kristendemokraterne,7
+Ringsted,4,Benløse,"K_Finn_Andersen,_Kværkeby","Finn Andersen, Kværkeby",Kristendemokraterne,88
+Ringsted,4,Benløse,"K_Roland_Capion,_Jystrup","Roland Capion, Jystrup",Kristendemokraterne,0
+Ringsted,4,Benløse,"K_Mia_Laibjørn,_Ringsted","Mia Laibjørn, Ringsted",Kristendemokraterne,1
+Ringsted,4,Benløse,"K_Børge_Albøg,_Ringsted","Børge Albøg, Ringsted",Kristendemokraterne,1
+Ringsted,4,Benløse,"K_Preben_Andersen,_Fjellebro","Preben Andersen, Fjellebro",Kristendemokraterne,0
+Ringsted,4,Benløse,"K_Holger_Nielsen,_Nordrup","Holger Nielsen, Nordrup",Kristendemokraterne,0
+Ringsted,4,Benløse,"K_Lauritz_Rasmussen,_Ringsted","Lauritz Rasmussen, Ringsted",Kristendemokraterne,0
+Ringsted,4,Benløse,O_Listestemmer,Listestemmer,Dansk Folkeparti,58
+Ringsted,4,Benløse,O_Lotte_Birkestrøm,Lotte Birkestrøm,Dansk Folkeparti,18
+Ringsted,4,Benløse,O_Ulrik_Riis,Ulrik Riis,Dansk Folkeparti,14
+Ringsted,4,Benløse,O_Anders_Weber,Anders Weber,Dansk Folkeparti,5
+Ringsted,4,Benløse,O_Victor_Elmeskov,Victor Elmeskov,Dansk Folkeparti,8
+Ringsted,4,Benløse,O_Anne_Fussing,Anne Fussing,Dansk Folkeparti,4
+Ringsted,4,Benløse,O_Sara_Maria_Greis_Jørgensen,Sara Maria Greis Jørgensen,Dansk Folkeparti,7
+Ringsted,4,Benløse,O_Jill_Elmeskov,Jill Elmeskov,Dansk Folkeparti,5
+Ringsted,4,Benløse,O_Søren_Magnussen,Søren Magnussen,Dansk Folkeparti,1
+Ringsted,4,Benløse,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",103
+Ringsted,4,Benløse,V_Henrik_Hvidesten,Henrik Hvidesten,"Venstre, Danmarks Liberale Parti",500
+Ringsted,4,Benløse,V_Klaus_Hansen,Klaus Hansen,"Venstre, Danmarks Liberale Parti",33
+Ringsted,4,Benløse,V_Johnny_B._L._Dahlgaard,Johnny B. L. Dahlgaard,"Venstre, Danmarks Liberale Parti",92
+Ringsted,4,Benløse,V_Mazlum_Øz,Mazlum Øz,"Venstre, Danmarks Liberale Parti",52
+Ringsted,4,Benløse,V_Timo_Jensen,Timo Jensen,"Venstre, Danmarks Liberale Parti",15
+Ringsted,4,Benløse,V_Lasse_Tobias_Mølholt,Lasse Tobias Mølholt,"Venstre, Danmarks Liberale Parti",52
+Ringsted,4,Benløse,V_Jette_Nygaard,Jette Nygaard,"Venstre, Danmarks Liberale Parti",15
+Ringsted,4,Benløse,V_Mathias_Niemann,Mathias Niemann,"Venstre, Danmarks Liberale Parti",2
+Ringsted,4,Benløse,V_Sune_Harild,Sune Harild,"Venstre, Danmarks Liberale Parti",2
+Ringsted,4,Benløse,V_Lars_Olsen,Lars Olsen,"Venstre, Danmarks Liberale Parti",0
+Ringsted,4,Benløse,V_Isabel_Nielsen,Isabel Nielsen,"Venstre, Danmarks Liberale Parti",0
+Ringsted,4,Benløse,Æ_Listestemmer,Listestemmer,Frihedslisten,1
+Ringsted,4,Benløse,"Æ_Kent_Nielsen,_Ringsted","Kent Nielsen, Ringsted",Frihedslisten,3
+Ringsted,4,Benløse,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,34
+Ringsted,4,Benløse,"Ø_Henrik_Kjær,_Ringsted","Henrik Kjær, Ringsted",Enhedslisten - De Rød-Grønne,11
+Ringsted,4,Benløse,"Ø_Mona_Musse,_Ringsted","Mona Musse, Ringsted",Enhedslisten - De Rød-Grønne,15
+Ringsted,4,Benløse,"Ø_Carli_Hækkerup,_Ringsted","Carli Hækkerup, Ringsted",Enhedslisten - De Rød-Grønne,7
+Ringsted,4,Benløse,"Ø_Jonas_Palm,_Ringsted","Jonas Palm, Ringsted",Enhedslisten - De Rød-Grønne,3
+Ringsted,4,Benløse,"Ø_Solveig_Jensen,_Ringsted","Solveig Jensen, Ringsted",Enhedslisten - De Rød-Grønne,2
+Ringsted,4,Benløse,"Ø_Tommy_Johannessen,_Jystrup","Tommy Johannessen, Jystrup",Enhedslisten - De Rød-Grønne,0
+Ringsted,4,Benløse,"Ø_Camilla_Nielsen-Englyst,_Hallinge","Camilla Nielsen-Englyst, Hallinge",Enhedslisten - De Rød-Grønne,3
+Ringsted,4,Benløse,"Ø_Berit_Bruun,_Ringsted","Berit Bruun, Ringsted",Enhedslisten - De Rød-Grønne,0
+Ringsted,4,Benløse,"Ø_Jan_Jakobsen,_Ringsted_Syd","Jan Jakobsen, Ringsted Syd",Enhedslisten - De Rød-Grønne,1
+Ringsted,5,Haraldsted,A_Listestemmer,Listestemmer,Socialdemokratiet,46
+Ringsted,5,Haraldsted,"A_Per_Flor,_Ringsted","Per Flor, Ringsted",Socialdemokratiet,17
+Ringsted,5,Haraldsted,"A_Mette_Ahm-Petersen,_Ringsted","Mette Ahm-Petersen, Ringsted",Socialdemokratiet,33
+Ringsted,5,Haraldsted,"A_Sadik_Zeki_Topcu,_Ringsted","Sadik Zeki Topcu, Ringsted",Socialdemokratiet,1
+Ringsted,5,Haraldsted,"A_Sine_Reffstrup,_Ringsted","Sine Reffstrup, Ringsted",Socialdemokratiet,7
+Ringsted,5,Haraldsted,"A_Benny_Christensen,_Ringsted","Benny Christensen, Ringsted",Socialdemokratiet,3
+Ringsted,5,Haraldsted,"A_Mette_Lundgaard_Hansen,_Ringsted","Mette Lundgaard Hansen, Ringsted",Socialdemokratiet,7
+Ringsted,5,Haraldsted,"A_Lisbeth_K._Andersen,_Ringsted","Lisbeth K. Andersen, Ringsted",Socialdemokratiet,6
+Ringsted,5,Haraldsted,"A_Svend-Erik_Jakobsen,_Ringsted","Svend-Erik Jakobsen, Ringsted",Socialdemokratiet,4
+Ringsted,5,Haraldsted,"A_Steffan_Rasmussen,_Ringsted","Steffan Rasmussen, Ringsted",Socialdemokratiet,2
+Ringsted,5,Haraldsted,"A_Valentin_Andersen,_Ørslev","Valentin Andersen, Ørslev",Socialdemokratiet,1
+Ringsted,5,Haraldsted,"A_Jens_Michael_Hansen,_Benløse","Jens Michael Hansen, Benløse",Socialdemokratiet,3
+Ringsted,5,Haraldsted,"A_Flemming_Skærbæk,_Ringsted","Flemming Skærbæk, Ringsted",Socialdemokratiet,0
+Ringsted,5,Haraldsted,"A_Kristian_Doose,_Høm","Kristian Doose, Høm",Socialdemokratiet,0
+Ringsted,5,Haraldsted,B_Listestemmer,Listestemmer,Radikale Venstre,4
+Ringsted,5,Haraldsted,B_Torben_Lollike,Torben Lollike,Radikale Venstre,14
+Ringsted,5,Haraldsted,B_Jeanet_Suadicani,Jeanet Suadicani,Radikale Venstre,1
+Ringsted,5,Haraldsted,B_Martin_Bork,Martin Bork,Radikale Venstre,0
+Ringsted,5,Haraldsted,B_Helen_Schmidt,Helen Schmidt,Radikale Venstre,4
+Ringsted,5,Haraldsted,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,27
+Ringsted,5,Haraldsted,C_Andreas_Karlsen,Andreas Karlsen,Det Konservative Folkeparti,73
+Ringsted,5,Haraldsted,C_Tina-Mia_Eriksen,Tina-Mia Eriksen,Det Konservative Folkeparti,13
+Ringsted,5,Haraldsted,C_René_Lund_Sørensen,René Lund Sørensen,Det Konservative Folkeparti,4
+Ringsted,5,Haraldsted,C_Susanne_Cornelius,Susanne Cornelius,Det Konservative Folkeparti,8
+Ringsted,5,Haraldsted,C_Thomas_Vangsaa,Thomas Vangsaa,Det Konservative Folkeparti,3
+Ringsted,5,Haraldsted,C_Pia_Thøgersen,Pia Thøgersen,Det Konservative Folkeparti,6
+Ringsted,5,Haraldsted,C_Benjamin_Pedersen,Benjamin Pedersen,Det Konservative Folkeparti,11
+Ringsted,5,Haraldsted,C_Mette_Sjøblom_Skals,Mette Sjøblom Skals,Det Konservative Folkeparti,3
+Ringsted,5,Haraldsted,C_Ole_Keinicke_Christensen,Ole Keinicke Christensen,Det Konservative Folkeparti,0
+Ringsted,5,Haraldsted,C_Karin_Egeberg,Karin Egeberg,Det Konservative Folkeparti,1
+Ringsted,5,Haraldsted,C_Peter_Fisker,Peter Fisker,Det Konservative Folkeparti,23
+Ringsted,5,Haraldsted,C_Lotte_Holmqvist,Lotte Holmqvist,Det Konservative Folkeparti,0
+Ringsted,5,Haraldsted,C_Jørgen_Sparring,Jørgen Sparring,Det Konservative Folkeparti,2
+Ringsted,5,Haraldsted,C_Mette_K._Millard,Mette K. Millard,Det Konservative Folkeparti,0
+Ringsted,5,Haraldsted,C_Jan_M._Johansen,Jan M. Johansen,Det Konservative Folkeparti,0
+Ringsted,5,Haraldsted,C_Lene_Wøhlk,Lene Wøhlk,Det Konservative Folkeparti,3
+Ringsted,5,Haraldsted,C_Jonatan_Nielsen,Jonatan Nielsen,Det Konservative Folkeparti,0
+Ringsted,5,Haraldsted,C_Benedikte_B._Rolighed,Benedikte B. Rolighed,Det Konservative Folkeparti,1
+Ringsted,5,Haraldsted,D_Listestemmer,Listestemmer,Nye Borgerlige,13
+Ringsted,5,Haraldsted,"D_Claus_Bedemann,_Ringsted","Claus Bedemann, Ringsted",Nye Borgerlige,21
+Ringsted,5,Haraldsted,"D_K.J._Nordman,_Benløse","K.J. Nordman, Benløse",Nye Borgerlige,0
+Ringsted,5,Haraldsted,"D_Kenneth_Nielsen,_Tåstrup","Kenneth Nielsen, Tåstrup",Nye Borgerlige,0
+Ringsted,5,Haraldsted,"D_Jan_Gammelgaard,_Benløse","Jan Gammelgaard, Benløse",Nye Borgerlige,0
+Ringsted,5,Haraldsted,"D_Thurid_Joensen,_Sneslev","Thurid Joensen, Sneslev",Nye Borgerlige,0
+Ringsted,5,Haraldsted,"D_Leif_Nebbelunde,_Benløse","Leif Nebbelunde, Benløse",Nye Borgerlige,1
+Ringsted,5,Haraldsted,"D_Charlotte_Lorenzen,_Ringsted","Charlotte Lorenzen, Ringsted",Nye Borgerlige,3
+Ringsted,5,Haraldsted,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,34
+Ringsted,5,Haraldsted,F_Britta_Nielsen,Britta Nielsen,SF - Socialistisk Folkeparti,30
+Ringsted,5,Haraldsted,F_Lene_Reffstrup,Lene Reffstrup,SF - Socialistisk Folkeparti,12
+Ringsted,5,Haraldsted,F_Peter_Helmersen,Peter Helmersen,SF - Socialistisk Folkeparti,0
+Ringsted,5,Haraldsted,F_Anne_Marie_Østergaard,Anne Marie Østergaard,SF - Socialistisk Folkeparti,10
+Ringsted,5,Haraldsted,F_Charlie_Saglicak,Charlie Saglicak,SF - Socialistisk Folkeparti,2
+Ringsted,5,Haraldsted,F_Erling_Jacobsen,Erling Jacobsen,SF - Socialistisk Folkeparti,3
+Ringsted,5,Haraldsted,F_Birgit_Lindqvist,Birgit Lindqvist,SF - Socialistisk Folkeparti,2
+Ringsted,5,Haraldsted,F_Birgitte_Ottosen,Birgitte Ottosen,SF - Socialistisk Folkeparti,1
+Ringsted,5,Haraldsted,I_Listestemmer,Listestemmer,Liberal Alliance,3
+Ringsted,5,Haraldsted,I_Henrik_Thomsen,Henrik Thomsen,Liberal Alliance,18
+Ringsted,5,Haraldsted,I_Lotte_Hansen,Lotte Hansen,Liberal Alliance,1
+Ringsted,5,Haraldsted,I_Birthe_Mogensen,Birthe Mogensen,Liberal Alliance,0
+Ringsted,5,Haraldsted,K_Listestemmer,Listestemmer,Kristendemokraterne,2
+Ringsted,5,Haraldsted,"K_Finn_Andersen,_Kværkeby","Finn Andersen, Kværkeby",Kristendemokraterne,18
+Ringsted,5,Haraldsted,"K_Roland_Capion,_Jystrup","Roland Capion, Jystrup",Kristendemokraterne,0
+Ringsted,5,Haraldsted,"K_Mia_Laibjørn,_Ringsted","Mia Laibjørn, Ringsted",Kristendemokraterne,0
+Ringsted,5,Haraldsted,"K_Børge_Albøg,_Ringsted","Børge Albøg, Ringsted",Kristendemokraterne,0
+Ringsted,5,Haraldsted,"K_Preben_Andersen,_Fjellebro","Preben Andersen, Fjellebro",Kristendemokraterne,0
+Ringsted,5,Haraldsted,"K_Holger_Nielsen,_Nordrup","Holger Nielsen, Nordrup",Kristendemokraterne,0
+Ringsted,5,Haraldsted,"K_Lauritz_Rasmussen,_Ringsted","Lauritz Rasmussen, Ringsted",Kristendemokraterne,0
+Ringsted,5,Haraldsted,O_Listestemmer,Listestemmer,Dansk Folkeparti,10
+Ringsted,5,Haraldsted,O_Lotte_Birkestrøm,Lotte Birkestrøm,Dansk Folkeparti,7
+Ringsted,5,Haraldsted,O_Ulrik_Riis,Ulrik Riis,Dansk Folkeparti,3
+Ringsted,5,Haraldsted,O_Anders_Weber,Anders Weber,Dansk Folkeparti,2
+Ringsted,5,Haraldsted,O_Victor_Elmeskov,Victor Elmeskov,Dansk Folkeparti,3
+Ringsted,5,Haraldsted,O_Anne_Fussing,Anne Fussing,Dansk Folkeparti,10
+Ringsted,5,Haraldsted,O_Sara_Maria_Greis_Jørgensen,Sara Maria Greis Jørgensen,Dansk Folkeparti,0
+Ringsted,5,Haraldsted,O_Jill_Elmeskov,Jill Elmeskov,Dansk Folkeparti,0
+Ringsted,5,Haraldsted,O_Søren_Magnussen,Søren Magnussen,Dansk Folkeparti,1
+Ringsted,5,Haraldsted,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",23
+Ringsted,5,Haraldsted,V_Henrik_Hvidesten,Henrik Hvidesten,"Venstre, Danmarks Liberale Parti",105
+Ringsted,5,Haraldsted,V_Klaus_Hansen,Klaus Hansen,"Venstre, Danmarks Liberale Parti",22
+Ringsted,5,Haraldsted,V_Johnny_B._L._Dahlgaard,Johnny B. L. Dahlgaard,"Venstre, Danmarks Liberale Parti",5
+Ringsted,5,Haraldsted,V_Mazlum_Øz,Mazlum Øz,"Venstre, Danmarks Liberale Parti",1
+Ringsted,5,Haraldsted,V_Timo_Jensen,Timo Jensen,"Venstre, Danmarks Liberale Parti",6
+Ringsted,5,Haraldsted,V_Lasse_Tobias_Mølholt,Lasse Tobias Mølholt,"Venstre, Danmarks Liberale Parti",2
+Ringsted,5,Haraldsted,V_Jette_Nygaard,Jette Nygaard,"Venstre, Danmarks Liberale Parti",7
+Ringsted,5,Haraldsted,V_Mathias_Niemann,Mathias Niemann,"Venstre, Danmarks Liberale Parti",2
+Ringsted,5,Haraldsted,V_Sune_Harild,Sune Harild,"Venstre, Danmarks Liberale Parti",2
+Ringsted,5,Haraldsted,V_Lars_Olsen,Lars Olsen,"Venstre, Danmarks Liberale Parti",0
+Ringsted,5,Haraldsted,V_Isabel_Nielsen,Isabel Nielsen,"Venstre, Danmarks Liberale Parti",0
+Ringsted,5,Haraldsted,Æ_Listestemmer,Listestemmer,Frihedslisten,1
+Ringsted,5,Haraldsted,"Æ_Kent_Nielsen,_Ringsted","Kent Nielsen, Ringsted",Frihedslisten,3
+Ringsted,5,Haraldsted,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,26
+Ringsted,5,Haraldsted,"Ø_Henrik_Kjær,_Ringsted","Henrik Kjær, Ringsted",Enhedslisten - De Rød-Grønne,1
+Ringsted,5,Haraldsted,"Ø_Mona_Musse,_Ringsted","Mona Musse, Ringsted",Enhedslisten - De Rød-Grønne,12
+Ringsted,5,Haraldsted,"Ø_Carli_Hækkerup,_Ringsted","Carli Hækkerup, Ringsted",Enhedslisten - De Rød-Grønne,4
+Ringsted,5,Haraldsted,"Ø_Jonas_Palm,_Ringsted","Jonas Palm, Ringsted",Enhedslisten - De Rød-Grønne,2
+Ringsted,5,Haraldsted,"Ø_Solveig_Jensen,_Ringsted","Solveig Jensen, Ringsted",Enhedslisten - De Rød-Grønne,6
+Ringsted,5,Haraldsted,"Ø_Tommy_Johannessen,_Jystrup","Tommy Johannessen, Jystrup",Enhedslisten - De Rød-Grønne,2
+Ringsted,5,Haraldsted,"Ø_Camilla_Nielsen-Englyst,_Hallinge","Camilla Nielsen-Englyst, Hallinge",Enhedslisten - De Rød-Grønne,24
+Ringsted,5,Haraldsted,"Ø_Berit_Bruun,_Ringsted","Berit Bruun, Ringsted",Enhedslisten - De Rød-Grønne,1
+Ringsted,5,Haraldsted,"Ø_Jan_Jakobsen,_Ringsted_Syd","Jan Jakobsen, Ringsted Syd",Enhedslisten - De Rød-Grønne,0
+Ringsted,6,Ringsted Dagmarskolen,A_Listestemmer,Listestemmer,Socialdemokratiet,195
+Ringsted,6,Ringsted Dagmarskolen,"A_Per_Flor,_Ringsted","Per Flor, Ringsted",Socialdemokratiet,151
+Ringsted,6,Ringsted Dagmarskolen,"A_Mette_Ahm-Petersen,_Ringsted","Mette Ahm-Petersen, Ringsted",Socialdemokratiet,75
+Ringsted,6,Ringsted Dagmarskolen,"A_Sadik_Zeki_Topcu,_Ringsted","Sadik Zeki Topcu, Ringsted",Socialdemokratiet,23
+Ringsted,6,Ringsted Dagmarskolen,"A_Sine_Reffstrup,_Ringsted","Sine Reffstrup, Ringsted",Socialdemokratiet,54
+Ringsted,6,Ringsted Dagmarskolen,"A_Benny_Christensen,_Ringsted","Benny Christensen, Ringsted",Socialdemokratiet,41
+Ringsted,6,Ringsted Dagmarskolen,"A_Mette_Lundgaard_Hansen,_Ringsted","Mette Lundgaard Hansen, Ringsted",Socialdemokratiet,49
+Ringsted,6,Ringsted Dagmarskolen,"A_Lisbeth_K._Andersen,_Ringsted","Lisbeth K. Andersen, Ringsted",Socialdemokratiet,33
+Ringsted,6,Ringsted Dagmarskolen,"A_Svend-Erik_Jakobsen,_Ringsted","Svend-Erik Jakobsen, Ringsted",Socialdemokratiet,9
+Ringsted,6,Ringsted Dagmarskolen,"A_Steffan_Rasmussen,_Ringsted","Steffan Rasmussen, Ringsted",Socialdemokratiet,10
+Ringsted,6,Ringsted Dagmarskolen,"A_Valentin_Andersen,_Ørslev","Valentin Andersen, Ørslev",Socialdemokratiet,17
+Ringsted,6,Ringsted Dagmarskolen,"A_Jens_Michael_Hansen,_Benløse","Jens Michael Hansen, Benløse",Socialdemokratiet,3
+Ringsted,6,Ringsted Dagmarskolen,"A_Flemming_Skærbæk,_Ringsted","Flemming Skærbæk, Ringsted",Socialdemokratiet,9
+Ringsted,6,Ringsted Dagmarskolen,"A_Kristian_Doose,_Høm","Kristian Doose, Høm",Socialdemokratiet,3
+Ringsted,6,Ringsted Dagmarskolen,B_Listestemmer,Listestemmer,Radikale Venstre,23
+Ringsted,6,Ringsted Dagmarskolen,B_Torben_Lollike,Torben Lollike,Radikale Venstre,52
+Ringsted,6,Ringsted Dagmarskolen,B_Jeanet_Suadicani,Jeanet Suadicani,Radikale Venstre,6
+Ringsted,6,Ringsted Dagmarskolen,B_Martin_Bork,Martin Bork,Radikale Venstre,6
+Ringsted,6,Ringsted Dagmarskolen,B_Helen_Schmidt,Helen Schmidt,Radikale Venstre,7
+Ringsted,6,Ringsted Dagmarskolen,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,77
+Ringsted,6,Ringsted Dagmarskolen,C_Andreas_Karlsen,Andreas Karlsen,Det Konservative Folkeparti,339
+Ringsted,6,Ringsted Dagmarskolen,C_Tina-Mia_Eriksen,Tina-Mia Eriksen,Det Konservative Folkeparti,50
+Ringsted,6,Ringsted Dagmarskolen,C_René_Lund_Sørensen,René Lund Sørensen,Det Konservative Folkeparti,12
+Ringsted,6,Ringsted Dagmarskolen,C_Susanne_Cornelius,Susanne Cornelius,Det Konservative Folkeparti,18
+Ringsted,6,Ringsted Dagmarskolen,C_Thomas_Vangsaa,Thomas Vangsaa,Det Konservative Folkeparti,15
+Ringsted,6,Ringsted Dagmarskolen,C_Pia_Thøgersen,Pia Thøgersen,Det Konservative Folkeparti,5
+Ringsted,6,Ringsted Dagmarskolen,C_Benjamin_Pedersen,Benjamin Pedersen,Det Konservative Folkeparti,94
+Ringsted,6,Ringsted Dagmarskolen,C_Mette_Sjøblom_Skals,Mette Sjøblom Skals,Det Konservative Folkeparti,4
+Ringsted,6,Ringsted Dagmarskolen,C_Ole_Keinicke_Christensen,Ole Keinicke Christensen,Det Konservative Folkeparti,0
+Ringsted,6,Ringsted Dagmarskolen,C_Karin_Egeberg,Karin Egeberg,Det Konservative Folkeparti,1
+Ringsted,6,Ringsted Dagmarskolen,C_Peter_Fisker,Peter Fisker,Det Konservative Folkeparti,2
+Ringsted,6,Ringsted Dagmarskolen,C_Lotte_Holmqvist,Lotte Holmqvist,Det Konservative Folkeparti,1
+Ringsted,6,Ringsted Dagmarskolen,C_Jørgen_Sparring,Jørgen Sparring,Det Konservative Folkeparti,6
+Ringsted,6,Ringsted Dagmarskolen,C_Mette_K._Millard,Mette K. Millard,Det Konservative Folkeparti,0
+Ringsted,6,Ringsted Dagmarskolen,C_Jan_M._Johansen,Jan M. Johansen,Det Konservative Folkeparti,11
+Ringsted,6,Ringsted Dagmarskolen,C_Lene_Wøhlk,Lene Wøhlk,Det Konservative Folkeparti,2
+Ringsted,6,Ringsted Dagmarskolen,C_Jonatan_Nielsen,Jonatan Nielsen,Det Konservative Folkeparti,7
+Ringsted,6,Ringsted Dagmarskolen,C_Benedikte_B._Rolighed,Benedikte B. Rolighed,Det Konservative Folkeparti,5
+Ringsted,6,Ringsted Dagmarskolen,D_Listestemmer,Listestemmer,Nye Borgerlige,45
+Ringsted,6,Ringsted Dagmarskolen,"D_Claus_Bedemann,_Ringsted","Claus Bedemann, Ringsted",Nye Borgerlige,39
+Ringsted,6,Ringsted Dagmarskolen,"D_K.J._Nordman,_Benløse","K.J. Nordman, Benløse",Nye Borgerlige,3
+Ringsted,6,Ringsted Dagmarskolen,"D_Kenneth_Nielsen,_Tåstrup","Kenneth Nielsen, Tåstrup",Nye Borgerlige,2
+Ringsted,6,Ringsted Dagmarskolen,"D_Jan_Gammelgaard,_Benløse","Jan Gammelgaard, Benløse",Nye Borgerlige,3
+Ringsted,6,Ringsted Dagmarskolen,"D_Thurid_Joensen,_Sneslev","Thurid Joensen, Sneslev",Nye Borgerlige,1
+Ringsted,6,Ringsted Dagmarskolen,"D_Leif_Nebbelunde,_Benløse","Leif Nebbelunde, Benløse",Nye Borgerlige,4
+Ringsted,6,Ringsted Dagmarskolen,"D_Charlotte_Lorenzen,_Ringsted","Charlotte Lorenzen, Ringsted",Nye Borgerlige,10
+Ringsted,6,Ringsted Dagmarskolen,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,79
+Ringsted,6,Ringsted Dagmarskolen,F_Britta_Nielsen,Britta Nielsen,SF - Socialistisk Folkeparti,82
+Ringsted,6,Ringsted Dagmarskolen,F_Lene_Reffstrup,Lene Reffstrup,SF - Socialistisk Folkeparti,45
+Ringsted,6,Ringsted Dagmarskolen,F_Peter_Helmersen,Peter Helmersen,SF - Socialistisk Folkeparti,4
+Ringsted,6,Ringsted Dagmarskolen,F_Anne_Marie_Østergaard,Anne Marie Østergaard,SF - Socialistisk Folkeparti,26
+Ringsted,6,Ringsted Dagmarskolen,F_Charlie_Saglicak,Charlie Saglicak,SF - Socialistisk Folkeparti,10
+Ringsted,6,Ringsted Dagmarskolen,F_Erling_Jacobsen,Erling Jacobsen,SF - Socialistisk Folkeparti,9
+Ringsted,6,Ringsted Dagmarskolen,F_Birgit_Lindqvist,Birgit Lindqvist,SF - Socialistisk Folkeparti,8
+Ringsted,6,Ringsted Dagmarskolen,F_Birgitte_Ottosen,Birgitte Ottosen,SF - Socialistisk Folkeparti,2
+Ringsted,6,Ringsted Dagmarskolen,I_Listestemmer,Listestemmer,Liberal Alliance,5
+Ringsted,6,Ringsted Dagmarskolen,I_Henrik_Thomsen,Henrik Thomsen,Liberal Alliance,7
+Ringsted,6,Ringsted Dagmarskolen,I_Lotte_Hansen,Lotte Hansen,Liberal Alliance,1
+Ringsted,6,Ringsted Dagmarskolen,I_Birthe_Mogensen,Birthe Mogensen,Liberal Alliance,1
+Ringsted,6,Ringsted Dagmarskolen,K_Listestemmer,Listestemmer,Kristendemokraterne,1
+Ringsted,6,Ringsted Dagmarskolen,"K_Finn_Andersen,_Kværkeby","Finn Andersen, Kværkeby",Kristendemokraterne,28
+Ringsted,6,Ringsted Dagmarskolen,"K_Roland_Capion,_Jystrup","Roland Capion, Jystrup",Kristendemokraterne,2
+Ringsted,6,Ringsted Dagmarskolen,"K_Mia_Laibjørn,_Ringsted","Mia Laibjørn, Ringsted",Kristendemokraterne,2
+Ringsted,6,Ringsted Dagmarskolen,"K_Børge_Albøg,_Ringsted","Børge Albøg, Ringsted",Kristendemokraterne,2
+Ringsted,6,Ringsted Dagmarskolen,"K_Preben_Andersen,_Fjellebro","Preben Andersen, Fjellebro",Kristendemokraterne,0
+Ringsted,6,Ringsted Dagmarskolen,"K_Holger_Nielsen,_Nordrup","Holger Nielsen, Nordrup",Kristendemokraterne,0
+Ringsted,6,Ringsted Dagmarskolen,"K_Lauritz_Rasmussen,_Ringsted","Lauritz Rasmussen, Ringsted",Kristendemokraterne,1
+Ringsted,6,Ringsted Dagmarskolen,O_Listestemmer,Listestemmer,Dansk Folkeparti,54
+Ringsted,6,Ringsted Dagmarskolen,O_Lotte_Birkestrøm,Lotte Birkestrøm,Dansk Folkeparti,28
+Ringsted,6,Ringsted Dagmarskolen,O_Ulrik_Riis,Ulrik Riis,Dansk Folkeparti,6
+Ringsted,6,Ringsted Dagmarskolen,O_Anders_Weber,Anders Weber,Dansk Folkeparti,9
+Ringsted,6,Ringsted Dagmarskolen,O_Victor_Elmeskov,Victor Elmeskov,Dansk Folkeparti,6
+Ringsted,6,Ringsted Dagmarskolen,O_Anne_Fussing,Anne Fussing,Dansk Folkeparti,5
+Ringsted,6,Ringsted Dagmarskolen,O_Sara_Maria_Greis_Jørgensen,Sara Maria Greis Jørgensen,Dansk Folkeparti,0
+Ringsted,6,Ringsted Dagmarskolen,O_Jill_Elmeskov,Jill Elmeskov,Dansk Folkeparti,1
+Ringsted,6,Ringsted Dagmarskolen,O_Søren_Magnussen,Søren Magnussen,Dansk Folkeparti,4
+Ringsted,6,Ringsted Dagmarskolen,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",67
+Ringsted,6,Ringsted Dagmarskolen,V_Henrik_Hvidesten,Henrik Hvidesten,"Venstre, Danmarks Liberale Parti",548
+Ringsted,6,Ringsted Dagmarskolen,V_Klaus_Hansen,Klaus Hansen,"Venstre, Danmarks Liberale Parti",24
+Ringsted,6,Ringsted Dagmarskolen,V_Johnny_B._L._Dahlgaard,Johnny B. L. Dahlgaard,"Venstre, Danmarks Liberale Parti",13
+Ringsted,6,Ringsted Dagmarskolen,V_Mazlum_Øz,Mazlum Øz,"Venstre, Danmarks Liberale Parti",54
+Ringsted,6,Ringsted Dagmarskolen,V_Timo_Jensen,Timo Jensen,"Venstre, Danmarks Liberale Parti",9
+Ringsted,6,Ringsted Dagmarskolen,V_Lasse_Tobias_Mølholt,Lasse Tobias Mølholt,"Venstre, Danmarks Liberale Parti",17
+Ringsted,6,Ringsted Dagmarskolen,V_Jette_Nygaard,Jette Nygaard,"Venstre, Danmarks Liberale Parti",12
+Ringsted,6,Ringsted Dagmarskolen,V_Mathias_Niemann,Mathias Niemann,"Venstre, Danmarks Liberale Parti",4
+Ringsted,6,Ringsted Dagmarskolen,V_Sune_Harild,Sune Harild,"Venstre, Danmarks Liberale Parti",4
+Ringsted,6,Ringsted Dagmarskolen,V_Lars_Olsen,Lars Olsen,"Venstre, Danmarks Liberale Parti",2
+Ringsted,6,Ringsted Dagmarskolen,V_Isabel_Nielsen,Isabel Nielsen,"Venstre, Danmarks Liberale Parti",2
+Ringsted,6,Ringsted Dagmarskolen,Æ_Listestemmer,Listestemmer,Frihedslisten,8
+Ringsted,6,Ringsted Dagmarskolen,"Æ_Kent_Nielsen,_Ringsted","Kent Nielsen, Ringsted",Frihedslisten,9
+Ringsted,6,Ringsted Dagmarskolen,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,104
+Ringsted,6,Ringsted Dagmarskolen,"Ø_Henrik_Kjær,_Ringsted","Henrik Kjær, Ringsted",Enhedslisten - De Rød-Grønne,26
+Ringsted,6,Ringsted Dagmarskolen,"Ø_Mona_Musse,_Ringsted","Mona Musse, Ringsted",Enhedslisten - De Rød-Grønne,56
+Ringsted,6,Ringsted Dagmarskolen,"Ø_Carli_Hækkerup,_Ringsted","Carli Hækkerup, Ringsted",Enhedslisten - De Rød-Grønne,22
+Ringsted,6,Ringsted Dagmarskolen,"Ø_Jonas_Palm,_Ringsted","Jonas Palm, Ringsted",Enhedslisten - De Rød-Grønne,8
+Ringsted,6,Ringsted Dagmarskolen,"Ø_Solveig_Jensen,_Ringsted","Solveig Jensen, Ringsted",Enhedslisten - De Rød-Grønne,8
+Ringsted,6,Ringsted Dagmarskolen,"Ø_Tommy_Johannessen,_Jystrup","Tommy Johannessen, Jystrup",Enhedslisten - De Rød-Grønne,2
+Ringsted,6,Ringsted Dagmarskolen,"Ø_Camilla_Nielsen-Englyst,_Hallinge","Camilla Nielsen-Englyst, Hallinge",Enhedslisten - De Rød-Grønne,1
+Ringsted,6,Ringsted Dagmarskolen,"Ø_Berit_Bruun,_Ringsted","Berit Bruun, Ringsted",Enhedslisten - De Rød-Grønne,9
+Ringsted,6,Ringsted Dagmarskolen,"Ø_Jan_Jakobsen,_Ringsted_Syd","Jan Jakobsen, Ringsted Syd",Enhedslisten - De Rød-Grønne,3
+Ringsted,8,Jystrup,A_Listestemmer,Listestemmer,Socialdemokratiet,48
+Ringsted,8,Jystrup,"A_Per_Flor,_Ringsted","Per Flor, Ringsted",Socialdemokratiet,22
+Ringsted,8,Jystrup,"A_Mette_Ahm-Petersen,_Ringsted","Mette Ahm-Petersen, Ringsted",Socialdemokratiet,31
+Ringsted,8,Jystrup,"A_Sadik_Zeki_Topcu,_Ringsted","Sadik Zeki Topcu, Ringsted",Socialdemokratiet,11
+Ringsted,8,Jystrup,"A_Sine_Reffstrup,_Ringsted","Sine Reffstrup, Ringsted",Socialdemokratiet,22
+Ringsted,8,Jystrup,"A_Benny_Christensen,_Ringsted","Benny Christensen, Ringsted",Socialdemokratiet,5
+Ringsted,8,Jystrup,"A_Mette_Lundgaard_Hansen,_Ringsted","Mette Lundgaard Hansen, Ringsted",Socialdemokratiet,1
+Ringsted,8,Jystrup,"A_Lisbeth_K._Andersen,_Ringsted","Lisbeth K. Andersen, Ringsted",Socialdemokratiet,4
+Ringsted,8,Jystrup,"A_Svend-Erik_Jakobsen,_Ringsted","Svend-Erik Jakobsen, Ringsted",Socialdemokratiet,7
+Ringsted,8,Jystrup,"A_Steffan_Rasmussen,_Ringsted","Steffan Rasmussen, Ringsted",Socialdemokratiet,0
+Ringsted,8,Jystrup,"A_Valentin_Andersen,_Ørslev","Valentin Andersen, Ørslev",Socialdemokratiet,2
+Ringsted,8,Jystrup,"A_Jens_Michael_Hansen,_Benløse","Jens Michael Hansen, Benløse",Socialdemokratiet,1
+Ringsted,8,Jystrup,"A_Flemming_Skærbæk,_Ringsted","Flemming Skærbæk, Ringsted",Socialdemokratiet,1
+Ringsted,8,Jystrup,"A_Kristian_Doose,_Høm","Kristian Doose, Høm",Socialdemokratiet,1
+Ringsted,8,Jystrup,B_Listestemmer,Listestemmer,Radikale Venstre,10
+Ringsted,8,Jystrup,B_Torben_Lollike,Torben Lollike,Radikale Venstre,21
+Ringsted,8,Jystrup,B_Jeanet_Suadicani,Jeanet Suadicani,Radikale Venstre,4
+Ringsted,8,Jystrup,B_Martin_Bork,Martin Bork,Radikale Venstre,1
+Ringsted,8,Jystrup,B_Helen_Schmidt,Helen Schmidt,Radikale Venstre,7
+Ringsted,8,Jystrup,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,41
+Ringsted,8,Jystrup,C_Andreas_Karlsen,Andreas Karlsen,Det Konservative Folkeparti,55
+Ringsted,8,Jystrup,C_Tina-Mia_Eriksen,Tina-Mia Eriksen,Det Konservative Folkeparti,19
+Ringsted,8,Jystrup,C_René_Lund_Sørensen,René Lund Sørensen,Det Konservative Folkeparti,4
+Ringsted,8,Jystrup,C_Susanne_Cornelius,Susanne Cornelius,Det Konservative Folkeparti,11
+Ringsted,8,Jystrup,C_Thomas_Vangsaa,Thomas Vangsaa,Det Konservative Folkeparti,3
+Ringsted,8,Jystrup,C_Pia_Thøgersen,Pia Thøgersen,Det Konservative Folkeparti,3
+Ringsted,8,Jystrup,C_Benjamin_Pedersen,Benjamin Pedersen,Det Konservative Folkeparti,3
+Ringsted,8,Jystrup,C_Mette_Sjøblom_Skals,Mette Sjøblom Skals,Det Konservative Folkeparti,2
+Ringsted,8,Jystrup,C_Ole_Keinicke_Christensen,Ole Keinicke Christensen,Det Konservative Folkeparti,7
+Ringsted,8,Jystrup,C_Karin_Egeberg,Karin Egeberg,Det Konservative Folkeparti,4
+Ringsted,8,Jystrup,C_Peter_Fisker,Peter Fisker,Det Konservative Folkeparti,1
+Ringsted,8,Jystrup,C_Lotte_Holmqvist,Lotte Holmqvist,Det Konservative Folkeparti,0
+Ringsted,8,Jystrup,C_Jørgen_Sparring,Jørgen Sparring,Det Konservative Folkeparti,0
+Ringsted,8,Jystrup,C_Mette_K._Millard,Mette K. Millard,Det Konservative Folkeparti,1
+Ringsted,8,Jystrup,C_Jan_M._Johansen,Jan M. Johansen,Det Konservative Folkeparti,0
+Ringsted,8,Jystrup,C_Lene_Wøhlk,Lene Wøhlk,Det Konservative Folkeparti,3
+Ringsted,8,Jystrup,C_Jonatan_Nielsen,Jonatan Nielsen,Det Konservative Folkeparti,0
+Ringsted,8,Jystrup,C_Benedikte_B._Rolighed,Benedikte B. Rolighed,Det Konservative Folkeparti,2
+Ringsted,8,Jystrup,D_Listestemmer,Listestemmer,Nye Borgerlige,6
+Ringsted,8,Jystrup,"D_Claus_Bedemann,_Ringsted","Claus Bedemann, Ringsted",Nye Borgerlige,12
+Ringsted,8,Jystrup,"D_K.J._Nordman,_Benløse","K.J. Nordman, Benløse",Nye Borgerlige,0
+Ringsted,8,Jystrup,"D_Kenneth_Nielsen,_Tåstrup","Kenneth Nielsen, Tåstrup",Nye Borgerlige,3
+Ringsted,8,Jystrup,"D_Jan_Gammelgaard,_Benløse","Jan Gammelgaard, Benløse",Nye Borgerlige,0
+Ringsted,8,Jystrup,"D_Thurid_Joensen,_Sneslev","Thurid Joensen, Sneslev",Nye Borgerlige,0
+Ringsted,8,Jystrup,"D_Leif_Nebbelunde,_Benløse","Leif Nebbelunde, Benløse",Nye Borgerlige,0
+Ringsted,8,Jystrup,"D_Charlotte_Lorenzen,_Ringsted","Charlotte Lorenzen, Ringsted",Nye Borgerlige,2
+Ringsted,8,Jystrup,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,44
+Ringsted,8,Jystrup,F_Britta_Nielsen,Britta Nielsen,SF - Socialistisk Folkeparti,56
+Ringsted,8,Jystrup,F_Lene_Reffstrup,Lene Reffstrup,SF - Socialistisk Folkeparti,11
+Ringsted,8,Jystrup,F_Peter_Helmersen,Peter Helmersen,SF - Socialistisk Folkeparti,3
+Ringsted,8,Jystrup,F_Anne_Marie_Østergaard,Anne Marie Østergaard,SF - Socialistisk Folkeparti,21
+Ringsted,8,Jystrup,F_Charlie_Saglicak,Charlie Saglicak,SF - Socialistisk Folkeparti,4
+Ringsted,8,Jystrup,F_Erling_Jacobsen,Erling Jacobsen,SF - Socialistisk Folkeparti,6
+Ringsted,8,Jystrup,F_Birgit_Lindqvist,Birgit Lindqvist,SF - Socialistisk Folkeparti,5
+Ringsted,8,Jystrup,F_Birgitte_Ottosen,Birgitte Ottosen,SF - Socialistisk Folkeparti,3
+Ringsted,8,Jystrup,I_Listestemmer,Listestemmer,Liberal Alliance,3
+Ringsted,8,Jystrup,I_Henrik_Thomsen,Henrik Thomsen,Liberal Alliance,4
+Ringsted,8,Jystrup,I_Lotte_Hansen,Lotte Hansen,Liberal Alliance,2
+Ringsted,8,Jystrup,I_Birthe_Mogensen,Birthe Mogensen,Liberal Alliance,0
+Ringsted,8,Jystrup,K_Listestemmer,Listestemmer,Kristendemokraterne,1
+Ringsted,8,Jystrup,"K_Finn_Andersen,_Kværkeby","Finn Andersen, Kværkeby",Kristendemokraterne,18
+Ringsted,8,Jystrup,"K_Roland_Capion,_Jystrup","Roland Capion, Jystrup",Kristendemokraterne,9
+Ringsted,8,Jystrup,"K_Mia_Laibjørn,_Ringsted","Mia Laibjørn, Ringsted",Kristendemokraterne,0
+Ringsted,8,Jystrup,"K_Børge_Albøg,_Ringsted","Børge Albøg, Ringsted",Kristendemokraterne,0
+Ringsted,8,Jystrup,"K_Preben_Andersen,_Fjellebro","Preben Andersen, Fjellebro",Kristendemokraterne,0
+Ringsted,8,Jystrup,"K_Holger_Nielsen,_Nordrup","Holger Nielsen, Nordrup",Kristendemokraterne,0
+Ringsted,8,Jystrup,"K_Lauritz_Rasmussen,_Ringsted","Lauritz Rasmussen, Ringsted",Kristendemokraterne,0
+Ringsted,8,Jystrup,O_Listestemmer,Listestemmer,Dansk Folkeparti,14
+Ringsted,8,Jystrup,O_Lotte_Birkestrøm,Lotte Birkestrøm,Dansk Folkeparti,8
+Ringsted,8,Jystrup,O_Ulrik_Riis,Ulrik Riis,Dansk Folkeparti,3
+Ringsted,8,Jystrup,O_Anders_Weber,Anders Weber,Dansk Folkeparti,2
+Ringsted,8,Jystrup,O_Victor_Elmeskov,Victor Elmeskov,Dansk Folkeparti,0
+Ringsted,8,Jystrup,O_Anne_Fussing,Anne Fussing,Dansk Folkeparti,0
+Ringsted,8,Jystrup,O_Sara_Maria_Greis_Jørgensen,Sara Maria Greis Jørgensen,Dansk Folkeparti,1
+Ringsted,8,Jystrup,O_Jill_Elmeskov,Jill Elmeskov,Dansk Folkeparti,0
+Ringsted,8,Jystrup,O_Søren_Magnussen,Søren Magnussen,Dansk Folkeparti,0
+Ringsted,8,Jystrup,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",34
+Ringsted,8,Jystrup,V_Henrik_Hvidesten,Henrik Hvidesten,"Venstre, Danmarks Liberale Parti",109
+Ringsted,8,Jystrup,V_Klaus_Hansen,Klaus Hansen,"Venstre, Danmarks Liberale Parti",11
+Ringsted,8,Jystrup,V_Johnny_B._L._Dahlgaard,Johnny B. L. Dahlgaard,"Venstre, Danmarks Liberale Parti",1
+Ringsted,8,Jystrup,V_Mazlum_Øz,Mazlum Øz,"Venstre, Danmarks Liberale Parti",0
+Ringsted,8,Jystrup,V_Timo_Jensen,Timo Jensen,"Venstre, Danmarks Liberale Parti",2
+Ringsted,8,Jystrup,V_Lasse_Tobias_Mølholt,Lasse Tobias Mølholt,"Venstre, Danmarks Liberale Parti",1
+Ringsted,8,Jystrup,V_Jette_Nygaard,Jette Nygaard,"Venstre, Danmarks Liberale Parti",3
+Ringsted,8,Jystrup,V_Mathias_Niemann,Mathias Niemann,"Venstre, Danmarks Liberale Parti",3
+Ringsted,8,Jystrup,V_Sune_Harild,Sune Harild,"Venstre, Danmarks Liberale Parti",1
+Ringsted,8,Jystrup,V_Lars_Olsen,Lars Olsen,"Venstre, Danmarks Liberale Parti",0
+Ringsted,8,Jystrup,V_Isabel_Nielsen,Isabel Nielsen,"Venstre, Danmarks Liberale Parti",1
+Ringsted,8,Jystrup,Æ_Listestemmer,Listestemmer,Frihedslisten,2
+Ringsted,8,Jystrup,"Æ_Kent_Nielsen,_Ringsted","Kent Nielsen, Ringsted",Frihedslisten,2
+Ringsted,8,Jystrup,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,48
+Ringsted,8,Jystrup,"Ø_Henrik_Kjær,_Ringsted","Henrik Kjær, Ringsted",Enhedslisten - De Rød-Grønne,8
+Ringsted,8,Jystrup,"Ø_Mona_Musse,_Ringsted","Mona Musse, Ringsted",Enhedslisten - De Rød-Grønne,16
+Ringsted,8,Jystrup,"Ø_Carli_Hækkerup,_Ringsted","Carli Hækkerup, Ringsted",Enhedslisten - De Rød-Grønne,10
+Ringsted,8,Jystrup,"Ø_Jonas_Palm,_Ringsted","Jonas Palm, Ringsted",Enhedslisten - De Rød-Grønne,5
+Ringsted,8,Jystrup,"Ø_Solveig_Jensen,_Ringsted","Solveig Jensen, Ringsted",Enhedslisten - De Rød-Grønne,7
+Ringsted,8,Jystrup,"Ø_Tommy_Johannessen,_Jystrup","Tommy Johannessen, Jystrup",Enhedslisten - De Rød-Grønne,34
+Ringsted,8,Jystrup,"Ø_Camilla_Nielsen-Englyst,_Hallinge","Camilla Nielsen-Englyst, Hallinge",Enhedslisten - De Rød-Grønne,4
+Ringsted,8,Jystrup,"Ø_Berit_Bruun,_Ringsted","Berit Bruun, Ringsted",Enhedslisten - De Rød-Grønne,2
+Ringsted,8,Jystrup,"Ø_Jan_Jakobsen,_Ringsted_Syd","Jan Jakobsen, Ringsted Syd",Enhedslisten - De Rød-Grønne,1
+Ringsted,9,Kværkeby,A_Listestemmer,Listestemmer,Socialdemokratiet,17
+Ringsted,9,Kværkeby,"A_Per_Flor,_Ringsted","Per Flor, Ringsted",Socialdemokratiet,28
+Ringsted,9,Kværkeby,"A_Mette_Ahm-Petersen,_Ringsted","Mette Ahm-Petersen, Ringsted",Socialdemokratiet,11
+Ringsted,9,Kværkeby,"A_Sadik_Zeki_Topcu,_Ringsted","Sadik Zeki Topcu, Ringsted",Socialdemokratiet,0
+Ringsted,9,Kværkeby,"A_Sine_Reffstrup,_Ringsted","Sine Reffstrup, Ringsted",Socialdemokratiet,11
+Ringsted,9,Kværkeby,"A_Benny_Christensen,_Ringsted","Benny Christensen, Ringsted",Socialdemokratiet,4
+Ringsted,9,Kværkeby,"A_Mette_Lundgaard_Hansen,_Ringsted","Mette Lundgaard Hansen, Ringsted",Socialdemokratiet,5
+Ringsted,9,Kværkeby,"A_Lisbeth_K._Andersen,_Ringsted","Lisbeth K. Andersen, Ringsted",Socialdemokratiet,3
+Ringsted,9,Kværkeby,"A_Svend-Erik_Jakobsen,_Ringsted","Svend-Erik Jakobsen, Ringsted",Socialdemokratiet,1
+Ringsted,9,Kværkeby,"A_Steffan_Rasmussen,_Ringsted","Steffan Rasmussen, Ringsted",Socialdemokratiet,0
+Ringsted,9,Kværkeby,"A_Valentin_Andersen,_Ørslev","Valentin Andersen, Ørslev",Socialdemokratiet,1
+Ringsted,9,Kværkeby,"A_Jens_Michael_Hansen,_Benløse","Jens Michael Hansen, Benløse",Socialdemokratiet,0
+Ringsted,9,Kværkeby,"A_Flemming_Skærbæk,_Ringsted","Flemming Skærbæk, Ringsted",Socialdemokratiet,0
+Ringsted,9,Kværkeby,"A_Kristian_Doose,_Høm","Kristian Doose, Høm",Socialdemokratiet,0
+Ringsted,9,Kværkeby,B_Listestemmer,Listestemmer,Radikale Venstre,2
+Ringsted,9,Kværkeby,B_Torben_Lollike,Torben Lollike,Radikale Venstre,4
+Ringsted,9,Kværkeby,B_Jeanet_Suadicani,Jeanet Suadicani,Radikale Venstre,0
+Ringsted,9,Kværkeby,B_Martin_Bork,Martin Bork,Radikale Venstre,0
+Ringsted,9,Kværkeby,B_Helen_Schmidt,Helen Schmidt,Radikale Venstre,7
+Ringsted,9,Kværkeby,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,22
+Ringsted,9,Kværkeby,C_Andreas_Karlsen,Andreas Karlsen,Det Konservative Folkeparti,212
+Ringsted,9,Kværkeby,C_Tina-Mia_Eriksen,Tina-Mia Eriksen,Det Konservative Folkeparti,11
+Ringsted,9,Kværkeby,C_René_Lund_Sørensen,René Lund Sørensen,Det Konservative Folkeparti,0
+Ringsted,9,Kværkeby,C_Susanne_Cornelius,Susanne Cornelius,Det Konservative Folkeparti,6
+Ringsted,9,Kværkeby,C_Thomas_Vangsaa,Thomas Vangsaa,Det Konservative Folkeparti,3
+Ringsted,9,Kværkeby,C_Pia_Thøgersen,Pia Thøgersen,Det Konservative Folkeparti,11
+Ringsted,9,Kværkeby,C_Benjamin_Pedersen,Benjamin Pedersen,Det Konservative Folkeparti,10
+Ringsted,9,Kværkeby,C_Mette_Sjøblom_Skals,Mette Sjøblom Skals,Det Konservative Folkeparti,1
+Ringsted,9,Kværkeby,C_Ole_Keinicke_Christensen,Ole Keinicke Christensen,Det Konservative Folkeparti,0
+Ringsted,9,Kværkeby,C_Karin_Egeberg,Karin Egeberg,Det Konservative Folkeparti,1
+Ringsted,9,Kværkeby,C_Peter_Fisker,Peter Fisker,Det Konservative Folkeparti,0
+Ringsted,9,Kværkeby,C_Lotte_Holmqvist,Lotte Holmqvist,Det Konservative Folkeparti,0
+Ringsted,9,Kværkeby,C_Jørgen_Sparring,Jørgen Sparring,Det Konservative Folkeparti,1
+Ringsted,9,Kværkeby,C_Mette_K._Millard,Mette K. Millard,Det Konservative Folkeparti,1
+Ringsted,9,Kværkeby,C_Jan_M._Johansen,Jan M. Johansen,Det Konservative Folkeparti,2
+Ringsted,9,Kværkeby,C_Lene_Wøhlk,Lene Wøhlk,Det Konservative Folkeparti,1
+Ringsted,9,Kværkeby,C_Jonatan_Nielsen,Jonatan Nielsen,Det Konservative Folkeparti,0
+Ringsted,9,Kværkeby,C_Benedikte_B._Rolighed,Benedikte B. Rolighed,Det Konservative Folkeparti,3
+Ringsted,9,Kværkeby,D_Listestemmer,Listestemmer,Nye Borgerlige,8
+Ringsted,9,Kværkeby,"D_Claus_Bedemann,_Ringsted","Claus Bedemann, Ringsted",Nye Borgerlige,10
+Ringsted,9,Kværkeby,"D_K.J._Nordman,_Benløse","K.J. Nordman, Benløse",Nye Borgerlige,2
+Ringsted,9,Kværkeby,"D_Kenneth_Nielsen,_Tåstrup","Kenneth Nielsen, Tåstrup",Nye Borgerlige,1
+Ringsted,9,Kværkeby,"D_Jan_Gammelgaard,_Benløse","Jan Gammelgaard, Benløse",Nye Borgerlige,0
+Ringsted,9,Kværkeby,"D_Thurid_Joensen,_Sneslev","Thurid Joensen, Sneslev",Nye Borgerlige,0
+Ringsted,9,Kværkeby,"D_Leif_Nebbelunde,_Benløse","Leif Nebbelunde, Benløse",Nye Borgerlige,2
+Ringsted,9,Kværkeby,"D_Charlotte_Lorenzen,_Ringsted","Charlotte Lorenzen, Ringsted",Nye Borgerlige,2
+Ringsted,9,Kværkeby,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,12
+Ringsted,9,Kværkeby,F_Britta_Nielsen,Britta Nielsen,SF - Socialistisk Folkeparti,5
+Ringsted,9,Kværkeby,F_Lene_Reffstrup,Lene Reffstrup,SF - Socialistisk Folkeparti,1
+Ringsted,9,Kværkeby,F_Peter_Helmersen,Peter Helmersen,SF - Socialistisk Folkeparti,1
+Ringsted,9,Kværkeby,F_Anne_Marie_Østergaard,Anne Marie Østergaard,SF - Socialistisk Folkeparti,3
+Ringsted,9,Kværkeby,F_Charlie_Saglicak,Charlie Saglicak,SF - Socialistisk Folkeparti,1
+Ringsted,9,Kværkeby,F_Erling_Jacobsen,Erling Jacobsen,SF - Socialistisk Folkeparti,0
+Ringsted,9,Kværkeby,F_Birgit_Lindqvist,Birgit Lindqvist,SF - Socialistisk Folkeparti,1
+Ringsted,9,Kværkeby,F_Birgitte_Ottosen,Birgitte Ottosen,SF - Socialistisk Folkeparti,0
+Ringsted,9,Kværkeby,I_Listestemmer,Listestemmer,Liberal Alliance,1
+Ringsted,9,Kværkeby,I_Henrik_Thomsen,Henrik Thomsen,Liberal Alliance,0
+Ringsted,9,Kværkeby,I_Lotte_Hansen,Lotte Hansen,Liberal Alliance,0
+Ringsted,9,Kværkeby,I_Birthe_Mogensen,Birthe Mogensen,Liberal Alliance,0
+Ringsted,9,Kværkeby,K_Listestemmer,Listestemmer,Kristendemokraterne,0
+Ringsted,9,Kværkeby,"K_Finn_Andersen,_Kværkeby","Finn Andersen, Kværkeby",Kristendemokraterne,103
+Ringsted,9,Kværkeby,"K_Roland_Capion,_Jystrup","Roland Capion, Jystrup",Kristendemokraterne,1
+Ringsted,9,Kværkeby,"K_Mia_Laibjørn,_Ringsted","Mia Laibjørn, Ringsted",Kristendemokraterne,1
+Ringsted,9,Kværkeby,"K_Børge_Albøg,_Ringsted","Børge Albøg, Ringsted",Kristendemokraterne,1
+Ringsted,9,Kværkeby,"K_Preben_Andersen,_Fjellebro","Preben Andersen, Fjellebro",Kristendemokraterne,2
+Ringsted,9,Kværkeby,"K_Holger_Nielsen,_Nordrup","Holger Nielsen, Nordrup",Kristendemokraterne,0
+Ringsted,9,Kværkeby,"K_Lauritz_Rasmussen,_Ringsted","Lauritz Rasmussen, Ringsted",Kristendemokraterne,0
+Ringsted,9,Kværkeby,O_Listestemmer,Listestemmer,Dansk Folkeparti,9
+Ringsted,9,Kværkeby,O_Lotte_Birkestrøm,Lotte Birkestrøm,Dansk Folkeparti,7
+Ringsted,9,Kværkeby,O_Ulrik_Riis,Ulrik Riis,Dansk Folkeparti,1
+Ringsted,9,Kværkeby,O_Anders_Weber,Anders Weber,Dansk Folkeparti,1
+Ringsted,9,Kværkeby,O_Victor_Elmeskov,Victor Elmeskov,Dansk Folkeparti,0
+Ringsted,9,Kværkeby,O_Anne_Fussing,Anne Fussing,Dansk Folkeparti,2
+Ringsted,9,Kværkeby,O_Sara_Maria_Greis_Jørgensen,Sara Maria Greis Jørgensen,Dansk Folkeparti,2
+Ringsted,9,Kværkeby,O_Jill_Elmeskov,Jill Elmeskov,Dansk Folkeparti,0
+Ringsted,9,Kværkeby,O_Søren_Magnussen,Søren Magnussen,Dansk Folkeparti,0
+Ringsted,9,Kværkeby,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",19
+Ringsted,9,Kværkeby,V_Henrik_Hvidesten,Henrik Hvidesten,"Venstre, Danmarks Liberale Parti",59
+Ringsted,9,Kværkeby,V_Klaus_Hansen,Klaus Hansen,"Venstre, Danmarks Liberale Parti",9
+Ringsted,9,Kværkeby,V_Johnny_B._L._Dahlgaard,Johnny B. L. Dahlgaard,"Venstre, Danmarks Liberale Parti",1
+Ringsted,9,Kværkeby,V_Mazlum_Øz,Mazlum Øz,"Venstre, Danmarks Liberale Parti",0
+Ringsted,9,Kværkeby,V_Timo_Jensen,Timo Jensen,"Venstre, Danmarks Liberale Parti",3
+Ringsted,9,Kværkeby,V_Lasse_Tobias_Mølholt,Lasse Tobias Mølholt,"Venstre, Danmarks Liberale Parti",0
+Ringsted,9,Kværkeby,V_Jette_Nygaard,Jette Nygaard,"Venstre, Danmarks Liberale Parti",6
+Ringsted,9,Kværkeby,V_Mathias_Niemann,Mathias Niemann,"Venstre, Danmarks Liberale Parti",0
+Ringsted,9,Kværkeby,V_Sune_Harild,Sune Harild,"Venstre, Danmarks Liberale Parti",0
+Ringsted,9,Kværkeby,V_Lars_Olsen,Lars Olsen,"Venstre, Danmarks Liberale Parti",0
+Ringsted,9,Kværkeby,V_Isabel_Nielsen,Isabel Nielsen,"Venstre, Danmarks Liberale Parti",1
+Ringsted,9,Kværkeby,Æ_Listestemmer,Listestemmer,Frihedslisten,0
+Ringsted,9,Kværkeby,"Æ_Kent_Nielsen,_Ringsted","Kent Nielsen, Ringsted",Frihedslisten,0
+Ringsted,9,Kværkeby,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,11
+Ringsted,9,Kværkeby,"Ø_Henrik_Kjær,_Ringsted","Henrik Kjær, Ringsted",Enhedslisten - De Rød-Grønne,3
+Ringsted,9,Kværkeby,"Ø_Mona_Musse,_Ringsted","Mona Musse, Ringsted",Enhedslisten - De Rød-Grønne,6
+Ringsted,9,Kværkeby,"Ø_Carli_Hækkerup,_Ringsted","Carli Hækkerup, Ringsted",Enhedslisten - De Rød-Grønne,3
+Ringsted,9,Kværkeby,"Ø_Jonas_Palm,_Ringsted","Jonas Palm, Ringsted",Enhedslisten - De Rød-Grønne,0
+Ringsted,9,Kværkeby,"Ø_Solveig_Jensen,_Ringsted","Solveig Jensen, Ringsted",Enhedslisten - De Rød-Grønne,0
+Ringsted,9,Kværkeby,"Ø_Tommy_Johannessen,_Jystrup","Tommy Johannessen, Jystrup",Enhedslisten - De Rød-Grønne,1
+Ringsted,9,Kværkeby,"Ø_Camilla_Nielsen-Englyst,_Hallinge","Camilla Nielsen-Englyst, Hallinge",Enhedslisten - De Rød-Grønne,1
+Ringsted,9,Kværkeby,"Ø_Berit_Bruun,_Ringsted","Berit Bruun, Ringsted",Enhedslisten - De Rød-Grønne,0
+Ringsted,9,Kværkeby,"Ø_Jan_Jakobsen,_Ringsted_Syd","Jan Jakobsen, Ringsted Syd",Enhedslisten - De Rød-Grønne,1
+Ringsted,10,Vetterslev,A_Listestemmer,Listestemmer,Socialdemokratiet,52
+Ringsted,10,Vetterslev,"A_Per_Flor,_Ringsted","Per Flor, Ringsted",Socialdemokratiet,37
+Ringsted,10,Vetterslev,"A_Mette_Ahm-Petersen,_Ringsted","Mette Ahm-Petersen, Ringsted",Socialdemokratiet,27
+Ringsted,10,Vetterslev,"A_Sadik_Zeki_Topcu,_Ringsted","Sadik Zeki Topcu, Ringsted",Socialdemokratiet,6
+Ringsted,10,Vetterslev,"A_Sine_Reffstrup,_Ringsted","Sine Reffstrup, Ringsted",Socialdemokratiet,6
+Ringsted,10,Vetterslev,"A_Benny_Christensen,_Ringsted","Benny Christensen, Ringsted",Socialdemokratiet,10
+Ringsted,10,Vetterslev,"A_Mette_Lundgaard_Hansen,_Ringsted","Mette Lundgaard Hansen, Ringsted",Socialdemokratiet,13
+Ringsted,10,Vetterslev,"A_Lisbeth_K._Andersen,_Ringsted","Lisbeth K. Andersen, Ringsted",Socialdemokratiet,5
+Ringsted,10,Vetterslev,"A_Svend-Erik_Jakobsen,_Ringsted","Svend-Erik Jakobsen, Ringsted",Socialdemokratiet,5
+Ringsted,10,Vetterslev,"A_Steffan_Rasmussen,_Ringsted","Steffan Rasmussen, Ringsted",Socialdemokratiet,0
+Ringsted,10,Vetterslev,"A_Valentin_Andersen,_Ørslev","Valentin Andersen, Ørslev",Socialdemokratiet,0
+Ringsted,10,Vetterslev,"A_Jens_Michael_Hansen,_Benløse","Jens Michael Hansen, Benløse",Socialdemokratiet,0
+Ringsted,10,Vetterslev,"A_Flemming_Skærbæk,_Ringsted","Flemming Skærbæk, Ringsted",Socialdemokratiet,1
+Ringsted,10,Vetterslev,"A_Kristian_Doose,_Høm","Kristian Doose, Høm",Socialdemokratiet,3
+Ringsted,10,Vetterslev,B_Listestemmer,Listestemmer,Radikale Venstre,7
+Ringsted,10,Vetterslev,B_Torben_Lollike,Torben Lollike,Radikale Venstre,9
+Ringsted,10,Vetterslev,B_Jeanet_Suadicani,Jeanet Suadicani,Radikale Venstre,4
+Ringsted,10,Vetterslev,B_Martin_Bork,Martin Bork,Radikale Venstre,1
+Ringsted,10,Vetterslev,B_Helen_Schmidt,Helen Schmidt,Radikale Venstre,5
+Ringsted,10,Vetterslev,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,44
+Ringsted,10,Vetterslev,C_Andreas_Karlsen,Andreas Karlsen,Det Konservative Folkeparti,80
+Ringsted,10,Vetterslev,C_Tina-Mia_Eriksen,Tina-Mia Eriksen,Det Konservative Folkeparti,7
+Ringsted,10,Vetterslev,C_René_Lund_Sørensen,René Lund Sørensen,Det Konservative Folkeparti,2
+Ringsted,10,Vetterslev,C_Susanne_Cornelius,Susanne Cornelius,Det Konservative Folkeparti,3
+Ringsted,10,Vetterslev,C_Thomas_Vangsaa,Thomas Vangsaa,Det Konservative Folkeparti,2
+Ringsted,10,Vetterslev,C_Pia_Thøgersen,Pia Thøgersen,Det Konservative Folkeparti,1
+Ringsted,10,Vetterslev,C_Benjamin_Pedersen,Benjamin Pedersen,Det Konservative Folkeparti,22
+Ringsted,10,Vetterslev,C_Mette_Sjøblom_Skals,Mette Sjøblom Skals,Det Konservative Folkeparti,2
+Ringsted,10,Vetterslev,C_Ole_Keinicke_Christensen,Ole Keinicke Christensen,Det Konservative Folkeparti,0
+Ringsted,10,Vetterslev,C_Karin_Egeberg,Karin Egeberg,Det Konservative Folkeparti,0
+Ringsted,10,Vetterslev,C_Peter_Fisker,Peter Fisker,Det Konservative Folkeparti,2
+Ringsted,10,Vetterslev,C_Lotte_Holmqvist,Lotte Holmqvist,Det Konservative Folkeparti,0
+Ringsted,10,Vetterslev,C_Jørgen_Sparring,Jørgen Sparring,Det Konservative Folkeparti,0
+Ringsted,10,Vetterslev,C_Mette_K._Millard,Mette K. Millard,Det Konservative Folkeparti,0
+Ringsted,10,Vetterslev,C_Jan_M._Johansen,Jan M. Johansen,Det Konservative Folkeparti,2
+Ringsted,10,Vetterslev,C_Lene_Wøhlk,Lene Wøhlk,Det Konservative Folkeparti,1
+Ringsted,10,Vetterslev,C_Jonatan_Nielsen,Jonatan Nielsen,Det Konservative Folkeparti,0
+Ringsted,10,Vetterslev,C_Benedikte_B._Rolighed,Benedikte B. Rolighed,Det Konservative Folkeparti,0
+Ringsted,10,Vetterslev,D_Listestemmer,Listestemmer,Nye Borgerlige,16
+Ringsted,10,Vetterslev,"D_Claus_Bedemann,_Ringsted","Claus Bedemann, Ringsted",Nye Borgerlige,18
+Ringsted,10,Vetterslev,"D_K.J._Nordman,_Benløse","K.J. Nordman, Benløse",Nye Borgerlige,0
+Ringsted,10,Vetterslev,"D_Kenneth_Nielsen,_Tåstrup","Kenneth Nielsen, Tåstrup",Nye Borgerlige,0
+Ringsted,10,Vetterslev,"D_Jan_Gammelgaard,_Benløse","Jan Gammelgaard, Benløse",Nye Borgerlige,1
+Ringsted,10,Vetterslev,"D_Thurid_Joensen,_Sneslev","Thurid Joensen, Sneslev",Nye Borgerlige,0
+Ringsted,10,Vetterslev,"D_Leif_Nebbelunde,_Benløse","Leif Nebbelunde, Benløse",Nye Borgerlige,4
+Ringsted,10,Vetterslev,"D_Charlotte_Lorenzen,_Ringsted","Charlotte Lorenzen, Ringsted",Nye Borgerlige,0
+Ringsted,10,Vetterslev,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,24
+Ringsted,10,Vetterslev,F_Britta_Nielsen,Britta Nielsen,SF - Socialistisk Folkeparti,17
+Ringsted,10,Vetterslev,F_Lene_Reffstrup,Lene Reffstrup,SF - Socialistisk Folkeparti,3
+Ringsted,10,Vetterslev,F_Peter_Helmersen,Peter Helmersen,SF - Socialistisk Folkeparti,3
+Ringsted,10,Vetterslev,F_Anne_Marie_Østergaard,Anne Marie Østergaard,SF - Socialistisk Folkeparti,9
+Ringsted,10,Vetterslev,F_Charlie_Saglicak,Charlie Saglicak,SF - Socialistisk Folkeparti,0
+Ringsted,10,Vetterslev,F_Erling_Jacobsen,Erling Jacobsen,SF - Socialistisk Folkeparti,0
+Ringsted,10,Vetterslev,F_Birgit_Lindqvist,Birgit Lindqvist,SF - Socialistisk Folkeparti,0
+Ringsted,10,Vetterslev,F_Birgitte_Ottosen,Birgitte Ottosen,SF - Socialistisk Folkeparti,2
+Ringsted,10,Vetterslev,I_Listestemmer,Listestemmer,Liberal Alliance,6
+Ringsted,10,Vetterslev,I_Henrik_Thomsen,Henrik Thomsen,Liberal Alliance,2
+Ringsted,10,Vetterslev,I_Lotte_Hansen,Lotte Hansen,Liberal Alliance,0
+Ringsted,10,Vetterslev,I_Birthe_Mogensen,Birthe Mogensen,Liberal Alliance,0
+Ringsted,10,Vetterslev,K_Listestemmer,Listestemmer,Kristendemokraterne,1
+Ringsted,10,Vetterslev,"K_Finn_Andersen,_Kværkeby","Finn Andersen, Kværkeby",Kristendemokraterne,8
+Ringsted,10,Vetterslev,"K_Roland_Capion,_Jystrup","Roland Capion, Jystrup",Kristendemokraterne,0
+Ringsted,10,Vetterslev,"K_Mia_Laibjørn,_Ringsted","Mia Laibjørn, Ringsted",Kristendemokraterne,0
+Ringsted,10,Vetterslev,"K_Børge_Albøg,_Ringsted","Børge Albøg, Ringsted",Kristendemokraterne,1
+Ringsted,10,Vetterslev,"K_Preben_Andersen,_Fjellebro","Preben Andersen, Fjellebro",Kristendemokraterne,0
+Ringsted,10,Vetterslev,"K_Holger_Nielsen,_Nordrup","Holger Nielsen, Nordrup",Kristendemokraterne,0
+Ringsted,10,Vetterslev,"K_Lauritz_Rasmussen,_Ringsted","Lauritz Rasmussen, Ringsted",Kristendemokraterne,0
+Ringsted,10,Vetterslev,O_Listestemmer,Listestemmer,Dansk Folkeparti,15
+Ringsted,10,Vetterslev,O_Lotte_Birkestrøm,Lotte Birkestrøm,Dansk Folkeparti,11
+Ringsted,10,Vetterslev,O_Ulrik_Riis,Ulrik Riis,Dansk Folkeparti,2
+Ringsted,10,Vetterslev,O_Anders_Weber,Anders Weber,Dansk Folkeparti,3
+Ringsted,10,Vetterslev,O_Victor_Elmeskov,Victor Elmeskov,Dansk Folkeparti,2
+Ringsted,10,Vetterslev,O_Anne_Fussing,Anne Fussing,Dansk Folkeparti,0
+Ringsted,10,Vetterslev,O_Sara_Maria_Greis_Jørgensen,Sara Maria Greis Jørgensen,Dansk Folkeparti,2
+Ringsted,10,Vetterslev,O_Jill_Elmeskov,Jill Elmeskov,Dansk Folkeparti,0
+Ringsted,10,Vetterslev,O_Søren_Magnussen,Søren Magnussen,Dansk Folkeparti,0
+Ringsted,10,Vetterslev,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",33
+Ringsted,10,Vetterslev,V_Henrik_Hvidesten,Henrik Hvidesten,"Venstre, Danmarks Liberale Parti",172
+Ringsted,10,Vetterslev,V_Klaus_Hansen,Klaus Hansen,"Venstre, Danmarks Liberale Parti",24
+Ringsted,10,Vetterslev,V_Johnny_B._L._Dahlgaard,Johnny B. L. Dahlgaard,"Venstre, Danmarks Liberale Parti",0
+Ringsted,10,Vetterslev,V_Mazlum_Øz,Mazlum Øz,"Venstre, Danmarks Liberale Parti",3
+Ringsted,10,Vetterslev,V_Timo_Jensen,Timo Jensen,"Venstre, Danmarks Liberale Parti",2
+Ringsted,10,Vetterslev,V_Lasse_Tobias_Mølholt,Lasse Tobias Mølholt,"Venstre, Danmarks Liberale Parti",4
+Ringsted,10,Vetterslev,V_Jette_Nygaard,Jette Nygaard,"Venstre, Danmarks Liberale Parti",4
+Ringsted,10,Vetterslev,V_Mathias_Niemann,Mathias Niemann,"Venstre, Danmarks Liberale Parti",0
+Ringsted,10,Vetterslev,V_Sune_Harild,Sune Harild,"Venstre, Danmarks Liberale Parti",0
+Ringsted,10,Vetterslev,V_Lars_Olsen,Lars Olsen,"Venstre, Danmarks Liberale Parti",0
+Ringsted,10,Vetterslev,V_Isabel_Nielsen,Isabel Nielsen,"Venstre, Danmarks Liberale Parti",1
+Ringsted,10,Vetterslev,Æ_Listestemmer,Listestemmer,Frihedslisten,1
+Ringsted,10,Vetterslev,"Æ_Kent_Nielsen,_Ringsted","Kent Nielsen, Ringsted",Frihedslisten,4
+Ringsted,10,Vetterslev,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,11
+Ringsted,10,Vetterslev,"Ø_Henrik_Kjær,_Ringsted","Henrik Kjær, Ringsted",Enhedslisten - De Rød-Grønne,6
+Ringsted,10,Vetterslev,"Ø_Mona_Musse,_Ringsted","Mona Musse, Ringsted",Enhedslisten - De Rød-Grønne,7
+Ringsted,10,Vetterslev,"Ø_Carli_Hækkerup,_Ringsted","Carli Hækkerup, Ringsted",Enhedslisten - De Rød-Grønne,0
+Ringsted,10,Vetterslev,"Ø_Jonas_Palm,_Ringsted","Jonas Palm, Ringsted",Enhedslisten - De Rød-Grønne,0
+Ringsted,10,Vetterslev,"Ø_Solveig_Jensen,_Ringsted","Solveig Jensen, Ringsted",Enhedslisten - De Rød-Grønne,2
+Ringsted,10,Vetterslev,"Ø_Tommy_Johannessen,_Jystrup","Tommy Johannessen, Jystrup",Enhedslisten - De Rød-Grønne,0
+Ringsted,10,Vetterslev,"Ø_Camilla_Nielsen-Englyst,_Hallinge","Camilla Nielsen-Englyst, Hallinge",Enhedslisten - De Rød-Grønne,1
+Ringsted,10,Vetterslev,"Ø_Berit_Bruun,_Ringsted","Berit Bruun, Ringsted",Enhedslisten - De Rød-Grønne,0
+Ringsted,10,Vetterslev,"Ø_Jan_Jakobsen,_Ringsted_Syd","Jan Jakobsen, Ringsted Syd",Enhedslisten - De Rød-Grønne,1
+Ringsted,11,Sneslev,A_Listestemmer,Listestemmer,Socialdemokratiet,32
+Ringsted,11,Sneslev,"A_Per_Flor,_Ringsted","Per Flor, Ringsted",Socialdemokratiet,12
+Ringsted,11,Sneslev,"A_Mette_Ahm-Petersen,_Ringsted","Mette Ahm-Petersen, Ringsted",Socialdemokratiet,6
+Ringsted,11,Sneslev,"A_Sadik_Zeki_Topcu,_Ringsted","Sadik Zeki Topcu, Ringsted",Socialdemokratiet,1
+Ringsted,11,Sneslev,"A_Sine_Reffstrup,_Ringsted","Sine Reffstrup, Ringsted",Socialdemokratiet,3
+Ringsted,11,Sneslev,"A_Benny_Christensen,_Ringsted","Benny Christensen, Ringsted",Socialdemokratiet,1
+Ringsted,11,Sneslev,"A_Mette_Lundgaard_Hansen,_Ringsted","Mette Lundgaard Hansen, Ringsted",Socialdemokratiet,6
+Ringsted,11,Sneslev,"A_Lisbeth_K._Andersen,_Ringsted","Lisbeth K. Andersen, Ringsted",Socialdemokratiet,3
+Ringsted,11,Sneslev,"A_Svend-Erik_Jakobsen,_Ringsted","Svend-Erik Jakobsen, Ringsted",Socialdemokratiet,1
+Ringsted,11,Sneslev,"A_Steffan_Rasmussen,_Ringsted","Steffan Rasmussen, Ringsted",Socialdemokratiet,0
+Ringsted,11,Sneslev,"A_Valentin_Andersen,_Ørslev","Valentin Andersen, Ørslev",Socialdemokratiet,1
+Ringsted,11,Sneslev,"A_Jens_Michael_Hansen,_Benløse","Jens Michael Hansen, Benløse",Socialdemokratiet,0
+Ringsted,11,Sneslev,"A_Flemming_Skærbæk,_Ringsted","Flemming Skærbæk, Ringsted",Socialdemokratiet,0
+Ringsted,11,Sneslev,"A_Kristian_Doose,_Høm","Kristian Doose, Høm",Socialdemokratiet,0
+Ringsted,11,Sneslev,B_Listestemmer,Listestemmer,Radikale Venstre,0
+Ringsted,11,Sneslev,B_Torben_Lollike,Torben Lollike,Radikale Venstre,3
+Ringsted,11,Sneslev,B_Jeanet_Suadicani,Jeanet Suadicani,Radikale Venstre,0
+Ringsted,11,Sneslev,B_Martin_Bork,Martin Bork,Radikale Venstre,0
+Ringsted,11,Sneslev,B_Helen_Schmidt,Helen Schmidt,Radikale Venstre,0
+Ringsted,11,Sneslev,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,12
+Ringsted,11,Sneslev,C_Andreas_Karlsen,Andreas Karlsen,Det Konservative Folkeparti,31
+Ringsted,11,Sneslev,C_Tina-Mia_Eriksen,Tina-Mia Eriksen,Det Konservative Folkeparti,4
+Ringsted,11,Sneslev,C_René_Lund_Sørensen,René Lund Sørensen,Det Konservative Folkeparti,1
+Ringsted,11,Sneslev,C_Susanne_Cornelius,Susanne Cornelius,Det Konservative Folkeparti,2
+Ringsted,11,Sneslev,C_Thomas_Vangsaa,Thomas Vangsaa,Det Konservative Folkeparti,3
+Ringsted,11,Sneslev,C_Pia_Thøgersen,Pia Thøgersen,Det Konservative Folkeparti,5
+Ringsted,11,Sneslev,C_Benjamin_Pedersen,Benjamin Pedersen,Det Konservative Folkeparti,8
+Ringsted,11,Sneslev,C_Mette_Sjøblom_Skals,Mette Sjøblom Skals,Det Konservative Folkeparti,1
+Ringsted,11,Sneslev,C_Ole_Keinicke_Christensen,Ole Keinicke Christensen,Det Konservative Folkeparti,0
+Ringsted,11,Sneslev,C_Karin_Egeberg,Karin Egeberg,Det Konservative Folkeparti,1
+Ringsted,11,Sneslev,C_Peter_Fisker,Peter Fisker,Det Konservative Folkeparti,1
+Ringsted,11,Sneslev,C_Lotte_Holmqvist,Lotte Holmqvist,Det Konservative Folkeparti,0
+Ringsted,11,Sneslev,C_Jørgen_Sparring,Jørgen Sparring,Det Konservative Folkeparti,0
+Ringsted,11,Sneslev,C_Mette_K._Millard,Mette K. Millard,Det Konservative Folkeparti,0
+Ringsted,11,Sneslev,C_Jan_M._Johansen,Jan M. Johansen,Det Konservative Folkeparti,0
+Ringsted,11,Sneslev,C_Lene_Wøhlk,Lene Wøhlk,Det Konservative Folkeparti,1
+Ringsted,11,Sneslev,C_Jonatan_Nielsen,Jonatan Nielsen,Det Konservative Folkeparti,0
+Ringsted,11,Sneslev,C_Benedikte_B._Rolighed,Benedikte B. Rolighed,Det Konservative Folkeparti,0
+Ringsted,11,Sneslev,D_Listestemmer,Listestemmer,Nye Borgerlige,9
+Ringsted,11,Sneslev,"D_Claus_Bedemann,_Ringsted","Claus Bedemann, Ringsted",Nye Borgerlige,6
+Ringsted,11,Sneslev,"D_K.J._Nordman,_Benløse","K.J. Nordman, Benløse",Nye Borgerlige,1
+Ringsted,11,Sneslev,"D_Kenneth_Nielsen,_Tåstrup","Kenneth Nielsen, Tåstrup",Nye Borgerlige,0
+Ringsted,11,Sneslev,"D_Jan_Gammelgaard,_Benløse","Jan Gammelgaard, Benløse",Nye Borgerlige,3
+Ringsted,11,Sneslev,"D_Thurid_Joensen,_Sneslev","Thurid Joensen, Sneslev",Nye Borgerlige,3
+Ringsted,11,Sneslev,"D_Leif_Nebbelunde,_Benløse","Leif Nebbelunde, Benløse",Nye Borgerlige,1
+Ringsted,11,Sneslev,"D_Charlotte_Lorenzen,_Ringsted","Charlotte Lorenzen, Ringsted",Nye Borgerlige,1
+Ringsted,11,Sneslev,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,14
+Ringsted,11,Sneslev,F_Britta_Nielsen,Britta Nielsen,SF - Socialistisk Folkeparti,9
+Ringsted,11,Sneslev,F_Lene_Reffstrup,Lene Reffstrup,SF - Socialistisk Folkeparti,3
+Ringsted,11,Sneslev,F_Peter_Helmersen,Peter Helmersen,SF - Socialistisk Folkeparti,0
+Ringsted,11,Sneslev,F_Anne_Marie_Østergaard,Anne Marie Østergaard,SF - Socialistisk Folkeparti,1
+Ringsted,11,Sneslev,F_Charlie_Saglicak,Charlie Saglicak,SF - Socialistisk Folkeparti,1
+Ringsted,11,Sneslev,F_Erling_Jacobsen,Erling Jacobsen,SF - Socialistisk Folkeparti,0
+Ringsted,11,Sneslev,F_Birgit_Lindqvist,Birgit Lindqvist,SF - Socialistisk Folkeparti,1
+Ringsted,11,Sneslev,F_Birgitte_Ottosen,Birgitte Ottosen,SF - Socialistisk Folkeparti,0
+Ringsted,11,Sneslev,I_Listestemmer,Listestemmer,Liberal Alliance,0
+Ringsted,11,Sneslev,I_Henrik_Thomsen,Henrik Thomsen,Liberal Alliance,6
+Ringsted,11,Sneslev,I_Lotte_Hansen,Lotte Hansen,Liberal Alliance,0
+Ringsted,11,Sneslev,I_Birthe_Mogensen,Birthe Mogensen,Liberal Alliance,0
+Ringsted,11,Sneslev,K_Listestemmer,Listestemmer,Kristendemokraterne,2
+Ringsted,11,Sneslev,"K_Finn_Andersen,_Kværkeby","Finn Andersen, Kværkeby",Kristendemokraterne,6
+Ringsted,11,Sneslev,"K_Roland_Capion,_Jystrup","Roland Capion, Jystrup",Kristendemokraterne,0
+Ringsted,11,Sneslev,"K_Mia_Laibjørn,_Ringsted","Mia Laibjørn, Ringsted",Kristendemokraterne,0
+Ringsted,11,Sneslev,"K_Børge_Albøg,_Ringsted","Børge Albøg, Ringsted",Kristendemokraterne,0
+Ringsted,11,Sneslev,"K_Preben_Andersen,_Fjellebro","Preben Andersen, Fjellebro",Kristendemokraterne,0
+Ringsted,11,Sneslev,"K_Holger_Nielsen,_Nordrup","Holger Nielsen, Nordrup",Kristendemokraterne,0
+Ringsted,11,Sneslev,"K_Lauritz_Rasmussen,_Ringsted","Lauritz Rasmussen, Ringsted",Kristendemokraterne,0
+Ringsted,11,Sneslev,O_Listestemmer,Listestemmer,Dansk Folkeparti,9
+Ringsted,11,Sneslev,O_Lotte_Birkestrøm,Lotte Birkestrøm,Dansk Folkeparti,4
+Ringsted,11,Sneslev,O_Ulrik_Riis,Ulrik Riis,Dansk Folkeparti,1
+Ringsted,11,Sneslev,O_Anders_Weber,Anders Weber,Dansk Folkeparti,1
+Ringsted,11,Sneslev,O_Victor_Elmeskov,Victor Elmeskov,Dansk Folkeparti,2
+Ringsted,11,Sneslev,O_Anne_Fussing,Anne Fussing,Dansk Folkeparti,0
+Ringsted,11,Sneslev,O_Sara_Maria_Greis_Jørgensen,Sara Maria Greis Jørgensen,Dansk Folkeparti,0
+Ringsted,11,Sneslev,O_Jill_Elmeskov,Jill Elmeskov,Dansk Folkeparti,0
+Ringsted,11,Sneslev,O_Søren_Magnussen,Søren Magnussen,Dansk Folkeparti,0
+Ringsted,11,Sneslev,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",18
+Ringsted,11,Sneslev,V_Henrik_Hvidesten,Henrik Hvidesten,"Venstre, Danmarks Liberale Parti",86
+Ringsted,11,Sneslev,V_Klaus_Hansen,Klaus Hansen,"Venstre, Danmarks Liberale Parti",4
+Ringsted,11,Sneslev,V_Johnny_B._L._Dahlgaard,Johnny B. L. Dahlgaard,"Venstre, Danmarks Liberale Parti",2
+Ringsted,11,Sneslev,V_Mazlum_Øz,Mazlum Øz,"Venstre, Danmarks Liberale Parti",0
+Ringsted,11,Sneslev,V_Timo_Jensen,Timo Jensen,"Venstre, Danmarks Liberale Parti",0
+Ringsted,11,Sneslev,V_Lasse_Tobias_Mølholt,Lasse Tobias Mølholt,"Venstre, Danmarks Liberale Parti",1
+Ringsted,11,Sneslev,V_Jette_Nygaard,Jette Nygaard,"Venstre, Danmarks Liberale Parti",6
+Ringsted,11,Sneslev,V_Mathias_Niemann,Mathias Niemann,"Venstre, Danmarks Liberale Parti",0
+Ringsted,11,Sneslev,V_Sune_Harild,Sune Harild,"Venstre, Danmarks Liberale Parti",6
+Ringsted,11,Sneslev,V_Lars_Olsen,Lars Olsen,"Venstre, Danmarks Liberale Parti",0
+Ringsted,11,Sneslev,V_Isabel_Nielsen,Isabel Nielsen,"Venstre, Danmarks Liberale Parti",2
+Ringsted,11,Sneslev,Æ_Listestemmer,Listestemmer,Frihedslisten,0
+Ringsted,11,Sneslev,"Æ_Kent_Nielsen,_Ringsted","Kent Nielsen, Ringsted",Frihedslisten,2
+Ringsted,11,Sneslev,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,8
+Ringsted,11,Sneslev,"Ø_Henrik_Kjær,_Ringsted","Henrik Kjær, Ringsted",Enhedslisten - De Rød-Grønne,1
+Ringsted,11,Sneslev,"Ø_Mona_Musse,_Ringsted","Mona Musse, Ringsted",Enhedslisten - De Rød-Grønne,6
+Ringsted,11,Sneslev,"Ø_Carli_Hækkerup,_Ringsted","Carli Hækkerup, Ringsted",Enhedslisten - De Rød-Grønne,3
+Ringsted,11,Sneslev,"Ø_Jonas_Palm,_Ringsted","Jonas Palm, Ringsted",Enhedslisten - De Rød-Grønne,0
+Ringsted,11,Sneslev,"Ø_Solveig_Jensen,_Ringsted","Solveig Jensen, Ringsted",Enhedslisten - De Rød-Grønne,2
+Ringsted,11,Sneslev,"Ø_Tommy_Johannessen,_Jystrup","Tommy Johannessen, Jystrup",Enhedslisten - De Rød-Grønne,0
+Ringsted,11,Sneslev,"Ø_Camilla_Nielsen-Englyst,_Hallinge","Camilla Nielsen-Englyst, Hallinge",Enhedslisten - De Rød-Grønne,0
+Ringsted,11,Sneslev,"Ø_Berit_Bruun,_Ringsted","Berit Bruun, Ringsted",Enhedslisten - De Rød-Grønne,0
+Ringsted,11,Sneslev,"Ø_Jan_Jakobsen,_Ringsted_Syd","Jan Jakobsen, Ringsted Syd",Enhedslisten - De Rød-Grønne,1
+Ringsted,12,Nordrup,A_Listestemmer,Listestemmer,Socialdemokratiet,41
+Ringsted,12,Nordrup,"A_Per_Flor,_Ringsted","Per Flor, Ringsted",Socialdemokratiet,34
+Ringsted,12,Nordrup,"A_Mette_Ahm-Petersen,_Ringsted","Mette Ahm-Petersen, Ringsted",Socialdemokratiet,25
+Ringsted,12,Nordrup,"A_Sadik_Zeki_Topcu,_Ringsted","Sadik Zeki Topcu, Ringsted",Socialdemokratiet,3
+Ringsted,12,Nordrup,"A_Sine_Reffstrup,_Ringsted","Sine Reffstrup, Ringsted",Socialdemokratiet,2
+Ringsted,12,Nordrup,"A_Benny_Christensen,_Ringsted","Benny Christensen, Ringsted",Socialdemokratiet,3
+Ringsted,12,Nordrup,"A_Mette_Lundgaard_Hansen,_Ringsted","Mette Lundgaard Hansen, Ringsted",Socialdemokratiet,2
+Ringsted,12,Nordrup,"A_Lisbeth_K._Andersen,_Ringsted","Lisbeth K. Andersen, Ringsted",Socialdemokratiet,4
+Ringsted,12,Nordrup,"A_Svend-Erik_Jakobsen,_Ringsted","Svend-Erik Jakobsen, Ringsted",Socialdemokratiet,2
+Ringsted,12,Nordrup,"A_Steffan_Rasmussen,_Ringsted","Steffan Rasmussen, Ringsted",Socialdemokratiet,2
+Ringsted,12,Nordrup,"A_Valentin_Andersen,_Ørslev","Valentin Andersen, Ørslev",Socialdemokratiet,1
+Ringsted,12,Nordrup,"A_Jens_Michael_Hansen,_Benløse","Jens Michael Hansen, Benløse",Socialdemokratiet,1
+Ringsted,12,Nordrup,"A_Flemming_Skærbæk,_Ringsted","Flemming Skærbæk, Ringsted",Socialdemokratiet,1
+Ringsted,12,Nordrup,"A_Kristian_Doose,_Høm","Kristian Doose, Høm",Socialdemokratiet,0
+Ringsted,12,Nordrup,B_Listestemmer,Listestemmer,Radikale Venstre,8
+Ringsted,12,Nordrup,B_Torben_Lollike,Torben Lollike,Radikale Venstre,3
+Ringsted,12,Nordrup,B_Jeanet_Suadicani,Jeanet Suadicani,Radikale Venstre,1
+Ringsted,12,Nordrup,B_Martin_Bork,Martin Bork,Radikale Venstre,0
+Ringsted,12,Nordrup,B_Helen_Schmidt,Helen Schmidt,Radikale Venstre,1
+Ringsted,12,Nordrup,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,24
+Ringsted,12,Nordrup,C_Andreas_Karlsen,Andreas Karlsen,Det Konservative Folkeparti,64
+Ringsted,12,Nordrup,C_Tina-Mia_Eriksen,Tina-Mia Eriksen,Det Konservative Folkeparti,9
+Ringsted,12,Nordrup,C_René_Lund_Sørensen,René Lund Sørensen,Det Konservative Folkeparti,0
+Ringsted,12,Nordrup,C_Susanne_Cornelius,Susanne Cornelius,Det Konservative Folkeparti,4
+Ringsted,12,Nordrup,C_Thomas_Vangsaa,Thomas Vangsaa,Det Konservative Folkeparti,4
+Ringsted,12,Nordrup,C_Pia_Thøgersen,Pia Thøgersen,Det Konservative Folkeparti,6
+Ringsted,12,Nordrup,C_Benjamin_Pedersen,Benjamin Pedersen,Det Konservative Folkeparti,6
+Ringsted,12,Nordrup,C_Mette_Sjøblom_Skals,Mette Sjøblom Skals,Det Konservative Folkeparti,2
+Ringsted,12,Nordrup,C_Ole_Keinicke_Christensen,Ole Keinicke Christensen,Det Konservative Folkeparti,0
+Ringsted,12,Nordrup,C_Karin_Egeberg,Karin Egeberg,Det Konservative Folkeparti,17
+Ringsted,12,Nordrup,C_Peter_Fisker,Peter Fisker,Det Konservative Folkeparti,1
+Ringsted,12,Nordrup,C_Lotte_Holmqvist,Lotte Holmqvist,Det Konservative Folkeparti,1
+Ringsted,12,Nordrup,C_Jørgen_Sparring,Jørgen Sparring,Det Konservative Folkeparti,0
+Ringsted,12,Nordrup,C_Mette_K._Millard,Mette K. Millard,Det Konservative Folkeparti,1
+Ringsted,12,Nordrup,C_Jan_M._Johansen,Jan M. Johansen,Det Konservative Folkeparti,2
+Ringsted,12,Nordrup,C_Lene_Wøhlk,Lene Wøhlk,Det Konservative Folkeparti,5
+Ringsted,12,Nordrup,C_Jonatan_Nielsen,Jonatan Nielsen,Det Konservative Folkeparti,0
+Ringsted,12,Nordrup,C_Benedikte_B._Rolighed,Benedikte B. Rolighed,Det Konservative Folkeparti,4
+Ringsted,12,Nordrup,D_Listestemmer,Listestemmer,Nye Borgerlige,23
+Ringsted,12,Nordrup,"D_Claus_Bedemann,_Ringsted","Claus Bedemann, Ringsted",Nye Borgerlige,21
+Ringsted,12,Nordrup,"D_K.J._Nordman,_Benløse","K.J. Nordman, Benløse",Nye Borgerlige,4
+Ringsted,12,Nordrup,"D_Kenneth_Nielsen,_Tåstrup","Kenneth Nielsen, Tåstrup",Nye Borgerlige,1
+Ringsted,12,Nordrup,"D_Jan_Gammelgaard,_Benløse","Jan Gammelgaard, Benløse",Nye Borgerlige,0
+Ringsted,12,Nordrup,"D_Thurid_Joensen,_Sneslev","Thurid Joensen, Sneslev",Nye Borgerlige,0
+Ringsted,12,Nordrup,"D_Leif_Nebbelunde,_Benløse","Leif Nebbelunde, Benløse",Nye Borgerlige,0
+Ringsted,12,Nordrup,"D_Charlotte_Lorenzen,_Ringsted","Charlotte Lorenzen, Ringsted",Nye Borgerlige,3
+Ringsted,12,Nordrup,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,16
+Ringsted,12,Nordrup,F_Britta_Nielsen,Britta Nielsen,SF - Socialistisk Folkeparti,14
+Ringsted,12,Nordrup,F_Lene_Reffstrup,Lene Reffstrup,SF - Socialistisk Folkeparti,4
+Ringsted,12,Nordrup,F_Peter_Helmersen,Peter Helmersen,SF - Socialistisk Folkeparti,2
+Ringsted,12,Nordrup,F_Anne_Marie_Østergaard,Anne Marie Østergaard,SF - Socialistisk Folkeparti,4
+Ringsted,12,Nordrup,F_Charlie_Saglicak,Charlie Saglicak,SF - Socialistisk Folkeparti,1
+Ringsted,12,Nordrup,F_Erling_Jacobsen,Erling Jacobsen,SF - Socialistisk Folkeparti,1
+Ringsted,12,Nordrup,F_Birgit_Lindqvist,Birgit Lindqvist,SF - Socialistisk Folkeparti,1
+Ringsted,12,Nordrup,F_Birgitte_Ottosen,Birgitte Ottosen,SF - Socialistisk Folkeparti,1
+Ringsted,12,Nordrup,I_Listestemmer,Listestemmer,Liberal Alliance,3
+Ringsted,12,Nordrup,I_Henrik_Thomsen,Henrik Thomsen,Liberal Alliance,0
+Ringsted,12,Nordrup,I_Lotte_Hansen,Lotte Hansen,Liberal Alliance,0
+Ringsted,12,Nordrup,I_Birthe_Mogensen,Birthe Mogensen,Liberal Alliance,5
+Ringsted,12,Nordrup,K_Listestemmer,Listestemmer,Kristendemokraterne,1
+Ringsted,12,Nordrup,"K_Finn_Andersen,_Kværkeby","Finn Andersen, Kværkeby",Kristendemokraterne,5
+Ringsted,12,Nordrup,"K_Roland_Capion,_Jystrup","Roland Capion, Jystrup",Kristendemokraterne,1
+Ringsted,12,Nordrup,"K_Mia_Laibjørn,_Ringsted","Mia Laibjørn, Ringsted",Kristendemokraterne,0
+Ringsted,12,Nordrup,"K_Børge_Albøg,_Ringsted","Børge Albøg, Ringsted",Kristendemokraterne,1
+Ringsted,12,Nordrup,"K_Preben_Andersen,_Fjellebro","Preben Andersen, Fjellebro",Kristendemokraterne,0
+Ringsted,12,Nordrup,"K_Holger_Nielsen,_Nordrup","Holger Nielsen, Nordrup",Kristendemokraterne,4
+Ringsted,12,Nordrup,"K_Lauritz_Rasmussen,_Ringsted","Lauritz Rasmussen, Ringsted",Kristendemokraterne,0
+Ringsted,12,Nordrup,O_Listestemmer,Listestemmer,Dansk Folkeparti,9
+Ringsted,12,Nordrup,O_Lotte_Birkestrøm,Lotte Birkestrøm,Dansk Folkeparti,5
+Ringsted,12,Nordrup,O_Ulrik_Riis,Ulrik Riis,Dansk Folkeparti,1
+Ringsted,12,Nordrup,O_Anders_Weber,Anders Weber,Dansk Folkeparti,7
+Ringsted,12,Nordrup,O_Victor_Elmeskov,Victor Elmeskov,Dansk Folkeparti,0
+Ringsted,12,Nordrup,O_Anne_Fussing,Anne Fussing,Dansk Folkeparti,1
+Ringsted,12,Nordrup,O_Sara_Maria_Greis_Jørgensen,Sara Maria Greis Jørgensen,Dansk Folkeparti,1
+Ringsted,12,Nordrup,O_Jill_Elmeskov,Jill Elmeskov,Dansk Folkeparti,0
+Ringsted,12,Nordrup,O_Søren_Magnussen,Søren Magnussen,Dansk Folkeparti,0
+Ringsted,12,Nordrup,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",24
+Ringsted,12,Nordrup,V_Henrik_Hvidesten,Henrik Hvidesten,"Venstre, Danmarks Liberale Parti",107
+Ringsted,12,Nordrup,V_Klaus_Hansen,Klaus Hansen,"Venstre, Danmarks Liberale Parti",9
+Ringsted,12,Nordrup,V_Johnny_B._L._Dahlgaard,Johnny B. L. Dahlgaard,"Venstre, Danmarks Liberale Parti",4
+Ringsted,12,Nordrup,V_Mazlum_Øz,Mazlum Øz,"Venstre, Danmarks Liberale Parti",0
+Ringsted,12,Nordrup,V_Timo_Jensen,Timo Jensen,"Venstre, Danmarks Liberale Parti",0
+Ringsted,12,Nordrup,V_Lasse_Tobias_Mølholt,Lasse Tobias Mølholt,"Venstre, Danmarks Liberale Parti",1
+Ringsted,12,Nordrup,V_Jette_Nygaard,Jette Nygaard,"Venstre, Danmarks Liberale Parti",5
+Ringsted,12,Nordrup,V_Mathias_Niemann,Mathias Niemann,"Venstre, Danmarks Liberale Parti",0
+Ringsted,12,Nordrup,V_Sune_Harild,Sune Harild,"Venstre, Danmarks Liberale Parti",1
+Ringsted,12,Nordrup,V_Lars_Olsen,Lars Olsen,"Venstre, Danmarks Liberale Parti",3
+Ringsted,12,Nordrup,V_Isabel_Nielsen,Isabel Nielsen,"Venstre, Danmarks Liberale Parti",1
+Ringsted,12,Nordrup,Æ_Listestemmer,Listestemmer,Frihedslisten,0
+Ringsted,12,Nordrup,"Æ_Kent_Nielsen,_Ringsted","Kent Nielsen, Ringsted",Frihedslisten,2
+Ringsted,12,Nordrup,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,21
+Ringsted,12,Nordrup,"Ø_Henrik_Kjær,_Ringsted","Henrik Kjær, Ringsted",Enhedslisten - De Rød-Grønne,3
+Ringsted,12,Nordrup,"Ø_Mona_Musse,_Ringsted","Mona Musse, Ringsted",Enhedslisten - De Rød-Grønne,5
+Ringsted,12,Nordrup,"Ø_Carli_Hækkerup,_Ringsted","Carli Hækkerup, Ringsted",Enhedslisten - De Rød-Grønne,3
+Ringsted,12,Nordrup,"Ø_Jonas_Palm,_Ringsted","Jonas Palm, Ringsted",Enhedslisten - De Rød-Grønne,2
+Ringsted,12,Nordrup,"Ø_Solveig_Jensen,_Ringsted","Solveig Jensen, Ringsted",Enhedslisten - De Rød-Grønne,3
+Ringsted,12,Nordrup,"Ø_Tommy_Johannessen,_Jystrup","Tommy Johannessen, Jystrup",Enhedslisten - De Rød-Grønne,2
+Ringsted,12,Nordrup,"Ø_Camilla_Nielsen-Englyst,_Hallinge","Camilla Nielsen-Englyst, Hallinge",Enhedslisten - De Rød-Grønne,1
+Ringsted,12,Nordrup,"Ø_Berit_Bruun,_Ringsted","Berit Bruun, Ringsted",Enhedslisten - De Rød-Grønne,0
+Ringsted,12,Nordrup,"Ø_Jan_Jakobsen,_Ringsted_Syd","Jan Jakobsen, Ringsted Syd",Enhedslisten - De Rød-Grønne,1
+Ringsted,13,Vigersted,A_Listestemmer,Listestemmer,Socialdemokratiet,52
+Ringsted,13,Vigersted,"A_Per_Flor,_Ringsted","Per Flor, Ringsted",Socialdemokratiet,28
+Ringsted,13,Vigersted,"A_Mette_Ahm-Petersen,_Ringsted","Mette Ahm-Petersen, Ringsted",Socialdemokratiet,26
+Ringsted,13,Vigersted,"A_Sadik_Zeki_Topcu,_Ringsted","Sadik Zeki Topcu, Ringsted",Socialdemokratiet,5
+Ringsted,13,Vigersted,"A_Sine_Reffstrup,_Ringsted","Sine Reffstrup, Ringsted",Socialdemokratiet,11
+Ringsted,13,Vigersted,"A_Benny_Christensen,_Ringsted","Benny Christensen, Ringsted",Socialdemokratiet,3
+Ringsted,13,Vigersted,"A_Mette_Lundgaard_Hansen,_Ringsted","Mette Lundgaard Hansen, Ringsted",Socialdemokratiet,10
+Ringsted,13,Vigersted,"A_Lisbeth_K._Andersen,_Ringsted","Lisbeth K. Andersen, Ringsted",Socialdemokratiet,3
+Ringsted,13,Vigersted,"A_Svend-Erik_Jakobsen,_Ringsted","Svend-Erik Jakobsen, Ringsted",Socialdemokratiet,1
+Ringsted,13,Vigersted,"A_Steffan_Rasmussen,_Ringsted","Steffan Rasmussen, Ringsted",Socialdemokratiet,2
+Ringsted,13,Vigersted,"A_Valentin_Andersen,_Ørslev","Valentin Andersen, Ørslev",Socialdemokratiet,3
+Ringsted,13,Vigersted,"A_Jens_Michael_Hansen,_Benløse","Jens Michael Hansen, Benløse",Socialdemokratiet,0
+Ringsted,13,Vigersted,"A_Flemming_Skærbæk,_Ringsted","Flemming Skærbæk, Ringsted",Socialdemokratiet,0
+Ringsted,13,Vigersted,"A_Kristian_Doose,_Høm","Kristian Doose, Høm",Socialdemokratiet,3
+Ringsted,13,Vigersted,B_Listestemmer,Listestemmer,Radikale Venstre,3
+Ringsted,13,Vigersted,B_Torben_Lollike,Torben Lollike,Radikale Venstre,7
+Ringsted,13,Vigersted,B_Jeanet_Suadicani,Jeanet Suadicani,Radikale Venstre,4
+Ringsted,13,Vigersted,B_Martin_Bork,Martin Bork,Radikale Venstre,0
+Ringsted,13,Vigersted,B_Helen_Schmidt,Helen Schmidt,Radikale Venstre,3
+Ringsted,13,Vigersted,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,29
+Ringsted,13,Vigersted,C_Andreas_Karlsen,Andreas Karlsen,Det Konservative Folkeparti,90
+Ringsted,13,Vigersted,C_Tina-Mia_Eriksen,Tina-Mia Eriksen,Det Konservative Folkeparti,16
+Ringsted,13,Vigersted,C_René_Lund_Sørensen,René Lund Sørensen,Det Konservative Folkeparti,4
+Ringsted,13,Vigersted,C_Susanne_Cornelius,Susanne Cornelius,Det Konservative Folkeparti,1
+Ringsted,13,Vigersted,C_Thomas_Vangsaa,Thomas Vangsaa,Det Konservative Folkeparti,6
+Ringsted,13,Vigersted,C_Pia_Thøgersen,Pia Thøgersen,Det Konservative Folkeparti,4
+Ringsted,13,Vigersted,C_Benjamin_Pedersen,Benjamin Pedersen,Det Konservative Folkeparti,11
+Ringsted,13,Vigersted,C_Mette_Sjøblom_Skals,Mette Sjøblom Skals,Det Konservative Folkeparti,0
+Ringsted,13,Vigersted,C_Ole_Keinicke_Christensen,Ole Keinicke Christensen,Det Konservative Folkeparti,0
+Ringsted,13,Vigersted,C_Karin_Egeberg,Karin Egeberg,Det Konservative Folkeparti,0
+Ringsted,13,Vigersted,C_Peter_Fisker,Peter Fisker,Det Konservative Folkeparti,1
+Ringsted,13,Vigersted,C_Lotte_Holmqvist,Lotte Holmqvist,Det Konservative Folkeparti,1
+Ringsted,13,Vigersted,C_Jørgen_Sparring,Jørgen Sparring,Det Konservative Folkeparti,0
+Ringsted,13,Vigersted,C_Mette_K._Millard,Mette K. Millard,Det Konservative Folkeparti,0
+Ringsted,13,Vigersted,C_Jan_M._Johansen,Jan M. Johansen,Det Konservative Folkeparti,4
+Ringsted,13,Vigersted,C_Lene_Wøhlk,Lene Wøhlk,Det Konservative Folkeparti,1
+Ringsted,13,Vigersted,C_Jonatan_Nielsen,Jonatan Nielsen,Det Konservative Folkeparti,0
+Ringsted,13,Vigersted,C_Benedikte_B._Rolighed,Benedikte B. Rolighed,Det Konservative Folkeparti,0
+Ringsted,13,Vigersted,D_Listestemmer,Listestemmer,Nye Borgerlige,15
+Ringsted,13,Vigersted,"D_Claus_Bedemann,_Ringsted","Claus Bedemann, Ringsted",Nye Borgerlige,7
+Ringsted,13,Vigersted,"D_K.J._Nordman,_Benløse","K.J. Nordman, Benløse",Nye Borgerlige,0
+Ringsted,13,Vigersted,"D_Kenneth_Nielsen,_Tåstrup","Kenneth Nielsen, Tåstrup",Nye Borgerlige,1
+Ringsted,13,Vigersted,"D_Jan_Gammelgaard,_Benløse","Jan Gammelgaard, Benløse",Nye Borgerlige,2
+Ringsted,13,Vigersted,"D_Thurid_Joensen,_Sneslev","Thurid Joensen, Sneslev",Nye Borgerlige,0
+Ringsted,13,Vigersted,"D_Leif_Nebbelunde,_Benløse","Leif Nebbelunde, Benløse",Nye Borgerlige,1
+Ringsted,13,Vigersted,"D_Charlotte_Lorenzen,_Ringsted","Charlotte Lorenzen, Ringsted",Nye Borgerlige,2
+Ringsted,13,Vigersted,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,21
+Ringsted,13,Vigersted,F_Britta_Nielsen,Britta Nielsen,SF - Socialistisk Folkeparti,19
+Ringsted,13,Vigersted,F_Lene_Reffstrup,Lene Reffstrup,SF - Socialistisk Folkeparti,7
+Ringsted,13,Vigersted,F_Peter_Helmersen,Peter Helmersen,SF - Socialistisk Folkeparti,3
+Ringsted,13,Vigersted,F_Anne_Marie_Østergaard,Anne Marie Østergaard,SF - Socialistisk Folkeparti,2
+Ringsted,13,Vigersted,F_Charlie_Saglicak,Charlie Saglicak,SF - Socialistisk Folkeparti,2
+Ringsted,13,Vigersted,F_Erling_Jacobsen,Erling Jacobsen,SF - Socialistisk Folkeparti,9
+Ringsted,13,Vigersted,F_Birgit_Lindqvist,Birgit Lindqvist,SF - Socialistisk Folkeparti,2
+Ringsted,13,Vigersted,F_Birgitte_Ottosen,Birgitte Ottosen,SF - Socialistisk Folkeparti,4
+Ringsted,13,Vigersted,I_Listestemmer,Listestemmer,Liberal Alliance,1
+Ringsted,13,Vigersted,I_Henrik_Thomsen,Henrik Thomsen,Liberal Alliance,3
+Ringsted,13,Vigersted,I_Lotte_Hansen,Lotte Hansen,Liberal Alliance,0
+Ringsted,13,Vigersted,I_Birthe_Mogensen,Birthe Mogensen,Liberal Alliance,0
+Ringsted,13,Vigersted,K_Listestemmer,Listestemmer,Kristendemokraterne,0
+Ringsted,13,Vigersted,"K_Finn_Andersen,_Kværkeby","Finn Andersen, Kværkeby",Kristendemokraterne,13
+Ringsted,13,Vigersted,"K_Roland_Capion,_Jystrup","Roland Capion, Jystrup",Kristendemokraterne,1
+Ringsted,13,Vigersted,"K_Mia_Laibjørn,_Ringsted","Mia Laibjørn, Ringsted",Kristendemokraterne,1
+Ringsted,13,Vigersted,"K_Børge_Albøg,_Ringsted","Børge Albøg, Ringsted",Kristendemokraterne,0
+Ringsted,13,Vigersted,"K_Preben_Andersen,_Fjellebro","Preben Andersen, Fjellebro",Kristendemokraterne,0
+Ringsted,13,Vigersted,"K_Holger_Nielsen,_Nordrup","Holger Nielsen, Nordrup",Kristendemokraterne,0
+Ringsted,13,Vigersted,"K_Lauritz_Rasmussen,_Ringsted","Lauritz Rasmussen, Ringsted",Kristendemokraterne,0
+Ringsted,13,Vigersted,O_Listestemmer,Listestemmer,Dansk Folkeparti,19
+Ringsted,13,Vigersted,O_Lotte_Birkestrøm,Lotte Birkestrøm,Dansk Folkeparti,9
+Ringsted,13,Vigersted,O_Ulrik_Riis,Ulrik Riis,Dansk Folkeparti,1
+Ringsted,13,Vigersted,O_Anders_Weber,Anders Weber,Dansk Folkeparti,1
+Ringsted,13,Vigersted,O_Victor_Elmeskov,Victor Elmeskov,Dansk Folkeparti,3
+Ringsted,13,Vigersted,O_Anne_Fussing,Anne Fussing,Dansk Folkeparti,1
+Ringsted,13,Vigersted,O_Sara_Maria_Greis_Jørgensen,Sara Maria Greis Jørgensen,Dansk Folkeparti,1
+Ringsted,13,Vigersted,O_Jill_Elmeskov,Jill Elmeskov,Dansk Folkeparti,0
+Ringsted,13,Vigersted,O_Søren_Magnussen,Søren Magnussen,Dansk Folkeparti,1
+Ringsted,13,Vigersted,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",29
+Ringsted,13,Vigersted,V_Henrik_Hvidesten,Henrik Hvidesten,"Venstre, Danmarks Liberale Parti",108
+Ringsted,13,Vigersted,V_Klaus_Hansen,Klaus Hansen,"Venstre, Danmarks Liberale Parti",12
+Ringsted,13,Vigersted,V_Johnny_B._L._Dahlgaard,Johnny B. L. Dahlgaard,"Venstre, Danmarks Liberale Parti",8
+Ringsted,13,Vigersted,V_Mazlum_Øz,Mazlum Øz,"Venstre, Danmarks Liberale Parti",0
+Ringsted,13,Vigersted,V_Timo_Jensen,Timo Jensen,"Venstre, Danmarks Liberale Parti",1
+Ringsted,13,Vigersted,V_Lasse_Tobias_Mølholt,Lasse Tobias Mølholt,"Venstre, Danmarks Liberale Parti",1
+Ringsted,13,Vigersted,V_Jette_Nygaard,Jette Nygaard,"Venstre, Danmarks Liberale Parti",8
+Ringsted,13,Vigersted,V_Mathias_Niemann,Mathias Niemann,"Venstre, Danmarks Liberale Parti",0
+Ringsted,13,Vigersted,V_Sune_Harild,Sune Harild,"Venstre, Danmarks Liberale Parti",4
+Ringsted,13,Vigersted,V_Lars_Olsen,Lars Olsen,"Venstre, Danmarks Liberale Parti",0
+Ringsted,13,Vigersted,V_Isabel_Nielsen,Isabel Nielsen,"Venstre, Danmarks Liberale Parti",0
+Ringsted,13,Vigersted,Æ_Listestemmer,Listestemmer,Frihedslisten,1
+Ringsted,13,Vigersted,"Æ_Kent_Nielsen,_Ringsted","Kent Nielsen, Ringsted",Frihedslisten,1
+Ringsted,13,Vigersted,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,11
+Ringsted,13,Vigersted,"Ø_Henrik_Kjær,_Ringsted","Henrik Kjær, Ringsted",Enhedslisten - De Rød-Grønne,8
+Ringsted,13,Vigersted,"Ø_Mona_Musse,_Ringsted","Mona Musse, Ringsted",Enhedslisten - De Rød-Grønne,8
+Ringsted,13,Vigersted,"Ø_Carli_Hækkerup,_Ringsted","Carli Hækkerup, Ringsted",Enhedslisten - De Rød-Grønne,5
+Ringsted,13,Vigersted,"Ø_Jonas_Palm,_Ringsted","Jonas Palm, Ringsted",Enhedslisten - De Rød-Grønne,0
+Ringsted,13,Vigersted,"Ø_Solveig_Jensen,_Ringsted","Solveig Jensen, Ringsted",Enhedslisten - De Rød-Grønne,2
+Ringsted,13,Vigersted,"Ø_Tommy_Johannessen,_Jystrup","Tommy Johannessen, Jystrup",Enhedslisten - De Rød-Grønne,0
+Ringsted,13,Vigersted,"Ø_Camilla_Nielsen-Englyst,_Hallinge","Camilla Nielsen-Englyst, Hallinge",Enhedslisten - De Rød-Grønne,6
+Ringsted,13,Vigersted,"Ø_Berit_Bruun,_Ringsted","Berit Bruun, Ringsted",Enhedslisten - De Rød-Grønne,0
+Ringsted,13,Vigersted,"Ø_Jan_Jakobsen,_Ringsted_Syd","Jan Jakobsen, Ringsted Syd",Enhedslisten - De Rød-Grønne,0
+Ringsted,14,Ørslev,A_Listestemmer,Listestemmer,Socialdemokratiet,40
+Ringsted,14,Ørslev,"A_Per_Flor,_Ringsted","Per Flor, Ringsted",Socialdemokratiet,21
+Ringsted,14,Ørslev,"A_Mette_Ahm-Petersen,_Ringsted","Mette Ahm-Petersen, Ringsted",Socialdemokratiet,6
+Ringsted,14,Ørslev,"A_Sadik_Zeki_Topcu,_Ringsted","Sadik Zeki Topcu, Ringsted",Socialdemokratiet,2
+Ringsted,14,Ørslev,"A_Sine_Reffstrup,_Ringsted","Sine Reffstrup, Ringsted",Socialdemokratiet,2
+Ringsted,14,Ørslev,"A_Benny_Christensen,_Ringsted","Benny Christensen, Ringsted",Socialdemokratiet,2
+Ringsted,14,Ørslev,"A_Mette_Lundgaard_Hansen,_Ringsted","Mette Lundgaard Hansen, Ringsted",Socialdemokratiet,4
+Ringsted,14,Ørslev,"A_Lisbeth_K._Andersen,_Ringsted","Lisbeth K. Andersen, Ringsted",Socialdemokratiet,2
+Ringsted,14,Ørslev,"A_Svend-Erik_Jakobsen,_Ringsted","Svend-Erik Jakobsen, Ringsted",Socialdemokratiet,0
+Ringsted,14,Ørslev,"A_Steffan_Rasmussen,_Ringsted","Steffan Rasmussen, Ringsted",Socialdemokratiet,0
+Ringsted,14,Ørslev,"A_Valentin_Andersen,_Ørslev","Valentin Andersen, Ørslev",Socialdemokratiet,36
+Ringsted,14,Ørslev,"A_Jens_Michael_Hansen,_Benløse","Jens Michael Hansen, Benløse",Socialdemokratiet,0
+Ringsted,14,Ørslev,"A_Flemming_Skærbæk,_Ringsted","Flemming Skærbæk, Ringsted",Socialdemokratiet,0
+Ringsted,14,Ørslev,"A_Kristian_Doose,_Høm","Kristian Doose, Høm",Socialdemokratiet,0
+Ringsted,14,Ørslev,B_Listestemmer,Listestemmer,Radikale Venstre,4
+Ringsted,14,Ørslev,B_Torben_Lollike,Torben Lollike,Radikale Venstre,2
+Ringsted,14,Ørslev,B_Jeanet_Suadicani,Jeanet Suadicani,Radikale Venstre,2
+Ringsted,14,Ørslev,B_Martin_Bork,Martin Bork,Radikale Venstre,0
+Ringsted,14,Ørslev,B_Helen_Schmidt,Helen Schmidt,Radikale Venstre,2
+Ringsted,14,Ørslev,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,21
+Ringsted,14,Ørslev,C_Andreas_Karlsen,Andreas Karlsen,Det Konservative Folkeparti,34
+Ringsted,14,Ørslev,C_Tina-Mia_Eriksen,Tina-Mia Eriksen,Det Konservative Folkeparti,7
+Ringsted,14,Ørslev,C_René_Lund_Sørensen,René Lund Sørensen,Det Konservative Folkeparti,2
+Ringsted,14,Ørslev,C_Susanne_Cornelius,Susanne Cornelius,Det Konservative Folkeparti,1
+Ringsted,14,Ørslev,C_Thomas_Vangsaa,Thomas Vangsaa,Det Konservative Folkeparti,2
+Ringsted,14,Ørslev,C_Pia_Thøgersen,Pia Thøgersen,Det Konservative Folkeparti,4
+Ringsted,14,Ørslev,C_Benjamin_Pedersen,Benjamin Pedersen,Det Konservative Folkeparti,8
+Ringsted,14,Ørslev,C_Mette_Sjøblom_Skals,Mette Sjøblom Skals,Det Konservative Folkeparti,3
+Ringsted,14,Ørslev,C_Ole_Keinicke_Christensen,Ole Keinicke Christensen,Det Konservative Folkeparti,0
+Ringsted,14,Ørslev,C_Karin_Egeberg,Karin Egeberg,Det Konservative Folkeparti,1
+Ringsted,14,Ørslev,C_Peter_Fisker,Peter Fisker,Det Konservative Folkeparti,0
+Ringsted,14,Ørslev,C_Lotte_Holmqvist,Lotte Holmqvist,Det Konservative Folkeparti,0
+Ringsted,14,Ørslev,C_Jørgen_Sparring,Jørgen Sparring,Det Konservative Folkeparti,0
+Ringsted,14,Ørslev,C_Mette_K._Millard,Mette K. Millard,Det Konservative Folkeparti,0
+Ringsted,14,Ørslev,C_Jan_M._Johansen,Jan M. Johansen,Det Konservative Folkeparti,0
+Ringsted,14,Ørslev,C_Lene_Wøhlk,Lene Wøhlk,Det Konservative Folkeparti,0
+Ringsted,14,Ørslev,C_Jonatan_Nielsen,Jonatan Nielsen,Det Konservative Folkeparti,0
+Ringsted,14,Ørslev,C_Benedikte_B._Rolighed,Benedikte B. Rolighed,Det Konservative Folkeparti,0
+Ringsted,14,Ørslev,D_Listestemmer,Listestemmer,Nye Borgerlige,24
+Ringsted,14,Ørslev,"D_Claus_Bedemann,_Ringsted","Claus Bedemann, Ringsted",Nye Borgerlige,22
+Ringsted,14,Ørslev,"D_K.J._Nordman,_Benløse","K.J. Nordman, Benløse",Nye Borgerlige,6
+Ringsted,14,Ørslev,"D_Kenneth_Nielsen,_Tåstrup","Kenneth Nielsen, Tåstrup",Nye Borgerlige,0
+Ringsted,14,Ørslev,"D_Jan_Gammelgaard,_Benløse","Jan Gammelgaard, Benløse",Nye Borgerlige,0
+Ringsted,14,Ørslev,"D_Thurid_Joensen,_Sneslev","Thurid Joensen, Sneslev",Nye Borgerlige,1
+Ringsted,14,Ørslev,"D_Leif_Nebbelunde,_Benløse","Leif Nebbelunde, Benløse",Nye Borgerlige,0
+Ringsted,14,Ørslev,"D_Charlotte_Lorenzen,_Ringsted","Charlotte Lorenzen, Ringsted",Nye Borgerlige,5
+Ringsted,14,Ørslev,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,13
+Ringsted,14,Ørslev,F_Britta_Nielsen,Britta Nielsen,SF - Socialistisk Folkeparti,5
+Ringsted,14,Ørslev,F_Lene_Reffstrup,Lene Reffstrup,SF - Socialistisk Folkeparti,4
+Ringsted,14,Ørslev,F_Peter_Helmersen,Peter Helmersen,SF - Socialistisk Folkeparti,2
+Ringsted,14,Ørslev,F_Anne_Marie_Østergaard,Anne Marie Østergaard,SF - Socialistisk Folkeparti,1
+Ringsted,14,Ørslev,F_Charlie_Saglicak,Charlie Saglicak,SF - Socialistisk Folkeparti,0
+Ringsted,14,Ørslev,F_Erling_Jacobsen,Erling Jacobsen,SF - Socialistisk Folkeparti,0
+Ringsted,14,Ørslev,F_Birgit_Lindqvist,Birgit Lindqvist,SF - Socialistisk Folkeparti,0
+Ringsted,14,Ørslev,F_Birgitte_Ottosen,Birgitte Ottosen,SF - Socialistisk Folkeparti,1
+Ringsted,14,Ørslev,I_Listestemmer,Listestemmer,Liberal Alliance,2
+Ringsted,14,Ørslev,I_Henrik_Thomsen,Henrik Thomsen,Liberal Alliance,0
+Ringsted,14,Ørslev,I_Lotte_Hansen,Lotte Hansen,Liberal Alliance,2
+Ringsted,14,Ørslev,I_Birthe_Mogensen,Birthe Mogensen,Liberal Alliance,0
+Ringsted,14,Ørslev,K_Listestemmer,Listestemmer,Kristendemokraterne,1
+Ringsted,14,Ørslev,"K_Finn_Andersen,_Kværkeby","Finn Andersen, Kværkeby",Kristendemokraterne,6
+Ringsted,14,Ørslev,"K_Roland_Capion,_Jystrup","Roland Capion, Jystrup",Kristendemokraterne,0
+Ringsted,14,Ørslev,"K_Mia_Laibjørn,_Ringsted","Mia Laibjørn, Ringsted",Kristendemokraterne,0
+Ringsted,14,Ørslev,"K_Børge_Albøg,_Ringsted","Børge Albøg, Ringsted",Kristendemokraterne,0
+Ringsted,14,Ørslev,"K_Preben_Andersen,_Fjellebro","Preben Andersen, Fjellebro",Kristendemokraterne,0
+Ringsted,14,Ørslev,"K_Holger_Nielsen,_Nordrup","Holger Nielsen, Nordrup",Kristendemokraterne,0
+Ringsted,14,Ørslev,"K_Lauritz_Rasmussen,_Ringsted","Lauritz Rasmussen, Ringsted",Kristendemokraterne,0
+Ringsted,14,Ørslev,O_Listestemmer,Listestemmer,Dansk Folkeparti,14
+Ringsted,14,Ørslev,O_Lotte_Birkestrøm,Lotte Birkestrøm,Dansk Folkeparti,8
+Ringsted,14,Ørslev,O_Ulrik_Riis,Ulrik Riis,Dansk Folkeparti,4
+Ringsted,14,Ørslev,O_Anders_Weber,Anders Weber,Dansk Folkeparti,2
+Ringsted,14,Ørslev,O_Victor_Elmeskov,Victor Elmeskov,Dansk Folkeparti,0
+Ringsted,14,Ørslev,O_Anne_Fussing,Anne Fussing,Dansk Folkeparti,3
+Ringsted,14,Ørslev,O_Sara_Maria_Greis_Jørgensen,Sara Maria Greis Jørgensen,Dansk Folkeparti,0
+Ringsted,14,Ørslev,O_Jill_Elmeskov,Jill Elmeskov,Dansk Folkeparti,0
+Ringsted,14,Ørslev,O_Søren_Magnussen,Søren Magnussen,Dansk Folkeparti,0
+Ringsted,14,Ørslev,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",22
+Ringsted,14,Ørslev,V_Henrik_Hvidesten,Henrik Hvidesten,"Venstre, Danmarks Liberale Parti",61
+Ringsted,14,Ørslev,V_Klaus_Hansen,Klaus Hansen,"Venstre, Danmarks Liberale Parti",7
+Ringsted,14,Ørslev,V_Johnny_B._L._Dahlgaard,Johnny B. L. Dahlgaard,"Venstre, Danmarks Liberale Parti",1
+Ringsted,14,Ørslev,V_Mazlum_Øz,Mazlum Øz,"Venstre, Danmarks Liberale Parti",0
+Ringsted,14,Ørslev,V_Timo_Jensen,Timo Jensen,"Venstre, Danmarks Liberale Parti",2
+Ringsted,14,Ørslev,V_Lasse_Tobias_Mølholt,Lasse Tobias Mølholt,"Venstre, Danmarks Liberale Parti",0
+Ringsted,14,Ørslev,V_Jette_Nygaard,Jette Nygaard,"Venstre, Danmarks Liberale Parti",2
+Ringsted,14,Ørslev,V_Mathias_Niemann,Mathias Niemann,"Venstre, Danmarks Liberale Parti",1
+Ringsted,14,Ørslev,V_Sune_Harild,Sune Harild,"Venstre, Danmarks Liberale Parti",1
+Ringsted,14,Ørslev,V_Lars_Olsen,Lars Olsen,"Venstre, Danmarks Liberale Parti",0
+Ringsted,14,Ørslev,V_Isabel_Nielsen,Isabel Nielsen,"Venstre, Danmarks Liberale Parti",0
+Ringsted,14,Ørslev,Æ_Listestemmer,Listestemmer,Frihedslisten,2
+Ringsted,14,Ørslev,"Æ_Kent_Nielsen,_Ringsted","Kent Nielsen, Ringsted",Frihedslisten,3
+Ringsted,14,Ørslev,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,13
+Ringsted,14,Ørslev,"Ø_Henrik_Kjær,_Ringsted","Henrik Kjær, Ringsted",Enhedslisten - De Rød-Grønne,0
+Ringsted,14,Ørslev,"Ø_Mona_Musse,_Ringsted","Mona Musse, Ringsted",Enhedslisten - De Rød-Grønne,2
+Ringsted,14,Ørslev,"Ø_Carli_Hækkerup,_Ringsted","Carli Hækkerup, Ringsted",Enhedslisten - De Rød-Grønne,0
+Ringsted,14,Ørslev,"Ø_Jonas_Palm,_Ringsted","Jonas Palm, Ringsted",Enhedslisten - De Rød-Grønne,0
+Ringsted,14,Ørslev,"Ø_Solveig_Jensen,_Ringsted","Solveig Jensen, Ringsted",Enhedslisten - De Rød-Grønne,1
+Ringsted,14,Ørslev,"Ø_Tommy_Johannessen,_Jystrup","Tommy Johannessen, Jystrup",Enhedslisten - De Rød-Grønne,0
+Ringsted,14,Ørslev,"Ø_Camilla_Nielsen-Englyst,_Hallinge","Camilla Nielsen-Englyst, Hallinge",Enhedslisten - De Rød-Grønne,0
+Ringsted,14,Ørslev,"Ø_Berit_Bruun,_Ringsted","Berit Bruun, Ringsted",Enhedslisten - De Rød-Grønne,3
+Ringsted,14,Ørslev,"Ø_Jan_Jakobsen,_Ringsted_Syd","Jan Jakobsen, Ringsted Syd",Enhedslisten - De Rød-Grønne,0

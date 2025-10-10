@@ -1,0 +1,751 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Lejre,1,Hyllinge-Lyndby,A_Listestemmer,Listestemmer,Socialdemokratiet,144
+Lejre,1,Hyllinge-Lyndby,"A_Carsten_Rasmussen,_Kirke_Hyllinge","Carsten Rasmussen, Kirke Hyllinge",Socialdemokratiet,353
+Lejre,1,Hyllinge-Lyndby,"A_Connie_B._Jensen,_Lejre","Connie B. Jensen, Lejre",Socialdemokratiet,13
+Lejre,1,Hyllinge-Lyndby,"A_Rikke_Zwisler_Grøndal,_Hvalsø","Rikke Zwisler Grøndal, Hvalsø",Socialdemokratiet,21
+Lejre,1,Hyllinge-Lyndby,"A_Burak_Ulrik_Ulucan,_Osted","Burak Ulrik Ulucan, Osted",Socialdemokratiet,17
+Lejre,1,Hyllinge-Lyndby,"A_Bente_Blumensaat,_Ejby","Bente Blumensaat, Ejby",Socialdemokratiet,22
+Lejre,1,Hyllinge-Lyndby,"A_Poul_Ricard_Christensen,_Hvalsø","Poul Ricard Christensen, Hvalsø",Socialdemokratiet,9
+Lejre,1,Hyllinge-Lyndby,"A_Sine_Gormsen,_Lejre","Sine Gormsen, Lejre",Socialdemokratiet,16
+Lejre,1,Hyllinge-Lyndby,"A_Martin_Stokholm,_Hvalsø","Martin Stokholm, Hvalsø",Socialdemokratiet,11
+Lejre,1,Hyllinge-Lyndby,"A_Jette_Jensen,_Vester_Såby","Jette Jensen, Vester Såby",Socialdemokratiet,10
+Lejre,1,Hyllinge-Lyndby,"A_Jørgen_Schwensen,_Hvalsø","Jørgen Schwensen, Hvalsø",Socialdemokratiet,3
+Lejre,1,Hyllinge-Lyndby,"A_Inga_Steffensen,_Sæby","Inga Steffensen, Sæby",Socialdemokratiet,9
+Lejre,1,Hyllinge-Lyndby,B_Listestemmer,Listestemmer,Radikale Venstre,22
+Lejre,1,Hyllinge-Lyndby,"B_Thomas_Bisgaard,_Osted","Thomas Bisgaard, Osted",Radikale Venstre,3
+Lejre,1,Hyllinge-Lyndby,"B_Rasmus_Mackeprang,_Særløse","Rasmus Mackeprang, Særløse",Radikale Venstre,7
+Lejre,1,Hyllinge-Lyndby,"B_Rie_Haagen,_Englerup","Rie Haagen, Englerup",Radikale Venstre,9
+Lejre,1,Hyllinge-Lyndby,"B_Ole_Bjørn,_Lejre","Ole Bjørn, Lejre",Radikale Venstre,0
+Lejre,1,Hyllinge-Lyndby,"B_Asta_Rasmussen,_Ejby","Asta Rasmussen, Ejby",Radikale Venstre,11
+Lejre,1,Hyllinge-Lyndby,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,64
+Lejre,1,Hyllinge-Lyndby,C_Grethe_Saabye,Grethe Saabye,Det Konservative Folkeparti,115
+Lejre,1,Hyllinge-Lyndby,C_Bjørn_Lykke_Sørensen,Bjørn Lykke Sørensen,Det Konservative Folkeparti,14
+Lejre,1,Hyllinge-Lyndby,C_Birgitte_Schytte,Birgitte Schytte,Det Konservative Folkeparti,14
+Lejre,1,Hyllinge-Lyndby,C_Ida_Dyhr,Ida Dyhr,Det Konservative Folkeparti,30
+Lejre,1,Hyllinge-Lyndby,C_Rune_Nymann,Rune Nymann,Det Konservative Folkeparti,3
+Lejre,1,Hyllinge-Lyndby,C_Jesper_Fischer,Jesper Fischer,Det Konservative Folkeparti,1
+Lejre,1,Hyllinge-Lyndby,C_Henrik_Svanholm,Henrik Svanholm,Det Konservative Folkeparti,1
+Lejre,1,Hyllinge-Lyndby,C_Bjarke_Therkildsen,Bjarke Therkildsen,Det Konservative Folkeparti,5
+Lejre,1,Hyllinge-Lyndby,D_Listestemmer,Listestemmer,Nye Borgerlige,42
+Lejre,1,Hyllinge-Lyndby,"D_Karl_Simonsen,_Osted","Karl Simonsen, Osted",Nye Borgerlige,14
+Lejre,1,Hyllinge-Lyndby,"D_Thomas_Bording,_Lejre","Thomas Bording, Lejre",Nye Borgerlige,44
+Lejre,1,Hyllinge-Lyndby,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,74
+Lejre,1,Hyllinge-Lyndby,"F_Mikael_Ralf_Baade_Larsen,_Sæby","Mikael Ralf Baade Larsen, Sæby",SF - Socialistisk Folkeparti,102
+Lejre,1,Hyllinge-Lyndby,"F_Claus_Jørgensen,_Lejre","Claus Jørgensen, Lejre",SF - Socialistisk Folkeparti,24
+Lejre,1,Hyllinge-Lyndby,"F_Susanne_Borup,_Trællerup","Susanne Borup, Trællerup",SF - Socialistisk Folkeparti,18
+Lejre,1,Hyllinge-Lyndby,"F_Irene_Porse,_Kisserup","Irene Porse, Kisserup",SF - Socialistisk Folkeparti,7
+Lejre,1,Hyllinge-Lyndby,"F_Knud_Larsen,_Gøderup","Knud Larsen, Gøderup",SF - Socialistisk Folkeparti,1
+Lejre,1,Hyllinge-Lyndby,"F_Kristian_Isbrand,_Kyndeløse","Kristian Isbrand, Kyndeløse",SF - Socialistisk Folkeparti,8
+Lejre,1,Hyllinge-Lyndby,"F_Villy_Hauritz,_Kr._Såby","Villy Hauritz, Kr. Såby",SF - Socialistisk Folkeparti,3
+Lejre,1,Hyllinge-Lyndby,"F_Anders_Bredsdorff,_Osted","Anders Bredsdorff, Osted",SF - Socialistisk Folkeparti,1
+Lejre,1,Hyllinge-Lyndby,I_Listestemmer,Listestemmer,Liberal Alliance,13
+Lejre,1,Hyllinge-Lyndby,I_Jon_Lorentsfeldt,Jon Lorentsfeldt,Liberal Alliance,5
+Lejre,1,Hyllinge-Lyndby,I_Sarah_Puk_Pedersen,Sarah Puk Pedersen,Liberal Alliance,9
+Lejre,1,Hyllinge-Lyndby,I_Susan_Møller,Susan Møller,Liberal Alliance,3
+Lejre,1,Hyllinge-Lyndby,I_Joachim_Riis-Bernickow,Joachim Riis-Bernickow,Liberal Alliance,21
+Lejre,1,Hyllinge-Lyndby,L_Listestemmer,Listestemmer,Lokallisten Levende Landsbyer,14
+Lejre,1,Hyllinge-Lyndby,L_Niels_Boye,Niels Boye,Lokallisten Levende Landsbyer,5
+Lejre,1,Hyllinge-Lyndby,L_Jesper_Reumert,Jesper Reumert,Lokallisten Levende Landsbyer,7
+Lejre,1,Hyllinge-Lyndby,O_Listestemmer,Listestemmer,Dansk Folkeparti,42
+Lejre,1,Hyllinge-Lyndby,O_Ole_Blickfeldt,Ole Blickfeldt,Dansk Folkeparti,28
+Lejre,1,Hyllinge-Lyndby,O_Steen_Hansen,Steen Hansen,Dansk Folkeparti,5
+Lejre,1,Hyllinge-Lyndby,O_Lotte_Hauritz,Lotte Hauritz,Dansk Folkeparti,11
+Lejre,1,Hyllinge-Lyndby,O_Kurt_Kristiansen,Kurt Kristiansen,Dansk Folkeparti,4
+Lejre,1,Hyllinge-Lyndby,O_Regina_de_Gijsel,Regina de Gijsel,Dansk Folkeparti,3
+Lejre,1,Hyllinge-Lyndby,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",93
+Lejre,1,Hyllinge-Lyndby,V_Tina_Mandrup,Tina Mandrup,"Venstre, Danmarks Liberale Parti",239
+Lejre,1,Hyllinge-Lyndby,V_Flemming_Damgaard_Larsen,Flemming Damgaard Larsen,"Venstre, Danmarks Liberale Parti",112
+Lejre,1,Hyllinge-Lyndby,V_Lotte_Greve,Lotte Greve,"Venstre, Danmarks Liberale Parti",173
+Lejre,1,Hyllinge-Lyndby,V_Jens_K._Jensen,Jens K. Jensen,"Venstre, Danmarks Liberale Parti",89
+Lejre,1,Hyllinge-Lyndby,V_Carsten_Helles_Rasmussen,Carsten Helles Rasmussen,"Venstre, Danmarks Liberale Parti",6
+Lejre,1,Hyllinge-Lyndby,V_Christian_Fjeldsted_Andersen,Christian Fjeldsted Andersen,"Venstre, Danmarks Liberale Parti",9
+Lejre,1,Hyllinge-Lyndby,V_Henning_Nielsen,Henning Nielsen,"Venstre, Danmarks Liberale Parti",30
+Lejre,1,Hyllinge-Lyndby,V_Poul_Nielsen,Poul Nielsen,"Venstre, Danmarks Liberale Parti",1
+Lejre,1,Hyllinge-Lyndby,V_Lars_Kimer_Mortensen,Lars Kimer Mortensen,"Venstre, Danmarks Liberale Parti",6
+Lejre,1,Hyllinge-Lyndby,V_Klaus_Kristiansen,Klaus Kristiansen,"Venstre, Danmarks Liberale Parti",5
+Lejre,1,Hyllinge-Lyndby,V_Hans_C._Kongsgaard_Nielsen,Hans C. Kongsgaard Nielsen,"Venstre, Danmarks Liberale Parti",2
+Lejre,1,Hyllinge-Lyndby,V_Erik_Hestbæk,Erik Hestbæk,"Venstre, Danmarks Liberale Parti",4
+Lejre,1,Hyllinge-Lyndby,V_Morten_Kronholm,Morten Kronholm,"Venstre, Danmarks Liberale Parti",20
+Lejre,1,Hyllinge-Lyndby,V_Niels_Mortensen,Niels Mortensen,"Venstre, Danmarks Liberale Parti",0
+Lejre,1,Hyllinge-Lyndby,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,58
+Lejre,1,Hyllinge-Lyndby,"Ø_Ivan_Mott,_Øm","Ivan Mott, Øm",Enhedslisten - De Rød-Grønne,10
+Lejre,1,Hyllinge-Lyndby,"Ø_Nicki_Jensen,_Hvalsø","Nicki Jensen, Hvalsø",Enhedslisten - De Rød-Grønne,9
+Lejre,1,Hyllinge-Lyndby,"Ø_Astrid_Vejby_Krarup_Mott,_Hvalsø","Astrid Vejby Krarup Mott, Hvalsø",Enhedslisten - De Rød-Grønne,15
+Lejre,1,Hyllinge-Lyndby,"Ø_Marie_Reynolds,_Herslev","Marie Reynolds, Herslev",Enhedslisten - De Rød-Grønne,17
+Lejre,1,Hyllinge-Lyndby,"Ø_Patrick_Wymer,_Ejby","Patrick Wymer, Ejby",Enhedslisten - De Rød-Grønne,3
+Lejre,1,Hyllinge-Lyndby,"Ø_Rolf_Dupont,_Hvalsø","Rolf Dupont, Hvalsø",Enhedslisten - De Rød-Grønne,3
+Lejre,2,Rye,A_Listestemmer,Listestemmer,Socialdemokratiet,88
+Lejre,2,Rye,"A_Carsten_Rasmussen,_Kirke_Hyllinge","Carsten Rasmussen, Kirke Hyllinge",Socialdemokratiet,132
+Lejre,2,Rye,"A_Connie_B._Jensen,_Lejre","Connie B. Jensen, Lejre",Socialdemokratiet,9
+Lejre,2,Rye,"A_Rikke_Zwisler_Grøndal,_Hvalsø","Rikke Zwisler Grøndal, Hvalsø",Socialdemokratiet,8
+Lejre,2,Rye,"A_Burak_Ulrik_Ulucan,_Osted","Burak Ulrik Ulucan, Osted",Socialdemokratiet,4
+Lejre,2,Rye,"A_Bente_Blumensaat,_Ejby","Bente Blumensaat, Ejby",Socialdemokratiet,117
+Lejre,2,Rye,"A_Poul_Ricard_Christensen,_Hvalsø","Poul Ricard Christensen, Hvalsø",Socialdemokratiet,1
+Lejre,2,Rye,"A_Sine_Gormsen,_Lejre","Sine Gormsen, Lejre",Socialdemokratiet,7
+Lejre,2,Rye,"A_Martin_Stokholm,_Hvalsø","Martin Stokholm, Hvalsø",Socialdemokratiet,3
+Lejre,2,Rye,"A_Jette_Jensen,_Vester_Såby","Jette Jensen, Vester Såby",Socialdemokratiet,4
+Lejre,2,Rye,"A_Jørgen_Schwensen,_Hvalsø","Jørgen Schwensen, Hvalsø",Socialdemokratiet,2
+Lejre,2,Rye,"A_Inga_Steffensen,_Sæby","Inga Steffensen, Sæby",Socialdemokratiet,5
+Lejre,2,Rye,B_Listestemmer,Listestemmer,Radikale Venstre,13
+Lejre,2,Rye,"B_Thomas_Bisgaard,_Osted","Thomas Bisgaard, Osted",Radikale Venstre,3
+Lejre,2,Rye,"B_Rasmus_Mackeprang,_Særløse","Rasmus Mackeprang, Særløse",Radikale Venstre,1
+Lejre,2,Rye,"B_Rie_Haagen,_Englerup","Rie Haagen, Englerup",Radikale Venstre,5
+Lejre,2,Rye,"B_Ole_Bjørn,_Lejre","Ole Bjørn, Lejre",Radikale Venstre,1
+Lejre,2,Rye,"B_Asta_Rasmussen,_Ejby","Asta Rasmussen, Ejby",Radikale Venstre,39
+Lejre,2,Rye,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,46
+Lejre,2,Rye,C_Grethe_Saabye,Grethe Saabye,Det Konservative Folkeparti,76
+Lejre,2,Rye,C_Bjørn_Lykke_Sørensen,Bjørn Lykke Sørensen,Det Konservative Folkeparti,13
+Lejre,2,Rye,C_Birgitte_Schytte,Birgitte Schytte,Det Konservative Folkeparti,11
+Lejre,2,Rye,C_Ida_Dyhr,Ida Dyhr,Det Konservative Folkeparti,24
+Lejre,2,Rye,C_Rune_Nymann,Rune Nymann,Det Konservative Folkeparti,5
+Lejre,2,Rye,C_Jesper_Fischer,Jesper Fischer,Det Konservative Folkeparti,0
+Lejre,2,Rye,C_Henrik_Svanholm,Henrik Svanholm,Det Konservative Folkeparti,1
+Lejre,2,Rye,C_Bjarke_Therkildsen,Bjarke Therkildsen,Det Konservative Folkeparti,0
+Lejre,2,Rye,D_Listestemmer,Listestemmer,Nye Borgerlige,32
+Lejre,2,Rye,"D_Karl_Simonsen,_Osted","Karl Simonsen, Osted",Nye Borgerlige,3
+Lejre,2,Rye,"D_Thomas_Bording,_Lejre","Thomas Bording, Lejre",Nye Borgerlige,32
+Lejre,2,Rye,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,49
+Lejre,2,Rye,"F_Mikael_Ralf_Baade_Larsen,_Sæby","Mikael Ralf Baade Larsen, Sæby",SF - Socialistisk Folkeparti,103
+Lejre,2,Rye,"F_Claus_Jørgensen,_Lejre","Claus Jørgensen, Lejre",SF - Socialistisk Folkeparti,13
+Lejre,2,Rye,"F_Susanne_Borup,_Trællerup","Susanne Borup, Trællerup",SF - Socialistisk Folkeparti,17
+Lejre,2,Rye,"F_Irene_Porse,_Kisserup","Irene Porse, Kisserup",SF - Socialistisk Folkeparti,8
+Lejre,2,Rye,"F_Knud_Larsen,_Gøderup","Knud Larsen, Gøderup",SF - Socialistisk Folkeparti,0
+Lejre,2,Rye,"F_Kristian_Isbrand,_Kyndeløse","Kristian Isbrand, Kyndeløse",SF - Socialistisk Folkeparti,4
+Lejre,2,Rye,"F_Villy_Hauritz,_Kr._Såby","Villy Hauritz, Kr. Såby",SF - Socialistisk Folkeparti,3
+Lejre,2,Rye,"F_Anders_Bredsdorff,_Osted","Anders Bredsdorff, Osted",SF - Socialistisk Folkeparti,1
+Lejre,2,Rye,I_Listestemmer,Listestemmer,Liberal Alliance,6
+Lejre,2,Rye,I_Jon_Lorentsfeldt,Jon Lorentsfeldt,Liberal Alliance,4
+Lejre,2,Rye,I_Sarah_Puk_Pedersen,Sarah Puk Pedersen,Liberal Alliance,9
+Lejre,2,Rye,I_Susan_Møller,Susan Møller,Liberal Alliance,0
+Lejre,2,Rye,I_Joachim_Riis-Bernickow,Joachim Riis-Bernickow,Liberal Alliance,14
+Lejre,2,Rye,L_Listestemmer,Listestemmer,Lokallisten Levende Landsbyer,4
+Lejre,2,Rye,L_Niels_Boye,Niels Boye,Lokallisten Levende Landsbyer,6
+Lejre,2,Rye,L_Jesper_Reumert,Jesper Reumert,Lokallisten Levende Landsbyer,3
+Lejre,2,Rye,O_Listestemmer,Listestemmer,Dansk Folkeparti,27
+Lejre,2,Rye,O_Ole_Blickfeldt,Ole Blickfeldt,Dansk Folkeparti,21
+Lejre,2,Rye,O_Steen_Hansen,Steen Hansen,Dansk Folkeparti,4
+Lejre,2,Rye,O_Lotte_Hauritz,Lotte Hauritz,Dansk Folkeparti,8
+Lejre,2,Rye,O_Kurt_Kristiansen,Kurt Kristiansen,Dansk Folkeparti,1
+Lejre,2,Rye,O_Regina_de_Gijsel,Regina de Gijsel,Dansk Folkeparti,3
+Lejre,2,Rye,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",76
+Lejre,2,Rye,V_Tina_Mandrup,Tina Mandrup,"Venstre, Danmarks Liberale Parti",149
+Lejre,2,Rye,V_Flemming_Damgaard_Larsen,Flemming Damgaard Larsen,"Venstre, Danmarks Liberale Parti",50
+Lejre,2,Rye,V_Lotte_Greve,Lotte Greve,"Venstre, Danmarks Liberale Parti",24
+Lejre,2,Rye,V_Jens_K._Jensen,Jens K. Jensen,"Venstre, Danmarks Liberale Parti",32
+Lejre,2,Rye,V_Carsten_Helles_Rasmussen,Carsten Helles Rasmussen,"Venstre, Danmarks Liberale Parti",1
+Lejre,2,Rye,V_Christian_Fjeldsted_Andersen,Christian Fjeldsted Andersen,"Venstre, Danmarks Liberale Parti",7
+Lejre,2,Rye,V_Henning_Nielsen,Henning Nielsen,"Venstre, Danmarks Liberale Parti",11
+Lejre,2,Rye,V_Poul_Nielsen,Poul Nielsen,"Venstre, Danmarks Liberale Parti",3
+Lejre,2,Rye,V_Lars_Kimer_Mortensen,Lars Kimer Mortensen,"Venstre, Danmarks Liberale Parti",7
+Lejre,2,Rye,V_Klaus_Kristiansen,Klaus Kristiansen,"Venstre, Danmarks Liberale Parti",2
+Lejre,2,Rye,V_Hans_C._Kongsgaard_Nielsen,Hans C. Kongsgaard Nielsen,"Venstre, Danmarks Liberale Parti",0
+Lejre,2,Rye,V_Erik_Hestbæk,Erik Hestbæk,"Venstre, Danmarks Liberale Parti",45
+Lejre,2,Rye,V_Morten_Kronholm,Morten Kronholm,"Venstre, Danmarks Liberale Parti",7
+Lejre,2,Rye,V_Niels_Mortensen,Niels Mortensen,"Venstre, Danmarks Liberale Parti",0
+Lejre,2,Rye,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,28
+Lejre,2,Rye,"Ø_Ivan_Mott,_Øm","Ivan Mott, Øm",Enhedslisten - De Rød-Grønne,1
+Lejre,2,Rye,"Ø_Nicki_Jensen,_Hvalsø","Nicki Jensen, Hvalsø",Enhedslisten - De Rød-Grønne,5
+Lejre,2,Rye,"Ø_Astrid_Vejby_Krarup_Mott,_Hvalsø","Astrid Vejby Krarup Mott, Hvalsø",Enhedslisten - De Rød-Grønne,8
+Lejre,2,Rye,"Ø_Marie_Reynolds,_Herslev","Marie Reynolds, Herslev",Enhedslisten - De Rød-Grønne,13
+Lejre,2,Rye,"Ø_Patrick_Wymer,_Ejby","Patrick Wymer, Ejby",Enhedslisten - De Rød-Grønne,30
+Lejre,2,Rye,"Ø_Rolf_Dupont,_Hvalsø","Rolf Dupont, Hvalsø",Enhedslisten - De Rød-Grønne,2
+Lejre,3,Sæby-Gershøj,A_Listestemmer,Listestemmer,Socialdemokratiet,49
+Lejre,3,Sæby-Gershøj,"A_Carsten_Rasmussen,_Kirke_Hyllinge","Carsten Rasmussen, Kirke Hyllinge",Socialdemokratiet,109
+Lejre,3,Sæby-Gershøj,"A_Connie_B._Jensen,_Lejre","Connie B. Jensen, Lejre",Socialdemokratiet,0
+Lejre,3,Sæby-Gershøj,"A_Rikke_Zwisler_Grøndal,_Hvalsø","Rikke Zwisler Grøndal, Hvalsø",Socialdemokratiet,2
+Lejre,3,Sæby-Gershøj,"A_Burak_Ulrik_Ulucan,_Osted","Burak Ulrik Ulucan, Osted",Socialdemokratiet,5
+Lejre,3,Sæby-Gershøj,"A_Bente_Blumensaat,_Ejby","Bente Blumensaat, Ejby",Socialdemokratiet,3
+Lejre,3,Sæby-Gershøj,"A_Poul_Ricard_Christensen,_Hvalsø","Poul Ricard Christensen, Hvalsø",Socialdemokratiet,1
+Lejre,3,Sæby-Gershøj,"A_Sine_Gormsen,_Lejre","Sine Gormsen, Lejre",Socialdemokratiet,6
+Lejre,3,Sæby-Gershøj,"A_Martin_Stokholm,_Hvalsø","Martin Stokholm, Hvalsø",Socialdemokratiet,4
+Lejre,3,Sæby-Gershøj,"A_Jette_Jensen,_Vester_Såby","Jette Jensen, Vester Såby",Socialdemokratiet,0
+Lejre,3,Sæby-Gershøj,"A_Jørgen_Schwensen,_Hvalsø","Jørgen Schwensen, Hvalsø",Socialdemokratiet,0
+Lejre,3,Sæby-Gershøj,"A_Inga_Steffensen,_Sæby","Inga Steffensen, Sæby",Socialdemokratiet,54
+Lejre,3,Sæby-Gershøj,B_Listestemmer,Listestemmer,Radikale Venstre,8
+Lejre,3,Sæby-Gershøj,"B_Thomas_Bisgaard,_Osted","Thomas Bisgaard, Osted",Radikale Venstre,0
+Lejre,3,Sæby-Gershøj,"B_Rasmus_Mackeprang,_Særløse","Rasmus Mackeprang, Særløse",Radikale Venstre,3
+Lejre,3,Sæby-Gershøj,"B_Rie_Haagen,_Englerup","Rie Haagen, Englerup",Radikale Venstre,4
+Lejre,3,Sæby-Gershøj,"B_Ole_Bjørn,_Lejre","Ole Bjørn, Lejre",Radikale Venstre,0
+Lejre,3,Sæby-Gershøj,"B_Asta_Rasmussen,_Ejby","Asta Rasmussen, Ejby",Radikale Venstre,2
+Lejre,3,Sæby-Gershøj,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,27
+Lejre,3,Sæby-Gershøj,C_Grethe_Saabye,Grethe Saabye,Det Konservative Folkeparti,57
+Lejre,3,Sæby-Gershøj,C_Bjørn_Lykke_Sørensen,Bjørn Lykke Sørensen,Det Konservative Folkeparti,4
+Lejre,3,Sæby-Gershøj,C_Birgitte_Schytte,Birgitte Schytte,Det Konservative Folkeparti,1
+Lejre,3,Sæby-Gershøj,C_Ida_Dyhr,Ida Dyhr,Det Konservative Folkeparti,9
+Lejre,3,Sæby-Gershøj,C_Rune_Nymann,Rune Nymann,Det Konservative Folkeparti,0
+Lejre,3,Sæby-Gershøj,C_Jesper_Fischer,Jesper Fischer,Det Konservative Folkeparti,1
+Lejre,3,Sæby-Gershøj,C_Henrik_Svanholm,Henrik Svanholm,Det Konservative Folkeparti,0
+Lejre,3,Sæby-Gershøj,C_Bjarke_Therkildsen,Bjarke Therkildsen,Det Konservative Folkeparti,0
+Lejre,3,Sæby-Gershøj,D_Listestemmer,Listestemmer,Nye Borgerlige,11
+Lejre,3,Sæby-Gershøj,"D_Karl_Simonsen,_Osted","Karl Simonsen, Osted",Nye Borgerlige,7
+Lejre,3,Sæby-Gershøj,"D_Thomas_Bording,_Lejre","Thomas Bording, Lejre",Nye Borgerlige,9
+Lejre,3,Sæby-Gershøj,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,32
+Lejre,3,Sæby-Gershøj,"F_Mikael_Ralf_Baade_Larsen,_Sæby","Mikael Ralf Baade Larsen, Sæby",SF - Socialistisk Folkeparti,97
+Lejre,3,Sæby-Gershøj,"F_Claus_Jørgensen,_Lejre","Claus Jørgensen, Lejre",SF - Socialistisk Folkeparti,9
+Lejre,3,Sæby-Gershøj,"F_Susanne_Borup,_Trællerup","Susanne Borup, Trællerup",SF - Socialistisk Folkeparti,13
+Lejre,3,Sæby-Gershøj,"F_Irene_Porse,_Kisserup","Irene Porse, Kisserup",SF - Socialistisk Folkeparti,3
+Lejre,3,Sæby-Gershøj,"F_Knud_Larsen,_Gøderup","Knud Larsen, Gøderup",SF - Socialistisk Folkeparti,1
+Lejre,3,Sæby-Gershøj,"F_Kristian_Isbrand,_Kyndeløse","Kristian Isbrand, Kyndeløse",SF - Socialistisk Folkeparti,1
+Lejre,3,Sæby-Gershøj,"F_Villy_Hauritz,_Kr._Såby","Villy Hauritz, Kr. Såby",SF - Socialistisk Folkeparti,1
+Lejre,3,Sæby-Gershøj,"F_Anders_Bredsdorff,_Osted","Anders Bredsdorff, Osted",SF - Socialistisk Folkeparti,1
+Lejre,3,Sæby-Gershøj,I_Listestemmer,Listestemmer,Liberal Alliance,1
+Lejre,3,Sæby-Gershøj,I_Jon_Lorentsfeldt,Jon Lorentsfeldt,Liberal Alliance,0
+Lejre,3,Sæby-Gershøj,I_Sarah_Puk_Pedersen,Sarah Puk Pedersen,Liberal Alliance,0
+Lejre,3,Sæby-Gershøj,I_Susan_Møller,Susan Møller,Liberal Alliance,0
+Lejre,3,Sæby-Gershøj,I_Joachim_Riis-Bernickow,Joachim Riis-Bernickow,Liberal Alliance,9
+Lejre,3,Sæby-Gershøj,L_Listestemmer,Listestemmer,Lokallisten Levende Landsbyer,6
+Lejre,3,Sæby-Gershøj,L_Niels_Boye,Niels Boye,Lokallisten Levende Landsbyer,3
+Lejre,3,Sæby-Gershøj,L_Jesper_Reumert,Jesper Reumert,Lokallisten Levende Landsbyer,8
+Lejre,3,Sæby-Gershøj,O_Listestemmer,Listestemmer,Dansk Folkeparti,19
+Lejre,3,Sæby-Gershøj,O_Ole_Blickfeldt,Ole Blickfeldt,Dansk Folkeparti,14
+Lejre,3,Sæby-Gershøj,O_Steen_Hansen,Steen Hansen,Dansk Folkeparti,5
+Lejre,3,Sæby-Gershøj,O_Lotte_Hauritz,Lotte Hauritz,Dansk Folkeparti,3
+Lejre,3,Sæby-Gershøj,O_Kurt_Kristiansen,Kurt Kristiansen,Dansk Folkeparti,0
+Lejre,3,Sæby-Gershøj,O_Regina_de_Gijsel,Regina de Gijsel,Dansk Folkeparti,0
+Lejre,3,Sæby-Gershøj,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",35
+Lejre,3,Sæby-Gershøj,V_Tina_Mandrup,Tina Mandrup,"Venstre, Danmarks Liberale Parti",101
+Lejre,3,Sæby-Gershøj,V_Flemming_Damgaard_Larsen,Flemming Damgaard Larsen,"Venstre, Danmarks Liberale Parti",18
+Lejre,3,Sæby-Gershøj,V_Lotte_Greve,Lotte Greve,"Venstre, Danmarks Liberale Parti",18
+Lejre,3,Sæby-Gershøj,V_Jens_K._Jensen,Jens K. Jensen,"Venstre, Danmarks Liberale Parti",103
+Lejre,3,Sæby-Gershøj,V_Carsten_Helles_Rasmussen,Carsten Helles Rasmussen,"Venstre, Danmarks Liberale Parti",3
+Lejre,3,Sæby-Gershøj,V_Christian_Fjeldsted_Andersen,Christian Fjeldsted Andersen,"Venstre, Danmarks Liberale Parti",1
+Lejre,3,Sæby-Gershøj,V_Henning_Nielsen,Henning Nielsen,"Venstre, Danmarks Liberale Parti",14
+Lejre,3,Sæby-Gershøj,V_Poul_Nielsen,Poul Nielsen,"Venstre, Danmarks Liberale Parti",0
+Lejre,3,Sæby-Gershøj,V_Lars_Kimer_Mortensen,Lars Kimer Mortensen,"Venstre, Danmarks Liberale Parti",1
+Lejre,3,Sæby-Gershøj,V_Klaus_Kristiansen,Klaus Kristiansen,"Venstre, Danmarks Liberale Parti",0
+Lejre,3,Sæby-Gershøj,V_Hans_C._Kongsgaard_Nielsen,Hans C. Kongsgaard Nielsen,"Venstre, Danmarks Liberale Parti",0
+Lejre,3,Sæby-Gershøj,V_Erik_Hestbæk,Erik Hestbæk,"Venstre, Danmarks Liberale Parti",0
+Lejre,3,Sæby-Gershøj,V_Morten_Kronholm,Morten Kronholm,"Venstre, Danmarks Liberale Parti",6
+Lejre,3,Sæby-Gershøj,V_Niels_Mortensen,Niels Mortensen,"Venstre, Danmarks Liberale Parti",1
+Lejre,3,Sæby-Gershøj,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,22
+Lejre,3,Sæby-Gershøj,"Ø_Ivan_Mott,_Øm","Ivan Mott, Øm",Enhedslisten - De Rød-Grønne,4
+Lejre,3,Sæby-Gershøj,"Ø_Nicki_Jensen,_Hvalsø","Nicki Jensen, Hvalsø",Enhedslisten - De Rød-Grønne,2
+Lejre,3,Sæby-Gershøj,"Ø_Astrid_Vejby_Krarup_Mott,_Hvalsø","Astrid Vejby Krarup Mott, Hvalsø",Enhedslisten - De Rød-Grønne,6
+Lejre,3,Sæby-Gershøj,"Ø_Marie_Reynolds,_Herslev","Marie Reynolds, Herslev",Enhedslisten - De Rød-Grønne,15
+Lejre,3,Sæby-Gershøj,"Ø_Patrick_Wymer,_Ejby","Patrick Wymer, Ejby",Enhedslisten - De Rød-Grønne,0
+Lejre,3,Sæby-Gershøj,"Ø_Rolf_Dupont,_Hvalsø","Rolf Dupont, Hvalsø",Enhedslisten - De Rød-Grønne,1
+Lejre,4,Sonnerup,A_Listestemmer,Listestemmer,Socialdemokratiet,61
+Lejre,4,Sonnerup,"A_Carsten_Rasmussen,_Kirke_Hyllinge","Carsten Rasmussen, Kirke Hyllinge",Socialdemokratiet,77
+Lejre,4,Sonnerup,"A_Connie_B._Jensen,_Lejre","Connie B. Jensen, Lejre",Socialdemokratiet,7
+Lejre,4,Sonnerup,"A_Rikke_Zwisler_Grøndal,_Hvalsø","Rikke Zwisler Grøndal, Hvalsø",Socialdemokratiet,7
+Lejre,4,Sonnerup,"A_Burak_Ulrik_Ulucan,_Osted","Burak Ulrik Ulucan, Osted",Socialdemokratiet,1
+Lejre,4,Sonnerup,"A_Bente_Blumensaat,_Ejby","Bente Blumensaat, Ejby",Socialdemokratiet,20
+Lejre,4,Sonnerup,"A_Poul_Ricard_Christensen,_Hvalsø","Poul Ricard Christensen, Hvalsø",Socialdemokratiet,2
+Lejre,4,Sonnerup,"A_Sine_Gormsen,_Lejre","Sine Gormsen, Lejre",Socialdemokratiet,3
+Lejre,4,Sonnerup,"A_Martin_Stokholm,_Hvalsø","Martin Stokholm, Hvalsø",Socialdemokratiet,14
+Lejre,4,Sonnerup,"A_Jette_Jensen,_Vester_Såby","Jette Jensen, Vester Såby",Socialdemokratiet,9
+Lejre,4,Sonnerup,"A_Jørgen_Schwensen,_Hvalsø","Jørgen Schwensen, Hvalsø",Socialdemokratiet,0
+Lejre,4,Sonnerup,"A_Inga_Steffensen,_Sæby","Inga Steffensen, Sæby",Socialdemokratiet,1
+Lejre,4,Sonnerup,B_Listestemmer,Listestemmer,Radikale Venstre,7
+Lejre,4,Sonnerup,"B_Thomas_Bisgaard,_Osted","Thomas Bisgaard, Osted",Radikale Venstre,6
+Lejre,4,Sonnerup,"B_Rasmus_Mackeprang,_Særløse","Rasmus Mackeprang, Særløse",Radikale Venstre,1
+Lejre,4,Sonnerup,"B_Rie_Haagen,_Englerup","Rie Haagen, Englerup",Radikale Venstre,8
+Lejre,4,Sonnerup,"B_Ole_Bjørn,_Lejre","Ole Bjørn, Lejre",Radikale Venstre,1
+Lejre,4,Sonnerup,"B_Asta_Rasmussen,_Ejby","Asta Rasmussen, Ejby",Radikale Venstre,3
+Lejre,4,Sonnerup,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,32
+Lejre,4,Sonnerup,C_Grethe_Saabye,Grethe Saabye,Det Konservative Folkeparti,45
+Lejre,4,Sonnerup,C_Bjørn_Lykke_Sørensen,Bjørn Lykke Sørensen,Det Konservative Folkeparti,1
+Lejre,4,Sonnerup,C_Birgitte_Schytte,Birgitte Schytte,Det Konservative Folkeparti,10
+Lejre,4,Sonnerup,C_Ida_Dyhr,Ida Dyhr,Det Konservative Folkeparti,15
+Lejre,4,Sonnerup,C_Rune_Nymann,Rune Nymann,Det Konservative Folkeparti,3
+Lejre,4,Sonnerup,C_Jesper_Fischer,Jesper Fischer,Det Konservative Folkeparti,3
+Lejre,4,Sonnerup,C_Henrik_Svanholm,Henrik Svanholm,Det Konservative Folkeparti,1
+Lejre,4,Sonnerup,C_Bjarke_Therkildsen,Bjarke Therkildsen,Det Konservative Folkeparti,0
+Lejre,4,Sonnerup,D_Listestemmer,Listestemmer,Nye Borgerlige,15
+Lejre,4,Sonnerup,"D_Karl_Simonsen,_Osted","Karl Simonsen, Osted",Nye Borgerlige,6
+Lejre,4,Sonnerup,"D_Thomas_Bording,_Lejre","Thomas Bording, Lejre",Nye Borgerlige,15
+Lejre,4,Sonnerup,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,24
+Lejre,4,Sonnerup,"F_Mikael_Ralf_Baade_Larsen,_Sæby","Mikael Ralf Baade Larsen, Sæby",SF - Socialistisk Folkeparti,40
+Lejre,4,Sonnerup,"F_Claus_Jørgensen,_Lejre","Claus Jørgensen, Lejre",SF - Socialistisk Folkeparti,11
+Lejre,4,Sonnerup,"F_Susanne_Borup,_Trællerup","Susanne Borup, Trællerup",SF - Socialistisk Folkeparti,8
+Lejre,4,Sonnerup,"F_Irene_Porse,_Kisserup","Irene Porse, Kisserup",SF - Socialistisk Folkeparti,3
+Lejre,4,Sonnerup,"F_Knud_Larsen,_Gøderup","Knud Larsen, Gøderup",SF - Socialistisk Folkeparti,0
+Lejre,4,Sonnerup,"F_Kristian_Isbrand,_Kyndeløse","Kristian Isbrand, Kyndeløse",SF - Socialistisk Folkeparti,0
+Lejre,4,Sonnerup,"F_Villy_Hauritz,_Kr._Såby","Villy Hauritz, Kr. Såby",SF - Socialistisk Folkeparti,2
+Lejre,4,Sonnerup,"F_Anders_Bredsdorff,_Osted","Anders Bredsdorff, Osted",SF - Socialistisk Folkeparti,1
+Lejre,4,Sonnerup,I_Listestemmer,Listestemmer,Liberal Alliance,5
+Lejre,4,Sonnerup,I_Jon_Lorentsfeldt,Jon Lorentsfeldt,Liberal Alliance,0
+Lejre,4,Sonnerup,I_Sarah_Puk_Pedersen,Sarah Puk Pedersen,Liberal Alliance,1
+Lejre,4,Sonnerup,I_Susan_Møller,Susan Møller,Liberal Alliance,0
+Lejre,4,Sonnerup,I_Joachim_Riis-Bernickow,Joachim Riis-Bernickow,Liberal Alliance,3
+Lejre,4,Sonnerup,L_Listestemmer,Listestemmer,Lokallisten Levende Landsbyer,8
+Lejre,4,Sonnerup,L_Niels_Boye,Niels Boye,Lokallisten Levende Landsbyer,3
+Lejre,4,Sonnerup,L_Jesper_Reumert,Jesper Reumert,Lokallisten Levende Landsbyer,14
+Lejre,4,Sonnerup,O_Listestemmer,Listestemmer,Dansk Folkeparti,13
+Lejre,4,Sonnerup,O_Ole_Blickfeldt,Ole Blickfeldt,Dansk Folkeparti,14
+Lejre,4,Sonnerup,O_Steen_Hansen,Steen Hansen,Dansk Folkeparti,3
+Lejre,4,Sonnerup,O_Lotte_Hauritz,Lotte Hauritz,Dansk Folkeparti,7
+Lejre,4,Sonnerup,O_Kurt_Kristiansen,Kurt Kristiansen,Dansk Folkeparti,1
+Lejre,4,Sonnerup,O_Regina_de_Gijsel,Regina de Gijsel,Dansk Folkeparti,2
+Lejre,4,Sonnerup,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",43
+Lejre,4,Sonnerup,V_Tina_Mandrup,Tina Mandrup,"Venstre, Danmarks Liberale Parti",80
+Lejre,4,Sonnerup,V_Flemming_Damgaard_Larsen,Flemming Damgaard Larsen,"Venstre, Danmarks Liberale Parti",21
+Lejre,4,Sonnerup,V_Lotte_Greve,Lotte Greve,"Venstre, Danmarks Liberale Parti",10
+Lejre,4,Sonnerup,V_Jens_K._Jensen,Jens K. Jensen,"Venstre, Danmarks Liberale Parti",3
+Lejre,4,Sonnerup,V_Carsten_Helles_Rasmussen,Carsten Helles Rasmussen,"Venstre, Danmarks Liberale Parti",0
+Lejre,4,Sonnerup,V_Christian_Fjeldsted_Andersen,Christian Fjeldsted Andersen,"Venstre, Danmarks Liberale Parti",5
+Lejre,4,Sonnerup,V_Henning_Nielsen,Henning Nielsen,"Venstre, Danmarks Liberale Parti",8
+Lejre,4,Sonnerup,V_Poul_Nielsen,Poul Nielsen,"Venstre, Danmarks Liberale Parti",1
+Lejre,4,Sonnerup,V_Lars_Kimer_Mortensen,Lars Kimer Mortensen,"Venstre, Danmarks Liberale Parti",40
+Lejre,4,Sonnerup,V_Klaus_Kristiansen,Klaus Kristiansen,"Venstre, Danmarks Liberale Parti",2
+Lejre,4,Sonnerup,V_Hans_C._Kongsgaard_Nielsen,Hans C. Kongsgaard Nielsen,"Venstre, Danmarks Liberale Parti",1
+Lejre,4,Sonnerup,V_Erik_Hestbæk,Erik Hestbæk,"Venstre, Danmarks Liberale Parti",0
+Lejre,4,Sonnerup,V_Morten_Kronholm,Morten Kronholm,"Venstre, Danmarks Liberale Parti",2
+Lejre,4,Sonnerup,V_Niels_Mortensen,Niels Mortensen,"Venstre, Danmarks Liberale Parti",0
+Lejre,4,Sonnerup,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,11
+Lejre,4,Sonnerup,"Ø_Ivan_Mott,_Øm","Ivan Mott, Øm",Enhedslisten - De Rød-Grønne,2
+Lejre,4,Sonnerup,"Ø_Nicki_Jensen,_Hvalsø","Nicki Jensen, Hvalsø",Enhedslisten - De Rød-Grønne,4
+Lejre,4,Sonnerup,"Ø_Astrid_Vejby_Krarup_Mott,_Hvalsø","Astrid Vejby Krarup Mott, Hvalsø",Enhedslisten - De Rød-Grønne,2
+Lejre,4,Sonnerup,"Ø_Marie_Reynolds,_Herslev","Marie Reynolds, Herslev",Enhedslisten - De Rød-Grønne,6
+Lejre,4,Sonnerup,"Ø_Patrick_Wymer,_Ejby","Patrick Wymer, Ejby",Enhedslisten - De Rød-Grønne,1
+Lejre,4,Sonnerup,"Ø_Rolf_Dupont,_Hvalsø","Rolf Dupont, Hvalsø",Enhedslisten - De Rød-Grønne,0
+Lejre,5,Glim,A_Listestemmer,Listestemmer,Socialdemokratiet,52
+Lejre,5,Glim,"A_Carsten_Rasmussen,_Kirke_Hyllinge","Carsten Rasmussen, Kirke Hyllinge",Socialdemokratiet,29
+Lejre,5,Glim,"A_Connie_B._Jensen,_Lejre","Connie B. Jensen, Lejre",Socialdemokratiet,6
+Lejre,5,Glim,"A_Rikke_Zwisler_Grøndal,_Hvalsø","Rikke Zwisler Grøndal, Hvalsø",Socialdemokratiet,4
+Lejre,5,Glim,"A_Burak_Ulrik_Ulucan,_Osted","Burak Ulrik Ulucan, Osted",Socialdemokratiet,6
+Lejre,5,Glim,"A_Bente_Blumensaat,_Ejby","Bente Blumensaat, Ejby",Socialdemokratiet,2
+Lejre,5,Glim,"A_Poul_Ricard_Christensen,_Hvalsø","Poul Ricard Christensen, Hvalsø",Socialdemokratiet,0
+Lejre,5,Glim,"A_Sine_Gormsen,_Lejre","Sine Gormsen, Lejre",Socialdemokratiet,16
+Lejre,5,Glim,"A_Martin_Stokholm,_Hvalsø","Martin Stokholm, Hvalsø",Socialdemokratiet,2
+Lejre,5,Glim,"A_Jette_Jensen,_Vester_Såby","Jette Jensen, Vester Såby",Socialdemokratiet,1
+Lejre,5,Glim,"A_Jørgen_Schwensen,_Hvalsø","Jørgen Schwensen, Hvalsø",Socialdemokratiet,0
+Lejre,5,Glim,"A_Inga_Steffensen,_Sæby","Inga Steffensen, Sæby",Socialdemokratiet,1
+Lejre,5,Glim,B_Listestemmer,Listestemmer,Radikale Venstre,12
+Lejre,5,Glim,"B_Thomas_Bisgaard,_Osted","Thomas Bisgaard, Osted",Radikale Venstre,4
+Lejre,5,Glim,"B_Rasmus_Mackeprang,_Særløse","Rasmus Mackeprang, Særløse",Radikale Venstre,2
+Lejre,5,Glim,"B_Rie_Haagen,_Englerup","Rie Haagen, Englerup",Radikale Venstre,4
+Lejre,5,Glim,"B_Ole_Bjørn,_Lejre","Ole Bjørn, Lejre",Radikale Venstre,2
+Lejre,5,Glim,"B_Asta_Rasmussen,_Ejby","Asta Rasmussen, Ejby",Radikale Venstre,1
+Lejre,5,Glim,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,26
+Lejre,5,Glim,C_Grethe_Saabye,Grethe Saabye,Det Konservative Folkeparti,35
+Lejre,5,Glim,C_Bjørn_Lykke_Sørensen,Bjørn Lykke Sørensen,Det Konservative Folkeparti,11
+Lejre,5,Glim,C_Birgitte_Schytte,Birgitte Schytte,Det Konservative Folkeparti,3
+Lejre,5,Glim,C_Ida_Dyhr,Ida Dyhr,Det Konservative Folkeparti,8
+Lejre,5,Glim,C_Rune_Nymann,Rune Nymann,Det Konservative Folkeparti,4
+Lejre,5,Glim,C_Jesper_Fischer,Jesper Fischer,Det Konservative Folkeparti,0
+Lejre,5,Glim,C_Henrik_Svanholm,Henrik Svanholm,Det Konservative Folkeparti,0
+Lejre,5,Glim,C_Bjarke_Therkildsen,Bjarke Therkildsen,Det Konservative Folkeparti,0
+Lejre,5,Glim,D_Listestemmer,Listestemmer,Nye Borgerlige,13
+Lejre,5,Glim,"D_Karl_Simonsen,_Osted","Karl Simonsen, Osted",Nye Borgerlige,6
+Lejre,5,Glim,"D_Thomas_Bording,_Lejre","Thomas Bording, Lejre",Nye Borgerlige,7
+Lejre,5,Glim,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,20
+Lejre,5,Glim,"F_Mikael_Ralf_Baade_Larsen,_Sæby","Mikael Ralf Baade Larsen, Sæby",SF - Socialistisk Folkeparti,6
+Lejre,5,Glim,"F_Claus_Jørgensen,_Lejre","Claus Jørgensen, Lejre",SF - Socialistisk Folkeparti,26
+Lejre,5,Glim,"F_Susanne_Borup,_Trællerup","Susanne Borup, Trællerup",SF - Socialistisk Folkeparti,14
+Lejre,5,Glim,"F_Irene_Porse,_Kisserup","Irene Porse, Kisserup",SF - Socialistisk Folkeparti,7
+Lejre,5,Glim,"F_Knud_Larsen,_Gøderup","Knud Larsen, Gøderup",SF - Socialistisk Folkeparti,41
+Lejre,5,Glim,"F_Kristian_Isbrand,_Kyndeløse","Kristian Isbrand, Kyndeløse",SF - Socialistisk Folkeparti,0
+Lejre,5,Glim,"F_Villy_Hauritz,_Kr._Såby","Villy Hauritz, Kr. Såby",SF - Socialistisk Folkeparti,0
+Lejre,5,Glim,"F_Anders_Bredsdorff,_Osted","Anders Bredsdorff, Osted",SF - Socialistisk Folkeparti,0
+Lejre,5,Glim,I_Listestemmer,Listestemmer,Liberal Alliance,4
+Lejre,5,Glim,I_Jon_Lorentsfeldt,Jon Lorentsfeldt,Liberal Alliance,4
+Lejre,5,Glim,I_Sarah_Puk_Pedersen,Sarah Puk Pedersen,Liberal Alliance,4
+Lejre,5,Glim,I_Susan_Møller,Susan Møller,Liberal Alliance,2
+Lejre,5,Glim,I_Joachim_Riis-Bernickow,Joachim Riis-Bernickow,Liberal Alliance,5
+Lejre,5,Glim,L_Listestemmer,Listestemmer,Lokallisten Levende Landsbyer,12
+Lejre,5,Glim,L_Niels_Boye,Niels Boye,Lokallisten Levende Landsbyer,4
+Lejre,5,Glim,L_Jesper_Reumert,Jesper Reumert,Lokallisten Levende Landsbyer,6
+Lejre,5,Glim,O_Listestemmer,Listestemmer,Dansk Folkeparti,11
+Lejre,5,Glim,O_Ole_Blickfeldt,Ole Blickfeldt,Dansk Folkeparti,16
+Lejre,5,Glim,O_Steen_Hansen,Steen Hansen,Dansk Folkeparti,0
+Lejre,5,Glim,O_Lotte_Hauritz,Lotte Hauritz,Dansk Folkeparti,3
+Lejre,5,Glim,O_Kurt_Kristiansen,Kurt Kristiansen,Dansk Folkeparti,0
+Lejre,5,Glim,O_Regina_de_Gijsel,Regina de Gijsel,Dansk Folkeparti,1
+Lejre,5,Glim,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",44
+Lejre,5,Glim,V_Tina_Mandrup,Tina Mandrup,"Venstre, Danmarks Liberale Parti",110
+Lejre,5,Glim,V_Flemming_Damgaard_Larsen,Flemming Damgaard Larsen,"Venstre, Danmarks Liberale Parti",7
+Lejre,5,Glim,V_Lotte_Greve,Lotte Greve,"Venstre, Danmarks Liberale Parti",3
+Lejre,5,Glim,V_Jens_K._Jensen,Jens K. Jensen,"Venstre, Danmarks Liberale Parti",4
+Lejre,5,Glim,V_Carsten_Helles_Rasmussen,Carsten Helles Rasmussen,"Venstre, Danmarks Liberale Parti",15
+Lejre,5,Glim,V_Christian_Fjeldsted_Andersen,Christian Fjeldsted Andersen,"Venstre, Danmarks Liberale Parti",9
+Lejre,5,Glim,V_Henning_Nielsen,Henning Nielsen,"Venstre, Danmarks Liberale Parti",1
+Lejre,5,Glim,V_Poul_Nielsen,Poul Nielsen,"Venstre, Danmarks Liberale Parti",1
+Lejre,5,Glim,V_Lars_Kimer_Mortensen,Lars Kimer Mortensen,"Venstre, Danmarks Liberale Parti",1
+Lejre,5,Glim,V_Klaus_Kristiansen,Klaus Kristiansen,"Venstre, Danmarks Liberale Parti",5
+Lejre,5,Glim,V_Hans_C._Kongsgaard_Nielsen,Hans C. Kongsgaard Nielsen,"Venstre, Danmarks Liberale Parti",7
+Lejre,5,Glim,V_Erik_Hestbæk,Erik Hestbæk,"Venstre, Danmarks Liberale Parti",0
+Lejre,5,Glim,V_Morten_Kronholm,Morten Kronholm,"Venstre, Danmarks Liberale Parti",3
+Lejre,5,Glim,V_Niels_Mortensen,Niels Mortensen,"Venstre, Danmarks Liberale Parti",6
+Lejre,5,Glim,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,12
+Lejre,5,Glim,"Ø_Ivan_Mott,_Øm","Ivan Mott, Øm",Enhedslisten - De Rød-Grønne,35
+Lejre,5,Glim,"Ø_Nicki_Jensen,_Hvalsø","Nicki Jensen, Hvalsø",Enhedslisten - De Rød-Grønne,0
+Lejre,5,Glim,"Ø_Astrid_Vejby_Krarup_Mott,_Hvalsø","Astrid Vejby Krarup Mott, Hvalsø",Enhedslisten - De Rød-Grønne,7
+Lejre,5,Glim,"Ø_Marie_Reynolds,_Herslev","Marie Reynolds, Herslev",Enhedslisten - De Rød-Grønne,4
+Lejre,5,Glim,"Ø_Patrick_Wymer,_Ejby","Patrick Wymer, Ejby",Enhedslisten - De Rød-Grønne,0
+Lejre,5,Glim,"Ø_Rolf_Dupont,_Hvalsø","Rolf Dupont, Hvalsø",Enhedslisten - De Rød-Grønne,2
+Lejre,6,Hvalsø,A_Listestemmer,Listestemmer,Socialdemokratiet,199
+Lejre,6,Hvalsø,"A_Carsten_Rasmussen,_Kirke_Hyllinge","Carsten Rasmussen, Kirke Hyllinge",Socialdemokratiet,175
+Lejre,6,Hvalsø,"A_Connie_B._Jensen,_Lejre","Connie B. Jensen, Lejre",Socialdemokratiet,10
+Lejre,6,Hvalsø,"A_Rikke_Zwisler_Grøndal,_Hvalsø","Rikke Zwisler Grøndal, Hvalsø",Socialdemokratiet,146
+Lejre,6,Hvalsø,"A_Burak_Ulrik_Ulucan,_Osted","Burak Ulrik Ulucan, Osted",Socialdemokratiet,7
+Lejre,6,Hvalsø,"A_Bente_Blumensaat,_Ejby","Bente Blumensaat, Ejby",Socialdemokratiet,9
+Lejre,6,Hvalsø,"A_Poul_Ricard_Christensen,_Hvalsø","Poul Ricard Christensen, Hvalsø",Socialdemokratiet,74
+Lejre,6,Hvalsø,"A_Sine_Gormsen,_Lejre","Sine Gormsen, Lejre",Socialdemokratiet,12
+Lejre,6,Hvalsø,"A_Martin_Stokholm,_Hvalsø","Martin Stokholm, Hvalsø",Socialdemokratiet,81
+Lejre,6,Hvalsø,"A_Jette_Jensen,_Vester_Såby","Jette Jensen, Vester Såby",Socialdemokratiet,3
+Lejre,6,Hvalsø,"A_Jørgen_Schwensen,_Hvalsø","Jørgen Schwensen, Hvalsø",Socialdemokratiet,52
+Lejre,6,Hvalsø,"A_Inga_Steffensen,_Sæby","Inga Steffensen, Sæby",Socialdemokratiet,2
+Lejre,6,Hvalsø,B_Listestemmer,Listestemmer,Radikale Venstre,42
+Lejre,6,Hvalsø,"B_Thomas_Bisgaard,_Osted","Thomas Bisgaard, Osted",Radikale Venstre,43
+Lejre,6,Hvalsø,"B_Rasmus_Mackeprang,_Særløse","Rasmus Mackeprang, Særløse",Radikale Venstre,4
+Lejre,6,Hvalsø,"B_Rie_Haagen,_Englerup","Rie Haagen, Englerup",Radikale Venstre,17
+Lejre,6,Hvalsø,"B_Ole_Bjørn,_Lejre","Ole Bjørn, Lejre",Radikale Venstre,3
+Lejre,6,Hvalsø,"B_Asta_Rasmussen,_Ejby","Asta Rasmussen, Ejby",Radikale Venstre,9
+Lejre,6,Hvalsø,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,72
+Lejre,6,Hvalsø,C_Grethe_Saabye,Grethe Saabye,Det Konservative Folkeparti,210
+Lejre,6,Hvalsø,C_Bjørn_Lykke_Sørensen,Bjørn Lykke Sørensen,Det Konservative Folkeparti,17
+Lejre,6,Hvalsø,C_Birgitte_Schytte,Birgitte Schytte,Det Konservative Folkeparti,36
+Lejre,6,Hvalsø,C_Ida_Dyhr,Ida Dyhr,Det Konservative Folkeparti,36
+Lejre,6,Hvalsø,C_Rune_Nymann,Rune Nymann,Det Konservative Folkeparti,9
+Lejre,6,Hvalsø,C_Jesper_Fischer,Jesper Fischer,Det Konservative Folkeparti,38
+Lejre,6,Hvalsø,C_Henrik_Svanholm,Henrik Svanholm,Det Konservative Folkeparti,1
+Lejre,6,Hvalsø,C_Bjarke_Therkildsen,Bjarke Therkildsen,Det Konservative Folkeparti,0
+Lejre,6,Hvalsø,D_Listestemmer,Listestemmer,Nye Borgerlige,38
+Lejre,6,Hvalsø,"D_Karl_Simonsen,_Osted","Karl Simonsen, Osted",Nye Borgerlige,8
+Lejre,6,Hvalsø,"D_Thomas_Bording,_Lejre","Thomas Bording, Lejre",Nye Borgerlige,12
+Lejre,6,Hvalsø,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,154
+Lejre,6,Hvalsø,"F_Mikael_Ralf_Baade_Larsen,_Sæby","Mikael Ralf Baade Larsen, Sæby",SF - Socialistisk Folkeparti,125
+Lejre,6,Hvalsø,"F_Claus_Jørgensen,_Lejre","Claus Jørgensen, Lejre",SF - Socialistisk Folkeparti,83
+Lejre,6,Hvalsø,"F_Susanne_Borup,_Trællerup","Susanne Borup, Trællerup",SF - Socialistisk Folkeparti,28
+Lejre,6,Hvalsø,"F_Irene_Porse,_Kisserup","Irene Porse, Kisserup",SF - Socialistisk Folkeparti,65
+Lejre,6,Hvalsø,"F_Knud_Larsen,_Gøderup","Knud Larsen, Gøderup",SF - Socialistisk Folkeparti,1
+Lejre,6,Hvalsø,"F_Kristian_Isbrand,_Kyndeløse","Kristian Isbrand, Kyndeløse",SF - Socialistisk Folkeparti,3
+Lejre,6,Hvalsø,"F_Villy_Hauritz,_Kr._Såby","Villy Hauritz, Kr. Såby",SF - Socialistisk Folkeparti,21
+Lejre,6,Hvalsø,"F_Anders_Bredsdorff,_Osted","Anders Bredsdorff, Osted",SF - Socialistisk Folkeparti,4
+Lejre,6,Hvalsø,I_Listestemmer,Listestemmer,Liberal Alliance,20
+Lejre,6,Hvalsø,I_Jon_Lorentsfeldt,Jon Lorentsfeldt,Liberal Alliance,3
+Lejre,6,Hvalsø,I_Sarah_Puk_Pedersen,Sarah Puk Pedersen,Liberal Alliance,7
+Lejre,6,Hvalsø,I_Susan_Møller,Susan Møller,Liberal Alliance,0
+Lejre,6,Hvalsø,I_Joachim_Riis-Bernickow,Joachim Riis-Bernickow,Liberal Alliance,7
+Lejre,6,Hvalsø,L_Listestemmer,Listestemmer,Lokallisten Levende Landsbyer,25
+Lejre,6,Hvalsø,L_Niels_Boye,Niels Boye,Lokallisten Levende Landsbyer,9
+Lejre,6,Hvalsø,L_Jesper_Reumert,Jesper Reumert,Lokallisten Levende Landsbyer,20
+Lejre,6,Hvalsø,O_Listestemmer,Listestemmer,Dansk Folkeparti,25
+Lejre,6,Hvalsø,O_Ole_Blickfeldt,Ole Blickfeldt,Dansk Folkeparti,45
+Lejre,6,Hvalsø,O_Steen_Hansen,Steen Hansen,Dansk Folkeparti,10
+Lejre,6,Hvalsø,O_Lotte_Hauritz,Lotte Hauritz,Dansk Folkeparti,6
+Lejre,6,Hvalsø,O_Kurt_Kristiansen,Kurt Kristiansen,Dansk Folkeparti,0
+Lejre,6,Hvalsø,O_Regina_de_Gijsel,Regina de Gijsel,Dansk Folkeparti,2
+Lejre,6,Hvalsø,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",119
+Lejre,6,Hvalsø,V_Tina_Mandrup,Tina Mandrup,"Venstre, Danmarks Liberale Parti",235
+Lejre,6,Hvalsø,V_Flemming_Damgaard_Larsen,Flemming Damgaard Larsen,"Venstre, Danmarks Liberale Parti",20
+Lejre,6,Hvalsø,V_Lotte_Greve,Lotte Greve,"Venstre, Danmarks Liberale Parti",26
+Lejre,6,Hvalsø,V_Jens_K._Jensen,Jens K. Jensen,"Venstre, Danmarks Liberale Parti",6
+Lejre,6,Hvalsø,V_Carsten_Helles_Rasmussen,Carsten Helles Rasmussen,"Venstre, Danmarks Liberale Parti",12
+Lejre,6,Hvalsø,V_Christian_Fjeldsted_Andersen,Christian Fjeldsted Andersen,"Venstre, Danmarks Liberale Parti",6
+Lejre,6,Hvalsø,V_Henning_Nielsen,Henning Nielsen,"Venstre, Danmarks Liberale Parti",2
+Lejre,6,Hvalsø,V_Poul_Nielsen,Poul Nielsen,"Venstre, Danmarks Liberale Parti",47
+Lejre,6,Hvalsø,V_Lars_Kimer_Mortensen,Lars Kimer Mortensen,"Venstre, Danmarks Liberale Parti",5
+Lejre,6,Hvalsø,V_Klaus_Kristiansen,Klaus Kristiansen,"Venstre, Danmarks Liberale Parti",4
+Lejre,6,Hvalsø,V_Hans_C._Kongsgaard_Nielsen,Hans C. Kongsgaard Nielsen,"Venstre, Danmarks Liberale Parti",1
+Lejre,6,Hvalsø,V_Erik_Hestbæk,Erik Hestbæk,"Venstre, Danmarks Liberale Parti",6
+Lejre,6,Hvalsø,V_Morten_Kronholm,Morten Kronholm,"Venstre, Danmarks Liberale Parti",5
+Lejre,6,Hvalsø,V_Niels_Mortensen,Niels Mortensen,"Venstre, Danmarks Liberale Parti",0
+Lejre,6,Hvalsø,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,77
+Lejre,6,Hvalsø,"Ø_Ivan_Mott,_Øm","Ivan Mott, Øm",Enhedslisten - De Rød-Grønne,55
+Lejre,6,Hvalsø,"Ø_Nicki_Jensen,_Hvalsø","Nicki Jensen, Hvalsø",Enhedslisten - De Rød-Grønne,31
+Lejre,6,Hvalsø,"Ø_Astrid_Vejby_Krarup_Mott,_Hvalsø","Astrid Vejby Krarup Mott, Hvalsø",Enhedslisten - De Rød-Grønne,78
+Lejre,6,Hvalsø,"Ø_Marie_Reynolds,_Herslev","Marie Reynolds, Herslev",Enhedslisten - De Rød-Grønne,36
+Lejre,6,Hvalsø,"Ø_Patrick_Wymer,_Ejby","Patrick Wymer, Ejby",Enhedslisten - De Rød-Grønne,2
+Lejre,6,Hvalsø,"Ø_Rolf_Dupont,_Hvalsø","Rolf Dupont, Hvalsø",Enhedslisten - De Rød-Grønne,11
+Lejre,8,Kr.Såby,A_Listestemmer,Listestemmer,Socialdemokratiet,96
+Lejre,8,Kr.Såby,"A_Carsten_Rasmussen,_Kirke_Hyllinge","Carsten Rasmussen, Kirke Hyllinge",Socialdemokratiet,90
+Lejre,8,Kr.Såby,"A_Connie_B._Jensen,_Lejre","Connie B. Jensen, Lejre",Socialdemokratiet,6
+Lejre,8,Kr.Såby,"A_Rikke_Zwisler_Grøndal,_Hvalsø","Rikke Zwisler Grøndal, Hvalsø",Socialdemokratiet,41
+Lejre,8,Kr.Såby,"A_Burak_Ulrik_Ulucan,_Osted","Burak Ulrik Ulucan, Osted",Socialdemokratiet,9
+Lejre,8,Kr.Såby,"A_Bente_Blumensaat,_Ejby","Bente Blumensaat, Ejby",Socialdemokratiet,0
+Lejre,8,Kr.Såby,"A_Poul_Ricard_Christensen,_Hvalsø","Poul Ricard Christensen, Hvalsø",Socialdemokratiet,10
+Lejre,8,Kr.Såby,"A_Sine_Gormsen,_Lejre","Sine Gormsen, Lejre",Socialdemokratiet,3
+Lejre,8,Kr.Såby,"A_Martin_Stokholm,_Hvalsø","Martin Stokholm, Hvalsø",Socialdemokratiet,7
+Lejre,8,Kr.Såby,"A_Jette_Jensen,_Vester_Såby","Jette Jensen, Vester Såby",Socialdemokratiet,26
+Lejre,8,Kr.Såby,"A_Jørgen_Schwensen,_Hvalsø","Jørgen Schwensen, Hvalsø",Socialdemokratiet,5
+Lejre,8,Kr.Såby,"A_Inga_Steffensen,_Sæby","Inga Steffensen, Sæby",Socialdemokratiet,0
+Lejre,8,Kr.Såby,B_Listestemmer,Listestemmer,Radikale Venstre,9
+Lejre,8,Kr.Såby,"B_Thomas_Bisgaard,_Osted","Thomas Bisgaard, Osted",Radikale Venstre,11
+Lejre,8,Kr.Såby,"B_Rasmus_Mackeprang,_Særløse","Rasmus Mackeprang, Særløse",Radikale Venstre,3
+Lejre,8,Kr.Såby,"B_Rie_Haagen,_Englerup","Rie Haagen, Englerup",Radikale Venstre,8
+Lejre,8,Kr.Såby,"B_Ole_Bjørn,_Lejre","Ole Bjørn, Lejre",Radikale Venstre,0
+Lejre,8,Kr.Såby,"B_Asta_Rasmussen,_Ejby","Asta Rasmussen, Ejby",Radikale Venstre,5
+Lejre,8,Kr.Såby,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,44
+Lejre,8,Kr.Såby,C_Grethe_Saabye,Grethe Saabye,Det Konservative Folkeparti,159
+Lejre,8,Kr.Såby,C_Bjørn_Lykke_Sørensen,Bjørn Lykke Sørensen,Det Konservative Folkeparti,6
+Lejre,8,Kr.Såby,C_Birgitte_Schytte,Birgitte Schytte,Det Konservative Folkeparti,70
+Lejre,8,Kr.Såby,C_Ida_Dyhr,Ida Dyhr,Det Konservative Folkeparti,62
+Lejre,8,Kr.Såby,C_Rune_Nymann,Rune Nymann,Det Konservative Folkeparti,0
+Lejre,8,Kr.Såby,C_Jesper_Fischer,Jesper Fischer,Det Konservative Folkeparti,2
+Lejre,8,Kr.Såby,C_Henrik_Svanholm,Henrik Svanholm,Det Konservative Folkeparti,3
+Lejre,8,Kr.Såby,C_Bjarke_Therkildsen,Bjarke Therkildsen,Det Konservative Folkeparti,0
+Lejre,8,Kr.Såby,D_Listestemmer,Listestemmer,Nye Borgerlige,24
+Lejre,8,Kr.Såby,"D_Karl_Simonsen,_Osted","Karl Simonsen, Osted",Nye Borgerlige,7
+Lejre,8,Kr.Såby,"D_Thomas_Bording,_Lejre","Thomas Bording, Lejre",Nye Borgerlige,25
+Lejre,8,Kr.Såby,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,76
+Lejre,8,Kr.Såby,"F_Mikael_Ralf_Baade_Larsen,_Sæby","Mikael Ralf Baade Larsen, Sæby",SF - Socialistisk Folkeparti,129
+Lejre,8,Kr.Såby,"F_Claus_Jørgensen,_Lejre","Claus Jørgensen, Lejre",SF - Socialistisk Folkeparti,13
+Lejre,8,Kr.Såby,"F_Susanne_Borup,_Trællerup","Susanne Borup, Trællerup",SF - Socialistisk Folkeparti,13
+Lejre,8,Kr.Såby,"F_Irene_Porse,_Kisserup","Irene Porse, Kisserup",SF - Socialistisk Folkeparti,19
+Lejre,8,Kr.Såby,"F_Knud_Larsen,_Gøderup","Knud Larsen, Gøderup",SF - Socialistisk Folkeparti,0
+Lejre,8,Kr.Såby,"F_Kristian_Isbrand,_Kyndeløse","Kristian Isbrand, Kyndeløse",SF - Socialistisk Folkeparti,0
+Lejre,8,Kr.Såby,"F_Villy_Hauritz,_Kr._Såby","Villy Hauritz, Kr. Såby",SF - Socialistisk Folkeparti,38
+Lejre,8,Kr.Såby,"F_Anders_Bredsdorff,_Osted","Anders Bredsdorff, Osted",SF - Socialistisk Folkeparti,1
+Lejre,8,Kr.Såby,I_Listestemmer,Listestemmer,Liberal Alliance,9
+Lejre,8,Kr.Såby,I_Jon_Lorentsfeldt,Jon Lorentsfeldt,Liberal Alliance,7
+Lejre,8,Kr.Såby,I_Sarah_Puk_Pedersen,Sarah Puk Pedersen,Liberal Alliance,0
+Lejre,8,Kr.Såby,I_Susan_Møller,Susan Møller,Liberal Alliance,0
+Lejre,8,Kr.Såby,I_Joachim_Riis-Bernickow,Joachim Riis-Bernickow,Liberal Alliance,6
+Lejre,8,Kr.Såby,L_Listestemmer,Listestemmer,Lokallisten Levende Landsbyer,15
+Lejre,8,Kr.Såby,L_Niels_Boye,Niels Boye,Lokallisten Levende Landsbyer,16
+Lejre,8,Kr.Såby,L_Jesper_Reumert,Jesper Reumert,Lokallisten Levende Landsbyer,45
+Lejre,8,Kr.Såby,O_Listestemmer,Listestemmer,Dansk Folkeparti,39
+Lejre,8,Kr.Såby,O_Ole_Blickfeldt,Ole Blickfeldt,Dansk Folkeparti,27
+Lejre,8,Kr.Såby,O_Steen_Hansen,Steen Hansen,Dansk Folkeparti,3
+Lejre,8,Kr.Såby,O_Lotte_Hauritz,Lotte Hauritz,Dansk Folkeparti,9
+Lejre,8,Kr.Såby,O_Kurt_Kristiansen,Kurt Kristiansen,Dansk Folkeparti,1
+Lejre,8,Kr.Såby,O_Regina_de_Gijsel,Regina de Gijsel,Dansk Folkeparti,0
+Lejre,8,Kr.Såby,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",73
+Lejre,8,Kr.Såby,V_Tina_Mandrup,Tina Mandrup,"Venstre, Danmarks Liberale Parti",136
+Lejre,8,Kr.Såby,V_Flemming_Damgaard_Larsen,Flemming Damgaard Larsen,"Venstre, Danmarks Liberale Parti",26
+Lejre,8,Kr.Såby,V_Lotte_Greve,Lotte Greve,"Venstre, Danmarks Liberale Parti",19
+Lejre,8,Kr.Såby,V_Jens_K._Jensen,Jens K. Jensen,"Venstre, Danmarks Liberale Parti",11
+Lejre,8,Kr.Såby,V_Carsten_Helles_Rasmussen,Carsten Helles Rasmussen,"Venstre, Danmarks Liberale Parti",7
+Lejre,8,Kr.Såby,V_Christian_Fjeldsted_Andersen,Christian Fjeldsted Andersen,"Venstre, Danmarks Liberale Parti",7
+Lejre,8,Kr.Såby,V_Henning_Nielsen,Henning Nielsen,"Venstre, Danmarks Liberale Parti",4
+Lejre,8,Kr.Såby,V_Poul_Nielsen,Poul Nielsen,"Venstre, Danmarks Liberale Parti",8
+Lejre,8,Kr.Såby,V_Lars_Kimer_Mortensen,Lars Kimer Mortensen,"Venstre, Danmarks Liberale Parti",3
+Lejre,8,Kr.Såby,V_Klaus_Kristiansen,Klaus Kristiansen,"Venstre, Danmarks Liberale Parti",4
+Lejre,8,Kr.Såby,V_Hans_C._Kongsgaard_Nielsen,Hans C. Kongsgaard Nielsen,"Venstre, Danmarks Liberale Parti",1
+Lejre,8,Kr.Såby,V_Erik_Hestbæk,Erik Hestbæk,"Venstre, Danmarks Liberale Parti",2
+Lejre,8,Kr.Såby,V_Morten_Kronholm,Morten Kronholm,"Venstre, Danmarks Liberale Parti",9
+Lejre,8,Kr.Såby,V_Niels_Mortensen,Niels Mortensen,"Venstre, Danmarks Liberale Parti",0
+Lejre,8,Kr.Såby,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,36
+Lejre,8,Kr.Såby,"Ø_Ivan_Mott,_Øm","Ivan Mott, Øm",Enhedslisten - De Rød-Grønne,7
+Lejre,8,Kr.Såby,"Ø_Nicki_Jensen,_Hvalsø","Nicki Jensen, Hvalsø",Enhedslisten - De Rød-Grønne,6
+Lejre,8,Kr.Såby,"Ø_Astrid_Vejby_Krarup_Mott,_Hvalsø","Astrid Vejby Krarup Mott, Hvalsø",Enhedslisten - De Rød-Grønne,10
+Lejre,8,Kr.Såby,"Ø_Marie_Reynolds,_Herslev","Marie Reynolds, Herslev",Enhedslisten - De Rød-Grønne,11
+Lejre,8,Kr.Såby,"Ø_Patrick_Wymer,_Ejby","Patrick Wymer, Ejby",Enhedslisten - De Rød-Grønne,2
+Lejre,8,Kr.Såby,"Ø_Rolf_Dupont,_Hvalsø","Rolf Dupont, Hvalsø",Enhedslisten - De Rød-Grønne,0
+Lejre,9,Gevninge,A_Listestemmer,Listestemmer,Socialdemokratiet,115
+Lejre,9,Gevninge,"A_Carsten_Rasmussen,_Kirke_Hyllinge","Carsten Rasmussen, Kirke Hyllinge",Socialdemokratiet,102
+Lejre,9,Gevninge,"A_Connie_B._Jensen,_Lejre","Connie B. Jensen, Lejre",Socialdemokratiet,21
+Lejre,9,Gevninge,"A_Rikke_Zwisler_Grøndal,_Hvalsø","Rikke Zwisler Grøndal, Hvalsø",Socialdemokratiet,10
+Lejre,9,Gevninge,"A_Burak_Ulrik_Ulucan,_Osted","Burak Ulrik Ulucan, Osted",Socialdemokratiet,13
+Lejre,9,Gevninge,"A_Bente_Blumensaat,_Ejby","Bente Blumensaat, Ejby",Socialdemokratiet,7
+Lejre,9,Gevninge,"A_Poul_Ricard_Christensen,_Hvalsø","Poul Ricard Christensen, Hvalsø",Socialdemokratiet,0
+Lejre,9,Gevninge,"A_Sine_Gormsen,_Lejre","Sine Gormsen, Lejre",Socialdemokratiet,17
+Lejre,9,Gevninge,"A_Martin_Stokholm,_Hvalsø","Martin Stokholm, Hvalsø",Socialdemokratiet,6
+Lejre,9,Gevninge,"A_Jette_Jensen,_Vester_Såby","Jette Jensen, Vester Såby",Socialdemokratiet,1
+Lejre,9,Gevninge,"A_Jørgen_Schwensen,_Hvalsø","Jørgen Schwensen, Hvalsø",Socialdemokratiet,3
+Lejre,9,Gevninge,"A_Inga_Steffensen,_Sæby","Inga Steffensen, Sæby",Socialdemokratiet,4
+Lejre,9,Gevninge,B_Listestemmer,Listestemmer,Radikale Venstre,11
+Lejre,9,Gevninge,"B_Thomas_Bisgaard,_Osted","Thomas Bisgaard, Osted",Radikale Venstre,13
+Lejre,9,Gevninge,"B_Rasmus_Mackeprang,_Særløse","Rasmus Mackeprang, Særløse",Radikale Venstre,1
+Lejre,9,Gevninge,"B_Rie_Haagen,_Englerup","Rie Haagen, Englerup",Radikale Venstre,13
+Lejre,9,Gevninge,"B_Ole_Bjørn,_Lejre","Ole Bjørn, Lejre",Radikale Venstre,7
+Lejre,9,Gevninge,"B_Asta_Rasmussen,_Ejby","Asta Rasmussen, Ejby",Radikale Venstre,3
+Lejre,9,Gevninge,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,63
+Lejre,9,Gevninge,C_Grethe_Saabye,Grethe Saabye,Det Konservative Folkeparti,92
+Lejre,9,Gevninge,C_Bjørn_Lykke_Sørensen,Bjørn Lykke Sørensen,Det Konservative Folkeparti,15
+Lejre,9,Gevninge,C_Birgitte_Schytte,Birgitte Schytte,Det Konservative Folkeparti,14
+Lejre,9,Gevninge,C_Ida_Dyhr,Ida Dyhr,Det Konservative Folkeparti,22
+Lejre,9,Gevninge,C_Rune_Nymann,Rune Nymann,Det Konservative Folkeparti,5
+Lejre,9,Gevninge,C_Jesper_Fischer,Jesper Fischer,Det Konservative Folkeparti,5
+Lejre,9,Gevninge,C_Henrik_Svanholm,Henrik Svanholm,Det Konservative Folkeparti,2
+Lejre,9,Gevninge,C_Bjarke_Therkildsen,Bjarke Therkildsen,Det Konservative Folkeparti,0
+Lejre,9,Gevninge,D_Listestemmer,Listestemmer,Nye Borgerlige,26
+Lejre,9,Gevninge,"D_Karl_Simonsen,_Osted","Karl Simonsen, Osted",Nye Borgerlige,12
+Lejre,9,Gevninge,"D_Thomas_Bording,_Lejre","Thomas Bording, Lejre",Nye Borgerlige,14
+Lejre,9,Gevninge,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,74
+Lejre,9,Gevninge,"F_Mikael_Ralf_Baade_Larsen,_Sæby","Mikael Ralf Baade Larsen, Sæby",SF - Socialistisk Folkeparti,40
+Lejre,9,Gevninge,"F_Claus_Jørgensen,_Lejre","Claus Jørgensen, Lejre",SF - Socialistisk Folkeparti,41
+Lejre,9,Gevninge,"F_Susanne_Borup,_Trællerup","Susanne Borup, Trællerup",SF - Socialistisk Folkeparti,77
+Lejre,9,Gevninge,"F_Irene_Porse,_Kisserup","Irene Porse, Kisserup",SF - Socialistisk Folkeparti,8
+Lejre,9,Gevninge,"F_Knud_Larsen,_Gøderup","Knud Larsen, Gøderup",SF - Socialistisk Folkeparti,0
+Lejre,9,Gevninge,"F_Kristian_Isbrand,_Kyndeløse","Kristian Isbrand, Kyndeløse",SF - Socialistisk Folkeparti,0
+Lejre,9,Gevninge,"F_Villy_Hauritz,_Kr._Såby","Villy Hauritz, Kr. Såby",SF - Socialistisk Folkeparti,4
+Lejre,9,Gevninge,"F_Anders_Bredsdorff,_Osted","Anders Bredsdorff, Osted",SF - Socialistisk Folkeparti,2
+Lejre,9,Gevninge,I_Listestemmer,Listestemmer,Liberal Alliance,10
+Lejre,9,Gevninge,I_Jon_Lorentsfeldt,Jon Lorentsfeldt,Liberal Alliance,5
+Lejre,9,Gevninge,I_Sarah_Puk_Pedersen,Sarah Puk Pedersen,Liberal Alliance,4
+Lejre,9,Gevninge,I_Susan_Møller,Susan Møller,Liberal Alliance,1
+Lejre,9,Gevninge,I_Joachim_Riis-Bernickow,Joachim Riis-Bernickow,Liberal Alliance,2
+Lejre,9,Gevninge,L_Listestemmer,Listestemmer,Lokallisten Levende Landsbyer,13
+Lejre,9,Gevninge,L_Niels_Boye,Niels Boye,Lokallisten Levende Landsbyer,7
+Lejre,9,Gevninge,L_Jesper_Reumert,Jesper Reumert,Lokallisten Levende Landsbyer,6
+Lejre,9,Gevninge,O_Listestemmer,Listestemmer,Dansk Folkeparti,17
+Lejre,9,Gevninge,O_Ole_Blickfeldt,Ole Blickfeldt,Dansk Folkeparti,30
+Lejre,9,Gevninge,O_Steen_Hansen,Steen Hansen,Dansk Folkeparti,2
+Lejre,9,Gevninge,O_Lotte_Hauritz,Lotte Hauritz,Dansk Folkeparti,5
+Lejre,9,Gevninge,O_Kurt_Kristiansen,Kurt Kristiansen,Dansk Folkeparti,0
+Lejre,9,Gevninge,O_Regina_de_Gijsel,Regina de Gijsel,Dansk Folkeparti,3
+Lejre,9,Gevninge,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",57
+Lejre,9,Gevninge,V_Tina_Mandrup,Tina Mandrup,"Venstre, Danmarks Liberale Parti",470
+Lejre,9,Gevninge,V_Flemming_Damgaard_Larsen,Flemming Damgaard Larsen,"Venstre, Danmarks Liberale Parti",23
+Lejre,9,Gevninge,V_Lotte_Greve,Lotte Greve,"Venstre, Danmarks Liberale Parti",11
+Lejre,9,Gevninge,V_Jens_K._Jensen,Jens K. Jensen,"Venstre, Danmarks Liberale Parti",4
+Lejre,9,Gevninge,V_Carsten_Helles_Rasmussen,Carsten Helles Rasmussen,"Venstre, Danmarks Liberale Parti",7
+Lejre,9,Gevninge,V_Christian_Fjeldsted_Andersen,Christian Fjeldsted Andersen,"Venstre, Danmarks Liberale Parti",6
+Lejre,9,Gevninge,V_Henning_Nielsen,Henning Nielsen,"Venstre, Danmarks Liberale Parti",5
+Lejre,9,Gevninge,V_Poul_Nielsen,Poul Nielsen,"Venstre, Danmarks Liberale Parti",3
+Lejre,9,Gevninge,V_Lars_Kimer_Mortensen,Lars Kimer Mortensen,"Venstre, Danmarks Liberale Parti",5
+Lejre,9,Gevninge,V_Klaus_Kristiansen,Klaus Kristiansen,"Venstre, Danmarks Liberale Parti",8
+Lejre,9,Gevninge,V_Hans_C._Kongsgaard_Nielsen,Hans C. Kongsgaard Nielsen,"Venstre, Danmarks Liberale Parti",10
+Lejre,9,Gevninge,V_Erik_Hestbæk,Erik Hestbæk,"Venstre, Danmarks Liberale Parti",6
+Lejre,9,Gevninge,V_Morten_Kronholm,Morten Kronholm,"Venstre, Danmarks Liberale Parti",9
+Lejre,9,Gevninge,V_Niels_Mortensen,Niels Mortensen,"Venstre, Danmarks Liberale Parti",4
+Lejre,9,Gevninge,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,32
+Lejre,9,Gevninge,"Ø_Ivan_Mott,_Øm","Ivan Mott, Øm",Enhedslisten - De Rød-Grønne,19
+Lejre,9,Gevninge,"Ø_Nicki_Jensen,_Hvalsø","Nicki Jensen, Hvalsø",Enhedslisten - De Rød-Grønne,2
+Lejre,9,Gevninge,"Ø_Astrid_Vejby_Krarup_Mott,_Hvalsø","Astrid Vejby Krarup Mott, Hvalsø",Enhedslisten - De Rød-Grønne,5
+Lejre,9,Gevninge,"Ø_Marie_Reynolds,_Herslev","Marie Reynolds, Herslev",Enhedslisten - De Rød-Grønne,59
+Lejre,9,Gevninge,"Ø_Patrick_Wymer,_Ejby","Patrick Wymer, Ejby",Enhedslisten - De Rød-Grønne,2
+Lejre,9,Gevninge,"Ø_Rolf_Dupont,_Hvalsø","Rolf Dupont, Hvalsø",Enhedslisten - De Rød-Grønne,1
+Lejre,11,Lejre,A_Listestemmer,Listestemmer,Socialdemokratiet,44
+Lejre,11,Lejre,"A_Carsten_Rasmussen,_Kirke_Hyllinge","Carsten Rasmussen, Kirke Hyllinge",Socialdemokratiet,37
+Lejre,11,Lejre,"A_Connie_B._Jensen,_Lejre","Connie B. Jensen, Lejre",Socialdemokratiet,34
+Lejre,11,Lejre,"A_Rikke_Zwisler_Grøndal,_Hvalsø","Rikke Zwisler Grøndal, Hvalsø",Socialdemokratiet,3
+Lejre,11,Lejre,"A_Burak_Ulrik_Ulucan,_Osted","Burak Ulrik Ulucan, Osted",Socialdemokratiet,16
+Lejre,11,Lejre,"A_Bente_Blumensaat,_Ejby","Bente Blumensaat, Ejby",Socialdemokratiet,2
+Lejre,11,Lejre,"A_Poul_Ricard_Christensen,_Hvalsø","Poul Ricard Christensen, Hvalsø",Socialdemokratiet,2
+Lejre,11,Lejre,"A_Sine_Gormsen,_Lejre","Sine Gormsen, Lejre",Socialdemokratiet,78
+Lejre,11,Lejre,"A_Martin_Stokholm,_Hvalsø","Martin Stokholm, Hvalsø",Socialdemokratiet,2
+Lejre,11,Lejre,"A_Jette_Jensen,_Vester_Såby","Jette Jensen, Vester Såby",Socialdemokratiet,2
+Lejre,11,Lejre,"A_Jørgen_Schwensen,_Hvalsø","Jørgen Schwensen, Hvalsø",Socialdemokratiet,0
+Lejre,11,Lejre,"A_Inga_Steffensen,_Sæby","Inga Steffensen, Sæby",Socialdemokratiet,1
+Lejre,11,Lejre,B_Listestemmer,Listestemmer,Radikale Venstre,31
+Lejre,11,Lejre,"B_Thomas_Bisgaard,_Osted","Thomas Bisgaard, Osted",Radikale Venstre,25
+Lejre,11,Lejre,"B_Rasmus_Mackeprang,_Særløse","Rasmus Mackeprang, Særløse",Radikale Venstre,2
+Lejre,11,Lejre,"B_Rie_Haagen,_Englerup","Rie Haagen, Englerup",Radikale Venstre,13
+Lejre,11,Lejre,"B_Ole_Bjørn,_Lejre","Ole Bjørn, Lejre",Radikale Venstre,26
+Lejre,11,Lejre,"B_Asta_Rasmussen,_Ejby","Asta Rasmussen, Ejby",Radikale Venstre,5
+Lejre,11,Lejre,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,48
+Lejre,11,Lejre,C_Grethe_Saabye,Grethe Saabye,Det Konservative Folkeparti,112
+Lejre,11,Lejre,C_Bjørn_Lykke_Sørensen,Bjørn Lykke Sørensen,Det Konservative Folkeparti,44
+Lejre,11,Lejre,C_Birgitte_Schytte,Birgitte Schytte,Det Konservative Folkeparti,13
+Lejre,11,Lejre,C_Ida_Dyhr,Ida Dyhr,Det Konservative Folkeparti,12
+Lejre,11,Lejre,C_Rune_Nymann,Rune Nymann,Det Konservative Folkeparti,38
+Lejre,11,Lejre,C_Jesper_Fischer,Jesper Fischer,Det Konservative Folkeparti,2
+Lejre,11,Lejre,C_Henrik_Svanholm,Henrik Svanholm,Det Konservative Folkeparti,11
+Lejre,11,Lejre,C_Bjarke_Therkildsen,Bjarke Therkildsen,Det Konservative Folkeparti,0
+Lejre,11,Lejre,D_Listestemmer,Listestemmer,Nye Borgerlige,9
+Lejre,11,Lejre,"D_Karl_Simonsen,_Osted","Karl Simonsen, Osted",Nye Borgerlige,5
+Lejre,11,Lejre,"D_Thomas_Bording,_Lejre","Thomas Bording, Lejre",Nye Borgerlige,11
+Lejre,11,Lejre,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,87
+Lejre,11,Lejre,"F_Mikael_Ralf_Baade_Larsen,_Sæby","Mikael Ralf Baade Larsen, Sæby",SF - Socialistisk Folkeparti,21
+Lejre,11,Lejre,"F_Claus_Jørgensen,_Lejre","Claus Jørgensen, Lejre",SF - Socialistisk Folkeparti,282
+Lejre,11,Lejre,"F_Susanne_Borup,_Trællerup","Susanne Borup, Trællerup",SF - Socialistisk Folkeparti,30
+Lejre,11,Lejre,"F_Irene_Porse,_Kisserup","Irene Porse, Kisserup",SF - Socialistisk Folkeparti,22
+Lejre,11,Lejre,"F_Knud_Larsen,_Gøderup","Knud Larsen, Gøderup",SF - Socialistisk Folkeparti,0
+Lejre,11,Lejre,"F_Kristian_Isbrand,_Kyndeløse","Kristian Isbrand, Kyndeløse",SF - Socialistisk Folkeparti,1
+Lejre,11,Lejre,"F_Villy_Hauritz,_Kr._Såby","Villy Hauritz, Kr. Såby",SF - Socialistisk Folkeparti,0
+Lejre,11,Lejre,"F_Anders_Bredsdorff,_Osted","Anders Bredsdorff, Osted",SF - Socialistisk Folkeparti,3
+Lejre,11,Lejre,I_Listestemmer,Listestemmer,Liberal Alliance,4
+Lejre,11,Lejre,I_Jon_Lorentsfeldt,Jon Lorentsfeldt,Liberal Alliance,0
+Lejre,11,Lejre,I_Sarah_Puk_Pedersen,Sarah Puk Pedersen,Liberal Alliance,0
+Lejre,11,Lejre,I_Susan_Møller,Susan Møller,Liberal Alliance,1
+Lejre,11,Lejre,I_Joachim_Riis-Bernickow,Joachim Riis-Bernickow,Liberal Alliance,10
+Lejre,11,Lejre,L_Listestemmer,Listestemmer,Lokallisten Levende Landsbyer,59
+Lejre,11,Lejre,L_Niels_Boye,Niels Boye,Lokallisten Levende Landsbyer,19
+Lejre,11,Lejre,L_Jesper_Reumert,Jesper Reumert,Lokallisten Levende Landsbyer,25
+Lejre,11,Lejre,O_Listestemmer,Listestemmer,Dansk Folkeparti,4
+Lejre,11,Lejre,O_Ole_Blickfeldt,Ole Blickfeldt,Dansk Folkeparti,14
+Lejre,11,Lejre,O_Steen_Hansen,Steen Hansen,Dansk Folkeparti,0
+Lejre,11,Lejre,O_Lotte_Hauritz,Lotte Hauritz,Dansk Folkeparti,1
+Lejre,11,Lejre,O_Kurt_Kristiansen,Kurt Kristiansen,Dansk Folkeparti,0
+Lejre,11,Lejre,O_Regina_de_Gijsel,Regina de Gijsel,Dansk Folkeparti,0
+Lejre,11,Lejre,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",62
+Lejre,11,Lejre,V_Tina_Mandrup,Tina Mandrup,"Venstre, Danmarks Liberale Parti",348
+Lejre,11,Lejre,V_Flemming_Damgaard_Larsen,Flemming Damgaard Larsen,"Venstre, Danmarks Liberale Parti",20
+Lejre,11,Lejre,V_Lotte_Greve,Lotte Greve,"Venstre, Danmarks Liberale Parti",7
+Lejre,11,Lejre,V_Jens_K._Jensen,Jens K. Jensen,"Venstre, Danmarks Liberale Parti",5
+Lejre,11,Lejre,V_Carsten_Helles_Rasmussen,Carsten Helles Rasmussen,"Venstre, Danmarks Liberale Parti",109
+Lejre,11,Lejre,V_Christian_Fjeldsted_Andersen,Christian Fjeldsted Andersen,"Venstre, Danmarks Liberale Parti",20
+Lejre,11,Lejre,V_Henning_Nielsen,Henning Nielsen,"Venstre, Danmarks Liberale Parti",0
+Lejre,11,Lejre,V_Poul_Nielsen,Poul Nielsen,"Venstre, Danmarks Liberale Parti",3
+Lejre,11,Lejre,V_Lars_Kimer_Mortensen,Lars Kimer Mortensen,"Venstre, Danmarks Liberale Parti",3
+Lejre,11,Lejre,V_Klaus_Kristiansen,Klaus Kristiansen,"Venstre, Danmarks Liberale Parti",48
+Lejre,11,Lejre,V_Hans_C._Kongsgaard_Nielsen,Hans C. Kongsgaard Nielsen,"Venstre, Danmarks Liberale Parti",23
+Lejre,11,Lejre,V_Erik_Hestbæk,Erik Hestbæk,"Venstre, Danmarks Liberale Parti",1
+Lejre,11,Lejre,V_Morten_Kronholm,Morten Kronholm,"Venstre, Danmarks Liberale Parti",3
+Lejre,11,Lejre,V_Niels_Mortensen,Niels Mortensen,"Venstre, Danmarks Liberale Parti",2
+Lejre,11,Lejre,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,79
+Lejre,11,Lejre,"Ø_Ivan_Mott,_Øm","Ivan Mott, Øm",Enhedslisten - De Rød-Grønne,35
+Lejre,11,Lejre,"Ø_Nicki_Jensen,_Hvalsø","Nicki Jensen, Hvalsø",Enhedslisten - De Rød-Grønne,8
+Lejre,11,Lejre,"Ø_Astrid_Vejby_Krarup_Mott,_Hvalsø","Astrid Vejby Krarup Mott, Hvalsø",Enhedslisten - De Rød-Grønne,30
+Lejre,11,Lejre,"Ø_Marie_Reynolds,_Herslev","Marie Reynolds, Herslev",Enhedslisten - De Rød-Grønne,48
+Lejre,11,Lejre,"Ø_Patrick_Wymer,_Ejby","Patrick Wymer, Ejby",Enhedslisten - De Rød-Grønne,3
+Lejre,11,Lejre,"Ø_Rolf_Dupont,_Hvalsø","Rolf Dupont, Hvalsø",Enhedslisten - De Rød-Grønne,5
+Lejre,12,Osted,A_Listestemmer,Listestemmer,Socialdemokratiet,110
+Lejre,12,Osted,"A_Carsten_Rasmussen,_Kirke_Hyllinge","Carsten Rasmussen, Kirke Hyllinge",Socialdemokratiet,97
+Lejre,12,Osted,"A_Connie_B._Jensen,_Lejre","Connie B. Jensen, Lejre",Socialdemokratiet,33
+Lejre,12,Osted,"A_Rikke_Zwisler_Grøndal,_Hvalsø","Rikke Zwisler Grøndal, Hvalsø",Socialdemokratiet,9
+Lejre,12,Osted,"A_Burak_Ulrik_Ulucan,_Osted","Burak Ulrik Ulucan, Osted",Socialdemokratiet,55
+Lejre,12,Osted,"A_Bente_Blumensaat,_Ejby","Bente Blumensaat, Ejby",Socialdemokratiet,4
+Lejre,12,Osted,"A_Poul_Ricard_Christensen,_Hvalsø","Poul Ricard Christensen, Hvalsø",Socialdemokratiet,7
+Lejre,12,Osted,"A_Sine_Gormsen,_Lejre","Sine Gormsen, Lejre",Socialdemokratiet,11
+Lejre,12,Osted,"A_Martin_Stokholm,_Hvalsø","Martin Stokholm, Hvalsø",Socialdemokratiet,9
+Lejre,12,Osted,"A_Jette_Jensen,_Vester_Såby","Jette Jensen, Vester Såby",Socialdemokratiet,6
+Lejre,12,Osted,"A_Jørgen_Schwensen,_Hvalsø","Jørgen Schwensen, Hvalsø",Socialdemokratiet,1
+Lejre,12,Osted,"A_Inga_Steffensen,_Sæby","Inga Steffensen, Sæby",Socialdemokratiet,2
+Lejre,12,Osted,B_Listestemmer,Listestemmer,Radikale Venstre,19
+Lejre,12,Osted,"B_Thomas_Bisgaard,_Osted","Thomas Bisgaard, Osted",Radikale Venstre,92
+Lejre,12,Osted,"B_Rasmus_Mackeprang,_Særløse","Rasmus Mackeprang, Særløse",Radikale Venstre,15
+Lejre,12,Osted,"B_Rie_Haagen,_Englerup","Rie Haagen, Englerup",Radikale Venstre,11
+Lejre,12,Osted,"B_Ole_Bjørn,_Lejre","Ole Bjørn, Lejre",Radikale Venstre,3
+Lejre,12,Osted,"B_Asta_Rasmussen,_Ejby","Asta Rasmussen, Ejby",Radikale Venstre,3
+Lejre,12,Osted,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,45
+Lejre,12,Osted,C_Grethe_Saabye,Grethe Saabye,Det Konservative Folkeparti,112
+Lejre,12,Osted,C_Bjørn_Lykke_Sørensen,Bjørn Lykke Sørensen,Det Konservative Folkeparti,19
+Lejre,12,Osted,C_Birgitte_Schytte,Birgitte Schytte,Det Konservative Folkeparti,14
+Lejre,12,Osted,C_Ida_Dyhr,Ida Dyhr,Det Konservative Folkeparti,18
+Lejre,12,Osted,C_Rune_Nymann,Rune Nymann,Det Konservative Folkeparti,8
+Lejre,12,Osted,C_Jesper_Fischer,Jesper Fischer,Det Konservative Folkeparti,4
+Lejre,12,Osted,C_Henrik_Svanholm,Henrik Svanholm,Det Konservative Folkeparti,0
+Lejre,12,Osted,C_Bjarke_Therkildsen,Bjarke Therkildsen,Det Konservative Folkeparti,0
+Lejre,12,Osted,D_Listestemmer,Listestemmer,Nye Borgerlige,25
+Lejre,12,Osted,"D_Karl_Simonsen,_Osted","Karl Simonsen, Osted",Nye Borgerlige,38
+Lejre,12,Osted,"D_Thomas_Bording,_Lejre","Thomas Bording, Lejre",Nye Borgerlige,13
+Lejre,12,Osted,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,66
+Lejre,12,Osted,"F_Mikael_Ralf_Baade_Larsen,_Sæby","Mikael Ralf Baade Larsen, Sæby",SF - Socialistisk Folkeparti,23
+Lejre,12,Osted,"F_Claus_Jørgensen,_Lejre","Claus Jørgensen, Lejre",SF - Socialistisk Folkeparti,33
+Lejre,12,Osted,"F_Susanne_Borup,_Trællerup","Susanne Borup, Trællerup",SF - Socialistisk Folkeparti,19
+Lejre,12,Osted,"F_Irene_Porse,_Kisserup","Irene Porse, Kisserup",SF - Socialistisk Folkeparti,10
+Lejre,12,Osted,"F_Knud_Larsen,_Gøderup","Knud Larsen, Gøderup",SF - Socialistisk Folkeparti,1
+Lejre,12,Osted,"F_Kristian_Isbrand,_Kyndeløse","Kristian Isbrand, Kyndeløse",SF - Socialistisk Folkeparti,0
+Lejre,12,Osted,"F_Villy_Hauritz,_Kr._Såby","Villy Hauritz, Kr. Såby",SF - Socialistisk Folkeparti,0
+Lejre,12,Osted,"F_Anders_Bredsdorff,_Osted","Anders Bredsdorff, Osted",SF - Socialistisk Folkeparti,40
+Lejre,12,Osted,I_Listestemmer,Listestemmer,Liberal Alliance,18
+Lejre,12,Osted,I_Jon_Lorentsfeldt,Jon Lorentsfeldt,Liberal Alliance,4
+Lejre,12,Osted,I_Sarah_Puk_Pedersen,Sarah Puk Pedersen,Liberal Alliance,1
+Lejre,12,Osted,I_Susan_Møller,Susan Møller,Liberal Alliance,4
+Lejre,12,Osted,I_Joachim_Riis-Bernickow,Joachim Riis-Bernickow,Liberal Alliance,12
+Lejre,12,Osted,L_Listestemmer,Listestemmer,Lokallisten Levende Landsbyer,14
+Lejre,12,Osted,L_Niels_Boye,Niels Boye,Lokallisten Levende Landsbyer,4
+Lejre,12,Osted,L_Jesper_Reumert,Jesper Reumert,Lokallisten Levende Landsbyer,5
+Lejre,12,Osted,O_Listestemmer,Listestemmer,Dansk Folkeparti,22
+Lejre,12,Osted,O_Ole_Blickfeldt,Ole Blickfeldt,Dansk Folkeparti,26
+Lejre,12,Osted,O_Steen_Hansen,Steen Hansen,Dansk Folkeparti,4
+Lejre,12,Osted,O_Lotte_Hauritz,Lotte Hauritz,Dansk Folkeparti,1
+Lejre,12,Osted,O_Kurt_Kristiansen,Kurt Kristiansen,Dansk Folkeparti,0
+Lejre,12,Osted,O_Regina_de_Gijsel,Regina de Gijsel,Dansk Folkeparti,0
+Lejre,12,Osted,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",102
+Lejre,12,Osted,V_Tina_Mandrup,Tina Mandrup,"Venstre, Danmarks Liberale Parti",210
+Lejre,12,Osted,V_Flemming_Damgaard_Larsen,Flemming Damgaard Larsen,"Venstre, Danmarks Liberale Parti",21
+Lejre,12,Osted,V_Lotte_Greve,Lotte Greve,"Venstre, Danmarks Liberale Parti",7
+Lejre,12,Osted,V_Jens_K._Jensen,Jens K. Jensen,"Venstre, Danmarks Liberale Parti",6
+Lejre,12,Osted,V_Carsten_Helles_Rasmussen,Carsten Helles Rasmussen,"Venstre, Danmarks Liberale Parti",18
+Lejre,12,Osted,V_Christian_Fjeldsted_Andersen,Christian Fjeldsted Andersen,"Venstre, Danmarks Liberale Parti",142
+Lejre,12,Osted,V_Henning_Nielsen,Henning Nielsen,"Venstre, Danmarks Liberale Parti",5
+Lejre,12,Osted,V_Poul_Nielsen,Poul Nielsen,"Venstre, Danmarks Liberale Parti",0
+Lejre,12,Osted,V_Lars_Kimer_Mortensen,Lars Kimer Mortensen,"Venstre, Danmarks Liberale Parti",3
+Lejre,12,Osted,V_Klaus_Kristiansen,Klaus Kristiansen,"Venstre, Danmarks Liberale Parti",8
+Lejre,12,Osted,V_Hans_C._Kongsgaard_Nielsen,Hans C. Kongsgaard Nielsen,"Venstre, Danmarks Liberale Parti",7
+Lejre,12,Osted,V_Erik_Hestbæk,Erik Hestbæk,"Venstre, Danmarks Liberale Parti",0
+Lejre,12,Osted,V_Morten_Kronholm,Morten Kronholm,"Venstre, Danmarks Liberale Parti",6
+Lejre,12,Osted,V_Niels_Mortensen,Niels Mortensen,"Venstre, Danmarks Liberale Parti",1
+Lejre,12,Osted,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,35
+Lejre,12,Osted,"Ø_Ivan_Mott,_Øm","Ivan Mott, Øm",Enhedslisten - De Rød-Grønne,19
+Lejre,12,Osted,"Ø_Nicki_Jensen,_Hvalsø","Nicki Jensen, Hvalsø",Enhedslisten - De Rød-Grønne,6
+Lejre,12,Osted,"Ø_Astrid_Vejby_Krarup_Mott,_Hvalsø","Astrid Vejby Krarup Mott, Hvalsø",Enhedslisten - De Rød-Grønne,16
+Lejre,12,Osted,"Ø_Marie_Reynolds,_Herslev","Marie Reynolds, Herslev",Enhedslisten - De Rød-Grønne,16
+Lejre,12,Osted,"Ø_Patrick_Wymer,_Ejby","Patrick Wymer, Ejby",Enhedslisten - De Rød-Grønne,1
+Lejre,12,Osted,"Ø_Rolf_Dupont,_Hvalsø","Rolf Dupont, Hvalsø",Enhedslisten - De Rød-Grønne,2

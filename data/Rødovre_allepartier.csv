@@ -1,0 +1,533 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Rødovre,1,Ørbygård,A_Listestemmer,Listestemmer,Socialdemokratiet,266
+Rødovre,1,Ørbygård,A_Britt_Jensen,Britt Jensen,Socialdemokratiet,370
+Rødovre,1,Ørbygård,A_Flemming_Lunde_Østergaard_Hansen,Flemming Lunde Østergaard Hansen,Socialdemokratiet,10
+Rødovre,1,Ørbygård,A_Annie_Arnoldsen_Petersen,Annie Arnoldsen Petersen,Socialdemokratiet,15
+Rødovre,1,Ørbygård,A_Jan_Kongebro,Jan Kongebro,Socialdemokratiet,7
+Rødovre,1,Ørbygård,A_Lene_Due,Lene Due,Socialdemokratiet,11
+Rødovre,1,Ørbygård,A_Michel_Berg,Michel Berg,Socialdemokratiet,8
+Rødovre,1,Ørbygård,A_Jesper_Clausson,Jesper Clausson,Socialdemokratiet,17
+Rødovre,1,Ørbygård,A_Birgitte_Glifberg,Birgitte Glifberg,Socialdemokratiet,15
+Rødovre,1,Ørbygård,A_Anette_Rachlitz,Anette Rachlitz,Socialdemokratiet,97
+Rødovre,1,Ørbygård,A_Ahmed_Huseen_Dhaqane,Ahmed Huseen Dhaqane,Socialdemokratiet,22
+Rødovre,1,Ørbygård,A_Pia_Hess_Larsen,Pia Hess Larsen,Socialdemokratiet,4
+Rødovre,1,Ørbygård,A_Miriam_Moazzeni,Miriam Moazzeni,Socialdemokratiet,4
+Rødovre,1,Ørbygård,A_Arbresh_Useini,Arbresh Useini,Socialdemokratiet,10
+Rødovre,1,Ørbygård,A_Ole_Gjøl,Ole Gjøl,Socialdemokratiet,2
+Rødovre,1,Ørbygård,A_Finn_Jørsby,Finn Jørsby,Socialdemokratiet,3
+Rødovre,1,Ørbygård,A_Bjarne_Sander,Bjarne Sander,Socialdemokratiet,5
+Rødovre,1,Ørbygård,B_Listestemmer,Listestemmer,Radikale Venstre,45
+Rødovre,1,Ørbygård,B_Kirsten_Aalling,Kirsten Aalling,Radikale Venstre,57
+Rødovre,1,Ørbygård,B_Christian_Knudsen,Christian Knudsen,Radikale Venstre,9
+Rødovre,1,Ørbygård,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,208
+Rødovre,1,Ørbygård,C_Kim_Drejer_Nielsen,Kim Drejer Nielsen,Det Konservative Folkeparti,85
+Rødovre,1,Ørbygård,C_Mogens_Brauer,Mogens Brauer,Det Konservative Folkeparti,25
+Rødovre,1,Ørbygård,C_Henriette_Hesselmann,Henriette Hesselmann,Det Konservative Folkeparti,50
+Rødovre,1,Ørbygård,C_Peter_Lund_Sørensen,Peter Lund Sørensen,Det Konservative Folkeparti,7
+Rødovre,1,Ørbygård,C_Jette_Louise_Larsen,Jette Louise Larsen,Det Konservative Folkeparti,31
+Rødovre,1,Ørbygård,C_Jens_Damgaard_Gøtzsche,Jens Damgaard Gøtzsche,Det Konservative Folkeparti,3
+Rødovre,1,Ørbygård,C_Tina_Hippe_Hansen,Tina Hippe Hansen,Det Konservative Folkeparti,17
+Rødovre,1,Ørbygård,C_Kenneth_Finsen,Kenneth Finsen,Det Konservative Folkeparti,23
+Rødovre,1,Ørbygård,C_Morten_Thoregaard,Morten Thoregaard,Det Konservative Folkeparti,9
+Rødovre,1,Ørbygård,C_Jens_Erik_Mejlsbye,Jens Erik Mejlsbye,Det Konservative Folkeparti,11
+Rødovre,1,Ørbygård,C_Michael_Boll_Jensen,Michael Boll Jensen,Det Konservative Folkeparti,6
+Rødovre,1,Ørbygård,C_Iben_Rude,Iben Rude,Det Konservative Folkeparti,4
+Rødovre,1,Ørbygård,C_Oliver_Lerbech_Petersen,Oliver Lerbech Petersen,Det Konservative Folkeparti,4
+Rødovre,1,Ørbygård,C_Lars_Glade,Lars Glade,Det Konservative Folkeparti,6
+Rødovre,1,Ørbygård,D_Listestemmer,Listestemmer,Nye Borgerlige,26
+Rødovre,1,Ørbygård,D_Ketil_Wathne_Rasmussen,Ketil Wathne Rasmussen,Nye Borgerlige,29
+Rødovre,1,Ørbygård,D_Karin_Johansson,Karin Johansson,Nye Borgerlige,4
+Rødovre,1,Ørbygård,D_Gitte_J._Jensen,Gitte J. Jensen,Nye Borgerlige,3
+Rødovre,1,Ørbygård,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,86
+Rødovre,1,Ørbygård,F_Kenneth_Rasmussen,Kenneth Rasmussen,SF - Socialistisk Folkeparti,56
+Rødovre,1,Ørbygård,F_Martin_Rosenkrantz,Martin Rosenkrantz,SF - Socialistisk Folkeparti,13
+Rødovre,1,Ørbygård,F_Henrik_Havn,Henrik Havn,SF - Socialistisk Folkeparti,11
+Rødovre,1,Ørbygård,F_Mille_Rasmussen,Mille Rasmussen,SF - Socialistisk Folkeparti,22
+Rødovre,1,Ørbygård,F_Maria_Grøndahl,Maria Grøndahl,SF - Socialistisk Folkeparti,8
+Rødovre,1,Ørbygård,F_Karen_Paldrup,Karen Paldrup,SF - Socialistisk Folkeparti,3
+Rødovre,1,Ørbygård,F_Preben_Riel,Preben Riel,SF - Socialistisk Folkeparti,4
+Rødovre,1,Ørbygård,F_Lars_Bæk,Lars Bæk,SF - Socialistisk Folkeparti,6
+Rødovre,1,Ørbygård,F_Birgit_Linneboe,Birgit Linneboe,SF - Socialistisk Folkeparti,3
+Rødovre,1,Ørbygård,F_Sebastian_Gudbergsen,Sebastian Gudbergsen,SF - Socialistisk Folkeparti,2
+Rødovre,1,Ørbygård,F_Torben_Petersen,Torben Petersen,SF - Socialistisk Folkeparti,1
+Rødovre,1,Ørbygård,F_Lone_Henriksen,Lone Henriksen,SF - Socialistisk Folkeparti,2
+Rødovre,1,Ørbygård,F_Christel_Jensen,Christel Jensen,SF - Socialistisk Folkeparti,1
+Rødovre,1,Ørbygård,F_Søren_Østergaard,Søren Østergaard,SF - Socialistisk Folkeparti,2
+Rødovre,1,Ørbygård,K_Listestemmer,Listestemmer,Kristendemokraterne,12
+Rødovre,1,Ørbygård,K_Johnnie_Gregersen,Johnnie Gregersen,Kristendemokraterne,11
+Rødovre,1,Ørbygård,K_Ingrid_Lang_Pedersen,Ingrid Lang Pedersen,Kristendemokraterne,13
+Rødovre,1,Ørbygård,O_Listestemmer,Listestemmer,Dansk Folkeparti,38
+Rødovre,1,Ørbygård,O_Kim_Hammer,Kim Hammer,Dansk Folkeparti,20
+Rødovre,1,Ørbygård,O_Julie_Korfitsen,Julie Korfitsen,Dansk Folkeparti,12
+Rødovre,1,Ørbygård,O_Torben_Holmberg,Torben Holmberg,Dansk Folkeparti,1
+Rødovre,1,Ørbygård,O_Henrik_Weinholt,Henrik Weinholt,Dansk Folkeparti,2
+Rødovre,1,Ørbygård,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",62
+Rødovre,1,Ørbygård,V_Mikkel_Molin,Mikkel Molin,"Venstre, Danmarks Liberale Parti",14
+Rødovre,1,Ørbygård,V_Lasse_Stensby_Baasch,Lasse Stensby Baasch,"Venstre, Danmarks Liberale Parti",62
+Rødovre,1,Ørbygård,V_Karin_Frøidt,Karin Frøidt,"Venstre, Danmarks Liberale Parti",15
+Rødovre,1,Ørbygård,V_Birgitte_Wesch,Birgitte Wesch,"Venstre, Danmarks Liberale Parti",2
+Rødovre,1,Ørbygård,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,98
+Rødovre,1,Ørbygård,Ø_Peter_Mikkelsen,Peter Mikkelsen,Enhedslisten - De Rød-Grønne,16
+Rødovre,1,Ørbygård,Ø_Marianne_Christensen,Marianne Christensen,Enhedslisten - De Rød-Grønne,12
+Rødovre,1,Ørbygård,Ø_Necla_Baran,Necla Baran,Enhedslisten - De Rød-Grønne,22
+Rødovre,1,Ørbygård,Ø_Lukas_Skjalm_Lissner,Lukas Skjalm Lissner,Enhedslisten - De Rød-Grønne,27
+Rødovre,1,Ørbygård,Ø_Annette_Skinhøj,Annette Skinhøj,Enhedslisten - De Rød-Grønne,8
+Rødovre,1,Ørbygård,Ø_Bo_Langgaard,Bo Langgaard,Enhedslisten - De Rød-Grønne,0
+Rødovre,1,Ørbygård,Ø_Gry_Nielsen,Gry Nielsen,Enhedslisten - De Rød-Grønne,16
+Rødovre,1,Ørbygård,Ø_Vibeke_Kold,Vibeke Kold,Enhedslisten - De Rød-Grønne,9
+Rødovre,2,Tinderhøj,A_Listestemmer,Listestemmer,Socialdemokratiet,535
+Rødovre,2,Tinderhøj,A_Britt_Jensen,Britt Jensen,Socialdemokratiet,477
+Rødovre,2,Tinderhøj,A_Flemming_Lunde_Østergaard_Hansen,Flemming Lunde Østergaard Hansen,Socialdemokratiet,16
+Rødovre,2,Tinderhøj,A_Annie_Arnoldsen_Petersen,Annie Arnoldsen Petersen,Socialdemokratiet,29
+Rødovre,2,Tinderhøj,A_Jan_Kongebro,Jan Kongebro,Socialdemokratiet,11
+Rødovre,2,Tinderhøj,A_Lene_Due,Lene Due,Socialdemokratiet,22
+Rødovre,2,Tinderhøj,A_Michel_Berg,Michel Berg,Socialdemokratiet,25
+Rødovre,2,Tinderhøj,A_Jesper_Clausson,Jesper Clausson,Socialdemokratiet,14
+Rødovre,2,Tinderhøj,A_Birgitte_Glifberg,Birgitte Glifberg,Socialdemokratiet,27
+Rødovre,2,Tinderhøj,A_Anette_Rachlitz,Anette Rachlitz,Socialdemokratiet,10
+Rødovre,2,Tinderhøj,A_Ahmed_Huseen_Dhaqane,Ahmed Huseen Dhaqane,Socialdemokratiet,51
+Rødovre,2,Tinderhøj,A_Pia_Hess_Larsen,Pia Hess Larsen,Socialdemokratiet,21
+Rødovre,2,Tinderhøj,A_Miriam_Moazzeni,Miriam Moazzeni,Socialdemokratiet,13
+Rødovre,2,Tinderhøj,A_Arbresh_Useini,Arbresh Useini,Socialdemokratiet,9
+Rødovre,2,Tinderhøj,A_Ole_Gjøl,Ole Gjøl,Socialdemokratiet,2
+Rødovre,2,Tinderhøj,A_Finn_Jørsby,Finn Jørsby,Socialdemokratiet,4
+Rødovre,2,Tinderhøj,A_Bjarne_Sander,Bjarne Sander,Socialdemokratiet,6
+Rødovre,2,Tinderhøj,B_Listestemmer,Listestemmer,Radikale Venstre,30
+Rødovre,2,Tinderhøj,B_Kirsten_Aalling,Kirsten Aalling,Radikale Venstre,25
+Rødovre,2,Tinderhøj,B_Christian_Knudsen,Christian Knudsen,Radikale Venstre,9
+Rødovre,2,Tinderhøj,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,192
+Rødovre,2,Tinderhøj,C_Kim_Drejer_Nielsen,Kim Drejer Nielsen,Det Konservative Folkeparti,115
+Rødovre,2,Tinderhøj,C_Mogens_Brauer,Mogens Brauer,Det Konservative Folkeparti,16
+Rødovre,2,Tinderhøj,C_Henriette_Hesselmann,Henriette Hesselmann,Det Konservative Folkeparti,50
+Rødovre,2,Tinderhøj,C_Peter_Lund_Sørensen,Peter Lund Sørensen,Det Konservative Folkeparti,12
+Rødovre,2,Tinderhøj,C_Jette_Louise_Larsen,Jette Louise Larsen,Det Konservative Folkeparti,8
+Rødovre,2,Tinderhøj,C_Jens_Damgaard_Gøtzsche,Jens Damgaard Gøtzsche,Det Konservative Folkeparti,14
+Rødovre,2,Tinderhøj,C_Tina_Hippe_Hansen,Tina Hippe Hansen,Det Konservative Folkeparti,29
+Rødovre,2,Tinderhøj,C_Kenneth_Finsen,Kenneth Finsen,Det Konservative Folkeparti,17
+Rødovre,2,Tinderhøj,C_Morten_Thoregaard,Morten Thoregaard,Det Konservative Folkeparti,4
+Rødovre,2,Tinderhøj,C_Jens_Erik_Mejlsbye,Jens Erik Mejlsbye,Det Konservative Folkeparti,5
+Rødovre,2,Tinderhøj,C_Michael_Boll_Jensen,Michael Boll Jensen,Det Konservative Folkeparti,3
+Rødovre,2,Tinderhøj,C_Iben_Rude,Iben Rude,Det Konservative Folkeparti,3
+Rødovre,2,Tinderhøj,C_Oliver_Lerbech_Petersen,Oliver Lerbech Petersen,Det Konservative Folkeparti,2
+Rødovre,2,Tinderhøj,C_Lars_Glade,Lars Glade,Det Konservative Folkeparti,1
+Rødovre,2,Tinderhøj,D_Listestemmer,Listestemmer,Nye Borgerlige,46
+Rødovre,2,Tinderhøj,D_Ketil_Wathne_Rasmussen,Ketil Wathne Rasmussen,Nye Borgerlige,42
+Rødovre,2,Tinderhøj,D_Karin_Johansson,Karin Johansson,Nye Borgerlige,6
+Rødovre,2,Tinderhøj,D_Gitte_J._Jensen,Gitte J. Jensen,Nye Borgerlige,5
+Rødovre,2,Tinderhøj,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,85
+Rødovre,2,Tinderhøj,F_Kenneth_Rasmussen,Kenneth Rasmussen,SF - Socialistisk Folkeparti,171
+Rødovre,2,Tinderhøj,F_Martin_Rosenkrantz,Martin Rosenkrantz,SF - Socialistisk Folkeparti,23
+Rødovre,2,Tinderhøj,F_Henrik_Havn,Henrik Havn,SF - Socialistisk Folkeparti,14
+Rødovre,2,Tinderhøj,F_Mille_Rasmussen,Mille Rasmussen,SF - Socialistisk Folkeparti,16
+Rødovre,2,Tinderhøj,F_Maria_Grøndahl,Maria Grøndahl,SF - Socialistisk Folkeparti,13
+Rødovre,2,Tinderhøj,F_Karen_Paldrup,Karen Paldrup,SF - Socialistisk Folkeparti,6
+Rødovre,2,Tinderhøj,F_Preben_Riel,Preben Riel,SF - Socialistisk Folkeparti,2
+Rødovre,2,Tinderhøj,F_Lars_Bæk,Lars Bæk,SF - Socialistisk Folkeparti,16
+Rødovre,2,Tinderhøj,F_Birgit_Linneboe,Birgit Linneboe,SF - Socialistisk Folkeparti,1
+Rødovre,2,Tinderhøj,F_Sebastian_Gudbergsen,Sebastian Gudbergsen,SF - Socialistisk Folkeparti,3
+Rødovre,2,Tinderhøj,F_Torben_Petersen,Torben Petersen,SF - Socialistisk Folkeparti,0
+Rødovre,2,Tinderhøj,F_Lone_Henriksen,Lone Henriksen,SF - Socialistisk Folkeparti,3
+Rødovre,2,Tinderhøj,F_Christel_Jensen,Christel Jensen,SF - Socialistisk Folkeparti,1
+Rødovre,2,Tinderhøj,F_Søren_Østergaard,Søren Østergaard,SF - Socialistisk Folkeparti,1
+Rødovre,2,Tinderhøj,K_Listestemmer,Listestemmer,Kristendemokraterne,8
+Rødovre,2,Tinderhøj,K_Johnnie_Gregersen,Johnnie Gregersen,Kristendemokraterne,9
+Rødovre,2,Tinderhøj,K_Ingrid_Lang_Pedersen,Ingrid Lang Pedersen,Kristendemokraterne,2
+Rødovre,2,Tinderhøj,O_Listestemmer,Listestemmer,Dansk Folkeparti,61
+Rødovre,2,Tinderhøj,O_Kim_Hammer,Kim Hammer,Dansk Folkeparti,33
+Rødovre,2,Tinderhøj,O_Julie_Korfitsen,Julie Korfitsen,Dansk Folkeparti,20
+Rødovre,2,Tinderhøj,O_Torben_Holmberg,Torben Holmberg,Dansk Folkeparti,6
+Rødovre,2,Tinderhøj,O_Henrik_Weinholt,Henrik Weinholt,Dansk Folkeparti,2
+Rødovre,2,Tinderhøj,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",51
+Rødovre,2,Tinderhøj,V_Mikkel_Molin,Mikkel Molin,"Venstre, Danmarks Liberale Parti",17
+Rødovre,2,Tinderhøj,V_Lasse_Stensby_Baasch,Lasse Stensby Baasch,"Venstre, Danmarks Liberale Parti",15
+Rødovre,2,Tinderhøj,V_Karin_Frøidt,Karin Frøidt,"Venstre, Danmarks Liberale Parti",15
+Rødovre,2,Tinderhøj,V_Birgitte_Wesch,Birgitte Wesch,"Venstre, Danmarks Liberale Parti",5
+Rødovre,2,Tinderhøj,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,92
+Rødovre,2,Tinderhøj,Ø_Peter_Mikkelsen,Peter Mikkelsen,Enhedslisten - De Rød-Grønne,24
+Rødovre,2,Tinderhøj,Ø_Marianne_Christensen,Marianne Christensen,Enhedslisten - De Rød-Grønne,20
+Rødovre,2,Tinderhøj,Ø_Necla_Baran,Necla Baran,Enhedslisten - De Rød-Grønne,10
+Rødovre,2,Tinderhøj,Ø_Lukas_Skjalm_Lissner,Lukas Skjalm Lissner,Enhedslisten - De Rød-Grønne,13
+Rødovre,2,Tinderhøj,Ø_Annette_Skinhøj,Annette Skinhøj,Enhedslisten - De Rød-Grønne,6
+Rødovre,2,Tinderhøj,Ø_Bo_Langgaard,Bo Langgaard,Enhedslisten - De Rød-Grønne,4
+Rødovre,2,Tinderhøj,Ø_Gry_Nielsen,Gry Nielsen,Enhedslisten - De Rød-Grønne,7
+Rødovre,2,Tinderhøj,Ø_Vibeke_Kold,Vibeke Kold,Enhedslisten - De Rød-Grønne,7
+Rødovre,3,Rødovre,A_Listestemmer,Listestemmer,Socialdemokratiet,535
+Rødovre,3,Rødovre,A_Britt_Jensen,Britt Jensen,Socialdemokratiet,728
+Rødovre,3,Rødovre,A_Flemming_Lunde_Østergaard_Hansen,Flemming Lunde Østergaard Hansen,Socialdemokratiet,32
+Rødovre,3,Rødovre,A_Annie_Arnoldsen_Petersen,Annie Arnoldsen Petersen,Socialdemokratiet,32
+Rødovre,3,Rødovre,A_Jan_Kongebro,Jan Kongebro,Socialdemokratiet,22
+Rødovre,3,Rødovre,A_Lene_Due,Lene Due,Socialdemokratiet,41
+Rødovre,3,Rødovre,A_Michel_Berg,Michel Berg,Socialdemokratiet,33
+Rødovre,3,Rødovre,A_Jesper_Clausson,Jesper Clausson,Socialdemokratiet,46
+Rødovre,3,Rødovre,A_Birgitte_Glifberg,Birgitte Glifberg,Socialdemokratiet,96
+Rødovre,3,Rødovre,A_Anette_Rachlitz,Anette Rachlitz,Socialdemokratiet,27
+Rødovre,3,Rødovre,A_Ahmed_Huseen_Dhaqane,Ahmed Huseen Dhaqane,Socialdemokratiet,43
+Rødovre,3,Rødovre,A_Pia_Hess_Larsen,Pia Hess Larsen,Socialdemokratiet,21
+Rødovre,3,Rødovre,A_Miriam_Moazzeni,Miriam Moazzeni,Socialdemokratiet,14
+Rødovre,3,Rødovre,A_Arbresh_Useini,Arbresh Useini,Socialdemokratiet,32
+Rødovre,3,Rødovre,A_Ole_Gjøl,Ole Gjøl,Socialdemokratiet,8
+Rødovre,3,Rødovre,A_Finn_Jørsby,Finn Jørsby,Socialdemokratiet,6
+Rødovre,3,Rødovre,A_Bjarne_Sander,Bjarne Sander,Socialdemokratiet,14
+Rødovre,3,Rødovre,B_Listestemmer,Listestemmer,Radikale Venstre,61
+Rødovre,3,Rødovre,B_Kirsten_Aalling,Kirsten Aalling,Radikale Venstre,67
+Rødovre,3,Rødovre,B_Christian_Knudsen,Christian Knudsen,Radikale Venstre,17
+Rødovre,3,Rødovre,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,343
+Rødovre,3,Rødovre,C_Kim_Drejer_Nielsen,Kim Drejer Nielsen,Det Konservative Folkeparti,205
+Rødovre,3,Rødovre,C_Mogens_Brauer,Mogens Brauer,Det Konservative Folkeparti,46
+Rødovre,3,Rødovre,C_Henriette_Hesselmann,Henriette Hesselmann,Det Konservative Folkeparti,85
+Rødovre,3,Rødovre,C_Peter_Lund_Sørensen,Peter Lund Sørensen,Det Konservative Folkeparti,18
+Rødovre,3,Rødovre,C_Jette_Louise_Larsen,Jette Louise Larsen,Det Konservative Folkeparti,55
+Rødovre,3,Rødovre,C_Jens_Damgaard_Gøtzsche,Jens Damgaard Gøtzsche,Det Konservative Folkeparti,14
+Rødovre,3,Rødovre,C_Tina_Hippe_Hansen,Tina Hippe Hansen,Det Konservative Folkeparti,31
+Rødovre,3,Rødovre,C_Kenneth_Finsen,Kenneth Finsen,Det Konservative Folkeparti,24
+Rødovre,3,Rødovre,C_Morten_Thoregaard,Morten Thoregaard,Det Konservative Folkeparti,3
+Rødovre,3,Rødovre,C_Jens_Erik_Mejlsbye,Jens Erik Mejlsbye,Det Konservative Folkeparti,5
+Rødovre,3,Rødovre,C_Michael_Boll_Jensen,Michael Boll Jensen,Det Konservative Folkeparti,13
+Rødovre,3,Rødovre,C_Iben_Rude,Iben Rude,Det Konservative Folkeparti,10
+Rødovre,3,Rødovre,C_Oliver_Lerbech_Petersen,Oliver Lerbech Petersen,Det Konservative Folkeparti,8
+Rødovre,3,Rødovre,C_Lars_Glade,Lars Glade,Det Konservative Folkeparti,1
+Rødovre,3,Rødovre,D_Listestemmer,Listestemmer,Nye Borgerlige,69
+Rødovre,3,Rødovre,D_Ketil_Wathne_Rasmussen,Ketil Wathne Rasmussen,Nye Borgerlige,61
+Rødovre,3,Rødovre,D_Karin_Johansson,Karin Johansson,Nye Borgerlige,9
+Rødovre,3,Rødovre,D_Gitte_J._Jensen,Gitte J. Jensen,Nye Borgerlige,10
+Rødovre,3,Rødovre,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,193
+Rødovre,3,Rødovre,F_Kenneth_Rasmussen,Kenneth Rasmussen,SF - Socialistisk Folkeparti,121
+Rødovre,3,Rødovre,F_Martin_Rosenkrantz,Martin Rosenkrantz,SF - Socialistisk Folkeparti,17
+Rødovre,3,Rødovre,F_Henrik_Havn,Henrik Havn,SF - Socialistisk Folkeparti,30
+Rødovre,3,Rødovre,F_Mille_Rasmussen,Mille Rasmussen,SF - Socialistisk Folkeparti,22
+Rødovre,3,Rødovre,F_Maria_Grøndahl,Maria Grøndahl,SF - Socialistisk Folkeparti,12
+Rødovre,3,Rødovre,F_Karen_Paldrup,Karen Paldrup,SF - Socialistisk Folkeparti,11
+Rødovre,3,Rødovre,F_Preben_Riel,Preben Riel,SF - Socialistisk Folkeparti,5
+Rødovre,3,Rødovre,F_Lars_Bæk,Lars Bæk,SF - Socialistisk Folkeparti,9
+Rødovre,3,Rødovre,F_Birgit_Linneboe,Birgit Linneboe,SF - Socialistisk Folkeparti,4
+Rødovre,3,Rødovre,F_Sebastian_Gudbergsen,Sebastian Gudbergsen,SF - Socialistisk Folkeparti,1
+Rødovre,3,Rødovre,F_Torben_Petersen,Torben Petersen,SF - Socialistisk Folkeparti,3
+Rødovre,3,Rødovre,F_Lone_Henriksen,Lone Henriksen,SF - Socialistisk Folkeparti,2
+Rødovre,3,Rødovre,F_Christel_Jensen,Christel Jensen,SF - Socialistisk Folkeparti,2
+Rødovre,3,Rødovre,F_Søren_Østergaard,Søren Østergaard,SF - Socialistisk Folkeparti,13
+Rødovre,3,Rødovre,K_Listestemmer,Listestemmer,Kristendemokraterne,9
+Rødovre,3,Rødovre,K_Johnnie_Gregersen,Johnnie Gregersen,Kristendemokraterne,31
+Rødovre,3,Rødovre,K_Ingrid_Lang_Pedersen,Ingrid Lang Pedersen,Kristendemokraterne,12
+Rødovre,3,Rødovre,O_Listestemmer,Listestemmer,Dansk Folkeparti,71
+Rødovre,3,Rødovre,O_Kim_Hammer,Kim Hammer,Dansk Folkeparti,40
+Rødovre,3,Rødovre,O_Julie_Korfitsen,Julie Korfitsen,Dansk Folkeparti,19
+Rødovre,3,Rødovre,O_Torben_Holmberg,Torben Holmberg,Dansk Folkeparti,4
+Rødovre,3,Rødovre,O_Henrik_Weinholt,Henrik Weinholt,Dansk Folkeparti,1
+Rødovre,3,Rødovre,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",77
+Rødovre,3,Rødovre,V_Mikkel_Molin,Mikkel Molin,"Venstre, Danmarks Liberale Parti",39
+Rødovre,3,Rødovre,V_Lasse_Stensby_Baasch,Lasse Stensby Baasch,"Venstre, Danmarks Liberale Parti",23
+Rødovre,3,Rødovre,V_Karin_Frøidt,Karin Frøidt,"Venstre, Danmarks Liberale Parti",30
+Rødovre,3,Rødovre,V_Birgitte_Wesch,Birgitte Wesch,"Venstre, Danmarks Liberale Parti",5
+Rødovre,3,Rødovre,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,158
+Rødovre,3,Rødovre,Ø_Peter_Mikkelsen,Peter Mikkelsen,Enhedslisten - De Rød-Grønne,30
+Rødovre,3,Rødovre,Ø_Marianne_Christensen,Marianne Christensen,Enhedslisten - De Rød-Grønne,26
+Rødovre,3,Rødovre,Ø_Necla_Baran,Necla Baran,Enhedslisten - De Rød-Grønne,22
+Rødovre,3,Rødovre,Ø_Lukas_Skjalm_Lissner,Lukas Skjalm Lissner,Enhedslisten - De Rød-Grønne,23
+Rødovre,3,Rødovre,Ø_Annette_Skinhøj,Annette Skinhøj,Enhedslisten - De Rød-Grønne,4
+Rødovre,3,Rødovre,Ø_Bo_Langgaard,Bo Langgaard,Enhedslisten - De Rød-Grønne,0
+Rødovre,3,Rødovre,Ø_Gry_Nielsen,Gry Nielsen,Enhedslisten - De Rød-Grønne,27
+Rødovre,3,Rødovre,Ø_Vibeke_Kold,Vibeke Kold,Enhedslisten - De Rød-Grønne,14
+Rødovre,4,Valhøj,A_Listestemmer,Listestemmer,Socialdemokratiet,299
+Rødovre,4,Valhøj,A_Britt_Jensen,Britt Jensen,Socialdemokratiet,518
+Rødovre,4,Valhøj,A_Flemming_Lunde_Østergaard_Hansen,Flemming Lunde Østergaard Hansen,Socialdemokratiet,12
+Rødovre,4,Valhøj,A_Annie_Arnoldsen_Petersen,Annie Arnoldsen Petersen,Socialdemokratiet,24
+Rødovre,4,Valhøj,A_Jan_Kongebro,Jan Kongebro,Socialdemokratiet,31
+Rødovre,4,Valhøj,A_Lene_Due,Lene Due,Socialdemokratiet,17
+Rødovre,4,Valhøj,A_Michel_Berg,Michel Berg,Socialdemokratiet,16
+Rødovre,4,Valhøj,A_Jesper_Clausson,Jesper Clausson,Socialdemokratiet,28
+Rødovre,4,Valhøj,A_Birgitte_Glifberg,Birgitte Glifberg,Socialdemokratiet,31
+Rødovre,4,Valhøj,A_Anette_Rachlitz,Anette Rachlitz,Socialdemokratiet,20
+Rødovre,4,Valhøj,A_Ahmed_Huseen_Dhaqane,Ahmed Huseen Dhaqane,Socialdemokratiet,100
+Rødovre,4,Valhøj,A_Pia_Hess_Larsen,Pia Hess Larsen,Socialdemokratiet,19
+Rødovre,4,Valhøj,A_Miriam_Moazzeni,Miriam Moazzeni,Socialdemokratiet,34
+Rødovre,4,Valhøj,A_Arbresh_Useini,Arbresh Useini,Socialdemokratiet,41
+Rødovre,4,Valhøj,A_Ole_Gjøl,Ole Gjøl,Socialdemokratiet,10
+Rødovre,4,Valhøj,A_Finn_Jørsby,Finn Jørsby,Socialdemokratiet,9
+Rødovre,4,Valhøj,A_Bjarne_Sander,Bjarne Sander,Socialdemokratiet,10
+Rødovre,4,Valhøj,B_Listestemmer,Listestemmer,Radikale Venstre,31
+Rødovre,4,Valhøj,B_Kirsten_Aalling,Kirsten Aalling,Radikale Venstre,22
+Rødovre,4,Valhøj,B_Christian_Knudsen,Christian Knudsen,Radikale Venstre,5
+Rødovre,4,Valhøj,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,134
+Rødovre,4,Valhøj,C_Kim_Drejer_Nielsen,Kim Drejer Nielsen,Det Konservative Folkeparti,83
+Rødovre,4,Valhøj,C_Mogens_Brauer,Mogens Brauer,Det Konservative Folkeparti,16
+Rødovre,4,Valhøj,C_Henriette_Hesselmann,Henriette Hesselmann,Det Konservative Folkeparti,28
+Rødovre,4,Valhøj,C_Peter_Lund_Sørensen,Peter Lund Sørensen,Det Konservative Folkeparti,14
+Rødovre,4,Valhøj,C_Jette_Louise_Larsen,Jette Louise Larsen,Det Konservative Folkeparti,13
+Rødovre,4,Valhøj,C_Jens_Damgaard_Gøtzsche,Jens Damgaard Gøtzsche,Det Konservative Folkeparti,0
+Rødovre,4,Valhøj,C_Tina_Hippe_Hansen,Tina Hippe Hansen,Det Konservative Folkeparti,18
+Rødovre,4,Valhøj,C_Kenneth_Finsen,Kenneth Finsen,Det Konservative Folkeparti,6
+Rødovre,4,Valhøj,C_Morten_Thoregaard,Morten Thoregaard,Det Konservative Folkeparti,1
+Rødovre,4,Valhøj,C_Jens_Erik_Mejlsbye,Jens Erik Mejlsbye,Det Konservative Folkeparti,7
+Rødovre,4,Valhøj,C_Michael_Boll_Jensen,Michael Boll Jensen,Det Konservative Folkeparti,9
+Rødovre,4,Valhøj,C_Iben_Rude,Iben Rude,Det Konservative Folkeparti,4
+Rødovre,4,Valhøj,C_Oliver_Lerbech_Petersen,Oliver Lerbech Petersen,Det Konservative Folkeparti,0
+Rødovre,4,Valhøj,C_Lars_Glade,Lars Glade,Det Konservative Folkeparti,0
+Rødovre,4,Valhøj,D_Listestemmer,Listestemmer,Nye Borgerlige,47
+Rødovre,4,Valhøj,D_Ketil_Wathne_Rasmussen,Ketil Wathne Rasmussen,Nye Borgerlige,33
+Rødovre,4,Valhøj,D_Karin_Johansson,Karin Johansson,Nye Borgerlige,4
+Rødovre,4,Valhøj,D_Gitte_J._Jensen,Gitte J. Jensen,Nye Borgerlige,7
+Rødovre,4,Valhøj,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,77
+Rødovre,4,Valhøj,F_Kenneth_Rasmussen,Kenneth Rasmussen,SF - Socialistisk Folkeparti,63
+Rødovre,4,Valhøj,F_Martin_Rosenkrantz,Martin Rosenkrantz,SF - Socialistisk Folkeparti,14
+Rødovre,4,Valhøj,F_Henrik_Havn,Henrik Havn,SF - Socialistisk Folkeparti,21
+Rødovre,4,Valhøj,F_Mille_Rasmussen,Mille Rasmussen,SF - Socialistisk Folkeparti,13
+Rødovre,4,Valhøj,F_Maria_Grøndahl,Maria Grøndahl,SF - Socialistisk Folkeparti,18
+Rødovre,4,Valhøj,F_Karen_Paldrup,Karen Paldrup,SF - Socialistisk Folkeparti,3
+Rødovre,4,Valhøj,F_Preben_Riel,Preben Riel,SF - Socialistisk Folkeparti,11
+Rødovre,4,Valhøj,F_Lars_Bæk,Lars Bæk,SF - Socialistisk Folkeparti,8
+Rødovre,4,Valhøj,F_Birgit_Linneboe,Birgit Linneboe,SF - Socialistisk Folkeparti,1
+Rødovre,4,Valhøj,F_Sebastian_Gudbergsen,Sebastian Gudbergsen,SF - Socialistisk Folkeparti,2
+Rødovre,4,Valhøj,F_Torben_Petersen,Torben Petersen,SF - Socialistisk Folkeparti,1
+Rødovre,4,Valhøj,F_Lone_Henriksen,Lone Henriksen,SF - Socialistisk Folkeparti,3
+Rødovre,4,Valhøj,F_Christel_Jensen,Christel Jensen,SF - Socialistisk Folkeparti,2
+Rødovre,4,Valhøj,F_Søren_Østergaard,Søren Østergaard,SF - Socialistisk Folkeparti,4
+Rødovre,4,Valhøj,K_Listestemmer,Listestemmer,Kristendemokraterne,4
+Rødovre,4,Valhøj,K_Johnnie_Gregersen,Johnnie Gregersen,Kristendemokraterne,7
+Rødovre,4,Valhøj,K_Ingrid_Lang_Pedersen,Ingrid Lang Pedersen,Kristendemokraterne,6
+Rødovre,4,Valhøj,O_Listestemmer,Listestemmer,Dansk Folkeparti,55
+Rødovre,4,Valhøj,O_Kim_Hammer,Kim Hammer,Dansk Folkeparti,43
+Rødovre,4,Valhøj,O_Julie_Korfitsen,Julie Korfitsen,Dansk Folkeparti,17
+Rødovre,4,Valhøj,O_Torben_Holmberg,Torben Holmberg,Dansk Folkeparti,1
+Rødovre,4,Valhøj,O_Henrik_Weinholt,Henrik Weinholt,Dansk Folkeparti,1
+Rødovre,4,Valhøj,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",40
+Rødovre,4,Valhøj,V_Mikkel_Molin,Mikkel Molin,"Venstre, Danmarks Liberale Parti",12
+Rødovre,4,Valhøj,V_Lasse_Stensby_Baasch,Lasse Stensby Baasch,"Venstre, Danmarks Liberale Parti",13
+Rødovre,4,Valhøj,V_Karin_Frøidt,Karin Frøidt,"Venstre, Danmarks Liberale Parti",16
+Rødovre,4,Valhøj,V_Birgitte_Wesch,Birgitte Wesch,"Venstre, Danmarks Liberale Parti",1
+Rødovre,4,Valhøj,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,96
+Rødovre,4,Valhøj,Ø_Peter_Mikkelsen,Peter Mikkelsen,Enhedslisten - De Rød-Grønne,21
+Rødovre,4,Valhøj,Ø_Marianne_Christensen,Marianne Christensen,Enhedslisten - De Rød-Grønne,11
+Rødovre,4,Valhøj,Ø_Necla_Baran,Necla Baran,Enhedslisten - De Rød-Grønne,23
+Rødovre,4,Valhøj,Ø_Lukas_Skjalm_Lissner,Lukas Skjalm Lissner,Enhedslisten - De Rød-Grønne,13
+Rødovre,4,Valhøj,Ø_Annette_Skinhøj,Annette Skinhøj,Enhedslisten - De Rød-Grønne,3
+Rødovre,4,Valhøj,Ø_Bo_Langgaard,Bo Langgaard,Enhedslisten - De Rød-Grønne,0
+Rødovre,4,Valhøj,Ø_Gry_Nielsen,Gry Nielsen,Enhedslisten - De Rød-Grønne,8
+Rødovre,4,Valhøj,Ø_Vibeke_Kold,Vibeke Kold,Enhedslisten - De Rød-Grønne,8
+Rødovre,5,Rødovrehallen,A_Listestemmer,Listestemmer,Socialdemokratiet,418
+Rødovre,5,Rødovrehallen,A_Britt_Jensen,Britt Jensen,Socialdemokratiet,850
+Rødovre,5,Rødovrehallen,A_Flemming_Lunde_Østergaard_Hansen,Flemming Lunde Østergaard Hansen,Socialdemokratiet,27
+Rødovre,5,Rødovrehallen,A_Annie_Arnoldsen_Petersen,Annie Arnoldsen Petersen,Socialdemokratiet,35
+Rødovre,5,Rødovrehallen,A_Jan_Kongebro,Jan Kongebro,Socialdemokratiet,42
+Rødovre,5,Rødovrehallen,A_Lene_Due,Lene Due,Socialdemokratiet,28
+Rødovre,5,Rødovrehallen,A_Michel_Berg,Michel Berg,Socialdemokratiet,24
+Rødovre,5,Rødovrehallen,A_Jesper_Clausson,Jesper Clausson,Socialdemokratiet,61
+Rødovre,5,Rødovrehallen,A_Birgitte_Glifberg,Birgitte Glifberg,Socialdemokratiet,30
+Rødovre,5,Rødovrehallen,A_Anette_Rachlitz,Anette Rachlitz,Socialdemokratiet,21
+Rødovre,5,Rødovrehallen,A_Ahmed_Huseen_Dhaqane,Ahmed Huseen Dhaqane,Socialdemokratiet,76
+Rødovre,5,Rødovrehallen,A_Pia_Hess_Larsen,Pia Hess Larsen,Socialdemokratiet,18
+Rødovre,5,Rødovrehallen,A_Miriam_Moazzeni,Miriam Moazzeni,Socialdemokratiet,28
+Rødovre,5,Rødovrehallen,A_Arbresh_Useini,Arbresh Useini,Socialdemokratiet,16
+Rødovre,5,Rødovrehallen,A_Ole_Gjøl,Ole Gjøl,Socialdemokratiet,3
+Rødovre,5,Rødovrehallen,A_Finn_Jørsby,Finn Jørsby,Socialdemokratiet,11
+Rødovre,5,Rødovrehallen,A_Bjarne_Sander,Bjarne Sander,Socialdemokratiet,9
+Rødovre,5,Rødovrehallen,B_Listestemmer,Listestemmer,Radikale Venstre,65
+Rødovre,5,Rødovrehallen,B_Kirsten_Aalling,Kirsten Aalling,Radikale Venstre,75
+Rødovre,5,Rødovrehallen,B_Christian_Knudsen,Christian Knudsen,Radikale Venstre,19
+Rødovre,5,Rødovrehallen,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,281
+Rødovre,5,Rødovrehallen,C_Kim_Drejer_Nielsen,Kim Drejer Nielsen,Det Konservative Folkeparti,182
+Rødovre,5,Rødovrehallen,C_Mogens_Brauer,Mogens Brauer,Det Konservative Folkeparti,129
+Rødovre,5,Rødovrehallen,C_Henriette_Hesselmann,Henriette Hesselmann,Det Konservative Folkeparti,86
+Rødovre,5,Rødovrehallen,C_Peter_Lund_Sørensen,Peter Lund Sørensen,Det Konservative Folkeparti,50
+Rødovre,5,Rødovrehallen,C_Jette_Louise_Larsen,Jette Louise Larsen,Det Konservative Folkeparti,13
+Rødovre,5,Rødovrehallen,C_Jens_Damgaard_Gøtzsche,Jens Damgaard Gøtzsche,Det Konservative Folkeparti,10
+Rødovre,5,Rødovrehallen,C_Tina_Hippe_Hansen,Tina Hippe Hansen,Det Konservative Folkeparti,26
+Rødovre,5,Rødovrehallen,C_Kenneth_Finsen,Kenneth Finsen,Det Konservative Folkeparti,14
+Rødovre,5,Rødovrehallen,C_Morten_Thoregaard,Morten Thoregaard,Det Konservative Folkeparti,14
+Rødovre,5,Rødovrehallen,C_Jens_Erik_Mejlsbye,Jens Erik Mejlsbye,Det Konservative Folkeparti,17
+Rødovre,5,Rødovrehallen,C_Michael_Boll_Jensen,Michael Boll Jensen,Det Konservative Folkeparti,9
+Rødovre,5,Rødovrehallen,C_Iben_Rude,Iben Rude,Det Konservative Folkeparti,3
+Rødovre,5,Rødovrehallen,C_Oliver_Lerbech_Petersen,Oliver Lerbech Petersen,Det Konservative Folkeparti,6
+Rødovre,5,Rødovrehallen,C_Lars_Glade,Lars Glade,Det Konservative Folkeparti,3
+Rødovre,5,Rødovrehallen,D_Listestemmer,Listestemmer,Nye Borgerlige,49
+Rødovre,5,Rødovrehallen,D_Ketil_Wathne_Rasmussen,Ketil Wathne Rasmussen,Nye Borgerlige,48
+Rødovre,5,Rødovrehallen,D_Karin_Johansson,Karin Johansson,Nye Borgerlige,8
+Rødovre,5,Rødovrehallen,D_Gitte_J._Jensen,Gitte J. Jensen,Nye Borgerlige,3
+Rødovre,5,Rødovrehallen,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,150
+Rødovre,5,Rødovrehallen,F_Kenneth_Rasmussen,Kenneth Rasmussen,SF - Socialistisk Folkeparti,156
+Rødovre,5,Rødovrehallen,F_Martin_Rosenkrantz,Martin Rosenkrantz,SF - Socialistisk Folkeparti,17
+Rødovre,5,Rødovrehallen,F_Henrik_Havn,Henrik Havn,SF - Socialistisk Folkeparti,18
+Rødovre,5,Rødovrehallen,F_Mille_Rasmussen,Mille Rasmussen,SF - Socialistisk Folkeparti,29
+Rødovre,5,Rødovrehallen,F_Maria_Grøndahl,Maria Grøndahl,SF - Socialistisk Folkeparti,20
+Rødovre,5,Rødovrehallen,F_Karen_Paldrup,Karen Paldrup,SF - Socialistisk Folkeparti,7
+Rødovre,5,Rødovrehallen,F_Preben_Riel,Preben Riel,SF - Socialistisk Folkeparti,19
+Rødovre,5,Rødovrehallen,F_Lars_Bæk,Lars Bæk,SF - Socialistisk Folkeparti,9
+Rødovre,5,Rødovrehallen,F_Birgit_Linneboe,Birgit Linneboe,SF - Socialistisk Folkeparti,6
+Rødovre,5,Rødovrehallen,F_Sebastian_Gudbergsen,Sebastian Gudbergsen,SF - Socialistisk Folkeparti,0
+Rødovre,5,Rødovrehallen,F_Torben_Petersen,Torben Petersen,SF - Socialistisk Folkeparti,1
+Rødovre,5,Rødovrehallen,F_Lone_Henriksen,Lone Henriksen,SF - Socialistisk Folkeparti,4
+Rødovre,5,Rødovrehallen,F_Christel_Jensen,Christel Jensen,SF - Socialistisk Folkeparti,2
+Rødovre,5,Rødovrehallen,F_Søren_Østergaard,Søren Østergaard,SF - Socialistisk Folkeparti,3
+Rødovre,5,Rødovrehallen,K_Listestemmer,Listestemmer,Kristendemokraterne,4
+Rødovre,5,Rødovrehallen,K_Johnnie_Gregersen,Johnnie Gregersen,Kristendemokraterne,19
+Rødovre,5,Rødovrehallen,K_Ingrid_Lang_Pedersen,Ingrid Lang Pedersen,Kristendemokraterne,6
+Rødovre,5,Rødovrehallen,O_Listestemmer,Listestemmer,Dansk Folkeparti,50
+Rødovre,5,Rødovrehallen,O_Kim_Hammer,Kim Hammer,Dansk Folkeparti,39
+Rødovre,5,Rødovrehallen,O_Julie_Korfitsen,Julie Korfitsen,Dansk Folkeparti,17
+Rødovre,5,Rødovrehallen,O_Torben_Holmberg,Torben Holmberg,Dansk Folkeparti,4
+Rødovre,5,Rødovrehallen,O_Henrik_Weinholt,Henrik Weinholt,Dansk Folkeparti,3
+Rødovre,5,Rødovrehallen,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",83
+Rødovre,5,Rødovrehallen,V_Mikkel_Molin,Mikkel Molin,"Venstre, Danmarks Liberale Parti",20
+Rødovre,5,Rødovrehallen,V_Lasse_Stensby_Baasch,Lasse Stensby Baasch,"Venstre, Danmarks Liberale Parti",13
+Rødovre,5,Rødovrehallen,V_Karin_Frøidt,Karin Frøidt,"Venstre, Danmarks Liberale Parti",45
+Rødovre,5,Rødovrehallen,V_Birgitte_Wesch,Birgitte Wesch,"Venstre, Danmarks Liberale Parti",0
+Rødovre,5,Rødovrehallen,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,151
+Rødovre,5,Rødovrehallen,Ø_Peter_Mikkelsen,Peter Mikkelsen,Enhedslisten - De Rød-Grønne,31
+Rødovre,5,Rødovrehallen,Ø_Marianne_Christensen,Marianne Christensen,Enhedslisten - De Rød-Grønne,20
+Rødovre,5,Rødovrehallen,Ø_Necla_Baran,Necla Baran,Enhedslisten - De Rød-Grønne,23
+Rødovre,5,Rødovrehallen,Ø_Lukas_Skjalm_Lissner,Lukas Skjalm Lissner,Enhedslisten - De Rød-Grønne,18
+Rødovre,5,Rødovrehallen,Ø_Annette_Skinhøj,Annette Skinhøj,Enhedslisten - De Rød-Grønne,15
+Rødovre,5,Rødovrehallen,Ø_Bo_Langgaard,Bo Langgaard,Enhedslisten - De Rød-Grønne,1
+Rødovre,5,Rødovrehallen,Ø_Gry_Nielsen,Gry Nielsen,Enhedslisten - De Rød-Grønne,12
+Rødovre,5,Rødovrehallen,Ø_Vibeke_Kold,Vibeke Kold,Enhedslisten - De Rød-Grønne,8
+Rødovre,6,Islev,A_Listestemmer,Listestemmer,Socialdemokratiet,334
+Rødovre,6,Islev,A_Britt_Jensen,Britt Jensen,Socialdemokratiet,482
+Rødovre,6,Islev,A_Flemming_Lunde_Østergaard_Hansen,Flemming Lunde Østergaard Hansen,Socialdemokratiet,18
+Rødovre,6,Islev,A_Annie_Arnoldsen_Petersen,Annie Arnoldsen Petersen,Socialdemokratiet,19
+Rødovre,6,Islev,A_Jan_Kongebro,Jan Kongebro,Socialdemokratiet,10
+Rødovre,6,Islev,A_Lene_Due,Lene Due,Socialdemokratiet,15
+Rødovre,6,Islev,A_Michel_Berg,Michel Berg,Socialdemokratiet,20
+Rødovre,6,Islev,A_Jesper_Clausson,Jesper Clausson,Socialdemokratiet,14
+Rødovre,6,Islev,A_Birgitte_Glifberg,Birgitte Glifberg,Socialdemokratiet,15
+Rødovre,6,Islev,A_Anette_Rachlitz,Anette Rachlitz,Socialdemokratiet,11
+Rødovre,6,Islev,A_Ahmed_Huseen_Dhaqane,Ahmed Huseen Dhaqane,Socialdemokratiet,50
+Rødovre,6,Islev,A_Pia_Hess_Larsen,Pia Hess Larsen,Socialdemokratiet,153
+Rødovre,6,Islev,A_Miriam_Moazzeni,Miriam Moazzeni,Socialdemokratiet,57
+Rødovre,6,Islev,A_Arbresh_Useini,Arbresh Useini,Socialdemokratiet,32
+Rødovre,6,Islev,A_Ole_Gjøl,Ole Gjøl,Socialdemokratiet,4
+Rødovre,6,Islev,A_Finn_Jørsby,Finn Jørsby,Socialdemokratiet,31
+Rødovre,6,Islev,A_Bjarne_Sander,Bjarne Sander,Socialdemokratiet,8
+Rødovre,6,Islev,B_Listestemmer,Listestemmer,Radikale Venstre,54
+Rødovre,6,Islev,B_Kirsten_Aalling,Kirsten Aalling,Radikale Venstre,45
+Rødovre,6,Islev,B_Christian_Knudsen,Christian Knudsen,Radikale Venstre,4
+Rødovre,6,Islev,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,230
+Rødovre,6,Islev,C_Kim_Drejer_Nielsen,Kim Drejer Nielsen,Det Konservative Folkeparti,149
+Rødovre,6,Islev,C_Mogens_Brauer,Mogens Brauer,Det Konservative Folkeparti,41
+Rødovre,6,Islev,C_Henriette_Hesselmann,Henriette Hesselmann,Det Konservative Folkeparti,69
+Rødovre,6,Islev,C_Peter_Lund_Sørensen,Peter Lund Sørensen,Det Konservative Folkeparti,14
+Rødovre,6,Islev,C_Jette_Louise_Larsen,Jette Louise Larsen,Det Konservative Folkeparti,17
+Rødovre,6,Islev,C_Jens_Damgaard_Gøtzsche,Jens Damgaard Gøtzsche,Det Konservative Folkeparti,91
+Rødovre,6,Islev,C_Tina_Hippe_Hansen,Tina Hippe Hansen,Det Konservative Folkeparti,23
+Rødovre,6,Islev,C_Kenneth_Finsen,Kenneth Finsen,Det Konservative Folkeparti,8
+Rødovre,6,Islev,C_Morten_Thoregaard,Morten Thoregaard,Det Konservative Folkeparti,8
+Rødovre,6,Islev,C_Jens_Erik_Mejlsbye,Jens Erik Mejlsbye,Det Konservative Folkeparti,10
+Rødovre,6,Islev,C_Michael_Boll_Jensen,Michael Boll Jensen,Det Konservative Folkeparti,10
+Rødovre,6,Islev,C_Iben_Rude,Iben Rude,Det Konservative Folkeparti,4
+Rødovre,6,Islev,C_Oliver_Lerbech_Petersen,Oliver Lerbech Petersen,Det Konservative Folkeparti,4
+Rødovre,6,Islev,C_Lars_Glade,Lars Glade,Det Konservative Folkeparti,2
+Rødovre,6,Islev,D_Listestemmer,Listestemmer,Nye Borgerlige,45
+Rødovre,6,Islev,D_Ketil_Wathne_Rasmussen,Ketil Wathne Rasmussen,Nye Borgerlige,39
+Rødovre,6,Islev,D_Karin_Johansson,Karin Johansson,Nye Borgerlige,5
+Rødovre,6,Islev,D_Gitte_J._Jensen,Gitte J. Jensen,Nye Borgerlige,1
+Rødovre,6,Islev,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,78
+Rødovre,6,Islev,F_Kenneth_Rasmussen,Kenneth Rasmussen,SF - Socialistisk Folkeparti,109
+Rødovre,6,Islev,F_Martin_Rosenkrantz,Martin Rosenkrantz,SF - Socialistisk Folkeparti,15
+Rødovre,6,Islev,F_Henrik_Havn,Henrik Havn,SF - Socialistisk Folkeparti,12
+Rødovre,6,Islev,F_Mille_Rasmussen,Mille Rasmussen,SF - Socialistisk Folkeparti,11
+Rødovre,6,Islev,F_Maria_Grøndahl,Maria Grøndahl,SF - Socialistisk Folkeparti,43
+Rødovre,6,Islev,F_Karen_Paldrup,Karen Paldrup,SF - Socialistisk Folkeparti,5
+Rødovre,6,Islev,F_Preben_Riel,Preben Riel,SF - Socialistisk Folkeparti,0
+Rødovre,6,Islev,F_Lars_Bæk,Lars Bæk,SF - Socialistisk Folkeparti,6
+Rødovre,6,Islev,F_Birgit_Linneboe,Birgit Linneboe,SF - Socialistisk Folkeparti,2
+Rødovre,6,Islev,F_Sebastian_Gudbergsen,Sebastian Gudbergsen,SF - Socialistisk Folkeparti,0
+Rødovre,6,Islev,F_Torben_Petersen,Torben Petersen,SF - Socialistisk Folkeparti,3
+Rødovre,6,Islev,F_Lone_Henriksen,Lone Henriksen,SF - Socialistisk Folkeparti,3
+Rødovre,6,Islev,F_Christel_Jensen,Christel Jensen,SF - Socialistisk Folkeparti,0
+Rødovre,6,Islev,F_Søren_Østergaard,Søren Østergaard,SF - Socialistisk Folkeparti,1
+Rødovre,6,Islev,K_Listestemmer,Listestemmer,Kristendemokraterne,11
+Rødovre,6,Islev,K_Johnnie_Gregersen,Johnnie Gregersen,Kristendemokraterne,10
+Rødovre,6,Islev,K_Ingrid_Lang_Pedersen,Ingrid Lang Pedersen,Kristendemokraterne,10
+Rødovre,6,Islev,O_Listestemmer,Listestemmer,Dansk Folkeparti,43
+Rødovre,6,Islev,O_Kim_Hammer,Kim Hammer,Dansk Folkeparti,21
+Rødovre,6,Islev,O_Julie_Korfitsen,Julie Korfitsen,Dansk Folkeparti,36
+Rødovre,6,Islev,O_Torben_Holmberg,Torben Holmberg,Dansk Folkeparti,3
+Rødovre,6,Islev,O_Henrik_Weinholt,Henrik Weinholt,Dansk Folkeparti,1
+Rødovre,6,Islev,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",78
+Rødovre,6,Islev,V_Mikkel_Molin,Mikkel Molin,"Venstre, Danmarks Liberale Parti",18
+Rødovre,6,Islev,V_Lasse_Stensby_Baasch,Lasse Stensby Baasch,"Venstre, Danmarks Liberale Parti",8
+Rødovre,6,Islev,V_Karin_Frøidt,Karin Frøidt,"Venstre, Danmarks Liberale Parti",19
+Rødovre,6,Islev,V_Birgitte_Wesch,Birgitte Wesch,"Venstre, Danmarks Liberale Parti",2
+Rødovre,6,Islev,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,97
+Rødovre,6,Islev,Ø_Peter_Mikkelsen,Peter Mikkelsen,Enhedslisten - De Rød-Grønne,27
+Rødovre,6,Islev,Ø_Marianne_Christensen,Marianne Christensen,Enhedslisten - De Rød-Grønne,12
+Rødovre,6,Islev,Ø_Necla_Baran,Necla Baran,Enhedslisten - De Rød-Grønne,22
+Rødovre,6,Islev,Ø_Lukas_Skjalm_Lissner,Lukas Skjalm Lissner,Enhedslisten - De Rød-Grønne,16
+Rødovre,6,Islev,Ø_Annette_Skinhøj,Annette Skinhøj,Enhedslisten - De Rød-Grønne,10
+Rødovre,6,Islev,Ø_Bo_Langgaard,Bo Langgaard,Enhedslisten - De Rød-Grønne,1
+Rødovre,6,Islev,Ø_Gry_Nielsen,Gry Nielsen,Enhedslisten - De Rød-Grønne,11
+Rødovre,6,Islev,Ø_Vibeke_Kold,Vibeke Kold,Enhedslisten - De Rød-Grønne,6
+Rødovre,7,Milestedet,A_Listestemmer,Listestemmer,Socialdemokratiet,99
+Rødovre,7,Milestedet,A_Britt_Jensen,Britt Jensen,Socialdemokratiet,267
+Rødovre,7,Milestedet,A_Flemming_Lunde_Østergaard_Hansen,Flemming Lunde Østergaard Hansen,Socialdemokratiet,5
+Rødovre,7,Milestedet,A_Annie_Arnoldsen_Petersen,Annie Arnoldsen Petersen,Socialdemokratiet,7
+Rødovre,7,Milestedet,A_Jan_Kongebro,Jan Kongebro,Socialdemokratiet,3
+Rødovre,7,Milestedet,A_Lene_Due,Lene Due,Socialdemokratiet,8
+Rødovre,7,Milestedet,A_Michel_Berg,Michel Berg,Socialdemokratiet,6
+Rødovre,7,Milestedet,A_Jesper_Clausson,Jesper Clausson,Socialdemokratiet,7
+Rødovre,7,Milestedet,A_Birgitte_Glifberg,Birgitte Glifberg,Socialdemokratiet,3
+Rødovre,7,Milestedet,A_Anette_Rachlitz,Anette Rachlitz,Socialdemokratiet,2
+Rødovre,7,Milestedet,A_Ahmed_Huseen_Dhaqane,Ahmed Huseen Dhaqane,Socialdemokratiet,41
+Rødovre,7,Milestedet,A_Pia_Hess_Larsen,Pia Hess Larsen,Socialdemokratiet,5
+Rødovre,7,Milestedet,A_Miriam_Moazzeni,Miriam Moazzeni,Socialdemokratiet,18
+Rødovre,7,Milestedet,A_Arbresh_Useini,Arbresh Useini,Socialdemokratiet,9
+Rødovre,7,Milestedet,A_Ole_Gjøl,Ole Gjøl,Socialdemokratiet,0
+Rødovre,7,Milestedet,A_Finn_Jørsby,Finn Jørsby,Socialdemokratiet,1
+Rødovre,7,Milestedet,A_Bjarne_Sander,Bjarne Sander,Socialdemokratiet,1
+Rødovre,7,Milestedet,B_Listestemmer,Listestemmer,Radikale Venstre,11
+Rødovre,7,Milestedet,B_Kirsten_Aalling,Kirsten Aalling,Radikale Venstre,6
+Rødovre,7,Milestedet,B_Christian_Knudsen,Christian Knudsen,Radikale Venstre,0
+Rødovre,7,Milestedet,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,14
+Rødovre,7,Milestedet,C_Kim_Drejer_Nielsen,Kim Drejer Nielsen,Det Konservative Folkeparti,12
+Rødovre,7,Milestedet,C_Mogens_Brauer,Mogens Brauer,Det Konservative Folkeparti,2
+Rødovre,7,Milestedet,C_Henriette_Hesselmann,Henriette Hesselmann,Det Konservative Folkeparti,8
+Rødovre,7,Milestedet,C_Peter_Lund_Sørensen,Peter Lund Sørensen,Det Konservative Folkeparti,9
+Rødovre,7,Milestedet,C_Jette_Louise_Larsen,Jette Louise Larsen,Det Konservative Folkeparti,2
+Rødovre,7,Milestedet,C_Jens_Damgaard_Gøtzsche,Jens Damgaard Gøtzsche,Det Konservative Folkeparti,1
+Rødovre,7,Milestedet,C_Tina_Hippe_Hansen,Tina Hippe Hansen,Det Konservative Folkeparti,2
+Rødovre,7,Milestedet,C_Kenneth_Finsen,Kenneth Finsen,Det Konservative Folkeparti,3
+Rødovre,7,Milestedet,C_Morten_Thoregaard,Morten Thoregaard,Det Konservative Folkeparti,1
+Rødovre,7,Milestedet,C_Jens_Erik_Mejlsbye,Jens Erik Mejlsbye,Det Konservative Folkeparti,0
+Rødovre,7,Milestedet,C_Michael_Boll_Jensen,Michael Boll Jensen,Det Konservative Folkeparti,0
+Rødovre,7,Milestedet,C_Iben_Rude,Iben Rude,Det Konservative Folkeparti,0
+Rødovre,7,Milestedet,C_Oliver_Lerbech_Petersen,Oliver Lerbech Petersen,Det Konservative Folkeparti,1
+Rødovre,7,Milestedet,C_Lars_Glade,Lars Glade,Det Konservative Folkeparti,0
+Rødovre,7,Milestedet,D_Listestemmer,Listestemmer,Nye Borgerlige,14
+Rødovre,7,Milestedet,D_Ketil_Wathne_Rasmussen,Ketil Wathne Rasmussen,Nye Borgerlige,16
+Rødovre,7,Milestedet,D_Karin_Johansson,Karin Johansson,Nye Borgerlige,3
+Rødovre,7,Milestedet,D_Gitte_J._Jensen,Gitte J. Jensen,Nye Borgerlige,2
+Rødovre,7,Milestedet,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,20
+Rødovre,7,Milestedet,F_Kenneth_Rasmussen,Kenneth Rasmussen,SF - Socialistisk Folkeparti,13
+Rødovre,7,Milestedet,F_Martin_Rosenkrantz,Martin Rosenkrantz,SF - Socialistisk Folkeparti,2
+Rødovre,7,Milestedet,F_Henrik_Havn,Henrik Havn,SF - Socialistisk Folkeparti,0
+Rødovre,7,Milestedet,F_Mille_Rasmussen,Mille Rasmussen,SF - Socialistisk Folkeparti,2
+Rødovre,7,Milestedet,F_Maria_Grøndahl,Maria Grøndahl,SF - Socialistisk Folkeparti,2
+Rødovre,7,Milestedet,F_Karen_Paldrup,Karen Paldrup,SF - Socialistisk Folkeparti,3
+Rødovre,7,Milestedet,F_Preben_Riel,Preben Riel,SF - Socialistisk Folkeparti,1
+Rødovre,7,Milestedet,F_Lars_Bæk,Lars Bæk,SF - Socialistisk Folkeparti,1
+Rødovre,7,Milestedet,F_Birgit_Linneboe,Birgit Linneboe,SF - Socialistisk Folkeparti,2
+Rødovre,7,Milestedet,F_Sebastian_Gudbergsen,Sebastian Gudbergsen,SF - Socialistisk Folkeparti,0
+Rødovre,7,Milestedet,F_Torben_Petersen,Torben Petersen,SF - Socialistisk Folkeparti,0
+Rødovre,7,Milestedet,F_Lone_Henriksen,Lone Henriksen,SF - Socialistisk Folkeparti,1
+Rødovre,7,Milestedet,F_Christel_Jensen,Christel Jensen,SF - Socialistisk Folkeparti,0
+Rødovre,7,Milestedet,F_Søren_Østergaard,Søren Østergaard,SF - Socialistisk Folkeparti,0
+Rødovre,7,Milestedet,K_Listestemmer,Listestemmer,Kristendemokraterne,2
+Rødovre,7,Milestedet,K_Johnnie_Gregersen,Johnnie Gregersen,Kristendemokraterne,2
+Rødovre,7,Milestedet,K_Ingrid_Lang_Pedersen,Ingrid Lang Pedersen,Kristendemokraterne,2
+Rødovre,7,Milestedet,O_Listestemmer,Listestemmer,Dansk Folkeparti,16
+Rødovre,7,Milestedet,O_Kim_Hammer,Kim Hammer,Dansk Folkeparti,15
+Rødovre,7,Milestedet,O_Julie_Korfitsen,Julie Korfitsen,Dansk Folkeparti,5
+Rødovre,7,Milestedet,O_Torben_Holmberg,Torben Holmberg,Dansk Folkeparti,3
+Rødovre,7,Milestedet,O_Henrik_Weinholt,Henrik Weinholt,Dansk Folkeparti,0
+Rødovre,7,Milestedet,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",8
+Rødovre,7,Milestedet,V_Mikkel_Molin,Mikkel Molin,"Venstre, Danmarks Liberale Parti",2
+Rødovre,7,Milestedet,V_Lasse_Stensby_Baasch,Lasse Stensby Baasch,"Venstre, Danmarks Liberale Parti",1
+Rødovre,7,Milestedet,V_Karin_Frøidt,Karin Frøidt,"Venstre, Danmarks Liberale Parti",2
+Rødovre,7,Milestedet,V_Birgitte_Wesch,Birgitte Wesch,"Venstre, Danmarks Liberale Parti",0
+Rødovre,7,Milestedet,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,42
+Rødovre,7,Milestedet,Ø_Peter_Mikkelsen,Peter Mikkelsen,Enhedslisten - De Rød-Grønne,19
+Rødovre,7,Milestedet,Ø_Marianne_Christensen,Marianne Christensen,Enhedslisten - De Rød-Grønne,9
+Rødovre,7,Milestedet,Ø_Necla_Baran,Necla Baran,Enhedslisten - De Rød-Grønne,14
+Rødovre,7,Milestedet,Ø_Lukas_Skjalm_Lissner,Lukas Skjalm Lissner,Enhedslisten - De Rød-Grønne,3
+Rødovre,7,Milestedet,Ø_Annette_Skinhøj,Annette Skinhøj,Enhedslisten - De Rød-Grønne,3
+Rødovre,7,Milestedet,Ø_Bo_Langgaard,Bo Langgaard,Enhedslisten - De Rød-Grønne,0
+Rødovre,7,Milestedet,Ø_Gry_Nielsen,Gry Nielsen,Enhedslisten - De Rød-Grønne,0
+Rødovre,7,Milestedet,Ø_Vibeke_Kold,Vibeke Kold,Enhedslisten - De Rød-Grønne,2

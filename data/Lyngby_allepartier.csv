@@ -1,0 +1,1001 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Lyngby,1,Lyngby Midt,A_Listestemmer,Listestemmer,Socialdemokratiet,132
+Lyngby,1,Lyngby Midt,A_Simon_Pihl_Sørensen,Simon Pihl Sørensen,Socialdemokratiet,73
+Lyngby,1,Lyngby Midt,A_Dorthe_Minna_Hansen,Dorthe Minna Hansen,Socialdemokratiet,52
+Lyngby,1,Lyngby Midt,A_Bodil_Kornbek,Bodil Kornbek,Socialdemokratiet,75
+Lyngby,1,Lyngby Midt,A_Klaus_Dalgas,Klaus Dalgas,Socialdemokratiet,12
+Lyngby,1,Lyngby Midt,A_Martin_Stenner,Martin Stenner,Socialdemokratiet,5
+Lyngby,1,Lyngby Midt,A_Silas_Mudoh,Silas Mudoh,Socialdemokratiet,43
+Lyngby,1,Lyngby Midt,A_Finn_Riber,Finn Riber,Socialdemokratiet,4
+Lyngby,1,Lyngby Midt,A_Ib_Carlsen,Ib Carlsen,Socialdemokratiet,36
+Lyngby,1,Lyngby Midt,A_Ivar_Ørnby,Ivar Ørnby,Socialdemokratiet,6
+Lyngby,1,Lyngby Midt,A_Lars_Bjørn,Lars Bjørn,Socialdemokratiet,0
+Lyngby,1,Lyngby Midt,B_Listestemmer,Listestemmer,Radikale Venstre,115
+Lyngby,1,Lyngby Midt,B_Gitte_Kjær-Westermann,Gitte Kjær-Westermann,Radikale Venstre,38
+Lyngby,1,Lyngby Midt,B_Mikkel_Johannessen,Mikkel Johannessen,Radikale Venstre,29
+Lyngby,1,Lyngby Midt,B_Kasper_Langberg,Kasper Langberg,Radikale Venstre,28
+Lyngby,1,Lyngby Midt,B_Susanne_Hjernøe,Susanne Hjernøe,Radikale Venstre,11
+Lyngby,1,Lyngby Midt,B_Cecilie_Lindahl,Cecilie Lindahl,Radikale Venstre,115
+Lyngby,1,Lyngby Midt,B_Paul_K._Jeppesen,Paul K. Jeppesen,Radikale Venstre,2
+Lyngby,1,Lyngby Midt,B_Ole_Møller,Ole Møller,Radikale Venstre,9
+Lyngby,1,Lyngby Midt,B_Johan_Løje,Johan Løje,Radikale Venstre,11
+Lyngby,1,Lyngby Midt,B_Karoline_Geneser,Karoline Geneser,Radikale Venstre,0
+Lyngby,1,Lyngby Midt,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,363
+Lyngby,1,Lyngby Midt,C_Sofia_Osmani,Sofia Osmani,Det Konservative Folkeparti,896
+Lyngby,1,Lyngby Midt,C_John_Tefke,John Tefke,Det Konservative Folkeparti,42
+Lyngby,1,Lyngby Midt,C_Mette_Schmidt_Olsen,Mette Schmidt Olsen,Det Konservative Folkeparti,30
+Lyngby,1,Lyngby Midt,C_Dorthe_la_Cour,Dorthe la Cour,Det Konservative Folkeparti,19
+Lyngby,1,Lyngby Midt,C_Martin_Vendel_Nielsen,Martin Vendel Nielsen,Det Konservative Folkeparti,6
+Lyngby,1,Lyngby Midt,C_Magnus_Von_Dreiager,Magnus Von Dreiager,Det Konservative Folkeparti,41
+Lyngby,1,Lyngby Midt,C_Charlotte_Shafer,Charlotte Shafer,Det Konservative Folkeparti,41
+Lyngby,1,Lyngby Midt,C_Karsten_Andersen,Karsten Andersen,Det Konservative Folkeparti,26
+Lyngby,1,Lyngby Midt,C_Erik_Frikke,Erik Frikke,Det Konservative Folkeparti,14
+Lyngby,1,Lyngby Midt,C_Maria_Svane,Maria Svane,Det Konservative Folkeparti,7
+Lyngby,1,Lyngby Midt,C_Katrine_Vendelbo,Katrine Vendelbo,Det Konservative Folkeparti,7
+Lyngby,1,Lyngby Midt,C_Marcus_Perathoner,Marcus Perathoner,Det Konservative Folkeparti,7
+Lyngby,1,Lyngby Midt,C_Casper_Strunge,Casper Strunge,Det Konservative Folkeparti,20
+Lyngby,1,Lyngby Midt,C_Ole_Møller,Ole Møller,Det Konservative Folkeparti,13
+Lyngby,1,Lyngby Midt,C_Anne_Jeremiassen,Anne Jeremiassen,Det Konservative Folkeparti,10
+Lyngby,1,Lyngby Midt,C_Tonni_Hyldgaard,Tonni Hyldgaard,Det Konservative Folkeparti,15
+Lyngby,1,Lyngby Midt,C_Philip_Rye,Philip Rye,Det Konservative Folkeparti,20
+Lyngby,1,Lyngby Midt,C_Shahin_Yazdi_Sotoudeh,Shahin Yazdi Sotoudeh,Det Konservative Folkeparti,6
+Lyngby,1,Lyngby Midt,C_Søren_Preuss,Søren Preuss,Det Konservative Folkeparti,4
+Lyngby,1,Lyngby Midt,C_Christine_Bernt_Henriksen,Christine Bernt Henriksen,Det Konservative Folkeparti,5
+Lyngby,1,Lyngby Midt,C_Michael_M._Jørgensen,Michael M. Jørgensen,Det Konservative Folkeparti,12
+Lyngby,1,Lyngby Midt,C_Christian_Winther,Christian Winther,Det Konservative Folkeparti,43
+Lyngby,1,Lyngby Midt,C_Richard_Sandbæk,Richard Sandbæk,Det Konservative Folkeparti,10
+Lyngby,1,Lyngby Midt,D_Listestemmer,Listestemmer,Nye Borgerlige,51
+Lyngby,1,Lyngby Midt,D_Claus_Bøgh_Svenningsen,Claus Bøgh Svenningsen,Nye Borgerlige,38
+Lyngby,1,Lyngby Midt,D_Anette_Skafte,Anette Skafte,Nye Borgerlige,16
+Lyngby,1,Lyngby Midt,D_Dorthe_Rosa_Hasselby,Dorthe Rosa Hasselby,Nye Borgerlige,9
+Lyngby,1,Lyngby Midt,D_Peter_Nielsen,Peter Nielsen,Nye Borgerlige,1
+Lyngby,1,Lyngby Midt,D_Freddy_Jacobsen,Freddy Jacobsen,Nye Borgerlige,0
+Lyngby,1,Lyngby Midt,D_Lene_Tholstorf,Lene Tholstorf,Nye Borgerlige,2
+Lyngby,1,Lyngby Midt,E_Listestemmer,Listestemmer,Lokallisten Vores kommune - LTK,10
+Lyngby,1,Lyngby Midt,E_Lars_Bisgaard,Lars Bisgaard,Lokallisten Vores kommune - LTK,15
+Lyngby,1,Lyngby Midt,E_Ida-Marie_Helsberg,Ida-Marie Helsberg,Lokallisten Vores kommune - LTK,5
+Lyngby,1,Lyngby Midt,E_Thomas_Lausen,Thomas Lausen,Lokallisten Vores kommune - LTK,2
+Lyngby,1,Lyngby Midt,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,140
+Lyngby,1,Lyngby Midt,F_Sigurd_Agersnap,Sigurd Agersnap,SF - Socialistisk Folkeparti,191
+Lyngby,1,Lyngby Midt,F_Niels_Haxthausen,Niels Haxthausen,SF - Socialistisk Folkeparti,20
+Lyngby,1,Lyngby Midt,F_Anne_Grete_Bülow,Anne Grete Bülow,SF - Socialistisk Folkeparti,44
+Lyngby,1,Lyngby Midt,F_Dorete_Dandanell,Dorete Dandanell,SF - Socialistisk Folkeparti,10
+Lyngby,1,Lyngby Midt,F_Majbrit_Pedersen,Majbrit Pedersen,SF - Socialistisk Folkeparti,18
+Lyngby,1,Lyngby Midt,F_Karen_Marie_Pagh_Nielsen,Karen Marie Pagh Nielsen,SF - Socialistisk Folkeparti,19
+Lyngby,1,Lyngby Midt,F_Arne_Christensen,Arne Christensen,SF - Socialistisk Folkeparti,11
+Lyngby,1,Lyngby Midt,F_Claudia_Heim,Claudia Heim,SF - Socialistisk Folkeparti,4
+Lyngby,1,Lyngby Midt,F_Niels_Halse,Niels Halse,SF - Socialistisk Folkeparti,1
+Lyngby,1,Lyngby Midt,F_Inge_Duus_Hjortlund,Inge Duus Hjortlund,SF - Socialistisk Folkeparti,14
+Lyngby,1,Lyngby Midt,G_Listestemmer,Listestemmer,Veganerpartiet,10
+Lyngby,1,Lyngby Midt,G_Helene_Toksværd,Helene Toksværd,Veganerpartiet,6
+Lyngby,1,Lyngby Midt,I_Listestemmer,Listestemmer,Liberal Alliance,36
+Lyngby,1,Lyngby Midt,I_Thomas_Frederiksen,Thomas Frederiksen,Liberal Alliance,27
+Lyngby,1,Lyngby Midt,I_Louise_Siv_Ebbesen,Louise Siv Ebbesen,Liberal Alliance,11
+Lyngby,1,Lyngby Midt,I_Steffen_Larsen,Steffen Larsen,Liberal Alliance,10
+Lyngby,1,Lyngby Midt,I_Helle_Kruuse,Helle Kruuse,Liberal Alliance,0
+Lyngby,1,Lyngby Midt,I_Uwe_Hermann,Uwe Hermann,Liberal Alliance,1
+Lyngby,1,Lyngby Midt,I_Trine_Mortensen,Trine Mortensen,Liberal Alliance,1
+Lyngby,1,Lyngby Midt,O_Listestemmer,Listestemmer,Dansk Folkeparti,23
+Lyngby,1,Lyngby Midt,O_Jørn_Jensin,Jørn Jensin,Dansk Folkeparti,23
+Lyngby,1,Lyngby Midt,O_Anne_Schmidt,Anne Schmidt,Dansk Folkeparti,6
+Lyngby,1,Lyngby Midt,O_Søs_Krog,Søs Krog,Dansk Folkeparti,7
+Lyngby,1,Lyngby Midt,Q_Listestemmer,Listestemmer,Bydelenes Stemmer,3
+Lyngby,1,Lyngby Midt,Q_Nils-Peter_Astrupgaard,Nils-Peter Astrupgaard,Bydelenes Stemmer,19
+Lyngby,1,Lyngby Midt,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",83
+Lyngby,1,Lyngby Midt,V_Christine_Dal,Christine Dal,"Venstre, Danmarks Liberale Parti",50
+Lyngby,1,Lyngby Midt,V_Tommy_Wedel,Tommy Wedel,"Venstre, Danmarks Liberale Parti",20
+Lyngby,1,Lyngby Midt,V_Jens_Dissing_Odgaard,Jens Dissing Odgaard,"Venstre, Danmarks Liberale Parti",21
+Lyngby,1,Lyngby Midt,V_Grethe_Andreasen,Grethe Andreasen,"Venstre, Danmarks Liberale Parti",5
+Lyngby,1,Lyngby Midt,V_Erik_Faurholt_Siggaard,Erik Faurholt Siggaard,"Venstre, Danmarks Liberale Parti",22
+Lyngby,1,Lyngby Midt,V_Niels_Jørgen_Christensen,Niels Jørgen Christensen,"Venstre, Danmarks Liberale Parti",4
+Lyngby,1,Lyngby Midt,V_Kristian_Wismann_Kurlink,Kristian Wismann Kurlink,"Venstre, Danmarks Liberale Parti",7
+Lyngby,1,Lyngby Midt,V_Thomas_Koed,Thomas Koed,"Venstre, Danmarks Liberale Parti",3
+Lyngby,1,Lyngby Midt,V_Kersi_Porbunderwala,Kersi Porbunderwala,"Venstre, Danmarks Liberale Parti",1
+Lyngby,1,Lyngby Midt,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,91
+Lyngby,1,Lyngby Midt,Ø_Henrik_Bang,Henrik Bang,Enhedslisten - De Rød-Grønne,30
+Lyngby,1,Lyngby Midt,Ø_Lise_Hogervorst,Lise Hogervorst,Enhedslisten - De Rød-Grønne,25
+Lyngby,1,Lyngby Midt,Ø_Jeanette_Astrup,Jeanette Astrup,Enhedslisten - De Rød-Grønne,15
+Lyngby,1,Lyngby Midt,Ø_Jesper_Grand,Jesper Grand,Enhedslisten - De Rød-Grønne,3
+Lyngby,1,Lyngby Midt,Ø_Pia_Boisen,Pia Boisen,Enhedslisten - De Rød-Grønne,16
+Lyngby,1,Lyngby Midt,Ø_Farrokh_Jafari,Farrokh Jafari,Enhedslisten - De Rød-Grønne,3
+Lyngby,1,Lyngby Midt,Ø_Carl_Friis,Carl Friis,Enhedslisten - De Rød-Grønne,0
+Lyngby,2,Lindegård,A_Listestemmer,Listestemmer,Socialdemokratiet,158
+Lyngby,2,Lindegård,A_Simon_Pihl_Sørensen,Simon Pihl Sørensen,Socialdemokratiet,105
+Lyngby,2,Lindegård,A_Dorthe_Minna_Hansen,Dorthe Minna Hansen,Socialdemokratiet,51
+Lyngby,2,Lindegård,A_Bodil_Kornbek,Bodil Kornbek,Socialdemokratiet,90
+Lyngby,2,Lindegård,A_Klaus_Dalgas,Klaus Dalgas,Socialdemokratiet,13
+Lyngby,2,Lindegård,A_Martin_Stenner,Martin Stenner,Socialdemokratiet,3
+Lyngby,2,Lindegård,A_Silas_Mudoh,Silas Mudoh,Socialdemokratiet,58
+Lyngby,2,Lindegård,A_Finn_Riber,Finn Riber,Socialdemokratiet,8
+Lyngby,2,Lindegård,A_Ib_Carlsen,Ib Carlsen,Socialdemokratiet,167
+Lyngby,2,Lindegård,A_Ivar_Ørnby,Ivar Ørnby,Socialdemokratiet,2
+Lyngby,2,Lindegård,A_Lars_Bjørn,Lars Bjørn,Socialdemokratiet,9
+Lyngby,2,Lindegård,B_Listestemmer,Listestemmer,Radikale Venstre,80
+Lyngby,2,Lindegård,B_Gitte_Kjær-Westermann,Gitte Kjær-Westermann,Radikale Venstre,18
+Lyngby,2,Lindegård,B_Mikkel_Johannessen,Mikkel Johannessen,Radikale Venstre,23
+Lyngby,2,Lindegård,B_Kasper_Langberg,Kasper Langberg,Radikale Venstre,16
+Lyngby,2,Lindegård,B_Susanne_Hjernøe,Susanne Hjernøe,Radikale Venstre,17
+Lyngby,2,Lindegård,B_Cecilie_Lindahl,Cecilie Lindahl,Radikale Venstre,131
+Lyngby,2,Lindegård,B_Paul_K._Jeppesen,Paul K. Jeppesen,Radikale Venstre,6
+Lyngby,2,Lindegård,B_Ole_Møller,Ole Møller,Radikale Venstre,7
+Lyngby,2,Lindegård,B_Johan_Løje,Johan Løje,Radikale Venstre,6
+Lyngby,2,Lindegård,B_Karoline_Geneser,Karoline Geneser,Radikale Venstre,1
+Lyngby,2,Lindegård,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,240
+Lyngby,2,Lindegård,C_Sofia_Osmani,Sofia Osmani,Det Konservative Folkeparti,549
+Lyngby,2,Lindegård,C_John_Tefke,John Tefke,Det Konservative Folkeparti,39
+Lyngby,2,Lindegård,C_Mette_Schmidt_Olsen,Mette Schmidt Olsen,Det Konservative Folkeparti,24
+Lyngby,2,Lindegård,C_Dorthe_la_Cour,Dorthe la Cour,Det Konservative Folkeparti,11
+Lyngby,2,Lindegård,C_Martin_Vendel_Nielsen,Martin Vendel Nielsen,Det Konservative Folkeparti,10
+Lyngby,2,Lindegård,C_Magnus_Von_Dreiager,Magnus Von Dreiager,Det Konservative Folkeparti,26
+Lyngby,2,Lindegård,C_Charlotte_Shafer,Charlotte Shafer,Det Konservative Folkeparti,36
+Lyngby,2,Lindegård,C_Karsten_Andersen,Karsten Andersen,Det Konservative Folkeparti,16
+Lyngby,2,Lindegård,C_Erik_Frikke,Erik Frikke,Det Konservative Folkeparti,41
+Lyngby,2,Lindegård,C_Maria_Svane,Maria Svane,Det Konservative Folkeparti,24
+Lyngby,2,Lindegård,C_Katrine_Vendelbo,Katrine Vendelbo,Det Konservative Folkeparti,4
+Lyngby,2,Lindegård,C_Marcus_Perathoner,Marcus Perathoner,Det Konservative Folkeparti,4
+Lyngby,2,Lindegård,C_Casper_Strunge,Casper Strunge,Det Konservative Folkeparti,9
+Lyngby,2,Lindegård,C_Ole_Møller,Ole Møller,Det Konservative Folkeparti,15
+Lyngby,2,Lindegård,C_Anne_Jeremiassen,Anne Jeremiassen,Det Konservative Folkeparti,7
+Lyngby,2,Lindegård,C_Tonni_Hyldgaard,Tonni Hyldgaard,Det Konservative Folkeparti,3
+Lyngby,2,Lindegård,C_Philip_Rye,Philip Rye,Det Konservative Folkeparti,12
+Lyngby,2,Lindegård,C_Shahin_Yazdi_Sotoudeh,Shahin Yazdi Sotoudeh,Det Konservative Folkeparti,1
+Lyngby,2,Lindegård,C_Søren_Preuss,Søren Preuss,Det Konservative Folkeparti,1
+Lyngby,2,Lindegård,C_Christine_Bernt_Henriksen,Christine Bernt Henriksen,Det Konservative Folkeparti,2
+Lyngby,2,Lindegård,C_Michael_M._Jørgensen,Michael M. Jørgensen,Det Konservative Folkeparti,16
+Lyngby,2,Lindegård,C_Christian_Winther,Christian Winther,Det Konservative Folkeparti,13
+Lyngby,2,Lindegård,C_Richard_Sandbæk,Richard Sandbæk,Det Konservative Folkeparti,3
+Lyngby,2,Lindegård,D_Listestemmer,Listestemmer,Nye Borgerlige,41
+Lyngby,2,Lindegård,D_Claus_Bøgh_Svenningsen,Claus Bøgh Svenningsen,Nye Borgerlige,44
+Lyngby,2,Lindegård,D_Anette_Skafte,Anette Skafte,Nye Borgerlige,18
+Lyngby,2,Lindegård,D_Dorthe_Rosa_Hasselby,Dorthe Rosa Hasselby,Nye Borgerlige,12
+Lyngby,2,Lindegård,D_Peter_Nielsen,Peter Nielsen,Nye Borgerlige,0
+Lyngby,2,Lindegård,D_Freddy_Jacobsen,Freddy Jacobsen,Nye Borgerlige,2
+Lyngby,2,Lindegård,D_Lene_Tholstorf,Lene Tholstorf,Nye Borgerlige,3
+Lyngby,2,Lindegård,E_Listestemmer,Listestemmer,Lokallisten Vores kommune - LTK,4
+Lyngby,2,Lindegård,E_Lars_Bisgaard,Lars Bisgaard,Lokallisten Vores kommune - LTK,10
+Lyngby,2,Lindegård,E_Ida-Marie_Helsberg,Ida-Marie Helsberg,Lokallisten Vores kommune - LTK,8
+Lyngby,2,Lindegård,E_Thomas_Lausen,Thomas Lausen,Lokallisten Vores kommune - LTK,1
+Lyngby,2,Lindegård,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,106
+Lyngby,2,Lindegård,F_Sigurd_Agersnap,Sigurd Agersnap,SF - Socialistisk Folkeparti,181
+Lyngby,2,Lindegård,F_Niels_Haxthausen,Niels Haxthausen,SF - Socialistisk Folkeparti,26
+Lyngby,2,Lindegård,F_Anne_Grete_Bülow,Anne Grete Bülow,SF - Socialistisk Folkeparti,46
+Lyngby,2,Lindegård,F_Dorete_Dandanell,Dorete Dandanell,SF - Socialistisk Folkeparti,10
+Lyngby,2,Lindegård,F_Majbrit_Pedersen,Majbrit Pedersen,SF - Socialistisk Folkeparti,13
+Lyngby,2,Lindegård,F_Karen_Marie_Pagh_Nielsen,Karen Marie Pagh Nielsen,SF - Socialistisk Folkeparti,22
+Lyngby,2,Lindegård,F_Arne_Christensen,Arne Christensen,SF - Socialistisk Folkeparti,1
+Lyngby,2,Lindegård,F_Claudia_Heim,Claudia Heim,SF - Socialistisk Folkeparti,7
+Lyngby,2,Lindegård,F_Niels_Halse,Niels Halse,SF - Socialistisk Folkeparti,2
+Lyngby,2,Lindegård,F_Inge_Duus_Hjortlund,Inge Duus Hjortlund,SF - Socialistisk Folkeparti,5
+Lyngby,2,Lindegård,G_Listestemmer,Listestemmer,Veganerpartiet,4
+Lyngby,2,Lindegård,G_Helene_Toksværd,Helene Toksværd,Veganerpartiet,8
+Lyngby,2,Lindegård,I_Listestemmer,Listestemmer,Liberal Alliance,26
+Lyngby,2,Lindegård,I_Thomas_Frederiksen,Thomas Frederiksen,Liberal Alliance,8
+Lyngby,2,Lindegård,I_Louise_Siv_Ebbesen,Louise Siv Ebbesen,Liberal Alliance,6
+Lyngby,2,Lindegård,I_Steffen_Larsen,Steffen Larsen,Liberal Alliance,6
+Lyngby,2,Lindegård,I_Helle_Kruuse,Helle Kruuse,Liberal Alliance,0
+Lyngby,2,Lindegård,I_Uwe_Hermann,Uwe Hermann,Liberal Alliance,3
+Lyngby,2,Lindegård,I_Trine_Mortensen,Trine Mortensen,Liberal Alliance,1
+Lyngby,2,Lindegård,O_Listestemmer,Listestemmer,Dansk Folkeparti,26
+Lyngby,2,Lindegård,O_Jørn_Jensin,Jørn Jensin,Dansk Folkeparti,33
+Lyngby,2,Lindegård,O_Anne_Schmidt,Anne Schmidt,Dansk Folkeparti,2
+Lyngby,2,Lindegård,O_Søs_Krog,Søs Krog,Dansk Folkeparti,7
+Lyngby,2,Lindegård,Q_Listestemmer,Listestemmer,Bydelenes Stemmer,1
+Lyngby,2,Lindegård,Q_Nils-Peter_Astrupgaard,Nils-Peter Astrupgaard,Bydelenes Stemmer,11
+Lyngby,2,Lindegård,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",37
+Lyngby,2,Lindegård,V_Christine_Dal,Christine Dal,"Venstre, Danmarks Liberale Parti",29
+Lyngby,2,Lindegård,V_Tommy_Wedel,Tommy Wedel,"Venstre, Danmarks Liberale Parti",13
+Lyngby,2,Lindegård,V_Jens_Dissing_Odgaard,Jens Dissing Odgaard,"Venstre, Danmarks Liberale Parti",12
+Lyngby,2,Lindegård,V_Grethe_Andreasen,Grethe Andreasen,"Venstre, Danmarks Liberale Parti",2
+Lyngby,2,Lindegård,V_Erik_Faurholt_Siggaard,Erik Faurholt Siggaard,"Venstre, Danmarks Liberale Parti",10
+Lyngby,2,Lindegård,V_Niels_Jørgen_Christensen,Niels Jørgen Christensen,"Venstre, Danmarks Liberale Parti",2
+Lyngby,2,Lindegård,V_Kristian_Wismann_Kurlink,Kristian Wismann Kurlink,"Venstre, Danmarks Liberale Parti",3
+Lyngby,2,Lindegård,V_Thomas_Koed,Thomas Koed,"Venstre, Danmarks Liberale Parti",3
+Lyngby,2,Lindegård,V_Kersi_Porbunderwala,Kersi Porbunderwala,"Venstre, Danmarks Liberale Parti",5
+Lyngby,2,Lindegård,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,106
+Lyngby,2,Lindegård,Ø_Henrik_Bang,Henrik Bang,Enhedslisten - De Rød-Grønne,31
+Lyngby,2,Lindegård,Ø_Lise_Hogervorst,Lise Hogervorst,Enhedslisten - De Rød-Grønne,23
+Lyngby,2,Lindegård,Ø_Jeanette_Astrup,Jeanette Astrup,Enhedslisten - De Rød-Grønne,22
+Lyngby,2,Lindegård,Ø_Jesper_Grand,Jesper Grand,Enhedslisten - De Rød-Grønne,5
+Lyngby,2,Lindegård,Ø_Pia_Boisen,Pia Boisen,Enhedslisten - De Rød-Grønne,11
+Lyngby,2,Lindegård,Ø_Farrokh_Jafari,Farrokh Jafari,Enhedslisten - De Rød-Grønne,11
+Lyngby,2,Lindegård,Ø_Carl_Friis,Carl Friis,Enhedslisten - De Rød-Grønne,0
+Lyngby,3,Trongård,A_Listestemmer,Listestemmer,Socialdemokratiet,143
+Lyngby,3,Trongård,A_Simon_Pihl_Sørensen,Simon Pihl Sørensen,Socialdemokratiet,56
+Lyngby,3,Trongård,A_Dorthe_Minna_Hansen,Dorthe Minna Hansen,Socialdemokratiet,32
+Lyngby,3,Trongård,A_Bodil_Kornbek,Bodil Kornbek,Socialdemokratiet,47
+Lyngby,3,Trongård,A_Klaus_Dalgas,Klaus Dalgas,Socialdemokratiet,5
+Lyngby,3,Trongård,A_Martin_Stenner,Martin Stenner,Socialdemokratiet,5
+Lyngby,3,Trongård,A_Silas_Mudoh,Silas Mudoh,Socialdemokratiet,47
+Lyngby,3,Trongård,A_Finn_Riber,Finn Riber,Socialdemokratiet,19
+Lyngby,3,Trongård,A_Ib_Carlsen,Ib Carlsen,Socialdemokratiet,41
+Lyngby,3,Trongård,A_Ivar_Ørnby,Ivar Ørnby,Socialdemokratiet,7
+Lyngby,3,Trongård,A_Lars_Bjørn,Lars Bjørn,Socialdemokratiet,8
+Lyngby,3,Trongård,B_Listestemmer,Listestemmer,Radikale Venstre,120
+Lyngby,3,Trongård,B_Gitte_Kjær-Westermann,Gitte Kjær-Westermann,Radikale Venstre,35
+Lyngby,3,Trongård,B_Mikkel_Johannessen,Mikkel Johannessen,Radikale Venstre,54
+Lyngby,3,Trongård,B_Kasper_Langberg,Kasper Langberg,Radikale Venstre,17
+Lyngby,3,Trongård,B_Susanne_Hjernøe,Susanne Hjernøe,Radikale Venstre,12
+Lyngby,3,Trongård,B_Cecilie_Lindahl,Cecilie Lindahl,Radikale Venstre,106
+Lyngby,3,Trongård,B_Paul_K._Jeppesen,Paul K. Jeppesen,Radikale Venstre,5
+Lyngby,3,Trongård,B_Ole_Møller,Ole Møller,Radikale Venstre,7
+Lyngby,3,Trongård,B_Johan_Løje,Johan Løje,Radikale Venstre,23
+Lyngby,3,Trongård,B_Karoline_Geneser,Karoline Geneser,Radikale Venstre,0
+Lyngby,3,Trongård,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,304
+Lyngby,3,Trongård,C_Sofia_Osmani,Sofia Osmani,Det Konservative Folkeparti,846
+Lyngby,3,Trongård,C_John_Tefke,John Tefke,Det Konservative Folkeparti,236
+Lyngby,3,Trongård,C_Mette_Schmidt_Olsen,Mette Schmidt Olsen,Det Konservative Folkeparti,63
+Lyngby,3,Trongård,C_Dorthe_la_Cour,Dorthe la Cour,Det Konservative Folkeparti,15
+Lyngby,3,Trongård,C_Martin_Vendel_Nielsen,Martin Vendel Nielsen,Det Konservative Folkeparti,12
+Lyngby,3,Trongård,C_Magnus_Von_Dreiager,Magnus Von Dreiager,Det Konservative Folkeparti,51
+Lyngby,3,Trongård,C_Charlotte_Shafer,Charlotte Shafer,Det Konservative Folkeparti,28
+Lyngby,3,Trongård,C_Karsten_Andersen,Karsten Andersen,Det Konservative Folkeparti,7
+Lyngby,3,Trongård,C_Erik_Frikke,Erik Frikke,Det Konservative Folkeparti,21
+Lyngby,3,Trongård,C_Maria_Svane,Maria Svane,Det Konservative Folkeparti,6
+Lyngby,3,Trongård,C_Katrine_Vendelbo,Katrine Vendelbo,Det Konservative Folkeparti,6
+Lyngby,3,Trongård,C_Marcus_Perathoner,Marcus Perathoner,Det Konservative Folkeparti,3
+Lyngby,3,Trongård,C_Casper_Strunge,Casper Strunge,Det Konservative Folkeparti,25
+Lyngby,3,Trongård,C_Ole_Møller,Ole Møller,Det Konservative Folkeparti,4
+Lyngby,3,Trongård,C_Anne_Jeremiassen,Anne Jeremiassen,Det Konservative Folkeparti,9
+Lyngby,3,Trongård,C_Tonni_Hyldgaard,Tonni Hyldgaard,Det Konservative Folkeparti,6
+Lyngby,3,Trongård,C_Philip_Rye,Philip Rye,Det Konservative Folkeparti,6
+Lyngby,3,Trongård,C_Shahin_Yazdi_Sotoudeh,Shahin Yazdi Sotoudeh,Det Konservative Folkeparti,2
+Lyngby,3,Trongård,C_Søren_Preuss,Søren Preuss,Det Konservative Folkeparti,4
+Lyngby,3,Trongård,C_Christine_Bernt_Henriksen,Christine Bernt Henriksen,Det Konservative Folkeparti,7
+Lyngby,3,Trongård,C_Michael_M._Jørgensen,Michael M. Jørgensen,Det Konservative Folkeparti,17
+Lyngby,3,Trongård,C_Christian_Winther,Christian Winther,Det Konservative Folkeparti,14
+Lyngby,3,Trongård,C_Richard_Sandbæk,Richard Sandbæk,Det Konservative Folkeparti,5
+Lyngby,3,Trongård,D_Listestemmer,Listestemmer,Nye Borgerlige,46
+Lyngby,3,Trongård,D_Claus_Bøgh_Svenningsen,Claus Bøgh Svenningsen,Nye Borgerlige,24
+Lyngby,3,Trongård,D_Anette_Skafte,Anette Skafte,Nye Borgerlige,14
+Lyngby,3,Trongård,D_Dorthe_Rosa_Hasselby,Dorthe Rosa Hasselby,Nye Borgerlige,4
+Lyngby,3,Trongård,D_Peter_Nielsen,Peter Nielsen,Nye Borgerlige,0
+Lyngby,3,Trongård,D_Freddy_Jacobsen,Freddy Jacobsen,Nye Borgerlige,1
+Lyngby,3,Trongård,D_Lene_Tholstorf,Lene Tholstorf,Nye Borgerlige,2
+Lyngby,3,Trongård,E_Listestemmer,Listestemmer,Lokallisten Vores kommune - LTK,6
+Lyngby,3,Trongård,E_Lars_Bisgaard,Lars Bisgaard,Lokallisten Vores kommune - LTK,8
+Lyngby,3,Trongård,E_Ida-Marie_Helsberg,Ida-Marie Helsberg,Lokallisten Vores kommune - LTK,4
+Lyngby,3,Trongård,E_Thomas_Lausen,Thomas Lausen,Lokallisten Vores kommune - LTK,0
+Lyngby,3,Trongård,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,97
+Lyngby,3,Trongård,F_Sigurd_Agersnap,Sigurd Agersnap,SF - Socialistisk Folkeparti,195
+Lyngby,3,Trongård,F_Niels_Haxthausen,Niels Haxthausen,SF - Socialistisk Folkeparti,31
+Lyngby,3,Trongård,F_Anne_Grete_Bülow,Anne Grete Bülow,SF - Socialistisk Folkeparti,31
+Lyngby,3,Trongård,F_Dorete_Dandanell,Dorete Dandanell,SF - Socialistisk Folkeparti,7
+Lyngby,3,Trongård,F_Majbrit_Pedersen,Majbrit Pedersen,SF - Socialistisk Folkeparti,10
+Lyngby,3,Trongård,F_Karen_Marie_Pagh_Nielsen,Karen Marie Pagh Nielsen,SF - Socialistisk Folkeparti,22
+Lyngby,3,Trongård,F_Arne_Christensen,Arne Christensen,SF - Socialistisk Folkeparti,4
+Lyngby,3,Trongård,F_Claudia_Heim,Claudia Heim,SF - Socialistisk Folkeparti,4
+Lyngby,3,Trongård,F_Niels_Halse,Niels Halse,SF - Socialistisk Folkeparti,0
+Lyngby,3,Trongård,F_Inge_Duus_Hjortlund,Inge Duus Hjortlund,SF - Socialistisk Folkeparti,2
+Lyngby,3,Trongård,G_Listestemmer,Listestemmer,Veganerpartiet,7
+Lyngby,3,Trongård,G_Helene_Toksværd,Helene Toksværd,Veganerpartiet,9
+Lyngby,3,Trongård,I_Listestemmer,Listestemmer,Liberal Alliance,30
+Lyngby,3,Trongård,I_Thomas_Frederiksen,Thomas Frederiksen,Liberal Alliance,21
+Lyngby,3,Trongård,I_Louise_Siv_Ebbesen,Louise Siv Ebbesen,Liberal Alliance,19
+Lyngby,3,Trongård,I_Steffen_Larsen,Steffen Larsen,Liberal Alliance,15
+Lyngby,3,Trongård,I_Helle_Kruuse,Helle Kruuse,Liberal Alliance,3
+Lyngby,3,Trongård,I_Uwe_Hermann,Uwe Hermann,Liberal Alliance,0
+Lyngby,3,Trongård,I_Trine_Mortensen,Trine Mortensen,Liberal Alliance,0
+Lyngby,3,Trongård,O_Listestemmer,Listestemmer,Dansk Folkeparti,14
+Lyngby,3,Trongård,O_Jørn_Jensin,Jørn Jensin,Dansk Folkeparti,10
+Lyngby,3,Trongård,O_Anne_Schmidt,Anne Schmidt,Dansk Folkeparti,4
+Lyngby,3,Trongård,O_Søs_Krog,Søs Krog,Dansk Folkeparti,5
+Lyngby,3,Trongård,Q_Listestemmer,Listestemmer,Bydelenes Stemmer,3
+Lyngby,3,Trongård,Q_Nils-Peter_Astrupgaard,Nils-Peter Astrupgaard,Bydelenes Stemmer,9
+Lyngby,3,Trongård,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",56
+Lyngby,3,Trongård,V_Christine_Dal,Christine Dal,"Venstre, Danmarks Liberale Parti",49
+Lyngby,3,Trongård,V_Tommy_Wedel,Tommy Wedel,"Venstre, Danmarks Liberale Parti",7
+Lyngby,3,Trongård,V_Jens_Dissing_Odgaard,Jens Dissing Odgaard,"Venstre, Danmarks Liberale Parti",21
+Lyngby,3,Trongård,V_Grethe_Andreasen,Grethe Andreasen,"Venstre, Danmarks Liberale Parti",1
+Lyngby,3,Trongård,V_Erik_Faurholt_Siggaard,Erik Faurholt Siggaard,"Venstre, Danmarks Liberale Parti",16
+Lyngby,3,Trongård,V_Niels_Jørgen_Christensen,Niels Jørgen Christensen,"Venstre, Danmarks Liberale Parti",8
+Lyngby,3,Trongård,V_Kristian_Wismann_Kurlink,Kristian Wismann Kurlink,"Venstre, Danmarks Liberale Parti",8
+Lyngby,3,Trongård,V_Thomas_Koed,Thomas Koed,"Venstre, Danmarks Liberale Parti",7
+Lyngby,3,Trongård,V_Kersi_Porbunderwala,Kersi Porbunderwala,"Venstre, Danmarks Liberale Parti",8
+Lyngby,3,Trongård,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,113
+Lyngby,3,Trongård,Ø_Henrik_Bang,Henrik Bang,Enhedslisten - De Rød-Grønne,39
+Lyngby,3,Trongård,Ø_Lise_Hogervorst,Lise Hogervorst,Enhedslisten - De Rød-Grønne,15
+Lyngby,3,Trongård,Ø_Jeanette_Astrup,Jeanette Astrup,Enhedslisten - De Rød-Grønne,17
+Lyngby,3,Trongård,Ø_Jesper_Grand,Jesper Grand,Enhedslisten - De Rød-Grønne,6
+Lyngby,3,Trongård,Ø_Pia_Boisen,Pia Boisen,Enhedslisten - De Rød-Grønne,14
+Lyngby,3,Trongård,Ø_Farrokh_Jafari,Farrokh Jafari,Enhedslisten - De Rød-Grønne,6
+Lyngby,3,Trongård,Ø_Carl_Friis,Carl Friis,Enhedslisten - De Rød-Grønne,0
+Lyngby,4,Engelsborg,A_Listestemmer,Listestemmer,Socialdemokratiet,170
+Lyngby,4,Engelsborg,A_Simon_Pihl_Sørensen,Simon Pihl Sørensen,Socialdemokratiet,81
+Lyngby,4,Engelsborg,A_Dorthe_Minna_Hansen,Dorthe Minna Hansen,Socialdemokratiet,60
+Lyngby,4,Engelsborg,A_Bodil_Kornbek,Bodil Kornbek,Socialdemokratiet,58
+Lyngby,4,Engelsborg,A_Klaus_Dalgas,Klaus Dalgas,Socialdemokratiet,52
+Lyngby,4,Engelsborg,A_Martin_Stenner,Martin Stenner,Socialdemokratiet,2
+Lyngby,4,Engelsborg,A_Silas_Mudoh,Silas Mudoh,Socialdemokratiet,24
+Lyngby,4,Engelsborg,A_Finn_Riber,Finn Riber,Socialdemokratiet,2
+Lyngby,4,Engelsborg,A_Ib_Carlsen,Ib Carlsen,Socialdemokratiet,24
+Lyngby,4,Engelsborg,A_Ivar_Ørnby,Ivar Ørnby,Socialdemokratiet,2
+Lyngby,4,Engelsborg,A_Lars_Bjørn,Lars Bjørn,Socialdemokratiet,0
+Lyngby,4,Engelsborg,B_Listestemmer,Listestemmer,Radikale Venstre,111
+Lyngby,4,Engelsborg,B_Gitte_Kjær-Westermann,Gitte Kjær-Westermann,Radikale Venstre,51
+Lyngby,4,Engelsborg,B_Mikkel_Johannessen,Mikkel Johannessen,Radikale Venstre,22
+Lyngby,4,Engelsborg,B_Kasper_Langberg,Kasper Langberg,Radikale Venstre,24
+Lyngby,4,Engelsborg,B_Susanne_Hjernøe,Susanne Hjernøe,Radikale Venstre,9
+Lyngby,4,Engelsborg,B_Cecilie_Lindahl,Cecilie Lindahl,Radikale Venstre,138
+Lyngby,4,Engelsborg,B_Paul_K._Jeppesen,Paul K. Jeppesen,Radikale Venstre,2
+Lyngby,4,Engelsborg,B_Ole_Møller,Ole Møller,Radikale Venstre,4
+Lyngby,4,Engelsborg,B_Johan_Løje,Johan Løje,Radikale Venstre,9
+Lyngby,4,Engelsborg,B_Karoline_Geneser,Karoline Geneser,Radikale Venstre,2
+Lyngby,4,Engelsborg,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,388
+Lyngby,4,Engelsborg,C_Sofia_Osmani,Sofia Osmani,Det Konservative Folkeparti,1007
+Lyngby,4,Engelsborg,C_John_Tefke,John Tefke,Det Konservative Folkeparti,37
+Lyngby,4,Engelsborg,C_Mette_Schmidt_Olsen,Mette Schmidt Olsen,Det Konservative Folkeparti,24
+Lyngby,4,Engelsborg,C_Dorthe_la_Cour,Dorthe la Cour,Det Konservative Folkeparti,24
+Lyngby,4,Engelsborg,C_Martin_Vendel_Nielsen,Martin Vendel Nielsen,Det Konservative Folkeparti,9
+Lyngby,4,Engelsborg,C_Magnus_Von_Dreiager,Magnus Von Dreiager,Det Konservative Folkeparti,34
+Lyngby,4,Engelsborg,C_Charlotte_Shafer,Charlotte Shafer,Det Konservative Folkeparti,52
+Lyngby,4,Engelsborg,C_Karsten_Andersen,Karsten Andersen,Det Konservative Folkeparti,103
+Lyngby,4,Engelsborg,C_Erik_Frikke,Erik Frikke,Det Konservative Folkeparti,12
+Lyngby,4,Engelsborg,C_Maria_Svane,Maria Svane,Det Konservative Folkeparti,8
+Lyngby,4,Engelsborg,C_Katrine_Vendelbo,Katrine Vendelbo,Det Konservative Folkeparti,8
+Lyngby,4,Engelsborg,C_Marcus_Perathoner,Marcus Perathoner,Det Konservative Folkeparti,8
+Lyngby,4,Engelsborg,C_Casper_Strunge,Casper Strunge,Det Konservative Folkeparti,8
+Lyngby,4,Engelsborg,C_Ole_Møller,Ole Møller,Det Konservative Folkeparti,11
+Lyngby,4,Engelsborg,C_Anne_Jeremiassen,Anne Jeremiassen,Det Konservative Folkeparti,3
+Lyngby,4,Engelsborg,C_Tonni_Hyldgaard,Tonni Hyldgaard,Det Konservative Folkeparti,5
+Lyngby,4,Engelsborg,C_Philip_Rye,Philip Rye,Det Konservative Folkeparti,11
+Lyngby,4,Engelsborg,C_Shahin_Yazdi_Sotoudeh,Shahin Yazdi Sotoudeh,Det Konservative Folkeparti,2
+Lyngby,4,Engelsborg,C_Søren_Preuss,Søren Preuss,Det Konservative Folkeparti,7
+Lyngby,4,Engelsborg,C_Christine_Bernt_Henriksen,Christine Bernt Henriksen,Det Konservative Folkeparti,10
+Lyngby,4,Engelsborg,C_Michael_M._Jørgensen,Michael M. Jørgensen,Det Konservative Folkeparti,16
+Lyngby,4,Engelsborg,C_Christian_Winther,Christian Winther,Det Konservative Folkeparti,122
+Lyngby,4,Engelsborg,C_Richard_Sandbæk,Richard Sandbæk,Det Konservative Folkeparti,13
+Lyngby,4,Engelsborg,D_Listestemmer,Listestemmer,Nye Borgerlige,48
+Lyngby,4,Engelsborg,D_Claus_Bøgh_Svenningsen,Claus Bøgh Svenningsen,Nye Borgerlige,28
+Lyngby,4,Engelsborg,D_Anette_Skafte,Anette Skafte,Nye Borgerlige,16
+Lyngby,4,Engelsborg,D_Dorthe_Rosa_Hasselby,Dorthe Rosa Hasselby,Nye Borgerlige,6
+Lyngby,4,Engelsborg,D_Peter_Nielsen,Peter Nielsen,Nye Borgerlige,3
+Lyngby,4,Engelsborg,D_Freddy_Jacobsen,Freddy Jacobsen,Nye Borgerlige,3
+Lyngby,4,Engelsborg,D_Lene_Tholstorf,Lene Tholstorf,Nye Borgerlige,1
+Lyngby,4,Engelsborg,E_Listestemmer,Listestemmer,Lokallisten Vores kommune - LTK,6
+Lyngby,4,Engelsborg,E_Lars_Bisgaard,Lars Bisgaard,Lokallisten Vores kommune - LTK,3
+Lyngby,4,Engelsborg,E_Ida-Marie_Helsberg,Ida-Marie Helsberg,Lokallisten Vores kommune - LTK,3
+Lyngby,4,Engelsborg,E_Thomas_Lausen,Thomas Lausen,Lokallisten Vores kommune - LTK,1
+Lyngby,4,Engelsborg,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,129
+Lyngby,4,Engelsborg,F_Sigurd_Agersnap,Sigurd Agersnap,SF - Socialistisk Folkeparti,202
+Lyngby,4,Engelsborg,F_Niels_Haxthausen,Niels Haxthausen,SF - Socialistisk Folkeparti,13
+Lyngby,4,Engelsborg,F_Anne_Grete_Bülow,Anne Grete Bülow,SF - Socialistisk Folkeparti,38
+Lyngby,4,Engelsborg,F_Dorete_Dandanell,Dorete Dandanell,SF - Socialistisk Folkeparti,6
+Lyngby,4,Engelsborg,F_Majbrit_Pedersen,Majbrit Pedersen,SF - Socialistisk Folkeparti,37
+Lyngby,4,Engelsborg,F_Karen_Marie_Pagh_Nielsen,Karen Marie Pagh Nielsen,SF - Socialistisk Folkeparti,15
+Lyngby,4,Engelsborg,F_Arne_Christensen,Arne Christensen,SF - Socialistisk Folkeparti,1
+Lyngby,4,Engelsborg,F_Claudia_Heim,Claudia Heim,SF - Socialistisk Folkeparti,7
+Lyngby,4,Engelsborg,F_Niels_Halse,Niels Halse,SF - Socialistisk Folkeparti,0
+Lyngby,4,Engelsborg,F_Inge_Duus_Hjortlund,Inge Duus Hjortlund,SF - Socialistisk Folkeparti,18
+Lyngby,4,Engelsborg,G_Listestemmer,Listestemmer,Veganerpartiet,3
+Lyngby,4,Engelsborg,G_Helene_Toksværd,Helene Toksværd,Veganerpartiet,5
+Lyngby,4,Engelsborg,I_Listestemmer,Listestemmer,Liberal Alliance,44
+Lyngby,4,Engelsborg,I_Thomas_Frederiksen,Thomas Frederiksen,Liberal Alliance,18
+Lyngby,4,Engelsborg,I_Louise_Siv_Ebbesen,Louise Siv Ebbesen,Liberal Alliance,15
+Lyngby,4,Engelsborg,I_Steffen_Larsen,Steffen Larsen,Liberal Alliance,9
+Lyngby,4,Engelsborg,I_Helle_Kruuse,Helle Kruuse,Liberal Alliance,0
+Lyngby,4,Engelsborg,I_Uwe_Hermann,Uwe Hermann,Liberal Alliance,1
+Lyngby,4,Engelsborg,I_Trine_Mortensen,Trine Mortensen,Liberal Alliance,0
+Lyngby,4,Engelsborg,O_Listestemmer,Listestemmer,Dansk Folkeparti,23
+Lyngby,4,Engelsborg,O_Jørn_Jensin,Jørn Jensin,Dansk Folkeparti,16
+Lyngby,4,Engelsborg,O_Anne_Schmidt,Anne Schmidt,Dansk Folkeparti,5
+Lyngby,4,Engelsborg,O_Søs_Krog,Søs Krog,Dansk Folkeparti,2
+Lyngby,4,Engelsborg,Q_Listestemmer,Listestemmer,Bydelenes Stemmer,6
+Lyngby,4,Engelsborg,Q_Nils-Peter_Astrupgaard,Nils-Peter Astrupgaard,Bydelenes Stemmer,23
+Lyngby,4,Engelsborg,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",76
+Lyngby,4,Engelsborg,V_Christine_Dal,Christine Dal,"Venstre, Danmarks Liberale Parti",69
+Lyngby,4,Engelsborg,V_Tommy_Wedel,Tommy Wedel,"Venstre, Danmarks Liberale Parti",22
+Lyngby,4,Engelsborg,V_Jens_Dissing_Odgaard,Jens Dissing Odgaard,"Venstre, Danmarks Liberale Parti",21
+Lyngby,4,Engelsborg,V_Grethe_Andreasen,Grethe Andreasen,"Venstre, Danmarks Liberale Parti",3
+Lyngby,4,Engelsborg,V_Erik_Faurholt_Siggaard,Erik Faurholt Siggaard,"Venstre, Danmarks Liberale Parti",7
+Lyngby,4,Engelsborg,V_Niels_Jørgen_Christensen,Niels Jørgen Christensen,"Venstre, Danmarks Liberale Parti",5
+Lyngby,4,Engelsborg,V_Kristian_Wismann_Kurlink,Kristian Wismann Kurlink,"Venstre, Danmarks Liberale Parti",8
+Lyngby,4,Engelsborg,V_Thomas_Koed,Thomas Koed,"Venstre, Danmarks Liberale Parti",3
+Lyngby,4,Engelsborg,V_Kersi_Porbunderwala,Kersi Porbunderwala,"Venstre, Danmarks Liberale Parti",4
+Lyngby,4,Engelsborg,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,110
+Lyngby,4,Engelsborg,Ø_Henrik_Bang,Henrik Bang,Enhedslisten - De Rød-Grønne,27
+Lyngby,4,Engelsborg,Ø_Lise_Hogervorst,Lise Hogervorst,Enhedslisten - De Rød-Grønne,15
+Lyngby,4,Engelsborg,Ø_Jeanette_Astrup,Jeanette Astrup,Enhedslisten - De Rød-Grønne,8
+Lyngby,4,Engelsborg,Ø_Jesper_Grand,Jesper Grand,Enhedslisten - De Rød-Grønne,1
+Lyngby,4,Engelsborg,Ø_Pia_Boisen,Pia Boisen,Enhedslisten - De Rød-Grønne,11
+Lyngby,4,Engelsborg,Ø_Farrokh_Jafari,Farrokh Jafari,Enhedslisten - De Rød-Grønne,5
+Lyngby,4,Engelsborg,Ø_Carl_Friis,Carl Friis,Enhedslisten - De Rød-Grønne,1
+Lyngby,5,Taarbæk,A_Listestemmer,Listestemmer,Socialdemokratiet,16
+Lyngby,5,Taarbæk,A_Simon_Pihl_Sørensen,Simon Pihl Sørensen,Socialdemokratiet,14
+Lyngby,5,Taarbæk,A_Dorthe_Minna_Hansen,Dorthe Minna Hansen,Socialdemokratiet,2
+Lyngby,5,Taarbæk,A_Bodil_Kornbek,Bodil Kornbek,Socialdemokratiet,3
+Lyngby,5,Taarbæk,A_Klaus_Dalgas,Klaus Dalgas,Socialdemokratiet,0
+Lyngby,5,Taarbæk,A_Martin_Stenner,Martin Stenner,Socialdemokratiet,0
+Lyngby,5,Taarbæk,A_Silas_Mudoh,Silas Mudoh,Socialdemokratiet,6
+Lyngby,5,Taarbæk,A_Finn_Riber,Finn Riber,Socialdemokratiet,0
+Lyngby,5,Taarbæk,A_Ib_Carlsen,Ib Carlsen,Socialdemokratiet,19
+Lyngby,5,Taarbæk,A_Ivar_Ørnby,Ivar Ørnby,Socialdemokratiet,0
+Lyngby,5,Taarbæk,A_Lars_Bjørn,Lars Bjørn,Socialdemokratiet,0
+Lyngby,5,Taarbæk,B_Listestemmer,Listestemmer,Radikale Venstre,14
+Lyngby,5,Taarbæk,B_Gitte_Kjær-Westermann,Gitte Kjær-Westermann,Radikale Venstre,95
+Lyngby,5,Taarbæk,B_Mikkel_Johannessen,Mikkel Johannessen,Radikale Venstre,2
+Lyngby,5,Taarbæk,B_Kasper_Langberg,Kasper Langberg,Radikale Venstre,3
+Lyngby,5,Taarbæk,B_Susanne_Hjernøe,Susanne Hjernøe,Radikale Venstre,0
+Lyngby,5,Taarbæk,B_Cecilie_Lindahl,Cecilie Lindahl,Radikale Venstre,13
+Lyngby,5,Taarbæk,B_Paul_K._Jeppesen,Paul K. Jeppesen,Radikale Venstre,0
+Lyngby,5,Taarbæk,B_Ole_Møller,Ole Møller,Radikale Venstre,2
+Lyngby,5,Taarbæk,B_Johan_Løje,Johan Løje,Radikale Venstre,1
+Lyngby,5,Taarbæk,B_Karoline_Geneser,Karoline Geneser,Radikale Venstre,1
+Lyngby,5,Taarbæk,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,41
+Lyngby,5,Taarbæk,C_Sofia_Osmani,Sofia Osmani,Det Konservative Folkeparti,78
+Lyngby,5,Taarbæk,C_John_Tefke,John Tefke,Det Konservative Folkeparti,7
+Lyngby,5,Taarbæk,C_Mette_Schmidt_Olsen,Mette Schmidt Olsen,Det Konservative Folkeparti,0
+Lyngby,5,Taarbæk,C_Dorthe_la_Cour,Dorthe la Cour,Det Konservative Folkeparti,2
+Lyngby,5,Taarbæk,C_Martin_Vendel_Nielsen,Martin Vendel Nielsen,Det Konservative Folkeparti,0
+Lyngby,5,Taarbæk,C_Magnus_Von_Dreiager,Magnus Von Dreiager,Det Konservative Folkeparti,1
+Lyngby,5,Taarbæk,C_Charlotte_Shafer,Charlotte Shafer,Det Konservative Folkeparti,1
+Lyngby,5,Taarbæk,C_Karsten_Andersen,Karsten Andersen,Det Konservative Folkeparti,1
+Lyngby,5,Taarbæk,C_Erik_Frikke,Erik Frikke,Det Konservative Folkeparti,0
+Lyngby,5,Taarbæk,C_Maria_Svane,Maria Svane,Det Konservative Folkeparti,0
+Lyngby,5,Taarbæk,C_Katrine_Vendelbo,Katrine Vendelbo,Det Konservative Folkeparti,1
+Lyngby,5,Taarbæk,C_Marcus_Perathoner,Marcus Perathoner,Det Konservative Folkeparti,1
+Lyngby,5,Taarbæk,C_Casper_Strunge,Casper Strunge,Det Konservative Folkeparti,178
+Lyngby,5,Taarbæk,C_Ole_Møller,Ole Møller,Det Konservative Folkeparti,0
+Lyngby,5,Taarbæk,C_Anne_Jeremiassen,Anne Jeremiassen,Det Konservative Folkeparti,0
+Lyngby,5,Taarbæk,C_Tonni_Hyldgaard,Tonni Hyldgaard,Det Konservative Folkeparti,1
+Lyngby,5,Taarbæk,C_Philip_Rye,Philip Rye,Det Konservative Folkeparti,0
+Lyngby,5,Taarbæk,C_Shahin_Yazdi_Sotoudeh,Shahin Yazdi Sotoudeh,Det Konservative Folkeparti,0
+Lyngby,5,Taarbæk,C_Søren_Preuss,Søren Preuss,Det Konservative Folkeparti,1
+Lyngby,5,Taarbæk,C_Christine_Bernt_Henriksen,Christine Bernt Henriksen,Det Konservative Folkeparti,0
+Lyngby,5,Taarbæk,C_Michael_M._Jørgensen,Michael M. Jørgensen,Det Konservative Folkeparti,1
+Lyngby,5,Taarbæk,C_Christian_Winther,Christian Winther,Det Konservative Folkeparti,1
+Lyngby,5,Taarbæk,C_Richard_Sandbæk,Richard Sandbæk,Det Konservative Folkeparti,237
+Lyngby,5,Taarbæk,D_Listestemmer,Listestemmer,Nye Borgerlige,8
+Lyngby,5,Taarbæk,D_Claus_Bøgh_Svenningsen,Claus Bøgh Svenningsen,Nye Borgerlige,7
+Lyngby,5,Taarbæk,D_Anette_Skafte,Anette Skafte,Nye Borgerlige,1
+Lyngby,5,Taarbæk,D_Dorthe_Rosa_Hasselby,Dorthe Rosa Hasselby,Nye Borgerlige,0
+Lyngby,5,Taarbæk,D_Peter_Nielsen,Peter Nielsen,Nye Borgerlige,0
+Lyngby,5,Taarbæk,D_Freddy_Jacobsen,Freddy Jacobsen,Nye Borgerlige,1
+Lyngby,5,Taarbæk,D_Lene_Tholstorf,Lene Tholstorf,Nye Borgerlige,0
+Lyngby,5,Taarbæk,E_Listestemmer,Listestemmer,Lokallisten Vores kommune - LTK,1
+Lyngby,5,Taarbæk,E_Lars_Bisgaard,Lars Bisgaard,Lokallisten Vores kommune - LTK,0
+Lyngby,5,Taarbæk,E_Ida-Marie_Helsberg,Ida-Marie Helsberg,Lokallisten Vores kommune - LTK,0
+Lyngby,5,Taarbæk,E_Thomas_Lausen,Thomas Lausen,Lokallisten Vores kommune - LTK,0
+Lyngby,5,Taarbæk,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,24
+Lyngby,5,Taarbæk,F_Sigurd_Agersnap,Sigurd Agersnap,SF - Socialistisk Folkeparti,39
+Lyngby,5,Taarbæk,F_Niels_Haxthausen,Niels Haxthausen,SF - Socialistisk Folkeparti,1
+Lyngby,5,Taarbæk,F_Anne_Grete_Bülow,Anne Grete Bülow,SF - Socialistisk Folkeparti,7
+Lyngby,5,Taarbæk,F_Dorete_Dandanell,Dorete Dandanell,SF - Socialistisk Folkeparti,4
+Lyngby,5,Taarbæk,F_Majbrit_Pedersen,Majbrit Pedersen,SF - Socialistisk Folkeparti,3
+Lyngby,5,Taarbæk,F_Karen_Marie_Pagh_Nielsen,Karen Marie Pagh Nielsen,SF - Socialistisk Folkeparti,9
+Lyngby,5,Taarbæk,F_Arne_Christensen,Arne Christensen,SF - Socialistisk Folkeparti,0
+Lyngby,5,Taarbæk,F_Claudia_Heim,Claudia Heim,SF - Socialistisk Folkeparti,0
+Lyngby,5,Taarbæk,F_Niels_Halse,Niels Halse,SF - Socialistisk Folkeparti,0
+Lyngby,5,Taarbæk,F_Inge_Duus_Hjortlund,Inge Duus Hjortlund,SF - Socialistisk Folkeparti,1
+Lyngby,5,Taarbæk,G_Listestemmer,Listestemmer,Veganerpartiet,0
+Lyngby,5,Taarbæk,G_Helene_Toksværd,Helene Toksværd,Veganerpartiet,0
+Lyngby,5,Taarbæk,I_Listestemmer,Listestemmer,Liberal Alliance,6
+Lyngby,5,Taarbæk,I_Thomas_Frederiksen,Thomas Frederiksen,Liberal Alliance,3
+Lyngby,5,Taarbæk,I_Louise_Siv_Ebbesen,Louise Siv Ebbesen,Liberal Alliance,0
+Lyngby,5,Taarbæk,I_Steffen_Larsen,Steffen Larsen,Liberal Alliance,1
+Lyngby,5,Taarbæk,I_Helle_Kruuse,Helle Kruuse,Liberal Alliance,0
+Lyngby,5,Taarbæk,I_Uwe_Hermann,Uwe Hermann,Liberal Alliance,0
+Lyngby,5,Taarbæk,I_Trine_Mortensen,Trine Mortensen,Liberal Alliance,0
+Lyngby,5,Taarbæk,O_Listestemmer,Listestemmer,Dansk Folkeparti,4
+Lyngby,5,Taarbæk,O_Jørn_Jensin,Jørn Jensin,Dansk Folkeparti,0
+Lyngby,5,Taarbæk,O_Anne_Schmidt,Anne Schmidt,Dansk Folkeparti,0
+Lyngby,5,Taarbæk,O_Søs_Krog,Søs Krog,Dansk Folkeparti,0
+Lyngby,5,Taarbæk,Q_Listestemmer,Listestemmer,Bydelenes Stemmer,0
+Lyngby,5,Taarbæk,Q_Nils-Peter_Astrupgaard,Nils-Peter Astrupgaard,Bydelenes Stemmer,0
+Lyngby,5,Taarbæk,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",13
+Lyngby,5,Taarbæk,V_Christine_Dal,Christine Dal,"Venstre, Danmarks Liberale Parti",8
+Lyngby,5,Taarbæk,V_Tommy_Wedel,Tommy Wedel,"Venstre, Danmarks Liberale Parti",1
+Lyngby,5,Taarbæk,V_Jens_Dissing_Odgaard,Jens Dissing Odgaard,"Venstre, Danmarks Liberale Parti",0
+Lyngby,5,Taarbæk,V_Grethe_Andreasen,Grethe Andreasen,"Venstre, Danmarks Liberale Parti",0
+Lyngby,5,Taarbæk,V_Erik_Faurholt_Siggaard,Erik Faurholt Siggaard,"Venstre, Danmarks Liberale Parti",5
+Lyngby,5,Taarbæk,V_Niels_Jørgen_Christensen,Niels Jørgen Christensen,"Venstre, Danmarks Liberale Parti",0
+Lyngby,5,Taarbæk,V_Kristian_Wismann_Kurlink,Kristian Wismann Kurlink,"Venstre, Danmarks Liberale Parti",0
+Lyngby,5,Taarbæk,V_Thomas_Koed,Thomas Koed,"Venstre, Danmarks Liberale Parti",1
+Lyngby,5,Taarbæk,V_Kersi_Porbunderwala,Kersi Porbunderwala,"Venstre, Danmarks Liberale Parti",3
+Lyngby,5,Taarbæk,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,24
+Lyngby,5,Taarbæk,Ø_Henrik_Bang,Henrik Bang,Enhedslisten - De Rød-Grønne,8
+Lyngby,5,Taarbæk,Ø_Lise_Hogervorst,Lise Hogervorst,Enhedslisten - De Rød-Grønne,9
+Lyngby,5,Taarbæk,Ø_Jeanette_Astrup,Jeanette Astrup,Enhedslisten - De Rød-Grønne,3
+Lyngby,5,Taarbæk,Ø_Jesper_Grand,Jesper Grand,Enhedslisten - De Rød-Grønne,0
+Lyngby,5,Taarbæk,Ø_Pia_Boisen,Pia Boisen,Enhedslisten - De Rød-Grønne,9
+Lyngby,5,Taarbæk,Ø_Farrokh_Jafari,Farrokh Jafari,Enhedslisten - De Rød-Grønne,2
+Lyngby,5,Taarbæk,Ø_Carl_Friis,Carl Friis,Enhedslisten - De Rød-Grønne,0
+Lyngby,6,Virum,A_Listestemmer,Listestemmer,Socialdemokratiet,103
+Lyngby,6,Virum,A_Simon_Pihl_Sørensen,Simon Pihl Sørensen,Socialdemokratiet,53
+Lyngby,6,Virum,A_Dorthe_Minna_Hansen,Dorthe Minna Hansen,Socialdemokratiet,37
+Lyngby,6,Virum,A_Bodil_Kornbek,Bodil Kornbek,Socialdemokratiet,62
+Lyngby,6,Virum,A_Klaus_Dalgas,Klaus Dalgas,Socialdemokratiet,12
+Lyngby,6,Virum,A_Martin_Stenner,Martin Stenner,Socialdemokratiet,2
+Lyngby,6,Virum,A_Silas_Mudoh,Silas Mudoh,Socialdemokratiet,7
+Lyngby,6,Virum,A_Finn_Riber,Finn Riber,Socialdemokratiet,3
+Lyngby,6,Virum,A_Ib_Carlsen,Ib Carlsen,Socialdemokratiet,14
+Lyngby,6,Virum,A_Ivar_Ørnby,Ivar Ørnby,Socialdemokratiet,3
+Lyngby,6,Virum,A_Lars_Bjørn,Lars Bjørn,Socialdemokratiet,1
+Lyngby,6,Virum,B_Listestemmer,Listestemmer,Radikale Venstre,139
+Lyngby,6,Virum,B_Gitte_Kjær-Westermann,Gitte Kjær-Westermann,Radikale Venstre,52
+Lyngby,6,Virum,B_Mikkel_Johannessen,Mikkel Johannessen,Radikale Venstre,21
+Lyngby,6,Virum,B_Kasper_Langberg,Kasper Langberg,Radikale Venstre,66
+Lyngby,6,Virum,B_Susanne_Hjernøe,Susanne Hjernøe,Radikale Venstre,42
+Lyngby,6,Virum,B_Cecilie_Lindahl,Cecilie Lindahl,Radikale Venstre,97
+Lyngby,6,Virum,B_Paul_K._Jeppesen,Paul K. Jeppesen,Radikale Venstre,4
+Lyngby,6,Virum,B_Ole_Møller,Ole Møller,Radikale Venstre,2
+Lyngby,6,Virum,B_Johan_Løje,Johan Løje,Radikale Venstre,6
+Lyngby,6,Virum,B_Karoline_Geneser,Karoline Geneser,Radikale Venstre,2
+Lyngby,6,Virum,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,420
+Lyngby,6,Virum,C_Sofia_Osmani,Sofia Osmani,Det Konservative Folkeparti,1233
+Lyngby,6,Virum,C_John_Tefke,John Tefke,Det Konservative Folkeparti,24
+Lyngby,6,Virum,C_Mette_Schmidt_Olsen,Mette Schmidt Olsen,Det Konservative Folkeparti,23
+Lyngby,6,Virum,C_Dorthe_la_Cour,Dorthe la Cour,Det Konservative Folkeparti,35
+Lyngby,6,Virum,C_Martin_Vendel_Nielsen,Martin Vendel Nielsen,Det Konservative Folkeparti,95
+Lyngby,6,Virum,C_Magnus_Von_Dreiager,Magnus Von Dreiager,Det Konservative Folkeparti,119
+Lyngby,6,Virum,C_Charlotte_Shafer,Charlotte Shafer,Det Konservative Folkeparti,37
+Lyngby,6,Virum,C_Karsten_Andersen,Karsten Andersen,Det Konservative Folkeparti,16
+Lyngby,6,Virum,C_Erik_Frikke,Erik Frikke,Det Konservative Folkeparti,6
+Lyngby,6,Virum,C_Maria_Svane,Maria Svane,Det Konservative Folkeparti,6
+Lyngby,6,Virum,C_Katrine_Vendelbo,Katrine Vendelbo,Det Konservative Folkeparti,7
+Lyngby,6,Virum,C_Marcus_Perathoner,Marcus Perathoner,Det Konservative Folkeparti,5
+Lyngby,6,Virum,C_Casper_Strunge,Casper Strunge,Det Konservative Folkeparti,5
+Lyngby,6,Virum,C_Ole_Møller,Ole Møller,Det Konservative Folkeparti,7
+Lyngby,6,Virum,C_Anne_Jeremiassen,Anne Jeremiassen,Det Konservative Folkeparti,21
+Lyngby,6,Virum,C_Tonni_Hyldgaard,Tonni Hyldgaard,Det Konservative Folkeparti,7
+Lyngby,6,Virum,C_Philip_Rye,Philip Rye,Det Konservative Folkeparti,7
+Lyngby,6,Virum,C_Shahin_Yazdi_Sotoudeh,Shahin Yazdi Sotoudeh,Det Konservative Folkeparti,4
+Lyngby,6,Virum,C_Søren_Preuss,Søren Preuss,Det Konservative Folkeparti,5
+Lyngby,6,Virum,C_Christine_Bernt_Henriksen,Christine Bernt Henriksen,Det Konservative Folkeparti,7
+Lyngby,6,Virum,C_Michael_M._Jørgensen,Michael M. Jørgensen,Det Konservative Folkeparti,13
+Lyngby,6,Virum,C_Christian_Winther,Christian Winther,Det Konservative Folkeparti,11
+Lyngby,6,Virum,C_Richard_Sandbæk,Richard Sandbæk,Det Konservative Folkeparti,4
+Lyngby,6,Virum,D_Listestemmer,Listestemmer,Nye Borgerlige,38
+Lyngby,6,Virum,D_Claus_Bøgh_Svenningsen,Claus Bøgh Svenningsen,Nye Borgerlige,36
+Lyngby,6,Virum,D_Anette_Skafte,Anette Skafte,Nye Borgerlige,13
+Lyngby,6,Virum,D_Dorthe_Rosa_Hasselby,Dorthe Rosa Hasselby,Nye Borgerlige,3
+Lyngby,6,Virum,D_Peter_Nielsen,Peter Nielsen,Nye Borgerlige,0
+Lyngby,6,Virum,D_Freddy_Jacobsen,Freddy Jacobsen,Nye Borgerlige,7
+Lyngby,6,Virum,D_Lene_Tholstorf,Lene Tholstorf,Nye Borgerlige,0
+Lyngby,6,Virum,E_Listestemmer,Listestemmer,Lokallisten Vores kommune - LTK,7
+Lyngby,6,Virum,E_Lars_Bisgaard,Lars Bisgaard,Lokallisten Vores kommune - LTK,7
+Lyngby,6,Virum,E_Ida-Marie_Helsberg,Ida-Marie Helsberg,Lokallisten Vores kommune - LTK,1
+Lyngby,6,Virum,E_Thomas_Lausen,Thomas Lausen,Lokallisten Vores kommune - LTK,0
+Lyngby,6,Virum,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,113
+Lyngby,6,Virum,F_Sigurd_Agersnap,Sigurd Agersnap,SF - Socialistisk Folkeparti,316
+Lyngby,6,Virum,F_Niels_Haxthausen,Niels Haxthausen,SF - Socialistisk Folkeparti,21
+Lyngby,6,Virum,F_Anne_Grete_Bülow,Anne Grete Bülow,SF - Socialistisk Folkeparti,18
+Lyngby,6,Virum,F_Dorete_Dandanell,Dorete Dandanell,SF - Socialistisk Folkeparti,26
+Lyngby,6,Virum,F_Majbrit_Pedersen,Majbrit Pedersen,SF - Socialistisk Folkeparti,8
+Lyngby,6,Virum,F_Karen_Marie_Pagh_Nielsen,Karen Marie Pagh Nielsen,SF - Socialistisk Folkeparti,25
+Lyngby,6,Virum,F_Arne_Christensen,Arne Christensen,SF - Socialistisk Folkeparti,12
+Lyngby,6,Virum,F_Claudia_Heim,Claudia Heim,SF - Socialistisk Folkeparti,3
+Lyngby,6,Virum,F_Niels_Halse,Niels Halse,SF - Socialistisk Folkeparti,3
+Lyngby,6,Virum,F_Inge_Duus_Hjortlund,Inge Duus Hjortlund,SF - Socialistisk Folkeparti,2
+Lyngby,6,Virum,G_Listestemmer,Listestemmer,Veganerpartiet,6
+Lyngby,6,Virum,G_Helene_Toksværd,Helene Toksværd,Veganerpartiet,5
+Lyngby,6,Virum,I_Listestemmer,Listestemmer,Liberal Alliance,32
+Lyngby,6,Virum,I_Thomas_Frederiksen,Thomas Frederiksen,Liberal Alliance,24
+Lyngby,6,Virum,I_Louise_Siv_Ebbesen,Louise Siv Ebbesen,Liberal Alliance,14
+Lyngby,6,Virum,I_Steffen_Larsen,Steffen Larsen,Liberal Alliance,7
+Lyngby,6,Virum,I_Helle_Kruuse,Helle Kruuse,Liberal Alliance,0
+Lyngby,6,Virum,I_Uwe_Hermann,Uwe Hermann,Liberal Alliance,0
+Lyngby,6,Virum,I_Trine_Mortensen,Trine Mortensen,Liberal Alliance,4
+Lyngby,6,Virum,O_Listestemmer,Listestemmer,Dansk Folkeparti,13
+Lyngby,6,Virum,O_Jørn_Jensin,Jørn Jensin,Dansk Folkeparti,9
+Lyngby,6,Virum,O_Anne_Schmidt,Anne Schmidt,Dansk Folkeparti,1
+Lyngby,6,Virum,O_Søs_Krog,Søs Krog,Dansk Folkeparti,1
+Lyngby,6,Virum,Q_Listestemmer,Listestemmer,Bydelenes Stemmer,2
+Lyngby,6,Virum,Q_Nils-Peter_Astrupgaard,Nils-Peter Astrupgaard,Bydelenes Stemmer,5
+Lyngby,6,Virum,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",79
+Lyngby,6,Virum,V_Christine_Dal,Christine Dal,"Venstre, Danmarks Liberale Parti",77
+Lyngby,6,Virum,V_Tommy_Wedel,Tommy Wedel,"Venstre, Danmarks Liberale Parti",18
+Lyngby,6,Virum,V_Jens_Dissing_Odgaard,Jens Dissing Odgaard,"Venstre, Danmarks Liberale Parti",71
+Lyngby,6,Virum,V_Grethe_Andreasen,Grethe Andreasen,"Venstre, Danmarks Liberale Parti",7
+Lyngby,6,Virum,V_Erik_Faurholt_Siggaard,Erik Faurholt Siggaard,"Venstre, Danmarks Liberale Parti",14
+Lyngby,6,Virum,V_Niels_Jørgen_Christensen,Niels Jørgen Christensen,"Venstre, Danmarks Liberale Parti",6
+Lyngby,6,Virum,V_Kristian_Wismann_Kurlink,Kristian Wismann Kurlink,"Venstre, Danmarks Liberale Parti",1
+Lyngby,6,Virum,V_Thomas_Koed,Thomas Koed,"Venstre, Danmarks Liberale Parti",2
+Lyngby,6,Virum,V_Kersi_Porbunderwala,Kersi Porbunderwala,"Venstre, Danmarks Liberale Parti",3
+Lyngby,6,Virum,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,73
+Lyngby,6,Virum,Ø_Henrik_Bang,Henrik Bang,Enhedslisten - De Rød-Grønne,17
+Lyngby,6,Virum,Ø_Lise_Hogervorst,Lise Hogervorst,Enhedslisten - De Rød-Grønne,27
+Lyngby,6,Virum,Ø_Jeanette_Astrup,Jeanette Astrup,Enhedslisten - De Rød-Grønne,9
+Lyngby,6,Virum,Ø_Jesper_Grand,Jesper Grand,Enhedslisten - De Rød-Grønne,2
+Lyngby,6,Virum,Ø_Pia_Boisen,Pia Boisen,Enhedslisten - De Rød-Grønne,21
+Lyngby,6,Virum,Ø_Farrokh_Jafari,Farrokh Jafari,Enhedslisten - De Rød-Grønne,1
+Lyngby,6,Virum,Ø_Carl_Friis,Carl Friis,Enhedslisten - De Rød-Grønne,5
+Lyngby,7,Hummeltofte,A_Listestemmer,Listestemmer,Socialdemokratiet,104
+Lyngby,7,Hummeltofte,A_Simon_Pihl_Sørensen,Simon Pihl Sørensen,Socialdemokratiet,82
+Lyngby,7,Hummeltofte,A_Dorthe_Minna_Hansen,Dorthe Minna Hansen,Socialdemokratiet,28
+Lyngby,7,Hummeltofte,A_Bodil_Kornbek,Bodil Kornbek,Socialdemokratiet,89
+Lyngby,7,Hummeltofte,A_Klaus_Dalgas,Klaus Dalgas,Socialdemokratiet,9
+Lyngby,7,Hummeltofte,A_Martin_Stenner,Martin Stenner,Socialdemokratiet,7
+Lyngby,7,Hummeltofte,A_Silas_Mudoh,Silas Mudoh,Socialdemokratiet,17
+Lyngby,7,Hummeltofte,A_Finn_Riber,Finn Riber,Socialdemokratiet,3
+Lyngby,7,Hummeltofte,A_Ib_Carlsen,Ib Carlsen,Socialdemokratiet,16
+Lyngby,7,Hummeltofte,A_Ivar_Ørnby,Ivar Ørnby,Socialdemokratiet,2
+Lyngby,7,Hummeltofte,A_Lars_Bjørn,Lars Bjørn,Socialdemokratiet,0
+Lyngby,7,Hummeltofte,B_Listestemmer,Listestemmer,Radikale Venstre,108
+Lyngby,7,Hummeltofte,B_Gitte_Kjær-Westermann,Gitte Kjær-Westermann,Radikale Venstre,38
+Lyngby,7,Hummeltofte,B_Mikkel_Johannessen,Mikkel Johannessen,Radikale Venstre,26
+Lyngby,7,Hummeltofte,B_Kasper_Langberg,Kasper Langberg,Radikale Venstre,65
+Lyngby,7,Hummeltofte,B_Susanne_Hjernøe,Susanne Hjernøe,Radikale Venstre,12
+Lyngby,7,Hummeltofte,B_Cecilie_Lindahl,Cecilie Lindahl,Radikale Venstre,81
+Lyngby,7,Hummeltofte,B_Paul_K._Jeppesen,Paul K. Jeppesen,Radikale Venstre,0
+Lyngby,7,Hummeltofte,B_Ole_Møller,Ole Møller,Radikale Venstre,3
+Lyngby,7,Hummeltofte,B_Johan_Løje,Johan Løje,Radikale Venstre,7
+Lyngby,7,Hummeltofte,B_Karoline_Geneser,Karoline Geneser,Radikale Venstre,7
+Lyngby,7,Hummeltofte,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,274
+Lyngby,7,Hummeltofte,C_Sofia_Osmani,Sofia Osmani,Det Konservative Folkeparti,890
+Lyngby,7,Hummeltofte,C_John_Tefke,John Tefke,Det Konservative Folkeparti,9
+Lyngby,7,Hummeltofte,C_Mette_Schmidt_Olsen,Mette Schmidt Olsen,Det Konservative Folkeparti,14
+Lyngby,7,Hummeltofte,C_Dorthe_la_Cour,Dorthe la Cour,Det Konservative Folkeparti,28
+Lyngby,7,Hummeltofte,C_Martin_Vendel_Nielsen,Martin Vendel Nielsen,Det Konservative Folkeparti,45
+Lyngby,7,Hummeltofte,C_Magnus_Von_Dreiager,Magnus Von Dreiager,Det Konservative Folkeparti,148
+Lyngby,7,Hummeltofte,C_Charlotte_Shafer,Charlotte Shafer,Det Konservative Folkeparti,33
+Lyngby,7,Hummeltofte,C_Karsten_Andersen,Karsten Andersen,Det Konservative Folkeparti,3
+Lyngby,7,Hummeltofte,C_Erik_Frikke,Erik Frikke,Det Konservative Folkeparti,9
+Lyngby,7,Hummeltofte,C_Maria_Svane,Maria Svane,Det Konservative Folkeparti,6
+Lyngby,7,Hummeltofte,C_Katrine_Vendelbo,Katrine Vendelbo,Det Konservative Folkeparti,8
+Lyngby,7,Hummeltofte,C_Marcus_Perathoner,Marcus Perathoner,Det Konservative Folkeparti,3
+Lyngby,7,Hummeltofte,C_Casper_Strunge,Casper Strunge,Det Konservative Folkeparti,12
+Lyngby,7,Hummeltofte,C_Ole_Møller,Ole Møller,Det Konservative Folkeparti,6
+Lyngby,7,Hummeltofte,C_Anne_Jeremiassen,Anne Jeremiassen,Det Konservative Folkeparti,5
+Lyngby,7,Hummeltofte,C_Tonni_Hyldgaard,Tonni Hyldgaard,Det Konservative Folkeparti,1
+Lyngby,7,Hummeltofte,C_Philip_Rye,Philip Rye,Det Konservative Folkeparti,6
+Lyngby,7,Hummeltofte,C_Shahin_Yazdi_Sotoudeh,Shahin Yazdi Sotoudeh,Det Konservative Folkeparti,0
+Lyngby,7,Hummeltofte,C_Søren_Preuss,Søren Preuss,Det Konservative Folkeparti,4
+Lyngby,7,Hummeltofte,C_Christine_Bernt_Henriksen,Christine Bernt Henriksen,Det Konservative Folkeparti,4
+Lyngby,7,Hummeltofte,C_Michael_M._Jørgensen,Michael M. Jørgensen,Det Konservative Folkeparti,16
+Lyngby,7,Hummeltofte,C_Christian_Winther,Christian Winther,Det Konservative Folkeparti,10
+Lyngby,7,Hummeltofte,C_Richard_Sandbæk,Richard Sandbæk,Det Konservative Folkeparti,4
+Lyngby,7,Hummeltofte,D_Listestemmer,Listestemmer,Nye Borgerlige,27
+Lyngby,7,Hummeltofte,D_Claus_Bøgh_Svenningsen,Claus Bøgh Svenningsen,Nye Borgerlige,31
+Lyngby,7,Hummeltofte,D_Anette_Skafte,Anette Skafte,Nye Borgerlige,7
+Lyngby,7,Hummeltofte,D_Dorthe_Rosa_Hasselby,Dorthe Rosa Hasselby,Nye Borgerlige,1
+Lyngby,7,Hummeltofte,D_Peter_Nielsen,Peter Nielsen,Nye Borgerlige,0
+Lyngby,7,Hummeltofte,D_Freddy_Jacobsen,Freddy Jacobsen,Nye Borgerlige,0
+Lyngby,7,Hummeltofte,D_Lene_Tholstorf,Lene Tholstorf,Nye Borgerlige,1
+Lyngby,7,Hummeltofte,E_Listestemmer,Listestemmer,Lokallisten Vores kommune - LTK,5
+Lyngby,7,Hummeltofte,E_Lars_Bisgaard,Lars Bisgaard,Lokallisten Vores kommune - LTK,1
+Lyngby,7,Hummeltofte,E_Ida-Marie_Helsberg,Ida-Marie Helsberg,Lokallisten Vores kommune - LTK,3
+Lyngby,7,Hummeltofte,E_Thomas_Lausen,Thomas Lausen,Lokallisten Vores kommune - LTK,0
+Lyngby,7,Hummeltofte,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,98
+Lyngby,7,Hummeltofte,F_Sigurd_Agersnap,Sigurd Agersnap,SF - Socialistisk Folkeparti,250
+Lyngby,7,Hummeltofte,F_Niels_Haxthausen,Niels Haxthausen,SF - Socialistisk Folkeparti,39
+Lyngby,7,Hummeltofte,F_Anne_Grete_Bülow,Anne Grete Bülow,SF - Socialistisk Folkeparti,36
+Lyngby,7,Hummeltofte,F_Dorete_Dandanell,Dorete Dandanell,SF - Socialistisk Folkeparti,12
+Lyngby,7,Hummeltofte,F_Majbrit_Pedersen,Majbrit Pedersen,SF - Socialistisk Folkeparti,11
+Lyngby,7,Hummeltofte,F_Karen_Marie_Pagh_Nielsen,Karen Marie Pagh Nielsen,SF - Socialistisk Folkeparti,12
+Lyngby,7,Hummeltofte,F_Arne_Christensen,Arne Christensen,SF - Socialistisk Folkeparti,1
+Lyngby,7,Hummeltofte,F_Claudia_Heim,Claudia Heim,SF - Socialistisk Folkeparti,20
+Lyngby,7,Hummeltofte,F_Niels_Halse,Niels Halse,SF - Socialistisk Folkeparti,2
+Lyngby,7,Hummeltofte,F_Inge_Duus_Hjortlund,Inge Duus Hjortlund,SF - Socialistisk Folkeparti,1
+Lyngby,7,Hummeltofte,G_Listestemmer,Listestemmer,Veganerpartiet,4
+Lyngby,7,Hummeltofte,G_Helene_Toksværd,Helene Toksværd,Veganerpartiet,9
+Lyngby,7,Hummeltofte,I_Listestemmer,Listestemmer,Liberal Alliance,13
+Lyngby,7,Hummeltofte,I_Thomas_Frederiksen,Thomas Frederiksen,Liberal Alliance,12
+Lyngby,7,Hummeltofte,I_Louise_Siv_Ebbesen,Louise Siv Ebbesen,Liberal Alliance,15
+Lyngby,7,Hummeltofte,I_Steffen_Larsen,Steffen Larsen,Liberal Alliance,4
+Lyngby,7,Hummeltofte,I_Helle_Kruuse,Helle Kruuse,Liberal Alliance,0
+Lyngby,7,Hummeltofte,I_Uwe_Hermann,Uwe Hermann,Liberal Alliance,0
+Lyngby,7,Hummeltofte,I_Trine_Mortensen,Trine Mortensen,Liberal Alliance,0
+Lyngby,7,Hummeltofte,O_Listestemmer,Listestemmer,Dansk Folkeparti,10
+Lyngby,7,Hummeltofte,O_Jørn_Jensin,Jørn Jensin,Dansk Folkeparti,7
+Lyngby,7,Hummeltofte,O_Anne_Schmidt,Anne Schmidt,Dansk Folkeparti,3
+Lyngby,7,Hummeltofte,O_Søs_Krog,Søs Krog,Dansk Folkeparti,3
+Lyngby,7,Hummeltofte,Q_Listestemmer,Listestemmer,Bydelenes Stemmer,1
+Lyngby,7,Hummeltofte,Q_Nils-Peter_Astrupgaard,Nils-Peter Astrupgaard,Bydelenes Stemmer,0
+Lyngby,7,Hummeltofte,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",48
+Lyngby,7,Hummeltofte,V_Christine_Dal,Christine Dal,"Venstre, Danmarks Liberale Parti",58
+Lyngby,7,Hummeltofte,V_Tommy_Wedel,Tommy Wedel,"Venstre, Danmarks Liberale Parti",27
+Lyngby,7,Hummeltofte,V_Jens_Dissing_Odgaard,Jens Dissing Odgaard,"Venstre, Danmarks Liberale Parti",15
+Lyngby,7,Hummeltofte,V_Grethe_Andreasen,Grethe Andreasen,"Venstre, Danmarks Liberale Parti",1
+Lyngby,7,Hummeltofte,V_Erik_Faurholt_Siggaard,Erik Faurholt Siggaard,"Venstre, Danmarks Liberale Parti",4
+Lyngby,7,Hummeltofte,V_Niels_Jørgen_Christensen,Niels Jørgen Christensen,"Venstre, Danmarks Liberale Parti",0
+Lyngby,7,Hummeltofte,V_Kristian_Wismann_Kurlink,Kristian Wismann Kurlink,"Venstre, Danmarks Liberale Parti",1
+Lyngby,7,Hummeltofte,V_Thomas_Koed,Thomas Koed,"Venstre, Danmarks Liberale Parti",1
+Lyngby,7,Hummeltofte,V_Kersi_Porbunderwala,Kersi Porbunderwala,"Venstre, Danmarks Liberale Parti",0
+Lyngby,7,Hummeltofte,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,57
+Lyngby,7,Hummeltofte,Ø_Henrik_Bang,Henrik Bang,Enhedslisten - De Rød-Grønne,22
+Lyngby,7,Hummeltofte,Ø_Lise_Hogervorst,Lise Hogervorst,Enhedslisten - De Rød-Grønne,30
+Lyngby,7,Hummeltofte,Ø_Jeanette_Astrup,Jeanette Astrup,Enhedslisten - De Rød-Grønne,11
+Lyngby,7,Hummeltofte,Ø_Jesper_Grand,Jesper Grand,Enhedslisten - De Rød-Grønne,4
+Lyngby,7,Hummeltofte,Ø_Pia_Boisen,Pia Boisen,Enhedslisten - De Rød-Grønne,10
+Lyngby,7,Hummeltofte,Ø_Farrokh_Jafari,Farrokh Jafari,Enhedslisten - De Rød-Grønne,3
+Lyngby,7,Hummeltofte,Ø_Carl_Friis,Carl Friis,Enhedslisten - De Rød-Grønne,0
+Lyngby,8,Fuglsanggård,A_Listestemmer,Listestemmer,Socialdemokratiet,133
+Lyngby,8,Fuglsanggård,A_Simon_Pihl_Sørensen,Simon Pihl Sørensen,Socialdemokratiet,85
+Lyngby,8,Fuglsanggård,A_Dorthe_Minna_Hansen,Dorthe Minna Hansen,Socialdemokratiet,32
+Lyngby,8,Fuglsanggård,A_Bodil_Kornbek,Bodil Kornbek,Socialdemokratiet,79
+Lyngby,8,Fuglsanggård,A_Klaus_Dalgas,Klaus Dalgas,Socialdemokratiet,7
+Lyngby,8,Fuglsanggård,A_Martin_Stenner,Martin Stenner,Socialdemokratiet,9
+Lyngby,8,Fuglsanggård,A_Silas_Mudoh,Silas Mudoh,Socialdemokratiet,13
+Lyngby,8,Fuglsanggård,A_Finn_Riber,Finn Riber,Socialdemokratiet,2
+Lyngby,8,Fuglsanggård,A_Ib_Carlsen,Ib Carlsen,Socialdemokratiet,37
+Lyngby,8,Fuglsanggård,A_Ivar_Ørnby,Ivar Ørnby,Socialdemokratiet,3
+Lyngby,8,Fuglsanggård,A_Lars_Bjørn,Lars Bjørn,Socialdemokratiet,2
+Lyngby,8,Fuglsanggård,B_Listestemmer,Listestemmer,Radikale Venstre,75
+Lyngby,8,Fuglsanggård,B_Gitte_Kjær-Westermann,Gitte Kjær-Westermann,Radikale Venstre,15
+Lyngby,8,Fuglsanggård,B_Mikkel_Johannessen,Mikkel Johannessen,Radikale Venstre,13
+Lyngby,8,Fuglsanggård,B_Kasper_Langberg,Kasper Langberg,Radikale Venstre,43
+Lyngby,8,Fuglsanggård,B_Susanne_Hjernøe,Susanne Hjernøe,Radikale Venstre,15
+Lyngby,8,Fuglsanggård,B_Cecilie_Lindahl,Cecilie Lindahl,Radikale Venstre,70
+Lyngby,8,Fuglsanggård,B_Paul_K._Jeppesen,Paul K. Jeppesen,Radikale Venstre,2
+Lyngby,8,Fuglsanggård,B_Ole_Møller,Ole Møller,Radikale Venstre,5
+Lyngby,8,Fuglsanggård,B_Johan_Løje,Johan Løje,Radikale Venstre,5
+Lyngby,8,Fuglsanggård,B_Karoline_Geneser,Karoline Geneser,Radikale Venstre,2
+Lyngby,8,Fuglsanggård,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,284
+Lyngby,8,Fuglsanggård,C_Sofia_Osmani,Sofia Osmani,Det Konservative Folkeparti,737
+Lyngby,8,Fuglsanggård,C_John_Tefke,John Tefke,Det Konservative Folkeparti,23
+Lyngby,8,Fuglsanggård,C_Mette_Schmidt_Olsen,Mette Schmidt Olsen,Det Konservative Folkeparti,21
+Lyngby,8,Fuglsanggård,C_Dorthe_la_Cour,Dorthe la Cour,Det Konservative Folkeparti,17
+Lyngby,8,Fuglsanggård,C_Martin_Vendel_Nielsen,Martin Vendel Nielsen,Det Konservative Folkeparti,38
+Lyngby,8,Fuglsanggård,C_Magnus_Von_Dreiager,Magnus Von Dreiager,Det Konservative Folkeparti,70
+Lyngby,8,Fuglsanggård,C_Charlotte_Shafer,Charlotte Shafer,Det Konservative Folkeparti,36
+Lyngby,8,Fuglsanggård,C_Karsten_Andersen,Karsten Andersen,Det Konservative Folkeparti,4
+Lyngby,8,Fuglsanggård,C_Erik_Frikke,Erik Frikke,Det Konservative Folkeparti,12
+Lyngby,8,Fuglsanggård,C_Maria_Svane,Maria Svane,Det Konservative Folkeparti,9
+Lyngby,8,Fuglsanggård,C_Katrine_Vendelbo,Katrine Vendelbo,Det Konservative Folkeparti,3
+Lyngby,8,Fuglsanggård,C_Marcus_Perathoner,Marcus Perathoner,Det Konservative Folkeparti,8
+Lyngby,8,Fuglsanggård,C_Casper_Strunge,Casper Strunge,Det Konservative Folkeparti,5
+Lyngby,8,Fuglsanggård,C_Ole_Møller,Ole Møller,Det Konservative Folkeparti,6
+Lyngby,8,Fuglsanggård,C_Anne_Jeremiassen,Anne Jeremiassen,Det Konservative Folkeparti,2
+Lyngby,8,Fuglsanggård,C_Tonni_Hyldgaard,Tonni Hyldgaard,Det Konservative Folkeparti,4
+Lyngby,8,Fuglsanggård,C_Philip_Rye,Philip Rye,Det Konservative Folkeparti,3
+Lyngby,8,Fuglsanggård,C_Shahin_Yazdi_Sotoudeh,Shahin Yazdi Sotoudeh,Det Konservative Folkeparti,2
+Lyngby,8,Fuglsanggård,C_Søren_Preuss,Søren Preuss,Det Konservative Folkeparti,13
+Lyngby,8,Fuglsanggård,C_Christine_Bernt_Henriksen,Christine Bernt Henriksen,Det Konservative Folkeparti,4
+Lyngby,8,Fuglsanggård,C_Michael_M._Jørgensen,Michael M. Jørgensen,Det Konservative Folkeparti,7
+Lyngby,8,Fuglsanggård,C_Christian_Winther,Christian Winther,Det Konservative Folkeparti,11
+Lyngby,8,Fuglsanggård,C_Richard_Sandbæk,Richard Sandbæk,Det Konservative Folkeparti,4
+Lyngby,8,Fuglsanggård,D_Listestemmer,Listestemmer,Nye Borgerlige,29
+Lyngby,8,Fuglsanggård,D_Claus_Bøgh_Svenningsen,Claus Bøgh Svenningsen,Nye Borgerlige,42
+Lyngby,8,Fuglsanggård,D_Anette_Skafte,Anette Skafte,Nye Borgerlige,10
+Lyngby,8,Fuglsanggård,D_Dorthe_Rosa_Hasselby,Dorthe Rosa Hasselby,Nye Borgerlige,2
+Lyngby,8,Fuglsanggård,D_Peter_Nielsen,Peter Nielsen,Nye Borgerlige,3
+Lyngby,8,Fuglsanggård,D_Freddy_Jacobsen,Freddy Jacobsen,Nye Borgerlige,3
+Lyngby,8,Fuglsanggård,D_Lene_Tholstorf,Lene Tholstorf,Nye Borgerlige,1
+Lyngby,8,Fuglsanggård,E_Listestemmer,Listestemmer,Lokallisten Vores kommune - LTK,6
+Lyngby,8,Fuglsanggård,E_Lars_Bisgaard,Lars Bisgaard,Lokallisten Vores kommune - LTK,2
+Lyngby,8,Fuglsanggård,E_Ida-Marie_Helsberg,Ida-Marie Helsberg,Lokallisten Vores kommune - LTK,3
+Lyngby,8,Fuglsanggård,E_Thomas_Lausen,Thomas Lausen,Lokallisten Vores kommune - LTK,1
+Lyngby,8,Fuglsanggård,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,110
+Lyngby,8,Fuglsanggård,F_Sigurd_Agersnap,Sigurd Agersnap,SF - Socialistisk Folkeparti,249
+Lyngby,8,Fuglsanggård,F_Niels_Haxthausen,Niels Haxthausen,SF - Socialistisk Folkeparti,29
+Lyngby,8,Fuglsanggård,F_Anne_Grete_Bülow,Anne Grete Bülow,SF - Socialistisk Folkeparti,33
+Lyngby,8,Fuglsanggård,F_Dorete_Dandanell,Dorete Dandanell,SF - Socialistisk Folkeparti,27
+Lyngby,8,Fuglsanggård,F_Majbrit_Pedersen,Majbrit Pedersen,SF - Socialistisk Folkeparti,16
+Lyngby,8,Fuglsanggård,F_Karen_Marie_Pagh_Nielsen,Karen Marie Pagh Nielsen,SF - Socialistisk Folkeparti,17
+Lyngby,8,Fuglsanggård,F_Arne_Christensen,Arne Christensen,SF - Socialistisk Folkeparti,11
+Lyngby,8,Fuglsanggård,F_Claudia_Heim,Claudia Heim,SF - Socialistisk Folkeparti,10
+Lyngby,8,Fuglsanggård,F_Niels_Halse,Niels Halse,SF - Socialistisk Folkeparti,0
+Lyngby,8,Fuglsanggård,F_Inge_Duus_Hjortlund,Inge Duus Hjortlund,SF - Socialistisk Folkeparti,6
+Lyngby,8,Fuglsanggård,G_Listestemmer,Listestemmer,Veganerpartiet,6
+Lyngby,8,Fuglsanggård,G_Helene_Toksværd,Helene Toksværd,Veganerpartiet,9
+Lyngby,8,Fuglsanggård,I_Listestemmer,Listestemmer,Liberal Alliance,25
+Lyngby,8,Fuglsanggård,I_Thomas_Frederiksen,Thomas Frederiksen,Liberal Alliance,16
+Lyngby,8,Fuglsanggård,I_Louise_Siv_Ebbesen,Louise Siv Ebbesen,Liberal Alliance,9
+Lyngby,8,Fuglsanggård,I_Steffen_Larsen,Steffen Larsen,Liberal Alliance,3
+Lyngby,8,Fuglsanggård,I_Helle_Kruuse,Helle Kruuse,Liberal Alliance,0
+Lyngby,8,Fuglsanggård,I_Uwe_Hermann,Uwe Hermann,Liberal Alliance,0
+Lyngby,8,Fuglsanggård,I_Trine_Mortensen,Trine Mortensen,Liberal Alliance,1
+Lyngby,8,Fuglsanggård,O_Listestemmer,Listestemmer,Dansk Folkeparti,23
+Lyngby,8,Fuglsanggård,O_Jørn_Jensin,Jørn Jensin,Dansk Folkeparti,13
+Lyngby,8,Fuglsanggård,O_Anne_Schmidt,Anne Schmidt,Dansk Folkeparti,2
+Lyngby,8,Fuglsanggård,O_Søs_Krog,Søs Krog,Dansk Folkeparti,3
+Lyngby,8,Fuglsanggård,Q_Listestemmer,Listestemmer,Bydelenes Stemmer,0
+Lyngby,8,Fuglsanggård,Q_Nils-Peter_Astrupgaard,Nils-Peter Astrupgaard,Bydelenes Stemmer,10
+Lyngby,8,Fuglsanggård,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",48
+Lyngby,8,Fuglsanggård,V_Christine_Dal,Christine Dal,"Venstre, Danmarks Liberale Parti",38
+Lyngby,8,Fuglsanggård,V_Tommy_Wedel,Tommy Wedel,"Venstre, Danmarks Liberale Parti",50
+Lyngby,8,Fuglsanggård,V_Jens_Dissing_Odgaard,Jens Dissing Odgaard,"Venstre, Danmarks Liberale Parti",16
+Lyngby,8,Fuglsanggård,V_Grethe_Andreasen,Grethe Andreasen,"Venstre, Danmarks Liberale Parti",0
+Lyngby,8,Fuglsanggård,V_Erik_Faurholt_Siggaard,Erik Faurholt Siggaard,"Venstre, Danmarks Liberale Parti",6
+Lyngby,8,Fuglsanggård,V_Niels_Jørgen_Christensen,Niels Jørgen Christensen,"Venstre, Danmarks Liberale Parti",6
+Lyngby,8,Fuglsanggård,V_Kristian_Wismann_Kurlink,Kristian Wismann Kurlink,"Venstre, Danmarks Liberale Parti",1
+Lyngby,8,Fuglsanggård,V_Thomas_Koed,Thomas Koed,"Venstre, Danmarks Liberale Parti",5
+Lyngby,8,Fuglsanggård,V_Kersi_Porbunderwala,Kersi Porbunderwala,"Venstre, Danmarks Liberale Parti",3
+Lyngby,8,Fuglsanggård,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,67
+Lyngby,8,Fuglsanggård,Ø_Henrik_Bang,Henrik Bang,Enhedslisten - De Rød-Grønne,24
+Lyngby,8,Fuglsanggård,Ø_Lise_Hogervorst,Lise Hogervorst,Enhedslisten - De Rød-Grønne,25
+Lyngby,8,Fuglsanggård,Ø_Jeanette_Astrup,Jeanette Astrup,Enhedslisten - De Rød-Grønne,16
+Lyngby,8,Fuglsanggård,Ø_Jesper_Grand,Jesper Grand,Enhedslisten - De Rød-Grønne,4
+Lyngby,8,Fuglsanggård,Ø_Pia_Boisen,Pia Boisen,Enhedslisten - De Rød-Grønne,17
+Lyngby,8,Fuglsanggård,Ø_Farrokh_Jafari,Farrokh Jafari,Enhedslisten - De Rød-Grønne,3
+Lyngby,8,Fuglsanggård,Ø_Carl_Friis,Carl Friis,Enhedslisten - De Rød-Grønne,0
+Lyngby,9,Kongevej,A_Listestemmer,Listestemmer,Socialdemokratiet,62
+Lyngby,9,Kongevej,A_Simon_Pihl_Sørensen,Simon Pihl Sørensen,Socialdemokratiet,75
+Lyngby,9,Kongevej,A_Dorthe_Minna_Hansen,Dorthe Minna Hansen,Socialdemokratiet,19
+Lyngby,9,Kongevej,A_Bodil_Kornbek,Bodil Kornbek,Socialdemokratiet,42
+Lyngby,9,Kongevej,A_Klaus_Dalgas,Klaus Dalgas,Socialdemokratiet,6
+Lyngby,9,Kongevej,A_Martin_Stenner,Martin Stenner,Socialdemokratiet,1
+Lyngby,9,Kongevej,A_Silas_Mudoh,Silas Mudoh,Socialdemokratiet,14
+Lyngby,9,Kongevej,A_Finn_Riber,Finn Riber,Socialdemokratiet,1
+Lyngby,9,Kongevej,A_Ib_Carlsen,Ib Carlsen,Socialdemokratiet,9
+Lyngby,9,Kongevej,A_Ivar_Ørnby,Ivar Ørnby,Socialdemokratiet,6
+Lyngby,9,Kongevej,A_Lars_Bjørn,Lars Bjørn,Socialdemokratiet,1
+Lyngby,9,Kongevej,B_Listestemmer,Listestemmer,Radikale Venstre,45
+Lyngby,9,Kongevej,B_Gitte_Kjær-Westermann,Gitte Kjær-Westermann,Radikale Venstre,27
+Lyngby,9,Kongevej,B_Mikkel_Johannessen,Mikkel Johannessen,Radikale Venstre,71
+Lyngby,9,Kongevej,B_Kasper_Langberg,Kasper Langberg,Radikale Venstre,55
+Lyngby,9,Kongevej,B_Susanne_Hjernøe,Susanne Hjernøe,Radikale Venstre,10
+Lyngby,9,Kongevej,B_Cecilie_Lindahl,Cecilie Lindahl,Radikale Venstre,61
+Lyngby,9,Kongevej,B_Paul_K._Jeppesen,Paul K. Jeppesen,Radikale Venstre,1
+Lyngby,9,Kongevej,B_Ole_Møller,Ole Møller,Radikale Venstre,1
+Lyngby,9,Kongevej,B_Johan_Løje,Johan Løje,Radikale Venstre,8
+Lyngby,9,Kongevej,B_Karoline_Geneser,Karoline Geneser,Radikale Venstre,2
+Lyngby,9,Kongevej,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,135
+Lyngby,9,Kongevej,C_Sofia_Osmani,Sofia Osmani,Det Konservative Folkeparti,455
+Lyngby,9,Kongevej,C_John_Tefke,John Tefke,Det Konservative Folkeparti,23
+Lyngby,9,Kongevej,C_Mette_Schmidt_Olsen,Mette Schmidt Olsen,Det Konservative Folkeparti,8
+Lyngby,9,Kongevej,C_Dorthe_la_Cour,Dorthe la Cour,Det Konservative Folkeparti,12
+Lyngby,9,Kongevej,C_Martin_Vendel_Nielsen,Martin Vendel Nielsen,Det Konservative Folkeparti,6
+Lyngby,9,Kongevej,C_Magnus_Von_Dreiager,Magnus Von Dreiager,Det Konservative Folkeparti,41
+Lyngby,9,Kongevej,C_Charlotte_Shafer,Charlotte Shafer,Det Konservative Folkeparti,24
+Lyngby,9,Kongevej,C_Karsten_Andersen,Karsten Andersen,Det Konservative Folkeparti,7
+Lyngby,9,Kongevej,C_Erik_Frikke,Erik Frikke,Det Konservative Folkeparti,5
+Lyngby,9,Kongevej,C_Maria_Svane,Maria Svane,Det Konservative Folkeparti,3
+Lyngby,9,Kongevej,C_Katrine_Vendelbo,Katrine Vendelbo,Det Konservative Folkeparti,3
+Lyngby,9,Kongevej,C_Marcus_Perathoner,Marcus Perathoner,Det Konservative Folkeparti,4
+Lyngby,9,Kongevej,C_Casper_Strunge,Casper Strunge,Det Konservative Folkeparti,4
+Lyngby,9,Kongevej,C_Ole_Møller,Ole Møller,Det Konservative Folkeparti,2
+Lyngby,9,Kongevej,C_Anne_Jeremiassen,Anne Jeremiassen,Det Konservative Folkeparti,6
+Lyngby,9,Kongevej,C_Tonni_Hyldgaard,Tonni Hyldgaard,Det Konservative Folkeparti,2
+Lyngby,9,Kongevej,C_Philip_Rye,Philip Rye,Det Konservative Folkeparti,6
+Lyngby,9,Kongevej,C_Shahin_Yazdi_Sotoudeh,Shahin Yazdi Sotoudeh,Det Konservative Folkeparti,0
+Lyngby,9,Kongevej,C_Søren_Preuss,Søren Preuss,Det Konservative Folkeparti,4
+Lyngby,9,Kongevej,C_Christine_Bernt_Henriksen,Christine Bernt Henriksen,Det Konservative Folkeparti,4
+Lyngby,9,Kongevej,C_Michael_M._Jørgensen,Michael M. Jørgensen,Det Konservative Folkeparti,2
+Lyngby,9,Kongevej,C_Christian_Winther,Christian Winther,Det Konservative Folkeparti,6
+Lyngby,9,Kongevej,C_Richard_Sandbæk,Richard Sandbæk,Det Konservative Folkeparti,1
+Lyngby,9,Kongevej,D_Listestemmer,Listestemmer,Nye Borgerlige,12
+Lyngby,9,Kongevej,D_Claus_Bøgh_Svenningsen,Claus Bøgh Svenningsen,Nye Borgerlige,12
+Lyngby,9,Kongevej,D_Anette_Skafte,Anette Skafte,Nye Borgerlige,6
+Lyngby,9,Kongevej,D_Dorthe_Rosa_Hasselby,Dorthe Rosa Hasselby,Nye Borgerlige,5
+Lyngby,9,Kongevej,D_Peter_Nielsen,Peter Nielsen,Nye Borgerlige,1
+Lyngby,9,Kongevej,D_Freddy_Jacobsen,Freddy Jacobsen,Nye Borgerlige,0
+Lyngby,9,Kongevej,D_Lene_Tholstorf,Lene Tholstorf,Nye Borgerlige,0
+Lyngby,9,Kongevej,E_Listestemmer,Listestemmer,Lokallisten Vores kommune - LTK,0
+Lyngby,9,Kongevej,E_Lars_Bisgaard,Lars Bisgaard,Lokallisten Vores kommune - LTK,2
+Lyngby,9,Kongevej,E_Ida-Marie_Helsberg,Ida-Marie Helsberg,Lokallisten Vores kommune - LTK,1
+Lyngby,9,Kongevej,E_Thomas_Lausen,Thomas Lausen,Lokallisten Vores kommune - LTK,0
+Lyngby,9,Kongevej,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,70
+Lyngby,9,Kongevej,F_Sigurd_Agersnap,Sigurd Agersnap,SF - Socialistisk Folkeparti,202
+Lyngby,9,Kongevej,F_Niels_Haxthausen,Niels Haxthausen,SF - Socialistisk Folkeparti,26
+Lyngby,9,Kongevej,F_Anne_Grete_Bülow,Anne Grete Bülow,SF - Socialistisk Folkeparti,15
+Lyngby,9,Kongevej,F_Dorete_Dandanell,Dorete Dandanell,SF - Socialistisk Folkeparti,17
+Lyngby,9,Kongevej,F_Majbrit_Pedersen,Majbrit Pedersen,SF - Socialistisk Folkeparti,5
+Lyngby,9,Kongevej,F_Karen_Marie_Pagh_Nielsen,Karen Marie Pagh Nielsen,SF - Socialistisk Folkeparti,25
+Lyngby,9,Kongevej,F_Arne_Christensen,Arne Christensen,SF - Socialistisk Folkeparti,5
+Lyngby,9,Kongevej,F_Claudia_Heim,Claudia Heim,SF - Socialistisk Folkeparti,4
+Lyngby,9,Kongevej,F_Niels_Halse,Niels Halse,SF - Socialistisk Folkeparti,2
+Lyngby,9,Kongevej,F_Inge_Duus_Hjortlund,Inge Duus Hjortlund,SF - Socialistisk Folkeparti,7
+Lyngby,9,Kongevej,G_Listestemmer,Listestemmer,Veganerpartiet,1
+Lyngby,9,Kongevej,G_Helene_Toksværd,Helene Toksværd,Veganerpartiet,3
+Lyngby,9,Kongevej,I_Listestemmer,Listestemmer,Liberal Alliance,4
+Lyngby,9,Kongevej,I_Thomas_Frederiksen,Thomas Frederiksen,Liberal Alliance,6
+Lyngby,9,Kongevej,I_Louise_Siv_Ebbesen,Louise Siv Ebbesen,Liberal Alliance,3
+Lyngby,9,Kongevej,I_Steffen_Larsen,Steffen Larsen,Liberal Alliance,4
+Lyngby,9,Kongevej,I_Helle_Kruuse,Helle Kruuse,Liberal Alliance,0
+Lyngby,9,Kongevej,I_Uwe_Hermann,Uwe Hermann,Liberal Alliance,0
+Lyngby,9,Kongevej,I_Trine_Mortensen,Trine Mortensen,Liberal Alliance,1
+Lyngby,9,Kongevej,O_Listestemmer,Listestemmer,Dansk Folkeparti,7
+Lyngby,9,Kongevej,O_Jørn_Jensin,Jørn Jensin,Dansk Folkeparti,2
+Lyngby,9,Kongevej,O_Anne_Schmidt,Anne Schmidt,Dansk Folkeparti,0
+Lyngby,9,Kongevej,O_Søs_Krog,Søs Krog,Dansk Folkeparti,4
+Lyngby,9,Kongevej,Q_Listestemmer,Listestemmer,Bydelenes Stemmer,0
+Lyngby,9,Kongevej,Q_Nils-Peter_Astrupgaard,Nils-Peter Astrupgaard,Bydelenes Stemmer,1
+Lyngby,9,Kongevej,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",22
+Lyngby,9,Kongevej,V_Christine_Dal,Christine Dal,"Venstre, Danmarks Liberale Parti",28
+Lyngby,9,Kongevej,V_Tommy_Wedel,Tommy Wedel,"Venstre, Danmarks Liberale Parti",17
+Lyngby,9,Kongevej,V_Jens_Dissing_Odgaard,Jens Dissing Odgaard,"Venstre, Danmarks Liberale Parti",17
+Lyngby,9,Kongevej,V_Grethe_Andreasen,Grethe Andreasen,"Venstre, Danmarks Liberale Parti",1
+Lyngby,9,Kongevej,V_Erik_Faurholt_Siggaard,Erik Faurholt Siggaard,"Venstre, Danmarks Liberale Parti",2
+Lyngby,9,Kongevej,V_Niels_Jørgen_Christensen,Niels Jørgen Christensen,"Venstre, Danmarks Liberale Parti",3
+Lyngby,9,Kongevej,V_Kristian_Wismann_Kurlink,Kristian Wismann Kurlink,"Venstre, Danmarks Liberale Parti",0
+Lyngby,9,Kongevej,V_Thomas_Koed,Thomas Koed,"Venstre, Danmarks Liberale Parti",1
+Lyngby,9,Kongevej,V_Kersi_Porbunderwala,Kersi Porbunderwala,"Venstre, Danmarks Liberale Parti",1
+Lyngby,9,Kongevej,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,43
+Lyngby,9,Kongevej,Ø_Henrik_Bang,Henrik Bang,Enhedslisten - De Rød-Grønne,14
+Lyngby,9,Kongevej,Ø_Lise_Hogervorst,Lise Hogervorst,Enhedslisten - De Rød-Grønne,16
+Lyngby,9,Kongevej,Ø_Jeanette_Astrup,Jeanette Astrup,Enhedslisten - De Rød-Grønne,6
+Lyngby,9,Kongevej,Ø_Jesper_Grand,Jesper Grand,Enhedslisten - De Rød-Grønne,0
+Lyngby,9,Kongevej,Ø_Pia_Boisen,Pia Boisen,Enhedslisten - De Rød-Grønne,2
+Lyngby,9,Kongevej,Ø_Farrokh_Jafari,Farrokh Jafari,Enhedslisten - De Rød-Grønne,1
+Lyngby,9,Kongevej,Ø_Carl_Friis,Carl Friis,Enhedslisten - De Rød-Grønne,0
+Lyngby,10,Lundtofte,A_Listestemmer,Listestemmer,Socialdemokratiet,168
+Lyngby,10,Lundtofte,A_Simon_Pihl_Sørensen,Simon Pihl Sørensen,Socialdemokratiet,85
+Lyngby,10,Lundtofte,A_Dorthe_Minna_Hansen,Dorthe Minna Hansen,Socialdemokratiet,42
+Lyngby,10,Lundtofte,A_Bodil_Kornbek,Bodil Kornbek,Socialdemokratiet,64
+Lyngby,10,Lundtofte,A_Klaus_Dalgas,Klaus Dalgas,Socialdemokratiet,8
+Lyngby,10,Lundtofte,A_Martin_Stenner,Martin Stenner,Socialdemokratiet,4
+Lyngby,10,Lundtofte,A_Silas_Mudoh,Silas Mudoh,Socialdemokratiet,37
+Lyngby,10,Lundtofte,A_Finn_Riber,Finn Riber,Socialdemokratiet,48
+Lyngby,10,Lundtofte,A_Ib_Carlsen,Ib Carlsen,Socialdemokratiet,65
+Lyngby,10,Lundtofte,A_Ivar_Ørnby,Ivar Ørnby,Socialdemokratiet,2
+Lyngby,10,Lundtofte,A_Lars_Bjørn,Lars Bjørn,Socialdemokratiet,4
+Lyngby,10,Lundtofte,B_Listestemmer,Listestemmer,Radikale Venstre,94
+Lyngby,10,Lundtofte,B_Gitte_Kjær-Westermann,Gitte Kjær-Westermann,Radikale Venstre,58
+Lyngby,10,Lundtofte,B_Mikkel_Johannessen,Mikkel Johannessen,Radikale Venstre,19
+Lyngby,10,Lundtofte,B_Kasper_Langberg,Kasper Langberg,Radikale Venstre,23
+Lyngby,10,Lundtofte,B_Susanne_Hjernøe,Susanne Hjernøe,Radikale Venstre,6
+Lyngby,10,Lundtofte,B_Cecilie_Lindahl,Cecilie Lindahl,Radikale Venstre,84
+Lyngby,10,Lundtofte,B_Paul_K._Jeppesen,Paul K. Jeppesen,Radikale Venstre,12
+Lyngby,10,Lundtofte,B_Ole_Møller,Ole Møller,Radikale Venstre,5
+Lyngby,10,Lundtofte,B_Johan_Løje,Johan Løje,Radikale Venstre,9
+Lyngby,10,Lundtofte,B_Karoline_Geneser,Karoline Geneser,Radikale Venstre,0
+Lyngby,10,Lundtofte,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,226
+Lyngby,10,Lundtofte,C_Sofia_Osmani,Sofia Osmani,Det Konservative Folkeparti,829
+Lyngby,10,Lundtofte,C_John_Tefke,John Tefke,Det Konservative Folkeparti,174
+Lyngby,10,Lundtofte,C_Mette_Schmidt_Olsen,Mette Schmidt Olsen,Det Konservative Folkeparti,18
+Lyngby,10,Lundtofte,C_Dorthe_la_Cour,Dorthe la Cour,Det Konservative Folkeparti,18
+Lyngby,10,Lundtofte,C_Martin_Vendel_Nielsen,Martin Vendel Nielsen,Det Konservative Folkeparti,3
+Lyngby,10,Lundtofte,C_Magnus_Von_Dreiager,Magnus Von Dreiager,Det Konservative Folkeparti,28
+Lyngby,10,Lundtofte,C_Charlotte_Shafer,Charlotte Shafer,Det Konservative Folkeparti,17
+Lyngby,10,Lundtofte,C_Karsten_Andersen,Karsten Andersen,Det Konservative Folkeparti,15
+Lyngby,10,Lundtofte,C_Erik_Frikke,Erik Frikke,Det Konservative Folkeparti,12
+Lyngby,10,Lundtofte,C_Maria_Svane,Maria Svane,Det Konservative Folkeparti,10
+Lyngby,10,Lundtofte,C_Katrine_Vendelbo,Katrine Vendelbo,Det Konservative Folkeparti,4
+Lyngby,10,Lundtofte,C_Marcus_Perathoner,Marcus Perathoner,Det Konservative Folkeparti,4
+Lyngby,10,Lundtofte,C_Casper_Strunge,Casper Strunge,Det Konservative Folkeparti,8
+Lyngby,10,Lundtofte,C_Ole_Møller,Ole Møller,Det Konservative Folkeparti,9
+Lyngby,10,Lundtofte,C_Anne_Jeremiassen,Anne Jeremiassen,Det Konservative Folkeparti,3
+Lyngby,10,Lundtofte,C_Tonni_Hyldgaard,Tonni Hyldgaard,Det Konservative Folkeparti,1
+Lyngby,10,Lundtofte,C_Philip_Rye,Philip Rye,Det Konservative Folkeparti,4
+Lyngby,10,Lundtofte,C_Shahin_Yazdi_Sotoudeh,Shahin Yazdi Sotoudeh,Det Konservative Folkeparti,5
+Lyngby,10,Lundtofte,C_Søren_Preuss,Søren Preuss,Det Konservative Folkeparti,3
+Lyngby,10,Lundtofte,C_Christine_Bernt_Henriksen,Christine Bernt Henriksen,Det Konservative Folkeparti,4
+Lyngby,10,Lundtofte,C_Michael_M._Jørgensen,Michael M. Jørgensen,Det Konservative Folkeparti,83
+Lyngby,10,Lundtofte,C_Christian_Winther,Christian Winther,Det Konservative Folkeparti,9
+Lyngby,10,Lundtofte,C_Richard_Sandbæk,Richard Sandbæk,Det Konservative Folkeparti,7
+Lyngby,10,Lundtofte,D_Listestemmer,Listestemmer,Nye Borgerlige,40
+Lyngby,10,Lundtofte,D_Claus_Bøgh_Svenningsen,Claus Bøgh Svenningsen,Nye Borgerlige,32
+Lyngby,10,Lundtofte,D_Anette_Skafte,Anette Skafte,Nye Borgerlige,31
+Lyngby,10,Lundtofte,D_Dorthe_Rosa_Hasselby,Dorthe Rosa Hasselby,Nye Borgerlige,6
+Lyngby,10,Lundtofte,D_Peter_Nielsen,Peter Nielsen,Nye Borgerlige,0
+Lyngby,10,Lundtofte,D_Freddy_Jacobsen,Freddy Jacobsen,Nye Borgerlige,4
+Lyngby,10,Lundtofte,D_Lene_Tholstorf,Lene Tholstorf,Nye Borgerlige,0
+Lyngby,10,Lundtofte,E_Listestemmer,Listestemmer,Lokallisten Vores kommune - LTK,9
+Lyngby,10,Lundtofte,E_Lars_Bisgaard,Lars Bisgaard,Lokallisten Vores kommune - LTK,1
+Lyngby,10,Lundtofte,E_Ida-Marie_Helsberg,Ida-Marie Helsberg,Lokallisten Vores kommune - LTK,2
+Lyngby,10,Lundtofte,E_Thomas_Lausen,Thomas Lausen,Lokallisten Vores kommune - LTK,1
+Lyngby,10,Lundtofte,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,117
+Lyngby,10,Lundtofte,F_Sigurd_Agersnap,Sigurd Agersnap,SF - Socialistisk Folkeparti,252
+Lyngby,10,Lundtofte,F_Niels_Haxthausen,Niels Haxthausen,SF - Socialistisk Folkeparti,24
+Lyngby,10,Lundtofte,F_Anne_Grete_Bülow,Anne Grete Bülow,SF - Socialistisk Folkeparti,32
+Lyngby,10,Lundtofte,F_Dorete_Dandanell,Dorete Dandanell,SF - Socialistisk Folkeparti,10
+Lyngby,10,Lundtofte,F_Majbrit_Pedersen,Majbrit Pedersen,SF - Socialistisk Folkeparti,14
+Lyngby,10,Lundtofte,F_Karen_Marie_Pagh_Nielsen,Karen Marie Pagh Nielsen,SF - Socialistisk Folkeparti,99
+Lyngby,10,Lundtofte,F_Arne_Christensen,Arne Christensen,SF - Socialistisk Folkeparti,2
+Lyngby,10,Lundtofte,F_Claudia_Heim,Claudia Heim,SF - Socialistisk Folkeparti,3
+Lyngby,10,Lundtofte,F_Niels_Halse,Niels Halse,SF - Socialistisk Folkeparti,1
+Lyngby,10,Lundtofte,F_Inge_Duus_Hjortlund,Inge Duus Hjortlund,SF - Socialistisk Folkeparti,10
+Lyngby,10,Lundtofte,G_Listestemmer,Listestemmer,Veganerpartiet,4
+Lyngby,10,Lundtofte,G_Helene_Toksværd,Helene Toksværd,Veganerpartiet,6
+Lyngby,10,Lundtofte,I_Listestemmer,Listestemmer,Liberal Alliance,12
+Lyngby,10,Lundtofte,I_Thomas_Frederiksen,Thomas Frederiksen,Liberal Alliance,7
+Lyngby,10,Lundtofte,I_Louise_Siv_Ebbesen,Louise Siv Ebbesen,Liberal Alliance,10
+Lyngby,10,Lundtofte,I_Steffen_Larsen,Steffen Larsen,Liberal Alliance,4
+Lyngby,10,Lundtofte,I_Helle_Kruuse,Helle Kruuse,Liberal Alliance,3
+Lyngby,10,Lundtofte,I_Uwe_Hermann,Uwe Hermann,Liberal Alliance,1
+Lyngby,10,Lundtofte,I_Trine_Mortensen,Trine Mortensen,Liberal Alliance,0
+Lyngby,10,Lundtofte,O_Listestemmer,Listestemmer,Dansk Folkeparti,14
+Lyngby,10,Lundtofte,O_Jørn_Jensin,Jørn Jensin,Dansk Folkeparti,6
+Lyngby,10,Lundtofte,O_Anne_Schmidt,Anne Schmidt,Dansk Folkeparti,4
+Lyngby,10,Lundtofte,O_Søs_Krog,Søs Krog,Dansk Folkeparti,0
+Lyngby,10,Lundtofte,Q_Listestemmer,Listestemmer,Bydelenes Stemmer,1
+Lyngby,10,Lundtofte,Q_Nils-Peter_Astrupgaard,Nils-Peter Astrupgaard,Bydelenes Stemmer,7
+Lyngby,10,Lundtofte,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",54
+Lyngby,10,Lundtofte,V_Christine_Dal,Christine Dal,"Venstre, Danmarks Liberale Parti",42
+Lyngby,10,Lundtofte,V_Tommy_Wedel,Tommy Wedel,"Venstre, Danmarks Liberale Parti",17
+Lyngby,10,Lundtofte,V_Jens_Dissing_Odgaard,Jens Dissing Odgaard,"Venstre, Danmarks Liberale Parti",10
+Lyngby,10,Lundtofte,V_Grethe_Andreasen,Grethe Andreasen,"Venstre, Danmarks Liberale Parti",4
+Lyngby,10,Lundtofte,V_Erik_Faurholt_Siggaard,Erik Faurholt Siggaard,"Venstre, Danmarks Liberale Parti",21
+Lyngby,10,Lundtofte,V_Niels_Jørgen_Christensen,Niels Jørgen Christensen,"Venstre, Danmarks Liberale Parti",1
+Lyngby,10,Lundtofte,V_Kristian_Wismann_Kurlink,Kristian Wismann Kurlink,"Venstre, Danmarks Liberale Parti",1
+Lyngby,10,Lundtofte,V_Thomas_Koed,Thomas Koed,"Venstre, Danmarks Liberale Parti",2
+Lyngby,10,Lundtofte,V_Kersi_Porbunderwala,Kersi Porbunderwala,"Venstre, Danmarks Liberale Parti",1
+Lyngby,10,Lundtofte,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,89
+Lyngby,10,Lundtofte,Ø_Henrik_Bang,Henrik Bang,Enhedslisten - De Rød-Grønne,50
+Lyngby,10,Lundtofte,Ø_Lise_Hogervorst,Lise Hogervorst,Enhedslisten - De Rød-Grønne,28
+Lyngby,10,Lundtofte,Ø_Jeanette_Astrup,Jeanette Astrup,Enhedslisten - De Rød-Grønne,14
+Lyngby,10,Lundtofte,Ø_Jesper_Grand,Jesper Grand,Enhedslisten - De Rød-Grønne,2
+Lyngby,10,Lundtofte,Ø_Pia_Boisen,Pia Boisen,Enhedslisten - De Rød-Grønne,23
+Lyngby,10,Lundtofte,Ø_Farrokh_Jafari,Farrokh Jafari,Enhedslisten - De Rød-Grønne,2
+Lyngby,10,Lundtofte,Ø_Carl_Friis,Carl Friis,Enhedslisten - De Rød-Grønne,1

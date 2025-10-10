@@ -1,0 +1,1045 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Rudersdal,1,Birkerød,A_Listestemmer,Listestemmer,Socialdemokratiet,213
+Rudersdal,1,Birkerød,A_Kristine_Thrane,Kristine Thrane,Socialdemokratiet,154
+Rudersdal,1,Birkerød,A_Alexander_Baadh,Alexander Baadh,Socialdemokratiet,12
+Rudersdal,1,Birkerød,A_Heidi_Højmark_Falden,Heidi Højmark Falden,Socialdemokratiet,32
+Rudersdal,1,Birkerød,A_Poul_Bach,Poul Bach,Socialdemokratiet,81
+Rudersdal,1,Birkerød,A_Anette_Maj_Billesbølle,Anette Maj Billesbølle,Socialdemokratiet,20
+Rudersdal,1,Birkerød,A_Thomas_Lesly_Rasmussen,Thomas Lesly Rasmussen,Socialdemokratiet,5
+Rudersdal,1,Birkerød,A_Mette_Poulsen,Mette Poulsen,Socialdemokratiet,19
+Rudersdal,1,Birkerød,A_Erik_Eugen_Olsen,Erik Eugen Olsen,Socialdemokratiet,73
+Rudersdal,1,Birkerød,A_John_Theil_Münster,John Theil Münster,Socialdemokratiet,2
+Rudersdal,1,Birkerød,B_Listestemmer,Listestemmer,Radikale Venstre,93
+Rudersdal,1,Birkerød,B_Court_Møller,Court Møller,Radikale Venstre,46
+Rudersdal,1,Birkerød,B_Jacob_Netteberg,Jacob Netteberg,Radikale Venstre,79
+Rudersdal,1,Birkerød,B_Christian_Elkjær,Christian Elkjær,Radikale Venstre,36
+Rudersdal,1,Birkerød,B_Nada_Naanaah,Nada Naanaah,Radikale Venstre,20
+Rudersdal,1,Birkerød,B_Mette_Stenby_Andresen,Mette Stenby Andresen,Radikale Venstre,30
+Rudersdal,1,Birkerød,B_Harald_Gade_Andersen,Harald Gade Andersen,Radikale Venstre,0
+Rudersdal,1,Birkerød,B_Anne_Lise_Kjær,Anne Lise Kjær,Radikale Venstre,6
+Rudersdal,1,Birkerød,B_Kristoffer_Boye_Astrup,Kristoffer Boye Astrup,Radikale Venstre,4
+Rudersdal,1,Birkerød,B_Jacob_Johannsen,Jacob Johannsen,Radikale Venstre,1
+Rudersdal,1,Birkerød,B_Birgit_Gundorph-Malling,Birgit Gundorph-Malling,Radikale Venstre,3
+Rudersdal,1,Birkerød,B_Anne_Damsgaard_Manniche,Anne Damsgaard Manniche,Radikale Venstre,3
+Rudersdal,1,Birkerød,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,339
+Rudersdal,1,Birkerød,"C_Ann_Sofie_Orth,_Gl._Holte","Ann Sofie Orth, Gl. Holte",Det Konservative Folkeparti,98
+Rudersdal,1,Birkerød,"C_Christoffer_Buster_Reinhardt,Holte","Christoffer Buster Reinhardt,Holte",Det Konservative Folkeparti,61
+Rudersdal,1,Birkerød,"C_Birgitte_Schjerning,_Søllerød","Birgitte Schjerning, Søllerød",Det Konservative Folkeparti,24
+Rudersdal,1,Birkerød,"C_Nicola_Emily_Larsen,_Birkerød","Nicola Emily Larsen, Birkerød",Det Konservative Folkeparti,142
+Rudersdal,1,Birkerød,"C_Elisabeth_Ildal,_Vedbæk","Elisabeth Ildal, Vedbæk",Det Konservative Folkeparti,8
+Rudersdal,1,Birkerød,"C_Julie_Quass,_Holte","Julie Quass, Holte",Det Konservative Folkeparti,48
+Rudersdal,1,Birkerød,"C_Lars_Engelberth,_Birkerød","Lars Engelberth, Birkerød",Det Konservative Folkeparti,28
+Rudersdal,1,Birkerød,"C_Knud_Skadborg,_Birkerød","Knud Skadborg, Birkerød",Det Konservative Folkeparti,32
+Rudersdal,1,Birkerød,"C_Alexander_Friborg,_Nærum","Alexander Friborg, Nærum",Det Konservative Folkeparti,0
+Rudersdal,1,Birkerød,"C_Mikkel_Barnekow,_Høsterkøb","Mikkel Barnekow, Høsterkøb",Det Konservative Folkeparti,9
+Rudersdal,1,Birkerød,"C_Peter_Lemmich,_Vedbæk","Peter Lemmich, Vedbæk",Det Konservative Folkeparti,4
+Rudersdal,1,Birkerød,"C_Lars_Søndergaard-Nielsen,_Birkerød","Lars Søndergaard-Nielsen, Birkerød",Det Konservative Folkeparti,15
+Rudersdal,1,Birkerød,"C_Jack_Otto_Kristensen,_Birkerød","Jack Otto Kristensen, Birkerød",Det Konservative Folkeparti,24
+Rudersdal,1,Birkerød,"C_Lene_Stener,_Holte","Lene Stener, Holte",Det Konservative Folkeparti,6
+Rudersdal,1,Birkerød,"C_Flemming_Møller,_Holte","Flemming Møller, Holte",Det Konservative Folkeparti,6
+Rudersdal,1,Birkerød,"C_Einar_Bolt,_Skodsborg","Einar Bolt, Skodsborg",Det Konservative Folkeparti,7
+Rudersdal,1,Birkerød,"C_Karen_Schousboe,_Øverød","Karen Schousboe, Øverød",Det Konservative Folkeparti,4
+Rudersdal,1,Birkerød,"C_Eric_Beran,_Birkerød","Eric Beran, Birkerød",Det Konservative Folkeparti,19
+Rudersdal,1,Birkerød,"C_Christian_Wix,_Nærum","Christian Wix, Nærum",Det Konservative Folkeparti,5
+Rudersdal,1,Birkerød,"C_Morten_Fender,_Holte","Morten Fender, Holte",Det Konservative Folkeparti,1
+Rudersdal,1,Birkerød,"C_Sune_Elvig,_Birkerød","Sune Elvig, Birkerød",Det Konservative Folkeparti,18
+Rudersdal,1,Birkerød,"C_Hanne_Gerner,_Nærum","Hanne Gerner, Nærum",Det Konservative Folkeparti,1
+Rudersdal,1,Birkerød,"C_Gitte_D'Arcy,_Birkerød","Gitte D'Arcy, Birkerød",Det Konservative Folkeparti,32
+Rudersdal,1,Birkerød,"C_Conny_Birkholm,_Bistrup","Conny Birkholm, Bistrup",Det Konservative Folkeparti,4
+Rudersdal,1,Birkerød,"C_Claus_Hjorting,_Gl.Holte","Claus Hjorting, Gl.Holte",Det Konservative Folkeparti,0
+Rudersdal,1,Birkerød,"C_Henrik_Høyer-Hansen,_Øverød","Henrik Høyer-Hansen, Øverød",Det Konservative Folkeparti,4
+Rudersdal,1,Birkerød,"C_Christian_Fode,_Trørød","Christian Fode, Trørød",Det Konservative Folkeparti,0
+Rudersdal,1,Birkerød,D_Listestemmer,Listestemmer,Nye Borgerlige,45
+Rudersdal,1,Birkerød,D_Carsten_Winther,Carsten Winther,Nye Borgerlige,32
+Rudersdal,1,Birkerød,D_Jon_Fribo,Jon Fribo,Nye Borgerlige,1
+Rudersdal,1,Birkerød,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,80
+Rudersdal,1,Birkerød,F_Dorte_Nørbo,Dorte Nørbo,SF - Socialistisk Folkeparti,33
+Rudersdal,1,Birkerød,F_Stefan_B._Skrubbeltrang,Stefan B. Skrubbeltrang,SF - Socialistisk Folkeparti,11
+Rudersdal,1,Birkerød,F_Martin_Rosenkilde,Martin Rosenkilde,SF - Socialistisk Folkeparti,12
+Rudersdal,1,Birkerød,F_Lotte_Gjaldbæk,Lotte Gjaldbæk,SF - Socialistisk Folkeparti,14
+Rudersdal,1,Birkerød,F_Marianne_Stubbe_Østergaard,Marianne Stubbe Østergaard,SF - Socialistisk Folkeparti,6
+Rudersdal,1,Birkerød,F_Kurt_Petersen,Kurt Petersen,SF - Socialistisk Folkeparti,9
+Rudersdal,1,Birkerød,F_Bernt_Stubbe_Østergaard,Bernt Stubbe Østergaard,SF - Socialistisk Folkeparti,2
+Rudersdal,1,Birkerød,I_Listestemmer,Listestemmer,Liberal Alliance,32
+Rudersdal,1,Birkerød,"I_Lars_Holmqvist,_Høsterkøb","Lars Holmqvist, Høsterkøb",Liberal Alliance,19
+Rudersdal,1,Birkerød,"I_Annette_Vendelbo,_Holte","Annette Vendelbo, Holte",Liberal Alliance,3
+Rudersdal,1,Birkerød,"I_Simon_L._Skanderup,_Vedbæk","Simon L. Skanderup, Vedbæk",Liberal Alliance,3
+Rudersdal,1,Birkerød,"I_Jens_Chr._Pedersen,_Vedbæk","Jens Chr. Pedersen, Vedbæk",Liberal Alliance,0
+Rudersdal,1,Birkerød,"I_Lars_Stibius,_Birkerød","Lars Stibius, Birkerød",Liberal Alliance,13
+Rudersdal,1,Birkerød,L_Listestemmer,Listestemmer,Lokallisten,183
+Rudersdal,1,Birkerød,L_Anne_Christiansen,Anne Christiansen,Lokallisten,121
+Rudersdal,1,Birkerød,L_Khaled_Mustapha,Khaled Mustapha,Lokallisten,143
+Rudersdal,1,Birkerød,L_Morten_Noppenau,Morten Noppenau,Lokallisten,78
+Rudersdal,1,Birkerød,L_Mona_Madsen,Mona Madsen,Lokallisten,99
+Rudersdal,1,Birkerød,L_Keld_Stattau,Keld Stattau,Lokallisten,17
+Rudersdal,1,Birkerød,L_Matilde_Broberg_Ekstrøm,Matilde Broberg Ekstrøm,Lokallisten,53
+Rudersdal,1,Birkerød,L_Birgitte_Rasmussen,Birgitte Rasmussen,Lokallisten,6
+Rudersdal,1,Birkerød,L_Luc_de_Visme,Luc de Visme,Lokallisten,15
+Rudersdal,1,Birkerød,O_Listestemmer,Listestemmer,Dansk Folkeparti,27
+Rudersdal,1,Birkerød,"O_Jan_Erik_Messmann,_Birkerød","Jan Erik Messmann, Birkerød",Dansk Folkeparti,24
+Rudersdal,1,Birkerød,"O_Nina_Clarén,_Birkerød","Nina Clarén, Birkerød",Dansk Folkeparti,11
+Rudersdal,1,Birkerød,R_Listestemmer,Listestemmer,BorgerFokus,5
+Rudersdal,1,Birkerød,R_Jacob_Buhl,Jacob Buhl,BorgerFokus,6
+Rudersdal,1,Birkerød,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",208
+Rudersdal,1,Birkerød,"V_Jens_Ive,_Holte","Jens Ive, Holte","Venstre, Danmarks Liberale Parti",176
+Rudersdal,1,Birkerød,"V_Randi_Mondorf,_Holte","Randi Mondorf, Holte","Venstre, Danmarks Liberale Parti",33
+Rudersdal,1,Birkerød,"V_Jens_Darket,_Birkerød","Jens Darket, Birkerød","Venstre, Danmarks Liberale Parti",36
+Rudersdal,1,Birkerød,"V_Malene_Barkhus,_Vedbæk","Malene Barkhus, Vedbæk","Venstre, Danmarks Liberale Parti",17
+Rudersdal,1,Birkerød,"V_Klaus_Nørby_Jakobsen,_Birkerød","Klaus Nørby Jakobsen, Birkerød","Venstre, Danmarks Liberale Parti",34
+Rudersdal,1,Birkerød,"V_Anika_Rée,_Nærum","Anika Rée, Nærum","Venstre, Danmarks Liberale Parti",5
+Rudersdal,1,Birkerød,"V_Jens_Kloppenborg-Skrumsager,Vedbæk","Jens Kloppenborg-Skrumsager,Vedbæk","Venstre, Danmarks Liberale Parti",6
+Rudersdal,1,Birkerød,"V_Henrik_Bach_Mortensen,_Søllerød","Henrik Bach Mortensen, Søllerød","Venstre, Danmarks Liberale Parti",2
+Rudersdal,1,Birkerød,"V_Maiken_Gjerrow_Andersen,_Nærum","Maiken Gjerrow Andersen, Nærum","Venstre, Danmarks Liberale Parti",11
+Rudersdal,1,Birkerød,"V_Per_Carøe,_Trørød","Per Carøe, Trørød","Venstre, Danmarks Liberale Parti",7
+Rudersdal,1,Birkerød,"V_Alexander_Foged,_Holte","Alexander Foged, Holte","Venstre, Danmarks Liberale Parti",7
+Rudersdal,1,Birkerød,"V_Anders_Modey,_Birkerød","Anders Modey, Birkerød","Venstre, Danmarks Liberale Parti",48
+Rudersdal,1,Birkerød,"V_Sven_Kolstrup,_Bistrup","Sven Kolstrup, Bistrup","Venstre, Danmarks Liberale Parti",13
+Rudersdal,1,Birkerød,"V_Lars_Neumann,_Trørød","Lars Neumann, Trørød","Venstre, Danmarks Liberale Parti",2
+Rudersdal,1,Birkerød,"V_Søren_Hyldgaard,_Birkerød","Søren Hyldgaard, Birkerød","Venstre, Danmarks Liberale Parti",144
+Rudersdal,1,Birkerød,"V_Ulrik_Iversen,_Søllerød","Ulrik Iversen, Søllerød","Venstre, Danmarks Liberale Parti",3
+Rudersdal,1,Birkerød,"V_Niels_Bundsgaard,_Trørød","Niels Bundsgaard, Trørød","Venstre, Danmarks Liberale Parti",1
+Rudersdal,1,Birkerød,"V_Karin_Vith_Ankerstjerne,_Bistrup","Karin Vith Ankerstjerne, Bistrup","Venstre, Danmarks Liberale Parti",7
+Rudersdal,1,Birkerød,"V_Jesper_Winther_Andersen,_Høsterkøb","Jesper Winther Andersen, Høsterkøb","Venstre, Danmarks Liberale Parti",5
+Rudersdal,1,Birkerød,"V_Esma_Birdi,_Holte","Esma Birdi, Holte","Venstre, Danmarks Liberale Parti",3
+Rudersdal,1,Birkerød,"V_Peter_W._Ø._Larsen,_Birkerød","Peter W. Ø. Larsen, Birkerød","Venstre, Danmarks Liberale Parti",3
+Rudersdal,1,Birkerød,"V_Ulla_Thillerup,_Nærum","Ulla Thillerup, Nærum","Venstre, Danmarks Liberale Parti",1
+Rudersdal,1,Birkerød,"V_Lars_Kristensen,_Søllerød","Lars Kristensen, Søllerød","Venstre, Danmarks Liberale Parti",0
+Rudersdal,1,Birkerød,"V_Morten_Munch,_Holte","Morten Munch, Holte","Venstre, Danmarks Liberale Parti",2
+Rudersdal,1,Birkerød,"V_Knud_Riedel,_Skodsborg","Knud Riedel, Skodsborg","Venstre, Danmarks Liberale Parti",0
+Rudersdal,1,Birkerød,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,93
+Rudersdal,1,Birkerød,"Ø_Christoffer_E._Jørgensen,_Birkerød","Christoffer E. Jørgensen, Birkerød",Enhedslisten - De Rød-Grønne,97
+Rudersdal,1,Birkerød,"Ø_Lisette_Jespersen,_Kajerød","Lisette Jespersen, Kajerød",Enhedslisten - De Rød-Grønne,35
+Rudersdal,1,Birkerød,"Ø_Aleksandra_Maria_Spangsege,Nærum","Aleksandra Maria Spangsege,Nærum",Enhedslisten - De Rød-Grønne,7
+Rudersdal,1,Birkerød,"Ø_Peter_Ussing,_Nærum","Peter Ussing, Nærum",Enhedslisten - De Rød-Grønne,1
+Rudersdal,1,Birkerød,"Ø_Stine_Kærulf_Andersen,_Holte","Stine Kærulf Andersen, Holte",Enhedslisten - De Rød-Grønne,18
+Rudersdal,1,Birkerød,"Ø_Vibeke_Baden_Laursen,_Skodsborg","Vibeke Baden Laursen, Skodsborg",Enhedslisten - De Rød-Grønne,1
+Rudersdal,1,Birkerød,"Ø_Hanne_Nicolaisen,_Birkerød","Hanne Nicolaisen, Birkerød",Enhedslisten - De Rød-Grønne,10
+Rudersdal,1,Birkerød,"Ø_Anders_Olesen,_Bistrup","Anders Olesen, Bistrup",Enhedslisten - De Rød-Grønne,0
+Rudersdal,3,Grünersvej,A_Listestemmer,Listestemmer,Socialdemokratiet,154
+Rudersdal,3,Grünersvej,A_Kristine_Thrane,Kristine Thrane,Socialdemokratiet,113
+Rudersdal,3,Grünersvej,A_Alexander_Baadh,Alexander Baadh,Socialdemokratiet,7
+Rudersdal,3,Grünersvej,A_Heidi_Højmark_Falden,Heidi Højmark Falden,Socialdemokratiet,12
+Rudersdal,3,Grünersvej,A_Poul_Bach,Poul Bach,Socialdemokratiet,10
+Rudersdal,3,Grünersvej,A_Anette_Maj_Billesbølle,Anette Maj Billesbølle,Socialdemokratiet,17
+Rudersdal,3,Grünersvej,A_Thomas_Lesly_Rasmussen,Thomas Lesly Rasmussen,Socialdemokratiet,14
+Rudersdal,3,Grünersvej,A_Mette_Poulsen,Mette Poulsen,Socialdemokratiet,3
+Rudersdal,3,Grünersvej,A_Erik_Eugen_Olsen,Erik Eugen Olsen,Socialdemokratiet,1
+Rudersdal,3,Grünersvej,A_John_Theil_Münster,John Theil Münster,Socialdemokratiet,0
+Rudersdal,3,Grünersvej,B_Listestemmer,Listestemmer,Radikale Venstre,130
+Rudersdal,3,Grünersvej,B_Court_Møller,Court Møller,Radikale Venstre,37
+Rudersdal,3,Grünersvej,B_Jacob_Netteberg,Jacob Netteberg,Radikale Venstre,30
+Rudersdal,3,Grünersvej,B_Christian_Elkjær,Christian Elkjær,Radikale Venstre,11
+Rudersdal,3,Grünersvej,B_Nada_Naanaah,Nada Naanaah,Radikale Venstre,10
+Rudersdal,3,Grünersvej,B_Mette_Stenby_Andresen,Mette Stenby Andresen,Radikale Venstre,26
+Rudersdal,3,Grünersvej,B_Harald_Gade_Andersen,Harald Gade Andersen,Radikale Venstre,0
+Rudersdal,3,Grünersvej,B_Anne_Lise_Kjær,Anne Lise Kjær,Radikale Venstre,3
+Rudersdal,3,Grünersvej,B_Kristoffer_Boye_Astrup,Kristoffer Boye Astrup,Radikale Venstre,1
+Rudersdal,3,Grünersvej,B_Jacob_Johannsen,Jacob Johannsen,Radikale Venstre,1
+Rudersdal,3,Grünersvej,B_Birgit_Gundorph-Malling,Birgit Gundorph-Malling,Radikale Venstre,5
+Rudersdal,3,Grünersvej,B_Anne_Damsgaard_Manniche,Anne Damsgaard Manniche,Radikale Venstre,3
+Rudersdal,3,Grünersvej,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,432
+Rudersdal,3,Grünersvej,"C_Ann_Sofie_Orth,_Gl._Holte","Ann Sofie Orth, Gl. Holte",Det Konservative Folkeparti,182
+Rudersdal,3,Grünersvej,"C_Christoffer_Buster_Reinhardt,Holte","Christoffer Buster Reinhardt,Holte",Det Konservative Folkeparti,327
+Rudersdal,3,Grünersvej,"C_Birgitte_Schjerning,_Søllerød","Birgitte Schjerning, Søllerød",Det Konservative Folkeparti,39
+Rudersdal,3,Grünersvej,"C_Nicola_Emily_Larsen,_Birkerød","Nicola Emily Larsen, Birkerød",Det Konservative Folkeparti,35
+Rudersdal,3,Grünersvej,"C_Elisabeth_Ildal,_Vedbæk","Elisabeth Ildal, Vedbæk",Det Konservative Folkeparti,14
+Rudersdal,3,Grünersvej,"C_Julie_Quass,_Holte","Julie Quass, Holte",Det Konservative Folkeparti,313
+Rudersdal,3,Grünersvej,"C_Lars_Engelberth,_Birkerød","Lars Engelberth, Birkerød",Det Konservative Folkeparti,5
+Rudersdal,3,Grünersvej,"C_Knud_Skadborg,_Birkerød","Knud Skadborg, Birkerød",Det Konservative Folkeparti,2
+Rudersdal,3,Grünersvej,"C_Alexander_Friborg,_Nærum","Alexander Friborg, Nærum",Det Konservative Folkeparti,11
+Rudersdal,3,Grünersvej,"C_Mikkel_Barnekow,_Høsterkøb","Mikkel Barnekow, Høsterkøb",Det Konservative Folkeparti,10
+Rudersdal,3,Grünersvej,"C_Peter_Lemmich,_Vedbæk","Peter Lemmich, Vedbæk",Det Konservative Folkeparti,2
+Rudersdal,3,Grünersvej,"C_Lars_Søndergaard-Nielsen,_Birkerød","Lars Søndergaard-Nielsen, Birkerød",Det Konservative Folkeparti,0
+Rudersdal,3,Grünersvej,"C_Jack_Otto_Kristensen,_Birkerød","Jack Otto Kristensen, Birkerød",Det Konservative Folkeparti,2
+Rudersdal,3,Grünersvej,"C_Lene_Stener,_Holte","Lene Stener, Holte",Det Konservative Folkeparti,21
+Rudersdal,3,Grünersvej,"C_Flemming_Møller,_Holte","Flemming Møller, Holte",Det Konservative Folkeparti,246
+Rudersdal,3,Grünersvej,"C_Einar_Bolt,_Skodsborg","Einar Bolt, Skodsborg",Det Konservative Folkeparti,19
+Rudersdal,3,Grünersvej,"C_Karen_Schousboe,_Øverød","Karen Schousboe, Øverød",Det Konservative Folkeparti,24
+Rudersdal,3,Grünersvej,"C_Eric_Beran,_Birkerød","Eric Beran, Birkerød",Det Konservative Folkeparti,5
+Rudersdal,3,Grünersvej,"C_Christian_Wix,_Nærum","Christian Wix, Nærum",Det Konservative Folkeparti,5
+Rudersdal,3,Grünersvej,"C_Morten_Fender,_Holte","Morten Fender, Holte",Det Konservative Folkeparti,72
+Rudersdal,3,Grünersvej,"C_Sune_Elvig,_Birkerød","Sune Elvig, Birkerød",Det Konservative Folkeparti,6
+Rudersdal,3,Grünersvej,"C_Hanne_Gerner,_Nærum","Hanne Gerner, Nærum",Det Konservative Folkeparti,4
+Rudersdal,3,Grünersvej,"C_Gitte_D'Arcy,_Birkerød","Gitte D'Arcy, Birkerød",Det Konservative Folkeparti,0
+Rudersdal,3,Grünersvej,"C_Conny_Birkholm,_Bistrup","Conny Birkholm, Bistrup",Det Konservative Folkeparti,0
+Rudersdal,3,Grünersvej,"C_Claus_Hjorting,_Gl.Holte","Claus Hjorting, Gl.Holte",Det Konservative Folkeparti,3
+Rudersdal,3,Grünersvej,"C_Henrik_Høyer-Hansen,_Øverød","Henrik Høyer-Hansen, Øverød",Det Konservative Folkeparti,6
+Rudersdal,3,Grünersvej,"C_Christian_Fode,_Trørød","Christian Fode, Trørød",Det Konservative Folkeparti,9
+Rudersdal,3,Grünersvej,D_Listestemmer,Listestemmer,Nye Borgerlige,45
+Rudersdal,3,Grünersvej,D_Carsten_Winther,Carsten Winther,Nye Borgerlige,36
+Rudersdal,3,Grünersvej,D_Jon_Fribo,Jon Fribo,Nye Borgerlige,4
+Rudersdal,3,Grünersvej,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,76
+Rudersdal,3,Grünersvej,F_Dorte_Nørbo,Dorte Nørbo,SF - Socialistisk Folkeparti,47
+Rudersdal,3,Grünersvej,F_Stefan_B._Skrubbeltrang,Stefan B. Skrubbeltrang,SF - Socialistisk Folkeparti,19
+Rudersdal,3,Grünersvej,F_Martin_Rosenkilde,Martin Rosenkilde,SF - Socialistisk Folkeparti,6
+Rudersdal,3,Grünersvej,F_Lotte_Gjaldbæk,Lotte Gjaldbæk,SF - Socialistisk Folkeparti,9
+Rudersdal,3,Grünersvej,F_Marianne_Stubbe_Østergaard,Marianne Stubbe Østergaard,SF - Socialistisk Folkeparti,9
+Rudersdal,3,Grünersvej,F_Kurt_Petersen,Kurt Petersen,SF - Socialistisk Folkeparti,3
+Rudersdal,3,Grünersvej,F_Bernt_Stubbe_Østergaard,Bernt Stubbe Østergaard,SF - Socialistisk Folkeparti,1
+Rudersdal,3,Grünersvej,I_Listestemmer,Listestemmer,Liberal Alliance,50
+Rudersdal,3,Grünersvej,"I_Lars_Holmqvist,_Høsterkøb","Lars Holmqvist, Høsterkøb",Liberal Alliance,28
+Rudersdal,3,Grünersvej,"I_Annette_Vendelbo,_Holte","Annette Vendelbo, Holte",Liberal Alliance,31
+Rudersdal,3,Grünersvej,"I_Simon_L._Skanderup,_Vedbæk","Simon L. Skanderup, Vedbæk",Liberal Alliance,5
+Rudersdal,3,Grünersvej,"I_Jens_Chr._Pedersen,_Vedbæk","Jens Chr. Pedersen, Vedbæk",Liberal Alliance,4
+Rudersdal,3,Grünersvej,"I_Lars_Stibius,_Birkerød","Lars Stibius, Birkerød",Liberal Alliance,3
+Rudersdal,3,Grünersvej,L_Listestemmer,Listestemmer,Lokallisten,56
+Rudersdal,3,Grünersvej,L_Anne_Christiansen,Anne Christiansen,Lokallisten,37
+Rudersdal,3,Grünersvej,L_Khaled_Mustapha,Khaled Mustapha,Lokallisten,13
+Rudersdal,3,Grünersvej,L_Morten_Noppenau,Morten Noppenau,Lokallisten,18
+Rudersdal,3,Grünersvej,L_Mona_Madsen,Mona Madsen,Lokallisten,9
+Rudersdal,3,Grünersvej,L_Keld_Stattau,Keld Stattau,Lokallisten,8
+Rudersdal,3,Grünersvej,L_Matilde_Broberg_Ekstrøm,Matilde Broberg Ekstrøm,Lokallisten,19
+Rudersdal,3,Grünersvej,L_Birgitte_Rasmussen,Birgitte Rasmussen,Lokallisten,5
+Rudersdal,3,Grünersvej,L_Luc_de_Visme,Luc de Visme,Lokallisten,0
+Rudersdal,3,Grünersvej,O_Listestemmer,Listestemmer,Dansk Folkeparti,12
+Rudersdal,3,Grünersvej,"O_Jan_Erik_Messmann,_Birkerød","Jan Erik Messmann, Birkerød",Dansk Folkeparti,9
+Rudersdal,3,Grünersvej,"O_Nina_Clarén,_Birkerød","Nina Clarén, Birkerød",Dansk Folkeparti,5
+Rudersdal,3,Grünersvej,R_Listestemmer,Listestemmer,BorgerFokus,2
+Rudersdal,3,Grünersvej,R_Jacob_Buhl,Jacob Buhl,BorgerFokus,2
+Rudersdal,3,Grünersvej,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",220
+Rudersdal,3,Grünersvej,"V_Jens_Ive,_Holte","Jens Ive, Holte","Venstre, Danmarks Liberale Parti",290
+Rudersdal,3,Grünersvej,"V_Randi_Mondorf,_Holte","Randi Mondorf, Holte","Venstre, Danmarks Liberale Parti",156
+Rudersdal,3,Grünersvej,"V_Jens_Darket,_Birkerød","Jens Darket, Birkerød","Venstre, Danmarks Liberale Parti",42
+Rudersdal,3,Grünersvej,"V_Malene_Barkhus,_Vedbæk","Malene Barkhus, Vedbæk","Venstre, Danmarks Liberale Parti",25
+Rudersdal,3,Grünersvej,"V_Klaus_Nørby_Jakobsen,_Birkerød","Klaus Nørby Jakobsen, Birkerød","Venstre, Danmarks Liberale Parti",4
+Rudersdal,3,Grünersvej,"V_Anika_Rée,_Nærum","Anika Rée, Nærum","Venstre, Danmarks Liberale Parti",7
+Rudersdal,3,Grünersvej,"V_Jens_Kloppenborg-Skrumsager,Vedbæk","Jens Kloppenborg-Skrumsager,Vedbæk","Venstre, Danmarks Liberale Parti",10
+Rudersdal,3,Grünersvej,"V_Henrik_Bach_Mortensen,_Søllerød","Henrik Bach Mortensen, Søllerød","Venstre, Danmarks Liberale Parti",7
+Rudersdal,3,Grünersvej,"V_Maiken_Gjerrow_Andersen,_Nærum","Maiken Gjerrow Andersen, Nærum","Venstre, Danmarks Liberale Parti",1
+Rudersdal,3,Grünersvej,"V_Per_Carøe,_Trørød","Per Carøe, Trørød","Venstre, Danmarks Liberale Parti",18
+Rudersdal,3,Grünersvej,"V_Alexander_Foged,_Holte","Alexander Foged, Holte","Venstre, Danmarks Liberale Parti",43
+Rudersdal,3,Grünersvej,"V_Anders_Modey,_Birkerød","Anders Modey, Birkerød","Venstre, Danmarks Liberale Parti",3
+Rudersdal,3,Grünersvej,"V_Sven_Kolstrup,_Bistrup","Sven Kolstrup, Bistrup","Venstre, Danmarks Liberale Parti",4
+Rudersdal,3,Grünersvej,"V_Lars_Neumann,_Trørød","Lars Neumann, Trørød","Venstre, Danmarks Liberale Parti",8
+Rudersdal,3,Grünersvej,"V_Søren_Hyldgaard,_Birkerød","Søren Hyldgaard, Birkerød","Venstre, Danmarks Liberale Parti",4
+Rudersdal,3,Grünersvej,"V_Ulrik_Iversen,_Søllerød","Ulrik Iversen, Søllerød","Venstre, Danmarks Liberale Parti",1
+Rudersdal,3,Grünersvej,"V_Niels_Bundsgaard,_Trørød","Niels Bundsgaard, Trørød","Venstre, Danmarks Liberale Parti",2
+Rudersdal,3,Grünersvej,"V_Karin_Vith_Ankerstjerne,_Bistrup","Karin Vith Ankerstjerne, Bistrup","Venstre, Danmarks Liberale Parti",0
+Rudersdal,3,Grünersvej,"V_Jesper_Winther_Andersen,_Høsterkøb","Jesper Winther Andersen, Høsterkøb","Venstre, Danmarks Liberale Parti",2
+Rudersdal,3,Grünersvej,"V_Esma_Birdi,_Holte","Esma Birdi, Holte","Venstre, Danmarks Liberale Parti",3
+Rudersdal,3,Grünersvej,"V_Peter_W._Ø._Larsen,_Birkerød","Peter W. Ø. Larsen, Birkerød","Venstre, Danmarks Liberale Parti",1
+Rudersdal,3,Grünersvej,"V_Ulla_Thillerup,_Nærum","Ulla Thillerup, Nærum","Venstre, Danmarks Liberale Parti",7
+Rudersdal,3,Grünersvej,"V_Lars_Kristensen,_Søllerød","Lars Kristensen, Søllerød","Venstre, Danmarks Liberale Parti",3
+Rudersdal,3,Grünersvej,"V_Morten_Munch,_Holte","Morten Munch, Holte","Venstre, Danmarks Liberale Parti",5
+Rudersdal,3,Grünersvej,"V_Knud_Riedel,_Skodsborg","Knud Riedel, Skodsborg","Venstre, Danmarks Liberale Parti",0
+Rudersdal,3,Grünersvej,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,71
+Rudersdal,3,Grünersvej,"Ø_Christoffer_E._Jørgensen,_Birkerød","Christoffer E. Jørgensen, Birkerød",Enhedslisten - De Rød-Grønne,38
+Rudersdal,3,Grünersvej,"Ø_Lisette_Jespersen,_Kajerød","Lisette Jespersen, Kajerød",Enhedslisten - De Rød-Grønne,17
+Rudersdal,3,Grünersvej,"Ø_Aleksandra_Maria_Spangsege,Nærum","Aleksandra Maria Spangsege,Nærum",Enhedslisten - De Rød-Grønne,11
+Rudersdal,3,Grünersvej,"Ø_Peter_Ussing,_Nærum","Peter Ussing, Nærum",Enhedslisten - De Rød-Grønne,2
+Rudersdal,3,Grünersvej,"Ø_Stine_Kærulf_Andersen,_Holte","Stine Kærulf Andersen, Holte",Enhedslisten - De Rød-Grønne,33
+Rudersdal,3,Grünersvej,"Ø_Vibeke_Baden_Laursen,_Skodsborg","Vibeke Baden Laursen, Skodsborg",Enhedslisten - De Rød-Grønne,0
+Rudersdal,3,Grünersvej,"Ø_Hanne_Nicolaisen,_Birkerød","Hanne Nicolaisen, Birkerød",Enhedslisten - De Rød-Grønne,2
+Rudersdal,3,Grünersvej,"Ø_Anders_Olesen,_Bistrup","Anders Olesen, Bistrup",Enhedslisten - De Rød-Grønne,1
+Rudersdal,4,Nærum,A_Listestemmer,Listestemmer,Socialdemokratiet,173
+Rudersdal,4,Nærum,A_Kristine_Thrane,Kristine Thrane,Socialdemokratiet,168
+Rudersdal,4,Nærum,A_Alexander_Baadh,Alexander Baadh,Socialdemokratiet,13
+Rudersdal,4,Nærum,A_Heidi_Højmark_Falden,Heidi Højmark Falden,Socialdemokratiet,11
+Rudersdal,4,Nærum,A_Poul_Bach,Poul Bach,Socialdemokratiet,8
+Rudersdal,4,Nærum,A_Anette_Maj_Billesbølle,Anette Maj Billesbølle,Socialdemokratiet,35
+Rudersdal,4,Nærum,A_Thomas_Lesly_Rasmussen,Thomas Lesly Rasmussen,Socialdemokratiet,106
+Rudersdal,4,Nærum,A_Mette_Poulsen,Mette Poulsen,Socialdemokratiet,17
+Rudersdal,4,Nærum,A_Erik_Eugen_Olsen,Erik Eugen Olsen,Socialdemokratiet,7
+Rudersdal,4,Nærum,A_John_Theil_Münster,John Theil Münster,Socialdemokratiet,0
+Rudersdal,4,Nærum,B_Listestemmer,Listestemmer,Radikale Venstre,76
+Rudersdal,4,Nærum,B_Court_Møller,Court Møller,Radikale Venstre,35
+Rudersdal,4,Nærum,B_Jacob_Netteberg,Jacob Netteberg,Radikale Venstre,23
+Rudersdal,4,Nærum,B_Christian_Elkjær,Christian Elkjær,Radikale Venstre,11
+Rudersdal,4,Nærum,B_Nada_Naanaah,Nada Naanaah,Radikale Venstre,26
+Rudersdal,4,Nærum,B_Mette_Stenby_Andresen,Mette Stenby Andresen,Radikale Venstre,19
+Rudersdal,4,Nærum,B_Harald_Gade_Andersen,Harald Gade Andersen,Radikale Venstre,0
+Rudersdal,4,Nærum,B_Anne_Lise_Kjær,Anne Lise Kjær,Radikale Venstre,0
+Rudersdal,4,Nærum,B_Kristoffer_Boye_Astrup,Kristoffer Boye Astrup,Radikale Venstre,5
+Rudersdal,4,Nærum,B_Jacob_Johannsen,Jacob Johannsen,Radikale Venstre,0
+Rudersdal,4,Nærum,B_Birgit_Gundorph-Malling,Birgit Gundorph-Malling,Radikale Venstre,14
+Rudersdal,4,Nærum,B_Anne_Damsgaard_Manniche,Anne Damsgaard Manniche,Radikale Venstre,0
+Rudersdal,4,Nærum,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,256
+Rudersdal,4,Nærum,"C_Ann_Sofie_Orth,_Gl._Holte","Ann Sofie Orth, Gl. Holte",Det Konservative Folkeparti,130
+Rudersdal,4,Nærum,"C_Christoffer_Buster_Reinhardt,Holte","Christoffer Buster Reinhardt,Holte",Det Konservative Folkeparti,72
+Rudersdal,4,Nærum,"C_Birgitte_Schjerning,_Søllerød","Birgitte Schjerning, Søllerød",Det Konservative Folkeparti,41
+Rudersdal,4,Nærum,"C_Nicola_Emily_Larsen,_Birkerød","Nicola Emily Larsen, Birkerød",Det Konservative Folkeparti,25
+Rudersdal,4,Nærum,"C_Elisabeth_Ildal,_Vedbæk","Elisabeth Ildal, Vedbæk",Det Konservative Folkeparti,9
+Rudersdal,4,Nærum,"C_Julie_Quass,_Holte","Julie Quass, Holte",Det Konservative Folkeparti,51
+Rudersdal,4,Nærum,"C_Lars_Engelberth,_Birkerød","Lars Engelberth, Birkerød",Det Konservative Folkeparti,4
+Rudersdal,4,Nærum,"C_Knud_Skadborg,_Birkerød","Knud Skadborg, Birkerød",Det Konservative Folkeparti,4
+Rudersdal,4,Nærum,"C_Alexander_Friborg,_Nærum","Alexander Friborg, Nærum",Det Konservative Folkeparti,105
+Rudersdal,4,Nærum,"C_Mikkel_Barnekow,_Høsterkøb","Mikkel Barnekow, Høsterkøb",Det Konservative Folkeparti,2
+Rudersdal,4,Nærum,"C_Peter_Lemmich,_Vedbæk","Peter Lemmich, Vedbæk",Det Konservative Folkeparti,2
+Rudersdal,4,Nærum,"C_Lars_Søndergaard-Nielsen,_Birkerød","Lars Søndergaard-Nielsen, Birkerød",Det Konservative Folkeparti,0
+Rudersdal,4,Nærum,"C_Jack_Otto_Kristensen,_Birkerød","Jack Otto Kristensen, Birkerød",Det Konservative Folkeparti,0
+Rudersdal,4,Nærum,"C_Lene_Stener,_Holte","Lene Stener, Holte",Det Konservative Folkeparti,7
+Rudersdal,4,Nærum,"C_Flemming_Møller,_Holte","Flemming Møller, Holte",Det Konservative Folkeparti,6
+Rudersdal,4,Nærum,"C_Einar_Bolt,_Skodsborg","Einar Bolt, Skodsborg",Det Konservative Folkeparti,20
+Rudersdal,4,Nærum,"C_Karen_Schousboe,_Øverød","Karen Schousboe, Øverød",Det Konservative Folkeparti,5
+Rudersdal,4,Nærum,"C_Eric_Beran,_Birkerød","Eric Beran, Birkerød",Det Konservative Folkeparti,2
+Rudersdal,4,Nærum,"C_Christian_Wix,_Nærum","Christian Wix, Nærum",Det Konservative Folkeparti,13
+Rudersdal,4,Nærum,"C_Morten_Fender,_Holte","Morten Fender, Holte",Det Konservative Folkeparti,4
+Rudersdal,4,Nærum,"C_Sune_Elvig,_Birkerød","Sune Elvig, Birkerød",Det Konservative Folkeparti,2
+Rudersdal,4,Nærum,"C_Hanne_Gerner,_Nærum","Hanne Gerner, Nærum",Det Konservative Folkeparti,12
+Rudersdal,4,Nærum,"C_Gitte_D'Arcy,_Birkerød","Gitte D'Arcy, Birkerød",Det Konservative Folkeparti,1
+Rudersdal,4,Nærum,"C_Conny_Birkholm,_Bistrup","Conny Birkholm, Bistrup",Det Konservative Folkeparti,1
+Rudersdal,4,Nærum,"C_Claus_Hjorting,_Gl.Holte","Claus Hjorting, Gl.Holte",Det Konservative Folkeparti,3
+Rudersdal,4,Nærum,"C_Henrik_Høyer-Hansen,_Øverød","Henrik Høyer-Hansen, Øverød",Det Konservative Folkeparti,5
+Rudersdal,4,Nærum,"C_Christian_Fode,_Trørød","Christian Fode, Trørød",Det Konservative Folkeparti,8
+Rudersdal,4,Nærum,D_Listestemmer,Listestemmer,Nye Borgerlige,45
+Rudersdal,4,Nærum,D_Carsten_Winther,Carsten Winther,Nye Borgerlige,50
+Rudersdal,4,Nærum,D_Jon_Fribo,Jon Fribo,Nye Borgerlige,4
+Rudersdal,4,Nærum,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,83
+Rudersdal,4,Nærum,F_Dorte_Nørbo,Dorte Nørbo,SF - Socialistisk Folkeparti,43
+Rudersdal,4,Nærum,F_Stefan_B._Skrubbeltrang,Stefan B. Skrubbeltrang,SF - Socialistisk Folkeparti,16
+Rudersdal,4,Nærum,F_Martin_Rosenkilde,Martin Rosenkilde,SF - Socialistisk Folkeparti,4
+Rudersdal,4,Nærum,F_Lotte_Gjaldbæk,Lotte Gjaldbæk,SF - Socialistisk Folkeparti,13
+Rudersdal,4,Nærum,F_Marianne_Stubbe_Østergaard,Marianne Stubbe Østergaard,SF - Socialistisk Folkeparti,6
+Rudersdal,4,Nærum,F_Kurt_Petersen,Kurt Petersen,SF - Socialistisk Folkeparti,5
+Rudersdal,4,Nærum,F_Bernt_Stubbe_Østergaard,Bernt Stubbe Østergaard,SF - Socialistisk Folkeparti,1
+Rudersdal,4,Nærum,I_Listestemmer,Listestemmer,Liberal Alliance,27
+Rudersdal,4,Nærum,"I_Lars_Holmqvist,_Høsterkøb","Lars Holmqvist, Høsterkøb",Liberal Alliance,20
+Rudersdal,4,Nærum,"I_Annette_Vendelbo,_Holte","Annette Vendelbo, Holte",Liberal Alliance,6
+Rudersdal,4,Nærum,"I_Simon_L._Skanderup,_Vedbæk","Simon L. Skanderup, Vedbæk",Liberal Alliance,5
+Rudersdal,4,Nærum,"I_Jens_Chr._Pedersen,_Vedbæk","Jens Chr. Pedersen, Vedbæk",Liberal Alliance,2
+Rudersdal,4,Nærum,"I_Lars_Stibius,_Birkerød","Lars Stibius, Birkerød",Liberal Alliance,3
+Rudersdal,4,Nærum,L_Listestemmer,Listestemmer,Lokallisten,66
+Rudersdal,4,Nærum,L_Anne_Christiansen,Anne Christiansen,Lokallisten,24
+Rudersdal,4,Nærum,L_Khaled_Mustapha,Khaled Mustapha,Lokallisten,17
+Rudersdal,4,Nærum,L_Morten_Noppenau,Morten Noppenau,Lokallisten,29
+Rudersdal,4,Nærum,L_Mona_Madsen,Mona Madsen,Lokallisten,6
+Rudersdal,4,Nærum,L_Keld_Stattau,Keld Stattau,Lokallisten,1
+Rudersdal,4,Nærum,L_Matilde_Broberg_Ekstrøm,Matilde Broberg Ekstrøm,Lokallisten,9
+Rudersdal,4,Nærum,L_Birgitte_Rasmussen,Birgitte Rasmussen,Lokallisten,5
+Rudersdal,4,Nærum,L_Luc_de_Visme,Luc de Visme,Lokallisten,5
+Rudersdal,4,Nærum,O_Listestemmer,Listestemmer,Dansk Folkeparti,18
+Rudersdal,4,Nærum,"O_Jan_Erik_Messmann,_Birkerød","Jan Erik Messmann, Birkerød",Dansk Folkeparti,12
+Rudersdal,4,Nærum,"O_Nina_Clarén,_Birkerød","Nina Clarén, Birkerød",Dansk Folkeparti,10
+Rudersdal,4,Nærum,R_Listestemmer,Listestemmer,BorgerFokus,0
+Rudersdal,4,Nærum,R_Jacob_Buhl,Jacob Buhl,BorgerFokus,6
+Rudersdal,4,Nærum,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",139
+Rudersdal,4,Nærum,"V_Jens_Ive,_Holte","Jens Ive, Holte","Venstre, Danmarks Liberale Parti",172
+Rudersdal,4,Nærum,"V_Randi_Mondorf,_Holte","Randi Mondorf, Holte","Venstre, Danmarks Liberale Parti",29
+Rudersdal,4,Nærum,"V_Jens_Darket,_Birkerød","Jens Darket, Birkerød","Venstre, Danmarks Liberale Parti",9
+Rudersdal,4,Nærum,"V_Malene_Barkhus,_Vedbæk","Malene Barkhus, Vedbæk","Venstre, Danmarks Liberale Parti",11
+Rudersdal,4,Nærum,"V_Klaus_Nørby_Jakobsen,_Birkerød","Klaus Nørby Jakobsen, Birkerød","Venstre, Danmarks Liberale Parti",1
+Rudersdal,4,Nærum,"V_Anika_Rée,_Nærum","Anika Rée, Nærum","Venstre, Danmarks Liberale Parti",96
+Rudersdal,4,Nærum,"V_Jens_Kloppenborg-Skrumsager,Vedbæk","Jens Kloppenborg-Skrumsager,Vedbæk","Venstre, Danmarks Liberale Parti",8
+Rudersdal,4,Nærum,"V_Henrik_Bach_Mortensen,_Søllerød","Henrik Bach Mortensen, Søllerød","Venstre, Danmarks Liberale Parti",5
+Rudersdal,4,Nærum,"V_Maiken_Gjerrow_Andersen,_Nærum","Maiken Gjerrow Andersen, Nærum","Venstre, Danmarks Liberale Parti",62
+Rudersdal,4,Nærum,"V_Per_Carøe,_Trørød","Per Carøe, Trørød","Venstre, Danmarks Liberale Parti",9
+Rudersdal,4,Nærum,"V_Alexander_Foged,_Holte","Alexander Foged, Holte","Venstre, Danmarks Liberale Parti",12
+Rudersdal,4,Nærum,"V_Anders_Modey,_Birkerød","Anders Modey, Birkerød","Venstre, Danmarks Liberale Parti",5
+Rudersdal,4,Nærum,"V_Sven_Kolstrup,_Bistrup","Sven Kolstrup, Bistrup","Venstre, Danmarks Liberale Parti",2
+Rudersdal,4,Nærum,"V_Lars_Neumann,_Trørød","Lars Neumann, Trørød","Venstre, Danmarks Liberale Parti",7
+Rudersdal,4,Nærum,"V_Søren_Hyldgaard,_Birkerød","Søren Hyldgaard, Birkerød","Venstre, Danmarks Liberale Parti",9
+Rudersdal,4,Nærum,"V_Ulrik_Iversen,_Søllerød","Ulrik Iversen, Søllerød","Venstre, Danmarks Liberale Parti",17
+Rudersdal,4,Nærum,"V_Niels_Bundsgaard,_Trørød","Niels Bundsgaard, Trørød","Venstre, Danmarks Liberale Parti",0
+Rudersdal,4,Nærum,"V_Karin_Vith_Ankerstjerne,_Bistrup","Karin Vith Ankerstjerne, Bistrup","Venstre, Danmarks Liberale Parti",0
+Rudersdal,4,Nærum,"V_Jesper_Winther_Andersen,_Høsterkøb","Jesper Winther Andersen, Høsterkøb","Venstre, Danmarks Liberale Parti",0
+Rudersdal,4,Nærum,"V_Esma_Birdi,_Holte","Esma Birdi, Holte","Venstre, Danmarks Liberale Parti",1
+Rudersdal,4,Nærum,"V_Peter_W._Ø._Larsen,_Birkerød","Peter W. Ø. Larsen, Birkerød","Venstre, Danmarks Liberale Parti",1
+Rudersdal,4,Nærum,"V_Ulla_Thillerup,_Nærum","Ulla Thillerup, Nærum","Venstre, Danmarks Liberale Parti",8
+Rudersdal,4,Nærum,"V_Lars_Kristensen,_Søllerød","Lars Kristensen, Søllerød","Venstre, Danmarks Liberale Parti",1
+Rudersdal,4,Nærum,"V_Morten_Munch,_Holte","Morten Munch, Holte","Venstre, Danmarks Liberale Parti",2
+Rudersdal,4,Nærum,"V_Knud_Riedel,_Skodsborg","Knud Riedel, Skodsborg","Venstre, Danmarks Liberale Parti",0
+Rudersdal,4,Nærum,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,80
+Rudersdal,4,Nærum,"Ø_Christoffer_E._Jørgensen,_Birkerød","Christoffer E. Jørgensen, Birkerød",Enhedslisten - De Rød-Grønne,28
+Rudersdal,4,Nærum,"Ø_Lisette_Jespersen,_Kajerød","Lisette Jespersen, Kajerød",Enhedslisten - De Rød-Grønne,8
+Rudersdal,4,Nærum,"Ø_Aleksandra_Maria_Spangsege,Nærum","Aleksandra Maria Spangsege,Nærum",Enhedslisten - De Rød-Grønne,38
+Rudersdal,4,Nærum,"Ø_Peter_Ussing,_Nærum","Peter Ussing, Nærum",Enhedslisten - De Rød-Grønne,9
+Rudersdal,4,Nærum,"Ø_Stine_Kærulf_Andersen,_Holte","Stine Kærulf Andersen, Holte",Enhedslisten - De Rød-Grønne,8
+Rudersdal,4,Nærum,"Ø_Vibeke_Baden_Laursen,_Skodsborg","Vibeke Baden Laursen, Skodsborg",Enhedslisten - De Rød-Grønne,2
+Rudersdal,4,Nærum,"Ø_Hanne_Nicolaisen,_Birkerød","Hanne Nicolaisen, Birkerød",Enhedslisten - De Rød-Grønne,1
+Rudersdal,4,Nærum,"Ø_Anders_Olesen,_Bistrup","Anders Olesen, Bistrup",Enhedslisten - De Rød-Grønne,0
+Rudersdal,5,Sjælsø,A_Listestemmer,Listestemmer,Socialdemokratiet,150
+Rudersdal,5,Sjælsø,A_Kristine_Thrane,Kristine Thrane,Socialdemokratiet,131
+Rudersdal,5,Sjælsø,A_Alexander_Baadh,Alexander Baadh,Socialdemokratiet,19
+Rudersdal,5,Sjælsø,A_Heidi_Højmark_Falden,Heidi Højmark Falden,Socialdemokratiet,27
+Rudersdal,5,Sjælsø,A_Poul_Bach,Poul Bach,Socialdemokratiet,40
+Rudersdal,5,Sjælsø,A_Anette_Maj_Billesbølle,Anette Maj Billesbølle,Socialdemokratiet,24
+Rudersdal,5,Sjælsø,A_Thomas_Lesly_Rasmussen,Thomas Lesly Rasmussen,Socialdemokratiet,4
+Rudersdal,5,Sjælsø,A_Mette_Poulsen,Mette Poulsen,Socialdemokratiet,4
+Rudersdal,5,Sjælsø,A_Erik_Eugen_Olsen,Erik Eugen Olsen,Socialdemokratiet,26
+Rudersdal,5,Sjælsø,A_John_Theil_Münster,John Theil Münster,Socialdemokratiet,2
+Rudersdal,5,Sjælsø,B_Listestemmer,Listestemmer,Radikale Venstre,126
+Rudersdal,5,Sjælsø,B_Court_Møller,Court Møller,Radikale Venstre,63
+Rudersdal,5,Sjælsø,B_Jacob_Netteberg,Jacob Netteberg,Radikale Venstre,83
+Rudersdal,5,Sjælsø,B_Christian_Elkjær,Christian Elkjær,Radikale Venstre,38
+Rudersdal,5,Sjælsø,B_Nada_Naanaah,Nada Naanaah,Radikale Venstre,29
+Rudersdal,5,Sjælsø,B_Mette_Stenby_Andresen,Mette Stenby Andresen,Radikale Venstre,26
+Rudersdal,5,Sjælsø,B_Harald_Gade_Andersen,Harald Gade Andersen,Radikale Venstre,0
+Rudersdal,5,Sjælsø,B_Anne_Lise_Kjær,Anne Lise Kjær,Radikale Venstre,4
+Rudersdal,5,Sjælsø,B_Kristoffer_Boye_Astrup,Kristoffer Boye Astrup,Radikale Venstre,3
+Rudersdal,5,Sjælsø,B_Jacob_Johannsen,Jacob Johannsen,Radikale Venstre,0
+Rudersdal,5,Sjælsø,B_Birgit_Gundorph-Malling,Birgit Gundorph-Malling,Radikale Venstre,8
+Rudersdal,5,Sjælsø,B_Anne_Damsgaard_Manniche,Anne Damsgaard Manniche,Radikale Venstre,1
+Rudersdal,5,Sjælsø,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,343
+Rudersdal,5,Sjælsø,"C_Ann_Sofie_Orth,_Gl._Holte","Ann Sofie Orth, Gl. Holte",Det Konservative Folkeparti,133
+Rudersdal,5,Sjælsø,"C_Christoffer_Buster_Reinhardt,Holte","Christoffer Buster Reinhardt,Holte",Det Konservative Folkeparti,83
+Rudersdal,5,Sjælsø,"C_Birgitte_Schjerning,_Søllerød","Birgitte Schjerning, Søllerød",Det Konservative Folkeparti,30
+Rudersdal,5,Sjælsø,"C_Nicola_Emily_Larsen,_Birkerød","Nicola Emily Larsen, Birkerød",Det Konservative Folkeparti,110
+Rudersdal,5,Sjælsø,"C_Elisabeth_Ildal,_Vedbæk","Elisabeth Ildal, Vedbæk",Det Konservative Folkeparti,15
+Rudersdal,5,Sjælsø,"C_Julie_Quass,_Holte","Julie Quass, Holte",Det Konservative Folkeparti,61
+Rudersdal,5,Sjælsø,"C_Lars_Engelberth,_Birkerød","Lars Engelberth, Birkerød",Det Konservative Folkeparti,32
+Rudersdal,5,Sjælsø,"C_Knud_Skadborg,_Birkerød","Knud Skadborg, Birkerød",Det Konservative Folkeparti,128
+Rudersdal,5,Sjælsø,"C_Alexander_Friborg,_Nærum","Alexander Friborg, Nærum",Det Konservative Folkeparti,3
+Rudersdal,5,Sjælsø,"C_Mikkel_Barnekow,_Høsterkøb","Mikkel Barnekow, Høsterkøb",Det Konservative Folkeparti,116
+Rudersdal,5,Sjælsø,"C_Peter_Lemmich,_Vedbæk","Peter Lemmich, Vedbæk",Det Konservative Folkeparti,2
+Rudersdal,5,Sjælsø,"C_Lars_Søndergaard-Nielsen,_Birkerød","Lars Søndergaard-Nielsen, Birkerød",Det Konservative Folkeparti,17
+Rudersdal,5,Sjælsø,"C_Jack_Otto_Kristensen,_Birkerød","Jack Otto Kristensen, Birkerød",Det Konservative Folkeparti,8
+Rudersdal,5,Sjælsø,"C_Lene_Stener,_Holte","Lene Stener, Holte",Det Konservative Folkeparti,10
+Rudersdal,5,Sjælsø,"C_Flemming_Møller,_Holte","Flemming Møller, Holte",Det Konservative Folkeparti,7
+Rudersdal,5,Sjælsø,"C_Einar_Bolt,_Skodsborg","Einar Bolt, Skodsborg",Det Konservative Folkeparti,10
+Rudersdal,5,Sjælsø,"C_Karen_Schousboe,_Øverød","Karen Schousboe, Øverød",Det Konservative Folkeparti,7
+Rudersdal,5,Sjælsø,"C_Eric_Beran,_Birkerød","Eric Beran, Birkerød",Det Konservative Folkeparti,13
+Rudersdal,5,Sjælsø,"C_Christian_Wix,_Nærum","Christian Wix, Nærum",Det Konservative Folkeparti,10
+Rudersdal,5,Sjælsø,"C_Morten_Fender,_Holte","Morten Fender, Holte",Det Konservative Folkeparti,1
+Rudersdal,5,Sjælsø,"C_Sune_Elvig,_Birkerød","Sune Elvig, Birkerød",Det Konservative Folkeparti,5
+Rudersdal,5,Sjælsø,"C_Hanne_Gerner,_Nærum","Hanne Gerner, Nærum",Det Konservative Folkeparti,1
+Rudersdal,5,Sjælsø,"C_Gitte_D'Arcy,_Birkerød","Gitte D'Arcy, Birkerød",Det Konservative Folkeparti,13
+Rudersdal,5,Sjælsø,"C_Conny_Birkholm,_Bistrup","Conny Birkholm, Bistrup",Det Konservative Folkeparti,6
+Rudersdal,5,Sjælsø,"C_Claus_Hjorting,_Gl.Holte","Claus Hjorting, Gl.Holte",Det Konservative Folkeparti,2
+Rudersdal,5,Sjælsø,"C_Henrik_Høyer-Hansen,_Øverød","Henrik Høyer-Hansen, Øverød",Det Konservative Folkeparti,8
+Rudersdal,5,Sjælsø,"C_Christian_Fode,_Trørød","Christian Fode, Trørød",Det Konservative Folkeparti,2
+Rudersdal,5,Sjælsø,D_Listestemmer,Listestemmer,Nye Borgerlige,54
+Rudersdal,5,Sjælsø,D_Carsten_Winther,Carsten Winther,Nye Borgerlige,46
+Rudersdal,5,Sjælsø,D_Jon_Fribo,Jon Fribo,Nye Borgerlige,5
+Rudersdal,5,Sjælsø,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,95
+Rudersdal,5,Sjælsø,F_Dorte_Nørbo,Dorte Nørbo,SF - Socialistisk Folkeparti,46
+Rudersdal,5,Sjælsø,F_Stefan_B._Skrubbeltrang,Stefan B. Skrubbeltrang,SF - Socialistisk Folkeparti,11
+Rudersdal,5,Sjælsø,F_Martin_Rosenkilde,Martin Rosenkilde,SF - Socialistisk Folkeparti,8
+Rudersdal,5,Sjælsø,F_Lotte_Gjaldbæk,Lotte Gjaldbæk,SF - Socialistisk Folkeparti,20
+Rudersdal,5,Sjælsø,F_Marianne_Stubbe_Østergaard,Marianne Stubbe Østergaard,SF - Socialistisk Folkeparti,14
+Rudersdal,5,Sjælsø,F_Kurt_Petersen,Kurt Petersen,SF - Socialistisk Folkeparti,2
+Rudersdal,5,Sjælsø,F_Bernt_Stubbe_Østergaard,Bernt Stubbe Østergaard,SF - Socialistisk Folkeparti,1
+Rudersdal,5,Sjælsø,I_Listestemmer,Listestemmer,Liberal Alliance,37
+Rudersdal,5,Sjælsø,"I_Lars_Holmqvist,_Høsterkøb","Lars Holmqvist, Høsterkøb",Liberal Alliance,55
+Rudersdal,5,Sjælsø,"I_Annette_Vendelbo,_Holte","Annette Vendelbo, Holte",Liberal Alliance,6
+Rudersdal,5,Sjælsø,"I_Simon_L._Skanderup,_Vedbæk","Simon L. Skanderup, Vedbæk",Liberal Alliance,4
+Rudersdal,5,Sjælsø,"I_Jens_Chr._Pedersen,_Vedbæk","Jens Chr. Pedersen, Vedbæk",Liberal Alliance,3
+Rudersdal,5,Sjælsø,"I_Lars_Stibius,_Birkerød","Lars Stibius, Birkerød",Liberal Alliance,9
+Rudersdal,5,Sjælsø,L_Listestemmer,Listestemmer,Lokallisten,172
+Rudersdal,5,Sjælsø,L_Anne_Christiansen,Anne Christiansen,Lokallisten,102
+Rudersdal,5,Sjælsø,L_Khaled_Mustapha,Khaled Mustapha,Lokallisten,95
+Rudersdal,5,Sjælsø,L_Morten_Noppenau,Morten Noppenau,Lokallisten,54
+Rudersdal,5,Sjælsø,L_Mona_Madsen,Mona Madsen,Lokallisten,113
+Rudersdal,5,Sjælsø,L_Keld_Stattau,Keld Stattau,Lokallisten,61
+Rudersdal,5,Sjælsø,L_Matilde_Broberg_Ekstrøm,Matilde Broberg Ekstrøm,Lokallisten,27
+Rudersdal,5,Sjælsø,L_Birgitte_Rasmussen,Birgitte Rasmussen,Lokallisten,4
+Rudersdal,5,Sjælsø,L_Luc_de_Visme,Luc de Visme,Lokallisten,21
+Rudersdal,5,Sjælsø,O_Listestemmer,Listestemmer,Dansk Folkeparti,16
+Rudersdal,5,Sjælsø,"O_Jan_Erik_Messmann,_Birkerød","Jan Erik Messmann, Birkerød",Dansk Folkeparti,18
+Rudersdal,5,Sjælsø,"O_Nina_Clarén,_Birkerød","Nina Clarén, Birkerød",Dansk Folkeparti,9
+Rudersdal,5,Sjælsø,R_Listestemmer,Listestemmer,BorgerFokus,2
+Rudersdal,5,Sjælsø,R_Jacob_Buhl,Jacob Buhl,BorgerFokus,10
+Rudersdal,5,Sjælsø,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",191
+Rudersdal,5,Sjælsø,"V_Jens_Ive,_Holte","Jens Ive, Holte","Venstre, Danmarks Liberale Parti",198
+Rudersdal,5,Sjælsø,"V_Randi_Mondorf,_Holte","Randi Mondorf, Holte","Venstre, Danmarks Liberale Parti",40
+Rudersdal,5,Sjælsø,"V_Jens_Darket,_Birkerød","Jens Darket, Birkerød","Venstre, Danmarks Liberale Parti",78
+Rudersdal,5,Sjælsø,"V_Malene_Barkhus,_Vedbæk","Malene Barkhus, Vedbæk","Venstre, Danmarks Liberale Parti",27
+Rudersdal,5,Sjælsø,"V_Klaus_Nørby_Jakobsen,_Birkerød","Klaus Nørby Jakobsen, Birkerød","Venstre, Danmarks Liberale Parti",52
+Rudersdal,5,Sjælsø,"V_Anika_Rée,_Nærum","Anika Rée, Nærum","Venstre, Danmarks Liberale Parti",5
+Rudersdal,5,Sjælsø,"V_Jens_Kloppenborg-Skrumsager,Vedbæk","Jens Kloppenborg-Skrumsager,Vedbæk","Venstre, Danmarks Liberale Parti",11
+Rudersdal,5,Sjælsø,"V_Henrik_Bach_Mortensen,_Søllerød","Henrik Bach Mortensen, Søllerød","Venstre, Danmarks Liberale Parti",6
+Rudersdal,5,Sjælsø,"V_Maiken_Gjerrow_Andersen,_Nærum","Maiken Gjerrow Andersen, Nærum","Venstre, Danmarks Liberale Parti",11
+Rudersdal,5,Sjælsø,"V_Per_Carøe,_Trørød","Per Carøe, Trørød","Venstre, Danmarks Liberale Parti",10
+Rudersdal,5,Sjælsø,"V_Alexander_Foged,_Holte","Alexander Foged, Holte","Venstre, Danmarks Liberale Parti",11
+Rudersdal,5,Sjælsø,"V_Anders_Modey,_Birkerød","Anders Modey, Birkerød","Venstre, Danmarks Liberale Parti",16
+Rudersdal,5,Sjælsø,"V_Sven_Kolstrup,_Bistrup","Sven Kolstrup, Bistrup","Venstre, Danmarks Liberale Parti",12
+Rudersdal,5,Sjælsø,"V_Lars_Neumann,_Trørød","Lars Neumann, Trørød","Venstre, Danmarks Liberale Parti",4
+Rudersdal,5,Sjælsø,"V_Søren_Hyldgaard,_Birkerød","Søren Hyldgaard, Birkerød","Venstre, Danmarks Liberale Parti",109
+Rudersdal,5,Sjælsø,"V_Ulrik_Iversen,_Søllerød","Ulrik Iversen, Søllerød","Venstre, Danmarks Liberale Parti",1
+Rudersdal,5,Sjælsø,"V_Niels_Bundsgaard,_Trørød","Niels Bundsgaard, Trørød","Venstre, Danmarks Liberale Parti",0
+Rudersdal,5,Sjælsø,"V_Karin_Vith_Ankerstjerne,_Bistrup","Karin Vith Ankerstjerne, Bistrup","Venstre, Danmarks Liberale Parti",3
+Rudersdal,5,Sjælsø,"V_Jesper_Winther_Andersen,_Høsterkøb","Jesper Winther Andersen, Høsterkøb","Venstre, Danmarks Liberale Parti",25
+Rudersdal,5,Sjælsø,"V_Esma_Birdi,_Holte","Esma Birdi, Holte","Venstre, Danmarks Liberale Parti",2
+Rudersdal,5,Sjælsø,"V_Peter_W._Ø._Larsen,_Birkerød","Peter W. Ø. Larsen, Birkerød","Venstre, Danmarks Liberale Parti",10
+Rudersdal,5,Sjælsø,"V_Ulla_Thillerup,_Nærum","Ulla Thillerup, Nærum","Venstre, Danmarks Liberale Parti",0
+Rudersdal,5,Sjælsø,"V_Lars_Kristensen,_Søllerød","Lars Kristensen, Søllerød","Venstre, Danmarks Liberale Parti",3
+Rudersdal,5,Sjælsø,"V_Morten_Munch,_Holte","Morten Munch, Holte","Venstre, Danmarks Liberale Parti",6
+Rudersdal,5,Sjælsø,"V_Knud_Riedel,_Skodsborg","Knud Riedel, Skodsborg","Venstre, Danmarks Liberale Parti",0
+Rudersdal,5,Sjælsø,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,106
+Rudersdal,5,Sjælsø,"Ø_Christoffer_E._Jørgensen,_Birkerød","Christoffer E. Jørgensen, Birkerød",Enhedslisten - De Rød-Grønne,102
+Rudersdal,5,Sjælsø,"Ø_Lisette_Jespersen,_Kajerød","Lisette Jespersen, Kajerød",Enhedslisten - De Rød-Grønne,14
+Rudersdal,5,Sjælsø,"Ø_Aleksandra_Maria_Spangsege,Nærum","Aleksandra Maria Spangsege,Nærum",Enhedslisten - De Rød-Grønne,9
+Rudersdal,5,Sjælsø,"Ø_Peter_Ussing,_Nærum","Peter Ussing, Nærum",Enhedslisten - De Rød-Grønne,2
+Rudersdal,5,Sjælsø,"Ø_Stine_Kærulf_Andersen,_Holte","Stine Kærulf Andersen, Holte",Enhedslisten - De Rød-Grønne,15
+Rudersdal,5,Sjælsø,"Ø_Vibeke_Baden_Laursen,_Skodsborg","Vibeke Baden Laursen, Skodsborg",Enhedslisten - De Rød-Grønne,0
+Rudersdal,5,Sjælsø,"Ø_Hanne_Nicolaisen,_Birkerød","Hanne Nicolaisen, Birkerød",Enhedslisten - De Rød-Grønne,11
+Rudersdal,5,Sjælsø,"Ø_Anders_Olesen,_Bistrup","Anders Olesen, Bistrup",Enhedslisten - De Rød-Grønne,0
+Rudersdal,6,Skovly,A_Listestemmer,Listestemmer,Socialdemokratiet,63
+Rudersdal,6,Skovly,A_Kristine_Thrane,Kristine Thrane,Socialdemokratiet,75
+Rudersdal,6,Skovly,A_Alexander_Baadh,Alexander Baadh,Socialdemokratiet,5
+Rudersdal,6,Skovly,A_Heidi_Højmark_Falden,Heidi Højmark Falden,Socialdemokratiet,4
+Rudersdal,6,Skovly,A_Poul_Bach,Poul Bach,Socialdemokratiet,4
+Rudersdal,6,Skovly,A_Anette_Maj_Billesbølle,Anette Maj Billesbølle,Socialdemokratiet,25
+Rudersdal,6,Skovly,A_Thomas_Lesly_Rasmussen,Thomas Lesly Rasmussen,Socialdemokratiet,4
+Rudersdal,6,Skovly,A_Mette_Poulsen,Mette Poulsen,Socialdemokratiet,5
+Rudersdal,6,Skovly,A_Erik_Eugen_Olsen,Erik Eugen Olsen,Socialdemokratiet,1
+Rudersdal,6,Skovly,A_John_Theil_Münster,John Theil Münster,Socialdemokratiet,0
+Rudersdal,6,Skovly,B_Listestemmer,Listestemmer,Radikale Venstre,63
+Rudersdal,6,Skovly,B_Court_Møller,Court Møller,Radikale Venstre,36
+Rudersdal,6,Skovly,B_Jacob_Netteberg,Jacob Netteberg,Radikale Venstre,25
+Rudersdal,6,Skovly,B_Christian_Elkjær,Christian Elkjær,Radikale Venstre,16
+Rudersdal,6,Skovly,B_Nada_Naanaah,Nada Naanaah,Radikale Venstre,13
+Rudersdal,6,Skovly,B_Mette_Stenby_Andresen,Mette Stenby Andresen,Radikale Venstre,12
+Rudersdal,6,Skovly,B_Harald_Gade_Andersen,Harald Gade Andersen,Radikale Venstre,0
+Rudersdal,6,Skovly,B_Anne_Lise_Kjær,Anne Lise Kjær,Radikale Venstre,1
+Rudersdal,6,Skovly,B_Kristoffer_Boye_Astrup,Kristoffer Boye Astrup,Radikale Venstre,8
+Rudersdal,6,Skovly,B_Jacob_Johannsen,Jacob Johannsen,Radikale Venstre,0
+Rudersdal,6,Skovly,B_Birgit_Gundorph-Malling,Birgit Gundorph-Malling,Radikale Venstre,2
+Rudersdal,6,Skovly,B_Anne_Damsgaard_Manniche,Anne Damsgaard Manniche,Radikale Venstre,1
+Rudersdal,6,Skovly,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,227
+Rudersdal,6,Skovly,"C_Ann_Sofie_Orth,_Gl._Holte","Ann Sofie Orth, Gl. Holte",Det Konservative Folkeparti,141
+Rudersdal,6,Skovly,"C_Christoffer_Buster_Reinhardt,Holte","Christoffer Buster Reinhardt,Holte",Det Konservative Folkeparti,132
+Rudersdal,6,Skovly,"C_Birgitte_Schjerning,_Søllerød","Birgitte Schjerning, Søllerød",Det Konservative Folkeparti,27
+Rudersdal,6,Skovly,"C_Nicola_Emily_Larsen,_Birkerød","Nicola Emily Larsen, Birkerød",Det Konservative Folkeparti,25
+Rudersdal,6,Skovly,"C_Elisabeth_Ildal,_Vedbæk","Elisabeth Ildal, Vedbæk",Det Konservative Folkeparti,17
+Rudersdal,6,Skovly,"C_Julie_Quass,_Holte","Julie Quass, Holte",Det Konservative Folkeparti,122
+Rudersdal,6,Skovly,"C_Lars_Engelberth,_Birkerød","Lars Engelberth, Birkerød",Det Konservative Folkeparti,8
+Rudersdal,6,Skovly,"C_Knud_Skadborg,_Birkerød","Knud Skadborg, Birkerød",Det Konservative Folkeparti,7
+Rudersdal,6,Skovly,"C_Alexander_Friborg,_Nærum","Alexander Friborg, Nærum",Det Konservative Folkeparti,4
+Rudersdal,6,Skovly,"C_Mikkel_Barnekow,_Høsterkøb","Mikkel Barnekow, Høsterkøb",Det Konservative Folkeparti,6
+Rudersdal,6,Skovly,"C_Peter_Lemmich,_Vedbæk","Peter Lemmich, Vedbæk",Det Konservative Folkeparti,1
+Rudersdal,6,Skovly,"C_Lars_Søndergaard-Nielsen,_Birkerød","Lars Søndergaard-Nielsen, Birkerød",Det Konservative Folkeparti,0
+Rudersdal,6,Skovly,"C_Jack_Otto_Kristensen,_Birkerød","Jack Otto Kristensen, Birkerød",Det Konservative Folkeparti,2
+Rudersdal,6,Skovly,"C_Lene_Stener,_Holte","Lene Stener, Holte",Det Konservative Folkeparti,22
+Rudersdal,6,Skovly,"C_Flemming_Møller,_Holte","Flemming Møller, Holte",Det Konservative Folkeparti,40
+Rudersdal,6,Skovly,"C_Einar_Bolt,_Skodsborg","Einar Bolt, Skodsborg",Det Konservative Folkeparti,3
+Rudersdal,6,Skovly,"C_Karen_Schousboe,_Øverød","Karen Schousboe, Øverød",Det Konservative Folkeparti,43
+Rudersdal,6,Skovly,"C_Eric_Beran,_Birkerød","Eric Beran, Birkerød",Det Konservative Folkeparti,2
+Rudersdal,6,Skovly,"C_Christian_Wix,_Nærum","Christian Wix, Nærum",Det Konservative Folkeparti,8
+Rudersdal,6,Skovly,"C_Morten_Fender,_Holte","Morten Fender, Holte",Det Konservative Folkeparti,5
+Rudersdal,6,Skovly,"C_Sune_Elvig,_Birkerød","Sune Elvig, Birkerød",Det Konservative Folkeparti,4
+Rudersdal,6,Skovly,"C_Hanne_Gerner,_Nærum","Hanne Gerner, Nærum",Det Konservative Folkeparti,5
+Rudersdal,6,Skovly,"C_Gitte_D'Arcy,_Birkerød","Gitte D'Arcy, Birkerød",Det Konservative Folkeparti,1
+Rudersdal,6,Skovly,"C_Conny_Birkholm,_Bistrup","Conny Birkholm, Bistrup",Det Konservative Folkeparti,1
+Rudersdal,6,Skovly,"C_Claus_Hjorting,_Gl.Holte","Claus Hjorting, Gl.Holte",Det Konservative Folkeparti,0
+Rudersdal,6,Skovly,"C_Henrik_Høyer-Hansen,_Øverød","Henrik Høyer-Hansen, Øverød",Det Konservative Folkeparti,11
+Rudersdal,6,Skovly,"C_Christian_Fode,_Trørød","Christian Fode, Trørød",Det Konservative Folkeparti,4
+Rudersdal,6,Skovly,D_Listestemmer,Listestemmer,Nye Borgerlige,32
+Rudersdal,6,Skovly,D_Carsten_Winther,Carsten Winther,Nye Borgerlige,24
+Rudersdal,6,Skovly,D_Jon_Fribo,Jon Fribo,Nye Borgerlige,2
+Rudersdal,6,Skovly,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,26
+Rudersdal,6,Skovly,F_Dorte_Nørbo,Dorte Nørbo,SF - Socialistisk Folkeparti,33
+Rudersdal,6,Skovly,F_Stefan_B._Skrubbeltrang,Stefan B. Skrubbeltrang,SF - Socialistisk Folkeparti,12
+Rudersdal,6,Skovly,F_Martin_Rosenkilde,Martin Rosenkilde,SF - Socialistisk Folkeparti,2
+Rudersdal,6,Skovly,F_Lotte_Gjaldbæk,Lotte Gjaldbæk,SF - Socialistisk Folkeparti,7
+Rudersdal,6,Skovly,F_Marianne_Stubbe_Østergaard,Marianne Stubbe Østergaard,SF - Socialistisk Folkeparti,6
+Rudersdal,6,Skovly,F_Kurt_Petersen,Kurt Petersen,SF - Socialistisk Folkeparti,0
+Rudersdal,6,Skovly,F_Bernt_Stubbe_Østergaard,Bernt Stubbe Østergaard,SF - Socialistisk Folkeparti,2
+Rudersdal,6,Skovly,I_Listestemmer,Listestemmer,Liberal Alliance,26
+Rudersdal,6,Skovly,"I_Lars_Holmqvist,_Høsterkøb","Lars Holmqvist, Høsterkøb",Liberal Alliance,35
+Rudersdal,6,Skovly,"I_Annette_Vendelbo,_Holte","Annette Vendelbo, Holte",Liberal Alliance,18
+Rudersdal,6,Skovly,"I_Simon_L._Skanderup,_Vedbæk","Simon L. Skanderup, Vedbæk",Liberal Alliance,1
+Rudersdal,6,Skovly,"I_Jens_Chr._Pedersen,_Vedbæk","Jens Chr. Pedersen, Vedbæk",Liberal Alliance,1
+Rudersdal,6,Skovly,"I_Lars_Stibius,_Birkerød","Lars Stibius, Birkerød",Liberal Alliance,2
+Rudersdal,6,Skovly,L_Listestemmer,Listestemmer,Lokallisten,35
+Rudersdal,6,Skovly,L_Anne_Christiansen,Anne Christiansen,Lokallisten,21
+Rudersdal,6,Skovly,L_Khaled_Mustapha,Khaled Mustapha,Lokallisten,5
+Rudersdal,6,Skovly,L_Morten_Noppenau,Morten Noppenau,Lokallisten,14
+Rudersdal,6,Skovly,L_Mona_Madsen,Mona Madsen,Lokallisten,13
+Rudersdal,6,Skovly,L_Keld_Stattau,Keld Stattau,Lokallisten,8
+Rudersdal,6,Skovly,L_Matilde_Broberg_Ekstrøm,Matilde Broberg Ekstrøm,Lokallisten,9
+Rudersdal,6,Skovly,L_Birgitte_Rasmussen,Birgitte Rasmussen,Lokallisten,0
+Rudersdal,6,Skovly,L_Luc_de_Visme,Luc de Visme,Lokallisten,3
+Rudersdal,6,Skovly,O_Listestemmer,Listestemmer,Dansk Folkeparti,3
+Rudersdal,6,Skovly,"O_Jan_Erik_Messmann,_Birkerød","Jan Erik Messmann, Birkerød",Dansk Folkeparti,0
+Rudersdal,6,Skovly,"O_Nina_Clarén,_Birkerød","Nina Clarén, Birkerød",Dansk Folkeparti,4
+Rudersdal,6,Skovly,R_Listestemmer,Listestemmer,BorgerFokus,1
+Rudersdal,6,Skovly,R_Jacob_Buhl,Jacob Buhl,BorgerFokus,1
+Rudersdal,6,Skovly,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",127
+Rudersdal,6,Skovly,"V_Jens_Ive,_Holte","Jens Ive, Holte","Venstre, Danmarks Liberale Parti",128
+Rudersdal,6,Skovly,"V_Randi_Mondorf,_Holte","Randi Mondorf, Holte","Venstre, Danmarks Liberale Parti",51
+Rudersdal,6,Skovly,"V_Jens_Darket,_Birkerød","Jens Darket, Birkerød","Venstre, Danmarks Liberale Parti",19
+Rudersdal,6,Skovly,"V_Malene_Barkhus,_Vedbæk","Malene Barkhus, Vedbæk","Venstre, Danmarks Liberale Parti",15
+Rudersdal,6,Skovly,"V_Klaus_Nørby_Jakobsen,_Birkerød","Klaus Nørby Jakobsen, Birkerød","Venstre, Danmarks Liberale Parti",2
+Rudersdal,6,Skovly,"V_Anika_Rée,_Nærum","Anika Rée, Nærum","Venstre, Danmarks Liberale Parti",7
+Rudersdal,6,Skovly,"V_Jens_Kloppenborg-Skrumsager,Vedbæk","Jens Kloppenborg-Skrumsager,Vedbæk","Venstre, Danmarks Liberale Parti",6
+Rudersdal,6,Skovly,"V_Henrik_Bach_Mortensen,_Søllerød","Henrik Bach Mortensen, Søllerød","Venstre, Danmarks Liberale Parti",2
+Rudersdal,6,Skovly,"V_Maiken_Gjerrow_Andersen,_Nærum","Maiken Gjerrow Andersen, Nærum","Venstre, Danmarks Liberale Parti",0
+Rudersdal,6,Skovly,"V_Per_Carøe,_Trørød","Per Carøe, Trørød","Venstre, Danmarks Liberale Parti",24
+Rudersdal,6,Skovly,"V_Alexander_Foged,_Holte","Alexander Foged, Holte","Venstre, Danmarks Liberale Parti",17
+Rudersdal,6,Skovly,"V_Anders_Modey,_Birkerød","Anders Modey, Birkerød","Venstre, Danmarks Liberale Parti",2
+Rudersdal,6,Skovly,"V_Sven_Kolstrup,_Bistrup","Sven Kolstrup, Bistrup","Venstre, Danmarks Liberale Parti",0
+Rudersdal,6,Skovly,"V_Lars_Neumann,_Trørød","Lars Neumann, Trørød","Venstre, Danmarks Liberale Parti",7
+Rudersdal,6,Skovly,"V_Søren_Hyldgaard,_Birkerød","Søren Hyldgaard, Birkerød","Venstre, Danmarks Liberale Parti",6
+Rudersdal,6,Skovly,"V_Ulrik_Iversen,_Søllerød","Ulrik Iversen, Søllerød","Venstre, Danmarks Liberale Parti",1
+Rudersdal,6,Skovly,"V_Niels_Bundsgaard,_Trørød","Niels Bundsgaard, Trørød","Venstre, Danmarks Liberale Parti",0
+Rudersdal,6,Skovly,"V_Karin_Vith_Ankerstjerne,_Bistrup","Karin Vith Ankerstjerne, Bistrup","Venstre, Danmarks Liberale Parti",0
+Rudersdal,6,Skovly,"V_Jesper_Winther_Andersen,_Høsterkøb","Jesper Winther Andersen, Høsterkøb","Venstre, Danmarks Liberale Parti",0
+Rudersdal,6,Skovly,"V_Esma_Birdi,_Holte","Esma Birdi, Holte","Venstre, Danmarks Liberale Parti",0
+Rudersdal,6,Skovly,"V_Peter_W._Ø._Larsen,_Birkerød","Peter W. Ø. Larsen, Birkerød","Venstre, Danmarks Liberale Parti",2
+Rudersdal,6,Skovly,"V_Ulla_Thillerup,_Nærum","Ulla Thillerup, Nærum","Venstre, Danmarks Liberale Parti",0
+Rudersdal,6,Skovly,"V_Lars_Kristensen,_Søllerød","Lars Kristensen, Søllerød","Venstre, Danmarks Liberale Parti",1
+Rudersdal,6,Skovly,"V_Morten_Munch,_Holte","Morten Munch, Holte","Venstre, Danmarks Liberale Parti",13
+Rudersdal,6,Skovly,"V_Knud_Riedel,_Skodsborg","Knud Riedel, Skodsborg","Venstre, Danmarks Liberale Parti",0
+Rudersdal,6,Skovly,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,47
+Rudersdal,6,Skovly,"Ø_Christoffer_E._Jørgensen,_Birkerød","Christoffer E. Jørgensen, Birkerød",Enhedslisten - De Rød-Grønne,14
+Rudersdal,6,Skovly,"Ø_Lisette_Jespersen,_Kajerød","Lisette Jespersen, Kajerød",Enhedslisten - De Rød-Grønne,6
+Rudersdal,6,Skovly,"Ø_Aleksandra_Maria_Spangsege,Nærum","Aleksandra Maria Spangsege,Nærum",Enhedslisten - De Rød-Grønne,5
+Rudersdal,6,Skovly,"Ø_Peter_Ussing,_Nærum","Peter Ussing, Nærum",Enhedslisten - De Rød-Grønne,1
+Rudersdal,6,Skovly,"Ø_Stine_Kærulf_Andersen,_Holte","Stine Kærulf Andersen, Holte",Enhedslisten - De Rød-Grønne,9
+Rudersdal,6,Skovly,"Ø_Vibeke_Baden_Laursen,_Skodsborg","Vibeke Baden Laursen, Skodsborg",Enhedslisten - De Rød-Grønne,3
+Rudersdal,6,Skovly,"Ø_Hanne_Nicolaisen,_Birkerød","Hanne Nicolaisen, Birkerød",Enhedslisten - De Rød-Grønne,0
+Rudersdal,6,Skovly,"Ø_Anders_Olesen,_Bistrup","Anders Olesen, Bistrup",Enhedslisten - De Rød-Grønne,0
+Rudersdal,7,Toftevang,A_Listestemmer,Listestemmer,Socialdemokratiet,181
+Rudersdal,7,Toftevang,A_Kristine_Thrane,Kristine Thrane,Socialdemokratiet,168
+Rudersdal,7,Toftevang,A_Alexander_Baadh,Alexander Baadh,Socialdemokratiet,12
+Rudersdal,7,Toftevang,A_Heidi_Højmark_Falden,Heidi Højmark Falden,Socialdemokratiet,26
+Rudersdal,7,Toftevang,A_Poul_Bach,Poul Bach,Socialdemokratiet,35
+Rudersdal,7,Toftevang,A_Anette_Maj_Billesbølle,Anette Maj Billesbølle,Socialdemokratiet,23
+Rudersdal,7,Toftevang,A_Thomas_Lesly_Rasmussen,Thomas Lesly Rasmussen,Socialdemokratiet,8
+Rudersdal,7,Toftevang,A_Mette_Poulsen,Mette Poulsen,Socialdemokratiet,6
+Rudersdal,7,Toftevang,A_Erik_Eugen_Olsen,Erik Eugen Olsen,Socialdemokratiet,64
+Rudersdal,7,Toftevang,A_John_Theil_Münster,John Theil Münster,Socialdemokratiet,1
+Rudersdal,7,Toftevang,B_Listestemmer,Listestemmer,Radikale Venstre,126
+Rudersdal,7,Toftevang,B_Court_Møller,Court Møller,Radikale Venstre,90
+Rudersdal,7,Toftevang,B_Jacob_Netteberg,Jacob Netteberg,Radikale Venstre,112
+Rudersdal,7,Toftevang,B_Christian_Elkjær,Christian Elkjær,Radikale Venstre,36
+Rudersdal,7,Toftevang,B_Nada_Naanaah,Nada Naanaah,Radikale Venstre,19
+Rudersdal,7,Toftevang,B_Mette_Stenby_Andresen,Mette Stenby Andresen,Radikale Venstre,30
+Rudersdal,7,Toftevang,B_Harald_Gade_Andersen,Harald Gade Andersen,Radikale Venstre,0
+Rudersdal,7,Toftevang,B_Anne_Lise_Kjær,Anne Lise Kjær,Radikale Venstre,10
+Rudersdal,7,Toftevang,B_Kristoffer_Boye_Astrup,Kristoffer Boye Astrup,Radikale Venstre,2
+Rudersdal,7,Toftevang,B_Jacob_Johannsen,Jacob Johannsen,Radikale Venstre,2
+Rudersdal,7,Toftevang,B_Birgit_Gundorph-Malling,Birgit Gundorph-Malling,Radikale Venstre,8
+Rudersdal,7,Toftevang,B_Anne_Damsgaard_Manniche,Anne Damsgaard Manniche,Radikale Venstre,0
+Rudersdal,7,Toftevang,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,372
+Rudersdal,7,Toftevang,"C_Ann_Sofie_Orth,_Gl._Holte","Ann Sofie Orth, Gl. Holte",Det Konservative Folkeparti,118
+Rudersdal,7,Toftevang,"C_Christoffer_Buster_Reinhardt,Holte","Christoffer Buster Reinhardt,Holte",Det Konservative Folkeparti,71
+Rudersdal,7,Toftevang,"C_Birgitte_Schjerning,_Søllerød","Birgitte Schjerning, Søllerød",Det Konservative Folkeparti,20
+Rudersdal,7,Toftevang,"C_Nicola_Emily_Larsen,_Birkerød","Nicola Emily Larsen, Birkerød",Det Konservative Folkeparti,116
+Rudersdal,7,Toftevang,"C_Elisabeth_Ildal,_Vedbæk","Elisabeth Ildal, Vedbæk",Det Konservative Folkeparti,9
+Rudersdal,7,Toftevang,"C_Julie_Quass,_Holte","Julie Quass, Holte",Det Konservative Folkeparti,88
+Rudersdal,7,Toftevang,"C_Lars_Engelberth,_Birkerød","Lars Engelberth, Birkerød",Det Konservative Folkeparti,113
+Rudersdal,7,Toftevang,"C_Knud_Skadborg,_Birkerød","Knud Skadborg, Birkerød",Det Konservative Folkeparti,31
+Rudersdal,7,Toftevang,"C_Alexander_Friborg,_Nærum","Alexander Friborg, Nærum",Det Konservative Folkeparti,6
+Rudersdal,7,Toftevang,"C_Mikkel_Barnekow,_Høsterkøb","Mikkel Barnekow, Høsterkøb",Det Konservative Folkeparti,11
+Rudersdal,7,Toftevang,"C_Peter_Lemmich,_Vedbæk","Peter Lemmich, Vedbæk",Det Konservative Folkeparti,4
+Rudersdal,7,Toftevang,"C_Lars_Søndergaard-Nielsen,_Birkerød","Lars Søndergaard-Nielsen, Birkerød",Det Konservative Folkeparti,17
+Rudersdal,7,Toftevang,"C_Jack_Otto_Kristensen,_Birkerød","Jack Otto Kristensen, Birkerød",Det Konservative Folkeparti,25
+Rudersdal,7,Toftevang,"C_Lene_Stener,_Holte","Lene Stener, Holte",Det Konservative Folkeparti,11
+Rudersdal,7,Toftevang,"C_Flemming_Møller,_Holte","Flemming Møller, Holte",Det Konservative Folkeparti,6
+Rudersdal,7,Toftevang,"C_Einar_Bolt,_Skodsborg","Einar Bolt, Skodsborg",Det Konservative Folkeparti,6
+Rudersdal,7,Toftevang,"C_Karen_Schousboe,_Øverød","Karen Schousboe, Øverød",Det Konservative Folkeparti,10
+Rudersdal,7,Toftevang,"C_Eric_Beran,_Birkerød","Eric Beran, Birkerød",Det Konservative Folkeparti,45
+Rudersdal,7,Toftevang,"C_Christian_Wix,_Nærum","Christian Wix, Nærum",Det Konservative Folkeparti,5
+Rudersdal,7,Toftevang,"C_Morten_Fender,_Holte","Morten Fender, Holte",Det Konservative Folkeparti,3
+Rudersdal,7,Toftevang,"C_Sune_Elvig,_Birkerød","Sune Elvig, Birkerød",Det Konservative Folkeparti,15
+Rudersdal,7,Toftevang,"C_Hanne_Gerner,_Nærum","Hanne Gerner, Nærum",Det Konservative Folkeparti,0
+Rudersdal,7,Toftevang,"C_Gitte_D'Arcy,_Birkerød","Gitte D'Arcy, Birkerød",Det Konservative Folkeparti,6
+Rudersdal,7,Toftevang,"C_Conny_Birkholm,_Bistrup","Conny Birkholm, Bistrup",Det Konservative Folkeparti,18
+Rudersdal,7,Toftevang,"C_Claus_Hjorting,_Gl.Holte","Claus Hjorting, Gl.Holte",Det Konservative Folkeparti,1
+Rudersdal,7,Toftevang,"C_Henrik_Høyer-Hansen,_Øverød","Henrik Høyer-Hansen, Øverød",Det Konservative Folkeparti,1
+Rudersdal,7,Toftevang,"C_Christian_Fode,_Trørød","Christian Fode, Trørød",Det Konservative Folkeparti,1
+Rudersdal,7,Toftevang,D_Listestemmer,Listestemmer,Nye Borgerlige,70
+Rudersdal,7,Toftevang,D_Carsten_Winther,Carsten Winther,Nye Borgerlige,49
+Rudersdal,7,Toftevang,D_Jon_Fribo,Jon Fribo,Nye Borgerlige,1
+Rudersdal,7,Toftevang,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,84
+Rudersdal,7,Toftevang,F_Dorte_Nørbo,Dorte Nørbo,SF - Socialistisk Folkeparti,47
+Rudersdal,7,Toftevang,F_Stefan_B._Skrubbeltrang,Stefan B. Skrubbeltrang,SF - Socialistisk Folkeparti,15
+Rudersdal,7,Toftevang,F_Martin_Rosenkilde,Martin Rosenkilde,SF - Socialistisk Folkeparti,34
+Rudersdal,7,Toftevang,F_Lotte_Gjaldbæk,Lotte Gjaldbæk,SF - Socialistisk Folkeparti,18
+Rudersdal,7,Toftevang,F_Marianne_Stubbe_Østergaard,Marianne Stubbe Østergaard,SF - Socialistisk Folkeparti,9
+Rudersdal,7,Toftevang,F_Kurt_Petersen,Kurt Petersen,SF - Socialistisk Folkeparti,4
+Rudersdal,7,Toftevang,F_Bernt_Stubbe_Østergaard,Bernt Stubbe Østergaard,SF - Socialistisk Folkeparti,6
+Rudersdal,7,Toftevang,I_Listestemmer,Listestemmer,Liberal Alliance,44
+Rudersdal,7,Toftevang,"I_Lars_Holmqvist,_Høsterkøb","Lars Holmqvist, Høsterkøb",Liberal Alliance,26
+Rudersdal,7,Toftevang,"I_Annette_Vendelbo,_Holte","Annette Vendelbo, Holte",Liberal Alliance,10
+Rudersdal,7,Toftevang,"I_Simon_L._Skanderup,_Vedbæk","Simon L. Skanderup, Vedbæk",Liberal Alliance,3
+Rudersdal,7,Toftevang,"I_Jens_Chr._Pedersen,_Vedbæk","Jens Chr. Pedersen, Vedbæk",Liberal Alliance,2
+Rudersdal,7,Toftevang,"I_Lars_Stibius,_Birkerød","Lars Stibius, Birkerød",Liberal Alliance,9
+Rudersdal,7,Toftevang,L_Listestemmer,Listestemmer,Lokallisten,179
+Rudersdal,7,Toftevang,L_Anne_Christiansen,Anne Christiansen,Lokallisten,118
+Rudersdal,7,Toftevang,L_Khaled_Mustapha,Khaled Mustapha,Lokallisten,175
+Rudersdal,7,Toftevang,L_Morten_Noppenau,Morten Noppenau,Lokallisten,60
+Rudersdal,7,Toftevang,L_Mona_Madsen,Mona Madsen,Lokallisten,85
+Rudersdal,7,Toftevang,L_Keld_Stattau,Keld Stattau,Lokallisten,13
+Rudersdal,7,Toftevang,L_Matilde_Broberg_Ekstrøm,Matilde Broberg Ekstrøm,Lokallisten,48
+Rudersdal,7,Toftevang,L_Birgitte_Rasmussen,Birgitte Rasmussen,Lokallisten,4
+Rudersdal,7,Toftevang,L_Luc_de_Visme,Luc de Visme,Lokallisten,34
+Rudersdal,7,Toftevang,O_Listestemmer,Listestemmer,Dansk Folkeparti,30
+Rudersdal,7,Toftevang,"O_Jan_Erik_Messmann,_Birkerød","Jan Erik Messmann, Birkerød",Dansk Folkeparti,13
+Rudersdal,7,Toftevang,"O_Nina_Clarén,_Birkerød","Nina Clarén, Birkerød",Dansk Folkeparti,18
+Rudersdal,7,Toftevang,R_Listestemmer,Listestemmer,BorgerFokus,2
+Rudersdal,7,Toftevang,R_Jacob_Buhl,Jacob Buhl,BorgerFokus,24
+Rudersdal,7,Toftevang,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",178
+Rudersdal,7,Toftevang,"V_Jens_Ive,_Holte","Jens Ive, Holte","Venstre, Danmarks Liberale Parti",198
+Rudersdal,7,Toftevang,"V_Randi_Mondorf,_Holte","Randi Mondorf, Holte","Venstre, Danmarks Liberale Parti",73
+Rudersdal,7,Toftevang,"V_Jens_Darket,_Birkerød","Jens Darket, Birkerød","Venstre, Danmarks Liberale Parti",49
+Rudersdal,7,Toftevang,"V_Malene_Barkhus,_Vedbæk","Malene Barkhus, Vedbæk","Venstre, Danmarks Liberale Parti",36
+Rudersdal,7,Toftevang,"V_Klaus_Nørby_Jakobsen,_Birkerød","Klaus Nørby Jakobsen, Birkerød","Venstre, Danmarks Liberale Parti",50
+Rudersdal,7,Toftevang,"V_Anika_Rée,_Nærum","Anika Rée, Nærum","Venstre, Danmarks Liberale Parti",9
+Rudersdal,7,Toftevang,"V_Jens_Kloppenborg-Skrumsager,Vedbæk","Jens Kloppenborg-Skrumsager,Vedbæk","Venstre, Danmarks Liberale Parti",11
+Rudersdal,7,Toftevang,"V_Henrik_Bach_Mortensen,_Søllerød","Henrik Bach Mortensen, Søllerød","Venstre, Danmarks Liberale Parti",1
+Rudersdal,7,Toftevang,"V_Maiken_Gjerrow_Andersen,_Nærum","Maiken Gjerrow Andersen, Nærum","Venstre, Danmarks Liberale Parti",3
+Rudersdal,7,Toftevang,"V_Per_Carøe,_Trørød","Per Carøe, Trørød","Venstre, Danmarks Liberale Parti",6
+Rudersdal,7,Toftevang,"V_Alexander_Foged,_Holte","Alexander Foged, Holte","Venstre, Danmarks Liberale Parti",10
+Rudersdal,7,Toftevang,"V_Anders_Modey,_Birkerød","Anders Modey, Birkerød","Venstre, Danmarks Liberale Parti",25
+Rudersdal,7,Toftevang,"V_Sven_Kolstrup,_Bistrup","Sven Kolstrup, Bistrup","Venstre, Danmarks Liberale Parti",25
+Rudersdal,7,Toftevang,"V_Lars_Neumann,_Trørød","Lars Neumann, Trørød","Venstre, Danmarks Liberale Parti",3
+Rudersdal,7,Toftevang,"V_Søren_Hyldgaard,_Birkerød","Søren Hyldgaard, Birkerød","Venstre, Danmarks Liberale Parti",134
+Rudersdal,7,Toftevang,"V_Ulrik_Iversen,_Søllerød","Ulrik Iversen, Søllerød","Venstre, Danmarks Liberale Parti",1
+Rudersdal,7,Toftevang,"V_Niels_Bundsgaard,_Trørød","Niels Bundsgaard, Trørød","Venstre, Danmarks Liberale Parti",0
+Rudersdal,7,Toftevang,"V_Karin_Vith_Ankerstjerne,_Bistrup","Karin Vith Ankerstjerne, Bistrup","Venstre, Danmarks Liberale Parti",8
+Rudersdal,7,Toftevang,"V_Jesper_Winther_Andersen,_Høsterkøb","Jesper Winther Andersen, Høsterkøb","Venstre, Danmarks Liberale Parti",9
+Rudersdal,7,Toftevang,"V_Esma_Birdi,_Holte","Esma Birdi, Holte","Venstre, Danmarks Liberale Parti",0
+Rudersdal,7,Toftevang,"V_Peter_W._Ø._Larsen,_Birkerød","Peter W. Ø. Larsen, Birkerød","Venstre, Danmarks Liberale Parti",11
+Rudersdal,7,Toftevang,"V_Ulla_Thillerup,_Nærum","Ulla Thillerup, Nærum","Venstre, Danmarks Liberale Parti",0
+Rudersdal,7,Toftevang,"V_Lars_Kristensen,_Søllerød","Lars Kristensen, Søllerød","Venstre, Danmarks Liberale Parti",0
+Rudersdal,7,Toftevang,"V_Morten_Munch,_Holte","Morten Munch, Holte","Venstre, Danmarks Liberale Parti",3
+Rudersdal,7,Toftevang,"V_Knud_Riedel,_Skodsborg","Knud Riedel, Skodsborg","Venstre, Danmarks Liberale Parti",0
+Rudersdal,7,Toftevang,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,124
+Rudersdal,7,Toftevang,"Ø_Christoffer_E._Jørgensen,_Birkerød","Christoffer E. Jørgensen, Birkerød",Enhedslisten - De Rød-Grønne,123
+Rudersdal,7,Toftevang,"Ø_Lisette_Jespersen,_Kajerød","Lisette Jespersen, Kajerød",Enhedslisten - De Rød-Grønne,33
+Rudersdal,7,Toftevang,"Ø_Aleksandra_Maria_Spangsege,Nærum","Aleksandra Maria Spangsege,Nærum",Enhedslisten - De Rød-Grønne,19
+Rudersdal,7,Toftevang,"Ø_Peter_Ussing,_Nærum","Peter Ussing, Nærum",Enhedslisten - De Rød-Grønne,2
+Rudersdal,7,Toftevang,"Ø_Stine_Kærulf_Andersen,_Holte","Stine Kærulf Andersen, Holte",Enhedslisten - De Rød-Grønne,21
+Rudersdal,7,Toftevang,"Ø_Vibeke_Baden_Laursen,_Skodsborg","Vibeke Baden Laursen, Skodsborg",Enhedslisten - De Rød-Grønne,1
+Rudersdal,7,Toftevang,"Ø_Hanne_Nicolaisen,_Birkerød","Hanne Nicolaisen, Birkerød",Enhedslisten - De Rød-Grønne,19
+Rudersdal,7,Toftevang,"Ø_Anders_Olesen,_Bistrup","Anders Olesen, Bistrup",Enhedslisten - De Rød-Grønne,8
+Rudersdal,8,Trørød,A_Listestemmer,Listestemmer,Socialdemokratiet,135
+Rudersdal,8,Trørød,A_Kristine_Thrane,Kristine Thrane,Socialdemokratiet,89
+Rudersdal,8,Trørød,A_Alexander_Baadh,Alexander Baadh,Socialdemokratiet,16
+Rudersdal,8,Trørød,A_Heidi_Højmark_Falden,Heidi Højmark Falden,Socialdemokratiet,6
+Rudersdal,8,Trørød,A_Poul_Bach,Poul Bach,Socialdemokratiet,13
+Rudersdal,8,Trørød,A_Anette_Maj_Billesbølle,Anette Maj Billesbølle,Socialdemokratiet,35
+Rudersdal,8,Trørød,A_Thomas_Lesly_Rasmussen,Thomas Lesly Rasmussen,Socialdemokratiet,107
+Rudersdal,8,Trørød,A_Mette_Poulsen,Mette Poulsen,Socialdemokratiet,6
+Rudersdal,8,Trørød,A_Erik_Eugen_Olsen,Erik Eugen Olsen,Socialdemokratiet,2
+Rudersdal,8,Trørød,A_John_Theil_Münster,John Theil Münster,Socialdemokratiet,0
+Rudersdal,8,Trørød,B_Listestemmer,Listestemmer,Radikale Venstre,82
+Rudersdal,8,Trørød,B_Court_Møller,Court Møller,Radikale Venstre,36
+Rudersdal,8,Trørød,B_Jacob_Netteberg,Jacob Netteberg,Radikale Venstre,24
+Rudersdal,8,Trørød,B_Christian_Elkjær,Christian Elkjær,Radikale Venstre,12
+Rudersdal,8,Trørød,B_Nada_Naanaah,Nada Naanaah,Radikale Venstre,28
+Rudersdal,8,Trørød,B_Mette_Stenby_Andresen,Mette Stenby Andresen,Radikale Venstre,25
+Rudersdal,8,Trørød,B_Harald_Gade_Andersen,Harald Gade Andersen,Radikale Venstre,1
+Rudersdal,8,Trørød,B_Anne_Lise_Kjær,Anne Lise Kjær,Radikale Venstre,6
+Rudersdal,8,Trørød,B_Kristoffer_Boye_Astrup,Kristoffer Boye Astrup,Radikale Venstre,4
+Rudersdal,8,Trørød,B_Jacob_Johannsen,Jacob Johannsen,Radikale Venstre,1
+Rudersdal,8,Trørød,B_Birgit_Gundorph-Malling,Birgit Gundorph-Malling,Radikale Venstre,8
+Rudersdal,8,Trørød,B_Anne_Damsgaard_Manniche,Anne Damsgaard Manniche,Radikale Venstre,1
+Rudersdal,8,Trørød,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,362
+Rudersdal,8,Trørød,"C_Ann_Sofie_Orth,_Gl._Holte","Ann Sofie Orth, Gl. Holte",Det Konservative Folkeparti,231
+Rudersdal,8,Trørød,"C_Christoffer_Buster_Reinhardt,Holte","Christoffer Buster Reinhardt,Holte",Det Konservative Folkeparti,140
+Rudersdal,8,Trørød,"C_Birgitte_Schjerning,_Søllerød","Birgitte Schjerning, Søllerød",Det Konservative Folkeparti,52
+Rudersdal,8,Trørød,"C_Nicola_Emily_Larsen,_Birkerød","Nicola Emily Larsen, Birkerød",Det Konservative Folkeparti,26
+Rudersdal,8,Trørød,"C_Elisabeth_Ildal,_Vedbæk","Elisabeth Ildal, Vedbæk",Det Konservative Folkeparti,38
+Rudersdal,8,Trørød,"C_Julie_Quass,_Holte","Julie Quass, Holte",Det Konservative Folkeparti,65
+Rudersdal,8,Trørød,"C_Lars_Engelberth,_Birkerød","Lars Engelberth, Birkerød",Det Konservative Folkeparti,2
+Rudersdal,8,Trørød,"C_Knud_Skadborg,_Birkerød","Knud Skadborg, Birkerød",Det Konservative Folkeparti,4
+Rudersdal,8,Trørød,"C_Alexander_Friborg,_Nærum","Alexander Friborg, Nærum",Det Konservative Folkeparti,15
+Rudersdal,8,Trørød,"C_Mikkel_Barnekow,_Høsterkøb","Mikkel Barnekow, Høsterkøb",Det Konservative Folkeparti,13
+Rudersdal,8,Trørød,"C_Peter_Lemmich,_Vedbæk","Peter Lemmich, Vedbæk",Det Konservative Folkeparti,18
+Rudersdal,8,Trørød,"C_Lars_Søndergaard-Nielsen,_Birkerød","Lars Søndergaard-Nielsen, Birkerød",Det Konservative Folkeparti,0
+Rudersdal,8,Trørød,"C_Jack_Otto_Kristensen,_Birkerød","Jack Otto Kristensen, Birkerød",Det Konservative Folkeparti,2
+Rudersdal,8,Trørød,"C_Lene_Stener,_Holte","Lene Stener, Holte",Det Konservative Folkeparti,5
+Rudersdal,8,Trørød,"C_Flemming_Møller,_Holte","Flemming Møller, Holte",Det Konservative Folkeparti,10
+Rudersdal,8,Trørød,"C_Einar_Bolt,_Skodsborg","Einar Bolt, Skodsborg",Det Konservative Folkeparti,8
+Rudersdal,8,Trørød,"C_Karen_Schousboe,_Øverød","Karen Schousboe, Øverød",Det Konservative Folkeparti,10
+Rudersdal,8,Trørød,"C_Eric_Beran,_Birkerød","Eric Beran, Birkerød",Det Konservative Folkeparti,1
+Rudersdal,8,Trørød,"C_Christian_Wix,_Nærum","Christian Wix, Nærum",Det Konservative Folkeparti,8
+Rudersdal,8,Trørød,"C_Morten_Fender,_Holte","Morten Fender, Holte",Det Konservative Folkeparti,3
+Rudersdal,8,Trørød,"C_Sune_Elvig,_Birkerød","Sune Elvig, Birkerød",Det Konservative Folkeparti,5
+Rudersdal,8,Trørød,"C_Hanne_Gerner,_Nærum","Hanne Gerner, Nærum",Det Konservative Folkeparti,3
+Rudersdal,8,Trørød,"C_Gitte_D'Arcy,_Birkerød","Gitte D'Arcy, Birkerød",Det Konservative Folkeparti,1
+Rudersdal,8,Trørød,"C_Conny_Birkholm,_Bistrup","Conny Birkholm, Bistrup",Det Konservative Folkeparti,0
+Rudersdal,8,Trørød,"C_Claus_Hjorting,_Gl.Holte","Claus Hjorting, Gl.Holte",Det Konservative Folkeparti,15
+Rudersdal,8,Trørød,"C_Henrik_Høyer-Hansen,_Øverød","Henrik Høyer-Hansen, Øverød",Det Konservative Folkeparti,2
+Rudersdal,8,Trørød,"C_Christian_Fode,_Trørød","Christian Fode, Trørød",Det Konservative Folkeparti,77
+Rudersdal,8,Trørød,D_Listestemmer,Listestemmer,Nye Borgerlige,43
+Rudersdal,8,Trørød,D_Carsten_Winther,Carsten Winther,Nye Borgerlige,46
+Rudersdal,8,Trørød,D_Jon_Fribo,Jon Fribo,Nye Borgerlige,7
+Rudersdal,8,Trørød,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,60
+Rudersdal,8,Trørød,F_Dorte_Nørbo,Dorte Nørbo,SF - Socialistisk Folkeparti,44
+Rudersdal,8,Trørød,F_Stefan_B._Skrubbeltrang,Stefan B. Skrubbeltrang,SF - Socialistisk Folkeparti,6
+Rudersdal,8,Trørød,F_Martin_Rosenkilde,Martin Rosenkilde,SF - Socialistisk Folkeparti,6
+Rudersdal,8,Trørød,F_Lotte_Gjaldbæk,Lotte Gjaldbæk,SF - Socialistisk Folkeparti,10
+Rudersdal,8,Trørød,F_Marianne_Stubbe_Østergaard,Marianne Stubbe Østergaard,SF - Socialistisk Folkeparti,10
+Rudersdal,8,Trørød,F_Kurt_Petersen,Kurt Petersen,SF - Socialistisk Folkeparti,3
+Rudersdal,8,Trørød,F_Bernt_Stubbe_Østergaard,Bernt Stubbe Østergaard,SF - Socialistisk Folkeparti,3
+Rudersdal,8,Trørød,I_Listestemmer,Listestemmer,Liberal Alliance,43
+Rudersdal,8,Trørød,"I_Lars_Holmqvist,_Høsterkøb","Lars Holmqvist, Høsterkøb",Liberal Alliance,31
+Rudersdal,8,Trørød,"I_Annette_Vendelbo,_Holte","Annette Vendelbo, Holte",Liberal Alliance,12
+Rudersdal,8,Trørød,"I_Simon_L._Skanderup,_Vedbæk","Simon L. Skanderup, Vedbæk",Liberal Alliance,12
+Rudersdal,8,Trørød,"I_Jens_Chr._Pedersen,_Vedbæk","Jens Chr. Pedersen, Vedbæk",Liberal Alliance,3
+Rudersdal,8,Trørød,"I_Lars_Stibius,_Birkerød","Lars Stibius, Birkerød",Liberal Alliance,2
+Rudersdal,8,Trørød,L_Listestemmer,Listestemmer,Lokallisten,38
+Rudersdal,8,Trørød,L_Anne_Christiansen,Anne Christiansen,Lokallisten,25
+Rudersdal,8,Trørød,L_Khaled_Mustapha,Khaled Mustapha,Lokallisten,11
+Rudersdal,8,Trørød,L_Morten_Noppenau,Morten Noppenau,Lokallisten,14
+Rudersdal,8,Trørød,L_Mona_Madsen,Mona Madsen,Lokallisten,13
+Rudersdal,8,Trørød,L_Keld_Stattau,Keld Stattau,Lokallisten,4
+Rudersdal,8,Trørød,L_Matilde_Broberg_Ekstrøm,Matilde Broberg Ekstrøm,Lokallisten,10
+Rudersdal,8,Trørød,L_Birgitte_Rasmussen,Birgitte Rasmussen,Lokallisten,0
+Rudersdal,8,Trørød,L_Luc_de_Visme,Luc de Visme,Lokallisten,5
+Rudersdal,8,Trørød,O_Listestemmer,Listestemmer,Dansk Folkeparti,16
+Rudersdal,8,Trørød,"O_Jan_Erik_Messmann,_Birkerød","Jan Erik Messmann, Birkerød",Dansk Folkeparti,7
+Rudersdal,8,Trørød,"O_Nina_Clarén,_Birkerød","Nina Clarén, Birkerød",Dansk Folkeparti,8
+Rudersdal,8,Trørød,R_Listestemmer,Listestemmer,BorgerFokus,1
+Rudersdal,8,Trørød,R_Jacob_Buhl,Jacob Buhl,BorgerFokus,5
+Rudersdal,8,Trørød,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",206
+Rudersdal,8,Trørød,"V_Jens_Ive,_Holte","Jens Ive, Holte","Venstre, Danmarks Liberale Parti",250
+Rudersdal,8,Trørød,"V_Randi_Mondorf,_Holte","Randi Mondorf, Holte","Venstre, Danmarks Liberale Parti",60
+Rudersdal,8,Trørød,"V_Jens_Darket,_Birkerød","Jens Darket, Birkerød","Venstre, Danmarks Liberale Parti",8
+Rudersdal,8,Trørød,"V_Malene_Barkhus,_Vedbæk","Malene Barkhus, Vedbæk","Venstre, Danmarks Liberale Parti",44
+Rudersdal,8,Trørød,"V_Klaus_Nørby_Jakobsen,_Birkerød","Klaus Nørby Jakobsen, Birkerød","Venstre, Danmarks Liberale Parti",2
+Rudersdal,8,Trørød,"V_Anika_Rée,_Nærum","Anika Rée, Nærum","Venstre, Danmarks Liberale Parti",39
+Rudersdal,8,Trørød,"V_Jens_Kloppenborg-Skrumsager,Vedbæk","Jens Kloppenborg-Skrumsager,Vedbæk","Venstre, Danmarks Liberale Parti",32
+Rudersdal,8,Trørød,"V_Henrik_Bach_Mortensen,_Søllerød","Henrik Bach Mortensen, Søllerød","Venstre, Danmarks Liberale Parti",3
+Rudersdal,8,Trørød,"V_Maiken_Gjerrow_Andersen,_Nærum","Maiken Gjerrow Andersen, Nærum","Venstre, Danmarks Liberale Parti",11
+Rudersdal,8,Trørød,"V_Per_Carøe,_Trørød","Per Carøe, Trørød","Venstre, Danmarks Liberale Parti",101
+Rudersdal,8,Trørød,"V_Alexander_Foged,_Holte","Alexander Foged, Holte","Venstre, Danmarks Liberale Parti",8
+Rudersdal,8,Trørød,"V_Anders_Modey,_Birkerød","Anders Modey, Birkerød","Venstre, Danmarks Liberale Parti",1
+Rudersdal,8,Trørød,"V_Sven_Kolstrup,_Bistrup","Sven Kolstrup, Bistrup","Venstre, Danmarks Liberale Parti",5
+Rudersdal,8,Trørød,"V_Lars_Neumann,_Trørød","Lars Neumann, Trørød","Venstre, Danmarks Liberale Parti",25
+Rudersdal,8,Trørød,"V_Søren_Hyldgaard,_Birkerød","Søren Hyldgaard, Birkerød","Venstre, Danmarks Liberale Parti",8
+Rudersdal,8,Trørød,"V_Ulrik_Iversen,_Søllerød","Ulrik Iversen, Søllerød","Venstre, Danmarks Liberale Parti",6
+Rudersdal,8,Trørød,"V_Niels_Bundsgaard,_Trørød","Niels Bundsgaard, Trørød","Venstre, Danmarks Liberale Parti",5
+Rudersdal,8,Trørød,"V_Karin_Vith_Ankerstjerne,_Bistrup","Karin Vith Ankerstjerne, Bistrup","Venstre, Danmarks Liberale Parti",0
+Rudersdal,8,Trørød,"V_Jesper_Winther_Andersen,_Høsterkøb","Jesper Winther Andersen, Høsterkøb","Venstre, Danmarks Liberale Parti",3
+Rudersdal,8,Trørød,"V_Esma_Birdi,_Holte","Esma Birdi, Holte","Venstre, Danmarks Liberale Parti",1
+Rudersdal,8,Trørød,"V_Peter_W._Ø._Larsen,_Birkerød","Peter W. Ø. Larsen, Birkerød","Venstre, Danmarks Liberale Parti",0
+Rudersdal,8,Trørød,"V_Ulla_Thillerup,_Nærum","Ulla Thillerup, Nærum","Venstre, Danmarks Liberale Parti",16
+Rudersdal,8,Trørød,"V_Lars_Kristensen,_Søllerød","Lars Kristensen, Søllerød","Venstre, Danmarks Liberale Parti",3
+Rudersdal,8,Trørød,"V_Morten_Munch,_Holte","Morten Munch, Holte","Venstre, Danmarks Liberale Parti",3
+Rudersdal,8,Trørød,"V_Knud_Riedel,_Skodsborg","Knud Riedel, Skodsborg","Venstre, Danmarks Liberale Parti",0
+Rudersdal,8,Trørød,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,59
+Rudersdal,8,Trørød,"Ø_Christoffer_E._Jørgensen,_Birkerød","Christoffer E. Jørgensen, Birkerød",Enhedslisten - De Rød-Grønne,22
+Rudersdal,8,Trørød,"Ø_Lisette_Jespersen,_Kajerød","Lisette Jespersen, Kajerød",Enhedslisten - De Rød-Grønne,9
+Rudersdal,8,Trørød,"Ø_Aleksandra_Maria_Spangsege,Nærum","Aleksandra Maria Spangsege,Nærum",Enhedslisten - De Rød-Grønne,9
+Rudersdal,8,Trørød,"Ø_Peter_Ussing,_Nærum","Peter Ussing, Nærum",Enhedslisten - De Rød-Grønne,5
+Rudersdal,8,Trørød,"Ø_Stine_Kærulf_Andersen,_Holte","Stine Kærulf Andersen, Holte",Enhedslisten - De Rød-Grønne,11
+Rudersdal,8,Trørød,"Ø_Vibeke_Baden_Laursen,_Skodsborg","Vibeke Baden Laursen, Skodsborg",Enhedslisten - De Rød-Grønne,4
+Rudersdal,8,Trørød,"Ø_Hanne_Nicolaisen,_Birkerød","Hanne Nicolaisen, Birkerød",Enhedslisten - De Rød-Grønne,2
+Rudersdal,8,Trørød,"Ø_Anders_Olesen,_Bistrup","Anders Olesen, Bistrup",Enhedslisten - De Rød-Grønne,0
+Rudersdal,9,Vangebo,A_Listestemmer,Listestemmer,Socialdemokratiet,56
+Rudersdal,9,Vangebo,A_Kristine_Thrane,Kristine Thrane,Socialdemokratiet,56
+Rudersdal,9,Vangebo,A_Alexander_Baadh,Alexander Baadh,Socialdemokratiet,5
+Rudersdal,9,Vangebo,A_Heidi_Højmark_Falden,Heidi Højmark Falden,Socialdemokratiet,5
+Rudersdal,9,Vangebo,A_Poul_Bach,Poul Bach,Socialdemokratiet,1
+Rudersdal,9,Vangebo,A_Anette_Maj_Billesbølle,Anette Maj Billesbølle,Socialdemokratiet,9
+Rudersdal,9,Vangebo,A_Thomas_Lesly_Rasmussen,Thomas Lesly Rasmussen,Socialdemokratiet,7
+Rudersdal,9,Vangebo,A_Mette_Poulsen,Mette Poulsen,Socialdemokratiet,6
+Rudersdal,9,Vangebo,A_Erik_Eugen_Olsen,Erik Eugen Olsen,Socialdemokratiet,0
+Rudersdal,9,Vangebo,A_John_Theil_Münster,John Theil Münster,Socialdemokratiet,0
+Rudersdal,9,Vangebo,B_Listestemmer,Listestemmer,Radikale Venstre,77
+Rudersdal,9,Vangebo,B_Court_Møller,Court Møller,Radikale Venstre,23
+Rudersdal,9,Vangebo,B_Jacob_Netteberg,Jacob Netteberg,Radikale Venstre,27
+Rudersdal,9,Vangebo,B_Christian_Elkjær,Christian Elkjær,Radikale Venstre,17
+Rudersdal,9,Vangebo,B_Nada_Naanaah,Nada Naanaah,Radikale Venstre,12
+Rudersdal,9,Vangebo,B_Mette_Stenby_Andresen,Mette Stenby Andresen,Radikale Venstre,10
+Rudersdal,9,Vangebo,B_Harald_Gade_Andersen,Harald Gade Andersen,Radikale Venstre,1
+Rudersdal,9,Vangebo,B_Anne_Lise_Kjær,Anne Lise Kjær,Radikale Venstre,5
+Rudersdal,9,Vangebo,B_Kristoffer_Boye_Astrup,Kristoffer Boye Astrup,Radikale Venstre,1
+Rudersdal,9,Vangebo,B_Jacob_Johannsen,Jacob Johannsen,Radikale Venstre,3
+Rudersdal,9,Vangebo,B_Birgit_Gundorph-Malling,Birgit Gundorph-Malling,Radikale Venstre,2
+Rudersdal,9,Vangebo,B_Anne_Damsgaard_Manniche,Anne Damsgaard Manniche,Radikale Venstre,0
+Rudersdal,9,Vangebo,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,310
+Rudersdal,9,Vangebo,"C_Ann_Sofie_Orth,_Gl._Holte","Ann Sofie Orth, Gl. Holte",Det Konservative Folkeparti,157
+Rudersdal,9,Vangebo,"C_Christoffer_Buster_Reinhardt,Holte","Christoffer Buster Reinhardt,Holte",Det Konservative Folkeparti,137
+Rudersdal,9,Vangebo,"C_Birgitte_Schjerning,_Søllerød","Birgitte Schjerning, Søllerød",Det Konservative Folkeparti,100
+Rudersdal,9,Vangebo,"C_Nicola_Emily_Larsen,_Birkerød","Nicola Emily Larsen, Birkerød",Det Konservative Folkeparti,31
+Rudersdal,9,Vangebo,"C_Elisabeth_Ildal,_Vedbæk","Elisabeth Ildal, Vedbæk",Det Konservative Folkeparti,17
+Rudersdal,9,Vangebo,"C_Julie_Quass,_Holte","Julie Quass, Holte",Det Konservative Folkeparti,82
+Rudersdal,9,Vangebo,"C_Lars_Engelberth,_Birkerød","Lars Engelberth, Birkerød",Det Konservative Folkeparti,4
+Rudersdal,9,Vangebo,"C_Knud_Skadborg,_Birkerød","Knud Skadborg, Birkerød",Det Konservative Folkeparti,4
+Rudersdal,9,Vangebo,"C_Alexander_Friborg,_Nærum","Alexander Friborg, Nærum",Det Konservative Folkeparti,28
+Rudersdal,9,Vangebo,"C_Mikkel_Barnekow,_Høsterkøb","Mikkel Barnekow, Høsterkøb",Det Konservative Folkeparti,4
+Rudersdal,9,Vangebo,"C_Peter_Lemmich,_Vedbæk","Peter Lemmich, Vedbæk",Det Konservative Folkeparti,6
+Rudersdal,9,Vangebo,"C_Lars_Søndergaard-Nielsen,_Birkerød","Lars Søndergaard-Nielsen, Birkerød",Det Konservative Folkeparti,0
+Rudersdal,9,Vangebo,"C_Jack_Otto_Kristensen,_Birkerød","Jack Otto Kristensen, Birkerød",Det Konservative Folkeparti,0
+Rudersdal,9,Vangebo,"C_Lene_Stener,_Holte","Lene Stener, Holte",Det Konservative Folkeparti,5
+Rudersdal,9,Vangebo,"C_Flemming_Møller,_Holte","Flemming Møller, Holte",Det Konservative Folkeparti,36
+Rudersdal,9,Vangebo,"C_Einar_Bolt,_Skodsborg","Einar Bolt, Skodsborg",Det Konservative Folkeparti,20
+Rudersdal,9,Vangebo,"C_Karen_Schousboe,_Øverød","Karen Schousboe, Øverød",Det Konservative Folkeparti,11
+Rudersdal,9,Vangebo,"C_Eric_Beran,_Birkerød","Eric Beran, Birkerød",Det Konservative Folkeparti,2
+Rudersdal,9,Vangebo,"C_Christian_Wix,_Nærum","Christian Wix, Nærum",Det Konservative Folkeparti,32
+Rudersdal,9,Vangebo,"C_Morten_Fender,_Holte","Morten Fender, Holte",Det Konservative Folkeparti,12
+Rudersdal,9,Vangebo,"C_Sune_Elvig,_Birkerød","Sune Elvig, Birkerød",Det Konservative Folkeparti,1
+Rudersdal,9,Vangebo,"C_Hanne_Gerner,_Nærum","Hanne Gerner, Nærum",Det Konservative Folkeparti,1
+Rudersdal,9,Vangebo,"C_Gitte_D'Arcy,_Birkerød","Gitte D'Arcy, Birkerød",Det Konservative Folkeparti,0
+Rudersdal,9,Vangebo,"C_Conny_Birkholm,_Bistrup","Conny Birkholm, Bistrup",Det Konservative Folkeparti,0
+Rudersdal,9,Vangebo,"C_Claus_Hjorting,_Gl.Holte","Claus Hjorting, Gl.Holte",Det Konservative Folkeparti,4
+Rudersdal,9,Vangebo,"C_Henrik_Høyer-Hansen,_Øverød","Henrik Høyer-Hansen, Øverød",Det Konservative Folkeparti,3
+Rudersdal,9,Vangebo,"C_Christian_Fode,_Trørød","Christian Fode, Trørød",Det Konservative Folkeparti,3
+Rudersdal,9,Vangebo,D_Listestemmer,Listestemmer,Nye Borgerlige,30
+Rudersdal,9,Vangebo,D_Carsten_Winther,Carsten Winther,Nye Borgerlige,19
+Rudersdal,9,Vangebo,D_Jon_Fribo,Jon Fribo,Nye Borgerlige,4
+Rudersdal,9,Vangebo,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,38
+Rudersdal,9,Vangebo,F_Dorte_Nørbo,Dorte Nørbo,SF - Socialistisk Folkeparti,26
+Rudersdal,9,Vangebo,F_Stefan_B._Skrubbeltrang,Stefan B. Skrubbeltrang,SF - Socialistisk Folkeparti,17
+Rudersdal,9,Vangebo,F_Martin_Rosenkilde,Martin Rosenkilde,SF - Socialistisk Folkeparti,2
+Rudersdal,9,Vangebo,F_Lotte_Gjaldbæk,Lotte Gjaldbæk,SF - Socialistisk Folkeparti,8
+Rudersdal,9,Vangebo,F_Marianne_Stubbe_Østergaard,Marianne Stubbe Østergaard,SF - Socialistisk Folkeparti,1
+Rudersdal,9,Vangebo,F_Kurt_Petersen,Kurt Petersen,SF - Socialistisk Folkeparti,8
+Rudersdal,9,Vangebo,F_Bernt_Stubbe_Østergaard,Bernt Stubbe Østergaard,SF - Socialistisk Folkeparti,0
+Rudersdal,9,Vangebo,I_Listestemmer,Listestemmer,Liberal Alliance,34
+Rudersdal,9,Vangebo,"I_Lars_Holmqvist,_Høsterkøb","Lars Holmqvist, Høsterkøb",Liberal Alliance,22
+Rudersdal,9,Vangebo,"I_Annette_Vendelbo,_Holte","Annette Vendelbo, Holte",Liberal Alliance,19
+Rudersdal,9,Vangebo,"I_Simon_L._Skanderup,_Vedbæk","Simon L. Skanderup, Vedbæk",Liberal Alliance,8
+Rudersdal,9,Vangebo,"I_Jens_Chr._Pedersen,_Vedbæk","Jens Chr. Pedersen, Vedbæk",Liberal Alliance,3
+Rudersdal,9,Vangebo,"I_Lars_Stibius,_Birkerød","Lars Stibius, Birkerød",Liberal Alliance,2
+Rudersdal,9,Vangebo,L_Listestemmer,Listestemmer,Lokallisten,22
+Rudersdal,9,Vangebo,L_Anne_Christiansen,Anne Christiansen,Lokallisten,20
+Rudersdal,9,Vangebo,L_Khaled_Mustapha,Khaled Mustapha,Lokallisten,3
+Rudersdal,9,Vangebo,L_Morten_Noppenau,Morten Noppenau,Lokallisten,18
+Rudersdal,9,Vangebo,L_Mona_Madsen,Mona Madsen,Lokallisten,9
+Rudersdal,9,Vangebo,L_Keld_Stattau,Keld Stattau,Lokallisten,7
+Rudersdal,9,Vangebo,L_Matilde_Broberg_Ekstrøm,Matilde Broberg Ekstrøm,Lokallisten,3
+Rudersdal,9,Vangebo,L_Birgitte_Rasmussen,Birgitte Rasmussen,Lokallisten,1
+Rudersdal,9,Vangebo,L_Luc_de_Visme,Luc de Visme,Lokallisten,2
+Rudersdal,9,Vangebo,O_Listestemmer,Listestemmer,Dansk Folkeparti,11
+Rudersdal,9,Vangebo,"O_Jan_Erik_Messmann,_Birkerød","Jan Erik Messmann, Birkerød",Dansk Folkeparti,4
+Rudersdal,9,Vangebo,"O_Nina_Clarén,_Birkerød","Nina Clarén, Birkerød",Dansk Folkeparti,2
+Rudersdal,9,Vangebo,R_Listestemmer,Listestemmer,BorgerFokus,0
+Rudersdal,9,Vangebo,R_Jacob_Buhl,Jacob Buhl,BorgerFokus,8
+Rudersdal,9,Vangebo,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",155
+Rudersdal,9,Vangebo,"V_Jens_Ive,_Holte","Jens Ive, Holte","Venstre, Danmarks Liberale Parti",202
+Rudersdal,9,Vangebo,"V_Randi_Mondorf,_Holte","Randi Mondorf, Holte","Venstre, Danmarks Liberale Parti",50
+Rudersdal,9,Vangebo,"V_Jens_Darket,_Birkerød","Jens Darket, Birkerød","Venstre, Danmarks Liberale Parti",21
+Rudersdal,9,Vangebo,"V_Malene_Barkhus,_Vedbæk","Malene Barkhus, Vedbæk","Venstre, Danmarks Liberale Parti",25
+Rudersdal,9,Vangebo,"V_Klaus_Nørby_Jakobsen,_Birkerød","Klaus Nørby Jakobsen, Birkerød","Venstre, Danmarks Liberale Parti",2
+Rudersdal,9,Vangebo,"V_Anika_Rée,_Nærum","Anika Rée, Nærum","Venstre, Danmarks Liberale Parti",12
+Rudersdal,9,Vangebo,"V_Jens_Kloppenborg-Skrumsager,Vedbæk","Jens Kloppenborg-Skrumsager,Vedbæk","Venstre, Danmarks Liberale Parti",10
+Rudersdal,9,Vangebo,"V_Henrik_Bach_Mortensen,_Søllerød","Henrik Bach Mortensen, Søllerød","Venstre, Danmarks Liberale Parti",29
+Rudersdal,9,Vangebo,"V_Maiken_Gjerrow_Andersen,_Nærum","Maiken Gjerrow Andersen, Nærum","Venstre, Danmarks Liberale Parti",9
+Rudersdal,9,Vangebo,"V_Per_Carøe,_Trørød","Per Carøe, Trørød","Venstre, Danmarks Liberale Parti",9
+Rudersdal,9,Vangebo,"V_Alexander_Foged,_Holte","Alexander Foged, Holte","Venstre, Danmarks Liberale Parti",14
+Rudersdal,9,Vangebo,"V_Anders_Modey,_Birkerød","Anders Modey, Birkerød","Venstre, Danmarks Liberale Parti",2
+Rudersdal,9,Vangebo,"V_Sven_Kolstrup,_Bistrup","Sven Kolstrup, Bistrup","Venstre, Danmarks Liberale Parti",6
+Rudersdal,9,Vangebo,"V_Lars_Neumann,_Trørød","Lars Neumann, Trørød","Venstre, Danmarks Liberale Parti",12
+Rudersdal,9,Vangebo,"V_Søren_Hyldgaard,_Birkerød","Søren Hyldgaard, Birkerød","Venstre, Danmarks Liberale Parti",8
+Rudersdal,9,Vangebo,"V_Ulrik_Iversen,_Søllerød","Ulrik Iversen, Søllerød","Venstre, Danmarks Liberale Parti",38
+Rudersdal,9,Vangebo,"V_Niels_Bundsgaard,_Trørød","Niels Bundsgaard, Trørød","Venstre, Danmarks Liberale Parti",1
+Rudersdal,9,Vangebo,"V_Karin_Vith_Ankerstjerne,_Bistrup","Karin Vith Ankerstjerne, Bistrup","Venstre, Danmarks Liberale Parti",0
+Rudersdal,9,Vangebo,"V_Jesper_Winther_Andersen,_Høsterkøb","Jesper Winther Andersen, Høsterkøb","Venstre, Danmarks Liberale Parti",5
+Rudersdal,9,Vangebo,"V_Esma_Birdi,_Holte","Esma Birdi, Holte","Venstre, Danmarks Liberale Parti",0
+Rudersdal,9,Vangebo,"V_Peter_W._Ø._Larsen,_Birkerød","Peter W. Ø. Larsen, Birkerød","Venstre, Danmarks Liberale Parti",1
+Rudersdal,9,Vangebo,"V_Ulla_Thillerup,_Nærum","Ulla Thillerup, Nærum","Venstre, Danmarks Liberale Parti",1
+Rudersdal,9,Vangebo,"V_Lars_Kristensen,_Søllerød","Lars Kristensen, Søllerød","Venstre, Danmarks Liberale Parti",20
+Rudersdal,9,Vangebo,"V_Morten_Munch,_Holte","Morten Munch, Holte","Venstre, Danmarks Liberale Parti",4
+Rudersdal,9,Vangebo,"V_Knud_Riedel,_Skodsborg","Knud Riedel, Skodsborg","Venstre, Danmarks Liberale Parti",0
+Rudersdal,9,Vangebo,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,48
+Rudersdal,9,Vangebo,"Ø_Christoffer_E._Jørgensen,_Birkerød","Christoffer E. Jørgensen, Birkerød",Enhedslisten - De Rød-Grønne,30
+Rudersdal,9,Vangebo,"Ø_Lisette_Jespersen,_Kajerød","Lisette Jespersen, Kajerød",Enhedslisten - De Rød-Grønne,10
+Rudersdal,9,Vangebo,"Ø_Aleksandra_Maria_Spangsege,Nærum","Aleksandra Maria Spangsege,Nærum",Enhedslisten - De Rød-Grønne,11
+Rudersdal,9,Vangebo,"Ø_Peter_Ussing,_Nærum","Peter Ussing, Nærum",Enhedslisten - De Rød-Grønne,1
+Rudersdal,9,Vangebo,"Ø_Stine_Kærulf_Andersen,_Holte","Stine Kærulf Andersen, Holte",Enhedslisten - De Rød-Grønne,7
+Rudersdal,9,Vangebo,"Ø_Vibeke_Baden_Laursen,_Skodsborg","Vibeke Baden Laursen, Skodsborg",Enhedslisten - De Rød-Grønne,2
+Rudersdal,9,Vangebo,"Ø_Hanne_Nicolaisen,_Birkerød","Hanne Nicolaisen, Birkerød",Enhedslisten - De Rød-Grønne,0
+Rudersdal,9,Vangebo,"Ø_Anders_Olesen,_Bistrup","Anders Olesen, Bistrup",Enhedslisten - De Rød-Grønne,0
+Rudersdal,10,Vedbæk,A_Listestemmer,Listestemmer,Socialdemokratiet,126
+Rudersdal,10,Vedbæk,A_Kristine_Thrane,Kristine Thrane,Socialdemokratiet,100
+Rudersdal,10,Vedbæk,A_Alexander_Baadh,Alexander Baadh,Socialdemokratiet,19
+Rudersdal,10,Vedbæk,A_Heidi_Højmark_Falden,Heidi Højmark Falden,Socialdemokratiet,6
+Rudersdal,10,Vedbæk,A_Poul_Bach,Poul Bach,Socialdemokratiet,4
+Rudersdal,10,Vedbæk,A_Anette_Maj_Billesbølle,Anette Maj Billesbølle,Socialdemokratiet,24
+Rudersdal,10,Vedbæk,A_Thomas_Lesly_Rasmussen,Thomas Lesly Rasmussen,Socialdemokratiet,10
+Rudersdal,10,Vedbæk,A_Mette_Poulsen,Mette Poulsen,Socialdemokratiet,6
+Rudersdal,10,Vedbæk,A_Erik_Eugen_Olsen,Erik Eugen Olsen,Socialdemokratiet,2
+Rudersdal,10,Vedbæk,A_John_Theil_Münster,John Theil Münster,Socialdemokratiet,2
+Rudersdal,10,Vedbæk,B_Listestemmer,Listestemmer,Radikale Venstre,117
+Rudersdal,10,Vedbæk,B_Court_Møller,Court Møller,Radikale Venstre,58
+Rudersdal,10,Vedbæk,B_Jacob_Netteberg,Jacob Netteberg,Radikale Venstre,22
+Rudersdal,10,Vedbæk,B_Christian_Elkjær,Christian Elkjær,Radikale Venstre,25
+Rudersdal,10,Vedbæk,B_Nada_Naanaah,Nada Naanaah,Radikale Venstre,15
+Rudersdal,10,Vedbæk,B_Mette_Stenby_Andresen,Mette Stenby Andresen,Radikale Venstre,19
+Rudersdal,10,Vedbæk,B_Harald_Gade_Andersen,Harald Gade Andersen,Radikale Venstre,2
+Rudersdal,10,Vedbæk,B_Anne_Lise_Kjær,Anne Lise Kjær,Radikale Venstre,6
+Rudersdal,10,Vedbæk,B_Kristoffer_Boye_Astrup,Kristoffer Boye Astrup,Radikale Venstre,8
+Rudersdal,10,Vedbæk,B_Jacob_Johannsen,Jacob Johannsen,Radikale Venstre,2
+Rudersdal,10,Vedbæk,B_Birgit_Gundorph-Malling,Birgit Gundorph-Malling,Radikale Venstre,10
+Rudersdal,10,Vedbæk,B_Anne_Damsgaard_Manniche,Anne Damsgaard Manniche,Radikale Venstre,2
+Rudersdal,10,Vedbæk,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,566
+Rudersdal,10,Vedbæk,"C_Ann_Sofie_Orth,_Gl._Holte","Ann Sofie Orth, Gl. Holte",Det Konservative Folkeparti,239
+Rudersdal,10,Vedbæk,"C_Christoffer_Buster_Reinhardt,Holte","Christoffer Buster Reinhardt,Holte",Det Konservative Folkeparti,135
+Rudersdal,10,Vedbæk,"C_Birgitte_Schjerning,_Søllerød","Birgitte Schjerning, Søllerød",Det Konservative Folkeparti,77
+Rudersdal,10,Vedbæk,"C_Nicola_Emily_Larsen,_Birkerød","Nicola Emily Larsen, Birkerød",Det Konservative Folkeparti,23
+Rudersdal,10,Vedbæk,"C_Elisabeth_Ildal,_Vedbæk","Elisabeth Ildal, Vedbæk",Det Konservative Folkeparti,109
+Rudersdal,10,Vedbæk,"C_Julie_Quass,_Holte","Julie Quass, Holte",Det Konservative Folkeparti,78
+Rudersdal,10,Vedbæk,"C_Lars_Engelberth,_Birkerød","Lars Engelberth, Birkerød",Det Konservative Folkeparti,5
+Rudersdal,10,Vedbæk,"C_Knud_Skadborg,_Birkerød","Knud Skadborg, Birkerød",Det Konservative Folkeparti,0
+Rudersdal,10,Vedbæk,"C_Alexander_Friborg,_Nærum","Alexander Friborg, Nærum",Det Konservative Folkeparti,36
+Rudersdal,10,Vedbæk,"C_Mikkel_Barnekow,_Høsterkøb","Mikkel Barnekow, Høsterkøb",Det Konservative Folkeparti,27
+Rudersdal,10,Vedbæk,"C_Peter_Lemmich,_Vedbæk","Peter Lemmich, Vedbæk",Det Konservative Folkeparti,290
+Rudersdal,10,Vedbæk,"C_Lars_Søndergaard-Nielsen,_Birkerød","Lars Søndergaard-Nielsen, Birkerød",Det Konservative Folkeparti,0
+Rudersdal,10,Vedbæk,"C_Jack_Otto_Kristensen,_Birkerød","Jack Otto Kristensen, Birkerød",Det Konservative Folkeparti,0
+Rudersdal,10,Vedbæk,"C_Lene_Stener,_Holte","Lene Stener, Holte",Det Konservative Folkeparti,12
+Rudersdal,10,Vedbæk,"C_Flemming_Møller,_Holte","Flemming Møller, Holte",Det Konservative Folkeparti,9
+Rudersdal,10,Vedbæk,"C_Einar_Bolt,_Skodsborg","Einar Bolt, Skodsborg",Det Konservative Folkeparti,40
+Rudersdal,10,Vedbæk,"C_Karen_Schousboe,_Øverød","Karen Schousboe, Øverød",Det Konservative Folkeparti,19
+Rudersdal,10,Vedbæk,"C_Eric_Beran,_Birkerød","Eric Beran, Birkerød",Det Konservative Folkeparti,1
+Rudersdal,10,Vedbæk,"C_Christian_Wix,_Nærum","Christian Wix, Nærum",Det Konservative Folkeparti,5
+Rudersdal,10,Vedbæk,"C_Morten_Fender,_Holte","Morten Fender, Holte",Det Konservative Folkeparti,5
+Rudersdal,10,Vedbæk,"C_Sune_Elvig,_Birkerød","Sune Elvig, Birkerød",Det Konservative Folkeparti,1
+Rudersdal,10,Vedbæk,"C_Hanne_Gerner,_Nærum","Hanne Gerner, Nærum",Det Konservative Folkeparti,1
+Rudersdal,10,Vedbæk,"C_Gitte_D'Arcy,_Birkerød","Gitte D'Arcy, Birkerød",Det Konservative Folkeparti,0
+Rudersdal,10,Vedbæk,"C_Conny_Birkholm,_Bistrup","Conny Birkholm, Bistrup",Det Konservative Folkeparti,1
+Rudersdal,10,Vedbæk,"C_Claus_Hjorting,_Gl.Holte","Claus Hjorting, Gl.Holte",Det Konservative Folkeparti,1
+Rudersdal,10,Vedbæk,"C_Henrik_Høyer-Hansen,_Øverød","Henrik Høyer-Hansen, Øverød",Det Konservative Folkeparti,6
+Rudersdal,10,Vedbæk,"C_Christian_Fode,_Trørød","Christian Fode, Trørød",Det Konservative Folkeparti,66
+Rudersdal,10,Vedbæk,D_Listestemmer,Listestemmer,Nye Borgerlige,80
+Rudersdal,10,Vedbæk,D_Carsten_Winther,Carsten Winther,Nye Borgerlige,78
+Rudersdal,10,Vedbæk,D_Jon_Fribo,Jon Fribo,Nye Borgerlige,4
+Rudersdal,10,Vedbæk,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,49
+Rudersdal,10,Vedbæk,F_Dorte_Nørbo,Dorte Nørbo,SF - Socialistisk Folkeparti,44
+Rudersdal,10,Vedbæk,F_Stefan_B._Skrubbeltrang,Stefan B. Skrubbeltrang,SF - Socialistisk Folkeparti,11
+Rudersdal,10,Vedbæk,F_Martin_Rosenkilde,Martin Rosenkilde,SF - Socialistisk Folkeparti,8
+Rudersdal,10,Vedbæk,F_Lotte_Gjaldbæk,Lotte Gjaldbæk,SF - Socialistisk Folkeparti,16
+Rudersdal,10,Vedbæk,F_Marianne_Stubbe_Østergaard,Marianne Stubbe Østergaard,SF - Socialistisk Folkeparti,12
+Rudersdal,10,Vedbæk,F_Kurt_Petersen,Kurt Petersen,SF - Socialistisk Folkeparti,8
+Rudersdal,10,Vedbæk,F_Bernt_Stubbe_Østergaard,Bernt Stubbe Østergaard,SF - Socialistisk Folkeparti,3
+Rudersdal,10,Vedbæk,I_Listestemmer,Listestemmer,Liberal Alliance,48
+Rudersdal,10,Vedbæk,"I_Lars_Holmqvist,_Høsterkøb","Lars Holmqvist, Høsterkøb",Liberal Alliance,36
+Rudersdal,10,Vedbæk,"I_Annette_Vendelbo,_Holte","Annette Vendelbo, Holte",Liberal Alliance,14
+Rudersdal,10,Vedbæk,"I_Simon_L._Skanderup,_Vedbæk","Simon L. Skanderup, Vedbæk",Liberal Alliance,40
+Rudersdal,10,Vedbæk,"I_Jens_Chr._Pedersen,_Vedbæk","Jens Chr. Pedersen, Vedbæk",Liberal Alliance,6
+Rudersdal,10,Vedbæk,"I_Lars_Stibius,_Birkerød","Lars Stibius, Birkerød",Liberal Alliance,3
+Rudersdal,10,Vedbæk,L_Listestemmer,Listestemmer,Lokallisten,58
+Rudersdal,10,Vedbæk,L_Anne_Christiansen,Anne Christiansen,Lokallisten,30
+Rudersdal,10,Vedbæk,L_Khaled_Mustapha,Khaled Mustapha,Lokallisten,10
+Rudersdal,10,Vedbæk,L_Morten_Noppenau,Morten Noppenau,Lokallisten,23
+Rudersdal,10,Vedbæk,L_Mona_Madsen,Mona Madsen,Lokallisten,34
+Rudersdal,10,Vedbæk,L_Keld_Stattau,Keld Stattau,Lokallisten,3
+Rudersdal,10,Vedbæk,L_Matilde_Broberg_Ekstrøm,Matilde Broberg Ekstrøm,Lokallisten,14
+Rudersdal,10,Vedbæk,L_Birgitte_Rasmussen,Birgitte Rasmussen,Lokallisten,6
+Rudersdal,10,Vedbæk,L_Luc_de_Visme,Luc de Visme,Lokallisten,7
+Rudersdal,10,Vedbæk,O_Listestemmer,Listestemmer,Dansk Folkeparti,17
+Rudersdal,10,Vedbæk,"O_Jan_Erik_Messmann,_Birkerød","Jan Erik Messmann, Birkerød",Dansk Folkeparti,5
+Rudersdal,10,Vedbæk,"O_Nina_Clarén,_Birkerød","Nina Clarén, Birkerød",Dansk Folkeparti,4
+Rudersdal,10,Vedbæk,R_Listestemmer,Listestemmer,BorgerFokus,1
+Rudersdal,10,Vedbæk,R_Jacob_Buhl,Jacob Buhl,BorgerFokus,3
+Rudersdal,10,Vedbæk,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",274
+Rudersdal,10,Vedbæk,"V_Jens_Ive,_Holte","Jens Ive, Holte","Venstre, Danmarks Liberale Parti",377
+Rudersdal,10,Vedbæk,"V_Randi_Mondorf,_Holte","Randi Mondorf, Holte","Venstre, Danmarks Liberale Parti",89
+Rudersdal,10,Vedbæk,"V_Jens_Darket,_Birkerød","Jens Darket, Birkerød","Venstre, Danmarks Liberale Parti",12
+Rudersdal,10,Vedbæk,"V_Malene_Barkhus,_Vedbæk","Malene Barkhus, Vedbæk","Venstre, Danmarks Liberale Parti",201
+Rudersdal,10,Vedbæk,"V_Klaus_Nørby_Jakobsen,_Birkerød","Klaus Nørby Jakobsen, Birkerød","Venstre, Danmarks Liberale Parti",3
+Rudersdal,10,Vedbæk,"V_Anika_Rée,_Nærum","Anika Rée, Nærum","Venstre, Danmarks Liberale Parti",31
+Rudersdal,10,Vedbæk,"V_Jens_Kloppenborg-Skrumsager,Vedbæk","Jens Kloppenborg-Skrumsager,Vedbæk","Venstre, Danmarks Liberale Parti",276
+Rudersdal,10,Vedbæk,"V_Henrik_Bach_Mortensen,_Søllerød","Henrik Bach Mortensen, Søllerød","Venstre, Danmarks Liberale Parti",8
+Rudersdal,10,Vedbæk,"V_Maiken_Gjerrow_Andersen,_Nærum","Maiken Gjerrow Andersen, Nærum","Venstre, Danmarks Liberale Parti",14
+Rudersdal,10,Vedbæk,"V_Per_Carøe,_Trørød","Per Carøe, Trørød","Venstre, Danmarks Liberale Parti",89
+Rudersdal,10,Vedbæk,"V_Alexander_Foged,_Holte","Alexander Foged, Holte","Venstre, Danmarks Liberale Parti",21
+Rudersdal,10,Vedbæk,"V_Anders_Modey,_Birkerød","Anders Modey, Birkerød","Venstre, Danmarks Liberale Parti",4
+Rudersdal,10,Vedbæk,"V_Sven_Kolstrup,_Bistrup","Sven Kolstrup, Bistrup","Venstre, Danmarks Liberale Parti",9
+Rudersdal,10,Vedbæk,"V_Lars_Neumann,_Trørød","Lars Neumann, Trørød","Venstre, Danmarks Liberale Parti",30
+Rudersdal,10,Vedbæk,"V_Søren_Hyldgaard,_Birkerød","Søren Hyldgaard, Birkerød","Venstre, Danmarks Liberale Parti",14
+Rudersdal,10,Vedbæk,"V_Ulrik_Iversen,_Søllerød","Ulrik Iversen, Søllerød","Venstre, Danmarks Liberale Parti",9
+Rudersdal,10,Vedbæk,"V_Niels_Bundsgaard,_Trørød","Niels Bundsgaard, Trørød","Venstre, Danmarks Liberale Parti",9
+Rudersdal,10,Vedbæk,"V_Karin_Vith_Ankerstjerne,_Bistrup","Karin Vith Ankerstjerne, Bistrup","Venstre, Danmarks Liberale Parti",1
+Rudersdal,10,Vedbæk,"V_Jesper_Winther_Andersen,_Høsterkøb","Jesper Winther Andersen, Høsterkøb","Venstre, Danmarks Liberale Parti",2
+Rudersdal,10,Vedbæk,"V_Esma_Birdi,_Holte","Esma Birdi, Holte","Venstre, Danmarks Liberale Parti",0
+Rudersdal,10,Vedbæk,"V_Peter_W._Ø._Larsen,_Birkerød","Peter W. Ø. Larsen, Birkerød","Venstre, Danmarks Liberale Parti",2
+Rudersdal,10,Vedbæk,"V_Ulla_Thillerup,_Nærum","Ulla Thillerup, Nærum","Venstre, Danmarks Liberale Parti",8
+Rudersdal,10,Vedbæk,"V_Lars_Kristensen,_Søllerød","Lars Kristensen, Søllerød","Venstre, Danmarks Liberale Parti",3
+Rudersdal,10,Vedbæk,"V_Morten_Munch,_Holte","Morten Munch, Holte","Venstre, Danmarks Liberale Parti",6
+Rudersdal,10,Vedbæk,"V_Knud_Riedel,_Skodsborg","Knud Riedel, Skodsborg","Venstre, Danmarks Liberale Parti",10
+Rudersdal,10,Vedbæk,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,57
+Rudersdal,10,Vedbæk,"Ø_Christoffer_E._Jørgensen,_Birkerød","Christoffer E. Jørgensen, Birkerød",Enhedslisten - De Rød-Grønne,34
+Rudersdal,10,Vedbæk,"Ø_Lisette_Jespersen,_Kajerød","Lisette Jespersen, Kajerød",Enhedslisten - De Rød-Grønne,10
+Rudersdal,10,Vedbæk,"Ø_Aleksandra_Maria_Spangsege,Nærum","Aleksandra Maria Spangsege,Nærum",Enhedslisten - De Rød-Grønne,19
+Rudersdal,10,Vedbæk,"Ø_Peter_Ussing,_Nærum","Peter Ussing, Nærum",Enhedslisten - De Rød-Grønne,5
+Rudersdal,10,Vedbæk,"Ø_Stine_Kærulf_Andersen,_Holte","Stine Kærulf Andersen, Holte",Enhedslisten - De Rød-Grønne,7
+Rudersdal,10,Vedbæk,"Ø_Vibeke_Baden_Laursen,_Skodsborg","Vibeke Baden Laursen, Skodsborg",Enhedslisten - De Rød-Grønne,8
+Rudersdal,10,Vedbæk,"Ø_Hanne_Nicolaisen,_Birkerød","Hanne Nicolaisen, Birkerød",Enhedslisten - De Rød-Grønne,1
+Rudersdal,10,Vedbæk,"Ø_Anders_Olesen,_Bistrup","Anders Olesen, Bistrup",Enhedslisten - De Rød-Grønne,0

@@ -1,0 +1,1861 @@
+kommune,valgsted_id,valgsted_navn,kandidat_id,kandidat_navn,parti,stemmer
+Kolding,1,Centrum Nord,A_Listestemmer,Listestemmer,Socialdemokratiet,172
+Kolding,1,Centrum Nord,A_Birgitte_Munk_Grunnet,Birgitte Munk Grunnet,Socialdemokratiet,240
+Kolding,1,Centrum Nord,A_Filip_Bekic_Bladt,Filip Bekic Bladt,Socialdemokratiet,56
+Kolding,1,Centrum Nord,A_Poul_Fremmelev,Poul Fremmelev,Socialdemokratiet,9
+Kolding,1,Centrum Nord,A_Vibeke_Boisen_Brandhof,Vibeke Boisen Brandhof,Socialdemokratiet,10
+Kolding,1,Centrum Nord,A_Per_Bødker_Andersen,Per Bødker Andersen,Socialdemokratiet,28
+Kolding,1,Centrum Nord,A_Folmer_Krogh,Folmer Krogh,Socialdemokratiet,20
+Kolding,1,Centrum Nord,A_Elvis_Comic,Elvis Comic,Socialdemokratiet,27
+Kolding,1,Centrum Nord,A_Jane_Bødskov_Petersen,Jane Bødskov Petersen,Socialdemokratiet,9
+Kolding,1,Centrum Nord,A_Gerrit_Toet,Gerrit Toet,Socialdemokratiet,3
+Kolding,1,Centrum Nord,A_Gitte_Guldberg_Spanier,Gitte Guldberg Spanier,Socialdemokratiet,8
+Kolding,1,Centrum Nord,A_Michael_Jørgensen,Michael Jørgensen,Socialdemokratiet,5
+Kolding,1,Centrum Nord,A_Bjarne_Stolten_Thomsen,Bjarne Stolten Thomsen,Socialdemokratiet,6
+Kolding,1,Centrum Nord,A_Hamlaoui_Bahloul,Hamlaoui Bahloul,Socialdemokratiet,42
+Kolding,1,Centrum Nord,A_Jacob_Bøegh,Jacob Bøegh,Socialdemokratiet,13
+Kolding,1,Centrum Nord,B_Listestemmer,Listestemmer,Radikale Venstre,76
+Kolding,1,Centrum Nord,"B_Merete_Due_Paarup,_Jordrup","Merete Due Paarup, Jordrup",Radikale Venstre,55
+Kolding,1,Centrum Nord,"B_Margreet_Smit,_Sdr._Stenderup","Margreet Smit, Sdr. Stenderup",Radikale Venstre,27
+Kolding,1,Centrum Nord,"B_Jonathan_Dyring_Løvbom,_Hjarup","Jonathan Dyring Løvbom, Hjarup",Radikale Venstre,62
+Kolding,1,Centrum Nord,"B_Vahida_Hadzija,_Kolding","Vahida Hadzija, Kolding",Radikale Venstre,15
+Kolding,1,Centrum Nord,"B_Charlotte_Enevoldsen,_Kolding","Charlotte Enevoldsen, Kolding",Radikale Venstre,12
+Kolding,1,Centrum Nord,"B_Bjørn_Olsen,_Seest","Bjørn Olsen, Seest",Radikale Venstre,19
+Kolding,1,Centrum Nord,"B_Kenny_C._Holm,_Sjølund","Kenny C. Holm, Sjølund",Radikale Venstre,0
+Kolding,1,Centrum Nord,"B_Bo_Skibelund,_Almind","Bo Skibelund, Almind",Radikale Venstre,6
+Kolding,1,Centrum Nord,"B_Knud_Nørregaard,_Bramdrupdam","Knud Nørregaard, Bramdrupdam",Radikale Venstre,38
+Kolding,1,Centrum Nord,"B_Preben_Tamborg_Pedersen,_Kolding_S","Preben Tamborg Pedersen, Kolding S",Radikale Venstre,1
+Kolding,1,Centrum Nord,"B_Hans_Krab_Koed,_Fovslet","Hans Krab Koed, Fovslet",Radikale Venstre,4
+Kolding,1,Centrum Nord,"B_Ole_Holst,_Drejens","Ole Holst, Drejens",Radikale Venstre,0
+Kolding,1,Centrum Nord,"B_Jens_Sørensen,_Kolding","Jens Sørensen, Kolding",Radikale Venstre,5
+Kolding,1,Centrum Nord,"B_Erik_Krab_Koed,_Almind-Viuf","Erik Krab Koed, Almind-Viuf",Radikale Venstre,2
+Kolding,1,Centrum Nord,"B_Lars_Keller,_Sdr._Bjert","Lars Keller, Sdr. Bjert",Radikale Venstre,1
+Kolding,1,Centrum Nord,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,153
+Kolding,1,Centrum Nord,C_Knud_Erik_Langhoff,Knud Erik Langhoff,Det Konservative Folkeparti,129
+Kolding,1,Centrum Nord,C_Gitte_Grønbæk,Gitte Grønbæk,Det Konservative Folkeparti,66
+Kolding,1,Centrum Nord,C_Freddy_Christensen,Freddy Christensen,Det Konservative Folkeparti,3
+Kolding,1,Centrum Nord,C_Jacob_Silberling_Knudsen,Jacob Silberling Knudsen,Det Konservative Folkeparti,11
+Kolding,1,Centrum Nord,C_Casper_N._Maglekær,Casper N. Maglekær,Det Konservative Folkeparti,7
+Kolding,1,Centrum Nord,C_Mirela_Tanovic,Mirela Tanovic,Det Konservative Folkeparti,13
+Kolding,1,Centrum Nord,C_Jørgen_Bøytler,Jørgen Bøytler,Det Konservative Folkeparti,2
+Kolding,1,Centrum Nord,C_Dan_Foss_Kragh,Dan Foss Kragh,Det Konservative Folkeparti,22
+Kolding,1,Centrum Nord,C_Daniel_Klestrup_Bjærge,Daniel Klestrup Bjærge,Det Konservative Folkeparti,3
+Kolding,1,Centrum Nord,C_Betina_Wettengel,Betina Wettengel,Det Konservative Folkeparti,7
+Kolding,1,Centrum Nord,C_René_Nikolaj_Andersen,René Nikolaj Andersen,Det Konservative Folkeparti,10
+Kolding,1,Centrum Nord,C_Christian_Saxov,Christian Saxov,Det Konservative Folkeparti,12
+Kolding,1,Centrum Nord,C_Mette_Borchert_Vahlun,Mette Borchert Vahlun,Det Konservative Folkeparti,4
+Kolding,1,Centrum Nord,C_Signe_Bøje_Sahner,Signe Bøje Sahner,Det Konservative Folkeparti,4
+Kolding,1,Centrum Nord,C_Jesper_Termansen,Jesper Termansen,Det Konservative Folkeparti,1
+Kolding,1,Centrum Nord,D_Listestemmer,Listestemmer,Nye Borgerlige,56
+Kolding,1,Centrum Nord,D_Mikael_Fiurendal,Mikael Fiurendal,Nye Borgerlige,18
+Kolding,1,Centrum Nord,D_Jan_Tambo,Jan Tambo,Nye Borgerlige,21
+Kolding,1,Centrum Nord,D_Allan_Søllingvraa_Rasmussen,Allan Søllingvraa Rasmussen,Nye Borgerlige,4
+Kolding,1,Centrum Nord,D_Christina_Britten,Christina Britten,Nye Borgerlige,6
+Kolding,1,Centrum Nord,D_Dorte_Noer,Dorte Noer,Nye Borgerlige,3
+Kolding,1,Centrum Nord,D_Peter_Krogsten,Peter Krogsten,Nye Borgerlige,0
+Kolding,1,Centrum Nord,D_Anders_Thygesen,Anders Thygesen,Nye Borgerlige,3
+Kolding,1,Centrum Nord,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,71
+Kolding,1,Centrum Nord,"F_Villy_Søvndal,_Sdr._Bjert","Villy Søvndal, Sdr. Bjert",SF - Socialistisk Folkeparti,472
+Kolding,1,Centrum Nord,"F_Hans_Holmer,_Kolding","Hans Holmer, Kolding",SF - Socialistisk Folkeparti,78
+Kolding,1,Centrum Nord,"F_Susanne_Stenstrop_Thorsen,_Kolding","Susanne Stenstrop Thorsen, Kolding",SF - Socialistisk Folkeparti,17
+Kolding,1,Centrum Nord,"F_Marianne_Jespersen,_Kolding","Marianne Jespersen, Kolding",SF - Socialistisk Folkeparti,34
+Kolding,1,Centrum Nord,"F_Iben_Lehmann_Rasmussen,_Bramdrupd.","Iben Lehmann Rasmussen, Bramdrupd.",SF - Socialistisk Folkeparti,23
+Kolding,1,Centrum Nord,"F_Jørn_Chemnitz,_Kolding","Jørn Chemnitz, Kolding",SF - Socialistisk Folkeparti,29
+Kolding,1,Centrum Nord,"F_Abdullah_Ismail,_Brændkjær","Abdullah Ismail, Brændkjær",SF - Socialistisk Folkeparti,6
+Kolding,1,Centrum Nord,"F_Ole_Damborg,_Bramdrupdam","Ole Damborg, Bramdrupdam",SF - Socialistisk Folkeparti,2
+Kolding,1,Centrum Nord,"F_Mette_T._R._Andersen,_Kolding","Mette T. R. Andersen, Kolding",SF - Socialistisk Folkeparti,11
+Kolding,1,Centrum Nord,"F_Nanett_Jensen,_Vamdrup","Nanett Jensen, Vamdrup",SF - Socialistisk Folkeparti,8
+Kolding,1,Centrum Nord,"F_Erik_Dyg_Sørensen,_Kolding","Erik Dyg Sørensen, Kolding",SF - Socialistisk Folkeparti,2
+Kolding,1,Centrum Nord,"F_Poul_Erik_Nørregaard,_Kolding","Poul Erik Nørregaard, Kolding",SF - Socialistisk Folkeparti,1
+Kolding,1,Centrum Nord,"F_Gitte_Høien_Johnsen,_Chr.feld","Gitte Høien Johnsen, Chr.feld",SF - Socialistisk Folkeparti,1
+Kolding,1,Centrum Nord,"F_Jesper_Elkjær,_Kolding","Jesper Elkjær, Kolding",SF - Socialistisk Folkeparti,26
+Kolding,1,Centrum Nord,I_Listestemmer,Listestemmer,Liberal Alliance,26
+Kolding,1,Centrum Nord,I_Helena_Artmann_Andresen,Helena Artmann Andresen,Liberal Alliance,31
+Kolding,1,Centrum Nord,I_Mikkel_Pedersen,Mikkel Pedersen,Liberal Alliance,9
+Kolding,1,Centrum Nord,I_Carsten_Andersen,Carsten Andersen,Liberal Alliance,5
+Kolding,1,Centrum Nord,I_Martin_Kodahl,Martin Kodahl,Liberal Alliance,2
+Kolding,1,Centrum Nord,I_Dennis_Paaske,Dennis Paaske,Liberal Alliance,10
+Kolding,1,Centrum Nord,K_Listestemmer,Listestemmer,Kristendemokraterne,0
+Kolding,1,Centrum Nord,"K_Jens_Chr._Olesen,_Christiansfeld","Jens Chr. Olesen, Christiansfeld",Kristendemokraterne,6
+Kolding,1,Centrum Nord,"K_Jørgen_Høier,_Seest","Jørgen Høier, Seest",Kristendemokraterne,4
+Kolding,1,Centrum Nord,"K_Simon_Marker_Pedersen,_Kolding","Simon Marker Pedersen, Kolding",Kristendemokraterne,0
+Kolding,1,Centrum Nord,O_Listestemmer,Listestemmer,Dansk Folkeparti,26
+Kolding,1,Centrum Nord,O_Søren_Rasmussen,Søren Rasmussen,Dansk Folkeparti,150
+Kolding,1,Centrum Nord,O_Laura_Guldager,Laura Guldager,Dansk Folkeparti,15
+Kolding,1,Centrum Nord,O_Molle_Lykke_Nielsen,Molle Lykke Nielsen,Dansk Folkeparti,4
+Kolding,1,Centrum Nord,O_Kristian_Kruse,Kristian Kruse,Dansk Folkeparti,0
+Kolding,1,Centrum Nord,O_Jackie_Damkjær_Hansen,Jackie Damkjær Hansen,Dansk Folkeparti,7
+Kolding,1,Centrum Nord,O_Mariane_Hansen,Mariane Hansen,Dansk Folkeparti,1
+Kolding,1,Centrum Nord,O_René_Arndt,René Arndt,Dansk Folkeparti,4
+Kolding,1,Centrum Nord,O_Mikael_Krogh,Mikael Krogh,Dansk Folkeparti,0
+Kolding,1,Centrum Nord,O_Tenna_Lindgaard,Tenna Lindgaard,Dansk Folkeparti,2
+Kolding,1,Centrum Nord,O_Nancy_Lystlund,Nancy Lystlund,Dansk Folkeparti,0
+Kolding,1,Centrum Nord,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",212
+Kolding,1,Centrum Nord,"V_Eva_Kjer_Hansen,_Kolding","Eva Kjer Hansen, Kolding","Venstre, Danmarks Liberale Parti",421
+Kolding,1,Centrum Nord,"V_Jakob_Ville,_Seest","Jakob Ville, Seest","Venstre, Danmarks Liberale Parti",132
+Kolding,1,Centrum Nord,"V_Ole_Martensen,_Kolding","Ole Martensen, Kolding","Venstre, Danmarks Liberale Parti",32
+Kolding,1,Centrum Nord,"V_Birgitte_Kragh,_Skanderup","Birgitte Kragh, Skanderup","Venstre, Danmarks Liberale Parti",33
+Kolding,1,Centrum Nord,"V_Lene_Brandenborg,_Fynslund","Lene Brandenborg, Fynslund","Venstre, Danmarks Liberale Parti",7
+Kolding,1,Centrum Nord,"V_Ole_Alsted,_Almind-Viuf","Ole Alsted, Almind-Viuf","Venstre, Danmarks Liberale Parti",26
+Kolding,1,Centrum Nord,"V_Tobias_Jørgensen,_Hoppeshuse","Tobias Jørgensen, Hoppeshuse","Venstre, Danmarks Liberale Parti",25
+Kolding,1,Centrum Nord,"V_Trille_Nikolajsen,_Vester_Nebel","Trille Nikolajsen, Vester Nebel","Venstre, Danmarks Liberale Parti",17
+Kolding,1,Centrum Nord,"V_Mads_Kloppenborg-Skrumsager,_Chr.f","Mads Kloppenborg-Skrumsager, Chr.f","Venstre, Danmarks Liberale Parti",19
+Kolding,1,Centrum Nord,"V_Jørgen_Meyer,_Kolding_Nord","Jørgen Meyer, Kolding Nord","Venstre, Danmarks Liberale Parti",10
+Kolding,1,Centrum Nord,"V_Yrsa_Mastrup,_Vamdrup","Yrsa Mastrup, Vamdrup","Venstre, Danmarks Liberale Parti",7
+Kolding,1,Centrum Nord,"V_Mette_Balsby,_Kolding","Mette Balsby, Kolding","Venstre, Danmarks Liberale Parti",2
+Kolding,1,Centrum Nord,"V_Ahmad_Mohammadi,_Kolding","Ahmad Mohammadi, Kolding","Venstre, Danmarks Liberale Parti",13
+Kolding,1,Centrum Nord,"V_Lennarth_Hansen,_Harte","Lennarth Hansen, Harte","Venstre, Danmarks Liberale Parti",4
+Kolding,1,Centrum Nord,"V_Glenn_Lundt,_Vamdrup","Glenn Lundt, Vamdrup","Venstre, Danmarks Liberale Parti",3
+Kolding,1,Centrum Nord,"V_Morten_Hansen,_Agtrup","Morten Hansen, Agtrup","Venstre, Danmarks Liberale Parti",8
+Kolding,1,Centrum Nord,"V_Niels_Henning_Bladt,_Brændkjær","Niels Henning Bladt, Brændkjær","Venstre, Danmarks Liberale Parti",11
+Kolding,1,Centrum Nord,"V_Jan_Schjerning,_Lunderskov","Jan Schjerning, Lunderskov","Venstre, Danmarks Liberale Parti",12
+Kolding,1,Centrum Nord,"V_Anette_Juhl,_Sdr._Stenderup","Anette Juhl, Sdr. Stenderup","Venstre, Danmarks Liberale Parti",3
+Kolding,1,Centrum Nord,Y_Listestemmer,Listestemmer,Kryds for Kolding,1
+Kolding,1,Centrum Nord,"Y_Simon_Maegaard,_Kolding","Simon Maegaard, Kolding",Kryds for Kolding,22
+Kolding,1,Centrum Nord,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,78
+Kolding,1,Centrum Nord,"Ø_Benny_Dall,_Vonsild","Benny Dall, Vonsild",Enhedslisten - De Rød-Grønne,83
+Kolding,1,Centrum Nord,"Ø_Hanne_Dam,_Kolding","Hanne Dam, Kolding",Enhedslisten - De Rød-Grønne,40
+Kolding,1,Centrum Nord,"Ø_Jannie_Winberg,_Dalby","Jannie Winberg, Dalby",Enhedslisten - De Rød-Grønne,2
+Kolding,1,Centrum Nord,"Ø_Ivan_Balleby,_Kolding","Ivan Balleby, Kolding",Enhedslisten - De Rød-Grønne,5
+Kolding,1,Centrum Nord,"Ø_Margot_Pedersen,_Harte","Margot Pedersen, Harte",Enhedslisten - De Rød-Grønne,1
+Kolding,1,Centrum Nord,"Ø_Brian_Simonsen,_Vamdrup_Ødis-Br.","Brian Simonsen, Vamdrup Ødis-Br.",Enhedslisten - De Rød-Grønne,3
+Kolding,1,Centrum Nord,"Ø_Alice_Munkholm_Dall,_Kolding","Alice Munkholm Dall, Kolding",Enhedslisten - De Rød-Grønne,8
+Kolding,1,Centrum Nord,"Ø_Erik_Voss,_Kolding","Erik Voss, Kolding",Enhedslisten - De Rød-Grønne,6
+Kolding,1,Centrum Nord,"Ø_Daniela_Skov,_Kolding","Daniela Skov, Kolding",Enhedslisten - De Rød-Grønne,2
+Kolding,1,Centrum Nord,"Ø_Ole_Maass,_Kolding","Ole Maass, Kolding",Enhedslisten - De Rød-Grønne,1
+Kolding,2,Nordbyen,A_Listestemmer,Listestemmer,Socialdemokratiet,108
+Kolding,2,Nordbyen,A_Birgitte_Munk_Grunnet,Birgitte Munk Grunnet,Socialdemokratiet,189
+Kolding,2,Nordbyen,A_Filip_Bekic_Bladt,Filip Bekic Bladt,Socialdemokratiet,25
+Kolding,2,Nordbyen,A_Poul_Fremmelev,Poul Fremmelev,Socialdemokratiet,11
+Kolding,2,Nordbyen,A_Vibeke_Boisen_Brandhof,Vibeke Boisen Brandhof,Socialdemokratiet,3
+Kolding,2,Nordbyen,A_Per_Bødker_Andersen,Per Bødker Andersen,Socialdemokratiet,23
+Kolding,2,Nordbyen,A_Folmer_Krogh,Folmer Krogh,Socialdemokratiet,12
+Kolding,2,Nordbyen,A_Elvis_Comic,Elvis Comic,Socialdemokratiet,25
+Kolding,2,Nordbyen,A_Jane_Bødskov_Petersen,Jane Bødskov Petersen,Socialdemokratiet,7
+Kolding,2,Nordbyen,A_Gerrit_Toet,Gerrit Toet,Socialdemokratiet,5
+Kolding,2,Nordbyen,A_Gitte_Guldberg_Spanier,Gitte Guldberg Spanier,Socialdemokratiet,4
+Kolding,2,Nordbyen,A_Michael_Jørgensen,Michael Jørgensen,Socialdemokratiet,5
+Kolding,2,Nordbyen,A_Bjarne_Stolten_Thomsen,Bjarne Stolten Thomsen,Socialdemokratiet,3
+Kolding,2,Nordbyen,A_Hamlaoui_Bahloul,Hamlaoui Bahloul,Socialdemokratiet,153
+Kolding,2,Nordbyen,A_Jacob_Bøegh,Jacob Bøegh,Socialdemokratiet,5
+Kolding,2,Nordbyen,B_Listestemmer,Listestemmer,Radikale Venstre,48
+Kolding,2,Nordbyen,"B_Merete_Due_Paarup,_Jordrup","Merete Due Paarup, Jordrup",Radikale Venstre,21
+Kolding,2,Nordbyen,"B_Margreet_Smit,_Sdr._Stenderup","Margreet Smit, Sdr. Stenderup",Radikale Venstre,7
+Kolding,2,Nordbyen,"B_Jonathan_Dyring_Løvbom,_Hjarup","Jonathan Dyring Løvbom, Hjarup",Radikale Venstre,18
+Kolding,2,Nordbyen,"B_Vahida_Hadzija,_Kolding","Vahida Hadzija, Kolding",Radikale Venstre,52
+Kolding,2,Nordbyen,"B_Charlotte_Enevoldsen,_Kolding","Charlotte Enevoldsen, Kolding",Radikale Venstre,4
+Kolding,2,Nordbyen,"B_Bjørn_Olsen,_Seest","Bjørn Olsen, Seest",Radikale Venstre,7
+Kolding,2,Nordbyen,"B_Kenny_C._Holm,_Sjølund","Kenny C. Holm, Sjølund",Radikale Venstre,3
+Kolding,2,Nordbyen,"B_Bo_Skibelund,_Almind","Bo Skibelund, Almind",Radikale Venstre,1
+Kolding,2,Nordbyen,"B_Knud_Nørregaard,_Bramdrupdam","Knud Nørregaard, Bramdrupdam",Radikale Venstre,12
+Kolding,2,Nordbyen,"B_Preben_Tamborg_Pedersen,_Kolding_S","Preben Tamborg Pedersen, Kolding S",Radikale Venstre,2
+Kolding,2,Nordbyen,"B_Hans_Krab_Koed,_Fovslet","Hans Krab Koed, Fovslet",Radikale Venstre,2
+Kolding,2,Nordbyen,"B_Ole_Holst,_Drejens","Ole Holst, Drejens",Radikale Venstre,1
+Kolding,2,Nordbyen,"B_Jens_Sørensen,_Kolding","Jens Sørensen, Kolding",Radikale Venstre,0
+Kolding,2,Nordbyen,"B_Erik_Krab_Koed,_Almind-Viuf","Erik Krab Koed, Almind-Viuf",Radikale Venstre,1
+Kolding,2,Nordbyen,"B_Lars_Keller,_Sdr._Bjert","Lars Keller, Sdr. Bjert",Radikale Venstre,0
+Kolding,2,Nordbyen,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,37
+Kolding,2,Nordbyen,C_Knud_Erik_Langhoff,Knud Erik Langhoff,Det Konservative Folkeparti,38
+Kolding,2,Nordbyen,C_Gitte_Grønbæk,Gitte Grønbæk,Det Konservative Folkeparti,12
+Kolding,2,Nordbyen,C_Freddy_Christensen,Freddy Christensen,Det Konservative Folkeparti,5
+Kolding,2,Nordbyen,C_Jacob_Silberling_Knudsen,Jacob Silberling Knudsen,Det Konservative Folkeparti,9
+Kolding,2,Nordbyen,C_Casper_N._Maglekær,Casper N. Maglekær,Det Konservative Folkeparti,4
+Kolding,2,Nordbyen,C_Mirela_Tanovic,Mirela Tanovic,Det Konservative Folkeparti,6
+Kolding,2,Nordbyen,C_Jørgen_Bøytler,Jørgen Bøytler,Det Konservative Folkeparti,2
+Kolding,2,Nordbyen,C_Dan_Foss_Kragh,Dan Foss Kragh,Det Konservative Folkeparti,3
+Kolding,2,Nordbyen,C_Daniel_Klestrup_Bjærge,Daniel Klestrup Bjærge,Det Konservative Folkeparti,3
+Kolding,2,Nordbyen,C_Betina_Wettengel,Betina Wettengel,Det Konservative Folkeparti,6
+Kolding,2,Nordbyen,C_René_Nikolaj_Andersen,René Nikolaj Andersen,Det Konservative Folkeparti,2
+Kolding,2,Nordbyen,C_Christian_Saxov,Christian Saxov,Det Konservative Folkeparti,5
+Kolding,2,Nordbyen,C_Mette_Borchert_Vahlun,Mette Borchert Vahlun,Det Konservative Folkeparti,2
+Kolding,2,Nordbyen,C_Signe_Bøje_Sahner,Signe Bøje Sahner,Det Konservative Folkeparti,1
+Kolding,2,Nordbyen,C_Jesper_Termansen,Jesper Termansen,Det Konservative Folkeparti,2
+Kolding,2,Nordbyen,D_Listestemmer,Listestemmer,Nye Borgerlige,25
+Kolding,2,Nordbyen,D_Mikael_Fiurendal,Mikael Fiurendal,Nye Borgerlige,12
+Kolding,2,Nordbyen,D_Jan_Tambo,Jan Tambo,Nye Borgerlige,6
+Kolding,2,Nordbyen,D_Allan_Søllingvraa_Rasmussen,Allan Søllingvraa Rasmussen,Nye Borgerlige,5
+Kolding,2,Nordbyen,D_Christina_Britten,Christina Britten,Nye Borgerlige,4
+Kolding,2,Nordbyen,D_Dorte_Noer,Dorte Noer,Nye Borgerlige,0
+Kolding,2,Nordbyen,D_Peter_Krogsten,Peter Krogsten,Nye Borgerlige,1
+Kolding,2,Nordbyen,D_Anders_Thygesen,Anders Thygesen,Nye Borgerlige,1
+Kolding,2,Nordbyen,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,44
+Kolding,2,Nordbyen,"F_Villy_Søvndal,_Sdr._Bjert","Villy Søvndal, Sdr. Bjert",SF - Socialistisk Folkeparti,296
+Kolding,2,Nordbyen,"F_Hans_Holmer,_Kolding","Hans Holmer, Kolding",SF - Socialistisk Folkeparti,22
+Kolding,2,Nordbyen,"F_Susanne_Stenstrop_Thorsen,_Kolding","Susanne Stenstrop Thorsen, Kolding",SF - Socialistisk Folkeparti,11
+Kolding,2,Nordbyen,"F_Marianne_Jespersen,_Kolding","Marianne Jespersen, Kolding",SF - Socialistisk Folkeparti,35
+Kolding,2,Nordbyen,"F_Iben_Lehmann_Rasmussen,_Bramdrupd.","Iben Lehmann Rasmussen, Bramdrupd.",SF - Socialistisk Folkeparti,28
+Kolding,2,Nordbyen,"F_Jørn_Chemnitz,_Kolding","Jørn Chemnitz, Kolding",SF - Socialistisk Folkeparti,20
+Kolding,2,Nordbyen,"F_Abdullah_Ismail,_Brændkjær","Abdullah Ismail, Brændkjær",SF - Socialistisk Folkeparti,172
+Kolding,2,Nordbyen,"F_Ole_Damborg,_Bramdrupdam","Ole Damborg, Bramdrupdam",SF - Socialistisk Folkeparti,8
+Kolding,2,Nordbyen,"F_Mette_T._R._Andersen,_Kolding","Mette T. R. Andersen, Kolding",SF - Socialistisk Folkeparti,6
+Kolding,2,Nordbyen,"F_Nanett_Jensen,_Vamdrup","Nanett Jensen, Vamdrup",SF - Socialistisk Folkeparti,0
+Kolding,2,Nordbyen,"F_Erik_Dyg_Sørensen,_Kolding","Erik Dyg Sørensen, Kolding",SF - Socialistisk Folkeparti,1
+Kolding,2,Nordbyen,"F_Poul_Erik_Nørregaard,_Kolding","Poul Erik Nørregaard, Kolding",SF - Socialistisk Folkeparti,1
+Kolding,2,Nordbyen,"F_Gitte_Høien_Johnsen,_Chr.feld","Gitte Høien Johnsen, Chr.feld",SF - Socialistisk Folkeparti,1
+Kolding,2,Nordbyen,"F_Jesper_Elkjær,_Kolding","Jesper Elkjær, Kolding",SF - Socialistisk Folkeparti,10
+Kolding,2,Nordbyen,I_Listestemmer,Listestemmer,Liberal Alliance,8
+Kolding,2,Nordbyen,I_Helena_Artmann_Andresen,Helena Artmann Andresen,Liberal Alliance,12
+Kolding,2,Nordbyen,I_Mikkel_Pedersen,Mikkel Pedersen,Liberal Alliance,1
+Kolding,2,Nordbyen,I_Carsten_Andersen,Carsten Andersen,Liberal Alliance,0
+Kolding,2,Nordbyen,I_Martin_Kodahl,Martin Kodahl,Liberal Alliance,2
+Kolding,2,Nordbyen,I_Dennis_Paaske,Dennis Paaske,Liberal Alliance,11
+Kolding,2,Nordbyen,K_Listestemmer,Listestemmer,Kristendemokraterne,0
+Kolding,2,Nordbyen,"K_Jens_Chr._Olesen,_Christiansfeld","Jens Chr. Olesen, Christiansfeld",Kristendemokraterne,6
+Kolding,2,Nordbyen,"K_Jørgen_Høier,_Seest","Jørgen Høier, Seest",Kristendemokraterne,0
+Kolding,2,Nordbyen,"K_Simon_Marker_Pedersen,_Kolding","Simon Marker Pedersen, Kolding",Kristendemokraterne,2
+Kolding,2,Nordbyen,O_Listestemmer,Listestemmer,Dansk Folkeparti,26
+Kolding,2,Nordbyen,O_Søren_Rasmussen,Søren Rasmussen,Dansk Folkeparti,99
+Kolding,2,Nordbyen,O_Laura_Guldager,Laura Guldager,Dansk Folkeparti,12
+Kolding,2,Nordbyen,O_Molle_Lykke_Nielsen,Molle Lykke Nielsen,Dansk Folkeparti,2
+Kolding,2,Nordbyen,O_Kristian_Kruse,Kristian Kruse,Dansk Folkeparti,0
+Kolding,2,Nordbyen,O_Jackie_Damkjær_Hansen,Jackie Damkjær Hansen,Dansk Folkeparti,4
+Kolding,2,Nordbyen,O_Mariane_Hansen,Mariane Hansen,Dansk Folkeparti,1
+Kolding,2,Nordbyen,O_René_Arndt,René Arndt,Dansk Folkeparti,3
+Kolding,2,Nordbyen,O_Mikael_Krogh,Mikael Krogh,Dansk Folkeparti,2
+Kolding,2,Nordbyen,O_Tenna_Lindgaard,Tenna Lindgaard,Dansk Folkeparti,0
+Kolding,2,Nordbyen,O_Nancy_Lystlund,Nancy Lystlund,Dansk Folkeparti,0
+Kolding,2,Nordbyen,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",59
+Kolding,2,Nordbyen,"V_Eva_Kjer_Hansen,_Kolding","Eva Kjer Hansen, Kolding","Venstre, Danmarks Liberale Parti",155
+Kolding,2,Nordbyen,"V_Jakob_Ville,_Seest","Jakob Ville, Seest","Venstre, Danmarks Liberale Parti",67
+Kolding,2,Nordbyen,"V_Ole_Martensen,_Kolding","Ole Martensen, Kolding","Venstre, Danmarks Liberale Parti",20
+Kolding,2,Nordbyen,"V_Birgitte_Kragh,_Skanderup","Birgitte Kragh, Skanderup","Venstre, Danmarks Liberale Parti",16
+Kolding,2,Nordbyen,"V_Lene_Brandenborg,_Fynslund","Lene Brandenborg, Fynslund","Venstre, Danmarks Liberale Parti",1
+Kolding,2,Nordbyen,"V_Ole_Alsted,_Almind-Viuf","Ole Alsted, Almind-Viuf","Venstre, Danmarks Liberale Parti",17
+Kolding,2,Nordbyen,"V_Tobias_Jørgensen,_Hoppeshuse","Tobias Jørgensen, Hoppeshuse","Venstre, Danmarks Liberale Parti",16
+Kolding,2,Nordbyen,"V_Trille_Nikolajsen,_Vester_Nebel","Trille Nikolajsen, Vester Nebel","Venstre, Danmarks Liberale Parti",8
+Kolding,2,Nordbyen,"V_Mads_Kloppenborg-Skrumsager,_Chr.f","Mads Kloppenborg-Skrumsager, Chr.f","Venstre, Danmarks Liberale Parti",7
+Kolding,2,Nordbyen,"V_Jørgen_Meyer,_Kolding_Nord","Jørgen Meyer, Kolding Nord","Venstre, Danmarks Liberale Parti",9
+Kolding,2,Nordbyen,"V_Yrsa_Mastrup,_Vamdrup","Yrsa Mastrup, Vamdrup","Venstre, Danmarks Liberale Parti",0
+Kolding,2,Nordbyen,"V_Mette_Balsby,_Kolding","Mette Balsby, Kolding","Venstre, Danmarks Liberale Parti",2
+Kolding,2,Nordbyen,"V_Ahmad_Mohammadi,_Kolding","Ahmad Mohammadi, Kolding","Venstre, Danmarks Liberale Parti",41
+Kolding,2,Nordbyen,"V_Lennarth_Hansen,_Harte","Lennarth Hansen, Harte","Venstre, Danmarks Liberale Parti",3
+Kolding,2,Nordbyen,"V_Glenn_Lundt,_Vamdrup","Glenn Lundt, Vamdrup","Venstre, Danmarks Liberale Parti",0
+Kolding,2,Nordbyen,"V_Morten_Hansen,_Agtrup","Morten Hansen, Agtrup","Venstre, Danmarks Liberale Parti",4
+Kolding,2,Nordbyen,"V_Niels_Henning_Bladt,_Brændkjær","Niels Henning Bladt, Brændkjær","Venstre, Danmarks Liberale Parti",5
+Kolding,2,Nordbyen,"V_Jan_Schjerning,_Lunderskov","Jan Schjerning, Lunderskov","Venstre, Danmarks Liberale Parti",4
+Kolding,2,Nordbyen,"V_Anette_Juhl,_Sdr._Stenderup","Anette Juhl, Sdr. Stenderup","Venstre, Danmarks Liberale Parti",1
+Kolding,2,Nordbyen,Y_Listestemmer,Listestemmer,Kryds for Kolding,5
+Kolding,2,Nordbyen,"Y_Simon_Maegaard,_Kolding","Simon Maegaard, Kolding",Kryds for Kolding,13
+Kolding,2,Nordbyen,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,41
+Kolding,2,Nordbyen,"Ø_Benny_Dall,_Vonsild","Benny Dall, Vonsild",Enhedslisten - De Rød-Grønne,39
+Kolding,2,Nordbyen,"Ø_Hanne_Dam,_Kolding","Hanne Dam, Kolding",Enhedslisten - De Rød-Grønne,18
+Kolding,2,Nordbyen,"Ø_Jannie_Winberg,_Dalby","Jannie Winberg, Dalby",Enhedslisten - De Rød-Grønne,3
+Kolding,2,Nordbyen,"Ø_Ivan_Balleby,_Kolding","Ivan Balleby, Kolding",Enhedslisten - De Rød-Grønne,5
+Kolding,2,Nordbyen,"Ø_Margot_Pedersen,_Harte","Margot Pedersen, Harte",Enhedslisten - De Rød-Grønne,3
+Kolding,2,Nordbyen,"Ø_Brian_Simonsen,_Vamdrup_Ødis-Br.","Brian Simonsen, Vamdrup Ødis-Br.",Enhedslisten - De Rød-Grønne,2
+Kolding,2,Nordbyen,"Ø_Alice_Munkholm_Dall,_Kolding","Alice Munkholm Dall, Kolding",Enhedslisten - De Rød-Grønne,2
+Kolding,2,Nordbyen,"Ø_Erik_Voss,_Kolding","Erik Voss, Kolding",Enhedslisten - De Rød-Grønne,3
+Kolding,2,Nordbyen,"Ø_Daniela_Skov,_Kolding","Daniela Skov, Kolding",Enhedslisten - De Rød-Grønne,0
+Kolding,2,Nordbyen,"Ø_Ole_Maass,_Kolding","Ole Maass, Kolding",Enhedslisten - De Rød-Grønne,2
+Kolding,3,Vestbyen,A_Listestemmer,Listestemmer,Socialdemokratiet,141
+Kolding,3,Vestbyen,A_Birgitte_Munk_Grunnet,Birgitte Munk Grunnet,Socialdemokratiet,208
+Kolding,3,Vestbyen,A_Filip_Bekic_Bladt,Filip Bekic Bladt,Socialdemokratiet,37
+Kolding,3,Vestbyen,A_Poul_Fremmelev,Poul Fremmelev,Socialdemokratiet,17
+Kolding,3,Vestbyen,A_Vibeke_Boisen_Brandhof,Vibeke Boisen Brandhof,Socialdemokratiet,8
+Kolding,3,Vestbyen,A_Per_Bødker_Andersen,Per Bødker Andersen,Socialdemokratiet,29
+Kolding,3,Vestbyen,A_Folmer_Krogh,Folmer Krogh,Socialdemokratiet,24
+Kolding,3,Vestbyen,A_Elvis_Comic,Elvis Comic,Socialdemokratiet,98
+Kolding,3,Vestbyen,A_Jane_Bødskov_Petersen,Jane Bødskov Petersen,Socialdemokratiet,10
+Kolding,3,Vestbyen,A_Gerrit_Toet,Gerrit Toet,Socialdemokratiet,9
+Kolding,3,Vestbyen,A_Gitte_Guldberg_Spanier,Gitte Guldberg Spanier,Socialdemokratiet,2
+Kolding,3,Vestbyen,A_Michael_Jørgensen,Michael Jørgensen,Socialdemokratiet,9
+Kolding,3,Vestbyen,A_Bjarne_Stolten_Thomsen,Bjarne Stolten Thomsen,Socialdemokratiet,12
+Kolding,3,Vestbyen,A_Hamlaoui_Bahloul,Hamlaoui Bahloul,Socialdemokratiet,99
+Kolding,3,Vestbyen,A_Jacob_Bøegh,Jacob Bøegh,Socialdemokratiet,39
+Kolding,3,Vestbyen,B_Listestemmer,Listestemmer,Radikale Venstre,47
+Kolding,3,Vestbyen,"B_Merete_Due_Paarup,_Jordrup","Merete Due Paarup, Jordrup",Radikale Venstre,39
+Kolding,3,Vestbyen,"B_Margreet_Smit,_Sdr._Stenderup","Margreet Smit, Sdr. Stenderup",Radikale Venstre,7
+Kolding,3,Vestbyen,"B_Jonathan_Dyring_Løvbom,_Hjarup","Jonathan Dyring Løvbom, Hjarup",Radikale Venstre,26
+Kolding,3,Vestbyen,"B_Vahida_Hadzija,_Kolding","Vahida Hadzija, Kolding",Radikale Venstre,84
+Kolding,3,Vestbyen,"B_Charlotte_Enevoldsen,_Kolding","Charlotte Enevoldsen, Kolding",Radikale Venstre,8
+Kolding,3,Vestbyen,"B_Bjørn_Olsen,_Seest","Bjørn Olsen, Seest",Radikale Venstre,2
+Kolding,3,Vestbyen,"B_Kenny_C._Holm,_Sjølund","Kenny C. Holm, Sjølund",Radikale Venstre,3
+Kolding,3,Vestbyen,"B_Bo_Skibelund,_Almind","Bo Skibelund, Almind",Radikale Venstre,3
+Kolding,3,Vestbyen,"B_Knud_Nørregaard,_Bramdrupdam","Knud Nørregaard, Bramdrupdam",Radikale Venstre,8
+Kolding,3,Vestbyen,"B_Preben_Tamborg_Pedersen,_Kolding_S","Preben Tamborg Pedersen, Kolding S",Radikale Venstre,0
+Kolding,3,Vestbyen,"B_Hans_Krab_Koed,_Fovslet","Hans Krab Koed, Fovslet",Radikale Venstre,1
+Kolding,3,Vestbyen,"B_Ole_Holst,_Drejens","Ole Holst, Drejens",Radikale Venstre,0
+Kolding,3,Vestbyen,"B_Jens_Sørensen,_Kolding","Jens Sørensen, Kolding",Radikale Venstre,1
+Kolding,3,Vestbyen,"B_Erik_Krab_Koed,_Almind-Viuf","Erik Krab Koed, Almind-Viuf",Radikale Venstre,3
+Kolding,3,Vestbyen,"B_Lars_Keller,_Sdr._Bjert","Lars Keller, Sdr. Bjert",Radikale Venstre,0
+Kolding,3,Vestbyen,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,50
+Kolding,3,Vestbyen,C_Knud_Erik_Langhoff,Knud Erik Langhoff,Det Konservative Folkeparti,52
+Kolding,3,Vestbyen,C_Gitte_Grønbæk,Gitte Grønbæk,Det Konservative Folkeparti,34
+Kolding,3,Vestbyen,C_Freddy_Christensen,Freddy Christensen,Det Konservative Folkeparti,3
+Kolding,3,Vestbyen,C_Jacob_Silberling_Knudsen,Jacob Silberling Knudsen,Det Konservative Folkeparti,13
+Kolding,3,Vestbyen,C_Casper_N._Maglekær,Casper N. Maglekær,Det Konservative Folkeparti,5
+Kolding,3,Vestbyen,C_Mirela_Tanovic,Mirela Tanovic,Det Konservative Folkeparti,21
+Kolding,3,Vestbyen,C_Jørgen_Bøytler,Jørgen Bøytler,Det Konservative Folkeparti,0
+Kolding,3,Vestbyen,C_Dan_Foss_Kragh,Dan Foss Kragh,Det Konservative Folkeparti,8
+Kolding,3,Vestbyen,C_Daniel_Klestrup_Bjærge,Daniel Klestrup Bjærge,Det Konservative Folkeparti,3
+Kolding,3,Vestbyen,C_Betina_Wettengel,Betina Wettengel,Det Konservative Folkeparti,17
+Kolding,3,Vestbyen,C_René_Nikolaj_Andersen,René Nikolaj Andersen,Det Konservative Folkeparti,8
+Kolding,3,Vestbyen,C_Christian_Saxov,Christian Saxov,Det Konservative Folkeparti,9
+Kolding,3,Vestbyen,C_Mette_Borchert_Vahlun,Mette Borchert Vahlun,Det Konservative Folkeparti,3
+Kolding,3,Vestbyen,C_Signe_Bøje_Sahner,Signe Bøje Sahner,Det Konservative Folkeparti,1
+Kolding,3,Vestbyen,C_Jesper_Termansen,Jesper Termansen,Det Konservative Folkeparti,1
+Kolding,3,Vestbyen,D_Listestemmer,Listestemmer,Nye Borgerlige,30
+Kolding,3,Vestbyen,D_Mikael_Fiurendal,Mikael Fiurendal,Nye Borgerlige,17
+Kolding,3,Vestbyen,D_Jan_Tambo,Jan Tambo,Nye Borgerlige,8
+Kolding,3,Vestbyen,D_Allan_Søllingvraa_Rasmussen,Allan Søllingvraa Rasmussen,Nye Borgerlige,6
+Kolding,3,Vestbyen,D_Christina_Britten,Christina Britten,Nye Borgerlige,4
+Kolding,3,Vestbyen,D_Dorte_Noer,Dorte Noer,Nye Borgerlige,1
+Kolding,3,Vestbyen,D_Peter_Krogsten,Peter Krogsten,Nye Borgerlige,0
+Kolding,3,Vestbyen,D_Anders_Thygesen,Anders Thygesen,Nye Borgerlige,4
+Kolding,3,Vestbyen,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,52
+Kolding,3,Vestbyen,"F_Villy_Søvndal,_Sdr._Bjert","Villy Søvndal, Sdr. Bjert",SF - Socialistisk Folkeparti,392
+Kolding,3,Vestbyen,"F_Hans_Holmer,_Kolding","Hans Holmer, Kolding",SF - Socialistisk Folkeparti,35
+Kolding,3,Vestbyen,"F_Susanne_Stenstrop_Thorsen,_Kolding","Susanne Stenstrop Thorsen, Kolding",SF - Socialistisk Folkeparti,13
+Kolding,3,Vestbyen,"F_Marianne_Jespersen,_Kolding","Marianne Jespersen, Kolding",SF - Socialistisk Folkeparti,13
+Kolding,3,Vestbyen,"F_Iben_Lehmann_Rasmussen,_Bramdrupd.","Iben Lehmann Rasmussen, Bramdrupd.",SF - Socialistisk Folkeparti,25
+Kolding,3,Vestbyen,"F_Jørn_Chemnitz,_Kolding","Jørn Chemnitz, Kolding",SF - Socialistisk Folkeparti,53
+Kolding,3,Vestbyen,"F_Abdullah_Ismail,_Brændkjær","Abdullah Ismail, Brændkjær",SF - Socialistisk Folkeparti,20
+Kolding,3,Vestbyen,"F_Ole_Damborg,_Bramdrupdam","Ole Damborg, Bramdrupdam",SF - Socialistisk Folkeparti,1
+Kolding,3,Vestbyen,"F_Mette_T._R._Andersen,_Kolding","Mette T. R. Andersen, Kolding",SF - Socialistisk Folkeparti,7
+Kolding,3,Vestbyen,"F_Nanett_Jensen,_Vamdrup","Nanett Jensen, Vamdrup",SF - Socialistisk Folkeparti,5
+Kolding,3,Vestbyen,"F_Erik_Dyg_Sørensen,_Kolding","Erik Dyg Sørensen, Kolding",SF - Socialistisk Folkeparti,2
+Kolding,3,Vestbyen,"F_Poul_Erik_Nørregaard,_Kolding","Poul Erik Nørregaard, Kolding",SF - Socialistisk Folkeparti,1
+Kolding,3,Vestbyen,"F_Gitte_Høien_Johnsen,_Chr.feld","Gitte Høien Johnsen, Chr.feld",SF - Socialistisk Folkeparti,2
+Kolding,3,Vestbyen,"F_Jesper_Elkjær,_Kolding","Jesper Elkjær, Kolding",SF - Socialistisk Folkeparti,12
+Kolding,3,Vestbyen,I_Listestemmer,Listestemmer,Liberal Alliance,11
+Kolding,3,Vestbyen,I_Helena_Artmann_Andresen,Helena Artmann Andresen,Liberal Alliance,21
+Kolding,3,Vestbyen,I_Mikkel_Pedersen,Mikkel Pedersen,Liberal Alliance,2
+Kolding,3,Vestbyen,I_Carsten_Andersen,Carsten Andersen,Liberal Alliance,0
+Kolding,3,Vestbyen,I_Martin_Kodahl,Martin Kodahl,Liberal Alliance,1
+Kolding,3,Vestbyen,I_Dennis_Paaske,Dennis Paaske,Liberal Alliance,4
+Kolding,3,Vestbyen,K_Listestemmer,Listestemmer,Kristendemokraterne,6
+Kolding,3,Vestbyen,"K_Jens_Chr._Olesen,_Christiansfeld","Jens Chr. Olesen, Christiansfeld",Kristendemokraterne,11
+Kolding,3,Vestbyen,"K_Jørgen_Høier,_Seest","Jørgen Høier, Seest",Kristendemokraterne,2
+Kolding,3,Vestbyen,"K_Simon_Marker_Pedersen,_Kolding","Simon Marker Pedersen, Kolding",Kristendemokraterne,1
+Kolding,3,Vestbyen,O_Listestemmer,Listestemmer,Dansk Folkeparti,41
+Kolding,3,Vestbyen,O_Søren_Rasmussen,Søren Rasmussen,Dansk Folkeparti,169
+Kolding,3,Vestbyen,O_Laura_Guldager,Laura Guldager,Dansk Folkeparti,16
+Kolding,3,Vestbyen,O_Molle_Lykke_Nielsen,Molle Lykke Nielsen,Dansk Folkeparti,5
+Kolding,3,Vestbyen,O_Kristian_Kruse,Kristian Kruse,Dansk Folkeparti,4
+Kolding,3,Vestbyen,O_Jackie_Damkjær_Hansen,Jackie Damkjær Hansen,Dansk Folkeparti,5
+Kolding,3,Vestbyen,O_Mariane_Hansen,Mariane Hansen,Dansk Folkeparti,1
+Kolding,3,Vestbyen,O_René_Arndt,René Arndt,Dansk Folkeparti,2
+Kolding,3,Vestbyen,O_Mikael_Krogh,Mikael Krogh,Dansk Folkeparti,0
+Kolding,3,Vestbyen,O_Tenna_Lindgaard,Tenna Lindgaard,Dansk Folkeparti,1
+Kolding,3,Vestbyen,O_Nancy_Lystlund,Nancy Lystlund,Dansk Folkeparti,1
+Kolding,3,Vestbyen,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",92
+Kolding,3,Vestbyen,"V_Eva_Kjer_Hansen,_Kolding","Eva Kjer Hansen, Kolding","Venstre, Danmarks Liberale Parti",260
+Kolding,3,Vestbyen,"V_Jakob_Ville,_Seest","Jakob Ville, Seest","Venstre, Danmarks Liberale Parti",91
+Kolding,3,Vestbyen,"V_Ole_Martensen,_Kolding","Ole Martensen, Kolding","Venstre, Danmarks Liberale Parti",36
+Kolding,3,Vestbyen,"V_Birgitte_Kragh,_Skanderup","Birgitte Kragh, Skanderup","Venstre, Danmarks Liberale Parti",19
+Kolding,3,Vestbyen,"V_Lene_Brandenborg,_Fynslund","Lene Brandenborg, Fynslund","Venstre, Danmarks Liberale Parti",14
+Kolding,3,Vestbyen,"V_Ole_Alsted,_Almind-Viuf","Ole Alsted, Almind-Viuf","Venstre, Danmarks Liberale Parti",21
+Kolding,3,Vestbyen,"V_Tobias_Jørgensen,_Hoppeshuse","Tobias Jørgensen, Hoppeshuse","Venstre, Danmarks Liberale Parti",10
+Kolding,3,Vestbyen,"V_Trille_Nikolajsen,_Vester_Nebel","Trille Nikolajsen, Vester Nebel","Venstre, Danmarks Liberale Parti",3
+Kolding,3,Vestbyen,"V_Mads_Kloppenborg-Skrumsager,_Chr.f","Mads Kloppenborg-Skrumsager, Chr.f","Venstre, Danmarks Liberale Parti",1
+Kolding,3,Vestbyen,"V_Jørgen_Meyer,_Kolding_Nord","Jørgen Meyer, Kolding Nord","Venstre, Danmarks Liberale Parti",7
+Kolding,3,Vestbyen,"V_Yrsa_Mastrup,_Vamdrup","Yrsa Mastrup, Vamdrup","Venstre, Danmarks Liberale Parti",3
+Kolding,3,Vestbyen,"V_Mette_Balsby,_Kolding","Mette Balsby, Kolding","Venstre, Danmarks Liberale Parti",0
+Kolding,3,Vestbyen,"V_Ahmad_Mohammadi,_Kolding","Ahmad Mohammadi, Kolding","Venstre, Danmarks Liberale Parti",14
+Kolding,3,Vestbyen,"V_Lennarth_Hansen,_Harte","Lennarth Hansen, Harte","Venstre, Danmarks Liberale Parti",48
+Kolding,3,Vestbyen,"V_Glenn_Lundt,_Vamdrup","Glenn Lundt, Vamdrup","Venstre, Danmarks Liberale Parti",3
+Kolding,3,Vestbyen,"V_Morten_Hansen,_Agtrup","Morten Hansen, Agtrup","Venstre, Danmarks Liberale Parti",4
+Kolding,3,Vestbyen,"V_Niels_Henning_Bladt,_Brændkjær","Niels Henning Bladt, Brændkjær","Venstre, Danmarks Liberale Parti",3
+Kolding,3,Vestbyen,"V_Jan_Schjerning,_Lunderskov","Jan Schjerning, Lunderskov","Venstre, Danmarks Liberale Parti",7
+Kolding,3,Vestbyen,"V_Anette_Juhl,_Sdr._Stenderup","Anette Juhl, Sdr. Stenderup","Venstre, Danmarks Liberale Parti",3
+Kolding,3,Vestbyen,Y_Listestemmer,Listestemmer,Kryds for Kolding,1
+Kolding,3,Vestbyen,"Y_Simon_Maegaard,_Kolding","Simon Maegaard, Kolding",Kryds for Kolding,16
+Kolding,3,Vestbyen,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,43
+Kolding,3,Vestbyen,"Ø_Benny_Dall,_Vonsild","Benny Dall, Vonsild",Enhedslisten - De Rød-Grønne,34
+Kolding,3,Vestbyen,"Ø_Hanne_Dam,_Kolding","Hanne Dam, Kolding",Enhedslisten - De Rød-Grønne,27
+Kolding,3,Vestbyen,"Ø_Jannie_Winberg,_Dalby","Jannie Winberg, Dalby",Enhedslisten - De Rød-Grønne,1
+Kolding,3,Vestbyen,"Ø_Ivan_Balleby,_Kolding","Ivan Balleby, Kolding",Enhedslisten - De Rød-Grønne,6
+Kolding,3,Vestbyen,"Ø_Margot_Pedersen,_Harte","Margot Pedersen, Harte",Enhedslisten - De Rød-Grønne,4
+Kolding,3,Vestbyen,"Ø_Brian_Simonsen,_Vamdrup_Ødis-Br.","Brian Simonsen, Vamdrup Ødis-Br.",Enhedslisten - De Rød-Grønne,1
+Kolding,3,Vestbyen,"Ø_Alice_Munkholm_Dall,_Kolding","Alice Munkholm Dall, Kolding",Enhedslisten - De Rød-Grønne,1
+Kolding,3,Vestbyen,"Ø_Erik_Voss,_Kolding","Erik Voss, Kolding",Enhedslisten - De Rød-Grønne,4
+Kolding,3,Vestbyen,"Ø_Daniela_Skov,_Kolding","Daniela Skov, Kolding",Enhedslisten - De Rød-Grønne,1
+Kolding,3,Vestbyen,"Ø_Ole_Maass,_Kolding","Ole Maass, Kolding",Enhedslisten - De Rød-Grønne,2
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,A_Listestemmer,Listestemmer,Socialdemokratiet,169
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,A_Birgitte_Munk_Grunnet,Birgitte Munk Grunnet,Socialdemokratiet,340
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,A_Filip_Bekic_Bladt,Filip Bekic Bladt,Socialdemokratiet,21
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,A_Poul_Fremmelev,Poul Fremmelev,Socialdemokratiet,25
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,A_Vibeke_Boisen_Brandhof,Vibeke Boisen Brandhof,Socialdemokratiet,5
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,A_Per_Bødker_Andersen,Per Bødker Andersen,Socialdemokratiet,25
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,A_Folmer_Krogh,Folmer Krogh,Socialdemokratiet,25
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,A_Elvis_Comic,Elvis Comic,Socialdemokratiet,13
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,A_Jane_Bødskov_Petersen,Jane Bødskov Petersen,Socialdemokratiet,13
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,A_Gerrit_Toet,Gerrit Toet,Socialdemokratiet,3
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,A_Gitte_Guldberg_Spanier,Gitte Guldberg Spanier,Socialdemokratiet,8
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,A_Michael_Jørgensen,Michael Jørgensen,Socialdemokratiet,3
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,A_Bjarne_Stolten_Thomsen,Bjarne Stolten Thomsen,Socialdemokratiet,9
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,A_Hamlaoui_Bahloul,Hamlaoui Bahloul,Socialdemokratiet,8
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,A_Jacob_Bøegh,Jacob Bøegh,Socialdemokratiet,13
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,B_Listestemmer,Listestemmer,Radikale Venstre,116
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"B_Merete_Due_Paarup,_Jordrup","Merete Due Paarup, Jordrup",Radikale Venstre,102
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"B_Margreet_Smit,_Sdr._Stenderup","Margreet Smit, Sdr. Stenderup",Radikale Venstre,23
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"B_Jonathan_Dyring_Løvbom,_Hjarup","Jonathan Dyring Løvbom, Hjarup",Radikale Venstre,47
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"B_Vahida_Hadzija,_Kolding","Vahida Hadzija, Kolding",Radikale Venstre,14
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"B_Charlotte_Enevoldsen,_Kolding","Charlotte Enevoldsen, Kolding",Radikale Venstre,9
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"B_Bjørn_Olsen,_Seest","Bjørn Olsen, Seest",Radikale Venstre,11
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"B_Kenny_C._Holm,_Sjølund","Kenny C. Holm, Sjølund",Radikale Venstre,10
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"B_Bo_Skibelund,_Almind","Bo Skibelund, Almind",Radikale Venstre,4
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"B_Knud_Nørregaard,_Bramdrupdam","Knud Nørregaard, Bramdrupdam",Radikale Venstre,23
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"B_Preben_Tamborg_Pedersen,_Kolding_S","Preben Tamborg Pedersen, Kolding S",Radikale Venstre,2
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"B_Hans_Krab_Koed,_Fovslet","Hans Krab Koed, Fovslet",Radikale Venstre,4
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"B_Ole_Holst,_Drejens","Ole Holst, Drejens",Radikale Venstre,9
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"B_Jens_Sørensen,_Kolding","Jens Sørensen, Kolding",Radikale Venstre,0
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"B_Erik_Krab_Koed,_Almind-Viuf","Erik Krab Koed, Almind-Viuf",Radikale Venstre,1
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"B_Lars_Keller,_Sdr._Bjert","Lars Keller, Sdr. Bjert",Radikale Venstre,0
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,209
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,C_Knud_Erik_Langhoff,Knud Erik Langhoff,Det Konservative Folkeparti,278
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,C_Gitte_Grønbæk,Gitte Grønbæk,Det Konservative Folkeparti,144
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,C_Freddy_Christensen,Freddy Christensen,Det Konservative Folkeparti,11
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,C_Jacob_Silberling_Knudsen,Jacob Silberling Knudsen,Det Konservative Folkeparti,27
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,C_Casper_N._Maglekær,Casper N. Maglekær,Det Konservative Folkeparti,12
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,C_Mirela_Tanovic,Mirela Tanovic,Det Konservative Folkeparti,17
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,C_Jørgen_Bøytler,Jørgen Bøytler,Det Konservative Folkeparti,7
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,C_Dan_Foss_Kragh,Dan Foss Kragh,Det Konservative Folkeparti,83
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,C_Daniel_Klestrup_Bjærge,Daniel Klestrup Bjærge,Det Konservative Folkeparti,3
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,C_Betina_Wettengel,Betina Wettengel,Det Konservative Folkeparti,21
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,C_René_Nikolaj_Andersen,René Nikolaj Andersen,Det Konservative Folkeparti,9
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,C_Christian_Saxov,Christian Saxov,Det Konservative Folkeparti,11
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,C_Mette_Borchert_Vahlun,Mette Borchert Vahlun,Det Konservative Folkeparti,5
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,C_Signe_Bøje_Sahner,Signe Bøje Sahner,Det Konservative Folkeparti,3
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,C_Jesper_Termansen,Jesper Termansen,Det Konservative Folkeparti,10
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,D_Listestemmer,Listestemmer,Nye Borgerlige,71
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,D_Mikael_Fiurendal,Mikael Fiurendal,Nye Borgerlige,28
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,D_Jan_Tambo,Jan Tambo,Nye Borgerlige,13
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,D_Allan_Søllingvraa_Rasmussen,Allan Søllingvraa Rasmussen,Nye Borgerlige,7
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,D_Christina_Britten,Christina Britten,Nye Borgerlige,4
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,D_Dorte_Noer,Dorte Noer,Nye Borgerlige,6
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,D_Peter_Krogsten,Peter Krogsten,Nye Borgerlige,1
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,D_Anders_Thygesen,Anders Thygesen,Nye Borgerlige,1
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,52
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"F_Villy_Søvndal,_Sdr._Bjert","Villy Søvndal, Sdr. Bjert",SF - Socialistisk Folkeparti,498
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"F_Hans_Holmer,_Kolding","Hans Holmer, Kolding",SF - Socialistisk Folkeparti,45
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"F_Susanne_Stenstrop_Thorsen,_Kolding","Susanne Stenstrop Thorsen, Kolding",SF - Socialistisk Folkeparti,31
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"F_Marianne_Jespersen,_Kolding","Marianne Jespersen, Kolding",SF - Socialistisk Folkeparti,9
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"F_Iben_Lehmann_Rasmussen,_Bramdrupd.","Iben Lehmann Rasmussen, Bramdrupd.",SF - Socialistisk Folkeparti,21
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"F_Jørn_Chemnitz,_Kolding","Jørn Chemnitz, Kolding",SF - Socialistisk Folkeparti,32
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"F_Abdullah_Ismail,_Brændkjær","Abdullah Ismail, Brændkjær",SF - Socialistisk Folkeparti,0
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"F_Ole_Damborg,_Bramdrupdam","Ole Damborg, Bramdrupdam",SF - Socialistisk Folkeparti,5
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"F_Mette_T._R._Andersen,_Kolding","Mette T. R. Andersen, Kolding",SF - Socialistisk Folkeparti,6
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"F_Nanett_Jensen,_Vamdrup","Nanett Jensen, Vamdrup",SF - Socialistisk Folkeparti,6
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"F_Erik_Dyg_Sørensen,_Kolding","Erik Dyg Sørensen, Kolding",SF - Socialistisk Folkeparti,5
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"F_Poul_Erik_Nørregaard,_Kolding","Poul Erik Nørregaard, Kolding",SF - Socialistisk Folkeparti,4
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"F_Gitte_Høien_Johnsen,_Chr.feld","Gitte Høien Johnsen, Chr.feld",SF - Socialistisk Folkeparti,2
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"F_Jesper_Elkjær,_Kolding","Jesper Elkjær, Kolding",SF - Socialistisk Folkeparti,21
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,I_Listestemmer,Listestemmer,Liberal Alliance,28
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,I_Helena_Artmann_Andresen,Helena Artmann Andresen,Liberal Alliance,30
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,I_Mikkel_Pedersen,Mikkel Pedersen,Liberal Alliance,3
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,I_Carsten_Andersen,Carsten Andersen,Liberal Alliance,4
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,I_Martin_Kodahl,Martin Kodahl,Liberal Alliance,2
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,I_Dennis_Paaske,Dennis Paaske,Liberal Alliance,15
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,K_Listestemmer,Listestemmer,Kristendemokraterne,9
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"K_Jens_Chr._Olesen,_Christiansfeld","Jens Chr. Olesen, Christiansfeld",Kristendemokraterne,9
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"K_Jørgen_Høier,_Seest","Jørgen Høier, Seest",Kristendemokraterne,2
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"K_Simon_Marker_Pedersen,_Kolding","Simon Marker Pedersen, Kolding",Kristendemokraterne,2
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,O_Listestemmer,Listestemmer,Dansk Folkeparti,39
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,O_Søren_Rasmussen,Søren Rasmussen,Dansk Folkeparti,191
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,O_Laura_Guldager,Laura Guldager,Dansk Folkeparti,15
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,O_Molle_Lykke_Nielsen,Molle Lykke Nielsen,Dansk Folkeparti,2
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,O_Kristian_Kruse,Kristian Kruse,Dansk Folkeparti,3
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,O_Jackie_Damkjær_Hansen,Jackie Damkjær Hansen,Dansk Folkeparti,2
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,O_Mariane_Hansen,Mariane Hansen,Dansk Folkeparti,2
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,O_René_Arndt,René Arndt,Dansk Folkeparti,1
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,O_Mikael_Krogh,Mikael Krogh,Dansk Folkeparti,3
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,O_Tenna_Lindgaard,Tenna Lindgaard,Dansk Folkeparti,2
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,O_Nancy_Lystlund,Nancy Lystlund,Dansk Folkeparti,0
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",316
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"V_Eva_Kjer_Hansen,_Kolding","Eva Kjer Hansen, Kolding","Venstre, Danmarks Liberale Parti",854
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"V_Jakob_Ville,_Seest","Jakob Ville, Seest","Venstre, Danmarks Liberale Parti",288
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"V_Ole_Martensen,_Kolding","Ole Martensen, Kolding","Venstre, Danmarks Liberale Parti",111
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"V_Birgitte_Kragh,_Skanderup","Birgitte Kragh, Skanderup","Venstre, Danmarks Liberale Parti",77
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"V_Lene_Brandenborg,_Fynslund","Lene Brandenborg, Fynslund","Venstre, Danmarks Liberale Parti",4
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"V_Ole_Alsted,_Almind-Viuf","Ole Alsted, Almind-Viuf","Venstre, Danmarks Liberale Parti",58
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"V_Tobias_Jørgensen,_Hoppeshuse","Tobias Jørgensen, Hoppeshuse","Venstre, Danmarks Liberale Parti",37
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"V_Trille_Nikolajsen,_Vester_Nebel","Trille Nikolajsen, Vester Nebel","Venstre, Danmarks Liberale Parti",14
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"V_Mads_Kloppenborg-Skrumsager,_Chr.f","Mads Kloppenborg-Skrumsager, Chr.f","Venstre, Danmarks Liberale Parti",11
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"V_Jørgen_Meyer,_Kolding_Nord","Jørgen Meyer, Kolding Nord","Venstre, Danmarks Liberale Parti",122
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"V_Yrsa_Mastrup,_Vamdrup","Yrsa Mastrup, Vamdrup","Venstre, Danmarks Liberale Parti",3
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"V_Mette_Balsby,_Kolding","Mette Balsby, Kolding","Venstre, Danmarks Liberale Parti",23
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"V_Ahmad_Mohammadi,_Kolding","Ahmad Mohammadi, Kolding","Venstre, Danmarks Liberale Parti",6
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"V_Lennarth_Hansen,_Harte","Lennarth Hansen, Harte","Venstre, Danmarks Liberale Parti",17
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"V_Glenn_Lundt,_Vamdrup","Glenn Lundt, Vamdrup","Venstre, Danmarks Liberale Parti",3
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"V_Morten_Hansen,_Agtrup","Morten Hansen, Agtrup","Venstre, Danmarks Liberale Parti",32
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"V_Niels_Henning_Bladt,_Brændkjær","Niels Henning Bladt, Brændkjær","Venstre, Danmarks Liberale Parti",7
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"V_Jan_Schjerning,_Lunderskov","Jan Schjerning, Lunderskov","Venstre, Danmarks Liberale Parti",5
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"V_Anette_Juhl,_Sdr._Stenderup","Anette Juhl, Sdr. Stenderup","Venstre, Danmarks Liberale Parti",3
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,Y_Listestemmer,Listestemmer,Kryds for Kolding,8
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"Y_Simon_Maegaard,_Kolding","Simon Maegaard, Kolding",Kryds for Kolding,13
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,28
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"Ø_Benny_Dall,_Vonsild","Benny Dall, Vonsild",Enhedslisten - De Rød-Grønne,33
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"Ø_Hanne_Dam,_Kolding","Hanne Dam, Kolding",Enhedslisten - De Rød-Grønne,13
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"Ø_Jannie_Winberg,_Dalby","Jannie Winberg, Dalby",Enhedslisten - De Rød-Grønne,0
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"Ø_Ivan_Balleby,_Kolding","Ivan Balleby, Kolding",Enhedslisten - De Rød-Grønne,4
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"Ø_Margot_Pedersen,_Harte","Margot Pedersen, Harte",Enhedslisten - De Rød-Grønne,1
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"Ø_Brian_Simonsen,_Vamdrup_Ødis-Br.","Brian Simonsen, Vamdrup Ødis-Br.",Enhedslisten - De Rød-Grønne,0
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"Ø_Alice_Munkholm_Dall,_Kolding","Alice Munkholm Dall, Kolding",Enhedslisten - De Rød-Grønne,4
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"Ø_Erik_Voss,_Kolding","Erik Voss, Kolding",Enhedslisten - De Rød-Grønne,4
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"Ø_Daniela_Skov,_Kolding","Daniela Skov, Kolding",Enhedslisten - De Rød-Grønne,0
+Kolding,4,Strandhuse/Nr. Bjert/ Eltang,"Ø_Ole_Maass,_Kolding","Ole Maass, Kolding",Enhedslisten - De Rød-Grønne,4
+Kolding,5,Bramdrupdam,A_Listestemmer,Listestemmer,Socialdemokratiet,120
+Kolding,5,Bramdrupdam,A_Birgitte_Munk_Grunnet,Birgitte Munk Grunnet,Socialdemokratiet,203
+Kolding,5,Bramdrupdam,A_Filip_Bekic_Bladt,Filip Bekic Bladt,Socialdemokratiet,13
+Kolding,5,Bramdrupdam,A_Poul_Fremmelev,Poul Fremmelev,Socialdemokratiet,8
+Kolding,5,Bramdrupdam,A_Vibeke_Boisen_Brandhof,Vibeke Boisen Brandhof,Socialdemokratiet,4
+Kolding,5,Bramdrupdam,A_Per_Bødker_Andersen,Per Bødker Andersen,Socialdemokratiet,64
+Kolding,5,Bramdrupdam,A_Folmer_Krogh,Folmer Krogh,Socialdemokratiet,34
+Kolding,5,Bramdrupdam,A_Elvis_Comic,Elvis Comic,Socialdemokratiet,21
+Kolding,5,Bramdrupdam,A_Jane_Bødskov_Petersen,Jane Bødskov Petersen,Socialdemokratiet,15
+Kolding,5,Bramdrupdam,A_Gerrit_Toet,Gerrit Toet,Socialdemokratiet,6
+Kolding,5,Bramdrupdam,A_Gitte_Guldberg_Spanier,Gitte Guldberg Spanier,Socialdemokratiet,6
+Kolding,5,Bramdrupdam,A_Michael_Jørgensen,Michael Jørgensen,Socialdemokratiet,3
+Kolding,5,Bramdrupdam,A_Bjarne_Stolten_Thomsen,Bjarne Stolten Thomsen,Socialdemokratiet,6
+Kolding,5,Bramdrupdam,A_Hamlaoui_Bahloul,Hamlaoui Bahloul,Socialdemokratiet,20
+Kolding,5,Bramdrupdam,A_Jacob_Bøegh,Jacob Bøegh,Socialdemokratiet,7
+Kolding,5,Bramdrupdam,B_Listestemmer,Listestemmer,Radikale Venstre,35
+Kolding,5,Bramdrupdam,"B_Merete_Due_Paarup,_Jordrup","Merete Due Paarup, Jordrup",Radikale Venstre,57
+Kolding,5,Bramdrupdam,"B_Margreet_Smit,_Sdr._Stenderup","Margreet Smit, Sdr. Stenderup",Radikale Venstre,2
+Kolding,5,Bramdrupdam,"B_Jonathan_Dyring_Løvbom,_Hjarup","Jonathan Dyring Løvbom, Hjarup",Radikale Venstre,26
+Kolding,5,Bramdrupdam,"B_Vahida_Hadzija,_Kolding","Vahida Hadzija, Kolding",Radikale Venstre,22
+Kolding,5,Bramdrupdam,"B_Charlotte_Enevoldsen,_Kolding","Charlotte Enevoldsen, Kolding",Radikale Venstre,4
+Kolding,5,Bramdrupdam,"B_Bjørn_Olsen,_Seest","Bjørn Olsen, Seest",Radikale Venstre,2
+Kolding,5,Bramdrupdam,"B_Kenny_C._Holm,_Sjølund","Kenny C. Holm, Sjølund",Radikale Venstre,4
+Kolding,5,Bramdrupdam,"B_Bo_Skibelund,_Almind","Bo Skibelund, Almind",Radikale Venstre,7
+Kolding,5,Bramdrupdam,"B_Knud_Nørregaard,_Bramdrupdam","Knud Nørregaard, Bramdrupdam",Radikale Venstre,47
+Kolding,5,Bramdrupdam,"B_Preben_Tamborg_Pedersen,_Kolding_S","Preben Tamborg Pedersen, Kolding S",Radikale Venstre,0
+Kolding,5,Bramdrupdam,"B_Hans_Krab_Koed,_Fovslet","Hans Krab Koed, Fovslet",Radikale Venstre,1
+Kolding,5,Bramdrupdam,"B_Ole_Holst,_Drejens","Ole Holst, Drejens",Radikale Venstre,0
+Kolding,5,Bramdrupdam,"B_Jens_Sørensen,_Kolding","Jens Sørensen, Kolding",Radikale Venstre,0
+Kolding,5,Bramdrupdam,"B_Erik_Krab_Koed,_Almind-Viuf","Erik Krab Koed, Almind-Viuf",Radikale Venstre,1
+Kolding,5,Bramdrupdam,"B_Lars_Keller,_Sdr._Bjert","Lars Keller, Sdr. Bjert",Radikale Venstre,0
+Kolding,5,Bramdrupdam,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,82
+Kolding,5,Bramdrupdam,C_Knud_Erik_Langhoff,Knud Erik Langhoff,Det Konservative Folkeparti,110
+Kolding,5,Bramdrupdam,C_Gitte_Grønbæk,Gitte Grønbæk,Det Konservative Folkeparti,50
+Kolding,5,Bramdrupdam,C_Freddy_Christensen,Freddy Christensen,Det Konservative Folkeparti,4
+Kolding,5,Bramdrupdam,C_Jacob_Silberling_Knudsen,Jacob Silberling Knudsen,Det Konservative Folkeparti,16
+Kolding,5,Bramdrupdam,C_Casper_N._Maglekær,Casper N. Maglekær,Det Konservative Folkeparti,3
+Kolding,5,Bramdrupdam,C_Mirela_Tanovic,Mirela Tanovic,Det Konservative Folkeparti,7
+Kolding,5,Bramdrupdam,C_Jørgen_Bøytler,Jørgen Bøytler,Det Konservative Folkeparti,0
+Kolding,5,Bramdrupdam,C_Dan_Foss_Kragh,Dan Foss Kragh,Det Konservative Folkeparti,6
+Kolding,5,Bramdrupdam,C_Daniel_Klestrup_Bjærge,Daniel Klestrup Bjærge,Det Konservative Folkeparti,5
+Kolding,5,Bramdrupdam,C_Betina_Wettengel,Betina Wettengel,Det Konservative Folkeparti,11
+Kolding,5,Bramdrupdam,C_René_Nikolaj_Andersen,René Nikolaj Andersen,Det Konservative Folkeparti,3
+Kolding,5,Bramdrupdam,C_Christian_Saxov,Christian Saxov,Det Konservative Folkeparti,7
+Kolding,5,Bramdrupdam,C_Mette_Borchert_Vahlun,Mette Borchert Vahlun,Det Konservative Folkeparti,2
+Kolding,5,Bramdrupdam,C_Signe_Bøje_Sahner,Signe Bøje Sahner,Det Konservative Folkeparti,0
+Kolding,5,Bramdrupdam,C_Jesper_Termansen,Jesper Termansen,Det Konservative Folkeparti,1
+Kolding,5,Bramdrupdam,D_Listestemmer,Listestemmer,Nye Borgerlige,51
+Kolding,5,Bramdrupdam,D_Mikael_Fiurendal,Mikael Fiurendal,Nye Borgerlige,15
+Kolding,5,Bramdrupdam,D_Jan_Tambo,Jan Tambo,Nye Borgerlige,19
+Kolding,5,Bramdrupdam,D_Allan_Søllingvraa_Rasmussen,Allan Søllingvraa Rasmussen,Nye Borgerlige,5
+Kolding,5,Bramdrupdam,D_Christina_Britten,Christina Britten,Nye Borgerlige,1
+Kolding,5,Bramdrupdam,D_Dorte_Noer,Dorte Noer,Nye Borgerlige,3
+Kolding,5,Bramdrupdam,D_Peter_Krogsten,Peter Krogsten,Nye Borgerlige,0
+Kolding,5,Bramdrupdam,D_Anders_Thygesen,Anders Thygesen,Nye Borgerlige,3
+Kolding,5,Bramdrupdam,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,45
+Kolding,5,Bramdrupdam,"F_Villy_Søvndal,_Sdr._Bjert","Villy Søvndal, Sdr. Bjert",SF - Socialistisk Folkeparti,355
+Kolding,5,Bramdrupdam,"F_Hans_Holmer,_Kolding","Hans Holmer, Kolding",SF - Socialistisk Folkeparti,31
+Kolding,5,Bramdrupdam,"F_Susanne_Stenstrop_Thorsen,_Kolding","Susanne Stenstrop Thorsen, Kolding",SF - Socialistisk Folkeparti,11
+Kolding,5,Bramdrupdam,"F_Marianne_Jespersen,_Kolding","Marianne Jespersen, Kolding",SF - Socialistisk Folkeparti,5
+Kolding,5,Bramdrupdam,"F_Iben_Lehmann_Rasmussen,_Bramdrupd.","Iben Lehmann Rasmussen, Bramdrupd.",SF - Socialistisk Folkeparti,36
+Kolding,5,Bramdrupdam,"F_Jørn_Chemnitz,_Kolding","Jørn Chemnitz, Kolding",SF - Socialistisk Folkeparti,21
+Kolding,5,Bramdrupdam,"F_Abdullah_Ismail,_Brændkjær","Abdullah Ismail, Brændkjær",SF - Socialistisk Folkeparti,4
+Kolding,5,Bramdrupdam,"F_Ole_Damborg,_Bramdrupdam","Ole Damborg, Bramdrupdam",SF - Socialistisk Folkeparti,24
+Kolding,5,Bramdrupdam,"F_Mette_T._R._Andersen,_Kolding","Mette T. R. Andersen, Kolding",SF - Socialistisk Folkeparti,11
+Kolding,5,Bramdrupdam,"F_Nanett_Jensen,_Vamdrup","Nanett Jensen, Vamdrup",SF - Socialistisk Folkeparti,2
+Kolding,5,Bramdrupdam,"F_Erik_Dyg_Sørensen,_Kolding","Erik Dyg Sørensen, Kolding",SF - Socialistisk Folkeparti,2
+Kolding,5,Bramdrupdam,"F_Poul_Erik_Nørregaard,_Kolding","Poul Erik Nørregaard, Kolding",SF - Socialistisk Folkeparti,0
+Kolding,5,Bramdrupdam,"F_Gitte_Høien_Johnsen,_Chr.feld","Gitte Høien Johnsen, Chr.feld",SF - Socialistisk Folkeparti,1
+Kolding,5,Bramdrupdam,"F_Jesper_Elkjær,_Kolding","Jesper Elkjær, Kolding",SF - Socialistisk Folkeparti,6
+Kolding,5,Bramdrupdam,I_Listestemmer,Listestemmer,Liberal Alliance,16
+Kolding,5,Bramdrupdam,I_Helena_Artmann_Andresen,Helena Artmann Andresen,Liberal Alliance,17
+Kolding,5,Bramdrupdam,I_Mikkel_Pedersen,Mikkel Pedersen,Liberal Alliance,4
+Kolding,5,Bramdrupdam,I_Carsten_Andersen,Carsten Andersen,Liberal Alliance,0
+Kolding,5,Bramdrupdam,I_Martin_Kodahl,Martin Kodahl,Liberal Alliance,1
+Kolding,5,Bramdrupdam,I_Dennis_Paaske,Dennis Paaske,Liberal Alliance,8
+Kolding,5,Bramdrupdam,K_Listestemmer,Listestemmer,Kristendemokraterne,0
+Kolding,5,Bramdrupdam,"K_Jens_Chr._Olesen,_Christiansfeld","Jens Chr. Olesen, Christiansfeld",Kristendemokraterne,5
+Kolding,5,Bramdrupdam,"K_Jørgen_Høier,_Seest","Jørgen Høier, Seest",Kristendemokraterne,1
+Kolding,5,Bramdrupdam,"K_Simon_Marker_Pedersen,_Kolding","Simon Marker Pedersen, Kolding",Kristendemokraterne,1
+Kolding,5,Bramdrupdam,O_Listestemmer,Listestemmer,Dansk Folkeparti,42
+Kolding,5,Bramdrupdam,O_Søren_Rasmussen,Søren Rasmussen,Dansk Folkeparti,107
+Kolding,5,Bramdrupdam,O_Laura_Guldager,Laura Guldager,Dansk Folkeparti,14
+Kolding,5,Bramdrupdam,O_Molle_Lykke_Nielsen,Molle Lykke Nielsen,Dansk Folkeparti,1
+Kolding,5,Bramdrupdam,O_Kristian_Kruse,Kristian Kruse,Dansk Folkeparti,4
+Kolding,5,Bramdrupdam,O_Jackie_Damkjær_Hansen,Jackie Damkjær Hansen,Dansk Folkeparti,10
+Kolding,5,Bramdrupdam,O_Mariane_Hansen,Mariane Hansen,Dansk Folkeparti,4
+Kolding,5,Bramdrupdam,O_René_Arndt,René Arndt,Dansk Folkeparti,2
+Kolding,5,Bramdrupdam,O_Mikael_Krogh,Mikael Krogh,Dansk Folkeparti,0
+Kolding,5,Bramdrupdam,O_Tenna_Lindgaard,Tenna Lindgaard,Dansk Folkeparti,1
+Kolding,5,Bramdrupdam,O_Nancy_Lystlund,Nancy Lystlund,Dansk Folkeparti,1
+Kolding,5,Bramdrupdam,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",155
+Kolding,5,Bramdrupdam,"V_Eva_Kjer_Hansen,_Kolding","Eva Kjer Hansen, Kolding","Venstre, Danmarks Liberale Parti",486
+Kolding,5,Bramdrupdam,"V_Jakob_Ville,_Seest","Jakob Ville, Seest","Venstre, Danmarks Liberale Parti",152
+Kolding,5,Bramdrupdam,"V_Ole_Martensen,_Kolding","Ole Martensen, Kolding","Venstre, Danmarks Liberale Parti",54
+Kolding,5,Bramdrupdam,"V_Birgitte_Kragh,_Skanderup","Birgitte Kragh, Skanderup","Venstre, Danmarks Liberale Parti",35
+Kolding,5,Bramdrupdam,"V_Lene_Brandenborg,_Fynslund","Lene Brandenborg, Fynslund","Venstre, Danmarks Liberale Parti",5
+Kolding,5,Bramdrupdam,"V_Ole_Alsted,_Almind-Viuf","Ole Alsted, Almind-Viuf","Venstre, Danmarks Liberale Parti",60
+Kolding,5,Bramdrupdam,"V_Tobias_Jørgensen,_Hoppeshuse","Tobias Jørgensen, Hoppeshuse","Venstre, Danmarks Liberale Parti",16
+Kolding,5,Bramdrupdam,"V_Trille_Nikolajsen,_Vester_Nebel","Trille Nikolajsen, Vester Nebel","Venstre, Danmarks Liberale Parti",58
+Kolding,5,Bramdrupdam,"V_Mads_Kloppenborg-Skrumsager,_Chr.f","Mads Kloppenborg-Skrumsager, Chr.f","Venstre, Danmarks Liberale Parti",6
+Kolding,5,Bramdrupdam,"V_Jørgen_Meyer,_Kolding_Nord","Jørgen Meyer, Kolding Nord","Venstre, Danmarks Liberale Parti",6
+Kolding,5,Bramdrupdam,"V_Yrsa_Mastrup,_Vamdrup","Yrsa Mastrup, Vamdrup","Venstre, Danmarks Liberale Parti",11
+Kolding,5,Bramdrupdam,"V_Mette_Balsby,_Kolding","Mette Balsby, Kolding","Venstre, Danmarks Liberale Parti",2
+Kolding,5,Bramdrupdam,"V_Ahmad_Mohammadi,_Kolding","Ahmad Mohammadi, Kolding","Venstre, Danmarks Liberale Parti",12
+Kolding,5,Bramdrupdam,"V_Lennarth_Hansen,_Harte","Lennarth Hansen, Harte","Venstre, Danmarks Liberale Parti",7
+Kolding,5,Bramdrupdam,"V_Glenn_Lundt,_Vamdrup","Glenn Lundt, Vamdrup","Venstre, Danmarks Liberale Parti",0
+Kolding,5,Bramdrupdam,"V_Morten_Hansen,_Agtrup","Morten Hansen, Agtrup","Venstre, Danmarks Liberale Parti",11
+Kolding,5,Bramdrupdam,"V_Niels_Henning_Bladt,_Brændkjær","Niels Henning Bladt, Brændkjær","Venstre, Danmarks Liberale Parti",6
+Kolding,5,Bramdrupdam,"V_Jan_Schjerning,_Lunderskov","Jan Schjerning, Lunderskov","Venstre, Danmarks Liberale Parti",5
+Kolding,5,Bramdrupdam,"V_Anette_Juhl,_Sdr._Stenderup","Anette Juhl, Sdr. Stenderup","Venstre, Danmarks Liberale Parti",1
+Kolding,5,Bramdrupdam,Y_Listestemmer,Listestemmer,Kryds for Kolding,2
+Kolding,5,Bramdrupdam,"Y_Simon_Maegaard,_Kolding","Simon Maegaard, Kolding",Kryds for Kolding,5
+Kolding,5,Bramdrupdam,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,18
+Kolding,5,Bramdrupdam,"Ø_Benny_Dall,_Vonsild","Benny Dall, Vonsild",Enhedslisten - De Rød-Grønne,17
+Kolding,5,Bramdrupdam,"Ø_Hanne_Dam,_Kolding","Hanne Dam, Kolding",Enhedslisten - De Rød-Grønne,8
+Kolding,5,Bramdrupdam,"Ø_Jannie_Winberg,_Dalby","Jannie Winberg, Dalby",Enhedslisten - De Rød-Grønne,1
+Kolding,5,Bramdrupdam,"Ø_Ivan_Balleby,_Kolding","Ivan Balleby, Kolding",Enhedslisten - De Rød-Grønne,2
+Kolding,5,Bramdrupdam,"Ø_Margot_Pedersen,_Harte","Margot Pedersen, Harte",Enhedslisten - De Rød-Grønne,0
+Kolding,5,Bramdrupdam,"Ø_Brian_Simonsen,_Vamdrup_Ødis-Br.","Brian Simonsen, Vamdrup Ødis-Br.",Enhedslisten - De Rød-Grønne,0
+Kolding,5,Bramdrupdam,"Ø_Alice_Munkholm_Dall,_Kolding","Alice Munkholm Dall, Kolding",Enhedslisten - De Rød-Grønne,0
+Kolding,5,Bramdrupdam,"Ø_Erik_Voss,_Kolding","Erik Voss, Kolding",Enhedslisten - De Rød-Grønne,0
+Kolding,5,Bramdrupdam,"Ø_Daniela_Skov,_Kolding","Daniela Skov, Kolding",Enhedslisten - De Rød-Grønne,0
+Kolding,5,Bramdrupdam,"Ø_Ole_Maass,_Kolding","Ole Maass, Kolding",Enhedslisten - De Rød-Grønne,2
+Kolding,6,Alminde-Viuf/Vester Nebel,A_Listestemmer,Listestemmer,Socialdemokratiet,111
+Kolding,6,Alminde-Viuf/Vester Nebel,A_Birgitte_Munk_Grunnet,Birgitte Munk Grunnet,Socialdemokratiet,198
+Kolding,6,Alminde-Viuf/Vester Nebel,A_Filip_Bekic_Bladt,Filip Bekic Bladt,Socialdemokratiet,14
+Kolding,6,Alminde-Viuf/Vester Nebel,A_Poul_Fremmelev,Poul Fremmelev,Socialdemokratiet,6
+Kolding,6,Alminde-Viuf/Vester Nebel,A_Vibeke_Boisen_Brandhof,Vibeke Boisen Brandhof,Socialdemokratiet,6
+Kolding,6,Alminde-Viuf/Vester Nebel,A_Per_Bødker_Andersen,Per Bødker Andersen,Socialdemokratiet,18
+Kolding,6,Alminde-Viuf/Vester Nebel,A_Folmer_Krogh,Folmer Krogh,Socialdemokratiet,12
+Kolding,6,Alminde-Viuf/Vester Nebel,A_Elvis_Comic,Elvis Comic,Socialdemokratiet,5
+Kolding,6,Alminde-Viuf/Vester Nebel,A_Jane_Bødskov_Petersen,Jane Bødskov Petersen,Socialdemokratiet,8
+Kolding,6,Alminde-Viuf/Vester Nebel,A_Gerrit_Toet,Gerrit Toet,Socialdemokratiet,1
+Kolding,6,Alminde-Viuf/Vester Nebel,A_Gitte_Guldberg_Spanier,Gitte Guldberg Spanier,Socialdemokratiet,3
+Kolding,6,Alminde-Viuf/Vester Nebel,A_Michael_Jørgensen,Michael Jørgensen,Socialdemokratiet,7
+Kolding,6,Alminde-Viuf/Vester Nebel,A_Bjarne_Stolten_Thomsen,Bjarne Stolten Thomsen,Socialdemokratiet,0
+Kolding,6,Alminde-Viuf/Vester Nebel,A_Hamlaoui_Bahloul,Hamlaoui Bahloul,Socialdemokratiet,3
+Kolding,6,Alminde-Viuf/Vester Nebel,A_Jacob_Bøegh,Jacob Bøegh,Socialdemokratiet,5
+Kolding,6,Alminde-Viuf/Vester Nebel,B_Listestemmer,Listestemmer,Radikale Venstre,20
+Kolding,6,Alminde-Viuf/Vester Nebel,"B_Merete_Due_Paarup,_Jordrup","Merete Due Paarup, Jordrup",Radikale Venstre,31
+Kolding,6,Alminde-Viuf/Vester Nebel,"B_Margreet_Smit,_Sdr._Stenderup","Margreet Smit, Sdr. Stenderup",Radikale Venstre,5
+Kolding,6,Alminde-Viuf/Vester Nebel,"B_Jonathan_Dyring_Løvbom,_Hjarup","Jonathan Dyring Løvbom, Hjarup",Radikale Venstre,21
+Kolding,6,Alminde-Viuf/Vester Nebel,"B_Vahida_Hadzija,_Kolding","Vahida Hadzija, Kolding",Radikale Venstre,1
+Kolding,6,Alminde-Viuf/Vester Nebel,"B_Charlotte_Enevoldsen,_Kolding","Charlotte Enevoldsen, Kolding",Radikale Venstre,5
+Kolding,6,Alminde-Viuf/Vester Nebel,"B_Bjørn_Olsen,_Seest","Bjørn Olsen, Seest",Radikale Venstre,3
+Kolding,6,Alminde-Viuf/Vester Nebel,"B_Kenny_C._Holm,_Sjølund","Kenny C. Holm, Sjølund",Radikale Venstre,4
+Kolding,6,Alminde-Viuf/Vester Nebel,"B_Bo_Skibelund,_Almind","Bo Skibelund, Almind",Radikale Venstre,7
+Kolding,6,Alminde-Viuf/Vester Nebel,"B_Knud_Nørregaard,_Bramdrupdam","Knud Nørregaard, Bramdrupdam",Radikale Venstre,6
+Kolding,6,Alminde-Viuf/Vester Nebel,"B_Preben_Tamborg_Pedersen,_Kolding_S","Preben Tamborg Pedersen, Kolding S",Radikale Venstre,0
+Kolding,6,Alminde-Viuf/Vester Nebel,"B_Hans_Krab_Koed,_Fovslet","Hans Krab Koed, Fovslet",Radikale Venstre,1
+Kolding,6,Alminde-Viuf/Vester Nebel,"B_Ole_Holst,_Drejens","Ole Holst, Drejens",Radikale Venstre,0
+Kolding,6,Alminde-Viuf/Vester Nebel,"B_Jens_Sørensen,_Kolding","Jens Sørensen, Kolding",Radikale Venstre,2
+Kolding,6,Alminde-Viuf/Vester Nebel,"B_Erik_Krab_Koed,_Almind-Viuf","Erik Krab Koed, Almind-Viuf",Radikale Venstre,5
+Kolding,6,Alminde-Viuf/Vester Nebel,"B_Lars_Keller,_Sdr._Bjert","Lars Keller, Sdr. Bjert",Radikale Venstre,0
+Kolding,6,Alminde-Viuf/Vester Nebel,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,46
+Kolding,6,Alminde-Viuf/Vester Nebel,C_Knud_Erik_Langhoff,Knud Erik Langhoff,Det Konservative Folkeparti,56
+Kolding,6,Alminde-Viuf/Vester Nebel,C_Gitte_Grønbæk,Gitte Grønbæk,Det Konservative Folkeparti,38
+Kolding,6,Alminde-Viuf/Vester Nebel,C_Freddy_Christensen,Freddy Christensen,Det Konservative Folkeparti,1
+Kolding,6,Alminde-Viuf/Vester Nebel,C_Jacob_Silberling_Knudsen,Jacob Silberling Knudsen,Det Konservative Folkeparti,10
+Kolding,6,Alminde-Viuf/Vester Nebel,C_Casper_N._Maglekær,Casper N. Maglekær,Det Konservative Folkeparti,2
+Kolding,6,Alminde-Viuf/Vester Nebel,C_Mirela_Tanovic,Mirela Tanovic,Det Konservative Folkeparti,3
+Kolding,6,Alminde-Viuf/Vester Nebel,C_Jørgen_Bøytler,Jørgen Bøytler,Det Konservative Folkeparti,0
+Kolding,6,Alminde-Viuf/Vester Nebel,C_Dan_Foss_Kragh,Dan Foss Kragh,Det Konservative Folkeparti,4
+Kolding,6,Alminde-Viuf/Vester Nebel,C_Daniel_Klestrup_Bjærge,Daniel Klestrup Bjærge,Det Konservative Folkeparti,0
+Kolding,6,Alminde-Viuf/Vester Nebel,C_Betina_Wettengel,Betina Wettengel,Det Konservative Folkeparti,4
+Kolding,6,Alminde-Viuf/Vester Nebel,C_René_Nikolaj_Andersen,René Nikolaj Andersen,Det Konservative Folkeparti,1
+Kolding,6,Alminde-Viuf/Vester Nebel,C_Christian_Saxov,Christian Saxov,Det Konservative Folkeparti,2
+Kolding,6,Alminde-Viuf/Vester Nebel,C_Mette_Borchert_Vahlun,Mette Borchert Vahlun,Det Konservative Folkeparti,3
+Kolding,6,Alminde-Viuf/Vester Nebel,C_Signe_Bøje_Sahner,Signe Bøje Sahner,Det Konservative Folkeparti,1
+Kolding,6,Alminde-Viuf/Vester Nebel,C_Jesper_Termansen,Jesper Termansen,Det Konservative Folkeparti,0
+Kolding,6,Alminde-Viuf/Vester Nebel,D_Listestemmer,Listestemmer,Nye Borgerlige,37
+Kolding,6,Alminde-Viuf/Vester Nebel,D_Mikael_Fiurendal,Mikael Fiurendal,Nye Borgerlige,18
+Kolding,6,Alminde-Viuf/Vester Nebel,D_Jan_Tambo,Jan Tambo,Nye Borgerlige,4
+Kolding,6,Alminde-Viuf/Vester Nebel,D_Allan_Søllingvraa_Rasmussen,Allan Søllingvraa Rasmussen,Nye Borgerlige,4
+Kolding,6,Alminde-Viuf/Vester Nebel,D_Christina_Britten,Christina Britten,Nye Borgerlige,4
+Kolding,6,Alminde-Viuf/Vester Nebel,D_Dorte_Noer,Dorte Noer,Nye Borgerlige,0
+Kolding,6,Alminde-Viuf/Vester Nebel,D_Peter_Krogsten,Peter Krogsten,Nye Borgerlige,1
+Kolding,6,Alminde-Viuf/Vester Nebel,D_Anders_Thygesen,Anders Thygesen,Nye Borgerlige,4
+Kolding,6,Alminde-Viuf/Vester Nebel,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,33
+Kolding,6,Alminde-Viuf/Vester Nebel,"F_Villy_Søvndal,_Sdr._Bjert","Villy Søvndal, Sdr. Bjert",SF - Socialistisk Folkeparti,219
+Kolding,6,Alminde-Viuf/Vester Nebel,"F_Hans_Holmer,_Kolding","Hans Holmer, Kolding",SF - Socialistisk Folkeparti,9
+Kolding,6,Alminde-Viuf/Vester Nebel,"F_Susanne_Stenstrop_Thorsen,_Kolding","Susanne Stenstrop Thorsen, Kolding",SF - Socialistisk Folkeparti,13
+Kolding,6,Alminde-Viuf/Vester Nebel,"F_Marianne_Jespersen,_Kolding","Marianne Jespersen, Kolding",SF - Socialistisk Folkeparti,2
+Kolding,6,Alminde-Viuf/Vester Nebel,"F_Iben_Lehmann_Rasmussen,_Bramdrupd.","Iben Lehmann Rasmussen, Bramdrupd.",SF - Socialistisk Folkeparti,12
+Kolding,6,Alminde-Viuf/Vester Nebel,"F_Jørn_Chemnitz,_Kolding","Jørn Chemnitz, Kolding",SF - Socialistisk Folkeparti,18
+Kolding,6,Alminde-Viuf/Vester Nebel,"F_Abdullah_Ismail,_Brændkjær","Abdullah Ismail, Brændkjær",SF - Socialistisk Folkeparti,2
+Kolding,6,Alminde-Viuf/Vester Nebel,"F_Ole_Damborg,_Bramdrupdam","Ole Damborg, Bramdrupdam",SF - Socialistisk Folkeparti,2
+Kolding,6,Alminde-Viuf/Vester Nebel,"F_Mette_T._R._Andersen,_Kolding","Mette T. R. Andersen, Kolding",SF - Socialistisk Folkeparti,2
+Kolding,6,Alminde-Viuf/Vester Nebel,"F_Nanett_Jensen,_Vamdrup","Nanett Jensen, Vamdrup",SF - Socialistisk Folkeparti,1
+Kolding,6,Alminde-Viuf/Vester Nebel,"F_Erik_Dyg_Sørensen,_Kolding","Erik Dyg Sørensen, Kolding",SF - Socialistisk Folkeparti,0
+Kolding,6,Alminde-Viuf/Vester Nebel,"F_Poul_Erik_Nørregaard,_Kolding","Poul Erik Nørregaard, Kolding",SF - Socialistisk Folkeparti,0
+Kolding,6,Alminde-Viuf/Vester Nebel,"F_Gitte_Høien_Johnsen,_Chr.feld","Gitte Høien Johnsen, Chr.feld",SF - Socialistisk Folkeparti,3
+Kolding,6,Alminde-Viuf/Vester Nebel,"F_Jesper_Elkjær,_Kolding","Jesper Elkjær, Kolding",SF - Socialistisk Folkeparti,4
+Kolding,6,Alminde-Viuf/Vester Nebel,I_Listestemmer,Listestemmer,Liberal Alliance,10
+Kolding,6,Alminde-Viuf/Vester Nebel,I_Helena_Artmann_Andresen,Helena Artmann Andresen,Liberal Alliance,12
+Kolding,6,Alminde-Viuf/Vester Nebel,I_Mikkel_Pedersen,Mikkel Pedersen,Liberal Alliance,2
+Kolding,6,Alminde-Viuf/Vester Nebel,I_Carsten_Andersen,Carsten Andersen,Liberal Alliance,1
+Kolding,6,Alminde-Viuf/Vester Nebel,I_Martin_Kodahl,Martin Kodahl,Liberal Alliance,0
+Kolding,6,Alminde-Viuf/Vester Nebel,I_Dennis_Paaske,Dennis Paaske,Liberal Alliance,3
+Kolding,6,Alminde-Viuf/Vester Nebel,K_Listestemmer,Listestemmer,Kristendemokraterne,2
+Kolding,6,Alminde-Viuf/Vester Nebel,"K_Jens_Chr._Olesen,_Christiansfeld","Jens Chr. Olesen, Christiansfeld",Kristendemokraterne,5
+Kolding,6,Alminde-Viuf/Vester Nebel,"K_Jørgen_Høier,_Seest","Jørgen Høier, Seest",Kristendemokraterne,2
+Kolding,6,Alminde-Viuf/Vester Nebel,"K_Simon_Marker_Pedersen,_Kolding","Simon Marker Pedersen, Kolding",Kristendemokraterne,1
+Kolding,6,Alminde-Viuf/Vester Nebel,O_Listestemmer,Listestemmer,Dansk Folkeparti,29
+Kolding,6,Alminde-Viuf/Vester Nebel,O_Søren_Rasmussen,Søren Rasmussen,Dansk Folkeparti,96
+Kolding,6,Alminde-Viuf/Vester Nebel,O_Laura_Guldager,Laura Guldager,Dansk Folkeparti,43
+Kolding,6,Alminde-Viuf/Vester Nebel,O_Molle_Lykke_Nielsen,Molle Lykke Nielsen,Dansk Folkeparti,1
+Kolding,6,Alminde-Viuf/Vester Nebel,O_Kristian_Kruse,Kristian Kruse,Dansk Folkeparti,0
+Kolding,6,Alminde-Viuf/Vester Nebel,O_Jackie_Damkjær_Hansen,Jackie Damkjær Hansen,Dansk Folkeparti,3
+Kolding,6,Alminde-Viuf/Vester Nebel,O_Mariane_Hansen,Mariane Hansen,Dansk Folkeparti,5
+Kolding,6,Alminde-Viuf/Vester Nebel,O_René_Arndt,René Arndt,Dansk Folkeparti,3
+Kolding,6,Alminde-Viuf/Vester Nebel,O_Mikael_Krogh,Mikael Krogh,Dansk Folkeparti,1
+Kolding,6,Alminde-Viuf/Vester Nebel,O_Tenna_Lindgaard,Tenna Lindgaard,Dansk Folkeparti,1
+Kolding,6,Alminde-Viuf/Vester Nebel,O_Nancy_Lystlund,Nancy Lystlund,Dansk Folkeparti,2
+Kolding,6,Alminde-Viuf/Vester Nebel,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",88
+Kolding,6,Alminde-Viuf/Vester Nebel,"V_Eva_Kjer_Hansen,_Kolding","Eva Kjer Hansen, Kolding","Venstre, Danmarks Liberale Parti",216
+Kolding,6,Alminde-Viuf/Vester Nebel,"V_Jakob_Ville,_Seest","Jakob Ville, Seest","Venstre, Danmarks Liberale Parti",63
+Kolding,6,Alminde-Viuf/Vester Nebel,"V_Ole_Martensen,_Kolding","Ole Martensen, Kolding","Venstre, Danmarks Liberale Parti",52
+Kolding,6,Alminde-Viuf/Vester Nebel,"V_Birgitte_Kragh,_Skanderup","Birgitte Kragh, Skanderup","Venstre, Danmarks Liberale Parti",17
+Kolding,6,Alminde-Viuf/Vester Nebel,"V_Lene_Brandenborg,_Fynslund","Lene Brandenborg, Fynslund","Venstre, Danmarks Liberale Parti",25
+Kolding,6,Alminde-Viuf/Vester Nebel,"V_Ole_Alsted,_Almind-Viuf","Ole Alsted, Almind-Viuf","Venstre, Danmarks Liberale Parti",638
+Kolding,6,Alminde-Viuf/Vester Nebel,"V_Tobias_Jørgensen,_Hoppeshuse","Tobias Jørgensen, Hoppeshuse","Venstre, Danmarks Liberale Parti",12
+Kolding,6,Alminde-Viuf/Vester Nebel,"V_Trille_Nikolajsen,_Vester_Nebel","Trille Nikolajsen, Vester Nebel","Venstre, Danmarks Liberale Parti",416
+Kolding,6,Alminde-Viuf/Vester Nebel,"V_Mads_Kloppenborg-Skrumsager,_Chr.f","Mads Kloppenborg-Skrumsager, Chr.f","Venstre, Danmarks Liberale Parti",8
+Kolding,6,Alminde-Viuf/Vester Nebel,"V_Jørgen_Meyer,_Kolding_Nord","Jørgen Meyer, Kolding Nord","Venstre, Danmarks Liberale Parti",3
+Kolding,6,Alminde-Viuf/Vester Nebel,"V_Yrsa_Mastrup,_Vamdrup","Yrsa Mastrup, Vamdrup","Venstre, Danmarks Liberale Parti",4
+Kolding,6,Alminde-Viuf/Vester Nebel,"V_Mette_Balsby,_Kolding","Mette Balsby, Kolding","Venstre, Danmarks Liberale Parti",0
+Kolding,6,Alminde-Viuf/Vester Nebel,"V_Ahmad_Mohammadi,_Kolding","Ahmad Mohammadi, Kolding","Venstre, Danmarks Liberale Parti",0
+Kolding,6,Alminde-Viuf/Vester Nebel,"V_Lennarth_Hansen,_Harte","Lennarth Hansen, Harte","Venstre, Danmarks Liberale Parti",4
+Kolding,6,Alminde-Viuf/Vester Nebel,"V_Glenn_Lundt,_Vamdrup","Glenn Lundt, Vamdrup","Venstre, Danmarks Liberale Parti",0
+Kolding,6,Alminde-Viuf/Vester Nebel,"V_Morten_Hansen,_Agtrup","Morten Hansen, Agtrup","Venstre, Danmarks Liberale Parti",5
+Kolding,6,Alminde-Viuf/Vester Nebel,"V_Niels_Henning_Bladt,_Brændkjær","Niels Henning Bladt, Brændkjær","Venstre, Danmarks Liberale Parti",2
+Kolding,6,Alminde-Viuf/Vester Nebel,"V_Jan_Schjerning,_Lunderskov","Jan Schjerning, Lunderskov","Venstre, Danmarks Liberale Parti",3
+Kolding,6,Alminde-Viuf/Vester Nebel,"V_Anette_Juhl,_Sdr._Stenderup","Anette Juhl, Sdr. Stenderup","Venstre, Danmarks Liberale Parti",1
+Kolding,6,Alminde-Viuf/Vester Nebel,Y_Listestemmer,Listestemmer,Kryds for Kolding,2
+Kolding,6,Alminde-Viuf/Vester Nebel,"Y_Simon_Maegaard,_Kolding","Simon Maegaard, Kolding",Kryds for Kolding,0
+Kolding,6,Alminde-Viuf/Vester Nebel,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,19
+Kolding,6,Alminde-Viuf/Vester Nebel,"Ø_Benny_Dall,_Vonsild","Benny Dall, Vonsild",Enhedslisten - De Rød-Grønne,18
+Kolding,6,Alminde-Viuf/Vester Nebel,"Ø_Hanne_Dam,_Kolding","Hanne Dam, Kolding",Enhedslisten - De Rød-Grønne,5
+Kolding,6,Alminde-Viuf/Vester Nebel,"Ø_Jannie_Winberg,_Dalby","Jannie Winberg, Dalby",Enhedslisten - De Rød-Grønne,1
+Kolding,6,Alminde-Viuf/Vester Nebel,"Ø_Ivan_Balleby,_Kolding","Ivan Balleby, Kolding",Enhedslisten - De Rød-Grønne,1
+Kolding,6,Alminde-Viuf/Vester Nebel,"Ø_Margot_Pedersen,_Harte","Margot Pedersen, Harte",Enhedslisten - De Rød-Grønne,0
+Kolding,6,Alminde-Viuf/Vester Nebel,"Ø_Brian_Simonsen,_Vamdrup_Ødis-Br.","Brian Simonsen, Vamdrup Ødis-Br.",Enhedslisten - De Rød-Grønne,0
+Kolding,6,Alminde-Viuf/Vester Nebel,"Ø_Alice_Munkholm_Dall,_Kolding","Alice Munkholm Dall, Kolding",Enhedslisten - De Rød-Grønne,0
+Kolding,6,Alminde-Viuf/Vester Nebel,"Ø_Erik_Voss,_Kolding","Erik Voss, Kolding",Enhedslisten - De Rød-Grønne,1
+Kolding,6,Alminde-Viuf/Vester Nebel,"Ø_Daniela_Skov,_Kolding","Daniela Skov, Kolding",Enhedslisten - De Rød-Grønne,0
+Kolding,6,Alminde-Viuf/Vester Nebel,"Ø_Ole_Maass,_Kolding","Ole Maass, Kolding",Enhedslisten - De Rød-Grønne,2
+Kolding,7,Lunderskov/Jordrup,A_Listestemmer,Listestemmer,Socialdemokratiet,117
+Kolding,7,Lunderskov/Jordrup,A_Birgitte_Munk_Grunnet,Birgitte Munk Grunnet,Socialdemokratiet,200
+Kolding,7,Lunderskov/Jordrup,A_Filip_Bekic_Bladt,Filip Bekic Bladt,Socialdemokratiet,12
+Kolding,7,Lunderskov/Jordrup,A_Poul_Fremmelev,Poul Fremmelev,Socialdemokratiet,15
+Kolding,7,Lunderskov/Jordrup,A_Vibeke_Boisen_Brandhof,Vibeke Boisen Brandhof,Socialdemokratiet,3
+Kolding,7,Lunderskov/Jordrup,A_Per_Bødker_Andersen,Per Bødker Andersen,Socialdemokratiet,14
+Kolding,7,Lunderskov/Jordrup,A_Folmer_Krogh,Folmer Krogh,Socialdemokratiet,18
+Kolding,7,Lunderskov/Jordrup,A_Elvis_Comic,Elvis Comic,Socialdemokratiet,6
+Kolding,7,Lunderskov/Jordrup,A_Jane_Bødskov_Petersen,Jane Bødskov Petersen,Socialdemokratiet,2
+Kolding,7,Lunderskov/Jordrup,A_Gerrit_Toet,Gerrit Toet,Socialdemokratiet,6
+Kolding,7,Lunderskov/Jordrup,A_Gitte_Guldberg_Spanier,Gitte Guldberg Spanier,Socialdemokratiet,7
+Kolding,7,Lunderskov/Jordrup,A_Michael_Jørgensen,Michael Jørgensen,Socialdemokratiet,28
+Kolding,7,Lunderskov/Jordrup,A_Bjarne_Stolten_Thomsen,Bjarne Stolten Thomsen,Socialdemokratiet,4
+Kolding,7,Lunderskov/Jordrup,A_Hamlaoui_Bahloul,Hamlaoui Bahloul,Socialdemokratiet,10
+Kolding,7,Lunderskov/Jordrup,A_Jacob_Bøegh,Jacob Bøegh,Socialdemokratiet,6
+Kolding,7,Lunderskov/Jordrup,B_Listestemmer,Listestemmer,Radikale Venstre,21
+Kolding,7,Lunderskov/Jordrup,"B_Merete_Due_Paarup,_Jordrup","Merete Due Paarup, Jordrup",Radikale Venstre,150
+Kolding,7,Lunderskov/Jordrup,"B_Margreet_Smit,_Sdr._Stenderup","Margreet Smit, Sdr. Stenderup",Radikale Venstre,3
+Kolding,7,Lunderskov/Jordrup,"B_Jonathan_Dyring_Løvbom,_Hjarup","Jonathan Dyring Løvbom, Hjarup",Radikale Venstre,29
+Kolding,7,Lunderskov/Jordrup,"B_Vahida_Hadzija,_Kolding","Vahida Hadzija, Kolding",Radikale Venstre,1
+Kolding,7,Lunderskov/Jordrup,"B_Charlotte_Enevoldsen,_Kolding","Charlotte Enevoldsen, Kolding",Radikale Venstre,2
+Kolding,7,Lunderskov/Jordrup,"B_Bjørn_Olsen,_Seest","Bjørn Olsen, Seest",Radikale Venstre,2
+Kolding,7,Lunderskov/Jordrup,"B_Kenny_C._Holm,_Sjølund","Kenny C. Holm, Sjølund",Radikale Venstre,0
+Kolding,7,Lunderskov/Jordrup,"B_Bo_Skibelund,_Almind","Bo Skibelund, Almind",Radikale Venstre,0
+Kolding,7,Lunderskov/Jordrup,"B_Knud_Nørregaard,_Bramdrupdam","Knud Nørregaard, Bramdrupdam",Radikale Venstre,2
+Kolding,7,Lunderskov/Jordrup,"B_Preben_Tamborg_Pedersen,_Kolding_S","Preben Tamborg Pedersen, Kolding S",Radikale Venstre,2
+Kolding,7,Lunderskov/Jordrup,"B_Hans_Krab_Koed,_Fovslet","Hans Krab Koed, Fovslet",Radikale Venstre,0
+Kolding,7,Lunderskov/Jordrup,"B_Ole_Holst,_Drejens","Ole Holst, Drejens",Radikale Venstre,0
+Kolding,7,Lunderskov/Jordrup,"B_Jens_Sørensen,_Kolding","Jens Sørensen, Kolding",Radikale Venstre,1
+Kolding,7,Lunderskov/Jordrup,"B_Erik_Krab_Koed,_Almind-Viuf","Erik Krab Koed, Almind-Viuf",Radikale Venstre,3
+Kolding,7,Lunderskov/Jordrup,"B_Lars_Keller,_Sdr._Bjert","Lars Keller, Sdr. Bjert",Radikale Venstre,0
+Kolding,7,Lunderskov/Jordrup,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,52
+Kolding,7,Lunderskov/Jordrup,C_Knud_Erik_Langhoff,Knud Erik Langhoff,Det Konservative Folkeparti,42
+Kolding,7,Lunderskov/Jordrup,C_Gitte_Grønbæk,Gitte Grønbæk,Det Konservative Folkeparti,133
+Kolding,7,Lunderskov/Jordrup,C_Freddy_Christensen,Freddy Christensen,Det Konservative Folkeparti,7
+Kolding,7,Lunderskov/Jordrup,C_Jacob_Silberling_Knudsen,Jacob Silberling Knudsen,Det Konservative Folkeparti,0
+Kolding,7,Lunderskov/Jordrup,C_Casper_N._Maglekær,Casper N. Maglekær,Det Konservative Folkeparti,5
+Kolding,7,Lunderskov/Jordrup,C_Mirela_Tanovic,Mirela Tanovic,Det Konservative Folkeparti,3
+Kolding,7,Lunderskov/Jordrup,C_Jørgen_Bøytler,Jørgen Bøytler,Det Konservative Folkeparti,2
+Kolding,7,Lunderskov/Jordrup,C_Dan_Foss_Kragh,Dan Foss Kragh,Det Konservative Folkeparti,0
+Kolding,7,Lunderskov/Jordrup,C_Daniel_Klestrup_Bjærge,Daniel Klestrup Bjærge,Det Konservative Folkeparti,1
+Kolding,7,Lunderskov/Jordrup,C_Betina_Wettengel,Betina Wettengel,Det Konservative Folkeparti,4
+Kolding,7,Lunderskov/Jordrup,C_René_Nikolaj_Andersen,René Nikolaj Andersen,Det Konservative Folkeparti,2
+Kolding,7,Lunderskov/Jordrup,C_Christian_Saxov,Christian Saxov,Det Konservative Folkeparti,3
+Kolding,7,Lunderskov/Jordrup,C_Mette_Borchert_Vahlun,Mette Borchert Vahlun,Det Konservative Folkeparti,3
+Kolding,7,Lunderskov/Jordrup,C_Signe_Bøje_Sahner,Signe Bøje Sahner,Det Konservative Folkeparti,1
+Kolding,7,Lunderskov/Jordrup,C_Jesper_Termansen,Jesper Termansen,Det Konservative Folkeparti,6
+Kolding,7,Lunderskov/Jordrup,D_Listestemmer,Listestemmer,Nye Borgerlige,62
+Kolding,7,Lunderskov/Jordrup,D_Mikael_Fiurendal,Mikael Fiurendal,Nye Borgerlige,11
+Kolding,7,Lunderskov/Jordrup,D_Jan_Tambo,Jan Tambo,Nye Borgerlige,16
+Kolding,7,Lunderskov/Jordrup,D_Allan_Søllingvraa_Rasmussen,Allan Søllingvraa Rasmussen,Nye Borgerlige,7
+Kolding,7,Lunderskov/Jordrup,D_Christina_Britten,Christina Britten,Nye Borgerlige,3
+Kolding,7,Lunderskov/Jordrup,D_Dorte_Noer,Dorte Noer,Nye Borgerlige,3
+Kolding,7,Lunderskov/Jordrup,D_Peter_Krogsten,Peter Krogsten,Nye Borgerlige,1
+Kolding,7,Lunderskov/Jordrup,D_Anders_Thygesen,Anders Thygesen,Nye Borgerlige,1
+Kolding,7,Lunderskov/Jordrup,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,40
+Kolding,7,Lunderskov/Jordrup,"F_Villy_Søvndal,_Sdr._Bjert","Villy Søvndal, Sdr. Bjert",SF - Socialistisk Folkeparti,292
+Kolding,7,Lunderskov/Jordrup,"F_Hans_Holmer,_Kolding","Hans Holmer, Kolding",SF - Socialistisk Folkeparti,12
+Kolding,7,Lunderskov/Jordrup,"F_Susanne_Stenstrop_Thorsen,_Kolding","Susanne Stenstrop Thorsen, Kolding",SF - Socialistisk Folkeparti,14
+Kolding,7,Lunderskov/Jordrup,"F_Marianne_Jespersen,_Kolding","Marianne Jespersen, Kolding",SF - Socialistisk Folkeparti,7
+Kolding,7,Lunderskov/Jordrup,"F_Iben_Lehmann_Rasmussen,_Bramdrupd.","Iben Lehmann Rasmussen, Bramdrupd.",SF - Socialistisk Folkeparti,11
+Kolding,7,Lunderskov/Jordrup,"F_Jørn_Chemnitz,_Kolding","Jørn Chemnitz, Kolding",SF - Socialistisk Folkeparti,48
+Kolding,7,Lunderskov/Jordrup,"F_Abdullah_Ismail,_Brændkjær","Abdullah Ismail, Brændkjær",SF - Socialistisk Folkeparti,1
+Kolding,7,Lunderskov/Jordrup,"F_Ole_Damborg,_Bramdrupdam","Ole Damborg, Bramdrupdam",SF - Socialistisk Folkeparti,5
+Kolding,7,Lunderskov/Jordrup,"F_Mette_T._R._Andersen,_Kolding","Mette T. R. Andersen, Kolding",SF - Socialistisk Folkeparti,6
+Kolding,7,Lunderskov/Jordrup,"F_Nanett_Jensen,_Vamdrup","Nanett Jensen, Vamdrup",SF - Socialistisk Folkeparti,1
+Kolding,7,Lunderskov/Jordrup,"F_Erik_Dyg_Sørensen,_Kolding","Erik Dyg Sørensen, Kolding",SF - Socialistisk Folkeparti,14
+Kolding,7,Lunderskov/Jordrup,"F_Poul_Erik_Nørregaard,_Kolding","Poul Erik Nørregaard, Kolding",SF - Socialistisk Folkeparti,0
+Kolding,7,Lunderskov/Jordrup,"F_Gitte_Høien_Johnsen,_Chr.feld","Gitte Høien Johnsen, Chr.feld",SF - Socialistisk Folkeparti,0
+Kolding,7,Lunderskov/Jordrup,"F_Jesper_Elkjær,_Kolding","Jesper Elkjær, Kolding",SF - Socialistisk Folkeparti,6
+Kolding,7,Lunderskov/Jordrup,I_Listestemmer,Listestemmer,Liberal Alliance,10
+Kolding,7,Lunderskov/Jordrup,I_Helena_Artmann_Andresen,Helena Artmann Andresen,Liberal Alliance,15
+Kolding,7,Lunderskov/Jordrup,I_Mikkel_Pedersen,Mikkel Pedersen,Liberal Alliance,1
+Kolding,7,Lunderskov/Jordrup,I_Carsten_Andersen,Carsten Andersen,Liberal Alliance,0
+Kolding,7,Lunderskov/Jordrup,I_Martin_Kodahl,Martin Kodahl,Liberal Alliance,1
+Kolding,7,Lunderskov/Jordrup,I_Dennis_Paaske,Dennis Paaske,Liberal Alliance,5
+Kolding,7,Lunderskov/Jordrup,K_Listestemmer,Listestemmer,Kristendemokraterne,4
+Kolding,7,Lunderskov/Jordrup,"K_Jens_Chr._Olesen,_Christiansfeld","Jens Chr. Olesen, Christiansfeld",Kristendemokraterne,13
+Kolding,7,Lunderskov/Jordrup,"K_Jørgen_Høier,_Seest","Jørgen Høier, Seest",Kristendemokraterne,0
+Kolding,7,Lunderskov/Jordrup,"K_Simon_Marker_Pedersen,_Kolding","Simon Marker Pedersen, Kolding",Kristendemokraterne,3
+Kolding,7,Lunderskov/Jordrup,O_Listestemmer,Listestemmer,Dansk Folkeparti,50
+Kolding,7,Lunderskov/Jordrup,O_Søren_Rasmussen,Søren Rasmussen,Dansk Folkeparti,74
+Kolding,7,Lunderskov/Jordrup,O_Laura_Guldager,Laura Guldager,Dansk Folkeparti,15
+Kolding,7,Lunderskov/Jordrup,O_Molle_Lykke_Nielsen,Molle Lykke Nielsen,Dansk Folkeparti,6
+Kolding,7,Lunderskov/Jordrup,O_Kristian_Kruse,Kristian Kruse,Dansk Folkeparti,5
+Kolding,7,Lunderskov/Jordrup,O_Jackie_Damkjær_Hansen,Jackie Damkjær Hansen,Dansk Folkeparti,9
+Kolding,7,Lunderskov/Jordrup,O_Mariane_Hansen,Mariane Hansen,Dansk Folkeparti,2
+Kolding,7,Lunderskov/Jordrup,O_René_Arndt,René Arndt,Dansk Folkeparti,1
+Kolding,7,Lunderskov/Jordrup,O_Mikael_Krogh,Mikael Krogh,Dansk Folkeparti,0
+Kolding,7,Lunderskov/Jordrup,O_Tenna_Lindgaard,Tenna Lindgaard,Dansk Folkeparti,4
+Kolding,7,Lunderskov/Jordrup,O_Nancy_Lystlund,Nancy Lystlund,Dansk Folkeparti,3
+Kolding,7,Lunderskov/Jordrup,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",90
+Kolding,7,Lunderskov/Jordrup,"V_Eva_Kjer_Hansen,_Kolding","Eva Kjer Hansen, Kolding","Venstre, Danmarks Liberale Parti",224
+Kolding,7,Lunderskov/Jordrup,"V_Jakob_Ville,_Seest","Jakob Ville, Seest","Venstre, Danmarks Liberale Parti",52
+Kolding,7,Lunderskov/Jordrup,"V_Ole_Martensen,_Kolding","Ole Martensen, Kolding","Venstre, Danmarks Liberale Parti",12
+Kolding,7,Lunderskov/Jordrup,"V_Birgitte_Kragh,_Skanderup","Birgitte Kragh, Skanderup","Venstre, Danmarks Liberale Parti",389
+Kolding,7,Lunderskov/Jordrup,"V_Lene_Brandenborg,_Fynslund","Lene Brandenborg, Fynslund","Venstre, Danmarks Liberale Parti",174
+Kolding,7,Lunderskov/Jordrup,"V_Ole_Alsted,_Almind-Viuf","Ole Alsted, Almind-Viuf","Venstre, Danmarks Liberale Parti",20
+Kolding,7,Lunderskov/Jordrup,"V_Tobias_Jørgensen,_Hoppeshuse","Tobias Jørgensen, Hoppeshuse","Venstre, Danmarks Liberale Parti",27
+Kolding,7,Lunderskov/Jordrup,"V_Trille_Nikolajsen,_Vester_Nebel","Trille Nikolajsen, Vester Nebel","Venstre, Danmarks Liberale Parti",13
+Kolding,7,Lunderskov/Jordrup,"V_Mads_Kloppenborg-Skrumsager,_Chr.f","Mads Kloppenborg-Skrumsager, Chr.f","Venstre, Danmarks Liberale Parti",6
+Kolding,7,Lunderskov/Jordrup,"V_Jørgen_Meyer,_Kolding_Nord","Jørgen Meyer, Kolding Nord","Venstre, Danmarks Liberale Parti",0
+Kolding,7,Lunderskov/Jordrup,"V_Yrsa_Mastrup,_Vamdrup","Yrsa Mastrup, Vamdrup","Venstre, Danmarks Liberale Parti",3
+Kolding,7,Lunderskov/Jordrup,"V_Mette_Balsby,_Kolding","Mette Balsby, Kolding","Venstre, Danmarks Liberale Parti",0
+Kolding,7,Lunderskov/Jordrup,"V_Ahmad_Mohammadi,_Kolding","Ahmad Mohammadi, Kolding","Venstre, Danmarks Liberale Parti",1
+Kolding,7,Lunderskov/Jordrup,"V_Lennarth_Hansen,_Harte","Lennarth Hansen, Harte","Venstre, Danmarks Liberale Parti",4
+Kolding,7,Lunderskov/Jordrup,"V_Glenn_Lundt,_Vamdrup","Glenn Lundt, Vamdrup","Venstre, Danmarks Liberale Parti",2
+Kolding,7,Lunderskov/Jordrup,"V_Morten_Hansen,_Agtrup","Morten Hansen, Agtrup","Venstre, Danmarks Liberale Parti",1
+Kolding,7,Lunderskov/Jordrup,"V_Niels_Henning_Bladt,_Brændkjær","Niels Henning Bladt, Brændkjær","Venstre, Danmarks Liberale Parti",0
+Kolding,7,Lunderskov/Jordrup,"V_Jan_Schjerning,_Lunderskov","Jan Schjerning, Lunderskov","Venstre, Danmarks Liberale Parti",370
+Kolding,7,Lunderskov/Jordrup,"V_Anette_Juhl,_Sdr._Stenderup","Anette Juhl, Sdr. Stenderup","Venstre, Danmarks Liberale Parti",2
+Kolding,7,Lunderskov/Jordrup,Y_Listestemmer,Listestemmer,Kryds for Kolding,3
+Kolding,7,Lunderskov/Jordrup,"Y_Simon_Maegaard,_Kolding","Simon Maegaard, Kolding",Kryds for Kolding,5
+Kolding,7,Lunderskov/Jordrup,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,15
+Kolding,7,Lunderskov/Jordrup,"Ø_Benny_Dall,_Vonsild","Benny Dall, Vonsild",Enhedslisten - De Rød-Grønne,24
+Kolding,7,Lunderskov/Jordrup,"Ø_Hanne_Dam,_Kolding","Hanne Dam, Kolding",Enhedslisten - De Rød-Grønne,7
+Kolding,7,Lunderskov/Jordrup,"Ø_Jannie_Winberg,_Dalby","Jannie Winberg, Dalby",Enhedslisten - De Rød-Grønne,1
+Kolding,7,Lunderskov/Jordrup,"Ø_Ivan_Balleby,_Kolding","Ivan Balleby, Kolding",Enhedslisten - De Rød-Grønne,0
+Kolding,7,Lunderskov/Jordrup,"Ø_Margot_Pedersen,_Harte","Margot Pedersen, Harte",Enhedslisten - De Rød-Grønne,0
+Kolding,7,Lunderskov/Jordrup,"Ø_Brian_Simonsen,_Vamdrup_Ødis-Br.","Brian Simonsen, Vamdrup Ødis-Br.",Enhedslisten - De Rød-Grønne,5
+Kolding,7,Lunderskov/Jordrup,"Ø_Alice_Munkholm_Dall,_Kolding","Alice Munkholm Dall, Kolding",Enhedslisten - De Rød-Grønne,0
+Kolding,7,Lunderskov/Jordrup,"Ø_Erik_Voss,_Kolding","Erik Voss, Kolding",Enhedslisten - De Rød-Grønne,2
+Kolding,7,Lunderskov/Jordrup,"Ø_Daniela_Skov,_Kolding","Daniela Skov, Kolding",Enhedslisten - De Rød-Grønne,0
+Kolding,7,Lunderskov/Jordrup,"Ø_Ole_Maass,_Kolding","Ole Maass, Kolding",Enhedslisten - De Rød-Grønne,0
+Kolding,8,Centrum Syd,A_Listestemmer,Listestemmer,Socialdemokratiet,178
+Kolding,8,Centrum Syd,A_Birgitte_Munk_Grunnet,Birgitte Munk Grunnet,Socialdemokratiet,194
+Kolding,8,Centrum Syd,A_Filip_Bekic_Bladt,Filip Bekic Bladt,Socialdemokratiet,39
+Kolding,8,Centrum Syd,A_Poul_Fremmelev,Poul Fremmelev,Socialdemokratiet,12
+Kolding,8,Centrum Syd,A_Vibeke_Boisen_Brandhof,Vibeke Boisen Brandhof,Socialdemokratiet,10
+Kolding,8,Centrum Syd,A_Per_Bødker_Andersen,Per Bødker Andersen,Socialdemokratiet,23
+Kolding,8,Centrum Syd,A_Folmer_Krogh,Folmer Krogh,Socialdemokratiet,41
+Kolding,8,Centrum Syd,A_Elvis_Comic,Elvis Comic,Socialdemokratiet,23
+Kolding,8,Centrum Syd,A_Jane_Bødskov_Petersen,Jane Bødskov Petersen,Socialdemokratiet,8
+Kolding,8,Centrum Syd,A_Gerrit_Toet,Gerrit Toet,Socialdemokratiet,5
+Kolding,8,Centrum Syd,A_Gitte_Guldberg_Spanier,Gitte Guldberg Spanier,Socialdemokratiet,12
+Kolding,8,Centrum Syd,A_Michael_Jørgensen,Michael Jørgensen,Socialdemokratiet,3
+Kolding,8,Centrum Syd,A_Bjarne_Stolten_Thomsen,Bjarne Stolten Thomsen,Socialdemokratiet,8
+Kolding,8,Centrum Syd,A_Hamlaoui_Bahloul,Hamlaoui Bahloul,Socialdemokratiet,85
+Kolding,8,Centrum Syd,A_Jacob_Bøegh,Jacob Bøegh,Socialdemokratiet,8
+Kolding,8,Centrum Syd,B_Listestemmer,Listestemmer,Radikale Venstre,73
+Kolding,8,Centrum Syd,"B_Merete_Due_Paarup,_Jordrup","Merete Due Paarup, Jordrup",Radikale Venstre,41
+Kolding,8,Centrum Syd,"B_Margreet_Smit,_Sdr._Stenderup","Margreet Smit, Sdr. Stenderup",Radikale Venstre,17
+Kolding,8,Centrum Syd,"B_Jonathan_Dyring_Løvbom,_Hjarup","Jonathan Dyring Løvbom, Hjarup",Radikale Venstre,47
+Kolding,8,Centrum Syd,"B_Vahida_Hadzija,_Kolding","Vahida Hadzija, Kolding",Radikale Venstre,6
+Kolding,8,Centrum Syd,"B_Charlotte_Enevoldsen,_Kolding","Charlotte Enevoldsen, Kolding",Radikale Venstre,4
+Kolding,8,Centrum Syd,"B_Bjørn_Olsen,_Seest","Bjørn Olsen, Seest",Radikale Venstre,7
+Kolding,8,Centrum Syd,"B_Kenny_C._Holm,_Sjølund","Kenny C. Holm, Sjølund",Radikale Venstre,4
+Kolding,8,Centrum Syd,"B_Bo_Skibelund,_Almind","Bo Skibelund, Almind",Radikale Venstre,2
+Kolding,8,Centrum Syd,"B_Knud_Nørregaard,_Bramdrupdam","Knud Nørregaard, Bramdrupdam",Radikale Venstre,3
+Kolding,8,Centrum Syd,"B_Preben_Tamborg_Pedersen,_Kolding_S","Preben Tamborg Pedersen, Kolding S",Radikale Venstre,2
+Kolding,8,Centrum Syd,"B_Hans_Krab_Koed,_Fovslet","Hans Krab Koed, Fovslet",Radikale Venstre,1
+Kolding,8,Centrum Syd,"B_Ole_Holst,_Drejens","Ole Holst, Drejens",Radikale Venstre,1
+Kolding,8,Centrum Syd,"B_Jens_Sørensen,_Kolding","Jens Sørensen, Kolding",Radikale Venstre,5
+Kolding,8,Centrum Syd,"B_Erik_Krab_Koed,_Almind-Viuf","Erik Krab Koed, Almind-Viuf",Radikale Venstre,3
+Kolding,8,Centrum Syd,"B_Lars_Keller,_Sdr._Bjert","Lars Keller, Sdr. Bjert",Radikale Venstre,1
+Kolding,8,Centrum Syd,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,65
+Kolding,8,Centrum Syd,C_Knud_Erik_Langhoff,Knud Erik Langhoff,Det Konservative Folkeparti,60
+Kolding,8,Centrum Syd,C_Gitte_Grønbæk,Gitte Grønbæk,Det Konservative Folkeparti,25
+Kolding,8,Centrum Syd,C_Freddy_Christensen,Freddy Christensen,Det Konservative Folkeparti,2
+Kolding,8,Centrum Syd,C_Jacob_Silberling_Knudsen,Jacob Silberling Knudsen,Det Konservative Folkeparti,14
+Kolding,8,Centrum Syd,C_Casper_N._Maglekær,Casper N. Maglekær,Det Konservative Folkeparti,8
+Kolding,8,Centrum Syd,C_Mirela_Tanovic,Mirela Tanovic,Det Konservative Folkeparti,19
+Kolding,8,Centrum Syd,C_Jørgen_Bøytler,Jørgen Bøytler,Det Konservative Folkeparti,5
+Kolding,8,Centrum Syd,C_Dan_Foss_Kragh,Dan Foss Kragh,Det Konservative Folkeparti,1
+Kolding,8,Centrum Syd,C_Daniel_Klestrup_Bjærge,Daniel Klestrup Bjærge,Det Konservative Folkeparti,1
+Kolding,8,Centrum Syd,C_Betina_Wettengel,Betina Wettengel,Det Konservative Folkeparti,5
+Kolding,8,Centrum Syd,C_René_Nikolaj_Andersen,René Nikolaj Andersen,Det Konservative Folkeparti,5
+Kolding,8,Centrum Syd,C_Christian_Saxov,Christian Saxov,Det Konservative Folkeparti,4
+Kolding,8,Centrum Syd,C_Mette_Borchert_Vahlun,Mette Borchert Vahlun,Det Konservative Folkeparti,1
+Kolding,8,Centrum Syd,C_Signe_Bøje_Sahner,Signe Bøje Sahner,Det Konservative Folkeparti,3
+Kolding,8,Centrum Syd,C_Jesper_Termansen,Jesper Termansen,Det Konservative Folkeparti,1
+Kolding,8,Centrum Syd,D_Listestemmer,Listestemmer,Nye Borgerlige,51
+Kolding,8,Centrum Syd,D_Mikael_Fiurendal,Mikael Fiurendal,Nye Borgerlige,18
+Kolding,8,Centrum Syd,D_Jan_Tambo,Jan Tambo,Nye Borgerlige,9
+Kolding,8,Centrum Syd,D_Allan_Søllingvraa_Rasmussen,Allan Søllingvraa Rasmussen,Nye Borgerlige,4
+Kolding,8,Centrum Syd,D_Christina_Britten,Christina Britten,Nye Borgerlige,5
+Kolding,8,Centrum Syd,D_Dorte_Noer,Dorte Noer,Nye Borgerlige,3
+Kolding,8,Centrum Syd,D_Peter_Krogsten,Peter Krogsten,Nye Borgerlige,1
+Kolding,8,Centrum Syd,D_Anders_Thygesen,Anders Thygesen,Nye Borgerlige,0
+Kolding,8,Centrum Syd,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,60
+Kolding,8,Centrum Syd,"F_Villy_Søvndal,_Sdr._Bjert","Villy Søvndal, Sdr. Bjert",SF - Socialistisk Folkeparti,413
+Kolding,8,Centrum Syd,"F_Hans_Holmer,_Kolding","Hans Holmer, Kolding",SF - Socialistisk Folkeparti,11
+Kolding,8,Centrum Syd,"F_Susanne_Stenstrop_Thorsen,_Kolding","Susanne Stenstrop Thorsen, Kolding",SF - Socialistisk Folkeparti,21
+Kolding,8,Centrum Syd,"F_Marianne_Jespersen,_Kolding","Marianne Jespersen, Kolding",SF - Socialistisk Folkeparti,5
+Kolding,8,Centrum Syd,"F_Iben_Lehmann_Rasmussen,_Bramdrupd.","Iben Lehmann Rasmussen, Bramdrupd.",SF - Socialistisk Folkeparti,10
+Kolding,8,Centrum Syd,"F_Jørn_Chemnitz,_Kolding","Jørn Chemnitz, Kolding",SF - Socialistisk Folkeparti,19
+Kolding,8,Centrum Syd,"F_Abdullah_Ismail,_Brændkjær","Abdullah Ismail, Brændkjær",SF - Socialistisk Folkeparti,40
+Kolding,8,Centrum Syd,"F_Ole_Damborg,_Bramdrupdam","Ole Damborg, Bramdrupdam",SF - Socialistisk Folkeparti,0
+Kolding,8,Centrum Syd,"F_Mette_T._R._Andersen,_Kolding","Mette T. R. Andersen, Kolding",SF - Socialistisk Folkeparti,6
+Kolding,8,Centrum Syd,"F_Nanett_Jensen,_Vamdrup","Nanett Jensen, Vamdrup",SF - Socialistisk Folkeparti,5
+Kolding,8,Centrum Syd,"F_Erik_Dyg_Sørensen,_Kolding","Erik Dyg Sørensen, Kolding",SF - Socialistisk Folkeparti,2
+Kolding,8,Centrum Syd,"F_Poul_Erik_Nørregaard,_Kolding","Poul Erik Nørregaard, Kolding",SF - Socialistisk Folkeparti,4
+Kolding,8,Centrum Syd,"F_Gitte_Høien_Johnsen,_Chr.feld","Gitte Høien Johnsen, Chr.feld",SF - Socialistisk Folkeparti,1
+Kolding,8,Centrum Syd,"F_Jesper_Elkjær,_Kolding","Jesper Elkjær, Kolding",SF - Socialistisk Folkeparti,47
+Kolding,8,Centrum Syd,I_Listestemmer,Listestemmer,Liberal Alliance,16
+Kolding,8,Centrum Syd,I_Helena_Artmann_Andresen,Helena Artmann Andresen,Liberal Alliance,31
+Kolding,8,Centrum Syd,I_Mikkel_Pedersen,Mikkel Pedersen,Liberal Alliance,6
+Kolding,8,Centrum Syd,I_Carsten_Andersen,Carsten Andersen,Liberal Alliance,5
+Kolding,8,Centrum Syd,I_Martin_Kodahl,Martin Kodahl,Liberal Alliance,1
+Kolding,8,Centrum Syd,I_Dennis_Paaske,Dennis Paaske,Liberal Alliance,4
+Kolding,8,Centrum Syd,K_Listestemmer,Listestemmer,Kristendemokraterne,11
+Kolding,8,Centrum Syd,"K_Jens_Chr._Olesen,_Christiansfeld","Jens Chr. Olesen, Christiansfeld",Kristendemokraterne,13
+Kolding,8,Centrum Syd,"K_Jørgen_Høier,_Seest","Jørgen Høier, Seest",Kristendemokraterne,1
+Kolding,8,Centrum Syd,"K_Simon_Marker_Pedersen,_Kolding","Simon Marker Pedersen, Kolding",Kristendemokraterne,7
+Kolding,8,Centrum Syd,O_Listestemmer,Listestemmer,Dansk Folkeparti,31
+Kolding,8,Centrum Syd,O_Søren_Rasmussen,Søren Rasmussen,Dansk Folkeparti,266
+Kolding,8,Centrum Syd,O_Laura_Guldager,Laura Guldager,Dansk Folkeparti,20
+Kolding,8,Centrum Syd,O_Molle_Lykke_Nielsen,Molle Lykke Nielsen,Dansk Folkeparti,10
+Kolding,8,Centrum Syd,O_Kristian_Kruse,Kristian Kruse,Dansk Folkeparti,1
+Kolding,8,Centrum Syd,O_Jackie_Damkjær_Hansen,Jackie Damkjær Hansen,Dansk Folkeparti,5
+Kolding,8,Centrum Syd,O_Mariane_Hansen,Mariane Hansen,Dansk Folkeparti,1
+Kolding,8,Centrum Syd,O_René_Arndt,René Arndt,Dansk Folkeparti,3
+Kolding,8,Centrum Syd,O_Mikael_Krogh,Mikael Krogh,Dansk Folkeparti,1
+Kolding,8,Centrum Syd,O_Tenna_Lindgaard,Tenna Lindgaard,Dansk Folkeparti,1
+Kolding,8,Centrum Syd,O_Nancy_Lystlund,Nancy Lystlund,Dansk Folkeparti,0
+Kolding,8,Centrum Syd,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",106
+Kolding,8,Centrum Syd,"V_Eva_Kjer_Hansen,_Kolding","Eva Kjer Hansen, Kolding","Venstre, Danmarks Liberale Parti",190
+Kolding,8,Centrum Syd,"V_Jakob_Ville,_Seest","Jakob Ville, Seest","Venstre, Danmarks Liberale Parti",74
+Kolding,8,Centrum Syd,"V_Ole_Martensen,_Kolding","Ole Martensen, Kolding","Venstre, Danmarks Liberale Parti",24
+Kolding,8,Centrum Syd,"V_Birgitte_Kragh,_Skanderup","Birgitte Kragh, Skanderup","Venstre, Danmarks Liberale Parti",25
+Kolding,8,Centrum Syd,"V_Lene_Brandenborg,_Fynslund","Lene Brandenborg, Fynslund","Venstre, Danmarks Liberale Parti",1
+Kolding,8,Centrum Syd,"V_Ole_Alsted,_Almind-Viuf","Ole Alsted, Almind-Viuf","Venstre, Danmarks Liberale Parti",19
+Kolding,8,Centrum Syd,"V_Tobias_Jørgensen,_Hoppeshuse","Tobias Jørgensen, Hoppeshuse","Venstre, Danmarks Liberale Parti",16
+Kolding,8,Centrum Syd,"V_Trille_Nikolajsen,_Vester_Nebel","Trille Nikolajsen, Vester Nebel","Venstre, Danmarks Liberale Parti",7
+Kolding,8,Centrum Syd,"V_Mads_Kloppenborg-Skrumsager,_Chr.f","Mads Kloppenborg-Skrumsager, Chr.f","Venstre, Danmarks Liberale Parti",14
+Kolding,8,Centrum Syd,"V_Jørgen_Meyer,_Kolding_Nord","Jørgen Meyer, Kolding Nord","Venstre, Danmarks Liberale Parti",2
+Kolding,8,Centrum Syd,"V_Yrsa_Mastrup,_Vamdrup","Yrsa Mastrup, Vamdrup","Venstre, Danmarks Liberale Parti",1
+Kolding,8,Centrum Syd,"V_Mette_Balsby,_Kolding","Mette Balsby, Kolding","Venstre, Danmarks Liberale Parti",4
+Kolding,8,Centrum Syd,"V_Ahmad_Mohammadi,_Kolding","Ahmad Mohammadi, Kolding","Venstre, Danmarks Liberale Parti",4
+Kolding,8,Centrum Syd,"V_Lennarth_Hansen,_Harte","Lennarth Hansen, Harte","Venstre, Danmarks Liberale Parti",6
+Kolding,8,Centrum Syd,"V_Glenn_Lundt,_Vamdrup","Glenn Lundt, Vamdrup","Venstre, Danmarks Liberale Parti",2
+Kolding,8,Centrum Syd,"V_Morten_Hansen,_Agtrup","Morten Hansen, Agtrup","Venstre, Danmarks Liberale Parti",4
+Kolding,8,Centrum Syd,"V_Niels_Henning_Bladt,_Brændkjær","Niels Henning Bladt, Brændkjær","Venstre, Danmarks Liberale Parti",89
+Kolding,8,Centrum Syd,"V_Jan_Schjerning,_Lunderskov","Jan Schjerning, Lunderskov","Venstre, Danmarks Liberale Parti",12
+Kolding,8,Centrum Syd,"V_Anette_Juhl,_Sdr._Stenderup","Anette Juhl, Sdr. Stenderup","Venstre, Danmarks Liberale Parti",5
+Kolding,8,Centrum Syd,Y_Listestemmer,Listestemmer,Kryds for Kolding,5
+Kolding,8,Centrum Syd,"Y_Simon_Maegaard,_Kolding","Simon Maegaard, Kolding",Kryds for Kolding,23
+Kolding,8,Centrum Syd,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,57
+Kolding,8,Centrum Syd,"Ø_Benny_Dall,_Vonsild","Benny Dall, Vonsild",Enhedslisten - De Rød-Grønne,56
+Kolding,8,Centrum Syd,"Ø_Hanne_Dam,_Kolding","Hanne Dam, Kolding",Enhedslisten - De Rød-Grønne,25
+Kolding,8,Centrum Syd,"Ø_Jannie_Winberg,_Dalby","Jannie Winberg, Dalby",Enhedslisten - De Rød-Grønne,3
+Kolding,8,Centrum Syd,"Ø_Ivan_Balleby,_Kolding","Ivan Balleby, Kolding",Enhedslisten - De Rød-Grønne,2
+Kolding,8,Centrum Syd,"Ø_Margot_Pedersen,_Harte","Margot Pedersen, Harte",Enhedslisten - De Rød-Grønne,0
+Kolding,8,Centrum Syd,"Ø_Brian_Simonsen,_Vamdrup_Ødis-Br.","Brian Simonsen, Vamdrup Ødis-Br.",Enhedslisten - De Rød-Grønne,0
+Kolding,8,Centrum Syd,"Ø_Alice_Munkholm_Dall,_Kolding","Alice Munkholm Dall, Kolding",Enhedslisten - De Rød-Grønne,1
+Kolding,8,Centrum Syd,"Ø_Erik_Voss,_Kolding","Erik Voss, Kolding",Enhedslisten - De Rød-Grønne,4
+Kolding,8,Centrum Syd,"Ø_Daniela_Skov,_Kolding","Daniela Skov, Kolding",Enhedslisten - De Rød-Grønne,0
+Kolding,8,Centrum Syd,"Ø_Ole_Maass,_Kolding","Ole Maass, Kolding",Enhedslisten - De Rød-Grønne,3
+Kolding,9,Sydbyen,A_Listestemmer,Listestemmer,Socialdemokratiet,186
+Kolding,9,Sydbyen,A_Birgitte_Munk_Grunnet,Birgitte Munk Grunnet,Socialdemokratiet,262
+Kolding,9,Sydbyen,A_Filip_Bekic_Bladt,Filip Bekic Bladt,Socialdemokratiet,70
+Kolding,9,Sydbyen,A_Poul_Fremmelev,Poul Fremmelev,Socialdemokratiet,15
+Kolding,9,Sydbyen,A_Vibeke_Boisen_Brandhof,Vibeke Boisen Brandhof,Socialdemokratiet,18
+Kolding,9,Sydbyen,A_Per_Bødker_Andersen,Per Bødker Andersen,Socialdemokratiet,15
+Kolding,9,Sydbyen,A_Folmer_Krogh,Folmer Krogh,Socialdemokratiet,53
+Kolding,9,Sydbyen,A_Elvis_Comic,Elvis Comic,Socialdemokratiet,27
+Kolding,9,Sydbyen,A_Jane_Bødskov_Petersen,Jane Bødskov Petersen,Socialdemokratiet,18
+Kolding,9,Sydbyen,A_Gerrit_Toet,Gerrit Toet,Socialdemokratiet,9
+Kolding,9,Sydbyen,A_Gitte_Guldberg_Spanier,Gitte Guldberg Spanier,Socialdemokratiet,7
+Kolding,9,Sydbyen,A_Michael_Jørgensen,Michael Jørgensen,Socialdemokratiet,8
+Kolding,9,Sydbyen,A_Bjarne_Stolten_Thomsen,Bjarne Stolten Thomsen,Socialdemokratiet,15
+Kolding,9,Sydbyen,A_Hamlaoui_Bahloul,Hamlaoui Bahloul,Socialdemokratiet,39
+Kolding,9,Sydbyen,A_Jacob_Bøegh,Jacob Bøegh,Socialdemokratiet,9
+Kolding,9,Sydbyen,B_Listestemmer,Listestemmer,Radikale Venstre,80
+Kolding,9,Sydbyen,"B_Merete_Due_Paarup,_Jordrup","Merete Due Paarup, Jordrup",Radikale Venstre,68
+Kolding,9,Sydbyen,"B_Margreet_Smit,_Sdr._Stenderup","Margreet Smit, Sdr. Stenderup",Radikale Venstre,25
+Kolding,9,Sydbyen,"B_Jonathan_Dyring_Løvbom,_Hjarup","Jonathan Dyring Løvbom, Hjarup",Radikale Venstre,88
+Kolding,9,Sydbyen,"B_Vahida_Hadzija,_Kolding","Vahida Hadzija, Kolding",Radikale Venstre,12
+Kolding,9,Sydbyen,"B_Charlotte_Enevoldsen,_Kolding","Charlotte Enevoldsen, Kolding",Radikale Venstre,21
+Kolding,9,Sydbyen,"B_Bjørn_Olsen,_Seest","Bjørn Olsen, Seest",Radikale Venstre,16
+Kolding,9,Sydbyen,"B_Kenny_C._Holm,_Sjølund","Kenny C. Holm, Sjølund",Radikale Venstre,4
+Kolding,9,Sydbyen,"B_Bo_Skibelund,_Almind","Bo Skibelund, Almind",Radikale Venstre,4
+Kolding,9,Sydbyen,"B_Knud_Nørregaard,_Bramdrupdam","Knud Nørregaard, Bramdrupdam",Radikale Venstre,17
+Kolding,9,Sydbyen,"B_Preben_Tamborg_Pedersen,_Kolding_S","Preben Tamborg Pedersen, Kolding S",Radikale Venstre,7
+Kolding,9,Sydbyen,"B_Hans_Krab_Koed,_Fovslet","Hans Krab Koed, Fovslet",Radikale Venstre,7
+Kolding,9,Sydbyen,"B_Ole_Holst,_Drejens","Ole Holst, Drejens",Radikale Venstre,0
+Kolding,9,Sydbyen,"B_Jens_Sørensen,_Kolding","Jens Sørensen, Kolding",Radikale Venstre,7
+Kolding,9,Sydbyen,"B_Erik_Krab_Koed,_Almind-Viuf","Erik Krab Koed, Almind-Viuf",Radikale Venstre,3
+Kolding,9,Sydbyen,"B_Lars_Keller,_Sdr._Bjert","Lars Keller, Sdr. Bjert",Radikale Venstre,4
+Kolding,9,Sydbyen,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,148
+Kolding,9,Sydbyen,C_Knud_Erik_Langhoff,Knud Erik Langhoff,Det Konservative Folkeparti,112
+Kolding,9,Sydbyen,C_Gitte_Grønbæk,Gitte Grønbæk,Det Konservative Folkeparti,59
+Kolding,9,Sydbyen,C_Freddy_Christensen,Freddy Christensen,Det Konservative Folkeparti,16
+Kolding,9,Sydbyen,C_Jacob_Silberling_Knudsen,Jacob Silberling Knudsen,Det Konservative Folkeparti,19
+Kolding,9,Sydbyen,C_Casper_N._Maglekær,Casper N. Maglekær,Det Konservative Folkeparti,16
+Kolding,9,Sydbyen,C_Mirela_Tanovic,Mirela Tanovic,Det Konservative Folkeparti,27
+Kolding,9,Sydbyen,C_Jørgen_Bøytler,Jørgen Bøytler,Det Konservative Folkeparti,8
+Kolding,9,Sydbyen,C_Dan_Foss_Kragh,Dan Foss Kragh,Det Konservative Folkeparti,7
+Kolding,9,Sydbyen,C_Daniel_Klestrup_Bjærge,Daniel Klestrup Bjærge,Det Konservative Folkeparti,9
+Kolding,9,Sydbyen,C_Betina_Wettengel,Betina Wettengel,Det Konservative Folkeparti,10
+Kolding,9,Sydbyen,C_René_Nikolaj_Andersen,René Nikolaj Andersen,Det Konservative Folkeparti,22
+Kolding,9,Sydbyen,C_Christian_Saxov,Christian Saxov,Det Konservative Folkeparti,6
+Kolding,9,Sydbyen,C_Mette_Borchert_Vahlun,Mette Borchert Vahlun,Det Konservative Folkeparti,4
+Kolding,9,Sydbyen,C_Signe_Bøje_Sahner,Signe Bøje Sahner,Det Konservative Folkeparti,4
+Kolding,9,Sydbyen,C_Jesper_Termansen,Jesper Termansen,Det Konservative Folkeparti,6
+Kolding,9,Sydbyen,D_Listestemmer,Listestemmer,Nye Borgerlige,53
+Kolding,9,Sydbyen,D_Mikael_Fiurendal,Mikael Fiurendal,Nye Borgerlige,25
+Kolding,9,Sydbyen,D_Jan_Tambo,Jan Tambo,Nye Borgerlige,11
+Kolding,9,Sydbyen,D_Allan_Søllingvraa_Rasmussen,Allan Søllingvraa Rasmussen,Nye Borgerlige,6
+Kolding,9,Sydbyen,D_Christina_Britten,Christina Britten,Nye Borgerlige,10
+Kolding,9,Sydbyen,D_Dorte_Noer,Dorte Noer,Nye Borgerlige,5
+Kolding,9,Sydbyen,D_Peter_Krogsten,Peter Krogsten,Nye Borgerlige,0
+Kolding,9,Sydbyen,D_Anders_Thygesen,Anders Thygesen,Nye Borgerlige,3
+Kolding,9,Sydbyen,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,98
+Kolding,9,Sydbyen,"F_Villy_Søvndal,_Sdr._Bjert","Villy Søvndal, Sdr. Bjert",SF - Socialistisk Folkeparti,555
+Kolding,9,Sydbyen,"F_Hans_Holmer,_Kolding","Hans Holmer, Kolding",SF - Socialistisk Folkeparti,59
+Kolding,9,Sydbyen,"F_Susanne_Stenstrop_Thorsen,_Kolding","Susanne Stenstrop Thorsen, Kolding",SF - Socialistisk Folkeparti,36
+Kolding,9,Sydbyen,"F_Marianne_Jespersen,_Kolding","Marianne Jespersen, Kolding",SF - Socialistisk Folkeparti,18
+Kolding,9,Sydbyen,"F_Iben_Lehmann_Rasmussen,_Bramdrupd.","Iben Lehmann Rasmussen, Bramdrupd.",SF - Socialistisk Folkeparti,35
+Kolding,9,Sydbyen,"F_Jørn_Chemnitz,_Kolding","Jørn Chemnitz, Kolding",SF - Socialistisk Folkeparti,38
+Kolding,9,Sydbyen,"F_Abdullah_Ismail,_Brændkjær","Abdullah Ismail, Brændkjær",SF - Socialistisk Folkeparti,7
+Kolding,9,Sydbyen,"F_Ole_Damborg,_Bramdrupdam","Ole Damborg, Bramdrupdam",SF - Socialistisk Folkeparti,2
+Kolding,9,Sydbyen,"F_Mette_T._R._Andersen,_Kolding","Mette T. R. Andersen, Kolding",SF - Socialistisk Folkeparti,24
+Kolding,9,Sydbyen,"F_Nanett_Jensen,_Vamdrup","Nanett Jensen, Vamdrup",SF - Socialistisk Folkeparti,6
+Kolding,9,Sydbyen,"F_Erik_Dyg_Sørensen,_Kolding","Erik Dyg Sørensen, Kolding",SF - Socialistisk Folkeparti,5
+Kolding,9,Sydbyen,"F_Poul_Erik_Nørregaard,_Kolding","Poul Erik Nørregaard, Kolding",SF - Socialistisk Folkeparti,1
+Kolding,9,Sydbyen,"F_Gitte_Høien_Johnsen,_Chr.feld","Gitte Høien Johnsen, Chr.feld",SF - Socialistisk Folkeparti,1
+Kolding,9,Sydbyen,"F_Jesper_Elkjær,_Kolding","Jesper Elkjær, Kolding",SF - Socialistisk Folkeparti,22
+Kolding,9,Sydbyen,I_Listestemmer,Listestemmer,Liberal Alliance,26
+Kolding,9,Sydbyen,I_Helena_Artmann_Andresen,Helena Artmann Andresen,Liberal Alliance,45
+Kolding,9,Sydbyen,I_Mikkel_Pedersen,Mikkel Pedersen,Liberal Alliance,10
+Kolding,9,Sydbyen,I_Carsten_Andersen,Carsten Andersen,Liberal Alliance,3
+Kolding,9,Sydbyen,I_Martin_Kodahl,Martin Kodahl,Liberal Alliance,3
+Kolding,9,Sydbyen,I_Dennis_Paaske,Dennis Paaske,Liberal Alliance,17
+Kolding,9,Sydbyen,K_Listestemmer,Listestemmer,Kristendemokraterne,10
+Kolding,9,Sydbyen,"K_Jens_Chr._Olesen,_Christiansfeld","Jens Chr. Olesen, Christiansfeld",Kristendemokraterne,27
+Kolding,9,Sydbyen,"K_Jørgen_Høier,_Seest","Jørgen Høier, Seest",Kristendemokraterne,6
+Kolding,9,Sydbyen,"K_Simon_Marker_Pedersen,_Kolding","Simon Marker Pedersen, Kolding",Kristendemokraterne,9
+Kolding,9,Sydbyen,O_Listestemmer,Listestemmer,Dansk Folkeparti,43
+Kolding,9,Sydbyen,O_Søren_Rasmussen,Søren Rasmussen,Dansk Folkeparti,209
+Kolding,9,Sydbyen,O_Laura_Guldager,Laura Guldager,Dansk Folkeparti,21
+Kolding,9,Sydbyen,O_Molle_Lykke_Nielsen,Molle Lykke Nielsen,Dansk Folkeparti,10
+Kolding,9,Sydbyen,O_Kristian_Kruse,Kristian Kruse,Dansk Folkeparti,0
+Kolding,9,Sydbyen,O_Jackie_Damkjær_Hansen,Jackie Damkjær Hansen,Dansk Folkeparti,10
+Kolding,9,Sydbyen,O_Mariane_Hansen,Mariane Hansen,Dansk Folkeparti,1
+Kolding,9,Sydbyen,O_René_Arndt,René Arndt,Dansk Folkeparti,10
+Kolding,9,Sydbyen,O_Mikael_Krogh,Mikael Krogh,Dansk Folkeparti,0
+Kolding,9,Sydbyen,O_Tenna_Lindgaard,Tenna Lindgaard,Dansk Folkeparti,1
+Kolding,9,Sydbyen,O_Nancy_Lystlund,Nancy Lystlund,Dansk Folkeparti,0
+Kolding,9,Sydbyen,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",216
+Kolding,9,Sydbyen,"V_Eva_Kjer_Hansen,_Kolding","Eva Kjer Hansen, Kolding","Venstre, Danmarks Liberale Parti",352
+Kolding,9,Sydbyen,"V_Jakob_Ville,_Seest","Jakob Ville, Seest","Venstre, Danmarks Liberale Parti",212
+Kolding,9,Sydbyen,"V_Ole_Martensen,_Kolding","Ole Martensen, Kolding","Venstre, Danmarks Liberale Parti",51
+Kolding,9,Sydbyen,"V_Birgitte_Kragh,_Skanderup","Birgitte Kragh, Skanderup","Venstre, Danmarks Liberale Parti",50
+Kolding,9,Sydbyen,"V_Lene_Brandenborg,_Fynslund","Lene Brandenborg, Fynslund","Venstre, Danmarks Liberale Parti",5
+Kolding,9,Sydbyen,"V_Ole_Alsted,_Almind-Viuf","Ole Alsted, Almind-Viuf","Venstre, Danmarks Liberale Parti",34
+Kolding,9,Sydbyen,"V_Tobias_Jørgensen,_Hoppeshuse","Tobias Jørgensen, Hoppeshuse","Venstre, Danmarks Liberale Parti",34
+Kolding,9,Sydbyen,"V_Trille_Nikolajsen,_Vester_Nebel","Trille Nikolajsen, Vester Nebel","Venstre, Danmarks Liberale Parti",18
+Kolding,9,Sydbyen,"V_Mads_Kloppenborg-Skrumsager,_Chr.f","Mads Kloppenborg-Skrumsager, Chr.f","Venstre, Danmarks Liberale Parti",27
+Kolding,9,Sydbyen,"V_Jørgen_Meyer,_Kolding_Nord","Jørgen Meyer, Kolding Nord","Venstre, Danmarks Liberale Parti",9
+Kolding,9,Sydbyen,"V_Yrsa_Mastrup,_Vamdrup","Yrsa Mastrup, Vamdrup","Venstre, Danmarks Liberale Parti",5
+Kolding,9,Sydbyen,"V_Mette_Balsby,_Kolding","Mette Balsby, Kolding","Venstre, Danmarks Liberale Parti",5
+Kolding,9,Sydbyen,"V_Ahmad_Mohammadi,_Kolding","Ahmad Mohammadi, Kolding","Venstre, Danmarks Liberale Parti",6
+Kolding,9,Sydbyen,"V_Lennarth_Hansen,_Harte","Lennarth Hansen, Harte","Venstre, Danmarks Liberale Parti",7
+Kolding,9,Sydbyen,"V_Glenn_Lundt,_Vamdrup","Glenn Lundt, Vamdrup","Venstre, Danmarks Liberale Parti",2
+Kolding,9,Sydbyen,"V_Morten_Hansen,_Agtrup","Morten Hansen, Agtrup","Venstre, Danmarks Liberale Parti",6
+Kolding,9,Sydbyen,"V_Niels_Henning_Bladt,_Brændkjær","Niels Henning Bladt, Brændkjær","Venstre, Danmarks Liberale Parti",24
+Kolding,9,Sydbyen,"V_Jan_Schjerning,_Lunderskov","Jan Schjerning, Lunderskov","Venstre, Danmarks Liberale Parti",10
+Kolding,9,Sydbyen,"V_Anette_Juhl,_Sdr._Stenderup","Anette Juhl, Sdr. Stenderup","Venstre, Danmarks Liberale Parti",3
+Kolding,9,Sydbyen,Y_Listestemmer,Listestemmer,Kryds for Kolding,6
+Kolding,9,Sydbyen,"Y_Simon_Maegaard,_Kolding","Simon Maegaard, Kolding",Kryds for Kolding,11
+Kolding,9,Sydbyen,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,76
+Kolding,9,Sydbyen,"Ø_Benny_Dall,_Vonsild","Benny Dall, Vonsild",Enhedslisten - De Rød-Grønne,74
+Kolding,9,Sydbyen,"Ø_Hanne_Dam,_Kolding","Hanne Dam, Kolding",Enhedslisten - De Rød-Grønne,41
+Kolding,9,Sydbyen,"Ø_Jannie_Winberg,_Dalby","Jannie Winberg, Dalby",Enhedslisten - De Rød-Grønne,9
+Kolding,9,Sydbyen,"Ø_Ivan_Balleby,_Kolding","Ivan Balleby, Kolding",Enhedslisten - De Rød-Grønne,6
+Kolding,9,Sydbyen,"Ø_Margot_Pedersen,_Harte","Margot Pedersen, Harte",Enhedslisten - De Rød-Grønne,1
+Kolding,9,Sydbyen,"Ø_Brian_Simonsen,_Vamdrup_Ødis-Br.","Brian Simonsen, Vamdrup Ødis-Br.",Enhedslisten - De Rød-Grønne,0
+Kolding,9,Sydbyen,"Ø_Alice_Munkholm_Dall,_Kolding","Alice Munkholm Dall, Kolding",Enhedslisten - De Rød-Grønne,1
+Kolding,9,Sydbyen,"Ø_Erik_Voss,_Kolding","Erik Voss, Kolding",Enhedslisten - De Rød-Grønne,6
+Kolding,9,Sydbyen,"Ø_Daniela_Skov,_Kolding","Daniela Skov, Kolding",Enhedslisten - De Rød-Grønne,4
+Kolding,9,Sydbyen,"Ø_Ole_Maass,_Kolding","Ole Maass, Kolding",Enhedslisten - De Rød-Grønne,7
+Kolding,10,Seest,A_Listestemmer,Listestemmer,Socialdemokratiet,160
+Kolding,10,Seest,A_Birgitte_Munk_Grunnet,Birgitte Munk Grunnet,Socialdemokratiet,335
+Kolding,10,Seest,A_Filip_Bekic_Bladt,Filip Bekic Bladt,Socialdemokratiet,50
+Kolding,10,Seest,A_Poul_Fremmelev,Poul Fremmelev,Socialdemokratiet,20
+Kolding,10,Seest,A_Vibeke_Boisen_Brandhof,Vibeke Boisen Brandhof,Socialdemokratiet,4
+Kolding,10,Seest,A_Per_Bødker_Andersen,Per Bødker Andersen,Socialdemokratiet,24
+Kolding,10,Seest,A_Folmer_Krogh,Folmer Krogh,Socialdemokratiet,42
+Kolding,10,Seest,A_Elvis_Comic,Elvis Comic,Socialdemokratiet,16
+Kolding,10,Seest,A_Jane_Bødskov_Petersen,Jane Bødskov Petersen,Socialdemokratiet,11
+Kolding,10,Seest,A_Gerrit_Toet,Gerrit Toet,Socialdemokratiet,6
+Kolding,10,Seest,A_Gitte_Guldberg_Spanier,Gitte Guldberg Spanier,Socialdemokratiet,5
+Kolding,10,Seest,A_Michael_Jørgensen,Michael Jørgensen,Socialdemokratiet,10
+Kolding,10,Seest,A_Bjarne_Stolten_Thomsen,Bjarne Stolten Thomsen,Socialdemokratiet,6
+Kolding,10,Seest,A_Hamlaoui_Bahloul,Hamlaoui Bahloul,Socialdemokratiet,16
+Kolding,10,Seest,A_Jacob_Bøegh,Jacob Bøegh,Socialdemokratiet,8
+Kolding,10,Seest,B_Listestemmer,Listestemmer,Radikale Venstre,48
+Kolding,10,Seest,"B_Merete_Due_Paarup,_Jordrup","Merete Due Paarup, Jordrup",Radikale Venstre,34
+Kolding,10,Seest,"B_Margreet_Smit,_Sdr._Stenderup","Margreet Smit, Sdr. Stenderup",Radikale Venstre,11
+Kolding,10,Seest,"B_Jonathan_Dyring_Løvbom,_Hjarup","Jonathan Dyring Løvbom, Hjarup",Radikale Venstre,35
+Kolding,10,Seest,"B_Vahida_Hadzija,_Kolding","Vahida Hadzija, Kolding",Radikale Venstre,9
+Kolding,10,Seest,"B_Charlotte_Enevoldsen,_Kolding","Charlotte Enevoldsen, Kolding",Radikale Venstre,8
+Kolding,10,Seest,"B_Bjørn_Olsen,_Seest","Bjørn Olsen, Seest",Radikale Venstre,30
+Kolding,10,Seest,"B_Kenny_C._Holm,_Sjølund","Kenny C. Holm, Sjølund",Radikale Venstre,2
+Kolding,10,Seest,"B_Bo_Skibelund,_Almind","Bo Skibelund, Almind",Radikale Venstre,0
+Kolding,10,Seest,"B_Knud_Nørregaard,_Bramdrupdam","Knud Nørregaard, Bramdrupdam",Radikale Venstre,3
+Kolding,10,Seest,"B_Preben_Tamborg_Pedersen,_Kolding_S","Preben Tamborg Pedersen, Kolding S",Radikale Venstre,4
+Kolding,10,Seest,"B_Hans_Krab_Koed,_Fovslet","Hans Krab Koed, Fovslet",Radikale Venstre,1
+Kolding,10,Seest,"B_Ole_Holst,_Drejens","Ole Holst, Drejens",Radikale Venstre,1
+Kolding,10,Seest,"B_Jens_Sørensen,_Kolding","Jens Sørensen, Kolding",Radikale Venstre,1
+Kolding,10,Seest,"B_Erik_Krab_Koed,_Almind-Viuf","Erik Krab Koed, Almind-Viuf",Radikale Venstre,1
+Kolding,10,Seest,"B_Lars_Keller,_Sdr._Bjert","Lars Keller, Sdr. Bjert",Radikale Venstre,0
+Kolding,10,Seest,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,99
+Kolding,10,Seest,C_Knud_Erik_Langhoff,Knud Erik Langhoff,Det Konservative Folkeparti,97
+Kolding,10,Seest,C_Gitte_Grønbæk,Gitte Grønbæk,Det Konservative Folkeparti,59
+Kolding,10,Seest,C_Freddy_Christensen,Freddy Christensen,Det Konservative Folkeparti,7
+Kolding,10,Seest,C_Jacob_Silberling_Knudsen,Jacob Silberling Knudsen,Det Konservative Folkeparti,18
+Kolding,10,Seest,C_Casper_N._Maglekær,Casper N. Maglekær,Det Konservative Folkeparti,12
+Kolding,10,Seest,C_Mirela_Tanovic,Mirela Tanovic,Det Konservative Folkeparti,19
+Kolding,10,Seest,C_Jørgen_Bøytler,Jørgen Bøytler,Det Konservative Folkeparti,11
+Kolding,10,Seest,C_Dan_Foss_Kragh,Dan Foss Kragh,Det Konservative Folkeparti,4
+Kolding,10,Seest,C_Daniel_Klestrup_Bjærge,Daniel Klestrup Bjærge,Det Konservative Folkeparti,4
+Kolding,10,Seest,C_Betina_Wettengel,Betina Wettengel,Det Konservative Folkeparti,5
+Kolding,10,Seest,C_René_Nikolaj_Andersen,René Nikolaj Andersen,Det Konservative Folkeparti,19
+Kolding,10,Seest,C_Christian_Saxov,Christian Saxov,Det Konservative Folkeparti,7
+Kolding,10,Seest,C_Mette_Borchert_Vahlun,Mette Borchert Vahlun,Det Konservative Folkeparti,6
+Kolding,10,Seest,C_Signe_Bøje_Sahner,Signe Bøje Sahner,Det Konservative Folkeparti,3
+Kolding,10,Seest,C_Jesper_Termansen,Jesper Termansen,Det Konservative Folkeparti,5
+Kolding,10,Seest,D_Listestemmer,Listestemmer,Nye Borgerlige,43
+Kolding,10,Seest,D_Mikael_Fiurendal,Mikael Fiurendal,Nye Borgerlige,14
+Kolding,10,Seest,D_Jan_Tambo,Jan Tambo,Nye Borgerlige,11
+Kolding,10,Seest,D_Allan_Søllingvraa_Rasmussen,Allan Søllingvraa Rasmussen,Nye Borgerlige,8
+Kolding,10,Seest,D_Christina_Britten,Christina Britten,Nye Borgerlige,5
+Kolding,10,Seest,D_Dorte_Noer,Dorte Noer,Nye Borgerlige,0
+Kolding,10,Seest,D_Peter_Krogsten,Peter Krogsten,Nye Borgerlige,1
+Kolding,10,Seest,D_Anders_Thygesen,Anders Thygesen,Nye Borgerlige,2
+Kolding,10,Seest,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,68
+Kolding,10,Seest,"F_Villy_Søvndal,_Sdr._Bjert","Villy Søvndal, Sdr. Bjert",SF - Socialistisk Folkeparti,419
+Kolding,10,Seest,"F_Hans_Holmer,_Kolding","Hans Holmer, Kolding",SF - Socialistisk Folkeparti,38
+Kolding,10,Seest,"F_Susanne_Stenstrop_Thorsen,_Kolding","Susanne Stenstrop Thorsen, Kolding",SF - Socialistisk Folkeparti,21
+Kolding,10,Seest,"F_Marianne_Jespersen,_Kolding","Marianne Jespersen, Kolding",SF - Socialistisk Folkeparti,4
+Kolding,10,Seest,"F_Iben_Lehmann_Rasmussen,_Bramdrupd.","Iben Lehmann Rasmussen, Bramdrupd.",SF - Socialistisk Folkeparti,20
+Kolding,10,Seest,"F_Jørn_Chemnitz,_Kolding","Jørn Chemnitz, Kolding",SF - Socialistisk Folkeparti,52
+Kolding,10,Seest,"F_Abdullah_Ismail,_Brændkjær","Abdullah Ismail, Brændkjær",SF - Socialistisk Folkeparti,0
+Kolding,10,Seest,"F_Ole_Damborg,_Bramdrupdam","Ole Damborg, Bramdrupdam",SF - Socialistisk Folkeparti,1
+Kolding,10,Seest,"F_Mette_T._R._Andersen,_Kolding","Mette T. R. Andersen, Kolding",SF - Socialistisk Folkeparti,8
+Kolding,10,Seest,"F_Nanett_Jensen,_Vamdrup","Nanett Jensen, Vamdrup",SF - Socialistisk Folkeparti,2
+Kolding,10,Seest,"F_Erik_Dyg_Sørensen,_Kolding","Erik Dyg Sørensen, Kolding",SF - Socialistisk Folkeparti,1
+Kolding,10,Seest,"F_Poul_Erik_Nørregaard,_Kolding","Poul Erik Nørregaard, Kolding",SF - Socialistisk Folkeparti,1
+Kolding,10,Seest,"F_Gitte_Høien_Johnsen,_Chr.feld","Gitte Høien Johnsen, Chr.feld",SF - Socialistisk Folkeparti,3
+Kolding,10,Seest,"F_Jesper_Elkjær,_Kolding","Jesper Elkjær, Kolding",SF - Socialistisk Folkeparti,9
+Kolding,10,Seest,I_Listestemmer,Listestemmer,Liberal Alliance,11
+Kolding,10,Seest,I_Helena_Artmann_Andresen,Helena Artmann Andresen,Liberal Alliance,27
+Kolding,10,Seest,I_Mikkel_Pedersen,Mikkel Pedersen,Liberal Alliance,6
+Kolding,10,Seest,I_Carsten_Andersen,Carsten Andersen,Liberal Alliance,2
+Kolding,10,Seest,I_Martin_Kodahl,Martin Kodahl,Liberal Alliance,5
+Kolding,10,Seest,I_Dennis_Paaske,Dennis Paaske,Liberal Alliance,3
+Kolding,10,Seest,K_Listestemmer,Listestemmer,Kristendemokraterne,20
+Kolding,10,Seest,"K_Jens_Chr._Olesen,_Christiansfeld","Jens Chr. Olesen, Christiansfeld",Kristendemokraterne,53
+Kolding,10,Seest,"K_Jørgen_Høier,_Seest","Jørgen Høier, Seest",Kristendemokraterne,18
+Kolding,10,Seest,"K_Simon_Marker_Pedersen,_Kolding","Simon Marker Pedersen, Kolding",Kristendemokraterne,16
+Kolding,10,Seest,O_Listestemmer,Listestemmer,Dansk Folkeparti,25
+Kolding,10,Seest,O_Søren_Rasmussen,Søren Rasmussen,Dansk Folkeparti,209
+Kolding,10,Seest,O_Laura_Guldager,Laura Guldager,Dansk Folkeparti,23
+Kolding,10,Seest,O_Molle_Lykke_Nielsen,Molle Lykke Nielsen,Dansk Folkeparti,6
+Kolding,10,Seest,O_Kristian_Kruse,Kristian Kruse,Dansk Folkeparti,2
+Kolding,10,Seest,O_Jackie_Damkjær_Hansen,Jackie Damkjær Hansen,Dansk Folkeparti,4
+Kolding,10,Seest,O_Mariane_Hansen,Mariane Hansen,Dansk Folkeparti,6
+Kolding,10,Seest,O_René_Arndt,René Arndt,Dansk Folkeparti,9
+Kolding,10,Seest,O_Mikael_Krogh,Mikael Krogh,Dansk Folkeparti,11
+Kolding,10,Seest,O_Tenna_Lindgaard,Tenna Lindgaard,Dansk Folkeparti,0
+Kolding,10,Seest,O_Nancy_Lystlund,Nancy Lystlund,Dansk Folkeparti,0
+Kolding,10,Seest,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",129
+Kolding,10,Seest,"V_Eva_Kjer_Hansen,_Kolding","Eva Kjer Hansen, Kolding","Venstre, Danmarks Liberale Parti",301
+Kolding,10,Seest,"V_Jakob_Ville,_Seest","Jakob Ville, Seest","Venstre, Danmarks Liberale Parti",499
+Kolding,10,Seest,"V_Ole_Martensen,_Kolding","Ole Martensen, Kolding","Venstre, Danmarks Liberale Parti",33
+Kolding,10,Seest,"V_Birgitte_Kragh,_Skanderup","Birgitte Kragh, Skanderup","Venstre, Danmarks Liberale Parti",43
+Kolding,10,Seest,"V_Lene_Brandenborg,_Fynslund","Lene Brandenborg, Fynslund","Venstre, Danmarks Liberale Parti",5
+Kolding,10,Seest,"V_Ole_Alsted,_Almind-Viuf","Ole Alsted, Almind-Viuf","Venstre, Danmarks Liberale Parti",19
+Kolding,10,Seest,"V_Tobias_Jørgensen,_Hoppeshuse","Tobias Jørgensen, Hoppeshuse","Venstre, Danmarks Liberale Parti",14
+Kolding,10,Seest,"V_Trille_Nikolajsen,_Vester_Nebel","Trille Nikolajsen, Vester Nebel","Venstre, Danmarks Liberale Parti",13
+Kolding,10,Seest,"V_Mads_Kloppenborg-Skrumsager,_Chr.f","Mads Kloppenborg-Skrumsager, Chr.f","Venstre, Danmarks Liberale Parti",7
+Kolding,10,Seest,"V_Jørgen_Meyer,_Kolding_Nord","Jørgen Meyer, Kolding Nord","Venstre, Danmarks Liberale Parti",2
+Kolding,10,Seest,"V_Yrsa_Mastrup,_Vamdrup","Yrsa Mastrup, Vamdrup","Venstre, Danmarks Liberale Parti",2
+Kolding,10,Seest,"V_Mette_Balsby,_Kolding","Mette Balsby, Kolding","Venstre, Danmarks Liberale Parti",4
+Kolding,10,Seest,"V_Ahmad_Mohammadi,_Kolding","Ahmad Mohammadi, Kolding","Venstre, Danmarks Liberale Parti",4
+Kolding,10,Seest,"V_Lennarth_Hansen,_Harte","Lennarth Hansen, Harte","Venstre, Danmarks Liberale Parti",12
+Kolding,10,Seest,"V_Glenn_Lundt,_Vamdrup","Glenn Lundt, Vamdrup","Venstre, Danmarks Liberale Parti",0
+Kolding,10,Seest,"V_Morten_Hansen,_Agtrup","Morten Hansen, Agtrup","Venstre, Danmarks Liberale Parti",5
+Kolding,10,Seest,"V_Niels_Henning_Bladt,_Brændkjær","Niels Henning Bladt, Brændkjær","Venstre, Danmarks Liberale Parti",10
+Kolding,10,Seest,"V_Jan_Schjerning,_Lunderskov","Jan Schjerning, Lunderskov","Venstre, Danmarks Liberale Parti",8
+Kolding,10,Seest,"V_Anette_Juhl,_Sdr._Stenderup","Anette Juhl, Sdr. Stenderup","Venstre, Danmarks Liberale Parti",4
+Kolding,10,Seest,Y_Listestemmer,Listestemmer,Kryds for Kolding,1
+Kolding,10,Seest,"Y_Simon_Maegaard,_Kolding","Simon Maegaard, Kolding",Kryds for Kolding,14
+Kolding,10,Seest,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,21
+Kolding,10,Seest,"Ø_Benny_Dall,_Vonsild","Benny Dall, Vonsild",Enhedslisten - De Rød-Grønne,38
+Kolding,10,Seest,"Ø_Hanne_Dam,_Kolding","Hanne Dam, Kolding",Enhedslisten - De Rød-Grønne,21
+Kolding,10,Seest,"Ø_Jannie_Winberg,_Dalby","Jannie Winberg, Dalby",Enhedslisten - De Rød-Grønne,2
+Kolding,10,Seest,"Ø_Ivan_Balleby,_Kolding","Ivan Balleby, Kolding",Enhedslisten - De Rød-Grønne,2
+Kolding,10,Seest,"Ø_Margot_Pedersen,_Harte","Margot Pedersen, Harte",Enhedslisten - De Rød-Grønne,0
+Kolding,10,Seest,"Ø_Brian_Simonsen,_Vamdrup_Ødis-Br.","Brian Simonsen, Vamdrup Ødis-Br.",Enhedslisten - De Rød-Grønne,0
+Kolding,10,Seest,"Ø_Alice_Munkholm_Dall,_Kolding","Alice Munkholm Dall, Kolding",Enhedslisten - De Rød-Grønne,1
+Kolding,10,Seest,"Ø_Erik_Voss,_Kolding","Erik Voss, Kolding",Enhedslisten - De Rød-Grønne,1
+Kolding,10,Seest,"Ø_Daniela_Skov,_Kolding","Daniela Skov, Kolding",Enhedslisten - De Rød-Grønne,0
+Kolding,10,Seest,"Ø_Ole_Maass,_Kolding","Ole Maass, Kolding",Enhedslisten - De Rød-Grønne,1
+Kolding,11,Dalby/Tved/Rebæk,A_Listestemmer,Listestemmer,Socialdemokratiet,106
+Kolding,11,Dalby/Tved/Rebæk,A_Birgitte_Munk_Grunnet,Birgitte Munk Grunnet,Socialdemokratiet,170
+Kolding,11,Dalby/Tved/Rebæk,A_Filip_Bekic_Bladt,Filip Bekic Bladt,Socialdemokratiet,26
+Kolding,11,Dalby/Tved/Rebæk,A_Poul_Fremmelev,Poul Fremmelev,Socialdemokratiet,19
+Kolding,11,Dalby/Tved/Rebæk,A_Vibeke_Boisen_Brandhof,Vibeke Boisen Brandhof,Socialdemokratiet,4
+Kolding,11,Dalby/Tved/Rebæk,A_Per_Bødker_Andersen,Per Bødker Andersen,Socialdemokratiet,13
+Kolding,11,Dalby/Tved/Rebæk,A_Folmer_Krogh,Folmer Krogh,Socialdemokratiet,32
+Kolding,11,Dalby/Tved/Rebæk,A_Elvis_Comic,Elvis Comic,Socialdemokratiet,9
+Kolding,11,Dalby/Tved/Rebæk,A_Jane_Bødskov_Petersen,Jane Bødskov Petersen,Socialdemokratiet,3
+Kolding,11,Dalby/Tved/Rebæk,A_Gerrit_Toet,Gerrit Toet,Socialdemokratiet,10
+Kolding,11,Dalby/Tved/Rebæk,A_Gitte_Guldberg_Spanier,Gitte Guldberg Spanier,Socialdemokratiet,4
+Kolding,11,Dalby/Tved/Rebæk,A_Michael_Jørgensen,Michael Jørgensen,Socialdemokratiet,2
+Kolding,11,Dalby/Tved/Rebæk,A_Bjarne_Stolten_Thomsen,Bjarne Stolten Thomsen,Socialdemokratiet,7
+Kolding,11,Dalby/Tved/Rebæk,A_Hamlaoui_Bahloul,Hamlaoui Bahloul,Socialdemokratiet,10
+Kolding,11,Dalby/Tved/Rebæk,A_Jacob_Bøegh,Jacob Bøegh,Socialdemokratiet,10
+Kolding,11,Dalby/Tved/Rebæk,B_Listestemmer,Listestemmer,Radikale Venstre,23
+Kolding,11,Dalby/Tved/Rebæk,"B_Merete_Due_Paarup,_Jordrup","Merete Due Paarup, Jordrup",Radikale Venstre,51
+Kolding,11,Dalby/Tved/Rebæk,"B_Margreet_Smit,_Sdr._Stenderup","Margreet Smit, Sdr. Stenderup",Radikale Venstre,17
+Kolding,11,Dalby/Tved/Rebæk,"B_Jonathan_Dyring_Løvbom,_Hjarup","Jonathan Dyring Løvbom, Hjarup",Radikale Venstre,38
+Kolding,11,Dalby/Tved/Rebæk,"B_Vahida_Hadzija,_Kolding","Vahida Hadzija, Kolding",Radikale Venstre,0
+Kolding,11,Dalby/Tved/Rebæk,"B_Charlotte_Enevoldsen,_Kolding","Charlotte Enevoldsen, Kolding",Radikale Venstre,5
+Kolding,11,Dalby/Tved/Rebæk,"B_Bjørn_Olsen,_Seest","Bjørn Olsen, Seest",Radikale Venstre,3
+Kolding,11,Dalby/Tved/Rebæk,"B_Kenny_C._Holm,_Sjølund","Kenny C. Holm, Sjølund",Radikale Venstre,4
+Kolding,11,Dalby/Tved/Rebæk,"B_Bo_Skibelund,_Almind","Bo Skibelund, Almind",Radikale Venstre,1
+Kolding,11,Dalby/Tved/Rebæk,"B_Knud_Nørregaard,_Bramdrupdam","Knud Nørregaard, Bramdrupdam",Radikale Venstre,7
+Kolding,11,Dalby/Tved/Rebæk,"B_Preben_Tamborg_Pedersen,_Kolding_S","Preben Tamborg Pedersen, Kolding S",Radikale Venstre,0
+Kolding,11,Dalby/Tved/Rebæk,"B_Hans_Krab_Koed,_Fovslet","Hans Krab Koed, Fovslet",Radikale Venstre,5
+Kolding,11,Dalby/Tved/Rebæk,"B_Ole_Holst,_Drejens","Ole Holst, Drejens",Radikale Venstre,0
+Kolding,11,Dalby/Tved/Rebæk,"B_Jens_Sørensen,_Kolding","Jens Sørensen, Kolding",Radikale Venstre,0
+Kolding,11,Dalby/Tved/Rebæk,"B_Erik_Krab_Koed,_Almind-Viuf","Erik Krab Koed, Almind-Viuf",Radikale Venstre,0
+Kolding,11,Dalby/Tved/Rebæk,"B_Lars_Keller,_Sdr._Bjert","Lars Keller, Sdr. Bjert",Radikale Venstre,0
+Kolding,11,Dalby/Tved/Rebæk,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,91
+Kolding,11,Dalby/Tved/Rebæk,C_Knud_Erik_Langhoff,Knud Erik Langhoff,Det Konservative Folkeparti,141
+Kolding,11,Dalby/Tved/Rebæk,C_Gitte_Grønbæk,Gitte Grønbæk,Det Konservative Folkeparti,58
+Kolding,11,Dalby/Tved/Rebæk,C_Freddy_Christensen,Freddy Christensen,Det Konservative Folkeparti,3
+Kolding,11,Dalby/Tved/Rebæk,C_Jacob_Silberling_Knudsen,Jacob Silberling Knudsen,Det Konservative Folkeparti,8
+Kolding,11,Dalby/Tved/Rebæk,C_Casper_N._Maglekær,Casper N. Maglekær,Det Konservative Folkeparti,8
+Kolding,11,Dalby/Tved/Rebæk,C_Mirela_Tanovic,Mirela Tanovic,Det Konservative Folkeparti,12
+Kolding,11,Dalby/Tved/Rebæk,C_Jørgen_Bøytler,Jørgen Bøytler,Det Konservative Folkeparti,5
+Kolding,11,Dalby/Tved/Rebæk,C_Dan_Foss_Kragh,Dan Foss Kragh,Det Konservative Folkeparti,3
+Kolding,11,Dalby/Tved/Rebæk,C_Daniel_Klestrup_Bjærge,Daniel Klestrup Bjærge,Det Konservative Folkeparti,2
+Kolding,11,Dalby/Tved/Rebæk,C_Betina_Wettengel,Betina Wettengel,Det Konservative Folkeparti,7
+Kolding,11,Dalby/Tved/Rebæk,C_René_Nikolaj_Andersen,René Nikolaj Andersen,Det Konservative Folkeparti,19
+Kolding,11,Dalby/Tved/Rebæk,C_Christian_Saxov,Christian Saxov,Det Konservative Folkeparti,7
+Kolding,11,Dalby/Tved/Rebæk,C_Mette_Borchert_Vahlun,Mette Borchert Vahlun,Det Konservative Folkeparti,3
+Kolding,11,Dalby/Tved/Rebæk,C_Signe_Bøje_Sahner,Signe Bøje Sahner,Det Konservative Folkeparti,1
+Kolding,11,Dalby/Tved/Rebæk,C_Jesper_Termansen,Jesper Termansen,Det Konservative Folkeparti,9
+Kolding,11,Dalby/Tved/Rebæk,D_Listestemmer,Listestemmer,Nye Borgerlige,37
+Kolding,11,Dalby/Tved/Rebæk,D_Mikael_Fiurendal,Mikael Fiurendal,Nye Borgerlige,8
+Kolding,11,Dalby/Tved/Rebæk,D_Jan_Tambo,Jan Tambo,Nye Borgerlige,9
+Kolding,11,Dalby/Tved/Rebæk,D_Allan_Søllingvraa_Rasmussen,Allan Søllingvraa Rasmussen,Nye Borgerlige,5
+Kolding,11,Dalby/Tved/Rebæk,D_Christina_Britten,Christina Britten,Nye Borgerlige,1
+Kolding,11,Dalby/Tved/Rebæk,D_Dorte_Noer,Dorte Noer,Nye Borgerlige,2
+Kolding,11,Dalby/Tved/Rebæk,D_Peter_Krogsten,Peter Krogsten,Nye Borgerlige,2
+Kolding,11,Dalby/Tved/Rebæk,D_Anders_Thygesen,Anders Thygesen,Nye Borgerlige,0
+Kolding,11,Dalby/Tved/Rebæk,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,29
+Kolding,11,Dalby/Tved/Rebæk,"F_Villy_Søvndal,_Sdr._Bjert","Villy Søvndal, Sdr. Bjert",SF - Socialistisk Folkeparti,289
+Kolding,11,Dalby/Tved/Rebæk,"F_Hans_Holmer,_Kolding","Hans Holmer, Kolding",SF - Socialistisk Folkeparti,23
+Kolding,11,Dalby/Tved/Rebæk,"F_Susanne_Stenstrop_Thorsen,_Kolding","Susanne Stenstrop Thorsen, Kolding",SF - Socialistisk Folkeparti,36
+Kolding,11,Dalby/Tved/Rebæk,"F_Marianne_Jespersen,_Kolding","Marianne Jespersen, Kolding",SF - Socialistisk Folkeparti,10
+Kolding,11,Dalby/Tved/Rebæk,"F_Iben_Lehmann_Rasmussen,_Bramdrupd.","Iben Lehmann Rasmussen, Bramdrupd.",SF - Socialistisk Folkeparti,16
+Kolding,11,Dalby/Tved/Rebæk,"F_Jørn_Chemnitz,_Kolding","Jørn Chemnitz, Kolding",SF - Socialistisk Folkeparti,28
+Kolding,11,Dalby/Tved/Rebæk,"F_Abdullah_Ismail,_Brændkjær","Abdullah Ismail, Brændkjær",SF - Socialistisk Folkeparti,3
+Kolding,11,Dalby/Tved/Rebæk,"F_Ole_Damborg,_Bramdrupdam","Ole Damborg, Bramdrupdam",SF - Socialistisk Folkeparti,1
+Kolding,11,Dalby/Tved/Rebæk,"F_Mette_T._R._Andersen,_Kolding","Mette T. R. Andersen, Kolding",SF - Socialistisk Folkeparti,3
+Kolding,11,Dalby/Tved/Rebæk,"F_Nanett_Jensen,_Vamdrup","Nanett Jensen, Vamdrup",SF - Socialistisk Folkeparti,1
+Kolding,11,Dalby/Tved/Rebæk,"F_Erik_Dyg_Sørensen,_Kolding","Erik Dyg Sørensen, Kolding",SF - Socialistisk Folkeparti,4
+Kolding,11,Dalby/Tved/Rebæk,"F_Poul_Erik_Nørregaard,_Kolding","Poul Erik Nørregaard, Kolding",SF - Socialistisk Folkeparti,0
+Kolding,11,Dalby/Tved/Rebæk,"F_Gitte_Høien_Johnsen,_Chr.feld","Gitte Høien Johnsen, Chr.feld",SF - Socialistisk Folkeparti,3
+Kolding,11,Dalby/Tved/Rebæk,"F_Jesper_Elkjær,_Kolding","Jesper Elkjær, Kolding",SF - Socialistisk Folkeparti,11
+Kolding,11,Dalby/Tved/Rebæk,I_Listestemmer,Listestemmer,Liberal Alliance,16
+Kolding,11,Dalby/Tved/Rebæk,I_Helena_Artmann_Andresen,Helena Artmann Andresen,Liberal Alliance,20
+Kolding,11,Dalby/Tved/Rebæk,I_Mikkel_Pedersen,Mikkel Pedersen,Liberal Alliance,2
+Kolding,11,Dalby/Tved/Rebæk,I_Carsten_Andersen,Carsten Andersen,Liberal Alliance,1
+Kolding,11,Dalby/Tved/Rebæk,I_Martin_Kodahl,Martin Kodahl,Liberal Alliance,2
+Kolding,11,Dalby/Tved/Rebæk,I_Dennis_Paaske,Dennis Paaske,Liberal Alliance,12
+Kolding,11,Dalby/Tved/Rebæk,K_Listestemmer,Listestemmer,Kristendemokraterne,7
+Kolding,11,Dalby/Tved/Rebæk,"K_Jens_Chr._Olesen,_Christiansfeld","Jens Chr. Olesen, Christiansfeld",Kristendemokraterne,5
+Kolding,11,Dalby/Tved/Rebæk,"K_Jørgen_Høier,_Seest","Jørgen Høier, Seest",Kristendemokraterne,2
+Kolding,11,Dalby/Tved/Rebæk,"K_Simon_Marker_Pedersen,_Kolding","Simon Marker Pedersen, Kolding",Kristendemokraterne,1
+Kolding,11,Dalby/Tved/Rebæk,O_Listestemmer,Listestemmer,Dansk Folkeparti,23
+Kolding,11,Dalby/Tved/Rebæk,O_Søren_Rasmussen,Søren Rasmussen,Dansk Folkeparti,131
+Kolding,11,Dalby/Tved/Rebæk,O_Laura_Guldager,Laura Guldager,Dansk Folkeparti,5
+Kolding,11,Dalby/Tved/Rebæk,O_Molle_Lykke_Nielsen,Molle Lykke Nielsen,Dansk Folkeparti,4
+Kolding,11,Dalby/Tved/Rebæk,O_Kristian_Kruse,Kristian Kruse,Dansk Folkeparti,0
+Kolding,11,Dalby/Tved/Rebæk,O_Jackie_Damkjær_Hansen,Jackie Damkjær Hansen,Dansk Folkeparti,0
+Kolding,11,Dalby/Tved/Rebæk,O_Mariane_Hansen,Mariane Hansen,Dansk Folkeparti,0
+Kolding,11,Dalby/Tved/Rebæk,O_René_Arndt,René Arndt,Dansk Folkeparti,1
+Kolding,11,Dalby/Tved/Rebæk,O_Mikael_Krogh,Mikael Krogh,Dansk Folkeparti,0
+Kolding,11,Dalby/Tved/Rebæk,O_Tenna_Lindgaard,Tenna Lindgaard,Dansk Folkeparti,0
+Kolding,11,Dalby/Tved/Rebæk,O_Nancy_Lystlund,Nancy Lystlund,Dansk Folkeparti,0
+Kolding,11,Dalby/Tved/Rebæk,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",162
+Kolding,11,Dalby/Tved/Rebæk,"V_Eva_Kjer_Hansen,_Kolding","Eva Kjer Hansen, Kolding","Venstre, Danmarks Liberale Parti",432
+Kolding,11,Dalby/Tved/Rebæk,"V_Jakob_Ville,_Seest","Jakob Ville, Seest","Venstre, Danmarks Liberale Parti",200
+Kolding,11,Dalby/Tved/Rebæk,"V_Ole_Martensen,_Kolding","Ole Martensen, Kolding","Venstre, Danmarks Liberale Parti",43
+Kolding,11,Dalby/Tved/Rebæk,"V_Birgitte_Kragh,_Skanderup","Birgitte Kragh, Skanderup","Venstre, Danmarks Liberale Parti",56
+Kolding,11,Dalby/Tved/Rebæk,"V_Lene_Brandenborg,_Fynslund","Lene Brandenborg, Fynslund","Venstre, Danmarks Liberale Parti",0
+Kolding,11,Dalby/Tved/Rebæk,"V_Ole_Alsted,_Almind-Viuf","Ole Alsted, Almind-Viuf","Venstre, Danmarks Liberale Parti",19
+Kolding,11,Dalby/Tved/Rebæk,"V_Tobias_Jørgensen,_Hoppeshuse","Tobias Jørgensen, Hoppeshuse","Venstre, Danmarks Liberale Parti",18
+Kolding,11,Dalby/Tved/Rebæk,"V_Trille_Nikolajsen,_Vester_Nebel","Trille Nikolajsen, Vester Nebel","Venstre, Danmarks Liberale Parti",9
+Kolding,11,Dalby/Tved/Rebæk,"V_Mads_Kloppenborg-Skrumsager,_Chr.f","Mads Kloppenborg-Skrumsager, Chr.f","Venstre, Danmarks Liberale Parti",9
+Kolding,11,Dalby/Tved/Rebæk,"V_Jørgen_Meyer,_Kolding_Nord","Jørgen Meyer, Kolding Nord","Venstre, Danmarks Liberale Parti",5
+Kolding,11,Dalby/Tved/Rebæk,"V_Yrsa_Mastrup,_Vamdrup","Yrsa Mastrup, Vamdrup","Venstre, Danmarks Liberale Parti",7
+Kolding,11,Dalby/Tved/Rebæk,"V_Mette_Balsby,_Kolding","Mette Balsby, Kolding","Venstre, Danmarks Liberale Parti",6
+Kolding,11,Dalby/Tved/Rebæk,"V_Ahmad_Mohammadi,_Kolding","Ahmad Mohammadi, Kolding","Venstre, Danmarks Liberale Parti",4
+Kolding,11,Dalby/Tved/Rebæk,"V_Lennarth_Hansen,_Harte","Lennarth Hansen, Harte","Venstre, Danmarks Liberale Parti",6
+Kolding,11,Dalby/Tved/Rebæk,"V_Glenn_Lundt,_Vamdrup","Glenn Lundt, Vamdrup","Venstre, Danmarks Liberale Parti",2
+Kolding,11,Dalby/Tved/Rebæk,"V_Morten_Hansen,_Agtrup","Morten Hansen, Agtrup","Venstre, Danmarks Liberale Parti",16
+Kolding,11,Dalby/Tved/Rebæk,"V_Niels_Henning_Bladt,_Brændkjær","Niels Henning Bladt, Brændkjær","Venstre, Danmarks Liberale Parti",154
+Kolding,11,Dalby/Tved/Rebæk,"V_Jan_Schjerning,_Lunderskov","Jan Schjerning, Lunderskov","Venstre, Danmarks Liberale Parti",8
+Kolding,11,Dalby/Tved/Rebæk,"V_Anette_Juhl,_Sdr._Stenderup","Anette Juhl, Sdr. Stenderup","Venstre, Danmarks Liberale Parti",3
+Kolding,11,Dalby/Tved/Rebæk,Y_Listestemmer,Listestemmer,Kryds for Kolding,4
+Kolding,11,Dalby/Tved/Rebæk,"Y_Simon_Maegaard,_Kolding","Simon Maegaard, Kolding",Kryds for Kolding,7
+Kolding,11,Dalby/Tved/Rebæk,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,8
+Kolding,11,Dalby/Tved/Rebæk,"Ø_Benny_Dall,_Vonsild","Benny Dall, Vonsild",Enhedslisten - De Rød-Grønne,19
+Kolding,11,Dalby/Tved/Rebæk,"Ø_Hanne_Dam,_Kolding","Hanne Dam, Kolding",Enhedslisten - De Rød-Grønne,6
+Kolding,11,Dalby/Tved/Rebæk,"Ø_Jannie_Winberg,_Dalby","Jannie Winberg, Dalby",Enhedslisten - De Rød-Grønne,4
+Kolding,11,Dalby/Tved/Rebæk,"Ø_Ivan_Balleby,_Kolding","Ivan Balleby, Kolding",Enhedslisten - De Rød-Grønne,3
+Kolding,11,Dalby/Tved/Rebæk,"Ø_Margot_Pedersen,_Harte","Margot Pedersen, Harte",Enhedslisten - De Rød-Grønne,2
+Kolding,11,Dalby/Tved/Rebæk,"Ø_Brian_Simonsen,_Vamdrup_Ødis-Br.","Brian Simonsen, Vamdrup Ødis-Br.",Enhedslisten - De Rød-Grønne,0
+Kolding,11,Dalby/Tved/Rebæk,"Ø_Alice_Munkholm_Dall,_Kolding","Alice Munkholm Dall, Kolding",Enhedslisten - De Rød-Grønne,0
+Kolding,11,Dalby/Tved/Rebæk,"Ø_Erik_Voss,_Kolding","Erik Voss, Kolding",Enhedslisten - De Rød-Grønne,1
+Kolding,11,Dalby/Tved/Rebæk,"Ø_Daniela_Skov,_Kolding","Daniela Skov, Kolding",Enhedslisten - De Rød-Grønne,1
+Kolding,11,Dalby/Tved/Rebæk,"Ø_Ole_Maass,_Kolding","Ole Maass, Kolding",Enhedslisten - De Rød-Grønne,1
+Kolding,12,S Bjert/S Stenderup/Vejstrup,A_Listestemmer,Listestemmer,Socialdemokratiet,97
+Kolding,12,S Bjert/S Stenderup/Vejstrup,A_Birgitte_Munk_Grunnet,Birgitte Munk Grunnet,Socialdemokratiet,150
+Kolding,12,S Bjert/S Stenderup/Vejstrup,A_Filip_Bekic_Bladt,Filip Bekic Bladt,Socialdemokratiet,14
+Kolding,12,S Bjert/S Stenderup/Vejstrup,A_Poul_Fremmelev,Poul Fremmelev,Socialdemokratiet,8
+Kolding,12,S Bjert/S Stenderup/Vejstrup,A_Vibeke_Boisen_Brandhof,Vibeke Boisen Brandhof,Socialdemokratiet,6
+Kolding,12,S Bjert/S Stenderup/Vejstrup,A_Per_Bødker_Andersen,Per Bødker Andersen,Socialdemokratiet,9
+Kolding,12,S Bjert/S Stenderup/Vejstrup,A_Folmer_Krogh,Folmer Krogh,Socialdemokratiet,9
+Kolding,12,S Bjert/S Stenderup/Vejstrup,A_Elvis_Comic,Elvis Comic,Socialdemokratiet,4
+Kolding,12,S Bjert/S Stenderup/Vejstrup,A_Jane_Bødskov_Petersen,Jane Bødskov Petersen,Socialdemokratiet,2
+Kolding,12,S Bjert/S Stenderup/Vejstrup,A_Gerrit_Toet,Gerrit Toet,Socialdemokratiet,51
+Kolding,12,S Bjert/S Stenderup/Vejstrup,A_Gitte_Guldberg_Spanier,Gitte Guldberg Spanier,Socialdemokratiet,1
+Kolding,12,S Bjert/S Stenderup/Vejstrup,A_Michael_Jørgensen,Michael Jørgensen,Socialdemokratiet,2
+Kolding,12,S Bjert/S Stenderup/Vejstrup,A_Bjarne_Stolten_Thomsen,Bjarne Stolten Thomsen,Socialdemokratiet,2
+Kolding,12,S Bjert/S Stenderup/Vejstrup,A_Hamlaoui_Bahloul,Hamlaoui Bahloul,Socialdemokratiet,0
+Kolding,12,S Bjert/S Stenderup/Vejstrup,A_Jacob_Bøegh,Jacob Bøegh,Socialdemokratiet,5
+Kolding,12,S Bjert/S Stenderup/Vejstrup,B_Listestemmer,Listestemmer,Radikale Venstre,29
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"B_Merete_Due_Paarup,_Jordrup","Merete Due Paarup, Jordrup",Radikale Venstre,11
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"B_Margreet_Smit,_Sdr._Stenderup","Margreet Smit, Sdr. Stenderup",Radikale Venstre,134
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"B_Jonathan_Dyring_Løvbom,_Hjarup","Jonathan Dyring Løvbom, Hjarup",Radikale Venstre,35
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"B_Vahida_Hadzija,_Kolding","Vahida Hadzija, Kolding",Radikale Venstre,1
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"B_Charlotte_Enevoldsen,_Kolding","Charlotte Enevoldsen, Kolding",Radikale Venstre,2
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"B_Bjørn_Olsen,_Seest","Bjørn Olsen, Seest",Radikale Venstre,5
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"B_Kenny_C._Holm,_Sjølund","Kenny C. Holm, Sjølund",Radikale Venstre,21
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"B_Bo_Skibelund,_Almind","Bo Skibelund, Almind",Radikale Venstre,0
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"B_Knud_Nørregaard,_Bramdrupdam","Knud Nørregaard, Bramdrupdam",Radikale Venstre,1
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"B_Preben_Tamborg_Pedersen,_Kolding_S","Preben Tamborg Pedersen, Kolding S",Radikale Venstre,1
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"B_Hans_Krab_Koed,_Fovslet","Hans Krab Koed, Fovslet",Radikale Venstre,2
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"B_Ole_Holst,_Drejens","Ole Holst, Drejens",Radikale Venstre,0
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"B_Jens_Sørensen,_Kolding","Jens Sørensen, Kolding",Radikale Venstre,1
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"B_Erik_Krab_Koed,_Almind-Viuf","Erik Krab Koed, Almind-Viuf",Radikale Venstre,1
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"B_Lars_Keller,_Sdr._Bjert","Lars Keller, Sdr. Bjert",Radikale Venstre,2
+Kolding,12,S Bjert/S Stenderup/Vejstrup,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,54
+Kolding,12,S Bjert/S Stenderup/Vejstrup,C_Knud_Erik_Langhoff,Knud Erik Langhoff,Det Konservative Folkeparti,241
+Kolding,12,S Bjert/S Stenderup/Vejstrup,C_Gitte_Grønbæk,Gitte Grønbæk,Det Konservative Folkeparti,20
+Kolding,12,S Bjert/S Stenderup/Vejstrup,C_Freddy_Christensen,Freddy Christensen,Det Konservative Folkeparti,4
+Kolding,12,S Bjert/S Stenderup/Vejstrup,C_Jacob_Silberling_Knudsen,Jacob Silberling Knudsen,Det Konservative Folkeparti,5
+Kolding,12,S Bjert/S Stenderup/Vejstrup,C_Casper_N._Maglekær,Casper N. Maglekær,Det Konservative Folkeparti,2
+Kolding,12,S Bjert/S Stenderup/Vejstrup,C_Mirela_Tanovic,Mirela Tanovic,Det Konservative Folkeparti,2
+Kolding,12,S Bjert/S Stenderup/Vejstrup,C_Jørgen_Bøytler,Jørgen Bøytler,Det Konservative Folkeparti,3
+Kolding,12,S Bjert/S Stenderup/Vejstrup,C_Dan_Foss_Kragh,Dan Foss Kragh,Det Konservative Folkeparti,4
+Kolding,12,S Bjert/S Stenderup/Vejstrup,C_Daniel_Klestrup_Bjærge,Daniel Klestrup Bjærge,Det Konservative Folkeparti,5
+Kolding,12,S Bjert/S Stenderup/Vejstrup,C_Betina_Wettengel,Betina Wettengel,Det Konservative Folkeparti,4
+Kolding,12,S Bjert/S Stenderup/Vejstrup,C_René_Nikolaj_Andersen,René Nikolaj Andersen,Det Konservative Folkeparti,1
+Kolding,12,S Bjert/S Stenderup/Vejstrup,C_Christian_Saxov,Christian Saxov,Det Konservative Folkeparti,3
+Kolding,12,S Bjert/S Stenderup/Vejstrup,C_Mette_Borchert_Vahlun,Mette Borchert Vahlun,Det Konservative Folkeparti,2
+Kolding,12,S Bjert/S Stenderup/Vejstrup,C_Signe_Bøje_Sahner,Signe Bøje Sahner,Det Konservative Folkeparti,2
+Kolding,12,S Bjert/S Stenderup/Vejstrup,C_Jesper_Termansen,Jesper Termansen,Det Konservative Folkeparti,0
+Kolding,12,S Bjert/S Stenderup/Vejstrup,D_Listestemmer,Listestemmer,Nye Borgerlige,39
+Kolding,12,S Bjert/S Stenderup/Vejstrup,D_Mikael_Fiurendal,Mikael Fiurendal,Nye Borgerlige,12
+Kolding,12,S Bjert/S Stenderup/Vejstrup,D_Jan_Tambo,Jan Tambo,Nye Borgerlige,11
+Kolding,12,S Bjert/S Stenderup/Vejstrup,D_Allan_Søllingvraa_Rasmussen,Allan Søllingvraa Rasmussen,Nye Borgerlige,10
+Kolding,12,S Bjert/S Stenderup/Vejstrup,D_Christina_Britten,Christina Britten,Nye Borgerlige,4
+Kolding,12,S Bjert/S Stenderup/Vejstrup,D_Dorte_Noer,Dorte Noer,Nye Borgerlige,2
+Kolding,12,S Bjert/S Stenderup/Vejstrup,D_Peter_Krogsten,Peter Krogsten,Nye Borgerlige,2
+Kolding,12,S Bjert/S Stenderup/Vejstrup,D_Anders_Thygesen,Anders Thygesen,Nye Borgerlige,0
+Kolding,12,S Bjert/S Stenderup/Vejstrup,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,29
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"F_Villy_Søvndal,_Sdr._Bjert","Villy Søvndal, Sdr. Bjert",SF - Socialistisk Folkeparti,469
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"F_Hans_Holmer,_Kolding","Hans Holmer, Kolding",SF - Socialistisk Folkeparti,22
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"F_Susanne_Stenstrop_Thorsen,_Kolding","Susanne Stenstrop Thorsen, Kolding",SF - Socialistisk Folkeparti,21
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"F_Marianne_Jespersen,_Kolding","Marianne Jespersen, Kolding",SF - Socialistisk Folkeparti,8
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"F_Iben_Lehmann_Rasmussen,_Bramdrupd.","Iben Lehmann Rasmussen, Bramdrupd.",SF - Socialistisk Folkeparti,25
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"F_Jørn_Chemnitz,_Kolding","Jørn Chemnitz, Kolding",SF - Socialistisk Folkeparti,40
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"F_Abdullah_Ismail,_Brændkjær","Abdullah Ismail, Brændkjær",SF - Socialistisk Folkeparti,0
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"F_Ole_Damborg,_Bramdrupdam","Ole Damborg, Bramdrupdam",SF - Socialistisk Folkeparti,0
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"F_Mette_T._R._Andersen,_Kolding","Mette T. R. Andersen, Kolding",SF - Socialistisk Folkeparti,7
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"F_Nanett_Jensen,_Vamdrup","Nanett Jensen, Vamdrup",SF - Socialistisk Folkeparti,2
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"F_Erik_Dyg_Sørensen,_Kolding","Erik Dyg Sørensen, Kolding",SF - Socialistisk Folkeparti,0
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"F_Poul_Erik_Nørregaard,_Kolding","Poul Erik Nørregaard, Kolding",SF - Socialistisk Folkeparti,1
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"F_Gitte_Høien_Johnsen,_Chr.feld","Gitte Høien Johnsen, Chr.feld",SF - Socialistisk Folkeparti,2
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"F_Jesper_Elkjær,_Kolding","Jesper Elkjær, Kolding",SF - Socialistisk Folkeparti,19
+Kolding,12,S Bjert/S Stenderup/Vejstrup,I_Listestemmer,Listestemmer,Liberal Alliance,11
+Kolding,12,S Bjert/S Stenderup/Vejstrup,I_Helena_Artmann_Andresen,Helena Artmann Andresen,Liberal Alliance,23
+Kolding,12,S Bjert/S Stenderup/Vejstrup,I_Mikkel_Pedersen,Mikkel Pedersen,Liberal Alliance,5
+Kolding,12,S Bjert/S Stenderup/Vejstrup,I_Carsten_Andersen,Carsten Andersen,Liberal Alliance,1
+Kolding,12,S Bjert/S Stenderup/Vejstrup,I_Martin_Kodahl,Martin Kodahl,Liberal Alliance,0
+Kolding,12,S Bjert/S Stenderup/Vejstrup,I_Dennis_Paaske,Dennis Paaske,Liberal Alliance,6
+Kolding,12,S Bjert/S Stenderup/Vejstrup,K_Listestemmer,Listestemmer,Kristendemokraterne,1
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"K_Jens_Chr._Olesen,_Christiansfeld","Jens Chr. Olesen, Christiansfeld",Kristendemokraterne,1
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"K_Jørgen_Høier,_Seest","Jørgen Høier, Seest",Kristendemokraterne,0
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"K_Simon_Marker_Pedersen,_Kolding","Simon Marker Pedersen, Kolding",Kristendemokraterne,0
+Kolding,12,S Bjert/S Stenderup/Vejstrup,O_Listestemmer,Listestemmer,Dansk Folkeparti,25
+Kolding,12,S Bjert/S Stenderup/Vejstrup,O_Søren_Rasmussen,Søren Rasmussen,Dansk Folkeparti,87
+Kolding,12,S Bjert/S Stenderup/Vejstrup,O_Laura_Guldager,Laura Guldager,Dansk Folkeparti,5
+Kolding,12,S Bjert/S Stenderup/Vejstrup,O_Molle_Lykke_Nielsen,Molle Lykke Nielsen,Dansk Folkeparti,39
+Kolding,12,S Bjert/S Stenderup/Vejstrup,O_Kristian_Kruse,Kristian Kruse,Dansk Folkeparti,1
+Kolding,12,S Bjert/S Stenderup/Vejstrup,O_Jackie_Damkjær_Hansen,Jackie Damkjær Hansen,Dansk Folkeparti,8
+Kolding,12,S Bjert/S Stenderup/Vejstrup,O_Mariane_Hansen,Mariane Hansen,Dansk Folkeparti,2
+Kolding,12,S Bjert/S Stenderup/Vejstrup,O_René_Arndt,René Arndt,Dansk Folkeparti,0
+Kolding,12,S Bjert/S Stenderup/Vejstrup,O_Mikael_Krogh,Mikael Krogh,Dansk Folkeparti,0
+Kolding,12,S Bjert/S Stenderup/Vejstrup,O_Tenna_Lindgaard,Tenna Lindgaard,Dansk Folkeparti,0
+Kolding,12,S Bjert/S Stenderup/Vejstrup,O_Nancy_Lystlund,Nancy Lystlund,Dansk Folkeparti,0
+Kolding,12,S Bjert/S Stenderup/Vejstrup,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",95
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"V_Eva_Kjer_Hansen,_Kolding","Eva Kjer Hansen, Kolding","Venstre, Danmarks Liberale Parti",275
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"V_Jakob_Ville,_Seest","Jakob Ville, Seest","Venstre, Danmarks Liberale Parti",106
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"V_Ole_Martensen,_Kolding","Ole Martensen, Kolding","Venstre, Danmarks Liberale Parti",20
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"V_Birgitte_Kragh,_Skanderup","Birgitte Kragh, Skanderup","Venstre, Danmarks Liberale Parti",29
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"V_Lene_Brandenborg,_Fynslund","Lene Brandenborg, Fynslund","Venstre, Danmarks Liberale Parti",4
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"V_Ole_Alsted,_Almind-Viuf","Ole Alsted, Almind-Viuf","Venstre, Danmarks Liberale Parti",9
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"V_Tobias_Jørgensen,_Hoppeshuse","Tobias Jørgensen, Hoppeshuse","Venstre, Danmarks Liberale Parti",26
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"V_Trille_Nikolajsen,_Vester_Nebel","Trille Nikolajsen, Vester Nebel","Venstre, Danmarks Liberale Parti",11
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"V_Mads_Kloppenborg-Skrumsager,_Chr.f","Mads Kloppenborg-Skrumsager, Chr.f","Venstre, Danmarks Liberale Parti",54
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"V_Jørgen_Meyer,_Kolding_Nord","Jørgen Meyer, Kolding Nord","Venstre, Danmarks Liberale Parti",2
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"V_Yrsa_Mastrup,_Vamdrup","Yrsa Mastrup, Vamdrup","Venstre, Danmarks Liberale Parti",2
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"V_Mette_Balsby,_Kolding","Mette Balsby, Kolding","Venstre, Danmarks Liberale Parti",1
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"V_Ahmad_Mohammadi,_Kolding","Ahmad Mohammadi, Kolding","Venstre, Danmarks Liberale Parti",0
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"V_Lennarth_Hansen,_Harte","Lennarth Hansen, Harte","Venstre, Danmarks Liberale Parti",6
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"V_Glenn_Lundt,_Vamdrup","Glenn Lundt, Vamdrup","Venstre, Danmarks Liberale Parti",1
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"V_Morten_Hansen,_Agtrup","Morten Hansen, Agtrup","Venstre, Danmarks Liberale Parti",19
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"V_Niels_Henning_Bladt,_Brændkjær","Niels Henning Bladt, Brændkjær","Venstre, Danmarks Liberale Parti",6
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"V_Jan_Schjerning,_Lunderskov","Jan Schjerning, Lunderskov","Venstre, Danmarks Liberale Parti",5
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"V_Anette_Juhl,_Sdr._Stenderup","Anette Juhl, Sdr. Stenderup","Venstre, Danmarks Liberale Parti",64
+Kolding,12,S Bjert/S Stenderup/Vejstrup,Y_Listestemmer,Listestemmer,Kryds for Kolding,4
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"Y_Simon_Maegaard,_Kolding","Simon Maegaard, Kolding",Kryds for Kolding,3
+Kolding,12,S Bjert/S Stenderup/Vejstrup,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,22
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"Ø_Benny_Dall,_Vonsild","Benny Dall, Vonsild",Enhedslisten - De Rød-Grønne,55
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"Ø_Hanne_Dam,_Kolding","Hanne Dam, Kolding",Enhedslisten - De Rød-Grønne,15
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"Ø_Jannie_Winberg,_Dalby","Jannie Winberg, Dalby",Enhedslisten - De Rød-Grønne,4
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"Ø_Ivan_Balleby,_Kolding","Ivan Balleby, Kolding",Enhedslisten - De Rød-Grønne,2
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"Ø_Margot_Pedersen,_Harte","Margot Pedersen, Harte",Enhedslisten - De Rød-Grønne,2
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"Ø_Brian_Simonsen,_Vamdrup_Ødis-Br.","Brian Simonsen, Vamdrup Ødis-Br.",Enhedslisten - De Rød-Grønne,0
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"Ø_Alice_Munkholm_Dall,_Kolding","Alice Munkholm Dall, Kolding",Enhedslisten - De Rød-Grønne,2
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"Ø_Erik_Voss,_Kolding","Erik Voss, Kolding",Enhedslisten - De Rød-Grønne,3
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"Ø_Daniela_Skov,_Kolding","Daniela Skov, Kolding",Enhedslisten - De Rød-Grønne,0
+Kolding,12,S Bjert/S Stenderup/Vejstrup,"Ø_Ole_Maass,_Kolding","Ole Maass, Kolding",Enhedslisten - De Rød-Grønne,1
+Kolding,13,Vonsild,A_Listestemmer,Listestemmer,Socialdemokratiet,86
+Kolding,13,Vonsild,A_Birgitte_Munk_Grunnet,Birgitte Munk Grunnet,Socialdemokratiet,149
+Kolding,13,Vonsild,A_Filip_Bekic_Bladt,Filip Bekic Bladt,Socialdemokratiet,20
+Kolding,13,Vonsild,A_Poul_Fremmelev,Poul Fremmelev,Socialdemokratiet,99
+Kolding,13,Vonsild,A_Vibeke_Boisen_Brandhof,Vibeke Boisen Brandhof,Socialdemokratiet,7
+Kolding,13,Vonsild,A_Per_Bødker_Andersen,Per Bødker Andersen,Socialdemokratiet,8
+Kolding,13,Vonsild,A_Folmer_Krogh,Folmer Krogh,Socialdemokratiet,23
+Kolding,13,Vonsild,A_Elvis_Comic,Elvis Comic,Socialdemokratiet,10
+Kolding,13,Vonsild,A_Jane_Bødskov_Petersen,Jane Bødskov Petersen,Socialdemokratiet,5
+Kolding,13,Vonsild,A_Gerrit_Toet,Gerrit Toet,Socialdemokratiet,2
+Kolding,13,Vonsild,A_Gitte_Guldberg_Spanier,Gitte Guldberg Spanier,Socialdemokratiet,2
+Kolding,13,Vonsild,A_Michael_Jørgensen,Michael Jørgensen,Socialdemokratiet,3
+Kolding,13,Vonsild,A_Bjarne_Stolten_Thomsen,Bjarne Stolten Thomsen,Socialdemokratiet,3
+Kolding,13,Vonsild,A_Hamlaoui_Bahloul,Hamlaoui Bahloul,Socialdemokratiet,4
+Kolding,13,Vonsild,A_Jacob_Bøegh,Jacob Bøegh,Socialdemokratiet,7
+Kolding,13,Vonsild,B_Listestemmer,Listestemmer,Radikale Venstre,22
+Kolding,13,Vonsild,"B_Merete_Due_Paarup,_Jordrup","Merete Due Paarup, Jordrup",Radikale Venstre,18
+Kolding,13,Vonsild,"B_Margreet_Smit,_Sdr._Stenderup","Margreet Smit, Sdr. Stenderup",Radikale Venstre,5
+Kolding,13,Vonsild,"B_Jonathan_Dyring_Løvbom,_Hjarup","Jonathan Dyring Løvbom, Hjarup",Radikale Venstre,12
+Kolding,13,Vonsild,"B_Vahida_Hadzija,_Kolding","Vahida Hadzija, Kolding",Radikale Venstre,2
+Kolding,13,Vonsild,"B_Charlotte_Enevoldsen,_Kolding","Charlotte Enevoldsen, Kolding",Radikale Venstre,2
+Kolding,13,Vonsild,"B_Bjørn_Olsen,_Seest","Bjørn Olsen, Seest",Radikale Venstre,2
+Kolding,13,Vonsild,"B_Kenny_C._Holm,_Sjølund","Kenny C. Holm, Sjølund",Radikale Venstre,5
+Kolding,13,Vonsild,"B_Bo_Skibelund,_Almind","Bo Skibelund, Almind",Radikale Venstre,0
+Kolding,13,Vonsild,"B_Knud_Nørregaard,_Bramdrupdam","Knud Nørregaard, Bramdrupdam",Radikale Venstre,5
+Kolding,13,Vonsild,"B_Preben_Tamborg_Pedersen,_Kolding_S","Preben Tamborg Pedersen, Kolding S",Radikale Venstre,1
+Kolding,13,Vonsild,"B_Hans_Krab_Koed,_Fovslet","Hans Krab Koed, Fovslet",Radikale Venstre,2
+Kolding,13,Vonsild,"B_Ole_Holst,_Drejens","Ole Holst, Drejens",Radikale Venstre,0
+Kolding,13,Vonsild,"B_Jens_Sørensen,_Kolding","Jens Sørensen, Kolding",Radikale Venstre,3
+Kolding,13,Vonsild,"B_Erik_Krab_Koed,_Almind-Viuf","Erik Krab Koed, Almind-Viuf",Radikale Venstre,0
+Kolding,13,Vonsild,"B_Lars_Keller,_Sdr._Bjert","Lars Keller, Sdr. Bjert",Radikale Venstre,0
+Kolding,13,Vonsild,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,46
+Kolding,13,Vonsild,C_Knud_Erik_Langhoff,Knud Erik Langhoff,Det Konservative Folkeparti,39
+Kolding,13,Vonsild,C_Gitte_Grønbæk,Gitte Grønbæk,Det Konservative Folkeparti,39
+Kolding,13,Vonsild,C_Freddy_Christensen,Freddy Christensen,Det Konservative Folkeparti,4
+Kolding,13,Vonsild,C_Jacob_Silberling_Knudsen,Jacob Silberling Knudsen,Det Konservative Folkeparti,3
+Kolding,13,Vonsild,C_Casper_N._Maglekær,Casper N. Maglekær,Det Konservative Folkeparti,3
+Kolding,13,Vonsild,C_Mirela_Tanovic,Mirela Tanovic,Det Konservative Folkeparti,11
+Kolding,13,Vonsild,C_Jørgen_Bøytler,Jørgen Bøytler,Det Konservative Folkeparti,3
+Kolding,13,Vonsild,C_Dan_Foss_Kragh,Dan Foss Kragh,Det Konservative Folkeparti,4
+Kolding,13,Vonsild,C_Daniel_Klestrup_Bjærge,Daniel Klestrup Bjærge,Det Konservative Folkeparti,1
+Kolding,13,Vonsild,C_Betina_Wettengel,Betina Wettengel,Det Konservative Folkeparti,6
+Kolding,13,Vonsild,C_René_Nikolaj_Andersen,René Nikolaj Andersen,Det Konservative Folkeparti,1
+Kolding,13,Vonsild,C_Christian_Saxov,Christian Saxov,Det Konservative Folkeparti,2
+Kolding,13,Vonsild,C_Mette_Borchert_Vahlun,Mette Borchert Vahlun,Det Konservative Folkeparti,0
+Kolding,13,Vonsild,C_Signe_Bøje_Sahner,Signe Bøje Sahner,Det Konservative Folkeparti,1
+Kolding,13,Vonsild,C_Jesper_Termansen,Jesper Termansen,Det Konservative Folkeparti,0
+Kolding,13,Vonsild,D_Listestemmer,Listestemmer,Nye Borgerlige,32
+Kolding,13,Vonsild,D_Mikael_Fiurendal,Mikael Fiurendal,Nye Borgerlige,17
+Kolding,13,Vonsild,D_Jan_Tambo,Jan Tambo,Nye Borgerlige,2
+Kolding,13,Vonsild,D_Allan_Søllingvraa_Rasmussen,Allan Søllingvraa Rasmussen,Nye Borgerlige,1
+Kolding,13,Vonsild,D_Christina_Britten,Christina Britten,Nye Borgerlige,6
+Kolding,13,Vonsild,D_Dorte_Noer,Dorte Noer,Nye Borgerlige,0
+Kolding,13,Vonsild,D_Peter_Krogsten,Peter Krogsten,Nye Borgerlige,0
+Kolding,13,Vonsild,D_Anders_Thygesen,Anders Thygesen,Nye Borgerlige,2
+Kolding,13,Vonsild,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,26
+Kolding,13,Vonsild,"F_Villy_Søvndal,_Sdr._Bjert","Villy Søvndal, Sdr. Bjert",SF - Socialistisk Folkeparti,192
+Kolding,13,Vonsild,"F_Hans_Holmer,_Kolding","Hans Holmer, Kolding",SF - Socialistisk Folkeparti,21
+Kolding,13,Vonsild,"F_Susanne_Stenstrop_Thorsen,_Kolding","Susanne Stenstrop Thorsen, Kolding",SF - Socialistisk Folkeparti,13
+Kolding,13,Vonsild,"F_Marianne_Jespersen,_Kolding","Marianne Jespersen, Kolding",SF - Socialistisk Folkeparti,2
+Kolding,13,Vonsild,"F_Iben_Lehmann_Rasmussen,_Bramdrupd.","Iben Lehmann Rasmussen, Bramdrupd.",SF - Socialistisk Folkeparti,3
+Kolding,13,Vonsild,"F_Jørn_Chemnitz,_Kolding","Jørn Chemnitz, Kolding",SF - Socialistisk Folkeparti,19
+Kolding,13,Vonsild,"F_Abdullah_Ismail,_Brændkjær","Abdullah Ismail, Brændkjær",SF - Socialistisk Folkeparti,0
+Kolding,13,Vonsild,"F_Ole_Damborg,_Bramdrupdam","Ole Damborg, Bramdrupdam",SF - Socialistisk Folkeparti,0
+Kolding,13,Vonsild,"F_Mette_T._R._Andersen,_Kolding","Mette T. R. Andersen, Kolding",SF - Socialistisk Folkeparti,2
+Kolding,13,Vonsild,"F_Nanett_Jensen,_Vamdrup","Nanett Jensen, Vamdrup",SF - Socialistisk Folkeparti,1
+Kolding,13,Vonsild,"F_Erik_Dyg_Sørensen,_Kolding","Erik Dyg Sørensen, Kolding",SF - Socialistisk Folkeparti,0
+Kolding,13,Vonsild,"F_Poul_Erik_Nørregaard,_Kolding","Poul Erik Nørregaard, Kolding",SF - Socialistisk Folkeparti,1
+Kolding,13,Vonsild,"F_Gitte_Høien_Johnsen,_Chr.feld","Gitte Høien Johnsen, Chr.feld",SF - Socialistisk Folkeparti,2
+Kolding,13,Vonsild,"F_Jesper_Elkjær,_Kolding","Jesper Elkjær, Kolding",SF - Socialistisk Folkeparti,8
+Kolding,13,Vonsild,I_Listestemmer,Listestemmer,Liberal Alliance,9
+Kolding,13,Vonsild,I_Helena_Artmann_Andresen,Helena Artmann Andresen,Liberal Alliance,44
+Kolding,13,Vonsild,I_Mikkel_Pedersen,Mikkel Pedersen,Liberal Alliance,2
+Kolding,13,Vonsild,I_Carsten_Andersen,Carsten Andersen,Liberal Alliance,0
+Kolding,13,Vonsild,I_Martin_Kodahl,Martin Kodahl,Liberal Alliance,0
+Kolding,13,Vonsild,I_Dennis_Paaske,Dennis Paaske,Liberal Alliance,6
+Kolding,13,Vonsild,K_Listestemmer,Listestemmer,Kristendemokraterne,3
+Kolding,13,Vonsild,"K_Jens_Chr._Olesen,_Christiansfeld","Jens Chr. Olesen, Christiansfeld",Kristendemokraterne,14
+Kolding,13,Vonsild,"K_Jørgen_Høier,_Seest","Jørgen Høier, Seest",Kristendemokraterne,1
+Kolding,13,Vonsild,"K_Simon_Marker_Pedersen,_Kolding","Simon Marker Pedersen, Kolding",Kristendemokraterne,3
+Kolding,13,Vonsild,O_Listestemmer,Listestemmer,Dansk Folkeparti,15
+Kolding,13,Vonsild,O_Søren_Rasmussen,Søren Rasmussen,Dansk Folkeparti,98
+Kolding,13,Vonsild,O_Laura_Guldager,Laura Guldager,Dansk Folkeparti,3
+Kolding,13,Vonsild,O_Molle_Lykke_Nielsen,Molle Lykke Nielsen,Dansk Folkeparti,9
+Kolding,13,Vonsild,O_Kristian_Kruse,Kristian Kruse,Dansk Folkeparti,0
+Kolding,13,Vonsild,O_Jackie_Damkjær_Hansen,Jackie Damkjær Hansen,Dansk Folkeparti,3
+Kolding,13,Vonsild,O_Mariane_Hansen,Mariane Hansen,Dansk Folkeparti,3
+Kolding,13,Vonsild,O_René_Arndt,René Arndt,Dansk Folkeparti,4
+Kolding,13,Vonsild,O_Mikael_Krogh,Mikael Krogh,Dansk Folkeparti,0
+Kolding,13,Vonsild,O_Tenna_Lindgaard,Tenna Lindgaard,Dansk Folkeparti,0
+Kolding,13,Vonsild,O_Nancy_Lystlund,Nancy Lystlund,Dansk Folkeparti,1
+Kolding,13,Vonsild,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",108
+Kolding,13,Vonsild,"V_Eva_Kjer_Hansen,_Kolding","Eva Kjer Hansen, Kolding","Venstre, Danmarks Liberale Parti",219
+Kolding,13,Vonsild,"V_Jakob_Ville,_Seest","Jakob Ville, Seest","Venstre, Danmarks Liberale Parti",119
+Kolding,13,Vonsild,"V_Ole_Martensen,_Kolding","Ole Martensen, Kolding","Venstre, Danmarks Liberale Parti",33
+Kolding,13,Vonsild,"V_Birgitte_Kragh,_Skanderup","Birgitte Kragh, Skanderup","Venstre, Danmarks Liberale Parti",19
+Kolding,13,Vonsild,"V_Lene_Brandenborg,_Fynslund","Lene Brandenborg, Fynslund","Venstre, Danmarks Liberale Parti",2
+Kolding,13,Vonsild,"V_Ole_Alsted,_Almind-Viuf","Ole Alsted, Almind-Viuf","Venstre, Danmarks Liberale Parti",12
+Kolding,13,Vonsild,"V_Tobias_Jørgensen,_Hoppeshuse","Tobias Jørgensen, Hoppeshuse","Venstre, Danmarks Liberale Parti",42
+Kolding,13,Vonsild,"V_Trille_Nikolajsen,_Vester_Nebel","Trille Nikolajsen, Vester Nebel","Venstre, Danmarks Liberale Parti",3
+Kolding,13,Vonsild,"V_Mads_Kloppenborg-Skrumsager,_Chr.f","Mads Kloppenborg-Skrumsager, Chr.f","Venstre, Danmarks Liberale Parti",11
+Kolding,13,Vonsild,"V_Jørgen_Meyer,_Kolding_Nord","Jørgen Meyer, Kolding Nord","Venstre, Danmarks Liberale Parti",1
+Kolding,13,Vonsild,"V_Yrsa_Mastrup,_Vamdrup","Yrsa Mastrup, Vamdrup","Venstre, Danmarks Liberale Parti",0
+Kolding,13,Vonsild,"V_Mette_Balsby,_Kolding","Mette Balsby, Kolding","Venstre, Danmarks Liberale Parti",2
+Kolding,13,Vonsild,"V_Ahmad_Mohammadi,_Kolding","Ahmad Mohammadi, Kolding","Venstre, Danmarks Liberale Parti",1
+Kolding,13,Vonsild,"V_Lennarth_Hansen,_Harte","Lennarth Hansen, Harte","Venstre, Danmarks Liberale Parti",3
+Kolding,13,Vonsild,"V_Glenn_Lundt,_Vamdrup","Glenn Lundt, Vamdrup","Venstre, Danmarks Liberale Parti",0
+Kolding,13,Vonsild,"V_Morten_Hansen,_Agtrup","Morten Hansen, Agtrup","Venstre, Danmarks Liberale Parti",9
+Kolding,13,Vonsild,"V_Niels_Henning_Bladt,_Brændkjær","Niels Henning Bladt, Brændkjær","Venstre, Danmarks Liberale Parti",6
+Kolding,13,Vonsild,"V_Jan_Schjerning,_Lunderskov","Jan Schjerning, Lunderskov","Venstre, Danmarks Liberale Parti",2
+Kolding,13,Vonsild,"V_Anette_Juhl,_Sdr._Stenderup","Anette Juhl, Sdr. Stenderup","Venstre, Danmarks Liberale Parti",2
+Kolding,13,Vonsild,Y_Listestemmer,Listestemmer,Kryds for Kolding,2
+Kolding,13,Vonsild,"Y_Simon_Maegaard,_Kolding","Simon Maegaard, Kolding",Kryds for Kolding,1
+Kolding,13,Vonsild,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,9
+Kolding,13,Vonsild,"Ø_Benny_Dall,_Vonsild","Benny Dall, Vonsild",Enhedslisten - De Rød-Grønne,12
+Kolding,13,Vonsild,"Ø_Hanne_Dam,_Kolding","Hanne Dam, Kolding",Enhedslisten - De Rød-Grønne,4
+Kolding,13,Vonsild,"Ø_Jannie_Winberg,_Dalby","Jannie Winberg, Dalby",Enhedslisten - De Rød-Grønne,0
+Kolding,13,Vonsild,"Ø_Ivan_Balleby,_Kolding","Ivan Balleby, Kolding",Enhedslisten - De Rød-Grønne,0
+Kolding,13,Vonsild,"Ø_Margot_Pedersen,_Harte","Margot Pedersen, Harte",Enhedslisten - De Rød-Grønne,0
+Kolding,13,Vonsild,"Ø_Brian_Simonsen,_Vamdrup_Ødis-Br.","Brian Simonsen, Vamdrup Ødis-Br.",Enhedslisten - De Rød-Grønne,1
+Kolding,13,Vonsild,"Ø_Alice_Munkholm_Dall,_Kolding","Alice Munkholm Dall, Kolding",Enhedslisten - De Rød-Grønne,0
+Kolding,13,Vonsild,"Ø_Erik_Voss,_Kolding","Erik Voss, Kolding",Enhedslisten - De Rød-Grønne,0
+Kolding,13,Vonsild,"Ø_Daniela_Skov,_Kolding","Daniela Skov, Kolding",Enhedslisten - De Rød-Grønne,0
+Kolding,13,Vonsild,"Ø_Ole_Maass,_Kolding","Ole Maass, Kolding",Enhedslisten - De Rød-Grønne,0
+Kolding,14,Vamdrup/Hjarup/Ødis,A_Listestemmer,Listestemmer,Socialdemokratiet,142
+Kolding,14,Vamdrup/Hjarup/Ødis,A_Birgitte_Munk_Grunnet,Birgitte Munk Grunnet,Socialdemokratiet,660
+Kolding,14,Vamdrup/Hjarup/Ødis,A_Filip_Bekic_Bladt,Filip Bekic Bladt,Socialdemokratiet,25
+Kolding,14,Vamdrup/Hjarup/Ødis,A_Poul_Fremmelev,Poul Fremmelev,Socialdemokratiet,18
+Kolding,14,Vamdrup/Hjarup/Ødis,A_Vibeke_Boisen_Brandhof,Vibeke Boisen Brandhof,Socialdemokratiet,6
+Kolding,14,Vamdrup/Hjarup/Ødis,A_Per_Bødker_Andersen,Per Bødker Andersen,Socialdemokratiet,9
+Kolding,14,Vamdrup/Hjarup/Ødis,A_Folmer_Krogh,Folmer Krogh,Socialdemokratiet,6
+Kolding,14,Vamdrup/Hjarup/Ødis,A_Elvis_Comic,Elvis Comic,Socialdemokratiet,5
+Kolding,14,Vamdrup/Hjarup/Ødis,A_Jane_Bødskov_Petersen,Jane Bødskov Petersen,Socialdemokratiet,7
+Kolding,14,Vamdrup/Hjarup/Ødis,A_Gerrit_Toet,Gerrit Toet,Socialdemokratiet,1
+Kolding,14,Vamdrup/Hjarup/Ødis,A_Gitte_Guldberg_Spanier,Gitte Guldberg Spanier,Socialdemokratiet,37
+Kolding,14,Vamdrup/Hjarup/Ødis,A_Michael_Jørgensen,Michael Jørgensen,Socialdemokratiet,5
+Kolding,14,Vamdrup/Hjarup/Ødis,A_Bjarne_Stolten_Thomsen,Bjarne Stolten Thomsen,Socialdemokratiet,2
+Kolding,14,Vamdrup/Hjarup/Ødis,A_Hamlaoui_Bahloul,Hamlaoui Bahloul,Socialdemokratiet,8
+Kolding,14,Vamdrup/Hjarup/Ødis,A_Jacob_Bøegh,Jacob Bøegh,Socialdemokratiet,6
+Kolding,14,Vamdrup/Hjarup/Ødis,B_Listestemmer,Listestemmer,Radikale Venstre,25
+Kolding,14,Vamdrup/Hjarup/Ødis,"B_Merete_Due_Paarup,_Jordrup","Merete Due Paarup, Jordrup",Radikale Venstre,40
+Kolding,14,Vamdrup/Hjarup/Ødis,"B_Margreet_Smit,_Sdr._Stenderup","Margreet Smit, Sdr. Stenderup",Radikale Venstre,3
+Kolding,14,Vamdrup/Hjarup/Ødis,"B_Jonathan_Dyring_Løvbom,_Hjarup","Jonathan Dyring Løvbom, Hjarup",Radikale Venstre,47
+Kolding,14,Vamdrup/Hjarup/Ødis,"B_Vahida_Hadzija,_Kolding","Vahida Hadzija, Kolding",Radikale Venstre,6
+Kolding,14,Vamdrup/Hjarup/Ødis,"B_Charlotte_Enevoldsen,_Kolding","Charlotte Enevoldsen, Kolding",Radikale Venstre,5
+Kolding,14,Vamdrup/Hjarup/Ødis,"B_Bjørn_Olsen,_Seest","Bjørn Olsen, Seest",Radikale Venstre,2
+Kolding,14,Vamdrup/Hjarup/Ødis,"B_Kenny_C._Holm,_Sjølund","Kenny C. Holm, Sjølund",Radikale Venstre,2
+Kolding,14,Vamdrup/Hjarup/Ødis,"B_Bo_Skibelund,_Almind","Bo Skibelund, Almind",Radikale Venstre,4
+Kolding,14,Vamdrup/Hjarup/Ødis,"B_Knud_Nørregaard,_Bramdrupdam","Knud Nørregaard, Bramdrupdam",Radikale Venstre,3
+Kolding,14,Vamdrup/Hjarup/Ødis,"B_Preben_Tamborg_Pedersen,_Kolding_S","Preben Tamborg Pedersen, Kolding S",Radikale Venstre,0
+Kolding,14,Vamdrup/Hjarup/Ødis,"B_Hans_Krab_Koed,_Fovslet","Hans Krab Koed, Fovslet",Radikale Venstre,5
+Kolding,14,Vamdrup/Hjarup/Ødis,"B_Ole_Holst,_Drejens","Ole Holst, Drejens",Radikale Venstre,1
+Kolding,14,Vamdrup/Hjarup/Ødis,"B_Jens_Sørensen,_Kolding","Jens Sørensen, Kolding",Radikale Venstre,1
+Kolding,14,Vamdrup/Hjarup/Ødis,"B_Erik_Krab_Koed,_Almind-Viuf","Erik Krab Koed, Almind-Viuf",Radikale Venstre,1
+Kolding,14,Vamdrup/Hjarup/Ødis,"B_Lars_Keller,_Sdr._Bjert","Lars Keller, Sdr. Bjert",Radikale Venstre,0
+Kolding,14,Vamdrup/Hjarup/Ødis,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,63
+Kolding,14,Vamdrup/Hjarup/Ødis,C_Knud_Erik_Langhoff,Knud Erik Langhoff,Det Konservative Folkeparti,48
+Kolding,14,Vamdrup/Hjarup/Ødis,C_Gitte_Grønbæk,Gitte Grønbæk,Det Konservative Folkeparti,14
+Kolding,14,Vamdrup/Hjarup/Ødis,C_Freddy_Christensen,Freddy Christensen,Det Konservative Folkeparti,292
+Kolding,14,Vamdrup/Hjarup/Ødis,C_Jacob_Silberling_Knudsen,Jacob Silberling Knudsen,Det Konservative Folkeparti,3
+Kolding,14,Vamdrup/Hjarup/Ødis,C_Casper_N._Maglekær,Casper N. Maglekær,Det Konservative Folkeparti,50
+Kolding,14,Vamdrup/Hjarup/Ødis,C_Mirela_Tanovic,Mirela Tanovic,Det Konservative Folkeparti,3
+Kolding,14,Vamdrup/Hjarup/Ødis,C_Jørgen_Bøytler,Jørgen Bøytler,Det Konservative Folkeparti,3
+Kolding,14,Vamdrup/Hjarup/Ødis,C_Dan_Foss_Kragh,Dan Foss Kragh,Det Konservative Folkeparti,1
+Kolding,14,Vamdrup/Hjarup/Ødis,C_Daniel_Klestrup_Bjærge,Daniel Klestrup Bjærge,Det Konservative Folkeparti,27
+Kolding,14,Vamdrup/Hjarup/Ødis,C_Betina_Wettengel,Betina Wettengel,Det Konservative Folkeparti,1
+Kolding,14,Vamdrup/Hjarup/Ødis,C_René_Nikolaj_Andersen,René Nikolaj Andersen,Det Konservative Folkeparti,1
+Kolding,14,Vamdrup/Hjarup/Ødis,C_Christian_Saxov,Christian Saxov,Det Konservative Folkeparti,7
+Kolding,14,Vamdrup/Hjarup/Ødis,C_Mette_Borchert_Vahlun,Mette Borchert Vahlun,Det Konservative Folkeparti,15
+Kolding,14,Vamdrup/Hjarup/Ødis,C_Signe_Bøje_Sahner,Signe Bøje Sahner,Det Konservative Folkeparti,0
+Kolding,14,Vamdrup/Hjarup/Ødis,C_Jesper_Termansen,Jesper Termansen,Det Konservative Folkeparti,25
+Kolding,14,Vamdrup/Hjarup/Ødis,D_Listestemmer,Listestemmer,Nye Borgerlige,63
+Kolding,14,Vamdrup/Hjarup/Ødis,D_Mikael_Fiurendal,Mikael Fiurendal,Nye Borgerlige,24
+Kolding,14,Vamdrup/Hjarup/Ødis,D_Jan_Tambo,Jan Tambo,Nye Borgerlige,17
+Kolding,14,Vamdrup/Hjarup/Ødis,D_Allan_Søllingvraa_Rasmussen,Allan Søllingvraa Rasmussen,Nye Borgerlige,7
+Kolding,14,Vamdrup/Hjarup/Ødis,D_Christina_Britten,Christina Britten,Nye Borgerlige,16
+Kolding,14,Vamdrup/Hjarup/Ødis,D_Dorte_Noer,Dorte Noer,Nye Borgerlige,13
+Kolding,14,Vamdrup/Hjarup/Ødis,D_Peter_Krogsten,Peter Krogsten,Nye Borgerlige,3
+Kolding,14,Vamdrup/Hjarup/Ødis,D_Anders_Thygesen,Anders Thygesen,Nye Borgerlige,1
+Kolding,14,Vamdrup/Hjarup/Ødis,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,34
+Kolding,14,Vamdrup/Hjarup/Ødis,"F_Villy_Søvndal,_Sdr._Bjert","Villy Søvndal, Sdr. Bjert",SF - Socialistisk Folkeparti,273
+Kolding,14,Vamdrup/Hjarup/Ødis,"F_Hans_Holmer,_Kolding","Hans Holmer, Kolding",SF - Socialistisk Folkeparti,3
+Kolding,14,Vamdrup/Hjarup/Ødis,"F_Susanne_Stenstrop_Thorsen,_Kolding","Susanne Stenstrop Thorsen, Kolding",SF - Socialistisk Folkeparti,7
+Kolding,14,Vamdrup/Hjarup/Ødis,"F_Marianne_Jespersen,_Kolding","Marianne Jespersen, Kolding",SF - Socialistisk Folkeparti,3
+Kolding,14,Vamdrup/Hjarup/Ødis,"F_Iben_Lehmann_Rasmussen,_Bramdrupd.","Iben Lehmann Rasmussen, Bramdrupd.",SF - Socialistisk Folkeparti,10
+Kolding,14,Vamdrup/Hjarup/Ødis,"F_Jørn_Chemnitz,_Kolding","Jørn Chemnitz, Kolding",SF - Socialistisk Folkeparti,18
+Kolding,14,Vamdrup/Hjarup/Ødis,"F_Abdullah_Ismail,_Brændkjær","Abdullah Ismail, Brændkjær",SF - Socialistisk Folkeparti,1
+Kolding,14,Vamdrup/Hjarup/Ødis,"F_Ole_Damborg,_Bramdrupdam","Ole Damborg, Bramdrupdam",SF - Socialistisk Folkeparti,1
+Kolding,14,Vamdrup/Hjarup/Ødis,"F_Mette_T._R._Andersen,_Kolding","Mette T. R. Andersen, Kolding",SF - Socialistisk Folkeparti,0
+Kolding,14,Vamdrup/Hjarup/Ødis,"F_Nanett_Jensen,_Vamdrup","Nanett Jensen, Vamdrup",SF - Socialistisk Folkeparti,50
+Kolding,14,Vamdrup/Hjarup/Ødis,"F_Erik_Dyg_Sørensen,_Kolding","Erik Dyg Sørensen, Kolding",SF - Socialistisk Folkeparti,10
+Kolding,14,Vamdrup/Hjarup/Ødis,"F_Poul_Erik_Nørregaard,_Kolding","Poul Erik Nørregaard, Kolding",SF - Socialistisk Folkeparti,0
+Kolding,14,Vamdrup/Hjarup/Ødis,"F_Gitte_Høien_Johnsen,_Chr.feld","Gitte Høien Johnsen, Chr.feld",SF - Socialistisk Folkeparti,2
+Kolding,14,Vamdrup/Hjarup/Ødis,"F_Jesper_Elkjær,_Kolding","Jesper Elkjær, Kolding",SF - Socialistisk Folkeparti,6
+Kolding,14,Vamdrup/Hjarup/Ødis,I_Listestemmer,Listestemmer,Liberal Alliance,14
+Kolding,14,Vamdrup/Hjarup/Ødis,I_Helena_Artmann_Andresen,Helena Artmann Andresen,Liberal Alliance,25
+Kolding,14,Vamdrup/Hjarup/Ødis,I_Mikkel_Pedersen,Mikkel Pedersen,Liberal Alliance,2
+Kolding,14,Vamdrup/Hjarup/Ødis,I_Carsten_Andersen,Carsten Andersen,Liberal Alliance,2
+Kolding,14,Vamdrup/Hjarup/Ødis,I_Martin_Kodahl,Martin Kodahl,Liberal Alliance,2
+Kolding,14,Vamdrup/Hjarup/Ødis,I_Dennis_Paaske,Dennis Paaske,Liberal Alliance,2
+Kolding,14,Vamdrup/Hjarup/Ødis,K_Listestemmer,Listestemmer,Kristendemokraterne,6
+Kolding,14,Vamdrup/Hjarup/Ødis,"K_Jens_Chr._Olesen,_Christiansfeld","Jens Chr. Olesen, Christiansfeld",Kristendemokraterne,16
+Kolding,14,Vamdrup/Hjarup/Ødis,"K_Jørgen_Høier,_Seest","Jørgen Høier, Seest",Kristendemokraterne,2
+Kolding,14,Vamdrup/Hjarup/Ødis,"K_Simon_Marker_Pedersen,_Kolding","Simon Marker Pedersen, Kolding",Kristendemokraterne,1
+Kolding,14,Vamdrup/Hjarup/Ødis,O_Listestemmer,Listestemmer,Dansk Folkeparti,54
+Kolding,14,Vamdrup/Hjarup/Ødis,O_Søren_Rasmussen,Søren Rasmussen,Dansk Folkeparti,129
+Kolding,14,Vamdrup/Hjarup/Ødis,O_Laura_Guldager,Laura Guldager,Dansk Folkeparti,29
+Kolding,14,Vamdrup/Hjarup/Ødis,O_Molle_Lykke_Nielsen,Molle Lykke Nielsen,Dansk Folkeparti,19
+Kolding,14,Vamdrup/Hjarup/Ødis,O_Kristian_Kruse,Kristian Kruse,Dansk Folkeparti,0
+Kolding,14,Vamdrup/Hjarup/Ødis,O_Jackie_Damkjær_Hansen,Jackie Damkjær Hansen,Dansk Folkeparti,5
+Kolding,14,Vamdrup/Hjarup/Ødis,O_Mariane_Hansen,Mariane Hansen,Dansk Folkeparti,5
+Kolding,14,Vamdrup/Hjarup/Ødis,O_René_Arndt,René Arndt,Dansk Folkeparti,3
+Kolding,14,Vamdrup/Hjarup/Ødis,O_Mikael_Krogh,Mikael Krogh,Dansk Folkeparti,0
+Kolding,14,Vamdrup/Hjarup/Ødis,O_Tenna_Lindgaard,Tenna Lindgaard,Dansk Folkeparti,0
+Kolding,14,Vamdrup/Hjarup/Ødis,O_Nancy_Lystlund,Nancy Lystlund,Dansk Folkeparti,2
+Kolding,14,Vamdrup/Hjarup/Ødis,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",103
+Kolding,14,Vamdrup/Hjarup/Ødis,"V_Eva_Kjer_Hansen,_Kolding","Eva Kjer Hansen, Kolding","Venstre, Danmarks Liberale Parti",337
+Kolding,14,Vamdrup/Hjarup/Ødis,"V_Jakob_Ville,_Seest","Jakob Ville, Seest","Venstre, Danmarks Liberale Parti",57
+Kolding,14,Vamdrup/Hjarup/Ødis,"V_Ole_Martensen,_Kolding","Ole Martensen, Kolding","Venstre, Danmarks Liberale Parti",10
+Kolding,14,Vamdrup/Hjarup/Ødis,"V_Birgitte_Kragh,_Skanderup","Birgitte Kragh, Skanderup","Venstre, Danmarks Liberale Parti",102
+Kolding,14,Vamdrup/Hjarup/Ødis,"V_Lene_Brandenborg,_Fynslund","Lene Brandenborg, Fynslund","Venstre, Danmarks Liberale Parti",2
+Kolding,14,Vamdrup/Hjarup/Ødis,"V_Ole_Alsted,_Almind-Viuf","Ole Alsted, Almind-Viuf","Venstre, Danmarks Liberale Parti",8
+Kolding,14,Vamdrup/Hjarup/Ødis,"V_Tobias_Jørgensen,_Hoppeshuse","Tobias Jørgensen, Hoppeshuse","Venstre, Danmarks Liberale Parti",195
+Kolding,14,Vamdrup/Hjarup/Ødis,"V_Trille_Nikolajsen,_Vester_Nebel","Trille Nikolajsen, Vester Nebel","Venstre, Danmarks Liberale Parti",6
+Kolding,14,Vamdrup/Hjarup/Ødis,"V_Mads_Kloppenborg-Skrumsager,_Chr.f","Mads Kloppenborg-Skrumsager, Chr.f","Venstre, Danmarks Liberale Parti",7
+Kolding,14,Vamdrup/Hjarup/Ødis,"V_Jørgen_Meyer,_Kolding_Nord","Jørgen Meyer, Kolding Nord","Venstre, Danmarks Liberale Parti",3
+Kolding,14,Vamdrup/Hjarup/Ødis,"V_Yrsa_Mastrup,_Vamdrup","Yrsa Mastrup, Vamdrup","Venstre, Danmarks Liberale Parti",290
+Kolding,14,Vamdrup/Hjarup/Ødis,"V_Mette_Balsby,_Kolding","Mette Balsby, Kolding","Venstre, Danmarks Liberale Parti",0
+Kolding,14,Vamdrup/Hjarup/Ødis,"V_Ahmad_Mohammadi,_Kolding","Ahmad Mohammadi, Kolding","Venstre, Danmarks Liberale Parti",6
+Kolding,14,Vamdrup/Hjarup/Ødis,"V_Lennarth_Hansen,_Harte","Lennarth Hansen, Harte","Venstre, Danmarks Liberale Parti",4
+Kolding,14,Vamdrup/Hjarup/Ødis,"V_Glenn_Lundt,_Vamdrup","Glenn Lundt, Vamdrup","Venstre, Danmarks Liberale Parti",128
+Kolding,14,Vamdrup/Hjarup/Ødis,"V_Morten_Hansen,_Agtrup","Morten Hansen, Agtrup","Venstre, Danmarks Liberale Parti",3
+Kolding,14,Vamdrup/Hjarup/Ødis,"V_Niels_Henning_Bladt,_Brændkjær","Niels Henning Bladt, Brændkjær","Venstre, Danmarks Liberale Parti",2
+Kolding,14,Vamdrup/Hjarup/Ødis,"V_Jan_Schjerning,_Lunderskov","Jan Schjerning, Lunderskov","Venstre, Danmarks Liberale Parti",8
+Kolding,14,Vamdrup/Hjarup/Ødis,"V_Anette_Juhl,_Sdr._Stenderup","Anette Juhl, Sdr. Stenderup","Venstre, Danmarks Liberale Parti",4
+Kolding,14,Vamdrup/Hjarup/Ødis,Y_Listestemmer,Listestemmer,Kryds for Kolding,2
+Kolding,14,Vamdrup/Hjarup/Ødis,"Y_Simon_Maegaard,_Kolding","Simon Maegaard, Kolding",Kryds for Kolding,2
+Kolding,14,Vamdrup/Hjarup/Ødis,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,20
+Kolding,14,Vamdrup/Hjarup/Ødis,"Ø_Benny_Dall,_Vonsild","Benny Dall, Vonsild",Enhedslisten - De Rød-Grønne,12
+Kolding,14,Vamdrup/Hjarup/Ødis,"Ø_Hanne_Dam,_Kolding","Hanne Dam, Kolding",Enhedslisten - De Rød-Grønne,6
+Kolding,14,Vamdrup/Hjarup/Ødis,"Ø_Jannie_Winberg,_Dalby","Jannie Winberg, Dalby",Enhedslisten - De Rød-Grønne,1
+Kolding,14,Vamdrup/Hjarup/Ødis,"Ø_Ivan_Balleby,_Kolding","Ivan Balleby, Kolding",Enhedslisten - De Rød-Grønne,0
+Kolding,14,Vamdrup/Hjarup/Ødis,"Ø_Margot_Pedersen,_Harte","Margot Pedersen, Harte",Enhedslisten - De Rød-Grønne,0
+Kolding,14,Vamdrup/Hjarup/Ødis,"Ø_Brian_Simonsen,_Vamdrup_Ødis-Br.","Brian Simonsen, Vamdrup Ødis-Br.",Enhedslisten - De Rød-Grønne,7
+Kolding,14,Vamdrup/Hjarup/Ødis,"Ø_Alice_Munkholm_Dall,_Kolding","Alice Munkholm Dall, Kolding",Enhedslisten - De Rød-Grønne,0
+Kolding,14,Vamdrup/Hjarup/Ødis,"Ø_Erik_Voss,_Kolding","Erik Voss, Kolding",Enhedslisten - De Rød-Grønne,0
+Kolding,14,Vamdrup/Hjarup/Ødis,"Ø_Daniela_Skov,_Kolding","Daniela Skov, Kolding",Enhedslisten - De Rød-Grønne,0
+Kolding,14,Vamdrup/Hjarup/Ødis,"Ø_Ole_Maass,_Kolding","Ole Maass, Kolding",Enhedslisten - De Rød-Grønne,0
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,A_Listestemmer,Listestemmer,Socialdemokratiet,178
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,A_Birgitte_Munk_Grunnet,Birgitte Munk Grunnet,Socialdemokratiet,245
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,A_Filip_Bekic_Bladt,Filip Bekic Bladt,Socialdemokratiet,12
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,A_Poul_Fremmelev,Poul Fremmelev,Socialdemokratiet,37
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,A_Vibeke_Boisen_Brandhof,Vibeke Boisen Brandhof,Socialdemokratiet,7
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,A_Per_Bødker_Andersen,Per Bødker Andersen,Socialdemokratiet,11
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,A_Folmer_Krogh,Folmer Krogh,Socialdemokratiet,10
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,A_Elvis_Comic,Elvis Comic,Socialdemokratiet,11
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,A_Jane_Bødskov_Petersen,Jane Bødskov Petersen,Socialdemokratiet,8
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,A_Gerrit_Toet,Gerrit Toet,Socialdemokratiet,1
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,A_Gitte_Guldberg_Spanier,Gitte Guldberg Spanier,Socialdemokratiet,1
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,A_Michael_Jørgensen,Michael Jørgensen,Socialdemokratiet,4
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,A_Bjarne_Stolten_Thomsen,Bjarne Stolten Thomsen,Socialdemokratiet,0
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,A_Hamlaoui_Bahloul,Hamlaoui Bahloul,Socialdemokratiet,3
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,A_Jacob_Bøegh,Jacob Bøegh,Socialdemokratiet,4
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,B_Listestemmer,Listestemmer,Radikale Venstre,54
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"B_Merete_Due_Paarup,_Jordrup","Merete Due Paarup, Jordrup",Radikale Venstre,36
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"B_Margreet_Smit,_Sdr._Stenderup","Margreet Smit, Sdr. Stenderup",Radikale Venstre,5
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"B_Jonathan_Dyring_Løvbom,_Hjarup","Jonathan Dyring Løvbom, Hjarup",Radikale Venstre,20
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"B_Vahida_Hadzija,_Kolding","Vahida Hadzija, Kolding",Radikale Venstre,3
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"B_Charlotte_Enevoldsen,_Kolding","Charlotte Enevoldsen, Kolding",Radikale Venstre,2
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"B_Bjørn_Olsen,_Seest","Bjørn Olsen, Seest",Radikale Venstre,5
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"B_Kenny_C._Holm,_Sjølund","Kenny C. Holm, Sjølund",Radikale Venstre,14
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"B_Bo_Skibelund,_Almind","Bo Skibelund, Almind",Radikale Venstre,0
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"B_Knud_Nørregaard,_Bramdrupdam","Knud Nørregaard, Bramdrupdam",Radikale Venstre,6
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"B_Preben_Tamborg_Pedersen,_Kolding_S","Preben Tamborg Pedersen, Kolding S",Radikale Venstre,1
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"B_Hans_Krab_Koed,_Fovslet","Hans Krab Koed, Fovslet",Radikale Venstre,2
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"B_Ole_Holst,_Drejens","Ole Holst, Drejens",Radikale Venstre,0
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"B_Jens_Sørensen,_Kolding","Jens Sørensen, Kolding",Radikale Venstre,1
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"B_Erik_Krab_Koed,_Almind-Viuf","Erik Krab Koed, Almind-Viuf",Radikale Venstre,0
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"B_Lars_Keller,_Sdr._Bjert","Lars Keller, Sdr. Bjert",Radikale Venstre,0
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,C_Listestemmer,Listestemmer,Det Konservative Folkeparti,55
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,C_Knud_Erik_Langhoff,Knud Erik Langhoff,Det Konservative Folkeparti,77
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,C_Gitte_Grønbæk,Gitte Grønbæk,Det Konservative Folkeparti,19
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,C_Freddy_Christensen,Freddy Christensen,Det Konservative Folkeparti,3
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,C_Jacob_Silberling_Knudsen,Jacob Silberling Knudsen,Det Konservative Folkeparti,3
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,C_Casper_N._Maglekær,Casper N. Maglekær,Det Konservative Folkeparti,4
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,C_Mirela_Tanovic,Mirela Tanovic,Det Konservative Folkeparti,4
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,C_Jørgen_Bøytler,Jørgen Bøytler,Det Konservative Folkeparti,88
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,C_Dan_Foss_Kragh,Dan Foss Kragh,Det Konservative Folkeparti,4
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,C_Daniel_Klestrup_Bjærge,Daniel Klestrup Bjærge,Det Konservative Folkeparti,50
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,C_Betina_Wettengel,Betina Wettengel,Det Konservative Folkeparti,4
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,C_René_Nikolaj_Andersen,René Nikolaj Andersen,Det Konservative Folkeparti,1
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,C_Christian_Saxov,Christian Saxov,Det Konservative Folkeparti,4
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,C_Mette_Borchert_Vahlun,Mette Borchert Vahlun,Det Konservative Folkeparti,6
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,C_Signe_Bøje_Sahner,Signe Bøje Sahner,Det Konservative Folkeparti,3
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,C_Jesper_Termansen,Jesper Termansen,Det Konservative Folkeparti,2
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,D_Listestemmer,Listestemmer,Nye Borgerlige,87
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,D_Mikael_Fiurendal,Mikael Fiurendal,Nye Borgerlige,26
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,D_Jan_Tambo,Jan Tambo,Nye Borgerlige,23
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,D_Allan_Søllingvraa_Rasmussen,Allan Søllingvraa Rasmussen,Nye Borgerlige,18
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,D_Christina_Britten,Christina Britten,Nye Borgerlige,7
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,D_Dorte_Noer,Dorte Noer,Nye Borgerlige,7
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,D_Peter_Krogsten,Peter Krogsten,Nye Borgerlige,0
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,D_Anders_Thygesen,Anders Thygesen,Nye Borgerlige,7
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,F_Listestemmer,Listestemmer,SF - Socialistisk Folkeparti,39
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"F_Villy_Søvndal,_Sdr._Bjert","Villy Søvndal, Sdr. Bjert",SF - Socialistisk Folkeparti,297
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"F_Hans_Holmer,_Kolding","Hans Holmer, Kolding",SF - Socialistisk Folkeparti,13
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"F_Susanne_Stenstrop_Thorsen,_Kolding","Susanne Stenstrop Thorsen, Kolding",SF - Socialistisk Folkeparti,11
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"F_Marianne_Jespersen,_Kolding","Marianne Jespersen, Kolding",SF - Socialistisk Folkeparti,3
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"F_Iben_Lehmann_Rasmussen,_Bramdrupd.","Iben Lehmann Rasmussen, Bramdrupd.",SF - Socialistisk Folkeparti,7
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"F_Jørn_Chemnitz,_Kolding","Jørn Chemnitz, Kolding",SF - Socialistisk Folkeparti,29
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"F_Abdullah_Ismail,_Brændkjær","Abdullah Ismail, Brændkjær",SF - Socialistisk Folkeparti,0
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"F_Ole_Damborg,_Bramdrupdam","Ole Damborg, Bramdrupdam",SF - Socialistisk Folkeparti,11
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"F_Mette_T._R._Andersen,_Kolding","Mette T. R. Andersen, Kolding",SF - Socialistisk Folkeparti,3
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"F_Nanett_Jensen,_Vamdrup","Nanett Jensen, Vamdrup",SF - Socialistisk Folkeparti,3
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"F_Erik_Dyg_Sørensen,_Kolding","Erik Dyg Sørensen, Kolding",SF - Socialistisk Folkeparti,0
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"F_Poul_Erik_Nørregaard,_Kolding","Poul Erik Nørregaard, Kolding",SF - Socialistisk Folkeparti,0
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"F_Gitte_Høien_Johnsen,_Chr.feld","Gitte Høien Johnsen, Chr.feld",SF - Socialistisk Folkeparti,36
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"F_Jesper_Elkjær,_Kolding","Jesper Elkjær, Kolding",SF - Socialistisk Folkeparti,16
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,I_Listestemmer,Listestemmer,Liberal Alliance,15
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,I_Helena_Artmann_Andresen,Helena Artmann Andresen,Liberal Alliance,24
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,I_Mikkel_Pedersen,Mikkel Pedersen,Liberal Alliance,3
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,I_Carsten_Andersen,Carsten Andersen,Liberal Alliance,3
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,I_Martin_Kodahl,Martin Kodahl,Liberal Alliance,1
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,I_Dennis_Paaske,Dennis Paaske,Liberal Alliance,6
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,K_Listestemmer,Listestemmer,Kristendemokraterne,9
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"K_Jens_Chr._Olesen,_Christiansfeld","Jens Chr. Olesen, Christiansfeld",Kristendemokraterne,30
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"K_Jørgen_Høier,_Seest","Jørgen Høier, Seest",Kristendemokraterne,2
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"K_Simon_Marker_Pedersen,_Kolding","Simon Marker Pedersen, Kolding",Kristendemokraterne,3
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,O_Listestemmer,Listestemmer,Dansk Folkeparti,38
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,O_Søren_Rasmussen,Søren Rasmussen,Dansk Folkeparti,131
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,O_Laura_Guldager,Laura Guldager,Dansk Folkeparti,14
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,O_Molle_Lykke_Nielsen,Molle Lykke Nielsen,Dansk Folkeparti,535
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,O_Kristian_Kruse,Kristian Kruse,Dansk Folkeparti,5
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,O_Jackie_Damkjær_Hansen,Jackie Damkjær Hansen,Dansk Folkeparti,14
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,O_Mariane_Hansen,Mariane Hansen,Dansk Folkeparti,1
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,O_René_Arndt,René Arndt,Dansk Folkeparti,4
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,O_Mikael_Krogh,Mikael Krogh,Dansk Folkeparti,0
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,O_Tenna_Lindgaard,Tenna Lindgaard,Dansk Folkeparti,2
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,O_Nancy_Lystlund,Nancy Lystlund,Dansk Folkeparti,1
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,V_Listestemmer,Listestemmer,"Venstre, Danmarks Liberale Parti",133
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"V_Eva_Kjer_Hansen,_Kolding","Eva Kjer Hansen, Kolding","Venstre, Danmarks Liberale Parti",405
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"V_Jakob_Ville,_Seest","Jakob Ville, Seest","Venstre, Danmarks Liberale Parti",162
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"V_Ole_Martensen,_Kolding","Ole Martensen, Kolding","Venstre, Danmarks Liberale Parti",11
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"V_Birgitte_Kragh,_Skanderup","Birgitte Kragh, Skanderup","Venstre, Danmarks Liberale Parti",22
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"V_Lene_Brandenborg,_Fynslund","Lene Brandenborg, Fynslund","Venstre, Danmarks Liberale Parti",8
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"V_Ole_Alsted,_Almind-Viuf","Ole Alsted, Almind-Viuf","Venstre, Danmarks Liberale Parti",12
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"V_Tobias_Jørgensen,_Hoppeshuse","Tobias Jørgensen, Hoppeshuse","Venstre, Danmarks Liberale Parti",148
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"V_Trille_Nikolajsen,_Vester_Nebel","Trille Nikolajsen, Vester Nebel","Venstre, Danmarks Liberale Parti",8
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"V_Mads_Kloppenborg-Skrumsager,_Chr.f","Mads Kloppenborg-Skrumsager, Chr.f","Venstre, Danmarks Liberale Parti",224
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"V_Jørgen_Meyer,_Kolding_Nord","Jørgen Meyer, Kolding Nord","Venstre, Danmarks Liberale Parti",3
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"V_Yrsa_Mastrup,_Vamdrup","Yrsa Mastrup, Vamdrup","Venstre, Danmarks Liberale Parti",5
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"V_Mette_Balsby,_Kolding","Mette Balsby, Kolding","Venstre, Danmarks Liberale Parti",0
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"V_Ahmad_Mohammadi,_Kolding","Ahmad Mohammadi, Kolding","Venstre, Danmarks Liberale Parti",3
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"V_Lennarth_Hansen,_Harte","Lennarth Hansen, Harte","Venstre, Danmarks Liberale Parti",3
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"V_Glenn_Lundt,_Vamdrup","Glenn Lundt, Vamdrup","Venstre, Danmarks Liberale Parti",1
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"V_Morten_Hansen,_Agtrup","Morten Hansen, Agtrup","Venstre, Danmarks Liberale Parti",3
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"V_Niels_Henning_Bladt,_Brændkjær","Niels Henning Bladt, Brændkjær","Venstre, Danmarks Liberale Parti",6
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"V_Jan_Schjerning,_Lunderskov","Jan Schjerning, Lunderskov","Venstre, Danmarks Liberale Parti",4
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"V_Anette_Juhl,_Sdr._Stenderup","Anette Juhl, Sdr. Stenderup","Venstre, Danmarks Liberale Parti",9
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,Y_Listestemmer,Listestemmer,Kryds for Kolding,0
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"Y_Simon_Maegaard,_Kolding","Simon Maegaard, Kolding",Kryds for Kolding,2
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,Ø_Listestemmer,Listestemmer,Enhedslisten - De Rød-Grønne,22
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"Ø_Benny_Dall,_Vonsild","Benny Dall, Vonsild",Enhedslisten - De Rød-Grønne,16
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"Ø_Hanne_Dam,_Kolding","Hanne Dam, Kolding",Enhedslisten - De Rød-Grønne,6
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"Ø_Jannie_Winberg,_Dalby","Jannie Winberg, Dalby",Enhedslisten - De Rød-Grønne,1
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"Ø_Ivan_Balleby,_Kolding","Ivan Balleby, Kolding",Enhedslisten - De Rød-Grønne,5
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"Ø_Margot_Pedersen,_Harte","Margot Pedersen, Harte",Enhedslisten - De Rød-Grønne,2
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"Ø_Brian_Simonsen,_Vamdrup_Ødis-Br.","Brian Simonsen, Vamdrup Ødis-Br.",Enhedslisten - De Rød-Grønne,3
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"Ø_Alice_Munkholm_Dall,_Kolding","Alice Munkholm Dall, Kolding",Enhedslisten - De Rød-Grønne,1
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"Ø_Erik_Voss,_Kolding","Erik Voss, Kolding",Enhedslisten - De Rød-Grønne,4
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"Ø_Daniela_Skov,_Kolding","Daniela Skov, Kolding",Enhedslisten - De Rød-Grønne,2
+Kolding,15,Chr.Feld/Stepping/Taps/Hejls,"Ø_Ole_Maass,_Kolding","Ole Maass, Kolding",Enhedslisten - De Rød-Grønne,1
