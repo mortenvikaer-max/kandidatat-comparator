@@ -66,7 +66,7 @@
       </div>
     </section>
 
-    <!-- SAMMENLIGNING (nu med total pr. kandidat) -->
+    <!-- SAMMENLIGNING -->
     <section id="compareSection" class="card p-4 space-y-3 hidden">
       <div class="flex items-center justify-between">
         <h2 class="font-medium">Sammenligning af kandidater</h2>
@@ -75,7 +75,7 @@
       <div id="selectedList" class="space-y-2"></div>
     </section>
 
-    <!-- TABEL/DIAGRAM — med tydelig boks omkring tabs -->
+    <!-- TABEL/DIAGRAM -->
     <section id="tabsCard" class="card p-4 space-y-4 hidden">
       <div class="rounded-2xl border bg-white p-2 shadow-sm flex gap-2">
         <button class="tabbox active" data-tab="valgsted-tabel">Tabel pr. valgsted</button>
@@ -99,12 +99,6 @@
   </main>
 
   <script>
-    // ——— Fejlvisning ———
-    window.addEventListener('error', (e) => {
-      const box = document.getElementById('error');
-      if (box) box.textContent = 'Fejl i JavaScript: ' + e.message;
-    });
-
     // ——— Regioner & kommuner ———
     const REGIONS = {
       "Region Hovedstaden": ["Albertslund","Allerød","Ballerup","Bornholm","Brøndby","Dragør","Egedal","Fredensborg","Frederiksberg","Frederikssund","Furesø","Gentofte","Gladsaxe","Glostrup","Gribskov","Halsnæs","Herlev","Hillerød","Hvidovre","Høje-Taastrup","Hørsholm","Ishøj","København","Lyngby-Taarbæk","Rudersdal","Rødovre","Tårnby","Vallensbæk"],
@@ -114,7 +108,7 @@
       "Region Nordjylland": ["Brønderslev","Frederikshavn","Hjørring","Jammerbugt","Læsø","Mariagerfjord","Morsø","Rebild","Thisted","Vesthimmerlands","Aalborg"]
     };
 
-    // ——— PARTIFARVER (efter bogstav) ———
+    // ——— PARTIFARVER ———
     const PARTY_COLORS = {
       "A": "#e03a3e","B": "#712082","C": "#2e7d32","D": "#0f766e","F": "#e5003d",
       "I": "#00a0e3","O": "#0044aa","V": "#1b5eaa","Ø": "#c8102e","Å": "#3aaa35",
@@ -173,7 +167,7 @@
       el("btnClearAll").onclick = () => { state.selected.clear(); renderAll(); };
     });
 
-    // ——— Dropdowns ———
+    // ——— DROPDOWNS ———
     function initRegionDropdown(){
       const rsel = el("regionSelect");
       rsel.innerHTML = `<option value="">Vælg region…</option>` +
@@ -214,7 +208,7 @@
       renderAll();
     }
 
-    // ——— Data ———
+    // ——— DATA ———
     async function loadKommuneData(k){
       el("error").textContent = "";
       el("kommunetitel").textContent = k ? `(${k})` : "";
@@ -249,7 +243,7 @@
       renderAll();
     }
 
-    // ——— Parti-oversigt ———
+    // ——— PARTIER ———
     function getPartyStats(){
       const byParti = new Map();
       for (const r of state.rows){
@@ -315,7 +309,7 @@
       }
     }
 
-    // ——— Højre panel: kandidater ———
+    // ——— KANDIDATER (højre panel) ———
     function renderPartyDetail(parti){
       const header = el("partyDetailHeader");
       const list = el("candidateList");
@@ -347,7 +341,7 @@
       }
     }
 
-    // ——— Synlighed + samlet render ———
+    // ——— RENDER ALT ———
     function renderAll(){
       renderSelected();
       renderPsTable(getPollingStations(), getSelectedOrdered());
@@ -357,7 +351,10 @@
       el("tabsCard").classList.toggle("hidden", !hasSel);
     }
 
-    // ——— Valgte kandidater (med badge + total) ———
+    // ——— Hjælp: pluralisering ———
+    function stemmerLabel(n){ return n === 1 ? "stemme" : "stemmer"; }
+
+    // ——— VALGTE KANDIDATER (med badge + “X personlige stemmer i alt”) ———
     function computeTotalsByCandidate(){
       const totals = new Map();
       for (const r of state.rows) totals.set(r.kandidat_id, (totals.get(r.kandidat_id)||0) + r.stemmer);
@@ -381,7 +378,7 @@
               <div class="font-medium">${escapeHtml(k.kandidat_navn)} <span class="text-gray-500">(${escapeHtml(k.parti)})</span></div>
             </div>
             <div class="flex items-center gap-3">
-              <div class="tabular-nums font-medium">${fmt(total)}</div>
+              <div class="tabular-nums font-medium">${fmt(total)} personlige ${stemmerLabel(total)} i alt</div>
               <button class="btn" onclick="removeCandidate('${k.kandidat_id}')">Fjern</button>
             </div>
           </div>
@@ -394,7 +391,7 @@
     function getSelected(){ return Array.from(state.selected.values()); }
     function getSelectedOrdered(){ const s = getSelected().slice(); s.sort(sortKandidaterAlpha); return s; }
 
-    // ——— Valgstedstabel & diagram ———
+    // ——— VALGSTED-TABEL & DIAGRAM ———
     function getPollingStations(){
       const m = new Map();
       for (const r of state.rows){
@@ -411,7 +408,6 @@
         thead.innerHTML = `<tr><th class="text-left py-2 pr-3">Valgsted</th></tr>`;
         tbody.innerHTML = ``; tfoot.innerHTML = ``; return;
       }
-      // header med badges
       const headerCols = sel.map(s=>{
         const letter = partiLetter(s.kandidat_id);
         const { style } = badge(letter);
@@ -440,7 +436,6 @@
         </tr>`;
       }).join("");
 
-      // kommunetotal i bund
       const totals = computeTotalsByCandidate();
       const foot = sel.map(s=> `<td class="py-2 pr-3 tabular-nums font-medium">${fmt(totals.get(s.kandidat_id)||0)}</td>`).join("");
       tfoot.innerHTML = `<tr class="border-t"><th class="py-2 pr-3 text-left bg-white">Kommunetotal</th>${foot}</tr>`;
@@ -462,7 +457,7 @@
     }
     function resetChart(){ if (state.chart){ state.chart.destroy(); state.chart=null; } }
 
-    // ——— Tabs ———
+    // ——— TABS ———
     function initTabs(){
       for (const b of document.querySelectorAll("[data-tab]")){
         b.onclick = ()=>{
