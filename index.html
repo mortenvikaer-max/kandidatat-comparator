@@ -19,7 +19,7 @@
     .btn  { @apply inline-flex items-center gap-2 rounded-xl border px-3 py-2; }
     .btn:disabled { @apply opacity-50 cursor-not-allowed; }
     .table-sticky thead th:first-child, .table-sticky tbody td:first-child { position: sticky; left: 0; background: white; }
-    .tabbox { @apply flex-1 rounded-xl border bg-white px-4 py-3 text-center cursor-pointer select-none; }
+    .tabbox { @apply flex-1 rounded-xl border px-4 py-3 text-center cursor-pointer select-none; }
     .tabbox.active { @apply border-gray-900 bg-gray-900 text-white; }
   </style>
 </head>
@@ -66,7 +66,7 @@
       </div>
     </section>
 
-    <!-- VALGTE KANDIDATER -->
+    <!-- SAMMENLIGNING (nu med total pr. kandidat) -->
     <section id="compareSection" class="card p-4 space-y-3 hidden">
       <div class="flex items-center justify-between">
         <h2 class="font-medium">Sammenligning af kandidater</h2>
@@ -75,27 +75,9 @@
       <div id="selectedList" class="space-y-2"></div>
     </section>
 
-    <!-- OPSUMMERING -->
-    <section id="summarySection" class="card p-4 space-y-3 hidden">
-      <h2 class="font-medium">Opsummering (samlede stemmer)</h2>
-      <div class="overflow-auto">
-        <table class="w-full text-sm" id="summaryTable">
-          <thead>
-            <tr class="text-left border-b">
-              <th class="py-2 pr-2">Kandidat</th>
-              <th class="py-2 pr-2">Parti</th>
-              <th class="py-2 pr-2">Totale stemmer</th>
-              <th class="py-2 pr-2"></th>
-            </tr>
-          </thead>
-          <tbody></tbody>
-        </table>
-      </div>
-    </section>
-
-    <!-- TABEL/DIAGRAM -->
+    <!-- TABEL/DIAGRAM — med tydelig boks omkring tabs -->
     <section id="tabsCard" class="card p-4 space-y-4 hidden">
-      <div class="flex gap-3">
+      <div class="rounded-2xl border bg-white p-2 shadow-sm flex gap-2">
         <button class="tabbox active" data-tab="valgsted-tabel">Tabel pr. valgsted</button>
         <button class="tabbox" data-tab="valgsted-diagram">Diagram pr. valgsted</button>
       </div>
@@ -138,8 +120,8 @@
       "I": "#00a0e3","O": "#0044aa","V": "#1b5eaa","Ø": "#c8102e","Å": "#3aaa35",
       "Q": "#ff4fa3","K": "#ff9800","Æ": "#666666"
     };
-    const DEFAULT_BADGE_BG = "#e5e7eb"; // gray-200
-    const DEFAULT_BADGE_FG = "#111827"; // gray-900
+    const DEFAULT_BADGE_BG = "#e5e7eb";
+    const DEFAULT_BADGE_FG = "#111827";
 
     // ——— STATE ———
     const state = {
@@ -166,18 +148,17 @@
       const p = (kid||"").split("_")[0];
       return p ? p.toUpperCase() : "•";
     };
-    function badgeStyleForLetter(letter){
+    function badge(letter){
       const bg = PARTY_COLORS[letter] || DEFAULT_BADGE_BG;
       const isDefault = !(letter in PARTY_COLORS);
       const fg = isDefault ? DEFAULT_BADGE_FG : "#ffffff";
-      return { bg, fg, style: `background-color:${bg}; color:${fg}; border-color:${bg}` };
+      return {bg, fg, style:`background-color:${bg}; color:${fg}; border-color:${bg}`};
     }
 
     // ——— INIT ———
     window.addEventListener("DOMContentLoaded", () => {
       initRegionDropdown();
       initTabs();
-
       const p = new URLSearchParams(location.search);
       const r = p.get("region");
       const k = p.get("kommune");
@@ -189,8 +170,6 @@
           loadKommuneData(k);
         }
       }
-
-      // Nulstil alle
       el("btnClearAll").onclick = () => { state.selected.clear(); renderAll(); };
     });
 
@@ -270,7 +249,7 @@
       renderAll();
     }
 
-    // ——— Parti-oversigt (venstre panel) ———
+    // ——— Parti-oversigt ———
     function getPartyStats(){
       const byParti = new Map();
       for (const r of state.rows){
@@ -307,8 +286,8 @@
         return;
       }
       for (const p of stats){
+        const { style } = badge(p.letter);
         const div = document.createElement("div");
-        const { style } = badgeStyleForLetter(p.letter);
         div.className = `flex items-center justify-between rounded-xl border px-3 py-2 cursor-pointer hover:bg-gray-100 transition ${
           state.activeParty === p.parti ? "bg-gray-100 border-gray-400" : "border-gray-200"
         }`;
@@ -368,25 +347,31 @@
       }
     }
 
-    // ——— Synlighed + render samlet ———
+    // ——— Synlighed + samlet render ———
     function renderAll(){
       renderSelected();
-      renderSummary();
       renderPsTable(getPollingStations(), getSelectedOrdered());
       renderChart();
       const hasSel = getSelected().length > 0;
       el("compareSection").classList.toggle("hidden", !hasSel);
-      el("summarySection").classList.toggle("hidden", !hasSel);
       el("tabsCard").classList.toggle("hidden", !hasSel);
     }
 
-    // ——— Valgte kandidater (med partifarve-badge) ———
+    // ——— Valgte kandidater (med badge + total) ———
+    function computeTotalsByCandidate(){
+      const totals = new Map();
+      for (const r of state.rows) totals.set(r.kandidat_id, (totals.get(r.kandidat_id)||0) + r.stemmer);
+      return totals;
+    }
+
     function renderSelected(){
       const root = el("selectedList");
+      const totals = computeTotalsByCandidate();
       const sel = getSelectedOrdered();
       root.innerHTML = sel.map(k => {
         const letter = partiLetter(k.kandidat_id);
-        const { style } = badgeStyleForLetter(letter);
+        const { style } = badge(letter);
+        const total = totals.get(k.kandidat_id) || 0;
         return `
           <div class="rounded-xl border p-3 flex items-center justify-between">
             <div class="flex items-center gap-3">
@@ -395,40 +380,21 @@
               </div>
               <div class="font-medium">${escapeHtml(k.kandidat_navn)} <span class="text-gray-500">(${escapeHtml(k.parti)})</span></div>
             </div>
-            <button class="btn" onclick="removeCandidate('${k.kandidat_id}')">Fjern</button>
+            <div class="flex items-center gap-3">
+              <div class="tabular-nums font-medium">${fmt(total)}</div>
+              <button class="btn" onclick="removeCandidate('${k.kandidat_id}')">Fjern</button>
+            </div>
           </div>
         `;
       }).join("") || `<div class="text-sm text-gray-500">Ingen kandidater valgt endnu.</div>`;
-      // Disable "Nulstil alle" hvis tom
       el("btnClearAll").disabled = sel.length === 0;
     }
+
     window.removeCandidate = (kid)=>{ state.selected.delete(kid); renderAll(); };
     function getSelected(){ return Array.from(state.selected.values()); }
     function getSelectedOrdered(){ const s = getSelected().slice(); s.sort(sortKandidaterAlpha); return s; }
 
-    // ——— Opsummering ———
-    function computeTotalsByCandidate(){
-      const totals = new Map();
-      for (const r of state.rows) totals.set(r.kandidat_id, (totals.get(r.kandidat_id)||0) + r.stemmer);
-      return totals;
-    }
-    function renderSummary(){
-      const totals = computeTotalsByCandidate();
-      const tbody = document.querySelector("#summaryTable tbody");
-      const selected = getSelectedOrdered().map(k => ({...k, total: totals.get(k.kandidat_id)||0}));
-      tbody.innerHTML =
-        selected.map(s=>`
-          <tr class="border-b last:border-0">
-            <td class="py-2 pr-2">${escapeHtml(s.kandidat_navn)}</td>
-            <td class="py-2 pr-2">${escapeHtml(s.parti)}</td>
-            <td class="py-2 pr-2 tabular-nums">${fmt(s.total)}</td>
-            <td class="py-2 pr-2"><button class="btn" onclick="removeCandidate('${s.kandidat_id}')">Fjern</button></td>
-          </tr>
-        `).join("") ||
-        `<tr><td colspan="4" class="py-6 text-center text-gray-500">Vælg kandidater ovenfor.</td></tr>`;
-    }
-
-    // ——— Valgstedstabel og diagram ———
+    // ——— Valgstedstabel & diagram ———
     function getPollingStations(){
       const m = new Map();
       for (const r of state.rows){
@@ -438,17 +404,34 @@
       }
       return Array.from(m.values()).sort((a,b)=> a.navn.localeCompare(b.navn,"da"));
     }
+
     function renderPsTable(psList, sel){
       const thead = el("psThead"), tbody = el("psTbody"), tfoot = el("psTFoot");
       if (!sel.length){
         thead.innerHTML = `<tr><th class="text-left py-2 pr-3">Valgsted</th></tr>`;
         tbody.innerHTML = ``; tfoot.innerHTML = ``; return;
       }
+      // header med badges
+      const headerCols = sel.map(s=>{
+        const letter = partiLetter(s.kandidat_id);
+        const { style } = badge(letter);
+        return `
+          <th class="py-2 pr-3">
+            <div class="flex items-center gap-2">
+              <span class="h-6 w-6 rounded-full border inline-flex items-center justify-center text-xs font-semibold" style="${style}">
+                ${escapeHtml(letter)}
+              </span>
+              <span>${escapeHtml(s.kandidat_navn)} (${escapeHtml(s.parti)})</span>
+            </div>
+          </th>`;
+      }).join("");
+
       thead.innerHTML = `
         <tr class="text-left border-b">
           <th class="py-2 pr-3 bg-white">Valgsted</th>
-          ${sel.map(s=>`<th class="py-2 pr-3">${escapeHtml(s.kandidat_navn)} (${escapeHtml(s.parti)})</th>`).join("")}
+          ${headerCols}
         </tr>`;
+
       tbody.innerHTML = psList.map(ps=>{
         const cells = sel.map(s=> ps[s.kandidat_id]||0 );
         return `<tr class="border-b last:border-0">
@@ -456,6 +439,8 @@
           ${cells.map(v=>`<td class="py-2 pr-3 tabular-nums">${fmt(v)}</td>`).join("")}
         </tr>`;
       }).join("");
+
+      // kommunetotal i bund
       const totals = computeTotalsByCandidate();
       const foot = sel.map(s=> `<td class="py-2 pr-3 tabular-nums font-medium">${fmt(totals.get(s.kandidat_id)||0)}</td>`).join("");
       tfoot.innerHTML = `<tr class="border-t"><th class="py-2 pr-3 text-left bg-white">Kommunetotal</th>${foot}</tr>`;
