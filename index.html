@@ -61,16 +61,12 @@
       </a>
     </div>
 
-    <!-- Intro i hvidt kort -->
-    <div class="mx-auto max-w-3xl px-4 pb-8">
-      <div class="bg-white/95 text-gray-800 rounded-2xl shadow-sm ring-1 ring-black/5 p-4 md:p-6 text-center">
-        <p class="text-sm md:text-base leading-relaxed">
-          <strong>Valgbar</strong> har fokus på kandidater og har til formål at skabe overblik over antallet af stemmer fordelt på forskellige valg.
-          <br><br>
-          Brug <strong>Valgbar</strong> til at se, hvor mange stemmer en kandidat har modtaget i en kreds eller kommune fordelt på valgsteder.
-          Du kan også bruge siden til at sammenligne kandidaters resultater.
-        </p>
-      </div>
+    <!-- Intro tekst direkte på baggrunden -->
+    <div class="mx-auto max-w-3xl px-4 pb-8 text-center">
+      <p class="text-white text-sm md:text-base leading-relaxed">
+        <strong>Valgbar</strong> har fokus på kandidater og viser, hvor mange stemmer en kandidat har modtaget i en kreds eller kommune fordelt på valgsteder.
+        Du kan også bruge siden til at sammenligne kandidaters resultater.
+      </p>
     </div>
 
     <!-- Diskret bundlinje -->
@@ -79,7 +75,6 @@
 
   <!-- INDHOLD -->
   <main class="mx-auto max-w-6xl p-4 space-y-6">
-    <!-- 4 bokse på en linje på xl -->
     <section class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-4 items-stretch">
       <!-- Folketingsvalg -->
       <article class="vb-card p-5 flex flex-col items-center text-center gap-4 h-full">
@@ -132,7 +127,6 @@
   </main>
 
   <script>
-    // Venlig besked for endnu-ikke-aktive år/typer
     function notReady(label){
       alert(label + ' er ikke aktiveret endnu.');
       return false;
