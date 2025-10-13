@@ -45,34 +45,34 @@
 
 <body class="bg-gray-50 text-gray-900">
 
-  <!-- HEADER -->
-  <header class="vb-hero">
-    <div class="mx-auto max-w-6xl px-4 py-6 flex items-center gap-4">
-      <a href="/" class="flex items-center gap-3">
-        <!-- Stort logo (≈8×) -->
-        <img src="Valgbar-transparent.png" alt="Valgbar" class="h-96 w-auto" />
-      </a>
+<!-- HEADER -->
+<header class="vb-hero">
+  <div class="mx-auto max-w-6xl px-4 py-6 flex items-center gap-4">
+    <a href="../../" class="flex items-center gap-3">
+      <!-- Kun logoet, meget større -->
+      <img src="../../Valgbar-transparent3.png" alt="Valgbar" class="h-32 w-auto" />
+    </a>
+  </div>
+
+  <div class="mx-auto max-w-6xl px-4 pb-8">
+    <div class="text-white/80 text-base md:text-lg">
+      Vælg en kommune og få overblik over partier og kandidater.
     </div>
 
-    <div class="mx-auto max-w-6xl px-4 pb-8">
-      <div class="text-white/80 text-base md:text-lg">
-        Vælg en kommune og få overblik over partier og kandidater.
+    <div class="mt-6 grid grid-cols-1 md:grid-cols-3 gap-3">
+      <div>
+        <label class="text-sm text-white/80">Region</label>
+        <select id="regionSelect" class="w-full mt-1 rounded-xl border p-2 text-gray-900"></select>
       </div>
-
-      <div class="mt-6 grid grid-cols-1 md:grid-cols-3 gap-3">
-        <div>
-          <label class="text-sm text-white/80">Region</label>
-          <select id="regionSelect" class="w-full mt-1 rounded-xl border p-2 text-gray-900"></select>
-        </div>
-        <div class="md:col-span-2">
-          <label class="text-sm text-white/80">Kommune</label>
-          <select id="kommuneSelect" class="w-full mt-1 rounded-xl border p-2 text-gray-900" disabled></select>
-        </div>
+      <div class="md:col-span-2">
+        <label class="text-sm text-white/80">Kommune</label>
+        <select id="kommuneSelect" class="w-full mt-1 rounded-xl border p-2 text-gray-900" disabled></select>
       </div>
-
-      <div id="error" class="mt-3 text-sm text-red-200"></div>
     </div>
-  </header>
+
+    <div id="error" class="mt-3 text-sm text-red-200"></div>
+  </div>
+</header>
 
   <!-- INDHOLD -->
   <main class="mx-auto max-w-6xl p-4 space-y-6">
@@ -136,8 +136,8 @@
 
   <!--  JS  -->
   <script>
-    /* Fast data-sti */
-    const BASE_PATH = 'data/kv/2021/';
+    /* Fast data-sti (nu relativ fra kv/2021/) */
+    const BASE_PATH = '../../data/kv/2021/';
 
     /* Regioner & kommuner */
     const REGIONS = {
@@ -148,7 +148,7 @@
       "Region Nordjylland": ["Brønderslev","Frederikshavn","Hjørring","Jammerbugt","Læsø","Mariagerfjord","Morsø","Rebild","Thisted","Vesthimmerlands","Aalborg"]
     };
 
-    /* Partifarver (nationalt bogstav) */
+    /* Partifarver */
     const PARTY_COLORS = {
       "A":"#e03a3e","B":"#712082","C":"#2e7d32","D":"#0f766e","F":"#e5003d",
       "I":"#00a0e3","O":"#0044aa","V":"#1b5eaa","Ø":"#c8102e","Å":"#3aaa35",
@@ -170,32 +170,19 @@
       return a.kandidat_navn.localeCompare(b.kandidat_navn,"da");
     };
 
-    /* Partibogstav ud fra PARTINAVN (ikke kandidat_id) */
-    const PARTY_LETTER_RULES = [
-      { re: /^(?:det\s+)?socialdemokrat/i,        letter: "A" },
-      { re: /radikale/i,                          letter: "B" },
-      { re: /konservative/i,                      letter: "C" },
-      { re: /nye\s+borgerlige/i,                  letter: "D" },
-      { re: /socialistisk\s+folkeparti|^sf$/i,    letter: "F" },
-      { re: /liberal\s+alliance/i,                letter: "I" },
-      { re: /dansk\s+folkeparti/i,                letter: "O" },
-      { re: /venstre/i,                           letter: "V" },
-      { re: /enhedslisten/i,                      letter: "Ø" },
-      { re: /alternativet/i,                      letter: "Å" },
-      { re: /kristen.?demokrat/i,                 letter: "K" },
-      // tilføj flere regler her ved behov
-    ];
-    function detectPartyLetterByName(partiName){
-      const name = (partiName||"").trim();
-      for(const {re,letter} of PARTY_LETTER_RULES){
-        if(re.test(name)) return letter;
+    /* Bogstav-detektor fra rækker (kan være null) */
+    function detectPartyLetterFromRows(rowsForParti){
+      for(const r of rowsForParti){
+        const m = (r.kandidat_id||"").trim().toUpperCase().match(/^([A-ZÆØÅ])/);
+        const letter = m?.[1] || null;
+        if(letter && PARTY_COLORS[letter]) return letter;
       }
-      return null; // lokalliste/ukendt -> grå badge, nederst i sortering
+      return null;
     }
     function badge(letter){
       const bg = letter ? PARTY_COLORS[letter] : DEFAULT_BADGE_BG;
       const fg = letter ? "#fff" : DEFAULT_BADGE_FG;
-      return { style:`background-color:${bg};color:${fg};border-color:${bg}`, text:(letter||" ") };
+      return { style:`background-color:${bg};color:${fg};border-color:${bg}`, text: (letter||" ") };
     }
 
     /* Init */
@@ -282,7 +269,7 @@
           map.get(r.kandidat_id).total+=r.stemmer;
         }
         const kandidater=Array.from(map.values()).sort(sortKandidaterAlpha);
-        const letter = detectPartyLetterByName(parti); // <-- vigtig ændring
+        const letter = detectPartyLetterFromRows(rows); // kan være null
         res.push({
           parti,
           letter,
@@ -453,7 +440,7 @@
     function initTabs(){
       document.querySelectorAll("[data-tab]").forEach(b=>{
         b.onclick=()=>{ document.querySelectorAll(".vb-tabbox").forEach(x=>x.classList.remove("active"));
-          b.classList.add("active");
+          b.classList.addClass?.('active') || b.classList.add('active');
           const t=b.getAttribute("data-tab");
           el("tab-valgsted-tabel").classList.toggle("hidden",t!=="valgsted-tabel");
           el("tab-valgsted-diagram").classList.toggle("hidden",t!=="valgsted-diagram");
