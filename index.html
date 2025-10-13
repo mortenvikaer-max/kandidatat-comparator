@@ -16,14 +16,16 @@
     .vb-card{ background:#fff; border:1px solid #e5e7eb; border-radius:16px; box-shadow:0 1px 2px rgba(16,24,40,.04); transition:box-shadow .2s, transform .15s; }
     .vb-card:hover{ box-shadow:0 8px 24px rgba(0,0,0,.08); border-color:#d1d5db; transform:translateY(-1px); }
     .vb-hero{ background:linear-gradient(180deg, var(--vb-navy) 0%, var(--vb-navy-2) 100%); color:#fff; }
+
+    /* Accordion */
     .vb-accordion{ cursor:pointer; user-select:none; }
     .vb-rotate{ transition: transform .2s; }
     .vb-open .vb-rotate{ transform: rotate(180deg); }
-    /* Smooth height animation uden layout-hop */
     .vb-body{ overflow:hidden; transition: grid-template-rows .25s ease, padding .2s ease; display:grid; grid-template-rows: 0fr; }
     .vb-open .vb-body{ grid-template-rows: 1fr; }
     .vb-body > div{ min-height:0; }
-    /* Store år-knapper, næsten fuld bredde */
+
+    /* År-knapper: næsten fuld bredde af kortet */
     .vb-yearbtn{ display:block; width:100%; text-align:center; padding:1rem 1rem; border:1px solid #e5e7eb; border-radius:12px; font-weight:700; background:#fff; }
     .vb-yearbtn:hover{ background:#f9fafb; }
   </style>
@@ -54,30 +56,43 @@
 
   <!-- JS -->
   <script>
-    // 🔧 Kun aktive valgtyper (ingen "kommer snart" renderes)
+    /* =========================================
+       KONFIG: hvilke år vises for hver valgtype
+       ========================================= */
     const DATA_YEARS = {
-      kv: [2021]   // udvid senere hvis du tilføjer flere år
-      // ft: [2022], rv: [2021], ep: [2024]  ← tilføj her når de er klar
+      ft: [2022, 2019, 2015],  // Folketingsvalg
+      kv: [2021, 2017, 2013],  // Kommunalvalg
+      rv: [2021, 2017, 2013],  // Regionsrådsvalg
+      ep: [2024, 2019, 2014]   // Europa-Parlamentsvalg
     };
 
-    // Hvor fører klik hen pr. år?
+    /* ===================================================
+       Hvor fører et klik hen? (tilpas når sider er klar)
+       - Kv 2021 virker nu og peger på kv/2021/
+       - De andre typer/år viser en alert indtil udfyldt
+       =================================================== */
     const DEST_URLS = {
-      kv: { useQueryParam:false, perYear: { 2021: 'kv/2021/' } }
-      // ft: { useQueryParam:true, base:'ft.html' }, ...
+      kv: { useQueryParam:false, perYear: { 2021: 'kv/2021/' /* , 2017:'kv/2017/', 2013:'kv/2013/' */ } },
+      ft: { /* useQueryParam:true, base:'ft.html' */ },
+      rv: { /* useQueryParam:true, base:'rv.html' */ },
+      ep: { /* useQueryParam:true, base:'ep.html' */ }
     };
 
-    // Titel pr. type (ingen undertekst)
+    /* Ensartede titler (ingen ikoner/undertekster) */
     const TITLES = {
-      kv: 'Kommunalvalg'
-      // ft: 'Folketingsvalg', rv:'Regionsrådsvalg', ep:'Europa-Parlamentsvalg'
+      ft: 'Folketingsvalg',
+      kv: 'Kommunalvalg',
+      rv: 'Regionsrådsvalg',
+      ep: 'Europa-Parlamentsvalg'
     };
 
-    // Render kun de typer, der både har DATA_YEARS og DEST_URLS
-    const activeTypes = Object.keys(DATA_YEARS).filter(t => DEST_URLS[t]);
-
+    /* Render kort (alle fire typer skal vises) */
+    const order = ['ft','kv','rv','ep'];
     const root = document.getElementById('cardsRoot');
-    activeTypes.forEach(type => {
-      const years = DATA_YEARS[type];
+
+    order.forEach(type => {
+      const years = DATA_YEARS[type] || [];
+      const title = TITLES[type] || type.toUpperCase();
 
       const card = document.createElement('article');
       card.className = 'vb-card p-4 flex flex-col gap-3 vb-accordion';
@@ -86,20 +101,18 @@
       card.setAttribute('aria-expanded', 'false');
       card.dataset.type = type;
 
-      // Header uden ikon og uden undertekst — ensartet alignment
+      // Ensartet header (aligned, ingen ikon/undertekst)
       card.innerHTML = `
         <header class="flex items-center">
-          <h2 class="text-lg font-semibold leading-tight">${TITLES[type] || type.toUpperCase()}</h2>
-          <div class="ml-auto vb-rotate opacity-60">
+          <h2 class="text-lg font-semibold leading-tight">${title}</h2>
+          <div class="ml-auto vb-rotate opacity-60" aria-hidden="true">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor"><path d="M5.23 7.21a.75.75 0 0 1 1.06.02L10 11.1l3.71-3.87a.75.75 0 1 1 1.08 1.04l-4.24 4.43a.75.75 0 0 1-1.08 0L5.27 8.27a.75.75 0 0 1-.04-1.06z"/></svg>
           </div>
         </header>
 
         <div class="vb-body">
           <div>
-            <!-- Ingen 'Vælg et år'-tekst her -->
             <div class="pt-2 md:pt-3 pb-2">
-              <!-- År-knapper: næsten fuld bredde af kortet -->
               <div class="grid grid-cols-1 gap-2">
                 ${years.map(y => `<button class="vb-yearbtn" data-year="${y}" data-type="${type}">${y}</button>`).join('')}
               </div>
@@ -108,14 +121,13 @@
         </div>
       `;
 
-      // Toggle (klik og tastatur)
+      // Toggle (klik og tastatur) — og luk andre (accordion)
       const toggle = ()=>{
         const open = card.classList.toggle('vb-open');
         card.setAttribute('aria-expanded', open ? 'true' : 'false');
       };
       card.addEventListener('click', (e)=>{
-        if(e.target.closest('.vb-yearbtn')) return; // håndteres separat
-        // Accordion: luk andre kort
+        if(e.target.closest('.vb-yearbtn')) return; // håndteres nedenfor
         document.querySelectorAll('.vb-accordion.vb-open').forEach(el=>{
           if(el!==card){ el.classList.remove('vb-open'); el.setAttribute('aria-expanded','false'); }
         });
@@ -134,7 +146,7 @@
       root.appendChild(card);
     });
 
-    // Navigation ved klik på år
+    /* Navigation ved klik på år */
     root.addEventListener('click', (e)=>{
       const btn = e.target.closest('.vb-yearbtn');
       if(!btn) return;
@@ -143,7 +155,10 @@
       const year = Number(btn.getAttribute('data-year'));
       const dest = DEST_URLS[type];
 
-      if(!dest) return;
+      if(!dest){
+        alert('Destination er ikke konfigureret endnu for denne valgtype.');
+        return;
+      }
 
       if(dest.useQueryParam){
         const url = new URL(dest.base, location.href);
@@ -154,7 +169,7 @@
         const perYear = dest.perYear || {};
         const url = perYear[year];
         if(!url){
-          alert('Ingen fil angivet for det valgte år.');
+          alert('Ingen destination sat op for det valgte år endnu.');
           return;
         }
         location.href = url;
