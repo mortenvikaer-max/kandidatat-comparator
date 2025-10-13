@@ -13,36 +13,40 @@
       --vb-navy:#234a5a;
       --vb-navy-2:#1b3d4d;
     }
-    .vb-card{ background:#fff; border:1px solid #e5e7eb; border-radius:16px; box-shadow:0 1px 2px rgba(16,24,40,.04); transition:box-shadow .2s, transform .15s; }
+    .vb-card{
+      background:#fff; border:1px solid #e5e7eb; border-radius:16px;
+      box-shadow:0 1px 2px rgba(16,24,40,.04);
+      transition:box-shadow .2s, transform .15s;
+    }
     .vb-card:hover{ box-shadow:0 8px 24px rgba(0,0,0,.08); border-color:#d1d5db; transform:translateY(-1px); }
+
     .vb-hero{ background:linear-gradient(180deg, var(--vb-navy) 0%, var(--vb-navy-2) 100%); color:#fff; }
 
-    /* Accordion */
-    .vb-accordion{ cursor:pointer; user-select:none; }
-    .vb-rotate{ transition: transform .2s; }
-    .vb-open .vb-rotate{ transform: rotate(180deg); }
-    .vb-body{ overflow:hidden; transition: grid-template-rows .25s ease, padding .2s ease; display:grid; grid-template-rows: 0fr; }
-    .vb-open .vb-body{ grid-template-rows: 1fr; }
-    .vb-body > div{ min-height:0; }
-
-    /* År-knapper: næsten fuld bredde af kortet */
-    .vb-yearbtn{ display:block; width:100%; text-align:center; padding:1rem 1rem; border:1px solid #e5e7eb; border-radius:12px; font-weight:700; background:#fff; }
+    /* Store, brede år-knapper */
+    .vb-yearbtn{
+      display:block; width:100%; text-align:center;
+      padding:0.9rem 1rem; border:1px solid #e5e7eb; border-radius:12px;
+      font-weight:700; background:#fff;
+    }
     .vb-yearbtn:hover{ background:#f9fafb; }
+
+    /* Gør år-området minimum ens, så kortene føles mere lige (selv hvis antal år varierer) */
+    .vb-yeararea{ min-height: 8rem; } /* justér hvis du får mange år pr. type */
   </style>
 </head>
 
 <body class="bg-gray-50 text-gray-900">
   <!-- HEADER -->
   <header class="vb-hero">
-    <div class="mx-auto max-w-6xl px-4 py-6 flex items-center gap-4">
-      <a href="./" class="flex items-center gap-3">
-        <img src="Valgbar-transparent3.png" alt="Valgbar" class="h-32 w-auto" />
+    <div class="mx-auto max-w-6xl px-4 py-6 flex items-center justify-center">
+      <a href="./" class="flex items-center">
+        <img src="Valgbar-transparent3.png" alt="Valgbar" class="h-28 w-auto" />
       </a>
     </div>
 
     <div class="mx-auto max-w-6xl px-4 pb-8">
-      <p class="text-white/80 text-base md:text-lg">
-        Klik på et valg for at folde ud – og vælg år for at gå videre.
+      <p class="text-center text-white/80 text-base md:text-lg">
+        Vælg et valg – og klik på et år for at gå videre.
       </p>
     </div>
   </header>
@@ -79,7 +83,7 @@
       ep: { /* useQueryParam:true, base:'ep.html' */ }
     };
 
-    /* Ensartede titler (aligned, ingen ikoner/undertekster) */
+    /* Titler (centreret) */
     const TITLES = {
       ft: 'Folketingsvalg',
       kv: 'Kommunalvalg',
@@ -87,7 +91,7 @@
       ep: 'Europa-Parlamentsvalg'
     };
 
-    /* Render alle fire kort i rækkefølge */
+    /* Render alle fire kort */
     const order = ['ft','kv','rv','ep'];
     const root = document.getElementById('cardsRoot');
 
@@ -96,53 +100,16 @@
       const title = TITLES[type] || type.toUpperCase();
 
       const card = document.createElement('article');
-      card.className = 'vb-card p-4 flex flex-col gap-3 vb-accordion';
-      card.setAttribute('tabindex', '0');
-      card.setAttribute('role', 'button');
-      card.setAttribute('aria-expanded', 'false');
-      card.dataset.type = type;
+      card.className = 'vb-card p-5 flex flex-col items-center text-center gap-4 h-full';
 
-      // Header — kun titel + pil (ens alignment)
       card.innerHTML = `
-        <header class="flex items-center">
-          <h2 class="text-lg font-semibold leading-tight">${title}</h2>
-          <div class="ml-auto vb-rotate opacity-60" aria-hidden="true">
-            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor"><path d="M5.23 7.21a.75.75 0 0 1 1.06.02L10 11.1l3.71-3.87a.75.75 0 1 1 1.08 1.04l-4.24 4.43a.75.75 0 0 1-1.08 0L5.27 8.27a.75.75 0 0 1-.04-1.06z"/></svg>
-          </div>
-        </header>
-
-        <div class="vb-body"><!-- fold-ud -->
-          <div>
-            <div class="pt-2 md:pt-3 pb-2">
-              <div class="grid grid-cols-1 gap-2">
-                ${years.map(y => `<button class="vb-yearbtn" data-year="${y}" data-type="${type}">${y}</button>`).join('')}
-              </div>
-            </div>
+        <h2 class="text-lg font-semibold leading-tight">${title}</h2>
+        <div class="vb-yeararea w-full">
+          <div class="grid grid-cols-1 gap-2">
+            ${years.map(y => `<button class="vb-yearbtn" data-year="${y}" data-type="${type}">${y}</button>`).join('')}
           </div>
         </div>
       `;
-
-      // Toggle (klik og tastatur) + luk andre (accordion)
-      const toggle = ()=>{
-        const open = card.classList.toggle('vb-open');
-        card.setAttribute('aria-expanded', open ? 'true' : 'false');
-      };
-      card.addEventListener('click', (e)=>{
-        if(e.target.closest('.vb-yearbtn')) return;
-        document.querySelectorAll('.vb-accordion.vb-open').forEach(el=>{
-          if(el!==card){ el.classList.remove('vb-open'); el.setAttribute('aria-expanded','false'); }
-        });
-        toggle();
-      });
-      card.addEventListener('keydown', (e)=>{
-        if(e.key==='Enter' || e.key===' '){
-          e.preventDefault();
-          document.querySelectorAll('.vb-accordion.vb-open').forEach(el=>{
-            if(el!==card){ el.classList.remove('vb-open'); el.setAttribute('aria-expanded','false'); }
-          });
-          toggle();
-        }
-      });
 
       root.appendChild(card);
     });
