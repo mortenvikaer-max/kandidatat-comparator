@@ -9,50 +9,72 @@
   <script src="https://cdn.tailwindcss.com"></script>
 
   <style>
-    :root{
-      --vb-navy:#234a5a;
-      --vb-navy-2:#1b3d4d;
+    :root {
+      --vb-navy: #234a5a;
+      --vb-navy-2: #1f4352;
     }
-    .vb-card{
-      background:#fff; border:1px solid #e5e7eb; border-radius:16px;
-      box-shadow:0 1px 2px rgba(16,24,40,.04);
-      transition:box-shadow .2s, transform .15s;
+    .vb-card {
+      background: #fff;
+      border: 1px solid #e5e7eb;
+      border-radius: 16px;
+      box-shadow: 0 1px 2px rgba(16, 24, 40, 0.04);
+      transition: box-shadow 0.2s, transform 0.15s;
     }
-    .vb-card:hover{ box-shadow:0 8px 24px rgba(0,0,0,.08); border-color:#d1d5db; transform:translateY(-1px); }
-
-    .vb-hero{ background:linear-gradient(180deg, var(--vb-navy) 0%, var(--vb-navy-2) 100%); color:#fff; }
-
-    /* År-knapper (links) */
-    .vb-yearbtn{
-      display:block; width:100%; text-align:center;
-      padding:0.9rem 1rem; border:1px solid #e5e7eb; border-radius:12px;
-      font-weight:700; background:#fff;
+    .vb-card:hover {
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+      border-color: #d1d5db;
+      transform: translateY(-1px);
     }
-    .vb-yearbtn:hover{ background:#f9fafb; }
 
-    /* Ens højde på bokse uanset antal år */
-    .vb-yeararea{ min-height: 8rem; } /* justér hvis du får mange/få år pr. type */
+    .vb-hero {
+      background: linear-gradient(180deg, var(--vb-navy) 0%, var(--vb-navy-2) 100%);
+      color: #fff;
+    }
+
+    .vb-yearbtn {
+      display: block;
+      width: 100%;
+      text-align: center;
+      padding: 0.9rem 1rem;
+      border: 1px solid #e5e7eb;
+      border-radius: 12px;
+      font-weight: 700;
+      background: #fff;
+    }
+    .vb-yearbtn:hover {
+      background: #f9fafb;
+    }
+
+    .vb-yeararea {
+      min-height: 8rem;
+    }
   </style>
 </head>
 
 <body class="bg-gray-50 text-gray-900">
   <!-- HEADER -->
   <header class="vb-hero">
-    <div class="mx-auto max-w-6xl px-4 py-6 flex items-center justify-center">
-      <a href="./" class="flex items-center">
-        <img src="Valgbar-transparent3.png" alt="Valgbar" class="h-24 md:h-28 w-auto" />
+    <!-- Logo -->
+    <div class="mx-auto max-w-6xl px-4 pt-8 pb-4 flex items-center justify-center">
+      <a href="./" aria-label="Valgbar">
+        <img src="Valgbar-transparent3.png" alt="Valgbar" class="h-20 md:h-24 w-auto" />
       </a>
     </div>
 
-    <!-- LILLE INTRO-TEKST (væsentligt mindre) -->
-    <div class="mx-auto max-w-2xl px-4 pb-8 text-center">
-      <p class="text-white/90 text-sm md:text-base leading-relaxed">
-        <strong>Valgbar</strong> har fokus på kandidater og har til formål at skabe overblik over antallet af stemmer fordelt på forskellige valg.
-        <br><br>
-        Brug <strong>Valgbar</strong> til at se, hvor mange stemmer en kandidat har modtaget i en kreds eller kommune fordelt på valgsteder.
-        Du kan også bruge siden til at sammenligne kandidaters resultater.
-      </p>
+    <!-- Intro i hvidt kort -->
+    <div class="mx-auto max-w-3xl px-4 pb-8">
+      <div class="bg-white/95 text-gray-800 rounded-2xl shadow-sm ring-1 ring-black/5 p-4 md:p-6 text-center">
+        <p class="text-sm md:text-base leading-relaxed">
+          <strong>Valgbar</strong> har fokus på kandidater og har til formål at skabe overblik over antallet af stemmer fordelt på forskellige valg.
+          <br><br>
+          Brug <strong>Valgbar</strong> til at se, hvor mange stemmer en kandidat har modtaget i en kreds eller kommune fordelt på valgsteder.
+          Du kan også bruge siden til at sammenligne kandidaters resultater.
+        </p>
+      </div>
     </div>
+
+    <!-- Diskret bundlinje -->
+    <div class="border-t border-white/20"></div>
   </header>
 
   <!-- INDHOLD -->
@@ -113,7 +135,7 @@
     // Venlig besked for endnu-ikke-aktive år/typer
     function notReady(label){
       alert(label + ' er ikke aktiveret endnu.');
-      return false; // forhindre navigation til "#"
+      return false;
     }
   </script>
 </body>
