@@ -74,11 +74,14 @@
       rv: [2021, 2017, 2013],
       ep: [2024, 2019, 2014]
     };
-    // Navigation: kun KV 2021 aktiv nu
-    const DEST = {
-      kv: { perYear:{ 2021:'kv/2021/' } },
-      ft: {}, rv: {}, ep: {}
-    };
+    // Navigation
+const DEST = {
+  kv: { perYear: {
+    2021: 'kv/2021/',
+    2017: 'kv/2017/'   // ← tilføjet
+  }},
+  ft: {}, rv: {}, ep: {}
+};
     const TITLES = {
       ft:'Folketingsvalg', kv:'Kommunalvalg', rv:'Regionsrådsvalg', ep:'Europa-Parlamentsvalg'
     };
