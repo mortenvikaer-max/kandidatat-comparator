@@ -131,6 +131,9 @@
   </main>
 
   <script>
+    /* <<< NYT: fast base-sti til data >>> */
+    const BASE_PATH = 'data/kv/2021/';
+
     /* Regioner & kommuner */
     const REGIONS = {
       "Region Hovedstaden": ["Albertslund","Allerød","Ballerup","Bornholm","Brøndby","Dragør","Egedal","Fredensborg","Frederiksberg","Frederikssund","Furesø","Gentofte","Gladsaxe","Glostrup","Gribskov","Halsnæs","Herlev","Hillerød","Hvidovre","Høje-Taastrup","Hørsholm","Ishøj","København","Lyngby-Taarbæk","Rudersdal","Rødovre","Tårnby","Vallensbæk"],
@@ -162,9 +165,7 @@
       return a.kandidat_navn.localeCompare(b.kandidat_navn,"da");
     };
 
-    /* Bogstav-detektor:
-       - find første kandidat_id i partiet, hvis første tegn er et kendt bogstav (A..Å, incl. Æ Ø Å)
-       - ellers -> null (ingen bogstav)  */
+    /* Bogstav-detektor */
     function detectPartyLetterFromRows(rowsForParti){
       for(const r of rowsForParti){
         const m = (r.kandidat_id||"").trim().toUpperCase().match(/^([A-ZÆØÅ])/);
@@ -223,12 +224,21 @@
     /* Data */
     async function loadKommuneData(k){
       el("error").textContent=""; el("kommunetitel").textContent=k?`(${k})`:"";
-      const safe=encodeURIComponent(k), candidates=[`data/${safe}_allepartier.csv`,`data/${safe}.csv`];
+      const safe=encodeURIComponent(k);
+      /* <<< ÆNDRET: brug BASE_PATH >>> */
+      const candidates=[`${BASE_PATH}${safe}_allepartier.csv`, `${BASE_PATH}${safe}.csv`];
       for(const url of candidates){
-        try{ const r=await fetch(url,{cache:"no-store"}); if(!r.ok) throw new Error();
-             const text=await r.text(); parseCsv(text); afterDataLoaded(); return; }catch(e){}
+        try{
+          const r=await fetch(url,{cache:"no-store"});
+          if(!r.ok) throw new Error();
+          const text=await r.text();
+          parseCsv(text);
+          afterDataLoaded();
+          return;
+        }catch(e){}
       }
-      el("error").textContent=`Kunne ikke finde data for ${k}. Forventede fx /data/${k}_allepartier.csv`;
+      /* <<< ÆNDRET: opdateret fejletekst >>> */
+      el("error").textContent=`Kunne ikke finde data for ${k}. Forventede fx /${BASE_PATH}${k}_allepartier.csv`;
     }
     function parseCsv(text){
       const res=Papa.parse(text,{header:true,skipEmptyLines:true,transformHeader:h=>canon(h.toLowerCase())});
@@ -346,11 +356,10 @@
     function computeTotalsByCandidate(){ const m=new Map(); for(const r of state.rows) m.set(r.kandidat_id,(m.get(r.kandidat_id)||0)+r.stemmer); return m; }
     function renderSelected(){
       const root=el("selectedList"), totals=computeTotalsByCandidate(), sel=getSelectedOrdered();
-      // find letter per parti (kan være null)
       function letterForParti(parti){
         const stat = getPartyStats().find(s=>s.parti===parti);
         return stat?.letter || null;
-        }
+      }
       root.innerHTML= sel.map(k=>{
         const letter=letterForParti(k.parti), bd=badge(letter), total=totals.get(k.kandidat_id)||0;
         return `<div class="rounded-xl border p-3 flex items-center justify-between">
