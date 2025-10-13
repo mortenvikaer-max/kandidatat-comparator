@@ -22,7 +22,7 @@
 
     .vb-hero{ background:linear-gradient(180deg, var(--vb-navy) 0%, var(--vb-navy-2) 100%); color:#fff; }
 
-    /* Store, brede år-knapper */
+    /* År-knapper */
     .vb-yearbtn{
       display:block; width:100%; text-align:center;
       padding:0.9rem 1rem; border:1px solid #e5e7eb; border-radius:12px;
@@ -30,8 +30,8 @@
     }
     .vb-yearbtn:hover{ background:#f9fafb; }
 
-    /* Gør år-området minimum ens, så kortene føles mere lige (selv hvis antal år varierer) */
-    .vb-yeararea{ min-height: 8rem; } /* justér hvis du får mange år pr. type */
+    /* Ens højde på bokse */
+    .vb-yeararea{ min-height: 8rem; }
   </style>
 </head>
 
@@ -44,9 +44,13 @@
       </a>
     </div>
 
-    <div class="mx-auto max-w-6xl px-4 pb-8">
-      <p class="text-center text-white/80 text-base md:text-lg">
-        Vælg et valg – og klik på et år for at gå videre.
+    <!-- INTRO TEKST -->
+    <div class="mx-auto max-w-3xl px-4 pb-8 text-center">
+      <p class="text-white text-base md:text-lg leading-relaxed">
+        <strong>Valgbar</strong> har fokus på kandidater og har til formål at skabe overblik over antallet af stemmer fordelt på forskellige valg.
+        <br><br>
+        Brug <strong>Valgbar</strong> til at se, hvor mange stemmer en kandidat har modtaget i en kreds eller kommune fordelt på valgsteder. 
+        Du kan også bruge siden til at sammenligne kandidaters resultater.
       </p>
     </div>
   </header>
@@ -62,7 +66,7 @@
   <!-- JS -->
   <script>
     /* =========================================
-       ÅR pr. valgtype (vises som knapper)
+       ÅR pr. valgtype
        ========================================= */
     const DATA_YEARS = {
       ft: [2022, 2019, 2015],
@@ -72,77 +76,10 @@
     };
 
     /* ===================================================
-       Navigation (tilpas når sider er klar)
-       - KV 2021 virker nu og peger på kv/2021/
-       - Øvrige typer/år: venlig alert indtil konfigureret
+       Navigation (kun KV 2021 aktiv lige nu)
        =================================================== */
     const DEST_URLS = {
-      kv: { useQueryParam:false, perYear: { 2021: 'kv/2021/' /* , 2017:'kv/2017/', 2013:'kv/2013/' */ } },
+      kv: { useQueryParam:false, perYear: { 2021: 'kv/2021/' } },
       ft: { /* useQueryParam:true, base:'ft.html' */ },
       rv: { /* useQueryParam:true, base:'rv.html' */ },
-      ep: { /* useQueryParam:true, base:'ep.html' */ }
-    };
-
-    /* Titler (centreret) */
-    const TITLES = {
-      ft: 'Folketingsvalg',
-      kv: 'Kommunalvalg',
-      rv: 'Regionsrådsvalg',
-      ep: 'Europa-Parlamentsvalg'
-    };
-
-    /* Render alle fire kort */
-    const order = ['ft','kv','rv','ep'];
-    const root = document.getElementById('cardsRoot');
-
-    order.forEach(type => {
-      const years = DATA_YEARS[type] || [];
-      const title = TITLES[type] || type.toUpperCase();
-
-      const card = document.createElement('article');
-      card.className = 'vb-card p-5 flex flex-col items-center text-center gap-4 h-full';
-
-      card.innerHTML = `
-        <h2 class="text-lg font-semibold leading-tight">${title}</h2>
-        <div class="vb-yeararea w-full">
-          <div class="grid grid-cols-1 gap-2">
-            ${years.map(y => `<button class="vb-yearbtn" data-year="${y}" data-type="${type}">${y}</button>`).join('')}
-          </div>
-        </div>
-      `;
-
-      root.appendChild(card);
-    });
-
-    /* Navigation ved klik på år */
-    root.addEventListener('click', (e)=>{
-      const btn = e.target.closest('.vb-yearbtn');
-      if(!btn) return;
-
-      const type = btn.getAttribute('data-type');
-      const year = Number(btn.getAttribute('data-year'));
-      const dest = DEST_URLS[type];
-
-      if(!dest){
-        alert('Destination er ikke konfigureret endnu for denne valgtype.');
-        return;
-      }
-
-      if(dest.useQueryParam){
-        const url = new URL(dest.base, location.href);
-        url.searchParams.set('type', type);
-        url.searchParams.set('year', String(year));
-        location.href = url.toString();
-      }else{
-        const perYear = dest.perYear || {};
-        const url = perYear[year];
-        if(!url){
-          alert('Ingen destination sat op for det valgte år endnu.');
-          return;
-        }
-        location.href = url;
-      }
-    });
-  </script>
-</body>
-</html>
+      ep: { /* useQueryParam:true, b*
