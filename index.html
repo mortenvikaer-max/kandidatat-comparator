@@ -14,7 +14,7 @@
       background: linear-gradient(180deg, var(--vb-navy) 0%, var(--vb-navy-2) 100%);
       color:#fff;
     }
-    /* Række-stil som i eksemplet */
+    /* Række-stil (accordion) */
     .vb-row{
       background: linear-gradient(180deg, #ffffff 0%, #f8fafc 100%);
       border:1px solid #e5e7eb; border-radius:12px; box-shadow:0 1px 2px rgba(16,24,40,.04);
@@ -22,14 +22,17 @@
     .vb-row:hover{ box-shadow:0 4px 14px rgba(0,0,0,.06); }
     .vb-chevron{ transition: transform .2s ease; }
     .vb-open .vb-chevron{ transform: rotate(180deg); }
-    /* Smooth fold-ud uden hop */
+    /* Smooth fold-ud */
     .vb-body{ overflow:hidden; transition:grid-template-rows .25s ease, padding .2s ease; display:grid; grid-template-rows:0fr; }
     .vb-open .vb-body{ grid-template-rows:1fr; }
     .vb-body > div{ min-height:0; }
     /* År-knapper */
-    .vb-yearbtn{ display:flex; align-items:center; justify-content:center; padding:.8rem 1rem;
-                 border:1px solid #e5e7eb; border-radius:10px; background:#fff; font-weight:600; }
+    .vb-yearbtn{
+      display:flex; align-items:center; justify-content:center;
+      padding:.8rem 1rem; border:1px solid #e5e7eb; border-radius:10px; background:#fff; font-weight:600;
+    }
     .vb-yearbtn:hover{ background:#f3f4f6; }
+    .vb-yearbtn[aria-disabled="true"]{ opacity:.6; cursor:not-allowed; }
   </style>
 </head>
 
@@ -65,7 +68,7 @@
       rv: [2021, 2017, 2013],
       ep: [2024, 2019, 2014]
     };
-    // Navigation: kun KV 2021 kører nu
+    // Navigation: kun KV 2021 aktiv nu
     const DEST = {
       kv: { perYear:{ 2021:'kv/2021/' } },
       ft: {}, rv: {}, ep: {}
@@ -79,9 +82,11 @@
     const root = document.getElementById('list');
 
     ORDER.forEach(type=>{
-      const row = document.createElement('article');
-      row.className = 'vb-row';
-      row.innerHTML = `
+      const years = YEARS[type] || [];
+      const article = document.createElement('article');
+      article.className = 'vb-row';
+
+      article.innerHTML = `
         <button type="button"
                 class="w-full flex items-center gap-3 px-4 md:px-5 py-4 text-left"
                 aria-expanded="false"
@@ -91,58 +96,66 @@
             <path d="M5.23 7.21a.75.75 0 011.06.02L10 11.1l3.71-3.87a.75.75 0 111.08 1.04l-4.24 4.43a.75.75 0 01-1.08 0L5.27 8.27a.75.75 0 01-.04-1.06z"/>
           </svg>
         </button>
+
         <div class="vb-body">
           <div>
             <div class="px-4 md:px-5 pt-0 pb-4">
               <div class="grid grid-cols-2 sm:grid-cols-3 gap-2">
-                ${(YEARS[type]||[]).map(y=>`
-                  <a href="${linkFor(type,y)}"
-                     class="vb-yearbtn"
-                     ${isActive(type,y)?'':'onclick="return notReady(\\''+TITLES[type]+' '+y+'\\')"'}>
-                    ${y}
-                  </a>`).join('')}
+                ${years.map(y=>{
+                  const url = DEST[type]?.perYear?.[y] ?? '#';
+                  const active = !!DEST[type]?.perYear?.[y];
+                  return `<a class="vb-yearbtn"
+                               href="${url}"
+                               data-type="${type}" data-year="${y}"
+                               aria-disabled="${active ? 'false':'true'}">${y}</a>`;
+                }).join('')}
               </div>
             </div>
           </div>
         </div>
       `;
-      root.appendChild(row);
+      root.appendChild(article);
     });
 
     /* ====== INTERAKTION ====== */
+    // Accordion: klik på rækkens knap
     root.addEventListener('click', (e)=>{
       const btn = e.target.closest('[data-acc]');
-      if(!btn) return;
-      const article = btn.closest('article');
-      const open = article.classList.toggle('vb-open');
-      btn.setAttribute('aria-expanded', open ? 'true':'false');
-
-      // Luk andre rækker (klassisk accordion)
-      if(open){
-        document.querySelectorAll('#list article.vb-open').forEach(el=>{
-          if(el!==article){ el.classList.remove('vb-open');
-            el.querySelector('[data-acc]').setAttribute('aria-expanded','false'); }
-        });
+      if(btn){
+        const article = btn.closest('article');
+        const open = article.classList.toggle('vb-open');
+        btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+        // Luk andre
+        if(open){
+          document.querySelectorAll('#list article.vb-open').forEach(el=>{
+            if(el!==article){
+              el.classList.remove('vb-open');
+              el.querySelector('[data-acc]').setAttribute('aria-expanded','false');
+            }
+          });
+        }
       }
     });
     // Tastatur (Enter/Space)
-    document.querySelectorAll('[data-acc]').forEach(b=>{
-      b.addEventListener('keydown', (e)=>{
-        if(e.key==='Enter' || e.key===' '){ e.preventDefault(); b.click(); }
-      });
+    root.addEventListener('keydown', (e)=>{
+      const btn = e.target.closest('[data-acc]');
+      if(btn && (e.key==='Enter' || e.key===' ')){
+        e.preventDefault(); btn.click();
+      }
     });
 
-    /* ====== HJÆLPERE ====== */
-    function isActive(type, year){
-      return !!DEST[type]?.perYear?.[year];
-    }
-    function linkFor(type, year){
-      return DEST[type]?.perYear?.[year] ?? '#';
-    }
-    function notReady(label){
-      alert(label + ' er ikke aktiveret endnu.');
-      return false;
-    }
+    // År: kun navigér hvis aktiv, ellers pæn besked
+    root.addEventListener('click', (e)=>{
+      const link = e.target.closest('.vb-yearbtn');
+      if(!link) return;
+      const active = link.getAttribute('aria-disabled') === 'false';
+      if(!active){
+        e.preventDefault();
+        const type = link.getAttribute('data-type');
+        const year = link.getAttribute('data-year');
+        alert(`${TITLES[type]} ${year} er ikke aktiveret endnu.`);
+      }
+    });
   </script>
 </body>
 </html>
