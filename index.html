@@ -13,12 +13,19 @@
       --vb-navy:#234a5a;
       --vb-navy-2:#1b3d4d;
     }
-    .vb-card{ background:#fff; border:1px solid #e5e7eb; border-radius:16px; box-shadow:0 1px 2px rgba(16,24,40,.04); }
-    .vb-btn{ display:inline-flex; align-items:center; gap:.5rem; padding:.5rem .75rem; border:1px solid #e5e7eb; border-radius:12px; background:#fff; }
-    .vb-btn:disabled{ opacity:.5; cursor:not-allowed; }
+    .vb-card{ background:#fff; border:1px solid #e5e7eb; border-radius:16px; box-shadow:0 1px 2px rgba(16,24,40,.04); transition:box-shadow .2s, transform .15s; }
+    .vb-card:hover{ box-shadow:0 8px 24px rgba(0,0,0,.08); border-color:#d1d5db; transform:translateY(-1px); }
     .vb-hero{ background:linear-gradient(180deg, var(--vb-navy) 0%, var(--vb-navy-2) 100%); color:#fff; }
-    .vb-tile:hover{ box-shadow:0 8px 24px rgba(0,0,0,.08); border-color:#d1d5db; transform:translateY(-1px); }
     .vb-chip{ font-size:.75rem; padding:.15rem .5rem; border-radius:9999px; border:1px solid #e5e7eb; color:#374151; background:#f9fafb; }
+    .vb-yearbtn{ display:flex; align-items:center; justify-content:center; padding:0.9rem 0.75rem; border:1px solid #e5e7eb; border-radius:12px; font-weight:600; background:#fff; }
+    .vb-yearbtn:hover{ background:#f9fafb; }
+    .vb-yearbtn[disabled]{ opacity:.5; cursor:not-allowed; }
+    .vb-accordion{ cursor:pointer; user-select:none; }
+    .vb-rotate{ transition: transform .2s; }
+    .vb-open .vb-rotate{ transform: rotate(180deg); }
+    .vb-body{ overflow:hidden; transition: grid-template-rows .25s ease, padding .2s ease; display:grid; grid-template-rows: 0fr; }
+    .vb-open .vb-body{ grid-template-rows: 1fr; }
+    .vb-body > div{ min-height:0; }
   </style>
 </head>
 
@@ -31,137 +38,41 @@
       </a>
     </div>
 
-    <div class="mx-auto max-w-6xl px-4 pb-10">
+    <div class="mx-auto max-w-6xl px-4 pb-8">
       <p class="text-white/80 text-base md:text-lg">
-        Vælg et valg for at se data – og dyk ned på partier, kandidater og resultater.
+        Vælg et valg og klik på et år for at gå videre.
       </p>
     </div>
   </header>
 
   <!-- INDHOLD -->
   <main class="mx-auto max-w-6xl p-4 space-y-6">
-    <!-- Valgtype-kort -->
-    <section class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-4">
-      <!-- Folketingsvalg -->
-      <article class="vb-card vb-tile p-4 flex flex-col gap-3">
-        <header class="flex items-start gap-3">
-          <div class="rounded-2xl p-2 bg-gray-100">
-            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 opacity-70" viewBox="0 0 24 24" fill="currentColor">
-              <path d="M12 2c-4.97 0-9 2.015-9 4.5S7.03 11 12 11s9-2.015 9-4.5S16.97 2 12 2Zm0 10c-4.97 0-9-2.015-9-4.5V12.5C3 14.985 7.03 17 12 17s9-2.015 9-4.5V7.5C21 9.985 16.97 12 12 12Zm0 6c-4.97 0-9-2.015-9-4.5V19.5C3 21.985 7.03 24 12 24s9-2.015 9-4.5V13.5C21 15.985 16.97 18 12 18Z"/>
-            </svg>
-          </div>
-          <div class="flex-1">
-            <h2 class="text-lg font-semibold flex items-center gap-2">Folketingsvalg <span class="vb-chip">Kommer snart</span></h2>
-            <p class="text-sm text-gray-600">Landsdækkende data på partier og kandidater.</p>
-          </div>
-        </header>
-        <div class="mt-1">
-          <label class="text-sm text-gray-700">År</label>
-          <select id="year-ft" class="w-full mt-1 rounded-xl border p-2" disabled>
-          </select>
-        </div>
-        <div class="mt-auto flex gap-2">
-          <button data-open="ft" class="vb-btn" disabled title="Kommer snart">Åbn</button>
-        </div>
-      </article>
 
-      <!-- Kommunalvalg -->
-      <article class="vb-card vb-tile p-4 flex flex-col gap-3">
-        <header class="flex items-start gap-3">
-          <div class="rounded-2xl p-2 bg-gray-100">
-            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 opacity-70" viewBox="0 0 24 24" fill="currentColor">
-              <path d="M12 3l9 7h-3v11h-5v-7H11v7H6V10H3l9-7z"/>
-            </svg>
-          </div>
-          <div class="flex-1">
-            <h2 class="text-lg font-semibold">Kommunalvalg</h2>
-            <p class="text-sm text-gray-600">Sammenlign kandidater på tværs af partier og valgsteder.</p>
-          </div>
-        </header>
-        <div class="mt-1">
-          <label class="text-sm text-gray-700">År</label>
-          <select id="year-kv" class="w-full mt-1 rounded-xl border p-2">
-          </select>
-        </div>
-        <div class="mt-auto flex gap-2">
-          <button data-open="kv" class="vb-btn">
-            Åbn
-            <svg class="h-4 w-4 opacity-60" viewBox="0 0 20 20" fill="currentColor"><path d="M10.75 3.5a.75.75 0 00-1.5 0v9.19L6.53 10.97a.75.75 0 10-1.06 1.06l4 4 .01.01a.75.75 0 001.06-.01l3.99-3.99a.75.75 0 10-1.06-1.06l-2.72 2.71V3.5z"/></svg>
-          </button>
-        </div>
-      </article>
-
-      <!-- Regionsrådsvalg -->
-      <article class="vb-card vb-tile p-4 flex flex-col gap-3">
-        <header class="flex items-start gap-3">
-          <div class="rounded-2xl p-2 bg-gray-100">
-            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 opacity-70" viewBox="0 0 24 24" fill="currentColor">
-              <path d="M3 6.5L8 4l8 3 5-2.5v13L16 20l-8-3-5 2.5v-13zM9 6.1L7 6.9v10l2-.8V6.1zm2 .8v10l6 2.2V9.1L11 6.9z"/>
-            </svg>
-          </div>
-          <div class="flex-1">
-            <h2 class="text-lg font-semibold flex items-center gap-2">Regionsrådsvalg <span class="vb-chip">Kommer snart</span></h2>
-            <p class="text-sm text-gray-600">Regionale lister og kandidater.</p>
-          </div>
-        </header>
-        <div class="mt-1">
-          <label class="text-sm text-gray-700">År</label>
-          <select id="year-rv" class="w-full mt-1 rounded-xl border p-2" disabled>
-          </select>
-        </div>
-        <div class="mt-auto flex gap-2">
-          <button data-open="rv" class="vb-btn" disabled title="Kommer snart">Åbn</button>
-        </div>
-      </article>
-
-      <!-- Europa-Parlamentsvalg -->
-      <article class="vb-card vb-tile p-4 flex flex-col gap-3">
-        <header class="flex items-start gap-3">
-          <div class="rounded-2xl p-2 bg-gray-100">
-            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 opacity-70" viewBox="0 0 24 24" fill="currentColor">
-              <path d="M12 2l1.8 3.6 4 .6-2.9 2.8.7 4-3.6-1.9-3.6 1.9.7-4L6.2 6.2l4-.6L12 2zM5 10l.9 1.8 2 .3-1.5 1.5.3 2-1.8-.9-1.8.9.3-2L2 12.1l2-.3L5 10zm14 0l1 2 2 .3-1.5 1.5.3 2-1.8-.9-1.8.9.3-2L15 12.3l2-.3 1-2z"/>
-            </svg>
-          </div>
-          <div class="flex-1">
-            <h2 class="text-lg font-semibold flex items-center gap-2">Europa-Parlamentsvalg <span class="vb-chip">Kommer snart</span></h2>
-            <p class="text-sm text-gray-600">Lister og kandidater på tværs af landet.</p>
-          </div>
-        </header>
-        <div class="mt-1">
-          <label class="text-sm text-gray-700">År</label>
-          <select id="year-ep" class="w-full mt-1 rounded-xl border p-2" disabled>
-          </select>
-        </div>
-        <div class="mt-auto flex gap-2">
-          <button data-open="ep" class="vb-btn" disabled title="Kommer snart">Åbn</button>
-        </div>
-      </article>
+    <section class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-4" id="cardsRoot">
+      <!-- Kortene indsprøjtes af JS -->
     </section>
 
-    <!-- Hjælpesektion -->
     <section class="vb-card p-4">
-      <h3 class="font-medium mb-2">Sådan virker det</h3>
-      <ol class="list-decimal pl-5 space-y-1 text-sm text-gray-700">
-        <li>Vælg valgtype og år.</li>
-        <li>Klik <em>Åbn</em> for at gå til den relevante underside.</li>
-        <li>For Kommunalvalg vælger du herefter region/kommune.</li>
-      </ol>
+      <h3 class="font-medium mb-2">Tip</h3>
+      <ul class="list-disc pl-5 space-y-1 text-sm text-gray-700">
+        <li>Klik på en boks for at folde den ud. Vælg derefter år som en knap.</li>
+        <li>Kommunalvalg 2021 er aktivt. De øvrige er “Kommer snart”.</li>
+      </ul>
     </section>
   </main>
 
   <!-- JS -->
   <script>
-    // ✅ DATA_YEARS: hvad der vises i dropdowns
+    // 🔧 KONFIG
     const DATA_YEARS = {
-      ft: [2022],   // kan udvides senere
-      kv: [2021],   // virker nu
-      rv: [2021],   // placeholder
-      ep: [2024]    // placeholder
+      ft: [2022],
+      kv: [2021],
+      rv: [2021],
+      ep: [2024]
     };
 
-    // ✅ DEST_URLS: hvor "Åbn" fører hen
-    // - Kommunalvalg er sat op til at åbne din eksisterende underside: kv/2021/
-    // - De andre er markeret "comingSoon" og deres knapper er deaktiveret
+    // Hvor fører et klik på et år hen?
+    // - KV er sat til at åbne en mappe med index.html i: kv/2021/
     const DEST_URLS = {
       kv: { useQueryParam:false, perYear: { 2021: 'kv/2021/' } },
       ft: { comingSoon:true },
@@ -169,37 +80,110 @@
       ep: { comingSoon:true }
     };
 
-    // Helper: sæt options i en <select>, nyeste år først.
-    function fillYearSelect(id, years, disabled=false){
-      const sel = document.getElementById(id);
-      if(!sel) return;
-      sel.innerHTML = years.map(y => `<option value="${y}">${y}</option>`).join('');
-      sel.value = years[0];
-      if(disabled) sel.setAttribute('disabled','disabled'); else sel.removeAttribute('disabled');
+    // Ikoner (inline SVG)
+    const ICONS = {
+      ft: `<svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 opacity-70" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2c-4.97 0-9 2.015-9 4.5S7.03 11 12 11s9-2.015 9-4.5S16.97 2 12 2Zm0 10c-4.97 0-9-2.015-9-4.5V12.5C3 14.985 7.03 17 12 17s9-2.015 9-4.5V7.5C21 9.985 16.97 12 12 12Zm0 6c-4.97 0-9-2.015-9-4.5V19.5C3 21.985 7.03 24 12 24s9-2.015 9-4.5V13.5C21 15.985 16.97 18 12 18Z"/></svg>`,
+      kv: `<svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 opacity-70" viewBox="0 0 24 24" fill="currentColor"><path d="M12 3l9 7h-3v11h-5v-7H11v7H6V10H3l9-7z"/></svg>`,
+      rv: `<svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 opacity-70" viewBox="0 0 24 24" fill="currentColor"><path d="M3 6.5L8 4l8 3 5-2.5v13L16 20l-8-3-5 2.5v-13zM9 6.1L7 6.9v10l2-.8V6.1zm2 .8v10l6 2.2V9.1L11 6.9z"/></svg>`,
+      ep: `<svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 opacity-70" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l1.8 3.6 4 .6-2.9 2.8.7 4-3.6-1.9-3.6 1.9.7-4L6.2 6.2l4-.6L12 2zM5 10l.9 1.8 2 .3-1.5 1.5.3 2-1.8-.9-1.8.9.3-2L2 12.1l2-.3L5 10zm14 0l1 2 2 .3-1.5 1.5.3 2-1.8-.9-1.8.9.3-2L15 12.3l2-.3 1-2z"/></svg>`
+    };
+
+    // Tekster pr. type
+    const META = {
+      ft: { title:'Folketingsvalg', subtitle:'Landsdækkende data på partier og kandidater.' },
+      kv: { title:'Kommunalvalg', subtitle:'Sammenlign kandidater på tværs af partier og valgsteder.' },
+      rv: { title:'Regionsrådsvalg', subtitle:'Regionale lister og kandidater.' },
+      ep: { title:'Europa-Parlamentsvalg', subtitle:'Lister og kandidater på tværs af landet.' }
+    };
+
+    // Render kortene
+    const root = document.getElementById('cardsRoot');
+
+    const order = ['ft','kv','rv','ep']; // rækkefølge
+    for(const type of order){
+      const years = DATA_YEARS[type] || [];
+      const dest  = DEST_URLS[type] || {};
+      const { title, subtitle } = META[type];
+
+      const isSoon = !!dest.comingSoon;
+      const card = document.createElement('article');
+      card.className = 'vb-card p-4 flex flex-col gap-3 vb-accordion';
+      card.setAttribute('tabindex', '0');
+      card.setAttribute('role', 'button');
+      card.setAttribute('aria-expanded', 'false');
+      card.dataset.type = type;
+
+      card.innerHTML = `
+        <header class="flex items-start gap-3">
+          <div class="rounded-2xl p-2 bg-gray-100">${ICONS[type]}</div>
+          <div class="flex-1">
+            <h2 class="text-lg font-semibold flex items-center gap-2">
+              ${title}
+              ${isSoon ? '<span class="vb-chip">Kommer snart</span>' : ''}
+            </h2>
+            <p class="text-sm text-gray-600">${subtitle}</p>
+          </div>
+          <div class="vb-rotate mt-1 opacity-60">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor"><path d="M5.23 7.21a.75.75 0 0 1 1.06.02L10 11.1l3.71-3.87a.75.75 0 1 1 1.08 1.04l-4.24 4.43a.75.75 0 0 1-1.08 0L5.27 8.27a.75.75 0 0 1-.04-1.06z"/></svg>
+          </div>
+        </header>
+
+        <div class="vb-body">
+          <div>
+            <div class="pt-2 md:pt-3 pb-1">
+              ${isSoon
+                ? '<p class="text-sm text-gray-500">Denne sektion bliver aktiveret senere. År vises herunder, men kan ikke vælges endnu.</p>'
+                : '<p class="text-sm text-gray-700">Vælg et år:</p>'
+              }
+            </div>
+            <div class="grid grid-cols-2 sm:grid-cols-3 gap-2 pb-2">
+              ${years.map(y=>{
+                const disabled = isSoon ? 'disabled' : '';
+                return `<button class="vb-yearbtn" data-year="${y}" data-type="${type}" ${disabled} aria-disabled="${isSoon?'true':'false'}">${y}</button>`;
+              }).join('')}
+            </div>
+          </div>
+        </div>
+      `;
+
+      // Toggle-logic (klik OG tastatur)
+      const toggle = ()=>{
+        const open = card.classList.toggle('vb-open');
+        card.setAttribute('aria-expanded', open ? 'true' : 'false');
+      };
+      card.addEventListener('click', (e)=>{
+        // klik på år-knap håndteres separat nedenfor
+        if(e.target.closest('.vb-yearbtn')) return;
+        // Luk andre kort (accordion)
+        document.querySelectorAll('.vb-accordion.vb-open').forEach(el=>{
+          if(el!==card){ el.classList.remove('vb-open'); el.setAttribute('aria-expanded','false'); }
+        });
+        toggle();
+      });
+      card.addEventListener('keydown', (e)=>{
+        if(e.key==='Enter' || e.key===' '){
+          e.preventDefault();
+          // Luk andre kort (accordion)
+          document.querySelectorAll('.vb-accordion.vb-open').forEach(el=>{
+            if(el!==card){ el.classList.remove('vb-open'); el.setAttribute('aria-expanded','false'); }
+          });
+          toggle();
+        }
+      });
+
+      root.appendChild(card);
     }
 
-    // Init dropdowns
-    fillYearSelect('year-ft', DATA_YEARS.ft, DEST_URLS.ft?.comingSoon);
-    fillYearSelect('year-kv', DATA_YEARS.kv, false);
-    fillYearSelect('year-rv', DATA_YEARS.rv, DEST_URLS.rv?.comingSoon);
-    fillYearSelect('year-ep', DATA_YEARS.ep, DEST_URLS.ep?.comingSoon);
+    // Navigation når der klikkes på et år
+    root.addEventListener('click', (e)=>{
+      const btn = e.target.closest('.vb-yearbtn');
+      if(!btn) return;
 
-    // Routing ved klik på "Åbn"
-    function openDestination(type){
-      const years = DATA_YEARS[type] || [];
-      const yearSel = document.getElementById(`year-${type}`);
-      const year = Number(yearSel?.value || years[0]);
+      const type = btn.getAttribute('data-type');
+      const year = Number(btn.getAttribute('data-year'));
       const dest = DEST_URLS[type];
 
-      if(!dest){
-        alert('Mangler destinations-URL for denne valgtype.');
-        return;
-      }
-
-      if(dest.comingSoon){
-        alert('Denne sektion kommer snart 🙂');
-        return;
-      }
+      if(!dest || dest.comingSoon) return;
 
       if(dest.useQueryParam){
         const url = new URL(dest.base, location.href);
@@ -215,22 +199,6 @@
         }
         location.href = url;
       }
-    }
-
-    // Håndtér alle "Åbn"-knapper
-    document.querySelectorAll('button[data-open]').forEach(btn=>{
-      btn.addEventListener('click', ()=>{
-        const type = btn.getAttribute('data-open');
-        openDestination(type);
-      });
-    });
-
-    // Bonus: Enter-tilgængelighed hvis man står i år-dropdowns
-    ['ft','kv','rv','ep'].forEach(t=>{
-      const sel = document.getElementById(`year-${t}`);
-      sel?.addEventListener('keydown', (e)=>{
-        if(e.key==='Enter'){ openDestination(t); }
-      });
     });
   </script>
 </body>
