@@ -49,7 +49,8 @@
 
   <!-- INDHOLD -->
   <main class="mx-auto max-w-6xl p-4 space-y-6">
-    <section id="cardsRoot" class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4 items-stretch">
+    <!-- 4 bokse på en linje på xl -->
+    <section id="cardsRoot" class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-4 items-stretch">
       <!-- Kort indsprøjtes af JS -->
     </section>
   </main>
@@ -57,19 +58,19 @@
   <!-- JS -->
   <script>
     /* =========================================
-       KONFIG: hvilke år vises for hver valgtype
+       ÅR pr. valgtype (vises som knapper)
        ========================================= */
     const DATA_YEARS = {
-      ft: [2022, 2019, 2015],  // Folketingsvalg
-      kv: [2021, 2017, 2013],  // Kommunalvalg
-      rv: [2021, 2017, 2013],  // Regionsrådsvalg
-      ep: [2024, 2019, 2014]   // Europa-Parlamentsvalg
+      ft: [2022, 2019, 2015],
+      kv: [2021, 2017, 2013],
+      rv: [2021, 2017, 2013],
+      ep: [2024, 2019, 2014]
     };
 
     /* ===================================================
-       Hvor fører et klik hen? (tilpas når sider er klar)
-       - Kv 2021 virker nu og peger på kv/2021/
-       - De andre typer/år viser en alert indtil udfyldt
+       Navigation (tilpas når sider er klar)
+       - KV 2021 virker nu og peger på kv/2021/
+       - Øvrige typer/år: venlig alert indtil konfigureret
        =================================================== */
     const DEST_URLS = {
       kv: { useQueryParam:false, perYear: { 2021: 'kv/2021/' /* , 2017:'kv/2017/', 2013:'kv/2013/' */ } },
@@ -78,7 +79,7 @@
       ep: { /* useQueryParam:true, base:'ep.html' */ }
     };
 
-    /* Ensartede titler (ingen ikoner/undertekster) */
+    /* Ensartede titler (aligned, ingen ikoner/undertekster) */
     const TITLES = {
       ft: 'Folketingsvalg',
       kv: 'Kommunalvalg',
@@ -86,7 +87,7 @@
       ep: 'Europa-Parlamentsvalg'
     };
 
-    /* Render kort (alle fire typer skal vises) */
+    /* Render alle fire kort i rækkefølge */
     const order = ['ft','kv','rv','ep'];
     const root = document.getElementById('cardsRoot');
 
@@ -101,7 +102,7 @@
       card.setAttribute('aria-expanded', 'false');
       card.dataset.type = type;
 
-      // Ensartet header (aligned, ingen ikon/undertekst)
+      // Header — kun titel + pil (ens alignment)
       card.innerHTML = `
         <header class="flex items-center">
           <h2 class="text-lg font-semibold leading-tight">${title}</h2>
@@ -110,7 +111,7 @@
           </div>
         </header>
 
-        <div class="vb-body">
+        <div class="vb-body"><!-- fold-ud -->
           <div>
             <div class="pt-2 md:pt-3 pb-2">
               <div class="grid grid-cols-1 gap-2">
@@ -121,13 +122,13 @@
         </div>
       `;
 
-      // Toggle (klik og tastatur) — og luk andre (accordion)
+      // Toggle (klik og tastatur) + luk andre (accordion)
       const toggle = ()=>{
         const open = card.classList.toggle('vb-open');
         card.setAttribute('aria-expanded', open ? 'true' : 'false');
       };
       card.addEventListener('click', (e)=>{
-        if(e.target.closest('.vb-yearbtn')) return; // håndteres nedenfor
+        if(e.target.closest('.vb-yearbtn')) return;
         document.querySelectorAll('.vb-accordion.vb-open').forEach(el=>{
           if(el!==card){ el.classList.remove('vb-open'); el.setAttribute('aria-expanded','false'); }
         });
