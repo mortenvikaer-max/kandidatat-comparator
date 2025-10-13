@@ -48,9 +48,9 @@
 <!-- HEADER -->
 <header class="vb-hero">
   <div class="mx-auto max-w-6xl px-4 py-6 flex items-center gap-4">
-    <a href="/" class="flex items-center gap-3">
+    <a href="../../" class="flex items-center gap-3">
       <!-- Kun logoet, meget større -->
-      <img src="Valgbar-transparent3.png" alt="Valgbar" class="h-32 w-auto" />
+      <img src="../../Valgbar-transparent3.png" alt="Valgbar" class="h-32 w-auto" />
     </a>
   </div>
 
@@ -136,8 +136,8 @@
 
   <!--  JS  -->
   <script>
-    /* Fast data-sti */
-    const BASE_PATH = 'data/kv/2021/';
+    /* Fast data-sti (nu relativ fra kv/2021/) */
+    const BASE_PATH = '../../data/kv/2021/';
 
     /* Regioner & kommuner */
     const REGIONS = {
@@ -440,7 +440,7 @@
     function initTabs(){
       document.querySelectorAll("[data-tab]").forEach(b=>{
         b.onclick=()=>{ document.querySelectorAll(".vb-tabbox").forEach(x=>x.classList.remove("active"));
-          b.classList.add("active");
+          b.classList.addClass?.('active') || b.classList.add('active');
           const t=b.getAttribute("data-tab");
           el("tab-valgsted-tabel").classList.toggle("hidden",t!=="valgsted-tabel");
           el("tab-valgsted-diagram").classList.toggle("hidden",t!=="valgsted-diagram");
