@@ -48,8 +48,11 @@
   <!-- HEADER -->
   <header class="vb-hero">
     <div class="mx-auto max-w-6xl px-4 py-6 flex items-center gap-4">
-      <img src="Valgbar-removebg-preview.png" alt="Valgbar" class="h-10 w-auto" onerror="this.style.display='none';document.getElementById('vbTitle').classList.remove('hidden');" />
-      <div id="vbTitle" class="hidden text-xl md:text-2xl font-bold tracking-tight">Valgbar</div>
+      <a href="/" class="flex items-center gap-2">
+        <img src="Valgbar-transparent.png" alt="Valgbar" class="h-12 w-auto"
+             onerror="this.style.display='none';document.getElementById('vbTitle').classList.remove('hidden');" />
+        <div id="vbTitle" class="hidden text-xl md:text-2xl font-bold tracking-tight">Valgbar</div>
+      </a>
     </div>
 
     <div class="mx-auto max-w-6xl px-4 pb-8">
@@ -130,8 +133,9 @@
     </section>
   </main>
 
+  <!--  JS  -->
   <script>
-    /* <<< NYT: fast base-sti til data >>> */
+    /* Fast data-sti */
     const BASE_PATH = 'data/kv/2021/';
 
     /* Regioner & kommuner */
@@ -165,7 +169,7 @@
       return a.kandidat_navn.localeCompare(b.kandidat_navn,"da");
     };
 
-    /* Bogstav-detektor */
+    /* Bogstav-detektor fra rækker (kan være null) */
     function detectPartyLetterFromRows(rowsForParti){
       for(const r of rowsForParti){
         const m = (r.kandidat_id||"").trim().toUpperCase().match(/^([A-ZÆØÅ])/);
@@ -180,6 +184,7 @@
       return { style:`background-color:${bg};color:${fg};border-color:${bg}`, text: (letter||" ") };
     }
 
+    /* Init */
     window.addEventListener("DOMContentLoaded", ()=>{
       initRegionDropdown(); initTabs();
       const p=new URLSearchParams(location.search), r=p.get("region"), k=p.get("kommune");
@@ -221,11 +226,10 @@
       el("candidateList").innerHTML=""; el("kommunetitel").textContent=""; renderAll();
     }
 
-    /* Data */
+    /* Data-indlæsning */
     async function loadKommuneData(k){
       el("error").textContent=""; el("kommunetitel").textContent=k?`(${k})`:"";
       const safe=encodeURIComponent(k);
-      /* <<< ÆNDRET: brug BASE_PATH >>> */
       const candidates=[`${BASE_PATH}${safe}_allepartier.csv`, `${BASE_PATH}${safe}.csv`];
       for(const url of candidates){
         try{
@@ -237,7 +241,6 @@
           return;
         }catch(e){}
       }
-      /* <<< ÆNDRET: opdateret fejletekst >>> */
       el("error").textContent=`Kunne ikke finde data for ${k}. Forventede fx /${BASE_PATH}${k}_allepartier.csv`;
     }
     function parseCsv(text){
@@ -250,7 +253,7 @@
     }
     function afterDataLoaded(){ state.activeParty=""; renderPartyCombobox(); renderAll(); }
 
-    /* Parti-stats (inkl. bogstav/placering) */
+    /* Parti-stats (inkl. bogstav & kandidater) */
     function getPartyStats(){
       const byParti=new Map();
       for(const r of state.rows){
@@ -274,7 +277,7 @@
           kandidater
         });
       }
-      // Sortér: først med bogstav (alfabetisk), så uden bogstav (alfabetisk på navn for konsistens)
+      // Sortér: først med bogstav (A..Å), derefter partier uden bogstav (navn)
       res.sort((a,b)=>{
         if(a.hasLetter!==b.hasLetter) return a.hasLetter ? -1 : 1;
         if(a.hasLetter && b.hasLetter) return a.letter.localeCompare(b.letter,"da");
@@ -283,7 +286,7 @@
       return res;
     }
 
-    /* Combobox */
+    /* Parti-combobox */
     function renderPartyCombobox(){
       const stats=getPartyStats(), btn=el("partyButton"), btnc=el("partyButtonContent"), menu=el("partyMenu");
       if(!stats.length){
@@ -329,7 +332,7 @@
       el("candidateList").innerHTML = "";
     }
 
-    /* Kandidater for valgt parti */
+    /* Kandidatliste for valgt parti */
     function renderPartyDetail(parti){
       const header=el("partyDetailHeader"), list=el("candidateList"); list.innerHTML="";
       if(!parti){ header.textContent="Vælg et parti i drop-down menuen."; return; }
@@ -348,12 +351,22 @@
     }
 
     /* Render alt */
-    function renderAll(){ renderSelected(); renderPsTable(getPollingStations(), getSelectedOrdered()); renderChart();
-      const hasSel=getSelected().length>0; el("compareSection").classList.toggle("hidden",!hasSel); el("tabsCard").classList.toggle("hidden",!hasSel); }
+    function renderAll(){
+      renderSelected();
+      renderPsTable(getPollingStations(), getSelectedOrdered());
+      renderChart();
+      const hasSel=getSelected().length>0;
+      el("compareSection").classList.toggle("hidden",!hasSel);
+      el("tabsCard").classList.toggle("hidden",!hasSel);
+    }
 
     /* Valgte kandidater */
     function stemmerLabel(n){ return n===1 ? "stemme" : "stemmer"; }
-    function computeTotalsByCandidate(){ const m=new Map(); for(const r of state.rows) m.set(r.kandidat_id,(m.get(r.kandidat_id)||0)+r.stemmer); return m; }
+    function computeTotalsByCandidate(){
+      const m=new Map();
+      for(const r of state.rows) m.set(r.kandidat_id,(m.get(r.kandidat_id)||0)+r.stemmer);
+      return m;
+    }
     function renderSelected(){
       const root=el("selectedList"), totals=computeTotalsByCandidate(), sel=getSelectedOrdered();
       function letterForParti(parti){
@@ -382,13 +395,19 @@
     /* Tabel & diagram */
     function getPollingStations(){
       const m=new Map();
-      for(const r of state.rows){ if(!m.has(r.valgsted_id)) m.set(r.valgsted_id,{id:r.valgsted_id,navn:r.valgsted_navn});
-        const ps=m.get(r.valgsted_id); ps[r.kandidat_id]=(ps[r.kandidat_id]||0)+r.stemmer; }
+      for(const r of state.rows){
+        if(!m.has(r.valgsted_id)) m.set(r.valgsted_id,{id:r.valgsted_id,navn:r.valgsted_navn});
+        const ps=m.get(r.valgsted_id);
+        ps[r.kandidat_id]=(ps[r.kandidat_id]||0)+r.stemmer;
+      }
       return Array.from(m.values()).sort((a,b)=>a.navn.localeCompare(b.navn,"da"));
     }
     function renderPsTable(psList, sel){
       const thead=el("psThead"), tbody=el("psTbody"), tfoot=el("psTFoot");
-      if(!sel.length){ thead.innerHTML=`<tr><th class="text-left py-2 pr-3">Valgsted</th></tr>`; tbody.innerHTML=""; tfoot.innerHTML=""; return; }
+      if(!sel.length){
+        thead.innerHTML=`<tr><th class="text-left py-2 pr-3">Valgsted</th></tr>`;
+        tbody.innerHTML=""; tfoot.innerHTML=""; return;
+      }
       const header = sel.map(s=>{
         const stat = getPartyStats().find(x=>x.parti===s.parti);
         const bd = badge(stat?.letter || null);
