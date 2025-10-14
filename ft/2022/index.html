@@ -74,7 +74,7 @@
           <button id="partyButton" type="button" class="vb-combo-btn" aria-haspopup="listbox" aria-expanded="false" disabled>
             <span id="partyButtonContent" class="vb-combo-label">
               <span class="vb-badge" style="background:#e5e7eb; color:#111827; border-color:#e5e7eb"> </span>
-              <span class="truncate text-gray-500">Vælg kreds først…</span>
+              <span class="truncate text-gray-500">Vælg kreds eller storkreds først…</span>
             </span>
             <svg class="h-4 w-4 opacity-60" viewBox="0 0 20 20" fill="currentColor"><path d="M5.23 7.21a.75.75 0 011.06.02L10 11.104l3.71-3.873a.75.75 0 011.08 1.04l-4.24 4.43a.75.75 0 01-1.08 0l-4.24-4.43a.75.75 0 01.02-1.06z"/></svg>
           </button>
@@ -123,7 +123,7 @@
 /* ====== DATA-STI (FT 2022) ====== */
 const BASE_PATH = '../../data/ft/2022/';
 
-/* Storkredse (rækkefølge i dropdown) */
+/* Storkredse (dropdown) */
 const STORKREDSE = [
   "Bornholms Storkreds",
   "Fyns Storkreds",
@@ -137,18 +137,26 @@ const STORKREDSE = [
   "Østjyllands Storkreds"
 ];
 
-/* KREDS pr. storkreds – udfyldt for dem du allerede bruger */
+/* KREDS pr. storkreds – STYRES KUN HER (ingen JSON).
+   Hvis en storkreds har tom liste [], vises ingen kreds-dropdown,
+   og vi forsøger i stedet en samlet fil for hele storkredsen. */
 const KREDS_BY_STORKREDS = {
   "Bornholms Storkreds": [ "Rønnekredsen","Aakirkebykredsen" ],
+
   "Fyns Storkreds": [
     "Assenskredsen","Faaborgkredsen","Middelfartkredsen","Nyborgkredsen",
     "Odense Østkredsen","Odense Vestkredsen","Odense Sydkredsen","Svendborgkredsen"
   ],
+
   "Københavns Omegns Storkreds": [
     "Ballerupkredsen","Brøndbykredsen","Gentoftekredsen","Gladsaxekredsen",
     "Hvidovrekredsen","Lyngbykredsen","Rødovrekredsen","Taastrupkredsen"
   ],
-  "Københavns Storkreds": [],   // autoload via __kredse.json hvis til stede
+
+  /* Udfyld listen her, hvis du har per-kreds-filer for København.
+     Ellers læg en samlet fil: data/ft/2022/Københavns Storkreds_allepartier.csv */
+  "Københavns Storkreds": [],
+
   "Nordjyllands Storkreds": [],
   "Nordsjællands Storkreds": [],
   "Sjællands Storkreds": [],
@@ -190,9 +198,8 @@ const isListestemmer = name => {
 const sortKandidaterAlpha = (a,b)=>{ const al=isListestemmer(a.kandidat_navn), bl=isListestemmer(b.kandidat_navn); if(al&&!bl) return 1; if(!al&&bl) return -1; return a.kandidat_navn.localeCompare(b.kandidat_navn,"da"); };
 function badge(letter){ const bg=letter?PARTY_COLORS[letter]:DEFAULT_BADGE_BG, fg=letter?"#fff":DEFAULT_BADGE_FG; return { style:`background-color:${bg};color:${fg};border-color:${bg}`, text:(letter||" ") }; }
 
-/* NYT: Rens valgstedsnavn for foranstillet tal/punktum, og trim */
+/* Rens valgstedsnavn for foranstillet tal/punktum, og trim */
 function cleanValgstedName(name){
-  // Fjerner fx "1. ", "10. ", "7 ", "07. " forrest
   return canon(name).replace(/^\s*\d+\s*\.?\s*/,'');
 }
 
@@ -225,30 +232,8 @@ function initStorkredsDropdown(){
   el("kredsSelect").disabled=true;
 }
 
-/* Autoload kredsliste fra __kredse.json når KREDS_BY_STORKREDS er tom for en storkreds */
-async function tryLoadKredseIndex(storkreds){
-  const s = encodeURIComponent(storkreds);
-  const url = `${BASE_PATH}${s}/__kredse.json`;
-  try{
-    const r = await fetch(url,{cache:"no-store"});
-    if(!r.ok) return null;
-    const arr = await r.json();
-    if(Array.isArray(arr) && arr.length){
-      KREDS_BY_STORKREDS[storkreds] = arr;
-      return arr;
-    }
-  }catch(e){}
-  return null;
-}
-
-async function populateKredse(storkreds){
-  let ks = KREDS_BY_STORKREDS[storkreds] || [];
-
-  if(!ks.length){
-    const loaded = await tryLoadKredseIndex(storkreds);
-    if(Array.isArray(loaded)) ks = loaded;
-  }
-
+function populateKredse(storkreds){
+  const ks = KREDS_BY_STORKREDS[storkreds] || [];
   const ksel = el("kredsSelect");
   if(ks.length){
     ksel.disabled=false;
@@ -264,11 +249,10 @@ async function populateKredse(storkreds){
     };
     el("error").textContent = "";
   }else{
+    // Ingen kredsliste → prøv samlet storkredsfil
     ksel.disabled=true;
-    ksel.innerHTML=`<option value="">(Ingen kredse angivet endnu)</option>`;
-    el("error").innerHTML =
-      `Tilføj kredse i KREDS_BY_STORKREDS for “${storkreds}”, eller læg en indeksfil: <code>__kredse.json</code> i mappen <code>${BASE_PATH}${storkreds}/</code> ` +
-      `med fx <code>["Østerbrokredsen","Nørrebroskredsen"]</code>. Alternativt kan du lægge en samlet fil: <code>${storkreds}_allepartier.csv</code>.`;
+    ksel.innerHTML=`<option value="">(Ingen kredse – viser hele storkredsen)</option>`;
+    loadStorkredsData(storkreds);
   }
 }
 
@@ -276,7 +260,7 @@ function clearAll(){
   state.rows=[]; state.selected.clear();
   const btn=el("partyButton"), btnc=el("partyButtonContent");
   btn.disabled=true; btn.setAttribute('aria-expanded','false');
-  btnc.innerHTML=`<span class="vb-badge" style="background:#e5e7eb;color:#111827;border-color:#e5e7eb"> </span><span class="truncate text-gray-500">Vælg kreds først…</span>`;
+  btnc.innerHTML=`<span class="vb-badge" style="background:#e5e7eb;color:#111827;border-color:#e5e7eb"> </span><span class="truncate text-gray-500">Vælg kreds eller storkreds først…</span>`;
   el("partyMenu").innerHTML=""; el("partyDetailHeader").textContent="Vælg et parti i drop-down menuen.";
   el("candidateList").innerHTML=""; el("storkredstitel").textContent="";
   renderAll();
@@ -292,18 +276,32 @@ async function loadKredsData(storkreds,kreds){
   ];
   for(const url of candidates){
     try{
-      const r=await fetch(url,{cache:"no-store"});
-      if(!r.ok) throw 0;
+      const r=await fetch(url,{cache:"no-store"}); if(!r.ok) throw 0;
       const text=await r.text();
-      parseCsv(text);
-      afterDataLoaded();
-      return;
+      parseCsv(text); afterDataLoaded(); return;
     }catch(e){}
   }
   el("error").textContent=`Kunne ikke finde data for ${storkreds} / ${kreds}.`;
 }
 
-/* CSV-parse (robust header-detektion + valgsted_id/valgsted_navn) */
+async function loadStorkredsData(storkreds){
+  el("error").textContent=""; el("storkredstitel").textContent=`(${storkreds})`;
+  const s=encodeURIComponent(storkreds);
+  const candidates=[
+    `${BASE_PATH}${s}_allepartier.csv`,
+    `${BASE_PATH}${s}.csv`
+  ];
+  for(const url of candidates){
+    try{
+      const r=await fetch(url,{cache:"no-store"}); if(!r.ok) throw 0;
+      const text=await r.text();
+      parseCsv(text); afterDataLoaded(); return;
+    }catch(e){}
+  }
+  el("error").textContent=`Kunne ikke finde data for ${storkreds}.`;
+}
+
+/* CSV-parse (robust headers + rens valgstedsnavn) */
 function parseCsv(text){
   const res=Papa.parse(text,{header:true,skipEmptyLines:true,transformHeader:h=>canon(h.toLowerCase())});
   state.rows=res.data.map(r=>{
@@ -321,8 +319,8 @@ function parseCsv(text){
     const valgsted_navn = cleanValgstedName(valgsted_navn_raw || valgsted_id);
     return {
       storkreds: canon(r.storkreds || r.kreds || r.kommune),
-      valgsted_id: valgsted_id || valgsted_navn,   // id som fallback
-      valgsted_navn,                                // VIS altid den rensede udgave
+      valgsted_id: valgsted_id || valgsted_navn,
+      valgsted_navn,
       kandidat_id: canon(r.kandidat_id || r.kandidat_navn),
       kandidat_navn: canon(r.kandidat_navn),
       parti: canon(r.parti),
@@ -466,7 +464,6 @@ function getPollingStations(){
     const ps=m.get(r.valgsted_id);
     ps[r.kandidat_id]=(ps[r.kandidat_id]||0)+r.stemmer;
   }
-  // Sortér på det viste (rensede) navn
   return Array.from(m.values()).sort((a,b)=>a.navn.localeCompare(b.navn,"da"));
 }
 
