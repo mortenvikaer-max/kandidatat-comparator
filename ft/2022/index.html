@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Valgbar – Folketingsvalg 2022</title>
 
+  <!-- Libs -->
   <script src="https://cdn.tailwindcss.com"></script>
   <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
@@ -34,6 +35,7 @@
 
 <body class="bg-gray-50 text-gray-900">
 
+<!-- HEADER -->
 <header class="vb-hero">
   <div class="mx-auto max-w-6xl px-4 py-6 flex items-center gap-4">
     <a href="../../" class="flex items-center gap-3">
@@ -61,6 +63,7 @@
   </div>
 </header>
 
+<!-- INDHOLD -->
 <main class="mx-auto max-w-6xl p-4 space-y-6">
   <section>
     <div class="flex items-center justify-between mb-3">
@@ -138,19 +141,11 @@ const STORKREDSE = [
   "Østjyllands Storkreds"
 ];
 
-/* Kredse per storkreds – udfyldt for dem du allerede har lagt op */
+/* Kredse per storkreds – udfyld løbende (Bornholm er udfyldt) */
 const KREDS_BY_STORKREDS = {
   "Bornholms Storkreds": ["Rønnekredsen","Aakirkebykredsen"],
-  "Fyns Storkreds": [
-    "Assenskredsen","Faaborgkredsen","Middelfartkredsen","Nyborgkredsen",
-    "Odense Sydkredsen","Odense Vestkredsen","Odense Østkredsen","Svendborgkredsen"
-  ],
-  "Københavns Omegns Storkreds": [
-    "Ballerupkredsen","Brøndbykredsen","Gladsaxekredsen","Hvidovrekredsen",
-    "Rødovrekredsen","Taastrupkredsen","Gentoftekredsen","Lyngbykredsen"
-  ],
-  /* Udfyld gerne denne med konkrete kredsnavne, men indtil da
-     loader vi automatisk storkreds-filen som fallback */
+  "Fyns Storkreds": [],
+  "Københavns Omegns Storkreds": [],
   "Københavns Storkreds": [],
   "Nordjyllands Storkreds": [],
   "Nordsjællands Storkreds": [],
@@ -160,7 +155,7 @@ const KREDS_BY_STORKREDS = {
   "Østjyllands Storkreds": []
 };
 
-/* Farver og bogstavmapping */
+/* Farver og mapping */
 const PARTY_COLORS = {"A":"#e03a3e","B":"#712082","C":"#2e7d32","D":"#0f766e","F":"#e5003d","I":"#00a0e3","O":"#0044aa","V":"#1b5eaa","Ø":"#c8102e","Å":"#3aaa35","Q":"#ff4fa3","K":"#ff9800","Æ":"#666666"};
 const PARTY_LETTERS_BY_NAME = {"socialdemokratiet":"A","radikale venstre":"B","det radikale venstre":"B","konservative folkeparti":"C","det konservative folkeparti":"C","nye borgerlige":"D","sf":"F","socialistisk folkeparti":"F","liberal alliance":"I","venstre, danmarks liberale parti":"V","venstre":"V","dansk folkeparti":"O","enhedslisten":"Ø","alternativet":"Å","kristendemokraterne":"K"};
 const DEFAULT_BADGE_BG="#e5e7eb", DEFAULT_BADGE_FG="#111827";
@@ -191,10 +186,7 @@ function initStorkredsDropdown(){
   ssel.innerHTML = `<option value="">Vælg storkreds…</option>` + STORKREDSE.map(s=>`<option value="${s}">${s}</option>`).join("");
   ssel.onchange = ()=>{
     const s=ssel.value; state.storkreds=s; state.kreds=""; state.activeParty=""; clearAll();
-    if(s){
-      const u=new URL(location.href); u.searchParams.set("storkreds",s); u.searchParams.delete("kreds"); history.replaceState({}, "", u);
-      populateKredse(s);
-    }
+    if(s){ const u=new URL(location.href); u.searchParams.set("storkreds",s); u.searchParams.delete("kreds"); history.replaceState({}, "", u); populateKredse(s); }
   };
   el("kredsSelect").disabled=true;
 }
@@ -207,13 +199,10 @@ function populateKredse(storkreds){
     ksel.innerHTML = `<option value="">Vælg kreds…</option>` + ks.map(k=>`<option value="${k}">${k}</option>`).join("");
     ksel.onchange = ()=>{
       const k=ksel.value; state.kreds=k; state.activeParty=""; clearAll();
-      if(k){
-        const u=new URL(location.href); u.searchParams.set("storkreds",storkreds); u.searchParams.set("kreds",k); history.replaceState({}, "", u);
-        loadKredsData(storkreds,k);
-      }
+      if(k){ const u=new URL(location.href); u.searchParams.set("storkreds",storkreds); u.searchParams.set("kreds",k); history.replaceState({}, "", u); loadKredsData(storkreds,k); }
     };
   }else{
-    // Ingen kreds-liste: hent storkreds-niveau som fallback
+    // ingen kredsliste → vis hele storkredsen (hvis du har sådanne filer)
     ksel.disabled=true; ksel.innerHTML=`<option value="">(Ingen kredsvalg – viser hele storkredsen)</option>`;
     loadStorkredsData(storkreds);
   }
@@ -228,71 +217,128 @@ function clearAll(){
   renderAll();
 }
 
-/* Data-indlæsning (KREDS) – sti med STORKREDS/KREDS */
+/* Data-indlæsning */
 async function loadKredsData(storkreds,kreds){
-  el("error").textContent=""; el("storkredstitel").textContent = `(${storkreds} – ${kreds})`;
-  const sEnc=encodeURIComponent(storkreds), kEnc=encodeURIComponent(kreds);
-  const base = `${BASE_PATH}${sEnc}/${kEnc}`;
+  el("error").textContent=""; el("storkredstitel").textContent = kreds ? `(${storkreds} – ${kreds})` : `(${storkreds})`;
+  const s=encodeURIComponent(storkreds), k=encodeURIComponent(kreds);
   const candidates=[
-    `${base}_allepartier.csv`,
-    `${base}.csv`,
-    // Fallback til storkreds-niveau, hvis kredsfilen ikke findes:
-    `${BASE_PATH}${sEnc}_allepartier.csv`,
-    `${BASE_PATH}${sEnc}.csv`
+    `${BASE_PATH}${s}/${k}_allepartier.csv`,
+    `${BASE_PATH}${s}/${k}.csv`,
+    `${BASE_PATH}${s}_allepartier.csv`,      // fallback hele storkredsen
+    `${BASE_PATH}${s}.csv`
   ];
   for(const url of candidates){
     try{ const r=await fetch(url,{cache:"no-store"}); if(!r.ok) throw 0; const text=await r.text(); parseCsv(text); afterDataLoaded(); return; }catch(e){}
   }
-  el("error").textContent=`Kunne ikke finde data for ${storkreds} / ${kreds}. Forventede fx ${BASE_PATH}${sEnc}/${kEnc}_allepartier.csv`;
+  el("error").textContent=`Kunne ikke finde data for ${storkreds}${kreds?(' / '+kreds):''}.`;
 }
 
-/* Data-indlæsning (STORKREDS) – bruges når ingen kredse er listet */
 async function loadStorkredsData(storkreds){
   el("error").textContent=""; el("storkredstitel").textContent=`(${storkreds})`;
-  const sEnc=encodeURIComponent(storkreds);
-  const candidates=[
-    `${BASE_PATH}${sEnc}_allepartier.csv`,
-    `${BASE_PATH}${sEnc}.csv`
-  ];
+  const s=encodeURIComponent(storkreds);
+  const candidates=[ `${BASE_PATH}${s}_allepartier.csv`, `${BASE_PATH}${s}.csv` ];
   for(const url of candidates){
     try{ const r=await fetch(url,{cache:"no-store"}); if(!r.ok) throw 0; const text=await r.text(); parseCsv(text); afterDataLoaded(); return; }catch(e){}
   }
   el("error").textContent=`Kunne ikke finde data for ${storkreds}.`;
 }
 
-/* CSV-parse (robust mod forskellige kolonnenavne) */
+/* ====== ROBUST CSV-PARSE (med auto-detektion af valgsted) ====== */
+function pickColumn(rows, preferredKeys, patternTester=null){
+  const keys = Object.keys(rows[0]||{}).map(k=>k.toString().toLowerCase());
+  const origKeys = Object.keys(rows[0]||{});
+  const keyMap = new Map(keys.map((k,i)=>[k, origKeys[i]])); // lower -> original
+  for(const k of preferredKeys){
+    if(keyMap.has(k)) return keyMap.get(k);
+  }
+  if(patternTester){
+    for(const orig of origKeys){
+      const sample = rows.slice(0, 100).map(r => (r[orig]||"").toString());
+      const hits = sample.filter(v => patternTester(v)).length;
+      if(hits >= Math.max(5, sample.length * 0.2)) return orig;
+    }
+  }
+  return null;
+}
+
 function parseCsv(text){
-  const res=Papa.parse(text,{header:true,skipEmptyLines:true,transformHeader:h=>canon(h.toLowerCase())});
-  state.rows=res.data.map(r=>{
+  const res = Papa.parse(text, {
+    header:true, skipEmptyLines:true,
+    transformHeader: h => canon(h.toLowerCase())
+  });
+
+  const rawRows = res.data || [];
+
+  // Aliases
+  const VALGSTED_NAVN_KEYS = ['valgsted_navn','valgsted','afstemningssted','sted_navn','sted','afstemningssted_navn'];
+  const VALGSTED_ID_KEYS   = ['valgsted_id','afstemningssted_id','sted_id','valgsted id','afstemningssted id','sted id'];
+  const looksLikeValgsted = v => /^\s*\d+\.\s*\S+/i.test(v); // fx "7. Klemensker"
+
+  const navnKey = rawRows.length ? pickColumn(rawRows, VALGSTED_NAVN_KEYS, looksLikeValgsted) : null;
+  const idKey   = rawRows.length ? pickColumn(rawRows, VALGSTED_ID_KEYS, null) : null;
+
+  state.rows = rawRows.map(r => {
     const rawLetter = r.parti_bogstav || r.bogstav || r.parti_kode || r['parti (bogstav)'] || r.listebogstav;
     const L = canon(rawLetter).toUpperCase();
     const parti_letter = /^[A-ZÆØÅ]$/.test(L) ? L : "";
+
+    const valgsted_navn_raw = navnKey ? r[navnKey] : '';
+    const valgsted_navn = canon(valgsted_navn_raw);
+
+    const id_raw = idKey ? r[idKey] : '';
+    let valgsted_id = canon(id_raw);
+    if(!valgsted_id){
+      const slug = (valgsted_navn||"")
+        .toLowerCase()
+        .normalize('NFD').replace(/\p{Diacritic}/gu,'')
+        .replace(/[^a-z0-9]+/g,'-')
+        .replace(/(^-|-$)/g,'');
+      valgsted_id = slug || 'ukendt-valgsted';
+    }
+
+    let kandidat_navn = canon(r.kandidat_navn || r.kandidat || r['kandidat navn'] || r['navn']);
+    if(kandidat_navn.toLowerCase() === 'partiliste') kandidat_navn = 'Listestemmer';
+    const kandidat_id = canon(r.kandidat_id || kandidat_navn);
+
     return {
       storkreds: canon(r.storkreds || r.kreds || r.kommune),
-      valgsted_id: canon(r.valgsted_id || r.afstemningssted_id || r.sted_id),
-      valgsted_navn: canon(r.valgsted_navn || r.afstemningssted || r.sted_navn),
-      kandidat_id: canon(r.kandidat_id || r.kandidat_navn),
-      kandidat_navn: canon(r.kandidat_navn),
-      parti: canon(r.parti),
+      valgsted_id,
+      valgsted_navn,
+      kandidat_id,
+      kandidat_navn,
+      parti: canon(r.parti || r['partinavn'] || r['liste'] || r['parti navn']),
       parti_letter,
-      stemmer: Number(r.stemmer||0)||0
+      stemmer: Number(r.stemmer || r['antal stemmer'] || r['stemmetal'] || 0) || 0
     };
   });
+
+  // Diagnose
+  try{
+    const uniq = new Set(state.rows.map(x => x.valgsted_id)).size;
+    const err = document.getElementById('error');
+    if(uniq <= 1){
+      const have = Object.keys(rawRows[0]||{});
+      err.textContent = 'Bemærk: Kun ét valgsted fundet i data – tjek kolonnenavne. Fundne kolonner: ' + have.join(', ');
+    }else{
+      err.textContent = '';
+    }
+  }catch(_){}
 }
 
-/* Bogstavdetektor */
+/* Efter data */
+function afterDataLoaded(){ state.activeParty=""; renderPartyCombobox(); renderAll(); }
+
+/* Bogstavdetektion (som før, men robust) */
 function detectPartyLetter(parti, rowsForParti){
   for(const r of rowsForParti){
     const L=(r.parti_letter||"").toUpperCase();
     if(L && PARTY_COLORS[L]) return L;
   }
-  const key=parti.trim().toLowerCase();
+  const key=(parti||"").trim().toLowerCase();
   const mapped=PARTY_LETTERS_BY_NAME[key];
   if(mapped && PARTY_COLORS[mapped]) return mapped;
   return null;
 }
-
-function afterDataLoaded(){ state.activeParty=""; renderPartyCombobox(); renderAll(); }
 
 /* Parti-stats */
 function getPartyStats(){
@@ -397,11 +443,13 @@ window.removeCandidate = id => { state.selected.delete(id); renderAll(); };
 const getSelected = () => Array.from(state.selected.values());
 const getSelectedOrdered = () => { const s=getSelected().slice(); s.sort(sortKandidaterAlpha); return s; };
 
+/* Tabel & data pr. valgsted */
 function getPollingStations(){
   const m=new Map();
   for(const r of state.rows){
-    if(!m.has(r.valgsted_id)) m.set(r.valgsted_id,{id:r.valgsted_id,navn:r.valgsted_navn});
-    const ps=m.get(r.valgsted_id);
+    const key = r.valgsted_id || (`slug-${r.valgsted_navn}`);
+    if(!m.has(key)) m.set(key,{id:key,navn:r.valgsted_navn||r.valgsted_id||'Ukendt valgsted'});
+    const ps=m.get(key);
     ps[r.kandidat_id]=(ps[r.kandidat_id]||0)+r.stemmer;
   }
   return Array.from(m.values()).sort((a,b)=>a.navn.localeCompare(b.navn,"da"));
@@ -427,6 +475,7 @@ function renderPsTable(psList, sel){
   </tr>`;
 }
 
+/* Diagram */
 function renderChart(){
   const canvas=document.getElementById("chart"), sel=getSelectedOrdered(); if(!sel.length){ resetChart(); return; }
   const ps=getPollingStations(), labels=ps.map(x=>x.navn),
@@ -437,6 +486,7 @@ function renderChart(){
 }
 function resetChart(){ if(state.chart){ state.chart.destroy(); state.chart=null; } }
 
+/* Tabs */
 function initTabs(){
   document.querySelectorAll("[data-tab]").forEach(b=>{
     b.onclick=()=>{ document.querySelectorAll(".vb-tabbox").forEach(x=>x.classList.remove("active"));
