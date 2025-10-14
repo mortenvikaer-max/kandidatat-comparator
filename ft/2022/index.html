@@ -5,7 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Valgbar – Folketingsvalg 2022</title>
 
-  <!-- Libs -->
   <script src="https://cdn.tailwindcss.com"></script>
   <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
@@ -35,7 +34,6 @@
 
 <body class="bg-gray-50 text-gray-900">
 
-<!-- HEADER (samme stil som undersiderne) -->
 <header class="vb-hero">
   <div class="mx-auto max-w-6xl px-4 py-6 flex items-center gap-4">
     <a href="../../" class="flex items-center gap-3">
@@ -140,7 +138,7 @@ const STORKREDSE = [
   "Østjyllands Storkreds"
 ];
 
-/* Kredse per storkreds – udfyldt for Bornholm + Københavns Storkreds (som ønsket) */
+/* Kredse – udfyldt for Bornholm + Københavns Storkreds */
 const KREDS_BY_STORKREDS = {
   "Bornholms Storkreds": ["Rønnekredsen","Aakirkebykredsen"],
   "Københavns Storkreds": [
@@ -157,7 +155,6 @@ const KREDS_BY_STORKREDS = {
     "Vesterbrokredsen",
     "Østerbrokredsen"
   ],
-  // De øvrige kan udfyldes løbende:
   "Fyns Storkreds": [],
   "Københavns Omegns Storkreds": [],
   "Nordjyllands Storkreds": [],
@@ -168,7 +165,7 @@ const KREDS_BY_STORKREDS = {
   "Østjyllands Storkreds": []
 };
 
-/* Farver og bogstavmapping */
+/* Farver/bogstaver */
 const PARTY_COLORS = {"A":"#e03a3e","B":"#712082","C":"#2e7d32","D":"#0f766e","F":"#e5003d","I":"#00a0e3","O":"#0044aa","V":"#1b5eaa","Ø":"#c8102e","Å":"#3aaa35","Q":"#ff4fa3","K":"#ff9800","Æ":"#666666"};
 const PARTY_LETTERS_BY_NAME = {
   "socialdemokratiet":"A",
@@ -182,22 +179,22 @@ const PARTY_LETTERS_BY_NAME = {
   "enhedslisten":"Ø","enhedslisten - de rød-grønne":"Ø",
   "alternativet":"Å",
   "kristendemokraterne":"K","kd - kristendemokraterne":"K",
-  "moderaterne":"M" // får ingen farve her, men du kan tilføje hvis ønsket
+  "moderaterne":"M"
 };
 const DEFAULT_BADGE_BG="#e5e7eb", DEFAULT_BADGE_FG="#111827";
 
-/* State & helpers */
+/* Helpers & state */
 const state = { rows:[], storkreds:"", kreds:"", activeParty:"", selected:new Map(), chart:null };
 const el = id => document.getElementById(id);
 const fmt = n => new Intl.NumberFormat("da-DK").format(n);
 const canon = s => (s||"").toString().trim();
 const escapeHtml = s => (s||"").replace(/[&<>"]/g, c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-const isListestemmer = name => canon(name).toLowerCase()==="partiliste" || canon(name).toLowerCase()==="listestemmer" || canon(name).toLowerCase()==="liste";
-
-/* Rens valgstedsnavne: fjern ledende tal + punktum (fx "1. ") og trim */
+const isListestemmer = name => {
+  const t = canon(name).toLowerCase();
+  return t==="partiliste" || t==="listestemmer" || t==="liste";
+};
 const cleanPollingPlaceName = (name) => canon(name).replace(/^\s*\d+\.\s*/,'').trim();
 
-/* Alfabetisk kandidat-sortering – “Partiliste” altid nederst */
 const sortKandidaterAlpha = (a,b)=>{
   const al=isListestemmer(a.kandidat_navn), bl=isListestemmer(b.kandidat_navn);
   if(al&&!bl) return 1; if(!al&&bl) return -1;
@@ -265,7 +262,7 @@ async function loadKredsData(storkreds,kreds){
   const candidates=[
     `${BASE_PATH}${s}/${k}_allepartier.csv`,
     `${BASE_PATH}${s}/${k}.csv`,
-    `${BASE_PATH}${s}_allepartier.csv`,      // fallback: samlet for storkredsen
+    `${BASE_PATH}${s}_allepartier.csv`,
     `${BASE_PATH}${s}.csv`
   ];
   for(const url of candidates){
@@ -284,28 +281,35 @@ async function loadStorkredsData(storkreds){
   el("error").textContent=`Kunne ikke finde data for ${storkreds}.`;
 }
 
-/* CSV-parse + normalisering */
+/* CSV-parse + normalisering
+   >>> VIGTIGT: kandidat_id gøres parti-specifikt, så "Partiliste" ikke blandes på tværs af partier. */
 function parseCsv(text){
   const res=Papa.parse(text,{header:true,skipEmptyLines:true,transformHeader:h=>canon(h.toLowerCase())});
   state.rows=res.data.map(r=>{
-    // Normalisér kandidatnavn for at samle alle listestemmer ét sted
+    // Kandidatnavn – saml varianter af listestemmer i én label
     let kandidatNavn = canon(r.kandidat_navn);
     const navnLower = kandidatNavn.toLowerCase();
     if (navnLower==="partiliste" || navnLower==="listestemmer" || navnLower==="liste") {
       kandidatNavn = "Partiliste";
     }
-    // Parti-bogstav
+
+    // Parti-navn & parti-bogstav
+    const parti = canon(r.parti);
     const rawLetter = r.parti_bogstav || r.bogstav || r.parti_kode || r['parti (bogstav)'] || r.listebogstav;
     const L = canon(rawLetter).toUpperCase();
     const parti_letter = /^[A-ZÆØÅ]$/.test(L) ? L : "";
 
+    // Parti-specifikt kandidat-id (så “Partiliste” ikke summerer på tværs af partier)
+    const kandidat_id =
+      `${parti.toLowerCase()}::${kandidatNavn.toLowerCase()}`;
+
     return {
       storkreds: canon(r.storkreds || r.kreds || r.kommune),
-      valgsted_id: canon(r.valgsted_id || r.afstemningssted_id || r.sted_id),
+      valgsted_id: canon(r.valgsted_id || r.afstemningssted_id || r.sted_id || `${cleanPollingPlaceName(r.valgsted_navn||r.afstemningssted||r.sted_navn)}`),
       valgsted_navn: cleanPollingPlaceName(r.valgsted_navn || r.afstemningssted || r.sted_navn),
-      kandidat_id: canon(r.kandidat_id || kandidatNavn), // falder tilbage til navn
+      kandidat_id,
       kandidat_navn: kandidatNavn,
-      parti: canon(r.parti),
+      parti,
       parti_letter,
       stemmer: Number(r.stemmer||0)||0
     };
@@ -473,7 +477,6 @@ function getPollingStations(){
     ps.navn = navn; // sikre renset navn
     ps[r.kandidat_id]=(ps[r.kandidat_id]||0)+r.stemmer;
   }
-  // alfabetisk på navn
   return Array.from(m.values()).sort((a,b)=>a.navn.localeCompare(b.navn,"da"));
 }
 function renderPsTable(psList, sel){
