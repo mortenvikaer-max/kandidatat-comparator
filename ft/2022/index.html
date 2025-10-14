@@ -137,27 +137,18 @@ const STORKREDSE = [
   "Østjyllands Storkreds"
 ];
 
-/* KREDS pr. storkreds – UDFYLDT for dem, du allerede har filer til */
+/* KREDS pr. storkreds – udfyldt for dem du allerede bruger */
 const KREDS_BY_STORKREDS = {
-  /* Bornholm (du har Rønne + Aakirkeby) */
-  "Bornholms Storkreds": [
-    "Rønnekredsen","Aakirkebykredsen"
-  ],
-
-  /* Fyn (du uploadede disse som xlsx – navne uden underscore i CSV’erne) */
+  "Bornholms Storkreds": [ "Rønnekredsen","Aakirkebykredsen" ],
   "Fyns Storkreds": [
     "Assenskredsen","Faaborgkredsen","Middelfartkredsen","Nyborgkredsen",
     "Odense Østkredsen","Odense Vestkredsen","Odense Sydkredsen","Svendborgkredsen"
   ],
-
-  /* Københavns Omegn (du uploadede disse) */
   "Københavns Omegns Storkreds": [
     "Ballerupkredsen","Brøndbykredsen","Gentoftekredsen","Gladsaxekredsen",
     "Hvidovrekredsen","Lyngbykredsen","Rødovrekredsen","Taastrupkredsen"
   ],
-
-  /* Resten – udfyld når filer er på plads */
-  "Københavns Storkreds": [],
+  "Københavns Storkreds": [],   // autoload via __kredse.json hvis til stede
   "Nordjyllands Storkreds": [],
   "Nordsjællands Storkreds": [],
   "Sjællands Storkreds": [],
@@ -166,7 +157,7 @@ const KREDS_BY_STORKREDS = {
   "Østjyllands Storkreds": []
 };
 
-/* Partifarver & mapping (robust som KV-siden) */
+/* Partifarver & mapping */
 const PARTY_COLORS = {"A":"#e03a3e","B":"#712082","C":"#2e7d32","D":"#0f766e","F":"#e5003d","I":"#00a0e3","O":"#0044aa","V":"#1b5eaa","Ø":"#c8102e","Å":"#3aaa35","Q":"#ff4fa3","K":"#ff9800","Æ":"#666666"};
 const PARTY_LETTERS_BY_NAME = {
   "socialdemokratiet":"A",
@@ -180,7 +171,7 @@ const PARTY_LETTERS_BY_NAME = {
   "enhedslisten":"Ø","enhedslisten - de rød-grønne":"Ø",
   "alternativet":"Å",
   "kristendemokraterne":"K",
-  "moderaterne":"Q" /* bruger Q som midlertidig farve hvis ønsket */
+  "moderaterne":"Q"
 };
 const DEFAULT_BADGE_BG="#e5e7eb", DEFAULT_BADGE_FG="#111827";
 
@@ -190,9 +181,20 @@ const el = id => document.getElementById(id);
 const fmt = n => new Intl.NumberFormat("da-DK").format(n);
 const canon = s => (s||"").toString().trim();
 const escapeHtml = s => (s||"").replace(/[&<>"]/g, c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-const isListestemmer = name => canon(name).toLowerCase()==="partiliste" || canon(name).toLowerCase()==="listestemmer";
+/* Listestemmer: både "Partiliste" og "Listestemmer" behandles som liste */
+const isListestemmer = name => {
+  const t=canon(name).toLowerCase();
+  return t==="partiliste" || t==="listestemmer";
+};
+/* Alfabetisk efter kandidat; listestemmer nederst */
 const sortKandidaterAlpha = (a,b)=>{ const al=isListestemmer(a.kandidat_navn), bl=isListestemmer(b.kandidat_navn); if(al&&!bl) return 1; if(!al&&bl) return -1; return a.kandidat_navn.localeCompare(b.kandidat_navn,"da"); };
 function badge(letter){ const bg=letter?PARTY_COLORS[letter]:DEFAULT_BADGE_BG, fg=letter?"#fff":DEFAULT_BADGE_FG; return { style:`background-color:${bg};color:${fg};border-color:${bg}`, text:(letter||" ") }; }
+
+/* NYT: Rens valgstedsnavn for foranstillet tal/punktum, og trim */
+function cleanValgstedName(name){
+  // Fjerner fx "1. ", "10. ", "7 ", "07. " forrest
+  return canon(name).replace(/^\s*\d+\s*\.?\s*/,'');
+}
 
 /* Init */
 window.addEventListener("DOMContentLoaded", ()=>{
@@ -223,8 +225,30 @@ function initStorkredsDropdown(){
   el("kredsSelect").disabled=true;
 }
 
-function populateKredse(storkreds){
-  const ks = KREDS_BY_STORKREDS[storkreds] || [];
+/* Autoload kredsliste fra __kredse.json når KREDS_BY_STORKREDS er tom for en storkreds */
+async function tryLoadKredseIndex(storkreds){
+  const s = encodeURIComponent(storkreds);
+  const url = `${BASE_PATH}${s}/__kredse.json`;
+  try{
+    const r = await fetch(url,{cache:"no-store"});
+    if(!r.ok) return null;
+    const arr = await r.json();
+    if(Array.isArray(arr) && arr.length){
+      KREDS_BY_STORKREDS[storkreds] = arr;
+      return arr;
+    }
+  }catch(e){}
+  return null;
+}
+
+async function populateKredse(storkreds){
+  let ks = KREDS_BY_STORKREDS[storkreds] || [];
+
+  if(!ks.length){
+    const loaded = await tryLoadKredseIndex(storkreds);
+    if(Array.isArray(loaded)) ks = loaded;
+  }
+
   const ksel = el("kredsSelect");
   if(ks.length){
     ksel.disabled=false;
@@ -240,10 +264,11 @@ function populateKredse(storkreds){
     };
     el("error").textContent = "";
   }else{
-    // Ingen kredse listet endnu for denne storkreds
     ksel.disabled=true;
     ksel.innerHTML=`<option value="">(Ingen kredse angivet endnu)</option>`;
-    el("error").textContent=`Tilføj kredse i KREDS_BY_STORKREDS for “${storkreds}” eller læg en samlet fil: ${storkreds}_allepartier.csv`;
+    el("error").innerHTML =
+      `Tilføj kredse i KREDS_BY_STORKREDS for “${storkreds}”, eller læg en indeksfil: <code>__kredse.json</code> i mappen <code>${BASE_PATH}${storkreds}/</code> ` +
+      `med fx <code>["Østerbrokredsen","Nørrebroskredsen"]</code>. Alternativt kan du lægge en samlet fil: <code>${storkreds}_allepartier.csv</code>.`;
   }
 }
 
@@ -285,13 +310,19 @@ function parseCsv(text){
     const rawLetter = r.parti_bogstav || r.bogstav || r.parti_kode || r['parti (bogstav)'] || r.listebogstav;
     const L = canon(rawLetter).toUpperCase();
     const parti_letter = /^[A-ZÆØÅ]$/.test(L) ? L : "";
-    // Valgsted-ID: brug evt. kolonner som ikke er i dine filer, men uden at fejle
-    const valgsted_id = canon(r.valgsted_id || r.afstemningssted_id || r.sted_id || r.valgsted || r.afstemningssted || r['afstemningssted nr.'] || r['valgsted nr.'] || r.valgsted_nr);
-    const valgsted_navn = canon(r.valgsted_navn || r.afstemningssted || r.sted_navn || r.valgsted || r['afstemningssted navn'] || r['valgsted navn'] || r.afstemningssted_navn);
+    const valgsted_id = canon(
+      r.valgsted_id || r.afstemningssted_id || r.sted_id ||
+      r.valgsted || r.afstemningssted || r['afstemningssted nr.'] || r['valgsted nr.'] || r.valgsted_nr
+    );
+    const valgsted_navn_raw = canon(
+      r.valgsted_navn || r.afstemningssted || r.sted_navn || r.valgsted ||
+      r['afstemningssted navn'] || r['valgsted navn'] || r.afstemningssted_navn
+    );
+    const valgsted_navn = cleanValgstedName(valgsted_navn_raw || valgsted_id);
     return {
       storkreds: canon(r.storkreds || r.kreds || r.kommune),
-      valgsted_id: valgsted_id || valgsted_navn,   // fallback så rækker grupperes separat
-      valgsted_navn: valgsted_navn || valgsted_id, // fallback til visning
+      valgsted_id: valgsted_id || valgsted_navn,   // id som fallback
+      valgsted_navn,                                // VIS altid den rensede udgave
       kandidat_id: canon(r.kandidat_id || r.kandidat_navn),
       kandidat_navn: canon(r.kandidat_navn),
       parti: canon(r.parti),
@@ -393,7 +424,14 @@ function renderPartyDetail(parti){
 }
 
 /* Render alt / tabel / diagram */
-function renderAll(){ renderSelected(); renderPsTable(getPollingStations(), getSelectedOrdered()); renderChart(); const hasSel=getSelected().length>0; el("compareSection").classList.toggle("hidden",!hasSel); el("tabsCard").classList.toggle("hidden",!hasSel); }
+function renderAll(){
+  renderSelected();
+  renderPsTable(getPollingStations(), getSelectedOrdered());
+  renderChart();
+  const hasSel=getSelected().length>0;
+  el("compareSection").classList.toggle("hidden",!hasSel);
+  el("tabsCard").classList.toggle("hidden",!hasSel);
+}
 function stemmerLabel(n){ return n===1 ? "stemme" : "stemmer"; }
 function computeTotalsByCandidate(){ const m=new Map(); for(const r of state.rows) m.set(r.kandidat_id,(m.get(r.kandidat_id)||0)+r.stemmer); return m; }
 function renderSelected(){
@@ -418,13 +456,17 @@ window.removeCandidate = id => { state.selected.delete(id); renderAll(); };
 const getSelected = () => Array.from(state.selected.values());
 const getSelectedOrdered = () => { const s=getSelected().slice(); s.sort(sortKandidaterAlpha); return s; };
 
+/* Saml valgsteder – sortér alfabetisk på renset navn, og vis renset navn */
 function getPollingStations(){
   const m=new Map();
   for(const r of state.rows){
-    if(!m.has(r.valgsted_id)) m.set(r.valgsted_id,{id:r.valgsted_id,navn:r.valgsted_navn});
+    if(!m.has(r.valgsted_id)){
+      m.set(r.valgsted_id,{ id:r.valgsted_id, navn:r.valgsted_navn });
+    }
     const ps=m.get(r.valgsted_id);
     ps[r.kandidat_id]=(ps[r.kandidat_id]||0)+r.stemmer;
   }
+  // Sortér på det viste (rensede) navn
   return Array.from(m.values()).sort((a,b)=>a.navn.localeCompare(b.navn,"da"));
 }
 
