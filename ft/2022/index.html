@@ -22,7 +22,7 @@
     .vb-combo-label{ display:flex; align-items:center; gap:.75rem; min-width:0; }
     .vb-badge{ height:28px; width:28px; display:inline-flex; align-items:center; justify-content:center;
                border-radius:9999px; border:1px solid transparent; font-weight:600; font-size:.9rem; }
-    /* Menu: gør den bredere end knappen og tillad linjeskift, så navne ikke afkortes */
+    /* Menu bredde + wrap, så kredsnavne ikke afkortes */
     .vb-menu{ position:absolute; z-index:50; margin-top:.25rem; width:max-content; min-width:16rem;
               max-height:18rem; overflow:auto; background:#fff; border:1px solid #e5e7eb;
               border-radius:12px; box-shadow:0 8px 24px rgba(0,0,0,.08); }
@@ -31,6 +31,9 @@
     .vb-option:hover, .vb-option[aria-selected="true"]{ background:#f3f4f6; }
     .table-sticky thead th:first-child, .table-sticky tbody td:first-child, .table-sticky tfoot th:first-child{ position:sticky; left:0; background:#fff; }
     .vb-hero{ background:linear-gradient(180deg, var(--vb-navy) 0%, var(--vb-navy-2) 100%); color:#fff; }
+
+    /* TYDELIG GRUPPESEPARATOR MELLEM KREDSE */
+    .kreds-divider { padding:0; line-height:0; height:0; border-top:3px solid #111827; }
   </style>
 </head>
 
@@ -517,7 +520,7 @@ window.removeCandidate = id => { state.selected.delete(id); renderAll(); };
 const getSelected = () => Array.from(state.selected.values());
 const getSelectedOrdered = () => { const s=getSelected().slice(); s.sort(sortKandidaterAlpha); return s; };
 
-/* Valgsteder – nu med kreds-kolonne; aggregerer over aktive rækker */
+/* Valgsteder – aggregerer over aktive rækker og markerer kredsskift */
 function getPollingStations(){
   const rows = getActiveRows();
   const m=new Map();
@@ -536,6 +539,7 @@ function getPollingStations(){
 function renderPsTable(psList, sel){
   const thead=el("psThead"), tbody=el("psTbody"), tfoot=el("psTFoot");
   if(!sel.length){ thead.innerHTML=`<tr><th class="text-left py-2 pr-3">Valgsted</th><th class="text-left py-2 pr-3">Kreds</th></tr>`; tbody.innerHTML=""; tfoot.innerHTML=""; return; }
+
   const header = sel.map(s=>{
     const stat = getPartyStats().find(x=>x.parti===s.parti);
     const bd = badge(stat?.letter || null);
@@ -548,11 +552,26 @@ function renderPsTable(psList, sel){
       <th class="py-2 pr-3">Kreds</th>
       ${header}
     </tr>`;
-  tbody.innerHTML=psList.map(ps=>`<tr class="border-b last:border-0">
-    <td class="py-2 pr-3 font-medium">${escapeHtml(ps.navn)}</td>
-    <td class="py-2 pr-3">${escapeHtml(ps.kreds || "")}</td>
-    ${sel.map(s=>`<td class="py-2 pr-3 tabular-nums">${fmt(ps[s.kandidat_id]||0)}</td>`).join("")}
-  </tr>`).join("");
+
+  // Build rows med tydelig separator ved kredsskift
+  const colspan = 2 + sel.length;
+  let prevKreds = null;
+  const rowsHtml = [];
+  for(const ps of psList){
+    if(prevKreds !== null && ps.kreds !== prevKreds){
+      rowsHtml.push(`<tr><td class="kreds-divider" colspan="${colspan}"></td></tr>`);
+    }
+    rowsHtml.push(
+      `<tr class="border-b last:border-0">
+        <td class="py-2 pr-3 font-medium">${escapeHtml(ps.navn)}</td>
+        <td class="py-2 pr-3">${escapeHtml(ps.kreds || "")}</td>
+        ${sel.map(s=>`<td class="py-2 pr-3 tabular-nums">${fmt(ps[s.kandidat_id]||0)}</td>`).join("")}
+      </tr>`
+    );
+    prevKreds = ps.kreds;
+  }
+  tbody.innerHTML = rowsHtml.join("");
+
   const totals=computeTotalsByCandidate();
   tfoot.innerHTML=`<tr class="border-t">
     <th class="py-2 pr-3 text-left">Samlet</th>
@@ -609,11 +628,9 @@ function setupAddKredsUI(){
     const already = new Set([state.kreds, ...state.selectedKredse]);
     const options = all.filter(k=>k && !already.has(k));
 
-    // “Vælg alle kredse” øverst, kun hvis der er noget at vælge
+    // “Vælg alle kredse”
     const selectAll = options.length
-      ? `<div class="vb-option" role="option" data-kreds="__ALL__">
-           <strong>Vælg alle kredse</strong>
-         </div><hr class="my-1 border-gray-200">`
+      ? `<div class="vb-option" role="option" data-kreds="__ALL__"><strong>Vælg alle kredse</strong></div><hr class="my-1 border-gray-200">`
       : '';
 
     addKredsMenu.innerHTML = selectAll + (
@@ -629,8 +646,7 @@ function setupAddKredsUI(){
         const v = opt.getAttribute('data-kreds');
         try{
           if(v === '__ALL__'){
-            // Tilføj alle på én gang
-            const toAdd = options.slice(); // alle resterende
+            const toAdd = options.slice();
             await Promise.all(toAdd.map(k=>loadRowsForKreds(state.storkreds, k).catch(()=>null)));
             toAdd.forEach(k=>state.selectedKredse.add(k));
           }else{
