@@ -22,10 +22,12 @@
     .vb-combo-label{ display:flex; align-items:center; gap:.75rem; min-width:0; }
     .vb-badge{ height:28px; width:28px; display:inline-flex; align-items:center; justify-content:center;
                border-radius:9999px; border:1px solid transparent; font-weight:600; font-size:.9rem; }
-    .vb-menu{ position:absolute; z-index:50; margin-top:.25rem; width:100%;
+    /* Menu: gør den bredere end knappen og tillad linjeskift, så navne ikke afkortes */
+    .vb-menu{ position:absolute; z-index:50; margin-top:.25rem; width:max-content; min-width:16rem;
               max-height:18rem; overflow:auto; background:#fff; border:1px solid #e5e7eb;
               border-radius:12px; box-shadow:0 8px 24px rgba(0,0,0,.08); }
     .vb-option{ display:flex; align-items:center; gap:.75rem; padding:.5rem .75rem; cursor:pointer; }
+    .vb-option span{ white-space:normal; word-break:break-word; }
     .vb-option:hover, .vb-option[aria-selected="true"]{ background:#f3f4f6; }
     .table-sticky thead th:first-child, .table-sticky tbody td:first-child, .table-sticky tfoot th:first-child{ position:sticky; left:0; background:#fff; }
     .vb-hero{ background:linear-gradient(180deg, var(--vb-navy) 0%, var(--vb-navy-2) 100%); color:#fff; }
@@ -44,7 +46,7 @@
   <div class="mx-auto max-w-6xl px-4 pb-8">
     <div class="text-white/80 text-base md:text-lg">
       Vælg først en <strong>storkreds</strong> og derefter en <strong>kreds</strong>.  
-      Under “Sammenligning af kandidater” kan du nu <strong>tilføje ekstra kredse</strong> til visningen.
+      Under “Sammenligning af kandidater” kan du <strong>tilføje ekstra kredse</strong> til visningen.
     </div>
 
     <div class="mt-6 grid grid-cols-1 md:grid-cols-3 gap-3">
@@ -97,7 +99,7 @@
       <button id="btnClearAll" class="vb-btn">Nulstil alle valgte kandidater</button>
     </div>
 
-    <!-- NY: Tilføj/fjern kredse her -->
+    <!-- Tilføj/fjern kredse -->
     <div class="flex flex-wrap items-center gap-2">
       <div class="relative">
         <button id="btnAddKreds" class="vb-btn" aria-haspopup="listbox" aria-expanded="false">Tilføj kreds</button>
@@ -137,60 +139,32 @@ const BASE_PATH = '../../data/ft/2022/';
 
 /* Storkredse */
 const STORKREDSE = [
-  "Bornholms Storkreds",
-  "Fyns Storkreds",
-  "Københavns Omegns Storkreds",
-  "Københavns Storkreds",
-  "Nordjyllands Storkreds",
-  "Nordsjællands Storkreds",
-  "Sjællands Storkreds",
-  "Sydjyllands Storkreds",
-  "Vestjyllands Storkreds",
-  "Østjyllands Storkreds"
+  "Bornholms Storkreds","Fyns Storkreds","Københavns Omegns Storkreds","Københavns Storkreds",
+  "Nordjyllands Storkreds","Nordsjællands Storkreds","Sjællands Storkreds","Sydjyllands Storkreds",
+  "Vestjyllands Storkreds","Østjyllands Storkreds"
 ];
 
 /* Kredse – udfyldt for Bornholm + Københavns Storkreds */
 const KREDS_BY_STORKREDS = {
   "Bornholms Storkreds": ["Rønnekredsen","Aakirkebykredsen"],
   "Københavns Storkreds": [
-    "Bispebjergkredsen",
-    "Brønshøjkredsen",
-    "Falkonerkredsen",
-    "Indre_Bykredsen",
-    "Nørrebrokredsen",
-    "Slotskredsen",
-    "Sundbyvesterkredsen",
-    "Sundbyøsterkredsen",
-    "Tårnbykredsen",
-    "Valbykredsen",
-    "Vesterbrokredsen",
-    "Østerbrokredsen"
+    "Bispebjergkredsen","Brønshøjkredsen","Falkonerkredsen","Indre_Bykredsen","Nørrebrokredsen",
+    "Slotskredsen","Sundbyvesterkredsen","Sundbyøsterkredsen","Tårnbykredsen","Valbykredsen",
+    "Vesterbrokredsen","Østerbrokredsen"
   ],
-  "Fyns Storkreds": [],
-  "Københavns Omegns Storkreds": [],
-  "Nordjyllands Storkreds": [],
-  "Nordsjællands Storkreds": [],
-  "Sjællands Storkreds": [],
-  "Sydjyllands Storkreds": [],
-  "Vestjyllands Storkreds": [],
-  "Østjyllands Storkreds": []
+  "Fyns Storkreds": [], "Københavns Omegns Storkreds": [], "Nordjyllands Storkreds": [],
+  "Nordsjællands Storkreds": [], "Sjællands Storkreds": [], "Sydjyllands Storkreds": [],
+  "Vestjyllands Storkreds": [], "Østjyllands Storkreds": []
 };
 
 /* Farver/bogstaver */
 const PARTY_COLORS = {"A":"#e03a3e","B":"#712082","C":"#2e7d32","D":"#0f766e","F":"#e5003d","I":"#00a0e3","O":"#0044aa","V":"#1b5eaa","Ø":"#c8102e","Å":"#3aaa35","Q":"#ff4fa3","K":"#ff9800","Æ":"#666666","M":"#6f42c1"};
 const PARTY_LETTERS_BY_NAME = {
-  "socialdemokratiet":"A",
-  "radikale venstre":"B","det radikale venstre":"B",
-  "konservative folkeparti":"C","det konservative folkeparti":"C",
-  "nye borgerlige":"D",
-  "sf":"F","socialistisk folkeparti":"F",
-  "liberal alliance":"I",
-  "venstre, danmarks liberale parti":"V","venstre":"V",
-  "dansk folkeparti":"O",
-  "enhedslisten":"Ø","enhedslisten - de rød-grønne":"Ø",
-  "alternativet":"Å",
-  "kristendemokraterne":"K","kd - kristendemokraterne":"K",
-  "moderaterne":"M"
+  "socialdemokratiet":"A","radikale venstre":"B","det radikale venstre":"B",
+  "konservative folkeparti":"C","det konservative folkeparti":"C","nye borgerlige":"D",
+  "sf":"F","socialistisk folkeparti":"F","liberal alliance":"I","venstre, danmarks liberale parti":"V","venstre":"V",
+  "dansk folkeparti":"O","enhedslisten":"Ø","enhedslisten - de rød-grønne":"Ø","alternativet":"Å",
+  "kristendemokraterne":"K","kd - kristendemokraterne":"K","moderaterne":"M"
 };
 const DEFAULT_BADGE_BG="#e5e7eb", DEFAULT_BADGE_FG="#111827";
 
@@ -229,7 +203,7 @@ window.addEventListener("DOMContentLoaded", ()=>{
     el("storkredsSelect").value=s; populateKredse(s);
     if(k && (KREDS_BY_STORKREDS[s]||[]).includes(k)){ el("kredsSelect").value=k; loadKredsData(s,k); }
   }
-  el("btnClearAll")?.addEventListener('click', ()=>{ state.selected.clear(); /* behold evt. ekstra kredse */ renderAll(); });
+  el("btnClearAll")?.addEventListener('click', ()=>{ state.selected.clear(); renderAll(); });
   document.addEventListener('click',(e)=>{ const box=el('partyCombo'); if(box && !box.contains(e.target)) closePartyMenu(); });
 
   // Add Kreds UI handlers
@@ -304,20 +278,15 @@ async function loadStorkredsData(storkreds){
 function parseCsv(text, kredsNameOverride=null){
   const res=Papa.parse(text,{header:true,skipEmptyLines:true,transformHeader:h=>canon(h.toLowerCase())});
   state.rows=res.data.map(r=>{
-    // Kandidatnavn – saml varianter af listestemmer i én label
     let kandidatNavn = canon(r.kandidat_navn);
     const navnLower = kandidatNavn.toLowerCase();
-    if (navnLower==="partiliste" || navnLower==="listestemmer" || navnLower==="liste") {
-      kandidatNavn = "Partiliste";
-    }
+    if (navnLower==="partiliste" || navnLower==="listestemmer" || navnLower==="liste") kandidatNavn = "Partiliste";
 
-    // Parti-navn & parti-bogstav
     const parti = canon(r.parti);
     const rawLetter = r.parti_bogstav || r.bogstav || r.parti_kode || r['parti (bogstav)'] || r.listebogstav;
     const L = canon(rawLetter).toUpperCase();
     const parti_letter = /^[A-ZÆØÅ]$/.test(L) ? L : "";
 
-    // Parti-specifikt kandidat-id
     const kandidat_id = `${parti.toLowerCase()}::${kandidatNavn.toLowerCase()}`;
 
     return {
@@ -334,7 +303,7 @@ function parseCsv(text, kredsNameOverride=null){
   });
 }
 
-/* ====== NY: ekstra kredse – loader + cache ====== */
+/* ====== Ekstra kredse – loader + cache ====== */
 async function fetchCsvText(url){
   const r = await fetch(url, { cache:"no-store" });
   if(!r.ok) throw new Error("404");
@@ -450,7 +419,7 @@ function renderPartyCombobox(){
       const {style,text}=badge(s.letter); const sel=s.parti===state.activeParty;
       return `<div class="vb-option" role="option" data-parti="${escapeHtml(s.parti)}" aria-selected="${sel}">
                 <span class="vb-badge" style="${style}">${text}</span>
-                <span class="flex-1 truncate">${escapeHtml(s.parti)}</span>
+                <span class="flex-1">${escapeHtml(s.parti)}</span>
                 <span class="text-xs text-gray-500">${s.kandidatAntal} kandidater</span>
               </div>`;
     }).join("");
@@ -615,7 +584,7 @@ function initTabs(){
   });
 }
 
-/* ====== NY: “Tilføj kreds” UI ====== */
+/* ====== “Tilføj kreds” UI ====== */
 function setupAddKredsUI(){
   const btnAddKreds = document.getElementById('btnAddKreds');
   const addKredsMenu = document.getElementById('addKredsMenu');
@@ -637,29 +606,41 @@ function setupAddKredsUI(){
 
   function renderAddKredsMenu(){
     const all = KREDS_BY_STORKREDS[state.storkreds] || [];
-    if(!all.length){
-      addKredsMenu.innerHTML = `<div class="p-2 text-sm text-gray-500">Ingen ekstra kredse</div>`;
-      return;
-    }
     const already = new Set([state.kreds, ...state.selectedKredse]);
-    const options = all.filter(k=>!already.has(k));
+    const options = all.filter(k=>k && !already.has(k));
 
-    addKredsMenu.innerHTML = options.map(k=>{
-      return `<div class="vb-option" role="option" data-kreds="${escapeHtml(k)}">
-                <span class="flex-1 truncate">${k.replaceAll('_',' ')}</span>
-              </div>`;
-    }).join('') || `<div class="p-2 text-sm text-gray-500">Alle kredse er tilføjet</div>`;
+    // “Vælg alle kredse” øverst, kun hvis der er noget at vælge
+    const selectAll = options.length
+      ? `<div class="vb-option" role="option" data-kreds="__ALL__">
+           <strong>Vælg alle kredse</strong>
+         </div><hr class="my-1 border-gray-200">`
+      : '';
+
+    addKredsMenu.innerHTML = selectAll + (
+      options.map(k=>{
+        return `<div class="vb-option" role="option" data-kreds="${escapeHtml(k)}">
+                  <span class="flex-1">${k.replaceAll('_',' ')}</span>
+                </div>`;
+      }).join('') || `<div class="p-2 text-sm text-gray-500">Ingen ekstra kredse</div>`
+    );
 
     addKredsMenu.querySelectorAll('.vb-option').forEach(opt=>{
       opt.onclick = async ()=>{
-        const k = opt.getAttribute('data-kreds');
+        const v = opt.getAttribute('data-kreds');
         try{
-          await loadRowsForKreds(state.storkreds, k); // cache
-          state.selectedKredse.add(k);
+          if(v === '__ALL__'){
+            // Tilføj alle på én gang
+            const toAdd = options.slice(); // alle resterende
+            await Promise.all(toAdd.map(k=>loadRowsForKreds(state.storkreds, k).catch(()=>null)));
+            toAdd.forEach(k=>state.selectedKredse.add(k));
+          }else{
+            await loadRowsForKreds(state.storkreds, v);
+            state.selectedKredse.add(v);
+          }
           renderExtraKredsChips();
           renderAll();
         }catch(e){
-          el("error").textContent = `Kunne ikke indlæse data for ${k}.`;
+          el("error").textContent = `Kunne ikke indlæse data.`;
         }finally{
           addKredsMenu.classList.add('hidden');
           btnAddKreds.setAttribute('aria-expanded','false');
