@@ -1,12 +1,12 @@
 name: Byg kredslister (DAWA)
 
 on:
-  workflow_dispatch: {}   # gør det muligt at køre workflowet manuelt
+  workflow_dispatch: {}        # Kør manuelt fra Actions-fanen
   schedule:
-    - cron: '0 3 1 * *'   # kør automatisk den 1. i hver måned kl. 03:00 UTC
+    - cron: '0 3 1 * *'        # Kør automatisk d. 1. hver måned kl. 03:00 UTC
 
 permissions:
-  contents: write         # giver workflowet lov til at committe ændringer
+  contents: write              # Giv lov til at committe ændringer
 
 jobs:
   build:
@@ -15,24 +15,31 @@ jobs:
     steps:
       - name: Tjek repo ud
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0       # God praksis når vi committer tilbage
 
       - name: Sæt op Node
         uses: actions/setup-node@v4
         with:
-          node-version: '20'    # nyere Node-version med fetch indbygget
+          node-version: '20'   # Node 20 har global fetch
 
-      - name: Kør fetch-kredse script
+      - name: Kør fetch-kredse script (2015 & 2019)
         run: node scripts/fetch-kredse.mjs
 
-      - name: Commit og push (kun hvis der er ændringer)
+      - name: Vis genererede filer
+        run: |
+          echo "== 2015 ==" && ls -la data/ft/2015/meta || true
+          echo "== 2019 ==" && ls -la data/ft/2019/meta || true
+
+      # Commit og push kun hvis der ER ændringer
+      - name: Commit og push (kun ved ændringer)
         run: |
           git config user.name "github-actions"
           git config user.email "actions@users.noreply.github.com"
           if [ -n "$(git status --porcelain)" ]; then
-            git add data/meta/
-            git commit -m "chore(data): opdater kredslister fra DAWA"
+            git add -A
+            git commit -m "chore(data): opdater kredslister fra DAWA (2015/2019)"
             git push
           else
-            echo "Ingen ændringer."
+            echo "Ingen ændringer at committe."
           fi
-
