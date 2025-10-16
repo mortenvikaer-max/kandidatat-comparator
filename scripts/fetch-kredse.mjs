@@ -1,21 +1,12 @@
-// Henter storkredse og opstillingskredse fra Dataforsyningen (DAWA/DAGI)
-// og genererer CSV-filer, der kan bruges til dropdowns i din valgside.
-// Ingen eksterne pakker – virker på GitHub Actions (Node 18/20 har global fetch).
-//
-// Output:
-//  - data/meta/kredse.csv (kolonner: storkreds,kreds)
-//  - data/meta/<Storkreds>_kredse.csv (kolonne: kreds)
-// Navne skrives med underscores (fx "Indre_Bykredsen"), så de matcher dine filstier.
-
 import { writeFile, mkdir } from "node:fs/promises";
 import { dirname } from "node:path";
 
 const STORKREDS_URL = "https://api.dataforsyningen.dk/storkredse?format=geojson";
 const OPKREDS_URL   = "https://api.dataforsyningen.dk/opstillingskredse?format=geojson";
-const OUT_DIR = "data/meta";
+const YEARS = [2015, 2019]; // 🟡 kun disse to år
+const BASE_DIR = "data/ft";
 
 function slugifyName(name){
-  // erstatter mellemrum med underscore og fjerner evt. dobbelte underscores
   return (name||"")
     .replace(/\s+/g, "_")
     .replace(/__/g, "_")
@@ -49,14 +40,12 @@ async function run(){
   const storkFeatures = stork.features || [];
   const opFeatures    = op.features || [];
 
-  // Map storkredsnummer -> navn
   const storkMap = new Map();
   for(const f of storkFeatures){
     const p = f.properties || {};
     storkMap.set(p.nummer, p.navn);
   }
 
-  // Saml opstillingskredse pr. storkredsnummer
   const byStork = new Map();
   for(const f of opFeatures){
     const p = f.properties || {};
@@ -66,28 +55,30 @@ async function run(){
     byStork.get(snr).push(name);
   }
 
-  // Skriv samlet CSV
-  const allRows = [];
-  for(const [snr, sname] of storkMap.entries()){
-    const kredse = (byStork.get(snr) || []).slice().sort((a,b)=>a.localeCompare(b,"da"));
-    for(const k of kredse){
-      allRows.push({ storkreds: slugifyName(sname), kreds: slugifyName(k) });
+  // Generér filer for hver af de ønskede år
+  for (const year of YEARS) {
+    const OUT_DIR = `${BASE_DIR}/${year}/meta`;
+    const allRows = [];
+
+    for(const [snr, sname] of storkMap.entries()){
+      const kredse = (byStork.get(snr) || []).slice().sort((a,b)=>a.localeCompare(b,"da"));
+      for(const k of kredse){
+        allRows.push({ storkreds: slugifyName(sname), kreds: slugifyName(k) });
+      }
     }
-  }
-  await writeCSV(`${OUT_DIR}/kredse.csv`, allRows, ["storkreds","kreds"]);
+    await writeCSV(`${OUT_DIR}/kredse.csv`, allRows, ["storkreds","kreds"]);
 
-  // Skriv per storkreds CSV
-  for(const [snr, sname] of storkMap.entries()){
-    const kredse = (byStork.get(snr) || []).slice().sort((a,b)=>a.localeCompare(b,"da"));
-    const rows = kredse.map(k=>({ kreds: slugifyName(k) }));
-    await writeCSV(`${OUT_DIR}/${slugifyName(sname)}_kredse.csv`, rows, ["kreds"]);
-  }
+    for(const [snr, sname] of storkMap.entries()){
+      const kredse = (byStork.get(snr) || []).slice().sort((a,b)=>a.localeCompare(b,"da"));
+      const rows = kredse.map(k=>({ kreds: slugifyName(k) }));
+      await writeCSV(`${OUT_DIR}/${slugifyName(sname)}_kredse.csv`, rows, ["kreds"]);
+    }
 
-  console.log(`Skrev ${allRows.length} rækker til ${OUT_DIR}/kredse.csv og ${storkMap.size} per-storkreds-filer.`);
+    console.log(`✅ Skrev kredslister til ${OUT_DIR}`);
+  }
 }
 
 run().catch(err=>{
   console.error(err);
   process.exit(1);
 });
-
