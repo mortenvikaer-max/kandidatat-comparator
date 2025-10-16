@@ -1,4 +1,4 @@
-name: Hent FT 2015/2019 fra valg.dk og byg CSV
+name: Hent FT 2015/2019 fra valg.dk og byg CSV (robust)
 
 on:
   workflow_dispatch: {}
@@ -18,40 +18,88 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Installer lftp (SFTP klient)
-        run: sudo apt-get update && sudo apt-get install -y lftp
+      - name: Installer tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y lftp netcat-openbsd
 
-      - name: Spejl FT 2015 og 2019 (hurtig version uden søgning)
+      - name: Definér år og mappenavne
+        id: cfg
+        run: |
+          echo "DIR2015=Folketingsvalg-8b9462dd-2bb6-40f7-b160-2a625665124b-2015-06-18" >> $GITHUB_OUTPUT
+          echo "DIR2019=Folketingsvalg-847cec19-05ff-4eff-b433-f0e886b24b7d-2019-06-05" >> $GITHUB_OUTPUT
+
+      - name: Tjek om SFTP-port 22 er åben (hurtig test)
+        id: sftpcheck
+        continue-on-error: true
+        run: |
+          echo "Tester TCP 22 til data.valg.dk ..."
+          nc -z -w 5 data.valg.dk 22 && echo "ok" || (echo "closed"; exit 1)
+
+      - name: Afbryd pænt hvis SFTP er lukket
+        if: steps.sftpcheck.outcome == 'failure'
+        run: |
+          echo "::warning ::SFTP på data.valg.dk svarer ikke (port 22 lukket). Prøv igen senere."
+          echo "Springer download/byg over for denne kørsel."
+          exit 0
+
+      - name: Spejl FT 2019 (med retry/backoff)
+        env:
+          DIR: ${{ steps.cfg.outputs.DIR2019 }}
         run: |
           set -euo pipefail
+          mkdir -p data/raw/ft/2019
 
-          DIR2015="Folketingsvalg-8b9462dd-2bb6-40f7-b160-2a625665124b-2015-06-18"
-          DIR2019="Folketingsvalg-847cec19-05ff-4eff-b433-f0e886b24b7d-2019-06-05"
+          tries=0
+          until [ $tries -ge 20 ]; do
+            echo "== Spejler 2019 (forsøg $((tries+1))) =="
+            if lftp -u "Valg","Valg" sftp://data.valg.dk -e "
+              set net:timeout 20; set net:max-retries 1; set sftp:auto-confirm yes;
+              mirror -c --verbose \"${DIR}/Valgresultater\" data/raw/ft/2019/Valgresultater;
+              bye
+            "; then
+              echo "2019: OK"
+              break
+            else
+              tries=$((tries+1))
+              echo "2019: fejl – venter og prøver igen ..."
+              sleep 30
+            fi
+          done
 
-          mkdir -p data/raw/ft/2015 data/raw/ft/2019
+          if [ $tries -ge 20 ]; then
+            echo "::warning ::Kunne ikke hente FT2019 efter flere forsøg. Fortsætter uden 2019."
+          fi
 
-          echo "== Spejler 2019 =="
-          lftp -u "Valg","Valg" sftp://data.valg.dk -e "
-            set net:timeout 25; set net:max-retries 2; set sftp:auto-confirm yes;
-            mirror -c --verbose \"${DIR2019}/Valgresultater\"         data/raw/ft/2019/Valgresultater;
-            # Kommentarer de næste linjer ud hvis du vil hente alt
-            # mirror -c --verbose \"${DIR2019}/Kandidatdata\"         data/raw/ft/2019/Kandidatdata || true;
-            # mirror -c --verbose \"${DIR2019}/Valggeografi\"         data/raw/ft/2019/Valggeografi;
-            # mirror -c --verbose \"${DIR2019}/Partistemmefordeling\" data/raw/ft/2019/Partistemmefordeling || true;
-            bye
-          "
+      - name: Spejl FT 2015 (med retry/backoff)
+        env:
+          DIR: ${{ steps.cfg.outputs.DIR2015 }}
+        run: |
+          set -euo pipefail
+          mkdir -p data/raw/ft/2015
 
-          echo "== Spejler 2015 =="
-          lftp -u "Valg","Valg" sftp://data.valg.dk -e "
-            set net:timeout 25; set net:max-retries 2; set sftp:auto-confirm yes;
-            mirror -c --verbose \"${DIR2015}/Valgresultater\"         data/raw/ft/2015/Valgresultater;
-            # mirror -c --verbose \"${DIR2015}/Kandidatdata\"         data/raw/ft/2015/Kandidatdata || true;
-            # mirror -c --verbose \"${DIR2015}/Valggeografi\"         data/raw/ft/2015/Valggeografi;
-            # mirror -c --verbose \"${DIR2015}/Partistemmefordeling\" data/raw/ft/2015/Partistemmefordeling || true;
-            bye
-          "
+          tries=0
+          until [ $tries -ge 20 ]; do
+            echo "== Spejler 2015 (forsøg $((tries+1))) =="
+            if lftp -u "Valg","Valg" sftp://data.valg.dk -e "
+              set net:timeout 20; set net:max-retries 1; set sftp:auto-confirm yes;
+              mirror -c --verbose \"${DIR}/Valgresultater\" data/raw/ft/2015/Valgresultater;
+              bye
+            "; then
+              echo "2015: OK"
+              break
+            else
+              tries=$((tries+1))
+              echo "2015: fejl – venter og prøver igen ..."
+              sleep 30
+            fi
+          done
 
-      - name: Vis rå filer (hurtigt overblik)
+          if [ $tries -ge 20 ]; then
+            echo "::warning ::Kunne ikke hente FT2015 efter flere forsøg. Fortsætter uden 2015."
+          fi
+
+      - name: Vis rå filer (overblik)
         run: |
           echo "== RAW 2019 ==" && find data/raw/ft/2019 -maxdepth 2 -type f | sort | head -n 40 || true
           echo "== RAW 2015 ==" && find data/raw/ft/2015 -maxdepth 2 -type f | sort | head -n 40 || true
@@ -62,7 +110,12 @@ jobs:
           node-version: '20'
 
       - name: Byg CSV’er (JSON -> CSV i dit format)
-        run: node scripts/build-ft-csv.mjs
+        run: |
+          if [ -d data/raw/ft/2015 ] || [ -d data/raw/ft/2019 ]; then
+            node scripts/build-ft-csv.mjs
+          else
+            echo "::warning ::Ingen rådata tilgængelige – skipper byg."
+          fi
 
       - name: Vis genererede CSV’er
         run: |
@@ -75,7 +128,7 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           if [ -n "$(git status --porcelain)" ]; then
             git add -A
-            git commit -m "chore(data): hent FT 2015/2019 fra valg.dk og byg CSV (hurtig version)"
+            git commit -m "chore(data): hent FT 2015/2019 fra valg.dk (robust) og byg CSV"
             git push
           else
             echo "Ingen ændringer at committe."
