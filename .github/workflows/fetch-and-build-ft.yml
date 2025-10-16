@@ -3,7 +3,7 @@ name: Hent FT 2015/2019 fra valg.dk og byg CSV
 on:
   workflow_dispatch: {}
   # schedule:
-  #   - cron: '0 4 1 * *'   # (valgfrit) kør månedligt kl 04:00 UTC
+  #   - cron: '0 4 1 * *'   # (valgfrit) kør månedligt kl. 04:00 UTC
 
 permissions:
   contents: write
@@ -21,48 +21,61 @@ jobs:
       - name: Installer lftp (SFTP klient)
         run: sudo apt-get update && sudo apt-get install -y lftp
 
-      # Hent FT 2019
-      - name: Spejl FT 2019 rådata fra SFTP
-        env:
-          HOST: ${{ secrets.VALG_SFTP_HOST }}
-          USER: ${{ secrets.VALG_SFTP_USER }}
-          PASS: ${{ secrets.VALG_SFTP_PASS }}
+      # Debug: list SFTP-roden og gem som artifact
+      - name: List alle top-mapper på SFTP (debug)
         run: |
-          set -e
-          mkdir -p data/raw/ft/2019
-          # Log ind og find den mappe på SFTP der indeholder "Folketingsvalg" og "2019"
-          lftp -u "$USER","$PASS" sftp://$HOST -e "
-            set net:timeout 20; set net:max-retries 2; set sftp:auto-confirm yes;
-            cls -1 | grep -i 'Folketingsvalg' | grep -E '2019' > /tmp/dirs19.txt;
-            test -s /tmp/dirs19.txt || (echo 'Kunne ikke finde FT2019 mappe på SFTP' && exit 1);
-            set mydir (cat /tmp/dirs19.txt | head -n1);
-            echo 'Valgt 2019 mappe: ' \${mydir};
-            mirror -c --verbose \${mydir}/Valgresultater         data/raw/ft/2019/Valgresultater;
-            mirror -c --verbose \${mydir}/Kandidatdata           data/raw/ft/2019/Kandidatdata || true;
-            mirror -c --verbose \${mydir}/Valggeografi           data/raw/ft/2019/Valggeografi;
-            mirror -c --verbose \${mydir}/Partistemmefordeling   data/raw/ft/2019/Partistemmefordeling || true;
+          lftp -u "Valg","Valg" sftp://data.valg.dk -e "cls -1; bye" | tee sftp_root_dirs.txt
+
+      - name: Upload SFTP root listing (artifact)
+        uses: actions/upload-artifact@v4
+        with:
+          name: sftp-root-listing
+          path: sftp_root_dirs.txt
+
+      # Robust søgning efter FT2019/FT2015 mapper + spejling
+      - name: Spejl FT 2019 og 2015 rådata fra SFTP (robust søgning)
+        run: |
+          set -euo pipefail
+
+          # Hvis du kender de præcise mappenavne, kan du hardcode dem her:
+          # DIR2019="Folketingsvalg-847cec19-05ff-4eff-b433-f0e886b24b7d-2019-06-05"
+          # DIR2015="Folketingsvalg-8b9462dd-2bb6-40f7-b160-2a625665124b-2015-06-18"
+
+          # Ellers: find første match i roden (vi matcher begge rækkefølger)
+          : "${DIR2019:=$( lftp -u "Valg","Valg" sftp://data.valg.dk -e "cls -1; bye" | \
+            grep -Ei 'Folketingsvalg.*2019|2019.*Folketingsvalg' | head -n1 || true )}"
+          : "${DIR2015:=$( lftp -u "Valg","Valg" sftp://data.valg.dk -e "cls -1; bye" | \
+            grep -Ei 'Folketingsvalg.*2015|2015.*Folketingsvalg' | head -n1 || true )}"
+
+          if [ -z "${DIR2019}" ]; then
+            echo "❌ Kunne ikke finde FT2019-mappe. Her er hele SFTP-roden:"; cat sftp_root_dirs.txt || true; exit 1
+          fi
+          if [ -z "${DIR2015}" ]; then
+            echo "❌ Kunne ikke finde FT2015-mappe. Her er hele SFTP-roden:"; cat sftp_root_dirs.txt || true; exit 1
+          fi
+
+          echo "✔️ Fundet FT2019 mappe: ${DIR2019}"
+          echo "✔️ Fundet FT2015 mappe: ${DIR2015}"
+
+          mkdir -p data/raw/ft/2019 data/raw/ft/2015
+
+          echo "== Spejler 2019 =="
+          lftp -u "Valg","Valg" sftp://data.valg.dk -e "
+            set net:timeout 25; set net:max-retries 2; set sftp:auto-confirm yes;
+            mirror -c --verbose \"${DIR2019}/Valgresultater\"         data/raw/ft/2019/Valgresultater;
+            mirror -c --verbose \"${DIR2019}/Kandidatdata\"           data/raw/ft/2019/Kandidatdata || true;
+            mirror -c --verbose \"${DIR2019}/Valggeografi\"           data/raw/ft/2019/Valggeografi;
+            mirror -c --verbose \"${DIR2019}/Partistemmefordeling\"   data/raw/ft/2019/Partistemmefordeling || true;
             bye
           "
 
-      # Hent FT 2015
-      - name: Spejl FT 2015 rådata fra SFTP
-        env:
-          HOST: ${{ secrets.VALG_SFTP_HOST }}
-          USER: ${{ secrets.VALG_SFTP_USER }}
-          PASS: ${{ secrets.VALG_SFTP_PASS }}
-        run: |
-          set -e
-          mkdir -p data/raw/ft/2015
-          lftp -u "$USER","$PASS" sftp://$HOST -e "
-            set net:timeout 20; set net:max-retries 2; set sftp:auto-confirm yes;
-            cls -1 | grep -i 'Folketingsvalg' | grep -E '2015' > /tmp/dirs15.txt;
-            test -s /tmp/dirs15.txt || (echo 'Kunne ikke finde FT2015 mappe på SFTP' && exit 1);
-            set mydir (cat /tmp/dirs15.txt | head -n1);
-            echo 'Valgt 2015 mappe: ' \${mydir};
-            mirror -c --verbose \${mydir}/Valgresultater         data/raw/ft/2015/Valgresultater;
-            mirror -c --verbose \${mydir}/Kandidatdata           data/raw/ft/2015/Kandidatdata || true;
-            mirror -c --verbose \${mydir}/Valggeografi           data/raw/ft/2015/Valggeografi;
-            mirror -c --verbose \${mydir}/Partistemmefordeling   data/raw/ft/2015/Partistemmefordeling || true;
+          echo "== Spejler 2015 =="
+          lftp -u "Valg","Valg" sftp://data.valg.dk -e "
+            set net:timeout 25; set net:max-retries 2; set sftp:auto-confirm yes;
+            mirror -c --verbose \"${DIR2015}/Valgresultater\"         data/raw/ft/2015/Valgresultater;
+            mirror -c --verbose \"${DIR2015}/Kandidatdata\"           data/raw/ft/2015/Kandidatdata || true;
+            mirror -c --verbose \"${DIR2015}/Valggeografi\"           data/raw/ft/2015/Valggeografi;
+            mirror -c --verbose \"${DIR2015}/Partistemmefordeling\"   data/raw/ft/2015/Partistemmefordeling || true;
             bye
           "
 
