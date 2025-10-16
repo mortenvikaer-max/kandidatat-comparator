@@ -37,17 +37,14 @@
 </head>
 
 <body class="bg-gray-50 text-gray-900">
-  <!-- HEADER (venstrestillet som undersiden) -->
+  <!-- HEADER -->
   <header class="vb-hero">
-    <!-- Logo venstre -->
     <div class="mx-auto max-w-6xl px-4 pt-8 pb-3">
       <a href="./" aria-label="Valgbar" class="inline-block">
-        <!-- Større logo -->
         <img src="Valgbar-transparent3.png" alt="Valgbar" class="h-28 md:h-32 w-auto" />
       </a>
     </div>
 
-    <!-- Intro-tekst venstre -->
     <div class="mx-auto max-w-6xl px-4 pb-8">
       <p class="text-white/95 text-sm md:text-base leading-relaxed">
         <strong>Valgbar</strong> har fokus på kandidater og viser, hvor mange stemmer en kandidat har modtaget i en kreds eller kommune fordelt på valgsteder.
@@ -55,7 +52,6 @@
       </p>
     </div>
 
-    <!-- Diskret bundlinje -->
     <div class="border-t border-white/20"></div>
   </header>
 
@@ -75,13 +71,13 @@
       ep: [2024, 2019, 2014]
     };
 
-    // Navigation: nu KV 2021, FT 2022, FT 2019 og FT 2015 aktive
+    // Brug relative stier så de virker i undermapper
     const DEST = {
-      kv: { perYear:{ 2021:'/kv/2021/index.html' } },
+      kv: { perYear:{ 2021:'kv/2021/' } },
       ft: { perYear:{
-        2022:'/ft/2022/index.html',
-        2019:'/ft/2019/index.html',
-        2015:'/ft/2015/index.html'
+        2022:'ft/2022/',
+        2019:'ft/2019/',
+        2015:'ft/2015/'
       }},
       rv: {},
       ep: {}
@@ -132,14 +128,12 @@
     });
 
     /* ====== INTERAKTION ====== */
-    // Accordion: klik på rækkens knap
     root.addEventListener('click', (e)=>{
       const btn = e.target.closest('[data-acc]');
       if(btn){
         const article = btn.closest('article');
         const open = article.classList.toggle('vb-open');
         btn.setAttribute('aria-expanded', open ? 'true' : 'false');
-        // Luk andre
         if(open){
           document.querySelectorAll('#list article.vb-open').forEach(el=>{
             if(el!==article){
@@ -151,7 +145,6 @@
       }
     });
 
-    // Tastatur (Enter/Space)
     root.addEventListener('keydown', (e)=>{
       const btn = e.target.closest('[data-acc]');
       if(btn && (e.key==='Enter' || e.key===' ')){
@@ -159,7 +152,6 @@
       }
     });
 
-    // År: kun navigér hvis aktiv, ellers pæn besked
     root.addEventListener('click', (e)=>{
       const link = e.target.closest('.vb-yearbtn');
       if(!link) return;
