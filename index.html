@@ -74,13 +74,19 @@
       rv: [2021, 2017, 2013],
       ep: [2024, 2019, 2014]
     };
-    // Navigation: nu både KV 2021 og FT 2022 aktive
+
+    // Navigation: nu KV 2021, FT 2022, FT 2019 og FT 2015 aktive
     const DEST = {
-      kv: { perYear:{ 2021:'kv/2021/' } },
-      ft: { perYear:{ 2022:'ft/2022/' } },
+      kv: { perYear:{ 2021:'/kv/2021/index.html' } },
+      ft: { perYear:{
+        2022:'/ft/2022/index.html',
+        2019:'/ft/2019/index.html',
+        2015:'/ft/2015/index.html'
+      }},
       rv: {},
       ep: {}
     };
+
     const TITLES = {
       ft:'Folketingsvalg', kv:'Kommunalvalg', rv:'Regionsrådsvalg', ep:'Europa-Parlamentsvalg'
     };
@@ -144,6 +150,7 @@
         }
       }
     });
+
     // Tastatur (Enter/Space)
     root.addEventListener('keydown', (e)=>{
       const btn = e.target.closest('[data-acc]');
