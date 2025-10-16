@@ -1,0 +1,49 @@
+# .github/workflows/fetch-valgdk.yml
+name: Hent FT 2015/2019 fra valg.dk (SFTP)
+
+on:
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Installér lftp
+        run: sudo apt-get update && sudo apt-get install -y lftp jq
+
+      - name: Spejl FT 2019 rådata fra SFTP
+        run: |
+          mkdir -p data/raw/ft/2019
+          lftp -u Valg,Valg sftp://data.valg.dk -e "
+            cls -1 | grep -i 'Folketingsvalg' | grep -E '2019' > /tmp/dirs19.txt;
+            cat /tmp/dirs19.txt;
+            # tag den første matchende mappe (typisk kun én for 2019)
+            set x:dirs (cat /tmp/dirs19.txt | head -n1);
+            mirror -c --verbose \${x:dirs}/Valgresultater   data/raw/ft/2019/Valgresultater;
+            mirror -c --verbose \${x:dirs}/Kandidatdata     data/raw/ft/2019/Kandidatdata;
+            mirror -c --verbose \${x:dirs}/Valggeografi     data/raw/ft/2019/Valggeografi;
+            mirror -c --verbose \${x:dirs}/Partistemmefordeling data/raw/ft/2019/Partistemmefordeling;
+            bye"
+
+      - name: Spejl FT 2015 rådata fra SFTP
+        run: |
+          mkdir -p data/raw/ft/2015
+          lftp -u Valg,Valg sftp://data.valg.dk -e "
+            cls -1 | grep -i 'Folketingsvalg' | grep -E '2015' > /tmp/dirs15.txt;
+            cat /tmp/dirs15.txt;
+            set x:dirs (cat /tmp/dirs15.txt | head -n1);
+            mirror -c --verbose \${x:dirs}/Valgresultater   data/raw/ft/2015/Valgresultater;
+            mirror -c --verbose \${x:dirs}/Kandidatdata     data/raw/ft/2015/Kandidatdata;
+            mirror -c --verbose \${x:dirs}/Valggeografi     data/raw/ft/2015/Valggeografi;
+            mirror -c --verbose \${x:dirs}/Partistemmefordeling data/raw/ft/2015/Partistemmefordeling;
+            bye"
+
+      - name: Vis rå filer
+        run: |
+          echo "== 2019 ==" && find data/raw/ft/2019 -maxdepth 2 -type f | head -n 20 || true
+          echo "== 2015 ==" && find data/raw/ft/2015 -maxdepth 2 -type f | head -n 20 || true
