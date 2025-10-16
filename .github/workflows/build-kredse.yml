@@ -1,1 +1,38 @@
+name: Byg kredslister (DAWA)
+
+on:
+  workflow_dispatch: {}   # gør det muligt at køre workflowet manuelt
+  schedule:
+    - cron: '0 3 1 * *'   # kør automatisk den 1. i hver måned kl. 03:00 UTC
+
+permissions:
+  contents: write         # giver workflowet lov til at committe ændringer
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Tjek repo ud
+        uses: actions/checkout@v4
+
+      - name: Sæt op Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'    # nyere Node-version med fetch indbygget
+
+      - name: Kør fetch-kredse script
+        run: node scripts/fetch-kredse.mjs
+
+      - name: Commit og push (kun hvis der er ændringer)
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@users.noreply.github.com"
+          if [ -n "$(git status --porcelain)" ]; then
+            git add data/meta/
+            git commit -m "chore(data): opdater kredslister fra DAWA"
+            git push
+          else
+            echo "Ingen ændringer."
+          fi
 
