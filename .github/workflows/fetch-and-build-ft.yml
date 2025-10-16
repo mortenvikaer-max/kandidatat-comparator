@@ -1,0 +1,97 @@
+name: Hent FT 2015/2019 fra valg.dk og byg CSV
+
+on:
+  workflow_dispatch: {}
+  # schedule:
+  #   - cron: '0 4 1 * *'   # (valgfrit) kør månedligt kl 04:00 UTC
+
+permissions:
+  contents: write
+
+jobs:
+  fetch_build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Tjek repo ud
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Installer lftp (SFTP klient)
+        run: sudo apt-get update && sudo apt-get install -y lftp
+
+      # Hent FT 2019
+      - name: Spejl FT 2019 rådata fra SFTP
+        env:
+          HOST: ${{ secrets.VALG_SFTP_HOST }}
+          USER: ${{ secrets.VALG_SFTP_USER }}
+          PASS: ${{ secrets.VALG_SFTP_PASS }}
+        run: |
+          set -e
+          mkdir -p data/raw/ft/2019
+          # Log ind og find den mappe på SFTP der indeholder "Folketingsvalg" og "2019"
+          lftp -u "$USER","$PASS" sftp://$HOST -e "
+            set net:timeout 20; set net:max-retries 2; set sftp:auto-confirm yes;
+            cls -1 | grep -i 'Folketingsvalg' | grep -E '2019' > /tmp/dirs19.txt;
+            test -s /tmp/dirs19.txt || (echo 'Kunne ikke finde FT2019 mappe på SFTP' && exit 1);
+            set mydir (cat /tmp/dirs19.txt | head -n1);
+            echo 'Valgt 2019 mappe: ' \${mydir};
+            mirror -c --verbose \${mydir}/Valgresultater         data/raw/ft/2019/Valgresultater;
+            mirror -c --verbose \${mydir}/Kandidatdata           data/raw/ft/2019/Kandidatdata || true;
+            mirror -c --verbose \${mydir}/Valggeografi           data/raw/ft/2019/Valggeografi;
+            mirror -c --verbose \${mydir}/Partistemmefordeling   data/raw/ft/2019/Partistemmefordeling || true;
+            bye
+          "
+
+      # Hent FT 2015
+      - name: Spejl FT 2015 rådata fra SFTP
+        env:
+          HOST: ${{ secrets.VALG_SFTP_HOST }}
+          USER: ${{ secrets.VALG_SFTP_USER }}
+          PASS: ${{ secrets.VALG_SFTP_PASS }}
+        run: |
+          set -e
+          mkdir -p data/raw/ft/2015
+          lftp -u "$USER","$PASS" sftp://$HOST -e "
+            set net:timeout 20; set net:max-retries 2; set sftp:auto-confirm yes;
+            cls -1 | grep -i 'Folketingsvalg' | grep -E '2015' > /tmp/dirs15.txt;
+            test -s /tmp/dirs15.txt || (echo 'Kunne ikke finde FT2015 mappe på SFTP' && exit 1);
+            set mydir (cat /tmp/dirs15.txt | head -n1);
+            echo 'Valgt 2015 mappe: ' \${mydir};
+            mirror -c --verbose \${mydir}/Valgresultater         data/raw/ft/2015/Valgresultater;
+            mirror -c --verbose \${mydir}/Kandidatdata           data/raw/ft/2015/Kandidatdata || true;
+            mirror -c --verbose \${mydir}/Valggeografi           data/raw/ft/2015/Valggeografi;
+            mirror -c --verbose \${mydir}/Partistemmefordeling   data/raw/ft/2015/Partistemmefordeling || true;
+            bye
+          "
+
+      - name: Vis rå filer (hurtigt overblik)
+        run: |
+          echo "== RAW 2019 ==" && find data/raw/ft/2019 -maxdepth 2 -type f | sort | head -n 40 || true
+          echo "== RAW 2015 ==" && find data/raw/ft/2015 -maxdepth 2 -type f | sort | head -n 40 || true
+
+      - name: Sæt op Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Byg CSV’er (JSON -> CSV i dit format)
+        run: node scripts/build-ft-csv.mjs
+
+      - name: Vis genererede CSV’er
+        run: |
+          echo "== CSV 2019 ==" && find data/ft/2019 -maxdepth 2 -type f -name "*.csv" | sort | head -n 40 || true
+          echo "== CSV 2015 ==" && find data/ft/2015 -maxdepth 2 -type f -name "*.csv" | sort | head -n 40 || true
+
+      - name: Commit & push ændringer
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@users.noreply.github.com"
+          if [ -n "$(git status --porcelain)" ]; then
+            git add -A
+            git commit -m "chore(data): hent FT 2015/2019 fra valg.dk og byg CSV"
+            git push
+          else
+            echo "Ingen ændringer at committe."
+          fi
