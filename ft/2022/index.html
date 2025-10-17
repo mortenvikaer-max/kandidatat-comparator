@@ -139,6 +139,7 @@
 <script>
 /* ====== DATA-STI (FT 2022) ====== */
 const BASE_PATH = '../../data/ft/2022/';
+const KREDS_ALL_VALUE = "__ALL__";
 
 /* Storkredse */
 const STORKREDSE = [
@@ -204,7 +205,8 @@ window.addEventListener("DOMContentLoaded", ()=>{
   const p=new URLSearchParams(location.search), s=p.get("storkreds"), k=p.get("kreds");
   if(s && STORKREDSE.includes(s)){
     el("storkredsSelect").value=s; populateKredse(s);
-    if(k && (KREDS_BY_STORKREDS[s]||[]).includes(k)){ el("kredsSelect").value=k; loadKredsData(s,k); }
+    if(k===KREDS_ALL_VALUE){ el("kredsSelect").value=KREDS_ALL_VALUE; state.kreds=KREDS_ALL_VALUE; loadStorkredsData(s); updateAddKredsUIState(); }
+    else if(k && (KREDS_BY_STORKREDS[s]||[]).includes(k)){ el("kredsSelect").value=k; loadKredsData(s,k); updateAddKredsUIState(); }
   }
   el("btnClearAll")?.addEventListener('click', ()=>{ state.selected.clear(); renderAll(); });
   document.addEventListener('click',(e)=>{ const box=el('partyCombo'); if(box && !box.contains(e.target)) closePartyMenu(); });
@@ -219,7 +221,7 @@ function initStorkredsDropdown(){
   ssel.innerHTML = `<option value="">Vælg storkreds…</option>` + STORKREDSE.map(s=>`<option value="${s}">${s}</option>`).join("");
   ssel.onchange = ()=>{
     const s=ssel.value; state.storkreds=s; state.kreds=""; state.activeParty=""; clearAll();
-    state.selectedKredse.clear(); renderExtraKredsChips();
+    state.selectedKredse.clear(); renderExtraKredsChips(); updateAddKredsUIState();
     if(s){ const u=new URL(location.href); u.searchParams.set("storkreds",s); u.searchParams.delete("kreds"); history.replaceState({}, "", u); populateKredse(s); }
   };
   el("kredsSelect").disabled=true;
@@ -230,16 +232,37 @@ function populateKredse(storkreds){
   const ksel = el("kredsSelect");
   if(ks.length){
     ksel.disabled=false;
-    ksel.innerHTML = `<option value="">Vælg kreds…</option>` + ks.map(k=>`<option value="${k}">${k}</option>`).join("");
+    // Tilføj “Alle kredse i storkredsen”
+    const allOpt = `<option value="${KREDS_ALL_VALUE}">Alle kredse i storkredsen</option>`;
+    ksel.innerHTML = `<option value="">Vælg kreds…</option>${allOpt}` + ks.map(k=>`<option value="${k}">${k}</option>`).join("");
     ksel.onchange = ()=>{
-      const k=ksel.value; state.kreds=k; state.activeParty=""; clearAll();
+      const v=ksel.value;
+      state.activeParty=""; clearAll();
       state.selectedKredse.clear(); renderExtraKredsChips();
-      if(k){ const u=new URL(location.href); u.searchParams.set("storkreds",storkreds); u.searchParams.set("kreds",k); history.replaceState({}, "", u); loadKredsData(storkreds,k); }
+
+      if(v===KREDS_ALL_VALUE){
+        state.kreds=KREDS_ALL_VALUE;
+        const u=new URL(location.href); u.searchParams.set("storkreds",storkreds); u.searchParams.set("kreds",KREDS_ALL_VALUE); history.replaceState({}, "", u);
+        loadStorkredsData(storkreds);
+      }else if(v){
+        state.kreds=v;
+        const u=new URL(location.href); u.searchParams.set("storkreds",storkreds); u.searchParams.set("kreds",v); history.replaceState({}, "", u);
+        loadKredsData(storkreds,v);
+      }
+      updateAddKredsUIState();
     };
   }else{
     ksel.disabled=true; ksel.innerHTML=`<option value="">(Ingen kredsvalg – viser hele storkredsen)</option>`;
     loadStorkredsData(storkreds);
+    updateAddKredsUIState();
   }
+}
+
+function updateAddKredsUIState(){
+  const btn = el("btnAddKreds");
+  // Når hele storkredsen er valgt, giver ekstra-kreds ingen mening (ville give dobbeltoptælling)
+  const disable = !state.storkreds || state.kreds===KREDS_ALL_VALUE || !state.kreds;
+  if(btn){ btn.disabled = disable; btn.title = disable ? "Tilføjelse af kredse er ikke tilgængelig, når alle kredse er valgt." : ""; }
 }
 
 function clearAll(){
@@ -358,7 +381,7 @@ async function loadRowsForKreds(storkreds, kreds){
 }
 
 /* Efter data indlæst */
-function afterDataLoaded(){ state.activeParty=""; renderPartyCombobox(); renderAll(); }
+function afterDataLoaded(){ state.activeParty=""; renderPartyCombobox(); renderAll(); updateAddKredsUIState(); }
 
 /* Parti-stats (bruger aktive rækker) */
 function detectPartyLetter(parti, rowsForParti){
