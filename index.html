@@ -35,20 +35,6 @@
     }
     .vb-yearbtn:hover{ background:#f3f4f6; }
     .vb-yearbtn[aria-disabled="true"]{ opacity:.6; cursor:not-allowed; }
-
-    .vb-live-pill{
-      display:inline-flex;
-      align-items:center;
-      gap:.35rem;
-      padding:.15rem .55rem;
-      border-radius:9999px;
-      background:rgba(16,185,129,.1);
-      color:#047857;
-      font-size:.75rem;
-      font-weight:600;
-      text-transform:uppercase;
-      letter-spacing:.05em;
-    }
   </style>
 </head>
 
@@ -66,31 +52,6 @@
 
   <!-- INDHOLD -->
   <main class="mx-auto max-w-5xl p-4 md:p-6 space-y-4">
-
-    <!-- LIVE-BOKS -->
-    <section id="liveBox"
-             class="vb-row border-l-4 border-emerald-500/80 bg-emerald-50/60 px-4 md:px-5 py-4 hidden">
-      <div class="flex flex-col gap-3 md:flex-row md:items-center md:justify-between">
-        <div>
-          <div class="vb-live-pill">
-            <span class="inline-block w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></span>
-            Live
-          </div>
-          <h2 class="mt-2 text-base md:text-lg font-semibold text-emerald-900">
-            Live-resultater
-          </h2>
-          <p class="text-sm text-emerald-900/80" id="liveDescription">
-            Følg med i de valg, hvor der løbende tikker nye stemmetal ind.
-          </p>
-
-          <div class="mt-3 space-y-1 text-xs md:text-sm text-emerald-900/80">
-            <p>Der opdateres løbende stemmer for kommunal- og regionsrådsvalg</p>.
-          </div>
-        </div>
-        <div id="liveLinks" class="flex flex-col sm:flex-row gap-2 md:gap-3 mt-3 md:mt-0"></div>
-      </div>
-    </section>
-
     <!-- LISTE MED VALG -->
     <section id="list" class="space-y-3">
       <!-- Rækker indsprøjtes af JS -->
@@ -118,22 +79,6 @@
 
   <script>
     /* ====== KONFIG ====== */
-
-    // Live-konfiguration
-    const LIVE = [
-      {
-        type: 'kv',
-        year: 2025,
-        title: 'Kommunalvalg 2025',
-        href: 'kv/2025/'
-      },
-      {
-        type: 'rv',
-        year: 2025,
-        title: 'Regionsrådsvalg 2025',
-        href: 'rv/2025/'
-      }
-    ];
 
     const YEARS = {
       // FT: 2007, 2011, 2015, 2019, 2022 (2005 fjernet)
@@ -243,38 +188,6 @@
       `;
       root.appendChild(article);
     });
-
-    // Byg LIVE-boks ud fra LIVE-konfiguration
-    (function renderLiveBox(){
-      const liveRoot = document.getElementById('liveBox');
-      const liveLinks = document.getElementById('liveLinks');
-      if (!liveRoot || !liveLinks) return;
-
-      const activeLive = (LIVE || []).filter(item => !!item && !!item.href);
-      if (!activeLive.length) return;
-
-      liveRoot.classList.remove('hidden');
-
-      if (activeLive.length === 1) {
-        const d = document.getElementById('liveDescription');
-        if (d) {
-          d.textContent = `Følg med i ${activeLive[0].title} – tal opdateres løbende.`;
-        }
-      }
-
-      activeLive.forEach(item => {
-        const a = document.createElement('a');
-        a.href = item.href;
-        a.className = 'inline-flex items-center justify-center rounded-full border border-emerald-600 bg-emerald-600 px-4 py-2 text-sm font-semibold text-white shadow-sm hover:bg-emerald-700 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-emerald-600';
-        a.innerHTML = `
-          <span>${item.title}</span>
-          <svg class="ml-2 h-4 w-4" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-            <path d="M7 5l6 5-6 5V5z" />
-          </svg>
-        `;
-        liveLinks.appendChild(a);
-      });
-    })();
 
     /* ====== INTERAKTION ====== */
     root.addEventListener('click', (e)=>{
